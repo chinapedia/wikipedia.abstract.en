@@ -1,1 +1,0 @@
-The 2016–17 NCAA DIVISION I WOMEN'S BASKETBALL SEASON began on November 11, 2016 and ended with the Final Four title game in Dallas on April 2, 2017, won by South Carolina. Practices officially began on September 30, 2016.

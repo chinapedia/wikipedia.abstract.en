@@ -18,7 +18,7 @@ History
 
 Prehistoric period
 
-IVC_Map.png in pre-modern Pakistan and India 3000 BC]] Mohenjo-daro_Priesterkönig.jpeg, more than 4000 years old, in the National Museum of Pakistan, Karachi]] Mohenjodaro_Sindh.jpeg, Sindh, Pakistan]] Sindh's first known village settlements date as far back as 7000 BCE. Permanent settlements at Mehrgarh, currently in Balochistan, to the west expanded into Sindh. This culture blossomed over several millennia and gave rise to the Indus Valley Civilization around 3000 BCE. The Indus Valley Civilization rivalled the contemporary civilizations of Ancient Egypt and Mesopotamia in size and scope, numbering nearly half a million inhabitants at its height with well-planned grid cities and sewer systems.
+in pre-modern Pakistan and India 3000 BC]] , more than 4000 years old, in the National Museum of Pakistan, Karachi]] , Sindh, Pakistan]] Sindh's first known village settlements date as far back as 7000 BCE. Permanent settlements at Mehrgarh, currently in Balochistan, to the west expanded into Sindh. This culture blossomed over several millennia and gave rise to the Indus Valley Civilization around 3000 BCE. The Indus Valley Civilization rivalled the contemporary civilizations of Ancient Egypt and Mesopotamia in size and scope, numbering nearly half a million inhabitants at its height with well-planned grid cities and sewer systems.
 
 The primitive village communities in Balochistan were still struggling against a difficult highland environment, a highly cultured people were trying to assert themselves at Kot Diji. This was one of the most developed urban civilizations of the ancient world. It flourished between the 25th century BCE and 1500 BCE in the Indus valley sites of Mohenjo Daro and Harappa. The people had a high standard of art and craftsmanship and a well-developed system of quasi-pictographic writing which remains un-deciphered. The ruins of the well planned towns, the brick buildings of the common people, roads, public baths and the covered drainage system suggest a highly organized community.[14]
 
@@ -40,8 +40,6 @@ Afterwards, Sindh came under the rule of Emperor Harshavardhan, then the Rai Dyn
 
 Arrival of Islam
 
-Arabsumf1.png Map_of_expansion_of_Caliphate.svg
-
 The connection between the Sind and Islam was established by the initial Muslim missions during the Rashidun Caliphate. Al-Hakim ibn Jabalah al-Abdi, who attacked Makran in the year 649 AD, was an early partisan of Ali ibn Abu Talib.[23] During the caliphate of Ali, many Jats of Sindh had came under influence of Shi'ism[24] and some even participated in the Battle of Camel and died fighting for Ali.[25] Under the Umayyads (661 – 750 AD), many Shias sought asylum in the region of Sindh, to live in relative peace in the remote area. Ziyad Hindi is one of those refugees.[26]
 
 Muhammad Ali Jinnah claimed that the Pakistan movement started when the first Muslim put his foot on the soil of Sindh, the Gateway of Islam in India.[27]
@@ -60,7 +58,7 @@ When the Soomro dynasty lost ties with the Abbasid Caliphate after the Siege of 
 
 Samma Dynasty period
 
-View_of_Makli_by_Usman_Ghani.jpg is one of the largest necropolises in the world.]] In 1339 Jam Unar founded a Sindhi Muslim Rajput Samma Dynasty and challenged the Sultans of Delhi. He used the title of the _Sultan of Sindh_. The Samma tribe reached its peak during the reign of Jam Nizamuddin II (also known by the nickname Jám Nindó). During his reign from 1461 to 1509, Nindó greatly expanded the new capital of Thatta and its Makli hills, which replaced Debal. He patronized Sindhi art, architecture and culture. The Samma had left behind a popular legacy especially in architecture, music and art. Important court figures included the poet Kazi Kadal, Sardar Darya Khan, Moltus Khan, Makhdoom Bilawal and the theologian Kazi Kaadan. However, Thatta was a port city; unlike garrison towns, it could not mobilize large armies against the Arghun and Tarkhan Mongol invaders, who killed many regional Sindhi Mirs and Amirs loyal to the Samma. Some parts of Sindh still remained under the Sultans of Delhi and the ruthless Arghuns and the Tarkhans sacked Thatta during the rule of Jam Ferozudin.
+is one of the largest necropolises in the world.]] In 1339 Jam Unar founded a Sindhi Muslim Rajput Samma Dynasty and challenged the Sultans of Delhi. He used the title of the _Sultan of Sindh_. The Samma tribe reached its peak during the reign of Jam Nizamuddin II (also known by the nickname Jám Nindó). During his reign from 1461 to 1509, Nindó greatly expanded the new capital of Thatta and its Makli hills, which replaced Debal. He patronized Sindhi art, architecture and culture. The Samma had left behind a popular legacy especially in architecture, music and art. Important court figures included the poet Kazi Kadal, Sardar Darya Khan, Moltus Khan, Makhdoom Bilawal and the theologian Kazi Kaadan. However, Thatta was a port city; unlike garrison towns, it could not mobilize large armies against the Arghun and Tarkhan Mongol invaders, who killed many regional Sindhi Mirs and Amirs loyal to the Samma. Some parts of Sindh still remained under the Sultans of Delhi and the ruthless Arghuns and the Tarkhans sacked Thatta during the rule of Jam Ferozudin.
 
 Migration of Baloch
 
@@ -94,7 +92,7 @@ According to Nadeem Wagan, General Manager at HANDS,The Talpur tribe migrated fr
 
 British Raj
 
-Bombay_Prov_1909.jpg in 1909.]] In 1802, when Mir Ghulam Ali Khan Talpur succeeded as the Talpur Nawab, internal tensions broke out in the state. As a result, the following year the Maratha Empire declared war on Sindh and Berar Subah, during which Arthur Wellesley took a leading role causing much early suspicion between the Emirs of Sindh and the British Empire.[56] The British East India Company made its first contacts in the Sindhi port city of Thatta, which according to a report was:
+in 1909.]] In 1802, when Mir Ghulam Ali Khan Talpur succeeded as the Talpur Nawab, internal tensions broke out in the state. As a result, the following year the Maratha Empire declared war on Sindh and Berar Subah, during which Arthur Wellesley took a leading role causing much early suspicion between the Emirs of Sindh and the British Empire.[56] The British East India Company made its first contacts in the Sindhi port city of Thatta, which according to a report was:
 
   "a city as large as London containing 50,000 houses which were made of stone and mortar with large verandahs some three or four stories high ... the city has 3,000 looms ... the textiles of Sindh were the flower of the whole produce of the East, the international commerce of Sindh gave it a place among that of Nations, Thatta has 400 schools and 4,000 Dhows at its docks, the city is guarded by well armed Sepoys".
 
@@ -173,17 +171,17 @@ Only 7.3% of people Karachi's residents are Sindhi-speaking. Karachi is populate
 
 Geography and nature
 
-Manora_Beach_1100641.JPG Sindh is in the western corner of South Asia, bordering the Iranian plateau in the west. Geographically it is the third largest province of Pakistan, stretching about from north to south and (extreme) or (average) from east to west, with an area of of Pakistani territory. Sindh is bounded by the Thar Desert to the east, the Kirthar Mountains to the west and the Arabian Sea in the south. In the centre is a fertile plain along the Indus River.
+Sindh is in the western corner of South Asia, bordering the Iranian plateau in the west. Geographically it is the third largest province of Pakistan, stretching about from north to south and (extreme) or (average) from east to west, with an area of of Pakistani territory. Sindh is bounded by the Thar Desert to the east, the Kirthar Mountains to the west and the Arabian Sea in the south. In the centre is a fertile plain along the Indus River.
 
 Flora
 
-Blackbuck1-Kirthar_National_Park.jpg in Kirthar National Park]] The province is mostly arid with scant vegetation except for the irrigated Indus Valley. The dwarf palm, _Acacia Rupestris_ (kher), and _Tecomella undulata_ (lohirro) trees are typical of the western hill region. In the Indus valley, the _Acacia nilotica_ (babul) (babbur) is the most dominant and occurs in thick forests along the Indus banks. The _Azadirachta indica_ (neem) (nim), _Zizyphys vulgaris_ (bir) (ber), _Tamarix orientalis_ (jujuba lai) and _Capparis aphylla_ (kirir) are among the more common trees.
+in Kirthar National Park]] The province is mostly arid with scant vegetation except for the irrigated Indus Valley. The dwarf palm, _Acacia Rupestris_ (kher), and _Tecomella undulata_ (lohirro) trees are typical of the western hill region. In the Indus valley, the _Acacia nilotica_ (babul) (babbur) is the most dominant and occurs in thick forests along the Indus banks. The _Azadirachta indica_ (neem) (nim), _Zizyphys vulgaris_ (bir) (ber), _Tamarix orientalis_ (jujuba lai) and _Capparis aphylla_ (kirir) are among the more common trees.
 
 Mango, date palms and the more recently introduced banana, guava, orange and chiku are the typical fruit-bearing trees. The coastal strip and the creeks abound in semi-aquatic and aquatic plants and the inshore Indus delta islands have forests of _Avicennia tomentosa_ (timmer) and _Ceriops candolleana_ (chaunir) trees. Water lilies grow in abundance in the numerous lake and ponds, particularly in the lower Sindh region.
 
 Fauna
 
-Schnabeldelphin-drawing.jpg Among the wild animals, the Sindh ibex (sareh), blackbuck, wild sheep (Urial or gadh) and wild bear are found in the western rocky range. The leopard is now rare and the Asiatic cheetah extinct. The Pirrang (large tiger cat or fishing cat) of the eastern desert region is also disappearing. Deer occur in the lower rocky plains and in the eastern region, as do the striped hyena (charakh), jackal, fox, porcupine, common gray mongoose and hedgehog. The Sindhi phekari, red lynx or Caracal cat, is found in some areas. Phartho (hog deer) and wild bear occur, particularly in the central inundation belt. There are bats, lizards and reptiles, including the cobra, lundi (viper) and the mysterious Sindh krait of the Thar region, which is supposed to suck the victim's breath in his sleep. Some unusual sightings of Asian cheetah occurred in 2003 near the Balochistan border in Kirthar Mountains. The rare houbara bustard find Sindh's warm climate suitable to rest and mate. Unfortunately, it is hunted by locals and foreigners.
+Among the wild animals, the Sindh ibex (sareh), blackbuck, wild sheep (Urial or gadh) and wild bear are found in the western rocky range. The leopard is now rare and the Asiatic cheetah extinct. The Pirrang (large tiger cat or fishing cat) of the eastern desert region is also disappearing. Deer occur in the lower rocky plains and in the eastern region, as do the striped hyena (charakh), jackal, fox, porcupine, common gray mongoose and hedgehog. The Sindhi phekari, red lynx or Caracal cat, is found in some areas. Phartho (hog deer) and wild bear occur, particularly in the central inundation belt. There are bats, lizards and reptiles, including the cobra, lundi (viper) and the mysterious Sindh krait of the Thar region, which is supposed to suck the victim's breath in his sleep. Some unusual sightings of Asian cheetah occurred in 2003 near the Balochistan border in Kirthar Mountains. The rare houbara bustard find Sindh's warm climate suitable to rest and mate. Unfortunately, it is hunted by locals and foreigners.
 
 Crocodiles are rare and inhabit only the backwaters of the Indus, eastern Nara channel and Karachi backwater. Besides a large variety of marine fish, the plumbeous dolphin, the beaked dolphin, rorqual or blue whale and skates frequent the seas along the Sindh coast. The Pallo (Sable fish), a marine fish, ascends the Indus annually from February to April to spawn. The Indus river dolphin is among the most endangered species in Pakistan and is found in the part of the Indus river in northern Sindh. Hog deer and wild bear occur, particularly in the central inundation belt.
 
@@ -191,7 +189,7 @@ Although Sindh has a semi arid climate, through its coastal and riverine forests
 
 Climate
 
-Ayub.jpg Sindh lies in a tropical to subtropical region; it is hot in the summer and mild to warm in winter. Temperatures frequently rise above between May and August, and the minimum average temperature of occurs during December and January in the northern and higher elevated regions. The annual rainfall averages about seven inches, falling mainly during July and August. The southwest monsoon wind begins in mid-February and continues until the end of September, whereas the cool northerly wind blows during the winter months from October to January.
+Sindh lies in a tropical to subtropical region; it is hot in the summer and mild to warm in winter. Temperatures frequently rise above between May and August, and the minimum average temperature of occurs during December and January in the northern and higher elevated regions. The annual rainfall averages about seven inches, falling mainly during July and August. The southwest monsoon wind begins in mid-February and continues until the end of September, whereas the cool northerly wind blows during the winter months from October to January.
 
 Sindh lies between the two monsoons—the southwest monsoon from the Indian Ocean and the northeast or retreating monsoon, deflected towards it by the Himalayan mountains—and escapes the influence of both. The region's scarcity of rainfall is compensated by the inundation of the Indus twice a year, caused by the spring and summer melting of Himalayan snow and by rainfall in the monsoon season.
 
@@ -214,11 +212,11 @@ Government
 
 Sindh province
 
-  PROVINCIAL ANIMAL   Sindh ibex        Capra_ibex_ibex_–_03.jpg
-  ------------------- ----------------- -------------------------------------------
+  PROVINCIAL ANIMAL   Sindh ibex
+  ------------------- ----------------- --
   PROVINCIAL BIRD     Black partridge
-  PROVINCIAL FLOWER   Nerium (common)   Nerium_oleander_flowers_leaves.jpg
-  PROVINCIAL TREE     Neem Tree         Acacia_nilotica_subsp._cupressiformis.jpg
+  PROVINCIAL FLOWER   Nerium (common)
+  PROVINCIAL TREE     Neem Tree
 
   : Provincial symbols of Sindh[92][93][94]
 
@@ -238,73 +236,73 @@ Karachi district has been de-merged into its five original constituent districts
 
 Districts
 
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| Map                 | Sr. No.                                  | District            | Headquarters | Area (km²) | Population  | Density      |
-|                     |                                          |                     |              |            | (in 2017)   | (people/km²) |
-+=====================+==========================================+=====================+==============+============+=============+==============+
-| Sindh_Districts.svg | 1                                        | Badin               | Badin        | 6,470      | 1,804,516   | 279          |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 2                   | Dadu                                     | Dadu                | 8,034        | 1,550,266  | 193         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 3                   | Ghotki                                   | Mirpur Mathelo      | 6,506        | 1,647,239  | 253         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 4                   | Hyderabad                                | Hyderabad           | 1,022        | 2,201,079  | 2,155       |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 5                   | Jacobabad                                | Jacobabad           | 2,771        | 1,006,297  | 363         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 6                   | Jamshoro                                 | Jamshoro            | 11,250       | 993,142    | 88          |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 7                   | Karachi Central                          | Karachi             | 62           | 2,972,639  | 48,336      |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 8                   | Kashmore (formerly Kandhkot)             | Kashmore            | 2,551        | 1,089,169  | 427         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 9                   | Khairpur                                 | Khairpur            | 15,925       | 2,405,523  | 151         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 10                  | Larkana                                  | Larkana             | 1,906        | 1,524,391  | 800         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 11                  | Matiari                                  | Matiari             | 1,459        | 769,349    | 527         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 12                  | Mirpur Khas                              | Mirpur Khas         | 3,319        | 1,505,876  | 454         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 13                  | Naushahro Firoze                         | Naushahro Feroze    | 2,027        | 1,612,373  | 369         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 14                  | Shaheed Benazirabad (formerly Nawabshah) | Nawabshah           | 4,618        | 1,612,847  | 349         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 15                  | Qambar Shahdadkot                        | Qambar              | 5,599        | 1,341,042  | 240         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 16                  | Sanghar                                  | Sanghar             | 10,259       | 2,057,057  | 200         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 17                  | Shikarpur                                | Shikarpur           | 2,577        | 1,231,481  | 478         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 18                  | Sukkur                                   | Sukkur              | 5,216        | 1,487,903  | 285         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 19                  | Tando Allahyar                           | Tando Allahyar      | 1,573        | 836,887    | 532         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 20                  | Tando Muhammad Khan                      | Tando Muhammad Khan | 1,814        | 677,228    | 373         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 21                  | Tharparkar                               | Mithi               | 19,808       | 1,649,661  | 83          |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 22                  | Thatta                                   | Thatta              | 7,705        | 979,817    | 127         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 23                  | Umerkot                                  | Umerkot             | 5,503        | 1,073,146  | 195         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 24 (22)             | Sujawal                                  | Sujawal             | 8,699        | 781,967    | 90          |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 25 (7)              | Karachi East                             | Karachi             | 165          | 2,909,921  | 17,625      |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 26 (7)              | Karachi South                            | Karachi             | 85           | 1,791,751  | 21,079      |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 27 (7)              | Karachi West                             | Karachi             | 630          | 3,914,757  | 6,212       |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 28 (7)              | Korangi                                  | Karachi             | 95           | 2,457,019  | 25,918      |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
-| 29 (7)              | Malir                                    | Karachi             | 2,635        | 2,008,901  | 762         |              |
-+---------------------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| Map     | Sr. No.                                  | District            | Headquarters | Area (km²) | Population  | Density      |
+|         |                                          |                     |              |            | (in 2017)   | (people/km²) |
++=========+==========================================+=====================+==============+============+=============+==============+
+|         | 1                                        | Badin               | Badin        | 6,470      | 1,804,516   | 279          |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 2       | Dadu                                     | Dadu                | 8,034        | 1,550,266  | 193         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 3       | Ghotki                                   | Mirpur Mathelo      | 6,506        | 1,647,239  | 253         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 4       | Hyderabad                                | Hyderabad           | 1,022        | 2,201,079  | 2,155       |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 5       | Jacobabad                                | Jacobabad           | 2,771        | 1,006,297  | 363         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 6       | Jamshoro                                 | Jamshoro            | 11,250       | 993,142    | 88          |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 7       | Karachi Central                          | Karachi             | 62           | 2,972,639  | 48,336      |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 8       | Kashmore (formerly Kandhkot)             | Kashmore            | 2,551        | 1,089,169  | 427         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 9       | Khairpur                                 | Khairpur            | 15,925       | 2,405,523  | 151         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 10      | Larkana                                  | Larkana             | 1,906        | 1,524,391  | 800         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 11      | Matiari                                  | Matiari             | 1,459        | 769,349    | 527         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 12      | Mirpur Khas                              | Mirpur Khas         | 3,319        | 1,505,876  | 454         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 13      | Naushahro Firoze                         | Naushahro Feroze    | 2,027        | 1,612,373  | 369         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 14      | Shaheed Benazirabad (formerly Nawabshah) | Nawabshah           | 4,618        | 1,612,847  | 349         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 15      | Qambar Shahdadkot                        | Qambar              | 5,599        | 1,341,042  | 240         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 16      | Sanghar                                  | Sanghar             | 10,259       | 2,057,057  | 200         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 17      | Shikarpur                                | Shikarpur           | 2,577        | 1,231,481  | 478         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 18      | Sukkur                                   | Sukkur              | 5,216        | 1,487,903  | 285         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 19      | Tando Allahyar                           | Tando Allahyar      | 1,573        | 836,887    | 532         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 20      | Tando Muhammad Khan                      | Tando Muhammad Khan | 1,814        | 677,228    | 373         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 21      | Tharparkar                               | Mithi               | 19,808       | 1,649,661  | 83          |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 22      | Thatta                                   | Thatta              | 7,705        | 979,817    | 127         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 23      | Umerkot                                  | Umerkot             | 5,503        | 1,073,146  | 195         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 24 (22) | Sujawal                                  | Sujawal             | 8,699        | 781,967    | 90          |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 25 (7)  | Karachi East                             | Karachi             | 165          | 2,909,921  | 17,625      |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 26 (7)  | Karachi South                            | Karachi             | 85           | 1,791,751  | 21,079      |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 27 (7)  | Karachi West                             | Karachi             | 630          | 3,914,757  | 6,212       |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 28 (7)  | Korangi                                  | Karachi             | 95           | 2,457,019  | 25,918      |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
+| 29 (7)  | Malir                                    | Karachi             | 2,635        | 2,008,901  | 762         |              |
++---------+------------------------------------------+---------------------+--------------+------------+-------------+--------------+
 
 
 Economy
 
-_Karachi_downtown.jpeg GDP_by_Province.jpg Qayoom_Abad_Bridge.JPG Navalrai_Market_Clock_Tower_view_1.JPG Sindh has the second largest economy in Pakistan. A 2016 study commissioned by Pakistan Ministry of Planning found that urban Sindh and northern Punjab province are the most prosperous regions in Pakistan.[106] Its GDP per capita was $1,400 in 2010 which is 50 percent more than the rest of the nation or 35 percent more than the national average. Historically, Sindh's contribution to Pakistan's GDP has been between 30% to 32.7%. Its share in the service sector has ranged from 21% to 27.8% and in the agriculture sector from 21.4% to 27.7%. Performance wise, its best sector is the manufacturing sector, where its share has ranged from 36.7% to 46.5%.
+Sindh has the second largest economy in Pakistan. A 2016 study commissioned by Pakistan Ministry of Planning found that urban Sindh and northern Punjab province are the most prosperous regions in Pakistan.[106] Its GDP per capita was $1,400 in 2010 which is 50 percent more than the rest of the nation or 35 percent more than the national average. Historically, Sindh's contribution to Pakistan's GDP has been between 30% to 32.7%. Its share in the service sector has ranged from 21% to 27.8% and in the agriculture sector from 21.4% to 27.7%. Performance wise, its best sector is the manufacturing sector, where its share has ranged from 36.7% to 46.5%.
 
 Endowed with coastal access, Sindh is a major centre of economic activity in Pakistan and has a highly diversified economy ranging from heavy industry and finance centred in Karachi to a substantial agricultural base along the Indus. Manufacturing includes machine products, cement, plastics, and other goods.
 
@@ -313,7 +311,7 @@ Agriculture is very important in Sindh with cotton, rice, wheat, sugar cane, dat
 
 Education
 
-429068485_5f192dcf9f_o.jpg Hindu_Gymkhana_Karachi.jpeg, Karachi]]
+, Karachi]]
 
   Year   Literacy rate
   ------ ---------------
@@ -429,19 +427,17 @@ Major public and private educational institutes in Sindh include:
 
 Culture
 
-Children_in_a_village,_Sindh,_Pakistan,_April_2012_(8405077775).jpg The rich culture, art and architectural landscape of Sindh have fascinated historians. The culture, folktales, art and music of Sindh form a mosaic of human history.[110]
+The rich culture, art and architectural landscape of Sindh have fascinated historians. The culture, folktales, art and music of Sindh form a mosaic of human history.[110]
 
 Cultural heritage
 
-Archaeological_Ruins_at_Moenjodaro-108221.jpg]] Bhambore1.JPG]] Women_in_Sindh.jpg
+]] ]]
 
 Sindh has a rich heritage of traditional handicraft that has evolved over the centuries. Perhaps the most professed exposition of Sindhi culture is in the handicrafts of Hala, a town some 30 kilometres from Hyderabad. Hala's artisans manufacture high-quality and impressively priced wooden handicrafts, textiles, paintings, handmade paper products, and blue pottery. Lacquered wood works known as Jandi, painting on wood, tiles, and pottery known as Kashi, hand weaved textiles including _khadi_, _susi_, and _ajraks_ are synonymous with Sindhi culture preserved in Hala's handicraft.
 
 The work of Sindhi artisans was sold in ancient markets of Damascus, Baghdad, Basra, Istanbul, Cairo and Samarkand. Referring to the lacquer work on wood locally known as Jandi, T. Posten (an English traveller who visited Sindh in the early 19th century) asserted that the articles of Hala could be compared with exquisite specimens of China. Technological improvements such as the spinning wheel (charkha) and treadle (pai-chah) in the weaver's loom were gradually introduced and the processes of designing, dyeing and printing by block were refined. The refined, lightweight, colourful, washable fabrics from Hala became a luxury for people used to the woollens and linens of the age.[111]
 
 Non-governmental organisations (NGOs) such as the World Wildlife Fund, Pakistan, play an important role to promote the culture of Sindh. They provide training to women artisans in the interior of Sindh so they get a source of income. They promote their products under the name of "Crafts Forever". Many women in rural Sindh are skilled in the production of caps. Sindhi caps are manufactured commercially on a small scale at New Saeedabad and Hala New. These are in demand with visitors from Karachi and other places; however, these manufacturing units have a limited production capacity. Sindhi people began celebrating Sindhi Topi Day on December 6, 2009, to preserve the historical culture of Sindh by wearing Ajrak and Sindhi topi.[112]
-
-House_in_the_Thar.JPG
 
 
 Places of interest

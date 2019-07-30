@@ -1,1 +1,0 @@
-KARL DÖNITZ (sometimes spelled DOENITZ ; 16 September 1891 24 December 1980) was a German admiral who played a major role in the naval history of World War II. Dönitz briefly succeeded Adolf Hitler as the head of state of Nazi Germany.

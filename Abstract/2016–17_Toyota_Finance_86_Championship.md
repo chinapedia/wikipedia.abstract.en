@@ -1,1 +1,0 @@
-The 2016–2017 TOYOTA FINANCE 86 CHAMPIONSHIP is the fourth running of the Toyota Finance 86 Championship. The championship began on 4 November 2016 at Pukekohe Park Raceway and will conclude on 12 March 2016 at Hampton Downs Motorsport Park.

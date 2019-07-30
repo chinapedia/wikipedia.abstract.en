@@ -1,1 +1,0 @@
-CARMEN VELACORACHO DE LARA (1880s–1960) was a Spanish-Cuban writer, journalist, feminist, monarchist, and women's rights activist. She was co-author of _El libro amarillo_ (_The yellow book_), a pro-feminist manifesto published in Cuba in the early 20th century, which she drafted along with her husband, landowner Pío Fernández de Lara Zalda.[1]

@@ -1,1 +1,0 @@
-_HAROLD TEEN_ is a teenage comedy old-time radio program in the United States. It was broadcast initially on WGN in Chicago, Illinois, and a decade later was heard nationally on the Mutual Broadcasting System.

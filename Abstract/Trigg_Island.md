@@ -1,1 +1,0 @@
-TRIGG ISLAND is a small "island" off the coast of the suburb of Trigg in Perth, Western Australia. It is named after Henry Stirling Trigg,[1] Superintendent of Public Works in the Colony of Western Australia from 1838 to 1851.

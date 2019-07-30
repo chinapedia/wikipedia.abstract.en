@@ -1,1 +1,0 @@
-(born January 10, 1990 in Tottori Prefecture, Japan), is a professional sumo wrestler. He debuted in sumo wrestling on January 2013 and made his _makuuchi_ debut in November 2016. His highest rank has been _maegashira_ 8, and he has one special prize for Fighting Spirit. He wrestles for Miyagino stable.

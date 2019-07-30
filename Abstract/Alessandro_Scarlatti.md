@@ -1,1 +1,0 @@
-PIETRO ALESSANDRO GASPARE SCARLATTI (2 May 1660 – 22 October 1725) was an Italian Baroque composer, known especially for his operas and chamber cantatas. He is considered the founder of the Neapolitan school of opera. He was the father of two other composers, Domenico Scarlatti and Pietro Filippo Scarlatti.[1]

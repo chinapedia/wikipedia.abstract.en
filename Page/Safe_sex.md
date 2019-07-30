@@ -1,4 +1,4 @@
-Condom_unrolled_durex.jpgs can be used to cover the penis (or fingers or other body parts) for safer sex when inserting into body cavities.]] Latex_Dental_Dam_far_(cropped).jpgs can be used to cover the vulva or anus when engaging in cunnilingus or anilingus, respectively, for safer sex.]] Female_condom.jpgs ("internal" condoms) can be used by receptive partners for safer sex.]]
+s can be used to cover the penis (or fingers or other body parts) for safer sex when inserting into body cavities.]] s can be used to cover the vulva or anus when engaging in cunnilingus or anilingus, respectively, for safer sex.]] s ("internal" condoms) can be used by receptive partners for safer sex.]]
 
 SAFE SEX is sexual activity using methods or devices (such as condoms) to reduce the risk of transmitting or acquiring sexually transmitted infections (STIs), especially HIV.[1] "Safe sex" is also sometimes referred to as SAFER SEX or PROTECTED SEX to indicate that some safe sex practices do not completely eliminate STI risks. It is also sometimes used colloquially to describe methods aimed at preventing pregnancy that may or may not also lower STI risks.
 
@@ -42,13 +42,11 @@ Sexual activities, such as phone sex, cybersex, and sexting, that do not include
 
 Non-penetrative sex
 
-PeterJohannNepomukGeigerEroticWatercolor04.jpg of manual stimulation of the penis, Johann Nepomuk Geiger, 1840]] A range of sex acts called "non-penetrative sex" or "outercourse" can significantly reduce STI risks. Non-penetrative sex includes practices such as kissing, mutual masturbation, rubbing or stroking.[15][16] According to the Health Department of Western Australia, this sexual practice may prevent pregnancy and most STIs. However, non-penetrative sex may not protect against infections that can be transmitted via skin-to-skin contact, such as herpes and human papilloma virus.[17] Mutual or partnered masturbation carries some STI risk, especially if there is skin contact or shared bodily fluids with sexual partners, although the risks are significantly lower than many other sexual activities.[18]
+of manual stimulation of the penis, Johann Nepomuk Geiger, 1840]] A range of sex acts called "non-penetrative sex" or "outercourse" can significantly reduce STI risks. Non-penetrative sex includes practices such as kissing, mutual masturbation, rubbing or stroking.[15][16] According to the Health Department of Western Australia, this sexual practice may prevent pregnancy and most STIs. However, non-penetrative sex may not protect against infections that can be transmitted via skin-to-skin contact, such as herpes and human papilloma virus.[17] Mutual or partnered masturbation carries some STI risk, especially if there is skin contact or shared bodily fluids with sexual partners, although the risks are significantly lower than many other sexual activities.[18]
 
 Condoms, dental dams, gloves
 
 Barriers, such as condoms, dental dams, and medical gloves can prevent contact with body fluids (such as blood, vaginal fluid, semen, rectal mucus), and other means of transmitting STIs (like skin, hair and shared objects) during sexual activity.
-
-How_To_Put_on_a_Condom_graphic.png
 
 -   External condoms can be used to cover the penis, hands, fingers, or other body parts during sexual penetration or stimulation.[19] They are most frequently made of latex, and can also be made out of synthetic materials including polyurethane and polyisoprene.
 -   Internal condoms (also called female condoms) are inserted into the vagina or anus prior to sexual penetration. These condoms are made of either polyurethane or nitrile. If external and internal condoms are used at the same time, they may break due to friction between the materials during sexual activity.
@@ -119,7 +117,7 @@ When anal-oral contact occurs, protection is required since this is a risky sexu
 
 Sex toys
 
-Zwei_unterschiedliche_Butt-Plugs.jpg (note the flared bases)]] Putting a condom on a sex toy provides better sexual hygiene and can help to prevent transmission of infections if the sex toy is shared, provided the condom is replaced when used by a different partner. Some sex toys are made of porous materials, and pores retain viruses and bacteria, which makes it necessary to clean sex toys thoroughly, preferably with use of cleaners specifically for sex toys. Glass is non-porous and medical grade glass sex toys more easily sterilized between uses.[49]
+(note the flared bases)]] Putting a condom on a sex toy provides better sexual hygiene and can help to prevent transmission of infections if the sex toy is shared, provided the condom is replaced when used by a different partner. Some sex toys are made of porous materials, and pores retain viruses and bacteria, which makes it necessary to clean sex toys thoroughly, preferably with use of cleaners specifically for sex toys. Glass is non-porous and medical grade glass sex toys more easily sterilized between uses.[49]
 
 In cases in which one of the partners is treated for an STI, it is recommended that the couple not use sex toys until the treatment has proved to be effective.
 

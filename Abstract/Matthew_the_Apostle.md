@@ -1,1 +1,0 @@
-MATTHEW THE APOSTLE ( _Mattityahu_ or _Matt_, _متى_ Arabic "Gift of YHVH"; ; ; also known as SAINT MATTHEW and as LEVI) was, according to the Christian Bible, one of the twelve apostles of Jesus and, according to Christian tradition, one of the four Evangelists.

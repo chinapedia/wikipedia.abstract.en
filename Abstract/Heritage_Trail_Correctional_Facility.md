@@ -1,1 +1,0 @@
-The HERITAGE TRAIL CORRECTIONAL FACILITY is a private minimum-security state prison for men located in Plainfield, Hendricks County, Indiana, operated by the GEO Group under contract with the Indiana Department of Correction.[1]

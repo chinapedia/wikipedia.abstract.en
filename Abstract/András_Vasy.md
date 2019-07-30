@@ -1,1 +1,0 @@
-ANDRÁS VASY (born 1969 in Hungary) is an American, Hungarian mathematician working in the areas of partial differential equations, microlocal analysis, scattering theory, and inverse problems. He is currently a professor of mathematics at Stanford University.[1]

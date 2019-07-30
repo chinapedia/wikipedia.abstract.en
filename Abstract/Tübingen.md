@@ -1,1 +1,0 @@
-TÜBINGEN (, ) is a traditional university town in central Baden-Württemberg, Germany. It is situated south of the state capital, Stuttgart, on a ridge between the Neckar and Ammer rivers. [1] about one in three people living in Tübingen is a student.

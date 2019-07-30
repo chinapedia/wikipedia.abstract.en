@@ -1,1 +1,0 @@
-STUART DAVIDSON (born 3 August 1979), is a former professional footballer who is currently the manager of Largs Thistle in the Scottish Junior Football Association, West Region. He has previously played in the Scottish Premier League for Kilmarnock.

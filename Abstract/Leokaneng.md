@@ -1,1 +1,0 @@
-LEOKANENG is a large village in Moletši in the Blouberg Local Municipality of the Capricorn District Municipality of the Limpopo province of South Africa. It is located 64 km northwest of Polokwane and 39 km southeast of Senwabarwana.

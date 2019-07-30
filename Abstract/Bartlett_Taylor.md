@@ -1,1 +1,0 @@
-BARTLETT TAYLOR (February 14, 1815 – July 3, 1901) was an African Methodist Episcopal Church minister in Louisville, Kentucky. He purchased his freedom from slavery in 1840 and became missionary for the states of Kentucky and Tennessee after the American Civil War (1861-1865), in which position he founded many churches.

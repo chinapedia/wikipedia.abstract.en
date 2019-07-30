@@ -1,1 +1,0 @@
-Iced_Tea_from_flickr.jpg

@@ -1,1 +1,0 @@
-JORGE ENRIQUE GONZÁLEZ PACHECO is a Cuban poet, film industry professional, and cultural entrepreneur. He has a Bachelor's Degree in Latin American Literature from University of Havana, Cuba, and a Master's Degree in Hispanic Literature from Complutense University of Madrid, Spain.[1]

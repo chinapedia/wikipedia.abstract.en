@@ -1,1 +1,0 @@
-TIM SÖDERLUND (born 23 January 1998) is a Swedish professional ice hockey forward. He is currently under contract with the Chicago Blackhawks of the National Hockey League (NHL). He was selected by the Blackhawks in the 4th round (112th overall) of the 2017 NHL Entry Draft. He previously played with Skellefteå AIK of the Swedish Hockey League (SHL).

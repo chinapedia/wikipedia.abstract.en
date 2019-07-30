@@ -1,1 +1,0 @@
-The 1980 PROFESSIONAL TICKET EVENT was a snooker main tour qualifying event held by the WPBSA, which took place from 7 to 13 December 1980. The tournament was played at the Snooker Centre in Sheffield, Yorkshire, and featured eight amateur players who hoped to qualify to compete on the main tour as professionals for the following season.

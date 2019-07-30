@@ -1,1 +1,0 @@
-DESJARDIN is one of the longest-running French metal packaging manufacturers, founded in 1848. The company produces and exports packaging for multiple industries, including the pharmaceutical industry, the cosmetic industry or the food industry. Desjardin places emphasis on sustainable solutions for its packaging materials and its tools.[1]

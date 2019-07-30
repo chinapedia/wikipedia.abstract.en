@@ -1,1 +1,0 @@
-ABDUCTION may refer to:

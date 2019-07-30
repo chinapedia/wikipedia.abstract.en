@@ -1,1 +1,0 @@
-"COME SINFONIA" (literally "Like symphony") is a 1961 Italian song composed by Pino Donaggio. The song premiered at the 11th edition of the Sanremo Music Festival, with a double performance by Donaggio and Teddy Reno, and placed at the sixth place.[1][2] In spite of its placement, it was then referred to by several critics as the song of the year and as an instant classic.[3]

@@ -1,1 +1,0 @@
-CORCOVADO (), means "hunchback" in Portuguese,[1] is a mountain in central Rio de Janeiro, Brazil. It is a 710-metre (2,329 ft) granite peak located in the Tijuca Forest, a national park. It is sometimes confused with nearby Sugarloaf Mountain.

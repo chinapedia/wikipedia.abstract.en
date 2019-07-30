@@ -1,1 +1,0 @@
-Music_Class_at_St_Elizabeths_Orphanage_New_Orleans_1940.jpg Juilliard_Chamber_Orchestra.jpg Chamber Orchestra. While lessons are often individual (one teacher and one student), group lessons or coaching sessions are also done.]]

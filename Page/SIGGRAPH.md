@@ -1,4 +1,4 @@
-Nessie_siggraph_2007_34.jpg, presented at SIGGRAPH 2007]] SIGGRAPH_Daily_2015.webm.]]
+, presented at SIGGRAPH 2007]] .]]
 
 SIGGRAPH (Special Interest Group on Computer GRAPHics and Interactive Techniques) is the annual conference on computer graphics (CG) convened by the ACM SIGGRAPH organization. The first SIGGRAPH conference was in 1974. The conference is attended by tens of thousands of computer professionals. Past conferences have been held in Los Angeles, Dallas, New Orleans, Boston, Vancouver, and elsewhere in North America. SIGGRAPH Asia, a second yearly conference, has been held since 2008 in various Asian countries. The strength of SIGGRAPH comes from the chapters[1] set all around the world.
 

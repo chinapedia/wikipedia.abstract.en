@@ -1,1 +1,0 @@
-Major_General_Edgar_Erskine_Hume.jpg EDGAR ERSKINE HUME FRSE LLD (1889–1952) was an American Major General of Scots descent remembered as a highly senior army surgeon and as an amateur ornithologist. In 1948 he was the recipient of the Gorgas Medal.

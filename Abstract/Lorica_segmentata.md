@@ -1,1 +1,0 @@
-The _LORICA SEGMENTATA_ (segmented cuirass) is a type of personal armour used by soldiers of the Roman Empire, consisting of metal strips ("girth hoops" fashioned into circular bands), fastened to internal leather straps. The Latin name was first used in the 16th century; the ancient form is unknown.

@@ -1,1 +1,0 @@
-MIPS TECHNOLOGIES, INC., formerly MIPS COMPUTER SYSTEMS, INC., was an American fabless semiconductor design company that is most widely known for developing the MIPS architecture and a series of RISC CPU chips based on it.[1][2] MIPS provides processor architectures and cores for digital home, networking, embedded, Internet of things and mobile applications.[3][4]

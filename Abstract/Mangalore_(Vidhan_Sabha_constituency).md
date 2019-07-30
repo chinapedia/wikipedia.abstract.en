@@ -1,1 +1,0 @@
-MANGALORE CONSTITUENCY (erstwhile ULLAL) is one of the Karnataka Legislative Assembly or Vidhan Sabha constituency in Karnataka, India which belongs to Dakshina Kannada Lok Sabha constituency. Mangalore constituency along with Mangalore City South and Mangalore City North represents the Mangalore City.[1]

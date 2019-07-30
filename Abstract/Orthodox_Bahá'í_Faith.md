@@ -1,1 +1,0 @@
-The ORTHODOX BAHÁ'Í FAITH is a small Bahá'í sect that formed in 1960 by Mason Remey, and subsequently was the name used by Joel Marangella after he claimed to be Remey's successor. The basis of the dispute is over the identity of the Guardian, a term referring to the appointed head of the religion, an executive hereditary office held by Shoghi Effendi from 1921 to 1957.

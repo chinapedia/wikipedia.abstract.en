@@ -1,1 +1,0 @@
-First_Regional_Sports_Games_INAPAM.jpg

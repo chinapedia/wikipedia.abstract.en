@@ -1,1 +1,0 @@
-'''Manuela Schultealbert ''' (born 15 January 1973) is a German women's international footballer who plays as a defender. She is a member of the Germany women's national football team. She was part of the team at the UEFA Women's Euro 1993.[1]

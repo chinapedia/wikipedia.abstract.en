@@ -1,1 +1,0 @@
-RASTKO ĆIRIĆ (, , born 24 May 1955 in Belgrade) is a Serbian multimedia artist and educator. His fields of interest are graphics, illustration, logo design, ex-libris, comics, animation and music. He has won more than 70 local and international awards. He is a professor at the Faculty of Applied Arts in Belgrade.[1]

@@ -1,1 +1,0 @@
-The JOHN KEBLE CHURCH is a Church of England parish church in Mill Hill, London Borough of Barnet. The church was completed in 1936 and is of a modernist design. It is the only church dedicated to John Keble, one of the leaders of the Oxford Movement.[1][2] It is a Grade II listed building.[3]

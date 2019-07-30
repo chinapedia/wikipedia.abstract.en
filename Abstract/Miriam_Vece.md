@@ -1,1 +1,0 @@
-MIRIAM VECE (born 16 March 1997) is an Italian road and track cyclist, who currently rides for UCI Women's Team ,[1] and represents Italy at international competitions. She competed at the 2016 UEC European Track Championships in the 500m time trial event and team sprint event.[2]

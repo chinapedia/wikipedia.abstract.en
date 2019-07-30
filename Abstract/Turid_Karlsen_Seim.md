@@ -1,1 +1,0 @@
-TURID KARLSEN SEIM (8 October 1945, Bergen, Norway – 3 November 2016, Oslo) was a Norwegian doctor of theology, and, from 1991 until her death, the professor of New Testament theology at the University of Oslo.

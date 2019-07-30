@@ -1,1 +1,0 @@
-PIERRE II, lord of Urfé (_seigneur d'Urfé_) (died 10 October 1508, la Bâtie) was a French lord in the county of Forez at the end of the 15th century and the beginning of the 16th century. He fought for the French feudal lords against the king of France before changing sides to support the king. His castle was that of la Bâtie.

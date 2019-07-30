@@ -1,1 +1,0 @@
-NEBO is an unincorporated community in eastern Laclede County, in the Ozarks of southern Missouri.[1] The community lies on Missouri Route 32, approximately five miles northwest of Lynchburg and about fifteen miles southeast of Lebanon. The site is within the Mark Twain National Forest.[2]

@@ -1,1 +1,0 @@
-_JAND PASSENGER_ () is a passenger train operated daily by Pakistan Railways between Jand and Attock.[1] The trip takes approximately 1 hour and 25 minutes to cover a published distance of , traveling along a stretch of the Kotri–Attock Railway Line.

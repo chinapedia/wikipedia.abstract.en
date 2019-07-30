@@ -1,1 +1,0 @@
-HARRY SOODAK (December 24, 1920 – September 30, 2008) was an American physicist who worked on the Manhattan Project, publishing the first design of a sodium-cooled breeder reactor, and was a professor at City College of New York. Along with Arthur Iberall, Soodak developed the concept of homeokinetics to explain the functioning of complex systems.

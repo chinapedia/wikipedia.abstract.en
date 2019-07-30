@@ -1,1 +1,0 @@
-DANIEL GARBADE (born 1957 in Zurich) is a Swiss painter,[1] illustrator, art director, property master and publisher. Born in Switzerland, from Swiss-Cuban origins, grandnephew of Adrien Lachenal and great grandchild of Cuban sculptor Fernando Heydrich.

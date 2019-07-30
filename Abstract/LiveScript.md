@@ -1,1 +1,0 @@
-LIVESCRIPT is a functional programming language that compiles to JavaScript. It was created by Jeremy Ashkenas—the creator of CoffeeScript—along with Satoshi Muramaki, George Zahariev, and many others.[1] For a brief period in the 1990s, _LiveScript_ was the name of JavaScript.[2]

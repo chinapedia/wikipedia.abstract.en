@@ -1,1 +1,0 @@
-_RHOPALOCARPUS_ is a genus of plants in the family Sphaerosepalaceae. Most species are trees and all are endemic to Madagascar. The generic name is from the Greek meaning "club fruit", referring to the fruit shape.[1]

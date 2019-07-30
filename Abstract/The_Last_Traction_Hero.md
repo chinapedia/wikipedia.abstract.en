@@ -1,1 +1,0 @@
-"THE LAST TRACTION HERO" is the ninth episode of the twenty-eighth season of the animated television series _The Simpsons_, and the 605th episode of the series overall. It aired in the United States on Fox on December 4, 2016. This is the first episode where former recurring guest star Kevin Michael Richardson joined the regular supporting cast.

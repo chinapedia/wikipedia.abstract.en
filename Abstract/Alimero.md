@@ -1,1 +1,0 @@
-ALIMERO (ALIMERO.RU, styled ALIMERO) is a Russian collaborative blog with elements similar to those found in social networks. The blog contains content related to cooking recipes and DIY tutorials. It was founded in 2011 by Alexey Kravets.[1]

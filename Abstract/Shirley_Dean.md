@@ -1,1 +1,0 @@
-SHIRLEY ANN DEAN (née BRYANT, born 1935-36), considered moderate in Berkeley politics,[1] is an American politician who served as the Mayor of Berkeley, California (1994-2002). Before serving two terms as Berkeley's Mayor, Dean served on the Berkeley City Council for 15 years (1975–94)[2] and was a leader of the Berkeley Democratic Club.

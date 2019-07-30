@@ -1,1 +1,0 @@
-Mother_Mary_Teresa_Austin_Carroll.jpg MOTHER MARY TERESA AUSTIN CARROLL (born MARGARET ANNE CARROLL; pen name, AUSTIN CARROLL; 23 February 1835 – 29 November 1909)[1] was an Irish nun and writer who emigrated to the US.

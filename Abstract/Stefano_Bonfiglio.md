@@ -1,1 +1,0 @@
-STEFANO ALBERTO BONFIGLIO (born February 1964) is an Italian businessman, the co-founder and managing partner of Stirling Square Capital Partners, a London-based private equity firm that invests in companies valued between €50 million and €500 million.

@@ -1,1 +1,0 @@
-MATEO JOVER served as the Director of Research of the Interamerican Scout Office, Director of Development Education of the European Scout Office, and Director of Programme as well as Director of Prospective Studies and Documentation of the World Scout Bureau.

@@ -1,1 +1,0 @@
-MANHATTAN is an album by New York City-based anti-folk musician Jeffrey Lewis and his backing band, which is billed as Los Bolts. It was produced by Lewis himself and New York producer Brian Speaker and mixed by John Agnello.[1] It was released on October 30, 2015 on Rough Trade Records.

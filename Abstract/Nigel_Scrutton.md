@@ -1,1 +1,0 @@
-NIGEL SHAUN SCRUTTON (born 2 April 1964) FRSB FRSC is a British biochemist known for his work on enzyme catalysis and biophysics. He is Director of the Manchester Institute of Biotechnology (MIB), a post he has held since 2010,[1] and Professor of Enzymology and Biophysical Chemistry in the School of Chemistry at the University of Manchester.[2]

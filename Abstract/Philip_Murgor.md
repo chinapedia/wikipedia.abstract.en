@@ -1,1 +1,0 @@
-PHILIP KIPCHIRCHIR MURGOR is a Kenyan lawyer.

@@ -1,1 +1,0 @@
-ASSOCIATIVITY-BASED ROUTING[1][2][3][4] (commonly known as ABR) is a mobile routing protocol invented for wireless ad hoc networks, also known as mobile ad hoc networks (MANETs) and wireless mesh networks. ABR was invented in 1993, filed for a U.S. patent in 1996, and granted the patent in 1999. ABR was invented by Chai Keong Toh while doing his Ph.D. at Cambridge University.

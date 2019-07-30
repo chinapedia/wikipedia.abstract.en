@@ -49,12 +49,12 @@ Tantalum halides span the oxidation states of +5, +4, and +3. Tantalum pentafluo
 
 Organotantalum compounds
 
-Organotantalum compounds include pentamethyltantalum, mixed alkyltantalum chlorides, alkyltantalum hydrides, alkylidene complexes as well as cyclopentadienyl derivatives of the same.[36][37] Diverse salts and substituted derivatives are known for the hexacarbonyl [Ta(CO)₆]^(−) and related isocyanides. DOSBIWoneRotamer.png
+Organotantalum compounds include pentamethyltantalum, mixed alkyltantalum chlorides, alkyltantalum hydrides, alkylidene complexes as well as cyclopentadienyl derivatives of the same.[36][37] Diverse salts and substituted derivatives are known for the hexacarbonyl [Ta(CO)₆]^(−) and related isocyanides.
 
 
 Occurrence
 
-Tantalite.jpg, Australia]]
+, Australia]]
 
 Tantalum is estimated to make up about 1 ppm[38] or 2 ppm[39] of the Earth's crust by weight. There are many species of tantalum minerals, only some of which are so far being used by industry as raw materials: tantalite (a series consisting of tantalite-(Fe), tantalite-(Mn) and tantalite-(Mg)) microlite (now a group name), wodginite, euxenite (actually euxenite-(Y)), and polycrase (actually polycrase-(Y)).[40] Tantalite (Fe, Mn)Ta₂O₆ is the most important mineral for tantalum extraction. Tantalite has the same mineral structure as columbite (Fe, Mn) (Ta, Nb)₂O₆; when there is more tantalum than niobium it is called tantalite and when there is more niobium than tantalum is it called columbite (or niobite). The high density of tantalite and other tantalum containing minerals makes the use of gravitational separation the best method. Other minerals include samarskite and fergusonite.
 
@@ -78,7 +78,7 @@ The stated aim of the _Solutions for Hope Tantalum Project_ is to "source confli
 
 Production and fabrication
 
-Tantalum_world_production.svg Several steps are involved in the extraction of tantalum from tantalite. First, the mineral is crushed and concentrated by gravity separation. This is generally carried out near the mine site.
+Several steps are involved in the extraction of tantalum from tantalite. First, the mineral is crushed and concentrated by gravity separation. This is generally carried out near the mine site.
 
 Refining
 
@@ -121,7 +121,7 @@ Applications
 
 Electronics
 
-Tantal-Perle-Wiki-07-02-25-P1040364b.jpg The major use for tantalum, as the metal powder, is in the production of electronic components, mainly capacitors and some high-power resistors. Tantalum electrolytic capacitors exploit the tendency of tantalum to form a protective oxide surface layer, using tantalum powder, pressed into a pellet shape, as one "plate" of the capacitor, the oxide as the dielectric, and an electrolytic solution or conductive solid as the other "plate". Because the dielectric layer can be very thin (thinner than the similar layer in, for instance, an aluminium electrolytic capacitor), a high capacitance can be achieved in a small volume. Because of the size and weight advantages, tantalum capacitors are attractive for portable telephones, personal computers, automotive electronics and cameras.[65]
+The major use for tantalum, as the metal powder, is in the production of electronic components, mainly capacitors and some high-power resistors. Tantalum electrolytic capacitors exploit the tendency of tantalum to form a protective oxide surface layer, using tantalum powder, pressed into a pellet shape, as one "plate" of the capacitor, the oxide as the dielectric, and an electrolytic solution or conductive solid as the other "plate". Because the dielectric layer can be very thin (thinner than the similar layer in, for instance, an aluminium electrolytic capacitor), a high capacitance can be achieved in a small volume. Because of the size and weight advantages, tantalum capacitors are attractive for portable telephones, personal computers, automotive electronics and cameras.[65]
 
 Alloys
 
@@ -131,7 +131,7 @@ Tantalum is inert against most acids except hydrofluoric acid and hot sulfuric a
 
 Other uses
 
-Tantalio.png coins minted by the Bank of Kazakhstan with silver ring and tantalum center.]]
+coins minted by the Bank of Kazakhstan with silver ring and tantalum center.]]
 
 The high melting point and oxidation resistance lead to the use of the metal in the production of vacuum furnace parts. Tantalum is extremely inert and is therefore formed into a variety of corrosion resistant parts, such as thermowells, valve bodies, and tantalum fasteners. Due to its high density, shaped charge and explosively formed penetrator liners have been constructed from tantalum.[73] Tantalum greatly increases the armor penetration capabilities of a shaped charge due to its high density and high melting point.[74][75] It is also occasionally used in precious watches e.g. from Audemars Piguet, F.P. Journe, Hublot, Montblanc, Omega, and Panerai. Tantalum is also highly bioinert and is used as an orthopedic implant material.[76] The high stiffness of tantalum makes it necessary to use it as highly porous foam or scaffold with lower stiffness for hip replacement implants to avoid stress shielding.[77] Because tantalum is a non-ferrous, non-magnetic metal, these implants are considered to be acceptable for patients undergoing MRI procedures.[78] The oxide is used to make special high refractive index glass for camera lenses.[79]
 

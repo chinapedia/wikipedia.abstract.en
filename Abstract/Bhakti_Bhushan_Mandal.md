@@ -1,1 +1,0 @@
-BHAKTI BHUSHAN MANDAL (1920 – 30 August 2004)[1] was an Indian politician belonging to the All India Forward Bloc.[2] He represented the Dubrajpur seat in the West Bengal Legislative Assembly 1962–1967, 1969–1971 and 1977–2001.[3][4]

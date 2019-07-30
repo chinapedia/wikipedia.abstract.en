@@ -1,1 +1,0 @@
-JENNIFER NAGEL is a Canadian philosopher in the Department of Philosophy at the University of Toronto.[1][2][3] Her research focuses on epistemology, philosophy of mind, and metacognition. She has also written on 17th century (Western) philosophy, including on John Locke and René Descartes.

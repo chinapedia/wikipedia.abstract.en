@@ -1,1 +1,0 @@
-GRAHAM CARLETON GREENE, CBE, (10 July 1936 – 10 October 2016) was a British publisher who was managing director of Jonathan Cape from 1962 to 1990, and the nephew of the novelist Graham Greene. He was chairman of the British Museum.[1][2][3][4]

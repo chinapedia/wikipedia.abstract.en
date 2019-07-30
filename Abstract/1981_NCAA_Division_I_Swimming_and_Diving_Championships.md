@@ -1,1 +1,0 @@
-The 1981 NCAA MEN'S DIVISION I SWIMMING AND DIVING CHAMPIONSHIPS were contested in March 1981 at the Texas Swimming Center at the University of Texas at Austin in Austin, Texas at the 58th annual NCAA-sanctioned swim meet to determine the team and individual national champions of Division I men's collegiate swimming and diving in the United States.

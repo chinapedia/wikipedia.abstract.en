@@ -1,1 +1,0 @@
-EDMUND KELLY (May 23, 1818 - October 4, 1894) was the first African-American Baptist minister ordained in Tennessee. He escaped slavery in the 1840s to New England and returned after the US Civil War. He worked as a preacher and teacher in Columbia, Tennessee and was a frequent participant in national Baptist Conventions.

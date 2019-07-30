@@ -1,1 +1,0 @@
-{{ Infobox V8 Supercar race report | flag = New South Wales | title = 2016 Supercheap Auto Bathurst 1000 | round_no = 11 | season_no = 14 | year = 2016 | series = IVSC | track_map = Mount Panorama Circuit Map Overview.PNG | date = 6–9 October | location = Bathurst, New South Wales | circuit = Mount Panorama Circuit | weather = Thursday: fine

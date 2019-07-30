@@ -1,5 +1,3 @@
-Semigroup_associative_image.svg
-
 In mathematics, a SEMIGROUP is an algebraic structure consisting of a set together with an associative binary operation.
 
 The binary operation of a semigroup is most often denoted multiplicatively: _x_·_y_, or simply _xy_, denotes the result of applying the semigroup operation to the ordered pair . Associativity is formally expressed as that for all _x_, _y_ and _z_ in the semigroup.

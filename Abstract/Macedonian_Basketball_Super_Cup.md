@@ -1,1 +1,0 @@
-The MACEDONIAN BASKETBALL SUPER CUP (), is a basketball tournament held annually. It is the third most important national title in Macedonian basketball after the Macedonian First League and Macedonian Basketball Cup. Currently, MZT Skopje Aerodrom holds the record for most titles won with 3, and Rabotnički and Nikol Fert with 2.[1]

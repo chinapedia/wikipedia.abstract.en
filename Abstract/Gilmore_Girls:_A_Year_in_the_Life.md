@@ -1,1 +1,0 @@
-_GILMORE GIRLS: A YEAR IN THE LIFE_ is an American web television series on the streaming service Netflix. It is a sequel to _Gilmore Girls_, an American dramedy television series created by Amy Sherman-Palladino and starring Lauren Graham and Alexis Bledel.

@@ -1,1 +1,0 @@
-_VAA MAGALE VAA_ (English : Come daughter, come) is a 1994 Tamil drama film directed Visu. The film features Visu, Kushboo, Rekha and Veera Pandiyan in the lead roles, with Delhi Ganesh, Charle, Thyagu, T. P. Gajendran and T. S. Balachander playing supporting roles. The film, produced by N. Ramasamy, had musical score by Deva and was released on 4 December 1994.[1][2][3]

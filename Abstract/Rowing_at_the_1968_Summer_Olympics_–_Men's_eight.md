@@ -1,1 +1,0 @@
-The MEN'S COXED EIGHT competition at the 1968 Summer Olympics took place at Virgilio Uribe Rowing and Canoeing Course, Mexico City, Mexico. It was held from 13 to 19 October and was won by the team from West Germany, with the teams from Australia and the Soviet Union claiming silver and bronze respectively.

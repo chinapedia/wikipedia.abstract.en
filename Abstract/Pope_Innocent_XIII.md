@@ -1,1 +1,0 @@
-POPE INNOCENT XIII (; 13 May 1655 – 7 March 1724), born as MICHELANGELO DEI CONTI, was head of the Catholic Church and ruler of the Papal States from 8 May 1721 to his death in 1724. He is the last pope to date to take the pontifical name of "Innocent" upon his election.

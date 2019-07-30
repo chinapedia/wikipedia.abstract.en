@@ -1,1 +1,0 @@
-TUDD THOMAS SANGA (born 24 September 1981), popularly known by his career name TUDD THOMAS,[1] is a Tanzanian music producer, sound engineer, singer and songwriter. He has been a producer for Tanzania House of Talents (THT) for more than four years.

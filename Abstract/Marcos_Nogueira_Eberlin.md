@@ -1,1 +1,0 @@
-MARCOS NOGUEIRA EBERLIN (born 4 March 1959[1]) is a Brazilian chemist and professor at the Institute of Chemistry of the University of Campinas. He is a member of the Brazilian Academy of Sciences and received the Brazilian National Order of Scientific Merit in 2005 and the Thomson Medal in 2016.[2]

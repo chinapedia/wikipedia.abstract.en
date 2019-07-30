@@ -1,1 +1,0 @@
-The NEW TESTAMENT (, transl. ; ) is the second part of the Christian biblical canon, the first being the Old Testament. The New Testament discusses the teachings and person of Jesus, as well as events in first-century Christianity. Christians regard both the Old and New Testaments together as sacred scripture.

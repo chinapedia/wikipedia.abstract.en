@@ -1,1 +1,0 @@
-İLHAN ARIF AKSAY[1] (born 1944) is the Pomeroy and Betty Perry Smith Professor in Engineering and Professor of Chemical and Biological Engineering[2] within the School of Engineering and Applied Science at Princeton University, Princeton, New Jersey, United States

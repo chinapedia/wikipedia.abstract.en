@@ -1,1 +1,0 @@
-SANDRA SAVAGLIO is an Italian astrophysicist whose research focuses on the "young universe: cosmic chemical evolution, distant galaxies, intergalactic and interstellar medium, and galaxies hosting the most energetic events in the universe: the gamma-ray bursts and the super luminous supernovae.[1]

@@ -1,1 +1,0 @@
-The list includes and details significant events that occurred in the global history of national-level implementations of, or changes made to, laws surrounding the use, sale, or production of the psychoactive drug cannabis.

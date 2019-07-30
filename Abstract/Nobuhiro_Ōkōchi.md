@@ -1,1 +1,0 @@
-was a Japanese painter.

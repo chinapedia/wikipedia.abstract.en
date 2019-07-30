@@ -1,1 +1,0 @@
-_Doki_ (also known as _Doki Adventures_) is a Canadian animated television series produced by Portfolio Entertainment for Discovery Kids. The series debuted on Discovery Kids in Latin America on April 15, 2013.[1] _Doki_ was renewed for more seasons.[2]

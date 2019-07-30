@@ -1,1 +1,0 @@
-JAN EHRENWALD (13 March 1900 – 15 June 1988) was a Czech-American psychiatrist and psychotherapist, most known for his work in the field of parapsychology.[1] His work largely focused on extrasensory perception and its supposed implications for psychoanalysis.[2]

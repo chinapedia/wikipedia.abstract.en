@@ -1,1 +1,0 @@
-ONEMA GRACE GEYORO (born 2 July 1997) is a DR Congolese born French football player who plays as a defensive midfielder for Paris Saint-Germain in the Division 1 Féminine and for the French national team.

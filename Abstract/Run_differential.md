@@ -1,1 +1,0 @@
-In baseball, RUN DIFFERENTIAL is a cumulative team statistic that combines offensive and defensive scoring. Run differential is calculated by subtracting runs allowed from runs scored. The run differential is positive if a team scores more runs than it allows, while it is negative if a team allows more runs than it scores.

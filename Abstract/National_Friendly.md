@@ -1,1 +1,0 @@
-National_Friendly's_Head_Office.jpg

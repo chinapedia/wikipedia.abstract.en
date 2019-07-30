@@ -1,1 +1,0 @@
-MICHÈLE DESBORDES (4 August 1940, Saint-Cyr-en-Val (Loiret) – 24 January 2006, Baule (Loiret), aged 65) was a French writer. A curator of university libraries, she received several awards for her story _La Demande_ devoted to Leonardo da Vinci.

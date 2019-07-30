@@ -1,1 +1,0 @@
-_TO SIR WITH HATE_ is the debut album by Canadian post punk band Fifth Column, released in 1985 on Hide Records.[1] Considered a classic of Canadian music, at the 2016 Polaris Music Prize it was named a shortlisted nominee in the 1976-1985 category for the 2016 Polaris Music Prize, [2], the 2017 Polaris Music Prize, and the 2018 Polaris Music Prize.

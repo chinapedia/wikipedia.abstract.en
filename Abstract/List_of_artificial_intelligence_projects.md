@@ -1,1 +1,0 @@
-The following is a list of current and past, non-classified notable artificial intelligence projects.

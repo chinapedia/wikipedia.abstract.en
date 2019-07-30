@@ -1,1 +1,0 @@
-The DALEKS ( ) are a fictional extraterrestrial race of mutants principally portrayed in the British science fiction television programme _Doctor Who_. The Daleks were conceived by science-fiction writer Terry Nation and first appeared in the 1963 _Doctor Who_ serial _The Daleks_, in the shells designed by Raymond Cusick.

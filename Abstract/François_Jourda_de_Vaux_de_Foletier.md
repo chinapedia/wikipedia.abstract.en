@@ -1,1 +1,0 @@
-FRANÇOIS JOURDA DE VAUX DE FOLETIER, also called FRANÇOIS DE VAUX DE FOLETIER, (22 June 1893 – 17 February 1988) was a 20th-century French archivist and historian, a specialist of the history of the Romani people in Europe.[1]

@@ -1,1 +1,0 @@
-AGNES OF ROME () is a virgin martyr, venerated as a saint in the Roman Catholic Church, Eastern Orthodox Church, the Anglican Communion, and Lutheranism. She is one of seven women who, along with the Blessed Virgin, are commemorated by name in the Canon of the Mass.

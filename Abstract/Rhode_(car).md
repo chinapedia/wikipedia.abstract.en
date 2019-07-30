@@ -1,1 +1,0 @@
-The RHODE was a British car made from 1921 to 1930. Mead and Deakin Ltd had started in business making cycle and motor cycle components. They also made the "Canoelet" sidecar. In 1912 they made at least two cyclecars under the name of Medea with 1244cc Chapuis-Dornier emgines but these did not go into series production.[1]

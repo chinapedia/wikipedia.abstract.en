@@ -1,1 +1,0 @@
-SOTHEARA CHOV (born October 10, 1983) is a Cambodian freestyle wrestler. She competed in the women's freestyle 48 kg event at the 2016 Summer Olympics, in which she was eliminated in the round of 16 by Carolina Castillo.[1][2]

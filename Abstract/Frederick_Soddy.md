@@ -1,1 +1,0 @@
-FREDERICK SODDY FRS[1] (2 September 1877 – 22 September 1956) was an English radiochemist who explained, with Ernest Rutherford, that radioactivity is due to the transmutation of elements, now known to involve nuclear reactions. He also proved the existence of isotopes of certain radioactive elements.[2][3][4][5][6][7][8][9]

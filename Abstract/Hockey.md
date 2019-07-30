@@ -1,1 +1,0 @@
-HOCKEY is a sport in which two teams play against each other by trying to manoeuvre a ball or a puck into the opponent's goal using a hockey stick. There are many types of hockey such as bandy, field hockey, and ice hockey.

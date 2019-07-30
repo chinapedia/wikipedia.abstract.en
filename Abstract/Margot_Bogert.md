@@ -1,1 +1,0 @@
-MARGOT BOGERT, a world Scouting leader, Chairman of the Board of the Frick Collection and Chairman of the Board of Trustees of Sarah Lawrence College,[1][2] served as the National Secretary of the United States Fund for International Scouting (USFIS) within the Boy Scouts of America, as well as a member of the World Scout Development Committee.

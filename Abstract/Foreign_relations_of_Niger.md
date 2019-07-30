@@ -1,1 +1,0 @@
-Niger pursues a moderate foreign policy and maintains friendly relations with both East and West. It is a member state of the United Nations. Niger maintains a special relationship with France and enjoys close relations with its West African neighbours.

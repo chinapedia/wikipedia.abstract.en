@@ -1,1 +1,0 @@
-ELISÂNGELO RAMOS is a Cape Verdean journalist who has been at RTC since 1997. He belongs to the broadcasting, television and the press sectors. He is a reporter for RCV in the city of Praia and is a producer of cultural programs.

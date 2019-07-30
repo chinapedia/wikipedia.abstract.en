@@ -1,1 +1,0 @@
-EMERALD CAVE (, THAM MORAKOT) is a cave located on the west coast of Koh Muk (also known as Koh Mook) Island, - The paradise island of Koh Muk and emerald cave are part of the Trang Provence, Southern Thailand.

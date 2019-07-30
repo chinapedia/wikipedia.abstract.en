@@ -1,1 +1,0 @@
-Spantekow_Schloss.jpg Spantekow_Festung_Torhaus_2013-06-30.JPG The fortress known as VESTE SPANTEKOW is the oldest and most important Renaissance castle in North Germany and is situated in the village of Spantekow, southwest of Anklam in the German federal state of Mecklenburg-Western Pomerania. It covers an area of c. 4 hectares.

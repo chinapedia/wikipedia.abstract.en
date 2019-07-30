@@ -1,1 +1,0 @@
-_BORONIA CRENULATA_, commonly known as ANISEED BORONIA, is a plant in the citrus family Rutaceae and is endemic to the south-west of Western Australia. It is an open-branched shrub, often trailing between other plants, has strap-like leaves and pink to purple-red, four-petalled flowers in winter and autumn.

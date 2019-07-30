@@ -1,1 +1,0 @@
-"FIVE VISIONS OF CAPTAIN COOK" (1931) is a poem by Australian poet Kenneth Slessor. It was originally published in the author's collection _Trio : A Book of Poems_, and later appeared in numerous poetry anthologies.[1]

@@ -1,1 +1,0 @@
-The HAWAII TENNIS OPEN is a tournament for professional female tennis players played on outdoor hard courts. The event is currently classified as a WTA 125K series tournament and has been held in Honolulu, USA, since 2016.

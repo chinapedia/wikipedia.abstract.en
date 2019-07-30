@@ -1,1 +1,0 @@
-'''Zak Kovalcik ''' (born ) is an American male track cyclist, representing United States at international competitions. In 2014 he won the National Team Pursuit Championships (with Zach Allison, Alexander Darville and Adrian Hegyvary). He won the silver medal at the 2016 Pan American Track Cycling Championships in the scratch.[1]

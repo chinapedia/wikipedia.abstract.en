@@ -1,1 +1,0 @@
-The 1993 SASKATCHEWAN ROUGHRIDERS competed in the Canadian Football League, finishing in 3rd place in the West Division with an 11–7–0 record. The Roughriders qualified for the playoffs, but lost the West Semi-Final game to the Edmonton Eskimos.

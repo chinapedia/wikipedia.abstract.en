@@ -1,1 +1,0 @@
-The PRESIDENT OF THE DEMOCRATIC PARTY is one of the leaders of the Democratic Party, the main centre-left political party in Italy. The current President is Paolo Gentiloni, who was appointed on 17 March 2019.[1]

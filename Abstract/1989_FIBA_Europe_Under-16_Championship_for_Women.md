@@ -1,1 +1,0 @@
-The 1989 FIBA EUROPE UNDER-16 CHAMPIONSHIP FOR WOMEN (known at that time as 1989 EUROPEAN CHAMPIONSHIP FOR CADETTES) was the eighth edition of the FIBA Europe Under-16 Championship for Women. 12 teams featured in the competition, held in Timișoara, Romania, from 5 to 12 August 1989.

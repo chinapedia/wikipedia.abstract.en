@@ -1,1 +1,0 @@
-THE GLORY DAYS TOUR was the fourth concert tour and the second worldwide tour by British girl group Little Mix, in support of their fourth studio album, _Glory Days_. The tour began on 21 May 2017 in Birkenhead, England, and after stops in Europe, Oceania, and the United Kingdom, it ended on 26 November 2017 in London, England.

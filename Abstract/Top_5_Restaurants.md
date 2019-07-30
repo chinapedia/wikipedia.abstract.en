@@ -1,1 +1,0 @@
-_TOP 5 RESTAURANTS_ is an American food-themed television series that aired on Food Network. The series was presented by chefs Sunny Anderson and Geoffrey Zakarian; and it featured the chefs counting down the top food items from across the United States that the network's "food experts" were able to find.[1]

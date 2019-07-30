@@ -1,1 +1,0 @@
-DANIEL STEIN (born July 1976) is a Rabbi and Rosh Yeshiva at the Rabbi Isaac Elchanan Theological Seminary of Yeshiva University in New York City where he holds the Perez and Frieda Friedberg Chair in Talmud.[1][2]

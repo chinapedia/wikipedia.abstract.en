@@ -1,1 +1,0 @@
-Yadong_Luo.jpg

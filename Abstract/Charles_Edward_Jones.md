@@ -1,1 +1,0 @@
-Colonel CHARLES EDWARD ("CHUCK") JONES (November 8, 1952 – September 11, 2001) was a United States Air Force officer, a computer programmer, and an astronaut in the USAF Manned Spaceflight Engineer Program.

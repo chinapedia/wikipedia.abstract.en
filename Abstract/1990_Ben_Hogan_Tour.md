@@ -1,1 +1,0 @@
-The 1990 BEN HOGAN TOUR season was the first season of the Ben Hogan Tour, the PGA Tour's official developmental tour, now known as the Web.com Tour. The top five players on the final money list earned PGA Tour cards for 1991.

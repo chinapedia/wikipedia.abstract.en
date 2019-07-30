@@ -1,1 +1,0 @@
-The 2016 NRL State Championship was a Rugby League match held between the winners of the 2016 Intrust Super Premiership NSW and the 2016 Queensland Cup. It was the third edition following the 2015 NRL State Championship, and was played before the 2016 NRL Grand Final.

@@ -1,1 +1,0 @@
-BT GROUP PLC (trading as BT and formerly BRITISH TELECOM) is a British multinational telecommunications holding company headquartered in London, United Kingdom. It has operations in around 180 countries and is the largest provider of fixed-line, broadband and mobile services in the UK, and also provides subscription television and IT services.[1]

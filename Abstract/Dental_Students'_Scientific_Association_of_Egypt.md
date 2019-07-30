@@ -1,1 +1,0 @@
-DENTAL STUDENTS' SCIENTIFIC ASSOCIATION OF EGYPT () is a non-governmental organization that aims mainly to promote public awareness of oral and dental health among Egyptian society, and to improve the scientific knowledge and soft skills of Egyptian and non-Egyptian dental students all over Arab Republic of Egypt.[1]

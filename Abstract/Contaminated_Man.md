@@ -1,1 +1,0 @@
-CONTAMINATED MAN is a 2000 dramatic thriller film starring William Hurt, Natascha McElhone, and Peter Weller and directed by Anthony Hickox from a screenplay by John Penney. A co-production between the United States, United Kingdom, Germany, and Hungary and filmed on location in Budapest, the film received mixed-to-negative reviews.[1]

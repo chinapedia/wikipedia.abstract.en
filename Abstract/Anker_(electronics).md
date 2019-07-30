@@ -1,1 +1,0 @@
-ANKER is a Chinese electronics brand owned by Anker Innovations.[1] based in Shenzhen, Guangdong. The brand is known for producing computer and mobile peripherals. The name Anker comes from the German word for anchor.

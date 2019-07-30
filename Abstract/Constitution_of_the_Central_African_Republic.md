@@ -1,1 +1,0 @@
-THE CONSTITUTION OF THE CENTRAL AFRICAN REPUBLIC was approved by referendum on December 15, 2015 and formally adopted on March 27, 2016. Since its independence in 1960, the Central African Republic has used many constitutions, showing a great political instability with coups.

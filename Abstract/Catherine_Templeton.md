@@ -1,1 +1,0 @@
-CATHERINE TEMPLETON is an American attorney and political figure from South Carolina. She was a candidate for the Republican nomination for governor of South Carolina in the 2018 election. Templeton was formerly South Carolina Director of Labor, Licensing, and Regulation in the Cabinet of Governor Nikki Haley.

@@ -1,1 +1,0 @@
-FREDERICK WILLIAM TEESDALE (3 April 1864 – 14 December 1931) was an Australian politician who was a Nationalist Party member of the Legislative Assembly of Western Australia from 1917 until his death, representing the seat of Roebourne.

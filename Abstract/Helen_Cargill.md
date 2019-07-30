@@ -1,1 +1,0 @@
-Air Commandant DAME HELEN WILSON CARGILL, (1 October 1896 – 4 December 1969) was a British nurse and Royal Air force officer. From 1948 to 1952, she was Matron-in-Chief of Princess Mary's Royal Air Force Nursing Service.[1]

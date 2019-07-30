@@ -1,1 +1,0 @@
-LACI J MAILEY (born 15 November 1990) is a Canadian actress known mostly for her work on television. She first became known for her recurring role on _Falling Skies_. She had a recurring role in the second season of the CBC Television series _The Romeo Section_[1] and currently appears as Jess O'Brien in the Hallmark Channel family drama _Chesapeake Shores_.[2]

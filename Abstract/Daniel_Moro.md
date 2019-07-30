@@ -1,1 +1,0 @@
-'''Daniel Moro ''' (born 8 August 1973) is a Spanish male water polo player. He was a member of the Spain men's national water polo team, playing as a driver. He was a part of the team at the 2000 Summer Olympics and 2004 Summer Olympics.[1] On club level he played for CN Atlètic-Barceloneta in Spain.

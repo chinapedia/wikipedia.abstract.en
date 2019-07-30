@@ -1,1 +1,0 @@
-CABO VERDE INVESIMENTOS (CI) (Portuguese for Cape Verdean Investments) is a Cape Verdean agency promoting national and foreign investments and exports. Among its main objectives are the promotion of conditions conducive to the realization of national and foreign investment projects as well as the promotion of the export of Cape Verdean goods and services.

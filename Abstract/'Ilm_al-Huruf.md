@@ -1,1 +1,0 @@
-ʿILM AL-ḤURŪF () or THE SCIENCE OF LETTERS is an Arabic esoteric science or magic practice concerned with occult properties assigned to the letters of the Arabic alphabet, and the words and names formed from those letters.

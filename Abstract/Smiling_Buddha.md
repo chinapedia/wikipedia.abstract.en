@@ -1,1 +1,0 @@
-SMILING BUDDHA[1] (MEA designation: POKHRAN-I) was the assigned code name of India's first successful nuclear bomb test on 18 May 1974.[2] The bomb was detonated on the army base, Pokhran Test Range (PTR), in Rajasthan by the Indian Army under the supervision of several key Indian generals.[3]

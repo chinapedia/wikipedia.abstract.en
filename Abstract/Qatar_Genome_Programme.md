@@ -1,1 +1,0 @@
-The QATAR GENOME PROGRAMME aims to sequence the genomes of 350,000 inhabitants of Qatar.[1] Supported by the Sidra Medical and Research Center, the program is managed by Qatar Genome Committee and wants to eventually offer personalized healthcare in Qatar to its population with advances in genomics.[2]

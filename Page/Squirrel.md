@@ -10,7 +10,7 @@ The native Old English word for the squirrel, _ācweorna_, survived only into Mi
 
 Characteristics
 
-Sciurus_carolinensis_-British_Columbia,_Canada-8.jpg Ratufa_skull.JPG (genus _Ratufa_)—note the classic sciuromorphous shape of the anterior zygomatic region.]]
+(genus _Ratufa_)—note the classic sciuromorphous shape of the anterior zygomatic region.]]
 
 Squirrels are generally small animals, ranging in size from the African pygmy squirrel at in length and just in weight, to the Laotian giant flying squirrel at in length and the Alpine marmot, which weighs from . Squirrels typically have slender bodies with bushy tails and large eyes. In general, their fur is soft and silky, though much thicker in some species than others. The coat color of squirrels is highly variable between—and often even within—species.[5]
 
@@ -27,13 +27,13 @@ Many juvenile squirrels die in the first year of life. Adult squirrels can have 
 
 Behavior
 
-Baby_of_squirrel.jpg Squirrels mate either once or twice a year and, following a gestation period of three to six weeks, give birth to a number of offspring that varies by species. The young are altricial, being born naked, toothless, and blind. In most species of squirrel, the female alone looks after the young, which are weaned at six to ten weeks and become sexually mature by the end of their first year. In general, the ground-dwelling squirrel species are social, often living in well-developed colonies, while the tree-dwelling species are more solitary.[14]
+Squirrels mate either once or twice a year and, following a gestation period of three to six weeks, give birth to a number of offspring that varies by species. The young are altricial, being born naked, toothless, and blind. In most species of squirrel, the female alone looks after the young, which are weaned at six to ten weeks and become sexually mature by the end of their first year. In general, the ground-dwelling squirrel species are social, often living in well-developed colonies, while the tree-dwelling species are more solitary.[14]
 
 Ground squirrels and tree squirrels are usually either diurnal or crepuscular,[15] while the flying squirrels tend to be nocturnal—except for lactating flying squirrels and their young, which have a period of diurnality during the summer.[16]
 
 Feeding
 
-Squirrel,_Manyara_National_Park,_Tanzania_(2010).jpg Because squirrels cannot digest cellulose, they must rely on foods rich in protein, carbohydrates, and fats. In temperate regions, early spring is the hardest time of year for squirrels because the nuts they buried are beginning to sprout (and thus are no longer available to eat), while many of the usual food sources have not yet become available. During these times, squirrels rely heavily on the buds of trees. Squirrels, being primarily herbivores, eat a wide variety of plants, as well as nuts, seeds, conifer cones, fruits, fungi, and green vegetation. Some squirrels, however, also consume meat, especially when faced with hunger.[17][18] Squirrels have been known to eat small birds, young snakes, and smaller rodents, as well as bird eggs and insects. Indeed, some tropical squirrel species have shifted almost entirely to a diet of insects.[19]
+Because squirrels cannot digest cellulose, they must rely on foods rich in protein, carbohydrates, and fats. In temperate regions, early spring is the hardest time of year for squirrels because the nuts they buried are beginning to sprout (and thus are no longer available to eat), while many of the usual food sources have not yet become available. During these times, squirrels rely heavily on the buds of trees. Squirrels, being primarily herbivores, eat a wide variety of plants, as well as nuts, seeds, conifer cones, fruits, fungi, and green vegetation. Some squirrels, however, also consume meat, especially when faced with hunger.[17][18] Squirrels have been known to eat small birds, young snakes, and smaller rodents, as well as bird eggs and insects. Indeed, some tropical squirrel species have shifted almost entirely to a diet of insects.[19]
 
 Predatory behavior has been observed in various species of ground squirrels, in particular the thirteen-lined ground squirrel.[20] For example, Bernard Bailey, a scientist in the 1920s, observed a thirteen-lined ground squirrel preying upon a young chicken.[21] Wistrand reported seeing this same species eating a freshly killed snake.[22] Whitaker examined the stomachs of 139 thirteen-lined ground squirrels and found bird flesh in four of the specimens and the remains of a short-tailed shrew in one;[23] Bradley, examining the stomachs of white-tailed antelope squirrels, found at least 10% of his 609 specimens' stomachs contained some type of vertebrate, mostly lizards and rodents.[24] Morgart observed a white-tailed antelope squirrel capturing and eating a silky pocket mouse.[25]
 

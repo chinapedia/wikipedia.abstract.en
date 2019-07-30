@@ -1,1 +1,0 @@
-RICKETS is a condition that results in weak or soft bones in children.[1] Symptoms include bowed legs, stunted growth, bone pain, large forehead, and trouble sleeping.[2][3] Complications may include bone fractures, muscle spasms, an abnormally curved spine, or intellectual disability.[4][5]

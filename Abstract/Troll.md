@@ -1,1 +1,0 @@
-John_Bauer_1915.jpg]] A TROLL is a class of being in Norse mythology and Scandinavian folklore. In Old Norse sources, beings described as trolls dwell in isolated rocks, mountains, or caves, live together in small family units, and are rarely helpful to human beings.

@@ -1,1 +1,0 @@
-The WASHINGTON GUBERNATORIAL ELECTION OF 1952 took place on November 4, 1952, between incumbent governor Arthur B. Langlie of the Republican Party and U.S. Representative Hugh Mitchell of the Democratic Party. Langlie won the general election, becoming the first Washington state governor to be elected to a third term.

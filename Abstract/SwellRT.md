@@ -1,1 +1,0 @@
-SWELLRT is a free and open-source backend-as-a-service and API focused to ease development of apps featuring real-time collaboration. It supports the building of mobile and web apps, and aims to facilitate interoperability and federation.

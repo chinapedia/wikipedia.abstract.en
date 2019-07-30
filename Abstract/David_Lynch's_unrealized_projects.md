@@ -1,1 +1,0 @@
-The following IS A LIST OF UNPRODUCED DAVID LYNCH PROJECTS in roughly chronological order. During his long career, American film director David Lynch has worked on a number of projects which never progressed beyond the pre-production stage under his direction. Some of these projects fell into development hell or were officially cancelled.

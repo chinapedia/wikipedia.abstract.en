@@ -1,1 +1,0 @@
-BIN LADEN () is an Arabic language surname synonymous with Osama bin Laden (1957–2011); it may also pertain to the Saudi Binladin Group, a holding company for the assets of the bin Laden family, and other notable members of Osama's family.

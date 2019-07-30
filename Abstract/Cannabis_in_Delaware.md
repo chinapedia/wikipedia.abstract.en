@@ -1,1 +1,0 @@
-In the U.S. state of Delaware, marijuana (cannabis) is illegal for recreational use, though decriminalized for possession of small amounts. The use of marijuana for medical purposes is permitted for adult patients with certain serious illnesses.

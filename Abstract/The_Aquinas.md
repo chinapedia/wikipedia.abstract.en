@@ -1,1 +1,0 @@
-_THE AQUINAS_ is the weekly student newspaper of the University of Scranton in Scranton, Pennsylvania. Print editions are published every Thursday during the semester and distributed to buildings throughout the university's campus.

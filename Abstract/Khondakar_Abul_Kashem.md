@@ -1,1 +1,0 @@
-KHONDAKAR ABUL KASHEM (3 January 1944 – 9 September 1971) was a Bengali educator and of the former East Pakistan, now Bangladesh. He was one of the Bengali intellectuals killed by the Pakistan Army's paramilitary Razakar during the 1971 Bangladesh Genocide.[1]

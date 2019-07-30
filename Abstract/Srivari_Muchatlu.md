@@ -1,1 +1,0 @@
-_SRIVARI MUCHATLU_ is a 1981 Telugu drama film, produced by N. R. Anuradha Devi under the Lakshmi Films Combines banner[1] and directed by Dasari Narayana Rao.[2] The film stars Akkineni Nageswara Rao, Jaya Prada, Jayasudha in the lead roles and music composed by Chakravarthy. The film is remade as Hindi Movie _Asha Jyoti_ (1984).[3][4]

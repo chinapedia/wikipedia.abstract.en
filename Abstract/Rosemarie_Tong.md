@@ -1,1 +1,0 @@
-ROSEMARIE "ROSIE" TONG is an American feminist philosopher. The author of 1998's _Feminist Thought: A More Comprehensive Introduction,_ an overview of the major traditions of feminist theory, she is the emeritus distinguished professor of health care ethics in the Department of Philosophy at the University of North Carolina, Charlotte.

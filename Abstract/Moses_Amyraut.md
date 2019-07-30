@@ -1,1 +1,0 @@
-Moïse_Amyraut.jpg MOÏSE AMYRAUT, Latin MOYSES AMYRALDUS (Bourgueil, September 1596 – January 8, 1664), in English texts often MOSES AMYRAUT, was a French Huguenot, Reformed theologian and metaphysician. He is perhaps most noted for his modifications to Calvinist theology regarding the nature of Christ's atonement, which is referred to as Amyraldism or Amyraldianism.[1][2]

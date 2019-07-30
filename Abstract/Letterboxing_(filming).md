@@ -1,1 +1,0 @@
-Image_cropping_235x1.jpg

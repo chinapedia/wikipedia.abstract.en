@@ -1,1 +1,0 @@
-The JERRY FORD INVITATIONAL was a celebrity pro-am golf tournament hosted by former President Gerald Ford. It was played in Vail, Colorado from 1977 to 1996.[1][2] In years that there was a tied for first place, no playoff was held.

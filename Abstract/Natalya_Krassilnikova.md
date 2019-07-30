@@ -1,1 +1,0 @@
-NATALIYA NIKOLAYEVNA KRASILNIKOVA (Наталья Николаевна Красильникова, born 2 January 1982) is a Kazakhstani female water polo player. She was a member of the Kazakhstan women's national water polo team, playing as a centre back.

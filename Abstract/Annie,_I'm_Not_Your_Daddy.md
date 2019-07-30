@@ -1,1 +1,0 @@
-_ANNIE, I'M NOT YOUR DADDY_ is a song written by August Darnell and first recorded by his band Kid Creole and the Coconuts. It was released in 1982 as the third and final single from their album Tropical Gangsters. It is Kid Creole & The Coconuts highest charting single on the UK Singles Chart reaching a peak of no. 2. It also reached no. 18 on the U.S. Club Play Chart.

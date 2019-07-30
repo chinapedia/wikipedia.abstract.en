@@ -1,1 +1,0 @@
-MILOŠ ĆIRIĆ (Serbian Cyrillic: Милош Ћирић; born 1931, Despotovo – died 1999, Belgrade) was a notable Serbian visual artist and educator. The fields of his interest were art graphics, graphic identification, lettering, advertisement, book design, graphic animation, graphic-in-space and heraldry.[1]

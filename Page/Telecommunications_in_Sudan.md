@@ -107,7 +107,7 @@ An ICT Fund has been recently enacted to focus on the support the information so
 
 Radio and television
 
-Radio_broadcaster_in_Yei,_Sudan.jpg, 2010]]
+, 2010]]
 
 -   Radio: directly controlled by the Sudanese Government (2007);[22] a private radio station is in operation (2007);[23] 22 AM and 1 shortwave (HF) broadcast stations.
 -   Radio sets: 13.7 million.

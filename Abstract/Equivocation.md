@@ -1,1 +1,0 @@
-In logic, EQUIVOCATION ('calling two different things by the same name') is an informal fallacy resulting from the use of a particular word/expression in multiple senses throughout an argument leading to a false conclusion.[1][2] Abbott and Costello's "Who's on first?" routine is a well known example of equivocation.[3][4]

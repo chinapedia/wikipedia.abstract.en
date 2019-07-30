@@ -1,1 +1,0 @@
-Eastern_riveted_armor.JPG MAIL or MAILLE (also CHAIN MAIL(LE)[1] or CHAINMAIL(LE)) is a type of armour consisting of small metal rings linked together in a pattern to form a mesh. A coat of this armour is often referred to as a hauberk, and sometimes a byrnie.

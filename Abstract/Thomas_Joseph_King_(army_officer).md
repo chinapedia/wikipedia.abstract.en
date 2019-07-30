@@ -1,1 +1,0 @@
-THOMAS JOSEPH KING, CBE, (19 April 1891 – 28 December 1971) was a senior officer in the New Zealand Military Forces and a foundation member of the New Zealand Army Ordnance Corps who served in both world wars.

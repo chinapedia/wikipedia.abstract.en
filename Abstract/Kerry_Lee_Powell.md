@@ -1,1 +1,0 @@
-KERRY LEE POWELL is a Canadian writer, whose debut short story collection _Willem de Kooning's Paintbrush_ was a longlisted nominee for the Scotiabank Giller Prize,[1] and a shortlisted nominee for the Rogers Writers' Trust Fiction Prize[2] and the Governor General's Award for English-language fiction,[3] in 2016.

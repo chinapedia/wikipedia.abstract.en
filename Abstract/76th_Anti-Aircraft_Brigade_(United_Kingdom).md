@@ -1,1 +1,0 @@
-The 76TH ANTI-AIRCRAFT BRIGADE (76th AA Bde) was an air defence formation of the British Army during World War II. It landed on D-Day and saw action throughout the campaign in North West Europe. Its guns operated in both anti-aircraft (AA) and ground roles in clearing and then defending the Scheldt Estuary until the end of the war.

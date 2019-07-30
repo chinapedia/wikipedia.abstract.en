@@ -1,1 +1,0 @@
-DVD_Rental_Query.png

@@ -1,1 +1,0 @@
-"(THE MAN WHO SHOT) LIBERTY VALANCE" is a song written by Burt Bacharach and Hal David, which was released by Gene Pitney in 1962. The song spent 13 weeks on the _Billboard_ Hot 100 chart, peaking at No. 4,[1] while reaching No. 2 on Canada's CHUM Hit Parade,[2] and No. 4 on New Zealand's "Lever Hit Parade".[3]

@@ -1,1 +1,0 @@
-The circle style ASIA KABADDI CUP, is a regional kabaddi competition administrated by the Pakistan Kabaddi Federation contested by national teams within the continent of Asia. The competition has been contested in 2011, 2012 Asia Kabaddi Cup and 2016 Asia Kabaddi Cup.

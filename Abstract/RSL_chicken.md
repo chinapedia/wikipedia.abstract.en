@@ -1,1 +1,0 @@
-Gà_Ri_lai_lúc_3_tháng_tuổi,_P_=_1.5_-_1.8kg.png The_volume_of_Ri_chicken_and_RSL_chicken_period_1-17_weeks_of_age.png The RSL CHICKEN is a crossbred variety of chicken, derived from the chicken breeds Ri, Sasso, and Luong Phuong. The genotype composition is: 50% Ri, 25% Sasso, and 25% Luong Phuong.[1]

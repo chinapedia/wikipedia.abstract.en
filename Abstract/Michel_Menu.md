@@ -1,1 +1,0 @@
-MICHEL MENU, (February 3, 1916 in Secondigny, Deux-Sèvres-March 2, 2015 in Saint-Cloud, Hauts-de-Seine), was a French engineer and author. A major figure of Catholic Scouting, he was the Deputy Chief Commissioner, National Scout Commissioner of Scouts de France (1946-1956), and launched the Raider-Scouts scheme in 1948.[1]

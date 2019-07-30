@@ -1,1 +1,0 @@
-ABBREVIATIONS.COM is an online abbreviations dictionary whose domain was first registered on 2001.[1][2] The company was founded by Yigal Ben Efraim as part of STANDS4 LLC, which also operates Lyrics.com, Grammar.com and Symbols.com among other reference related websites.

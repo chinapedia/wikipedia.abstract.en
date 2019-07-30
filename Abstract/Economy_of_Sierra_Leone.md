@@ -1,1 +1,0 @@
-The ECONOMY OF SIERRA LEONE is that of a least developed country[1] with a GDP of approximately 1.9 billion USD in 2009.[2] Since the end of the civil war in 2002 the economy is gradually recovering with a GDP growth rate between 4 and 7%.[3] In 2008 its GDP in PPP ranked between 147th (World Bank) and 153rd (CIA) largest in the world.[4]

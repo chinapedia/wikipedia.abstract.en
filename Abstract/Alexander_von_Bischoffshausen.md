@@ -1,1 +1,0 @@
-Alexander_von_Bischoffshausen_(1846-1928).jpg ALEXANDER VON BISCHOFFSHAUSEN (26 October 1846 - 18 June 1928) was the director of the Reichsschuldenverwaltung (the German Debt Administration ministry) from 1907 to 1918.[1][2]

@@ -1,1 +1,0 @@
-The 1969–70 season was CLYDEBANK'S fourth season in the Scottish Football League. They competed in the Scottish League Division Two where they finished 13th in the table, Scottish League Cup and Scottish Cup.

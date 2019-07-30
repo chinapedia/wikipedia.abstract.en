@@ -1,1 +1,0 @@
-BANGLADESH INSTITUTE OF INTERNATIONAL AND STRATEGIC STUDIES or BIISS is a state owned autonomous national research institute and think tank working as a statutory institute that carries out research on security and strategic issues in Bangladesh and is located in Dhaka, Bangladesh.[1][2][3] Munshi Faiz Ahmad is the present chairman of the Institute.[4]

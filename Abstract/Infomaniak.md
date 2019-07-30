@@ -1,1 +1,0 @@
-----> 1994 | founder = Boris Siegenthaler, Fabian Lucchi | hq_location_city = Geneva | hq_location_country = Switzerland | industry = Internet | genre = | services = web hosting, VOD, streaming | subsid = Infomaniak Entertainment | website = }}

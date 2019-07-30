@@ -1,1 +1,0 @@
-JAIME ALEXIS PEÑA MOLINA better known as ALEXIS PEÑA (born 2 February 1984) is a Colombian Christian music, singer, songwriter, worship leader, pastor, author, teacher, and speaker known for combining practical biblical principles with the flow of prophetic songs. Alexis plays contemporary worship music for a Latin music audience.

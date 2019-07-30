@@ -1,1 +1,0 @@
-In mathematics, a TWISTED SHEAF is a variant of a coherent sheaf. Precisely, it is specified by: an open covering in the étale topology _U__(_i_), coherent sheaves _F__(_i_) over _U__(_i_), a Čech 2-cocycle _θ_ on the covering _U__(_i_) as well as the isomorphisms

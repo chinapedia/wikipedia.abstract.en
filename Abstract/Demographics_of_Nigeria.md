@@ -1,1 +1,0 @@
-Nigeria is one of the most densely populated countries in Africa, with approximately 200 million people in an area of ,[1] and is also the country with the largest population in Africa[2] and the seventh largest population in the world.[3]

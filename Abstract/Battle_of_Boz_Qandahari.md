@@ -1,1 +1,0 @@
-The BATTLE OF BOZ QANDAHARI occurred on 3 November 2016, in the village of Boz Qandahari, on the western outskirts of the Afghan city of Kunduz, between Afghan National Army Commandos alongside United States Army Special Forces against Taliban insurgents.[1][2][3][4]

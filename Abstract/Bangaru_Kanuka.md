@@ -1,1 +1,0 @@
-_BANGARU KANUKA_ (English: GOLDEN GIFT) is a 1982 Telugu, Romance film, produced by Raola Ankhaiah Goud under the Ravindra Films banner[1] and directed by V. Madhusudhan Rao.[2] It stars Akkineni Nageswara Rao, Sridevi, Sujatha in the lead roles,[3] and music composed by Satyam.[4]

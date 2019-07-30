@@ -1,1 +1,0 @@
-MARIE EUGENIE DELLE GRAZIE (14 August 1864 – 18 February 1931) was an Austrian writer, considered one of the most successful women writers of her time.[1][2] She was a recipient of the Bauernfeld Prize.

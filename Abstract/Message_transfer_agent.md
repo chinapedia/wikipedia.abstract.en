@@ -1,1 +1,0 @@
-Within the Internet email system, a MESSAGE TRANSFER AGENT[1] or MAIL TRANSFER AGENT[2] (MTA) or MAIL RELAY is software that transfers electronic mail messages from one computer to another using SMTP.[3] The terms MAIL SERVER, MAIL EXCHANGER, and MX HOST are also used in some contexts.

@@ -1,4 +1,4 @@
-Map_of_Spain_and_Portugal,_Corrected_and_Augmented_from_the_Map_Published_by_D._Tomas_Lopez.tif SPAIN is a country located in southwestern Europe occupying most (about 82% percent) of the Iberian Peninsula and includes a small exclave inside France called Llívia as well as the Balearic Islands in the Mediterranean, the Canary Islands in the Atlantic Ocean off northwest Africa, and five places of sovereignty (_plazas de soberanía_) on and off the coast of North Africa: Ceuta, Melilla, Islas Chafarinas, Peñón de Alhucemas, and Peñón de Vélez de la Gomera.
+SPAIN is a country located in southwestern Europe occupying most (about 82% percent) of the Iberian Peninsula and includes a small exclave inside France called Llívia as well as the Balearic Islands in the Mediterranean, the Canary Islands in the Atlantic Ocean off northwest Africa, and five places of sovereignty (_plazas de soberanía_) on and off the coast of North Africa: Ceuta, Melilla, Islas Chafarinas, Peñón de Alhucemas, and Peñón de Vélez de la Gomera.
 
 The Spanish mainland is bordered to the south and east almost entirely by the Mediterranean Sea (except for a small colonial place with Gibraltar); to the north by France, Andorra, and the Bay of Biscay; and to the west by the Atlantic Ocean and Portugal. With a land area of in the Iberian peninsula,[1] Spain is the largest country in Southern Europe, the second largest country in Western Europe (behind France) and the fourth largest country in the European continent (behind Russia, Ukraine and France). It has an average altitude of 650 m.
 
@@ -6,8 +6,6 @@ Its total area including Spanish island territories is of which is land and is w
 
 
 External boundaries and landform regions
-
-Mapa_del_sur_de_España_neutral.png Sp-map.png Hypsometric_curve_of_Spain.svg
 
 Water Boundaries
 
@@ -27,7 +25,7 @@ The Inner Plateau and associated mountains
 
 The _Meseta Central_ ("Inner Plateau") is a vast plateau in the heart of peninsular Spain, which has elevations that range from 610 to 760 m. Rimmed by mountains, the Meseta Central slopes gently to the west and to the series of rivers that form some of the border with Portugal. The Sistema Central, described as the "dorsal spine" of the Meseta Central, divides the Meseta into northern and southern subregions, the former higher in elevation and smaller in area than the latter. The Sistema Central rims the capital city of Madrid with peaks that rise to over 2,400 m within the Madrid region. South-west of Madrid, the Sistema Central shows its highest peak, Pico Almanzor, of 2,592 m. The mountains of the Sistema Central, which continue westward into Portugal, display some glacial features; the highest of the peaks are snow-capped for most of the year. Despite their height, however, the mountain system does not create a major barrier between the northern and the southern portions of the Meseta Central because several passes permit road and railroad transportation to the northwest and the northeast.
 
-The southern portion of the Meseta () is further divided by twin mountain ranges, the Montes de Toledo running to the east with the Sierra de Guadalupe, to the west. Their peaks do not rise much higher than 1,500 m. With many easy passes, including those that connect the Meseta with the Andalusian Plain, the Montes de Toledo do not present an obstacle to transportation and communication. This chain of lower mountain ranges is separated from the Sistema Central to the north by the longest river in the Iberian Peninsula: the Tagus River. Lamedo_I.jpg in Northern Spain]]
+The southern portion of the Meseta () is further divided by twin mountain ranges, the Montes de Toledo running to the east with the Sierra de Guadalupe, to the west. Their peaks do not rise much higher than 1,500 m. With many easy passes, including those that connect the Meseta with the Andalusian Plain, the Montes de Toledo do not present an obstacle to transportation and communication. This chain of lower mountain ranges is separated from the Sistema Central to the north by the longest river in the Iberian Peninsula: the Tagus River. in Northern Spain]]
 
 The mountain regions that rim the Meseta Central and are associated with it are the Sierra Morena, the Cordillera Cantábrica, and the Sistema Ibérico. Forming the southern edge of the Meseta Central, the Sierra Morena merges in the east with the southern extension of the Sistema Iberico and reaches westward along the northern edge of the Rio Guadalquivir valley to join the mountains in southern Portugal. The massif of the Sierra Morena extends northward to the Río Guadiana, which separates it from the Sistema Central. Despite their relatively low elevations, seldom surpassing 1,300 m, the mountains of the Sierra Morena are rugged at their southern edge.
 
@@ -41,7 +39,7 @@ The major lowland regions are the Andalusian Plain in the southwest, the Ebro Ba
 
 The Coastal Plains regions are narrow strips between the coastal mountains and the seas. They are broadest along the Golfo de Cádiz, where the coastal plain adjoins the Andalusian Plain, and along the southern and central eastern coasts. The narrowest coastal plain runs along the Bay of Biscay, where the Cordillera Cantábrica ends close to shore.
 
-Echium_Wildpretii_at_The_Teide.jpg, the highest mountain in Spain (Tenerife, Canary Islands)]]
+, the highest mountain in Spain (Tenerife, Canary Islands)]]
 
 The islands
 
@@ -52,7 +50,7 @@ The Canary Islands, ninety kilometers off the west coast of Africa, are of volca
 
 Drainage, floods and water stress
 
-Spain_River_Basins-en.png Of the roughly 1,800 rivers and streams in Spain, only the Tagus is more than 960 kilometers long; all but 90 extend less than 96 kilometers. These shorter rivers carry small volumes of water on an irregular basis, and they have seasonally dry river beds; however, when they do flow, they often are swift and torrential. Most major rivers rise in the mountains rimming or dissecting the Meseta Central and flow westward across the plateau through Portugal to empty into the Atlantic Ocean. One significant exception is the river with the most abundant flow in Spain, the Ebro, which flows eastward to the Mediterranean. Rivers in the extreme northwest and in the narrow northern coastal plain drain directly into the Atlantic Ocean. The northwestern coastline is also truncated by rias, waterbodies similar to fjords.[3]
+Of the roughly 1,800 rivers and streams in Spain, only the Tagus is more than 960 kilometers long; all but 90 extend less than 96 kilometers. These shorter rivers carry small volumes of water on an irregular basis, and they have seasonally dry river beds; however, when they do flow, they often are swift and torrential. Most major rivers rise in the mountains rimming or dissecting the Meseta Central and flow westward across the plateau through Portugal to empty into the Atlantic Ocean. One significant exception is the river with the most abundant flow in Spain, the Ebro, which flows eastward to the Mediterranean. Rivers in the extreme northwest and in the narrow northern coastal plain drain directly into the Atlantic Ocean. The northwestern coastline is also truncated by rias, waterbodies similar to fjords.[3]
 
 The major rivers flowing westward through the Meseta Central include the Duero, the Tagus, the Guadiana, and the Guadalquivir. The Rio Guadalquivir is one of the most significant rivers in Spain because it irrigates a fertile valley, thus creating a rich agricultural area, and because it is navigable inland, making Seville the only inland river port for ocean-going traffic in Spain. The major river in the northwest region is the Miño.[4]
 
@@ -60,7 +58,7 @@ El Atazar Dam is a major dam built near Madrid to provide a water supply.
 
 Floods and erosion
 
-Riadadesantateresa.jpg.]] Certain Spanish regions can be considered vulnerable to both flooding and erosion.[5]
+.]] Certain Spanish regions can be considered vulnerable to both flooding and erosion.[5]
 
 -   15 October 1879, in Murcia, Santa Teresa flood.
 -   13–15 October 1957, in Valencia, torrential rain results in a devastating flood, at least 81 people lost their lives.[6]
@@ -73,7 +71,7 @@ Water stress or water lack, poses the greatest threat in Spain. Water scarcity i
 
 Climate
 
-Tossa_de_Mar_View.jpg Three main climatic zones can be separated, according to geographical situation and orographic conditions:[9][10][11][12]
+Three main climatic zones can be separated, according to geographical situation and orographic conditions:[9][10][11][12]
 
 -   The Mediterranean climate, characterized by dry and warm summers. According to the Köppen climate classification, it is dominant in the peninsula, with two varieties: _Csa_ and _Csb_.
 -   The semiarid climate (_Bsh_, _Bsk_), located in the southeastern quarter of the country, especially in the region of Murcia and in the Ebro valley. In contrast with the Mediterranean climate, the dry season extends beyond the summer.
@@ -83,8 +81,6 @@ Apart from these main types, other sub-types can be found, like the desertic cli
 
 
 Population geography
-
-SpainOMC.png
 
 
 Largest cities by population
@@ -118,7 +114,7 @@ Largest cities by population
 
 Biggest metropolitan areas
 
-Spain_met.png The largest metropolitan areas, based on 2007 population, were:[13]
+The largest metropolitan areas, based on 2007 population, were:[13]
 
 1.  Madrid 5,603,285
 2.  Barcelona 4,667,136
@@ -169,7 +165,7 @@ Islander population:[14]
 
 Resources and land use
 
-Natural_resources_of_Spain.png, Cu — copper, Sn — tin, Hg — mercury, W — tungsten, U — uranium, PM for polymetals (Pb, Zn and others), PY for pyrite. Fossil fuels are in red: C — coal, L — lignite, O — oil, G — natural gas, OS — oil shale. In yellow: K — potash, P — phosphorite.]] NATURAL RESOURCES: coal, lignite, iron ore, uranium, mercury, pyrites, fluorspar, gypsum, zinc, lead, tungsten, copper, kaolin, potash, sepiolite, hydropower, arable land
+, Cu — copper, Sn — tin, Hg — mercury, W — tungsten, U — uranium, PM for polymetals (Pb, Zn and others), PY for pyrite. Fossil fuels are in red: C — coal, L — lignite, O — oil, G — natural gas, OS — oil shale. In yellow: K — potash, P — phosphorite.]] NATURAL RESOURCES: coal, lignite, iron ore, uranium, mercury, pyrites, fluorspar, gypsum, zinc, lead, tungsten, copper, kaolin, potash, sepiolite, hydropower, arable land
 
 LAND USE:
 

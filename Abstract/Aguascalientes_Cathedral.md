@@ -1,1 +1,0 @@
-The CATHEDRAL BASILICA OF OUR LADY OF THE ASSUMPTION[1] () Also AGUASCALIENTES CATHEDRAL[2] It is the main Catholic building of the city of Aguascalientes[3] in Mexico, and one of the emblematic monuments of the city. It is located in the _Plaza de la Patria_.

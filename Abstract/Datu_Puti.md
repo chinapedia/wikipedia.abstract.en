@@ -1,1 +1,0 @@
-DATU PUTI is a condiment brand owned by Nutri-Asia, Inc. (formerly known as Southeast Asia Foods, Inc.). Datu Puti was first introduced as a vinegar product in 1975 by Hernan Reyes. Eventually, soy sauce and fish sauce under the Datu Puti brand were introduced in the 1990s.[1] An oyster sauce product was also introduced.[2]

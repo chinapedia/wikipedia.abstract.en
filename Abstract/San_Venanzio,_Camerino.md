@@ -1,1 +1,0 @@
-Sanvenanzio.basilica.JPG SAN VENANZIO is a Roman Catholic church built with a late-Gothic structure with Neoclassical restorations, and located in the town of Camerino, province of Macerata, region of Marche, Italy.

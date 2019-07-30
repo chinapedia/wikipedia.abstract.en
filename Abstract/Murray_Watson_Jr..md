@@ -1,1 +1,0 @@
-MURRAY WATSON JR. (May 14, 1932 – July 24, 2018) was an American politician. He served as a Democratic member in the Texas House of Representatives from 1957 to 1963 and in the State Senate from 1963 to 1973.[1] As a senator, he introduced legislation that led to the creation of the Texas State Technical College.[2]

@@ -1,1 +1,0 @@
-English_USC2000_PHS.svg

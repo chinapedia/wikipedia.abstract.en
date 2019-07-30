@@ -1,1 +1,0 @@
-The SUBARU FORESTER is a Sport Utility Vehicle manufactured since 1997 by Subaru. Available in Japan from 1997, the Forester shares its platform with the Impreza. It has been awarded _Motor Trend's_ 2009 and 2014 SUV of the Year and The Car Connection's Best Car To Buy 2014.[1]

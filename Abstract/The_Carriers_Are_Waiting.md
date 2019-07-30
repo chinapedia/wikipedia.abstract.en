@@ -1,1 +1,0 @@
-_THE CARRIERS ARE WAITING_ ()[1][2] is a French-Belgian-Swiss 1999 film directed by Benoît Mariage. It was awarded the Bronze Horse prize for best film of that year by the Stockholm International Film Festival.[3]

@@ -1,1 +1,0 @@
-GIULIA BARTRUM is the curator of German prints and drawings (1400–1900) at the British Museum in London, England. She is also responsible for coordinating between departments, research into the provenance history of items held in the British Museum collections which may relate to the Nazi era.[1]

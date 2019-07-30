@@ -1,1 +1,0 @@
-LINCOLN is a cathedral city and the county town of Lincolnshire in the East Midlands of England. The non-metropolitan district of Lincoln had a 2012 population of 94,600.[1] The 2011 census gave the urban area of Lincoln, which includes North Hykeham and Waddington, a population of 130,200.[2][3]

@@ -1,1 +1,0 @@
-_BUCHI BABU_ is a 1980 Telugu comedy film, produced by Venkat Akkineni, Nagarjuna Akkineni under the Annapurna Studios banner,[1] and directed by Dasari Narayana Rao.[2] It stars Akkineni Nageswara Rao, Jaya Prada in the lead roles[3] and music composed by Chakravarthy.[4][5]

@@ -1,1 +1,0 @@
-JAMES YANCEY JONES (born September 30, 1940),[1] known professionally as TAIL DRAGGER JONES, is an American Chicago blues singer.[2] He has performed since the 1960s and released four albums to date. Jones gained a certain notoriety in 1993, after being convicted of second-degree murder for the killing of another blues musician, Boston Blackie.

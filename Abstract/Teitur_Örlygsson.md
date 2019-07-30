@@ -1,1 +1,0 @@
-TEITUR ÖRLYGSSON (born 9 January 1967) is an Icelandic former professional basketball player and a coach. During his career he won the Icelandic national championships ten times with Njarðvík.[1] He spent the 1996–1997 season with G.S. Olympia Larissa B.C. of the Greek Basketball League.[2]

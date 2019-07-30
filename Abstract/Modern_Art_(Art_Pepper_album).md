@@ -1,1 +1,0 @@
-_MODERN ART_ is an album by saxophonist Art Pepper featuring sessions from late 1956 and early 1957 originally released on the Intro label.[1][2] The album was rereleased on CD on Blue Note Records with bonus tracks as _MODERN ART: THE COMPLETE ART PEPPER ALADDIN RECORDINGS VOLUME 2_ in 1988.

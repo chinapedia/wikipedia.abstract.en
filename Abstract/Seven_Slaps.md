@@ -1,1 +1,0 @@
-_SEVEN SLAPS_ (German: _SIEBEN OHRFEIGEN_) is a 1937 German comedy film directed by Paul Martin and starring Lilian Harvey, Willy Fritsch and Alfred Abel. Like the earlier Lucky Kids, which had the same director and stars, it was an attempt to create a German version of screwball comedy. While the previous film had a New York setting, this takes place in London.[1]

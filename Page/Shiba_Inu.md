@@ -5,12 +5,12 @@ A small, agile dog that copes very well with mountainous terrain, the Shiba Inu 
 
 Etymology
 
-Shiba_inu_at_the_entrance_of_a_house,_-Japan_2010_a.jpg, Japan]] _Inu_ is the Japanese word for dog, but the origin of the prefix "Shiba" is less clear. The word _shiba_ means "brushwood" in Japanese, and refers to a type of tree or shrub whose leaves turn red in the fall.[7] This leads some to believe that the Shiba was named with this in mind, either because the dogs were used to hunt in wild shrubs, or because the most common color of the Shiba Inu is a red color similar to that of the shrubs. However, in an old Nagano dialect, the word _shiba_ also had the meaning of "small", thus this might be a reference to the dog's diminutive stature.[8] Therefore, the Shiba Inu is sometimes translated as "Little Brushwood Dog".[9]
+, Japan]] _Inu_ is the Japanese word for dog, but the origin of the prefix "Shiba" is less clear. The word _shiba_ means "brushwood" in Japanese, and refers to a type of tree or shrub whose leaves turn red in the fall.[7] This leads some to believe that the Shiba was named with this in mind, either because the dogs were used to hunt in wild shrubs, or because the most common color of the Shiba Inu is a red color similar to that of the shrubs. However, in an old Nagano dialect, the word _shiba_ also had the meaning of "small", thus this might be a reference to the dog's diminutive stature.[8] Therefore, the Shiba Inu is sometimes translated as "Little Brushwood Dog".[9]
 
 
 Appearance
 
-Shiba_Inu_cream.jpg The Shiba's frame is compact with well-developed muscles.[10] Males are at the withers. Females are . The preferred size is the middle of the range for each sex. Average weight at preferred size is approximately for males, for females. Bones are moderate.
+The Shiba's frame is compact with well-developed muscles.[10] Males are at the withers. Females are . The preferred size is the middle of the range for each sex. Average weight at preferred size is approximately for males, for females. Bones are moderate.
 
 The Shiba is double coated, with the outer coat being stiff and straight and the undercoat soft and thick. Fur is short and even on the fox-like face, ears, and legs. Guard hairs stand off the body and are about long at the withers. The purpose of the guard hairs is to protect their underlying skin and to repel rain or snow. Tail hair is slightly longer and stands open in a brush. Their tails are a defining characteristic and makes them stand apart from other dog breeds. Their tails help to protect them from the harsh winter weather. When they sleep, Shiba Inus curl up and use their tails to shield their face and nose in order to protect their sensitive areas from the cold. Shibas may be red, black and tan, or sesame (red with black-tipped hairs),[11] with a cream, buff, or grey undercoat. They may also be white (cream), though this color is considered a "major fault" by the American Kennel Club and should never be intentionally bred in a show dog, as the required markings known as are not visible; "Urajiro" literally translates to "underside white".[12] Conversely, a white (cream) coat is perfectly acceptable according to the British Kennel Club breed standard.[13]
 
@@ -19,7 +19,7 @@ The _urajiro_ (cream to white ventral color) is required in the following areas 
 
 Temperament
 
-Shiba_Inu_600.jpg Shibas tend to exhibit an independent nature[15]. From the Japanese breed standard:
+Shibas tend to exhibit an independent nature[15]. From the Japanese breed standard:
 
   A spirited boldness, a good nature, and an unaffected forthrightness, which together yield dignity and natural beauty. The Shiba has an independent nature and can be reserved toward strangers but is loyal and affectionate to those who earn his respect. They can be aggressive toward other dogs.
 
@@ -32,20 +32,18 @@ A distinguishing characteristic of the breed is the so-called "shiba scream". Wh
 
 History
 
-Shiba_inu_blacktan.jpg
-
 The Shiba Inu has been identified as a basal breed that predates the emergence of the modern breeds in the 19th Century.[21]
 
 Originally, the Shiba Inu was bred to hunt and flush small game, such as birds and rabbit. Shiba lived in the mountainous areas of the Chūbu region. During the Meiji Restoration, western dog breeds were imported and crosses between these and native Japanese breeds became popular. From 1912 to 1926, almost no pure Shiba remained. From around 1928, hunters and intellectuals began to show interest in the protection of the remaining pure Shiba;[22] however, despite efforts to preserve the breed, the Shiba nearly became extinct during World War II[23] due to a combination of food shortage and a post-war distemper epidemic.[24] All subsequent dogs were bred from the only three surviving bloodlines.[25] These bloodlines were the Shinshu Shiba from Nagano Prefecture, the Mino Shiba from the former Mino Province in the south of present-day Gifu Prefecture, and the San'in Shiba from Tottori and Shimane Prefectures.[26] The Shinshu Shibas possessed a solid undercoat, with a dense layer of guard-hairs, and were small and red in color.
 
-Fm_shiba_inu_puppy.jpg The Mino Shibas tended to have thick, prick ears, and possessed a sickle tail, rather than the common curled tail found on most modern Shibas. The San'in Shibas were larger than most modern shibas, and tended to be black, without the common tan and white accents found on modern black-and-tan shibas.[27] When the study of Japanese dogs was formalized in the early and mid-20th century, these three strains were combined into one overall breed, the Shiba Inu.[28] The first Japanese breed standard for the Shiba, the Nippo Standard, was published in 1934. In December 1936, the Shiba Inu was recognized as a Natural Monument of Japan through the Cultural Properties Act, largely due to the efforts of Nippo (Nihon Ken Hozonkai), the Association for the Preservation of the Japanese Dog.[29][30]
+The Mino Shibas tended to have thick, prick ears, and possessed a sickle tail, rather than the common curled tail found on most modern Shibas. The San'in Shibas were larger than most modern shibas, and tended to be black, without the common tan and white accents found on modern black-and-tan shibas.[27] When the study of Japanese dogs was formalized in the early and mid-20th century, these three strains were combined into one overall breed, the Shiba Inu.[28] The first Japanese breed standard for the Shiba, the Nippo Standard, was published in 1934. In December 1936, the Shiba Inu was recognized as a Natural Monument of Japan through the Cultural Properties Act, largely due to the efforts of Nippo (Nihon Ken Hozonkai), the Association for the Preservation of the Japanese Dog.[29][30]
 
 In 1954, an armed service family brought the first Shiba Inu to the United States.[31] In 1979, the first recorded litter was born in the United States.[32] The Shiba was recognized by the American Kennel Club in 1992 and added to the AKC Non-Sporting Group in 1993.[33][34] It is now primarily kept as a pet both in Japan and abroad.[35] According to the American Kennel Club, the Shiba Inu is the number one companion dog in Japan. In the United States, the growing popularity of the Shiba Inu is evident as the American Kennel Club Registration Statistics ranked the breed in 44th place in 2016; a rise from 50th place in 2012.[36]
 
 
 Health
 
-Shiba_inu_taiki.jpg Overall, the Shiba Inu is a healthy dog breed.[37][38][39][40] Health conditions known to affect this breed are allergies, glaucoma, cataracts, hip dysplasia, entropion, and luxating patella.[41] Periodic joint examinations are recommended throughout the dog's life. Eye tests should be performed yearly as eye problems can develop over time. By two years of age, Shiba Inus may be considered fully free from joint problems, if none have been discovered, since at this age the skeleton is fully developed.
+Overall, the Shiba Inu is a healthy dog breed.[37][38][39][40] Health conditions known to affect this breed are allergies, glaucoma, cataracts, hip dysplasia, entropion, and luxating patella.[41] Periodic joint examinations are recommended throughout the dog's life. Eye tests should be performed yearly as eye problems can develop over time. By two years of age, Shiba Inus may be considered fully free from joint problems, if none have been discovered, since at this age the skeleton is fully developed.
 
 As with most dog breeds, Shibas should be walked or otherwise exercised daily.[42]
 

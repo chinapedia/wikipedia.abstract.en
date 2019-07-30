@@ -1,1 +1,0 @@
-RENÉ CORMIER (born April 27, 1956) is a Canadian Acadian artist and activist from New Brunswick. On October 27, 2016, Cormier was named to the Senate of Canada by Prime Minister Justin Trudeau to sit as an independent.[1][2] Cormier assumed his seat on November 10, 2016.

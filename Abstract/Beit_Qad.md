@@ -1,1 +1,0 @@
-BEIT QAD () is a Palestinian rural village in the West Bank governorate of Jenin. The village is located 5km from the city of Jenin and according to the Palestinian Central Bureau of Statistics (PCBS) in 2016 it had a population of 1,799.[1]

@@ -1,1 +1,0 @@
-The 1997 COPA CONMEBOL FINALS were the final two-legged tie that decided the 1997 Copa CONMEBOL, the sixth edition of Copa CONMEBOL. The finals were contested in two-legged home-and-away format between Argentina's Lanús and Atlético Mineiro from Brazil. The matches were held at the Estadio Ciudad de Lanús, in Lanús, and at the Mineirão, in Belo Horizonte.

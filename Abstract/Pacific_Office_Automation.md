@@ -1,1 +1,0 @@
-PACIFIC OFFICE AUTOMATION (also known as "POA" or "Pacific Office") is a privately held office technology company based in Beaverton, Oregon. POA is the largest office equipment dealer in the United States, with over 1,000 employees and offices in eight different states.[1]

@@ -1,1 +1,0 @@
-ABERTILLERY (; , meaning mouth of the River Tyleri) is the largest town and a community of the Ebbw Fach valley in the historic county of Monmouthshire, Wales. Following local government reorganisation it became part of the Blaenau Gwent County Borough administrative area.

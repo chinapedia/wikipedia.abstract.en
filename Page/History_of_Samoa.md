@@ -1,4 +1,4 @@
-Samoa_Cram_Map_1896.jpg The Samoan Islands were first settled some 3,500 years ago as part of the Austronesian expansion. Samoa's early and more current history is strongly connected with the histories of Tonga and Fiji, which are in the same region, and with whom it shares historical, genealogical, and cultural traditions.
+The Samoan Islands were first settled some 3,500 years ago as part of the Austronesian expansion. Samoa's early and more current history is strongly connected with the histories of Tonga and Fiji, which are in the same region, and with whom it shares historical, genealogical, and cultural traditions.
 
 European exploration first reached the islands in the early 18th century. Louis-Antoine de Bougainville named them _Navigator Islands_ in 1768. The United States Exploring Expedition (1838–42) under Charles Wilkes reached Samoa in 1839. In 1855 J.C. Godeffroy & Sohn expanded its trading business into the archipelago. The Samoan Civil War of 1886–1894 devolved into the Samoan crisis between colonial powers, followed by the Second Samoan Civil War of 1898/9, which was resolved by partition of the islands in the Tripartite Convention, between the United States, Great Britain and Germany
 
@@ -13,7 +13,7 @@ Tagaloa was a Dynasty that ruled a Pacific Empire around Fiji Tonga Samoa, befor
 
 Ancient Samoan oral traditions known only by direct descendants ( and hidden for thousands of years) speak of Lumatagi, 'Lu of the winds' who discovered New Zealand, and saw icebergs in the south. He named New Zealand Savai'i laulau. Stretched out Savai'i as they often named volcanic islands after Savai'i. He had a gigantic canoe called 'blink of an eye' because it was so fast. He was also Lufasiaitu, 'Lu the ghost slayer', who defeated Tagaloa and finally ended his power. His grandfather had discovered Hawai'i.
 
-Sketch_map_Samoa_in_the_Pacific.jpg in the Pacific.]] Linguistically, the Samoan language belongs to the Polynesian sub-branch of the Austronesian language family, whose origin is thought to be in Taiwan.
+in the Pacific.]] Linguistically, the Samoan language belongs to the Polynesian sub-branch of the Austronesian language family, whose origin is thought to be in Taiwan.
 
 According to oral tradition, Samoa shares the common Polynesian ancestor of Tagaloa.[2] The very earliest history of Samoa concerns a political center in the easternmost Samoan islands of Manu'a, under the rule of the Tui Manu'a. In the Cook Islands to the east, the tradition is that Karika, or Tui Manu'a 'Ali'a, came to the Cook Islands from Manu'a; suggesting that it was from Manu'a and Samoa that the rest of Polynesia developed.
 
@@ -54,13 +54,13 @@ In the 1880s Great Britain, Germany and the United States all claimed parts of t
 
 The First Samoan Civil War and the Samoan crisis
 
-Samoan_Crisis_wrecks_2.jpg SMS_Adler_1889_1.jpg The First Samoan Civil War was fought roughly between 1886 and 1894, primarily between rival Samoan factions, although the rival powers intervened on several occasions with military forces. There followed an eight-year civil war, where each of the three powers supplied arms, training, and in some cases, combat troops to the warring Samoan parties.[6] The Samoan crisis came to a critical juncture in March 1889 when all three colonial contenders sent warships into Apia harbour, and a larger-scale war seemed imminent, until a massive storm on 15 March 1889 damaged or destroyed the warships, ending the military conflict.[7]
+The First Samoan Civil War was fought roughly between 1886 and 1894, primarily between rival Samoan factions, although the rival powers intervened on several occasions with military forces. There followed an eight-year civil war, where each of the three powers supplied arms, training, and in some cases, combat troops to the warring Samoan parties.[6] The Samoan crisis came to a critical juncture in March 1889 when all three colonial contenders sent warships into Apia harbour, and a larger-scale war seemed imminent, until a massive storm on 15 March 1889 damaged or destroyed the warships, ending the military conflict.[7]
 
 Robert Louis Stevenson arrived in Samoa in 1889 and built a house at Vailima. He quickly became passionately involved in the attendant political machinations. His influence spread to the Samoans, who consulted him for advice, and he soon became involved in local politics. These involved the three colonial powers battling for control of Samoa - America, Germany and Britain - and the indigenous factions struggling to preserve their ancient political system. He was convinced that the European officials appointed to rule the Samoans were incompetent, and after many futile attempts to resolve the matter, he published _A Footnote to History_. The book covers the period from 1882 to 1892.[8] This was such a stinging protest against existing conditions that it resulted in the recall of two officials, and Stevenson feared for a time it would result in his own deportation.[9]
 
 The Second Samoan Civil War and the Siege of Apia
 
-German,_British,_American_warships_in_Apia_harbour,_Samoa_1899.jpg harbour, 1899 (Alfred John Tattersall)]] The Second Samoan Civil War reached a head in 1898 when Germany, Great Britain and the United States disputed over who should control the Samoan Islands.
+harbour, 1899 (Alfred John Tattersall)]] The Second Samoan Civil War reached a head in 1898 when Germany, Great Britain and the United States disputed over who should control the Samoan Islands.
 
 The BATTLE OF APIA occurred in March 1899. Samoan forces loyal to Prince Tanu were besieged by a larger force of Samoan rebels loyal to powerful chief Mata'afa Iosefo. Supporting Prince Tanu were landing parties from four British and American warships. Over several days of fighting, the Samoan rebels were defeated.[10]
 
@@ -76,7 +76,7 @@ The Tripartite Convention gave control of the islands west of 171 degrees west l
 
 Independence
 
-Lauaki_Namulau'ulu_Mamoe_(standing_3rd_from_left_with_orator's_staff)_and_other_chiefs_aboard_German_warship_taking_them_to_exile_in_Saipan,_2909.jpg. Standing 3rd from the left is Lauaki Namulauulu Mamoe, 1909.]] NZ_sailors_removing_white_band,_insignia_of_the_Mau,_from_lavalava_1930.jpg, the insignia of the Mau uniform, circa 1930]] From 1908, with the establishment of the Mau movement ("opinion movement"), Western Samoans began to assert their claim to independence. The Mau movement began in 1908 with the ‘Mau a Pule' resistance on Savai'i, led by orator chief Lauaki Namulau'ulu Mamoe. Lauaki and Mau a Pule chiefs, wives and children were exiled to Saipan in 1909. Many died in exile.[16]
+. Standing 3rd from the left is Lauaki Namulauulu Mamoe, 1909.]] , the insignia of the Mau uniform, circa 1930]] From 1908, with the establishment of the Mau movement ("opinion movement"), Western Samoans began to assert their claim to independence. The Mau movement began in 1908 with the ‘Mau a Pule' resistance on Savai'i, led by orator chief Lauaki Namulau'ulu Mamoe. Lauaki and Mau a Pule chiefs, wives and children were exiled to Saipan in 1909. Many died in exile.[16]
 
 World War I broke out in August 1914, and soon after, New Zealand sent an expeditionary force to seize and occupy German Samoa. Although Germany refused to officially surrender the islands, no resistance was offered and the occupation took place without any fighting. New Zealand continued the occupation of Western Samoa throughout World War I. Under the Treaty of Versailles in 1919, Germany relinquished its claims to the islands.
 

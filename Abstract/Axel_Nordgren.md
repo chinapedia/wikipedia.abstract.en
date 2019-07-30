@@ -1,1 +1,0 @@
-Axel_Wilhelm_Nordgren_-_from_Svenskt_Porträttgalleri_XX.png Axel_Wilhelm_Nordgren_-_Fiskeläge_i_månsken.jpg AXEL WILHELM NORDGREN (5 December 1828, Stockholm - 12 February 1888, Düsseldorf) was a Swedish landscape painter.

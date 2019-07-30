@@ -1,1 +1,0 @@
-WILFRED THOMAS PRINCE was born 13 October 1960 at Cherbourg Aboriginal Mission in Queensland, Australia.[1] He is affectionately known as 'Willie'. He carried the Paralympic Torch in Brisbane during 2000 Olympics and is active in the Aboriginal and Torres Strait Islander community.[2]

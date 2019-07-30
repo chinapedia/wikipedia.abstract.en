@@ -1,1 +1,0 @@
-ZULFIQAR BUTT (born 1 January 1971) is a Pakistani former cricketer. He played 42 first-class matches in Pakistan between 1984 and 1998.[1] He was also part of Pakistan's squad for the 1988 Youth Cricket World Cup.[2]

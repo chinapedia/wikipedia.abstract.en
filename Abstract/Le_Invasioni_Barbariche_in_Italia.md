@@ -1,1 +1,0 @@
-LE INVASIONI BARBARICHE IN ITALIA is Professor Pasquale Villari's popular account of the barbarian invasions of the Roman Empire from the Antonines to the coronation of Charlemagne in 800 A.D. as Holy Roman Emperor. The book was first published in 1901 by Ulrico Hoepli in Milan.[1]

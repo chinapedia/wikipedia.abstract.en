@@ -1,1 +1,0 @@
-The EDEN PROJECT () is a popular visitor attraction in Cornwall, England, UK. Inside the two biomes are plants that are collected from many diverse climates and environments. The project is located in a reclaimed china clay pit, located from the town of St Blazey and from the larger town of St Austell.[1]

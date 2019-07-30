@@ -26,7 +26,7 @@ Origins
 
 There is fossil evidence to suggest that snakes may have evolved from burrowing lizards, such as the varanids (or a similar group) during the Cretaceous Period.[21] An early fossil snake relative, _Najash rionegrina_, was a two-legged burrowing animal with a sacrum, and was fully terrestrial.[22] One extant analog of these putative ancestors is the earless monitor _Lanthanotus_ of Borneo (though it also is semiaquatic).[23] Subterranean species evolved bodies streamlined for burrowing, and eventually lost their limbs.[24] According to this hypothesis, features such as the transparent, fused eyelids (brille) and loss of external ears evolved to cope with fossorial difficulties, such as scratched corneas and dirt in the ears.[25][26] Some primitive snakes are known to have possessed hindlimbs, but their pelvic bones lacked a direct connection to the vertebrae. These include fossil species like _Haasiophis_, _Pachyrhachis_ and _Eupodophis_, which are slightly older than _Najash_.[27]
 
-Naturkundemuseum_Berlin_-_Archaeophis_proavus_Massalongo_-_Monte_Bolca.jpg This hypothesis was strengthened in 2015 by the discovery of a 113m year-old fossil of a four-legged snake in Brazil that has been named _Tetrapodophis amplectus_. It has many snake-like features, is adapted for burrowing and its stomach indicates that it was preying on other animals.[28] It is currently uncertain if _Tetrapodophis_ is a snake or another species, in the squamate order, as a snake-like body has independently evolved at least 26 times. _Tetrapodophis_ does not have distinctive snake features in its spine and skull.[29][30]
+This hypothesis was strengthened in 2015 by the discovery of a 113m year-old fossil of a four-legged snake in Brazil that has been named _Tetrapodophis amplectus_. It has many snake-like features, is adapted for burrowing and its stomach indicates that it was preying on other animals.[28] It is currently uncertain if _Tetrapodophis_ is a snake or another species, in the squamate order, as a snake-like body has independently evolved at least 26 times. _Tetrapodophis_ does not have distinctive snake features in its spine and skull.[29][30]
 
 An alternative hypothesis, based on morphology, suggests the ancestors of snakes were related to mosasaurs—extinct aquatic reptiles from the Cretaceous—which in turn are thought to have derived from varanid lizards.[31] According to this hypothesis, the fused, transparent eyelids of snakes are thought to have evolved to combat marine conditions (corneal water loss through osmosis), and the external ears were lost through disuse in an aquatic environment. This ultimately led to an animal similar to today's sea snakes. In the Late Cretaceous, snakes recolonized land, and continued to diversify into today's snakes. Fossilized snake remains are known from early Late Cretaceous marine sediments, which is consistent with this hypothesis; particularly so, as they are older than the terrestrial _Najash rionegrina_. Similar skull structure, reduced or absent limbs, and other anatomical features found in both mosasaurs and snakes lead to a positive cladistical correlation, although some of these features are shared with varanids.
 
@@ -36,8 +36,6 @@ In 2016 two studies reported that limb loss in snakes is associated with DNA mut
 
 
 Distribution
-
-World_distribution_of_snakes.svg
 
 There are over 2,900 species of snakes ranging as far northward as the Arctic Circle in Scandinavia and southward through Australia.[36] Snakes can be found on every continent except Antarctica, in the sea, and as high as in the Himalayan Mountains of Asia.[37][38] There are numerous islands from which snakes are absent, such as Ireland, Iceland, and New Zealand[39][40] (although New Zealand's waters are infrequently visited by the yellow-bellied sea snake and the banded sea krait).[41]
 
@@ -87,7 +85,7 @@ While snakes are limbless reptiles, which evolved from (and are grouped with) li
 
 Biology
 
-Leptotyphlops_carlae.jpg'', on an American quarter dollar.]]
+'', on an American quarter dollar.]]
 
 Size
 
@@ -97,11 +95,11 @@ At the other end of the scale, the smallest extant snake is _Leptotyphlops carla
 
 Perception
 
-wiki_snake_eats_mouse.jpg Pit vipers, pythons, and some boas have infrared-sensitive receptors in deep grooves on the snout, which allow them to "see" the radiated heat of warm-blooded prey. In pit vipers, the grooves are located between the nostril and the eye in a large "pit" on each side of the head. Other infrared-sensitive snakes have multiple, smaller labial pits lining the upper lip, just below the nostrils.[57]
+Pit vipers, pythons, and some boas have infrared-sensitive receptors in deep grooves on the snout, which allow them to "see" the radiated heat of warm-blooded prey. In pit vipers, the grooves are located between the nostril and the eye in a large "pit" on each side of the head. Other infrared-sensitive snakes have multiple, smaller labial pits lining the upper lip, just below the nostrils.[57]
 
 Snakes use smell to track their prey. They smell by using their forked tongues to collect airborne particles, then passing them to the vomeronasal organ or _Jacobson's organ_ in the mouth for examination.[58] The fork in the tongue gives snakes a sort of directional sense of smell and taste simultaneously.[59] They keep their tongues constantly in motion, sampling particles from the air, ground, and water, analyzing the chemicals found, and determining the presence of prey or predators in the local environment. In water-dwelling snakes, such as the anaconda, the tongue functions efficiently underwater.[60]
 
-Ptyas_gab_fbi.png's Fauna of British India (1890) illustrating the terminology of shields on the head of a snake.]] The underside is very sensitive to vibration. This allows snakes to be able to sense approaching animals by detecting faint vibrations in the ground.[61]
+'s Fauna of British India (1890) illustrating the terminology of shields on the head of a snake.]] The underside is very sensitive to vibration. This allows snakes to be able to sense approaching animals by detecting faint vibrations in the ground.[61]
 
 Snake vision varies greatly, from only being able to distinguish light from dark to keen eyesight, but the main trend is that their vision is adequate although not sharp, and allows them to track movements.[62] Generally, vision is best in arboreal snakes and weakest in burrowing snakes. Some snakes, such as the Asian vine snake (genus _Ahaetulla_), have binocular vision, with both eyes capable of focusing on the same point. Most snakes focus by moving the lens back and forth in relation to the retina, while in the other amniote groups, the lens is stretched. Many nocturnal snakes have slit pupils while diurnal snakes have round pupils.
 
@@ -117,7 +115,7 @@ The shape and number of scales on the head, back, and belly are often characteri
 
 Molting
 
-Nerodia_sipedon_shedding.JPG Molting, or ecdysis, serves a number of functions. Firstly, the old and worn skin is replaced; secondly, it helps get rid of parasites such as mites and ticks. Renewal of the skin by molting is supposed to allow growth in some animals such as insects; however, this has been disputed in the case of snakes.[66][67]
+Molting, or ecdysis, serves a number of functions. Firstly, the old and worn skin is replaced; secondly, it helps get rid of parasites such as mites and ticks. Renewal of the skin by molting is supposed to allow growth in some animals such as insects; however, this has been disputed in the case of snakes.[66][67]
 
 Molting occurs periodically throughout the snake's life. Before a molt, the snake stops eating and often hides or moves to a safe place. Just before shedding, the skin becomes dull and dry looking and the eyes become cloudy or blue-colored. The inner surface of the old skin liquefies. This causes the old skin to separate from the new skin beneath it. After a few days, the eyes clear and the snake "crawls" out of its old skin. The old skin breaks near the mouth and the snake wriggles out, aided by rubbing against rough surfaces. In many cases, the cast skin peels backward over the body from head to tail in one piece, like pulling a sock off inside-out. A new, larger, brighter layer of skin has formed underneath.[68][69]
 
@@ -127,7 +125,7 @@ Scale counts can sometimes be used to tell the sex of a snake when the species i
 
 Skeleton
 
-Snake_Skeletons.jpg, right), being made up almost entirely of an extended ribcage.]] The skeleton of most snakes consists solely of the skull, hyoid, vertebral column, and ribs, though henophidian snakes retain vestiges of the pelvis and rear limbs.
+, right), being made up almost entirely of an extended ribcage.]] The skeleton of most snakes consists solely of the skull, hyoid, vertebral column, and ribs, though henophidian snakes retain vestiges of the pelvis and rear limbs.
 
 The skull of the snake consists of a solid and complete neurocranium, to which many of the other bones are only loosely attached, particularly the highly mobile jaw bones, which facilitate manipulation and ingestion of large prey items. The left and right sides of the lower jaw are joined only by a flexible ligament at the anterior tips, allowing them to separate widely, while the posterior end of the lower jaw bones articulate with a quadrate bone, allowing further mobility. The bones of the mandible and quadrate bones can also pick up ground borne vibrations.[75] Because the sides of the jaw can move independently of one another, snakes resting their jaws on a surface have sensitive stereo hearing which can detect the position of prey. The jaw-quadrate-stapes pathway is capable of detecting vibrations on the angstrom scale, despite the absence of an outer ear and the ossicle mechanism of impedance matching used in other vertebrates to receive vibrations from the air.[76][77]
 
@@ -153,7 +151,7 @@ Snakes have no lymph nodes.[90]
 
 Venom
 
-Red_milk_snake.JPGs are often mistaken for coral snakes whose venom is deadly to humans.]]
+s are often mistaken for coral snakes whose venom is deadly to humans.]]
 
 Cobras, vipers, and closely related species use venom to immobilize, injure or kill their prey. The venom is modified saliva, delivered through fangs.[91] The fangs of 'advanced' venomous snakes like viperids and elapids are hollow to inject venom more effectively, while the fangs of rear-fanged snakes such as the boomslang merely have a groove on the posterior edge to channel venom into the wound. Snake venoms are often prey specific—their role in self-defense is secondary.[92]
 
@@ -186,7 +184,7 @@ Most species of snakes lay eggs which they abandon shortly after laying. However
 
 Some species of snake are ovoviviparous and retain the eggs within their bodies until they are almost ready to hatch.[117][118] Recently, it has been confirmed that several species of snake are fully viviparous, such as the boa constrictor and green anaconda, nourishing their young through a placenta as well as a yolk sac, which is highly unusual among reptiles, or anything else outside of requiem sharks or placental mammals.[119][120] Retention of eggs and live birth are most often associated with colder environments.[121][122]
 
-Coast_Garter_Snake.jpg Sexual selection in snakes is demonstrated by the three thousand species that each use different tactics in acquiring mates.[123] Ritual combat between males for the females they want to mate with includes topping, a behavior exhibited by most viperids in which one male will twist around the vertically elevated fore body of its opponent and forcing it downward. It is common for neck biting to occur while the snakes are entwined.[124]
+Sexual selection in snakes is demonstrated by the three thousand species that each use different tactics in acquiring mates.[123] Ritual combat between males for the females they want to mate with includes topping, a behavior exhibited by most viperids in which one male will twist around the vertically elevated fore body of its opponent and forcing it downward. It is common for neck biting to occur while the snakes are entwined.[124]
 
 Facultative parthenogenesis
 
@@ -203,7 +201,7 @@ In regions where winters are colder than snakes can tolerate while remaining act
 
 Feeding and diet
 
-Carpet_snake.jpg constricting and consuming a chicken.]] Eierschlange_frisst_Zwergwachtelei.jpg eating an egg]]
+constricting and consuming a chicken.]] eating an egg]]
 
 All snakes are strictly carnivorous, eating small animals including lizards, frogs, other snakes, small mammals, birds, eggs, fish, snails or insects.[128][129][130] Because snakes cannot bite or tear their food to pieces, they must swallow prey whole. The body size of a snake has a major influence on its eating habits. Smaller snakes eat smaller prey. Juvenile pythons might start out feeding on lizards or mice and graduate to small deer or antelope as an adult, for example.
 
@@ -213,7 +211,7 @@ While the majority of snakes eat a variety of prey animals, there is some specia
 
 Some snakes have a venomous bite, which they use to kill their prey before eating it.[137][138] Other snakes kill their prey by constriction.[139] Still others swallow their prey whole and alive.[140][141]
 
-PikiWiki_Israel_37648_Nature_and_Colors.jpg'' preying on a Sheltopusik.]] After eating, snakes become dormant while the process of digestion takes place.[142] Digestion is an intense activity, especially after consumption of large prey. In species that feed only sporadically, the entire intestine enters a reduced state between meals to conserve energy. The digestive system is then 'up-regulated' to full capacity within 48 hours of prey consumption. Being ectothermic ("cold-blooded"), the surrounding temperature plays a large role in snake digestion. The ideal temperature for snakes to digest is . So much metabolic energy is involved in a snake's digestion that in the Mexican rattlesnake (_Crotalus durissus_), surface body temperature increases by as much as during the digestive process.[143] Because of this, a snake disturbed after having eaten recently will often regurgitate its prey to be able to escape the perceived threat. When undisturbed, the digestive process is highly efficient, with the snake's digestive enzymes dissolving and absorbing everything but the prey's hair (or feathers) and claws, which are excreted along with waste.
+'' preying on a Sheltopusik.]] After eating, snakes become dormant while the process of digestion takes place.[142] Digestion is an intense activity, especially after consumption of large prey. In species that feed only sporadically, the entire intestine enters a reduced state between meals to conserve energy. The digestive system is then 'up-regulated' to full capacity within 48 hours of prey consumption. Being ectothermic ("cold-blooded"), the surrounding temperature plays a large role in snake digestion. The ideal temperature for snakes to digest is . So much metabolic energy is involved in a snake's digestion that in the Mexican rattlesnake (_Crotalus durissus_), surface body temperature increases by as much as during the digestive process.[143] Because of this, a snake disturbed after having eaten recently will often regurgitate its prey to be able to escape the perceived threat. When undisturbed, the digestive process is highly efficient, with the snake's digestive enzymes dissolving and absorbing everything but the prey's hair (or feathers) and claws, which are excreted along with waste.
 
 Locomotion
 
@@ -221,7 +219,7 @@ The lack of limbs does not impede the movement of snakes. They have developed se
 
 Lateral undulation
 
-Foot_prints_of_Snake.jpg Lateral undulation is the sole mode of aquatic locomotion, and the most common mode of terrestrial locomotion.[146] In this mode, the body of the snake alternately flexes to the left and right, resulting in a series of rearward-moving "waves".[147] While this movement appears rapid, snakes have rarely been documented moving faster than two body-lengths per second, often much less.[148] This mode of movement has the same net cost of transport (calories burned per meter moved) as running in lizards of the same mass.[149]
+Lateral undulation is the sole mode of aquatic locomotion, and the most common mode of terrestrial locomotion.[146] In this mode, the body of the snake alternately flexes to the left and right, resulting in a series of rearward-moving "waves".[147] While this movement appears rapid, snakes have rarely been documented moving faster than two body-lengths per second, often much less.[148] This mode of movement has the same net cost of transport (calories burned per meter moved) as running in lizards of the same mass.[149]
 
 Terrestrial lateral undulation is the most common mode of terrestrial locomotion for most snake species.[150] In this mode, the posteriorly moving waves push against contact points in the environment, such as rocks, twigs, irregularities in the soil, etc.[151] Each of these environmental objects, in turn, generates a reaction force directed forward and towards the midline of the snake, resulting in forward thrust while the lateral components cancel out.[152] The speed of this movement depends upon the density of push-points in the environment, with a medium density of about 8 along the snake's length being ideal.[153] The wave speed is precisely the same as the snake speed, and as a result, every point on the snake's body follows the path of the point ahead of it, allowing snakes to move through very dense vegetation and small openings.[154]
 
@@ -229,7 +227,7 @@ When swimming, the waves become larger as they move down the snake's body, and t
 
 Sidewinding
 
-Neonate_sidewinder_sidewinding_with_tracks_unlabeled.jpg'') sidewinding.]] Most often employed by colubroid snakes (colubrids, elapids, and vipers) when the snake must move in an environment that lacks irregularities to push against (rendering lateral undulation impossible), such as a slick mud flat, or a sand dune, sidewinding is a modified form of lateral undulation in which all of the body segments oriented in one direction remain in contact with the ground, while the other segments are lifted up, resulting in a peculiar "rolling" motion.[158][159] This mode of locomotion overcomes the slippery nature of sand or mud by pushing off with only static portions on the body, thereby minimizing slipping.[160] The static nature of the contact points can be shown from the tracks of a sidewinding snake, which show each belly scale imprint, without any smearing. This mode of locomotion has very low caloric cost, less than ⅓ of the cost for a lizard to move the same distance.[161] Contrary to popular belief, there is no evidence that sidewinding is associated with the sand being hot.[162]
+'') sidewinding.]] Most often employed by colubroid snakes (colubrids, elapids, and vipers) when the snake must move in an environment that lacks irregularities to push against (rendering lateral undulation impossible), such as a slick mud flat, or a sand dune, sidewinding is a modified form of lateral undulation in which all of the body segments oriented in one direction remain in contact with the ground, while the other segments are lifted up, resulting in a peculiar "rolling" motion.[158][159] This mode of locomotion overcomes the slippery nature of sand or mud by pushing off with only static portions on the body, thereby minimizing slipping.[160] The static nature of the contact points can be shown from the tracks of a sidewinding snake, which show each belly scale imprint, without any smearing. This mode of locomotion has very low caloric cost, less than ⅓ of the cost for a lizard to move the same distance.[161] Contrary to popular belief, there is no evidence that sidewinding is associated with the sand being hot.[162]
 
 Concertina
 
@@ -237,7 +235,7 @@ When push-points are absent, but there is not enough space to use sidewinding be
 
 Arboreal
 
-Golden_tree_snake.jpg climbing a flower]] The movement of snakes in arboreal habitats has only recently been studied.[167] While on tree branches, snakes use several modes of locomotion depending on species and bark texture.[168] In general, snakes will use a modified form of concertina locomotion on smooth branches, but will laterally undulate if contact points are available.[169] Snakes move faster on small branches and when contact points are present, in contrast to limbed animals, which do better on large branches with little 'clutter'.[170]
+climbing a flower]] The movement of snakes in arboreal habitats has only recently been studied.[167] While on tree branches, snakes use several modes of locomotion depending on species and bark texture.[168] In general, snakes will use a modified form of concertina locomotion on smooth branches, but will laterally undulate if contact points are available.[169] Snakes move faster on small branches and when contact points are present, in contrast to limbed animals, which do better on large branches with little 'clutter'.[170]
 
 Gliding snakes (_Chrysopelea_) of Southeast Asia launch themselves from branch tips, spreading their ribs and laterally undulating as they glide between trees.[171][172][173] These snakes can perform a controlled glide for hundreds of feet depending upon launch altitude and can even turn in midair.[174][175]
 
@@ -248,11 +246,9 @@ The slowest mode of snake locomotion is rectilinear locomotion, which is also th
 
 Interactions with humans
 
-Snake_bite_symptoms.png
-
 Bite
 
-ViperaBerusFang.JPG'', one fang in glove with a small venom stain, the other still in place.]] Snakes do not ordinarily prey on humans. Unless startled or injured, most snakes prefer to avoid contact and will not attack humans. With the exception of large constrictors, nonvenomous snakes are not a threat to humans. The bite of a nonvenomous snake is usually harmless; their teeth are not adapted for tearing or inflicting a deep puncture wound, but rather grabbing and holding. Although the possibility of infection and tissue damage is present in the bite of a nonvenomous snake, venomous snakes present far greater hazard to humans.[179] The World Health Organisation (WHO) lists snakebite under the "other neglected conditions" category.[180]
+'', one fang in glove with a small venom stain, the other still in place.]] Snakes do not ordinarily prey on humans. Unless startled or injured, most snakes prefer to avoid contact and will not attack humans. With the exception of large constrictors, nonvenomous snakes are not a threat to humans. The bite of a nonvenomous snake is usually harmless; their teeth are not adapted for tearing or inflicting a deep puncture wound, but rather grabbing and holding. Although the possibility of infection and tissue damage is present in the bite of a nonvenomous snake, venomous snakes present far greater hazard to humans.[179] The World Health Organisation (WHO) lists snakebite under the "other neglected conditions" category.[180]
 
 Documented DEATHS resulting from snake bites are uncommon. Nonfatal bites from venomous snakes may result in the need for amputation of a limb or part thereof. Of the roughly 725 species of venomous snakes worldwide, only 250 are able to kill a human with one bite. Australia averages only one fatal snake bite per year. In India, 250,000 snakebites are recorded in a single year, with as many as 50,000 recorded initial deaths.[181] The WHO estimates that on the order of 100 000 people die each year as a result of snake bites, and around three times as many amputations and other permanent disabilities are caused by snakebites annually.[182]
 
@@ -260,7 +256,7 @@ The TREATMENT for a snakebite is as variable as the bite itself. The most common
 
 Snake charmers
 
-Snake_in_basket.jpg in a basket with a snake charmer. These snakes are perhaps the most common subjects of snake charmings.]] In some parts of the world, especially in India, snake charming is a roadside show performed by a charmer. In such a show, the snake charmer carries a basket that contains a snake that he seemingly charms by playing tunes from his flutelike musical instrument, to which the snake responds.[184] Snakes lack external ears, though they do have internal ears, and respond to the movement of the flute, not the actual noise.[185][186]
+in a basket with a snake charmer. These snakes are perhaps the most common subjects of snake charmings.]] In some parts of the world, especially in India, snake charming is a roadside show performed by a charmer. In such a show, the snake charmer carries a basket that contains a snake that he seemingly charms by playing tunes from his flutelike musical instrument, to which the snake responds.[184] Snakes lack external ears, though they do have internal ears, and respond to the movement of the flute, not the actual noise.[185][186]
 
 The Wildlife Protection Act of 1972 in India technically proscribes snake charming on grounds of reducing animal cruelty. Other snake charmers also have a snake and mongoose show, where both the animals have a mock fight; however, this is not very common, as the snakes, as well as the mongooses, may be seriously injured or killed. Snake charming as a profession is dying out in India because of competition from modern forms of entertainment and environment laws proscribing the practice.[187]
 
@@ -272,7 +268,7 @@ Despite the existence of snake charmers, there have also been professional snake
 
 Consumption
 
-Guangzhou-snakes-at-restaurant-0457.jpg bocourti'') occupies a place of honor among the live delicacies waiting to meet their consumers outside of a Guangzhou restaurant.]] Snake_meat.jpg While not commonly thought of as food in most cultures, in some cultures, the consumption of snakes is acceptable, or even considered a delicacy, prized for its alleged pharmaceutical effect of warming the heart. Snake soup of Cantonese cuisine is consumed by local people in autumn, to warm up their body. Western cultures document the consumption of snakes under extreme circumstances of hunger.[189] Cooked rattlesnake meat is an exception, which is commonly consumed in parts of the Midwestern United States. In Asian countries such as China, Taiwan, Thailand, Indonesia, Vietnam and Cambodia, drinking the blood of snakes—particularly the cobra—is believed to increase sexual virility.[190] The blood is drained while the cobra is still alive when possible, and is usually mixed with some form of liquor to improve the taste.[191]
+bocourti'') occupies a place of honor among the live delicacies waiting to meet their consumers outside of a Guangzhou restaurant.]] While not commonly thought of as food in most cultures, in some cultures, the consumption of snakes is acceptable, or even considered a delicacy, prized for its alleged pharmaceutical effect of warming the heart. Snake soup of Cantonese cuisine is consumed by local people in autumn, to warm up their body. Western cultures document the consumption of snakes under extreme circumstances of hunger.[189] Cooked rattlesnake meat is an exception, which is commonly consumed in parts of the Midwestern United States. In Asian countries such as China, Taiwan, Thailand, Indonesia, Vietnam and Cambodia, drinking the blood of snakes—particularly the cobra—is believed to increase sexual virility.[190] The blood is drained while the cobra is still alive when possible, and is usually mixed with some form of liquor to improve the taste.[191]
 
 In some Asian countries, the use of snakes in alcohol is also accepted. In such cases, the body of a snake or several snakes is left to steep in a jar or container of liquor. It is claimed that this makes the liquor stronger (as well as more expensive). One example of this is the Habu snake sometimes placed in the Okinawan liquor Awamori also known as "Habu Sake".[192]
 
@@ -284,7 +280,7 @@ In the Western world, some snakes (especially docile species such as the ball py
 
 Symbolism
 
-Golden_Uraes_Cobra_Tutankhamun's_Throne.jpg with four golden uraeus cobra figures. Gold with lapis lazuli; Valley of the Kings, Thebes (1347–37 BCE).]] Longane,_Sicily.JPG from the mythical Longanus river in Sicily]]
+with four golden uraeus cobra figures. Gold with lapis lazuli; Valley of the Kings, Thebes (1347–37 BCE).]] from the mythical Longanus river in Sicily]]
 
 In ancient Mesopotamia, Nirah, the messenger god of Ištaran, was represented as a serpent on _kudurrus_, or boundary stones.[195] Representations of two intertwined serpents are common in Sumerian art and Neo-Sumerian artwork[196] and still appear sporadically on cylinder seals and amulets until as late as the thirteenth century BC.[197] The horned viper (_Cerastes cerastes_) appears in Kassite and Neo-Assyrian kudurrus[198] and is invoked in Assyrian texts as a magical protective entity.[199] A dragon-like creature with horns, the body and neck of a snake, the forelegs of a lion, and the hind-legs of a bird appears in Mesopotamian art from the Akkadian Period until the Hellenistic Period (323 BC–31 BC).[200] This creature, known in Akkadian as the _mušḫuššu_, meaning "furious serpent", was used as a symbol for particular deities and also as a general protective emblem.[201] It seems to have originally been the attendant of the Underworld god Ninazu,[202] but later became the attendant to the Hurrian storm-god Tishpak, as well as, later, Ninazu's son Ningishzida, the Babylonian national god Marduk, the scribal god Nabu, and the Assyrian national god Ashur.[203]
 
@@ -292,15 +288,15 @@ In Egyptian history, the snake occupies a primary role with the Nile cobra adorn
 
 In the Bible, King Nahash of Ammon, whose name means "Snake", is depicted very negatively, as a particularly cruel and despicable enemy of the ancient Hebrews.
 
-Medusa_by_Carvaggio.jpg'' (1597) by the Italian artist Caravaggio]]
+'' (1597) by the Italian artist Caravaggio]]
 
-Salvage_Scrap_propaganda_poster_crop2.jpg depicted as an evil snake in a WWII propaganda poster.]]
+depicted as an evil snake in a WWII propaganda poster.]]
 
 The ancient Greeks used the Gorgoneion, a depiction of a hideous face with serpents for hair, as an apotropaic symbol to ward off evil.[211] In a Greek myth described by Pseudo-Apollodorus in his _Bibliotheca_, Medusa was a Gorgon with serpents for hair whose gaze turned all those who looked at her to stone and was slain by the hero Perseus.[212][213][214] In the Roman poet Ovid's _Metamorphoses_, Medusa is said to have once been a beautiful priestess of Athena, whom Athena turned into a serpent-haired monster after she was raped by the god Poseidon in Athena's temple.[215] In another myth referenced by the Boeotian poet Hesiod and described in detail by Pseudo-Apollodorus, the hero Heracles is said to have slain the Lernaean Hydra,[216][217] a multiple-headed serpent which dwelt in the swamps of Lerna.[218][219]
 
 The legendary account of the foundation of Thebes mentioned a monster snake guarding the spring from which the new settlement was to draw its water. In fighting and killing the snake, the companions of the founder Cadmus all perished – leading to the term "Cadmean victory" (i.e. a victory involving one's own ruin).
 
-Rod_of_asclepius.jpg, in which the snake, through ecdysis, symbolizes healing.]] Three medical symbols involving snakes that are still used today are Bowl of Hygieia, symbolizing pharmacy, and the Caduceus and Rod of Asclepius, which are symbols denoting medicine in general.[220]
+, in which the snake, through ecdysis, symbolizes healing.]] Three medical symbols involving snakes that are still used today are Bowl of Hygieia, symbolizing pharmacy, and the Caduceus and Rod of Asclepius, which are symbols denoting medicine in general.[220]
 
 One of the etymologies proposed for the common female first name _Linda_ is that it might derive from Old German _Lindi_ or _Linda_, meaning a serpent.
 
@@ -326,7 +322,7 @@ In some parts of Christianity, Christ's redemptive work is compared to saving on
 
 In Christianity and Judaism, the snake makes its infamous appearance in the first book of the Bible when a serpent appears before the first couple Adam and Eve and tempts them with the forbidden fruit from the Tree of Knowledge.[231] The snake returns in Exodus when Moses, as a sign of God's power, turns his staff into a snake and when Moses made the Nehushtan, a bronze snake on a pole that when looked at cured the people of bites from the snakes that plagued them in the desert. The serpent makes its final appearance symbolizing Satan in the Book of Revelation: "And he laid hold on the dragon the old serpent, which is the devil and Satan, and bound him for a thousand years."[232]
 
-In Neo-Paganism and Wicca, the snake is seen as a symbol of wisdom and knowledge. Mixco_Viejo_ballcourt_marker.jpg marker from the Postclassic site of Mixco Viejo in Guatemala. This sculpture depicts Kukulkan, jaws agape, with the head of a human warrior emerging from his maw.[233]]]
+In Neo-Paganism and Wicca, the snake is seen as a symbol of wisdom and knowledge. marker from the Postclassic site of Mixco Viejo in Guatemala. This sculpture depicts Kukulkan, jaws agape, with the head of a human warrior emerging from his maw.[233]]]
 
 Medicine
 

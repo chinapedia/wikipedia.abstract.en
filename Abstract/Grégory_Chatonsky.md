@@ -1,1 +1,0 @@
-GRÉGORY CHATONSKY (May 4, 1971) is a French and Canadian Artist who works with interactive installations, networked devices, photographs and sculptures. He explores the relationship between technologies and affectivity creating new forms of fiction.

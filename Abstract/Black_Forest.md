@@ -1,1 +1,0 @@
-The BLACK FOREST (, ) is a large forested mountain range in the state of Baden-Württemberg in southwest Germany. It is bounded by the Rhine valley to the west and south. Its highest peak is the Feldberg with an elevation of 1,493 metres (4,898 ft). The region is roughly oblong in shape with a length of and breadth of up to .[1]

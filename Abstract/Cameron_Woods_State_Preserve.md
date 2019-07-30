@@ -1,1 +1,0 @@
-CAMERON WOODS STATE PRESERVE is a nature reserve in rural Scott County, Iowa, United States. It is located along Iowa Highway 130 west of Maysville, and it is maintained by the Scott County Conservation Board as one of the Iowa state preserves.

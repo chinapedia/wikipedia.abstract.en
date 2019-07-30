@@ -1,1 +1,0 @@
-The FONTANEL MANSION is a large log home in Nashville, Tennessee, on 186 acres of property that also contains public walking trails, a bed and breakfast inn called The Inn, the Carl Black Chevy Woods Amphitheater, Adventureworks Ziplines, the Natchez Hills Winery, one of the two Prichard's Distillery locations, Stone House Gift Shoppe, and a café called Café Fontanella.[1]

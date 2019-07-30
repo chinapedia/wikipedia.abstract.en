@@ -1,1 +1,0 @@
-SOFTWARE DOCUMENTATION is written text or illustration that accompanies computer software or is embedded in the source code. The documentation either explains how the software operates or how to use it, and may mean different things to people in different roles.

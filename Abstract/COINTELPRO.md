@@ -1,1 +1,0 @@
-COINTELPRO_-_Jean_Seberg.jpg, a financial supporter of the Black Panther Party, hoping to "possibly cause her embarrassment or tarnish her image with the general public". Covert campaigns to publicly discredit activists and destroy their interpersonal relationships were a common tactic used by COINTELPRO agents.]]

@@ -1,4 +1,4 @@
-Sun_god_Ra.svg, ancient Egyptian god of the sun and king of the gods]] Solvognen_-_Do_2010_1276.jpg]] Winged_sun_sharpe.png was an ancient (3rd millennium BC) symbol of Horus, later identified with Ra]] Stèle_Rocher_des_Doms.jpg and the Early Bronze Age, discovered during an archaeological excavation on the Rocher des Doms, Avignon.]]
+, ancient Egyptian god of the sun and king of the gods]] ]] was an ancient (3rd millennium BC) symbol of Horus, later identified with Ra]] and the Early Bronze Age, discovered during an archaeological excavation on the Rocher des Doms, Avignon.]]
 
 A SOLAR DEITY (also SUN GOD or SUN GODDESS) is a sky deity who represents the Sun, or an aspect of it, usually by its perceived power and strength. Solar deities and Sun worship can be found throughout most of recorded history in various forms. The Sun is sometimes referred to by its Latin name _Sol_ or by its Greek name _Helios_. The English word _sun_ stems from Proto-Germanic *_sunnǭ_.[1]
 
@@ -15,7 +15,7 @@ During the Roman Empire, a festival of the birth of the _Unconquered Sun_ (or _D
 
 Africa
 
-Egypt.IsisHorus.01.png, bearing her solar disk and horns nurses her infant, Horus]]
+, bearing her solar disk and horns nurses her infant, Horus]]
 
 The Tiv people consider the Sun to be the son of the supreme being Awondo and the Moon Awondo's daughter. The Barotse tribe believes that the Sun is inhabited by the sky god Nyambi and the Moon is his wife. Some Sara people also worship the Sun. Even where the sun god is equated with the supreme being, in some African mythologies he or she does not have any special functions or privileges as compared to other deities. The ancient Egyptian god of creation, Amun is also believed to reside inside the sun. So is the Akan creator deity, Nyame and the Dogon deity of creation, Nommo. Also in Egypt, there was a religion that worshipped the Sun directly, and was among the first monotheistic religions: Atenism.
 
@@ -53,7 +53,7 @@ The devas Surya and Candra are also recognized as deities that embody the Sun an
 
 Chinese mythology
 
-TaiYangXingJun.jpg Xi_He.JPG charioteering the sun, being pulled by a dragon, in Hangzhou]] In Chinese mythology (cosmology), there were originally ten suns in the sky, who were all brothers. They were supposed to emerge one at a time as commanded by the Jade Emperor. They were all very young and loved to fool around. Once they decided to all go into the sky to play, all at once. This made the world too hot for anything to grow. A hero named Hou Yi, honored to this day, shot down nine of them with a bow and arrow to save the people of the Earth. In another myth, the solar eclipse was caused by the magical dog of heaven biting off a piece of the Sun. The referenced event is said to have occurred around 2,160BCE. There was a tradition in China to make lots of loud celebratory sounds during a solar eclipse to scare the sacred "dog" away. The Deity of the Sun in Chinese mythology is Ri Gong Tai Yang Xing Jun (Tai Yang Gong / Grandfather Sun) or Star Lord of the Solar Palace, Lord of the Sun. In some mythologies, Tai Yang Xing Jun is believed to be Hou Yi. Tai Yang Xing Jun is usually depicted with the Star Lord of the Lunar Palace, Lord of the Moon, Yue Gong Tai Yin Xing Jun (Tai Yin Niang Niang / Lady Tai Yin). Worship of the moon goddess Chang'e and her festivals are very popular among followers of Chinese folk religion and Taoism. Similar to Santa Claus and Christmas in the West, the goddess and her holy days are ingrained in Chinese popular culture.
+charioteering the sun, being pulled by a dragon, in Hangzhou]] In Chinese mythology (cosmology), there were originally ten suns in the sky, who were all brothers. They were supposed to emerge one at a time as commanded by the Jade Emperor. They were all very young and loved to fool around. Once they decided to all go into the sky to play, all at once. This made the world too hot for anything to grow. A hero named Hou Yi, honored to this day, shot down nine of them with a bow and arrow to save the people of the Earth. In another myth, the solar eclipse was caused by the magical dog of heaven biting off a piece of the Sun. The referenced event is said to have occurred around 2,160BCE. There was a tradition in China to make lots of loud celebratory sounds during a solar eclipse to scare the sacred "dog" away. The Deity of the Sun in Chinese mythology is Ri Gong Tai Yang Xing Jun (Tai Yang Gong / Grandfather Sun) or Star Lord of the Solar Palace, Lord of the Sun. In some mythologies, Tai Yang Xing Jun is believed to be Hou Yi. Tai Yang Xing Jun is usually depicted with the Star Lord of the Lunar Palace, Lord of the Moon, Yue Gong Tai Yin Xing Jun (Tai Yin Niang Niang / Lady Tai Yin). Worship of the moon goddess Chang'e and her festivals are very popular among followers of Chinese folk religion and Taoism. Similar to Santa Claus and Christmas in the West, the goddess and her holy days are ingrained in Chinese popular culture.
 
 Baltic mythology
 
@@ -73,7 +73,7 @@ Brighid has at times been argued as having had a solar nature, fitting her role 
 
 Hinduism
 
-Runner_of_Sky_-_God_Surya.jpg The Ādityas are one of the principal deities of the Vedic classical Hinduism belonging to Solar class. In the Vedas, numerous hymns are dedicated to Mitra, Varuna, Savitr etc.
+The Ādityas are one of the principal deities of the Vedic classical Hinduism belonging to Solar class. In the Vedas, numerous hymns are dedicated to Mitra, Varuna, Savitr etc.
 
 Hymn 7.99 of Rigveda, Indra-Vishnu produces the sun, his discus is a vestige of his solar creation, equivalent to the sun, the Vishnu purana identifies the Discus chakra with the following: 'thoughts, like the chakra, flow faster than even the mightiest wind.'.
 
@@ -103,7 +103,7 @@ In other parts of India, the festival is celebrated as Makar Sankranti and is mo
 
 Christianity
 
-Christus_Ravenna_Mosaic.jpg of Jesus, seen in many paintings, has similarities to a parhelion.]]
+of Jesus, seen in many paintings, has similarities to a parhelion.]]
 
 According to one hypothesis about Christmas, it was set to 25 December because it was the date of the festival of Sol Invictus. This idea became popular especially in the 18th[37][38] and 19th centuries.[39][40][41]
 
@@ -117,7 +117,7 @@ By "the sun of righteousness" in "the fathers, from Justin downward, and nearly 
 
 Jesus and the Sun in ancient Christian writings
 
-ChristAsSol.jpg or Apollo-Helios in Mausoleum M in the pre-4th-century necropolis beneath[57] St. Peter's in the Vatican, which many interpret as representing Christ]]
+or Apollo-Helios in Mausoleum M in the pre-4th-century necropolis beneath[57] St. Peter's in the Vatican, which many interpret as representing Christ]]
 
 The Philocalian calendar of AD 354 gives a festival of "Natalis Invicti" on 25 December. There is limited evidence that this festival was celebrated before the mid-4th century.[58][59] The charioteer in the mosaic of Mausoleum M has been interpreted by some as Christ. Clement of Alexandria had spoken of Christ driving his chariot across the sky.[60] This interpretation is doubted by others: "Only the _cross-shaped_ nimbus makes the Christian significance apparent".[61] and the figure is seen by some simply as a representation of the sun with no explicit religious reference whatever, pagan or Christian.
 
@@ -129,7 +129,7 @@ It was a traditional Jewish belief that great men lived a whole number of years,
 
 Among those who have put forward this view are Louis Duchesne,[78] Thomas J. Talley,[79] David J. Rothenberg,[80] J. Neil Alexander,[81] and Hugh Wybrew.[82]
 
-The _Oxford Companion to Christian Thought_ also remarks on the uncertainty about the order of precedence between the celebrations of the Birthday of the Unconquered Sun and the birthday of Jesus: "This 'calculations' hypothesis potentially establishes 25 December as a Christian festival before Aurelian's decree, which, when promulgated, might have provided for the Christian feast both opportunity and challenge."[83] Susan K. Roll calls "most extreme" the unproven hypothesis that "would call Christmas point-blank a 'christianization' of Natalis Solis Invicti, a direct conscious appropriation of the pre-Christian feast, arbitrarily placed on the same calendar date, assimilating and adapting some of its cosmic symbolism and abruptly usurping any lingering habitual loyalty that newly-converted Christians might feel to the feasts of the state gods".[84] Beit_alfa01.jpg synagogue, with the Sun represented in the centre, surrounded by the twelve zodiac constellations and with the four seasons associated inaccurately with the constellations]] The nimbus of the figure under Saint Peter's Basilica is described by some as _rayed_,[85] as in traditional pre-Christian representations, but another has said: "Only the _cross-shaped_ nimbus makes the Christian significance apparent" (emphasis added).[86] Yet another has interpreted the figure as a representation of the sun with no explicit religious reference whatever, pagan or Christian.[87] Among scholars who view the celebration of the birth of Jesus on 25 December as motivated by choice of the winter solstice, rather than that he was conceived and died on 25 March, some reject the idea that this choice constituted a deliberate Christianization of a festival of the Birthday of the Unconquered Sun. For example, Michael Alan Anderson writes:
+The _Oxford Companion to Christian Thought_ also remarks on the uncertainty about the order of precedence between the celebrations of the Birthday of the Unconquered Sun and the birthday of Jesus: "This 'calculations' hypothesis potentially establishes 25 December as a Christian festival before Aurelian's decree, which, when promulgated, might have provided for the Christian feast both opportunity and challenge."[83] Susan K. Roll calls "most extreme" the unproven hypothesis that "would call Christmas point-blank a 'christianization' of Natalis Solis Invicti, a direct conscious appropriation of the pre-Christian feast, arbitrarily placed on the same calendar date, assimilating and adapting some of its cosmic symbolism and abruptly usurping any lingering habitual loyalty that newly-converted Christians might feel to the feasts of the state gods".[84] synagogue, with the Sun represented in the centre, surrounded by the twelve zodiac constellations and with the four seasons associated inaccurately with the constellations]] The nimbus of the figure under Saint Peter's Basilica is described by some as _rayed_,[85] as in traditional pre-Christian representations, but another has said: "Only the _cross-shaped_ nimbus makes the Christian significance apparent" (emphasis added).[86] Yet another has interpreted the figure as a representation of the sun with no explicit religious reference whatever, pagan or Christian.[87] Among scholars who view the celebration of the birth of Jesus on 25 December as motivated by choice of the winter solstice, rather than that he was conceived and died on 25 March, some reject the idea that this choice constituted a deliberate Christianization of a festival of the Birthday of the Unconquered Sun. For example, Michael Alan Anderson writes:
 
   Both the sun and Christ were said to be born anew on December 25. But while the solar associations with the birth of Christ created powerful metaphors, the surviving evidence does not support such a direct association with the Roman solar festivals. The earliest documentary evidence for the feast of Christmas makes no mention of the coincidence with the winter solstice. Thomas Talley has shown that, although the Emperor Aurelian's dedication of a temple to the sun god in the Campus Martius (C.E. 274) probably took place on the 'Birthday of the Invincible Sun' on December 25, the cult of the sun in pagan Rome ironically did not celebrate the winter solstice nor any of the other quarter-tense days, as one might expect. The origins of Christmas, then, may not be expressly rooted in the Roman festival.[88]
 
@@ -161,7 +161,7 @@ R. F. Littledale criticized the Sun myth theory when he illustrated that Max Mü
 
 Solar barge and sun chariot
 
-Ra_Barque.jpg aboard the _Atet_, his solar barge]] A "solar barge"—also known as a "solar bark", "solar barque", "solar boat", or "sun boat"—is a mythological representation of the sun riding in a boat. The most famous of these is the _Atet_, the barge of the Egyptian sun god Ra. The "Khufu ship", a 43.6-meter-long vessel that was sealed into a pit in the Giza pyramid complex at the foot of the Great Pyramid of Giza around 2500 BC, is a full-size surviving example which may have fulfilled the symbolic function of a solar barque. This boat was rediscovered in May 1954 when archeologist Kamal el-Mallakh and inspector Zaki Nur found two ditches sealed off by about 40 blocks weighing 17 to 20 tonnes each. This boat was disassembled into 1,224 pieces and took over 10 years to reassemble. A nearby museum was built to house this boat.[98]
+aboard the _Atet_, his solar barge]] A "solar barge"—also known as a "solar bark", "solar barque", "solar boat", or "sun boat"—is a mythological representation of the sun riding in a boat. The most famous of these is the _Atet_, the barge of the Egyptian sun god Ra. The "Khufu ship", a 43.6-meter-long vessel that was sealed into a pit in the Giza pyramid complex at the foot of the Great Pyramid of Giza around 2500 BC, is a full-size surviving example which may have fulfilled the symbolic function of a solar barque. This boat was rediscovered in May 1954 when archeologist Kamal el-Mallakh and inspector Zaki Nur found two ditches sealed off by about 40 blocks weighing 17 to 20 tonnes each. This boat was disassembled into 1,224 pieces and took over 10 years to reassemble. A nearby museum was built to house this boat.[98]
 
 Other sun boats were found in Egypt dating to different pharonic dynasties.[99]
 
@@ -192,7 +192,7 @@ In Chinese culture, the sun chariot is associated with the passage of time. For 
 
 Male and female
 
-GD-EG-KomOmbo016.JPG, shown with her sun disk and cobra crown.|234x234px]] Amaterasu_cave.JPG]]
+, shown with her sun disk and cobra crown.|234x234px]] ]]
 
 Solar deities are usually thought of as male while the lunar deity is female, but the opposite case is also seen. The cobra (of Pharaoh Son of Ra), the lioness (daughter of Ra), the cow (daughter of Ra), the dominant symbols of the most ancient Egyptian deities, carried their relationship to the sun atop their heads; they were female and their cults remained active throughout the history of the culture. Later a _sun god_ (Aten) was established in the eighteenth dynasty on top of the other solar deities, before the "aberration" was stamped out and the old pantheon re-established. When male deities became associated with the sun in that culture, they began as the offspring of a mother (except Ra, King of the Gods who gave birth to himself).
 

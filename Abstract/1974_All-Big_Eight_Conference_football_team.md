@@ -1,1 +1,0 @@
-The 1974 ALL-BIG EIGHT CONFERENCE FOOTBALL TEAM consists of American football players chosen by various organizations for All-Big Eight Conference teams for the 1974 NCAA Division I football season. The selectors for the 1974 season included the Associated Press (AP).

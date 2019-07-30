@@ -1,1 +1,0 @@
-The HISTORY OF SCIENCE AND TECHNOLOGY (HST) is a field of history which examines how understanding of the natural world (science) and ability to manipulate it (technology) have changed over the centuries. This academic discipline also studies the cultural, economic, and political impacts of scientific innovation.

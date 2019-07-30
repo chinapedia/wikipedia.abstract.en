@@ -1,1 +1,0 @@
-LIONS CLUBS INTERNATIONAL (LCI) is an international non-political service organization established originally in 1917 in Chicago, Illinois, by Melvin Jones.[1] It is now headquartered in Oak Brook, Illinois. , it had over 46,000 local clubs and more than 1.7 million members (Lions & LEO) in 190 countries around the world.

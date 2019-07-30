@@ -1,1 +1,0 @@
-JĀMEH MOSQUE OF ZAVAREH ( – _Masjed-e-Jāme-e Zavareh_) CONGRETATION MOSQUE OF ZAVAREH, FRIDAY MOSQUE OF ZAVAREH or GRAND MOSQUE OF ZAVAREH is the grand, congregational mosque (Jāmeh) of Zavareh city, within the Isfahan Province of Iran.

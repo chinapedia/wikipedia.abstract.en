@@ -1,1 +1,0 @@
-Specimens_of_type,_borders,_ornaments,_brass_rules_and_cuts,_etc._-_catalogue_of_printing_machinery_and_materials,_wood_goods,_etc_(1897)_(14785726033).jpg Hickok_ruling_pens.jpg

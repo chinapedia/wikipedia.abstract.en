@@ -1,1 +1,0 @@
-SHARON CORDER is an American writer, producer, and educator based in Toronto, Ontario, Canada. With her husband Jack Blum, she has written and produced more than fifty hours of television drama for both Canadian and American broadcasters. In 2005, Blum and Corder began Reel Canada, their non-profit organization dedicated to celebrating Canadian film.

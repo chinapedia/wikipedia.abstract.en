@@ -1,1 +1,0 @@
-The Fellowship of the British Academy consists of world-leading scholars and researchers in the humanities and social sciences. A varying number of fellows are elected each year in July at the Academy's Annual General Meeting.[1] The first woman was elected to the fellowship in 1932.[2]

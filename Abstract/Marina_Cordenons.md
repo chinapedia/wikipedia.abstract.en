@@ -1,1 +1,0 @@
-'''Marina Cordenons ''' (born 12 January 1969) is an Italian footballer who played as a defender for the Italy women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she played for Pordenone in Italy.[1]

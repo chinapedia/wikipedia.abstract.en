@@ -1,1 +1,0 @@
-JOÃO FÉLIX SEQUEIRA (;[1] born 10 November 1999) is a Portuguese professional footballer who plays for Spanish club Atlético Madrid and the Portugal national team as a striker. He can also play as a winger or an attacking midfielder.

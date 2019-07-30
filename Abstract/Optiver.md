@@ -1,1 +1,0 @@
-OPTIVER is a proprietary trading firm and market maker for various exchange-listed financial instruments. Its name derives from the Dutch _optie verhandelaar_, or "option trader".[1][2] The company is privately owned. Optiver trades listed derivatives, cash equities, exchange-traded funds, bonds and foreign exchange.

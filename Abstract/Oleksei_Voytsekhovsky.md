@@ -1,1 +1,0 @@
-OLEKSEI VOYTSEKHOVSKY (, born May 10, 1987) is a Ukrainian ice hockey forward currently playing in the Turkish Ice Hockey Super League for Zeytinburnu Belediyespor. He was a member of the Ukraine national junior team. The tall player at shoots right-handed.[1]

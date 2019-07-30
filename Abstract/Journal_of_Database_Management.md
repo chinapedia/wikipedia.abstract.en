@@ -1,1 +1,0 @@
-The _JOURNAL OF DATABASE MANAGEMENT_ is a quarterly peer-reviewed academic journal covering database management. It was established in 1990 and is published by IGI Global. The editor-in-chief is Keng Siau (Missouri University of Science and Technology).

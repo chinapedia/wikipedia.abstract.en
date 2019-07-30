@@ -1,1 +1,0 @@
-The 2016–17 NEMZETI BAJNOKSÁG II was Hungary's second-level football competition. The season was won by Puskás Akadémia FC, while Balmazújvárosi FC finished second by beating Kisvárda FC on the last match day 1–0 on 4 June 2017.[1][2]

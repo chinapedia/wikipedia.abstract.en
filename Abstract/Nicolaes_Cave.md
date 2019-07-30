@@ -1,1 +1,0 @@
-Nicolaes_Cave_-_A_still_life_with_a_live_hawk_perched_on_a_dead_partridge_and_other_dead_game_in_a_woven_basket.jpg

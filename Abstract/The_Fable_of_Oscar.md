@@ -1,1 +1,0 @@
-THE FABLE OF OSCAR is a fable proposed by John L. Pollock in his book _How to Build a Person_ () to defend the idea of token physicalism, agent materialism, and strong AI. It ultimately illustrates what is needed for an Artificial Intelligence to be built and why humans are just like intelligent machines.[1]

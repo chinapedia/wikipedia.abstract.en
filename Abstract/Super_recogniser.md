@@ -1,1 +1,0 @@
-"SUPER RECOGNISERS" is a term coined in 2009 by Harvard and University College London researchers for people with significantly better-than-average face recognition ability.[1][2] Super recognisers are able to memorise and recall thousands of faces, often having seen them only once.[3]

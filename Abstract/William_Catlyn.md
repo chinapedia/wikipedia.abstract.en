@@ -1,1 +1,0 @@
-WILLIAM CATLYN (1628-1709) was a Hull architect who worked in the local Artisan Mannerist style, also known as the _Humber Brick style_. His work, which was greatly influenced by Dutch architecture of the period, survives mainly in Hull and Lincolnshire.[1]

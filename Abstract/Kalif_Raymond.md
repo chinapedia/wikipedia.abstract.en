@@ -1,1 +1,0 @@
-KALIF RAYMOND (born August 8, 1994) is an American football wide receiver for the Tennessee Titans of the National Football League (NFL). He played college football at Holy Cross. He was signed by the Denver Broncos as an undrafted free agent in 2016.

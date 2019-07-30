@@ -1,1 +1,0 @@
-_A RECKLESS GAMBLE_ is a 1928 British silent sports film directed by Widgey R. Newman and starring Desmond Roberts, Gladys Dunham and Wally Patch.[1] It was released as a quota quickie.[2] It is also known by the alternative title of _MAN IN THE SADDLE_.

@@ -1,1 +1,0 @@
-Insects in the family TETTIGONIIDAE are commonly called KATYDIDS (in Australia, South Africa, the United States),[1] or BUSH CRICKETS.[2] They have previously been known as LONG-HORNED GRASSHOPPERS.[3] More than 6,400 species are known. Part of the suborder Ensifera, the Tettigoniidae are the only extant (living) family in the superfamily Tettigonioidea.

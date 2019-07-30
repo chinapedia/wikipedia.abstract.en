@@ -1,4 +1,4 @@
-US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg, July 2004]] A SUBMARINE (or SUB) is a watercraft capable of independent operation underwater. It differs from a submersible, which has more limited underwater capability. It is also sometimes used historically or colloquially to refer to remotely operated vehicles and robots, as well as medium-sized or smaller vessels, such as the midget submarine and the wet sub.
+, July 2004]] A SUBMARINE (or SUB) is a watercraft capable of independent operation underwater. It differs from a submersible, which has more limited underwater capability. It is also sometimes used historically or colloquially to refer to remotely operated vehicles and robots, as well as medium-sized or smaller vessels, such as the midget submarine and the wet sub.
 
 Although experimental submarines had been built before, submarine design took off during the 19th century, and they were adopted by several navies. Submarines were first widely used during World War I (1914–1918), and are now used in many navies large and small. Military uses include attacking enemy surface ships (merchant and military), or other submarines, aircraft carrier protection, blockade running, ballistic missile submarines as part of a nuclear strike force, reconnaissance, conventional land attack (for example using a cruise missile), and covert insertion of special forces. Civilian uses for submarines include marine science, salvage, exploration and facility inspection and maintenance. Submarines can also be modified to perform more specialized functions such as search-and-rescue missions or undersea cable repair. Submarines are also used in tourism and undersea archaeology.
 
@@ -15,7 +15,7 @@ Whereas the principal meaning of "submarine" is an armed, submersible warship, t
 
 Early submersibles
 
-Van_Drebbel.jpg'', an early submersible craft, propelled by oars.]]
+'', an early submersible craft, propelled by oars.]]
 
 According to a report in _Opusculum Taisnieri_ published in 1562:[8]
 
@@ -31,8 +31,6 @@ The first military submarine was the _Turtle_ (1775), a hand-powered acorn-shape
 
 19th century
 
-Fulton's_submarine_design.jpg
-
 In 1800, France built a human-powered submarine designed by American Robert Fulton, the . The French eventually gave up on the experiment in 1804, as did the British when they later considered Fulton's submarine design.
 
 In 1864, late in the American Civil War, the Confederate navy's became the first military submarine to sink an enemy vessel, the Union sloop-of-war . In the aftermath of its successful attack against the ship, the _Hunley_ also sank, possibly because it was too close to its own exploding torpedo.
@@ -43,8 +41,6 @@ In 1866, the _Flach_ was built at the request of the Chilean government, by Karl
 
 Mechanical power
 
-Plongeur.jpg
-
 The first submarine not relying on human power for propulsion was the French (_Diver_), launched in 1863, which used compressed air at 180 psi (1241 kPa).[16] Narcís Monturiol designed the first air–independent and combustion–powered submarine, _Ictineo II_, which was launched in Barcelona, Spain in 1864.
 
 The submarine became a potentially viable weapon with the development of the Whitehead torpedo, designed in 1866 by British engineer Robert Whitehead, the first practical self-propelled or 'locomotive' torpedo.[17] The spar torpedo that had been developed earlier by the Confederate navy was considered to be impracticable, as it was believed to have sunk both its intended target, and probably _H. L. Hunley_, the submarine that deployed it.
@@ -54,8 +50,6 @@ Discussions between the English clergyman and inventor George Garrett and the Sw
 A reliable means of propulsion for the submerged vessel was only made possible in the 1880s with the advent of the necessary electric battery technology. The first electrically powered boats were built by Isaac Peral y Caballero in Spain (who built the _Peral_), Dupuy de Lôme (who built the _Gymnote_) and Gustave Zédé (who built the _Sirène_) in France, and James Franklin Waddington (who built the _Porpoise_) in England.[18] Peral's design featured torpedoes and other systems that later became standard in submarines.[19][20]
 
 20th century
-
-USS_Plunger;0800206.jpg Akula&Ryurik1913.jpg
 
 Submarines were not put into service for any widespread or routine use by navies until the early 1900s. This era marked a pivotal time in submarine development, and several important technologies appeared. A number of nations built and used submarines. Diesel electric propulsion became the dominant power system and equipment such as the periscope became standardized. Countries conducted many experiments on effective tactics and weapons for submarines, which led to their large impact in World War I.
 
@@ -69,7 +63,7 @@ These types of submarines were first used during the Russo-Japanese War of 1904�
 
 World War I
 
-U9Submarine.jpgs in less than an hour in September 1914]]
+s in less than an hour in September 1914]]
 
 Military submarines first made a significant impact in World War I. Forces such as the U-boats of Germany saw action in the First Battle of the Atlantic, and were responsible for sinking , which was sunk as a result of unrestricted submarine warfare and is often cited among the reasons for the entry of the United States into the war.[24]
 
@@ -81,7 +75,7 @@ The British tried to catch up to the Germans in terms of submarine technology wi
 
 World War II
 
-I400_2.jpg's , the largest submarine type of WWII]] U-47.jpg's , German WWII Type VII diesel-electric hunter]]
+'s , the largest submarine type of WWII]] 's , German WWII Type VII diesel-electric hunter]]
 
 During World War II, Germany used submarines to devastating effect in the Battle of the Atlantic, where it attempted to cut Britain's supply routes by sinking more merchant ships than Britain could replace. (Shipping was vital to supply Britain's population with food, industry with raw material, and armed forces with fuel and armaments.) While U-boats destroyed a significant number of ships, the strategy ultimately failed. Although the U-boats had been updated in the interwar years, the major innovation was improved communications, encrypted using the famous Enigma cipher machine. This allowed for mass-attack naval tactics (_Rudeltaktik_, commonly known as "wolfpack"), but was also ultimately the U-boats' downfall. By the end of the war, almost 3,000 Allied ships (175 warships, 2,825 merchantmen) had been sunk by U-boats.[29] Although successful early in the war, ultimately Germany's U-boat fleet suffered heavy casualties, losing 793 U-boats and about 28,000 submariners out of 41,000, a casualty rate of about 70%.[30]
 
@@ -95,7 +89,7 @@ The Royal Navy Submarine Service was used primarily in the classic Axis blockade
 
 Cold-War military models
 
-HMAS_Rankin_at_periscope_depth.jpg USS_Charlotte_(SSN_766)_steams_in_a_close_formation_at_RIMPAC_2014.jpg 2014.]]
+2014.]]
 
 The first launch of a cruise missile (SSM-N-8 Regulus) from a submarine occurred in July 1953, from the deck of , a World War II fleet boat modified to carry the missile with a nuclear warhead. _Tunny_ and its sister boat, , were the United States' first nuclear deterrent patrol submarines. In the 1950s, nuclear power partially replaced diesel-electric propulsion. Equipment was also developed to extract oxygen from sea water. These two innovations gave submarines the ability to remain submerged for weeks or months.[36][37] Most of the naval submarines built since that time in the US, the Soviet Union/Russian Federation, Britain, and France have been powered by nuclear reactors.
 
@@ -112,7 +106,7 @@ Usage
 
 Military
 
-German_UC-1_class_submarine.jpg World War I submarine. The wires running up from the bow to the conning tower are the Jumping wires]] Allveelaev_Lembit_2012.jpg. The _Lembit_ is the only minelayer submarine of its series left in the world.[40]]]
+World War I submarine. The wires running up from the bow to the conning tower are the Jumping wires]] . The _Lembit_ is the only minelayer submarine of its series left in the world.[40]]]
 
 Before and during World War II, the primary role of the submarine was anti-surface ship warfare. Submarines would attack either on the surface, using deck guns or submerged, using torpedoes. They were particularly effective in sinking Allied transatlantic shipping in both World Wars, and in disrupting Japanese supply routes and naval operations in the Pacific in World War II.
 
@@ -144,8 +138,6 @@ File:PX-8 Mésoscaphe - Swiss Submarine (15722856966).jpg|Model of the Mésoscap
 
 Polar operations
 
-USS_Annapolis_ICEX.jpg
-
 -   1903 – Simon Lake submarine _Protector_ surfaced through ice off Newport, Rhode Island.[47]
 -   1930 – operated under ice near Spitsbergen.[48]
 -   1937 – Soviet submarine _Krasnogvardeyets_ operated under ice in the Denmark Strait.[49]
@@ -175,8 +167,6 @@ Technology
 
 Submersion and trimming
 
-Submarine_control_surfaces2.svg USS_Seawolf_(SSN_21)_Control_Room_HighRes.jpg
-
 All surface ships, as well as surfaced submarines, are in a positively buoyant condition, weighing less than the volume of water they would displace if fully submerged. To submerge hydrostatically, a ship must have negative buoyancy, either by increasing its own weight or decreasing its displacement of water. To control their displacement, submarines have ballast tanks, which can hold varying amounts of water and air.
 
 For general submersion or surfacing, submarines use the forward and aft tanks, called Main Ballast Tanks (MBT), which are filled with water to submerge or with air to surface. Submerged, MBTs generally remain flooded, which simplifies their design, and on many submarines these tanks are a section of interhull space. For more precise and quick control of depth, submarines use smaller Depth Control Tanks (DCT) – also called hard tanks (due to their ability to withstand higher pressure), or trim tanks. The amount of water in depth control tanks can be controlled to change depth or to maintain a constant depth as outside conditions (chiefly water density) change. Depth control tanks may be located either near the submarine's center of gravity, or separated along the submarine body to prevent affecting trim.
@@ -185,7 +175,7 @@ When submerged, the water pressure on a submarine's hull can reach for steel sub
 
 Submarines in a neutral buoyancy condition are not intrinsically trim-stable. To maintain desired trim, submarines use forward and aft trim tanks. Pumps can move water between the tanks, changing weight distribution and pointing the sub up or down. A similar system is sometimes used to maintain stability.
 
-Kiosk_Casabianca.jpg of the French nuclear submarine ; note the diving planes, camouflaged masts, periscope, electronic warfare masts, hatch, and deadlight.]] The hydrostatic effect of variable ballast tanks is not the only way to control the submarine underwater. Hydrodynamic maneuvering is done by several surfaces, which can be moved to create hydrodynamic forces when a submarine moves at sufficient speed. The stern planes (hydroplanes in UK), located near the propeller and normally horizontal, serve the same purpose as the trim tanks, controlling the trim, and are commonly used, while other control surfaces may not be present on all submarines. The fairwater planes on the sail and/or bow planes on the main body, both also horizontal, are closer to the center of gravity, and are used to control depth with less effect on the trim.[72]
+of the French nuclear submarine ; note the diving planes, camouflaged masts, periscope, electronic warfare masts, hatch, and deadlight.]] The hydrostatic effect of variable ballast tanks is not the only way to control the submarine underwater. Hydrodynamic maneuvering is done by several surfaces, which can be moved to create hydrodynamic forces when a submarine moves at sufficient speed. The stern planes (hydroplanes in UK), located near the propeller and normally horizontal, serve the same purpose as the trim tanks, controlling the trim, and are commonly used, while other control surfaces may not be present on all submarines. The fairwater planes on the sail and/or bow planes on the main body, both also horizontal, are closer to the center of gravity, and are used to control depth with less effect on the trim.[72]
 
 When a submarine performs an emergency surfacing, all depth and trim methods are used simultaneously, together with propelling the boat upwards. Such surfacing is very quick, so the sub may even partially jump out of the water, potentially damaging submarine systems.
 
@@ -193,7 +183,7 @@ Hull
 
 Overview
 
-USS_Greeneville_(SSN_772)_-_dry_dock_Pearl_Harbor_(1).jpg in dry dock, showing cigar-shaped hull]]
+in dry dock, showing cigar-shaped hull]]
 
 Modern submarines are cigar-shaped. This design, visible in early submarines, is sometimes called a "teardrop hull". It reduces the hydrodynamic drag when submerged, but decreases the sea-keeping capabilities and increases drag while surfaced. Since the limitations of the propulsion systems of early submarines forced them to operate surfaced most of the time, their hull designs were a compromise. Because of the slow submerged speeds of those subs, usually well below 10 kt (18 km/h), the increased drag for underwater travel was acceptable. Late in World War II, when technology allowed faster and longer submerged operation and increased aircraft surveillance forced submarines to stay submerged, hull designs became teardrop shaped again to reduce drag and noise. was a unique research submarine that pioneered the American version of the teardrop hull form (sometimes referred to as an "Albacore hull") of modern submarines. On modern military submarines the outer hull is covered with a layer of sound-absorbing rubber, or anechoic plating, to reduce detection.
 
@@ -205,17 +195,15 @@ A raised tower on top of a submarine accommodates the periscope and electronics 
 
 Single and double hulls
 
-U995_2004_1.jpg
-
 Modern submarines and submersibles, as well as the oldest ones, usually have a single hull. Large submarines generally have an additional hull or hull sections outside. This external hull, which actually forms the shape of submarine, is called the outer hull (_casing_ in the Royal Navy) or light hull, as it does not have to withstand a pressure difference. Inside the outer hull there is a strong hull, or pressure hull, which withstands sea pressure and has normal atmospheric pressure inside.
 
 As early as World War I, it was realized that the optimal shape for withstanding pressure conflicted with the optimal shape for seakeeping and minimal drag, and construction difficulties further complicated the problem. This was solved either by a compromise shape, or by using two hulls; internal for holding pressure, and external for optimal shape. Until the end of World War II, most submarines had an additional partial cover on the top, bow and stern, built of thinner metal, which was flooded when submerged. Germany went further with the Type XXI, a general predecessor of modern submarines, in which the pressure hull was fully enclosed inside the light hull, but optimized for submerged navigation, unlike earlier designs that were optimized for surface operation.
 
-SRH025-p40.jpg U-boat, late World War II, with pressure hull almost fully enclosed inside the light hull]] After World War II, approaches split. The Soviet Union changed its designs, basing them on German developments. All post–World War II heavy Soviet and Russian submarines are built with a double hull structure. American and most other Western submarines switched to a primarily single-hull approach. They still have light hull sections in the bow and stern, which house main ballast tanks and provide a hydrodynamically optimized shape, but the main cylindrical hull section has only a single plating layer. Double hulls are being considered for future submarines in the United States to improve payload capacity, stealth and range.[73]
+U-boat, late World War II, with pressure hull almost fully enclosed inside the light hull]] After World War II, approaches split. The Soviet Union changed its designs, basing them on German developments. All post–World War II heavy Soviet and Russian submarines are built with a double hull structure. American and most other Western submarines switched to a primarily single-hull approach. They still have light hull sections in the bow and stern, which house main ballast tanks and provide a hydrodynamically optimized shape, but the main cylindrical hull section has only a single plating layer. Double hulls are being considered for future submarines in the United States to improve payload capacity, stealth and range.[73]
 
 Pressure hull
 
-Bathyscaphe_Trieste.jpg and Don Walsh were the first people to explore the deepest part of the world's ocean, and the deepest location on the surface of the Earth's crust, in the designed by Auguste Piccard.]]
+and Don Walsh were the first people to explore the deepest part of the world's ocean, and the deepest location on the surface of the Earth's crust, in the designed by Auguste Piccard.]]
 
 The pressure hull is generally constructed of thick high-strength steel with a complex structure and high strength reserve, and is separated with watertight bulkheads into several compartments. There are also examples of more than two hulls in a submarine, like the , which has two main pressure hulls and three smaller ones for control room, torpedoes and steering gear, with the missile launch system between the main hulls.
 
@@ -229,7 +217,7 @@ Building a pressure hull is difficult, as it must withstand pressures at its req
 
 Propulsion
 
-HMCS_Windsor_SSK_877.jpg diesel-electric hunter-killer submarine]]
+diesel-electric hunter-killer submarine]]
 
 The first submarines were propelled by humans. The first mechanically driven submarine was the 1863 French , which used compressed air for propulsion. Anaerobic propulsion was first employed by the Spanish _Ictineo II_ in 1864, which used a solution of zinc, manganese dioxide, and potassium chlorate to generate sufficient heat to power a steam engine, while also providing oxygen for the crew. A similar system was not employed again until 1940 when the German Navy tested a hydrogen peroxide-based system, the Walter turbine, on the experimental V-80 submarine and later on the naval and type XVII submarines.[77]
 
@@ -237,7 +225,7 @@ Until the advent of nuclear marine propulsion, most 20th-century submarines used
 
 Diesel-electric
 
-Submarine_recharging_(JMSDF).jpg)]]
+)]]
 
 Early submarines used a direct mechanical connection between the engine and propeller, switching between diesel engines for surface running, and battery-driven electric motors for submerged propulsion.
 
@@ -255,7 +243,7 @@ One new technology that is being introduced starting with the Japanese Navy's el
 
 Air-independent
 
-2004-Bremerhaven_U-Boot-Museum-Sicherlich_retouched.jpg]] SS_X-1_Midget_Submarine.jpg
+]]
 
 During World War II, German Type XXI submarines (also known as "_Elektroboote_") were the first submarines designed to operate submerged for extended periods. Initially they were to carry hydrogen peroxide for long-term, fast air-independent propulsion, but were ultimately built with very large batteries instead. At the end of the War, the British and Soviets experimented with hydrogen peroxide/kerosene (paraffin) engines that could run surfaced and submerged. The results were not encouraging. Though the Soviet Union deployed a class of submarines with this engine type (codenamed by NATO), they were considered unsuccessful.
 
@@ -264,8 +252,6 @@ The United States also used hydrogen peroxide in an experimental midget submarin
 Today several navies use air-independent propulsion. Notably Sweden uses Stirling technology on the and s. The Stirling engine is heated by burning diesel fuel with liquid oxygen from cryogenic tanks. A newer development in air-independent propulsion is hydrogen fuel cells, first used on the German Type 212 submarine, with nine 34 kW or two 120 kW cells and soon to be used in the new Spanish s.[84]
 
 Nuclear power
-
-Battery_well_of_USS_Nautilus.jpg
 
 Steam power was resurrected in the 1950s with a nuclear-powered steam turbine driving a generator. By eliminating the need for atmospheric oxygen, the time that a submarine could remain submerged was limited only by its food stores, as breathing air was recycled and fresh water distilled from seawater. More importantly, a nuclear submarine has unlimited range at top speed. This allows it to travel from its operating base to the combat zone in a much shorter time and makes it a far more difficult target for most anti-submarine weapons. Nuclear-powered submarines have a relatively small battery and diesel engine/generator powerplant for emergency use if the reactors must be shut down.
 
@@ -283,7 +269,7 @@ Toward the end of the 20th century, some submarines—such as the British _Vangu
 
 Armament
 
-Ocelot-TorpedoTubes.JPG The success of the submarine is inextricably linked to the development of the torpedo, invented by Robert Whitehead in 1866. His invention is essentially the same now as it was 140 years ago. Only with self-propelled torpedoes could the submarine make the leap from novelty to a weapon of war. Until the perfection of the guided torpedo, multiple "straight-running" torpedoes were required to attack a target. With at most 20 to 25 torpedoes stored on board, the number of attacks was limited. To increase combat endurance most World War I submarines functioned as submersible gunboats, using their deck guns against unarmed targets, and diving to escape and engage enemy warships. The importance of guns encouraged the development of the unsuccessful Submarine Cruiser such as the French and the Royal Navy's and M-class submarines. With the arrival of Anti-submarine warfare (ASW) aircraft, guns became more for defense than attack. A more practical method of increasing combat endurance was the external torpedo tube, loaded only in port.
+The success of the submarine is inextricably linked to the development of the torpedo, invented by Robert Whitehead in 1866. His invention is essentially the same now as it was 140 years ago. Only with self-propelled torpedoes could the submarine make the leap from novelty to a weapon of war. Until the perfection of the guided torpedo, multiple "straight-running" torpedoes were required to attack a target. With at most 20 to 25 torpedoes stored on board, the number of attacks was limited. To increase combat endurance most World War I submarines functioned as submersible gunboats, using their deck guns against unarmed targets, and diving to escape and engage enemy warships. The importance of guns encouraged the development of the unsuccessful Submarine Cruiser such as the French and the Royal Navy's and M-class submarines. With the arrival of Anti-submarine warfare (ASW) aircraft, guns became more for defense than attack. A more practical method of increasing combat endurance was the external torpedo tube, loaded only in port.
 
 The ability of submarines to approach enemy harbours covertly led to their use as minelayers. Minelaying submarines of World War I and World War II were specially built for that purpose. Modern submarine-laid mines, such as the British Mark 5 Stonefish and Mark 6 Sea Urchin, can be deployed from a submarine's torpedo tubes.
 
@@ -303,7 +289,7 @@ Civilian submarines, such as the or the Russian _Mir_ submersibles, rely on smal
 
 Navigation
 
-Ocelot-Periscopes.JPG, and the smaller, less detectable attack periscope on HMS _Ocelot_]]
+, and the smaller, less detectable attack periscope on HMS _Ocelot_]]
 
 Early submarines had few navigation aids, but modern subs have a variety of navigation systems. Modern military submarines use an inertial guidance system for navigation while submerged, but drift error unavoidably builds over time. To counter this, the crew occasionally uses the Global Positioning System to obtain an accurate position. The periscope—a retractable tube with a prism system that provides a view of the surface—is only used occasionally in modern submarines, since the visibility range is short. The and s use photonics masts rather than hull-penetrating optical periscopes. These masts must still be deployed above the surface, and use electronic sensors for visible light, infrared, laser range-finding, and electromagnetic surveillance. One benefit to hoisting the mast above the surface is that while the mast is above the water the entire sub is still below the water and is much harder to detect visually or by radar.
 
@@ -328,13 +314,13 @@ Trash on modern large submarines is usually disposed of using a tube called a Tr
 
 Crew
 
-E_class_submarine_interior_IWM_Q_18650.jpg. An officer supervises submerging operations, c. 1914–1918.]]
+. An officer supervises submerging operations, c. 1914–1918.]]
 
 A typical nuclear submarine has a crew of over 80; conventional boats typically have fewer than 40. The conditions on a submarine can be difficult because crew members must work in isolation for long periods of time, without family contact. Submarines normally maintain radio silence to avoid detection. Operating a submarine is dangerous, even in peacetime, and many submarines have been lost in accidents.
 
 Women
 
-US_Navy_100603-N-0000X-053_Midshipmen_learn_to_pilot_the_submarine_by_training_in_the_duties_of_the_helm_and_planesman_while_underway_aboard_the_Ohio-class_ballistic-missile_submarine_USS_West_Virginia_(SSBN_736).jpg learn to pilot the .]]
+learn to pilot the .]]
 
 Most navies prohibited women from serving on submarines, even after they had been permitted to serve on surface warships. The Royal Norwegian Navy became the first navy to allow women on its submarine crews in 1985. The Royal Danish Navy allowed female submariners in 1988.[94] Others followed suit including the Swedish Navy (1989),[95] the Royal Australian Navy (1998), the Spanish Navy (1999),[96][97] the German Navy (2001) and the Canadian Navy (2002). In 1995, Solveig Krey of the Royal Norwegian Navy became the first female officer to assume command on a military submarine, HNoMS _Kobben_.[98]
 

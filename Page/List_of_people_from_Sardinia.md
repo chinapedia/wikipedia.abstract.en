@@ -3,8 +3,6 @@ Sardinia is the second-largest island in the Mediterranean Sea, with a populatio
 
 Academic figures and inventors
 
-Domenico_alberto_azuni.png Giovanni_Spano.png Gian_Luigi_Gessa_2014_02.JPG
-
 -   Pietro Amat di San Filippo (1826 - 1895), geographer, historian and bibliographer.
 -   Giulio Angioni (1939-2016), writer and anthropologist
 -   Efisio Arru (1927 – 2000), parasitologist
@@ -48,7 +46,7 @@ Activists
 
 Architects and designers
 
-Paola_Antonelli_in_2008.jpg]]
+]]
 
 -   Paola Antonelli (born 1963), architect, senior Curator in the Department of Architecture and Design at the Museum of Modern Art in New York
 -   Carlo Battaglia (1933 – 2005), designer
@@ -65,7 +63,7 @@ Paola_Antonelli_in_2008.jpg]]
 
 Authors
 
-Grazia_Deledda_1926.jpg, Nobel Prize for Literature in 1926]]
+, Nobel Prize for Literature in 1926]]
 
 -   Milena Agus (born 1955)
 -   Francesco Alziator (1909-1977), writer and journalist
@@ -99,7 +97,7 @@ Grazia_Deledda_1926.jpg, Nobel Prize for Literature in 1926]]
 
 Businessmen
 
-ASpexi-19817.jpg]]
+]]
 
 -   Massimo Cellino (born 1956), entrepreneur and football club owner.
 -   Giovanni Antonio Sanna (1819 – 1875), entrepreneur and politician.
@@ -110,7 +108,7 @@ Cinema and TV
 
 Actors & actresses
 
-Pier_Angeli_1957.jpg]] Melissa_Satta_(cropped).jpg
+]]
 
 -   Gianni Agus
 -   Mavie Bardanzellu (born 1938), actress
@@ -170,8 +168,6 @@ Journalists
 
 Mercenaries, soldiers & troops
 
-Domenico_Millelire.jpg
-
 -   Mario Aramu (1900 – 1940) aviator.
 -   Domenico Millelire (1761 – 1827) patriot, navy officer.
 -   Antonio Todde (1889 – 2002), oldest man in the world at the date of his death and the third-oldest military veteran ever
@@ -181,7 +177,7 @@ Domenico_Millelire.jpg
 
 Musicians and singers
 
-Giovanni_Matteo_De_Candia_2.jpg.]] GiuseppeAnedda2.JPG
+.]]
 
 -   Giuseppe Anedda (1912 – 1997)
 -   Bianca Atzei (born 1987)
@@ -217,8 +213,6 @@ Visual artists
 
 Painters, illustrators, photographers, sculptors
 
-Francesco_ciusa.jpg
-
 -   Edina Altara (1898–1983), illustrator and painter
 -   Giuseppe Biasi (1885–1945), painter
 -   Vittore Bocchetta (born 1918), Sculptor, painter and academic
@@ -244,7 +238,7 @@ Cartoonists & comics creators
 
 Politicians
 
-Eleonora_di_Arborea.jpg, queen of the Giudicato of Arborea (Sardinian: _Judicadu de Arbarée_)]] J.M._Angioy.jpeg, Sardinian patriot]]
+, queen of the Giudicato of Arborea (Sardinian: _Judicadu de Arbarée_)]] , Sardinian patriot]]
 
 -   Giuseppe Abozzi (1882 - 1962), socialist
 -   Giovanni Maria Angioy (1751–1808), politician and patriot
@@ -337,7 +331,7 @@ Extreme Sportsmen
 
 Footballers
 
-Zola_at_Lazio.JPG]] Salvatore_Sirigu_.jpg Andrea_cossu.jpg
+]]
 
 -   Simone Aresti (born 1986)
 -   Salvatore Burrai
@@ -379,8 +373,6 @@ Ice hockey players
 
 Equestrian Champions and Jockeys
 
-Paolo_Angioni_1968.jpg
-
 -   Paolo Angioni (born 22 January 1938), equestrian olympic champion
 -   Giovanni Atzeni (born 1985)
 -   Andrea Degortes best known as _Aceto_
@@ -396,8 +388,6 @@ Tennis Players
 
 
 Religious figures
-
-Pope_Hilarius.jpg Giuseppe-Efisio-Taranto-sm.jpg
 
 -   Abraham da Cagliari (8th century AD), Rabbi
 -   Ottorino Pietro Alberti (1927-2012) Archbishop
@@ -429,8 +419,6 @@ Pope_Hilarius.jpg Giuseppe-Efisio-Taranto-sm.jpg
 
 Notable people of Sardinian descent
 
-Astronaut_Wally_Schirra_during_a_simulated_flight_test_activity.jpg
-
 -   Ettore Pais (1856– 1939), historian with Sardinian ancestry
 -   Gustavo Piga (born 1964), economist
 -   Ambra Medda (born 1982), Designer
@@ -457,7 +445,7 @@ Astronaut_Wally_Schirra_during_a_simulated_flight_test_activity.jpg
 -   Barbara Serra (born 1974), Sardinian from father side
 -   Efisio Tola (1803 - 1833), patriot.
 
-Induno_Domenico_Goffredo_Mameli.jpg, author of Italian national anthem (Genoese of Sardinian ancestry).]]
+, author of Italian national anthem (Genoese of Sardinian ancestry).]]
 
 -   Ricky Gianco (born Riccardo Sanna, 1943), singer, songwriter, guitarist and record producer, with partial Sardinian ancestry
 -   Ivan Graziani, Sardinian from mother side
@@ -466,7 +454,7 @@ Induno_Domenico_Goffredo_Mameli.jpg, author of Italian national anthem (Ge
 -   Ugo Mulas (1928 - 1973), photographer with Sardinian ancestry
 -   Aurelio Galleppini (1917-1994) (His parents were Sardinians)
 
-Enrico_Letta_2013.jpg (Pisan of Sardinian ancestry).]]
+ (Pisan of Sardinian ancestry).]]
 
 -   Graziano Delrio (born 1960), Italian Minister of Infrastructure and Transport with Sardinian ancestry [7]
 -   Beji Caid Essebsi (born 1926), President of Tunisia (Paternal great-great-grandfather from Sardinia)

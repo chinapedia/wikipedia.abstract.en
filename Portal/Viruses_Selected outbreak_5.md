@@ -1,0 +1,5 @@
+Infectious_diseases_ward_at_East_Brimingham_Hospital,_1978.jpg
+
+The last recorded smallpox death occurred during the 1978 SMALLPOX OUTBREAK in Birmingham, UK. The outbreak resulted from accidental exposure to _Variola major_, probably the Abid strain, from a WHO-funded laboratory, headed by Henry Bedson, at the University of Birmingham Medical School – also the probable source of a 1966 outbreak. Bedson was investigating strains of smallpox known as whitepox, considered a potential threat to the smallpox eradication campaign, then in its final stages. The virus appears to have spread between floors in late July, possibly via ducting, to infect a medical photographer who worked above the laboratory. She showed symptoms in August and died the following month; one of her contacts was also infected but survived. Bedson committed suicide while under quarantine.
+
+A government inquiry into the outbreak criticised the university's safety procedures. Radical changes in UK research practices for handling dangerous pathogens followed, and all known stocks of smallpox virus were concentrated in two laboratories.

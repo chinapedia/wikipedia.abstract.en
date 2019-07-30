@@ -1,1 +1,0 @@
-ELANGBAM PANTHOI CHANU (born 23 December 1996) is an Indian footballer who plays as a goalkeeper for the India women's national football team. She also played for Eastern Sporting Union in Indian Women's League.[1][2]

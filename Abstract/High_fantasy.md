@@ -1,1 +1,0 @@
-HIGH FANTASY or EPIC FANTASY is a subgenre of fantasy,[1] defined either by the epic nature of its setting or by the epic stature of its characters, themes, or plot.[2] The term "high fantasy" was coined by Lloyd Alexander in a 1971 essay, "High Fantasy and Heroic Romance" (originally given at the New England Round Table of Children's Librarians in October 1969).[3]

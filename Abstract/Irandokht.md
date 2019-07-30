@@ -1,1 +1,0 @@
-IRANDOKHT was the first child of Ahmad Shah Qajar and Badr al-Molouk.[1] She was princess of Iran and the heir presumptive to the Crown of Iran before leaving the country with her parents when she was 5 years old.

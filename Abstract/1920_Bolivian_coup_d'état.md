@@ -1,1 +1,0 @@
-1920 BOLIVIAN COUP D'ÉTAT was a bloodless takeover of power in Bolivia by the Republican party on July 12, 1920 which overthrew the previously ruling government of the Liberal Party and brought Bautista Saavedra to power as President from 1920 until 1925.[1]

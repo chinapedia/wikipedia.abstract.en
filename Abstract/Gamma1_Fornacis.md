@@ -1,1 +1,0 @@
-γ Fornacis}} GAMMA¹ FORNACIS (Γ¹ FOR) is a star in the constellation Fornax. Its apparent magnitude is 6.15. It is a yellow giant that has swollen and brightened to around 80 times as luminous as the Sun.

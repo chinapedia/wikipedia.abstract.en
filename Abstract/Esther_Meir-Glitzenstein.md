@@ -1,1 +1,0 @@
-ESTHER MEIR-GLITZENSTEIN (born 1954, Israel) is a professor at the Ben-Gurion University of the Negev.[1] She specializes in the history of Jews from Arab countries, especially Iraq and Yemen, in the 20th century.

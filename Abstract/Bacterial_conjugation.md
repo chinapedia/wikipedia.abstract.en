@@ -1,1 +1,0 @@
-BACTERIAL CONJUGATION is the transfer of genetic material between bacterial cells by direct cell-to-cell contact or by a bridge-like connection between two cells.[1] This takes place through a pilus.[2]

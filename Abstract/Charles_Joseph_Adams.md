@@ -1,1 +1,0 @@
-CHARLES JOSEPH ADAMS (April 24, 1924 – March 23, 2011)[1] was an American academic and professor of religion. He was Emeritus Professor of Islamic Studies at McGill University and for nearly 20 years the Director of the Institute of Islamic Studies there.[2][3]

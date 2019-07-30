@@ -1,1 +1,0 @@
-CHERNOBYL () or CHORNOBYL () is a ghost city in the Chernobyl Exclusion Zone, situated in the Ivankiv Raion of northern Kiev Oblast, Ukraine, near Ukraine's border with Belarus. Chernobyl is about north of Kiev, and southwest of the Belarusian city of Gomel. Before its evacuation, the city had about 14,000 residents.[1]

@@ -1,1 +1,0 @@
-BOLDENONE UNDECYLENATE, or BOLDENONE UNDECENOATE, sold under the brand names EQUIPOISE and PARENABOL among others, is an androgen and anabolic steroid (AAS) medication which is used in veterinary medicine, mainly in horses.[1][2][3][4][5] It was formerly used in humans as well.[6] It is given by injection into muscle.[7]

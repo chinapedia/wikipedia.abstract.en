@@ -1,4 +1,4 @@
-Guillaume_Delisle_Senegambia_1707.jpg (1770)]] The HISTORY OF SENEGAL is commonly divided into a number of periods, encompassing the prehistoric era, the precolonial period, colonialism, and the contemporary era.
+(1770)]] The HISTORY OF SENEGAL is commonly divided into a number of periods, encompassing the prehistoric era, the precolonial period, colonialism, and the contemporary era.
 
 
 Paleolithic
@@ -28,21 +28,19 @@ A variety of archaeological remains have been found:
 -   On the coast and in river estuaries of the Senegal, Saloum, Gambia, and Casamance rivers, burial mounds with clusters of shells often referred to as middens. 217 of these clusters have been identified in the Saloum Delta alone,[13] for example in Joal-Fadiouth,[14] Mounds in the Saloum Delta have been dated back as far as 400 BCE, and part of the Saloum Delta is now a World Heritage Site. Funerary sites or tumuli were built there during the 8th to 16th centuries.[15] They are also found in the north near Saint-Louis,[16] and in the estuary of the Casamance.[17]
 -   The West is rich in burial mounds of sand that the Wolof refer to as _mbanaar_, which translates to "graves",[18] A solid gold pectoral of mass 191 g has also been discovered near Saint-Louis.[19]
 
-MégalitheSénégal.jpg
-
 -   In a huge area of nearly km² located in the center-south around the Gambia there have been found alignments of boulders known as the Stone Circles of Senegambia which were placed on the list of UNESCO World Heritage sites in 2006.[20] Two of these sites are located within the territory of Senegal: Sine Ngayène[21] and Sine Wanar, both located in the Department of Nioro Rip. Sine Ngayène has 52 stone circles including a double circle. At Wanar, they number 24 and the stones are smaller. There are stone-carved lyre in the laterite, Y- or A-shaped.
 -   The existence of proto-historic ruins in the middle Senegal River valley was confirmed in the late 1970s.[22] Pottery, perforated ceramic discs [23] or ornaments have been unearthed. Excavations at thé site of Sinthiou Bara,[24] near Matam, have proved particularly fruitful. They have revealed, for example, the flow of trans-Saharan trade from distant parts of North Africa.
 
 
 Kingdoms and Empires
 
-Buur_Sine_Kumba_Ndoffene_Fa_Ndeb_Joof.jpg. King of Sine. The Royal House of Boureh Gnilane Joof.]] The region of modern Senegal was a part of the larger region called Upper Guinea by European traders. In the absence of written sources and monumental ruins in this region, the history of the early centuries of the modern era must be based primarily on archaeological excavations, the writing of early geographers and travelers, written in Arabic and data derived from oral tradition. Combining these data suggests that Senegal was first populated from the north and east in several waves of migration, the last being that of the Wolof, the Fulani and the Serer. Africanist historian Donald R. Wright suggests that Senegambian place-names indicate "that the earliest inhabitants might be identified most closely with one of several related groups—Bainunk, Kasanga, Beafada... To these were added Serer, who moved southward during the first millennium A.D. from the Senegal River valley, and Mande-speaking peoples, who arrived later still from the east."[25] Probable descendants of Bafours were pushed southward by the Berber dynasty of Almoravids. Empire_ghana.png]] Before the arrival of European settlers, the history of the Saharan region is mainly characterized by the consolidation of settlements in large state entities – the Ghana Empire, the Mali Empire and the Songhai Empire. The cores of these great empires were located on the territory of the current Republic of Mali, so current-day Senegal occupied a peripheral position.[26]
+. King of Sine. The Royal House of Boureh Gnilane Joof.]] The region of modern Senegal was a part of the larger region called Upper Guinea by European traders. In the absence of written sources and monumental ruins in this region, the history of the early centuries of the modern era must be based primarily on archaeological excavations, the writing of early geographers and travelers, written in Arabic and data derived from oral tradition. Combining these data suggests that Senegal was first populated from the north and east in several waves of migration, the last being that of the Wolof, the Fulani and the Serer. Africanist historian Donald R. Wright suggests that Senegambian place-names indicate "that the earliest inhabitants might be identified most closely with one of several related groups—Bainunk, Kasanga, Beafada... To these were added Serer, who moved southward during the first millennium A.D. from the Senegal River valley, and Mande-speaking peoples, who arrived later still from the east."[25] Probable descendants of Bafours were pushed southward by the Berber dynasty of Almoravids. ]] Before the arrival of European settlers, the history of the Saharan region is mainly characterized by the consolidation of settlements in large state entities – the Ghana Empire, the Mali Empire and the Songhai Empire. The cores of these great empires were located on the territory of the current Republic of Mali, so current-day Senegal occupied a peripheral position.[26]
 
 The earliest of these empires is that of Ghana, probably founded in the first millennium by Soninke and whose animist populations subsisted by agriculture and trade across the Sahara,[27] including gold, salt and cloth. Its area of influence slowly spread to regions between the river valleys of the Senegal and Niger.
 
 A contemporary empire of Ghana, but less extensive, the kingdom of Tekrur was its vassal. Ghana and Tekrur were the only organized populations before Islamization. The territory of Tekrur approximates that of the current Fouta Toro. Its existence in the 9th century is attested by Arabic manuscripts. The formation of the state may have taken place as an influx of Fulani from the east settled in the Senegal valley.[28][29] John Donnelly Fage suggests that Takrur was formed through the interaction of Berbers from the Sahara and "Negro agricultural peoples" who were "essentially Serer" although its kings after 1000 CE might have been Soninke (northern Mande).[30] The name, borrowed from Arabic writings, may be linked to that of the ethnicity Toucouleur.[31] Trade with the Arabs was prevalent. The Kingdom imported wool, copper and pearls and exported gold and slaves.[32] Indeed, the growth of a vast empire by Arab-Muslim Jihads is not devoid of economic and political issues and brought in its wake the first real growth of the slave trade. This trade called the Arab slave trade provided North Africa and Saharan Africa with slave labor. The Tekrur were among the first converts to Islam, certainly before 1040.[33]
 
-WolofWaalo.jpg of Waalo, in "war costume" (1846)]] MALI_empire_BLANK.PNG at its height]] Two other major political entities were formed and grew during the 13th and 14th century: the Mali Empire and the Jolof Empire which become the vassal of the first in its heyday. Originating in the Mandinka invasion, Mali continued to expand, encompassing first eastern Senegal, and later almost all the present territory. Founded in the 14th century by the possibly mythical chief of the Wolof Ndiadiane Ndiaye,[34] who was a Serer of Waalo (Ndiaye is originally a Serer surname[35] [36][37][38]Mam Kumba Njie (or Ndiaye) is a Serer Goddess in the Serer religion as well as the Almoravid invasion of Tekrur. See Henry Gravrand. "La Civilisation Sereer", _Pangool_, p. 91. See also:
+of Waalo, in "war costume" (1846)]] at its height]] Two other major political entities were formed and grew during the 13th and 14th century: the Mali Empire and the Jolof Empire which become the vassal of the first in its heyday. Originating in the Mandinka invasion, Mali continued to expand, encompassing first eastern Senegal, and later almost all the present territory. Founded in the 14th century by the possibly mythical chief of the Wolof Ndiadiane Ndiaye,[34] who was a Serer of Waalo (Ndiaye is originally a Serer surname[35] [36][37][38]Mam Kumba Njie (or Ndiaye) is a Serer Goddess in the Serer religion as well as the Almoravid invasion of Tekrur. See Henry Gravrand. "La Civilisation Sereer", _Pangool_, p. 91. See also:
 
 -   Ed Hindson & Ergun Caner. _The Popular Encyclopedia of Apologetics: Surveying the Evidence for the Truth of Christianity_, p. 21. Harvest House Publishers, 2008. which is also found among the Wolof). Djolof expanded its dominance of small chiefdoms south of the Senegal River (Waalo, Cayor, Baol, Sine – Saloum), bringing together all the Senegambia to which he gave religious and social unity: the "Grand Djolof" [39] which collapsed in 1550.
 
@@ -61,7 +59,7 @@ In the mid-15th century, several European nations reached the coast of West Afri
 
 The Portuguese navigators
 
-Portuguese_Empire_map.jpg Encouraged by Henry the Navigator and always in search of the Passage to India, and not forgetting gold and slaves, Portuguese explorers explored the African coast and ventured still farther south.[52]
+Encouraged by Henry the Navigator and always in search of the Passage to India, and not forgetting gold and slaves, Portuguese explorers explored the African coast and ventured still farther south.[52]
 
 In 1444 Dinis Dias went off the mouth of the Senegal River to reach the westernmost point of Africa he calls _Cabo Verde_, Cape Vert,[53] because of the lush vegetation seen there. He also reached the island of Gorée, referred to by its inhabitants as _Berzeguiche_, but which he called _Ilha de Palma_, the island of Palms. The Portuguese did not settle there permanently, but used the site for landing and engaged in commerce in the region. They built a chapel there in 1481.[54] Portuguese trading posts were installed in Tanguegueth [55] in Cay, a town they renamed _Fresco Rio_ (the future Rufisque) because of the freshness of its sources in the Baol Sali (later the seaside town of Saly) which takes the name of _Portudal_, or to Joal in the Kingdom of Sine.
 
@@ -71,7 +69,7 @@ The Dutch West India Company
 
 After the Act of Abjuration in 1581, the United Provinces flouted the authority of the King of Spain. They based their growth on maritime trade and expanded their colonial empire in Asia, the Americas and South Africa. In West Africa trading posts were opened at some points of the current Senegal, Gambia, Ghana and Angola.
 
-Het_West_Indisch_Huys_-_Amsterdam_1655.png at Amsterdam in 1655]] Created in 1621, the Dutch West India Company purchased the island of Gorée in 1627.[57] The company built two forts that are in ruins today: in 1628 on the face of Nassau Cove and 1639 at Nassau on the hill, as well as warehouses for goods destined for the mainland trading posts .
+at Amsterdam in 1655]] Created in 1621, the Dutch West India Company purchased the island of Gorée in 1627.[57] The company built two forts that are in ruins today: in 1628 on the face of Nassau Cove and 1639 at Nassau on the hill, as well as warehouses for goods destined for the mainland trading posts .
 
 In his _Description of Africa_ (1668), the humanist Dutch Olfert Dapper gives the etymology of the name given to it by his countrymen,_Goe-ree_ _Goede Reede_, that is to say "good harbor".[58], which is the name of (part of) an island in the Dutch province of Zeeland as well.
 
@@ -85,7 +83,7 @@ Under Louis XIII and especially Louis XIV, the privileges were quite extensively
 
 The Company of Senegal was in turn founded by Colbert in 1673. It became the major tool of French colonialism in Senegal, but saddled with debt, it was dissolved 1681 and replaced by another that lasted until 1694, the date of creation of the Royal Company of Senegal, whose director, Andre Brue, would be captured by the Damel of Cay and released against ransom in 1701. A third Company of Senegal was founded in 1709 and lasted until 1718. On the British side, the monopoly of trade with Africa was granted to the Royal African Company in 1698.
 
-DoléancesSénégal2.jpg (1789)]] Gorée1677.jpg avec ses deux forts et le combat que nous avons rendu le premier du mois de novembre 1677 »]] Grand Master of the naval war of Louis XIV, Admiral Jean Estrées seized Gorée on 1 November 1677. The island was taken up by the English on 4 February 1693 before being again occupied by the French four months later. In 1698 the Director of the Company of Senegal, Andre Brue, restored the fortifications. But Gorée became English once again in the middle of the 18th century.
+(1789)]] avec ses deux forts et le combat que nous avons rendu le premier du mois de novembre 1677 »]] Grand Master of the naval war of Louis XIV, Admiral Jean Estrées seized Gorée on 1 November 1677. The island was taken up by the English on 4 February 1693 before being again occupied by the French four months later. In 1698 the Director of the Company of Senegal, Andre Brue, restored the fortifications. But Gorée became English once again in the middle of the 18th century.
 
 The excellent location of St. Louis caught the attention of the English, who occupied it three times for a few months in 1693, then during the Seven Years' War of 1758 until it was taken by the Duc de Lauzun in 1779, and lastly 1809 in 1816.
 
@@ -99,7 +97,7 @@ A trading economy
 
 The Europeans were sometimes disappointed because they hoped to find more gold in West Africa, but when the development of plantations in the Americas, mainly in the Caribbean, in Brazil and in the south of the United States raised a great need for cheap labor, the area received more attention. The Papacy, who had sometimes opposed slavery, did not condemn it explicitly to the end of the 17th century; in fact the Church itself has an interest in the colonial system. Traffic of "ebony" was an issue for warriors who traditionally reduced the vanquished to slavery. Some people specialized in the slave trade, for example the Dyula in West Africa. States and kingdoms competed, along with private traders who became much richer in the triangular trade (although some shipments resulted in real financial disaster). Politico-military instability in the region was compounded by the slave trade.
 
-The Black Code, enacted in 1685, regulated the trafficking of slaves in the American colonies. SignaresBal.jpgs in St. Louis (burning 1890 )]] In Senegal, trading posts were established in Gorée, St. Louis, Rufisque, Portudal and Joal and the upper valley of the Senegal River, including Fort St. Joseph, in the Kingdom of Galam, was in the 18th century a French engine of trafficking in Senegambia.
+The Black Code, enacted in 1685, regulated the trafficking of slaves in the American colonies. s in St. Louis (burning 1890 )]] In Senegal, trading posts were established in Gorée, St. Louis, Rufisque, Portudal and Joal and the upper valley of the Senegal River, including Fort St. Joseph, in the Kingdom of Galam, was in the 18th century a French engine of trafficking in Senegambia.
 
 In parallel, a mestizo society develops in St. Louis and Gorée.
 
@@ -116,7 +114,7 @@ The colonization of Casamance also continued. The island of Carabane, acquired b
 
 Modern colonialism
 
-Gorée-MaisonEsclaves1.jpg on Gorée Island.]] St.LouisSenegal.jpg in 1780.]] SenegalHunting.jpg Various European powers – Portugal, the Netherlands, and England – competed for trade in the area from the 15th century onward, until in 1677, France ended up in possession of what had become a minor slave trade departure point—the infamous island of Gorée next to modern Dakar.[60][61] In 1758 the French settlement was captured by a British expedition as part of the Seven Years' War, but was later returned to France. It was only in the 1850s that the French, under the governor, Louis Faidherbe, began to expand their foothold onto the Senegalese mainland, at the expense of the native kingdoms.
+on Gorée Island.]] in 1780.]] Various European powers – Portugal, the Netherlands, and England – competed for trade in the area from the 15th century onward, until in 1677, France ended up in possession of what had become a minor slave trade departure point—the infamous island of Gorée next to modern Dakar.[60][61] In 1758 the French settlement was captured by a British expedition as part of the Seven Years' War, but was later returned to France. It was only in the 1850s that the French, under the governor, Louis Faidherbe, began to expand their foothold onto the Senegalese mainland, at the expense of the native kingdoms.
 
 The Four Communes of Saint-Louis, Dakar, Gorée, and Rufisque were the oldest colonial towns in French controlled west Africa. In 1848, the French Second Republic extended the rights of full French citizenship to their inhabitants. While those who were born in these towns could technically enjoy all the rights of native French citizens, substantial legal and social barriers prevented the full exercise of these rights, especially by those seen by authorities as full blooded Africans.
 
@@ -134,7 +132,7 @@ THE FRENCH SECOND REPUBLIC:
 -   Vacant 1850–1852
 -   Abolished 1852–1871
 
-Blaise_Diagne-Dakar-1918.jpg, Deputy for Senegal, High Commissioner of the Government for the recruitment of black troops in Dakar in March 1918.]]
+, Deputy for Senegal, High Commissioner of the Government for the recruitment of black troops in Dakar in March 1918.]]
 
 THE FRENCH THIRD REPUBLIC:
 
@@ -148,7 +146,7 @@ THE FRENCH THIRD REPUBLIC:
 -   Blaise Diagne 1914–1934 (African)
 -   Galandou Diouf 1934–1940 (African)
 
-Flag_of_Senegal_(1958–1959).svg 1945–1959:
+1945–1959:
 
 -   Amadou Lamine Guèye 1945–1951[62] (African)
 -   Léopold Sedar Senghor 1945–1959[63] (African)
@@ -160,7 +158,7 @@ Following the 1945 elections to the Constituent Assembly in France, which were h
 
 Independence
 
-Mali_Federation_in_its_region.svg.]] In January 1959, Senegal and the French Sudan merged to form the Mali Federation, which became fully independent on 20 June 1960. The transfer of power agreement with France was signed on 4 April 1960. Due to internal political difficulties, the Federation broke up on 20 August 1960. Senegal and Soudan (renamed the Republic of Mali) proclaimed independence. Léopold Senghor, internationally known poet, politician, and statesman, was elected Senegal's first president in August 1960.
+.]] In January 1959, Senegal and the French Sudan merged to form the Mali Federation, which became fully independent on 20 June 1960. The transfer of power agreement with France was signed on 4 April 1960. Due to internal political difficulties, the Federation broke up on 20 August 1960. Senegal and Soudan (renamed the Republic of Mali) proclaimed independence. Léopold Senghor, internationally known poet, politician, and statesman, was elected Senegal's first president in August 1960.
 
 The 1960s and early 1970s saw the continued and persistent violating of Senegal's borders by the Portuguese military from Portuguese Guinea. In response, Senegal petitioned the United Nations Security Council in 1963, 1965, 1969 (in response to shelling by Portuguese artillery), 1971 and finally in 1972.
 

@@ -1,1 +1,0 @@
-_CHEF_ is a 2017 Indian comedy-drama film directed by Raja Krishna Menon, featuring Saif Ali Khan and Padmapriya Janakiraman in the lead roles.[1] It is an official remake of an American film with the same name.

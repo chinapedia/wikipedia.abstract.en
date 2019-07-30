@@ -1,1 +1,0 @@
-HenryCo_Pasture.jpg]]

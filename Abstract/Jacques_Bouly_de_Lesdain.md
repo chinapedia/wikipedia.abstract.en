@@ -1,1 +1,0 @@
-Count JACQUES BOULY DE LESDAIN (1880-1975) was a French aristocrat, lawyer and diplomat. He was the author of several travel books about Asia and political books about Germany. He was the political editor of _L'Illustration_ and he organised anti-Freemasonry conferences during World War II.

@@ -1,1 +1,0 @@
-The Republic of Haiti comprises the western three-eighths of the island of Hispaniola, west of the Dominican Republic.[1][2] Haiti is positioned east of the neighboring island of Cuba, between the Caribbean Sea and the North Atlantic Ocean. Haiti's geographic coordinates are at a longitude of 72° 25′ west and a latitude of 19° 00′ north.

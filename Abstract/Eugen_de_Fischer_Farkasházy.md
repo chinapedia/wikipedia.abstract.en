@@ -1,1 +1,0 @@
-EUGEN DE FISCHER FARKASHÁZY (born _farkasházi Fischer Jenő_) (29 March 1861, Székesfehérvár – 4 May 1926, Herend) was a Hungarian porcelain factory owner, ceramics, art history writing. His brother, Dr. farkasházi Zsigmond Farkasházy (1874–1928), was a former politician, journalist, MP, lawyer.

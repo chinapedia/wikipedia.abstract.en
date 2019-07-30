@@ -1,1 +1,0 @@
-_PERGOLESI_ is a 1932 Italian historical musical film directed by Guido Brignone and starring Elio Steiner, Dria Paola and Tina Lattanzi.[1] It portrays the brief life of the eighteenth century Italian composer Giovanni Battista Pergolesi.

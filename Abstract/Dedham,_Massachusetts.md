@@ -1,1 +1,0 @@
-DEDHAM is a town in and the county seat of Norfolk County, Massachusetts, United States.[1] The population was 24,729 at the 2010 census.[2] It is located on Boston's southwest border. On the northwest it is bordered by Needham, on the southwest by Westwood, and on the southeast by Canton. The town was first settled by Europeans in 1635.

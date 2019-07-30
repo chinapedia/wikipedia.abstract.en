@@ -15,13 +15,13 @@ Soweto became the largest Black city in South Africa, but until 1976 its populat
 
 Kliptown and Pimville
 
-Johannesburg_dagsoom_(copy).jpg In April 1904 there was a bubonic plague scare in the shanty town area of Brickfields. The town council decided to condemn the area and burn it down. Beforehand most of the Africans living there were moved far out of town to the farm Klipspruit (later called Pimville), south-west of Johannesburg, where the council had erected iron barracks and a few triangular hutments. The rest of them had to build their own shacks. The fire brigade then set the 1600 shacks and shops in Brickfields alight. Thereafter the area was redeveloped as Newtown.[9] Pimville was next to Kliptown, the oldest Black residential district of Johannesburg and first laid out in 1891 on land which formed part of Klipspruit farm. The future Soweto was to be laid out on Klipspruit and the adjoining farm called Diepkloof.
+In April 1904 there was a bubonic plague scare in the shanty town area of Brickfields. The town council decided to condemn the area and burn it down. Beforehand most of the Africans living there were moved far out of town to the farm Klipspruit (later called Pimville), south-west of Johannesburg, where the council had erected iron barracks and a few triangular hutments. The rest of them had to build their own shacks. The fire brigade then set the 1600 shacks and shops in Brickfields alight. Thereafter the area was redeveloped as Newtown.[9] Pimville was next to Kliptown, the oldest Black residential district of Johannesburg and first laid out in 1891 on land which formed part of Klipspruit farm. The future Soweto was to be laid out on Klipspruit and the adjoining farm called Diepkloof.
 
 In the Zuid-Afrikaansche Republiek and the subsequent Transvaal Colony it was lawful for people of colour to own fixed property.[10] Consequently, the township of Sophiatown was laid out in 1903 and Blacks were encouraged to buy property there. For the same reasons Alexandra, Gauteng was planned for Black ownership in 1912. The subsequent Natives Land Act of 1913 did not change the situation because it did not apply to land situated within municipal boundaries.[11]
 
 Orlando, Moroka and Jabavu
 
-In 1923 the Parliament of the Union of South Africa passed the Natives (Urban Areas) Act (Act No. 21 of 1923). The purpose of the Act was to provide for improved conditions of residence for natives in urban areas, to control their ingress into such areas and to restrict their access to intoxicating liquor. The Act required local authorities to provide accommodation for Natives (then the polite term for Africans or Blacks) lawfully employed and resident within the area of their jurisdiction. Pursuant to this Act the Johannesburg town council formed a Municipal Native Affairs Department in 1927. It bought 1 300 morgen of land on the farm Klipspruit No. 8 and the first houses in what was to become Orlando Location were built there in the latter half of 1930. The township was named after the chairman of the Native Affairs committee, Mr. Edwin Orlando Leake.[12] In the end some 10,311 houses were built there by the municipality. In addition it built 4,045 temporary single-room shelters.[13] JM-House-2.jpg In about 1934 James Sofasonke Mpanza moved to 957 Pheele Street, Orlando, and lived there for the rest of his life.[14] A year after his arrival in Orlando he formed his own political party, the Sofasonke Party. He also became very active in the affairs of the Advisory Board for Orlando.[15] Towards the end of World War II there was an acute shortage of housing for Blacks in Johannesburg. By the end of 1943 the Sofasonke Party advised its members to put up their own squatters' shacks on municipal property.[16] On Saturday 25 March 1944 the squat began. Hundreds of homeless people from Orlando and elsewhere joined Mpanza in marching to a vacant lot in Orlando West and starting a squatters camp.[17] The City Council's resistance crumbled. After feverish consultations with the relevant government department, it was agreed that an emergency camp, which could house 991 families, be erected. It was to be called Central Western Jabavu. The next wave of land invasions took place in September 1946. Some 30,000 squatters congregated west of Orlando. Early the next year the City Council proclaimed a new emergency camp. It was called Moroka. 10,000 sites were made available immediately.[18] Moroka became Johannesburg's worst slum area. Residents erected their shanties on plots measuring six metres by six metres. There were only communal bucket-system toilets and very few taps. The camps were meant to be used for a maximum of five years, but when they were eventually demolished in 1955, Moroka and Jabavu housed 89,000 people.[19]
+In 1923 the Parliament of the Union of South Africa passed the Natives (Urban Areas) Act (Act No. 21 of 1923). The purpose of the Act was to provide for improved conditions of residence for natives in urban areas, to control their ingress into such areas and to restrict their access to intoxicating liquor. The Act required local authorities to provide accommodation for Natives (then the polite term for Africans or Blacks) lawfully employed and resident within the area of their jurisdiction. Pursuant to this Act the Johannesburg town council formed a Municipal Native Affairs Department in 1927. It bought 1 300 morgen of land on the farm Klipspruit No. 8 and the first houses in what was to become Orlando Location were built there in the latter half of 1930. The township was named after the chairman of the Native Affairs committee, Mr. Edwin Orlando Leake.[12] In the end some 10,311 houses were built there by the municipality. In addition it built 4,045 temporary single-room shelters.[13] In about 1934 James Sofasonke Mpanza moved to 957 Pheele Street, Orlando, and lived there for the rest of his life.[14] A year after his arrival in Orlando he formed his own political party, the Sofasonke Party. He also became very active in the affairs of the Advisory Board for Orlando.[15] Towards the end of World War II there was an acute shortage of housing for Blacks in Johannesburg. By the end of 1943 the Sofasonke Party advised its members to put up their own squatters' shacks on municipal property.[16] On Saturday 25 March 1944 the squat began. Hundreds of homeless people from Orlando and elsewhere joined Mpanza in marching to a vacant lot in Orlando West and starting a squatters camp.[17] The City Council's resistance crumbled. After feverish consultations with the relevant government department, it was agreed that an emergency camp, which could house 991 families, be erected. It was to be called Central Western Jabavu. The next wave of land invasions took place in September 1946. Some 30,000 squatters congregated west of Orlando. Early the next year the City Council proclaimed a new emergency camp. It was called Moroka. 10,000 sites were made available immediately.[18] Moroka became Johannesburg's worst slum area. Residents erected their shanties on plots measuring six metres by six metres. There were only communal bucket-system toilets and very few taps. The camps were meant to be used for a maximum of five years, but when they were eventually demolished in 1955, Moroka and Jabavu housed 89,000 people.[19]
 
 Chris Hani-Baragwanath Hospital
 
@@ -49,8 +49,6 @@ In 1959 the City Council launched a competition to find a collective name for al
 
 In 1971 Parliament passed the Black Affairs Administration Act, No. 45 of 1971. In terms of this Act the central government appointed the West Rand Administration Board to take over the powers and obligations of the Johannesburg City Council in respect of Soweto.[30] As chairman of the board it appointed Manie Mulder, a political appointment of a person who had no experience of the administration of native affairs.[31] Manie Mulder's most famous quote was given to the Rand Daily Mail in May 1976: "The broad masses of Soweto are perfectly content, perfectly happy. Black-White relationships at present are as healthy as can be. There is no danger whatever of a blow-up in Soweto."[32]
 
-Soweto_Housing,_Johannesburg.jpg
-
 Soweto uprising
 
 Soweto came to the world's attention on 16 June 1976 with the Soweto Uprising, when mass protests erupted over the government's policy to enforce education in Afrikaans rather than their native language. Police opened fire in Orlando West on 10,000[33] students marching from Naledi High School to Orlando Stadium. The rioting continued and 23 people died on the first day in Soweto, 21 of whom were black, including the minor Hector Pieterson, as well as two white people, including Dr Melville Edelstein, a lifelong humanitarian.
@@ -59,9 +57,9 @@ The impact of the Soweto protests reverberated through the country and across th
 
 Aftermath
 
-Diepmeadow_Council,_1982.jpg In response, the apartheid state started providing electricity to more Soweto homes, yet phased out financial support for building additional housing.[34]
+In response, the apartheid state started providing electricity to more Soweto homes, yet phased out financial support for building additional housing.[34]
 
-Soweto became an independent municipality with elected black councilors in 1983, in line with the Black Local Authorities Act.[35] Previously the townships were governed by the Johannesburg council, but from the 1970s the state took control.[36] SowetoNewRevolution.png Black African councilors were not provided by the apartheid state with the finances to address housing and infrastructural problems. Township residents opposed the black councilors as puppet collaborators who personally benefited financially from an oppressive regime. Resistance was spurred by the exclusion of blacks from the newly formed tricameral Parliament (which did include Whites, Asians and Coloreds). Municipal elections in black, coloured, and Indian areas were subsequently widely boycotted, returning extremely low voting figures for years. Popular resistance to state structures dates back to the Advisory Boards (1950) that co-opted black residents to advise whites who managed the townships.
+Soweto became an independent municipality with elected black councilors in 1983, in line with the Black Local Authorities Act.[35] Previously the townships were governed by the Johannesburg council, but from the 1970s the state took control.[36] Black African councilors were not provided by the apartheid state with the finances to address housing and infrastructural problems. Township residents opposed the black councilors as puppet collaborators who personally benefited financially from an oppressive regime. Resistance was spurred by the exclusion of blacks from the newly formed tricameral Parliament (which did include Whites, Asians and Coloreds). Municipal elections in black, coloured, and Indian areas were subsequently widely boycotted, returning extremely low voting figures for years. Popular resistance to state structures dates back to the Advisory Boards (1950) that co-opted black residents to advise whites who managed the townships.
 
 Further popular resistance: incorporation into the City
 
@@ -112,8 +110,6 @@ Key statistics (2011)
 
 Key statistics (2001)
 
-Soweto.jpg
-
 -   Area:
 -   Population: 858,644:
 -   Households: 237,567: [39]
@@ -150,8 +146,6 @@ Historic population
 
 Cityscape
 
-Soweto_Cooling_Towers.JPG
-
 Landmarks
 
 Soweto landmarks include:
@@ -174,7 +168,7 @@ Köppen-Geiger climate classification system classifies its climate as subtropic
 
 Transport
 
-Soweto-003.jpg next to Soweto]] Soweto_Highway-001.jpg The suburb was not historically allowed to create employment centres within the area, so almost all of its residents are commuters to other parts of the city.
+next to Soweto]] The suburb was not historically allowed to create employment centres within the area, so almost all of its residents are commuters to other parts of the city.
 
 Rail
 
@@ -224,15 +218,13 @@ Being part of the urban agglomerations of Gauteng, Soweto shares much of the sam
 -   _The Sowetan_ newspaper has a readership of around 1.6 million.[48]
 -   _Kasibiz Mahala_ is a free community magazine that promotes local small businesses established in 2012.
 
-Mandela_museum_soweto.jpg]]
+]]
 
 Museums, monuments and memorials
 
 -   Hector Pieterson Museum, Orlando West
 -   Nelson Mandela National Museum, Orlando West
 -   Regina Mundi church, Rockville
-
-Soweto_Marimba_Youth_League-001.jpg
 
 Music
 
@@ -256,7 +248,7 @@ Events
 
 Festivals
 
-SowetoWineFestival.JPG The Soweto Wine Festival was started in 2004. The three-night festival is hosted at the University of Johannesburg's Soweto Campus on Chris Hani Road in the first weekend of September. Organised by the Cape Wine Academy, the festival attracts over 6000 wine enthusiasts, over 100 of South Africa's finest wineries and well over 900 fine wines.
+The Soweto Wine Festival was started in 2004. The three-night festival is hosted at the University of Johannesburg's Soweto Campus on Chris Hani Road in the first weekend of September. Organised by the Cape Wine Academy, the festival attracts over 6000 wine enthusiasts, over 100 of South Africa's finest wineries and well over 900 fine wines.
 
 Stadiums
 
@@ -270,7 +262,7 @@ Stadiums
 
 AWARDS
 
-The Soweto Awards, which will become an annual event, honours those who have their roots in Soweto. Former president Nelson Mandela received the Life Time Award from the first Soweto Awards in Johannesburg on 25-02-2001. The Legends Awards went to Gibson Kente, the "godfather" of township theatre, Felicia Mabuza-Suttle, a talk show host, Aggrey Klaaste, editor of the Sowetan newspaper and Winnie Madikizela-Mandela, MP and African National Congress Women's League president.[52] Tata_Nelson_Mandela.jpg
+The Soweto Awards, which will become an annual event, honours those who have their roots in Soweto. Former president Nelson Mandela received the Life Time Award from the first Soweto Awards in Johannesburg on 25-02-2001. The Legends Awards went to Gibson Kente, the "godfather" of township theatre, Felicia Mabuza-Suttle, a talk show host, Aggrey Klaaste, editor of the Sowetan newspaper and Winnie Madikizela-Mandela, MP and African National Congress Women's League president.[52]
 
 
 Suburbs
@@ -326,7 +318,7 @@ Other Soweto townships include Phomolong and Snake Park
 
 Economy
 
-Soweto_township.jpg Kliptown_Development_Project.jpg Many parts of Soweto rank among the poorest in Johannesburg, although individual townships tend to have a mix of wealthier and poorer residents. In general, households in the outlying areas to the northwest and southeast have lower incomes, while those in southwestern areas tend to have higher incomes.
+Many parts of Soweto rank among the poorest in Johannesburg, although individual townships tend to have a mix of wealthier and poorer residents. In general, households in the outlying areas to the northwest and southeast have lower incomes, while those in southwestern areas tend to have higher incomes.
 
 The economic development of Soweto was severely curtailed by the apartheid state, which provided very limited infrastructure and prevented residents from creating their own businesses. Roads remained unpaved, and many residents had to share one tap between four houses, for example. Soweto was meant to exist only as a dormitory town for black Africans who worked in white houses, factories, and industries. The 1957 Natives (Urban Areas) Consolidation Act and its predecessors restricted residents between 1923 and 1976 to seven self-employment categories in Soweto itself. Sowetans could operate general shops, butcheries, eating houses, sell milk or vegetables, or hawk goods. The overall number of such enterprises at any time were strictly controlled. As a result, informal trading developed outside the legally-recognized activities.[59]
 
@@ -413,7 +405,7 @@ _NATIVE SOWETANS_ Soweto is the birthplace of:
 -   Jomo Sono (born 1955), star football player, later club owner and coach
 -   Siphiwe Tshabalala (born 1984), footballer playing for Kaizer Chiefs Football Club.
 
-_OTHER RESIDENTS_ Mandela_House,_Soweto.JPG
+_OTHER RESIDENTS_
 
 -   Winnie Mandela anti-apartheid activist and politician, ex-wife of Nelson Mandela
 -   Gibson Kente (1932–2004), playwright

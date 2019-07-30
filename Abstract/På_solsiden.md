@@ -1,1 +1,0 @@
-_PÅ SOLSIDEN_ (On the Sunny Side) is a Norwegian comedy-drama film from 1956 directed by Edith Carlmar.[1][2][3] It stars Arne Lie, Randi Kolstad, Henny Moan, Ellen Isefiær, and Joachim Holst-Jensen. The film is based on Helge Krog's 1927 play of the same name.[4][5]

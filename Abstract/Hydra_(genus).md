@@ -1,1 +1,0 @@
-_HYDRA_ is a genus of small, fresh-water organisms of the phylum Cnidaria and class Hydrozoa. They are native to the temperate and tropical regions.[1][2] Biologists are especially interested in _Hydra_ because of their regenerative ability — they do not appear to die of old age, or indeed to age at all.

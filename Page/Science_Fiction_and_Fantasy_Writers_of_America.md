@@ -14,8 +14,6 @@ SFWA activities include informing science fiction and fantasy writers on profess
 
 History
 
-SFWA_Bulletin_no._200_cover_image.jpg
-
 Science Fiction Writers of America, Inc. was founded in 1965 by Damon Knight in association with a group of writers connected to the Milford Conference, which he also headed. According to Todd McCaffrey, the organization immediately "acquired great status in its efforts to help J.R.R. Tolkien get fair recompense in America for pirated sales of _The Lord of the Rings_."[5] In 1991, the name of the organization was changed to SCIENCE FICTION AND FANTASY WRITERS OF AMERICA, to reflect the fact that the organization had always included writers working in multiple genres.[6] After the name change, both SFWA and SFFWA were used as acronyms. The acronym SFWA was re-established officially in 1996.[7]
 
 In 1982, Lisa Tuttle withdrew her short story "The Bone Flute" from the final Nebula ballot, to protest what she saw as excessive campaigning for awards and that voters did not receive copies of nominated works. Her withdrawal was sent after voting had been completed. When informed she had won, she contacted SFWA and told them she refused to accept it. She was told that her reasons for doing so would be announced. Her publisher accepted the award in her place, apparently with no knowledge of her withdrawal, and there was no mention of her objection.[8]
@@ -79,8 +77,6 @@ Awards
 Publications
 
 _The SFWA Bulletin_
-
-SFWA_Bulletin_Vol._47_Issue_4_cover.jpg
 
 _The SFWA Bulletin_ is a quarterly magazine that SFWA members receive as part of their membership, but it is also available (by subscription) to non-members. The Bulletin carries nonfiction articles of general interest to writers, especially science fiction and fantasy writers. It accepts submissions, for which the pay rate is 8 cents a word.[33] The current Bulletin editor is Neil Clarke.[34]
 

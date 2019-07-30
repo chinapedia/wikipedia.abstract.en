@@ -1,1 +1,0 @@
-PANGA is the common South African name for _PTEROGYMNUS LANIARIUS_, a small, ocean-dwelling fish, native to the southeast Atlantic Ocean and southwest Indian Ocean. Alternatively called "torpedo scads", they are cold-blooded with white flesh. Their scales are generally pink in color with whitish underbelly and blue-green stripes running laterally along their sides.

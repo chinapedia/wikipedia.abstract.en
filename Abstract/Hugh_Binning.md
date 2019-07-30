@@ -1,1 +1,0 @@
-Covenanters01hewi_orig_0413.png of 5? December 1643]] HUGH BINNING (1627–1653) was a Scottish philosopher and theologian. Binning was born in Scotland during the reign of Charles I, ordained in the (Presbyterian) Church of Scotland and died during the time of Oliver Cromwell and the Commonwealth of England.

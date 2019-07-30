@@ -1,1 +1,0 @@
-The CONVENTO DI COLFANO of CONVENTO DI SAN FRANCESCO DI COLFANO is a Franciscan order, Roman Catholic convent and church located in a rural site just off National road 502 (kilometer 66) outside of the town of Camporotondo di Fiastrone, province of Macerata, region of Marche, Italy.

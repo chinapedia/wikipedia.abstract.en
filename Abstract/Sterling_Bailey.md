@@ -1,1 +1,0 @@
-STERLING EUGENE BAILEY (born September 13, 1992) is an American football defensive end for the Arizona Cardinals of the National Football League (NFL). He played college football at Georgia. Bailey was signed by the Indianapolis Colts as an undrafted free agent in 2016. He has also been a member of the Seattle Seahawks, Minnesota Vikings, and Tampa Bay Buccaneers.

@@ -1,1 +1,0 @@
-_A TOTAL LETDOWN_ is the second studio album by Babyland, released on March 4, 1994 by Flipside Records. _Alternative Press_ lauded the album, saying "the band literally hit the nail on the head of all the confusion, resentment, anger, and frustration felt by an entire generation."[1]

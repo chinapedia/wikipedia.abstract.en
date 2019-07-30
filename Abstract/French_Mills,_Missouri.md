@@ -1,1 +1,0 @@
-FRENCH MILLS is an unincorporated community in western Madison County, in the U.S. state of Missouri.[1] The community is on Marble Creek, just west of that stream's confluence with the St. Francis River.[2]

@@ -1,1 +1,0 @@
-POPE ADRIAN III or HADRIAN III (; died July 885) was Pope from 17 May 884 to his death.[1] According to Jean Mabillon, his birth name was Agapitus.[2] He served for little more than a year, during which he worked to help the people of Italy in a very troubled time of famine and war.

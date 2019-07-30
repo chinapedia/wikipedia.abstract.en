@@ -1,1 +1,0 @@
-WOLMYEONGDONG (a.k.a. Wol Myeong Dong, ) is a worship and recreation center in Chungnam Province, South Korea. It is also known as the Recreation Center of the Christian Gospel Mission (CGM). Wolmyeongdong consists of various facilities and buildings on a tract of land of about 991,735 square meters in size.

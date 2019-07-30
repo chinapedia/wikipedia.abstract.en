@@ -1,1 +1,0 @@
-MCCOOL STADIUM, officially known as TRAVIS E. PARKER FIELD AT HORACE L. MCCOOL STADIUM, is the home playing venue for the Delta State Statesmen football team. Located in Cleveland, Mississippi, the stadium has a capacity of 8,125. Originally constructed in 1970 and is one of the Gulf South Conference’s oldest and most historic venues.

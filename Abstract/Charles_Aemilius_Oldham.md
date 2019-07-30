@@ -1,1 +1,0 @@
-Charles_Oldham.jpg CHARLES AEMILIUS OLDHAM (or CHARLES ÆMILIUS OLDHAM) (1831–30 March 1869) was an Irish geologist who worked in India. He was the brother of Thomas Oldham who also worked with the Geological Survey of India.

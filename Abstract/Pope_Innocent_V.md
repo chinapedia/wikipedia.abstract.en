@@ -1,1 +1,0 @@
-POPE INNOCENT V (; c. 1225 – 22 June 1276), born PIERRE DE TARENTAISE, was pope from 21 January to 22 June 1276. He was a member of the Order of Preachers and was a close collaborator of Pope Gregory X during his pontificate. He was beatified in 1898 by Pope Leo XIII.

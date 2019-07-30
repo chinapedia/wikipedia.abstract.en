@@ -1,1 +1,0 @@
-HUMMER was a brand of trucks and SUVs, first marketed in 1992 when AM General began selling a civilian version of the M998 Humvee.[1] In 1998, General Motors (GM) purchased the brand name from AM General and marketed three vehicles: the original HUMMER H1, based on the military Humvee, as well as the new H2 and H3 models that were based on smaller, civilian-market GM platforms.

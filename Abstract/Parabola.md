@@ -1,1 +1,0 @@
-In mathematics, a PARABOLA is a plane curve that is mirror-symmetrical and is approximately U-shaped. It fits several superficially different other mathematical descriptions, which can all be proved to define exactly the same curves. Parts_of_Parabola.svg

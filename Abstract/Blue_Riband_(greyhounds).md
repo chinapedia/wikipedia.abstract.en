@@ -1,1 +1,0 @@
-The BLUE RIBAND was a greyhound racing competition held annually at Wembley Stadium and Hall Green Stadium. It was inaugurated in 1981 as a replacement competition for the Wembley Spring Cup which finished in 1980.[1] [2]

@@ -1,1 +1,0 @@
-LIMBATUSTOXIN (LbTX; α-KTx 1.4), is an ion channel toxin from the venom of the _Centruroides limbatus_ scorpion. This toxin is a selective blocker of BK channels, calcium-activated potassium channels.

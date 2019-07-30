@@ -1,1 +1,0 @@
-MATT MCGINN (born December 1978) is a Northern Irish singer/songwriter, producer, multi-instrumentalist, and arranger.[1][2] He has released three albums, as well as a number of E.P.s and collaborations with other artists. Folk Radio UK have described some of his recordings as "drawn[ing] comparisons to Glen Hansard but, there's definite hints of Paul Simon in there too".[3]

@@ -1,1 +1,0 @@
-MICHELLE KONKOLY is a Paralympic swimmer from Pennsylvania who trains in Naples, Florida.[1] She has nerve damage due to a fall out of a dorm window when she attended Georgetown University.[2] She earned several medals at the 2016 Summer Paralympics[3] and set a world record.[4]

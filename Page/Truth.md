@@ -1,4 +1,4 @@
-Time_Saving_Truth_from_Falsehood_and_Envy.jpg Saving Truth from Falsehood and Envy_, François Lemoyne, 1737]] Truth-Warner-Highsmith.jpeg_ (1896). Olin Levi Warner, Library of Congress Thomas Jefferson Building, Washington, D.C.]] TRUTH is most often used to mean being in accord with fact or reality, or fidelity to an original or standard.[1] Truth is also sometimes defined in modern contexts as an idea of "truth to self", or authenticity.
+Saving Truth from Falsehood and Envy_, François Lemoyne, 1737]] _ (1896). Olin Levi Warner, Library of Congress Thomas Jefferson Building, Washington, D.C.]] TRUTH is most often used to mean being in accord with fact or reality, or fidelity to an original or standard.[1] Truth is also sometimes defined in modern contexts as an idea of "truth to self", or authenticity.
 
 Truth is usually held to be opposite to falsehood, which, correspondingly, can also suggest a logical, factual, or ethical meaning. The concept of truth is discussed and debated in several contexts, including philosophy, art, theology, and science. Most human activities depend upon the concept, where its nature as a concept is assumed rather than being a subject of discussion; these include most of the sciences, law, journalism, and everyday life. Some philosophers view the concept of truth as basic, and unable to be explained in any terms that are more easily understood than the concept of truth itself. To some, truth is viewed as the correspondence of language or thought to an independent reality, in what is sometimes called the correspondence theory of truth.
 
@@ -7,7 +7,7 @@ Various theories and views of truth continue to be debated among scholars, philo
 
 Definition and etymology
 
-An_angel_carrying_the_banner_of_"Truth",_Roslin,_Midlothian.JPG]] The English word _truth_ is derived from Old English _tríewþ, tréowþ, trýwþ_, Middle English _trewþe_, cognate to Old High German _triuwida_, Old Norse _tryggð_. Like _troth_, it is a _-th_ nominalisation of the adjective _true_ (Old English _tréowe_).
+]] The English word _truth_ is derived from Old English _tríewþ, tréowþ, trýwþ_, Middle English _trewþe_, cognate to Old High German _triuwida_, Old Norse _tryggð_. Like _troth_, it is a _-th_ nominalisation of the adjective _true_ (Old English _tréowe_).
 
 The English word _true_ is from Old English (West Saxon) _(ge)tríewe, tréowe_, cognate to Old Saxon _(gi)trûui_, Old High German _(ga)triuwu_ (Modern German _treu_ "faithful"), Old Norse _tryggr_, Gothic _triggws_,[3] all from a Proto-Germanic _*trewwj-_ "having good faith", perhaps ultimately from PIE *dru- "tree", on the notion of "steadfast as an oak" (e.g., Sanskrit "taru" tree).[4] Old Norse __, "faith, word of honour; religious faith, belief"[5] (archaic English _troth_ "loyalty, honesty, good faith", compare __).
 
@@ -34,7 +34,7 @@ Proponents of several of the theories below have gone further to assert that the
 
 Coherence
 
-Statue_of_Truth.jpg's _Veritas_ (Truth) outside Supreme Court of Canada, Ottawa, Ontario Canada]]
+'s _Veritas_ (Truth) outside Supreme Court of Canada, Ottawa, Ontario Canada]]
 
 For coherence theories in general, truth requires a proper fit of elements within a whole system. Very often, though, coherence is taken to imply something more than simple logical consistency; often there is a demand that the propositions in a coherent system lend mutual inferential support to each other. So, for example, the completeness and comprehensiveness of the underlying set of concepts is a critical factor in judging the validity and usefulness of a coherent system.[23] A pervasive tenet of coherence theories is the idea that truth is primarily a property of whole systems of propositions, and can be ascribed to individual propositions only according to their coherence with the whole. Among the assortment of perspectives commonly regarded as coherence theory, theorists differ on the question of whether coherence entails many possible true systems of thought or only a single absolute system.
 
@@ -184,7 +184,7 @@ Like many folk theories, our folk theory of truth is useful in everyday life but
 
 Notable views
 
-Truth.jpg]]
+]]
 
 Ancient history
 
@@ -226,7 +226,7 @@ Modern age
 
 Kant (1724–1804)
 
-Immanuel_Kant_(painted_portrait).jpg]]
+]]
 
 Immanuel Kant endorses a definition of truth along the lines of the correspondence theory of truth.[89] Kant writes in the _Critique of Pure Reason_: "The nominal definition of truth, namely that it is the agreement of cognition with its object, is here granted and presupposed".[90] However, Kant denies that this correspondence definition of truth provides us with a test or criterion to establish which judgements are true. Kant states in his logic lectures:
 
@@ -290,7 +290,7 @@ Erich Fromm finds that trying to discuss truth as "absolute truth" is sterile an
 
 Foucault (1926–1984)
 
-What-is-truth02.jpg'' Christ and Pilate, by Nikolai Ge.]]
+'' Christ and Pilate, by Nikolai Ge.]]
 
 Truth, says Michel Foucault, is problematic when any attempt is made to see truth as an "objective" quality. He prefers not to use the term truth itself but "Regimes of Truth". In his historical investigations he found truth to be something that was itself a part of, or embedded within, a given power structure. Thus Foucault's view shares much in common with the concepts of Nietzsche. Truth for Foucault is also something that shifts through various episteme throughout history.[106]
 

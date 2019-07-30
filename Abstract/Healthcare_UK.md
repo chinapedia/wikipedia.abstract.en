@@ -1,1 +1,0 @@
-HEALTHCARE UK is an agency of the British government which promotes the UK healthcare sector to overseas markets and supports healthcare partnerships between the UK and overseas healthcare providers. It is a joint initiative between the Department of Health, UK Trade & Investment and NHS England, with offices in London.[1]

@@ -1,1 +1,0 @@
-The LIST OF NEW DEAL MURALS is a list of murals created in the United States as part of a federally sponsored New Deal project. This list excludes murals placed in post offices, which are listed in List of United States post office murals.

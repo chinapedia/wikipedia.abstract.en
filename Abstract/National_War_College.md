@@ -1,1 +1,0 @@
-The NATIONAL WAR COLLEGE (NWC) of the United States is a school in the National Defense University. It is housed in Roosevelt Hall on Fort Lesley J. McNair, Washington, D.C., the third-oldest Army post still active.

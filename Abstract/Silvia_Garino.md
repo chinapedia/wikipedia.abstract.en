@@ -1,1 +1,0 @@
-SILVIA GARINO (born 24 June 1998) is an Italian badminton player.[1][2] She won her first senior international title at the 2016 Ethiopia International tournament in the women's doubles event partnered with Lisa Iversen.[3][4] She and Iversen claimed the women's doubles National Championships title in 2017.[5]

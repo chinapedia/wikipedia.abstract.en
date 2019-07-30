@@ -1,1 +1,0 @@
-_MOTORSPORT MANAGER_ is a racing management-simulation strategy video game developed by British video game developer, Playsport Games. The game was released on iOS in August 2014 and Android in 2015. A desktop version of the game was published by Sega on macOS, Microsoft Windows and Linux operating systems in November 2016.

@@ -1,1 +1,0 @@
-_PACHNEPHORUS MOSEYKOI_ is a species of leaf beetle found in Senegal,[1] Gambia, Guinea Bissau, Sierra Leone, Mali,[2] Ghana, the Republic of the Congo, Sudan and Ethiopia, described by Stefano Zoia in 2007.[3] It is named after Alexey G. Moseyko, a specialist in Eumolpinae (a subfamily of Chrysomelidae).[4]

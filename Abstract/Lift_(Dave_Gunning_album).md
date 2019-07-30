@@ -1,1 +1,0 @@
-_LIFT_ is the 11th studio album by Canadian singer-songwriter Dave Gunning. It was released in 2015 by Wee House of Music.[1] On _LIFT_, Gunning collaborated with musicians from Nova Scotia, New Brunswick, Prince Edward Island, and North Carolina.[2] It is the first album of Gunning's albums to be self-produced.[3]

@@ -1,1 +1,0 @@
-The 1991 NSL SECOND DIVISION (known as the OK LEAGUE for sponsorship reasons) was the seventh edition of the second tier competition organised by the National Soccer League. It was divided into two divisions known as streams.

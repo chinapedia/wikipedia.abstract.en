@@ -1,1 +1,0 @@
-The SANDFORD AWARD, previously the SANDFORD AWARD FOR HERITAGE EDUCATION, is a British and Irish award for education programmes at heritage sites. Its website describes it as "an independently judged, quality assured assessment of education programmes at heritage sites, museums, archives and collections across the British Isles".[1]

@@ -1,5 +1,3 @@
-Sg-map.png Senegal_map_of_Köppen_climate_classification.svg LocationSenegal.svg SenegalOMC.png Senegal_Topography.png
-
 SENEGAL is a coastal West African nation located 14 degrees north of the equator and 14 degrees west of the Prime Meridian. The country's total area is 196,190 km² of which 192,000 km² is land and 4,190 km² is water.
 
 

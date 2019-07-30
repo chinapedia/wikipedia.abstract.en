@@ -1,1 +1,0 @@
-The ALEPPO OFFENSIVE (AUGUST–SEPTEMBER 2016) was a Syrian Army counter-offensive launched on the southern outskirts of Aleppo in mid-September 2016. The aim of the offensive was to recapture territory lost due to a rebel offensive earlier in August and besiege the rebel-held part of Aleppo once again.

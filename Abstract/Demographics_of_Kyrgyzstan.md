@@ -1,1 +1,0 @@
-YurtIssykFamily.jpg and family]]

@@ -1,1 +1,0 @@
-VIOLET SYNGE served as the Girl Guide Chief Commissioner for England. She was a recipient of the Silver Fish Award, the highest adult award in Girlguiding, awarded for outstanding service to Girlguiding combined with service to world Guiding.[1]

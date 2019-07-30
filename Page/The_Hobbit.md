@@ -49,8 +49,6 @@ One of the greatest influences on Tolkien was the 19th-century Arts and Crafts p
 
 Tolkien's portrayal of goblins in _The Hobbit_ was particularly influenced by George MacDonald's _The Princess and the Goblin_.[22] However, MacDonald influenced Tolkien more profoundly than just to shape individual characters and episodes; his works further helped Tolkien form his whole thinking on the role of fantasy within his Christian faith.[23]
 
-Jules_verne_cryptogramme.png
-
 Tolkien scholar Mark T. Hooker has catalogued a lengthy series of parallels between _The Hobbit_ and Jules Verne's _Journey to the Center of the Earth_. These include, among other things, a hidden runic message and a celestial alignment that direct the adventurers to the goals of their quests.[24]
 
 Tolkien's works show much influence from Norse mythology, reflecting his lifelong passion for those stories and his academic interest in Germanic philology.[25] _The Hobbit_ is no exception to this; the work shows influences from northern European literature, myths and languages,[26] especially from the _Poetic Edda_ and the _Prose Edda_. Examples include the names of characters,[27] such as Fili, Kili, Oin, Gloin, Bifur, Bofur, Bombur, Dori, Nori, Dwalin, Balin, Dain, Nain, Thorin Oakenshield and Gandalf (deriving from the Old Norse names _Fíli_, _Kíli_, _Oin_, _Glói_, _Bivör_, _Bávörr_, _Bömburr_, _Dori_, _Nóri_, _Dvalinn_, _Bláin_, _Dain_, _Nain_, _Þorin Eikinskialdi_ and _Gandálfr_).[28] But while their names are from Old Norse, the characters of the dwarves are more directly taken from fairy tales such as _Snow White_ and _Snow-White and Rose-Red_ as collected by the Brothers Grimm. The latter tale may also have influenced the character of Beorn.[29]
@@ -66,8 +64,6 @@ The name of the wizard Radagast is widely recognized to be taken from the name o
 The representation of the dwarves in _The Hobbit_ was influenced by his own selective reading of medieval texts regarding the Jewish people and their history.[43] The dwarves' characteristics of being dispossessed of their ancient homeland at the Lonely Mountain, and living among other groups whilst retaining their own culture are all derived from the medieval image of Jews,[44][45] whilst their warlike nature stems from accounts in the Hebrew Bible.[46] The Dwarvish calendar invented for _The Hobbit_ reflects the Jewish calendar in beginning in late autumn.[47] And although Tolkien denied allegory, the dwarves taking Bilbo out of his complacent existence has been seen as an eloquent metaphor for the "impoverishment of Western society without Jews."[48]
 
 Publication
-
-Hobbit_cover.JPG
 
 George Allen & Unwin Ltd. of London published the first edition of _The Hobbit_ on 21 September 1937 with a print run of 1,500 copies, which sold out by December because of enthusiastic reviews.[49] This first printing was illustrated in black and white by Tolkien, who designed the dust jacket as well. Houghton Mifflin of Boston and New York reset type for an American edition, to be released early in 1938, in which four of the illustrations would be colour plates. Allen & Unwin decided to incorporate the colour illustrations into their second printing, released at the end of 1937.[50] Despite the book's popularity, paper rationing due to World War II and not ending until 1949 meant that the Allen & Unwin edition of the book was often unavailable during this period.[51]
 
@@ -95,7 +91,7 @@ Illustration and design
 
 Tolkien's correspondence and publisher's records show that he was involved in the design and illustration of the entire book. All elements were the subject of considerable correspondence and fussing over by Tolkien. Rayner Unwin, in his publishing memoir, comments: "In 1937 alone Tolkien wrote 26 letters to George Allen & Unwin... detailed, fluent, often pungent, but infinitely polite and exasperatingly precise... I doubt any author today, however famous, would get such scrupulous attention."[66]
 
-Hobbit_runes.png runes and the English letter values assigned to them by Tolkien,[67] used in several of his original illustrations and designs for _The Hobbit_.]]
+runes and the English letter values assigned to them by Tolkien,[67] used in several of his original illustrations and designs for _The Hobbit_.]]
 
 Even the maps, of which Tolkien originally proposed five, were considered and debated. He wished _Thror's Map_ to be tipped in (that is, glued in after the book has been bound) at first mention in the text, and with the _moon letter_ Cirth on the reverse so they could be seen when held up to the light.[68] In the end the cost, as well as the shading of the maps, which would be difficult to reproduce, resulted in the final design of two maps as endpapers, _Thror's map_, and the _Map of Wilderland_ (see Rhovanion), both printed in black and red on the paper's cream background.[69]
 
@@ -178,7 +174,7 @@ Another approach to critique taken in the classroom has been to propose the insi
 
 Adaptations
 
-Gollum1989graphicnovel.jpg as depicted in the 1989 comic-book adaptation by David Wenzel]] The first authorized adaptation of _The Hobbit_ appeared in March 1953, a stage production by St. Margaret's School, Edinburgh.[138] _The Hobbit_ has since been adapted for other media many times.
+as depicted in the 1989 comic-book adaptation by David Wenzel]] The first authorized adaptation of _The Hobbit_ appeared in March 1953, a stage production by St. Margaret's School, Edinburgh.[138] _The Hobbit_ has since been adapted for other media many times.
 
 The first motion picture adaptation of _The Hobbit_, a 12-minute film of cartoon stills, was commissioned from Gene Deitch by William L. Snyder in 1966, as related by Deitch himself.[139][140] This film was publicly screened in New York City.[141][142] In 1969 (over 30 years after first publication), Tolkien sold the film and merchandising rights to _The Hobbit_ to United Artists under an agreement stipulating a lump sum payment of £10,000[143][144] plus a 7.5% royalty after costs, payable to Allen & Unwin and the author.[145] In 1976 (three years after the author's death) United Artists sold the rights to Saul Zaentz Company, who trade as Tolkien Enterprises. Since then all "authorized" adaptations have been signed-off by Tolkien Enterprises. In 1997 Tolkien Enterprises licensed the film rights to Miramax, which assigned them in 1998 to New Line Cinema.[146] The heirs of Tolkien, including his son Christopher Tolkien, filed suit against New Line Cinema in February 2008 seeking payment of profits and to be "entitled to cancel... all future rights of New Line... to produce, distribute, and/or exploit future films based upon the Trilogy and/or the Films... and/or... films based on _The Hobbit_."[147][148] In September 2009, he and New Line reached an undisclosed settlement, and he has withdrawn his legal objection to _The Hobbit_ films.[149]
 

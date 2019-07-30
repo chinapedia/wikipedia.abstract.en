@@ -1,1 +1,0 @@
-HILITE BUSINESS PARK is the first business park in Kerala[1] offering office & commercial spaces for rent for startups and corporate companies. HiLITE Business Park is constructed by HiLITE Builders near HiLITE Mall as part of the HiLITE City project. Catering to IT and non-IT corporate firms[2][3] with more than 100+ office spaces ranging from 1,125 sq. ft. to 30,000 sq. ft.

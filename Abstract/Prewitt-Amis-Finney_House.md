@@ -1,1 +1,0 @@
-The PREWITT-AMIS-FINNEY HOUSE, also known as TURNHILL FARM, is a historic three-story house in Culleoka, Tennessee, U.S.. Built for the slaveholding Prewett family in 1810, it was established as a mule farm. It is located a few miles away from Columbia, and it overlooks Fountain Creek.

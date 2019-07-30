@@ -1,1 +1,0 @@
-The FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION BUILDING is a historic building located in Downtown Davenport, Iowa, United States. It was listed on the Davenport Register of Historic Properties and on the National Register of Historic Places in 2016.[1][2]

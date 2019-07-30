@@ -1,1 +1,0 @@
-'''Abiathar ''' ( _’Eḇyāṯār_, "the father is great"), in the Hebrew Bible, is a son of Ahimelech or Ahijah, High Priest at Nob, the fourth in descent from Eli () and the last of Eli's House to be a High Priest.

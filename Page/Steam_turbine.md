@@ -1,4 +1,4 @@
-Dampfturbine_Laeufer01.jpg]]
+]]
 
 A STEAM TURBINE is a device that extracts thermal energy from pressurized steam and uses it to do mechanical work on a rotating output shaft. Its modern manifestation was invented by Sir Charles Parsons in 1884.[1]
 
@@ -7,7 +7,7 @@ The steam turbine is a form of heat engine that derives much of its improvement 
 
 History
 
-TMW_773_-_Steam_turbine_generator_set.jpg (left).]]
+(left).]]
 
 The first device that may be classified as a reaction steam turbine was little more than a toy, the classic Aeolipile, described in the 1st century by Hero of Alexandria in Roman Egypt. In 1551, Taqi al-Din in Ottoman Egypt described a steam turbine with the practical application of rotating a spit. Steam turbines were also described by the Italian Giovanni Branca (1629) and John Wilkins in England (1648).[3] The devices described by Taqi al-Din and Wilkins are today known as steam jacks. In 1672 an impulse steam turbine driven car was designed by Ferdinand Verbiest. A more modern version of this car was produced some time in the late 18th century by an unknown German mechanic. In 1775 at Soho James Watt designed a reaction turbine that was put to work there.[4] In 1827 the Frenchmen Real and Pichon patented and constructed a compound impulse turbine.
 
@@ -29,13 +29,9 @@ Steam turbines are made in a variety of sizes ranging from small <0.75 kW (<1 
 
 Blade and stage design
 
-Turbines_impulse_v_reaction.svg
-
 Turbine blades are of two basic types, blades and nozzles. Blades move entirely due to the impact of steam on them and their profiles do not converge. This results in a steam velocity drop and essentially no pressure drop as steam moves through the blades. A turbine composed of blades alternating with fixed nozzles is called an impulse turbine, , Rateau turbine, or Brown-Curtis turbine. Nozzles appear similar to blades, but their profiles converge near the exit. This results in a steam pressure drop and velocity increase as steam moves through the nozzles. Nozzles move due to both the impact of steam on them and the reaction due to the high-velocity steam at the exit. A turbine composed of moving nozzles alternating with fixed nozzles is called a reaction turbine or Parsons turbine.
 
 Except for low-power applications, turbine blades are arranged in multiple stages in series, called compounding, which greatly improves efficiency at low speeds. A reaction stage is a row of fixed nozzles followed by a row of moving nozzles. Multiple reaction stages divide the pressure drop between the steam inlet and exhaust into numerous small drops, resulting in a PRESSURE-COMPOUNDED turbine. Impulse stages may be either pressure-compounded, velocity-compounded, or pressure-velocity compounded. A pressure-compounded impulse stage is a row of fixed nozzles followed by a row of moving blades, with multiple stages for compounding. This is also known as a Rateau turbine, after its inventor. A VELOCITY-COMPOUNDED impulse stage (invented by Curtis and also called a "Curtis wheel") is a row of fixed nozzles followed by two or more rows of moving blades alternating with rows of fixed blades. This divides the velocity drop across the stage into several smaller drops. A series of velocity-compounded impulse stages is called a PRESSURE-VELOCITY COMPOUNDED turbine.
-
-AEG_marine_steam_turbine_(Rankin_Kennedy,_Modern_Engines,_Vol_VI).jpg
 
 By 1905, when steam turbines were coming into use on fast ships (such as ) and in land-based power applications, it had been determined that it was desirable to use one or more Curtis wheels at the beginning of a multi-stage turbine (where the steam pressure is highest), followed by reaction stages. This was more efficient with high-pressure steam due to reduced leakage between the turbine rotor and the casing. This is illustrated in the drawing of the German 1905 AEG marine steam turbine. The steam from the boilers enters from the right at high pressure through a throttle, controlled manually by an operator (in this case a sailor known as the throttleman). It passes through five Curtis wheels and numerous reaction stages (the small blades at the edges of the two large rotors in the middle) before exiting at low pressure, almost certainly to a condenser. The condenser provides a vacuum that maximizes the energy extracted from the steam, and condenses the steam into feedwater to be returned to the boilers. On the left are several additional reaction stages (on two large rotors) that rotate the turbine in reverse for astern operation, with steam admitted by a separate throttle. Since ships are rarely operated in reverse, efficiency is not a priority in astern turbines, so only a few stages are used to save cost.
 
@@ -50,8 +46,6 @@ The nickel-based blades are alloyed with aluminum and titanium to improve streng
 Refractory elements such as rhenium and ruthenium can be added to the alloy to improve creep strength. The addition of these elements reduces the diffusion of the gamma prime phase, thus preserving the fatigue resistance, strength, and creep resistance.
 
 Steam supply and exhaust conditions
-
-BalNPP_m_st2.jpg
 
 These types include condensing, non-condensing, reheat, extraction and induction.
 
@@ -69,11 +63,7 @@ Casing or shaft arrangements
 
 These arrangements include single casing, tandem compound and cross compound turbines. Single casing units are the most basic style where a single casing and shaft are coupled to a generator. Tandem compound are used where two or more casings are directly coupled together to drive a single generator. A cross compound turbine arrangement features two or more shafts not in line driving two or more generators that often operate at different speeds. A cross compound turbine is typically used for many large applications. A typical 1930s-1960s naval installation is illustrated below; this shows high- and low-pressure turbines driving a common reduction gear, with a geared cruising turbine on one high-pressure turbine.
 
-Starboard_turbine_sets_of_Furutaka_and_Aoba_class_cruisers.svg
-
 Two-flow rotors
-
-Turbine_Philippsburg-1.jpg
 
 The moving steam imparts both a tangential and axial thrust on the turbine shaft, but the axial thrust in a simple turbine is unopposed. To maintain the correct rotor position and balancing, this force must be counteracted by an opposing force. Thrust bearings can be used for the shaft bearings, the rotor can use dummy pistons, it can be DOUBLE FLOW- the steam enters in the middle of the shaft and exits at both ends, or a combination of any of these. In a DOUBLE FLOW rotor, the blades in each half face opposite ways, so that the axial forces negate each other but the tangential forces act together. This design of rotor is also called TWO-FLOW, DOUBLE-AXIAL-FLOW, or DOUBLE-EXHAUST. This arrangement is common in low-pressure casings of a compound turbine.[10]
 
@@ -86,15 +76,11 @@ Practical thermal efficiency of a steam turbine varies with turbine size, load c
 
 Impulse turbines
 
-TurbineBlades.jpg
-
 An impulse turbine has fixed nozzles that orient the steam flow into high speed jets. These jets contain significant kinetic energy, which is converted into shaft rotation by the bucket-like shaped rotor blades, as the steam jet changes direction. A pressure drop occurs across only the stationary blades, with a net increase in steam velocity across the stage. As the steam flows through the nozzle its pressure falls from inlet pressure to the exit pressure (atmospheric pressure, or more usually, the condenser vacuum). Due to this high ratio of expansion of steam, the steam leaves the nozzle with a very high velocity. The steam leaving the moving blades has a large portion of the maximum velocity of the steam when leaving the nozzle. The loss of energy due to this higher exit velocity is commonly called the carry over velocity or leaving loss.
 
 The law of moment of momentum states that the sum of the moments of external forces acting on a fluid which is temporarily occupying the control volume is equal to the net time change of angular momentum flux through the control volume.
 
 The swirling fluid enters the control volume at radius r₁ with tangential velocity V_(w1) and leaves at radius r₂ with tangential velocity V_(w2).
-
-Edited_blade_design_1.png
 
 A velocity triangle paves the way for a better understanding of the relationship between the various velocities. In the adjacent figure we have:
 
@@ -130,7 +116,7 @@ Blade efficiency (η_(b)) can be defined as the ratio of the work done on the bl
 
 ${\eta_b} = \frac{Work~Done}{Kinetic~Energy~Supplied} = \frac{U{\Delta }V_w}{V_1^2}$
 
-STAGE EFFICIENCY Edited_cdn.png Edited_efficiency_impulse.png A stage of an impulse turbine consists of a nozzle set and a moving wheel. The stage efficiency defines a relationship between enthalpy drop in the nozzle and work done in the stage.
+STAGE EFFICIENCY A stage of an impulse turbine consists of a nozzle set and a moving wheel. The stage efficiency defines a relationship between enthalpy drop in the nozzle and work done in the stage.
 
 ${\eta_{stage}} = \frac{Work~done~on~blade}{Energy~supplied~per~stage} = \frac{U\Delta V_w}{\Delta h}$
 
@@ -186,8 +172,6 @@ ${\Delta h_m} = \frac{V_{r2}^2 - V_{r1}^2}{2}$ (it contributes to a change in st
 
 The enthalpy drop in the fixed blades, with the assumption that the velocity of steam entering the fixed blades is equal to the velocity of steam leaving the previously moving blades is given by:
 
-Edited_blade_design.png
-
 Δh_(f) = $\frac{V_1^2 - V_0^2}{2}$ where V₀ is the inlet velocity of steam in the nozzle
 
 V₀ is very small and hence can be neglected
@@ -222,8 +206,6 @@ ${\eta_b} = \frac{2U(2V_1\cos\alpha_1-U)}{V_1^2-U^2+2V_1U\cos\alpha_1}$
 
 CONDITION OF MAXIMUM BLADE EFFICIENCY
 
-Edited_comparing_efficiencies.png
-
 If ${\rho} = \frac{U}{V_1}$, then
 
 ${(\eta_b)_{max}} = \frac{2\rho(\cos\alpha_1-\rho)}{V_1^2-U^2+2UV_1\cos\alpha_1}$
@@ -242,8 +224,6 @@ ${(\eta_b)_{reaction}} = \frac{2\cos^2\alpha_1}{1+\cos^2\alpha_1}$
 
 Operation and maintenance
 
-Modern_Steam_Turbine_Generator.jpg
-
 Because of the high pressures used in the steam circuits and the materials used, steam turbines and their casings have high thermal inertia. When warming up a steam turbine for use, the main steam stop valves (after the boiler) have a bypass line to allow superheated steam to slowly bypass the valve and proceed to heat up the lines in the system along with the steam turbine. Also, a turning gear is engaged when there is no steam to slowly rotate the turbine to ensure even heating to prevent uneven expansion. After first rotating the turbine by the turning gear, allowing time for the rotor to assume a straight plane (no bowing), then the turning gear is disengaged and steam is admitted to the turbine, first to the astern blades then to the ahead blades slowly rotating the turbine at 10–15 RPM (0.17–0.25 Hz) to slowly warm the turbine. The warm-up procedure for large steam turbines may exceed ten hours.[11]
 
 During normal operation, rotor imbalance can lead to vibration, which, because of the high rotation velocities, could lead to a blade breaking away from the rotor and through the casing. To reduce this risk, considerable efforts are spent to balance the turbine. Also, turbines are run with high-quality steam: either superheated (dry) steam, or saturated steam with a high dryness fraction. This prevents the rapid impingement and erosion of the blades which occurs when condensed water is blasted onto the blades (moisture carry over). Also, liquid water entering the blades may damage the thrust bearings for the turbine shaft. To prevent this, along with controls and baffles in the boilers to ensure high-quality steam, condensate drains are installed in the steam piping leading to the turbine.
@@ -252,15 +232,13 @@ Maintenance requirements of modern steam turbines are simple and incur low costs
 
 Speed regulation
 
-Turbine_generator_systems1.png
-
 The control of a turbine with a governor is essential, as turbines need to be run up slowly to prevent damage and some applications (such as the generation of alternating current electricity) require precise speed control. Uncontrolled acceleration of the turbine rotor can lead to an overspeed trip, which causes the governor and throttle valves that control the flow of steam to the turbine to close. If these valves fail then the turbine may continue accelerating until it breaks apart, often catastrophically. Turbines are expensive to make, requiring precision manufacture and special quality materials.
 
 During normal operation in synchronization with the electricity network, power plants are governed with a five percent droop speed control. This means the full load speed is 100% and the no-load speed is 105%. This is required for the stable operation of the network without hunting and drop-outs of power plants. Normally the changes in speed are minor. Adjustments in power output are made by slowly raising the droop curve by increasing the spring pressure on a centrifugal governor. Generally this is a basic system requirement for all power plants because the older and newer plants have to be compatible in response to the instantaneous changes in frequency without depending on outside communication.[14]
 
 Thermodynamics of steam turbines
 
-Rankine_cycle_with_superheat.jpg]]
+]]
 
 The steam turbine operates on basic principles of thermodynamics using the part 3-4 of the Rankine cycle shown in the adjoining diagram. Superheated steam (or dry saturated steam, depending on application) leaves the boiler at high temperature and high pressure. At entry to the turbine, the steam gains kinetic energy by passing through a nozzle (a fixed nozzle in an impulse type turbine or the fixed blades in a reaction type turbine). When the steam leaves the nozzle it is moving at high velocity towards the blades of the turbine rotor. A force is created on the blades due to the pressure of the vapor on the blades causing them to move. A generator or other such device can be placed on the shaft, and the energy that was in the steam can now be stored and used. The steam leaves the turbine as a saturated vapor (or liquid-vapor mix depending on application) at a lower temperature and pressure than it entered with and is sent to the condenser to be cooled.[15] The first law enables us to find a formula for the rate at which work is developed per unit mass. Assuming there is no heat transfer to the surrounding environment and that the changes in kinetic and potential energy are negligible compared to the change in specific enthalpy we arrive at the following equation
 
@@ -290,7 +268,7 @@ where
 
 Direct drive
 
-Dampfturbine_5_MW_mit_ELIN_Generator.jpg]]
+]]
 
 Electrical power stations use large steam turbines driving electric generators to produce most (about 80%) of the world's electricity. The advent of large steam turbines made central-station electricity generation practical, since reciprocating steam engines of large rating became very bulky, and operated at slow speeds. Most central stations are fossil fuel power plants and nuclear power plants; some installations use geothermal steam, or use concentrated solar power (CSP) to create the steam. Steam turbines can also be used directly to drive large centrifugal pumps, such as feedwater pumps at a thermal power plant.
 
@@ -299,7 +277,7 @@ The turbines used for electric power generation are most often directly coupled 
 
 Marine propulsion
 
-Turbinia_At_Speed.jpg'', 1894, the first steam turbine-powered ship]] SS_MAUI_high_and_low_pressure_turbines_1917.png Wirnik_turbiny_parowej_ORP_Wicher.jpg
+'', 1894, the first steam turbine-powered ship]]
 
 In steamships, advantages of steam turbines over reciprocating engines are smaller size, lower maintenance, lighter weight, and lower vibration. A steam turbine is only efficient when operating in the thousands of RPM, while the most effective propeller designs are for speeds less than 300 RPM; consequently, precise (thus expensive) reduction gears are usually required, although numerous early ships through World War I, such as _Turbinia_, had direct drive from the steam turbines to the propeller shafts. Another alternative is turbo-electric transmission, in which an electrical generator run by the high-speed turbine is used to run one or more slow-speed electric motors connected to the propeller shafts; precision gear cutting may be a production bottleneck during wartime. Turbo-electric drive was most used in large US warships designed during World War I and in some fast liners, and was used in some troop transports and mass-production destroyer escorts in World War II.
 
@@ -324,8 +302,6 @@ In the US Navy, the s, launched 1935–36, introduced double-reduction gearing. 
 When US Navy warship construction resumed in the early 1950s, most surface combatants and aircraft carriers used / steam. This continued until the end of the US Navy steam-powered warship era with the s of the early 1970s. Amphibious and auxiliary ships continued to use steam post-World War II, with , launched in 2001, possibly the last non-nuclear steam-powered ship built for the US Navy.
 
 Turbo-electric drive
-
-50letPob_pole.JPG
 
 Turbo-electric drive was introduced on the battleship , launched in 1917. Over the next eight years the US Navy launched five additional turbo-electric-powered battleships and two aircraft carriers (initially ordered as s). Ten more turbo-electric capital ships were planned, but cancelled due to the limits imposed by the Washington Naval Treaty.
 

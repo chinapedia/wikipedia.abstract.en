@@ -1,1 +1,0 @@
-La_Grande_Chartreuse.JPG A CHARTERHOUSE (, , , ) is a monastery of Carthusian monks. The English word is derived by phono-semantic matching from the French word _Chartreuse_.[1] The English name is sometimes misunderstood to indicate that the houses were created by charter, a grant of legal rights by a high authority.

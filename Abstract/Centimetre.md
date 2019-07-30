@@ -1,1 +1,0 @@
-A CENTIMETRE (international spelling as used by the International Bureau of Weights and Measures; symbol CM) or CENTIMETER (American spelling) is a unit of length in the metric system, equal to one hundredth of a metre, _centi_ being the SI prefix for a factor of .[1] The centimetre was the base unit of length in the now deprecated centimetre–gram–second (CGS) system of units.

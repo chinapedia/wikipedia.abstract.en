@@ -52,7 +52,7 @@ Political parties and elections
 
 Boundary dispute
 
-Saint-Pierre_and_Miquelon_EEZ_map-en.svg resolution between Canada and France]]
+resolution between Canada and France]]
 
 In 1992, a maritime boundary dispute with Canada over the delineation of the Exclusive Economic Zone belonging to France was settled by the International Court of Arbitration. In the decision, France kept the 12 nautical mile (NM) (22.2 km) territorial sea surrounding the islands and was given an additional 12 NM (22.2 km) contiguous zone as well as a 10.5 NM (19.4 km) wide corridor stretching 200 NM (370 km) south. The total area in the award was 18% of what France had requested.
 

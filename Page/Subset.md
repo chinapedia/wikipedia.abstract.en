@@ -46,15 +46,13 @@ Properties
 
 ⊂ and ⊃ symbols
 
-Venn_A_subset_B.svg showing
+showing
 _A_ is a proper subset of _B_,  _A_⊂_B_,  and conversely _B_ is a proper superset of _A_.]] Some authors use the symbols ⊂ and ⊃ to indicate _subset_ and _superset_ respectively; that is, with the same meaning and instead of the symbols, ⊆ and ⊇.[2] So for example, for these authors, it is true of every set _A_ that .
 
 Other authors prefer to use the symbols ⊂ and ⊃ to indicate _proper_ (also called strict) subset and _proper_ superset respectively; that is, with the same meaning and instead of the symbols, ⊊ and ⊋.[3] This usage makes ⊆ and ⊂ analogous to the inequality symbols ≤ and <. For example, if then _x_ may or may not equal _y_, but if , then _x_ definitely does not equal _y_, and _is_ less than _y_. Similarly, using the convention that ⊂ is proper subset, if , then _A_ may or may not equal _B_, but if , then _A_ definitely does not equal _B_.
 
 
 Examples
-
-PolygonsSet_EN.svg
 
 -   The set A = {1, 2} is a proper subset of B = {1, 2, 3}, thus both expressions A ⊆ B and A ⊊ B are true.
 -   The set D = {1, 2, 3} is a subset (but _not_ a proper subset) of E = {1, 2, 3}, thus D ⊆ E is true, and D ⊊ E is not true (false).
@@ -71,7 +69,7 @@ File:Example of A is a proper subset of B.svg|A is a proper subset of B File:Exa
 
 Other properties of inclusion
 
-Subset_with_expansion.svg Inclusion is the canonical partial order in the sense that every partially ordered set (_X_, ≼) is isomorphic to some collection of sets ordered by inclusion. The ordinal numbers are a simple example—if each ordinal _n_ is identified with the set [_n_] of all ordinals less than or equal to _n_, then _a_ ≤ _b_ if and only if [_a_] ⊆ [_b_].
+Inclusion is the canonical partial order in the sense that every partially ordered set (_X_, ≼) is isomorphic to some collection of sets ordered by inclusion. The ordinal numbers are a simple example—if each ordinal _n_ is identified with the set [_n_] of all ordinals less than or equal to _n_, then _a_ ≤ _b_ if and only if [_a_] ⊆ [_b_].
 
 For the power set 𝒫(S) of a set _S_, the inclusion partial order is (up to an order isomorphism) the Cartesian product of _k_ = |_S_| (the cardinality of _S_) copies of the partial order on {0,1} for which 0 < 1. This can be illustrated by enumerating _S_ = {_s_₁, _s_₂, ..., _s__(_k_)} and associating with each subset _T_ ⊆ _S_ (which is to say with each element of 2^(_S_)) the _k_-tuple from {0,1}^(_k_) of which the _i_th coordinate is 1 if and only if _s__(_i_) is a member of _T_.
 

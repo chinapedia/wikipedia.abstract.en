@@ -1,1 +1,0 @@
-The BASILICA OF OUR LADY OF CONSOLATION[1] () also BASILICA OF TÁRIBA is a Catholic temple located in the locality of Táriba[2] in the Táchira state in the Andes of the South American country of Venezuela.[3]

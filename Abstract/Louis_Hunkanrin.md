@@ -1,1 +1,0 @@
-LOUIS HUNKANRIN (25 December 1887 – 28 May 1964) was a Dahomeyan writer, educator, journalist, and politician. He was one of the earliest critics of French colonial power in his country, later renamed Benin.

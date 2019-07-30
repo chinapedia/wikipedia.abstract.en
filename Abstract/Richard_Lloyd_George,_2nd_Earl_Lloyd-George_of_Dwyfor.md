@@ -1,1 +1,0 @@
-RICHARD LLOYD GEORGE, 2ND EARL LLOYD-GEORGE OF DWYFOR (15 February 1889 – 1 May 1968) was a British soldier and peer in the peerage of the United Kingdom, a member of the House of Lords from 1945 until his death.

@@ -1,1 +1,0 @@
-The WORLDWIRED TOUR is a concert tour by American heavy metal band Metallica in support of their tenth studio album _Hardwired... to Self-Destruct_, which was released on November 18, 2016. It is also their first worldwide tour after the World Magnetic Tour six years earlier.

@@ -1,1 +1,0 @@
-_EUCALYPTUS DISSIMULATA_, commonly known as the RED-CAPPED MALLEE,[1] is a species of mallee that is endemic to Western Australia. It has smooth greyish bark that is shed in strips, glossy green, narrow elliptic to narrow lance-shaped adult leaves, flower buds in groups of between seven and eleven, creamy white flowers and short cylindrical to stubby barrel-shaped fruit.

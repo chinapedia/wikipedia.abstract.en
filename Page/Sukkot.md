@@ -11,7 +11,7 @@ On each day of the holiday it is mandatory to perform a waving ceremony with the
 
 Origins
 
-Sukkah_Roofs.jpg booths where Jewish families eat their meals and sleep throughout the Sukkot holiday]] Soukkah_(Sukkah)_fin_du_XIXe_siècle,_Autriche_ou_Sud_de_l'Allemagne_-_Musée_d'art_et_d'histoire_du_Judaïsme.jpg]] A_Pleasant_Sukka.JPG]]
+booths where Jewish families eat their meals and sleep throughout the Sukkot holiday]] ]] ]]
 
 In the Book of Leviticus, God told Moses to command the people: "On the first day you shall take the product of _hadar_ trees, branches of palm trees, boughs of leafy trees, and willows of the brook" (), and "You shall live in booths seven days; all citizens in Israel shall live in booths, in order that future generations may know that I made the Israelite people live in booths when I brought them out of the land of Egypt" ().
 
@@ -29,12 +29,12 @@ Keeping of Sukkot is detailed in the Hebrew Bible (, and ); the Mishnah (Sukkah 
 
 Building a sukkah
 
-Sukkah_Walls_by_Leat_Silvera.jpg. Pictured: wall hanging]] The sukkah walls can be constructed of any material (wood, canvas, aluminum siding, sheets). The walls can be free-standing or include the sides of a building or porch. The roof must be of organic material, known as s'chach, such as leafy tree overgrowth, schach mats or palm fronds - plant material that is no longer connected with the earth.[6] It is customary to decorate the interior of the sukkah with hanging decorations of the four species[7] as well as with attractive artwork.
+. Pictured: wall hanging]] The sukkah walls can be constructed of any material (wood, canvas, aluminum siding, sheets). The walls can be free-standing or include the sides of a building or porch. The roof must be of organic material, known as s'chach, such as leafy tree overgrowth, schach mats or palm fronds - plant material that is no longer connected with the earth.[6] It is customary to decorate the interior of the sukkah with hanging decorations of the four species[7] as well as with attractive artwork.
 
 
 Special prayers
 
-PikiWiki_Israel_14882_Western_Wall_in_Jerusalem.jpg or _Kotel_]]
+or _Kotel_]]
 
 Prayers during Sukkot include the reading of the Torah every day, reciting the Mussaf (additional) service after morning prayers, reciting Hallel, and adding special additions to the Amidah and Grace after Meals. In addition, the service includes rituals involving the Four Species. The lulav and etrog are not brought to the synagogue on Shabbat.[8]
 
@@ -51,7 +51,7 @@ Some streams of Judaism also recognize the , or female shepherds of Israel, coid
 
 _Chol HaMoed_ intermediate days
 
-He_wiki_sucot.jpg (top or "ceiling") on the inside of a sukkah]]
+(top or "ceiling") on the inside of a sukkah]]
 
 The second through seventh days of Sukkot (third through seventh days outside Israel) are called Chol HaMoed ( - "festival weekdays"). These days are considered by halakha to be more than regular weekdays but less than festival days. In practice, this means that all activities that are needed for the holiday—such as buying and preparing food, cleaning the house in honor of the holiday, or traveling to visit other people's sukkot or on family outings—are permitted by Jewish law. Activities that will interfere with relaxation and enjoyment of the holiday—such as laundering, mending clothes, engaging in labor-intensive activities—are not permitted.[13][14]
 

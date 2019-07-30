@@ -1,1 +1,0 @@
-Money-laundering.svg MONEY LAUNDERING is the illegal process of concealing the origins of money obtained illegally by passing it through a complex sequence of banking transfers or commercial transactions. The overall scheme of this process returns the money to the launderer in an obscure and indirect way.[1]

@@ -1,1 +1,0 @@
-The FOWLER AIRPLANE CORPORATION was an aircraft manufacturing company that operated in San Francisco, California, from 1918 into the 1920s. It was founded by Robert G. Fowler, the first person to make a west-to-east transcontinental flight in stages.

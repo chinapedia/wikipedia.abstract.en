@@ -1,1 +1,0 @@
-KENT ANDERSON (born August 20, 1945) is an American author, Vietnam War veteran, former police officer and former university professor born in 1945 in North Carolina. He has written novels, various articles and scenarios.

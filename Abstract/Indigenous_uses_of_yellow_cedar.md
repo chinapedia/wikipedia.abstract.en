@@ -1,1 +1,0 @@
-Cupressus_nootkatensis_5879.JPG Yellow cedar (_Cupressus nootkatensis_) is a culturally, economically and environmentally significant species to the Pacific Northwest and was used extensively by indigenous peoples throughout the region.

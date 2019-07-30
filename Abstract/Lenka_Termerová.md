@@ -1,1 +1,0 @@
-LENKA TERMEROVÁ (born 12 July 1947) is a Czech film, stage and television actress. She won the Czech Lion award for Best Supporting Actress in 2008 for her role in the film _Děti noci_. She is the mother of actress Martha Issová.[1]

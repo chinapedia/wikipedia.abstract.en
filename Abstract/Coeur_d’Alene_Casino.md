@@ -1,1 +1,0 @@
-The COEUR D’ALENE CASINO is a Native American gaming enterprise run by the Coeur d'Alene people in Worley, Idaho, United States.[1] The resort includes two hotel towers, the Circling Raven Golf Club, multiple restaurants, and 100,000 square feet of casino floor space. The Coeur d’Alene Casino is currently one of the largest employers in the Idaho region.[2]

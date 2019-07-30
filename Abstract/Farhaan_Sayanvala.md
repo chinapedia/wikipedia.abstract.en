@@ -1,1 +1,0 @@
-FARHAAN SAYANVALA (born 8 July 1997) is a South African cricketer.[1] He made his Twenty20 debut for Gauteng against Eastern Province in the 2016 Africa T20 Cup on 23 September 2016.[2] Prior to his T20 debut he was named in South Africa's squad for the 2016 Under-19 Cricket World Cup.[3]

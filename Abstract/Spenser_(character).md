@@ -1,1 +1,0 @@
-SPENSER—his first name is never officially revealed—is a fictional character in a series of detective novels initially by the American mystery writer Robert B. Parker and later by Ace Atkins.[1] He is also featured in a television series (_Spenser: For Hire_) and a series of TV movies based on the novels.

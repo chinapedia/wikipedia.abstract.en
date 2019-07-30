@@ -1,1 +1,0 @@
-FERNANDO SOTO-HAY Y GARCIA served as a member of the National Court of Honor of the Asociación de Scouts de México, Asociación Civil, as well as the Chairman of the Interamerican Scout Training Commission.

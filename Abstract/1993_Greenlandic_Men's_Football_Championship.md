@@ -1,1 +1,0 @@
-The 1993 GREENLANDIC MEN'S FOOTBALL CHAMPIONSHIP was the 23rd edition of the Greenlandic Men's Football Championship. The final round was held in Qaqortoq. It was won by B-67 Nuuk for the first time in its history.[1]

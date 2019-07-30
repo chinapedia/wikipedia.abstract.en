@@ -1,1 +1,0 @@
-RAIPUR AND NAYA RAIPUR BRTS is a bus rapid transit in Raipur and Naya Raipur, Chhattisgarh India. It is operated by Naya Raipur Mass Transport Ltd (NRMTL). It was inaugurated by Prime Minister Narendra Modi on 2 November 2016.

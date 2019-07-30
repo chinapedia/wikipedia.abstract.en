@@ -1,1 +1,0 @@
-A REPUBLIC () is a form of government in which the country is considered a “public matter”, not the private concern or property of the rulers. The primary positions of power within a republic are not inherited, but are attained through democracy, oligarchy or autocracy. It is a form of government under which the head of state is not a hereditary monarch.[1][2][3]

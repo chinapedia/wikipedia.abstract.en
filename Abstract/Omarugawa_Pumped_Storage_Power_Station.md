@@ -1,1 +1,0 @@
-The is a large pumped-storage hydroelectric power station in Kijo in the Koyu District of Miyazaki Prefecture, Japan. With a total installed capacity of , it is one of the largest pumped-storage power stations in Japan.

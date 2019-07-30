@@ -1,1 +1,0 @@
-ALICE "ALLY" LUNDSTRÖM or FLODSTRÖM (born 15 November 1935)[1][2] is a Swedish former competitive figure skater. She is the 1957 Nordic champion and a two-time Swedish national champion (1956–57).[3] She represented Sweden at the 1956 Winter Olympics in Cortina d'Ampezzo.[4][5]

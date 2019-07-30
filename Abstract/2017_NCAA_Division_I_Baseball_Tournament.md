@@ -1,1 +1,0 @@
-The 2017 NCAA DIVISION I BASEBALL TOURNAMENT began on June 1, 2017 as part of the 2017 NCAA Division I baseball season. The 64-team, double-elimination tournament concluded with the 2017 College World Series (CWS) in Omaha, Nebraska. The CWS started on June 17 and ended on June 27.[1]

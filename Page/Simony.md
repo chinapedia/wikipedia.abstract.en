@@ -1,4 +1,4 @@
-DvinfernoPopeNicholasIII_m.jpg speaks to Pope Nicholas III, committed to the _Inferno_ for his simony, in Gustave Doré's 1861 wood engraving (portrait of the Third Bolgia of the Eighth Circle of Hell)]] SIMONY is the act of selling church offices and roles. It is named after Simon Magus,[1] who is described in the Acts of the Apostles as having offered two disciples of Jesus payment in exchange for their empowering him to impart the power of the Holy Spirit to anyone on whom he would place his hands. The term extends to other forms of trafficking for money in "spiritual things."[2][3]
+speaks to Pope Nicholas III, committed to the _Inferno_ for his simony, in Gustave Doré's 1861 wood engraving (portrait of the Third Bolgia of the Eighth Circle of Hell)]] SIMONY is the act of selling church offices and roles. It is named after Simon Magus,[1] who is described in the Acts of the Apostles as having offered two disciples of Jesus payment in exchange for their empowering him to impart the power of the Holy Spirit to anyone on whom he would place his hands. The term extends to other forms of trafficking for money in "spiritual things."[2][3]
 
 The appointment of ecclesiastical officials, such as bishops and abbots, by a secular authority came to be considered simoniacal and this became a key issue during the Investiture Controversy.
 
@@ -7,7 +7,7 @@ Catholic Church
 
 Although an offense against canon law, simony became widespread in the Catholic Church in the 9th and 10th centuries.[4] In the canon law, the word bears a more extended meaning than in English law. "Simony according to the canonists", says John Ayliffe in his _Parergon_,
 
-Abbé_pratiquant_la_simonie.jpg Tizian_109.jpg, ca 1520
+, ca 1520
 
 ]] In the _Corpus Juris Canonici_, the _Decretum_[5] and the Decretals of Gregory IX[6] dealt with the subject. The offender whether _simoniacus_ (the perpetrator of a simoniacal transaction) or _simoniace promotus_ (the beneficiary of a simoniacal transaction), was liable to deprivation of his benefice and deposition from orders if a secular priest, or to confinement in a stricter monastery if a regular. No distinction seems to have been drawn between the sale of an immediate and of a reversionary interest. The innocent _simoniace promotus_ was, apart from dispensation, liable to the same penalties as though he were guilty.
 

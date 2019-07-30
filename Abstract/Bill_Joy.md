@@ -1,1 +1,0 @@
-vi{{•}}csh{{•}}chroot{{•}}TCP/IP driver{{•}}co-founder of Sun Microsystems{{•}}Java{{•}}SPARC{{•}}Solaris{{•}}NFS{{•}}_Why The Future Doesn't Need Us_ |author_abbrev_bot = |author_abbrev_zoo = |influences = |influenced = |awards =

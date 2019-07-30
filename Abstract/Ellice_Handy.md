@@ -1,1 +1,0 @@
-ELLICE HANDY, (1902–1989) was a Singaporean educator, education administrator and author of Singapore's first cookbook on local cuisine. Her cookbook is the longest-selling compilation of recipes in Singapore and is considered a must-have volume by many cooks. She was inducted into the Singapore Women's Hall of Fame in 2015.

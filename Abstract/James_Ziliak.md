@@ -1,1 +1,0 @@
-JAMES ZILIAK is an American business economist, currently the Gatton Endowed Chair in Microeconomics and the Founding Director of the Center for Poverty Research at the Gatton College of Business and Economics, University of Kentucky.[1][2] He is also a published author.[3][4]

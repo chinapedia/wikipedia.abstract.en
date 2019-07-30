@@ -1,1 +1,0 @@
-THIJSSE'S HOF (The garden of Thijsse) is a wildlife garden in Bloemendaal, the Netherlands. It was created in 1925 on the occasion of the 60th birthday of Jac. P. Thijsse, naturalist and nature conservationist. It is the oldest wildlife garden in the Netherlands, and one of the oldest of Europe, and in the world.

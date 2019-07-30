@@ -1,1 +1,0 @@
-The 1902 VICTORIAN STATE ELECTION was held in the Australian state of Victoria on 1 October 1902 to elect 70 of the 95 members of the Victorian Legislative Assembly.[1][2][3][4] The other 25 seats were uncontested.[5]

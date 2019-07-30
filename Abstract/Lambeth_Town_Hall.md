@@ -1,1 +1,0 @@
-Lambeth_Town_Hall,_May_2015_02.jpg Lambeth_Town_Hall.jpg LAMBETH TOWN HALL, also known as BRIXTON TOWN HALL, is the head office of the London Borough of Lambeth on Brixton Hill and Acre Lane, Brixton, London SW2.

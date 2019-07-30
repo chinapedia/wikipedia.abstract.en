@@ -1,1 +1,0 @@
-REGINALD K. GROOME, (1928 – September 20, 1999) served as the President and International Commissioner of Scouts Canada, a member of the World Scout Committee and a Member of the Board of the World Scout Foundation.

@@ -1,1 +1,0 @@
-PUNJAB POLICE COLLEGE SIHALA is the premier training institution of the Punjab Police in Sihala, Pakistan. The police college sihala established in 1959 to providing the training to all the police officials of all ranks. Sihala is the oldest and largest training college of police in Pakistan.

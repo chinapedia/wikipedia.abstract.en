@@ -1,4 +1,4 @@
-_Son of God_ (film)|other uses|Son of God (disambiguation)}} Folio_109v_-_The_Baptism_of_Christ.jpg, where God the Father proclaimed Jesus to be his Son.]]
+_Son of God_ (film)|other uses|Son of God (disambiguation)}} , where God the Father proclaimed Jesus to be his Son.]]
 
 Historically, many rulers have assumed titles such as SON OF GOD, SON OF A GOD or SON OF HEAVEN.[1]
 
@@ -25,7 +25,7 @@ Based on the Bible, several kings of Damascus took the title son of Hadad. From 
 
 In Greek mythology, Heracles (son of Zeus) and many other figures were considered to be sons of gods through union with mortal women. From around 360 BC onwards Alexander the Great may have implied he was a demigod by using the title "Son of Ammon–Zeus".[33]
 
-S0484.4.jpg minted circa 18 BC. Obverse: CAESAR AVGVSTVS; reverse: DIVVS IVLIV(S)]] In 42 BC, Julius Caesar was formally deified as "the divine Julius" (_divus Iulius_) after his assassination. His adopted son, Octavian (better known as Augustus, a title given to him 15 years later, in 27 BC) thus became known as _divi Iuli filius_ (son of the divine Julius) or simply _divi filius_ (son of the god).[34] As a daring and unprecedented move, Augustus used this title to advance his political position in the Second Triumvirate, finally overcoming all rivals for power within the Roman state.[35][36]
+minted circa 18 BC. Obverse: CAESAR AVGVSTVS; reverse: DIVVS IVLIV(S)]] In 42 BC, Julius Caesar was formally deified as "the divine Julius" (_divus Iulius_) after his assassination. His adopted son, Octavian (better known as Augustus, a title given to him 15 years later, in 27 BC) thus became known as _divi Iuli filius_ (son of the divine Julius) or simply _divi filius_ (son of the god).[34] As a daring and unprecedented move, Augustus used this title to advance his political position in the Second Triumvirate, finally overcoming all rivals for power within the Roman state.[35][36]
 
 The word applied to Julius Caesar as deified was _divus_, not the distinct word _deus_. Thus Augustus called himself _Divi filius_, and not _Dei filius_.[37] The line between been god and god-like was at times less than clear to the population at large, and Augustus seems to have been aware of the necessity of keeping the ambiguity.[38] As a purely semantic mechanism, and to maintain ambiguity, the court of Augustus sustained the concept that any worship given to an emperor was paid to the "position of emperor" rather than the person of the emperor.[39] However, the subtle semantic distinction was lost outside Rome, where Augustus began to be worshiped as a deity.[40] The inscription DF thus came to be used for Augustus, at times unclear which meaning was intended.[41][42] The assumption of the title _Divi filius_ by Augustus meshed with a larger campaign by him to exercise the power of his image. Official portraits of Augustus made even towards the end of his life continued to portray him as a handsome youth, implying that miraculously, he never aged. Given that few people had ever seen the emperor, these images sent a distinct message.[43]
 
@@ -36,7 +36,7 @@ Outside the Roman Empire, the 2nd-century Kushan King Kanishka I used the title 
 
 Judaism
 
-David_SM_Maggiore.jpg by Nicolas Cordier in the Borghese Chapel of the Basilica di Santa Maria Maggiore]] Although references to "sons of God", "son of God" and "son of the " are occasionally found in Jewish literature, they never refer to physical descent from God.[47][48] There are two instances where Jewish kings are figuratively referred to as a god.[49] The king is likened to the supreme king God.[50] These terms are often used in the general sense in which the Jewish people were referred to as "children of the your God".[51]
+by Nicolas Cordier in the Borghese Chapel of the Basilica di Santa Maria Maggiore]] Although references to "sons of God", "son of God" and "son of the " are occasionally found in Jewish literature, they never refer to physical descent from God.[47][48] There are two instances where Jewish kings are figuratively referred to as a god.[49] The king is likened to the supreme king God.[50] These terms are often used in the general sense in which the Jewish people were referred to as "children of the your God".[51]
 
 When used by the rabbis, the term referred to Israel or to human beings in general, and not as a reference to the Jewish mashiach.[52] In Judaism the term _mashiach_ has a broader meaning and usage and can refer to a wide range of people and objects, not necessarily related to the Jewish eschaton.
 

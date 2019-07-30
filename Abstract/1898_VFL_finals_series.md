@@ -1,1 +1,0 @@
-The Victorian Football League's 1898 FINALS SERIES determined the premiers of the 1898 VFL season. Played under a new playoff system, the finals featured all eight teams, beginning on 27 August and concluding with the 1898 VFL Grand Final on 24 September.

@@ -1,1 +1,0 @@
-_THE BEGGAR STUDENT_ (German: __) is a 1931 German operetta film directed by Victor Janson and starring , Jarmila Novotná and Fritz Schulz.[1] The film is based on the 1882 operetta _The Beggar Student_. A British version of the film _The Beggar Student_ was also released the same year.

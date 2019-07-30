@@ -1,1 +1,0 @@
-Animal_cell_cycle-en.svg (phases ordered counter-clockwise).]] Major_events_in_mitosis.svgs in a cell nucleus.]] Wilson1900Fig2.jpg) cells in different phases of the cell cycle enlarged 800 diameters.

@@ -1,1 +1,0 @@
-KRISTOPHER DAVID TWARDEK (born 8 March 1997) is a Canadian professional footballer who plays for Irish club Sligo Rovers, as a winger. A former youth international for the Czech Republic, he has been capped by Canada at full international level.

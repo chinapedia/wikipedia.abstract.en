@@ -1,1 +1,0 @@
-FC_Torpedo_Mykolaiv_2013-10-26.JPG Flag_SDUShOR_Torpedo_Mykolaiv.JPG Zorya_Stadium,_Mykolaiv_—_1.jpg (2013)]] FC TORPEDO MYKOLAIV is an amateur club from Mykolaiv competing at the regional competitions of Mykolaiv Oblast. The club plays its game at a stadium of Zorya-Mashproekt Factory.

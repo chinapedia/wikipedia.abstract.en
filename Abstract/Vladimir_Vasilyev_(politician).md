@@ -1,1 +1,0 @@
-VLADIMIR ABDUALIEVICH VASILYEV (; born August 11, 1949, Klin, Klinsky District, Moscow Oblast, RSFSR, USSR[1]) is a Russian politician. He was appointed as the acting Head of Dagestan on 9 September 2018.[2]

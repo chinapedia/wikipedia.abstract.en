@@ -21,7 +21,7 @@ History
 
 Early history
 
-Brižinski_spomeniki_3.png,'' dating from the late 10th or the early 11th century, are considered the oldest documents in Slovene.]]
+,'' dating from the late 10th or the early 11th century, are considered the oldest documents in Slovene.]]
 
 Like all Slavic languages, Slovene traces its roots to the same proto-Slavic group of languages that produced Old Church Slavonic. The earliest known examples of a distinct, written dialect possibly connected to Slovene are from the _Freising Manuscripts,_ known in Slovene as _Brižinski Spomeniki_. The consensus estimate of their date of origin is between 972 and 1039 (most likely before 1000). These religious writings are among the oldest surviving manuscripts in any Slavic language.
 
@@ -65,7 +65,7 @@ The language is spoken by about 2.5 million people, mainly in Slovenia, but also
 
 Dialects
 
-Slovenian_Dialects.svg and other sources]]
+and other sources]]
 
 Slovene is sometimes characterized as the most diverse Slavic language in terms of dialects,[12] with different degrees of mutual intelligibility.[13][14] Accounts of the number of dialects range from as few as seven[15][16][17] dialects, often considered dialect groups or dialect bases that are further subdivided into as many as 50 dialects.[18] Other sources characterize the number of dialects as nine[19] or eight.[20] The Slovene proverb "Every village has its own voice" (_Vsaka vas ima svoj glas_) depicts the differences in dialects. Although pronunciation differs greatly from area to area, those differences do not pose major obstacles to understanding. The standard language is mainly used in public presentations or on formal occasions.
 
@@ -121,8 +121,6 @@ Under certain (somewhat unpredictable) circumstances, at the end of a syllable m
 
 Vowels
 
-Slovenian_vowel_chart.svg
-
 Slovene has an eight-vowel[34][35] (or, according to Peter Jurgec, nine-vowel)[36][37] system, in comparison to the five-vowel system of Serbo-Croatian.
 
 +-----------+-------+---------+------+
@@ -163,7 +161,7 @@ Vocabulary
 
 T–V distinction
 
-Jozef_Nahtigal_tombstone_in_Dobrova_Slovenia.jpg in Dobrova with archaic Slovene _onikanje_ in indirect reference. Literal translation "Here lie [_počivajo_] the honorable Jožef Nahtigal ... they were born [_rojeni_] ... they died [_umerli_] ... God grant them [_jim_] eternal peace and rest."]]
+in Dobrova with archaic Slovene _onikanje_ in indirect reference. Literal translation "Here lie [_počivajo_] the honorable Jožef Nahtigal ... they were born [_rojeni_] ... they died [_umerli_] ... God grant them [_jim_] eternal peace and rest."]]
 
 Slovene, like most other European languages, has a T–V distinction, or two forms of 'you' for formal and informal situations, respectively. Although informal address using the 2nd person singular _ti_ form (known as _tikanje_) is officially limited to friends and family, talk among children, and addressing animals, it is increasingly used among the middle generation to signal a relaxed attitude or lifestyle instead of its polite or formal counterpart using the 2nd person plural _vi_ form (known as _vikanje_).
 

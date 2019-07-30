@@ -1,1 +1,0 @@
-ANTIPSYCHOTICS, also known as NEUROLEPTICS or MAJOR TRANQUILIZERS,[1] are a class of medication primarily used to manage psychosis (including delusions, hallucinations, paranoia or disordered thought), principally in schizophrenia and bipolar disorder. Antipsychotics are usually effective in relieving symptoms of psychosis in the short term.

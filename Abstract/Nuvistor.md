@@ -1,1 +1,0 @@
-6DS4NuvistorVacuumTube.jpg Nuvistor_530.jpg

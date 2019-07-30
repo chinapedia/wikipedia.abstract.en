@@ -1,5 +1,3 @@
-Soldering_gun.jpg Gas_soldering_iron.jpeg Solder_on_spool.jpeg
-
 A SOLDERING IRON is a hand tool used in soldering. It supplies heat to melt solder so that it can flow into the joint between two workpieces.
 
 A soldering iron is composed of a heated metal tip and an insulated handle. Heating is often achieved electrically, by passing an electric current (supplied through an electrical cord or battery cables) through a resistive heating element. Cordless irons can be heated by combustion of gas stored in a small tank, often using a catalytic heater rather than a flame. Simple irons less commonly used today than in the past were simply a large copper bit on a handle, heated in a flame.
@@ -8,8 +6,6 @@ Soldering irons are most often used for installation, repairs, and limited produ
 
 
 Types
-
-Soldering-PCB-b.jpg
 
 Simple iron
 
@@ -29,11 +25,9 @@ Another approach is to use magnetized soldering tips which lose their magnetic p
 
 Soldering station
 
-Soldering_Station_Weller_2.jpeg A soldering station has a temperature control and consists of an electrical power supply, control circuitry with provision for user adjustment of temperature and display, and a soldering iron or soldering head with a tip temperature sensor. The station will normally have a stand for the hot iron when not in use, and a wet sponge for cleaning. It is most commonly used for soldering electronic components. Other functions may be combined; for example a rework station, mainly for surface-mount components may have a hot air gun, vacuum pickup tool, and a soldering head; a desoldering station will have a desoldering head with vacuum pump for desoldering through-hole components, and a soldering iron head.
+A soldering station has a temperature control and consists of an electrical power supply, control circuitry with provision for user adjustment of temperature and display, and a soldering iron or soldering head with a tip temperature sensor. The station will normally have a stand for the hot iron when not in use, and a wet sponge for cleaning. It is most commonly used for soldering electronic components. Other functions may be combined; for example a rework station, mainly for surface-mount components may have a hot air gun, vacuum pickup tool, and a soldering head; a desoldering station will have a desoldering head with vacuum pump for desoldering through-hole components, and a soldering iron head.
 
 Soldering tweezers
-
-Soldering_a_0805.jpg
 
 For soldering and desoldering small surface-mount components with two terminals, such as some links, resistors, capacitors, and diodes, soldering tweezers can be used; they can be either free-standing or controlled from a soldering station. The tweezers have two heated tips mounted on arms whose separation can be manually varied by squeezing gently against spring force, like simple tweezers; the tips are applied to the two ends of the component. The main purpose of the soldering tweezers is to melt solder in the correct place; components are usually moved by simple tweezers or vacuum pickup.
 
@@ -44,14 +38,12 @@ A hot knife is a form of soldering iron equipped with a double-edged blade that 
 
 Stands
 
-Soldering_iron_in_holder.jpg
-
 A soldering iron stand keeps the iron away from flammable materials, and often also comes with a cellulose sponge and flux pot for cleaning the tip. Some soldering irons for continuous and professional use come as part of a _soldering station,_ which allows the exact temperature of the tip to be adjusted, kept constant, and sometimes displayed.
 
 
 Tips
 
-Loetspitze_IMGP9290.jpg Most soldering irons for electronics have interchangeable tips, also known as _bits_, that vary in size and shape for different types of work.[10][11][12] Common tip shapes include: _bevel_ (aka "_hoof_", especially if featuring concavity[13]),[14][15] _chisel_,[16][17] and _conical_.[18][19]
+Most soldering irons for electronics have interchangeable tips, also known as _bits_, that vary in size and shape for different types of work.[10][11][12] Common tip shapes include: _bevel_ (aka "_hoof_", especially if featuring concavity[13]),[14][15] _chisel_,[16][17] and _conical_.[18][19]
 
 Pyramid tips with a triangular flat face and chisel tips with a wide flat face are useful for soldering sheet metal. Fine conical or tapered chisel tips are typically used for electronics work. Tips may be straight or have a bend. Concave or wicking tips with a chisel face with a concave well in the flat face to hold a small amount of solder are available.[20][21] Tip selection depends upon the type of work and access to the joint; soldering of 0.5mm pitch surface-mount ICs, for example, is quite different from soldering a through-hole connection to a large area. A concave tip well is said to help prevent bridging of closely spaced leads; different shapes are recommended to correct bridging that has occurred.[22] Due to patent restrictions not all manufacturers offer concave tips everywhere; in particular there are restrictions in the USA.[23]
 

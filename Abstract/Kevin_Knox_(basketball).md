@@ -1,1 +1,0 @@
-KEVIN DEVON KNOX II (born August 11, 1999) is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA). He played college basketball for the Kentucky Wildcats and attended high school at Tampa Catholic High School.

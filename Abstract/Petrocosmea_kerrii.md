@@ -1,1 +1,0 @@
-_PETROCOSMEA KERRII_ is a species of flowering plant in the family Gesneriaceae,[1] sometimes cultivated as a houseplant. In the past, it has been erroneously placed in the genus _Damrongia_.[2] It was first described by William Grant Craib in 1918.[3]

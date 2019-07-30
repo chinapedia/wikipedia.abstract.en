@@ -1,1 +1,0 @@
-SAUL (; – _Šāʾūl_, meaning "asked for, prayed for"), according to the Hebrew Bible, was the first king of the Kingdom of Israel and Judah. His reign, traditionally placed in the late 11th century BCE, marked a transition from a tribal society to statehood.[1]

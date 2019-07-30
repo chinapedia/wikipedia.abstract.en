@@ -1,1 +1,0 @@
-CIELO LATINI (born 14 June 1984) is an Argentine writer. As a teenager, she wrote _Abzurdah_, an autobiography that detailed her problems with anorexia and bulimia. The book was a success, and got a film adaption in 2015 starred by María Eugenia Suárez.

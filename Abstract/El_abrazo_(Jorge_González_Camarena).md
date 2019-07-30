@@ -1,1 +1,0 @@
-El_abrazo_(Jorge_González_Camarena).jpg _EL ABRAZO_ (in English _The Embrace_) is a work by Mexican artist Jorge González Camarena, painted in 1980. The author gave the painting to his son Jorge González Camarena Barre de Saint-Leu. In October 2013 the work was sold to Carlos Slim Foundation. It is part of the permanent collection of Museo Soumaya in Mexico City.

@@ -1,1 +1,0 @@
-BIBIANA CAMACHO is a contemporary Mexican author, writer and publisher, best known for her novels: _Tu ropa en mi armario_ (_Your clothes in my closet_)_, Tras las huellas de mi olvido (After the traces of my oblivion), La sonámbula (The sleepwalker)_.

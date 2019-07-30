@@ -1,1 +1,0 @@
-The U.S. POST OFFICE AND CUSTOMSHOUSE in Everett, Washington served as the city's main post office from 1917 to 1964. It has also been known as FEDERAL BUILDING. The building, designed in the Neoclassical form by Oscar Wenderoth, now houses the offices of the Chicago Title Company.[1][2]

@@ -1,1 +1,0 @@
-Mpeg_logo.svg

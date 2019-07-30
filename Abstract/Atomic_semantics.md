@@ -1,1 +1,0 @@
-ATOMIC SEMANTICS is a type of guarantee provided by a data register shared by several processors in a parallel machine or in a network of computers working together. Atomic semantics are very strong. An atomic register provides strong guarantees even when there is concurrency and failures.

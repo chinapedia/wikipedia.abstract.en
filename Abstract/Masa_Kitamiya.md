@@ -1,1 +1,0 @@
-is a Japanese professional wrestler signed to Pro Wrestling Noah. Kitamiya's ring name is a tribute to former professional wrestler Masa Saito. Kitamiya also wears a similar ring attire to Saito as tribute.

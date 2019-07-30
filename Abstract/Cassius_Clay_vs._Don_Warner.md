@@ -1,1 +1,0 @@
-Cassius Clay (soon Muhammad Ali) fought a ten-round boxing match with Don Warner in Miami on March 28,1962. Clay won the fight through a technical knockout after the referee stopped the fight in the fourth round.Warner would later serve as a sparring partner for Joe Frazier.[1][2][3][4][5][6]

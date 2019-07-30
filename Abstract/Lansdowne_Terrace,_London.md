@@ -1,1 +1,0 @@
-Lansdowne_Terrace,_London,_Sep_2016_01.jpg Lansdowne_Terrace,_London,_Sep_2016_06.jpg

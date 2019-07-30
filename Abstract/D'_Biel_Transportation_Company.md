@@ -1,1 +1,0 @@
-D' BIEL TRANSPORTATION COMPANY is a bus company operated in Zamboanga City and Basilan province.[1] It is a family business currently spearheaded by the Zamboanga City Lone District Councilor, Luis Biel III[2] with a fleet of at least 50 buses and UV Express Service.[3]

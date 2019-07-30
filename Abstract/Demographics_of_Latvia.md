@@ -1,1 +1,0 @@
-Population-of-Latvia.svg This article is about the demographic features of the population of the historical territory of Latvia, including population density, ethnic background, education level, health of the populace, economic status, religious affiliations and other aspects of the population.

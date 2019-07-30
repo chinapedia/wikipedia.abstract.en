@@ -1,1 +1,0 @@
-The NESMITH–GREELY BUILDING is a four-story historic structure located at 825 5th Avenue in San Diego's Gaslamp Quarter, in the U.S. state of California. It was built in 1888.[1] It is located next to the Louis Bank of Commerce.

@@ -1,1 +1,0 @@
-SAXONY (, ) is a landlocked federal state of Germany, bordering the federal states of Brandenburg, Saxony Anhalt, Thuringia, and Bavaria, as well as the countries of Poland (Lower Silesian and Lubusz Voivodeships) and the Czech Republic (Karlovy Vary, Liberec, and Ústí nad Labem Regions). Its capital is Dresden, and its largest city is Leipzig.

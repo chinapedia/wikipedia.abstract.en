@@ -1,1 +1,0 @@
-The Anamosa Library & Learning Center, formerly the ANAMOSA PUBLIC LIBRARY, is located in Anamosa, Iowa, United States. The original building, built in 1903, was listed on the National Register of Historic Places in 1983.[1] A new facility, with triple the floor space of the old, was opened to the public in 2004.

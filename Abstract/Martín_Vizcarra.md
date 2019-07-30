@@ -1,1 +1,0 @@
-MARTÍN ALBERTO VIZCARRA CORNEJO ( ; born 22 March 1963) is a Peruvian engineer and politician who is the 67th and current President of Peru. Vizcarra previously served as Governor of the Moquegua department (2011–2014), Minister of Transport and Communications of Peru (2016–2017), and Ambassador of Peru to Canada (2017–2018).

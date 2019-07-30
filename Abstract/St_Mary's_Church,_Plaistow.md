@@ -1,1 +1,0 @@
-Stmaryplaistow.jpg

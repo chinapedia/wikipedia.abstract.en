@@ -1,1 +1,0 @@
-BHUTAN TELECOM () is a telecommunications and Internet services provider in the Kingdom of Bhutan. It is the sole fixed line telephony provider in the country. It also operates the B-Mobile mobile service and the DrukNet Internet service.

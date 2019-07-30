@@ -1,1 +1,0 @@
-FRANCESCO BORROMINI, byname of FRANCESCO CASTELLI (25 September 1599 – 2 August 1667),[1] was an Italian architect born in today's Swiss canton of Ticino[2] who, with his contemporaries Gian Lorenzo Bernini and Pietro da Cortona, was a leading figure in the emergence of Roman Baroque architecture.

@@ -1,1 +1,0 @@
-Soldadu MOHAMMAD TARMIZI BIN HAJI MAT JOHARI (born 26 December 1983) is a Bruneian international footballer who plays for MS ABDB and the Brunei national team as a goalkeeper.[1] He had a brief spell with professional club Brunei DPMM FC in 2014.

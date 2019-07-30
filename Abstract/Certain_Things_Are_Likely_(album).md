@@ -1,1 +1,0 @@
-CERTAIN THINGS ARE LIKELY is the third studio album by the British pop group _Kissing the Pink_. The album's title track "Certain Things Are Likely" was a No. 1 hit on the US Dance Club charts in 1987.[1] "One Step", while only reaching #79 on the UK charts, was performed on _Top of the Pops_.

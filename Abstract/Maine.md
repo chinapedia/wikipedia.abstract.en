@@ -1,1 +1,0 @@
-[1] French in particular is legally protected and recognized as Maine's minority language.[2][3] Maine (along with Louisiana) is considered a part of the Francophone world and makes up the largest French-speaking population in the United States.[4]

@@ -1,1 +1,0 @@
-_LIFE IN THE JUNGLE_ is a studio album by the Shadows released in 1982. It was packaged with the bonus album _Live at Abbey Road_ (also released for the first time in this package).[1][2][3] The album package reached number 24 on the UK Album Charts.[4]

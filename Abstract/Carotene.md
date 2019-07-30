@@ -1,1 +1,0 @@
-BetaCarotene-3d.png]] CarrotDiversityLg.jpgs and the colours of many other fruits and vegetables and even some animals.]] Lesser-flamingos.jpg Crater, Tanzania. The pink colour of wild flamingos is due to astaxanthin (a carotenoid) they absorb from their diet of brine shrimp. If fed a carotene-free diet they become white.]]

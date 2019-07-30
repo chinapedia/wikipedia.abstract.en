@@ -1,1 +1,0 @@
-ST. JOSEPH'S TECHNICAL INSTITUTE (SJTI) was opened in 1959 by the Jesuits of the Pune Province,[1] India. It trains middle-level managers – technicians with a combination of practical expertise, theoretical knowledge, communication skills, and management perspectives.

@@ -1,1 +1,0 @@
-Film_Critics_Circle_of_India_AGM_at_IFFI-2013.png, Ratnottama Sengupta, Utpal Borpujari, C. S. Venkiteswaran, Dalton L., V. K. Joseph, Saibal Chatterjee, Madhu Eravankara, and Utpal Datta. 'Film Critics Circle of India' AGM, IFFI—2013.[1]]]

@@ -1,1 +1,0 @@
-Generalgouvernement_1944_124_Georg_Gottlieb_Pusch.jpg

@@ -1,1 +1,0 @@
-HELSINGØR CEMETERY (Danish: Helsingør Kirkegård) is a cemetery in Helsingør, Denmark. It serves the parishes of St. Olai, St. Mary, Vestervang and Sthen. Founded in the second half of the 16th century, it was originally used as a burial ground for the poor but became the city principal cemetery in the 1820.

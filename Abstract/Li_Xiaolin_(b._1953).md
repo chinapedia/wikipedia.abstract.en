@@ -1,1 +1,0 @@
-LI XIAOLIN () is party secretary and chairperson of the Chinese People's Association for Friendship with Foreign Countries.[1] She is also a member of the 12th National Committee of the Chinese People's Political Consultative Conference.[2]

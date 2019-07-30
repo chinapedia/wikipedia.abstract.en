@@ -1,1 +1,0 @@
-DOMINIQUE BAFFIER is a French archaeologist and prehistorian who specialises in paleolithic cave paintings, or parietal art. She is known for her work at the Arcy-sur-Cure cave complex and for her subsequent role as curator of the Chauvet Cave from 2000 to 2014.

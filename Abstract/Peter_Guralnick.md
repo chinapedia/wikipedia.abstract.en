@@ -1,1 +1,0 @@
-PETER GURALNICK (born December 15, 1943, in Boston, Massachusetts) is an American music critic, author, and screenwriter. He specializes in the history of early rock and roll and has written on Elvis Presley, Sam Phillips, and Sam Cooke.

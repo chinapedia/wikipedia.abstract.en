@@ -1,1 +1,0 @@
-Alla_upplagor.jpg _SVENSKA AKADEMIENS ORDLISTA_ (), abbreviated SAOL, is a glossary published every few years by the Swedish Academy.[1][2][3] It is a single volume that is considered the final arbiter of Swedish spelling. Traditionally it carries the motto of the Swedish Academy, _Snille och Smak_ ("Talent and Taste"), on its blue cloth cover.

@@ -1,1 +1,0 @@
-LIMESIDE is a large housing estate in Oldham, Greater Manchester, England, 2 miles south of the town centre in the Hollinwood ward, contiguous with Failsworth, Hollins and Garden Suburb. Daisy Nook countryside park lies to the south.

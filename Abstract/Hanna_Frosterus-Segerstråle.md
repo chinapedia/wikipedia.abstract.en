@@ -1,1 +1,0 @@
-Hanna_Frosterus-Segerstråle.jpg Frosterus-Segerstråle_Lekande_barn.jpg HANNA FROSTERUS-SEGERSTRÅLE (23 October 1867 in Helsinki – 9 April 1946 in Porvoo) was a Finnish artist and writer. She is best known for paintings portraying intimate family life, and for portraits.

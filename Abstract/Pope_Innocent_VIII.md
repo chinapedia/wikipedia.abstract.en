@@ -1,1 +1,0 @@
-POPE INNOCENT VIII (; 1432 – 25 July 1492), born GIOVANNI BATTISTA CYBO (or CIBO), was Pope from 29 August 1484 to his death in 1492. Born into a prominent Genoese family, he entered the church and was made bishop in 1467, before being elevated to the rank of cardinal by Pope Sixtus IV. He was elected Pope in 1484, as a compromise candidate, after a stormy conclave.

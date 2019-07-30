@@ -1,1 +1,0 @@
-EVELYNA CHRISTINA "EVELYN" WEVER-CROES (born 5 December 1966) is an Aruban politician and current Prime Minister of Aruba, serving since November 2017. She is the first woman to hold this office.[1] She is a member of the People's Electoral Movement (MEP) and has been the leader of the party since 2011.[2]

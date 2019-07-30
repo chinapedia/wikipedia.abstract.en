@@ -1,1 +1,0 @@
-FERAKLOS CASTLE (), also FERAKLOU (Φερακλού) and FARAKLENON CASTLE (Φαρακλενόν Kάστρο),[1] is a ruined medieval fortress, located on an 85 m-high hill overlooking the village of Charaki on the east coast of the island of Rhodes, Greece.

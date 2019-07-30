@@ -1,1 +1,0 @@
-Sir_Joseph_Lyons_Vanity_Fair.jpg of the County of London. "Men of the Day. No.1219. 'Joe.' ", HCO, _Vanity Fair_, 3 March 1910]] Program_for_Venice_in_London.jpg Sir_Joseph_Lyons_1847-1917_Pioneer_of_mass_catering_lived_here.jpg, London]]

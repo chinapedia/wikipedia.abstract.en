@@ -1,1 +1,0 @@
-Seal Bay}} __NOTOC__ SEAL BAY AQUATIC RESERVE is a marine protected area in the Australian state of South Australia located in waters off the south coast of Kangaroo Island immediately adjoining and including the intertidal zone within the locality of Seal Bay which is also part of the Seal Bay Conservation Park.[1]

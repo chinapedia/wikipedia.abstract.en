@@ -1,1 +1,0 @@
-The ROMANIAN ROYAL STRIKE () was a period of constitutional crisis in Romania between August 1945 and January 1946. During this period, King Michael I refused to sign the bills enacted by the Petru Groza cabinet or to receive its Ministers in audience.

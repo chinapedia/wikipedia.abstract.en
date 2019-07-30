@@ -1,1 +1,0 @@
-The 1946-47 season was ABERDEEN'S 35th season in the top flight of Scottish football and their 37th season overall. Aberdeen competed in the Scottish League Division One, Scottish League Cup, and the Scottish Cup.

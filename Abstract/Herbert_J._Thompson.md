@@ -1,1 +1,0 @@
-HERBERT JOHN THOMPSON (September 21, 1881 - November 12, 1937) was an American U. S. Racing Hall of Fame trainer of Thoroughbred racehorses. He was the trainer of the winning horse of the Kentucky Derby in 1921, 1926, 1932 and 1933.[1]

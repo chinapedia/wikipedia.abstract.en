@@ -1,1 +1,0 @@
-The WOMEN'S 50 METRE BUTTERFLY S6 event at the 2016 Paralympic Games took place on 9 September 2016, at the Olympic Aquatics Stadium in Rio de Janeiro. Two heats were held. The swimmers with the eight fastest times advanced to the final.

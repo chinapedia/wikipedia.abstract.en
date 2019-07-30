@@ -1,1 +1,0 @@
-_MULTIBOWL_ is a competitive minigame compilation of scenes from 1980s and 90s video games. Its creators, Bennett Foddy and AP Thomson, intend to show the work at events and have no plans for a public release due to copyright issues.

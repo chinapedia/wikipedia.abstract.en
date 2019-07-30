@@ -1,1 +1,0 @@
-JAMESON BOSTIC (born 29 January 1984, Brooklyn, New York, USA) is an American Professional Boxer that is now residing in Auckland, New Zealand. Bostic is a former OPBF Light Heavyweight Champion and was ranked in the WBC after defeating WBC 13th ranked Japanese boxer Yuzo Kiyota.[1]

@@ -7,7 +7,7 @@ Though not the first fictional detective, Sherlock Holmes is arguably the best k
 
 Inspiration for the character
 
-Arthur_Conan_Doyle_by_Walter_Benington,_1914.png (1859–1930), Sherlock Holmes' creator, in 1914]]
+(1859–1930), Sherlock Holmes' creator, in 1914]]
 
 Edgar Allan Poe's C. Auguste Dupin is generally acknowledged as the first detective in fiction and served as the prototype for many later characters, including Holmes.[6] Conan Doyle once wrote, "Each [of Poe's detective stories] is a root from which a whole literature has developed... Where was the detective story until Poe breathed the breath of life into it?"[7] Similarly, the stories of Émile Gaboriau's Monsieur Lecoq were extremely popular at the time Conan Doyle began writing Holmes, and Holmes' speech and behaviour sometimes follow that of Lecoq.[8] Holmes and Watson discuss Dupin and Lecoq at the beginning of _A Study in Scarlet_.
 
@@ -20,7 +20,7 @@ Fictional character biography
 
 Family and early life
 
-A_Study_in_Scarlet_from_Beeton's_Christmas_Annual_1887.jpg'' issue which contains Holmes's first appearance in 1887 (_A Study in_ _Scarlet_)]]
+'' issue which contains Holmes's first appearance in 1887 (_A Study in_ _Scarlet_)]]
 
 Details about Sherlock Holmes' life are scarce in Conan Doyle's stories. Nevertheless, mentions of his early life and extended family paint a loose biographical picture of the detective.
 
@@ -32,7 +32,7 @@ The two take lodgings at 221B Baker Street, London, an apartment at the upper (n
 
 Life with Watson
 
-strand_paget.jpg illustration for "The Adventure of Silver Blaze"]]
+illustration for "The Adventure of Silver Blaze"]]
 
 Holmes worked as a detective for twenty-three years, with physician John Watson assisting him for seventeen.[21] They were roommates before Watson's 1888 marriage and again after his wife's death. Their residence is maintained by their landlady, Mrs. Hudson. Most of the stories are frame narratives, written from Watson's point of view as summaries of the detective's most interesting cases. Holmes frequently calls Watson's writing sensational and populist, suggesting that it fails to accurately and objectively report the "science" of his craft:
 
@@ -44,9 +44,9 @@ Holmes' clients vary from the most powerful monarchs and governments of Europe, 
 
 The Great Hiatus
 
-Sherlock_Holmes_and_Professor_Moriarty_at_the_Reichenbach_Falls.jpg; drawing by Sidney Paget]] The first set of Holmes stories was published between 1887 and 1893. Wishing to devote more time to his historical novels, Conan Doyle killed off Holmes in a final battle with the criminal mastermind Professor James Moriarty in "The Final Problem" (published 1893, but set in 1891). Legend has it that Londoners were so distraught upon hearing the news of Holmes' death that they wore black armbands in mourning. However, there is no known contemporary source for this; the earliest known reference to such events comes from 1949.[31]
+; drawing by Sidney Paget]] The first set of Holmes stories was published between 1887 and 1893. Wishing to devote more time to his historical novels, Conan Doyle killed off Holmes in a final battle with the criminal mastermind Professor James Moriarty in "The Final Problem" (published 1893, but set in 1891). Legend has it that Londoners were so distraught upon hearing the news of Holmes' death that they wore black armbands in mourning. However, there is no known contemporary source for this; the earliest known reference to such events comes from 1949.[31]
 
-After resisting public pressure for eight years, Conan Doyle wrote _The Hound of the Baskervilles_ (serialised in 1901–02, with an implicit setting before Holmes's death). In 1903, Conan Doyle wrote "The Adventure of the Empty House", set in 1894; Holmes reappears, explaining to a stunned Watson that he had faked his death to fool his enemies. "The Adventure of the Empty House" marks the beginning of the second set of stories, which Conan Doyle wrote until 1927.Sherlock_Holmes_blue_plaque_in_East_Dean.jpg in East Dean]]Holmes aficionados refer to the period from 1891 to 1894—between his disappearance and presumed death in "The Final Problem" and his reappearance in "The Adventure of the Empty House"—as the Great Hiatus. The earliest known use of this expression is in the article "Sherlock Holmes and the Great Hiatus" by Edgar W. Smith, published in the July 1946 issue of _The Baker Street Journal_.[32]
+After resisting public pressure for eight years, Conan Doyle wrote _The Hound of the Baskervilles_ (serialised in 1901–02, with an implicit setting before Holmes's death). In 1903, Conan Doyle wrote "The Adventure of the Empty House", set in 1894; Holmes reappears, explaining to a stunned Watson that he had faked his death to fool his enemies. "The Adventure of the Empty House" marks the beginning of the second set of stories, which Conan Doyle wrote until 1927. in East Dean]]Holmes aficionados refer to the period from 1891 to 1894—between his disappearance and presumed death in "The Final Problem" and his reappearance in "The Adventure of the Empty House"—as the Great Hiatus. The earliest known use of this expression is in the article "Sherlock Holmes and the Great Hiatus" by Edgar W. Smith, published in the July 1946 issue of _The Baker Street Journal_.[32]
 
 Retirement
 
@@ -55,11 +55,11 @@ In "His Last Bow", Holmes has retired to a small farm on the Sussex Downs and ta
 
 Personality and habits
 
-Gold-01.jpg Watson describes Holmes as "bohemian" in his habits and lifestyle. Described by Watson in _The Hound of the Baskervilles_ as having a "cat-like" love of personal cleanliness, Holmes is an eccentric with no regard for contemporary standards of tidiness or good order. In many of the stories, Holmes dives into an apparent mess to find a relevant item. In "The Adventure of the Musgrave Ritual", Watson says:
+Watson describes Holmes as "bohemian" in his habits and lifestyle. Described by Watson in _The Hound of the Baskervilles_ as having a "cat-like" love of personal cleanliness, Holmes is an eccentric with no regard for contemporary standards of tidiness or good order. In many of the stories, Holmes dives into an apparent mess to find a relevant item. In "The Adventure of the Musgrave Ritual", Watson says:
 
 The detective starves himself at times of intense intellectual activity, such as during "The Adventure of the Norwood Builder"—wherein, according to Watson:
 
-SidneyEdwardPaget.jpg, whose illustrations in _The Strand Magazine_ iconicised Holmes and Watson]] While the detective is usually dispassionate and cold, during an investigation he is animated and excitable. He has a flair for showmanship, preparing elaborate traps to capture and expose a culprit (often to impress observers).[33] His companion condones the detective's willingness to bend the truth (or break the law) on behalf of a client—lying to the police, concealing evidence or breaking into houses—when he feels it morally justifiable,[34] but condemns Holmes' manipulation of innocent people in "The Adventure of Charles Augustus Milverton". Holmes derives pleasure from baffling police inspectors with his deductions and has supreme confidence—bordering on arrogance—in his intellectual abilities. While the detective does not actively seek fame and is usually content to let the police take public credit for his work,[35] he is pleased when his skills are recognised and responds to flattery.
+, whose illustrations in _The Strand Magazine_ iconicised Holmes and Watson]] While the detective is usually dispassionate and cold, during an investigation he is animated and excitable. He has a flair for showmanship, preparing elaborate traps to capture and expose a culprit (often to impress observers).[33] His companion condones the detective's willingness to bend the truth (or break the law) on behalf of a client—lying to the police, concealing evidence or breaking into houses—when he feels it morally justifiable,[34] but condemns Holmes' manipulation of innocent people in "The Adventure of Charles Augustus Milverton". Holmes derives pleasure from baffling police inspectors with his deductions and has supreme confidence—bordering on arrogance—in his intellectual abilities. While the detective does not actively seek fame and is usually content to let the police take public credit for his work,[35] he is pleased when his skills are recognised and responds to flattery.
 
 Except for that of Watson, Holmes avoids casual company. In "The Adventure of the _Gloria Scott_", he tells the doctor that during two years at college he made only one friend: "I was never a very sociable fellow, Watson ... I never mixed much with the men of my year". The detective is similarly described in _A Study in Scarlet_.
 
@@ -67,7 +67,7 @@ As shooting practice during a period of boredom, Holmes decorates the wall of hi
 
 Drug use
 
-Sherlock_Holmes_-_The_Man_with_the_Twisted_Lip_(colored).jpg'' portrait of Holmes for "The Man with the Twisted Lip"]] Holmes occasionally uses addictive drugs, especially in the absence of stimulating cases. He uses cocaine, which he injects in a seven-percent solution with a syringe kept in a Morocco leather case. Although Holmes also dabbles in morphine, he expresses strong disapproval when he visits an opium den; both drugs were legal in 19th-century England. As a physician, Watson strongly disapproves of his friend's cocaine habit, describing it as the detective's "only vice", and concerned about its effect on Holmes's mental health and intellect.[37][38] In "The Adventure of the Missing Three-Quarter", Watson says that although he has "weaned" Holmes from drugs, the detective remains an addict whose habit is "not dead, but merely sleeping".
+'' portrait of Holmes for "The Man with the Twisted Lip"]] Holmes occasionally uses addictive drugs, especially in the absence of stimulating cases. He uses cocaine, which he injects in a seven-percent solution with a syringe kept in a Morocco leather case. Although Holmes also dabbles in morphine, he expresses strong disapproval when he visits an opium den; both drugs were legal in 19th-century England. As a physician, Watson strongly disapproves of his friend's cocaine habit, describing it as the detective's "only vice", and concerned about its effect on Holmes's mental health and intellect.[37][38] In "The Adventure of the Missing Three-Quarter", Watson says that although he has "weaned" Holmes from drugs, the detective remains an addict whose habit is "not dead, but merely sleeping".
 
 Watson and Holmes both use tobacco, smoking cigarettes, cigars, and pipes. Although his chronicler does not consider Holmes's smoking a vice _per se_, Watson—a physician—occasionally criticises the detective for creating a "poisonous atmosphere" in their confined quarters.[39]
 
@@ -106,8 +106,6 @@ Maria Konnikova points out in an interview with D. J. Grothe that Holmes practic
 
 Holmesian deduction
 
-Abbe-03.jpg
-
 Though the stories always refer to Holmes' intellectual detection methodology as "deduction", he primarily relies on abduction: inferring an explanation for observed details.[49][50][51] "From a drop of water", he writes, "a logician could infer the possibility of an Atlantic or a Niagara without having seen or heard of one or the other".[52]
 
 In "A Scandal in Bohemia", Holmes infers that Watson had got wet lately and had "a most clumsy and careless servant girl". When Watson asks how Holmes knows this, the detective answers:
@@ -121,8 +119,6 @@ Holmes does employ deductive reasoning as well. The detective's guiding principl
 Despite Holmes' remarkable reasoning abilities, Conan Doyle still paints him as fallible in this regard (this being a central theme of "The Adventure of the Yellow Face").[58]
 
 Forensic science
-
-Mikroskop-seibert_hg.jpg
 
 Though Holmes is famed for his reasoning capabilities, his investigative technique relies heavily on the acquisition of hard evidence. Many of the techniques he employs in the stories were at the time in their infancy (for example, Scotland Yard's fingerprint bureau opened in 1901).
 
@@ -139,8 +135,6 @@ Agents
 Until Watson's arrival at Baker Street Holmes largely worked alone, only occasionally employing agents from the city's underclass; these agents included a variety of informants, such as Langdale Pike, a “human book of reference upon all matters of social scandal”,[60] and Shinwell Johnson, who acted as Holmes’ “agent in the huge criminal underworld of London...”.[61] The most well known of Holmes' agents are a group of street children he called "the Baker Street Irregulars".
 
 Combat
-
-British_Army_Mark_III_Model_of_1872.JPG
 
 Pistols
 
@@ -175,7 +169,7 @@ The exact phrase, as well as close variants, can be seen in newspaper and journa
 
 The Great Game
 
-221B_Baker_Street.JPEG's view of 221B Baker Street]]
+'s view of 221B Baker Street]]
 
 Conan Doyle's 56 short stories and four novels are known as the "canon" by Holmes aficionados. Early canonical scholars included Ronald Knox in Britain[77] and Christopher Morley in New York.[78] Morley founded The Baker Street Irregulars—the first society devoted to the Holmes canon—in 1934.[79]
 
@@ -187,7 +181,7 @@ Holmes's emotional and mental health have long been subjects of analysis in the 
 
 Societies
 
-Statue_of_Sherlock_Holmes_in_Edinburgh.jpg and a deerstalker cap on Picardy Place in Edinburgh (Conan Doyle's birthplace)]] In 1934, the Sherlock Holmes Society (in London) and the Baker Street Irregulars (in New York) were founded. Both are still active, although the Sherlock Holmes Society was dissolved in 1937 and revived in 1951. The London society is one of many worldwide who arrange visits to the scenes of Holmes adventures, such as the Reichenbach Falls in the Swiss Alps.
+and a deerstalker cap on Picardy Place in Edinburgh (Conan Doyle's birthplace)]] In 1934, the Sherlock Holmes Society (in London) and the Baker Street Irregulars (in New York) were founded. Both are still active, although the Sherlock Holmes Society was dissolved in 1937 and revived in 1951. The London society is one of many worldwide who arrange visits to the scenes of Holmes adventures, such as the Reichenbach Falls in the Swiss Alps.
 
 The two societies founded in 1934 were followed by many more, first in the U.S. (where they are known as "scion societies"—offshoots—of the Baker Street Irregulars) and then in England and Denmark. There are at least 250 societies worldwide, including Australia, Canada (The Bootmakers of Toronto), India, and Japan (whose society has 80,000 members).[87] Fans tend to be called "Holmesians" in Britain and "Sherlockians" in the United States, though recently "Sherlockian" has also come to refer to fans of the Benedict Cumberbatch-led BBC series regardless of location.[88][89][90][91]
 
@@ -228,25 +222,25 @@ There have been a host of scholarly works dealing with Sherlock Holmes, some wor
 
 Adaptations in other media
 
-Charles_Frohman_presents_William_Gillette_in_his_new_four_act_drama,_Sherlock_Holmes_(LOC_var_1364)_(edit).jpg'' by Conan Doyle and actor William Gillette|left]]
+'' by Conan Doyle and actor William Gillette|left]]
 
 _Guinness World Records_ has listed Holmes as the "most portrayed movie character",[104] with more than 70 actors playing the part in over 200 films. His first screen appearance was in the 1900 Mutoscope film, _Sherlock Holmes Baffled_.[105] The detective has appeared in many foreign-language versions, including a Russian miniseries broadcast in November 2013.[106] With 24 episodes per season, by the end of season two of _Elementary_ Jonny Lee Miller became the actor who had portrayed Sherlock Holmes the most in television and/or film beating Jeremy Brett with forty-one television episodes and Eille Norwood with forty-seven silent films.[107]
 
 William Gillette's 1899 play _Sherlock Holmes, or The Strange Case of Miss Faulkner_ was a synthesis of several Conan Doyle stories. In addition to its popularity, the play is significant because it, rather than the original stories, introduced one of the key visual qualities commonly associated with Holmes today: his calabash pipe.[108] The play also formed the basis for the Gillette's 1916 film, _Sherlock Holmes_. In his lifetime, Gillette performed as Holmes some 1,300 times. In the early 1900s, H. A. Saintsbury took over the role from Gillette for a tour of the play. Between this play and Conan Doyle's own stage adaptation of "The Adventure of the Speckled Band", Saintsbury portrayed Holmes over 1,000 times.[109]
 
-Rathbone_as_Holmes_-_F&R.png as Holmes]] Basil Rathbone played Holmes and Nigel Bruce played Watson in fourteen U.S. films (two for 20th Century Fox and a dozen for Universal Pictures) from 1939 to 1946, and in _The New Adventures of Sherlock Holmes_ on the Mutual radio network from 1939 to 1946 (before the role of Holmes passed to Tom Conway). While the Fox films were period pieces, the Universal films abandoned Victorian Britain and moved to a then-contemporary setting in which Holmes occasionally battled Nazis.
+as Holmes]] Basil Rathbone played Holmes and Nigel Bruce played Watson in fourteen U.S. films (two for 20th Century Fox and a dozen for Universal Pictures) from 1939 to 1946, and in _The New Adventures of Sherlock Holmes_ on the Mutual radio network from 1939 to 1946 (before the role of Holmes passed to Tom Conway). While the Fox films were period pieces, the Universal films abandoned Victorian Britain and moved to a then-contemporary setting in which Holmes occasionally battled Nazis.
 
 The 1984–85 Italian/Japanese anime series _Sherlock Hound_ adapted the Holmes stories for children, with its characters being anthropomorphic dogs. The series was co-directed by Hayao Miyazaki.[110]
 
 Between 1979 and 1986, Soviet television produced a series of five television films, _The Adventures of Sherlock Holmes and Dr. Watson_.[111] The series were split into eleven episodes and starred Vasily Livanov as Holmes and Vitaly Solomin as Watson. Livanov was appointed an Honorary Member of the Order of the British Empire[112] for a performance ambassador Anthony Brenton described as "one of the best I've ever seen".[113]
 
-Jeremy_Brett.jpg as Holmes in the TV series _Sherlock Holmes_ (1984)]] Jeremy Brett played the detective in seven series of _Sherlock Holmes_ for Britain's Granada Television from 1984 to 1994. Watson was played by David Burke (in the first two series) and Edward Hardwicke (in the remainder). Brett and Hardwicke also appeared on stage in 1988–89 in _The Secret of Sherlock Holmes_, directed by Patrick Garland.[114]
+as Holmes in the TV series _Sherlock Holmes_ (1984)]] Jeremy Brett played the detective in seven series of _Sherlock Holmes_ for Britain's Granada Television from 1984 to 1994. Watson was played by David Burke (in the first two series) and Edward Hardwicke (in the remainder). Brett and Hardwicke also appeared on stage in 1988–89 in _The Secret of Sherlock Holmes_, directed by Patrick Garland.[114]
 
 Bert Coules penned _The Further Adventures of Sherlock Holmes_[115] starring Clive Merrison as Holmes and Michael Williams/Andrew Sachs as Watson,[116] based on throwaway references in Conan Doyle's short stories and novels.[117] He also produced original scripts for this series, which was also issued on CD.[118] Coules had previously dramatised the entire Holmes canon for BBC Radio Four.[119][120]
 
 The 2009 film _Sherlock Holmes_ earned Robert Downey Jr. a Golden Globe Award for his portrayal of Holmes and co-starred Jude Law as Watson.[121] Downey and Law returned for a 2011 sequel, _Sherlock Holmes: A Game of Shadows_. In March 2019 a release date of 21 December 2021 was set for the third film in the series.[122]
 
-Benedict_Cumberbatch_filming_Sherlock_cropped.jpg as Holmes in _Sherlock_]] Benedict Cumberbatch plays a modern version of the detective (with Martin Freeman as John Watson) in the BBC One TV series _Sherlock_, which premiered in 2010. In the series, created by Mark Gatiss and Steven Moffat, the stories' original Victorian setting is replaced by present-day London. Cumberbatch's Holmes uses modern technology (including texting and blogging) to help solve crimes.[123] Similarly, _Elementary_ premiered on CBS in 2012. Set in contemporary New York, the series features Jonny Lee Miller as Sherlock Holmes and Lucy Liu as a female Dr. Joan Watson.[124]
+as Holmes in _Sherlock_]] Benedict Cumberbatch plays a modern version of the detective (with Martin Freeman as John Watson) in the BBC One TV series _Sherlock_, which premiered in 2010. In the series, created by Mark Gatiss and Steven Moffat, the stories' original Victorian setting is replaced by present-day London. Cumberbatch's Holmes uses modern technology (including texting and blogging) to help solve crimes.[123] Similarly, _Elementary_ premiered on CBS in 2012. Set in contemporary New York, the series features Jonny Lee Miller as Sherlock Holmes and Lucy Liu as a female Dr. Joan Watson.[124]
 
 The 2015 film _Mr. Holmes_ starred Ian McKellen as a retired Sherlock Holmes living in Sussex, in 1947, who grapples with an unsolved case involving a beautiful woman. The film is based on Mitch Cullin's 2005 novel _A Slight Trick of the Mind_.[125][126]
 

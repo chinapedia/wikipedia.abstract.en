@@ -1,1 +1,0 @@
-ANSELME SELOSSE is a Champagne producer and grower based in the Avize region of Champagne, France.[1] He is the son of Jacques Selosse and is part of the fourth generation of his family to grow wine.[2][3]

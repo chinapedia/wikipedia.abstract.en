@@ -1,1 +1,0 @@
-IMALKA MENDIS (born 21 September 1993) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against Australia on 18 September 2016.[2] She made her Women's Twenty20 International cricket (WT20I) debut for Sri Lanka Women against Pakistan Women on 28 March 2018.[3]

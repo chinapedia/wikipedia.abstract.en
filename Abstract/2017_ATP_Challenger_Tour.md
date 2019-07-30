@@ -1,1 +1,0 @@
-The Association of Tennis Professionals (ATP) Challenger Tour, in 2017, was the secondary men's professional tennis circuit organized by the ATP. The 2017 ATP CHALLENGER TOUR calendar comprises 155 tournaments, with prize money ranging from $50,000 up to $150,000. It was the 40th edition of the challenger tournaments cycle, and 9th under the name of Challenger Tour.

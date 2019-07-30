@@ -1,1 +1,0 @@
-The PASSAIC STREET BRIDGE is a vehicular bridge crossing the Passaic River in Passaic and Garfield, New Jersey. The girder bridge was built in 1898 and is the third to span the river at that point.[1][2] It is considered eligible for listing on the New Jersey Register of Historic Places National Register of Historic Places.[3]

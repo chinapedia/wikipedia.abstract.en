@@ -1,1 +1,0 @@
-_SINGING BATTLE_ () is a 2016 South Korean television program hosted by Hyun Woo. It began to air on KBS2 every Fridays at 20:30 (KST) starting October 21, 2016.[1] Season 1's last episode was broadcast on May 19, 2017.[2][3]

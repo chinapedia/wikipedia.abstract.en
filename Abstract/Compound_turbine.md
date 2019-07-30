@@ -1,1 +1,0 @@
-A COMPOUND TURBINE is a steam turbine in which there are two casings, a high-pressure casing and a low-pressure casing, operating in concert to extract work from a single source of steam. The steam is partially expanded in the high-pressure casing, then exhausted to the low-pressure casing.

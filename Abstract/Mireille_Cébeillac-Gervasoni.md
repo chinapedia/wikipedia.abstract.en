@@ -1,1 +1,0 @@
-MIREILLE CÉBEILLAC-GERVASONI (7 April 1942 – 29 March 2017) was a French director of research at the CNRS in Paris. She was a specialist of Latin epigraphy and Republican and Imperial Roman history who published numerous research on the ruling local elites of the Roman Republic and early Roman Empire. She also devoted much time on the history and epigraphy of Ostia Antica.

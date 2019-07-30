@@ -1,1 +1,0 @@
-SHAHID ILYAS (born 25 September 1992) is a Pakistani cricketer.[1] He made his first-class debut for Pakistan International Airlines in the 2016–17 Quaid-e-Azam Trophy on 1 October 2016.[2] Prior to his debut, he was part of Pakistan's squad for the 2012 Under-19 Cricket World Cup.[3]

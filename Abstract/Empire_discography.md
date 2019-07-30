@@ -1,1 +1,0 @@
-The _Empire_ cast has released 4 soundtrack albums, twelve extended plays (EPs), and 29 singles. _Empire_ features on-screen performance-based musical numbers, which are original songs of popular songs, with genres ranging from R&B to pop and Rap & Hip-Hop.

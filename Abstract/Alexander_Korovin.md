@@ -1,1 +1,0 @@
-ALEXANDER SERGEYEVICH KOROVIN (, born 15 February 1994) is a Russian pair skater. With his skating partner, Alisa Efimova, he is the 2018 Skate America silver medalist, 2018 CS Nebelhorn Trophy and 2018 CS Golden Spin of Zagreb champion and a two-time CS Tallinn Trophy silver medalist (2016, 2017).

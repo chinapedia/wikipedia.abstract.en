@@ -1,1 +1,0 @@
-WOODBURY TOWN HALL is center of town government of Woodbury, Vermont. It is located on the west side of Vermont Route 14 in the town's village center. Built in 1842, it is a well-preserved example of a vernacular Greek Revival municipal building. It was listed on the National Register of Historic Places in 1995.[1]

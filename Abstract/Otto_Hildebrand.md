@@ -1,1 +1,0 @@
-OTTO HILDEBRAND (15 November 1858, in Bern – 18 October 1927, in Berlin) was a German pathologist and surgeon. He was the son of economist Bruno Hildebrand (1812–1878) and the brother of sculptor Adolf von Hildebrand (1847–1921).

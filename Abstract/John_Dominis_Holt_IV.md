@@ -1,1 +1,0 @@
-JOHN DOMINIS HOLT IV (June 4, 1919 – March 29, 1993) was a Native Hawaiian writer, poet and cultural historian. In 1979, he was recognized as a Living Treasures of Hawaiʻi for his contribution to the Hawaiian Renaissance.

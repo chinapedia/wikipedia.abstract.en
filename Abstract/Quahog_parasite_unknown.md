@@ -1,1 +1,0 @@
-LittleNeck_clams_USDA96c1862.jpg

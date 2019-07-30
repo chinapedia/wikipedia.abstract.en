@@ -1,1 +1,0 @@
-| area_footnotes = | area_total_km2 = | area_total_sq_mi = | area_rank = Ranked {{Scottish council populations | population_footnotes = | population_total = | population_as_of = | population_rank = [[List_of_Scottish_council_areas_by_population|Ranked

@@ -9,11 +9,11 @@ Seven Names of God
 
 The seven names of God that, once written, cannot be erased because of their holiness[5] are the Tetragrammaton, El, Elohim, Eloah, Elohai, El Shaddai, and Tzevaot.[6] In addition, the name Jah—because it forms part of the Tetragrammaton—is similarly protected.[7] Rabbi Jose considered "Tzevaot" a common name[8] and Rabbi Ishmael that "Elohim" was.[9] All other names, such as "Merciful", "Gracious" and "Faithful", merely represent attributes that are also common to human beings.[10]
 
-Tetragrammaton_benediction.png silver scrolls with the Priestly Blessing from the Book of Numbers[11] ( ).]]
+silver scrolls with the Priestly Blessing from the Book of Numbers[11] ( ).]]
 
 YHWH
 
-Tetragrammaton_scripts.svg}} (  – 500 ), Aramaic (  – 200 ), and modern Hebrew scripts.]] Tehilim_scroll.png can be clearly seen six times in this portion.]] The name of God used most often in the Hebrew Bible is YHWH (), also known as the Tetragrammaton (Greek for "four-letter [word]"). Hebrew is an abjad, so the word's letters Yōd, Hē, Vav, Hē are usually taken for consonants and expanded to Yahweh in English.
+}} (  – 500 ), Aramaic (  – 200 ), and modern Hebrew scripts.]] can be clearly seen six times in this portion.]] The name of God used most often in the Hebrew Bible is YHWH (), also known as the Tetragrammaton (Greek for "four-letter [word]"). Hebrew is an abjad, so the word's letters Yōd, Hē, Vav, Hē are usually taken for consonants and expanded to Yahweh in English.
 
 In modern Jewish culture, it is accepted as forbidden to pronounce the name the way that it is spelled. In prayers it is pronounced Adonai, and in discussion is usually said as HaShem, meaning “The Name”. The exact pronunciation is uncertain because—although there is nothing in the Torah to prohibit the saying of the name[12] and Ruth shows it was being pronounced as late as the 5th century [13]—it had ceased to be spoken aloud by at least the 3rd century  during Second Temple Judaism[14] and vowel points were not written until the early medieval period. The Masoretic Text uses vowel points of Adonai or Elohim (depending on the context) marking the pronunciation as _Yəhōwāh_ (, ); however, scholarly consensus is that this is not the original pronunciation.[15] (For a discussion of subtle pronunciation changes between what is preserved in the Hebrew Scriptures and what is read, see Qere and Ketiv.)
 
@@ -68,7 +68,7 @@ Other names and titles
 
 Adonai
 
-Shefa_Tal.png with Adonai inscribed.]] Adonai (,  "My Lords") is the plural form of _adon_ ("Lord") along with the first-person singular pronoun enclitic. As with Elohim, Adonai's grammatical form is usually explained as a plural of majesty. In the Hebrew Bible, it is nearly always used to refer to God (approximately 450 occurrences). As pronunciation of the Tetragrammaton came to be avoided in the Hellenistic period, Jews may have begun to drop the Tetragrammaton when presented alongside Adonai and subsequently expand it to cover for the Tetragrammaton in the forms of spoken prayer and written scripture. Owing to the expansion of _chumra_ (the idea of "building a fence around the Torah"), Adonai itself has come to be too holy to say for Orthodox Jews, leading to its replacement by HaShem ("The Name").
+with Adonai inscribed.]] Adonai (,  "My Lords") is the plural form of _adon_ ("Lord") along with the first-person singular pronoun enclitic. As with Elohim, Adonai's grammatical form is usually explained as a plural of majesty. In the Hebrew Bible, it is nearly always used to refer to God (approximately 450 occurrences). As pronunciation of the Tetragrammaton came to be avoided in the Hellenistic period, Jews may have begun to drop the Tetragrammaton when presented alongside Adonai and subsequently expand it to cover for the Tetragrammaton in the forms of spoken prayer and written scripture. Owing to the expansion of _chumra_ (the idea of "building a fence around the Torah"), Adonai itself has come to be too holy to say for Orthodox Jews, leading to its replacement by HaShem ("The Name").
 
 The singular forms adon and adoni ("my lord") are used in the Hebrew Bible as royal titles,[41][42] as in the First Book of Samuel,[43] and for distinguished persons. The Phoenicians used it as a title of Tammuz, the origin of the Greek Adonis. It is also used very occasionally in Hebrew texts to refer to God (e.g. Ps 136:3.)[44]
 
@@ -188,7 +188,7 @@ _Rabb al-‘Alamin_.
 
 Writing divine names
 
-Polyglot_Psalter.png. Manuscript on parchment, 12th century.]] In Jewish tradition the sacredness of the divine name or titles must be recognized by the professional _sofer_ (scribe) who writes Torah scrolls, or tefillin and mezuzah. Before transcribing any of the divine titles or name he prepares mentally to sanctify them. Once he begins a name he does not stop until it is finished, and he must not be interrupted while writing it, even to greet a king. If an error is made in writing it may not be erased, but a line must be drawn round it to show that it is canceled, and the whole page must be put in a _genizah_ (burial place for scripture) and a new page begun.
+. Manuscript on parchment, 12th century.]] In Jewish tradition the sacredness of the divine name or titles must be recognized by the professional _sofer_ (scribe) who writes Torah scrolls, or tefillin and mezuzah. Before transcribing any of the divine titles or name he prepares mentally to sanctify them. Once he begins a name he does not stop until it is finished, and he must not be interrupted while writing it, even to greet a king. If an error is made in writing it may not be erased, but a line must be drawn round it to show that it is canceled, and the whole page must be put in a _genizah_ (burial place for scripture) and a new page begun.
 
 
 Kabbalistic use

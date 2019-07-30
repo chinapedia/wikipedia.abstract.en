@@ -1,1 +1,0 @@
-HANS MEISER (16 February 1881, Nuremberg - 8 June 1956, Munich) was a German Protestant theologian, pastor and from 1933 to 1955 the first 'Landesbischof' of the Evangelical Lutheran Church in Bavaria.

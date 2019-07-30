@@ -1,1 +1,0 @@
-JEFFREY ALAN FAGAN (born December 17, 1946) is the Isidor and Seville Sulzbacher Professor of Law at Columbia Law School. He is also the director of that institution's Center for Crime, Community and Law, and a professor of epidemiology at the Mailman School of Public Health.

@@ -1,1 +1,0 @@
-Saint-Jean_de_Wissembourg_seen_through_gardens.jpg ST. JOHN'S CHURCH (French _Église Saint-Jean-l'Évangéliste_, German _Johanneskirche_) is a Historical Monument in the city of Wissembourg in northeastern France.

@@ -1,1 +1,0 @@
-A FECAL PLUG (occasionally known as a _tappen_) is a large mass of hardened feces produced by a bear during its winter hibernation. The plug forms in the colon, and consists of a variety of materials ingested by the bear during and immediately before hibernating.[1]

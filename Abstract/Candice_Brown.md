@@ -1,1 +1,0 @@
-CANDICE BROWN (born 21 December 1984) is a British reality television personality. She is most known as the winner of the seventh series of _The Great British Bake Off_;[1] in her victory speech she attributed her success to starting baking at four years old.[2]

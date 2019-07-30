@@ -1,1 +1,0 @@
-_HITLER’S BANDIT HUNTERS: THE SS AND THE NAZI OCCUPATION OF EUROPE_ is a 2006 book by the British author and researcher Philip W. Blood. It discusses the evolution of German rear security policies during World War II, from _Partisanenkreig_ (partisan warfare) to _Bandenbekämpfung_ (bandit fighting), leading to mass crimes against humanity and genocide.

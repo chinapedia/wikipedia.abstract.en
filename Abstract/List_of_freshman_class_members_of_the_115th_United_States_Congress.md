@@ -1,1 +1,0 @@
-115th_Congress_Freshman_Class.png The 115th United States Congress began on January 3, 2017. There were seven new senators (five Democrats, two Republicans) and 52 new representatives (25 Democrats, 27 Republicans) at the start of its first session.

@@ -1,1 +1,0 @@
-JACK LAURENCE CHALKER (December 17, 1944 – February 11, 2005) was an American science fiction author. Chalker was also a Baltimore City Schools history teacher in Maryland for 12 years, retiring during 1978 to write full-time. He also was a member of the Washington Science Fiction Association and was involved in the founding of the Baltimore Science Fiction Society.

@@ -1,1 +1,0 @@
-SACANDAGA LAKE (sa-kuhn-DAH-ga) is a lake in the Town of Lake Pleasant in Hamilton County, New York approximately west of Speculator.[1][2][3]The outlet is a channel that leads to Lake Pleasant, which is the source of the Sacandaga River.

@@ -1,4 +1,4 @@
-Signal_processing_system.pngs convert signals from other physical waveforms to electric current or voltage waveforms, which then are processed, transmitted as electromagnetic waves, received and converted by another transducer to final form.]]
+s convert signals from other physical waveforms to electric current or voltage waveforms, which then are processed, transmitted as electromagnetic waves, received and converted by another transducer to final form.]]
 
 SIGNAL PROCESSING is an electrical engineering subfield that focuses on analysing, modifying and synthesizing signals such as sound, images and biological measurements.[1] Signal processing techniques can be used to improve transmission, storage efficiency and subjective quality and to also emphasize or detect components of interest in a measured signal.[2]
 
@@ -44,8 +44,6 @@ Statistical signal processing is an approach which treats signals as stochastic 
 
 
 Application fields
-
-Seismic_Data_Processing.jpg
 
 -   Audio signal processing for electrical signals representing sound, such as speech or music
 -   Speech signal processing for processing and interpreting spoken words

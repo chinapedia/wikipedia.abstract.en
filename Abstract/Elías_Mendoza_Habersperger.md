@@ -1,1 +1,0 @@
-Dr. ELÍAS MENDOZA HABERSPERGER (born August 9, 1933 in Lima) is a Peruvian lawyer, diplomat and politician, Chief Scout of Peru for the Asociación de Scouts del Perú who served as President of the InterAmerican Scout Council and a member of the World Scout Committee.

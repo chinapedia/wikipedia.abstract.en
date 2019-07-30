@@ -1,1 +1,0 @@
-MOORCREST is a house in Beachwood Canyon, Los Angeles, California, United States. It was built in 1921 for the utopian Krotona Colony in Beachwood Canyon and was designed by Marie Russak Hotchener, an architect who designed several buildings for the Theosophist community; Moorcrest is thought of as one of her most famous pieces.[1]

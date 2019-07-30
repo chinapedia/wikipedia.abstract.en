@@ -1,1 +1,0 @@
-Essex_Hall,_Essex_Street.JPG Essex_Street_&_Milford_Lane.jpg ESSEX STREET is a street in the City of Westminster that runs from Milford Lane in the south to Strand in the north. It is joined by LITTLE ESSEX STREET on its western side and Devereux Court on the eastern side. It was laid out by Nicholas Barbon in around 1675 or 1680 and contains a number of listed buildings.

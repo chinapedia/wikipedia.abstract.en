@@ -1,1 +1,0 @@
-The INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO; ) is a specialized agency of the United Nations. It codifies the principles and techniques of international air navigation and fosters the planning and development of international air transport to ensure safe and orderly growth.[1] Its headquarters is located in the _Quartier International_ of Montreal, Quebec, Canada.

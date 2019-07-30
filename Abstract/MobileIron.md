@@ -1,1 +1,0 @@
-MOBILEIRON INC. is an American software company specializing in security for mobile devices, apps, and cloud services, including enterprise mobility management (EMM) and mobile device management (MDM).

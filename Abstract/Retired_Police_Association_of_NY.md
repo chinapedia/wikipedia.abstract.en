@@ -1,1 +1,0 @@
-The RETIRED POLICE ASSOCIATION (RPA) of the state of New York, is an organization representing retired NY Police Officers. The RPA has now been in existence for over 65 years, with over 4700 members from over 150 police departments from across the state of New York.[1]

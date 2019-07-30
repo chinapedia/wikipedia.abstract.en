@@ -1,1 +1,0 @@
-CROSS OWNERSHIP is a method of reinforcing business relationships by owning stock in the companies with which a given company does business. Heavy cross ownership is referred to as circular ownership.

@@ -1,1 +1,0 @@
-DAVID M. LIVINGSTON is the Deputy Director of the Dana-Farber/Harvard Cancer Center, Emil Frei Professor of Genetics and Medicine at Harvard Medical School, Chairman of the Executive Committee for Research at Dana-Farber Cancer Institute.[1] Dr. Livingston joined the Harvard faculty in 1973.[2] His research focuses on breast and ovarian cancer.

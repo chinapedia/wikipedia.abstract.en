@@ -1,1 +1,0 @@
-Shriners.png

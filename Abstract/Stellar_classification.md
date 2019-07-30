@@ -1,1 +1,0 @@
-Dwarf_Stars.png

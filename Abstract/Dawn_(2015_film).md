@@ -1,1 +1,0 @@
-_DAWN_ () is a 2015 black-and-white Latvian drama film directed by Laila Pakalniņa about Pavlik Morozov, who denounced his father. It was selected as the Latvian entry for the Best Foreign Language Film at the 89th Academy Awards but it was not nominated.[1][2] It's a coproduction with Poland and Estonia.

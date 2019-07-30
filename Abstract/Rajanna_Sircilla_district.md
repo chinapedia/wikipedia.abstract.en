@@ -1,1 +1,0 @@
-Sircilla_District_Revenue_division.png RAJANNA SIRCILLA DISTRICT is a district in the Indian state of Telangana.[1] It was a part of the Karimnagar district prior to the re-organisation of districts in the state. Sircilla is the district headquarters.[2] It was formed on 11 Oct, 2016.

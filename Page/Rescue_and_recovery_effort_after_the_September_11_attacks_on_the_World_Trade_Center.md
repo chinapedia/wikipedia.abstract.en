@@ -1,4 +1,4 @@
-September_14_2001_Ground_Zero_01.jpg The local, state, federal and global reaction to the September 11 attacks on the World Trade Center was unprecedented. The equally unsurpassed events of that day elicited the largest response of local emergency and rescue personnel to assist in the evacuation of the two towers and also contributed to the largest loss of the same personnel when the towers collapsed. After the attacks, the media termed the World Trade Center site "Ground Zero", while rescue personnel referred to it as "the Pile".
+The local, state, federal and global reaction to the September 11 attacks on the World Trade Center was unprecedented. The equally unsurpassed events of that day elicited the largest response of local emergency and rescue personnel to assist in the evacuation of the two towers and also contributed to the largest loss of the same personnel when the towers collapsed. After the attacks, the media termed the World Trade Center site "Ground Zero", while rescue personnel referred to it as "the Pile".
 
 In the ensuing recovery and cleanup efforts, personnel related to metalwork and construction professions would descend on the site to offer their services and remained until the site was cleared in May 2002. In the years since, investigations and studies have examined effects upon those who participated, noting a variety of afflictions attributed to the debris and stress.
 
@@ -14,7 +14,7 @@ Emergency response
 
 Firefighters
 
-WTC-remnant_highres.jpg Firefighters from the New York City Fire Department rushed to the World Trade Center minutes after the first plane struck the north tower. Chief Joseph Pfeifer and his crew with Battalion 1 were among the first on the scene.[3] At 8:50 a.m., an Incident Command Post was established in the lobby of the North Tower. By 9:00 a.m., shortly before United Airlines Flight 175 hit the South Tower, the FDNY chief had arrived and took over command of the response operations. Due to falling debris and safety concerns, he moved the incident command center to a spot located across West Street, but numerous fire chiefs remained in the lobby which continued to serve as an operations post where alarms, elevators, communications systems, and other equipment were operated. The initial response by the FDNY was on rescue and evacuation of building occupants, which involved sending firefighters up to assist people that were trapped in elevators and elsewhere. Firefighters were also required to ensure all floors were completely evacuated.[4]
+Firefighters from the New York City Fire Department rushed to the World Trade Center minutes after the first plane struck the north tower. Chief Joseph Pfeifer and his crew with Battalion 1 were among the first on the scene.[3] At 8:50 a.m., an Incident Command Post was established in the lobby of the North Tower. By 9:00 a.m., shortly before United Airlines Flight 175 hit the South Tower, the FDNY chief had arrived and took over command of the response operations. Due to falling debris and safety concerns, he moved the incident command center to a spot located across West Street, but numerous fire chiefs remained in the lobby which continued to serve as an operations post where alarms, elevators, communications systems, and other equipment were operated. The initial response by the FDNY was on rescue and evacuation of building occupants, which involved sending firefighters up to assist people that were trapped in elevators and elsewhere. Firefighters were also required to ensure all floors were completely evacuated.[4]
 
 Numerous staging areas were set up near the World Trade Center, where responding fire units could report and get deployment instructions. However, many firefighters arrived at the World Trade Center without stopping at the staging areas. As a result, many chiefs could not keep track of the whereabouts of their units. Numerous firefighters reported directly to the building lobbies, and were ordered by those commanding the operating post to proceed into the building.[5]
 
@@ -36,7 +36,7 @@ Supplies, including equipment for airway and vascular control, were obtained fro
 
 Police
 
-September_11th_NYPD_TEMP_HQ_Burger_King_WTC_New_York_City.jpg The New York City Police Department quickly responded with the Emergency Service Units (ESU) and other responders after the crash of American Airlines Flight 11 into the North Tower.[17] The NYPD set up its incident command center at Church Street and Vesey Street, on the opposite side of the World Trade Center from where the FDNY was commanding its operations.[18] NYPD helicopters were soon at the scene, reporting on the status of the burning buildings. When the buildings collapsed, 23 NYPD officers were killed, along with 37 Port Authority Police Department officers. The NYPD helped facilitate the evacuation of civilians out of Lower Manhattan, including approximately 5,000 civilians evacuated by the Harbor Unit to Staten Island and to New Jersey.[19] In ensuing days, the police department worked alternating 12-hour shifts to help in the rescue and recovery efforts.[20]
+The New York City Police Department quickly responded with the Emergency Service Units (ESU) and other responders after the crash of American Airlines Flight 11 into the North Tower.[17] The NYPD set up its incident command center at Church Street and Vesey Street, on the opposite side of the World Trade Center from where the FDNY was commanding its operations.[18] NYPD helicopters were soon at the scene, reporting on the status of the burning buildings. When the buildings collapsed, 23 NYPD officers were killed, along with 37 Port Authority Police Department officers. The NYPD helped facilitate the evacuation of civilians out of Lower Manhattan, including approximately 5,000 civilians evacuated by the Harbor Unit to Staten Island and to New Jersey.[19] In ensuing days, the police department worked alternating 12-hour shifts to help in the rescue and recovery efforts.[20]
 
 Coast Guard, maritime industry, individual boat owners
 
@@ -66,7 +66,7 @@ Rescue efforts were paused numerous times in the days after the attack, due to c
 
 Recovery efforts
 
-FEMA_-_5401_-_Photograph_by_Andrea_Booher_taken_on_09-28-2001_in_New_York.jpg The search and rescue effort in the immediate aftermath at the World Trade Center site involved ironworkers, structural engineers, heavy machinery operators, asbestos workers, boilermakers, carpenters, cement masons, construction managers, electricians, insulation workers, machinists, plumbers and pipefitters, riggers, sheet metal workers, steelworkers, truckers and teamsters, American Red Cross volunteers, and many others.[39] Lower Manhattan, south of 14th Street, was off-limits, except for rescue and recovery workers.[40] There were also about 400 working dogs, the largest deployment of dogs in the nation's history.[41]
+The search and rescue effort in the immediate aftermath at the World Trade Center site involved ironworkers, structural engineers, heavy machinery operators, asbestos workers, boilermakers, carpenters, cement masons, construction managers, electricians, insulation workers, machinists, plumbers and pipefitters, riggers, sheet metal workers, steelworkers, truckers and teamsters, American Red Cross volunteers, and many others.[39] Lower Manhattan, south of 14th Street, was off-limits, except for rescue and recovery workers.[40] There were also about 400 working dogs, the largest deployment of dogs in the nation's history.[41]
 
 Organization
 
@@ -95,8 +95,6 @@ Numerous volunteers organized to form "bucket brigades", which passed 5-gallon b
 
 Reuse of steel
 
-Steel_from_WTC_for_USS_New_York.jpg
-
 Some of the steel was reused for memorials. New York City firefighters donated a cross made of steel from the World Trade Center to the Shanksville Volunteer Fire Company in Shanksville, Pennsylvania.[54] The beam, mounted atop a platform shaped like the Pentagon, was erected outside the Shanksville's firehouse near the crash site of United Airlines Flight 93.[55]
 
 Twenty-four tons of the steel used in construction of USS _New York_ (LPD-21) came from the small amount of rubble from the World Trade Center preserved for posterity.[56]
@@ -107,7 +105,7 @@ Hazards at the World Trade Center site included a diesel fuel tank buried seven 
 
 Morale
 
-Remarks_from_Ground_Zero_September_14,_2001.webm speaking at Ground Zero with Bob Beckwith beside him]] In the hours immediately after the attacks on the World Trade Center, three firefighters raised an American flag over the rubble. The flag was taken from a yacht, and the moment, which was captured on a well-known photograph, evoked comparisons to the iconic Iwo Jima photograph.[60][61] Morale of rescue workers was boosted on September 14, 2001 when President George W. Bush paid a visit to Ground Zero. Standing with retired firefighter Bob Beckwith, Bush addressed the firefighters and rescue workers with a bullhorn and thanked them.[62][63] Bush later remarked, "I'm shocked at the size of the devastation, It's hard to describe what it's like to see the gnarled steel and broken glass and twisted buildings silhouetted against the smoke. I said that this was the first act of war on America in the 21st century, and I was right, particularly having seen the scene."[64] After some workers shouted that they could not hear the President, Bush famously responded by saying "I can hear you! The rest of the world hears you. And the people who knocked these buildings down will hear all of us soon!"[65]
+speaking at Ground Zero with Bob Beckwith beside him]] In the hours immediately after the attacks on the World Trade Center, three firefighters raised an American flag over the rubble. The flag was taken from a yacht, and the moment, which was captured on a well-known photograph, evoked comparisons to the iconic Iwo Jima photograph.[60][61] Morale of rescue workers was boosted on September 14, 2001 when President George W. Bush paid a visit to Ground Zero. Standing with retired firefighter Bob Beckwith, Bush addressed the firefighters and rescue workers with a bullhorn and thanked them.[62][63] Bush later remarked, "I'm shocked at the size of the devastation, It's hard to describe what it's like to see the gnarled steel and broken glass and twisted buildings silhouetted against the smoke. I said that this was the first act of war on America in the 21st century, and I was right, particularly having seen the scene."[64] After some workers shouted that they could not hear the President, Bush famously responded by saying "I can hear you! The rest of the world hears you. And the people who knocked these buildings down will hear all of us soon!"[65]
 
 At some point, rescue workers realized that they were not going to find any more survivors. After a couple of weeks, the conditions at Ground Zero remained harsh, with lingering odors of decaying human remains and smoke. Morale among workers was boosted by letters they received from children around the United States and the world, as well as support from thousands of neighbors in TriBeCa and other Lower Manhattan neighborhoods.[66]
 
@@ -130,7 +128,7 @@ Immediately following the attacks, members of the Civil Air Patrol (CAP) were ca
 
 National Guard
 
-National_Guard_at_WTC.jpg standing at the World Trade Center site]] Elements of the New York Army National Guard's 1-101st Cavalry (Staten Island), 258th Field Artillery, 442nd Military Police Company, and 69th Infantry Regiment based in Manhattan were the first military force to secure Ground Zero on September 11th. The 69th Infantry's armory on Lexington Avenue became the Family Information Center to assist persons in locating missing family members.[71]
+standing at the World Trade Center site]] Elements of the New York Army National Guard's 1-101st Cavalry (Staten Island), 258th Field Artillery, 442nd Military Police Company, and 69th Infantry Regiment based in Manhattan were the first military force to secure Ground Zero on September 11th. The 69th Infantry's armory on Lexington Avenue became the Family Information Center to assist persons in locating missing family members.[71]
 
 The National Guard supplemented the NYPD and FDNY, with 2,250 guard members on the scene by the next morning.[72] Eventually thousands of New York Army and Air National Guardsmen participated in the rescue/recovery efforts. They conducted site security at the WTC, and at other locations. They provided the NYPD with support for traffic control, and they participated directly in recovery operations providing manpower in the form of "bucket brigades" sorting through the debris by hand.
 
@@ -142,7 +140,7 @@ The New Jersey National Guard assisted the New York National Guard's efforts fol
 
 U.S. Marine Corps
 
-Jason_Thomas.JPG standing at the site of the ruined World Trade Center, several days after the attacks]]
+standing at the site of the ruined World Trade Center, several days after the attacks]]
 
 U.S. Marines were also present to assist in the rescue efforts. No official numbers of men who helped out was released but there was evidence that they were there. Films such as 2006 docudrama _World Trade Center_ talked of two Marines who rescued two trapped police officers in the rubble. U.S. Marines were headquartered at 340 Westside Hwy Bloomberg News Building. The commanding officer was Navy Commander Hardy, and executive officer was Maj. Priester. These two oversaw 110 military personnel of various branches, various police departments and EMTs.
 
@@ -161,7 +159,7 @@ The local EPA office sidelined the regional EPA office. Dr. Cate Jenkins, a whis
 
 Health effects
 
-EPA_WTC_2001-10-10.jpg employee checks one of the many air sampling locations set up around the World Trade Center site.]]
+employee checks one of the many air sampling locations set up around the World Trade Center site.]]
 
 There were many health problems caused by the toxins. 99% of exposed firefighters reported at least one new respiratory problem while working at the World Trade Center site that they had not experienced before.[78] Chronic airway disease is the main lung injury among firefighters who were exposed to toxins during 9/11.[79] Six years after the attacks, among those who never smoked, approximately 13% of firefighters and 22% of EMS had lungs that did not function as well as others around the same age. Steep declines in pulmonary lung function has been a problem since first detected among firefighters and EMS within a year of 9/11 have persisted.[80] Increasing numbers of Ground Zero workers are getting illnesses, such as cancer. Between September 11, 2001, through 2008, there were 263 new cases of cancer found in 8,927 male firefighters who responded to 9/11 attacks. This number is 25 more than what is expected from men from a similar age group and race. There is a 19% increase in cancer overall, between firefighters who responded to the attacks and those who were not exposed to toxins from responding to the attacks on September 11.[81]
 

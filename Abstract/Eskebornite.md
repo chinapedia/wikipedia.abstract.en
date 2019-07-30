@@ -1,1 +1,0 @@
-ESKEBORNITE is a selenide mineral with the formula CuFeSe_(2.)[1][2] It crystallizes in the tetragonal system and it has a brassy colour. Eskebornite is sometimes found as thick tabular crystals, but is more often found intergrown with other selenides.[3] It is part of the chalcopyrite group and forms a series with chalcopyrite.[4]

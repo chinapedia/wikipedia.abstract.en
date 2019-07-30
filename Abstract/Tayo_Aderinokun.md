@@ -1,1 +1,0 @@
-OLUTAYO ADERINOKUN (May 8, 1955 – June 14, 2011) was a Nigerian entrepreneur who until his death was the CEO of Guaranty Trust Bank.[1][2] He was also a recipient of the Member of the Federal Republic, one of Nigeria's prestigious national awards.[3]

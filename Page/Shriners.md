@@ -1,5 +1,3 @@
-Shriners.png
-
 SHRINERS INTERNATIONAL, also commonly known as THE SHRINERS or formerly known as the ANCIENT ARABIC ORDER OF THE NOBLES OF THE MYSTIC SHRINE (AAONMS, anagram for A MASON), is a society established in 1870 and is headquartered in Tampa, Florida.[1]
 
 Shriners International describes itself as a fraternity based on fun, fellowship, and the Masonic principles of brotherly love, relief, and truth. There are approximately 350,000 members from 196 temples (chapters) in the U.S., Canada, Brazil, Bolivia, Mexico, the Republic of Panama, the Philippines, Puerto Rico, Europe, and Australia. The organization is best known for the Shriners Hospitals for Children that it administers, and the red fezzes that members wear.
@@ -11,11 +9,7 @@ History
 
 In 1870 there were several thousand Freemasons in Manhattan, many of whom lunched at the Knickerbocker Cottage at a special table on the second floor. There, the idea of a new fraternity for Masons, stressing fun and fellowship, was discussed. Walter M. Fleming, M.D., and William J. Florence took the idea seriously enough to act upon it.
 
-William_J_Conlin_-_Florence.jpg
-
 Florence, a world-renowned actor, while on tour in Marseille, was invited to a party given by an Arab diplomat. The entertainment was something in the nature of an elaborately staged musical comedy. At its conclusion, the guests became members of a secret society. Florence took copious notes and drawings at his initial viewing and on two other occasions, once in Algiers and once in Cairo. When he returned to New York in 1870, he showed his material to Fleming.[3]
-
-Dr_Walter_Millard_Fleming.jpg
 
 Fleming created the ritual, emblem and costumes. Florence and Fleming were initiated August 13, 1870, and they initiated 11 other men on June 16, 1871.[4]
 
@@ -36,7 +30,7 @@ In the past, Shriners have practiced hazing rituals as a part of initiating new 
 
 Women's auxiliaries
 
-News._Daughters_of_the_Nile_BAnQ_P48S1P16779.jpg in Montreal in 1948.]] While there are plenty of activities for Shriners, there are two organizations tied to the Shrine that are for women only: The Ladies' Oriental Shrine and the Daughters of the Nile. They both support the Shriners Hospitals and promote sociability, and membership in either organization is open to any woman 18 years of age and older who is related to a Shriner or Master Mason by birth or marriage.
+in Montreal in 1948.]] While there are plenty of activities for Shriners, there are two organizations tied to the Shrine that are for women only: The Ladies' Oriental Shrine and the Daughters of the Nile. They both support the Shriners Hospitals and promote sociability, and membership in either organization is open to any woman 18 years of age and older who is related to a Shriner or Master Mason by birth or marriage.
 
 The Ladies Oriental Shrine of North America was founded in 1903 in Wheeling, West Virginia,[10] and the Daughters of the Nile was founded in 1913 in Seattle, Washington.[11] The latter organization has locals called "Temples". There were ten of these in 1922. Among the famous members of the Daughters of the Nile was First Lady Florence Harding, wife of Warren G. Harding.[12]
 
@@ -87,16 +81,16 @@ In 2008, Shriners Hospitals had a total budget of $826 million. In 2007 they app
 
 Parade unit
 
-Shriner_syrian_corvette.jpg parade]] Most Shrine Temples support several parade units. These units are responsible for promoting a positive Shriner image to the public by participating in local parades. The parade units often include miniature cars powered by lawn mower engines.
+parade]] Most Shrine Temples support several parade units. These units are responsible for promoting a positive Shriner image to the public by participating in local parades. The parade units often include miniature cars powered by lawn mower engines.
 
-MoolahShrinerGateway500.JPGAn example of a Shrine parade unit is the Heart Shrine Clubs' Original Fire Patrol of Effingham, Illinois. This unit operates miniature fire engines, memorializing a hospital fire that took place in the 1940s in Effingham. They participate in most parades in a 100-mile radius of Effingham. Shriners in Dallas, Texas participate annually in the Twilight Parade at the Texas State Fair.
+An example of a Shrine parade unit is the Heart Shrine Clubs' Original Fire Patrol of Effingham, Illinois. This unit operates miniature fire engines, memorializing a hospital fire that took place in the 1940s in Effingham. They participate in most parades in a 100-mile radius of Effingham. Shriners in Dallas, Texas participate annually in the Twilight Parade at the Texas State Fair.
 
 Shriners in St. Louis have several parade motor units, including miniature cars styled after 1932 Ford coupes and 1970s-era Jeep CJ models, and a unit of miniature Indianapolis-styled race cars. Some of these are outfitted with high-performance, alcohol-fueled engines. The drivers' skills are demonstrated during parades with high-speed spinouts.
 
 
 Other events
 
-2016July4-Parade-19.jpg The Shriners are committed to community service and have been instrumental in countless public projects throughout their domain.
+The Shriners are committed to community service and have been instrumental in countless public projects throughout their domain.
 
 Shriners host the annual _East-West Shrine Game_, a college football all-star game.
 

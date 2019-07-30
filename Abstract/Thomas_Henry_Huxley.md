@@ -1,1 +1,0 @@
-THOMAS HENRY HUXLEY (4 May 1825 – 29 June 1895) was an English biologist and anthropologist specialising in comparative anatomy. He is known as "Darwin's Bulldog" for his advocacy of Charles Darwin's theory of evolution.[1]

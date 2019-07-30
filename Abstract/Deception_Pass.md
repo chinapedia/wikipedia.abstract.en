@@ -1,1 +1,0 @@
-DECEPTION PASS is a strait separating Whidbey Island from Fidalgo Island, in the northwest part of the U.S. state of Washington. It connects Skagit Bay, part of Puget Sound, with the Strait of Juan de Fuca. A pair of bridges known collectively as Deception Pass Bridge cross Deception Pass. The bridges were added to the National Register of Historic Places in 1982.

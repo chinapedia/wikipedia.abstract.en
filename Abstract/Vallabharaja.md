@@ -1,1 +1,0 @@
-VALLABHA-RAJA (r. c. 1008 CE) was an Indian king who ruled parts of present-day Gujarat. He was a member of the Chaulukya (also called Chalukya or Solanki) dynasty. He ruled for less than a year, and died of smallpox while marching against an enemy.

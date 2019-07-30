@@ -1,1 +1,0 @@
-PANCHALIMEDU is a hill station and view point near Kuttikkanam in Peerumedu tehsil of Idukki district in the Indian state of Kerala.[1] On the Makar Sankranti day, lots of Ayyappa devotees camps there to witness the sacred Makaravilakku (holy flame) that appears in the Ponnambalamedu near Sabarimala temple.[2]

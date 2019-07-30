@@ -1,1 +1,0 @@
-TURBULENZ is a video game development company based in the United Kingdom, and was focused on HTML5 game development. They created a HTML5 game engine also named Turbulenz. The company publishes third party video games as well as developing their own.

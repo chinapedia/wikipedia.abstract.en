@@ -1,1 +1,0 @@
-The 2017 KANSAS CITY ROYALS SEASON was the 49th season for the franchise, and their 45th at Kauffman Stadium. The Royals opened the season at the Minnesota Twins on April 3, 2017 and finished the season at home against the Arizona Diamondbacks on October 1. They failed to make the playoffs for the second consecutive season.

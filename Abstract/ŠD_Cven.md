@@ -1,1 +1,0 @@
-ŠPORTNO DRUŠTVO CVEN, commonly referred to as ŠD CVEN or simply CVEN, is a Slovenian football club that plays in the village of Cven. The club was established in 1993 and plays in the 1. MNL, the fifth tier of the Slovenian football pyramid.

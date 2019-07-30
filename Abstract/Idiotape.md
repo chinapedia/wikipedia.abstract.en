@@ -1,1 +1,0 @@
-IDIOTAPE is a South Korean electronic music band. They released their debut EP _0805_ in July 2010 and their first album _11111101_, a year later, which won "Best Dance & Electronic Album" at the 2012 Korean Music Awards.[1][2] They have performed at multiple music festivals at home and around the world.[3][4]

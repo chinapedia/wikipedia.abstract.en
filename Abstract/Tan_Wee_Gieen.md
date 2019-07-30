@@ -1,1 +1,0 @@
-TAN WEE GIEEN (born on 14 May 1994) is a Malaysian badminton player. He started playing badminton at home when he was 9 years old and influenced by his family.[1] His brothers, Tan Wee Kiong and Tan Wee Tat also a professional badminton players.[2]

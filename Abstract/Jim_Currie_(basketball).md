@@ -1,1 +1,0 @@
-JAMES ALEXANDER CURRIE (December 15, 1916 – November 16, 1987) was an American professional basketball player.[1][2] He played in the National Basketball League for the Hammond Ciesar All-Americans in 1939–40 and averaged 3.9 points per game.[3]

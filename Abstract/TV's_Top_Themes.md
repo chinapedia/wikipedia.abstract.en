@@ -1,1 +1,0 @@
-_TV'S TOP THEMES_ is an album by composer, arranger and conductor Pete Rugolo featuring performances of theme music from popular television programs recorded in 1962 and first released on the Mercury label.[1][2][3]

@@ -1,1 +1,0 @@
-BIJAY MISHRA (, ) born 16 July 1936) is a Dramatist, lyricist and screenwriter from India. He is also a mainstream script writer in Odia Cinema & TV Industry. He is a recipient of the State Sahitya Academy Award (1968, 1988),[1] Konark Samman (1994) as well as the Kendra Sangeet Natak Akademi Award and the Odisha Sahitya Akademi Award.[2]

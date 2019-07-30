@@ -1,1 +1,0 @@
-SIMON & GARFUNKEL were an American folk-rock duo consisting of singer-songwriter Paul Simon and singer Art Garfunkel. One of the best-selling music groups of the 1960s, their biggest hits—including "The Sound of Silence" (1965), "Mrs. Robinson" (1968), "The Boxer" (1969), and "Bridge over Troubled Water" (1970)—reached number one on singles charts worldwide.

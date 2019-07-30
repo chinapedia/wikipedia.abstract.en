@@ -105,7 +105,7 @@ Seizure activity may be propagated through the brain's endogenous electrical fie
 
 Diagnosis
 
-The_2017_ILAE_classification_of_seizure_types_and_the_epilepsies_what_do_people_with_epilepsy_and_their_caregivers_need_to_know?.pdf Seizures may be divided into provoked and unprovoked.[116] Provoked seizures may also be known as "acute symptomatic seizures" or "reactive seizures".[117] Uprovoked seizures may also be known as "reflex seizures".[118] Depending on the presumed cause blood tests and lumbar puncture may be useful.[119] Hypoglycemia may cause seizures and should be ruled out. An electroencephalogram and brain imaging with CT scan or MRI scan is recommended in the work-up of seizures not associated with a fever.[120][121]
+Seizures may be divided into provoked and unprovoked.[116] Provoked seizures may also be known as "acute symptomatic seizures" or "reactive seizures".[117] Uprovoked seizures may also be known as "reflex seizures".[118] Depending on the presumed cause blood tests and lumbar puncture may be useful.[119] Hypoglycemia may cause seizures and should be ruled out. An electroencephalogram and brain imaging with CT scan or MRI scan is recommended in the work-up of seizures not associated with a fever.[120][121]
 
 Classification
 
@@ -115,11 +115,11 @@ Focal seizures (previously called _partial seizures_[126]) are divided into simp
 
 Physical examination
 
-Bittentongue.JPG Most people are in a postictal state (drowsy or confused) following a seizure. They may show signs of other injuries. A bite mark on the side of the tongue helps confirm a seizure when present, but only a third of people who have had a seizure have such a bite.[129] When present in people thought to have had a seizure, this physical sign tentatively increases the likelihood that a seizure was the cause.[130]
+Most people are in a postictal state (drowsy or confused) following a seizure. They may show signs of other injuries. A bite mark on the side of the tongue helps confirm a seizure when present, but only a third of people who have had a seizure have such a bite.[129] When present in people thought to have had a seizure, this physical sign tentatively increases the likelihood that a seizure was the cause.[130]
 
 Tests
 
-EEG_Recording_Cap.jpg An electroencephalography is only recommended in those who likely had an epileptic seizure and may help determine the type of seizure or syndrome present. In children it is typically only needed after a second seizure. It cannot be used to rule out the diagnosis and may be falsely positive in those without the disease. In certain situations it may be useful to prefer the EEG while sleeping or sleep deprived.[131]
+An electroencephalography is only recommended in those who likely had an epileptic seizure and may help determine the type of seizure or syndrome present. In children it is typically only needed after a second seizure. It cannot be used to rule out the diagnosis and may be falsely positive in those without the disease. In certain situations it may be useful to prefer the EEG while sleeping or sleep deprived.[131]
 
 Diagnostic imaging by CT scan and MRI is recommended after a first non-febrile seizure to detect structural problems inside the brain.[132] MRI is generally a better imaging test except when intracranial bleeding is suspected.[133] Imaging may be done at a later point in time in those who return to their normal selves while in the emergency room.[134] If a person has a previous diagnosis of epilepsy with previous imaging repeat imaging is not usually needed with subsequent seizures.[135]
 

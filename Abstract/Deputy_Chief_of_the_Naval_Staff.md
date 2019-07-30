@@ -1,1 +1,0 @@
-The DEPUTY CHIEF OF THE NAVAL STAFF (D.C.N.S.) is a senior appointment [1] in the Royal Navy currently held by the Second Sea Lord, usually a three-star rank and had a NATO ranking code of OF-8 but has previously been held by an acting two-star ranked officer and a four-star ranked officer.

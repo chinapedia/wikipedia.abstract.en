@@ -1,1 +1,0 @@
-HANNAH ELIZABETH BRADBURY GOODWIN TALCOTT (née, Hannah Elizabeth Bradbury; better known by her pen name, H. B. GOODWIN or MRS. H. B. GOODWIN, and sometimes as H. E. B. or '''H. B. G. '''; 1827 - June 1, 1893) was a 19th-century American novelist from the U.S. state of Maine.

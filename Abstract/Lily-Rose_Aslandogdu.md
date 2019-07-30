@@ -1,1 +1,0 @@
-LILY-ROSE ASLANDOGDU is a British female actress best known from _If London Were Syria_[1] and other Save the Children[2] second a day videos. She also appears in the film _A Monster Calls_ and in _Call the Midwife._ Lily is also starring in _The Alienist_.

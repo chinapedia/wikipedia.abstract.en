@@ -34,7 +34,7 @@ She then began dating Kevin Gilbert and joined him in an ad hoc group of musicia
 
 The group existed as a casual songwriting collective prior to its association with Crow but rapidly developed into a vehicle for her debut album after her arrival. Her relationship with Gilbert became acrimonious soon after the album was released, and disputes arose about songwriting credits.[18]
 
-Sheryl_Crow_003.jpg, California in 2002, with guitarist Peter Stroud]] Crow appeared in the "New Faces" section of _Rolling Stone_ in 1994. _Tuesday Night Music Club_ featured many of the songs written by Crow's friends, including the second single, "Leaving Las Vegas". The album was slow to garner attention, until "All I Wanna Do" became an unexpected smash hit in the fall of 1994. As she later stated in _People_, she found an old poetry book in a used book store in the L.A. area and used a poem as lyrics in the song.[19] The singles "Strong Enough" and "Can't Cry Anymore" were also released, with the first song ("Strong Enough") charting at No. 5 on _Billboard_ and "Can't Cry Anymore" hitting the Top 40.[20] _Tuesday Night Music Club_ went on to sell more than 7 million copies in the U.S. and U.K. during the 1990s. The album also won Crow three Grammy Awards, in 1995: Record of the Year, Best New Artist and Best Female Vocal Performance.[21] She performed at the 1994 and 1999 Woodstock Festivals, as well as the Another Roadside Attraction in 1997.
+, California in 2002, with guitarist Peter Stroud]] Crow appeared in the "New Faces" section of _Rolling Stone_ in 1994. _Tuesday Night Music Club_ featured many of the songs written by Crow's friends, including the second single, "Leaving Las Vegas". The album was slow to garner attention, until "All I Wanna Do" became an unexpected smash hit in the fall of 1994. As she later stated in _People_, she found an old poetry book in a used book store in the L.A. area and used a poem as lyrics in the song.[19] The singles "Strong Enough" and "Can't Cry Anymore" were also released, with the first song ("Strong Enough") charting at No. 5 on _Billboard_ and "Can't Cry Anymore" hitting the Top 40.[20] _Tuesday Night Music Club_ went on to sell more than 7 million copies in the U.S. and U.K. during the 1990s. The album also won Crow three Grammy Awards, in 1995: Record of the Year, Best New Artist and Best Female Vocal Performance.[21] She performed at the 1994 and 1999 Woodstock Festivals, as well as the Another Roadside Attraction in 1997.
 
 Crow supplied background vocals to the song "The Garden of Allah" from Don Henley's 1995 album _Actual Miles: Henley's Greatest Hits_.
 
@@ -50,9 +50,9 @@ She also released a live album called _Sheryl Crow and Friends: Live From Centra
 
 2002–2005: _C'mon, C'mon_ and _The Very Best of_
 
-Licks_Tour_Sheryl_Crow_Mick_Jagger.jpg on stage during a Rolling Stones concert in 2002]] Crow had been involved with the Scleroderma Research Foundation (SRF) since the late 1990s, performing at fund-raisers and befriending Sharon Monsky. In 2002, as a result of her friend Kent Sexton dying from scleroderma, she interrupted work on her new album _C'mon C'mon_ to record the traditional hymn "Be Still, My Soul", to be played at his funeral. In November of that year it was released as a single, with the proceeds going to SRF.[36]
+on stage during a Rolling Stones concert in 2002]] Crow had been involved with the Scleroderma Research Foundation (SRF) since the late 1990s, performing at fund-raisers and befriending Sharon Monsky. In 2002, as a result of her friend Kent Sexton dying from scleroderma, she interrupted work on her new album _C'mon C'mon_ to record the traditional hymn "Be Still, My Soul", to be played at his funeral. In November of that year it was released as a single, with the proceeds going to SRF.[36]
 
-Her fourth studio album, _C'mon, C'mon_, was released in 2002, spawning the hit single "Soak Up the Sun". The second single, "Steve McQueen", won the Female Rock Vocal Performance Grammy.[37] Sheryl_Crow_Houston_2007.jpg in 2007]] Crow opposed the 2003 invasion of Iraq, wearing a shirt that read "I don't believe in your war, Mr. Bush!" during a performance on _Good Morning America_ and posting an open letter explaining her opposition on her website.[38] At a performance with Kid Rock at the 45th annual Grammy Awards, she wore a large peace sign and a guitar strap with the words "No War."[39] She showed support for injured soldiers in 2003 by playing her guitar and singing to individual patients at Walter Reed Army Medical Center.[40]
+Her fourth studio album, _C'mon, C'mon_, was released in 2002, spawning the hit single "Soak Up the Sun". The second single, "Steve McQueen", won the Female Rock Vocal Performance Grammy.[37] in 2007]] Crow opposed the 2003 invasion of Iraq, wearing a shirt that read "I don't believe in your war, Mr. Bush!" during a performance on _Good Morning America_ and posting an open letter explaining her opposition on her website.[38] At a performance with Kid Rock at the 45th annual Grammy Awards, she wore a large peace sign and a guitar strap with the words "No War."[39] She showed support for injured soldiers in 2003 by playing her guitar and singing to individual patients at Walter Reed Army Medical Center.[40]
 
 She recorded the song "Kiss That Girl" for the film _Bridget Jones's Diary_. She also recorded a cover version of the Beatles' song "Mother Nature's Son" for the film _I Am Sam_. Crow sang a duet with rock artist Kid Rock on the crossover hit single "Picture", from Kid Rock's 2001 album _Cocky_. She also assisted him on the track "Run Off to L.A.".
 
@@ -64,7 +64,7 @@ In 2003, a greatest hits compilation called _The Very Best of Sheryl Crow_ was r
 
 In 2004, Crow appeared as a musical theater performer in the Cole Porter biographical film _De-Lovely_.
 
-SherylCrowCrossroads2007.jpg'']]
+'']]
 
 2005–2008: _Wildflower_
 
@@ -82,7 +82,7 @@ Crow wrote a foreword for the book _Crazy Sexy Cancer Tips_, a book written by K
 
 2008–2010: _Detours_
 
-Sheryl_Crow_002.jpg, on August 18, 2007]]
+, on August 18, 2007]]
 
 Crow returned with her sixth studio album _Detours_, which was released on February 5, 2008. _Detours_ debuted at No. 2 on the US _Billboard_ 200 chart selling close to 92,000 copies in its first week and an additional 52,000 copies in its second week.[48] In support of the new album, Crow launched a 25-date tour with James Blunt, and the lineup included reggae group Toots and the Maytals after being handpicked by Crow who said they are one of her favorite bands.[49]
 
@@ -90,7 +90,7 @@ _Detours_ was recorded at Crow's Nashville farm. Her son, Wyatt, makes an appear
 
 _Shine Over Babylon_ was the first promotional single from the album (download only). The first official single released from the album was _Love Is Free,_ followed by _Out of Our Heads._ As of 2010, _Detours_ had sold more than 700,000 copies worldwide.
 
-Sheryl_Crow_DNC_2008.jpg in Denver, Colorado]] Crow endorsed Barack Obama in the 2008 United States presidential election and later performed on the fourth and last day of the 2008 Democratic National Convention.
+in Denver, Colorado]] Crow endorsed Barack Obama in the 2008 United States presidential election and later performed on the fourth and last day of the 2008 Democratic National Convention.
 
 Crow also recorded a studio version of _So Glad We Made It_ for the _Team USA Olympic Soundtrack,_ in conjunction with the 2008 US Olympic team sponsors, AT&T. Crow also stated that she would donate $1 of each ticket purchased for her 2008 tour to the United Nations World Food Programme.
 
@@ -98,13 +98,11 @@ A&M Records re-released Crow's debut album, _Tuesday Night Music Club_, as a del
 
 In August 2008, Crow (in partnership with Western Glove Works) launched a jeans brand, Bootheel Trading Company. Her reported explanation was that, "Denim has become so high-priced as of late, my friends back home don't want to spend $250 for a pair of jeans. I want them to be able to walk into a medium-priced store and be able to afford a cool pair of jeans for less than 100 bucks."[50] The jeans are styled like the California hippie-style faded bootcut jeans that Crow prefers wearing.[51] Crow said that she owns dozens of pairs of jeans, wears jeans more during the summer than during the spring, and does "...almost everything in jeans except sleep."
 
-SherylCrowHeartTruth.jpg
-
 On April 4, 2009, Crow, who practices transcendental meditation, took part in a benefit concert at the Radio City Music Hall in New York organized by the David Lynch Foundation supporting the Foundation's goal of teaching one million at-risk students to meditate. She and Ben Harper performed George Harrison’s song _My Sweet Lord._ Other performers at the concert included Paul McCartney, Ringo Starr, Mike Love, Moby, Eddie Vedder and Donovan. Crow said, "This event is one of the most important events to happen at this moment in history. ... Peace is something deeper than that, it is tapping into something that exists in all of us and makes us unique, and that helps us to be pure.".[52][53][54]
 
 2010–2013: _100 Miles from Memphis_
 
-20111016_Sheryl_Crow_and_Stevie_Wonder_at_the_MLK_Memorial_dedication_concert.jpg at the dedication concert for the Martin Luther King Jr. Memorial on October 16, 2011.]] In 2010, Crow contributed the original spoken-word track "My Name Is Mwamaroyi" to the Enough Project and Downtown Records' _Raise Hope for Congo_ compilation. Proceeds from the compilation fund efforts to make the protection and empowerment of Congo's women a priority, as well as inspire individuals around the world to raise their voice for peace in Congo.
+at the dedication concert for the Martin Luther King Jr. Memorial on October 16, 2011.]] In 2010, Crow contributed the original spoken-word track "My Name Is Mwamaroyi" to the Enough Project and Downtown Records' _Raise Hope for Congo_ compilation. Proceeds from the compilation fund efforts to make the protection and empowerment of Congo's women a priority, as well as inspire individuals around the world to raise their voice for peace in Congo.
 
 A&M Records released Crow's seventh studio album, _100 Miles from Memphis_, on July 20, 2010. The album has a classic Memphis soul vibe and features the lead single "Summer Day."[55] _100 Miles from Memphis_ (released July 20 on A&M Records), the distance from her hometown to the music mecca, is an ode to her formative memories of music – and one that the label hopes can inspire young music fans to investigate the landscape beyond processed pop and Auto-Tune.[56]
 
@@ -152,7 +150,7 @@ Early in her career, Crow performed extensively with a 1962 Gibson Country Weste
 
 Personal life
 
-Sheryl_Crow_at_Revlon_Run_Walk_2007.jpg 2007]]
+2007]]
 
 Crow has had a number of high-profile romantic relationships. In the late '90s she dated musician Eric Clapton,[95][96] 17 years her senior. She dated actor Owen Wilson. The song "Safe and Sound" on the album _C'mon C'mon_ was dedicated to him and, according to the album's liner notes, was an account of their relationship.[97] Crow began dating cyclist Lance Armstrong in 2003. The couple announced their engagement in September 2005, but jointly announced they had split on February 3, 2006.[98]
 

@@ -1,1 +1,0 @@
-Safety_bicycle_1887.jpg The WEARWELL CYCLE COMPANY was a bicycle manufacturing company founded in 1889 in Wolverhampton by the five sons of Henry Clarke, founder of the late Cogent Cycle Company. Wearwell were also motorcycle manufacturers under the WEARWELL STEVENS, Wolf and Wulfruna brands.[1]

@@ -1,1 +1,0 @@
-Statue_of_James_Hutton,_Scottish_National_Portrait_Gallery.jpg

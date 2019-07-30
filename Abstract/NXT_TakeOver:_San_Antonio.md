@@ -1,1 +1,0 @@
-NXT TAKEOVER: SAN ANTONIO was a professional wrestling show and WWE Network event in the NXT TakeOver series that took place on January 28, 2017, at the Freeman Coliseum in San Antonio, Texas.[1] The event was produced by WWE for its NXT brand, and was streamed live on the WWE Network.

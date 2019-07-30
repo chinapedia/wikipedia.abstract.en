@@ -1,1 +1,0 @@
-Jelena Kostanić and Claudine Schaul were the defending champions, but Kostanic did not compete this year. Schaul was about to team up with Émilie Loit, but had to withdrew because of a left groin strain.

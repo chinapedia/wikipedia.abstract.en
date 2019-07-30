@@ -1,1 +1,0 @@
-BERZELIANITE is a rare copper selenide mineral with the formula Cu₂Se.[1][2][3] It occurs as thin dendritic crusts or as fine-grained inclusions. It crystallizes in the isometric system,[4][5][6] unlike its dimorph, bellidoite, which crystallizes in the tetragonal system.[7] The crystals are opaque and slightly malleable.

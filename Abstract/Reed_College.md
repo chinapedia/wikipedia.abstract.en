@@ -1,1 +1,0 @@
-REED COLLEGE is a private liberal arts college in Portland, Oregon. Founded in 1908, Reed is a residential college with a campus in Portland's Eastmoreland neighborhood, featuring architecture based on the Tudor-Gothic style,[1] and a forested canyon nature preserve at its center.

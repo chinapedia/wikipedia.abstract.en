@@ -1,1 +1,0 @@
-FLAMENCO (), in its purest sense, is a professionalized art-form based on the folkloric traditions of Andalusia. In the 21st century it has evolved to incorporate many modern influences. It includes _cante_ (singing), _toque_ (guitar playing), _baile_ (dance), _jaleo_ (vocalizations and chorus clapping), _palmas_ (handclapping) and _pitos_ (finger snapping).[1]

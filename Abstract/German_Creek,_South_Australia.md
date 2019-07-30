@@ -1,1 +1,0 @@
-GERMAN CREEK is a rural locality in south-eastern South Australia, situated in the District Council of Grant.[1] The boundaries were formalised in October 1995 for the long established name. The postcode was originally 5280, but was altered to 5291 in 2004.[2] It was reportedly named for a German who was shepherding in the area.[3]

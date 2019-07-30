@@ -1,1 +1,0 @@
-CHAD (; ), officially the REPUBLIC OF CHAD, is a landlocked country in West Africa. It borders Libya to the north, Sudan to the east, the Central African Republic to the south, Cameroon and Nigeria to the southwest, and Niger to the west. Due to its distance from the sea and its largely desert climate, the country is sometimes referred to as the "Dead Heart of Africa".[1]

@@ -1,1 +1,0 @@
-JACQUES-YVES COUSTEAU, (; 11 June 1910 – 25 June 1997),[1] was a French naval officer, explorer, conservationist, filmmaker, innovator, scientist, photographer, author and researcher who studied the sea and all forms of life in water. He co-developed the Aqua-lung, pioneered marine conservation and was a member of the Académie française.

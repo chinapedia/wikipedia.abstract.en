@@ -1,1 +1,0 @@
-MARY KEATING CROCE DISABATO (December 4, 1928 – October 21, 2016) was an American Democratic Party politician who served in the New Jersey General Assembly for three two-year terms, where she represented the 6th Legislative District from 1974 to 1980. She served as the Chairwoman of the New Jersey State Parole Board in the 1990s.

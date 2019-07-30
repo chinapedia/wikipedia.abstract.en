@@ -1,1 +1,0 @@
-_VERTICORDIA_ SECT. _CORYNATOCA_ is one of six sections in the subgenus _Eperephes_. It includes the single species _Verticordia ovalifolia_. Plants in this section are sometimes bushy shrubs, sometimes tall and open. The flower cup has very short appendages and the staminodes have raised glands on their surface.[1]

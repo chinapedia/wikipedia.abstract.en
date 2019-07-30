@@ -1,1 +1,0 @@
-Sapsan.JPG Siemens Velaro Sapsan train]] The TRANSPORT NETWORK OF THE RUSSIAN FEDERATION is one of the world's most extensive transport networks. The national web of roads, railways and airways stretches almost from Kaliningrad in the west to the Kamchatka Peninsula in the east, and major cities such as Moscow and Saint Petersburg are served by extensive rapid transit systems.

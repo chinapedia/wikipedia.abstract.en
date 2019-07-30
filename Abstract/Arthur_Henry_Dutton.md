@@ -1,1 +1,0 @@
-ARTHUR HENRY DUTTON[1] (November 13, 1838 – June 5, 1864) was an American career soldier. A trained military engineer and high graduate of West Point, he served mostly as an infantry officer in the Union Army, fighting within both the Eastern Theater and Western Theaters during the American Civil War.

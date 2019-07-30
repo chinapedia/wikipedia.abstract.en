@@ -1,1 +1,0 @@
-JIMMA ABA BUNA SPORT CLUB (Amharic: ጅማ አባቡና ስፖርት ክለብ, Afaan Oromo: Jimmaa Abbaa Bunaa) is an Ethiopian football club based in Jimma, Ethiopia. They currently play in the Ethiopian Higher League, the second division of football in Ethiopia.[1]

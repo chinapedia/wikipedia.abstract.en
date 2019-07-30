@@ -1,1 +1,0 @@
-Могила_писателя_Бориса_Горбатова.JPG BORIS GORBATOV (1908–1954) was a Soviet Russian novelist.[1] Born in the Donbass region in the Ukraine, he moved to Moscow at the age of 18 and joined the Communist Party in 1930. He was a military correspondent during World War Two.

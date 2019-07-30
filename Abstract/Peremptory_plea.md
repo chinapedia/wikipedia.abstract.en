@@ -1,1 +1,0 @@
-In the common law, the PEREMPTORY PLEAS (PLEAS IN BAR) are defensive pleas that set out special reasons for which a trial cannot proceed; they serve to bar the case entirely. Pleas in bar may be used in civil or criminal cases; they address the substantial merits of the case.[1]

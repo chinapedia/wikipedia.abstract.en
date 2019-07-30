@@ -1,1 +1,0 @@
-XYLOURIS WHITE is a musical collaboration established in 2013, involving Greek singer and laouto player George Xylouris and Australian drummer Jim White, best known for his work with Dirty Three. The duo's music has been described as combining "free-jazz, avant-rock and ages-old Greek folk traditions."[1] To date they have released three albums, and undertaken a world tour.

@@ -1,1 +1,0 @@
-MM2 ENTERTAINMENT (a wholly owned subsidiary of mm2 Asia Ltd) is a Singapore-based film production and distribution company. It has produced notable movies such as _Ah Boys to Men_ _The Lion Men_ and _Long Long Time Ago_ series.

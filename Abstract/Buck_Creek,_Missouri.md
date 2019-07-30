@@ -1,1 +1,0 @@
-BUCK CREEK is an unincorporated community in Morgan County, in the U.S. state of Missouri.[1] The community is on Missouri Route O about four miles northeast of Laurie. The location is just west of the Gravois Creek Arm of the Lake of the Ozarks.[2]

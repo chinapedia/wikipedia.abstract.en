@@ -1,1 +1,0 @@
-The 2001–02 BUSTA CUP was the 36th edition of what is now the Regional Four Day Competition, the domestic first-class cricket competition for the countries of the West Indies Cricket Board (WICB). It was played from 25 January to 8 March 2002.

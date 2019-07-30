@@ -1,1 +1,0 @@
-JAMES GORDON BROWN (born 20 February 1951) is a British politician who was Prime Minister of the United Kingdom and Leader of the Labour Party from 2007 to 2010. He served as Chancellor of the Exchequer from 1997 to 2007. Brown was a Member of Parliament (MP) from 1983 to 2015, first for Dunfermline East and later for Kirkcaldy and Cowdenbeath.

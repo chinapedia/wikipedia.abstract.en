@@ -1,1 +1,0 @@
-PECKHAM is an unincorporated community in Kay County, Oklahoma, United States.[1] The community is northeast of Blackwell. It was named for railroad developer Ed L. Peckham. A post office opened in Peckham on July 15, 1899.[2]

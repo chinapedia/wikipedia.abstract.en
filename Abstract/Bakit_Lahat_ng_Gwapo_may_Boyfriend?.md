@@ -1,1 +1,0 @@
-_BAKIT LAHAT NG GWAPO MAY BOYFRIEND?_ () is a 2016 Philippine comedy-drama film directed by Jun Robles Lana, starring Anne Curtis, Dennis Trillo, Paolo Ballesteros.[1][2][3][4] It was scheduled to be released on October 19, 2016 by Viva Films.[5]

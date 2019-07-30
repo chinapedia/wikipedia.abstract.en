@@ -1,1 +1,0 @@
-"ONCE WE WERE GODS" is the 15th episode of season 3 of the supernatural drama television series _Grimm_ and the 59th episode overall, which premiered on March 14, 2014, on the cable network NBC. The episode was written by Alan DiFiore, and was directed by Steven DePaul.

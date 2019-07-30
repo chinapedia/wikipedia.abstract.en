@@ -1,1 +1,0 @@
-BRYN GATLAND (born 10 May 1995) is a New Zealand rugby union player who currently plays as a fly-half for in New Zealand's domestic Mitre 10 Cup[1] and the in the international Super Rugby competition.[2] Gatland is the son of former rugby player and current coach Warren Gatland.[3]

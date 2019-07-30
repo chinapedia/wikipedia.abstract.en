@@ -1,1 +1,0 @@
-The SACRED HEART CATHEDRAL[1] () or CATHEDRAL OF THE SACRED HEART OF JESUS AND CHRIST THE KING, also PETROLINA CATHEDRAL,[2] is a religious building affiliated with the Catholic Church located in the center of the city of Petrolina,[3] in the state of Pernambuco in the northeastern region of the South American country of Brazil.[4]

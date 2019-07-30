@@ -1,1 +1,0 @@
-CAPE TOWN ( ; Xhosa: _iKapa_; Dutch: _Kaapstad;_ South Sotho_: Motse Kapa)_ is the oldest city in South Africa, colloquially named the Mother City. It is the legislative capital of South Africa and primate city of the Western Cape province.[1] It forms part of the City of Cape Town metropolitan municipality.

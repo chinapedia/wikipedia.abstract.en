@@ -1,1 +1,0 @@
-ANDRÉ BUSCH (14 March 1913 - 7 July 1991) was a French male water polo player. He was a member of the France men's national water polo team. He competed with the team at the 1936 Summer Olympics finishing in fourth place.[1] On club level he played for FC Lyon (then, Cercle des Nageurs de Lyon).

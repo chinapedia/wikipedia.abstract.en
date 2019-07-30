@@ -1,1 +1,0 @@
-WILLIAM EMET BLATZ (; June 30, 1895 – November 1, 1964) was a German-Canadian developmental psychologist who was director of the University of Toronto's Institute of Child Study from 1925 until his retirement in 1960. He authored numerous books and was known for his creation of security theory, a precursor to attachment theory.

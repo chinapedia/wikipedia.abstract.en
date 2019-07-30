@@ -1,4 +1,4 @@
-Claychick.jpg STOP MOTION is an animated-film making technique in which objects are physically manipulated in small increments between individually photographed frames so that they will appear to exhibit independent motion when the series of frames is played back as a fast sequence. Dolls with movable joints or clay figures are often used in stop motion for their ease of repositioning. Stop-motion animation using plasticine figures is called clay animation or "clay-mation". Not all stop motion, however, requires figures or models: stop-motion films can also be made using humans, household appliances, and other objects, usually for comedic effect. Stop motion using humans is sometimes referred to as pixilation or pixilate animation.
+STOP MOTION is an animated-film making technique in which objects are physically manipulated in small increments between individually photographed frames so that they will appear to exhibit independent motion when the series of frames is played back as a fast sequence. Dolls with movable joints or clay figures are often used in stop motion for their ease of repositioning. Stop-motion animation using plasticine figures is called clay animation or "clay-mation". Not all stop motion, however, requires figures or models: stop-motion films can also be made using humans, household appliances, and other objects, usually for comedic effect. Stop motion using humans is sometimes referred to as pixilation or pixilate animation.
 
 
 Terminology
@@ -10,7 +10,7 @@ Stop motion should not be confused with the time-lapse technique in which still 
 
 History
 
-The_Sculptor's_Nightmare_(1908).webm Agathaumas.ogv'' animated by Willis O'Brien in 1925]] Stop-motion animation has a long history in film. Originally, it was often used to show objects moving as if by magic.
+'' animated by Willis O'Brien in 1925]] Stop-motion animation has a long history in film. Originally, it was often used to show objects moving as if by magic.
 
 The first instance of the stop-motion technique can be credited to Albert E. Smith and J. Stuart Blackton for Vitagraph's _The Humpty Dumpty Circus_ (1897), in which a toy circus of acrobats and animals comes to life.[2]
 
@@ -52,7 +52,7 @@ Disney experimented with several stop-motion techniques by hiring independent an
 
 1980s to present
 
-Stefano_Bessoni_Canti_2014.jpg, Italian filmmaker, illustrator and stop-motion animator working on _Gallows Songs_ (2014)]] In the 1970s and 1980s, Industrial Light & Magic often used stop-motion model animation in such films as the original _Star Wars_ trilogy: the chess sequence in _Star Wars_, the Tauntauns and AT-AT walkers in _The Empire Strikes Back_, and the AT-ST walkers in _Return of the Jedi_ were all filmed using stop-motion animation, with the latter two films utilising go motion: an invention from renowned visual effects veteran Phil Tippett. The many shots including the ghosts in _Raiders of the Lost Ark_ and the first two feature films in the _RoboCop_ series use Tippett's go motion.
+, Italian filmmaker, illustrator and stop-motion animator working on _Gallows Songs_ (2014)]] In the 1970s and 1980s, Industrial Light & Magic often used stop-motion model animation in such films as the original _Star Wars_ trilogy: the chess sequence in _Star Wars_, the Tauntauns and AT-AT walkers in _The Empire Strikes Back_, and the AT-ST walkers in _Return of the Jedi_ were all filmed using stop-motion animation, with the latter two films utilising go motion: an invention from renowned visual effects veteran Phil Tippett. The many shots including the ghosts in _Raiders of the Lost Ark_ and the first two feature films in the _RoboCop_ series use Tippett's go motion.
 
 In the UK, Aardman Animations continued to grow. Channel 4 funded a new series of clay animated films, _Conversation Pieces_, using recorded soundtracks of real people talking. A further series in 1986, called _Lip Sync_, premiered the work of Richard Goleszowski (_Ident_), Barry Purves (_Next_), and Nick Park (_Creature Comforts_), as well as further films by Sproxton and Lord. _Creature Comforts_ won the Oscar for Best Animated Short in 1990.
 

@@ -1,1 +1,0 @@
-Kere_Thonnooru_village4.jpg Kere_Thonnooru_village-.jpg

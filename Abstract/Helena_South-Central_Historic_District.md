@@ -1,1 +1,0 @@
-The HELENA SOUTH-CENTRAL HISTORIC DISTRICT is a collection of historic buildings located in Helena, Montana and roughly bounded by Broadway, South Davis Street, the city limits, and South Warren Street[1]

@@ -43,7 +43,7 @@ Sun continued to ship SunOS 4.1.3 and 4.1.4 until December 27, 1998; they were s
 
 "SunOS" and "Solaris"
 
-SunOS_4.1.1_P1270750.jpg In 1987, AT&T Corporation and Sun announced that they were collaborating on a project to merge the most popular Unix flavors on the market at that time: BSD (including many of the features then unique to SunOS), System V, and Xenix. This would become System V Release 4 (SVR4).[5]
+In 1987, AT&T Corporation and Sun announced that they were collaborating on a project to merge the most popular Unix flavors on the market at that time: BSD (including many of the features then unique to SunOS), System V, and Xenix. This would become System V Release 4 (SVR4).[5]
 
 On September 4, 1991, Sun announced that its next major OS release would switch from its BSD-derived source base to one based on SVR4. Although the internal designation of this release would be _SunOS 5_, from this point Sun began using the marketing name _Solaris_. The justification for this new "overbrand" was that it encompassed not only SunOS, but also the OpenWindows desktop environment and Open Network Computing (ONC) functionality.
 

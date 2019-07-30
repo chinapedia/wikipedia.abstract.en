@@ -1,1 +1,0 @@
-MLL-Borras-cedida-per-familia-Borras.jpg MARIA LLUÏSA BORRÀS I GONZÁLEZ (Barcelona, 1 February 1931 – Palafrugell, 23 January 2010), doctorate in Art History from the Universitat de Barcelona, was a writer, critic, exhibition curator and specialist in the avant-garde and Dadaism.[1][2][3][4]

@@ -1,1 +1,0 @@
-AON PLC is a British global professional services company headquartered in London that provides risk, retirement and health consulting. Aon has approximately 500 offices worldwide, serving 120 countries with 50,000 employees.[1]

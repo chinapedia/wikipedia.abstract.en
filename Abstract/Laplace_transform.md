@@ -1,1 +1,0 @@
-In mathematics, the LAPLACE TRANSFORM is an integral transform named after its inventor Pierre-Simon Laplace (). It transforms a function of a real variable (often time) to a function of a complex variable (complex frequency). The transform has many applications in science and engineering.

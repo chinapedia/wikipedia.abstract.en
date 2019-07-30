@@ -1,1 +1,0 @@
-The IMMACULATE HEART OF MARY CHURCH[1] ( ) is a Catholic church in Kemerovo, in the region of Kuzbass, Russia.[2] It was consecrated in 2009 and serves the diocese of Novosibirsk. This is the second Catholic church in the area to be built since the Revolution of October 1917. The first church on the site is St John Novokuznetsk, dedicated a few years ago.

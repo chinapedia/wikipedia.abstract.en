@@ -1,1 +1,0 @@
-_THE MAN WHO KNEW: THE LIFE AND TIMES OF ALAN GREENSPAN_ is a biography of the former Chairman of the Federal Reserve, written by Council on Foreign Relations Senior Fellow Sebastian Mallaby.[1] It was published in October 2016 by Penguin Press.

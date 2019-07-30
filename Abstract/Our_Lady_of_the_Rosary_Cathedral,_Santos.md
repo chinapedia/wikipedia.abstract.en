@@ -1,1 +1,0 @@
-The OUR LADY OF THE ROSARY CATHEDRAL[1] () Also SANTOS CATHEDRAL[2] Is a Catholic church in the city of Santos, in São Paulo State, Brazil. It is the headquarters of the Diocese of Santos[3] and the Parish of Our Lady of Rosario Aparecida, the oldest in the city.

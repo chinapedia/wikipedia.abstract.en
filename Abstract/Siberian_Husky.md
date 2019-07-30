@@ -1,1 +1,0 @@
-The SIBERIAN HUSKY (, tr. ) is a medium size working dog breed. The breed belongs to the Spitz genetic family. It is recognizable by its thickly furred double coat, erect triangular ears, and distinctive markings, and is smaller than a very similar-looking dog, the Alaskan Malamute.

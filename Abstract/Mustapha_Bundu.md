@@ -1,1 +1,0 @@
-Mustapha bundu (born 27 February 1997) is an Sierra Leone professional footballer who plays for the Denish super league club Aarhus GF. He has played much of his career as a forward, and he has also be used in various right and left midfield role. MUSTAPHA BUNDU is a Sierra Leonean footballer playing for Aarhus GF in the Danish Superliga. [1]

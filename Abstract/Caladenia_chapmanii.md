@@ -1,1 +1,0 @@
-_CALADENIA CHAPMANII_, commonly known as CHAPMAN'S SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is endemic to the south-west of Western Australia. It has a single erect, hairy leaf and up to three flowers which are either maroon, yellow or cream-coloured.Caladenia_chapmanii_labellum.jpg

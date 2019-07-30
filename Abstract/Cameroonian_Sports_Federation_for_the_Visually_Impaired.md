@@ -1,1 +1,0 @@
-CAMEROONIAN SPORTS FEDERATION FOR THE VISUALLY IMPAIRED (FECASDEV) (French: __) is the national sports federation for people with vision impairments. The organization is one of four member federations of the Cameroonian Paralympic Committee and is a member of the International Blind Sports Federation (IBSA).

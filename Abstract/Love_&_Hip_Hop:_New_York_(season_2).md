@@ -1,1 +1,0 @@
-The second season of the reality television series _Love & Hip Hop: New York_ aired on VH1 from November 14, 2011 until February 6, 2012. The show was primarily filmed in New York City, New York. It was executively produced by Mona Scott-Young for Monami Entertainment, Toby Barraud and Stefan Springman for NFGTV, and Jim Ackerman and Jeff Olde for VH1.

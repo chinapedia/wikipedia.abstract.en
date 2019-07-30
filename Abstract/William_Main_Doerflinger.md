@@ -1,1 +1,0 @@
-WILLIAM MAIN ("BILL") DOERFLINGER (July 30, 1910–December 23, 2000), was a book editor, stage magician, author, and noted American folk song collector, with a particular interest in maritime songs (sea shanties).[1]

@@ -1,1 +1,0 @@
-The F.W. WHEELER HOUSE is a historic two-family residence at 31 Intervale Street in Richford, Vermont. Built in 1904 for a photographer, it is an unusual instance in the community of a duplex with Queen Anne styling. It was listed on the National Register of Historic Places in 2004.[1]

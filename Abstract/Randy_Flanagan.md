@@ -1,1 +1,0 @@
-JOHN RANDALL "RANDY" FLANAGAN (born 8 January 1960) is a Canadian neuroscientist, who has made important contributions to the neuroscience of sensorimotor control.[1] From 2006 he has been a Professor of Psychology at Queen's University.[2]

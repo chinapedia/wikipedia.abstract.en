@@ -1,1 +1,0 @@
-A GROWTH FACTOR is a naturally occurring substance capable of stimulating cellular growth,[1] proliferation, healing, and cellular differentiation. Usually it is a protein or a steroid hormone. Growth factors are important for regulating a variety of cellular processes.

@@ -1,1 +1,0 @@
-ABU ZUBAYDAH ( ; , _Abū Zubaydah_; born March 12, 1971, as ZAYN AL-ABIDIN MUHAMMAD HUSAYN) is a Saudi Arabian citizen currently held by the U.S. in the Guantanamo Bay detention camp in Cuba. He is held under the authority of Authorization for Use of Military Force Against Terrorists (AUMF).

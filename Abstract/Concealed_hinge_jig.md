@@ -1,1 +1,0 @@
-Concealed_hinge_jig.JPG A CONCEALED HINGE DRILLING JIG is a type of support jig, designed for drilling 3 cm holes to fit concealed hinges into modern wardrobe doors. As many of the complementary tools used in woodworking, it uses an electric hand-drill for its operation, making a Forstner bit to turn.[1][2]

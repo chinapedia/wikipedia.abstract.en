@@ -1,1 +1,0 @@
-LAW 59 or the Cuban civil code is the legal body that regulates the main norms in legal matters such as Real Rights, Law of obligations, Contract law and inheritance law, in addition to the legal capacity of persons, natural and law, and some rules of Private International Law in the Republic of Cuba.[1] It has four books and a few articles about principles of civil law.

@@ -9,8 +9,6 @@ Svalbard and Jan Mayen are collectively assigned the ISO 3166-1 alpha-2 country 
 
 Geography
 
-Topographic_map_of_Svalbard.svg
-
 The Svalbard Treaty of 1920[2] defines Svalbard as all islands, islets and skerries from 74° to 81° north latitude, and from 10° to 35° east longitude.[3][4] The land area is , and dominated by the island of Spitsbergen, which constitutes more than half the archipelago, followed by Nordaustlandet and Edgeøya.[5] All settlements are located on Spitsbergen, except the meteorological outposts on Bjørnøya and Hopen.[6] The Norwegian state took possession of all unclaimed land, or 95.2% of the archipelago, at the time the Svalbard Treaty entered into force; Store Norske owns 4%, Arktikugol owns 0.4%, while other private owners hold 0.4%.[7]
 
 Since Svalbard is located north of the Arctic Circle it experiences midnight sun in summer and polar night in winter. At 74° north, the midnight sun lasts 99 days and polar night 84 days, while the respective figures at 81° are 141 and 128 days.[8] In Longyearbyen, midnight sun lasts from 20 April until 23 August, and polar night lasts from 26 October to 15 February.[9] In winter, the combination of full moon and reflective snow can give additional light.[10]
@@ -24,7 +22,7 @@ History
 
 Dutch discovery, exploration, and mapping of a 'terra nullius'
 
-Barentsz_arctic_map.jpg and Svalbard during the Golden Age of Dutch exploration and discovery (c. 1590s–1720s). Portion of 1599 map of Arctic exploration by Willem Barentsz. Spitsbergen, here mapped for the first time, is indicated as "Het Nieuwe Land" (Dutch for "the New Land"), center-left. This is a typical map from the Golden Age of Dutch cartography.]] Arctic.svg (Age of Exploration), the Dutch were the first (non-natives) to explore and map many unknown isolated areas of the world, including the Svalbard archipelago and Jan Mayen in the Arctic Ocean]]
+and Svalbard during the Golden Age of Dutch exploration and discovery (c. 1590s–1720s). Portion of 1599 map of Arctic exploration by Willem Barentsz. Spitsbergen, here mapped for the first time, is indicated as "Het Nieuwe Land" (Dutch for "the New Land"), center-left. This is a typical map from the Golden Age of Dutch cartography.]] (Age of Exploration), the Dutch were the first (non-natives) to explore and map many unknown isolated areas of the world, including the Svalbard archipelago and Jan Mayen in the Arctic Ocean]]
 
 Norsemen possibly discovered Svalbard as early as the 12th century. There are traditional Norse accounts of a land known as Svalbarð—literally "cold shores"—although this might have referred to Jan Mayen, or a part of eastern Greenland.[17][18] It was thought both Svalbard and Greenland were connected to Continental Europe.[19] The archipelago might in that period have been used for fishing and hunting.[20] The Dutchman Willem Barentsz made the first discovery of the archipelago in 1596, when he sighted its coast while searching for the Northern Sea Route.[21]
 
@@ -34,7 +32,7 @@ The first known landing on the island dates to 1604, when an English ship landed
 
 17th–18th centuries
 
-Traankokerijen_bij_het_dorp_Smerenburg_Rijksmuseum_SK-A-2355.jpeg, by Cornelis de Man (1639), but based on a painting of a _Dansk hvalfangststation_ (Danish whaling station) by A.B.R. Speeck (1634), which represented the Danish station in Copenhagen Bay (Kobbefjorden)]]
+, by Cornelis de Man (1639), but based on a painting of a _Dansk hvalfangststation_ (Danish whaling station) by A.B.R. Speeck (1634), which represented the Danish station in Copenhagen Bay (Kobbefjorden)]]
 
 Smeerenburg was one of the first settlements, established by the Dutch in 1619.[27] Smaller bases were also built by the English, Danish and French. At first the outposts were merely summer camps, but from the early 1630s, a few individuals started to overwinter. Whaling at Spitsbergen lasted until the 1820s, when the Dutch, British and Danish whalers moved elsewhere in the Arctic.[28] By the late 17th century, Russian hunters arrived; they overwintered to a greater extent and hunted land mammals such as the polar bear and fox.[29]
 
@@ -52,15 +50,13 @@ Discussions to establish the sovereignty of the archipelago commenced in the 191
 
 Second World War
 
-Demolition_of_wireless_station_at_Spitzbergen,_Operation_Gauntlet,_1941_(22418716705).jpg
-
 In 1941, after Operation Gauntlet, all Norwegian and Soviet settlements on Svalbard were evacuated,[47] and a German presence was established with a meteorological outpost,[48] although a small Norwegian garrison was kept on Spitsbergen. The German Operation Zitronella took this garrison by force in 1943, and at the same time destroying the settlements at Longyearbyen and Barentsburg.[49] In September 1944, together with the supply ship _Carl J. Busch_, the submarine transported the men of Operation Haudegen to Svalbard. Operation Haudegen (i.e., swashbuckler) was the name of a German operation during the Second World War to establish meteorological stations on Svalbard.
 
 The station was active from 9 September 1944 to 4 September 1945. It lost radio contact in May 1945, and the soldiers were capable of asking for support only in August 1945. On 4 September 1945, the soldiers were picked up by a Norwegian seal hunting vessel and surrendered to its captain. This group of men were the last German troops to surrender after the Second World War. After the war, the Soviet Union proposed common Norwegian and Soviet administration and military defence of Svalbard. This was rejected in 1947 by Norway, which two years later joined NATO. The Soviet Union retained high civilian activity on Svalbard, in part to ensure that the archipelago was not used by NATO.[50]
 
 Post-war
 
-Kulltaubane.jpg previously used for transporting coal]]
+previously used for transporting coal]]
 
 After the war, Norway re-established operations at Longyearbyen and Ny-Ålesund,[51] while the Soviet Union established mining in Barentsburg, Pyramiden and Grumant.[52] The mine at Ny-Ålesund had several fatal accidents, killing 71 people while it was in operation from 1945 to 1954 and from 1960 to 1963. The Kings Bay Affair, caused by the 1962 accident killing 21 workers, forced Gerhardsen's Third Cabinet to resign.[53][54] From 1964, Ny-Ålesund became a research outpost, and a facility for the European Space Research Organisation.[55] Petroleum test drilling was started in 1963 and continued until 1984, but no commercially viable fields were found.[56] From 1960, regular charter flights were made from the mainland to a field at Hotellneset;[57] in 1975, Svalbard Airport, Longyear opened, allowing year-round services.[58]
 
@@ -73,19 +69,19 @@ Population
 
 Demographics
 
-BarentsburgFromDock.JPG]]
+]]
 
 In 2016, Svalbard had a population of 2,667, of which 423 were Russian and Ukrainian, 10 Polish and 322 non-Norwegians living in Norwegian settlements.[72] The largest non-Norwegian groups in Longyearbyen in 2005 were from Russia, Ukraine, Poland, Germany, Sweden, Denmark and Thailand.[73]
 
 Settlements
 
-Longyearbyen_colourful_homes.jpg]]
+]]
 
 Longyearbyen is the largest settlement on the archipelago, the seat of the governor and the only town to be incorporated. The town features a hospital, primary and secondary school, university, sports center with a swimming pool, library, culture center, cinema,[74] bus transport, hotels, a bank,[75] and several museums.[76] The newspaper _Svalbardposten_ is published weekly.[77] Only a small fraction of the mining activity remains at Longyearbyen; instead, workers commute to Sveagruva (or Svea) where Store Norske operates a mine. Sveagruva is a dormitory town, with workers commuting from Longyearbyen weekly.[78]
 
 Ny-Ålesund is a permanent settlement based entirely around research. Formerly a mining town, it is still a company town operated by the Norwegian state-owned Kings Bay. While there is some tourism there, Norwegian authorities limit access to the outpost to minimize impact on the scientific work.[79] Ny-Ålesund has a winter population of 35 and a summer population of 180.[80] The Norwegian Meteorological Institute has outposts at Bjørnøya and Hopen, with respectively ten and four people stationed. Both outposts can also house temporary research staff.[81] Poland operates the Polish Polar Station at Hornsund, with ten permanent residents.[82]
 
-Piramida_Svalbard_IMG_6283.JPG]] Barentsburg is the only permanently inhabited Russian settlement after Pyramiden was abandoned in 1998. It is a company town: all facilities are owned by Arktikugol, which operates a coal mine. In addition to the mining facilities, Arktikugol has opened a hotel and souvenir shop, catering for tourists taking day trips or hikes from Longyearbyen.[83] The village features facilities such as a school, library, sports center, community center, swimming pool, farm and greenhouse. Pyramiden features similar facilities; both are built in typical post-World War II Soviet architectural and planning style and contain the world's two most northerly Lenin statues and other socialist realism artwork.[84] , a handful of workers are stationed in the largely abandoned Pyramiden to maintain the infrastructure and run the hotel, which has been re-opened for tourists.
+]] Barentsburg is the only permanently inhabited Russian settlement after Pyramiden was abandoned in 1998. It is a company town: all facilities are owned by Arktikugol, which operates a coal mine. In addition to the mining facilities, Arktikugol has opened a hotel and souvenir shop, catering for tourists taking day trips or hikes from Longyearbyen.[83] The village features facilities such as a school, library, sports center, community center, swimming pool, farm and greenhouse. Pyramiden features similar facilities; both are built in typical post-World War II Soviet architectural and planning style and contain the world's two most northerly Lenin statues and other socialist realism artwork.[84] , a handful of workers are stationed in the largely abandoned Pyramiden to maintain the infrastructure and run the hotel, which has been re-opened for tourists.
 
 Religion
 
@@ -94,13 +90,13 @@ Most of the population is Christian and affiliated with the Church of Norway. Ca
 
 Politics
 
-Spitzbergen_nordsyssel_hg.jpg's vessel, docked at Ny-Ålesund]]
+'s vessel, docked at Ny-Ålesund]]
 
 The Svalbard Treaty of 1920 established full Norwegian sovereignty over the archipelago. The islands are, unlike the Norwegian Antarctic Territory, a part of the Kingdom of Norway and not a dependency. The treaty came into effect in 1925, following the Svalbard Act. All forty signatory countries of the treaty have the right to conduct commercial activities on the archipelago without discrimination, although all activity is subject to Norwegian legislation. The treaty limits Norway's right to collect taxes to that of financing services on Svalbard. Therefore, Svalbard has a lower income tax than mainland Norway, and there is no value added tax. There is a separate budget for Svalbard to ensure compliance. Svalbard is a demilitarized zone, as the treaty prohibits the establishment of military installations. Norwegian military activity is limited to fishery surveillance by the Norwegian Coast Guard as the treaty requires Norway to protect the natural environment.[85][86]
 
 The Svalbard Act established the institution of the Governor of Svalbard (), who holds the responsibility as both county governor and chief of police, as well as holding other authority granted from the executive branch. Duties include environmental policy, family law, law enforcement, search and rescue, tourism management, information services, contact with foreign settlements, and judge in some areas of maritime inquiries and judicial examinations—albeit never in the same cases as acting as police.[87][88] Since 2015, Kjerstin Askholt has been governor; she is assisted by a staff of 26 professionals. The institution is subordinate to the Ministry of Justice and the Police, but reports to other ministries in matters within their portfolio.[89]
 
-Lenin_statue_in_Barentsburg,_Svalbard.jpg in Barentsburg]] Since 2002, Longyearbyen Community Council has had many of the same responsibilities of a municipality, including utilities, education, cultural facilities, fire department, roads and ports.[90] No care or nursing services are available, nor is welfare payment available. Norwegian residents retain pension and medical rights through their mainland municipalities.[91] The hospital is part of University Hospital of North Norway, while the airport is operated by state-owned Avinor. Ny-Ålesund and Barentsburg remain company towns with all infrastructure owned by Kings Bay and Arktikugol, respectively.[92] Other public offices with presence on Svalbard are the Norwegian Directorate of Mining, the Norwegian Polar Institute, the Norwegian Tax Administration and the Church of Norway.[93] Svalbard is subordinate to Nord-Troms District Court and Hålogaland Court of Appeal, both located in Tromsø.[94]
+in Barentsburg]] Since 2002, Longyearbyen Community Council has had many of the same responsibilities of a municipality, including utilities, education, cultural facilities, fire department, roads and ports.[90] No care or nursing services are available, nor is welfare payment available. Norwegian residents retain pension and medical rights through their mainland municipalities.[91] The hospital is part of University Hospital of North Norway, while the airport is operated by state-owned Avinor. Ny-Ålesund and Barentsburg remain company towns with all infrastructure owned by Kings Bay and Arktikugol, respectively.[92] Other public offices with presence on Svalbard are the Norwegian Directorate of Mining, the Norwegian Polar Institute, the Norwegian Tax Administration and the Church of Norway.[93] Svalbard is subordinate to Nord-Troms District Court and Hålogaland Court of Appeal, both located in Tromsø.[94]
 
 Although Norway is part of the European Economic Area (EEA) and the Schengen Agreement, Svalbard is not part of the Schengen Area or the EEA.[95] Non-EU and non-Nordic Svalbard residents do not need Schengen visas, but are prohibited from reaching Svalbard from mainland Norway without such. People without a source of income can be rejected by the governor.[96] No person is required to have a visa or residence permit for Svalbard. Everybody can live and work in Svalbard indefinitely regardless of citizenship. Svalbard Treaty grants treaty nationals equal right of abode as Norwegian nationals. So far, non-treaty nationals were admitted visa-free as well. "Regulations concerning rejection and expulsion from Svalbard" in force.[97][98] Russia retains a consulate in Barentsburg.[99]
 
@@ -109,13 +105,13 @@ In September 2010 a treaty was made between Russia and Norway fixing the boundar
 
 Economy
 
-Ecotourism_Svalbard.JPG]]
+]]
 
 The three main industries on Svalbard are coal mining, tourism, and research. In 2007, there were 484 people working in the mining sector, 211 people working in the tourism sector and 111 people working in the education sector. The same year, the mining gave a revenue of 2.008 billion Norwegian kroner (US$227,791,078), tourism 317 million kroner ($35,967,202) and research 142 million kroner ($16,098,404)[101][102] In 2006, the average income for economically active people was 494,700 kroner; 23% higher than on the mainland.[103] Almost all housing is owned by the various employers and institutions and rented to their employees; there are only a few privately owned houses, most of which are recreational cabins. Because of this, it is nearly impossible to live on Svalbard without working for an established institution.[104]
 
 Since the resettlement of Svalbard in the early 20th century, coal mining has been the dominant commercial activity. Store Norske Spitsbergen Kulkompani, a subsidiary of the Norwegian Ministry of Trade and Industry, operates Svea Nord in Sveagruva and Mine 7 in Longyearbyen. The former produced 3.4 million tonnes in 2008, while the latter uses 35% of its output to Longyearbyen Power Station. Since 2007, there has not been any significant mining by the Russian state-owned Arktikugol in Barentsburg. There have previously been performed test drilling for petroleum on land, but these did not give satisfactory results for permanent operation. The Norwegian authorities do not allow offshore petroleum activities for environmental reasons, and the land formerly test-drilled on has been protected as natural reserves or national parks.[105] In 2011, a 20-year plan to develop offshore oil and gas resources around Svalbard was announced.[106]
 
-Ny-Alesund_(js)_5.jpg research facility in Ny-Ålesund]] Svalbard has historically been a base for both whaling and fishing. Norway claimed a exclusive economic zone (EEZ) around Svalbard in 1977,[107] with of internal waters and of EEZ.[108] Norway retains a restrictive fisheries policy in the zone,[109] and the claims are disputed by Russia.[110] Tourism is focused on the environment and is centered on Longyearbyen. Activities include hiking, kayaking, walks through glacier caves and snowmobile and dog-sled safari. Cruise ships generate a significant portion of the traffic, including both stops by offshore vessels and expeditionary cruises starting and ending in Svalbard. Traffic is strongly concentrated between March and August; overnights have quintupled from 1991 to 2008, when there were 93,000 guest-nights.[111]
+research facility in Ny-Ålesund]] Svalbard has historically been a base for both whaling and fishing. Norway claimed a exclusive economic zone (EEZ) around Svalbard in 1977,[107] with of internal waters and of EEZ.[108] Norway retains a restrictive fisheries policy in the zone,[109] and the claims are disputed by Russia.[110] Tourism is focused on the environment and is centered on Longyearbyen. Activities include hiking, kayaking, walks through glacier caves and snowmobile and dog-sled safari. Cruise ships generate a significant portion of the traffic, including both stops by offshore vessels and expeditionary cruises starting and ending in Svalbard. Traffic is strongly concentrated between March and August; overnights have quintupled from 1991 to 2008, when there were 93,000 guest-nights.[111]
 
 Research on Svalbard centers on Longyearbyen and Ny-Ålesund, the most accessible areas in the high Arctic. The treaty grants permission for any nation to conduct research on Svalbard, resulting in the Polish Polar Station and the Chinese Arctic Yellow River Station, plus Russian facilities in Barentsburg.[112] The University Centre in Svalbard in Longyearbyen offers undergraduate, graduate and postgraduate courses to 350 students in various arctic sciences, particularly biology, geology and geophysics. Courses are provided to supplement studies at the mainland universities; there are no tuition fees and courses are held in English, with Norwegian and international students equally represented.[113]
 
@@ -128,7 +124,7 @@ One source of income for the area was, until 2015, visiting cruise ships. The No
 
 Transport
 
-Longyear01.jpgs are an important mode of transport in Svalbard, such as here at Longyearbyen]]
+s are an important mode of transport in Svalbard, such as here at Longyearbyen]]
 
 Within Longyearbyen, Barentsburg, and Ny-Ålesund, there are road systems, but they do not connect with each other. Off-road motorized transport is prohibited on bare ground, but snowmobiles are used extensively during winter—both for commercial and recreational activities. Transport from Longyearbyen to Barentsburg () and Pyramiden () is possible by snowmobile in winter, or by ship all year round. All settlements have ports and Longyearbyen has a bus system.[119]
 
@@ -137,7 +133,7 @@ Svalbard Airport, Longyear, located from Longyearbyen, is the only airport offer
 
 Climate
 
-Spitzbergen-2_hg.jpg during August]]
+during August]]
 
 The climate of Svalbard is dominated by its high latitude, with the average summer temperature at and January averages at .[126] The West Spitsbergen Current, the northernmost branch of the North Atlantic Current system, moderates Svalbard's temperatures, particularly during winter. Winter temperatures in Svalbard are up to higher than those at similar latitudes in Russia and Canada. The warm Atlantic water keeps the surrounding waters open and navigable most of the year. The interior fjord areas and valleys, sheltered by the mountains, have larger temperature differences than the coast, giving about warmer summer temperatures and colder winter temperatures. On the south of Spitsbergen, the temperature is slightly higher than further north and west. During winter, the temperature difference between south and north is typically , and about in summer. Bear Island has average temperatures even higher than the rest of the archipelago.[127]
 
@@ -148,21 +144,21 @@ Svalbard is where cold polar air from the north and mild, wet sea air from the s
 
 Nature
 
-Long-tailed_Skua_(js)_26.jpg]]
+]]
 
 In addition to humans, three primarily terrestrial mammalian species inhabit the archipelago: the Arctic fox, the Svalbard reindeer, and accidentally introduced southern voles, which are found only in Grumant.[131] Attempts to introduce the Arctic hare and the muskox have both failed.[132] There are 15 to 20 types of marine mammals, including whales, dolphins, seals, walruses, and polar bears.[133]
 
 Polar bears are the iconic symbol of Svalbard, and one of the main tourist attractions.[134] The animals are protected and people moving outside the settlements are required to have appropriate scare devices to ward off attacks. They are also advised to carry a firearm for use as a last resort.[135][136] A British schoolboy was killed by a polar bear in 2011.[137] In July 2018 a polar bear was shot dead after it attacked and injured a polar bear guard leading tourists off a cruise ship.[138][139] Svalbard and Franz Joseph Land share a common population of 3,000 polar bears, with Kong Karls Land being the most important breeding ground.
 
-Female_polar_bear_(Ursus_maritimus)_with_cub,_Svalbard.jpg with cub]] The Svalbard reindeer (_R. tarandus platyrhynchus_) is a distinct sub-species; although it was previously almost extinct, it can be legally hunted (as can Arctic fox).[140] There are limited numbers of domesticated animals in the Russian settlements.[141]
+with cub]] The Svalbard reindeer (_R. tarandus platyrhynchus_) is a distinct sub-species; although it was previously almost extinct, it can be legally hunted (as can Arctic fox).[140] There are limited numbers of domesticated animals in the Russian settlements.[141]
 
-Tundra1_(js).jpg]] About eighty species of bird are found on Svalbard, most of which are migratory[142]. The Barents Sea is among the areas in the world with most seabirds, with about 20 million individuals during late summer. The most common are little auk, northern fulmar, thick-billed murre and black-legged kittiwake. Sixteen species are on the IUCN Red List. Particularly Bjørnøya, Storfjorden, Nordvest-Spitsbergen and Hopen are important breeding ground for seabirds. The Arctic tern has the furthest migration, all the way to Antarctica.[143] Only two songbirds migrate to Svalbard to breed: the snow bunting and the wheatear. Rock ptarmigan is the only bird to overwinter.[144] Remains of Predator X from the Jurassic period have been found; it is the largest dinosaur-era marine reptile ever found—a pliosaur estimated to have been almost long.[145]
+]] About eighty species of bird are found on Svalbard, most of which are migratory[142]. The Barents Sea is among the areas in the world with most seabirds, with about 20 million individuals during late summer. The most common are little auk, northern fulmar, thick-billed murre and black-legged kittiwake. Sixteen species are on the IUCN Red List. Particularly Bjørnøya, Storfjorden, Nordvest-Spitsbergen and Hopen are important breeding ground for seabirds. The Arctic tern has the furthest migration, all the way to Antarctica.[143] Only two songbirds migrate to Svalbard to breed: the snow bunting and the wheatear. Rock ptarmigan is the only bird to overwinter.[144] Remains of Predator X from the Jurassic period have been found; it is the largest dinosaur-era marine reptile ever found—a pliosaur estimated to have been almost long.[145]
 
-Bünsow_Land_Brisingefjellet_IMG_7496.JPG. Located at Isfjorden in Spitsbergen]] Svalbard has permafrost and tundra, with both low, middle and high Arctic vegetation. 165 species of plants have been found on the archipelago.[146] Only those areas which defrost in the summer have vegetations, which accounts for about 10% of the archipelago.[147] Vegetation is most abundant in Nordenskiöld Land, around Isfjorden and where affected by guano.[148] While there is little precipitation, giving the archipelago a steppe climate, plants still have good access to water because the cold climate reduces evaporation.[149][150] The growing season is very short, and may last only a few weeks.[151]
+. Located at Isfjorden in Spitsbergen]] Svalbard has permafrost and tundra, with both low, middle and high Arctic vegetation. 165 species of plants have been found on the archipelago.[146] Only those areas which defrost in the summer have vegetations, which accounts for about 10% of the archipelago.[147] Vegetation is most abundant in Nordenskiöld Land, around Isfjorden and where affected by guano.[148] While there is little precipitation, giving the archipelago a steppe climate, plants still have good access to water because the cold climate reduces evaporation.[149][150] The growing season is very short, and may last only a few weeks.[151]
 
-Prins-karls-forrland_pho.jpg was protected as Forlandet National Park in 1973]] There are seven national parks in Svalbard: Forlandet, Indre Wijdefjorden, Nordenskiöld Land, Nordre Isfjorden Land, Nordvest-Spitsbergen, Sassen-Bünsow Land and Sør-Spitsbergen.[152] The archipelago has fifteen bird sanctuaries, one geotopic protected area and six nature reserves—with Nordaust-Svalbard and Søraust-Svalbard both being larger than any of the national parks. Most of the nature reserves and three of the national parks were created in 1973, with the remaining areas gaining protection in the 2000s.[153] All human traces dating from before 1946 are automatically protected.[154] The protected areas make up 65% of the archipelago.[155] Svalbard is on Norway's tentative list for nomination as a UNESCO World Heritage Site.[156]
+was protected as Forlandet National Park in 1973]] There are seven national parks in Svalbard: Forlandet, Indre Wijdefjorden, Nordenskiöld Land, Nordre Isfjorden Land, Nordvest-Spitsbergen, Sassen-Bünsow Land and Sør-Spitsbergen.[152] The archipelago has fifteen bird sanctuaries, one geotopic protected area and six nature reserves—with Nordaust-Svalbard and Søraust-Svalbard both being larger than any of the national parks. Most of the nature reserves and three of the national parks were created in 1973, with the remaining areas gaining protection in the 2000s.[153] All human traces dating from before 1946 are automatically protected.[154] The protected areas make up 65% of the archipelago.[155] Svalbard is on Norway's tentative list for nomination as a UNESCO World Heritage Site.[156]
 
-Total_solar_eclipse_of_March_20,_2015_by_Damien_Deltenre_(licensed_for_free_use)._(32844461616).jpg from Longyearbyen, Norway]] The total solar eclipse of 20 March 2015 included only Svalbard and the Faroe Islands in the band of totality. Many scientists and tourists observed it.
+from Longyearbyen, Norway]] The total solar eclipse of 20 March 2015 included only Svalbard and the Faroe Islands in the band of totality. Many scientists and tourists observed it.
 
 
 Education

@@ -1,1 +1,0 @@
-The ABERDEEN CHANNEL BRIDGE is a double-track railway bridge in Hong Kong. It carries the MTR's South Island Line over the Aberdeen Channel, linking Lei Tung Station and Wong Chuk Hang Station. Its name reflects the channel the bridge crosses.

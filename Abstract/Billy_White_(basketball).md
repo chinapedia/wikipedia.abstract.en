@@ -1,1 +1,0 @@
-BILLY WHITE (born January 26, 1989) is an American professional basketball player for the Moncton Magic of the National Basketball League of Canada. He competed with San Diego State at the college level. After graduating, White joined the NBA D-League and then played for multiple international clubs. Most recently, he won the NBL Canada championship with the Halifax Hurricanes.

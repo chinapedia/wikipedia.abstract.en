@@ -1,1 +1,0 @@
-Comanche_in_the_Rolex_Transatlantic_Race_2015_leaving_Newport_RI_for_Plymouth_England--C.jpg _COMANCHE_ is a 100 ft (33 m) maxi yacht. She was designed in France by VPLP and Guillaume Verdier and built in the United States by Hodgdon Yachts for Dr. James H. Clark and christened as _Comanche_.

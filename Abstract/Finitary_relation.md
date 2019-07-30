@@ -1,1 +1,0 @@
-In mathematics, a FINITARY RELATION is a property that assigns truth values to finite tuples of elements. Typically, the property describes a possible connection between the components of a -tuple. For a given set of -tuples, a truth value is assigned to each -tuple according to whether the property does or does not hold. When , one has the most common version, a binary relation.

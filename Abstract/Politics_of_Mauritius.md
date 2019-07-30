@@ -1,1 +1,0 @@
-POLITICS OF MAURITIUS () takes place in a framework of a parliamentary democracy. The separation of powers is among the three branches of the Government of Mauritius, namely the legislative, the executive and the Judiciary, is embedded in the Constitution of Mauritius.

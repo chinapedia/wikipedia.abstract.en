@@ -1,1 +1,0 @@
-The DANUBE ARENA[1] (in Hungarian: _Duna Aréna_, unofficially _Dagály Budapest Aquatics Complex_) is an aquatics complex located in Budapest, Hungary. It was planned by Marcell Ferenc and built between 2015 and 2017. The facility has two full course swimming pools, a diving pool and a short course training pool.

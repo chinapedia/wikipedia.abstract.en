@@ -1,1 +1,0 @@
-IAS 14 – Business segments is a former International Accounting Standard that was fully redrawn in 2009 and superseded by IFRS 8. IAS 14 set the guideline on how to identify different business segments of a company.[1]

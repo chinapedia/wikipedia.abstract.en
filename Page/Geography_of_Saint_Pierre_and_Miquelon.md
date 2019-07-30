@@ -1,4 +1,4 @@
-Saint-Pierre_and_Miquelon_3D.png Saint Pierre and Miquelon is a French overseas collectivity in the Western Hemisphere and the Northern Hemisphere. It consists of an island archipelago off the coast of Newfoundland near North America. The collectivity shares a maritime boundary with Canada.
+Saint Pierre and Miquelon is a French overseas collectivity in the Western Hemisphere and the Northern Hemisphere. It consists of an island archipelago off the coast of Newfoundland near North America. The collectivity shares a maritime boundary with Canada.
 
 
 Location
@@ -25,7 +25,7 @@ What was originally the _island_ Miquelon is now also called _Grande Miquelon_ w
 
 Climate
 
-Winter_in_saint-pierre,_SPM,_white_house.JPG The climate is very damp and windy and winters are harsh and long. The spring and early summer are foggy and cool. Late summer and early fall are sunny. Winds pick up during spring and autumn
+The climate is very damp and windy and winters are harsh and long. The spring and early summer are foggy and cool. Late summer and early fall are sunny. Winds pick up during spring and autumn
 
 
 Environment

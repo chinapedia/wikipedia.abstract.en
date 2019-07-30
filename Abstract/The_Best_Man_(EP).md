@@ -1,1 +1,0 @@
-_THE BEST MAN_ is the third mini-album by South Korean recording artist Wheesung. It was released on May 12, 2014, under YMC Entertainment and distributed by KT Music. The record is the first release following the completion of his military service.

@@ -1,1 +1,0 @@
-PUU JIH SHIH TEMPLE () is a Buddhist temple located at the hilltop of Tanah Merah at Sandakan Bay in Sandakan, Sabah, Malaysia.[1][2][3] The temple was built in 1987 and officiated by Joseph Pairin Kitingan, the Chief Minister of Sabah at the time. It is the largest Chinese temple for the town and situated around 4 kilometres west of the town centre.[4][5]

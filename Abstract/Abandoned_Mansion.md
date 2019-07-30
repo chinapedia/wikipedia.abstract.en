@@ -1,1 +1,0 @@
-_ABANDONED MANSION_ is the tenth album by psychedelic rock band Dr. Dog. It was released on November 29, 2016 and is the band’s first on the We Buy Gold Records record label.[1] The album was produced and engineered by Nathan Sabatino and recorded in 2014 in the band’s Mt. Slippery studio in Clifton Heights, PA.[2]

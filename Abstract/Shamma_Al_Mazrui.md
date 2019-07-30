@@ -1,1 +1,0 @@
-SHAMMA BINT SUHAIL FARIS AL MAZRUI (born 1993) is an Emirati politician who currently serves as Minister of State for Youth Affairs in the United Arab Emirates. In February 2016, she became the youngest government minister in the world.

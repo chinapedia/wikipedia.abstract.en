@@ -1,1 +1,0 @@
-Motorola_MC68000FN8.jpg This LIST OF MACINTOSH MODELS GROUPED BY CPU TYPE contains all CPUs used by Apple Inc. for their Macintosh computers. It is grouped by processor family, processor model, and then chronologically by Macintosh model.

@@ -1,1 +1,0 @@
-SANI UDIYAR is a Village situated in Kanda Tehsil[1] in Bageshwar district in the State of Uttarakhand, India. It is located at a distance of from Kanda and from Bageshwar. Sani Udiyar is a medium-sized village with total 88 families residing.[2][3][4] It has substantial population of people belonging to Schedule Caste.[5]

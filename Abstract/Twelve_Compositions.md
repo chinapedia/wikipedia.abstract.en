@@ -1,1 +1,0 @@
-_TWELVE COMPOSITIONS_ (subtitled _RECORDED LIVE IN JULY 1993 AT YOSHI'S IN OAKLAND CALIFORNIA_) is a double CD live album by American saxophonist and composer Anthony Braxton recorded at Yoshi's in 1993 and released on the Music & Arts label.[1][2]

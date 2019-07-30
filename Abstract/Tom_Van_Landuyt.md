@@ -1,1 +1,0 @@
-TOM VAN LANDUYT (born 7 May 1967) is a Belgian actor and singer probably best known for his role as Tom Smiths in the Belgian drama film _Ad Fundum_. He has also starred in numerous Flemish movies, Television series and on stage. In 2002, he married the Dutch actress Angela Schijf.

@@ -1,1 +1,0 @@
-_LOVE IS A PENDULUM_ is an album released by American jazz vibraphonist Joe Locke in 2015 on the Motéma label.[1] The album is centered on the five-movement suite of the same name, which Locke was inspired to write after reading a poem by Barbara Sfraga.[2][3]

@@ -1,1 +1,0 @@
-'''Julie Trustrup Jensen ''' (born 6 April 1994) is a Danish women's international footballer who plays as a midfielder for the Danish women's national team as well as for Vålerenga in the Norwegian Toppserien.

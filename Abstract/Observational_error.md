@@ -1,1 +1,0 @@
-OBSERVATIONAL ERROR (or MEASUREMENT ERROR) is the difference between a measured value of a quantity and its true value.[1] In statistics, an error is not a "mistake". Variability is an inherent part of the results of measurements and of the measurement process.

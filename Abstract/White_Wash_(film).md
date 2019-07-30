@@ -1,1 +1,0 @@
-_WHITE WASH_ is a 2011 American documentary film about black surfers, directed, produced, and written by Ted Woods. It documents the struggles of an African Americans being in a predominately "white sport".[1][2][3][4][5][6][7][8]

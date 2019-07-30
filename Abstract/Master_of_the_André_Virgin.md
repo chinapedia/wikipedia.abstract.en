@@ -1,1 +1,0 @@
-Master_of_the_André_Virgin_-_The_Virgin_and_Child_between_Angels_1930.62.jpg]] MASTER OF THE ANDRÉ VIRGIN or MASTER OF THE ANDRÉ MADONNA (1500 – ?) was a Southern-Netherlandish painter active in Bruges.

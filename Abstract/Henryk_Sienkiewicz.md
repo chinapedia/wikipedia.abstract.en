@@ -1,1 +1,0 @@
-HENRYK ADAM ALEKSANDER PIUS SIENKIEWICZ (; also known by the pseudonym "Litwos" ; 5 May 1846 – 15 November 1916) was a Polish journalist, novelist and Nobel Prize laureate. He is best remembered for his historical novels, especially for his internationally known best-seller _Quo Vadis_ (1896).

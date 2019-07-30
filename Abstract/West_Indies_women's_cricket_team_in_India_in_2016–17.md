@@ -1,1 +1,0 @@
-The West Indies women's cricket team toured India in November 2016. The tour consisted of a series of three One Day Internationals which are part of the 2014–16 ICC Women's Championship and three Twenty20 Internationals.[1] India won the ODI series 3–0 and the West Indies won the T20I series 3–0.[2][3]

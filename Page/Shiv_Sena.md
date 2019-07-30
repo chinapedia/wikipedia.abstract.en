@@ -9,7 +9,7 @@ The party draws its strength mainly from the support of the Maratha community of
 
 History
 
-Shivsenakolkata.jpg.]]
+.]]
 
 Origins
 

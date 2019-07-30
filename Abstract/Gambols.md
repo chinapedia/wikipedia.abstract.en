@@ -1,1 +1,0 @@
-|{{#property:P826}}]] |era = |choreographer = {{#property:P1809}} |year = 2011/2014 |published_in = Colin Hume's website |music_title = The Shepherd and Shepherdess |composer = John Johnson |music_collector = |music_year = c. 1750 |music_published_in = Johnson volume8 }}

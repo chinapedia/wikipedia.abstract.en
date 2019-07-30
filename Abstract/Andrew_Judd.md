@@ -1,1 +1,0 @@
-ANDREW JUDD is a New Zealand local government politician and activist. He won the mayoralty of New Plymouth from one-term incumbent Harry Duynhoven with a resounding 9,206 vote majority in 2013[1] and served one term before announcing he would not stand again in 2016.[2]

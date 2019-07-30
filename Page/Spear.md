@@ -1,4 +1,4 @@
-A_spear_and_a_series_of_javelins..png wood.]]
+wood.]]
 
 A SPEAR is a pole weapon consisting of a shaft, usually of wood, with a pointed head. The head may be simply the sharpened end of the shaft itself, as is the case with fire hardened spears, or it may be made of a more durable material fastened to the shaft, such as flint, obsidian, iron, steel or bronze. The most common design for hunting or combat spears since ancient times has incorporated a metal spearhead shaped like a triangle, lozenge, or leaf. The heads of fishing spears usually feature barbs or serrated edges.
 
@@ -13,7 +13,7 @@ Spear manufacture and use is not confined to humans. It is also practiced by the
 
 Prehistory
 
-Clacton_Spear_02.jpg]] Mesa_Verde_spear_and_knife.jpg]]
+]] ]]
 
 Archaeological evidence found in present-day Germany documents that wooden spears have been used for hunting since at least 400,000 years ago,[3] and a 2012 study suggests that _Homo heidelbergensis_ may have developed the technology about 500,000 years ago.[4] Wood does not preserve well, however, and Craig Stanford, a primatologist and professor of anthropology at the University of Southern California, has suggested that the discovery of spear use by chimpanzees probably means that early humans used wooden spears as well, perhaps, five million years ago.[5]
 
@@ -26,17 +26,17 @@ Military
 
 Ancient history
 
-Stele_of_Vultures_detail_01-transparent.pngian spearmen advancing in close formation with large shields – Stele of the Vultures, c.2450 BCE]]
+ian spearmen advancing in close formation with large shields – Stele of the Vultures, c.2450 BCE]]
 
 Africa
 
-Zulu_warrior.jpg man with iklwa, 1917]]
+man with iklwa, 1917]]
 
 Europe
 
 Greeks
 
-Warrior_spear_CdM_Paris_DeRidder299.jpg The spear is the main weapon of the warriors of Homer's Iliad. The use of both a single thrusting spear and two throwing spears are mentioned. It has been suggested that two styles of combat are being described; an early style, with thrusting spears, dating to the Mycenaean period in which the Iliad is set, and, anachronistically, a later style, with throwing spears, from Homer's own Archaic period.[7]
+The spear is the main weapon of the warriors of Homer's Iliad. The use of both a single thrusting spear and two throwing spears are mentioned. It has been suggested that two styles of combat are being described; an early style, with thrusting spears, dating to the Mycenaean period in which the Iliad is set, and, anachronistically, a later style, with throwing spears, from Homer's own Archaic period.[7]
 
 In the 7th century BCE, the Greeks evolved a new close-order infantry formation, the phalanx.[8] The key to this formation was the hoplite, who was equipped with a large, circular, bronze-faced shield (aspis) and a spear with an iron head and bronze butt-spike (doru).[9] The hoplite phalanx dominated warfare among the Greek City States from the 7th into the 4th century BCE.
 
@@ -44,7 +44,7 @@ The 4th century saw major changes. One was the greater use of peltasts, light in
 
 Romans
 
-Roman_soldier_175_aC_in_northern_province.jpg'']] In the pre-Marian Roman armies, the first two lines of battle, the _hastati_ and _principes_, often fought with a sword called a _gladius_ and _pila_, heavy javelins that were specifically designed to be thrown at an enemy to pierce and foul a target's shield. Originally the _principes_ were armed with a short spear called a _hasta_, but these gradually fell out of use, eventually being replaced by the gladius. The third line, the _triarii_, continued to use the _hasta_.
+'']] In the pre-Marian Roman armies, the first two lines of battle, the _hastati_ and _principes_, often fought with a sword called a _gladius_ and _pila_, heavy javelins that were specifically designed to be thrown at an enemy to pierce and foul a target's shield. Originally the _principes_ were armed with a short spear called a _hasta_, but these gradually fell out of use, eventually being replaced by the gladius. The third line, the _triarii_, continued to use the _hasta_.
 
 From the late 2nd century BCE, all legionaries were equipped with the _pilum_. The _pilum_ continued to be the standard legionary spear until the end of the 2nd century CE. _Auxilia_, however, were equipped with a simple hasta and, perhaps, throwing spears. During the 3rd century CE, although the _pilum_ continued to be used, legionaries usually were equipped with other forms of throwing and thrusting spear, similar to _auxilia_ of the previous century. By the 4th century, the _pilum_ had effectively disappeared from common use.[13]
 
@@ -62,7 +62,7 @@ After the fall of the Western Roman Empire, the spear and shield continued to be
 
 Infantry
 
-Assyrian_soldier_holding_a_spear_and_wearing_a_helmet._Detail_of_a_basalt_relief_from_the_palace_of_Tiglath-pileser_III_at_Hadatu,_Syria._744-727_BCE._Ancient_Orient_Museum,_Istanbul.jpg Broadly speaking, spears were either designed to be used in melee, or to be thrown. Within this simple classification, there was a remarkable range of types. For example, M.J. Swanton identified thirty different spearhead categories and sub-categories in Early Saxon England.[15] Most medieval spearheads were generally leaf-shaped. Notable types of Early medieval spears include the _angon_, a throwing spear with a long head similar to the Roman _pilum_, used by the Franks and Anglo-Saxons, and the winged (or lugged) spear, which had two prominent wings at the base of the spearhead, either to prevent the spear penetrating too far into an enemy or to aid in spear fencing.[16] Originally a Frankish weapon, the winged spear also was popular with the Vikings. It would become the ancestor of later medieval polearms, such as the _partisan_ and _spetum_.
+Broadly speaking, spears were either designed to be used in melee, or to be thrown. Within this simple classification, there was a remarkable range of types. For example, M.J. Swanton identified thirty different spearhead categories and sub-categories in Early Saxon England.[15] Most medieval spearheads were generally leaf-shaped. Notable types of Early medieval spears include the _angon_, a throwing spear with a long head similar to the Roman _pilum_, used by the Franks and Anglo-Saxons, and the winged (or lugged) spear, which had two prominent wings at the base of the spearhead, either to prevent the spear penetrating too far into an enemy or to aid in spear fencing.[16] Originally a Frankish weapon, the winged spear also was popular with the Vikings. It would become the ancestor of later medieval polearms, such as the _partisan_ and _spetum_.
 
 The thrusting spear also has the advantage of reach, being considerably longer than other weapon types. Exact spear lengths are hard to deduce as few spear shafts survive archaeologically but would seem to have been the norm. Some nations were noted for their long spears, including the Scots and the Flemish. Spears usually were used in tightly ordered formations, such as the shieldwall or the schiltron. To resist cavalry, spear shafts could be planted against the ground.[17] William Wallace drew up his schiltrons in a circle at the Battle of Falkirk in 1298 to deter charging cavalry,[18] it was a widespread tactic sometimes known as the "crown" formation.[19]
 
@@ -80,11 +80,11 @@ Asia
 
 Chinese
 
-Bronze_spearheads,_Shang_Dynasty.JPG spear heads]] Spears were used first as hunting weapons amongst the ancient Chinese. They became popular as infantry weapons during the Warring States and Qin era, when spearmen were used as especially highly disciplined soldiers in organized group attacks. When used in formation fighting, spearmen would line up their large rectangular or circular shields in a shieldwall manner. The Qin also employed long spears (more akin to a pike) in formations similar to Swiss pikemen in order to ward off cavalry. The Han Empire would use similar tactics as its Qin predecessors. Halberds, polearms, and dagger axes were also common weapons during this time.
+spear heads]] Spears were used first as hunting weapons amongst the ancient Chinese. They became popular as infantry weapons during the Warring States and Qin era, when spearmen were used as especially highly disciplined soldiers in organized group attacks. When used in formation fighting, spearmen would line up their large rectangular or circular shields in a shieldwall manner. The Qin also employed long spears (more akin to a pike) in formations similar to Swiss pikemen in order to ward off cavalry. The Han Empire would use similar tactics as its Qin predecessors. Halberds, polearms, and dagger axes were also common weapons during this time.
 
 Spears were also common weaponry for Warring States, Qin, and Han era cavalry units. During these eras, the spear would develop into a longer lance-like weapon used for cavalry charges.
 
-There are many words in Chinese that would be classified as a spear in English. The _Mao_ is the predecessor of the _Qiang_. The first bronze _Mao_ appeared in the Shang dynasty. This weapon was less prominent on the battlefield than the _ge_ (dagger-axe). In some archaeological examples two tiny holes or ears can be found in the blade of the spearhead near the socket, these holes were presumably used to attach tassels, much like modern day wushu spears. Spear_Jinsha.JPG Chinese_pirate_spear_hmsL4.jpg
+There are many words in Chinese that would be classified as a spear in English. The _Mao_ is the predecessor of the _Qiang_. The first bronze _Mao_ appeared in the Shang dynasty. This weapon was less prominent on the battlefield than the _ge_ (dagger-axe). In some archaeological examples two tiny holes or ears can be found in the blade of the spearhead near the socket, these holes were presumably used to attach tassels, much like modern day wushu spears.
 
 In the early Shang, the _Mao_ appeared to have a relatively short shaft as well as a relatively narrow shaft as opposed to _Mao_ in the later Shang and Western Zhou period. Some _Mao_ from this era are heavily decorated as is evidenced by a Warring States period _Mao_ from the Ba Shu area.[27]
 
@@ -96,45 +96,41 @@ There is some confusion as to how to distinguish the _Qiang_ from the _Mao_, as 
 
 Indian society
 
-Maratha_Soldier.jpg soldier with spear by James Forbes, 1813.]] Spears in the Indian society were used both in missile and non-missile form, both by cavalry and foot-soldiers. Mounted spear-fighting was practiced using with a ten-foot, ball-tipped wooden lance called a _bothati_, the end of which was covered in dye so that hits may be confirmed. Spears were constructed from a variety of materials such as the _sang_ made completely of steel, and the _ballam_ which had a bamboo shaft. The Rajputs wielded a type of spear for infantrymen which had a club integrated into the spearhead, and a pointed butt end. Other spears had forked blades, several spear-points, and numerous other innovations. One particular spear unique to India was the _vita_ or corded lance. Used by the Maratha army, it had a rope connecting the spear with the user's wrist, allowing the weapon to be thrown and pulled back. The _Vel_ is a type of spear or lance, originated in Southern India, primarily used by Tamils.[31][32]
+soldier with spear by James Forbes, 1813.]] Spears in the Indian society were used both in missile and non-missile form, both by cavalry and foot-soldiers. Mounted spear-fighting was practiced using with a ten-foot, ball-tipped wooden lance called a _bothati_, the end of which was covered in dye so that hits may be confirmed. Spears were constructed from a variety of materials such as the _sang_ made completely of steel, and the _ballam_ which had a bamboo shaft. The Rajputs wielded a type of spear for infantrymen which had a club integrated into the spearhead, and a pointed butt end. Other spears had forked blades, several spear-points, and numerous other innovations. One particular spear unique to India was the _vita_ or corded lance. Used by the Maratha army, it had a rope connecting the spear with the user's wrist, allowing the weapon to be thrown and pulled back. The _Vel_ is a type of spear or lance, originated in Southern India, primarily used by Tamils.[31][32]
 
 Japan
 
-Estampe-p1000685.jpg print of a samurai general holding a yari in his right hand]] The hoko spear was used in ancient Japan sometime between the Yayoi period and the Heian period, but it became unpopular as early samurai often acted as horseback archers. Medieval Japan employed spears again for infantrymen to use, but it was not until the 11th century in that samurai began to prefer spears over bows. Several polearms were used in the Japanese theatres; the naginata was a glaive-like weapon with a long, curved blade popularly among the samurai and the Buddhist warrior-monks, often used against cavalry; the yari was a longer polearm, with a straight-bladed spearhead, which became the weapon of choice of both the samurai and the ashigaru (footmen) during the Warring States Era, The horseback samurai used shorter yari for his single-armed combat, on the other hand, ashigaru infantries used long yari (similar with European pike) for their massed combat formation.
+print of a samurai general holding a yari in his right hand]] The hoko spear was used in ancient Japan sometime between the Yayoi period and the Heian period, but it became unpopular as early samurai often acted as horseback archers. Medieval Japan employed spears again for infantrymen to use, but it was not until the 11th century in that samurai began to prefer spears over bows. Several polearms were used in the Japanese theatres; the naginata was a glaive-like weapon with a long, curved blade popularly among the samurai and the Buddhist warrior-monks, often used against cavalry; the yari was a longer polearm, with a straight-bladed spearhead, which became the weapon of choice of both the samurai and the ashigaru (footmen) during the Warring States Era, The horseback samurai used shorter yari for his single-armed combat, on the other hand, ashigaru infantries used long yari (similar with European pike) for their massed combat formation.
 
 Korea
 
-Korean_spears.jpg
-
 Philippines
 
-Native-Warrior.jpg Filipino spears (sibat) were used as both a weapon and a tool throughout the Philippines. It is also called a _bangkaw_ (after the Bankaw Revolt.), _sumbling_ or _palupad_ in the islands of Visayas and Mindanao. Sibat are typically made from rattan, either with a sharpened tip or a head made from metal. These heads may either be single-edged, double-edged or barbed. Styles vary according to function and origin. For example, a sibat designed for fishing may not be the same as those used for hunting.
+Filipino spears (sibat) were used as both a weapon and a tool throughout the Philippines. It is also called a _bangkaw_ (after the Bankaw Revolt.), _sumbling_ or _palupad_ in the islands of Visayas and Mindanao. Sibat are typically made from rattan, either with a sharpened tip or a head made from metal. These heads may either be single-edged, double-edged or barbed. Styles vary according to function and origin. For example, a sibat designed for fishing may not be the same as those used for hunting.
 
 The spear was used as the primary weapon in expeditions and battles against neighbouring island kingdoms and it became famous during the 1521 Battle of Mactan, where the chieftain Lapu Lapu of Cebu fought against Spanish forces led by Ferdinand Magellan who was subsequently killed.
 
 Vietnam
 
-The Vietnamese people used spears similar to that of the Chinese, but also used punji spears Giao1.JPG spear heads]]
+The Vietnamese people used spears similar to that of the Chinese, but also used punji spears spear heads]]
 
 North America
 
 Mesoamerica
 
-A_smoky_day_at_the_Sugar_Bowl--Hupa.jpg man with his spear – _by Edward Sheriff Curtis, dated 1923_]] As advanced metallurgy was largely unknown in pre-Columbian America outside of Western Mexico and South America, most weapons in Meso-America were made of wood or obsidian. This didn't mean that they were less lethal, as obsidian may be sharpened to become many times sharper than steel.[33] Meso-American spears varied greatly in shape and size. While the Aztecs preferred the sword-like macuahuitl for fighting,[34] the advantage of a far-reaching thrusting weapon was recognised, and a large portion of the army would carry the tepoztopilli into battle.[35] The tepoztopilli was a pole-arm, and to judge from depictions in various Aztec codices, it was roughly the height of a man, with a broad wooden head about twice the length of the users' palm or shorter, edged with razor-sharp obsidian blades which were deeply set in grooves carved into the head, and cemented in place with bitumen or plant resin as an adhesive. The tepoztopilli was able both to thrust and slash effectively.
+man with his spear – _by Edward Sheriff Curtis, dated 1923_]] As advanced metallurgy was largely unknown in pre-Columbian America outside of Western Mexico and South America, most weapons in Meso-America were made of wood or obsidian. This didn't mean that they were less lethal, as obsidian may be sharpened to become many times sharper than steel.[33] Meso-American spears varied greatly in shape and size. While the Aztecs preferred the sword-like macuahuitl for fighting,[34] the advantage of a far-reaching thrusting weapon was recognised, and a large portion of the army would carry the tepoztopilli into battle.[35] The tepoztopilli was a pole-arm, and to judge from depictions in various Aztec codices, it was roughly the height of a man, with a broad wooden head about twice the length of the users' palm or shorter, edged with razor-sharp obsidian blades which were deeply set in grooves carved into the head, and cemented in place with bitumen or plant resin as an adhesive. The tepoztopilli was able both to thrust and slash effectively.
 
 Throwing spears also were used extensively in Meso-American warfare, usually with the help of an atlatl.[36] Throwing spears were typically shorter and more stream-lined than the tepoztopilli, and some had obsidian edges for greater penetration.
 
 Native American
 
-Spear_Case,_late_19th_century,_26.792.jpg]] Typically, most spears made by Native Americans were created with materials surrounded by their communities. Usually, the shaft of the spears were made with a wooden stick while the head of the spear was fashioned from arrowheads, pieces of metal such as copper, or a bone that had been sharpened. Spears were a preferred weapon by many since it was inexpensive to create, could more easily be taught to others, and could be made quickly and in large quantities.
+]] Typically, most spears made by Native Americans were created with materials surrounded by their communities. Usually, the shaft of the spears were made with a wooden stick while the head of the spear was fashioned from arrowheads, pieces of metal such as copper, or a bone that had been sharpened. Spears were a preferred weapon by many since it was inexpensive to create, could more easily be taught to others, and could be made quickly and in large quantities.
 
 Native Americans used the Buffalo Pound method to kill buffalo, which required a hunter to dress as a buffalo and lure one into a ravine where other hunters were hiding. Once the buffalo appeared, the other hunters would kill him with spears. A variation of this technique, called the Buffalo Jump was when a runner would lead the animals towards a cliff. As the buffalo got close to the cliff, other members of the tribe would jump out from behind rocks or trees and scare the buffalo over the cliff. Other hunters would be waiting at the bottom of the cliff to spear the animal to death.[37]
 
 Modern history
 
 Europe
-
-Pikeniere_Wallenstein-Festspiele_Memmingen.jpg
 
 The development of both the long, two-handed pike and gunpowder in Renaissance Europe saw an ever-increasing focus on integrated infantry tactics.[38] Those infantry not armed with these weapons carried variations on the pole-arm, including the halberd and the bill. Ultimately, the spear proper was rendered obsolete on the battlefield. Its last flowering was the half-pike or spontoon,[39] a shortened version of the pike carried by officers and NCOs. While originally a weapon, this came to be seen more as a badge of office, or _leading staff_ by which troops were directed.[40] The half-pike, sometimes known as a boarding pike, was also used as a weapon on board ships until the 19th century.[41]
 
@@ -143,13 +139,11 @@ At the start of the Renaissance, cavalry remained predominantly lance-armed; gen
 
 Hunting
 
-Spear_fishing_Peru_cropped.jpg with a multi-pronged spear]]
+with a multi-pronged spear]]
 
 One of the earliest forms of killing prey for humans, hunting game with a spear and spear fishing continues to this day as both a means of catching food and as a cultural activity. Some of the most common prey for early humans were mega fauna such as mammoths which were hunted with various kinds of spear. One theory for the Quaternary extinction event was that most of these animals were hunted to extinction by humans with spears. Even after the invention of other hunting weapons such as the bow the spear continued to be used, either as a projectile weapon or used in the hand as was common in boar hunting.
 
 Types
-
-Boar_Spear_MET_14.25.305_006jan2015.jpg
 
 -   Barred spears: A barred spear has a crossbar beneath the blade, to prevent too deep a penetration of the spear into an animal. The bar may be forged as part of the spearhead or may be more loosely tied by means of loops below the blade. Barred spears are known from the Bronze Age, but the first historical record of their use in Europe is found in the writings of Xenophon in the 5th century BC.[43] Examples also are shown in Roman art. In the Middle Ages, a winged or lugged war-spear was developed (see above), but the later Middle Ages saw the development of specialised types, such as the boar-spear and the bear-spear.[44] The boar-spear could be used both on foot or horseback.
 -   Javelin
@@ -165,13 +159,13 @@ In myth and legend
 
 Symbolism
 
-Odin_rides_to_Hel.jpg, carrying the spear Gungnir on his ride to Hel]] Like many weapons, a spear may also be a symbol of power. In the Chinese martial arts community, the Chinese spear (Qiang 槍) is popularly known as the "king of weapons".
+, carrying the spear Gungnir on his ride to Hel]] Like many weapons, a spear may also be a symbol of power. In the Chinese martial arts community, the Chinese spear (Qiang 槍) is popularly known as the "king of weapons".
 
 The Celts would symbolically destroy a dead warrior's spear either to prevent its use by another or as a sacrificial offering.
 
 In classical Greek mythology Zeus' bolts of lightning may be interpreted as a symbolic spear. Some would carry that interpretation to the spear that frequently is associated with Athena, interpreting her spear as a symbolic connection to some of Zeus' power beyond the Aegis once he rose to replacing other deities in the pantheon. Athena was depicted with a spear prior to that change in myths, however. Chiron's wedding-gift to Peleus when he married the nymph Thetis in classical Greek mythology, was an ashen spear as the nature of ashwood with its straight grain made it an ideal choice of wood for a spear.
 
-The Romans and their early enemies would force prisoners to walk underneath a 'yoke of spears', which humiliated them. The yoke would consist of three spears, two upright with a third tied between them at a height which made the prisoners stoop.[47] It has been surmised that this was because such a ritual involved the prisoners' warrior status being taken away. Alternatively, it has been suggested that the arrangement has a magical origin, a way to trap evil spirits.[48] The word _subjugate_ has its origins in this practice (from Latin _sub_ = under, _jugum_=a yoke).[49] Gombak_Selangor_Batu-Caves-01.jpg, holding his primary weapon, the _Vel_. - located in the Batu Caves, Malaysia.]] In Norse Mythology, the God Odin's spear (named Gungnir) was made by the sons of Ivaldi. It had the special property that it never missed its mark. During the War with the Vanir, Odin symbolically threw Gungnir into the Vanir host. This practice of symbolically casting a spear into the enemy ranks at the start of a fight was sometimes used in historic clashes, to seek Odin's support in the coming battle.[50] In Wagner's opera _Siegfried_, the haft of Gungnir is said to be from the "World-Tree" Yggdrasil.[51]
+The Romans and their early enemies would force prisoners to walk underneath a 'yoke of spears', which humiliated them. The yoke would consist of three spears, two upright with a third tied between them at a height which made the prisoners stoop.[47] It has been surmised that this was because such a ritual involved the prisoners' warrior status being taken away. Alternatively, it has been suggested that the arrangement has a magical origin, a way to trap evil spirits.[48] The word _subjugate_ has its origins in this practice (from Latin _sub_ = under, _jugum_=a yoke).[49] , holding his primary weapon, the _Vel_. - located in the Batu Caves, Malaysia.]] In Norse Mythology, the God Odin's spear (named Gungnir) was made by the sons of Ivaldi. It had the special property that it never missed its mark. During the War with the Vanir, Odin symbolically threw Gungnir into the Vanir host. This practice of symbolically casting a spear into the enemy ranks at the start of a fight was sometimes used in historic clashes, to seek Odin's support in the coming battle.[50] In Wagner's opera _Siegfried_, the haft of Gungnir is said to be from the "World-Tree" Yggdrasil.[51]
 
 Other spears of religious significance are the Holy Lance[52] and the Lúin of Celtchar,[53] believed by some to have vast mystical powers.
 

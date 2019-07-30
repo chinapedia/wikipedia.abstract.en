@@ -1,1 +1,0 @@
-The 1900–01 SYRACUSE ORANGEMEN BASKETBALL TEAM represented Syracuse University during the 1900–01 college men's basketball season. It was their first season of varsity basketball. There was no coach; instead captain Bill Lowe headed the team's operations.

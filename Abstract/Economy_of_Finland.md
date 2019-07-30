@@ -1,1 +1,0 @@
-Finland has a highly industrialised, mixed economy with a per capita output similar to that of other western European economies such as France, Germany and United Kingdom. The largest sector of the economy is services at 72.7 percent, followed by manufacturing and refining at 31.4 percent. Primary production is 2.9 percent.[1][2]

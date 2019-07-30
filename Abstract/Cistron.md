@@ -1,1 +1,0 @@
-A CISTRON is an alternative term to a gene.[1] The word cistron is used to emphasize that genes exhibit a specific behavior in a cis-trans test; distinct positions (or loci) within a genome are CISTRONIC.

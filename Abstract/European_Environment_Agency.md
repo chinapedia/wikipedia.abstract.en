@@ -1,1 +1,0 @@
-European_Environment_Agency_Building_in_Copenhagen_at_winter.jpg The EUROPEAN ENVIRONMENT AGENCY (EEA) is the agency of the European Union (EU) which provides independent information on the environment.

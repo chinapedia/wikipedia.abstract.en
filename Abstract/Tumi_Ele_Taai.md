@@ -1,1 +1,0 @@
-_TUMI ELE TAAI_ is a Bengali television Soap Opera that premiered on September 21, 2015 and airs on Colors Bangla. Produced by Raindrop Productions, it stars Diya Mukherjee and Uday Singh Rajput in lead roles.

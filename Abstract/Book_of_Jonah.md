@@ -1,1 +1,0 @@
-Pieter_Lastman_-_Jonah_and_the_Whale_-_Google_Art_Project.jpg]]

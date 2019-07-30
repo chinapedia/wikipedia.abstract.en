@@ -1,1 +1,0 @@
-MICHAEL STONEBANK, known by his alias STONEBANK, is an English electronic music producer of UK hardcore, complextro, and trap. He was the subject of a Magnetic Magazine spotlight which he describes how he makes his favorite synths using a music program plugin called Sylenth1.[1]

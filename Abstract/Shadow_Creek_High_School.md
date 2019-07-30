@@ -1,1 +1,0 @@
-SHADOW CREEK HIGH SCHOOL is a public high school in the Shadow Creek Ranch area of Pearland, Texas, in Greater Houston. A part of the Alvin Independent School District (AISD), SCHS was established in 2016. The mascot is the shark.

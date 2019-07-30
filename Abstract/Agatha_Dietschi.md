@@ -1,1 +1,0 @@
-AGATHA DIETSCHI, also known as _Hans Kaiser_ and _Schnitter Hensli_ (died after 1547), was a German charged for having lived her life as a man and married a woman. Her case is regarded as an important one in the history of prosecution of homosexuals.

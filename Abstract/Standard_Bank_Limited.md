@@ -1,1 +1,0 @@
-STANDARD BANK LIMITED is a private commercial bank in Bangladesh.[1] Mamun-Ur-Rashid is the managing director of the bank as of 2 October 2016.[2] Kazi Akram Uddin Ahmed is the Founder chairman of the bank and Mr.Kamal Mostafa Chowdhury is the Founder Vice-Chairman & Director Of the Bank[3]

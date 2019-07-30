@@ -1,1 +1,0 @@
-The STRAIT OF GIBRALTAR (; ) is a narrow strait that connects the Atlantic Ocean to the Mediterranean Sea and separates Gibraltar and Peninsular Spain in Europe from Morocco and Ceuta (Spain) in Africa.

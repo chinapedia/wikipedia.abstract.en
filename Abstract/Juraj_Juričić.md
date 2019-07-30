@@ -1,1 +1,0 @@
-JURAJ JURIČIĆ[1] (? – October 26, 1578; ,[2] first name also spelled _Jur, Jurj, Gjuro, Jurai, Georg_,[3] surname also spelled _Jurischitsch, Jureschitsch, Jereschitz_,[4] a.k.a. JURI(J) KOBILA[5][6]) was a Croatian-Slovene Protestant preacher and translator.

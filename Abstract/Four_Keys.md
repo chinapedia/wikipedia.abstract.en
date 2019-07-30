@@ -1,1 +1,0 @@
-_FOUR KEYS_ is an album by pianist Martial Solal with saxophonist Lee Konitz, guitarist John Scofield and bassist Niels-Henning Ørsted Pedersen recorded in West Germany in 1979 and released on the MPS label.[1][2][3] The album was also released in the US on Pausa Records.

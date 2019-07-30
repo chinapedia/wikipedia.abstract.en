@@ -1,1 +1,0 @@
-Operating_system_placement_(software).svg interacts with application software on a typical desktop computer.The application software layer interfaces with the operating system, which in turn communicates with the hardware. The arrows indicate information flow.]]

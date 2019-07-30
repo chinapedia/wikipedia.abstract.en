@@ -1,1 +1,0 @@
-VALENTIN NEUVILLE (Rexpoëde, 1863-Lyon, 1941) was a French composer who studied organ in Brussels and was organist at Saint-Nizier Church, Lyon.[1] His operas Tiphaine, Les Willis, Madeleine, L'Enfant, L'Aveugle were performed between 1899 and 1909 in Belgium, Germany and Sweden with success, but he was not recognized in France where his Wagnerisms were not welcomed.[2]

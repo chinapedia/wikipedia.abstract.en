@@ -1,1 +1,0 @@
-GRAVE DISABILITY or GRAVELY DISABLED is a legal status used as a criteria in addition to danger to self or others [1] as the basis for involuntary commitment [2] in only 9 of 50 states of the United States. [3] It is not a criteria in Washington, D.C..

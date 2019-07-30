@@ -1,1 +1,0 @@
-ROBERT WILMOT HOWARD (16 September 1887 – 23 November 1960) was a British Church of England priest and academic, who was Master of St Peter's Hall, Oxford (later known as St Peter's College) from 1945 to 1955.[1]

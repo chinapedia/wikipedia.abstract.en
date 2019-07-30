@@ -1,1 +1,0 @@
-KOFI BENTUM QUANTSON (born 6 July 1934) is a Ghanaian security intelligence expert who rose through the ranks after joining the Special Branch of the Ghana Police Service as a young detective to become Director. He later became the Director of the Bureau of National Investigations when the Special Branch was reorganized and renamed BNI.[1]

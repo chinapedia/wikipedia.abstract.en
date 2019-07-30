@@ -1,1 +1,0 @@
-SIRGHE was a Roman and Byzantine era city in the Roman province of Lydia in Asia Minor (modern Turkey). Sirghe was on the south bank of the Hermos River,[1][2] near the town of Bageis(probably opposite[3]) and minted its own coins.[4]

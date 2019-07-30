@@ -1,1 +1,0 @@
-'''Eva Minor ''' (born 21 January 1969) is a German former footballer. She was a member of the Germany women's national football team in 1987, playing 1 match.[1] On club level she played for VfR 09 Saarbrücken.

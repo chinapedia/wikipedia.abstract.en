@@ -1,1 +1,0 @@
-ELIZBAR ODIKADZE (born 14 June 1989) is a Georgian freestyle wrestler. He competed in the men's freestyle 97 kg event at the 2016 Summer Olympics, in which he lost the bronze medal match to Albert Saritov.[1][2]

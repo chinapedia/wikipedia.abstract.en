@@ -1,1 +1,0 @@
-This is a list of the songs that reached number one in Argentina in 1969, according to _Billboard_ magazine with data provided by Rubén Machado's "Escalera a la fama".[1] Leonardo_Favio_(1968).jpg and filmmaker Leonardo Favio (pictured) replaced himself twice at the #1 position in the Argentine charts.]]

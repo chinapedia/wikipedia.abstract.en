@@ -1,1 +1,0 @@
-Kanive_Temple.jpg Kanive_Hanging_Bridge.jpg KANIVE is a small village which is located 9 km north of Kushalanagar in Kodagu district of Karnataka state, India. Kanive also sits on the bank of Kaveri river. Business tycoon Deepak M Sharma hails from this place.

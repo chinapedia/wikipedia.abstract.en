@@ -1,1 +1,0 @@
-CARIEL BROOKS (born April 24, 1991) is a Canadian football cornerback for the Hamilton Tiger-Cats of the Canadian Football League (CFL). He played college football at Adams State. He was signed as an undrafted free agent by the Arizona Cardinals of the National Football League (NFL).

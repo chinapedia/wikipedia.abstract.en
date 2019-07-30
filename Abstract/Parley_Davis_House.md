@@ -1,1 +1,0 @@
-The PARLEY DAVIS HOUSE is a historic house on Center Road in East Montpelier, Vermont. Built in stages between 1795 and about 1805, it is one of the oldest buildings in the community, built by one of the first settlers of Montpelier, and served as the site of town government until 1828. It was listed on the National Register of Historic Places in 1989.[1]

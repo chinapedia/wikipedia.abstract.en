@@ -1,1 +1,0 @@
-BROWN HERMAN (sometimes referred to as 'Herman Brown') is a northwest central neighborhood located just west of downtown Austin, Texas. It is often included within the boundaries of Tarrytown or Bryker Woods.

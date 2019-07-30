@@ -1,1 +1,0 @@
-Partial_transmittance.gif

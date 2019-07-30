@@ -1,1 +1,0 @@
-This article lists international opinion polls taken in various countries around the world prior to the United States presidential election of 2016. Clinton was heavily favored in every foreign country where polling occurred, except for Russia and China.

@@ -1,1 +1,0 @@
-KEVIN MCLAUGHLIN is an American scholar of comparative literature, currently the George Hazard Crooker Distinguished University Professor of English, Professor of Comparative Studies and German Studies, and Dean of the Faculty at Brown University.[1] He is also a published author.[2]

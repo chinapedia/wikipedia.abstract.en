@@ -1,1 +1,0 @@
-The Ceylon cricket team toured India in December 1964 and January 1965. Ceylon did not then have Test status, but three four-day unofficial Tests were played, India winning 2–1. The tour also included five other first-class matches.

@@ -3,7 +3,7 @@ STENDHAL SYNDROME, STENDHAL'S SYNDROME or FLORENCE SYNDROME is a psychosomatic c
 
 History
 
-Stendhal.jpg.]] The affliction is named after 19th-century French author Stendhal (pseudonym of Marie-Henri Beyle), who described his experience with the phenomenon during his 1817 visit to Florence in his book _Naples and Florence: A Journey from Milan to Reggio_. When he visited the Basilica of Santa Croce, where Niccolò Machiavelli, Michelangelo and Galileo Galilei are buried, he was overcome with profound emotion. Stendhal wrote:
+.]] The affliction is named after 19th-century French author Stendhal (pseudonym of Marie-Henri Beyle), who described his experience with the phenomenon during his 1817 visit to Florence in his book _Naples and Florence: A Journey from Milan to Reggio_. When he visited the Basilica of Santa Croce, where Niccolò Machiavelli, Michelangelo and Galileo Galilei are buried, he was overcome with profound emotion. Stendhal wrote:
 
 Although psychologists have long debated whether Stendhal's syndrome exists, the apparent effects on some individuals are severe enough to warrant medical attention.[2] The staff at Florence's Santa Maria Nuova hospital are accustomed to tourists suffering from dizzy spells or disorientation after viewing the statue of David, the artworks of the Uffizi Gallery, and other historic relics of the Tuscan city.[3]
 

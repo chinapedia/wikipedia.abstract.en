@@ -1,1 +1,0 @@
-The SECOND ECUMENICAL COUNCIL OF THE VATICAN, commonly known as the or , addressed relations between the Catholic Church and the modern world.[1] The council, through the Holy See, was formally opened under the pontificate of Pope John XXIII on 11 October 1962 and was closed under Pope Paul VI on the Solemnity of the Immaculate Conception on 8 December 1965.

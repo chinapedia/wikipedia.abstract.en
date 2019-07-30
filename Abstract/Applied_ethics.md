@@ -1,1 +1,0 @@
-APPLIED ETHICS refers to the practical application of moral considerations. It is ethics with respect to real-world actions and their moral considerations in the areas of private and public life, the professions, health, technology, law, and leadership."Applied Ethics" Oxford Bibliographies.

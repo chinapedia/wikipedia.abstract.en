@@ -1,1 +1,0 @@
-TETSURO KIYOOKA (清岡 哲朗, _Kiyooka Tetsuro_, July 30, 1970) is a Japanese entrepreneur and FIFA Players' Agent (Sports agent). He holds Permanent residency in Canada, and his ancestors are the Shizoku in Tosa Province, Japan as well as a distant relative of Roy Kiyooka.

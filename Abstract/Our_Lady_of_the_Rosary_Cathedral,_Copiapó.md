@@ -1,1 +1,0 @@
-The OUR LADY OF THE ROSARY CATHEDRAL[1] () Also COPIAPÓ CATHEDRAL Is the catholic cathedral of the Diocese of Copiapó[2] in Chile.[3] It is the largest temple in the city, and is located on the west side of Plaza Prat, at the intersection of Chacabuco and O'Higgins streets.

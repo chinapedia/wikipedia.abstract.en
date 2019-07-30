@@ -1,1 +1,0 @@
-In poetry, ENJAMBMENT ( or ; from the French )[1] is incomplete syntax at the end of a line;[2] the meaning runs over from one poetic line to the next, without terminal punctuation. Lines without enjambment are end-stopped.

@@ -1,1 +1,0 @@
-YOKNEAM–KFAR YEHOSHUA RAILWAY STATION () is an Israel Railways passenger station situated on the Jezreel Valley railway. The station serves Yokneam Illit, Kiryat Tiv'on, Ramat Yishai and the surrounding area. The station is located between Yokneam and Kfar Yehoshua, east of Highway 70 and south of Highway 722. It is served by one to two trains per hour in each direction.

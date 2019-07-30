@@ -1,1 +1,0 @@
-SABRINA CELESTE BARBITTA NUÑO (born 22 May 1979), known as CELESTE BARBITTA,[1] is an Argentine footballer who plays as a defender for Racing Club de Avellaneda. She was a member of the Argentina women's national team at two FIFA Women's World Cup editions (2003 and 2007).[2][3]

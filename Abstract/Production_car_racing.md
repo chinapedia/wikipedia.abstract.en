@@ -1,1 +1,0 @@
-PRODUCTION CAR RACING, showroom stock racing, street Stock, pure stock, and U-car racing are all categories of auto racing where unmodified (or very lightly modified) production cars race each other, outright and also in classes.

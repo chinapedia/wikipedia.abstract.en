@@ -1,1 +1,0 @@
-HEVES () is a district in south-eastern part of Heves County. _Heves_ is also the name of the town where the district seat is found. The district is located in the Northern Hungary Statistical Region.

@@ -1,1 +1,0 @@
-The 2010 ARIZONA STATE SUN DEVILS BASEBALL TEAM represented Arizona State University in the 2010 NCAA Division I baseball season. The Sun Devils played their home games at Packard Stadium. The team was coached by Tim Esmay in his 1st season at Arizona State.

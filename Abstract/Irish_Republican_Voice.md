@@ -1,1 +1,0 @@
-IRISH REPUBLICAN VOICE was a political group founded by dissident republicans. The group was believed to be the political wing of the group Saoirse na hEireann (itself an RIRA splinter group).[1] The IRV denied this though they said they recognise it as the only legitimate army.[2] Members included prominent dissident republicans such as Paul Stewart and James McDonagh.

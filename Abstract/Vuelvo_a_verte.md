@@ -1,1 +1,0 @@
-"VUELVO A VERTE" () is a song recorded by the Spanish singer-songwriters Malú featuring Pablo Alborán. The song was released in November 2012 and peaked at number 1 on the Spanish Singles Chart in March 2013.

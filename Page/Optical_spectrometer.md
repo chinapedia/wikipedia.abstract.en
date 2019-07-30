@@ -1,5 +1,3 @@
-Spectrometer_schematic.gif Simple_grating_spectrometer_inside.jpg
-
 An OPTICAL SPECTROMETER (SPECTROPHOTOMETER, SPECTROGRAPH or SPECTROSCOPE) is an instrument used to measure properties of light over a specific portion of the electromagnetic spectrum, typically used in spectroscopic analysis to identify materials.[1] The variable measured is most often the light's intensity but could also, for instance, be the polarization state. The independent variable is usually the wavelength of the light or a unit directly proportional to the photon energy, such as reciprocal centimeters or electron volts, which has a reciprocal relationship to wavelength.
 
 A spectrometer is used in spectroscopy for producing spectral lines and measuring their wavelengths and intensities. Spectrometers may also operate over a wide range of non-optical wavelengths, from gamma rays and X-rays into the far infrared. If the instrument is designed to measure the spectrum in absolute units rather than relative units, then it is typically called a spectrophotometer. The majority of spectrophotometers are used in spectral regions near the visible spectrum.
@@ -11,7 +9,7 @@ Spectrometers are used in many fields. For example, they are used in astronomy t
 
 Spectroscopes
 
-Optical_spectrometers.png Spectroscopes are often used in astronomy and some branches of chemistry. Early spectroscopes were simply prisms with graduations marking wavelengths of light. Modern spectroscopes generally use a diffraction grating, a movable slit, and some kind of photodetector, all automated and controlled by a computer.
+Spectroscopes are often used in astronomy and some branches of chemistry. Early spectroscopes were simply prisms with graduations marking wavelengths of light. Modern spectroscopes generally use a diffraction grating, a movable slit, and some kind of photodetector, all automated and controlled by a computer.
 
 Joseph von Fraunhofer developed the first modern spectroscope by combining a prism, diffraction slit and telescope in a manner that increased the spectral resolution and was reproducible in other laboratories. Fraunhofer also went on to invent the first diffraction spectroscope.[2] Gustav Robert Kirchhoff and Robert Bunsen discovered the application of spectroscopes to chemical analysis and used this approach to discover caesium and rubidium.[3][4] Kirchhoff and Bunsen's analysis also enabled a chemical explanation of stellar spectra, including Fraunhofer lines.[5]
 
@@ -23,12 +21,10 @@ With the development of photographic film, the more accurate spectrograph was cr
 
 In modern spectrographs in the UV, visible, and near-IR spectral ranges, the spectrum is generally given in the form of photon number per unit wavelength (nm or μm), wavenumber (μm^(−1), cm^(−1)), frequency (THz), or energy (eV), with the units indicated by the abscissa. In the mid- to far-IR, spectra are typically expressed in units of Watts per unit wavelength (μm) or wavenumber (cm^(−1)). In many cases, the spectrum is displayed with the units left implied (such as "digital counts" per spectral channel).
 
-Units_visible_spectrum.png Units_IR_spectrum.png
-
 
 Spectrographs
 
-simple_spectroscope.jpg The_KMOS_spectrograph_before_shipping_to_Chile.jpg spectrograph.[6]]] Solar_Spectrograph_2,_Ondřejov_Astronomical.jpg
+spectrograph.[6]]]
 
 A spectrograph is an instrument that separates light by its wavelengths and records this data.[7] A spectrograph typically has a multi-channel detector system or camera that detects and records the spectrum of light.[8][9]
 

@@ -1,1 +1,0 @@
-ALFRED LAMOND (25 May 1886 – 10 March 1967) was an Australian politician who was a Labor Party member of the Legislative Assembly of Western Australia from 1924 to 1933, representing the seat of Pilbara.

@@ -1,1 +1,0 @@
-WILLIAM ASSHETON EARDLEY-WILMOT, 3RD BARONET (16 May 1841, London - 12 April 1896) was a British Army officer, most notable for his time as Deputy Assistant Adjutant General in Ireland from 1879 to 1882.[1] His regiment was the Northumberland Fusiliers.[2]

@@ -1,1 +1,0 @@
-Test_nn.gif, and thus the jaggies on the edges of the symbols became more prominent.]] "JAGGIES" is the informal name for artifacts in raster images, most frequently from aliasing,[1] which in turn is often caused by non-linear mixing effects producing high-frequency components or missing or poor anti-aliasing filtering prior to sampling.

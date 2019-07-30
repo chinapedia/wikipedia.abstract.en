@@ -1,1 +1,0 @@
-Tour_de_France_1925.png The 1925 Tour de France was the 19th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris with a flat stage on 21 June, and Stage 10 occurred on 4 July with a flat stage from Perpignan. The race finished in Paris on 19 July.

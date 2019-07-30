@@ -1,1 +1,0 @@
-HERMANN EBBINGHAUS (January 24, 1850 – February 26, 1909) was a German psychologist who pioneered the experimental study of memory, and is known for his discovery of the forgetting curve and the spacing effect. He was also the first person to describe the learning curve. He was the father of the neo-Kantian philosopher Julius Ebbinghaus.

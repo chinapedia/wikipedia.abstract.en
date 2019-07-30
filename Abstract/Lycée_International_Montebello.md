@@ -1,1 +1,0 @@
-Lycee_Montebello.jpg LYCÉE INTERNATIONAL MONTEBELLO, originally LYCÉE EUROPÉEN MONTEBELLO, is a senior high school in Lille, France. Its over campus is in proximity to the Faubourg des Postes, , , and Wazemmes neighbourhoods. It opened in September 1992 and received its current name in May 2014.[1]

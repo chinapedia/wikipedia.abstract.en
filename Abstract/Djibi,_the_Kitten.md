@@ -1,1 +1,0 @@
-_DJIBI, THE KITTEN_ () is the last novel of Felix Salten, published originally in 1945 and translated into English in 1946. Similarly as in other Salten's late books, the protagonist is an animal, this time a young female cat called Djibi.

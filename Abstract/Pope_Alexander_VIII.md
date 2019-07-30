@@ -1,1 +1,0 @@
-POPE ALEXANDER VIII (22 April 1610 – 1 February 1691), born PIETRO VITO OTTOBONI, was Pope from 6 October 1689 to his death in 1691. He is to date the last pope to take the pontifical name of "Alexander" upon his election to the papacy.

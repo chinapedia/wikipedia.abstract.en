@@ -1,1 +1,0 @@
-_RUSH TO THE DEAD SUMMER_ () is a 2017 Chinese television series based on Guo Jingming's novel of the same name; starring Chen Xuedong, Zheng Shuang and Bai Jingting.[1][2] The series aired on Hunan TV from 11 June to 8 July 2017.[3]

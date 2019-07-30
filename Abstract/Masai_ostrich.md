@@ -1,1 +1,0 @@
-The MASAI OSTRICH (_Struthio camelus massaicus_), also known as the PINK-NECKED OSTRICH or EAST AFRICAN OSTRICH, is a large subspecies of the common ostrich native to East Africa.[1] Today it is farmed for eggs, meat and feathers.

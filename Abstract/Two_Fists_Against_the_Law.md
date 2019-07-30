@@ -1,1 +1,0 @@
-_TWO FISTS AGAINST THE LAW_ is a 1980 martial arts movie, directed by Chan Chuen, produced by Ng See-yuen and starring Alan Chui Chung-San and Hwang Jang-lee. The movie is also loosely known as TWIN BITTER.

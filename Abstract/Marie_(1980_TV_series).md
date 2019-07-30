@@ -1,1 +1,0 @@
-_MARIE_ is an American comedy-variety show hosted by and starring singer-actress Marie Osmond that aired on NBC from December 12, 1980 to September 26, 1981 with a total of seven episodes produced over half a season.

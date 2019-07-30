@@ -1,1 +1,0 @@
-_AXIOS_ (stylized as AXIOS) is an American news and information website founded in 2016 by former _Politico_ staffers Jim VandeHei, Mike Allen, and Roy Schwartz. It officially launched in 2017. The site's name is based on the (_áxios_), meaning "worthy".[1]

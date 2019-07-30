@@ -1,1 +1,0 @@
-A.D._800,_Franks_-_027_-_Costumes_of_All_Nations_(1882).JPG COSTUME is the distinctive style of dress of an individual or group that reflects their class, gender, profession, ethnicity, nationality, activity or epoch.

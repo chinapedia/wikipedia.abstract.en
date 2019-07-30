@@ -1,1 +1,0 @@
-Greenwich_clock.jpg at the Royal Observatory, Greenwich]] Спасская_башня,_ее_часы_крупным_планом.jpg in Moscow, one of the most famous clock towers of the world]] Balloon_bracket_clock_MET_DP-13122-043.jpg (New York City)]]

@@ -1,1 +1,0 @@
-is a decision of the House of Lords in relation to the effect of automatic set-off in bankruptcy, and the power of a bankruptcy trustee to assign rights in action after the operation of such set-off under English law.[1]

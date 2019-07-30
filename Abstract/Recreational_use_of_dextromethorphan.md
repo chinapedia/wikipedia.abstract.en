@@ -1,1 +1,0 @@
-DXM_Doses.jpg

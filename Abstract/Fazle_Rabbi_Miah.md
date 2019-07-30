@@ -1,1 +1,0 @@
-FAZLE RABBI MIAH is a Bangladesh Awami League politician, the incumbent Member of Parliament from Gaibandha-5, and the present deputy speaker of the Jatiyo Sangshad (Bangladeshi parliament).[1][2] He is a former member of the Awami League Central Committee.[3][4]

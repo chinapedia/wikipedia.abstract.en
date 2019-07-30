@@ -1,1 +1,0 @@
-This is a list of some of the cattle breeds considered in Switzerland to be wholly or partly of Swiss origin. Some may have complex or obscure histories, so inclusion here does not necessarily imply that a breed is predominantly or exclusively Swiss.[1]

@@ -1,1 +1,0 @@
-"THE WELL" is the second episode of the seventh season of the post-apocalyptic horror television series _The Walking Dead_, which aired on AMC on October 30, 2016. The episode was written by Matthew Negrete and directed by Greg Nicotero.

@@ -1,1 +1,0 @@
-Bataille_de_Sainte_Lucie_1778.jpg, 15 December 1778, when 12 French ships led by Admiral d'Estaing (left) attacked seven British ships (right) commanded by Admiral Barrington.]] The HISTORY OF ST LUCIA refers to the history of this Caribbean island-state.

@@ -9,7 +9,7 @@ Archaeological discoveries in Hardinxveld-Giessendam indicate that the area of S
 
 After the departure of the Romans, the area belonged to the Frisian Kingdom, after which it was conquered by the Frankish king Dagobert I in 636. In 690, the Anglo-Saxon monk Willibrord arrived near Katwijk and was granted permission to spread Roman Catholicism by the Frankish king Pepin II. He accordingly founded a church in Oegstgeest, after which the entire area was gradually Christianised. The area was appointed to East Francia in the Treaty of Verdun in 843, after which the king granted lands to Gerolf, who had helped him claim the lands. This was the birth of the County of Holland. Gerolf was later succeeded by Dirk I, who continued to rule Holland under the Frankish king. In 1248, count William II ordered the construction of the Ridderzaal, which was later finished by his son and successor Floris V.
 
-Veen01.jpg in 1574]] Joust_on_the_Hofvijver,_by_Dutch_School_of_the_17th_century.jpg by the Hofvijver, 1625]]
+in 1574]] by the Hofvijver, 1625]]
 
 The first city in South Holland to receive city rights was Dordrecht, which did so in 1220. The city retained a dominant position in the area until it was struck by a series of floods in the late 14th century. The same century also saw a series of civil wars, the Hook and Cod wars, concerning the succession of count William IV. Both his daughter Jacqueline and his brother John, the latter supported by Philip the Good, Duke of Burgundy, claimed the throne. The conflict ended in 1490, with John victorious.
 
@@ -21,7 +21,7 @@ As a province
 
 The province of South Holland as it is today has its origins in the period of French rule from 1795 to 1813. This was a time of bewildering changes to the Dutch system of provinces. In 1795, the Batavian Republic was proclaimed and the old order was swept away by a series of constitutional changes in the following years. In the Constitution enacted on 23 April 1798, the old borders were radically changed. The republic was reorganised into eight departments with roughly equal populations. The south of Holland was split up into three departments. The islands in the south were merged with Zeeland and the west of North Brabant to form the Department of the Scheldt and Meuse. The north of the area became the Department of the Delf. A small region in the east of the area became part of the Department of the Rhine, which spanned much of Gelderland and Utrecht. In 1801, the old borders were restored when the department of Holland was created. The reorganisation had been short-lived, but it gave birth to the concept of a division of Holland, creating less dominant provinces. In 1807, Holland was reorganised once again. This time, the department was split in two. The south, what would later become South Holland, was called the Department of Maasland. This also did not last long. In 1810, all the Dutch provinces were integrated into the French Empire, and Maasland was renamed Bouches-de-la-Meuse.
 
-Rotterdam,_Laurenskerk,_na_bombardement_van_mei_1940.jpg in ruins after the Rotterdam Blitz in 1940]]
+in ruins after the Rotterdam Blitz in 1940]]
 
 After the defeat of the French in 1813, this organisation remained unchanged for a year or so. When the 1814 Constitution was introduced, most borders were restored to their situation before the French period. The north and south of Holland were reunited as the province of Holland. However, the division hadn't completely been undone. Since its re-establishment in 1814, Holland had always had two King's Commissioners, one for the north and one for the south. Even though the province had been reunited, the two areas were still treated differently in some ways and the idea of dividing Holland remained alive. In 1840, it was decided to once again split Holland into North and South Holland, because the province of Holland was deemed too dominant in area, population and wealth. In the late 20th and early 21st centuries, five municipalities were transferred from South Holland to Utrecht; Oudewater in 1970, Woerden in 1989, Vianen in 2002, Leerdam and Zederik in 2019.
 
@@ -30,13 +30,11 @@ The construction of the Nieuwe Waterweg in 1863 marked the start of the growth o
 
 Geography
 
-2013-Top33-P08-Zuid-Holland.jpg
-
 South Holland covers an area of , of which is water. It borders the North Sea to the west, North Holland to the north, Utrecht and Gelderland to the east, and North Brabant and Zeeland to the south. Beside the dunes along the North Sea coast, the province is almost entirely flat and mostly consists of polders. The centre of South Holland and the area along the coast in the west are largely urban, part of the Randstad conurbation, while the east of the province is more agrarian and belongs to the Groene Hart, literally _Green Heart_. The south of the province is a collection of islands in the Rhine–Meuse–Scheldt delta. For census reasons, South Holland is divided into four regions: Rijnmond, South, West and East.
 
 The Duin- en Bollenstreek is a region in the north-west of South Holland, around Katwijk, that features coastal dunes and the cultivation of flower bulbs. To the south of the region lie mostly pastures on sand soil, that form the transition to more urban area. This urban area runs along the Old Rhine, from Katwijk via Rijnsburg to Leiden and Zoeterwoude-Rijndijk. South of Leiden and north of The Hague lies an area where a landscape of dunes bordering the North Sea in the west transitions to one of peat more to the east. The easternmost tip of South Holland is part of De Biesbosch, one of the largest national parks of the Netherlands and one of the last freshwater tide areas in Europe. Other parks in South Holland, although no national parks, include Delftse Hout east of Delft,[3] Ackerdijkse Plassen, a bird reserve north of Rotterdam,[4] and Buytenpark and Westerpark near Zoetermeer.[5] The Kagerplassen are a collection of lakes north-east of Leiden, popular for boating, watersports, fishing, camping and walking.
 
-RMSDeltaNorth.jpg, showing the islands of South Holland]]
+, showing the islands of South Holland]]
 
 The southern part of South Holland consists of a number of islands of the Rhine–Meuse–Scheldt delta. Although technically islands in the sense that they are surrounded by rivers, canals or other bodies of water, most of these islands are well connected to the rest of the province via bridges, tunnels and dams. The southern islands, most notably Goeree-Overflakkee (1 on the map), Tiengemeten (2), Hoeksche Waard (6) and Voorne-Putten (4/5), are largely agrarian, while more to the north, the islands are more urban, such as Dordrecht (7), IJsselmonde (9) and Rozenburg (10), while other islands, like Rozenburg (10), are mostly used for petrochemical industry. Together, these cities form the Rijnmond conurbation, centred on the city of Rotterdam. Together with Haaglanden (centred on The Hague) and Delfland (centred on Delft) in the north, and the Drechtsteden to the south-east, this conurbation in turn forms the South Wing of the Randstad conurbation, which spans across South Holland, North Holland and Utrecht.
 
@@ -48,7 +46,7 @@ Like the rest of the Netherlands, South Holland experiences a temperate oceanic 
 
 Municipalities
 
-Prov-Zuid-Holland-OpenTopo.jpg South Holland is divided into 52 municipalities.
+South Holland is divided into 52 municipalities.
 
 -   Leiden & Bollenstreek COROP group
     -   Hillegom
@@ -113,7 +111,7 @@ Prov-Zuid-Holland-OpenTopo.jpg South Holland is divided into 52 municipalities.
 
 Economy
 
-ECT_waalhaven_bij_nacht.jpg by night]] Tulip_fields_Lisse_(13983881641).jpg near Lisse]] Bollenvelden_bij_De_Zilk.ogv
+by night]] near Lisse]]
 
 As of 2011, South Holland's gross regional product amounted €123.1 billion, or €34,883 per capita. This contributes to the gross domestic product of the Netherlands for 20.9%. South Holland's labour force amounts 1,661,000 people; 47.1% of the total population. The unemployment rate is 6.1%.[6]
 

@@ -1,1 +1,0 @@
-The DIVISION DAGUET was a French Army division formed in September 1990 in Saudi Arabia as part of France's contribution to Operation Desert Shield. The French military contribution to the allied cause to liberate Kuwait from Iraqi occupation was named Opération Daguet and its ground part was subsequently named Division Daguet. In French "Daguet" is a young brocket deer.

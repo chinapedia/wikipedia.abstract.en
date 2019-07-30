@@ -139,7 +139,7 @@ Vowels
 
 : Zürich dialect vowel system
 
-Zürich_German_monophthongs_chart.svg Most Swiss German dialects have rounded front vowels, unlike other High German dialects.[9] Only in Low Alemannic dialects of northwestern Switzerland (mainly Basel) and in Walliser dialects have rounded front vowels been unrounded. In Basel, rounding is being reintroduced because of the influence of other Swiss German dialects.
+Most Swiss German dialects have rounded front vowels, unlike other High German dialects.[9] Only in Low Alemannic dialects of northwestern Switzerland (mainly Basel) and in Walliser dialects have rounded front vowels been unrounded. In Basel, rounding is being reintroduced because of the influence of other Swiss German dialects.
 
 Like Bavarian dialects, Swiss German dialects have preserved the opening diphthongs of Middle High German: : in 'lovely' (standard German _lieb_ but pronounced ); 'hat' (standard German _Hut_ ); 'cool' (Standard German _kühl_ ). Some diphthongs have become unrounded in several dialects. Sounds like the monophthong can frequently become unrounded to among many speakers.
 
@@ -285,8 +285,6 @@ Parts of the Bible were translated in different Swiss German dialects, e.g.:[18]
 
 
 See also
-
-WIKITONGUES-_Fabia_speaking_Swiss_German.webm
 
 -   Swiss Standard German
 -   Argentinien-schwyzertütsch dialect

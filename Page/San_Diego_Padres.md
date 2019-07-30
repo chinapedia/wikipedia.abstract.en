@@ -51,7 +51,7 @@ The San Diego area is home to a number of military installations, including seve
 
 Mascot
 
-Sdmascotfriar2015.jpg The "Swinging Friar" is currently the mascot of the team. Some in the past have confused The Famous Chicken as the mascot of the Padres. Although he does make appearances occasionally at San Diego sporting events, he has never been the official mascot of any San Diego sports team.
+The "Swinging Friar" is currently the mascot of the team. Some in the past have confused The Famous Chicken as the mascot of the Padres. Although he does make appearances occasionally at San Diego sporting events, he has never been the official mascot of any San Diego sports team.
 
 
 Season records
@@ -71,7 +71,7 @@ Ford C. Frick Award recipients (broadcasters)
 
 Retired numbers
 
-Padres_Ring_of_Honor.jpg during the 2016 season]] The Padres have retired six numbers. Five were in honor of Padre players and one was Jackie Robinson's number 42, which was retired by all of Major League Baseball.[22] The retired numbers are displayed on the upper deck facade behind home plate. {{#section-h:San Diego Padres retired numbers|Retired numbers}} The Padres also have a "star on the wall" in honor of broadcaster Jerry Coleman, in reference to his trademark phrase "Oh Doctor! You can hang a star on that baby!" Nearby the initials of the late owner Ray Kroc are also displayed. Both the star and the initials are painted in gold on the front of the pressbox down the right field line accompanied by the name of the person in white. Kroc was honored in 1984, Coleman in 2001.
+during the 2016 season]] The Padres have retired six numbers. Five were in honor of Padre players and one was Jackie Robinson's number 42, which was retired by all of Major League Baseball.[22] The retired numbers are displayed on the upper deck facade behind home plate. {{#section-h:San Diego Padres retired numbers|Retired numbers}} The Padres also have a "star on the wall" in honor of broadcaster Jerry Coleman, in reference to his trademark phrase "Oh Doctor! You can hang a star on that baby!" Nearby the initials of the late owner Ray Kroc are also displayed. Both the star and the initials are painted in gold on the front of the pressbox down the right field line accompanied by the name of the person in white. Kroc was honored in 1984, Coleman in 2001.
 
 Team Hall of Fame
 

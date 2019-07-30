@@ -1,1 +1,0 @@
-Charles_Townes_and_first_maser.jpg. The ammonia nozzle is at left in the box, the four brass rods at center is the quadrupole state selector, and the resonant cavity is at right. The 24 GHz microwaves exit through the vertical waveguide Townes is adjusting. At bottom are the vacuum pumps.]] Hydrogen_maser.gif (see description below)]]

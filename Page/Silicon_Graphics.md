@@ -9,8 +9,6 @@ On April 1, 2009, SGI filed for Chapter 11 bankruptcy protection and announced t
 
 History
 
-Silicon_Graphics_logo.png
-
 Early years
 
 James H. Clark left his position as an electrical engineering associate professor at Stanford University to found SGI in 1982 along with a group of seven graduate students and research staff from Stanford: Kurt Akeley, David J. Brown, Tom Davis, Rocky Rhodes, Marc Hannah, Herb Kuta, and Mark Grossman;[1] along with Abbey Silverstone[2] and a few others.
@@ -90,7 +88,7 @@ Later 1000-series machines, the 1400 and 1500, ran at 10 MHz and had 1.5 MB of 
 
 IRIS 2000 and 3000 series
 
-SGI-geometry-engine-chip.jpg SGI rapidly developed its machines into workstations with its second product line — the IRIS 2000 series, first released in August 1985.[36] SGI began using the UNIX System V operating system. There were five models in two product ranges, the 2000/2200/2300/2400/2500 range which used 68010 CPUs (the PM2 CPU module), and the later "Turbo" systems, the 2300T, 2400T and 2500T, which had 68020s (the IP2 CPU module). All used the Excelan EXOS/201 Ethernet card, the same graphics hardware (GF2 Frame Buffer, UC4 Update Controller, DC4 Display Controller, BP3 Bitplane). Their main differences were the CPU, RAM, and Weitek Floating Point Accelerator boards, disk controllers and disk drives (both ST-506 and SMD were available). These could be upgraded, for example from a 2400 to a 2400T. The 2500 and 2500T had a larger chassis, a standard 6' 19" EIA rack with space at the bottom for two SMD disk drives weighing approximately each.[37] The non-Turbo models used the Multibus for the CPU to communicate with the floating point accelerator, while the Turbos added a ribbon cable dedicated for this. 60 Hz monitors were used for the 2000 series.
+SGI rapidly developed its machines into workstations with its second product line — the IRIS 2000 series, first released in August 1985.[36] SGI began using the UNIX System V operating system. There were five models in two product ranges, the 2000/2200/2300/2400/2500 range which used 68010 CPUs (the PM2 CPU module), and the later "Turbo" systems, the 2300T, 2400T and 2500T, which had 68020s (the IP2 CPU module). All used the Excelan EXOS/201 Ethernet card, the same graphics hardware (GF2 Frame Buffer, UC4 Update Controller, DC4 Display Controller, BP3 Bitplane). Their main differences were the CPU, RAM, and Weitek Floating Point Accelerator boards, disk controllers and disk drives (both ST-506 and SMD were available). These could be upgraded, for example from a 2400 to a 2400T. The 2500 and 2500T had a larger chassis, a standard 6' 19" EIA rack with space at the bottom for two SMD disk drives weighing approximately each.[37] The non-Turbo models used the Multibus for the CPU to communicate with the floating point accelerator, while the Turbos added a ribbon cable dedicated for this. 60 Hz monitors were used for the 2000 series.
 
 The height of the machines using Motorola CPUs was reached with the IRIS 3000 series (models 3010/3020/3030 and 3110/3115/3120/3130, the 30s both being full-size rack machines). They used the same graphics subsystem and Ethernet as the 2000s, but could also use up to 12 "geometry engines", the first widespread use of hardware graphics accelerators. The standard monitor was a 19" 60 Hz non-interlaced unit with a tilt/swivel base; 19" 30 Hz interlaced and a 15" 60 Hz non-interlaced (with tilt/swivel base) were also available.
 
@@ -215,8 +213,6 @@ Motorola 68k-based systems
 
 MIPS-based systems
 
-SGI-indigo-front.jpg Silicon_Graphics_Indy.jpg SgiOctane.jpg SGI-onyx.jpg SGI_O2_front.jpg Silicone_Graphics_SGI_Tezro_Workstation.jpg
-
 Workstations
 
 -   Professional IRIS series (IRIS 4D/50/60/70/80/85)
@@ -257,8 +253,6 @@ Visualization
 -   SkyWriter (rackmount systems)
 
 Intel IA-32-based systems
-
-Sgi-540_01.jpg
 
 Workstations
 

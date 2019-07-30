@@ -3,7 +3,7 @@ SERGEI PAVLOVICH DIAGHILEV (; ; 19 August 1929), usually referred to outside Rus
 
 Early life and career
 
-Sergej_Diaghilev_(1872-1929)_ritratto_da_Valentin_Aleksandrovich_Serov.jpg (1904)]] Bakst_daighilev.jpg (1906).]]
+(1904)]] (1906).]]
 
 Sergei Diaghilev was born to a wealthy and cultured family in Selishchi (Novgorod Governorate), Russia; his father, Pavel Pavlovich, was a cavalry colonel, but the family's money came mainly from vodka distilleries.[1] After the death of Sergei's mother, his father married Elena Valerianovna Panaeva, an artistic young woman who was on very affectionate terms with her stepson and was a strong influence on him. The family lived in Perm but had an apartment in Saint Petersburg and a country estate in Bikbarda (near Perm).[2] In 1890, Sergei's parents went bankrupt, having for a long time lived beyond their means, and from that time Sergei (who had a small income inherited from his mother) had to support the family. After graduating from Perm gymnasium in 1890, he went to the capital to study law at St. Petersburg University, but ended up also taking classes at the St. Petersburg Conservatory of Music, where he studied singing and music (a love of which he had picked up from his stepmother). After graduating in 1892 he abandoned his dreams of composition (his professor, Nikolai Rimsky-Korsakov, told him he had no talent for music).
 
@@ -52,7 +52,7 @@ Dancers such as Alicia Markova, Tamara Karsavina, Serge Lifar, and Lydia Sokolov
 
 Death and legacy
 
-Cimitero_di_San_Michele_in_Isola_-_Tomba_di_Sergej_Djagilev.jpg, Orthodox section, Venice, Italy (April, 2011)]] Russia-2000-stamp-Sergei_Diaghilev.jpg
+, Orthodox section, Venice, Italy (April, 2011)]]
 
 Throughout his life, Diaghilev was severely afraid of dying in water, and avoided traveling by boat. He died of diabetes[12] in Venice on 19 August 1929, and his tomb is on the nearby island of San Michele, near to the grave of Stravinsky, in the Orthodox section.[13]
 

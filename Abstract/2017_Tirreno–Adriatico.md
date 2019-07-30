@@ -1,1 +1,0 @@
-The 2017 TIRRENO–ADRIATICO was a road cycling stage race that took place between 8 and 14 March. It was the 52nd edition of the Tirreno–Adriatico and was the seventh event of the 2017 UCI World Tour.[1][2]

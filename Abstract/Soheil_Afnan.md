@@ -1,1 +1,0 @@
-SOHEIL MUHSIN AFNAN (Persian/ Arabic: ) (b. 1904 - d. 1990) was a scholar of Philosophy, Arabic, Persian, and Greek whose intellectual works included translations of Greek texts into Persian as well as the publication of philosophical lexicons.[1]

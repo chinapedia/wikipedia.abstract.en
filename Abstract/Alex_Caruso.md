@@ -1,1 +1,0 @@
-ALEX CARUSO (born February 28, 1994) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Texas A&M Aggies, earning second-team all-conference honors in the Southeastern Conference (SEC) as a senior in 2016.

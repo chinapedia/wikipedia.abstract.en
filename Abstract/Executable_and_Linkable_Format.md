@@ -1,1 +1,0 @@
-Elf-layout--en.svg

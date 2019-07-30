@@ -1,4 +1,4 @@
-Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr°0125.jpg it with a prism is an example of spectroscopy.]] SPECTROSCOPY is the study of the interaction between matter and electromagnetic radiation (or via electron spectroscopy, atomic spectroscopy, etc).[1][2] Historically, spectroscopy originated through the study of visible light dispersed according to its wavelength, by a prism. Later the concept was expanded greatly to include any interaction with radiative energy as a function of its wavelength or frequency, predominantly in the electromagnetic spectrum, though matter waves and acoustic waves can also be considered forms of radiative energy; recently, with tremendous difficulty, even gravitational waves have been associated with a spectral signature in the context of LIGO and laser interferometry. Spectroscopic data are often represented by an emission spectrum, a plot of the response of interest as a function of wavelength or frequency.
+it with a prism is an example of spectroscopy.]] SPECTROSCOPY is the study of the interaction between matter and electromagnetic radiation (or via electron spectroscopy, atomic spectroscopy, etc).[1][2] Historically, spectroscopy originated through the study of visible light dispersed according to its wavelength, by a prism. Later the concept was expanded greatly to include any interaction with radiative energy as a function of its wavelength or frequency, predominantly in the electromagnetic spectrum, though matter waves and acoustic waves can also be considered forms of radiative energy; recently, with tremendous difficulty, even gravitational waves have been associated with a spectral signature in the context of LIGO and laser interferometry. Spectroscopic data are often represented by an emission spectrum, a plot of the response of interest as a function of wavelength or frequency.
 
 Spectroscopy, primarily in the electromagnetic spectrum, is a fundamental exploratory tool in the fields of physics, chemistry, and astronomy, allowing the composition, physical structure and electronic structure of matter to be investigated at atomic scale, molecular scale, macro scale, and over astronomical distances. Important applications arise from biomedical spectroscopy in the areas of tissue analysis and medical imaging.
 
@@ -23,7 +23,7 @@ Spectra of atoms and molecules often consist of a series of spectral lines, each
 
 Classification of methods
 
-A_Taste_of_ESPRESSO.jpg spectrograph.[3]]] Spectroscopy is a sufficiently broad field that many sub-disciplines exist, each with numerous implementations of specific spectroscopic techniques. The various implementations and techniques can be classified in several ways.
+spectrograph.[3]]] Spectroscopy is a sufficiently broad field that many sub-disciplines exist, each with numerous implementations of specific spectroscopic techniques. The various implementations and techniques can be classified in several ways.
 
 Type of radiative energy
 
@@ -124,7 +124,7 @@ Other types of spectroscopy are distinguished by specific applications or implem
 
 Applications
 
-UVES_on_UT2-KUEYEN.jpg.[13] ]]
+.[13] ]]
 
 -   Cure monitoring of composites using optical fibers.
 -   Estimate weathered wood exposure times using near infrared spectroscopy.[14]

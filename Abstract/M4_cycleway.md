@@ -1,1 +1,0 @@
-The M4 CYCLEWAY is a [1] shared use path for cyclists and pedestrians that is generally aligned with the M4 Motorway in Sydney, New South Wales, Australia. The eastern terminus of the cycleway is in the Sydney Olympic Park, while the western terminus is in South Wentworthville.[2]

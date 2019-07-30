@@ -7,11 +7,11 @@ Rockefeller ran the company as its chairman, until his retirement in 1897. He re
 
 Founding and early years
 
-John_D_Rockefeller_1872.png c. 1872, shortly after founding Standard Oil]]
+c. 1872, shortly after founding Standard Oil]]
 
-Standard Oil's pre-history began in 1863 as an Ohio partnership formed by industrialist John D. Rockefeller, his brother William Rockefeller, Henry Flagler, chemist Samuel Andrews, silent partner Stephen V. Harkness, and Oliver Burr Jennings, who had married the sister of William Rockefeller's wife. In 1870, Rockefeller abolished the partnership and incorporated Standard Oil in Ohio. Of the initial 10,000 shares, John D. Rockefeller received 2,667; Harkness received 1,334; William Rockefeller, Flagler, and Andrews received 1,333 each; Jennings received 1,000, and the firm of Rockefeller, Andrews & Flagler received 1,000.[2] Rockefeller chose the "Standard Oil" name as a symbol of the reliable "standards" of quality and service that he envisioned for the nascent oil industry.[3] Standard_Oil_Articles_of_Incorporation_-_1870.png Standard_Oil_Company_1878.JPG Standard_Oil_Trust_1883.JPG In the early years, John D. Rockefeller dominated the combine; he was the single most important figure in shaping the new oil industry.[4] He quickly distributed power and the tasks of policy formation to a system of committees, but always remained the largest shareholder. Authority was centralized in the company's main office in Cleveland, but decisions in the office were made in a cooperative way.[5]
+Standard Oil's pre-history began in 1863 as an Ohio partnership formed by industrialist John D. Rockefeller, his brother William Rockefeller, Henry Flagler, chemist Samuel Andrews, silent partner Stephen V. Harkness, and Oliver Burr Jennings, who had married the sister of William Rockefeller's wife. In 1870, Rockefeller abolished the partnership and incorporated Standard Oil in Ohio. Of the initial 10,000 shares, John D. Rockefeller received 2,667; Harkness received 1,334; William Rockefeller, Flagler, and Andrews received 1,333 each; Jennings received 1,000, and the firm of Rockefeller, Andrews & Flagler received 1,000.[2] Rockefeller chose the "Standard Oil" name as a symbol of the reliable "standards" of quality and service that he envisioned for the nascent oil industry.[3] In the early years, John D. Rockefeller dominated the combine; he was the single most important figure in shaping the new oil industry.[4] He quickly distributed power and the tasks of policy formation to a system of committees, but always remained the largest shareholder. Authority was centralized in the company's main office in Cleveland, but decisions in the office were made in a cooperative way.[5]
 
-Standard_Oil.jpg, 1897]]
+, 1897]]
 
 The company grew by increasing sales and through acquisitions. After purchasing competing firms, Rockefeller shut down those he believed to be inefficient and kept the others. In a seminal deal, in 1868, the Lake Shore Railroad, a part of the New York Central, gave Rockefeller's firm a going rate of one cent a gallon or forty-two cents a barrel, an effective 71% discount from its listed rates in return for a promise to ship at least 60 carloads of oil daily and to handle load and unload on its own. Smaller companies decried such deals as unfair because they were not producing enough oil to qualify for discounts.
 
@@ -39,8 +39,6 @@ From 1882 to 1906, Standard paid out $548,436,000 in dividends at 65.4% payout r
 
 
 1895–1913
-
-Standard_oil.gif
 
 In 1896, John Rockefeller retired from the Standard Oil Co. of New Jersey, the holding company of the group, but remained president and a major shareholder. Vice-president John Dustin Archbold took a large part in the running of the firm. In the year 1904, Standard Oil controlled 91% of oil production and 85% of final sales in the United States.[13] At this point in time, state and federal laws sought to counter this development with "antitrust" laws. In 1911, the U.S. Justice Department sued the group under the federal antitrust law and ordered its breakup into 34 companies.
 
@@ -70,7 +68,7 @@ Monopoly charges and anti-trust legislation
 
 By 1890, Standard Oil controlled 88 percent of the refined oil flows in the United States. The state of Ohio successfully sued Standard, compelling the dissolution of the trust in 1892. But Standard simply separated Standard Oil of Ohio and kept control of it. Eventually, the state of New Jersey changed its incorporation laws to allow a company to hold shares in other companies in any state. So, in 1899, the Standard Oil Trust, based at 26 Broadway in New York, was legally reborn as a holding company, the _Standard Oil Co. of New Jersey_ (SOCNJ), which held stock in 41 other companies, which controlled other companies, which in turn controlled yet other companies. According to Daniel Yergin in his Pulitzer Prize-winning _The Prize: The Epic Quest for Oil, Money, and Power_ (1990), this conglomerate was seen by the public as all-pervasive, controlled by a select group of directors, and completely unaccountable.[29]
 
-PuckCartoon-TeddyRoosevelt-05-23-1906.jpg depicted as the infant Hercules grappling with Standard Oil in a 1906 _Puck_ magazine cartoon]]
+depicted as the infant Hercules grappling with Standard Oil in a 1906 _Puck_ magazine cartoon]]
 
 In 1904, Standard controlled 91 percent of production and 85 percent of final sales. Most of its output was kerosene, of which 55 percent was exported around the world. After 1900 it did not try to force competitors out of business by underpricing them.[30] The federal Commissioner of Corporations studied Standard's operations from the period of 1904 to 1906[31] and concluded that "beyond question ... the dominant position of the Standard Oil Co. in the refining industry was due to unfair practices—to abuse of the control of pipe-lines, to railroad discriminations, and to unfair methods of competition in the sale of the refined petroleum products".[32] Due to competition from other firms, their market share had gradually eroded to 70 percent by 1906 which was the year when the antitrust case was filed against Standard, and down to 64 percent by 1911 when Standard was ordered broken up[33] and at least 147 refining companies were competing with Standard including Gulf, Texaco, and Shell.[34] It did not try to monopolize the exploration and pumping of oil (its share in 1911 was 11 percent).
 
@@ -172,7 +170,7 @@ Note: Standard Oil of Colorado was not a successor company; the name was used to
 
 Rights to the name
 
-Standardmap.svg has full international rights and continues to use the Esso name overseas. Kentucky is held by Chevron, however its status is up in the air after Chevron withdrew retail sales from Kentucky in July 2010.]] Of the 34 "Baby Standards", 11 were given rights to the Standard Oil name, based on the state they were in. Conoco and Atlantic elected to use their respective names instead of the Standard name, and their rights would be claimed by other companies.
+has full international rights and continues to use the Esso name overseas. Kentucky is held by Chevron, however its status is up in the air after Chevron withdrew retail sales from Kentucky in July 2010.]] Of the 34 "Baby Standards", 11 were given rights to the Standard Oil name, based on the state they were in. Conoco and Atlantic elected to use their respective names instead of the Standard name, and their rights would be claimed by other companies.
 
 By the 1980s, most companies were using their individual brand names instead of the Standard name, with Amoco being the last one to have widespread use of the "Standard" name, as it gave Midwestern owners the option of using the Amoco name or Standard.
 

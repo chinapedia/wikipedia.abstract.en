@@ -1,1 +1,0 @@
-DAE IMLANI (born 12 May 1954) is a Filipino former swimmer. He competed in four events at the 1972 Summer Olympics.[1] He won silver medals in the 4 x 100 metre freestyle relay and the 4 x 200 metre freestyle relay at the 1970 Asian Games.

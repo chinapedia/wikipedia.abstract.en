@@ -1,1 +1,0 @@
-_OUT OF BOUNDS_ is a 2016 crime drama novel by Scottish crime writer Val McDermid. The novel is set during 2016 but because the main detective is in the Historic Case Unit (HCU) the crimes being investigated were actually committed in 1994 and 1996.

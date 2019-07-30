@@ -1,1 +1,0 @@
-AJACCIO (, ,[1][2] , ; ; ) is a French commune, prefecture of the department of Corse-du-Sud, and head office of the _Collectivité territoriale de Corse_ (capital city of Corsica). It is also the largest settlement on the island. Ajaccio is located on the west coast of the island of Corsica, southeast of Marseille.

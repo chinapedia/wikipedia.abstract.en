@@ -1,1 +1,0 @@
-This page lists the winners and nominees for the SOUL TRAIN MUSIC AWARD FOR BEST DANCE PERFORMANCE. This category was created during the 2010 ceremony and since its creation, Ciara is the only artists to win the award thrice.

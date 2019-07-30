@@ -1,1 +1,0 @@
-St._Lucia_Export_Treemap.png Saint Lucia is one of the Windward Islands, a group of islands located off the southeast coast of North America. St Lucia's economy relies primarily on the sale of bananas, and the income generated from tourism, with additional input from small-scale manufacturing.

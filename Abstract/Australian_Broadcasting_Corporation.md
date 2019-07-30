@@ -1,1 +1,0 @@
-ABC}} The AUSTRALIAN BROADCASTING CORPORATION (ABC) is Australia's national broadcaster founded in 1929. It is currently principally funded by the direct grants from the Australian government, but is expressly independent of government and partisan politics. The ABC plays a leading role in journalistic independence and is fundamental in the history of broadcasting in Australia.

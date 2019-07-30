@@ -1,1 +1,0 @@
-KHANDI ALEXANDER (born September 4, 1957) is an American dancer, choreographer, and actress. She began her career as a dancer in the 1980s and was a choreographer for Whitney Houston's world tour from 1988 to 1992.

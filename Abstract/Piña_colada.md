@@ -1,1 +1,0 @@
-The PIÑA COLADA (; , "pineapple," and , "strained") is a sweet cocktail made with rum, cream of coconut or coconut milk, and pineapple juice, usually served either blended or shaken with ice. It may be garnished with either a pineapple wedge, maraschino cherry, or both. There are two versions of the drink's origin, but both say it originated in Puerto Rico.

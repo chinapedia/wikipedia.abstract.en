@@ -1,1 +1,0 @@
-Mural_in_Christiania_against_hard_drugs.jpg

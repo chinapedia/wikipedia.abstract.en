@@ -1,1 +1,0 @@
-_THE TWO BULLIES_ is a 1997 children's picture book by Junko Morimoto. It is based on a Japanese folktale, _Ni-Ou and Dokkoi_ and is about two bullies (strong men), one Japanese, the other Chinese who are going to fight one another but through some humorous events do not, much to their relief.

@@ -1,1 +1,0 @@
-RACCOON CREEK (also called COON CREEK) is a stream in Daviess and Grundy counties in the U.S. state of Missouri.[1] It is a tributary of Sugar Creek. The confluence is 1.5 miles southeast of the community of Brimson and 1.5 mile west of Sugar Creeks confluence with the Thompson River.[2]

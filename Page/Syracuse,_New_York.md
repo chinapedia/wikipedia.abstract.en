@@ -11,7 +11,7 @@ French missionaries were the first Europeans to come to this area, arriving to w
 
 Jesuit missionaries reported salty brine springs around the southern end of what they referred to as "Salt Lake", known today as Onondaga Lake in honor of the historic tribe. French fur traders established trade throughout the New York area among the Iroquois. Dutch and English colonists also were traders, and the English nominally claimed the area, from their upstate base at Albany. During the American Revolutionary War, the highly decentralized Iroquois divided into groups and bands that supported the British, and two tribes that supported the American-born rebels, or patriots.
 
-Settlers came into central and western New York from eastern parts of the state and New England after the American Revolutionary War and various treaties with and land sales by Native American tribes.[4] The subsequent designation of this area by the state of New York as the Onondaga Salt Springs Reservation provided the basis for commercial salt production. Such production took place from the late 1700s through the early 1900s. Brine from wells that tapped into halite (common salt) beds in the Salina shale near Tully, New York, 15 miles south of the city, was developed in the 19th century.[5][6] It is the north-flowing brine from Tully that is the source of salt for the "salty springs" found along the shoreline of Onondaga Lake. The rapid development of this industry in the 18th and 19th centuries led to the nicknaming of this area as "The Salt City". _View_of_the_Boulevard,_Syracuse,_NY.jpg
+Settlers came into central and western New York from eastern parts of the state and New England after the American Revolutionary War and various treaties with and land sales by Native American tribes.[4] The subsequent designation of this area by the state of New York as the Onondaga Salt Springs Reservation provided the basis for commercial salt production. Such production took place from the late 1700s through the early 1900s. Brine from wells that tapped into halite (common salt) beds in the Salina shale near Tully, New York, 15 miles south of the city, was developed in the 19th century.[5][6] It is the north-flowing brine from Tully that is the source of salt for the "salty springs" found along the shoreline of Onondaga Lake. The rapid development of this industry in the 18th and 19th centuries led to the nicknaming of this area as "The Salt City".
 
 The original settlement of Syracuse was a conglomeration of several small towns and villages and was not recognized with a post office by the United States Government. Establishing the post office was delayed because the settlement did not have a name. Joshua Forman wanted to name the village Corinth. When John Wilkinson applied for a post office in that name in 1820, it was denied because the same name was already in use in Saratoga County, New York.[7] Having read a poetical description of Syracuse, Sicily (Siracusa), Wilkinson saw similarities to the lake and salt springs of this area, which had both "salt and freshwater mingling together".[8] On February 4, 1820, Wilkinson proposed the name "Syracuse" to a group of fellow townsmen; it became the name of the village and the new post office.[9]
 
@@ -36,7 +36,7 @@ Geography and climate
 
 Geography
 
-Syracuse_High_View.jpg from University Hill]]
+from University Hill]]
 
 Syracuse is located at (43.046899, -76.144423).[15] It is located about east of Rochester, east of Buffalo, and west of the state capital Albany. It is also the halfway point between New York City and Toronto, about from each, Toronto to the northwest and NYC to the southeast.
 
@@ -48,7 +48,7 @@ About 27 percent of Syracuse's land area is covered by 890,000 trees — a high
 
 The densest tree cover in Syracuse is in the two Valley neighborhoods, where 46.6 percent of the land is covered by trees. The lowest tree cover percentage is found in the densely developed downtown, which has only 4.6 percent trees.[16]
 
-Onondaga-Creek-2016-0512p.jpg as it flows near Armory Square]]
+as it flows near Armory Square]]
 
 Syracuse's main water source is Skaneateles Lake, one of the country's cleanest lakes,[17] located southwest of the city. Water from nearby Onondaga Lake is not drinkable due to the industrial dumping that spanned many decades, leaving the lake heavily polluted.[18] Incoming water is left unfiltered,[19] and chlorine is added to prevent bacterial growth. Most of the environmental work to achieve lake cleanup is scheduled to be completed by 2016; the county is scheduled to finish its work by 2018.[20] For periods of drought, there is also a backup line which uses water from Lake Ontario.[21]
 
@@ -56,7 +56,7 @@ Onondaga Creek, a waterway that runs through downtown, flows northward through t
 
 Climate
 
-Syracuse_Weather_Statistics.png Syracuse has a humid continental climate and is known for its high snowfall. Boasting on average,[22] Syracuse receives the most annual average snow of any metropolitan area in the United States.[23][24] Syracuse usually wins the Golden Snowball Award, among Upstate cities. Its record so far is .[25] The high snowfall is a result of the city receiving both heavy snow from the lake effect of nearby Lake Ontario (of the Great Lakes) and nor'easter snow from storms driven from the Atlantic Ocean. Snow most often falls in small (about ), almost daily doses, over a period of several days. Larger snowfalls do occur occasionally, and even more so in the northern suburbs.
+Syracuse has a humid continental climate and is known for its high snowfall. Boasting on average,[22] Syracuse receives the most annual average snow of any metropolitan area in the United States.[23][24] Syracuse usually wins the Golden Snowball Award, among Upstate cities. Its record so far is .[25] The high snowfall is a result of the city receiving both heavy snow from the lake effect of nearby Lake Ontario (of the Great Lakes) and nor'easter snow from storms driven from the Atlantic Ocean. Snow most often falls in small (about ), almost daily doses, over a period of several days. Larger snowfalls do occur occasionally, and even more so in the northern suburbs.
 
 The Blizzard of 1993 was described as the Storm of the Century. Some fell on the city within 48 hours, with falling within the first 24 hours. Syracuse received more snow than any other city in the country during this storm, which shattered a total of eight local records, including the most snow in a single snowstorm.[26] A second notable snowfall was the Blizzard of 1966, with . The Blizzard of '58 occurred in February (16-17th) across Oswego and Onondaga counties. This storm was classified as a blizzard due to the high winds, blowing snow, and cold. 26.1 inches (66  cm) of snow was measured at Syracuse and drifts reached 20 feet (600  cm) in Oswego County. (See Thirtieth Publication of the Oswego County Historical Society, (1969) and The Climate and Snow Climatology of Oswego N.Y., (1971))
 
@@ -163,7 +163,7 @@ Top employers in the Syracuse region and the size of their workforce include the
 -   Loretto (elder care services): 1,465[51]
 -   Syracuse VA Medical Center (Veterans Health): 1,400[52]
 
-Syracuse_skyline.jpg at left to Syracuse University's Carrier Dome at right]]
+at left to Syracuse University's Carrier Dome at right]]
 
 Bristol-Myers Squibb, founded by alumni of nearby Hamilton College, has a complex in East Syracuse.[53]
 
@@ -181,8 +181,6 @@ Since 1927 the State Tower Building has been the tallest in Syracuse.
 
 
 Neighborhoods
-
-Syracuse_Neighborhoods_Labeled.gif
 
 The City of Syracuse officially recognizes 26 neighborhoods within its boundaries. Some of these have small additional neighborhoods and districts inside of them. In addition, Syracuse also owns and operates Syracuse Hancock International Airport on the territory of four towns north of the city.
 
@@ -209,7 +207,7 @@ Residents are assigned to schools in the Syracuse City School District.[55] Syra
 
 Colleges and universities
 
-June03_007.jpg's Crouse College]]
+'s Crouse College]]
 
 One of Syracuse's major research universities is Syracuse University, located on University Hill. It had an enrollment of 22,484 for the 2017-2018 academic year.[63]
 
@@ -264,7 +262,7 @@ SUBURBAN LIBRARIES [69]
 
 Arts and culture
 
-_Niagara_Mohawk_Bldg_(Syracuse,_NY).jpg (now owned by National Grid USA), an example of art deco.]]
+(now owned by National Grid USA), an example of art deco.]]
 
 Performing arts
 
@@ -304,14 +302,14 @@ Museums and art galleries
 
 Parks and recreation
 
-Syracuse_Onondaga_Park.jpg in Strathmore]] The City of Syracuse maintains over 170 parks, fields, and recreation areas, totaling over .[71] Burnet Park includes the first public golf course in the United States (1901) and Rosamond Gifford Zoo. Other major parks include Thornden Park, Schiller Park, Sunnycrest Park, Onondaga Park and Kirk Park. There are 12 public pools, two public ice rinks, and two public nine-hole golf courses in the city.
+in Strathmore]] The City of Syracuse maintains over 170 parks, fields, and recreation areas, totaling over .[71] Burnet Park includes the first public golf course in the United States (1901) and Rosamond Gifford Zoo. Other major parks include Thornden Park, Schiller Park, Sunnycrest Park, Onondaga Park and Kirk Park. There are 12 public pools, two public ice rinks, and two public nine-hole golf courses in the city.
 
 Right outside the city proper, along the east side and north end of Onondaga Lake, is Onondaga Lake Park. The adjacent Onondaga Lake Parkway is closed to vehicular traffic several hours on Sundays during the summer months, so it can be used for walking, running, biking, and rollerblading. During the holiday season, the park hosts Lights on the Lake, a drive-through light show.
 
 
 Infrastructure
 
-Syracuse_Interstates.jpg (foreground) and Interstate 690 interchange in Downtown Syracuse]] Syracuse_Regional_Transportation_Center.jpg]]
+(foreground) and Interstate 690 interchange in Downtown Syracuse]] ]]
 
 Transportation
 
@@ -345,25 +343,25 @@ Syracuse is served by the Syracuse Hancock International Airport in nearby Salin
 
 Major highways and roads
 
-SyracuseHighways.jpgs link the city with its suburbs and other cities throughout the country.]]
+s link the city with its suburbs and other cities throughout the country.]]
 
 FOUR INTERSTATE HIGHWAYS RUN THROUGH THE SYRACUSE AREA:
 
--   I-81.svg Interstate 81 (Highway 401 via Highway 137 in Ontario to Knoxville) runs north-south through Syracuse, and provides access to Canada, Pennsylvania and points south. Its downtown portion is extremely narrow, only consisting of four lanes and essentially no onramps.
--   I-90.svg Interstate 90 (Seattle to Boston), also known as the New York State Thruway runs east-west, just north of the city. It is a toll highway that provides access to Rochester, Buffalo, Albany, and the north-south (Interstate 87) part of the Thruway which leads to New York City.
--   I-690.svg Interstate 690 runs east-west through the city, and provides access to Interstate 90, as well as to Syracuse's northwestern and eastern suburbs. A spur off I-690 directly west of the city, NY 695, provides freeway access to the southwestern suburbs. It meets Interstate 81 in downtown Syracuse in a highly complex and incomplete intersection. Most of its routing through the city directly replaced elevated rail lines, a fact quite notable by the city's former main rail terminal, where the freeway spans the width between the terminal and its outermost platform. In 1981 artist Duke Epolito erected sculptures of "passengers" on the far platform. The piece is entitled "Waiting for the Night Train."[74]
--   I-481.svg Interstate 481 forms an eastern loop around the city and continues to the northwest as NY 481 to Fulton and Oswego, on the shore of Lake Ontario.
+-   Interstate 81 (Highway 401 via Highway 137 in Ontario to Knoxville) runs north-south through Syracuse, and provides access to Canada, Pennsylvania and points south. Its downtown portion is extremely narrow, only consisting of four lanes and essentially no onramps.
+-   Interstate 90 (Seattle to Boston), also known as the New York State Thruway runs east-west, just north of the city. It is a toll highway that provides access to Rochester, Buffalo, Albany, and the north-south (Interstate 87) part of the Thruway which leads to New York City.
+-   Interstate 690 runs east-west through the city, and provides access to Interstate 90, as well as to Syracuse's northwestern and eastern suburbs. A spur off I-690 directly west of the city, NY 695, provides freeway access to the southwestern suburbs. It meets Interstate 81 in downtown Syracuse in a highly complex and incomplete intersection. Most of its routing through the city directly replaced elevated rail lines, a fact quite notable by the city's former main rail terminal, where the freeway spans the width between the terminal and its outermost platform. In 1981 artist Duke Epolito erected sculptures of "passengers" on the far platform. The piece is entitled "Waiting for the Night Train."[74]
+-   Interstate 481 forms an eastern loop around the city and continues to the northwest as NY 481 to Fulton and Oswego, on the shore of Lake Ontario.
 
 TWO US HIGHWAYS RUN THROUGH THE SYRACUSE AREA:
 
--   US_11.svg U.S. Highway 11 (Route 223 in Quebec to New Orleans) passes through Syracuse, including downtown, and it follows the route of Salina and State Streets.
--   US_20.svg U.S. Highway 20 (Boston to Newport, Oregon) passes south of Syracuse.
+-   U.S. Highway 11 (Route 223 in Quebec to New Orleans) passes through Syracuse, including downtown, and it follows the route of Salina and State Streets.
+-   U.S. Highway 20 (Boston to Newport, Oregon) passes south of Syracuse.
 
 NEW YORK STATE ROUTE EXPRESSWAYS:
 
--   NY-481.svg New York State Route 481 - Travels from NY 104 in Oswego to the junction of Interstate 81 and Interstate 481 north of Syracuse.
--   NY-690.svg New York State Route 690 - Was built as an extension of Interstate 690 in the northwest suburbs of Syracuse. The route is a four-lane divided highway from its southern end at I-690, where it meets Interstate 90 (NYS Thruway), to its end northwest of Baldwinsville in Lysander at NY 48 and NY 631.
--   NY-695.svg New York State Route 695 - Is a short state highway west of Syracuse in the town of Solvay in Onondaga County. The number of the highway was derived from the two highways that NY 695 links, Interstate 690 and NY 5.
+-   New York State Route 481 - Travels from NY 104 in Oswego to the junction of Interstate 81 and Interstate 481 north of Syracuse.
+-   New York State Route 690 - Was built as an extension of Interstate 690 in the northwest suburbs of Syracuse. The route is a four-lane divided highway from its southern end at I-690, where it meets Interstate 90 (NYS Thruway), to its end northwest of Baldwinsville in Lysander at NY 48 and NY 631.
+-   New York State Route 695 - Is a short state highway west of Syracuse in the town of Solvay in Onondaga County. The number of the highway was derived from the two highways that NY 695 links, Interstate 690 and NY 5.
 
 Public works
 
@@ -380,11 +378,9 @@ On March 3, the 100th water main break in Syracuse in 2015 occurred on James Str
 
 Government
 
-Syracuse_New_York_flag.jpg]]
+]]
 
 Executive
-
-Syrcityhall2.jpg Syracusecountycourthouse3.JPGUSA_-_NEW_YORK_-_Syracuse_police_dept..jpg
 
 The city is headed by an elected mayor who is limited to two four-year terms. On November 7, 2017, Ben Walsh was elected mayor. He began in January 2018 as the first independent mayor of Syracuse in over 100 years.[81] The last independent mayor of Syracuse was Louis Will, who was elected in 1913. The previous mayor was former Common Councilor At Large Stephanie Miner, who was elected on November 3, 2009; she was the first female mayor of Syracuse. Minor was preceded by former Syracuse Common Council President Matthew Driscoll,[82] who first assumed the position in 2001 after the former mayor, Roy Bernardi, resigned upon his appointment by President George W. Bush to a position in the Department of Housing and Urban Development. After serving the remaining term, Driscoll was re-elected that year, and again in 2005.
 
@@ -470,7 +466,7 @@ Current teams
 | | SYRACUSE FC     | | Soccer   | NPSL     | 2017      | | Onondaga Community College | 0        | | N/A                                            |
 +-------------------+------------+----------+-----------+------------------------------+----------+--------------------------------------------------+
 
-Alliancebankstadium1.jpg is home to the Syracuse Mets baseball team.]] SU_Football.jpg's football team plays its games in the Carrier Dome.]]
+is home to the Syracuse Mets baseball team.]] 's football team plays its games in the Carrier Dome.]]
 
 Professional teams in Syracuse include:
 

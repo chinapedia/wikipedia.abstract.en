@@ -1,1 +1,0 @@
-_DESEOS Y DELIRIOS_ (Desires and Delusions) is a greatest hits album by Mexican recording artist Pedro Fernández, released by Universal Music Latino a division of Universal Music Latin Entertainment on November 26, 1996. Deseos Y Delirios contains a single disc with 16 songs.[1]

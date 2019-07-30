@@ -1,1 +1,0 @@
-NARUMIYA INTERNATIONAL (jp: 株式会社ナルミヤ・インターナショナル) is a Japanese company limited headquartered in Minato Ward, Tokyo, Japan. The firm manufactures and distributes textiles and specializes in children's clothing.[1][2]

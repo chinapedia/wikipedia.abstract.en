@@ -1,1 +1,0 @@
-HUGH HAZELTON (born 1946) is an American-born writer and translator, living in Canada and specializing in Latin American works and their interactions with Canadian works.[1] He is multilingual and translates French, Spanish, and Portuguese into English.[2]

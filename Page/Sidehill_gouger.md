@@ -1,5 +1,3 @@
-Sidehill-Gouger.jpg
-
 In American folklore, a SIDEHILL GOUGER is a fearsome critter adapted to living on hillsides by having legs on one side of their body shorter than the legs on the opposite side.[1] This peculiarity allows them to walk on steep hillsides, although only in one direction; when lured or chased into the plain, they are trapped in an endless circular path. The creature is variously known as the Sidehill Dodger,[2] Sidehill Hoofer,[3] Sidehill Ousel, Sidehill Loper, Gyascutus, Sidewinder, Wampus, Gudaphro, Hunkus, Rickaboo Racker, Prock, Gwinter, or Cutter Cuss.
 
 Sidehill gougers are mammals who dwell in hillside burrows,[4] and are occasionally depicted as laying eggs[5][6] There are usually 6 to 8 pups to a litter.[7] Since the gouger is footed for hillsides, it cannot stand up on level ground. If by accident a gouger falls from a hill, it can easily be captured or starve to death.[8] When a clockwise gouger meets a counter-clockwise gouger, they have to fight to the death since they can only go in one direction.[9] The formation of terracettes has been attributed to gouger activity.[10]

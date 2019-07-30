@@ -1,1 +1,0 @@
-AUSTIN JOSEPH PUCKETT (born May 27, 1995) is an American professional baseball pitcher in the Chicago White Sox organization. Prior to pitching professionally, Puckett played college baseball for the Pepperdine Waves of Pepperdine University.

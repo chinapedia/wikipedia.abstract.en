@@ -1,1 +1,0 @@
-_THE MAN ON THE BENCH IN THE BARN_ is a novel by the Belgian writer Georges Simenon. The original French version _La Main_ ("The Hand") appeared in 1968. The novel is among his _romans durs_, a term roughly translated as hard, or harrowing, novels; it was used by Simenon for what he regarded as his serious literary works.[1]

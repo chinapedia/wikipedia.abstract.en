@@ -1,1 +1,0 @@
-_CLUB DER ROTEN BÄNDER_ (; literally "Club of red bracelets") is a German comedy-drama television series broadcast on VOX. Based upon the Catalan drama series _Polseres vermelles_, the series focuses on a group of teenagers living together as patients in a hospital's pediatric ward.

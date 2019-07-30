@@ -1,1 +1,0 @@
-The CISALPINA PRIVATE NATURAL HERITAGE RESERVE is a private natural heritage reserve in the state of Mato Grosso do Sul, Brazil. It contains an area of marshland at the head of the reservoir of the Eng Sérgio Motta Dam on the Paraná River.

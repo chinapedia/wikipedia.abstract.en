@@ -1,1 +1,0 @@
-TUXWORTH FULLWOOD HOUSE is a historic building in Tennant Creek in the Northern Territory of Australia. It was known as the No. 55 Australian Camp Hospital during World War II becoming the Tennant Creek Hospital Outpatients Department after the war. It was the first brick building constructed in the town and is one of the last remaining military structures in the Barkly region.

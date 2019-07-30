@@ -1,1 +1,0 @@
-A HOWITZER is a type of artillery piece characterized by a relatively short barrel and the use of comparatively small propellant charges to propel projectiles over relatively high trajectories, with a steep angle of descent. Charlottenlund_Fort_Haubitz4.jpg 290 mm howitzer battery at Charlottenlund Fort, Denmark.]]

@@ -1,1 +1,0 @@
-_Deniz_Sağdıç.jpg DENIZ SAĞDIÇ (born 1982 in Mersin, Turkey) is a Turkish artist.[1] She began her art education at Mersin University's Faculty of Fine Arts in 1999. She was included in various projects even as a student. She graduated with a first from the same university in 2003. The young artist who has featured in many international and national projects.

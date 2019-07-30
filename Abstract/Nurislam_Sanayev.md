@@ -1,1 +1,0 @@
-ARTAS SANAA (; born February 9, 1991 in Tuva, Russia) is a Russian and Kazakhstani freestyle wrestler of Tuva heritage. He competed in the men's freestyle 57 kg event at the 2016 Summer Olympics, in which he was eliminated in the repechage by Haji Aliyev.[1][2]

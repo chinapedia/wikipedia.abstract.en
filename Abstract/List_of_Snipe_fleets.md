@@ -1,1 +1,0 @@
-The following is a partial LIST OF SNIPE FLEETS. Fleets are the basic organizational structure of the Snipe class,[1] a 2-person, one design racing dinghy governed by the Snipe Class International Racing Association (SCIRA), and recognized by the International Sailing Federation as an International Class.

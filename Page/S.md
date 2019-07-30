@@ -17,7 +17,7 @@ The Italic letter was also adopted into Elder Futhark, as _Sowilō_ (), and appe
 
 Long s
 
-Schwäbische_Bastarda_1496_Schriftprobe_Priesters_Tochter.png, dated 1496) illustrating the use of long and round _s_: _prieſters tochter_ ("priest's daughter").]]
+, dated 1496) illustrating the use of long and round _s_: _prieſters tochter_ ("priest's daughter").]]
 
 The minuscule form ſ, called the long _s_, developed in the early medieval period, within the Visigothic and Carolingian hands, with predecessors in the half-uncial and cursive scripts of Late Antiquity. It remained standard in western writing throughout the medieval period and was adopted in early printing with movable types. It existed alongside minuscule "round" or "short" _s_, which was at the time only used at the end of words.
 

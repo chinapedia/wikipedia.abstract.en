@@ -1,1 +1,0 @@
-Britain_roman.png

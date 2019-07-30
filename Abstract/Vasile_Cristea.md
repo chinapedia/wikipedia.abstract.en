@@ -1,1 +1,0 @@
-VASILE CRISTEA, A.A. (24 February 1906 – 17 January 2000) was a Romanian Greek Catholic hierarch. He served as Official of the Roman Curia and an Apostolic Visitator for the Romanian Greek Catholic in diaspora as well being the Titular Bishop of Lebedus.

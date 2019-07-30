@@ -1,1 +1,0 @@
-The RED PANDA (_Ailurus fulgens_) is a mammal native to the eastern Himalayas and southwestern China. It is listed as Endangered on the IUCN Red List because the wild population is estimated at fewer than 10,000 mature individuals and continues to decline due to habitat loss and fragmentation, poaching, and inbreeding depression.[1]

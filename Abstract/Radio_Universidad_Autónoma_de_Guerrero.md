@@ -1,1 +1,0 @@
-RADIO UNIVERSIDAD AUTÓNOMA DE GUERRERO, frequently unofficially known as XEUAG, is an AM/FM combo Mexican college radio station owned by the Autonomous University of Guerrero in the state capital of Chilpancingo. The station broadcasts without a permit or concession on 840 kHz AM and 90.7 MHz FM.

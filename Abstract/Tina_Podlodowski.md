@@ -1,1 +1,0 @@
-TINA PODLODOWSKI (born 1960) is an American businesswoman and politician. She is the current Chair of the Washington State Democratic Party. She is also a former member of the Seattle City Council and unsuccessful candidate for Washington Secretary of State.

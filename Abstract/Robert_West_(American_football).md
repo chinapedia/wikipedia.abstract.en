@@ -1,1 +1,0 @@
-ROBERT HAROLD WEST (born October 3, 1950) is a former American football wide receiver in the National Football League (NFL) for the Kansas City Chiefs and San Francisco 49ers. He played college football at San Diego State University.

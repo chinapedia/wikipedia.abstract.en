@@ -1,1 +1,0 @@
-Political_Spectrum_Chart_NPOV.svg

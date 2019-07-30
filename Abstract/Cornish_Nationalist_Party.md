@@ -1,1 +1,0 @@
-The CORNISH NATIONALIST PARTY (CNP; ) is a political party, founded by Dr James Whetter, who campaigned for independence for Cornwall.[1] It was formed by people who left Cornwall's main nationalist party Mebyon Kernow on 28 May 1975,[2] but it is no longer for independence.[3]

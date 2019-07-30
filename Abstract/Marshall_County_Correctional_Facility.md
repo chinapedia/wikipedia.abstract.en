@@ -1,1 +1,0 @@
-MARSHALL COUNTY CORRECTIONAL CENTER (MCCF) is a for-profit prison in Holly Springs, Marshall County, Mississippi, managed by Management and Training Corporation (MTC) on behalf of the Mississippi Department of Corrections.[1][2]

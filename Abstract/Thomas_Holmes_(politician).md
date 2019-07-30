@@ -1,1 +1,0 @@
-THOMAS R. HOLMES (born September 19, 1949) is an American former politician. He has served as a Republican member for the 14th district in the South Dakota House of Representatives since 2015. Before that, he was a teacher at Roosevelt High School in Sioux Falls. He taught classes like Early History Of Mankind. [1][2]

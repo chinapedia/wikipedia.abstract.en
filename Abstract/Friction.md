@@ -1,1 +1,0 @@
-Friction_between_surfaces.jpg rough surfaces, exhibiting static frictional interactions[1]]] FRICTION is the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other.[2] There are several types of friction:

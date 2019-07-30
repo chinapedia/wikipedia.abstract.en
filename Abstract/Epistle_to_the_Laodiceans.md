@@ -1,1 +1,0 @@
-The EPISTLE TO THE LAODICEANS is a lost (although witnessed in Codex Fuldensis) letter of Paul the Apostle, the original existence of which is inferred from an instruction to the congregation in Colossae to send their letter to the believing community in Laodicea, and likewise obtain a copy of the letter "from Laodicea" (, _ek Laodikeas_).[1]

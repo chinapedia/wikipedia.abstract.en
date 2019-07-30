@@ -1,1 +1,0 @@
-S1_1.JPG EXPRESSWAY S52 is an expressway under construction in Poland, which is located in the Silesian and Lesser Poland voivodeships. Upon completion it will connect the border of the Czech Republic in Cieszyn-Boguszowice along with the Expressway R48 in the Czech Republic with Kraków.

@@ -1,1 +1,0 @@
-HIGHWAY 344 (AR 344, ARK. 344, and HWY. 344) is an east–west state highway in Columbia County. The route of begins at US Highway 82 (US 82) and runs east to US 371 near Magnolia. The route is maintained by the Arkansas State Highway and Transportation Department (AHTD).

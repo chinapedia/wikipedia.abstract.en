@@ -1,4 +1,4 @@
-Ganzfeld.jpgs that aimed to demonstrate telepathy have been criticized for lack of replication and poor controls.[1][2]]]
+s that aimed to demonstrate telepathy have been criticized for lack of replication and poor controls.[1][2]]]
 
 TELEPATHY (from the Greek τῆλε, _tele_ meaning "distant" and πάθος, _pathos_ or _-patheia_ meaning "feeling, perception, passion, affliction, experience")[3][4] is the purported vicarious transmission of information from one person to another without using any known human sensory channels or physical interaction. The term was coined in 1882 by the classical scholar Frederic W. H. Myers,[5] a founder of the Society for Psychical Research,[6] and has remained more popular than the earlier expression _thought-transference_.[7][8]
 
@@ -21,7 +21,7 @@ Another famous thought reader was the magician Stuart Cumberland. He was famous 
 
 Case studies
 
-Gilbert_Murray.jpg conducted early telepathy experiments.]]
+conducted early telepathy experiments.]]
 
 In the late 19th century the Creery Sisters (Mary, Alice, Maud, Kathleen, and Emily) were tested by the Society for Psychical Research and believed to have genuine psychic ability. However, during a later experiment they were caught utilizing signal codes and they confessed to fraud.[20][21] George Albert Smith and Douglas Blackburn were claimed to be genuine psychics by the Society for Psychical Research but Blackburn confessed to fraud:
 
@@ -39,7 +39,7 @@ In February 1927, with the co-operation of the British Broadcasting Corporation 
 
 A famous experiment in telepathy was recorded by the American author Upton Sinclair in his book _Mental Radio_ which documents Sinclair's test of psychic abilities of Mary Craig Sinclair, his second wife. She attempted to duplicate 290 pictures which were drawn by her husband. Sinclair claimed Mary successfully duplicated 65 of them, with 155 "partial successes" and 70 failures. However, these experiments were not conducted in a controlled scientific laboratory environment.[37] Science writer Martin Gardner suggested that the possibility of sensory leakage during the experiment had not been ruled out:
 
-Frederick_Marion_mentalist.png who was investigated by the Society for Psychical Research in the late 1930-1940s.]] The Turner-Ownbey long distance telepathy experiment was discovered to contain flaws. May Frances Turner positioned herself in the Duke Parapsychology Laboratory whilst Sara Ownbey claimed to receive transmissions 250 miles away. For the experiment Turner would think of a symbol and write it down whilst Ownbey would write her guesses.[38] The scores were highly successful and both records were supposed to be sent to J. B. Rhine; however, Ownbey sent them to Turner. Critics pointed out this invalidated the results as she could have simply written her own record to agree with the other. When the experiment was repeated and the records were sent to Rhine the scores dropped to average.[39][40][41]
+who was investigated by the Society for Psychical Research in the late 1930-1940s.]] The Turner-Ownbey long distance telepathy experiment was discovered to contain flaws. May Frances Turner positioned herself in the Duke Parapsychology Laboratory whilst Sara Ownbey claimed to receive transmissions 250 miles away. For the experiment Turner would think of a symbol and write it down whilst Ownbey would write her guesses.[38] The scores were highly successful and both records were supposed to be sent to J. B. Rhine; however, Ownbey sent them to Turner. Critics pointed out this invalidated the results as she could have simply written her own record to agree with the other. When the experiment was repeated and the records were sent to Rhine the scores dropped to average.[39][40][41]
 
 Another example is the experiment carried out by the author Harold Sherman with the explorer Hubert Wilkins who carried out their own experiment in telepathy for five and a half months starting in October 1937. This took place when Sherman was in New York and Wilkins was in the Arctic. The experiment consisted of Sherman and Wilkins at the end of each day to relax and visualise a mental image or "thought impression" of the events or thoughts they had experienced in the day and then to record those images and thoughts on paper in a diary. The results at the end when comparing Sherman's and Wilkins' diaries were claimed to be more than 60 percent.[42]
 
@@ -69,7 +69,7 @@ Parapsychology describes several forms of telepathy:[55]
 
 Zener Cards
 
-Zener_cards_(color).svg Zener cards are marked with five distinctive symbols. When using them, one individual is designated the "sender" and another the "receiver". The sender selects a random card and visualize the symbol on it, while the receiver attempts to determine that symbol using Psi. Statistically, the receiver has a 20% chance of randomly guessing the correct symbol, so to demonstrate telepathy, they must repeatedly score a success rate that is significantly higher than 20%.[61] If not conducted properly, this method can be vulnerable to sensory leakage and card counting.[62]
+Zener cards are marked with five distinctive symbols. When using them, one individual is designated the "sender" and another the "receiver". The sender selects a random card and visualize the symbol on it, while the receiver attempts to determine that symbol using Psi. Statistically, the receiver has a 20% chance of randomly guessing the correct symbol, so to demonstrate telepathy, they must repeatedly score a success rate that is significantly higher than 20%.[61] If not conducted properly, this method can be vulnerable to sensory leakage and card counting.[62]
 
 J. B. Rhine's experiments with Zener cards were discredited due to the discovery that sensory leakage or cheating could account for all his results such as the subject being able to read the symbols from the back of the cards and being able to see and hear the experimenter to note subtle clues.[63] Once Rhine took precautions in response to criticisms of his methods, he was unable to find any high-scoring subjects.[64] Due to the methodological problems, parapsychologists no longer utilize card-guessing studies.[65]
 

@@ -1,1 +1,0 @@
-Aline_Frazao.jpg

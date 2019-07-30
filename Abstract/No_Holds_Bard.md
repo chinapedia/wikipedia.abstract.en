@@ -1,1 +1,0 @@
-NO HOLDS BARD is an American podcast hosted by Dan Beaulieu and Kevin Condardo, the co-founder/artistic director and managing director of Seven Stages Shakespeare Company in Portsmouth, New Hampshire.[1]

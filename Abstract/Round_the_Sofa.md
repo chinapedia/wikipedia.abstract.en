@@ -1,1 +1,0 @@
-Round_the_Sofa.jpg _ROUND THE SOFA_ is an 1859 2-volume collection consisting of a novel with a story preface and five short stories by Elizabeth Gaskell. The two volumes were published by Sampson Low, Son & Co. in London.[1]

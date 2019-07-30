@@ -1,1 +1,0 @@
-Alder_trees_by_the_Beaulieu_River_at_Longwater_Lawn.jpg

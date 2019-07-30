@@ -1,1 +1,0 @@
-Messerschmitt-Walenstein.jpg PIUS FERDINAND MESSERSCHMITT (30 May 1858, Bamberg - 29 October 1915, Munich) was a German painter, illustrator and watercolorist; noted for genre and historical scenes, most of which include horses.

@@ -1,1 +1,0 @@
-The PANAMBÍ DAM (), or RONCADOR DAM, is a planned hydroelectric dam and generating station on the Uruguay River between Argentina and Brazil, part of the Garabí-Panambi Hydroelectric Complex. There is controversy over the environmental impact on the fast-flowing river.

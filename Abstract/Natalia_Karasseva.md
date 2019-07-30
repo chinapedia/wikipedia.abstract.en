@@ -1,1 +1,0 @@
-'''Natalia Karasseva ''' (born 30 April 1977) is a Russian footballer who played as a defender for the Russia women's national football team. She was part of the team at the 1999 FIFA Women's World Cup and the UEFA Women's Euro 2001.[1]

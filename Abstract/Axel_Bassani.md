@@ -1,1 +1,0 @@
-AXEL BASSANI (born 24 July 1999 in Feltre) is an Italian motorcycle racer. He was the FIM Europe Supersport Cup winner in 2016.[1] He was signed up to race in the Moto2 World Championship for the Speed Up team for 2017;[2] he and the team split after four starts.[3] He currently competes in the CIV Superbike Championship, aboard a BMW S1000RR.

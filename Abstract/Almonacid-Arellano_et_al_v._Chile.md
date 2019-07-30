@@ -1,1 +1,0 @@
-Almonacid-Arellano v. Chile was a case before the Inter-American Court of Human Rights. It announced that all judges must review domestic laws for conformity to the ACHR. If there is a conflict, the Court held, the domestic law cannot be applied.[1]

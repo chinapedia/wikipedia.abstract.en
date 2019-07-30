@@ -1,1 +1,0 @@
-JOHN WEBSTER LOWSON SPENCE MD LRCP LRCS (11 August 1870-15 March 1930) was a Scottish x-ray pioneer and an early victim of radiation poisoning. His name is one of 14 British professionals listed on the _Monument to the X-ray and Radium Martyrs of All Nations_, which was erected in 1936.[1] In the words of his gravestone: _he died that others might live_.

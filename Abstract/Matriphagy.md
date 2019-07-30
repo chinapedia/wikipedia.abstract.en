@@ -1,1 +1,0 @@
-MATRIPHAGY is the consumption of the mother by her offspring.[1][2] The behavior generally takes place within the first few weeks of life and has been documented in some species of insects, nematode worms, scorpions, and other arachnids as well as in caecilian amphibians.[3][4][5] S.lineatus.jpg'', one of the best described species that participates in matriphagy]]

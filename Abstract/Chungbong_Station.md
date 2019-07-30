@@ -1,1 +1,0 @@
-CHUNGBONG STATION is a railway station in Chungbong-dong, Hoeryŏng county, North Hamgyŏng province, North Korea. It is the terminus of the Sech'ŏn branch of the Hambuk Line of the Korean State Railway.[1]

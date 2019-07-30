@@ -1,1 +1,0 @@
-OREGON BALLOT MEASURE 95 is a ballot measure in the 2016 election in the U.S. state of Oregon. The measure allows public universities to invest in equities.[1] The measure passed with seventy percent of voters in favor.[2]

@@ -1,4 +1,4 @@
-__NOTOC__ KochSnowGif16_800x500_2.gif has an infinitely repeating self-similarity when it is magnified.]] Standard_self-similarity.png
+__NOTOC__ has an infinitely repeating self-similarity when it is magnified.]]
 
 In mathematics, a SELF-SIMILAR object is exactly or approximately similar to a part of itself (i.e. the whole has the same shape as one or more of the parts). Many objects in the real world, such as coastlines, are statistically self-similar: parts of them show the same statistical properties at many scales.[1] Self-similarity is a typical property of artificial fractals. Scale invariance is an exact form of self-similarity where at any magnification there is a smaller piece of the object that is similar to the whole. For instance, a side of the Koch snowflake is both symmetrical and scale-invariant; it can be continually magnified 3x without changing shape. The non-trivial similarity evident in fractals is distinguished by their fine structure, or detail on arbitrarily small scales. As a counterexample, whereas any portion of a straight line may resemble the whole, further detail is not revealed.
 
@@ -7,7 +7,7 @@ A time developing phenomenon is said to exhibit self-similarity if the numerical
 
 Self-affinity
 
-Self-affine_set.png=1.8272.]]
+=1.8272.]]
 
 In mathematics, SELF-AFFINITY is a feature of a fractal whose pieces are scaled by different amounts in the x- and y-directions. This means that to appreciate the self similarity of these fractal objects, they have to be rescaled using an anisotropic affine transformation.
 
@@ -31,7 +31,7 @@ A more general notion than self-similarity is Self-affinity.
 
 Examples
 
-Feigenbaumzoom.gif shown by zooming in on the Feigenbaum point at (−1.401155189..., 0)]] Fractal_fern_explained.png which exhibits affine self-similarity]]
+shown by zooming in on the Feigenbaum point at (−1.401155189..., 0)]] which exhibits affine self-similarity]]
 
 The Mandelbrot set is also self-similar around Misiurewicz points.
 
@@ -41,7 +41,7 @@ Similarly, stock market movements are described as displaying self-affinity, i.e
 
 Finite subdivision rules are a powerful technique for building self-similar sets, including the Cantor set and the Sierpinski triangle.
 
-RepeatedBarycentricSubdivision.png. The complement of the large circles becomes a Sierpinski carpet]]
+. The complement of the large circles becomes a Sierpinski carpet]]
 
 In cybernetics
 
@@ -49,7 +49,7 @@ The Viable System Model of Stafford Beer is an organizational model with an affi
 
 In nature
 
-Flickr_-_cyclonebill_-_Romanesco.jpg.]] Self-similarity can be found in nature, as well. To the right is a mathematically generated, perfectly self-similar image of a fern, which bears a marked resemblance to natural ferns. Other plants, such as Romanesco broccoli, exhibit strong self-similarity.
+.]] Self-similarity can be found in nature, as well. To the right is a mathematically generated, perfectly self-similar image of a fern, which bears a marked resemblance to natural ferns. Other plants, such as Romanesco broccoli, exhibit strong self-similarity.
 
 In music
 

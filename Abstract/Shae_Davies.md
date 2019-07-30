@@ -1,1 +1,0 @@
-SHAE DAVIES (born 8 March 1990) is an Australian professional racing driver. He currently competes in the Dunlop Super2 Series, driving the No. 67 Ford FG X Falcon for Paul Morris Motorsport. Davies briefly drove for Erebus Motorsport during the 2016 V8 Supercars season.

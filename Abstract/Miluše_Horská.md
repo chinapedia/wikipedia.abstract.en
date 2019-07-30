@@ -1,1 +1,0 @@
-MILUŠE HORSKÁ (born 26 April 1959) is a Czech pedagogue and politician who has been Senator from Pardubice since 2010.[1] She was elected to the Senate in 2010 Election as an independent candidate. In Senate is she member of KDU-ČSL and independents group.

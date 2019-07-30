@@ -1,1 +1,0 @@
-JEAN GREY-SUMMERS is a fictional superhero appearing in American comic books published by Marvel Comics. The character has been known under the aliases MARVEL GIRL, PHOENIX, and DARK PHOENIX. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in _The X-Men_ #1 (September 1963).

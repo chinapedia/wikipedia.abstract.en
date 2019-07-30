@@ -1,1 +1,0 @@
-ZHAN DABEI (1888-1927) was a Chinese revolutionary and politician. He was an anti-Manchu rebel active at the time of the 1911 Revolution. He later became a left-wing member of the Nationalist Party, or KMT, and was executed as a Communist partisan in 1927.[1]

@@ -1,1 +1,0 @@
-JONATHAN I. STRIETZEL is an American entrepreneur, businessman, and inventor.[1][2][3] He is known for founding various companies as well as engineering and patenting several systems and methods in telecommunications,[4] advertising, and video gaming.[5][6][7][8]

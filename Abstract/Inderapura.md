@@ -1,1 +1,0 @@
-INDERAPURA was the capital city of the medieval kingdom of Pahang[1] that existed from 5th to 15th century. The city was mentioned several times in the Malay Annals in narrating the conquest of Pahang in 1454. The word Inderapura means "Town of Indra" in Sanskrit, Indra being the leader of the Devas and the lord of Svargaloka in Dharmic religions.

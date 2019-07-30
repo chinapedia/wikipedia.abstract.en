@@ -1,1 +1,0 @@
-The KAIADILT are an indigenous Australian people of the South Wellesley group in the Gulf of Carpentaria, Queensland, Australia. They are native to Bentinck Island, but also made nomadic fishing and hunting forays to both Sweers and Allen Islands. Their descendants now live on Mornington Island, though one group has returned to Bentinck Island.

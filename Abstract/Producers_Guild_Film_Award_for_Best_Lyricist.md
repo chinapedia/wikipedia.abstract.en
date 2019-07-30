@@ -1,1 +1,0 @@
-The PRODUCERS GUILD FILM AWARDS FOR BEST LYRICIST (previously known as the APSARA AWARD FOR BEST LYRICIST) is given by the producers of the film and television guild as part of its annual award ceremony to recognise the best Indian film of the year. Following its inception in 2004, no one was awarded in 2005 and 2007. [1]

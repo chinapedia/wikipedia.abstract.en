@@ -1,1 +1,0 @@
-The English Bowls Association was the governing body of bowls in England until 2007. From 2008 onwards, Bowls England was formed, which now runs the sport. The National Finals for bowls are held annually, where either 1, 2 or 3 representatives from each county compete for the national titles.

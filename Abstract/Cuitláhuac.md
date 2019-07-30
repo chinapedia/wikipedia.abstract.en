@@ -1,1 +1,0 @@
-CUITLÁHUAC (, ) (c. 1476 – 1520)[1] or CUITLÁHUAC (in Spanish orthography; ,[2] , honorific form: CUITLAHUATZIN) was the 10th _tlatoani_ (ruler) of the Aztec city of Tenochtitlan for 80 days during the year Two Flint (1520).[3] He is credited with leading the Mexica resistance to the Spanish invasion, following the death of his kinsman Moctezuma II.

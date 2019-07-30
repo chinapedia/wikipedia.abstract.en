@@ -1,1 +1,0 @@
-The CASCADIA ART MUSEUM is an art museum in Edmonds, Washington, primarily featuring art from the Pacific Northwest region of the United States. The museum opened in 2015 and has a collection of over 200 works.

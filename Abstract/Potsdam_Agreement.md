@@ -1,1 +1,0 @@
-Potsdam_big_three.jpg

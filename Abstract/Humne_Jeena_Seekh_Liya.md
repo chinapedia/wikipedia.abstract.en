@@ -1,1 +1,0 @@
-_HUMNE JEENA SEEKH LIYA_ (English: We Have To Learn To Live) is a 2008 Indian coming of age drama and comedy film directed by Milind Ukey and starring Siddharth Chandekar,[1] and Mrunmayee Deshpande. It was first released on 4 January 2008.

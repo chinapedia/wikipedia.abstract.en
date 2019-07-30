@@ -1,1 +1,0 @@
-HENRY BRAYTON GARDNER (March 26, 1863 – April 22, 1939) was an American economist. He was a faculty member at Brown University from 1890 until 1928, serving as the first Eastman Professor of Political Economy from 1919 to 1928.[1] In 1919, he served as President of the American Economic Association.

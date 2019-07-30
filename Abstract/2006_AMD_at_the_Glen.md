@@ -1,1 +1,0 @@
-The 2006 AMD AT THE GLEN was a NASCAR Nextel Cup Series race that was held on August 13, 2006 at Watkins Glen International in Watkins Glen, New York. Contested over 90 laps on the 2.45 mile (3.942 km) road course, it was the 22nd race of the 2006 NASCAR Nextel Cup Series season. Kevin Harvick of Richard Childress Racing won the race.

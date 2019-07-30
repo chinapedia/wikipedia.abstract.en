@@ -1,1 +1,0 @@
-upright=1.55, the first printed Bible]] The BIBLE (from Koine Greek τὰ βιβλία, _tà biblía_, "the books")[1] is a collection of sacred texts or scriptures. Varying parts of the Bible are considered to be a product of divine inspiration and a record of the relationship between God and humans by Christians, Jews, Samaritans, and Rastafarians.

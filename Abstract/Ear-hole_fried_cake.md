@@ -1,1 +1,0 @@
-EAR-HOLE FRIED CAKE () is a fried rice cake that is a popular street food in Tianjin, China. It was invented by a street vendor named Liu Wanchun (劉萬春) during the Guangxu Emperor's reign.[1] Ear-hole fried cakes are considered a traditional food of Tianjin and are sold as street food, in restaurants, and commercially.[2]

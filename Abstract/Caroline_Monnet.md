@@ -1,1 +1,0 @@
-CAROLINE "COCO" MONNET is an Algonquin-French contemporary artist and filmmaker known for her work in sculpture, installation and film.[1] Monnet made her first debut in 2009 where she presented her film "_Ikwé_" at the Toronto International Film Festival.

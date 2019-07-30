@@ -1,1 +1,0 @@
-ANGEL ROALD BERMUDEZ (born 1950/1951)[1] is an Aruban politician. He served as Minister of Transport and Communication between 1987 and 1989. From 2011 to 2014 he was director of the Tax and Customs Administration of the Caribbean Netherlands. Bermudez served as Minister of Finance between 28 July 2014 and 17 November 2017.

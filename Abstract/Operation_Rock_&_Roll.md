@@ -1,1 +1,0 @@
-_OPERATION ROCK & ROLL_ was a 1991 concert tour featuring Judas Priest, Alice Cooper, Motörhead, Dangerous Toys and Metal Church. It ran from 9 July 1991 until 19 August 1991 in the United States and Canada. This tour was in honor of the US forces involved in Operation Desert Storm during the Gulf War. This would also be Judas Priest's final tour with Rob Halford until 2004.

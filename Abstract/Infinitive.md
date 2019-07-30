@@ -1,1 +1,0 @@
-INFINITIVE (abbreviated ) is a grammatical term referring to certain verb forms existing in many languages, most often used as non-finite verbs. As with many linguistic concepts, there is not a single definition applicable to all languages. The word is derived from Late Latin _[modus] infinitivus_, a derivative of _infinitus_ meaning "unlimited".

@@ -1,1 +1,0 @@
-'''Jeanette Haas ''' (born 3 January 1976) is a Canadian footballer who played as a midfielder for the Canada women's national soccer team. She was part of the team at the 1999 FIFA Women's World Cup.[1]

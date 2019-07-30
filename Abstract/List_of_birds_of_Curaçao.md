@@ -1,1 +1,0 @@
-This is a LIST OF THE BIRD SPECIES RECORDED IN CURAÇAO. The avifauna of Curaçao has 217 confirmed species, of which 13 have been introduced by humans and 75 are rare or vagrants. An additional four species are hypothetical (see below). None are endemic.

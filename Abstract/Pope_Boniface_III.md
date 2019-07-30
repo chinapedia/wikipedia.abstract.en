@@ -1,1 +1,0 @@
-POPE BONIFACE III (; died 12 November 607) was the Pope from 19 February 607 to his death on 12 November that same year.[1] Despite his short time as Pope he made a significant contribution to the organization of the Catholic Church.

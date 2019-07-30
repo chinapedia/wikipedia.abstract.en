@@ -1,1 +1,0 @@
-DHARMA (;[1] , ; , translit. _dhamma_) is a key concept with multiple meanings in Indian religions, such as Hinduism, Buddhism, Jainism, Sikhism and others.[2] There is no single-word translation for _dharma_ in Western languages.[3]

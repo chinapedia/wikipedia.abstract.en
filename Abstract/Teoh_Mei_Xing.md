@@ -1,1 +1,0 @@
-TEOH MEI XING (born 6 March 1997) is a Malaysian female badminton player.[1] She was the runner-up of the 2016 Swiss International and Scottish Open tournament in the women's doubles event partnered with Amelia Alicia Anscelly.[2][3]

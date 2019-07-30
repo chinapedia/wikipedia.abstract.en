@@ -1,1 +1,0 @@
-SIAHAR is a village in Ludhiana district in the Indian state of Punjab. Siahar is the birthplace of Dhan Dhan Sri Hazur Sant baba Mihan Singh ji. Baba G is popular for its love for Guru Granth Sahib ji.

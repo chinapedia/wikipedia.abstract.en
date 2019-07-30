@@ -1,1 +1,0 @@
-The THIMBLE JELLYFISH (_Linuche unguiculata_) is a species of cnidarian found in the warm West Atlantic Ocean, including the Caribbean.[1][2] It is a tiny jellyfish with a straight-sided, flat-topped bell. This jellyfish is the most common cause of seabather's eruption, a reaction caused by the injection of juvenile jellyfish nematocysts into human skin.[3]

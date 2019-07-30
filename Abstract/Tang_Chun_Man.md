@@ -1,1 +1,0 @@
-JORDAN TANG CHUN MAN (, born 20 March 1995) is a Hong Kong badminton player. He started playing badminton at aged seven, and joined the national team at 18.[1] He won his first title in the international event at the 2016 Chinese Taipei Masters partnered with Tse Ying Suet.[2]

@@ -1,1 +1,0 @@
-_THE EAGLE HUNTRESS_ is a 2016 internationally co-produced Kazakh-language documentary film directed by Otto Bell and narrated by executive producer Daisy Ridley.[1] It follows the story of Aisholpan, a 13-year-old Kazakh girl from Mongolia, as she attempts to become the first female eagle hunter to compete in the eagle festival at Ulgii, Mongolia, established in 1999.

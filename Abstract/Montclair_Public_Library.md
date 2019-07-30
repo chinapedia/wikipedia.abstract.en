@@ -1,1 +1,0 @@
-The MONTCLAIR PUBLIC LIBRARY is the public library for the township of Montclair located in Essex County, New Jersey, United States. It serves the residents from two buildings, the Main Library and the Bellevue Avenue Branch. It is a member of the Bergen County Cooperative Library System.

@@ -1,1 +1,0 @@
-MINA RADHAKRISHNAN is an entrepreneur and product manager. She is currently an entrepreneur in residence at Redpoint Ventures, and an adviser and mentor to other companies. She previously worked at Uber as their first product manager, and she shares the patent for Uber's surge pricing verification system.

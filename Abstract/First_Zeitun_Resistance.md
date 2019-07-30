@@ -1,1 +1,0 @@
-The FIRST ZEITUN RESISTANCE of 1862 was an armed conflict between the Armenians of Zeitun and the Ottoman Empire. Zeitun has for a long time been an autonomous, almost independent Armenian region within the Ottoman Empire. In the summer the Sultan of the Ottoman Empire tried to assert his dominance over the region to make the region under the control of him.

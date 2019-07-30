@@ -1,1 +1,0 @@
-OTHA LEE MOORE (May 22, 1930 – August 16, 1964),[1] better known as TINY TOPSY, was an American R&B singer. The music journalist, Mark Lamarr, noted "Tiny in the same spirit you'd call a bald man curly, Tiny Topsy definitely had the lungpower to match her name."[2] She was five feet tall and weighed 250 pounds.[3]

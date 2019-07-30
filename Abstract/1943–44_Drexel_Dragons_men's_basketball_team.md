@@ -1,1 +1,0 @@
-The 1943–44 DREXEL DRAGONS MEN'S BASKETBALL TEAM represented Drexel Institute of Technology during the 1943–44 men's basketball season. The Dragons, led by 1st year head coach John Marino, played their home games at Curtis Hall Gym.

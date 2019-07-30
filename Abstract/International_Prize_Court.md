@@ -1,1 +1,0 @@
-The INTERNATIONAL PRIZE COURT was an international court proposed at the beginning of the 20th century, to hear prize cases. An international agreement to create it, the _Convention Relative to the Creation of an International Prize Court_, was made at the Second Hague Conference in 1907 but never came into force.

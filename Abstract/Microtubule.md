@@ -1,1 +1,0 @@
-Microtubule_structure.png

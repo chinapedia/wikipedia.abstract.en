@@ -1,1 +1,0 @@
-SEKHAR SURI is an Indian film director predominately works for Telugu films.[1][2] He got good recognition for the thriller film _A Film by Aravind_. He directed 4 Telugu films and a Hindi film so far. All his movies has the some thriller elements in them.

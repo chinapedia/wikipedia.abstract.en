@@ -1,1 +1,0 @@
-RAVI SUBRAMANIAN (6 August 1965 – 4 June 2017) was an Indian cricket umpire.[1][2] He stood in matches in Women's Twenty20 Internationals, the Ranji Trophy tournament,[3] and other domestic List A and Twenty20 cricket matches.[4]

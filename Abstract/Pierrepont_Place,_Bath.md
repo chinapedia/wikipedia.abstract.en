@@ -1,1 +1,0 @@
-Pierrepont_Place,_Bath_-_geograph.org.uk_-_940240.jpg PIERREPONT PLACE is a mews street in Bath, England. Records indicate that Pierrepont Place and properties on it were built by John Wood the Elder between 1732 and 1748, on land once belonging to monks of Bath Abbey, who had used it as an orchard.

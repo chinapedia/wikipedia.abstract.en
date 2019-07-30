@@ -1,1 +1,0 @@
-JOHN GIVAN DAVIS MACK (1867 – 24 February 1924) was a professor of engineering at the University of Wisconsin. He was also curator of the museum of the Wisconsin Historical Society. He was for many years State Chief Engineer.

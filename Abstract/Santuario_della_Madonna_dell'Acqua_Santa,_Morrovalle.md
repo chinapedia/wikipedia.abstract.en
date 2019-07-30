@@ -1,1 +1,0 @@
-The SANCTUARY OF THE MADONNA DELL'ACQUA SANTA (Our Lady of the Holy Water) is a small Roman Catholic church or Marian shrine located on the Strada Provinciale #10, just outside of the town of Morrovalle, province of Macerata, region of Marche, Italy.

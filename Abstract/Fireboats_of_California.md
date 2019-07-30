@@ -1,1 +1,0 @@
-California's major ports have long traditions of maintaining dedicated fireboats, and, soon after Al Qaeda's attack on September 1st, 2001, FEMA started issuing port security grants equipping FIREBOATS FOR CALIFORNIA{{'}}s smaller ports, that are also equipped to work when hazardous materials have been released.[1][2][3]

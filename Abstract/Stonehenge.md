@@ -1,1 +1,0 @@
-STONEHENGE is a prehistoric monument in Wiltshire, England, west of Amesbury. It consists of a ring of standing stones, with each standing stone around high, wide and weighing around 25 tons. The stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred burial mounds.[1]

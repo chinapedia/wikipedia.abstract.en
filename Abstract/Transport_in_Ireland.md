@@ -1,1 +1,0 @@
-Most of the TRANSPORT SYSTEM IN IRELAND is in public hands, either side of the Irish border. The Irish road network has evolved separately in the two jurisdictions into which Ireland is divided, while the Irish rail network was mostly created prior to the partition of Ireland.

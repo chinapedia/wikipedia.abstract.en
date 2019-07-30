@@ -1,1 +1,0 @@
-Nareen_Shammo_en_la_XII_Edición_de_los_Premios_Internacionales_Yo_Dona_01.jpg

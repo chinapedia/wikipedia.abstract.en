@@ -1,1 +1,0 @@
-The DIPSACALES are an order of flowering plants, included within the asterid group of dicotyledons. In the APG III system of 2009, the order includes only two families, Adoxaceae and a broadly defined Caprifoliaceae.[1] Some well-known members of the Dipsacales order are honeysuckle, elder, viburnum, and valerian.

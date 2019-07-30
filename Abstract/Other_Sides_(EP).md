@@ -1,1 +1,0 @@
-_OTHER SIDES_ is the first EP by Australian recording artist Kylie Minogue, released in 1998. It contained 3 songs; "Tears", (the B-Side to "Did It Again"), "Love Takes Over Me", (the B-side to "Some Kind of Bliss"), "Take Me With You", which at the time was unreleased until it appeared on the track listing of _Hits+_ in 2000.

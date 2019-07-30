@@ -1,1 +1,0 @@
-ASHOK RANE is a two-time National Award-winning film critic, the director of the Indian Film Academy,[1][2] a professor of film studies for 35 years, film mentor, coorditator-Maharashtra Film and Stage Cultural Development Corporation,[3][4] and an author of several books on cinema.

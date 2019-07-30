@@ -1,1 +1,0 @@
-_RUGOLO PLAYS KENTON_ (subtitled _THE PETE RUGOLO ORCHESTRA PLAYS COMPOSITIONS INTRODUCED BY STAN KENTON_) is an album by composer, arranger and conductor Pete Rugolo featuring performances of tunes associated with Stan Kenton recorded in 1958 and first released on the Mercury label.[1][2][3][4]

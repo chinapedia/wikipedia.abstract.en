@@ -1,1 +1,0 @@
-"CAPTURE OF THE FIVE BOROUGHS" (also "REDEMPTION OF THE FIVE BOROUGHS") is an Old English chronicle poem that commemorates the capture by King Edmund I of the so-called Five Boroughs of the Danelaw in 942.[1]

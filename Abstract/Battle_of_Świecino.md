@@ -1,1 +1,0 @@
-Polish_Knights_1447-1492.PNG

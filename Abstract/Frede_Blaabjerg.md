@@ -1,1 +1,0 @@
-FREDE BLAABJERG is a Danish professor at Aalborg University. At Aalborg, he works in the section of Power Electronic Systems of the department of Energy Technology. Blaabjerg's research concerns the applications of power electronics including adjustable-speed drives, microgrids, photovoltaic systems, and wind turbines.[1]

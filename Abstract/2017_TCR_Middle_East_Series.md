@@ -1,1 +1,0 @@
-The 2017 TCR MIDDLE EAST SERIES SEASON is the first season of the TCR Middle East Series. The championship will start at Dubai Autodrome in Dubai on 12 January and end at Bahrain International Circuit in Bahrain on 10 March.[1]

@@ -1,1 +1,0 @@
-WILLIAM LAY THOMPSON was an American ornithologist, naturalist and educator. He was Professor Emeritus of Biological Sciences at Wayne State University,[1] an expert on bird vocalizations, past President of the Michigan Audubon Society, and past Editor of the Jack Pine Warbler.

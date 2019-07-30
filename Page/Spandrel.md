@@ -1,4 +1,4 @@
-Spandrel.jpg]] SpandrelIllustration.png Paris_-_Arc_de_Triomphe_du_Carrousel_-_PA00085992_-_034.jpg, Arc de Triomphe du Carrousel, Paris]] SpandrelPanels1.jpg
+]] , Arc de Triomphe du Carrousel, Paris]]
 
 A SPANDREL[1] is a triangular space, usually found in pairs, between the top of an arch and a rectangular frame; between the tops of two adjacent arches[2] or one of the four spaces between a circle within a square. They are frequently filled with decorative elements.
 

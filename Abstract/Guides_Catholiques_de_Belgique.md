@@ -1,1 +1,0 @@
-GUIDES CATHOLIQUES DE BELGIQUE (GCB) is the French speaking Catholic Girl Guiding movement in Belgium, open to all from age five since 1979. In most sections it is girls-only, and it is active mainly in the Walloon region and Brussels.

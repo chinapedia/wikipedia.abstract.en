@@ -1,1 +1,0 @@
-VITO D'AMBROSIO (born December 29, 1957) is an Italian-American actor. He is best known for playing Anthony "Tony" Bellows in both the 1990 television series, _The Flash_ and the 2014 television series of the same name.[1][2][3] He also portrayed the Bowtie Driver in the 1987 film _The Untouchables_.

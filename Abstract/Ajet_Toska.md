@@ -1,1 +1,0 @@
-AJET TOSKA (born 11 February 1961) is a retired Albanian hammer thrower. He won the silver medal at the 1987 Mediterranean Games.[1] He also competed at the 1991 World Championships without reaching the final.[2]

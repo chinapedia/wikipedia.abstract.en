@@ -1,1 +1,0 @@
-MATHEMATICS COMPETITIONS or MATHEMATICAL OLYMPIADS are competitive events where participants sit a mathematics test. These tests may require multiple choice or numeric answers, or a detailed written solution or proof.

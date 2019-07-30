@@ -1,1 +1,0 @@
-SUPERLEK KIATMUU9 is a Thai Muay Thai fighter, originally from Buriram, in the northeast of Thailand,Superlek is from the same Muay Thai gym of his uncle and multiple time Lumpinee Stadium champion Singdam Kiatmuu9[1]

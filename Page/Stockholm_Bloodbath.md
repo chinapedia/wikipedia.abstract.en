@@ -1,4 +1,4 @@
-Blodbadstavlan.jpg The STOCKHOLM BLOODBATH (Swedish: STOCKHOLMS BLODBAD, Danish: DET STOCKHOLMSKE BLODBAD) was a trial that led to a series of executions in Stockholm between 7 and 9 November 1520. The events were initiated directly after the coronation of Christian II (who after the bloodbath became known in Sweden as _Kristian Tyrann_, 'Christian the Tyrant')[1]) as the new king of Sweden, after the guests on the crowning party were invited to a meeting at the castle. Archbishop Gustav Trolle demanding economic compensation for things such as the demolition of Almarestäket's fortress led to the question whether the former Swedish regent Sten Sture the Younger and his supporters had been guilty of heresy. Supported by canon law, nearly 100 persons[2] were executed in the days following the meeting. Among the executed, there were many people from the aristocracy that had been supporting the _Sture Party_ in the previous years.
+The STOCKHOLM BLOODBATH (Swedish: STOCKHOLMS BLODBAD, Danish: DET STOCKHOLMSKE BLODBAD) was a trial that led to a series of executions in Stockholm between 7 and 9 November 1520. The events were initiated directly after the coronation of Christian II (who after the bloodbath became known in Sweden as _Kristian Tyrann_, 'Christian the Tyrant')[1]) as the new king of Sweden, after the guests on the crowning party were invited to a meeting at the castle. Archbishop Gustav Trolle demanding economic compensation for things such as the demolition of Almarestäket's fortress led to the question whether the former Swedish regent Sten Sture the Younger and his supporters had been guilty of heresy. Supported by canon law, nearly 100 persons[2] were executed in the days following the meeting. Among the executed, there were many people from the aristocracy that had been supporting the _Sture Party_ in the previous years.
 
 
 Background
@@ -18,7 +18,7 @@ In May, the Danish fleet arrived and Stockholm was attacked by land and sea. Lad
 
 Massacre
 
-Stockholm_Bloodbath.jpg On 4 November, Christian was anointed by Gustavus Trolle in Storkyrkan Cathedral and took the usual oath to rule the kingdom through native-born Swedes only. A banquet was held for the next three days.[6]
+On 4 November, Christian was anointed by Gustavus Trolle in Storkyrkan Cathedral and took the usual oath to rule the kingdom through native-born Swedes only. A banquet was held for the next three days.[6]
 
 On 7 November, the events of the Stockholm bloodbath began to unfold. On the evening of that day, Christian summoned many Swedish leaders to a private conference at the palace. At dusk on 8 November, Danish soldiers, with lanterns and torches, entered a great hall of the royal palace and took away several noble guests. Later in the evening, many more of the king's guests were imprisoned. All these people had previously been marked down on Archbishop Trolle's proscription list.
 

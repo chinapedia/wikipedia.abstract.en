@@ -1,1 +1,0 @@
-HERNDON DAVIS (1901-1962) was an American artist, journalist, illustrator, and painter. He worked at the National War College in Washington, D.C. creating maps of China and Japan. Davis was an illustrator for New York, Washington, D.C. and Denver newspapers. He was also commissioned to make paintings and murals.

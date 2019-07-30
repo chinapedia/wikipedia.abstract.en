@@ -1,1 +1,0 @@
-THOMAS NIXON (25 May 1931 – November 2003) is an English former amateur footballer who played as a wing half in the Football League for Darlington. He was on the books of Newcastle United without playing for their first team.[1]

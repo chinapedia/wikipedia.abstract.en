@@ -1,4 +1,4 @@
-2010_G-20_Seoul_summit.jpg gather for a conventional "family photo".]]
+gather for a conventional "family photo".]]
 
 South Korea maintains diplomatic relations with 191 countries. The country has also been a member of the United Nations since 1991, when it became a member state at the same time as North Korea. South Korea has also hosted major international events such as the 1988 Summer Olympics and 2002 World Cup Soccer Tournament (2002 FIFA World Cup co-hosted with Japan) and the 2011 IAAF World Championships Daegu South Korea. Furthermore, South Korea had hosted the 2018 Winter Olympics which took place in Pyeongchang, South Korea from 9 to 25 February.
 
@@ -65,7 +65,7 @@ On 23 August 1992, the Taiwanese government (by then only in control of the isla
 
 Japan
 
-Dokdo_20080628-panorama.jpg]] The relation between South Korea and Japan has both political conflicts and economic intimacies. Examples of conflicts include the East sea naming dispute, visits by successive Japanese Prime Ministers to the Yasukuni Shrine and the disputed ownership of Dokdo of the island Korea.
+]] The relation between South Korea and Japan has both political conflicts and economic intimacies. Examples of conflicts include the East sea naming dispute, visits by successive Japanese Prime Ministers to the Yasukuni Shrine and the disputed ownership of Dokdo of the island Korea.
 
 On January 18, 1952 The first president of South Korea Syngman Rhee declared that the vicinity of Dokdo was a territory of South Korea (Syngman Rhee line). Subsequently, some 3,000 Japanese fishermen who conducted fishery operations in this vicinity were captured. This incident, called the Dai Ichi Daihoumaru Ship case strained relations between South Korea and Japan.
 
@@ -85,7 +85,7 @@ Both countries established diplomatic relations on March 26, 1990. South Korea h
 
 North Korea
 
-2018_inter-Korean_summit_06.jpg and South Korean President Moon Jae-in during the 2018 inter-Korean summit.]] According to a 2013 BBC World Service Poll, 3% of South Koreans view the Democratic People's Republic of Korea's influence positively, with 91% expressing a negative view.[26] A 2015 government-sponsored poll revealed that 41% of South Koreans consider North Korea to be an enemy, with negative views being more prevalent among younger respondents.[27] Still, in a 2017 poll, 58% of South Koreans said they don't expect another war to break out with North Korea.[28]
+and South Korean President Moon Jae-in during the 2018 inter-Korean summit.]] According to a 2013 BBC World Service Poll, 3% of South Koreans view the Democratic People's Republic of Korea's influence positively, with 91% expressing a negative view.[26] A 2015 government-sponsored poll revealed that 41% of South Koreans consider North Korea to be an enemy, with negative views being more prevalent among younger respondents.[27] Still, in a 2017 poll, 58% of South Koreans said they don't expect another war to break out with North Korea.[28]
 
 
 Philippines
@@ -97,7 +97,7 @@ Since then, the Philippines's relations with South Korea have evolved with South
 
 Russia
 
-Dmitry_Medvedev_29_September_2008-1.jpg meeting Lee Myung-bak at The Kremlin.]] In the 1980s South Korean president Roh Tae Woo's Nordpolitik and Mikhail Gorbachev's "New Thinking" were both attempts to reverse their nations' recent histories. Gorbachev had signaled Soviet interest in improving relations with all countries in the Asia-Pacific region including South Korea as explained in his July 1986 Vladivostok and August 1988 Krasnoyarsk speeches.
+meeting Lee Myung-bak at The Kremlin.]] In the 1980s South Korean president Roh Tae Woo's Nordpolitik and Mikhail Gorbachev's "New Thinking" were both attempts to reverse their nations' recent histories. Gorbachev had signaled Soviet interest in improving relations with all countries in the Asia-Pacific region including South Korea as explained in his July 1986 Vladivostok and August 1988 Krasnoyarsk speeches.
 
 In initiating Nordpolitik Roh's confidential foreign policy adviser was rumored to have visited Moscow Russia to consult with Soviet policymakers. Kim Young Sam visited Moscow Russian Federation from June 2 to June 10, 1989 as the Kremlin announced that it would allow some 300,000 Soviet-South Koreans who had been on the Soviet island of Sahkalin since the end of World War II to return permanently to South Korea. Moscow even arranged Kim's meeting with the North Korean ambassador to the Soviet Union In June 1990, Roh held his first summit with president Gorbachev in San Francisco, United States.
 
@@ -150,7 +150,7 @@ From the United Kingdom to South Korea:
 
 United States
 
-Obama_and_Lee_Myung-bak.jpg and Lee walking after a meeting at the Blue House in Seoul in November 2010. ]]
+and Lee walking after a meeting at the Blue House in Seoul in November 2010. ]]
 
 The United States engaged in the decolonization of Korea (mainly in the South, with the Soviet Union engaged in North Korea) from Japan after World War II. After three years of military administration by the United States, the South Korean government was established. Upon the onset of the Korean War, U.S. forces were sent to defend South Korea against invasion by North Korea and later China. Following the Armistice, South Korea and the U.S. agreed to a "Mutual Defense Treaty", under which an attack on either party in the Pacific area would summon a response from both.[35]
 
@@ -162,7 +162,7 @@ From Roh Tae-woo's administration to Roh Moo Hyun's administration, South Korea 
 
 The relations between the United States and South Korea have greatly strengthened under the Lee Myung-bak administration. At the 2009 G-20 London summit, U.S. President Barack Obama called South Korea "one of America's closest allies and greatest friends."[37]
 
-KOREA_US_CheongWaDae_Summit_12.jpg with U.S. President Donald Trump in November 2017]] However, some anti-American sentiment in South Korea still exists; The United States' alleged role in the May 1980 Gwangju uprising was a pressing South Korean political issue of the 1980s. Even after a decade, some Gwangju citizens and other South Koreans still blamed the United States for its perceived involvement in the bloody uprising. In 2008, the protests against U.S. beef was a center of a major controversy that year.
+with U.S. President Donald Trump in November 2017]] However, some anti-American sentiment in South Korea still exists; The United States' alleged role in the May 1980 Gwangju uprising was a pressing South Korean political issue of the 1980s. Even after a decade, some Gwangju citizens and other South Koreans still blamed the United States for its perceived involvement in the bloody uprising. In 2008, the protests against U.S. beef was a center of a major controversy that year.
 
 In a June 2010 open letter from President of South Korea Lee Myung-bak published in the _Los Angeles Times_, he expressed gratitude for the 37,000 Americans who were killed in the Korean War defending South Korea, saying that they fought for the freedom of South Koreans they did not even know. He stated that thanks to their sacrifices, the peace and democracy of the South Korean state was protected.[38]
 
@@ -177,8 +177,6 @@ The EU has been the single largest foreign investor in South Korea since 1962 an
 
 
 Diplomatic relations
-
-Diplomatic_relations_of_South_Korea.png
 
 Americas
 

@@ -1,1 +1,0 @@
-hyperbola_E.svg The number is a mathematical constant that is the base of the natural logarithm: the unique number whose natural logarithm is equal to one. It is approximately equal to 2.71828,[1] and is the limit of as approaches infinity, an expression that arises in the study of compound interest. It can also be calculated as the sum of the infinite series[2]

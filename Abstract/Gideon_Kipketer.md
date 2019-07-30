@@ -1,1 +1,0 @@
-Am2014-gideon-kipketer-branko-collin-01.jpg GIDEON KIPKETER is a Kenyan long-distance runner, who specialises in road running events. Kipketer is currenty part of the NN Running Team, an international team of elite long-distance runners managed by Global Sports Communication in Nijmegen, Netherlands.

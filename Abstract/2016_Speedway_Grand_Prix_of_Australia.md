@@ -1,1 +1,0 @@
-The 2016 QBE INSURANCE AUSTRALIAN FIM SPEEDWAY GRAND PRIX was the eleventh and final race of the 2016 Speedway Grand Prix season. It took place on 22 October at the Etihad Stadium in Melbourne, Australia.[1]

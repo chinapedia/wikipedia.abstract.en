@@ -1,1 +1,0 @@
-BELLA is a brand of feminine hygiene products, including maxi pads, ultra thin pads, and female wipes. Bella is currently owned by Polish company Toruńskie Zakłady Materiałów Opatrunkowych (TZMO SA).[1]

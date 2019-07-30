@@ -1,1 +1,0 @@
-RUSH was a Canadian rock band consisting of Geddy Lee (bass, vocals, keyboards), Alex Lifeson (guitars), and Neil Peart (drums, percussion). Formed in 1968, the band went through several configurations until arriving at its longest and classic line-up when Peart replaced original drummer John Rutsey in July 1974, two weeks before the group's first tour of the United States.

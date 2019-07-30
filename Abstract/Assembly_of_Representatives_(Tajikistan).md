@@ -1,1 +1,0 @@
-The ASSEMBLY OF REPRESENTATIVES () is the lower house of the bicameral Supreme Assembly of Tajikistan. The People's Democratic Party of Tajikistan has been the dominant party in the legislature since 2000.

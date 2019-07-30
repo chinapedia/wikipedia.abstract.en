@@ -1,1 +1,0 @@
-The PERSIAN GULF () is a mediterranean sea in Western Asia. The body of water is an extension of the Indian Ocean (Gulf of Oman) through the Strait of Hormuz and lies between Iran to the northeast and the Arabian Peninsula to the southwest.[1] The Shatt al-Arab river delta forms the northwest shoreline.

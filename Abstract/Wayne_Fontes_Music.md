@@ -1,1 +1,0 @@
-_WAYNE FONTES MUSIC_ is a studio album[1] by American underground rapper and producer Marv Won, released January 1, 2010,[2][3] a month after his previous work _Way Of The Won_. The album was named after Detroit Lions head coach Wayne Fontes the way Marv spits lyrics on it.[4]

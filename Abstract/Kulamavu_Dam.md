@@ -1,1 +1,0 @@
-KULAMAVU DAM is a gravity/masonry dam on the Periyar river. It is one of the three dams associated with the Idukki hydro electric power project in the Indian state of Kerala.[1] The dam is situated on the Thodupuzha - Puliyanmala state highway (SH-33), about from Idukki arch dam, from Cheruthoni dam and from Thodupuzha.

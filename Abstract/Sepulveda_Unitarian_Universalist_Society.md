@@ -1,1 +1,0 @@
-The ‘’’Sepulveda Unitarian Universalist Society’’’ is a Unitarian Universalist church located in North Hills, Los Angeles, California. Its distinctive building, known as “The Onion,” was designated Los Angeles Historic-Cultural Monument #975 in 2010.[1]

@@ -1,1 +1,0 @@
-POLITICS OF EL SALVADOR takes place in land a framework of A presidential representative democratic republic, whereby the President of El Salvador is both head of state and head of government, and of an Executive power is exercised by the government.

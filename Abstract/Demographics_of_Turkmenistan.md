@@ -1,1 +1,0 @@
-The DEMOGRAPHICS OF TURKMENISTAN is about the demographic features of the population of Turkmenistan, including population growth, population density, ethnicity, education level, health, economic status, religious affiliations, and other aspects of the population. The ethnic majority in Turkmenistan call themselves Turkmen. Population_of_Turkmenistan.PNG

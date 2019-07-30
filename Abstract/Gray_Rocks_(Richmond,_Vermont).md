@@ -1,1 +1,0 @@
-GRAY ROCKS is a historic farm property on United States Route 2 in Richmond, Vermont. Developed in the early 19th century, it was in agricultural use until 1978, and has a well-preserved set of farm buildings dating from c. 1813 to the early 20th century. It was listed on the National Register of Historic Places in 1996.[1]

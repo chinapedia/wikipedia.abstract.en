@@ -1,1 +1,0 @@
-ANDRÉS MONTAÑO (born April 6, 1990) is an Ecuadorian Greco-Roman wrestler. He competed in the men's Greco-Roman 59 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Wang Lumin.[1][2]

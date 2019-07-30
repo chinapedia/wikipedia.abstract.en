@@ -1,1 +1,0 @@
-MAXIM PISKUNOV (; born ) is a Russian male track cyclist, representing Russia at international competitions. He competed at the 2016 UEC European Track Championships in the elimination race event and scratch event.[1]

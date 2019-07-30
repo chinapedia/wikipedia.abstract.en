@@ -1,1 +1,0 @@
-ANNETTE ELIZABETH CLARK (14 May 1875 – 21 April 1972) who was known to her family as Nettie, was a story teller of children's stories, a lecturer in the craft of story telling and the author of ten collections of children's stories published during her lifetime. Her stories were broadcast on the BBC children's programmes.

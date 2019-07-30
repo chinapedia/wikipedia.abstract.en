@@ -1,1 +1,0 @@
-Charles_Ernest_Pellew,_1922.jpg

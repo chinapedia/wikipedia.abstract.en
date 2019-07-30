@@ -1,1 +1,0 @@
-PERSISTENCE may refer to:

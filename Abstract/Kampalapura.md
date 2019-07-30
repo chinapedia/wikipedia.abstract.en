@@ -1,1 +1,0 @@
-Hunsur._Kampalapura._Tobacco_Board.jpg

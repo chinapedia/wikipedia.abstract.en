@@ -1,1 +1,0 @@
-_UNITED STATES V. MANDUJANO_, 425 U.S. 564 (1976), was a United States Supreme Court case that determined that it is not necessary to provide full Miranda warnings to a person called to testify before a grand jury; and that false statements given during that testimony may not be suppressed in a subsequent prosecution for perjury.[1]

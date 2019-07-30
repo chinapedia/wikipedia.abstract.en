@@ -1,1 +1,0 @@
-CMB_Timeline300_no_WMAP.jpg represented as multiple disk-shaped _slices_ across time, which passes from left to right.]] SCIENCE (from the Latin word _scientia_, meaning "knowledge")[1] is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe.[2][3][4]

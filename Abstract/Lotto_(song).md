@@ -1,1 +1,0 @@
-"LOTTO" is a song recorded by South Korean boy group Exo for the repackaged edition of their third studio album _Ex'Act_. It was released in Korean and Chinese versions by SM Entertainment on August 18, 2016.

@@ -1,1 +1,0 @@
-_SYD SIXPENCE_ is a 1982 children's book by Australian author Joan Lindsay,[1] featuring illustrations by Rick Amor. Its plot follows an anthropomorphic sixpence coin who is thrown into the ocean, and his subsequent adventures on the ocean floor.

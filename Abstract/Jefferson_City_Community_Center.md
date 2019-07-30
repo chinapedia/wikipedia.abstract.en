@@ -1,1 +1,0 @@
-JEFFERSON CITY COMMUNITY CENTER, also known as DUKE DIGGS COMMUNITY CENTER, is a historic African-American community centre located at Jefferson City, Cole County, Missouri. It was built in 1942, and is a one-story, "T"-plan, stone building.[1]

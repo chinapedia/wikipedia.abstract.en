@@ -1,1 +1,0 @@
-GOTHENBURG (;[1] abbreviated GBG;[2][3] ) is the second-largest city in Sweden, fifth-largest in the Nordic countries, and capital of the Västra Götaland County. It is situated by Kattegat, on the west coast of Sweden, and has a population of approximately 570,000 in the city center and about 1 million inhabitants in the metropolitan area.[4]

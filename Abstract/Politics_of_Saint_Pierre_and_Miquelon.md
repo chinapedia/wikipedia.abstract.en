@@ -1,1 +1,0 @@
-POLITICS OF SAINT PIERRE AND MIQUELON takes place in a framework of a parliamentary representative democratic French overseas collectivity, whereby the President of the Territorial Council is the head of government, and of a multi-party system. Executive power is exercised by the government.

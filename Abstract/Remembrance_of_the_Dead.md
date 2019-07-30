@@ -1,1 +1,0 @@
-REMEMBRANCE OF THE DEAD () is held annually on May 4 in the Netherlands.[1] It commemorates all civilians and members of the armed forces of the Kingdom of the Netherlands who have died in wars or peacekeeping missions since the beginning of the Second World War.

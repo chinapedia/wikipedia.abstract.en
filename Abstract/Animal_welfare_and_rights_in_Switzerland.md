@@ -1,1 +1,0 @@
-ANIMAL WELFARE AND RIGHTS IN SWITZERLAND is about the treatment of and laws concerning non-human animals in Switzerland. Switzerland has high levels of animal welfare protection by international standards.[1]

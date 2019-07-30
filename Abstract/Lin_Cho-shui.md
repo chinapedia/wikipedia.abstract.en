@@ -1,1 +1,0 @@
-LIN CHO-SHUI (; born 25 March 1947) is a Taiwanese writer, newspaper editor and politician who served in the Legislative Yuan from 1993 to 2006. He was a longtime member of the Democratic Progressive Party's New Tide faction.

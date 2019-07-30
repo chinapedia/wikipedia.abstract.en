@@ -1,4 +1,4 @@
-td-map.gif TRINIDAD AND TOBAGO is an archipelagic republic in the southern Caribbean between the Caribbean Sea and the North Atlantic Ocean, northeast of Venezuela. They are southeasterly islands of the Lesser Antilles, Monos, Huevos, Gaspar Grande (or Gasparee), Little Tobago, and St. Giles Island. Trinidad is off the northeast coast of Venezuela and south of the Grenadines. The island measures in area (comprising 93.0% of the country's total area) with an average length of and an average width of . The island appears rectangular in shape with three projecting peninsular corners. Tobago is northeast of Trinidad and measures about in area, or 5.8% of the country's area, in length and at its greatest width. The island is cigar-shaped in appearance, with a northeast-southwest alignment.
+TRINIDAD AND TOBAGO is an archipelagic republic in the southern Caribbean between the Caribbean Sea and the North Atlantic Ocean, northeast of Venezuela. They are southeasterly islands of the Lesser Antilles, Monos, Huevos, Gaspar Grande (or Gasparee), Little Tobago, and St. Giles Island. Trinidad is off the northeast coast of Venezuela and south of the Grenadines. The island measures in area (comprising 93.0% of the country's total area) with an average length of and an average width of . The island appears rectangular in shape with three projecting peninsular corners. Tobago is northeast of Trinidad and measures about in area, or 5.8% of the country's area, in length and at its greatest width. The island is cigar-shaped in appearance, with a northeast-southwest alignment.
 
 
 Physical geography
@@ -24,19 +24,15 @@ The Southern Lowlands consist of Miocene and Pliocene sands, clays, and gravels.
 
 Political geography
 
-Regional_corporations_and_municipalities_of_Trinidad_and_Tobago.svg Trinidad is split into 14 regional corporations and municipalities, consisting of 9 regions and 5 municipalities, which have a limited level of autonomy. The various councils are made up of a mixture of elected and appointed members. Elections are due to be held every three years, but have not been held since 2003, four extensions having been sought by the government. The island of Tobago is administered by the Tobago House of Assembly.
+Trinidad is split into 14 regional corporations and municipalities, consisting of 9 regions and 5 municipalities, which have a limited level of autonomy. The various councils are made up of a mixture of elected and appointed members. Elections are due to be held every three years, but have not been held since 2003, four extensions having been sought by the government. The island of Tobago is administered by the Tobago House of Assembly.
 
 
 Climate
-
-Koppen-Geiger_Map_Caribbean_present.svg
 
 The country lies in the tropics, enjoying a generally pleasant maritime tropical climate influenced by the northeast trade winds. In Trinidad the annual mean temperature is , and the average maximum temperature is . The highest temperature ever was 39 degrees Celsius. The lowest (coldest felt) temperature recorded in Trinidad was in January 1964. Previously, on January 14th, 2019 was felt.The humidity is high, particularly during the rainy season, when it averages 85 to 87%. The island receives an average of of rainfall per year, usually concentrated in the months of June through December, when brief, intense showers frequently occur. Precipitation is highest in the Northern Range, which may receive as much as . During the dry season, drought plagues the island's central interior. Tobago's climate is similar to Trinidad's but slightly cooler. Its rainy season extends from June to December; the annual rainfall is . The islands lie outside the hurricane belt; despite this, Hurricane Flora damaged Tobago in 1963, and Tropical Storm Alma hit Trinidad in 1974, causing damage before obtaining full strength.
 
 
 Statistics
-
-Trinidad_and_Tobago_(orthographic_projection).svg
 
 GEOGRAPHIC COORDINATES:
 

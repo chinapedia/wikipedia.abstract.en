@@ -1,1 +1,0 @@
-ZAMEER KHAN (born 17 September 1990) is a Danish cricketer.[1] He played for the Denmark national cricket team in the 2016 ICC World Cricket League Division Four tournament in October 2016.[2] In March 2018, he was named in Denmark's squad for the 2018 ICC World Cricket League Division Four tournament in Malaysia.[3]

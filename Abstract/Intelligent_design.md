@@ -1,1 +1,0 @@
-INTELLIGENT DESIGN (ID) is a pseudoscientific argument for the existence of God, presented by its proponents as "an evidence-based scientific theory about life's origins".[1][2][3][4][5] Proponents claim that "certain features of the universe and of living things are best explained by an intelligent cause, not an undirected process such as natural selection."

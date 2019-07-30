@@ -1,1 +1,0 @@
-LUTERU LAULALA (born 30 May 1995) is a New Zealand rugby union player who currently plays for in New Zealand's domestic Mitre 10 Cup. He is a utility back who is capable of playing as a first five-eighth, fullback or wing.[1][2]

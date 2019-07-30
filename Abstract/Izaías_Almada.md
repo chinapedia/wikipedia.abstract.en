@@ -1,1 +1,0 @@
-IZAÍAS ALMADA is a Brazilian novelist, playwright, and screenwriter.[1] In 1963 he moved to the city of São Paulo where he worked in theater, journalism, TV advertising, and script writing. Between the years of 1969 and 1971, he was a political prisoner of the military coup in Brazil that took place in 1964.

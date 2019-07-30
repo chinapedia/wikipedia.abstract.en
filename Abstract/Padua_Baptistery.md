@@ -1,1 +1,0 @@
-Battistero_5_--.jpg The PADUA BAPTISTERY, dedicated to St. John the Baptist, is a religious building found on the Piazza del Duomo next to the cathedral in Padua. Preserved inside is one of the most important fresco cycles of the 14th century, a masterpiece by Giusto de Menabuoi.

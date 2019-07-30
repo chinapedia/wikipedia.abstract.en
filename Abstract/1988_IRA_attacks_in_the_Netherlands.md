@@ -1,1 +1,0 @@
-The Provisional IRA carried out two separate attacks on the same day on 1 May 1988 against British military personnel in the Netherlands which resulted in the deaths of three RAF members and another three being injured.[1] It was the worst attack suffered by the British security forces during The Troubles from 1969 to 1998 on mainland Europe.[2]

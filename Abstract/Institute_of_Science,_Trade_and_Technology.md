@@ -1,1 +1,0 @@
-The INSTITUTE OF SCIENCE, TRADE AND TECHNOLOGY (ISTT) is a professional and technical based higher educational Institution in Bangladesh. It is an affiliated college of National University of Bangladesh.[1]

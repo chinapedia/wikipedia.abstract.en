@@ -9,7 +9,7 @@ In mathematics, Thales used geometry to calculate the heights of pyramids and th
 
 Life
 
-Griechischen_und_phönizischen_Kolonien.jpg The dates of Thales' life are not exactly known, but are roughly established by a few datable events mentioned in the sources. According to Herodotus, Thales predicted the solar eclipse of May 28, 585 BC.[8] Diogenes Laërtius quotes the chronicle of Apollodorus of Athens as saying that Thales died at the age of 78 during the 58th Olympiad (548–545 BC) and attributes his death to heat stroke while watching the games.[9]
+The dates of Thales' life are not exactly known, but are roughly established by a few datable events mentioned in the sources. According to Herodotus, Thales predicted the solar eclipse of May 28, 585 BC.[8] Diogenes Laërtius quotes the chronicle of Apollodorus of Athens as saying that Thales died at the age of 78 during the 58th Olympiad (548–545 BC) and attributes his death to heat stroke while watching the games.[9]
 
 Thales was probably born in the city of Miletus around the mid-620s BC. The ancient writer Apollodorus of Athens[10] writing during the 2nd century BC,[11] thought Thales was born about the year 625 BC.[12] Herodotus, writing in the fifth century BC, described Thales as "a Phoenician by remote descent".[13] Tim Whitmarsh noted that Thales regarded water as the primal matter, and because _thal_ is the Phoenician word for moisture, his name may have derived from this circumstance."[14]
 
@@ -25,7 +25,7 @@ Activities
 
 Thales involved himself in many activities, including engineering.[28] Some say that he left no writings, others say that he wrote _On the Solstice_ and _On the Equinox_, and the _Nautical Star-guide_ has been attributed to him, but was already disputed in ancient times.[29] However, no writing attributed to him has survived. Diogenes Laërtius quotes two letters from Thales: one to Pherecydes of Syros, offering to review his book on religion, and one to Solon, offering to keep him company on his sojourn from Athens.
 
-Capernaum_roman_olive_press_by_David_Shankbone.jpg.]] A story, with different versions, recounts how Thales achieved riches from an olive harvest by prediction of the weather. In one version, he bought all the olive presses in Miletus after predicting the weather and a good harvest for a particular year. Another version of the story has Aristotle explain that Thales had reserved presses in advance, at a discount, and could rent them out at a high price when demand peaked, following his prediction of a particularly good harvest. This first version of the story would constitute the first historically known creation and use of futures, whereas the second version would be the first historically known creation and use of options.[30]
+.]] A story, with different versions, recounts how Thales achieved riches from an olive harvest by prediction of the weather. In one version, he bought all the olive presses in Miletus after predicting the weather and a good harvest for a particular year. Another version of the story has Aristotle explain that Thales had reserved presses in advance, at a discount, and could rent them out at a high price when demand peaked, following his prediction of a particularly good harvest. This first version of the story would constitute the first historically known creation and use of futures, whereas the second version would be the first historically known creation and use of options.[30]
 
 Aristotle explains that Thales' objective in doing this was not to enrich himself but to prove to his fellow Milesians that philosophy could be useful, contrary to what they thought,[31] or alternatively, Thales had made his foray into enterprise because of a personal challenge put to him by an individual who had asked why, if Thales was an intelligent famous philosopher, he had yet to attain wealth.
 
@@ -37,7 +37,7 @@ Miletus, however, received favorable terms from Cyrus. The others remained in an
 
 Astronomy
 
-Solar_eclipse_1999_4_NR.jpg of the Sun]] According to Herodotus, Thales predicted the solar eclipse of May 28, 585 BC.[35] Thales also described the position of Ursa Minor, and thought the constellation might be useful as a guide for navigation at sea. He calculated the duration of the year and the timings of the equinoxes and solstices. He is additionally attributed with the first observation of the Hyades and with calculating the position of the Pleiades.[36] Plutarch indicates that in his day (c. AD 100) there was an extant work, the _Astronomy_, composed in verse and attributed to Thales.[37]
+of the Sun]] According to Herodotus, Thales predicted the solar eclipse of May 28, 585 BC.[35] Thales also described the position of Ursa Minor, and thought the constellation might be useful as a guide for navigation at sea. He calculated the duration of the year and the timings of the equinoxes and solstices. He is additionally attributed with the first observation of the Hyades and with calculating the position of the Pleiades.[36] Plutarch indicates that in his day (c. AD 100) there was an extant work, the _Astronomy_, composed in verse and attributed to Thales.[37]
 
 Herodotus writes that in the sixth year of the war, the Lydians under King Alyattes and the Medes under Cyaxares were engaged in an indecisive battle when suddenly day turned into night, leading to both parties halting the fighting and negotiating a peace agreement. Herodotus also mentions that the loss of daylight had been predicted by Thales. He does not, however, mention the location of the battle.[38]
 
@@ -45,7 +45,7 @@ However, based on the list of Medean kings and the duration of their reign repor
 
 Sagacity
 
-MiletusIonicStoa.jpg Diogenes Laërtius[41] tells us that the Seven Sages were created in the archonship of Damasius at Athens about 582 BC and that Thales was the first sage. The same story, however, asserts that Thales emigrated to Miletus. There is also a report that he did not become a student of nature until after his political career. Much as we would like to have a date on the seven sages, we must reject these stories and the tempting date if we are to believe that Thales was a native of Miletus, predicted the eclipse, and was with Croesus in the campaign against Cyrus.
+Diogenes Laërtius[41] tells us that the Seven Sages were created in the archonship of Damasius at Athens about 582 BC and that Thales was the first sage. The same story, however, asserts that Thales emigrated to Miletus. There is also a report that he did not become a student of nature until after his political career. Much as we would like to have a date on the seven sages, we must reject these stories and the tempting date if we are to believe that Thales was a native of Miletus, predicted the eclipse, and was with Croesus in the campaign against Cyrus.
 
 Thales received instruction from an Egyptian priest. It was fairly certain that he came from a wealthy, established family, in a class which customarily provided higher education for their children. Moreover, the ordinary citizen, unless he was a seafaring man or a merchant, could not afford the grand tour in Egypt, and did not consort with noble lawmakers such as Solon.
 
@@ -82,7 +82,7 @@ More practically Thales used the same method to measure the distances of ships a
 
 Thales' theorems
 
-Thales_theorem_1.png: $\textstyle \frac{DE}{BC} = \frac{AE}{AC } = \frac{AD}{AB}$]] There are two theorems of Thales in elementary geometry, one known as Thales' theorem having to do with a triangle inscribed in a circle and having the circle's diameter as one leg, the other theorem being also called the intercept theorem. In addition Eudemus attributed to him the discovery that a circle is bisected by its diameter, that the base angles of an isosceles triangle are equal and that vertical angles are equal. According to a historical Note,[53] when Thales visited Egypt,[54] he observed that whenever the Egyptians drew two intersecting lines, they would measure the vertical angles to make sure that they were equal. Thales concluded that one could prove that all vertical angles are equal if one accepted some general notions such as: all straight angles are equal, equals added to equals are equal, and equals subtracted from equals are equal.
+: $\textstyle \frac{DE}{BC} = \frac{AE}{AC } = \frac{AD}{AB}$]] There are two theorems of Thales in elementary geometry, one known as Thales' theorem having to do with a triangle inscribed in a circle and having the circle's diameter as one leg, the other theorem being also called the intercept theorem. In addition Eudemus attributed to him the discovery that a circle is bisected by its diameter, that the base angles of an isosceles triangle are equal and that vertical angles are equal. According to a historical Note,[53] when Thales visited Egypt,[54] he observed that whenever the Egyptians drew two intersecting lines, they would measure the vertical angles to make sure that they were equal. Thales concluded that one could prove that all vertical angles are equal if one accepted some general notions such as: all straight angles are equal, equals added to equals are equal, and equals subtracted from equals are equal.
 
 The evidence for the primacy of Thales comes to us from a book by Proclus who wrote a thousand years after Thales but is believed to have had a copy of Eudemus' book. Proclus wrote "Thales was the first to go to Egypt and bring back to Greece this study."[55] He goes on to tell us that in addition to applying the knowledge he gained in Egypt "He himself discovered many propositions and disclosed the underlying principles of many others to his successors, in some case his method being more general, in others more empirical."[56]
 
@@ -125,7 +125,7 @@ According to Henry Fielding (1775), Diogenes Laërtius (1.35) affirmed that Thal
 
 Influences
 
-Tales_de_Mileto_(1906)_-_Veloso_Salgado.png]] Due to the scarcity of sources concerning Thales and the discrepancies between the accounts given in the sources that have survived, there is a scholarly debate over possible influences on Thales and the Greek mathematicians that came after him.
+]] Due to the scarcity of sources concerning Thales and the discrepancies between the accounts given in the sources that have survived, there is a scholarly debate over possible influences on Thales and the Greek mathematicians that came after him.
 
 Historian Roger L. Cooke points out that Proclus does not make any mention of Mesopotamian influence on Thales or Greek geometry, but "is shown clearly in Greek astronomy, in the use of sexagesimal system of measuring angles and in Ptolemy's explicit use of Mesopotamian astronomical observations."[71] Cooke notes that it may possibly also appear in the second book of Euclid's Elements, "which contains geometric constructions equivalent to certain algebraic relations that are frequently encountered in the cuneiform tablets." Cooke notes "This relation however, is controversial."[72]
 
@@ -191,7 +191,7 @@ The most popular approach refers to a Milesian school, which is more justifiable
 
 Influence on others
 
-Louisstgaudens1.jpg]] Thales had a profound influence on other Greek thinkers and therefore on Western history. Some believe Anaximander was a pupil of Thales. Early sources report that one of Anaximander's more famous pupils, Pythagoras, visited Thales as a young man, and that Thales advised him to travel to Egypt to further his philosophical and mathematical studies.
+]] Thales had a profound influence on other Greek thinkers and therefore on Western history. Some believe Anaximander was a pupil of Thales. Early sources report that one of Anaximander's more famous pupils, Pythagoras, visited Thales as a young man, and that Thales advised him to travel to Egypt to further his philosophical and mathematical studies.
 
 Many philosophers followed Thales' lead in searching for explanations in nature rather than in the supernatural; others returned to supernatural explanations, but couched them in the language of philosophy rather than of myth or of religion.
 
@@ -200,7 +200,7 @@ Looking specifically at Thales' influence during the pre-Socratic era, it is cle
 
 Reliability of sources
 
-Nuremberg_chronicles_f_59r_2.png.]]
+.]]
 
 Because of Thales' elevated status in Greek culture an intense interest and admiration followed his reputation. Due to this following, the oral stories about his life were open to amplification and historical fabrication, even before they were written down generations later. Most modern dissension comes from trying to interpret what we know, in particular, distinguishing legend from fact.
 

@@ -1,1 +1,0 @@
-PANSKÝ DIEL is a nature monument in the Podunajské Biskupice district of Bratislava, Slovakia. The nature monument covers an area of 15,60 ha on the left shore of the Danube. It has a protection level of 4 under the Slovak nature protection system. The protected area is part of the Dunajské luhy Protected Landscape Area.[1]

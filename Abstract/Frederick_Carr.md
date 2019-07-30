@@ -1,1 +1,0 @@
-FREDERICK CARR is a meteorologist who is president of the American Meteorological Society.[1] He was formerly the McCasland Foundation Professor of Meteorology[2] and is now a professor emeritus at the University of Oklahoma School of Meteorology.[3]

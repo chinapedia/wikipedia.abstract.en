@@ -1,1 +1,0 @@
-NOGOMETNI KLUB ŠALOVCI (), commonly referred to as NK ŠALOVCI or simply ŠALOVCI, is a Slovenian football club which plays its home matches at a 275 seating capacity stadium in the village of Šalovci. The club was founded in 1976 and is represented by red and white colours. They play in the 2. MNL, the sixth tier of the Slovenian football pyramid.

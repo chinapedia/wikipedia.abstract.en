@@ -1,4 +1,4 @@
-Image-Marcel_van_Rossum_and_Themba_Mabaso.JPG, and the Deputy State Herald, Marcel van Rossum, donned tabards with the emblem of the republic at the XXVIIth International Congress of Genealogical and Heraldic Sciences in St Andrews, Scotland]] The present coat of arms of South Africa was introduced on Freedom Day 27 April 2000. It replaced the earlier national arms, which had been in use since 1910.[1] The motto __ is written in the Khoisan language of the ǀXam people and translates literally to "diverse people unite". The previous motto, in Latin, was __, translated as "From unity, strength".
+, and the Deputy State Herald, Marcel van Rossum, donned tabards with the emblem of the republic at the XXVIIth International Congress of Genealogical and Heraldic Sciences in St Andrews, Scotland]] The present coat of arms of South Africa was introduced on Freedom Day 27 April 2000. It replaced the earlier national arms, which had been in use since 1910.[1] The motto __ is written in the Khoisan language of the ǀXam people and translates literally to "diverse people unite". The previous motto, in Latin, was __, translated as "From unity, strength".
 
 
 History
@@ -90,10 +90,10 @@ Evolution
 
 Three official renditions of the arms were used. The original rendition (1910) was the only version used until 1930, and it continued to be used as the rank badge of warrant officers in the South African Defence Force and South African National Defence Force until 2002. The second version, painted in 1930 and known as the "ordinary coat of arms", and the third version, painted in 1932 and known as the "embellished coat of arms", were both used until 2000. The former was also used on the insignia of the South African Police until the 1990s.
 
-  ---------------------------------------------- ---------------------------------------------- ----------------------------------------------
-  Coat_of_arms_of_South_Africa_(1910–1930).svg   Coat_of_arms_of_South_Africa_(1930–1932).svg   Coat_of_Arms_of_South_Africa_(1932-2000).svg
-  1910                                           1930                                           1932
-  ---------------------------------------------- ---------------------------------------------- ----------------------------------------------
+  ------ ------ ------
+
+  1910   1930   1932
+  ------ ------ ------
 
 
 See also

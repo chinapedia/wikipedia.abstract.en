@@ -1,1 +1,0 @@
-RACHEL ANNE SUMMERS (also known as RACHEL GREY) is a fictional superheroine appearing in American comic books published by Marvel Comics. The character was created by writer Chris Claremont and artist/co-writer John Byrne.

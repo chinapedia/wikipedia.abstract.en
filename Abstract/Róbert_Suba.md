@@ -1,1 +1,0 @@
-RÓBERT SUBA (born 17 July 1980) is a Hungarian paracanoeist. He won a silver medal in the 2016 Summer Paralympics in the Men's KL1,[1] and has also won World Championship medals in the KL1 and/or VL1 between 2014 and 2017.[2]

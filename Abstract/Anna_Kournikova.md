@@ -1,1 +1,0 @@
-ANNA SERGEYEVNA KOURNIKOVA (; born 7 June 1981) is a Russian former professional tennis player. Her appearance and celebrity status made her one of the best known tennis stars worldwide. At the peak of her fame, fans looking for images of Kournikova made her name one of the most common search strings on Google Search.[1][2][3]

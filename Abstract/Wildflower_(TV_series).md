@@ -1,1 +1,0 @@
-_WILDFLOWER_ is a 2017 Philippine revenge drama television series starring Maja Salvador, together with an ensemble cast.[1][2][3][4][5][6] The series premiered on ABS-CBN's _Primetime Bida_ evening block and worldwide on The Filipino Channel from February 13, 2017 to February 9, 2018, replacing _Pinoy Big Brother: Lucky Season 7 - Mga Kwento ng Dream Team ni Kuya_.

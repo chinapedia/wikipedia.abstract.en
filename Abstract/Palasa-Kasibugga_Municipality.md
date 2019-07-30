@@ -1,1 +1,0 @@
-PALASA-KASIBUGGA MUNICIPALITY is the local self government in Palasa of the Indian state of Andhra Pradesh.[1] It is classified as a _3rd Grade Municipality_.[2] It constitutes total population of 57,507.

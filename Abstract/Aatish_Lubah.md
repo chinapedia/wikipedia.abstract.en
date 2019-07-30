@@ -1,1 +1,0 @@
-AATISH LUBAH (born 3 November 1995) is a Mauritian badminton player.[1] He was one of the 14 players selected for the Road to Rio Program, a program that aimed to help African badminton players to compete at the 2016 Olympic Games.[2] Lubah competed at the 2014 and 2018 Commonwealth Games.[3][4]

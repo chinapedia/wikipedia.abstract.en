@@ -1,1 +1,0 @@
-The 10TH NATIONAL CONGRESS OF THE COMMUNIST PARTY OF CHINA was a significant Communist Party Congress in China following the fall of Lin Biao and the continuation of the Cultural Revolution. It profoundly elected the 10th Central Committee of the Communist Party of China.

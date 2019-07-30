@@ -1,1 +1,0 @@
-A by-election for the seat of Roebourne in the Legislative Assembly of Western Australia was held on 6 February 1932. It was triggered by the death of Frederick Teesdale (the sitting Nationalist member) on 14 December 1931.

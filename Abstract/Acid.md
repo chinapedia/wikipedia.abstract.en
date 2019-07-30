@@ -1,1 +1,0 @@
-Zn_reaction_with_HCl.JPG, a typical metal, reacting with hydrochloric acid, a typical acid]] An ACID is a molecule or ion capable of donating a proton (hydrogen ion H⁺), or, alternatively, capable of forming a covalent bond with an electron pair (a Lewis acid).[1]

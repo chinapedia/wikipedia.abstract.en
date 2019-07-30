@@ -1,1 +1,0 @@
-"KORO SENSATIONS" is a single by Hey! Say! JUMP. It was released on March 15, 2015. It was released as a DVD single under the name _SENSATIONS_ for Ryosuke Yamada's movie, _Assassination Classroom_. The members each have a code name for the new unit. The group made two music videos for the single: Battle Mode and Operation Mode.[1]

@@ -1,1 +1,0 @@
-EMEKA OFFOR is a Nigerian oil magnate and entrepreneur, born in Kafanchan, Nigeria.[1] The Chrome Group, founded by him in 1994, employs over 800 people and is a leading oil-based conglomerate, based in Abuja, Nigeria.

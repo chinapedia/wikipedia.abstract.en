@@ -1,1 +1,0 @@
-LOURDES REYES (born MARÍA LOURDES REYES BARRAGÁN on June 15, 1972 in San Luis Potosí City, San Luis Potosí, Mexico) is a Mexican television actress and singer. She is the daughter of Jesus Reyes and Lourdes Barragan. Lourdes is active in television and social activism.

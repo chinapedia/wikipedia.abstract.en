@@ -1,1 +1,0 @@
-LAKE HARRIS is a endorheic salt lake in the Australian state of South Australia to the north of the Eyre Peninsula located about northwest of the state capital of Adelaide within the gazetted localities of Lake Harris and Wilgena.[1][2]

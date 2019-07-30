@@ -1,1 +1,0 @@
-The MEN'S EIGHT competition at the 1976 Summer Olympics, also referred to as MEN'S COXED EIGHT (M8+), took place at the rowing basin on Notre Dame Island in Montreal, Quebec, Canada. It was held from 18 to 25 July and was won by the team from East Germany.

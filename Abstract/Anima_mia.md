@@ -1,1 +1,0 @@
-"ANIMA MIA" is a 1973 song composed by Antonello De Sanctis, Flavio Paulin and Ivano Michetti and performed by the musical group Cugini di campagna. The first top ten hit in the band's career, the song got an additional gold disc in 1997, when it named a nostalgia-based Rai 2 variety show presented by Fabio Fazio and Claudio Baglioni.[1]

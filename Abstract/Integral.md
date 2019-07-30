@@ -1,1 +1,0 @@
-Integral_example.svg

@@ -1,1 +1,0 @@
-CUBA LODGE NO. 312 A.F. AND A.M. is a historic Masonic lodge located at Cuba, Crawford County, Missouri. It was built in 1940, and is a one-story, rectangular building constructed of dressed, random ashlar, native sandstone. It has a front gabled-hip roof and a projecting front gable roof porch.[1]

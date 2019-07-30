@@ -1,1 +1,0 @@
-The 1973 SAN DIEGO STATE AZTECS FOOTBALL TEAM represented California State University San Diego[1] during the 1973 NCAA Division I football season as a member of the Pacific Coast Athletic Association.[2]

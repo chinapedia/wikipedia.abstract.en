@@ -1,1 +1,0 @@
-SERAFIM NIKOLAYEVICH SUDBININ (, born Golovastikov, Головастиков, known in France as SÉRAPHIN SOUDBININE, born March 21, 1867, – died November 1, 1944) was a Russian sculptor, painter, ceramicist and stage actor, associated with the Moscow Art Theatre.[1]

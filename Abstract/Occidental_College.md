@@ -1,1 +1,0 @@
-OCCIDENTAL COLLEGE (informally OXY) is a private liberal arts college in Los Angeles, California. Founded in 1887 by clergy and members of the Presbyterian Church, it is one of the oldest liberal arts colleges on the West Coast. Occidental College is often referred to as "OXY" for short.

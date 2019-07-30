@@ -1,1 +1,0 @@
-"MIRAI (ASHITA)" is the second Japanese single released by BTOB. It was released in four versions: a limited CD+DVD edition that came with a photo booklet and three regular CD only editions, each with a different B-side.

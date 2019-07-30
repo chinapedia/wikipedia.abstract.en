@@ -20,8 +20,6 @@ Thomas Henry Huxley was born in Ealing, which was then a village in Middlesex. H
 
 Despite this unenviable start, Huxley was determined to educate himself. He became one of the great autodidacts of the nineteenth century. At first he read Thomas Carlyle, James Hutton's _Geology_, and Hamilton's _Logic_. In his teens he taught himself German, eventually becoming fluent and used by Charles Darwin as a translator of scientific material in German. He learned Latin, and enough Greek to read Aristotle in the original.
 
-Young_Huxley_RN.jpg
-
 Later on, as a young adult, he made himself an expert, first on invertebrates, and later on vertebrates, all self-taught. He was skilled in drawing and did many of the illustrations for his publications on marine invertebrates. In his later debates and writing on science and religion his grasp of theology was better than most of his clerical opponents. Huxley, a boy who left school at ten, became one of the most knowledgeable men in Britain.[13][14]
 
 He was apprenticed for short periods to several medical practitioners: at 13 to his brother-in-law John Cooke in Coventry, who passed him on to Thomas Chandler, notable for his experiments using mesmerism for medical purposes. Chandler's practice was in London's Rotherhithe amidst the squalor endured by the Dickensian poor. Here Thomas would have seen poverty, crime and rampant disease at its worst.[15] Next, another brother-in-law took him on: John Salt, his eldest sister's husband. Now 16, Huxley entered Sydenham College (behind University College Hospital), a cut-price anatomy school whose founder, Marshall Hall, discovered the reflex arc. All this time Huxley continued his programme of reading, which more than made up for his lack of formal schooling.
@@ -34,13 +32,11 @@ Voyage of the _Rattlesnake_
 
 Aged 20, Huxley was too young to apply to the Royal College of Surgeons for a licence to practise, yet he was 'deep in debt'.[19] So, at a friend's suggestion, he applied for an appointment in the Royal Navy. He had references on character and certificates showing the time spent on his apprenticeship and on requirements such as dissection and pharmacy. Sir William Burnett, the Physician General of the Navy, interviewed him and arranged for the College of Surgeons to test his competence (by means of a _viva voce_) .
 
-Rattlesnake2.jpg by the ship's artist Oswald Brierly]]
+by the ship's artist Oswald Brierly]]
 
 Finally Huxley was made Assistant Surgeon ('surgeon's mate', but in practice marine naturalist) to HMS _Rattlesnake_, about to set sail on a voyage of discovery and surveying to New Guinea and Australia. The _Rattlesnake_ left England on 3 December 1846 and, once they had arrived in the southern hemisphere, Huxley devoted his time to the study of marine invertebrates.[20] He began to send details of his discoveries back to England, where publication was arranged by Edward Forbes FRS (who had also been a pupil of Knox). Both before and after the voyage Forbes was something of a mentor to Huxley.
 
 Huxley's paper "On the anatomy and the affinities of the family of Medusae" was published in 1849 by the Royal Society in its _Philosophical Transactions_. Huxley united the Hydroid and Sertularian polyps with the Medusae to form a class to which he subsequently gave the name of _Hydrozoa_. The connection he made was that all the members of the class consisted of two cell layers, enclosing a central cavity or stomach. This is characteristic of the phylum now called the _Cnidaria_. He compared this feature to the serous and mucous structures of embryos of higher animals. When at last he got a grant from the Royal Society for the printing of plates, Huxley was able to summarise this work in _The Oceanic Hydrozoa_, published by the Ray Society in 1859.[21][22]
-
-Australian_woman_by_Thomas_Henry_Huxley.jpg
 
 The value of Huxley's work was recognised and, on returning to England in 1850, he was elected a Fellow of the Royal Society. In the following year, at the age of twenty-six, he not only received the Royal Society Medal but was also elected to the Council. He met Joseph Dalton Hooker and John Tyndall,[23] who remained his lifelong friends. The Admiralty retained him as a nominal assistant-surgeon, so he might work on the specimens he collected and the observations he made during the voyage of the _Rattlesnake_. He solved the problem of _Appendicularia_, whose place in the animal kingdom Johannes Peter Müller had found himself wholly unable to assign. It and the Ascidians are both, as Huxley showed, tunicates, today regarded as a sister group to the vertebrates in the phylum _Chordata_.[24] Other papers on the morphology of the cephalopods and on brachiopods and rotifers are also noteworthy.[25][26][27] The _Rattlesnake_'s official naturalist, John MacGillivray, did some work on botany, and proved surprisingly good at notating Australian aboriginal languages. He wrote up the voyage in the standard Victorian two volume format.[28]
 
@@ -49,8 +45,6 @@ Later life
 Huxley effectively resigned from the navy (by refusing to return to active service) and, in July 1854, he became Professor of Natural History at the Royal School of Mines and naturalist to the British Geological Survey in the following year. In addition, he was Fullerian Professor at the Royal Institution 1855–58 and 1865–67; Hunterian Professor at the Royal College of Surgeons 1863–69; President of the British Association for the Advancement of Science 1869–1870; President of the Quekett Microscopical Club 1878; President of the Royal Society 1883–85; Inspector of Fisheries 1881–85; and President of the Marine Biological Association 1884–1890.[29]
 
 The thirty-one years during which Huxley occupied the chair of natural history at the Royal School of Mines included work on vertebrate palaeontology and on many projects to advance the place of science in British life. Huxley retired in 1885, after a bout of depressive illness which started in 1884. He resigned the presidency of the Royal Society in mid-term, the Inspectorship of Fisheries, and his chair (as soon as he decently could) and took six months' leave. His pension was a fairly handsome £1200 a year.[30]
-
-Thomas_Huxley_grave.jpg
 
 In 1890, he moved from London to Eastbourne where he edited the nine volumes of his _Collected Essays_. In 1894 he heard of Eugene Dubois' discovery in Java of the remains of _Pithecanthropus erectus_ (now known as _Homo erectus_). Finally, in 1895, he died of a heart attack (after contracting influenza and pneumonia), and was buried in North London at St Marylebone. This small family plot had been purchased upon the death of his beloved youngest son Noel, who died of scarlet fever in 1860; Huxley's wife Henrietta Anne née Heathorn and son Noel are also buried there. No invitations were sent out, but two hundred people turned up for the ceremony; they included Joseph Dalton Hooker, William Henry Flower, Mulford B. Foster, Edwin Lankester, Joseph Lister and, apparently, Henry James.[31]
 
@@ -62,7 +56,7 @@ From 1870 onwards, Huxley was to some extent drawn away from scientific research
 
 He was awarded the highest honours then open to British men of science. The Royal Society, who had elected him as Fellow when he was 25 (1851), awarded him the Royal Medal the next year (1852), a year before Charles Darwin got the same award. He was the youngest biologist to receive such recognition. Then later in life came the Copley Medal in 1888 and the Darwin Medal in 1894; the Geological Society awarded him the Wollaston Medal in 1876; the Linnean Society awarded him the Linnean Medal in 1890. There were many other elections and appointments to eminent scientific bodies; these and his many academic awards are listed in the _Life and Letters_. He turned down many other appointments, notably the Linacre chair in zoology at Oxford and the Mastership of University College, Oxford.[34]
 
-T.H.Huxley-1880s.jpg c. 1883
+c. 1883
 
 ]]
 
@@ -84,15 +78,13 @@ Much paper has been consumed by historians of science ruminating on this strange
 
 Huxley's detailed anatomical work was, as always, first-rate and productive. His work on fossil fish shows his distinctive approach: whereas pre-Darwinian naturalists collected, identified and classified, Huxley worked mainly to reveal the evolutionary relationships between groups.
 
-Thomas_Henry_Huxley_by_Theodore_Blake_Wirgman.jpg
-
 The lobed-finned fish (such as coelacanths and lung fish) have paired appendages whose internal skeleton is attached to the shoulder or pelvis by a single bone, the humerus or femur. His interest in these fish brought him close to the origin of tetrapods, one of the most important areas of vertebrate palaeontology.[43][44][45]
 
 The study of fossil reptiles led to his demonstrating the fundamental affinity of birds and reptiles, which he united under the title of _Sauropsida_. His papers on _Archaeopteryx_ and the origin of birds were of great interest then and still are.[46][47][48]
 
 Apart from his interest in persuading the world that man was a primate, and had descended from the same stock as the apes, Huxley did little work on mammals, with one exception. On his tour of America Huxley was shown the remarkable series of fossil horses, discovered by O. C. Marsh, in Yale's Peabody Museum.[49][50] Marsh was part palaeontologist, part robber baron, a man who had hunted buffalo and met Red Cloud (in 1874). Funded by his uncle George Peabody, Marsh had made some remarkable discoveries: the huge Cretaceous aquatic bird _Hesperornis_, and the dinosaur footprints along the Connecticut River were worth the trip by themselves, but the horse fossils were really special.
 
-Eohippus_+_Eohomo.gif'' being ridden by "Eohomo"]]
+'' being ridden by "Eohomo"]]
 
 The collection at that time went from the small four-toed forest-dwelling _Orohippus_ from the Eocene through three-toed species such as _Miohippus_ to species more like the modern horse. By looking at their teeth he could see that, as the size grew larger and the toes reduced, the teeth changed from those of a browser to those of a grazer. All such changes could be explained by a general alteration in habitat from forest to grassland. And, it is now known, that is what did happen over large areas of North America from the Eocene to the Pleistocene: the ultimate causative agent was global temperature reduction (see Paleocene–Eocene Thermal Maximum). The modern account of the evolution of the horse has many other members, and the overall appearance of the tree of descent is more like a bush than a straight line.
 
@@ -101,7 +93,7 @@ The horse series also strongly suggested that the process was gradual, and that 
 
 Darwin's bulldog
 
-Huxley_-_Mans_Place_in_Nature.jpg'' (1863): the image compares the skeletons of apes to humans. The gibbon (left) is double size.]]
+'' (1863): the image compares the skeletons of apes to humans. The gibbon (left) is double size.]]
 
 Huxley was originally not persuaded of "development theory", as evolution was once called. This can be seen in his savage review[51] of Robert Chambers' _Vestiges of the Natural History of Creation_, a book which contained some quite pertinent arguments in favour of evolution. Huxley had also rejected Lamarck's theory of transmutation, on the basis that there was insufficient evidence to support it. All this scepticism was brought together in a lecture to the Royal Institution,[52] which made Darwin anxious enough to set about an effort to change young Huxley's mind. It was the kind of thing Darwin did with his closest scientific friends, but he must have had some particular intuition about Huxley, who was from all accounts a most impressive person even as a young man.[53][54]
 
@@ -111,7 +103,7 @@ Logically speaking, the prior question was whether evolution had taken place at 
 
 Huxley's support started with his anonymous favourable review of the _Origin_ in the _Times_ for 26 December 1859,[58] and continued with articles in several periodicals, and in a lecture at the Royal Institution in February 1860.[59] At the same time, Richard Owen, whilst writing an extremely hostile anonymous review of the _Origin_ in the _Edinburgh Review_,[60] also primed Samuel Wilberforce who wrote one in the _Quarterly Review_, running to 17,000 words.[61] The authorship of this latter review was not known for sure until Wilberforce's son wrote his biography. So it can be said that, just as Darwin groomed Huxley, so Owen groomed Wilberforce; and both the proxies fought public battles on behalf of their principals as much as themselves. Though we do not know the exact words of the Oxford debate, we do know what Huxley thought of the review in the _Quarterly_:
 
-TH_Huxley_41.5_KB.jpg in _Vanity Fair_ 1871
+in _Vanity Fair_ 1871
 
 ]]
 
@@ -137,11 +129,9 @@ Man's place in nature
 
 For nearly a decade his work was directed mainly to the relationship of man to the apes. This led him directly into a clash with Richard Owen, a man widely disliked for his behaviour whilst also being admired for his capability. The struggle was to culminate in some severe defeats for Owen. Huxley's Croonian Lecture, delivered before the Royal Society in 1858 on _The Theory of the Vertebrate Skull_ was the start. In this, he rejected Owen's theory that the bones of the skull and the spine were homologous, an opinion previously held by Goethe and Lorenz Oken.[77]
 
-T.H.Huxley_1857.jpg
-
 From 1860–63 Huxley developed his ideas, presenting them in lectures to working men, students and the general public, followed by publication. Also in 1862 a series of talks to working men was printed lecture by lecture as pamphlets, later bound up as a little green book; the first copies went on sale in December.[78] Other lectures grew into Huxley's most famous work _Evidence as to Man's place in Nature_ (1863) where he addressed the key issues long before Charles Darwin published his _Descent of Man_ in 1871.
 
-Although Darwin did not publish his _Descent of Man_ until 1871, the general debate on this topic had started years before (there was even a precursor debate in the 18th century between Monboddo and Buffon). Darwin had dropped a hint when, in the conclusion to the _Origin_, he wrote: "In the distant future... light will be thrown on the origin of man and his history".[79] Not so distant, as it turned out. A key event had already occurred in 1857 when Richard Owen presented (to the Linnean Society) his theory that man was marked off from all other mammals by possessing features of the brain peculiar to the genus _Homo_. Having reached this opinion, Owen separated man from all other mammals in a subclass of its own.[80] No other biologist held such an extreme view. Darwin reacted "Man...as distinct from a chimpanzee [as] an ape from a platypus... I cannot swallow that!"[81] Neither could Huxley, who was able to demonstrate that Owen's idea was completely wrong. Huxley7.jpg
+Although Darwin did not publish his _Descent of Man_ until 1871, the general debate on this topic had started years before (there was even a precursor debate in the 18th century between Monboddo and Buffon). Darwin had dropped a hint when, in the conclusion to the _Origin_, he wrote: "In the distant future... light will be thrown on the origin of man and his history".[79] Not so distant, as it turned out. A key event had already occurred in 1857 when Richard Owen presented (to the Linnean Society) his theory that man was marked off from all other mammals by possessing features of the brain peculiar to the genus _Homo_. Having reached this opinion, Owen separated man from all other mammals in a subclass of its own.[80] No other biologist held such an extreme view. Darwin reacted "Man...as distinct from a chimpanzee [as] an ape from a platypus... I cannot swallow that!"[81] Neither could Huxley, who was able to demonstrate that Owen's idea was completely wrong.
 
 The subject was raised at the 1860 BA Oxford meeting, when Huxley flatly contradicted Owen, and promised a later demonstration of the facts. In fact, a number of demonstrations were held in London and the provinces. In 1862 at the Cambridge meeting of the B.A. Huxley's friend William Flower gave a public dissection to show that the same structures (the posterior horn of the lateral ventricle and hippocampus minor) were indeed present in apes. The debate was widely publicised, and parodied as the _Great Hippocampus Question_. It was seen as one of Owen's greatest blunders, revealing Huxley as not only dangerous in debate, but also a better anatomist.
 
@@ -178,8 +168,6 @@ The X Club
 
 In November 1864, Huxley succeeded in launching a dining club, the X Club, composed of like-minded people working to advance the cause of science; not surprisingly, the club consisted of most of his closest friends. There were nine members, who decided at their first meeting that there should be no more. The members were: Huxley, John Tyndall, J. D. Hooker, John Lubbock (banker, biologist and neighbour of Darwin), Herbert Spencer (social philosopher and sub-editor of the Economist), William Spottiswoode (mathematician and the Queen's Printer), Thomas Hirst (Professor of Physics at University College London), Edward Frankland (the new Professor of Chemistry at the Royal Institution) and George Busk, zoologist and palaeontologist (formerly surgeon for HMS _Dreadnought_). All except Spencer were Fellows of the Royal Society. Tyndall was a particularly close friend; for many years they met regularly and discussed issues of the day. On more than one occasion Huxley joined Tyndall in the latter's trips into the Alps and helped with his investigations in glaciology.[97][98][99]
 
-Drawing_of_Thomas_Henry_Huxley.jpg
-
 There were also some quite significant X-Club satellites such as William Flower and George Rolleston, (Huxley protegés), and liberal clergyman Arthur Stanley, the Dean of Westminster. Guests such as Charles Darwin and Hermann von Helmholtz were entertained from time to time.[100]
 
 They would dine early on first Thursdays at a hotel, planning what to do; high on the agenda was to change the way the Royal Society Council did business. It was no coincidence that the Council met later that same evening. First item for the Xs was to get the Copley Medal for Darwin, which they managed after quite a struggle.
@@ -203,8 +191,6 @@ In the early 1870s the Royal School of Mines moved to new quarters in South Kens
 
 The typical day would start with Huxley lecturing at 9am, followed by a program of laboratory work supervised by his demonstrators.[107] Huxley's demonstrators were picked men—all became leaders of biology in Britain in later life, spreading Huxley's ideas as well as their own. Michael Foster became Professor of Physiology at Cambridge; E. Ray Lankester became Jodrell Professor of Zoology at University College London (1875–91), Professor of Comparative Anatomy at Oxford (1891–98) and Director of the Natural History Museum (1898–1907); S.H. Vines became Professor of Botany at Cambridge; W.T. Thiselton-Dyer became Hooker's successor at Kew (he was already Hooker's son-in-law!); T. Jeffery Parker became Professor of Zoology and Comparative Anatomy at University College, Cardiff; and William Rutherford[108] became the Professor of Physiology at Edinburgh. William Flower, Conservator to the Hunterian Museum, and THH's assistant in many dissections, became Sir William Flower, Hunterian Professor of Comparative Anatomy and, later, Director of the Natural History Museum.[109] It's a remarkable list of disciples, especially when contrasted with Owen who, in a longer professional life than Huxley, left no disciples at all. "No one fact tells so strongly against Owen... as that he has never reared one pupil or follower".[110]
 
-Huxley,_Thomas_Henry_(1825_-_1895)_by_Daniel_Downey_(1829-1881)_-_1863-9.jpg
-
 Huxley's courses for students were so much narrower than the man himself that many were bewildered by the contrast: "The teaching of zoology by use of selected animal types has come in for much criticism";[111] Looking back in 1914 to his time as a student, Sir Arthur Shipley said "Darwin's later works all dealt with living organisms, yet our obsession was with the dead, with bodies preserved, and cut into the most refined slices".[112] E.W MacBride said "Huxley... would persist in looking at animals as material structures and not as living, active beings; in a word... he was a necrologist.[113] To put it simply, Huxley preferred to teach what he had actually seen with his own eyes.
 
 This largely morphological program of comparative anatomy remained at the core of most biological education for a hundred years until the advent of cell and molecular biology and interest in evolutionary ecology forced a fundamental rethink. It is an interesting fact that the methods of the field naturalists who led the way in developing the theory of evolution (Darwin, Wallace, Fritz Müller, Henry Bates) were scarcely represented at all in Huxley's program. Ecological investigation of life in its environment was virtually non-existent, and theory, evolutionary or otherwise, was at a discount. Michael Ruse finds no mention of evolution or Darwinism in any of the exams set by Huxley, and confirms the lecture content based on two complete sets of lecture notes.[114]
@@ -227,7 +213,7 @@ Vladimir Lenin remarked (in _Materialism and empirio-criticism_) "In Huxley's ca
 
 Adult education
 
-PXA_Vol._6_p.132_Thomas_Henry_Huxley.jpg]]
+]]
 
 Huxley's interest in education went still further than school and university classrooms; he made a great effort to reach interested adults of all kinds: after all, he himself was largely self-educated. There were his lecture courses for working men, many of which were published afterwards, and there was the use he made of journalism, partly to earn money but mostly to reach out to the literate public. For most of his adult life he wrote for periodicals—the _Westminster Review_, the _Saturday Review_, the _Reader_, the _Pall Mall Gazette_, _Macmillan's Magazine_, the _Contemporary Review_. Germany was still ahead in formal science education, but interested people in Victorian Britain could use their initiative and find out what was going on by reading periodicals and using the lending libraries.[128][129]
 
@@ -337,7 +323,7 @@ Darwin's ideas and Huxley's controversies gave rise to many cartoons and satires
 
     (Tom Huxley's 'low set' included Hooker 'in the green and vegetable line' and 'Charlie Darwin, the pigeon-fancier'; Owen's 'crib in Bloomsbury' was the British Museum, of which Natural History was but one department. Jermyn Street is known for its shops of men's clothing, possibly implying that Huxley was a dandy.)
 
-Water-babies_2.jpg's 1881 illustration]]
+'s 1881 illustration]]
 
 -   _The Water Babies, a fairy tale for a land baby_ by Charles Kingsley (serialised in _Macmillan's Magazine_ 1862–63, published in book form, with additions, in 1863). Kingsley had been among first to give a favourable review to Darwin's _On the Origin of Species_, having "long since... learnt to disbelieve the dogma of the permanence of species",[162] and the story includes a satire on the reaction to Darwin's theory, with the main scientific participants appearing, including Richard Owen and Huxley. In 1892 Thomas Henry Huxley's five-year-old grandson Julian saw the illustration by Edward Linley Sambourne (right) and wrote his grandfather a letter asking:
       Dear Grandpater—Have you seen a Waterbaby? Did you put it in a bottle? Did it wonder if it could get out? Could I see it some day?—Your loving Julian.

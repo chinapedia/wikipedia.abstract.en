@@ -1,1 +1,0 @@
-_DOCTOR STRANGE (ORIGINAL MOTION PICTURE SOUNDTRACK)_ is the soundtrack album to the Marvel Studios film _Doctor Strange_ composed by Michael Giacchino. Hollywood Records released the album digitally on October 21, 2016, with a physical release on November 18, 2016.[1][2]

@@ -1,1 +1,0 @@
-DAVE RANDALL is a UK based musician, writer and political activist. He is best known for his work as guitarist with Faithless and for his own band Slovo. His playing credits include Sinead O'Connor, Dido, Emiliana Torrini and 1 Giant Leap. He is author of the book Sound System – The Political Power of Music (Pluto Press 2017).[1] He lives in Brixton, South London.

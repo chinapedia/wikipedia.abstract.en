@@ -1,1 +1,0 @@
-_CRINUM MACOWANII_ (see below for additional nomenclature) is a deciduous bulbous plant species native to Africa. Along with other members of the Amaryllidaceae family, it has been used in traditional medicine throughout southern Africa.

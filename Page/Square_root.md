@@ -1,5 +1,3 @@
-Nuvola_apps_edu_mathematics_blue-p.svg Five_Squared.svg
-
 In mathematics, a SQUARE ROOT of a number _a_ is a number _y_ such that ; in other words, a number _y_ whose _square_ (the result of multiplying the number by itself, or ) is _a_.[1] For example, 4 and −4 are square roots of 16 because . Every nonnegative real number _a_ has a unique nonnegative square root, called the _principal square root_, which is denoted by , where √ is called the _radical sign_ or _radix_. For example, the principal square root of 9 is 3, which is denoted by = 3, because and 3 is nonnegative. The term (or number) whose square root is being considered is known as the _radicand_. The radicand is the number or expression underneath the radical sign, in this example 9.
 
 Every positive number _a_ has two square roots: , which is positive, and −, which is negative. Together, these two roots are denoted as ± (see ± shorthand). Although the principal square root of a positive number is only one of its two square roots, the designation "_the_ square root" is often used to refer to the _principal square root_. For positive _a_, the principal square root can also be written in exponent notation, as _a_^(1/2).[2]
@@ -86,7 +84,7 @@ $$\sqrt{11} = 3 + \cfrac{2}{6 + \cfrac{2}{6 + \cfrac{2}{6 + \cfrac{2}{6 + \cfrac
 
 Geometric construction of the square root
 
-Euclid_Corollary_5.svg up to the triangle with a hypotenuse of ( }})]]
+up to the triangle with a hypotenuse of ( }})]]
 
 The square root of a positive number is usually defined as the side length of a square with the area equal to the given number. But the square shape is not necessary for it: if one of two similar planar Euclidean objects has the area _a_ times greater than another, then the ratio of their linear sizes is .
 

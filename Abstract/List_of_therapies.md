@@ -1,1 +1,0 @@
-This is a list of types of medical therapy, including forms of traditional medicine, alternative medicine, and quackery. For psychotherapies and other behavioral and psychological intervention methods, see list of psychotherapies.

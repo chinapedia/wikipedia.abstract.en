@@ -1,1 +1,0 @@
-JOEL FREITAS ALMEIDA (born October 11, 1985) is a Cape Verdean and Portuguese basketball player who plays for Xuven Cambados, a Galician club that was in the Spanish Third Division as of the 2015/16 season.

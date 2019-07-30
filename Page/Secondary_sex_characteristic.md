@@ -1,4 +1,4 @@
-Underarm_and_pubic_hair.png and pubic hair is the common secondary sex characteristic in both male and female human. This picture highlights the underarm and pubic hair of an adolescent male.]] Peacock.displaying.better.800pix.jpg displays his long, colored tail, an example of secondary sex characteristics]] SECONDARY SEX CHARACTERISTICS are features that appear during puberty in humans, and at sexual maturity in other animals. These are particularly evident in the sexually dimorphic phenotypic traits that distinguish the sexes of a species, but unlike the sex organs, are not directly part of the reproductive system. They are believed to be the product of sexual selection for traits which display fitness, giving an individual an advantage over its rivals in courtship and aggressive interactions. They are distinguished from the primary sex characteristics, the sex organs, which are directly necessary for sexual reproduction to occur.
+and pubic hair is the common secondary sex characteristic in both male and female human. This picture highlights the underarm and pubic hair of an adolescent male.]] displays his long, colored tail, an example of secondary sex characteristics]] SECONDARY SEX CHARACTERISTICS are features that appear during puberty in humans, and at sexual maturity in other animals. These are particularly evident in the sexually dimorphic phenotypic traits that distinguish the sexes of a species, but unlike the sex organs, are not directly part of the reproductive system. They are believed to be the product of sexual selection for traits which display fitness, giving an individual an advantage over its rivals in courtship and aggressive interactions. They are distinguished from the primary sex characteristics, the sex organs, which are directly necessary for sexual reproduction to occur.
 
 Secondary sex characteristics include manes of male lions and long feathers of male peafowl, the tusks of male narwhals, enlarged proboscises in male elephant seals and proboscis monkeys, the bright facial and rump coloration of male mandrills, and horns in many goats and antelopes, and these are believed to be produced by a positive feedback loop known as the Fisherian runaway produced by the secondary characteristic in one sex and the desire for that characteristic in the other sex. Male birds and fish of many species have brighter coloration or other external ornaments. Differences in size between sexes are also considered secondary sexual characteristics.
 
@@ -7,7 +7,7 @@ In humans, visible secondary sex characteristics include pubic hair, enlarged br
 
 Evolutionary roots
 
-Red_deer_stag_velvet.jpg stag's antlers are secondary sexual characteristics.]]
+stag's antlers are secondary sexual characteristics.]]
 
 Charles Darwin hypothesized that sexual selection, or competition within a species for mates, can explain observed differences between sexes in many species.[1] Biologists today distinguish between "male-to-male combat" and "mate choice", usually female choice of male mates. Sexual characteristics due to combat are such things as antlers, horns, and greater size. Characteristics due to mate choice, often referred to as _ornaments_, include brighter plumage, coloration, and other features that have no immediate purpose for survival or combat.
 
@@ -17,8 +17,6 @@ Male jumping spiders have visual patches of UV reflectance, which are ornamentat
 
 
 In humans
-
-Anterior_view_of_human_female_and_male,_with_labels_2.png
 
 Sexual differentiation begins during gestation, when the gonads are formed. The general structure and shape of the body and face, as well as sex hormone levels, are similar in preadolescent boys and girls. As puberty begins and sex hormone levels rise, differences appear, though some changes are similar in males and females. Male levels of testosterone directly induce the growth of the genitals, and indirectly (via dihydrotestosterone (DHT)) the prostate. Estradiol and other hormones cause breasts to develop in females. However, fetal or neonatal androgens may modulate later breast development by reducing the capacity of breast tissue to respond to later estrogen.[4][5][6]
 

@@ -22,7 +22,7 @@ Goodspeed and Mason part ways after Mason reveals the location of the microfilm;
 
 Cast
 
-8.23.12MichaelBiehnByLuigiNovi6.jpg signing the cover of the film on DVD in 2012]]
+signing the cover of the film on DVD in 2012]]
 
 
 Production

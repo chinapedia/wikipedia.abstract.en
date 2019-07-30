@@ -1,1 +1,0 @@
-The SHAPO RESERVOIR () is located 5 km south of Haikou city, Hainan, China, south of Shapo Village at Chengxi Town.[1][2][3][4][5][6][7][8][9][10][11][12] The purpose of this reservoir is to prevent floods and conserve water to supply to Haikou. It is roughly 2 km long. A single dam is located at the northeast bank.

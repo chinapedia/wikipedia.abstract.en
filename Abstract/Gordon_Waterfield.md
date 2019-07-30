@@ -1,1 +1,0 @@
-GORDON WATERFIELD (1903–1987) was a British journalist, broadcaster and author.[1] He is chiefly known for his book _What Happened to France?_, in which he documents his experiences as a journalist in France during World War II. He was featured on the 1973 documentary _The World at War_.[2]

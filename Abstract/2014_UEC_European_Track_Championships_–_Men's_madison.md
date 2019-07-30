@@ -1,1 +1,0 @@
-The MEN'S MADISON was held on 19 October 2014. 12 teams participated over a distance of 53.3 km (160 laps), with sprints every 20 laps awarding 5, 3, 2 or 1 point to the first four; teams are ranked by lap gains on their opponents, then points between teams on the same lap.[1]

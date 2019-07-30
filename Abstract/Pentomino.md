@@ -1,1 +1,0 @@
-All_18_Pentominoes.svg

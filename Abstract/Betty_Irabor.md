@@ -1,1 +1,0 @@
-Betty_Irabor,_Founder_and_Publisher,_Genevieve_Magazine.png

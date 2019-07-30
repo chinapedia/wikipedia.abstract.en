@@ -1,1 +1,0 @@
-The SMU MUSTANGS WOMEN'S VOLLEYBALL team is the NCAA Division I women's volleyball team at Southern Methodist University in Dallas. The program began its first season in 1996. Its current head coach is Lisa Seifert. Seifert led the program to its first title in 2015, posting a record of 27–6, setting a record for most wins in a season.[1]

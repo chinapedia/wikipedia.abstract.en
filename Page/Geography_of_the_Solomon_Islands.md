@@ -1,5 +1,3 @@
-Solomon_Islands_1989.jpg
-
 Solomon Islands is a nation in the South Pacific Ocean, that lies east of Papua New Guinea.
 
 
@@ -26,7 +24,7 @@ November to March is the wet season—the northwest monsoon—typically warmer a
 
 Statistics
 
-Solomon_Islands_and_Oceania.jpg GEOGRAPHIC COORDINATES:
+GEOGRAPHIC COORDINATES:
 
 AREA:
 _total:_ 28,896 km² (10,985 mi²)

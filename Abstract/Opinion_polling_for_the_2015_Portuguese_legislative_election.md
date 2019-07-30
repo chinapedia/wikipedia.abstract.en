@@ -1,1 +1,0 @@
-In the run up to the 2015 Portuguese legislative election, various organisations carried out opinion polling to gauge voting intention in Portugal. Results of such polls are displayed in this article.

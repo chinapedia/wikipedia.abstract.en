@@ -36,8 +36,6 @@ It has been observed that obstruction of the cerebrospinal fluid spaces in the s
 
 Diagnosis
 
-Gray_111_-_Vertebral_column-coloured.png
-
 Physicians now use magnetic resonance imaging (MRI) to diagnose syringomyelia. The MRI radiographer takes images of body anatomy, such as the brain and spinal cord, in vivid detail. This test will show the syrinx in the spine or any other conditions, such as the presence of a tumor. MRI is safe, painless, and informative and has greatly improved the diagnosis of syringomyelia.
 
 The physician may order additional tests to help confirm the diagnosis. One of these is called electromyography (EMG), which show possible lower motor neuron damage. In addition, computed axial tomography (CT) scans of a patient's head may reveal the presence of tumors and other abnormalities such as hydrocephalus.
@@ -78,7 +76,7 @@ Since the natural history of syringomyelia is poorly understood, a conservative 
 
 Research
 
-Cervical_MRI_120744_rgbca.png The precise causes of syringomyelia are still unknown, although blockage of the flow of cerebrospinal fluid has been known to be an important factor since the 1970s. Scientists in the UK and US continue to explore the mechanisms that lead to the formation of syrinxes in the spinal cord. It has been demonstrated that a block of the free flow of cerebrospinal fluid is a contributing factor in the pathogenesis of the disease. Duke University in America and Warwick University are conducting research to explore genetic features of syringomyelia.[8]
+The precise causes of syringomyelia are still unknown, although blockage of the flow of cerebrospinal fluid has been known to be an important factor since the 1970s. Scientists in the UK and US continue to explore the mechanisms that lead to the formation of syrinxes in the spinal cord. It has been demonstrated that a block of the free flow of cerebrospinal fluid is a contributing factor in the pathogenesis of the disease. Duke University in America and Warwick University are conducting research to explore genetic features of syringomyelia.[8]
 
 Surgical techniques are also being refined by the neurosurgical research community. Successful procedures expand the area around the cerebellum and spinal cord, improving the flow of cerebrospinal fluid and thereby reducing the syrinx.
 

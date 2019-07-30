@@ -1,1 +1,0 @@
-upright=1 (1925)]] "THE BABE IN BETHLEM'S MANGER", also called "THE BABE IN BETHLEHEM'S MANGER LAID", "OLD KENTISH CAROL"[1] and "THE SAVIOUR'S WORK",[2] is an anonymous English folk Christmas carol celebrating the birth of Jesus in Bethlehem.

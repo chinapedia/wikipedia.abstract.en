@@ -1,1 +1,0 @@
-PCR_tubes.png

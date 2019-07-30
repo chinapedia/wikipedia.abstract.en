@@ -1,1 +1,0 @@
-MARIO FERRARIS (born 4 January 1968) is an Italian racing driver currently competing in the TCR International Series. Having previously competed in the Superstars GTSprint Series, Campionato Italiano Turismo Endurance and International GT Open amongst others.

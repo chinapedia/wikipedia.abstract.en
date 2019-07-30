@@ -1,1 +1,0 @@
-BLIND SPORTS IN CAMEOON include goalball, torball, athletics, African wrestling, judo and 5-a-side football. Blind sports first began in the 2000s, with Cameroon participating in national and international competitions, and hosting workshops. In 2010, a new law was passed to try to increase enforcement of making buildings handicap accessible.

@@ -1,1 +1,0 @@
-_OGGATONAMA_ (, THE UNNAMED) is a 2016 Bangladeshi drama film directed and written by Tauquir Ahmed. It was selected as the Bangladeshi entry for the Best Foreign Language Film at the 89th Academy Awards, but it was not nominated.[1][2][3]

@@ -1,1 +1,0 @@
-ASTROBALLE, or L'ASTROBALLE is an indoor sports arena that is located in the Cusset neighborhood of Villeurbanne, Lyon, France, near the Metro Station Laurent Bonnevay (line A). The arena is primarily used to host basketball games. The arena has a seating capacity of 5,556.[1]

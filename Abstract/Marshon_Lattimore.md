@@ -1,1 +1,0 @@
-MARSHON DEMOND LATTIMORE (born May 20, 1996) is an American football cornerback for the New Orleans Saints of the National Football League (NFL). He played college football at Ohio State, and was drafted by the Saints 11th overall in the 2017 NFL Draft.

@@ -1,1 +1,0 @@
-_APHROPHORA_ is a genus of spittlebugs in the family Aphrophoridae. There are at least 80 described species in _Aphrophora_.[1][2][3][4][5][6] thumb'']] Aphrophora_nymph.jpg Aphrophora_quadrinotata.jpg

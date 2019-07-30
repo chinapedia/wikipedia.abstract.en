@@ -1,1 +1,0 @@
-The 2017 GUANGZHOU EVERGRANDE TAOBAO SEASON was the 64th year in Guangzhou Evergrande's existence and its 50th season in the Chinese football league, also its 28th season in the top flight. Guangzhou Evergrande won their seventh consecutive title of the league.

@@ -1,1 +1,0 @@
-The PNS IQBAL () is the naval base that serves as the training and operating headquarters of the Navy Special Service Group, having being established in 1966 at the Karachi coast in Sindh in Pakistan.[1][2]

@@ -1,1 +1,0 @@
-CLARA NISTAD (born 8 February 1996) is a Swedish badminton player.[1][2] In 2015, she won the Polish and Finnish International tournaments in the women's doubles event partnered with Emma Wengberg.[3][4] In 2017, she and Wengberg won the women's doubles title at the Swedish International Series tournament.[5]

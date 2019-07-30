@@ -1,1 +1,0 @@
-MOUNTAIN BIKE AUSTRALIA (MTBA) is the peak body responsible for the governance, promotion and advocacy of mountain biking in Australia.[1] MTBA gained National Sporting Organisation (NSO) status from the Australian Sports Commission (ASC) in November 2017.[2]

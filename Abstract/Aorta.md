@@ -1,1 +1,0 @@
-The AORTA ( ) is the main and largest artery in the human body, originating from the left ventricle of the heart and extending down to the abdomen, where it splits into two smaller arteries (the common iliac arteries). The aorta distributes oxygenated blood to all parts of the body through the systemic circulation.[1]

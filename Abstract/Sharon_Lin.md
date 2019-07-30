@@ -1,1 +1,0 @@
-SHARON LIN (born November 14, 1998)[1] is a Chinese-American high school entrepreneur.[2] She was recognized by the White House as a Champion of Change[3][4][5] for her work in developing computer science programs for marginalized girls.[6]

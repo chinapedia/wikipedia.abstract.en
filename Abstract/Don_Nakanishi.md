@@ -1,1 +1,0 @@
-DON NAKANISHI (August 14, 1949 – March 22, 2016) was a professor and director of the Asian American Studies Center at the University of California, Los Angeles.[1] Nakanishi is known for establishing Asian American Studies as a "viable and relevant field of scholarship."[2]

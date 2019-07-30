@@ -1,1 +1,0 @@
-The MARY HELP OF CHRISTIANS CATHEDRAL[1][2] ( ) also called FUERTE OLIMPO CATHEDRAL[3] is the name given to a temple belonging to the Catholic Church and is located in the city of Fuerte Olimpo the capital of the department of Alto Paraguay in northern part of South American country of Paraguay, near the border with Brazil.

@@ -1,1 +1,0 @@
-The GIBLIN FAMILY OF TASMANIA was an influential family in the early days of the colony of Tasmania, or Van Diemen's Land as it was earlier named. The list below is not exhaustive, but should help in establishing relationships between family members encountered in histories and elsewhere in Wikipedia.

@@ -1,1 +1,0 @@
-The BATTLE OF CHEOIN was a battle between Goryeo and Mongol Empire forces in the Korean peninsula on December 16, 1232. Although people in Cheoin had been segregated, they fought and beat the Mongols.[1]

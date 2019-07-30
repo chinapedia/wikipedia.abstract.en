@@ -1,1 +1,0 @@
-MIN SAW OO II (, ) was viceroy of Toungoo from 1436 to 1440. He was placed in office by King Binnya Ran I of Hanthawaddy. He died in action on his war elephant while fighting against Ava forces trying to retake Toungoo in 1440.

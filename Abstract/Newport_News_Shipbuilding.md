@@ -1,1 +1,0 @@
-Newport_News_Shipyard,_aerial_view,_Oct_1994.jpeg

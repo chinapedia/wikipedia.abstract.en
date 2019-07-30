@@ -1,4 +1,4 @@
-Bedscha.jpg nomads]] Kashta_Live.jpg]] Leila_Aboulela_(2010).jpg]] Sudan_-_smiling_lady.jpg student from Khartoum]] Sudan_camels.jpg in north]] Rashaida_family.png in the east]] Sudan-demography.png, year 2005; Number of inhabitants in thousands.]] This article is about the demographic features of the population of Sudan, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+nomads]] ]] ]] student from Khartoum]] in north]] in the east]] , year 2005; Number of inhabitants in thousands.]] This article is about the demographic features of the population of Sudan, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 In Sudan's 1993 census, the population was calculated at 30 million. No comprehensive census has been carried out since that time due to the civil war. Estimates of Sudan, including the population of South Sudan, ranged from 37 million (United Nations estimate) to 45 million (CIA estimate). Since the secession of South Sudan in July 2011, estimates place the current population of Sudan at about {{#expr:/1e6 round 0}} million. The population of metropolitan Khartoum (including Khartoum, Omdurman, and Khartoum North) is growing rapidly and ranges from six to seven million, including around two million displaced persons from the southern war zone as well as western and eastern drought-affected areas.
 
@@ -92,7 +92,7 @@ Before 2005, only Arabic was the official language.[10] In the 2005 constitution
 
 Religion
 
-Tarawih_prayers_in_Ramadan_Siadah_Sanhory_mosque.JPG]] 97% of the population adheres to Islam, with the overwhelming majority being adherents of the Sunni Sufi branch and the Maliki school of Islamic jurisprudence (with growing Shia Muslim minority).[12] The remainder of the population follows either animist and indigenous beliefs or Christianity, especially in Khartoum and in southern regions of the country bordering South Sudan.
+]] 97% of the population adheres to Islam, with the overwhelming majority being adherents of the Sunni Sufi branch and the Maliki school of Islamic jurisprudence (with growing Shia Muslim minority).[12] The remainder of the population follows either animist and indigenous beliefs or Christianity, especially in Khartoum and in southern regions of the country bordering South Sudan.
 
 Christians in Sudan which are refugees or immigrants from the south belong to various churches including the Roman Catholic Church, small Melkite and Maronite communities in the north, as well as Anglicans followers in the Episcopal Church of Sudan and the recently formed Reformed Episcopal Church. There are significant but long-established groups of Coptic Orthodox and Greek Orthodox Christians in Khartoum and other northern cities.
 
@@ -120,8 +120,6 @@ Population
     35,482,233 (July 2014 est.)
 
 Age structure
-
-Sudanpop.svg
 
     _0-14 years:_ 43.07% (male 9,434,634 /female 9,136,951)
     _15-24 years:_ 20.22% (male 4,459,335 /female 4,259,341)

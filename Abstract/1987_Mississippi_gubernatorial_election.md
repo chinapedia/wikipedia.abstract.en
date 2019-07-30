@@ -1,1 +1,0 @@
-The 1987 MISSISSIPPI GUBERNATORIAL ELECTION took place on November 3, 1987, in order to elect the Governor of Mississippi. Incumbent Democrat William Allain was term-limited, and could not run for reelection to a second term.

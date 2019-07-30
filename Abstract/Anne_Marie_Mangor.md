@@ -1,1 +1,0 @@
-Anne_Marie_Mangor_1862.jpg

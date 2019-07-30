@@ -1,9 +1,9 @@
-San_Marion-Railway-19.jpg San Marino is a small European republic, with limited public transport facilities. It is an enclave in central Italy. The principal public transport links involve buses, helicopters, and an aerial tramway. There was a public rail network, a small part of which is preserved.
+San Marino is a small European republic, with limited public transport facilities. It is an enclave in central Italy. The principal public transport links involve buses, helicopters, and an aerial tramway. There was a public rail network, a small part of which is preserved.
 
 
 Railway
 
-San-marino-electric-railway.JPG For a few years prior to World War II, San Marino had a railway network consisting of a single line, connecting the country with the Italian rail network at Rimini railway station. Due to difficulties in accessing the capital, San Marino City (which has a mountain-top location), the terminus station was to be located at the village of Valdragone. However, with a joint effort between San Marino and Italy the railway was extended to reach the capital through a steep and winding track comprising many tunnels. The railway was opened on 12 June 1932.[1]
+For a few years prior to World War II, San Marino had a railway network consisting of a single line, connecting the country with the Italian rail network at Rimini railway station. Due to difficulties in accessing the capital, San Marino City (which has a mountain-top location), the terminus station was to be located at the village of Valdragone. However, with a joint effort between San Marino and Italy the railway was extended to reach the capital through a steep and winding track comprising many tunnels. The railway was opened on 12 June 1932.[1]
 
 It was an advanced system for its time, being an electric railway, powered by overhead electric cables. The trains drew power from these cables by means of a pantograph system. The tracks were narrow gauge, which offered advantages in terms of costs and ease of construction given the geographical features of the route, but made the railway incompatible with the Italian network. The train carriages had a distinctive appearance, being liveried in the national colours of San Marino, blue and white layered horizontally; the service offered first class and third class seats. There were 17 tunnels, all located within Sammarinese territory, ranging from about 50 m to 800 m in length.
 
@@ -18,7 +18,7 @@ Beginning on 21 July 2012, next to the terminal station of the City of San Marin
 
 Aerial tramway
 
-San-Marino-Gondola-1283.jpg There is a 300 m aerial tramway connecting the city of San Marino on top of Monte Titano with Borgo Maggiore, a major town in the republic, with the second largest population of any Sammarinese settlement. Indeed, for the tourist visitor the aerial tramway gives the best available views of Borgo Maggiore, as the cars sweep low over the rooftops of the main town square. From here a further connection is available to the nation's largest settlement, Dogana, by means of local bus service.
+There is a 300 m aerial tramway connecting the city of San Marino on top of Monte Titano with Borgo Maggiore, a major town in the republic, with the second largest population of any Sammarinese settlement. Indeed, for the tourist visitor the aerial tramway gives the best available views of Borgo Maggiore, as the cars sweep low over the rooftops of the main town square. From here a further connection is available to the nation's largest settlement, Dogana, by means of local bus service.
 
 Two aerial tramway cars, known as gondolas, and numbered '1' and '2', operate in opposition on a cable, and a service is provided at roughly fifteen-minute intervals throughout the day. A third vehicle is available on the system, being a service car for the use of engineers maintaining the tramway.
 
@@ -27,14 +27,14 @@ The upper station of the aerial tramway serves no other purpose (although it is 
 
 Taxi and private road vehicles
 
-Targa_automobilistica_San_Marino_1993_L3237.jpg There are 220 km of highways in the country, the main road being the San Marino Highway. Roads are well used by private car drivers. Sammarinese authorities license private vehicles with distinctive licence plates which are white with blue figures, usually a letter followed by up to four numbers. To the left of these figures is printed the national Coat of Arms of San Marino. Many vehicles also carry the international vehicle identification code (in black on a white oval sticker), which is "RSM". Since 2004 custom licence plates have also become available.
+There are 220 km of highways in the country, the main road being the San Marino Highway. Roads are well used by private car drivers. Sammarinese authorities license private vehicles with distinctive licence plates which are white with blue figures, usually a letter followed by up to four numbers. To the left of these figures is printed the national Coat of Arms of San Marino. Many vehicles also carry the international vehicle identification code (in black on a white oval sticker), which is "RSM". Since 2004 custom licence plates have also become available.
 
 A limited licensed taxi service operates nationwide. There are seven licensed taxi operating companies in the republic,[5] and Italian taxis regularly operate within San Marino when carrying passengers picked up in Italian territory.
 
 
 Buses
 
-Sammarinese_international_bus_service_link_with_Rimini,_Italy.jpg There is a regular international bus service between Rimini and the city of San Marino, popular with both tourists and tourist industry workers commuting to San Marino from Italy. This service stops at approximately twenty advertised locations in Rimini and within San Marino, with its two terminus stops at Rimini railway station and San Marino coach station, respectively.
+There is a regular international bus service between Rimini and the city of San Marino, popular with both tourists and tourist industry workers commuting to San Marino from Italy. This service stops at approximately twenty advertised locations in Rimini and within San Marino, with its two terminus stops at Rimini railway station and San Marino coach station, respectively.
 
 San Marino also has its own local bus system within the republic, which provides a limited service connecting the capital and the smaller rural communities.[6]
 

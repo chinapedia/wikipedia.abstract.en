@@ -1,1 +1,0 @@
-Niccolò_Tartaglia.jpg

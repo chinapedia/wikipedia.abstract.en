@@ -33,7 +33,7 @@ Thermal energy conversion
 
 Materials
 
-Silicon.jpg crystals are the most common semiconducting materials used in microelectronics and photovoltaics.]]
+crystals are the most common semiconducting materials used in microelectronics and photovoltaics.]]
 
 A large number of elements and compounds have semiconducting properties, including:[10]
 

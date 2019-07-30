@@ -1,1 +1,0 @@
-The SAGINAW-MIDLAND-BAY CITY COMBINED STATISTICAL AREA is a United States metropolitan area defined by the federal Office of Management and Budget (OMB) surrounding the Saginaw Bay and Saginaw River. The region is a part of the larger area known as Mid/Central Michigan. It includes the smaller statistical areas of Saginaw, Midland, and Bay City.

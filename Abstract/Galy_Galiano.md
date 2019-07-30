@@ -1,1 +1,0 @@
-CARMELO GALIANO COTES, better known as GALY GALIANO (Chiriguaná, Cesar, Colombia, February 10, 1958), is a Colombian composer and singer of romantic and tropical music. He was the first Colombian artist to appear in Billboard with three songs in a single listing.[1]

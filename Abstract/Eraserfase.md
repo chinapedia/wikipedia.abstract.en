@@ -1,1 +1,0 @@
-ERASERFASE is an American Beat Music producer, singer, rapper and multi-instrumentalist from Los Angeles. He has released two albums on Alpha Pup Records' affiliate label, _Dome of Doom_.[1] and has toured with Del The Funky Homosapien, 2Mex, Ceschi and Awol One.[2]

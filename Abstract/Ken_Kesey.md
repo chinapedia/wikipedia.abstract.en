@@ -1,1 +1,0 @@
-KENNETH ELTON KESEY (; September 17, 1935 – November 10, 2001) was an American novelist, essayist, and countercultural figure. He considered himself a link between the Beat Generation of the 1950s and the hippies of the 1960s.

@@ -1,1 +1,0 @@
-Gerald_Summers.jpg

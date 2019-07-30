@@ -1,1 +1,0 @@
-A bomb explosion occurred at the shrine of Ali al-Ridha, the eighth Imam of Shia, on 20 June 1994 in a crowded prayer hall in Mashhad, Iran. To maximize the amount of casualties, the explosion took place on Ashura, one of the holiest days for Shia muslims,[1] when hundreds of pilgrims had gathered to commemorate the death of their third Imam, Husayn ibn Ali.[2]

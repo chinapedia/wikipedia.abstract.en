@@ -1,1 +1,0 @@
-_ELLAM UNAKKAGA_ () is a 1961 Indian Tamil language film directed by Adurthi Subba Rao and produced by Saravanabhava Unity Pictures. The film stars Sivaji Ganesan, Savitri and T. S. Balaiah. It was released on 1 July 1961, and failed commercially.[1]

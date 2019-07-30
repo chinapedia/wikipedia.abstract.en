@@ -1,1 +1,0 @@
-The 1944 ARIZONA GUBERNATORIAL ELECTION took place on November 7, 1944. Incumbent Governor Sidney Preston Osborn ran for reelection, and easily won the Democratic primary, with only token opposition as former Governor Robert Taylor Jones declined to challenge Osborn to a rematch following two losses, in 1940 and 1942.

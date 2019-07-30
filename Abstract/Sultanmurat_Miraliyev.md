@@ -1,1 +1,0 @@
-'''Sultanmurat Miraliyev ''' (born ) is a Kazakhstani male track cyclist, representing Kazakhstan at international competitions. He won the bronze medal at the 2016–17 UCI Track Cycling World Cup, Round 2 in Apeldoorn in the points race.[1][2]

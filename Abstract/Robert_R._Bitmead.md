@@ -1,1 +1,0 @@
-ROBERT R. BITMEAD is an Australian engineer, currently the Cymer Corporation Professor in High Performance Dynamical Systems at the University of California, San Diego Jacobs School of Engineering,[1] and a published author.[2][3] He is a member of the Institute of Electrical and Electronics Engineers.[4]

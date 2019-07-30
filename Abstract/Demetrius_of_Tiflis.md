@@ -1,1 +1,0 @@
-DEMETRIUS OF TIFLIS or DEMETRIO DA TIFLIZ was a 14th-century Christian layman and martyr from Georgia or Armenia. He is venerated in the Roman Catholic Church as one of the FOURMARTYRSOFTHANE, on April 9.[1]

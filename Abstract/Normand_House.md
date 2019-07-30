@@ -1,1 +1,0 @@
-The NORMAND HOUSE is a historic residential property at 163-65 Intervale Avenue in Burlington, Vermont. Built in 1869 as a single-family and enlarged into three units in 1890, it is a well-preserved example of period worker housing. It was listed on the National Register of Historic Places in 2008.[1]

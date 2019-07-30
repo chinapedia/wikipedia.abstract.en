@@ -1,1 +1,0 @@
-JOSEPH BEVAN ROBERTSON WHITNEY (born London, England; 1928 – 2016) was a political and environmental geographer.[1][2] He was a professor of geography at the University of Toronto,[3] and studied Chinese culture and politics.[4][5]

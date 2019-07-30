@@ -1,1 +1,0 @@
-BEAT IT DOWN THE LINE is a country-blues song written by Jesse Fuller and first recorded in 1961.[1] The lyrics mention "Joe Brown's Coal Mine", which refer to Joseph E. Brown, four times governor of Georgia and president of the Dale Coal Company who ran numerous coal mines in the state.[2]

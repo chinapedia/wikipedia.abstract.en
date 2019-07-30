@@ -1,1 +1,0 @@
-The TRACTEUR PANHARD-CHÂTILLON ( was a conventional-cabin, all-wheel drive truck produced between 1911 and 1918 by the French manufacturer Panhard. It was one of the first all-wheel drive trucks used by the French military.

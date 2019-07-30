@@ -1,1 +1,0 @@
-_UNICORNS!_ is a themed anthology of fantasy short works edited by American writers Jack Dann and Gardner Dozois. It was first published in paperback by Ace Books in May 1982, and reprinted by the same publisher in November 1982, June 1984, and October 1984. It was reissued as an ebook by Baen Books in March 2013. The book has also been translated into German.[1]

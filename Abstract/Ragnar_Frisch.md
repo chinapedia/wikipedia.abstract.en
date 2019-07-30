@@ -1,1 +1,0 @@
-RAGNAR ANTON KITTIL FRISCH (3 March 1895 – 31 January 1973) was a Norwegian economist and the co-recipient of the first Nobel Memorial Prize in Economic Sciences in 1969 (with Jan Tinbergen). He is known for being one of the founders of the discipline of econometrics, and for coining the widely used term pair macroeconomics/microeconomics in 1933.

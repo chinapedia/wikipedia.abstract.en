@@ -1,1 +1,0 @@
-JÚLIA GOLDMAN (born 25 September 25, 1974, Orosháza) is a Hungarian author, mathematician, teacher and programmer. She writes under the pseudonym J. GOLDENLANE. Goldenlane is a popular fantasy author in Hungary. She had a strong influence on the Hungarian sci-fi and fantasy generation that started in the 2010s.

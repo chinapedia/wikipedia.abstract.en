@@ -1,1 +1,0 @@
-upright=1.2 In economics, the LORENZ CURVE is a graphical representation of the distribution of income or of wealth. It was developed by Max O. Lorenz in 1905 for representing inequality of the wealth distribution.

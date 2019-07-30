@@ -1,1 +1,0 @@
-The PYRAMID OF KHENTKAUS II is a queen's pyramid in the necropolis of Abousir in Egypt, which was built during the Fifth dynasty of Ancient Egypt. It is attributed to the queen Khentkaus II, who may have ruled Egypt as a reigning queen after the death of her husband Neferirkare. The pyramid is now a heavily damaged ruin, which only stands 4 metres high.

@@ -1,1 +1,0 @@
-The 2016 WOMEN'S FOUR NATIONS TOURNAMENT (Torneio Quatro Nações) in Portuguese, was the 1st edition of the Women's Four Nations Tournament held in Belém, Brazil between 1–3 December as a Women's friendly handball tournament organised by the Brazilian Handball Confederation.[1]

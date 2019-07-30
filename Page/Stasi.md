@@ -32,8 +32,6 @@ The Ministry for State Security also included the following entities:
 -   _Main Department for Communications Security and Personnel Protection:_ provided personal security for the national leadership and maintained and operated an internal secure communications system for the government.
 -   _Penal System:_ to facilitate its mission of enforcing the political security of East Germany, the Stasi operated its own penal system, distinct from that of the Ministry of the Interior. This system comprised prison camps for political, as opposed to criminal, offenders.
 
-Bautzen_I.jpg
-
 
 Operations
 
@@ -129,7 +127,7 @@ During the Peaceful Revolution of 1989, Stasi offices were overrun by angry citi
 
 Storming the Stasi headquarters
 
-Bundesarchiv_Bild_183-1990-0116-013,_Berlin,_Stürmung_Stasi-Zentrale.jpg of being Nazi-like dictators (1990)]] With the fall of the German Democratic Republic the Stasi was dissolved. Stasi employees began to destroy the extensive files and documents they held, by hand, fire and with the use of shredders. When these activities became known, a protest began in front of the Stasi headquarters,[98] The evening of 15 January 1990 saw a large crowd form outside the gates calling for a stop to the destruction of sensitive files. The building contained vast records of personal files, many of which would form important evidence in convicting those who had committed crimes for the Stasi. The protesters continued to grow in number until they were able to overcome the police and gain entry into the complex. Once inside, specific targets of the protesters' anger were portraits of Erich Honecker and Erich Mielke which were trampled on or burnt. Among the protesters were former Stasi collaborators seeking to destroy incriminating documents.
+of being Nazi-like dictators (1990)]] With the fall of the German Democratic Republic the Stasi was dissolved. Stasi employees began to destroy the extensive files and documents they held, by hand, fire and with the use of shredders. When these activities became known, a protest began in front of the Stasi headquarters,[98] The evening of 15 January 1990 saw a large crowd form outside the gates calling for a stop to the destruction of sensitive files. The building contained vast records of personal files, many of which would form important evidence in convicting those who had committed crimes for the Stasi. The protesters continued to grow in number until they were able to overcome the police and gain entry into the complex. Once inside, specific targets of the protesters' anger were portraits of Erich Honecker and Erich Mielke which were trampled on or burnt. Among the protesters were former Stasi collaborators seeking to destroy incriminating documents.
 
 Controversy of the Stasi files
 
@@ -163,7 +161,7 @@ The CIA acquired some Stasi records during the looting of the Stasi's archives. 
 
 Museum in the old headquarters
 
-Stasi-statue.jpg The Anti-Stalinist Action Normannenstraße (ASTAK), an association founded by former GDR Citizens' Committees, has transformed the former headquarters of the Stasi into a museum. It is divided into three floors:
+The Anti-Stalinist Action Normannenstraße (ASTAK), an association founded by former GDR Citizens' Committees, has transformed the former headquarters of the Stasi into a museum. It is divided into three floors:
 
 -   Ground floor
 
@@ -242,7 +240,7 @@ Alleged informants
 
 See also
 
-Stasi_Barkas_B1000.JPG. On display at the Hohenschönhausen prison memorial in Berlin.]]
+. On display at the Hohenschönhausen prison memorial in Berlin.]]
 
 -   AVO
 -   Barkas (van manufacturer); Barkas B1000 van

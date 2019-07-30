@@ -1,1 +1,0 @@
-Petre_Antonescu.jpg

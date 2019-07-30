@@ -1,1 +1,0 @@
-The FOOD PRESERVERS' UNION OF AUSTRALIA (FPUA) was an Australian trade union which existed between 1898 and 1992. It represented a broad range of production workers in the food processing industry, including many female members.

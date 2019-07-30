@@ -54,7 +54,7 @@ Germans had occupied the area since 1897 and totally altered many aspects of eve
 
 World War I
 
-Battle_of_tanga.jpg, fought between the British and Germans during World War I]]
+, fought between the British and Germans during World War I]]
 
 Before the outbreak of the war, German East Africa had been prepared to resist any attack that could be made without extensive preparation.[20] For the first year of hostilities, the Germans were strong enough to conduct offensive operations in their neighbours' territories by, for example, repeatedly attacking railways in British East Africa.[21] The strength of German forces at the beginning of the war is uncertain.[22] Lieutenant-General Jan Smuts, the commander of British forces in east Africa beginning in 1916, estimated them at 2,000 Germans and 16,000 Askaris.[23] The white adult male population in 1913 numbered over 3,500 (exclusive of the German garrison).[24] In addition, the indigenous population of over 7,000,000 formed a reservoir of manpower from which a force might be drawn, limited only by the supply of German officers and equipment.[25] "There is no reason to doubt that the Germans made the best of this material during the ... nearly eighteen months which separated the outbreak of war from the invasion in force of their territory."[26]
 
@@ -117,7 +117,7 @@ Transition to independence
 
 In 1947, Tanganyika became a United Nations trust territory under British control. "It's geography, topography, climate, geopolitics, patterns of settlement and history made Tanganyika the most significant of all UN Trust Territories."[75] But two-thirds of the population lived in one-tenth of the territory because of water shortages, soil erosion, unreliable rainfall, tsetse fly infestations, and poor communications and transportation infrastructures.[76]
 
-BEA-KUT_1958_MiNr0097_pm_B002.jpg]] In 1957, only 15 towns had over 5,000 inhabitants, with the capital Dar es Salaam having the nation's highest population of 128,742.[77] Tanganyika was a multi-racial territory, which made it unique in the trusteeship world.[78] Its total non-African population in 1957 was 123,310 divided as follows: 95,636 Asians and Arabs (subdivided as 65,461 Indians, 6,299 Pakistanis, 4,776 Goans, and 19,100 Arabs), 3,114 Somalis, and 3,782 "coloured" and "other" individuals.[79] The white population, which included the Europeans (British, Italians, Greeks, and Germans) and white South Africans, totalled 20,598 individuals.[80] Tanganyika's ethnic and economic make-up posed problems for the British.[81] Their policy was geared to ensuring the continuance of the European presence as necessary to support the country's economy.[82] But the British also had to remain responsive to the political demands of the Africans.[83]
+]] In 1957, only 15 towns had over 5,000 inhabitants, with the capital Dar es Salaam having the nation's highest population of 128,742.[77] Tanganyika was a multi-racial territory, which made it unique in the trusteeship world.[78] Its total non-African population in 1957 was 123,310 divided as follows: 95,636 Asians and Arabs (subdivided as 65,461 Indians, 6,299 Pakistanis, 4,776 Goans, and 19,100 Arabs), 3,114 Somalis, and 3,782 "coloured" and "other" individuals.[79] The white population, which included the Europeans (British, Italians, Greeks, and Germans) and white South Africans, totalled 20,598 individuals.[80] Tanganyika's ethnic and economic make-up posed problems for the British.[81] Their policy was geared to ensuring the continuance of the European presence as necessary to support the country's economy.[82] But the British also had to remain responsive to the political demands of the Africans.[83]
 
 Many Africans were government servants, business employees, labourers, and producers of important cash crops during this period. But the vast majority were subsistence farmers who produced barely enough to survive.[84] The standards of housing, clothing, and other social conditions were "equally quite poor."[85] The Asians and Arabs were the middle class and tended to be wholesale and retail traders.[86] The white population were missionaries, professional and government servants, and owners and managers of farms, plantations, mines, and other businesses.[87] "White farms were of primary importance as producers of exportable agricultural crops."[88]
 
@@ -137,7 +137,7 @@ Zanzibar today refers to the island of that name, also known as Unguja, and the 
 
 Independence and Union of Tanganyika and Zanzibar
 
-The_National_Archives_UK_-_CO_1069-166-21.jpg demanding political independence for Tanganyika in 1961.]]
+demanding political independence for Tanganyika in 1961.]]
 
 In 1954, Julius Nyerere, a school teacher who was then one of only two Tanganyikans educated to university level, organized a political party—the Tanganyika African National Union (TANU). On 9 December 1961, Tanganyika became independent, though retaining the British monarch as Queen of Tanganyika, and Nyerere became Prime Minister, under a new constitution. On 9 December 1962, a republican constitution was implemented with _Mwalimu_ Julius Kambarage Nyerere as Tanganyika's first president.
 

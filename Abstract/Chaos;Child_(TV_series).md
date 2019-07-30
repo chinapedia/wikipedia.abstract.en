@@ -1,1 +1,0 @@
-is a 2017 anime series based on 5pb.'s video game of the same name, and is part of the _Science Adventure_ franchise. It was directed by Masato Jinbo at Silver Link, with music by Takeshi Abo and Onoken, and with main cast members from the video game reprising their roles.

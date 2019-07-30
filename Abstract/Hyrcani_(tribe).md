@@ -1,1 +1,0 @@
-Achaemenid_Empire.jpg showing Hyrcania and Lydia.]]The HYRCANI were a people group in the classical era. They were mentioned in both the southern coastline of the Caspian Sea and the Hermos River valley, in Lydia, (Turkey).

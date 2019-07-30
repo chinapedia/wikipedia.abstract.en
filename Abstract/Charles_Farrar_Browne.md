@@ -1,1 +1,0 @@
-CHARLES FARRAR BROWNE (April 26, 1834 – March 6, 1867) was an American humor writer, better known under his _nom de plume_, ARTEMUS WARD. He is considered to be America's first stand-up comedian.[1] His birth name was Brown but he added the "e" after he became famous.[2]

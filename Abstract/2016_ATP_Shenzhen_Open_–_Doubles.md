@@ -1,1 +1,0 @@
-Jonathan Erlich and Colin Fleming were the defending champions, but chose not to participate together. Erlich played alongside Santiago González, but lost in the quarterfinals to Mate Pavić and Michael Venus. Fleming teamed up with Scott Lipsky, but lost in the first round to Mikhail Kukushkin and Stéphane Robert.

@@ -1,1 +1,0 @@
-_TETRAGNATHA MONTANA_, commonly known as the SILVER STRETCH SPIDER,[1] is a species of long-jawed orb weaver from the family Tetragnathidae that has a Palearctic distribution. It preys mostly on flies and mosquitoes. The name silver stretch spider refers to its shiny metallic colour and its habit of extending its legs into a stick like shape.

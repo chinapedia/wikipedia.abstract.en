@@ -1,1 +1,0 @@
-_BEWARE OF DOGS_ is a 2014 Indian Malayalam-language comedy film directed by _Vishnu Prasad_.[1] The movie plots on four bachelors nicknamed Dogs by their house owner. The four boys are Dominic, Oomen, Gautam, Sunny.

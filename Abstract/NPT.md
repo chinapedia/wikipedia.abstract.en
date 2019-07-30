@@ -1,1 +1,0 @@
-NPT may refer to:

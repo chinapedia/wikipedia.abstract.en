@@ -1,1 +1,0 @@
-The PENNSYLVANIA ANATOMY ACT OF 1883 is legislation of the State of Pennsylvania to facilitate medical education. This act allowed teachers and students to be able to dissect bodies without have to resort to buying from grave robbers or buying body parts. This act was written to prevent grave robbing, and to even out the availability of corpses.

@@ -1,1 +1,0 @@
-PAUL ADEFARASIN (born 25 January 1963) is a Christian minister, author, televangelist and architect. He hosts the weekly television religious program, _Something Is About to Happen!_, which is broadcast throughout Africa and Europe. Adefarasin is also the head of the House on the Rock churches headquartered in Lagos and the host of The Experience (gospel concert).[1][2][3]

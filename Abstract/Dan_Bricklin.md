@@ -1,1 +1,0 @@
-DANIEL SINGER BRICKLIN (born 16 July 1951), often referred to as “The Father of the Spreadsheet”, is the American co-creator, with Bob Frankston, of the VisiCalc spreadsheet program. He also founded Software Garden, Inc., of which he is currently president, and Trellix[1] Corporation.[2][3] He currently serves as the chief technology officer of Alpha Software.[4]

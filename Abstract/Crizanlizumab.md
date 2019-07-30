@@ -1,1 +1,0 @@
-CRIZANLIZUMAB is a monoclonal antibody developed by Novartis targeted towards P-selectin. It was announced by the company as an effective drug to prevent vaso-occlusive crisis in patients with Sickle cell anemia. The result of the Phase II SUSTAIN clinical trial was published in December 2016.[1]

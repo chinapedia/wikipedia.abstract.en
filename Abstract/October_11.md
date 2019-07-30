@@ -1,1 +1,0 @@
-This date is slightly more likely to fall on a Tuesday, Sunday, or Thursday(58 times in 400 years) than a Friday or Saturday (57), and slightly less likely to fall on a Monday or Wednesday (56).

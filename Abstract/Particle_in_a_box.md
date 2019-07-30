@@ -1,1 +1,0 @@
-InfiniteSquareWellAnimation.gif of classical mechanics (A), and according to the Schrödinger equation of quantum mechanics (B–F). In (B–F), the horizontal axis is position, and the vertical axis is the real part (blue) and imaginary part (red) of the wavefunction. The states (B,C,D) are energy eigenstates, but (E,F) are not.]]

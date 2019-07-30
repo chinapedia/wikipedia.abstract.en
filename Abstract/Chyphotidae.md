@@ -1,1 +1,0 @@
-The CHYPHOTIDAE are a family of wasps similar to the Mutillidae, differing most visibly in the presence, in females, of a suture separating the pronotum from the mesonotum. These species are found primarily in arid regions in the southwestern United States and adjacent regions in Mexico.

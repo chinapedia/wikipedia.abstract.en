@@ -1,1 +1,0 @@
-The Indian Army base in Nagrota, Jammu and Kashmir was attacked on 29 November 2016 by a group of militants. During the ensuing gun battle, seven Indian soldiers, including two officers and all three militants were killed.[1][2][3][4]

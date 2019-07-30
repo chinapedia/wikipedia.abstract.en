@@ -1,1 +1,0 @@
-This is a list of named minor planets in numerical order. It contains a total of 21,922 named bodies. Minor planets for which no article exists are displayed with a grey color in italics and redirect to the list of minor planets _(see )_.[1]

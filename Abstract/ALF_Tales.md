@@ -1,1 +1,0 @@
-_ALF TALES_ is a 30-minute Saturday morning animated series that aired on NBC from September 10, 1988 to December 9, 1989. The show is a spin-off of _ALF: The Animated Series_ which featured characters from that series play various characters from fairy tales. The fairy tale was usually altered for comedic effect in a manner akin to Fractured Fairy Tales.

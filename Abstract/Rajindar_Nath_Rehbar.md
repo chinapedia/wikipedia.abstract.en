@@ -1,1 +1,0 @@
-RAJENDAR NATH REHBAR (born 5 November 1931) is an Urdu Poet and Bollywood lyricist. He is the writer of the nazm _Teri Khushboo Me Base Khat_ sung by ghazal singer Jagjit Singh. He is a disciple of the Urdu poet Ratan Pandoravi.[1][2][3]

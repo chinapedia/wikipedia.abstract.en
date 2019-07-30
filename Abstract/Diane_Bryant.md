@@ -1,1 +1,0 @@
-DIANE BRYANT is as an independent director and member of the compensation committee at Broadcom Inc. Prior, she was the chief operating officer of the Google Cloud Platform and she previously served as the group president of Intel’s data center group.

@@ -1,1 +1,0 @@
-ALFONSO IV, called THE KIND (also _the Gentle_ or _the Nice_, ) (2 November 1299 – 24 January 1336) was the King of Aragon[1] and Count of Barcelona[2] (as Alfonso III) from 1327 to his death. His reign saw the incorporation of the County of Urgell, Duchy of Athens, and Duchy of Neopatria into the Crown of Aragon.

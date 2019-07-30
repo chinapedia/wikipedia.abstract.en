@@ -1,1 +1,0 @@
-BONDERUP, also known as BONDERUPGÅRD, is a manor house located south of Holbæk, Denmark. It was purchased by the merchant Johannes Theodorus Suhr in 1852 and is now owned by the Suhr Family Trust (Den Suhrske Stiftelse).

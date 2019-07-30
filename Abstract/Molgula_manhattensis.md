@@ -1,1 +1,0 @@
-_MOLGULA MANHATTENSIS_, commonly known as "sea grapes", is a species of ascidian commonly found along the East Coast and Gulf Coast region of the United States. Although it is native to this region, it has been introduced to other areas of Europe, Australia, and the West Coast. They are not found on the West Pacific Coast of the United States.[1]

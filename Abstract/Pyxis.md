@@ -1,1 +1,0 @@
-PYXIS is a small and faint constellation in the southern sky. Abbreviated from PYXIS NAUTICA, its name is Latin for a mariner's compass (contrasting with Circinus, which represents a draftsman's compasses). Pyxis was introduced by Nicolas-Louis de Lacaille in the 18th century, and is counted among the 88 modern constellations.

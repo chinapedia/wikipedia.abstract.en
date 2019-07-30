@@ -1,1 +1,0 @@
-The YELLOW SPOTTED LONGICORN BEETLE (_PSACOTHEA HILARIS_) is a species of beetle in the family Cerambycidae. It was described by Francis Polkinghorne Pascoe in 1857. It is known from North Korea, China and Japan.[1]

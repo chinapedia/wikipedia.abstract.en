@@ -1,1 +1,0 @@
-WHITE RAVEN is a 2015 Canadian survivalist horror film directed by Andrew Moxham.[1]The movie takes its title from a native American legend about a white raven stealing light and giving it to the world.[2]White Raven stars Steve Bradley (She Who Must Burn) and Aaron Brooks (Alien Trespass).

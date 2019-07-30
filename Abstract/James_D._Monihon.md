@@ -1,1 +1,0 @@
-JAMES D. MONIHON (November 6, 1837September 2, 1904) was an American businessman and politician. He was a signatory to the formation of the Salt River Valley Town Association, the first government of the area that became Phoenix, and later served on the board of supervisors and as mayor of Phoenix.

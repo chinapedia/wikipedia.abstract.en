@@ -1,1 +1,0 @@
-Bas-Selfportrait2.jpg ADRIEN BAS (16 April 1884, Lyon - 2 May 1925, Lyon) was a French painter and pastellist. He was primarily known for landscapes, but also painted flowers, still-lifes, interiors and some portraits.

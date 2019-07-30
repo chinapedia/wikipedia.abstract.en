@@ -1,1 +1,0 @@
-KENTUCKY PUBLIC RADIO, doing business as LOUISVILLE PUBLIC MEDIA, is a non-profit organization that operates the three National Public Radio member stations in Louisville, Kentucky—news and talk WFPL, classical WUOL-FM, and adult album alternative WFPK.

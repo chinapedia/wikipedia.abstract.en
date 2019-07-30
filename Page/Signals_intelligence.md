@@ -1,4 +1,4 @@
-Menwith-hill-radomes.jpg, a large site in the United Kingdom, part of ECHELON and the UKUSA Agreement, 2005]] Bletchley_Park_last_German_intercept.JPG
+, a large site in the United Kingdom, part of ECHELON and the UKUSA Agreement, 2005]]
 
 SIGNALS INTELLIGENCE (SIGINT) is intelligence-gathering by interception of signals, whether communications between people (COMMUNICATIONS INTELLIGENCE—abbreviated to COMINT) or from electronic signals not directly used in communication (ELECTRONIC INTELLIGENCE—abbreviated to ELINT). Signals intelligence is a subset of intelligence collection management. As sensitive information is often encrypted, signals intelligence in turn involves the use of cryptanalysis to decipher the messages. Traffic analysis—the study of who is signaling whom and in what quantity—is also used to derive information.
 
@@ -13,7 +13,7 @@ The birth of signals intelligence in a modern sense dates from the Russo-Japanes
 
 Development in World War I
 
-Ztel2.jpg, as decoded by Room 40 in 1917.]] Over the course of the First World War, the new method of signals intelligence reached maturity.[3] Failure to properly protect its communications fatally compromised the Russian Army in its advance early in World War I and led to their disastrous defeat by the Germans under Ludendorff and Hindenburg at the Battle of Tannenberg. In 1918, French intercept personnel captured a message written in the new ADFGVX cipher, which was cryptanalyzed by Georges Painvin. This gave the Allies advance warning of the German 1918 Spring offensive.
+, as decoded by Room 40 in 1917.]] Over the course of the First World War, the new method of signals intelligence reached maturity.[3] Failure to properly protect its communications fatally compromised the Russian Army in its advance early in World War I and led to their disastrous defeat by the Germans under Ludendorff and Hindenburg at the Battle of Tannenberg. In 1918, French intercept personnel captured a message written in the new ADFGVX cipher, which was cryptanalyzed by Georges Painvin. This gave the Allies advance warning of the German 1918 Spring offensive.
 
 The British in particular built up great expertise in the newly emerging field of signals intelligence and codebreaking. On the declaration of war, Britain cut all German undersea cables.[4] This forced the Germans to use either a telegraph line that connected through the British network and could be tapped, or through radio which the British could then intercept.[5] Rear-Admiral Henry Oliver appointed Sir Alfred Ewing to establish an interception and decryption service at the Admiralty; Room 40.[6] An interception service known as 'Y' service, together with the post office and Marconi stations grew rapidly to the point where the British could intercept almost all official German messages.[7]
 
@@ -31,7 +31,7 @@ The US Cipher Bureau was established in 1919 and achieved some success at the Wa
 
 World War II
 
-Colossus.jpg. The ten Colossi were the world's first programmable electronic computers, and were built to break the German codes.]] The use of SIGINT had even greater implications during World War II. The combined effort of intercepts and cryptanalysis for the whole of the British forces in World War II came under the code name "Ultra" managed from Government Code and Cypher School at Bletchley Park. Properly used, the German Enigma and Lorenz ciphers should have been virtually unbreakable, but flaws in German cryptographic procedures, and poor discipline among the personnel carrying them out, created vulnerabilities which made Bletchley's attacks feasible.
+. The ten Colossi were the world's first programmable electronic computers, and were built to break the German codes.]] The use of SIGINT had even greater implications during World War II. The combined effort of intercepts and cryptanalysis for the whole of the British forces in World War II came under the code name "Ultra" managed from Government Code and Cypher School at Bletchley Park. Properly used, the German Enigma and Lorenz ciphers should have been virtually unbreakable, but flaws in German cryptographic procedures, and poor discipline among the personnel carrying them out, created vulnerabilities which made Bletchley's attacks feasible.
 
 Bletchley's work was essential to defeating the U-boats in the Battle of the Atlantic, and to the British naval victories in the Battle of Cape Matapan and the Battle of North Cape. In 1941, Ultra exerted a powerful effect on the North African desert campaign against German forces under General Erwin Rommel. General Sir Claude Auchinleck wrote that were it not for Ultra, "Rommel would have certainly got through to Cairo". "Ultra" decrypts featured prominently in the story of Operation SALAM, László Almásy's mission across the desert behind Allied lines in 1942.[17] Prior to the Normandy landings on D-Day in June 1944, the Allies knew the locations of all but two of Germany's fifty-eight Western-front divisions.
 
@@ -40,7 +40,7 @@ Winston Churchill was reported to have told King George VI: "It is thanks to the
 
 Technical definitions
 
-Har_Avital.jpg (the SIGINT unit of the Israeli Intelligence Corps) base on Mount Avital, Golan Heights]] A52_Oste.jpg ELINT (Electronic signals intelligence) and reconnaissance ship, of the German Navy]] 120715_Grondstation_Nationale_SIGINT_Organisatie_(NSO)_Burum_Fr_NL.jpg (NSO) (2012)]]
+(the SIGINT unit of the Israeli Intelligence Corps) base on Mount Avital, Golan Heights]] ELINT (Electronic signals intelligence) and reconnaissance ship, of the German Navy]] (NSO) (2012)]]
 
 The United States Department of Defense has defined the term "signals intelligence" as:
 
@@ -77,7 +77,7 @@ Knowledge of physics and electronic engineering further narrows the problem of w
 
 Signal detection
 
-Even if a signal is human communications (e.g., a radio), the intelligence collection specialists have to know it exists. If the targeting function described above learns that a country has a radar that operates in a certain frequency range, the first step is to use a sensitive receiver, with one or more antennas that listen in every direction, to find an area where such a radar is operating. Once the radar is known to be in the area, the next step is to find its location. SpectrumAnalyzer-Superhet.png display of superheterodyned, amplitude modulated signals.]] If operators know the probable frequencies of transmissions of interest, they may use a set of receivers, preset to the frequencies of interest. These are the frequency (horizontal axis) versus power (vertical axis) produced at the transmitter, before any filtering of signals that do not add to the information being transmitted. Received energy on a particular frequency may start a recorder, and alert a human to listen to the signals if they are intelligible (i.e., COMINT). If the frequency is not known, the operators may look for power on primary or sideband frequencies using a spectrum analyzer. Information from the spectrum analyzer is then used to tune receivers to signals of interest. For example, in this simplified spectrum, the actual information is at 800 kHz and 1.2 MHz. DirectionalSpectra.png Real-world transmitters and receivers usually are directional. In the figure to the left, assume that each display is connected to a spectrum analyzer connected to a directional antenna aimed in the indicated direction.
+Even if a signal is human communications (e.g., a radio), the intelligence collection specialists have to know it exists. If the targeting function described above learns that a country has a radar that operates in a certain frequency range, the first step is to use a sensitive receiver, with one or more antennas that listen in every direction, to find an area where such a radar is operating. Once the radar is known to be in the area, the next step is to find its location. display of superheterodyned, amplitude modulated signals.]] If operators know the probable frequencies of transmissions of interest, they may use a set of receivers, preset to the frequencies of interest. These are the frequency (horizontal axis) versus power (vertical axis) produced at the transmitter, before any filtering of signals that do not add to the information being transmitted. Received energy on a particular frequency may start a recorder, and alert a human to listen to the signals if they are intelligible (i.e., COMINT). If the frequency is not known, the operators may look for power on primary or sideband frequencies using a spectrum analyzer. Information from the spectrum analyzer is then used to tune receivers to signals of interest. For example, in this simplified spectrum, the actual information is at 800 kHz and 1.2 MHz. Real-world transmitters and receivers usually are directional. In the figure to the left, assume that each display is connected to a spectrum analyzer connected to a directional antenna aimed in the indicated direction.
 
 Countermeasures to interception
 
@@ -119,7 +119,7 @@ Generating an ELECTRONIC ORDER OF BATTLE (EOB) requires identifying SIGINT emitt
 
 :# TACDB: platform lists, sorted by nomenclature, which contain links to the C-E equipment complement of each platform, with links to the parametric data for each piece of equipment, military unit lists and their subordinate units with equipment used by each unit.
 
-JSC-Databases-and-Flow.GIF For example, several voice transmitters might be identified as the command net (i.e., top commander and direct reports) in a tank battalion or tank-heavy task force. Another set of transmitters might identify the logistic net for that same unit. An inventory of ELINT sources might identify the medium- and long-range counter-artillery radars in a given area.
+For example, several voice transmitters might be identified as the command net (i.e., top commander and direct reports) in a tank battalion or tank-heavy task force. Another set of transmitters might identify the logistic net for that same unit. An inventory of ELINT sources might identify the medium- and long-range counter-artillery radars in a given area.
 
 Signals intelligence units will identify changes in the EOB, which might indicate enemy unit movement, changes in command relationships, and increases or decreases in capability.
 
@@ -241,7 +241,7 @@ Still at the research level are techniques that can only be described as counter
 
 SIGINT versus MASINT
 
-SAR-Lupe.jpg reconnaissance satellite inside a Soviet Cosmos-3M rocket.]]
+reconnaissance satellite inside a Soviet Cosmos-3M rocket.]]
 
 Signals intelligence and measurement and signature intelligence (MASINT) are closely, and sometimes confusingly, related.[32] The signals intelligence disciplines of communications and electronic intelligence focus on the information in those signals themselves, as with COMINT detecting the speech in a voice communication or ELINT measuring the frequency, pulse repetition rate, and other characteristics of a radar.
 

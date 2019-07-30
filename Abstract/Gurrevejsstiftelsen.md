@@ -1,1 +1,0 @@
-GURREVEJSSTIFTELSEN, also known as HELSINGØR KOMMUNES ALDERDOMSSTIFTELSE is a residential complex for senior citizens in Helsingør, Denmark. Built in 1918–1921 to design by Poul Holsøe, it is an early manifestation of the emerging welfare state and became a model for similar projects. It was listed in 1995.

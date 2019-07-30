@@ -1,1 +1,0 @@
-Out_of_the_Ordinary.jpg _OUT OF THE ORDINARY_ is the fourth play by Alex Vickery-Howe following _A Stab in the Dark_, _Once Upon a Midnight_ and _Molly's Shoes_. It was published by Currency Press in October 2016. The play 'follows the story of Theodora Sprout, a perpetually defensive, cynical and uptight twenty-something desperate to escape her wild parents.'[1]

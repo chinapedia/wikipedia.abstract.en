@@ -1,4 +1,4 @@
-Field_Hamois_Belgium_Luc_Viatour.jpg]]
+]]
 
 SUMMER is the hottest of the four temperate seasons, falling after spring and before autumn. At the summer solstice, the days are longest and the nights are shortest, with day length decreasing as the season progresses after the solstice. The date of the beginning of summer varies according to climate, tradition, and culture. When it is summer in the Northern Hemisphere, it is winter in the Southern Hemisphere, and vice versa.
 
@@ -22,11 +22,11 @@ Because the temperature lag is shorter in the oceanic temperate southern hemisph
 
 Weather
 
-Darwin_1824.jpg at night in Darwin, Australia.]]
+at night in Darwin, Australia.]]
 
 Summer is traditionally associated with hot or warm weather. In the Mediterranean regions, it is also associated with dry weather, while in other places (particularly in Eastern Asia because of the Monsoon) it is associated with rainy weather. The wet season is the main period of vegetation growth within the savanna climate regime.[14] Where the wet season is associated with a seasonal shift in the prevailing winds, it is known as a monsoon.[15]
 
-Hurricane_Lester_22_aug_1992_2246Z.jpg from late August 1992.]]
+from late August 1992.]]
 
 In the northern Atlantic Ocean, a distinct tropical cyclone season occurs from 1 June to 30 November.[16] The statistical peak of the Atlantic hurricane season is 10 September. The Northeast Pacific Ocean has a broader period of activity, but in a similar time frame to the Atlantic.[17] The Northwest Pacific sees tropical cyclones year-round, with a minimum in February and March and a peak in early September. In the North Indian basin, storms are most common from April to December, with peaks in May and November.[18] In the Southern Hemisphere, the tropical cyclone season runs from 1 November until the end of April with peaks in mid-February to early March.[19][20]
 
@@ -63,7 +63,7 @@ A wide range of public holidays fall during summer, including:
 
 Activities
 
-Atlantic_Ocean_shoreline_in_Myrtle_Beach,_South_Carolina.jpg shoreline in Myrtle Beach, South Carolina in summer]] People generally take advantage of the high temperatures by spending more time outdoors during summer. Activities such as travelling to the beach and picnics occur during the summer months. Sports such as soccer, basketball, football, volleyball, skateboarding, baseball, softball, cricket, tennis and golf are played. Water sports also occur. These include water skiing, wakeboarding, swimming, surfing, tubing and water polo. The modern Olympics have been held during the summer months every four years since 1896. The 2000 Summer Olympics, in Sydney, however, were held during the Australian Spring.
+shoreline in Myrtle Beach, South Carolina in summer]] People generally take advantage of the high temperatures by spending more time outdoors during summer. Activities such as travelling to the beach and picnics occur during the summer months. Sports such as soccer, basketball, football, volleyball, skateboarding, baseball, softball, cricket, tennis and golf are played. Water sports also occur. These include water skiing, wakeboarding, swimming, surfing, tubing and water polo. The modern Olympics have been held during the summer months every four years since 1896. The 2000 Summer Olympics, in Sydney, however, were held during the Australian Spring.
 
 Summer is normally a low point in television viewing, and television schedules generally reflect this by not scheduling new episodes of their most popular shows between the end of May sweeps and the beginning of the television season in September, instead scheduling low-cost reality television shows and burning off commitments to already-cancelled series. There is an exception to this with children's television. Many television shows made for children and are popular with children are released during the summer months, especially on children's cable channels such as the Disney Channel in the United States, as children are off school. Disney Channel, for example, ends its preschool programming earlier in the day for older school age children in the summer months while it reverts to the original scheduling as the new school year begins. Conversely, the music and film industries generally experience higher returns during the summer than other times of the year and market their summer hits accordingly. Summer is most popular for animated movies to be released theatrically in movie theaters.
 

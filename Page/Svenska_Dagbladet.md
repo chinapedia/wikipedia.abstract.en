@@ -3,7 +3,7 @@ _SVENSKA DAGBLADET_ (, "The Swedish Daily News"), abbreviated SVD, is a daily ne
 
 History and profile
 
-Svenska_Dagbladet_first_issue.jpg Svenska_Dagbladet_1897-05-02_1.jpg Anders_Tengbom_hus_1.jpg SvD_huset_i_Klara.JPG.[1] Architects Ullrich & Hallquist. Year built 1897]] Kungsbrohuset1.JPG district]] Svenska_Dagbladets_tryckeri_1951.jpg in 1951]] The first issue of _Svenska Dagbladet_ appeared on 18 December 1884. Ivar Anderson is among its former editors-in-chief who assumed the post in 1940.[2]
+.[1] Architects Ullrich & Hallquist. Year built 1897]] district]] in 1951]] The first issue of _Svenska Dagbladet_ appeared on 18 December 1884. Ivar Anderson is among its former editors-in-chief who assumed the post in 1940.[2]
 
 The paper is published in Stockholm and provides coverage of national and international news as well as local coverage of the Greater Stockholm region. Its subscribers are concentrated in the capital, but it is distributed in most of Sweden. During the beginning of the 1900s the paper was one of the right-wing publications in Stockholm.[3]
 

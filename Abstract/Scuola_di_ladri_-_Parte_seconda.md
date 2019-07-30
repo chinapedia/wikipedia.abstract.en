@@ -1,1 +1,0 @@
-_SCUOLA DI LADRI - PARTE SECONDA_ is a 1987 Italian comedy film directed by Neri Parenti starring Enrico Maria Salerno, who reprised his role of thief Aliprando, with Paolo Villaggio and Massimo Boldi. It is the sequel to the 1986 film Scuola di ladri[1]

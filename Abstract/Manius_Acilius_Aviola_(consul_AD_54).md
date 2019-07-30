@@ -1,1 +1,0 @@
-MANIUS ACILIUS AVIOLA was a senator of the Roman Empire. He was _consul ordinarius_ in AD 54 with Marcus Asinius Marcellus as his colleague. Aviola is also recorded as being governor of Asia in 65/66.[1] According to Brian Jones, Aviola was also _curator aquarum_ (or "superintendent of the aqueducts") from 74 to 97.[2] He is known almost solely from surviving inscriptions.

@@ -1,1 +1,0 @@
-The SALERNO HARBOUR STATION is maritime station located on the pier of the commercial port of the city of Salerno, and is directly linked with the costruenda Freedom Square and the city's waterfront .

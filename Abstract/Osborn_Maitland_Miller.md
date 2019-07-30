@@ -1,1 +1,0 @@
-OSBORN MAITLAND MILLER (1897–1979) was a Scottish-American cartographer, surveyor and aerial photographer. A member of several expeditions himself, he also acted as adviser to other explorers. He developed several map projections, including the Bipolar Oblique Conic Conformal, the Miller Oblated Stereographic, and most notably the Miller Cylindrical in 1942.

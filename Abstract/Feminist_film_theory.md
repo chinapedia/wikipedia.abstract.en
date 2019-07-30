@@ -1,1 +1,0 @@
-FEMINIST FILM THEORY is a theoretical film criticism derived from feminist politics and feminist theory. Feminists have many approaches to cinema analysis, regarding the film elements analyzed and their theoretical underpinnings.

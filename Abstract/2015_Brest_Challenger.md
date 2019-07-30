@@ -1,1 +1,0 @@
-The 2015 BREST CHALLENGER was a professional tennis tournament played on hard courts. It was the first edition of the tournament which was part of the 2015 ATP Challenger Tour. It took place at the Brest Arena in Brest, France between 19 and 25 October 2015.

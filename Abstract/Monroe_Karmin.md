@@ -1,1 +1,0 @@
-MONROE WILLIAM ("BUD") KARMIN (September 2, 1929 – January 15, 1999) was an American journalist. He won a Pulitzer Prize in 1967 when working as an investigative reporter for the _Wall Street Journal_. He also worked at different times for _The Chicago Daily News,_ _The Chicago Sun-Times,_ and _Newsday._

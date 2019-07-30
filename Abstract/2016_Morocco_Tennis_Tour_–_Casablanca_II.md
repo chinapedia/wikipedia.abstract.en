@@ -1,1 +1,0 @@
-The 2016 MOROCCO TENNIS TOUR – CASABLANCA II was a professional tennis tournament played on clay courts. It was the second edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Casablanca, Morocco between 10 and 15 October 2016.

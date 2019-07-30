@@ -1,1 +1,0 @@
-Circuit_Fuji.svg The 2016 6 HOURS OF FUJI was an endurance sports car racing event held at the Fuji Speedway, Oyama, Japan on 14–16 October 2016, and served as the seventh race of the 2016 FIA World Endurance Championship. Toyota's Stéphane Sarrazin, Mike Conway and Kamui Kobayashi won the race driving the No. 6 Toyota Gazoo Racing car.

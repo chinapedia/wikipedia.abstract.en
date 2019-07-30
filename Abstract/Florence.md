@@ -1,1 +1,0 @@
-FLORENCE ( ; , ; Tuscan: _Fiorenza_)[1] is a city in central Italy and the capital city of the Tuscany region. It is the most populous city in Tuscany, with 383,084 inhabitants in 2013, and over 1,520,000 in its metropolitan area.[2]

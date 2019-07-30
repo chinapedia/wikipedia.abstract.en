@@ -1,1 +1,0 @@
-The 2017 BRDC BRITISH FORMULA 3 CHAMPIONSHIP is a motor racing championship for open wheel, formula racing cars held across England and Belgium. The season began at Oulton Park on 15 April and ended on 25 September at Donington Park, after eight triple header events for a total of twenty-four races.

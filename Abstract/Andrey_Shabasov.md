@@ -1,1 +1,0 @@
-ANDREY DMITRIEVICH SHABASOV (; born 20 June 1994) is a Russian swimmer. He competed at the 2016 Summer Olympics in the men's 200 metre backstroke event; his time of 1:56.84 in the semifinals did not qualify him for the final.[1][2]

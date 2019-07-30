@@ -1,1 +1,0 @@
-In the run up to the 2014 Slovenian parliamentary election, various organisations carried out opinion polling to gauge voting intention in Slovenia. Results of such polls are displayed in this article.

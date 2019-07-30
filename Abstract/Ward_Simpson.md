@@ -1,1 +1,0 @@
-WARD SIMPSON is a businessman, Bible teacher and media executive. He was appointed President and CEO of GOD TV on 1 October 2016.[1] Originally from Barbados, he has lived in the United States for 20 years.

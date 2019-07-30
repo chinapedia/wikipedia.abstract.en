@@ -1,1 +1,0 @@
-ROUSAY ( meaning Rolf's Island) is a small, hilly island about north of Mainland, the largest island in the Orkney Islands of Scotland, and has been nicknamed "the Egypt of the north", due to its archaeological diversity and importance.

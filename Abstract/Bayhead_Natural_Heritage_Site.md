@@ -1,1 +1,0 @@
-BAYHEAD NATURAL HERITAGE SITE is a 20ha nature reserve of mangrove forest and coastal grassland within the industrial area of Durban Bay, South Africa. [1] The reserve is a remnant of what was once the largest mangrove swamp in the province.[2][3]

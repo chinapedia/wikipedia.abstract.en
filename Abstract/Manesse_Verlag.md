@@ -1,1 +1,0 @@
-The MANESSE VERLAG is a German publishing house for classical literature, founded in 1944 in Zürich. It belongs today to Random House publishing group based in Munich. The publishing house is mainly known for its library of world literature.[1] It also publishes first and new translations of classical works. Manesse is directed by Horst Lauinger.[2]

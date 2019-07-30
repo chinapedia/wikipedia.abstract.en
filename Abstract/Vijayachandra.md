@@ -1,1 +1,0 @@
-VIJAYA-CHANDRA (IAST: Vijayacandra, r. c. 1155-1169 CE) was an Indian king from the Gahadavala dynasty. He ruled the Antarvedi country in the Gangetic plains, which includes a major part of the present-day eastern Uttar Pradesh, including Varanasi. He probably also ruled some parts of western Bihar through his feudatories. He is believed to have repulsed a Ghaznavid invasion.

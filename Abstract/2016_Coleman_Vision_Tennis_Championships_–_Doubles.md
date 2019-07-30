@@ -1,1 +1,0 @@
-Paula Cristina Gonçalves and Sanaz Marand were the defending champions, but chose not to participate together. Gonçalves partnered Verónica Cepede Royg, while Marand partnered Melanie Oudin, but both pairs lost in the first round.

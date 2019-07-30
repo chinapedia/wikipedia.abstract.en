@@ -1,1 +1,0 @@
-The RIVER ERRIFF (Abhainn na hOirimhe) is a river in Ireland, flowing through County Mayo.[1] A spate river, it is characterised by lively streams and deep fish-holding pools.[2].Near the mouth of the river a spectacular wallfall called AASLEAGH FALLS (Eas Liath) is situated.

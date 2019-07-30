@@ -1,1 +1,0 @@
-Singer |logo = Singer 2017.jpg |season = 5 |first_aired = |last_aired = |judges = 500 public audiences |host = |broadcaster = Hunan Television |finalsvenue = Hunan Broadcasting System |image = |winner-name = Sandy Lam |caption = |winner-origin = Hong Kong |winner-genre = Cantopop, Mandopop, J-pop |winner-song = Leslie Forever medley (Cantonese)

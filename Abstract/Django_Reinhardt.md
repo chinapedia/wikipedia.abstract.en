@@ -1,1 +1,0 @@
-JEAN REINHARDT (23 January 1910 – 16 May 1953) stage name DJANGO REINHARDT ( or ), was a Belgian-born Romani-French jazz guitarist and composer, regarded as one of the greatest musicians of the twentieth century. He was the first jazz talent to emerge from Europe and remains the most significant.[1][2]

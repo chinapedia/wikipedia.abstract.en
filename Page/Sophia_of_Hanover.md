@@ -5,12 +5,12 @@ Born to Frederick V of the Palatinate, a member of the House of Wittelsbach, and
 
 Early life
 
-Sophie_von_der_Pfalz_als_Indianerin.jpg]] A daughter of Frederick V of the Palatinate by Elizabeth Stuart, also known as the "Winter King and Queen of Bohemia" for their short rule in that country, Sophia was born in The Wassenaer Hof, The Hague, Dutch Republic, where her parents had fled into exile after the Battle of White Mountain. Through her mother, she was the granddaughter of James VI and I, king of Scotland and England.[2] At birth, Sophia was granted an annuity of 40 thalers by the Estates of Friesland. Sophia was courted by her first cousin, Charles II of England, but she rebuffed his advances as she thought he was using her in order to get money from her mother's supporter, Lord William Craven.[3]
+]] A daughter of Frederick V of the Palatinate by Elizabeth Stuart, also known as the "Winter King and Queen of Bohemia" for their short rule in that country, Sophia was born in The Wassenaer Hof, The Hague, Dutch Republic, where her parents had fled into exile after the Battle of White Mountain. Through her mother, she was the granddaughter of James VI and I, king of Scotland and England.[2] At birth, Sophia was granted an annuity of 40 thalers by the Estates of Friesland. Sophia was courted by her first cousin, Charles II of England, but she rebuffed his advances as she thought he was using her in order to get money from her mother's supporter, Lord William Craven.[3]
 
 
 Marriage
 
-Sophie_of_Hanover.jpg Before her marriage, Sophia, as the daughter of Frederick V, Elector Palatine of the Rhine, was referred to as Sophie, Princess Palatine of the Rhine, or as Sophia of the Palatinate. The Electors of the Palatinate were the Calvinist senior branch of House of Wittelsbach, whose Catholic branch ruled the Electorate of Bavaria.
+Before her marriage, Sophia, as the daughter of Frederick V, Elector Palatine of the Rhine, was referred to as Sophie, Princess Palatine of the Rhine, or as Sophia of the Palatinate. The Electors of the Palatinate were the Calvinist senior branch of House of Wittelsbach, whose Catholic branch ruled the Electorate of Bavaria.
 
 On 30 September 1658, she married Ernest Augustus, Duke of Brunswick-Lüneburg, at Heidelberg, who in 1692 became the first Elector of Hanover.[4] Ernest August was a second cousin of Sophia's mother Elizabeth Stuart, as they were both great-grandchildren of Christian III of Denmark.
 
@@ -18,7 +18,7 @@ Sophia became a friend and admirer of Gottfried Leibniz while he was librarian a
 
 Issue
 
-Sophia had seven children who reached adulthood. They were: Jacobite_broadside_-_Electress_Sophia_and_her_daughter.jpg
+Sophia had seven children who reached adulthood. They were:
 
 -   George I of Great Britain (1660–1727)
 -   Frederick Augustus of Brunswick-Lüneburg (1661–90), Imperial General
@@ -35,7 +35,7 @@ Sophia was, at first, against the marriage of her son and Sophia Dorothea of Cel
 
 Heir presumptive
 
-In September 1700, Sophia met her cousin King William III of England at Loo. This happened just two months after the death of his nephew Prince William, Duke of Gloucester, son of the future Queen Anne. By this time, given the ailing William III's reluctance to remarry, the inclusion of Sophia in the line of succession was becoming more likely,[10] because she was a Protestant, as was her son. Her candidature was also aided by the fact that she had grown up in the Netherlands close to William III and was able to converse fluently with him in Dutch, his native tongue. Kurfuerstin_Sophie.JPG A year after their meeting, the Parliament of England passed the Act of Settlement 1701 declaring that, in the event of no legitimate issue from Anne or William III, the crowns of England and Scotland were to settle upon "the most excellent princess Sophia, electress and duchess-dowager of Hanover" and "the heirs of her body, being Protestant". The key excerpt from the Act, naming Sophia as heir presumptive, reads:
+In September 1700, Sophia met her cousin King William III of England at Loo. This happened just two months after the death of his nephew Prince William, Duke of Gloucester, son of the future Queen Anne. By this time, given the ailing William III's reluctance to remarry, the inclusion of Sophia in the line of succession was becoming more likely,[10] because she was a Protestant, as was her son. Her candidature was also aided by the fact that she had grown up in the Netherlands close to William III and was able to converse fluently with him in Dutch, his native tongue. A year after their meeting, the Parliament of England passed the Act of Settlement 1701 declaring that, in the event of no legitimate issue from Anne or William III, the crowns of England and Scotland were to settle upon "the most excellent princess Sophia, electress and duchess-dowager of Hanover" and "the heirs of her body, being Protestant". The key excerpt from the Act, naming Sophia as heir presumptive, reads:
 
   Therefore for a further Provision of the Succession of the Crown in the Protestant Line We Your Majesties most dutifull and Loyall Subjects the Lords Spirituall and Temporall and Commons in this present Parliament assembled do beseech Your Majesty that it may be enacted and declared and be it enacted and declared by the Kings most Excellent Majesty by and with the Advice and Consent of the Lords Spirituall and Temporall and Commons in this present Parliament assembled and by the Authority of the same That the most Excellent Princess Sophia Electress and Dutchess Dowager of Hannover Daughter of the most Excellent Princess Elizabeth late Queen of Bohemia Daughter of our late Sovereign Lord King James the First of happy Memory be and is hereby declared to be the next in Succession in the Protestant Line to the Imperiall Crown and Dignity of the forsaid Realms of England France and Ireland with the Dominions and Territories thereunto belonging after His Majesty and the Princess Anne of Denmark and in Default of Issue of the said Princess Anne and of His Majesty respectively.
 
@@ -46,7 +46,7 @@ When the law was passed in mid-1701, Sophia (age 70), five of her children (ages
 
 Death and legacy
 
-Unbekannt,_Maison_de_Plaisir_d'Herrenhausen,_c1708..jpg and the Great Garden, ca 1708]]
+and the Great Garden, ca 1708]]
 
 Although considerably older than Queen Anne, Sophia enjoyed much better health. According to the Countess of Bückeburg in a letter to Sophia's niece, the Raugravine Luise,[17] on 5 June 1714 Sophia felt ill after receiving an angry letter from Queen Anne. Two days later she was walking in the gardens of Herrenhausen when she ran to shelter from a sudden downpour of rain and collapsed and died, aged 83—a very advanced age for the era.[18] Just over a month later, in August, Queen Anne died at the age of 49. Had Anne predeceased Sophia, Sophia would have been the oldest person to ascend the British throne.
 

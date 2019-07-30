@@ -1,1 +1,0 @@
-VALBY is an unincorporated community in Morrow County, Oregon, United States. Valby is the site of a Swedish Lutheran church, built in 1897 by settlers of Swedish descent north of Eightmile.[1] The place name _valby_ or _vallby_ is Swedish for a _community of sheepherders_.[2] Eightmile is along Oregon Route 206 between Condon and Heppner.[3]

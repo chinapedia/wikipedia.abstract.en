@@ -1,1 +1,0 @@
-Tyburn_tree.jpg THOMAS COX (c. 1665 – 12 September 1690), known as "The Handsome Highwayman", was an English highwayman, sentenced to death and hanged at Tyburn. He had a reputation for a spirited nature and it is reported that when asked if he wished to say a prayer before being hanged, he kicked the ordinary and the hangman out of the cart taking him there.

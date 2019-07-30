@@ -1,1 +1,0 @@
-RHONDA MULLINS (born 1966)[1] is a Canadian literary translator, who won the Governor General's Award for French to English translation at the 2015 Governor General's Awards for _Twenty-One Cardinals_, her translation of Jocelyne Saucier's _Les Héritiers de la mine_.[2]

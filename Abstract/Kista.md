@@ -1,1 +1,0 @@
-Kista-flygbild.jpg Kistavictoriahotelnr1_Publish.jpg

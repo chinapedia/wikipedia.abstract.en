@@ -1,1 +1,0 @@
-The COLLEGE OF SCIENCE AT THE UNIVERSITY OF UTAH is an academic college of the University of Utah in Salt Lake City, Utah. The college offers undergraduate and graduate degrees in Biology, Chemistry, Mathematics, Physics, and Astronomy.

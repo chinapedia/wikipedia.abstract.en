@@ -1,1 +1,0 @@
-Shivani_kataria.jpg SHIVANI KATARIA (born 27 September 1997) is an Indian swimmer who competes in the women's 200m freestyle.[1] She holds many national records and she in unusual to be an Indian woman swimmer at Commonwealth games.

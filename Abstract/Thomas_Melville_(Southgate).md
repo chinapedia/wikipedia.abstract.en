@@ -1,1 +1,0 @@
-Thomas_Melville.jpg Thomas_Melville_grave_Southgate_Cemetery.jpg THOMAS MELVILLE (7 October 1852[1][2] – 13 November 1942) was a Scottish Presbyterian resident in London who was a member of Southgate Urban District Council and chairman of the council during the First World War.

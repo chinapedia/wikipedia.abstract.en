@@ -1,1 +1,0 @@
-The 2016 DRIVE DMACK FIESTA TROPHY is the third season of the Drive DMACK Fiesta Trophy, an auto racing championship recognized by the Fédération Internationale de l'Automobile, running in support of the World Rally Championship. It uses Ford Fiesta R2Ts.

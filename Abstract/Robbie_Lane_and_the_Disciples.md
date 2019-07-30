@@ -1,1 +1,0 @@
-ROBBIE LANE AND THE DISCIPLES is a Canadian rock band, that peaked in the 1960s.[1] A cover of Neil Sedaka's "What Am I Gonna Do" was their biggest success, reaching #10 in 1966.[2] They also recorded an early version of the hit song "Soul Deep" in 1966.

@@ -1,1 +1,0 @@
-Mieczysław_Ostojski.jpg MIECZYSLAW STEFAN OSTOJSKI (born 1 January 1954) was the second vice-president of the World Meteorological Organization and former director general of the Polish Institute of Meteorology and Water Management.

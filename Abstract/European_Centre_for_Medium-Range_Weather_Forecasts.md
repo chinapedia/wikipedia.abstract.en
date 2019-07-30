@@ -1,1 +1,0 @@
-The EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS (ECMWF) is an independent intergovernmental organisation supported by most of the nations of Europe and is based at Shinfield Park, Reading, United Kingdom. It operates one of the largest supercomputer complexes in Europe and the world's largest archive of numerical weather prediction data.[1]

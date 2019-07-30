@@ -1,1 +1,0 @@
-ELLEN _KRISTINA_ ABELLI ELANDER (born 25 June 1952) is a Swedish artist.[1] She received her education at Birkagårdens folkhögskola between 1972 and 1973, and made her solo debut at Galleri Händer in Stockholm in 1978.[2] Early on, she worked with paintings in acrylic and canvas, and openly criticized the gender issues of the time.[3]

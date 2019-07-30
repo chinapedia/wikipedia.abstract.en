@@ -1,1 +1,0 @@
-The BATTLE OF BOUVINES was fought on 27 July 1214 near the town of Bouvines in the County of Flanders. It was the concluding battle of the Anglo-French War of 1213–1214. A French army of approximately 7,000 men commanded by King Philip Augustus defeated an Allied army of approximately 9,000 commanded by Holy Roman Emperor Otto IV.

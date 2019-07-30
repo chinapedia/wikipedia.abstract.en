@@ -1,1 +1,0 @@
-GUSSERANE O'RAHILLY'S club is a Gaelic Athletic Association club located in Ballycullane, County Wexford, Ireland. The club fields teams in both hurling and Gaelic football in Wexford GAA competitions.

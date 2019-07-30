@@ -1,1 +1,0 @@
-SANDUNI ABEYWICKREMA (born 12 December 1982) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against India on 15 December 2006.[2]

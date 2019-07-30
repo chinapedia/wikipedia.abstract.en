@@ -1,1 +1,0 @@
-EDITH FRANCIS CROWDY CBE (25 August 1880 – 23 July 1947) was the Deputy Director of the Women's Royal Naval Service,[1] and served as the first general secretary of the World Association of Girl Guides and Girl Scouts.

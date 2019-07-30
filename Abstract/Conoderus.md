@@ -1,1 +1,0 @@
-_CONODERUS_ is a genus of click beetles in the family Elateridae. There are at least 30 described species in _Conoderus_.[1][2][3][4] Species of _Conoderus_ complete their development in one year. Conoderus_vespertinus_P1090487a.jpg

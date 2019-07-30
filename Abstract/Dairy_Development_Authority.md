@@ -1,1 +1,0 @@
-The DAIRY DEVELOPMENT AUTHORITY (DDA) is a government agency of Uganda, responsible for the provision of dairy development and regulatory services to promote increased, sustainable milk production and consumption and the attainment of a profitable dairy industry sector, increased economic development and improved nutritional status of Ugandans.[1]

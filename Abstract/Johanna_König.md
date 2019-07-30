@@ -1,1 +1,0 @@
-JOHANNA KÖNIG (27 March 1921 – 3 March 2009) was a German actress.[1] She appeared in more than 50 films and television shows between 1952 and 1999. König was born in Leipzig, Germany and died in Berlin on 3 March 2009.

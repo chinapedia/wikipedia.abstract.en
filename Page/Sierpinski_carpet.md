@@ -1,5 +1,3 @@
-Animated_Sierpinski_carpet.gif
-
 The SIERPINSKI CARPET is a plane fractal first described by Wacław Sierpiński in 1916. The carpet is one generalization of the Cantor set to two dimensions; another is the Cantor dust.
 
 The technique of subdividing a shape into smaller copies of itself, removing one or more copies, and continuing recursively can be extended to other shapes. For instance, subdividing an equilateral triangle into four equilateral triangles, removing the middle triangle, and recursing leads to the Sierpinski triangle. In three dimensions, a similar construction based on cubes is known as the Menger sponge.
@@ -36,12 +34,10 @@ The Sierpinski carpet can also be created by iterating every pixel in a square a
 
 Process
 
-Sierpinski_carpet_1.svg Sierpinski_carpet_2.svg Sierpinski_carpet_3.svg Sierpinski_carpet_4.svg Sierpinski_carpet_5.svg Sierpinski_carpet_6.svg
-
 
 Properties
 
-Peano_Sierpinski_carpet_4.svg with the middle line erased creates a Sierpinski carpet]]
+with the middle line erased creates a Sierpinski carpet]]
 
 The area of the carpet is zero (in standard Lebesgue measure).
 
@@ -73,8 +69,6 @@ The topic of Brownian motion on the Sierpinski carpet has attracted interest in 
 
 
 Wallis sieve
-
-Wallis_sieve_iteration_3.png
 
 A variation of the Sierpinski carpet, called the WALLIS SIEVE, starts in the same way, by subdividing the unit square into nine smaller squares and removing the middle of them. At the next level of subdivision, it subdivides each of the squares into 25 smaller squares and removes the middle one, and it continues at the th step by subdividing each square into (the odd squares[6]) smaller squares and removing the middle one.
 

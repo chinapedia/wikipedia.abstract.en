@@ -1,1 +1,0 @@
-27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_(181-4).jpg

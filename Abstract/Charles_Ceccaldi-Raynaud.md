@@ -1,1 +1,0 @@
-{{ infobox Politician | name = Charles Ceccaldi-Raynaud | honorific-prefix = | honorific-suffix = | image = Charles Ceccaldi-Raynaud, 2005 (cropped).jpg | office = Mayor of Puteaux | term_start = 1969 | term_end = 2004 | predecessor = Georges Dardel | successor = Joëlle Ceccaldi-Raynaud | office2 = Member of the French Senate

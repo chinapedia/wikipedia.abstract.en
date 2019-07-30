@@ -1,1 +1,0 @@
-Motte-Picquet-tugged-sonar.jpg (here, _La Motte-Picquet_) are fitted with VDS (Variable Depth Sonar) type DUBV43 or DUBV43C towed sonars]] Miinitraaleri_"Virsaitis"_vrakk.jpg minesweeper T-297, formerly the Latvian _Virsaitis_, which was shipwrecked on 3 December 1941 in the Gulf of Finland[1]]]

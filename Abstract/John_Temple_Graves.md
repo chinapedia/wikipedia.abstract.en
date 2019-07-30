@@ -1,1 +1,0 @@
-JOHN TEMPLE GRAVES (November 9, 1856 – August 8, 1925) was an American newspaper editor who is best known for being the vice presidential nominee of the Independence Party in the presidential election of 1908.

@@ -1,1 +1,0 @@
-The PELOPONNESIAN LEAGUE was an alliance in the Peloponnesus from the 6th to the 4th centuries BC, dominated by Sparta. It is known mainly for being one of the two rivals in the Peloponnesian War (431–404 BC), against the Delian League, which was dominated by Athens.

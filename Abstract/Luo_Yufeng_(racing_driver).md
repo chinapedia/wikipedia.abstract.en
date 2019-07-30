@@ -1,1 +1,0 @@
-LUO YUFENG (born June 24, 1998 in Beijing, China) is a Chinese racing driver. Luo has competed in American single seater series, such as the USF2000. He is the 2015 Formula Continental national champion.

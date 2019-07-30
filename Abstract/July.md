@@ -1,1 +1,0 @@
-Jul}} JULY is the seventh month of the year (between June and August) in the Julian and Gregorian Calendars and the fourth of seven months to have a length of 31 days. It was named by the Roman Senate in honour of Roman general Julius Caesar, it being the month of his birth. Prior to that, it was called Quintilis, being the fifth month of the 10-month calendar.

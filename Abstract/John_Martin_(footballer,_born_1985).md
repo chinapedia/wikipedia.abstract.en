@@ -1,1 +1,0 @@
-JOHN MARTIN (born 4 May 1985), is a professional footballer who currently plays for Glenrothes in the SJFA East Superleague. He has previously played in the Scottish Football League First Division for Raith Rovers.

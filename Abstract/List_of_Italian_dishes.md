@@ -1,1 +1,0 @@
-Spicy_pugliese_and_margherita_pizzas_-_NYC_Pizza_Expedition_2009.jpg _(left)_ and Pizza Margherita (DOC) _(right)_]] Spaghetti_vongole_2.jpg]] Tiramisu_with_blueberries_and_raspberries,_July_2011.jpg is an Italian dessert]]

@@ -1,1 +1,0 @@
-LEWIS SINGWAH TAN (born 1987) is a British-born Chinese actor, model and martial artist. He is known for his roles as Zhou Cheng in Netflix's _Iron Fist_, Gaius Chau in the AMC martial arts drama series _Into the Badlands_, and Shatterstar in the film _Deadpool 2_. He has an upcoming role as Lu Xin Lee in the Netflix series _Wu Assassins_.

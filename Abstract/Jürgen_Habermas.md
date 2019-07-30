@@ -1,1 +1,0 @@
-JÜRGEN HABERMAS (, ;[1] ;[2][3] born 18 June 1929) is a German philosopher and sociologist in the tradition of critical theory and pragmatism. He is perhaps best known for his theories on communicative rationality and the public sphere.

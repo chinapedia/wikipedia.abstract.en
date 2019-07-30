@@ -1,1 +1,0 @@
-HOLLY TAKOS (born ) is an Australian female Track Cyclist.[1] She represents Australia at international competitions, including at the 2017 UCI Track Cycling World Championships.[2][3] She was also a pilot during the paralympic tandem events at the 2014 Commonwealth Games in Glasgow.

@@ -1,1 +1,0 @@
-RENEE GRACIE (born 5 January 1995) is a former Australian female racing driver. In 2017, she competed in the Dunlop Super2 Series with Dragon Motor Racing and Image Racing in the No. 98 Holden VF Commodore. Gracie split with the team before the season ended.

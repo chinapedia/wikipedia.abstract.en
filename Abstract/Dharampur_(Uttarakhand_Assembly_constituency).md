@@ -1,1 +1,0 @@
-18-DHARAMPUR LEGISLATIVE ASSEMBLY CONSTITUENCY () is one of the seventy electoral Uttarakhand Legislative Assembly constituencies of Uttarakhand state in India. This seat is previously known as Laxman Chowk Constituency before 2008 Delimitation . only in 2017 vidhan Sabha bjp won this seat from Congress hands

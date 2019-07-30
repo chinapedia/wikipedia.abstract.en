@@ -1,1 +1,0 @@
-TWISTER was a Brazilian Pop rock band formed in 2000. The band was originally composed of Sander Mecca (Guitar), Leo Richter (Bass), Luciano Lucca (Keyboard), Gilson Campos (Drums) and Alex Bandera (Guitar).

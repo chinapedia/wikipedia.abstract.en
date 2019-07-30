@@ -1,1 +1,0 @@
-_EUCALYPTUS URNIGERA_, commonly known as the URN TREE or the URN-FRUITED GUM, is a eucalypt that is native to Tasmania.[1] It is an alpine white gum and is related to _E. gunnii_, _E. archeri_ and _E.morrisbyi_.

@@ -1,1 +1,0 @@
-MUSTAFA ALTIOKLAR (born 1958) is a Turkish film director, producer and screenwriter. He is the chairman of the Turkish Film Directors Association and is fluent in English. Although he graduated from the medical faculty of Istanbul University and specialised in physiotherapy, he decided to pursue a career as a director, especially after the success of his short film _The Scar_.[1]

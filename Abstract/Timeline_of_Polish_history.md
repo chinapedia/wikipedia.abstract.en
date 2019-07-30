@@ -1,1 +1,0 @@
-This is a TIMELINE OF POLISH HISTORY, comprising important legal and territorial changes and political events in Poland and its predecessor states. To read about the background to these events, see History of Poland. See also the list of Polish monarchs and list of Prime Ministers of Poland. __NOTOC__

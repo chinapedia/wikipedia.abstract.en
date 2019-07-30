@@ -1,1 +1,0 @@
-_&_ is the fourth studio album by French singer Julien Doré, released on 14 October 2016.[1] The album debuted at number one in France and Wallonia. "Le lac", released as the first single from the album, also reached number one on the French singles chart.[2]

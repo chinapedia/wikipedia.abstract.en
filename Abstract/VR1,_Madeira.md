@@ -1,1 +1,0 @@
-The VIA RÁPIDA 1 or VR1 (Fast Road 1 in English) is the first motorway in Madeira. Since April 2017, there is another motorway in the island called VR2. Construction started in 1989[1] completed in 2005.[2]

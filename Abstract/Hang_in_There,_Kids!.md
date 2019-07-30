@@ -1,1 +1,0 @@
-_HANG IN THERE, KIDS!_ (Atayal: _Lokah Laqi_; ) is a 2016 Taiwanese drama film directed by Laha Mebow. It was selected as the Taiwanese entry for the Best Foreign Language Film at the 89th Academy Awards but it was not nominated.[1]

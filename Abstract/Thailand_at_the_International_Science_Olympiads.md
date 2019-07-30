@@ -1,1 +1,0 @@
-Thailand first participated at the International Science Olympiad (ISO)—a group of academic competitions for secondary school students—in 1989, when it sent representatives to compete in the International Mathematical Olympiad in Germany. Since then, it has expanded to send representatives to every branch of the annual competition.

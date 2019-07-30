@@ -1,1 +1,0 @@
-_PATHS OF GLORY_ is a 1957 American anti-war film[1] directed by Stanley Kubrick, based on the novel of the same name by Humphrey Cobb.[2] Set during World War I, the film stars Kirk Douglas as Colonel Dax, the commanding officer of French soldiers who refuse to continue a suicidal attack, after which Dax attempts to defend them against a charge of cowardice in a court-martial.

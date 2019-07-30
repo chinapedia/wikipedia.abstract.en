@@ -1,1 +1,0 @@
-KOSTAS SARANTIDIS (; 1927), also known in Vietnamese as NGUYỄN VĂN LẬP, is a Greek-born soldier who fought with the Viet Minh during the First Indochina War, seeking independence for Vietnam from the French colonial empire.[1]

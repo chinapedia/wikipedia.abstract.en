@@ -1,1 +1,0 @@
-The JACI PARANÁ EXTRACTIVE RESERVE () is an Extractive reserve in the state of Rondônia, Brazil. The traditional population is engaged in sustainable use of natural forest resources. It has been subject to illegal invasions by loggers and farmers. In 2014 an attempt was made to revoke the reserve.

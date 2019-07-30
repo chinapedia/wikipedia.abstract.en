@@ -1,1 +1,0 @@
-_TOTALLY RELIGIOUS_ is the fourth release and third LP by The Screaming Blue Messiahs and (as of 2016) their last studio album. The album was co-produced by previous Screaming Blue Messiahs producer Howard Gray and Rob Stevens.[1]

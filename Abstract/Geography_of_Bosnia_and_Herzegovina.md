@@ -1,1 +1,0 @@
-Bk-map.png Bosnia and Herzegovina is located in Southeastern Europe, in the western Balkans. It has a 932 km border with Croatia to the north and southwest, a 357 km border with Serbia to the east, and a 249 km border with Montenegro to the southeast.[1] It borders the Adriatic Sea along its 20 km (12.42 mi) coastline.

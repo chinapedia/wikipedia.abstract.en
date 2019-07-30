@@ -1,1 +1,0 @@
-{{Infobox Instrument |name=Clarinet |names= |image=Yamaha Clarinet YCL-457II-22.tiff |image_capt = [[B♭_(musical_note)|B The CLARINET is a family of woodwind instruments. It has a single-reed mouthpiece, a straight, cylindrical tube with an almost cylindrical bore, and a flared bell. A person who plays a clarinet is called a _clarinetist_ (sometimes spelled _clarinettist_).

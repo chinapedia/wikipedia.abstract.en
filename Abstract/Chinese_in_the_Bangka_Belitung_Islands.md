@@ -1,1 +1,0 @@
-CHINESE INDONESIANS have lived in Bangka Belitung Islands, Indonesia for centuries.[1][2] Bangka Belitung is one of the regions with the largest Chinese population in Indonesia besides Java, Riau, Eastern Sumatra and West Borneo.[3]

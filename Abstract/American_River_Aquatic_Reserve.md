@@ -1,1 +1,0 @@
-__NOTOC__ AMERICAN RIVER AQUATIC RESERVE is a marine protected area in the Australian state of South Australia located on the north coast of Kangaroo Island in waters of the coastal lagoon known as Pelican Lagoon.[1][2]

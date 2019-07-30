@@ -1,1 +1,0 @@
-PHILIPPE BRASSAC (born August 1959) is a French business executive, currently the chief executive of Crédit Agricole, having succeeded Jean-Paul Chifflet to the role in May 2015. He has been also Chairman of the French Banking Federation (Fédération Bancaire Française) since September 2016, succeeding to Frédéric Oudéa.[1]

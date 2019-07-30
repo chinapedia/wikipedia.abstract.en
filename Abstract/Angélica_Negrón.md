@@ -1,1 +1,0 @@
-ANGÉLICA NEGRÓN (born in 1981) is a Puerto Rican composer. She writes music for various instruments, including: accordions, toys and electronics, and robotic instruments. Negrón uses an extended technique, incorporating unusual sounds and instruments into her music. Her many works have been performed at music festivals and concerts.

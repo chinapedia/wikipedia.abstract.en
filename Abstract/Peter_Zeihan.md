@@ -1,1 +1,0 @@
-PETER ZEIHAN (born January 18, 1973) is a geopolitical strategist who specializes in global energy, demographics and security. He analyzes the realities of geography and populations to deepen the understanding of how global politics impact markets and economic trends.[1][2][3]

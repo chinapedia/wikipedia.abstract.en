@@ -1,1 +1,0 @@
-MARK BOOMERSHINE (born 1971) is a contemporary fine art painter with a strong interest in iconic persona and media of the 1970s and 80s.[1] Boomershine has an extensive portfolio with artwork displayed in numerous galleries with the most recent being LEGENDS, LaCienega Design District, 2016, Los Angeles, CA and SOLO EXHIBIT, Douglas Elliman, 2016, Beverly Hills, CA.[2]

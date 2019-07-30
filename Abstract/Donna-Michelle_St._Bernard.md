@@ -1,1 +1,0 @@
-DONNA-MICHELLE ST. BERNARD is a Canadian playwright and theatre director.[1] She is a two-time nominee for the Governor General's Award for English-language drama, at the 2011 Governor General's Awards for _Gas Girls_[2] and at the 2016 Governor General's Awards for _A Man A Fish_.[3]

@@ -1,1 +1,0 @@
-The 1925–26 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1922–23 men's college basketball season. The head coach was George Buchheit, coaching his second season with the Blue Devils. The team finished with an overall record of 8–12.[1]

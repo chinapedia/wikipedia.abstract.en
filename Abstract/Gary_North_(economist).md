@@ -1,1 +1,0 @@
-GARY KILGORE NORTH (born February 1942), l is an American paleolibertarian writer, Austrian School economic historian, and leading figure in the Christian reconstructionist movement.[1] North has authored or coauthored over fifty books on topics including Reformed Protestant theology, economics, and history. He is an Associated Scholar of the Ludwig von Mises Institute.[2]

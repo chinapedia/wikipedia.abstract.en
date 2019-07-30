@@ -1,1 +1,0 @@
-_SRI RAMA RAKSHA_ (English: LORD RAMA'S PROTECTION) is a 1978 Telugu drama film, produced under the Ajay Art Pictures banner and directed by Tatineni Rama Rao.[1] It stars Akkineni Nageswara Rao, Vanisri, Jayasudha in the lead roles and music composed by T. Chalapathi Rao.[2]

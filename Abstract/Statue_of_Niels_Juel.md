@@ -1,1 +1,0 @@
-The STATUE OF NIELS JUEL, created by the sculptor Theobald Stein, was unveiled in 1881 at Holmens Kanal in Copenhagen, Denmark. It stands next to Church of Holmen where he is buried and close to his former home in Kongens Nytorv. The monument with surroundings was listed in 2004.

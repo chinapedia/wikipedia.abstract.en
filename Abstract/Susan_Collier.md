@@ -1,1 +1,0 @@
-SUSAN JANE COLLIER (12 October 1938 – 18 May 2011) was an English textile designer. She began in a freelance capacity and sold sketches to scarf brands Richard Allan and Jacquar. Collier joined Liberty in 1961, and specialised in floral prints dresses. She was helped by her sister Sarah Campbell starting in 1968, and co-founded the independent Collier Campbell studio.

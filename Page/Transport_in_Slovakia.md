@@ -1,9 +1,7 @@
-EJ_671.JPG HighwayD1Spiš15Slovakia25.JPG]] TRANSPORT IN SLOVAKIA is possible by rail, road, air or rivers. Slovakia is a developed Central European country with a well-developed rail network (3,662 km) and a highway system (225.25 km). Main international airport is the M. R. Štefánik Airport in the capital, Bratislava. Most important waterway is the river Danube used both by passenger, cargo and freight ships.
+]] TRANSPORT IN SLOVAKIA is possible by rail, road, air or rivers. Slovakia is a developed Central European country with a well-developed rail network (3,662 km) and a highway system (225.25 km). Main international airport is the M. R. Štefánik Airport in the capital, Bratislava. Most important waterway is the river Danube used both by passenger, cargo and freight ships.
 
 
 Railways
-
-Railways_Slovakia_SK.svg
 
 -   _total:_ 3,662 km
 -   _broad gauge:_ 99 km of gauge - used for freight transport only, see Uzhhorod - Košice broad gauge track
@@ -15,8 +13,6 @@ Railways_Slovakia_SK.svg
 
 Roads
 
-Highways_in_Slovakia.svg
-
 -   _total:_ 43,761 km
 -   _paved:_ 38,085 km (including 384 km of expressways)
 -   _unpaved:_ 5,676 km
@@ -25,7 +21,7 @@ Highways_in_Slovakia.svg
 
 Highways
 
-VysokeTatry11Slovakia17.JPG]]
+]]
 
 -   Motorways
     -   D1: Bratislava - Trnava - Trenčín - Považská Bystrica - Žilina, Liptovský Mikuláš - Jánovce, Prešov - Košice - Záhor(SK/UA border)
@@ -60,7 +56,7 @@ Ports and harbors
 
 Airports
 
-See:List of airports in Slovakia Bratislava_Airport_new_terminal_BTS.jpg]] Kosice_(KSC_-_LZKZ)_AN2006029.jpg]] _total:_ 37 (2012)
+See:List of airports in Slovakia ]] ]] _total:_ 37 (2012)
 
 Airports with paved runways
 

@@ -1,1 +1,0 @@
-Prof WILLIAM JAMES MILLAR MACKENZIE CBE FBA (1909–1996), also known as BILL MACKENZIE, was professor of government at the University of Manchester and professor of politics at the University of Glasgow.[1][2] He was appointed Commander of the Order of the British Empire (CBE) in 1963 and a fellow of the British Academy (FBA) in 1968.

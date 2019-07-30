@@ -1,1 +1,0 @@
-LEROY WILTON HOMER JR. (August 27, 1965 – September 11, 2001) was the First Officer of United Airlines Flight 93, which was hijacked as part of the September 11 attacks in 2001, and crashed into a field near Shanksville, Pennsylvania, killing all 37 passengers and seven crewmembers, including LeRoy.

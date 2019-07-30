@@ -1,1 +1,0 @@
-GEORGE R. NEWKOME is an American scientist and chemist, currently the Professor of Polymer Science and Chemistry and James and Vanita Oelschlager Professor of Science and Technology at University of Akron,[1] and has also published both science papers and books, being largely cited and collected in both capacities.[2][3]

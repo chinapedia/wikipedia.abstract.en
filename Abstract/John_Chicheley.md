@@ -1,1 +1,0 @@
-Rear Admiral SIR JOHN CHICHELEY (c. 1640 – 20 March 1691) was a Royal Navy officer. He commanded a squadron at the Battle of Schooneveld in June 1673 and the Battle of Texel in August 1673 during the Franco-Dutch War. He went on to be Commissioner of the Ordnance and then Senior Naval Lord. He was also a Member of Parliament.

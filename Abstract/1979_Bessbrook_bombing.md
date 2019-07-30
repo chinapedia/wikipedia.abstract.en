@@ -1,1 +1,0 @@
-The BESSBROOK BOMBING took place on the 17 April 1979 when four Royal Ulster Constabulary (RUC) officers were killed when the Provisional IRA exploded an estimated 1,000 pound roadside van bomb at Bessbrook, County Armagh, believed to be the largest bomb used by the IRA up to that point.

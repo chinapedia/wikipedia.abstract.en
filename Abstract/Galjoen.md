@@ -1,1 +1,0 @@
-The GALJOEN, BLACK BREAM, or BLACKFISH (_Dichistius capensis_) is a species of marine fish found only along the coast of southern Africa from Angola to South Africa. Galjoen is the national fish of South Africa.[1]

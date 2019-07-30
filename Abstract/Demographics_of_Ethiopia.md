@@ -1,1 +1,0 @@
-The DEMOGRAPHICS OF ETHIOPIA encompass the demographic features of Ethiopia's inhabitants, including ethnicity, languages, population density, education level, health, economic status, religious affiliations and other aspects of the population.

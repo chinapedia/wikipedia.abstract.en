@@ -1,1 +1,0 @@
-SUBHASH CHANDRA (21 June 1933 – 13 June 2016),[1] better known by his pen name, MUDRARAKSHAS the eminent writer was a Hindi playwright, journalist, activist, thinker and cultural personality and critic from Lucknow, India.[2] He was born in Lucknow in June 1933 and died in the city on 13 June 2016, after illnesses due to old age.[3][4]

@@ -1,1 +1,0 @@
-During the 1971–72 season Hibernian, a football club based in Edinburgh, came third out of 18 clubs in the Scottish First Division and reached the final of the Scottish Cup ending up losing 6-1 to Celtic.

@@ -1,1 +1,0 @@
-HERNÁN GUILLERMO MUÑOZ ESPINOZA (born August 9, 1988 in Talca, Chile) is a Chilean footballer who currently plays as a Goalkeeper for Deportes Copiapó of the Primera División B in Chile. He is tall and weighs .

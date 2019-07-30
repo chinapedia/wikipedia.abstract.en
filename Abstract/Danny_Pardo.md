@@ -1,1 +1,0 @@
-DANNY PARDO (born 15 November 1971) is an Argentinian-born movie, TV, and voiceover actor living in Los Angeles. He became an international star in 2015 with his role as Padre Martin in the Argentinian-produced telenovela _Entre Canibales_ (_Among Cannibals_).[1]

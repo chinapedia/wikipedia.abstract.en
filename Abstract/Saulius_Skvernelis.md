@@ -1,1 +1,0 @@
-SAULIUS SKVERNELIS (born 23 July 1970) is a Lithuanian politician who has been Prime Minister of Lithuania since 2016. He is also a member of the Seimas. Previously he served as police commissioner, and he was Minister of the Interior from 2014 to 2016.

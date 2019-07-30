@@ -1,1 +1,0 @@
-_Galna_ (, ) was a major fort in the south Khandesh area of Maharashtra, India. This fort was an important fort on the Burhanpur -Surat trade route. This is one of the forts in Maharashtra with the bastion and the entrance in good condition. This fort is located on hills between Malegaon and Dhule.

@@ -1,1 +1,0 @@
-CENTRO SOCIAL DE SÃO JOÃO is a futsal team based in the village of Pé de Cão in the _freguesia_ of São Martinho do Bispo e Ribeira de Frades, Portugal that plays in the Portuguese Futsal First Division.

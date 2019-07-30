@@ -1,1 +1,0 @@
-3007_CUTTING_WAVES.jpg NEW_KID_ON_THE_BLOCK.jpg The DAMEN STAN 3007 PATROL is a patrol vessel in The Damen Group's family of Damen Stan patrol vessels.[1][2][3][4] The base design is built around an axe bow, and shallow draft.

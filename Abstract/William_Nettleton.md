@@ -1,1 +1,0 @@
-WILLIAM NETTLETON (April 22, 1822 – January 20, 1905) was a 19th-century American pioneer and Minnesota politician, who has often been considered a founder of Duluth.[1][2] A Democrat,[3] he represented the Arrowhead Region in the Minnesota House of Representatives during the 2nd Minnesota Legislature.[4]

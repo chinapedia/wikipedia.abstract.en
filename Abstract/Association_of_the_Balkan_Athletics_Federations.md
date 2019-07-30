@@ -1,1 +1,0 @@
-The ASSOCIATION OF THE BALKAN ATHLETICS FEDERATIONS, commonly known as BALKAN ATHLETICS is the organisation which organises the annual senior Balkan Athletics Championships and Balkan Athletics Indoor Championships, as well as other competitions at junior and youth level on track and field and other surfaces.[1]

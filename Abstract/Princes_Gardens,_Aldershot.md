@@ -1,1 +1,0 @@
-The_Airborne_Soldier_Aldershot_2019.jpg The PRINCES GARDENS is an urban park in the town of Aldershot in Hampshire. A short walk from the town centre on a site bordered by the town's High Street, Wellington Avenue and Barrack Road and opposite the Princes Hall theatre, it has been a public park since 1930. Today the park is managed by Rushmoor Borough Council.[1]

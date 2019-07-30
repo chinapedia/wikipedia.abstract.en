@@ -1,1 +1,0 @@
-_GOING, GOING..._ is the ninth studio album by English rock band The Wedding Present. It was released on 2 September 2016 in the UK, and 2 December 2016 in the US, by their record label, Scopitones. It is a 20-song double multimedia album - each song has its own video included - that is also a travelogue about a journey across North America.[1]

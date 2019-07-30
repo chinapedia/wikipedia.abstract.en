@@ -1,1 +1,0 @@
-RACHEL'S VALENTINA (foaled February 12, 2013 in Kentucky) is a retired American Thoroughbred racehorse, best known for being the second foal out of the 2009 Horse of the Year Rachel Alexandra. She is also known for winning the grade I Spinaway Stakes as a two-year-old.

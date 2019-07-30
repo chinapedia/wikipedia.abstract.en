@@ -1,1 +1,0 @@
-NEAPOLITAN ICE CREAM,[1] is a type of ice cream composed of three separate flavors, vanilla, chocolate, and strawberry ice cream arranged side by side in the same container, usually without any packaging in between.

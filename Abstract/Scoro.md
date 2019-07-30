@@ -1,1 +1,0 @@
-SCORO is a software-as-a-service solution for professional and creative services. The all-in-one business management software combines project management with time and team management, sales, billing, and professional services automation.[1] The company has offices in London, New York Tallinn, Riga, and Vilnius.[2]

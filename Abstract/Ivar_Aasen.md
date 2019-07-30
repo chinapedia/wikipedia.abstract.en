@@ -1,1 +1,0 @@
-IVAR ANDREAS AASEN (; 5 August 1813 – 23 September 1896) was a Norwegian philologist, lexicographer, playwright, and poet.[1] He is best known for having assembled from dialects one of the two official written versions of the Norwegian language, Nynorsk.[2]

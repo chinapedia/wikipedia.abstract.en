@@ -1,1 +1,0 @@
-LARS CHITTKA, FLS, FRES, FSB (born April 1963) is a German zoologist, ethologist and ecologist distinguished for his work on the evolution of sensory systems and cognition, using insect-flower interactions as a model.

@@ -1,1 +1,0 @@
-ROBERT MILTON (January 24, 1885 – January 13, 1956)[1] was a Russian-born screenwriter and film director who worked and settled in the United States.[2] He wrote and directed for the stage, and directed three British films.

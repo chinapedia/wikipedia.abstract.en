@@ -1,1 +1,0 @@
-This is a list of players of basketball who died while still on a team roster or a free agent. Included are players in the NBA, college, and other leagues. Players who died following the conclusion of their career should not be included. Players are listed with the team they last played for before death, rather than the team the player spent most of their playing career with.

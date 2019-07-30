@@ -1,1 +1,0 @@
-Ernst_Stenhammar_porträtt.jpg ERNST WILHELM EMANUEL STENHAMMAR (26 March 1859 – 9 March 1927) was a Swedish architect. He was active both as an independent architect and as a teacher and eventually professor of architecture in Stockholm. The main bulk of his designs as an independent architect were made for banks and hospitals.[1]

@@ -1,1 +1,0 @@
-Sleeping-girl.jpg

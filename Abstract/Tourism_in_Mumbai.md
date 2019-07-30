@@ -1,1 +1,0 @@
-TOURISM IN MUMBAI is an industry that attracts almost 6 million tourists per year, making it the 30th-most visited location worldwide.[1] With a metro population of approximately 20 million, Mumbai is the largest city in India and the 10th largest city in the world. [2]

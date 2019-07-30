@@ -5,7 +5,7 @@ Editors on this list should fulfill the conditions for Notability for creative p
 
 A
 
-Jja1.jpg, 2006]]
+, 2006]]
 
 -   John Joseph Adams (born 1976), USA, anthologist and editor
 -   Brian W. Aldiss (1925–2017), UK, anthologist, critic, and author
@@ -19,7 +19,7 @@ Jja1.jpg, 2006]]
 
 B
 
-Charles_N_Brown.jpg, 1937 - 2009]]
+, 1937 - 2009]]
 
 -   Jim Baen (1943–2006), USA, editor and publisher; founded Baen Books(1983), Webscriptions (now Baen Ebooks), the Baen Free Library and _Jim Baen's Universe_ webzine
 -   Hilary Bailey (born 1936), UK, editor of _New Worlds_ anthologies #7-10.
@@ -46,7 +46,7 @@ Charles_N_Brown.jpg, 1937 - 2009]]
 
 C
 
-Pat_Cadigan_portrait.jpg ]]
+]]
 
 -   Pat Cadigan, (born 1953), USA, author; editor of _Shayol_ #1-7 (1977–1985); co-editor of _Chacal_ (1977)
 -   Bill Campbell, co-editor of anthology _Mothership: Tales from Afrofuturism and Beyond_ (2013)
@@ -65,7 +65,7 @@ Pat_Cadigan_portrait.jpg ]]
 
 D
 
-EllenDatlow.jpg, 2008 ]] GardnerDozoisCW98_wb.jpg, 1998]]
+, 2008 ]] , 1998]]
 
 -   Tony Daniel (science fiction writer) (born 1963), USA, editor; Baen Books
 -   Richard Dalby (born 1949), UK, supernatural fiction editor and anthologist
@@ -88,7 +88,7 @@ EllenDatlow.jpg, 2008 ]] GardnerDozoisCW98_wb.jpg, 1998]]
 
 E
 
-Harlan_Ellison_at_the_LA_Press_Club_19860712_(cropped).jpg, 1986]]
+, 1986]]
 
 -   Claire Eddy, USA, senior editor at Tor Books[8]
 -   Malcolm Edwards (born 1949), UK, editor at Gollancz, HarperCollins and Orion Publishing Group
@@ -101,7 +101,7 @@ Harlan_Ellison_at_the_LA_Press_Club_19860712_(cropped).jpg, 1986]]
 
 F
 
-James_Frenkel.jpg, 2005]]
+, 2005]]
 
 -   Paul W. Fairman (1916–1977), USA, editor of _Amazing Stories_, _If_ and _Fantastic_ in the 1950s
 -   Moshe Feder, USA, formerly editor at the Science Fiction Book Club and Tor Books, consulting editor for Tor[10]
@@ -117,7 +117,7 @@ James_Frenkel.jpg, 2005]]
 
 G
 
-Liz_Gorinsky.jpg, 2010]]
+, 2010]]
 
 -   David S. Garnett, (born 1947), UK, editor of the _New Worlds_, _Orbit_ and _Zenith_ anthology series
 -   Henry Gee, (born 1962), UK, editor of the Nature Futures series of science fiction short stories and the anthology of them
@@ -143,7 +143,7 @@ Liz_Gorinsky.jpg, 2010]]
 
 H
 
-David_Hartwell.jpg, 2007]]
+, 2007]]
 
 -   Karen Haber, (born 1955), USA, critic, editor of "Best of the Year" collections (2001–2004)
 -   Marilyn Hacker, (born 1942), USA, anthologist (with Samuel R. Delany)[22]
@@ -163,7 +163,7 @@ David_Hartwell.jpg, 2007]]
 
 I
 
-S._T._Joshi_(2002_promotional_photo).jpg (2002) ]]
+(2002) ]]
 
 -   Van Ikin (born 1951),[29] Australia, anthologist; editor of _Science Fiction_;[30] English professor
 
@@ -195,7 +195,7 @@ K
 
 L
 
-DavidLangford.01.jpg ]]
+]]
 
 -   David Langford (born 1953), UK editor of collections by John Sladek, editor of _The Encyclopedia of Science Fiction_ 3rd Edition.
 -   Joel Lane (1963–2013), UK author and editor of several crime and fantasy collections for small press imprints
@@ -208,7 +208,7 @@ DavidLangford.01.jpg ]]
 
 M
 
-Beth_Meacham_(cropped).jpg ]]
+]]
 
 -   Daryl F. Mallett (born 1969), USA, editor at Borgo Press (1989–1999); editor of _SFRA Review_ #203-211 (1993–1994); editorial board of _Extrapolation_ (1994-????); managing editor at Chaos! Comics (1995); associate editor of _Other Worlds_ (1995-????)
 -   Barry N. Malzberg (born 1939), USA, magazine editor, anthologist
@@ -230,7 +230,7 @@ Beth_Meacham_(cropped).jpg ]]
 
 N
 
-Annalee_Newitz_(1).jpg, 2008]]
+, 2008]]
 
 -   Darren Nash,[36] UK (born Australia), editor for Orbit Books UK, formerly with Simon & Schuster UK
 -   Gabriella Nemeth,[37] UK, editor for Atom Books division of Little, Brown)
@@ -273,7 +273,7 @@ Q
 
 R
 
-PurpleCatRambo.jpg ]]
+]]
 
 -   Eric Raab, editor,[44] Tor Books
 -   Cat Rambo (born 1963), co-editor, _Fantasy Magazine_
@@ -284,7 +284,7 @@ PurpleCatRambo.jpg ]]
 
 S
 
-Jonathan_Strahan.jpg ]]
+]]
 
 -   Steve Saffel, USA, freelance editor,[45] formerly at Del Rey Books and Marvel Comics
 -   Arthur W. Saha (1923–1999), US anthologist closely associated with Donald A. Wollheim
@@ -316,7 +316,7 @@ Jonathan_Strahan.jpg ]]
 
 T
 
-Brian_Thomsen,_Science_Fiction_Editor_and_author.jpg (left) ]]
+(left) ]]
 
 -   Lynne M. Thomas, USA, editor of _Apex Digest_, _Chicks Dig..._
 -   Brian Thomsen (1959–2008), USA, consulting editor for Tor Books,[57] former editor for DAW Books and Warner Books
@@ -340,7 +340,7 @@ V
 
 W
 
-Sheila_Williams_(cropped).jpg, 2008 ]]
+, 2008 ]]
 
 -   Sean Wallace (born 1976), USA, editor and publisher at Prime Books, Cosmos Books, and other small press publishers
 -   Toni Weisskopf (born 1965), USA, publisher of Baen Books after Baen's death; executive editor since 1987
@@ -355,7 +355,7 @@ Sheila_Williams_(cropped).jpg, 2008 ]]
 
 Y
 
-10.15.11JaneYolenByLuigiNovi.jpg ]]
+]]
 
 -   Jane Yolen (born 1939), prolific children's writer, editor of "Jane Yolen Books" at Harcourt Brace; fantasy anthology series _Xanadu_ (1992–1994), _Year's Best Science Fiction and Fantasy for Teens_
 -   Brian Youmans, editor, _Best of the Rest_[63] small press anthology series

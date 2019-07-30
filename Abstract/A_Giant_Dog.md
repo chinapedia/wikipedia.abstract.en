@@ -1,1 +1,0 @@
-A GIANT DOG is an American punk rock[1] band from Austin, Texas.[2][3] It has been described by _Bandcamp Daily_ as "one of Austin's most thrillingly irreverent bands".[4] It consists of Sabrina Ellis, Andrew Cashen, Andy Bauer, Graham Low, and Daniel Blanchard.[5]

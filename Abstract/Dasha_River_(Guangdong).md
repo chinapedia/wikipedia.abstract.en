@@ -1,1 +1,0 @@
-DASHA RIVER () is a river in southwestern Shenzhen in Guangdong, China. It is long and drains an area of . It rises in Mount Yangtai, and flows generally southwest, passing through the Nanshan District and emptying into the South China Sea in Shenzhen Bay.

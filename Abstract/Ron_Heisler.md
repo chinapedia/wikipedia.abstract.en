@@ -1,1 +1,0 @@
-RONALD B. HEISLER (born 1941) is a British book collector, trade unionist, socialist, and self-described "delinquent historian"[1] who has given his name to the Ron Heisler Collection at Senate House Library, University of London.

@@ -1,1 +1,0 @@
-XHSBE-FM is a community radio station on 107.1 FM owned by and serving the indigenous communities of San Bernardino Tlaxcalancingo and Santa María Zacatepec from studios in San Andrés Cholula, Puebla. It is known as FM Cholollan.

@@ -1,1 +1,0 @@
-IVAN KRASKOVSKY (, IVAN KRASKOUSKI, Іван Красковський), (24 June 1880, Dubichy Tsarkounyya – 1955, Bratislava) was a Ukrainian-Belarusian politician active in the Ukrainian Party of Socialists-Federalists[1] and earlier in the Belarusian Socialist Assembly.

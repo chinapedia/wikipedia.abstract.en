@@ -1,1 +1,0 @@
-The BLACKMAGIC URSA is a digital movie camera developed and manufactured by Blackmagic Design, released on August 8, 2014. It is the first camera to be user-upgradeable for additional equipment manufactured by Blackmagic and other third-party makers.

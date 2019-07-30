@@ -1,1 +1,0 @@
-TAOGONG PALACE () is a Taoist temple located on the west side of Linxiang Hill (), beside the Liuyang River, in Langli Subdistrict, Changsha County, Hunan, China.[1] The temple covers a total area of , with more than of floor space.

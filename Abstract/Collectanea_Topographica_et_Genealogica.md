@@ -1,1 +1,0 @@
-COLLECTANEA TOPOGRAPHICA ET GENEALOGICA is an eight volume work on genealogy by Sir Frederic Madden (1801-1873), Rev.Bulkeley Bandinel (1781-1861) and John Gough Nichols (1806–1873), published quarterly from 1834.

@@ -1,1 +1,0 @@
-ALESSIO DI SIREGNO, O.F.M. or ALEXIS DE SIREGNO or ALESSIO DA SEREGNO was a Roman Catholic prelate who served as Bishop of Bobbio (1405–1409), Bishop of Gap (1409–1411), and Bishop of Piacenza (1411–1447).[1][2]

@@ -1,7 +1,5 @@
 TRANSPORT IN SRI LANKA is based on its road network, which is centred on the country's capital Colombo. A rail network handles a portion of Sri Lanka's transport needs. There are navigable waterways, harbours and two international airports: in Katunayake, north of Colombo, and in Hambantota.
 
-CKE_at_night.jpg 22_boeing_772_app_cmb.jpg
-
 
 Road
 
@@ -9,7 +7,7 @@ Roads account for about 93 percent of Sri Lanka's land transport. In October 201
 
 Classification
 
-B_class_road_in_2016.jpg Colombo_December_2016-3.jpg Sri Lanka's roads are graded E, A, B and C.
+Sri Lanka's roads are graded E, A, B and C.
 
 +-------+-----------------------------------------------------------------------------------+-------------+
 | Grade | Description                                                                       | Speed limit |
@@ -25,7 +23,7 @@ B_class_road_in_2016.jpg Colombo_December_2016-3.jpg Sri Lanka's roads are grade
 
 Expressways
 
-Drivers_view_of_E_class_road.jpg The Colombo–Matara Expressway is a motorway linking Colombo, Galle and Matara which was built in 2011 to develop the economy of the Southern Province. Other expressways are under construction or proposed. The Colombo–Katunayake Expressway, Colombo-Kandy Expressway and Outer Circular Expressway (Colombo bypass road) are under construction, and a Colombo–Padeniya expressway has been proposed. The Sri Lankan government has proposed three elevated highways connecting the three main expressways:[2]
+The Colombo–Matara Expressway is a motorway linking Colombo, Galle and Matara which was built in 2011 to develop the economy of the Southern Province. Other expressways are under construction or proposed. The Colombo–Katunayake Expressway, Colombo-Kandy Expressway and Outer Circular Expressway (Colombo bypass road) are under construction, and a Colombo–Padeniya expressway has been proposed. The Sri Lankan government has proposed three elevated highways connecting the three main expressways:[2]
 
 -   From Kirulapone to Kadawatha (about 19 km), connecting the Outer Circular Expressway at Kadawatha and the Colombo–Katunayake Expressway at Peliyagoda
 -   From Colombo Fort to Kottawa (about 21 km), connecting the Colombo–Matara and Outer Circular Expressways at Kottawa
@@ -43,11 +41,9 @@ Drivers_view_of_E_class_road.jpg The Colombo–Matara Expressway is a motorway l
 |        | Colombo–Kandy Expressway[6]   | Kadawatha         | Katugastota    | 98.9        | 4,6[7]                | 4.5 Billion [8] | Under construction |
 +--------+-------------------------------+-------------------+----------------+-------------+-----------------------+-----------------+--------------------+
 
-The-Expressway_at_Ja-ela.jpg
-
 National highways
 
-Marker_on_the_A5_highway_in_Nuwara_Eliya.JPG]] Sri Lanka's national highways are graded A or B. A-Grade roads are subdivided as AA, AB or AC.
+]] Sri Lanka's national highways are graded A or B. A-Grade roads are subdivided as AA, AB or AC.
 
 +-------------------------------+--------+
 | Road grade                    | Length |
@@ -69,16 +65,16 @@ Road density is highest in the southwest, particularly the area around Colombo. 
 
 Buses
 
-Sri_Lanka_Bus.jpg Buses are the principal mode of public transport. Service is provided by the state-run Sri Lanka Transport Board (SLTB) and privately owned buses. The SLTB has urban and rural routes; in many rural areas, it provides service which would be unprofitable for private operators.[11]
+Buses are the principal mode of public transport. Service is provided by the state-run Sri Lanka Transport Board (SLTB) and privately owned buses. The SLTB has urban and rural routes; in many rural areas, it provides service which would be unprofitable for private operators.[11]
 
-Colombo has an extensive, bus-based public transport system, with the Central Bus Stand in Pettah as its hub.[12] The city's road network consists of radial links (or arterial routes), which link the city and district centres, and orbital links intersecting the arterial routes. Most bus routes are on the radial links, without dedicated bus lanes due to high peak traffic volume.[13] A BRT system for Colombo has been proposed but not yet implemented.[14][15] Luxury_bus_sri_lanka.jpg Inter-city routes connect many of the country's major population centres. Some service is available on the E01 and E03 expressways, with modern Lanka Ashok Leyland buses.[16]
+Colombo has an extensive, bus-based public transport system, with the Central Bus Stand in Pettah as its hub.[12] The city's road network consists of radial links (or arterial routes), which link the city and district centres, and orbital links intersecting the arterial routes. Most bus routes are on the radial links, without dedicated bus lanes due to high peak traffic volume.[13] A BRT system for Colombo has been proposed but not yet implemented.[14][15] Inter-city routes connect many of the country's major population centres. Some service is available on the E01 and E03 expressways, with modern Lanka Ashok Leyland buses.[16]
 
 In 2011, the SLTB began introducing new buses to replace part of its aging fleet. The Volvo 8400 buses, from Volvo India,[17] run on major routes in Colombo.[18] The most popular model is the Lanka Ashok Leyland Viking, which is operated by the SLTB and several private companies.[19]
 
 
 Rail
 
-Class_S10.jpg commuter train in Colombo]] Sri_Lanka_Railroads_Map.svg
+commuter train in Colombo]]
 
 Rail transport in Sri Lanka consists of an intercity network connecting major population centres and commuter rail serving Colombo commuters. Sri Lanka Railways operates the country's railway network, which includes about of track. Colombo is its hub. Trains connect the main cities of the country's nine provinces.
 
@@ -93,7 +89,7 @@ The narrow-gauge Kelani Valley Line, from Colombo to Avissawella, was converted 
 
 Air
 
-Mihin_Lanka_airplane_at_Bandaranaike_International_Airport.JPG aircraft at the main Bandaranaike International Airport terminal]] Mattala_Rajapaksa_International_Airport_Terminal_Building.JPG CinnamonAir.jpg Sri Lanka's international airports include Colombo Bandaranaike International Airport, Mattala Rajapaksa International Airport and Ratmalana International Airport, which is being renovated.
+aircraft at the main Bandaranaike International Airport terminal]] Sri Lanka's international airports include Colombo Bandaranaike International Airport, Mattala Rajapaksa International Airport and Ratmalana International Airport, which is being renovated.
 
 Sri Lankan Airlines
 
@@ -142,7 +138,7 @@ Ports and harbours
 
 Colombo Port
 
-ColomboHarbour-SriLanka02.jpg Sri Lanka has deep-water ports at Colombo, Hambantota, Galle and Trincomalee. Colombo has the highest cargo volume, with an estimated capacity of 5.7 million TEUs. The port began a large-scale expansion project at a cost of US$1.2 billion in 2008 to increase its capacity and capabilities.[28] The project, headed by the Sri Lanka Ports Authority and built by the Hyundai Engineering and Construction Company, was expected to be completed by 11 April 2012. It consists of four new terminals which can accommodate three berths each, alongside a depth of 18 m (59 ft) (which can be deepened to 23 m [75 ft]). The channel width of the harbour will be and its depth , with a harbour-basin depth of and a turning circle. The project was expected to increase the annual container-handling capacity to about 12 million TEUs and accommodate 12,000-TEU container vessels.
+Sri Lanka has deep-water ports at Colombo, Hambantota, Galle and Trincomalee. Colombo has the highest cargo volume, with an estimated capacity of 5.7 million TEUs. The port began a large-scale expansion project at a cost of US$1.2 billion in 2008 to increase its capacity and capabilities.[28] The project, headed by the Sri Lanka Ports Authority and built by the Hyundai Engineering and Construction Company, was expected to be completed by 11 April 2012. It consists of four new terminals which can accommodate three berths each, alongside a depth of 18 m (59 ft) (which can be deepened to 23 m [75 ft]). The channel width of the harbour will be and its depth , with a harbour-basin depth of and a turning circle. The project was expected to increase the annual container-handling capacity to about 12 million TEUs and accommodate 12,000-TEU container vessels.
 
 Hambantota Port
 

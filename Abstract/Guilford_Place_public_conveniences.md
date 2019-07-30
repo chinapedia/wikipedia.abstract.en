@@ -1,1 +1,0 @@
-Guilford_Place_public_conveniences_04.jpg Guilford_Place_public_conveniences_10.jpg

@@ -1,1 +1,0 @@
-The 2015 BREEDERS' CUP CLASSIC was the 32rd running of the Breeders' Cup Classic, part of the 2015 Breeders' Cup World Thoroughbred Championships program. It was run on October 31, 2015 at Keeneland in Lexington, Kentucky.

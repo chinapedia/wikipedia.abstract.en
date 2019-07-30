@@ -1,1 +1,0 @@
-NAWAF MUHAMMED SALIM AL-HAZMI (, ; also known as _Rabia al-Makki_)[1] (August 9, 1976 – September 11, 2001) was one of five hijackers of American Airlines Flight 77, which they crashed into the Pentagon as part of the September 11 attacks in the United States.

@@ -1,1 +1,0 @@
-RichardAli.jpg RICHARD ALI (born 3 September 1984) is a Nigerian writer, lawyer and co-founder of Parrésia Publishers,[1] a Lagos-based Afri-centric publishing house, home to Helon Habila, Onyeka Nwelue, Chika Unigwe and Abubakar Adam Ibrahim, other continental voices.

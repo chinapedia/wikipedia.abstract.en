@@ -1,1 +1,0 @@
-GEORGIAN may refer to:

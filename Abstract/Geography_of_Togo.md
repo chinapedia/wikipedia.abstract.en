@@ -1,1 +1,0 @@
-TogoOMC.png LocationTogo.svg

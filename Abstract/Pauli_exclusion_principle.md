@@ -1,1 +1,0 @@
-Wolfgang_Pauli_young.jpg

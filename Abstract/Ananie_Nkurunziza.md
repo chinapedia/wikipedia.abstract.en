@@ -1,1 +1,0 @@
-ANANIE NKURUNZIZA was a presenter (_animateur_) on the Rwandan radio station Radio Télévision Libre des Mille Collines, which played a significant role in promoting the Rwandan genocide. Like the station's other broadcasters, Nkurunziza incited violence against Tutsi and moderate Hutu on the air.[1]

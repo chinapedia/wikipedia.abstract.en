@@ -1,1 +1,0 @@
-'''Gemel Smith ''' (born April 16, 1994) is a Canadian professional ice hockey forward who is currently playing for the Tampa Bay Lightning of the National Hockey League (NHL). He has previously played with the Dallas Stars, who selected him 104th overall in the 2012 NHL Entry Draft, as well as the Boston Bruins.

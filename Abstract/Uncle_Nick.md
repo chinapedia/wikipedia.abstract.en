@@ -1,1 +1,0 @@
-_UNCLE NICK_ is a 2015 American comedy film directed by Chris Kasick, written by Mike Demski, and starring Brian Posehn, Paget Brewster, Missi Pyle, Scott Adsit, Beau Ballinger and Melia Renee. It was released on December 4, 2015, by Dark Sky Films.

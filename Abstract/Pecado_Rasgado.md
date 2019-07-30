@@ -1,1 +1,0 @@
-_PECADO RASGADO_ (English: _Ripped Sin_) is a Brazilian telenovela produced and broadcast by Rede Globo. It premiered on 4 September 1978 and ended on 16 March 1979, with a total of 167 episodes. It's the twenty second "novela das sete" to be aired at the timeslot. It is created by Sílvio de Abreu and directed by Régis Cardoso.[1][2]

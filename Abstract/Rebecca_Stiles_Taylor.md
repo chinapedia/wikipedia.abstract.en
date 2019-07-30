@@ -1,1 +1,0 @@
-REBECCA STILES TAYLOR (August 1879 – December 1958) was a journalist, social worker, and educator from Savannah, Georgia. She was best known for her contributions to the community as the founder of several charitable outlets in the area and as an activist for women's and civil rights.

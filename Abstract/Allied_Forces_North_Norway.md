@@ -1,1 +1,0 @@
-ALLIED FORCES NORTH NORWAY (NON) was a NATO command tasked with the defense of Northern Norway. NON's area of responsibility covered the three northernmost counties of Norway: Nordland, Troms and Finnmark, as well as the adjacent sea territory. It formed part of Allied Forces Northern Europe.

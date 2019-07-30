@@ -1,1 +1,0 @@
-The BATTLE OF SAN JOAQUÍN in the War of Reform took place on 26 December 1858 in the municipality of Cuauhtémoc (Colima, Mexico), between elements of the liberal army, under General Santos Degollado, and elements of the conservative army, commanded by General Miguel Miramón.

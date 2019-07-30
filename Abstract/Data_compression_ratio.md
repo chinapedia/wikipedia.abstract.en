@@ -1,1 +1,0 @@
-DATA COMPRESSION RATIO, also known as COMPRESSION POWER, is a measurement of the relative reduction in size of data representation produced by a data compression algorithm. It is typically expressed as the division of uncompressed size by compressed size.

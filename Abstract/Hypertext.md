@@ -1,1 +1,0 @@
-Sistema_hipertextual.jpg.]]

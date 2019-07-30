@@ -1,1 +1,0 @@
-Persian_astrolabe.jpg]] Brass_lectern_in_the_form_of_an_eagle_attributed_to_Aert_van_Tricht_the_Elder,_Limburg_(Netherlands),_c._1500,_The_Cloisters.jpg with an eagle. Attributed to Aert van Tricht, Limburg (Netherlands), c. 1500.]]

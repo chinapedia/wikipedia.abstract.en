@@ -1,1 +1,0 @@
-The 2017 HOBART INTERNATIONAL was a women's tennis tournament played on outdoor hard courts. It was the 24nd edition of the event and part of the WTA International tournaments of the 2017 WTA Tour. It took place at the Hobart International Tennis Centre in Hobart, Australia from 9 through 15 January 2017.[1]

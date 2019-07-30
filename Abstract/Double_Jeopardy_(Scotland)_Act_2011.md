@@ -1,1 +1,0 @@
-THE DOUBLE JEOPARDY (SCOTLAND) ACT 2011 is an Act of the Scottish Parliament which received Royal Assent on 27 April 2011.[1] and came into force on 28 November 2011.[2] The Act creates a statutory basis for the rule against trying a person twice for the same crime (known as double jeopardy). The Act also creates three narrow exceptions to this rule.

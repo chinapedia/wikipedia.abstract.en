@@ -1,1 +1,0 @@
-GENE G. ABDALLAH (born June 16, 1936) is an American former politician. He served in the South Dakota House of Representatives from 2001 to 2002 as well as 2011 to 2012 and in the Senate from 2002 to 2010.[1][2][3]

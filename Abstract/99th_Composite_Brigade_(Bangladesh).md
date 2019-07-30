@@ -1,1 +1,0 @@
-The 99TH BRIGADE otherwise known as "99 Composite Brigade" is a brigade formation of the Bangladesh Army. It was raised per the project "Establishment of 99 Composite Brigade for Safety and Security of Padma Multipurpose Bridge" and army development project "Forces Goal 2030".[1]

@@ -1,1 +1,0 @@
-BILL DUBUQUE is an American screenwriter known for such films as _The Accountant_,[1] _A Family Man_,[2] _The Judge_,[3] and the television series _Ozark_.[4] In 2017 he scripted an upcoming DC Extended Universe Nightwing film[5][6] and has been connected to an _Accountant_ sequel.[7][8]

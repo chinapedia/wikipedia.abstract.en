@@ -1,1 +1,0 @@
-DAWOOD ABDULMALEK YAHYA AL-HIDABI (born 7 April 1955) is a Yemeni researcher. Founder and Former President of University of Science and Technology, Sana'a from 1994 to 2007. He is also the Founder and President of the International Association for Talent Development.

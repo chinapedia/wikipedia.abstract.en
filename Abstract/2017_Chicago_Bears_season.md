@@ -1,1 +1,0 @@
-The 2017 CHICAGO BEARS SEASON was the franchise's 98th season in the National Football League, as well as their third and final season under head coach John Fox. The Bears improved upon the previous year's 3–13 record, finishing 5–11, but failed to make the playoffs and suffered their fourth consecutive losing season.

@@ -1,1 +1,0 @@
-SIMONE MARIANI is an Italian-American actor, writer, director and producer.[1][2][3] He was born on April 2, 1964 in Rome, Italy.[4] He appeared in the Hollywood film _Inferno_ directed by Ron Howard and starring Tom Hanks.

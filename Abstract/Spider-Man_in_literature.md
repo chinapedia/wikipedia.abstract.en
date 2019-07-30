@@ -1,1 +1,0 @@
-Since the characters inception in the 1960s SPIDER-MAN has appeared in multiple forms of media, including several novels, short stories, comic strips, graphic novels, light novels and children's books.

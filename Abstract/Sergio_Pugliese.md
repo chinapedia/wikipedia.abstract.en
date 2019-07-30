@@ -1,1 +1,0 @@
-SERGIO PUGLIESE (1908–1965) was an Italian screenwriter, playwright and journalist.[1] He was employed by the Italian state broadcaster RAI and in 1955 he made the original proposal that led eventually to the establishment of the Eurovision Song Contest.

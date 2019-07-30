@@ -1,1 +1,0 @@
-The 1976 United States presidential election in Arizona was part of the 1976 United States presidential election, which took place on November 2, 1976, throughout all fifty states and D.C.. Voters chose six representatives, or electors to the Electoral College, who voted for president and vice president.

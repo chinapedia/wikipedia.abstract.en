@@ -1,1 +1,0 @@
-EDWARD SAPIR (; January 26, 1884 – February 4, 1939) was an American anthropologist-linguist, who is widely considered to be one of the most important figures in the early development of the discipline of linguistics.[1][2]

@@ -1,1 +1,0 @@
-The BOSTON FINISHING WORKS is a historic industrial factory complex at 160 Water Street in Williamstown, Massachusetts. The site was developed industrially beginning in 1873, and was in regular use until 2000 as one of the town's major industrial employers. It was listed on the National Register of Historic Places in 2016.[1]

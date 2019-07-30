@@ -1,1 +1,0 @@
-JÉRÔME GUERY (born 24 July 1980) is a Belgian Olympic show jumping rider.[1] He competed at the 2016 Summer Olympics in Rio de Janeiro, Brazil, where he finished 28th in the individual competition with the horse _Grand Cru van de Rozenberg_.

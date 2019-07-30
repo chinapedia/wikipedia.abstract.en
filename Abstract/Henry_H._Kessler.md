@@ -1,1 +1,0 @@
-HENRY HOWARD KESSLER (April 10, 1896 – January 18, 1978) was an American physician, surgeon, and pioneer in rehabilitation medicine and orthopedic surgery. He focused on treating the whole person, rather than just the physical ailment. He founded the Kessler Institute for Rehabilitation[1][2][3] and wrote five books on rehabilitation medicine.[4]

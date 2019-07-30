@@ -1,1 +1,0 @@
-The IN OUR BONES TOUR is the third headlining concert tour by American pop rock band Against the Current. Launched in support of their first studio album, _In Our Bones_ (2016), the tour began on September 6, 2016 in Seoul, South Korea and concluded on October 18, 2017 in Buenos Aires, Argentina.

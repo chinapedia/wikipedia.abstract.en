@@ -1,1 +1,0 @@
-Königin_Luise_(Ternite).jpg in a riding habit (c.1810)]] Ternite-Brigand.jpg FRIEDRICH WILHELM TERNITE (5 September 1786, Neustrelitz - 22 October 1871, Potsdam) was a German portrait painter, miniaturist and lithographer. In Berlin, he served as a court painter and inspector of the Royal Art Gallery.

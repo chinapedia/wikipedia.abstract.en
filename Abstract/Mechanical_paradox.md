@@ -1,1 +1,0 @@
-Paradosso_meccanico_inv_3387_IF_21075.jpg

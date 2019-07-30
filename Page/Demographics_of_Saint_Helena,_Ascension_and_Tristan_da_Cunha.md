@@ -19,7 +19,7 @@ A census in February 2016 recorded a population of 4,534 on the island.[2] This 
 
 Districts of Saint Helena
 
-The island of Saint Helena is administratively divided into eight districts,[4] each with a community centre. The districts also serve as statistical subdivisions. The island is a single electoral area, sending twelve representatives to the Legislative Council. District_map_of_Saint_Helena.png
+The island of Saint Helena is administratively divided into eight districts,[4] each with a community centre. The districts also serve as statistical subdivisions. The island is a single electoral area, sending twelve representatives to the Legislative Council.
 
 +------------------+---------+-------+-------+---------+---------+----------+
 | District         | Area[5] | Area  | Pop.  | Pop.    | Pop.    | Pop./km² |

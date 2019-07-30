@@ -1,1 +1,0 @@
-The PURUS RIVER or RIO PURÚS is a tributary of the Amazon River in South America. Its drainage basin is , and the mean discharge is 8,400 m³/s. The river shares its name with the Alto Purús National Park as well as the Purús Province (and its conformed Purús District), one of the four provinces of Peru in the Ucayali Region.

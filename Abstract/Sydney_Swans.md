@@ -1,1 +1,0 @@
-The SYDNEY SWANS are a professional Australian rules football club which plays in the Australian Football League (AFL). Established in Melbourne as the SOUTH MELBOURNE FOOTBALL CLUB in 1874, the Swans relocated to Sydney in 1982, thus making it the first club in the competition to be based outside Victoria.

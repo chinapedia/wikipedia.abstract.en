@@ -1,1 +1,0 @@
-HYDERABAD EXPO CENTER was established by now defunct City District Government Hyderabad (CDGH) by the Mayor of Hyderabad, Kunwar Naveed Jamil. The main aim of the Expo Center is to introduce agricultural and industrial produce of Hyderabad District, Sindh in the International market.[1]

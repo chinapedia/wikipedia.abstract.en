@@ -7,7 +7,7 @@ On September 11, 2001, he boarded United 93 and assisted in the hijacking of the
 
 Early life and education
 
-Al-Ghamdi.jpeg Ghamdi was from the al Bahah province of Saudi Arabia, and shared the same tribal affiliation with fellow hijackers Ahmed al-Ghamdi, Hamza al-Ghamdi, and Ahmed al-Haznawi, although he was not related to either Ghamdi. He may have been in contact with the two Ghamdis and Haznawi as early as 1999.[2] This group is noted as being some of the more religiously observant of the hijackers. Ghamdi spent time in al Qasim province, Saudi Arabia where he transferred to college but soon dropped out and ceased contact with his family. While there he probably associated with the radical Saudi cleric named Sulayman al-Alwan as several other future hijackers had.[3]
+Ghamdi was from the al Bahah province of Saudi Arabia, and shared the same tribal affiliation with fellow hijackers Ahmed al-Ghamdi, Hamza al-Ghamdi, and Ahmed al-Haznawi, although he was not related to either Ghamdi. He may have been in contact with the two Ghamdis and Haznawi as early as 1999.[2] This group is noted as being some of the more religiously observant of the hijackers. Ghamdi spent time in al Qasim province, Saudi Arabia where he transferred to college but soon dropped out and ceased contact with his family. While there he probably associated with the radical Saudi cleric named Sulayman al-Alwan as several other future hijackers had.[3]
 
 Saeed later headed to Chechnya to participate in the conflict against the Russians. At this time, Chechen fighters were turning away additional foreigners, many of whom ended up in al-Qaeda camps in Afghanistan to train and await entry to Chechnya. Saeed ended up at the Al Farouq training camp, where he met Ahmed al-Nami, and the brothers Wail and Waleed al-Shehri. The four reportedly pledge themselves to Jihad in the Spring of 2000, in a ceremony presided over by Wail—who had dubbed himself _Abu Mossaeb al-Janubi_ after one of Muhammad's companions.[4]
 
@@ -33,7 +33,7 @@ On September 7, all four of Flight 93 hijackers flew from Fort Lauderdale to New
 
 Attacks
 
-Saeed_al-GhamdiPass_Visa.jpg page from Saeed al-Ghamdi's Kingdom of Saudi Arabia passport recovered from the United Airlines Flight 93 crash site]]
+page from Saeed al-Ghamdi's Kingdom of Saudi Arabia passport recovered from the United Airlines Flight 93 crash site]]
 
 On the morning of September 11, 2001, Ghamdi boarded United Airlines Flight 93 without incident. Due to the flight's delay, the pilot and crew were notified of the previous hijackings that day, and were told to be on the alert. Within minutes, Flight 93 was hijacked as well.
 

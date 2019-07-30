@@ -1,1 +1,0 @@
-| {{*}}  Kingdom of Croatia

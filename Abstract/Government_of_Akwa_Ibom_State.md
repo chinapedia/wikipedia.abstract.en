@@ -1,1 +1,0 @@
-AKWA IBOM STATE GOVERNMENT is the government of Akwa Ibom, concerned with the administration of the state ministries. The government consists of EXECUTIVE, LEGISLATIVE and Judiciary. The government is headed by the AKWA IBOM STATE GOVERNOR who is the policy-maker and often assisted by the commissioners and other civil servant of the state.

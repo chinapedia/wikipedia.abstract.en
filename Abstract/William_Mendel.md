@@ -1,1 +1,0 @@
-WILLIAM MENDEL (1854-1917) was a financier who with his partners arranged funding for several businesses in Britain during the late 19th and early 20th century. These included Harrods, Dickins & Jones, and D H Evans. Some of their money making activities were controversial and evidence was given in court that they paid inducements to newspapers for favourable reviews.

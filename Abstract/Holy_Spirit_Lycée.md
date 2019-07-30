@@ -1,1 +1,0 @@
-HOLY SPIRIT LYCÉE (_French:_Lycée du Saint-Esprit) in Gihosha, Bujumbura, Burundi, covers ages 11 through 18 and has about 800 students. The Lycée is managed by the Society of Jesus. It has ranked first in the nation in the national exams.[1][2]

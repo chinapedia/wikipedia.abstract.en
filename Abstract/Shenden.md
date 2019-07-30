@@ -1,1 +1,0 @@
-SHENDEN also known as SENDEN is a tourist rivers in Jepara Town, its in Mulyoharjo[1] Village. located at 2 km eastward of the hall of Jepara Regency. Shenden is one of famous[2] rivers in Jepara. Because, Shenden is a beautiful little river and natural and clean water that is made in a place to swim, shower, and water play. Shenden river there is also a mini waterfall.

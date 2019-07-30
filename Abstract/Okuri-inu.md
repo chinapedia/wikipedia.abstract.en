@@ -1,1 +1,0 @@
-The OKURI-INU (送り犬) (literally, 'escorting dog') is a kind of yōkai. There are stories of the okuri-inu from the Tōhoku region to Kyushu, but depending on the area it can be a wolf not a dog, and there are numerous differences in its behaviour. It is sometimes also called simply the 'yama-inu' (山犬) (wild dog, wolf) or the 'ōkami' (狼) (wolf).[1]

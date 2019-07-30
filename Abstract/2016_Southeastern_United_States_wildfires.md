@@ -1,1 +1,0 @@
-The 2016 SOUTHEASTERN UNITED STATES WILDFIRES were a series of wildfires in the Southeastern United States in October and November 2016. , the U.S. Forest Service reported tracking 33 wildfires that had burned about .

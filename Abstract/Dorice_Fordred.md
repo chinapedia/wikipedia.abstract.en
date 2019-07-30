@@ -1,1 +1,0 @@
-DORICE FORDRED (25 November 1902 – 4 August 1980) was a South African actress, best known for character parts and Shakespearean roles on the London stage.[1] The _Brooklyn Daily Eagle_ commented in 1931, "She is one of those rare things, a young and attractive character actress."[2]

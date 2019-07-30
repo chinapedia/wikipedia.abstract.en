@@ -1,1 +1,0 @@
-TELEVISION is an American rock band from New York City, most notably active in the 1970s. The group was founded by Tom Verlaine, Richard Lloyd, Billy Ficca, and Richard Hell. An early fixture of CBGB and the 1970s New York rock scene, the band is considered influential in the development of punk and alternative music.[1][2]

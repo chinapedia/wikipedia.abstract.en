@@ -1,1 +1,0 @@
-CHRIS DE WITTE (born 13 January 1978) is a Belgian former footballer who played as a forward.[1][2] He represented R.S.C. Anderlecht in his native country, after which he went abroad to play for FC Twente and FC Groningen in the Netherlands.[3]

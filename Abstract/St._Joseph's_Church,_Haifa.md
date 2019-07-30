@@ -1,1 +1,0 @@
-The ST. JOSEPH'S CHURCH[1] ( ) is a religious building that is affiliated with the Catholic Church and is administered by the Order of Carmelites, located in the German Colony of Haifa,[2][3] northern Israel.[4] Beside the church dedicated to St. Joseph, is found a school and offices linked to the church.

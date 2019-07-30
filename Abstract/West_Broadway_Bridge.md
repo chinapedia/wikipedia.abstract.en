@@ -1,1 +1,0 @@
-The WEST BROADWAY BRIDGE, aka WEST STREET BRIDGE and the CONCRETE-METAL BRIDGE, is a vehicular bridge over the Passaic River in Paterson, New Jersey. It carries West Broadway (CR 673), traditionally the Paterson-Hamburg Turnpike, and connects to County Route 509 at its west end.

@@ -1,1 +1,0 @@
-JOHANNES HÜBNER (born 7 October 1956 in Vienna) was an Austrian politician and Member of the National Council (Parliament) for Vienna South-West for the Freedom Party of Austria (FPÖ) 2008- Oct 2017.[1] He previously sat in parliament for Vienna District 4 (1986-1997). He was until October 2017 the party's spokesman on Foreign Affairs.

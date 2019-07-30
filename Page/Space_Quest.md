@@ -1,5 +1,3 @@
-Space_Quest_logo.gif
-
 _SPACE QUEST_ is a series of six comic science fiction computer adventure games released between 1986 and 1995. The games follow the adventures of a hapless janitor named Roger Wilco as he campaigns through the galaxy for "truth, justice and really clean floors".
 
 Initially created for Sierra On-Line by Mark Crowe and Scott Murphy (who called themselves the "Two Guys from Andromeda"), the games parodied both science fiction properties such as _Star Wars_ and _Star Trek_ (the theme song itself is a parody of the _Star Wars_ theme), as well as pop-culture phenomena from McDonald's to Microsoft. The series featured a silly sense of humor heavily reliant on puns and wacky storylines. Roger Wilco, a perpetual loser, is often depicted as the underdog who repeatedly saves the universe (often by accident) – only to be either ignored or punished for violating minor regulations in the process.

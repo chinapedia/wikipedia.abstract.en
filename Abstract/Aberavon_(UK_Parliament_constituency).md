@@ -1,1 +1,0 @@
-ABERAVON (Welsh: _Aberafan_) is a constituency represented in the House of Commons of the Parliament of the United Kingdom. It returns one Member of Parliament (MP) by the first past the post system. It is represented by Stephen Kinnock of the Labour Party.

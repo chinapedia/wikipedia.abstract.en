@@ -1,1 +1,0 @@
-THE CONCERT is a lost[1] 1921 silent comedy film directed by Victor Schertzinger and starring Lewis Stone, Myrtle Stedman, Raymond Hatton and Mabel Julienne Scott. It was produced and distributed by Goldwyn Pictures.[2] It was based upon the play of the same title by Hermann Bahr.

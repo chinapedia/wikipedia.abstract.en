@@ -1,1 +1,0 @@
-FELIX HAUSDORFF (November 8, 1868 – January 26, 1942) was a German mathematician who is considered to be one of the founders of modern topology and who contributed significantly to set theory, descriptive set theory, measure theory, function theory, and functional analysis.

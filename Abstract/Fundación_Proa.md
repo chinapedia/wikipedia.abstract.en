@@ -1,1 +1,0 @@
-Fachada_del_edificio_de_Fundación_Proa,_La_Boca.jpg

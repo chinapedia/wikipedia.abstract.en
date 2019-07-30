@@ -1,1 +1,0 @@
-A GIMLET is a hand tool for drilling small holes, mainly in wood, without splitting. It was defined in Joseph Gwilt's _Architecture_ (1859) as "a piece of steel of a semi-cylindrical form, hollow on one side, having a cross handle at one end and a worm or screw at the other".[1]

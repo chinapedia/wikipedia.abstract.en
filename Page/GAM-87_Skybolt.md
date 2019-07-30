@@ -23,7 +23,7 @@ WS-199 was generally successful, but the two ALBMs had shorter range than desire
 
 British involvement
 
-RAF_Museum_Cosford_-_DSC08475.JPG Showing the RAF roundel and the manufacturer (Douglas Aircraft) logo]]
+Showing the RAF roundel and the manufacturer (Douglas Aircraft) logo]]
 
 At the same time, the Royal Air Force (RAF) was having problems with their MRBM missile project, the Blue Streak, which was long overdue. Even if this was successful it faced the serious problem of basing. No fixed land-based missile system could be credibly installed in the British Isles; they were well within the range of Soviet air strikes. The limited land mass available meant it would be relatively easy for missile sites to be spotted no matter what security measures were taken. Suitable locations for construction also carried a social and political cost. Fixed land-based ballistic missile sites need many thousands of acres per squadron (typically ten missiles); and the squadrons need to be apportioned over many thousands of square miles so that no single attack could conceivably destroy them all in one strike.
 

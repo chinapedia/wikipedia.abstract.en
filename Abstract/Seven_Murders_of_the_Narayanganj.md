@@ -1,1 +1,0 @@
-NARAYANGANJ SEVEN MURDER is the primarily enforced disappearance and eventually the murder of seven people including a panel-mayor of Narayanganj City Corporation and a lawyer in April 2014.[1][2] 27 Rapid Action Battalion (RAB) members, including three top RAB 11 officials, were involved in the abduction and killing.[3]

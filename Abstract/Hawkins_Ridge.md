@@ -1,1 +1,0 @@
-HAWKINS RIDGE is a ridge in southeastern Ozark County in the Ozarks of southern Missouri.[1] The north-south trending ridge is traversed by Missouri Route EE and lies about two miles east of Norfork Lake. Hawkins Ridge church and cemetery lie adjacent to Route EE along the ridge.[2]

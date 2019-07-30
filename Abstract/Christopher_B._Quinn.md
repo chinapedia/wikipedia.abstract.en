@@ -1,1 +1,0 @@
-'''Christopher B. Quinn ''' (born October 11, 1967) is a Republican member of the Pennsylvania House of Representatives, representing the 168th legislative district.[1][2] He was first elected in a special election held on July 12, 2016.[3]

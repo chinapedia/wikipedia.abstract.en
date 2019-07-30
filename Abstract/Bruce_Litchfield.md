@@ -1,1 +1,0 @@
-BRUCE ALBERT JOHN LITCHFIELD (20 December 1908 – 10 October 1995) was an architect in Darwin in the Northern Territory of Australia. He was integral to the reestablishment of Darwin after it was bombed by the Japanese in 1942. He later designed and built many significant early buildings in Katherine.

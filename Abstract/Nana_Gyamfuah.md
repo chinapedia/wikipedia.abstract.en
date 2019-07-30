@@ -1,1 +1,0 @@
-'''Nana Amma Gyamfuah ''' (born 4 August 1978) is a Ghanaian footballer who played as a forward for the Ghana women's national football team. She was part of the team at the 1999 FIFA Women's World Cup. On club level she played for Postal Ladies in Ghana.[1]

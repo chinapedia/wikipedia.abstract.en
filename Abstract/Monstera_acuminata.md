@@ -1,1 +1,0 @@
-_MONSTERA ACUMINATA_, or SHINGLE PLANT, is a species of flowering plant from Araceae family which is widespread from Mexico to Central America.[1] It is abundant in central Petén and extends north to San Luis Potosí, making it the northernmost of the species of _Monstera._[2]

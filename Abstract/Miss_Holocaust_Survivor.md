@@ -1,1 +1,0 @@
-MISS HOLOCAUST SURVIVOR is an Israeli beauty pageant created in 2012 for women who have survived the Holocaust. It was organized by the evangelical Protestant International Christian Embassy and Yad Ezer L’Haver. The event, held each year in Haifa, Israel, has engendered controversy.[1][2] The pageant has been held annually since 2012, except for 2014.

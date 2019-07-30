@@ -1,1 +1,0 @@
-Sarah_MacIntosh,_British_diplomat.jpg SARAH MACINTOSH (born 7 August 1969) is a British diplomat who is the British Ambassador to NATO. She previously served as High Commissioner to Sierra Leone and Ambassador to Liberia from 2006 to 2008.

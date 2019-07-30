@@ -1,1 +1,0 @@
-SHITPOSTING is posting large amounts of content of "aggressively, ironically, and trollishly poor quality"[1] to an online forum or social network,[2][3][4][5] in some cases intended to derail discussions or otherwise make the site unusable to its regular visitors.[6]

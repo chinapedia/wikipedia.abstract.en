@@ -1,1 +1,0 @@
-The second season of _The Real Housewives of Dallas_, an American reality television series, was broadcast on Bravo. It aired from August 14, 2017, until November 13, 2017, and was primarily filmed in Dallas, Texas. Its executive producers are Adam Karpel, Andrew, John Paparazzo, Rich Bye, Samantha Billett and Andy Cohen.

@@ -1,1 +1,0 @@
-is a Japanese male weightlifter, competing in the 56 kg category and representing Japan at international competitions. He participated at the 2000 Summer Olympics in the 56 kg event. He competed at world championships, most recently at the 1999 World Weightlifting Championships.[1]

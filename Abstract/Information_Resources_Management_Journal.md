@@ -1,1 +1,0 @@
-The _INFORMATION RESOURCES MANAGEMENT JOURNAL_ (IRMJ) is a quarterly peer-reviewed applied research academic journal which focuses on information technology management.[1] It is published by IGI Global. The journal was established in 1988.

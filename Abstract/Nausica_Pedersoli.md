@@ -1,1 +1,0 @@
-'''Nausica Pedersoli ''' (born 17 April 1969) is an Italian footballer who played as a forward for the Italy women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she played for Milan '82 in Italy.[1]

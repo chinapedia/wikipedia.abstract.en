@@ -1,1 +1,0 @@
-THE YOUNGHUSBAND FOOTBALL ACADEMY, INC. (TYFA) is a football academy based in the Philippines. A women's football team from the academy participated in the 2016–17 season of the PFF Women's League, the top flight women's football league in the Philippines.

@@ -1,1 +1,0 @@
-ALBANIA–BULGARIA RELATIONS are current and historical relations of Albania and Bulgaria. Diplomatic relations between Albania and Bulgaria were established in 1922. The Albanian Embassy of Bulgaria is in Sofia, and the Bulgarian Embassy is in Tirana.

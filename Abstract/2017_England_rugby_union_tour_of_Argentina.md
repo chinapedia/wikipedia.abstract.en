@@ -1,1 +1,0 @@
-In June 2017, England played a two-test series against as part of the 2017 mid-year rugby union tests. The series was part of the fifth year of the global rugby calendar established by the International Rugby Board, which runs through to 2019.[1]

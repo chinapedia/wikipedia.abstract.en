@@ -1,1 +1,0 @@
-HESHUN TOWN () is an ancient town in Tengchong City, located four kilometers southwest of the city centre in Yunnan, China. The town's ancient name is YANGWENDUN () which was changed to Heshun () and eventually the name it bears today. Heshun is well known for its quadrangle courtyards that have been built into the town's hills.

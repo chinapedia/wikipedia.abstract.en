@@ -7,8 +7,6 @@ All major modern web browsers—including Mozilla Firefox, Internet Explorer, Go
 
 Overview
 
-Bitmap_VS_SVG.svg
-
 SVG has been in development within the World Wide Web Consortium (W3C) since 1999 after six competing proposals for vector graphics languages had been submitted to the consortium during 1998. The early SVG Working Group decided not to develop any of the commercial submissions, but to create a new markup language that was informed by but not really based on any of them.[1]
 
 SVG allows three types of graphic objects: vector graphic shapes such as paths and outlines consisting of straight lines and curves, bitmap images, and text. Graphical objects can be grouped, styled, transformed and composited into previously rendered objects. The feature set includes nested transformations, clipping paths, alpha masks, filter effects and template objects. SVG drawings can be interactive and can include animation, defined in the SVG XML elements or via scripting that accesses the SVG Document Object Model (DOM). SVG uses CSS for styling and JavaScript for scripting. Text, including internationalization and localization, appearing in plain text within the SVG DOM enhances the accessibility of SVG graphics.[2]
@@ -140,8 +138,6 @@ An SVG document can define components including shapes, gradients etc., and use 
 
 Example
 
-Image:SVG example markup grid.svg
-
 This code will produce the shapes shown in the image (excluding the grid and labels):
 
     <?xml version="1.0" encoding="UTF-8" ?>
@@ -154,8 +150,6 @@ This code will produce the shapes shown in the image (excluding the grid and lab
 
 
 SVG on the web
-
-Пример_чертежа_в_SVG_формате.svg
 
 The use of SVG on the web was limited by the lack of support in older versions of Internet Explorer (IE). Many web sites that serve SVG images, such as Wikipedia, also provide the images in a raster format, either automatically by HTTP content negotiation or by allowing the user directly to choose the file.
 

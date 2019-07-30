@@ -1,1 +1,0 @@
-_OZIMEK_ is a genus of sharovipterygid protorosaur, a type of gliding Triassic archosauromorph reptile from Poland closely related to the Kyrgyzstani _Sharovipteryx_. It contains one species, _O. VOLANS_, named in 2016 by Dzik and Sulej.[1]

@@ -1,1 +1,0 @@
-LOOP 7 is a beltway in the U.S. state of Texas around the town of Athens. The highway additionally serves as a bypass for U.S. Highway 175 (US 175), State Highway 19 (SH 19), and SH 31 around the town.

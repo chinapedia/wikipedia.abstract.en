@@ -1,1 +1,0 @@
-VICTORINO CHERMONT (24 April 1973 in Rio de Janeiro – 28 November 2016 in La Unión) was a Brazilian sports journalist and television presenter. Chermont died in the crash of LaMia Airlines Flight 2933 on 28 November 2016 while covering the Associação Chapecoense de Futebol team for Fox Sports.

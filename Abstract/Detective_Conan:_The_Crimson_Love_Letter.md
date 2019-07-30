@@ -1,1 +1,0 @@
-| production companies = TMS Entertainment

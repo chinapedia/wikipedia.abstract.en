@@ -1,1 +1,0 @@
-PABLO JOSÉ LÓPEZ JIMÉNEZ (; born in Málaga, Spain on 11 March 1984) is a Spanish singer and musician. He sings mostly melodic pop and pop rock songs. He also plays piano and guitar. He is signed to Universal Music Group.

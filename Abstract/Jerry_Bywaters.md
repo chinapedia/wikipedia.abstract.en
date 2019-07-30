@@ -1,1 +1,0 @@
-WILLIAMSON GERALD BYWATERS (1906–1989) was an American artist, university professor, museum director, art critic and a historian of the Texas region.[1] Jerry Bywaters' career and life's work focused on elevating the quality of Texas art, attracting national recognition to the art of the region and lifting it above provincialism.[2]

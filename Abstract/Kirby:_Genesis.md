@@ -1,1 +1,0 @@
-_KIRBY: GENESIS_ was a comic book limited series published from May 25, 2011 to July 11, 2012 by Dynamite Entertainment. It was based on Jack Kirby's work for Pacific Comics in the 1980s and the "Kirbyverse" line published by Topps Comics in the 1990s.

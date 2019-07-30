@@ -1,1 +1,0 @@
-The TANNING TAX is a ten percent federal excise tax that the U.S. government requires tanning providers to collect on indoor tanning services. Tanning service providers must pay the tax each quarter to the IRS.[1] The ten percent tax must be collected from the client, according to the IRS, similar to the collection of a sales tax.[2]

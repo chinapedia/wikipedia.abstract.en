@@ -1,1 +1,0 @@
-The SOMME CUP is a rugby trophy first won by a New Zealand Army team, known as the Trench Blacks, during World War One in 1917. It is claimed that around 60,000 people watched the match, which was won 40-0 by the New Zealand team.[1][2]

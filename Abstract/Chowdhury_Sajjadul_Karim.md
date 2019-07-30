@@ -1,1 +1,0 @@
-CHOWDHURY SAJJADUL KARIM was a Bangladeshi nuclear physicist and former advisor of the caretaker government led by Fakhruddin Ahmed.[1][2] He was in charge of the Ministry of Agriculture, Ministry of Fisheries and Livestock, and Ministry of Environment and Forest.[3]

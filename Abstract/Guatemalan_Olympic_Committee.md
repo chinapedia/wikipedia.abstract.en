@@ -1,1 +1,0 @@
-The GUATEMALAN OLYMPIC COMMITTEE (, abbreviated as COG) is a non-profit organization serving as the National Olympic Committee of Guatemala and a part of the International Olympic Committee and PASO. It was formed in 1947 and recognized by the IOC that same year.

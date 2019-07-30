@@ -1,1 +1,0 @@
-RAILWAY MIXED HIGH SCHOOL is an English medium high school in Erode, Tamil Nadu. It was established as an Anglo-Indian school in the year of 1916, primarily for the benefit of Railway Employee wards. Initially started as a primary school, it has been upgraded as a High school during 1997. It is now under the Administrative control of Salem railway division.[1]

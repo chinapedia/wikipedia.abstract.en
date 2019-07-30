@@ -82,11 +82,11 @@ Puzzles
 
 Trick Donkeys problem
 
-Sam Loyd's trick donkeys problem One of Loyd's notable puzzles was the "Trick Donkeys". It was based on a similar puzzle involving dogs published in 1857. In the problem, the solver must cut the drawing along the dotted lines and rearrange the three pieces so that the riders appear to be riding the donkeys.
+One of Loyd's notable puzzles was the "Trick Donkeys". It was based on a similar puzzle involving dogs published in 1857. In the problem, the solver must cut the drawing along the dotted lines and rearrange the three pieces so that the riders appear to be riding the donkeys.
 
 Back from the Klondike
 
-Back_from_the_klondike.svg This is one of Sam Loyd's most famous puzzles, first printed in the _New York Journal and Advertiser_, April 24, 1898 (as far as available evidence indicates). Loyd's original instructions were to:
+This is one of Sam Loyd's most famous puzzles, first printed in the _New York Journal and Advertiser_, April 24, 1898 (as far as available evidence indicates). Loyd's original instructions were to:
 
   Start from that heart in the center and go three steps in a straight line in any one of the eight directions, north, south, east or west, or on the bias, as the ladies say, northeast, northwest, southeast or southwest. When you have gone three steps in a straight line, you will reach a square with a number on it, which indicates the second day's journey, as many steps as it tells, in a straight line in any of the eight directions. From this new point when reached, march on again according to the number indicated, and continue on, following the requirements of the numbers reached, until you come upon a square with a number which will carry you just one step beyond the border, when you are supposed to be out of the woods and can holler all you want, as you will have solved the puzzle.
 

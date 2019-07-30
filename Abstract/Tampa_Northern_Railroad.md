@@ -1,1 +1,0 @@
-The TAMPA NORTHERN RAILROAD was a historic railroad line running from just east of downtown Tampa north to the city of Brooksville in Hernando County. The line continues to operate today and is under the ownership of the CSX Corporation, who operates it as their Brooksville Subdivision north of Sulphur Springs and part of their Clearwater Subdivision south of there.[1][2]

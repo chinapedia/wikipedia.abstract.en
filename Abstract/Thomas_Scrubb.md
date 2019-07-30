@@ -1,1 +1,0 @@
-THOMAS RYAN SCRUBB (born September 26, 1991 in Richmond, British Columbia) is a Canadian professional basketball player of British descent.[1][2][3] He is currently playing with Pallacanestro Varese in the Italian Lega Basket Serie A (LBA).

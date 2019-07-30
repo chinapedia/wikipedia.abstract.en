@@ -1,1 +1,0 @@
-SAINT SOPHIA'S CATHEDRAL () is a Catholic temple that serves as the principal church of the Roman Catholic Diocese of Kyiv-Zhytomyr, Ukraine. The temple was built between 1746 and 1748 and was founded by Bishop Samuel Jan Ozga.

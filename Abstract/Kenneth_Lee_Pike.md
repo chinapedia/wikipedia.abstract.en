@@ -1,1 +1,0 @@
-KENNETH LEE PIKE (June 9, 1912 – December 31, 2000) was an American linguist and anthropologist. He was the originator of the theory of tagmemics, the coiner of the terms "emic" and "etic" and the developer of the constructed language Kalaba-X for use in teaching the theory and practice of translation.

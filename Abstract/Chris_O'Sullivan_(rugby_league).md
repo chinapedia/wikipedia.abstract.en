@@ -1,1 +1,0 @@
-CHRIS O'SULLIVAN (born 23 September 1959) is an Australian former professional rugby league footballer who played in the 1980s and 1990s. O'Sullivan played for the Canberra Raiders (winning the 1989 and 1990 Grand Finals).[1] O'Sullivan's position of choice was .

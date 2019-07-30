@@ -1,1 +1,0 @@
-STANWICK LAKES is a country park on the outskirts of the village of Stanwick and was opened in 2006. It is managed by the Rockingham Forest Trust on behalf of East Northamptonshire District Council and comprises 750 acres (304 hectares) of former gravel pits. It is part of the larger River Nene Regional Park.

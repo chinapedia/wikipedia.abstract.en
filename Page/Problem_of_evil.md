@@ -36,7 +36,7 @@ If God lacks any one of these qualities—omniscience, omnipotence, or omnibenev
 
 Evidential problem of evil
 
-Deerfire_high_res_edit.jpg's example of natural evil: "In some distant forest lightning strikes a dead tree, resulting in a forest fire. In the fire a fawn is trapped, horribly burned, and lies in terrible agony for several days before death relieves its suffering."[28] Rowe also cites the example of human evil where an innocent child is a victim of violence and thereby suffers.[29]]]
+'s example of natural evil: "In some distant forest lightning strikes a dead tree, resulting in a forest fire. In the fire a fawn is trapped, horribly burned, and lies in terrible agony for several days before death relieves its suffering."[28] Rowe also cites the example of human evil where an innocent child is a victim of violence and thereby suffers.[29]]]
 
 The EVIDENTIAL PROBLEM OF EVIL (also referred to as the probabilistic or inductive version of the problem) seeks to show that the existence of evil, although logically consistent with the existence of God, counts against or lowers the probability of the truth of theism. As an example, a critic of Plantinga's idea of "a mighty nonhuman spirit" causing natural evils may concede that the existence of such a being is not logically impossible but argue that due to lacking scientific evidence for its existence this is very unlikely and thus it is an unconvincing explanation for the presence of natural evils. Both absolute versions and relative versions of the evidential problems of evil are presented below.
 
@@ -316,8 +316,6 @@ According to Sharma, "Madhva's tripartite classification of souls makes it unnec
 
 Philosophers
 
-Epikouros_BM_1843.jpg
-
 Epicurus
 
 Epicurus is generally credited with first expounding the problem of evil, and it is sometimes called the "Epicurean paradox", the "riddle of Epicurus", or the "Epicurus' trilemma":
@@ -333,8 +331,6 @@ David Hume's formulation of the problem of evil in _Dialogues Concerning Natural
   "[God's] power we allow [is] infinite: Whatever he wills is executed: But neither man nor any other animal are happy: Therefore he does not will their happiness. His wisdom is infinite: He is never mistaken in choosing the means to any end: But the course of nature tends not to human or animal felicity: Therefore it is not established for that purpose. Through the whole compass of human knowledge, there are no inferences more certain and infallible than these. In what respect, then, do his benevolence and mercy resemble the benevolence and mercy of men?"
 
 Gottfried Leibniz
-
-Gottfried_Wilhelm_Leibniz,_Bernhard_Christoph_Francke.jpg
 
 In his _Dictionnaire Historique et Critique_, the sceptic Pierre Bayle denied the goodness and omnipotence of God on account of the sufferings experienced in this earthly life. Gottfried Leibniz introduced the term theodicy in his 1710 work _Essais de Théodicée sur la bonté de Dieu, la liberté de l'homme et l'origine du mal_ ("Theodicic Essays on the Benevolence of God, the Free will of man, and the Origin of Evil") which was directed mainly against Bayle. He argued that this is the best of all possible worlds that God could have created.
 

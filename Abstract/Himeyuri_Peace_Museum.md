@@ -1,1 +1,0 @@
-opened in Itoman, Okinawa Prefecture, Japan in 1989. Located within Okinawa Senseki Quasi-National Park, it is dedicated to the Himeyuri Student Corps during the Battle of Okinawa and to the ideal of Peace.[1][2][3]

@@ -1,1 +1,0 @@
-SARA REILING-HILDEBRAND (born September 18, 1979) is an American diver. She competed at the 2000 Summer Olympics in Sydney, in the women's 10 metre platform. She competed at the 2004 Summer Olympics in Athens, in the women's 10 metre platform and the women's synchronized 10 metre platform.[1]

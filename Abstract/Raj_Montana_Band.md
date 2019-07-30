@@ -1,1 +1,0 @@
-RAJ MONTANA BAND is a famous Swedish pop and rock band that also served as a backing band for Swedish singers Dan Hylander and Py Bäckman. The name derives from the band's original name, RAY MONTANA AND HIS MOONLIGHT BOYS. The band dissolved in 1985 but was resurrected in 1997 for a series of reunion tours and a compilation album of earlier hits.

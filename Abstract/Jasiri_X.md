@@ -1,1 +1,0 @@
-JASIRI X (born Jasiri Oronde Smith) is a Pittsburgh-based rapper and activist[1] who gained attention for his 2007 song "Free the Jena 6."[2] He is a recipient of the Rauschenberg Artist as Activist award[3] and founder of anti-violence group 1Hood.[4][5] In 2016, he was awarded an honorary doctorate from the Chicago Theological Seminary.[6]

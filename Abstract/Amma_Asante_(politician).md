@@ -1,1 +1,0 @@
-AMMA ASENTEWAA ASANTE (born 14 May 1972) is a Dutch politician. She was a member of the municipal council of Amsterdam from 1998 to 2006 and a member of the House of Representatives of the Netherlands for the Labour Party from 2016 to 2017.

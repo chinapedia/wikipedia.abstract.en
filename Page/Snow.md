@@ -7,7 +7,7 @@ Snow affects such human activities as transportation: creating the need for keep
 
 Precipitation
 
-Worldwide occurrence of snowfall. Snow at reference above sea level (meters): Snow develops in clouds that themselves are part of a larger weather system. The physics of snow crystal development in clouds results from a complex set of variables that include moisture content and temperatures. The resulting shapes of the falling and fallen crystals can be classified into a number of basic shapes and combinations, thereof. Occasionally, some plate-like, dendritic and stellar-shaped snowflakes can form under clear sky with a very cold temperature inversion present.[4]
+Snow develops in clouds that themselves are part of a larger weather system. The physics of snow crystal development in clouds results from a complex set of variables that include moisture content and temperatures. The resulting shapes of the falling and fallen crystals can be classified into a number of basic shapes and combinations, thereof. Occasionally, some plate-like, dendritic and stellar-shaped snowflakes can form under clear sky with a very cold temperature inversion present.[4]
 
 Cloud formation
 
@@ -15,19 +15,17 @@ Snow clouds usually occur in the context of larger weather systems, the most imp
 
 Low pressure areas
 
-Feb242007_blizzard.gif
-
 Mid-latitude cyclones are low pressure areas which are capable of producing anything from cloudiness and mild snow storms to heavy blizzards.[5] During a hemisphere's fall, winter, and spring, the atmosphere over continents can be cold enough through the depth of the troposphere to cause snowfall. In the Northern Hemisphere, the northern side of the low pressure area produces the most snow.[6] For the southern mid-latitudes, the side of a cyclone that produces the most snow is the southern side.
 
 Fronts
 
-Snowsquall_line-Bourrasque_neige_frontal_NOAA.png, Massachusetts]] A cold front, the leading edge of a cooler mass of air, can produce frontal snowsqualls—an intense frontal convective line (similar to a rainband), when temperature is near freezing at the surface. The strong convection that develops has enough moisture to produce whiteout conditions at places which line passes over as the wind causes intense blowing snow.[7] This type of snowsquall generally lasts less than 30 minutes at any point along its path but the motion of the line can cover large distances. Frontal squalls may form a short distance ahead of the surface cold front or behind the cold front where there may be a deepening low pressure system or a series of trough lines which act similar to a traditional cold frontal passage. In situations where squalls develop post-frontally it is not unusual to have two or three linear squall bands pass in rapid succession only separated by 25 miles (40 kilometers) with each passing the same point in roughly 30 minutes apart. In cases where there is a large amount of vertical growth and mixing the squall may develop embedded cumulonimbus clouds resulting in lightning and thunder which is dubbed thundersnow.
+, Massachusetts]] A cold front, the leading edge of a cooler mass of air, can produce frontal snowsqualls—an intense frontal convective line (similar to a rainband), when temperature is near freezing at the surface. The strong convection that develops has enough moisture to produce whiteout conditions at places which line passes over as the wind causes intense blowing snow.[7] This type of snowsquall generally lasts less than 30 minutes at any point along its path but the motion of the line can cover large distances. Frontal squalls may form a short distance ahead of the surface cold front or behind the cold front where there may be a deepening low pressure system or a series of trough lines which act similar to a traditional cold frontal passage. In situations where squalls develop post-frontally it is not unusual to have two or three linear squall bands pass in rapid succession only separated by 25 miles (40 kilometers) with each passing the same point in roughly 30 minutes apart. In cases where there is a large amount of vertical growth and mixing the squall may develop embedded cumulonimbus clouds resulting in lightning and thunder which is dubbed thundersnow.
 
 A warm front can produce snow for a period, as warm, moist air overrides below-freezing air and creates precipitation at the boundary. Often, snow transitions to rain in the warm sector behind the front.[8]
 
 Lake and ocean effects
 
-Lake_Effect_Snow_on_Earth.jpg and Lake Michigan creating lake-effect snowfall]]
+and Lake Michigan creating lake-effect snowfall]]
 
 Lake-effect snow is produced during cooler atmospheric conditions when a cold air mass moves across long expanses of warmer lake water, warming the lower layer of air which picks up water vapor from the lake, rises up through the colder air above, freezes and is deposited on the leeward (downwind) shores.[9][10]
 
@@ -41,7 +39,7 @@ Orographic or relief snowfall is caused when masses of air pushed by wind are fo
 
 Cloud physics
 
-Feathery_Snow_Crystals_(2217830221).jpg A snowflake consists of roughly 10¹⁹ water molecules, which are added to its core at different rates and in different patterns, depending on the changing temperature and humidity within the atmosphere that the snowflake falls through on its way to the ground. As a result, snowflakes vary among themselves, while following similar patterns.[18][19][20]
+A snowflake consists of roughly 10¹⁹ water molecules, which are added to its core at different rates and in different patterns, depending on the changing temperature and humidity within the atmosphere that the snowflake falls through on its way to the ground. As a result, snowflakes vary among themselves, while following similar patterns.[18][19][20]
 
 Snow crystals form when tiny supercooled cloud droplets (about 10 μm in diameter) freeze. These droplets are able to remain liquid at temperatures lower than , because to freeze, a few molecules in the droplet need to get together by chance to form an arrangement similar to that in an ice lattice. Then the droplet freezes around this "nucleus". In warmer clouds an aerosol particle or "ice nucleus" must be present in (or in contact with) the droplet to act as a nucleus. Ice nuclei are very rare compared to that cloud condensation nuclei on which liquid droplets form. Clays, desert dust and biological particles can be nuclei.[21] Artificial nuclei include particles of silver iodide and dry ice, and these are used to stimulate precipitation in cloud seeding.[22]
 
@@ -49,7 +47,7 @@ Once a droplet has frozen, it grows in the supersaturated environment—one wher
 
 Classification of snowflakes
 
-Snowflakeschapte00warriala-p11-p21-p29-p39.jpg[25]]]
+[25]]]
 
 Micrography of thousands of snowflakes from 1885 onward, starting with Wilson Alwyn Bentley, revealed the wide diversity of snowflakes within a classifiable set of patterns.[26] Closely matching snow crystals have been observed.[27]
 
@@ -78,7 +76,7 @@ Magono and Lee devised a classification of freshly formed snow crystals that inc
 
 Accumulation
 
-Earth-satellite-seasons.gif Snow accumulates from a series of snow events, punctuated by freezing and thawing, over areas that are cold enough to retain snow seasonally or perennially. Major snow-prone areas include the Arctic and Antarctic, the Northern Hemisphere, and alpine regions. The liquid equivalent of snowfall may be evaluated using a snow gauge[34] or with a standard rain gauge, adjusted for winter by removal of a funnel and inner cylinder.[35] Both types of gauges melt the accumulated snow and report the amount of water collected.[36] At some automatic weather stations an ultrasonic snow depth sensor may be used to augment the precipitation gauge.[37]
+Snow accumulates from a series of snow events, punctuated by freezing and thawing, over areas that are cold enough to retain snow seasonally or perennially. Major snow-prone areas include the Arctic and Antarctic, the Northern Hemisphere, and alpine regions. The liquid equivalent of snowfall may be evaluated using a snow gauge[34] or with a standard rain gauge, adjusted for winter by removal of a funnel and inner cylinder.[35] Both types of gauges melt the accumulated snow and report the amount of water collected.[36] At some automatic weather stations an ultrasonic snow depth sensor may be used to augment the precipitation gauge.[37]
 
 Snow events
 
@@ -107,7 +105,7 @@ The following are world records regarding snowfall and snowflakes:
 
 Metamorphosis
 
-Sparkling-snow.crystals.jpg. In the foreground are hoar frost crystals, formed by refrozen water vapor emerging to the cold surface.]] After deposition, snow progresses on one of two paths that determine its fate, either _ablation_ (mostly by melting) or transitioning from firn (multi-year snow) into _glacier ice_. During this transition, snow "is a highly porous, sintered material made up of a continuous ice structure and a continuously connected pore space, forming together the snow microstructure". Almost always near its melting temperature, a snowpack is continually transforming these properties in a process, known as _metamorphism_, wherein all three phases of water may coexist, including liquid water partially filling the pore space.[56] Starting as a powdery deposition, snow becomes more granular when it begins to compact under its own weight, be blown by the wind, sinter particles together and commence the cycle of melting and refreezing. Water vapor plays a role as it deposits ice crystals, known as hoar frost, during cold, still conditions.[57]
+. In the foreground are hoar frost crystals, formed by refrozen water vapor emerging to the cold surface.]] After deposition, snow progresses on one of two paths that determine its fate, either _ablation_ (mostly by melting) or transitioning from firn (multi-year snow) into _glacier ice_. During this transition, snow "is a highly porous, sintered material made up of a continuous ice structure and a continuously connected pore space, forming together the snow microstructure". Almost always near its melting temperature, a snowpack is continually transforming these properties in a process, known as _metamorphism_, wherein all three phases of water may coexist, including liquid water partially filling the pore space.[56] Starting as a powdery deposition, snow becomes more granular when it begins to compact under its own weight, be blown by the wind, sinter particles together and commence the cycle of melting and refreezing. Water vapor plays a role as it deposits ice crystals, known as hoar frost, during cold, still conditions.[57]
 
 Seasonal snowpack
 
@@ -115,7 +113,7 @@ Over the course of time, a snowpack may settle under its own weight until its de
 
 Firn
 
-Firn_field_on_the_top_of_Säuleck.jpg—metamorphosed multi-year snow]] Firn is snow that has persisted for multiple years and has been recrystallized into a substance denser than névé, yet less dense and hard than glacial ice. Firn resembles caked sugar and is very resistant to shovelling. Its density generally ranges from to , and it can often be found underneath the snow that accumulates at the head of a glacier. The minimum altitude that firn accumulates on a glacier is called the _firn limit_, _firn line_ or _snowline_.[60][61]
+—metamorphosed multi-year snow]] Firn is snow that has persisted for multiple years and has been recrystallized into a substance denser than névé, yet less dense and hard than glacial ice. Firn resembles caked sugar and is very resistant to shovelling. Its density generally ranges from to , and it can often be found underneath the snow that accumulates at the head of a glacier. The minimum altitude that firn accumulates on a glacier is called the _firn limit_, _firn line_ or _snowline_.[60][61]
 
 
 Movement
@@ -124,11 +122,11 @@ There are four main mechanisms for movement of deposited snow: _drifting_ of uns
 
 Drifting
 
-Long_Mynd_snowdrift.jpeg When powdery, snow drifts with the wind from the location where it originally fell,[62] forming deposits with a depth of several meters in isolated locations.[63] After attaching to hillsides, blown snow can evolve into a snow slab, which is an avalanche hazard on steep slopes.[64]
+When powdery, snow drifts with the wind from the location where it originally fell,[62] forming deposits with a depth of several meters in isolated locations.[63] After attaching to hillsides, blown snow can evolve into a snow slab, which is an avalanche hazard on steep slopes.[64]
 
 Avalanche
 
-2007-02-15-CLB-Couloir2-1c.JPG An avalanche (also called a snowslide or snowslip) is a rapid flow of snow down a sloping surface. Avalanches are typically triggered in a starting zone from a mechanical failure in the snowpack (slab avalanche) when the forces on the snow exceed its strength but sometimes only with gradually widening (loose snow avalanche). After initiation, avalanches usually accelerate rapidly and grow in mass and volume as they entrain more snow. If the avalanche moves fast enough some of the snow may mix with the air forming a powder snow avalanche, which is a type of gravity current. They occur in three major mechanisms:[65]
+An avalanche (also called a snowslide or snowslip) is a rapid flow of snow down a sloping surface. Avalanches are typically triggered in a starting zone from a mechanical failure in the snowpack (slab avalanche) when the forces on the snow exceed its strength but sometimes only with gradually widening (loose snow avalanche). After initiation, avalanches usually accelerate rapidly and grow in mass and volume as they entrain more snow. If the avalanche moves fast enough some of the snow may mix with the air forming a powder snow avalanche, which is a type of gravity current. They occur in three major mechanisms:[65]
 
 -   _Slab avalanches_ occur in snow that has been deposited, or redeposited by wind. They have the characteristic appearance of a block (slab) of snow cut out from its surroundings by fractures. These account for most back-country fatalities.
 -   _Powder snow avalanches_ result from a deposition of fresh dry powder and generate a powder cloud, which overlies a dense avalanche. They can exceed speeds of , and masses of ; their flows can travel long distances along flat valley bottoms and even uphill for short distances.
@@ -136,7 +134,7 @@ Avalanche
 
 Snowmelt
 
-1997_Red_River_Flood_Grand_Forks.jpg in 1997]] Many rivers originating in mountainous or high-latitude regions receive a significant portion of their flow from snowmelt. This often makes the river's flow highly seasonal resulting in periodic flooding[67] during the spring months and at least in dry mountainous regions like the mountain West of the US or most of Iran and Afghanistan, very low flow for the rest of the year. In contrast, if much of the melt is from glaciated or nearly glaciated areas, the melt continues through the warm season, with peak flows occurring in mid to late summer.[68]
+in 1997]] Many rivers originating in mountainous or high-latitude regions receive a significant portion of their flow from snowmelt. This often makes the river's flow highly seasonal resulting in periodic flooding[67] during the spring months and at least in dry mountainous regions like the mountain West of the US or most of Iran and Afghanistan, very low flow for the rest of the year. In contrast, if much of the melt is from glaciated or nearly glaciated areas, the melt continues through the warm season, with peak flows occurring in mid to late summer.[68]
 
 Glaciers
 
@@ -151,7 +149,7 @@ Snow science addresses how snow forms, its distribution, and processes affecting
 
 Measurement and classification
 
-In the field snow scientists often excavate a snow pit within which to make basic measurements and observations. Observations can describe features caused by wind, water percolation, or snow unloading from trees.Water percolation into a snowpack can create flow fingers and ponding or flow along capillary barriers, which can refreeze into horizontal and vertical solid ice formations within the snowpack. Among the measurements of the properties of snowpacks that the _International Classification for Seasonal Snow on the Ground_ includes are: snow height, snow water equivalent, snow strength, and extent of snow cover. Each has a designation with code and detailed description. The classification extends the prior classifications of Nakaya and his successors to related types of precipitation and are quoted in the following table:[71] Taku_glacier_firn_ice_sampling.png
+In the field snow scientists often excavate a snow pit within which to make basic measurements and observations. Observations can describe features caused by wind, water percolation, or snow unloading from trees.Water percolation into a snowpack can create flow fingers and ponding or flow along capillary barriers, which can refreeze into horizontal and vertical solid ice formations within the snowpack. Among the measurements of the properties of snowpacks that the _International Classification for Seasonal Snow on the Ground_ includes are: snow height, snow water equivalent, snow strength, and extent of snow cover. Each has a designation with code and detailed description. The classification extends the prior classifications of Nakaya and his successors to related types of precipitation and are quoted in the following table:[71]
 
   Subclass      Shape                                                                          Physical process
   ------------- ------------------------------------------------------------------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -176,7 +174,7 @@ The most frequently used methods to map and measure snow extent, snow depth and 
 
 Models
 
-Watercyclesummary.jpg Snow science often leads to predictive models that include snow deposition, snow melt, and snow hydrology—elements of the Earth's water cycle—which help describe global climate change.[76]
+Snow science often leads to predictive models that include snow deposition, snow melt, and snow hydrology—elements of the Earth's water cycle—which help describe global climate change.[76]
 
 Global climate change models (GCMs) incorporate snow as a factor in their calculations. Some important aspects of snow cover include its albedo (reflectivity of incident radiation, including light) and insulating qualities, which slow the rate of seasonal melting of sea ice. As of 2011, the melt phase of GCM snow models were thought to perform poorly in regions with complex factors that regulate snow melt, such as vegetation cover and terrain. These models typically derive snow water equivalent (SWE) in some manner from satellite observations of snow cover.[77] The _International Classification for Seasonal Snow on the Ground_ defines SWE as "the depth of water that would result if the mass of snow melted completely".[78]
 
@@ -193,7 +191,7 @@ Snow affects the rights of way of highways, airfields and railroads. They share 
 
 Highway
 
-Cars_covered_in_Snow_on_Lake_Shore_Drive_Chicago_Feb_2_2011_storm.JPG snowstorm.]] Snowy_Higddhway_4012.jpg in Toronto due to a snowsquall.]] In the late 20th century, an estimated $2 billion was spent annually in North America on roadway winter maintenance, owing to snow and other winter weather events, according to a 1994 report by Kuemmel. The study surveyed the practices of jurisdictions within 44 US states and nine Canadian provinces. It assessed the policies, practices, and equipment used for winter maintenance. It found similar practices and progress to be prevalent in Europe.[80]
+snowstorm.]] in Toronto due to a snowsquall.]] In the late 20th century, an estimated $2 billion was spent annually in North America on roadway winter maintenance, owing to snow and other winter weather events, according to a 1994 report by Kuemmel. The study surveyed the practices of jurisdictions within 44 US states and nine Canadian provinces. It assessed the policies, practices, and equipment used for winter maintenance. It found similar practices and progress to be prevalent in Europe.[80]
 
 The dominant effect of snow on vehicle contact with the road is diminished friction. This can be improved with the use of snow tires, which have a tread designed to compact snow in a manner that enhances traction. However, the key to maintaining a roadway that can accommodate traffic during and after a snow event is an effective anti-icing program that employs both chemicals and plowing.[81] The FHWA _Manual of Practice for an Effective Anti-icing Program_ emphasizes "anti-icing" procedures that prevent the bonding of snow and ice to the road. Key aspects of the practice include: understanding anti-icing in light of the level of service to be achieved on a given roadway, the climatic conditions to be encountered, and the different roles of deicing, anti-icing, and abrasive materials and applications, and employing anti-icing "toolboxes", one for operations, one for decision-making and another for personnel. The elements to the toolboxes are:[82]
 
@@ -207,7 +205,7 @@ Snow fences, constructed upwind of roadways control snow drifting by causing win
 
 Aviation
 
-2008_aircraft_deicing_at_gate.jpg In order to keep airports open during winter storms, runways and taxiways require snow removal. Unlike roadways, where chloride chemical treatment is common to prevent snow from bonding to the pavement surface, such chemicals are typically banned from airports because of their strong corrosive effect on aluminum aircraft. Consequently, mechanical brushes are often used to complement the action of snow plows. Given the width of runways on airfields that handle large aircraft, vehicles with large plow blades, an echelon of plow vehicles or rotary snowplows are used to clear snow on runways and taxiways. Terminal aprons may require or more to be cleared.[85]
+In order to keep airports open during winter storms, runways and taxiways require snow removal. Unlike roadways, where chloride chemical treatment is common to prevent snow from bonding to the pavement surface, such chemicals are typically banned from airports because of their strong corrosive effect on aluminum aircraft. Consequently, mechanical brushes are often used to complement the action of snow plows. Given the width of runways on airfields that handle large aircraft, vehicles with large plow blades, an echelon of plow vehicles or rotary snowplows are used to clear snow on runways and taxiways. Terminal aprons may require or more to be cleared.[85]
 
 Properly equipped aircraft are able to fly through snowstorms under Instrument flight rules. Prior to takeoff, during snowstorms they require deicing fluid to prevent accumulation and freezing of snow and other precipitation on wings and fuselages, which may compromise the safety of the aircraft and its occupants.[86] In flight, aircraft rely on a variety of mechanisms to avoid rime and other types of icing in clouds,[87] these include pulsing pneumatic boots, electro-thermal areas that generate heat, and fluid deicers that bleed onto the surface.[88]
 
@@ -227,15 +225,15 @@ Snow can be compacted to form a snow road and be part of a winter road route for
 
 Agriculture
 
-Indus.A2002274.0610.1km.jpg Snowfall can be beneficial to agriculture by serving as a thermal insulator, conserving the heat of the Earth and protecting crops from subfreezing weather. Some agricultural areas depend on an accumulation of snow during winter that will melt gradually in spring, providing water for crop growth, both directly and via runoff through streams and rivers, which supply irrigation canals.[93] The following are examples of rivers that rely on meltwater from glaciers or seasonal snowpack as an important part of their flow on which irrigation depends: the Ganges, many of whose tributaries rise in the Himalayas and which provide much irrigation in northeast India,[94] the Indus River, which rises in Tibet[95] and provides irrigation water to Pakistan from rapidly retreating Tibetan glaciers,[96] and the Colorado River, which receives much of its water from seasonal snowpack in the Rocky Mountains[97] and provides irrigation water to some 4 million acres (1.6 million hectares).[98]
+Snowfall can be beneficial to agriculture by serving as a thermal insulator, conserving the heat of the Earth and protecting crops from subfreezing weather. Some agricultural areas depend on an accumulation of snow during winter that will melt gradually in spring, providing water for crop growth, both directly and via runoff through streams and rivers, which supply irrigation canals.[93] The following are examples of rivers that rely on meltwater from glaciers or seasonal snowpack as an important part of their flow on which irrigation depends: the Ganges, many of whose tributaries rise in the Himalayas and which provide much irrigation in northeast India,[94] the Indus River, which rises in Tibet[95] and provides irrigation water to Pakistan from rapidly retreating Tibetan glaciers,[96] and the Colorado River, which receives much of its water from seasonal snowpack in the Rocky Mountains[97] and provides irrigation water to some 4 million acres (1.6 million hectares).[98]
 
 Structures
 
-Hoedhuette.jpg Snow is an important consideration for loads on structures. To address these, European countries employ _Eurocode 1: Actions on structures - Part 1-3: General actions - Snow loads_.[99] In North America, ASCE _Minimum Design Loads for Buildings and Other Structures_ gives guidance on snow loads.[100] Both standards employ methods that translate maximum expected ground snow loads onto design loads for roofs.
+Snow is an important consideration for loads on structures. To address these, European countries employ _Eurocode 1: Actions on structures - Part 1-3: General actions - Snow loads_.[99] In North America, ASCE _Minimum Design Loads for Buildings and Other Structures_ gives guidance on snow loads.[100] Both standards employ methods that translate maximum expected ground snow loads onto design loads for roofs.
 
 Roofs
 
-Ice_dam_and_roof_leakage.jpg Snow loads and icings are two principal issues for roofs. Snow loads are related to the climate in which a structure is sited. Icings are usually a result of the building or structure generating heat that melts the snow that is on it.
+Snow loads and icings are two principal issues for roofs. Snow loads are related to the climate in which a structure is sited. Icings are usually a result of the building or structure generating heat that melts the snow that is on it.
 
 _Snow loads_ – The _Minimum Design Loads for Buildings and Other Structures_ gives guidance on how to translate the following factors into roof snow loads:[101]
 
@@ -256,7 +254,7 @@ In areas with trees, utility distribution lines on poles are less susceptible to
 
 Sports and recreation
 
-Ski_Famille_-_Family_Ski_Holidays.jpg Snow figures into many winter sports and forms of recreation, including skiing and sledding. Common examples include cross-country skiing, Alpine skiing, snowboarding, snowshoeing, and snowmobiling. The design of the equipment used, typically relies on the bearing strength of snow, as with skis or snowboards and contends with the coefficient of friction of snow to allow sliding, often enhance by ski waxes.
+Snow figures into many winter sports and forms of recreation, including skiing and sledding. Common examples include cross-country skiing, Alpine skiing, snowboarding, snowshoeing, and snowmobiling. The design of the equipment used, typically relies on the bearing strength of snow, as with skis or snowboards and contends with the coefficient of friction of snow to allow sliding, often enhance by ski waxes.
 
 Skiing is by far the largest form of winter recreation. As of 1994, of the estimated 65–75 million skiers worldwide, there were approximately 55 million who engaged in Alpine skiing, the rest engaged in cross-country skiing. Approximately 30 million skiers (of all kinds) were in Europe, 15 million in the US, and 14 million in Japan. As of 1996, there were reportedly 4,500 ski areas, operating 26,000 ski lifts and enjoying 390 million skier visits per year. The preponderant region for downhill skiing was Europe, followed by Japan and the US.[109]
 
@@ -280,7 +278,7 @@ File:Night Bivouac of Great Army.jpg|Bivouac of Napoleon's Grande Armée, during
 
 Effects on ecosystems
 
-Chlamydomonas_nivalis.jpg'', that thrive in snow form red areas in the suncups on this snow surface]] Both plant and animal life endemic to snow-bound areas develop ways to adapt. Among the adaptive mechanisms for plants are dormancy, seasonal dieback, survival of seeds; and for animals are hibernation, insulation, anti-freeze chemistry, storing food, drawing on reserves from within the body, and clustering for mutual heat.[122]
+'', that thrive in snow form red areas in the suncups on this snow surface]] Both plant and animal life endemic to snow-bound areas develop ways to adapt. Among the adaptive mechanisms for plants are dormancy, seasonal dieback, survival of seeds; and for animals are hibernation, insulation, anti-freeze chemistry, storing food, drawing on reserves from within the body, and clustering for mutual heat.[122]
 
 Plant life
 
@@ -288,7 +286,7 @@ Snow interacts with vegetation in two principal ways, vegetation can influence t
 
 Animal life
 
-Fjellrev_-_Arctic_fox_(24490250823).jpg, a predator of smaller animals that live beneath the snow]] Snow supports a wide variety of animals both on the surface and beneath. Many invertebrates thrive in snow, including spiders, wasps, beetles, snow scorpionflys and springtails. Such arthropods are typically active at temperatures down to . Invertebrates fall into two groups, regarding surviving subfreezing temperatures: freezing resistant and those that avoid freezing because they are freeze-sensitive. The first group may be cold hardy owing to the ability to produce antifreeze agents in their body fluids that allows survival of long exposure to sub-freezing conditions. Some organisms fast during the winter, which expels freezing-sensitive contents from their digestive tracts. The ability to survive the absence of oxygen in ice is an additional survival mechanism.[124]
+, a predator of smaller animals that live beneath the snow]] Snow supports a wide variety of animals both on the surface and beneath. Many invertebrates thrive in snow, including spiders, wasps, beetles, snow scorpionflys and springtails. Such arthropods are typically active at temperatures down to . Invertebrates fall into two groups, regarding surviving subfreezing temperatures: freezing resistant and those that avoid freezing because they are freeze-sensitive. The first group may be cold hardy owing to the ability to produce antifreeze agents in their body fluids that allows survival of long exposure to sub-freezing conditions. Some organisms fast during the winter, which expels freezing-sensitive contents from their digestive tracts. The ability to survive the absence of oxygen in ice is an additional survival mechanism.[124]
 
 Small vertebrates are active beneath the snow. Among vertebrates, alpine salamanders are active in snow at temperatures as low as ; they burrow to the surface in springtime and lay their eggs in melt ponds. Among mammals, those that remain active are typically smaller than . Omnivores are more likely to enter a torpor or be hibernators, whereas herbivores are more likely to maintain food caches beneath the snow. Voles store up to of food and pikas up to . Voles also huddle in communal nests to benefit from one another's warmth. On the surface, wolves, coyotes, foxes, lynx, and weasels rely on these subsurface dwellers for food and often dive into the snowpack to find them.[125]
 

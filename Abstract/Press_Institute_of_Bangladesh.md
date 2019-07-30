@@ -1,1 +1,0 @@
-PRESS INSTITUTE OF BANGLADESH or PIB is an autonomous national research institute that provides training to Journalists and carries out research on mass media and journalism in Bangladesh and is located in Dhaka, Bangladesh.[1] Shah Alamgir is the present Director General of the institute.[2]

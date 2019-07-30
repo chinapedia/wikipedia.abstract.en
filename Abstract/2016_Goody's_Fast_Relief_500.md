@@ -1,1 +1,0 @@
-The 2016 GOODY'S FAST RELIEF 500 was a NASCAR Sprint Cup Series race that was held on October 30, 2016, at Martinsville Speedway in Ridgeway, Virginia. Contested over 500 laps on the .526 mile (.847 km) short track, it was the 33rd race of the 2016 NASCAR Sprint Cup Series season, seventh race of the Chase and first race of the Round of 8.

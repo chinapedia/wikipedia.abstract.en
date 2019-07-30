@@ -1,1 +1,0 @@
-BAOSHAN IRON AND STEEL CO., LTD., also known as BAOSHAN IRON AND STEEL and BAOSTEEL, is a maker of steel based in Shanghai, China, and a subsidiary of China Baowu Steel Group (formerly Baosteel Group). It is listed on the Shanghai Stock Exchange and is a constituent of the CSI 300 stock market index.[1]

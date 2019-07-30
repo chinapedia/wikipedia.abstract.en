@@ -1,1 +1,0 @@
-The CHIEFDOM OF BOZHOU (), ruled by the Yang clan, was an autonomous Tusi chiefdom established by Yang Duan (杨端) during the Tang dynasty. After he conquered the Bozhou Prefecture (centred on modern Zunyi) from the Nanzhao Kingdom, Yang Duan was recognized as the hereditary ruler of the region by the Tang court in 876.

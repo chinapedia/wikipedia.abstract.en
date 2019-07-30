@@ -16,7 +16,7 @@ Following the structured program theorem, all programs are seen as composed of c
 -   "Iteration"; a statement or block is executed until the program reaches a certain state, or operations have been applied to every element of a collection. This is usually expressed with keywords such as while, repeat, for or do..until. Often it is recommended that each loop should only have one entry point (and in the original structural programming, also only one exit point, and a few languages enforce this).
 -   "Recursion"; a statement is executed by repeatedly calling itself until termination conditions are met. While similar in practice to iterative loops, recursive loops may be more computationally efficient, and are implemented differently as a cascading stack.
 
-Structured_program_patterns.png — sequence, selection, and repetition — using NS diagrams (blue) and flow charts (green).]]
+— sequence, selection, and repetition — using NS diagrams (blue) and flow charts (green).]]
 
 Subroutines
 

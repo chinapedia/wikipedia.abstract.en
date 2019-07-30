@@ -1,4 +1,4 @@
-Thailand_map_CIA.png Thailand_2002_CIA_map.jpg THAILAND's 514,30 square kilometers lie in the middle of mainland Southeast Asia. The nation's axial position influenced many aspects of Thailand's society and culture—it controls the only land route from Asia to Malaysia and Singapore.
+THAILAND's 514,30 square kilometers lie in the middle of mainland Southeast Asia. The nation's axial position influenced many aspects of Thailand's society and culture—it controls the only land route from Asia to Malaysia and Singapore.
 
 
 Physical Geography
@@ -32,7 +32,7 @@ Maritime claims
 
 Topography and drainage
 
-Thailand_Topography.png The most conspicuous features of Thailand's terrain are high mountains, a central plain, and an upland plateau. Mountains cover much of northern Thailand and extend along the Myanmar border down through the Kra Isthmus and the Malay Peninsula. The central plain is a lowland area drained by the Chao Phraya River and its tributaries, the country's principal river system, which feeds into the delta at the head of the Bay of Bangkok. The Chao Phraya system drains about one-third of the nation's territory. In the northeastern part of the country the Khorat Plateau, a region of gently rolling low hills and shallow lakes, drains into the Mekong through the Mun River. The Mekong system empties into the South China Sea and includes a series of canals and dams.
+The most conspicuous features of Thailand's terrain are high mountains, a central plain, and an upland plateau. Mountains cover much of northern Thailand and extend along the Myanmar border down through the Kra Isthmus and the Malay Peninsula. The central plain is a lowland area drained by the Chao Phraya River and its tributaries, the country's principal river system, which feeds into the delta at the head of the Bay of Bangkok. The Chao Phraya system drains about one-third of the nation's territory. In the northeastern part of the country the Khorat Plateau, a region of gently rolling low hills and shallow lakes, drains into the Mekong through the Mun River. The Mekong system empties into the South China Sea and includes a series of canals and dams.
 
 Together, the Chao Phraya and Mekong systems sustain Thailand's agricultural economy by supporting wet-rice cultivation and providing waterways for the transport of goods and people. In contrast, the distinguishing natural features of peninsular Thailand are long coastlines, offshore islands, and diminishing mangrove swamps.
 
@@ -61,7 +61,7 @@ Elevation extremes
 
 Regions
 
-Thailand_six_regions.svg The National Research Council divides Thailand into six geographical regions, based on natural features including landforms and drainage, as well as human cultural patterns. They are, namely: the North Region, the Northeast Region, the Central Region, the East Region, the West Region and the South Region of Thailand. Although Bangkok geographically is part of the central plain, as the capital and largest city this metropolitan area may be considered in other respects a separate region. Each of the six geographical regions differs from the others in population, basic resources, natural features, and level of social and economic development. The diversity of the regions is in fact the most pronounced attribute of Thailand's physical setting.
+The National Research Council divides Thailand into six geographical regions, based on natural features including landforms and drainage, as well as human cultural patterns. They are, namely: the North Region, the Northeast Region, the Central Region, the East Region, the West Region and the South Region of Thailand. Although Bangkok geographically is part of the central plain, as the capital and largest city this metropolitan area may be considered in other respects a separate region. Each of the six geographical regions differs from the others in population, basic resources, natural features, and level of social and economic development. The diversity of the regions is in fact the most pronounced attribute of Thailand's physical setting.
 
 Northern Thailand
 
@@ -106,7 +106,7 @@ Thailand's regions are divided politically into a total of 76 provinces plus Ban
 
 Climate
 
-Koppen-Geiger_Map_THA_present.svg Seasonal_flooding_in_Thailand_and_Cambodia_2002_October_9.jpg Fires_in_Burma,_Thailand,_Laos,_and_Vietnam.jpg Thailand, Laos, and Vietnam (labelled with red dots).]]
+Thailand, Laos, and Vietnam (labelled with red dots).]]
 
 Thailand's climate is influenced by monsoon winds that have a seasonal character (the southwest and northeast monsoon).[4] The southwest monsoon, which starts from May until October is characterized by movement of warm, moist air from the Indian Ocean to Thailand, causing abundant rain over most of the country.[5] The northeast monsoon, starting from October until February brings cold and dry air from China over most of Thailand.[6] In southern Thailand, the northeast monsoon brings mild weather and abundant rainfall on the eastern coast of that region.[7] Most of Thailand has a "tropical wet and dry or savanna climate" type (Köppen's Tropical savanna climate).[8] The majority of the south as well as the eastern tip of the east have a tropical monsoon climate. Parts of the south also have a tropical rainforest climate.
 
@@ -123,13 +123,9 @@ The northeast experiences a long dry season—although the dry 2007-2008 season 
   MONTHS:
   CHIANG MAI
   Min Temp Av.
-  Image:Weather-Sunny.png
-  Image:Weather-Rain.png
   days/months
   PHUKET
   Min Temp Av.
-  Image:Weather-Sunny.png
-  Image:Weather-Rain.png
   days/months
   Reference: "Saisons et climats 2003" Hachette
   -----------------------------------------------
@@ -143,7 +139,7 @@ Natural resources
 
 Land use
 
-Karen_rice_fields_controlled_burn.JPG tribe in northern Thailand: controlled burn in the foreground and agricultural terraces.]]
+tribe in northern Thailand: controlled burn in the foreground and agricultural terraces.]]
 
 -   Arable land: 30.7 percent
     -   Permanent crops: 8.8 percent
@@ -163,8 +159,6 @@ Total renewable water resources
 
 
 Environmental concerns
-
-Forest_fire_mae_hong_son_province_02.jpg
 
 Natural hazards
 

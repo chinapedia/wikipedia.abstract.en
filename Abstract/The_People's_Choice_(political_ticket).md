@@ -1,1 +1,0 @@
-THE PEOPLE'S CHOICE (previously CHRISTCHURCH 2021) is a centre-left political ticket that contests elections for the Christchurch City Council, and the Canterbury Regional Council in Christchurch, New Zealand.

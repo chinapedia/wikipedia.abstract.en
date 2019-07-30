@@ -1,1 +1,0 @@
-_THE STARRY NIGHT, THE STARRY SEA_ () is a 2017 Chinese television series starring Feng Shaofeng and Bea Hayden. It is adapted from the novel of the same name by Tong Hua. The series aired on Hunan TV from 6 February to 8 March 2017.[1]

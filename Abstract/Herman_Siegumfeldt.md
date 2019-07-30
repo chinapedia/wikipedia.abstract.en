@@ -1,1 +1,0 @@
-Herman_Carl_Siegumfeldt_by_Georg_Holzweissig.jpg Herman_Siegumfeldt_-_Kurtiserende_par_-_1861.png

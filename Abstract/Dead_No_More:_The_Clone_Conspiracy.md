@@ -1,1 +1,0 @@
-"DEAD NO MORE: THE CLONE CONSPIRACY" is a 2016–17 Marvel Comics storyline starring Spider-Man. The story was notable for bringing long-dead Spider-Man supporting character Ben Reilly back to life. The storyline led Reilly to reclaim the heroic Scarlet Spider mantle and appear in his own comic book series.

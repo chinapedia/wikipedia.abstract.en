@@ -7,7 +7,7 @@ The distinctive characteristics of the Turkish language are vowel harmony and ex
 
 Classification
 
-Kyzyl_orkhon_inscription.jpg inscription with the Old Turkic alphabet (c. 8th century). Kyzyl, Russia]]
+inscription with the Old Turkic alphabet (c. 8th century). Kyzyl, Russia]]
 
 About 40% of all speakers of Turkic languages are native Turkish speakers.The characteristic features of Turkish, such as vowel harmony, agglutination, and lack of grammatical gender, are universal within the Turkic family. The Turkic family comprises some 30 living languages spoken across Eastern Europe, Central Asia, and Siberia.
 
@@ -53,13 +53,13 @@ In 2005, 93% of the population of Turkey were native speakers of Turkish,[12] ab
 
 Official status
 
-Prizren_(3DilliTabela).jpg, Kosovo. Official languages are: Albanian (top), Serbian (middle) and Turkish (bottom).]] Turkish is the official language of Turkey and is one of the official languages of Cyprus. Turkish has official status in 38 municipalities in Kosovo, including Mamusha, and two in the Republic of North Macedonia.[14]
+, Kosovo. Official languages are: Albanian (top), Serbian (middle) and Turkish (bottom).]] Turkish is the official language of Turkey and is one of the official languages of Cyprus. Turkish has official status in 38 municipalities in Kosovo, including Mamusha, and two in the Republic of North Macedonia.[14]
 
 In Turkey, the regulatory body for Turkish is the Turkish Language Association (_Türk Dil Kurumu_ or TDK), which was founded in 1932 under the name _Türk Dili Tetkik Cemiyeti_ ("Society for Research on the Turkish Language"). The Turkish Language Association was influenced by the ideology of linguistic purism: indeed one of its primary tasks was the replacement of loanwords and foreign grammatical constructions with equivalents of Turkish origin.[15] These changes, together with the adoption of the new Turkish alphabet in 1928, shaped the modern Turkish language spoken today. TDK became an independent body in 1951, with the lifting of the requirement that it should be presided over by the Minister of Education. This status continued until August 1983, when it was again made into a governmental body in the constitution of 1982, following the military coup d'état of 1980.[16]
 
 Dialects
 
-Turkey_Turkish_dialects_map_(Main_subgroups)_en.jpg across Southeast Europe and the Middle East.]] Modern standard Turkish is based on the dialect of Istanbul.[17] This "Istanbul Turkish" (_İstanbul Türkçesi_) constitutes the model of written and spoken Turkish, as recommended by Ziya Gökalp, Ömer Seyfettin and others.[18]
+across Southeast Europe and the Middle East.]] Modern standard Turkish is based on the dialect of Istanbul.[17] This "Istanbul Turkish" (_İstanbul Türkçesi_) constitutes the model of written and spoken Turkish, as recommended by Ziya Gökalp, Ömer Seyfettin and others.[18]
 
 Dialectal variation persists, in spite of the levelling influence of the standard used in mass media and the Turkish education system since the 1930s.[19] Academically, researchers from Turkey often refer to Turkish dialects as _ağız_ or _şive_, leading to an ambiguity with the linguistic concept of accent, which is also covered with these words. Projects investigating Turkish dialects are being carried out by several universities, as well as a dedicated work group of the Turkish Language Association. Work is currently in progress for the compilation and publication of their research as a comprehensive dialect atlas of the Turkish language.[20][21]
 
@@ -125,7 +125,7 @@ Native nouns of two or more syllables that end in _/k/_ in dictionary form are n
 
 Vowels
 
-Turkish_vowel_chart.svg The vowels of the Turkish language are, in their alphabetical order, , , , , , , , .[32] The Turkish vowel system can be considered as being three-dimensional, where vowels are characterised by how and where they are articulated focusing on three key features: front and back, rounded and unrounded and vowel height.[33] Vowels are classified [±back], [±round] and [±high].[34]
+The vowels of the Turkish language are, in their alphabetical order, , , , , , , , .[32] The Turkish vowel system can be considered as being three-dimensional, where vowels are characterised by how and where they are articulated focusing on three key features: front and back, rounded and unrounded and vowel height.[33] Vowels are classified [±back], [±round] and [±high].[34]
 
 The only diphthongs in the language are found in loanwords and may be categorised as falling diphthongs usually analyzed as a sequence of /j/ and a vowel.[35]
 
@@ -138,7 +138,7 @@ Vowel harmony
   Twofold (Backness)               E              A
   Fourfold (Backness + Rounding)   I              Ü
 
-TurkishRoadSign-WelcomeToEurope_Modified.jpg in Istanbul. (Photo taken during the 28th Istanbul Marathon in 2006)]]
+ in Istanbul. (Photo taken during the 28th Istanbul Marathon in 2006)]]
 
 Turkish is an agglutinative language where a series of suffixes are added to the stem word; vowel harmony is a phonological process which ensures a smooth flow, requiring the least amount of oral movement as possible. Vowel harmony can be viewed as a process of assimilation, whereby following vowels take on the characteristics of the preceding vowel.[36] It may be useful to think of Turkish vowels as two symmetrical sets: the a-undotted (a, ı, o, u) which are all back vowels, articulated at the back of the mouth; and the e-dotted (e, i, ö, ü) vowels which are articulated at the front of the mouth. The place and manner of articulation of the vowels will determine which pattern of vowel harmony a word will adopt. The pattern of vowels is shown in the table above.[37]
 
@@ -373,8 +373,6 @@ The most important function of some of these attributive verbs is to form modify
 
 Vocabulary
 
-TurkishVocabulary.png
-
 Latest 2010 edition of _Büyük Türkçe Sözlük_ (_Great Turkish Dictionary_), the official dictionary of the Turkish language published by Turkish Language Association, contains 616,767 words, expressions, terms and nouns.[73]
 
 The 2005 edition of _Güncel Türkçe Sözlük_, the official dictionary of the Turkish language published by Turkish Language Association, contains 104,481 words, of which about 86% are Turkish and 14% are of foreign origin.[74] Among the most significant foreign contributors to Turkish vocabulary are Arabic, French, Persian, Italian, English, and Greek.[75]
@@ -433,7 +431,7 @@ However, the majority of compound words in Turkish are (s)I compounds, which mea
 
 Writing system
 
-Ataturk-September_20,_1928.jpg introducing the new Turkish alphabet to the people of Kayseri. September 20, 1928. (Cover of the French _L'Illustration_ magazine)]]
+introducing the new Turkish alphabet to the people of Kayseri. September 20, 1928. (Cover of the French _L'Illustration_ magazine)]]
 
 Turkish is written using a Latin alphabet introduced in 1928 by Atatürk to replace the Ottoman Turkish alphabet, a version of Perso-Arabic alphabet. The Ottoman alphabet marked only three different vowels—long _ā, ū_ and _ī_—and included several redundant consonants, such as variants of _z_ (which were distinguished in Arabic but not in Turkish). The omission of short vowels in the Arabic script was claimed to make it particularly unsuitable for Turkish, which has eight vowels.[77]
 

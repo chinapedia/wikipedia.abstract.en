@@ -5,16 +5,16 @@ The name is a trademark of Mattel in most of the world, but of Hasbro, Inc. in t
 
 Game details
 
-Scrabble_game_in_progress.jpg The game is played by two to four players on a square board with a 15×15 grid of cells (individually known as "squares"), each of which accommodates a single letter tile. In official club and tournament games, play is between two players or, occasionally, between two teams each of which collaborates on a single rack.[6]
+The game is played by two to four players on a square board with a 15×15 grid of cells (individually known as "squares"), each of which accommodates a single letter tile. In official club and tournament games, play is between two players or, occasionally, between two teams each of which collaborates on a single rack.[6]
 
 The board is marked with "premium" squares, which multiply the number of points awarded: eight dark red "triple-word" squares, 17 pale red "double-word" squares, of which one, the center square (H8), is marked with a star or other symbol; 12 dark blue "triple-letter" squares, and 24 pale blue "double-letter" squares. In 2008, Hasbro changed the colors of the premium squares to orange for TW, red for DW, blue for DL, and green for TL, but the original premium square color scheme is still preferred for _Scrabble_ boards used in tournaments.[7] In an English-language set, the game contains 100 tiles, 98 of which are marked with a letter and a point value ranging from 1 to 10. The number of points for each lettered tile is based on the letter's frequency in standard English; commonly used letters such as vowels are worth one point, while less common letters score higher, with Q and Z each worth 10 points. The game also has two blank tiles that are unmarked and carry no point value. The blank tiles can be used as substitutes for any letter; once laid on the board, however, the choice is fixed. Other language sets use different letter set distributions with different point values.
 
-Tiles are usually made of wood or plastic and are square and thick, making them slightly smaller than the squares on the board. Only the rosewood tiles of the deluxe edition varies the width up to for different letters. Travelling versions of the game often have smaller tiles (e.g. ); sometimes they are magnetic to keep them in place. The capital letter is printed in black at the centre of the tile face and the letter's point value printed in a smaller font at the bottom right corner. The official _Scrabble_ board design. Key: S is one of the most valuable tiles in English-language Scrabble because it can be appended to many words to pluralize them (or in the case of most verbs, convert them to the third person singular present tense, as in the word PLUMMETS); Alfred Butts included only four S tiles to avoid making the game "too easy". Q is considered the most troublesome letter, as almost all words with it also contain U; a similar problem occurs in other languages like French, Dutch, Italian and German. J is also difficult to play due to its low frequency and a scarcity of words having it at the end.[8] C and V may be troublesome in the endgame, since no two-letter words with them exist, save for CH in the _Collins Scrabble Words_ lexicon.
+Tiles are usually made of wood or plastic and are square and thick, making them slightly smaller than the squares on the board. Only the rosewood tiles of the deluxe edition varies the width up to for different letters. Travelling versions of the game often have smaller tiles (e.g. ); sometimes they are magnetic to keep them in place. The capital letter is printed in black at the centre of the tile face and the letter's point value printed in a smaller font at the bottom right corner. S is one of the most valuable tiles in English-language Scrabble because it can be appended to many words to pluralize them (or in the case of most verbs, convert them to the third person singular present tense, as in the word PLUMMETS); Alfred Butts included only four S tiles to avoid making the game "too easy". Q is considered the most troublesome letter, as almost all words with it also contain U; a similar problem occurs in other languages like French, Dutch, Italian and German. J is also difficult to play due to its low frequency and a scarcity of words having it at the end.[8] C and V may be troublesome in the endgame, since no two-letter words with them exist, save for CH in the _Collins Scrabble Words_ lexicon.
 
 
 History
 
-Alfred_Butts_letter_frequencies.JPG'', the _New York Herald Tribune_, and _The New York Times_.[9] This was used to determine the number and scores of tiles in the game.]] In 1938, American architect Alfred Mosher Butts created the game as a variation on an earlier word game he invented called _Lexiko_. The two games had the same set of letter tiles, whose distributions and point values Butts worked out by performing a frequency analysis of letters from various sources, including _The New York Times_. The new game, which he called "Criss-Crosswords," added the 15×15 gameboard and the crossword-style gameplay. He manufactured a few sets himself, but was not successful in selling the game to any major game manufacturers of the day.[10]
+'', the _New York Herald Tribune_, and _The New York Times_.[9] This was used to determine the number and scores of tiles in the game.]] In 1938, American architect Alfred Mosher Butts created the game as a variation on an earlier word game he invented called _Lexiko_. The two games had the same set of letter tiles, whose distributions and point values Butts worked out by performing a frequency analysis of letters from various sources, including _The New York Times_. The new game, which he called "Criss-Crosswords," added the 15×15 gameboard and the crossword-style gameplay. He manufactured a few sets himself, but was not successful in selling the game to any major game manufacturers of the day.[10]
 
 In 1948, James Brunot,[11] a resident of Newtown, Connecticut, and one of the few owners of the original Criss-Crosswords game, bought the rights to manufacture the game in exchange for granting Butts a royalty on every unit sold. Though he left most of the game (including the distribution of letters) unchanged, Brunot slightly rearranged the "premium" squares of the board and simplified the rules; he also changed the name of the game to "Scrabble", a real word which means "to scratch frantically".[12] In 1949, Brunot and his family made sets in a converted former schoolhouse in Dodgingtown, a section of Newtown. They made 2,400 sets that year, but lost money.[13] According to legend, _Scrabble_{{'}}s big break came in 1952 when Jack Straus, president of Macy's, played the game on vacation. Upon returning from vacation, he was surprised to find that his store did not carry the game. He placed a large order and within a year, "everyone had to have one."[14]
 
@@ -68,8 +68,6 @@ Exchanges are often annotated by a minus sign followed by the tiles that were ex
 
 The image at right gives examples of valid plays and how they would typically be annotated using the notation system.
 
-Scrabble-example.png
-
 Additionally, a number of symbols have been employed to indicate the validity of words in different lexica:
 
 -   * means an illegal, or phony, word.
@@ -79,7 +77,7 @@ Additionally, a number of symbols have been employed to indicate the validity of
 
 Sequence of play
 
-Before the game, a resource, either a word list or a dictionary, is selected for the purpose of adjudicating any challenges during the game. The tiles are either put in an opaque bag or placed face down on a flat surface. Opaque cloth bags and customized tiles are staples of clubs and tournaments, where games are rarely played without both. Scrabble_2015.jpg]]
+Before the game, a resource, either a word list or a dictionary, is selected for the purpose of adjudicating any challenges during the game. The tiles are either put in an opaque bag or placed face down on a flat surface. Opaque cloth bags and customized tiles are staples of clubs and tournaments, where games are rarely played without both. ]]
 
 Next, players decide the order in which they play. The normal approach is for players to each draw one tile: The player who picks the letter closest to the beginning of the alphabet goes first, with blank tiles taking precedence over the letter A. In most North American tournaments, the rules of the US-based North American Scrabble Players Association (NASPA) stipulate instead that players who have gone first in the fewest number of previous games in the tournament go first, and when that rule yields a tie, those who have gone second the most go first. If there is still a tie, tiles are drawn as in the standard rules.
 
@@ -168,8 +166,6 @@ Acceptable words are the primary entries in some chosen dictionary, and all of t
 Proper nouns and other exceptions to the usual rules are allowed in some limited contexts in the spin-off game _Scrabble Trickster_. Names of recognized computer programs are permitted as an acceptable proper noun (For example, WinZIP).
 
 The memorization of two-letter words is considered an essential skill in this game.[27]
-
-PocketScrabble.JPG
 
 There are two popular competition word lists used in various parts of the world:
 
@@ -319,7 +315,7 @@ Variations
 
 There are numerous variations of the game. While they are similar to the original _Scrabble_ game, they include minor variations. For example, Literati draws random tiles instead of providing a finite number of tiles for the game, assigns different point levels to each letter and has a slightly different board layout, whereas Lexulous assigns eight letters to each player instead of seven. Words with Friends uses a different board layout and different letter values, as does Words of Gold.
 
-ScrabbleDuplicate.jpg, France]] Duplicate Scrabble is a popular variant in French speaking countries. Every player has the same letters on the same board and the players must submit a paper slip at the end of the allotted time (usually 3 minutes) with the highest scoring word they have found. This is the format used for the French World Scrabble Championships but it is also used in Romanian and Dutch. There is no limit to the number of players that can be involved in one game, and at Vichy in 1998 there were 1485 players, a record for French _Scrabble_ tournaments.
+, France]] Duplicate Scrabble is a popular variant in French speaking countries. Every player has the same letters on the same board and the players must submit a paper slip at the end of the allotted time (usually 3 minutes) with the highest scoring word they have found. This is the format used for the French World Scrabble Championships but it is also used in Romanian and Dutch. There is no limit to the number of players that can be involved in one game, and at Vichy in 1998 there were 1485 players, a record for French _Scrabble_ tournaments.
 
 _Scarabeo_ is a variant that is much more popular in Italy than the original game. It features a 17×17 grid of cells and peculiar rules.[81]
 

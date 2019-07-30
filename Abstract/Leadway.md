@@ -1,1 +1,0 @@
-LEADWAY ASSURANCE COMPANY, also known as LEADWAY, is a Nigerian insurance corporation headquartered in Lagos, Nigeria. It is one of Nigeria's largest insurance companies.[1] Leadway provides commercial and personal property and casualty insurance, travel insurance and life insurance.

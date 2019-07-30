@@ -1,1 +1,0 @@
-The 1976 COLGATE INTERNATIONAL was a women's tennis tournament played on outdoor grass courts at Devonshire Park in Eastbourne in England. The event was part of the 1976 WTA Tour. It was the third edition of the tournament and was held from 14 June through 20 June 1976.[1] First-seeded Chris Evert won the singles title and earn £9,000 first-prize money.[2][3][4]

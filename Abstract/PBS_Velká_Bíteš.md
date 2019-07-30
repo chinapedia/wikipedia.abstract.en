@@ -1,1 +1,0 @@
-PBS VELKÁ BÍTEŠ is a Czech engineering and manufacturing company. It produces aerospace gas turbines; offers engineering for power turbines and industrial boilers; precision casting for turbomachinery, aircraft parts and glass wool insulation; galvanization finishes; cryogenic compressors and pumps; industrial Wastewater treatment; and service and maintenance.[1]

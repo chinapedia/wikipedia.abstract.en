@@ -1,4 +1,4 @@
-Two_Chinas.svg}} ]] Ministry_of_Foreign_Affairs,_Republic_of_China_20100827.jpg in Taipei.]] Yhf2.jpg, the incumbent Minister of Foreign Affairs.]]
+}} ]] in Taipei.]] , the incumbent Minister of Foreign Affairs.]]
 
 The Republic of China (ROC), referred to by many states as "Taiwan",[1][2] is recognised by 16 out of 193 United Nations member states, as well as the Holy See. These diplomatic relations do not constitute an international acceptance of Taiwan as a state, but rather represent a recognition of the ROC government as the representative of "China", which means that in the perspective of these countries, the Republic of China _IS_ "China", rather than the People's Republic of China, despite the fact that the ROC's controlled area is only less than 1% of "China".[3] In addition to these relations, the ROC maintains unofficial relations[4] with 57 UN member states via its representative offices and consulates. The ROC passport has 124 countries and Hong Kong[5] (ranking 33rd in the world) reciprocally exchange visa exemption agreements .[6]
 
@@ -32,7 +32,7 @@ ROC's (multi-sector) civil society currently participates in 11 projects of Unit
 
 International disputes
 
-Voting_res_2758.png (1971).
+(1971).
 GREEN = in favour, PURPLE = against, BLUE = abstain, BEIGE = non-voting]]
 
 In the 1970s many countries switched diplomatic recognition from the ROC to the PRC, including the United States, Japan and Canada. In October 1971, Resolution 2758 was passed by the UN General Assembly, expelling "the representatives of Chiang Kai-shek" and transferring China's seat on the Security Council to the PRC. The resolution declared that "the representatives of the Government of the PRC are the only lawful representatives of China to the United Nations." However, the _eo ipso_ nature of Taiwan and weapons of mass destruction remained a contentious issue.
@@ -48,7 +48,7 @@ Types of relations
 
 Full diplomatic relations
 
-Taiwanese_Embassy_in_Mbabane.JPG in Eswatini]] [[Image:RC (Taiwan).png|thumb|Foreign relations of the ROC
+in Eswatini]] [[Image:RC (Taiwan).png|thumb|Foreign relations of the ROC
 
 ]]
 
@@ -80,7 +80,7 @@ Nevertheless, only 17 states recognise the ROC and have diplomatic relations wit
 | -   (1979)            | -   (1989)                                 |
 +-----------------------+--------------------------------------------+
 
-ROC_Holy_See_Embassy.jpg are located in Rome, outside the borders of Vatican City. Hence, the ROC's embassy to the Holy See is located in a country that does not officially recognise, but still maintains close unofficial links with, the ROC.]] 01.10_總統與尼加拉瓜總統奧德嘉(José_Daniel_Ortega_Saavedra)雙邊會晤_(32074399712).jpg with Nicaraguan President Daniel Ortega, January 10, 2017]] Pope_johnpaul_funeral_politics.jpeg (_far left_) attended the funeral of Pope John Paul II, and as the Holy See's recognised head of state of China, was seated in the first row in alphabetical order beside the first lady and president of Brazil.|190x190px]]
+are located in Rome, outside the borders of Vatican City. Hence, the ROC's embassy to the Holy See is located in a country that does not officially recognise, but still maintains close unofficial links with, the ROC.]] with Nicaraguan President Daniel Ortega, January 10, 2017]] (_far left_) attended the funeral of Pope John Paul II, and as the Holy See's recognised head of state of China, was seated in the first row in alphabetical order beside the first lady and president of Brazil.|190x190px]]
 
 Non-diplomatic representation
 
@@ -156,7 +156,7 @@ The following table includes the Sovereign Military Order of Malta and some stat
 
 Recognition switched from the ROC to the PRC
 
-Former_Consulate_of_France_in_Nanjing_2012-03.JPG Embassy to the ROC in Nanjing]] Former_Consulate_of_Mexico_in_Nanjing_2012-11.JPG Embassy to the ROC in Nanjing]] Soviet_embassy_burned_down.PNG Embassy to the ROC in Nanjing]] Former_Consulate_of_UK_in_Nanjing_02_2011-10.jpg Embassy to the ROC in Nanjing]] Former_Consulate_of_the_United_States_in_Nanjing_2011-11.JPG Embassy to the ROC in Nanjing]]
+Embassy to the ROC in Nanjing]] Embassy to the ROC in Nanjing]] Embassy to the ROC in Nanjing]] Embassy to the ROC in Nanjing]] Embassy to the ROC in Nanjing]]
 
 The ROC has publicly feared that if any one state should switch its recognition to the PRC, it would create a domino effect, encouraging other states to do so as well.[65] The Holy See (Vatican), the only European state that recognises the ROC as the representative of China, made efforts in 2007 to create formal ties with the PRC.[66] High-ranking bishops in the Catholic Church have implied that such a diplomatic move was possible,[67] predicated on the PRC's granting more freedom of religion[68] and interfering less in the hierarchy of the Chinese Catholic Church.[69]
 
@@ -545,8 +545,6 @@ Entities that have never recognised the ROC but do recognise the PRC
 
 History
 
-China_vs_Taiwan,_global_struggle_for_recognition.png
-
 Taiwan was annexed by Japan in 1895 after the First Sino-Japanese War. In the Northern Expedition, the Nationalists defeated the warlords of the Beiyang clique and established a unified government for China in Nanjing. The United States recognized Republic of China (ROC) on 25 July 1928, the first government to do so.[77] The Japanese occupied much of China during World War II. After Japan's defeat in 1945, Taiwan was placed under the temporary administration of the ROC to handle the surrender of Japanese administration. The Chinese Civil War broke out again between the Nationalists and the Communists. The Communists gained control of the mainland in 1949 and proclaimed the People's Republic of China (PRC), while the Nationalists fled to Taiwan, taking the ROC government with them. In 1952, Japan renounced Taiwan in the Treaty of San Francisco without specifying to whom Taiwan is ceded.
 
 In 1916, A. P. Winston, the author of _Chinese Finance under the Republic_, said, "chief sources of information on those matters of discussion which have been subjects of diplomacy" were official publications from the United Kingdom.[78] Winston explained that only a few official reports from the Chinese government aside from the maritime customs sector had appeared at that point, and that the government of the ROC was "too poor, perhaps still too secretive, to make regular and full publication of statistics."[79]
@@ -609,7 +607,7 @@ ROC Premier Lai Ching-te approved a total ban on trade between the ROC and North
 
 United States
 
-Eisenhower_visits_Taiwan_(June_1960).jpg and President Chiang Kai-shek of ROC in Taiwan. 1960.]] U.S._President_Eisenhower_visited_TAIWAN_美國總統艾森豪於1960年6月訪問臺灣台北時與蔣中正總統-2.jpg The ROC and the US signed a formal treaty of commerce and navigation in 1948.[112] ROC passport holders can thus be granted an E1 and E2 Visa, with indefinite renewal status, based on continued operation of their enterprise[113] in the US.[114] In 1979 the US recognized the PRC instead of ROC.[115] Commercial[116] (such as Trade and Investment Framework Agreement signed in 1994,[117] TIFA[118][119][120][121]), cultural and other substantial relations are currently governed, inter alia, by the 1979 Taiwan Relations Act. The Act does not recognize the terminology of "Republic of China". The United States of America does not support Taiwan independence.[122]
+and President Chiang Kai-shek of ROC in Taiwan. 1960.]] The ROC and the US signed a formal treaty of commerce and navigation in 1948.[112] ROC passport holders can thus be granted an E1 and E2 Visa, with indefinite renewal status, based on continued operation of their enterprise[113] in the US.[114] In 1979 the US recognized the PRC instead of ROC.[115] Commercial[116] (such as Trade and Investment Framework Agreement signed in 1994,[117] TIFA[118][119][120][121]), cultural and other substantial relations are currently governed, inter alia, by the 1979 Taiwan Relations Act. The Act does not recognize the terminology of "Republic of China". The United States of America does not support Taiwan independence.[122]
 
 US Deputy Assistant Secretary of State Alex Wong officially[123] visited the ROC in March 2018 to protest the amendment of the PRC Constitution that removed Presidential tenure restrictions.[124] In July 2002, Minister of Justice Chen Ding-nan became the first Taiwanese government official to be invited to visit the White House after the switch.
 
@@ -621,7 +619,7 @@ After 1979, the US-Taiwan Business Council continued to facilitate commercial ac
 
 Recent disputes between the US and the ROC include the ROC's ban on the import of US beef and US pork, which was resolved after the ROC adopted the new standard of a maximum residue limit for ractopamine in both beef and pork.[138]
 
-總統出席接見美國聯邦參議院軍事委員會馬侃（John_McCain）主席訪問團_(26882360893).jpg meets with U.S. Senate delegation led by John McCain, June 2016]] In 2007, a measure was introduced into the United States Congress that would dramatically strengthen US ties with the ROC.[139] The United States House of Representatives passed a resolution calling for the lifting of curbs on visits by high-ranking or top ROC officials. The Resolution noted that "whenever high-level visitors from the ROC, including the President, seek to come to the United States, their requests result in a period of complex, lengthy and humiliating negotiations." It further said: "Lifting these restrictions will help bring a friend and ally of the United States out of its isolation, which will be beneficial to peace and stability in the Asia-Pacific Region."[140]
+meets with U.S. Senate delegation led by John McCain, June 2016]] In 2007, a measure was introduced into the United States Congress that would dramatically strengthen US ties with the ROC.[139] The United States House of Representatives passed a resolution calling for the lifting of curbs on visits by high-ranking or top ROC officials. The Resolution noted that "whenever high-level visitors from the ROC, including the President, seek to come to the United States, their requests result in a period of complex, lengthy and humiliating negotiations." It further said: "Lifting these restrictions will help bring a friend and ally of the United States out of its isolation, which will be beneficial to peace and stability in the Asia-Pacific Region."[140]
 
 A bill was introduced to back the ROC's request to join the UN. The bill stated that the ROC and its 23 million people "deserve membership in the United Nations" and that the United States should fulfill a commitment "to more actively support Taiwan's membership in appropriate international organizations." The bill was introduced on 8 November 2007. The move was led by New Jersey Representative Scott Garrett.[141]
 
@@ -653,7 +651,7 @@ Haiti is one of 17 nations to currently recognize the Republic of China over the
 
 Arab world
 
-Ma_Bufang_and_Muhammad_Naguib.jpg Kuomintang National Revolutionary Army General Ma Bufang]] 1955_Ma_Bufang_with_KMT_ambassador_to_Saudi_Arabia.jpg General Ma Bufang with the Kuomintang ambassador to Saudi Arabia in 1955.]] Ma_Bufang_and_Family_in_Egypt_1954.jpg Egypt maintained relations until 1956, when Gamal Abdel Nasser cut off relations and recognized the PRC. Ma Bufang, who was then living in Egypt, was ordered to move to Saudi Arabia, and became the ROC ambassador to Saudi Arabia. Saudi Arabia ended its diplomatic relations with the ROC in 1990. Ambassador Wang Shi-ming was a Chinese Muslim, and the ROC ambassador to Kuwait.[160] The ROC also maintained relations with Libya and Saudi Arabia.
+Kuomintang National Revolutionary Army General Ma Bufang]] General Ma Bufang with the Kuomintang ambassador to Saudi Arabia in 1955.]] Egypt maintained relations until 1956, when Gamal Abdel Nasser cut off relations and recognized the PRC. Ma Bufang, who was then living in Egypt, was ordered to move to Saudi Arabia, and became the ROC ambassador to Saudi Arabia. Saudi Arabia ended its diplomatic relations with the ROC in 1990. Ambassador Wang Shi-ming was a Chinese Muslim, and the ROC ambassador to Kuwait.[160] The ROC also maintained relations with Libya and Saudi Arabia.
 
 India
 
@@ -665,7 +663,7 @@ On 1 June 1920, a friendship agreement was signed between the ROC and Iran. Rati
 
 Japan
 
-2016年5月20日總統就職_10.jpg Keiji Furuya and President Tsai Ing-wen in Taiwan on May 20, 2016.]] Japan-Taiwan relations are guided by the 1972 Japan-PRC Joint Communique. Japan has maintained non-governmental, working-level relations with Taiwan ever since.
+Keiji Furuya and President Tsai Ing-wen in Taiwan on May 20, 2016.]] Japan-Taiwan relations are guided by the 1972 Japan-PRC Joint Communique. Japan has maintained non-governmental, working-level relations with Taiwan ever since.
 
 Malaysia
 
@@ -679,7 +677,7 @@ On 3 October 2002, the Ministry of Foreign Affairs recognized Mongolia as an ind
 
 Paraguay
 
-2016年5月20日總統就職_09.jpg and President Tsai Ing-wen in Taiwan.]] Paraguayan leader General Alfredo Stroessner was a partner of Generalissimo Chiang. Many Paraguayan officers trained in Fu Hsing Kang College in the ROC.[176]
+and President Tsai Ing-wen in Taiwan.]] Paraguayan leader General Alfredo Stroessner was a partner of Generalissimo Chiang. Many Paraguayan officers trained in Fu Hsing Kang College in the ROC.[176]
 
 Stroessner's 1989 ousting and his successor Andrés Rodríguez's reinventing himself as a democratically elected president, were immediately followed by invitations from Beijing to switch diplomatic recognition.[177] However, the Taiwanese ambassador, Wang Sheng, and his diplomats were able to convince the Paraguayans that continuing the relationship with the ROC, and thus keeping the ROC's development assistance and access to the ROC's markets, would be more advantageous for Paraguay.
 
@@ -697,7 +695,7 @@ Singapore maintained unofficial relations with both the ROC and the PRC until 19
 
 Africa
 
-總統接見史瓦濟蘭王國國母恩彤碧陛下訪問團_(27459709821).jpg Queen Mother Ntombi Tfwala and President Tsai Ing-wen in Taiwan.]] Taiwan has an embassy in Mbabane, Swaziland. On 7 June 2016, the National Police Agency and Royal Swaziland Police Service signed a joint, cross-border, crime fighting pact, which included exchanges, probes, personnel visits, professional skills enhancement, law enforcement and technical assistance.[190] King Mswati III has visited Taiwan seventeen times as of June 2018, and has promised to continue recognizing Taiwan instead of the PRC.[191] As of June 2018, the Taiwanese Ambassador is Thomas Chen (陳經銓).[192]
+Queen Mother Ntombi Tfwala and President Tsai Ing-wen in Taiwan.]] Taiwan has an embassy in Mbabane, Swaziland. On 7 June 2016, the National Police Agency and Royal Swaziland Police Service signed a joint, cross-border, crime fighting pact, which included exchanges, probes, personnel visits, professional skills enhancement, law enforcement and technical assistance.[190] King Mswati III has visited Taiwan seventeen times as of June 2018, and has promised to continue recognizing Taiwan instead of the PRC.[191] As of June 2018, the Taiwanese Ambassador is Thomas Chen (陳經銓).[192]
 
 South Africa switched in 1998. Liberia recognized the ROC in 1989, and switched back to the PRC in October 2003.[193]
 
@@ -751,7 +749,7 @@ The ROC set up a trade mission in Fiji in 1971.[229] In 1975, PRC established di
 
 Kiribati
 
-蔡英文總統與吉里巴斯共和國總統馬茂談話.jpg and President Tsai Ing-wen in Taiwan.]] Kiribati, under the government of President Taneti Mamau, recognizes the ROC.
+and President Tsai Ing-wen in Taiwan.]] Kiribati, under the government of President Taneti Mamau, recognizes the ROC.
 
 From 1980 to 2003, Kiribati recognized the PRC. Relations between China and Kiribati then became a contentious political issue within Kiribati. President Teburoro Tito was ousted in a parliamentary vote of no confidence in 2003, over his refusal to clarify the details of a land lease that had enabled Beijing to maintain a satellite-tracking station in the country since 1997, and over Chinese ambassador Ma Shuxue's acknowledged monetary donation to "a cooperative society linked to Tito".[231] In the ensuing election, Anote Tong won the presidency after "stirring suspicions that the station was being used to spy on US installations in the Pacific".[232] Tong had previously pledged to "review" the lease.[233]
 
@@ -769,7 +767,7 @@ The Marshall Islands recognize the ROC and maintain an embassy in Taipei. The ma
 
 Nauru
 
-2016年5月20日總統就職_13.jpg and President Tsai Ing-wen in Taiwan.]] Nauru, under the government of President Baron Waqa, recognizes the ROC.
+and President Tsai Ing-wen in Taiwan.]] Nauru, under the government of President Baron Waqa, recognizes the ROC.
 
 In 1980, Nauru established official relations with the ROC. In 2002, however, the government of Rene Harris established relations with the PRC,[245] and adopted the One China Policy.[246] Consequently, Taiwan severed its relations with Nauru, and accused the PRC of having bought Nauru's allegiance with financial aid of over €90,000,000.[247] A reporter for _The Age_ agreed, stating that "Beijing recently bought off a threat by Nauru to revert to Taiwan only six months after opening ties with the mainland, offering a large loan to Nauru's near-destitute Government".[248]
 
@@ -797,7 +795,7 @@ On 10 July 2013, New Zealand and ROC signed a bilateral Economic Cooperation Agr
 
 Palau
 
-總統與帛琉共和國總統雷蒙傑索(Tommy_E._Remengesau,_Jr.)_合影_(27163348345).jpg and President Tsai Ing-wen in Taiwan.]] Palau recognizes the ROC, and is one of the few countries to maintain an embassy in Taipei. Diplomatic relations began in 1999, five years after Palaun independence.[261] ROC maintains an embassy in Koror City.[262] The ROC provides scholarships to Palauan students, as well as computers for Palauan schools. In 2008, Mario Katosang, Palau's Minister of Education, stated:
+and President Tsai Ing-wen in Taiwan.]] Palau recognizes the ROC, and is one of the few countries to maintain an embassy in Taipei. Diplomatic relations began in 1999, five years after Palaun independence.[261] ROC maintains an embassy in Koror City.[262] The ROC provides scholarships to Palauan students, as well as computers for Palauan schools. In 2008, Mario Katosang, Palau's Minister of Education, stated:
 
 Travel from the Mainland to Palau is illegal.[263][264]
 
@@ -856,7 +854,7 @@ The European Union has emphasized human rights in its relations with ROC.[287] E
 
 International organizations
 
-Flag_of_Chinese_Taipei_for_Olympic_games.svg in the official Olympic Games]]
+in the official Olympic Games]]
 
 Under pressure from the PRC, the ROC has been excluded from, or downgraded in, many international organizations. In other cases, ROC may retain full participation, due to the usage of names such as "Chinese Taipei" or "Taiwan, China". The ROC is blocked from UNESCO by the PRC, although its membership application is backed by Swaziland, Kiribati, Marshall Islands, Nauru, Palau, Solomon Islands, Tuvalu, Haiti, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Belize, El Salvador, Guatemala, Honduras, Nicaragua and Paraguay.
 
@@ -1062,7 +1060,7 @@ Transport and communications
 
 Air links
 
-CHINA_AIRLINES_B747-409_(B-162_24310_778)_(4528145712).jpg Boeing 747-400 in old livery, bearing the ROC flag.]]
+Boeing 747-400 in old livery, bearing the ROC flag.]]
 
 The dispute over Taiwan's status affects the island's air links with the outside world, particularly Europe, North America and Australia.
 

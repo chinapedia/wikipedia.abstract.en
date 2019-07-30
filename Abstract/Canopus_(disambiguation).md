@@ -1,1 +1,0 @@
-CANOPUS may refer to:

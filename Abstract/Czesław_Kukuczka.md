@@ -1,1 +1,0 @@
-CZESŁAW KUKUCZKA (July 23 1935 – March 29 1974) was a Polish man who became the one-hundred and fourteenth known person to die at the Berlin Wall. Kukuczka was assassinated during an attempt to threaten the Polish embassy in East Germany into allowing him to migrate to West Berlin, becoming one of only three non-German escapee victims of the Berlin Wall.

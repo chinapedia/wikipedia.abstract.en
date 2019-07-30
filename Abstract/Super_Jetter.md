@@ -1,1 +1,0 @@
-is a Japanese monochrome anime television series created by Fumio Hisamatsu,[1] who also served as the series character designer. When the series was broadcast in other countries, some episodes were redone in color, and the Japanese rebroadcasts use these color episodes.

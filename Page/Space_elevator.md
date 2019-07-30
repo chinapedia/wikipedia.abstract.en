@@ -1,4 +1,4 @@
-Space_elevator_structural_diagram--corrected_for_scale+CM+etc.svg well above geostationary orbit level. This produces enough upward centrifugal force from Earth's rotation to fully counter the downward gravity, keeping the cable upright and taut. Climbers carry cargo up and down the cable.]] thumbtime=28
+well above geostationary orbit level. This produces enough upward centrifugal force from Earth's rotation to fully counter the downward gravity, keeping the cable upright and taut. Climbers carry cargo up and down the cable.]] thumbtime=28
 
 A SPACE ELEVATOR is a proposed type of planet-to-space transportation system.[1] The main component would be a cable (also called a tether) anchored to the surface and extending into space. The design would permit vehicles to travel along the cable from a planetary surface, such as the Earth's, directly into space or orbit, without the use of large rockets. An Earth-based space elevator would consist of a cable with one end attached to the surface near the equator and the other end in space beyond geostationary orbit (35,786 km altitude). The competing forces of gravity, which is stronger at the lower end, and the outward/upward centrifugal force, which is stronger at the upper end, would result in the cable being held up, under tension, and stationary over a single position on Earth. With the tether deployed, climbers could repeatedly climb the tether to space by mechanical means, releasing their cargo to orbit. Climbers could also descend the tether to return cargo to the surface from orbit.[2]
 
@@ -13,7 +13,7 @@ History
 
 Early concepts
 
-Tsiolkovsky.jpg]] The key concept of the space elevator appeared in 1895 when Russian scientist Konstantin Tsiolkovsky was inspired by the Eiffel Tower in Paris. He considered a similar tower that reached all the way into space and was built from the ground up to the altitude of 35,786 kilometers, the height of geostationary orbit.[10] He noted that the top of such a tower would be circling Earth as in a geostationary orbit. Objects would attain horizontal velocity as they rode up the tower, and an object released at the tower's top would have enough horizontal velocity to remain there in geostationary orbit. Tsiolkovsky's conceptual tower was a compression structure, while modern concepts call for a tensile structure (or "tether").
+]] The key concept of the space elevator appeared in 1895 when Russian scientist Konstantin Tsiolkovsky was inspired by the Eiffel Tower in Paris. He considered a similar tower that reached all the way into space and was built from the ground up to the altitude of 35,786 kilometers, the height of geostationary orbit.[10] He noted that the top of such a tower would be circling Earth as in a geostationary orbit. Objects would attain horizontal velocity as they rode up the tower, and an object released at the tower's top would have enough horizontal velocity to remain there in geostationary orbit. Tsiolkovsky's conceptual tower was a compression structure, while modern concepts call for a tensile structure (or "tether").
 
 20th century
 
@@ -107,7 +107,7 @@ The taper factor results in large increases in cross-section-area unless the spe
 
 Structure
 
-SpaceElevatorClimbing.jpg There are a variety of space elevator designs proposed for many planetary bodies. Almost every design includes a base station, a cable, climbers, and a counterweight. For an Earth Space Elevator the Earth's rotation creates upward centrifugal force on the counterweight. The counterweight is held down by the cable while the cable is held up and taut by the counterweight. The base station anchors the whole system to the surface of the Earth. Climbers climb up and down the cable with cargo.
+There are a variety of space elevator designs proposed for many planetary bodies. Almost every design includes a base station, a cable, climbers, and a counterweight. For an Earth Space Elevator the Earth's rotation creates upward centrifugal force on the counterweight. The counterweight is held down by the cable while the cable is held up and taut by the counterweight. The base station anchors the whole system to the surface of the Earth. Climbers climb up and down the cable with cargo.
 
 Base station
 
@@ -117,7 +117,7 @@ Stationary land based platforms would have simpler and less costly logistical ac
 
 Cable
 
-Kohlenstoffnanoroehre_Animation.gif are one of the candidates for a cable material]] SpaceElevatorAnchor.jpg.]] A space elevator cable would need to carry its own weight as well as the additional weight of climbers. The required strength of the cable would vary along its length. This is because at various points it would have to carry the weight of the cable below, or provide a downward force to retain the cable and counterweight above. Maximum tension on a space elevator cable would be at geosynchronous altitude so the cable would have to be thickest there and taper carefully as it approaches Earth. Any potential cable design may be characterized by the taper factor – the ratio between the cable's radius at geosynchronous altitude and at the Earth's surface.[51]
+are one of the candidates for a cable material]] .]] A space elevator cable would need to carry its own weight as well as the additional weight of climbers. The required strength of the cable would vary along its length. This is because at various points it would have to carry the weight of the cable below, or provide a downward force to retain the cable and counterweight above. Maximum tension on a space elevator cable would be at geosynchronous altitude so the cable would have to be thickest there and taper carefully as it approaches Earth. Any potential cable design may be characterized by the taper factor – the ratio between the cable's radius at geosynchronous altitude and at the Earth's surface.[51]
 
 The cable would need to be made of a material with a large tensile strength/density ratio. For example, the Edwards space elevator design assumes a cable material with a tensile strength of at least 100 gigapascals.[52] Since Edwards consistently assumed the density of his carbon nanotube cable to be 1300 kg/m^3,[53] that implies a specific strength of 77 megapascal/(kg/m^3). This value takes into consideration the entire weight of the space elevator. An untapered space elevator cable would need a material capable of sustaining a length of of its own weight _at sea level_ to reach a geostationary altitude of without yielding.[54] Therefore, a material with very high strength and lightness is needed.
 
@@ -129,15 +129,13 @@ In 2014, diamond nanothreads were first synthesized.[60] Since they have strengt
 
 Climbers
 
-SpaceElevatorInClouds.jpg
-
 A space elevator cannot be an elevator in the typical sense (with moving cables) due to the need for the cable to be significantly wider at the center than at the tips. While various designs employing moving cables have been proposed, most cable designs call for the "elevator" to climb up a stationary cable.
 
 Climbers cover a wide range of designs. On elevator designs whose cables are planar ribbons, most propose to use pairs of rollers to hold the cable with friction.
 
 Climbers would need to be paced at optimal timings so as to minimize cable stress and oscillations and to maximize throughput. Lighter climbers could be sent up more often, with several going up at the same time. This would increase throughput somewhat, but would lower the mass of each individual payload.[62]
 
-Space_elevator_balance_of_forces--circular_Earth--more_accurate_force_vectors.svg The horizontal speed, i.e. due to orbital rotation, of each part of the cable increases with altitude, proportional to distance from the center of the Earth, reaching low orbital speed at a point approximately 66 percent of the height between the surface and geostationary orbit, or a height of about 23,400 km. A payload released at this point would go into a highly eccentric elliptical orbit, staying just barely clear from atmospheric reentry, with the periapsis at the same altitude as LEO and the apoapsis at the release height. With increasing release height the orbit would become less eccentric as both periapsis and apoapsis increase, becoming circular at geostationary level.[63][64] When the payload has reached GEO, the horizontal speed is exactly the speed of a circular orbit at that level, so that if released, it would remain adjacent to that point on the cable. The payload can also continue climbing further up the cable beyond GEO, allowing it to obtain higher speed at jettison. If released from 100,000 km, the payload would have enough speed to reach the asteroid belt.[65]
+The horizontal speed, i.e. due to orbital rotation, of each part of the cable increases with altitude, proportional to distance from the center of the Earth, reaching low orbital speed at a point approximately 66 percent of the height between the surface and geostationary orbit, or a height of about 23,400 km. A payload released at this point would go into a highly eccentric elliptical orbit, staying just barely clear from atmospheric reentry, with the periapsis at the same altitude as LEO and the apoapsis at the release height. With increasing release height the orbit would become less eccentric as both periapsis and apoapsis increase, becoming circular at geostationary level.[63][64] When the payload has reached GEO, the horizontal speed is exactly the speed of a circular orbit at that level, so that if released, it would remain adjacent to that point on the cable. The payload can also continue climbing further up the cable beyond GEO, allowing it to obtain higher speed at jettison. If released from 100,000 km, the payload would have enough speed to reach the asteroid belt.[65]
 
 As a payload is lifted up a space elevator, it would gain not only altitude, but horizontal speed (angular momentum) as well. The angular momentum is taken from the Earth's rotation. As the climber ascends, it is initially moving slower than each successive part of cable it is moving on to. This is the Coriolis force: the climber "drags" (westward) on the cable, as it climbs, and slightly decreases the Earth's rotation speed. The opposite process would occur for descending payloads: the cable is tilted eastward, thus slightly increasing Earth's rotation speed.
 
@@ -162,7 +160,7 @@ Yoshio Aoki, a professor of precision machinery engineering at Nihon University 
 
 Counterweight
 
-Nasa_space_elev.jpg Several solutions have been proposed to act as a counterweight:
+Several solutions have been proposed to act as a counterweight:
 
 -   a heavy, captured asteroid;[73]
 -   a space dock, space station or spaceport positioned past geostationary orbit

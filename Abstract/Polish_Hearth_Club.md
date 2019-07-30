@@ -1,1 +1,0 @@
-Ognisko_Polskie_1.JPG, London]] The POLISH HEARTH CLUB (Polish: _Ognisko Polskie_) is a private member's club incorporating a restaurant, a theatre and exhibition space at 55 Exhibition Road in Kensington, London, U.K.

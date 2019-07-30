@@ -1,1 +1,0 @@
-JULIO ARANGO (born 6 June 1950) is a Colombian former swimmer. He competed at the 1964 Summer Olympics and the 1968 Summer Olympics. He finished third in the 1967 Pan American Games 200 metres freestyle event.[1]

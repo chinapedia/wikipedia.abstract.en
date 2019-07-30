@@ -1,1 +1,0 @@
-The ARIA MUSIC AWARD FOR PRODUCER OF THE YEAR, is an award presented within the Artisan Awards at the annual ARIA Music Awards. The ARIA Awards recognise "the many achievements of Aussie artists across all music genres",[1] and have been given by the Australian Recording Industry Association (ARIA) since 1987.[2]

@@ -1,1 +1,0 @@
-The INTERNATIONAL AFRICAN INSTITUTE (IAI) was founded (as the INTERNATIONAL INSTITUTE OF AFRICAN LANGUAGES AND CULTURES - IIALC) in 1926 in London for the study of African languages. Frederick Lugard was the first chairman (1926 to his death in 1945); Diedrich Hermann Westermann (1926 to 1939) and Maurice Delafosse (1926) were the initial co-directors.[1]

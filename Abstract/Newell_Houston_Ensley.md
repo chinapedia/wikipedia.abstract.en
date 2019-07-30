@@ -1,1 +1,0 @@
-NEWELL HOUSTON ENSLEY (August 23, 1852 – May 23, 1888) was a leader in the Baptist Church and African-American civil rights. He was a professor at Shaw University, Howard University, and Alcorn University.

@@ -1,1 +1,0 @@
-Diarmid_Noël_Paton._Photograph_by_T._&_R._Annan_&_Sons_Ltd._Wellcome_V0026990.jpg 37_Drummond_Place,_Edinburgh.jpg DIARMID NOEL PATON, (19 March 1859 – 30 September 1928), known as NOEL PATON, was a Scottish physician and academic. From 1906 to 1928, he was the Regius Professor of Physiology at the University of Glasgow.[1]

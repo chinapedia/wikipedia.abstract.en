@@ -1,1 +1,0 @@
-__NOTOC__ _' Aldinga Reef Aquatic Reserve_' is a marine protected area in the Australian state of South Australia located in waters adjoining the east coast of Gulf St Vincent including land within the intertidal zone in the suburbs of Aldinga Beach and Port Willunga about south of the state capital of Adelaide.[1][2]

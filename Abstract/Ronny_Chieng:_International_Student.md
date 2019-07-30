@@ -1,1 +1,0 @@
-_RONNY CHIENG: INTERNATIONAL STUDENT_ is an Australian television comedy series first screened on the ABC in 2017. It follows the adventures of comedian Ronny Chieng as an international student, partly fictional and partly based on his own experiences as a law student in Melbourne, Australia.

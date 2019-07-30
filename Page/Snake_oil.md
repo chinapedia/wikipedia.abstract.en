@@ -1,6 +1,6 @@
-Clark_Stanley's_Snake_Oil_Liniment.png's Snake Oil]]
+'s Snake Oil]]
 
-SNAKE OIL is a euphemism for deceptive marketing. It refers to the petroleum-based mineral oil or "snake oil" that used to be sold as a cure-all elixir for many kinds of physiological problems. Many 19th-century United States and 18th-century European entrepreneurs advertised and sold mineral oil (often mixed with various active and inactive household herbs, spices, and compounds, but containing no properties of snakes) as "snake oil liniment", making frivolous claims about its efficacy as a panacea. William Rockefeller Sr. used "rock oil" as a cancer cure without the reference to snakes. Patent medicines that claimed to be a panacea were extremely common from the 18th century until the 20th, particularly among vendors masking addictive drugs such as cocaine, amphetamine, alcohol and opium-based concoctions or elixirs, to be sold at medicine shows as medication or products promoting health. 1751_-_Juan_de_Loeches.png
+SNAKE OIL is a euphemism for deceptive marketing. It refers to the petroleum-based mineral oil or "snake oil" that used to be sold as a cure-all elixir for many kinds of physiological problems. Many 19th-century United States and 18th-century European entrepreneurs advertised and sold mineral oil (often mixed with various active and inactive household herbs, spices, and compounds, but containing no properties of snakes) as "snake oil liniment", making frivolous claims about its efficacy as a panacea. William Rockefeller Sr. used "rock oil" as a cancer cure without the reference to snakes. Patent medicines that claimed to be a panacea were extremely common from the 18th century until the 20th, particularly among vendors masking addictive drugs such as cocaine, amphetamine, alcohol and opium-based concoctions or elixirs, to be sold at medicine shows as medication or products promoting health.
 
 In traditional Chinese medicament, it is a medicine utilizing fat extracted from the Chinese water snake (_Enhydris chinensis_).[1] It is a rubefacient or ointment, and is applied topically to relieve minor physical pain. It has been used in traditional Chinese medicine for many centuries, and is a relatively common medication prescribed by doctors ascribing the practice of traditional Chinese medicine. Its effectiveness as medicine has been a historical source of controversy in the Western world, where there is much confusion over its origin and constitution due to a U.S. District Court judgment against Clark Stanley.
 
@@ -20,7 +20,7 @@ The drastic amount of fraud extending to the drug epidemic was unfolded, and exp
 
 From cure-all to quackery
 
-SnakeOilDecision.jpg, fining Clark Stanley $20 for "misbranding" its "Clark Stanley Snake Oil Liniment".]]
+, fining Clark Stanley $20 for "misbranding" its "Clark Stanley Snake Oil Liniment".]]
 
 The composition of snake oil medicines varies markedly among products.
 
@@ -36,8 +36,6 @@ Modern implications
 Many modern health products continue to be marketed using techniques formerly associated with snake oil. The marketing comprises storefronts, retail stores, and traveling peddlers; example products are herbalism, dietary supplements, or a Tibetan singing bowl (used for healing.) Claims that these products are scientific, healthy, or natural are dubious.
 
 There are no known accounts of snake oil peddled in the United States or Europe containing any trace of actual snake extract (unlike snake oil in traditional Chinese medicine). Snake oil in Western culture is a fraudulent panacea, although generally less dangerous than many other patent medicines containing intoxicating or hazardous ingredients. Nonetheless, snake oil represents a type of fraud that covers the intoxicating drugs once sold at medicine shows. Many of these remain available today, though they may be manufactured by pharmaceutical companies, require a prescription, and undergo government regulation.
-
-Snake-oil_salesman_Professor_Thaddeus_Schmidlap_at_Enchanted_Springs_Ranch,_Boerne,_Texas,_USA_28650a.jpg
 
 
 See also

@@ -1,1 +1,0 @@
-AMBIORIX (Gaulish "king in all directions") was, together with Cativolcus, prince of the Eburones, leader of a Belgic tribe of north-eastern Gaul (Gallia Belgica), where modern Belgium is located. In the nineteenth century Ambiorix became a Belgian national hero because of his resistance against Julius Caesar, as written in Caesar's _Commentarii de Bello Gallico_.[1]

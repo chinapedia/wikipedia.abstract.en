@@ -1,1 +1,0 @@
-CRIDER is an unincorporated community in western Howell County, in the U.S. state of Missouri.[1] Crider is about ten miles west of West Plains and about two miles northwest of Pottersville. It is located on Missouri Route AD.[2]

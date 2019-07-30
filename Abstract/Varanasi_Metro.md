@@ -1,1 +1,0 @@
-The VARANASI METRO was a rapid transit proposed for the city of Varanasi, Uttar Pradesh, India. The proposed system consisted of 2 corridors span from BHEL (Tarna, Shivpur) to Banaras Hindu University (19.35 km) and Benia Bagh to Sarnath (9.885 km). The feasibility study of the project was done by RITES and was completed in June 2015.

@@ -1,1 +1,0 @@
-FRIEDRICH CHRISTIAN ANTON "FRITZ" LANG (December 5, 1890 – August 2, 1976) was an Austrian-German-American filmmaker, screenwriter, and occasional film producer and actor.[1] One of the best-known _émigrés_ from Germany's school of Expressionism, he was dubbed the "Master of Darkness" by the British Film Institute.[2]

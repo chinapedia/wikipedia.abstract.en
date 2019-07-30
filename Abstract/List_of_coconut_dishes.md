@@ -1,1 +1,0 @@
-Coconut_shrimp.jpg with a dipping sauce]] This is a LIST OF COCONUT DISHES AND FOODS that use coconut as a primary ingredient. The term coconut can refer to the entire coconut palm or the seed, or the fruit, which, botanically, is a drupe, not a nut.

@@ -1,1 +1,0 @@
-In mathematics, especially in abstract algebra, a QUASIGROUP is an algebraic structure resembling a group in the sense that "division" is always possible. Quasigroups differ from groups mainly in that they are not necessarily associative.

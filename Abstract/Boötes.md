@@ -1,1 +1,0 @@
-BOÖTES is a constellation in the northern sky, located between 0° and +60° declination, and 13 and 16 hours of right ascension on the celestial sphere. The name comes from the Greek Βοώτης, _Boōtēs_, meaning “herdsman” or “plowman” (literally, “ox-driver”; from βοῦς _bous_ “cow”).

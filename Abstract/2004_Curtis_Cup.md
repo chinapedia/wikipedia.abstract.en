@@ -1,1 +1,0 @@
-The 33RD CURTIS CUP MATCH was played on 12 and 13 June 2004 at Formby Golf Club in Formby, Merseyside, England. The United States won 10 to 8.[1] Great Britain and Ireland won 5 of the 6 foursomes but American dominated in the singles, winning 9 of the 12 matches. Michelle Wie became the youngest ever Curtis Cup player, at the age of 14.

@@ -1,1 +1,0 @@
-NIELS HEMMINGSENS GADE is a street in the Old Town of Copenhagen, Denmark. It runs from the western part of Amagertorv in the south to Skindergade in the north. It passes the Church of the Holy Ghost and the square Gråbrødretorv. The street is named after the 16th-century Lutheran theologian Niels Hemmingsen.

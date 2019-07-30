@@ -1,1 +1,0 @@
-SANTA CHIARA is a Roman Catholic church and monastery in the town of Camerino, province of Macerata, region of the Marche, Italy. It is located just outside the old city walls, and is best known for housing for during the late 15th and early 16th centuries, the Clarissan nun, Saint Camilla Battista da Varano.

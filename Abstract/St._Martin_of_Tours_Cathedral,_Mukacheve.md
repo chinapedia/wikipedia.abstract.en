@@ -1,1 +1,0 @@
-Внутри_костёла_-_Inside_the_church_(10233862396).jpg The ST. MARTIN OF TOURS CATHEDRAL[1] ( ) also called MUKACHEVE CATHEDRAL is the name given to a religious building affiliated with the Catholic Church which is located in the city of Mukacheve in the west part of European country of Ukraine.[2][3]

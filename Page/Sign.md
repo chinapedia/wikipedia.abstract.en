@@ -1,4 +1,4 @@
-Biohazard.svg sign is a completely conventional symbol with no inherent relationship to what it represents.]] Big_Foot_(6225546731).jpg A SIGN is an object, quality, event, or entity whose presence or occurrence indicates the probable presence or occurrence of something else.[1] A natural sign bears a causal relation to its object—for instance, thunder is a sign of storm, or medical symptoms signify a disease. A conventional sign signifies by agreement, as a full stop signifies the end of a sentence; similarly the words and expressions of a language, as well as bodily gestures, can be regarded as signs, expressing particular meanings. The physical objects most commonly referred to as signs (notices, road signs, etc., collectively known as signage) generally inform or instruct using written text, symbols, pictures or a combination of these.
+sign is a completely conventional symbol with no inherent relationship to what it represents.]] A SIGN is an object, quality, event, or entity whose presence or occurrence indicates the probable presence or occurrence of something else.[1] A natural sign bears a causal relation to its object—for instance, thunder is a sign of storm, or medical symptoms signify a disease. A conventional sign signifies by agreement, as a full stop signifies the end of a sentence; similarly the words and expressions of a language, as well as bodily gestures, can be regarded as signs, expressing particular meanings. The physical objects most commonly referred to as signs (notices, road signs, etc., collectively known as signage) generally inform or instruct using written text, symbols, pictures or a combination of these.
 
 The philosophical study of signs and symbols is called semiotics; this includes the study of semiosis, which is the way in which signs (in the semiotic sense) operate.
 
@@ -10,7 +10,7 @@ Semiotics, epistemology, logic, and philosophy of language are concerned about t
 
 Types
 
-Zodiac_woodcut.png DurbanSign1989.jpg on a beach in Durban in apartheid-era South Africa indicates a racially segregated beach.]] Jätä_tämä_kyltti_huomiotta.jpg, an example of a humorous sign.]] The word _sign_ has a variety of meanings in English, including:
+on a beach in Durban in apartheid-era South Africa indicates a racially segregated beach.]] , an example of a humorous sign.]] The word _sign_ has a variety of meanings in English, including:
 
 -   Sun signs in astrology
 -   Sign or signing, in communication: communicating via hand gestures, such as in sign language.

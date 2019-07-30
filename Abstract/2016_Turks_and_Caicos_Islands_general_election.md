@@ -1,1 +1,0 @@
-GENERAL ELECTIONS were held in Turks and Caicos Islands on 15 December 2016.[1] The result was a victory for the People's Democratic Movement (PDM), with Sharlene Cartwright-Robinson becoming the islands' first female Premier.[2] Following the election outgoing Prime Minister Rufus Ewing resigned as Progressive National Party (PNP) leader and quit politics.[3]

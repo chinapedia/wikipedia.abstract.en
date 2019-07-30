@@ -1,4 +1,4 @@
-Wooden_hourglass_3.jpg in an hourglass can be used to measure the passage of time. It also concretely represents the present as being between the past and the future.]]
+in an hourglass can be used to measure the passage of time. It also concretely represents the present as being between the past and the future.]]
 
 TIME is the indefinite continued progress of existence and events that occur in an apparently irreversible succession from the past, through the present, to the future.[1][2][3] Time is a component quantity of various measurements used to sequence events, to compare the duration of events or the intervals between them, and to quantify rates of change of quantities in material reality or in the conscious experience.[4][5][6][7] Time is often referred to as a fourth dimension, along with three spatial dimensions.[8]
 
@@ -23,7 +23,7 @@ During the French Revolution, a new clock and calendar were invented in an attem
 
 History of time measurement devices
 
-Sundial_Taganrog.jpg in Taganrog]] Old_Clock_Close_Up.jpg
+in Taganrog]]
 
 A large variety of devices have been invented to measure time. The study of these devices is called horology.[26]
 
@@ -33,7 +33,7 @@ A sundial uses a gnomon to cast a shadow on a set of markings calibrated to the 
 
 The most precise timekeeping device of the ancient world was the water clock, or _clepsydra_, one of which was found in the tomb of Egyptian pharaoh Amenhotep I. They could be used to measure the hours even at night, but required manual upkeep to replenish the flow of water. The Ancient Greeks and the people from Chaldea (southeastern Mesopotamia) regularly maintained timekeeping records as an essential part of their astronomical observations. Arab inventors and engineers in particular made improvements on the use of water clocks up to the Middle Ages.[29] In the 11th century, Chinese inventors and engineers invented the first mechanical clocks driven by an escapement mechanism.
 
-Swatch_Irony_angle_below.jpg, 2007 ]] The hourglass uses the flow of sand to measure the flow of time. They were used in navigation. Ferdinand Magellan used 18 glasses on each ship for his circumnavigation of the globe (1522).[30]
+, 2007 ]] The hourglass uses the flow of sand to measure the flow of time. They were used in navigation. Ferdinand Magellan used 18 glasses on each ship for his circumnavigation of the globe (1522).[30]
 
 Incense sticks and candles were, and are, commonly used to measure time in temples and churches across the globe. Waterclocks, and later, mechanical clocks, were used to mark the events of the abbeys and monasteries of the Middle Ages. Richard of Wallingford (1292–1336), abbot of St. Alban's abbey, famously built a mechanical clock as an astronomical orrery about 1330.[31][32]
 
@@ -41,7 +41,7 @@ Great advances in accurate time-keeping were made by Galileo Galilei and especia
 
 The English word clock probably comes from the Middle Dutch word _klocke_ which, in turn, derives from the medieval Latin word _clocca_, which ultimately derives from Celtic and is cognate with French, Latin, and German words that mean bell. The passage of the hours at sea were marked by bells, and denoted the time (see ship's bell). The hours were marked by bells in abbeys as well as at sea.
 
-ChipScaleClock2_HR.jpgs, such as this one unveiled in 2004, are expected to greatly improve GPS location.[34]]]
+s, such as this one unveiled in 2004, are expected to greatly improve GPS location.[34]]]
 
 Clocks can range from watches, to more exotic varieties such as the Clock of the Long Now. They can be driven by a variety of means, including gravity, springs, and various forms of electrical power, and regulated by a variety of means such as a pendulum.
 
@@ -153,7 +153,7 @@ The term "time" is generally used for many close but different concepts, includi
 
 Religion
 
-Jain_scale_of_time.JPG texts shown logarithmically ]]
+texts shown logarithmically ]]
 
 Linear and cyclical time
 
@@ -176,7 +176,7 @@ According to Kabbalists, "time" is a paradox[58] and an illusion.[59] Both the f
 
 Philosophy
 
-Le_Temps.JPG.]]
+.]]
 
 Two contrasting viewpoints on time divide prominent philosophers. One view is that time is part of the fundamental structure of the universe – a dimension independent of events, in which events occur in sequence. Isaac Newton subscribed to this realist view, and hence it is sometimes referred to as Newtonian time.[60][61] The opposing view is that _time_ does not refer to any kind of "container" that events and objects "move through", nor to any entity that "flows", but that it is instead part of a fundamental intellectual structure (together with space and number) within which humans sequence and compare events. This second view, in the tradition of Gottfried Leibniz[62] and Immanuel Kant,[63][64] holds that _time_ is neither an event nor a thing, and thus is not itself measurable nor can it be travelled.
 
@@ -229,7 +229,7 @@ Classical mechanics
 
 In non-relativistic classical mechanics, Newton's concept of "relative, apparent, and common time" can be used in the formulation of a prescription for the synchronization of clocks. Events seen by two different observers in motion relative to each other produce a mathematical concept of time that works sufficiently well for describing the everyday phenomena of most people's experience. In the late nineteenth century, physicists encountered problems with the classical understanding of time, in connection with the behavior of electricity and magnetism. Einstein resolved these problems by invoking a method of synchronizing clocks using the constant, finite speed of light as the maximum signal velocity. This led directly to the result that observers in motion relative to one another measure different elapsed times for the same event.
 
-World_line.svgs are absolute, the "present" is a relative concept different for observers in relative motion.]]
+s are absolute, the "present" is a relative concept different for observers in relative motion.]]
 
 Spacetime
 
@@ -239,7 +239,7 @@ On the other hand, the crew on board the spaceship also perceives the observer a
 
 Time dilation
 
-Relativity_of_Simultaneity.svg: Event B is simultaneous with A in the green reference frame, but it occurred before in the blue frame, and occurs later in the red frame.]]
+: Event B is simultaneous with A in the green reference frame, but it occurred before in the blue frame, and occurs later in the red frame.]]
 
 Einstein showed in his thought experiments that people travelling at different speeds, while agreeing on cause and effect, measure different time separations between events, and can even observe different chronological orderings between non-causally related events. Though these effects are typically minute in the human experience, the effect becomes much more pronounced for objects moving at speeds approaching the speed of light. Subatomic particles exist for a well known average fraction of a second in a lab relatively at rest, but when travelling close to the speed of light they are measured to travel farther and exist for much longer than when at rest. According to the special theory of relativity, in the high-speed particle's frame of reference, it exists, on the average, for a standard amount of time known as its mean lifetime, and the distance it travels in that time is zero, because its velocity is zero. Relative to a frame of reference at rest, time seems to "slow down" for the particle. Relative to the high-speed particle, distances seem to shorten. Einstein showed how both temporal and spatial dimensions can be altered (or "warped") by high-speed motion.
 
@@ -249,7 +249,7 @@ Einstein wrote in his book, _Relativity_, that simultaneity is also relative, i.
 
 Relativistic time versus Newtonian time
 
-Lorentz_transform_of_world_line.gif of a rapidly accelerating observer in a relativistic universe. The events ("dots") that pass the two diagonal lines in the bottom half of the image (the past light cone of the observer in the origin) are the events visible to the observer.]]
+of a rapidly accelerating observer in a relativistic universe. The events ("dots") that pass the two diagonal lines in the bottom half of the image (the past light cone of the observer in the origin) are the events visible to the observer.]]
 
 The animations visualise the different treatments of time in the Newtonian and the relativistic descriptions. At the heart of these differences are the Galilean and Lorentz transformations applicable in the Newtonian and relativistic theories, respectively.
 
@@ -283,7 +283,7 @@ Another solution to the problem of causality-based temporal paradoxes is that su
 
 Time perception
 
-William_James_b1842c.jpg]]
+]]
 
 The specious present refers to the time duration wherein one's perceptions are considered to be in the present. The experienced present is said to be ‘specious’ in that, unlike the objective present, it is an interval and not a durationless instant. The term _specious present_ was first introduced by the psychologist E.R. Clay, and later developed by William James.[110]
 

@@ -1,1 +1,0 @@
-The 1967 MISSISSIPPI GUBERNATORIAL ELECTION took place on November 7, 1967, in order to elect the Governor of Mississippi. Incumbent Democrat Paul B. Johnson Jr. was term-limited, and could not run for reelection to a second term.

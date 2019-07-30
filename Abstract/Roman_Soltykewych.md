@@ -1,1 +1,0 @@
-ROMAN SOLTYKEWYCH (Ukrainian: Роман Солтикевич; February 4, 1909 – November 17, 1976) was a Ukrainian-Canadian conductor of the Ukrainian Dnipro Ensemble of Edmonton and the father of Orest Soltykevych.

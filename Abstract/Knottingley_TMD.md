@@ -1,1 +1,0 @@
-KNOTTINGLEY TMD is a Traction Maintenance Depot located in Knottingley, West Yorkshire, England. The depot is situated on the Pontefract Line and is near Knottingley station.[1] It opened in 1967 to maintain the locomotives and hopper wagons for a planned 75 Merry-go-round trains a day, expected to use the Wakefield and Goole line.[2]

@@ -1,1 +1,0 @@
-DANISH DEFENCE (, , ) is the unified armed forces of the Kingdom of Denmark, charged with the defence of Denmark and its constituent, self-governing nations Greenland and the Faroe Islands. The Defence also promote Denmark's wider interests, support international peacekeeping efforts and provide humanitarian aid.[1]

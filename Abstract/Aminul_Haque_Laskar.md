@@ -1,1 +1,0 @@
-AMINUL HAQUE LASKAR (born 8 May 1966) is a Bharatiya Janata Party politician from Assam. He has been elected in Assam Legislative Assembly election in 2016 from Sonai constituency.[1][2] He was the only Muslim to be elected to the assembly on a BJP ticket.[3]

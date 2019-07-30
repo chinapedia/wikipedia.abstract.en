@@ -1,1 +1,0 @@
-This is a LIST OF SCIENCE FICTION EDITORS, editors working for book and magazine publishing companies who have edited science fiction. Many have also edited works of fantasy and other related genres, all of which have been sometimes grouped under the name speculative fiction.

@@ -1,1 +1,0 @@
-'''Juliana Skrywer ''' (born 28 December 1987) is a Namibian women's international footballer who plays as a midfielder. She is a member of the Namibia women's national football team. She was part of the team at the 2014 African Women's Championship. On club level she played for Okahandja Beauties FC in Namibia.[1][2]

@@ -1,1 +1,0 @@
-MACKENZIE HEALTH is a company based in Richmond Hill, Ontario, Canada that provides health care services in southern York Region. It operates a hospital system that includes the Mackenzie Richmond Hill Hospital in Richmond Hill, and will include the Mackenzie Vaughan Hospital in Vaughan currently under construction and expected to open in 2020.

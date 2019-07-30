@@ -1,1 +1,0 @@
-MISSISSIPPI HIGHWAY 531 (MS 531) is a state highway in central Mississippi. The road starts at MS 28 near Taylorsville and travels northeastward. It crosses from Smith County to Jasper County, and ends at MS 18 in the town of Bay Springs. The route was designated in 1956 along its current alignment, and it was paved by 1960.

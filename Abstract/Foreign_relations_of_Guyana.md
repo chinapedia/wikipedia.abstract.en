@@ -1,1 +1,0 @@
-After independence in 1966, Guyana sought an influential role in international affairs, particularly among Third World and non-aligned nations. It served twice on the UN Security Council (1975–76 and 1982–83). Former Vice President, Deputy Prime Minister, and Attorney General Mohamed Shahabuddeen served a 9-year term on the International Court of Justice (1987–96).

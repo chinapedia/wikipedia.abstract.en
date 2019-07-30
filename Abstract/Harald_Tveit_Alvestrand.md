@@ -1,1 +1,0 @@
-HARALD TVEIT ALVESTRAND (born 29 June 1959) is a Norwegian computer scientist. He was the chair of the Areas for Applications from 1995 until 1997, Operations and Management 1998, and the General Area, which implies being the chairman of the Internet Engineering Task Force (IETF) from 2001 until 2005.

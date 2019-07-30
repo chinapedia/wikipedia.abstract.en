@@ -1,1 +1,0 @@
-SYBIL WOLFRAM (born SYBILLE MISCH; 1931–1993)[1] was an English philosopher and writer, of German Jewish origin. She was a Fellow and Tutor in philosophy at Lady Margaret Hall at University of Oxford from 1964 to 1993.

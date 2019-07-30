@@ -1,1 +1,0 @@
-French_Polynesia_relief_map.svg FRENCH POLYNESIA is located in Oceania. It is a group of six archipelagos in the South Pacific Ocean, about halfway between South America and Australia. Its area is about 4,167 km² (around 130 islands),[1] of which 3,827 km² is land and 340 km² is (inland) water. It has a coastline of 2,525 km but no land borders with other countries.

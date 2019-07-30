@@ -1,1 +1,0 @@
-In the scale-free network theory (mathematical theory of networks or graph theory), a MEDIATION-DRIVEN ATTACHMENT (MDA) MODEL appears to embody a preferential attachment rule tacitly rather than explicitly. According to MDA rule, a new node first picks a node from the existing network at random and connect itself not with that but with one of the neighbors also picked at random.

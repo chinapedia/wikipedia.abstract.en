@@ -1,1 +1,0 @@
-MARION PARKER(1873–1935)[1] was the first female graduate in the College of Engineering and Architecture of the University of Michigan, worked with Purcell & Elmslie Architects, and established her own practice.

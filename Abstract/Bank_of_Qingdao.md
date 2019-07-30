@@ -1,1 +1,0 @@
-BANK OF QINGDAO (simplified Chinese: 青岛银行: Qīngdǎo yínháng, traditional Chinese: 青島銀行股份有限公司) is a provider of retail and corporate banking services in Shandong province, headquarters are in Qingdao, China. Bank of Qingdao is regulated by the People's Bank of China, the nation's central bank.[1]

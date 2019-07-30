@@ -1,1 +1,0 @@
-This is list of Indian animated films. It includes theatrical films, some important short films, direct-to-video releases and International films in which Indian production houses and studios were involved.

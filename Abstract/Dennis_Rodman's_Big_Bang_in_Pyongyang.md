@@ -1,1 +1,0 @@
-_DENNIS RODMAN'S BIG BANG IN PYONGYANG_ is a 2015 documentary film produced and directed by Colin Offland, and written by Matthew Baker. The film follows retired professional basketball player Dennis Rodman on his mission to host a basketball game between former NBA stars and the North Korean team in Pyongyang.[1][2][3][4]

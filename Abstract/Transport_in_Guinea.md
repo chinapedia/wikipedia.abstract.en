@@ -1,1 +1,0 @@
-Strada_Conakry-_Boffa_Guinea.jpg, Guinea, 2014.]] TRANSPORT IN GUINEA is composed by a variety of systems that people in the country use to get around as well as to and from domestic and international destinations.

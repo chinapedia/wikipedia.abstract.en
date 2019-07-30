@@ -1,1 +1,0 @@
-TokyoRehabilitation_RTKL.jpg]] Royal_Pavilion_Aldershot_2016.jpg, Aldershot]] CALLISONRTKL is a global architecture, planning and design firm formed from the October 2015 merger of Callison and RTKL Associates, both of which were subsidiaries of Arcadis NV.[1]

@@ -1,1 +1,0 @@
-This day marks the approximate midpoint of spring in the Northern Hemisphere and of autumn in the Southern Hemisphere (starting the season at the March equinox).

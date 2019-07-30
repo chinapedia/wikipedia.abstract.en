@@ -1,1 +1,0 @@
-The 1962 ARIZONA GUBERNATORIAL ELECTION took place on November 6, 1962. Incumbent Governor Paul Fannin ran for reelection against President of the Western Conference of United Funds Samuel Pearson Goddard in the general election, winning a third consecutive term, a first for a Republican Governor in Arizona. Fannin was sworn into his third term on January 1, 1963.

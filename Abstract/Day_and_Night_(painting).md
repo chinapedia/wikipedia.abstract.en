@@ -1,1 +1,0 @@
-_DAY AND NIGHT_ () is a mural by Rufino Tamayo, executed in Vinylite on canvas and mounted on particleboard. As well as _Still Life_, it was originally produced for the perfumes and pharmacy section of the Sanborns store on Lafragua Street in Mexico City.[1] Since 2011 it has been conserved in the lobby of the Museo Soumaya.

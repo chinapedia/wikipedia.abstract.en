@@ -1,1 +1,0 @@
-KARL FRIEDRICH BENZ (; 25 November 1844 – 4 April 1929) was a German engine designer and automobile engineer. His Benz Patent Motorcar from 1885 is considered the first practical automobile. He received a patent for the motorcar on 29 January 1886.

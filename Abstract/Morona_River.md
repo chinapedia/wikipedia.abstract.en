@@ -1,1 +1,0 @@
-The MORONA River is a tributary to the Marañón River, and flows parallel to the Pastaza River and immediately to the west of it, and is the last stream of any importance on the northern side of the Amazon before reaching the Pongo de Manseriche.

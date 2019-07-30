@@ -1,1 +1,0 @@
-SYLPHIDE CHARITY VAIGNCOURT-STRALLEN (born 1 November 1990), known professionally as ZIZI STRALLEN, is a British actress, singer and dancer best known for playing Mary Poppins in the Cameron Mackintosh theatrical production of _Mary Poppins_. [1]

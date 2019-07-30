@@ -1,0 +1,6 @@
+Cscr-featured.png
+
+Featured content represents the best of what Wikipedia has to offer. These are the articles, pictures, and other contributions that showcase the polished result of the collaborative efforts that drive Wikipedia. All "featured" content undergoes a thorough review process to ensure that it meets the highest standards and can serve as an example of our end goals. A "featured article" or "list" is indicated by the symbol () in the top right corner of a page. "Good articles" are those that are considered to be of very high quality, having undergone a similar review process to meet the good article criteria, but have not yet achieved featured article standards. The symbol () in the top right corner of a page indicates "good article" status.
+As of {{#formatdate:|dmy}}, there are }} featured and }} good articles within WikiProject Punjab's scope. This makes up {{#expr:(+++++++++)*100/ round 2}}% of the articles on Wikipedia, {{#expr:(+)*100/(+) round 2}}% of all featured articles and lists, and {{#expr:()*100/() round 2}}% of all good articles.
+
+__NOTOC__ __NOEDITSECTION__

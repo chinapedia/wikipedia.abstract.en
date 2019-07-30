@@ -1,1 +1,0 @@
-FINALE LIGURE MARINA RAILWAY STATION () serves the town of Finale Ligure, in the Liguria region, northwestern Italy. Opened in 1872, it forms part of the Genoa–Ventimiglia railway. The train services are operated by Trenitalia.

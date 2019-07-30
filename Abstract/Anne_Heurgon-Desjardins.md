@@ -1,1 +1,0 @@
-Plaque_collège.JPG

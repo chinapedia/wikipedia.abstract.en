@@ -1,1 +1,0 @@
-SURVIVAL OF THE FITTEST (2016) was a two-night, two-city professional wrestling event produced by the U.S.-based wrestling promotion Ring of Honor, the 11th Survival of the Fittest. It took place on November 3, 2016 at the Arlington Convention Center in Arlington, Texas[1] and November 4 at the San Antonio Shrine Auditorium in San Antonio, Texas.[2]

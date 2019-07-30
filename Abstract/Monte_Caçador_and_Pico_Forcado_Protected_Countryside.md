@@ -1,1 +1,0 @@
-MONTE CAÇADOR AND PICO FORCADO PROTECTED COUNTRYSIDE (Portuguese: _Paisagem protegido de Monte Caçador e Pico Forcado_) is a protected area covering of land[1][2][3] in the eastern part of the island of Boa Vista in Cape Verde. It is the most important mountain formation on the island, but not the highest.

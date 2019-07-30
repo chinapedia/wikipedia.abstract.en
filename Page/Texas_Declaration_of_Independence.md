@@ -36,7 +36,7 @@ Based upon the United States Declaration of Independence, the Texas Declaration 
 
 Signatories
 
-Washington_on_the_Brazos_Monument.jpg Wpdms_republic_of_texas.svg Sixty men signed the Texas Declaration of Independence. Three of them were born in Mexico. Fifty-seven of the sixty moved to Texas from the United States.[10] Ten of them had lived in Texas for more than six years, while one-quarter of them had been in the province for less than a year.[11] This is significant, because it indicates that the majority of signatories had moved to Texas after the Law of April 6, 1830, banning immigration, had taken effect, meaning that the majority were legally citizens of the United States, occupying Texas illegally. Fifty-nine of these men were delegates to the Convention, and one was the Convention Secretary, Herbert S. Kimble, who was not a delegate.
+Sixty men signed the Texas Declaration of Independence. Three of them were born in Mexico. Fifty-seven of the sixty moved to Texas from the United States.[10] Ten of them had lived in Texas for more than six years, while one-quarter of them had been in the province for less than a year.[11] This is significant, because it indicates that the majority of signatories had moved to Texas after the Law of April 6, 1830, banning immigration, had taken effect, meaning that the majority were legally citizens of the United States, occupying Texas illegally. Fifty-nine of these men were delegates to the Convention, and one was the Convention Secretary, Herbert S. Kimble, who was not a delegate.
 
 -   Jesse B. Badgett
 -   George Washington Barnett

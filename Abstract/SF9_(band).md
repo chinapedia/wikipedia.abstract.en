@@ -1,1 +1,0 @@
-SF9 (; shortened from SENSATIONAL FEELING 9) is a South Korean boy group formed by FNC Entertainment. SF9 is the company's first dance boy group to debut.[1] SF9 debuted on October 5, 2016 with the release of their first single album, _Feeling Sensation_.[2]

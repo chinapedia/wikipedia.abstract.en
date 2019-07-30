@@ -11,14 +11,12 @@ Steganography includes the concealment of information within computer files. In 
 
 History
 
-Chart_in_the_hand_of_Dr_John_Dee._Steganographiae.png's _Steganographia_ copied by Dr John Dee in 1591]] The first recorded uses of steganography can be traced back to 440 BC when Herodotus mentions two examples in his _Histories_.[3] Histiaeus sent a message to his vassal, Aristagoras, by shaving the head of his most trusted servant, "marking" the message onto his scalp, then sending him on his way once his hair had regrown, with the instruction, "When thou art come to Miletus, bid Aristagoras shave thy head, and look thereon." Additionally, Demaratus sent a warning about a forthcoming attack to Greece by writing it directly on the wooden backing of a wax tablet before applying its beeswax surface. Wax tablets were in common use then as reusable writing surfaces, sometimes used for shorthand.
+'s _Steganographia_ copied by Dr John Dee in 1591]] The first recorded uses of steganography can be traced back to 440 BC when Herodotus mentions two examples in his _Histories_.[3] Histiaeus sent a message to his vassal, Aristagoras, by shaving the head of his most trusted servant, "marking" the message onto his scalp, then sending him on his way once his hair had regrown, with the instruction, "When thou art come to Miletus, bid Aristagoras shave thy head, and look thereon." Additionally, Demaratus sent a warning about a forthcoming attack to Greece by writing it directly on the wooden backing of a wax tablet before applying its beeswax surface. Wax tablets were in common use then as reusable writing surfaces, sometimes used for shorthand.
 
 In his work _Polygraphiae,_ Johannes Trithemius developed his so-called "Ave-Maria-Cipher" that can hide information in a Latin praise of God. "_Auctor Sapientissimus Conseruans Angelica Deferat Nobis Charitas Potentissimi Creatoris_" for example contains the concealed word _VICIPEDIA_.[4]
 
 
 Techniques
-
-Steganography_in_the_hand_of_John_Dee.png
 
 Physical
 
@@ -37,7 +35,7 @@ Steganography has been widely used for centuries. Here are some examples:
 
 Digital messages
 
-Steganography_original.pngs of each color component and a subsequent normalization. The hidden image is shown below.]] Steganography_recovered.png Modern steganography entered the world in 1985 with the advent of personal computers being applied to classical steganography problems.[5] Development following that was very slow, but has since taken off, going by the large number of steganography software available:
+s of each color component and a subsequent normalization. The hidden image is shown below.]] Modern steganography entered the world in 1985 with the advent of personal computers being applied to classical steganography problems.[5] Development following that was very slow, but has since taken off, going by the large number of steganography software available:
 
 -   Concealing messages within the lowest bits of noisy images or sound files. A survey and evaluation of relevant literature/techniques on the topic of digital image steganography can be found here.[6]
 -   Concealing data within encrypted data or within random data. The message to conceal is encrypted, then used to overwrite part of a much larger block of encrypted data or a block of random data (an unbreakable cipher like the one-time pad generates ciphertexts that look perfectly random without the private key).
@@ -96,7 +94,7 @@ Digital steganography output may be in the form of printed documents. A message,
 
 The ciphertext produced by most digital steganography methods, however, is not printable. Traditional digital methods rely on perturbing noise in the channel file to hide the message, and as such, the channel file must be transmitted to the recipient with no additional noise from the transmission. Printing introduces much noise in the ciphertext, generally rendering the message unrecoverable. There are techniques that address this limitation, one notable example being ASCII Art Steganography.[32]
 
-HP_Color_Laserjet_3700_schutz_g.jpg Although not classic steganography, some types of modern color laser printers integrate the model, serial number and timestamps on each printout for traceability reasons using a dot-matrix code made of small, yellow dots not recognizable to the naked eye — see printer steganography for details.
+Although not classic steganography, some types of modern color laser printers integrate the model, serial number and timestamps on each printout for traceability reasons using a dot-matrix code made of small, yellow dots not recognizable to the naked eye — see printer steganography for details.
 
 Using puzzles
 

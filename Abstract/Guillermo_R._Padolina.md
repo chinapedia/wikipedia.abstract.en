@@ -1,1 +1,0 @@
-GUILLERMO R. PADOLINA served as the National Scout Director of the Boy Scouts of the Philippines from 1954 to 1956, as well as the Regional Executive Commissioner of the Far East Scout Region of the World Scout Bureau.[1]

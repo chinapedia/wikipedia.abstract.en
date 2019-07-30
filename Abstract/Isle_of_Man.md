@@ -1,1 +1,0 @@
-The ISLE OF MAN ( ), often referred to simply as MANN (; ), is a self-governing British Crown dependency in the Irish Sea between Great Britain and Ireland. The head of state is Queen Elizabeth II, who holds the title of Lord of Mann and is represented by a lieutenant governor. Defence is the responsibility of the United Kingdom.

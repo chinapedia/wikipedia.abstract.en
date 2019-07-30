@@ -1,1 +1,0 @@
-ERNEST LUDLOW BOGART (March 16, 1870 – November 4, 1958) was an American economist. He was a Professor of Economics at the University of Illinois at Urbana–Champaign from 1909 to 1938.[1] In 1931, he served as President of the American Economic Association.[2]

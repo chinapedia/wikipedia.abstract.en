@@ -11,7 +11,7 @@ LANPAR, available in 1969,[8] was the first electronic spreadsheet on mainframe 
 
 Usage
 
-LibreOffice_Calc_6.2_screenshot.png spreadsheet]] A spreadsheet consists of a table of _cells_ arranged into rows and columns and referred to by the X and Y locations. X locations, the columns, are normally represented by letters, "A", "B", "C", etc., while rows are normally represented by numbers, 1, 2, 3, etc. A single cell can be referred to by addressing its row and column, "C10" for instance. This electronic concept of cell references was first introduced in LANPAR (Language for Programming Arrays at Random) (co-invented by Rene Pardo and Remy Landau) and a variant used in VisiCalc, and known as "A1 notation". Additionally, spreadsheets have the concept of a _range_, a group of cells, normally contiguous. For instance, one can refer to the first ten cells in the first column with the range "A1:A10". LANPAR innovated forward referencing/natural order calculation which didn't re-appear until Lotus 123 and Microsoft's MultiPlan Version 2.
+spreadsheet]] A spreadsheet consists of a table of _cells_ arranged into rows and columns and referred to by the X and Y locations. X locations, the columns, are normally represented by letters, "A", "B", "C", etc., while rows are normally represented by numbers, 1, 2, 3, etc. A single cell can be referred to by addressing its row and column, "C10" for instance. This electronic concept of cell references was first introduced in LANPAR (Language for Programming Arrays at Random) (co-invented by Rene Pardo and Remy Landau) and a variant used in VisiCalc, and known as "A1 notation". Additionally, spreadsheets have the concept of a _range_, a group of cells, normally contiguous. For instance, one can refer to the first ten cells in the first column with the range "A1:A10". LANPAR innovated forward referencing/natural order calculation which didn't re-appear until Lotus 123 and Microsoft's MultiPlan Version 2.
 
 In modern spreadsheet applications, several spreadsheets, often known as _worksheets_ or simply _sheets_, are gathered together to form a _workbook_. A workbook is physically represented by a file, containing all the data for the book, the sheets and the cells with the sheets. Worksheets are normally represented by tabs that flip between pages, each one containing one of the sheets, although Numbers changes this model significantly. Cells in a multi-sheet book add the sheet name to their reference, for instance, "Sheet 1!C10". Some systems extend this syntax to allow cell references to different workbooks.
 
@@ -71,8 +71,6 @@ APLDOT modeling language
 An example of an early "industrial weight" spreadsheet was APLDOT, developed in 1976 at the United States Railway Association on an IBM 360/91, running at The Johns Hopkins University Applied Physics Laboratory in Laurel, MD.[24] The application was used successfully for many years in developing such applications as financial and costing models for the US Congress and for Conrail. APLDOT was dubbed a "spreadsheet" because financial analysts and strategic planners used it to solve the same problems they addressed with paper spreadsheet pads.
 
 VisiCalc
-
-Visicalc.png
 
 Because of Dan Bricklin and Bob Frankston's implementation of VisiCalc on the Apple II in 1979 and the IBM PC in 1981, the spreadsheet concept became widely known in the late 1970s and early 1980s. VisiCalc was the first spreadsheet that combined all essential features of modern spreadsheet applications (except for forward referencing/natural order recalculation), such as WYSIWYG interactive user interface, automatic recalculation, status and formula lines, range copying with relative and absolute references, formula building by selecting referenced cells. Unaware of LANPAR at the time _PC World_ magazine called VisiCalc the first electronic spreadsheet.[25]
 
@@ -201,7 +199,7 @@ A cell's formatting does not typically affect its content and depending on how c
 
 Named cells
 
-Named_Variables_in_Excel.PNG. Formula for y=x² resembles Fortran, and _Name Manager_ shows the definitions of _x_ & _y_.]]
+. Formula for y=x² resembles Fortran, and _Name Manager_ shows the definitions of _x_ & _y_.]]
 
 In most implementations, a cell, or group of cells in a column or row, can be "named" enabling the user to refer to those cells by a name rather than by a grid reference. Names must be unique within the spreadsheet, but when using multiple sheets in a spreadsheet file, an identically named cell range on each sheet can be used if it is distinguished by adding the sheet name. One reason for this usage is for creating or running macros that repeat a command across many sheets. Another reason is that formulas with named variables are readily checked against the algebra they are intended to implement (they resemble Fortran expressions). Use of named variables and named functions also makes the spreadsheet structure more transparent.
 
@@ -239,7 +237,7 @@ In the earliest spreadsheets, cells were a simple two-dimensional grid. Over tim
 
 Formulas
 
-Spreadsheet_animation.gif of values in the B1:B3 range.]]
+of values in the B1:B3 range.]]
 
 A formula identifies the calculation needed to place the result in the cell it is contained within. A cell containing a formula therefore has two display components; the formula itself and the resulting value. The formula is normally only shown when the cell is selected by "clicking" the mouse over a particular cell; otherwise it contains the result of the calculation.
 
@@ -277,11 +275,11 @@ A spreadsheet does not, in fact, have to contain any formulas at all, in which c
 
 Functions
 
-Functions_in_Excel.PNG. ]] Spreadsheets usually contain a number of supplied functions, such as arithmetic operations (for example, summations, averages and so forth), trigonometric functions, statistical functions, and so forth. In addition there is often a provision for _user-defined functions_. In Microsoft Excel these functions are defined using Visual Basic for Applications in the supplied Visual Basic editor, and such functions are automatically accessible on the worksheet. In addition, programs can be written that pull information from the worksheet, perform some calculations, and report the results back to the worksheet. In the figure, the name _sq_ is user-assigned, and function _sq_ is introduced using the _Visual Basic_ editor supplied with Excel. _Name Manager_ displays the spreadsheet definitions of named variables _x_ & _y_.
+. ]] Spreadsheets usually contain a number of supplied functions, such as arithmetic operations (for example, summations, averages and so forth), trigonometric functions, statistical functions, and so forth. In addition there is often a provision for _user-defined functions_. In Microsoft Excel these functions are defined using Visual Basic for Applications in the supplied Visual Basic editor, and such functions are automatically accessible on the worksheet. In addition, programs can be written that pull information from the worksheet, perform some calculations, and report the results back to the worksheet. In the figure, the name _sq_ is user-assigned, and function _sq_ is introduced using the _Visual Basic_ editor supplied with Excel. _Name Manager_ displays the spreadsheet definitions of named variables _x_ & _y_.
 
 Subroutines
 
-Subroutine_in_Excel.PNG writes values calculated using _x_ into _y_.]] Functions themselves cannot write into the worksheet, but simply return their evaluation. However, in Microsoft Excel, subroutines can write values or text found within the subroutine directly to the spreadsheet. The figure shows the Visual Basic code for a subroutine that reads each member of the named column variable _x_, calculates its square, and writes this value into the corresponding element of named column variable _y_. The _y_ column contains no formula because its values are calculated in the subroutine, not on the spreadsheet, and simply are written in.
+writes values calculated using _x_ into _y_.]] Functions themselves cannot write into the worksheet, but simply return their evaluation. However, in Microsoft Excel, subroutines can write values or text found within the subroutine directly to the spreadsheet. The figure shows the Visual Basic code for a subroutine that reads each member of the named column variable _x_, calculates its square, and writes this value into the corresponding element of named column variable _y_. The _y_ column contains no formula because its values are calculated in the subroutine, not on the spreadsheet, and simply are written in.
 
 Remote spreadsheet
 
@@ -289,7 +287,7 @@ Whenever a reference is made to a cell or group of cells that are not located wi
 
 Charts
 
-Excel_chart.PNG Many spreadsheet applications permit charts, graphs or histograms to be generated from specified groups of cells that are dynamically re-built as cell contents change. The generated graphic component can either be embedded within the current sheet or added as a separate object. To create an Excel histogram, a formula based on the REPT function can be used.[39]
+Many spreadsheet applications permit charts, graphs or histograms to be generated from specified groups of cells that are dynamically re-built as cell contents change. The generated graphic component can either be embedded within the current sheet or added as a separate object. To create an Excel histogram, a formula based on the REPT function can be used.[39]
 
 Multi-dimensional spreadsheets
 

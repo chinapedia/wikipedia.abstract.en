@@ -1,1 +1,0 @@
-TEINEITE is a tellurite mineral with the formula Cu(TeO₃) . 2 H₂O. It has a Moh's hardness of 2.5 and it comes in many different shades of blue, ranging from cerulean blue to bluish-gray. The mineral millsite has the same chemical composition, but crystallizes in the monoclinic system, while teineite crystallizes in the orthorhombic system.[1][2][3]

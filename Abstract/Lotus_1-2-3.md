@@ -1,1 +1,0 @@
-LOTUS 1-2-3 is a discontinued spreadsheet program from Lotus Software (later part of IBM). It was the IBM PC's first killer application, was hugely popular in the 1980s and contributed significantly to the success of the IBM PC.[1]

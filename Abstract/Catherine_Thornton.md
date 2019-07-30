@@ -1,1 +1,0 @@
-CATHERINE THORNTON is Professor of Human Immunology and Deputy Head of Swansea University Medical School. She is Designated Individual for the Medical School’s HTA Human Tissue Research Licence.[1] Thornton is the Swansea University representative on the Management and Executive Boards of the Life Sciences Research Network for Wales.[2]

@@ -1,1 +1,0 @@
-DARCY VESCIO (born 3 August 1993) is an Australian rules footballer playing for the Carlton Football Club in the AFL Women's competition. As a heavily marketed marquee player, Vescio has been referred to as a "household name" in Australia by ESPN.[1]

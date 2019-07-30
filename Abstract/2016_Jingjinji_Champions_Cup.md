@@ -1,1 +1,0 @@
-KONGQUECHENG 2016 JINGJINJI CHAMPIONS CUP - HEBEI () was the first edition of Jingjinji Champions Cup. The tournament was hosted by Hebei China Fortune at Qinhuangdao city. Hebei China Fortune won the title and ¥1 million prize by beating invited team Henan Jianye in the penalty shoot-out.[1]

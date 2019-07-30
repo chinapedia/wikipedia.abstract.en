@@ -1,1 +1,0 @@
-RYAN GIBSON (born 30 December 1993) is an Australian cricketer.[1] He made his List A debut for Cricket Australia XI in the 2016–17 Matador BBQs One-Day Cup on 1 October 2016.[2] He scored a century and was named man of the match.[3][4]

@@ -1,1 +1,0 @@
-MASSIVELY MULTIPLAYER ONLINE ROLE-PLAYING GAMES (MMORPGS) are a combination of role-playing video games and massively multiplayer online games in which a very large number of players interact with one another within a virtual world.

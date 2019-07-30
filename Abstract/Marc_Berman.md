@@ -1,1 +1,0 @@
-MARC BERMAN (born October 31, 1980) is an American politician serving in the California State Assembly. He is a Democrat representing the 24th Assembly District, encompassing parts of the San Francisco Peninsula and Silicon Valley. Prior to being elected to the Assembly, he was a member of the Palo Alto City Council. Berman is Jewish.[1]

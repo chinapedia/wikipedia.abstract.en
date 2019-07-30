@@ -1,1 +1,0 @@
-CÉDRIC MORGAN, pen name of Jean-Yves Quenouille (born 1943, Vannes (Morbihan) is a French writer. He has devoted himself to writing on the sidelines of a professional life in communication for global industrial groups (Rhône-Poulenc, Usinor, Pechiney). He lives today mainly in Brittany.

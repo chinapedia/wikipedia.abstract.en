@@ -1,1 +1,0 @@
-The EPISTLE TO THE ROMANS or LETTER TO THE ROMANS, often shortened to ROMANS, is the sixth book in the New Testament. Biblical scholars agree that it was composed by the Apostle Paul to explain that salvation is offered through the gospel of Jesus Christ. It is the longest of the Pauline epistles.[1]

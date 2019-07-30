@@ -1,1 +1,0 @@
-This is a LIST OF COLLEGES IN THE UNITED KINGDOM OFFERING HIGHER EDUCATION COURSES. Many of the colleges below are "listed bodies" that are authorised to offer courses leading to a degree from a UK university or other body with degree-awarding powers.[1] Others may offer non-degree higher education courses such as Higher National Diplomas or Higher National Certificates.

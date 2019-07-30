@@ -1,1 +1,0 @@
-St_Peter's_Vicarage,_Vauxhall,_October_2014_01.jpg

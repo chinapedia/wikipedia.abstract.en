@@ -1,1 +1,0 @@
-MAUREEN KENNEDY SALAMAN (April 4, 1936 – August 17, 2006) was an American author, proponent of alternative medicine, and candidate of the Populist Party for Vice President of the United States in the 1984 election.

@@ -1,1 +1,0 @@
-ZLATNI DVORI (Golden Palace) is a Croatian telenovela produced by Nova TV. It is an original story, produced in 2016, and starring Katarina Baban, Matko Knešaurek as main protagonists, Petra Kraljev and Ivan Herceg co-star, while Ana Majhenić star as main antagonists. It is also broadcast in Bosnia-Herzegovina and Republic of Macedonia. First season airs from September 6, 2016.

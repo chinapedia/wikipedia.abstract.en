@@ -1,1 +1,0 @@
-_DUETS VANCOUVER 1989_ is a live album by American saxophonist and composer Anthony Braxton with pianist Marilyn Crispell recorded at the Vancouver Jazz Festival in 1989 and released on the Music & Arts label.[1][2]

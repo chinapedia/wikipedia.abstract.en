@@ -1,1 +1,0 @@
-IGOR IVANOV (Russian: ИГОРЬ ИВАНОВ, born 8 December 1976) of Russia served as Chairman[1] and an elected volunteer member of the Eurasia Regional Scout Committee of the World Organization of the Scout Movement (WOSM).[2]

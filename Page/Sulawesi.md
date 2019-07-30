@@ -23,7 +23,7 @@ The Selayar Islands make up a peninsula stretching southwards from Southwest Sul
 
 Geology
 
-Tangkoko_National_Park,_North_Sulawesi,_Indonesia.jpg is a volcano in North Sulawesi]]
+is a volcano in North Sulawesi]]
 
 The island slopes up from the shores of the deep seas surrounding the island to a high, mostly non-volcanic, mountainous interior. Active volcanoes are found in the northern Minahassa Peninsula, stretching north to the Sangihe Islands. The northern peninsula contains several active volcanoes such as Mount Lokon, Mount Awu, Soputan and Karangetang.
 
@@ -36,18 +36,18 @@ Prehistory
 
 Before October 2014, the settlement of South Sulawesi by modern humans had been dated to c. 30,000 BC on the basis of radiocarbon dates obtained from rock shelters in Maros.[6] No earlier evidence of human occupation had at that point been found, but the island almost certainly formed part of the land bridge used for the settlement of Australia and New Guinea by at least 40,000 BCE.[7] There is no evidence of _Homo erectus_ having reached Sulawesi; crude stone tools first discovered in 1947 on the right bank of the Walennae River at Berru, Indonesia, which were thought to date to the Pleistocene on the basis of their association with vertebrate fossils,[8] are now thought to date to perhaps 50,000 BC.[9]
 
-COLLECTIE_TROPENMUSEUM_Paalwoning_Sulawesi_TMnr_10021564.jpg Following Peter Bellwood's model of a southward migration of Austronesian-speaking farmers (AN),[10] radiocarbon dates from caves in Maros suggest a date in the mid-second millennium BC for the arrival of a group from east Borneo speaking a Proto-South Sulawesi language (PSS). Initial settlement was probably around the mouth of the Sa'dan river, on the northwest coast of the peninsula, although the south coast has also been suggested.[11]
+Following Peter Bellwood's model of a southward migration of Austronesian-speaking farmers (AN),[10] radiocarbon dates from caves in Maros suggest a date in the mid-second millennium BC for the arrival of a group from east Borneo speaking a Proto-South Sulawesi language (PSS). Initial settlement was probably around the mouth of the Sa'dan river, on the northwest coast of the peninsula, although the south coast has also been suggested.[11]
 
 Subsequent migrations across the mountainous landscape resulted in the geographical isolation of PSS speakers and the evolution of their languages into the eight families of the South Sulawesi language group.[12] If each group can be said to have a homeland, that of the Bugis – today the most numerous group – was around lakes Témpé and Sidénréng in the Walennaé depression. Here for some 2,000 years lived the linguistic group that would become the modern Bugis; the archaic name of this group (which is preserved in other local languages) was Ugiq. Despite the fact that today they are closely linked with the Makasar, the closest linguistic neighbours of the Bugis are the Toraja.
 
 Pre-1200 Bugis society was most likely organised into chiefdoms. Some anthropologists have speculated these chiefdoms would have warred and, in times of peace, exchanged women with each other. Further, they have speculated that personal security would have been negligible and head-hunting an established cultural practice. The political economy would have been a mixture of hunting and gathering and swidden or shifting agriculture. Speculative planting of wet rice may have taken place along the margins of the lakes and rivers.
 
-Tokalalaea_Megalith_2007.jpg stone in Central Sulawesi]] In Central Sulawesi, there are over 400 granite megaliths, which various archaeological studies have dated to be from 3000 BC to AD 1300. They vary in size from a few centimetres to around . The original purpose of the megaliths is unknown. About 30 of the megaliths represent human forms. Other megaliths are in form of large pots (_Kalamba_) and stone plates (_Tutu'na_).[13][14] Hands_in_Pettakere_Cave.jpg in Pettakere Cave in Maros]] In October 2014 it was announced that cave paintings in Maros had been dated as being about 40,000 years old. Dr Maxime Aubert, of Griffith University in Queensland, Australia, said that the minimum age for the outline of a hand was 39,900 years old, which made it "the oldest hand stencil in the world" and added, "Next to it is a pig that has a minimum age of 35,400 years old, and this is one of the oldest figurative depictions in the world, if not the oldest one."[15]
+stone in Central Sulawesi]] In Central Sulawesi, there are over 400 granite megaliths, which various archaeological studies have dated to be from 3000 BC to AD 1300. They vary in size from a few centimetres to around . The original purpose of the megaliths is unknown. About 30 of the megaliths represent human forms. Other megaliths are in form of large pots (_Kalamba_) and stone plates (_Tutu'na_).[13][14] in Pettakere Cave in Maros]] In October 2014 it was announced that cave paintings in Maros had been dated as being about 40,000 years old. Dr Maxime Aubert, of Griffith University in Queensland, Australia, said that the minimum age for the outline of a hand was 39,900 years old, which made it "the oldest hand stencil in the world" and added, "Next to it is a pig that has a minimum age of 35,400 years old, and this is one of the oldest figurative depictions in the world, if not the oldest one."[15]
 
 
 History
 
-COLLECTIE_TROPENMUSEUM_'Padjogé'_danseressen_te_Maros_Celebes_TMnr_10003470_Retouch.jpg' dancers in Maros, Sulawesi, in the 1870s]] COLLECTIE_TROPENMUSEUM_Lokaal_hoofd_van_de_eilanden_ten_zuiden_van_Celebes_TMnr_10001613.jpg Starting in the 13th century, access to prestige trade goods and to sources of iron started to alter long-standing cultural patterns and to permit ambitious individuals to build larger political units. It is not known why these two ingredients appeared together; one was perhaps the product of the other.
+' dancers in Maros, Sulawesi, in the 1870s]] Starting in the 13th century, access to prestige trade goods and to sources of iron started to alter long-standing cultural patterns and to permit ambitious individuals to build larger political units. It is not known why these two ingredients appeared together; one was perhaps the product of the other.
 
 In 1367, several identified polities, located on the island, were mentioned in the Javanese manuscript Nagarakretagama dated from the Majapahit period. Canto 14 mentioned polities including Gowa, Makassar, Luwu and Banggai. It seems that by the 14th century, polities in the island were connected in an archipelagic maritime trading network, centered in the Majapahit port in East Java. By 1400, a number of nascent agricultural principalities had arisen in the western Cenrana valley, as well as on the south coast and on the west coast near modern Parepare.[16]
 
@@ -57,7 +57,7 @@ In 1905 the entire island became part of the Dutch state colony of the Netherlan
 
 Central Sulawesi
 
-Lemo_burial_site.jpg burial site. _Tau-tau_, the statue representing the buried people, can be seen in niches on the cliff.]]
+burial site. _Tau-tau_, the statue representing the buried people, can be seen in niches on the cliff.]]
 
 The Portuguese were rumoured to have a fort in Parigi in 1555.[22] The Kaili were an important group based in the Palu valley and related to the Toraja. Scholars relate that their control swayed under Ternate and Makassar, but this might have been a decision by the Dutch to give their vassals a chance to govern a difficult group. Padbruge commented that in the 1700s Kaili numbers were significant and a highly militant society. In the 1850s a war erupted between the Kaili groups, including the Banawa, in which the Dutch decided to intervene. A complex conflict also involving the Sulu Island pirates and probably Wyndham (a British merchant who commented on being involved in arms dealing to the area in this period and causing a row).
 
@@ -131,11 +131,11 @@ The island is subdivided into six provinces: Gorontalo, West Sulawesi, South Sul
 
 Flora and fauna
 
-Rainbow_Eucalyptus_Maui.jpg'']] Sulawesi is part of Wallacea, meaning that it has a mix of both Indomalayan and Australasian species that reached the island by crossing deep-water oceanic barriers.[27][28] The flora includes one native eucalypt, _E. deglupta_. There are 8 national parks on the island, of which 4 are mostly marine. The parks with the largest terrestrial area are Bogani Nani Wartabone with 2,871 km² and Lore Lindu National Park with 2,290 km². Bunaken National Park which protects a rich coral ecosystem has been proposed as an UNESCO World Heritage Site.
+'']] Sulawesi is part of Wallacea, meaning that it has a mix of both Indomalayan and Australasian species that reached the island by crossing deep-water oceanic barriers.[27][28] The flora includes one native eucalypt, _E. deglupta_. There are 8 national parks on the island, of which 4 are mostly marine. The parks with the largest terrestrial area are Bogani Nani Wartabone with 2,871 km² and Lore Lindu National Park with 2,290 km². Bunaken National Park which protects a rich coral ecosystem has been proposed as an UNESCO World Heritage Site.
 
 Mammals
 
-Early in the Pleistocene, Sulawesi had a dwarf elephant and a dwarf form of _Stegodon_, (an elephant relative, _S. sompoensis_);[29] later both were replaced by larger forms.[30][31] A giant suid, _Celebochoerus_, was also formerly present.[32] It is thought that many of the migrants to Sulawesi arrived via the Philippines, while Sulawesi in turn served as a way station for migrants to Flores.[33] A Pleistocene faunal turnover is recognised, with the competitive displacement of several indigenous tarsiers by more recently arriving ones and by _Celebochoerus_ by other medium-sized herbivores like the babirusa, anoa and Celebes warty pig.[34] Hirscheber1a.jpg is endemic to Sulawesi.]]
+Early in the Pleistocene, Sulawesi had a dwarf elephant and a dwarf form of _Stegodon_, (an elephant relative, _S. sompoensis_);[29] later both were replaced by larger forms.[30][31] A giant suid, _Celebochoerus_, was also formerly present.[32] It is thought that many of the migrants to Sulawesi arrived via the Philippines, while Sulawesi in turn served as a way station for migrants to Flores.[33] A Pleistocene faunal turnover is recognised, with the competitive displacement of several indigenous tarsiers by more recently arriving ones and by _Celebochoerus_ by other medium-sized herbivores like the babirusa, anoa and Celebes warty pig.[34] is endemic to Sulawesi.]]
 
 There are 127 known extant native mammalian species in Sulawesi. A large percentage, 62% (79 species) are endemic, meaning that they are found nowhere else in the world. The largest of these are the two species of anoa or dwarf buffalo. Other artiodactyl species inhabiting Sulawesi are the warty pig and the babirusas, which are aberrant pigs. The only native carnivoran is the Sulawesi palm civet[35] (Asian palm and Malayan civets have been introduced[36]). Primates present include a number of tarsiers (_T. fuscus_, Dian's, Gursky's, Jatna's, Wallace's, the Lariang and pygmy tarsiers) as well as macaques (Heck's, the booted, crested black, Gorontalo, moor, and Tonkean macaques). While most of Sulawesi's mammals are placental and have Asian relatives, several species of cuscus, arboreal marsupials of Australasian origin, are also present (_Ailurops ursinus_ and _Strigocuscus celebensis_).
 
@@ -147,7 +147,7 @@ Several endemic shrews, the Sulawesi shrew, Sulawesi tiny shrew and the Sulawesi
 
 Birds
 
-Trichoglossus_ornatus_-Nahsville_Zoo-8a-4c.jpg ]] By contrast, Sulawesian bird species tend to be found on other nearby islands as well, such as Borneo; 31% of Sulawesi's birds are found nowhere else. One true endemic is the fiery-browed starling. Another endemic bird (also found on small neighboring islands) is the largely ground-dwelling, chicken-sized maleo, a megapode which uses hot sand close to the island's volcanic vents to incubate its eggs. Others include the flightless snoring rail, the Sulawesi masked owl, the Sulawesi myna and the grosbeak starling. There are around 350 known bird species in Sulawesi. An international partnership of conservationists, donors, and local people have formed the Alliance for Tompotika Conservation,[37] in an effort to raise awareness and protect the nesting grounds of these birds on the central-eastern arm of the island.
+]] By contrast, Sulawesian bird species tend to be found on other nearby islands as well, such as Borneo; 31% of Sulawesi's birds are found nowhere else. One true endemic is the fiery-browed starling. Another endemic bird (also found on small neighboring islands) is the largely ground-dwelling, chicken-sized maleo, a megapode which uses hot sand close to the island's volcanic vents to incubate its eggs. Others include the flightless snoring rail, the Sulawesi masked owl, the Sulawesi myna and the grosbeak starling. There are around 350 known bird species in Sulawesi. An international partnership of conservationists, donors, and local people have formed the Alliance for Tompotika Conservation,[37] in an effort to raise awareness and protect the nesting grounds of these birds on the central-eastern arm of the island.
 
 Reptiles
 
@@ -159,13 +159,13 @@ The amphibians of Sulawesi include the endemic frogs _Hylarana celebensis_, _H. 
 
 Freshwater fish
 
-Nomorhamphus_liemi_liemi_(Wroclaw_zoo)-2.JPGs are endemic to Sulawesi, including 12 _Nomorhamphus_ (depicted), _Dermogenys orientalis_, _D. vogti_, and _Tondanichthys kottelati_.[44][45][46]]]
+s are endemic to Sulawesi, including 12 _Nomorhamphus_ (depicted), _Dermogenys orientalis_, _D. vogti_, and _Tondanichthys kottelati_.[44][45][46]]]
 
 Sulawesi is home to more than 70 freshwater fish species,[47] including more than 55 endemics.[48] Among these are the genus _Nomorhamphus_, a species flock of viviparous halfbeaks containing 12 species that only are found on Sulawesi (others are from the Philippines).[49][50] In addition to _Nomorhamphus_, the majority of Sulawesi's freshwater fish species are ricefishes, gobies (_Glossogobius_ and _Mugilogobius_) and Telmatherinid sail-fin silversides.[51] The last family is almost entirely restricted to Sulawesi, especially the Malili Lake system, consisting of Matano and Towuti, and the small Lontoa (Wawantoa), Mahalona and Masapi.[52] Another unusual endemic is _Lagusia micracanthus_ from rivers in South Sulawesi, which is the sole member of its genus and among the smallest grunters.[53] The gudgeon _Bostrychus microphthalmus_ from the Maros Karst is the only described species of cave-adapted fish from Sulawesi,[54] but an apparently undescribed species from the same region and genus also exists.[55]
 
 Freshwater crustaceans and snails
 
-Orange_delight_shrimp_sulawesi.jpg'') from Sulawesi.]] Many species of _Caridina_ freshwater shrimp and parathelphusid freshwater crabs (_Migmathelphusa_, _Nautilothelphusa_, _Parathelphusa_, _Sundathelphusa_ and _Syntripsa_) are endemic to Sulawesi.[56][57] Several of these species have become very popular in the aquarium hobby, and since most are restricted to a single lake system, they are potentially vulnerable to habitat loss and overexploitation.[58][59] There are also several endemic cave-adapted shrimp and crabs, especially in the Maros Karst. This includes _Cancrocaeca xenomorpha_, which has been called the "most highly cave-adapted species of crab known in the world".[60]
+'') from Sulawesi.]] Many species of _Caridina_ freshwater shrimp and parathelphusid freshwater crabs (_Migmathelphusa_, _Nautilothelphusa_, _Parathelphusa_, _Sundathelphusa_ and _Syntripsa_) are endemic to Sulawesi.[56][57] Several of these species have become very popular in the aquarium hobby, and since most are restricted to a single lake system, they are potentially vulnerable to habitat loss and overexploitation.[58][59] There are also several endemic cave-adapted shrimp and crabs, especially in the Maros Karst. This includes _Cancrocaeca xenomorpha_, which has been called the "most highly cave-adapted species of crab known in the world".[60]
 
 The genus _Tylomelania_ of freshwater snails is also endemic to Sulawesi, with the majority of the species restricted to Lake Poso and the Malili Lake system.[61]
 
@@ -184,7 +184,7 @@ The islands of Pepaya, Mas and Raja islands, located in Sumalata Village - North
 
 Environment
 
-Bunaken01.JPG Island seen from Manado Tua island.]] The largest environmental issue in Sulawesi is deforestation. In 2007, scientists found that 80 percent of Sulawesi's forest had been lost or degraded, especially centered in the lowlands and the mangroves.[66] Forests have been felled for logging and large agricultural projects. Loss of forest has resulted in many of Sulawesi's endemic species becoming endangered. In addition, 99 percent of Sulawesi's wetlands have been lost or damaged.
+Island seen from Manado Tua island.]] The largest environmental issue in Sulawesi is deforestation. In 2007, scientists found that 80 percent of Sulawesi's forest had been lost or degraded, especially centered in the lowlands and the mangroves.[66] Forests have been felled for logging and large agricultural projects. Loss of forest has resulted in many of Sulawesi's endemic species becoming endangered. In addition, 99 percent of Sulawesi's wetlands have been lost or damaged.
 
 Other environmental threats included bushmeat hunting and mining.[67]
 

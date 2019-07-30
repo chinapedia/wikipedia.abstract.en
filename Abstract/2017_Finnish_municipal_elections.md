@@ -1,1 +1,0 @@
-MUNICIPAL ELECTIONS were held in Finland on 9 April 2017 with advance voting between 29 March and 4 April.[1] The councils in 295 municipalities in Finland (excluding Åland) were elected.[2] Several municipalities altered the size of their councils before the elections which resulted in reduction of seats available from 9,674 to 8,999.[3]

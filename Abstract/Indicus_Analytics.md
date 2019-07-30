@@ -1,1 +1,0 @@
-INDICUS ANALYTICS is an economics research firm based in New Delhi. The company offers research services and data products. Indicus’ clientele includes both national & international corporations (including consulting firms), educational institutions and government organizations.

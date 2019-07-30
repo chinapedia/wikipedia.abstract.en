@@ -1,1 +1,0 @@
-_SIN TITULO_ is a mystery webcomic by Cameron Stewart, following the supernatural experiences of protagonist Alex Mackay. Launched in 2007, the webcomic completed its run in 2012 and got a Dark Horse Comics print publication in 2013. _Sin Titulo_ won a Joe Shuster Award in 2009 and an Eisner Award in 2010.

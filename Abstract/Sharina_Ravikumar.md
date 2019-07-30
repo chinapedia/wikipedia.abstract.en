@@ -1,1 +1,0 @@
-SHARINA RAVIKUMAR (born 31 March 1992) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against England on 17 November 2010.[2]

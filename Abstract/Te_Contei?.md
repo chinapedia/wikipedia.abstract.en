@@ -1,1 +1,0 @@
-_TE CONTEI?_ is a Brazilian telenovela produced and broadcast by Rede Globo. It premiered on 6 March 1978 and ended on 1 September 1978, with a total of 155 episodes. It's the twenty first "novela das sete" to be aired at the timeslot. It is created by Cassiano Gabus Mendes and directed by Régis Cardoso with Dennis Carvalho.[1]

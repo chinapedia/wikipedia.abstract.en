@@ -1,1 +1,0 @@
-JAMES GEORGE WILLIAM HARROLD (26 March 1892 – 1950) was an English amateur football centre half who made more than 200 appearances in the Football League for Leicester City.[1][2] He won two England Amateur caps.[3] He also played cricket and made 11 first-class appearances for Essex between 1923 and 1928.[4]

@@ -1,1 +1,0 @@
-Puliga-Busso-Luragho-Chiti.jpg, Giuseppe Busso, GIUSEPPE LURAGHI and Carlo Chiti.]] GIUISEPPE LURAGHI (12 June 1905 – 11 December 1991) was an Italian lyricist and engineer, working for Alfa Romeo where he also was president.[1]

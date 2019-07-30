@@ -1,1 +1,0 @@
-The FRISCH HOUSE (Danish: Frischs Hus) is a Neoclassical property overlooking the square Nytorv (No. 5) in the Old Town of in Copenhagen, Denmark. The building was designed by the artist Nicolai Abildgaard although it has later been expanded with an extra floor. A room on the first floor feature four Abildgaard paintings with scenes from Voltaire's _Le Triumvirat_.

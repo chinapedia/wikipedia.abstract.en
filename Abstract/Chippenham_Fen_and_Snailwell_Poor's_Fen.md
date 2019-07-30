@@ -1,1 +1,0 @@
-CHIPPENHAM FEN AND SNAILWELL POOR'S FEN is a 155.9 hectare biological Site of Special Scientific Interest south-east of Fordham in Cambridgeshire.[1][2] It is a Nature Conservation Review site, Grade I,[3] a Ramsar wetland site[4] and a Special Area of Conservation (part of the multi-site Fenland SAC).[5] It is managed by Natural England.[6]

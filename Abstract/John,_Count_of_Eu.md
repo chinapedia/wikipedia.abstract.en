@@ -1,1 +1,0 @@
-JOHN, COUNT OF EU, (died 26 June 1170), son of Henry I, Count of Eu, and Marguerite, daughter of William, Count of Sully, who was brother of Stephen, King of England. John was Count of Eu and Lord of Hastings.

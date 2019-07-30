@@ -1,1 +1,0 @@
-"RIVER" is a song by New Zealand-Australian rock band Dragon, released in May 1988. It was released as a non-album single but later appeared on Dragon's compilation album, _Snake Eyes on the Paradise Greatest Hits 1976–1989_. The song peaked at number 78 on the Australian Kent Music Report.[1]

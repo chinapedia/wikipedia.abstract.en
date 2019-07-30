@@ -1,1 +1,0 @@
-THE MAIN MILITARY MEDICAL DIRECTORATE, also known as _Main Agency for Military Medicine_ () is the specialist corps in the Russian Ministry of defense and Russia's Armed Forces which provides medical services to all Army personnel and their families, in war and in peace.

@@ -1,1 +1,0 @@
-GALEON is a discontinued Gecko-based web browser that was created by Marco Pesenti Gritti with the goal of delivering a consistent browsing experience to GNOME desktop environment. It gained some popularity in the early 2000s due to its speed, flexibility in configuration and features.

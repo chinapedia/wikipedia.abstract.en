@@ -1,1 +1,0 @@
-The INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE (IPCC) is an intergovernmental body of the United Nations,[1][2] dedicated to providing the world with an objective, scientific view of climate change, its natural, political and economic impacts and risks, and possible response options.[3]

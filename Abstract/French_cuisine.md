@@ -1,1 +1,0 @@
-Jacques_Lameloise,_escabèche_d'écrevisses_sur_gaspacho_d'asperge_et_cresson.jpg presentation]] Cuisine_Trois_étoiles.jpg presentation]] French_taste_of_wines.JPGs are usually made to accompany French cuisine.]]

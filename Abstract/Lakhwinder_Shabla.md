@@ -1,1 +1,0 @@
-LAKHWINDER SHABLA is an Indian German actor, theatre artist, film producer, writer, director and entrepreneur of Indian descent based in Munich, Germany. Lakhwinder is primarily known for his work in international cinema.

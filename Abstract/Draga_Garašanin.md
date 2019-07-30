@@ -1,1 +1,0 @@
-DRAGA GARAŠANIN ( 1921–1997) was a Serbian archaeologist who studied the Copper and Bronze Age of eastern Europe. She became one of the leading prehistorians of Yugoslavia, later Serbia, after World War II and with her husband produced the first map of archaeological sites in Serbia.

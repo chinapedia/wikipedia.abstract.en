@@ -1,1 +1,0 @@
-ARCHVIEW INVESTMENT GROUP LP is an institutional alternative investment firm based out of Stamford, Connecticut. The firm was founded in 2009 by Founding Principals Jeffrey Jacob and John Humphrey.[1]

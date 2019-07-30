@@ -1,1 +1,0 @@
-The 2016–17 REGIONAL FOUR DAY COMPETITION was the 51st edition of the Regional Four Day Competition, the domestic first-class cricket competition for the countries of the West Indies Cricket Board (WICB). The competition ran from 11 November 2016 to 24 April 2017. The WCIB re-introduced day/night fixtures into the competition with six matches played as such.[1]

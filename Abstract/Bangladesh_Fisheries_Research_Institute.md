@@ -1,1 +1,0 @@
-BANGLADESH FISHERIES RESEARCH INSTITUTE is an autonomous government research institution for fisheries and related research.[1][2][3] The present Director General of the institution is Yahia Mahmud.[4]

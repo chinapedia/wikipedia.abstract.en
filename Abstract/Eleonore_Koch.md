@@ -1,1 +1,0 @@
-ELEONORE KOCH, also known as LORE KOCH (April 2, 1926 – August 1, 2018), was a German-born Brazilian painter and sculptor. She was best known for paintings that evoke the memory of everyday objects, while also exploring the sensory nature of painting through a tension between color planes and line.[1]

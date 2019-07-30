@@ -1,1 +1,0 @@
-IATAN_logo.jpg The INTERNATIONAL AIRLINES TRAVEL AGENT NETWORK (IATAN) is an industry association in the USA designed to represent the interests of its member companies (airlines) and the U.S. travel distribution network (travel agencies).[1] It is an independent department of the International Air Transport Association (IATA).[2]

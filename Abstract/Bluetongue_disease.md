@@ -1,1 +1,0 @@
-BLUETONGUE DISEASE is a noncontagious, insect-borne, viral disease of ruminants, mainly sheep and less frequently cattle,[1] goats, buffalo, deer, dromedaries, and antelope. It is caused by _BLUETONGUE VIRUS_ (BTV). The virus is transmitted by the midges _Culicoides imicola_, _Culicoides variipennis_, and other culicoids.

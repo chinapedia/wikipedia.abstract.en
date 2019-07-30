@@ -1,1 +1,0 @@
-HENRY A. DIETZ is an American professor and author, currently the Professor Emeritus and University Distinguished Teaching Professor of Government at University of Texas at Austin, and is largely collected by libraries worldwide.[1][2] He was also added as a member to the Academy of Distinguished Teachers at University of Texas at Austin.[3]

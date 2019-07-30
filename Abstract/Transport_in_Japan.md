@@ -1,1 +1,0 @@
-JRE-TEC-E5_omiya.JPG

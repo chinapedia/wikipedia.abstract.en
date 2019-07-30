@@ -1,1 +1,0 @@
-SIR HILDEBRAND ALFRED BERESFORD HARMSWORTH, 2ND BARONET (27 May 1901 – 15 November 1977), known as "SUNNY" HARMSWORTH, was a member of the Harmsworth newspaper publishing family but took no part in the family business.

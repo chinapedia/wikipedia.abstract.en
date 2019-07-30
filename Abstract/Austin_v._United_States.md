@@ -1,1 +1,0 @@
-_AUSTIN V. UNITED STATES_, 509 U.S. 602 (1993), was a case in which the Supreme Court of the United States held that the Eighth Amendment to the United States Constitution applies to civil forfeiture cases.[1]

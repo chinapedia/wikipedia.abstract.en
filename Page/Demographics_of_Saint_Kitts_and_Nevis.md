@@ -3,7 +3,7 @@ This article is about the DEMOGRAPHICS OF THE POPULATION OF SAINT KITTS AND NEVI
 
 Population
 
-Saint_Kitts_and_Nevis_demo.png, year 2005 ; Number of inhabitants in thousands.]] According to the 2001 census the combined population of Saint Kitts and Nevis was 46,325 in 2001 (compared to 40,613 in 1991), of which 35,217 were in Saint Kitts and 11,108 in Nevis.[1] The population of St Kitts and Nevis in 2011 was 46,398[2]. The estimated population of is ().
+, year 2005 ; Number of inhabitants in thousands.]] According to the 2001 census the combined population of Saint Kitts and Nevis was 46,325 in 2001 (compared to 40,613 in 1991), of which 35,217 were in Saint Kitts and 11,108 in Nevis.[1] The population of St Kitts and Nevis in 2011 was 46,398[2]. The estimated population of is ().
 
 
 Vital statistics

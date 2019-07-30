@@ -1,1 +1,0 @@
-The WOMEN'S 5000M athletics event for the 2016 Summer Paralympics took place at the Estádio Olímpico João Havelange from September 14 to September 15, 2016. A single event was contested over this distance for the T54 classifications.

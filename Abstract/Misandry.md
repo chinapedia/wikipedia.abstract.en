@@ -1,1 +1,0 @@
-MISANDRY () is the hatred of, contempt for, or prejudice against men or boys.[1][2][3] "Misandrous" or "misandrist" can be used as adjectival forms of the word.[4] Misandry manifests itself in numerous ways, including sexual discrimination, denigration of men, violence against men, and sexual objectification of men.[5]

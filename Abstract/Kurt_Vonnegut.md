@@ -1,1 +1,0 @@
-KURT VONNEGUT JR. (;[1] November 11, 1922April 11, 2007) was an American writer. In a career spanning over 50 years, Vonnegut published 14 novels, three short story collections, five plays, and five works of non-fiction, with further collections being published after his death. He is most famous for his darkly satirical, best-selling novel _Slaughterhouse-Five_ (1969).

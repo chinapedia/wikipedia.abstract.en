@@ -1,1 +1,0 @@
-LUCINDA BASSETT (born February 28, 1956) is an American self-help author and motivational speaker.[1][2][3] Her book _From Panic to Power: Proven Techniques to Calm Your Anxieties, Conquer Your Fears, and Put You in Control of Your Life_ is an international bestseller and has been translated into several languages.[4]

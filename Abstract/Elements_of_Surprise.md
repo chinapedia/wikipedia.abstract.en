@@ -1,1 +1,0 @@
-_ELEMENTS OF SURPRISE_ is a live album by saxophonist Anthony Braxton and trombonist George Lewis recorded at the Moers Festival in Germany in 1976 and originally released on the Moers Music label.[1][2]

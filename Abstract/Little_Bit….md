@@ -1,1 +1,0 @@
-_LITTLE BIT…_ is the thirds studio album[1] by Japanese rock band Wands.[2] The album includes 2 previously released singles, Koiseyo Otome and Ai wo Kataru yori Kuchizuke wo Kawasou. The album was released on October 6, 1993 under B-Gram Records label. It reached #2 on the Oricon chart for first week with 483,350 sold copies. It charted for 20 weeks and sold 951,660 copies.[3]

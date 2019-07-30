@@ -1,1 +1,0 @@
-FOOTBALL CLUB INTERNAZIONALE MILANO, commonly referred to as INTERNAZIONALE () or simply INTER and colloquially known as INTER MILAN outside Italy,[1][2] is an Italian professional football club based in Milan, Lombardy. Inter is the only Italian club to have never been relegated from the top flight.

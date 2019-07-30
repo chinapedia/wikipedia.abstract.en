@@ -1,1 +1,0 @@
-_CAMPANULA BRAVENSIS_ is a species of flowering plants of the Campanulaceae family. The species is endemic to Cape Verde.[1] The specific name _bravensis_ refers to the island of Brava. The species was described by Carl August Bolle, and named by Auguste Chevalier in 1935. Its local name is _contra-bruxas-branca_ ("white against witches").[2]

@@ -1,1 +1,0 @@
-WILLIAM WHALEY HALL (September 6, 1941 – March 7, 2015) was an American football offensive tackle in the National Football League (NFL) for the Dallas Cowboys. He also was a member of the Philadelphia Bulldogs in the Continental Football League. He played college football at the University of Mississippi.

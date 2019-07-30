@@ -1,1 +1,0 @@
-ISAIAH FIREBRACE (born 21 November 1999) is an Australian singer who won the eighth season of _The X Factor Australia_ in 2016.[1] He then represented Australia in the Eurovision Song Contest 2017 with the song "Don't Come Easy", where he finished 9th.[2]

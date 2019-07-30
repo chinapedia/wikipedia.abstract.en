@@ -1,1 +1,0 @@
-BRAEDON DEAN BOWMAN (born January 30, 1994) is an American football tight end who is a free agent. He played college football at South Alabama and was signed by the Jacksonville Jaguars as an undrafted free agent in 2016.

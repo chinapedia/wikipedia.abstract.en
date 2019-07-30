@@ -1,1 +1,0 @@
-Tatiana Perebiynis and Silvija Talaja were the defending champions, but Perebiynis did not compete this year. Talaja teamed up with Stéphanie Cohen-Aloro and lost in semifinals to tournament winners Nuria Llagostera Vives and Marta Marrero.

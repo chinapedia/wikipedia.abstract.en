@@ -1,1 +1,0 @@
-Johann_Christian_Friedrich_Steudel.jpg JOHANN CHRISTIAN FRIEDRICH STEUDEL (25 October 1779, in Esslingen am Neckar – 24 October 1837, in Tübingen) was a German Lutheran theologian. He was a brother of botanist Ernst Gottlieb von Steudel (1783–1856).

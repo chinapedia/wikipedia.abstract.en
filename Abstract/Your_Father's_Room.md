@@ -1,1 +1,0 @@
-_YOUR FATHER'S ROOM_ () is a 2004 novel by the French writer Michel Déon. It is set in Paris and Monaco in the 1920s and follows a young boy, Édouard, called Teddy. The book is a fictionalised autobiography based on Déon's childhood.[1]

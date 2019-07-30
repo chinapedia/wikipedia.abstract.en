@@ -1,1 +1,0 @@
-The GOVERNMENT OF BARBADOS (GoB), is symbolically headed by the monarch, Queen Elizabeth II as Head of State.[1] She is represented in the country by the Governor-General, currently Dame Sandra Mason, G.C.M.G., K.A.[2]

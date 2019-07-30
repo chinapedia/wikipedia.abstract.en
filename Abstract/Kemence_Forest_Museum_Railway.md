@@ -1,1 +1,0 @@
-The KEMENCE FOREST MUSEUM RAILWAY (Hungarian: _Kemencei Erdei Múzeumvasút_) is a narrow gauge railway in northern Hungary.[1][2] It is operated by volunteers during weekends between late March and late October.[3]

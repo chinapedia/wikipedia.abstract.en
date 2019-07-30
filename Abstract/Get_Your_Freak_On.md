@@ -1,1 +1,0 @@
-_GET YOUR FREAK ON_ is a live album released in 1995 by the Washington, D.C.-based go-go band Rare Essence. The album was recorded live at the Rhythms Nightclub in Landover, Maryland on November 25, 1994.

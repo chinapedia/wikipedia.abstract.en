@@ -1,1 +1,0 @@
-_THE EXORCIST_ is a play by John Pielmeier based on the novel of the same name by William Peter Blatty, and is part of _The Exorcist_ franchise. The story centres around a young girl, Regan, who has been subject to demonic possession. Her mother, Chris, seeks out to the church to perform an exorcism.

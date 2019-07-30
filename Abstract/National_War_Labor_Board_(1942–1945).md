@@ -1,1 +1,0 @@
-The NATIONAL WAR LABOR BOARD, commonly the WAR LABOR BOARD (NWLB or WLB) was an agency of the United States government established January 12, 1942 by executive order to mediate labor disputes during World War II.

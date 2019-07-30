@@ -1,1 +1,0 @@
-ST. LUKE'S COLLEGE OF MEDICINE - WILLIAM H. QUASHA MEMORIAL (SLCM-WHQM) is a tertiary medical school in Quezon City, Philippines. It is situated behind the St. Luke's Medical Center, the base hospital of the college.[1]

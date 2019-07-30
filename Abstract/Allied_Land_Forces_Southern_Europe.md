@@ -1,1 +1,0 @@
-ALLIED LAND FORCES SOUTHERN EUROPE (LANDSOUTH) was a military command of NATO's Allied Forces Southern Europe (AFSOUTH) command. Based in Verona in Northern Italy LANDSOUTH was tasked with defending Italy north of the Apennine mountains against a Warsaw Pact or Yugoslavian invasion. Activated in 1951 under an Italian Army four-star general, the command was disbanded in 2004.

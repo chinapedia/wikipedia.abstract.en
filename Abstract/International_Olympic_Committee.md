@@ -1,1 +1,0 @@
-The INTERNATIONAL OLYMPIC COMMITTEE (IOC; French: _Comité international olympique_, CIO) is a non-governmental sports organisation based in Lausanne, Switzerland. Created by Pierre de Coubertin and Demetrios Vikelas in 1894, it is the authority responsible for organising the modern Summer and Winter Olympic Games.[1]

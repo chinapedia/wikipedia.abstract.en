@@ -1,1 +1,0 @@
-Slime_mold_inc._magnification.jpg slime mold, _Diachea leucopodia_. Berkeley, California.]] Slime_mold_stemonitis_fusca.jpg'' in Scotland.]] Fuligo_septica_bl1.JPG'', the "dog vomit" slime mold.]] Haeckel_Mycetozoa.jpg's 1904 _Kunstformen der Natur_ (_Artforms of Nature_)]]

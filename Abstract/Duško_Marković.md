@@ -1,1 +1,0 @@
-DUŠKO MARKOVIĆ (Montenegrin Cyrillic: Душко Марковић; born 6 July 1959) is a Montenegrin politician and the current Prime Minister of Montenegro, elected on 28 November 2016.[1] He is also Deputy president of ruling Democratic Party of Socialists.

@@ -1,1 +1,0 @@
-TREVOR A. DAWES is a Jamaican-born American librarian and educator. He is the vice provost for libraries and museums and May Morris University Librarian at the University of Delaware.[1] Dawes served as the 76th president of the Association of College and Research Libraries (ACRL).

@@ -1,1 +1,0 @@
-__NOTOC__ BUTLER is a locality in the Australian state of South Australia located on the Eyre Peninsula about west of the state capital of Adelaide and about north of the local government seat of Tumby Bay.[1]

@@ -1,1 +1,0 @@
-MARY LOU SONG is a Korean-American entrepreneur and was eBay's third employee. She joined the company, formerly AuctionWeb, in 1996 after being recruited by its founder Pierre Omidyar and Jeffrey Skoll.[1]

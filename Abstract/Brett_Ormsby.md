@@ -1,1 +1,0 @@
-'''Brett Ormsby '''(born 1 December 1982) is an American water polo player. He was a member of the United States Men's National Water Polo Team, playing as a driver. He was a part of the team at the 2004 Summer Olympics.[1] He played for the UCLA Bruins in United States.[2]

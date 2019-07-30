@@ -1,1 +1,0 @@
-SSB_bandform.svg

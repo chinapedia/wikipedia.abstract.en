@@ -1,1 +1,0 @@
-GEORGE STANYFORD FRANCIS "FRANK" COWCHER (30 December 1854 – 4 August 1925) was an Australian farmer and politician who was a member of the Legislative Assembly of Western Australia from 1904 to 1911, representing the seat of Williams.

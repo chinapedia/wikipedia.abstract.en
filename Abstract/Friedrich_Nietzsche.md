@@ -1,1 +1,0 @@
-border | caption = Nietzsche in Basel, 1875 | birth_name = | birth_date = | birth_place = Röcken, Landkreis Merseburg, Province of Saxony, Kingdom of Prussia, German Confederation | death_date = | death_place = Weimar, Grand Duchy of Saxe-Weimar-Eisenach, German Empire | alma_mater =

@@ -1,1 +1,0 @@
-ADVANCED POWER MANAGEMENT (APM) is an API developed by Intel and Microsoft and released in 1992[1] which enables an operating system running an IBM-compatible personal computer to work with the BIOS (part of the computer's firmware) to achieve power management.

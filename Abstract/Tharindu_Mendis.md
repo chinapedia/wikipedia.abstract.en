@@ -1,1 +1,0 @@
-THARINDU MENDIS (born 21 April 1981) is a former Sri Lankan cricketer and currently coaches the Colombo District club.[1] He has played in more than 100 first-class matches since 2000/01.[2] He is also the elder brother of Sri Lankan national cricketer, Jeevan Mendis.

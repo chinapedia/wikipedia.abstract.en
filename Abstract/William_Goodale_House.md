@@ -1,1 +1,0 @@
-The WILLIAM GOODALE HOUSE, also known as the UNIVERSITY OF WYOMING ALUMNI HOUSE, is a Tudor Revival style residence built in 1931 for William and Ethel Goodale in Laramie, Wyoming. The house was designed by Wyoming architects William DuBois and F.W. Ambrose.

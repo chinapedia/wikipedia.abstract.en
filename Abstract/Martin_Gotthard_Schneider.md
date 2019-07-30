@@ -1,1 +1,0 @@
-MARTIN GOTTHARD SCHNEIDER (26 April 1930 – 3 February 2017) was a German theologian, church musician, _Landeskantor_ (state cantor), songwriter and academic teacher. He is known for prize-winning songs of the genre _Neues Geistliches Lied_, such as "Danke" and "Ein Schiff, das sich Gemeinde nennt".

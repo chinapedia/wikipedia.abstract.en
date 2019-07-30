@@ -1,1 +1,0 @@
-TAIYUAN COAL GASIFICATION (GROUP) CO., LTD. is a Chinese state-owned coal mining conglomerate based in Taiyuan, Shanxi. The company was owned by State-owned Assets Supervision and Administration Commission (SASAC) of . However, Shanxi SASAC granted fellow state-owned enterprise Jincheng Anthracite Mining Group (JAMG) to manage their stake since 2011.[1]

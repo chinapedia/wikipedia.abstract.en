@@ -1,1 +1,0 @@
-_DINOSAURS_ is an anthology of science fiction short works edited by Martin H. Greenberg. It was first published in hardcover by Donald I. Fine in February 1996, with a second edition issued by Niagara/Ulverscroft in October of the same year.[1]

@@ -1,1 +1,0 @@
-CYRUS ATABAY (1929–1996) was a Persian-German poet. He mostly wrote in German and also translated works of Persian literature into German. Atabay was decorated on numerous occasions for his literary efforts, including the Adelbert von Chamisso Prize in 1990 and the Hugo-Jacobi-Preis in 1957.

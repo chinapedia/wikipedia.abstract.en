@@ -1,1 +1,0 @@
-"L'ANGELO AZZURRO" is a 1977 song composed by Umberto Balsamo (music) and Cristiano Malgioglio (lyrics) and performed by Umberto Balsamo. The Balsamo's major hit, it topped the Italian hit parade, selling over a million of copies.[1][2]

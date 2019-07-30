@@ -1,1 +1,0 @@
-In the CHICAGO MAYORAL ELECTION OF 1977, interim mayor Michael A. Bilandic was elected to complete the remainder of an unexpired mayoral term, defeating Republican Dennis H. Bloc by a landslide 56% margin.[1]

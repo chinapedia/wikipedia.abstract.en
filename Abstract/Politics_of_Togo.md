@@ -1,1 +1,0 @@
-POLITICS OF TOGO takes place in a framework of a presidential republic, whereby the President of Togo is both head of state and head of government. Executive power is exercised by the government. Legislative power is vested in both the government and parliament. Since independence the party system is dominated by the authoritarian Rally for the Togolese People.

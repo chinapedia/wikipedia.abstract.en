@@ -1,1 +1,0 @@
-YINIKUTIRA, also recorded as the JINIGUDIRA, were an indigenous Australian people who once lived along the Ningaloo Coast in the area of the Exmouth Peninsula now known as the Cape Range National Park.

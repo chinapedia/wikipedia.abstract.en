@@ -1,1 +1,0 @@
-POPE SERGIUS I (8 September 701) was Bishop of Rome from December 15, 687, to his death in 701.[1] He was elected at a time when two rivals, the Archdeacon Paschal and the Archpriest Theodore, were locked in dispute about which of them should become pope.

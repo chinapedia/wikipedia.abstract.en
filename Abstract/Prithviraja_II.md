@@ -1,1 +1,0 @@
-PRITHVIRĀJA II (r. c. 1165-1169 CE ) was an Indian king from the Chahamana dynasty. He ruled parts of north-western India, including present-day Rajasthan. He is also known by other names, including Prithvi-bhatta, Prithvi-deva and Pethad-deva.

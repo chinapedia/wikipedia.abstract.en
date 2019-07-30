@@ -1,1 +1,0 @@
-LOIS ELAINE QUAM (born 1961) is an American executive who has worked in the public and the private sectors to expand access to health care.[1] She was named three times to FORTUNE's list of the most influential women leaders in business,[2] She has also served as a top leader at a major nonprofit organization dedicated to preserving the environment.

@@ -1,4 +1,4 @@
-Riders_of_the_Sidhe.jpg]]
+]]
 
 The __ (; older form ) is the Irish term for a supernatural race in Irish mythology and Scottish mythology (where it is usually spelled Sìth, but pronounced the same), comparable to the fairies or elves. They are said to live underground in fairy mounds, across the western sea, or in an invisible world that coexists with the world of humans. This world is described in the _Lebor Gabála Érenn_ as a parallel universe in which the _aos sí_ walk amongst the living. In the Irish language, _aos sí_ means "people of the mounds" (the mounds are known in Irish as "the _sídhe_{{-"}}). In modern Irish the people of the mounds are also called _DAOINE SÍDHE_ ; in Scottish mythology they are _DAOINE SÌTH_.[1] They are variously said to be the ancestors, the spirits of nature, or goddesses and gods.[2]
 
@@ -61,7 +61,7 @@ List
 
 _Creideamh Sí_
 
-Common_hawthorn.jpg tree, considered in local Irish lore, and Celtic folklore in general, to be sacred to the _Aos Sí_]] __ is Irish for the "Fairy Faith", a collection of beliefs and practices observed by those who wish to keep good relationships with the __ and avoid angering them.[10] The custom of offering milk and traditional foods—such as baked goods, apples or berries—to the __ have survived through the Christian era into the present day in parts of Ireland, Scotland and the diaspora.[11] Those who maintain some degree of belief in the __ also are aware to leave their sacred places alone and protect them from damage through road or housing construction.[12][13]
+tree, considered in local Irish lore, and Celtic folklore in general, to be sacred to the _Aos Sí_]] __ is Irish for the "Fairy Faith", a collection of beliefs and practices observed by those who wish to keep good relationships with the __ and avoid angering them.[10] The custom of offering milk and traditional foods—such as baked goods, apples or berries—to the __ have survived through the Christian era into the present day in parts of Ireland, Scotland and the diaspora.[11] Those who maintain some degree of belief in the __ also are aware to leave their sacred places alone and protect them from damage through road or housing construction.[12][13]
 
 
 See also

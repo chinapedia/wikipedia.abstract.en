@@ -23,7 +23,7 @@ In 2007, Slovakia obtained the highest GDP growth among the members of OECD and 
 
 Foreign investments
 
-Bratislava_highrises_2009_4.jpg Foreign direct investment (FDI) in Slovakia has increased dramatically. Cheap and skilled labor, a 19% flat tax rate for both businesses and individuals, no dividend taxes, a weak labor code, and a favorable geographical location are Slovakia's main advantages for foreign investors. FDI inflow grew more than 600% from 2000 and cumulatively reached an all-time high of, $17.3 billion USD in 2006, or around $18,000 per capita by the end of 2006. The total inflow of FDI in 2006 was $2.54 billion. In October 2005 new investment stimuli introduced – more favorable conditions to IT and research centers, especially to be located in the east part of the country (where there is more unemployment), to bring more added value and not to be logistically demanding.
+Foreign direct investment (FDI) in Slovakia has increased dramatically. Cheap and skilled labor, a 19% flat tax rate for both businesses and individuals, no dividend taxes, a weak labor code, and a favorable geographical location are Slovakia's main advantages for foreign investors. FDI inflow grew more than 600% from 2000 and cumulatively reached an all-time high of, $17.3 billion USD in 2006, or around $18,000 per capita by the end of 2006. The total inflow of FDI in 2006 was $2.54 billion. In October 2005 new investment stimuli introduced – more favorable conditions to IT and research centers, especially to be located in the east part of the country (where there is more unemployment), to bring more added value and not to be logistically demanding.
 
 Origin of foreign investment 1996–2005 – the Netherlands 24.3%; Germany 19.4%, Austria 14.1%; Italy 7.5%, United States (8th largest investor) 4.0%. Top investors by companies: Deutsche Telekom (Germany), Neusiedler (Austria), Gaz de France (France), Gazprom (Russia), U.S.Steel (U.S.), MOL (Hungary), ENEL (Italy), E.ON (Germany)...
 
@@ -118,7 +118,7 @@ The minimum wage in Slovakia is set at 520 € per month,[8] the average salary 
 
 Statistics
 
-Slovakia_Export_Treemap.png CURRENCY SWITCH TO THE EURO
+CURRENCY SWITCH TO THE EURO
 
 Slovakia switched its currency from the Slovak crown (SK-slovenská koruna) to the Euro on 1 January 2009, at a rate of 30.1260 korunas to the euro.
 

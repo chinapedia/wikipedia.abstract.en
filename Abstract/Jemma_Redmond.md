@@ -1,1 +1,0 @@
-JEMMA REDMOND (16 March 1978 – 16 August 2016) was an Irish biotechnology pioneer and innovator. She was a co-founder of 3D bio-printing firm Ourobotics, developers of the first-ever ten-material bio-printer.[1] Redmond designed a way of keeping living cells alive while printed using 3D printers,[2] making her a leading figure in Irish science and technology.[3]

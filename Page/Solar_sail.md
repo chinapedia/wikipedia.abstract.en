@@ -1,4 +1,4 @@
-IKAROS_solar_sail.jpg space-probe with solar sail in flight (artist's depiction) showing a typical square sail configuration]] SOLAR SAILS (also called LIGHT SAILS or PHOTON SAILS) are a proposed method of spacecraft propulsion using radiation pressure exerted by sunlight on large mirrors. A useful analogy may be a sailing boat; the light exerting a force on the mirrors is akin to a sail being blown by the wind. High-energy laser beams could be used as an alternative light source to exert much greater force than would be possible using sunlight, a concept known as beam sailing.
+space-probe with solar sail in flight (artist's depiction) showing a typical square sail configuration]] SOLAR SAILS (also called LIGHT SAILS or PHOTON SAILS) are a proposed method of spacecraft propulsion using radiation pressure exerted by sunlight on large mirrors. A useful analogy may be a sailing boat; the light exerting a force on the mirrors is akin to a sail being blown by the wind. High-energy laser beams could be used as an alternative light source to exert much greater force than would be possible using sunlight, a concept known as beam sailing.
 
 Solar sail craft offer the possibility of low-cost operations combined with long operating lifetimes. Since they have few moving parts and use no propellant, they can potentially be used numerous times for delivery of payloads.
 
@@ -47,7 +47,7 @@ Solar radiation pressure can be related to the irradiance (solar constant) value
 -   perfect absorbance: F = 4.54 μN per square metre (4.54 μPa) in the direction of the incident beam (an inelastic collision)
 -   perfect reflectance: F = 9.08 μN per square metre (9.08 μPa)   in the direction normal to surface (an elastic collision)
 
-An ideal sail is flat and has 100% specular reflection. An actual sail will have an overall efficiency of about 90%, about 8.17 μN/m²,[18] due to curvature (billow), wrinkles, absorbance, re-radiation from front and back, non-specular effects, and other factors. Sail-Force1.gif The force on a sail and the actual acceleration of the craft vary by the inverse square of distance from the Sun (unless extremely close to the Sun[19]), and by the square of the cosine of the angle between the sail force vector and the radial from the Sun, so
+An ideal sail is flat and has 100% specular reflection. An actual sail will have an overall efficiency of about 90%, about 8.17 μN/m²,[18] due to curvature (billow), wrinkles, absorbance, re-radiation from front and back, non-specular effects, and other factors. The force on a sail and the actual acceleration of the craft vary by the inverse square of distance from the Sun (unless extremely close to the Sun[19]), and by the square of the cosine of the angle between the sail force vector and the radial from the Sun, so
 
     F = F₀ cos² θ / R² (ideal sail)
 
@@ -188,15 +188,11 @@ Small solar sails have been proposed to accelerate the deorbiting of small artif
 
 Sail configurations
 
-Solarsail_msfc.jpg Cosmos1_in_orbit.jpg
-
 IKAROS, launched in 2010, was the first practical solar sail vehicle. As of 2015, it was still under thrust, proving the practicality of a solar sail for long-duration missions.[50] It is spin-deployed, with tip-masses in the corners of its square sail. The sail is made of thin polyimide film, coated with evaporated aluminium. It steers with electrically-controlled liquid crystal panels. The sail slowly spins, and these panels turn on and off to control the attitude of the vehicle. When on, they diffuse light, reducing the momentum transfer to that part of the sail. When off, the sail reflects more light, transferring more momentum. In that way, they turn the sail.[51] Thin-film solar cells are also integrated into the sail, powering the spacecraft. The design is very reliable, because spin deployment, which is preferable for large sails, simplified the mechanisms to unfold the sail and the LCD panels have no moving parts.
 
 Parachutes have very low mass, but a parachute is not a workable configuration for a solar sail. Analysis shows that a parachute configuration would collapse from the forces exerted by shroud lines, since radiation pressure does not behave like aerodynamic pressure, and would not act to keep the parachute open.[52]
 
 The highest thrust-to-mass designs for ground-assembled deploy-able structures are square sails with the masts and guy lines on the dark side of the sail. Usually there are four masts that spread the corners of the sail, and a mast in the center to hold guy-wires. One of the largest advantages is that there are no hot spots in the rigging from wrinkling or bagging, and the sail protects the structure from the Sun. This form can, therefore, go close to the Sun for maximum thrust. Most designs steer with small moving sails on the ends of the spars.[53]
-
-sail-design-types.gif
 
 In the 1970s JPL studied many rotating blade and ring sails for a mission to rendezvous with Halley's Comet. The intention was to stiffen the structures using angular momentum, eliminating the need for struts, and saving mass. In all cases, surprisingly large amounts of tensile strength were needed to cope with dynamic loads. Weaker sails would ripple or oscillate when the sail's attitude changed, and the oscillations would add and cause structural failure. The difference in the thrust-to-mass ratio between practical designs was almost nil, and the static designs were easier to control.[54]
 
@@ -253,8 +249,6 @@ In the future, fabrication could take place in orbit inside large frames that su
 
 
 Operations
-
-Sail-InOut.gif
 
 Changing orbits
 
@@ -350,7 +344,7 @@ On August 9, 2004, the Japanese ISAS successfully deployed two prototype solar s
 
 IKAROS 2010
 
-IKAROS_IAC_2010.jpg in 2010]]
+in 2010]]
 
 On 21 May 2010, Japan Aerospace Exploration Agency (JAXA) launched the world's first interplanetary solar sail spacecraft "IKAROS" (_Interplanetary Kite-craft Accelerated by Radiation Of the Sun_) to Venus.[81] Using a new solar-photon propulsion method,[82] it was the first true solar sail spacecraft fully propelled by sunlight,[83][84] and was the first spacecraft to succeed in solar sail flight.[85]
 
@@ -361,8 +355,6 @@ Until 2010, no solar sails had been successfully used in space as primary propul
 IKAROS has a diagonal spinning square sail 14×14 m (196 m²) made of a thick sheet of polyimide. The polyimide sheet had a mass of about 10 grams per square metre. A thin-film solar array is embedded in the sail. Eight LCD panels are embedded in the sail, whose reflectance can be adjusted for attitude control.[91][92] IKAROS spent six months traveling to Venus, and then began a three-year journey to the far side of the Sun.[93]
 
 NanoSail-D 2010
-
-Nano_Sail_D.jpg
 
 A team from the NASA Marshall Space Flight Center (Marshall), along with a team from the NASA Ames Research Center, developed a solar sail mission called NANOSAIL-D, which was lost in a launch failure aboard a Falcon 1 rocket on 3 August 2008.[94][95] The second backup version, NanoSail-D2, also sometimes called simply NanoSail-D,[96] was launched with FASTSAT on a Minotaur IV on November 19, 2010, becoming NASA's first solar sail deployed in low earth orbit. The objectives of the mission were to test sail deployment technologies, and to gather data about the use of solar sails as a simple, "passive" means of de-orbiting dead satellites and space debris.[97] The NanoSail-D structure was made of aluminium and plastic, with the spacecraft massing less than . The sail has about of light-catching surface. After some initial problems with deployment, the solar sail was deployed and over the course of its 240-day mission reportedly produced a "wealth of data" concerning the use of solar sails as passive deorbit devices.[98]
 
@@ -389,7 +381,7 @@ Gossamer deorbit sail
 
 NEA Scout
 
-Near_Earth_Asteroid_Scout.jpg concept: a controllable CubeSat solar sail spacecraft]]
+concept: a controllable CubeSat solar sail spacecraft]]
 
 The Near-Earth Asteroid Scout (NEA Scout) is a mission being jointly developed by NASA's Marshall Space Flight Center (MSFC) and the Jet Propulsion Laboratory (JPL), consisting of a controllable low-cost CubeSat solar sail spacecraft capable of encountering near-Earth asteroids (NEA).[112] Four 7 m booms would deploy, unfurling the 83 m² aluminized polyimide solar sail.[113][114][115] In 2015, NASA announced it had selected NEA Scout to launch as one of several secondary payloads aboard EM-1, the first flight of the agency's heavy-lift SLS launch vehicle.[116]
 

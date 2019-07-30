@@ -1,1 +1,0 @@
-Soemarno_Sosroatmodjo_portrait.jpg SOEMARNO SOSROATMODJO (born in Rambipuji, Jember, East Java, on 24 April 1911 - died in Jakarta, 9 January 1991) was an Indonesian military, a doctor and a politician.

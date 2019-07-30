@@ -1,1 +1,0 @@
-SAMUEL H. WRAGG (June 9, 1882 – May 13, 1959) was an American politician who served as President of the Massachusetts Senate from 1937 to 1939 and sheriff of Norfolk County, Massachusetts from 1939 to 1959.

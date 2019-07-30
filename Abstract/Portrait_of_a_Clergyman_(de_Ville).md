@@ -1,1 +1,0 @@
-_PORTRAIT OF A CLERGYMAN_ — sometimes called _PORTRAIT OF A 17TH CENTURY CLERGYMAN_ or _THE UNKNOWN CLERGYMAN_ — is an oil on canvas portrait painting by Guilliam de Ville (_ca._ 1614–1672) dated 1639. The identity of the subject, an elderly clergyman, is unknown. It is owned by the Redwood Library and Athenaeum (Identifier: PA.125), Newport, Rhode Island, USA, where it hangs.

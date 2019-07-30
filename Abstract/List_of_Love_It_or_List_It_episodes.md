@@ -1,1 +1,0 @@
-_LOVE IT OR LIST IT_ is a Canadian home design TV show currently airing on HGTV, W Network and on OWN Canada. The show is produced by Big Coat Productions and is based in Toronto and other surrounding areas in Ontario, Canada. The show premiered as a primetime program on W Network on September 8, 2008, and has since aired on OWN Canada as well as HGTV in the United States.

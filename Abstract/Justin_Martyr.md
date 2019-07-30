@@ -1,1 +1,0 @@
-JUSTIN MARTYR () was an early Christian apologist, and is regarded as the foremost interpreter of the theory of the Logos in the 2nd century.[1] He was martyred, alongside some of his students, and is considered a saint by the Roman Catholic Church,[2] the Anglican Church,[3] the Eastern Orthodox Church,[4] and the Oriental Orthodox Churches.

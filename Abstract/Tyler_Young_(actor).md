@@ -1,1 +1,0 @@
-TYLER MATTHEW YOUNG (born December 17, 1990)[1] is an American actor, known for his role as Philip Shea in the USA Network drama limited series _Eyewitness_.[2] He portrays Connor Bell in the horror film _Polaroid_ (2018).

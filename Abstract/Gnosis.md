@@ -1,1 +1,0 @@
-GNOSIS is the common Greek noun for knowledge (γνῶσις, _gnōsis_, f.).[1] The term is used in various Hellenistic religions and philosophies.[2][3] It is best known from Gnosticism, where it signifies a knowledge or insight into humanity’s real nature as divine, leading to the deliverance of the divine spark within humanity from the constraints of earthly existence.[4][5]

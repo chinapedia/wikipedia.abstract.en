@@ -1,1 +1,0 @@
-_MOSES THE LAWGIVER_ (1975) is a novel by Australian writer Thomas Keneally.[1] The novel is based on the British television series "Moses the Lawgiver", for which Anthony Burgess wrote the script.[2]

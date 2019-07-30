@@ -1,1 +1,0 @@
-GINGIN SCARP is a scarp that lies to the west of the Darling Scarp in Western Australia, with the Dandaragan plateau formed between the two scarps. At the southern end of the scarp it lies to the east of the Swan Coastal Plain, to the further north the adjacent sandplain is Eneabba sandplain

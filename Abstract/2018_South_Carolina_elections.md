@@ -1,1 +1,0 @@
-A GENERAL ELECTION will be held in the U.S. state of South Carolina on November 6, 2018. All of South Carolina's executive officers will be up for election as well as all of South Carolina's seven seats in the United States House of Representatives.

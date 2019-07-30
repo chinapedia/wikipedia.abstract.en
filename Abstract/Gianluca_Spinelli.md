@@ -1,1 +1,0 @@
-GIANLUCA SPINELLI, born 29 October 1966, is an Italian professional football goalkeeper coach. He is currently a goalkeeper coach for French club Paris Saint-Germain under Thomas Tuchel and the Italy national football team.

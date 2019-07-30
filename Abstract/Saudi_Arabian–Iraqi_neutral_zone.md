@@ -1,1 +1,0 @@
-Neutral_Zone_IQ_SA.jpg Saudi_Arabian–Iraqi_Neutral_Zone_1990.jpg

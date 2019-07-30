@@ -1,1 +1,0 @@
-C. WILLIAM HAINES (November 2, 1928 – December 18, 1996) was an American Republican Party politician who served in the New Jersey General Assembly from the 8th Legislative District from 1982 to 1985 and in the New Jersey Senate from 1985 until his death in 1996.

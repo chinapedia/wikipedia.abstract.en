@@ -1,1 +1,0 @@
-_ÉTERNEL INSATISFAIT_ (English: _Never Satisfied_) is the second studio album by French-Guinean rapper and songwriter Black M. The album was released on October 28, 2016, by Wati B and Sony Music Entertainment. The album features collaborations with MHD, Soprano, Zaho, Alonzo, Gradur and Shakira.[1][2][3][4][5][6]

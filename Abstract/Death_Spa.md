@@ -1,1 +1,0 @@
-_DEATH SPA_ (known in Europe as _WITCH BITCH_)[1] is a 1989[2][3] American horror film directed by Michael Fischa and starring William Bumiller, Brenda Bakke, Merritt Butrick, Ken Foree, Karyn Parsons, and Vanessa Bell Calloway. Butrick's role in the film was his last before his death, while Parsons's role marked her feature film debut as an actress.[4]

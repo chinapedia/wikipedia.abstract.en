@@ -1,1 +1,0 @@
-KARL ERNST LUDWIG MARX PLANCK, ForMemRS[1] (;[2] ;[3] 23 April 1858 – 4 October 1947) was a German theoretical physicist whose discovery of energy quanta won him the Nobel Prize in Physics in 1918.[4]

@@ -1,1 +1,0 @@
-SIR MARK JOHN BOLEAT (born January 1949) is deputy chairman of the City of London Corporation's Policy and Resources Committee. He has previously been director general of the Building Societies Association, the Council of Mortgage Lenders and the Association of British Insurers.[1] He is a Common Councilman for Cordwainer Ward and trustee of Centre for London.

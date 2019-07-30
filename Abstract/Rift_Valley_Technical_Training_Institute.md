@@ -1,1 +1,0 @@
-RIFT VALLEY TECHNICAL TRAINING INSTITUTE (RVTTI) is a public technical training institute located in the highland city of Eldoret, Kenya. It is one of the Technical Training Institutes in Kenya.[1] The institution offers Artisan, Craft, Diploma and Higher Diploma Courses with bias to practical industrial applications.[2]

@@ -1,1 +1,0 @@
-The 1983 MISSISSIPPI GUBERNATORIAL ELECTION took place on November 8, 1983, in order to elect the Governor of Mississippi. Incumbent Democrat William Winter was term-limited, and could not run for reelection to a second term.

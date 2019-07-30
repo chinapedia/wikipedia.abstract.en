@@ -1,1 +1,0 @@
-_DIE GESPENSTERSONATE_ is a 1984 German-language opera by Aribert Reimann to a libretto by the composer and Uwe Schendel after August Strindberg's play _The Ghost Sonata_.[1] Strindgerg's play also inspired another opera, _Die Gespenstersonate_ by Julius Weismann (1930).

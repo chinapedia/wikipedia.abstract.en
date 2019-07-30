@@ -1,1 +1,0 @@
-Bromley_by_Bow,_Former_Rose_and_Crown_public_house_-_geograph.org.uk_-_765283.jpg

@@ -1,1 +1,0 @@
-is the ninth and the last single by Shiori Takei[1] and released February 28, 2007 under Giza Studio label. The single reached #94 rank first week. It charted for 1 week and sold over 1,385 copies.[2]

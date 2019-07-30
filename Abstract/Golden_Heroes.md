@@ -1,1 +1,0 @@
-_GOLDEN HEROES_ is a superhero role-playing game that was originally written and published on an amateur basis in 1982. Games Workshop then published a more complete version in 1984. It was written by Simon Burley and Peter Haines and was illustrated by a group of artists who were working for _2000 AD_ at the time.

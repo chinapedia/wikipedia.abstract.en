@@ -1,1 +1,0 @@
-COMICS POETRY is a hybrid creative form that combines aspects of comics and poetry. It draws from the syntax of comics, images, panels, speech balloons, and so on, in order to produce a literary or artistic experience akin to that of traditional poetry.

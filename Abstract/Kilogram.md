@@ -1,1 +1,0 @@
-The KILOGRAM (also KILOGRAMME) is the base unit of mass in the metric system, formally the International System of Units (SI), having the unit symbol KG. It is a widely used measure in science, engineering, and commerce worldwide, and is often called a KILO. The kilogram is almost exactly the mass of one litre of water.

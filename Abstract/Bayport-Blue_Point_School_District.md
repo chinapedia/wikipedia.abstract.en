@@ -1,1 +1,0 @@
-BAYPORT-BLUE POINT UNION-FREE SCHOOL DISTRICT is a public school district that serves the hamlets of Bayport, New York and Blue Point, New York. It consists of Bayport-Blue Point High School, James Wilson Young Middle School, and three elementary schools, Academy Street Elementary, Blue Point Elementary, and Sylvan Avenue Elementary.[1]

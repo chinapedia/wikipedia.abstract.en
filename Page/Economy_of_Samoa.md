@@ -3,7 +3,7 @@ The ECONOMY OF SAMOA is dependent on agricultural exports, development aid and p
 
 Trade
 
-Unloading_lighter_at_Apia_Wharf,_Samoa_c.1975-85.jpg New Zealand is Samoa's principal trading partner, typically providing between 35% and 40% of imports and purchasing 45%–50% of exports. Australia, American Samoa, the United States, and Fiji are also important trading partners. Its main imports are food and beverages, industrial supplies, and fuels. The primary sector (agriculture, forestry, and fishing) employs nearly two-thirds of the labor force and produces 17% of GDP. Samoa's principal exports are coconut products and fish.
+New Zealand is Samoa's principal trading partner, typically providing between 35% and 40% of imports and purchasing 45%–50% of exports. Australia, American Samoa, the United States, and Fiji are also important trading partners. Its main imports are food and beverages, industrial supplies, and fuels. The primary sector (agriculture, forestry, and fishing) employs nearly two-thirds of the labor force and produces 17% of GDP. Samoa's principal exports are coconut products and fish.
 
 Fishing has had some success in Samoan waters, but the biggest fisheries industry (headed by Van Camp and StarKist) has been based in American Samoa. StarKist Management announced that it was going ahead with setting up at Asau a blast-freezer project to be operational by 2002. This announcement dispelled a growing suspicion about the genuine motives of StarKist to move to Samoa. The proposed blast-freezer operations in Asau were expected to bring this village back to life.
 

@@ -1,1 +1,0 @@
-A PARADIGM SHIFT, a concept identified by the American physicist and philosopher Thomas Kuhn, is a fundamental change in the basic concepts and experimental practices of a scientific discipline. Kuhn presented his notion of a paradigm shift in his influential book _The Structure of Scientific Revolutions_ (1962).

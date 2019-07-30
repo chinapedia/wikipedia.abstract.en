@@ -1,1 +1,0 @@
-NONSTEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDS) are a drug class that reduce pain, decrease fever, prevent blood clots and, in higher doses, decrease inflammation. Side effects depend on the specific drug, but largely include an increased risk of gastrointestinal ulcers and bleeds, heart attack and kidney disease.[1][2]

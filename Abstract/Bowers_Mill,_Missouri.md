@@ -1,1 +1,0 @@
-BOWERS MILL is an unincorporated community in Jasper and Lawrence counties, in the U.S. state of Missouri.[1] The community and mill are located on the Spring River midway between Mount Vernon to the east and Carthage to the west. La Russell lies just to the south.[2]

@@ -1,1 +1,0 @@
-KL1, or KERNEL LANGUAGE 1 is an experimental AND-parallel version of KL0 developed for the ICOT Fifth Generation Computer project. KL1 is an implementation of Flat GHC (a subset of the Guarded Horn Clauses language by Kazunori Ueda), making it a parallelised Prolog variant.

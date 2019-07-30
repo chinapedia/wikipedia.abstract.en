@@ -1,1 +1,0 @@
-Brooklyn_Museum_-_The_Actor_Ichikawa_Danzo_in_a_Shibaraku_Role_-_Torii_Kiyotsune.jpg

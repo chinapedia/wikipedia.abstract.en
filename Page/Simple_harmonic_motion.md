@@ -9,7 +9,7 @@ Introduction
 
 The motion of a particle moving along a straight line with an acceleration whose direction is always towards a fixed point on the line and whose magnitude is proportional to the distance from the fixed point is called simple harmonic motion [SHM].[1]
 
-Simple_Harmonic_Motion_Orbit.gif. The orbit is periodic. (Here the velocity and position axes have been reversed from the standard convention to align the two diagrams)]]
+. The orbit is periodic. (Here the velocity and position axes have been reversed from the standard convention to align the two diagrams)]]
 
 In the diagram, a simple harmonic oscillator, consisting of a weight attached to one end of a spring, is shown. The other end of the spring is connected to a rigid support such as a wall. If the system is left at rest at the equilibrium position then there is no net force acting on the mass. However, if the mass is displaced from the equilibrium position, the spring exerts a restoring elastic force that obeys Hooke's law.
 
@@ -93,7 +93,7 @@ $$E = K + U = \tfrac12 k A^2.$$
 
 Examples
 
-Animated-mass-spring.gif undergoes simple harmonic motion.]] The following physical systems are some examples of simple harmonic oscillator.
+undergoes simple harmonic motion.]] The following physical systems are some examples of simple harmonic oscillator.
 
 Mass on a spring
 
@@ -108,7 +108,7 @@ Simple harmonic motion can be considered the one-dimensional projection of unifo
 
 Mass of a simple pendulum
 
-Simple_Pendulum_Oscillator.gif approximates to simple harmonic motion if the angle of oscillation is small.]]
+approximates to simple harmonic motion if the angle of oscillation is small.]]
 
 In the small-angle approximation, the motion of a simple pendulum is approximated by simple harmonic motion. The period of a mass attached to a pendulum of length with gravitational acceleration g is given by
 

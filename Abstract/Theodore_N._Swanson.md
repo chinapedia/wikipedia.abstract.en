@@ -1,1 +1,0 @@
-THEODORE N. SWANSON, an ordained Pastor of the Evangelical Lutheran Church in America is an Old Testament Scholar. Swanson taught Old Testament at the United Theological College, Bangalore,[1] India.[2]

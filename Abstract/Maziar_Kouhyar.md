@@ -1,1 +1,0 @@
-MAZIAR KOUHYAR (Dari: مازیار كوهيار, born 30 September 1997), is an Afghan professional footballer who plays as a midfielder for EFL League One side Walsall. He is the first Afghan to play professionally in Great Britain.[1]

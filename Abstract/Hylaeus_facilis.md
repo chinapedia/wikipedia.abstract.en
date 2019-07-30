@@ -1,1 +1,0 @@
-_HYLAEUS FACILIS_ is a species of bee, also known by the common name EASY YELLOW-FACED BEE.[1] It is endemic to Hawaii and known from only two populations.[2] In September 2016, along with six other Hawaiian _Hylaeus_ species,[3] _H. facilis_ was listed for protection under the United States Endangered Species Act. This marked a first listing for any bee species in the US.[4]

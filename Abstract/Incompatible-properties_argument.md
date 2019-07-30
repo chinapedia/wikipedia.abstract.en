@@ -1,1 +1,0 @@
-The INCOMPATIBLE-PROPERTIES ARGUMENT is the idea that no description of God is consistent with reality. For example, if one takes the definition of God to be described fully from the Bible, then the claims of what properties God has described therein might be argued to lead to a contradiction.

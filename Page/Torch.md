@@ -1,4 +1,4 @@
-Lewes_Bonfire,_discarded_torch.jpg celebrations.]]
+celebrations.]]
 
 A TORCH is a stick with combustible material at one end, which is ignited and used as a light source.[1] Torches have been used throughout history, and are still used in processions, symbolic and religious events, and in juggling entertainment. In some countries "torch" in modern usage is the term for a battery-operated portable light.
 
@@ -7,7 +7,7 @@ Etymology
 
 From the Old French "_torche_" meaning "twisted thing", hence "torch formed of twisted tow dipped in wax", probably from Vulgar Latin *_torca_, alteration of Late Latin _torqua_, variant of classical Latin _torques_ "collar of twisted metal", from _torquere_ "to twist".[2]
 
-Firebreathingtorch.JPG.]]
+.]]
 
 
 Torch construction
@@ -19,14 +19,14 @@ Modern torches suitable for juggling are made of a wooden-and-metal or metal-onl
 
 Symbolism
 
-Liberty_torch_drawing.svg Main_Reading_Room._Detail_of_frieze_of_winged_half_figures_with_torch_of_learning._Library_of_Congress_Thomas_Jefferson_Building,_Washington,_D.C._LCCN2007684396.tif Thomas Jefferson Building, Washington, D.C. ]] The torch is a common emblem of both enlightenment and hope.[3] Thus the Statue of Liberty, actually "Liberty Enlightening the World", lifts her torch. Crossed reversed torches were signs of mourning that appear on Greek and Roman funerary monuments—a torch pointed downwards symbolizes death, while a torch held up symbolizes life, truth and the regenerative power of flame. The torch is also a symbol used by political parties, for instance by both Labour (from 1918 to 1980) and the Conservatives (from 1983 to 2006) in the UK, and the Malta Labour Party. In the seals of schools in the Philippines, the torch symbolizes the vision of education to provide enlightenment to all the students.
+Thomas Jefferson Building, Washington, D.C. ]] The torch is a common emblem of both enlightenment and hope.[3] Thus the Statue of Liberty, actually "Liberty Enlightening the World", lifts her torch. Crossed reversed torches were signs of mourning that appear on Greek and Roman funerary monuments—a torch pointed downwards symbolizes death, while a torch held up symbolizes life, truth and the regenerative power of flame. The torch is also a symbol used by political parties, for instance by both Labour (from 1918 to 1980) and the Conservatives (from 1983 to 2006) in the UK, and the Malta Labour Party. In the seals of schools in the Philippines, the torch symbolizes the vision of education to provide enlightenment to all the students.
 
 
 Uses
 
 Olympics
 
-Li_Ling_during_2008_Summer_Olympics_opening_ceremony.jpg A torch carried in relay by runners is used to light the Olympic flame which burns without interruption until the end of the Games. These torches and the relay tradition were introduced in the 1936 Summer Olympics by Carl Diem, the chairman of the event because during the duration of the Ancient Olympic Games in Olympia, a sacred flame burnt inside of the temple of Hera, kept in custody by her priestess.
+A torch carried in relay by runners is used to light the Olympic flame which burns without interruption until the end of the Games. These torches and the relay tradition were introduced in the 1936 Summer Olympics by Carl Diem, the chairman of the event because during the duration of the Ancient Olympic Games in Olympia, a sacred flame burnt inside of the temple of Hera, kept in custody by her priestess.
 
 Juggling
 
@@ -38,7 +38,7 @@ In former times, liturgical torches were carried in Eucharistic processions simp
 
 According to Adrian Fortescue,[4] the more correct form of liturgical torches are non-freestanding (i.e. cannot stand up on their own). However, today, even in the Vatican, freestanding, tall candles in ornate candle-stick holders have replaced the former type. The torches are carried by torchbearers, who enter at the Sanctus and leave after Communion.
 
-Anglicans of the High Church and some Lutherans use torches in some of their liturgical celebrations as well. George_Rennie_Cupid_Rekindling_the_Torch_of_Hymen_at_the_V_and_A_2008.jpg
+Anglicans of the High Church and some Lutherans use torches in some of their liturgical celebrations as well.
 
 
 Associations

@@ -1,1 +1,0 @@
-Quilter_and_quilting_in_the_Bazaar_of_Nishapur_11.JPG of Nishapur, Iran]] Gee's_Bend_quilting_bee.jpg quilting, 2005]] Caraco_jacket_in_printed_cotton,_1770-1790,_skirt_in_quilted_silk_satin,_1750-1790.jpg

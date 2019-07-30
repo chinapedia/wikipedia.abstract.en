@@ -1,1 +1,0 @@
-The MAKATUMBE RANGE REAR LIGHTHOUSE (also known as DAR ES SALAAM BAY RANGE REAR or OUTER MAKATUMBE LIGHTHOUSE) is located on the island of Outer Makatumbe close to the coast of Dar es salaam, Tanzania. The lighthouse assists ships waiting in the strait that are about to enter the Kivukoni channel.[1][2]

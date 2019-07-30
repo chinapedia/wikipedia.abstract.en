@@ -1,1 +1,0 @@
-DELAMONT COUNTRY PARK is located on the shores of Strangford Lough in County Down, Northern Ireland. It covers an area of approximately 200 acres 2 km south of Killyleagh. It is currently maintained by Newry, Mourne and Down District Council having previously been under the control of Down District Council.[1] Delamont_Country_Park,_June_2012_(01).JPG

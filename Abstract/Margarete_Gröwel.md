@@ -1,1 +1,0 @@
-KAS-Gröwel,_Margareta-Bild-107-2.jpg MARGARETE GRÖWEL (14 August 1899 - 20 January 1979) was a German teacher who became a politician (DZP, CDU).[1] Later, in 1953, she became the first woman to serve in the German consular service in Houston.[2]

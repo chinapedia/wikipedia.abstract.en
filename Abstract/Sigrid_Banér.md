@@ -1,1 +1,0 @@
-Familjen_Gustaf_Axelsson_Banér.jpg]] SIGRID GUSTAFSDOTTER BANÉR (17 January 1592, Djursholm Castle - 22 October 1669), was a Swedish noble, letter writer and Scholarship founder. She is most known in history for the letters to her sister Anna, in which she describe the last days of her father Gustaf Banér, who was executed during the Linköping Bloodbath.[1]

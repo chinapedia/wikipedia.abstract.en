@@ -1,1 +1,0 @@
-The 1994–95 WILLS WORLD SERIES was an One Day International (ODI) cricket tri-series where the India played host to the West Indies and New Zealand. India and the West Indies reached the final at the Eden Gardens where close to 100,000 witnessed India beat the West Indies.[1]

@@ -1,1 +1,0 @@
-MARY CHASE WALKER, MRS. MORSE (1828 – May 17, 1899) was an American schoolteacher, pioneer, and suffragette. In 1865 she became the first school teacher at Mason Street Schoolhouse, the first public school to be built in San Diego County, California. She recorded her _Recollections of Early Times in San Diego_ in 1898.

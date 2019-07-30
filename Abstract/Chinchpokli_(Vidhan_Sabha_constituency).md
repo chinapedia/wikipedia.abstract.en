@@ -1,1 +1,0 @@
-CHINCHPOKLI (VIDHAN SABHA CONSTITUENCY) was one of the 288 assembly constituencies of Maharashtra a western state of India. Chinchpokli was also part of Mumbai South Lok Sabha constituency.[1] Chinchpokli existed till 2004 elections until Byculla (Vidhan Sabha constituency) was formed in 2008.[2]

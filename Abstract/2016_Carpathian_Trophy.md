@@ -1,1 +1,0 @@
-The 2016 CARPATHIAN TROPHY was the 48th edition of the Carpathian Trophy held in Cluj-Napoca, Romania between 26–27 November as a women's friendly handball tournament organised by the Romanian Handball Federation.

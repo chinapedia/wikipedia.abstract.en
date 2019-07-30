@@ -1,1 +1,0 @@
-{{ infobox football tournament season | title = NCAA Division I Field Hockey Championship | year = 2016 | other_title = | image = | imagesize = | caption = | country = | num_teams = 18 | champions = Delaware (1st title) | runner-up = North Carolina (17th title match) | matches = 17 | goals = 68 | top goal scorer = | player = | prevseason = 2015 | nextseason = 2017 }}

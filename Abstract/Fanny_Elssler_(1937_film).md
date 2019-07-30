@@ -1,1 +1,0 @@
-_FANNY ELSSLER_ (German: _FANNY ELSSLER_) is a 1937 German historical drama film directed by Paul Martin and starring Lilian Harvey, Rolf Moebius and Willy Birgel.[1] It was loosely based on the life of the dancer Fanny Elssler.

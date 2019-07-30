@@ -1,1 +1,0 @@
-N-butyllithium-tetramer-3D-balls.png, an organometallic compound. Four lithium atoms (in purple) form a tetrahedron, with four butyl groups attached to the faces (carbon is black, hydrogen is white).]]

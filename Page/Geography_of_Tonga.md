@@ -1,4 +1,4 @@
-Tonga_sm04.gif Tonga.jpg.]]
+.]]
 
 Located in Oceania, Tonga is an archipelago in the South Pacific Ocean, directly south of Samoa and about two-thirds of the way from Hawaii to New Zealand. It has 169 islands, 36 of them inhabited, are divided into three main groups – Vava'u, Ha'apai, and Tongatapu – and cover an -long north-south line.
 
@@ -24,8 +24,6 @@ In December 2014 and January 2015, a volcanic island 1 km wide by 2 km long wa
 
 
 Facts
-
-Coastline_in_Tonga.jpg
 
 GEOGRAPHIC COORDINATES:
 
@@ -53,7 +51,7 @@ _other:_ 64.00% (2011)
 ENVIRONMENT - INTERNATIONAL AGREEMENTS:
 _party to:_ Biodiversity, Climate Change, Climate Change Kyoto-Protocol, Desertification, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, and Ship Pollution.[9]
 
-Natural resources are fish and fertile soil. Current environmental issues are deforestation as more and more land is being cleared for agriculture and settlement; some damage to coral reefs from starfish and indiscriminate coral and shell collectors; and overhunting threatens native sea turtle populations.Nuku_Island_Vava'u.jpg
+Natural resources are fish and fertile soil. Current environmental issues are deforestation as more and more land is being cleared for agriculture and settlement; some damage to coral reefs from starfish and indiscriminate coral and shell collectors; and overhunting threatens native sea turtle populations.
 
 
 See also

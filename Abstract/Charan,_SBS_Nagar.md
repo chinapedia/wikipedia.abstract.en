@@ -1,1 +1,0 @@
-Charan, Iran|caste|Charan}}

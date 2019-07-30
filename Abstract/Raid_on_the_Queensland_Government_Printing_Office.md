@@ -1,1 +1,0 @@
-StateLibQld_1_114576_View_of_the_Government_Printing_Office_in_George_Street,_Brisbane,_1920.jpg In November 1917, the Australian government conducted a RAID ON THE GOVERNMENT PRINTING OFFICE in Brisbane, with the aim of confiscating copies of Hansard that covered debates in the Queensland Parliament where anti-conscription sentiments had been aired.

@@ -1,1 +1,0 @@
-AJMER is one of the major and oldest cities in the Indian state of Rajasthan and the centre of the eponymous Ajmer District. It is located at the centre of Rajasthan, and is home to the Ajmer Sharif shrine.

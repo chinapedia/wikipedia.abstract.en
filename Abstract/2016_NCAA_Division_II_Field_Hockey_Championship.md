@@ -1,1 +1,0 @@
-{{ infobox football tournament season | title = NCAA Division II Field Hockey Championship | year = 2016 | other_title = | image = | imagesize = | caption = | country = | num_teams = 6 | champions = Shippensburg (2nd title) | runner-up = LIU Post | matches = 5 | goals = 12 | top goal scorer = | player = | prevseason = 2014 | nextseason = 2016 }}

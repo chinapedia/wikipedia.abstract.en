@@ -1,1 +1,0 @@
-The 2016 LATROBE CITY TRARALGON ATP CHALLENGER is a professional tennis tournament played on outdoor hard court. It is the fifth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Traralgon, Australia between 24–30 October 2016.[1]

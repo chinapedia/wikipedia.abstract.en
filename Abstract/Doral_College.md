@@ -1,1 +1,0 @@
-DORAL COLLEGE is a private, non-profit institution of higher learning based in Doral, Florida. Doral College is licensed by the Florida Commission for Independent Education (CIE) and accredited by the Distance Education Accrediting Commission.

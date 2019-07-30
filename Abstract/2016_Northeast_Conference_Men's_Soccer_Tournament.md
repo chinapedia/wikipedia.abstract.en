@@ -1,1 +1,0 @@
-The 2016 NORTHEAST CONFERENCE MEN'S SOCCER TOURNAMENT, was the twenty eighth edition of the tournament. It determined the Northeast Conference's automatic berth into the 2016 NCAA Division I Men's Soccer Championship. LIU Brooklyn entered the tournament as the defending champions.

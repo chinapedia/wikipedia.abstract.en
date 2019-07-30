@@ -1,1 +1,0 @@
-EuroBasket_2017_Serbia_vs_Turkey,_2017-09-04_(2).jpg]] GROUP D of EuroBasket 2017 consisted of , , , , and . The games were played between 1 and 7 September 2017. All games were played at the Ülker Sports Arena in Istanbul, Turkey.[1]

@@ -1,1 +1,0 @@
-GIJHI is a village panchayat located in the Rohtak district of the Indian state of Haryana. The old name of Gijhi is Girja Kheda founded in 816 AD . Name is changed to Gijhi from Girja Kheda in 1102 AD. It is one of the oldest villages nearby and ancestor of the villages of Ismaila 11B, Ismaila 9B, Dattaur, Bhashru Kalan. It is 23.5 KM away from district headquarters.

@@ -1,1 +1,0 @@
-KAMHO STATION is a railway station in Kosŏng county, Kangwŏn province, North Korea[1] on the Kŭmgangsan Ch'ŏngnyŏn Line of the Korean State Railway.[2] Although the line continues across the DMZ to South Korea, that section is not presently in use and so Kamho station is the operational terminus of the line.

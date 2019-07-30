@@ -1,1 +1,0 @@
-CHRISTIAN HUMANITARIAN AID is work performed by Christian non-governmental organizations (NGOs) to alleviate the suffering of people around the world. Charity is a concept of great importance in Christianity. Humanitarian aid occurs in areas where some churches choose to invest time and money in the spirit of compassion.

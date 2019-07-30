@@ -1,5 +1,3 @@
-Michael_Halliday_at_his_90th_birthday_symposium,_2015.jpg
-
 SYSTEMIC FUNCTIONAL GRAMMAR (SFG) is a form of grammatical description originated by Michael Halliday.[1] It is part of a social semiotic approach to language called _systemic functional linguistics_. In these two terms, _systemic_ refers to the view of language as "a network of systems, or interrelated sets of options for making meaning";[2] _functional_ refers to Halliday's view that language is as it is because of what it has evolved to do (see Metafunction). Thus, what he refers to as the _multidimensional architecture of language_ "reflects the multidimensional nature of human experience and interpersonal relations."[3]
 
 

@@ -1,4 +1,4 @@
-Social Security}} Walletssn2.gif distributed as an example card in wallets distributed by the F.W. Woolworth Company]]
+Social Security}} distributed as an example card in wallets distributed by the F.W. Woolworth Company]]
 
 SOCIAL SECURITY is "any government system that provides monetary assistance to people with an inadequate or no income."[1] In the United States, this is usually called WELFARE or a social safety net, especially when talking about Canada and European countries.
 
@@ -41,7 +41,7 @@ While several of the provisions to which the concept refers have a long history 
 
 In the Roman Empire, the Emperor Trajan (reigned A.D. 98–117) distributed gifts of money and free grain to the poor in the city of Rome, and returned the gifts of gold sent to him upon his accession by cities in Italy and the provinces of the Empire.[6] Trajan's program brought acclaim from many, including Pliny the Younger.[7]
 
-In Jewish tradition, charity (represented by tzedakah) is a matter of religious obligation rather than benevolence. Contemporary charity is regarded as a continuation of the Biblical Maaser Ani, or poor-tithe, as well as Biblical practices, such as permitting the poor to glean the corners of a field and harvest during the Shmita (Sabbatical year). Voluntary charity, along with prayer and repentance, is befriended to ameliorate the consequences of bad acts. Abbey_of_Port-Royal,_Distributing_Alms_to_the_Poor_by_Louise-Magdeleine_Hortemels_c._1710.jpg to the poor, abbey of Port-Royal des Champs c. 1710]] The Song dynasty (c.1000 AD) government supported multiple forms of social assistance programs, including the establishment of retirement homes, public clinics, and pauper's graveyards.[8]
+In Jewish tradition, charity (represented by tzedakah) is a matter of religious obligation rather than benevolence. Contemporary charity is regarded as a continuation of the Biblical Maaser Ani, or poor-tithe, as well as Biblical practices, such as permitting the poor to glean the corners of a field and harvest during the Shmita (Sabbatical year). Voluntary charity, along with prayer and repentance, is befriended to ameliorate the consequences of bad acts. to the poor, abbey of Port-Royal des Champs c. 1710]] The Song dynasty (c.1000 AD) government supported multiple forms of social assistance programs, including the establishment of retirement homes, public clinics, and pauper's graveyards.[8]
 
 According to economist Robert Henry Nelson, "The medieval Roman Catholic Church operated a far-reaching and comprehensive welfare system for the poor..."[9][10]
 

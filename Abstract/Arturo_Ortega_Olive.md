@@ -1,1 +1,0 @@
-ARTURO ORTEGA OLIVE is the general director for Aerolíneas Ejecutivas. He founded the company in January 1970. Aerolíneas Ejecutivas is a Mexican company that provides private aviation services to the leaders of the Americas. Arturo holds a dual degree in Business Administration and Company Management from the Universidad Nacional Autónoma de México.

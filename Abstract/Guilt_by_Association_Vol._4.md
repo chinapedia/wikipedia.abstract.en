@@ -1,1 +1,0 @@
-_GUILT BY ASSOCIATION VOL. 4_ is a compilation album released July 8, 2016 by Team Mensch. Like its previous installments, _Guilt by Association Vol. 1_, _Guilt by Association Vol. 2_ and _Guilt by Association Vol. 3_, Guilt By Association Vol. 4 features indie rock artists covering popular songs.

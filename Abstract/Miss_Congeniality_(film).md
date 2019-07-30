@@ -1,1 +1,0 @@
-_MISS CONGENIALITY_ is a 2000 American action comedy film directed by Donald Petrie, written by Marc Lawrence, Katie Ford, and Caryn Lucas, and starring Sandra Bullock with Michael Caine, Benjamin Bratt, William Shatner, Ernie Hudson, and Candice Bergen.

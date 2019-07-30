@@ -1,1 +1,0 @@
-NORA E. SCOTT (July 14, 1905 – April 4, 1994) was an Egyptologist and Curator of Egyptian Art at the Metropolitan Museum of Art. She was also the author of two museum monographs and numerous articles on ancient Egypt.

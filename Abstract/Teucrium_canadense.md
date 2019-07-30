@@ -1,1 +1,0 @@
-_TEUCRIUM CANADENSE_, commonly known as CANADA GERMANDER,[1] AMERICAN GERMANDER or WOOD SAGE, is a perennial herb in the family Lamiaceae. It is native to North America where it is found across the contiguous states of the United States and in much of Canada.

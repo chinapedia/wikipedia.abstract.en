@@ -1,1 +1,0 @@
-_CRYPHOECA SILVICOLA_ is a small species of dwarf sheet spider in the family Cybaeidae which has a Palearctic distribution.[1] The generic name, _Cryphoeca_, means hidden and the specific name _silvicola_ means "living in the woods".[2]

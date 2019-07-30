@@ -1,1 +1,0 @@
-SIBYLLE BODEN-GERSTNER (17 August 1920 – 25 December 2016) was a German costume designer, artist and fashion writer.[1][2] In 1956 she founded the East German arts and fashion magazine which bore her name, _Sibylle_, working with the publication as its editor in chief till 1961.[3]

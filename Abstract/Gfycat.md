@@ -1,1 +1,0 @@
-GFYCAT is a user-generated short video hosting company founded by Richard Rabbat, Dan McEleney, and Jeff Harris. It was a pioneer of the video alternative to GIF revolution in 2013. It incorporated in 2015 and has since raised $12 million in seed funding.[1]

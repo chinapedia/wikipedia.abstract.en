@@ -22,8 +22,6 @@ Bolivia
 
 Chile
 
-Roberto_bolaño.jpg
-
 -   Miguel Arteche (born 1926)
 -   Roberto Bolaño (1953–2003)
 -   Sergio Badilla Castillo (born 1947)
@@ -137,7 +135,7 @@ Honduras
 
 Mexico
 
-Paz0.jpg _See also List of Mexican poets_
+_See also List of Mexican poets_
 
 -   Elvia Ardalani (born 1963)
 -   José Carlos Becerra (1936–1970)
@@ -167,7 +165,7 @@ Paz0.jpg _See also List of Mexican poets_
 
 Nicaragua
 
-Rubén_Darío.jpg]]
+]]
 
 -   Rubén Darío (1867–1916)
 -   Azarías Pallais (1888–1954)
@@ -231,7 +229,7 @@ Puerto Rico
 
 Spain
 
-Federico_García_Lorca._Huerta_de_San_Vicente,_Granada.jpg.]]
+.]]
 
 -   Rafael Alberti (1902–1999)
 -   Juan Ruiz (c. 1283–c. 1350)

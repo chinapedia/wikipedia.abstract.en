@@ -1,1 +1,0 @@
-The 1967–68 season was CLYDEBANK'S second season in the Scottish Football League. They competed in the Scottish League Division Two where they finished 9th in the table, Scottish League Cup and Scottish Cup.

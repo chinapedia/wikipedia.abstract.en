@@ -1,6 +1,4 @@
-Exa_camera.jpg
-
-Contax-s.jpg, manufactured in Dresden, one of the two original pentaprism SLRs for eye-level viewing that went into production in 1949. The Italian Rectaflex offered its first production SLR, the series 1000, the same year.]]
+, manufactured in Dresden, one of the two original pentaprism SLRs for eye-level viewing that went into production in 1949. The Italian Rectaflex offered its first production SLR, the series 1000, the same year.]]
 
 A SINGLE-LENS REFLEX CAMERA (SLR) is a camera that typically uses a mirror and prism system (hence "reflex" from the mirror's reflection) that permits the photographer to view through the lens and see exactly what will be captured. With twin lens reflex and rangefinder cameras, the viewed image could be significantly different from the final image. When the shutter button is pressed on most SLRs, the mirror flips out of the light path, allowing light to pass through to the light receptor and the image to be captured.
 
@@ -69,7 +67,7 @@ The Minolta Maxxum 7000, released in 1985, was the first 35 mm SLR with integra
 
 Some manufacturers discarded their existing lens systems to compete with other manufacturer's autofocus capability in their new cameras. This was the case for Canon, with its new EOS lens line. Other manufacturers chose to adapt their existing lens systems for autofocus capability, as was the case with Nikon and Pentax. This allowed photographers to continue using their existing lenses, which greatly reduced the cost of upgrading. For example, almost all Nikon lenses from the 1960s and later still function on the current Nikon bodies, only lacking autofocus. Still some manufacturers, notably Leica with its R-system lenses, and Contax with its Zeiss lenses, decided to keep their lens mounts non-autofocus.
 
-CanonEOS100Viewfinder.JPG From the late 1980s competition and technical innovations made 35 mm camera systems more versatile and sophisticated by adding more advanced light metering capabilities such as spot-metering; limited area metering such as used by Canon with the F1 series; matrix metering as used by Nikon, exposure communication with dedicated electronic flash units. The user interface also changed on many cameras, replacing meter needle displays that were galvanometer-based and thereby fragile, with light-emitting diodes (LEDs) and then with more comprehensive liquid crystal displays (LCDs) both in the SLR viewfinder and externally on the cameras' top plate using an LCD screen. Wheels and buttons replaced the shutter dial on the camera and the aperture ring on the lens on many models, although some photographers still prefer shutter dials and aperture rings. Some manufacturers introduced image stabilization on certain lenses to combat camera shake and to allow longer hand-held exposures without using a tripod. This feature is especially useful with long telephoto lenses.
+From the late 1980s competition and technical innovations made 35 mm camera systems more versatile and sophisticated by adding more advanced light metering capabilities such as spot-metering; limited area metering such as used by Canon with the F1 series; matrix metering as used by Nikon, exposure communication with dedicated electronic flash units. The user interface also changed on many cameras, replacing meter needle displays that were galvanometer-based and thereby fragile, with light-emitting diodes (LEDs) and then with more comprehensive liquid crystal displays (LCDs) both in the SLR viewfinder and externally on the cameras' top plate using an LCD screen. Wheels and buttons replaced the shutter dial on the camera and the aperture ring on the lens on many models, although some photographers still prefer shutter dials and aperture rings. Some manufacturers introduced image stabilization on certain lenses to combat camera shake and to allow longer hand-held exposures without using a tripod. This feature is especially useful with long telephoto lenses.
 
 Digital SLRs
 
@@ -82,15 +80,13 @@ The digital single-lens reflex camera have largely replaced film SLR's design in
 
 Optical components
 
-R-DSC08774-WMC.jpg Cross-section view of SLR system: 1: Front-mount lens (four-element Tessar design) 2: Reflex mirror at 45-degree angle 3: Focal plane shutter 4: Film or sensor 5: Focusing screen 6: Condenser lens 7: Optical glass pentaprism (or pentamirror) 8: Eyepiece (can have diopter correction ability)
-
 A cross-section (_or_ 'side-view') of the optical components of a typical SLR camera shows how the light passes through the lens assembly (1), is reflected by the mirror (2) placed at a 45-degree angle, and is projected on the matte focusing screen (5). Via a condensing lens (6) and internal reflections in the roof pentaprism (7) the image appears in the eyepiece (8). When an image is taken, the mirror moves upwards from its resting position in the direction of the arrow, the focal plane shutter (3) opens, and the image is projected onto the film or sensor (4) in exactly the same manner as on the focusing screen.
 
 This feature distinguishes SLRs from other cameras as the photographer sees the image composed exactly as it will be captured on the film or sensor (see Advantages below).
 
 Pentaprisms and penta-mirrors
 
-SLR_Pentaprism.svg Most 35 mm SLRs use a roof pentaprism or penta-mirror to direct the light to the eyepiece, first used on the 1948 Duflex[8] constructed by Jenő Dulovits and patented August 1943 (Hungary). With this camera also appeared the first Instant-return mirror. The first Japanese pentaprism SLR was the 1955 Miranda T, followed by the Asahi Pentax, Minolta SR-2, Zunow, Nikon F and the Yashica Pentamatic. Some SLRs offered removable pentaprisms with optional viewfinder capabilities, such as the waist-level finder, the interchangeable sports finders used on the Canon F1 and F1n; the Nikon F, F2, F3, F4 and F5; and the Pentax LX.
+Most 35 mm SLRs use a roof pentaprism or penta-mirror to direct the light to the eyepiece, first used on the 1948 Duflex[8] constructed by Jenő Dulovits and patented August 1943 (Hungary). With this camera also appeared the first Instant-return mirror. The first Japanese pentaprism SLR was the 1955 Miranda T, followed by the Asahi Pentax, Minolta SR-2, Zunow, Nikon F and the Yashica Pentamatic. Some SLRs offered removable pentaprisms with optional viewfinder capabilities, such as the waist-level finder, the interchangeable sports finders used on the Canon F1 and F1n; the Nikon F, F2, F3, F4 and F5; and the Pentax LX.
 
 Another prism design was the porro prism system used in the Olympus Pen F, the Pen FT, the Pen FV half-frame 35 mm SLR cameras. This was later used on the Olympus EVOLT E-3x0 series, the Leica Digilux 3 and the Panasonic DMC-L1.
 
@@ -132,19 +128,19 @@ Some manufacturers of medium-format 120 film SLR cameras also made leaf-shutter 
 
 Further developments
 
-Reflex_camera_(description).svg Since the technology became widespread in the 1970s, SLRs have become the main photographic instrument used by dedicated amateur photographers and professionals. Some photographers of static subjects (such as architecture, landscape, and some commercial subjects), however, prefer view cameras because of the capability to control perspective.[9] With a triple-extension bellows 4" × 5" camera such as the Linhof SuperTechnika V, the photographer can correct certain distortions such as "keystoning", where the image 'lines' converge (i.e., photographing a building by pointing a typical camera upward to include the top of the building). Perspective correction lenses are available in the 35 mm and medium formats to correct this distortion with film cameras, and it can also be corrected after the fact with photo software when using digital cameras. The photographer can also extend the bellows to its full length, tilt the front standard and perform photomacrography (commonly known as 'macro photography'), producing a sharp image with depth-of-field without stopping down the lens diaphram.
+Since the technology became widespread in the 1970s, SLRs have become the main photographic instrument used by dedicated amateur photographers and professionals. Some photographers of static subjects (such as architecture, landscape, and some commercial subjects), however, prefer view cameras because of the capability to control perspective.[9] With a triple-extension bellows 4" × 5" camera such as the Linhof SuperTechnika V, the photographer can correct certain distortions such as "keystoning", where the image 'lines' converge (i.e., photographing a building by pointing a typical camera upward to include the top of the building). Perspective correction lenses are available in the 35 mm and medium formats to correct this distortion with film cameras, and it can also be corrected after the fact with photo software when using digital cameras. The photographer can also extend the bellows to its full length, tilt the front standard and perform photomacrography (commonly known as 'macro photography'), producing a sharp image with depth-of-field without stopping down the lens diaphram.
 
 
 Film formats
 
 Early SLRs were built for large format photography, but this film format has largely lost favor among professional photographers. SLR film-based cameras have been produced for most film formats as well as for digital formats. These film-based SLRs use the 35 mm format as, this film format offers a variety of emulsions and film sensitivity speeds, usable image quality and a good market cost. 35 mm film comes in a variety of exposure lengths: 20 exposure, 24 exposure and 36 exposure rolls. Medium format SLRs provide a higher-quality image with a negative that can be more easily retouched than the smaller 35 mm negative, when this capability is required.
 
-A small number of SLRs were built for APS such as the Canon IX series and the Nikon Pronea cameras. SLRs were also introduced for film formats as small as Kodak's 110, such as the Pentax Auto 110, which had interchangeable lenses. White_Narciss_camera.JPG The Narciss camera is an all-metal 16mm subminiature single lens reflex camera made by Russian optic firm Krasnogorsky Mekhanichesky Zavod (KMZ) Narciss (Soviet Union; Нарцисс) between 1961 and 1965.
+A small number of SLRs were built for APS such as the Canon IX series and the Nikon Pronea cameras. SLRs were also introduced for film formats as small as Kodak's 110, such as the Pentax Auto 110, which had interchangeable lenses. The Narciss camera is an all-metal 16mm subminiature single lens reflex camera made by Russian optic firm Krasnogorsky Mekhanichesky Zavod (KMZ) Narciss (Soviet Union; Нарцисс) between 1961 and 1965.
 
 
 Common features
 
-Cut-away_Minotla_SLR_IMG_0378.jpg film-based SLR]] Cut-away_Minotla_SLR_IMG_0377.jpg
+film-based SLR]]
 
 Other features found on many SLR cameras include through-the-lens (TTL) metering and sophisticated flash control referred to as "dedicated electronic flash". In a dedicated system, once the dedicated electronic flash is inserted into the camera's hot shoe and turned on, there is then communication between camera and flash. The camera's synchronization speed is set, along with the aperture. Many camera models measure the light that reflects off of the film plane, which controls the flash duration of the electronic flash. This is denoted TTL flash metering.
 
@@ -163,8 +159,6 @@ The variety of lenses also allows for the camera to be used and adapted in many 
 Disadvantages
 
 In most cases, single-lens reflex cameras cannot be made as small or as light as other camera designs—such as rangefinder cameras, autofocus compact cameras and digital cameras with electronic viewfinders (EVF)—owing to the mirror box and pentaprism/pentamirror. The mirror box also prevents lenses with deeply recessed rear elements from being mounted close to the film or sensor unless the camera has a mirror lockup feature; this means that simple designs for wide angle lenses cannot be used. Instead, larger and more complex retrofocus designs are required.
-
-Pentax_super_me_open_back.gif
 
 The SLR mirror 'blacks-out' the viewfinder image during the exposure. In addition, the movement of the reflex mirror takes time, limiting the maximum shooting speed. The mirror system can also cause noise and vibration. Partially reflective (pellicle) fixed mirrors avoid these problems and have been used in a very few designs including the Canon Pellix and the Canon EOS-1N RS, but these designs introduce their own problems. These pellicle mirrors reduce the amount of light travelling to the film plane or sensor and also can distort the light passing through them, resulting in a less-sharp image. To avoid the noise and vibration, many professional cameras offer a mirror lock-up feature, however, this feature totally disables the SLR's automatic focusing ability. Electronic viewfinders have the potential to give the 'viewing-experience' of a DSLR (through-the-lens viewing) without many of the disadvantages. More recently, Sony have resurrected the pellicle mirror concept in their "single-lens translucent" (SLT) range of cameras.
 

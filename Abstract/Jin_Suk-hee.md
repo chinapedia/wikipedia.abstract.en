@@ -1,1 +1,0 @@
-'''Jin Suk-hee ''' (born 9 July 1978) is a South Korean women's international footballer who plays as a defender. She is a member of the South Korea women's national football team. She was part of the team at the 2003 FIFA Women's World Cup. On club level she plays for INI Steel in South Korea.[1]

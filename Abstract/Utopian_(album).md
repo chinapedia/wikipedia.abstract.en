@@ -1,1 +1,0 @@
-_UTOPIAN_ is the debut studio album recorded by Canadian singer and songwriter Virginia to Vegas, released through Wax Records on December 2, 2016. It includes the Platinum-certified single, "We Are Stars", and the top-10 pop radio hit, "Lights Out".

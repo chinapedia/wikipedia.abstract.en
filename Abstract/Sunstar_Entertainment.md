@@ -1,1 +1,0 @@
-SUNSTAR ENTERTAINMENT is an independent film production and talent management company,[1] founded in 2011 by Andrew Fraser and Shahen Mekertichian. Sunstar Entertainment operates out of Sydney, Australia. The company has a heavy focus on producing films and television shows based on true Australian stories, including the 2016 film Lion, directed by Garth Davis.[2]

@@ -1,1 +1,0 @@
-The inaugural TEES VALLEY MAYORAL ELECTION was held on 4 May 2017 to elect the mayor of the Tees Valley Combined Authority. The mayor was elected by the supplementary vote system. Subsequent elections will be held in May 2020 and every four years after.[1][2]

@@ -1,1 +1,0 @@
-WILLIAM LEON "BILL" BEHR (July 7, 1919 – August 6, 1997) was an American professional basketball player.[1][2] He played in the National Basketball League for the Hammond Ciesar All-Americans in 1940–41 and averaged 3.5 points per game.[3]

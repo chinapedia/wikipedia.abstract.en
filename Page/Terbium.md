@@ -68,7 +68,7 @@ Thereafter, whenever other rare earths were teased apart from this mixture, whic
 
 Occurrence
 
-Xenotim_mineralogisches_museum_bonn.jpg Terbium is contained along with other rare earth elements in many minerals, including monazite ((Ce,La,Th,Nd,Y)PO₄ with up to 0.03% terbium), xenotime (YPO₄) and euxenite ((Y,Ca,Er,La,Ce,U,Th)(Nb,Ta,Ti)₂O₆ with 1% or more terbium). The crust abundance of terbium is estimated as 1.2 mg/kg.[22] No terbium-dominant mineral has yet been found.[23]
+Terbium is contained along with other rare earth elements in many minerals, including monazite ((Ce,La,Th,Nd,Y)PO₄ with up to 0.03% terbium), xenotime (YPO₄) and euxenite ((Y,Ca,Er,La,Ce,U,Th)(Nb,Ta,Ti)₂O₆ with 1% or more terbium). The crust abundance of terbium is estimated as 1.2 mg/kg.[22] No terbium-dominant mineral has yet been found.[23]
 
 Currently, the richest commercial sources of terbium are the ion-adsorption clays of southern China; the concentrates with about two-thirds yttrium oxide by weight have about 1% terbia. Small amounts of terbium occur in bastnäsite and monazite; when these are processed by solvent extraction to recover the valuable heavy lanthanides as samarium-europium-gadolinium concentrate, terbium is recovered therein. Due to the large volumes of bastnäsite processed relative to the ion-adsorption clays, a significant proportion of the world's terbium supply comes from bastnäsite.[24]
 

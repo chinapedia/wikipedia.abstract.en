@@ -23,7 +23,7 @@ Scurvy is one of the accompanying diseases of malnutrition (other such micronutr
 
 Pathogenesis
 
-ASM-30-325-g003.jpg Vitamins are essential to the production and use of enzymes that are involved in ongoing processes throughout the human body.[36] Ascorbic acid is needed for a variety of biosynthetic pathways, by accelerating hydroxylation and amidation reactions. In the synthesis of collagen, ascorbic acid is required as a cofactor for prolyl hydroxylase and lysyl hydroxylase. These two enzymes are responsible for the hydroxylation of the proline and lysine amino acids in collagen. Hydroxyproline and hydroxylysine are important for stabilizing collagen by cross-linking the propeptides in collagen.
+Vitamins are essential to the production and use of enzymes that are involved in ongoing processes throughout the human body.[36] Ascorbic acid is needed for a variety of biosynthetic pathways, by accelerating hydroxylation and amidation reactions. In the synthesis of collagen, ascorbic acid is required as a cofactor for prolyl hydroxylase and lysyl hydroxylase. These two enzymes are responsible for the hydroxylation of the proline and lysine amino acids in collagen. Hydroxyproline and hydroxylysine are important for stabilizing collagen by cross-linking the propeptides in collagen.
 
 Collagen is a primary structural protein in the human body, necessary for healthy blood vessels, muscle, skin, bone, cartilage, and other connective tissues. Defective connective tissue leads to fragile capillaries, resulting in abnormal bleeding, bruising, and internal hemorrhaging. Collagen is an important part of bone, so bone formation is also affected. Teeth loosen, bones break more easily, and once-healed breaks may recur.[37] Defective collagen fibrillogenesis impairs wound healing. Untreated scurvy is invariably fatal.[38]
 
@@ -122,7 +122,7 @@ Even on dry land, in Europe, until the late middle ages, scurvy was common in la
 
 18th century
 
-JamesLind.jpg, a pioneer in the field of scurvy prevention]]
+, a pioneer in the field of scurvy prevention]]
 
 A 1707 handwritten book by Mrs. Ebot Mitchell, discovered in a house in Hasfield, Gloucestershire, contains a "Recp.t for the Scurvy" that consisted of extracts from various plants mixed with a plentiful supply of orange juice, white wine or beer.[66]
 
@@ -150,7 +150,7 @@ It took a few years before the method of distribution to all ships in the fleet 
 
 19th century
 
-A_case_of_Scurvy_journal_of_Henry_Walsh_Mahon.jpg showing the effects of scurvy, from his time aboard HM Convict Ship _Barrosa_ (1841/2)]]
+showing the effects of scurvy, from his time aboard HM Convict Ship _Barrosa_ (1841/2)]]
 
 The surgeon-in-chief of Napoleon's army at the Siege of Alexandria (1801), Baron Dominique-Jean Larrey, wrote in his memoirs that the consumption of horse meat helped the French to curb an epidemic of scurvy. The meat was cooked but was freshly obtained from young horses bought from Arabs, and was nevertheless effective. This helped to start the 19th-century tradition of horse meat consumption in France.[90]
 

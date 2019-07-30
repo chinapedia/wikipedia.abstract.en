@@ -1,1 +1,0 @@
-Cambodia_Topography.png

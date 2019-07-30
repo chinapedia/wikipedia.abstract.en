@@ -1,1 +1,0 @@
-COY is an unincorporated community in western McDonald County, in the U.S. state of Missouri.[1] The community is located about mid-way between Anderson and Tiff City along the south side of the Patterson Creek valley. Missouri Route 76 passes about three-quarters of a mile to the south.[2]

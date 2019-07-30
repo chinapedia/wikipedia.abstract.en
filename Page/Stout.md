@@ -1,4 +1,4 @@
-Guinness_7686a.jpg, an Irish dry stout]]
+, an Irish dry stout]]
 
 STOUT is a dark beer. There are a number of variations, including Baltic porter, milk stout, and imperial stout; but the most common variation is dry stout, as exemplified by Guinness Draught, the world's best-selling stout. Stout is a top-fermented beer.
 
@@ -34,7 +34,7 @@ It is widely reported that, in the period just after the Second World War when r
 
 Dry or Irish stout
 
-Guinness_Extra_Stout_and_Guinness_Draught.jpg With milk or sweet stout becoming the dominant stout in the UK in the early 20th century, it was mainly in Ireland that the non-sweet or standard stout was being made. As standard stout has a dryer taste than the English and American sweet stouts, they came to be called _dry stout_ or _Irish stout_ to differentiate them from stouts with added lactose or oatmeal.[22][23][24] Though still sometimes termed Irish or dry stout, particularly if made in Ireland, this is the standard stout sold and would normally just be termed "stout".[25] The best selling stout is Guinness Draught, made by Diageo at St. James's Gate Brewery (also known as the Guinness Brewery) in Dublin;[26] it serves as the template for most modern stouts, including variations on Guinness Extra Stout, which tend to be around 5% ABV, and Guinness Foreign Extra Stout, which tend to be around 7.5% ABV.[27]
+With milk or sweet stout becoming the dominant stout in the UK in the early 20th century, it was mainly in Ireland that the non-sweet or standard stout was being made. As standard stout has a dryer taste than the English and American sweet stouts, they came to be called _dry stout_ or _Irish stout_ to differentiate them from stouts with added lactose or oatmeal.[22][23][24] Though still sometimes termed Irish or dry stout, particularly if made in Ireland, this is the standard stout sold and would normally just be termed "stout".[25] The best selling stout is Guinness Draught, made by Diageo at St. James's Gate Brewery (also known as the Guinness Brewery) in Dublin;[26] it serves as the template for most modern stouts, including variations on Guinness Extra Stout, which tend to be around 5% ABV, and Guinness Foreign Extra Stout, which tend to be around 7.5% ABV.[27]
 
 Porter
 
@@ -42,7 +42,7 @@ While there is a great deal of disagreement in the brewing world on this subject
 
 Oatmeal stout
 
-SamuelSmithsOatmealStout.jpg _Oatmeal stout_ is a stout with a proportion of oats, normally a maximum of 30%, added during the brewing process. Even though a larger proportion of oats in beer can lead to a bitter or astringent taste,[30] during the medieval period in Europe, oats were a common ingredient in ale,[31] and proportions up to 35% were standard. Despite some areas of Europe, such as Norway, still clinging to the use of oats in brewing until the early part of the 20th century, the practice had largely died out by the 16th century, so much so that in 1513 Tudor sailors refused to drink oat beer offered to them because of the bitter flavour.[32][33]
+_Oatmeal stout_ is a stout with a proportion of oats, normally a maximum of 30%, added during the brewing process. Even though a larger proportion of oats in beer can lead to a bitter or astringent taste,[30] during the medieval period in Europe, oats were a common ingredient in ale,[31] and proportions up to 35% were standard. Despite some areas of Europe, such as Norway, still clinging to the use of oats in brewing until the early part of the 20th century, the practice had largely died out by the 16th century, so much so that in 1513 Tudor sailors refused to drink oat beer offered to them because of the bitter flavour.[32][33]
 
 There was a revival of interest in using oats during the end of the 19th century, when (supposedly) restorative, nourishing and invalid beers, such as the later milk stout, were popular, because of the association of porridge with health.[34] Maclay of Alloa produced an Original Oatmalt Stout in 1895 which used 70% "oatmalt", and a 63/- Oatmeal Stout in 1909, which used 30% "flaked (porridge) oats".[35]
 
@@ -70,7 +70,7 @@ _Imperial stout_, also known as _Russian imperial stout_ or _imperial Russian st
 
 Baltic porter
 
-Porter_zywiec.jpg A version of Imperial Stout which originated in the Baltic region. Imperial Stouts exported from Britain in the 18th century were popular in the Baltic region, and were recreated locally using local ingredients and brewing traditions.[49] In the Baltic countries, it is always a cool fermented beer and having a minimum of 18 degrees plato. It has a high alcohol content, even over 10% abv. Baltic Porter is a specialty of many Polish breweries. {{-}}
+A version of Imperial Stout which originated in the Baltic region. Imperial Stouts exported from Britain in the 18th century were popular in the Baltic region, and were recreated locally using local ingredients and brewing traditions.[49] In the Baltic countries, it is always a cool fermented beer and having a minimum of 18 degrees plato. It has a high alcohol content, even over 10% abv. Baltic Porter is a specialty of many Polish breweries. {{-}}
 
 
 References

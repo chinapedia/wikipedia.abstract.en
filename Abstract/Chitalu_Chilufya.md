@@ -1,1 +1,0 @@
-'''Chitalu Chilufya ''' (born 15 July 1972) is a Zambian physician and politician. He is currently Member of the Member of the National Assembly for Mansa Central and Minister of Health since August 2016.

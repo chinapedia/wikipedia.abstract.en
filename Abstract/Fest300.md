@@ -1,1 +1,0 @@
-FEST300 is a San Francisco-based company that produces an online festival magazine and annual list of the 300 best festivals in the world, curated by Chip Conley (Airbnb, Joie de Vivre Hotels) and team.[1] Fest300 members pledge to attend at least one festival per year.[2]

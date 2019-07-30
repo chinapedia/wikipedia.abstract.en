@@ -1,1 +1,0 @@
-PETER EDWARD COOK (17 November 1937 – 9 January 1995) was an English satirist and comedic actor. He was a leading figure of the British satire boom of the 1960s, and associated with the Anti-Establishment comedic movement that emerged in the United Kingdom in the late 1950s.

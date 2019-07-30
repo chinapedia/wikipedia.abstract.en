@@ -1,1 +1,0 @@
-RADKA FIŠAROVÁ (born 19 December 1977) is a Czech singer. In 2002, she performed the title role in the famous Czech musical, Kleopatra, at Prague's Broadway Theatre.[1] She performed the Czech language versions of the songs in the 2012 Disney film _Brave_ soundtrack.

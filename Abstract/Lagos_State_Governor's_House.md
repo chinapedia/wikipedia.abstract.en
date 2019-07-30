@@ -1,1 +1,0 @@
-Lagos_House,_Ikeja.jpg LAGOS STATE HOUSE, is the official residence of the Governor of Lagos State. Lagos State has two Governor's residences, one at Marina in Lagos Island and another at Ikeja on the Mainland.[1] Both residences are used for official and residential purposes.

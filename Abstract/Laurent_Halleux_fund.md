@@ -1,1 +1,0 @@
-The LAURENT HALLEUX COLLECTION is the donation, to the library of the Royal Conservatory of Brussels, of printed scores and manuscripts from the Belgian violinist Laurent Halleux (1897–1964), by his daughter, Suzanne Keller-Halleux.

@@ -1,1 +1,0 @@
-HOWARD WINCHESTER HAWKS (May 30, 1896December 26, 1977) was an American film director, producer and screenwriter of the classic Hollywood era. Critic Leonard Maltin called him "the greatest American director who is not a household name."

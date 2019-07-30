@@ -1,1 +1,0 @@
-The _' direct examination_' or EXAMINATION-IN-CHIEF is one stage in the process of adducing evidence from witnesses in a court of law. Direct examination is the questioning of a witness by the party who called him or her, in a trial. Direct examination is usually performed to elicit evidence in support of facts which will satisfy a required element of a party's claim or defense.

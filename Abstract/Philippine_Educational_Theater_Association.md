@@ -1,1 +1,0 @@
-The PHILIPPINE EDUCATIONAL THEATER ASSOCIATION (PETA) is a theatrical association of artists and educators. It is the UNESCO-International Theater Institute Center in the Philippines. It is a non-profit, non-stock, non-governmental, and a registered donee institution.[1] It was awarded the Ramon Magsaysay Award in 2017.[2]

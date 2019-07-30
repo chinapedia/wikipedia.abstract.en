@@ -1,1 +1,0 @@
-_808_ is a 2015 American documentary film directed by Alexander Dunn, written by Dunn and Luke Bainbridge, and produced by Alex Noyer, Dunn, Craig Kallman and Arthur Baker. It is narrated by Zane Lowe and documents the history and culture of the Roland TR-808, a drum machine that had a significant effect on hip hop and pop music.

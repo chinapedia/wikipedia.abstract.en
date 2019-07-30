@@ -1,1 +1,0 @@
-Sir_Paul_Whichcote,_2nd_Baronet_arms.jpg Quy_Hall,_Cambridgeshire-geograph.org.uk-2298625.jpg SIR PAUL WHICHCOTE, 2ND BARONET (1643–1721), was a fellow of the Royal Society and the owner of the Manor of Totteridge in Hertfordshire.

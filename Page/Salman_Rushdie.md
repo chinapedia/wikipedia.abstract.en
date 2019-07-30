@@ -32,7 +32,7 @@ His most controversial work, _The Satanic Verses_, was published in 1988 (see se
 
 In addition to books, Rushdie has published many short stories, including those collected in _East, West_ (1994). _The Moor's Last Sigh_, a family epic ranging over some 100 years of India's history was published in 1995. _The Ground Beneath Her Feet_ (1999) presents an alternative history of modern rock music. The song of the same name by U2 is one of many song lyrics included in the book; hence Rushdie is credited as the lyricist. He also wrote _Haroun and the Sea of Stories_ in 1990.[20]
 
-Salman-Rushdie-1.jpg'']]
+'']]
 
 Rushdie has had a string of commercially successful and critically acclaimed novels. His 2005 novel _Shalimar the Clown_ received, in India, the prestigious Hutch Crossword Book Award, and was, in the UK, a finalist for the Whitbread Book Awards. It was shortlisted for the 2007 International Dublin Literary Award.[21]
 
@@ -50,7 +50,7 @@ Rushdie has mentored younger Indian (and ethnic-Indian) writers, influenced an e
 
 He opposed the British government's introduction of the Racial and Religious Hatred Act, something he writes about in his contribution to _Free Expression Is No Offence_, a collection of essays by several writers, published by Penguin in November 2005.
 
-Sir_Ahmed_Salman_Rushdie.jpg students]]
+students]]
 
 In 2007 he began a five-year term as Distinguished Writer in Residence at Emory University in Atlanta, Georgia, where he has also deposited his archives.[27]
 
@@ -64,7 +64,7 @@ Rushdie includes fictional television and movie characters in some of his writin
 
 Rushdie collaborated on the screenplay for the cinematic adaptation of his novel _Midnight's Children_ with director Deepa Mehta. The film was also called _Midnight's Children_.[31][32] Seema Biswas, Shabana Azmi, Nandita Das,[33] and Irrfan Khan participated in the film.[34] Production began in September 2010;[35] the film was released in 2012.[36]
 
-9.21.14WritersLifePanelByLuigiNovi18.jpg and Siri Hustvedt at the 2014 Brooklyn Book Festival]] Rushdie announced in June 2011 that he had written the first draft of a script for a new television series for the US cable network Showtime, a project on which he will also serve as an executive producer. The new series, to be called _The Next People_, will be, according to Rushdie, "a sort of paranoid science-fiction series, people disappearing and being replaced by other people." The idea of a television series was suggested by his US agents, said Rushdie, who felt that television would allow him more creative control than feature film. _The Next People_ is being made by the British film production company Working Title, the firm behind such projects as _Four Weddings and a Funeral_ and _Shaun of the Dead_.[37]
+and Siri Hustvedt at the 2014 Brooklyn Book Festival]] Rushdie announced in June 2011 that he had written the first draft of a script for a new television series for the US cable network Showtime, a project on which he will also serve as an executive producer. The new series, to be called _The Next People_, will be, according to Rushdie, "a sort of paranoid science-fiction series, people disappearing and being replaced by other people." The idea of a television series was suggested by his US agents, said Rushdie, who felt that television would allow him more creative control than feature film. _The Next People_ is being made by the British film production company Working Title, the firm behind such projects as _Four Weddings and a Funeral_ and _Shaun of the Dead_.[37]
 
 Rushdie is a member of the advisory board of The Lunchbox Fund,[38] a non-profit organisation which provides daily meals to students of township schools in Soweto of South Africa. He is also a member of the advisory board of the Secular Coalition for America,[39] an advocacy group representing the interests of atheistic and humanistic Americans in Washington, D.C., and a patron of Humanists UK (formerly the British Humanist Association). He is also a Laureate of the International Academy of Humanism.[40] In November 2010 he became a founding patron of Ralston College, a new liberal arts college that has adopted as its motto a Latin translation of a phrase ("free speech is life itself") from an address he gave at Columbia University in 1991 to mark the two-hundredth anniversary of the first amendment to the US Constitution.[41]
 
@@ -149,11 +149,11 @@ In the 1980s in the United Kingdom, he was a supporter of the Labour Party and c
 
 Rushdie supported the 1999 NATO bombing of the Federal Republic of Yugoslavia, leading the leftist Tariq Ali to label Rushdie and other "warrior writers" as "the belligerati'".[105] He was supportive of the US-led campaign to remove the Taliban in Afghanistan, which began in 2001, but was a vocal critic of the 2003 war in Iraq. He has stated that while there was a "case to be made for the removal of Saddam Hussein", US unilateral military intervention was unjustifiable.[106]
 
-Paul_Auster,_Salman_Rushdie_and_Shimon_Peres.jpg and Rushdie greeting Israeli President Shimon Peres with Caro Llewelyn in 2008.]]
+and Rushdie greeting Israeli President Shimon Peres with Caro Llewelyn in 2008.]]
 
 In the wake of the _Jyllands-Posten_ Muhammad cartoons controversy in March 2006—which many considered an echo of the death threats and _fatwā_ that followed publication of _The Satanic Verses_ in 1989—Rushdie signed the manifesto _Together Facing the New Totalitarianism_, a statement warning of the dangers of religious extremism. The Manifesto was published in the left-leaning French weekly _Charlie Hebdo_ in March 2006.[107]
 
-Bernie_Sanders_and_Salman_Rushdie.jpg in 2004]] In 2006, Rushdie stated that he supported comments by the then-Leader of the House of Commons Jack Straw, who criticised the wearing of the niqab (a veil that covers all of the face except the eyes). Rushdie stated that his three sisters would never wear the veil. He said, "I think the battle against the veil has been a long and continuing battle against the limitation of women, so in that sense I'm completely on Straw's side."[108]
+in 2004]] In 2006, Rushdie stated that he supported comments by the then-Leader of the House of Commons Jack Straw, who criticised the wearing of the niqab (a veil that covers all of the face except the eyes). Rushdie stated that his three sisters would never wear the veil. He said, "I think the battle against the veil has been a long and continuing battle against the limitation of women, so in that sense I'm completely on Straw's side."[108]
 
 Marxist critic Terry Eagleton, a former admirer of Rushdie's work, attacked him, saying he "cheered on the Pentagon's criminal ventures in Iraq and Afghanistan".[109] Eagleton subsequently apologised for having misrepresented Rushdie's views.[110]
 

@@ -1,1 +1,0 @@
-The OUR LADY OF REMEDIES CATHEDRAL[1] () Also RIOHACHA CATHEDRAL Is a temple of the Catholic Church consecrated to the Virgin of the Remedies.[2] It is the headquarters of the Diocese of Riohacha and therefore, seat of the titular Bishop.

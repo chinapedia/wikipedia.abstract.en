@@ -1,1 +1,0 @@
-Adolf_Hitler_Berghof-1936.jpg The HISTORIOGRAPHY OF ADOLF HITLER deals with the academic studies of Adolf Hitler from the 1930s to the present. In 1998, a German editor said there were 120,000 studies of Hitler and Nazi Germany. Since then a large number more have appeared, with many of them decisively shaping the historiography regarding Hitler.[1]

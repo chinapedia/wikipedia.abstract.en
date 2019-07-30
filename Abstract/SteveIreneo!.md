@@ -1,1 +1,0 @@
-_STEVEIRENEO!_ is an album by vocalist Irene Kral performing songs written by Steve Allen with Al Cohn's Orchestra which was recorded in 1959 and originally released on the United Artists label.[1][2][3]

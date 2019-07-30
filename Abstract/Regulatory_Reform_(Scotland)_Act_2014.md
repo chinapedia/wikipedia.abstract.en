@@ -1,1 +1,0 @@
-The REGULATORY REFORM (SCOTLAND) ACT 2014 is an Act of the Scottish Parliament, introduced to the legislature in 2013, and became law after receiving Royal Assent on 19 February 2014. It sought to improve the regulation of businesses requiring certain environmental permits within Scotland whilst strengthening existing protections of the environment.

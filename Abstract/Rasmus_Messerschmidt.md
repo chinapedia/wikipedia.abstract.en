@@ -1,1 +1,0 @@
-RASMUS MESSERSCHMIDT (born 9 June 1992) is a Danish badminton player.[1] Messerschmidt also plays for the Bornholm team, and in 2018 he won his first senior international title at the Portugal International.[2]

@@ -1,1 +1,0 @@
-_LIEUTENANT DARING_ was the name of a series of silent films made by British and Colonial Films featuring a fictional British Royal Navy lieutenant of that name. The films were made at Newstead House in Strawberry Vale, East Finchley, London, and on location.[1]

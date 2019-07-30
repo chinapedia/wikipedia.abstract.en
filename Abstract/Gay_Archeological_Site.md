@@ -1,1 +1,0 @@
-GAY ARCHEOLOGICAL SITE is a historic archaeological site located at Osage City, Cole County, Missouri. The Gay Archaeological Site contains examples of Late Woodland period mound and fortification groupings.[1]

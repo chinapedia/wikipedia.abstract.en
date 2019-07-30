@@ -1,1 +1,0 @@
-In chemistry, a CARBONATE is a salt of carbonic acid (H₂CO₃),[1] characterized by the presence of the CARBONATE ION, a polyatomic ion with the formula of . The name may also refer to a carbonate ester, an organic compound containing the CARBONATE GROUP C(=O)(O–)₂.

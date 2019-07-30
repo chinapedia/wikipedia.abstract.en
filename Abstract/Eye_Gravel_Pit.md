@@ -1,1 +1,0 @@
-EYE GRAVEL PIT is a 0.4 hectare geological Site of Special Scientific Interest in Eye Green in Cambridgeshire.[1][2] It is a Geological Conservation Review site,[3] and part of it overlaps Eye Green Local Nature Reserve.[4]

@@ -1,1 +1,0 @@
-PETER ASBECK is an American engineer, currently the Skyworks Professor in High Performance Communications Devices and Circuits at the University of California, San Diego Jacobs School of Engineering,[1] and a publisher author.[2][3] He is a member of the National Academy of Engineering.[4] He is a power amplifier expert.

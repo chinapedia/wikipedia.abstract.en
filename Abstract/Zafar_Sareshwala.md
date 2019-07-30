@@ -1,1 +1,0 @@
-Zafar_Sareshwala.jpg

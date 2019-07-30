@@ -1,1 +1,0 @@
-PARSIJOO (Persian: پارسی‌جو) is an independent knowledge-base Internet company, operating as a search engine for the Persian language. As of 2016, Parsijoo had 600,000 hits and 120,000 searches per day.[1] Parsijoo is Iran's second most visited search engine after Google.[2]

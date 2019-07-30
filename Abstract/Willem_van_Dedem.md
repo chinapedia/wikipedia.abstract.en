@@ -1,1 +1,0 @@
-BARON WILLEM VAN DEDEM, also styled as WILLEM, BARON VAN DEDEM, (1929–2015) was a Dutch businessman, art collector, art historian and philanthropist.[1][2] He donated artworks to the National Gallery in London, the Rijksmuseum and the Mauritshuis.[3]

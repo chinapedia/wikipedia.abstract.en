@@ -1,1 +1,0 @@
-Colonel JOHN DOMINIS KAUIKEAOULI HOLT II[1] (March 17, 1861 – December 23, 1916) was an official holding the rank of major and colonel during the Kingdom of Hawaii. After the American annexation of Hawaii, he became an early member of the Democratic Party of Hawaii.

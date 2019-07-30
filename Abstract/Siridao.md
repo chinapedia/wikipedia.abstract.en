@@ -1,1 +1,0 @@
-SIRIDAO is a small village located in Tiswadi, a taluka of North Goa district in Goa, India.[1][2] At the entrance of the village, one can see three stone carved statues playing musical instruments with a dog. Here is preserved the testimony of a huge man like creature who once inhabited the place and who was locally nicknamed 'Paulist'.

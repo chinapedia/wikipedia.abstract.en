@@ -1,1 +1,0 @@
-JOACHIM ULRIC VOYER, was born on July 5, 1892 in Saint-Roch, Quebec City (province of Quebec)[1] and died on January 8, 1935, at the age of 42, in the same city.[2] He was a Canadian opera composer, whose opera L'Intendant Bigot, created in Montreal on February 5 and 7, 1929, is considered to be one of the first Canadian operas.[3]

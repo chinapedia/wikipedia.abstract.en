@@ -1,1 +1,0 @@
-"HEARTS STILL BEATING" is the eighth episode and mid-season finale of the seventh season of the post-apocalyptic horror television series _The Walking Dead_, which aired on AMC on December 11, 2016. The episode was written by Matthew Negrate and Channing Powell, and directed by Michael E. Satrazemis.

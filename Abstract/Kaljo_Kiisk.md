@@ -1,1 +1,0 @@
-KALJO KIISK (3 December 1925 – 20 September 2007) was an Estonian actor, film director and politician. He was best known for his roles as Kristjan Lible from _Spring_ (), _Summer_ (_Suvi_) and _Autumn_ (_Sügis_), film adaptations of Oskar Luts' novels, and as Johannes Saarepera from ETV's long-running _Õnne 13_. His career spanned over half a century from 1953 to 2007.[1][2]

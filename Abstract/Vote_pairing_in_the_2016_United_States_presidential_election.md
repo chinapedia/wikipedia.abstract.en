@@ -1,1 +1,0 @@
-VOTE PAIRING IN THE 2016 UNITED STATES PRESIDENTIAL ELECTION refers to vote pairing that occurred between United States citizens domiciled in different states during the 2016 United States presidential election.

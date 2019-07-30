@@ -1,1 +1,0 @@
-ENTERTAINMENT CITY LIMITED is a joint venture between Unitech Group [1] and International Amusement Limited [2] (IAL) that owns and operates the Entertainment City in Noida. Entertainment City was incorporated on 7 February 2002 to acquire, purchase, develop and operate amusement parks and entertainment centres, malls and commercial complexes.

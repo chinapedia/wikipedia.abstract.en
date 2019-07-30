@@ -1,1 +1,0 @@
-The BRASSWARE INDUSTRY IN BANGLADESH is considered as a cottage industry and artisans with high workmanship make brass crafts by hand. The brassware of Bangladesh has good reputation in international market for uniqueness. Brass_Jar.jpg

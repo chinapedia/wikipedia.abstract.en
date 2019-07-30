@@ -1,1 +1,0 @@
-CHAK-I WARDAK () or simply CHAK () is a city along the Logar River (locally called "Chak River") in Maidan Wardak Province, central Afghanistan. It is the administrative center of Chaki Wardak District. The Chaki Wardak Dam is located nearby.

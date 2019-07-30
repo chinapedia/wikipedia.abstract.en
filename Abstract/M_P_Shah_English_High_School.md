@@ -1,1 +1,0 @@
-M. P. SHAH ENGLISH HIGH SCHOOL is a private, co-educational English Medium High School in Vile Parle, Mumbai recognized by the Government of Maharashtra. The school follows the Secondary School Certificate(SSC) State board syllabus.

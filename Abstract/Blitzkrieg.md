@@ -1,1 +1,0 @@
-Bundesarchiv_Bild_101I-218-0504-36,_Russland-Süd,_Panzer_III,_Schützenpanzer,_23.Pz.Div._(cropped).jpg and mechanised infantry advancing through Ukraine, June 1942, typifying fast-moving combined arms forces of classic _Blitzkrieg_]]

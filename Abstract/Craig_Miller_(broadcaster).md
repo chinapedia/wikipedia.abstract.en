@@ -1,1 +1,0 @@
-CRAIG "JUNIOR" MILLER (born December 20, 1965) in Amarillo, Texas) is an American radio personality and member of the _Dunham and Miller Show_, heard 5:30-10:00 AM on sports radio KTCK 1310 AM [1] in Dallas, Texas. Miller co-hosts the show with long-time friend and college roommate George Dunham, alongside Gordon Keith.

@@ -1,1 +1,0 @@
-The BAHRAIN DEVELOPMENT BANK (BDB) (Arabic: بنك البحرين للتنمية) is a development finance institution established to by the Government of Bahrain to promote investments in the country.[1] BDB is registered with the Ministry of Industry and Commerce and licensed by the Central Bank of Bahrain as a conventional retail bank.[2]

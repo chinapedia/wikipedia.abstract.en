@@ -4,8 +4,6 @@ Tourism has grown to become a very important part of the economy. In 1993, touri
 
 St. Vincent and the Grenadines is a beneficiary of the U.S. Caribbean Basin Initiative. The country belongs to the Caribbean Community (CARICOM), which has signed a framework agreement with the United States to promote trade and investment in the region.
 
-St_Vincent_2012_Export_MIT_Tree.png
-
 
 Macroeconomic statistics
 

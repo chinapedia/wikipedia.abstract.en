@@ -1,1 +1,0 @@
-Fotothek_df_pk_0000165_012.jpg

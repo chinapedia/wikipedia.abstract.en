@@ -1,1 +1,0 @@
-The MARRITHIYAL, also written _Marithiel,_ are an indigenous Australian people whose traditional territory lay 30 to 50 miles south of the Daly River in the Northern Territory. They were sometimes known derogatively as _Berringen_(Berinken/Brinken), a term used by the Mulluk-Mulluk to refer to 'aliens'/strangers'.

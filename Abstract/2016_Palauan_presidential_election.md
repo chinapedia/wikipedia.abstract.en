@@ -1,1 +1,0 @@
-The 2016 PRESIDENTIAL ELECTION in Palau was held on November 1, 2016, in conjunction with the 2016 Palauan general election. Incumbent President Tommy Remengesau, seeking re-election, faced a competitive challenger from his brother-in-law, Surangel Whipps Jr.[1] Remengesau and Whipps emerged as the presidential nominees following the primary election on September 27, 2016.[2]

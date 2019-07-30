@@ -1,1 +1,0 @@
-The MASTER OF THE CODEX OF SAINT GEORGE (active circa 1320-1330) is an unknown painter, named after one volume of an illuminated missal, which, in addition to the liturgical texts, also contains a Vita of St. George.

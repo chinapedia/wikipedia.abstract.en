@@ -1,1 +1,0 @@
-The RIO CURIAÚ ENVIRONMENTAL PROTECTION AREA () is an environmental protection area in the state of Amapá, Brazil. It attempts to protect the environment of a region of forest and flooded fields close to the state capital, Macapá, and also to preserve the values and culture of the traditional population, which is of African descent. It is threatened by urban expansion.

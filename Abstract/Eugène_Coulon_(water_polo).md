@@ -1,1 +1,0 @@
-EUGÈNE COULON (born 1878, date of death unknown) was a French male water polo player. He was a member of the Pupilles de Neptune de Lille water polo team. He won with the team the bronze medal at the 1900 Summer Olympics.[1]

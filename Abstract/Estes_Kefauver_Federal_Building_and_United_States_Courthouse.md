@@ -1,1 +1,0 @@
-The ESTES KEFAUVER FEDERAL BUILDING & COURTHOUSE ANNEX is a Federal office building and a courthouse of the United States District Court for the Middle District of Tennessee built in Nashville, Tennessee in 1952.[1]

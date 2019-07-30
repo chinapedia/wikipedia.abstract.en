@@ -1,1 +1,0 @@
-_WEN YI BAO_ 文艺报 ("Literature and Art Newspaper") is a Chinese-language newspaper about Chinese literature and art, that is published three times a week. It is issued by the China Writers Association and is published by the Xinhua Bookstore ("New China Bookstore") in Beijing. The name of the paper is sometimes written as _Wenyi bao_ or _Wenyibao_.[1]

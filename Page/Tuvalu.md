@@ -17,7 +17,7 @@ An important creation myth of the islands of Tuvalu is the story of the _te Pusi
 
 Early contacts with other cultures
 
-Tuvalu_costume.jpg in 1841, during the United States Exploring Expedition[15]]] Tuvalu was first sighted by Europeans on 16 January 1568, during the voyage of Álvaro de Mendaña from Spain, who sailed past Nui and charted it as _Isla de Jesús_ (Spanish for "Island of Jesus") because the previous day was the feast of the Holy Name. Mendaña made contact with the islanders but was unable to land.[16][17] During Mendaña's second voyage across the Pacific he passed Niulakita on 29 August 1595, which he named _La Solitaria_.[18][19]
+in 1841, during the United States Exploring Expedition[15]]] Tuvalu was first sighted by Europeans on 16 January 1568, during the voyage of Álvaro de Mendaña from Spain, who sailed past Nui and charted it as _Isla de Jesús_ (Spanish for "Island of Jesus") because the previous day was the feast of the Holy Name. Mendaña made contact with the islanders but was unable to land.[16][17] During Mendaña's second voyage across the Pacific he passed Niulakita on 29 August 1595, which he named _La Solitaria_.[18][19]
 
 Captain John Byron passed through the islands of Tuvalu in 1764, during his circumnavigation of the globe as captain of the .[20] He charted the atolls as _Lagoon Islands_. Keith S. Chambers and Doug Munro (1980) identified Niutao as the island that Francisco Mourelle de la Rúa sailed past on 5 May 1781, thus solving what Europeans had called _The Mystery of Gran Cocal_.[21][22] Mourelle's map and journal named the island _El Gran Cocal_ ('The Great Coconut Plantation'); however, the latitude and longitude was uncertain.[23] Longitude could only be reckoned crudely at the time, as accurate chronometers only became available in the late 18th century.
 
@@ -35,7 +35,7 @@ The islands came into Britain's sphere of influence in the late 19th century, wh
 
 Trading firms and traders
 
-Tuvalu_-_Location_Map_(2013)_-_TUV_-_UNOCHA.svg]] Trading companies became active in Tuvalu in the mid-19th century; the trading companies engaged palagi traders who lived on the islands. John (also known as Jack) O'Brien was the first European to settle in Tuvalu; he became a trader on Funafuti in the 1850s. He married Salai, the daughter of the paramount chief of Funafuti.[46] Louis Becke, who later found success as a writer, was a trader on Nanumanga from April 1880 until the trading station was destroyed later that year in a cyclone.[47] He then became a trader on Nukufetau.[48][49][50]
+]] Trading companies became active in Tuvalu in the mid-19th century; the trading companies engaged palagi traders who lived on the islands. John (also known as Jack) O'Brien was the first European to settle in Tuvalu; he became a trader on Funafuti in the 1850s. He married Salai, the daughter of the paramount chief of Funafuti.[46] Louis Becke, who later found success as a writer, was a trader on Nanumanga from April 1880 until the trading station was destroyed later that year in a cyclone.[47] He then became a trader on Nukufetau.[48][49][50]
 
 In 1892, Captain Davis of reported on trading activities and traders on each of the islands visited.[51] Captain Davis identified the following traders in the Ellice Group: Edmund Duffy (Nanumea); Jack Buckland (Niutao); Harry Nitz (Vaitupu); Jack O'Brien (Funafuti); Alfred Restieaux and Emile Fenisot (Nukufetau); and Martin Kleis (Nui).[52][53] During this time, the greatest number of palagi traders lived on the atolls, acting as agents for the trading companies. Some islands would have competing traders, while dryer islands might only have a single trader.[54]
 
@@ -43,7 +43,7 @@ In the later 1890s and into first decade of the 20th century, structural changes
 
 Scientific expeditions and travellers
 
-Nukufetauman1831.jpg atoll, drawn by Alfred Thomas Agate in 1841]] The United States Exploring Expedition under Charles Wilkes visited Funafuti, Nukufetau and Vaitupu in 1841.[61] During this expedition, engraver and illustrator Alfred Thomas Agate recorded the dress and tattoo patterns of the men of Nukufetau.[62]
+atoll, drawn by Alfred Thomas Agate in 1841]] The United States Exploring Expedition under Charles Wilkes visited Funafuti, Nukufetau and Vaitupu in 1841.[61] During this expedition, engraver and illustrator Alfred Thomas Agate recorded the dress and tattoo patterns of the men of Nukufetau.[62]
 
 In 1885 or 1886, the New Zealand photographer Thomas Andrew visited Funafuti[63] and Nui.[64][65]
 
@@ -51,7 +51,7 @@ In 1890, Robert Louis Stevenson, his wife Fanny Vandegrift Stevenson and her son
 
 In 1894, Count Rudolf Festetics de Tolna, his wife Eila (_née_ Haggin) and her daughter Blanche Haggin visited Funafuti aboard the yacht _Le Tolna_.[70] The Count spent several days photographing men and woman on Funafuti.[71][72]
 
-H-C-Fassett-Ellice-Is-1900.jpg (1900)
+(1900)
 photography by Harry Clifford Fassett]] The boreholes on Funafuti, at the site now called _Darwin's Drill_,[73] are the result of drilling conducted by the Royal Society of London for the purpose of investigating the formation of coral reefs to determine whether traces of shallow water organisms could be found at depth in the coral of Pacific atolls. This investigation followed the work on _The Structure and Distribution of Coral Reefs_ conducted by Charles Darwin in the Pacific. Drilling occurred in 1896, 1897 and 1898.[74] Professor Edgeworth David of the University of Sydney was a member of the 1896 "Funafuti Coral Reef Boring Expedition of the Royal Society", under Professor William Sollas and lead the expedition in 1897.[75] Photographers on these trips recorded people, communities, and scenes at Funafuti.[76]
 
 Charles Hedley, a naturalist at the Australian Museum, accompanied the 1896 expedition, and during his stay on Funafuti he collected invertebrate and ethnological objects. The descriptions of these were published in _Memoir III of the Australian Museum Sydney_ between 1896 and 1900. Hedley also wrote the _General Account of the Atoll of Funafuti_,[77] _The Ethnology of Funafuti_,[78] and _The Mollusca of Funafuti_.[79][80] Edgar Waite was also part of the 1896 expedition and published _The mammals, reptiles, and fishes of Funafuti_.[81] William Rainbow described the spiders and insects collected at Funafuti in _The insect fauna of Funafuti_.[82]
@@ -80,8 +80,6 @@ Tuvalu became fully independent within the Commonwealth on 1 October 1978. On 5 
 
 
 Government
-
-Government_office_building.jpg
 
 Parliamentary democracy
 
@@ -131,7 +129,7 @@ Administrative divisions
 
 Tuvalu consists of six atolls and three reef islands. The smallest, Niulakita, is administered as part of Niutao.
 
-Each island has its own high-chief, or ulu-aliki, and several sub-chiefs (alikis). The community council is the _Falekaupule_ (the traditional assembly of elders) or _te sina o fenua_ (literally: "grey-hairs of the land"). In the past, another caste, the priests (tofuga), were also amongst the decision-makers. The ulu-aliki and aliki exercise informal authority at the local level. Ulu-aliki are always chosen based on ancestry. Under the Falekaupule Act (1997),[132] the powers and functions of the _Falekaupule_ are now shared with the _pule o kaupule_ (elected village presidents; one on each atoll).[133] Tv-map.png Local government districts consisting of more than one islet:
+Each island has its own high-chief, or ulu-aliki, and several sub-chiefs (alikis). The community council is the _Falekaupule_ (the traditional assembly of elders) or _te sina o fenua_ (literally: "grey-hairs of the land"). In the past, another caste, the priests (tofuga), were also amongst the decision-makers. The ulu-aliki and aliki exercise informal authority at the local level. Ulu-aliki are always chosen based on ancestry. Under the Falekaupule Act (1997),[132] the powers and functions of the _Falekaupule_ are now shared with the _pule o kaupule_ (elected village presidents; one on each atoll).[133] Local government districts consisting of more than one islet:
 
 -   Funafuti
 -   Nanumea
@@ -153,7 +151,7 @@ Society
 
 Demographics
 
-Population_Distribution_of_Tuvalu_by_Age_Group_(2014).png The population at the 2002 census was 9,561,[134] and the population at the 2012 census was 10,640.[135][136] The most recent census in 2017 puts the population at 11,192.[137] The population of Tuvalu is primarily of Polynesian ethnicity, with approximately 5.6% of the population being Micronesian.[138]
+The population at the 2002 census was 9,561,[134] and the population at the 2012 census was 10,640.[135][136] The most recent census in 2017 puts the population at 11,192.[137] The population of Tuvalu is primarily of Polynesian ethnicity, with approximately 5.6% of the population being Micronesian.[138]
 
 Life expectancy for women in Tuvalu is 68.41 years and 64.01 years for men (2015 est.).[139] the country's population growth rate is 0.82% (2015 est.).[140] The net migration rate is estimated at −6.81 migrant(s)/1,000 population (2015 est.)[141] The threat of global warming in Tuvalu is not yet a dominant motivation for migration as Tuvaluans appear to prefer to continue living on the islands for reasons of lifestyle, culture and identity.[142]
 
@@ -185,7 +183,7 @@ Obesity is one of the biggest health issues in Tuvalu.
 
 Education
 
-Children_of_Niutao_Island.JPG]] Education in Tuvalu is free and compulsory between the ages of 6 and 15 years. Each island has a primary school. Motufoua Secondary School is located on Vaitupu.[169] Students board at the school during the school term, returning to their home islands each school vacation. Fetuvalu Secondary School, a day school operated by the Church of Tuvalu, is on Funafuti.[170]
+]] Education in Tuvalu is free and compulsory between the ages of 6 and 15 years. Each island has a primary school. Motufoua Secondary School is located on Vaitupu.[169] Students board at the school during the school term, returning to their home islands each school vacation. Fetuvalu Secondary School, a day school operated by the Church of Tuvalu, is on Funafuti.[170]
 
 Fetuvalu offers the Cambridge syllabus. Motufoua offers the Fiji Junior Certificate (FJC) at year 10, Tuvaluan Certificate at Year 11 and the Pacific Senior Secondary Certificate (PSSC) at Year 12, which is set by SPBEA, the Fiji-based exam board.[171] Sixth form students who pass their PSSC go on to the Augmented Foundation Programme, funded by the Tuvalu government. This program is required for tertiary education programmes outside of Tuvalu and is available at the University of the South Pacific (USP) Extension Centre in Funafuti.
 
@@ -198,15 +196,13 @@ The Tuvaluan Employment Ordinance of 1966 sets the minimum age for paid employme
 
 Culture
 
-Interior_of_a_maneapa_in_Funafuti,_Tuvalu.jpg
-
 Architecture
 
 The traditional buildings of Tuvalu used plants and trees from the native broadleaf forest,[177] including timber from _pouka_ (_Hernandia peltata_); _ngia_ or _ingia_ bush (_Pemphis acidula_); _miro_ (_Thespesia populnea_); _tonga_ (_Rhizophora mucronata_); _Fau_ or _Fo fafini_, or woman's fibre tree (_Hibiscus tiliaceus_).[178] Fibre is from coconut; _ferra_, native fig (_Ficus aspem_); _fala_, screw pine or _Pandanus_.[179] The buildings were constructed without nails and were lashed together with a plaited sennit rope that was handmade from dried coconut fibre.[180]
 
 Following contact with Europeans, iron products were used including nails and corrugated roofing material. Modern building in Tuvalu are constructed from imported building materials, including imported timber and concrete.[181]
 
-Church and community buildings (_maneapa_) are usually coated with white paint that is known as _lase_, which is made by burning a large amount of dead coral with firewood. The whitish powder that is the result is mixed with water and painted on the buildings.[182] Dancer,_Tuvalu_stage,_2011_Pasifika_festival.jpg]]
+Church and community buildings (_maneapa_) are usually coated with white paint that is known as _lase_, which is made by burning a large amount of dead coral with firewood. The whitish powder that is the result is mixed with water and painted on the buildings.[182] ]]
 
 Art of Tuvalu
 
@@ -226,7 +222,7 @@ Pulaka is the main source for carbohydrates. Seafood provides protein. Bananas a
 
 A 1560-square-metre pond was built in 1996 on Vaitupu to sustain aquaculture in Tuvalu.[198]
 
-Flying fish are also caught as a source of food;[199] and as an exciting activity, using a boat, a butterfly net and a spotlight to attract the flying fish.[200] Canoe_carving_on_Nanumea.jpg]]
+Flying fish are also caught as a source of food;[199] and as an exciting activity, using a boat, a butterfly net and a spotlight to attract the flying fish.[200] ]]
 
 Heritage
 
@@ -247,7 +243,7 @@ A traditional sport played in Tuvalu is _kilikiti_, which is similar to cricket.
 
 The popular sports in Tuvalu include _kilikiti_, _Ano_, association football, futsal, volleyball, handball, basketball and rugby union. Tuvalu has sports organisations for athletics, badminton, tennis, table tennis, volleyball, football, basketball, rugby union, weightlifting and powerlifting. At the 2013 Pacific Mini Games, Tuau Lapua Lapua won Tuvalu's first gold medal in an international competition in the weightlifting 62 kilogram male snatch. (He also won bronze in the clean and jerk, and obtained the silver medal overall for the combined event.)[212] In 2015, Telupe Iosefa received the first gold medal won by Tuvalu at the Pacific Games in the powerlifting 120 kg male division.[213][214][215]
 
-Tuvalu_national_football_team_(team_picture,_2011).jpg (2011)]] Football in Tuvalu is played at club and national team level. The Tuvalu national football team trains at the Tuvalu Sports Ground in Funafuti and competes in the Pacific Games. The Tuvalu National Football Association is an associate member of the Oceania Football Confederation (OFC) and is seeking membership in FIFA.[216][217] The Tuvalu national futsal team participates in the Oceanian Futsal Championship.
+(2011)]] Football in Tuvalu is played at club and national team level. The Tuvalu national football team trains at the Tuvalu Sports Ground in Funafuti and competes in the Pacific Games. The Tuvalu National Football Association is an associate member of the Oceania Football Confederation (OFC) and is seeking membership in FIFA.[216][217] The Tuvalu national futsal team participates in the Oceanian Futsal Championship.
 
 A major sporting event is the "Independence Day Sports Festival" held annually on 1 October. The most important sports event within the country is arguably the Tuvalu Games, which are held yearly since 2008. Tuvalu first participated in the Pacific Games in 1978 and in the Commonwealth Games in 1998, when a weightlifter attended the games held at Kuala Lumpur, Malaysia.[218] Two table tennis players attended the 2002 Commonwealth Games in Manchester, England;[219] Tuvalu entered competitors in shooting, table tennis and weightlifting at the 2006 Commonwealth Games in Melbourne, Australia;[220] three athletes participated in the 2010 Commonwealth Games in Delhi, India, entering the discus, shot put and weightlifting events;[221] and a team of 3 weightlifters and 2 table tennis players attended the 2014 Commonwealth Games in Glasgow. Tuvaluan athletes have also participated in the men's and women's 100 metres sprint at the World Championships in Athletics from 2009.
 
@@ -258,7 +254,7 @@ Economy and government services
 
 Economy
 
-National_Bank_of_Tuvalu.jpg]] From 1996 to 2002, Tuvalu was one of the best-performing Pacific Island economies and achieved an average real gross domestic product (GDP) growth rate of 5.6% per annum. Economic growth slowed after 2002, with GDP growth of 1.5% in 2008. Tuvalu was exposed to rapid rises in world prices of fuel and food in 2008, with the level of inflation peaking at 13.4%.[224]
+]] From 1996 to 2002, Tuvalu was one of the best-performing Pacific Island economies and achieved an average real gross domestic product (GDP) growth rate of 5.6% per annum. Economic growth slowed after 2002, with GDP growth of 1.5% in 2008. Tuvalu was exposed to rapid rises in world prices of fuel and food in 2008, with the level of inflation peaking at 13.4%.[224]
 
 Tuvalu joined the International Monetary Fund (IMF) on 24 June 2010.[225] The IMP 2010 Report on Tuvalu estimates that Tuvalu experienced zero growth in its 2010 GDP, after the economy contracted by about 2% in 2009.[226] On 5 August 2012, the Executive Board of the IMF concluded the Article IV consultation with Tuvalu, and assessed the economy of Tuvalu: "A slow recovery is underway in Tuvalu, but there are important risks. GDP grew in 2011 for the first time since the global financial crisis, led by the private retail sector and education spending. We expect growth to rise slowly".[227] The IMF 2014 Country Report noted that real GDP growth in Tuvalu had been volatile averaging only 1 percent in the past decade. The 2014 Country Report describes economic growth prospects as generally positive as the result of large revenues from fishing licences, together with substantial foreign aid.[228] While a budget deficit of A$0.4 million was projected for 2015, the Asian Development Bank (ADB) assessed the budget as being A$14.3m in surplus as the result of high tuna fish licence fees. The ADB predicted that the 2% growth rate for 2015 would continue into 2016.[229] Nonetheless, Tuvalu has the smallest GDP of any sovereign nation in the world.[230]
 
@@ -276,7 +272,7 @@ The United Nations designates Tuvalu as a least developed country (LDC) because 
 
 Tourism
 
-View_from_Hotel_room.jpg Due to the country's remoteness, tourism is not significant. Visitors totalled 1,684 in 2010: 65% were on business, development officials or technical consultants, 20% were tourists (360 people), and 11% were expatriates returning to visit family.[243] In 2016, the number of visitors had increased to 2,000.[244]
+Due to the country's remoteness, tourism is not significant. Visitors totalled 1,684 in 2010: 65% were on business, development officials or technical consultants, 20% were tourists (360 people), and 11% were expatriates returning to visit family.[243] In 2016, the number of visitors had increased to 2,000.[244]
 
 The main island of Funafuti is the focus of travellers, since the only airport in Tuvalu is the Funafuti International Airport and Funafuti is the only island that has hotel facilities.[245] Ecotourism is a motivation of travellers to Tuvalu. The Funafuti Conservation Area consists of of ocean, reef, lagoon, channel and six uninhabited islets.
 
@@ -292,7 +288,7 @@ Communications in Tuvalu rely on satellite dishes for telephone and internet acc
 
 Transport
 
-Manu_Folau_off_Vaitupu_Harbour,_Tuvalu.JPG atoll (2006)]] Transport services in Tuvalu are limited. There are about of roads.[250] The streets of Funafuti were paved in mid-2002, but other roads are unpaved. Tuvalu is among a few countries that do not have railroads.
+atoll (2006)]] Transport services in Tuvalu are limited. There are about of roads.[250] The streets of Funafuti were paved in mid-2002, but other roads are unpaved. Tuvalu is among a few countries that do not have railroads.
 
 Funafuti is the only port, but there is a deep-water berth in the lagoon at Nukufetau. The merchant marine fleet consists of two passenger/cargo ships _Nivaga III_ and _Manu Folau_. The _Nivaga III_ and _Manu Folau_ provide round-trip visits to the outer islands every three or four weeks. and travel between Suva, Fiji and Funafuti three or four times a year. The _Manu Folau_, a 50-metre vessel, was a gift from Japan to the people of Tuvalu. In 2015, the United Nations Development Program (UNDP) assisted the government of Tuvalu to acquire _MV Talamoana_, a 30-metre vessel that will be used to implement Tuvalu's National Adaptation Programme of Action (NAPA) to transport government officials and project personnel to the outer islands.[251] In 2015, the _Nivaga III_ was donated by the government of Japan; it replaced the _Nivaga II_, which had serviced Tuvalu from 1989.[252][253]
 
@@ -303,7 +299,7 @@ Geography and environment
 
 Geography
 
-Tuvalu_Funafuti_atoll_beach.jpg atoll.]] Tuvalu is a volcanic archipelago, and consists of three reef islands (Nanumanga, Niutao and Niulakita) and six true atolls (Funafuti, Nanumea, Nui, Nukufetau, Nukulaelae and Vaitupu).[255] Its small, scattered group of atolls have poor soil and a total land area of only about making it the fourth smallest country in the world. Over four decades, there had been a net increase in land area of the islets of 73.5 ha (2.9%), although the changes are not uniform, with 74% increasing and 27% decreasing in size. The sea level at the Funafuti tide gauge has risen at 3.9 mm per year, which is approximately twice the global average.[256] The rising sea levels are identified as creating an increased transfer of wave energy across reef surfaces, which shifts sand, resulting in accretion to island shorelines.[257] The Tuvalu Primi Minister dismissed the scientists' findings.[258]
+atoll.]] Tuvalu is a volcanic archipelago, and consists of three reef islands (Nanumanga, Niutao and Niulakita) and six true atolls (Funafuti, Nanumea, Nui, Nukufetau, Nukulaelae and Vaitupu).[255] Its small, scattered group of atolls have poor soil and a total land area of only about making it the fourth smallest country in the world. Over four decades, there had been a net increase in land area of the islets of 73.5 ha (2.9%), although the changes are not uniform, with 74% increasing and 27% decreasing in size. The sea level at the Funafuti tide gauge has risen at 3.9 mm per year, which is approximately twice the global average.[256] The rising sea levels are identified as creating an increased transfer of wave energy across reef surfaces, which shifts sand, resulting in accretion to island shorelines.[257] The Tuvalu Primi Minister dismissed the scientists' findings.[258]
 
 Funafuti is the largest atoll, and comprises numerous islets around a central lagoon that is approximately (N–S) by (W-E), centred on 179°7'E and 8°30'S. On the atolls, an annular reef rim surrounds the lagoon with several natural reef channels.[259] Surveys were carried out in May 2010 of the reef habitats of Nanumea, Nukulaelae and Funafuti; a total of 317 fish species were recorded during this _Tuvalu Marine Life_ study. The surveys identified 66 species that had not previously been recorded in Tuvalu, which brings the total number of identified species to 607.[260][261] Tuvalu's exclusive economic zone (EEZ) covers an oceanic area of approximately 900,000 km².[262]
 
@@ -311,7 +307,7 @@ Tuvalu is a party to the Convention on Biological Diversity.[263] The predominan
 
 Climate
 
-Tuvalu_Meteorology_Service.jpg, Fongafale, Funafuti atoll]] Tuvalu experiences two distinct seasons, a wet season from November to April and a dry season from May to October.[265] Westerly gales and heavy rain are the predominant weather conditions from October to March, the period that is known as _Tau-o-lalo_, with tropical temperatures moderated by easterly winds from April to November.
+, Fongafale, Funafuti atoll]] Tuvalu experiences two distinct seasons, a wet season from November to April and a dry season from May to October.[265] Westerly gales and heavy rain are the predominant weather conditions from October to March, the period that is known as _Tau-o-lalo_, with tropical temperatures moderated by easterly winds from April to November.
 
 Tuvalu experiences the effects of El Niño and La Niña, which is caused by changes in ocean temperatures in the equatorial and central Pacific. El Niño effects increase the chances of tropical storms and cyclones, while La Niña effects increase the chances of drought. Typically the islands of Tuvalu receive between of rainfall per month. However, in 2011, a weak La Niña effect caused a drought by cooling the surface of the sea around Tuvalu. A state of emergency was declared on 28 September 2011, with rationing of fresh water on the islands of Funafuti and Nukulaelae.[266][267][268] Households on Funafuti and Nukulaelae were restricted to two buckets of fresh water per day (40 litres).[269][270]
 
@@ -319,7 +315,7 @@ The governments of Australia and New Zealand responded to the 2011 fresh water c
 
 Environmental pressures
 
-Tuvalu_-_Funafuti_-_Beach.jpg atoll]] The eastern shoreline of Funafuti Lagoon on Fongafale was modified during World War II when the airfield (now Funafuti International Airport) was constructed. The coral base of the atoll was used as fill to create the runway. The resulting borrow pits impacted the fresh-water aquifer. In the low-lying areas of Funafuti, the sea water can be seen bubbling up through the porous coral rock to form pools with each high tide.[282][283][284] In 2014, the Tuvalu Borrow Pits Remediation (BPR) project was approved so that 10 borrow pits would be filled with sand from the lagoon, leaving Tafua Pond, which is a natural pond. The New Zealand Government funded the BPR project.[285] The project was carried out in 2015, with 365,000 sqm of sand being dredged from the lagoon to fill the holes and improve living conditions on the island. This project increased the usable land space on Fongafale by eight per cent.[286]
+atoll]] The eastern shoreline of Funafuti Lagoon on Fongafale was modified during World War II when the airfield (now Funafuti International Airport) was constructed. The coral base of the atoll was used as fill to create the runway. The resulting borrow pits impacted the fresh-water aquifer. In the low-lying areas of Funafuti, the sea water can be seen bubbling up through the porous coral rock to form pools with each high tide.[282][283][284] In 2014, the Tuvalu Borrow Pits Remediation (BPR) project was approved so that 10 borrow pits would be filled with sand from the lagoon, leaving Tafua Pond, which is a natural pond. The New Zealand Government funded the BPR project.[285] The project was carried out in 2015, with 365,000 sqm of sand being dredged from the lagoon to fill the holes and improve living conditions on the island. This project increased the usable land space on Fongafale by eight per cent.[286]
 
 During World War II, several piers were also constructed on Fongafale in the Funafuti Lagoon; beach areas were filled and deep-water access channels were excavated. These alterations to the reef and shoreline resulted in changes to wave patterns, with less sand accumulating to form the beaches, compared to former times; the shoreline is now exposed to wave action.[287] Several attempts to stabilise the shoreline have not achieved the desired effect.[288]
 
@@ -342,7 +338,7 @@ Cyclones and king tides
 
 Cyclones
 
-Ocean_side_Funafuti.jpg atoll showing the storm dunes, the highest point on the atoll.]] Because of the low elevation, the islands that make up this nation are vulnerable to the effects of tropical cyclones and by the threat of current and future sea level rise.[306][307][308] A warning system, which uses the Iridium satellite network, was introduced in 2016 in order to allow outlying islands to be better prepared for natural disasters.[309]
+atoll showing the storm dunes, the highest point on the atoll.]] Because of the low elevation, the islands that make up this nation are vulnerable to the effects of tropical cyclones and by the threat of current and future sea level rise.[306][307][308] A warning system, which uses the Iridium satellite network, was introduced in 2016 in order to allow outlying islands to be better prepared for natural disasters.[309]
 
 The highest elevation is above sea level on Niulakita,[310] Tuvalu thus has the second-lowest maximum elevation of any country (after the Maldives). The highest elevations are typically in narrow storm dunes on the ocean side of the islands which are prone to overtopping in tropical cyclones, as occurred with Cyclone Bebe, which was a very early-season storm that passed through the Tuvaluan atolls in October 1972.[311] Cyclone Bebe submerged Funafuti, eliminating 90% of structures on the island. Sources of drinking water were contaminated as a result of the system's storm surge and the flooding of the sources of fresh water.
 

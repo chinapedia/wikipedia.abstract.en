@@ -1,1 +1,0 @@
-DKW (_DAMPF-KRAFT-WAGEN_, , also _DEUTSCHE KINDER-WAGEN_ . _DAS-KLEINE-WUNDER_, or _DES-KNABEN-WUNSCH_, ) is a German car and motorcycle marque. DKW was one of the four companies that formed Auto Union in 1932 and is hence an ancestor of the modern day Audi company.[1]

@@ -1,1 +1,0 @@
-ŚWINOUJŚCIE RAILWAY STATION is the principal railway station in the town of Świnoujście, in the West Pomeranian Voivodeship, Poland. The station and is located on the Szczecin Dąbie–Świnoujście Port railway. The train services are operated by PKP and Przewozy Regionalne.

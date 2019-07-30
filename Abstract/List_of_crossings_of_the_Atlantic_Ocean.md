@@ -1,1 +1,0 @@
-RaII.InMuseum.jpg'', a ship built from papyrus, was successfully sailed across the Atlantic by Thor Heyerdahl proving that it was possible to cross the Atlantic from Africa using such boats in early epochs of history.]]

@@ -1,1 +1,0 @@
-JEFFERSON-MADISON REGIONAL LIBRARY system serves Albemarle, Greene, Louisa, and Nelson counties and City of Charlottesville.[1] The library system is within Region 6 of Virginia Library Association (VLA) regions.[2]

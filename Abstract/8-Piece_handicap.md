@@ -1,1 +1,0 @@
-The 8-PIECE (八枚落ち _hachimai-ochi_) handicap in shogi has both of White's major pieces, the rook and the bishop, removed as well as their lances, knights, and silvers. White only has the line of pawns and two gold plus their king.

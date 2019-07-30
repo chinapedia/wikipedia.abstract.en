@@ -1,1 +1,0 @@
-MEGHNA VINCENT is a South Indian television actress and an accomplished Bharatanatyam dancer. Meghna is well known for the main female lead characters Amrutha in _Chandanamazha_ (Malayalam), Rohini in _Ponmagal Vanthal_ (Tamil), and Seetha in _Deivam Thandha Veedu_ (Tamil).[1]

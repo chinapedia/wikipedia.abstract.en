@@ -1,1 +1,0 @@
-JOSEPHINE_CABLES_ALDRICH.jpg JOSEPHINE CABLES ALDRICH (June 12, 1843 – August 12, 1917) was an American spiritualist, Theosophist, editor, and publisher from the U.S. state of Connecticut. Married to the politician, William F. Aldrich, she was the editor of _The Occult World_ and the publisher of Matilda Joslyn Gage's _The Liberal Thinker_.

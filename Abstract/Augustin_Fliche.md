@@ -1,1 +1,0 @@
-AUGUSTIN FLICHE (19 November 1884, Montpellier – 19 November 1951) was a 20th-century French historian who mainly dealt with the history of the Church in the Middle Ages. He was a professor at the University of Montpellier and also visiting professor at the University of Leuven in 1925–1927 and 1946–1947.

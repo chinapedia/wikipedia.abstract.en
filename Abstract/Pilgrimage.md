@@ -1,1 +1,0 @@
-Teniers,_David_the_younger_-_Female_Pilgrim_-_Google_Art_Project.jpg: Flemish Pilgrim]] A PILGRIMAGE is a journey or search of moral or spiritual significance. Typically, it is a journey to a shrine or other location of importance to a person's beliefs and faith, although sometimes it can be a metaphorical journey into someone's own beliefs.

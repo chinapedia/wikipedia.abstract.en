@@ -1,1 +1,0 @@
-The SONTARANS () ; are a fictional race of extraterrestrial humanoids created by Robert Holmes for the British science fiction television series _Doctor Who_, also seen in spin-off series _The Sarah Jane Adventures_. They are a warrior race characterised by their ruthlessness and fearlessness of death.

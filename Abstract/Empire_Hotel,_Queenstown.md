@@ -1,1 +1,0 @@
-The EMPIRE HOTEL is a landmark two-storey heritage listed building located in Queenstown, Tasmania, Australia. It is located on the corner of Orr and Driffield Streets, across the road from the Queenstown railway station of the time.[1] It is still operating despite other hotels in Orr Street having been closed for a considerable amount of time.[2]

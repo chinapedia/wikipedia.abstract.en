@@ -1,1 +1,0 @@
-The 2016 BREEDERS' CUP CLASSIC was the 33rd running of the Breeders' Cup Classic, part of the 2016 Breeders' Cup World Thoroughbred Championships program. It was run on November 5, 2016 at Santa Anita Park in Arcadia, California with a purse of $6,000,000.

@@ -1,1 +1,0 @@
-Wild_tic-tac-toe.svg WILD TIC-TAC-TOE is a game similar to tic-tac-toe. However, in this game players can choose to play as X or O.[1][2] This game can also be played in its misere form where if a player creates a three-in-a-row of marks, that player loses the game.[3]

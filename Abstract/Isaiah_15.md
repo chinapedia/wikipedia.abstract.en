@@ -1,1 +1,0 @@
-ISAIAH 15 is the fifteenth chapter of the Book of Isaiah in the Hebrew Bible or the Old Testament of the Christian Bible. This book contains the prophecies attributed to the prophet Isaiah, and is a part of the Book of the Prophets. This chapter and the following chapter deal with the forthcoming history of Moab.

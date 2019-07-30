@@ -1,1 +1,0 @@
-MARK LABBERTON is President and Professor of Preaching at Fuller Theological Seminary. Before he became Fuller's President, he served for 16 years as senior pastor of First Presbyterian Church of Berkeley, California.[1]

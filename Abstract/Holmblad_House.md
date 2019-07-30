@@ -1,1 +1,0 @@
-The HOLMBLAD HOUSE (Danish: Jacob Holnblads Gård), now also known as SØLVGÅRDEN, is a former 18th-century dyeing facility at Sølvgade 38 in Copenhagen, Denmark. Its founder, Jacob Holmblad, also had its home in the complex. The building was listed by the Danish Heritage Agency in the Danish national registry of protected buildings in 1918.

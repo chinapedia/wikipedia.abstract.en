@@ -1,6 +1,6 @@
 In mathematics, a SEQUENCE is an enumerated collection of objects in which repetitions are allowed. Like a set, it contains members (also called _elements_, or _terms_). The number of elements (possibly infinite) is called the _length_ of the sequence. Unlike a set, the same elements can appear multiple times at different positions in a sequence, and order matters. Formally, a sequence can be defined as a function whose domain is either the set of the natural numbers (for infinite sequences) or the set of the first _n_ natural numbers (for a sequence of finite length _n_). The position of an element in a sequence is its _rank_ or _index_; it is the natural number from which the element is the image. It depends on the context or a specific convention, if the first element has index 0 or 1. When a symbol has been chosen for denoting a sequence, the _n_th element of the sequence is denoted by this symbol with _n_ as subscript; for example, the _n_th element of the Fibonacci sequence is generally denoted _F__(_n_).
 
-For example, (M, A, R, Y) is a sequence of letters with the letter 'M' first and 'Y' last. This sequence differs from (A, R, M, Y). Also, the sequence (1, 1, 2, 3, 5, 8), which contains the number 1 at two different positions, is a valid sequence. Sequences can be _finite_, as in these examples, or _infinite_, such as the sequence of all even positive integers (2, 4, 6, ...). In computing and computer science, finite sequences are sometimes called strings, words or lists, the different names commonly corresponding to different ways to represent them in computer memory; infinite sequences are called streams. The empty sequence ( ) is included in most notions of sequence, but may be excluded depending on the context. Cauchy_sequence_illustration2.svgs (in blue). This sequence is neither increasing, decreasing, convergent, nor Cauchy. It is, however, bounded.]]
+For example, (M, A, R, Y) is a sequence of letters with the letter 'M' first and 'Y' last. This sequence differs from (A, R, M, Y). Also, the sequence (1, 1, 2, 3, 5, 8), which contains the number 1 at two different positions, is a valid sequence. Sequences can be _finite_, as in these examples, or _infinite_, such as the sequence of all even positive integers (2, 4, 6, ...). In computing and computer science, finite sequences are sometimes called strings, words or lists, the different names commonly corresponding to different ways to represent them in computer memory; infinite sequences are called streams. The empty sequence ( ) is included in most notions of sequence, but may be excluded depending on the context. s (in blue). This sequence is neither increasing, decreasing, convergent, nor Cauchy. It is, however, bounded.]]
 
 
 Examples and notation
@@ -11,7 +11,7 @@ There are a number of ways to denote a sequence, some of which are more useful f
 
 Examples
 
-Fibonacci_blocks.svg with squares whose sides are successive Fibonacci numbers in length.]]
+with squares whose sides are successive Fibonacci numbers in length.]]
 
 The prime numbers are the natural numbers bigger than 1 that have no divisors but 1 and themselves. Taking these in their natural order gives the sequence (2, 3, 5, 7, 11, 13, 17, ...). The prime numbers are widely used in mathematics and specifically in number theory.
 
@@ -132,8 +132,6 @@ Some other types of sequences that are easy to define include:
 
 Limits and convergence
 
-Converging_Sequence_example.svg
-
 An important property of a sequence is _convergence_. If a sequence converges, it converges to a particular value known as the _limit_. If a sequence converges to some limit, then it is CONVERGENT. A sequence that does not converge is DIVERGENT.
 
 Informally, a sequence has a limit if the elements of the sequence become closer and closer to some value L (called the limit of the sequence), and they become and remain _arbitrarily_ close to L, meaning that given a real number d greater than zero, all but a finite number of the elements of the sequence have a distance from L less than d.
@@ -171,7 +169,7 @@ Moreover:
 
 Cauchy sequences
 
-Cauchy_sequence_illustration.svgs every Cauchy sequence converges to some limit.]]
+s every Cauchy sequence converges to some limit.]]
 
 A Cauchy sequence is a sequence whose terms become arbitrarily close together as n gets very large. The notion of a Cauchy sequence is important in the study of sequences in metric spaces, and, in particular, in real analysis. One particularly important result in real analysis is _Cauchy characterization of convergence for sequences_:
 

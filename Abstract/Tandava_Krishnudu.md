@@ -1,1 +1,0 @@
-_TANDAVA KRISHNUDU_ is a 1984 Telugu drama film, produced by B. Gopala Reddy under the Krishna Art Creations banner and directed by P. Chandrasekhara Reddy. It stars Akkineni Nageswara Rao, Jaya Prada in the lead roles and music composed by Chakravarthy.[1]

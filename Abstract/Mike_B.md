@@ -1,1 +1,0 @@
-MICHAEL BYUN (born January 11, 1989), better known by his stage name MIKE B, is a London singer, songwriter, rapper, and producer of Korean descent. He originates from the Koreatown neighborhood of Los Angeles, California.[1]

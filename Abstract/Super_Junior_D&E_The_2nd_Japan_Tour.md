@@ -1,1 +1,0 @@
-SUPER JUNIOR D&E JAPAN TOUR 2015 -PRESENT- is the second Japan Arena tour held by Super Junior-D&E. Commenced in Saitama continued to Osaka, Nagoya and Fukuoka with 10 shows in total and attracted over 100.000 fans. They performed 24 songs within 3 hours.

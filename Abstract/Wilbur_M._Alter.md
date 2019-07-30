@@ -1,1 +1,0 @@
-WILBUR MCCLURE ALTER (December 17, 1879 – July 30, 1967) was an American judge who served on the Colorado Supreme Court from 1928–1933 and again from 1944-1957. He served as Chief Justice of the Court from 1955-1957.[1]

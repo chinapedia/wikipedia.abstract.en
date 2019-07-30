@@ -1,1 +1,0 @@
-_UFC FIGHT NIGHT: LEWIS VS. ABDURAKHIMOV_ (also known as _UFC FIGHT NIGHT 102_) was a mixed martial arts event held by the Ultimate Fighting Championship on December 9, 2016, at Times Union Center in Albany, New York[1]

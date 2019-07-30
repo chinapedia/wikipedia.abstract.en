@@ -1,1 +1,0 @@
-TÜMLAU BAY () is a bay on the west coast of the Eiderstedt peninsula in Germany. It is the last large bay on the North Frisian coast that has not been fully dyked off.[1] The southern part of the bay lies in the municipality of Tümlauer-Koog; the northern shore is part of Westerhever. A prominent landmark on the bay is the Westerheversand Lighthouse. Hafen_Tümlauer_Koog.jpg

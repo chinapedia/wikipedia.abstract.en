@@ -1,1 +1,0 @@
-ÎLOT SAINT-MICHEL (Saint Michael Island) is an uninhabited island in the English Channel off the coast of Brittany in Côtes-d'Armor, France, near the resort of Sables-d'Or-les-Pins. It is part of the commune of Erquy and is accessible by foot during low tide.

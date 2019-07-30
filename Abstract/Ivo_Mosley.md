@@ -1,1 +1,0 @@
-IVO ADAM REX MOSLEY is a British writer. His career has encompassed ceramics, poetry, social commentary, opera and musical theatre. His focus of the last few years is on works of non-fiction relating to politics and monetary reform.

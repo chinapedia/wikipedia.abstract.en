@@ -1,1 +1,0 @@
-ROCCO ZITO (; August 19, 1928 – January 29, 2016) was an Italian-Canadian crime boss of the 'Ndrangheta in Canada, a Mafia-type organisation originating in Calabria, Italy. He was also a founding member of the Camera di Controllo in Canada in 1962.[1]

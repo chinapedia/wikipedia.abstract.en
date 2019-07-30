@@ -1,1 +1,0 @@
-_PSEUDOSTOMUM KLOSTERMANNI_ is a species of flatworms in the family Pseudostomidae. It is a marine species found in the Black and Mediterranean Seas and in the European waters of the North Atlantic Ocean.

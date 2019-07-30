@@ -1,1 +1,0 @@
-_KILLING FOR LOVE_ (, also known as _The Promise_) is a German documentary film directed by Marcus Vetter with Karin Steinberger. The film tells the crime story of the double murder of Derek and Nancy Haysom on 30 March 1985 in Lynchburg, Virginia.

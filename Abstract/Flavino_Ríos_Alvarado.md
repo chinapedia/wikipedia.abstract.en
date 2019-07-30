@@ -1,1 +1,0 @@
-FLAVINO RÍOS ALVARADO (born December 22, 1950)[1] is a Mexican politician affiliated to the Institutional Revolutionary Party who served as the Interim Governor of Veracruz from October 12 to December 1, 2016.

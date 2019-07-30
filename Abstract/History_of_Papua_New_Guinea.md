@@ -1,1 +1,0 @@
-The PREHISTORY OF PAPUA NEW GUINEA can be traced to about 60,000 years ago, when people first migrated towards the Australian continent. The written history began when European navigators first sighted New Guinea in the early part of the 17th century.

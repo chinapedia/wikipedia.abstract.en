@@ -1,1 +1,0 @@
-JERRY MARLON BEACH (December 11, 1941 – January 10, 2016) was an American blues musician. His father was stationed with the U.S. Army Air Corps in Oklahoma City. He spent his first two years of high school in London where he learned how to play guitar before he and his family settled in Bossier City, Louisiana.[1]

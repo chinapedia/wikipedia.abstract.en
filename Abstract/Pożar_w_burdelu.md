@@ -1,1 +1,0 @@
-250px A FIRE IN A BROTHEL (_Pożar w Burdelu_, PwB) - is a Polish political and literary cabaret commenting on contemporary social and political events. It was established in Warsaw in September 2012. It is also involved in animation of the cultural life in Warsaw's _Praga shore of the Vistula_ and gives performances for children.

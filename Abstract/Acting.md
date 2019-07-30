@@ -1,1 +1,0 @@
-Bernhardt_Hamlet2.jpg as Hamlet]] Samurai_actors.jpg and rōnin costume at the Kyoto Eigamura film set]] ACTING is an activity in which a story is told by means of its enactment by an actor or actress who adopts a character—in theatre, television, film, radio, or any other medium that makes use of the mimetic mode.

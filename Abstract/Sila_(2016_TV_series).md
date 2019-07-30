@@ -1,1 +1,0 @@
-_SILA_ (; lit: _RESULT_), was a Pakistani drama serial, that aired on 28 October 2016,[1] preceded by _Dharkan_. It stars Shakeel, Farhan Saeed, Ainy Jaffri, Ismat Zaidi in leading to pivot roles. It aired on Fridays at 9:10pm PST.

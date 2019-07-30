@@ -1,1 +1,0 @@
-LIM EUN-SOO (Hangul:임은수, born February 26, 2003) is a South Korean figure skater. She is the 2018 Rostelecom Cup bronze medalist, the 2018 CS Asian Open champion, the 2017 CS U.S. Classic silver medalist, and the 2017 South Korean national champion. She has finished within the top ten at two senior ISU Championships.

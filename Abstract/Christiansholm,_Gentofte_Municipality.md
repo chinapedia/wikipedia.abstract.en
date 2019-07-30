@@ -1,1 +1,0 @@
-CHRISTIANSHOLM is a historic house in Klampenborg, Gentofte Municipality, some 10 km north of central Copenhagen, Denmark. It was built by the merchant Just Fabritius and is now owned by the businessman Fritz Schur.

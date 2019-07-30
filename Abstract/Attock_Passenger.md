@@ -1,1 +1,0 @@
-_ATTOCK PASSENGER_ () is a passenger train operated daily by Pakistan Railways between Mari Indus and Attock.[1] The trip takes 4 hours and 26 minutes to cover a published distance of , traveling along a stretch of the Kotri–Attock Railway Line.

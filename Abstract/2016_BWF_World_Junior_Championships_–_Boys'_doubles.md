@@ -1,1 +1,0 @@
-The BOYS' DOUBLES tournament of the 2016 BWF World Junior Championships is a badminton world junior individual championships for the Eye Level Cups, held on November 8–13.[1] The defending champion of the last edition is HE JITING / ZHENG SIWEI from China.[2] Han Chengkai and Zhou Haodong of China won the gold medal in this event.[3]

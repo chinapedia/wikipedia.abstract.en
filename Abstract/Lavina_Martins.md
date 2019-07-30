@@ -1,1 +1,0 @@
-LAVINA SABASTIAN MARTINS (born 3 February 1993) is a Kenyan badminton player.[1] In 2015, she won the bronze medal at the African Games in women's doubles event.[2] She also competed at the 2014 Commonwealth Games in Glasgow, Scotland.[3]

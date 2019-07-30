@@ -5,13 +5,11 @@ One of the most famous stories ever written,[2] in 2003, the book was listed as 
 
 Plot
 
-Houn-05_-_Hound_of_Baskervilles,_page_24.jpg
-
 Dr. James Mortimer asks Sherlock Holmes for advice after his friend Sir Charles Baskerville was found dead in the park surrounding his manor, in the moors of Devonshire. The death was attributed to a heart attack but, according to Mortimer, Sir Charles's face retained an expression of horror and not far from the corpse the footprints of a gigantic hound were clearly visible. According to an old legend, a curse runs in the Baskerville family since the time of the English Civil War, when a Sir Hugo Baskerville abducted and murdered a woman in the mires of Dartmoor, only to be killed in turn by a huge demonic hound. Allegedly the same creature has been haunting the place ever since, causing the premature death of many Baskerville heirs. Sir Charles believed in the plague of the hound and so does Mr. Mortimer, who now fears for the next in line Sir Henry Baskerville.
 
 Even though he dismisses the whole curse story as nonsense, Holmes agrees to meet Sir Henry in London as soon as the latter arrives from Canada, where his branch of the family had moved in the past. The man is a young and jovial good-looking fellow, skeptical toward the grim legend and eager to take possession of Baskerville Hall, even if he's just found an anonymous note in the mail, warning him to stay away from the moor. When someone tries to shoot Sir Henry while he's walking down a street, however, Holmes asks Watson to go with the young man and Mortimer to Dartmooor, in order to protect Sir Henry and search for any clue about who's menacing his life.
 
-Houn-01.jpg _Houn-11_-_Sir_Henry_Baskerville_(Hound_of_Baskervilles,_page_58).jpg Houn-48.jpg Houn-23.jpg Houn-25.jpg Houn-54_-_The_Hound_killed_by_Holmes.jpg killed by Holmes]]
+killed by Holmes]]
 
 The trio arrives to Baskerville Hall, an old and imposing manor in the middle of a vast park, managed by a butler and his wife the housekeeper. The estate is surrounded by the moor and borders the Grimpen Mire, where animals and humans can sink to death in quicksand. The news that a convict has escaped from the local penitentiary and is hiding on the nearby hills, add up to the barren landscape and the gloomy atmosphere.
 
@@ -24,7 +22,7 @@ For all the good Watson's efforts, it will be Sherlock Holmes in person to conne
 
 Origins and background
 
-Clyro_Court_(1293400).jpg Fowlescombe_Manor_House_or_Mansion_(geograph_2348874).jpg House, viewed in 2008, a possible model for Baskerville Hall]] Cromer_Hall,_16_05_2010.JPG Crowsley_Park_-_geograph.org.uk_-_1713285.jpg
+House, viewed in 2008, a possible model for Baskerville Hall]]
 
 Sir Arthur Conan Doyle wrote this story shortly after returning to his home Undershaw from South Africa, where he had worked as a volunteer physician at the Langman Field Hospital in Bloemfontein at the time of the Second Boer War.
 

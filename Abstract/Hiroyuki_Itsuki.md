@@ -1,1 +1,0 @@
-HIROYUKI ITSUKI (, born September 30, 1932) is a Japanese novelist, essayist and lyricist, best known in Japan by his novel _The Gate of Youth_ and in the English-speaking world by _Tariki: Embracing Despair, Discovering Peace_.[1]

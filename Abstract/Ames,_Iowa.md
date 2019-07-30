@@ -1,1 +1,0 @@
-AMES is a city in central Iowa approximately north of Des Moines. It is best known as the home of Iowa State University (ISU), with leading Agriculture, Design, Engineering, and Veterinary Medicine colleges. A United States Department of Energy national laboratory, Ames Laboratory, is located on the ISU campus.

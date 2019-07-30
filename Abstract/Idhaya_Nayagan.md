@@ -1,1 +1,0 @@
-_IDHAYA NAYAGAN_ (English: Hero of the heart) is a 1993 Tamil romantic drama film directed and produced by J. Rajkamal. The film features J. Rajkamal and Roopa Sree in lead roles, with Selvi, Janagaraj, Madan Mohan, Peeli Sivam, Azhagu Nambi and P. S. Bhama playing supporting roles. The film had musical score by Deva and was released on 30 June 1993.[1][2]

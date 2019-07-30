@@ -9,7 +9,7 @@ Whether there is any historical reality behind the Trojan War remains an open qu
 
 Sources
 
-J_G_Trautmann_Das_brennende_Troja.jpg by Johann Georg Trautmann]]
+by Johann Georg Trautmann]]
 
 The events of the Trojan War are found in many works of Greek literature and depicted in numerous works of Greek art. There is no single, authoritative text which tells the entire events of the war. Instead, the story is assembled from a variety of sources, some of which report contradictory versions of the events. The most important literary sources are the two epic poems traditionally credited to Homer, the _Iliad_ and the _Odyssey_ , composed sometime between the 9th and 6th centuries BC.[5] Each poem narrates only a part of the war. The _Iliad_ covers a short period in the last year of the siege of Troy, while the _Odyssey_ concerns Odysseus's return to his home island of Ithaca following the sack of Troy and contains several flashbacks to particular episodes in the war.
 
@@ -34,17 +34,17 @@ These can be supported by Hesiod's account:
 
 Judgement of Paris
 
-Enrique_Simonet_-_El_Juicio_de_Paris_-_1904.jpg'' (1904) by Enrique Simonet]]
+'' (1904) by Enrique Simonet]]
 
 Zeus came to learn from either Themis[13] or Prometheus, after Heracles had released him from Caucasus,[14] that, like his father Cronus, he would be overthrown by one of his sons. Another prophecy stated that a son of the sea-nymph Thetis, with whom Zeus fell in love after gazing upon her in the oceans off the Greek coast, would become greater than his father.[15] Possibly for one or both of these reasons,[16] Thetis was betrothed to an elderly human king, Peleus son of Aeacus, either upon Zeus' orders,[17] or because she wished to please Hera, who had raised her.[18]
 
 All of the gods were invited to Peleus and Thetis' wedding and brought many gifts,[19] except Eris (the goddess of discord), who was stopped at the door by Hermes, on Zeus' order.[20] Insulted, she threw from the door a gift of her own:[21] a golden apple (το μήλον της έριδος) on which was inscribed the word καλλίστῃ _Kallistēi_ ("To the fairest").[22] The apple was claimed by Hera, Athena, and Aphrodite. They quarreled bitterly over it, and none of the other gods would venture an opinion favoring one, for fear of earning the enmity of the other two. Eventually, Zeus ordered Hermes to lead the three goddesses to Paris, a prince of Troy, who, unaware of his ancestry, was being raised as a shepherd in Mount Ida,[23] because of a prophecy that he would be the downfall of Troy.[24] After bathing in the spring of Ida, the goddesses appeared to him naked, either for the sake of winning or at Paris' request. Paris was unable to decide between them, so the goddesses resorted to bribes. Athena offered Paris wisdom, skill in battle, and the abilities of the greatest warriors; Hera offered him political power and control of all of Asia; and Aphrodite offered him the love of the most beautiful woman in the world, Helen of Sparta. Paris awarded the apple to Aphrodite, and, after several adventures, returned to Troy, where he was recognized by his royal family.
 
-Hydria_Achilles_weapons_Louvre_E869.jpg hydria, 575–550 BC)]] Peleus and Thetis bore a son, whom they named Achilles. It was foretold that he would either die of old age after an uneventful life, or die young in a battlefield and gain immortality through poetry.[25] Furthermore, when Achilles was nine years old, Calchas had prophesied that Troy could not again fall without his help.[26] A number of sources credit Thetis with attempting to make Achilles immortal when he was an infant. Some of these state that she held him over fire every night to burn away his mortal parts and rubbed him with ambrosia during the day, but Peleus discovered her actions and stopped her.[27] According to some versions of this story, Thetis had already killed several sons in this manner, and Peleus' action therefore saved his son's life.[28] Other sources state that Thetis bathed Achilles in the Styx, the river that runs to the underworld, making him invulnerable wherever he was touched by the water.[29] Because she had held him by the heel, it was not immersed during the bathing and thus the heel remained mortal and vulnerable to injury (hence the expression "Achilles heel" for an isolated weakness). He grew up to be the greatest of all mortal warriors. After Calchas' prophesy, Thetis hid Achilles in Skyros at the court of King Lycomedes, where he was disguised as a girl.[30] At a crucial point in the war, she assists her son by providing weapons divinely forged by Hephaestus (see below).
+hydria, 575–550 BC)]] Peleus and Thetis bore a son, whom they named Achilles. It was foretold that he would either die of old age after an uneventful life, or die young in a battlefield and gain immortality through poetry.[25] Furthermore, when Achilles was nine years old, Calchas had prophesied that Troy could not again fall without his help.[26] A number of sources credit Thetis with attempting to make Achilles immortal when he was an infant. Some of these state that she held him over fire every night to burn away his mortal parts and rubbed him with ambrosia during the day, but Peleus discovered her actions and stopped her.[27] According to some versions of this story, Thetis had already killed several sons in this manner, and Peleus' action therefore saved his son's life.[28] Other sources state that Thetis bathed Achilles in the Styx, the river that runs to the underworld, making him invulnerable wherever he was touched by the water.[29] Because she had held him by the heel, it was not immersed during the bathing and thus the heel remained mortal and vulnerable to injury (hence the expression "Achilles heel" for an isolated weakness). He grew up to be the greatest of all mortal warriors. After Calchas' prophesy, Thetis hid Achilles in Skyros at the court of King Lycomedes, where he was disguised as a girl.[30] At a crucial point in the war, she assists her son by providing weapons divinely forged by Hephaestus (see below).
 
 Elopement of Paris and Helen
 
-Francesco_Primaticcio_003.jpg, with Aphrodite directing]] The most beautiful woman in the world was Helen, one of the daughters of Tyndareus, King of Sparta. Her mother was Leda, who had been either raped or seduced by Zeus in the form of a swan.[31] Accounts differ over which of Leda's four children, two pairs of twins, were fathered by Zeus and which by Tyndareus. However, Helen is usually credited as Zeus' daughter,[32] and sometimes Nemesis is credited as her mother.[33] Helen had scores of suitors, and her father was unwilling to choose one for fear the others would retaliate violently.
+, with Aphrodite directing]] The most beautiful woman in the world was Helen, one of the daughters of Tyndareus, King of Sparta. Her mother was Leda, who had been either raped or seduced by Zeus in the form of a swan.[31] Accounts differ over which of Leda's four children, two pairs of twins, were fathered by Zeus and which by Tyndareus. However, Helen is usually credited as Zeus' daughter,[32] and sometimes Nemesis is credited as her mother.[33] Helen had scores of suitors, and her father was unwilling to choose one for fear the others would retaliate violently.
 
 Finally, one of the suitors, Odysseus of Ithaca, proposed a plan to solve the dilemma. In exchange for Tyndareus' support of his own suit towards Penelope,[34] he suggested that Tyndareus require all of Helen's suitors to promise that they would defend the marriage of Helen, regardless of whom he chose. The suitors duly swore the required oath on the severed pieces of a horse, although not without a certain amount of grumbling.[35]
 
@@ -53,8 +53,6 @@ Tyndareus chose Menelaus. Menelaus was a political choice on her father's part. 
 Paris, under the guise of a supposed diplomatic mission, went to Sparta to get Helen and bring her back to Troy. Before Helen could look up to see him enter the palace, she was shot with an arrow from Eros, otherwise known as Cupid, and fell in love with Paris when she saw him, as promised by Aphrodite. Menelaus had left for Crete[39] to bury his uncle, Crateus.[40]
 
 According to one account, Hera, still jealous over the judgement of Paris, sent a storm.[41] The storm caused the lovers to land in Egypt, where the gods replaced Helen with a likeness of her made of clouds, Nephele.[42] The myth of Helen being switched is attributed to the 6th century BC Sicilian poet Stesichorus. For Homer the true Helen was in Troy. The ship then landed in Sidon before reaching Troy. Paris, fearful of getting caught, spent some time there and then sailed to Troy.[43]
-
-Homeric_Greece-en.svg
 
 Paris' abduction of Helen had several precedents. Io was taken from Mycenae, Europa was taken from Phoenicia, Jason took Medea from Colchis,[44] and the Trojan princess Hesione had been taken by Heracles, who gave her to Telamon of Salamis.[45] According to Herodotus, Paris was emboldened by these examples to steal himself a wife from Greece, and expected no retribution, since there had been none in the other cases.[46]
 
@@ -66,7 +64,7 @@ Menelaus then asked Agamemnon to uphold his oath, which, as one of Helen's suito
 
 Odysseus and Achilles
 
-Mosaico-del-Oecus-de-Aquiles-1728x800_c.png'' where Odysseus (Ulysses) discovers Achilles dressed as a woman and hiding among the princesses at the royal court of Skyros. A late Roman mosaic from La Olmeda, Spain, 4th–5th centuries AD]] Since Menelaus's wedding, Odysseus had married Penelope and fathered a son, Telemachus. In order to avoid the war, he feigned madness and sowed his fields with salt. Palamedes outwitted him by placing his infant son in front of the plough's path, and Odysseus turned aside, unwilling to kill his son, so revealing his sanity and forcing him to join the war.[49][50]
+'' where Odysseus (Ulysses) discovers Achilles dressed as a woman and hiding among the princesses at the royal court of Skyros. A late Roman mosaic from La Olmeda, Spain, 4th–5th centuries AD]] Since Menelaus's wedding, Odysseus had married Penelope and fathered a son, Telemachus. In order to avoid the war, he feigned madness and sowed his fields with salt. Palamedes outwitted him by placing his infant son in front of the plough's path, and Odysseus turned aside, unwilling to kill his son, so revealing his sanity and forcing him to join the war.[49][50]
 
 According to Homer, however, Odysseus supported the military adventure from the beginning, and traveled the region with Pylos' king, Nestor, to recruit forces.[51]
 
@@ -74,7 +72,7 @@ At Skyros, Achilles had an affair with the king's daughter Deidamia, resulting i
 
 Pausanias said that, according to Homer, Achilles did not hide in Skyros, but rather conquered the island, as part of the Trojan War.[55]
 
-Jan_de_Bray,_Achilles_wśród_córek_Likomedesa_(Owidiusz,_Metamorfozy).jpg]]
+]]
 
 First gathering at Aulis
 
@@ -92,13 +90,13 @@ Some scholars have regarded the expedition against Telephus and its resolution a
 
 Second gathering
 
-Troas.png (Troas)]] Eight years after the storm had scattered them,[68] the fleet of more than a thousand ships was gathered again. But when they had all reached Aulis, the winds ceased. The prophet Calchas stated that the goddess Artemis was punishing Agamemnon for killing either a sacred deer or a deer in a sacred grove, and boasting that he was a better hunter than she.[69] The only way to appease Artemis, he said, was to sacrifice Iphigenia, who was either the daughter of Agamemnon and Clytemnestra,[70] or of Helen and Theseus entrusted to Clytemnestra when Helen married Menelaus.[71] Agamemnon refused, and the other commanders threatened to make Palamedes commander of the expedition.[72] According to some versions, Agamemnon relented and performed the sacrifice, but others claim that he sacrificed a deer in her place, or that at the last moment, Artemis took pity on the girl, and took her to be a maiden in one of her temples, substituting a lamb.[73] Hesiod says that Iphigenia became the goddess Hecate.[74]
+(Troas)]] Eight years after the storm had scattered them,[68] the fleet of more than a thousand ships was gathered again. But when they had all reached Aulis, the winds ceased. The prophet Calchas stated that the goddess Artemis was punishing Agamemnon for killing either a sacred deer or a deer in a sacred grove, and boasting that he was a better hunter than she.[69] The only way to appease Artemis, he said, was to sacrifice Iphigenia, who was either the daughter of Agamemnon and Clytemnestra,[70] or of Helen and Theseus entrusted to Clytemnestra when Helen married Menelaus.[71] Agamemnon refused, and the other commanders threatened to make Palamedes commander of the expedition.[72] According to some versions, Agamemnon relented and performed the sacrifice, but others claim that he sacrificed a deer in her place, or that at the last moment, Artemis took pity on the girl, and took her to be a maiden in one of her temples, substituting a lamb.[73] Hesiod says that Iphigenia became the goddess Hecate.[74]
 
 The Achaean forces are described in detail in the Catalogue of Ships, in the second book of the _Iliad_. They consisted of 28 contingents from mainland Greece, the Peloponnese, the Dodecanese islands, Crete, and Ithaca, comprising 1186 pentekonters, ships with 50 rowers. Thucydides says[75] that according to tradition there were about 1200 ships, and that the Boeotian ships had 120 men, while Philoctetes' ships only had the fifty rowers, these probably being maximum and minimum. These numbers would mean a total force of 70,000 to 130,000 men. Another catalogue of ships is given by the _Bibliotheca_ that differs somewhat but agrees in numbers. Some scholars have claimed that Homer's catalogue is an original Bronze Age document, possibly the Achaean commander's order of operations.[76][77][78] Others believe it was a fabrication of Homer.
 
 The second book of the _Iliad_ also lists the Trojan allies, consisting of the Trojans themselves, led by Hector, and various allies listed as Dardanians led by Aeneas, Zeleians, Adrasteians, Percotians, Pelasgians, Thracians, Ciconian spearmen, Paionian archers, Halizones, Mysians, Phrygians, Maeonians, Miletians, Lycians led by Sarpedon and Carians. Nothing is said of the Trojan language; the Carians are specifically said to be barbarian-speaking, and the allied contingents are said to have spoken multiple languages, requiring orders to be translated by their individual commanders.[79] The Trojans and Achaeans in the _Iliad_ share the same religion, same culture and the enemy heroes speak to each other in the same language, though this could be dramatic effect.
 
-Philoktetes_Lemnos_Met_56.171.58.jpg lekythos, 420 BC)]]
+lekythos, 420 BC)]]
 
 Nine years of war
 
@@ -112,11 +110,11 @@ Arrival
 
 Calchas had prophesied that the first Achaean to walk on land after stepping off a ship would be the first to die.[87] Thus even the leading Greeks hesitated to land. Finally, Protesilaus, leader of the Phylaceans, landed first.[88] Odysseus had tricked him, in throwing his own shield down to land on, so that while he was first to leap off his ship, he was not the first to land on Trojan soil. Hector killed Protesilaus in single combat, though the Trojans conceded the beach. In the second wave of attacks, Achilles killed Cycnus, son of Poseidon. The Trojans then fled to the safety of the walls of their city.[89] The walls served as sturdy fortifications for defense against the Greeks; the build of the walls was so impressive that legend held that they had been built by Poseidon and Apollo during a year of forced service to Trojan King Laomedon.[90] Protesilaus had killed many Trojans but was killed by Hector in most versions of the story,[91] though others list Aeneas, Achates, or Ephorbus as his slayer.[92] The Achaeans buried him as a god on the Thracian peninsula, across the Troad.[93] After Protesilaus' death, his brother, Podarces, took command of his troops.
 
-Wenceslas_Hollar_-_Briseis_and_Achilles_crop.jpg]]
+]]
 
 Achilles' campaigns
 
-Achilles_Briseis_MAN_Napoli_Inv9105_n01.jpg' surrender of Briseis to Agamemnon, from the House of the Tragic Poet in Pompeii, fresco, 1st century AD, now in the Naples National Archaeological Museum]] The Achaeans besieged Troy for nine years. This part of the war is the least developed among surviving sources, which prefer to talk about events in the last year of the war. After the initial landing the army was gathered in its entirety again only in the tenth year. Thucydides deduces that this was due to lack of money. They raided the Trojan allies and spent time farming the Thracian peninsula.[94] Troy was never completely besieged, thus it maintained communications with the interior of Asia Minor. Reinforcements continued to come until the very end. The Achaeans controlled only the entrance to the Dardanelles, and Troy and her allies controlled the shortest point at Abydos and Sestus and communicated with allies in Europe.[95]
+' surrender of Briseis to Agamemnon, from the House of the Tragic Poet in Pompeii, fresco, 1st century AD, now in the Naples National Archaeological Museum]] The Achaeans besieged Troy for nine years. This part of the war is the least developed among surviving sources, which prefer to talk about events in the last year of the war. After the initial landing the army was gathered in its entirety again only in the tenth year. Thucydides deduces that this was due to lack of money. They raided the Trojan allies and spent time farming the Thracian peninsula.[94] Troy was never completely besieged, thus it maintained communications with the interior of Asia Minor. Reinforcements continued to come until the very end. The Achaeans controlled only the entrance to the Dardanelles, and Troy and her allies controlled the shortest point at Abydos and Sestus and communicated with allies in Europe.[95]
 
 Achilles and Ajax were the most active of the Achaeans, leading separate armies to raid lands of Trojan allies. According to Homer, Achilles conquered 11 cities and 12 islands.[96] According to Apollodorus, he raided the land of Aeneas in the Troad region and stole his cattle.[97] He also captured Lyrnassus, Pedasus, and many of the neighbouring cities, and killed Troilus, son of Priam, who was still a youth; it was said that if he reached 20 years of age, Troy would not fall. According to Apollodorus,
 
@@ -126,7 +124,7 @@ Kakrides comments that the list is wrong in that it extends too far into the sou
 
 Among the loot from these cities was Briseis, from Lyrnessus, who was awarded to him, and Chryseis, from Hypoplacian Thebes, who was awarded to Agamemnon.[102] Achilles captured Lycaon, son of Priam,[103] while he was cutting branches in his father's orchards. Patroclus sold him as a slave in Lemnos,[104] where he was bought by Eetion of Imbros and brought back to Troy. Only 12 days later Achilles slew him, after the death of Patroclus.[105]
 
-Achilles_Ajax_dice_Louvre_MNB911.jpg, c. 500 BC)]]
+, c. 500 BC)]]
 
 Ajax and a game of _petteia_
 
@@ -150,25 +148,23 @@ Near the end of the ninth year since the landing, the Achaean army, tired from t
 
 _Iliad_
 
-Chryses_Agamemnon_Louvre_K1.jpg
-
 Chryses, a priest of Apollo and father of Chryseis, came to Agamemnon to ask for the return of his daughter. Agamemnon refused, and insulted Chryses, who prayed to Apollo to avenge his ill-treatment. Enraged, Apollo afflicted the Achaean army with plague. Agamemnon was forced to return Chryseis to end the plague, and took Achilles' concubine Briseis as his own. Enraged at the dishonour Agamemnon had inflicted upon him, Achilles decided he would no longer fight. He asked his mother, Thetis, to intercede with Zeus, who agreed to give the Trojans success in the absence of Achilles, the best warrior of the Achaeans.
 
 After the withdrawal of Achilles, the Achaeans were initially successful. Both armies gathered in full for the first time since the landing. Menelaus and Paris fought a duel, which ended when Aphrodite snatched the beaten Paris from the field. With the truce broken, the armies began fighting again. Diomedes won great renown amongst the Achaeans, killing the Trojan hero Pandaros and nearly killing Aeneas, who was only saved by his mother, Aphrodite. With the assistance of Athena, Diomedes then wounded the gods Aphrodite and Ares. During the next days, however, the Trojans drove the Achaeans back to their camp and were stopped at the Achaean wall by Poseidon. The next day, though, with Zeus' help, the Trojans broke into the Achaean camp and were on the verge of setting fire to the Achaean ships. An earlier appeal to Achilles to return was rejected, but after Hector burned Protesilaus' ship, he allowed his close friend[118] and relative Patroclus to go into battle wearing Achilles' armour and lead his army. Patroclus drove the Trojans all the way back to the walls of Troy, and was only prevented from storming the city by the intervention of Apollo. Patroclus was then killed by Hector, who took Achilles' armour from the body of Patroclus.
 
-Triumph_of_Achilles_in_Corfu_Achilleion.jpg, from a panoramic fresco of the Achilleion]] Achilles, maddened with grief, swore to kill Hector in revenge. He was reconciled with Agamemnon and received Briseis back, untouched by Agamemnon. He received a new set of arms, forged by the god Hephaestus, and returned to the battlefield. He slaughtered many Trojans, and nearly killed Aeneas, who was saved by Poseidon. Achilles fought with the river god Scamander, and a battle of the gods followed. The Trojan army returned to the city, except for Hector, who remained outside the walls because he was tricked by Athena. Achilles killed Hector, and afterwards he dragged Hector's body from his chariot and refused to return the body to the Trojans for burial. The Achaeans then conducted funeral games for Patroclus. Afterwards, Priam came to Achilles' tent, guided by Hermes, and asked Achilles to return Hector's body. The armies made a temporary truce to allow the burial of the dead. The _Iliad_ ends with the funeral of Hector.
+, from a panoramic fresco of the Achilleion]] Achilles, maddened with grief, swore to kill Hector in revenge. He was reconciled with Agamemnon and received Briseis back, untouched by Agamemnon. He received a new set of arms, forged by the god Hephaestus, and returned to the battlefield. He slaughtered many Trojans, and nearly killed Aeneas, who was saved by Poseidon. Achilles fought with the river god Scamander, and a battle of the gods followed. The Trojan army returned to the city, except for Hector, who remained outside the walls because he was tricked by Athena. Achilles killed Hector, and afterwards he dragged Hector's body from his chariot and refused to return the body to the Trojans for burial. The Achaeans then conducted funeral games for Patroclus. Afterwards, Priam came to Achilles' tent, guided by Hermes, and asked Achilles to return Hector's body. The armies made a temporary truce to allow the burial of the dead. The _Iliad_ ends with the funeral of Hector.
 
 After the _Iliad_
 
 Penthesilea and the death of Achilles
 
-Akhilleus_Penthesileia_Staatliche_Antikensammlungen_2688.jpg Shortly after the burial of Hector, Penthesilea, queen of the Amazons, arrived with her warriors.[119] Penthesilea, daughter of Otrere and Ares, had accidentally killed her sister Hippolyte. She was purified from this action by Priam,[120] and in exchange she fought for him and killed many, including Machaon[121] (according to Pausanias, Machaon was killed by Eurypylus),[122] and according to one version, Achilles himself, who was resurrected at the request of Thetis.[123] In another version, Penthesilia was killed by Achilles[124] who fell in love with her beauty after her death. Thersites, a simple soldier and the ugliest Achaean, taunted Achilles over his love[125] and gouged out Penthesilea's eyes.[126] Achilles slew Thersites, and after a dispute sailed to Lesbos, where he was purified for his murder by Odysseus after sacrificing to Apollo, Artemis, and Leto.[127]
+Shortly after the burial of Hector, Penthesilea, queen of the Amazons, arrived with her warriors.[119] Penthesilea, daughter of Otrere and Ares, had accidentally killed her sister Hippolyte. She was purified from this action by Priam,[120] and in exchange she fought for him and killed many, including Machaon[121] (according to Pausanias, Machaon was killed by Eurypylus),[122] and according to one version, Achilles himself, who was resurrected at the request of Thetis.[123] In another version, Penthesilia was killed by Achilles[124] who fell in love with her beauty after her death. Thersites, a simple soldier and the ugliest Achaean, taunted Achilles over his love[125] and gouged out Penthesilea's eyes.[126] Achilles slew Thersites, and after a dispute sailed to Lesbos, where he was purified for his murder by Odysseus after sacrificing to Apollo, Artemis, and Leto.[127]
 
 While they were away, Memnon of Ethiopia, son of Tithonus and Eos,[128] came with his host to help his stepbrother Priam.[129] He did not come directly from Ethiopia, but either from Susa in Persia, conquering all the peoples in between,[130] or from the Caucasus, leading an army of Ethiopians and Indians.[131] Like Achilles, he wore armour made by Hephaestus.[132] In the ensuing battle, Memnon killed Antilochus, who took one of Memnon's blows to save his father Nestor.[133] Achilles and Memnon then fought. Zeus weighed the fate of the two heroes; the weight containing that of Memnon sank,[134] and he was slain by Achilles.[135][136] Achilles chased the Trojans to their city, which he entered. The gods, seeing that he had killed too many of their children, decided that it was his time to die. He was killed after Paris shot a poisoned arrow that was guided by Apollo.[137][138][139] In another version he was killed by a knife to the back (or heel) by Paris, while marrying Polyxena, daughter of Priam, in the temple of Thymbraean Apollo,[140] the site where he had earlier killed Troilus. Both versions conspicuously deny the killer any sort of valour, saying Achilles remained undefeated on the battlefield. His bones were mingled with those of Patroclus, and funeral games were held.[141] Like Ajax, he is represented as living after his death in the island of Leuke, at the mouth of the Danube River,[142] where he is married to Helen.[143]
 
 Judgment of Arms
 
-Ajax_suicide_BM_F480.jpg, 400–350 BC, Vulci)]] A great battle raged around the dead Achilles. Ajax held back the Trojans, while Odysseus carried the body away.[144] When Achilles' armour was offered to the smartest warrior, the two that had saved his body came forward as competitors. Agamemnon, unwilling to undertake the invidious duty of deciding between the two competitors, referred the dispute to the decision of the Trojan prisoners, inquiring of them which of the two heroes had done most harm to the Trojans.[145] Alternatively, the Trojans and Pallas Athena were the judges[146][147] in that, following Nestor's advice, spies were sent to the walls to overhear what was said. A girl said that Ajax was braver:
+, 400–350 BC, Vulci)]] A great battle raged around the dead Achilles. Ajax held back the Trojans, while Odysseus carried the body away.[144] When Achilles' armour was offered to the smartest warrior, the two that had saved his body came forward as competitors. Agamemnon, unwilling to undertake the invidious duty of deciding between the two competitors, referred the dispute to the decision of the Trojan prisoners, inquiring of them which of the two heroes had done most harm to the Trojans.[145] Alternatively, the Trojans and Pallas Athena were the judges[146][147] in that, following Nestor's advice, spies were sent to the walls to overhear what was said. A girl said that Ajax was braver:
 
   For Aias took up and carried out of the strife the hero, Peleus' son: this great Odysseus cared not to do. To this another replied by Athena's contrivance: Why, what is this you say? A thing against reason and untrue! Even a woman could carry a load once a man had put it on her shoulder; but she could not fight. For she would fail with fear if she should fight. (Scholiast on Aristophanes, Knights 1056 and Aristophanes ib)
 
@@ -176,7 +172,7 @@ According to Pindar, the decision was made by secret ballot among the Achaeans.[
 
 Prophecies
 
-Villa_Romana_de_La_Olmeda_Mosaicos_romanos_001_Ulises.jpg depicting Odysseus, from the villa of La Olmeda, Pedrosa de la Vega, Spain, late 4th–5th centuries AD]] After the tenth year, it was prophesied[152] that Troy could not fall without Heracles' bow, which was with Philoctetes in Lemnos. Odysseus and Diomedes[153] retrieved Philoctetes, whose wound had healed.[154] Philoctetes then shot and killed Paris.
+depicting Odysseus, from the villa of La Olmeda, Pedrosa de la Vega, Spain, late 4th–5th centuries AD]] After the tenth year, it was prophesied[152] that Troy could not fall without Heracles' bow, which was with Philoctetes in Lemnos. Odysseus and Diomedes[153] retrieved Philoctetes, whose wound had healed.[154] Philoctetes then shot and killed Paris.
 
 According to Apollodorus, Paris' brothers Helenus and Deiphobus vied over the hand of Helen. Deiphobus prevailed, and Helenus abandoned Troy for Mt. Ida. Calchas said that Helenus knew the prophecies concerning the fall of Troy, so Odysseus waylaid Helenus.[155][156] Under coercion, Helenus told the Achaeans that they would win if they retrieved Pelops' bones, persuaded Achilles' son Neoptolemus to fight for them, and stole the Trojan Palladium.[157]
 
@@ -184,7 +180,7 @@ The Greeks retrieved Pelop's bones,[158] and sent Odysseus to retrieve Neoptolem
 
 Disguised as a beggar, Odysseus went to spy inside Troy, but was recognized by Helen. Homesick,[165] Helen plotted with Odysseus. Later, with Helen's help, Odysseus and Diomedes stole the Palladium.[166][167]
 
-Mykonos_vase.jpg c. 670 BC]]
+c. 670 BC]]
 
 Trojan Horse
 
@@ -200,7 +196,7 @@ Both Cassandra and Laocoön warned against keeping the horse.[176] While Cassand
 
 Sack of Troy
 
-Amphora_death_Priam_Louvre_F222.jpg, son of Achilles, kills King Priam (detail of Attic black-figure amphora, 520–510 BC)]]
+, son of Achilles, kills King Priam (detail of Attic black-figure amphora, 520–510 BC)]]
 
 The Achaeans entered the city and killed the sleeping population. A great massacre followed which continued into the day.
 
@@ -227,7 +223,7 @@ The gods were very angry over the destruction of their temples and other sacrile
 -   Agamemnon had made it back to Argos safely with Cassandra in his possession after some stormy weather. He and Cassandra were slain by Aegisthus (in the oldest versions of the story) or by Clytemnestra or by both of them. Electra and Orestes later avenged their father, but Orestes was the one who was chased by the Furies.
 -   Nestor, who had the best conduct in Troy and did not take part in the looting, was the only hero who had a fast and safe return.[204] Those of his army that survived the war also reached home with him safely, but later left and colonised Metapontium in Southern Italy.[205]
 
-Poseidon_and_Ajax.png smites Ajax the Lesser, by Bonaventura Genelli (1798–1868)]]
+smites Ajax the Lesser, by Bonaventura Genelli (1798–1868)]]
 
 -   Ajax the Lesser, who had endured more than the others the wrath of the Gods, never returned. His ship was wrecked by a storm sent by Athena, who borrowed one of Zeus' thunderbolts and tore it to pieces. The crew managed to land in a rock, but Poseidon struck it, and Ajax fell in the sea and drowned. He was buried by Thetis in Myconos[206] or Delos.[207]
 -   Teucer, son of Telamon and half-brother of Ajax, stood trial by his father for his half-brother's death. He was disowned by his father and wasn't allowed back on Salamis Island. He was at sea near Phreattys in Peiraeus.[208] He was acquitted of responsibility but found guilty of negligence because he did not return his dead body or his arms. He left with his army (who took their wives) and founded Salamis in Cyprus.[209] The Athenians later created a political myth that his son left his kingdom to Theseus' sons (and not to Megara).
@@ -238,7 +234,7 @@ Poseidon_and_Ajax.png smites Ajax the Lesser, by Bonaventura Genelli (1798–186
 
 House of Atreus
 
-The_Murder_Of_Agamemnon_-_Project_Gutenberg_eText_14994.png (1879 illustration from Alfred Church's _Stories from the Greek Tragedians_)]] According to the _Odyssey_, Menelaus's fleet was blown by storms to Crete and Egypt, where they were unable to sail away due to calm winds.[222] Only five of his ships survived.[223] Menelaus had to catch Proteus, a shape-shifting sea god, to find out what sacrifices to which gods he would have to make to guarantee safe passage.[224] According to some stories the Helen who was taken by Paris was a fake, and the real Helen was in Egypt, where she was reunited with Menelaus. Proteus also told Menelaus that he was destined for Elysium (Heaven) after his death. Menelaus returned to Sparta with Helen eight years after he had left Troy.[225]
+(1879 illustration from Alfred Church's _Stories from the Greek Tragedians_)]] According to the _Odyssey_, Menelaus's fleet was blown by storms to Crete and Egypt, where they were unable to sail away due to calm winds.[222] Only five of his ships survived.[223] Menelaus had to catch Proteus, a shape-shifting sea god, to find out what sacrifices to which gods he would have to make to guarantee safe passage.[224] According to some stories the Helen who was taken by Paris was a fake, and the real Helen was in Egypt, where she was reunited with Menelaus. Proteus also told Menelaus that he was destined for Elysium (Heaven) after his death. Menelaus returned to Sparta with Helen eight years after he had left Troy.[225]
 
 Agamemnon returned home with Cassandra to Argos. His wife Clytemnestra (Helen's sister) was having an affair with Aegisthus, son of Thyestes, Agamemnon's cousin who had conquered Argos before Agamemnon himself retook it. Possibly out of vengeance for the death of Iphigenia, Clytemnestra plotted with her lover to kill Agamemnon. Cassandra foresaw this murder, and warned Agamemnon, but he disregarded her. He was killed, either at a feast or in his bath,[226] according to different versions. Cassandra was also killed.[227] Agamemnon's son Orestes, who had been away, returned and conspired with his sister Electra to avenge their father.[228] He killed Clytemnestra and Aegisthus and succeeded to his father's throne.[229][230]
 
@@ -246,7 +242,7 @@ Odyssey
 
 Odysseus' ten-year journey home to Ithaca was told in Homer's _Odyssey_. Odysseus and his men were blown far off course to lands unknown to the Achaeans; there Odysseus had many adventures, including the famous encounter with the Cyclops Polyphemus, and an audience with the seer Teiresias in Hades. On the island of Thrinacia, Odysseus' men ate the cattle sacred to the sun-god Helios. For this sacrilege Odysseus' ships were destroyed, and all his men perished. Odysseus had not eaten the cattle, and was allowed to live; he washed ashore on the island of Ogygia, and lived there with the nymph Calypso. After seven years, the gods decided to send Odysseus home; on a small raft, he sailed to Scheria, the home of the Phaeacians, who gave him passage to Ithaca.
 
-Arnold_Böcklin_-_Odysseus_and_Polyphemus.jpg: the Cyclops' curse delays the homecoming of Odysseus for another ten years]] Once in his home land, Odysseus traveled disguised as an old beggar. He was recognised by his dog, Argos, who died in his lap. He then discovered that his wife, Penelope, had been faithful to him during the 20 years he was absent, despite the countless suitors that were eating his food and spending his property. With the help of his son Telemachus, Athena, and Eumaeus, the swineherd, he killed all of them except Medon, who had been polite to Penelope, and Phemius, a local singer who had only been forced to help the suitors against Penelope. Penelope tested Odysseus and made sure it was him, and he forgave her. The next day the suitors' relatives tried to take revenge on him but they were stopped by Athena.
+: the Cyclops' curse delays the homecoming of Odysseus for another ten years]] Once in his home land, Odysseus traveled disguised as an old beggar. He was recognised by his dog, Argos, who died in his lap. He then discovered that his wife, Penelope, had been faithful to him during the 20 years he was absent, despite the countless suitors that were eating his food and spending his property. With the help of his son Telemachus, Athena, and Eumaeus, the swineherd, he killed all of them except Medon, who had been polite to Penelope, and Phemius, a local singer who had only been forced to help the suitors against Penelope. Penelope tested Odysseus and made sure it was him, and he forgave her. The next day the suitors' relatives tried to take revenge on him but they were stopped by Athena.
 
 Telegony
 
@@ -254,7 +250,7 @@ The _Telegony_ picks up where the _Odyssey_ leaves off, beginning with the buria
 
 Aeneid
 
-Aeneas'_Flight_from_Troy_by_Federico_Barocci.jpg]]
+]]
 
 The journey of the Trojan survivor Aeneas and his resettling of Trojan refugees in Italy are the subject of the Latin epic poem _The Aeneid_ by Virgil. Writing during the time of Augustus, Virgil has his hero give a first-person account of the fall of Troy in the second of the _Aeneid_ 's twelve books; the Trojan Horse, which does not appear in "The Iliad", became legendary from Virgil's account.
 
@@ -267,11 +263,11 @@ At Cumae, the Sibyl leads Aeneas on an archetypal descent to the underworld, whe
 
 Dates of the Trojan War
 
-Hypnos_Thanatos_BM_Vase_D56_full.jpg and Thanatos carrying the body of Sarpedon from the battlefield of Troy; detail from an Attic white-ground lekythos, c. 440 BC.]] Since this war was considered among the ancient Greeks as either the last event of the mythical age or the first event of the historical age, several dates are given for the fall of Troy. They usually derive from genealogies of kings. Ephorus gives 1135 BC,[232] Sosibius 1172 BC,[233] Eratosthenes 1184 BC/1183 BC,[234] Timaeus 1193 BC,[235] the Parian marble 1209 BC/1208 BC,[236] Dicaearchus 1212 BC,[237] Herodotus around 1250 BC,[238] Eretes 1291 BC,[239] while Douris 1334 BC.[240] As for the exact day Ephorus gives 23/24 Thargelion (May 6 or 7), Hellanicus 12 Thargelion (May 26)[241] while others give the 23rd of Sciroforion (July 7) or the 23rd of Ponamos (October 7).
+and Thanatos carrying the body of Sarpedon from the battlefield of Troy; detail from an Attic white-ground lekythos, c. 440 BC.]] Since this war was considered among the ancient Greeks as either the last event of the mythical age or the first event of the historical age, several dates are given for the fall of Troy. They usually derive from genealogies of kings. Ephorus gives 1135 BC,[232] Sosibius 1172 BC,[233] Eratosthenes 1184 BC/1183 BC,[234] Timaeus 1193 BC,[235] the Parian marble 1209 BC/1208 BC,[236] Dicaearchus 1212 BC,[237] Herodotus around 1250 BC,[238] Eretes 1291 BC,[239] while Douris 1334 BC.[240] As for the exact day Ephorus gives 23/24 Thargelion (May 6 or 7), Hellanicus 12 Thargelion (May 26)[241] while others give the 23rd of Sciroforion (July 7) or the 23rd of Ponamos (October 7).
 
 The glorious and rich city Homer describes was believed to be Troy VI by many twentieth century authors, destroyed in 1275 BC, probably by an earthquake. Its follower Troy VIIa, destroyed by fire at some point during the 1180s BC, was long considered a poorer city, but since the excavation campaign of 1988 it has risen to the most likely candidate.
 
-Map_Hittite_rule_en.svg, Ahhiyawa (possibly the Achaeans) and Wilusa (Troy)]]
+, Ahhiyawa (possibly the Achaeans) and Wilusa (Troy)]]
 
 
 Historical basis
@@ -297,7 +293,7 @@ References
 
 Further reading
 
-Tabula_iliaca_Musei_Capitolini_MC0316.jpg'', a 1st-century BC Roman bas-relief depicting scenes from Trojan War narratives]]
+'', a 1st-century BC Roman bas-relief depicting scenes from Trojan War narratives]]
 
 Ancient authors
 

@@ -1,1 +1,0 @@
-GA-LAMOLA (sometimes called ROZENKRANTZ) is a sparsely-populated village in Ga-Matlala in the Blouberg Local Municipality of the Capricorn District Municipality of the Limpopo province of South Africa. It is located 73 km northwest of Polokwane and 32 km southeast of Senwabarwana.

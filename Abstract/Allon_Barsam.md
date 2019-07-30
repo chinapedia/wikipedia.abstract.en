@@ -1,1 +1,0 @@
-ALLON BARSAM is a London-based ophthalmologist specializing in cataract surgery, refractive surgery and corneal and external eye disease.[1] Barsam carried out the first human treatments of microwave keratoplasty.[2]

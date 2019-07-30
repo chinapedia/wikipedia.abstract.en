@@ -1,1 +1,0 @@
-DENG ZHIWEI (born February 1, 1988) is a Chinese heavyweight freestyle wrestler who won a silver medal at the 2018 Asian Games. He competed at the 2016 Olympics, and was eliminated in the round of 16 by Levan Berianidze.[1][2]

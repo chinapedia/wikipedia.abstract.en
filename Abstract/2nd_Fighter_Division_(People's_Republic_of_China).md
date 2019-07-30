@@ -1,1 +1,0 @@
-The 2ND FIGHTER DIVISION of the People's Liberation Army Air Force is an air formation of the People's Republic of China. It was part of the Guangzhou Military Region Air Force and was originally made up of the 4th, 5th, and 6th Fighter Regiments.

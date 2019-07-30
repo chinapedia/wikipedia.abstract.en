@@ -1,1 +1,0 @@
-_THE SFWA GRAND MASTERS, VOLUME 1_ is an anthology of science fiction short works edited by Frederik Pohl. It was first published in hardcover by Tor Books in June 1999, and in trade paperback by the same publisher in August 2001. It has been translated into Italian.[1]

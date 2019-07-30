@@ -1,1 +1,0 @@
-The CHAUÁS ECOLOGICAL STATION () is an ecological station in the state of São Paulo, Brazil. It protects an area of lagoons and marshes in the Atlantic Forest biome, and is home to several endangered species. It is strictly protected, and is not open to the public.

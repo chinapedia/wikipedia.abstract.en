@@ -1,1 +1,0 @@
-'''Adamantia Doureka ''' (born 26 September 1998) is a Greek water polo player. She played for Olympiacos in Greece.[1][2] She was part of the Greece women's team winning the bronze medal at the 2015 European Games in Baku.[3]

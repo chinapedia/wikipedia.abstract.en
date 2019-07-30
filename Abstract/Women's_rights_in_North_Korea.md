@@ -1,1 +1,0 @@
-Laika_ac_School_(6900354645).jpg]]WOMEN'S RIGHTS IN NORTH KOREA have varied throughout history. In recent history, major events of the 20th century, such as the Division of Korea and later the 1990s North Korean famine have played an important role in shaping sex relations.

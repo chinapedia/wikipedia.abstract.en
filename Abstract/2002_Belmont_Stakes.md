@@ -1,1 +1,0 @@
-The 2002 BELMONT STAKES was the 134th running of the Belmont Stakes. The race, known as the "test of the champion" and sometimes called the "final jewel" in thoroughbred horse racing's Triple Crown series, was held on June 8, 2002, three weeks after the Preakness Stakes and five weeks after the Kentucky Derby.

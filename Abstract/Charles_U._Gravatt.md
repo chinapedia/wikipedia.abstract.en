@@ -1,1 +1,0 @@
-CHARLES URQUHART GRAVATT (June 28, 1849 – April 14, 1922) was an American physician, naval officer, and Democratic politician who served as a member of the Virginia Senate from 1908 until his death in 1922.[1][2] A veteran of the Spanish–American War, he served as the fleet surgeon under Admiral William T. Sampson at the Battle of Santiago de Cuba.

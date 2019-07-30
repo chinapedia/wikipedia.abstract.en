@@ -1,1 +1,0 @@
-The UNION PARISH SHERIFF'S OFFICE is the primary law enforcement agency of Union Parish, Louisiana. It falls under the authority of the Sheriff, an elected official who is the chief law enforcement officer of the parish. UPSO is headquartered in Farmerville, Louisiana.

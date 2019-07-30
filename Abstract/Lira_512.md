@@ -1,1 +1,0 @@
-LIRA 512 (also known as LIRA XT) was an IBM PC XT compatible computer made by the Yugoslav (now Serbian) company EI Niš in the late 1980s. It was first presented to the public in April 1988 at the “Kompjuter ‘88” computer show in Belgrade.[1] Soon after that, Lira 512 was also presented in Yugoslav computer press.[2][3][4]

@@ -1,1 +1,0 @@
--   _Antiaris toxicaria_ (upas tree): antiarin

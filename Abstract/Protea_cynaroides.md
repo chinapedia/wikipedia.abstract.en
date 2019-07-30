@@ -1,1 +1,0 @@
-_PROTEA CYNAROIDES_, the KING PROTEA, is a flowering plant. It is a distinctive member of _Protea_, having the largest flower head in the genus. The species is also known as GIANT PROTEA, HONEYPOT or KING SUGAR BUSH. It is widely distributed in the southwestern and southern parts of South Africa in the fynbos region.

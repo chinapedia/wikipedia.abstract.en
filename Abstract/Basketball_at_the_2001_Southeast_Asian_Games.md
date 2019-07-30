@@ -1,1 +1,0 @@
-BASKETBALL at the 2001 SOUTHEAST ASIAN GAMES was held from 9 to 16 September 2001 in Kuala Lumpur, Malaysia. This edition featured both tournaments for men's and women's team. All matches were held in Malaysia Basketball Association Stadium.[1]

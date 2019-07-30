@@ -1,1 +1,0 @@
-The COMMONWEALTH BANK OFFICERS' ASSOCIATION was an Australian trade union, comprising staff of the Commonwealth Bank of Australia. It was established in 1930 and continued until 1993 when combined with another sector union to form the Finance Sector Union in a wider process of union amalgamation in Australia at that time.[1]

@@ -1,1 +1,0 @@
-EDUARDO JOSÉ PAREDES DURÁN (born March 6, 1995) is a Venezuelan professional baseball pitcher for the Kansas City T-Bones of the American Association of Independent Professional Baseball. He previously played in Major League Baseball (MLB) for the Los Angeles Angels.

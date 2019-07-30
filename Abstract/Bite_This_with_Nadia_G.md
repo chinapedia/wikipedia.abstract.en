@@ -1,1 +1,0 @@
-TVGuide.com|work=TV Guide|publisher=CBS Interactive|accessdate=November 15, 2016}} | preceded_by = | followed_by = | related = | website = http://www.cookingchanneltv.com/shows/bite-this-with-nadia-g.html | website_title = Bite This with Nadia G : Shows : Cooking Channel | production_website = http://www.triconfilms.com | production_website_title = Tricon Films – Site }}

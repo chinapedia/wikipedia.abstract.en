@@ -1,1 +1,0 @@
-MAXIMILIAN ROMEDIO JOHANN-ERNST GRAF VON THUN UND HOHENSTEIN (born 21 February 1977 in Munich, Germany), commonly known as MAX VON THUN, is an Austrian actor and television presenter. He is the son of actor Friedrich von Thun.

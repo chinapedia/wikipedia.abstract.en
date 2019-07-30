@@ -1,1 +1,0 @@
-STATE ROUTE 154 (SR 154) is an east-west state highway in central Tennessee. It is a long route that traverses Fentress and Pickett counties in middle Tennessee, along with a tiny portion of Scott County in east Tennessee.[1]

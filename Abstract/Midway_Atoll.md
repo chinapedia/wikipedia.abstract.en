@@ -1,1 +1,0 @@
-Hawaiianislandchain_USGS.png

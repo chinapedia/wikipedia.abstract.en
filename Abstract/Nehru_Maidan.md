@@ -1,1 +1,0 @@
-NEHRU MAIDAN or CENTRAL MAIDAN is a multi purpose ground in Mangalore, Karnataka, India. This ground is situated in heart of the city Hampankatta. The ground is mainly used for organizing matches of football, cricket and other sports. Also known for many public events organized here such as political rallies, religious festivals, exhibitions.[1][2]

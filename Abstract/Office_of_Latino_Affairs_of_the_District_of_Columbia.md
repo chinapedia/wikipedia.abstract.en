@@ -1,1 +1,0 @@
-The OFFICE ON LATINO AFFAIRS OF THE DISTRICT OF COLUMBIA (OLA) was created by the passage of DC Law 1-86 by the city council on September 29, 1976 and was made part of the Executive office of the Mayor of the District of Columbia. The original bill co-sponsors included city council-members Marion S. Barry, Polly Shackleton, and Ward 2 member John_A._Wilson_(politician)

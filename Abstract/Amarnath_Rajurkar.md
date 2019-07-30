@@ -1,1 +1,0 @@
-AMARNATH RAJURKAR is a politician of the Indian National Congress. On 23 November 2016 he was re-elected to the Maharashtra Legislative Council from Local Areas Constituency of Nanded. Of total 472 voters, Mr Rajurkar secured 251 whereas his only rival Mr Shinde, the former government officer, got 208 votes. He served one term as MLC from 2010 - 2016.[1]

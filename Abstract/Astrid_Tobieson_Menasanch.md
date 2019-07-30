@@ -1,1 +1,0 @@
-Astrid_Menasanch_Tobieson_03.jpg ASTRID TOBIESON MENASANCH, born 29 December 1989,[1] is a Swedish and Spanish playwright, director, producer[2] and journalist.[3] She has family in both Sweden and Spain.[4]

@@ -1,1 +1,0 @@
-_NEW SKIN_ is the debut album by American rock band CRX. It was released on October 28, 2016.[1] Lead singer, Nick Valensi has described the album's sound as a mix of power pop and heavy metal, and has named The Cars, Cheap Trick and Elvis Costello as influences.[2]

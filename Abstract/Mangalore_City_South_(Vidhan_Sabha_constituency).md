@@ -1,1 +1,0 @@
-MANGALORE CITY SOUTH is one of the Karnataka Legislative Assembly or Vidhan Sabha constituency in Karnataka. It is one of the three constituencies which represent Mangalore others being Mangalore and Mangalore City North.

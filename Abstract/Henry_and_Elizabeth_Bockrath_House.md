@@ -1,1 +1,0 @@
-HENRY AND ELIZABETH BOCKRATH HOUSE is a historic home located in Jefferson City, Cole County, Missouri. It was built about 1899, and is a two-story, Second Empire style red brick dwelling. It sits on a limestone foundation and has a slate-covered faux mansard roof. It features a decorative wood bracketed cornice.[1]

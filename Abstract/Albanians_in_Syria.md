@@ -1,1 +1,0 @@
-ALBANIANS IN SYRIA () constitute a community of about 5,000 to 10,000 inhabitants,[1][2] primarily in the cities of Damascus and Hama, Aleppo and Latakia.[3] Albanians in Syria are known as _الأرناؤوط/Arnā’ūṭ_.[4]

@@ -1,1 +1,0 @@
-VIRINCHI VARMA is a Telugu film director.[1][2] He made his film debut with _Uyyala Jampala_ in 2013 and also directed _Majnu_, which featured Nani and Anu Emmanuel in the lead roles. The film was released worldwide on 23 September 2016.

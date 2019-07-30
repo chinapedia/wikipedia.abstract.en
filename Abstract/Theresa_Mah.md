@@ -1,1 +1,0 @@
-THERESA MAH is a Democratic member of the Illinois House of Representatives who has represented the 2nd district since January 2017. The 2nd district, located in Chicago, includes Back of the Yards, Bridgeport, Brighton Park, Chinatown, McKinley Park and Pilsen.[1]

@@ -1,1 +1,0 @@
-MOCHA USON BLOG (stylized as MOCHA USON BLOG) is a blog maintained in a Facebook page of the same name which serves as a political advocacy page for supporters of Philippine President Rodrigo Duterte. It is run by dancer and stalwart Duterte supporter Mocha Uson. It previously served as a Facebook page counterpart of the Mocha Girls' website before the latter went defunct.

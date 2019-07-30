@@ -1,1 +1,0 @@
-JOHANNES NICOLAUS BRØNSTED (; 22 February 1879 – 17 December 1947) born in Varde, was a Danish physical chemist.[1][2][3] He earned a degree in chemical engineering in 1899 and his Ph.D. in 1908 from the University of Copenhagen and was immediately thereafter appointed professor of inorganic and physical chemistry at the same university.[4]

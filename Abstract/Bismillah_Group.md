@@ -1,1 +1,0 @@
-BISMILLAH GROUP is terry towel producer and exporter that embezzled 9.9 billion Taka from five separate banks and is located in Dhaka, Bangladesh.[1][2][3] As of 2015 the banks are yet to recovery any of the stolen funds.[4]

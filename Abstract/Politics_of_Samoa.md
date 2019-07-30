@@ -1,1 +1,0 @@
-POLITICS OF SAMOA takes place in a framework of a parliamentary representative democratic state whereby the Prime Minister of Samoa is the head of government. Existing alongside the country's Western styled political system is the _fa'amatai_ chiefly system of socio-political governance and organisation, central to understanding Samoa's political system.

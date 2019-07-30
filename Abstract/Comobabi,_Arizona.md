@@ -1,1 +1,0 @@
-COMOBABI is both a census-designated place (CDP) and a populated place in Pima County, Arizona, United States. The population was 8 at the 2010 census. It is located within the Tohono O'odham Indian Reservation.

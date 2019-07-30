@@ -1,1 +1,0 @@
-_DROPPIN' BOMBS_ (also titled as _DROPPIN' BOMBS: THE DEFINITIVE TROUBLE FUNK_)[1] is a double-compilation album released on August 25, 1998[2] by the Washington, D.C.-based go-go band Trouble Funk.[3][4][5]

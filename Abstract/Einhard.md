@@ -1,1 +1,0 @@
-Éginhard_Vita_Caroli_magni_imperatoris-Lettrine_V_historiée_Charlemagne_assis.jpg

@@ -1,1 +1,0 @@
-CYRIL CROSS was an English actor, who is best known for playing _Monsieur Chargon_ in ''A Patriotic Offering '' of the first episode of the fourth series of the period drama _Upstairs, Downstairs_.[1] It first aired on 14 September 1974 on ITV.[2]

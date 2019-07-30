@@ -1,1 +1,0 @@
-The ARKANSAS DIAMONDS were a professional American football team based in Little Rock, Arkansas. They began play in 1966 as an independent, semi-professional club until they joined the Continental Football League for its 1968 season.[1] The CFL ceased operations after its 1969 season, and the Diamonds folded in March 1970.[2]

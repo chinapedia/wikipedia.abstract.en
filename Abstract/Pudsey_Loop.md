@@ -1,1 +1,0 @@
-The PUDSEY LOOP was a railway line in the former West Riding of Yorkshire, England, which served the town of Pudsey and offered a second connection between Bramley and Stanningley in the east and Laisterdyke and Dudley Hill in the west, in addition to the existing line between Leeds and Bradford.

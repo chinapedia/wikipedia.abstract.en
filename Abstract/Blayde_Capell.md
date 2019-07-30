@@ -1,1 +1,0 @@
-BLAYDE CAPELL (born 3 June 1997) is a South African cricketer.[1] He made his first-class debut for KwaZulu-Natal in the 2016–17 Sunfoil 3-Day Cup on 20 October 2016.[2] He made his List A debut for KwaZulu-Natal in the 2017–18 CSA Provincial One-Day Challenge on 15 October 2017.[3]

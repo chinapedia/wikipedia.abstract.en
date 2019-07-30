@@ -1,1 +1,0 @@
-ARTHUR FRANCIS SMALL (born 26 February 1946) is a retired New Zealand engineer. He served as the national president of Scouting New Zealand, as well as the vice-chairman of the Asia-Pacific Regional Scout Committee.[1]

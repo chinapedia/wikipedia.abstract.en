@@ -1,1 +1,0 @@
-LAURENCE PEACOCK is an English playwright and dramaturg based in Sheffield, South Yorkshire. His _Canary Girls_, about the canary girls (munitions workers) of World War I, was one of Mikron Theatre Company's two touring productions in 2016,[1][2] and his _In At The Deep End_, about the Royal National Lifeboat Institution, is one of their two productions in 2017.[3]

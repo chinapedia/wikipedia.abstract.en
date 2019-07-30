@@ -1,1 +1,0 @@
-Commutation}} In mathematics, the COMMUTATOR gives an indication of the extent to which a certain binary operation fails to be commutative. There are different definitions used in group theory and ring theory.

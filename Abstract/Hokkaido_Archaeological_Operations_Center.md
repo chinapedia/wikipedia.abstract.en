@@ -1,1 +1,0 @@
-opened in Ebetsu, Hokkaidō, Japan in 1999. Its aim is to protect, preserve, and utilize buried cultural properties.[1][2] The exhibition hall features two Important Cultural Properties: an earthen Jōmon mask from the Mamachi Site and artefacts excavated from the Bibi 8 Site.[3][4]

@@ -1,1 +1,0 @@
-KRN23 is an investigational human monoclonal IgG₁ antibody targeted against the phosphaturic hormone, fibroblast growth factor 23 (FGF23).[1] Initially discovered by Kyowa Hakko Kirin, it is now being developed by Ultragenyx and is currently in Phase III clinical trials for the treatment of X-linked hypophosphatemia (XLH).[2]

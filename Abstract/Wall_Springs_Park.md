@@ -1,1 +1,0 @@
-WALL SPRINGS PARK is a park located in Palm Harbor, Florida. The park includes a historical natural spring which was used as a bathing area from the turn of the 20th century until the 1960s. The park is located in Pinellas County, on the Florida Gulf Coast.[1]

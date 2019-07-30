@@ -1,1 +1,0 @@
-The 2016 ABIERTO TAMPICO was a professional tennis tournament played on outdoor hard courts. It was the 4th edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $50,000+H in prize money. It took place in Tampico, Mexico, on 24–30 October 2016.

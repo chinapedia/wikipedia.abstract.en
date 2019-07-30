@@ -1,1 +1,0 @@
-The following is a summary of the TRANSPORT SYSTEM OF THE REPUBLIC OF NORTH MACEDONIA.

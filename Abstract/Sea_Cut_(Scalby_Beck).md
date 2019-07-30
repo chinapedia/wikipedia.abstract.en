@@ -1,1 +1,0 @@
-The SEA CUT (SCALBY BECK)[1][2] is a small river that enters the North Sea at Scalby Mills, Scarborough, North Yorkshire, England. The beck is fed from local streams in Scalby, Newby and Burniston and other watercourses draining off the nearby hills. It is also a bypass channel for the upper reaches of the River Derwent when it is under flood conditions.

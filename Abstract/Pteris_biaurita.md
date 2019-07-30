@@ -1,1 +1,0 @@
-_PTERIS BIAURITA_, the THINLEAF BRAKE, is a fern species in the genus _Pteris_. It is widely distributed around the world, including Africa, the Americas, and Asia. The plants are 70–110 cm in height, with erect, woody rhizomes 2–2.5 cm in diameter, and the apex densely covered with brown scales.

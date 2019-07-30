@@ -1,1 +1,0 @@
-_MECH-X4_ is an American sci-fi adventure comedy television series created by Steve Marmel that premiered on Disney Channel on November 11, 2016, and moved to Disney XD on April 17, 2017. The series stars Nathaniel Potvin, Raymond Cham, Kamran Lucas, Pearce Joza, and Alyssa Jirrels.

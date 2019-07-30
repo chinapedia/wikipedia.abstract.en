@@ -1,1 +1,0 @@
-SAMANTHA SLEEPER is an American Fashion Designer from Highland Park, Illinois[1] where she graduated from Highland Park High School in 2005. Sleeper earned a BFA, from Parsons The New School of Design in 2009 where she majored in Fashion Design.[2][3] Her first collection landed the cover of Women's Wear Daily as part of their "Globe Runners" article.[4][5]

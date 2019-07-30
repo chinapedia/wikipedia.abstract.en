@@ -1,4 +1,4 @@
-Old_and_new_London_-_a_narrative_of_its_history,_its_people,_and_its_places_(1873)_(14598096217).jpg Royal_Charity_Performance.jpg sitting in the Star Chamber and receiving William Warham, Archbishop of Canterbury, Richard Foxe, Bishop of Winchester, and clerics associated with Westminster Abbey and St Paul's Cathedral, as well as the Mayor of London.]]
+sitting in the Star Chamber and receiving William Warham, Archbishop of Canterbury, Richard Foxe, Bishop of Winchester, and clerics associated with Westminster Abbey and St Paul's Cathedral, as well as the Mayor of London.]]
 
 The STAR CHAMBER (Latin: _Camera stellata_) was an English court which sat at the royal Palace of Westminster, from the late to the mid-17th century (c. 1641), and was composed of Privy Counsellors and common-law judges, to supplement the judicial activities of the common-law and equity courts in civil and criminal matters. The Star Chamber was originally established to ensure the fair enforcement of laws against socially and politically prominent people so powerful that ordinary courts would probably hesitate to convict them of their crimes. However, it became synonymous with social and political oppression through the arbitrary use and abuse of the power it wielded.
 
@@ -7,7 +7,7 @@ In modern usage, legal or administrative bodies with strict, arbitrary rulings a
 
 Origin of the name
 
-Giotto_di_Bondone_-_Vault_-_WGA09168.jpg of the Scrovegni Chapel, frescoed by Giotto]]
+of the Scrovegni Chapel, frescoed by Giotto]]
 
 The first reference to the "star chamber" is in 1398, as the _Sterred chambre_; the more common form of the name appears in 1422 as _le Sterne-chamere_. Both forms recur throughout the fifteenth century, with _Sterred Chambre_ last attested as appearing in the Supremacy of the Crown Act 1534 (establishing the English monarch as head of the Church of England). The origin of the name has usually been explained as first recorded by John Stow, writing in his _Survey of London_ (1598), who noted "this place is called the Star Chamber, at the first all the roofe thereof was decked with images of starres gilted".[1][2] Gold stars on a blue background were a common medieval decoration for ceilings in richly decorated rooms: the Star Chamber ceiling itself is still to be seen at Leasowe Castle, Wirral, and a similar examples are in the Scrovegni Chapel in Padua and elsewhere.
 

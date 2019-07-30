@@ -1,1 +1,0 @@
-Edgardo_Novick.jpg

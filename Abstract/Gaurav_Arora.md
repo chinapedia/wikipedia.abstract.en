@@ -1,1 +1,0 @@
-GAURAV ARORA is an Indian actor and Supermodel. He was the second runner - up in Gladrags Manhunt and Megamodel Contest in 2006. He has appeared in numerous print-shoots and television commercials of reputed brands. He has been a part of the major fashion shows, and walked the ramp for some of India's biggest designers.[1]

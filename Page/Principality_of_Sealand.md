@@ -15,7 +15,7 @@ In 1943, during World War II, HM Fort Roughs (sometimes called Roughs Tower) was
 
 Occupation and establishment
 
-Sealand_Passport_Stamp.png Roughs Tower was occupied in February and August 1965 by Jack Moore and his daughter Jane, squatting on behalf of the pirate station Wonderful Radio London.
+Roughs Tower was occupied in February and August 1965 by Jack Moore and his daughter Jane, squatting on behalf of the pirate station Wonderful Radio London.
 
 On 2 September 1967, the fort was occupied by Major Paddy Roy Bates, a British subject and pirate radio broadcaster, who ejected a competing group of pirate broadcasters.[18] Bates intended to broadcast his pirate radio station – called Radio Essex – from the platform.[19] Despite having the necessary equipment, he never began broadcasting.[20] Bates declared the independence of Roughs Tower and deemed it the Principality of Sealand.[21]
 
@@ -33,7 +33,7 @@ In 1997, the Bates family revoked all Sealand passports, including those that th
 
 2006 fire
 
-Sealandafterfire2.JPG On the afternoon of 23 June 2006, the top platform of the Roughs Tower caught fire due to an electrical fault. A Royal Air Force rescue helicopter transferred one person to Ipswich hospital, directly from the tower. The Harwich lifeboat stood by the Roughs Tower until a local fire tug extinguished the fire.[35] All damage was repaired by November 2006.[36]
+On the afternoon of 23 June 2006, the top platform of the Roughs Tower caught fire due to an electrical fault. A Royal Air Force rescue helicopter transferred one person to Ipswich hospital, directly from the tower. The Harwich lifeboat stood by the Roughs Tower until a local fire tug extinguished the fire.[35] All damage was repaired by November 2006.[36]
 
 Attempted sales
 
@@ -48,7 +48,7 @@ Legal status
 
 The claim that Sealand is an independent sovereign state is based on an interpretation of a 1968 decision of an English court, in which it was held that Roughs Tower was in international waters and thus outside the jurisdiction of the domestic courts.[47]
 
-Map_of_Sealand_with_territorial_waters.svg In international law, the most common schools of thought for the creation of statehood are the constitutive and declaratory theories of state creation.
+In international law, the most common schools of thought for the creation of statehood are the constitutive and declaratory theories of state creation.
 
 The constitutive theory is the standard nineteenth-century model of statehood. The constitutive theory posits that a state exists exclusively via recognition by other states. The theory splits on whether this recognition requires diplomatic recognition or merely recognition of existence. No other state grants Sealand official recognition, but Bates argued that negotiations carried out by Germany following a brief hostage incident constituted recognition of existence and, since the German government reportedly sent an ambassador to the tower, diplomatic recognition.
 
@@ -67,7 +67,7 @@ At a micronations conference hosted by the University of Sunderland in 2004, Sea
 
 Sealand's constitution was instituted in 1974. It consists of a preamble and seven articles.[55] The preamble asserts Sealand's independence, while the articles variously deal with Sealand's status as a constitutional monarchy, the empowerment of government bureaux, the role of an appointed, advisory senate, the functions of an appointed, advisory legal tribunal, a proscription against the bearing of arms except by members of a designated "Sealand Guard", the exclusive right of the sovereign to formulate foreign policy and alter the constitution, and the hereditary patrilinear succession of the monarchy.[56]
 
-Sealand's legal system is claimed to follow British common law, and statutes take the form of decrees enacted by the sovereign.[57] Sealand has issued "fantasy passports" (as termed by the Council of the European Union), which are not valid for international travel,[58] and holds the Guinness World Record for "the smallest area to lay claim to nation status".[59] Sealand's motto is _E Mare Libertas_ (_From the Sea, Freedom_). It appears on Sealandic items – such as stamps, passports and coins – and is the title of the Sealandic anthem. The anthem was composed by Londoner Basil Simonenko;[60] being an instrumental anthem, it does not have lyrics. In 2005, the anthem was recorded by the Slovak Radio Symphony Orchestra and released on their CD _National Anthems of the World, Vol. 7: Qatar – Syria_. Principe_di_Sealand.jpg
+Sealand's legal system is claimed to follow British common law, and statutes take the form of decrees enacted by the sovereign.[57] Sealand has issued "fantasy passports" (as termed by the Council of the European Union), which are not valid for international travel,[58] and holds the Guinness World Record for "the smallest area to lay claim to nation status".[59] Sealand's motto is _E Mare Libertas_ (_From the Sea, Freedom_). It appears on Sealandic items – such as stamps, passports and coins – and is the title of the Sealandic anthem. The anthem was composed by Londoner Basil Simonenko;[60] being an instrumental anthem, it does not have lyrics. In 2005, the anthem was recorded by the Slovak Radio Symphony Orchestra and released on their CD _National Anthems of the World, Vol. 7: Qatar – Syria_.
 
 
 Business operations
@@ -76,7 +76,7 @@ Sealand has been involved in several commercial operations, including the issuin
 
 Coins and stamps
 
-Sealand_Coins_Flag.jpg Several dozen different Sealand coins have been minted since 1972. In the early 1990s, Achenbach's German group also produced a coin, featuring a likeness of 'Prime Minister Seiger'.[65] Sealand's coins and postage stamps are denominated in 'Sealand dollars', which it deems to be at parity with the US dollar.[66] Sealand first issued postage stamps in 1969, and issues through 1977. No further stamps were produced until 2010. Sealand is not a member of the Universal Postal Union, therefore its inward address is a PO Box in the British borough of Ipswich.[67] Once an item is mailed to Sealand's tourist and government office, it will then be taken to Sealand. Sealand only has one street address, _The Row_.[68]
+Several dozen different Sealand coins have been minted since 1972. In the early 1990s, Achenbach's German group also produced a coin, featuring a likeness of 'Prime Minister Seiger'.[65] Sealand's coins and postage stamps are denominated in 'Sealand dollars', which it deems to be at parity with the US dollar.[66] Sealand first issued postage stamps in 1969, and issues through 1977. No further stamps were produced until 2010. Sealand is not a member of the Universal Postal Union, therefore its inward address is a PO Box in the British borough of Ipswich.[67] Once an item is mailed to Sealand's tourist and government office, it will then be taken to Sealand. Sealand only has one street address, _The Row_.[68]
 
 A Sealand mailing address looks like this:[69]
 
@@ -98,7 +98,7 @@ In 2000, worldwide publicity was created about Sealand following the establishme
 
 Sports
 
-Sealand is not recognised by any major international sporting body, and its population is insufficient to maintain a team composed entirely of Sealanders in any team sport. However, Sealand claims to have official national athletes, including non-Sealanders. These athletes take part in various sports, such as curling, mini-golf, football, fencing, ultimate, table football and athletics, although all its teams compete out of the country.[74] The Sealand National Football Association is an associate member of the Nouvelle Fédération-Board, a football sanctioning body for non-recognised states and states not members of FIFA. It administers the Sealand national football team. In 2004 the national team played its first international game against Åland Islands national football team, drawing 2–2.[75] Sealand_football.jpg Sealand claims that its first official athlete was Darren Blackburn of Oakville, Ontario, Canada, who was appointed in 2003. Blackburn has represented Sealand at a number of local sporting events, including marathons and off-trail races.[76] In 2004, mountaineer Slader Oviatt carried the Sealandic flag to the top of Muztagh Ata.[77] Also in 2007, Michael Martelle represented the Principality of Sealand in the World Cup of Kung Fu, held in Quebec City, Canada; bearing the designation of _Athleta Principalitas Bellatorius_ (Principal Martial Arts Athlete and Champion), Martelle won two silver medals, becoming the first-ever Sealand athlete to appear on a world championship podium.[78]
+Sealand is not recognised by any major international sporting body, and its population is insufficient to maintain a team composed entirely of Sealanders in any team sport. However, Sealand claims to have official national athletes, including non-Sealanders. These athletes take part in various sports, such as curling, mini-golf, football, fencing, ultimate, table football and athletics, although all its teams compete out of the country.[74] The Sealand National Football Association is an associate member of the Nouvelle Fédération-Board, a football sanctioning body for non-recognised states and states not members of FIFA. It administers the Sealand national football team. In 2004 the national team played its first international game against Åland Islands national football team, drawing 2–2.[75] Sealand claims that its first official athlete was Darren Blackburn of Oakville, Ontario, Canada, who was appointed in 2003. Blackburn has represented Sealand at a number of local sporting events, including marathons and off-trail races.[76] In 2004, mountaineer Slader Oviatt carried the Sealandic flag to the top of Muztagh Ata.[77] Also in 2007, Michael Martelle represented the Principality of Sealand in the World Cup of Kung Fu, held in Quebec City, Canada; bearing the designation of _Athleta Principalitas Bellatorius_ (Principal Martial Arts Athlete and Champion), Martelle won two silver medals, becoming the first-ever Sealand athlete to appear on a world championship podium.[78]
 
 In 2008, Sealand hosted a skateboarding event with Church and East sponsored by Red Bull.[79][80][81]
 

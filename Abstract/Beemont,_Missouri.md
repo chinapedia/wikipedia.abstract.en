@@ -1,1 +1,0 @@
-BEEMONT is an unincorporated community in western Franklin County, in the U.S. state of Missouri.[1] The community is located on Missouri Route ZZ on the west side of Boeuf Creek one half mile east of the Franklin-Gasconade county line.[2]

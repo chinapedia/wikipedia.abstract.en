@@ -1,1 +1,0 @@
-BRIAN JONES (born April 22, 1994) is a professional Canadian football wide receiver who is currently a free agent. He most recently played for the Hamilton Tiger-Cats of the Canadian Football League (CFL). He played Canadian Interuniversity Sport (CIS) football with the Acadia Axemen.

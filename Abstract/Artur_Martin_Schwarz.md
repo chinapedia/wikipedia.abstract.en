@@ -1,1 +1,0 @@
-ARTUR MARTIN SCHWARZ (1887–1963) was an Austrian orthodontist who is credited for developing Schwarz double plates in 1956.[1] His appliance later served as a basis for the development of the Twin Block Appliance, which promotes growth of the lower jaw, for example to treat overbite.

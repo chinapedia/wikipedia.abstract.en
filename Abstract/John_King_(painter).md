@@ -1,1 +1,0 @@
-JOHN KING or JOHN GREGORY KING (16 April 1929 – 8 September 2014) was an English painter, considered a leading sporting artist of the post war era.[1] His works stretched from military and ceremonial occasions, to horse and hound portraits, and hunting scenes.[2]

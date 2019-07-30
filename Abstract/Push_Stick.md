@@ -1,1 +1,0 @@
-A PUSH STICK, PUSH SHOE, or PUSH BLOCK is a safety device used when working with stationary routers, jointers, or power saws such as table saws or bandsaws.[1] The purpose of a push stick is to help the user safely maneuver a workpiece, keeping it flat against a machine table or fence while it is being cut. Table_saw_push_stick_overhead.jpg

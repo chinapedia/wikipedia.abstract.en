@@ -1,1 +1,0 @@
-VSEVOLOD TKACHUK (;)

@@ -1,1 +1,0 @@
-NAJRUL HOQUE (born January 31, 1970 in Sagolia, Assam) is an All India United Democratic Front politician from Assam. He was elected in Assam Legislative Assembly election in 2016 from Dhubri constituency.[1][2][3][4]

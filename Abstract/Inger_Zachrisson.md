@@ -1,1 +1,0 @@
-INGER ZACHRISSON (born 1936) is a Swedish archaeologist specializing in the history of the Sami people. As Associate Professor of Archaeology at Uppsala University and former curator of Stockholm's History Museum, she has researched Sami archaeology and history since the Iron Age.[1][2]

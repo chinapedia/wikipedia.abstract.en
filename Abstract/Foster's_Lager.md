@@ -1,1 +1,0 @@
-FOSTER'S LAGER is an internationally distributed brand of lager. It is owned by the international brewing group AB InBev, and is brewed under licence in a number of countries, including its biggest market, the UK, where the European rights to the brand are owned by Heineken International.

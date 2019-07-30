@@ -1,1 +1,0 @@
-This is an incomplete alphabetical list by surname of notable ECONOMISTS, experts in the social science of economics, past and present. For a history of economics, see the article History of economic thought. Only economists with biographical articles in Wikipedia are listed here.

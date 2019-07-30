@@ -1,4 +1,4 @@
-Suur_Taevaskoda_2010_01.jpg Sandstone at Suur Taevaskoda, Põlva County, Estonia]] MoabAlcove.JPG in the Navajo Sandstone]] PetraSandStoneRock-cut_tombs.jpg tombs cut into the multicoloured sandstone of Petra, Jordan]]
+Sandstone at Suur Taevaskoda, Põlva County, Estonia]] in the Navajo Sandstone]] tombs cut into the multicoloured sandstone of Petra, Jordan]]
 
 SANDSTONE is a clastic sedimentary rock composed mainly of sand-sized (0.0625 to 2 mm) mineral particles or rock fragments.
 
@@ -11,9 +11,9 @@ Quartz-bearing sandstone can be changed into quartzite through metamorphism, usu
 
 Origins
 
-CoralPinkSandDunesSand.JPG, Utah. These are grains of quartz with a hematite coating providing the orange colour. Scale bar is 1.0 mm.]]
+, Utah. These are grains of quartz with a hematite coating providing the orange colour. Scale bar is 1.0 mm.]]
 
-Sandstones are _clastic_ in origin (as opposed to either _organic_, like chalk and coal, or _chemical_, like gypsum and jasper).[1] They are formed from cemented grains that may either be fragments of a pre-existing rock or be mono-minerallic crystals. The cements binding these grains together are typically calcite, clays, and silica. Grain sizes in sands are defined (in geology) within the range of 0.0625 mm to 2 mm (0.0025–0.08 inches). Clays and sediments with smaller grain sizes not visible with the naked eye, including siltstones and shales, are typically called _argillaceous_ sediments; rocks with larger grain sizes, including breccias and conglomerates, are termed _rudaceous_ sediments. Lower_antelope_2_md.jpg, Arizona, worn smooth by erosion from flash flooding over thousands of years.]] Tafoni_at_Twyfelfontein_(Namibia).jpg at Twyfelfontein in Namibia]] The formation of sandstone involves two principal stages. First, a layer or layers of sand accumulates as the result of sedimentation, either from water (as in a stream, lake, or sea) or from air (as in a desert). Typically, sedimentation occurs by the sand settling out from suspension; i.e., ceasing to be rolled or bounced along the bottom of a body of water or ground surface (e.g., in a desert or erg). Finally, once it has accumulated, the sand becomes sandstone when it is compacted by the pressure of overlying deposits and cemented by the precipitation of minerals within the pore spaces between sand grains.
+Sandstones are _clastic_ in origin (as opposed to either _organic_, like chalk and coal, or _chemical_, like gypsum and jasper).[1] They are formed from cemented grains that may either be fragments of a pre-existing rock or be mono-minerallic crystals. The cements binding these grains together are typically calcite, clays, and silica. Grain sizes in sands are defined (in geology) within the range of 0.0625 mm to 2 mm (0.0025–0.08 inches). Clays and sediments with smaller grain sizes not visible with the naked eye, including siltstones and shales, are typically called _argillaceous_ sediments; rocks with larger grain sizes, including breccias and conglomerates, are termed _rudaceous_ sediments. , Arizona, worn smooth by erosion from flash flooding over thousands of years.]] at Twyfelfontein in Namibia]] The formation of sandstone involves two principal stages. First, a layer or layers of sand accumulates as the result of sedimentation, either from water (as in a stream, lake, or sea) or from air (as in a desert). Typically, sedimentation occurs by the sand settling out from suspension; i.e., ceasing to be rolled or bounced along the bottom of a body of water or ground surface (e.g., in a desert or erg). Finally, once it has accumulated, the sand becomes sandstone when it is compacted by the pressure of overlying deposits and cemented by the precipitation of minerals within the pore spaces between sand grains.
 
 The most common cementing materials are silica and calcium carbonate, which are often derived either from dissolution or from alteration of the sand after it was buried. Colors will usually be tan or yellow (from a blend of the clear quartz with the dark amber feldspar content of the sand). A predominant additional colourant in the southwestern United States is iron oxide, which imparts reddish tints ranging from pink to dark red (terracotta), with additional manganese imparting a purplish hue. Red sandstones, both Old Red Sandstone and New Red Sandstone, are also seen in the Southwest and West of Britain, as well as central Europe and Mongolia. The regularity of the latter favours use as a source for masonry, either as a primary building material or as a facing stone, over other forms of construction.
 
@@ -41,14 +41,14 @@ Components
 
 Framework grains
 
-(1)Saunders_Quarry-1.jpg, Australia]] GrusSand.JPG sand and the granitoid from which it is derived]] Framework grains are sand-sized ( diameter) detrital fragments that make up the bulk of a sandstone.[2][3] These grains can be classified into several different categories based on their mineral composition:
+, Australia]] sand and the granitoid from which it is derived]] Framework grains are sand-sized ( diameter) detrital fragments that make up the bulk of a sandstone.[2][3] These grains can be classified into several different categories based on their mineral composition:
 
 -   Quartz framework grains are the dominant minerals in most clastic sedimentary rocks; this is because they have exceptional physical properties, such as hardness and chemical stability.[4] These physical properties allow the quartz grains to survive multiple recycling events, while also allowing the grains to display some degree of rounding.[5] Quartz grains evolve from plutonic rock, which are felsic in origin and also from older sandstones that have been recycled.
 -   Feldspathic framework grains are commonly the second most abundant mineral in sandstones.[6] Feldspar can be divided into two smaller subdivisions: alkali feldspars and plagioclase feldspars. The different types of feldspar can be distinguished under a petrographic microscope.[7] Below is a description of the different types of feldspar.
 
 ::*Alkali feldspar is a group of minerals in which the chemical composition of the mineral can range from KAlSi₃O₈ to NaAlSi₃O₈, this represents a complete solid solution.[8]
 
-::*Plagioclase feldspar is a complex group of solid solution minerals that range in composition from NaAlSi₃O₈ to CaAl₂Si₂O₈.[9] LvMS-Lvm.jpg sand grain; upper picture is plane-polarised light, bottom picture is cross-polarised light, scale box at left-centre is 0.25 millimetre. This type of grain would be a main component of a lithic sandstone.]]
+::*Plagioclase feldspar is a complex group of solid solution minerals that range in composition from NaAlSi₃O₈ to CaAl₂Si₂O₈.[9] sand grain; upper picture is plane-polarised light, bottom picture is cross-polarised light, scale box at left-centre is 0.25 millimetre. This type of grain would be a main component of a lithic sandstone.]]
 
 -   Lithic framework grains are pieces of ancient source rock that have yet to weather away to individual mineral grains, called lithic fragments or clasts.[10] Lithic fragments can be any fine-grained or coarse-grained igneous, metamorphic, or sedimentary rock,[11] although the most common lithic fragments found in sedimentary rocks are clasts of volcanic rocks.[12]
 -   Accessory minerals are all other mineral grains in a sandstone; commonly these minerals make up just a small percentage of the grains in a sandstone. Common accessory minerals include micas (muscovite and biotite), olivine, pyroxene, and corundum.[13][14] Many of these accessory grains are more dense than the silicates that make up the bulk of the rock. These HEAVY MINERALS are commonly resistant to weathering and can be used as an indicator of sandstone maturity through the ZTR index.[15] Common heavy minerals include zircon, tourmaline, rutile (hence _ZTR_), garnet, magnetite, or other dense, resistant minerals derived from the source rock.
@@ -78,7 +78,7 @@ Pore space includes the open spaces within a rock or a soil.[24] The pore space 
 
 Types of sandstone
 
-QFLtriangle.jpg Logan_Formation_Cross_Bedding_Scour.jpg (Lower Carboniferous) of Jackson County, Ohio]]
+(Lower Carboniferous) of Jackson County, Ohio]]
 
 All sandstones are composed of the same general minerals. These minerals make up the framework components of the sandstones. Such components are quartz, feldspars,[29] and lithic fragments. Matrix may also be present in the interstitial spaces between the framework grains.[30] Below is a list of several major groups of sandstones. These groups are divided based on mineralogy and texture. Even though sandstones have very simple compositions which are based on framework grains, geologists have not been able to agree on a specific, right way, to classify sandstones.[31] Sandstone classifications are typically done by point-counting a thin section using a method like the Gazzi-Dickinson Method. The composition of a sandstone can have important information regarding the genesis of the sediment when used with a triangular _Q_uartz, _F_eldspar, _L_ithic fragment (QFL diagrams). Many geologists, however, do not agree on how to separate the triangle parts into the single components so that the framework grains can be plotted.[32] Therefore, there have been many published ways to classify sandstones, all of which are similar in their general format.
 
@@ -108,7 +108,7 @@ In this specific classification scheme, Dott has set the boundary between arenit
 
 Uses
 
-SydneyUniversity_MainBuilding_Panorama.jpg, a so-called sandstone university]] Lampe_a_graisse_-_Lascaux.jpg discovered at the caves of Lascaux, France]] MariaImmaculatal_Augustiner.jpg, Germany]] Sandstone_beverage_coasters.jpeg Sandstone has been used for domestic construction and housewares since prehistoric times, and continues to be used.
+, a so-called sandstone university]] discovered at the caves of Lascaux, France]] , Germany]] Sandstone has been used for domestic construction and housewares since prehistoric times, and continues to be used.
 
 Sandstone was a popular building material from ancient times. It is relatively soft, making it easy to carve. It has been widely used around the world in constructing temples, homes, and other buildings.[55] It has also been used for artistic purposes to create ornamental fountains and statues.
 

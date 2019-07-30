@@ -1,1 +1,0 @@
-COMPUTATIONAL LINGUISTICS is an interdisciplinary field concerned with the statistical or rule-based modeling of natural language from a computational perspective, as well as the study of appropriate computational approaches to linguistic questions.

@@ -1,1 +1,0 @@
-The ALLIANCE FOR HEART FAILURE is a coalition of charities, patient groups, professional bodies, public sector organisations and corporate members working together to raise the profile of heart failure within the UK Government, the National Health Service, and media. It was formed in October 2015.

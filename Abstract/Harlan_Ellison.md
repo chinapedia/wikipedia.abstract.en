@@ -1,1 +1,0 @@
-HARLAN JAY ELLISON (May 27, 1934 – June 28, 2018)[1] was an American writer, known for his prolific and influential work in New Wave speculative fiction,[2] and for his outspoken, combative personality.[3] Robert Bloch, the author of _Psycho_, described Ellison as "the only living organism I know whose natural habitat is hot water".[4]

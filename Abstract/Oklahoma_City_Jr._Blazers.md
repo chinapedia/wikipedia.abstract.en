@@ -1,1 +1,0 @@
-The OKLAHOMA CITY JR. BLAZERS are a United Hockey Union-sanctioned junior ice hockey team, based in Edmond, Oklahoma, in the Oklahoma City metropolitan area. The Blazers compete as part of the Midwest Division of the Western States Hockey League (WSHL). Their home games are played at the Arctic Edge Ice Arena.

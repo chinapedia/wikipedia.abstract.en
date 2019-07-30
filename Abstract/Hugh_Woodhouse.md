@@ -1,1 +1,0 @@
-COLIN HUGH KIARAN WOODHOUSE (12[1] February 1934[2] – 29 August[3] 2011)[4] was a screenwriter and the younger brother of Martin Woodhouse, also a screenwriter. Together, they wrote some episodes of _Supercar_.[5]

@@ -1,1 +1,0 @@
-ÉRIC VIGEANEL (born 4 August 1972) is a French Olympic eventing rider.[1][2] Representing France, he competed at the 2008 Summer Olympics where she placed 11th in team and 20th in the individual eventing.

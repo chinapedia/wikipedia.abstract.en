@@ -1,1 +1,0 @@
-The _SOUTHERN CROSS EXPRESS_ was a luxury train operator in Australia. It was launched in June 1985 as Steam Age operating out of Melbourne on the Victorian Railways broad gauge network. Services were operated by steam locomotive R766 and six South Australian Railways carriages.[1]

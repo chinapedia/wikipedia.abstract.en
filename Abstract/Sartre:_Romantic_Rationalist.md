@@ -1,1 +1,0 @@
-_SARTRE: ROMANTIC RATIONALIST_ is a book by Iris Murdoch. Published in 1953 by Bowes & Bowes of Cambridge, it was Murdoch's first book and the first book about Jean-Paul Sartre's work to be published in English.

@@ -1,1 +1,0 @@
-TIKULIYA is a village in the East Champaran district of Bihar, India. It is located in the Paharpur Block, and comes under Mankariya panchayat.[1] It is situated 34 km west of the district headquarters Motihari, and 143 km from the state capital Patna.

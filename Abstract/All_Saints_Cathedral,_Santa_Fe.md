@@ -1,1 +1,0 @@
-The ALL SAINTS CATHEDRAL (), also called SANTA FE CATHEDRAL, is the main Catholic church and mother church of the Archdiocese of Santa Fe de la Vera Cruz.[1] It is located on the street Bigradier Estanislao Lopez in the city of Santa Fe,[2] Santa Fe province, Argentina.[3]

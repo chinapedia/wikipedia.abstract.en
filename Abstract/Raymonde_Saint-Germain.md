@@ -1,1 +1,0 @@
-RAYMONDE SAINT-GERMAIN (born October 7, 1951) is a Canadian public servant and an independent member of the Senate of Canada. At the time of her appointment, Saint Germain was the Quebec ombudsperson. She was nominated for appointment to the Senate on November 2, 2016 by Prime Minister Justin Trudeau.[1] Saint-Germain assumed her office on November 25, 2016.

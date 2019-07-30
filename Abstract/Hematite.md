@@ -1,1 +1,0 @@
-HEMATITE, also spelled as HAEMATITE, is a common iron oxide with the formula Fe₂O₃ and is widespread in rocks and soils.[1] Hematite crystallizes in the rhombohedral lattice system, and it has the same crystal structure as ilmenite and corundum. Hematite and ilmenite form a complete solid solution at temperatures above .

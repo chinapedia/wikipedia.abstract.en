@@ -1,1 +1,0 @@
-_I WANT TO BE A STAR_ () is a Toggle original series drama which is shown on Toggle. The show depicts the life of a calefare and rising to fame as actors and actresses of Mediacorp. It stars Chew Chor Meng, Shane Pow, Kym Ng, Somaline Ang, Dennis Chew, Ya Hui as the main cast of the series. Channel 8 began airing the series every Sunday at 10.30pm from 25 December 2016.

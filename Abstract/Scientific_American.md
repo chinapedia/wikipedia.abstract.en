@@ -1,1 +1,0 @@
-_SCIENTIFIC AMERICAN_ (informally abbreviated _SCIAM_ or sometimes _SA_) is an American popular science magazine. Many famous scientists, including Albert Einstein, have contributed articles to it. It is the oldest continuously published monthly magazine in the United States (though it only became monthly in 1921).

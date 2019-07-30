@@ -12,9 +12,9 @@ In the Book of Genesis, Sidon was the first-born son of Canaan, who was a son of
 
 History
 
-Protome_from_Eshmun_Sanctuary.jpg found in Sidon gives testimony of the Aecheminid rule and influence. Marble, 5th century BC]] Sidon has been inhabited since very early in prehistory. The archaeological site of Sidon II shows a lithic assemblage dating to the Acheulean, whilst finds at Sidon III include a Heavy Neolithic assemblage suggested to date just prior to the invention of pottery.[2] It was one of the most important Phoenician cities, and it may have been the oldest. From there and other ports a great Mediterranean commercial empire was founded. Homer praised the skill of its craftsmen in producing glass, purple dyes, and its women's skill at the art of embroidery. It was also from here that a colonizing party went to found the city of Tyre. Tyre also grew into a great city, and in subsequent years there was competition between the two, each claiming to be the metropolis ('Mother City') of Phoenicia. Glass manufacturing, Sidon's most important enterprise in the Phoenician era, was conducted on a vast scale, and the production of purple dye was almost as important. The small shell of the Murex trunculus was broken in order to extract the pigment that was so rare it became the mark of royalty. Roman_era_Phonesia.png In AD 1855, the sarcophagus of King Eshmun’azar II was discovered. From a Phoenician inscription on its lid, it appears that he was a "king of the Sidonians," probably in the 5th century BC, and that his mother was a priestess of ‘Ashtart, "the goddess of the Sidonians."[3] In this inscription the gods Eshmun and Ba‘al Sidon 'Lord of Sidon' (who may or may not be the same) are mentioned as chief gods of the Sidonians. ‘Ashtart is entitled _‘Ashtart-Shem-Ba‘al_ '‘Ashtart the name of the Lord', a title also found in an Ugaritic text.
+found in Sidon gives testimony of the Aecheminid rule and influence. Marble, 5th century BC]] Sidon has been inhabited since very early in prehistory. The archaeological site of Sidon II shows a lithic assemblage dating to the Acheulean, whilst finds at Sidon III include a Heavy Neolithic assemblage suggested to date just prior to the invention of pottery.[2] It was one of the most important Phoenician cities, and it may have been the oldest. From there and other ports a great Mediterranean commercial empire was founded. Homer praised the skill of its craftsmen in producing glass, purple dyes, and its women's skill at the art of embroidery. It was also from here that a colonizing party went to found the city of Tyre. Tyre also grew into a great city, and in subsequent years there was competition between the two, each claiming to be the metropolis ('Mother City') of Phoenicia. Glass manufacturing, Sidon's most important enterprise in the Phoenician era, was conducted on a vast scale, and the production of purple dye was almost as important. The small shell of the Murex trunculus was broken in order to extract the pigment that was so rare it became the mark of royalty. In AD 1855, the sarcophagus of King Eshmun’azar II was discovered. From a Phoenician inscription on its lid, it appears that he was a "king of the Sidonians," probably in the 5th century BC, and that his mother was a priestess of ‘Ashtart, "the goddess of the Sidonians."[3] In this inscription the gods Eshmun and Ba‘al Sidon 'Lord of Sidon' (who may or may not be the same) are mentioned as chief gods of the Sidonians. ‘Ashtart is entitled _‘Ashtart-Shem-Ba‘al_ '‘Ashtart the name of the Lord', a title also found in an Ugaritic text.
 
-SidonSeaCastle.jpg, built by the Crusaders in AD 1228]]
+, built by the Crusaders in AD 1228]]
 
 In the years before Christianity, Sidon had many conquerors: Assyrians, Babylonians, Egyptians, Persians, Greeks, and finally Romans. Herod the Great visited Sidon. Both Jesus and Saint Paul are said to have visited it, too (see _Biblical Sidon_, below). The city was eventually conquered by the Arabs and then by the Ottoman Turks.
 
@@ -22,7 +22,7 @@ Like other Phoenician city-states, Sidon suffered from a succession of conqueror
 
 When Sidon fell under Roman domination, it continued to mint its own silver coins. The Romans also built a theater and other major monuments in the city. In the reign of Elagabalus, a Roman colony was established there. During the Byzantine period, when the great earthquake of AD 551 destroyed most of the cities of Phoenice, Beirut's School of Law took refuge in Sidon. The town continued quietly for the next century, until it was conquered by the Arabs in AD 636.
 
-Sidon-coast.jpg On 4 December 1110 Sidon was captured, a decade after the First Crusade, by King Baldwin I of Jerusalem and King Sigurd I of Norway. It then became the centre of the Lordship of Sidon, an important lordship in the Kingdom of Jerusalem. Saladin captured it from the Crusaders in 1187, but German Crusaders restored it to Christian control in the Crusade of 1197. It would remain an important Crusader stronghold until it was finally destroyed by the Saracens in 1249. In 1260 it was again destroyed by the Mongols. The remains of the original walls are still visible.
+On 4 December 1110 Sidon was captured, a decade after the First Crusade, by King Baldwin I of Jerusalem and King Sigurd I of Norway. It then became the centre of the Lordship of Sidon, an important lordship in the Kingdom of Jerusalem. Saladin captured it from the Crusaders in 1187, but German Crusaders restored it to Christian control in the Crusade of 1197. It would remain an important Crusader stronghold until it was finally destroyed by the Saracens in 1249. In 1260 it was again destroyed by the Mongols. The remains of the original walls are still visible.
 
 After Sidon came under Ottoman Turkish rule in the early 16th century, it became the capital of the Sidon Eyalet (province) and regained a great deal of its earlier commercial importance.
 
@@ -85,8 +85,6 @@ In the 1930s, when Lebanon was still under the French mandate, Sidon had the lar
 
 Main sights
 
-Carpsaida.jpg
-
 -   Sidon Sea Castle, a fortress built by the Crusaders in the early 13th century. It is located near the Port of Sidon.
 -   Sidon Soap Museum. It traces the history of the soap making in the region and its different manufacturing steps.
 -   _Khan el Franj_ ("Caravanserai of the French"), built by Emir Fakhreddine in the 17th century to accommodate French merchants and goods in order to develop trade with Europe. This is a typical khan with a large rectangular courtyard and a central fountain surrounded by covered galleries.
@@ -134,7 +132,7 @@ The archaeological fieldwork was not fully undertaken since the independence of 
 
 The Biblical Sidon
 
-Shrinepeter.jpg and St. Peter inside the Old City of Sidon.]] The Bible describes Sidon ( _Tsīdōn_) in several passages:
+and St. Peter inside the Old City of Sidon.]] The Bible describes Sidon ( _Tsīdōn_) in several passages:
 
 -   It received its name from the "first-born" of Canaan, the grandson of Noah (Genesis 10:15, 19).
 -   The Tribe of Zebulun has a frontier on Sidon. (Gen. 49:13)

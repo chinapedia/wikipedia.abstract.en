@@ -1,1 +1,0 @@
-Pinocchio.jpg (1852–1910), the first illustrator (1883) of _The Adventures of Pinocchio_]] CARLO LORENZINI, better known by the pen name CARLO COLLODI (; 24 November 1826 – 26 October 1890), was an Italian author, humorist,[1] and journalist,[2] widely known for his fairy tale novel _The Adventures of Pinocchio_.

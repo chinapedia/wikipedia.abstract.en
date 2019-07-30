@@ -1,1 +1,0 @@
-KEVIN BEASLEY (born 1985 Lynchburg, Virginia) is an American artist working in sculpture, performance art, and sound installation. He lives and works in New York City. Beasley was included in the Whitney Museum of American Art's Biennial in 2014[1] and MoMA PS1's Greater New York exhibition in 2015.[2] He is represented by the Casey Kaplan gallery in New York City.

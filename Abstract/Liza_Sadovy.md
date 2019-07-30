@@ -1,1 +1,0 @@
-LIZA SADOVY is a British actress. She is best known for Sweeney Todd: The Demon Barber of Fleet Street (2007), Prime Suspect 3 (1993) and Company (1996).[1] Other television work includes Extras with Ricky Gervais, Midsomer Murders, Babylon, The Honourable Woman, Doctors, EastEnders and Emma.[2]

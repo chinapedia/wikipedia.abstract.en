@@ -1,1 +1,0 @@
-The 1930 ALABAMA GUBERNATORIAL ELECTION took place on November 4, 1930, in order to elect the Governor of Alabama. Democratic incumbent Bibb Graves was term-limited, and could not seek a second consecutive term.

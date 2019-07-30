@@ -1,1 +1,0 @@
-HOLMIUM is a chemical element with the symbol HO and atomic number 67. Part of the lanthanide series, holmium is a rare-earth element. Holmium was discovered by Swedish chemist Per Theodor Cleve. Its oxide was first isolated from rare-earth ores in 1878. The element's name comes from _Holmia_, the Latin name for the city of Stockholm.

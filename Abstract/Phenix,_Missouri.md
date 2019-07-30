@@ -1,1 +1,0 @@
-Sing_of_Phenix,_Missouri.jpg PHENIX is an unincorporated community in northwest Greene County, in the U.S. state of Missouri.[1] The community is located on the banks of Sugar Creek, approximately 2.5 miles south of Walnut Grove and 1.5 miles west of Harold and Missouri Route 123.[2]

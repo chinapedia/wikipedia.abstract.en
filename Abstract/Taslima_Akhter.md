@@ -1,1 +1,0 @@
-TASLIMA AKHTER (born 1974) is a Bangladeshi activist and photographer. She is a graduate of Dhaka University, as well as the photography school _Pathshala_. She is a member of several activist organizations. While documenting the Rana Plaza collapse in 2013, she took a photograph of a woman and a man who had died in each other's arms, which became emblematic of the incident.

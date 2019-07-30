@@ -1,1 +1,0 @@
-__NOTOC__ ST KILDA – CHAPMAN CREEK AQUATIC RESERVE is a marine protected area in the Australian state of South Australia located in waters on the east coast of Gulf St Vincent adjoining the suburbs of Buckland Park and St Kilda about north of the state capital of Adelaide.[1]

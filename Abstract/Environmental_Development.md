@@ -1,1 +1,0 @@
-_ENVIRONMENTAL DEVELOPMENT_ is a quarterly peer-reviewed academic journal covering environmental science and policy published by Elsevier. In January 2018, Natarajan Ishwaran became the new editor-in-chief. He succeeded Eleanor Milne (Colorado State University, now Subject Editor for Climate Change) EIC from July 2015. The founding editor was Theo Beckers (Tilburg University).[1]

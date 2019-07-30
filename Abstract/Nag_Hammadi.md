@@ -1,1 +1,0 @@
-Raffinerie_Say.JPG

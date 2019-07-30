@@ -1,1 +1,0 @@
-Door_in_Georgia.jpg]] Knocking_at_front_door_of_The_National_Archives_Building_-_01.jpg in Washington, D.C.. Each is tall and weighs roughly ]] Адмиралтейская_наб._8_(из_Азовского_пер.)03.jpg (Russia)]]

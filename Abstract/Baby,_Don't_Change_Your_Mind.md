@@ -1,1 +1,0 @@
-"BABY, DON'T CHANGE YOUR MIND" is a 1977 song by Gladys Knight & The Pips. It was written by Van McCoy, who had a disco hit himself with "The Hustle". "Baby, Don't Change Your Mind" reached #4 in the UK, making it their last Top 5 hit in the UK to date. In the US the song reached #52 on the Hot 100 and #10 on the US R&B Charts.[1]

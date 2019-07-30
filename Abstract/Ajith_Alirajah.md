@@ -1,1 +1,0 @@
-AJITH ALIRAJAH (born 25 September 1968) is a Sri Lankan former cricketer. He played thirteen first-class matches for Nondescripts Cricket Club between 1988 and 1991.[1] He was also part of Sri Lanka's squad for the 1988 Youth Cricket World Cup.[2]

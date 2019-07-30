@@ -1,1 +1,0 @@
-KHINITE is a rare tellurate mineral with the formula Pb²⁺Cu²⁺₃TeO₆(OH)₂[1][2][3] It crystallizes in the orthorhombic system and has a bottle-green colour. It is often found as dipyramidal, curved or corroded crystals no more than 0.15 mm in size.[4] The tetragonal dimorph of khinite is called parakhinite.

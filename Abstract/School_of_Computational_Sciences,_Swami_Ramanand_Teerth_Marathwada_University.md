@@ -1,1 +1,0 @@
-School_of_Computational_Sciences,_SRTMU_Nanded_Front_View.jpg The SCHOOL OF COMPUTATIONAL SCIENCES is a institute affiliated to Swami Ramanand Teerth Marathwada University (SRTMU) in Nanded in the Indian state of Maharashtra. Srtmun college NAC committee given by A grade .

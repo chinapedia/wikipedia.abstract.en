@@ -1,1 +1,0 @@
-KARACHI EXPO CENTER is the convention center where Pakistani products are showcased internationally. The center consists of 8 halls. Trade Development Authority of Pakistan also helps support the exhibitions at the center.[1]

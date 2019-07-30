@@ -1,1 +1,0 @@
-This page lists all TIES FOR MEDALS AT THE OLYMPICS. A tie occurs when two or more individual or teams achieve identical results in the Olympics. In these cases, there are multiple winners with the same medal.

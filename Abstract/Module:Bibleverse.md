@@ -1,1 +1,0 @@
--- This module implements Template:Bibleverse. local p = {}

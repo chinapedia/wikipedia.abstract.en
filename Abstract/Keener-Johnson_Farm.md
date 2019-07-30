@@ -1,1 +1,0 @@
-KEENER-JOHNSON FARM is a historic farmhouse in Seymour, Tennessee, U.S.. It was built circa 1853 for Adam Harvey Keener.[1] It has been listed on the National Register of Historic Places since March 18, 1999.[2]

@@ -1,1 +1,0 @@
-The New Zealand Music Awards for HIGHEST SELLING NEW ZEALAND ALBUM and HIGHEST SELLING NEW ZEALAND SINGLE are two annual awards presented to the New Zealand album and single with the highest sales in the awards period. The awards are presented annually by Recorded Music NZ at the annual New Zealand Music Awards. Nominations are not normally announced in this category.[1]

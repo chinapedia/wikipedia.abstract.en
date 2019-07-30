@@ -1,1 +1,0 @@
-_HAMMATODERUS MACULOSUS_ is a species of beetle in the family Cerambycidae. It was described by Henry Walter Bates in 1880. It is known from Guatemala, El Salvador, Mexico, Honduras, Belize, and Nicaragua.[1]

@@ -1,1 +1,0 @@
-A.B. ORIGINAL is an Australian hip hop duo made up of Briggs and Trials. A.B. Original stands for Always Black, Original. Both members are Indigenous Australians; Briggs is a Yorta Yorta man and Trials is Ngarrindjeri.[1] Their music is overtly political and has been described as "angry, polemical, brutally frank and meant to inspire a response, good or bad".[2]

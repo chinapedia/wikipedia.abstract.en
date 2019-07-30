@@ -1,1 +1,0 @@
-ROBERT BRANDT VON MEHREN (August 22, 1922 – May 5, 2016) was a young lawyer in the Hiss-Chambers Case in 1949 who rose to become a leading expert in international arbitration in a career spent at the law firm of Debevoise & Plimpton.[1][2][3]

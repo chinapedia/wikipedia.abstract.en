@@ -1,1 +1,0 @@
-The BASILICA OF OUR LADY [1] ( ) also called OLD CATHEDRAL OF TONGEREN It is the main place of Catholic worship in the city of Tongeren,[2] Belgium[3] and the former cathedral of the suppressed diocese of Tongeren .

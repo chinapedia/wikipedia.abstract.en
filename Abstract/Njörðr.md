@@ -1,1 +1,0 @@
-Njörd's_desire_of_the_Sea.jpg]] In Norse mythology, NJÖRÐR is a god among the Vanir. Njörðr, father of the deities Freyr and Freyja by his unnamed sister, was in an ill-fated marriage with the goddess Skaði, lives in Nóatún and is associated with the sea, seafaring, wind, fishing, wealth, and crop fertility.

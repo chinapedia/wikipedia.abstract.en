@@ -1,1 +1,0 @@
-|extinction = |type = |status = |purpose = |headquarters = Dhaka, Bangladesh |location = |coords = |region_served = Bangladesh |members = |language = Bengali |leader_title = |leader_name = |main_organ = |parent_organization = |affiliations = |num_staff = |num_volunteers = |budget = |website = Telephone Shilpa Sangstha |remarks = }}

@@ -1,1 +1,0 @@
-KATHRYN (KITTY) KISH SKLAR (born December 1939) is an American historian, author, and professor. Her work focuses on the history of women's participation in social movements, voluntary organizations, and American public culture.

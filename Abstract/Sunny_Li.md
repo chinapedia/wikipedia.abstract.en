@@ -1,1 +1,0 @@
-SUNNY LI (; born 4 September 1991) is a Chinese concert pianist. Based in London, Li studied at the Royal Academy of Music and Royal Northern College of Music prior to performing at venues around Europe.[1]

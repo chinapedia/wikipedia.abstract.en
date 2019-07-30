@@ -1,1 +1,0 @@
-_F-ZERO: MAXIMUM VELOCITY_ is a futuristic racing video game developed by NDcube and published by Nintendo for the Game Boy Advance.[1] The game was released in Japan, North America and Europe in 2001.[2] It is the first F-Zero game to be released on a handheld game console.

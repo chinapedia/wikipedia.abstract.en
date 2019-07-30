@@ -1,1 +1,0 @@
-The 1918 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 5, 1918. Incumbent Lieutenant Governor Thomas Frankson of the Republican Party of Minnesota defeated Minnesota Democratic Party challenger Charles H. Helweg and National Party candidate George D. Haggard.

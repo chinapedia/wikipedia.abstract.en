@@ -1,1 +1,0 @@
-W. MARVIN SMITH (August 16, 1895 – October 20, 1948) was a long-time employee and attorney in the U.S. Department of Justice who testified in the Hiss-Chambers Case in August 1948 and then mysteriously died on October 20, 1948.[1]

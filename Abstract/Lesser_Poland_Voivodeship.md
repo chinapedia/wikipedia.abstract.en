@@ -1,1 +1,0 @@
-LESSER POLAND VOIVODESHIP or LESSER POLAND PROVINCE (in ), also known as _Małopolska Voivodeship_ or _Małopolska Province_,[1] is a voivodeship (province), in southern Poland. It has an area of , and a population of 3,267,731 (2006).

@@ -1,1 +1,0 @@
-ROYAL TRUST (CANADA) was founded in 1899 at Montreal. By the late 20th century, it carried on trust, financial, real-estate and deposit services in over 100 branches in Canada, the US and overseas.[1] In 1993, the company was bought by the Royal Bank of Canada.

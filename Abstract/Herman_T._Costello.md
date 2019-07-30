@@ -1,1 +1,0 @@
-HERMAN T. COSTELLO (October 27, 1920 – June 11, 2017) was an American politician. Costello served as Mayor of Burlington, New Jersey.[1] Costello also served in the New Jersey General Assembly from the 7th Legislative District from 1976 to 1982 and in the New Jersey Senate from 1982 to 1984.[2]

@@ -1,1 +1,0 @@
-_PROCESSION AT SEVILLE AND BULLFIGHTING SCENES_ is a non-fiction short film created by Auguste and Louis Lumière between 1898 and 1899.[1] [2] The Lumière brothers used a cinematograph to film this motion picture in Seville, Spain.[3]

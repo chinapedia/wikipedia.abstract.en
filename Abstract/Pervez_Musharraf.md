@@ -1,1 +1,0 @@
-'''Pervez Musharraf ''' ( __; born 11 August 1943) is a Pakistani politician and retired four-star army general who was the 10th President of Pakistan from 2001 until tendering his resignation, to avoid impeachment, in 2008.[1]

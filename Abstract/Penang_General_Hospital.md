@@ -1,1 +1,0 @@
-The PENANG GENERAL HOSPITAL is the main public hospital in the city of George Town in Penang, Malaysia. The largest public hospital in Penang, it also serves as the reference hospital within northern Malaysia.[1]

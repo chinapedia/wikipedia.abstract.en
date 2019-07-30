@@ -1,1 +1,0 @@
-_WHEN A SNAIL FALLS IN LOVE_ () is a 2016 Chinese television series directed by Zhang Kai-zhou and produced by Daylight Entertainment. It stars Wang Kai, Wang Ziwen, Xu Yue, and Yu Heng. It is based on Ding Mo's novel of the same title, who also wrote _Love Me If You Dare_ starring Wallace Huo.[1][2] The series aired on Dragon TV from 24 October to 12 December 2016.

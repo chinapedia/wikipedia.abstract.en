@@ -19,7 +19,7 @@ The effect of sexual reproduction on species formation
 
 It has been argued that the resolution of Darwin's first dilemma lies in the fact that out-crossing sexual reproduction has an intrinsic cost of rarity.[10][11][12][13][14] The cost of rarity arises as follows. If, on a resource gradient, a large number of separate species evolve, each exquisitely adapted to a very narrow band on that gradient, each species will, of necessity, consist of very few members. Finding a mate under these circumstances may present difficulties when many of the individuals in the neighborhood belong to other species. Under these circumstances, if any species’ population size happens, by chance, to increase (at the expense of one or other of its neighboring species, if the environment is saturated), this will immediately make it easier for its members to find sexual partners. The members of the neighboring species, whose population sizes have decreased, experience greater difficulty in finding mates, and therefore form pairs less frequently than the larger species. This has a snowball effect, with large species growing at the expense of the smaller, rarer species, eventually driving them to extinction. Eventually, only a few species remain, each distinctly different from the other.[15][16][17] The cost of rarity not only involves the costs of failure to find a mate, but also indirect costs such as the cost of communication in seeking out a partner at low population densities.
 
-Flickr_-_Rainbirder_-_African_pygmy-kingfisher_(Ceyx_pictus).jpg, showing coloration shared by all adults of that species to a high degree of fidelity.[18]]]
+, showing coloration shared by all adults of that species to a high degree of fidelity.[18]]]
 
 Rarity brings with it other costs. Rare and unusual features are very seldom advantageous. In most instances, they indicate a (non-silent) mutation, which is almost certain to be deleterious. It therefore behooves sexual creatures to avoid mates sporting rare or unusual features (koinophilia).[19][20] Sexual populations therefore rapidly shed rare or peripheral phenotypic features, thus canalizing the entire external appearance, as illustrated in the accompanying illustration of the African pygmy kingfisher, _Ispidina picta_. This uniformity of all the adult members of a sexual species has stimulated the proliferation of field guides on birds, mammals, reptiles, insects, and many other taxa, in which a species can be described with a single illustration (or two, in the case of sexual dimorphism). Once a population has become as homogeneous in appearance as is typical of most species (and is illustrated in the photograph of the African pygmy kingfisher), its members will avoid mating with members of other populations that look different from themselves.[21] Thus, the avoidance of mates displaying rare and unusual phenotypic features inevitably leads to reproductive isolation, one of the hallmarks of speciation.[22][23][24][25]
 
@@ -28,7 +28,7 @@ In the contrasting case of organisms that reproduce asexually, there is no cost 
 
 Modes
 
-Speciation_modes.svg, peripatric, parapatric and sympatric speciation]]
+, peripatric, parapatric and sympatric speciation]]
 
 All forms of natural speciation have taken place over the course of evolution; however, debate persists as to the relative importance of each mechanism in driving biodiversity.[32]
 
@@ -54,15 +54,15 @@ Ecologists refer to parapatric and peripatric speciation in terms of ecological 
 
 Sympatric
 
-Pundamilia_(Haplochromis)_nyererei_male.jpgs such as _Haplochromis nyererei_ diversified by sympatric speciation in the Rift Valley lakes.]]
+s such as _Haplochromis nyererei_ diversified by sympatric speciation in the Rift Valley lakes.]]
 
 Sympatric speciation is the formation of two or more descendant species from a single ancestral species all occupying the same geographic location.
 
-Often-cited examples of sympatric speciation are found in insects that become dependent on different host plants in the same area.[42][43] Sympatric_Speciation.pdf The best known example of sympatric speciation is that of the cichlids of East Africa inhabiting the Rift Valley lakes, particularly Lake Victoria, Lake Malawi and Lake Tanganyika. There are over 800 described species, and according to estimates, there could be well over 1,600 species in the region. Their evolution is cited as an example of both natural and sexual selection.[44][45] A 2008 study suggests that sympatric speciation has occurred in Tennessee cave salamanders.[46] Sympatric speciation driven by ecological factors may also account for the extraordinary diversity of crustaceans living in the depths of Siberia's Lake Baikal.[47]
+Often-cited examples of sympatric speciation are found in insects that become dependent on different host plants in the same area.[42][43] The best known example of sympatric speciation is that of the cichlids of East Africa inhabiting the Rift Valley lakes, particularly Lake Victoria, Lake Malawi and Lake Tanganyika. There are over 800 described species, and according to estimates, there could be well over 1,600 species in the region. Their evolution is cited as an example of both natural and sexual selection.[44][45] A 2008 study suggests that sympatric speciation has occurred in Tennessee cave salamanders.[46] Sympatric speciation driven by ecological factors may also account for the extraordinary diversity of crustaceans living in the depths of Siberia's Lake Baikal.[47]
 
 Budding speciation has been proposed as a particular form of sympatric speciation, whereby small groups of individuals become progressively more isolated from the ancestral stock by breeding preferentially with one another. This type of speciation would be driven by the conjunction of various advantages of inbreeding such as the expression of advantageous recessive phenotypes, reducing the recombination load, and reducing the cost of sex [48]
 
-Rhagoletis_pomonella.jpg'', the hawthorn fly, appears to be in the process of sympatric speciation.]]
+'', the hawthorn fly, appears to be in the process of sympatric speciation.]]
 
 The hawthorn fly (_Rhagoletis pomonella_), also known as the apple maggot fly, appears to be undergoing sympatric speciation.[49] Different populations of hawthorn fly feed on different fruits. A distinct population emerged in North America in the 19th century some time after apples, a non-native species, were introduced. This apple-feeding population normally feeds only on apples and not on the historically preferred fruit of hawthorns. The current hawthorn feeding population does not normally feed on apples. Some evidence, such as that six out of thirteen allozyme loci are different, that hawthorn flies mature later in the season and take longer to mature than apple flies; and that there is little evidence of interbreeding (researchers have documented a 4-6% hybridization rate) suggests that sympatric speciation is occurring.[50]
 
@@ -71,7 +71,7 @@ Methods of selection
 
 Reinforcement
 
-Speciation_by_Reinforcement_Schematic.svg against hybrids.]]
+against hybrids.]]
 
 Reinforcement, sometimes referred to as the Wallace effect, is the process by which natural selection increases reproductive isolation.[51] It may occur after two populations of the same species are separated and then come back into contact. If their reproductive isolation was complete, then they will have already developed into two separate incompatible species. If their reproductive isolation is incomplete, then further mating between the populations will produce hybrids, which may or may not be fertile. If the hybrids are infertile, or fertile but less fit than their ancestors, then there will be further reproductive isolation and speciation has essentially occurred (e.g., as in horses and donkeys).[52]
 
@@ -91,11 +91,9 @@ It is widely appreciated that sexual selection could drive speciation in many cl
 
 Artificial speciation
 
-Indian_Bison_(Gaur)_1_by_N._A._Naseer.jpg (Indian bison) can interbreed with domestic cattle.]] Drosophila_pseudoobscura-Male.png'']] New species have been created by animal husbandry, but the dates and methods of the initiation of such species are not clear. Often, the domestic counterpart of the wild ancestor can still interbreed and produce fertile offspring as in the case of domestic cattle, that can be considered the same species as several varieties of wild ox, gaur, yak, etc., or domestic sheep that can interbreed with the mouflon.[73][74]
+(Indian bison) can interbreed with domestic cattle.]] '']] New species have been created by animal husbandry, but the dates and methods of the initiation of such species are not clear. Often, the domestic counterpart of the wild ancestor can still interbreed and produce fertile offspring as in the case of domestic cattle, that can be considered the same species as several varieties of wild ox, gaur, yak, etc., or domestic sheep that can interbreed with the mouflon.[73][74]
 
 The best-documented creations of new species in the laboratory were performed in the late 1980s. William R. Rice and George W. Salt bred _Drosophila melanogaster_ fruit flies using a maze with three different choices of habitat such as light/dark and wet/dry. Each generation was placed into the maze, and the groups of flies that came out of two of the eight exits were set apart to breed with each other in their respective groups. After thirty-five generations, the two groups and their offspring were isolated reproductively because of their strong habitat preferences: they mated only within the areas they preferred, and so did not mate with flies that preferred the other areas.[75] The history of such attempts is described by Rice and Elen E. Hostert (1993).[76][77] Diane Dodd used a laboratory experiment to show how reproductive isolation can develop in _Drosophila pseudoobscura_ fruit flies after several generations by placing them in different media, starch- and maltose-based media.[78]
-
-File:Drosophila speciation experiment.svg
 
 Dodd's experiment has been easy for many others to replicate, including with other kinds of fruit flies and foods.[79] Research in 2005 has shown that this rapid evolution of reproductive isolation may in fact be a relic of infection by _Wolbachia_ bacteria.[80]
 
@@ -108,7 +106,7 @@ Few speciation genes have been found. They usually involve the reinforcement pro
 
 Speciation via polyploidy
 
-Polyploidization.svg cell undergoes failed meiosis, producing diploid gametes, which self-fertilize to produce a tetraploid zygote. In plants, this can effectively be a new species, reproductively isolated from its parents, and able to reproduce.]]
+cell undergoes failed meiosis, producing diploid gametes, which self-fertilize to produce a tetraploid zygote. In plants, this can effectively be a new species, reproductively isolated from its parents, and able to reproduce.]]
 
 Polyploidy is a mechanism that has caused many rapid speciation events in sympatry because offspring of, for example, tetraploid x diploid matings often result in triploid sterile progeny.[88] However, not all polyploids are reproductively isolated from their parental plants, and gene flow may still occur for example through triploid hybrid x diploid matings that produce tetraploids, or matings between meiotically unreduced gametes from diploids and gametes from tetraploids (see also hybrid speciation).
 
@@ -129,7 +127,7 @@ Theodosius Dobzhansky, who studied fruit flies in the early days of genetic rese
 
 Rates
 
-Punctuated-equilibrium.svg, above, consists of relatively slow change over geological time. Punctuated equilibrium, bottom, consists of morphological stability and rare, relatively rapid bursts of evolutionary change.]]
+, above, consists of relatively slow change over geological time. Punctuated equilibrium, bottom, consists of morphological stability and rare, relatively rapid bursts of evolutionary change.]]
 
 There is debate as to the rate at which speciation events occur over geologic time. While some evolutionary biologists claim that speciation events have remained relatively constant and gradual over time (known as "Phyletic gradualism" - see diagram), some palaeontologists such as Niles Eldredge and Stephen Jay Gould[99] have argued that species usually remain unchanged over long stretches of time, and that speciation occurs only over relatively brief intervals, a view known as _punctuated equilibrium_. (See diagram, and Darwin's dilemma.)
 

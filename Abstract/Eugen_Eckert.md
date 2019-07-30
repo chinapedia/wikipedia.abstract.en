@@ -1,1 +1,0 @@
-EUGEN ECKERT (born 1954) is a German social worker, minister, singer-songwriter and academic teacher. He is known for his lyrics for new spiritual songs (Neues Geistliches Lied), and his oratorios and musical plays.

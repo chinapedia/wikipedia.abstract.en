@@ -1,1 +1,0 @@
-SAEED TOOSI () is an Iranian prominent Qur'an reciter and teacher. He is winner of the several first prizes in both internationally and locally competitions, notably 1998 International Quran Recital Competition.

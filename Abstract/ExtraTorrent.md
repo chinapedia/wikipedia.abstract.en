@@ -1,1 +1,0 @@
-EXTRATORRENT (commonly abbreviated ET) was an online index of digital content of entertainment media and software. Until its shut down it was among the top 5 BitTorrent indexes in the world, where visitors could search, download and contribute magnet links and torrent files, which facilitate peer-to-peer file sharing among users of the BitTorrent protocol.

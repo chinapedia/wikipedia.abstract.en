@@ -7,7 +7,7 @@ As of 2017, all but one of the surviving SLA members have been released from pri
 
 Beliefs and symbols
 
-Symbionese_swedish.jpg for sale in a magazine-store in Stockholm, August 2008]]
+for sale in a magazine-store in Stockholm, August 2008]]
 
 "Symbionese" concept
 
@@ -68,7 +68,7 @@ With each successive taped communiqué, Hearst voiced increasing support for the
 
 Activities during the period of Hearst's membership
 
-Hearst-hibernia-yell.jpg (right) yelling commands at bank customers. SLA leader Donald DeFreeze can be seen to the left]]
+(right) yelling commands at bank customers. SLA leader Donald DeFreeze can be seen to the left]]
 
 Hibernia Bank robbery
 
@@ -102,7 +102,7 @@ As a result of the siege, the remaining SLA members returned to the relative saf
 
 Crocker Bank robbery
 
-On April 21, 1975, the remaining members of the SLA robbed the Crocker National Bank in Carmichael, California. During the robbery, bank customer Myrna Lee Opsahl, a 42-year-old mother of four children, was killed when Emily Harris discharged the shotgun she was holding, apparently by accident. Five SLA members were ultimately held accountable for the murder and robbery, but not until almost 27 years later, in early 2002.[32][33] Emily_Harris_(SLA).jpg
+On April 21, 1975, the remaining members of the SLA robbed the Crocker National Bank in Carmichael, California. During the robbery, bank customer Myrna Lee Opsahl, a 42-year-old mother of four children, was killed when Emily Harris discharged the shotgun she was holding, apparently by accident. Five SLA members were ultimately held accountable for the murder and robbery, but not until almost 27 years later, in early 2002.[32][33]
 
 Capture and conviction
 
@@ -110,7 +110,7 @@ Patricia Hearst, after a long and highly publicized search, was captured on Sept
 
 On February 26, 1976, a Los Angeles county grand jury indicted Kathleen Ann Soliah on explosives and conspiracy charges, accusing her of planting pipe bombs under two LAPD squad cars in August 1975, with the intent to kill police officers in retribution for the SLA member deaths in the May 17th shootout. The devices did not detonate.
 
-1795Hillcrest.jpg Soliah went on the run, moving to Minnesota, and living a quiet upper middle class life under the alias Sara Jane Olson; she married a doctor and had three daughters, while managing to remain a fugitive for over 23 years.
+Soliah went on the run, moving to Minnesota, and living a quiet upper middle class life under the alias Sara Jane Olson; she married a doctor and had three daughters, while managing to remain a fugitive for over 23 years.
 
 The FBI caught up with and arrested Soliah/Olson in 1999 after a tip was received by the television show _America's Most Wanted_, which had twice aired her profile. In 2001, she pleaded guilty to possession of explosives with the intent to murder and was sentenced to two consecutive terms of ten years to life, although she had been told as part of a plea bargain that she would serve no more than eight years. She attempted to change her plea, claiming to the judge that she pleaded guilty only because she believed she could not receive a fair trial for bombing charges considering public sentiment after the 9/11 terrorist attacks. She maintained her innocence, insisting that she personally had had nothing to do with making, possessing or placement of the pipe bombs. The judge refused her request.[36]
 

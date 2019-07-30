@@ -1,1 +1,0 @@
-was a feudal domain under the Tokugawa shogunate of Edo period Japan. It is located in Shinano Province, Honshū. The domain was centered at Iwamurada Jin’ya, located in what is now part of the city of Saku in Nagano Prefecture.[1] It was ruled for all of its history by a junior branch of the Naitō clan.

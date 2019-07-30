@@ -1,1 +1,0 @@
-AKIRA FUJITA (藤田 明 , 1 January 1908 - 29 May 2001) was a Japanese male water polo player. He was a member of the Japan men's national water polo team. He competed with the team at the 1932 Summer Olympics.[1]

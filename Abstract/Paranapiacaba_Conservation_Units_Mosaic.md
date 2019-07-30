@@ -1,1 +1,0 @@
-The PARANAPIACABA CONSERVATION UNITS MOSAIC () is a protected area mosaic in the state of São Paulo, Brazil. It is administered by the state, and protects a large area of Atlantic Forest. It is associated with the PARANAPIACABA ECOLOGICAL CORRIDOR of the Atlantic Forest Biosphere Reserve.

@@ -1,1 +1,0 @@
-The FOREIGN RELATIONS OF NEW ZEALAND are oriented chiefly toward developed democratic nations and emerging Pacific economies. The country’s major political parties have generally agreed on the broad outlines of foreign policy, and the current coalition government has been active in promoting free trade, nuclear disarmament, and arms control.

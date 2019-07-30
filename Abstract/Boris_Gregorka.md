@@ -1,1 +1,0 @@
-BORIS GREGORKA (2 August 1906 – 19 March 2001)[1] was a Slovenian gymnast, competing for Yugoslavia. He won a bronze medal at the 1928 Summer Olympics. After retiring from competitive career, he was the coach of a double Olympic gold medallist Miroslav Cerar.[2]

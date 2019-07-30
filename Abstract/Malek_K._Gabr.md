@@ -1,1 +1,0 @@
-MALEK K. GABR () was an Egyptian Scouting leader who served as Director for Educational Methods of the World Scout Bureau and also dealt with constitutional affairs from 1985 to 1991, then as Assistant Secretary General from 1991 to 2004.

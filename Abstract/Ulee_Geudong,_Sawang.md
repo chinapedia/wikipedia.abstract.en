@@ -1,1 +1,0 @@
-ULEE GEUDONG is a village in subdistrict Sawang, North Aceh Regency, Aceh province, Indonesia. The main occupations in Gampong Ulee Geudong are farming, gardening and breeding livestock. The village is located on the Jalan Elak (Bypass) Krueng Mane - Buket Rata 7-8 km Lhokseumawe and is very close to the Malikussaleh Airport as well as the Malikussaleh University.

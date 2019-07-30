@@ -5,14 +5,14 @@ Norman F. Cantor notes the three roles Boniface played that made him "one of the
 
 Early life and first mission to Frisia
 
-Hess_Boniface_leaves_England_1.jpg The earliest Bonifacian _vita_, Willibald's, does not mention his place of birth but says that at an early age he attended a monastery ruled by Abbot Wulfhard in _escancastre_,[4] or _Examchester_,[5] which seems to denote Exeter, and may have been one of many _monasteriola_ built by local landowners and churchmen; nothing else is known of it outside the Bonifacian _vitae_.[6] This monastery is believed to have occupied the site of the Church of St Mary Major in the City of Exeter, demolished in 1971, next to which was later built Exeter Cathedral.[7] Later tradition places his birth at Crediton, but the earliest mention of Crediton in connection to Boniface is from the early fourteenth century,[8] in John Grandisson's _Legenda Sanctorum: The Proper Lessons for Saints' Days according to the use of Exeter_.[9] In one of his letters Boniface mentions he was "born and reared...[in] the synod of London",[10] but he may have been speaking metaphorically.[11]
+The earliest Bonifacian _vita_, Willibald's, does not mention his place of birth but says that at an early age he attended a monastery ruled by Abbot Wulfhard in _escancastre_,[4] or _Examchester_,[5] which seems to denote Exeter, and may have been one of many _monasteriola_ built by local landowners and churchmen; nothing else is known of it outside the Bonifacian _vitae_.[6] This monastery is believed to have occupied the site of the Church of St Mary Major in the City of Exeter, demolished in 1971, next to which was later built Exeter Cathedral.[7] Later tradition places his birth at Crediton, but the earliest mention of Crediton in connection to Boniface is from the early fourteenth century,[8] in John Grandisson's _Legenda Sanctorum: The Proper Lessons for Saints' Days according to the use of Exeter_.[9] In one of his letters Boniface mentions he was "born and reared...[in] the synod of London",[10] but he may have been speaking metaphorically.[11]
 
 According to the _vitae_, Winfrid was of a respected and prosperous family. Against his father's wishes he devoted himself at an early age to the monastic life. He received further theological training in the Benedictine monastery and minster of Nhutscelle (Nursling),[12] not far from Winchester, which under the direction of abbot Winbert had grown into an industrious centre of learning in the tradition of Aldhelm.[13] Winfrid taught in the abbey school and at the age of 30 became a priest; in this time, he wrote a Latin grammar, the _Ars Grammatica_, besides a treatise on verse and some Aldhelm-inspired riddles.[14] While little is known about Nursling outside of Boniface's _vitae_, it seems clear that the library there was significant. In order to supply Boniface with the materials he needed, it would have contained works by Donatus, Priscian, Isidore, and many others.[15] Around 716, when his abbot Wynberth of Nursling died, he was invited (or expected) to assume his position—it is possible that they were related, and the practice of hereditary right among the early Anglo-Saxons would affirm this.[16] Winfrid, however, declined the position and in 716 set out on a missionary expedition to Frisia.
 
 
 Early missionary work in Frisia and Germania
 
-Bonifatius_Donareiche.jpg]] Boniface first left for the continent in 716. He traveled to Utrecht, where Willibrord, the "Apostle of the Frisians," had been working since the 690s. He spent a year with Willibrord, preaching in the countryside, but their efforts were frustrated by the war then being carried on between Charles Martel and Radbod, King of the Frisians. Willibrord fled to the abbey he had founded in Echternach (in modern-day Luxembourg) while Boniface returned to Nursling.
+]] Boniface first left for the continent in 716. He traveled to Utrecht, where Willibrord, the "Apostle of the Frisians," had been working since the 690s. He spent a year with Willibrord, preaching in the countryside, but their efforts were frustrated by the war then being carried on between Charles Martel and Radbod, King of the Frisians. Willibrord fled to the abbey he had founded in Echternach (in modern-day Luxembourg) while Boniface returned to Nursling.
 
 Boniface returned to the continent the next year and went straight to Rome, where Pope Gregory II renamed him "Boniface", after the (legendary) fourth-century martyr Boniface of Tarsus, and appointed him missionary bishop for Germania—he became a bishop without a diocese for an area that lacked any church organization. He would never return to England, though he remained in correspondence with his countrymen and kinfolk throughout his life.
 
@@ -21,7 +21,7 @@ According to the _vitae_ Boniface felled the Donar Oak, Latinized by Willibald a
 
 Boniface and the Carolingians
 
-St_Boniface_-_Baptising-Martyrdom_-_Sacramentary_of_Fulda_-_11Century.jpg The support of the Frankish mayors of the palace (maior domos), and later the early Pippinid and Carolingian rulers, was essential for Boniface's work. Boniface had been under the protection of Charles Martel from 723 on. The Christian Frankish leaders desired to defeat their rival power, the non-Christian Saxons, and to incorporate the Saxon lands into their own growing empire. Boniface's campaign of destruction of indigenous Germanic pagan sites may have benefited the Franks in their campaign against the Saxons.
+The support of the Frankish mayors of the palace (maior domos), and later the early Pippinid and Carolingian rulers, was essential for Boniface's work. Boniface had been under the protection of Charles Martel from 723 on. The Christian Frankish leaders desired to defeat their rival power, the non-Christian Saxons, and to incorporate the Saxon lands into their own growing empire. Boniface's campaign of destruction of indigenous Germanic pagan sites may have benefited the Franks in their campaign against the Saxons.
 
 In 732, Boniface traveled again to Rome to report, and Pope Gregory III conferred upon him the pallium as archbishop with jurisdiction over Germany. Boniface again set out for what is now Germany, continued his mission, and used his authority to resolve the problems of many other Christians who had fallen out of contact with the regular hierarchy of the Roman Catholic Church. During his third visit to Rome in 737–38, he was made papal legate for Germany.
 
@@ -33,8 +33,6 @@ Boniface balanced this support and attempted to maintain some independence, howe
 
 
 Last mission to Frisia
-
-Sint-Bonifatiuscrypte_Fulda.jpg Nagelung_-_vergrößerter_Ausschnitt.jpg
 
 According to the _vitae_, Boniface had never relinquished his hope of converting the Frisians, and in 754 he set out with a retinue for Frisia. He baptized a great number and summoned a general meeting for confirmation at a place not far from Dokkum, between Franeker and Groningen. Instead of his converts, however, a group of armed robbers appeared who slew the aged archbishop. The _vitae_ mention that Boniface persuaded his (armed) comrades to lay down their arms: "Cease fighting. Lay down your arms, for we are told in Scripture not to render evil for good but to overcome evil by good."[23]
 
@@ -58,7 +56,7 @@ Willibald's _vita_ describes how a visitor on horseback come to the site of the 
 
 Memorials
 
-Bonifatius_Fritzlar.jpg, Germany]] Saint Boniface's feast day is celebrated on 5 June in the Roman Catholic Church, the Lutheran Church, the Anglican Communion and the Eastern Orthodox Church.
+, Germany]] Saint Boniface's feast day is celebrated on 5 June in the Roman Catholic Church, the Lutheran Church, the Anglican Communion and the Eastern Orthodox Church.
 
 A famous statue of Saint Boniface stands on the grounds of Mainz Cathedral, seat of the archbishop of Mainz. A more modern rendition stands facing St. Peter's Church of Fritzlar.
 
@@ -76,7 +74,7 @@ Some traditions credit Saint Boniface with the invention of the Christmas tree. 
 
 Sources and writings
 
-Bonifatiusstatue_Fulda.jpg, Germany]]
+, Germany]]
 
 _Vitae_
 
@@ -115,7 +113,7 @@ Boniface's death (and birth) has given rise to a number of noteworthy celebratio
 
 Celebrations in Germany: 1805, 1855, 1905
 
-1905_boniface_coin.jpg The first German celebration on a fairly large scale was held in 1805 (the 1050th anniversary of his death), followed by a similar celebration in a number of towns in 1855; both of these were predominantly Catholic affairs, which emphasized the role of Boniface in German history. But if the celebrations were mostly Catholic, in the first part of the 19th century the respect for Boniface in general was an ecumenical affair, with both Protestants and Catholics praising Boniface as a founder of the German nation, in response to the German nationalism that arose after the Napoleonic era came to an end. The second part of the 19th century saw increased tension between Catholics and Protestants; for the latter, Martin Luther had become the model German, the founder of the modern nation, and he and Boniface were in direct competition for the honor.[51] In 1905, when strife between Catholic and Protestant factions had eased (one Protestant church published a celebratory pamphlet, Gerhard Ficker's _Bonifatius, der "Apostel der Deutschen"_), there were modest celebrations and a publication for the occasion on historical aspects of Boniface and his work, the 1905 _Festgabe_ by Gregor Richter and Carl Scherer. In all, the content of these early celebrations showed evidence of the continuing question about the meaning of Boniface for Germany, though the importance of Boniface in cities associated with him was without question.[52]
+The first German celebration on a fairly large scale was held in 1805 (the 1050th anniversary of his death), followed by a similar celebration in a number of towns in 1855; both of these were predominantly Catholic affairs, which emphasized the role of Boniface in German history. But if the celebrations were mostly Catholic, in the first part of the 19th century the respect for Boniface in general was an ecumenical affair, with both Protestants and Catholics praising Boniface as a founder of the German nation, in response to the German nationalism that arose after the Napoleonic era came to an end. The second part of the 19th century saw increased tension between Catholics and Protestants; for the latter, Martin Luther had become the model German, the founder of the modern nation, and he and Boniface were in direct competition for the honor.[51] In 1905, when strife between Catholic and Protestant factions had eased (one Protestant church published a celebratory pamphlet, Gerhard Ficker's _Bonifatius, der "Apostel der Deutschen"_), there were modest celebrations and a publication for the occasion on historical aspects of Boniface and his work, the 1905 _Festgabe_ by Gregor Richter and Carl Scherer. In all, the content of these early celebrations showed evidence of the continuing question about the meaning of Boniface for Germany, though the importance of Boniface in cities associated with him was without question.[52]
 
 1954 celebrations
 

@@ -1,1 +1,0 @@
-"CHAPTER 7" is the seventh episode of the sixth season of the anthology television series _American Horror Story_. It aired on October 26, 2016, on the cable network FX. The episode was written by Crystal Liu and directed by Elodie Keene.

@@ -1,1 +1,0 @@
-ST PETER’S CHURCH, CHESIL, WINCHESTER, formerly known as ST PETER UPON CHESILLE WITHOUT EASTGATE, is a former parish church of the Church of England in Winchester, Hampshire,[1] and is now the home of Chesil Theatre.[2]

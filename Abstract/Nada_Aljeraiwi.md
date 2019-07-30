@@ -1,1 +1,0 @@
-NADA ALJERAIWI (born 24 June 1985) is a Kuwaiti professional racing cyclist.[1] She rode in the women's time trial and women's road race at the 2016 UCI Road World Championships, but she did not finish the race.[2][3]

@@ -1,1 +1,0 @@
-حسنعلی_نخودکی_اصفهانی.jpg '''Hassan Ali Nokhodaki Isfahani '''() (Born in Isfahan, Iran 1279 AH - Died in Mashhad, Iran 1361 AH) jurist, philosopher, moralist and a Shi'ite. He was the son of Rajab Ali Akbar Isfahani and was born into a very religious family.[1]

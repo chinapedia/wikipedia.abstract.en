@@ -1,1 +1,0 @@
-GENERAL ELECTRIC COMPANY (GE) is an American multinational conglomerate incorporated in New York City and headquartered in Boston. , the company operates through the following segments: aviation, healthcare, power, renewable energy, digital industry, additive manufacturing, venture capital and finance, lighting, and oil and gas.[1][2]

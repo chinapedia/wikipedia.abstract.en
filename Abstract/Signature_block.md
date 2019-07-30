@@ -1,1 +1,0 @@
-A SIGNATURE BLOCK (often abbreviated as SIGNATURE, SIG BLOCK, SIG FILE, .SIG, DOT SIG, SIGGY, or just SIG) is a block of text automatically appended at the bottom of an email message, Usenet article, or forum post.

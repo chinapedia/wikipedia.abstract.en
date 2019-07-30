@@ -1,1 +1,0 @@
-thumb|upright=1.35|Map of known supervolcanoes around the world: A SUPERVOLCANO is a large volcano that has had an eruption of magnitude 8, which is the largest value on the Volcanic Explosivity Index (VEI). This means the volume of deposits for that eruption is greater than 1,000 cubic kilometers (240 cubic miles).[1]

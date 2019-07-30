@@ -1,1 +1,0 @@
-The INTERNATIONAL ADKINS CHITI: WOMEN IN MUSIC FOUNDATION was founded in 1996.[1][2] It grew from 'Donne in Musica',[3][4] founded by Patricia Adkins Chiti in 1978, and is a member organisation of the UNESCO International Music Council (see European Music Council).

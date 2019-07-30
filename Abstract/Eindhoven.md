@@ -1,1 +1,0 @@
-EINDHOVEN () is the fifth-largest city and a municipality of the Netherlands, located in the south of the country. It had a population of 231.469 in 2019, making it the largest city in the province of North Brabant, although 's-Hertogenbosch is its capital. Eindhoven was originally located at the confluence of the Dommel and Gender.[1][2][3]

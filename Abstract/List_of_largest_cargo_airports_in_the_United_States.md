@@ -1,1 +1,0 @@
-LIST OF THE LARGEST CARGO AIRPORTS IN THE UNITED STATES based on tons of departing cargo (freight + mail) since 2008 (note: this list includes airports not in the United States, but in American territories)

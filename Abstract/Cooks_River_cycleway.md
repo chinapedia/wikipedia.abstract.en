@@ -1,1 +1,0 @@
-The COOKS RIVER CYCLEWAY is a [1] shared use path for cyclists and pedestrians that is generally aligned with the Cooks River in Sydney, New South Wales, Australia. The western terminus of the cycleway is in Settlers' Park, , while the south-eastern terminus is in Botany Bay at .[2]

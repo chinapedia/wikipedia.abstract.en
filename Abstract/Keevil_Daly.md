@@ -1,1 +1,0 @@
-KEEVIL DALY (21 December 1923 – 28 June 2011)[1] was a male weightlifter, who competed in the light heavyweight and middle heavyweight class and who represented British Guiana, and later Canada, at international competitions. He won the silver medal at the 1947 World Weightlifting Championships in the 82.5 kg category.[2]

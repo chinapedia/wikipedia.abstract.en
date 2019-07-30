@@ -1,1 +1,0 @@
-SEYYED ABBAS SALEHI () is an Iranian scholar and journalist who is currently holding office as the Minister of Culture and Islamic Guidance. He was vice minister from 2013 until 2017 which also served as acting Minister of Culture from 19 October until 1 November 2016.[1] On 20 August 2017, he was confirmed as culture minister in the second administration of Rouhani.

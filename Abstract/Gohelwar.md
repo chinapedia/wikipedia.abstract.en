@@ -1,1 +1,0 @@
-Kathiawar_map.jpg GOHILWAR was one of the four _prant_s (traditional districts, here maintained during the British raj) into which the many feudal units (mostly petty princely states) of Kathiawar on Saurashtra peninsula in present Gujarat (western India) were divided, the others being Halar (west), Jhalawar (or Jalavad; north) and Sorath (southern).

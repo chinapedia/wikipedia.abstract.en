@@ -1,4 +1,4 @@
-Mooncolony.jpg]] Mars_Food_Production_-_Bisected.jpg SPACE COLONIZATION (also called SPACE SETTLEMENT, or EXTRATERRESTRIAL COLONIZATION) is permanent human habitation off the planet Earth.
+]] SPACE COLONIZATION (also called SPACE SETTLEMENT, or EXTRATERRESTRIAL COLONIZATION) is permanent human habitation off the planet Earth.
 
 Many arguments have been made for and against space colonization.[1] The two most common in favor of colonization are survival of human civilization and the biosphere in the event of a planetary-scale disaster (natural or man-made), and the availability of additional resources in space that could enable expansion of human society. The most common objections to colonization include concerns that the commodification of the cosmos may be likely to enhance the interests of the already powerful, including major economic and military institutions, and to exacerbate pre-existing detrimental processes such as wars, economic inequality, and environmental degradation.[2][3][4]
 
@@ -147,7 +147,7 @@ Experts have debated on the possible usage of money and currencies in societies 
 
 Location
 
-Mars_mission.jpg]] Location is a frequent point of contention between space colonization advocates. The location of colonization can be on a physical body planet, dwarf planet, natural satellite, or asteroid or orbiting one. For colonies not on a body see also space habitat.
+]] Location is a frequent point of contention between space colonization advocates. The location of colonization can be on a physical body planet, dwarf planet, natural satellite, or asteroid or orbiting one. For colonies not on a body see also space habitat.
 
 Near-Earth space
 
@@ -161,7 +161,7 @@ The Moon's lack of atmosphere provides no protection from space radiation or met
 
 Lagrange points
 
-Lagrange_points.jpg of the Sun and Earth, showing the five Earth–Sun Lagrange points]]
+of the Sun and Earth, showing the five Earth–Sun Lagrange points]]
 
 Another near-Earth possibility are the five Earth–Moon Lagrange points. Although they would generally also take a few days to reach with current technology, many of these points would have near-continuous solar power because their distance from Earth would result in only brief and infrequent eclipses of light from the Sun. However, the fact that the Earth–Moon Lagrange points and tend to collect dust and debris, whereas - require active station-keeping measures to maintain a stable position, make them somewhat less suitable places for habitation than was originally believed. Additionally, the orbit of – takes them out of the protection of the Earth's magnetosphere for approximately two-thirds of the time, exposing them to the health threat from cosmic rays.
 
@@ -180,8 +180,6 @@ Colonizing Mercury would involve similar challenges as the Moon as there are few
 Geologist Stephen Gillett suggested in 1996 that this could make Mercury an ideal place to build and launch solar sail spacecraft, which could launch as folded up "chunks" by mass driver from Mercury's surface. Once in space the solar sails would deploy. Since Mercury's solar constant is 6.5 times higher than Earth's, energy for the mass driver should be easy to come by, and solar sails near Mercury would have 6.5 times the thrust they do near Earth. This could make Mercury an ideal place to acquire materials useful in building hardware to send to (and terraform) Venus. Vast solar collectors could also be built on or near Mercury to produce power for large scale engineering activities such as laser-pushed lightsails to nearby star systems.[75]
 
 Venus
-
-TerraformedVenus.jpg
 
 Mars
 
@@ -217,7 +215,7 @@ The Oort cloud is estimated to have up to a trillion comets.
 
 Outside the Solar System
 
-LH_95.jpg forming region in the Large Magellanic Cloud]] Looking beyond the Solar System, there are up to several hundred billion potential stars with possible colonization targets. The main difficulty is the vast distances to other stars: roughly a hundred thousand times further away than the planets in the Solar System. This means that some combination of very high speed (some percentage of the speed of light), or travel times lasting centuries or millennia, would be required. These speeds are far beyond what current spacecraft propulsion systems can provide.
+forming region in the Large Magellanic Cloud]] Looking beyond the Solar System, there are up to several hundred billion potential stars with possible colonization targets. The main difficulty is the vast distances to other stars: roughly a hundred thousand times further away than the planets in the Solar System. This means that some combination of very high speed (some percentage of the speed of light), or travel times lasting centuries or millennia, would be required. These speeds are far beyond what current spacecraft propulsion systems can provide.
 
 Many scientific papers have been published about interstellar travel. Given sufficient travel time and engineering work, both unmanned and generational voyages seem possible, though representing a very considerable technological and economic challenge unlikely to be met for some time, particularly for manned probes.
 

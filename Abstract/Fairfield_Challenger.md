@@ -1,1 +1,0 @@
-The FAIRFIELD CHALLENGER (currently labeled Northbay Healthcare Men's Pro Championships for sponsorship reasons) is a professional tennis tournament played on hard courts.[1] It is currently part of the Association of Tennis Professionals (ATP) Challenger Tour. It is held annually in Fairfield, California, a suburb of San Francisco, since 2015.

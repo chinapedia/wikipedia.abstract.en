@@ -21,7 +21,7 @@ Two authoritative versions of the Ashkenazi siddur were those of Shabbetai Sofer
 
 Different Jewish rites
 
-Sibir1.jpg Siddur prayer book from Irkutsk, Russia, printed in 1918]] There are differences among, amongst others, the Sephardic (including Spanish and Portuguese and Mizrachim), Teimani (Yemenite), Chasidic, Ashkenazic (divided into German, Polish and other European and eastern-European rites), Bené Roma or Italkim, Romaniote (Greek, once extending to Turkey, Crimea and the southern Italian peninsula) and also Persian-, Kurdish-, Bukharian-, Georgian-, Mountain Jewish-, Ethiopian- and Cochin-Jewish liturgies. Most of these are slight differences in the wording of the prayers; for instance, Oriental Sephardic and some Hasidic prayer books state "חננו מאתך חכמה בינה ודעת", "Graciously bestow upon us from You wisdom (_ḥochmah_), understanding (_binah_) and knowledge (_daat_)", in allusion to the Kabbalistic sefirot of those names, while the Nusach Ashkenaz, as well as Western Sephardic and other Hasidic versions retain the older wording "חננו מאתך דעה בינה והשכל", "Graciously bestow upon us from You knowledge, understanding, and reason". In some cases, however, the order of the preparation for the Amidah is drastically different, reflecting the different halakhic and kabbalistic formulae that the various scholars relied on in assembling their siddurim, as well as the minhagim, or customs, or their locales.
+Siddur prayer book from Irkutsk, Russia, printed in 1918]] There are differences among, amongst others, the Sephardic (including Spanish and Portuguese and Mizrachim), Teimani (Yemenite), Chasidic, Ashkenazic (divided into German, Polish and other European and eastern-European rites), Bené Roma or Italkim, Romaniote (Greek, once extending to Turkey, Crimea and the southern Italian peninsula) and also Persian-, Kurdish-, Bukharian-, Georgian-, Mountain Jewish-, Ethiopian- and Cochin-Jewish liturgies. Most of these are slight differences in the wording of the prayers; for instance, Oriental Sephardic and some Hasidic prayer books state "חננו מאתך חכמה בינה ודעת", "Graciously bestow upon us from You wisdom (_ḥochmah_), understanding (_binah_) and knowledge (_daat_)", in allusion to the Kabbalistic sefirot of those names, while the Nusach Ashkenaz, as well as Western Sephardic and other Hasidic versions retain the older wording "חננו מאתך דעה בינה והשכל", "Graciously bestow upon us from You knowledge, understanding, and reason". In some cases, however, the order of the preparation for the Amidah is drastically different, reflecting the different halakhic and kabbalistic formulae that the various scholars relied on in assembling their siddurim, as well as the minhagim, or customs, or their locales.
 
 Some forms of the Sephardi rite are considered to be very overtly kabbalistic, depending on how far they reflect the ritual of Isaac Luria. This is partly because the Tetragrammaton frequently appears with varying vowel points beneath the letters (unpronounced, but to be meditated upon) and different Names of God appear in small print within the final hei (ה) of the Tetragrammaton. In some editions, there is a Psalm in the preparations for the Amidah that is printed in the outline of a menorah, and the worshipper meditates on this shape as he recites the psalm.
 
@@ -45,7 +45,7 @@ Variations and additions on holidays
 
 Popular siddurim
 
-Below are listed many popular siddurim used by religious Jews. This list mostly excludes prayer books specifically for the High Holidays; see Machzor (Popular versions). Siddurim.JPG
+Below are listed many popular siddurim used by religious Jews. This list mostly excludes prayer books specifically for the High Holidays; see Machzor (Popular versions).
 
 Ashkenazi Orthodox
 
@@ -236,8 +236,6 @@ Progressive and Reform Judaism
 -   _Seder Tov Lehodot: Teksten, gebeden en diensten voor weekdagen, Sjabbat en andere gelegenheden_, Amsterdam 2000, Verbond van Liberaal-Religieuze Joden in Nederland now Nederlands Verbond voor Progressief Jodendom;
 
 Reconstructionist Judaism
-
-DSCN0301.JPG
 
 -   Prayer Books edited by Rabbi Mordecai Kaplan and others:
     -   _Sabbath Prayer Book_, Jewish Reconstructionist Foundation, 1945

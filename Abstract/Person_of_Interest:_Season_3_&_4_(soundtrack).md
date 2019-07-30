@@ -1,1 +1,0 @@
-_PERSON OF INTEREST: SEASON 3 & 4_ is the third soundtrack of the American television series Person of Interest, composed by Ramin Djawadi, bringing together music used for the third and fourth season. Released in January 2016, the album includes twenty-four music composed specially for seasons 3 and 4 of Person of Interest.

@@ -1,1 +1,0 @@
-Jacobite}} {{ infobox war faction | name = Jacobite movement | native_name = | war = | image = Jacobite Standard (1745).svg | image_size = 150px | caption = The Jacobite 1745 flag | active = 1688–1780s | ideology = * Loyalism to the Stuarts

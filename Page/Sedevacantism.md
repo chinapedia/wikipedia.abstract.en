@@ -1,4 +1,4 @@
-Sede_vacante.svg between the death or renunciation of a pope and the election of a new incumbent]]
+between the death or renunciation of a pope and the election of a new incumbent]]
 
 SEDEVACANTISM is the position, held by some traditionalist Catholics,[1][2] that the present occupier of the Holy See is not truly pope due to the mainstream church's espousal of what they see as the heresy of modernism and that, for lack of a valid pope, the See has been vacant since the death of Pope Pius XII in 1958.
 

@@ -1,1 +1,0 @@
-The NATIONAL CARTOONISTS SOCIETY (NCS) is an organization of professional cartoonists in the United States. It presents the NATIONAL CARTOONISTS SOCIETY AWARDS. The Society was born in 1946 when groups of cartoonists got together to entertain the troops. They enjoyed each other's company and decided to meet on a regular basis.[1]

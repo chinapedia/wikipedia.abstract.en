@@ -1,1 +1,0 @@
-The ASTANA CHALLENGER CAPITAL CUP is a professional tennis tournament played on indoor hard courts. It is part of the Association of Tennis Professionals (ATP) Challenger Tour. It has been held in Astana, Kazakhstan in 2016.[1]

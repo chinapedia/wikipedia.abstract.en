@@ -14,7 +14,7 @@ Dayton, Tennessee
 
 The American Civil Liberties Union (ACLU) offered to defend anyone accused of teaching the theory of evolution in defiance of the Butler Act. On April 5, 1925, George Rappleyea, local manager for the Cumberland Coal and Iron Company, arranged a meeting with county superintendent of schools Walter White and local attorney Sue K. Hicks at Robinson's Drug Store, convincing them that the controversy of such a trial would give Dayton much needed publicity. According to Robinson, Rappleyea said, "As it is, the law is not enforced. If you win, it will be enforced. If I win, the law will be repealed. We're game, aren't we?" The men then summoned 24-year-old John T. Scopes, a Dayton high school science and math teacher. The group asked Scopes to admit to teaching the theory of evolution.[10][11]
 
-John_t_scopes.jpg]]
+]]
 
 Rappleyea pointed out that, while the Butler Act prohibited the teaching of the theory of evolution, the state required teachers to use a textbook that explicitly described and endorsed the theory of evolution, and that teachers were, therefore, effectively required to break the law.[12] Scopes mentioned that while he couldn't remember whether he had actually taught evolution in class, he had, however, gone through the evolution chart and chapter with the class. Scopes added to the group: "If you can prove that I've taught evolution and that I can qualify as a defendant, then I'll be willing to stand trial."[13]
 
@@ -24,7 +24,7 @@ The original prosecutors were Herbert E. and Sue K. Hicks, two brothers who were
 
 Hoping to attract major press coverage, George Rappleyea went so far as to write to the British novelist H. G. Wells asking him to join the defense team. Wells replied that he had no legal training in Britain, let alone in America, and declined the offer. John R. Neal, a law school professor from Knoxville, announced that he would act as Scopes' attorney whether Scopes liked it or not, and he became the nominal head of the defense team.
 
-Clarence_Darrow_during_Scopes_Trial_cph.3a44036.jpg in 1925, during the trial]]
+in 1925, during the trial]]
 
 Baptist pastor William Bell Riley, the founder and president of the World Christian Fundamentals Association, was instrumental in calling lawyer and three-time Democratic presidential nominee, former United States Secretary of State, and lifelong Presbyterian William Jennings Bryan to act as that organization's counsel. Bryan had originally been invited by Sue Hicks to become an associate of the prosecution and Bryan had readily accepted, despite the fact he had not tried a case in thirty-six years. As Scopes pointed out to James Presley in the book _Center of the Storm,_ on which the two collaborated: "After [Bryan] was accepted by the state as a special prosecutor in the case, there was never any hope of containing the controversy within the bounds of constitutionality."[20][21]
 
@@ -39,7 +39,7 @@ Proceedings
 
 The ACLU had originally intended to oppose the Butler Act on the grounds that it violated the teacher's individual rights and academic freedom, and was therefore unconstitutional. Principally because of Clarence Darrow, this strategy changed as the trial progressed. The earliest argument proposed by the defense once the trial had begun was that there was actually no conflict between evolution and the creation account in the Bible; later, this viewpoint would be called theistic evolution. In support of this claim, they brought in eight experts on evolution. But other than Dr. Maynard Metcalf, a zoologist from Johns Hopkins University, the judge would not allow these experts to testify in person. Instead, they were allowed to submit written statements so that their evidence could be used at the appeal. In response to this decision, Darrow made a sarcastic comment to Judge Raulston (as he often did throughout the trial) on how he had been agreeable only on the prosecution's suggestions. Darrow apologized the next day, keeping himself from being found in contempt of court.[27]
 
-H-L-Mencken-1928.jpg in 1928]]
+in 1928]]
 
 The presiding judge, John T. Raulston, was accused of being biased towards the prosecution and frequently clashed with Darrow. At the outset of the trial, Raulston quoted Genesis and the Butler Act. He also warned the jury not to judge the merit of the law (which would become the focus of the trial) but on the violation of the Act, which he called a 'high misdemeanor.' The jury foreman himself was unconvinced of the merit of the Act but he acted, as did most of the jury, on the instructions of the judge.[28]
 
@@ -51,7 +51,7 @@ On the sixth day of the trial, the defense ran out of witnesses. The judge decla
 
 Examination of Bryan
 
-WJBryan.jpg in 1925]]
+in 1925]]
 
 On the seventh day of the trial, Clarence Darrow took the unorthodox step of calling William Jennings Bryan, counsel for the prosecution, to the stand as a witness in an effort to demonstrate that belief in the historicity of the Bible and its many accounts of miracles was unreasonable. Bryan accepted, on the understanding that Darrow would in turn submit to questioning by Bryan. Although Hays would claim in his autobiography that the cross-examination of Bryan was unplanned, Darrow spent the night before in preparation. The scientists the defense had brought to Dayton—and Charles Francis Potter, a modernist minister who had engaged in a series of public debates on evolution with the fundamentalist preacher John Roach Straton—prepared topics and questions for Darrow to address to Bryan on the witness stand.[34] Kirtley Mather, chairman of the geology department at Harvard and also a devout Baptist, played Bryan and answered questions as he believed Bryan would.[35][36] Raulston had adjourned court to the stand on the courthouse lawn, ostensibly because he was "afraid of the building" with so many spectators crammed into the courtroom, but probably because of the stifling heat.[37]
 
@@ -173,7 +173,7 @@ The trial also brought publicity to the town of Dayton, Tennessee, and was hatch
 
 Courthouse
 
-Rhea_county_courthouse_usda.jpg is a National Historic Landmark]]
+is a National Historic Landmark]]
 
 In a $1-million restoration of the Rhea County Courthouse in Dayton, completed in 1979, the second-floor courtroom was restored to its appearance during the Scopes trial. A museum of trial events in its basement contains such memorabilia as the microphone used to broadcast the trial, trial records, photographs, and an audiovisual history. Every July, local people re-enact key moments of the trial in the courtroom.[88] In front of the courthouse stands a commemorative plaque erected by the Tennessee Historical Commission:
 
@@ -216,7 +216,7 @@ He described Rhea County as priding itself on a kind of tolerance or what he cal
 
 In popular culture
 
-Inherit_the_wind_trailer_(1)_Spencer_Tracy_Fredric_March.jpg (left) as Clarence Darrow, and Frederic March (right) as William Jennings Bryan in the trailer for the film _Inherit the Wind_; Harry Morgan in the background plays the judge]]
+(left) as Clarence Darrow, and Frederic March (right) as William Jennings Bryan in the trailer for the film _Inherit the Wind_; Harry Morgan in the background plays the judge]]
 
 STAGE, FILM AND TELEVISION
 

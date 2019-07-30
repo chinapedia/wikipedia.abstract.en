@@ -1,1 +1,0 @@
-EUROPA may refer to:

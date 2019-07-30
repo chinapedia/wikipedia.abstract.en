@@ -1,1 +1,0 @@
-The MONTERREY STEEL was a professional indoor football team and a charter member of the National Arena League (NAL) that played in the 2017 season. Based in Monterrey, Nuevo Leon, the Steel played their home games at Arena Monterrey.

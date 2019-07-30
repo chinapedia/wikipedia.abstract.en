@@ -1,1 +1,0 @@
-Orienteering_symbol_framed.png Orienteering_pictogram.svg

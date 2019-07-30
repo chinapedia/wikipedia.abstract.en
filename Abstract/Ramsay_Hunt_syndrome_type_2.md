@@ -1,1 +1,0 @@
-RAMSAY HUNT SYNDROME TYPE 2, also known as HERPES ZOSTER OTICUS, is a disorder that is caused by the reactivation of varicella zoster virus in the geniculate ganglion, a nerve cell bundle of the facial nerve.[1]

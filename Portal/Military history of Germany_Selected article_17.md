@@ -1,0 +1,7 @@
+Panzerhaubitze_2000_im_scharfen_Schuss_(Seil).jpg OPERATION HALMAZAG (Dari for "lightning") was an offensive operation by ISAF German-led troops in close cooperation with the Afghan security forces in the province of Kunduz, from 31 October to 4 November 2010, with the aim of building a permanent outpost near the village of Quatliam in the Char Dara district, south-west of Kunduz. The operation was the first German military ground offensive since World War II.
+
+Until 2009, German troops were only involved in a handful of firefights with Taliban militants. Between April and June, the number of direct contacts had already topped the total of the seven years before. A similar development struck Faryab province and the surrounding districts: Having already taken up actions to put the Taliban at rout, Norwegian forces saw themselves increasingly threatened by insurgent activities.
+
+With casualties rising, the German leadership was prompted to revise the rules of engagement for its troops in early 2009. The German military began joint operations with Afghan security forces in accordance to the "Afghan-face" strategy of ISAF in April 2009 and continued to conduct own operations to improve the security as well as supporting other allies in their own struggle. By 2009, there were three major hotspots: the insurgency of the Taliban in Kunduz' Char Dara district, the presence of armed militants in Baghlan province and the militants' activities in Faryab province.
+
+(READ MORE...)

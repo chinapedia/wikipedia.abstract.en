@@ -1,1 +1,0 @@
-Coat_of_Arms_for_The_d'Espinassy_de_Venel_Family.png

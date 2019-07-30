@@ -1,1 +1,0 @@
-A MICROLITH is a small stone tool usually made of flint or chert and typically a centimetre or so in length and half a centimetre wide. They were made by humans from around 35,000 to 3,000 years ago, across Europe, Africa, Asia and Australia. The microliths were used in spear points and arrowheads.

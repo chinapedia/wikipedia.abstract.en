@@ -1,1 +1,0 @@
-THOMAS STUART PIRIE (9 December 1896 – 1966) was a Scottish amateur football wing half who appeared in the Scottish League for Queen's Park and Aberdeen.[1][2][3] He also played in the Football League for Bristol Rovers and Cardiff City.[4]

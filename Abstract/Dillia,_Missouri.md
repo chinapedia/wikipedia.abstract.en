@@ -1,1 +1,0 @@
-DILLIA is an extinct town in Ozark County, in the U.S. state of Missouri. The GNIS classifies it as a populated place.[1] However, the location coordinates place it within the waters of Bull Shoals Lake on the Barren Fork Branch of the Little North Fork White River[2] approximately four miles south-southeast of the Hammond mill site and four miles northeast of Theodosia.

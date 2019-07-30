@@ -1,1 +1,0 @@
-ICE HOCKEY is a minor sport in MEXICO, but is slowly growing.[1][2] Football (soccer) have dominated Mexican sports for decades, but ice hockey has still not been popular in Mexico since its founding in the 1960s.

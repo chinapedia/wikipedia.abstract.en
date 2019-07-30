@@ -1,1 +1,0 @@
-The EUROPEAN WHITE ELM cultivar _ULMUS LAEVIS_ 'HELENA' is a Dutch introduction in commerce circa 2010 at the Boomkwekerij s'Herenland at Randwijk (PBR applied for: EU 20142249).[1] The cultivar was cloned from a tree planted as one of a line of 17 White Elms at Eibergen circa 1900, which developed a straight central leader. Ulmus_laevis_(haaksbergseweg_eibergen)_080211a.jpg

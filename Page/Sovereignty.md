@@ -1,4 +1,4 @@
-Leviathan_by_Thomas_Hobbes.jpg' _Leviathan_, depicting the Sovereign as a massive body wielding a sword and crosier and composed of many individual people]] SOVEREIGNTY is the full right and power of a governing body over itself, without any interference from outside sources or bodies. In political theory, sovereignty is a substantive term designating supreme authority over some polity.[1]
+' _Leviathan_, depicting the Sovereign as a massive body wielding a sword and crosier and composed of many individual people]] SOVEREIGNTY is the full right and power of a governing body over itself, without any interference from outside sources or bodies. In political theory, sovereignty is a substantive term designating supreme authority over some polity.[1]
 
 
 Etymology

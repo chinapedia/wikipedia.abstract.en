@@ -1,1 +1,0 @@
-AGNOSTIDA is an order of arthropod which first developed near the end of the Early Cambrian period and thrived during the Middle Cambrian. They are present in the Lower Cambrian fossil record along with trilobites from the Redlichiida, Corynexochida, and Ptychopariida orders. The last agnostids went extinct in the Late Ordovician.

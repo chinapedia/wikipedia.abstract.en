@@ -1,1 +1,0 @@
-The 1950 TOLEDO ROCKETS FOOTBALL TEAM was an American football team that represented the University of Toledo during the 1950 college football season. In their first and only season under head coach Bob Snyder, the Rockets compiled a 4–5 record and were outscored by their opponents by a combined total of 234 to 200.[1][2]

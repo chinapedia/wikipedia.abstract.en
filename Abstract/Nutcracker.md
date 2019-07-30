@@ -1,1 +1,0 @@
-Nüsse_mit_Nusszange_(Nussknacker)_(11545246275).jpg A NUTCRACKER is a tool designed to open nuts by cracking their shells. There are many designs, including levers, screws, and ratchets. A well-known type portrays a person whose mouth forms the jaws of the nutcracker, though many of these are meant for decoration.

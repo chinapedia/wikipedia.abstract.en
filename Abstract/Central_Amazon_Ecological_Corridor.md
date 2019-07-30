@@ -1,1 +1,0 @@
-The CENTRAL AMAZON ECOLOGICAL CORRIDOR () is an ecological corridor in the state of Amazonas, Brazil, that connects a number of conservation units in the Amazon rainforest. The objective is to maintain genetic connectivity between the protected areas without penalizing the local people, where possible using participatory planning that involves all affected actors.

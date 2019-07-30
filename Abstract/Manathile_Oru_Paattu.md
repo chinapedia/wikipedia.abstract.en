@@ -1,1 +1,0 @@
-_MANATHILE ORU PAATTU_ (English : A song in heart) is a 1995 Tamil romantic drama film directed by Gnanamozhi. The film features Vignesh, Saradha Preetha and Sukran in the lead roles, with Raghuvaran, Vinu Chakravarthy, Venniradai Moorthy, Chinni Jayanth and Sangeeta playing supporting roles. The film had musical score by Ilayagangai and was released on 3 March 1995.[1][2][3][4]

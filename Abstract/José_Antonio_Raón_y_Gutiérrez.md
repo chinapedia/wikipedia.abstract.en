@@ -1,1 +1,0 @@
-JOSÉ ANTONIO RAÓN Y GUTIÉRREZ (c. 1700 – 4 January 1773) was a Spanish general who served as Royal Governor of Panama, and the 50th Governor-General of the Philippines. He is known as an able administrator despite being perceived as corrupt.

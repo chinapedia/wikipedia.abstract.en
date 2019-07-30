@@ -1,1 +1,0 @@
-The KIEV GUBERNATORIAL COMMITTEE OF THE COMMUNIST PARTY OF UKRAINE, commonly referred to as the KIEV CPU GUBKOM. In 1917 it was preceded by Kiev Military Revolutionary Committee of Bolsheviks and in 1918-1921 as Kiev Gubernatorial Revolutionary Committee.

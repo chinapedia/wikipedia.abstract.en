@@ -1,1 +1,0 @@
-The MOUTH OF THE AGUAPEÍ PRIVATE NATURAL HERITAGE RESERVE () is a private natural heritage reserve in the state of São Paulo, Brazil. It protects an area of marshland known as the "Pantanal of São Paulo" where the Aguapeí River enters the Paraná River.

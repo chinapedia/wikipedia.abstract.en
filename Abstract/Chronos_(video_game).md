@@ -1,1 +1,0 @@
-_CHRONOS_ is an arcade shoot-em-up developed by The Radical Tubes and was published by Mastertronic Ltd. It was released for the ZX Spectrum and Amstrad CPC in 1987. The music for the game was scored by Tim Follin. The game received mixed to positive reviews upon release.

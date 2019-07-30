@@ -1,1 +1,0 @@
-was an Emeritus Professor of Medicine at Tulane University, and the founding Director of the university's Hébert Research Center, working on neuroendocrinology and biochemistry research. He died in 2007 of multiple myeloma. His books have been collected by libraries worldwide.[1]

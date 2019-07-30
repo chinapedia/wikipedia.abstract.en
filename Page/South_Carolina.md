@@ -60,15 +60,13 @@ South Carolina is also prone to tropical cyclones and tornadoes. Two of the stro
 
 Hurricanes and tropical cyclones
 
-Hurricane_Hugo_1989_sept_21_1844Z.jpg
-
 The state is occasionally affected by tropical cyclones. This is an annual concern during hurricane season, which lasts from June 1 to November 30. The peak time of vulnerability for the southeast Atlantic coast is from early August to early October, during the Cape Verde hurricane season. Memorable hurricanes to hit South Carolina include Hazel (1954), Florence (2018), and Hugo (1989), all Category 4 hurricanes.[10]
 
 South Carolina averages around 50 days of thunderstorm activity a year. This is less than some of the states further south, and it is slightly less vulnerable to tornadoes than the states which border on the Gulf of Mexico. Some notable tornadoes have struck South Carolina, and the state averages around 14 tornadoes annually. Hail is common with many of the thunderstorms in the state, as there is often a marked contrast in temperature of warmer ground conditions compared to the cold air aloft.[11]
 
 Federal lands in South Carolina
 
-Congaree_swamp.jpg, Hopkins]]
+, Hopkins]]
 
 -   Marine Corps Recruit Depot Parris Island at Parris Island
 -   Charles Pinckney National Historic Site at Mt. Pleasant
@@ -104,7 +102,7 @@ Demographics
 
 : SOUTH CAROLINA RACIAL BREAKDOWN OF POPULATION
 
-South_Carolina_population_map.png The United States Census Bureau estimates the population of South Carolina was 5,084,127 on July 1, 2018, an 9.92 percentage increase since the 2010 census.[16]
+The United States Census Bureau estimates the population of South Carolina was 5,084,127 on July 1, 2018, an 9.92 percentage increase since the 2010 census.[16]
 
 As of the 2017 census estimate, the racial make up of the state is 68.5% White (63.8% non-Hispanic white), 27.3% Black or African American, 0.5% American Indian and Alaska Native, 1.7% Asian, 0.1% Native Hawaiian and other Pacific Islander, 1.9% from two or more races. 5.7% of the total population was of Hispanic or Latino origin of any race.[17]
 
@@ -224,7 +222,7 @@ Government and politics
 
 : South Carolina vote|Presidential election results[25]
 
-SCCapitol0270.jpg]] United_States_presidential_election_in_South_Carolina,_2016.svg of the popular vote by county, 2016 presidential election.]] South Carolina's state government consists of the Executive, Legislative, and Judicial branches. Also relevant are the state constitution, law enforcement agencies, federal representation, state finances, and state taxes.
+]] of the popular vote by county, 2016 presidential election.]] South Carolina's state government consists of the Executive, Legislative, and Judicial branches. Also relevant are the state constitution, law enforcement agencies, federal representation, state finances, and state taxes.
 
 South Carolina has historically had a weak executive branch and a strong legislature. Before 1865, governors in South Carolina were appointed by the General Assembly, and held the title "President of State". The 1865 Constitution changed this process, requiring a popular election. Local governments were also weak. But, the 1867 Constitution, passed during the Reconstruction era, extended democratization by establishing home rule for counties, which were established from the formerly designated districts of the state.
 
@@ -245,17 +243,17 @@ There is evidence of human activity in the area about 40,000 years ago. At the t
 
 Up the rivers of the eastern coastal plain lived about a dozen tribes of Siouan background. Along the Savannah River were the Apalachee, Yuchi, and the Yamasee. Further west were the Cherokee, and along the Catawba River, the Catawba. These tribes were village-dwellers, relying on agriculture as their primary food source.[33] The Cherokee lived in wattle and daub houses made with wood and clay, roofed with wood or thatched grass.[34]
 
-Anonimo_portoghese,_carta_navale_per_le_isole_nuovamente_trovate_in_la_parte_dell'india_(de_cantino),_1501-02_(bibl._estense)_02.jpg and the future Carolina explored in 1500 and showed in 1502 on the Cantino planisphere.]] About a dozen separate small tribes summered on the coast harvesting oysters and fish, and cultivating corn, peas and beans. Travelling inland as much as mostly by canoe, they wintered on the coastal plain, hunting deer and gathering nuts and fruit. The names of these tribes survive in place names like Edisto Island, Kiawah Island, and the Ashepoo River.[35]
+and the future Carolina explored in 1500 and showed in 1502 on the Cantino planisphere.]] About a dozen separate small tribes summered on the coast harvesting oysters and fish, and cultivating corn, peas and beans. Travelling inland as much as mostly by canoe, they wintered on the coastal plain, hunting deer and gathering nuts and fruit. The names of these tribes survive in place names like Edisto Island, Kiawah Island, and the Ashepoo River.[35]
 
 Exploration
 
 The Spanish were the first Europeans in the area. From June 24 to July 14, 1521, they explored the land around Winyah Bay. On October 8, 1526, they founded San Miguel de Gualdape, near present-day Georgetown, South Carolina. It was the first European settlement in what is now mainland USA. Established with five hundred settlers, it was abandoned eight months later by one hundred and fifty survivors. In 1540, Hernando de Soto explored the region and the main town of Cofitachequi, where he captured the queen of the Maskoki (Muscogee) and the Chelaque (Cherokee) who had welcomed him.
 
-Floride_francaise_Pierre_du_Val.jpg.]] In 1562 French Huguenots established a settlement at what is now the Charlesfort-Santa Elena archaeological site on Parris Island. Many of these settlers preferred a natural life far from civilization and the atrocities of the Wars of Religion. The garrison lacked supplies, however, and the soldiers (as in the France Antarctique) soon ran away. The French returned two years later but settled in present-day Florida rather than South Carolina.[36]
+.]] In 1562 French Huguenots established a settlement at what is now the Charlesfort-Santa Elena archaeological site on Parris Island. Many of these settlers preferred a natural life far from civilization and the atrocities of the Wars of Religion. The garrison lacked supplies, however, and the soldiers (as in the France Antarctique) soon ran away. The French returned two years later but settled in present-day Florida rather than South Carolina.[36]
 
 Colonization
 
-Wpdms_carolina_colony_grant.png Sixty years later, in 1629, King of England Charles I established the Province of Carolina, an area covering what is now South and North Carolina, Georgia and Tennessee. In 1663, Charles II granted the land to eight Lords Proprietors in return for their financial and political assistance in restoring him to the throne in 1660.[37] Anthony Ashley Cooper, one of the Lord Proprietors, planned the Grand Model for the Province of Carolina and wrote the Fundamental Constitutions of Carolina, which laid the basis for the future colony.[38] His utopia was inspired by John Locke, an English philosopher and physician, widely regarded as one of the most influential of Enlightenment thinkers and commonly known as the "Father of Liberalism".
+Sixty years later, in 1629, King of England Charles I established the Province of Carolina, an area covering what is now South and North Carolina, Georgia and Tennessee. In 1663, Charles II granted the land to eight Lords Proprietors in return for their financial and political assistance in restoring him to the throne in 1660.[37] Anthony Ashley Cooper, one of the Lord Proprietors, planned the Grand Model for the Province of Carolina and wrote the Fundamental Constitutions of Carolina, which laid the basis for the future colony.[38] His utopia was inspired by John Locke, an English philosopher and physician, widely regarded as one of the most influential of Enlightenment thinkers and commonly known as the "Father of Liberalism".
 
 In the 1670s, English planters from Barbados established themselves near what is now Charleston. Settlers from all over Europe built rice plantations in the South Carolina Lowcountry, east of the Atlantic Seaboard fall line. Plantation labor was done by African slaves who formed the majority of the population by 1720.[39] Another cash crop was the Indigo plant, a plant source of blue dye, developed by Eliza Lucas.
 
@@ -273,7 +271,7 @@ During the American Revolutionary War (1775–1783), about a third of combat act
 
 Antebellum
 
-Millford_Plantation_HABS_color_2.jpg (1839–41), an example of Greek Revival architecture.]]
+(1839–41), an example of Greek Revival architecture.]]
 
 America's first census in 1790 put the state's population at nearly 250,000. By the 1800 census the population had increased 38 per cent to nearly 340,000 of which 146,000 were slaves. At that time South Carolina had the largest population of Jews in the 16 United States, mostly based in Savannah and Charleston,[47] the latter being the country's fifth largest city.[48]
 
@@ -289,7 +287,7 @@ Lincoln was elected president on 6 November 1860. The state House of Representat
 
 Civil War 1861–1865
 
-Broad_Street_Charleston_South_Carolina_1865.jpg On April 12, 1861, Confederate (southern) batteries began shelling the Union (federal, northern, or US) Fort Sumter in Charleston Harbor, after US troops refusal to leave the fort peacefully, and the American Civil War began. In November of that year the Union attacked Port Royal Sound and soon occupied Beaufort County and the neighboring Sea Islands. For the rest of the war this area served as a Union base and staging point for other operations. Whites abandoned their plantations,[53] leaving behind about 10,000 slaves. Several Northern charities partnered with the federal government to help these people run the cotton farms themselves under the Port Royal Experiment. Workers were paid by the pound harvested and thus became the first former slaves freed by the Union forces to earn wages.[54]
+On April 12, 1861, Confederate (southern) batteries began shelling the Union (federal, northern, or US) Fort Sumter in Charleston Harbor, after US troops refusal to leave the fort peacefully, and the American Civil War began. In November of that year the Union attacked Port Royal Sound and soon occupied Beaufort County and the neighboring Sea Islands. For the rest of the war this area served as a Union base and staging point for other operations. Whites abandoned their plantations,[53] leaving behind about 10,000 slaves. Several Northern charities partnered with the federal government to help these people run the cotton farms themselves under the Port Royal Experiment. Workers were paid by the pound harvested and thus became the first former slaves freed by the Union forces to earn wages.[54]
 
 Although the state was not a major battleground, the war ruined the economy. Under conscription, all men aged 18–35 (later 45) were drafted for Confederate service. More than 60,000 served,[55] and the state lost nearly one-third of the white male population of fighting age.[56]
 
@@ -319,7 +317,7 @@ The state postponed such a one-drop law for years. Virginian legislators adopted
 
 20th century
 
-Some_of_the_children_who_go_to_school_half_a_day.jpg Early in the 20th century, South Carolina developed a thriving textile industry. The state also converted its agricultural base from cotton to more profitable crops; attracted large military bases through its powerful Democratic congressional delegation, part of the one-party South following disfranchisement of blacks at the turn of the century; and created tourism industries. During the early part of the 20th Century, millions of African Americans left South Carolina and other southern states for jobs, opportunities and relative freedom in U.S. cities outside the former Confederate states. In total from 1910 to 1970, 6.5 million blacks left the South in the Great Migration. By 1930 South Carolina had a white majority[67] for the first time since 1708.
+Early in the 20th century, South Carolina developed a thriving textile industry. The state also converted its agricultural base from cotton to more profitable crops; attracted large military bases through its powerful Democratic congressional delegation, part of the one-party South following disfranchisement of blacks at the turn of the century; and created tourism industries. During the early part of the 20th Century, millions of African Americans left South Carolina and other southern states for jobs, opportunities and relative freedom in U.S. cities outside the former Confederate states. In total from 1910 to 1970, 6.5 million blacks left the South in the Great Migration. By 1930 South Carolina had a white majority[67] for the first time since 1708.
 
 South Carolina was one of several states that initially rejected the Nineteenth Amendment (1920) giving women the right to vote. The South Carolina legislature later ratified the amendment on July 1, 1969.
 
@@ -363,13 +361,13 @@ South Carolina is also home to one of NASCAR's first tracks and its first paved 
 
 Economy and infrastructure
 
-Arthur_Ravenel_Bridge_(from_water).jpg from Charleston Harbor]]
+from Charleston Harbor]]
 
 According to the U.S. Bureau of Economic Analysis, South Carolina's gross state product (GSP) in current dollars was $97 billion in 1997 and $153 billion in 2007. Its per-capita real gross domestic product (GDP) in chained 2000 dollars was $26,772 in 1997 and $28,894 in 2007; that represents 85% of the $31,619 per-capita real GDP for the United States overall in 1997, and 76% of the $38,020 for the U.S. in 2007. The state debt in 2012 was calculated by one source to be $22.9bn, or $7,800 per taxpayer.[79]
 
 Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism.[80][81] According to the Bureau of Labor Statistics, as of March 2012, South Carolina had 1,852,700 nonfarm jobs of which 12% are in manufacturing, 11.5% are in leisure and hospitality, 19% are in trade, transportation, and utilities, and 11.8% are in education and health services. The service sector accounts for 83.7% of the South Carolina economy.[82]
 
-During the economic downturn in the Late 2000s Recession, South Carolina's Unemployment Rate peaked at 12.0% in November and December 2009. It is continuing a steady decline with an unemployment rate of 8.9% as of March 2012.[83] Margate_Tower_6-7-17.png
+During the economic downturn in the Late 2000s Recession, South Carolina's Unemployment Rate peaked at 12.0% in November and December 2009. It is continuing a steady decline with an unemployment rate of 8.9% as of March 2012.[83]
 
 Many large corporations have moved their locations to South Carolina. Boeing opened an aircraft manufacturing facility in Charleston in 2011, which serves as one of two final assembly sites for the 787 Dreamliner. South Carolina is a right-to-work state[84] and many businesses utilize staffing agencies to temporarily fill positions. Domtar, in Rock Hill, is the only Fortune 500 company headquartered in South Carolina.[85] The Fortune 1000 list includes SCANA, Sonoco Products and ScanSource.
 
@@ -381,7 +379,7 @@ Transportation
 
 Road
 
-I-26_(SC).svg US_76.svg South_Carolina_9.svg The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles.[88]
+The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles.[88]
 
 On secondary roads, South Carolina uses a numbering system to keep track of all non-interstate and primary highways that the South Carolina Department of Transportation maintains. Secondary roads are numbered by the number of the county followed by a unique number for the particular road.
 
@@ -455,7 +453,7 @@ South Carolina has a diverse group of institutions of higher education, from lar
 -   The College of Charleston, founded in 1770 and chartered in 1785, is the oldest institution of higher learning in South Carolina, the 13th oldest in the United States, and the first municipal college in the country. The college is in company with the Colonial Colleges as one of the original and foundational institutions of higher education in the United States. Its founders include three signers of the United States Declaration of Independence and three signers of the United States Constitution. The college's historic campus, listed on the U.S. Department of the Interior's National Register of Historic Places, forms an integral part of Charleston's colonial-era urban center. The Graduate School of the College of Charleston offers a number of degree programs and coordinates support for its nationally recognized faculty research efforts.
 -   The University of South Carolina, in Columbia, is a flagship, public, co-educational, research university with seven satellite campuses. It was founded in 1801 as South Carolina College, and its original campus, The Horseshoe, is listed on the National Register of Historic Places. The university's main campus covers over in the urban core less than one city block from the South Carolina State House. The University of South Carolina has over 32,800 students on the Columbia campus.
 
-Furman-Belltower2.jpg bell tower near Greenville]]
+bell tower near Greenville]]
 
 -   Furman University is a private, coeducational, non-sectarian, liberal arts university in Greenville. Founded in 1826, Furman enrolls approximately 2,600 undergraduate and 500 graduate students. Furman is the largest private institution in South Carolina. The university is primarily focused on undergraduate education (only two departments, education and chemistry, offer graduate degrees).
 -   Erskine College is a private, coeducational liberal arts college in Due West, South Carolina. The college was founded in 1839 and is affiliated with the Associate Reformed Presbyterian Church, which maintains a theological seminary on the campus.

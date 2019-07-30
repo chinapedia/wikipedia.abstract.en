@@ -1,1 +1,0 @@
-OBABIKONG 35B is a First Nations reserve[1] on Aulneau Island in Lake of the Woods, Ontario. It is one of the reserves of the Big Grassy First Nation.

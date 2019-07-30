@@ -1,1 +1,0 @@
-"GIRL WATCHER" is a song written by Ronald B. Killette and Wayne Pittman and performed by The O'Kaysions. It reached #5 on the _Billboard_ Hot 100 and #6 on the _Billboard_ Hot Rhythm & Blues Singles chart in 1968.[1] The song was featured on their 1968 album, _Girl Watcher_.[2]

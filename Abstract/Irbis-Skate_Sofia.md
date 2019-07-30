@@ -1,1 +1,0 @@
-IRBIS-SKATE SOFIA () is a Bulgarian ice hockey team based in Sofia and compete in the Bulgarian Hockey League. Irbis-Skate Sofia was founded in 2012 and joined the Bulgarian Hockey League for the 2015–16 season. The club won the 2015–16 season and the 2016 Bulgarian Cup and as a result qualified for the 2016–17 IIHF Continental Cup.

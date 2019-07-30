@@ -1,1 +1,0 @@
-In music theory, the term MINOR SCALE refers to three scale patterns – the natural minor scale (or Aeolian mode), the harmonic minor scale, and the melodic minor scale (ascending or descending)[1] – rather than just one as with the major scale.

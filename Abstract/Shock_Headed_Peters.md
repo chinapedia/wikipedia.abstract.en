@@ -1,1 +1,0 @@
-SHOCK HEADED PETERS were a British post-punk band, formed in 1982. The band took their name from the 19th-century German's children book _Der Struwwelpeter_ ("Shockheaded Peter") by Heinrich Hoffmann.

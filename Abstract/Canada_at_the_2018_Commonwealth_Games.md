@@ -1,1 +1,0 @@
-CANADA competed at the 2018 COMMONWEALTH GAMES in Gold Coast, Australia from April 4 to April 15, 2018.[1] It was Canada's 21st appearance at the Commonwealth Games, having competed at every Games since their inception in 1930.

@@ -1,1 +1,0 @@
-The DISTRICT SCHOOL NO. 1 is a historic one-room schoolhouse on Lake Road in Panton, Vermont. Built about 1818, the stone building is one of Vermont's oldest district schoolhouses. It was listed on the National Register of Historic Places in 1980.[1]

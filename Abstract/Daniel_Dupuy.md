@@ -1,1 +1,0 @@
-Silver_milk_pot_by_Daniel_Dupuy,_Philadelphia,_c._1774_-_National_Museum_of_American_History_-_DSC06146.JPG

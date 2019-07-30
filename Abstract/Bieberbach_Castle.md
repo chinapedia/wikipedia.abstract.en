@@ -1,1 +1,0 @@
-The _burgstall_ or site of BIEBERBACH CASTLE is a ruined mediaeval spur castle situated at a height of on a rock formation in the southern part of the parish of Bieberbach, in the market municipality of Egloffstein in the county of Forchheim in the German state of Bavaria.

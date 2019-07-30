@@ -1,1 +1,0 @@
-GamlaStan_from_Katarinahissen_Stockholm_Swe.jpg]] Apart from being a large city with an active cultural life, Stockholm, the capital of Sweden, houses many national cultural institutions. There are two UNESCO World Heritage sites in the Stockholm County area: the Royal Palace Drottningholm (within Ekerö Municipality) and the Skogskyrkogården (The Woodland Cemetery).

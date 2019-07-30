@@ -1,1 +1,0 @@
-MARY ANN WEATHERS wrote the essay "An Argument for Black Women’s Liberation as a Revolutionary Force," "one of the pioneering texts" of Black feminism.[1] In it she "challenges the black liberation movement to embrace women's liberation which she hopes would be responsive to the needs of all oppressed people."[2]

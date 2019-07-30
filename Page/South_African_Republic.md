@@ -43,7 +43,7 @@ In November 1859, the independent Republics of Lijdenburg and Utrecht merged wit
 
 Constitution and laws
 
-MW_Pretorius_statue.jpg]] The constitution of the ZAR was legally interesting for its time. It contained provisions for the division between the political leadership and office bearers in government administration. The legal system consisted of higher and lower courts and had adopted a jury system. Laws were enforced by the South African Republic Police ( or ZARP) which were divided into Mounted Police () and Foot Police.
+]] The constitution of the ZAR was legally interesting for its time. It contained provisions for the division between the political leadership and office bearers in government administration. The legal system consisted of higher and lower courts and had adopted a jury system. Laws were enforced by the South African Republic Police ( or ZARP) which were divided into Mounted Police () and Foot Police.
 
 On 10 April 1902, the Magistrates Court powers were extended to increase the civil ceiling amounts and to expand criminal jurisdiction to include all criminal cases not punishable by death or banishment. Also established were municipal government, the Witwatersrand District Court and the High Court of Transvaal.
 
@@ -55,7 +55,7 @@ President Jacobus Nicolaas Boshof had issued a death sentence over two ZAR citiz
 
 Citizenship
 
-Kruger_Coat_of_arms_of_Transvaal.jpg Citizenship of the ZAR was legislated by the constitution as well as Law No 7 of 1882, as amended on 23 June 1890. Citizenship was gained by being born in the republic or by naturalisation. The voting age was 16 years. Persons not born in the republic could become citizens by taking the prescribed oath and procuring the letters of naturalisation. The oath involved abandoning, discarding and renouncing all allegiance and subjugation towards foreign sovereignties and in particular their previous citizenship.
+Citizenship of the ZAR was legislated by the constitution as well as Law No 7 of 1882, as amended on 23 June 1890. Citizenship was gained by being born in the republic or by naturalisation. The voting age was 16 years. Persons not born in the republic could become citizens by taking the prescribed oath and procuring the letters of naturalisation. The oath involved abandoning, discarding and renouncing all allegiance and subjugation towards foreign sovereignties and in particular their previous citizenship.
 
 Foreigners had to have been residing in the Republic for a period of two years, be of good character and have been accepted as member of the Dutch Reformed or Reformed Church. On 20 September 1893 the ZAR Constitution was amended so that two thirds of the Volksraad would have to agree to changes to the citizenship law. This proclamation, No 224, also changed Law No 7 with regard to voting.
 
@@ -105,7 +105,7 @@ One of the early battles occurred at Botsabelo Mission Station on 13 July 1876, 
 
 First Boer War, 1880–1881
 
-PKruger_1898_VA0952.jpg in 1898]] On 12 April 1877, the British issued the "Annexation of the S. A. Republic to the British Empire." In it, the British stated that the country was unstable, ungovernable, bankrupt and facing civil war. The unsuccessful annexation did not suspend self-government and attempted to convert the ZAR into a colony of the British Empire.
+in 1898]] On 12 April 1877, the British issued the "Annexation of the S. A. Republic to the British Empire." In it, the British stated that the country was unstable, ungovernable, bankrupt and facing civil war. The unsuccessful annexation did not suspend self-government and attempted to convert the ZAR into a colony of the British Empire.
 
 The ZAR viewed this proclamation as an act of aggression, and resisted. Instead of declaring war, the country decided to send a delegation to United Kingdom and the United States, to protest. This did not have any effect and the First Boer War formally broke out on 20 December 1880. The First Boer War was the first conflict since the American Revolution in which the British had been decisively defeated and forced to sign a peace treaty under unfavourable terms.
 
@@ -119,7 +119,7 @@ The Malaboch War was between Chief Malaboch (Mmaleboho, Mmaleboxo) of the Bahana
 
 Second Boer War, 1899–1902
 
-Battles_of_the_nineteenth_century_(1901)_(14802189183).jpg’s followers delivering up their rifles]] The British first attacked the ZAR with the December 1895 Jameson Raid, which ended in failure. British forces started building up troops and resources at the borders, followed by a demand for voting rights for the ZAR's 60,000 foreign nationals—of whom 50,000 British. Kruger rejected the British demand and called for the withdrawal of British troops from the ZAR's borders. When the British refused, Kruger declared war against Britain, Britain received assistance from Australia,[26] Canada,[27] and New Zealand[28] as well as forces and citizens of colonies like the Colony of Natal and the Cape Colony.
+’s followers delivering up their rifles]] The British first attacked the ZAR with the December 1895 Jameson Raid, which ended in failure. British forces started building up troops and resources at the borders, followed by a demand for voting rights for the ZAR's 60,000 foreign nationals—of whom 50,000 British. Kruger rejected the British demand and called for the withdrawal of British troops from the ZAR's borders. When the British refused, Kruger declared war against Britain, Britain received assistance from Australia,[26] Canada,[27] and New Zealand[28] as well as forces and citizens of colonies like the Colony of Natal and the Cape Colony.
 
 The Second Boer War was a watershed for the British Army in particular and for the British Empire as a whole. The British used concentration camps where women and children were held without adequate food or medical care.[29] The abhorrent conditions in these camps caused the death of 4,177 women and 22,074 children under 16; death rates were between 344 and 700 per 1000 per year.[30]
 
@@ -132,7 +132,7 @@ The Maritz rebellion was an armed insurrection which occurred in South Africa in
 
 Economy and transport
 
-NZASM_line_map.svg, while lines were built from the Cape and Natal, and one to Pietersburg was built by a private British company]] The discovery of gold during the Witwatersrand Gold Rush in 1886 changed the economic fortunes of the formerly impoverished ZAR. The city of Johannesburg was founded as a gold mining town in the same year. Within 10 years it would be the largest city in the entire Southern Africa, surpassing Cape Town.
+, while lines were built from the Cape and Natal, and one to Pietersburg was built by a private British company]] The discovery of gold during the Witwatersrand Gold Rush in 1886 changed the economic fortunes of the formerly impoverished ZAR. The city of Johannesburg was founded as a gold mining town in the same year. Within 10 years it would be the largest city in the entire Southern Africa, surpassing Cape Town.
 
 The discovery of gold allowed the construction of a railway network in the ZAR. The east-west railways in the ZAR, and notably the line from Pretoria to Lourenço Marques in Portuguese East Africa, were constructed by the Netherlands-South African Railway Company. The construction of the Pretoria-Lourenço Marques line allowed the ZAR access to harbour facilities not controlled by the British Empire, a key policy of Paul Kruger who deemed it vital to the country’s long-term survival.
 

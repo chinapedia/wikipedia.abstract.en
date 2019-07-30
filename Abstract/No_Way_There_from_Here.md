@@ -1,1 +1,0 @@
-_NO WAY THERE FROM HERE_ is an album by American country musician Laura Cantrell, released on January 28, 2014 by Thrift Shop Recordings. It is her first album of original material in nine years, since _Humming by the Flowered Vine_ was released in 2005.

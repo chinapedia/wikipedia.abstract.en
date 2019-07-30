@@ -1,1 +1,0 @@
-The CHRIST THE KING CATHEDRAL[1] ()[2] Also TOLEDO CATHEDRAL It is a Catholic religious building located in the center of Toledo in the state of Paraná[3] in the South American country of Brazil. It is the headquarters of the Diocese of Toledo in Brazil (_Dioecesis Toletanus in Brasilia_).

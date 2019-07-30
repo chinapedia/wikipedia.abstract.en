@@ -1,1 +1,0 @@
-NICOLETTE ELLA FRAILLON (born 29 July 1960) is an Australian conductor, who has been Chief Conductor of The Australian Ballet since 2003. She is the world's only woman music director of a ballet company.

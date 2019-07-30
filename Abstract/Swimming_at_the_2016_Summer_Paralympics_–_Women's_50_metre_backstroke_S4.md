@@ -1,1 +1,0 @@
-The WOMEN'S 50 METRE BACKSTROKE S4 event at the 2016 Paralympic Games took place on 16 September 2016, at the Olympic Aquatics Stadium. Two heats were held. The swimmers with the eight fastest times advanced to the final.

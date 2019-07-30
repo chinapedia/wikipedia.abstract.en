@@ -1,1 +1,0 @@
-SAINTE-LIVRADE XIII are a French Rugby league club based in Sainte-Livrade in the region of Lot-et-Garonne in southern France. The club was founded in 1939. They currently play in the National Division 2 Aquitaine regional league.

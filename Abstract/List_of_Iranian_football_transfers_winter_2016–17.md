@@ -1,1 +1,0 @@
-This is a list of IRANIAN FOOTBALL TRANSFERS FOR THE 2016–17 WINTER TRANSFER WINDOW. Transfers of Iran Pro League is listed. Transfer window will open on 5 January 2017 and close on 2 February 2017.[1]

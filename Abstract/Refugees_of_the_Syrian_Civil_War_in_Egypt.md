@@ -1,1 +1,0 @@
-Egypt, which does not border Syria, became a major destination FOR SYRIAN REFUGEES since 2012 following the election of Egyptian President Mohamed Morsi, who was a critic of Bashar al-Assad in the Syrian Civil War. As of 2016, there are 114,911 registered Syrian refugees living in Egypt.[1]

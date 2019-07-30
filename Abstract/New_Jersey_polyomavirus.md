@@ -1,1 +1,0 @@
-NEW JERSEY POLYOMAVIRUS (NJPYV, also known as HUMAN POLYOMAVIRUS 13) is a virus of the polyomavirus family that infects human hosts. It was first identified in 2014 in a pancreatic transplant patient in New Jersey. It is the 13th and most recent human polyomavirus to be described.[1]

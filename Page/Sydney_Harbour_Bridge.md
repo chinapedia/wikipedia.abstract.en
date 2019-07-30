@@ -1,4 +1,4 @@
-Sydney_Harbour_Bridge_from_the_air.JPG The SYDNEY HARBOUR BRIDGE is a heritage-listed steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney central business district (CBD) and the North Shore. The dramatic view of the bridge, the harbour, and the nearby Sydney Opera House is an iconic image of Sydney, and Australia itself. The bridge is nicknamed "The Coathanger" because of its arch-based design.[1][2]
+The SYDNEY HARBOUR BRIDGE is a heritage-listed steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney central business district (CBD) and the North Shore. The dramatic view of the bridge, the harbour, and the nearby Sydney Opera House is an iconic image of Sydney, and Australia itself. The bridge is nicknamed "The Coathanger" because of its arch-based design.[1][2]
 
 Under the direction of Dr John Bradfield of the NSW Department of Public Works, the bridge was designed and built by British firm Dorman Long and Co Ltd of Middlesbrough and opened in 1932.[3][4] The bridge's design was influenced by the Hell Gate Bridge in New York City.[5] It is the sixth longest spanning-arch bridge in the world and the tallest steel arch bridge, measuring from top to water level.[6] It was also the world's widest long-span bridge, at wide, until construction of the new Port Mann Bridge in Vancouver was completed in 2012.[7][8]
 
@@ -9,11 +9,11 @@ Structure
 
 The southern end of the bridge is located at Dawes Point in The Rocks area, and the northern end at Milsons Point in the lower North Shore area. There are six original lanes of road traffic through the main roadway, plus an additional two lanes of road traffic on its eastern side, using lanes that were formerly tram tracks. Adjacent to the road traffic, a path for pedestrian use runs along the eastern side of the bridge, whilst a dedicated path for bicycle use only runs along the western side; between the main roadway and the western bicycle path are two lanes used for railway tracks, servicing the T1 North Shore Line for Sydney Trains.
 
-A_close_view_of_Sydney_Harbour_Bridge_at_night.jpg The main roadway across the bridge is known as the Bradfield Highway and is about long, making it one of the shortest highways in Australia.[11]
+The main roadway across the bridge is known as the Bradfield Highway and is about long, making it one of the shortest highways in Australia.[11]
 
 Arch
 
-SydneyHarbourBridgeNutMilsonsPoint.JPG Sydney_Harbour_Bridge_SE_Pylon,_jjron,_02.12.2010.jpg quarried at Moruya, NSW]] The arch is composed of two 28-panel arch trusses; their heights vary from at the centre of the arch to at the ends next to the pylons.[12]
+quarried at Moruya, NSW]] The arch is composed of two 28-panel arch trusses; their heights vary from at the centre of the arch to at the ends next to the pylons.[12]
 
 The arch has a span of and its summit is above mean sea level; expansion of the steel structure on hot days can increase the height of the arch by .[13]
 
@@ -38,15 +38,13 @@ History
 
 Early proposals
 
-Sydney_Harbour_Bridge_designs_submitted,_1900.gif
-
 There had been plans to build a bridge as early as 1815, when convict and noted architect Francis Greenway reputedly proposed to Governor Lachlan Macquarie that a bridge be built from the northern to the southern shore of the harbour.[38][39] In 1825, Greenway wrote a letter to the then "The Australian" newspaper stating that such a bridge would "give an idea of strength and magnificence that would reflect credit and glory on the colony and the Mother Country".[40]
 
 Nothing came of Greenway's suggestions, but the idea remained alive, and many further suggestions were made during the nineteenth century. In 1840, naval architect Robert Brindley proposed that a floating bridge be built. Engineer Peter Henderson produced one of the earliest known drawings of a bridge across the harbour around 1857. A suggestion for a truss bridge was made in 1879, and in 1880 a high-level bridge estimated at $850,000 was proposed.[41]
 
 In 1900, the Lyne government committed to building a new Central railway station and organised a worldwide competition for the design and construction of a harbour bridge. Local engineer Norman Selfe submitted a design for a suspension bridge and won the second prize of £500. In 1902, when the outcome of the first competition became mired in controversy, Selfe won a second competition outright, with a design for a steel cantilever bridge. The selection board were unanimous, commenting that, "The structural lines are correct and in true proportion, and... the outline is graceful".[42] However due to an economic downturn and a change of government at the 1904 NSW State election construction never began.
 
-Ernest_Stowe_Proposed_Sydney_Harbour_Bridge.jpg A unique three-span bridge was proposed in 1922 by Ernest Stowe with connections at Balls Head, Millers Point, and Balmain with a memorial tower and hub on Goat Island.[43][44]
+A unique three-span bridge was proposed in 1922 by Ernest Stowe with connections at Balls Head, Millers Point, and Balmain with a memorial tower and hub on Goat Island.[43][44]
 
 Planning
 
@@ -54,7 +52,7 @@ In 1914 John Bradfield was appointed "Chief Engineer of Sydney Harbour Bridge an
 
 Following World War I, plans to build the bridge again built momentum.[47] Bradfield persevered with the project, fleshing out the details of the specifications and financing for his cantilever bridge proposal, and in 1921 he travelled overseas to investigate tenders. On return from his travels Bradfield decided that an arch design would also be suitable[48] and he and officers of the NSW Department of Public Works prepared a general design[49][50] for a single-arch bridge based upon New York City's Hell Gate Bridge.[51][52] In 1922 the government passed the Sydney Harbour Bridge Act No. 28, specifying the construction of a high-level cantilever or arch bridge across the harbour between Dawes Point and Milsons Point, along with construction of necessary approaches and electric railway lines,[53] and worldwide tenders were invited for the project.[54]
 
-Norman_Selfe_proposal_for_Sydney_Harbour_Bridge.jpg's winning design at the second competition c.1903]] Hell_Gate_Bridge_cricket.jpg in New York City inspired the final design of Sydney Harbour Bridge.]] As a result of the tendering process, the government received twenty proposals from six companies; on 24 March 1924 the contract was awarded to British firm Dorman Long and Co Ltd, of Middlesbrough well known as the contractors who later built the similar Tyne Bridge of Newcastle Upon Tyne, for an arch bridge at a quoted price of AU£4,217,721 11s 10d.[55][56] The arch design was cheaper than alternative cantilever and suspension bridge proposals, and also provided greater rigidity making it better suited for the heavy loads expected.[57]
+'s winning design at the second competition c.1903]] in New York City inspired the final design of Sydney Harbour Bridge.]] As a result of the tendering process, the government received twenty proposals from six companies; on 24 March 1924 the contract was awarded to British firm Dorman Long and Co Ltd, of Middlesbrough well known as the contractors who later built the similar Tyne Bridge of Newcastle Upon Tyne, for an arch bridge at a quoted price of AU£4,217,721 11s 10d.[55][56] The arch design was cheaper than alternative cantilever and suspension bridge proposals, and also provided greater rigidity making it better suited for the heavy loads expected.[57]
 
 Bradfield and his staff were ultimately to oversee the entire bridge design and building process, while Dorman Long and Co's Consulting Engineer, Sir Ralph Freeman of Sir Douglas Fox and Partners, and his associate Mr. G.C. Imbault, carried out the detailed design and erection process of the bridge.[58] Architects for the contractors were from the British firm John Burnet & Partners of Glasgow, Scotland.[59]
 
@@ -62,7 +60,7 @@ The building of the bridge coincided with the construction of a system of underg
 
 Construction
 
-Aerial_view_of_Sydney_Harbour_-_the_bridge_is_under_construction.jpg Early_costruction,_Sydney_harbour_bridge.jpg]] Aerial_view_of_Sydney_and_Circular_Quay_on_the_day_of_the_official_opening_of_the_Sydney_Harbour_Bridge,_19_March,_1932_(6174053762).jpg HMAS_Canberra_sailing_into_Sydney_Harbour_in_1930.jpg
+]]
 
 The building of the bridge occurred under the oversight and at the direction of Bradfield, whose general design and specifications in the bridge's tender document were sufficiently broad as to allow for suspension and cantilever designs in several of the responses.
 
@@ -80,7 +78,7 @@ Once work had progressed sufficiently on the support structures, a giant "creepe
 
 Arch construction itself began on 26 October 1928. The southern end of the bridge was worked on ahead of the northern end, to detect any errors and to help with alignment. The cranes would "creep" along the arches as they were constructed, eventually meeting up in the middle. In less than two years, on Tuesday, 19 August 1930, the two halves of the arch touched for the first time. Workers riveted both top and bottom sections of the arch together, and the arch became self-supporting, allowing the support cables to be removed. On 20 August 1930 the joining of the arches was celebrated by flying the flags of Australia and the United Kingdom from the jibs of the creeper cranes.[66]
 
-The_bridge_in_curve_1926.jpg's painting of the arch under construction.]] JJC_Bradfield_Sydney_Harbour_Bridge_1932.jpg riding the first test train across the bridge on 19 January 1932]] Once the arch was completed, the creeper cranes were then worked back down the arches, allowing the roadway and other parts of the bridge to be constructed from the centre out. The vertical hangers were attached to the arch, and these were then joined with horizontal crossbeams. The deck for the roadway and railway were built on top of the crossbeams, with the deck itself being completed by June 1931, and the creeper cranes were dismantled. Rails for trains and trams were laid, and road was surfaced using concrete topped with asphalt.[67] Power and telephone lines, and water, gas, and drainage pipes were also all added to the bridge in 1931.
+'s painting of the arch under construction.]] riding the first test train across the bridge on 19 January 1932]] Once the arch was completed, the creeper cranes were then worked back down the arches, allowing the roadway and other parts of the bridge to be constructed from the centre out. The vertical hangers were attached to the arch, and these were then joined with horizontal crossbeams. The deck for the roadway and railway were built on top of the crossbeams, with the deck itself being completed by June 1931, and the creeper cranes were dismantled. Rails for trains and trams were laid, and road was surfaced using concrete topped with asphalt.[67] Power and telephone lines, and water, gas, and drainage pipes were also all added to the bridge in 1931.
 
 The pylons were built atop the abutment towers, with construction advancing rapidly from July 1931. Carpenters built wooden scaffolding, with concreters and masons then setting the masonry and pouring the concrete behind it. Gangers built the steelwork in the towers, while day labourers manually cleaned the granite with wire brushes. The last stone of the north-west pylon was set in place on 15 January 1932, and the timber towers used to support the cranes were removed.[68][69]
 
@@ -96,7 +94,7 @@ Opening
 
 The bridge was formally opened on Saturday, 19 March 1932.[78] Among those who attended and gave speeches were the Governor of New South Wales, Sir Philip Game, and the Minister for Public Works, Lawrence Ennis. The Premier of New South Wales, Jack Lang, was to open the bridge by cutting a ribbon at its southern end.
 
-De_Groot_cutting_the_ribbon.jpg declares the bridge open]] However, just as Lang was about to cut the ribbon, a man in military uniform rode up on a horse, slashing the ribbon with his sword and opening the Sydney Harbour Bridge in the name of the people of New South Wales before the official ceremony began. He was promptly arrested.[79] The ribbon was hurriedly retied and Lang performed the official opening ceremony and Game thereafter inaugurated the name of the bridge as 'Sydney Harbour Bridge' and the associated roadway as the 'Bradfield Highway'. After they did so, there was a 21-gun salute and an RAAF flypast. The intruder was identified as Francis de Groot. He was convicted of offensive behaviour and fined £5 after a psychiatric test proved he was sane, but this verdict was reversed on appeal. De Groot then successfully sued the Commissioner of Police for wrongful arrest, and was awarded an undisclosed out of court settlement. De Groot was a member of a right-wing paramilitary group called the New Guard, opposed to Lang's leftist policies and resentful of the fact that a member of the Royal Family had not been asked to open the bridge.[80] De Groot was not a member of the regular army but his uniform allowed him to blend in with the real cavalry. This incident was one of several involving Lang and the New Guard during that year.
+declares the bridge open]] However, just as Lang was about to cut the ribbon, a man in military uniform rode up on a horse, slashing the ribbon with his sword and opening the Sydney Harbour Bridge in the name of the people of New South Wales before the official ceremony began. He was promptly arrested.[79] The ribbon was hurriedly retied and Lang performed the official opening ceremony and Game thereafter inaugurated the name of the bridge as 'Sydney Harbour Bridge' and the associated roadway as the 'Bradfield Highway'. After they did so, there was a 21-gun salute and an RAAF flypast. The intruder was identified as Francis de Groot. He was convicted of offensive behaviour and fined £5 after a psychiatric test proved he was sane, but this verdict was reversed on appeal. De Groot then successfully sued the Commissioner of Police for wrongful arrest, and was awarded an undisclosed out of court settlement. De Groot was a member of a right-wing paramilitary group called the New Guard, opposed to Lang's leftist policies and resentful of the fact that a member of the Royal Family had not been asked to open the bridge.[80] De Groot was not a member of the regular army but his uniform allowed him to blend in with the real cavalry. This incident was one of several involving Lang and the New Guard during that year.
 
 A similar ribbon-cutting ceremony on the bridge's northern side by North Sydney's mayor, Alderman Primrose, was carried out without incident. It was later discovered that Primrose was also a New Guard member but his role in and knowledge of the de Groot incident, if any, are unclear. The pair of golden scissors used in the ribbon cutting ceremonies on both sides of the bridge was also used to cut the ribbon at the dedication of the Bayonne Bridge, which had opened between Bayonne, New Jersey, and New York City the year before.[81][82]
 
@@ -113,7 +111,7 @@ In 2010, the average daily traffic included 204 trains, 160,435 vehicles and 165
 
 Road
 
-Cahill_expressway_from_bridge.jpg), two railway tracks, and cycleway. The gantries with lights controlling traffic tidal flow are clearly visible, while the tollbooths can be seen near the bases of the high-rise buildings]] From the Sydney CBD side, motor vehicle access to the bridge is normally via Grosvenor Street, Clarence Street, Kent Street, the Cahill Expressway, or the Western Distributor. Drivers on the northern side will find themselves on the Warringah Freeway, though it is easy to turn off the freeway to drive westwards into North Sydney or eastwards to Neutral Bay and beyond upon arrival on the northern side.
+), two railway tracks, and cycleway. The gantries with lights controlling traffic tidal flow are clearly visible, while the tollbooths can be seen near the bases of the high-rise buildings]] From the Sydney CBD side, motor vehicle access to the bridge is normally via Grosvenor Street, Clarence Street, Kent Street, the Cahill Expressway, or the Western Distributor. Drivers on the northern side will find themselves on the Warringah Freeway, though it is easy to turn off the freeway to drive westwards into North Sydney or eastwards to Neutral Bay and beyond upon arrival on the northern side.
 
 The bridge originally only had four wider traffic lanes occupying the central space which now has six, as photos taken soon after the opening clearly show. In 1958 tram services across the bridge were withdrawn and the tracks replaced by two extra road lanes; these lanes are now the leftmost southbound lanes on the bridge and are still clearly distinguishable from the other six road lanes. Lanes 7 and 8 now connect the bridge to the elevated Cahill Expressway that carries traffic to the Eastern Distributor.
 
@@ -133,7 +131,7 @@ It is possible to see odd arrangements of flow during night periods when mainten
 
 Tolls
 
-Sydney_Harbour_Bridge_toll_gates,_1933.jpg]]
+]]
 
 The vehicular traffic lanes on the bridge are operated as a toll road. As of 27 January 2009 there is a variable tolling system for all vehicles headed into the CBD (southbound). The toll paid is dependent on the time of day in which the vehicle passes through the toll plaza. The toll varies from a minimum value of $2.50 to a maximum value of $4.[93] There is no toll for northbound traffic (though taxis travelling north may charge passengers the toll in anticipation of the toll the taxi must pay on the return journey). In 2017, the Bradfield Highway northern toll plaza infrastructure was removed and replaced with new overhead gantries to service all southbound traffic.[94] And following on from this upgrade, in 2018 all southern toll plaza infrastructure was also removed.[95] Only the Cahill Expressway toll plaza infrastructure remains. The toll was originally placed on travel across the bridge, in both directions, to recoup the cost of its construction. This cost was recovered in the 1980s, but the toll has been kept (indeed increased) by the state government's Roads and Traffic Authority to recoup the costs of the Sydney Harbour Tunnel.
 
@@ -145,7 +143,7 @@ In July 2008 a new electronic tolling system called e-TAG was introduced. The Sy
 
 Pedestrians
 
-Sydney_Harbour_Bridge_cyclist.jpgs were added to prevent people from committing suicide by jumping from the bridge.]] The pedestrian-only footway is located on the east side of the bridge. Access from the northern side involves climbing an easily spotted flight of stairs, located on the east side of the bridge at Broughton St, Kirribilli. Pedestrian access on the southern side is more complicated, but signposts in the Rocks area now direct pedestrians to the long and sheltered flight of stairs that leads to the bridge's southern end. These stairs are located near Gloucester Street and Cumberland Street.
+s were added to prevent people from committing suicide by jumping from the bridge.]] The pedestrian-only footway is located on the east side of the bridge. Access from the northern side involves climbing an easily spotted flight of stairs, located on the east side of the bridge at Broughton St, Kirribilli. Pedestrian access on the southern side is more complicated, but signposts in the Rocks area now direct pedestrians to the long and sheltered flight of stairs that leads to the bridge's southern end. These stairs are located near Gloucester Street and Cumberland Street.
 
 The bridge can also be approached from the south by accessing Cahill Walk, which runs along the Cahill Expressway. Pedestrians can access this walkway from the east end of Circular Quay by a flight of stairs or a lift. Alternatively it can be accessed from the Botanic Gardens.[99]
 
@@ -155,26 +153,26 @@ The bike-only cycleway is located on the western side of the bridge. Access from
 
 Rail
 
-First_passenger_train_over_Sydney_Harbour_Brisge.jpg 09_-_Milsons_Point_Station_(6433345329).jpg The bridge lies between Milsons Point and Wynyard railway stations, located on the north and south shores respectively, with two tracks running along the western side of the bridge. These tracks are part of the North Shore railway line.
+The bridge lies between Milsons Point and Wynyard railway stations, located on the north and south shores respectively, with two tracks running along the western side of the bridge. These tracks are part of the North Shore railway line.
 
 In 1958 tram services across the bridge were withdrawn and the tracks they had used were removed and replaced by two extra road lanes; these lanes are now the leftmost southbound lanes on the bridge and are still clearly distinguishable from the other six road lanes. The original ramp that took the trams into their terminus at the underground Wynyard railway station is still visible at the southern end of the main walkway under lanes 7 and 8, although around 1964, the former tram tunnels and station were converted for use as a carpark for the Menzies Hotel and as public parking. One of the tunnels was converted for use as a storage facility after reportedly being used by the NSW police as a pistol firing range.[106]
 
 Maintenance
 
-Sydney_Harbour_Bridge_DSC01595.JPG The Sydney Harbour Bridge requires constant inspections and other maintenance work to keep it safe for the public, and to protect from corrosion. Among the trades employed on the bridge are painters, ironworkers, boilermakers, fitters, electricians, plasterers, carpenters, plumbers, and riggers.[107]
+The Sydney Harbour Bridge requires constant inspections and other maintenance work to keep it safe for the public, and to protect from corrosion. Among the trades employed on the bridge are painters, ironworkers, boilermakers, fitters, electricians, plasterers, carpenters, plumbers, and riggers.[107]
 
 The most noticeable maintenance work on the bridge involves painting. The steelwork of the bridge that needs to be painted is a combined , the equivalent of sixty football fields. Each coat on the bridge requires some of paint.[108] A special fast-drying paint is used, so that any paint drops have dried before reaching the vehicles or bridge surface.[109] One notable identity from previous bridge-painting crews is Australian comedian and actor Paul Hogan, who worked as a bridge painter before rising to media fame in the 1970s.[110]
 
 In 2003 the Roads & Traffic Authority began completely repainting the southern approach spans of the bridge. This involved removing the old lead-based paint, and repainting the of steel below the deck. Workers operated from self-contained platforms below the deck, with each platform having an air extraction system to filter airborne particles. An abrasive blasting was used, with the lead waste collected and safely removed from the site for disposal.[111]
 
-SydneyHarbourBridgeHangers.jpg Between December 2006 and March 2010 the bridge was subject to works designed to ensure its longevity. The work included some strengthening.[112]
+Between December 2006 and March 2010 the bridge was subject to works designed to ensure its longevity. The work included some strengthening.[112]
 
 Since 2013, two grit-blasting robots specially developed with the University of Technology, Sydney have been employed to help with the paint stripping operation on the bridge.[113] The robots, nicknamed Rosie and Sandy,[114] are intended to reduce workers' potential exposure to dangerous lead paint and asbestos and the blasting equipment which has enough force to cut through clothes and skin.[115]
 
 
 Tourism
 
-Historic_Tourist_Signs_for_Sydney_Harbour_Bridge,_jjron,_02.12.2010.jpgs for the pylon lookout, from Rentoul's 'All Australian Exhibition', 1948 – 1971]] Bridgeclimbparticipants.jpg BridgeClimb_on_Sydney_Harbour_Bridge,_jjron,_02.12.2010.jpg
+s for the pylon lookout, from Rentoul's 'All Australian Exhibition', 1948 – 1971]]
 
 South-east pylon
 
@@ -207,7 +205,7 @@ Since the opening, the bridge has been the focal point of much tourism and natio
 
 50th Anniversary celebrations (1982)
 
-In 1982 the bridge celebrated the 50th anniversary of its opening. For the first time since its opening in 1932, the bridge was closed to most vehicles with the exception of vintage vehicles, and pedestrians were allowed full access for the day.[132] The celebrations were attended by Edward Judge, who represented Dorman Long. [133] Australia-Stamp-1932-SydneyHarbourBridge.jpg
+In 1982 the bridge celebrated the 50th anniversary of its opening. For the first time since its opening in 1932, the bridge was closed to most vehicles with the exception of vintage vehicles, and pedestrians were allowed full access for the day.[132] The celebrations were attended by Edward Judge, who represented Dorman Long. [133]
 
 Bicentennial Australia Day celebrations (1988)
 
@@ -219,7 +217,7 @@ The Harbour Bridge is an integral part of the Sydney New Year's Eve celebrations
 
 During the millennium celebrations in 2000, the Sydney Harbour Bridge was lit up with the word "Eternity", as a tribute to the legacy of Arthur Stace a Sydney artist who for many years inscribed that word on pavements in chalk in beautiful copperplate writing despite the fact that he was illiterate.
 
-The effects have been as follows: Sydney_new_years_2008-9.JPG
+The effects have been as follows:
 
 -   NYE1997: Smiley face
 -   NYE1999: The word "Eternity" in copperplate writing[134]
@@ -256,7 +254,7 @@ In 2005 Mark Webber drove a Williams-BMW Formula One car across the bridge.[138]
 
 75th anniversary (2007)
 
-SHB75.jpg Shb75thhats.jpg In 2007, the 75th anniversary of its opening was commemorated with an exhibition at the Museum of Sydney, called "Bridging Sydney".[139] An initiative of the Historic Houses Trust, the exhibition featured dramatic photographs and paintings with rare and previously unseen alternative bridge and tunnel proposals, plans and sketches.
+In 2007, the 75th anniversary of its opening was commemorated with an exhibition at the Museum of Sydney, called "Bridging Sydney".[139] An initiative of the Historic Houses Trust, the exhibition featured dramatic photographs and paintings with rare and previously unseen alternative bridge and tunnel proposals, plans and sketches.
 
 On 18 March 2007, the Sydney Harbour Bridge celebrated its 75th anniversary. The occasion was marked with a ribbon-cutting ceremony by the governor, Marie Bashir and the premier of New South Wales, Morris Iemma. The bridge was subsequently open to the public to walk southward from Milsons Point or North Sydney. Several major roads, mainly in the CBD, were closed for the day. An Aboriginal smoking ceremony was held at 19:00.
 
@@ -272,8 +270,6 @@ On 19 March 2012 the 80th anniversary of the Sydney Harbour Bridge was celebrate
 
 
 Quotations
-
-ASCE_1988_plaque_Sydney_Harbour_Bridge.jpg
 
 
 Heritage listing

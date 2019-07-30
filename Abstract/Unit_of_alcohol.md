@@ -1,1 +1,0 @@
-Red_Wine_Glass.jpg

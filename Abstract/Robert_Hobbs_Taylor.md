@@ -1,1 +1,0 @@
-ROBERT HOBBS TAYLOR (December 20, 1893 – March 17, 1947) was a physician, surgeon and politician in Ontario, Canada. He represented Huron in the Legislative Assembly of Ontario from 1943 to 1947 as a Progressive Conservative.[1][2][3]

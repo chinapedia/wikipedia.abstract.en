@@ -1,1 +1,0 @@
-GHOREISHI (, adjective form of "Quraysh") – also occurring in the transliteration variants GHORASHI, QORAYSHI or QURAISHI – is an Iranian language surname.[1][2][3] It is the romanization from the Persian language of the Muslim family name Qureshi () and may refer to:

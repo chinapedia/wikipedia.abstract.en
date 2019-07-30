@@ -7,7 +7,7 @@ Characteristics
 
 Physical
 
-Tin-2.jpg of solidified molten tin]] Tin is a soft, malleable, ductile and highly crystalline silvery-white metal. When a bar of tin is bent, a crackling sound known as the "tin cry" can be heard from the twinning of the crystals.[2] Tin melts at low temperatures of about , the lowest in group 14. The melting point is further lowered to for 11 nm particles.[3][4]
+of solidified molten tin]] Tin is a soft, malleable, ductile and highly crystalline silvery-white metal. When a bar of tin is bent, a crackling sound known as the "tin cry" can be heard from the twinning of the crystals.[2] Tin melts at low temperatures of about , the lowest in group 14. The melting point is further lowered to for 11 nm particles.[3][4]
 
 β-tin (the metallic form, or white tin, BCT structure), which is stable at and above room temperature, is malleable. In contrast, α-tin (nonmetallic form, or gray tin), which is stable below , is brittle. α-tin has a diamond cubic crystal structure, similar to diamond, silicon or germanium. α-tin has no metallic properties at all because its atoms form a covalent structure in which electrons cannot move freely. It is a dull-gray powdery material with no common uses other than a few specialized semiconductor applications.[5] These two allotropes, α-tin and β-tin, are more commonly known as _gray tin_ and _white tin_, respectively. Two more allotropes, γ and σ, exist at temperatures above   and pressures above several GPa.[6] In cold conditions, β-tin tends to transform spontaneously into α-tin, a phenomenon known as "tin pest" or "tin disease". (Tin pest was a particular problem in northern Europe in the 18th century as organ pipes made of tin alloy would sometimes be affected during long cold winters. There are anecdotal claims that tin pest destroyed some of Captain Scott's stores in the ill-fated expedition (see tin pest). Some unverifiable sources also say that, during Napoleon's Russian campaign of 1812, the temperatures became so cold that the tin buttons on the soldiers' uniforms disintegrated over time, contributing to the defeat of the Grande Armée,[7] a persistent legend that probably has no background in real events.[8]) Although the α-β transformation temperature is nominally , impurities (e.g. Al, Zn, etc.) lower the transition temperature well below and, on the addition of antimony or bismuth, the transformation might not occur at all, increasing the durability of the tin.[9]
 
@@ -39,7 +39,7 @@ The __ speculates on the contrary that __ is derived from (the ancestor of) Corn
 
 History
 
-Sword_bronze_age_(2nd_version).jpg of the Plougrescant-Ommerschans type, Plougrescant, France, 1500–1300 BC.]] Tin extraction and use can be dated to the beginnings of the Bronze Age around 3000 BC, when it was observed that copper objects formed of polymetallic ores with different metal contents had different physical properties.[28] The earliest bronze objects had a tin or arsenic content of less than 2% and are therefore believed to be the result of unintentional alloying due to trace metal content in the copper ore.[29] The addition of a second metal to copper increases its hardness, lowers the melting temperature, and improves the casting process by producing a more fluid melt that cools to a denser, less spongy metal.[30] This was an important innovation that allowed for the much more complex shapes cast in closed molds of the Bronze Age. Arsenical bronze objects appear first in the Near East where arsenic is commonly found in association with copper ore, but the health risks were quickly realized and the quest for sources of the much less hazardous tin ores began early in the Bronze Age.[31] This created the demand for rare tin metal and formed a trade network that linked the distant sources of tin to the markets of Bronze Age cultures.
+of the Plougrescant-Ommerschans type, Plougrescant, France, 1500–1300 BC.]] Tin extraction and use can be dated to the beginnings of the Bronze Age around 3000 BC, when it was observed that copper objects formed of polymetallic ores with different metal contents had different physical properties.[28] The earliest bronze objects had a tin or arsenic content of less than 2% and are therefore believed to be the result of unintentional alloying due to trace metal content in the copper ore.[29] The addition of a second metal to copper increases its hardness, lowers the melting temperature, and improves the casting process by producing a more fluid melt that cools to a denser, less spongy metal.[30] This was an important innovation that allowed for the much more complex shapes cast in closed molds of the Bronze Age. Arsenical bronze objects appear first in the Near East where arsenic is commonly found in association with copper ore, but the health risks were quickly realized and the quest for sources of the much less hazardous tin ores began early in the Bronze Age.[31] This created the demand for rare tin metal and formed a trade network that linked the distant sources of tin to the markets of Bronze Age cultures.
 
 Cassiterite (SnO₂), the tin oxide form of tin, was most likely the original source of tin in ancient times. Other forms of tin ores are less abundant sulfides such as stannite that require a more involved smelting process. Cassiterite often accumulates in alluvial channels as placer deposits because it is harder, heavier, and more chemically resistant than the accompanying granite.[32] Cassiterite is usually black or generally dark in color, and these deposits can be easily seen in river banks. Alluvial (placer) deposits could be easily collected and separated by methods similar to gold panning.
 
@@ -58,7 +58,7 @@ Tin(II) chloride (also known as stannous chloride) is the most important tin hal
 
 Tin can form many oxides, sulfides, and other chalcogenide derivatives. The dioxide SnO₂ (cassiterite) forms when tin is heated in the presence of air.[35] SnO₂ is amphoteric, which means that it dissolves in both acidic and basic solutions.[36] Stannates with the structure [Sn(OH)₆]^(2−), like K₂[Sn(OH)₆], are also known, though the free stannic acid H₂[Sn(OH)₆] is unknown.
 
-Sulfides of tin exist in both the +2 and +4 oxidation states: tin(II) sulfide and tin(IV) sulfide (mosaic gold). Tin(II)-chloride-xtal-1996-3D-balls-front.pngs of the structure of solid stannous chloride (SnCl₂).[37]]]
+Sulfides of tin exist in both the +2 and +4 oxidation states: tin(II) sulfide and tin(IV) sulfide (mosaic gold). s of the structure of solid stannous chloride (SnCl₂).[37]]]
 
 Hydrides
 
@@ -81,7 +81,7 @@ Divalent organotin compounds are uncommon, although more common than related div
 
 Occurrence
 
-cassiterite09.jpg of tin.]] TinOreUSGOV.jpg]]
+of tin.]] ]]
 
 Tin is generated via the long _s_-process in low-to-medium mass stars (with masses of 0.6 to 10 times that of Sun), and finally by beta decay of the heavy isotopes of indium.[45]
 
@@ -147,8 +147,6 @@ Mining and smelting
 
 Industry
 
-Candlestick_made_of_Tin_by_Royal_Selangor.JPG
-
 The ten largest companies produced most of the world's tin in 2007.
 
 Most of the world's tin is traded on the London Metal Exchange (LME), from 8 countries, under 17 brands.[62]
@@ -185,7 +183,7 @@ An International Tin Council was established in 1947 to control the price of tin
 
 Price and exchanges
 
-SnPrice.png Tin is unique among other mineral commodities because of the complex agreements between producer countries and consumer countries dating back to 1921. The earlier agreements tended to be somewhat informal and sporadic and led to the "First International Tin Agreement" in 1956, the first of a continuously numbered series that effectively collapsed in 1985. Through this series of agreements, the International Tin Council (ITC) had a considerable effect on tin prices. The ITC supported the price of tin during periods of low prices by buying tin for its buffer stockpile and was able to restrain the price during periods of high prices by selling tin from the stockpile. This was an anti-free-market approach, designed to assure a sufficient flow of tin to consumer countries and a profit for producer countries. However, the buffer stockpile was not sufficiently large, and during most of those 29 years tin prices rose, sometimes sharply, especially from 1973 through 1980 when rampant inflation plagued many world economies.[66]
+Tin is unique among other mineral commodities because of the complex agreements between producer countries and consumer countries dating back to 1921. The earlier agreements tended to be somewhat informal and sporadic and led to the "First International Tin Agreement" in 1956, the first of a continuously numbered series that effectively collapsed in 1985. Through this series of agreements, the International Tin Council (ITC) had a considerable effect on tin prices. The ITC supported the price of tin during periods of low prices by buying tin for its buffer stockpile and was able to restrain the price during periods of high prices by selling tin from the stockpile. This was an anti-free-market approach, designed to assure a sufficient flow of tin to consumer countries and a profit for producer countries. However, the buffer stockpile was not sufficiently large, and during most of those 29 years tin prices rose, sometimes sharply, especially from 1973 through 1980 when rampant inflation plagued many world economies.[66]
 
 During the late 1970s and early 1980s, the U.S. Government tin stockpile was in an aggressive selling mode, partly to take advantage of the historically high tin prices. The sharp recession of 1981–82 proved to be quite harsh on the tin industry. Tin consumption declined dramatically. The ITC was able to avoid truly steep declines through accelerated buying for its buffer stockpile; this activity required the ITC to borrow extensively from banks and metal trading firms to augment its resources. The ITC continued to borrow until late 1985 when it reached its credit limit. Immediately, a major "tin crisis" followed — tin was delisted from trading on the London Metal Exchange for about three years, the ITC dissolved soon afterward, and the price of tin, now in a free-market environment, plummeted sharply to $4 per pound and remained at that level through the 1990s.[67] The price increased again by 2010 with a rebound in consumption following the 2008–09 world economic crisis, accompanying restocking and continued growth in consumption by the world's developing economies.[68]
 
@@ -202,11 +200,11 @@ The price per kg over years:
 
 Applications
 
-tinConsChart.jpg In 2006, about half of all tin produced was used in solder. The rest was divided between tin plating, tin chemicals, brass and bronze alloys, and niche uses.[72]
+In 2006, about half of all tin produced was used in solder. The rest was divided between tin plating, tin chemicals, brass and bronze alloys, and niche uses.[72]
 
 Solder
 
-Ex_Lead_freesolder.jpg wire]] Tin has long been used in alloys with lead as solder, in amounts 5 to 70% w/w. Tin with lead forms a eutectic mixture at the weight proportion of 61.9% tin and 38.1% lead (the atomic proportion: 73.9% tin and 26.1% lead), with melting temperature of 183 °C (361.4 °F) . Such solders are primarily used for joining pipes or electric circuits. Since the European Union Waste Electrical and Electronic Equipment Directive (WEEE Directive) and Restriction of Hazardous Substances Directive came into effect on 1 July 2006, the lead content in such alloys has decreased. Replacing lead has many problems, including a higher melting point, and the formation of tin whiskers causing electrical problems. Tin pest can occur in lead-free solders, leading to loss of the soldered joint. Replacement alloys are rapidly being found, although problems of joint integrity remain.[73]
+wire]] Tin has long been used in alloys with lead as solder, in amounts 5 to 70% w/w. Tin with lead forms a eutectic mixture at the weight proportion of 61.9% tin and 38.1% lead (the atomic proportion: 73.9% tin and 26.1% lead), with melting temperature of 183 °C (361.4 °F) . Such solders are primarily used for joining pipes or electric circuits. Since the European Union Waste Electrical and Electronic Equipment Directive (WEEE Directive) and Restriction of Hazardous Substances Directive came into effect on 1 July 2006, the lead content in such alloys has decreased. Replacing lead has many problems, including a higher melting point, and the formation of tin whiskers causing electrical problems. Tin pest can occur in lead-free solders, leading to loss of the soldered joint. Replacement alloys are rapidly being found, although problems of joint integrity remain.[73]
 
 Tin plating
 
@@ -214,9 +212,9 @@ Tin bonds readily to iron and is used for coating lead, zinc and steel to preven
 
 Specialized alloys
 
-Pewterplate_exb.jpg plate]] Tin in combination with other elements forms a wide variety of useful alloys. Tin is most commonly alloyed with copper. Pewter is 85–99% tin;[77] bearing metal has a high percentage of tin as well.[78][79] Bronze is mostly copper (12% tin), while addition of phosphorus gives phosphor bronze. Bell metal is also a copper–tin alloy, containing 22% tin. Tin has sometimes been used in coinage; for example, it once formed a single-digit percentage (usually five percent or less) of American[80] and Canadian[81] pennies. Because copper is often the major metal in such coins, sometimes including zinc, these could be called bronze and/or brass alloys.
+plate]] Tin in combination with other elements forms a wide variety of useful alloys. Tin is most commonly alloyed with copper. Pewter is 85–99% tin;[77] bearing metal has a high percentage of tin as well.[78][79] Bronze is mostly copper (12% tin), while addition of phosphorus gives phosphor bronze. Bell metal is also a copper–tin alloy, containing 22% tin. Tin has sometimes been used in coinage; for example, it once formed a single-digit percentage (usually five percent or less) of American[80] and Canadian[81] pennies. Because copper is often the major metal in such coins, sometimes including zinc, these could be called bronze and/or brass alloys.
 
-Inside_of_a_tin_platted_can.jpg.]] Alfonso_Santiago_Leyva_and_his_son_Toma¦üs_working.jpg The niobium–tin compound Nb₃Sn is commercially used in coils of superconducting magnets for its high critical temperature (18 K) and critical magnetic field (25 T). A superconducting magnet weighing as little as two kilograms is capable of the magnetic field of a conventional electromagnet weighing tons.[82]
+.]] The niobium–tin compound Nb₃Sn is commercially used in coils of superconducting magnets for its high critical temperature (18 K) and critical magnetic field (25 T). A superconducting magnet weighing as little as two kilograms is capable of the magnetic field of a conventional electromagnet weighing tons.[82]
 
 A small percentage of tin is added to zirconium alloys for the cladding of nuclear fuel.[83]
 
@@ -228,7 +226,7 @@ The oxides of indium and tin are electrically conductive and transparent, and ar
 
 Other applications
 
-Punched_tin_barn_lantern.jpeg Punched tin-plated steel, also called pierced tin, is an artisan technique originating in central Europe for creating housewares that are both functional and decorative. Decorative piercing designs exist in a wide variety, based on local tradition and the artisan's personal creations. Punched tin lanterns are the most common application of this artisan technique. The light of a candle shining through the pierced design creates a decorative light pattern in the room where it sits. Lanterns and other punched tin articles were created in the New World from the earliest European settlement. A well-known example is the Revere lantern, named after Paul Revere.[87]
+Punched tin-plated steel, also called pierced tin, is an artisan technique originating in central Europe for creating housewares that are both functional and decorative. Decorative piercing designs exist in a wide variety, based on local tradition and the artisan's personal creations. Punched tin lanterns are the most common application of this artisan technique. The light of a candle shining through the pierced design creates a decorative light pattern in the room where it sits. Lanterns and other punched tin articles were created in the New World from the earliest European settlement. A well-known example is the Revere lantern, named after Paul Revere.[87]
 
 Before the modern era, in some areas of the Alps, a goat or sheep's horn would be sharpened and a tin panel would be punched out using the alphabet and numbers from one to nine. This learning tool was known appropriately as "the horn". Modern reproductions are decorated with such motifs as hearts and tulips.
 

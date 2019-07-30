@@ -1,1 +1,0 @@
-DEREK CHITTOCK (21 February 1922-21 February 1986) was a British art critic, art historian and portrait painter.[1] He was also active as a cartoonist, creating the gag comics _Bennie_ and _Barley Bottom_ in the late 1950s, early 1960s. [2]

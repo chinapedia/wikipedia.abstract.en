@@ -1,1 +1,0 @@
-ELHADJI OUSSEYNOU NDOYE (born 10 April 1992) is a Senegalese professional footballer who played as a centre back . He has previously played in Belgium and Kazakhstan with Zulte Waregem, RWDM Brussels, R.W.S. Bruxelles, and FC Kyzylzhar.

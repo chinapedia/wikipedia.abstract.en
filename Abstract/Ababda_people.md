@@ -1,1 +1,0 @@
-The ABABDA or ABABDE – the GEBADEI of Pliny, and possibly the TROGLODYTES of other classical writers – are nomads living in the area between the Nile and the Red Sea, in the vicinity of Aswan in Egypt and north Sudan. They are a subgroup of the Beja people who are bilingual in Beja and Arabic.

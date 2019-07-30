@@ -1,1 +1,0 @@
-GhazanConversionToIslam.JPG was born and raised as a Christian, studied Buddhism, and converted to Islam upon accession to the throne. Illustration from: "World History", Rachid Ad-Din, 14th century.]]

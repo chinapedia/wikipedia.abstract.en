@@ -1,1 +1,0 @@
-Rick_Pewe.jpg

@@ -1,1 +1,0 @@
-Lydian_Empire_600_BCE.jpg LYDIA (Assyrian: _Luddu_; , _Lydía_; ) was an Iron Age kingdom of western Asia Minor located generally east of ancient Ionia in the modern western Turkish provinces of Uşak, Manisa and inland İzmir. Its population spoke an Anatolian language known as Lydian. Its capital was Sardis.[1]

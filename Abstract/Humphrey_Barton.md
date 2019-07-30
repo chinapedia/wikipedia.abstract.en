@@ -1,1 +1,0 @@
-HUMPHREY "HUM" BARTON (1900–1980) was an English yachtsman who was influential in the development of deep-sea cruising in the 1950s and 1960s.[1] He is best known as the founder of the Ocean Cruising Club.[2]

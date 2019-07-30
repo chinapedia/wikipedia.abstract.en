@@ -1,1 +1,0 @@
-QUINTEN J. STRANGE (born 21 August 1996) is a New Zealand rugby union player who currently plays as a lock for in New Zealand's domestic Mitre 10 Cup and for the in the international Super Rugby competition.[1][2][3]

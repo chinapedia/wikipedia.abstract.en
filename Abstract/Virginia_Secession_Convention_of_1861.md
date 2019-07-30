@@ -1,1 +1,0 @@
-Janney.jpg

@@ -1,1 +1,0 @@
-SOCIAL EPISTEMOLOGY refers to a broad set of approaches that can be taken in the study of knowledge that construes human knowledge as a collective achievement. Another way of characterizing social epistemology is as the evaluation of the social dimensions of knowledge or information.[1] It is sometimes simplified to mean a social justification of belief.[2]

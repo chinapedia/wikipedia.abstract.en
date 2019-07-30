@@ -1,1 +1,0 @@
-right _IN THE HOLLOW OF HER HAND_ is a lost[1] 1918 silent film mystery-drama directed by Charles Maigne and starring Alice Brady. It was produced and distributed by the Select Pictures Corporation.[2]

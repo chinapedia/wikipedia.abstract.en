@@ -1,1 +1,0 @@
-This is a list of the cattle breeds considered in Sweden to be wholly or partly of Swedish origin. Some may have complex or obscure histories, so inclusion here does not necessarily imply that a breed is predominantly or exclusively Swedish.

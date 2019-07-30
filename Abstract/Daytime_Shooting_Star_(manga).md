@@ -1,1 +1,0 @@
-is a Japanese shōjo manga written and illustrated by Mika Yamamori. It ran in _Margaret_ from 2011 to 2014. A live-action film of the same name was released in 2017, as well as a collaboration clothing line with Earth Music & Ecology in 2014.[1]

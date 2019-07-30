@@ -1,1 +1,0 @@
-SUSANNA FREEBORN (1674-1723)[1] was a minister in the Religious Society of Friends (Quakers) in Providence, Rhode Island.[2][3] She travelled with Esther Palmer on Palmer's epic journey of 3,230 miles through eight colonies.[4]

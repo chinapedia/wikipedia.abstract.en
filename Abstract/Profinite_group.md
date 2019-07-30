@@ -1,1 +1,0 @@
-In mathematics, PROFINITE GROUPS are topological groups that are in a certain sense assembled from finite groups. They share many properties with their finite quotients: for example, both Lagrange's theorem and the Sylow theorems generalise well to profinite groups.[1]

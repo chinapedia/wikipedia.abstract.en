@@ -37,8 +37,6 @@ There was a change in body styling for all 2001–2002 models, and the 2001/2002
     -   Dual range gearbox - manual only
     -   Acceleration 0–100 km/h (0-62 mph) 10.7 seconds
 
-2000_Subaru_Forester_(SF5_MY00)_GT_wagon_(2015-07-10)_01.jpg
-
 -   GT (1997–2000) - turbocharged 2.0-liter flat-4,
 -   GT (2000–2003) - turbocharged 2.0-liter flat-4,
     -   Engine size 1,994 cc (2.0-liter)
@@ -88,7 +86,7 @@ All of the 2.5-liter 4-cylinder engines have a timing belt made of rubber and co
 
 US
 
-06-08_Subaru_Forester_2.5XT_Sports.jpg The U.S. Market was offered the car with either the 2.5 SOHC naturally aspirated engine, or the 2.5 DOHC turbocharged version added in 2004.
+The U.S. Market was offered the car with either the 2.5 SOHC naturally aspirated engine, or the 2.5 DOHC turbocharged version added in 2004.
 
 2004 versions sold in the United States:
 
@@ -183,7 +181,7 @@ In Russia, Belarus and Ukraine 2.5 and 2.5 Turbo engines were also available.
 
 Australia
 
-2010_Subaru_Forester_(SH9_MY10)_X_wagon_(2010-10-19)_03.jpg There were seven specifications with various trim and performance levels:[11]
+There were seven specifications with various trim and performance levels:[11]
 
 -   X: Base model - naturally aspirated 2.5 L flat-4, 229 Nm (169 ft-lbf)
 -   XS: Lower luxury non-turbo model - naturally aspirated 2.5 L flat-4, 229 Nm (169 ft-lbf)
@@ -265,7 +263,7 @@ US models went on sale in March 2013 as 2014 model year vehicles. Early models i
 
 Safety
 
-Subaru_FORESTER_X-BREAK_(SJ)_interior.JPG According to IIHS (Insurance Institute for Highway Safety) the 2014 Forester achieved Good crash test ratings in Small Overlap Front, Moderate Overlap Front, Side, Roof Strength, and Head Restraining & Seats categories. The Forester had not been rated Good in the Small Overlap Front test until modifications were made for the 2014 model year. The small overlap test, introduced in 2012 by the IIHS, simulates a frontal collision on 25 percent of the driver's side front corner. Since its adoption, the IIHS has noticed several automakers making non-symmetrical modifications to their vehicles. Another small overlap test was conducted on a number of vehicles, including a 2014 Forester, but was conducted on the passenger side instead. The crash test showed substantially more intrusion into the passenger side than into the driver's side of the Forester.[28]
+According to IIHS (Insurance Institute for Highway Safety) the 2014 Forester achieved Good crash test ratings in Small Overlap Front, Moderate Overlap Front, Side, Roof Strength, and Head Restraining & Seats categories. The Forester had not been rated Good in the Small Overlap Front test until modifications were made for the 2014 model year. The small overlap test, introduced in 2012 by the IIHS, simulates a frontal collision on 25 percent of the driver's side front corner. Since its adoption, the IIHS has noticed several automakers making non-symmetrical modifications to their vehicles. Another small overlap test was conducted on a number of vehicles, including a 2014 Forester, but was conducted on the passenger side instead. The crash test showed substantially more intrusion into the passenger side than into the driver's side of the Forester.[28]
 
 X Mode
 
@@ -319,7 +317,7 @@ In the US market, the 2019 Subaru Forester is available in the following trims:
 -   Forester Limited
 -   Forester Touring
 
-2018_Subaru_Forester_(SK_MY19)_2.5i_AWD_wagon_(2018-10-08)_02.jpg As with all auto makers, each trim comes with a different level of standard features. The 2019 model year also comes standard with of ground clearance.
+As with all auto makers, each trim comes with a different level of standard features. The 2019 model year also comes standard with of ground clearance.
 
 Mechanical features
 

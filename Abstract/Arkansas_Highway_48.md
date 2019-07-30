@@ -1,1 +1,0 @@
-HIGHWAY 48 (AR 48, ARK. 48, and HWY. 48) is an east–west state highway in Southwest Arkansas. The route of begins at Highway 9 south of Tulip and runs east to US Highway 167 (US 167) at Ferindale. The route is maintained by the Arkansas State Highway and Transportation Department (AHTD).

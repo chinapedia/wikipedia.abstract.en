@@ -1,1 +1,0 @@
-_MACROCHENUS ISABELLINUS_ is a species of beetle in the family Cerambycidae. It was described by Per Olof Christopher Aurivillius in 1920. It is known from Thailand, Laos, China, Myanmar, and Vietnam.[1]

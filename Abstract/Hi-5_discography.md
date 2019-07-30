@@ -1,1 +1,0 @@
-Australian children's musical group Hi-5 have released fifteen studio albums, three compilation albums, two reissues, and three singles. Five of the group's albums have been certified by the Australian Recording Industry Association (ARIA) as gold, platinum and double platinum. Four of their albums have reached the top 10 on the ARIA Albums Chart.

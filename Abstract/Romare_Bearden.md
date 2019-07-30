@@ -1,1 +1,0 @@
-ROMARE BEARDEN (September 2, 1911 – March 12, 1988) was an African-American artist and author of a history of his people's art. He worked with many types of media including cartoons, oils and collages. Born in Charlotte, North Carolina, Bearden grew up in New York City and Pittsburgh, Pennsylvania, and graduated from NYU in 1935.

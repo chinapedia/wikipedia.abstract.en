@@ -1,1 +1,0 @@
-The DEPARTMENT OF MANAGEMENT STUDIES, IIT(ISM) DHANBAD is the business school of Indian Institute of Technology (Indian School of Mines), Dhanbad which was established in 1977. The Department admits students on the basis of Common Admission Test (CAT).[1] Recently it fetched 32^(nd) position in NIRF 2019 rankings introduced by the MHRD.

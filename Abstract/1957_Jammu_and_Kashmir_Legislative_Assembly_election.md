@@ -1,1 +1,0 @@
-The first ELECTIONS FOR THE LEGISLATIVE ASSEMBLY of the Indian state of JAMMU AND KASHMIR under its own Constitution were held in March–June 1957. Bakshi Ghulam Mohammad was appointed Prime Minister of Jammu and Kashmir.

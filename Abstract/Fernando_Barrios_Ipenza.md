@@ -1,1 +1,0 @@
-FERNANDO BARRIOS IPENZA was born in Andahuaylas - Peru, he is an entrepreneur, engineer and Peruvian politician, member of the Peruvian Aprista Party (PAP). He was president of the social security health Peru and Minister of the Interior of Peru from September 14 to November 22, 2010. Pio_Fernando_Barrios.jpg

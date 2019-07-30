@@ -1,1 +1,0 @@
-GAJC is a nature reserve in the Podunajské Biskupice district of Bratislava, Slovakia. The nature reserve covers an area of 62.72 ha on the left shore of the Danube. It has a protection level of 4 under the Slovak nature protection system. The nature reserve is part of the Dunajské luhy Protected Landscape Area.[1]

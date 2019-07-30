@@ -1,1 +1,0 @@
-The _DIPTYCH OF AN ELDERLY COUPLE_ is a pair of bust-length wedding portraits by Hans Memling, which were formerly attached with pegs and were split some time before they were sold separately in 1894. One is in the collection of the Gemäldegalerie and the other is in the collection of the Louvre.[1] When viewed side-by-side the landscape background joins up to form a whole.

@@ -1,1 +1,0 @@
-SO STRESSED is a noisy American rock and roll band from Sacramento, CA that uses synthesizer, drums, and guitar to make music. Currently, the band's line-up includes Morgan Fox and Kenneth Draper, while guest guitarists join them during live performances.[1] Their music is frequently highlighted for the loud, abrasive, anxious, and catchy nature of their songs.[2][3][4][5][6][7]

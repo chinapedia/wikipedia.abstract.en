@@ -1,1 +1,0 @@
-The 1978 MEN'S HOCKEY CHAMPIONS TROPHY was the 1st edition of the Hockey Champions Trophy, an international men's field hockey tournament. It took place from 17–24 November 1978 in Lahore, Pakistan.[1]

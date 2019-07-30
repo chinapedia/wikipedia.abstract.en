@@ -1,1 +1,0 @@
-The 1942 ARIZONA GUBERNATORIAL ELECTION took place on November 3, 1942. Incumbent Governor Sidney Preston Osborn ran for reelection, and easily defeated a challenge from former Governor Robert Taylor Jones in the Democratic primary, who Osborn also defeated in 1940.

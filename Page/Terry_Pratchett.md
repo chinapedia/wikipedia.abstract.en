@@ -49,7 +49,7 @@ In August 2007, Pratchett was misdiagnosed as having had a minor stroke a few ye
 
 Describing the diagnosis as an "embuggerance" in a radio interview, Pratchett appealed to people to "keep things cheerful" and proclaimed that "we are taking it fairly philosophically down here and possibly with a mild optimism."[71] He stated he felt he had time for "at least a few more books yet", and added that while he understood the impulse to ask "is there anything I can do?", in this case he would only entertain such offers from "very high-end experts in brain chemistry."[72] Discussing his diagnosis at the Bath Literature Festival in early 2008, Pratchett revealed that by then he found it too difficult to write dedications when signing books.[73] In his later years Pratchett wrote by dictating to his assistant, Rob Wilkins, or by using speech recognition software.[74]
 
-Terry_Pratchett_2005.JPG in Glasgow, August 2005]] In March 2008, Pratchett announced he would donate US$1,000,000 (about £494,000) to the Alzheimer's Research Trust, and that he was shocked "to find out that funding for Alzheimer's research is just 3% of that to find cancer cures."[75][76] He said: "I am, along with many others, scrabbling to stay ahead long enough to be there when the cure comes along."[77]
+in Glasgow, August 2005]] In March 2008, Pratchett announced he would donate US$1,000,000 (about £494,000) to the Alzheimer's Research Trust, and that he was shocked "to find out that funding for Alzheimer's research is just 3% of that to find cancer cures."[75][76] He said: "I am, along with many others, scrabbling to stay ahead long enough to be there when the cure comes along."[77]
 
 In April 2008, Pratchett worked with the BBC to make a two-part documentary series about his illness, _Terry Pratchett: Living With Alzheimer's_.[78] The first part was broadcast on BBC Two on 4 February 2009, drawing 2.6 million viewers and a 10.4% audience share.[79] The second, broadcast on 11 February 2009, drew 1.72 million viewers and a 6.8% audience share.[80] The documentary won a BAFTA award in the Factual Series category.[81] Pratchett also made an appearance on _The One Show_ on 15 May 2008, talking about his condition. He was the subject and interviewee of the 20 May 2008 edition of _On the Ropes_ (Radio 4), discussing Alzheimer's and how it had affected his life.
 
@@ -115,7 +115,7 @@ Writing career
 
 Awards
 
-Terry_Pratchett_honorary_degree_TCD.jpg shortly after receiving an honorary degree from the University of Dublin in 2008]]
+shortly after receiving an honorary degree from the University of Dublin in 2008]]
 
 Pratchett received a knighthood for "services to literature" in the 2009 UK New Year Honours list.[141][142] He was previously appointed Officer of the Order of the British Empire, also for "services to literature", in 1998. Following this, Pratchett commented in the Ansible SF/fan newsletter, "I suspect the 'services to literature' consisted of refraining from trying to write any," but added, "Still, I cannot help feeling mightily chuffed about it."[143]
 

@@ -1,1 +1,0 @@
-DURGAWATI (also called Durgaoti or Durgauti) is a town in Kaimur district in the Indian state of Bihar. It serves as headquarters for the Durgawati sub-division in Kaimur district. It is 30.6 km by road north of the city of Bhabua, on National Highway 19 (old NH 2).[1] Durgawati is the hub of transport routes in Kaimur district, next to Mohania.

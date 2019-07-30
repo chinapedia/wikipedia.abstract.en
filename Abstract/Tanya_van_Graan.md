@@ -1,1 +1,0 @@
-TANYA VAN GRAAN (born 13 December 1983) is a South African actress, singer and model. She is known for her roles in _Zulu_ and _Starship Troopers 3: Marauder_, and for being FHM's Sexiest Woman at the 2007 FHM 100 Sexiest Women in the World bash held in Johannesburg.[1]

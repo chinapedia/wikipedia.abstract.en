@@ -1,1 +1,0 @@
-SAINT ISIDORE OF SEVILLE (; ; Seville, c. 560 –  Seville, 4 April 636), a scholar and, for over three decades, Archbishop of Seville. He is widely regarded, in the oft-quoted words of the 19th-century historian Montalembert, as "the last scholar of the ancient world."[1]

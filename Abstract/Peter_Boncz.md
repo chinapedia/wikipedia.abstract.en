@@ -1,1 +1,0 @@
-PETER BONCZ is a Dutch computer scientist specializing in database systems. He is a researcher at the Centrum Wiskunde & Informatica and professor at the Vrije Universiteit Amsterdam in the special chair of Large-Scale Analytical Data Management.

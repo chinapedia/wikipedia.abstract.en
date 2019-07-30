@@ -1,1 +1,0 @@
-_THE BIRTH OF A NATION: THE INSPIRED BY ALBUM_ is the companion album to the 2016 movie _The Birth of a Nation_. It was released on Atlantic Records on September 30, 2016, one week prior to the film’s theatrical release.[1]

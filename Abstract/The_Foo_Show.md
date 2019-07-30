@@ -1,1 +1,0 @@
-_THE FOO SHOW_ is an interactive virtual reality talk show developed by Foo VR and created by Will Smith.[1] The first episode was released in April 2016 and the first full season is planned for release in December the same year.

@@ -1,1 +1,0 @@
-CLARA DUTTON NOYES (October 3, 1869 – June 3, 1936) was an American nurse who headed the American Red Cross department of nursing during World War I. In 1998 she was inducted into the American Nurses Association Hall of Fame.

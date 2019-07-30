@@ -1,1 +1,0 @@
-The NEW ZEALAND DEFENCE FORCE (, "Line of Defence of New Zealand") consists of three services: the New Zealand Army, the Royal New Zealand Air Force and the Royal New Zealand Navy; and is commanded and headed by the Chief of Defence Force (CDF).

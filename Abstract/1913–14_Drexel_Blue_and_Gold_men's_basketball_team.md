@@ -1,1 +1,0 @@
-The 1913–14 DREXEL BLUE AND GOLD MEN'S BASKETBALL TEAM represented Drexel Institute of Art, Science and Industry during the 1913–14 men's basketball season. The Blue and Gold, who played without a head coach, played their home games at Main Building.

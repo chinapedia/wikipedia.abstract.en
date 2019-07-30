@@ -1,1 +1,0 @@
-JETHRO THOMAS ROBINSON (1829 - 15 July 1878[1]) was a British architect who specialised in theatres. He was the father-in-law of architect Frank Matcham.[2] Robinson was responsible for the 1871 reconstruction of the Pavilion Theatre, Whitechapel, which increased its capacity to 4,000.[3]

@@ -1,1 +1,0 @@
-_MEMORY_ is the fourth extended play by South Korean girl group Mamamoo. It was released by Rainbow Bridge World on November 7, 2016 and distributed by CJ E&M Music. It contains eight songs, including the singles "New York" and "Décalcomanie", the soundtrack single "Woo Hoo" from _LG G5 And Friends OST_, and the sub-unit track "Dab Dab" and "Angel".

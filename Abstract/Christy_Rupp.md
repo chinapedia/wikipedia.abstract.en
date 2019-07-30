@@ -1,1 +1,0 @@
-CHRISTY RUPP (born 1949) is an American artist and activist. She lives and works in New York City and the Hudson Valley in New York. Her work is inspired by the study of animal behavior. She is one of a group of early eco-artists concerned with urban ecology and our perceptions of nature. Her work has been shown extensively at galleries and museums.

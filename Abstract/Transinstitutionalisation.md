@@ -1,1 +1,0 @@
-TRANSINSTITUTIONALISATION is the phenomena where inmates released from one therapeutic community move into other institutions, either as planned move or as an unforeseen consequence.[1] For instance, when the residential mental hospitals were closed as the result of a political policy change, the prison population increased by an equivalent number.[2]

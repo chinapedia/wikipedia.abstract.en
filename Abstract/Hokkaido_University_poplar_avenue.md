@@ -1,1 +1,0 @@
-Poplar_avenue_at_Hokkaido_University_201505.JPG HokkaidoDaigakuPopuranamiki2004-5.jpg

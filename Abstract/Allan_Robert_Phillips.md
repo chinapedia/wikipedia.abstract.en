@@ -1,1 +1,0 @@
-ALLAN ROBERT PHILLIPS (October 25, 1914 – January 26, 1996) was an American ornithologist. He mainly studied birds in the southwestern United States and Mexico. His most notable work is _The Birds of Arizona_, co-authored with Joe Marshall and Gale Monson.[1][2][3]

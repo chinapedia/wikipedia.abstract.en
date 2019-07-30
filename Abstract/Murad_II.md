@@ -1,1 +1,0 @@
-or 1403[1] | birth_place = Amasya, Ottoman Sultanate | death_date = | death_place = Edirne, Ottoman Sultanate | burial_date = | burial_place = Muradiye Complex, Bursa | signature_type = Tughra | religion = Sunni Islam | signature = Tughra of Murad II.JPG }}

@@ -15,7 +15,7 @@ The Wangkangurru people lived in the Simpson Desert, using hand-dug wells called
 
 Post-colonisation
 
-B9113_22_simpson_desert.jpg BigRed.JPG SimpsonDesert.jpg Poeppel_Corner_Marker,_South_Australia,_Northern_Territories,_Queensland.jpg Marker, South Australia, Northern Territories, Queensland]] SimpsonsDesert.JPG]] The explorer Charles Sturt, who visited the region from 1844–1846, was the first European to see the desert.[6] In 1880 Augustus Poeppel, a surveyor with the South Australian Survey Department determined the border between Queensland and South Australia to the west of Haddon Corner and in doing so marked the corner point where the States of Queensland and South Australia meet the Northern Territory. After he returned to Adelaide, it was discovered that the links in his surveyor's chain had stretched. Poeppel’s border post was too far west by 300 metres. In 1884, surveyor Larry Wells moved the post to its proper position on the eastern bank of Lake Poeppel. The tri-state border is now known as Poeppel Corner. In January 1886 surveyor David Lindsay ventured into the desert from the western edge, in the process discovering and documenting, with the help of a Wangkangurru Aboriginal man, nine native wells and travelling as far east as the Queensland/Northern Territory border.
+Marker, South Australia, Northern Territories, Queensland]] ]] The explorer Charles Sturt, who visited the region from 1844–1846, was the first European to see the desert.[6] In 1880 Augustus Poeppel, a surveyor with the South Australian Survey Department determined the border between Queensland and South Australia to the west of Haddon Corner and in doing so marked the corner point where the States of Queensland and South Australia meet the Northern Territory. After he returned to Adelaide, it was discovered that the links in his surveyor's chain had stretched. Poeppel’s border post was too far west by 300 metres. In 1884, surveyor Larry Wells moved the post to its proper position on the eastern bank of Lake Poeppel. The tri-state border is now known as Poeppel Corner. In January 1886 surveyor David Lindsay ventured into the desert from the western edge, in the process discovering and documenting, with the help of a Wangkangurru Aboriginal man, nine native wells and travelling as far east as the Queensland/Northern Territory border.
 
 In 1936 Ted Colson became the first non-indigenous person to cross the desert in its entirety, riding camels. The name Simpson Desert was coined by Cecil Madigan, after Alfred Allen Simpson, an Australian industrialist, philanthropist, geographer, and president of the South Australian branch of the Royal Geographical Society of Australasia.[7] Mr Simpson was the owner of the Simpson washing machine company.
 
@@ -45,7 +45,7 @@ Some of the heaviest rain in decades occurred during 2009-2010, and has seen the
 
 Ecology
 
-Simpson,_émeu.jpg Emu_bush.jpg IBRA_6.1_Channel_Country.png regions, with the Channel Country in red]] IBRA_6.1_Simpson_Strzelecki_Dunefields.png regions, with the Simpson-Strzelecki Dunefields in red]]
+regions, with the Channel Country in red]] regions, with the Simpson-Strzelecki Dunefields in red]]
 
 The Simpson Desert is also a large part of the World Wildlife Fund ecoregion of the same name [20] which consists of the Channel Country and the Simpson Strzelecki Dunefields bioregions of the Interim Biogeographic Regionalisation for Australia (IBRA).[21][22]
 
@@ -62,7 +62,7 @@ The extensive dunefields of the Simpson Desert display a range of colours from b
 
 Morphology
 
-PIA00115_Earth_(Simpson_Desert,_Central_Australia).jpg at bottom left]] The sand ridges have a trend of SSE-NNW and continue parallel for kilometres. This pattern is seen throughout the deserts of Australia. Some of the ridges continue unbroken for up to 200 km. The height and the spacing between the ridges are directly related. Where there are 5-6 ridges in a kilometre, the height is around 15 metres but when there is one or two ridges per kilometre the height jumps to 35–38 metres.[26] In cross section, the lee side is the eastern slope with an incline of 34-38 degrees, while the stoss side is the western slope with an incline of only 10-20 degrees. In cross section, the cross beds are planar with foresets alternating between east and west. The foresets have incline angles of 10-30 degrees.[27]
+at bottom left]] The sand ridges have a trend of SSE-NNW and continue parallel for kilometres. This pattern is seen throughout the deserts of Australia. Some of the ridges continue unbroken for up to 200 km. The height and the spacing between the ridges are directly related. Where there are 5-6 ridges in a kilometre, the height is around 15 metres but when there is one or two ridges per kilometre the height jumps to 35–38 metres.[26] In cross section, the lee side is the eastern slope with an incline of 34-38 degrees, while the stoss side is the western slope with an incline of only 10-20 degrees. In cross section, the cross beds are planar with foresets alternating between east and west. The foresets have incline angles of 10-30 degrees.[27]
 
 Sediment
 

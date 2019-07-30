@@ -1,1 +1,0 @@
-The SPEEDWAY GREAT BRITAIN (SGB) CHAMPIONSHIP is the second division of speedway league competition in the United Kingdom, governed by the Speedway Control Bureau (SCB), in conjunction with the British Speedway Promoters' Association (BSPA). It was introduced for 2017 following a restructuring of British speedway.[1]

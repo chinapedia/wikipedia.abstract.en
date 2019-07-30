@@ -1,1 +1,0 @@
-_BHALE KODALLU_ ()[1] is a 1968 Telugu-language comedy film written and directed by K. Balachander. It was simultaneously filmed in Tamil as _Bama Vijayam_, despite being released more than a year after that. The film features an ensemble cast consisting of S. V. Ranga Rao, Sowcar Janaki, Kanchana, Jayanthi, Nagabhushanam, Ramakrishna, Chalam, Rajasree and Saraswathi.

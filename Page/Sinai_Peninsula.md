@@ -7,7 +7,7 @@ Today, Sinai has become a tourist destination due to its natural setting, rich c
 
 Name
 
-ISJabalMusa.JPG (_Gabal Musa_)]]
+(_Gabal Musa_)]]
 
 The name _Sinai_ (, ) may have been derived from the ancient moon-god Sin[4] or from the Hebrew word _Seneh_ ( __)[5] The peninsula acquired the name due to the assumption that a mountain near Saint Catherine's Monastery is the Biblical Mount Sinai. However this assumption is contested.[6]
 
@@ -18,7 +18,7 @@ In English, the name is now usually pronounced .[9][10] The traditional pronunci
 
 Geography
 
-Greatrift.jpg spacecraft, featuring part of Egypt and the Sinai Peninsula in the foreground and the Levant in the background]]
+spacecraft, featuring part of Egypt and the Sinai Peninsula in the foreground and the Levant in the background]]
 
 Sinai is triangular in shape, with northern shore lying on the southern Mediterranean Sea, and southwest and southeast shores on Gulf of Suez and Gulf of Aqaba of the Red Sea. It is linked to the African continent by the Isthmus of Suez, wide strip of land, containing the Suez Canal. The eastern isthmus, linking it to the Asian mainland, is around wide. The peninsula's eastern shore separates the Arabian plate from the African plate.[13]
 
@@ -49,7 +49,7 @@ Cambyses successfully managed the crossing of the hostile Sinai Desert, traditio
 
 Roman and Byzantine Periods
 
-Katharinenkloster_Sinai_BW_2.jpg is the oldest working Christian monastery in the world and the most popular tourist attraction on the peninsula.]] Rhinocorura (Greek for "Cut-off Noses") and the eponymous region around it were used by Ptolemaid Egypt as a place of banishment for criminals.
+is the oldest working Christian monastery in the world and the most popular tourist attraction on the peninsula.]] Rhinocorura (Greek for "Cut-off Noses") and the eponymous region around it were used by Ptolemaid Egypt as a place of banishment for criminals.
 
 After the death of the last Nabatean king, Rabbel II Soter, in 106,[19] the Roman emperor Trajan faced practically no resistance and conquered the kingdom on 22 March 106. With this conquest, the Roman Empire went on to control all shores of the Mediterranean Sea. The Sinai Peninsula became part of the Roman province of Arabia Petraea.[20]
 
@@ -63,15 +63,13 @@ Mamluk and Ottoman Periods
 
 The peninsula was governed as part of Egypt under the Mamluk Sultanate of Egypt from 1260 until 1517, when the Ottoman Sultan, Selim the Grim, defeated the Egyptians at the Battles of Marj Dabiq and al-Raydaniyya, and incorporated Egypt into the Ottoman Empire. From then until 1906, Sinai was administered by the Ottoman provincial government of the _Pashalik_ of Egypt, even following the establishment of the Muhammad Ali Dynasty's rule over the rest of Egypt in 1805.
 
-A_camping-place_in_the_wilderness_of_Sinai.jpg
-
 British control
 
 In 1906, the Ottoman Porte formally transferred administration of Sinai to the Egyptian government, which essentially meant that it fell under the control of the United Kingdom, who had occupied and largely controlled Egypt since 1882. The border imposed by the British runs in an almost straight line from Rafah on the Mediterranean shore to Taba on the Gulf of Aqaba. This line has served as the eastern border of Egypt ever since.
 
 Israeli invasions and occupation
 
-UNEF.Canada.Panama.74.jpeg UN peacekeepers in Sinai, 1974]]
+UN peacekeepers in Sinai, 1974]]
 
 In 1956, Egypt nationalised the Suez Canal,[21] a waterway marking the boundary between Egyptian territory in Africa and the Sinai Peninsula. Thereafter, Israeli ships were prohibited from using the Canal,[22] owing to the state of war between the two states. Egypt also prohibited ships from using Egyptian territorial waters on the eastern side of the peninsula to travel to and from Israel, effectively imposing a blockade on the Israeli port of Eilat. In October 1956, in what is known in Egypt as the Tripartite Aggression, Israeli forces, aided by Britain, and France (which sought to reverse the nationalization and regain control over the Suez Canal), invaded Sinai and occupied much of the peninsula within a few days. In March 1957, Israel withdrew its forces from Sinai, following strong pressure from the United States and the Soviet Union. Thereafter, the United Nations Emergency Force (UNEF) was stationed in Sinai to prevent any further conflict in the Sinai.
 
@@ -83,7 +81,7 @@ On 6 October 1973, Egypt commenced Operation Badr to retake the Sinai, while Syr
 
 1979-82 Israeli withdrawal
 
-EgyptIsraelBorderEilat.JPG Mountains]]
+Mountains]]
 
 In 1979, Egypt and Israel signed a peace treaty in which Israel agreed to withdraw from the entirety of the Sinai Peninsula. Israel subsequently withdrew in several stages, ending in 1982. The Israeli pull-out involved dismantling almost all Israeli settlements, including the settlement of Yamit in north-eastern Sinai. The exception was that the coastal city of Sharm el-Sheikh (which the Israelis had founded as Ofira during their occupation of the Sinai Peninsula) was not dismantled. The Treaty allows monitoring of Sinai by the Multinational Force and Observers, and limits the number of Egyptian military forces in the peninsula.
 
@@ -98,8 +96,6 @@ Under President el-Sisi, Egypt has implemented a rigorous policy of controlling 
 
 Demographics
 
-Bedouins_making_bread.jpg
-
 The two governorates of North and South Sinai have a total population of 597,000 (January 2013). This figure rises to 1,400,000 by including Western Sinai, the parts of the Port Said, Ismailia and Suez Governorates lying east of the Suez Canal. Port Said alone has a population of roughly 500,000 people (January 2013). Portions of the populations of Ismailia and Suez live in west Sinai, while the rest live on the western side of the Suez Canal.
 
 The population of Sinai has largely consisted of desert-dwelling Bedouins with their colourful traditional costumes and significant culture.[30] Large numbers of Egyptians from the Nile Valley and Delta moved to the area to work in tourism, but development adversely affected the native Bedouin population. In order to help alleviate their problems, various NGOs began to operate in the region, including the Makhad Trust, a UK charity that assists the Bedouin in developing a sustainable income while protecting Sinai's natural environment, heritage and culture.
@@ -107,7 +103,7 @@ The population of Sinai has largely consisted of desert-dwelling Bedouins with t
 
 Economy
 
-Dahab_View_from_dive_shop.JPG in Southern Sinai is a popular beach and diving resort]]
+in Southern Sinai is a popular beach and diving resort]]
 
 Since the Israeli–Egyptian peace treaty, Sinai's scenic spots (including coral reefs offshore) and religious structures have become important to the tourism industry. The most popular tourist destination in Sinai are Mount Sinai (_Jabal Musa_) and St Catherine's Monastery, which is considered to be the oldest working Christian monastery in the world, and the beach resorts of Sharm el-Sheikh, Dahab, Nuweiba and Taba. Most tourists arrive at Sharm el-Sheikh International Airport, through Eilat, Israel and the Taba Border Crossing, by road from Cairo or by ferry from Aqaba in Jordan.
 

@@ -1,1 +1,0 @@
-KARACHI FILM & COMIC CON (KFCC) is an annual comic con event held in Karachi, Sindh, Pakistan. It is arranged by the organization called Karachi Film & Comic Con.[1][2] The event is held every year and attended by fans and artists of popular culture.[3] The event also includes fan cosplays and the sale of popular culture such as comic books and other related merchandise.[4]

@@ -1,1 +1,0 @@
-A PHOTORESIST is a light-sensitive material used in several processes, such as photolithography and photoengraving, to form a patterned coating on a surface. This process is crucial in the electronic industry.[1]

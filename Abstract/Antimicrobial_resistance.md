@@ -1,1 +1,0 @@
-Antibiotic_sensitvity_and_resistance.JPG

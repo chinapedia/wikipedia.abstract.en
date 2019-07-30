@@ -1,1 +1,0 @@
-JOHN MILTON (9 December 16088 November 1674) was an English poet, polemicist, man of letters, and civil servant for the Commonwealth of England under its Council of State and later under Oliver Cromwell. He wrote at a time of religious flux and political upheaval, and is best known for his epic poem _Paradise Lost_ (1667), written in blank verse.

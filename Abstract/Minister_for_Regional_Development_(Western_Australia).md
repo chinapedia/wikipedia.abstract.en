@@ -1,1 +1,0 @@
-MINISTER FOR REGIONAL DEVELOPMENT is a position in the government of Western Australia, currently held by Alannah MacTiernan of the Labor Party. The position was first created in 1977, for the government of Charles Court, and has existed in most governments since then. The minister is responsible for the state government's Department of Regional Development.

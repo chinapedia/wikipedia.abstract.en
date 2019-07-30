@@ -1,1 +1,0 @@
-In mathematics, the AXIOM OF REGULARITY (also known as the AXIOM OF FOUNDATION) is an axiom of Zermelo–Fraenkel set theory that states that every non-empty set _A_ contains an element that is disjoint from _A_. In first-order logic, the axiom reads:

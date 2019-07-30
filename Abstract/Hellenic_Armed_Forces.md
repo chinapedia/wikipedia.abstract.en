@@ -1,1 +1,0 @@
-The HELLENIC ARMED FORCES (, ) are the combined ground, naval and air forces of Greece. They consist of the Hellenic National Defense General Staff, the Hellenic Army, the Hellenic Navy, and the Hellenic Air Force.

@@ -27,15 +27,11 @@ God is viewed as the creator, whose nature combines both masculinity and feminin
 
 Second marriage and blessing ceremonies
 
-Moon and Hak Ja Han
-
 Marriage to Hak Ja Han
 
 Moon married his second wife, Hak Ja Han, on 11 April 1960, soon after he turned 40 years old, in a ceremony called the Holy Marriage. Han is called "Mother" or "True Mother". She and Moon together are referred to as the "True Parents" by members of the Unification Church and their family as the "True Family".[64][65][66][67] Jesus was divine but not God; he was supposed to be the second Adam who would create a perfect family by joining with the ideal wife and creating a pure family that would have begun humanity's liberation from its sinful condition.[68] When Jesus was crucified before marrying, he redeemed mankind spiritually but not physically. That task was left to the "True Parents" – Moon and Han – who would link married couples and their families to God.[69][70][71]
 
 Blessing ceremonies
-
-TPblessing_ceremony.jpg
 
 Blessing ceremonies have attracted a lot of attention in the press and in the public imagination, often being labeled "mass weddings".[72] Some couples are already married and those that are engaged are later legally married according to the laws of their own countries.[73][74] Meant to highlight the church's emphasis on traditional morality, they brought Moon both fame and notoriety.[75][76]
 

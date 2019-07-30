@@ -13,7 +13,7 @@ In the 2015 general election resulted in a victory for the People's National Mov
 
 Executive branch
 
-Whitehall_(13436829895).jpg | President | Paula-Mae Weekes | Independent | 19 March 2018 |- |Prime Minister |Keith Rowley |People's National Movement |9 September 2015 |} The President is elected by an electoral college, which consists of the members of the Senate and House of Representatives, for a five-year term. The Prime Minister is appointed by the President from among the members of Parliament; following legislative elections, the person with the most support among the elected members of the House of Representatives is appointed Prime Minister, usually the leader of the winning party. The cabinet is appointed from among the Members of Parliament, which constitutes elected Members of the House of Representatives and appointed Members of the Senate
+| President | Paula-Mae Weekes | Independent | 19 March 2018 |- |Prime Minister |Keith Rowley |People's National Movement |9 September 2015 |} The President is elected by an electoral college, which consists of the members of the Senate and House of Representatives, for a five-year term. The Prime Minister is appointed by the President from among the members of Parliament; following legislative elections, the person with the most support among the elected members of the House of Representatives is appointed Prime Minister, usually the leader of the winning party. The cabinet is appointed from among the Members of Parliament, which constitutes elected Members of the House of Representatives and appointed Members of the Senate
 
 Cabinet ministers of Trinidad and Tobago
 

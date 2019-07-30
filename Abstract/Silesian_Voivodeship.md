@@ -1,1 +1,0 @@
-SILESIAN VOIVODESHIP, or SILESIA PROVINCE[1] ( ), , ) is a voivodeship, or province, in southern Poland, centered on the historic region known as Upper Silesia (__), with Katowice serving as its capital.

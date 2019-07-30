@@ -1,1 +1,0 @@
-KHATIBI (, , adjective form of "Khatib") is a Persian,[1] Dari[2] and Maghrebi[3] surname which – in its Latinized form – can also be found in the Iranian and Afghan diaspora.[4][5][6] Notable people with the surname include:

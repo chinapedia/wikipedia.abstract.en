@@ -33,7 +33,7 @@ In February 1942 Dalton became President of the Board of Trade and was replaced 
 
 Hambro had been a close friend of Churchill before the war and had won the Military Cross in the First World War. He retained several other interests, for example remaining chairman of Hambros and a director of the Great Western Railway. Some of his subordinates and associates expressed reservations that these interests distracted him from his duties as director. Selborne and Hambro nevertheless cooperated closely until August 1943, when they fell out over the question of whether SOE should remain a separate body or co-ordinate its operations with those of the British Army in several theatres of war. Hambro felt that any loss of autonomy would cause a number of problems for SOE in the future. At the same time, Hambro was found to have failed to pass on vital information to Selborne. He was dismissed as director, and became head of a raw materials purchasing commission in Washington, D.C., which was involved in the exchange of nuclear information.
 
-ColinGubbins.jpg, director of SOE from August 1943]] As part of the subsequent closer ties between the Imperial General Staff and SOE (although SOE had no representation on the Chiefs of Staff Committee), Hambro's replacement as director from September 1943 was Gubbins, now a Major-general. Gubbins had wide experience of commando and clandestine operations and had played a major part in MI(R)'s and SOE's early operations. He also put into practice many of the lessons he learned from the IRA during the Irish War of Independence.[7]
+, director of SOE from August 1943]] As part of the subsequent closer ties between the Imperial General Staff and SOE (although SOE had no representation on the Chiefs of Staff Committee), Hambro's replacement as director from September 1943 was Gubbins, now a Major-general. Gubbins had wide experience of commando and clandestine operations and had played a major part in MI(R)'s and SOE's early operations. He also put into practice many of the lessons he learned from the IRA during the Irish War of Independence.[7]
 
 Organisation
 
@@ -82,7 +82,7 @@ SOE had some nominal contact with the Soviet NKVD, but this was limited to a sin
 
 Locations
 
-Beaulieu_SOE_Memorial.jpg, Hampshire, unveiled by Major General Gubbins in April 1969.]]
+, Hampshire, unveiled by Major General Gubbins in April 1969.]]
 
 Baker Street
 
@@ -128,7 +128,7 @@ Communications
 
 Radio
 
-Kofferset_3MK_II.jpg Most of the resistance networks which SOE formed or liaised with were controlled by radio directly from Britain or one of SOE's subsidiary headquarters. All resistance circuits contained at least one wireless operator, and all drops or landings were arranged by radio, except for some early exploratory missions sent "blind" into enemy-occupied territory.
+Most of the resistance networks which SOE formed or liaised with were controlled by radio directly from Britain or one of SOE's subsidiary headquarters. All resistance circuits contained at least one wireless operator, and all drops or landings were arranged by radio, except for some early exploratory missions sent "blind" into enemy-occupied territory.
 
 At first, SOE's radio traffic went through the SIS-controlled radio station at Bletchley Park. From 1 June 1942 SOE used its own transmitting and receiving stations at Grendon Underwood and Poundon nearby, as the location and topography were suitable. Teleprinters linked the radio stations with SOE's HQ in Baker Street. Operators in the Balkans worked to radio stations in Cairo.
 
@@ -165,7 +165,7 @@ SOE agents were issued with the Fairbairn–Sykes fighting knife also issued to 
 
 Sabotage
 
-Audience_in_demolition_class._Milton_Hall,_England,_circa_1944.,_1943_-_1944_-_NARA_-_540063.tif, circa 1944]] SOE developed a wide range of explosive devices for sabotage, such as limpet mines, shaped charges and time fuses, which were also widely used by commando units. Most of these devices were designed and produced at The Firs. The Time Pencil, invented by Commander A.J.G. Langley, the first commandant of Station XII at Aston was used to give a saboteur time to escape after setting a charge and was far simpler to carry and use than lighted fuses or electrical detonators. It relied on crushing an internal vial of acid which then corroded a retaining wire, which sometimes made it inaccurate in cold or hot conditions. Later the L-Delay, which instead allowed a lead retaining wire to "creep" until it broke and was less affected by the temperature, was introduced.
+, circa 1944]] SOE developed a wide range of explosive devices for sabotage, such as limpet mines, shaped charges and time fuses, which were also widely used by commando units. Most of these devices were designed and produced at The Firs. The Time Pencil, invented by Commander A.J.G. Langley, the first commandant of Station XII at Aston was used to give a saboteur time to escape after setting a charge and was far simpler to carry and use than lighted fuses or electrical detonators. It relied on crushing an internal vial of acid which then corroded a retaining wire, which sometimes made it inaccurate in cold or hot conditions. Later the L-Delay, which instead allowed a lead retaining wire to "creep" until it broke and was less affected by the temperature, was introduced.
 
 SOE pioneered the use of plastic explosive. (The term "plastique" comes from plastic explosive packaged by SOE and originally destined for France but taken to the United States instead.) Plastic explosive could be shaped and cut to perform almost any demolition task. It was also inert and required a powerful detonator to cause it to explode, and was therefore safe to transport and store. It was used in everything from car bombs, to exploding rats designed to destroy coal-fired boilers.[11]
 
@@ -204,7 +204,7 @@ The squadrons' first task was to take agents to France who could select suitable
 
 161 Squadron operations
 
-Westland_Lysander-B-MA.jpg 161 Squadron's principal aircraft was the Westland Lysander.[16] It handled very well at low speed and could use landing grounds only long. It had an effective range of , and could carry one to three passengers in the rear cockpit and stores in a pannier underneath the fuselage. It was flown by a single pilot, who also had to navigate, so missions had to be flown on clear nights with a full or near full moon. Bad weather often thwarted missions, German night fighters were also a hazard, and pilots could never know when landing whether they would be greeted by the resistance or the Gestapo.[17]
+161 Squadron's principal aircraft was the Westland Lysander.[16] It handled very well at low speed and could use landing grounds only long. It had an effective range of , and could carry one to three passengers in the rear cockpit and stores in a pannier underneath the fuselage. It was flown by a single pilot, who also had to navigate, so missions had to be flown on clear nights with a full or near full moon. Bad weather often thwarted missions, German night fighters were also a hazard, and pilots could never know when landing whether they would be greeted by the resistance or the Gestapo.[17]
 
 The procedure once a Lysander reached a its destination in France was described by Squadon Leader Hugh Verity. Once the aircraft reached the airfield the agent on the ground would signal the aircraft by flashing a prearranged code letter in Morse. The aircraft would respond by blinking back the appropriate code response letter. The agent and his men would then mark the field by lighting the three landing lights, which were flashlights attached to poles. The "A" lamp was at the base of the landing ground. 150 metres beyond it and into the wind was the "B" light, and 50 metres to the right of "B" was the "C" light. The three lights formed an inverted "L", with the "B" and "C" lights upwind from "A". With the code passed the pilot would land the aircraft. He then would taxi back to the "A" lamp, where the passengers would clamber down the fixed ladder to the ground, often while the pilot was making a slow U-turn. Before leaving the last passenger would hand off the luggage and then take aboard the outgoing luggage before climbing down the ladder as well. Then the outgoing passengers would climb aboard and the aircraft would take off. The whole exchange might take as little as 3 minutes.
 
@@ -239,8 +239,6 @@ Operations
 
 France
 
-Maquis_Haute_Savoie.jpg
-
 In France, most agents were directed by two London-based country sections. F Section was under SOE control, while RF Section was linked to Charles de Gaulle's Free French Government in exile. Most native French agents served in RF. Two smaller sections also existed: EU/P Section, which dealt with the Polish community in France, and the DF Section which was responsible for establishing escape routes. During the latter part of 1942 another section known as AMF was established in Algiers, to operate into Southern France.
 
 On 5 May 1941 Georges Bégué (1911–1993) became the first SOE agent dropped into German occupied France. Between Bégué's first drop in May 1941 and August 1944, more than four hundred F Section agents were sent into occupied France, with Andrée Borrel (1919–1944) being the first woman dropped into France on 24 September 1942. They served in a variety of functions including arms and sabotage instructors, couriers, circuit organisers, liaison officers and radio operators. RF sent about the same number; AMF sent 600 (although not all of these belonged to SOE). EU/P and DF sent a few dozen agents each.
@@ -253,7 +251,7 @@ It was to take many weeks for a full assessment of the contributions of the Jedb
 
 Poland
 
-Polish_Members_of_the_Special_Operations_Executive,_1942-1944,_view_1_-_Audley_End_House_-_Essex,_England_-_DSC09486.jpg]]
+]]
 
 SOE did not need to instigate Polish resistance, because unlike the Vichy French the Poles overwhelmingly refused to collaborate with the Nazis. Early in the war the Poles established the Polish Home Army, led by a clandestine resistance government known as the Polish Secret State. Nevertheless, many members of SOE were Polish and the SOE and the Polish resistance cooperated extensively.
 
@@ -333,7 +331,7 @@ SOE's envoy to Albania, Brigadier Edmund "Trotsky" Davies, was captured by the G
 
 Czechoslovakia
 
-Bundesarchiv_Bild_146-1972-039-44,_Heydrich-Attentat.jpg was assassinated]] SOE sent many missions into the Czech areas of the so-called Protectorate of Bohemia and Moravia, and later into Slovakia. The most famous mission was Operation Anthropoid, the assassination of SS-Obergruppenführer Reinhard Heydrich in Prague. From 1942 to 1943 the Czechoslovaks had their own Special Training School (STS) at Chicheley Hall in Buckinghamshire. In 1944, SOE sent men to support the Slovak National uprising.
+was assassinated]] SOE sent many missions into the Czech areas of the so-called Protectorate of Bohemia and Moravia, and later into Slovakia. The most famous mission was Operation Anthropoid, the assassination of SS-Obergruppenführer Reinhard Heydrich in Prague. From 1942 to 1943 the Czechoslovaks had their own Special Training School (STS) at Chicheley Hall in Buckinghamshire. In 1944, SOE sent men to support the Slovak National uprising.
 
 Norway
 
@@ -361,7 +359,7 @@ The neutral Spanish island of Fernando Po was the scene of Operation Postmaster,
 
 Southeast Asia
 
-War_in_the_Far_East_gallery.JPG London. Among the collection are a Japanese Good Luck Flag, operational map (numbered 11), photographs of Force 136 personnel and guerillas in Burma (15), a katana that was surrendered to a SOE officer in Gwangar, Malaya in September 1945 (7), and rubber soles designed by SOE to be worn under agents boots' to disguise footprints when landing on beaches (bottom left).]]
+London. Among the collection are a Japanese Good Luck Flag, operational map (numbered 11), photographs of Force 136 personnel and guerillas in Burma (15), a katana that was surrendered to a SOE officer in Gwangar, Malaya in September 1945 (7), and rubber soles designed by SOE to be worn under agents boots' to disguise footprints when landing on beaches (bottom left).]]
 
 As early as 1940, SOE was preparing plans for operations in Southeast Asia. As in Europe, after initial Allied military disasters, SOE built up indigenous resistance organisations and guerrilla armies in enemy (Japanese) occupied territory. SOE also launched _"Operation Remorse"_ (1944–45), which was ultimately aimed at protecting the economic and political status of Hong Kong. Force 136 engaged in covert trading of goods and currencies in China. Its agents proved remarkably successful, raising £77m through their activities, which were used to provide assistance for Allied prisoners of war and, more controversially, to buy influence locally to facilitate a smooth return to pre-war conditions.
 

@@ -1,4 +1,4 @@
-Serengeti_sunset-1001.jpg silhouetted by the setting sun near Seronera Camp]] Parks_Tanzania.svg
+silhouetted by the setting sun near Seronera Camp]]
 
 The SERENGETI () ecosystem is a geographical region in Africa. It is located in northern Tanzania. It spans approximately .
 
@@ -22,8 +22,6 @@ In the 21st century, mass rabies vaccination programmes for domestic dogs in the
 
 Great migration
 
-Wildebeest-during-Great-Migration.JPG Wildebeest_crossing_river_-_Stefan_Swanepoel.jpg
-
 Each year around the same time, the circular great wildebeest migration begins in the Ngorongoro Conservation Area of the southern Serengeti in Tanzania and loops in a clockwise direction through the Serengeti National Park and north towards the Masai Mara reserve in Kenya.[10] This migration is a natural phenomenon determined by the availability of grazing. The initial phase lasts from approximately January to March, when the calving season begins – a time when there is plenty of rain-ripened grass available for the 260,000 zebra that precede 1.7 million wildebeest and the following hundreds of thousands of other plains game, including around 470,000 gazelles.[11][12][13]
 
 During February, the wildebeest spend their time on the short grass plains of the southeastern part of the ecosystem, grazing and giving birth to approximately 500,000 calves within a 2 to 3-week period. Few calves are born ahead of time and of these, hardly any survive. The main reason is that very young calves are more noticeable to predators when mixed with older calves from the previous year. As the rains end in May, the animals start moving northwest into the areas around the Grumeti River, where they typically remain until late June. The crossings of the Grumeti and Mara rivers beginning in July are a popular safari attraction because crocodiles are lying in wait.[14] The herds arrive in Kenya in late July / August, where they stay for the remainder of the dry season, except that the Thomson's and Grant's gazelles move only east/west. In early November, with the start of the short rains the migration starts moving south again, to the short grass plains of the southeast, usually arriving in December in plenty of time for calving in February.[15]
@@ -32,8 +30,6 @@ About 250,000 wildebeest die during the journey from Tanzania to the Maasai Mara
 
 
 Ecology
-
-Lioness-in-the-Serengeti.JPG Eastern_Serengeti_2012_05_31_2866_(7522635772).jpg Serengeti_-_Stefan_Swanepoel.jpg
 
 The Serengeti has some of East Africa's finest game areas.[17] Besides being known for the great migration, the Serengeti is also famous for its abundant large predators. The ecosystem is home to over 3,000 lions (_Panthera leo_), 1,000 leopards (_Panthera pardus_),[18] and 7,700 to 8,700 spotted hyenas (_Crocuta crocuta)._[19].The East African cheetah are also present in Serengeti.
 

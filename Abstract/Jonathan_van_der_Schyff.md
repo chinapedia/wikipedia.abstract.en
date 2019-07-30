@@ -1,1 +1,0 @@
-JONATHAN VAN DER SCHYFF (born 23 May 1983 in Carletonville, South Africa) is a former South Africa Under-19 international rugby union player who played as a Flanker and lock for Glasgow Warriors and Currie.

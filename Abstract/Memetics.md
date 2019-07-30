@@ -1,1 +1,0 @@
-MEMETICS is the study of information and culture based on an analogy with Darwinian evolution. Proponents describe memetics as an approach to evolutionary models of cultural information transfer. Critics regard memetics as a pseudoscience. Memetics describes how an idea can propagate successfully, but doesn't necessarily imply a concept is factual.[1]

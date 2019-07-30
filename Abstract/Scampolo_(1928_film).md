@@ -1,1 +1,0 @@
-_SCAMPOLO_ is a 1928 German silent comedy film directed by Augusto Genina and starring Carmen Boni, Livio Pavanelli and Hans Junkermann. The film featured an early appearance from the future star Anna Magnani.[1] The story of Scampolo, a fictional street child from Rome, has been made into several films.

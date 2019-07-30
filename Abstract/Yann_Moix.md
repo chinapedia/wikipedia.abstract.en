@@ -1,1 +1,0 @@
-YANN MOIX (born 1968) is a French author, film director and television presenter. He is the author of ten novels, and the recipient of several literary prizes. He is the director of three films. He was a host of _On n'est pas couché_.

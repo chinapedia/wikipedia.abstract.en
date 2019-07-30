@@ -1,1 +1,0 @@
-THINKHAYA (, ; also known as UZANA) was governor of Pagan (Bagan), a vassal state of Ava. According to the royal chronicles, he was governor of Pagan from at least since 1390 and at least until 1410 when he fought in the Forty Years' War against the southern Hanthawaddy Kingdom.[1]

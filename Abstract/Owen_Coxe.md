@@ -1,1 +1,0 @@
-OWEN COXE-SIÖLÖW was an English captain in the Commonwealth navy who served in the Royal Swedish Navy 1658-1660, reaching vice-admiral's rank and being ennobled by the Swedish crown under the name SIÖLÖW.[1]

@@ -1,1 +1,0 @@
-JERZY KOSIŃSKI (; June 14, 1933 – May 3, 1991), born JÓZEF LEWINKOPF, was a Polish-American novelist and two-time President of the American Chapter of P.E.N., who wrote primarily in English. Born in Poland, he survived World War II and, as a young man, immigrated to the U.S., where he became a citizen.

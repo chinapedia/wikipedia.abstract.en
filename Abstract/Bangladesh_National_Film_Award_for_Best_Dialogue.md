@@ -1,1 +1,0 @@
-The BANGLADESH NATIONAL FILM AWARD FOR BEST DIALOGUE () is one of the most honourable film awards in Bangladesh. Since 1978, the awards have been given for best dialogue. The first award winner was Subhash Dutta.

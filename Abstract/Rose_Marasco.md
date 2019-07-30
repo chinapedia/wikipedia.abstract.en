@@ -1,1 +1,0 @@
-Rose_Marasco_Self_Portrait.jpg ROSE MARASCO (born December 25, 1948), is an American photographer. She is Distinguished Professor Emerita at the University of Southern Maine, and is thought to be Maine’s “most prolific photographer,” living and working there since 1979.[1]

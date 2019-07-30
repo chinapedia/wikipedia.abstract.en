@@ -1,1 +1,0 @@
-DONALD LESLIE HANCOCK (known as DON HANCOCK) (5 January 1937 – 1 September 2001) was a Western Australian policeman, who was at the centre of doubts involving the investigation of the Perth Mint Swindle.

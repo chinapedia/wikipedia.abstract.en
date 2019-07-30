@@ -1,1 +1,0 @@
-_KEEP YOUR ENEMIES CLOSE_ is a British children's game show that tests best friends by wrenching them apart and forcing them to keep their enemies close and work with their rivals instead. To get ahead, the friends must compete alongside their enemies and tackle challenges in the name of friendship.

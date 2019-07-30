@@ -1,1 +1,0 @@
-INDIA competed at the 2016 Asian Beach Games held in Danang, Vietnam from 24 September to 3 October 2016. The Indian Olympic Association sent a larger contingent than previous game as 208 athletes participated in 13 different games at the fifth edition of beach games.[1] India finished at 16th position, winning 2 Gold, 4 Silver and 18 Bronze medals.[2]

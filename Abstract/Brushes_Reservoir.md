@@ -1,1 +1,0 @@
-Brushes_Reservoir_-_geograph.org.uk_-_48681.jpg BRUSHES RESERVOIR is the second lowest reservoir of a series of four in the Brushes valley above Stalybridge in Greater Manchester.[1] It was built in the 19th century to provide a supply of safe drinking water. It is owned and operated by United Utilities. The reservoir dam consists of a clay core within an earth embankment.

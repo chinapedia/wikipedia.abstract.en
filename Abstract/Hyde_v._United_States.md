@@ -1,1 +1,0 @@
-_HYDE V. UNITED STATES_, 225 U.S. 347 (1912), is a United States Supreme Court criminal case interpreting attempt.[1] The court held that for an act to be a criminal attempt, it must be so near the result that the danger of its success must be very large.[2] The court wrote, "There must be a dangerous proximity to success."[3]

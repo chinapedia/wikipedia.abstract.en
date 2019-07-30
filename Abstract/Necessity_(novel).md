@@ -1,1 +1,0 @@
-_NECESSITY_ is a fantasy/science fiction novel by the Welsh-Canadian author Jo Walton, published by Tor Books in 2016. It is the conclusion of the _Thessaly trilogy_, and the sequel to _The Just City_ and _The Philosopher Kings_, which were both published in 2015.

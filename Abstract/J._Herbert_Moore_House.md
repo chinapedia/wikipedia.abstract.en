@@ -1,1 +1,0 @@
-J. HERBERT MOORE HOUSE is a historic home located at Poplar Bluff, Butler County, Missouri. It was built in 1938, and is a two-story, irregular plan, International Style dwelling of wood and concrete construction with a stuccoed exterior. It has an attached garage and carport. It features original multi-light steel casement windows and original structural glass blocks.[1]

@@ -1,1 +1,0 @@
-, is a professional wrestling stable in Pro Wrestling Zero1 (ZERO1). It was originally formed by Masato Tanaka, Yusaku Obata, and Daichi Hashimoto. Other members have included Ikuto Hidaka, Fujita Hayato, Takashi Sugiura, Isami Kodaka, and Yuko Miyamoto.

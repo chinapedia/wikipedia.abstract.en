@@ -1,1 +1,0 @@
-The PENNYPACK TRAIL is a rail trail located in eastern Montgomery County, Pennsylvania in the United States. The trail runs from Rockledge north to Byberry Road near Bryn Athyn along the former alignment of SEPTA's Fox Chase-Newtown Line. The trail is maintained by the Montgomery County Division of Parks, Trails, & Historic Sites.

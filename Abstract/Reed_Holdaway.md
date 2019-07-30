@@ -1,1 +1,0 @@
-REED HOLDAWAY (June 7, 1917 – February 28, 2009) was an American orthodontist who is known for developing the Holdaway soft tissue analysis. He was past president of the American Board of Orthodontists and Rocky Mountain Association of Orthodontists.[1]

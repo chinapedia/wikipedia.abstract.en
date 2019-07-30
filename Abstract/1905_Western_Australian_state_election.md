@@ -1,1 +1,0 @@
-Elections were held in the Australian state of Western Australia in late 1905 to elect 50 members to the state's Legislative Assembly. The main polling day was 27 October, although four remote electorates (Dundas, Gascoyne, Kimberley, and Pilbara) went to the polls on 13 November.

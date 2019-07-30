@@ -1,1 +1,0 @@
-NORMAN HACKERMAN (March 2, 1912 – June 16, 2007) was an American chemist, professor, and academic administrator who served as the 18th President of the University of Texas at Austin (1967–1970)[1] and later as the 4th President of Rice University (1970–1985).[2] He was an internationally known expert in metal corrosion.[3]

@@ -1,4 +1,4 @@
-Surfing_on_the_Gold_Coast.jpg, Queensland, Australia]] SURFING is a surface water sport in which the wave rider, referred to as a surfer, rides on the forward or face of a moving wave, which usually carries the surfer towards the shore. Waves suitable for surfing are primarily found in the ocean, but can also be found in lakes or rivers in the form of a standing wave or tidal bore. However, surfers can also utilize artificial waves such as those from boat wakes and the waves created in artificial wave pools. Synchronised_surfing,Manly_beach,_New_South_Wales,_1938-46_(6519242455).jpg, New South Wales, Australia, 1938–46]] The term _surfing_ refers to the act of riding a wave, regardless of whether the wave is ridden with a board or without a board, and regardless of the stance used. The native peoples of the Pacific, for instance, surfed waves on alaia, paipo, and other such craft, and did so on their belly and knees. The modern-day definition of surfing, however, most often refers to a surfer riding a wave standing up on a surfboard; this is also referred to as stand-up surfing.
+, Queensland, Australia]] SURFING is a surface water sport in which the wave rider, referred to as a surfer, rides on the forward or face of a moving wave, which usually carries the surfer towards the shore. Waves suitable for surfing are primarily found in the ocean, but can also be found in lakes or rivers in the form of a standing wave or tidal bore. However, surfers can also utilize artificial waves such as those from boat wakes and the waves created in artificial wave pools. , New South Wales, Australia, 1938–46]] The term _surfing_ refers to the act of riding a wave, regardless of whether the wave is ridden with a board or without a board, and regardless of the stance used. The native peoples of the Pacific, for instance, surfed waves on alaia, paipo, and other such craft, and did so on their belly and knees. The modern-day definition of surfing, however, most often refers to a surfer riding a wave standing up on a surfboard; this is also referred to as stand-up surfing.
 
 Another prominent form of surfing is body boarding, when a surfer rides a wave on a bodyboard, either lying on their belly, drop knee, or sometimes even standing up on a body board. Other types of surfing include knee boarding, surf matting (riding inflatable mats), and using foils. Body surfing, where the wave is surfed without a board, using the surfer's own body to catch and ride the wave, is very common and is considered by some to be the purest form of surfing.
 
@@ -28,8 +28,6 @@ In 1975, a professional tour started.[9] That year Margo Oberg became the first 
 
 Surf waves
 
-A_surfer_in_the_air.jpg A surfer inside the barrel of a wave Surfers_at_Mavericks.jpg
-
 Swell is generated when the wind blows consistently over a large area of open water, called the wind's fetch. The size of a swell is determined by the strength of the wind and the length of its fetch and duration. Because of this, surf tends to be larger and more prevalent on coastlines exposed to large expanses of ocean traversed by intense low pressure systems.
 
 Local wind conditions affect wave quality since the surface of a wave can become choppy in blustery conditions. Ideal conditions include a light to moderate "offshore" wind, because it blows into the front of the wave, making it a "barrel" or "tube" wave. Waves are Left handed and Right Handed depending upon the breaking formation of the wave.
@@ -50,7 +48,7 @@ The availability of free model data from the NOAA has allowed the creation of se
 
 Wave intensity
 
-Wavemodel.jpg of tube shape can be represented as a ratio between length and width.]]
+of tube shape can be represented as a ratio between length and width.]]
 
 Tube shape is defined by length to width ratio. A perfectly cylindrical vortex has a ratio of 1:1. Other forms include:
 
@@ -81,8 +79,6 @@ An artificial reef known as Chevron Reef was constructed in El Segundo, Californ
 
 Artificial waves
 
-Surf_IMG_0949_(3120282731).jpg
-
 Even with artificial reefs in place, a tourist's vacation time may coincide with a "flat spell", when no waves are available. Completely artificial Wave pools aim to solve that problem by controlling all the elements that go into creating perfect surf, however there are only a handful of wave pools that can simulate good surfing waves, owing primarily to construction and operation costs and potential liability. Most wave pools generate waves that are too small and lack the power necessary to surf. The Seagaia Ocean Dome, located in Miyazaki, Japan, was an example of a surfable wave pool. Able to generate waves with up to faces, the specialized pump held water in 20 vertical tanks positioned along the back edge of the pool. This allowed the waves to be directed as they approach the artificial sea floor. Lefts, Rights, and A-frames could be directed from this pump design providing for rippable surf and barrel rides. The Ocean Dome cost about $2 billion to build and was expensive to maintain.[14] The Ocean Dome was closed in 2007. In England, construction is nearing completion on the Wave,[15] situated near Bristol, which will enable people unable to get to the coast to enjoy the waves in a controlled environment, set in the heart of nature.
 
 There are two main types of artificial waves that exist today. One being artificial or stationary waves which simulate a moving, breaking wave by pumping a layer of water against a smooth structure mimicking the shape of a breaking wave. Because of the velocity of the rushing water the wave and the surfer can remain stationary while the water rushes by under the surfboard. Artificial waves of this kind provide the opportunity to try surfing and learn its basics in a moderately small and controlled environment near or far from locations with natural surf.
@@ -92,7 +88,7 @@ Another artificial wave can be made through use of a wave pool such as Kelly Sla
 
 Surfers and surf culture
 
-Shaka-sign.png|thumb|alt=Photo of back of human wrist and hand. The thumb and pinkie are extended and the other fingers are folded against the palm.]]
+|thumb|alt=Photo of back of human wrist and hand. The thumb and pinkie are extended and the other fingers are folded against the palm.]]
 
 Surfers represent a diverse culture based on riding the waves. Some people practice surfing as a recreational activity while others make it the central focus of their lives. Surfing culture is most dominant in Hawaii and California because these two states offer the best surfing conditions. However, waves can be found wherever there is coastline, and a tight-knit yet far-reaching subculture of surfers has emerged throughout America. Some historical markers of the culture included the woodie, the station wagon used to carry surfers' boards, as well as boardshorts, the long swim shorts typically worn while surfing. Surfers also wear wetsuits in colder regions.
 
@@ -109,7 +105,7 @@ Many surfers claim to have a spiritual connection with the ocean, describing sur
 
 Maneuvers
 
-A surfer at Mavericks (location)|thumb Big_wave_breaking_in_Santa_Cruz.jpg Surfing_contest_-_oahu_hawaii_-_north_shore_-_oct_2015.ogv of Oahu, Hawaii.]]
+of Oahu, Hawaii.]]
 
 Standup surfing begins when the surfer paddles toward shore in an attempt to match the speed of the wave (The same applies whether the surfer is standup paddling, bodysurfing, boogie-boarding or using some other type of watercraft, such as a waveski or kayak.). Once the wave begins to carry the surfer forward, the surfer stands up and proceeds to ride the wave. The basic idea is to position the surfboard so it is just ahead of the breaking part (whitewash) of the wave. A common problem for beginners is being able to catch the wave at all.
 
@@ -161,7 +157,7 @@ The repetitive cycle of paddling, popping up, and balancing requires stamina, ex
 
 Equipment
 
-Waxing_a_surfboard.jpg a surfboard|alt=Photo of woman bent over surfboard rubbing bar of solid wax against the board with palm trees and ocean in background]] Surf_Leash.JPG|alt=Photo of plastic cord attached to surfboard and velcroed around surfer's ankle]]
+a surfboard|alt=Photo of woman bent over surfboard rubbing bar of solid wax against the board with palm trees and ocean in background]] |alt=Photo of plastic cord attached to surfboard and velcroed around surfer's ankle]]
 
 Surfing can be done on various equipment, including surfboards, longboards, Stand Up Paddle boards (SUP's), bodyboards, wave skis, skimboards, kneeboards, surf mats and macca's trays. Surfboards were originally made of solid wood and were large and heavy (often up to long and having a mass of ). Lighter balsa wood surfboards (first made in the late 1940s and early 1950s) were a significant improvement, not only in portability, but also in increasing maneuverability.
 
@@ -169,7 +165,7 @@ Most modern surfboards are made of fiberglass foam (PU), with one or more wooden
 
 Other equipment includes a leash (to stop the board from drifting away after a wipeout, and to prevent it from hitting other surfers), surf wax, traction pads (to keep a surfer's feet from slipping off the deck of the board), and fins (also known as _skegs_) which can either be permanently attached (_glassed-on_) or interchangeable. Sportswear designed or particularly suitable for surfing may be sold as _boardwear_ (the term is also used in snowboarding). In warmer climates, swimsuits, surf trunks or boardshorts are worn, and occasionally rash guards; in cold water surfers can opt to wear wetsuits, boots, hoods, and gloves to protect them against lower water temperatures. A newer introduction is a rash vest with a thin layer of titanium to provide maximum warmth without compromising mobility. In recent years, there have been advancements in technology that have allowed surfers to pursue even bigger waves with added elements of safety. Big wave surfers are now experimenting with inflatable vests or colored dye packs to help decrease their odds of drowning.[25]
 
-1999_-_Surf_à_Waikiki_Beach_Honolulu_Hawaï.jpg|alt=Photo of dozens of surfboards on rack. Each board is perpendicular to the ground and parallel to the other boards. Ocean in background.]]
+|alt=Photo of dozens of surfboards on rack. Each board is perpendicular to the ground and parallel to the other boards. Ocean in background.]]
 
 There are many different surfboard sizes, shapes, and designs in use today. Modern longboards, generally in length, are reminiscent of the earliest surfboards, but now benefit from modern innovations in surfboard shaping and fin design. Competitive longboard surfers need to be competent at traditional _walking_ manoeuvres, as well as the short-radius turns normally associated with shortboard surfing. The modern shortboard began life in the late 1960s and has evolved into today's common _thruster_ style, defined by its three fins, usually around in length. The thruster was invented by Australian shaper Simon Anderson.
 
@@ -298,7 +294,7 @@ Surfing, like all water sports, carries the inherent risk of drowning.[76] Anyon
 
 Collisions
 
-Surfer_in_santa_cruz_14.jpg|alt=Photo of surfer catapulted into the air with feet higher than head at 45 degree angle to surface]] Under the wrong set of conditions, anything that a surfer's body can come in contact with is a potential hazard, including sand bars, rocks, small ice, reefs, surfboards, and other surfers.[81] Collisions with these objects can sometimes cause injuries such as cuts and scrapes and in rare instances, death.
+|alt=Photo of surfer catapulted into the air with feet higher than head at 45 degree angle to surface]] Under the wrong set of conditions, anything that a surfer's body can come in contact with is a potential hazard, including sand bars, rocks, small ice, reefs, surfboards, and other surfers.[81] Collisions with these objects can sometimes cause injuries such as cuts and scrapes and in rare instances, death.
 
 A large number of injuries, up to 66%,[82] are caused by collision with a surfboard (nose or fins). Fins can cause deep lacerations and cuts,[83] as well as bruising. While these injuries can be minor, they can open the skin to infection from the sea; groups like Surfers Against Sewage campaign for cleaner waters to reduce the risk of infections. Local bugs and disease can be risk factors when surfing around the globe.[84]
 
@@ -306,7 +302,7 @@ Falling off a surfboard or colliding with others is commonly referred to as a _w
 
 Marine life
 
-Rip_Current_Warning_Sign.jpg Sea life can sometimes cause injuries and even fatalities. Animals such as sharks,[85] stingrays, Weever fish, seals and jellyfish can sometimes present a danger.[86] Warmer-water surfers often do the "stingray shuffle" as they walk out through the shallows, shuffling their feet in the sand to scare away stingrays that may be resting on the bottom.[87]
+Sea life can sometimes cause injuries and even fatalities. Animals such as sharks,[85] stingrays, Weever fish, seals and jellyfish can sometimes present a danger.[86] Warmer-water surfers often do the "stingray shuffle" as they walk out through the shallows, shuffling their feet in the sand to scare away stingrays that may be resting on the bottom.[87]
 
 Rip currents
 
@@ -322,13 +318,13 @@ A January 2018 study by the University of Exeter called the "Beach Bum Survey" f
 
 Ear damage
 
-Man_Wearing_Molded_Ear_Plugs.jpg.]] Surfers should use ear protection such as ear plugs to avoid surfer's ear, inflammation of the ear or other damage. Surfer's ear is where the bone near the ear canal grows after repeated exposure to cold water, making the ear canal narrower. The narrowed canal makes it harder for water to drain from the ear. This can result in pain, infection and sometimes ringing of the ear. If surfer's ear develops it does so after repeated surfing sessions. Yet, damage such as inflammation of the ear can occur after only surfing once. This can be caused by repeatedly falling off the surfboard into the water and having the cold water rush into the ears, which can exert a damaging amount of pressure. Those with sensitive ears should therefore wear ear protection, even if they are not planning to surf very often.[91]
+.]] Surfers should use ear protection such as ear plugs to avoid surfer's ear, inflammation of the ear or other damage. Surfer's ear is where the bone near the ear canal grows after repeated exposure to cold water, making the ear canal narrower. The narrowed canal makes it harder for water to drain from the ear. This can result in pain, infection and sometimes ringing of the ear. If surfer's ear develops it does so after repeated surfing sessions. Yet, damage such as inflammation of the ear can occur after only surfing once. This can be caused by repeatedly falling off the surfboard into the water and having the cold water rush into the ears, which can exert a damaging amount of pressure. Those with sensitive ears should therefore wear ear protection, even if they are not planning to surf very often.[91]
 
 Ear plugs designed for surfers, swimmers and other water athletes are primarily made to keep water out of the ear, thereby letting a protective pocket of air stay inside the ear canal. They can also block cold air, dirt and bacteria. Many designs are made to let sound through, and either float and/or have a leash in case the plug accidentally gets bumped out.[92][93]
 
 Eye damage
 
-Seal_Swim_Goggles.jpg made by AquaSphere.]] Surfer's eye (_Pterygium (conjunctiva)_) is a gradual tissue growth on the cornea of the eye which ultimately can lead to vision loss. The cause of the condition is unclear, but appears to be partly related to long term exposure to UV light, dust and wind exposure. Prevention may include wearing sunglasses and a hat if in an area with strong sunlight. Surfers and other water-sport athletes should therefore wear eye protection that blocks 100% of the UV rays from the water, as is often used by snow-sport athletes. Surf goggles often have a head strap and ventilation to avoid fogging[94][95]
+made by AquaSphere.]] Surfer's eye (_Pterygium (conjunctiva)_) is a gradual tissue growth on the cornea of the eye which ultimately can lead to vision loss. The cause of the condition is unclear, but appears to be partly related to long term exposure to UV light, dust and wind exposure. Prevention may include wearing sunglasses and a hat if in an area with strong sunlight. Surfers and other water-sport athletes should therefore wear eye protection that blocks 100% of the UV rays from the water, as is often used by snow-sport athletes. Surf goggles often have a head strap and ventilation to avoid fogging[94][95]
 
 Users of contact lenses should take extra care, and may consider wearing surfing goggles. Some risks of exposing contact lenses to the elements that can cause eye damage or infections are sand or organisms in the sea water getting between the eye and contact lens, or that lenses might fold.[96][97]
 

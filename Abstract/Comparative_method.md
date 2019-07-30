@@ -1,1 +1,0 @@
-Romance-lg-classification-en.svg of the Romance languages based on the comparative method. Here the family tree has been rendered as an Euler diagram without overlapping subareas. The wave model allows overlapping regions.]]

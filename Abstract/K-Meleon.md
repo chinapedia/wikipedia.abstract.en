@@ -1,1 +1,0 @@
-K-MELEON is an open-source web browser for Microsoft Windows. Based on the same Gecko layout engine as Mozilla Firefox and SeaMonkey, K-Meleon's design goal is to provide a fast and reliable web browser while providing a highly customizable interface and using system resources efficiently. It is released under the GNU General Public License.

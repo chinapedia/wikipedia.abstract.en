@@ -1,1 +1,0 @@
-ALSAT-2A is an Algerian satellite operated by the Algerian Space Agency for cartography, management of agriculture, forestry, water, mineral and oil resources.[1] The satellite weighs and carries an earth optical payload.

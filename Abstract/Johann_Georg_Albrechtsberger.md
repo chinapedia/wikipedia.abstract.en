@@ -1,1 +1,0 @@
-Johann_Georg_Albrechtsberger.jpg]] JOHANN GEORG ALBRECHTSBERGER (3 February 1736 – 7 March 1809)[1] was an Austrian composer, organist, and music theorist and one of the teachers of Ludwig van Beethoven.

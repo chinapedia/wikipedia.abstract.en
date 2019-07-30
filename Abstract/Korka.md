@@ -1,1 +1,0 @@
-KORKA or Kodka is a village in the Tehsil of Raniwara, Jalore District, Rajasthan State, India. It belongs to Jodhpur division. It is located 66 KM south of the district headquarters in Jalore and 486 KM from the state capital Jaipur.

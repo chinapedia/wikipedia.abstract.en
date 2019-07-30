@@ -1,1 +1,0 @@
-Emmanuel_Navon.png EMMANUEL NAVON (; born Emmanuel Mréjen January 21, 1971) is a French-born Israeli political scientist and foreign policy expert who teaches at Tel-Aviv University[1] and at the Interdisciplinary Center Herzliya.[2] He is a senior fellow at the Kohelet Policy Forum and a senior analyst for i24news.[3][4]

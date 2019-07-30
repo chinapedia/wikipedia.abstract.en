@@ -1,1 +1,0 @@
-ASTURIAN NATIONALIST UNITY (Asturian language: _Unidá Nacionalista Asturiana_, UNA), was a political party in Asturias, Spain, formed by the merger of two previous parties (Ensame Nacionalista Astur and Xunta Nacionalista Asturiana), in 1988. UNA was an Asturian nationalist and socialist party.[1]

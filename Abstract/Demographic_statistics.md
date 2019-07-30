@@ -1,1 +1,0 @@
-DEMOGRAPHIC STATISTICS are measures of the characteristics of, or changes to, a population. Records of births, deaths, marriages, immigration and emigration and a regular census of population provide information that is key to making sound decisions about national policy.

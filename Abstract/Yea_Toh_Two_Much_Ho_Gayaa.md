@@ -1,1 +1,0 @@
-_YEA TOH TWO MUCH HO GAYA_ () is a 2016 Indian Comedy action drama movie directed by Anwer Khan. It features Jimmy Sheirgill, Arbaaz Khan, Bruna Abdullah and Pooja Chopra in lead roles. The film released on 2 September 2016.[1]

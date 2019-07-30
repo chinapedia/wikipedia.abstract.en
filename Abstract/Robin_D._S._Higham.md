@@ -1,1 +1,0 @@
-ROBIN DAVID STEWART HIGHAM (20 June 1925 in London – 27 August 2015 in Manhattan, Kansas) was a pilot with the Royal Canadian Air Force during World War II and an American historian, specializing in aerospace and military history.[1]

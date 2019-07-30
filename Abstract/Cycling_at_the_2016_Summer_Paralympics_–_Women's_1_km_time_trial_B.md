@@ -1,1 +1,0 @@
-The WOMEN'S 1 KM TIME TRIAL B track cycling event at the 2016 SUMMER PARALYMPICS took place on September 10. This class was for blind and visually impaired cyclists riding with a sighted pilot. Fourteen pairs from 10 different nations competed.[1]

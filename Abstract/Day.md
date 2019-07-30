@@ -1,1 +1,0 @@
-A DAY is approximately the period of time during which the Earth completes one rotation around its axis.[1] A solar day is the length of time which elapses between the Sun reaching its highest point in the sky two consecutive times.[2]

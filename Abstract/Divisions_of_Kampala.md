@@ -1,1 +1,0 @@
-The city of Kampala, Uganda's capital, is administered by the Kampala Capital City Authority (KCCA). KCCA is administratively divided into five divisions, each headed by a mayor. The whole city is then headed by the Lord Mayor. The current Lord Mayor of Kampala is Erias Lukwago.[1][2]

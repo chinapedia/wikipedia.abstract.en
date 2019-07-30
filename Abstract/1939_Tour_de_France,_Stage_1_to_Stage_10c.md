@@ -1,1 +1,0 @@
-Tour_de_France_1939.png The 1939 Tour de France was the 33rd edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris with a flat stage on 10 July, and Stage 10c occurred on 21 July with a flat stage to Montpellier. The race finished in Paris on 30 July.

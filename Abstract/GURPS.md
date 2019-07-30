@@ -1,1 +1,0 @@
-The _GENERIC UNIVERSAL ROLEPLAYING SYSTEM_, or _GURPS_, is a tabletop role-playing game system designed to allow for play in any game setting. It was created by Steve Jackson Games and first published in 1986 at a time when most such systems were story- or genre-specific.

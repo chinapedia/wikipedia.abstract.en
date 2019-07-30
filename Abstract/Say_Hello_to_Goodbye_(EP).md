@@ -1,1 +1,0 @@
-_SAY HELLO TO GOODBYE_ is the first extended play and debut release on a record label by Canadian singer-songwriter Alee. It was released through Wax Records on July 10, 2015.[1] The EP has spawned four singles, including "Moonshine", which was Alee's first Top-20 hit on the _Billboard_ Canada Country airplay chart.

@@ -1,1 +1,0 @@
-The 2017 SIOUX FALLS STORM SEASON was the team's eighteenth season as a professional indoor football franchise and ninth in the Indoor Football League (IFL). One of ten teams that competed in the IFL for the 2017 season, the Storm were members of the United Conference.

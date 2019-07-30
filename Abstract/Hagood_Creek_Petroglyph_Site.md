@@ -1,1 +1,0 @@
-HagoodMillPetrogylphs.jpg

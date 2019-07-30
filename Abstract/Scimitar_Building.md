@@ -1,1 +1,0 @@
-SCIMITAR BUILDING, also known as the MEMPHIS LIGHT, GAS, AND WATER BUILDING, WINCHESTER BUILDING and most recently HOTEL NAPOLEON, is a five-story stone-veneer structure in a combination of Beaux-Arts and Romanesque Revival styles. It started life as the home of the Memphis newspaper _Evening Scimitar_ and is currently a boutique hotel.

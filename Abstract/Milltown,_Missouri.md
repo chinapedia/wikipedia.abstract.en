@@ -1,1 +1,0 @@
-MILLTOWN is an unincorporated community in western Butler County, Missouri.[1][2] Milltown is located on Hurricane Creek about two miles west of its confluence with Tenmile Creek.[3] It is within the Mark Twain National Forest about ten miles west of Poplar Bluff.[4]

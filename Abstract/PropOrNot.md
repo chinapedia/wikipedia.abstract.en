@@ -1,1 +1,0 @@
-PROPORNOT is a website that seeks to expose Russian propaganda and those groups that use material from Russian sources. It has been featured in _The Washington Post_ about Russian propaganda and the spread of fake news. PropOrNot's methods and anonymity have received criticism from publications such as _The New Yorker_, _Harper's_, _Fortune_, _The Intercept_, and _Rolling Stone_.

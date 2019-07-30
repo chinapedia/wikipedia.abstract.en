@@ -1,1 +1,0 @@
-The PEPSI P1 and PEPSI P1S are Android smartphones manufactured by Koobee[1], an OEM, under licence from PepsiCo.[2][3] and were only available through a crowdfunding campaign on Chinese crowdfunding site JD.com.

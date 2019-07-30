@@ -1,1 +1,0 @@
-MILLENNIALISM (from millennium, Latin for "a thousand years"), or CHILIASM (from the Greek equivalent), is a belief advanced by some religious denominations that a Golden Age or Paradise will occur on Earth prior to the final judgment and future eternal state of the "World to Come".

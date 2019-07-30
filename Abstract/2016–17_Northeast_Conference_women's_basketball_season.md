@@ -1,1 +1,0 @@
-The 2016–17 NEC WOMEN'S BASKETBALL SEASON began with practices in October 2016, followed by the start of the 2016–17 NCAA Division I women's basketball season in November. Conference play started in late December 2016 and concluded in March with the 2017 Northeast Conference Women's Basketball Tournament.

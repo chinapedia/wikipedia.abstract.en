@@ -1,1 +1,0 @@
-The MOLUCCAN MONARCH (_Symposiachrus bimaculatus_) is a species of bird in the family Monarchidae. It is found in Indonesia. Its natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical moist montane forests.

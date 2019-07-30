@@ -1,1 +1,0 @@
-_THE LITTLE ACRE_ is an adventure game developed by Pewter Games Studios with Charles Cecil and published by Curve Digital.[1][2][3][4] It was released on PlayStation 4, Xbox One and Steam on December 13, 2016.[5][6][7][8] It was originally planned to be released November 22, 2016.[9]

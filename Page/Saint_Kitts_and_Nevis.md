@@ -9,7 +9,7 @@ Saint Kitts and Nevis were among the first islands in the Caribbean to be settle
 
 Etymology
 
-Nevispeak1.jpg Saint Kitts was named "Liamuiga", which roughly translates as "fertile land", by the Kalinago who originally inhabited the island. The name is preserved via St. Kitts's tallest peak, Mount Liamuiga. Nevis's pre-Columbian name was "Oualie", meaning "land of beautiful waters".
+Saint Kitts was named "Liamuiga", which roughly translates as "fertile land", by the Kalinago who originally inhabited the island. The name is preserved via St. Kitts's tallest peak, Mount Liamuiga. Nevis's pre-Columbian name was "Oualie", meaning "land of beautiful waters".
 
 It is thought that Christopher Columbus, the first European to see the islands in 1493, named the larger island _San Cristóbal_, after Saint Christopher, his patron saint and the patron hallow of travellers. New studies suggest that Columbus named the island _Sant Yago_ (Saint James), and that the name "San Cristóbal" was in fact given by Columbus to the island now known as Saba, northwest. It seems that "San Cristóbal" came to be applied to the island of St. Kitts only as of the result of a mapping error. No matter the origin of the name, the island was well documented as "San Cristóbal" by the 17th century.[8] The first English colonists kept the English translation of this name, and dubbed it "St. Christopher's Island". In the 17th century, a common nickname for Christopher was Kit(t), hence the island came to be informally referred to as "Saint Kitt's Island", later further shortened to "Saint Kitts".[9]
 
@@ -20,7 +20,7 @@ Today the Constitution refers to the state as both "Saint Kitts and Nevis" and "
 
 History
 
-Spanish_capture_of_St_Kitts.jpg]]
+]]
 
 Pre-colonial period
 
@@ -40,7 +40,7 @@ British colonial period
 
 The colony had recovered by the turn of the 18th century, and by the close of the 1700s St. Kitts had become the richest British Crown Colony per capita in the Caribbean as result of its slave-based sugar industry.[36] The 18th century also saw Nevis, formerly the richer of the two islands, being eclipsed by St Kitts in economic importance.[37][38]
 
-BrimstoneHill01.jpg As Britain became embroiled in war with its American colonies, the French decided to use the opportunity to re-capture St Kitts in 1782, however the attack was repulsed and St Kitts was recognised as British territory in the Treaty of Paris (1783).[39][40]
+As Britain became embroiled in war with its American colonies, the French decided to use the opportunity to re-capture St Kitts in 1782, however the attack was repulsed and St Kitts was recognised as British territory in the Treaty of Paris (1783).[39][40]
 
 The African slave trade was terminated within the British Empire in 1807, and slavery outlawed completely in 1834. A four-year "apprenticeship" period followed for each slave, in which they worked for their former owners for wages. On Nevis 8,815 slaves were freed in this way, while St. Kitts had 19,780 freed.[41][42]
 
@@ -50,7 +50,7 @@ After a brief period as part of the West Indies Federation (1958-62), the island
 
 Post independence era
 
-Denzil_L_Douglas.jpg Kennedy Simmonds went on to win elections in 1984, 1989 and 1993, before being unseated when the SKNLP returned to power in 1995 under Denzil Douglas.[57][58]
+Kennedy Simmonds went on to win elections in 1984, 1989 and 1993, before being unseated when the SKNLP returned to power in 1995 under Denzil Douglas.[57][58]
 
 In Nevis, growing discontent with their perceived marginalisation within the federation[59] led to a referendum to separate from St. Kitts in 1998, which though resulting a 62% vote to secede, fell short of the required two-thirds majority to be legally enacted.[60][61][62]
 
@@ -61,7 +61,7 @@ The 2015 Saint Kitts and Nevis general election was won by Timothy Harris and hi
 
 Politics
 
-Government_House,_Basseterre.jpg, Basseterre, is the official residence of the Governor-General of Saint Kitts and Nevis.]] Saint_Kitts_and_Nevis_Government_building_2.JPG The_Museum_of_Nevis_History_-_Alexander_Hamilton_birthplace.jpg
+, Basseterre, is the official residence of the Governor-General of Saint Kitts and Nevis.]]
 
 Saint Kitts and Nevis is a sovereign, democratic and federal state.[65] The Queen of Saint Christopher and Nevis, Elizabeth II, is its head of state.[66] The Queen is represented in the country by a Governor-General, who acts on the advice of the Prime Minister and the Cabinet. The Prime Minister is the leader of the majority party of the House, and the cabinet conducts affairs of state. The country may also be described by the unofficial term, "Commonwealth realm", because it is a constitutional monarchy which shares the same monarch as fifteen other members of the Commonwealth of Nations.
 
@@ -124,7 +124,7 @@ The federation of Saint Kitts and Nevis is divided into fourteen parishes: nine 
 
 Geography
 
-Saint_Kitts_and_Nevis-CIA_WFB_Map.png Stkitts-view-lookingatsea.jpg island from the southeastern peninsula of Saint Kitts]]
+island from the southeastern peninsula of Saint Kitts]]
 
 The country consists of two main islands, Saint Kitts and Nevis, separated at a distance of 2 miles (3km) by The Narrows strait.[77] Both are of volcanic origin, with large central peaks covered in tropical rainforest.[78] The majority of the population live along the flatter coastal areas.[79] St Kitts contains several mountain ranges (the North West Range, Central Range and South-West Range) in its centre, where the highest peak of the country, Mount Liamuiga can be found.[80] Along the east coast can be found the Canada Hills and Conaree Hills. The land narrows considerably in the south-east, forming a much flatter peninsula which contains the largest body of water, the Great Salt Pond.To the southeast, in The Narrows, lies the small isle of Booby Island. There are numerous rivers descending from the mountains of both islands, which provide fresh water to the local population. Nevis, the smaller of two main islands and roughly circular in shape, is dominated by Nevis Peak .[81]
 
@@ -138,8 +138,6 @@ By the Köppen climate classification, St. Kitts has a tropical savanna climate 
 
 
 Demographics
-
-Downtown_Basseterre,_St._Kitts.jpg
 
 Population
 
@@ -164,7 +162,7 @@ Most inhabitants (82%) are Christians, mainly Anglicans and other Protestants de
 
 Culture
 
-MongoosePlay.jpg'', a popular production of folk theatre and music]]
+'', a popular production of folk theatre and music]]
 
 English is the sole official language. Saint Kitts Creole is also widely spoken.
 
@@ -193,7 +191,7 @@ St. Kitts and Nevis had two athletes ride in the time trial at the 2010 UCI Road
 
 Economy
 
-Basseterre_from_sea_2.JPG]] Saint Kitts and Nevis is a twin-island federation whose economy is characterised by its dominant tourism, agriculture, and light manufacturing industries.[97] Sugar was the primary export from the 1940s on, but rising production costs, low world market prices, and the government's efforts to reduce dependence on it have led to a growing diversification of the agricultural sector. In 2005, the government decided to close down the state-owned sugar company, which had experienced losses and was a significant contributor to the fiscal deficit.[98][99]
+]] Saint Kitts and Nevis is a twin-island federation whose economy is characterised by its dominant tourism, agriculture, and light manufacturing industries.[97] Sugar was the primary export from the 1940s on, but rising production costs, low world market prices, and the government's efforts to reduce dependence on it have led to a growing diversification of the agricultural sector. In 2005, the government decided to close down the state-owned sugar company, which had experienced losses and was a significant contributor to the fiscal deficit.[98][99]
 
 St. Kitts and Nevis is heavily dependent upon tourism to drive its economy, a sector which has expanded significantly since the 1970s.[100][101] In 2009 there were 587,479 arrivals to Saint Kitts compared to 379,473 in 2007, an increase of just under 40% in a two-year period,however the tourist sector decreased during the Global financial crisis and has only recently returned to pre-crash levels.[102] In recent years the government has sought to diversify the economy via agricultural, tourism, export-oriented manufacturing, and offshore-banking.[103]
 
@@ -201,7 +199,7 @@ In July 2015, St Kitts & Nevis and the Republic of Ireland signed a tax agreemen
 
 Transport
 
-St._Kitts_Airport_Terminal_from_side.jpg on St Kitts]] Vance_Amory_International_Airport,_Nevis.JPG on Nevis]] Saint Kitts and Nevis has two international airports. The larger one is Robert L. Bradshaw International Airport on the island of Saint Kitts with service outside to the Caribbean, North America, and Europe. The other airport, Vance W. Amory International Airport, is located on the island of Nevis and has flights to other parts of the Caribbean.
+on St Kitts]] on Nevis]] Saint Kitts and Nevis has two international airports. The larger one is Robert L. Bradshaw International Airport on the island of Saint Kitts with service outside to the Caribbean, North America, and Europe. The other airport, Vance W. Amory International Airport, is located on the island of Nevis and has flights to other parts of the Caribbean.
 
 Economic citizenship by investment
 

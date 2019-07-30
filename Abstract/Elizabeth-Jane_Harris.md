@@ -1,1 +1,0 @@
-ELIZABETH-JANE HARRIS (born 7 January 1988) is a British professional racing cyclist who rides for Storey Racing. At the 2017 Matrix Grand Prix series Harris won round 5 in Croydon and took the Eisberg Sprints Jersey.[1][2]

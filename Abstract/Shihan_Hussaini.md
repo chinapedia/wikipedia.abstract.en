@@ -1,1 +1,0 @@
-SHIHAN HUSSAINI is an Indian karate expert, who has also worked as a film actor in Tamil language films. His brother Ishaq Hussaini has also appeared in Tamil films.[1] He has also been widely covered in Indian media for his acts of devotion towards politician Jayalalitha and for his world record attempts.[2]

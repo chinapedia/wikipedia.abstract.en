@@ -1,4 +1,4 @@
-Camellia_sinensis_-_Köhler–s_Medizinal-Pflanzen-025.jpg'', 1897]] Camellia_sinensis_(Boltz_Conservatory).JPG
+'', 1897]]
 
 TEA is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the _Camellia sinensis_, an evergreen shrub (bush) native to East Asia.[1] After water, it is the most widely consumed drink in the world.[2] There are many different types of tea; some, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour,[3] while others have vastly different profiles that include sweet, nutty, floral or grassy notes.
 
@@ -9,7 +9,7 @@ The term herbal tea refers to drinks not made from _Camellia sinensis_: infusion
 
 Etymology
 
-The Chinese character for tea is 茶, originally written with an extra stroke as 荼 (pronounced _tú_, used as a word for a bitter herb), and acquired its current form during the Tang Dynasty.[7][8][9] The word is pronounced differently in the different varieties of Chinese, such as _chá_ in Mandarin, _zo_ and _dzo_ in Wu Chinese, and _ta_ and _te_ in Min Chinese.[10] One suggestion is that the different pronunciations may have arisen from the different words for tea in ancient China, for example _tú_ (荼) may have given rise to _tê_;[11] historical phonologists however argued that the _cha_, _te_ and _dzo_ all arose from the same root with a reconstructed pronunciation _dra_, which changed due to sound shift through the centuries. There were other ancient words for tea, though _ming_ (茗) is the only other one still in common use.[12] It has been proposed that the Chinese words for tea, _tu_, _cha_ and _ming_, may have been borrowed from the Austro-Asiatic languages of people who inhabited southwest China; _cha_ for example may have been derived from an archaic Austro-Asiatic root *_la_, meaning "leaf". Tea_garden_of_Assam.jpg
+The Chinese character for tea is 茶, originally written with an extra stroke as 荼 (pronounced _tú_, used as a word for a bitter herb), and acquired its current form during the Tang Dynasty.[7][8][9] The word is pronounced differently in the different varieties of Chinese, such as _chá_ in Mandarin, _zo_ and _dzo_ in Wu Chinese, and _ta_ and _te_ in Min Chinese.[10] One suggestion is that the different pronunciations may have arisen from the different words for tea in ancient China, for example _tú_ (荼) may have given rise to _tê_;[11] historical phonologists however argued that the _cha_, _te_ and _dzo_ all arose from the same root with a reconstructed pronunciation _dra_, which changed due to sound shift through the centuries. There were other ancient words for tea, though _ming_ (茗) is the only other one still in common use.[12] It has been proposed that the Chinese words for tea, _tu_, _cha_ and _ming_, may have been borrowed from the Austro-Asiatic languages of people who inhabited southwest China; _cha_ for example may have been derived from an archaic Austro-Asiatic root *_la_, meaning "leaf".
 
 The few exceptions of words for tea that do not fall into the three broad groups of te, cha and chai are the minor languages from the botanical homeland of the tea plant: northeast Burma and southwest Yunnan. Examples are la (meaning tea purchased elsewhere) and miiem (wild tea gathered in the hills) from the Wa people, letpet in Burmese and meng in Lamet meaning "fermented tea leaves", as well as miang in Thai ("fermented tea").
 
@@ -22,7 +22,7 @@ A third form, the increasingly widespread _chai,_ came from Persian چای _chay
 
 Origin and history
 
-Shinno_(Shennong)_derivative.jpg: Chinese legends credit Shennong with the invention of tea.[21]]]
+: Chinese legends credit Shennong with the invention of tea.[21]]]
 
 Tea plants are native to East Asia, and probably originated in the borderlands of north Burma and southwestern China.[22]
 
@@ -45,7 +45,7 @@ The earliest known physical evidence[31] of tea was discovered in 2016 in the ma
 
 Through the centuries, a variety of techniques for processing tea, and a number of different forms of tea, were developed. During the Tang dynasty, tea was steamed, then pounded and shaped into cake form, while in the Song dynasty, loose-leaf tea was developed and became popular. During the Yuan and Ming dynasties, unoxidized tea leaves were first pan-fried, then rolled and dried, a process that stops the oxidation process that turns the leaves dark, thereby allowing tea to remain green. In the 15th century, oolong tea, in which the leaves were allowed to partially oxidize before pan-frying, was developed. Western tastes, however, favoured the fully oxidized black tea, and the leaves were allowed to oxidize further. Yellow tea was an accidental discovery in the production of green tea during the Ming dynasty, when apparently sloppy practices allowed the leaves to turn yellow, but yielded a different flavour as a result.
 
-Gorskii_03992u.jpg, Russian Empire before 1915]]
+, Russian Empire before 1915]]
 
 Tea was first introduced to Portuguese priests and merchants in China during the 16th century, at which time it was termed _chá_.[35] The earliest European reference to tea, written as _Chiai_, came from _Delle navigationi e viaggi_ written by a Venetian, Giambattista Ramusio, in 1545. The first recorded shipment of tea by a European nation was in 1607 when the Dutch East India Company moved a cargo of tea from Macao to Java, then two years later, the Dutch bought the first assignment of tea which was from Hirado in Japan to be shipped to Europe. Tea became a fashionable drink in The Hague in the Netherlands, and the Dutch introduced the drink to Germany, France and across the Atlantic to New Amsterdam (New York).
 
@@ -56,7 +56,7 @@ Chinese small leaf type tea was introduced into India in 1836 by the British in 
 
 Cultivation and harvesting
 
-SriLanka_TeaHarvest_(pixinn.net).jpg]]
+]]
 
 _Camellia sinensis_ is an evergreen plant that grows mainly in tropical and subtropical climates.[46] Some varieties can also tolerate marine climates and are cultivated as far north as Cornwall in England,[47] Perthshire in Scotland,[48] Washington state in the United States,[49] and Vancouver Island in Canada.[50] In the Southern Hemisphere, tea is grown as far south as Hobart on the Australian island of Tasmania[51][52] and Waikato in New Zealand.[53]
 
@@ -75,7 +75,7 @@ Chemical composition
 
 Physically speaking, tea has properties of both a solution and a suspension. It is a solution of all the water-soluble compounds that have been extracted from the tea leaves, such as the polyphenols and amino acids, but is a suspension when all of the insoluble components are considered, such as the cellulose in the tea leaves.[64]
 
-Caffeine constitutes about 3% of tea's dry weight, translating to between and per 8-oz (250-ml) cup depending on the type, brand,[65] and brewing method.[66] A study found that the caffeine content of of black tea ranged from , while the caffeine content of of green tea ranged from , reflecting a significant difference.[67] Tea also contains small amounts of theobromine and theophylline, which are stimulants, and xanthines similar to caffeine.[68] TeaLeaves.JPG
+Caffeine constitutes about 3% of tea's dry weight, translating to between and per 8-oz (250-ml) cup depending on the type, brand,[65] and brewing method.[66] A study found that the caffeine content of of black tea ranged from , while the caffeine content of of green tea ranged from , reflecting a significant difference.[67] Tea also contains small amounts of theobromine and theophylline, which are stimulants, and xanthines similar to caffeine.[68]
 
 Black and green teas contain no essential nutrients in significant amounts, with the exception of the dietary mineral, manganese at per cup or 26% of the Daily Value.[69] Because of modern environmental pollution, fluoride sometimes occur in tea. Certain types of brick tea made from old leaves and stems have the highest levels.[70]
 
@@ -85,8 +85,6 @@ It has been suggested that green and black tea may protect against cancer[74] or
 
 
 Processing and classification
-
-Tea_in_different_grade_of_fermentation.jpg
 
 Tea is generally divided into categories based on how it is processed.[79] At least six different types are produced:
 
@@ -101,7 +99,7 @@ After picking, the leaves of _C. sinensis_ soon begin to wilt and oxidize unless
 
 Additional processing and additives
 
-Teaprocessing.svg After basic processing, teas may be altered through additional processing steps before being sold,[80] and is often consumed with additions to the basic tea leaf and water added during preparation or drinking. Examples of additional processing steps that occur before tea is sold are blending, flavouring, scenting, and decaffeination of teas. Examples of additions added at the point of consumption include milk, sugar and lemon.
+After basic processing, teas may be altered through additional processing steps before being sold,[80] and is often consumed with additions to the basic tea leaf and water added during preparation or drinking. Examples of additional processing steps that occur before tea is sold are blending, flavouring, scenting, and decaffeination of teas. Examples of additions added at the point of consumption include milk, sugar and lemon.
 
 Blending
 
@@ -113,7 +111,7 @@ Flavoured and scented teas add new aromas and flavours to the base tea. This can
 
 Milk
 
-Nice_Cup_of_Tea.jpg The addition of milk to tea in Europe was first mentioned in 1680 by the epistolist Madame de Sévigné.[82] Many teas are traditionally drunk with milk in cultures where dairy products are consumed. These include Indian masala chai and British tea blends. These teas tend to be very hearty varieties of black tea which can be tasted through the milk, such as Assams, or the East Friesian blend. Milk is thought to neutralise remaining tannins and reduce acidity.[83][84] The Han Chinese do not usually drink milk with tea but the Manchus do, and the elite of the Qing Dynasty of the Chinese Empire continued to do so. Hong Kong-style milk tea is based on British colonial habits. Tibetans and other Himalayan peoples traditionally drink tea with milk or yak butter and salt. In Eastern European countries (Russia, Poland and Hungary) and in Italy, tea is commonly served with lemon juice. In Poland, tea with milk is called a _bawarka_ ("Bavarian style"), and is often drunk by pregnant and nursing women. In Australia, tea with milk is _white tea_.
+The addition of milk to tea in Europe was first mentioned in 1680 by the epistolist Madame de Sévigné.[82] Many teas are traditionally drunk with milk in cultures where dairy products are consumed. These include Indian masala chai and British tea blends. These teas tend to be very hearty varieties of black tea which can be tasted through the milk, such as Assams, or the East Friesian blend. Milk is thought to neutralise remaining tannins and reduce acidity.[83][84] The Han Chinese do not usually drink milk with tea but the Manchus do, and the elite of the Qing Dynasty of the Chinese Empire continued to do so. Hong Kong-style milk tea is based on British colonial habits. Tibetans and other Himalayan peoples traditionally drink tea with milk or yak butter and salt. In Eastern European countries (Russia, Poland and Hungary) and in Italy, tea is commonly served with lemon juice. In Poland, tea with milk is called a _bawarka_ ("Bavarian style"), and is often drunk by pregnant and nursing women. In Australia, tea with milk is _white tea_.
 
 The order of steps in preparing a cup of tea is a much-debated topic, and can vary widely between cultures or even individuals. Some say it is preferable to add the milk before the tea, as the high temperature of freshly brewed tea can denature the proteins found in fresh milk, similar to the change in taste of UHT milk, resulting in an inferior-tasting beverage.[85] Others insist it is better to add the milk after brewing the tea, as black tea is often brewed as close to boiling as possible. The addition of milk chills the beverage during the crucial brewing phase, if brewing in a cup rather than using a pot, meaning the delicate flavour of a good tea cannot be fully appreciated. By adding the milk afterwards, it is easier to dissolve sugar in the tea and also to ensure the desired amount of milk is added, as the colour of the tea can be observed. Historically, the order of steps was taken as an indication of class: only those wealthy enough to afford good-quality porcelain would be confident of its being able to cope with being exposed to boiling water unadulterated with milk.[86] Higher temperature difference means faster heat transfer, so the earlier milk is added, the slower the drink cools. A 2007 study published in the _European Heart Journal_ found certain beneficial effects of tea may be lost through the addition of milk.[87]
 
@@ -163,7 +161,7 @@ In Southeast Asia, the practice of pouring tea from a height has been refined fu
 
 Tea culture
 
-Masala_Chai.JPG'' from India with garnishes]] upright=0.8 served in typical small glass and corresponding plate]] upright=0.8 with a slice of lemon]]
+'' from India with garnishes]] upright=0.8 served in typical small glass and corresponding plate]] upright=0.8 with a slice of lemon]]
 
 Tea may be consumed early in the day to heighten calm alertness ; it contains L-theanine, theophylline, and bound caffeine[92] (sometimes called _theine_). Decaffeinated brands are also sold. While herbal teas are also referred to as tea, most of them do not contain leaves from the tea plant. While tea is the second most consumed beverage on Earth after water, in many cultures it is also consumed at elevated social events, such as the tea party.
 
@@ -183,7 +181,7 @@ Russia has a long, rich tea history dating to 1638 when tea was introduced to Ts
 
 In Pakistan, both black and green teas are popular and are known locally as _sabz chai_ and _kahwah_, respectively. The popular green tea called _kahwah_ is often served after every meal in the Pashtun belt of Balochistan and in Khyber Pakhtunkhwa, which is where the Khyber Pass is found. In central and southern Punjab and the metropolitan Sindh region of Pakistan, tea with milk and sugar (sometimes with pistachios, cardamom, etc.), commonly referred to as _chai_, is widely consumed. It is the most common beverage of households in the region. In the northern Pakistani regions of Chitral and Gilgit-Baltistan, a salty, buttered Tibetan-style tea is consumed.
 
-In the transnational Kashmir region, which straddles the border between India and Pakistan, Kashmiri chai or _noon chai_, a pink, creamy tea with pistachios, almonds, cardamom, and sometimes cinnamon, is consumed primarily at special occasions, weddings, and during the winter months when it is sold in many kiosks. South_Indian_tea_(5399611578).jpg]]
+In the transnational Kashmir region, which straddles the border between India and Pakistan, Kashmiri chai or _noon chai_, a pink, creamy tea with pistachios, almonds, cardamom, and sometimes cinnamon, is consumed primarily at special occasions, weddings, and during the winter months when it is sold in many kiosks. ]]
 
 Indian tea culture is strong – the drink is the most popular hot beverage in the country. It is consumed daily in almost all houses, offered to guests, consumed in high amounts in domestic and official surroundings, and is made with the addition of milk with or without spices, and usually sweetened. At homes it is sometimes served with biscuits to be dipped in the tea and eaten before consuming the tea. More often than not, it is drunk in "doses" of small cups (referred to as "Cutting" chai if sold at street tea vendors) rather than one large cup. On 21 April 2012, the Deputy Chairman of Planning Commission (India), Montek Singh Ahluwalia, said tea would be declared as national drink by April 2013.[100][101] The move is expected to boost the tea industry in the country. Speaking on the occasion, Assam Chief Minister Tarun Gogoi said a special package for the tea industry would be announced in the future to ensure its development.[102] The history of tea in India is especially rich.
 
@@ -218,12 +216,12 @@ Production
 
 In 2016, global production of tea was about 6 million tonnes, led by China with 40% and India with 22% of the world total (table). Kenya, Sri Lanka, and Turkey were other major producers.[106]
 
-Azores-Day3-4_(34609679025).jpg, Portugal: the only European region other than Georgia to support green tea production.]]
+, Portugal: the only European region other than Georgia to support green tea production.]]
 
 
 Economics
 
-Tea_factory,_Pinglin.jpg]] Tea is the most popular manufactured drink consumed in the world, equaling all others – including coffee, chocolate, soft drinks, and alcohol – combined.[107] Most tea consumed outside East Asia is produced on large plantations in the hilly regions of India and Sri Lanka, and is destined to be sold to large businesses. Opposite this large-scale industrial production are many small "gardens," sometimes minuscule plantations, that produce highly sought-after teas prized by gourmets. These teas are both rare and expensive, and can be compared to some of the most expensive wines in this respect.
+]] Tea is the most popular manufactured drink consumed in the world, equaling all others – including coffee, chocolate, soft drinks, and alcohol – combined.[107] Most tea consumed outside East Asia is produced on large plantations in the hilly regions of India and Sri Lanka, and is destined to be sold to large businesses. Opposite this large-scale industrial production are many small "gardens," sometimes minuscule plantations, that produce highly sought-after teas prized by gourmets. These teas are both rare and expensive, and can be compared to some of the most expensive wines in this respect.
 
 India is the world's largest tea-drinking nation,[108] although the per capita consumption of tea remains a modest per person every year. Turkey, with of tea consumed per person per year, is the world's greatest per capita consumer.[109]
 
@@ -252,13 +250,11 @@ Packaging
 
 Tea bags
 
-Tea_bags.jpg In 1907, American tea merchant Thomas Sullivan began distributing samples of his tea in small bags of Chinese silk with a drawstring. Consumers noticed they could simply leave the tea in the bag and reuse it with fresh tea. However, the potential of this distribution and packaging method would not be fully realised until later on. During World War II, tea was rationed in the United Kingdom. In 1953, after rationing in the UK ended, Tetley launched the tea bag to the UK and it was an immediate success.
+In 1907, American tea merchant Thomas Sullivan began distributing samples of his tea in small bags of Chinese silk with a drawstring. Consumers noticed they could simply leave the tea in the bag and reuse it with fresh tea. However, the potential of this distribution and packaging method would not be fully realised until later on. During World War II, tea was rationed in the United Kingdom. In 1953, after rationing in the UK ended, Tetley launched the tea bag to the UK and it was an immediate success.
 
 The "pyramid tea bag" (or sachet), introduced by Lipton[121] and PG Tips/Scottish Blend in 1996,[122] attempts to address one of the connoisseurs' arguments against paper tea bags by way of its three-dimensional tetrahedron shape, which allows more room for tea leaves to expand while steeping. However, some types of pyramid tea bags have been criticised as being environmentally unfriendly, since their synthetic material is not as biodegradable as loose tea leaves and paper tea bags.[123]
 
 Loose tea
-
-English_Westminster_Tea.jpg
 
 The tea leaves are packaged loosely in a canister, paper bag, or other container such as a tea chest. Some whole teas, such as rolled gunpowder tea leaves, which resist crumbling, are sometimes vacuum-packed for freshness in aluminised packaging for storage and retail. The loose tea must be individually measured for use, allowing for flexibility and flavour control at the expense of convenience. Strainers, tea balls, tea presses, filtered teapots, and infusion bags prevent loose leaves from floating in the tea and over-brewing. A traditional method uses a three-piece lidded teacup called a gaiwan, the lid of which is tilted to decant the tea into a different cup for consumption.
 

@@ -1,1 +1,0 @@
-The Q-1 VISA is a non-immigrant visa which allows travel to United States to participate in a cultural exchange program. The purpose of the program is to allow for practical training and employment, and the sharing of history, culture, and traditions.[1]

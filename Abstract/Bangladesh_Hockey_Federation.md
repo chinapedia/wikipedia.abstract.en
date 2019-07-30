@@ -1,1 +1,0 @@
-The BANGLADESH HOCKEY FEDERATION is the governing body of field hockey in Bangladesh. It is affiliated to IHF International Hockey Federation and AsHF Asian Hockey Federation. The headquarters of the federation are in Dhaka, Bangladesh.

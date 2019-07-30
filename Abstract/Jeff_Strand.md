@@ -1,1 +1,0 @@
-JEFF STRAND (born December 14, 1970) is an American writer, best known for his works of horror-comedy. He has written novels, short stories, screenplays and comedy sketches.[1] In addition to his adult-oriented horror works, Strand also writes young adult fiction.[2]

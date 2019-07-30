@@ -1,1 +1,0 @@
-The 24K MAGIC WORLD TOUR[1] was the third concert tour by American singer Bruno Mars, to support his album _24K Magic_ (2016). It began March 28, 2017, at the Sportpaleis in Antwerp, and concluded at T-Mobile Arena in Las Vegas on December 31, 2018. Mars announced more North American dates for late 2018.

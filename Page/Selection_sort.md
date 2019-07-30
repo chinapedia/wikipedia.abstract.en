@@ -23,7 +23,7 @@ Here is an example of this sort algorithm sorting five elements:
 | (11, 12, 22, 25, 64) | |( )                   |                                |
 +----------------------+------------------------+--------------------------------+
 
-Selection-Sort-Animation.gif (Nothing appears changed on these last two lines because the last two numbers were already in order)
+(Nothing appears changed on these last two lines because the last two numbers were already in order)
 
 Selection sort can also be used on list structures that make add and remove efficient, such as a linked list. In this case it is more common to _remove_ the minimum element from the remainder of the list, and then _insert_ it at the end of the values sorted so far. For example:
 

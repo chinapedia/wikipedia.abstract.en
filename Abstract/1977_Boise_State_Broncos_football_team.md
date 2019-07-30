@@ -1,1 +1,0 @@
-The 1977 BOISE STATE BRONCOS FOOTBALL TEAM represented Boise State University in the 1977 NCAA Division II football season. The Broncos competed in the Big Sky Conference and played their home games on campus at Bronco Stadium in Boise, Idaho. Led by second-year head coach Jim Criner, the Broncos were overall and in conference to win the Big Sky title, their fourth in five years.

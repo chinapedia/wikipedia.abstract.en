@@ -1,1 +1,0 @@
-DOMINIQUE JULIA (born 1940) is a 20th-21st-century French historian. He is mainly interested in the periods of the Ancien Régime and the French Revolution, as well as the history of religions and the history of education.

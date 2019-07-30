@@ -1,1 +1,0 @@
-DEEN is the debut studio album of Japanese rock band Deen.[1] It was released on 14 September 1994 under B-Gram Records. Album includes previous 4 released singles, since _Kono mama Kimi dake wo Ubaisaretai_ till _Hitomi Sorasanaide_. The album reached #1 rank first week. Album charted for 23 weeks and totally sold 1,438 000 copies.[2] [3]

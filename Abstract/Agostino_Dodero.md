@@ -1,1 +1,0 @@
-Agostino_Dodero.jpg AGOSTINO DODERO (28 March 1864–14 November 1937) was an Italian entomologist. A major collector of insects, particularly beetles and known for his collections of subterranean species, he is credited with the discovery of the first Protura specimens.

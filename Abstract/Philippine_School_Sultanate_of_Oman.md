@@ -1,1 +1,0 @@
-The PHILIPPINE SCHOOL SULTANATE OF OMAN (also known as PHILIPPINE SCHOOL MUSCAT), established in 1989, is a private school in the Persian Gulf region.[1] Located in the city of Muscat, Oman, the school caters to the Filipino community as well as foreigners who live in Muscat, Oman.

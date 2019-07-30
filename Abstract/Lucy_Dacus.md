@@ -1,1 +1,0 @@
-LUCY DACUS (born May 2, 1995) is an American indie rock singer-songwriter from Richmond, Virginia.[1][2] She has released two critically acclaimed albums: _No Burden_ (2016) and _Historian_ (2018). In 2018, she formed boygenius with Phoebe Bridgers and Julien Baker.

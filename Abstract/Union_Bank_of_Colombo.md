@@ -1,1 +1,0 @@
-UNION BANK OF COLOMBO PLC (, Yuniyan bæṁkuva / , Yūṉiyaṉ pāṅk ov koḻumpu pi'elci), commonly referred to as UBC, is a commercial bank in Sri Lanka. It is licensed by the Central Bank of Sri Lanka, the central bank and national banking regulator.[1][2]

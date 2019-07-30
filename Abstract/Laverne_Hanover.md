@@ -1,1 +1,0 @@
-LAVERNE HANOVER (foaled 1966 in Pennsylvania) was a brown Standardbred horse whose wins included the 1969 Little Brown Jug, the most important race for three-year-old pacers,[1] and the 1970 American Pacing Classic at Hollywood Park Racetrack.[2]

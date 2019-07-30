@@ -7,7 +7,7 @@ In 2014, Truth was included in _Smithsonian_ magazine's list of the "100 Most Si
 
 Early years
 
-1903_HardenberghHouseBk.jpg Truth was one of the 10 or 12[3] children born to James and Elizabeth Baumfree (or Bomefree). Colonel Hardenbergh bought James and Elizabeth Baumfree from slave traders and kept their family at his estate in a big hilly area called by the Dutch name Swartekill (just north of present-day Rifton), in the town of Esopus, New York, north of New York City.[4] Charles Hardenbergh inherited his father's estate and continued to enslave people as a part of that estate's property.[5]
+Truth was one of the 10 or 12[3] children born to James and Elizabeth Baumfree (or Bomefree). Colonel Hardenbergh bought James and Elizabeth Baumfree from slave traders and kept their family at his estate in a big hilly area called by the Dutch name Swartekill (just north of present-day Rifton), in the town of Esopus, New York, north of New York City.[4] Charles Hardenbergh inherited his father's estate and continued to enslave people as a part of that estate's property.[5]
 
 When Charles Hardenbergh died in 1806, nine-year-old Truth (known as Belle), was sold at an auction with a flock of sheep for $100 to John Neely, near Kingston, New York. Until that time, Truth spoke only Dutch.[6] She later described Neely as cruel and harsh, relating how he beat her daily and once even with a bundle of rods. In 1808 Neely sold her for $105 to tavern keeper Martinus Schryver of Port Ewen, New York, who owned her for 18 months. Schryver then sold Truth in 1810 to John Dumont of West Park, New York.[7] Although this fourth owner was kindly disposed toward her, considerable tension existed between Truth and Dumont's wife, Elizabeth Waring Dumont, who harassed her and made her life more difficult.[8]
 
@@ -68,7 +68,7 @@ SECOND ANNUAL CONVENTION OF THE AMERICAN WOMAN SUFFRAGE ASSOCIATION — Boston, 
 
 On a mission
 
-Carte_de_visite.jpg, which she sold to raise money (see inscription).]] In 1856, Truth bought a neighboring lot in Northampton, but she did not keep the new property for long. On September 3, 1857, she sold all her possessions, new and old, to Daniel Ives and moved to Battle Creek, Michigan, where she rejoined former members of the Millerite movement who had formed the Seventh-day Adventist Church. Antislavery movements had begun early in Michigan and Ohio. Here, she also joined the nucleus of the Michigan abolitionists, the Progressive Friends, some who she had already met at national conventions.[50] According to the 1860 census, her household in Harmonia included her daughter, Elizabeth Banks (age 35), and her grandsons James Caldwell (misspelled as "Colvin"; age 16) and Sammy Banks (age 8).[51]
+, which she sold to raise money (see inscription).]] In 1856, Truth bought a neighboring lot in Northampton, but she did not keep the new property for long. On September 3, 1857, she sold all her possessions, new and old, to Daniel Ives and moved to Battle Creek, Michigan, where she rejoined former members of the Millerite movement who had formed the Seventh-day Adventist Church. Antislavery movements had begun early in Michigan and Ohio. Here, she also joined the nucleus of the Michigan abolitionists, the Progressive Friends, some who she had already met at national conventions.[50] According to the 1860 census, her household in Harmonia included her daughter, Elizabeth Banks (age 35), and her grandsons James Caldwell (misspelled as "Colvin"; age 16) and Sammy Banks (age 8).[51]
 
 During the Civil War, Truth helped recruit black troops for the Union Army. Her grandson, James Caldwell, enlisted in the 54th Massachusetts Regiment. In 1864, Truth was employed by the National Freedman's Relief Association in Washington, D.C., where she worked diligently to improve conditions for African-Americans. In October of that year, she met President Abraham Lincoln.[52] In 1865, while working at the Freedman's Hospital in Washington, Truth rode in the streetcars to help force their desegregation.[53]
 
@@ -95,7 +95,7 @@ On September 19, 2018, the U.S. Secretary of the Navy Ray Mabus announced the na
 
 Cultural references and commemorations
 
-Sojourner_Truth_c1864.jpg Other honors and commemorations include (by year):
+Other honors and commemorations include (by year):
 
 -   1862 – William Wetmore Story's marble statue, _The Libyan Sibyl_, inspired by Sojourner Truth, won an award at the London World Exhibition. The original sculpture is gifted to the Metropolitan Museum of Art - New York, New York from the Erving Wolf Foundation in 1978.
 -   1892 – Albion artist Frank Courter is commissioned by Frances Titus to paint the meeting between Truth and President Abraham Lincoln on October 29, 1864.[66]

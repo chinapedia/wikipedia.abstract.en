@@ -1,1 +1,0 @@
-Ubaldino_Peruzzi.jpg UBALDINO PERUZZI (April 2, 1822 – September 9, 1891) was an Italian politician of the Kingdom of Sardinia and the Kingdom of Italy. He was twice mayor of Florence. He was a member of the Peruzzi family. His paternal grandmother was a member of the Medici family. He was a recipient of the Order of Saints Maurice and Lazarus.[1]

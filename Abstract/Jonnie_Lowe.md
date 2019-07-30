@@ -1,1 +1,0 @@
-JONNIE LOWE (born 1 October 1979) is a Honduran track and field athlete who competes in the 400 metres and 400 metres hurdles. Lowe is most known for setting the Honduran record in the 400 m hurdles with a time of 51.77 in Managua, Nicaragua.[1]

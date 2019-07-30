@@ -19,7 +19,7 @@ The games pioneered a number of features that were to become industry standards.
 
 Audio
 
-Koji_Kondo_-_GDC_2007_cropped.jpg, the series' original composer and current sound director, in 2007]]
+, the series' original composer and current sound director, in 2007]]
 
 Games in _The Legend of Zelda_ series frequently feature in-game musical instruments, particularly in musical puzzles, which are widespread.[2] Often, instruments trigger game events: for example, the recorder in _The Legend of Zelda_ can reveal secret areas, as well as warp Link to the Dungeon entrances. This warping with music feature has also been used in _A Link to the Past_ and _Link's Awakening_. In _Ocarina of Time_, playing instruments is a core part of the game, with the player needing to play the instrument through the use of the game controller to succeed.[3] _Ocarina of Time_ is "[one of the] first contemporary non-dance title[s] to feature music-making as part of its gameplay",[4] using music as a heuristic device and requiring the player to utilise songs to progress in the game[5] – a game mechanic that is also present in _Majora's Mask_.[6]
 
@@ -40,7 +40,7 @@ The Master Sword was inspired by Excalibur which originates from the Arthurian L
 
 Setting
 
-Legend_of_Zelda_NES.PNG'' on the NES.|alt=An overhead view of a young boy in a green tunic battling creatures.]]
+'' on the NES.|alt=An overhead view of a young boy in a green tunic battling creatures.]]
 
 _The Legend of Zelda_ takes place predominantly in a medieval Western Europe-inspired fantasy land called Hyrule,[18] which has developed a deep history and wide geography over the series' many releases. Much of the backstory of the creation of Hyrule was revealed in the games _A Link to the Past_, _Ocarina of Time_, _The Wind Waker_, _Twilight Princess_, _Skyward Sword_, and _A Link Between Worlds_. Hyrule's principal inhabitants are pointy-eared, elf-like humanoids called Hylians, which include the player character, Link, and the eponymous princess, Zelda.
 
@@ -107,7 +107,7 @@ History
 
 1980s
 
-Nintendo-Famicom-Disk-System.jpg in 1986. It was later converted into a cartridge game for the American NES.]]
+in 1986. It was later converted into a cartridge game for the American NES.]]
 
 _The Legend of Zelda_, the first game of the series, was first released in Japan on February 21, 1986, on the Famicom Disk System.[61] A cartridge version, using battery-backed memory, was released in the United States on August 22, 1987, and Europe on November 27, 1987. The game features a "Second Quest," accessible either upon completing the game, or by registering one's name as "ZELDA" when starting a new quest. The Second Quest features different dungeons and item placement, and more difficult enemies.[62]
 
@@ -121,7 +121,7 @@ In 1994, near the end of the Famicom's lifespan, the original Famicom game was r
 
 The next game, _Link's Awakening_, is the first _Zelda_ for Nintendo's Game Boy handheld, and the first set outside Hyrule and to exclude Princess Zelda. It was released in 1993, and re-released, in full color, as a launch game for the Game Boy Color in 1998 as _Link's Awakening DX_. This re-release features additions such as an extra color-based dungeon and a photo shop that allows interaction with the Game Boy Printer.
 
-ZELDA_OCARINA_OF_TIME_2.jpg'', the first 3D-styled game of the franchise|alt=A young boy holds a sword in a dungeon lit by a candle]]
+'', the first 3D-styled game of the franchise|alt=A young boy holds a sword in a dungeon lit by a candle]]
 
 After a five-year hiatus, the series made the transition to 3D with _Ocarina of Time_ for the Nintendo 64, which was released in November 1998. This game, initially known as _Zelda 64_, retains the core gameplay of the previous 2D games, and was very successful commercially and critically. It is considered by many critics and gamers to be the best video game of all time, and ranks highly on IGN and EGM's "greatest games of all time" lists, as well as scoring perfect scores in several video game publications.[70] In February 2006, it was ranked by _Nintendo Power_ as the best game released for a Nintendo console.[71] The game was originally developed for the poorly selling, Japanese-only Nintendo 64DD, but was ported to cartridge format when the 64DD hardware was delayed.[72] A new gameplay mechanic, lock-on targeting (called "Z-targeting" as that is the controller button used), is used in the game, which focuses the camera on a nearby target and alters the player's actions relative to that target.[73] Such mechanics allow precise sword fighting in a 3D space. The game heavily uses context-sensitive button play, which enabled the player to control various actions with Link using only one button on the Nintendo 64's game pad. Each action was handled slightly differently but all used the 'A' button to perform. For instance, standing next to a block and pressing 'A' made Link grab it (enabling him to push/pull it), but moving forwards into a block and pressing 'A' allowed Link to climb the block. The 'B' button was used only as an attack button. The game featured the first appearance of Link's horse, Epona, allowing Link to travel quickly across land and fire arrows from horseback. Those who preordered the game received a gold-coloured cartridge in a limited edition box with a golden plastic card affixed, reading "Collector's Edition".[74] In some stores that had this "Collector's Edition" quickly sell out, a small and rare Zelda pin was given instead. It is the sword and shield emblem with "Zelda" written on it. Very few of them are known to remain.
 
@@ -143,7 +143,7 @@ _Four Swords Adventures_ includes two gameplay modes: "Hyrulean Adventure", with
 
 In November 2004 in Japan and Europe, and January 2005 in America, Nintendo released _The Minish Cap_ for the Game Boy Advance. In _The Minish Cap_ Link can shrink in size using a mystical, sentient hat named Ezlo. While shrunk, he can see previously explored parts of a dungeon from a different perspective, and enter areas through otherwise-impassable openings.
 
-TwilightPicture.jpg''|alt=A man is on a horse. In the foreground, an imp rides a wolf.]]
+''|alt=A man is on a horse. In the foreground, an imp rides a wolf.]]
 
 In November 2006, _Twilight Princess_ was released as the first _Zelda_ game on the Wii, and later, in December 2006, as the last official Nintendo game for the GameCube, the console for which it was originally developed. The Wii version features a reversed world where everything that is in the west on the GameCube is in the east on the Wii, and vice versa. The display is mirrored in order to make Link right-handed, to make use of the Wii remote feel more natural. The game chronicles the struggle of an older Link to clear the troubles of the interacting "Twilight Realm", a mysterious force that appears around Hyrule. When he enters this realm, he is transformed into a wolf, and loses the ability to use his sword, shield or other items, but gains other abilities such as sharpened senses from his new form. _Twilight Princess_ includes an incarnation of Link's horse, Epona, for fast transportation, and features mounted battle scenarios including boss battles that were not seen in previous games. Twilight Princess diverted from the cel shading of Wind Waker and went for graphics featuring more detailed textures, giving the game a darker atmosphere, thus making it feel more adult than previous games.
 
@@ -174,7 +174,7 @@ Other games
 
 CD-i games
 
-Philips-CDi-220-wController-FL.jpg are infamous for their poor quality and are not canon.]]
+are infamous for their poor quality and are not canon.]]
 
 A series of video games was developed and released for the Philips CD-i in the early 1990s as a product of a compromise between Philips and Nintendo, after the companies failed to develop a CD-ROM peripheral for the Super NES. Created independently with no observation by or influence from Nintendo, the games are _Link: The Faces of Evil_ and _Zelda: The Wand of Gamelon_, together with _Zelda's Adventure_. Nintendo never acknowledged them in the _Zelda_ timeline, and they are considered to be in a separate, self-contained canon. These games are widely acknowledged to be the worst installments in the series.[119]
 

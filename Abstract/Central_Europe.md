@@ -1,1 +1,0 @@
-CENTRAL EUROPE is the region comprising the central part of Europe. Central Europe occupies continuous territories that are otherwise sometimes considered parts of Western Europe, Southern Europe, and Eastern Europe.[1][2][3] The concept of Central Europe is based on a common historical, social, and cultural identity.[4][5][6][7][8][9][10][11][12][13][14]

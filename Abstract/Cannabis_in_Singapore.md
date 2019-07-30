@@ -1,1 +1,0 @@
-Possession or consumption of CANNABIS IN SINGAPORE can result in a maximum of 10 years in prison, with a possible fine of S$20,000, as well as caning,[1]under the Misuse of Drugs Act. Trafficking, import or export of more than 500 grams may result in the death penalty.[2] [3]

@@ -1,1 +1,0 @@
-thumb ALFONSO III (4 November 1265, in Valencia – 18 June 1291), called THE LIBERAL (_el Liberal_) or THE FREE (also "the Frank," from _el Franc_), was the King of Aragon and Count of Barcelona (as ALFONS II) from 1285. He conquered the Kingdom of Majorca between his succession and 1287.

@@ -1,1 +1,0 @@
-A SUBMARINE SANDWICH, also known as a SUB, HOAGIE, HERO, GRINDER, or ITALIAN SANDWICH, is a type of sandwich consisting of a length of bread or roll split lengthwise and filled with a variety of meats, cheeses, vegetables, and condiments.[1][2] The sandwich has no standardized name,[3] with over a dozen variations used around the world.[4]

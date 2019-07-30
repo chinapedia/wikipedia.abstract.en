@@ -1,1 +1,0 @@
-_ADVENTURES IN RHYTHM_ is an album by bandleader, composer, arranger and conductor Pete Rugolo featuring performances recorded in 1954 and originally released on the Columbia label as a 12-inch LP.[1][2][3]

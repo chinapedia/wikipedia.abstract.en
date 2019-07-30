@@ -1,1 +1,0 @@
-John_Curtiss_Underwood.jpg

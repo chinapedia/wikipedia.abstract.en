@@ -36,7 +36,7 @@ During the Qing dynasty, Shanghai became one of the most important sea ports in 
 
 Rise and golden age
 
-Shanghai_1935_S1_AMS-WO.jpg and Shanghai French Concession]]
+and Shanghai French Concession]]
 
 File:WaibaiduBridgeOld1.jpg|The Bund in 1920s File:Shanghai tram, British section, 1920s, John Rossman's collection.jpg|Nanking Road (modern-day East Nanjing Road) in the 1930s File:1937 Shanghai, China VP8.webm|Shanghai filmed in 1937 File:Shanghai Park Hotel 2007.jpg|Shanghai Park Hotel was the tallest building in Asia for decades File:Former Shanghai Library.jpg|Former Shanghai Library File:The Hong Kong and Shanghai Bank, built in 1923 and The Customs House built in 1927.jpg|The HSBC Building built in 1923 and the Customs House built in 1927
 
@@ -52,7 +52,7 @@ Under the Republic of China, Shanghai's political status was raised to that of a
 
 Wartime era
 
-Shanghai1937city_zhabei_fire.jpg on fire]]
+on fire]]
 
 On 28 January 1932, Japanese forces invaded Shanghai and the Chinese resisted, fighting to a standstill; a ceasefire was brokered in May. The Battle of Shanghai in 1937 resulted in the occupation of the Chinese administered parts of Shanghai outside of the International Settlement and the French Concession. People who stayed in the occupied city of Shanghai saw no end to their suffering. They experienced death, hunger, destruction, and oppression on daily basis.[36] The foreign concessions were ultimately occupied by the Japanese on 8 December 1941 and remained occupied until Japan's surrender in 1945, during which time many war crimes were committed.[37]
 
@@ -60,7 +60,7 @@ On 27 May 1949, the People's Liberation Army took control of Shanghai. Under the
 
 Modern history
 
-Tarde_en_Shanghai_—_at_The_Bund_外滩._(15730639211).jpg Finance and Trade Zone]]
+Finance and Trade Zone]]
 
 On 17 January 1958, Jiading, Baoshan, and Shanghai County in Jiangsu Province became part of Shanghai Municipality, which expanded to 86,300 hectares. The following December, the land area of Shanghai was further expanded to 591,000 hectares when more surrounding suburban areas in Jiangsu were added: Chongming, Jinshan, Qingpu, Fengxian, Chuansha and Nanhui.[39] In 1960 the urban districts were reduced to 10.[40]
 
@@ -69,7 +69,7 @@ During the 1950s and 1960s, Shanghai became the centre for radical leftism since
 
 Geography
 
-Yangtze_River_Delta.gif (_north_), and Zhejiang (_south_) shows the developed areas and some developing areas around Shanghai, Nanjing (_dark blue_), and Hangzhou in green. The regions in light blue are some of the developed areas in the Yangtze River Delta. Provincial boundaries are in purple, sub-provincial boundaries in gray.]] Sprawling_Shanghai_2016-07-20.jpg image shows the urban area of Shanghai in 2016, along with its major islands of (_from northwest to southeast_) Chongming, Changxing, Hengsha, and the Jiuduansha shoals off Pudong. Yangtze's natural sediment discharging can be seen.]]
+(_north_), and Zhejiang (_south_) shows the developed areas and some developing areas around Shanghai, Nanjing (_dark blue_), and Hangzhou in green. The regions in light blue are some of the developed areas in the Yangtze River Delta. Provincial boundaries are in purple, sub-provincial boundaries in gray.]] image shows the urban area of Shanghai in 2016, along with its major islands of (_from northwest to southeast_) Chongming, Changxing, Hengsha, and the Jiuduansha shoals off Pudong. Yangtze's natural sediment discharging can be seen.]]
 
 Shanghai lies on China's east coast roughly equidistant from Beijing and Guangzhou. The Old City and modern downtown Shanghai are now located in the center of an expanding peninsula between the Yangtze River Delta to the north and Hangzhou Bay to the south, formed by the Yangtze's natural deposition and by modern land reclamation projects. The provincial-level Municipality of Shanghai administers both the eastern area of this peninsula and many of its surrounding islands. It is bordered on the north and west by Jiangsu, on the south by Zhejiang, and on the east by the East China Sea. Its northernmost point is on Chongming Island, now the second-largest island in mainland China after its expansion during the 20th century.[43] The municipality does not, however, include an exclave of Jiangsu on northern Chongming or the two islands forming Shanghai's Yangshan Port, which are part of Zhejiang's Shengsi County. This deep-water port was made necessary by the increasing size of container ships but also the silting of the Yangtze, which narrows to less than as far out as from Hengsha.[44]
 
@@ -87,16 +87,12 @@ Cityscape
 
 Politics
 
-Shanghai_Government_Building.jpg
-
 Like virtually all governing institutions in the mainland People's Republic of China, the politics of Shanghai is structured in a parallel party-government system,[55] in which the Party Committee Secretary, officially termed the Communist Party of China Shanghai Municipal Committee Secretary (currently Li Qiang), outranks the Mayor (currently Ying Yong). The party's standing committee acts as the top policy formulation body, and is typically composed of 11 members.
 
 Political power in Shanghai is widely seen as a stepping stone to higher positions in the national government. Since Jiang Zemin became the General Secretary of the Communist Party of China in June 1989, all former Shanghai party secretaries but one were elevated to the Politburo Standing Committee, the _de facto_ highest decision-making body in China,[56] including Jiang himself (Party General Secretary),[57] Zhu Rongji (Premier),[58] Wu Bangguo (Chairman of the National People's Congress),[59] Huang Ju (Vice Premier),[60] Xi Jinping (current General Secretary), Yu Zhengsheng, and Han Zheng. Zeng Qinghong, a former deputy party secretary of Shanghai, also rose to the Politburo Standing Committee and became the Vice President and an influential power broker.[61] The only exception is Chen Liangyu, who was fired in 2006 and later convicted of corruption.[62] Officials with ties to the Shanghai administration form a powerful faction in the national government, the so-called Shanghai Clique, which was often thought to compete against the rival Youth League Faction over personnel appointments and policy decisions.[63] Xi Jinping, successor to Hu Jintao as General Secretary and President, was a compromise candidate between the two groups with supporters in both camps.
 
 
 Administrative divisions
-
-Openstreetmap_central_Shanghai.svg
 
 Shanghai is administratively equal to a province and is divided into 16 county-level districts. Even though every district has its own urban core, the real city centre is between Bund to the east, Nanjing Rd to the north, Old City Temple and Huaihai Road to the south. Prominent central business areas include Lujiazui on the east bank of the Huangpu River, and The Bund and Hongqiao areas in the west bank of the Huangpu River. The city hall and major administration units are located in Huangpu District, which also serve as a commercial area, including the famous Nanjing Road. Other major commercial areas include Xintiandi and the classy Huaihai Road (previously _Avenue Joffre_) in Huangpu District and Xujiahui (formerly Romanized as _Zikawei or Siccawei_, reflecting the Shanghainese pronunciation) in Xuhui District. Many universities in Shanghai are located in residential areas of Yangpu District and Putuo District.
 
@@ -180,7 +176,7 @@ The former district of Nanhui was absorbed into Pudong District in 2009. In 2011
 
 Economy
 
-Pudong_Shanghai_November_2017_HDR_panorama.jpg Shanghai_night_-_July_2019.ogv Pudong_district_roads_traffic_skyscrapers,_Shanghai.JPG]] Shanghai_Jin_Mao_tower.jpg in Pudong, Shanghai.]] Shanghainanjingroadpic4.jpg in the evening. The Radisson New World Hotel is in the background.]] Yangshan-Port-Balanced.jpg is the world's busiest container port]] Shanghai is the commercial and financial center of China, and ranks 5th in the 2018 edition of the Global Financial Centres Index (and third most competitive in Asia after Singapore and Hong Kong) published by the Z/Yen Group and Qatar Financial Centre Authority.[67] It also ranks the most expensive city to live in Mainland China, according to the study of Economist Intelligence Unit in 2017.[68] It was the largest and most prosperous city in East Asia during the 1930s, and rapid re-development began in the 1990s.[69] This is exemplified by the Pudong District, a former swampland reclaimed to serve as a pilot area for integrated economic reforms. By the end of 2009, there were 787 financial institutions, of which 170 were foreign-invested.[70] In 2009, the Shanghai Stock Exchange ranked third among worldwide stock exchanges in terms of trading volume and sixth in terms of the total capitalization of listed companies, and the trading volume of six key commodities including rubber, copper and zinc on the Shanghai Futures Exchange all ranked first in the world.[71] In September 2013, with the backing of Chinese Premier Li Keqiang the city launched the China (Shanghai) Pilot Free-Trade Zone-the first free-trade zone in mainland China. The Zone introduced a number of pilot reforms designed to create a preferential environment for foreign investment. In April 2014, The Banker reported that Shanghai "has attracted the highest volumes of financial sector foreign direct investment in the Asia-Pacific region in the 12 months to the end of January 2014".[72] In August 2014, Shanghai was named FDi magazine's Chinese Province of the Future 2014/15 due to "particularly impressive performances in the Business Friendliness and Connectivity categories, as well as placing second in the Economic Potential and Human Capital and Lifestyle categories".[73]
+]] in Pudong, Shanghai.]] in the evening. The Radisson New World Hotel is in the background.]] is the world's busiest container port]] Shanghai is the commercial and financial center of China, and ranks 5th in the 2018 edition of the Global Financial Centres Index (and third most competitive in Asia after Singapore and Hong Kong) published by the Z/Yen Group and Qatar Financial Centre Authority.[67] It also ranks the most expensive city to live in Mainland China, according to the study of Economist Intelligence Unit in 2017.[68] It was the largest and most prosperous city in East Asia during the 1930s, and rapid re-development began in the 1990s.[69] This is exemplified by the Pudong District, a former swampland reclaimed to serve as a pilot area for integrated economic reforms. By the end of 2009, there were 787 financial institutions, of which 170 were foreign-invested.[70] In 2009, the Shanghai Stock Exchange ranked third among worldwide stock exchanges in terms of trading volume and sixth in terms of the total capitalization of listed companies, and the trading volume of six key commodities including rubber, copper and zinc on the Shanghai Futures Exchange all ranked first in the world.[71] In September 2013, with the backing of Chinese Premier Li Keqiang the city launched the China (Shanghai) Pilot Free-Trade Zone-the first free-trade zone in mainland China. The Zone introduced a number of pilot reforms designed to create a preferential environment for foreign investment. In April 2014, The Banker reported that Shanghai "has attracted the highest volumes of financial sector foreign direct investment in the Asia-Pacific region in the 12 months to the end of January 2014".[72] In August 2014, Shanghai was named FDi magazine's Chinese Province of the Future 2014/15 due to "particularly impressive performances in the Business Friendliness and Connectivity categories, as well as placing second in the Economic Potential and Human Capital and Lifestyle categories".[73]
 
 In the last two decades Shanghai has been one of the fastest developing cities in the world. Since 1992 Shanghai has recorded double-digit growth almost every year except during the global recession of 2008 and 2009.[74] In 2011, Shanghai's total GDP grew to 1.92 trillion yuan (US$297 billion) with GDP per capita of 82,560 yuan (US$12,784).[75] The three largest service industries are financial services, retail, and real estate. The manufacturing and agricultural sectors accounted for 39.9 percent and 0.7 percent of the total output respectively.[76] Average annual disposable income of Shanghai residents, based on the first three quarters of 2009, was 21,871 RMB.[77]
 
@@ -223,9 +219,9 @@ Other forms of Christianity in Shanghai include Eastern Orthodox minorities and,
 
 Education
 
-Songjiang_ecupl.jpg The city government's education agency is the Shanghai Municipal Education Commission.
+The city government's education agency is the Shanghai Municipal Education Commission.
 
-Xuhui_Liberary_Scene_01.jpg Library]]
+Library]]
 
 Shanghai is a major center of higher education in China with over 30 universities and colleges. A number of China's most prestigious universities are based in Shanghai, including Fudan University, Shanghai Jiao Tong University, Tongji University, East China Normal University (these universities are selected as "985 universities" by the Chinese Government in order to build world-class universities). In 2012 NYU Shanghai was established in Pudong by New York University in partnership with East China Normal University as the first Sino-US joint venture university. In 2013 the Shanghai Municipality and the Chinese Academy of Sciences founded the ShanghaiTech University in the Zhangjiang Hi-Tech Park in Pudong. This new research university is aiming to be a first-class institution on a national and international level.[99] The cadre school China Executive Leadership Academy in Pudong is also located in Shanghai, as well as the China Europe International Business School.
 
@@ -234,7 +230,7 @@ Transport
 
 Public transport
 
-Maglev_Train_-_panoramio.jpg with a top speed of exiting the Shanghai Pudong International Airport]] Zhangjiang_Tram.jpg is one of the two rubber tyre tram system in China]] Yan'an_Elevated_Road_Huashan_Road_Jingan_Park.jpeg]] 201604_An_AC01_train_drives_under_the_gonghexin_bridge.JPG is the largest metro system in World]]
+with a top speed of exiting the Shanghai Pudong International Airport]] is one of the two rubber tyre tram system in China]] ]] is the largest metro system in World]]
 
 Shanghai has an extensive public transport system, largely based on metros, buses and taxis. It is also home to the world's busiest port, the Shanghai Port.[100] Payment for all these public transportation tools can be made by using the Shanghai Public Transportation Card.
 
@@ -246,8 +242,6 @@ Taxis are plentiful in Shanghai. The base fare is currently ¥14(sedan)/¥16(MPV
 
 Roads
 
-Line_71_BRT_Eastern_Terminus_(44838068574).jpg
-
 Shanghai is a major hub of China's expressway network. Many national expressways (prefixed with G) pass through or terminate in Shanghai, including G2 Beijing–Shanghai Expressway (overlapping G42 Shanghai–Chengdu), G15 Shenyang–Haikou, G40 Shanghai–Xi'an, G50 Shanghai–Chongqing, G60 Shanghai–Kunming (overlapping G92 Shanghai–Ningbo), and G1501 Shanghai Ring Expressway. In addition, there are also numerous municipal expressways prefixed with S (S1, S2, S20, etc.). Shanghai has one bridge-tunnel crossing spanning the mouth of the Yangtze to the north of the city.
 
 In the city center, there are several elevated expressways to lessen traffic pressure on surface streets, but the growth of car use has made demand far outstrip capacity, with heavy congestion being commonplace. There are bicycle lanes separate from car traffic on many surface streets, but bicycles and motorcycles are banned from many main roads including the elevated expressways. Recently, cycling has seen a resurgence in popularity thanks to the emergence of a large number of dockless app based bikeshares such as Mobike, Bluegogo and Ofo.[105]
@@ -256,11 +250,11 @@ Private car ownership in Shanghai has been rapidly increasing in recent years, b
 
 Railway
 
-上海南火車站-大堂.JPG]]
+]]
 
 Shanghai has four major railway stations: Shanghai railway station, Shanghai South railway station, Shanghai West railway station, and Shanghai Hongqiao railway station. All are connected to the metro network and serve as hubs in the railway network of China. Two main railways terminate in Shanghai: Jinghu railway from Beijing, and Huhang railway from Hangzhou. Hongqiao Station also serves as the main Shanghai terminus of three high-speed rail lines: Beijing–Shanghai high-speed railway, Shanghai–Kunming high-speed railway and Shanghai–Nanjing intercity railway.
 
-Pudong_International_Airport_at_night.jpg terminal at night]]
+terminal at night]]
 
 Air
 
@@ -269,19 +263,19 @@ Shanghai is one of the leading air transport gateways in Asia. The city has two 
 
 Architecture
 
-A_statue_respresenting_fortune,_prosperity_and_longevity_(36305081851).jpg, now a high-end restaurant and shopping center]]
+, now a high-end restaurant and shopping center]]
 
 Shanghai has a rich collection of buildings and structures of various architectural styles. The Bund, located by the bank of the Huangpu River, is home to a row of early 20th-century architecture, ranging in style from the neoclassical HSBC Building to the art deco Sassoon House. Many areas in the former foreign concessions are also well-preserved, the most notable being the French Concession.
 
 Shanghai has one of the world's largest number of Art Deco buildings as a result of the construction boom during the 1920s and 1930s. One of the most famous architects working in Shanghai was László Hudec, a Hungarian-Slovak architect who lived in the city between 1918 and 1947. Some of his most notable Art Deco buildings include the Park Hotel and the Grand Theater. Other prominent architects who contributed to the Art Deco style are Parker & Palmer, who designed the Peace Hotel, Metropole Hotel, and the Broadway Mansions, and Austrian architect GH Gonda, who designed the Capital Theatre. The Bund's first revitalization started in 1986, with a new promenade by the Dutch Architect Paulus Snoeren, and was completed in the mid-1990s.
 
-Tower_pudong_shanghai_jinmao_tower_and_swfc.jpg (left) and Jin Mao Tower (right)]] Site_of_the_First_National_Congress_of_the_Communist_Party_of_China.jpg, a typical _shikumen_ building in the former French Concession.]] Bridge_at_Nanxi_Street_over_Puhuitang_River,_Qibao.jpg]] In recent years, a great deal of architecturally distinctive and even eccentric buildings have sprung up throughout Shanghai. Notable examples of contemporary architecture include the Shanghai Museum, Shanghai Grand Theatre in the People's Square precinct, and the Shanghai Oriental Art Center. Despite rampant redevelopment, the old city still retains some traditional architecture and designs, such as the Yuyuan Garden, an elaborate traditional garden in the Jiangnan style.
+(left) and Jin Mao Tower (right)]] , a typical _shikumen_ building in the former French Concession.]] ]] In recent years, a great deal of architecturally distinctive and even eccentric buildings have sprung up throughout Shanghai. Notable examples of contemporary architecture include the Shanghai Museum, Shanghai Grand Theatre in the People's Square precinct, and the Shanghai Oriental Art Center. Despite rampant redevelopment, the old city still retains some traditional architecture and designs, such as the Yuyuan Garden, an elaborate traditional garden in the Jiangnan style.
 
 One uniquely Shanghainese cultural element is the _shikumen_ (石库门) residence, typically two- or three-story townhouses with the front yard protected by a high brick wall. Each residence is connected and arranged in straight alleys, known as a _longtang_ (弄堂), pronounced _longdang_ in Shanghainese. The entrance to each alley is usually surmounted by a stylistic stone arch. The whole resembles terrace houses or townhouses commonly seen in Anglo-American countries, but distinguished by the tall, heavy brick wall in front of each house. The name "shikumen" means "stone storage door", referring to the strong gateway to each house.
 
 The shikumen is a cultural blend of elements found in Western architecture with traditional Lower Yangtze (Jiangnan) Chinese architecture and social behavior. All traditional Chinese dwellings had a courtyard, and the shikumen was no exception. Yet, in compromise with its urban nature, it was much smaller and provided an "interior haven" to the commotion in the streets, allowing for raindrops to fall and vegetation to grow freely within a residence. The courtyard also allowed sunlight and adequate ventilation into the rooms.
 
-上海展览中心·上海静安.jpg, an example of Soviet neoclassical architecture in Shanghai]] Less than Beijing, the city also has some examples of Soviet neoclassical architecture or Stalinist architecture. These buildings were mostly erected during the period from the founding of the People's Republic in 1949 until the Sino-Soviet Split in the late 1960s. During this decade, large numbers of Soviet experts, including architects, poured into China to aid the country in the construction of a communist state. Examples of Soviet neoclassical architecture in Shanghai include what is today the Shanghai Exhibition Centre.
+, an example of Soviet neoclassical architecture in Shanghai]] Less than Beijing, the city also has some examples of Soviet neoclassical architecture or Stalinist architecture. These buildings were mostly erected during the period from the founding of the People's Republic in 1949 until the Sino-Soviet Split in the late 1960s. During this decade, large numbers of Soviet experts, including architects, poured into China to aid the country in the construction of a communist state. Examples of Soviet neoclassical architecture in Shanghai include what is today the Shanghai Exhibition Centre.
 
 The Pudong district of Shanghai is home to a number of skyscrapers, many of which rank among the tallest in the world. Among the most prominent examples are the Jin Mao Tower and the taller Shanghai World Financial Center, which at tall is the third tallest skyscraper in mainland China and ranks tenth in the world. The Shanghai Tower, completed in 2015, is the tallest building in China, as well as the second tallest in the world.[109] With a height of , the building has 128 floors and a total floor area of above ground.[110] The distinctive Oriental Pearl Tower, at , is located nearby, as is One Lujiazui, standing at .[111]
 
@@ -290,11 +284,11 @@ Environment
 
 Parks and resorts
 
-Marching_Forward_(216297289).jpeg]]
+]]
 
 The extensive public park system in Shanghai offers the citizens some reprieve from the urban jungle. By the year 2012, the city had 157 parks, with 138 of them free of charge.[112] Some of the parks, aside from offering a green public space to locals, became popular tourist attractions due to their unique location, history or architecture. The former racetrack turned central park, People's Square park, located in the heart of downtown Shanghai, is especially well known for its proximity to other major landmarks in the city. Fuxing Park, located in the former French Concession of Shanghai, features formal French-style gardens and is surrounded by high end bars and cafes. Zhongshan Park in northwestern central Shanghai is famous for its monument of Chopin, the tallest statue dedicated to the composer in the world. Built in 1914 as Jessfield Park, it once contained the campus of St. John's University, Shanghai's first international college; today, it is known for its extensive rose and peony gardens, a large children's play area, and as the location of an important transfer station on the city's metro system. Shanghai Botanical Garden is located southwest of the city center and was established in 1978. One of the newest parks is in the Xujiahui area – Xujiahui Park, built in 1999 on the former grounds of the Great Chinese Rubber Works Factory and the EMI Recording Studio (now La Villa Rouge restaurant). The park has a man-made lake with a sky bridge running across the park, and offers a pleasant respite for Xujiahui shoppers. Other well-known Shanghai parks include: People's Square Park, Gongqing Forest Park, Fuxing Park, Zhongshan Park, Lu Xun Park, Century Park, and Jing'an Park.
 
-Enchanted_Storybook_Castle_of_Shanghai_Disneyland.jpg]] The Shanghai Disney Resort Project was approved by the government on 4 November 2009,[113] and opened in 2016.[114] The $4.4 billion theme park and resort in Pudong features a castle that is the biggest among Disney's resorts.[115]
+]] The Shanghai Disney Resort Project was approved by the government on 4 November 2009,[113] and opened in 2016.[114] The $4.4 billion theme park and resort in Pudong features a castle that is the biggest among Disney's resorts.[115]
 
 Environmental protection
 
@@ -302,7 +296,7 @@ Public awareness of the environment is growing, and the city is investing in a n
 
 Air pollution and government reaction
 
-Shanghai_haze_in_Huangpu_Distract_20131206.jpg during the 2013 Eastern China smog]]
+during the 2013 Eastern China smog]]
 
 Air pollution in Shanghai is not as severe as in many other Chinese cities, but still substantial by world standards.[118] During the December 2013 Eastern China smog, air pollution rates reached between 23 and 31 times the international standard.[119][120] On 6 December 2013, levels of PM_(2.5) particulate matter in Shanghai rose above 600 micrograms per cubic meter and in the surrounding area, above 700 micrograms per cubic metre.[121] Levels of PM_(2.5) in Putuo District reached 726 micrograms per cubic meter.[122][123] As a result, the Shanghai Municipal Education Commission received orders to suspend students' outdoor activities. Authorities pulled nearly one-third of government vehicles from the roads, while a mass of construction work was halted. Most of inbound flights were cancelled, and more than 50 flights were diverted at Pudong International Airport.[124]
 
@@ -323,7 +317,7 @@ Modern Shanghainese is based on different dialects of Taihu Wu: Suzhounese, Ning
 
 Museums
 
-Shanghai_Museum_exterior_1.jpg, located on the People's Square]]
+, located on the People's Square]]
 
 Cultural curation in Shanghai has seen significant growth since 2013, with several new museums having been opened in the city.[131] This is in part due to the city's most recently released city development plans, with aims in making the city "an excellent global city".[132] As such, Shanghai has several museums[133] of regional and national importance.[134] The Shanghai Museum has one of the best collections of Chinese historical artifacts in the world, including a large collection of ancient Chinese bronzes. The China Art Museum, located in the former China Pavilion of Expo 2010, is the largest art museum in Asia. Power Station of Art is built in a converted power station, similar to London's Tate Modern. The Shanghai Natural History Museum and the Shanghai Science and Technology Museum are major natural history and science museums. In addition, there is a variety of smaller, specialist museums housed in important archaeological and historical sites such as the Songze Museum, the Museum of the First National Congress of the Chinese Communist Party, the site of the Provisional Government of the Republic of Korea, the former Ohel Moshe Synagogue (Shanghai Jewish Refugees Museum), and the General Post Office Building (Shanghai Postal Museum). The Rockbund Art Museum is also in Shanghai. There are also many art galleries, concentrated in the M50 Art District and Tianzifang. Shanghai is also home to one of China's largest aquariums, the Shanghai Ocean Aquarium. MoCA, Museum of Contemporary Art of Shanghai, is a private museum centrally located in People's Park on West Nanjing Road, and is committed to promote contemporary art and design.
 
@@ -333,7 +327,7 @@ Shanghai was the birthplace of Chinese cinema[135] and theater. China's first sh
 
 Arts
 
-Renxiong_wan04s.jpg, a pioneer of the Shanghai School of Chinese art, c. 1850.]]
+, a pioneer of the Shanghai School of Chinese art, c. 1850.]]
 
 The "Shanghai School" was an important Chinese school of traditional arts during the Qing Dynasty and the 20th century. Under the masters from this school, traditional Chinese art developed into the modern style of "Chinese painting". The Shanghai School challenged and broke the elitist tradition of Chinese art,[137] while also paying technical homage to the ancient masters and improving on existing traditional techniques. Members of this school were themselves educated _literati_ who had come to question their very status and the purpose of art and had anticipated the impending modernization of Chinese society. In an era of rapid social change, works from the Shanghai School were widely innovative and diverse and often contained thoughtful yet subtle social commentary. The best known figures from this school include Qi Baishi, Ren Xiong, Ren Bonian, Zhao Zhiqian, Wu Changshuo, Sha Menghai, Pan Tianshou, Fu Baoshi, Xie Zhiliu, He Tianjian, and Wang Zhen. In literature, the term was used in the 1930s by some May Fourth Movement intellectualsnotably Zhou Zuoren and Shen Congwenas a derogatory label for the literature produced in Shanghai at the time. They argued that Shanghai School literature was merely commercial and therefore did not advance social progress. This became known as the _Jingpai_ versus _Haipai_ (Beijing v. Shanghai School) debate.[138]
 
@@ -341,7 +335,7 @@ The "Songjiang School" () was a small painting school during the Ming Dynasty. I
 
 Fashion
 
-Qipao1.jpg'' while playing golf in this 1930s Shanghai soap advertisement.]]
+'' while playing golf in this 1930s Shanghai soap advertisement.]]
 
 Other Shanghainese cultural artifacts include the cheongsam (Shanghainese: _zansae_), a modernization of the traditional Manchurian qipao. This contrasts sharply with the traditional qipao, which was designed to conceal the figure and be worn regardless of age. The cheongsam went along well with the western overcoat and the scarf, and portrayed a unique East Asian modernity, epitomizing the Shanghainese population in general. As Western fashions changed, the basic cheongsam design changed, too, introducing high-neck sleeveless dresses, bell-like sleeves, and the black lace frothing at the hem of a ball gown. By the 1940s, cheongsams came in transparent black, beaded bodices, matching capes and even velvet. Later, checked fabrics became also quite common. The 1949 Communist Revolution ended the cheongsam and other fashions in Shanghai. However, the Shanghainese styles have seen a recent revival as stylish party dresses. The fashion industry has been rapidly revitalizing in the past decade. Like Shanghai's architecture, local fashion designers strive to create a fusion of western and traditional designs, often with innovative if controversial results.
 
@@ -385,7 +379,7 @@ Broadcasters:
 
 Sports
 
-Shanghai_F1_Circui_01.jpg in Shanghai]] Tsonga_Potro_2008_Tennis_Masters.jpg in Qizhong Stadium]] Shanghai is home to several football teams, including two in the Chinese Super League – Shanghai Greenland Shenhua and Shanghai SIPG. Another professional team, Shanghai Shenxin, is currently in China League One. China's top tier basketball team, the Shanghai Sharks of the Chinese Basketball Association, developed Yao Ming before he entered the NBA. Shanghai also has an ice hockey team, China Dragon, and a baseball team, the Shanghai Golden Eagles, which plays in the China Baseball League. YaoMingoffense.jpg was born in Shanghai.]] Shanghai is the hometown of many outstanding and well-known Chinese professional athletes, such as Yao Ming, the 110-meter hurdler Liu Xiang, the table-tennis player Wang Liqin and the former world women's single champion and current Olympic silver medalist badminton player Wang Yihan.
+in Shanghai]] in Qizhong Stadium]] Shanghai is home to several football teams, including two in the Chinese Super League – Shanghai Greenland Shenhua and Shanghai SIPG. Another professional team, Shanghai Shenxin, is currently in China League One. China's top tier basketball team, the Shanghai Sharks of the Chinese Basketball Association, developed Yao Ming before he entered the NBA. Shanghai also has an ice hockey team, China Dragon, and a baseball team, the Shanghai Golden Eagles, which plays in the China Baseball League. was born in Shanghai.]] Shanghai is the hometown of many outstanding and well-known Chinese professional athletes, such as Yao Ming, the 110-meter hurdler Liu Xiang, the table-tennis player Wang Liqin and the former world women's single champion and current Olympic silver medalist badminton player Wang Yihan.
 
 As of 2004, Shanghai hosts the Chinese Grand Prix, a round of the Formula One World Championship. The race is staged annually at the Shanghai International Circuit. It hosted the 1000th Formula One race on 14 April 2019. In 2010, Shanghai also became the host city of Deutsche Tourenwagen Masters (DTM), which raced in a street circuit in Pudong. In 2012, Shanghai started to host 6 Hours of Shanghai as one round from the inaugural season of the FIA World Endurance Championship.
 

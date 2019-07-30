@@ -1,1 +1,0 @@
-The WOMEN'S 100 METRE BREASTSTROKE swimming events for the 2016 Summer Paralympics take place at the Rio Olympic Stadium from 8 to 16 September. A total of ten events are contested for ten different classifications.

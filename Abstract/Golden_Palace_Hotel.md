@@ -1,1 +1,0 @@
-GOLDEN PALACE HOTEL RESORT AND SPA, is a 5-star grand luxury hotel in Tsaghkadzor, a popular spa town and health resort in Kotayk Province, Armenia. It was opened in 2013 and is operated by the Australian _Luxury Group_ organization.[1]

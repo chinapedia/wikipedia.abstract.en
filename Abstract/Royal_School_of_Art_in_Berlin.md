@@ -1,1 +1,0 @@
-Berlin,_Schoeneberg,_Grunewaldstrasse_2-5,_Medienhaus_Universitaet_der_Kuenste.jpg

@@ -1,1 +1,0 @@
-CHARLOTTETOWN RESEARCH AND DEVELOPMENT CENTRE is a research facility that falls under the Agriculture and Agri-Food Canada umbrella. The centre was founded in 1909 and focuses on research to enhance environmentally sustainable crop production systems of the Atlantic regions.[1]

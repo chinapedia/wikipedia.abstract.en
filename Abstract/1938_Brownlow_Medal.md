@@ -1,1 +1,0 @@
-The 1938 BROWNLOW MEDAL was the 15th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Dick Reynolds of the Essendon Football Club won the medal by polling eighteen votes during the 1938 VFL season.[2]

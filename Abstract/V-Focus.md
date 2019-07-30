@@ -1,1 +1,0 @@
-_V-FOCUS_ () is a 2016 Taiwanese television series starring Melvin Sia, Ling Hung, Huang Wei Ting and Yorke Sun.[1][2][3][4][5] Filming began on September 21, 2016, and is filmed as it airs. The original broadcast began on October 26, 2016, on SET Metro, airing weekdays (Monday through Friday) at 8:00 pm.

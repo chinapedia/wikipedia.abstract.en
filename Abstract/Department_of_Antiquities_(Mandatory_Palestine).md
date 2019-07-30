@@ -1,1 +1,0 @@
-The DEPARTMENT OF ANTIQUITIES was a department of the British administration of Mandatory Palestine from 1920 to 1948 that was in charge of the protection and investigation of archaeological remains and artefacts in Palestine.

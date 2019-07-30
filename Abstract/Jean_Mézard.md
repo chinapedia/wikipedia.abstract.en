@@ -1,1 +1,0 @@
-{{ infobox Politician | name = Jean Mézard | office = Mayor of Aurillac | term_start = 1971 | term_end = 1977 | predecessor = Jacques Meyniel | successor = René Souchon | birth_date = | birth_place = Vayrac, France | death_date = | death_place = Aurillac, France | nationality = French | children = Jacques Mézard }}

@@ -1,1 +1,0 @@
-The CO-CATHEDRAL OF ST. JOSEPH[1] () Also TADÓ CATHEDRAL Is a temple of the Catholic Church under the invocation of St. Joseph. The building is located in the municipality of Tadó[2] in the department of Chocó in the South American country of Colombia and is one of the episcopal headquarters of the Diocese of Istmina-Tadó along with the St. Paul Cathedral in Istmina.

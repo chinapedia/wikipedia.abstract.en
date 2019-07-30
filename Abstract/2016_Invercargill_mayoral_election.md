@@ -1,1 +1,0 @@
-The 2016 INVERCARGILL MAYORAL ELECTION finished on Saturday, 8 October 2016 and was conducted under the first-past-the-post voting system using the postal voting system. It was held as part of the 2016 New Zealand local elections.

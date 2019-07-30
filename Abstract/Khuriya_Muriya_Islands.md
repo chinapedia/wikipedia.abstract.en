@@ -1,1 +1,0 @@
-Khuriya_muriya_76.jpg The KHURIYA MURIYA ISLANDS (or _Kuria Muria_, or _Curia Muria_) (; transliterated: _Juzur Khurīyā Murīyā_ or _Khūryān Mūryān)_ are a group of five islands in the Arabian Sea, off the southeastern coast of the Sultanate of Oman. The islands form part of the province of Shalim and the Hallaniyat Islands in the governorate of Dhofar.

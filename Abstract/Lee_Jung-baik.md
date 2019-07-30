@@ -1,1 +1,0 @@
-LEE JUNG-BAIK (born August 27, 1986) is a South Korean Greco-Roman wrestler. He competed in the men's Greco-Roman 59 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 32 by Stig-André Berge.[1][2]

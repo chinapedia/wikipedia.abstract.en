@@ -1,1 +1,0 @@
-The_Homestead,_Barnes,_April_2014_01.jpg THE HOMESTEAD is a house at Church Road, Barnes, London SW13, built in about 1720.[1] The house, and also the wall and railings fronting the road, are Grade II listed.[2][3]

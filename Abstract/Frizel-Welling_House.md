@@ -1,1 +1,0 @@
-FRIZEL-WELLING HOUSE, also known as the CHARLES WELLING HOUSE and JOSEPH FRIZEL HOUSE, is a historic home located at Jackson, Cape Girardeau County, Missouri. It was built in 1838, and is a 2 1/2-story, three bay, Greek Revival style frame dwelling with a 1 1/2-story wing constructed in 1818. It has a front gable roof with pedimented front gable.[1]

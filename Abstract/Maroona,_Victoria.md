@@ -1,1 +1,0 @@
-MAROONA is a town in the north west region of Victoria, Australia. It is approximately west of the state's capital, Melbourne. Maroona is part of the statistical area of Tatyoon which at the 2016 Census, had a population of 110.[1]

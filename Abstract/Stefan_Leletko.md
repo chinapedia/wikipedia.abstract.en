@@ -1,1 +1,0 @@
-STEFAN LELETKO (born in Świdnica - in Opole) was a Polish male weightlifter, who competed in the flyweight class and represented Poland at international competitions. He won the gold medal at the 1982 World Weightlifting Championships in the 52 kg category. He participated at the 1976 Summer Olympics and at the 1980 Summer Olympics in the 52 kg event.[1]

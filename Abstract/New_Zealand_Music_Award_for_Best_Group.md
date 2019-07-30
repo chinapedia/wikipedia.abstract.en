@@ -1,1 +1,0 @@
-BEST GROUP is a New Zealand Music Award that honours New Zealand groups that have release an outstanding album in the previous year. For the purposes of the award, a group consists of two or more people.[1] The award winner is determined by the Voting Academy, along with a 30% sales performance weighting.[2]

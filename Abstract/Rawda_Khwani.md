@@ -1,1 +1,0 @@
-RAWDA KHWANI (, "reading the Rawda") is the Shia Iranian[1] Muslim ritual of the Mourning of Muharram. It is held every day of the year to commemorate the death of Husayn ibn Ali and his followers during the Battle of Karbala.

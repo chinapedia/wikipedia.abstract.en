@@ -1,1 +1,0 @@
-_A YOUNG PATRIOT: THE AMERICAN REVOLUTION AS EXPERIENCED BY ONE BOY_ is a 1996 Children's history book by Jim Murphy. It is about the American Revolution and is based on the writings of Joseph Plumb Martin.

@@ -1,1 +1,0 @@
-BI YIRONG is a Chinese competitive swimmer who won the gold medal in the 800 meter freestyle at the 2014 Asian Games. She also won a silver medal in 400 meter freestyle there.[1][2] She specializes in freestyle. In 2016, she joined the University of Michigan swim team.[3] She has produced a total of two international medals, one gold and one silver, both in the 2014 Asian Games.

@@ -1,1 +1,0 @@
-WILLIAM AUGUSTA TRICE (February 10, 1908 – December 11, 1976)[1] was an American blues guitarist, singer and songwriter.[2][3] He released two singles and an album. He remained loyal to his native North Carolina and its regional blues style, often referred to as Piedmont blues, East Coast blues, or more generally country blues.[4]

@@ -1,1 +1,0 @@
-_MODERN ENGLISH: 16 GREAT HITS_ is a compilation album released by Australian recording artist Jon English. The album was released in December 1983 and peaked at number 27 on the Australian Kent Music Report in January 1984.[1][2]

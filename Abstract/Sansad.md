@@ -1,1 +1,0 @@
-_SANSAD_ or _SANGSAD_ is the word for "Assembly", association, council or "Parliament" in several Indo-Aryan languages, derived from a Sanskrit root. It may also mean:

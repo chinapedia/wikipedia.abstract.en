@@ -1,1 +1,0 @@
-SUSAN LOUISE MARSH was an American activist, author, and children's advocate. Marsh is responsible for ending the sole guardianship laws in the state of Missouri through her persistent dedication for change.

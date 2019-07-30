@@ -1,1 +1,0 @@
-DÍYÁ'U'LLÁH (alternate spelling: Zíyá'u'lláh) (15 August 1864 - 30 October 1898) was one of the sons of Bahá'u'lláh. He was the second son of his father's second wife Fatimih (also known as Mahd-i-'Ulya). He was born in Edirne (modern day Adrianople).[1][2]

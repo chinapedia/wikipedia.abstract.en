@@ -1,1 +1,0 @@
-The MARTYRDOM OF HABIB THE DEACON is a Syriac Christian martyrdom text. The setting of the text takes place at Edessa in which biblical scholars have deduced the occurrence of the martyrdom to the Diocletianic Persecution.

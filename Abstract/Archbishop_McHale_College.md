@@ -1,1 +1,0 @@
-ARCHBISHOP MCHALE COLLEGE is a non-denominational vocational secondary school situated in Tuam, County Galway, Ireland.[1] It is run by the Galway/Roscomon Education and Training Board. The school is named after Archbishop John McHale

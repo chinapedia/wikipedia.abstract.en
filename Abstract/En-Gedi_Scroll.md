@@ -1,1 +1,0 @@
-Ein_Gedi_Scroll_Fragment_2-Shai_Halevi-IAA.jpg

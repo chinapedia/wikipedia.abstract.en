@@ -1,1 +1,0 @@
-RALLS HIGH SCHOOL is a public high school located in Ralls, Texas (USA) and classified as a 2A school by the UIL. It is part of the Ralls Independent School District located in Crosby County. In 2015, the school was rated "Met Standard" by the Texas Education Agency.[1]

@@ -1,4 +1,4 @@
-Doctor_Syn_Cover_1915.jpg'']] This list of SMUGGLING IN FICTION includes works of fiction (in both prose and poetry) where smuggling is a prominent theme. Smuggling is a common trope or theme in literature and can be found in a wide range of works – from the 18th century novels of Charlotte Turner Smith to Prosper Mérimée's 19th century novella, _Carmen_ (the inspiration for numerous films as well as Bizet's opera, _Carmen_)[1] to the James Bond novel (and later film) _Diamonds are Forever_.
+'']] This list of SMUGGLING IN FICTION includes works of fiction (in both prose and poetry) where smuggling is a prominent theme. Smuggling is a common trope or theme in literature and can be found in a wide range of works – from the 18th century novels of Charlotte Turner Smith to Prosper Mérimée's 19th century novella, _Carmen_ (the inspiration for numerous films as well as Bizet's opera, _Carmen_)[1] to the James Bond novel (and later film) _Diamonds are Forever_.
 
 
 List of works
@@ -15,7 +15,7 @@ Novels
 -   Paul Bowles: _The Sheltering Sky_ (1949)[2]
 -   Samuel Rutherford Crockett: _The Raiders_ (1894) – a novel about smugglers in Galloway[3]
 -   George Payne Rainsford James: _The Smuggler: A tale_[4]
--   Daphne du Maurier: _Jamaica Inn_ (1936) – a novel about both smugglers and wreckers in Cornwall[5]Georges_Bizet_-_Rosabel_Morrison_-_another_Carmen_poster.png'']]
+-   Daphne du Maurier: _Jamaica Inn_ (1936) – a novel about both smugglers and wreckers in Cornwall[5]'']]
 -   J. Meade Falkner: _Moonfleet_ (1898)
 -   Ian Fleming: _Diamonds Are Forever_ (1956)
 -   Raelynn Hillhouse: _Rift Zone_ (2004)

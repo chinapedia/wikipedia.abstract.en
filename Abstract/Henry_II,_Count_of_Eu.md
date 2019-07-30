@@ -1,1 +1,0 @@
-HENRY II, COUNT OF EU (died 1191), son of John, Count of Eu and Lord of Hastings, and Alice d'Aubigny. Henry inherited the countship of Eu and lordship of Hastings upon the death of his father (1170).

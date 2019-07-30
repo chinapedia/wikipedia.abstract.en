@@ -1,1 +1,0 @@
-DARLING DARLING is a 2016-2017 Tamil language comedy soap opera starring Ramji, V. J. Chitra, Nalini, Sri Vidhya Shankar, Monkey Ravi, Vasanth Gopinath and Nandhini. The show premiered on 19 December 2016. The show is an adaptation of the &TV serial _Bhabi Ji Ghar Par Hai!_[1] The show last aired on 10 June 2017 and ended with 102 episodes.

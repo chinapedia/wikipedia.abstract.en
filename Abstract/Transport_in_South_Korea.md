@@ -1,1 +1,0 @@
-TRANSPORTATION IN SOUTH KOREA is provided by extensive networks of railways, highways, bus routes, ferry services and air routes that criss-cross the country. South Korea is the third country in the world to operate a commercial maglev train.[1]

@@ -1,1 +1,0 @@
-QIU JIANLIANG () is a Chinese Muay Thai kickboxer. He joined the Chinese National Muay Thai Team in September 2012. In October 2013 he joined the Da Dong Xiang fight club.[1] As of 1 November 2018, he is ranked the #1 featherweight in the world by Combat Press.[2]

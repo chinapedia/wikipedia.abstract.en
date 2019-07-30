@@ -1,1 +1,0 @@
-Route_of_the_2000_Tour_de_France.png The 2000 Tour de France was the 87th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Futuroscope with a prologue individual time trial on 1 July and Stage 11 occurred on 11 July with a hilly stage to Revel. The race finished on the Champs-Élysées in Paris on 23 July.

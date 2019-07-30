@@ -1,1 +1,0 @@
-The Western Pacific nation of Tuvalu, formerly known as the Ellice Islands, is situated and is 26 km northeast of Australia and is approximately halfway between Hawaii and Australia. It lies east-northeast of the Santa Cruz Islands (belonging to the Solomons), southeast of Nauru, south of Kiribati, west of Tokelau, northwest of Samoa and Wallis and Futuna and north of Fiji.

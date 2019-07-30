@@ -1,1 +1,0 @@
-The FAGALES are an order of flowering plants, including some of the best-known trees. The order name is derived from genus _Fagus_, beeches. They belong among the rosid group of dicotyledons. The families and genera currently included are as follows:

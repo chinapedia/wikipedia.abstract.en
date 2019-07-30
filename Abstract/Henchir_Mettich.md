@@ -1,1 +1,0 @@
-thumb HENCHIR METTICH is a town of the Bagradas Valley region in Tunisia, 50 km west of the ancient city of Carthage. The area around Henchir Mettich is currently a semi-arid district of mostly barren hills (approximately 400 mm-500mm rainfall per annum), some of which are currently cultivated with olive trees.

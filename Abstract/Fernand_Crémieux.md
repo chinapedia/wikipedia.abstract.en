@@ -1,1 +1,0 @@
-FERNAND CRÉMIEUX (1857-1928) was a French lawyer and politician. He served as a member of the National Assembly from 1885 to 1889, and from 1893 to 1898, representing Gard.[1] He also served as a member of the French Senate from 1903 to 1928, representing Gard.[2]

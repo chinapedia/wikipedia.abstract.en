@@ -1,1 +1,0 @@
-TIANCHENG INTERNATIONAL AUCTIONEER LIMITED (also known as TIAN CHENG INTERNATIONAL OR TIANCHENG INTERNATIONAL) is a niche auction house that specialises in the sale of Chinese art[1] as well as jadeite.[2][3][4][5] Its headquarters is in Hong Kong, with other offices in Shanghai and Beijing.[6]

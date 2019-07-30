@@ -1,1 +1,0 @@
-BCE or B.C.E. may stand for:

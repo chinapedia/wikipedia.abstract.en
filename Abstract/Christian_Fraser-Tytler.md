@@ -1,1 +1,0 @@
-Senior_Controller_Christian_Helen_Fraser-tytler,_Cbe_-_Deputy_Director_of_Aa_Command,_Ats_Art.IWMARTLD3209.jpg (1943) ]] CHRISTIAN HELEN FRASER-TYTLER (née Christian Helen Shairp) (23 August 1897 – 1 July 1995) was a member of the Scottish Landed gentry and a senior officer in Britain's Auxiliary Territorial Service (ATS) during World War II.

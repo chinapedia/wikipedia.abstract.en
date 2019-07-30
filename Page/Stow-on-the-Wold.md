@@ -40,7 +40,7 @@ Gloucestershire County Council
 
 Fairs
 
-St_Edwards_Church_-_Stow_on_th_Wold.jpg at the north porch of to St Edward's Church]] In 1330, Edward III set up an annual 7-day market to be held in August. In 1476, Edward IV replaced that with two 5-day fairs, two days before and two days after the feast of St Philip and St James in May, and similarly in October on the feast of St Edward the Confessor (the saint associated with the town). The aim of these annual charter fairs was to establish Stow as a place to trade, and to remedy the unpredictable passing trade. These fairs were located in the square, which is still the town centre.
+at the north porch of to St Edward's Church]] In 1330, Edward III set up an annual 7-day market to be held in August. In 1476, Edward IV replaced that with two 5-day fairs, two days before and two days after the feast of St Philip and St James in May, and similarly in October on the feast of St Edward the Confessor (the saint associated with the town). The aim of these annual charter fairs was to establish Stow as a place to trade, and to remedy the unpredictable passing trade. These fairs were located in the square, which is still the town centre.
 
 As the fairs grew in fame and importance the town grew more prosperous. Traders who once only dealt in livestock, now dealt in many handmade goods, and the wool trade always stayed a large part of the trade Reportedly, 20,000 sheep changed hands at one 19th century fair. Many alleyways known as "tures" run between the buildings of Stow into the market square; these once were used in the herding of sheep into the square to be sold.[4]
 
@@ -54,8 +54,6 @@ Stow played a role in the English Civil War. A number of fights took place aroun
 
 
 Popular culture
-
-Church_and_churchyard.jpg
 
 Given its exposed spot on the top of Stow Hill, the town is often referred to with the couplet "Stow on the Wold, where the winds blow cold".
 

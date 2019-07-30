@@ -1,1 +1,0 @@
-ANDRÉ GUIMBRETIÈRE (1923–2014) was a French Indologist, professor of languages of Inda (Hindi, Urdu) at the Institut national des langues et civilisations orientales of which he was president from 1969 to 1971.

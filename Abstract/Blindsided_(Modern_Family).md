@@ -1,1 +1,0 @@
-"BLINDSIDED" is the third episode of the eighth season of the American sitcom _Modern Family_. It aired on October 5, 2016 on American Broadcasting Company (ABC). The episode is directed by Ryan Case and written by Stephen Levitan.

@@ -1,1 +1,0 @@
-ANDOCIDES (;[1] , _Andokides_; c. 440 – c. 390 BC) was a logographer (speech writer) in Ancient Greece. He was one of the ten Attic orators included in the "Alexandrian Canon" compiled by Aristophanes of Byzantium and Aristarchus of Samothrace in the third century BC.

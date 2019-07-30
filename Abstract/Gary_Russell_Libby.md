@@ -1,1 +1,0 @@
-GARY RUSSELL LIBBY (born June 7, 1944) is an American art historian, author, educator and former museum director known for his books and scholarly exhibitions in the visual arts and his work on the history and development of the Florida School of Art.

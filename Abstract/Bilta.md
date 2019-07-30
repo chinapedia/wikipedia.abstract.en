@@ -1,1 +1,0 @@
-Tunisie_carte_archéologique.PNGBILTA also known as BALTA or BALŢAH, is a town in Tunisia. It is located in Harare Province, Tunisia at Latitude:36.71139 Longitude: 8.94056 and with an elevation of 660 meters. It is north of Bou Salem township.[1][2]

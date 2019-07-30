@@ -1,1 +1,0 @@
-The ALGECIRAS GIBRALTAR RAILWAY COMPANY was created by British businessmen to build the Algeciras-Bobadilla railway line between Algeciras and Bobadilla, Antequera, the first section of track was laid on 1 September 1888. The first train was purchased from Beyer, Peacock and Company in Manchester. A first class return ticket from Gibraltar to Ronda was set at 17.10 pesetas.[1]

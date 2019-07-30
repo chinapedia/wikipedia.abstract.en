@@ -1,1 +1,0 @@
-The DISTRICT COUNCIL OF PORT GAWLER was a local government area in South Australia from 1856 to 1935. It was proclaimed on 11 September 1856 after being severed from the District Council of Mudla Wirra.[1][2]

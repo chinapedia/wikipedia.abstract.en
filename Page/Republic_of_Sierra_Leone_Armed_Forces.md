@@ -1,4 +1,4 @@
-U.S._Army_Africa_ACOTA_team_trains_Sierra_Leone_troops_-_Flickr_-_US_Army_Africa_(6).jpg THE REPUBLIC OF SIERRA LEONE ARMED FORCES (RSLAF) is the armed forces of Sierra Leone, responsible for the territorial security of Sierra Leone's border and defending the national interests of Sierra Leone, within the framework of its international obligations. The armed forces were formed after independence in 1961, on the basis of elements of the former British Royal West African Frontier Force, then present in the country. The Sierra Leone Armed Forces currently consist of around 13,000 personnel.[1]
+THE REPUBLIC OF SIERRA LEONE ARMED FORCES (RSLAF) is the armed forces of Sierra Leone, responsible for the territorial security of Sierra Leone's border and defending the national interests of Sierra Leone, within the framework of its international obligations. The armed forces were formed after independence in 1961, on the basis of elements of the former British Royal West African Frontier Force, then present in the country. The Sierra Leone Armed Forces currently consist of around 13,000 personnel.[1]
 
 Before Sierra Leone gained independence in 1961, the military was known as the Royal Sierra Leone Military Force. The military seized control in 1968, bringing the National Reformation Council into power. On 19 April 1971, when Sierra Leone became a republic, the Royal Sierra Leone Military Force was renamed as the Republic of Sierra Leone Military Force (RSLMF).[2] The RSLMF remained a single service organisation until 1979 when the Sierra Leone Navy was established. It then remained largely unchanged for 16 years until in 1995 when Defence Headquarters (DHQ) was established and the Sierra Leone Air Wing (SLAW) formed. The RSLMF was renamed the Armed Forces of the Republic of Sierra Leone (AFRSL).
 
@@ -78,8 +78,6 @@ In 1973 the air force was established with Swedish help in the form of two Saab-
 The Republic of Sierra Leone Air Force was merged with the other services to form the RSL Armed Forces from 2002. Sierra Leone has a very small air component with a limited offensive capability. The status of its equipment is unknown, but the aircraft are not operable.[36]
 
 Current inventory
-
-Roundel_of_Sierra_Leone.svg
 
   Aircraft       Origin   Type                  Variant   In service   Notes
   -------------- -------- --------------------- --------- ------------ -------

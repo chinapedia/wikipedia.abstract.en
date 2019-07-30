@@ -1,1 +1,0 @@
-FAYETTE CHRISTIAN SCHOOL (FCS) is a private Christian school in Washington Court House, Ohio, for students in preschool through 12th grade. FCS serves Washington Court House, Jeffersonville, and surrounding areas. It is the only Christian school among the three school systems in Fayette County.

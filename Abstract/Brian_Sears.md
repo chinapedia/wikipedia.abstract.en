@@ -1,1 +1,0 @@
-BRIAN J. SEARS (born January 21, 1968 in Fort Lauderdale, Florida) is a driver of harness racing horses who in 2016 was elected to the Harness Racing Hall of Fame. He has won more than 9,600 races with purses in excess of $170 million.[1] He was inducted to the Harness Racing Museum in Goshen, New York at July 2, 2017.[2]

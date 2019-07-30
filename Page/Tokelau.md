@@ -1,4 +1,4 @@
-Tokelau_Islands.png is shown to the south.]] Atafu.jpg Nukunonu.jpg Fakaofo_Satellite_NASA.jpg Bowditch_Tokelau.png.]]
+is shown to the south.]] .]]
 
 TOKELAU (; previously known as the UNION ISLANDS, and officially as TOKELAU ISLANDS until 1976;[1] lit. "north-northeast"[2]) is a dependent territory of New Zealand in the southern Pacific Ocean. It consists of three tropical coral atolls (Atafu, Nukunonu and Fakaofo), with a combined land area of . The capital rotates yearly between the three atolls.[3] Tokelau lies north of the Samoan Islands, east of Tuvalu, south of the Phoenix Islands, southwest of the more distant Line Islands, and northwest of the Cook Islands. Swains Island is geographically part of Tokelau, but is subject to an ongoing territorial dispute and is currently administered by the United States as part of American Samoa.
 
@@ -32,7 +32,7 @@ Missionaries preached Christianity in Tokelau from 1845 to the 1870s. French Cat
 
 Helped by Swains Island-based Eli Jennings senior, Peruvian "blackbird" slave traders arrived in 1863 and kidnapped nearly all (253) of the able-bodied men to work as labourers, depopulating the atolls.[27] The Tokelauan men died of dysentery and smallpox, and very few returned. With this loss, the system of governance became based on the "Taupulega", or "Councils of Elders", where individual families on each atoll were represented.[28][29] During this time, Polynesian immigrants and American, Scottish, French, Portuguese and German beachcombers settled, marrying local women and repopulating the atolls.[30]
 
-Between 1856 and 1979, the United States claimed that it held sovereignty over the island and the other Tokelauan atolls. In 1979, the U.S. conceded that Tokelau was under New Zealand sovereignty, and a maritime boundary between Tokelau and American Samoa was established by the Treaty of Tokehega. Fakaofo_village_square_20070716.jpg
+Between 1856 and 1979, the United States claimed that it held sovereignty over the island and the other Tokelauan atolls. In 1979, the U.S. conceded that Tokelau was under New Zealand sovereignty, and a maritime boundary between Tokelau and American Samoa was established by the Treaty of Tokehega.
 
 Tropical cyclones
 
@@ -99,7 +99,7 @@ In 2011 Tokelau declared its entire exclusive economic zone of a shark sanctuary
 
 Economy
 
-Nukunonu_Lagoon20070716.jpg Lagoon in Tokelau.]] Atafu_street_dawn_20070715.jpg According to the US Central Intelligence Agency's list of countries by GDP (PPP) Tokelau has the smallest economy in the world. Tokelau has an annual purchasing power of about US$1,000 (€674) per capita. The government is almost entirely dependent on subsidies from New Zealand. It has annual revenues of less than US$500,000 (€336,995) against expenditures of some US$2.8 million (€1.9 million). The deficit is made up by aid from New Zealand.
+Lagoon in Tokelau.]] According to the US Central Intelligence Agency's list of countries by GDP (PPP) Tokelau has the smallest economy in the world. Tokelau has an annual purchasing power of about US$1,000 (€674) per capita. The government is almost entirely dependent on subsidies from New Zealand. It has annual revenues of less than US$500,000 (€336,995) against expenditures of some US$2.8 million (€1.9 million). The deficit is made up by aid from New Zealand.
 
 Tokelau annually exports around US$100,000 (€67,000) of stamps, copra and woven and carved handicrafts and imports over US$300,000 (€202,000) of foodstuffs, building materials, and fuel to, and from, New Zealand. New Zealand also pays directly for the cost of medical and education services. Local industries include small-scale enterprises for copra production, wood work, plaited craft goods, stamps, coins, and fishing. Agriculture and livestock produces coconuts, copra, breadfruit, papayas, bananas, figs, pigs, poultry and a few goats. Many Tokelauans live in New Zealand and support their families in Tokelau through remittances.
 
@@ -111,8 +111,6 @@ Three solar power stations provide 100% of current electrical demand from photov
 
 Internet domain name
 
-TokelauInternetByAtoll2011.png
-
 Tokelau has increased its GDP by more than 10% through registrations of domain names under its top-level domain, .tk.[73] Registrations can be either free, in which case the user owns only usage rights and not the domain itself, or paid, which grants full rights. Free domains are pointed to Tokelau name servers, which redirects the domain via HTML frames to a specified address or to a specified A or NS record, and the redirection of up to 250 email addresses to an external address (not at a .tk domain).
 
 In September 2003 Fakaofo became the first part of Tokelau with a high-speed Internet connection. Foundation Tokelau financed the project. Tokelau gives most domain names under its authority away to anyone for free to gain publicity for the territory. This has allowed the nation to gain enhanced telecommunications technologies, such as more computers and Internet access for Tokelauan residents. By 2012, there were about 120 computers, mostly laptops, and 1/6th of the economy consists of income from .tk domain names.[74]
@@ -122,7 +120,7 @@ According to a 2016 analysis of domain name registration performed by the .uk re
 
 Demography
 
-LanguagesSpokenTokelau2011.png According to the 2016 Tokelau Census, Tokelau has a _de jure_ usually resident population of 1,499 people. The census shows a 6.2% increase in the de jure usually resident population between 2011 and 2016.[77]
+According to the 2016 Tokelau Census, Tokelau has a _de jure_ usually resident population of 1,499 people. The census shows a 6.2% increase in the de jure usually resident population between 2011 and 2016.[77]
 
 The nationals of Tokelau are called Tokelauans, and the major ethnic group is Polynesian; it has no recorded minority groups. The major religion is the Congregational Christian Church and the main language is Tokelauan, but English is also spoken.
 
@@ -182,13 +180,13 @@ Culture
 
 Healthcare and education
 
-TokelauLiteracyByAge2011.png Each atoll has a school and hospital. The health services have a Director of Health in Apia and a Chief Clinical Advisor who moves from atoll to atoll as required to assist the doctors attached to each hospital. In 2007 there was not always a doctor on each island and locums were appointed to fill the gaps. Upcoming Tokelaun medical graduates should alleviate this shortage in the coming years.
+Each atoll has a school and hospital. The health services have a Director of Health in Apia and a Chief Clinical Advisor who moves from atoll to atoll as required to assist the doctors attached to each hospital. In 2007 there was not always a doctor on each island and locums were appointed to fill the gaps. Upcoming Tokelaun medical graduates should alleviate this shortage in the coming years.
 
 Many Tokelauan youth travel to New Zealand to further their education and Tokelau is most populated around the Christmas season, with students returning home and then heading off for another year of study.
 
 Sport
 
-Cricket,_Tokelau_Islands,_1966_(17501454372)_(2).jpg in Tokelau, 1966]] Due to its small size, Tokelau is unaffiliated to most international sports organisations, and rarely takes part in international events. The only significant international competition Tokelau takes part in is the Pacific Games. Tokelau won its first ever gold medals at the 2007 Pacific Games in Apia, winning a total of five medals (three gold, a silver and a bronze), all in lawn bowls, and finishing twelfth (out of twenty-two) on the overall medal table. This included two gold medals for Violina Linda Pedro (in the women's pairs and the women's singles), making her Tokelau's most successful individual athlete to date.[86]
+in Tokelau, 1966]] Due to its small size, Tokelau is unaffiliated to most international sports organisations, and rarely takes part in international events. The only significant international competition Tokelau takes part in is the Pacific Games. Tokelau won its first ever gold medals at the 2007 Pacific Games in Apia, winning a total of five medals (three gold, a silver and a bronze), all in lawn bowls, and finishing twelfth (out of twenty-two) on the overall medal table. This included two gold medals for Violina Linda Pedro (in the women's pairs and the women's singles), making her Tokelau's most successful individual athlete to date.[86]
 
 In October 2010, table tennis became "the first sport in Tokelau to be granted membership at a Continental or World level", when the Tokelau Table Tennis Association was formally established and became the 23rd member of the Oceania Table Tennis Federation.[87]
 
@@ -203,7 +201,7 @@ In Tokelau, there are two levels to the soccer league. From Fale, Fakaofo, two o
 
 Communication and transportation
 
-Tokelau_barge.JPG to collect cargo and passengers from the MV _Tokelau_]] Tokelau has a radio telephone service between the islands and to Samoa. In 1997, a government-regulated telephone service (TeleTok) with three satellite earth stations was established. Each atoll has a radio-broadcast station that broadcasts shipping and weather reports and every household has a radio or access to one. News is disseminated through the government newsletter _Te Vakai_.
+to collect cargo and passengers from the MV _Tokelau_]] Tokelau has a radio telephone service between the islands and to Samoa. In 1997, a government-regulated telephone service (TeleTok) with three satellite earth stations was established. Each atoll has a radio-broadcast station that broadcasts shipping and weather reports and every household has a radio or access to one. News is disseminated through the government newsletter _Te Vakai_.
 
 Tokelau has the international calling code of 690, and has had five-digit telephone numbers from November 2015 (the existing four-digit numbers were prefixed by the digit "2")[93]
 

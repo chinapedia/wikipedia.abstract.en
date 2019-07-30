@@ -1,1 +1,0 @@
-FORUM FIZA MALL is the fourth largest mall in Karnataka, located on Pandeshwar road in Mangalore,[1] away from the Mangalore Central railway station. Popularly known as Forum Mall, it was opened to the public in May, 2014. It provides shopping, dining, entertainment and leisure activities.

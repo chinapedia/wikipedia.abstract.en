@@ -1,1 +1,0 @@
-The 2016 OPEN BOGOTÁ was a professional tennis tournament played on clay courts. It was the eleventh edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Bogotá, Colombia between 7 and 13 November 2016.

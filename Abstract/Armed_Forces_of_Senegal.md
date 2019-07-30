@@ -1,1 +1,0 @@
-The ARMED FORCES OF SENEGAL () consists of about 17,000 personnel in the army, air force, navy, and gendarmerie. The Senegal military force receives most of its training, equipment, and support from France and the United States. Germany also provides support but on a smaller scale.

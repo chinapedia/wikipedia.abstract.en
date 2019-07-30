@@ -1,1 +1,0 @@
-FRANCES HOGBEN (born 16 October 1937) is a British former swimmer. She competed in two events at the 1956 Summer Olympics. At the 1958 British Empire and Commonwealth Games, she competed for Scotland.[1]

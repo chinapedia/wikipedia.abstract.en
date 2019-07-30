@@ -1,4 +1,4 @@
-London_Tube_Map.png The TUBE MAP (sometimes called the LONDON UNDERGROUND MAP or the TFL SERVICES MAP) is a schematic transport map of the lines, stations and services of the London Underground, known colloquially as "the Tube", hence the map's name. The first schematic Tube map was designed by Harry Beck in 1931.[1] Since then, it has been expanded to include more of London's public transport systems, including the Docklands Light Railway, London Overground, TfL Rail, Tramlink and the Emirates Air Line cable car.
+The TUBE MAP (sometimes called the LONDON UNDERGROUND MAP or the TFL SERVICES MAP) is a schematic transport map of the lines, stations and services of the London Underground, known colloquially as "the Tube", hence the map's name. The first schematic Tube map was designed by Harry Beck in 1931.[1] Since then, it has been expanded to include more of London's public transport systems, including the Docklands Light Railway, London Overground, TfL Rail, Tramlink and the Emirates Air Line cable car.
 
 As a schematic diagram, it does not show the geographic locations but rather the relative positions of the stations, lines, the stations' connective relations, and fare zones. The basic design concepts have been widely adopted for other such maps around the world,[2] and for maps of other sorts of transport networks and even conceptual schematics.[3]
 
@@ -15,7 +15,7 @@ In 1907, _The Evening News_ commissioned a pocket map titled The Evening News Lo
 
 Another early combined map was published in 1908 by the Underground Electric Railways Company of London (UERL) in conjunction with four other underground railway companies using the "Underground" brand as part of a common advertising factor.[8]
 
-Tube_map_1908-2.jpg The map showed eight routes – four operated by the UERL and one from each of the other four companies:
+The map showed eight routes – four operated by the UERL and one from each of the other four companies:
 
 -   UERL LINES:
     -   Bakerloo Railway – brown
@@ -44,7 +44,7 @@ In 1997, Beck's importance was posthumously recognised, and as of 2013 the state
 
 After Beck
 
-London_Underground_Zone_1_Highlighted.svg showing approximate geographic locations of the stations and lines.]]
+showing approximate geographic locations of the stations and lines.]]
 
 By 1960, Beck had fallen out with the Underground's publicity officer, Harold Hutchison. Hutchison, though not a designer himself, drafted his own version of the Tube map that year. It removed the smoothed corners of Beck's design and created some highly cramped areas (most notably around Liverpool Street station); in addition, lines were generally less straight.[15] However, Hutchison also introduced interchange symbols (circles for Underground-only, squares for connections with British Rail main line services) that were black and allowed multiple lines through them, as opposed to Beck who used one circle for each line at an interchange, coloured according to the corresponding line.
 
@@ -234,7 +234,7 @@ The website _carto.metro_ offers extremely detailed maps showing individual trac
 
 Spin-offs and imitations
 
-London_bus_tube_spider_maps.jpg Google_Doodle_London_Underground_Jan_2013.png in January 2013 (150th anniversary of the Tube)]] London_Underground_Overground_DLR_Crossrail_map.svg The 'look' of the London Underground map (including 45 degree angles, evenly spaced 'stations', and some geographic distortion) has been emulated by many other subway systems around the world.[36][37] While London Underground have been protective of their copyright they have also allowed their concepts to be shared with other transport operators (Amsterdam's GVB even pays tribute to them on their map).[38]
+in January 2013 (150th anniversary of the Tube)]] The 'look' of the London Underground map (including 45 degree angles, evenly spaced 'stations', and some geographic distortion) has been emulated by many other subway systems around the world.[36][37] While London Underground have been protective of their copyright they have also allowed their concepts to be shared with other transport operators (Amsterdam's GVB even pays tribute to them on their map).[38]
 
 The success of the tube map as a piece of information design has led to many imitations of its format. What is probably the earliest example is the Sydney Suburban and City Underground railway map of 1939. Not only does it follow Beck's styling cues, but in size, design and layout it is a near-clone to the London map of the late 1930s, right down to the use of the Underground roundel.[39][40]
 
@@ -255,7 +255,7 @@ The design has become so widely known that it is now instantly recognisable as r
 -   David Booth's _The Tate Gallery by Tube_ (1986) is one of a series of publicity posters for the Underground.[58] His work showed the lines of the map squeezed out of tubes of paint (with the name of the gallery's nearest station, Pimlico, on a paint-tube) and has since been used on the cover of the pocket map.
 -   In Tate Modern hangs _The Great Bear_ by Simon Patterson, a subtle parody of the contemporary map design, first displayed in 1992, in which the station names on the tube map have been replaced by those of famous figures.
 -   In 2003, to coincide with the publication of a book about tube maps from all over the world, the London Transport Museum released a "World Metro Map" poster strongly based on the London diagram and approved by TfL.
--   aotu_hammersmith.jpg_Animals on the Underground_ is a collection of over 20 animal characters depicted using only lines, stations and interchange symbols on the London Underground map, created by illustrator Paul Middlewick in 1987. In 2003, the concept was used in a poster campaign by advertising agency McCann-Erickson to promote the London Zoo.[59] In May 2010, a children's storybook was released that used the characters, titled "Lost Property". It is the story of an elephant called "Elephant & Castle" who loses his memory and is helped by Angel the angel fish. The book was illustrated by Middlewick, and written by Jon Sayers, and the official launch took place at the London Transport Museum.
+-   _Animals on the Underground_ is a collection of over 20 animal characters depicted using only lines, stations and interchange symbols on the London Underground map, created by illustrator Paul Middlewick in 1987. In 2003, the concept was used in a poster campaign by advertising agency McCann-Erickson to promote the London Zoo.[59] In May 2010, a children's storybook was released that used the characters, titled "Lost Property". It is the story of an elephant called "Elephant & Castle" who loses his memory and is helped by Angel the angel fish. The book was illustrated by Middlewick, and written by Jon Sayers, and the official launch took place at the London Transport Museum.
 -   Albus Dumbledore, a central character in the Harry Potter series, has a scar just above his left knee that is in the shape of a Tube Map.
 -   In 2006, The Guardian published a design based on the tube map, purporting to show the relationships between musicians and musical genres in the 20th century.[60]
 -   On 11 January 2007, Lord Adonis unveiled a depiction of the map featuring the names of successful schools and students at GCSE level as part of the London Student Awards 2007.

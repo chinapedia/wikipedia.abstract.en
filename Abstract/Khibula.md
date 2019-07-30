@@ -1,1 +1,0 @@
-_KHIBULA_ () is a 2017 Georgian historical drama film directed by Giorgi Ovashvili about the first democratically elected President of Georgia - Zviad Gamsakhurdia. The film script has written by Giorgi Ovashvili and Roelof Jan Minneboo. Khibula is co-production of director's company Alamdary Films, Germany’s 42 Film, France’s Arizona Productions and Kino from Kazakhstan.[1][2]

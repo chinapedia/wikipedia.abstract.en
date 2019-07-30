@@ -1,1 +1,0 @@
-COFFEYTON is an unincorporated community in northern Crawford County, in the U.S. state of Missouri.[1] The community is located on the railroad line, approximately two miles northeast of Leasburg and three miles southwest of Bourbon.[2]

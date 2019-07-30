@@ -1,1 +1,0 @@
-MARTIAL ARTS are codified systems and traditions of combat practiced for a number of reasons such as self-defense, military and law enforcement applications, competition, for physical, mental and spiritual development; as well as for entertainment or the preservation of a nation's intangible cultural heritage.

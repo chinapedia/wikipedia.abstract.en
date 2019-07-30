@@ -1,1 +1,0 @@
-LARISSA is an historic town located along Hunter Creek in Douglas County, Missouri, United States. The GNIS classifies it as a populated place.[1] Larissa was located on the north part of the floodplain of Hunter Creek, along county road VV-210, at an elevation of 935 feet.[2] The location is approximately one mile upstream (northeast) of the Crystal Springs fish hatchery.[3]

@@ -1,1 +1,0 @@
-Map_of_the_Southern_United_States_modern_definition.png Barbecue_pit.jpg

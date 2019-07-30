@@ -1,1 +1,0 @@
-_SECOND FIRSTS_ is a 2013 book published by the crisis intervention counselor Christina Rasmussen, in which she introduces a new model of grief based on the science of neuroplasticity. She describes grief as a catalyst for redefining identity, and outlines the process of "reentry", or returning to life.[1]

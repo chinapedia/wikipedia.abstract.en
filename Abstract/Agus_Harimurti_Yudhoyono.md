@@ -1,1 +1,0 @@
-AGUS HARIMURTI YUDHOYONO (born 10 August 1978 in Bandung, West Java) is an Indonesian politician and former military officer. He is the oldest child of Susilo Bambang Yudhoyono and Kristiani Herawati.[1]

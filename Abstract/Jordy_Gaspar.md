@@ -1,1 +1,0 @@
-JORDY GASPAR (born 23 April 1997) is a French footballer who plays as a full-back for AS Monaco. He has also represented the France national youth teams starting from the France national under-19 football team.

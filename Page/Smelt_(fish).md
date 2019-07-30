@@ -14,14 +14,12 @@ Like salmon, many species are anadromous, living most of their lives in the sea,
 
 Smelt dipping
 
-SmeltDipping.JPG in Michigan]] In the Canadian provinces and U.S. states around the Great Lakes, "smelt dipping" is a common group sport in the early spring and when stream waters reach around 4 °C, (40–42 °F). Fish are spotted using a flashlight or headlamp and scooped out of the water using a dip net made of nylon or metal mesh. The smelt are cleaned by removing the head and the entrails. Fins, scales, and bones of all but the largest of smelts are cooked without removal.
+in Michigan]] In the Canadian provinces and U.S. states around the Great Lakes, "smelt dipping" is a common group sport in the early spring and when stream waters reach around 4 °C, (40–42 °F). Fish are spotted using a flashlight or headlamp and scooped out of the water using a dip net made of nylon or metal mesh. The smelt are cleaned by removing the head and the entrails. Fins, scales, and bones of all but the largest of smelts are cooked without removal.
 
 On the Maine coast, smelts were also a sign of spring, with the run of these small fish up tiny tidal estuaries. Many of these streams were narrow enough for a person to straddle and get a good catch of smelts by dipping a bucket.
 
 
 As food
-
-Smelt.jpg
 
 North America
 
@@ -42,7 +40,7 @@ Smelt is one of the prime fish species eaten in Tamil Nadu as Nethili fry, Nethi
 
 Festivals
 
-FISHING_FOR_SMELT_ON_GOLD_BLUFF_BEACH_-_NARA_-_543033.tif, 1972]]
+, 1972]]
 
 In the city of Inje, South Korea (Gangwon Province), an Ice Fishing Festival is held annually from January 30 to February 2 on Soyang Lake, coinciding with the smelt's yearly run into fresh water to spawn. They are locally known as _bing-eo_ (빙어) and typically eaten alive or deep fried.1
 

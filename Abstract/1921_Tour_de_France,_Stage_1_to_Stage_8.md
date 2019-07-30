@@ -1,1 +1,0 @@
-Tour_de_France_1921.png The 1921 Tour de France was the 15th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris with a flat stage on 26 June, and Stage 8 occurred on 10 July with a flat stage to Toulon. The race finished in Paris on 24 July.

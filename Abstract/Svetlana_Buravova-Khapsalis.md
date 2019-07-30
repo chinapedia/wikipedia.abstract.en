@@ -1,1 +1,0 @@
-SVETLANA BURAVOVA-KHAPSALIS (Светлана Буравова-Хапсалис, born 15 June 1973) was a Russian born Kazakhstani female water polo player. She was a member of the Kazakhstan women's national water polo team, playing as a goalkeeper.

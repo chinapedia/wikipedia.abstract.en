@@ -1,1 +1,0 @@
-A FUNCTIONAL DIFFERENTIAL EQUATION is a differential equation with deviating argument. That is, a functional differential equation is an equation that contains some function and some of its derivatives to different argument values.[1]

@@ -1,1 +1,0 @@
-Bali (disambiguation)}} BALI-RĀJA (r. c. 986-990 CE) was an Indian king belonging to the Naddula Chahamana dynasty. He ruled the area around Naddula (present-day Nadol in Rajasthan). He was involved in a conflict with the Paramara king Munja, with both sides claiming victory.

@@ -1,1 +1,0 @@
-THUROY is an unincorporated community in Ozark County, Missouri.[1] The village was located on a north flowing tributary to Barren Creek about 0.5 mile from the Missouri-Arkansas border and Missouri State Highway 101. Bakersfield is about four miles to the northeast. Barren Creek flows into Norfork Lake in Arkansas about four miles to the southwest.[2][3]

@@ -43,7 +43,7 @@ Below is a list of recent or upcoming by-elections:
 
 Courts
 
-Supreme_Court_of_Tonga,_2007._Photo-_AusAID_(10727839174).jpg Female_Tongan_lawyer.jpg Tonga's court system consists of the Court of Appeal (Privy Council), the Supreme Court, the Magistrates' Court, and the Land Court. Judges are appointed by the monarch.
+Tonga's court system consists of the Court of Appeal (Privy Council), the Supreme Court, the Magistrates' Court, and the Land Court. Judges are appointed by the monarch.
 
 The judiciary is headed by a Chief Justice. The current Chief Justice is Michael Dishington Scott.
 

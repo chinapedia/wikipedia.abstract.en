@@ -1,1 +1,0 @@
-VINCENZINO CULICCHIA (9 October 1932 – 17 October 2016) was an Italian politician. He was the mayor of his hometown, Partanna, from 1962 to 1992, when he was elected to the Chamber of Deputies. Culicchia served one term as a national deputy, representing Sicily until 1994.

@@ -1,1 +1,0 @@
-WANG TAO (; born 1980), also known as FRANK WANG, is a Chinese billionaire entrepreneur who is the founder (2006) and CEO of DJI, the world's largest consumer drone company, headquartered in Shenzhen, Guangdong. DJI manufactures unmanned and autonomous aerial vehicles, flight controllers, Zenmuse aerial gimbals, Ronin ground gimbals, cameras and FPV Goggles.

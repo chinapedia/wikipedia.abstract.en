@@ -1,1 +1,0 @@
-'''Flore Enyegue ''' (born 9 July 1991) is a Cameroonian women's international footballer who plays as a goalkeeper. She is a member of the Cameroon women's national football team. She was part of the team at the 2015 FIFA Women's World Cup. On club level she plays for AS Police in Cameroon.[1]

@@ -1,1 +1,0 @@
-SCOTTISH usually refers to something of, from, or related to Scotland, including:

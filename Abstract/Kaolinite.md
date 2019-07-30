@@ -1,1 +1,0 @@
-KAOLINITE ()[1][2] is a clay mineral, part of the group of industrial minerals with the chemical composition Al₂Si₂O₅(OH)₄. It is a layered silicate mineral, with one tetrahedral sheet of silica () linked through oxygen atoms to one octahedral sheet of alumina () octahedra.[3] Rocks that are rich in kaolinite are known as KAOLIN or CHINA CLAY.[4]

@@ -1,4 +1,4 @@
-Odin_rides_to_Hel.jpg Rides to Hel" (1908) by W. G. Collingwood.]] In Norse mythology, SLEIPNIR (Old Norse "slippy"[1] or "the slipper"[2]) is an eight-legged horse ridden by Odin. Sleipnir is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_, written in the 13th century by Snorri Sturluson. In both sources, Sleipnir is Odin's steed, is the child of Loki and Svaðilfari, is described as the best of all horses, and is sometimes ridden to the location of Hel. The _Prose Edda_ contains extended information regarding the circumstances of Sleipnir's birth, and details that he is grey in color.
+Rides to Hel" (1908) by W. G. Collingwood.]] In Norse mythology, SLEIPNIR (Old Norse "slippy"[1] or "the slipper"[2]) is an eight-legged horse ridden by Odin. Sleipnir is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_, written in the 13th century by Snorri Sturluson. In both sources, Sleipnir is Odin's steed, is the child of Loki and Svaðilfari, is described as the best of all horses, and is sometimes ridden to the location of Hel. The _Prose Edda_ contains extended information regarding the circumstances of Sleipnir's birth, and details that he is grey in color.
 
 Sleipnir is also mentioned in a riddle found in the 13th century legendary saga _Hervarar saga ok Heiðreks_, in the 13th-century legendary saga _Völsunga saga_ as the ancestor of the horse Grani, and book I of _Gesta Danorum_, written in the 12th century by Saxo Grammaticus, contains an episode considered by many scholars to involve Sleipnir. Sleipnir is generally accepted as depicted on two 8th century Gotlandic image stones: the Tjängvide image stone and the Ardre VIII image stone.
 
@@ -9,11 +9,11 @@ Attestations
 
 _Poetic Edda_
 
-Odin_and_Sleipnir_-_John_Bauer.jpg.]] In the _Poetic Edda_, Sleipnir appears or is mentioned in the poems _Grímnismál_, _Sigrdrífumál_, _Baldrs draumar_, and _Hyndluljóð_. In _Grímnismál_, Grimnir (Odin in disguise and not yet having revealed his identity) tells the boy Agnar in verse that Sleipnir is the best of horses ("Odin is the best of the Æsir, Sleipnir of horses").[3] In _Sigrdrífumál_, the valkyrie Sigrdrífa tells the hero Sigurðr that runes should be cut "on Sleipnir's teeth and on the sledge's strap-bands."[4] In _Baldrs draumar_, after the Æsir convene about the god Baldr's bad dreams, Odin places a saddle on Sleipnir and the two ride to the location of Hel.[5] The _Völuspá hin skamma_ section of _Hyndluljóð_ says that Loki produced "the wolf" with Angrboða, produced Sleipnir with Svaðilfari, and thirdly "one monster that was thought the most baleful, who was descended from Býleistr's brother."[6]
+.]] In the _Poetic Edda_, Sleipnir appears or is mentioned in the poems _Grímnismál_, _Sigrdrífumál_, _Baldrs draumar_, and _Hyndluljóð_. In _Grímnismál_, Grimnir (Odin in disguise and not yet having revealed his identity) tells the boy Agnar in verse that Sleipnir is the best of horses ("Odin is the best of the Æsir, Sleipnir of horses").[3] In _Sigrdrífumál_, the valkyrie Sigrdrífa tells the hero Sigurðr that runes should be cut "on Sleipnir's teeth and on the sledge's strap-bands."[4] In _Baldrs draumar_, after the Æsir convene about the god Baldr's bad dreams, Odin places a saddle on Sleipnir and the two ride to the location of Hel.[5] The _Völuspá hin skamma_ section of _Hyndluljóð_ says that Loki produced "the wolf" with Angrboða, produced Sleipnir with Svaðilfari, and thirdly "one monster that was thought the most baleful, who was descended from Býleistr's brother."[6]
 
 _Prose Edda_
 
-Odin_riding_Sleipnir.jpg Treated_NKS_hermodr.jpg In the _Prose Edda_ book _Gylfaginning_, Sleipnir is first mentioned in chapter 15 where the enthroned figure of High says that every day the Æsir ride across the bridge Bifröst, and provides a list of the Æsir's horses. The list begins with Sleipnir: "best is Sleipnir, he is Odin's, he has eight legs."[7] In chapter 41, High quotes the _Grímnismál_ stanza that mentions Sleipnir.[8]
+In the _Prose Edda_ book _Gylfaginning_, Sleipnir is first mentioned in chapter 15 where the enthroned figure of High says that every day the Æsir ride across the bridge Bifröst, and provides a list of the Æsir's horses. The list begins with Sleipnir: "best is Sleipnir, he is Odin's, he has eight legs."[7] In chapter 41, High quotes the _Grímnismál_ stanza that mentions Sleipnir.[8]
 
 In chapter 43, Sleipnir's origins are described. Gangleri (described earlier in the book as King Gylfi in disguise) asks High who the horse Sleipnir belongs to and what there is to tell about it. High expresses surprise in Gangleri's lack of knowledge about Sleipnir and its origin. High tells a story set "right at the beginning of the gods' settlement, when the gods established Midgard and built Val-Hall" about an unnamed builder who has offered to build a fortification for the gods in three seasons that will keep out invaders in exchange for the goddess Freyja, the sun, and the moon. After some debate, the gods agree to this, but place a number of restrictions on the builder, including that he must complete the work within three seasons with the help of no man. The builder makes a single request; that he may have help from his stallion Svaðilfari, and due to Loki's influence, this is allowed. The stallion Svaðilfari performs twice the deeds of strength as the builder, and hauls enormous rocks to the surprise of the gods. The builder, with Svaðilfari, makes fast progress on the wall, and three days before the deadline of summer, the builder was nearly at the entrance to the fortification. The gods convene, and figured out who was responsible, resulting in a unanimous agreement that, along with most trouble, Loki was to blame.[9]
 
@@ -27,7 +27,7 @@ In chapter 16 of the book _Skáldskaparmál_, a kenning given for Loki is "relat
 
 _Hervarar saga ok Heiðreks_
 
-Odin,_Sleipnir,_Geri,_Freki,_Huginn_and_Muninn_by_Frølich.jpg and wolves Geri and Freki nearby (1895) by Lorenz Frølich.]] In _Hervarar saga ok Heiðreks_, the poem _Heiðreks gátur_ contains a riddle that mentions Sleipnir and Odin:
+and wolves Geri and Freki nearby (1895) by Lorenz Frølich.]] In _Hervarar saga ok Heiðreks_, the poem _Heiðreks gátur_ contains a riddle that mentions Sleipnir and Odin:
 
       36. Gestumblindi said:
       "Who are the twain
@@ -48,7 +48,7 @@ In chapter 13 of _Völsunga saga_, the hero Sigurðr is on his way to a wood and
 
 _Gesta Danorum_
 
-Hading_og_den_enøjede_Gamle.jpg.]] Sleipnir is generally considered as appearing in a sequence of events described in book I of _Gesta Danorum_.[19]
+.]] Sleipnir is generally considered as appearing in a sequence of events described in book I of _Gesta Danorum_.[19]
 
 In book I, the young Hadingus encounters "a certain man of great age who had lost an eye" who allies him with Liserus. Hadingus and Liserus set out to wage war on Lokerus, ruler of Kurland. Meeting defeat, the old man takes Hadingus with him onto his horse as they flee to the old man's house, and the two drink an invigorating drought. The old man sings a prophecy, and takes Hadingus back to where he found him on his horse. During the ride back, Hadingus trembles beneath the old man's mantle, and peers out of its holes. Hadingus realizes that he is flying through the air: "and he saw that before the steps of the horse lay the sea; but was told not to steal a glimpse of the forbidden thing, and therefore turned his amazed eyes from the dread spectacle of the roads that he journeyed."[20]
 
@@ -85,7 +85,7 @@ The _Encyclopedia of Indo-European Culture_ theorizes that Sleipnir's eight legs
 
 Modern influence
 
-Asbyrgi_Canyon_Iceland_2005.JPG.]] According to Icelandic folklore, the horseshoe-shaped canyon Ásbyrgi located in Jökulsárgljúfur National Park, northern Iceland was formed by Sleipnir's hoof.[30] Sleipnir is depicted with Odin on Dagfin Werenskiold's wooden relief _Odin på Sleipnir_ (1945–1950) on the exterior of the Oslo City Hall in Oslo, Norway.[31] Sleipnir has been and remains a popular name for ships in northern Europe, and Rudyard Kipling's short story entitled _Sleipnir, late Thurinda_ (1888) features a horse named Sleipnir.[32][33] A statue of Sleipnir (1998) stands in Wednesbury, England, a town which takes its name from the Anglo-Saxon version of Odin, Wōden.[34]
+.]] According to Icelandic folklore, the horseshoe-shaped canyon Ásbyrgi located in Jökulsárgljúfur National Park, northern Iceland was formed by Sleipnir's hoof.[30] Sleipnir is depicted with Odin on Dagfin Werenskiold's wooden relief _Odin på Sleipnir_ (1945–1950) on the exterior of the Oslo City Hall in Oslo, Norway.[31] Sleipnir has been and remains a popular name for ships in northern Europe, and Rudyard Kipling's short story entitled _Sleipnir, late Thurinda_ (1888) features a horse named Sleipnir.[32][33] A statue of Sleipnir (1998) stands in Wednesbury, England, a town which takes its name from the Anglo-Saxon version of Odin, Wōden.[34]
 
 
 See also

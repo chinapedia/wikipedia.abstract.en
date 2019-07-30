@@ -1,1 +1,0 @@
-The POLITICS OF IVORY COAST takes place in a framework of a presidential representative democratic republic, whereby the President of Ivory Coast is both head of state and head of government, and of a multi-party system. Executive power is exercised by the President and the Government. Legislative power is vested in both the government and parliament.

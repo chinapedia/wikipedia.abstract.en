@@ -1,1 +1,0 @@
-The SWEDISH RED PIED, , frequently abbreviated to RSB, was a Swedish breed of dairy cattle. It is now considered extinct. It was merged in the 1920s with the Swedish Ayrshire breed to create the Swedish Red-and-White ( or SRB), which is one of the principal dairy breeds of Sweden.

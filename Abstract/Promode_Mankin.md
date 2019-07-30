@@ -1,1 +1,0 @@
-PROMODE MANKIN (18 July 1939 – 11 May 2016)[1] was a Bangladesh Awami League politician and State Minister of Social Welfare Affairs. He was the first Catholic and first member of the country's among Christian community to become a government minister in Bangladesh. Later, his son, Jewel Areng, elected MP after his death in his constituency.[2]

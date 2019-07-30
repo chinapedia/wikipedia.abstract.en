@@ -1,1 +1,0 @@
-The ruins of WOLFSBERG CASTLE () lie on an eminence in the municipality of Wolfsberg in the German state of Saxony-Anhalt. Of the once extensive mediaeval castle only a few foundation remnants survive.

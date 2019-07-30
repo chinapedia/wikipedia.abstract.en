@@ -1,1 +1,0 @@
-A PUNCHED CARD or PUNCH CARD is a piece of stiff paper that can be used to contain digital data represented by the presence or absence of holes in predefined positions. Digital data can be used for data processing applications or, in earlier examples, used to directly control automated machinery.

@@ -1,1 +1,0 @@
-BROWNS FIELD is located in Fox Valley , north-west from Sydney, in the state of New South Wales, Australia. It contains a small sporting ground and a bushland reserve. A unique rainforest grows nearby, due to enriched soils from ancient volcanic activity.[1]

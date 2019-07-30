@@ -1,1 +1,0 @@
-CRISTINA ORTIZ RODRÍGUEZ (19 March 1964 – 9 November 2016), better known as LA VENENO ("Poison"), was a Spanish transsexual vedette, singer and actress. She is better known for appearing in the late-night talk shows _Esta noche cruzamos el Mississippi_ and _La sonrisa del pelícano_, broadcast between 1996–97 and hosted by journalist Pepe Navarro.

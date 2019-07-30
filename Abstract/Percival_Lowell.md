@@ -1,1 +1,0 @@
-PERCIVAL LAWRENCE LOWELL (; March 13, 1855 – November 12, 1916) was an American businessman, author, mathematician, and astronomer who fueled speculation that there were canals on Mars. He founded the Lowell Observatory in Flagstaff, Arizona and formed the beginning of the effort that led to the discovery of Pluto 14 years after his death.

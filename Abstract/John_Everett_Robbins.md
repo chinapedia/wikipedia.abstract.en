@@ -1,1 +1,0 @@
-JOHN EVERETT ROBBINS (9 October 1903 – 7 March 1995) was a Canadian educator and encyclopedia editor. He served as the director of the Dominion Bureau of Statistics and helped found Carleton College. Robbins was a former President of Brandon University and the first Canadian Ambassador to the Holy See.

@@ -1,1 +1,0 @@
-Blondlot_N-rays.png N RAYS (or N-RAYS) were a hypothesized form of radiation, described by French physicist Prosper-René Blondlot in 1903, and initially confirmed by others, but subsequently found to be illusory.

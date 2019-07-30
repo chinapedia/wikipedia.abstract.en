@@ -1,1 +1,0 @@
-FUTURISM is an artistic and social movement that originated in Italy in the early 20th century. Futures studies, also known as futurology, is the study of possible futures.

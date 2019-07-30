@@ -1,4 +1,4 @@
-Laser_Towards_Milky_Ways_Centre.jpg at the Paranal Observatory in Chile in 2010]] The following outline is provided as an overview of and topical guide to space science:
+at the Paranal Observatory in Chile in 2010]] The following outline is provided as an overview of and topical guide to space science:
 
 SPACE SCIENCE encompasses all of the scientific disciplines that involve space exploration and study natural phenomena and physical bodies occurring in outer space, such as space medicine and astrobiology.[1][2]
 
@@ -7,7 +7,7 @@ The following outline is an overview of and topical guide to space science:
 
 Branches of space sciences
 
-CMB_Timeline300_no_WMAP.jpg]]
+]]
 
 -   Astronomy
     -   Outline of astronomy
@@ -89,7 +89,7 @@ Astronautics – science and engineering of spacefaring and spaceflight, a subse
 
 See also
 
-Piers_Sellers_spacewalk.jpg, a demonstration of orbiter heat shield repair techniques]]
+, a demonstration of orbiter heat shield repair techniques]]
 
 -   Outline of aerospace
 -   Space Sciences Laboratory – University of California, Berkeley

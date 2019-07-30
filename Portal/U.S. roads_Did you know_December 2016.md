@@ -1,0 +1,5 @@
+-   ...that MARYLAND ROUTE 178 follows part of the route George Washington traveled to Annapolis to resign his commission in the Continental Army at the conclusion of the American Revolutionary War?
+-   ... that M-60 is one of three Michigan state highways with a business route?
+-   ... that while traversing mountainous terrain, ARIZONA STATE ROUTE 87 has portions where traffic in one direction crosses over the traffic lanes for the other direction?
+-   ... that NEW JERSEY ROUTE 47 received the name "Delsea Drive" by the New Jersey Legislature in 1933 after a reporter for the _Woodbury Times_ joked how the road connected the _Del_aware River with the Atlantic Ocean (the _sea_)?
+-   ... that the MOUSETRAP is a freeway interchange that was completely re-designed after a truck hauling torpedoes overturned, paralyzing the transportation network in Denver for a day?

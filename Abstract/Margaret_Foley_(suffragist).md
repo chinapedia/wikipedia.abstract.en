@@ -1,1 +1,0 @@
-MARGARET LILLIAN FOLEY (March 19, 1875 - June 14, 1957) was an Irish-American labor organizer, suffragist, and social worker from Boston. Known for confronting anti-suffrage candidates at political rallies, she was nicknamed the "Grand Heckler."

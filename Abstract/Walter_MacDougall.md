@@ -1,1 +1,0 @@
-WALTER BATCHELOR MACDOUGALL (6 April 1907 – 5 May 1976) was an Australian missionary and patrol officer who worked with the indigenous peoples in the desert regions of Western Australia and South Australia

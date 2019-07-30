@@ -1,1 +1,0 @@
-NATALIE MEDLOCK (born 15 October 1986) is a British-born New Zealand actress and writer best known for her role in _Shortland Street_ as nurse Jill Kingsbury which she played from 3 February 2011 to 16 January 2012.

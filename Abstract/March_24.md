@@ -1,1 +1,0 @@
-March 24th is the 365th and last day of the year in many European implementations of the Julian calendar.

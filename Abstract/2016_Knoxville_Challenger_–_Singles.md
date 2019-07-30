@@ -1,1 +1,0 @@
-Daniel Evans was the defending champion but lost in the second round to Peter Polansky.

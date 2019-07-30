@@ -1,1 +1,0 @@
-_APRÈS LE DÉLUGE_ is a collection of outtakes from Elliott Murphy's 1970s recording sessions, first put together by EMIS (the Elliott Murphy Information Society) for fans and later released on New Rose Records in Europe.

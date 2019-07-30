@@ -7,15 +7,13 @@ The reform "Army XXI" replaced the previous model "Army 95" and was adopted by p
 
 History
 
-Schlacht_bei_Sempach_Aquarell_1513_crop.jpg, 1386]] With war pigeon in World War I|thumb The land component of the Swiss Armed Forces originated from the cantonal troops of the Old Swiss Confederacy, called upon in cases of external threats by the Tagsatzung or by the canton in distress. In the federal treaty of 1815, the Tagsatzung prescribed cantonal troops to put a contingent of 2% of the population of each canton at the federation's disposition, amounting to a force of some 33,000 men. The cantonal armies were converted into the federal army (_Bundesheer_) with the constitution of 1848. From this time, it was illegal for the individual cantons to declare war or to sign capitulations or peace agreements. Paragraph 13 explicitly prohibited the federation from sustaining a standing army, and the cantons were allowed a maximum standing force of 300 each (not including the _Landjäger_ corps, a kind of police force). Paragraph 18 declared the "obligation" of every Swiss citizen to serve in the federal army if conscripted (_Wehrpflicht_), setting its size at 3% of the population plus a reserve of one and one half that number, amounting to a total force of some 80,000..
+, 1386]] The land component of the Swiss Armed Forces originated from the cantonal troops of the Old Swiss Confederacy, called upon in cases of external threats by the Tagsatzung or by the canton in distress. In the federal treaty of 1815, the Tagsatzung prescribed cantonal troops to put a contingent of 2% of the population of each canton at the federation's disposition, amounting to a force of some 33,000 men. The cantonal armies were converted into the federal army (_Bundesheer_) with the constitution of 1848. From this time, it was illegal for the individual cantons to declare war or to sign capitulations or peace agreements. Paragraph 13 explicitly prohibited the federation from sustaining a standing army, and the cantons were allowed a maximum standing force of 300 each (not including the _Landjäger_ corps, a kind of police force). Paragraph 18 declared the "obligation" of every Swiss citizen to serve in the federal army if conscripted (_Wehrpflicht_), setting its size at 3% of the population plus a reserve of one and one half that number, amounting to a total force of some 80,000..
 
-Clemens-1896-swiss_army.png The first complete mobilization, under the command of Hans Herzog, was triggered by the Franco-Prussian War in 1871. In 1875, the army was called in to crush a strike of workers at the Gotthard tunnel. Four workers were killed and 13 were severely wounded.
+The first complete mobilization, under the command of Hans Herzog, was triggered by the Franco-Prussian War in 1871. In 1875, the army was called in to crush a strike of workers at the Gotthard tunnel. Four workers were killed and 13 were severely wounded.
 
 Paragraph 19 of the revised constitution of 1874 extended the definition of the federal army to every able-bodied male citizen, swelling the size of the army (at least in theory) from under 150,000 to more than 700,000, with population growth during the 20th century rising further to some 1.5 million, the second largest armed force _per capita_ after the Israel Defense Forces.
 
 A major manoeuvre commanded in 1912 by Ulrich Wille, a reputed Germanophile, convinced visiting European heads of state, in particular Kaiser Wilhelm II, of the efficacy and determination of Swiss defences.[5] Wille was subsequently put in command of the second complete mobilization in 1914, and Switzerland escaped invasion in the course of World War I. Wille also ordered the suppression of the 1918 general strike (_Landesstreik_) with military force. Three workers were killed, and a rather larger number of soldiers died of the Spanish flu during mobilization. In 1932, the army was called to suppress an anti-fascist demonstration in Geneva. The troops shot dead 13 demonstrators, wounding another 65. This incident long damaged the army's reputation, leading to persistent calls for its abolition among left-wing politicians. In both the 1918 and the 1932 incidents, the troops deployed were consciously selected from rural regions such as the Berner Oberland, fanning the enmity between the traditionally conservative rural population and the urban working class. The third complete mobilization of the army took place during World War II under the command of Henri Guisan (see also Switzerland during the World Wars). The Patrouille des Glaciers race, created to test the abilities of soldiers, was created during the war.
-
-Kavallerieschwadron_1972.jpg
 
 In the 1960s and 1970s, the armed forces were organised according to the "Armee 61" structure. Horse mounted cavalry (specifically dragoons) were retained for combat roles until 1973, and were the last non-ceremonial horse cavalry in Europe, as were bicycle infantry battalions until 2001.[6]
 
@@ -32,11 +30,9 @@ As of March 1st, 2017, the Swiss Armed Forces consist of 120,496 people on activ
 
 In contrast to most other comparable armed forces, officer candidates are usually not career regulars: after seven weeks of basic training, selected recruits are offered the possibility of a cadre function. Officer candidate schools take place separately from NCOs training, but NCOs have the possibility of becoming officers later on.[13] There are currently 14,345 officers and 22,807 NCOs in the Swiss Armed Forces.[14] Those of higher rank serve for more time each year; an ordinary soldier may serve 365 days over 30 years, while a high-ranking officer may serve 2,000 days before retiring. Each promotion requires more time, which is known as "paying your rank". This describes the mechanism of a soldier fulfilling their rank's minimal service time after being promoted into said rank. Companies subsidize military training by continuing to pay their employees, who list their ranks and responsibilities on their résumés.
 
-Switzerland_Armed_Forces_2018.png
-
 High command
 
-Blattmann_cropped.JPG, chief of the Armed Forces from 2009-16]]
+, chief of the Armed Forces from 2009-16]]
 
 In peacetime, the Swiss Armed Forces are led by the Chief of the Armed Forces (_Chef der Armee_), who reports to the head of the Federal Department of Defence, Civil Protection and Sport and to the Swiss Federal Council as a whole. The current Chief of the Armed Forces is Lieutenant-General (_Korpskommandant_) Philippe Rebord. Lt-Gen Rebord replaced Lieutenant-General (_Korpskommandant_) André Blattmann on 1 January 2017.
 
@@ -63,7 +59,7 @@ Under the "Armee 61" structure, the Army was organised into Field Army Corps 1, 
 
 Since the Army XXI reform in 2004, the basic structure of the Army has been reorganised in the following units: infantry brigades (2 and 5); mountain infantry brigades (9 and 12); armoured brigades (1 and 11). Additionally two large reserve brigades (Infantry Brigade 7 and Mountain Brigade 10) exist. Four territorial divisions link the Army with the cantons by coordinating territorial tasks inside of their sector and are immediately responsible for the security of their regions, depending only on the decisions of the Federal Council.[21]
 
-SRC_023.jpg carrying a Stgw 90]] Schweizer_Armee_Füs_Gr.jpg Schweizer_Armee_Füs_Gr_2.jpg]] Pz_87_Leopard_-_Front_2_-_Schweizer_Armee_-_Steel_Parade_2006.jpg main battle tanks]] Mowag_Eagle_Aufkl_Fz_93.jpg Swiss army reconnaissance vehicle]]
+carrying a Stgw 90]] ]] main battle tanks]] Swiss army reconnaissance vehicle]]
 
 Army formations
 
@@ -146,7 +142,7 @@ The four territorial divisions include additional Army units for local defense t
 
 Air force
 
-Axalp_Cougar_Opening_flare_launch.jpg Axalp_FA-18C_5.jpg The Swiss Air Force has been traditionally a militia-based service, including its pilots, with an inventory of approximately 456 aircraft whose lengthy service lives (many for more than 30 years) overlapped several eras. However, beginning with its separation from the Army in 1996, the Air Force has been downsizing; it now has a strength of approximately 270 fixed- and rotary-wing aircraft, and is moving towards a smaller, more professional force.
+The Swiss Air Force has been traditionally a militia-based service, including its pilots, with an inventory of approximately 456 aircraft whose lengthy service lives (many for more than 30 years) overlapped several eras. However, beginning with its separation from the Army in 1996, the Air Force has been downsizing; it now has a strength of approximately 270 fixed- and rotary-wing aircraft, and is moving towards a smaller, more professional force.
 
 The primary front-line air-defence fleet consists of 30 F/A-18 Hornets (34 aircraft were originally purchased, with three F/A-18D and one F/A-18C lost in crashes) organized into three squadrons (11, 17 and 18) along with 53 F-5 Tiger IIs (98 F-5E and 12 F-5F originally purchased). In October 2008, the Swiss Hornet fleet reached the 50,000 flight hours milestone.[23]
 
@@ -156,7 +152,7 @@ In peacetime the Swiss Air Force does not maintain 24/7 operational readiness st
 
 Intelligence gathering
 
-Picswiss_VS-69-41.jpg antennas in Leuk]] The Swiss military department maintains the Onyx intelligence gathering system, similar to but much smaller than the international Echelon system.
+antennas in Leuk]] The Swiss military department maintains the Onyx intelligence gathering system, similar to but much smaller than the international Echelon system.
 
 The Onyx system was launched in 2000 in order to monitor both civil and military communications, such as telephone, fax or Internet traffic carried by satellite. It was completed in late 2005 and currently consists of three interception sites, all based in Switzerland. In a way similar to Echelon, Onyx uses lists of keywords to filter the intercepted content for information of interest.
 
@@ -190,7 +186,7 @@ Military and civil defence
 
 After World War II, Switzerland began building homes with 40 cm-thick concrete ceilings that might survive firebombing of the type that destroyed Hamburg and Dresden. In the 1960s they began constructing radiation and blast shelters that could survive one to three bars of pressure from a nuclear explosion.[36] Building codes require blast shelters, which are said to be able to accommodate 114% of the Swiss population.[37] Small towns have large underground parking garages that can serve as sealed community shelters. There are also hospitals and command centres in such shelters, aimed at keeping the country running in case of emergencies. Every family or rental agency has to pay a replacement tax to support these shelters, or alternatively own a personal shelter in their place of residence;[38] many private shelters serve as wine cellars and closets.
 
-Turmkanone-1-fuchsegg.jpg in the Gotthard region]] Thousands of tunnels, highways, railroads, and bridges are built with tank traps and primed with demolition charges to be used against invading forces; often, the civilian engineer who designed the bridge plans the demolition as a military officer. Hidden guns are aimed to prevent enemy forces from attempting to rebuild. Permanent fortifications were established in the Alps, as bases from which to retake the fertile valleys after a potential invasion. They include underground air bases that are adjacent to normal runways; the aircraft, crew and supporting material are housed in the caverns.
+in the Gotthard region]] Thousands of tunnels, highways, railroads, and bridges are built with tank traps and primed with demolition charges to be used against invading forces; often, the civilian engineer who designed the bridge plans the demolition as a military officer. Hidden guns are aimed to prevent enemy forces from attempting to rebuild. Permanent fortifications were established in the Alps, as bases from which to retake the fertile valleys after a potential invasion. They include underground air bases that are adjacent to normal runways; the aircraft, crew and supporting material are housed in the caverns.
 
 However, a significant part of these fortifications was dismantled between the 1980s and during the "Army 95" reformation. The most important fortifications are located at Saint-Maurice, Gotthard Pass area and Sargans. The fortification on the left side of the Rhône at Saint-Maurice is no longer used by the army since the beginning of the 1990s. The right side (Savatan) is still in use.
 
@@ -198,7 +194,7 @@ During the Cold War the military expected that any invasion would likely come fr
 
 Peacekeeping overseas
 
-Cougar_AS532_T_334_Swiss_Air_Force_Rescue_Exercise.jpg Operating from a neutral country, Switzerland's Armed Forces do not take part in armed conflicts in other countries. However, over the years, the Swiss Armed Forces have been part of several peacekeeping missions around the world.
+Operating from a neutral country, Switzerland's Armed Forces do not take part in armed conflicts in other countries. However, over the years, the Swiss Armed Forces have been part of several peacekeeping missions around the world.
 
 From 1996 to 2001, the Swiss Armed Forces were present in Bosnia and Herzegovina with headquarters in Sarajevo. Their mission, as part of the Swiss Peacekeeping Missions, was to provide logistic and medical support to the Organization for Security and Co-operation in Europe (OSCE), protection duties and humanitarian demining. The mission was named SHQSU, standing for Swiss Headquarters Support Unit to BiH. It was composed of 50 to 55 elite Swiss soldiers under contract for six to 12 months. None of the active soldiers were armed during the duration of the mission. The Swiss soldiers were recognized among the other armies present on the field by their distinctive yellow beret. The SHQSU is not the same as the more publicized Swisscoy, which is the Swiss Army Mission to Kosovo.
 

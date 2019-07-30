@@ -1,1 +1,0 @@
-The WATHAURONG ABORIGINAL CO-OPERATIVE is a community organisation based in Geelong, Australia that supports the social, economic, and cultural development of Aboriginal people within the Geelong and surrounding areas. It was formed in 1978 and registered in 1980. It is located at 62 Morgan Street, North Geelong.

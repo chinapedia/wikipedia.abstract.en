@@ -1,1 +1,0 @@
-ARTHUR ROBERT JENSEN (August 24, 1923 – October 22, 2012) was an American psychologist and author. He was a professor of educational psychology at the University of California, Berkeley.[1][2] Jensen was known for his work in psychometrics and differential psychology, the study of how and why individuals differ behaviorally from one another.

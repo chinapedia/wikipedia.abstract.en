@@ -1,1 +1,0 @@
-TALLINN LASNAMAE RUSSIAN SCHOOL (Estonian: _Tallinna Lasnamae Vene Gumnaasium_) is a public school in Tallinn, Estonia established in 1981, it was first named school No 48 and opened its doors to 889 students. School's first director was Irina Ivanovna Opekina.

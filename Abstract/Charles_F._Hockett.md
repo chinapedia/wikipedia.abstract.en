@@ -1,1 +1,0 @@
-CHARLES FRANCIS HOCKETT (January 17, 1916 – November 3, 2000) was an American linguist who developed many influential ideas in American structuralist linguistics. He represents the post-Bloomfieldian phase of structuralism often referred to as "distributionalism" or "taxonomic structuralism". His academic career spanned over half a century at Cornell and Rice universities.

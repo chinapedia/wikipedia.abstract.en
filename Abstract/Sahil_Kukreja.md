@@ -1,1 +1,0 @@
-SAHIL KUKREJA (born 9 July 1985) is an Indian first-class cricketer who plays for Mumbai.[1] He made his first-class debut for Mumbai in the 2005–06 Ranji Trophy on 1 December 2005.[2] He announced his retirement from all forms of cricket in 2011 at the age of 26.[3]

@@ -1,1 +1,0 @@
-Africa_proconsularis_SPQR.png.]] ALTIBURUS was a Roman–Berber town located in Africa Proconsularis. The town is tentatively identified with ruins at Henchir-Medeina (sometimes Medét'na) (coordinates: 35 ° 52 '24 "N, 8 ° 47' 13" E) in modern Tunisia.[1][2][3]

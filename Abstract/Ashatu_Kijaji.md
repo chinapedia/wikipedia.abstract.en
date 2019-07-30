@@ -1,1 +1,0 @@
-DR. ASHATU KIJAJI (born 26 April 1976), is a Tanzanian academic and politician belonging to the ruling Chama Cha Mapinduzi (CCM) party. She is a Member of Parliament for Kondoa and Deputy Minister in the Ministry of Finance and Planning.

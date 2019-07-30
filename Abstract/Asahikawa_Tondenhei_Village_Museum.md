@@ -1,1 +1,0 @@
-opened in Asahikawa, Hokkaidō, Japan in 1982. The exhibits include a recreated tondenhei house as well as farming implements, clothes, and documents drawn from the Museum's 2,500 objects, among them the Prefectural Cultural Property ''Illustrated Tales of the Tondenhei - Tondenhei emaki.[1][2][3][4]

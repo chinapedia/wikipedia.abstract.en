@@ -1,1 +1,0 @@
-HOY (from Norse _Háey_ meaning "high island") is an island in Orkney, Scotland, measuring — ranked largest in the archipelago after Mainland. A natural causeway, _the Ayre_, links to much smaller South Walls; the two islands are treated as one entity by the UK census.[1][2]

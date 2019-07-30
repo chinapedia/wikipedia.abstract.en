@@ -1,1 +1,0 @@
-ANDY T. DULIN is an American Politician. He was elected as a Republican to the North Carolina House of Representatives District 104, representing South-Central Charlotte, on 8 November 2016.[1] He took office in January 2017 replacing Dan Bishop who was elected to the North Carolina State Senate in the same general election. Dulin represents South Central Charlotte.

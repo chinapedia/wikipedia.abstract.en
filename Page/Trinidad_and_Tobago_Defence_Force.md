@@ -7,7 +7,7 @@ The Commander in Chief of the Defence Force is the country's President, Paula-Ma
 
 Regiment (Army)
 
-Army_2012.jpg The Trinidad and Tobago Regiment is the main ground force element of the Trinidad and Tobago Defence Force. It has approximately 3000 men and women organized into four (4) battalions and a Regiment Headquarters. The regiment has two primary roles; Maintaining the internal security of Trinidad and Tobago and support to civil law enforcement.
+The Trinidad and Tobago Regiment is the main ground force element of the Trinidad and Tobago Defence Force. It has approximately 3000 men and women organized into four (4) battalions and a Regiment Headquarters. The regiment has two primary roles; Maintaining the internal security of Trinidad and Tobago and support to civil law enforcement.
 
 Also, as one of the larger military forces in the region, the Trinidad and Tobago Regiment is also one of the main units used in peacekeeping and humanitarian situations from the Caribbean region.
 
@@ -31,7 +31,7 @@ Trinidad and Tobago has a unique and highly trained group of special forces that
 
 Coast Guard
 
-Naval_Ensign_of_Trinidad_and_Tobago.svg T&T_Scarborough_edited.jpg in 2010.]] Trinidad_and_Tobago_Ship_Quinam_arriving_in_Montego_Bay,_Jamaica_-_160619-N-FE728-103_(cropped).jpg
+in 2010.]]
 
 The Trinidad and Tobago Coast Guard is responsible for the maritime capabilities of the TTDF. The Coast Guard consists of a number of vessels designated _CG_. The current Commanding Officer is Captain Douglas Archer.
 
@@ -65,8 +65,6 @@ On 29 April 2015 the Ministry of National Security contracted with Dutch company
 
 
 Air Guard
-
-Trinadad_and_Tabago_air_wing_roundel.svg Roundel_of_Trinidad_and_Tobago_Air_Guard.svg
 
 The Air Wing of the Trinidad and Tobago Defence force was formed in February 1966, and was initially part of the Coast Guard and was called the Air Wing of the Coast Guard or the Air Wing. In 1977, it was separated as its own entity. In 2005 it was renamed the Trinidad & Tobago Air Guard (TTAG). Its bases are at Piarco International Airport, Crown Point International Airport, and the Heliport at Chaguaramas. Its purposes are to protect and patrol Trinidad and Tobago's airspace, and is also used for transport, search and rescue, and liaison. The current commander of the Air Guard is Group Captain Darryl Daniel. He has taken command of the unit in August 2014, until his promotion to Chief of Defence Staff in March 2019.[6]
 

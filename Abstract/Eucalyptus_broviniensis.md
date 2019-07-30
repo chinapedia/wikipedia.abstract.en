@@ -1,1 +1,0 @@
-_EUCALYPTUS BROVINIENSIS_ is a species of small tree that is endemic to a small area in Queensland. It has smooth bark, lance-shaped adult leaves, flower buds arranged in groups of seven, white flowers and conical fruit.

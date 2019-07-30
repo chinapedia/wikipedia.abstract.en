@@ -1,1 +1,0 @@
-ALGA (ALUMINUM-GALLIUM) is a degenerate alloy that results from liquid gallium infiltrating the crystal structure of aluminium metal. The resulting alloy is very weak and brittle, being broken under the most minute pressure. The alloy is also chemically weaker, as the gallium inhibits the aluminium from forming a protective oxide layer.

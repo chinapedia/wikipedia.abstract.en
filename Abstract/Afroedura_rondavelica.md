@@ -1,1 +1,0 @@
-_AFROEDURA RONDAVELICA_, also known as the BLYDE RIVER FLAT GECKO or RONDAVEL ROCK GECKO, is a species of African geckos, first found in the Limpopo and Mpumalanga provinces of South Africa.[1] Its specific and common name refers to the rondavel, a southern African hut-type structure.

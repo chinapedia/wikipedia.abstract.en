@@ -1,1 +1,0 @@
-JAMES ELLSWORTH MORRIS[1] (born December 11, 1984),[2] is an American professional wrestler, better known by the ring name JAMES ELLSWORTH. He is best known for his tenure with WWE. He also competed on the independent circuit under the ring name JIMMY DREAM.[3]

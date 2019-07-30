@@ -1,1 +1,0 @@
-MACOS (;[1] previously MAC OS X and later OS X) is a series of graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac family of computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.[2][3]

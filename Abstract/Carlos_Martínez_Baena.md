@@ -1,1 +1,0 @@
-CARLOS MARTÍNEZ BAENA (7 May 1889 – 29 May 1971) was a Spanish-Mexican actor. At a young age he moved to Mexico with his family where he became a journalist.[1] He appeared in more than seventy films from 1931 to 1970.

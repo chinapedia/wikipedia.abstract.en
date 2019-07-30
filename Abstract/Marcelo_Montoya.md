@@ -1,1 +1,0 @@
-MARCELO EDUARDO MONTOYA JR (born 17 February 1996) is a Fijian rugby league footballer who plays as a er or fullback for the Canterbury-Bankstown Bulldogs in the NRL. He is a Fijian international representative.

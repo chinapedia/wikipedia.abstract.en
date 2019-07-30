@@ -1,1 +1,0 @@
-BASKETBALL IN CANADA dates back to the 20th century. The sport is played year-round by men and women and various levels of competition. Several professional basketball leagues have teams based in Canada.

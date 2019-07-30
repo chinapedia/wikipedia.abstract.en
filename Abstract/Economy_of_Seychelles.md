@@ -1,1 +1,0 @@
-The ECONOMY OF SEYCHELLES is based on fishing, tourism, the processing of coconuts and vanilla, coir (coconut fiber) rope, boat building, printing, furniture and beverages.[1][2] Agricultural products include cinnamon, sweet potatoes, cassava (tapioca), bananas, poultry and tuna.[3][4]

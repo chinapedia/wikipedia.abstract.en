@@ -1,1 +1,0 @@
-PROVIDENCE HOSPITAL was a 408-bed hospital located in the District of Columbia, United States. Founded in 1861, it was the longest continuously operating hospital and the last public hospital in the District. Providence Hospital was a member of Ascension Health, the largest non-profit health care organization in the United States.[1]

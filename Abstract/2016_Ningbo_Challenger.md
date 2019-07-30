@@ -1,1 +1,0 @@
-The 2016 NINGBO CHALLENGER was a professional tennis tournament played on hard courts. It was the fourth edition of the tournament (for men) and part of the 2016 ATP Challenger Tour. It took place in Ningbo, China.

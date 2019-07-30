@@ -1,1 +1,0 @@
-The BOOK OF LEVITICUS () is the third book of the Torah and of the Old Testament; scholars generally agree that it developed over a long period of time, reaching its present form during the Persian Period between 538-332 BCE.

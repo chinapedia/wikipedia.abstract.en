@@ -1,1 +1,0 @@
-Christ_Church,_Wanstead_02.jpg CHRIST CHURCH is a Church of England church in Wanstead, east London. It was built as a chapel of ease to St Mary the Virgin, whose parish it still shares, to meet population expansion in the Snaresbrook area caused by the railway boom.[1]

@@ -1,1 +1,0 @@
-Datu ABUL KHAYR DANGCAL ALONTO (October 30, 1945 – May 9, 2019)[1] was a Filipino businessman and politician. He was appointed by President Rodrigo Duterte in September 2016 as the chairperson of the Mindanao Development Authority, serving as its first Muslim chair until his death in May 2019.[2]

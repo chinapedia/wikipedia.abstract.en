@@ -1,1 +1,0 @@
-[[File:Cunincpert tremissis 612190.jpg|thumb|A tremissis of Cunipert (r. 688-700), issued by the mint of Pavia. Obverse: DN CVNI-INCPE RX, diademed, draped and cuirassed bust right; in field to right, _manus Dei_

@@ -1,1 +1,0 @@
-ADRIENNE YABOUZA (born 1965) is a writer from the Central African Republic. She is of Yakoma heritage.[1] She has written several novels and a book for children,[2] a number of which were penned in collaboration with French writer Yves Pinguilly.[3][4]

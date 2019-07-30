@@ -1,1 +1,0 @@
-The 1936 BROWNLOW MEDAL was the 13th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Denis Ryan of the Fitzroy Football Club won the medal by polling twenty-six votes during the 1936 VFL season.[2]

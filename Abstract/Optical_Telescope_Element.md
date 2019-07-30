@@ -1,1 +1,0 @@
-JWST_Full_Mirror.jpg Engineers_Clean_JWST_Secondary_Reflector_with_Carbon_Dioxide_Snow.jpg]]

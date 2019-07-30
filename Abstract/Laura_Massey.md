@@ -1,1 +1,0 @@
-LAURA MASSEY (born 1 September 1981) is a British professional racing cyclist who rides for Drops Cycling Team.[1] She took a six-month break from her day job to prepare for the 2016 UCI Road World Championships.[2]

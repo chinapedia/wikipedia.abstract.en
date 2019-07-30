@@ -1,1 +1,0 @@
-JAMES BRADDOCK VS. JOE LOUIS was a heavyweight professional boxing fight for the undisputed heavyweight championship of the world between champion James J. Braddock and challenger Joe Louis. The fight took place on June 22, 1937 at Comiskey Park in Chicago, Illinois.

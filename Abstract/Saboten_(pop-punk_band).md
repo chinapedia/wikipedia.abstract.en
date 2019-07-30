@@ -1,1 +1,0 @@
-SABOTEN (Japanese "cactus") is a Japanese rock band founded in Osaka in 1999. From 2004-2007 they were Sony Music Japan artists. Their song "Scenario" was used as the end theme to the anime Naruto.[1]

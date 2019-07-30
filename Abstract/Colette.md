@@ -1,1 +1,0 @@
-COLETTE (; SIDONIE-GABRIELLE COLETTE, 28 January 1873 – 3 August 1954) was a French author and woman of letters nominated for the Nobel Prize in Literature in 1948; also known as a mime, actress, and journalist. Colette was most widely known for her 1944 novella _Gigi_ (1944), which was the basis for the 1958 film and the 1973 stage production of the same name.

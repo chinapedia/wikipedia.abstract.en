@@ -1,1 +1,0 @@
-The PLANT CITY, ARCADIA, AND GULF RAILROAD was a railroad line that once operated from Plant City, Florida south to Welcome, a distance of 11.4 miles. The line remains in service today and is owned by CSX Transportation, which it operates as their PLANT CITY SUBDIVISION.[1][2]

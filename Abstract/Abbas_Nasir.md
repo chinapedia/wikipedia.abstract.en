@@ -1,1 +1,0 @@
-ABBAS NASIR is Pakistani journalist and former editor of Pakistan's English language daily _DAWN_.[1][2] Previously he was the head of the BBC Urdu Service, where he has been appointed as Executive Editor for the Asia and the Pacific Region at BBC World Service.[3][4][5]

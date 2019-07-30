@@ -1,1 +1,0 @@
-MANDEEP BENIPAL (born 13 January) is an Indian film director.[1][2] He made his directorial debut with movie _Ekam - Son of Soil_ in 2010. Later he came up with the movie _Sadda Haq_ (2013),[3]'' Yoddha'' (2014)[4] and Dakuan Da Munda.[5]

@@ -1,1 +1,0 @@
-SHIRIN OF BAVAND or OM-E ROSTAM (means mother of Rostam) was the first female monarch of Iran after muslim conquest of Persia. She was ruling Rey, Iran, Mazandaran Province, Gilan Province, Hamadan and Isfahan.

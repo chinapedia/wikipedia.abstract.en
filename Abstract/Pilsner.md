@@ -1,1 +1,0 @@
-Pilsner_urquell_mug.jpg

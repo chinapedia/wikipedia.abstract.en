@@ -1,1 +1,0 @@
-Prefixes that are used for radio and television are usually allocated by ITU. They also form the basis for, but do not exactly match, aircraft registration identifiers. But in some cases, especially among amateur radio operators other, by ITU unallocated, callsigns are used when operating from disputed areas or countries that are internationally not (yet) recognized. They can be:

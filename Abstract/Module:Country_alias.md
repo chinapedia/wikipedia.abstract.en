@@ -1,1 +1,0 @@
--- This module returns the country name or the flag name for a country, -- based on the three-letter IOC/CGA/FINA alias.

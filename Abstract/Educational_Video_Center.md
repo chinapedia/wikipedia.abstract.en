@@ -1,1 +1,0 @@
-The EDUCATIONAL VIDEO CENTER, founded in 1984 in New York City, is a "non-profit youth media organization dedicated to teaching documentary video as a means to develop artistic, critical literacy, and career skills of young people, while nurturing their idealism and commitment to social change."[1]

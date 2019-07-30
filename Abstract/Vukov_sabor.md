@@ -1,1 +1,0 @@
-VUKOV SABOR ( / _Vukov sabor_) or VUK'S CONVOCATION[1] is the oldest and most massive cultural event in Serbia. It was named after the reformer of the Serbian language Vuk Karadžić. The central program is traditionally held in September in Vuk's birthplace Tršić, near Loznica. Part of the program is realized in Loznica, Belgrade and the nearby Tronoša Monastery.

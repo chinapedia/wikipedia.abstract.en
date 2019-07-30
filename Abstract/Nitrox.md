@@ -1,1 +1,0 @@
-EANxDecal.png

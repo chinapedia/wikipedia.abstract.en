@@ -1,1 +1,0 @@
-MICHAEL FELLMAN (1943, Lincoln, Nebraska – 2012 Vancouver, British Columbia) Professor Emeritus of History at Simon Fraser University in Vancouver, British Columbia, Canada.[1] Fellman was educated at the University of Michigan (BA, 1965) and Northwestern University (PhD, 1969). He was the son of David Fellman, Vilas Professor Emeritus at the University of Wisconsin, Madison.

@@ -1,1 +1,0 @@
-DELILAH WILLIAMS PIERCE (1904 – 1992) was an African American artist, curator and educator based in Washington, District of Columbia.[1][2][3] Pierce was best known for upholding the African American art in her model figure and genre painting, abstraction.[4][5]

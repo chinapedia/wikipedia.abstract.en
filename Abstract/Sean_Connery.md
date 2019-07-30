@@ -1,1 +1,0 @@
-SIR THOMAS SEAN CONNERY (born 25 August 1930) is a retired Scottish actor and producer, who has won an Academy Award, two BAFTA Awards, one being a BAFTA Academy Fellowship Award, and three Golden Globes, including the Cecil B. DeMille Award and a Henrietta Award.

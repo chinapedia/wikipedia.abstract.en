@@ -1,1 +1,0 @@
-Life_Flight_Pennsylvania.jpg]] LIFE FLIGHT is an air ambulance service operated by Geisinger Health System in Pennsylvania, United States. It has five operating bases. The air ambulance averages about 2,500 flights a year.[1]

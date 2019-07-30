@@ -1,1 +1,0 @@
-J. KEITH JOUNG is an American pathologist and molecular biologist who is the Desmond and Ann Heathwood Research Scholar at Massachusetts General Hospital and a Professor of Pathology at Harvard Medical School.[1] He is a leading figure in the field of genome editing and has pioneered the development of designer nucleases and sensitive off-target detection methods.[2]

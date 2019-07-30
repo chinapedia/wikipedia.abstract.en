@@ -1,1 +1,0 @@
-Korea_Institute_for_Advanced_Study1.jpg

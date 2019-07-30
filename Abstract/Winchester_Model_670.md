@@ -1,1 +1,0 @@
-THE WINCHESTER MODEL 670 is a bolt-action sporting rifle. Designed as a more affordable version of the Winchester Model 70.[1] Built in three versions; Sporting Rifle, Magnum Rifle, and Carbine. It was produced from 1966 to 1979 except for 1974 when it was not listed by Winchester.[2]

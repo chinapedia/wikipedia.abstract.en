@@ -1,1 +1,0 @@
-COMPUTATIONAL X is the set of fields of study that have emerged from the applications of informatics and big data to specific disciplines. Examples include computational biology, computational neuroscience, computational physics, and computational linguistics.

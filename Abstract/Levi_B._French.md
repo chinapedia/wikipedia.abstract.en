@@ -1,1 +1,0 @@
-LEVI BUTLER FRENCH (October 24, 1845 – February 19, 1923) was an American politician. He served in the South Dakota State Senate from 1889 to 1892. He also sat in the Dakota Territory Legislature in 1881.[1][2]

@@ -1,1 +1,0 @@
-The MATTARELLA LAW (also MATTARELLUM or Italian LEGGE MATTARELLA) was a reform of the electoral laws of Italy, passed on 4 August 1993. It is named after its author, then Italian Parliament member Sergio Mattarella.[1] The law was nicknamed after the Minotaur of Greek Mythology, for being a combination of two different parts.[2]

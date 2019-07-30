@@ -22,15 +22,13 @@ At the age of 23, Hayek landed the title role in _Teresa_ (1989), a successful M
 
 Early Hollywood acting work
 
-Selma_Hayek_1998.jpg
-
 Hayek moved to Los Angeles, California, in 1991 to study acting under Stella Adler.[28] She had limited fluency in English, and dyslexia.[29] Robert Rodriguez, and his producer and then-wife, Elizabeth Avellan, soon gave Hayek a starring role opposite Antonio Banderas in 1995's _Desperado_.[30] She followed her role in _Desperado_ with a brief role as a vampire queen in _From Dusk till Dawn_, in which she performed an erotic table-top snake dance.[31]
 
 Hayek had a starring role opposite Matthew Perry in the 1997 romantic comedy _Fools Rush In_. In 1999 she co-starred in Will Smith's big-budget _Wild Wild West_, and played a supporting role in Kevin Smith's _Dogma_.[32] In 2000 Hayek had an uncredited acting part opposite Benicio del Toro in _Traffic_.[33] In 2003, she reprised her role from _Desperado_ by appearing in _Once Upon a Time in Mexico_, the final film of the _Mariachi Trilogy_.[34]
 
 Director, producer and actress
 
-Salma_Hayek_Cannes.jpg]]
+]]
 
 Around 2000, Hayek founded film production company Ventanarosa, through which she produces film and television projects. Her first feature as a producer was 1999's _El Coronel No Tiene Quien Le Escriba_, Mexico's official selection for submission for Best Foreign Film at the Oscars.[35]
 
@@ -40,7 +38,7 @@ _In the Time of the Butterflies_ is a 2001 feature film based on the Julia Álva
 
 In 2003, Hayek produced and directed _The Maldonado Miracle_, a Showtime movie based on the book of the same name, winning her a Daytime Emmy Award for Outstanding Directing in a Children/Youth/Family Special.[38] In December 2005, she directed a music video for Prince, titled "Te Amo Corazon" ("I love you, sweetheart") that featured Mía Maestro.[39]
 
-Antonio_Banderas,_Salma_Hayek.jpg at the _Puss in Boots_ premiere in Australia in November 2011]]
+at the _Puss in Boots_ premiere in Australia in November 2011]]
 
 Hayek was an executive producer of _Ugly Betty_, a television series that aired around the world from 2006 to 2010. Hayek adapted the series for American television with Ben Silverman, who acquired the rights and scripts from the Colombian telenovela _Yo Soy Betty La Fea_ in 2001. Originally intended as a half-hour sitcom for NBC in 2004, the project would later be picked up by ABC for the 2006–2007 season with Silvio Horta also producing. Hayek guest-starred on _Ugly Betty_ as Sofia Reyes, a magazine editor. She also had a cameo playing an actress in the telenovela within the show. The show won a Golden Globe Award for Best Comedy Series in 2007. Hayek's performance as Sofia resulted in a nomination for Outstanding Guest Actress in a Comedy Series at the 59th Primetime Emmy Awards.[40]
 
@@ -49,8 +47,6 @@ In April 2007, Hayek finalized negotiations with MGM to become the CEO of her ow
 Hayek played the wife of Adam Sandler's character in the buddy comedy _Grown Ups_, which also co-starred Chris Rock and Kevin James.[43] At his insistence, Hayek co-starred with Antonio Banderas in the _Shrek_ spin-off film _Puss in Boots_ as the voice of the character Kitty Softpaws, who serves as Puss in Boots's female counterpart and love interest.[44] In 2012, Hayek directed Jada Pinkett Smith in the music video "Nada se compara."[45] She reprised her role in _Grown Ups 2_, which was released in July 2013.
 
 Promotional work
-
-Salma_Hayek_2004.jpg
 
 Hayek has been a spokeswoman for Avon cosmetics since February 2004.[46] She was a spokeswoman for Revlon in 1998. In 2001, she modeled for Chopard and was featured in 2006 Campari ads, photographed by Mario Testino.[47] On April 3, 2009, she helped introduce La Doña, a watch by Cartier inspired by fellow Mexican actress María Félix.[48]
 
@@ -67,7 +63,7 @@ In spring 2006, the Blue Star Contemporary Art Center in San Antonio, Texas disp
 
 Personal life
 
-Pinault_Hayek.jpg at the Deauville American Film Festival in 2012]]
+at the Deauville American Film Festival in 2012]]
 
 Hayek is a naturalized United States citizen.[60] She studied at Ramtha's School of Enlightenment[61] and is a practitioner of yoga.[62] Hayek, who was raised Catholic, has said she is not very devout anymore and does not believe in the institution (Church), but still believes in Jesus Christ and God.[63]
 
@@ -91,8 +87,6 @@ For International Women's Day 2014 Hayek was one of the artist signatories of Am
 
 
 Honors and awards
-
-Salma_Hayek_(Guadalajara)_3.jpg
 
 -   Recipient of _Glamour_ magazine Woman of the Year Award in October 2001.[84]
 -   Recipient of Producers Guild of America Celebration of Diversity Award in 2003.

@@ -1,1 +1,0 @@
-BRANDON MORENO (born December 7, 1993) is a Mexican[1] mixed martial artist.[2] He currently competes as a flyweight[3] for the Ultimate Fighting Championship (UFC).[4] A professional mixed martial artist since 2011, Moreno has competed for Legacy Fighting Alliance and on The Ultimate Fighter. As of July 22, 2019, he is ranked #7 in the official UFC flyweight rankings.[5]

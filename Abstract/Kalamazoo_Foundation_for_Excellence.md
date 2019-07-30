@@ -1,1 +1,0 @@
-The KALAMAZOO FOUNDATION FOR EXCELLENCE is the working title of an initiative proposed by the community of Kalamazoo to philanthropically raise money for essential government services instead of imposing an income tax.

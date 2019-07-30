@@ -1,1 +1,0 @@
-_WHEN THE WHISTLE BLOWS_ is an American comedy television series that aired for 10 hour-long episodes on ABC from March 14 to July 20, 1980. The series was produced by Universal Television and starred Dolph Sweet, Doug Barr, Susan Buckner, Philip Brown and Tim Rossovich. It was filmed single-camera style and without a laugh track.[1]

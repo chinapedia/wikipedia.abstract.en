@@ -1,1 +1,0 @@
-_WELCOME TO CURIOSITY_ is a British crime thriller directed by Ben Pickering and starring Amrita Acharia, Jack Ashton, Richard Blackwood, Kacey Clarke, Lili Bordán, Stephen Marcus and Finn Corney. It is the world's first film to have raised its entire production budget through equity crowdfunding.[1]

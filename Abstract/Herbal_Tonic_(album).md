@@ -1,1 +1,0 @@
-HERBAL TONIC is a 2010 compilation album by British rap duo the Herbaliser. It was released by the Ninja Tune label on 14 June 2010. It consists of songs from the group's previously released albums on Ninja Tune, which were released between 1995 and 2010.[1]

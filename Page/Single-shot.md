@@ -1,7 +1,5 @@
 SINGLE-SHOT firearms are firearms that hold only a single round of ammunition, and must be reloaded after each shot. The history of firearms began with single-shot designs, and many centuries passed before multi-shot repeater designs became commonplace. Single-shot designs are less complex than revolvers or magazine-fed firearms, and many single-shot designs are still produced by many manufacturers, in both cartridge- and non-cartridge varieties, from zip guns to the highest-quality shooting-match weapons.
 
-Shiloh_Sharps_1874_Hartford_50_90_Rifle.jpg
-
 
 History
 
@@ -112,7 +110,7 @@ Rifles
 
 Ruger
 
-Ruger_no1_243_left_closed.jpg In 1966, Sturm, Ruger introduced their first true rifle, Ruger No. 1, which uses a falling-block action and is available in a wide selection of calibers from .22 Hornet to .458 Winchester Magnum. The No. 1 has always been sought after by shooters who appreciate the compact size of a single-shot rifle, and the falling block action cuts about four inches off the length of the rifle for a given barrel length. From 1972 to 1987, Ruger also made a less expensive version of the #1, the #3. The #3, which sold for about half the price of a #1, used a simplified, non-locking lever for the falling block action, and came with an uncheckered stock.[5]
+In 1966, Sturm, Ruger introduced their first true rifle, Ruger No. 1, which uses a falling-block action and is available in a wide selection of calibers from .22 Hornet to .458 Winchester Magnum. The No. 1 has always been sought after by shooters who appreciate the compact size of a single-shot rifle, and the falling block action cuts about four inches off the length of the rifle for a given barrel length. From 1972 to 1987, Ruger also made a less expensive version of the #1, the #3. The #3, which sold for about half the price of a #1, used a simplified, non-locking lever for the falling block action, and came with an uncheckered stock.[5]
 
 Browning
 
@@ -120,7 +118,7 @@ In 1985 Browning re-introduced the famous Winchester Model 1885 single-shot rifl
 
 Cooper
 
-Cooper_Single_Shot_Bolt_Action_Rifle.jpg The majority of rifles made by Cooper are single-shot bolt-action rifles. Many of their rifles are specially crafted to suit long-range varmint hunting, where the accuracy of the single-shot action is helpful.
+The majority of rifles made by Cooper are single-shot bolt-action rifles. Many of their rifles are specially crafted to suit long-range varmint hunting, where the accuracy of the single-shot action is helpful.
 
 Remington
 

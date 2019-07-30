@@ -1,1 +1,0 @@
-phutball_opening.svg

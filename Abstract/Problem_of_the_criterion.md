@@ -1,1 +1,0 @@
-In the field of epistemology, the PROBLEM OF THE CRITERION is an issue regarding the starting point of knowledge. This is a separate and more fundamental issue than the regress argument found in discussions on justification of knowledge.[1]

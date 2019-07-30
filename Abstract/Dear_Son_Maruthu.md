@@ -1,1 +1,0 @@
-_DEAR SON MARUTHU_ is a 1995 Tamil drama film directed by M. Solai Rajendran. The film features Rahman, Sivakumar and Soundarya in the lead roles, with Siva, Roopa Sree, Manorama, Nassar, Srividya, Sudha and Delhi Ganesh playing supporting roles. The film, produced by M. Jagannathan, had musical score by Deva and was released on 21 December 1995.[1][2][3]

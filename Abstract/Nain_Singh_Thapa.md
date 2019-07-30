@@ -1,1 +1,0 @@
-NAIN SINGH THAPA or NAYAN SINGH THAPA () (died late 1806 or early 1807) was a Nepalese Kaji (minister) and a military general. He died in the offensive campaign of Kangra from bullet injury. He was the owner of the Thapathali Durbar temple complex.

@@ -1,1 +1,0 @@
-In mathematics, the FROBENIUS INNER PRODUCT is a binary operation that takes two matrices and returns a number. It is often denoted ⟨A, B⟩_(F). The operation is a component-wise inner product of two matrices as though they are vectors. The two matrices must have the same dimension—same number of rows and columns—but are not restricted to be square matrices.

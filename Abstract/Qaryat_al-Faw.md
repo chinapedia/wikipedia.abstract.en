@@ -1,1 +1,0 @@
-QARYAT AL FAW () was the capital of the first Kindah kingdom. It is located about 100 km south of Wadi ad-Dawasir, and about 700 km southwest of Riyadh, the capital city of Saudi Arabia. The Al Faw archeological site reveals various features such as residential houses, markets, roads, cemeteries, temples, and water wells.[1]

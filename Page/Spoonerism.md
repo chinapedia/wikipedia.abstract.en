@@ -5,7 +5,7 @@ An example is saying "The Lord is a shoving leopard" instead of "The Lord is a l
 
 Etymology
 
-William_Archibald_Spooner_Vanity_Fair_1898-04-21.jpg) in _Vanity Fair_, April 1898]]
+) in _Vanity Fair_, April 1898]]
 
 Spoonerisms are named after the Reverend William Archibald Spooner (1844–1930), Warden of New College, Oxford, who was notoriously prone to this mistake.[3][4] The term "Spoonerism" was well established by 1921. An article in _The Times_ from that year reports that,
 
@@ -20,7 +20,7 @@ In 1937, The Times quoted a detective describing a man as "a bricklabourer's lay
 
 Examples
 
-Charles_Workman_Vanity_Fair_31_March_1910.jpg.
+.
 The caption reads, "Through every passion raging."
 The accompanying biography reads, "The only part of him which gets tired is his tongue, and occasionally the oft-repeated lines have got muddled. 'Self-constricted ruddles', 'his striggles were terruffic', and 'deloberately rib me' are a few of the spoonerisms he has perpetrated. Success has not spoilt him. He is a professional humourist, who has been known to make an Englishman laugh at breakfast."]]
 

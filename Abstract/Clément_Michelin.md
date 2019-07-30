@@ -1,1 +1,0 @@
-CLÉMENT JEROME MICHELIN (born 11 May 1997) is a French footballer who currently plays for Lens. He has also represented the France national youth teams starting from the France national under-17 football team.

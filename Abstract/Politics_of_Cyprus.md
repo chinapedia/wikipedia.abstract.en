@@ -1,1 +1,0 @@
-The Republic of Cyprus is a unitary presidential representative republic, whereby the President of Cyprus is both head of state and head of government. Executive power is exercised by the government. Legislative power is vested in both the government and the parliament. The Judiciary is independent of the executive and the legislature.

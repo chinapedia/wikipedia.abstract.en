@@ -1,1 +1,0 @@
-_MY BROMANCE: THE SERIES_ (Thai title: "My Bromance ", _MY BROMANCE: PHI CHAI THE SERIES_) is a 2016 Thai LGBT drama produced by MCOT. This series features Chaiya Jirapirom and Patpasit Songkla. It was filmed primarily in Thailand.

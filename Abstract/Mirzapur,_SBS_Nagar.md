@@ -1,1 +1,0 @@
-MIRZAPUR is a village in the Shaheed Bhagat Singh Nagar district of Punjab State, India. It is located from branch post office Kahlon, from Nawanshahr, from district headquarters Shaheed Bhagat Singh Nagar and from state capital Chandigarh. The village is administrated by Sarpanch, an elected representative of the village.[1]

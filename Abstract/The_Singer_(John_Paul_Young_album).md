@@ -1,1 +1,0 @@
-_THE SINGER_ is the sixth studio album by Australian pop singer John Paul Young, released in August 1981. It was the first album by Young on Hammard Records. Featuring cover versions of 1960s pop and rock songs, the album peaked at number 98 on the Australian Kent Music Report.[1] "Out of Time" was released as the album's first single.[2]

@@ -1,1 +1,0 @@
-OCRIERS GARGAS XIII are a French Rugby league club based in Gargas, in the region of Vaucluse. The club plays in the _Provence-Alpes-Cote d'Azur_ regional National Division 2 league, which is the 4th tier competition in France. Founded in 2007 home games are played at the _Stade Municipal de Gargas_.

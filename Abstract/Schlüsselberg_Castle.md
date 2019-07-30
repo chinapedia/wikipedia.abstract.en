@@ -1,1 +1,0 @@
-SCHLÜSSELBERG CASTLE () was a high medieval, aristocratic castle in the Franconian region of Germany. Its ruins lie on a hill above the _Pulvermühle_, a southern town quarter of Waischenfeld in the Upper Franconian county of Bayreuth in Bavaria.

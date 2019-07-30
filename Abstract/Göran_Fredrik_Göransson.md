@@ -1,1 +1,0 @@
-GÖRAN FREDRIK GÖRANSSON (20 January 1819 – 12 May 1900) was a Swedish merchant, ironmaster and industrialist. He was the founder of the company _Sandvikens Jernverks AB_ (now called Sandvik AB) and was the first person to implement the Bessemer process successfully on an industrial scale.[1]

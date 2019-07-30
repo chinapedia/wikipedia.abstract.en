@@ -1,1 +1,0 @@
-HILL-CREST (sometimes known as the "Walker-Ames Mansion" or "the 808 House") is the official residence of the president of the University of Washington. As of 2013 it was the single most valuable public university presidential residence in the United States.

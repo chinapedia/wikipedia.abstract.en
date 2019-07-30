@@ -1,1 +1,0 @@
-_EL MUSEO UNIVERSAL_ (1857-1869) was a Spanish language illustrated magazine produced in Madrid, Spain.[1] It was a traditionalist magazine.[2] In 1869 the magazine was absorbed into _La Ilustración Española y Americana_.[3][4]

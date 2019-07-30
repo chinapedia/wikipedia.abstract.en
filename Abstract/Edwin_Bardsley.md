@@ -1,1 +1,0 @@
-EDWIN BARDSLEY (1883 – 18 November 1916) was an English professional football outside left who appeared in the Football League for Stockport County and Glossop.[1] His career was ended due to a broken leg suffered in a collision with William Foulke.[2]

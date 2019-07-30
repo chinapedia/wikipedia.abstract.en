@@ -1,1 +1,0 @@
-The 1961 BROWNLOW MEDAL was the 34th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] John James of the Carlton Football Club won the medal by polling twenty-one votes during the 1961 VFL season.[2]

@@ -1,1 +1,0 @@
-"UN BACIO A MEZZANOTTE"(lit. A Midnight Kiss[1] or A Kiss At Midnight[2]) is a 1952 Italian song composed by Gorni Kramer (music) and Garinei & Giovannini (lyrics). Originally part of the revue _Gran baraonda_, starring Wanda Osiris and Alberto Sordi, it was popularized by the vocal group Quartetto Cetra, as to become a classic of Italian music.[3][4]

@@ -1,1 +1,0 @@
-The 2016 PACIFIC-ASIA CURLING CHAMPIONSHIPS were held from November 5 to 12 at the Gyeongbuk Uiseong Curling Training Center in Uiseong-eup,[1] Uiseong County, South Korea. The top two teams from the men's tournament will qualify for the 2017 Ford World Men's Curling Championship and the top finisher will join China at the 2017 World Women's Curling Championship.

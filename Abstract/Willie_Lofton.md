@@ -1,1 +1,0 @@
-_Willie_Lofton.jpg

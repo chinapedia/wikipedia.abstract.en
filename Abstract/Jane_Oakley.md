@@ -1,1 +1,0 @@
-'''Jane Oakley ''' (born 25 June 1966) is an Australian former footballer who played as a defender for the Australia women's national soccer team. She was part of the team at the 1994 OFC Women's Championship and 1995 FIFA Women's World Cup. At the club level, she played for Berwick City in Australia.[1]

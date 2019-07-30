@@ -1,1 +1,0 @@
-POLISH & SLAVIC FEDERAL CREDIT UNION (PSFCU) is a federally insured, state-chartered, credit union with 95,000 primary members, serving over 120,000 people. PSFCU has 16 branches in New York, New Jersey, and Illinois. PSFCU is the largest ethnic credit union in the United States.[1][2]

@@ -1,1 +1,0 @@
-_NEW MEN_ is the ninth extended play by South Korean boy group BTOB. The EP was released by Cube Entertainment on November 7, 2016 and contains 7 tracks including the lead single "Pray (I'll Be Your Man)".[1]

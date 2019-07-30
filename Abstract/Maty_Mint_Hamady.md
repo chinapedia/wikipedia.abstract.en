@@ -1,1 +1,0 @@
-MATY MINT HAMADY (born 1967) is a Mauritanian economist and politician who has been Mayor of Nouakchott, the capital and largest city of Mauritania, since 2014. Previously she was Minister of Public Service, Labour and Modernization of Administration from 2011 to 2013.

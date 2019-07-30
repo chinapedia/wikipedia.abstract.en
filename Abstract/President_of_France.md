@@ -1,1 +1,0 @@
-The PRESIDENT OF FRANCE, officially the PRESIDENT OF THE FRENCH REPUBLIC (, ) is the executive head of state of France in the French Fifth Republic. In French terms, the presidency is the supreme magistracy of the country.

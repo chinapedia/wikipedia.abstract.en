@@ -1,1 +1,0 @@
-_ARIZONA SUNSHINE_ is a zombie survival first-person shooter video game released on December 6, 2016. The game is compatible with the HTC Vive, Oculus Rift, and PlayStation VR virtual reality headsets.[1][2][3][4][5]

@@ -1,1 +1,0 @@
-_WENDY & PETER PAN_ is a play by Ella Hickson, adapted from the play and novel _Peter and Wendy_ by J.M. Barrie. The play is a re-telling of the classic children's story which features Wendy Darling as the protagonist who flies away with Peter Pan to Neverland.

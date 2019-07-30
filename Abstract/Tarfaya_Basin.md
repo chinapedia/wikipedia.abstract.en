@@ -1,1 +1,0 @@
-Morocco is located on the northwestern coast of Africa bordering the Atlantic Ocean and Mediterranean Sea. The Tarfaya Basin is located offshore of the city of Tarfaya near the southern border of Morocco.[1] |225x225px

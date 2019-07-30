@@ -1,1 +1,0 @@
-The is an art museum in the city of Kodaira in western Tokyo, Japan, dedicated to the life and work of Japanese master wood sculptor Hirakushi Denchū (1872–1979). The museum preserves the last home and studio of Denchu, where he moved in 1970, and has a purpose-built exhibition annex building housing many of the sculptor's works.[1]

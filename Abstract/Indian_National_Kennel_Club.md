@@ -1,1 +1,0 @@
-THE INDIAN NATIONAL KENNEL CLUB is a registry of purebred dogs in India. Beyond maintaining its pedigree registry, this kennel club also promotes and sanctions events for purebred dogs, including dog shows and specialty shows.

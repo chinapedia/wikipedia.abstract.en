@@ -1,5 +1,3 @@
-TogoOMC.png LocationTogo.svg
-
 Togo is a small Sub-Saharan state, comprising a long strip of land in West Africa. Togo's geographic coordinates are a latitude of 8° north and a longitude of 1°10′ east. It is bordered by three countries: Benin to the east, with of border; Burkina Faso to the north, with of border; and Ghana, with of border. To the south Togo has of coastline along the Bight of Benin of the Gulf of Guinea in the North Atlantic Ocean. Togo stretches north from the Gulf and is only wide at the broadest point. In total, Togo has an area of , of which is land and is water.
 
 Togo is commonly divided into six geographic regions. In the south are low-lying sandy beaches. The coastal region is narrow and followed by tidal flats and shallow lagoons. There are also a number of lakes, the largest of which is Lake Togo.

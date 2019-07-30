@@ -1,1 +1,0 @@
-Americas_satellite_map.jpg. Much of the information in the image come from a single remote-sensing device—NASA's Moderate Resolution Imaging Spectroradiometer, or MODIS, flying over 700 km above the Earth on board the Terra satellite in 2001.]]

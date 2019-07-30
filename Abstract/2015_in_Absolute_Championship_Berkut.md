@@ -1,1 +1,0 @@
-The year 2015 was the 3rd year in the history of the Absolute Championship Berkut, a mixed martial arts promotion based in Russia. 2015 started with Absolute Championship Berkut 13. It started broadcasting through a television agreement with Match TV.

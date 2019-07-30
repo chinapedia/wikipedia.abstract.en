@@ -1,1 +1,0 @@
-The 1990 NCAA DIVISION I TENNIS CHAMPIONSHIPS refer to one of two NCAA-sponsored events held during June 1990 to determine the national champions of men's and women's collegiate tennis in the United States:

@@ -1,1 +1,0 @@
-An ABBREVIATOR (plural "ABBREVIATORS" in English and "ABBREVIATORES" in Latin) or BREVIATOR was a writer of the Papal Chancery who adumbrated and prepared in correct form Papal bulls, briefs, and consistorial decrees before these were written out _in extenso_ by the _scriptores_.[1]

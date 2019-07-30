@@ -1,1 +1,0 @@
-Cyanoacrylate_structure.png]] CYANOACRYLATES are a family of strong fast-acting adhesives with industrial, medical, and household uses. They are various esters of cyanoacrylic acid. The acryl groups in the resin rapidly polymerize in the presence of water to form long, strong chains. They have some minor toxicity.

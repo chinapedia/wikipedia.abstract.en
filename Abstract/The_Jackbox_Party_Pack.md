@@ -1,1 +1,0 @@
-_THE JACKBOX PARTY PACK_ are a series of party video games developed by Jackbox Games for many different platforms on a near-annual release schedule since 2014. Each installation contains five or so games that are designed to be played in large groups, including in conjunction with streaming services like Twitch.tv which provide a means for audiences to participate.

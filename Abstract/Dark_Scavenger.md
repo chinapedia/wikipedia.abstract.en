@@ -1,1 +1,0 @@
-_DARK SCAVENGER_ is a point-and-click adventure role-playing game video game published and developed by Canadian indie studio Psydra Games. It was released for PC and Steam on July 12, 2012 and May 16, 2014, respectfully.

@@ -1,1 +1,0 @@
-During the 1961–62 English football season, Brentford competed in the Football League Third Division. Financial cutbacks and a reduction in size of the playing squad led to Brentford's relegation to the Fourth Division for the first time in the club's history.

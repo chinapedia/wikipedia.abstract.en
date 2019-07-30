@@ -1,1 +1,0 @@
-Sven_Rosborn.jpg

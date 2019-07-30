@@ -1,1 +1,0 @@
-The COOK ISLANDS (Cook Islands Māori: _Kūki 'Āirani_)[1] is a self-governing island country in the South Pacific Ocean in free association with New Zealand. It comprises 15 islands whose total land area is . The Cook Islands' Exclusive Economic Zone (EEZ) covers of ocean.[2]

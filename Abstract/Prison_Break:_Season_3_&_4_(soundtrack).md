@@ -1,1 +1,0 @@
-_PRISON BREAK: SEASON 3 & 4_ is the second soundtrack of the American television series Prison Break, composed by Ramin Djawadi, bringing together music used for the third and fourth season. Released in June 2009, the album includes twenty-one music composed specially for seasons 3 and 4 of Prison Break.

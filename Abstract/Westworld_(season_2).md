@@ -1,1 +1,0 @@
-The second season of the American science fiction western television series _Westworld_ (subtitled _The Door_) premiered on HBO on April 22, 2018. It consisted of ten episodes and concluded on June 24, 2018.

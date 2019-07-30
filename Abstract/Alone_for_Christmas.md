@@ -1,1 +1,0 @@
-_ALONE FOR CHRISTMAS_ (aka "Bone Alone") is a 2013 comedy film created by the independent film group The Asylum.[1] A "loose mockbuster" of film series Home Alone, the film is directed by Joseph J. Lawson, written by Nancy Leopardi, and starring David DeLuise, Kim Little and Davis Cleveland.

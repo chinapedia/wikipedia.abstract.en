@@ -1,4 +1,4 @@
-Leviathan_by_Thomas_Hobbes.jpg' _Leviathan_]]The term STATE refers to a form of polity, that is typically characterised as a centralized organisation. There is no single, undisputed, definition of what constitutes a state.[1][2] A widely-used definition is a state being a polity that, within a given territory, maintains a monopoly on the use of force, but many other widely used definitions exist.[3][4]
+' _Leviathan_]]The term STATE refers to a form of polity, that is typically characterised as a centralized organisation. There is no single, undisputed, definition of what constitutes a state.[1][2] A widely-used definition is a state being a polity that, within a given territory, maintains a monopoly on the use of force, but many other widely used definitions exist.[3][4]
 
 Some states are sovereign, while other states are subject to external sovereignty or hegemony, where supreme authority lies in another state.[5] The term "state" also applies to federated states that are members of a federation, in which sovereignty is shared between member states and a federal body.
 
@@ -71,7 +71,7 @@ Most political theories of the state can roughly be classified into two categori
 
 Anarchist perspective
 
-Pyramid_of_Capitalist_System.jpg poster "Pyramid of Capitalist System" (c. 1911), depicting an anti-capitalist perspective on statist/capitalist social structures]] Anarchism is a political philosophy which considers the state immoral, unnecessary, and harmful and instead promotes a stateless society, or anarchy.
+poster "Pyramid of Capitalist System" (c. 1911), depicting an anti-capitalist perspective on statist/capitalist social structures]] Anarchism is a political philosophy which considers the state immoral, unnecessary, and harmful and instead promotes a stateless society, or anarchy.
 
 Anarchists believe that the state is inherently an instrument of domination and repression, no matter who is in control of it. Anarchists note that the state possesses the monopoly on the legal use of violence. Unlike Marxists, anarchists believe that revolutionary seizure of state power should not be a political goal. They believe instead that the state apparatus should be completely dismantled, and an alternative set of social relations created, which are not based on state power at all.[50][51]
 
@@ -151,7 +151,7 @@ Mesopotamia is generally considered to be the location of the earliest civilizat
 
 The state in classical antiquity
 
-Karl_Theodor_von_Piloty_Murder_of_Caesar_1865.jpg]] Although state-forms existed before the rise of the Ancient Greek empire, the Greeks were the first people known to have explicitly formulated a political philosophy of the state, and to have rationally analyzed political institutions. Prior to this, states were described and justified in terms of religious myths.[97]
+]] Although state-forms existed before the rise of the Ancient Greek empire, the Greeks were the first people known to have explicitly formulated a political philosophy of the state, and to have rationally analyzed political institutions. Prior to this, states were described and justified in terms of religious myths.[97]
 
 Several important political innovations of classical antiquity came from the Greek city-states and the Roman Republic. The Greek city-states before the 4th century granted citizenship rights to their free population, and in Athens these rights were combined with a directly democratic form of government that was to have a long afterlife in political thought and history.
 

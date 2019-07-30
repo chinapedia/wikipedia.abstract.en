@@ -1,1 +1,0 @@
-THE BISHOP AND THE GARGOYLE is a 30-minute old-time radio crime drama in the United States. It was broadcast on the NBC Blue network September 30, 1936 - January 3, 1942.[1] The program was unique in being a radio network prime-time drama with a church leader as its central character.[2]

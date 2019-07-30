@@ -1,5 +1,3 @@
-Neutral_Zone_IQ_SA.jpg Saudi_Arabian–Iraqi_Neutral_Zone_1990.jpg
-
 The SAUDI–IRAQI NEUTRAL ZONE was an area of on the border between Saudi Arabia and Iraq within which the border between the two countries had not been settled. The neutral zone came into existence following the Uqair Protocol of 1922 which defined the border between Iraq and the Sultanate of Nejd (Saudi Arabia's predecessor state). The neutral zone officially ended on 26 December 1991, when Iraq and Saudi Arabia agreed on the partition of the zone.[1]
 
 

@@ -1,1 +1,0 @@
-The APPRENTICESHIP LEVY is a UK tax on employers which can be used to fund apprenticeship training. In the current (2018/19) tax year it is payable by all employers with an annual pay bill of more than £3 million at a rate of 0.5% of their total pay bill.

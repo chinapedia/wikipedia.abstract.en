@@ -1,1 +1,0 @@
-_CONTROL ME_ is the third album from punk rock band The Forgotten. It is their first release under BYO Records. It was released in September 2002 on black vinyl and CD. It contains one of the band's most popular songs "Retrofitted".

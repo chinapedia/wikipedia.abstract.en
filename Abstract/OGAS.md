@@ -1,1 +1,0 @@
-OGAS (, "National Automated System for Computation and Information Processing") was a Soviet project to create a nationwide information network. The project began in 1962 but was denied necessary funding in 1970. It was one of a series of attempts to create a nationwide network analogous to what became the Internet, all of which failed.

@@ -1,1 +1,0 @@
-MCCURRY is an unincorporated community in Gentry County, in the U.S. state of Missouri.[1] The community is located on Missouri Route H, one half mile south of the Grand River. Darlington lies approximately two miles to the east-southeast and Carmack on U.S. Route 136 is two miles to the north.[2]

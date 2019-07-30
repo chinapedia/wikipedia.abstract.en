@@ -1,1 +1,0 @@
-SMJK TSUNG WAH[1] is a public funded secondary school located in Kuala Kangsar, Perak, Malaysia. Establishment of this secondary school started from the primary school SRJK Tsung Wah. In 1958, Department of State Education approved the secondary level of education and further establish SMJK Tsung Wah with 22 classes.

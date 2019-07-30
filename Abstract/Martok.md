@@ -1,1 +1,0 @@
-MARTOK, SON OF URTHOG is a recurring character in _Star Trek: Deep Space Nine_, played by actor J. G. Hertzler. He plays the role of a Klingon alien in a science fiction television show of the 1990s. He plays the role of a high-ranking leader of these aliens during a period of Galactic war and how it affects a Federation-Bajoran space station in the late 2300s.

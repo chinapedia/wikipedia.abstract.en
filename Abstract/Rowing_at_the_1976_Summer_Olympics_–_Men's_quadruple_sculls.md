@@ -1,1 +1,0 @@
-The MEN'S QUADRUPLE SCULLS competition at the 1976 Summer Olympics took place at took place at Notre Dame Island Olympic Basin, Canada.[1] It was the first time that the event was included at the Olympics.[2]

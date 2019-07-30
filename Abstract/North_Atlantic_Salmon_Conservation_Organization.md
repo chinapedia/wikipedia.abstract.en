@@ -1,1 +1,0 @@
-The NORTH ATLANTIC SALMON CONSERVATION ORGANIZATION (NASCO) is an international organization established under the Convention for the Conservation of Salmon in the North Atlantic Ocean from 1 October 1983.

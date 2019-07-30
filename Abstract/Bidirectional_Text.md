@@ -1,1 +1,0 @@
-BIDIRECTIONAL TEXT is the text containing both text directionalities, both right-to-left (RTL or dextrosinistral) and left-to-right (LTR or sinistrodextral). It generally involves text containing different types of alphabets, but may also refer to boustrophedon, which is changing text directionality in each row.

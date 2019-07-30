@@ -1,1 +1,0 @@
-DUKE OF MARLBOROUGH ( ) is a title in the Peerage of England. It was created by Queen Anne in 1702 for John Churchill, 1st Earl of Marlborough (1650–1722), the noted military leader. In historical texts, it is often to him that an unqualified use of the title refers. The name of the dukedom refers to Marlborough in Wiltshire.

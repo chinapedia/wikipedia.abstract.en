@@ -1,1 +1,0 @@
-The NATIONAL PARTY OF AUSTRALIA (also known as THE NATIONALS or simply, THE NATS) is an Australian political party. Traditionally representing graziers, farmers, and rural voters generally, it began as the AUSTRALIAN COUNTRY PARTY in 1920 at a federal level. It would later briefly adopt the name NATIONAL COUNTRY PARTY in 1975, before adopting its current name in 1982.

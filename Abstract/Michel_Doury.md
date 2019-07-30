@@ -1,1 +1,0 @@
-MICHEL DOURY (1931–2007) was a French writer and translator (in particular Thomas Pynchon, Raymond Chandler, Richard Brautigan and Leonard Cohen). In 1969, he won the Roger Nimier Prize with his work _L'indo_. In 1988 he was awarded the Prix Mottart by the Académie française.

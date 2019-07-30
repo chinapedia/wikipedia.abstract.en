@@ -1,1 +1,0 @@
-PrideauxArms2.PNG Sir THOMAS PRIDIAS (died 1310 or 1311[1]) (alias _Prideaux_) lord of the manor of Newham (anciently _Nunneam_, etc.)[2] in the parishes of Kenwyn and Kea, immediately south of the parish of Truro, in Cornwall, was a Member of Parliament for Cornwall in 1298.[3]

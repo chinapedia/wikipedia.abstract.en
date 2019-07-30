@@ -1,1 +1,0 @@
-KENAN H. NG'AMBI of Zambia served as a member of the Africa Scout Committee. In 1973, he was awarded the 83rd _Bronze Wolf_, the only distinction of the World Organization of the Scout Movement, awarded by the World Scout Committee for exceptional services to world Scouting.[1]

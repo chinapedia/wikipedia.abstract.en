@@ -1,1 +1,0 @@
-__, 190, is a one-act singspiel by Franz Schubert to a libretto by Theodor Körner written for 's (1784–1814) opera of the same title that premiered in 1813 in Vienna's Theater an der Wien.[1] Written in 1815 when Schubert was 18 years old, it was first performed on 23 September 1896, 67 years after Schubert's death, at the Dresden Court Opera.

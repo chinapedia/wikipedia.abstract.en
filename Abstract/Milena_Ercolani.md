@@ -1,1 +1,0 @@
-MILENA ERCOLANI (born 19 September 1963) is a Sammarinese poet and novelist. An alumna of the Antica Università Picena, she is a teacher. Ercolani is active in the literary life of her country,[1] and has represented San Marino at numerous literary events around the world.[2][3]

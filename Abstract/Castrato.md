@@ -1,1 +1,0 @@
-A CASTRATO (Italian, plural: _castrati_) is a type of classical male singing voice equivalent to that of a soprano, mezzo-soprano, or contralto. The voice is produced by castration of the singer before puberty, or it occurs in one who, due to an endocrinological condition, never reaches sexual maturity.

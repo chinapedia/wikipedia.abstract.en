@@ -1,1 +1,0 @@
-CHRISTOPHER SMITH, known professionally as CHRIS SMITH, is an English radio newsreader. He is most famous for presenting Newsbeat on BBC Radio 1 and co-hosting the That's What He Said Podcast alongside Greg James.

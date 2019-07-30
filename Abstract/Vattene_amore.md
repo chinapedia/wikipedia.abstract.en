@@ -1,1 +1,0 @@
-"VATTENE AMORE" is a 1990 song composed by Amedeo Minghi, Pasquale Panella and Augusto Martelli and recorded in a duo performance by Mietta and Minghi. The song premiered at the 40th edition of the Sanremo Music Festival, where it placed third. During the festival, it was also performed in an English-language adaptation titled "All for the Love" by Nikka Costa.[1][2]

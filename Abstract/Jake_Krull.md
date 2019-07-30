@@ -1,1 +1,0 @@
-JACOB J. "JAKE" KRULL, JR. (December 23, 1938 – November 25, 2016) was an American military officer and South Dakota politician. He served in the South Dakota Senate from 1973 to 1983 and was a Democrat.[1][2][3]

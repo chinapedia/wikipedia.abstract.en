@@ -1,1 +1,0 @@
-Nitrate-ion-elpot.png map of the nitrate ion (NO₃^(−)). Areas coloured translucent red, around the outside of the red oxygen atoms themselves, signify the regions of most negative electrostatic potential]]

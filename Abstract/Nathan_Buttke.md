@@ -1,1 +1,0 @@
-NATHAN BUTTKE (born May 8, 1975) is a former stock car racing driver. The Randleman, North Carolina native competed in 55 NASCAR Busch Series races and 22 NASCAR Craftsman Truck Series races between 1992 and 2001.[1][2][3]

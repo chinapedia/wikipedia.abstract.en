@@ -1,1 +1,0 @@
-'''Frauke Kuhlmann ''' (born 27 September 1966 in Bad Segeberg) is a German women's international footballer who plays as a defender. She is a member of the Germany women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she plays for Schmalfelder SV in Germany.[1]

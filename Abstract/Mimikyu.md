@@ -1,1 +1,0 @@
-MIMIKYU (), known in Japan as , is a Pokémon species in Nintendo and Game Freak's _Pokémon_ franchise. It was first introduced in _Pokémon Sun_ and _Moon_. It is referred to as the "Disguise Pokémon", as it disguises itself to look like Pikachu to make friends. Its name is a pun of "mimic you", while also referencing Pikachu.

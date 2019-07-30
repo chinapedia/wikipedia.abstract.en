@@ -1,1 +1,0 @@
-DKIDS, also known as DISCOVERY KIDS, is a children's television channel that is owned by Discovery Communications. It is an edition of the Discovery Kids channel that airs in the MENA region, and is available in both English and Arabic. It first launched on August 1, 2016, and broadcast via beIN Network.[1]

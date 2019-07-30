@@ -1,1 +1,0 @@
-WALTER BROWN "BROWNIE" MCGHEE (November 30, 1915 – February 16, 1996)[1] was an African-American folk music and Piedmont blues singer and guitarist, best known for his collaboration with the harmonica player Sonny Terry.[2]

@@ -1,1 +1,0 @@
-EMILY TING is an American director, producer and screenwriter. She was born in Taipei, but later moved to Los Angeles with her family.[1] Ting graduated from the film/TV program at NYU’s Tisch School of the Arts.[2] Her first feature-length film, _Already Tomorrow in Hong Kong_, was released in 2015.[3]

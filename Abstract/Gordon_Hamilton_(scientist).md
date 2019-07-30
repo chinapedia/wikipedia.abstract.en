@@ -1,1 +1,0 @@
-GORDON HAMILTON ( – 22 October 2016) was a Scottish climate scientist who studied glaciers.[1] He died on a trip to Antarctica in 2016 when his snowmobile fell into a crevasse. He was 50 at the time of his death.[2]

@@ -1,1 +1,0 @@
-This is a list of TEXAS UNION ARMY UNITS that served in the American Civil War. The Confederate civil war units are listed separately. Although Texas seceded in 1861 there was a pro-Union minority within the state that organized several units for the Union Army. It is estimated that some 2000 Texans have served the Union during the war.

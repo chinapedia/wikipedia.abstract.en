@@ -1,1 +1,0 @@
-KIM JIN-HEE (born 26 March 1981) is a South Korean women's international footballer who plays as a midfielder. She was a member of the South Korea women's national football team, and was part of the team at the 2003 FIFA Women's World Cup. At the club level, she plays for Ulsan College in South Korea.[1]

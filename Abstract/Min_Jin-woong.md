@@ -1,1 +1,0 @@
-MIN JIN-WOONG (born August 22, 1986) is a South Korean actor. He starred in TV series such as _Yong-pal_ (2015) and _Drinking Solo_ (2016) and Memories of the Alhambra .[1] Min gained popularity through his role in KBS' weekend family drama _Father is Strange_ (2017).

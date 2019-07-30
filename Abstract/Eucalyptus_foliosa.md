@@ -1,1 +1,0 @@
-_EUCALYPTUS FOLIOSA_ is a species of mallee that is endemic in Western Australia. It has a dense crown with foliage reaching to the ground, smooth greyish bark, linear to narrow lance-shaped or narrow oblong adult leaves, flower buds in groups of seven or nine, white flowers and conical to shortened hemispherical fruit. It is only known from a small area near Esperance.

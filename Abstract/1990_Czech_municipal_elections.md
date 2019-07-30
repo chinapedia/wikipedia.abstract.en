@@ -1,1 +1,0 @@
-MUNICIPAL ELECTIONS were held in the Czech Republic on 23 and 24 November 1990 as part of nationwide municipal elections in Czechoslovakia. Voter turnout was 73.55%. A total of 51 parties contested the elections, which were won by the Civic Forum.[1][2] The elections also saw the introduction of independent candidates, who received over 10% of the vote.[3]

@@ -1,1 +1,0 @@
-The GRAPHOTYPE PLATEMAKER, is a type of metal marking machine originally used to create address plates for the Addressograph system and mark military style identity tags and other industrial nameplates.

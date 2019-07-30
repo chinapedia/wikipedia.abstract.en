@@ -1,1 +1,0 @@
-Antanas_Vaiciulaitis.jpg

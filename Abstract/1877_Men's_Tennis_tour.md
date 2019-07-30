@@ -1,1 +1,0 @@
-{{ Infobox tennis circuit season | name = 1877 Men's Tennis tour | image = Spencer gore.jpg | image_caption = | image_alt = | image_size = 200px | duration = 19 July – 9 October | edition = 1st | tournaments = 3 | categories = Important (1)

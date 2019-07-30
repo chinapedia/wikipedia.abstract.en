@@ -1,1 +1,0 @@
-SYSTRAN, founded by Dr. Peter Toma in 1968,[1] is one of the oldest machine translation companies. SYSTRAN has done extensive work for the United States Department of Defense and the European Commission.

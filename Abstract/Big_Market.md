@@ -1,1 +1,0 @@
-BIG MARKET is the leading Albanian supermarket chain, with 130 outlets (125 supermarkets and 5 hypermarkets), 20 shareholders and 1500 workers throughout the country. Its slogan is “Big Market, know what to choose”.

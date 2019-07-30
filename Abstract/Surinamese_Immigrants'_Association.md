@@ -1,1 +1,0 @@
-The SURINAMESE IMMIGRANTS' ASSOCIATION () was formed in 1910 in Suriname, then the Dutch colony of Surinam. The association's goal was to advocate for the interests of the East Indian diaspora in Suriname, particularly contract laborers.[1]

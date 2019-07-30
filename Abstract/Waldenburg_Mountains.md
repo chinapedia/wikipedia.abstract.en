@@ -1,1 +1,0 @@
-Waligora_walbrzyskie_01.jpg The WAŁBRZYSKIE MOUNTAINS or WALDENBURG MOUNTAINS (; ), sometimes called the WAŁBRZYSKIE HIGHLANDS or WALDENBURG HIGHLANDS, is one of the three mountain ranges that form the western part of the Central Sudetes. The other ranges are the Owl Mountains and the Falcon Mountains.

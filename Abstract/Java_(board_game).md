@@ -1,1 +1,0 @@
-_JAVA_ is a German-style board game designed by Wolfgang Kramer and Michael Kiesling and published in 2000 by Ravensburger in German and by Rio Grande Games in English. It is illustrated by Franz Vohwinkel.

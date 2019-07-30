@@ -1,1 +1,0 @@
-Lamppost-singapore.jpg]] GALVANIZATION or GALVANIZING is the process of applying a protective zinc coating to steel or iron, to prevent rusting. The most common method is hot-dip galvanizing, in which the parts are submerged in a bath of molten zinc.

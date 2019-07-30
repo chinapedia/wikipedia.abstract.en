@@ -1,1 +1,0 @@
-The UNITED ARAB EMIRATES MEN'S NATIONAL VOLLEYBALL TEAM represents United Arab Emirates in international volleyball competitions and friendly matches. The team is currently ranked 137 in the world.[1][2]

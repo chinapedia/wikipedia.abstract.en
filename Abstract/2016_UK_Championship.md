@@ -1,1 +1,0 @@
-The 2016 BETWAY UK CHAMPIONSHIP was a professional ranking snooker tournament that took place from 22 November to 4 December 2016 at the Barbican Centre in York, England.[1] It was the tenth ranking event of the 2016/2017 season.[2]

@@ -1,1 +1,0 @@
-GANDHI NAGAR, sometimes spelled GANDHINAGAR, is a busy neighbourhood in central Bangalore. The area suffers from heavy traffic and pollution. A significant number of transgender people reside in Gandhi Nagar.[1]

@@ -1,1 +1,0 @@
-VASILY VASILYEVICH LUZHSKY (, born KALUZHSKY, Калужский; 31 December 1869, , — 2 July 1931, Moscow, USSR) was a Russian, Soviet stage actor, theatre director and pedagogue, associated with the Moscow Art Theatre.

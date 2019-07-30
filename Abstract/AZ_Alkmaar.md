@@ -1,1 +1,0 @@
-ALKMAAR ZAANSTREEK (), better known as AZ ALKMAAR or simply AZ (), is a Dutch professional football club from Alkmaar and the Zaanstreek. The club plays in the Eredivisie, the highest professional football league in the Netherlands, and hosts home matches at the AFAS Stadion.

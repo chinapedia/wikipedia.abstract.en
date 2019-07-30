@@ -1,5 +1,3 @@
-Tz-map.png LocationTanzania.svg Koppen-Geiger_Map_TZA_present.svg Tanzania_Topography.png
-
 Tanzania comprises many lakes, national parks, and Africa's highest point, Mount Kilimanjaro (). Northeast Tanzania is mountainous, while the central area is part of a large plateau covered in grasslands. The country also contains the southern portion of Lake Victoria on its northern border with Uganda and Kenya.
 
 Administratively, Tanzania is divided into 30 regions,[1] with twenty-five on the mainland, three on Unguja (known informally as Zanzibar Island), and two on Pemba Island.
@@ -27,7 +25,7 @@ The onset of the long rains averages 25 March and the cessation averages 21 May.
 
 Statistics
 
-Tanzania_Roads_&_Rails.png LOCATION: Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique.
+LOCATION: Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique.
 
 GEOGRAPHIC COORDINATES:
 

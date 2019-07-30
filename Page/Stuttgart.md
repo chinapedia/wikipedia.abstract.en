@@ -1,4 +1,4 @@
-Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_01.jpg}}, morning]] Arkadenhof_Altes_Schloss_Stuttgart_2015_02.jpg of the Old Castle]] Heslach_und_Karlshöhe.jpg}}]]
+}}, morning]] of the Old Castle]] }}]]
 
 STUTTGART ( , also ;[1][2][3] ; Swabian: ; ) is the capital and largest city of the German state of Baden-Württemberg. Stuttgart is located on the Neckar river in a fertile valley known locally as the "Stuttgart Cauldron". It lies an hour from the Swabian Jura and the Black Forest. Its urban area has a population of 609,219,[4] making it the sixth largest city in Germany.[5] 2.7 million people live in the city's administrative region[6] and 5.3 million people in its metropolitan area,[7] making it the fourth largest metropolitan area in Germany. The city and metropolitan area are consistently ranked among the top 20 European metropolitan areas by GDP; Mercer listed Stuttgart as 21st on its 2015 list of cities by quality of living,[8] innovation agency 2thinknow ranked the city 24th globally out of 442 cities[9] and the Globalization and World Cities Research Network ranked the city as a Beta-status world city in their 2014 survey.[10]
 
@@ -18,7 +18,7 @@ Stuttgart, often nicknamed the "_Schwabenmetropole_" () in reference to its loca
 
 History
 
-Stuttgart_wappen_alt.jpg is long. The _Chorographia Württemberg_ of 1591 shows a horse _rampant_ facing _sinister_ on a field _argent_. _Siebmachers Wappenbuch_ of 1605 (p. 225) has the modern coat of arms, with the horse facing _dexter_, on a field _or_. The modern design of this coat of arms dates to 1938 (and was also adopted as part of the Porsche logo in 1952).}}]] De_Merian_Sueviae_229.jpg Drawing of Stuttgart by Matthäus Merian]] Stuttgart,_Stadtplan,_1794,_2_farbig.jpg]] Meyers_b15_s0408a.jpg]] Karte_Stuttgart.png]] Stuttgart.jpg. The Rotebühlkaserne is visible to the left, and the Old Castle and Stiftskirche to the right.]] The_old_Market_Place,_Stuttgart.jpg looking west, 1881]] Stuttgart_Rathaus_Marktplatz_1907.jpg, 1907. The building was destroyed by Allied bombing during World War II. What was left of the building was used to build the current City Hall.]] Villa_Berg,_Ansicht_von_Westen,_koloriert,_um_1910.jpg, the summer residence of the royalty of Wurttemberg built from 1845–1853, in a colorized photograph from 1910]] Daimler-motoren-gesellschaft-1911.jpg of the Daimler-Motoren-Gesellschaft factory in Untertürkheim. Today, this building is the seat of Daimler AG.]] Notgeld_Stuttgart_50Pf_1921.jpg'' from 1921 featuring the state capital, Stuttgart]] Wandertag_Stuttgart_1938_Riesengebirgsverein_Albverein.JPG]] Stuttgart_1945_Zerstörung_Walter_Kittel_Zeichnung.jpg Neues_Schloss_Stuttgart_(1956).jpg at Schlossplatz prior to restoration, 1956]] Stuttgart_Hauptbahnhof_v._Königstraße_1965.jpg from the Königstraße, 1965]]
+is long. The _Chorographia Württemberg_ of 1591 shows a horse _rampant_ facing _sinister_ on a field _argent_. _Siebmachers Wappenbuch_ of 1605 (p. 225) has the modern coat of arms, with the horse facing _dexter_, on a field _or_. The modern design of this coat of arms dates to 1938 (and was also adopted as part of the Porsche logo in 1952).}}]] Drawing of Stuttgart by Matthäus Merian]] ]] ]] ]] . The Rotebühlkaserne is visible to the left, and the Old Castle and Stiftskirche to the right.]] looking west, 1881]] , 1907. The building was destroyed by Allied bombing during World War II. What was left of the building was used to build the current City Hall.]] , the summer residence of the royalty of Wurttemberg built from 1845–1853, in a colorized photograph from 1910]] of the Daimler-Motoren-Gesellschaft factory in Untertürkheim. Today, this building is the seat of Daimler AG.]] '' from 1921 featuring the state capital, Stuttgart]] ]] at Schlossplatz prior to restoration, 1956]] from the Königstraße, 1965]]
 
 Antiquity
 
@@ -114,15 +114,13 @@ The core area of Stuttgart lies in a fertile bowl-shaped valley about above sea 
 
 Stuttgart covers an area of and sits at elevation ranging from above sea level by the Neckar river to on Bernhartshöhe hill – something rather unique in large German cities. The most prominent elevated locales in Stuttgart are the Birkenkopf () on the edge of the Stuttgart basin, the Württemberg () rising above the Neckar valley, and the Grüner Heiner () at the northeast end of the city.
 
-RegionStuttgart.png Stuttgart is one of 14 Regional centres in Baden-Württemberg and is naturally the primary centre of the Stuttgart Region, making it the administrative centre for a region of containing a total of 2.76 million people as of December 2014.[154] In addition to this, Stuttgart serves as a Mittelzentrum for Esslingen District cities Leinfelden-Echterdingen and Filderstadt, and Ditzingen, and Gerlingen and Korntal-Münchingen in Ludwigsburg District. Stuttgart is also chief of the three centres Stuttgart Metropolitan Region, an area of containing 5.3 million persons.[155]
+Stuttgart is one of 14 Regional centres in Baden-Württemberg and is naturally the primary centre of the Stuttgart Region, making it the administrative centre for a region of containing a total of 2.76 million people as of December 2014.[154] In addition to this, Stuttgart serves as a Mittelzentrum for Esslingen District cities Leinfelden-Echterdingen and Filderstadt, and Ditzingen, and Gerlingen and Korntal-Münchingen in Ludwigsburg District. Stuttgart is also chief of the three centres Stuttgart Metropolitan Region, an area of containing 5.3 million persons.[155]
 
   Mittelzentrum / Middle-Stage centers of the Stuttgart Region
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Backnang, Bietigheim-Bissingen / Besigheim, Böblingen / Sindelfingen, Esslingen am Neckar, Geislingen, Göppingen / Herrenberg, Kirchheim unter Teck, Leonberg, Ludwigsburg / Kornwestheim, Nürtingen, Schorndorf, Vaihingen, Waiblingen / Fellbach
 
 Climate
-
-StuttgartCentreWinter.jpg
 
 Stuttgart experiences an oceanic climate (Köppen: _Cfb_),[156] just like the British Isles and Northern France, but it is very extreme at times. As a result of the urban heat island caused by the dense development of the city, inside its "Cauldron" average temperatures in the summer months regularly beat from June to August and come very near in September. In the winter temperatures are quite mild, with daily means never sinking below even in the coldest months (January and February). In spite of the heat, there is no dry season and the city receives frequent but moderate precipitation year-round. Annually, the city receives of rain (German average national annual rainfall is ).[157][158] On average, Stuttgart enjoys 1,807 hours of sunshine per year and an average annual temperature of .[159]
 
@@ -133,9 +131,9 @@ Landmarks and culture
 
 The inner city
 
-Stiftskirche_Stuttgart.jpeg At the center of Stuttgart lies its main square, Schlossplatz. As well as being the largest square in Stuttgart, it stands at the crossover point between the city's shopping area, _Schlossgarten_ park which runs down to the river Neckar, Stuttgart's two central castles and major museums and residential areas to the south west. Königstraße, Stuttgart's most important shopping street which runs along the northwestern edge of Schlossplatz, claims to be the longest pedestrianized street in Germany.
+At the center of Stuttgart lies its main square, Schlossplatz. As well as being the largest square in Stuttgart, it stands at the crossover point between the city's shopping area, _Schlossgarten_ park which runs down to the river Neckar, Stuttgart's two central castles and major museums and residential areas to the south west. Königstraße, Stuttgart's most important shopping street which runs along the northwestern edge of Schlossplatz, claims to be the longest pedestrianized street in Germany.
 
-Although the city center was heavily damaged during World War II, many historic buildings have been reconstructed and the city boasts some fine pieces of modern post-war architecture. Buildings and squares of note in the inner city include: Stuttgart_AlteKanzlei01.JPG square]]
+Although the city center was heavily damaged during World War II, many historic buildings have been reconstructed and the city boasts some fine pieces of modern post-war architecture. Buildings and squares of note in the inner city include: square]]
 
 -   The _Stiftskirche_ (Collegiate Church), dates back to the 12th century, but was changed to the Late Gothic style in the 15th century and has been a Protestant church since 1534. Exterior: Romanesque/Gothic; interior: Romanesque/Gothic/Modern. Reconstructed with simplified interior after World War II.
 -   _Altes Schloss_ (the Old Castle), mostly dating from the late 15th century, some parts date back to 1320. Renaissance style; reconstructed
@@ -151,7 +149,7 @@ Although the city center was heavily damaged during World War II, many historic 
 
 Architecture in other districts
 
-Stuttgart_Wilhelma_1900.jpg Zoo and Botanical Garden, around 1900]] A number of significant castles stand in Stuttgart's suburbs and beyond as reminders of the city's royal past. These include:
+Zoo and Botanical Garden, around 1900]] A number of significant castles stand in Stuttgart's suburbs and beyond as reminders of the city's royal past. These include:
 
 -   Castle Solitude, 1700–1800. Baroque/Rococo)
 -   Ludwigsburg Palace, 1704–1758. Baroque, with its enormous baroque garden.
@@ -169,7 +167,7 @@ Other landmarks in and around Stuttgart include (''see also museums below):
 
 Parks, lakes, cemeteries and other places of interest
 
-Feuersee_Spring.jpg]] Killesbergpark.jpg with fountains and vineyards in the background]] At the center of Stuttgart lies a series of gardens which are popular with families and cyclists. Because of its shape on a map, the locals refer to it as the _Green U_. The Green U starts with the old Schlossgarten, castle gardens first mentioned in records in 1350. The modern park stretches down to the river Neckar and is divided into the upper garden (bordering the Old Castle, the Main Station, the State Theater and the State Parliament building), and the middle and lower gardens – a total of 61 hectares. The park also houses Stuttgart planetarium.
+]] with fountains and vineyards in the background]] At the center of Stuttgart lies a series of gardens which are popular with families and cyclists. Because of its shape on a map, the locals refer to it as the _Green U_. The Green U starts with the old Schlossgarten, castle gardens first mentioned in records in 1350. The modern park stretches down to the river Neckar and is divided into the upper garden (bordering the Old Castle, the Main Station, the State Theater and the State Parliament building), and the middle and lower gardens – a total of 61 hectares. The park also houses Stuttgart planetarium.
 
 At the far end of Schlossgarten lies the second _Green U_ park, the larger Rosensteinpark which borders Stuttgart's Wilhelma zoo and botanical gardens. Planted by King William I of Württemberg, it contains many old trees and open areas and counts as the largest English-style garden in southern Germany. In the grounds of the park stands the former Rosenstein castle, now the Rosenstein museum.
 
@@ -179,7 +177,7 @@ On the northern edge of the Rosensteinpark is the famous 'Wilhelma', Germany's o
 
 Other parks in Stuttgart include the historic Botanischer Garten der Universität Hohenheim and Landesarboretum Baden-Württemberg at Castle Hohenheim (which date back to 1776 and are still used to catalog and research plant species), Uhlandshöhe hill (between the city center, Bad Cannstatt and Frauenkopf, and home to Stuttgart observatory), the Weißenburgpark (a five-hectare park in the Bopser area of Stuttgart South which dates back to 1834 and is now home to a 'tea house' and the 'marble room' and offers a relaxing view across the city center), the Birkenkopf a Schuttberg (at the highest point in central Stuttgart, where many ruins were laid to commemorate the Second World War), and the Eichenhain park in Sillenbuch (declared a nature reserve in 1958 and home to 200 oak trees, many 300–400 years old).
 
-Birkenkopf_1.jpg)]]
+)]]
 
 There are a number of natural and artificial lakes and ponds in Stuttgart. The largest is the Max-Eyth-See, which was created in 1935 by reclaiming a former quarry and is now an official nature reserve. It is surrounded by an expansive open area overlooked by vineyards on the banks of the river Neckar near [Mühlhausen]. There are expansive areas of woodland to the west and south west of Stuttgart which are popular with walkers, families, cyclists and ramblers. The most frequented lakes form a trio made up of the Bärensee, Neuer See and Pfaffensee. The lakes are also used for local water supplies.
 
@@ -196,7 +194,7 @@ The city boasts the largest mineral water deposits in Europe after Budapest,[163
 
 Culture and events
 
-Stuttgart_Staatsoper.jpg]] Stiftskirche_stuttgart.jpg (originally built in 1170, pictured around 1900) with the memorial on _Schillerplatz_ square in foreground]]
+]] (originally built in 1170, pictured around 1900) with the memorial on _Schillerplatz_ square in foreground]]
 
 Stuttgart is known for its rich cultural heritage, in particular its State Theatre (_Staatstheater_) and State Gallery (_Staatsgalerie_). The _Staatstheater_ is home to the State opera and three smaller theatres. It regularly stages opera, ballet and theatre productions as well as concerts. The Staatstheater was named Germany/Austria/Switzerland "Theatre of the year" in 2006; the Stuttgart Opera has won the 'Opera of the year' award six times.[165] Stuttgart Ballet is connected to names like John Cranko and Marcia Haydée.
 
@@ -210,7 +208,7 @@ The Schleyerhalle sports arena is regularly used to stage rock and pop concerts 
 
 Stuttgart's Swabian cuisine, beer and wine have been produced in the area since the 17th century and are now famous throughout Germany and beyond.[168] For example, Gaisburger Marsch is a stew that was invented in Stuttgart's Gaisburg area of Stuttgart East.
 
-Cannstatter-fruchtsaeule-2004.jpg in the district of 'Bad Cannstatt']]
+in the district of 'Bad Cannstatt']]
 
 In October 2009 the Stuttgart Ministry of Agriculture announced that the European Union was to officially recognise the pasta dish Maultaschen as a "regional specialty", thus marking its significance to the cultural heritage of Baden-Württemberg.[169]
 
@@ -227,13 +225,13 @@ Regular events that take place in Stuttgart:
 
 Museums
 
-Stuttgart_alte_staatsgalerie.jpg]] Württembergische_Königskrone.jpg crown jewels on display in the State Museum of Württemberg (Old Castle)]]
+]] crown jewels on display in the State Museum of Württemberg (Old Castle)]]
 
 Stuttgart is home to five of the eleven state museums in Baden-Württemberg. The foremost of these is the Old State Gallery (opened in 1843, extended in 1984) which holds art dating from the 14th to 19th century including works by Rubens, Rembrandt, Monet, Renoir, Cézanne and Beuys. Next door to the Old State Gallery is the New State Gallery (1980) with its controversial modern architecture. Among others, this gallery houses works from Max Beckmann, Dalí, Matisse, Miró, Picasso, Klee, Chagall and Kandinsky.
 
 The Old Castle is also home to the State Museum of Württemberg which was founded in 1862 by William I of Württemberg. The museum traces the rich history of Württemberg with many artifacts from the its dukes, counts and kings, as well as earlier remnants dating back to the stone age. On the Karlsplatz side of the Old Castle is a museum dedicated to the memory of Claus Schenk Graf von Stauffenberg, former resident of Stuttgart who attempted to assassinate Adolf Hitler on 20 July 1944.
 
-Mercedes-Benz_Museum_201312_08_blue_hour.jpg]] Porsche-Museum_Main_Entrance.JPG ]]
+]] ]]
 
 Other leading museums in Stuttgart include:
 
@@ -254,7 +252,7 @@ Stuttgart is the seat of a Protestant bishop (Protestant State Church in Württe
 
 Libraries
 
-BibliothekMailaenderPlatzNachtaufnahme_2012-01.jpg Wuerttembergische_landesbibliothek_2005_05a.jpg ]] Hstas.jpg The Württembergische Landesbibliothek (WLB) is one of two state libraries for Baden-Württemberg. The WLB is specifically responsible for the administrative regions of Stuttgart and Tübingen. Especially devoted to the National Library of acquiring, cataloging, archiving and provision of literature about Württemberg, called _Württembergica_. Together with the Badische Landesbibliothek (BLB) in Karlsruhe it also has the legal deposit for Baden-Württemberg, making it an archive library.
+]] The Württembergische Landesbibliothek (WLB) is one of two state libraries for Baden-Württemberg. The WLB is specifically responsible for the administrative regions of Stuttgart and Tübingen. Especially devoted to the National Library of acquiring, cataloging, archiving and provision of literature about Württemberg, called _Württembergica_. Together with the Badische Landesbibliothek (BLB) in Karlsruhe it also has the legal deposit for Baden-Württemberg, making it an archive library.
 
 The Stuttgart University Library (UBS) is a central institution of the University of Stuttgart . It forms the center of the library system of the University, ensuring the supply of research, teaching and studies with literature and other information resources. It stands next to the members of the University and citizens of the city are available. Together with other research libraries and documentation centers in the Stuttgart area – such as the University of Hohenheim Library – it forms the UBS Library Information System of the Stuttgart Region (BISS).
 
@@ -342,7 +340,7 @@ Stuttgart ranks as one of the safest cities in Germany. In 2003, 8535 crimes wer
 
 Politics
 
-Stuttgart_Rathaus01.JPG Stuttgart's current Bürgermeister (mayor) is Fritz Kuhn of the centre-left Alliance '90/The Greens party (German Green party).
+Stuttgart's current Bürgermeister (mayor) is Fritz Kuhn of the centre-left Alliance '90/The Greens party (German Green party).
 
 City government past and present
 
@@ -388,11 +386,11 @@ Science and research and development
 
 The region currently has Germany's highest density of scientific, academic and research organisations. No other region in Germany registers so many patents and designs as Stuttgart.[192] Almost 45% of Baden-Württemberg scientists involved in R&D are based directly in the Swabian capital. More than 11% of all German R&D costs are invested in the Stuttgart Region (approximately 4.3 billion euros per year). In addition to several universities and colleges (e.g. University of Stuttgart, University of Hohenheim, Stuttgart Institute of Management and Technology[193] and several Stuttgart Universities of Applied Sciences), the area is home to six Fraunhofer institutes, four institutes of collaborative industrial research at local universities, two Max-Planck institutes and a major establishment of the German Aerospace Centre (DLR).
 
-Koenigsbau_Stuttgart_20060901.jpg' on Schlossplatz, former home to the Stuttgart Stock Exchange]]
+' on Schlossplatz, former home to the Stuttgart Stock Exchange]]
 
 Financial services
 
-The Stuttgart Stock Exchange is the second largest in Germany (after Frankfurt). Many leading companies in the financial services sector are headquartered in Stuttgart with around 100 credit institutes in total (e.g. LBBW Bank, Wüstenrot & Württembergische, Allianz Life Assurance). Kriegsberg.jpg
+The Stuttgart Stock Exchange is the second largest in Germany (after Frankfurt). Many leading companies in the financial services sector are headquartered in Stuttgart with around 100 credit institutes in total (e.g. LBBW Bank, Wüstenrot & Württembergische, Allianz Life Assurance).
 
 A history of wine and beer
 
@@ -407,7 +405,7 @@ Stuttgart also has several famous breweries such as Stuttgarter Hofbräu, Dinkel
 
 Education and research
 
-Stuttgart_HochschuleFuerMusikUndDarstellendeKunst.jpg]] Stuttgart and its region have been home to some significant figures of German thought and literature, the most important ones being Georg Wilhelm Friedrich Hegel, Friedrich Schiller and Friedrich Hölderlin.
+]] Stuttgart and its region have been home to some significant figures of German thought and literature, the most important ones being Georg Wilhelm Friedrich Hegel, Friedrich Schiller and Friedrich Hölderlin.
 
 The city, in its engineering tradition as the cradle of the automobile, has also always been a fruitful place of research and innovation. Stuttgart has Germany's second-highest number of institutions (six) of applied research of the Fraunhofer Society (after Dresden).
 
@@ -451,15 +449,13 @@ Following the suit of other German cities such as Berlin, Cologne and Hanover, o
 
 Local transport
 
-Stadtbahn_Stuttgart_-_Hst_Rathaus.jpg S-Bahn_in_Stuttgart.jpg stuttgart_hbf1.jpg
-
 Stuttgart has a light rail system known as the Stuttgart Stadtbahn. In the city center and densely built-up areas, the Stadtbahn runs underground. Stations are signposted with a 'U' symbol, which stands for _Untergrundbahn_ (underground rail). Until 2007, Stuttgart also operated regular trams. Stuttgart also has a large bus network. Stadtbahn lines and buses are operated by the Stuttgarter Straßenbahnen AG (SSB). The outlying suburbs of Stuttgart and nearby towns are served by a suburban railway system called the Stuttgart S-Bahn, using tracks supplied by the national Deutsche Bahn AG (DB).
 
 A peculiarity of Stuttgart is the _Zahnradbahn_, a rack railway that is powered by electricity and operates between Marienplatz in the southern inner-city district of the city and the district of Degerloch. It is the only urban rack railway in Germany. Stuttgart also has a _Standseilbahn_, a funicular railway that operates in the Heslach area and the forest cemetery (Waldfriedhof). In Killesberg Park, on a prominent hill overlooking the city, there is the miniature railway run by diesel (and on weekends with steam).
 
 Rail links
 
-EDDS_-_001.jpg Stuttgart_zahnradbahn1.jpg Stuttgart is a hub in the Intercity-Express and Intercity networks of Deutsche Bahn AG (DB), with through services to most other major German cities. It also operates international services to Strasbourg, Vienna, Zürich and Paris (five times a day, journey time 3 hours 11 minutes).[199]
+Stuttgart is a hub in the Intercity-Express and Intercity networks of Deutsche Bahn AG (DB), with through services to most other major German cities. It also operates international services to Strasbourg, Vienna, Zürich and Paris (five times a day, journey time 3 hours 11 minutes).[199]
 
 Long distance trains stop at Stuttgart Hauptbahnhof, the city's main line terminus, which is also used by Interregio-Express, Regional-Express and Regionalbahn trains for services to stations in the Stuttgart metropolitan area. The local rail networks (see above) operate underneath the terminus.
 
@@ -475,7 +471,7 @@ Stuttgart is served by Stuttgart Airport (, IATA airport code _STR_), an interna
 
 Road transport
 
-Stuttgart is served by Autobahn A8, that runs east-west from Karlsruhe to Munich, and Autobahn A81 that runs north-south from Würzburg to Singen. The Autobahn A831 is a short spur entering the southern side of Stuttgart. Stuttgart-hafen-2005.jpg Besides these Autobahns, Stuttgart is served by a large number of expressways, many of which are built to Autobahn standards, and were once intended to carry an A-number. Important expressways like B10, B14, B27 and B29 connect Stuttgart with its suburbs. Due to the hilly surroundings, there are many road tunnels in and around Stuttgart. There are also a number of road tunnels under intersections in the center of Stuttgart.
+Stuttgart is served by Autobahn A8, that runs east-west from Karlsruhe to Munich, and Autobahn A81 that runs north-south from Würzburg to Singen. The Autobahn A831 is a short spur entering the southern side of Stuttgart. Besides these Autobahns, Stuttgart is served by a large number of expressways, many of which are built to Autobahn standards, and were once intended to carry an A-number. Important expressways like B10, B14, B27 and B29 connect Stuttgart with its suburbs. Due to the hilly surroundings, there are many road tunnels in and around Stuttgart. There are also a number of road tunnels under intersections in the center of Stuttgart.
 
 Waterways
 
@@ -486,7 +482,7 @@ Sport
 
 Football
 
-Gottlieb-daimler-stadion.jpg's home ground, the Mercedes-Benz Arena in Bad Cannstatt. In the background: the Stuttgart Spring Festival]]
+'s home ground, the Mercedes-Benz Arena in Bad Cannstatt. In the background: the Stuttgart Spring Festival]]
 
 As in the rest of Germany, football is the most popular sport in Stuttgart which is home to 'The Reds' and 'The Blues'. 'The Reds', VfB Stuttgart, are the most famous and popular local club. An established team currently playing in the German Bundesliga, VfB was founded in 1893 and has won five German titles since 1950, most recently in 1992 and 2007. VfB is based at the Mercedes-Benz Arena in Bad Cannstatt.
 

@@ -1,1 +1,0 @@
-BERNICE EDWARDS (c. 1907 – February 26, 1969)[1] was an American classic female blues singer, pianist and songwriter. She recorded a total of 21 tracks between 1926 and 1935.[2] Unusually for a female blues performer at the time, Robinson composed some of her songs. Details of her life outside the recording studio are sketchy.

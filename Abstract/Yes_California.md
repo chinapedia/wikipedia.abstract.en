@@ -1,1 +1,0 @@
-Yes_California_logo_(v1).svg Map_of_USA_highlighting_California.png The YES CALIFORNIA INDEPENDENCE CAMPAIGN is an American political action committee, founded by Louis J. Marinelli, that promotes the secession of the state of California from the United States.

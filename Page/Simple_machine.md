@@ -1,4 +1,4 @@
-Table_of_Mechanicks,_Cyclopaedia,_Volume_2.png'', 1728.[1] Simple machines provide a vocabulary for understanding more complex machines.]] A _' simple machine_' is a mechanical device that changes the direction or magnitude of a force.[2] In general, they can be defined as the simplest mechanisms that use mechanical advantage (also called leverage) to multiply force.[3] Usually the term refers to the six classical simple machines that were defined by Renaissance scientists:[4]
+'', 1728.[1] Simple machines provide a vocabulary for understanding more complex machines.]] A _' simple machine_' is a mechanical device that changes the direction or magnitude of a force.[2] In general, they can be defined as the simplest mechanisms that use mechanical advantage (also called leverage) to multiply force.[3] Usually the term refers to the six classical simple machines that were defined by Renaissance scientists:[4]
 
 -   Lever
 -   Wheel and axle
@@ -93,7 +93,7 @@ _η__(compound) = _η_₁_η_₂… _η__(N). 
 
 Self-locking machines
 
-BOLT_SCREW_UBT_199.JPG's self-locking property is the reason for its wide use in threaded fasteners like bolts and wood screws ]]
+'s self-locking property is the reason for its wide use in threaded fasteners like bolts and wood screws ]]
 
 In many simple machines, if the load force _F_(out)_ on the machine is high enough in relation to the input force _F_(in)_, the machine will move backwards, with the load force doing work on the input force.[36] So these machines can be used in either direction, with the driving force applied to either input point. For example, if the load force on a lever is high enough, the lever will move backwards, moving the input arm backwards against the input force. These are called "_reversible_", "_non-locking_" or "_overhauling_" machines, and the backward motion is called "_overhauling_". However, in some machines, if the frictional forces are high enough, no amount of load force can move it backwards, even if the input force is zero. This is called a "_self-locking_", "_nonreversible_", or "_non-overhauling_" machine.[37] These machines can only be set in motion by a force at the input, and when the input force is removed will remain motionless, "locked" by friction at whatever position they were left.
 
@@ -135,7 +135,7 @@ Machines are studied as mechanical systems consisting of actuators and mechanism
 
 Kinematic chains
 
-Kinematics_of_Machinery_-_Figure_21.jpg]]Simple machines are elementary examples of kinematic chains that are used to model mechanical systems ranging from the steam engine to robot manipulators. The bearings that form the fulcrum of a lever and that allow the wheel and axle and pulleys to rotate are examples of a kinematic pair called a hinged joint. Similarly, the flat surface of an inclined plane and wedge are examples of the kinematic pair called a sliding joint. The screw is usually identified as its own kinematic pair called a helical joint.
+]]Simple machines are elementary examples of kinematic chains that are used to model mechanical systems ranging from the steam engine to robot manipulators. The bearings that form the fulcrum of a lever and that allow the wheel and axle and pulleys to rotate are examples of a kinematic pair called a hinged joint. Similarly, the flat surface of an inclined plane and wedge are examples of the kinematic pair called a sliding joint. The screw is usually identified as its own kinematic pair called a helical joint.
 
 Two levers, or cranks, are combined into a planar four-bar linkage by attaching a link that connects the output of one crank to the input of another. Additional links can be attached to form a six-bar linkage or in series to form a robot.[41]
 

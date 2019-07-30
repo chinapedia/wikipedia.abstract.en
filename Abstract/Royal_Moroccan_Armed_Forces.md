@@ -1,1 +1,0 @@
-The ROYAL MOROCCAN ARMED FORCES (Berber: _Idwasen Urbiben Igeldanen n Murakuc_; Arabic: القوات المسلحة الملكية المغربية, _Al-Quwwat al-Musallaha al-Malakiyah al-Maghribiyah_) are the military forces of the Kingdom of Morocco. They consist of the Army, the Navy, the Air Force, the Royal Gendarmerie, and the Royal Guard

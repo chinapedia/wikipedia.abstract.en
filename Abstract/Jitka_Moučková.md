@@ -1,1 +1,0 @@
-JITKA MOUČKOVÁ (born 6 July 1979) is a Czech actress and dubbing artist. She has played parts at the Musical Theatre Karlín and the National Theatre in Prague.[1] Among other roles, she has dubbed Penny in _The Big Bang Theory_ for Czech television audiences.[2]

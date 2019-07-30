@@ -1,1 +1,0 @@
-The 110th edition of the PARIS–TOURS cycling classic was held on 9 October 2016. The race was part of the 2016 UCI Europe Tour, ranked as a 1.HC event.[1] Fernando Gaviria became the first Colombian winner of Paris–Tours with a late attack in the final kilometer. Frenchman Arnaud Démare was second, Belgian Jonas Van Genechten third.[2]

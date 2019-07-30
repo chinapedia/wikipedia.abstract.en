@@ -1,1 +1,0 @@
-RICHARD ALBANO ALBANO (born April 13, 1960) is a retired Filipino general[1] who is the author of Oplan Lambat-Sibat, a nationwide anti-crime program.[2] Since the launch of this program, Albano was lauded by the national government for the number of successful arrests during his stints at the Quezon City Police District and Police Regional Office 4-A.[3][4]

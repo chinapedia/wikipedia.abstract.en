@@ -1,1 +1,0 @@
-CORRIE MCKEAGUE (born 16 September 1993)[1] went missing in the early hours of 24 September 2016 in the Bury St Edmunds area of Suffolk, England. Before disappearing, he worked as a Royal Air Force Regiment gunner.

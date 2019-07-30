@@ -1,1 +1,0 @@
-POPE BENEDICT XIII (; 2 February 1649 – 21 February 1730), born PIETRO FRANCESCO ORSINI and later called VINCENZO MARIA ORSINI, was head of the Catholic Church and ruler of the Papal States from 29 May 1724 to his death in 1730.[1]

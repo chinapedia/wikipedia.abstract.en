@@ -1,1 +1,0 @@
-Guadalupe_Garcia_McCall_2018.jpg GUADALUPE GARCIA MCCALL is an award-winning author, poet, and educator. She was born in Piedras Negras, Coahuila, Mexico[1]. She is the recipient of the 2012 Pura Belpré Medal[2] for narrative.

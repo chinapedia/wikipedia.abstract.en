@@ -1,1 +1,0 @@
-MURPHY TARAMAI (born 17 August 1992) is a New Zealand rugby union player who currently plays as a loose forward for in New Zealand's domestic Mitre 10 Cup and for the in the international Super Rugby competition.[1][2][3] He previously represented the All Blacks Sevens team during the 2014–15 Sevens World Series.[4]

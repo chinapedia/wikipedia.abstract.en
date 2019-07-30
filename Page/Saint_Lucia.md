@@ -56,7 +56,7 @@ The institution of slavery was abolished on the island in 1836, as it was throug
 
 Castries' harbour was protected by a system of 60 surrounding forts. Along the top of Morne Fortune there are six military sites, building work by the French started in 1768, and the British completed the work by 1890. They include Fort Charlotte (Old Morne Fortress), the Apostle's Battery (1888–1890), The Powder Magazine built by the French in the 1750s, Provost's Redoubt (1792) built as a lookout point, and the Combermere barracks.[13]
 
-Flag_of_Saint_Lucia_(1939–1967).svg 1939–1967]] The best preserved installation is a battery at La Toc Point, completed in 1888 it was not abandoned till 1905. This fort in particular was built by the British to repel any attack from the United States on the then valuable coaling harbour of Castries.[14]
+1939–1967]] The best preserved installation is a battery at La Toc Point, completed in 1888 it was not abandoned till 1905. This fort in particular was built by the British to repel any attack from the United States on the then valuable coaling harbour of Castries.[14]
 
 20th and 21st centuries
 
@@ -68,14 +68,14 @@ In the mid-twentieth century, Saint Lucia joined the West Indies Federation (195
 
 Post-independence era
 
-John_Compton,_former_PM_of_St_Lucia.jpg Compton's initial term as Prime Minister lasted only a few months, as he was defeated by the left-leaning Saint Lucia Labour Party (SLP) under Allan Louisy in the 1979 Saint Lucian general election.[16]The SLP sought to improve ties with socialist countries in the region such as Cuba, though the economy was severely affected by Hurricane Allen in 1980.[17] Louisy was replaced as Prime Minister by Winston Cenac in 1981. The SLP government faced a series of strikes and Cenac agreed to stand down, with Michael Pilgrim of the Progressive Labour Party briefly serving as Acting Prime Minister until the 1982 Saint Lucian general election.[18] This election was won by the UWP under John Compton, who proceeded to rule the country uninterrupted until 1996[19][20]; he was succeeded by Vaughan Lewis, who ruled for just over a year before losing the 1997 Saint Lucian general election to the SLP under Kenny Anthony. During this era the UWP adopted a generally pro-Western, pro-business outlook, seeking to diversify the economy away from over-reliance on bananas and boosting the tourism sector.[21] Compton was also a keen advocate of regional integration.[22]
+Compton's initial term as Prime Minister lasted only a few months, as he was defeated by the left-leaning Saint Lucia Labour Party (SLP) under Allan Louisy in the 1979 Saint Lucian general election.[16]The SLP sought to improve ties with socialist countries in the region such as Cuba, though the economy was severely affected by Hurricane Allen in 1980.[17] Louisy was replaced as Prime Minister by Winston Cenac in 1981. The SLP government faced a series of strikes and Cenac agreed to stand down, with Michael Pilgrim of the Progressive Labour Party briefly serving as Acting Prime Minister until the 1982 Saint Lucian general election.[18] This election was won by the UWP under John Compton, who proceeded to rule the country uninterrupted until 1996[19][20]; he was succeeded by Vaughan Lewis, who ruled for just over a year before losing the 1997 Saint Lucian general election to the SLP under Kenny Anthony. During this era the UWP adopted a generally pro-Western, pro-business outlook, seeking to diversify the economy away from over-reliance on bananas and boosting the tourism sector.[21] Compton was also a keen advocate of regional integration.[22]
 
 Kenny remained in power until 2006 when the UWP, again led by Compton, won control of parliament. Compton pledged to boost the economy and tackle the rising crime rate.[23] Police attempts to curb crime were criticised in 2015 when it emerged that several suspects had been unlawfully shot by police and the circumstances of their deaths covered up.[24] In May 2007, after Compton suffered a series of small strokes[25][26], Finance and External Affairs Minister Stephenson King became acting prime minister and succeeded Compton as Prime Minister when the latter died in September 2007. In November 2011, Kenny Anthony was re-elected as prime minister for a third time.[27] In the June 2016 election the United Worker's Party (UWP) assumed power again, with Allen Chastanet becoming prime minister.[28]
 
 
 Geography
 
-Saint_Lucia_geography_map_en.png The volcanic island of Saint Lucia is more mountainous than most Caribbean islands, with the highest point being Mount Gimie, at above sea level.[29][30] Two other mountains, the Pitons, form the island's most famous landmark.[31][32] They are located between Soufrière and Choiseul on the western side of the island. Saint Lucia is the only island in the world that contains a drive-in volcano. Forests cover about 77% of the land area.[33]
+The volcanic island of Saint Lucia is more mountainous than most Caribbean islands, with the highest point being Mount Gimie, at above sea level.[29][30] Two other mountains, the Pitons, form the island's most famous landmark.[31][32] They are located between Soufrière and Choiseul on the western side of the island. Saint Lucia is the only island in the world that contains a drive-in volcano. Forests cover about 77% of the land area.[33]
 
 There are a number of small islands off the coast, the largest of which are the Maria Islands in the south-east.
 
@@ -90,7 +90,7 @@ Average daytime temperatures are around , and average nightime temperatures are 
 
 Geology
 
-USGS_Saint_Lucia_geologic_map.png, where Tmov denotes Miocene/Oligocene volcanic rocks, Tplv are Pliocene calc-alkaline volcanic rocks, and Qv are Quaternary volcanic edifices, flows, and pyroclastic deposits.]] Qualibou_Caldera_tomography.png The geology of St. Lucia can be described as composing three main areas. The oldest, 16–18 Ma, volcanic rocks are exposed from Castries northward and consist of eroded basalt and andesite centres. The middle, central highlands, portion of the island consists of dissected andesite centres, 10.4 to 1 Mya, while the lower southwest portion of the island contains recent activity from the Soufriere Volcanic Centre (SVC). This SVC, centered about the Qualibou depression, contains pyroclastic flow deposits, lava flows, domes, block and ash flow deposits, and explosion craters. This depression's perimeter includes the town of Soufriere, Mount Tabac, Mt. Gimie, Morne Bonin, and Gros Piton. At in diameter, though the western portion is open towards the Grenada basin, the depression formed as recently as 100 kya. The depression is noted for its geothermal activity, especially at Sulphur Springs and Soufrière Estates, a phreatic eruption in 1776, and recent seismic activity (2000–2001).[36]
+, where Tmov denotes Miocene/Oligocene volcanic rocks, Tplv are Pliocene calc-alkaline volcanic rocks, and Qv are Quaternary volcanic edifices, flows, and pyroclastic deposits.]] The geology of St. Lucia can be described as composing three main areas. The oldest, 16–18 Ma, volcanic rocks are exposed from Castries northward and consist of eroded basalt and andesite centres. The middle, central highlands, portion of the island consists of dissected andesite centres, 10.4 to 1 Mya, while the lower southwest portion of the island contains recent activity from the Soufriere Volcanic Centre (SVC). This SVC, centered about the Qualibou depression, contains pyroclastic flow deposits, lava flows, domes, block and ash flow deposits, and explosion craters. This depression's perimeter includes the town of Soufriere, Mount Tabac, Mt. Gimie, Morne Bonin, and Gros Piton. At in diameter, though the western portion is open towards the Grenada basin, the depression formed as recently as 100 kya. The depression is noted for its geothermal activity, especially at Sulphur Springs and Soufrière Estates, a phreatic eruption in 1776, and recent seismic activity (2000–2001).[36]
 
 Eroded andesitic stratovolcanoes to the north east of the depression include Mt. Gimie, Piton St Esprit, and Mt. Grand Magazin, all greater than 1 Ma in age. Andesitic and dacite pyroclastic flows from these volcanoes are found at Morne Tabac dome (532 ka), Morne Bonin dome (273 kya), and Bellevue (264 kya). Avalanche deposits from the formation of the Qualibou depression are found offshore, and in the massive blocks of Rabot, Pleisance, and Coubaril. The dacitic domes of Petit Piton (109 kya) and Gros Piton (71 kya) were then extruded onto the depression floor accompanied by the Anse John (104 kya) and La Pointe (59.8 kya) pyroclastic flows. Later, pyroclastic flows include pumice-rich Belfond and Anse Noir (20 kya). Finally, the dacitic domes of Terre Blanche (15.3 kya) and Belfond (13.6 kya) formed within the depression.[37]
 
@@ -99,7 +99,7 @@ Government
 
 Saint Lucia is a Commonwealth realm. Elizabeth II is Queen of Saint Lucia, represented on the island by a governor-general. The prime minister[38] is normally the head of the party commanding the support of the majority of the members of the House of Assembly, which has 17 seats.[39] The other chamber of Parliament, the Senate, has eleven appointed members.
 
-Allen_Chastanet_2016.jpg]] Saint Lucia is a two-party parliamentary democracy. Three political parties participated in the 6 June 2016 General Election. Allen Chastanet of the United Workers Party won eleven of the seventeen seats.[40]
+]] Saint Lucia is a two-party parliamentary democracy. Three political parties participated in the 6 June 2016 General Election. Allen Chastanet of the United Workers Party won eleven of the seventeen seats.[40]
 
 Foreign relations
 
@@ -156,8 +156,6 @@ An additional area is the Forest Reserve Area Quarter (78.3 km²).
 
 Economy
 
-St._Lucia_Export_Treemap.png
-
 The United Nations categorizes Saint Lucia as a Small Island Developing State, a designation similar to a developing country with a few substantial differences due to Saint Lucia's island nature.[52][53] The services sector accounted for 82.8% of GDP, followed by industry and agriculture at 14.2% and 2.9%, respectively.[54]
 
 An educated workforce and improvements in roads, communications, water supply, sewerage, and port facilities have attracted foreign investment in tourism and in petroleum storage and transshipment. However, with the US, Canada, and Europe in recession, tourism declined by double digits in early 2009. The recent change in the European Union import preference regime and the increased competition from Latin American bananas have made economic diversification increasingly important in Saint Lucia.
@@ -168,7 +166,7 @@ Inflation has been relatively low, averaging 5.5 percent between 2006 and 2008. 
 
 Tourism
 
-MarigotBayStLucia.jpg At_the_top_of_Pigeon_Island.jpg Tourism is vital to Saint Lucia's economy. Its economic importance is expected to continue to increase as the market for bananas becomes more competitive. Tourism tends to be more substantial during the dry season (January to April). Saint Lucia tends to be popular due to its tropical weather and scenery and its numerous beaches and resorts.
+Tourism is vital to Saint Lucia's economy. Its economic importance is expected to continue to increase as the market for bananas becomes more competitive. Tourism tends to be more substantial during the dry season (January to April). Saint Lucia tends to be popular due to its tropical weather and scenery and its numerous beaches and resorts.
 
 Other tourist attractions include a drive-in volcano, Sulphur Springs (in Soufrière),zip lining in beautiful Sault Falls, Dennery, the Botanical Gardens, the Majestic twin Peaks "The Pitons", a world heritage site, the rain forests, several options of boat trips, Frigate Island Nature Reserve (Operated by the St. Lucia National Trust), Dennery, and Pigeon Island National Park, which is home to Fort Rodney, an old British military base.
 
@@ -232,7 +230,7 @@ In 2017, Saint Lucia recorded 60 homicides, the highest in the country's history
 
 Culture
 
-Day250castriesreduxd.jpg in Castries.]]
+in Castries.]]
 
 The culture of Saint Lucia has been influenced by African, East Indian, French, and English heritage. One of the secondary languages is Saint Lucian French Creole or Kwéyòl, spoken by almost all of the population.[65][66]
 
@@ -250,7 +248,7 @@ In May 2009, Saint Lucians commemorated the 150th Anniversary of West Indian Her
 
 Sport
 
-Beausejour_Stadium_Cricket_St_Lucia.jpg which hosts international cricket matches for the West Indies.]] Darren_Sammy,_2010.jpg The Windward Islands cricket team includes players from Saint Lucia and plays in the West Indies regional tournament. Daren Sammy became the first Saint Lucian to represent the West Indies on his debut in 2007, and since 2010 has captained the side.[69] In an international career spanning 2003 to 2008, and including 41 ODIs and one Test, Nadine George MBE became the first woman to score a Test century for the team.[70] Sammy and George were recognised by the Saint Lucian government as Sportsman of the Year and Sportswoman of the Year respectively for 2004.[71]
+which hosts international cricket matches for the West Indies.]] The Windward Islands cricket team includes players from Saint Lucia and plays in the West Indies regional tournament. Daren Sammy became the first Saint Lucian to represent the West Indies on his debut in 2007, and since 2010 has captained the side.[69] In an international career spanning 2003 to 2008, and including 41 ODIs and one Test, Nadine George MBE became the first woman to score a Test century for the team.[70] Sammy and George were recognised by the Saint Lucian government as Sportsman of the Year and Sportswoman of the Year respectively for 2004.[71]
 
 For sailing enthusiasts, the annual Atlantic Rally for Cruisers (ARC) race begins in the Canary Islands and ends in Saint Lucia. The year 2015 marked the ARC's 30th year of existence. Every November, the race attracts over 200 boats and 1,200 people to sail across the Atlantic to the Caribbean.
 

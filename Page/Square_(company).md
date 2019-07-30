@@ -36,11 +36,9 @@ ESCAPE, INC. was established in 1998. They developed the racing game _Driving Em
 
 SQUARE VISUAL WORKS (CG studio), Square Sounds (sound studio), Squartz (quality assurance) and Square Next were all founded in June 1999. All were subsequently absorbed into Square Co., Ltd. in 2001 and 2002. Once Square merged with Enix, Square Visual Works was renamed Visual Works and produces CG animations for Square Enix and Eidos Interactive intellectual properties.
 
-Quest_Corporation.png QUEST CORPORATION was an independent software development studio established in July 1988, best known for the _Ogre Battle_ series. Several team members, including Yasumi Matsuno, Hiroshi Minagawa and Akihiko Yoshida, left Quest in 1997 to join Square, where they worked on several titles for the Sony PlayStation, including _Final Fantasy Tactics_ and _Vagrant Story_. In June 2002, Quest was acquired by Square.[25]
+QUEST CORPORATION was an independent software development studio established in July 1988, best known for the _Ogre Battle_ series. Several team members, including Yasumi Matsuno, Hiroshi Minagawa and Akihiko Yoshida, left Quest in 1997 to join Square, where they worked on several titles for the Sony PlayStation, including _Final Fantasy Tactics_ and _Vagrant Story_. In June 2002, Quest was acquired by Square.[25]
 
 Abroad
-
-Square_Soft_logo.png
 
 Square Soft
 

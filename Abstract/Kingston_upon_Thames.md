@@ -1,1 +1,0 @@
-KINGSTON UPON THAMES , frequently known as KINGSTON, is an area of southwest London, England, southwest of Charing Cross. It is the administrative centre of the Royal Borough of Kingston upon Thames, and identified as a major metropolitan centre in the London Plan.

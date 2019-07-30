@@ -1,1 +1,0 @@
-The COUNTY OF PIACENZA was a county (Latin _comitatus_) of the Frankish kingdom of Italy. Its centre was the ancient and walled city of Piacenza (Latin _Placentia_) at the confluence of the Trebbia and the Po, just downriver from the royal capital of Pavia. Much of the county was dominated by the Apennine Mountains. It roughly corresponds to the modern province of Piacenza.

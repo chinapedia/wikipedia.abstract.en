@@ -1,1 +1,0 @@
-ROBERT SIODMAK (; 8 August 1900 – 10 March 1973) was a German film director who also worked in the United States. He is best remembered as a thriller specialist[1] and for a series of stylish, unpretentious Hollywood films noirs he made in the 1940s, such as _The Killers_ (1946).

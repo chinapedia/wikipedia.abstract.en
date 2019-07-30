@@ -1,1 +1,0 @@
-"THE LOVE GAME" is a song by Australian pop singer John Paul Young, released in September 1975 as the second single from his debut studio album, _Hero_ (1975). The song peaked at number 4 on the Australian Kent Music Report.[1]

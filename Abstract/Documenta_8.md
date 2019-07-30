@@ -1,1 +1,0 @@
-Foto_Ticket_documenta_8.jpg Nam_June_Paik_d8_1997.jpg DOCUMENTA 8 was the eighth edition of documenta, a quinquennial contemporary art exhibition. It was held between 12 June and 20 September 1987 in Kassel, Germany. The artistic director was Manfred Schneckenburger.[1]

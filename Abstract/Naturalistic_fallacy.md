@@ -1,1 +1,0 @@
-In philosophical ethics, the term NATURALISTIC FALLACY was introduced by British philosopher G. E. Moore in his 1903 book _Principia Ethica_.[1] Moore argues it would be fallacious to explain that which is good reductively, in terms of natural properties such as _pleasant_ or _desirable_.

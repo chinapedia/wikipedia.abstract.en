@@ -1,1 +1,0 @@
-US_Nuclear_Power_Plant_Status_9-2013.PNG Nuclear_power_plants_locations.png of the top 10 states.]] Power_plants_map.png This article lists the LARGEST NUCLEAR POWER STATIONS IN THE UNITED STATES, in terms of Nameplate capacity.

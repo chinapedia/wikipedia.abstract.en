@@ -1,1 +1,0 @@
-Saeeda_Mahmood.jpgSAEEDA MAHMOOD is an Afghan broadcast journalist who worked for BBC World Service, Pashto Section for more than 25 years. Saeeda was born in Kandahar and brought up in the Helmand Province of Afghanistan.

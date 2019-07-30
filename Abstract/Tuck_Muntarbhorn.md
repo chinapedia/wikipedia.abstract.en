@@ -1,1 +1,0 @@
-TUCK MUNTARBHORN (Thai: ทัก มันตาภรณ์; born January 1994 in Bangkok, Thailand) is a Thai artist, curator, contemporary art collector[1] and entrepreneur based in London and Bangkok.[2] Muntarbhorn is Thailand’s first contemporary art collector to produce and curate an art exhibition in the UK.[3]

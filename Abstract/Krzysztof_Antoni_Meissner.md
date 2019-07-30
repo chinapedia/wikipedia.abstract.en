@@ -1,1 +1,0 @@
-KRZYSZTOF ANTONI MEISSNER (born 1 September 1961 in Warsaw, Poland) is a Polish theoretical physicist, specializing in elementary particles theory, and a professor of physics at the University of Warsaw, Faculty of Physics, Institute of Theoretical Physics.[1]

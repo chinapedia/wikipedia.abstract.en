@@ -1,1 +1,0 @@
-ARA (Latin: "The Altar") is a southern constellation situated between Scorpius and Triangulum Australe. Ara (Greek: Βωμός) was one of the 48 Greek constellations described by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations defined by the International Astronomical Union.

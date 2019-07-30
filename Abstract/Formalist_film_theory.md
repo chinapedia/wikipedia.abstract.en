@@ -1,1 +1,0 @@
-FORMALIST FILM THEORY is a theory of film study that is focused on the formal, or technical, elements of a film: i.e., the lighting, scoring, sound and set design, use of color, shot composition, and editing. This approach was proposed by Hugo Münsterberg, Rudolf Arnheim, Sergei Eisenstein, and Béla Balázs.[1] Today, it is a major theory of film study.

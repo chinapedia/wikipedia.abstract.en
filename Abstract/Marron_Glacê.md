@@ -1,1 +1,0 @@
-_MARRON GLACÊ_ is a Brazilian telenovela produced and broadcast by Rede Globo. It premiered on 6 August 1979 and ended on 29 February 1980, with a total of 181 episodes. It's the twenty fourth "novela das sete" to be aired at the timeslot. It is created by Cassiano Gabus Mendes.[1][2]

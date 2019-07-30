@@ -1,1 +1,0 @@
-_BRIGITTE BARDOT SINGS_ is the debut album of French singer and actress Brigitte Bardot and was released in 1963. The album includes the song "L'Appareil À Sous", which was written by Serge Gainsbourg.

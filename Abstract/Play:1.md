@@ -1,1 +1,0 @@
-The PLAY:1 (branded as the PLAY:1) is a smart speaker developed by Sonos, announced and released on October 14, 2013, as the fourth and least expensive product in the Play line of speakers. It is one of the compatible speakers that can also link in SonosNet, a mesh network that can interlink speakers to play media for one, some or all speakers regardless of location.

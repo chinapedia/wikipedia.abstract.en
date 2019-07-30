@@ -1,1 +1,0 @@
-The DISTRICT SIX SCHOOLHOUSE is a historic school building on Elmendorf Road in Shoreham, Vermont. Built about 1833 and now converted into a residence, this modest stone structure is one of Vermont's oldest surviving district schoolhouses. It was listed on the National Register of Historic Places in 1977.[1]

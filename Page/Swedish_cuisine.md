@@ -1,4 +1,4 @@
-koettbullar_stockholm2006.jpgs with cream sauce, mashed potatoes, pickled cucumber, and lingonberry jam]]
+s with cream sauce, mashed potatoes, pickled cucumber, and lingonberry jam]]
 
 SWEDISH CUISINE is the traditional food of the people of Sweden. Due to Sweden's large North–South expanse, there are regional differences between the cuisine of North and South Sweden.[1]
 
@@ -9,22 +9,22 @@ Swedes have traditionally been very open to foreign influences, ranging from Fre
 
 General features
 
-Privat_julbord.JPG_, or Christmas table.]] Swedish cuisine could be described as centered around cultured dairy products, crisp and soft (often sugared) breads, berries and stone fruits, beef, chicken, lamb, pork, eggs, and seafood. Potatoes are often served as a side dish, often boiled. Swedish cuisine has a huge variety of breads of different shapes and sizes, made of rye, wheat, oat, white, dark, sourdough, and whole grain, and including flatbreads and crispbreads. There are many sweetened bread types and some use spices. Many meat dishes, especially meatballs, are served with lingonberry jam. Fruit soups with high viscosity, like rose hip soup and blueberry soup (_blåbärssoppa'') served hot or cold, are typical of Swedish cuisine. Butter and margarine are the primary fat sources, although olive oil is becoming more popular. Sweden's pastry tradition features a variety of yeast buns, cookies, biscuits and cakes; many of them are in a very sugary style and often eaten with coffee (_fika_).[2]
+_, or Christmas table.]] Swedish cuisine could be described as centered around cultured dairy products, crisp and soft (often sugared) breads, berries and stone fruits, beef, chicken, lamb, pork, eggs, and seafood. Potatoes are often served as a side dish, often boiled. Swedish cuisine has a huge variety of breads of different shapes and sizes, made of rye, wheat, oat, white, dark, sourdough, and whole grain, and including flatbreads and crispbreads. There are many sweetened bread types and some use spices. Many meat dishes, especially meatballs, are served with lingonberry jam. Fruit soups with high viscosity, like rose hip soup and blueberry soup (_blåbärssoppa'') served hot or cold, are typical of Swedish cuisine. Butter and margarine are the primary fat sources, although olive oil is becoming more popular. Sweden's pastry tradition features a variety of yeast buns, cookies, biscuits and cakes; many of them are in a very sugary style and often eaten with coffee (_fika_).[2]
 
 
 History
 
-Cajsa_Wargs_middagsbord_1.jpg (1703-1769), the most prolific Swedish cookbook author of the late 18th and early 19th centuries.]] Heap_of_pancakes_in_Sweden.JPG]] Midsummer_pickled_herring.jpg, sour cream and chopped chives, potatoes and an egg half served at midsummer.]]
+(1703-1769), the most prolific Swedish cookbook author of the late 18th and early 19th centuries.]] ]] , sour cream and chopped chives, potatoes and an egg half served at midsummer.]]
 
 The importance of fish has governed Swedish population and trade patterns far back in history. For preservation, fish were salted and cured. Salt became a major trade item at the dawn of the Scandinavian middle ages, which began circa 1000 AD. Cabbage preserved as sauerkraut and various kinds of preserved berries, apples, etc. were used once as a source of vitamin C during the winter (today sauerkraut is very seldom used in Swedish cuisine). Lingonberry jam, still a favourite, may be the most traditional and typical Swedish way to add freshness to sometimes rather heavy food, such as steaks and stews.
 
 Sweden's long winters explain the lack of fresh vegetables in many traditional recipes. In older times, plants that would sustain the population through the winters were cornerstones; various turnips such as the _kålrot_ (rutabaga) (aptly named 'swede' in British English) were gradually supplanted or complemented by the potato in the 18th century. A lack of distinct spices made everyday food rather bland by today's standards, although a number of local herbs and plants have been used since ancient times. This tradition is still present in today's Swedish dishes, which are still rather sparingly spiced.
 
-Both before and after this period, some new Germanic dishes were also brought in by immigrants, such as people related to the Hanseatic League, settling in Stockholm, Visby, and Kalmar. Swedish traders and aristocrats naturally also picked up some food traditions in foreign countries; cabbage rolls (_kåldolmar_) being one example. Cabbage rolls were introduced in Sweden by Karl XII who came in contact with this dish at the time of the Battle of Poltava and during his camp in the Turkish Bender and later introduced by his Ottoman creditors, who moved to Stockholm in 1716. An early version of _kåldolmar_ was first published in 1765 in the fourth edition of _Hjelpreda i Hushållningen för Unga Fruentimber_ by Cajsa Warg, though it was closer to the Turkish _dolma_ than later dishes. Surströmmingstallrik.JPG, fermented herring served with boiled potatoes and salad]]
+Both before and after this period, some new Germanic dishes were also brought in by immigrants, such as people related to the Hanseatic League, settling in Stockholm, Visby, and Kalmar. Swedish traders and aristocrats naturally also picked up some food traditions in foreign countries; cabbage rolls (_kåldolmar_) being one example. Cabbage rolls were introduced in Sweden by Karl XII who came in contact with this dish at the time of the Battle of Poltava and during his camp in the Turkish Bender and later introduced by his Ottoman creditors, who moved to Stockholm in 1716. An early version of _kåldolmar_ was first published in 1765 in the fourth edition of _Hjelpreda i Hushållningen för Unga Fruentimber_ by Cajsa Warg, though it was closer to the Turkish _dolma_ than later dishes. , fermented herring served with boiled potatoes and salad]]
 
 Husmanskost
 
-Gravlax_on_crackers_with_pepper_and_lemon.jpg'' on crisp bread with pepper and lemon]] Pitepalt.jpg dumpling]] Swedish _husmanskost_ denotes traditional Swedish dishes with local ingredients, the classical everyday Swedish cuisine. The word _husmanskost_ stems from _husman_, meaning 'house owner' (without associated land), and the term was originally used for most kinds of simple countryside food outside of towns. Genuine Swedish _husmanskost_ used predominantly local ingredients such as pork in all forms, fish, cereals, milk, potato, root vegetables, cabbage, onions, apples, berries etc.; beef and lamb were used more sparingly. Beside berries, apples are the most used traditional fruit, eaten fresh or served as apple pie, apple sauce, or apple cake. Time-consuming cooking methods such as _redningar_ (roux) and _långkok_ (literally 'long boil') are commonly employed and spices are sparingly used. Examples of Swedish husmanskost are pea soup (_ärtsoppa_), boiled and mashed carrots, potato and rutabaga served with pork (_rotmos med fläsk_), many varieties of salmon (such as _gravlax_, _inkokt lax_, fried, pickled), varieties of herring (most commonly pickled, but also fried, _au gratin_, etc.), fishballs (_fiskbullar_), meatballs (_köttbullar_), potato dumplings with meat or other ingredients (_palt_), potato pancake (_raggmunk_), varieties of porridge (_gröt_), a fried mix of pieces of potato, different kind of meats, sausages, bacon and onion (_pytt i panna_), meat stew with onion (_kalops_), and potato dumplings with a filling of onions and pork (_kroppkakor_). Many of the dishes would be considered comfort food for the nostalgic value.
+'' on crisp bread with pepper and lemon]] dumpling]] Swedish _husmanskost_ denotes traditional Swedish dishes with local ingredients, the classical everyday Swedish cuisine. The word _husmanskost_ stems from _husman_, meaning 'house owner' (without associated land), and the term was originally used for most kinds of simple countryside food outside of towns. Genuine Swedish _husmanskost_ used predominantly local ingredients such as pork in all forms, fish, cereals, milk, potato, root vegetables, cabbage, onions, apples, berries etc.; beef and lamb were used more sparingly. Beside berries, apples are the most used traditional fruit, eaten fresh or served as apple pie, apple sauce, or apple cake. Time-consuming cooking methods such as _redningar_ (roux) and _långkok_ (literally 'long boil') are commonly employed and spices are sparingly used. Examples of Swedish husmanskost are pea soup (_ärtsoppa_), boiled and mashed carrots, potato and rutabaga served with pork (_rotmos med fläsk_), many varieties of salmon (such as _gravlax_, _inkokt lax_, fried, pickled), varieties of herring (most commonly pickled, but also fried, _au gratin_, etc.), fishballs (_fiskbullar_), meatballs (_köttbullar_), potato dumplings with meat or other ingredients (_palt_), potato pancake (_raggmunk_), varieties of porridge (_gröt_), a fried mix of pieces of potato, different kind of meats, sausages, bacon and onion (_pytt i panna_), meat stew with onion (_kalops_), and potato dumplings with a filling of onions and pork (_kroppkakor_). Many of the dishes would be considered comfort food for the nostalgic value.
 
 Dishes akin to Swedish _husmanskost_ and food traditions are found also in other Scandinavian countries; details may vary. Sweden is part of the vodka belt and historically distilled beverages, such as _brännvin_ and snaps, have been a traditional daily complement to food. Consumption of wine in Sweden has increased during the last fifty years, partly at the expense of beer and stronger alcoholic beverages. In many countries, locally produced wines are combined with local _husmanskost_.
 
@@ -33,7 +33,7 @@ _Husmanskost_ has undergone a renaissance during the last decades as well known 
 
 Dishes
 
-Pytt_i_panna_(13782629654).jpg Swedish traditional dishes, some of which are many hundreds of years old, others perhaps a century or less, are still a very important part of Swedish everyday meals, in spite of the fact that modern day Swedish cuisine adopts many international dishes.
+Swedish traditional dishes, some of which are many hundreds of years old, others perhaps a century or less, are still a very important part of Swedish everyday meals, in spite of the fact that modern day Swedish cuisine adopts many international dishes.
 
 Internationally, the most renowned Swedish culinary tradition is the _smörgåsbord_ and, at Christmas, the _julbord_, including well known Swedish dishes such as _gravlax_ and meatballs. In Sweden, traditionally, Thursday has been _soup day_ because the maids had half the day off and soup was easy to prepare in advance. One of the most traditional Swedish soups, _ärtsoppa_ is still served in many restaurants and households every Thursday,[3] a tradition since the middle ages. _Ärtsoppa_ is a yellow pea soup, commonly served with pancakes as dessert. This is a simple meal, a very thick soup, basically consisting of boiled yellow peas, a little onion, salt and small pieces of pork. It is often served with mustard and followed by a dessert of thin pancakes (see _pannkakor_). The Swedish Armed Forces also serve their conscripts pea soup and pancakes every Thursday.
 
@@ -47,17 +47,17 @@ Some Swedish dishes are:
 
 Meals
 
-Egg_sandwich.jpg Meals consists of breakfast in the early morning (_frukost_), a light lunch before noon (_lunch_), and a heavy dinner (_middag_) around six or seven in the evening. It is also common to have a snack, often a sandwich or fruit, in between meals (_mellanmål_). Most Swedes also have a coffee break in the afternoon, often together with a pastry (_fika_). In all primary schools, and most, but not all secondary schools, a hot meal is served at lunch as part of Sweden's welfare state. According to the Swedish school law, this meal has to be nutrient dense.[4]
+Meals consists of breakfast in the early morning (_frukost_), a light lunch before noon (_lunch_), and a heavy dinner (_middag_) around six or seven in the evening. It is also common to have a snack, often a sandwich or fruit, in between meals (_mellanmål_). Most Swedes also have a coffee break in the afternoon, often together with a pastry (_fika_). In all primary schools, and most, but not all secondary schools, a hot meal is served at lunch as part of Sweden's welfare state. According to the Swedish school law, this meal has to be nutrient dense.[4]
 
 Breakfast
 
-Breakfast usually consists of open sandwiches (_smörgås_), possibly on crisp bread (_knäckebröd_). The sandwich is most often buttered, with toppings such as hard cheese, cold cuts, caviar, _messmör_ (a sweet spread made from butter and whey), ham (_skinka_), and tomatoes or cucumber.[5] _Filmjölk_ (fermented milk), or sometimes yogurt, is also traditional breakfast food, usually served in a bowl with cereals such as corn flakes, muesli, or _knäckebröd_, and sometimes with sugar, fruit or jam. Porridge is sometimes eaten at breakfast, made of rolled oats eaten with milk and jam or cinnamon with sugar.[6] Common drinks for breakfast are milk, juice, tea, or coffee. Swedes are among the most avid milk and coffee drinkers in the world. Knaeckebroed.jpg.]] Swedes sometimes have sweet toppings on their breads, such as jam (like the French and Americans), or chocolate (like the Danes), although many older Swedes chose not to use these sweet toppings. However, orange marmalade on white bread is common, usually with morning coffee or tea.
+Breakfast usually consists of open sandwiches (_smörgås_), possibly on crisp bread (_knäckebröd_). The sandwich is most often buttered, with toppings such as hard cheese, cold cuts, caviar, _messmör_ (a sweet spread made from butter and whey), ham (_skinka_), and tomatoes or cucumber.[5] _Filmjölk_ (fermented milk), or sometimes yogurt, is also traditional breakfast food, usually served in a bowl with cereals such as corn flakes, muesli, or _knäckebröd_, and sometimes with sugar, fruit or jam. Porridge is sometimes eaten at breakfast, made of rolled oats eaten with milk and jam or cinnamon with sugar.[6] Common drinks for breakfast are milk, juice, tea, or coffee. Swedes are among the most avid milk and coffee drinkers in the world. .]] Swedes sometimes have sweet toppings on their breads, such as jam (like the French and Americans), or chocolate (like the Danes), although many older Swedes chose not to use these sweet toppings. However, orange marmalade on white bread is common, usually with morning coffee or tea.
 
 Many traditional kinds of Swedish bread, such as _sirapslimpa_ (less fashionable today, but still very popular) are somewhat sweetened in themselves, baked with small amounts of syrup.[7] Like in many other European countries, there are also lots of non-sweetened breads, often made with sourdough (_surdeg_). Swedish breads may be made from wholegrain, fine grain, or anything in between, and there are white, brown, and really dark (like in Finland) varieties which are all common. _Barkis_ or _bergis_ is a localised version of _challah_ usually made without eggs and at first only available in Stockholm and Göteborg where Jews first settled but now available elsewhere.
 
 Main courses
 
-Julskinka.JPG in modern Sweden]] Smorgatarta.JPG Swedish_cuisine-Midnight_supper.jpg'' (sausage), mashed potato, pickled beets and sauerkraut]] Kräftskiva-2.jpg called _kräftskiva_]] Chanterelle_Cantharellus_cibarius.jpgs often grow near birch trees]] Blodpudding-2.jpg from Sweden]] Stor_räksmörgås_på_Mössebergsgården_2591.jpg
+in modern Sweden]] '' (sausage), mashed potato, pickled beets and sauerkraut]] called _kräftskiva_]] s often grow near birch trees]] from Sweden]]
 
   Swedish                              English                                                                                                                                                                                                                                                                                                                                                                          Definition
   ------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -113,7 +113,7 @@ A limited range of fish and other seafood is an important part of the Swedish cu
 
 Desserts
 
-Risalamande.jpg Spettekaka_cake._Taken_at_70th_birthday_party_in_Osby,_Sweden.jpg Common desserts include:
+Common desserts include:
 
   Swedish                      English                                                                                                                                                                                                                                                                             Definition
   ---------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -131,7 +131,7 @@ Risalamande.jpg Spettekaka_cake._Taken_at_70th_birthday_party_in_Osby,_Sweden.jp
 
 Pastries and treats
 
-In recent years, American brownies, cookies, and cupcakes have become popular in Swedish cafés and restaurants. Kanelbulle.jpg Princessbakelse_BÅn.JPG Budapestbakelse_BÅn.JPG Napoleonbakelse.jpg
+In recent years, American brownies, cookies, and cupcakes have become popular in Swedish cafés and restaurants.
 
 Kaffebröd (coffee bread)
 
@@ -155,7 +155,7 @@ _Bakelser_ and other types of _kaffebröd_ (or more colloquially _fikabröd_) ar
 
 Treats
 
-Saffron_bun_20051213_001.jpg Pepparkakshus.JPG]] Saffranspannkaka.jpg'', rice cake with saffron, a dessert from Gotland]] In the summer, various seasonal fruit cakes are common. Strawberry and cream cake is highly regarded. Strawberries are also often eaten on their own with sugar and milk or cream. In the late summer and autumn, apple cakes and pies are baked. The apple cake is often served with vanilla custard, but sometimes with ice cream or whipped cream.
+]] '', rice cake with saffron, a dessert from Gotland]] In the summer, various seasonal fruit cakes are common. Strawberry and cream cake is highly regarded. Strawberries are also often eaten on their own with sugar and milk or cream. In the late summer and autumn, apple cakes and pies are baked. The apple cake is often served with vanilla custard, but sometimes with ice cream or whipped cream.
 
 During the winter holidays, traditional candy and pastries include:
 
@@ -169,8 +169,6 @@ During the winter holidays, traditional candy and pastries include:
   Semla        With the new year, the _fastlagsbulle_ (Lenten bun), or _semla_, is baked. It is a wheat bun with a cream and almond paste filling, traditionally eaten on Shrove Tuesday.[13]
 
 Candy
-
-Salt.sill.jpeg
 
 Other typical Swedish candy includes:
 
@@ -190,8 +188,6 @@ Sweden is second placed among the heaviest coffee drinking countries in the worl
 
 Christmas beverages
 
-Glass_of_Swedish_must.jpg
-
   Drink   Definition
   ------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Mumma   A traditional Christmas beverage.[15] Usually a mix of porter or another dark beer, some light beer (pilsner), port wine (or some other wine), and something sweet (_sockerdricka_ or _julmust_); commonly spiced with cardamom.[16]
@@ -199,7 +195,7 @@ Glass_of_Swedish_must.jpg
 
 Sweet drinks
 
-Blåbärssoppa.jpg'') topped with cereals]]
+'') topped with cereals]]
 
   Swedish        English                                                                                                     Definition
   -------------- ----------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------
@@ -216,11 +212,11 @@ Blåbärssoppa.jpg'') topped with cereals]]
 
 Fruit soups
 
-Nyponsoppa.jpg]] Fruit soups, especially rose hip soup and bilberry soup, are eaten or drunk, usually hot during the winter.
+]] Fruit soups, especially rose hip soup and bilberry soup, are eaten or drunk, usually hot during the winter.
 
 Liquor
 
-Caloric_punsch_advertistement_circa_1885.jpg More_Absolut_vodka.jpg The most important of stronger beverages in the Swedish cuisine is _Brännvin_, which is a general term that includes mainly two kinds of beverages: _akvavit_ and vodka. When consumed traditionally it is often served as a _snaps_, but vodka is also popularly consumed as a drink ingredient. Renat is often considered to be the national vodka of Sweden, but other highly popular brands are Explorer Vodka and Absolut Vodka, the latter being one of the world's best-known liquor brands. Most forms of _brännvin_ have around 40% alcohol.
+The most important of stronger beverages in the Swedish cuisine is _Brännvin_, which is a general term that includes mainly two kinds of beverages: _akvavit_ and vodka. When consumed traditionally it is often served as a _snaps_, but vodka is also popularly consumed as a drink ingredient. Renat is often considered to be the national vodka of Sweden, but other highly popular brands are Explorer Vodka and Absolut Vodka, the latter being one of the world's best-known liquor brands. Most forms of _brännvin_ have around 40% alcohol.
 
 The production of hard liquor has a tradition dating back to the 18th century and was at a high in the 1840s. Since the 1880s, the state-owned Systembolaget has a monopoly on selling spirits with more than 3.5% ABV, limiting access. _Hembränt_ (moonshine) used to be made in rural Sweden, but production has lessened in recent years due to more liberal rules for the import of alcohol as well as increased smuggling.
 

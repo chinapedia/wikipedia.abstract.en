@@ -1,1 +1,0 @@
-The I. M. PEI BUILDING, also known as the WILMINGTON TOWER, is a high-rise office building in Wilmington, Delaware. It is the third tallest building in Delaware, and the only building in the state designed by noted architect I. M. Pei.[1] The building was completed in 1971 and is tall, with 23 floors.[2][3]

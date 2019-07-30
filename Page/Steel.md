@@ -1,4 +1,4 @@
-Steel_wire_rope.JPG of a colliery winding tower]] STEEL is an alloy of iron and carbon, and sometimes other elements. Because of its high tensile strength and low cost, it is a major component used in buildings, infrastructure, tools, ships, automobiles, machines, appliances, and weapons.
+of a colliery winding tower]] STEEL is an alloy of iron and carbon, and sometimes other elements. Because of its high tensile strength and low cost, it is a major component used in buildings, infrastructure, tools, ships, automobiles, machines, appliances, and weapons.
 
 Iron is the base metal of steel. Iron is able to take on two crystalline forms (allotropic forms), body centered cubic and face centered cubic, depending on its temperature. In the body-centered cubic arrangement, there is an iron atom in the center and eight atoms at the vertices of each cubic unit cell; in the face-centered cubic, there is one atom at the center of each of the six faces of the cubic unit cell and eight atoms at its vertices. It is the interaction of the allotropes of iron with the alloying elements, primarily carbon, that gives steel and cast iron their range of unique properties.
 
@@ -22,7 +22,7 @@ Plain carbon-iron alloys with a higher than 2.1% carbon content are known as cas
 
 Material properties
 
-Iron_carbon_phase_diagram.svg, showing the conditions necessary to form different phases]]
+, showing the conditions necessary to form different phases]]
 
 Iron is commonly found in the Earth's crust in the form of an ore, usually an iron oxide, such as magnetite or hematite. Iron is extracted from iron ore by removing the oxygen through its combination with a preferred chemical partner such as carbon which is then lost to the atmosphere as carbon dioxide. This process, known as smelting, was first applied to metals with lower melting points, such as tin, which melts at about , and copper, which melts at about , and the combination, bronze, which has a melting point lower than . In comparison, cast iron melts at about .[5] Small quantities of iron were smelted in ancient times, in the solid state, by heating the ore in a charcoal fire and then welding the clumps together with a hammer and in the process squeezing out the impurities. With care, the carbon content could be controlled by moving it around in the fire. Unlike copper and tin, liquid or solid iron dissolves carbon quite readily.
 
@@ -59,14 +59,14 @@ Quenching involves heating the steel to create the austenite phase then quenchin
 
 Steel production
 
-LightningVolt_Iron_Ore_Pellets.jpg pellets for the production of steel]] When iron is smelted from its ore, it contains more carbon than is desirable. To become steel, it must be reprocessed to reduce the carbon to the correct amount, at which point other elements can be added. In the past, steel facilities would cast the raw steel product into ingots which would be stored until use in further refinement processes that resulted in the finished product. In modern facilities, the initial product is close to the final composition and is continuously cast into long slabs, cut and shaped into bars and extrusions and heat treated to produce a final product. Today only a small fraction is cast into ingots. Approximately 96% of steel is continuously cast, while only 4% is produced as ingots.[17]
+pellets for the production of steel]] When iron is smelted from its ore, it contains more carbon than is desirable. To become steel, it must be reprocessed to reduce the carbon to the correct amount, at which point other elements can be added. In the past, steel facilities would cast the raw steel product into ingots which would be stored until use in further refinement processes that resulted in the finished product. In modern facilities, the initial product is close to the final composition and is continuously cast into long slabs, cut and shaped into bars and extrusions and heat treated to produce a final product. Today only a small fraction is cast into ingots. Approximately 96% of steel is continuously cast, while only 4% is produced as ingots.[17]
 
 The ingots are then heated in a soaking pit and hot rolled into slabs, billets, or blooms. Slabs are hot or cold rolled into sheet metal or plates. Billets are hot or cold rolled into bars, rods, and wire. Blooms are hot or cold rolled into structural steel, such as I-beams and rails. In modern steel mills these processes often occur in one assembly line, with ore coming in and finished steel products coming out.[18] Sometimes after a steel's final rolling, it is heat treated for strength; however, this is relatively rare.[19]
 
 
 History of steelmaking
 
-Bas_fourneau.png smelting during the Middle Ages]]
+smelting during the Middle Ages]]
 
 Ancient steel
 
@@ -88,7 +88,7 @@ Crucible steel, formed by slowly heating and cooling pure iron and carbon (typic
 
 Modern steelmaking
 
-Bessemer_Converter_Sheffield.jpg, England]] Since the 17th century, the first step in European steel production has been the smelting of iron ore into pig iron in a blast furnace.[51] Originally employing charcoal, modern methods use coke, which has proven more economical.[52][53][54]
+, England]] Since the 17th century, the first step in European steel production has been the smelting of iron ore into pig iron in a blast furnace.[51] Originally employing charcoal, modern methods use coke, which has proven more economical.[52][53][54]
 
 Processes starting from bar iron
 
@@ -102,7 +102,7 @@ Crucible steel is steel that has been melted in a crucible rather than having be
 
 Processes starting from pig iron
 
-Siemens_Martin_Ofen_Brandenburg.jpg Museum of Industry.]] Allegheny_Ludlum_steel_furnace.jpg
+Museum of Industry.]]
 
 The modern era in steelmaking began with the introduction of Henry Bessemer's Bessemer process in 1855, the raw material for which was pig iron.[61] His method let him produce steel in large quantities cheaply, thus mild steel came to be used for most purposes for which wrought iron was formerly used.[62] The Gilchrist-Thomas process (or _basic Bessemer process_) was an improvement to the Bessemer process, made by lining the converter with a basic material to remove phosphorus.
 
@@ -113,7 +113,7 @@ These methods of steel production were rendered obsolete by the Linz-Donawitz pr
 
 Steel industry
 
-Steel_production_by_country_map.PNG The steel industry is often considered an indicator of economic progress, because of the critical role played by steel in infrastructural and overall economic development.[66] In 1980, there were more than 500,000 U.S. steelworkers. By 2000, the number of steelworkers fell to 224,000.[67]
+The steel industry is often considered an indicator of economic progress, because of the critical role played by steel in infrastructural and overall economic development.[66] In 1980, there were more than 500,000 U.S. steelworkers. By 2000, the number of steelworkers fell to 224,000.[67]
 
 The economic boom in China and India caused a massive increase in the demand for steel. Between 2000 and 2005, world steel demand increased by 6%. Since 2000, several Indian[68] and Chinese steel firms have risen to prominence, such as Tata Steel (which bought Corus Group in 2007), Baosteel Group and Shagang Group. As of 2017, though, ArcelorMittal is the world's largest steel producer.[69] In 2005, the British Geological Survey stated China was the top steel producer with about one-third of the world share; Japan, Russia, and the US followed respectively.[70]
 
@@ -129,7 +129,7 @@ As more steel is produced than is scrapped, the amount of recycled raw materials
 
 Contemporary steel
 
-Bethlehem_Steel.jpg (Bethlehem, Pennsylvania facility pictured) was one of the world's largest manufacturers of steel before its closure in 2003]]
+(Bethlehem, Pennsylvania facility pictured) was one of the world's largest manufacturers of steel before its closure in 2003]]
 
 Carbon steels
 
@@ -154,21 +154,19 @@ Most of the more commonly used steel alloys are categorized into various grades 
 
 Uses
 
-Steel-wool.jpg
-
 Iron and steel are used widely in the construction of roads, railways, other infrastructure, appliances, and buildings. Most large modern structures, such as stadiums and skyscrapers, bridges, and airports, are supported by a steel skeleton. Even those with a concrete structure employ steel for reinforcing. In addition, it sees widespread use in major appliances and cars. Despite growth in usage of aluminium, it is still the main material for car bodies. Steel is used in a variety of other construction materials, such as bolts, nails, and screws and other household products and cooking utensils.[90]
 
 Other common applications include shipbuilding, pipelines, mining, offshore construction, aerospace, white goods (e.g. washing machines), heavy equipment such as bulldozers, office furniture, steel wool, tools, and armour in the form of personal vests or vehicle armour (better known as rolled homogeneous armour in this role).
 
 Historical
 
-Carbon_steel_knife.jpg Before the introduction of the Bessemer process and other modern production techniques, steel was expensive and was only used where no cheaper alternative existed, particularly for the cutting edge of knives, razors, swords, and other items where a hard, sharp edge was needed. It was also used for springs, including those used in clocks and watches.[91]
+Before the introduction of the Bessemer process and other modern production techniques, steel was expensive and was only used where no cheaper alternative existed, particularly for the cutting edge of knives, razors, swords, and other items where a hard, sharp edge was needed. It was also used for springs, including those used in clocks and watches.[91]
 
 With the advent of speedier and thriftier production methods, steel has become easier to obtain and much cheaper. It has replaced wrought iron for a multitude of purposes. However, the availability of plastics in the latter part of the 20th century allowed these materials to replace steel in some applications due to their lower fabrication cost and weight.[92] Carbon fiber is replacing steel in some cost insensitive applications such as sports equipment and high end automobiles.
 
 Long steel
 
-The_viaduct_La_Polvorilla,_Salta_Argentina.jpg Steel_tower.jpgs]]
+s]]
 
 -   As reinforcing bars and mesh in reinforced concrete
 -   Railroad tracks
@@ -191,7 +189,7 @@ Weathering steel (COR-TEN)
 
 Stainless steel
 
-Sauce_boat.jpg]]
+]]
 
 -   Cutlery
 -   Rulers

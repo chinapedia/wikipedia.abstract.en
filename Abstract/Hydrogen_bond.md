@@ -1,1 +1,0 @@
-3D_model_hydrogen_bonds_in_water.svg]] NTCDI_AFM2a.jpg image of napthalenetetracarboxylic diimide molecules on silver-terminated silicon, interacting via hydrogen bonding, taken at 77  K.[1] ("Hydrogen bonds" in the top image are exaggerated by artifacts of the imaging technique.[2][3])]]

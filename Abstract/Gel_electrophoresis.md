@@ -1,1 +1,0 @@
-DNAgel4wiki.png

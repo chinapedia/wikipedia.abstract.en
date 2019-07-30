@@ -1,1 +1,0 @@
-VIRGINIA BROOKS (January 11, 1886 – June 15, 1929) was a suffragette and political reformer who worked in the Chicago region and throughout Indiana in the early 1900s. She was born to parents who moved from Ohio to Chicago. Brooks penned two books, _Little Lost Sister_ (1914) and _My Battles with Vice_ (1915).[1][2]

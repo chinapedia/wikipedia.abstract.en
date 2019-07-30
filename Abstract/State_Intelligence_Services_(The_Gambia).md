@@ -1,1 +1,0 @@
-State Intelligence Service}} The STATE INTELLIGENCE SERVICES (SIS), formerly the NATIONAL INTELLIGENCE AGENCY (NIA), is the intelligence agency of the Gambia. It was founded following the 1994 military coup d'état by the Armed Forces Provisional Ruling Council (APRFC), which was led by Yahya Jammeh.[1] Its current head is Ousman Sowe.[2]

@@ -1,1 +1,0 @@
-The OLYMPIC COMMITTEE OF CATALONIA (Catalan: _Comitè Olímpic de Catalunya_, abbreviated COC) is a currently unrecognized National Olympic Committee who tried to organize the direct representation of Catalonia in the Olympic Games and other sporting events related to it. Nowadays, the COC continues to defend its official recognition by the International Olympic Committee (IOC).

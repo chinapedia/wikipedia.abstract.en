@@ -1,1 +1,0 @@
-KRISHNAPADA GHOSH (1914–1987) was an Indian politician and trade unionist. He served as West Bengal Minister of Labour 1969–1970 and 1977–1985. He was a Central Committee member of the Communist Party of India (Marxist).[1] He was also a member of the Working Committee of the Centre for Indian Trade Unions.[2]

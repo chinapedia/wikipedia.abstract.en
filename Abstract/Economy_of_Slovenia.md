@@ -1,1 +1,0 @@
-Slo_world_GNI_percapita.PNG:

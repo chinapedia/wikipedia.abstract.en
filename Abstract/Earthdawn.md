@@ -1,1 +1,0 @@
-earthdawngmc.jpg

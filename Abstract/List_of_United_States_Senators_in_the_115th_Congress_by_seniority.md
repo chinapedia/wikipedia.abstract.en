@@ -1,1 +1,0 @@
-This is a complete list of United States senators during the 115th United States Congress listed by seniority, from January 3, 2017, to January 3, 2019. It is a historical listing and will contain people who have not served the entire two-year Congress should anyone resign, die, or be expelled.

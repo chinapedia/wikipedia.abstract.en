@@ -1,1 +1,0 @@
-CHÃ DE TANQUE is a town[1] in the westcentral part of the island of Santiago, Cape Verde. It is part of the municipality of Santa Catarina. In 2010 its population was 1,164. It is situated 4 km west of Assomada, on the road to Rincão. The elevation is about 260 meters above sea level. Since 2008, it is home to the Museu da Tabanca.[2]

@@ -1,1 +1,0 @@
-JOSIF KOSTIĆ (13 August 1877 – 1960) was a Serbian politician and army general and one of the most prominent officers the secret military organization, the White Hand prior to and during World War II.[1]

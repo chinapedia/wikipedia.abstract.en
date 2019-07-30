@@ -1,1 +1,0 @@
-APPARATUS was an electro-industrial band based in Charlotte, North Carolina. The trio comprised vocalist Blake Barnes, keyboardist D. York and guitarist Sid. They released a sole full-length self-titled album in 1995 before disbanding.

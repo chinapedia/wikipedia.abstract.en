@@ -1,4 +1,4 @@
-Gustave_Moreau_-_Song_of_Songs_(Cantique_des_Cantiques)_-_Google_Art_Project.jpg, 1893]]
+, 1893]]
 
 The SONG OF SONGS, also SONG OF SOLOMON or CANTICLES (Hebrew: _Šîr HaŠŠîrîm_, Greek and ; ), is one of the _megillot_ (scrolls) found in the last section of the Tanakh, known as the Ketuvim (or "Writings"), and a book of the Old Testament.
 
@@ -46,7 +46,7 @@ The woman compares love to death and sheol: love is as relentless and jealous as
 
 Composition
 
-Song_of_songs_Rothschild_mahzor.jpg The Song offers no clue to its author or to the date, place, or circumstances of its composition. The superscription states that it is "Solomon's", but even if this is meant to identify the author, it cannot be read as strictly as a similar modern statement. The most reliable evidence for its date is its language: Aramaic gradually replaced Hebrew after the end of the Babylonian exile in the late 6th century BCE, and the evidence of vocabulary, morphology, idiom and syntax clearly points to a late date, centuries after King Solomon to whom it is traditionally attributed. It has parallels with Mesopotamian and Egyptian love poetry from the first half of the 1st millennium, and with the pastoral idylls of Theocritus, a Greek poet who wrote in the first half of the 3rd century BCE; as a result of these conflicting signs, speculation ranges from the 10th to the 2nd centuries BCE, with the language supporting a date around the 3rd century.
+The Song offers no clue to its author or to the date, place, or circumstances of its composition. The superscription states that it is "Solomon's", but even if this is meant to identify the author, it cannot be read as strictly as a similar modern statement. The most reliable evidence for its date is its language: Aramaic gradually replaced Hebrew after the end of the Babylonian exile in the late 6th century BCE, and the evidence of vocabulary, morphology, idiom and syntax clearly points to a late date, centuries after King Solomon to whom it is traditionally attributed. It has parallels with Mesopotamian and Egyptian love poetry from the first half of the 1st millennium, and with the pastoral idylls of Theocritus, a Greek poet who wrote in the first half of the 3rd century BCE; as a result of these conflicting signs, speculation ranges from the 10th to the 2nd centuries BCE, with the language supporting a date around the 3rd century.
 
 Debate continues on the unity or disunity of the Song. Those who see it as an anthology or collection point to the abrupt shifts of scene, speaker, subject matter and mood, and the lack of obvious structure or narrative. Those who hold it to be a single poem point out that it has no internal signs of composite origins, and view the repetitions and similarities among its parts as evidence of unity. Some claim to find a conscious artistic design underlying it, but there is no agreement among them on what this might be. The question therefore remains unresolved.
 
@@ -57,7 +57,7 @@ Canonisation and interpretation
 
 Judaism
 
-Rashi_megillot.jpg The Song was accepted into the Jewish canon of scripture in the 2nd century CE, after a period of controversy in the 1st century. It was accepted as canonical because of its supposed authorship by Solomon and based on an allegorical reading where the subject-matter was taken to be not sexual desire but God's love for Israel. For instance, the famed first and second century Rabbi Akiva forbade the use of the Song of Songs in popular celebrations. He reportedly said, "He who sings the Song of Songs in wine taverns, treating it as if it were a vulgar song, forfeits his share in the world to come". However, Rabbi Akiva famously defended the canonicity of the Song of Songs, reportedly saying when the question came up of whether it should be considered a defiling work, "God forbid! [...] For all of eternity in its entirety is not as worthy as the day on which Song of Songs was given to Israel, for all the Writings are holy, but Song of Songs is the Holy of Holies."
+The Song was accepted into the Jewish canon of scripture in the 2nd century CE, after a period of controversy in the 1st century. It was accepted as canonical because of its supposed authorship by Solomon and based on an allegorical reading where the subject-matter was taken to be not sexual desire but God's love for Israel. For instance, the famed first and second century Rabbi Akiva forbade the use of the Song of Songs in popular celebrations. He reportedly said, "He who sings the Song of Songs in wine taverns, treating it as if it were a vulgar song, forfeits his share in the world to come". However, Rabbi Akiva famously defended the canonicity of the Song of Songs, reportedly saying when the question came up of whether it should be considered a defiling work, "God forbid! [...] For all of eternity in its entirety is not as worthy as the day on which Song of Songs was given to Israel, for all the Writings are holy, but Song of Songs is the Holy of Holies."
 
 It is one of the overtly mystical Biblical texts for the Kabbalah, which gave esoteric interpretation on all the Hebrew Bible. Following the dissemination of the Zohar in the 13th century, Jewish mysticism took on a metaphorically anthropomorphic erotic element, and Song of Songs is an example of this. In Zoharic Kabbalah, God is represented by a system of ten sephirot emanations, each symbolizing a different attribute of God, comprising both male and female. The Shechina (indwelling Divine presence) was identified with the feminine sephira Malchut, the vessel of Kingship. This symbolizes the Jewish people, and in the body, the female form, identified with the woman in Song of Songs. Her beloved was identified with the male sephira Tiferet, the "Holy One Blessed be He", central principle in the beneficent Heavenly flow of Divine emotion. In the body, this represents the male torso, uniting through the sephira Yesod of the male sign of the covenant organ of procreation.
 
@@ -67,7 +67,7 @@ In modern Judaism, certain verses from the Song are read on _Shabbat_ eve or at 
 
 Christianity
 
-Albert_Joseph_Moore_-_The_Shulamite_1864.jpg (1864)]]
+(1864)]]
 
 The literal subject of the Song of Songs is love and sexual longing between a man and a woman, and it has little (or nothing) to say about the relationship of God and man; in order to find such a meaning it was necessary to resort to allegory, treating the love that the Song celebrates as an analogy for the love between God and Church. The Christian church's interpretation of the Song as evidence of God's love for his people, both collectively and individually, began with Origen. Over the centuries the emphases of interpretation shifted, first reading the Song as a depiction of the love between Christ and Church, the 11th century adding a moral element, and the 12th century understanding of the Bride as the Virgin Mary, with each new reading absorbing rather than simply replacing earlier ones, so that the commentary became ever more complex. These theological themes are not in the poem, but derive from a theological reading; nevertheless, what is notable about this approach is the way it leads to conclusions not found in the overtly theological books of the Bible. Those books reveal an abiding imbalance in the relationship between God and man, ranging from slight to enormous; but reading Songs as a theological metaphor produces quite a different outcome, one in which the two partners are equals, bound in a committed relationship.
 
@@ -78,7 +78,7 @@ In modern times the poem has attracted the attention of feminist biblical critic
 
 Musical settings
 
-Das_Hohelied_Salomos_-_Nr._5_(Egon_Tschirch,_1923).jpg (picture cycle 1923)]] Excerpts from the book have inspired composers to vocal and instrumental compositions, including:
+(picture cycle 1923)]] Excerpts from the book have inspired composers to vocal and instrumental compositions, including:
 
 -   Canticum Canticorum by Giovanni Pierluigi da Palestrina: 29 five-part a cappella pieces in fourth volume of motets. (1584)
 -   [Symphoniae sacrae I]] (1629) by Heinrich Schütz

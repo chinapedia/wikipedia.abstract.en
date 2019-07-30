@@ -1,1 +1,0 @@
-COLUMBIA is a city in the U.S. state of Missouri. It is the county seat of Boone County and home to the University of Missouri.[1] Founded in 1821, it is the principal city of the five-county Columbia metropolitan area. It is Missouri's fourth most-populous and fastest growing city, with an estimated 123,180 residents in 2018.[2][3]

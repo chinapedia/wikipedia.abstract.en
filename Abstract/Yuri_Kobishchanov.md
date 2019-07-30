@@ -1,1 +1,0 @@
-YURI MIKHAILOVICH KOBISHCHANOV (; born 1934) is a Soviet and Russian Africanist, historian, sociologist and ethnologist. He graduated from the Institute of Asian and African Studies at Moscow State University in 1958.

@@ -1,1 +1,0 @@
-OLGA FISCHER (; born 5 April 1951, Hilversum) is a Dutch linguist and an expert on the English language. She is Professor Emerita of Germanic Linguistics at the University of Amsterdam and former president of the International Society for the Linguistics of English.

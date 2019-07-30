@@ -1,1 +1,0 @@
-RAYYAN AIR was a Pakistani airline based in Pakistan and the UAE. Rayyan Air hold Pakistan Civil Aviation Authority air operator certificate alongside charter licence for passenger, cargo and charter operations.

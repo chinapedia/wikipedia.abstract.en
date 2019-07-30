@@ -1,1 +1,0 @@
-Arminio_by_Hasse_(Dresden_1753)_-_IV._Tusnelda_(Teresa_Albuzzi-Todeschini).jpg's _Arminio_ (Dresden 1753)]] TERESA ALBUZZI-TODESCHINI (26 December 1723 – 30 June 1760) was an Italian opera singer (contralto) who performed in Germany.

@@ -1,1 +1,0 @@
-TILAR J. MAZZEO is a cultural historian[1], American wine writer,[2] and author of several bestselling works of narrative nonfiction. She was the Clara C. Piper Associate Professor of English at Colby College in Maine from 2004-2019.[3] She is currently Professeure Associée in the Département de Littératures et Langues du Monde at the Université de Montréal in Canada.[4]

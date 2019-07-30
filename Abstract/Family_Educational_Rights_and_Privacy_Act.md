@@ -1,1 +1,0 @@
-The _'Family Educational Rights and Privacy Act OF 1974 (FERPA_' or the BUCKLEY AMENDMENT) is a United States federal law that governs the access to educational information and records by public entities such as potential employers, publicly funded educational institutions, and foreign governments.[1]

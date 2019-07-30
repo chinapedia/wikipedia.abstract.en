@@ -1,1 +1,0 @@
-NATALIA DE BARROS CARDOSO (born 22 March 1993)[1] is a Brazilian actress, blogger, it girl[2] and YouTuber[3] with more than 6 million followers on social networks, her blogs are a fashion reference for many young people. In 2016 she was named one of the celebrities on the Notorious Brazil's list.[4]

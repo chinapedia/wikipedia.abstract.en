@@ -1,1 +1,0 @@
-MD MAHFUZUR RAHMAN (born 1 December 1961) is a Bangladeshi general. He is a Lieutenant General and the present Principal Staff Officer (PSO) under Prime Minister's Office and head of Armed Forces Division.[1][2]

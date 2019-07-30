@@ -1,1 +1,0 @@
-The 2013 NORTHEAST CONFERENCE MEN'S SOCCER TOURNAMENT, was the twenty sixth edition of the tournament. It determined the Northeast Conference's automatic berth into the 2013 NCAA Division I Men's Soccer Championship. Fairleigh Dickinson is the defending champion but did not qualify for the tournament.

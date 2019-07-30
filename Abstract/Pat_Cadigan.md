@@ -1,1 +1,0 @@
-PAT CADIGAN (born September 10, 1953) is an American science fiction author, whose work is most often identified with the cyberpunk movement. Her novels and short stories all share a common theme of exploring the relationship between the human mind and technology.

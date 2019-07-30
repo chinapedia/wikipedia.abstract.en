@@ -1,1 +1,0 @@
-KONSTANTIN KONSTATINOVICH MARKOV (1905–1980) was a Soviet geomorphologist and Quaternary geologist. As a geomorphologist Markov theorized on planation surfaces. His geographical research of arid areas outside the Soviet Union led to publications on Morocco, Lake Chad and the Dead Sea. Markov was professor at the Moscow State University.[1]

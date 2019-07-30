@@ -1,1 +1,0 @@
-Sahodhari_tamil_film_still_photo.jpg]] PADMINI PRIYADARSHINI (Later PADMINI RAMACHANDRAN) is a South Indian film star, dancer and choreographer. She has acted in supporting roles during the 1950s and 1960s in Tamil, Kannada and Hindi films. She established a dancing school in Bangalore named _Natya Priya_ and trained students in dancing.[1]

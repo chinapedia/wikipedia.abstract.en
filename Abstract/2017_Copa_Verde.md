@@ -1,1 +1,0 @@
-{{ infobox football tournament season | title = Copa Verde | year = 2017 | other_titles = | image = | imagesize = | caption = | country = | dates = 29 January – 16 May | num_teams = 18 | champions = Luverdense (1st title) | runner-up = Paysandu | matches = 34 | goals = 93 | top goal scorer = Careca

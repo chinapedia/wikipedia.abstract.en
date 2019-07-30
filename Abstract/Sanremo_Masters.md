@@ -1,1 +1,0 @@
-The SANREMO MASTERS was a men's senior (over 50) professional golf tournament on the European Seniors Tour, held at Circolo Golf degli Ulivi, Sanremo, Liguria, Italy. It was held just once, in October 2004, and was won by Bob Cameron who finished two strokes ahead of Giuseppe Calì.[1] The total prize fund was €200,000 with the winner receiving €33,333.

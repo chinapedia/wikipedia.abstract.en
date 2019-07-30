@@ -1,1 +1,0 @@
-HOTEL CUBA is a historic hotel building located at Cuba, Crawford County, Missouri. It was built in 1915, and is a one-story, rectangular, red brick building. A one-story addition was built in 1926. It has a front parapet roof and features a full width flat roof porch on the front façade.[1]

@@ -1,1 +1,0 @@
-The 1956 ARIZONA GUBERNATORIAL ELECTION took place on November 6, 1956. Incumbent Governor Ernest McFarland ran for reelection to a second term. Ernest McFarland defeated longtime _The Arizona Republic_ journalist and Republican nominee Horace B. Griffen in the general election by a wide margin.

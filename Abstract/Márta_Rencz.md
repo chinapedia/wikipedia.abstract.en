@@ -1,1 +1,0 @@
-DR. MÁRTA RENCZ is an Electrical Engineer. She is a faculty member and former Head of Department at the Budapest University of Technology and Economics[1] and a member of the Hungarian Academy of Sciences.

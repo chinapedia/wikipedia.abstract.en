@@ -1,1 +1,0 @@
-PROPOSITION 60 was a California ballot proposition on the November 8, 2016 ballot which would have allowed the California Occupational Safety and Health Administration (Cal/OSHA) to prosecute an enforcement action anytime a condom is not visible in a pornographic film.[1] The proposition failed to pass.[2]

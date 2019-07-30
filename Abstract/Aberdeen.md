@@ -1,1 +1,0 @@
-ABERDEEN (; , ; ; ) is a city in northeast Scotland. It is Scotland's third most populous city, one of Scotland's 32 local government council areas and the United Kingdom's 39th most populous built-up area, with an official population estimate of 196,670 for the city of Aberdeen[1] and for the local council area.[2]

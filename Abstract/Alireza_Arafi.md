@@ -1,1 +1,0 @@
-علیرضا_اعرافی_Alireza_Arafi_07.jpg ''' Alireza Arafi ''' () (born 1959, Meybod) Iranian Shia cleric, Chairman of Al-Mustafa International University, Qom Friday prayer leader and head of Iran's Seminary.[1]

@@ -1,1 +1,0 @@
-MELANIE JO MELANSON (born November 1, 1974)[1] is a missing teenager from Woburn, Middlesex County, Massachusetts. She vanished while at a party on October 27, 1989; at first, investigators believed she fled to Florida.[2] However, subsequent investigations by both authorities and a private investigator have turned up no leads.[3][4]

@@ -23,12 +23,12 @@ From May 10 until November 6, 1990, San Marino held the semi-annual presidency o
 
 Diplomatic relations
 
-Diplomatic_relations_of_San_Marino.svg Austria, Bulgaria, France, Japan, Mexico, Monaco, Romania, Italy, the Sovereign Military Order of Malta, Croatia, and the Holy See maintain resident embassies or honorary consulates in San Marino. While other states maintain non-resident embassies and consulates, commonly located in Rome. San Marino additionally maintains honorary consulates in some countries, such as in Armenia.
+Austria, Bulgaria, France, Japan, Mexico, Monaco, Romania, Italy, the Sovereign Military Order of Malta, Croatia, and the Holy See maintain resident embassies or honorary consulates in San Marino. While other states maintain non-resident embassies and consulates, commonly located in Rome. San Marino additionally maintains honorary consulates in some countries, such as in Armenia.
 
 
 UN Secretary General visits and remarks
 
-Ban_Ki-moon_inspects_Military_Honour_Guard_of_San_Marino.jpg On 31 March-1 April 2013, United Nations Secretary-General Ban Ki-moon has been the official orator on the occasion of the newly elected Captains Regent. “Although this country is small, your importance to the United Nations stands as tall as Mount Titano,” the Secretary-General told the country's highest officials, the two Captains Regent, in reference to the country's 739 meter UNESCO World Heritage Site. Mr. Ban also noted that the country accepted five times as many refugees as its population during the Second World War, and praised its emphasis on protecting human rights.[4] This has been the second visit to San Marino by a UN Secretary General, the first being Boutrous Boutrous-Gali's visit in 1996.
+On 31 March-1 April 2013, United Nations Secretary-General Ban Ki-moon has been the official orator on the occasion of the newly elected Captains Regent. “Although this country is small, your importance to the United Nations stands as tall as Mount Titano,” the Secretary-General told the country's highest officials, the two Captains Regent, in reference to the country's 739 meter UNESCO World Heritage Site. Mr. Ban also noted that the country accepted five times as many refugees as its population during the Second World War, and praised its emphasis on protecting human rights.[4] This has been the second visit to San Marino by a UN Secretary General, the first being Boutrous Boutrous-Gali's visit in 1996.
 
 
 See also

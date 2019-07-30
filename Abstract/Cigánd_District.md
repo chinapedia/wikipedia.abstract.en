@@ -1,1 +1,0 @@
-CIGÁND () is a district in north-eastern part of Borsod-Abaúj-Zemplén County. The district seat is in a town that is called Cigánd as well. The district is located in the Northern Hungary Statistical Region.

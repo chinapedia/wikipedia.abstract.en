@@ -1,1 +1,0 @@
-LOUISA WATSON (née BROWNFIELD on 14 April 1984) is an English netball player for Hertfordshire Mavericks.[1] She won bronze medals at the 2006 and 2010 Commonwealth Games and 2011 World Championships.

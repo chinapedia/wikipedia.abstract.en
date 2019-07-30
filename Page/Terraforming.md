@@ -1,4 +1,4 @@
-MarsTransitionV.jpg in four stages of development.]] TERRAFORMING or TERRAFORMATION (literally, "Earth-shaping") of a planet, moon, or other body is the hypothetical process of deliberately modifying its atmosphere, temperature, surface topography or ecology to be similar to the environment of Earth to make it habitable by Earth-like life.
+in four stages of development.]] TERRAFORMING or TERRAFORMATION (literally, "Earth-shaping") of a planet, moon, or other body is the hypothetical process of deliberately modifying its atmosphere, temperature, surface topography or ecology to be similar to the environment of Earth to make it habitable by Earth-like life.
 
 The concept of terraforming developed from both science fiction and actual science. The term was coined by Jack Williamson in a science-fiction short story ("Collision Orbit") published during 1942 in _Astounding Science Fiction_,[1] but the concept may pre-date this work.
 
@@ -46,8 +46,6 @@ Once conditions become more suitable for life of the introduced species, the imp
 
 Prospective targets
 
-TerraformedMars.jpg
-
 Mars
 
 In many respects, Mars is the most Earth-like planet in the Solar System.[20] It is thought that Mars once had a more Earth-like environment early in its history, with a thicker atmosphere and abundant water that was lost over the course of hundreds of millions of years.[21]
@@ -60,13 +58,13 @@ Finally, between approximately 4.1 and 3.8 billion years ago, asteroid impacts d
 
 Terraforming Mars would entail two major interlaced changes: building the atmosphere and heating it.[29] A thicker atmosphere of greenhouse gases such as carbon dioxide would trap incoming solar radiation. Because the raised temperature would add greenhouse gases to the atmosphere, the two processes would augment each other.[30] Carbon dioxide alone would not suffice to sustain a temperature above the freezing point of water, so a mixture of specialized greenhouse molecules might be manufactured.[31]
 
-TerraformedVenus.jpg]]
+]]
 
 Venus
 
 Terraforming Venus requires two major changes; removing most of the planet's dense 9 MPa carbon dioxide atmosphere and reducing the planet's 450 °C (723.15 K) surface temperature.[32][33] These goals are closely interrelated, because Venus's extreme temperature is thought to be due to the greenhouse effect caused by its dense atmosphere. Sequestering the atmospheric carbon would likely solve the temperature problem as well.
 
-TerraformedMoonFromEarth.jpg might look like terraformed]]
+might look like terraformed]]
 
 The Moon
 

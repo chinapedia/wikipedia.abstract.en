@@ -1,1 +1,0 @@
-The ARENAL ECO ZOO is a nature center located in western Alajuela Province, Costa Rica.[1] It is located across Lake Arenal, west of Arenal Volcano National Park, right at the border between Alajuela and Guanacaste Provinces.

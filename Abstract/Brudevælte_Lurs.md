@@ -1,1 +1,0 @@
-Bronse-Lurer-Danmark.png

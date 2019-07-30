@@ -1,1 +1,0 @@
-is a public wooded area in Toshima Ward, Tokyo, Japan. Officially, it is not a public park, but a "forest for the residents of the ward" () as designated by Toshima Ward. It is open throughout the year.

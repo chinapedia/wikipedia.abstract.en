@@ -1,1 +1,0 @@
-The INDEPENDENT INVESTIGATION UNIT is the civilian oversight agency in Manitoba, Canada responsible for the investigation of incidents resulted in serious injury or death to any person. IIU has jurisdiction over all municipal police officers, First Nations police officers and Royal Canadian Mounted Police "D" Division officers, for all complaints on or off duty related.

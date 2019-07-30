@@ -1,1 +1,0 @@
-LUCREZIA BORGIA (; ; 18 April 1480 – 24 June 1519) was a Spanish-Italian noblewoman of the House of Borgia who was the daughter of Pope Alexander VI and Vannozza dei Cattanei. She reigned as the Governor of Spoleto, a position usually held by cardinals, in her own right.

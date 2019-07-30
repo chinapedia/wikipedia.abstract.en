@@ -1,1 +1,0 @@
-ELIZABETH SCHUBERT is an American classical clarinetist, performer and academic. A graduate of _Juilliard School of Music,_ New York, she has been a member of Miami Symphony and Florida Philharmonic. She is related to Austrian composer Franz Schubert.[1]

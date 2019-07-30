@@ -1,1 +1,0 @@
-RAFAEL LARA GRAJALES was a Mexican general who represented the urban moderates, and with Alvaro Obregén supported General José María Sánchez.[1][2] The municipality Rafael Lara Grajales, Puebla is named in his honour.

@@ -1,1 +1,0 @@
-VÍCTOR LUCIANO REBUFFO (14 February 1903, Turin, Piedmont, Italy – 2 September 1983, Buenos Aires, Argentina) was an Italian-born printmaker, illustrator, and graphic novelist who lived and worked in Argentina.

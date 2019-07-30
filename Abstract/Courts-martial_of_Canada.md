@@ -1,1 +1,0 @@
-COURTS-MARTIAL IN CANADA are trials conducted by the Canadian Armed Forces. The Chief Military Judge is Colonel Mario Dutil.[1] Such courts martial are authorized under the National Defence Act.[2] Civilians with a military unit also become subject to the courts-martial system.[3]

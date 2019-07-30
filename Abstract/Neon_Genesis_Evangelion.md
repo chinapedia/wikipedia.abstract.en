@@ -1,1 +1,0 @@
-is a Japanese mecha anime television series produced by Gainax and Tatsunoko Production, directed by Hideaki Anno and broadcast on TV Tokyo from October 1995 to March 1996. The cast included Megumi Ogata as Shinji Ikari, Megumi Hayashibara as Rei Ayanami, and Yūko Miyamura as Asuka Langley Soryu. Music for the series was composed by Shirō Sagisu.

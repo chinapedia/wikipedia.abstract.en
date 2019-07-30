@@ -1,1 +1,0 @@
-HE QIAONÜ (; born 1966) is a Chinese businesswoman and founder of Beijing Orient Landscape & Environment Co Ltd, one of Asia's largest landscape architecture companies.[1] She has been regularly recognized as the top philanthropist in China by the China Philanthropy Research Institute of Beijing Normal University.[2]

@@ -1,1 +1,0 @@
-FOSTER G. MCGAW was a noted philanthropist who was particularly active in the Evanston, Illinois and Northwestern University area.[1] He founded the American Hospital Supply Corporation, now a part of Baxter International. At the time of its founding, the AHSC was the largest medical supply company in the world.

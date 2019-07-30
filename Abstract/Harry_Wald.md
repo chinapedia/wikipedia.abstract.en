@@ -1,1 +1,0 @@
-HARRY WALD (1924-1996) was a German-born American Holocaust survivor, World War II veteran, and casino executive. He served as the president of the Caesars Palace, a hotel and casino in Las Vegas, Nevada. He subsequently served as senior vice president of MGM Grand Hotel and Casino.

@@ -1,1 +1,0 @@
-The FLORENCE ROBINSON COTTAGE, also known as the Florence Robinson Building and the Alumni Heritage House, is a structure on the National Register of Historic Places located in Wood County, Texas on the campus of Jarvis Christian College outside Hawkins, Texas.[1] The cottage is in the Modern Movement Style.[2]

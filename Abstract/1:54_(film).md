@@ -1,1 +1,0 @@
-_1:54_ is a 2016 Canadian drama film directed by Yan England. Starring Antoine-Olivier Pilon, Lou-Pascal Tremblay and Sophie Nélisse, it also features roles by David Boutin, Patrice Godin, Robert Naylor and Anthony Therrien. The film launched on wider screens on 13 October 2016 tackles the phenomenon of bullying in schools.

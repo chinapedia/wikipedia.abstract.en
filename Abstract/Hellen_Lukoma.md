@@ -1,1 +1,0 @@
-HELLEN LUKOMA is a Ugandan, actress, model, fashion designer and singer. She is well known for her roles as Patra on The Hostel,[1] Hellen Mutungi on Beneath The Lies.[2] She rose to fame as a member of the all girl music group The Obsessions before venturing into modelling, fashion design and acting.[3][4]

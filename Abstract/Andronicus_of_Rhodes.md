@@ -1,1 +1,0 @@
-ANDRONICUS OF RHODES (; ; ) was a Greek philosopher from Rhodes who was also the scholarch (head) of the Peripatetic school. He is most famous for publishing a new edition of the works of Aristotle that forms the basis of the texts that survive today.

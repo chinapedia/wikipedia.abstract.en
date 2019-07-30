@@ -1,1 +1,0 @@
-PETER VERNON JONES (28 January 1933 – 16 January 2017) was an Australian politician who served as a member of the Legislative Assembly of Western Australia from 1974 to 1986, representing the seat of Narrogin. He was a minister in the governments of Charles Court and Ray O'Connor.

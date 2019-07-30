@@ -1,1 +1,0 @@
-INMAN E. PAGE (December 29, 1853 - December 21, 1935) was a Baptist leader and educator in Oklahoma and Missouri. He was president of four schools: the Lincoln Institute, Langston University, Western University, and Roger Williams University and principal of Douglass High School in Oklahoma City. He and George Milford were the first black students at Brown University.

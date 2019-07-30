@@ -1,1 +1,0 @@
-YUAN JING (1914 – 29 July 1999[1]), born YUAN XINGZHUANG, was a Chinese fiction writer, best known for her wartime novel _Daughters and Sons_ (1949, co-authored with her then-husband Kong Jue), which was adapted into a successful 1951 film.[2]

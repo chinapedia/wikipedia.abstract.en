@@ -1,1 +1,0 @@
-ABDÜLAZIZ (Ottoman Turkish: عبد العزيز / _`Abdü’l-`Azīz_, ; 8 February 18304 June 1876) was the 32nd Sultan of the Ottoman Empire and reigned between 25 June 1861 and 30 May 1876.[1] He was the son of Sultan Mahmud II and succeeded his brother Abdulmejid I in 1861.[2]

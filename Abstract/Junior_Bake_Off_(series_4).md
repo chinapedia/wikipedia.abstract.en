@@ -1,1 +1,0 @@
-The fourth series of _JUNIOR BAKE OFF_ aired from 7 November 2016,[1] with forty contestants competing to be crowned the series 4 winner. Sam & Mark presented the show, and Allegra McEvedy returned as judge with Nadiya Hussain replacing Graham Hornigold.

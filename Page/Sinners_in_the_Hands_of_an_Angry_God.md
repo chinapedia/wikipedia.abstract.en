@@ -5,7 +5,7 @@ This is a typical sermon of the Great Awakening, emphasizing the teaching that H
 
 Doctrine
 
-Sinners_in_the_Hands_of_an_Angry_God_by_Jonathan_Edwards_1741.jpg "_THERE IS NOTHING THAT KEEPS WICKED MEN AT ANY ONE MOMENT OUT OF HELL, BUT THE MERE PLEASURE OF GOD._"
+"_THERE IS NOTHING THAT KEEPS WICKED MEN AT ANY ONE MOMENT OUT OF HELL, BUT THE MERE PLEASURE OF GOD._"
 
 Most of the sermon's text consists of ten "considerations":
 

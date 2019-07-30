@@ -1,1 +1,0 @@
-FASIL KENEMA SPORT CLUB (Amharic: ፋሲል ከነማ ) is an Ethiopian Sport club based in Gondar, Ethiopia. They are a member of the Ethiopian Football Federation and play in the Ethiopian Premier League, the top division of football in Ethiopia.

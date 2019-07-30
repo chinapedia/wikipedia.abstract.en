@@ -1,1 +1,0 @@
-_SPACE BATTLE LUNCHTIME_ is an American comic book created by Natalie Riess and published through Oni Press. The first issue of the eight-issue monthly miniseries was released May 4, 2016. The art received mostly positive reviews, although some critics said the plot was slow or thin.

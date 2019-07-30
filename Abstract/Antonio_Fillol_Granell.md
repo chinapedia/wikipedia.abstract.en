@@ -1,1 +1,0 @@
-Autorretrato_de_Fillol.jpg

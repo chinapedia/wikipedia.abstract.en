@@ -1,1 +1,0 @@
-BORNEO (; , ) is the third-largest island in the world and the largest in Asia.{{#tag:ref|See List of islands by area.|group="note"}} At the geographic centre of Maritime Southeast Asia, in relation to major Indonesian islands, it is located north of Java, west of Sulawesi, and east of Sumatra.

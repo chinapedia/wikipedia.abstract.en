@@ -1,1 +1,0 @@
-{{ infobox Person | name = Michel Antoine | birth_date = | birth_place = Saarbrücken, Germany | death_date = | death_place = Paris, France | nationality = French | education = École Nationale des Chartes | occupation = Historian }}

@@ -1,1 +1,0 @@
-The Basimba people culture of naming their children, the way of their life, general custom and belief can be differentiated by way of a particular Basimba sub-division group or clan at a particular time.

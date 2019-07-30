@@ -1,1 +1,0 @@
-VIPERS FC is a football club based in St Clair, South Australia. They currently play in the South Australian State League 2. For the 2016 season, the club was set to join the new competition,[1] after having played previously in the SAASL.

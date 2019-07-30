@@ -1,1 +1,0 @@
-ALBERT FREDERICK (; ; 7 May 1553 – 28 August 1618) was the Duke of Prussia, from 1568 until his death. He was a son of Albert of Prussia and Anna Marie of Brunswick-Lüneburg. He was the second and last Prussian duke of the Ansbach branch of the Hohenzollern family.

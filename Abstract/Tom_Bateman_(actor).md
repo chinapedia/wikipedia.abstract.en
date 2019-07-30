@@ -1,1 +1,0 @@
-THOMAS JONATHAN BATEMAN (born 15 March 1989)[1] is an English actor. He is perhaps best known for his roles on the television series _Da Vinci's Demons_ (2013–2015) and _Jekyll and Hyde_ (2015), and in the film _Murder on the Orient Express_ (2017).[2][3]

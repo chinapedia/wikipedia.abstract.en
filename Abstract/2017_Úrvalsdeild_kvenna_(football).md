@@ -1,1 +1,0 @@
-The 2017 ÚRVALSDEILD KVENNA was the 46th season of the women's football top level league in Iceland. Stjarnan was the defending champion. The season began on 27 April and concluded on 29 September. Þór/KA were crowned champions.

@@ -1,1 +1,0 @@
-Typisches_Haus_in_Jermakovo_mit_den_drei_Eingangserkern;_Momentaufnahme_11,_farbkor,_+4°,_komp._2.png

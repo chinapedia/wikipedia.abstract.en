@@ -1,1 +1,0 @@
-DAVID GRAY is an American filmmaker, commercial director, and former creative director at Goodby, Silverstein & Partners and BBDO.[1] He has worked with numerous brands including Nike, Visa, American Express, Microsoft, FedEX, Time Warner, Showtime, Volkswagen, and GEICO.[2][3]

@@ -1,1 +1,0 @@
-The FREE REPUBLIC OF THE CONGO (), often referred to as CONGO-STANLEYVILLE, was a short-lived rival government to the Republic of the Congo (Congo-Léopoldville) based in the eastern Congo and led by Antoine Gizenga.

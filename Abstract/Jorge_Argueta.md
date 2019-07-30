@@ -1,1 +1,0 @@
-JORGE ARGUETA (born in El Salvador and a Pipil Nahua Indian)[1] is a Salvadoran award-winning poet and author of many highly acclaimed bilingual children’s books and short stories, covering themes related to Latino culture and traditions, nature, and the immigrant experience. He immigrated to the United States in the 1980s during the Salvadoran Civil War.[2]

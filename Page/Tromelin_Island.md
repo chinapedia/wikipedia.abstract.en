@@ -1,4 +1,4 @@
-Anchor_of_the_Utile.jpg TROMELIN ISLAND (; , ) is a low, flat, island in the Indian Ocean about north of Réunion, and about east of Madagascar. Tromelin is administered as part of the French Southern and Antarctic Lands, a French overseas territory; however, Mauritius claims sovereignty over the island, on grounds of its absence in the listing of the 8th article of the French version of the 1814 Paris Treaty. France and Mauritius have been negotiating for years in regard to the possible establishment of a condominium over the island.[1]
+TROMELIN ISLAND (; , ) is a low, flat, island in the Indian Ocean about north of Réunion, and about east of Madagascar. Tromelin is administered as part of the French Southern and Antarctic Lands, a French overseas territory; however, Mauritius claims sovereignty over the island, on grounds of its absence in the listing of the 8th article of the French version of the 1814 Paris Treaty. France and Mauritius have been negotiating for years in regard to the possible establishment of a condominium over the island.[1]
 
 Tromelin has facilities for scientific expeditions and a weather station.[2] It is a nesting site for birds and green sea turtles.
 
@@ -10,7 +10,7 @@ The island is named for the chevalier Bernard Boudin de Tromelin, the captain of
 
 Description
 
-Tromelin-topo.svg Tromelin_station2.JPG As Tromelin is only high, studies could not determine if it is the summit of a volcano or an atoll.
+As Tromelin is only high, studies could not determine if it is the summit of a volcano or an atoll.
 
 Tromelin is about long and wide, with an area of 80 ha (200 acres), covered in scrub dominated by octopus bush[3] and surrounded by coral reefs. There are no harbours or anchorages, so that access by sea is quite difficult. A 1,200-metre airstrip provides a link with the outside world.[4]
 
@@ -36,7 +36,7 @@ There are no resident landbirds.[6]
 
 History
 
-Tromelin_aerial_photograph.JPG The island was discovered by France in 1720s.[7][8] It was recorded by the French navigator Jean Marie Briand de la Feuillée and named "Île des Sables" ('Isle of Sand').[9]
+The island was discovered by France in 1720s.[7][8] It was recorded by the French navigator Jean Marie Briand de la Feuillée and named "Île des Sables" ('Isle of Sand').[9]
 
 Wreck of the ship _L'Utile_
 

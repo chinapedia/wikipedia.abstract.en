@@ -1,1 +1,0 @@
-_ZOMBIE CAFE_[1] is a freemium mobile simulation video game created by American Capcom subsidiary Beeline Interactive, Inc.[2] It was released for iOS[3] platforms on January 26, 2011 and was formerly on Google Play for Android.

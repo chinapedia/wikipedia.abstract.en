@@ -1,1 +1,0 @@
-REICHENBACH_NEBENALTAR.jpg JOHN OF PALATINATE-MOSBACH (1 August 1443 - 4 October 1486, Jerusalem) was a prince of the house of Wittelsbach and _Dompropst_ or canon of Augsburg Cathedral and Regensburg Cathedral.

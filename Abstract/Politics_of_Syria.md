@@ -1,1 +1,0 @@
-Politics in the Syrian Arab Republic takes place in the framework of a semi-presidential republic with multiparty representation. President Bashar al-Assad's family and his Arab Socialist Ba'ath Party have remained dominant forces in the country's politics since a 1970 coup.[1][2]

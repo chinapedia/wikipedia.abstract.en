@@ -1,1 +1,0 @@
-REBECCA SHANAHAN is a New South Wales-based artist and arts educator whose work has been exhibited at a number of art galleries across Australia and who has also written for a range of outlets. In 2006, Shanahan described herself as being "interested in photographic space, time and surface" [1] for an extensive research project funded by the Australian Research Council.[2]

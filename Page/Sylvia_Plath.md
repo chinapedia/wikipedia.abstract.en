@@ -17,7 +17,7 @@ Otto Plath died on November 5, 1940, a week and a half after Plath's eighth birt
 
 College years and depression
 
-Smith_College.jpg, in Northampton, Massachusetts]]
+, in Northampton, Massachusetts]]
 
 In 1950, Plath attended Smith College, a private woman's liberal arts college in Massachusetts. She excelled academically, and wrote to her mother, "The world is splitting open at my feet like a ripe, juicy watermelon".[21] While at Smith, she lived in Lawrence House, and a plaque can be found outside of her old room. She edited _The Smith Review._
 
@@ -25,7 +25,7 @@ After her third year of college, Plath was awarded a coveted position as a guest
 
 She was furious at not being at a meeting the editor had arranged with Welsh poet Dylan Thomas—a writer whom she loved, said one of her boyfriends, "more than life itself." She hung around the White Horse Tavern and the Chelsea Hotel for two days, hoping to meet Thomas, but he was already on his way home. A few weeks later, she slashed her legs to see if she had enough "courage" to commit suicide.[23] During this time she was refused admission to the Harvard writing seminar.[24] Following electroconvulsive therapy for depression, Plath made her first medically documented suicide attempt on August 24, 1953[25] by crawling under her house and taking her mother's sleeping pills.[26]
 
-Cambridge_Newnham.JPG, University of Cambridge]]
+, University of Cambridge]]
 
 She survived this first suicide attempt after lying in a crawl space for three days, later writing that she "blissfully succumbed to the whirling blackness that I honestly believed was eternal oblivion."[27] She spent the next six months in psychiatric care, receiving more electric and insulin shock treatment under the care of Dr. Ruth Beuscher.[28] Her stay at McLean Hospital and her Smith Scholarship were paid for by Olive Higgins Prouty, who had successfully recovered from a mental breakdown herself. Plath seemed to make a good recovery and returned to college.
 
@@ -35,7 +35,7 @@ She obtained a Fulbright Scholarship to study at Newnham College, one of the two
 
 Career and marriage
 
-Administration_Building,_McLean_Hospital,_Belmont_MA.jpg inspired her novel _The Bell Jar_]]
+inspired her novel _The Bell Jar_]]
 
 Plath first met poet Ted Hughes on February 25, 1956, at a party in Cambridge.[32] In a 1961 BBC interview (now held by the British Library Sound Archive),[33] Plath describes how she met Ted Hughes:
 
@@ -49,7 +49,7 @@ In June 1957, Plath and Hughes moved to the United States, and from September, P
 
 Both Lowell and Sexton encouraged Plath to write from her experience and she did so. She openly discussed her depression with Lowell and her suicide attempts with Sexton, who led her to write from a more female perspective. Plath began to conceive of herself as a more serious, focused poet and short-story writer.[40] At this time Plath and Hughes first met the poet W. S. Merwin, who admired their work and was to remain a lifelong friend.[41] Plath resumed psychoanalytic treatment in December, working with Ruth Beuscher.[42]
 
-Chalcot_Square_-_geograph.org.uk_-_1005457.jpg in London, Plath and Hughes' home from 1959]] Plath and Hughes traveled across Canada and the United States, staying at the Yaddo artist colony in Saratoga Springs, New York State in late 1959. Plath says that it was here that she learned "to be true to my own weirdnesses", but she remained anxious about writing confessionally, from deeply personal and private material.[43][44] The couple moved back to England in December 1959 and[45] lived in London at 3 Chalcot Square, near the Primrose Hill area of Regent's Park, where an English Heritage plaque records Plath's residence.[46] Their daughter Frieda was born on April 1, 1960, and in October, Plath published her first collection of poetry, _The Colossus_.[47]
+in London, Plath and Hughes' home from 1959]] Plath and Hughes traveled across Canada and the United States, staying at the Yaddo artist colony in Saratoga Springs, New York State in late 1959. Plath says that it was here that she learned "to be true to my own weirdnesses", but she remained anxious about writing confessionally, from deeply personal and private material.[43][44] The couple moved back to England in December 1959 and[45] lived in London at 3 Chalcot Square, near the Primrose Hill area of Regent's Park, where an English Heritage plaque records Plath's residence.[46] Their daughter Frieda was born on April 1, 1960, and in October, Plath published her first collection of poetry, _The Colossus_.[47]
 
 In February 1961, Plath's second pregnancy ended in miscarriage; several of her poems, including "Parliament Hill Fields", address this event.[48] In a letter to her therapist, Plath wrote that Hughes beat her two days before the miscarriage.[49] In August she finished her semi-autobiographical novel _The Bell Jar_ and immediately after this, the family moved to Court Green in the small market town of North Tawton in Devon. Nicholas was born in January 1962.[50] In mid-1962, Hughes began to keep bees, which would be the subject of many Plath poems.[51]
 
@@ -63,7 +63,7 @@ Final depressive episode and death
 
 Before her death, Plath tried several times to take her own life.[59] On August 24, 1953, Plath overdosed on pills in the cellar of her mother's home. In June1962, Plath drove her car off the side of the road, into a river, which she later said was an attempt to take her own life.[60]
 
-In January1963, Plath spoke with John Horder, her general practitioner[61] and a close friend who lived near her. She described the current depressive episode she was experiencing; it had been ongoing for six or seven months.[62] While for most of the time she had been able to continue working, her depression had worsened and become severe, "marked by constant agitation, suicidal thoughts and inability to cope with daily life."[63] Plath struggled with insomnia, taking medication at night to induce sleep, and frequently woke up early.[64] She lost 20pounds.[65] However, she continued to take care of her physical appearance and did not outwardly speak of feeling guilty or unworthy.[66] 23_Fitzroy_Road,_London_-_Sylvia_Plath_-_W.B._Yeats.jpg, London, where Plath committed suicide]]
+In January1963, Plath spoke with John Horder, her general practitioner[61] and a close friend who lived near her. She described the current depressive episode she was experiencing; it had been ongoing for six or seven months.[62] While for most of the time she had been able to continue working, her depression had worsened and become severe, "marked by constant agitation, suicidal thoughts and inability to cope with daily life."[63] Plath struggled with insomnia, taking medication at night to induce sleep, and frequently woke up early.[64] She lost 20pounds.[65] However, she continued to take care of her physical appearance and did not outwardly speak of feeling guilty or unworthy.[66] , London, where Plath committed suicide]]
 
 Horder prescribed her an antidepressant, a monoamine oxidase inhibitor,[67] a few days before her suicide. Knowing she was at risk alone with two young children, he says he visited her daily and made strenuous efforts to have her admitted to a hospital; when that failed, he arranged for a live-in nurse. Commentators have argued that because antidepressants may take up to three weeks to take effect, her prescription from Horder would not have taken full effect.[68]
 
@@ -73,7 +73,7 @@ Some have suggested that Plath had not intended to kill herself. That morning, s
 
 Following Plath's death
 
-Plath_Grave15.jpg church, West Yorkshire]] An inquiry on the day following Plath's death gave a ruling of suicide. Hughes was devastated; they had been separated six months. In a letter to an old friend of Plath's from Smith College, he wrote, "That's the end of my life. The rest is posthumous."[77][78] Plath's gravestone, in Heptonstall's parish churchyard of St Thomas the Apostle, bears the inscription that Hughes chose for her:[79] "Even amidst fierce flames the golden lotus can be planted." Biographers variously attribute the source of the quote to the Hindu text, the _Bhagavad Gita_[80] or to the 16th-century Buddhist novel _Journey to the West_ written by Wu Cheng'en.[81][82]
+church, West Yorkshire]] An inquiry on the day following Plath's death gave a ruling of suicide. Hughes was devastated; they had been separated six months. In a letter to an old friend of Plath's from Smith College, he wrote, "That's the end of my life. The rest is posthumous."[77][78] Plath's gravestone, in Heptonstall's parish churchyard of St Thomas the Apostle, bears the inscription that Hughes chose for her:[79] "Even amidst fierce flames the golden lotus can be planted." Biographers variously attribute the source of the quote to the Hindu text, the _Bhagavad Gita_[80] or to the 16th-century Buddhist novel _Journey to the West_ written by Wu Cheng'en.[81][82]
 
 The gravestone has been repeatedly vandalized by those aggrieved that "Hughes" is written on the stone; they have attempted to chisel it off, leaving only the name "Sylvia Plath."[83] When Hughes' mistress Assia Wevill killed herself and their four-year-old daughter Shura in 1969, this practice intensified. After each defacement, Hughes had the damaged stone removed, sometimes leaving the site unmarked during repair.[84] Outraged mourners accused Hughes in the media of dishonoring her name by removing the stone.[85]
 

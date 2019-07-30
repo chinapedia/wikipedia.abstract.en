@@ -1,1 +1,0 @@
-_POET ON A BUSINESS TRIP_ () is a 2015 Chinese documentary film directed, written and cinematographed by Ju Anqi. Originally shot in colour but edited to black-and-white, it follows a poet as he travels through Xinjiang Uygur Autonomous Region to write a series of 16 poems.[1]

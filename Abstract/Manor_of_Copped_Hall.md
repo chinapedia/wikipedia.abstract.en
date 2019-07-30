@@ -1,1 +1,0 @@
-A_Prospect_of_Coppeed_Hall_at_Totteridge_in_the_County_of_Hertford_seat_of_Joseph_Da_Costa,_Esq.jpg Samuel_Bagster_Boulton_plaque_St_Andrew's_church,_Totteridge.JPG Copped_Hall_Totteridge.jpg The MANOR OF COPPED HALL (or COPPEED HALL) was located to the south of St Andrews church in Totteridge, Hertfordshire, in an area that is now part of the London Borough of Barnet.

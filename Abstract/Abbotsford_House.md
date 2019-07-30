@@ -1,1 +1,0 @@
-ABBOTSFORD is a historic country house in the Scottish Borders, near Melrose, on the south bank of the River Tweed. It was formerly the residence of historical novelist and poet, Sir Walter Scott. It is a Category A Listed Building[1] and the estate is listed in the Inventory of Gardens and Designed Landscapes in Scotland.[2]

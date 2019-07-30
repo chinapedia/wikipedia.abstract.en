@@ -1,1 +1,0 @@
-HASSAN ADEBAYO SUNMONU is a Nigerian trade unionist who was president of the Nigerian Labour Congress from 1978 to 1984. He is a former General-Secretary of the Organisation of African Trade Union Unity.

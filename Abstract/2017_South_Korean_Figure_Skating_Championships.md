@@ -1,1 +1,0 @@
-The 2017 SOUTH KOREAN FIGURE SKATING CHAMPIONSHIPS () were held from January 6–8, 2017 at the Gangneung Ice Arena in Gangneung.[1] It was organized by Korea Skating Union. This was the 71st edition of those championships held.

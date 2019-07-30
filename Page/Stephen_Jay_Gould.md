@@ -9,7 +9,7 @@ Gould was known by the general public mainly for his 300 popular essays in _Natu
 
 Biography
 
-Tyrannosaurus_AMNH_5027.jpg, American Museum of Natural History, New York City]]
+, American Museum of Natural History, New York City]]
 
 Stephen Jay Gould was born in Queens, New York on September 10, 1941. His father Leonard was a court stenographer and a World War II veteran in the United States Navy. His mother Eleanor was an artist, whose parents were Jewish immigrants living and working in the city's Garment District.[9] Gould and his younger brother Peter were raised in Bayside, a middle class neighborhood in the northeastern section of Queens.[10] He attended P.S. 26 elementary school and graduated from Jamaica High School.[11]
 
@@ -50,7 +50,7 @@ In 1989 Gould was elected into the body of the National Academy of Sciences. Thr
 
 Punctuated equilibrium
 
-PunctuatedEquilibrium.png stability followed by episodic bursts of evolutionary change via rapid cladogenesis. It is contrasted (below) to phyletic gradualism, a more gradual, continuous model of evolution.]]
+stability followed by episodic bursts of evolutionary change via rapid cladogenesis. It is contrasted (below) to phyletic gradualism, a more gradual, continuous model of evolution.]]
 
 Early in his career, Gould and his colleague Niles Eldredge developed the theory of punctuated equilibrium, which describes the rate of speciation in the fossil record as occurring relatively rapidly, which then alternates to a longer period of evolutionary stability.[42] It was Gould who coined the term "punctuated equilibria" though the theory was originally presented by Eldredge in his doctoral dissertation on Devonian trilobites and his article published the previous year on allopatric speciation.[43]
 
@@ -74,7 +74,7 @@ But Gould did not rule out sociobiological explanations for many aspects of anim
 
 Spandrels and the Panglossian paradigm
 
-Kostel_Nejsvětější_Trojice_(Fulnek)_–_frs-002.jpg in Fulnek, Czech Republic.]]
+in Fulnek, Czech Republic.]]
 
 With Richard Lewontin, Gould wrote an influential 1979 paper entitled, "The Spandrels of San Marco and the Panglossian Paradigm",[58] which introduced the architectural term "spandrel" into evolutionary biology. In architecture, a spandrel is a triangular space which exists over the haunches of an arch.[59][60] Spandrels—more often called pendentives in this context—are found particularly in classical architecture, especially Byzantine and Renaissance churches.
 
@@ -96,7 +96,7 @@ Gould never embraced cladistics as a method of investigating evolutionary lineag
 
 Technical work on land snails
 
-Cerion_watlingense_land_snail_shells_(modern%3B_northeastern_San_Salvador_Island,_eastern_Bahamas)_(15043406837).jpg, Bahamas.]] Most of Gould's empirical research pertained to land snails. He focused his early work on the Bermudian genus _Poecilozonites_, while his later work concentrated on the West Indian genus _Cerion_. According to Gould "_Cerion_ is the land snail of maximal diversity in form throughout the entire world. There are 600 described species of this single genus. In fact, they're not really species, they all interbreed, but the names exist to express a real phenomenon which is this incredible morphological diversity. Some are shaped like golf balls, some are shaped like pencils. ... Now my main subject is the evolution of form, and the problem of how it is that you can get this diversity amid so little genetic difference, so far as we can tell, is a very interesting one. And if we could solve this we'd learn something general about the evolution of form."[71]
+, Bahamas.]] Most of Gould's empirical research pertained to land snails. He focused his early work on the Bermudian genus _Poecilozonites_, while his later work concentrated on the West Indian genus _Cerion_. According to Gould "_Cerion_ is the land snail of maximal diversity in form throughout the entire world. There are 600 described species of this single genus. In fact, they're not really species, they all interbreed, but the names exist to express a real phenomenon which is this incredible morphological diversity. Some are shaped like golf balls, some are shaped like pencils. ... Now my main subject is the evolution of form, and the problem of how it is that you can get this diversity amid so little genetic difference, so far as we can tell, is a very interesting one. And if we could solve this we'd learn something general about the evolution of form."[71]
 
 Given _Cerion_{{'s}} extensive geographic diversity, Gould later lamented that if Christopher Columbus had only catalogued a single _Cerion_ it would have ended the scholarly debate about which island Columbus had first set foot on in America.[72]
 

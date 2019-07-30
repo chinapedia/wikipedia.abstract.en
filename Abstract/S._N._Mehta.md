@@ -1,1 +1,0 @@
-S. N. MEHTA was a noted Indian politician and Indian independence activist.[1][2] He was a member of the Indian National Congress party in Madhya Pradesh. He was a member of the Indian Constituent Assembly, the Provisional Parliament and the Rajya Sabha between 1952 and 1960. He became the Chief Minister of Vindhya Pradesh from April 1949 to March 1952.

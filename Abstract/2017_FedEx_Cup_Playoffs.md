@@ -1,1 +1,0 @@
-The 2017 FEDEX CUP PLAYOFFS, the series of four golf tournaments that determined the season champion on the U.S.-based PGA Tour, was played from August 24 to September 24. It included the following four events:

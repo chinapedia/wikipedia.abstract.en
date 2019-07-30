@@ -1,1 +1,0 @@
-_20 ANOS DEPOIS - AR DE ROCK_ (literally _Air of Rock_, meaning "a rock look"; a pun on hard rock: 20 Years Later) is a compilation album released by Portuguese rock singer Rui Veloso. The album was released in 2000.[1]

@@ -1,1 +1,0 @@
-Mount_Ararat_and_the_Araratian_plain_(cropped).jpg in the Caucasus, with the Ararat plain in foreground.]] In geography, a PLAIN is a flat, sweeping landmass that generally does not change much in elevation. Plains occur as lowlands along the bottoms of valleys or on the doorsteps of mountains, as coastal plains, and as plateaus or uplands.[1]

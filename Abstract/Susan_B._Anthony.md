@@ -1,1 +1,0 @@
-SUSAN B. ANTHONY (February 15, 1820 – March 13, 1906) was an American social reformer and women's rights activist who played a pivotal role in the women's suffrage movement. Born into a Quaker family committed to social equality, she collected anti-slavery petitions at the age of 17. In 1856, she became the New York state agent for the American Anti-Slavery Society.

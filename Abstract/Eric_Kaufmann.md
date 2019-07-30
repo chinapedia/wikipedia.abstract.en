@@ -1,1 +1,0 @@
-ERIC PETER KAUFMANN (born 11 May 1970) is a Canadian professor of politics at Birkbeck College, University of London. He is a specialist on Orangeism in Northern Ireland, nationalism, political demography and demography of the religious/irreligious.

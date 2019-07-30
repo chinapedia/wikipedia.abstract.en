@@ -1,1 +1,0 @@
-Queensgate_Terrace_2015.jpg

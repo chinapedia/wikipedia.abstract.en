@@ -1,5 +1,3 @@
-Signal_transduction_pathways.svg
-
 SIGNAL TRANSDUCTION is the process by which a chemical or physical signal is transmitted through a cell as a series of molecular events, most commonly protein phosphorylation catalyzed by protein kinases, which ultimately results in a cellular response. Proteins responsible for detecting stimuli are generally termed receptors, although in some cases the term sensor is used.[1] The changes elicited by ligand binding (or signal sensing) in a receptor give rise to a biochemical cascade, which is a chain of biochemical events as a signaling pathway.
 
 When signaling pathways interact with one another they form networks, which allow cellular responses to be coordinated, often by combinatorial signaling events.[2] At the molecular level, such responses include changes in the transcription or translation of genes, and post-translational and conformational changes in proteins, as well as changes in their location. These molecular events are the basic mechanisms controlling cell growth, proliferation, metabolism and many other processes.[3] In multicellular organisms, signal transduction pathways have evolved to regulate cell communication in a wide variety of ways.
@@ -9,7 +7,7 @@ Each component (or node) of a signaling pathway is classified according to the r
 
 Stimuli
 
-Signal_Transduction.jpg The basis for signal transduction is the transformation of a certain stimulus into a biochemical signal. The nature of such stimuli can vary widely, ranging from extracellular cues, such as the presence of EGF, to intracellular events, such as the DNA damage resulting from replicative telomere attrition.[7] Traditionally, signals that reach the central nervous system are classified as senses. These are transmitted from neuron to neuron in a process called synaptic transmission. Many other intercellular signal relay mechanisms exist in multicellular organisms, such as those that govern embryonic development.[8]
+The basis for signal transduction is the transformation of a certain stimulus into a biochemical signal. The nature of such stimuli can vary widely, ranging from extracellular cues, such as the presence of EGF, to intracellular events, such as the DNA damage resulting from replicative telomere attrition.[7] Traditionally, signals that reach the central nervous system are classified as senses. These are transmitted from neuron to neuron in a process called synaptic transmission. Many other intercellular signal relay mechanisms exist in multicellular organisms, such as those that govern embryonic development.[8]
 
 Ligands
 
@@ -65,8 +63,6 @@ As is the case with GPCRs, proteins that bind GTP play a major role in signal tr
 Histidine-specific protein kinases are structurally distinct from other protein kinases and are found in prokaryotes, fungi, and plants as part of a two-component signal transduction mechanism: a phosphate group from ATP is first added to a histidine residue within the kinase, then transferred to an aspartate residue on a receiver domain on a different protein or the kinase itself, thus activating the aspartate residue.[41]
 
 Integrins
-
-Integrin_sig_trans_overview.jpeg
 
 Integrins are produced by a wide variety of cells; they play a role in cell attachment to other cells and the extracellular matrix and in the transduction of signals from extracellular matrix components such as fibronectin and collagen. Ligand binding to the extracellular domain of integrins changes the protein's conformation, clustering it at the cell membrane to initiate signal transduction. Integrins lack kinase activity; hence, integrin-mediated signal transduction is achieved through a variety of intracellular protein kinases and adaptor molecules, the main coordinator being integrin-linked kinase.[42] As shown in the adjacent picture, cooperative integrin-RTK signaling determines the timing of cellular survival, apoptosis, proliferation, and differentiation.
 
@@ -150,7 +146,7 @@ Following are some major signaling pathways, demonstrating how ligands binding t
 
 History
 
-Signal_transduction_publications_graph.jpeg-indexed papers since 1977.]] The earliest notion of signal transduction can be traced back to 1855, when Claude Bernard proposed that ductless glands such as the spleen, the thyroid and adrenal glands, were responsible for the release of "internal secretions" with physiological effects.[64] Bernard's "secretions" were later named "hormones" by Ernest Starling in 1905.[65] Together with William Bayliss, Starling had discovered secretin in 1902.[66] Although many other hormones, most notably insulin, were discovered in the following years, the mechanisms remained largely unknown.
+-indexed papers since 1977.]] The earliest notion of signal transduction can be traced back to 1855, when Claude Bernard proposed that ductless glands such as the spleen, the thyroid and adrenal glands, were responsible for the release of "internal secretions" with physiological effects.[64] Bernard's "secretions" were later named "hormones" by Ernest Starling in 1905.[65] Together with William Bayliss, Starling had discovered secretin in 1902.[66] Although many other hormones, most notably insulin, were discovered in the following years, the mechanisms remained largely unknown.
 
 The discovery of nerve growth factor by Rita Levi-Montalcini in 1954, and epidermal growth factor by Stanley Cohen in 1962, led to more detailed insights into the molecular basis of cell signaling, in particular growth factors.[67] Their work, together with Earl Wilbur Sutherland's discovery of cyclic AMP in 1956, prompted the redefinition of endocrine signaling to include only signaling from glands, while the terms autocrine and paracrine began to be used.[68] Sutherland was awarded the 1971 Nobel Prize in Physiology or Medicine, while Levi-Montalcini and Cohen shared it in 1986.
 

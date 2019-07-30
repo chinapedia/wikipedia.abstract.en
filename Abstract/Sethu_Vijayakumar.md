@@ -1,1 +1,0 @@
-Sethu_Vijayakumar.jpg SETHU VIJAYAKUMAR FRSE is Professor of Robotics[1] at the University of Edinburgh and a judge[2] on the BBC2 show _Robot Wars_. He was instrumental in bringing the first [3][4][5] NASA Valkyrie[6] humanoid robot out of the United States of America, and to Europe, where it is a focus of research at Edinburgh Centre for Robotics.[7][8]

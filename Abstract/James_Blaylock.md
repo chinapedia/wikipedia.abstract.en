@@ -1,1 +1,0 @@
-JAMES PAUL BLAYLOCK (born September 20, 1950) is an American fantasy author.[1] He is noted for a distinctive, humorous style, as well as being one of the pioneers of the steampunk genre of science fiction. Blaylock has cited Jules Verne, H. G. Wells, Robert Louis Stevenson, Arthur Conan Doyle and Charles Dickens as his inspirations.[2]

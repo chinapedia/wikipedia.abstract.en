@@ -1,1 +1,0 @@
-JERZY CIESIELSKI (12 February 1929 – 9 October 1970) was a Polish Roman Catholic from Kraków and a member from the Focolare Movement.[1] Ciesielski was married and was also a close personal friend of Karol Józef Wojtyła – the future Pope John Paul II. Ciesielski worked as a professor and was a civic engineer himself and died in an accidental shipwreck in the Nile River.[2][3][4]

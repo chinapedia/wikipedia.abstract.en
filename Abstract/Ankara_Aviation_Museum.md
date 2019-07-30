@@ -1,1 +1,0 @@
-ANKARA AVIATION MUSEUM () is a military-based museum for aviation, owned and operated by the Turkish Air Force. The museum is located in Etimesgut district of Ankara, Turkey. The area of the museum is .

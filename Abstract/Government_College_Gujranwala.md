@@ -1,1 +1,0 @@
-GOVERNMENT COLLEGE GUJRANWALA (گورنمنٹ کالج گوجرانوالہ) is the oldest educational institution of Gujranwala Division.The foundation stone was laid by the Education Adviser of the Government of Pakistan M.Sharif, Esquire, M.A on March 1, 1955.'''

@@ -1,1 +1,0 @@
-MAPPILLAI () is a 2016-2017 Tamil-language television soap opera starring Senthil Kumar and Sreeja Chandran. STAR Vijay initially broadcast the series on weeknights at 9:00PM (IST), with the debut episode screened on 14 November 2016.[1] On 26 June 2017, the broadcast time of the show was changed to 8:00PM (IST).

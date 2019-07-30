@@ -1,1 +1,0 @@
-The 2016 ETHIAS TROPHY was a professional tennis tournament played on hard courts. It was the twelfth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Mons, Belgium between 3 October and 9 October 2016.

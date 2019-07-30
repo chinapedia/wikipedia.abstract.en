@@ -1,1 +1,0 @@
-The 2017 KANSAS CITY CHIEFS SEASON was the franchise's 48th season in the National Football League, the 55th as the Kansas City Chiefs, the 58th overall, the fifth under head coach Andy Reid, and first under general manager Brett Veach.

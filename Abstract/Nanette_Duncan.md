@@ -1,1 +1,0 @@
-NANETTE DUNCAN (born 9 July 1947) is an Australian former swimmer. She competed in three events at the 1964 Summer Olympics.[1] Nanette grew up in Bankstown, she was coached by Don Talbot and attended the Presbyterian Ladies College, Sydney.[2]

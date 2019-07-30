@@ -14,8 +14,6 @@ The recommended three-letter abbreviation for the constellation, as adopted by t
 
 Features
 
-TaurusCC.jpg
-
 During November, the Taurid meteor shower appears to radiate from the general direction of this constellation. The Beta Taurid meteor shower occurs during the months of June and July in the daytime, and is normally observed using radio techniques.[7] Between 18 and 29 October, both the Northern Taurids and the Southern Taurids are active; though the latter stream is stronger.[8] However, between November 1 and 10, the two streams equalize.[9]
 
 The brightest member of this constellation is Aldebaran, an orange-hued, spectral class K5 III giant star.[10] Its name derives from __, Arabic for "the follower", probably from the fact that it follows the Pleiades during the nightly motion of the celestial sphere across the sky.[11] Forming the profile of a Bull's face is a _V_ or _K_-shaped asterism of stars. This outline is created by prominent members of the Hyades,[12] the nearest distinct open star cluster after the Ursa Major Moving Group.[13] In this profile, Aldebaran forms the bull's bloodshot eye, which has been described as "glaring menacingly at the hunter Orion",[14] a constellation that lies just to the southwest. The Hyades span about 5° of the sky, so that they can only be viewed in their entirety with binoculars or the unaided eye. It includes a naked eye double star, Theta Tauri (the proper name of Theta² Tauri is _Chakumuy_)[15], with a separation of 5.6 arcminutes.[16]
@@ -42,11 +40,11 @@ A degree to the northwest of ζ Tauri is the Crab Nebula (M1), a supernova remna
 
 The star Lambda (λ) Tauri is an eclipsing binary star. This system consists of a spectral class B3 star being orbited by a less massive class A4 star. The plane of their orbit lies almost along the line of sight to the Earth. Every 3.953 days the system temporarily decreases in brightness by 1.1 magnitudes as the brighter star is partially eclipsed by the dimmer companion. The two stars are separated by only 0.1 astronomical units, so their shapes are modified by mutual tidal interaction. This results in a variation of their net magnitude throughout each orbit.[25]
 
-Central_area_of_constellation_Taurus.jpg at the lower left.]]
+at the lower left.]]
 
 Located about 1.8° west of Epsilon (ε) Tauri is T Tauri, the prototype of a class of variable stars called T Tauri stars. This star undergoes erratic changes in luminosity, varying between magnitude 9 to 13 over a period of weeks or months.[26] This is a newly formed stellar object that is just emerging from its envelope of gas and dust, but has not yet become a main sequence star.[27] The surrounding reflection nebula NGC 1555 is illuminated by T Tauri, and thus is also variable in luminosity.[28] To the north lies Kappa Tauri, a visual double star consisting of two A7-type components. The pair have a separation of just 5.6 arc minutes, making them a challenge to split with the naked eye.
 
-Nebula_in_Taurus.jpg, a nebula]]
+, a nebula]]
 
 This constellation includes part of the Taurus-Auriga complex, or Taurus dark clouds, a star-forming region containing sparse, filamentary clouds of gas and dust. This spans a diameter of and contains 35,000 solar masses of material, which is both larger and less massive than the Orion Nebula.[29] At a distance of , this is one of the nearest active star forming regions.[30] Located in this region, about 10° to the northeast of Aldebaran, is an asterism NGC 1746 spanning a width of 45 arcminutes.
 

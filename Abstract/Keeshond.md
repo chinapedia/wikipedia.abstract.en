@@ -1,1 +1,0 @@
-The KEESHOND ( , plur. KEESHONDEN) is a medium-sized dog with a plush, two-layer coat of silver and black fur with a ruff and a curled tail. It originated in Holland, and its closest relatives are the German spitzes such as the _Großspitz_ (Large Spitz), _Mittelspitz_ (Medium Spitz), _Kleinspitz_ (Miniature Spitz), _Zwergspitz_ (Dwarf-Spitz) or Pomeranian.

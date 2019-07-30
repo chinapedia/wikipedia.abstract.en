@@ -1,1 +1,0 @@
-The JAPAN SELF-DEFENSE FORCE BASE DJIBOUTI () is a military base operated by the Japan Self-Defense Forces (JSDF) located near in Ambouli, Djibouti. Aircraft based here use the Djibouti–Ambouli International Airport runway. It is the JSDF's first full-scale, long term overseas base.

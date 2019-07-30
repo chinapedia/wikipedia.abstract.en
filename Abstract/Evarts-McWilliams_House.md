@@ -1,1 +1,0 @@
-The EVARTS-MCWILLIAMS HOUSE is a historic house on Georgia Shore Road in Georgia, Vermont. Built about 1799, it is a prominent example of Federal period architecture in northwestern Vermont. It was listed on the National Register of Historic Places in 1982.[1]

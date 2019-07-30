@@ -7,13 +7,13 @@ Traditionally, the Sámi have pursued a variety of livelihoods, including coasta
 
 Etymologies
 
-François-Auguste_Biard_-_Un_Lapon.jpg.]] Sámi refer to themselves as _Sámit_ (the Sámis) or _Sápmelaš_ (of Sámi kin), the word _Sámi_ being inflected into various grammatical forms. It has been proposed that Sámi (presumably borrowed from the Proto-Finnic word), _Häme_ (Finnish for 'Tavastia') ( ← Proto-Finnic *_šämä_, the second _ä_ still being found in the archaic derivation _HämÄläinen_), and perhaps _Suomi_ (Finnish for 'Finland') (← *_sōme-_/_sōma-_, compare _suomAlainen_, supposedly borrowed from a Proto-Germanic source *_sōma-_ from Proto-Baltic *_sāma-_, in turn borrowed from Proto-Finnic *_šämä_) are of the same origin and ultimately borrowed from the Baltic word _*žēmē_, meaning 'land'.[4] The Baltic word is cognate with Slavic _zemlja_ (земля), which also means 'land'.[5] The Sámi institutions – notably the parliaments, radio and TV stations, theatres, etc. – all use the term _Sámi_, including when addressing outsiders in Norwegian, Swedish, Finnish, or English. In Norwegian, the Sámi are today referred to by the Norwegianized form _Same_.
+.]] Sámi refer to themselves as _Sámit_ (the Sámis) or _Sápmelaš_ (of Sámi kin), the word _Sámi_ being inflected into various grammatical forms. It has been proposed that Sámi (presumably borrowed from the Proto-Finnic word), _Häme_ (Finnish for 'Tavastia') ( ← Proto-Finnic *_šämä_, the second _ä_ still being found in the archaic derivation _HämÄläinen_), and perhaps _Suomi_ (Finnish for 'Finland') (← *_sōme-_/_sōma-_, compare _suomAlainen_, supposedly borrowed from a Proto-Germanic source *_sōma-_ from Proto-Baltic *_sāma-_, in turn borrowed from Proto-Finnic *_šämä_) are of the same origin and ultimately borrowed from the Baltic word _*žēmē_, meaning 'land'.[4] The Baltic word is cognate with Slavic _zemlja_ (земля), which also means 'land'.[5] The Sámi institutions – notably the parliaments, radio and TV stations, theatres, etc. – all use the term _Sámi_, including when addressing outsiders in Norwegian, Swedish, Finnish, or English. In Norwegian, the Sámi are today referred to by the Norwegianized form _Same_.
 
 The first probable historical mention of the Sámi, naming them _Fenni_, was by Tacitus, about 98 A.D.[6] Variants of _Finn_ or _Fenni_ were in wide use in ancient times, judging from the names _Fenni_ and _Phinnoi_ in classical Roman and Greek works. _Finn_ (or variants, such as _skridfinn_, 'striding Finn') was the name originally used by Norse speakers (and their proto-Norse speaking ancestors) to refer to the Sámi, as attested in the Icelandic Eddas and Norse sagas (11th to 14th centuries). The etymology is somewhat uncertain, but the consensus seems to be that it is related to Old Norse _finna_, from proto-Germanic *finthanan ('to find'),[7] the logic being that the Sámi, as hunter-gatherers "found" their food, rather than grew it. As Old Norse gradually developed into the separate Scandinavian languages, Swedes apparently took to using _Finn_ to refer to inhabitants of what is now Finland, while the Sámi came to be called _Lapps_. In Norway, however, Sámi were still called _Finns_ at least until the modern era (reflected in toponyms like Finnmark, Finnsnes, Finnfjord and Finnøy), and some northern Norwegians will still occasionally use _Finn_ to refer to Sámi people, although the Sámi themselves now consider this to be an inappropriate term. Finnish immigrants to Northern Norway in the 18th and 19th centuries were referred to as Kvens to distinguish them from the Sámi "Finns". Ethnic Finns (Suomi) are a distinct group from Sámi.
 
 Lapp
 
-Laureus,_Lappalaisia_nuotiolla_(cropped).jpg's painting of the Sámi by the fire]] The word _Lapp_ can be traced to Old Swedish _lapper_, Icelandic _lappir_ (plural) of Finnish origin; compare Finnish _lappalainen_ "Lapp", _Lappi_ "Lapland" (possibly meaning "wilderness in the north"), the original meaning being unknown.[8][9] It is unknown how the word _Lapp_ came into the Norse language, but one of the first written mentions of the term is in the _Gesta Danorum_ by 12th-century Danish historian Saxo Grammaticus, who referred to _the two Lappias_, although he still referred to the Sámi as (Skrid-)Finns.[10][11] In fact, Saxo never explicitly connects the Sámi with the "two Laplands". The term "Lapp" was popularized and became the standard terminology by the work of Johannes Schefferus, _Acta Lapponica_ (1673).
+'s painting of the Sámi by the fire]] The word _Lapp_ can be traced to Old Swedish _lapper_, Icelandic _lappir_ (plural) of Finnish origin; compare Finnish _lappalainen_ "Lapp", _Lappi_ "Lapland" (possibly meaning "wilderness in the north"), the original meaning being unknown.[8][9] It is unknown how the word _Lapp_ came into the Norse language, but one of the first written mentions of the term is in the _Gesta Danorum_ by 12th-century Danish historian Saxo Grammaticus, who referred to _the two Lappias_, although he still referred to the Sámi as (Skrid-)Finns.[10][11] In fact, Saxo never explicitly connects the Sámi with the "two Laplands". The term "Lapp" was popularized and became the standard terminology by the work of Johannes Schefferus, _Acta Lapponica_ (1673).
 
 The Sámi are often known in other languages by the exonyms _Lap_, _Lapp_, or _Laplanders_, although these are considered derogatory terms,[12][13][14] while others accept at least the name _Lappland_.[15] Variants of the name _Lapp_ were originally used in Sweden and Finland and, through Swedish, adopted by many major European languages: ; German, ; ; (_Lápōnes_); ; ; ; ; ; ; . In Russian the corresponding term is лопари́ (_lopari_) and in Ukrainian лопарі́ (_lopari_).
 
@@ -24,7 +24,7 @@ Terminological issues in Finnish are somewhat different. Finns living in Finnish
 
 History
 
-LocationSapmi.png Saami_Family_1900.jpg The Sámi people of Arctic Europe have lived and worked in an area that stretches over the northern parts of the regions now known as Norway, Sweden, Finland, and the Russian Kola Peninsula. They have inhabited the northern arctic and sub-arctic regions of Fenno-Scandinavia for 3500 years.[16] Before that they were probably living in the Finno-Ugric homeland.[17][18][19] The Sámi are counted among the Arctic peoples and are members of circumpolar groups such as the Arctic Council Indigenous Peoples' Secretariat.[20]
+The Sámi people of Arctic Europe have lived and worked in an area that stretches over the northern parts of the regions now known as Norway, Sweden, Finland, and the Russian Kola Peninsula. They have inhabited the northern arctic and sub-arctic regions of Fenno-Scandinavia for 3500 years.[16] Before that they were probably living in the Finno-Ugric homeland.[17][18][19] The Sámi are counted among the Arctic peoples and are members of circumpolar groups such as the Arctic Council Indigenous Peoples' Secretariat.[20]
 
 Petroglyphs and archeological findings such as settlements dating from about 10,000 BC can be found in Lapland and Finnmark.[21] These hunters and gatherers of the late Paleolithic and early Mesolithic were named Komsa by the researchers, as what they identified themselves as is unknown.
 
@@ -32,21 +32,19 @@ The geographical distribution of the Sami has evolved over the course of history
 
 Southern limits of Sámi settlement in the past
 
-Lapper_og_Reinsdyr.jpg How far south the Sami extended in the past has been debated among historians and archeologists for many years. The Norwegian historian Yngvar Nielsen, commissioned by the Norwegian government in 1889 to determine this question to settle contemporary questions of Sámi land rights, concluded that the Sami had lived no farther south than Lierne in Nord-Trøndelag county until around 1500, when they started moving south, reaching the area around Lake Femund in the 18th century.[29] This hypothesis is still accepted among many historians, but has been the subject of scholarly debate in the 21st century. In recent years, several archaeological finds indicate a Sámi presence in southern Norway in the Middle Ages, and southern Sweden,[30] including finds in Lesja, in Vang, in Valdres and in Hol and Ål in Hallingdal.[31] Proponents of the Sámi interpretations of these finds assume a mixed population of Norse and Sámi people in the mountainous areas of southern Norway in the Middle Ages.[32]
+How far south the Sami extended in the past has been debated among historians and archeologists for many years. The Norwegian historian Yngvar Nielsen, commissioned by the Norwegian government in 1889 to determine this question to settle contemporary questions of Sámi land rights, concluded that the Sami had lived no farther south than Lierne in Nord-Trøndelag county until around 1500, when they started moving south, reaching the area around Lake Femund in the 18th century.[29] This hypothesis is still accepted among many historians, but has been the subject of scholarly debate in the 21st century. In recent years, several archaeological finds indicate a Sámi presence in southern Norway in the Middle Ages, and southern Sweden,[30] including finds in Lesja, in Vang, in Valdres and in Hol and Ål in Hallingdal.[31] Proponents of the Sámi interpretations of these finds assume a mixed population of Norse and Sámi people in the mountainous areas of southern Norway in the Middle Ages.[32]
 
 Origins of the Norwegian Sea Sámi
 
-Three_Sámi_Lapp_women,_c1890s.jpg
-
 Bubonic plague
 
-1928_Lyngen_Troms_Norway_group_Mountain_Sami_people_Photo_pcard.jpg Until the arrival of bubonic plague in northern Norway in 1349, the Sámi and the Norwegians occupied very separate economic niches.[33] The Sámi hunted reindeer and fished for their livelihood. The Norwegians, who were concentrated on the outer islands and near the mouths of the fjords, had access to the major European trade routes so that, in addition to marginal farming in the Nordland, Troms, and Finnmark counties, they were able to establish commerce, supplying fish in trade for products from the south.[34] The two groups co-existed using two different food resources.[35] According to old Nordic texts, the Sea Sámi and the Mountain Sámi are two classes of the same people and not two different ethnic groups, as had been erroneously believed.[36]
+Until the arrival of bubonic plague in northern Norway in 1349, the Sámi and the Norwegians occupied very separate economic niches.[33] The Sámi hunted reindeer and fished for their livelihood. The Norwegians, who were concentrated on the outer islands and near the mouths of the fjords, had access to the major European trade routes so that, in addition to marginal farming in the Nordland, Troms, and Finnmark counties, they were able to establish commerce, supplying fish in trade for products from the south.[34] The two groups co-existed using two different food resources.[35] According to old Nordic texts, the Sea Sámi and the Mountain Sámi are two classes of the same people and not two different ethnic groups, as had been erroneously believed.[36]
 
 This social economic balance greatly changed when bubonic plague came to northern Norway in December 1349. The Norwegians were closely connected to the greater European trade routes, along which the plague traveled; consequently, they were infected and died at a far higher rate than Sámi in the interior. Of all the states in the region, Norway suffered the most from this plague.[37] Depending on the parish, sixty to seventy-six percent of the northern Norwegian farms were abandoned following the plague,[38] while land-rents, another possible measure of the population numbers, dropped down to 9–28% of pre-plague rents.[39] Although the population of northern Norway is sparse compared to southern Europe, the disease spread just as fast.[40] The method of movement of the plague-infested flea _(Xenopsylla cheopsis)_ from the south was in wooden barrels holding wheat, rye, or wool, where the fleas could live, and even reproduce, for several months at a time.[41] But the Sámi ate fish and reindeer meat, and did not eat wheat or rye. They lived in communities detached from the Norwegians, and being only weakly connected to the European trade routes, they fared far better than the Norwegians.[42]
 
 Fishing industry
 
-Sjøsamisk_Mann_Finnmark_Norge_Ivar_Samuelsen_1884_av_Bonaparte.jpg by Prince Roland Bonaparte in 1884]] Sea_sami_man.jpg in 1884]] Fishing has always been the main livelihood for the many Sámi living permanently in coastal areas.[43] Archeological research shows that the Sámi have lived along the coast and once lived much farther south in the past, and they were also involved in work other than reindeer herding (e.g., fishing, agriculture, iron work).[44] The fishing along the north Norwegian coast, especially in the Lofoten and Vesterålen islands, is quite productive with a variety of fish, and during medieval times, it was a major source of income for both the fisherman and the Norwegian monarchy.[45] With such massive population drops caused by the Black Death, the tax revenues from this industry greatly diminished. Because of the huge economic profits that could be had from these fisheries, the local authorities offered incentives to the Sámi—faced with their own population pressures—to settle on the newly vacant farms.[46] This started the economic division between the Sea Sámi (_sjøsamene_), who fished extensively off the coast, and the Mountain Sámi (_fjellsamene, innlandssamene_), who continued to hunt reindeer and small-game animals. They later herded reindeer. Even as late as the early 18th century, there were many Sámi who were still settling on these farms left abandoned from the 1350s.[47][48] After many years of continuous migration, these Sea Sámi became far more numerous than the reindeer mountain Sámi, who today only make up 10% of all Sámi. In contemporary times, there are also ongoing consultations between the Government of Norway and the Sámi Parliament regarding the right of the coastal Sámi to fish in the seas on the basis of historical use and international law.[49] State regulation of sea fisheries underwent drastic change in the late 1980s. The regulation linked quotas to vessels and not to fishers. These newly calculated quotas were distributed free of charge to larger vessels on the basis of the amount of the catch in previous years, resulting in small vessels in Sámi districts falling outside the new quota system to a large degree.[50][51]
+by Prince Roland Bonaparte in 1884]] in 1884]] Fishing has always been the main livelihood for the many Sámi living permanently in coastal areas.[43] Archeological research shows that the Sámi have lived along the coast and once lived much farther south in the past, and they were also involved in work other than reindeer herding (e.g., fishing, agriculture, iron work).[44] The fishing along the north Norwegian coast, especially in the Lofoten and Vesterålen islands, is quite productive with a variety of fish, and during medieval times, it was a major source of income for both the fisherman and the Norwegian monarchy.[45] With such massive population drops caused by the Black Death, the tax revenues from this industry greatly diminished. Because of the huge economic profits that could be had from these fisheries, the local authorities offered incentives to the Sámi—faced with their own population pressures—to settle on the newly vacant farms.[46] This started the economic division between the Sea Sámi (_sjøsamene_), who fished extensively off the coast, and the Mountain Sámi (_fjellsamene, innlandssamene_), who continued to hunt reindeer and small-game animals. They later herded reindeer. Even as late as the early 18th century, there were many Sámi who were still settling on these farms left abandoned from the 1350s.[47][48] After many years of continuous migration, these Sea Sámi became far more numerous than the reindeer mountain Sámi, who today only make up 10% of all Sámi. In contemporary times, there are also ongoing consultations between the Government of Norway and the Sámi Parliament regarding the right of the coastal Sámi to fish in the seas on the basis of historical use and international law.[49] State regulation of sea fisheries underwent drastic change in the late 1980s. The regulation linked quotas to vessels and not to fishers. These newly calculated quotas were distributed free of charge to larger vessels on the basis of the amount of the catch in previous years, resulting in small vessels in Sámi districts falling outside the new quota system to a large degree.[50][51]
 
 Mountain Sámi
 
@@ -66,7 +64,7 @@ The controversy over the construction of the hydro-electric power station in Alt
 
 Contemporary
 
-The indigenous Sami population is a mostly urbanised demographic, but a substantial number live in villages in the high arctic. The Sami are still coping with the cultural consequences of language and culture loss related to generations of Sami children taken to missionary and/or state-run boarding schools and the legacy of laws that were created to deny the Sami rights (e.g., to their beliefs, language, land and to the practice of traditional livelihoods). The Sami are experiencing cultural and environmental threats,[55] including oil exploration, mining, dam building, logging, climate change, military bombing ranges, tourism and commercial development. Syterskalet.jpg
+The indigenous Sami population is a mostly urbanised demographic, but a substantial number live in villages in the high arctic. The Sami are still coping with the cultural consequences of language and culture loss related to generations of Sami children taken to missionary and/or state-run boarding schools and the legacy of laws that were created to deny the Sami rights (e.g., to their beliefs, language, land and to the practice of traditional livelihoods). The Sami are experiencing cultural and environmental threats,[55] including oil exploration, mining, dam building, logging, climate change, military bombing ranges, tourism and commercial development.
 
 Natural-resource prospecting
 
@@ -86,7 +84,7 @@ Government authorities and NATO have built bombing-practice ranges in Sami areas
 
 Land rights
 
-Suorvajaure_in_stora_sjofallet_park.jpg near Piteå]] The Swedish government has allowed the world's largest onshore wind farm to be built in Piteå, in the Arctic region where the Eastern Kikkejaure village has its winter reindeer pastures. The wind farm will consist of more than 1,000 wind turbines and an extensive road infrastructure, which means that the feasibility of using the area for winter grazing in practice is impossible. Sweden has received strong international criticism, including by the UN Racial Discrimination Committee and the Human Rights Committee, that Sweden violates Sami _landrättigheter_ (land rights), including by not regulating industry. In Norway some Sami politicians (for example – Aili Keskitalo) suggest giving the Sami Parliament a special veto right on planned mining projects.[66]
+near Piteå]] The Swedish government has allowed the world's largest onshore wind farm to be built in Piteå, in the Arctic region where the Eastern Kikkejaure village has its winter reindeer pastures. The wind farm will consist of more than 1,000 wind turbines and an extensive road infrastructure, which means that the feasibility of using the area for winter grazing in practice is impossible. Sweden has received strong international criticism, including by the UN Racial Discrimination Committee and the Human Rights Committee, that Sweden violates Sami _landrättigheter_ (land rights), including by not regulating industry. In Norway some Sami politicians (for example – Aili Keskitalo) suggest giving the Sami Parliament a special veto right on planned mining projects.[66]
 
 Water rights
 
@@ -98,7 +96,7 @@ In Norway, government plans for the construction of a hydroelectric power plant 
 
 Climate change and environment
 
-Nordkappsami.jpg Reindeer have major cultural and economic significance for indigenous peoples of the North. The human-ecological systems in the North, like reindeer pastoralism, are sensitive to change, perhaps more than in virtually any other region of the globe, due in part to the variability of the Arctic climate and ecosystem and the characteristic ways of life of indigenous Arctic peoples.[68]
+Reindeer have major cultural and economic significance for indigenous peoples of the North. The human-ecological systems in the North, like reindeer pastoralism, are sensitive to change, perhaps more than in virtually any other region of the globe, due in part to the variability of the Arctic climate and ecosystem and the characteristic ways of life of indigenous Arctic peoples.[68]
 
 The 1986 Chernobyl nuclear disaster caused nuclear fallout in the sensitive Arctic ecosystems and poisoned fish, meat[69] and berries. Lichens and mosses are two of the main forms of vegetation in the Arctic and are highly susceptible to airborne pollutants and heavy metals. Since many do not have roots, they absorb nutrients, and toxic compounds, through their leaves. The lichens accumulated airborne radiation, and 73,000 reindeer had to be killed as "unfit" for human consumption in Sweden alone. The government promised Sami indemnification, which was not acted upon by government.
 
@@ -123,7 +121,7 @@ Official Sámi policy
 
 Norway
 
-Samediggi03.jpg]] The Sami have been recognized as an indigenous people in Norway (1990 according to ILO convention 169 as described below), and therefore, according to international law, the Sami people in Norway are entitled special protection and rights. The legal foundation of the Sami policy is:[78]
+]] The Sami have been recognized as an indigenous people in Norway (1990 according to ILO convention 169 as described below), and therefore, according to international law, the Sami people in Norway are entitled special protection and rights. The legal foundation of the Sami policy is:[78]
 
 -   Article 110a of the Norwegian Constitution.
 -   The Sami Act (act of 12 June 1987 No. 56 concerning the Sami Parliament (the Sámediggi) and other legal matters pertaining to the Samis).
@@ -136,7 +134,7 @@ The Sami Act provides special rights for the Sami people (ibid.):
 -   The Sami people shall decide the area of activity of the Norwegian Sami Parliament.
 -   The Sami and Norwegian languages have equal standing in Norway (section 15; Chapter 3 contains details with regards to the use of the Sami language).
 
-View_from_Bárrás.jpg near Hammerfest]]
+near Hammerfest]]
 
 In addition, the Sami have special rights to reindeer husbandry.
 
@@ -157,7 +155,7 @@ In 2007, the Norwegian Parliament passed the new Reindeer Herding Act acknowledg
 
 Sweden
 
-Sametinget_-_Sami_Parliament_of_Sweden.JPG in Sweden]] The Sametingslag was established as the Swedish Sami Parliament as of 1 January 1993. Sweden recognised the existence of the "Sami nation" in 1989, but the ILO Indigenous and Tribal Peoples Convention, C169 has not been adopted.
+in Sweden]] The Sametingslag was established as the Swedish Sami Parliament as of 1 January 1993. Sweden recognised the existence of the "Sami nation" in 1989, but the ILO Indigenous and Tribal Peoples Convention, C169 has not been adopted.
 
 The Compulsory School Ordinance states that Sami pupils are entitled to be taught in their native language; however, a municipality is only obliged to arrange mother-tongue teaching in Sami if a suitable teacher is available and the pupil has a basic knowledge of Sami.[82]
 
@@ -169,7 +167,7 @@ Sami is one of five national minority languages recognized by Swedish law.[84]
 
 Finland
 
-Yllastunturi_Finland.jpg]] The act establishing the Finnish Sami Parliament (Finnish: Saamelaiskäräjät) was passed on November 9, 1973. Finland recognized the Sami as a "people" in 1995, but they have yet to ratify ILO Convention 169 Concerning Indigenous and Tribal Peoples. Map_of_Lapland,_Finland-fi.svg. The three northernmost municipalities Utsjoki, Inari and Enontekiö and part of Sodankylä is officially considered the Sami area.]]
+]] The act establishing the Finnish Sami Parliament (Finnish: Saamelaiskäräjät) was passed on November 9, 1973. Finland recognized the Sami as a "people" in 1995, but they have yet to ratify ILO Convention 169 Concerning Indigenous and Tribal Peoples. . The three northernmost municipalities Utsjoki, Inari and Enontekiö and part of Sodankylä is officially considered the Sami area.]]
 
 Finland ratified the 1966 U.N. Covenant on Civil and Political Rights though several cases have been brought before the U.N. Human Rights Committee. Of those, 36 cases involved a determination of the rights of individual Sami in Finland and Sweden. The committee decisions clarify that Sami are members of a minority within the meaning of Article 27 and that deprivation or erosion of their rights to practice traditional activities that are an essential element of their culture do come within the scope of Article 27.[85] The case of J. Lansman versus Finland concerned a challenge by Sami reindeer herders in northern Finland to the Finnish Central Forestry Board's plans to approve logging and construction of roads in an area used by the herdsmen as winter pasture and spring calving grounds.[86]
 
@@ -181,7 +179,7 @@ Sami people have had very little representation in Finnish national politics. In
 
 Russia
 
-Kildin_Saami_map.JPG Lovozero_Center.JPG.]]
+.]]
 
 Russia has not adopted the ILO Indigenous and Tribal Peoples Convention, C169. During the Soviet times the inhabitants of the Kola tundra were forcibly relocated to kolkhoz'es (collective communities) by the state;[89] most Saami were settled at Lujávri (Lovozero).
 
@@ -197,11 +195,11 @@ In April 1999, the Russian Duma passed a law that guarantees socio-economic and 
 
 The Russian Federation's Land Code reinforces the rights of numerically small peoples ("indigenous minorities") to use places they inhabit and to continue traditional economic activities without being charged rent.[103][104] Such lands cannot be allocated for unrelated activities (which might include oil, gas, and mineral development or tourism) without the consent of the indigenous peoples. Furthermore, indigenous minorities and ethnic groups are allowed to use environmentally protected lands and lands set aside as nature preserves to engage in their traditional modes of land use.[105]
 
-Regional law, Code of the Murmansk Oblast, calls on the organs of state power of the oblast to facilitate the native peoples of the Kola North, specifically naming the Sami, "in realization of their rights for preservation and development of their native language, national culture, traditions and customs." The third section of Article 21 states: "In historically established areas of habitation, Sami enjoy the rights for traditional use of nature and [traditional] activities."[106] Мурманская_гавань.jpg in the Kola Bay]]
+Regional law, Code of the Murmansk Oblast, calls on the organs of state power of the oblast to facilitate the native peoples of the Kola North, specifically naming the Sami, "in realization of their rights for preservation and development of their native language, national culture, traditions and customs." The third section of Article 21 states: "In historically established areas of habitation, Sami enjoy the rights for traditional use of nature and [traditional] activities."[106] in the Kola Bay]]
 
-Throughout the Russian North, indigenous and local people have difficulties with exercising control over resources upon which they and their ancestors have depended for centuries. The failure to protect indigenous ways, however, stems not from inadequacy of the written law, but rather from the failure to implement existing laws. Unfortunately, violations of the rights of indigenous peoples continue, and oil, gas, and mineral development and other activities, (mining, timber cutting, commercial fishing, and tourism) that bring foreign currency into the Russian economy, prevail over the rule of law.[107] Chibini_massif_and_lake_imandra.jpg]]
+Throughout the Russian North, indigenous and local people have difficulties with exercising control over resources upon which they and their ancestors have depended for centuries. The failure to protect indigenous ways, however, stems not from inadequacy of the written law, but rather from the failure to implement existing laws. Unfortunately, violations of the rights of indigenous peoples continue, and oil, gas, and mineral development and other activities, (mining, timber cutting, commercial fishing, and tourism) that bring foreign currency into the Russian economy, prevail over the rule of law.[107] ]]
 
-The life ways and economy of indigenous peoples of the Russian North are based upon reindeer herding, fishing, terrestrial and sea mammal hunting, and trapping. Many groups in the Russian Arctic are semi-nomadic, moving seasonally to different hunting and fishing camps. These groups depend upon different types of environment at differing times of the year, rather than upon exploiting a single commodity to exhaustion.[108][109] Throughout northwestern Siberia, oil and gas development has disturbed pastureland and undermined the ability of indigenous peoples to continue hunting, fishing, trapping, and herding activities. Roads constructed in connection with oil and gas exploration and development destroy and degrade pastureland,[110] ancestral burial grounds, and sacred sites and increase hunting by oil workers on the territory used by indigenous peoples.[111] Краснощелье.jpg village on the Ponoi River]]
+The life ways and economy of indigenous peoples of the Russian North are based upon reindeer herding, fishing, terrestrial and sea mammal hunting, and trapping. Many groups in the Russian Arctic are semi-nomadic, moving seasonally to different hunting and fishing camps. These groups depend upon different types of environment at differing times of the year, rather than upon exploiting a single commodity to exhaustion.[108][109] Throughout northwestern Siberia, oil and gas development has disturbed pastureland and undermined the ability of indigenous peoples to continue hunting, fishing, trapping, and herding activities. Roads constructed in connection with oil and gas exploration and development destroy and degrade pastureland,[110] ancestral burial grounds, and sacred sites and increase hunting by oil workers on the territory used by indigenous peoples.[111] village on the Ponoi River]]
 
 In the Sami homeland on the Kola Peninsula in northwestern Russia, regional authorities closed a fifty-mile (eighty-kilometer) stretch of the Ponoi River (and other rivers) to local fishing and granted exclusive fishing rights to a commercial company offering catch-and-release fishing to sport fishers largely from abroad.[112] This deprived the local Sami (see Article 21 of the Code of the Murmansk Oblast) of food for their families and community and of their traditional economic livelihood. Thus, closing the fishery to locals may have violated the test articulated by the U.N. Human Rights Committee and disregarded the Land Code, other legislative acts, and the 1992 Presidential decree. Sami are not only forbidden to fish in the eighty-kilometer stretch leased to the Ponoi River Company but are also required by regional laws to pay for licenses to catch a limited number of fish outside the lease area. Residents of remote communities have neither the power nor the resources to demand enforcement of their rights. Here and elsewhere in the circumpolar north, the failure to apply laws for the protection of indigenous peoples leads to "criminalization" of local indigenous populations who cannot survive without "poaching" resources that should be accessible to them legally.[113]
 
@@ -218,11 +216,11 @@ To make up for past suppression, the authorities of Norway, Sweden and Finland n
 
 Duodji (craft)
 
-Sami_knives_-_Arctic_Museum.jpg Sami_belt_and_needle_cases.JPG Sami_woman_with_white_reindeer.jpg]] Duodji, the Sami handicraft, originates from the time when the Samis were self-supporting nomads, believing therefore that an object should first and foremost serve a purpose rather than being primarily decorative. Men mostly use wood, bone, and antlers to make items such as antler-handled scrimshawed sami knives, drums, and guksi (burl cups). Women used leather and roots to make items such as gákti (clothing), and birch- and spruce-root woven baskets.
+]] Duodji, the Sami handicraft, originates from the time when the Samis were self-supporting nomads, believing therefore that an object should first and foremost serve a purpose rather than being primarily decorative. Men mostly use wood, bone, and antlers to make items such as antler-handled scrimshawed sami knives, drums, and guksi (burl cups). Women used leather and roots to make items such as gákti (clothing), and birch- and spruce-root woven baskets.
 
 Clothing
 
-Sami_clothing_3.JPG Gakti are the traditional clothing worn by the Sámi people. The gákti is worn both in ceremonial contexts and while working, particularly when herding reindeer.
+Gakti are the traditional clothing worn by the Sámi people. The gákti is worn both in ceremonial contexts and while working, particularly when herding reindeer.
 
 Traditionally, the gákti was made from reindeer leather and sinews, but nowadays, it is more common to use wool, cotton, or silk. Women's gákti typically consist of a dress, a fringed shawl that is fastened with 1–3 silver brooches, and boots/shoes made of reindeer fur or leather. Boots can have pointed or curled toes and often have band-woven ankle wraps. Eastern Sami boots have a rounded toe on reindeer-fur boots, lined with felt and with beaded details. There are different gákti for women and men; men's gákti have a shorter "jacket-skirt" than a women's long dress. Traditional gákti are most commonly in variations of red, blue, green, white, medium-brown tanned leather, or reindeer fur. In winter, there is the addition of a reindeer fur coat and leggings, and sometimes a poncho (luhkka) and rope/lasso.
 
@@ -232,7 +230,7 @@ The gákti can be worn with a belt; these are sometimes band-woven belts, woven,
 
 Media and literature
 
-Johan_Turi,_Muitalus_sámiid_birra.jpg]]
+]]
 
 -   There are short daily news bulletins in Northern Sámi on national TV in Norway, Sweden and Finland. Children's television shows in Sami are also frequently made. There is also a radio station for Northern Sámi, which has some news programs in the other Sámi languages.
 -   A single daily newspaper is published in Northern Sami, _Ávvir_,[117] along with a few magazines.
@@ -241,7 +239,7 @@ Johan_Turi,_Muitalus_sámiid_birra.jpg]]
 
 Music
 
-Riddu_Riđđu_(9).jpg]] A characteristic feature of Sami musical tradition is the singing of _yoik_. Yoiks are song-chants and are traditionally sung _a cappella_, usually sung slowly and deep in the throat with apparent emotional content of sorrow or anger. Yoiks can be dedicated to animals and birds in nature, special people or special occasions, and they can be joyous, sad or melancholic. They often are based on syllablic improvisation. In recent years, musical instruments frequently accompany yoiks. The only traditional Sami instruments that were sometimes used to accompany yoik are the "fadno" flute (made from reed-like Angelica archangelica stems) and hand drums (frame drums and bowl drums).
+]] A characteristic feature of Sami musical tradition is the singing of _yoik_. Yoiks are song-chants and are traditionally sung _a cappella_, usually sung slowly and deep in the throat with apparent emotional content of sorrow or anger. Yoiks can be dedicated to animals and birds in nature, special people or special occasions, and they can be joyous, sad or melancholic. They often are based on syllablic improvisation. In recent years, musical instruments frequently accompany yoiks. The only traditional Sami instruments that were sometimes used to accompany yoik are the "fadno" flute (made from reed-like Angelica archangelica stems) and hand drums (frame drums and bowl drums).
 
 Education
 
@@ -262,7 +260,7 @@ For many years there was a misconception that the Sámi were the only Indigenous
 
 Reindeer husbandry
 
-Reindeer_herding.jpg]] Ljungris_July_2013.jpg, owned by the Sámi community and used especially for Reindeer calf marking in the summer.]] Reindeer husbandry has been and still is an important aspect of Sami culture. Traditionally the Sami lived and worked in reindeer herding groups called _siiddat_, which consisted of several families and their herds. Members of the _siidda_ helped each other with the management and husbandry of the herds.[123] During the years of forced assimilation, the areas in which reindeer herding was an important livelihood were among the few where the Sami culture and language survived.
+]] , owned by the Sámi community and used especially for Reindeer calf marking in the summer.]] Reindeer husbandry has been and still is an important aspect of Sami culture. Traditionally the Sami lived and worked in reindeer herding groups called _siiddat_, which consisted of several families and their herds. Members of the _siidda_ helped each other with the management and husbandry of the herds.[123] During the years of forced assimilation, the areas in which reindeer herding was an important livelihood were among the few where the Sami culture and language survived.
 
 Today in Norway and Sweden, reindeer husbandry is legally protected as an exclusive Sami livelihood, such that only persons of Sami descent with a linkage to a reindeer herding family can own, and hence make a living off, reindeer. Presently, about 2,800 people are engaged in reindeer herding in Norway.[124] In Finland, reindeer husbandry is not exclusive and is practiced to a limited degree also by ethnic Finns. Legally, it is restricted to EU/EEA nationals resident in the area. In the north (Lapland), it plays a major role in the local economy, while its economic impact is lesser in the southern parts of the area (Province of Oulu).
 
@@ -281,7 +279,7 @@ Sápmi is located in Northern Europe, includes the northern parts of Fennoscandi
 
 Extent
 
-Sami_people_in_Härjedalen,_Sweden_(8539250322).jpg (1790–1800), far south in the Sápmi area]] Sapmi_Lappland.jpg in Sápmi, UNESCO World Heritage Site]] There is no official geographic definition for the boundaries of Sápmi. However, the following counties and provinces are usually included:
+(1790–1800), far south in the Sápmi area]] in Sápmi, UNESCO World Heritage Site]] There is no official geographic definition for the boundaries of Sápmi. However, the following counties and provinces are usually included:
 
 -   Dalarna county in Sweden
 -   Finnmark county in Norway
@@ -300,7 +298,7 @@ The Sami Domicile Area in Finland consists of the municipalities of Enontekiö, 
 
 Important Sami towns
 
-Каневка_на_Поное.jpg, Ponoy River, Russia's Lovozersky District]] The following towns and villages have a significant Sami population or host Sami institutions (Norwegian, Swedish, Finnish or Russian name in parentheses):
+, Ponoy River, Russia's Lovozersky District]] The following towns and villages have a significant Sami population or host Sami institutions (Norwegian, Swedish, Finnish or Russian name in parentheses):
 
 -   Aanaar, Anár, or Aanar (Inari), is the location of the Finnish Sami Parliament, Sajos Sámi Cultural Centre, SAKK – (Sámi Education Institute), Anarâškielâ servi (Inari Sámi Language Association), and the Inari Sami Siida Museum.
 -   Aarborte (Hattfjelldal) is a southern Sami center with a Southern Sami-language school and a Sami culture center.
@@ -312,8 +310,6 @@ Important Sami towns
 -   Guovdageaidnu (Kautokeino) is perhaps the cultural capital of the Sami. About 90% of the population speaks Sami. Several Sami institutions are located in Kautokeino including: Beaivváš Sámi Theatre, a Sami high school and reindeer-herding School, the Sami University College, the Nordic Sami Research Institute, the Sami Language Board, the Resource Centre for the Rights of Indigenous People, and the International Centre for Reindeer Husbandry. In addition, several Sami media are located in Kautokeino including the Sami-language _Áššu_ newspaper, and the DAT Sami publishing house and record company. Kautokeino also hosts the Sami Easter Festival, which includes the Sami Grand Prix 2010 (Sami Musicfestival) and the Reindeer Racing World Cup. The Kautokeino rebellion in 1852 is one of the few Sami rebellions against the Norwegian government's oppression against the Sami.
 -   Iänudâh, or Eanodat (Enontekiö).
 -   Jiellevárri, or Váhčir (Gällivare)
-
-Attje_Museum_Jokkmokk-exhibition.jpg Utsjoki_Mantojarvi.jpg
 
 -   Jåhkåmåhkke (Jokkmokk) holds a Sami market on the first weekend of every February and has a Sami school for language and traditional knowledge called Samij Åhpadusguovdásj.
 -   Kárášjohka (Karasjok) is the seat of the Norwegian Sami Parliament. Other important Sami institutions are located in Kárášjohka, including NRK Sami Radio, the Sami Collections museum, the Sami Art Centre, the Sami Specialist Library, the Mid-Finnmark legal office, a child and adolescent psychiatry outpatient clinic – one of few on a national level approved for providing full specialist training. Other significant institutions include a Sami Specialist Medical Centre, and the Sami Health Research Institute.[131] In addition, the Sápmi cultural park is in the township, and the Sami-language _Min Áigi_ newspaper is published here.
@@ -329,7 +325,7 @@ Attje_Museum_Jokkmokk-exhibition.jpg Utsjoki_Mantojarvi.jpg
 
 Demographics
 
-Sami_child.jpg Sami_family-easter.jpg In the geographical area of Sápmi, the Sami are a small population. According to some, the estimated total Sami population is about 70,000.[132] One problem when attempting to count the population of the Sámi is that there are few common criteria of what "being a Sámi" constitutes. In addition, there are several Sámi languages and additional dialects, and there are several areas in Sapmi where few of the Sami speak their native language due to the forced cultural assimilation, but still consider themselves Sami. Other identity markers are kinship (which can be said to, at some level or other, be of high importance for all Sámi), the geographical region of Sápmi where their family came from, and/or protecting or preserving certain aspects of Sami culture.[133]
+In the geographical area of Sápmi, the Sami are a small population. According to some, the estimated total Sami population is about 70,000.[132] One problem when attempting to count the population of the Sámi is that there are few common criteria of what "being a Sámi" constitutes. In addition, there are several Sámi languages and additional dialects, and there are several areas in Sapmi where few of the Sami speak their native language due to the forced cultural assimilation, but still consider themselves Sami. Other identity markers are kinship (which can be said to, at some level or other, be of high importance for all Sámi), the geographical region of Sápmi where their family came from, and/or protecting or preserving certain aspects of Sami culture.[133]
 
 All the Nordic Sámi Parliaments have included as the "core" criterion for registering as a Sámi the identity in itself—one must declare that one truly considers oneself a Sámi. Objective criteria vary, but are generally related to kinship and/or language.
 
@@ -339,7 +335,7 @@ Roughly half of all Sámi live in Norway, but many live in Sweden, with smaller 
 
 Language
 
-E.W._Borg_alphabet_1859.jpg]] There is no single Sami language, but a group of ten distinct Sami languages. Six of these languages have their own written standards. The Sami languages are relatively closely related, but not mutually intelligible; for instance, speakers of Southern Sami cannot understand Northern Sami. Especially earlier, these distinct languages were referred to as "dialects", but today, this is considered misleading due to the deep differences between the varieties. Most Sami languages are spoken in several countries, because linguistic borders do not correspond to national borders.
+]] There is no single Sami language, but a group of ten distinct Sami languages. Six of these languages have their own written standards. The Sami languages are relatively closely related, but not mutually intelligible; for instance, speakers of Southern Sami cannot understand Northern Sami. Especially earlier, these distinct languages were referred to as "dialects", but today, this is considered misleading due to the deep differences between the varieties. Most Sami languages are spoken in several countries, because linguistic borders do not correspond to national borders.
 
 All Sami languages are at some degree of endangerment, ranging from what UNESCO defines as "definitely endangered" to "extinct".[137] This is due in part to historic laws prohibiting the use of Sami languages in schools and at home in Sweden and Norway. Sami languages, and Sami song-chants, called yoiks, were illegal in Norway from 1773 until 1958. Then, access to Sami instruction as part of schooling was not available until 1988. Special residential schools that would assimilate the Sami into the dominant culture were established. These were originally run by missionaries, but later, controlled by the government. For example, in Russia, Sami children were taken away when aged 1–2 and returned when aged 15–17 with no knowledge of their language and traditional communities. Not all Sami viewed the schools negatively, and not all of the schools were brutal. However, being taken from home and prohibited from speaking Sami has resulted in cultural alienation, loss of language, and lowered self-esteem.[138]
 
@@ -362,8 +358,6 @@ American scientist Michael E. Krauss published in 1997 an estimate of Sami popul
   Ter Sami        400                                  Eastern Sami languages   Ter Sami language        8                                              2%                          2                                              critically endangered   Russia
   Akkala Sami     100                                  Eastern Sami languages   Akkala Sami language     7                                              7%                          0                                              extinct                 Russia
 
-
-Geographic distribution of the Sami languages: Darkened area represents municipalities that recognize Sami as an official language.
 
 Kemi Sami language became extinct in the 19th century.
 
@@ -390,7 +384,7 @@ A division often used in Northern Sami is based on occupation and the area of li
 
 Division by country
 
-Sámi_presentation_in_the_cultural_Centre_in_Lovozero,_Kola_Peninsula,_Russia.jpg, Russia]] According to the Norwegian Sami Parliament, the Sami population of Norway is 40,000. If all people who speak Sami or have a parent, grandparent, or great-grandparent who speaks or spoke Sami are included, the number reaches 70,000. As of 2005, 12,538 people were registered to vote in the election for the Sami Parliament in Norway. The bulk of the Sami live in Finnmark and Northern Troms, but there are also Sami populations in Southern Troms, Nordland and Trøndelag. Due to recent migration, it has also been claimed that Oslo is the municipality with the largest Sami population. The Sami are in a majority only in the municipalities of Guovdageaidnu-Kautokeino, Karasjohka-Karasjok, Porsanger, Deatnu-Tana and Unjargga-Nesseby in Finnmark, and Gáivuotna (Kåfjord) in Northern Troms. This area is also known as the Sami core area. Sami and Norwegian are equal as administrative languages in this area.
+, Russia]] According to the Norwegian Sami Parliament, the Sami population of Norway is 40,000. If all people who speak Sami or have a parent, grandparent, or great-grandparent who speaks or spoke Sami are included, the number reaches 70,000. As of 2005, 12,538 people were registered to vote in the election for the Sami Parliament in Norway. The bulk of the Sami live in Finnmark and Northern Troms, but there are also Sami populations in Southern Troms, Nordland and Trøndelag. Due to recent migration, it has also been claimed that Oslo is the municipality with the largest Sami population. The Sami are in a majority only in the municipalities of Guovdageaidnu-Kautokeino, Karasjohka-Karasjok, Porsanger, Deatnu-Tana and Unjargga-Nesseby in Finnmark, and Gáivuotna (Kåfjord) in Northern Troms. This area is also known as the Sami core area. Sami and Norwegian are equal as administrative languages in this area.
 
 In Sweden and Norway, Sami are primarily Lutheran, in Finland and Russia they are orthodox Christians.
 
@@ -412,7 +406,7 @@ Since 1926, the number of identified Sami in Russia has gradually increased:
 
 Sami immigration outside of Sapmi
 
-RoundupNunivak1964FWS.jpg]] There are an estimated 30,000 people living in North America who are either Sami, or descendants of Sami.[148] Most have settled in areas that are known to have Norwegian, Swedish and Finnish immigrants. Some of these concentrated areas are Minnesota, North Dakota, Iowa, Wisconsin, the Upper Peninsula of Michigan, Illinois, California, Washington, Utah and Alaska; and throughout Canada, including Saskatchewan, Manitoba and Northern Ontario, and the Canadian territories of the Northwest Territories, Yukon, and the territory now known as Nunavut.
+]] There are an estimated 30,000 people living in North America who are either Sami, or descendants of Sami.[148] Most have settled in areas that are known to have Norwegian, Swedish and Finnish immigrants. Some of these concentrated areas are Minnesota, North Dakota, Iowa, Wisconsin, the Upper Peninsula of Michigan, Illinois, California, Washington, Utah and Alaska; and throughout Canada, including Saskatchewan, Manitoba and Northern Ontario, and the Canadian territories of the Northwest Territories, Yukon, and the territory now known as Nunavut.
 
 Descendants of these Sami immigrants typically know little of their heritage because their ancestors purposely hid their indigenous culture to avoid discrimination from the dominating Scandinavian or Nordic culture. Though some of these Sami are diaspora that moved to North America in order to escape assimilation policies in their home countries, many continued to downplay their Sami culture in an internalization of colonial viewpoints about indigenous peoples and in order for them to try to blend into their respective Nordic cultures. There were also several Sami families that were brought to North America with herds of reindeer by the U.S. and Canadian governments as part of the "Reindeer Project" designed to teach the Inuit about reindeer herding.[149] There is a long history of Sami in Alaska.
 
@@ -425,7 +419,7 @@ Sápmi demonstrates a distinct semi-national identity that transcends the border
 
 Sami Parliaments
 
-3NorwSamiPresidents.jpg, Aili Keskitalo and Ole Henrik Magga, the three first presidents of the Sami Parliament of Norway.]] The Sami Parliaments (_Sámediggi_ in Northern Sami, _Sämitigge_ in Inari Sami, _Sää'mte'ǧǧ_ in Skolt Sami) founded in Finland (1973), Norway (1989) and Sweden (1993) are the representative bodies for peoples of Sami heritage. Russia has not recognized the Sami as a minority and, as a result, recognizes no Sami parliament, even if the Sami people there have formed an unrecognised Sami Parliament of Russia. There is no single, unified Sami parliament that spans across the Nordic countries. Rather, each of the aforementioned three countries has set up its own separate legislatures for Sami people, even though the three Sami Parliaments often work together on cross-border issues. In all three countries, they act as an institution of cultural autonomy for the indigenous Sami people. The parliaments have very weak political influence, far from autonomy. They are formally public authorities, ruled by the Scandinavian governments, but have democratically elected parliamentarians, whose mission is to work for the Sami people and culture. Candidates' election promises often get into conflict with the institutions' submission under their governments, but as authorities, they have some influence over the government.
+, Aili Keskitalo and Ole Henrik Magga, the three first presidents of the Sami Parliament of Norway.]] The Sami Parliaments (_Sámediggi_ in Northern Sami, _Sämitigge_ in Inari Sami, _Sää'mte'ǧǧ_ in Skolt Sami) founded in Finland (1973), Norway (1989) and Sweden (1993) are the representative bodies for peoples of Sami heritage. Russia has not recognized the Sami as a minority and, as a result, recognizes no Sami parliament, even if the Sami people there have formed an unrecognised Sami Parliament of Russia. There is no single, unified Sami parliament that spans across the Nordic countries. Rather, each of the aforementioned three countries has set up its own separate legislatures for Sami people, even though the three Sami Parliaments often work together on cross-border issues. In all three countries, they act as an institution of cultural autonomy for the indigenous Sami people. The parliaments have very weak political influence, far from autonomy. They are formally public authorities, ruled by the Scandinavian governments, but have democratically elected parliamentarians, whose mission is to work for the Sami people and culture. Candidates' election promises often get into conflict with the institutions' submission under their governments, but as authorities, they have some influence over the government.
 
 Norwegian organizations
 
@@ -445,7 +439,7 @@ In 2010, the Sami Council supported the establishment of a cultural center in Ru
 
 Border conflicts
 
-Glen1_Sweden.jpg]] Sápmi, the Sami traditional lands, cross four national borders. Traditional summer and winter pastures sometimes lie on different sides of the borders of the nation-states. In addition to that, there is a border drawn for modern-day Sápmi. Some state that the rights (for reindeer herding and, in some parts, even for fishing and hunting) include not only modern Sápmi but areas that are beyond today's Sápmi that reflect older territories. Today's "borders" originate from the 14th to 16th centuries when land-owning conflicts occurred. The establishment of more stable dwelling places and larger towns originates from the 16th century and was performed for strategic defence and economic reasons, both by peoples from Sami groups themselves and more southern immigrants.
+]] Sápmi, the Sami traditional lands, cross four national borders. Traditional summer and winter pastures sometimes lie on different sides of the borders of the nation-states. In addition to that, there is a border drawn for modern-day Sápmi. Some state that the rights (for reindeer herding and, in some parts, even for fishing and hunting) include not only modern Sápmi but areas that are beyond today's Sápmi that reflect older territories. Today's "borders" originate from the 14th to 16th centuries when land-owning conflicts occurred. The establishment of more stable dwelling places and larger towns originates from the 16th century and was performed for strategic defence and economic reasons, both by peoples from Sami groups themselves and more southern immigrants.
 
 Owning land within the borders or being a member of a _siida_ (Sami corporation) gives rights. A different law enacted in Sweden in the mid-1990s gave the right to anyone to fish and hunt in the region, something that was met with skepticism and anger amongst the _siidas_.
 
@@ -462,7 +456,7 @@ Although the Sami have considered themselves to be one people throughout history
 
 Flag
 
-Sami_flag.svg The Sami flag was inaugurated during the Sami Conference in Åre, Sweden, on 15 August 1986. It was the result of a competition for which many suggestions were entered. The winning design was submitted by the artist Astrid Båhl from Skibotn, Norway.
+The Sami flag was inaugurated during the Sami Conference in Åre, Sweden, on 15 August 1986. It was the result of a competition for which many suggestions were entered. The winning design was submitted by the artist Astrid Båhl from Skibotn, Norway.
 
 The motif (shown right) was derived from the shaman's drum and the poem "Paiven parneh" ("Sons of the Sun") by the South Sami Anders Fjellner describing the Sami as sons and daughters of the sun. The flag has the Sami colours, red, green, yellow and blue, and the circle represents the sun (red) and the moon (blue).
 
@@ -492,7 +486,7 @@ Image:Finnmark_våpen.svg|Finnmárku
 
 Religion
 
-Shaman.jpg with his meavrresgárri drum]] Widespread Shamanism persisted among the Sami up until the 18th century. Most Sami today belong to the state-run Lutheran churches of Norway, Sweden and Finland. Some Sami in Russia belong to the Russian Orthodox Church, and similarly, some Skolt Sami resettled in Finland are also part of an Eastern Orthodox congregation, with an additional small population in Norway.
+with his meavrresgárri drum]] Widespread Shamanism persisted among the Sami up until the 18th century. Most Sami today belong to the state-run Lutheran churches of Norway, Sweden and Finland. Some Sami in Russia belong to the Russian Orthodox Church, and similarly, some Skolt Sami resettled in Finland are also part of an Eastern Orthodox congregation, with an additional small population in Norway.
 
 Traditional Sami religion
 
@@ -504,7 +498,7 @@ Sami religion shared some elements with Norse mythology, possibly from early con
 
 Missionary efforts
 
-Tore_Johnsen,_samiske_kirkedager.JPG The term _Sami religion_ usually refers to the traditional religion, practiced by most Sámi until approximately the 18th century. Christianity was introduced by Roman Catholic missionaries as early as the 13th century. Increased pressure came after the Protestant Reformation, and rune drums were burned or sent to museums abroad. In this period, many Sami practiced their traditional religion at home, while going to church on Sunday. Since the Sami were considered to possess "witchcraft" powers, they were often accused of sorcery during the 17th century and were the subjects of witchcraft trials and burnings.[162]
+The term _Sami religion_ usually refers to the traditional religion, practiced by most Sámi until approximately the 18th century. Christianity was introduced by Roman Catholic missionaries as early as the 13th century. Increased pressure came after the Protestant Reformation, and rune drums were burned or sent to museums abroad. In this period, many Sami practiced their traditional religion at home, while going to church on Sunday. Since the Sami were considered to possess "witchcraft" powers, they were often accused of sorcery during the 17th century and were the subjects of witchcraft trials and burnings.[162]
 
 In Norway, a major effort to convert the Sami was made around 1720, when Thomas von Westen, the "Apostle of the Sami", burned drums, burned sacred objects, and converted people.[163] Out of the estimated thousands of drums prior to this period, only about 70 are known to remain today, scattered in museums around Europe.[164] Sacred sites were destroyed, such as sieidi (stones in natural or human-built formations), álda and sáivu (sacred hills), springs, caves and other natural formations where offerings were made.
 
@@ -512,7 +506,7 @@ In the far east of the Sami area, the Russian monk Trifon converted the Sami in 
 
 Laestadius
 
-Rune_drum_Sápmi_MEK.jpg drum]] Around 1840 Swedish Sami Lutheran pastor and administrator Lars Levi Laestadius initiated among the Sami a puritanical pietist movement emphasizing complete abstinence from alcohol. This movement is still very dominant in Sami-speaking areas. Laestadius spoke many languages, and he became fluent and preached in Finnish and Northern Sami in addition to his native Southern Sami and Swedish,[165] the language he used for scholarly publications.[166]
+drum]] Around 1840 Swedish Sami Lutheran pastor and administrator Lars Levi Laestadius initiated among the Sami a puritanical pietist movement emphasizing complete abstinence from alcohol. This movement is still very dominant in Sami-speaking areas. Laestadius spoke many languages, and he became fluent and preached in Finnish and Northern Sami in addition to his native Southern Sami and Swedish,[165] the language he used for scholarly publications.[166]
 
 Two great challenges Laestadius had faced since his early days as a church minister were the indifference of his Sami parishioners, who had been forced by the Swedish government to convert from their shamanistic religion to Lutheranism, and the misery caused them by alcoholism. The spiritual understanding Laestadius acquired and shared in his new sermons "filled with vivid metaphors from the lives of the Sami that they could understand, ... about a God who cared about the lives of the people" had a profound positive effect on both problems. One account from a Sami cultural perspective recalls a new desire among the Sami to learn to read and a "bustle and energy in the church, with people confessing their sins, crying and praying for forgiveness ... [Alcohol abuse] and the theft of [the Sa`mis'] reindeer diminished, which had a positive influence on the Sami's relationships, finances and family life."[167]
 
@@ -527,11 +521,11 @@ A very different religious idea is represented by the numerous "wise men" and "w
 
 Genetic studies
 
-Lapland_Mother_NGM-v31-p556.jpg Anthropologists have been studying the Sami people for hundreds of years for their assumed physical and cultural differences from the rest of the Europeans. Recent genetic studies have indicated that the two most frequent maternal lineages of the Sámi people are the haplogroups V (neolithic in Europe and not found in Finland 1500 years ago[170]) and U5b (ancient in Europe). "The Y-chromosomal variety in the Saami is also consistent with their European ancestry. It suggests that the large genetic separation of the Saami from other Europeans is best explained by assuming that the Saami are descendants of a narrow, distinctive subset of Europeans."[171] Y-chromosome haplogroup N-VL29 makes up 20%, came from Siberia 3500 years ago or more likely much later. Y-chromosome N-Z1936 makes up 20%, likely came from Siberia with Sami language later. This tallies with archeological evidence suggesting that several different cultural groups made their way to the core area of Sami from 8000 to 6000 BC,[172] presumably including some of the ancestors of present-day Sami. The "Nganassan" autosomic component now makes up more than 25% in the Sami, but was 50% in the 3500-year old Kola population.[173] The Mesolithic "Western European hunter-gatherer" (WHG) component is close to 15%, while that of the Neolithic "European early farmer" (LBK) is 10%. 50% is the Bronze Age "Yamna" component, the earliest trace of which is observed in the Pit–Comb Ware culture in Estonia, but in a 2.5-fold lower percentage.
+Anthropologists have been studying the Sami people for hundreds of years for their assumed physical and cultural differences from the rest of the Europeans. Recent genetic studies have indicated that the two most frequent maternal lineages of the Sámi people are the haplogroups V (neolithic in Europe and not found in Finland 1500 years ago[170]) and U5b (ancient in Europe). "The Y-chromosomal variety in the Saami is also consistent with their European ancestry. It suggests that the large genetic separation of the Saami from other Europeans is best explained by assuming that the Saami are descendants of a narrow, distinctive subset of Europeans."[171] Y-chromosome haplogroup N-VL29 makes up 20%, came from Siberia 3500 years ago or more likely much later. Y-chromosome N-Z1936 makes up 20%, likely came from Siberia with Sami language later. This tallies with archeological evidence suggesting that several different cultural groups made their way to the core area of Sami from 8000 to 6000 BC,[172] presumably including some of the ancestors of present-day Sami. The "Nganassan" autosomic component now makes up more than 25% in the Sami, but was 50% in the 3500-year old Kola population.[173] The Mesolithic "Western European hunter-gatherer" (WHG) component is close to 15%, while that of the Neolithic "European early farmer" (LBK) is 10%. 50% is the Bronze Age "Yamna" component, the earliest trace of which is observed in the Pit–Comb Ware culture in Estonia, but in a 2.5-fold lower percentage.
 
 History of scientific research carried out on the Sami
 
-Friedländer.plakat.7.jpg-Saint Paul]] The genetic makeup of Sami people has been extensively studied for as long as such research has been in existence. Ethnographic photography of the Sami began with the invention of the camera in the 19th century.[174] This continued on into the 1920s and 1930s, when Sami were photographed naked and anatomically measured by scientists, with the help of the local police—sometimes at gunpoint—to collect data that would justify their own racial theories.[175] Thus, there is a degree of distrust by some in the Sami community towards genetic research.[176]
+-Saint Paul]] The genetic makeup of Sami people has been extensively studied for as long as such research has been in existence. Ethnographic photography of the Sami began with the invention of the camera in the 19th century.[174] This continued on into the 1920s and 1930s, when Sami were photographed naked and anatomically measured by scientists, with the help of the local police—sometimes at gunpoint—to collect data that would justify their own racial theories.[175] Thus, there is a degree of distrust by some in the Sami community towards genetic research.[176]
 
 Examples of discriminatory actions include the Statens Institut for Rasbiologi compulsory sterilization project for Sami women, which continued until 1975,[177] and Sami graves being plundered to provide research materials,[178][179][180] of which their remains and artifacts from this period from across Sápmi can still be found in various state collections.[181][182][183][184] In the late 19th century, colonial fascination with Arctic peoples led to human beings exhibited in human zoos. Sami people were exhibited with their traditional lavvu tents, weapons, and sleds, beside a group of reindeer at Tierpark Hagenbeck[185] and other zoos across the globe.
 
@@ -553,7 +547,7 @@ Explorers and adventurers
 
 Literature
 
-Nils-Aslak-Valkeapaa.jpg, a Sámi writer, musician and artist from Finland]]
+, a Sámi writer, musician and artist from Finland]]
 
 -   Ella Holm Bull (1929–2006), author, musician, schoolteacher.
 -   Anders Fjellner (1795–1876), Protestant priest and poet. Wrote down the mythological joik that inspired the Sámi flag.
@@ -566,7 +560,7 @@ Nils-Aslak-Valkeapaa.jpg, a Sámi writer, musician and artist from Finland]]
 
 Music
 
-Agnete_Johnsen,_ESC2016_01.jpg]]
+]]
 
 -   Ánde Somby, Sami musician and law professor.
 -   Adjagas, musical group.
@@ -597,7 +591,7 @@ Agnete_Johnsen,_ESC2016_01.jpg]]
 
 Film and theatre
 
-NilsGaup.jpg, a Sámi film director from Norway]]
+, a Sámi film director from Norway]]
 
 -   Mikkel Gaup, actor.
 -   Nils Gaup (1955–present), film director. Well-known films include _Ofelaš_ (_Pathfinder_), which was nominated for an Academy Award, and the 2008 film _Kautokeino-Opprøret_, based on the Kautokeino Rebellion.
@@ -628,7 +622,7 @@ Visual arts
 
 Sports
 
-Anja_Pärson_Semmering_2008.jpg a Sámi skier from Sweden]] Bsalming.jpg, a retired ice hockey defenceman.]]
+a Sámi skier from Sweden]] , a retired ice hockey defenceman.]]
 
 -   Leo Komarov (1987–present), Finnish Ice Hockey player for the Toronto Maple Leafs. Born in Estonia and raised in Finland and is of Russian-Sami parentage.
 -   Ailo Gaup (1980–present), a motorcross sportsman who invented the "underflip".

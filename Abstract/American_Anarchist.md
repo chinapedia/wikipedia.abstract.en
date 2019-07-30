@@ -1,1 +1,0 @@
-_AMERICAN ANARCHIST_ is a 2016 American documentary film written and directed by Charlie Siskel. The film centers on interviews with William Powell, author of the controversial 1971 book _The Anarchist Cookbook_.[1][2][3] The film premiered out of competition at the 73rd edition of the Venice Film Festival.

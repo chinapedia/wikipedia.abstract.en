@@ -1,1 +1,0 @@
-CREATION SCIENCE or SCIENTIFIC CREATIONISM[1] is a branch of creationism that claims to provide scientific support for the Genesis creation narrative in the Book of Genesis and disprove or reexplain the scientific facts,[2] theories and paradigms about geology,[3] cosmology, biological evolution,[4][5] archaeology,[6][7] history, and linguistics.[8]

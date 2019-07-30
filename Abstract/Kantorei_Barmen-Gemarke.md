@@ -1,1 +1,0 @@
-The KANTOREI BARMEN-GEMARKE (Barmen-Gemarke chorale) is a mixed concert choir based in Wuppertal, Germany, focused on sacred music. It was founded by Helmut Kahlhöfer in 1946 and conducted by him for more than four decades. Their repertory includes great classical works as well as premieres of contemporary music. The choir has appeared internationally.

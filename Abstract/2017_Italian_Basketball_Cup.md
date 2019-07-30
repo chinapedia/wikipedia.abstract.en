@@ -1,1 +1,0 @@
-The 2017 ITALIAN BASKETBALL CUP, knows as the POSTEMOBILE FINAL EIGHT for sponsorship reasons,[1] was the 49th edition of Italy's national cup tournament. The competition is organised by Lega Basket for LBA clubs. The tournament was played from 16 to 19 February 2017[2] in Rimini.[3]

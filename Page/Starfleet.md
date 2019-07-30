@@ -1,5 +1,3 @@
-Starfleet_command_emblem.png Earth_Starfleet_Command_flag.svg
-
 STARFLEET is a fictional organization in the _Star Trek_ media franchise. Within this fictional universe, Starfleet is a uniformed service maintained by the United Federation of Planets ("the Federation") as the principal means for conducting deep space exploration, research, defense, peacekeeping, and diplomacy, (although Starfleet predates the Federation, having originally been an Earth organization, as shown by the T.V. series _Star Trek: Enterprise_). While the majority of Starfleet's members are human and it is headquartered on Earth, hundreds of other species are also represented. The majority of the franchise's protagonists are Starfleet commissioned officers.
 
 
@@ -103,7 +101,7 @@ Various episodes show that Earth/Federation citizenship is not a necessary pre-c
 
 An example of the process imagined by the writers is given when the character Nog attempts to apply to the Academy. He is told that since he is from a non-member world (Ferenginar), he requires a letter of recommendation from a command-level officer before his application can be considered, with the implication that this is the standard procedure for all non-Federation applicants to Starfleet.
 
-In the _Star Trek_ Expanded Universe, an example of what typically becomes of a new Federation member world's military is depicted when the Bajoran Militia is integrated into Starfleet upon Bajor's entry into the Federation. NASA-Mars-$tarTrekFleetLogo-20190612.jpg on Mars look like the Starfleet emblem.[15][16]]]
+In the _Star Trek_ Expanded Universe, an example of what typically becomes of a new Federation member world's military is depicted when the Bajoran Militia is integrated into Starfleet upon Bajor's entry into the Federation. on Mars look like the Starfleet emblem.[15][16]]]
 
 
 Trivia

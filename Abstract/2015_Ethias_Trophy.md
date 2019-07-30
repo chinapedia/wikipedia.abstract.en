@@ -1,1 +1,0 @@
-The 2015 ETHIAS TROPHY was a professional tennis tournament played on hard courts. It was the eleventh edition of the tournament which was part of the 2015 ATP Challenger Tour. It took place in Mons, Belgium between 5 October and 11 October 2015.

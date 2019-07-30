@@ -1,1 +1,0 @@
-AN ELECTION TO CEREDIGION COUNTY COUNCIL were held on 4 May 2017 as part of wider local elections across Wales. It was preceded by the 2012 election and the next election is scheduled to take place in 2022.

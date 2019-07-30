@@ -1,1 +1,0 @@
-SHER SHAH–KOT ADDU BRANCH LINE () is one of several branch lines in Pakistan, operated and maintained by Pakistan Railways. The line begins at Sher Shah Junction on the Karachi–Peshawar Railway Line and ends at Kot Addu Junction on the Kotri–Attock Railway Line. The total length of this railway line is with 5 railway stations.

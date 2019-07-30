@@ -1,1 +1,0 @@
-STELLA MENDONÇA (born 10 August 1970) is a Mozambican operatic soprano specializing in the bel canto repertoire. In 2002 Mendonça collaborated in adapting Georges Bizet's opera Carmen for African audiences and then performed it in Mozambique.

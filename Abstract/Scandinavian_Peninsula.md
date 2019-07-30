@@ -1,1 +1,0 @@
-The SCANDINAVIAN PENINSULA (; (Bokmål) or ; ; , _Skandinavsky poluostrov_) is a peninsula of Eurasia located in Northern Europe, which roughly comprises the mainland of Sweden, the mainland of Norway, and the northwestern area of Finland.

@@ -1,1 +1,0 @@
-JOHANN PHILIPP ABELIN was a German chronicler whose career straddled the 16th and 17th centuries. He was born, probably, at Strasbourg, and died there between 1634 and 1637. He wrote numerous histories under the pseudonyms of ABELEUS, PHILIPP ARLANIBÄUS, JOHANN LUDWIG GOTTFRIED and GOTOFREDUS.[1]

@@ -1,1 +1,0 @@
-CHEIKH TIDIANE SY (born 11 January 1938) is a Senegalese politician and official. During the presidency of Abdoulaye Wade, he was Minister of Justice from 2005 to 2008, Minister of the Interior from 2008 until October 2009, then Minister of Justice once more, from 2010 to 2012.

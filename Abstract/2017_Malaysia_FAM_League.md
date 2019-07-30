@@ -1,1 +1,0 @@
-The 2017 MALAYSIA FAM CUP (referred to as the FAM CUP or FAM LEAGUE) is the 66th season of the Malaysia FAM League since its establishment in 1952. The league is currently the third level football league in Malaysia. MISC-MIFA are the previous champion and currently play in the second level of Malaysian football, Malaysia Premier League.

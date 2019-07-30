@@ -1,1 +1,0 @@
-In Newtonian mechanics, LINEAR MOMENTUM, TRANSLATIONAL MOMENTUM, or simply MOMENTUM (pl. momenta) is the product of the mass and velocity of an object. It is a vector quantity, possessing a magnitude and a direction in three-dimensional space. If is an object's mass and is the velocity (also a vector), then the momentum is

@@ -1,1 +1,0 @@
-_A LIBERAL PASSION_ () is a 2013 Italian comedy film co-written and directed by Marco Ponti. It is loosely based on the novel _Passione sinistra_ by Chiara Gamberale.[1][2][3] For her performance Eva Riccobono was nominated for Nastro D'Argento for best supporting actress.[4]

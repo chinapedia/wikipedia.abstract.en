@@ -1,1 +1,0 @@
-The 1976 MIAMI HURRICANES FOOTBALL TEAM represented the University of Miami for the 1976 NCAA Division I football season. The Hurricanes played their home games at the Miami Orange Bowl in Miami, Florida. The team was coached by Carl Selmer, in his second and final year as head coach of the Hurricanes.

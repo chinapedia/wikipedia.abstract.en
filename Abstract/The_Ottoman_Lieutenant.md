@@ -1,1 +1,0 @@
-_THE OTTOMAN LIEUTENANT_ () is a Turkish-American World War I drama film directed by Joseph Ruben and written by Jeff Stockwell. The film stars Michiel Huisman, Hera Hilmar, Josh Hartnett and Ben Kingsley. The film was released widely on March 10, 2017.[1]

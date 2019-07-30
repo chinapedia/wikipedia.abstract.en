@@ -1,1 +1,0 @@
-"L'ARCA DI NOÈ" is a 1970 song composed by Sergio Endrigo. The song premiered at the 20th edition of the Sanremo Music Festival, with a double performance by Endrigo and Iva Zanicchi, and placed at the third place.[1][2]

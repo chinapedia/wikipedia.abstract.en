@@ -48,8 +48,6 @@ Armor
 
 Air Force
 
-Roundel_of_Togo.svg
-
 The Togolese Air Force (French: _Armée de l'Air Togolaise_) was established in 1964, and a French influence remains on the choice of aircraft used. Since 2005, the air force's chief of staff is Colonel Bouraïma Bonfoh.[21]
 
 The C-47 Skytrain was the first aircraft used; it was part of the force from 1960 to 1976. Replacing the C-47s were two DHC-5D Buffalo STOL transports in 1976. Also in the same year Togo acquired five ex-German Air Force Fouga Magister armed jet trainers and seven EMB.326GBs from Brazil to form the Escadrille de Chasse. Togo's armed jet trainer fleet was upgraded in 1981 by the deliveries of five Alpha jets and by three piston engine Aerospatiale TB-30 Epsilons in 1986. The Fouga Magisters were returned to France in 1985.
@@ -62,7 +60,7 @@ Aircraft
 
 Current inventory
 
-Aérospatiale_Alouette_II_5V-MCK.jpg with the national flag beneath]]
+with the national flag beneath]]
 
 +------------------+--------+----------------------+---------+------------+-------+
 | Aircraft         | Origin | Type                 | Variant | In service | Notes |
@@ -83,7 +81,7 @@ Aérospatiale_Alouette_II_5V-MCK.jpg with the national flag beneath]]
 
 Navy
 
-Patrol_boats_Kara_and_Mono_in_Toulon_in_1976.jpg in 1976.]] The National Navy was created on May 1, 1976 to guard the roughly 34 miles (55 km) of Togolese coast and the seaport of Lomé. It currently has 2 wooden-hulled patrol boats, the _Kara_ (P 761), and the _Mono_ (P 762), which have both been in service since 1976.[29][30] On 7 July 2014, the Togolese navy received a RPB 33 patrol boat that was named _Agou_ (P 763).[31] Currently, the navy's chief of staff is ship captain Atiogbé Ametsipe.[32]
+in 1976.]] The National Navy was created on May 1, 1976 to guard the roughly 34 miles (55 km) of Togolese coast and the seaport of Lomé. It currently has 2 wooden-hulled patrol boats, the _Kara_ (P 761), and the _Mono_ (P 762), which have both been in service since 1976.[29][30] On 7 July 2014, the Togolese navy received a RPB 33 patrol boat that was named _Agou_ (P 763).[31] Currently, the navy's chief of staff is ship captain Atiogbé Ametsipe.[32]
 
 Equipment
 

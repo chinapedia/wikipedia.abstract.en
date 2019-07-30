@@ -1,1 +1,0 @@
-During the beginning stages of film; African American people, indeed partook in the early film industry. Specifically African American women played a very influential role and made an impact on cinema during the silent film era.

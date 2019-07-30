@@ -1,1 +1,0 @@
-SATYAJEET BACHHAV (born 28 November 1992) is an Indian cricketer.[1] He made his Twenty20 debut for Maharashtra in the 2015–16 Syed Mushtaq Ali Trophy on 3 January 2016.[2] He made his List A debut for Maharashtra in the 2016–17 Vijay Hazare Trophy on 4 March 2017.[3]

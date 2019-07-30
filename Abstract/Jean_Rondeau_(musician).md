@@ -1,1 +1,0 @@
-JEAN RONDEAU (born 23 April, 1991) is a French musician best known for his performances on harpsichord. Early taught by Blandine Verlet, he was later educated at Paris' Conservatoire National Supérieur de Musique. Rondeau won Young Soloist 2014 in the Prix des Radios Francophones Publiques and has gone on to release two solo albums.

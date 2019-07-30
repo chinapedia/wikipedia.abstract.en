@@ -1,1 +1,0 @@
-A _JACOBIN_ () was a member of the Jacobin Club, a revolutionary political movement that was the most famous political club during the French Revolution (1789–99).[1] The club was so called because of the Dominican convent in Paris in the Rue Saint-Jacques (Latin: _Jacobus_) where they originally met.

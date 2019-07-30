@@ -1,1 +1,0 @@
-On 21 October 2016, a Camrail inter-city passenger train travelling from Cameroon's capital, Yaoundé, to its largest city, Douala, derailed in Eséka, Centre Region. By 30 October 2016, the official number of casualties had reached 79 dead, with 550 injured.[1] It was the deadliest rail accident on the African continent since the August 2007 Benaleka train accident.

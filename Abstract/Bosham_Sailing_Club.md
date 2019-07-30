@@ -1,1 +1,0 @@
-BOSHAM SAILING CLUB is the oldest sailing club in Chichester Harbour and was founded in 1907 [1] It is located in the historic village of Bosham in West Sussex.[2] Its clubhouse is the Old Mill on Bosham Quay.

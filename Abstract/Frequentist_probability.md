@@ -1,1 +1,0 @@
-John_Venn.jpg

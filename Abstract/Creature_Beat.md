@@ -1,1 +1,0 @@
-CREATURE BEAT were a United Kingdom New Wave band from the 1970s, based in Bristol and London. They released a single with Puritan Records. The band split up in 1984, and later released an album of their previous songs almost 30 years later.[1][2]

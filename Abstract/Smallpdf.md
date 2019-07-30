@@ -1,1 +1,0 @@
-SMALLPDF GMBH is an online software company that specializes in Portable Document Format (PDF) and other digital document tools available on demand via cloud.[1] Smallpdf's toolbox offers PDF compression, PDF conversion from/to MS Office formats, as well as rotate, split, merge, unlock and protect features for PDF files[2] in 17 languages.[3]

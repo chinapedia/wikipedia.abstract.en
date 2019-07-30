@@ -1,1 +1,0 @@
-JUAN DAVID YRAUSQUIN (born 1 January 1980)[1] is an Aruban politician. He was Minister Plenipotentiary of Aruba between 17 November 2016 and 20 November 2017. He was Minister of Finance between 2013 and 2014 in the second Mike Eman cabinet.

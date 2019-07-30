@@ -1,1 +1,0 @@
-Cluny_-_Mero_-_Croix-Talisman_motifs_magiques_basé_sur_Abracadabra_-_VIe-VII_siècle-_Ag_niellé.jpg _ABRACADABRA_ is an incantation used as a magic word in stage magic tricks, and historically was believed to have healing powers when inscribed on an amulet.

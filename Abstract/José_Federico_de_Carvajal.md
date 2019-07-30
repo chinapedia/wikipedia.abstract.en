@@ -1,1 +1,0 @@
-JOSÉ FEDERICO DE CARVAJAL PÉREZ (14 March 1930 – 13 June 2015) was a Spanish lawyer and politician, member of the Spanish Socialist Workers' Party and President of the Spanish Senate from 1982 to 1989.[1]

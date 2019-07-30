@@ -1,1 +1,0 @@
-PHYSICAL SCIENCE is a branch of natural science that studies non-living systems, in contrast to life science. It in turn has many branches, each referred to as a "physical science", together called the "physical sciences".

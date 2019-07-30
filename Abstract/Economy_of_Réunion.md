@@ -1,1 +1,0 @@
-The ECONOMY OF RÉUNION has traditionally been based on agriculture. Sugarcane has been the primary crop for more than a century, and in some years it accounts for 85% of exports. The government has been pushing the development of a tourist industry to relieve high unemployment, which amounts to more than 40% of the labour force.

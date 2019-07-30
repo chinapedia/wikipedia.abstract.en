@@ -113,7 +113,7 @@ The biosynthesis of hyoscine begins with the decarboxylation of L-ornithine to p
 
 A putrescine oxidase that specifically recognizes methylated putrescine catalyzes the deamination of this compound to 4-methylaminobutanal, which then undergoes a spontaneous ring formation to N-methyl-pyrrolium cation. In the next step, the pyrrolium cation condenses with acetoacetic acid yielding hygrine. No enzymatic activity could be demonstrated to catalyze this reaction. Hygrine further rearranges to tropinone.[41]
 
-Subsequently, tropinone reductase I converts tropinone to tropine which condenses with phenylalanine-derived phenyllactate to littorine. A cytochrome P450 classified as Cyp80F1[42] oxidizes and rearranges littorine to hyoscyamine aldehyde. In the final step, hyoscyamine undergoes epoxidation catalyzed by 6beta-hydroxyhyoscyamine epoxidase yielding hyoscine.[43] Scopolamine_biosynthesis.svg
+Subsequently, tropinone reductase I converts tropinone to tropine which condenses with phenylalanine-derived phenyllactate to littorine. A cytochrome P450 classified as Cyp80F1[42] oxidizes and rearranges littorine to hyoscyamine aldehyde. In the final step, hyoscyamine undergoes epoxidation catalyzed by 6beta-hydroxyhyoscyamine epoxidase yielding hyoscine.[43]
 
 
 History

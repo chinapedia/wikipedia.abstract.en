@@ -9,7 +9,7 @@ William Jones was born in London at Beaufort Buildings, Westminster; his father 
 
 Jones' father died when he was aged three, and his mother Mary Nix Jones raised him. He was sent to Harrow School in September 1753 and then went on to University College, Oxford. He graduated there in 1768 and became M.A. in 1773. Financially constrained, he took a position tutoring the seven-year-old Lord Althorp, son of Earl Spencer. For the next six years he worked as a tutor and translator. During this time he published _Histoire de Nader Chah_ (1770), a French translation of a work originally written in Persian by Mirza Mehdi Khan Astarabadi. This was done at the request of King Christian VII of Denmark: he had visited Jones, who by the age of 24 had already acquired a reputation as an orientalist. This would be the first of numerous works on Persia, Turkey, and the Middle East in general.
 
-W.jones.jpg]]
+]]
 
 In 1770, Jones joined the Middle Temple and studied law for three years, a preliminary to his life-work in India. He was elected a Fellow of the Royal Society on 30 April 1772. After a spell as a circuit judge in Wales, and a fruitless attempt to resolve the conflict that eventually led to the American Revolution in concert with Benjamin Franklin in Paris, he was appointed puisne judge to the Supreme Court of Judicature at Fort William in Calcutta, Bengal on 4 March 1783, and on 20 March he was knighted. In April 1783 he married Anna Maria Shipley, the eldest daughter of Dr. Jonathan Shipley, Bishop of Llandaff and Bishop of St Asaph. Anna Maria used her artistic skills to help Jones document life in India. On 25 September 1783 he arrived in Calcutta.
 

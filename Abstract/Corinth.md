@@ -1,1 +1,0 @@
-CORINTH (; Modern , _Kórinthos_, ; Ancient (Doric) Greek: Ϙόρινθος _Kórinthos_) is an ancient city and former municipality in Corinthia, Peloponnese, which is located in south-central Greece. Since the 2011 local government reform it is part of the municipality of Corinth, of which it is the seat and a municipal unit.[1] It is the capital of Corinthia.

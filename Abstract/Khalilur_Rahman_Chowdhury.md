@@ -1,1 +1,0 @@
-KHALILUR RAHMAN CHOWDHURY is an Indian politician. He was elected to the Assam Legislative Assembly the lower house of Indian state from Jamunamukh Vidhan Sabha constituency in Assam in 1996 and 2006. He was a member of the Asom Gana Parishad. Later he joined Indian National Congress.[1][2][3]

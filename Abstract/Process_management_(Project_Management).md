@@ -1,1 +1,0 @@
-PROCESS MANAGEMENT in civil engineering and project management is the management of "systematic series of activities directed towards causing an end result such that one or more inputs will be acted upon to create one or more outputs."[1]

@@ -1,1 +1,0 @@
-ELIZABETH ISLAND is the largest island in the inner Doubtful Sound, in Fiordland National Park, in New Zealand's South Island. It was created during the last glaciation, its narrow long shape aligned with the direction of the fiord. The island is uninhabited and entirely covered in dense native bush.

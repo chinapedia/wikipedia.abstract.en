@@ -1,1 +1,0 @@
-The KOCHER–DEBRÉ–SEMELAIGNE SYNDROME is hypothyroidism in infancy or childhood characterised by lower extremity or generalized muscular hypertrophy, myxoedema, short stature and cretinism.[1] The absence of painful spasms and pseudomyotonia differentiates this syndrome from its adult form, which is Hoffmann syndrome.[2]

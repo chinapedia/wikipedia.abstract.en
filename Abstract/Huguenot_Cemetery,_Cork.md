@@ -1,1 +1,0 @@
-HUGUENOT CEMETERY was created between 1710 and 1733 as a cemetery for the Huguenot inhabitants in the city of Cork.[1] It is believed to be one of the last two surviving Huguenot graveyards in western Europe.[2]

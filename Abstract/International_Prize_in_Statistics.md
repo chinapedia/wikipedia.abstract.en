@@ -1,1 +1,0 @@
-The INTERNATIONAL PRIZE IN STATISTICS is awarded every two years to an individual or team "for major achievements using statistics to advance science, technology and human welfare". The International Prize in Statistics, along with the COPSS Presidents' Award, are the two highest honours in the field of Statistics.

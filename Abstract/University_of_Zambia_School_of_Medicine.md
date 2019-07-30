@@ -1,1 +1,0 @@
-The UNIVERSITY OF ZAMBIA SCHOOL OF MEDICINE (UZSOM), also known as UNIVERSITY OF ZAMBIA MEDICAL SCHOOL is the school of medicine of the University of Zambia. The medical school is the country's second public medical school, the other being the Copperbelt University School of Medicine.[1] The school provides medical education at undergraduate and postgraduate levels.[2]

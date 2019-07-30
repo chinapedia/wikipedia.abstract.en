@@ -1,1 +1,0 @@
-EBENEEZER THAYER, JR. (August 21, 1746 – May 30, 1809) was a Massachusetts farmer, military officer, town official, and politician who served in both branches of the Massachusetts legislature, as a member of the Massachusetts Governor's Council; and, from 1793 to 1794, as the first sheriff of Norfolk County, Massachusetts.[1]

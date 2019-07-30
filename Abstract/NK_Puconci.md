@@ -1,1 +1,0 @@
-NOGOMETNI KLUB PUCONCI (), commonly referred to as NK PUCONCI or simply PUCONCI, is a Slovenian football club which plays in the town of Puconci. They currently play in the 1. MNL, the fifth tier of the Slovenian football pyramid. The club was established in 1953 and is currently named KEMA PUCONCI due to sponsorship reasons.

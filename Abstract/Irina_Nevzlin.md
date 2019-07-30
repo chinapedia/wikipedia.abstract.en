@@ -1,1 +1,0 @@
-IRINA NEVZLIN () is an Israeli entrepreneur. As of August 2012, she serves as the chair of the Board of Directors of The Museum of the Jewish People at Beit Hatfutsot and President of the NADAV Foundation. She is the daughter of well-known Russian-Israeli billionaire Leonid Nevzlin.[1]

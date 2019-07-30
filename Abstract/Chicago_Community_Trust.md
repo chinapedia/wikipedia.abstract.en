@@ -1,1 +1,0 @@
-THE CHICAGO COMMUNITY TRUST (THE TRUST), headquartered in Chicago, Illinois, is a community foundation made to (according to their website) "give local residents an opportunity to support their community in perpetuity".[1]

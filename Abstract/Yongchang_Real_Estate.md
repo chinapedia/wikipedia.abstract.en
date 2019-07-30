@@ -1,1 +1,0 @@
-YONGCHANG REAL ESTATE GROUP CO., LTD. () also known as EVER BRIGHT GROUP, is a Chinese real estate company registered in Shijiazhuang, Hebei Province. The Chinese name of the company was formerly known literally as HEIBEI YONGCHANG REAL ESTATE DEVELOPMENT CO., LTD. ().

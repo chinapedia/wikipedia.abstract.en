@@ -1,1 +1,0 @@
-DAVID BERNHARDT (born 1 December 1997)[1] is a Swedish professional ice hockey defenseman. He is currently playing with the Växjö Lakers of the Swedish Hockey League (SHL). Bernhardt was selected by the Philadelphia Flyers in the seventh round (199th overall) of the 2016 NHL Entry Draft.[2]

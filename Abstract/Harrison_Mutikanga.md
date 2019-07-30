@@ -1,1 +1,0 @@
-HARRISON E. MUTIKANGA is a civil engineer, business executive, and academic in Uganda. He is the managing director and the chief executive officer of the Uganda Electricity Generation Company Limited.[1]

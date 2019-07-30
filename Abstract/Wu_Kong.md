@@ -1,1 +1,0 @@
-_WU KONG_ () is a 2017 Chinese fantasy-action-adventure film directed by Derek Kwok and produced by Huang Jianxin, starring Eddie Peng in the title role alongside Ni Ni, Shawn Yue, Oho Ou and Zheng Shuang.[1] It is based on a popular internet novel titled _Wukong Biography_ written by Jin Hezai. The film was released in China on 13 July 2017.[2][3]

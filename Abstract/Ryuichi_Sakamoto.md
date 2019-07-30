@@ -1,1 +1,0 @@
-() is a Japanese composer, singer, songwriter, record producer, activist, and actor who has pursued a diverse range of styles as a solo artist and as a member of Yellow Magic Orchestra (YMO). With his bandmates Haruomi Hosono and Yukihiro Takahashi, Sakamoto influenced and pioneered a number of electronic music genres.[1]

@@ -1,1 +1,0 @@
-The DECIMAL numeral system (also called BASE-TEN positional numeral system, and occasionally called DENARY or DECANARY) is the standard system for denoting integer and non-integer numbers. It is the extension to non-integer numbers of the Hindu–Arabic numeral system.[1] The way of denoting numbers in the decimal system is often referred to as _decimal notation_.[2]

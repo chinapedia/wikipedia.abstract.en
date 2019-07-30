@@ -1,1 +1,0 @@
-ANIL BHOSALE is a politician of the Nationalist Congress Party. On 23 November 2016 he was re-elected to the Maharashtra Legislative Council from Local Areas Constituency of Pune. He was representing the same seat from 2010-2016 as well.[1]

@@ -1,1 +1,0 @@
-TOMÁŠIKOVSKÝ PRESYPY is a natural monument in Tomášikovo in the Trnava region of Slovakia. The natural monument covers an area of 0.9875 ha on the left bank of the Little Danube. It has a protection level of 4 under the Slovak nature protection system. It was established in 1973 and later amended in 1988.[1]

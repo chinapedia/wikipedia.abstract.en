@@ -1,1 +1,0 @@
-The area known today as Sarasota, Florida first appeared on a sheepskin Spanish map from 1763 with the word "Zarazote" over present day Sarasota and Bradenton.[1] The municipal government of Sarasota was established when it was incorporated as a town in 1902.[2]

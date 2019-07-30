@@ -1,1 +1,0 @@
-JAKE GRIFFIN (born November 16, 1998) is an American professional stock car racing driver. He currently competes part-time in the NASCAR Gander Outdoors Truck Series for Mike Affarano Motorsports. He has also raced in the Truck Series for MB Motorsports and Red Horse Racing, and also in the ARCA Racing Series for Venturini Motorsports.[1][2]

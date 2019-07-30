@@ -1,1 +1,0 @@
-ASL is a common initialism for American Sign Language, the sign language of the United States and Canada, and may also refer to:

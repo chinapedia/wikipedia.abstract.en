@@ -1,1 +1,0 @@
-01-Mittlere_Proportionale.gif

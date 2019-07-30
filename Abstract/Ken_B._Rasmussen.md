@@ -1,1 +1,0 @@
-KEN B. RASMUSSEN (born 1966, Denmark) is an author, journalist and talk radio host. He wrote the number one bestseller _:da:Livet, det Forbandede_,[1] a novel which became the catalyst for the 2014 Se og Hør media scandal. He lived for many years in Los Angeles, USA, before returning to Denmark in 2005.[2]

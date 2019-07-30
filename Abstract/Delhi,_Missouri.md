@@ -1,1 +1,0 @@
-DELHI is an unincorporated community in Crawford County, in the U.S. state of Missouri.[1] The community was located west-southwest of Bourbon on the Little Bourbeuse River. The community of Argo was also on the river, approximately three miles to the north (downstream).[2]

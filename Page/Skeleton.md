@@ -7,7 +7,7 @@ There are two major types of skeletons: solid and fluid. Solid skeletons can be 
 
 Exoskeleton
 
-Hym-myrmicinae.gif of an ant]]
+of an ant]]
 
 Exoskeletons are external, and are found in many invertebrates; they enclose and protect the soft tissues and organs of the body. Some kinds of exoskeletons undergo periodic moulting or edolysis as the animal grows, as is the case in many arthropods including insects and crustaceans.
 
@@ -17,7 +17,7 @@ An external skeleton can be quite heavy in relation to the overall mass of an an
 
 Endoskeleton
 
-Eptesicus_fuscus_skeleton.jpg of a bat.]] Beaver_skeleton.jpg skeleton on display at The Museum of Osteology, Oklahoma City, Oklahoma.]]
+of a bat.]] skeleton on display at The Museum of Osteology, Oklahoma City, Oklahoma.]]
 
 The endoskeleton is the internal support structure of an animal, composed of mineralized tissue and is typical of vertebrates. Endoskeletons vary in complexity from functioning purely for support (as in the case of sponges), to serving as an attachment site for muscles and a mechanism for transmitting muscular forces. A true endoskeleton is derived from mesodermal tissue. Such a skeleton is present in echinoderms and chordates.
 
@@ -56,7 +56,7 @@ The skeleton of the echinoderms, which include, among other things, the starfish
 
 Vertebrates
 
-Huxley_-_Mans_Place_in_Nature.jpg's 1863 _Evidence as to Man's Place in Nature_, the compared skeletons of apes to humans.]] In most vertebrates, the main skeletal component is referred to as bone. These bones compose a unique skeletal system for each type of animal. Another important component is cartilage which in mammals is found mainly in the joint areas. In other animals, such as the cartilaginous fishes, which include the sharks, the skeleton is composed entirely of cartilage. The segmental pattern of the skeleton is present in all vertebrates (mammals, birds, fish, reptiles and amphibians) with basic units being repeated. This segmental pattern is particularly evident in the vertebral column and the ribcage.
+'s 1863 _Evidence as to Man's Place in Nature_, the compared skeletons of apes to humans.]] In most vertebrates, the main skeletal component is referred to as bone. These bones compose a unique skeletal system for each type of animal. Another important component is cartilage which in mammals is found mainly in the joint areas. In other animals, such as the cartilaginous fishes, which include the sharks, the skeleton is composed entirely of cartilage. The segmental pattern of the skeleton is present in all vertebrates (mammals, birds, fish, reptiles and amphibians) with basic units being repeated. This segmental pattern is particularly evident in the vertebral column and the ribcage.
 
 Bones in addition to supporting the body also serve, at the cellular level, as calcium and phosphate storage.
 
@@ -70,11 +70,11 @@ The bird skeleton is highly adapted for flight. It is extremely lightweight, yet
 
 Marine mammals
 
-Zalophus_californianus_01.JPG]] To facilitate the movement of marine mammals in water, the hind legs were either lost altogether, as in the whales and manatees, or united in a single tail fin as in the pinnipeds (seals). In the whale, the cervical vertebrae are typically fused, an adaptation trading flexibility for stability during swimming.[6][7]
+]] To facilitate the movement of marine mammals in water, the hind legs were either lost altogether, as in the whales and manatees, or united in a single tail fin as in the pinnipeds (seals). In the whale, the cervical vertebrae are typically fused, an adaptation trading flexibility for stability during swimming.[6][7]
 
 Humans
 
-Leonardo_Skeleton_1511.jpg]]
+]]
 
 The human skeleton consists of both fused and individual bones supported and supplemented by ligaments, tendons, muscles and cartilage. It serves as a scaffold which supports organs, anchors muscles, and protects organs such as the brain, lungs, heart and spinal cord. Although the teeth do not consist of tissue commonly found in bones, the teeth are usually considered as members of the skeletal system.[8] The biggest bone in the body is the femur in the upper leg, and the smallest is the stapes bone in the middle ear. In an adult, the skeleton comprises around 14% of the total body weight,[9] and half of this weight is water.
 

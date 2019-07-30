@@ -1,1 +1,0 @@
-SPANISH NEW ZEALANDERS refers to New Zealand citizens and residents of Spanish descent, or people who were born in Spain and emigrated to New Zealand. There are approximately 2,043 New Zealanders who are full or partial Spanish descent, most of whom reside within the major cities of Auckland and Wellington.[1]

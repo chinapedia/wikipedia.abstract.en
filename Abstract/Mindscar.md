@@ -1,1 +1,0 @@
-MINDSCAR is an American heavy metal band from Orlando, Florida, founded in 1998. The band is led by guitarist/vocalist Richie Brown who has played with Trivium and Nader Sadek. Mindscar has toured with acts such as Vader and Vital Remains.

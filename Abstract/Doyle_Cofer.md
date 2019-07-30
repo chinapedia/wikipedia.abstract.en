@@ -1,1 +1,0 @@
-DOYLE COFER (January 18, 1923 – January 15, 1999) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Vagabond Kings during the 1948–49 season and averaged 3.4 points per game.[3]

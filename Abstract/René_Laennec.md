@@ -1,1 +1,0 @@
-RENÉ-THÉOPHILE-HYACINTHE LAENNEC[1] (; 17 February 1781 – 13 August 1826) was a French physician. He invented the stethoscope in 1816, while working at the Hôpital Necker, and pioneered its use in diagnosing various chest conditions.

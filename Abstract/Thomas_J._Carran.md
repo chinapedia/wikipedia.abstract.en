@@ -1,1 +1,0 @@
-THOMAS JEFFERSON "LAUGHING TOM" CARRAN (1841-1894) was an American attorney and politician. Elected as city attorney of Cleveland in 1867 at the age of just 26, Carran is best remembered for having been elected to the Ohio State Senate.

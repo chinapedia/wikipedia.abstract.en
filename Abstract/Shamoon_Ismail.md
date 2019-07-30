@@ -1,1 +1,0 @@
-SHAMOON ISMAIL () is a Pakistani born music artist known for introducing a new genre to the music community called "Punjabi Blues[1]". Shamoon Ismail is an Islamabad-based singer, songwriter, composer and multi-instrumentalist. His biggest claim to fame is his hit song 'Tuntuna' which was an instant hit in his country Pakistan and across the border in India.

@@ -1,1 +1,0 @@
-KRISTĪNE ŠEFERE (born 4 December 1981) is a Latvian female badminton player.[1][2]. She is the most successful Latvian badminton player, winning 66 Latvian champion titles, including 53 individual titles (singles, doubles, mixed doubles) and 13 team titles.

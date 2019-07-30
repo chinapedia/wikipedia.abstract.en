@@ -1,1 +1,0 @@
-The 2017 CHALLENGE CUP, (also known as the LADBROKES CHALLENGE CUP[1] for sponsorship reasons) was the 116th staging of the Challenge Cup the main rugby league knockout tournament for teams in the Super League, the British National Leagues and a number of invited amateur clubs.

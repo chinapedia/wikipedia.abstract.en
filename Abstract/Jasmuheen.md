@@ -1,1 +1,0 @@
-JASMUHEEN (born ELLEN GREVE; 1957) is a proponent of "pranic nourishment" or breatharianism, a practice defined as living without food or fluid of any sort and regarded by the scientific community as a lethal pseudoscience.[1] She makes appearances at New Age conferences worldwide, has hosted spiritual retreats in Thailand and has released books and audio recordings.

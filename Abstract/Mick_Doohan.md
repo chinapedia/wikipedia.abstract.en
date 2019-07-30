@@ -1,1 +1,0 @@
-MICHAEL "MICK" SYDNEY DOOHAN, [1] (born 4 June 1965) is an Australian former Grand Prix motorcycle road racing World Champion, who won five consecutive 500 cc World Championships. Only Giacomo Agostini with eight (seven consecutive) and Valentino Rossi with seven (five consecutive) have won more premier class titles.[2]

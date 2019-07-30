@@ -1,1 +1,0 @@
-CHARITON COUNTY COURTHOUSE was a historic courthouse located at Keytesville, Chariton County, Missouri. It was built in 1866, and was a two-story, white-painted, brick, rectangular building.[1] It was destroyed by fire on August 27, 1973.

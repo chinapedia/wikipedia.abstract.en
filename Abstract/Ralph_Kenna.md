@@ -1,1 +1,0 @@
-Professor RALPH KENNA (born 27 August 1964) is an Irish mathematician and theoretical physicist who is head of the statistical physics research group at Coventry University. He is a specialist in critical phenomena and sociophysics.[1]

@@ -1,1 +1,0 @@
-PHILIP JOHN HESKETH (born 15 November 1964) is a British Anglican priest. Since June 2016, he has served as the Dean of Rochester, the head of the chapter of Rochester Cathedral and the most senior priest in the Diocese of Rochester.[1][2][3]

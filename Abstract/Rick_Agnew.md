@@ -1,1 +1,0 @@
-DR RICHARD (RICK) AGNEW (born 1959) is an Australian alpine mountaineer and high altitude sports aviator who has completed the Seven Summits (climbing the highest mountains on each of the seven continents) climbing Mt Everest and many other peaks. He holds over 40 international and Australian speed, distance and height aviation records.

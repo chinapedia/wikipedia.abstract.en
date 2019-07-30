@@ -1,1 +1,0 @@
-CONVENTIONAL WARFARE is a form of warfare conducted by using conventional weapons and battlefield tactics between two or more states in open confrontation. The forces on each side are well-defined, and fight using weapons that primarily target the opponent's military. It is normally fought using conventional weapons, and not with chemical, biological, or nuclear weapons.

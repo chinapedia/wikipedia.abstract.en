@@ -1,1 +1,0 @@
-_BATMAN: STRANGE DAYS_ is a 2014 animated superhero short film based on the popular DC Comics character Batman. Directed by Bruce Timm, it was created to celebrate the 75th anniversary of the conception of the character.[1][2][3]

@@ -1,1 +1,0 @@
-The BANGLADESH NATIONAL FILM AWARD FOR BEST SCREENPLAY () is one of the highest film awards in Bangladesh. Since 1975, the awards are given in the category of best screenplay. The first award winner was _Khan Ataur Rahman_.

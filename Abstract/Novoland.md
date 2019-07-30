@@ -1,1 +1,0 @@
-NOVOLAND (), is a fictional universe, with a known world of 3 continents and 9 provinces; divided into the prosperous Eastern Land and the nomadic Eight Tribes. It spans a history of 10000 years divided into 10 eras and about 16 dynasties.

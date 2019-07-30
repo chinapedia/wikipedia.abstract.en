@@ -1,1 +1,0 @@
-_ST ANTONY'S INTERNATIONAL REVIEW_ (STAIR) is the peer-reviewed student-run journal of international affairs of the University of Oxford, founded in 2005 by graduate students of St Antony's College. The journal covers the fields of international relations, political science, area studies, development studies, international history and other social sciences.

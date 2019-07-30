@@ -1,1 +1,0 @@
-Tzanakopoulos_Dimitris.jpg DIMITRIS TZANAKOPOULOS (Greek: Δημήτρης Τζανακόπουλος; born 5 June 1982) is a Greek politician and a lawyer. He was a Minister of State & the Government Spokesperson of the Hellenic Republic (Greece) in the cabinet of Alexis Tsipras between 2016 and 2019. In the snap general election of 7 July 2019 he was elected Member of Parliament for Athens (A).

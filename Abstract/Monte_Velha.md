@@ -1,1 +1,0 @@
-MONTE VELHA is a peak in the northeastern part of the island of Fogo in Cape Verde. Its elevation is 1,482 m.[1] It is a subpeak of the Pico do Fogo volcano, located at the northeastern end of the crater rim. It lies within the municipality of Mosteiros, 4 km southwest of the city centre. Its forest is a protected area, part of the larger Fogo Natural Park.[2]

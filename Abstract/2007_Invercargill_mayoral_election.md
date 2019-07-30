@@ -1,1 +1,0 @@
-The 2007 INVERCARGILL MAYORAL ELECTION commenced on Saturday, 13 October 2007 and was conducted under the First Past the Post system using the postal voting system. It was held as part of the 2007 New Zealand local elections.

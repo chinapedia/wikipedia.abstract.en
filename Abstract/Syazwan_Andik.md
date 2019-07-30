@@ -1,1 +1,0 @@
-MUHAMMAD SYAZWAN BIN ANDIK MOHD ISHAK (born 4 August 1996) is a Malaysian professional footballer who mainly plays as a left back but can also play as a wing back for Johor Darul Ta'zim and the Malaysian National Football Team.

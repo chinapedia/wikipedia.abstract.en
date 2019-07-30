@@ -1,1 +1,0 @@
-_AZUL..._ is a book of stories and poems by Nicaraguan poet Rubén Darío, and is considered one of the most relevant works of Hispanic Modernism. It was published for the first time in Valparaíso on July 30, 1888. Two years later, in Guatemala, an augmented and corrected version appeared.

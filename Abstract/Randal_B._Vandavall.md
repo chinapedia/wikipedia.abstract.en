@@ -1,1 +1,0 @@
-RANDAL B. VANDERVALL (March 23, 1832 - 1898) was an early African-American Baptist preacher in Nashville, Tennessee. He began preaching while still a slave. After emancipation, he helped found Roger Williams University.

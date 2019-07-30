@@ -1,1 +1,0 @@
-BARRE CITY HALL AND OPERA HOUSE is a historic government building at 6 North Main Street in downtown Barre, Vermont. Built in 1899, it houses the city offices, and its upper floors have served for much of the time since its construction as a performing arts venue. The building was listed on the National Register of Historic Places in 1973.[1]

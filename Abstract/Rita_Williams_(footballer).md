@@ -1,1 +1,0 @@
-'''Rita Williams ''' (born 15 August 1979) is a Namibian women's international footballer who plays as a forward. She is a member of the Namibia women's national football team. She was part of the team at the 2014 African Women's Championship.[1][2]

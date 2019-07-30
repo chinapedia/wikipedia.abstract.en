@@ -1,1 +1,0 @@
-_VADIVUKKU VALAI KAPPU_ ()[1] is a 1962 Indian Tamil-language film written and directed by A. P. Nagarajan in his directorial debut. The film features Sivaji Ganesan, Savitri, V. K. Ramasamy, M. N. Rajam, S. V. Subbaiah, S. Varalakshmi and T. P. Muthulakshmi.[2]

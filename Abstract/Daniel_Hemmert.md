@@ -1,1 +1,0 @@
-DANIEL HEMMERT is an American businessman and politician who is currently serving as a Republican member of the Utah Senate.[1] He was appointed in August 2016 in order to succeed Alvin B. Jackson, who had resigned the previous month.[2][3]

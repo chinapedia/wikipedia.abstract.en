@@ -1,1 +1,0 @@
-On November 26, 1990 an Egyptian border guard crossed into Israel and attacked several vehicles along the Highway 12 road. The attack took place near Ein Netafim, a spring several miles northwest of Eilat. 3 Israeli soldiers and 1 civilian were killed.[1]

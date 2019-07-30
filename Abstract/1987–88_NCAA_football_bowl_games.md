@@ -1,1 +1,0 @@
-The 1987–88 NCAA FOOTBALL BOWL GAMES concluded the 1987 NCAA Division I-A football season, featuring 18 games. Twenty ranked teams participated, and seven of the eighteen matchups were between two ranked teams.[1] The Miami Hurricanes were declared the national champions, after upsetting #1 Oklahoma in the Orange Bowl.[2][3]

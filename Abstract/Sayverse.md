@@ -1,1 +1,0 @@
-SAYVERSE, is a Latin pop rock band that originated in El Paso, Texas. The current members are Roger Argenis (Guitars), Juan Arellano (Vocals), and Manny Martinez (Drums). Sayverse came together in 2015 to bring a fresh sound to the pop rock scene in Latin America.[1] In 2016, after only 10 months of making music, Sayverse was invited to perform at the Latin Billboards 2016.[2]

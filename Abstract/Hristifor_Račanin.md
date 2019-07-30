@@ -1,1 +1,0 @@
-HRISTIFOR RAČANIN (c. 1595-1670) was a Serbian scribe working on ornately decorated manuscripts. He is best known for _Psaltir s posledovanjem_, written in 1645. He was the abbot of the Rača monastery on the Drina River.

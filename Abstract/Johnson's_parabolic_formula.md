@@ -1,1 +1,0 @@
-Euler_curve_illustration.jpg The JOHNSON FORMULA is an empirically based formula relating the slenderness ratio to the stress illustrating the critical load required to buckle a column. The formula is based on empirical results by J. B. Johnson from around 1900 as an alternative to Euler's critical load formula under low slenderness ratio conditions.

@@ -1,1 +1,0 @@
-Bijection.svg Aleph0.svg, the smallest infinite cardinal]] In mathematics, CARDINAL NUMBERS, or CARDINALS for short, are a generalization of the natural numbers used to measure the cardinality (size) of sets. The cardinality of a finite set is a natural number: the number of elements in the set. The _transfinite_ cardinal numbers describe the sizes of infinite sets.

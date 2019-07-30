@@ -1,1 +1,0 @@
-This is a LIST OF MAYORS OF SACRAMENTO, CALIFORNIA. The Sacramento City Council met for the first time on August 1, 1849 and the citizens approved the city charter on October 13, 1849. The City Charter was recognized by the State of California on February 27, 1850 and Sacramento was incorporated on March 18, 1850.[1]

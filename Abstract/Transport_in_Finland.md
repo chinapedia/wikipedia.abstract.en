@@ -1,1 +1,0 @@
-The TRANSPORT SYSTEM OF FINLAND is well-developed. Factors affecting traffic include the sparse population and long distance between towns and cities, and the cold climate with waterways freezing and land covered in snow for winter.

@@ -1,1 +1,0 @@
-KAU POINT BATTERY is a 19th-century coast defence battery constructed in Wellington, New Zealand in the 1890s. It is located on the east side of Point Halswell in Wellington, New Zealand, approximately midway between the Massey Memorial and Fort Ballance, close to the site of the ancient Māori settlement of Kau-whakaara-waru.[1]

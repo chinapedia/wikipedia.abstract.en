@@ -1,1 +1,0 @@
-SIR FREDERICK THOMAS GEORGE HOBDAY CMG FRSE PRCVS (4 November 1869 – 24 June 1939) was an innovative veterinary surgeon who served as President of the Royal Veterinary College 1927 to 1937. The college holds an annual lecture entitled the Frederick Hobday Memorial Address. He was the official veterinary surgeon to Queen Alexandra from 1912 to 1939.[1]

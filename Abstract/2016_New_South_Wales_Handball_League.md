@@ -1,1 +1,0 @@
-The 2016 Club Season started in July 2016 and went through until September 2016.[1] Competitions are held for open women’s and open men’s teams. There is also a schools competition. The winner of the men's and women's competition qualifies for the National Club championship.

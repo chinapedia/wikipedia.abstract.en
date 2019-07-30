@@ -1,1 +1,0 @@
-ABIJITH PAUL is an Indian film actor, who has appeared in character roles in Malayalam and Tamil films. The brother of actress Amala Paul, he made his debut with _Oru Indian Pranayakadha_ (2013) and _Lailaa O Lailaa_ (2015) portraying minor roles, before working on his former brother-in-law A. L. Vijay's _Devi_ (2016).[1]

@@ -58,7 +58,7 @@ Order Scorpiones
 
 Fossil record
 
-The_Eurypterida_of_New_York_plate_88.jpg]] Scorpion remains have been found in many fossil records, including marine Silurian and estuarine Devonian deposits, coal deposits from the Carboniferous Period and in amber. The oldest known scorpions lived around 430 million years ago in the Silurian period. Though once believed to have lived on the bottom of shallow tropical seas,[23] early scorpions are now believed to have been terrestrial and to have washed into marine settings together with plant matter. These first scorpions were believed to have had gills instead of the present forms' book lungs, though this has subsequently been refuted.[24][25][26] The oldest Gondwanan scorpions (_Gondwanascorpio_) comprise the earliest known terrestrial animals from Gondwana.[27] Currently, 111 fossil species of scorpion are known.[28] Unusually for arachnids, there are more species of Palaeozoic scorpion than Mesozoic or Cenozoic ones.
+]] Scorpion remains have been found in many fossil records, including marine Silurian and estuarine Devonian deposits, coal deposits from the Carboniferous Period and in amber. The oldest known scorpions lived around 430 million years ago in the Silurian period. Though once believed to have lived on the bottom of shallow tropical seas,[23] early scorpions are now believed to have been terrestrial and to have washed into marine settings together with plant matter. These first scorpions were believed to have had gills instead of the present forms' book lungs, though this has subsequently been refuted.[24][25][26] The oldest Gondwanan scorpions (_Gondwanascorpio_) comprise the earliest known terrestrial animals from Gondwana.[27] Currently, 111 fossil species of scorpion are known.[28] Unusually for arachnids, there are more species of Palaeozoic scorpion than Mesozoic or Cenozoic ones.
 
 Ancestral scorpions had compound eyes, but as they adapted to a nocturnal lifestyle, they became simplified.[29]
 
@@ -67,7 +67,7 @@ The eurypterids, commonly called "sea scorpions", were aquatic creatures that li
 
 Morphology
 
-Scorpion_anatomy.png'';
+'';
 2 = Abdomen or _Mesosoma_;
 3 = Tail or _Metasoma_;
 4 = Claws or _Pedipalps_
@@ -78,7 +78,7 @@ Scorpion_anatomy.png'';
 9 = Fixed claw or _Manus_;
 10 = Stinger or _Aculeus_;
 11 = _Telson_ (anus in previous joint);
-12 = Opening of book lungs]] ScorpionBarb.jpg]] Vista_ventral_de_un_escorpión.jpg can easily be observed with a comb like structure in an inverted V shape.]]
+12 = Opening of book lungs]] ]] can easily be observed with a comb like structure in an inverted V shape.]]
 
 The body of a scorpion is divided into two parts (tagmata): the head (cephalothorax) and the abdomen (opisthosoma), which is subdivided into a broad anterior (mesosoma), or preabdomen, and a narrow tail-like posterior (metasoma), or postabdomen.[33]
 
@@ -109,7 +109,7 @@ On rare occasions, scorpions are born with two metasomata. Two-tailed scorpions 
 
 Fluorescence
 
-Sorpion_Under_Blacklight_edit.jpg.]] Scorpions are also known to glow a vibrant blue-green when exposed to certain wavelengths of ultraviolet light such as that produced by a black light, due to the presence of fluorescent chemicals in the cuticle. One fluorescent component is now known to be beta-carboline.[45] A hand-held UV lamp has long been a standard tool for nocturnal field surveys of these animals. Fluorescence occurs as a result of sclerotisation and increases in intensity with each successive instar.[46] This fluorescence may have an active role in scorpion light detection.[47]
+.]] Scorpions are also known to glow a vibrant blue-green when exposed to certain wavelengths of ultraviolet light such as that produced by a black light, due to the presence of fluorescent chemicals in the cuticle. One fluorescent component is now known to be beta-carboline.[45] A hand-held UV lamp has long been a standard tool for nocturnal field surveys of these animals. Fluorescence occurs as a result of sclerotisation and increases in intensity with each successive instar.[46] This fluorescence may have an active role in scorpion light detection.[47]
 
 
 Biology
@@ -126,7 +126,7 @@ Reproduction
 
 Most scorpions reproduce sexually, and most species have male and female individuals; however, some species, such as _Hottentotta hottentotta_, _Hottentotta caboverdensis_, _Liocheles australasiae_, _Tityus columbianus_, _Tityus metuendus_, _Tityus serrulatus_, _Tityus stigmurus_, _Tityus trivittatus_ and _Tityus urugayensis_, reproduce through parthenogenesis, a process in which unfertilized eggs develop into living embryos. Parthenogenic reproduction starts following the scorpion's final molt to maturity and continues thereafter.
 
-Pregnant_scorpion.jpg Sexual reproduction is accomplished by the transfer of a spermatophore from the male to the female. Scorpions possess a complex courtship and mating ritual to effect this transfer. Mating starts with the male and female locating and identifying each other using a mixture of pheromones and vibrational communication. Once they have satisfied the other that they are of opposite sex and of the correct species, mating can commence.
+Sexual reproduction is accomplished by the transfer of a spermatophore from the male to the female. Scorpions possess a complex courtship and mating ritual to effect this transfer. Mating starts with the male and female locating and identifying each other using a mixture of pheromones and vibrational communication. Once they have satisfied the other that they are of opposite sex and of the correct species, mating can commence.
 
 The courtship starts with the male grasping the female's pedipalps with his own. The pair then perform a "dance" called the "_promenade à deux_". In this "dance," the male leads the female around searching for a suitable place to deposit his spermatophore. The courtship ritual can involve several other behaviors such as juddering and a cheliceral kiss, in which the male's chelicerae – pincers – grasp the female's in a smaller, more intimate version of the male's grasping the female's pedipalps, and in some cases injecting a small amount of his venom into her pedipalp or on the edge of her cephalothorax,[55] probably as a means of pacifying the female.
 
@@ -136,7 +136,7 @@ Once the mating is complete, the male will generally retreat quickly, for unknow
 
 Birth and development
 
-scorpionwithyoung.JPG'' female with young]] Unlike the majority of species in the class Arachnida, which are oviparous, scorpions seem to be universally viviparous.[56] The young are born one by one, expel the embryonic membrane, if any, and the brood is carried about on its mother's back until the young have undergone at least one molt. Before the first molt, scorplings cannot survive naturally without the mother, since they depend on her for protection and to regulate their moisture levels. Especially in species that display more advanced sociability (e.g. _Pandinus_ spp.), the young/mother association can continue for an extended period of time. The size of the litter depends on the species and environmental factors, and can range from 2 to more than 100 scorplings. The average litter however, consists of around eight scorplings.[57]
+'' female with young]] Unlike the majority of species in the class Arachnida, which are oviparous, scorpions seem to be universally viviparous.[56] The young are born one by one, expel the embryonic membrane, if any, and the brood is carried about on its mother's back until the young have undergone at least one molt. Before the first molt, scorplings cannot survive naturally without the mother, since they depend on her for protection and to regulate their moisture levels. Especially in species that display more advanced sociability (e.g. _Pandinus_ spp.), the young/mother association can continue for an extended period of time. The size of the litter depends on the species and environmental factors, and can range from 2 to more than 100 scorplings. The average litter however, consists of around eight scorplings.[57]
 
 The young generally resemble their parents. Growth is accomplished by periodic shedding of the exoskeleton (ecdysis). A scorpion's developmental progress is measured in instars (how many molts it has undergone). Scorpions typically require between five and seven molts to reach maturity. Molting commences with a split in the old exoskeleton just below the edge of the carapace (at the front of the prosoma). The scorpion then emerges from this split. The pedipalps and legs are first removed from the old exoskeleton, followed eventually by the metasoma. When it emerges, the scorpion's new exoskeleton is soft, making the scorpion highly vulnerable to attack. The scorpion must constantly stretch while the new exoskeleton hardens to ensure that it can move when the hardening is complete. The process of hardening is called sclerotisation. The new exoskeleton does not fluoresce. As sclerotisation occurs, the fluorescence gradually returns.
 
@@ -166,7 +166,7 @@ First aid for scorpion stings is generally symptomatic. It includes strong analg
 
 Medical use
 
-Deathstalker_ST_07.JPG has powerful venom.]] Short-chain scorpion toxins constitute the largest group of potassium (K⁺) channel-blocking peptides. An important physiological role of the KCNA3 channel, also known as K_(V)1.3, is to help maintain large electrical gradients for the sustained transport of ions such as Ca²⁺ that controls T lymphocyte (T cell) proliferation. Thus K_(V)1.3 blockers could be potential immunosuppressants for the treatment of autoimmune disorders (such as rheumatoid arthritis, inflammatory bowel disease, and multiple sclerosis).[65]
+has powerful venom.]] Short-chain scorpion toxins constitute the largest group of potassium (K⁺) channel-blocking peptides. An important physiological role of the KCNA3 channel, also known as K_(V)1.3, is to help maintain large electrical gradients for the sustained transport of ions such as Ca²⁺ that controls T lymphocyte (T cell) proliferation. Thus K_(V)1.3 blockers could be potential immunosuppressants for the treatment of autoimmune disorders (such as rheumatoid arthritis, inflammatory bowel disease, and multiple sclerosis).[65]
 
 The venom of _Uroplectes lineatus_ is clinically important in dermatology.[66]
 
@@ -184,11 +184,11 @@ The venom is one of the most valuable liquids by volume on earth and it costs $3
 
 Consumption
 
-Eating_scorpions.jpg, China]] Fried scorpion is a traditional dish from Shandong, China.[75]
+, China]] Fried scorpion is a traditional dish from Shandong, China.[75]
 
 In culture
 
-Scorpion_kilim_motif.jpg is often woven into Turkish _kilim_ flatweave carpets, for protection from their sting (examples)]]
+is often woven into Turkish _kilim_ flatweave carpets, for protection from their sting (examples)]]
 
 -   One of earliest occurrences of the scorpion in culture is its inclusion, as _Scorpio_, in the 12 signs of the series of constellations known as the Zodiac by Babylonian astronomers during the Chaldean period.[76]
 -   In South Africa and South Asia, the scorpion is a significant animal culturally, appearing as a motif in art, especially in Islamic art in the Middle East.[77] A scorpion motif is often woven into Turkish kilim flat-weave carpets, for protection from their sting.[78] The scorpion is perceived both as an embodiment of evil and a protective force that counters evil, such as a dervish's powers to combat evil.[79] In another context, the scorpion portrays human sexuality.[80] Scorpions are used in folk medicine in South Asia, especially in antidotes for scorpion stings.[81]

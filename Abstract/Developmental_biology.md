@@ -1,1 +1,0 @@
-DEVELOPMENTAL BIOLOGY is the study of the process by which animals and plants grow and develop. Developmental biology also encompasses the biology of regeneration, asexual reproduction, metamorphosis, and the growth and differentiation of stem cells in the adult organism.

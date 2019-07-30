@@ -1,1 +1,0 @@
-ROBERT MAYNARD PIRSIG (; September 6, 1928 – April 24, 2017) was an American writer and philosopher. He was the author of the philosophical novels _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_ (1974) and _Lila: An Inquiry into Morals_ (1991).[1]

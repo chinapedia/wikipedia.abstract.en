@@ -1,1 +1,0 @@
-DILL (_Anethum graveolens_) is an annual herb in the celery family Apiaceae. It is the only species in the genus _Anethum_. Dill is grown widely in Eurasia where its leaves and seeds are used as a herb or spice for flavouring food.

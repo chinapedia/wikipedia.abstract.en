@@ -1,1 +1,0 @@
-OPERATION _PHALANX_ was a United States National Guard program to assist the Department of Homeland Security (DHS) in the security of the United States-Mexico Border. Beginning in 2010, _Phalanx_ was the successor operation to 2006-2008 program known as Operation _Jump Start_.[1][2]

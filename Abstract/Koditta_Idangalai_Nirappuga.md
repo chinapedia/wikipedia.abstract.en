@@ -1,1 +1,0 @@
-_KODITTA IDANGALAI NIRAPPUGA_ () is a 2017 Tamil-language comedy thriller film produced, written and directed by R. Parthiepan, which stars himself alongside Shanthanu Bhagyaraj and Parvathy Nair in the lead roles. Featuring music composed by Sathya and cinematography by Arjun Jena, the film was released on 14 January 2017.

@@ -1,1 +1,0 @@
-_ROUGH CUT WITH FINE WOODWORKING_ is a woodworking television show hosted by woodworker Tom McLaughlin that is produced by WGBH Boston in partnership with Fine Woodworking. The show is distributed by American Public Television.

@@ -1,1 +1,0 @@
-__NOTOC__ LAKE HARRIS is a locality in the Australian state of South Australia located about north-west of the capital city of Adelaide and which is associated with the lake also known as Lake Harris.[1]

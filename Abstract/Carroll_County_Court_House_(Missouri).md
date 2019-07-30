@@ -1,1 +1,0 @@
-CARROLL COUNTY COURT HOUSE is a historic courthouse located at Carrollton, Carroll County, Missouri. It was built in 1904, and is a 2 1/2 story, Romanesque Revival style building built of locally quarried coursed rough faced sandstone. Also on the property is the contributing heroic statue of General James Shields.[1]

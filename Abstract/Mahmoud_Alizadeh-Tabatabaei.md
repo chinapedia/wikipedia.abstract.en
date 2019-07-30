@@ -1,1 +1,0 @@
-SEYYED MAHMOUD ALIZADEH-TABATABAEI () is an Iranian lawyer. According to the _New York Times_, he is "one of the most influential" and "well connected" lawyers to highest leaders in Iran.[1] He was a member of City Council of Tehran fRom 1999 to 2003.

@@ -1,1 +1,0 @@
-_WAGHOBA: PROVIDER, DESTROYER, DEITY_ is a 2016 documentary short film about Indian tigers and their relationships with human society. It is directed and written by Malaika Vaz and produced by Sandesh Kadur.[1][2] The film helped win the National Geographic ROAD Talent award for Wildscreen Festival.[3]

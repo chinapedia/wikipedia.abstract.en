@@ -1,1 +1,0 @@
-_FIVE SENSES_ is the second extended play from South Korean boy band Pentagon. It was released on December 7, 2016, by Cube Entertainment. The album consists of five tracks, including the title track, "Can You Feel It".

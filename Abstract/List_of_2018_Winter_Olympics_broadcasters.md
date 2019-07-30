@@ -1,1 +1,0 @@
-The 2018 Winter Olympics in Pyeongchang are televised by a number of broadcasters throughout the world. As with previous years, Olympic Broadcasting Services together with Japan’s NHK produces the world feed provided to local broadcasters for use in their coverage, including about 90 hours of content captured in 8K.[1][2]

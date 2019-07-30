@@ -1,1 +1,0 @@
-In July 1913, the first INTERNATIONAL SCOUT RALLY IN BIRMINGHAM also known as the “Imperial Scout Exhibition” was an historic gathering of Boy Scouts and Girl Scouts held in Perry Hall Park, attended by about 30,000 Scouts.[1]

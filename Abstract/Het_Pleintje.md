@@ -1,1 +1,0 @@
-_HET PLEINTJE_, can be translated as _The Little Square_, was a Flemish television series produced by the former public broadcasting channel BRT, nowadays VRT. It was aired between 1986 and 1987 and contains 27 episodes. The series were written by Jan Matterne and directed by Juul Claes.

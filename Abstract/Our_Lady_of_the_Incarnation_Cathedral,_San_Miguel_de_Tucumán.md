@@ -1,1 +1,0 @@
-The OUR LADY OF THE INCARNATION CATHEDRAL [1] () also called SAN MIGUEL DE TUCUMÁN CATHEDRAL It is the mother church of the city of San Miguel de Tucuman,[2] in the province of Tucuman, in the South American country of Argentina.[3] The temple was founded in the sixteenth century and is home to the metripolitana Archdiocese of Tucuman.

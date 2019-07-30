@@ -1,4 +1,4 @@
-Isomerism.svgs. Stereochemistry focuses on stereoisomers.]]
+s. Stereochemistry focuses on stereoisomers.]]
 
 In stereochemistry, STEREOISOMERISM, or SPATIAL ISOMERISM, is a form of isomerism in which molecules have the same molecular formula and sequence of bonded atoms (constitution), but differ in the three-dimensional orientations of their atoms in space.[1][2] This contrasts with structural isomers, which share the same molecular formula, but the bond connections or their order differs. By definition, molecules that are stereoisomers of each other represent the same structural isomer.
 
@@ -12,17 +12,17 @@ Diastereomers
 
 DIASTEREOMERS are stereoisomers not related through a reflection operation. They are not mirror images of each other. These include meso compounds, _cis_–_trans_ isomers, E-Z isomers, and non-enantiomeric optical isomers. Diastereomers seldom have the same physical properties. In the example shown below, the meso form of tartaric acid forms a diastereomeric pair with both levo and dextro tartaric acids, which form an enantiomeric pair.
 
-+:-------------------------:+:-------------------------:+:--------------------------:+
-| Image:L-tartaric acid.png | Image:D-tartaric acid.png | Meso-Weinsäure_Spiegel.svg |
-+---------------------------+---------------------------+----------------------------+
-| (natural) tartaric acid   | D-(-)-tartaric acid       | meso-tartaric acid         |
-| L-(+)-tartaric acid       | levotartaric acid         |                            |
-| dextrotartaric acid       |                           |                            |
-+---------------------------+---------------------------+----------------------------+
-| (1:1)                     |                           |                            |
-| DL-tartaric acid          |                           |                            |
-| "racemic acid"            |                           |                            |
-+---------------------------+---------------------------+----------------------------+
++:-----------------------:+:-------------------:+:------------------:+
+|                         |                     |                    |
++-------------------------+---------------------+--------------------+
+| (natural) tartaric acid | D-(-)-tartaric acid | meso-tartaric acid |
+| L-(+)-tartaric acid     | levotartaric acid   |                    |
+| dextrotartaric acid     |                     |                    |
++-------------------------+---------------------+--------------------+
+| (1:1)                   |                     |                    |
+| DL-tartaric acid        |                     |                    |
+| "racemic acid"          |                     |                    |
++-------------------------+---------------------+--------------------+
 
 The D- and L- labeling of the isomers above is not the same as the _d_- and _l_- labeling more commonly seen, explaining why these may appear reversed to those familiar with only the latter naming convention.
 
@@ -33,11 +33,7 @@ Stereoisomerism about double bonds arises because rotation about the double bond
 
 Traditionally, double bond stereochemistry was described as either _cis_ (Latin, on this side) or _trans_ (Latin, across), in reference to the relative position of substituents on either side of a double bond. The simplest examples of _cis_-_trans_ isomerism are the 1,2-disubstituted ethenes, like the dichloroethene (C₂H₂Cl₂) isomers shown below.
 
-Dichloroethene.png
-
 Molecule I is _cis_-1,2-dichloroethene and molecule II is _trans_-1,2-dichloroethene. Due to occasional ambiguity, IUPAC adopted a more rigorous system wherein the substituents at each end of the double bond are assigned priority based on their atomic number. If the high-priority substituents are on the same side of the bond, it is assigned Z (Ger. _zusammen_, together). If they are on opposite sides, it is E (Ger. _entgegen_, opposite). Since chlorine has a larger atomic number than hydrogen, it is the highest-priority group. Using this notation to name the above pictured molecules, molecule I is (Z)-1,2-dichloroethene and molecule II is (E)-1,2-dichloroethene. It is not the case that Z and _cis_ or E and _trans_ are always interchangeable. Consider the following fluoromethylpentene:
-
-Fluoromethylpentene.png
 
 The proper name for this molecule is either _trans_-2-fluoro-3-methylpent-2-ene because the alkyl groups that form the backbone chain (i.e., methyl and ethyl) reside across the double bond from each other, or (Z)-2-fluoro-3-methylpent-2-ene because the highest-priority groups on each side of the double bond are on the same side of the double bond. Fluoro is the highest-priority group on the left side of the double bond, and ethyl is the highest-priority group on the right side of the molecule.
 

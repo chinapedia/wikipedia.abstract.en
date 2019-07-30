@@ -1,1 +1,0 @@
-The SOCIÉTÉ D'ÉTUDE DU XVIIE is a French learned society established in Paris in 1948 along the status of an [1] in order to bring together specialists (historians, literary historians, art historians ...) of this period and to develop studies on this century.

@@ -1,1 +1,0 @@
-STRESS may refer to:

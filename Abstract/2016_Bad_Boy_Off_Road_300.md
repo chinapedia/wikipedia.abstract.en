@@ -1,1 +1,0 @@
-The 2016 BAD BOY OFF ROAD 300 was a NASCAR Sprint Cup Series race held on September 25, 2016, at New Hampshire Motor Speedway in Loudon, New Hampshire. Contested over 300 laps on the 1.058 mile (2.4 km) speedway, it was the 28th race of the 2016 NASCAR Sprint Cup Series season, second race of the Chase and second race of the Round of 16.

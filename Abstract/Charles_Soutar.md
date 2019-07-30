@@ -1,1 +1,0 @@
-Air Marshal SIR CHARLES JOHN WILLIAMSON SOUTAR, (12 June 1920 – 15 July 2016) was a British medical doctor and Royal Air Force officer. He served as Director General of RAF Medical Services from 1978 to 1981.

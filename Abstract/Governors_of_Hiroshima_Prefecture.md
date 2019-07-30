@@ -1,1 +1,0 @@
-GOVERNORS OF HIROSHIMA PREFECTURE served from 1871, when the Japanese government abolished the position of the _daimyō_ of Hiroshima. Until 1947, the governors of Hiroshima Prefecture were appointed by the Ministry of Internal Affairs in Tokyo, but from 1947 onward they were elected.

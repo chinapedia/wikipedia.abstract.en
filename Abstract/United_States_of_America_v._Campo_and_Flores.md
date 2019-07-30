@@ -1,1 +1,0 @@
-The _UNITED STATES OF AMERICA V. EFRAIN ANTONIO CAMPO FLORES AND FRANQUI FRANCISCO FLORES DE FREITAS_ was a court case surrounding two nephews of Venezuelan former President Nicolás Maduro, Efraín Antonio Campo Flores and Francisco Flores de Freitas, who were found guilty of attempting to transport 800 kilograms of cocaine into the United States.[1][2][3]

@@ -178,9 +178,9 @@ However, such time signatures are only unusual in most Western music. Traditiona
 
 SOME VIDEO SAMPLES ARE SHOWN BELOW.
 
-  ------------------------------ -------------------------- -----------------------------
-  Video-of-5o4-at-60-bpm.ogv]]   Video-for-7o4.theora.ogv   Video-of-11o4-at-60-bpm.ogv
-  ------------------------------ -------------------------- -----------------------------
+  ---- -- --
+  ]]
+  ---- -- --
 
 
 Mixed meters
@@ -241,7 +241,7 @@ Some pieces have no time signature, as there is no discernible meter. This is so
 
 If two time signatures alternate repeatedly, sometimes the two signatures are placed together at the beginning of the piece or section, as shown below:
 
-    Tchaikovsky_String_Quartet_in_F_excerpt.png, showing a multiple time signature]]
+    , showing a multiple time signature]]
 
 
 Additive meters
@@ -266,9 +266,9 @@ Brăiloiu borrowed a term from Turkish medieval music theory: _aksak_. Such comp
 
 SOME VIDEO SAMPLES ARE SHOWN BELOW.
 
-  --------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Video-for-time-signature-3+2+3.theora.ogv]]   Blue-Rondo-à-La-Turk.theora.ogv's "Blue Rondo à la Turk": It consists of three measures of followed by one measure of and the cycle then repeats. Taking the smallest time unit as eighth notes, the arrows on the tempo dial show the tempi for ♪, ♩, ♩. and the measure beat. Starts slow, speeds up to usual tempo]]
-  --------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ---- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ]]   's "Blue Rondo à la Turk": It consists of three measures of followed by one measure of and the cycle then repeats. Taking the smallest time unit as eighth notes, the arrows on the tempo dial show the tempi for ♪, ♩, ♩. and the measure beat. Starts slow, speeds up to usual tempo]]
+  ---- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Irrational meters
@@ -287,16 +287,16 @@ SOME VIDEO SAMPLES ARE SHOWN BELOW.
 
 These video samples show two time signatures combined to make a polymeter, since , say, in isolation, is identical to .
 
-  ------------------------------ ------------------------------ ----------------------------------------------
-  Polymeter-4o4c4o3.theora.ogv   Polymeter-2o6c3o4.theora.ogv   Polymeter-2o5c2o3.theora.ogv, which is 5:3]]
-  ------------------------------ ------------------------------ ----------------------------------------------
+  -- -- ------------------
+        , which is 5:3]]
+  -- -- ------------------
 
 
 Variants
 
 Some composers have used fractional beats: for example, the time signature appears in Carlos Chávez's Piano Sonata No. 3 (1928) IV, m. 1.
 
-orff_time_signatures.gif Music educator Carl Orff proposed replacing the lower number of the time signature with an actual note image, as shown at right. This system eliminates the need for compound time signatures, which are confusing to beginners. While this notation has not been adopted by music publishers generally (except in Orff's own compositions), it is used extensively in music education textbooks. Similarly, American composers George Crumb and Joseph Schwantner, among others, have used this system in many of their works.
+Music educator Carl Orff proposed replacing the lower number of the time signature with an actual note image, as shown at right. This system eliminates the need for compound time signatures, which are confusing to beginners. While this notation has not been adopted by music publishers generally (except in Orff's own compositions), it is used extensively in music education textbooks. Similarly, American composers George Crumb and Joseph Schwantner, among others, have used this system in many of their works.
 
 Another possibility is to extend the barline where a time change is to take place above the top instrument's line in a score and to write the time signature there, and there only, saving the ink and effort that would have been spent writing it in each instrument's staff. Henryk Górecki's _Beatus Vir_ is an example of this. Alternatively, music in a large score sometimes has time signatures written as very long, thin numbers covering the whole height of the score rather than replicating it on each staff; this is an aid to the conductor, who can see signature changes more easily.
 
@@ -311,10 +311,10 @@ A circle used as a mensuration sign indicated _tempus perfectum_ (a circle being
 
 A rough equivalence of these signs to modern meters would be:
 
--   Mensural_time_signature_1_(alternative).svg corresponds to meter;
--   Mensural_time_signature_2_(alternative).svg corresponds to meter;
--   Mensural_time_signature_3_(alternative).svg corresponds to meter;
--   Mensural_time_signature_4_(alternative).svg corresponds to meter.
+-   corresponds to meter;
+-   corresponds to meter;
+-   corresponds to meter;
+-   corresponds to meter.
 
 N.B.: in modern compound meters the beat is a dotted note value, such as a dotted quarter, because the ratios of the modern note value hierarchy are always 2:1. Dotted notes were never used in this way in the mensural period; the main beat unit was always a simple (undotted) note value.
 
@@ -322,15 +322,15 @@ Proportions
 
 Another set of signs in mensural notation specified the metric proportions of one section to another, similar to a metric modulation. A few common signs are shown:[21]
 
--   Allabreve.svg _tempus imperfectum diminutum_, 1:2 proportion (twice as fast);
--   mensural_proportion_2.svg _tempus perfectum diminutum_, 1:2 proportion (twice as fast);
--   mensural_proportion_5.svg or just mensural_proportion_4.svg _proportio tripla_, 1:3 proportion (three times as fast, similar to triplets).
+-   _tempus imperfectum diminutum_, 1:2 proportion (twice as fast);
+-   _tempus perfectum diminutum_, 1:2 proportion (twice as fast);
+-   or just _proportio tripla_, 1:3 proportion (three times as fast, similar to triplets).
 
 Often the ratio was expressed as two numbers, one above the other,[22] looking similar to a modern time signature, though it could have values such as , which a conventional time signature could not.
 
 Some proportional signs were not used consistently from one place or century to another. In addition, certain composers delighted in creating "puzzle" compositions that were intentionally difficult to decipher.[23]
 
-In particular, when the sign Allabreve.svg was encountered, the tactus (beat) changed from the usual whole note (semibreve) to the double whole note (breve), a circumstance called _alla breve_. This term has been sustained to the present day, and though now it means the beat is a half note (minim), in contradiction to the literal meaning of the phrase, it still indicates that the beat has changed to a longer note value.
+In particular, when the sign was encountered, the tactus (beat) changed from the usual whole note (semibreve) to the double whole note (breve), a circumstance called _alla breve_. This term has been sustained to the present day, and though now it means the beat is a half note (minim), in contradiction to the literal meaning of the phrase, it still indicates that the beat has changed to a longer note value.
 
 
 See also

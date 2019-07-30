@@ -1,1 +1,0 @@
-_META_ is the third album by the American band Car Bomb. The album was produced by Gojira's Joseph Duplantier and guitarist Greg Kubacki, and was released independently on digital and CD formats on 28 October 2016.

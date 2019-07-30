@@ -1,1 +1,0 @@
-The 2016 LAS VEGAS CHALLENGER is a professional tennis tournament played on hard courts. It is the second edition of the revamped tournament which is the part of the 2016 ATP Challenger Tour. It takes place in Las Vegas, United States between 17 and 23 October 2016.

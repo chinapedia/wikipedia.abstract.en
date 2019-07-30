@@ -1,1 +1,0 @@
-TRANSPORT IN SAINT LUCIA includes transportation to and from Saint Lucia, which is a sovereign island country located in the eastern Caribbean Sea. It also includes transportation from one part of the island to another.

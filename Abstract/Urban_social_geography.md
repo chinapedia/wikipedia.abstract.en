@@ -1,1 +1,0 @@
-URBAN SOCIAL GEOGRAPHY is a sub-field within human geography, looking at the factors within an urban environment that affect human relationships on social, economic and political levels. Those human relationships then feed back into the factors which then shape dynamics of the actual city itself. With numerous inputs and outputs, this study is a constantly evolving field.

@@ -1,1 +1,0 @@
-RONNA ROMNEY MCDANIEL (born March 20, 1973) is an American politician who is the Chair of the Republican National Committee (RNC) and former Chair of the Michigan Republican Party. McDaniel is a granddaughter of two-term Michigan Governor and businessman George W. Romney and niece of Senator Mitt Romney.

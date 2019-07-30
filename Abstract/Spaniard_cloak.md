@@ -1,1 +1,0 @@
-The SPANIARD CLOAK or SPANISH CLOAK is a garment typically worn in the Spanish-speaking world, and dates back to the late nineteenth century. It was the garment of priests and traditional Christians. It is called "Spanish" or even "Pañosa," being made of cloth, wide flight and with bands of velvet lining revealing colour at the front edges.

@@ -1,1 +1,0 @@
-KARMASANGSTHAN BANK is a government owned specialized bank in Bangladesh. The bank was founded with a vision to alleviate poverty from the country through financing the unemployed youth of Bangladesh to undertake small entrepreneurship.[1][2]

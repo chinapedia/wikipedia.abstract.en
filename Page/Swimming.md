@@ -1,4 +1,4 @@
-Natacio.jpg performing freestyle]] DM_Freiwasserschwimmen_2009_Lindau.JPG
+performing freestyle]]
 
 SWIMMING is the self-propulsion of a person through water, usually for recreation, sport, exercise, or survival. Locomotion is achieved through coordinated movement of the limbs, the body, or both. Humans can hold their breath underwater and undertake rudimentary locomotive swimming within weeks of birth, as a survival response.[1]
 
@@ -7,7 +7,7 @@ Swimming is consistently among the top public recreational activities,[2][3][4][
 
 Science
 
-Participants_with_the_Water_Warrior_class_perform_squats_prior_to_entering_the_pool_at_Camp_Foster,_Okinawa,_Japan,_July_6,_2011_110706-M-VD776-004_(cropped).jpg prior to entering the pool in a U.S. military base, 2011]] Swimming relies on the nearly neutral buoyancy of the human body. On average, the body has a relative density of 0.98 compared to water, which causes the body to float. However, buoyancy varies on the basis of body composition, lung inflation, and the salinity of the water. Higher levels of body fat and saltier water both lower the relative density of the body and increase its buoyancy.
+prior to entering the pool in a U.S. military base, 2011]] Swimming relies on the nearly neutral buoyancy of the human body. On average, the body has a relative density of 0.98 compared to water, which causes the body to float. However, buoyancy varies on the basis of body composition, lung inflation, and the salinity of the water. Higher levels of body fat and saltier water both lower the relative density of the body and increase its buoyancy.
 
 Since the human body is only slightly less dense than water, water supports the weight of the body during swimming. As a result, swimming is “low-impact” compared to land activities such as running. The density and viscosity of water also create resistance for objects moving through the water. Swimming strokes use this resistance to create propulsion, but this same resistance also generates drag on the body.
 
@@ -32,7 +32,7 @@ Other strokes exist for specific purposes, such as training or rescue, and it is
 
 History
 
-River_crossing.jpg conqueror Babur's troops swim across a river.]]
+conqueror Babur's troops swim across a river.]]
 
 Swimming has been recorded since prehistoric times, and the earliest records of swimming date back to Stone Age paintings from around 7,000 years ago. Written references date from 2000 BC. Some of the earliest references include the Epic of Gilgamesh, the Iliad, the Odyssey, the Bible (Ezekiel 47:5, Acts 27:42, Isaiah 25:11), Beowulf, and other sagas.
 
@@ -49,11 +49,11 @@ There are many reasons why people swim, from swimming as a recreational pursuit 
 
 Recreation
 
-Children's_bathing_beach,_Lincoln_Park,_Chicago,_Illinois,_1905.jpg Many swimmers swim for recreation, with swimming consistently ranking as one of the physical activities people are most likely to take part in. Recreational swimming can also be used for exercise, relaxation or rehabilitation.[18] The support of the water, and the reduction in impact, make swimming accessible for people who are unable to undertake activities such as running.
+Many swimmers swim for recreation, with swimming consistently ranking as one of the physical activities people are most likely to take part in. Recreational swimming can also be used for exercise, relaxation or rehabilitation.[18] The support of the water, and the reduction in impact, make swimming accessible for people who are unable to undertake activities such as running.
 
 Health
 
-Chuck_Sketch,_a_Wounded_Warrior_with_the_veteran_swim_team,_swims_laps_during_a_practice_session_120214-M-YO938-177.jpg, Calif., Feb. 14, 2012. Wounded Warriors, veterans, and allies competed in the second annual trials, which included swimming.]] Swimming is primarily a cardiovascular/aerobic exercise[19] due to the long exercise time, requiring a constant oxygen supply to the muscles, except for short sprints where the muscles work anaerobically. Furthermore, swimming can help tone and strengthen muscles.[20] As with most aerobic exercise, swimming reduces the harmful effects of stress. Swimming is also effective in improving health for people with cardiovascular problems and chronic illnesses. It is proven to positively impact the mental health of pregnant women and mothers. Swimming can even improve mood.[21]
+, Calif., Feb. 14, 2012. Wounded Warriors, veterans, and allies competed in the second annual trials, which included swimming.]] Swimming is primarily a cardiovascular/aerobic exercise[19] due to the long exercise time, requiring a constant oxygen supply to the muscles, except for short sprints where the muscles work anaerobically. Furthermore, swimming can help tone and strengthen muscles.[20] As with most aerobic exercise, swimming reduces the harmful effects of stress. Swimming is also effective in improving health for people with cardiovascular problems and chronic illnesses. It is proven to positively impact the mental health of pregnant women and mothers. Swimming can even improve mood.[21]
 
 Disabled swimmers
 
@@ -90,7 +90,7 @@ Locomotion by swimming over brief distances is frequent when alternatives are pr
 
 Risks
 
-Hanakapiai_Beach_Warning_Sign_Only.jpg Beach.]]
+Beach.]]
 
 There are many risks associated with voluntary or involuntary human presence in water, which may result in death directly or through drowning asphyxiation. Swimming is both the goal of much voluntary presence and the prime means of regaining land in accidental situations.
 
@@ -120,7 +120,7 @@ Around any pool area, safety equipment is often important,[27] and is a zoning r
 
 Lessons
 
-Girl_with_styrofoam_swimming_board.jpg flotation aid being used.]]
+flotation aid being used.]]
 
 Traditionally, children were considered not able to swim independently until 4 years of age,[29] although now infant swimming lessons are recommended to prevent drowning.[30]
 

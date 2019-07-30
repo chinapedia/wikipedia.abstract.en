@@ -1,1 +1,0 @@
-The 2016 BGL BNP PARIBAS LUXEMBOURG OPEN was a women's tennis tournament played on indoor hard courts sponsored by BNP Paribas. It was the 26th edition of the Luxembourg Open, and part of the WTA International tournaments category of the 2016 WTA Tour. It was held in Luxembourg City, Luxembourg, on 17–22 October 2016.

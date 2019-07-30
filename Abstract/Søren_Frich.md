@@ -1,1 +1,0 @@
-SØREN FRICH (20 September 1827 – 7 May 1901) was a Danish engineer, factory owner and city Councillor who built the Frichs company, with headquarters and main production in Aarhus.[1] He became one of the largest employers in Aarhus and the Frichs factory became one of the only locomotive producers in Denmark. Frich was elected to the Aarhus city council three times.[2]

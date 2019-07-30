@@ -1,1 +1,0 @@
-The OFFICE OF THE QUARTET (formerly Office of the Quartet Representative) is headquartered in East Jerusalem; it also has offices in Ramallah and Gaza. The Quartet comprises the United Nations, the United States, the European Union, and Russia. The Quartet was established in Madrid in 2002 to help mediate the peace process in the Israeli-Palestinian conflict.[1]

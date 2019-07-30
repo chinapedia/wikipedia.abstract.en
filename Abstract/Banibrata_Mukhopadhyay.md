@@ -1,1 +1,0 @@
-BANIBRATA MUKHOPADHYAY is an Indian Scientist/Astrophysicist and a professor of Physics at the Indian Institute of Science, Bangalore, India, born at Kolkatta, India to Pulak Mukhopadhyay, a biologist, and Tapati Mukhopadhyay, an academician. Mukhopadhyay’s mother tongue is Bengali.

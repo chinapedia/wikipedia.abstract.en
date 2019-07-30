@@ -1,1 +1,0 @@
-PAULINA KUCZALSKA-REINSCHMIT (born 15 January 1859 in Warsaw, died 13 September 1921 in Warsaw) was a Polish social reformer and feminist activist, publisher and writer. She actively campaigned for women's right to vote in Poland, which was then partitioned between Russia, Germany and Austria-Hungary.

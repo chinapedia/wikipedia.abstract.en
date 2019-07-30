@@ -1,1 +1,0 @@
-As one of the oldest Euro-Atlantic member states in the region of Southeast Europe, Greece enjoys a prominent geopolitical role as a middle power, due to its political and geographical proximity to Europe, Asia, the Middle East, and Africa. Its main allies are the United States, Canada, France, Italy, Bulgaria, the other NATO countries, and the European Union.

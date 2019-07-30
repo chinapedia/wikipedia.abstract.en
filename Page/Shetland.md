@@ -26,7 +26,7 @@ Most of the individual islands have Norse names, although the derivations of som
 
 Geography and geology
 
-Shetland_geology_map.png Fort_Charlotte,_Lerwick_-_geograph.org.uk_-_17910.jpg overlooking Lerwick, Shetland's largest settlement.]] Broch_of_Mousa_-_geograph.org.uk_-_2800.jpg]]
+overlooking Lerwick, Shetland's largest settlement.]] ]]
 
 Shetland is around north of mainland Scotland, covers an area of and has a coastline long.[18]
 
@@ -60,7 +60,7 @@ Because of the islands' latitude, on clear winter nights the "northern lights" c
 
 Prehistory
 
-Jarlshof_20080821_-_aisled_roundhouse_and_broch.jpg and broch at Jarlshof, described as "one of the most remarkable archaeological sites ever excavated in the British Isles".[40]]] Due to the practice, dating to at least the early Neolithic, of building in stone on virtually treeless islands, Shetland is extremely rich in physical remains of the prehistoric eras and there are over 5,000 archaeological sites all told.[41] A midden site at West Voe on the south coast of Mainland, dated to 4320–4030 BC, has provided the first evidence of Mesolithic human activity on Shetland.[42][43] The same site provides dates for early Neolithic activity and finds at Scord of Brouster in Walls have been dated to 3400 BC.{{#tag:ref|The Scord of Brouster site includes a cluster of six or seven walled fields and three stone circular houses that contains the earliest hoe-blades found so far in Scotland.[44]|group="Note"}} "Shetland knives" are stone tools that date from this period made from felsite from Northmavine.[45]
+and broch at Jarlshof, described as "one of the most remarkable archaeological sites ever excavated in the British Isles".[40]]] Due to the practice, dating to at least the early Neolithic, of building in stone on virtually treeless islands, Shetland is extremely rich in physical remains of the prehistoric eras and there are over 5,000 archaeological sites all told.[41] A midden site at West Voe on the south coast of Mainland, dated to 4320–4030 BC, has provided the first evidence of Mesolithic human activity on Shetland.[42][43] The same site provides dates for early Neolithic activity and finds at Scord of Brouster in Walls have been dated to 3400 BC.{{#tag:ref|The Scord of Brouster site includes a cluster of six or seven walled fields and three stone circular houses that contains the earliest hoe-blades found so far in Scotland.[44]|group="Note"}} "Shetland knives" are stone tools that date from this period made from felsite from Northmavine.[45]
 
 Pottery shards found at the important site of Jarlshof also indicate that there was Neolithic activity there although the main settlement dates from the Bronze Age.[46] This includes a smithy, a cluster of wheelhouses and a later broch. The site has provided evidence of habitation during various phases right up until Viking times.[47][48] Heel-shaped cairns, are a style of chambered cairn unique to Shetland, with a particularly large example on Vementry.[49]
 
@@ -71,7 +71,7 @@ History
 
 Scandinavian colonisation
 
-Shetland_(boxed)_with_surrounding_lands.png (to the east), the Faroe Islands (to the north west), and Orkney and the rest of the British Isles (to the south west)]] Flateyjarbok_Haraldr_Halfdan.jpg'' image of Harald Hårfagre, who took control of c. 875.]]
+(to the east), the Faroe Islands (to the north west), and Orkney and the rest of the British Isles (to the south west)]] '' image of Harald Hårfagre, who took control of c. 875.]]
 
 The expanding population of Scandinavia led to a shortage of available resources and arable land there and led to a period of Viking expansion, the Norse gradually shifting their attention from plundering to invasion.[54] Shetland was colonised during the late 8th and 9th centuries,[55] the fate of the existing indigenous population being uncertain. Modern Shetlanders have almost identical proportions of Scandinavian matrilineal and patrilineal genetic ancestry, suggesting that the islands were settled by both men and women in equal measure.[56]
 
@@ -87,13 +87,13 @@ From the mid-13th century onwards Scottish monarchs increasingly sought to take 
 
 Annexation by Scotland
 
-James_III_and_Margaret_of_Denmark.jpg and Margaret, whose betrothal led to Shetland passing from Norway to Scotland]] In the 14th century, Orkney and Shetland remained a Norwegian possession, but Scottish influence was growing. Jon Haraldsson, who was murdered in Thurso in 1231, was the last of an unbroken line of Norse jarls,[66] and thereafter the earls were Scots noblemen of the houses of Angus and St Clair.[67] On the death of Haakon VI in 1380,[68] Norway formed a political union with Denmark, after which the interest of the royal house in the islands declined.[69] In 1469, Shetland was pledged by Christian I, in his capacity as King of Norway, as security against the payment of the dowry of his daughter Margaret, betrothed to James III of Scotland. As the money was never paid, the connection with the Crown of Scotland became permanent.{{#tag:ref|Apparently without the knowledge of the Norwegian (Council of the Realm), Christian pawned Orkney for 50,000 Rhenish guilders. On 28 May the next year, he also pawned Shetland for 8,000 Rhenish guilders.[70] He had secured a clause in the contract which gave future kings of Norway the right to redeem the islands for a fixed sum of 210 kg of gold or 2,310 kg of silver. Several attempts were made during the 17th and 18th centuries to redeem the islands, without success.[71]|group="Note"}} In 1470, William Sinclair, 1st Earl of Caithness ceded his title to James III, and the following year the Northern Isles were directly annexed to the Crown of Scotland,[72] an action confirmed by the Parliament of Scotland in 1472.[73] Nonetheless, Shetland's connection with Norway has proved to be enduring.{{#tag:ref|When Norway became independent again in 1906, the Shetland authorities sent a letter to King Haakon VII in which they stated: "Today no 'foreign' flag is more familiar or more welcome in our voes and havens than that of Norway, and Shetlanders continue to look upon Norway as their mother-land, and recall with pride and affection the time when their forefathers were under the rule of the Kings of Norway."[74]|group="Note"}}
+and Margaret, whose betrothal led to Shetland passing from Norway to Scotland]] In the 14th century, Orkney and Shetland remained a Norwegian possession, but Scottish influence was growing. Jon Haraldsson, who was murdered in Thurso in 1231, was the last of an unbroken line of Norse jarls,[66] and thereafter the earls were Scots noblemen of the houses of Angus and St Clair.[67] On the death of Haakon VI in 1380,[68] Norway formed a political union with Denmark, after which the interest of the royal house in the islands declined.[69] In 1469, Shetland was pledged by Christian I, in his capacity as King of Norway, as security against the payment of the dowry of his daughter Margaret, betrothed to James III of Scotland. As the money was never paid, the connection with the Crown of Scotland became permanent.{{#tag:ref|Apparently without the knowledge of the Norwegian (Council of the Realm), Christian pawned Orkney for 50,000 Rhenish guilders. On 28 May the next year, he also pawned Shetland for 8,000 Rhenish guilders.[70] He had secured a clause in the contract which gave future kings of Norway the right to redeem the islands for a fixed sum of 210 kg of gold or 2,310 kg of silver. Several attempts were made during the 17th and 18th centuries to redeem the islands, without success.[71]|group="Note"}} In 1470, William Sinclair, 1st Earl of Caithness ceded his title to James III, and the following year the Northern Isles were directly annexed to the Crown of Scotland,[72] an action confirmed by the Parliament of Scotland in 1472.[73] Nonetheless, Shetland's connection with Norway has proved to be enduring.{{#tag:ref|When Norway became independent again in 1906, the Shetland authorities sent a letter to King Haakon VII in which they stated: "Today no 'foreign' flag is more familiar or more welcome in our voes and havens than that of Norway, and Shetlanders continue to look upon Norway as their mother-land, and recall with pride and affection the time when their forefathers were under the rule of the Kings of Norway."[74]|group="Note"}}
 
 From the early 15th century on the Shetlanders sold their goods through the Hanseatic League of German merchantmen. The Hansa would buy shiploads of salted fish, wool and butter, and import salt, cloth, beer and other goods. The late 16th century and early 17th century were dominated by the influence of the despotic Robert Stewart, Earl of Orkney, who was granted the islands by his half-sister Mary Queen of Scots, and his son Patrick. The latter commenced the building of Scalloway Castle, but after his imprisonment in 1609 the Crown annexed Orkney and Shetland again until 1643 when Charles I granted them to William Douglas, 7th Earl of Morton. These rights were held on and off by the Mortons until 1766, when they were sold by James Douglas, 14th Earl of Morton to Laurence Dundas.[75][76]
 
 18th and 19th centuries
 
-Wind_Bound_Lerwick_around_1880.jpg, in Bressay Sound, around 1922]] The trade with the North German towns lasted until the 1707 Act of Union, when high salt duties prevented the German merchants from trading with Shetland. Shetland then went into an economic depression, as the local traders were not as skilled in trading salted fish. However, some local merchant-lairds took up where the German merchants had left off, and fitted out their own ships to export fish from Shetland to the Continent. For the independent farmers of Shetland this had negative consequences, as they now had to fish for these merchant-lairds.[77]
+, in Bressay Sound, around 1922]] The trade with the North German towns lasted until the 1707 Act of Union, when high salt duties prevented the German merchants from trading with Shetland. Shetland then went into an economic depression, as the local traders were not as skilled in trading salted fish. However, some local merchant-lairds took up where the German merchants had left off, and fitted out their own ships to export fish from Shetland to the Continent. For the independent farmers of Shetland this had negative consequences, as they now had to fish for these merchant-lairds.[77]
 
 Smallpox afflicted the islands in the 17th and 18th centuries (as it did all of Europe), but as vaccines became available after 1800, health improved. The island was very badly hit by the potato famine of 1846 and the government introduced a Relief Plan for the island under the command of Captain Robert Craigie of the Royal Navy who stayed in Lerwick to oversee the project 1847-1852. During this period Craigie also did much to improve and increase roads on the island.[78]
 
@@ -101,7 +101,7 @@ Population increased to a maximum of 31,670 in 1861. However, British rule came 
 
 20th century
 
-Leif_Larsen.jpg, Norwegian leader of the Shetland Bus operations in World War II, the most highly decorated allied naval officer of the war.[84]]] During World War I many Shetlanders served in the Gordon Highlanders, a further 3,000 served in the Merchant Navy, and more than 1,500 in a special local naval reserve. The 10th Cruiser Squadron was stationed at Swarbacks Minn (the stretch of water to the south of Muckle Roe), and during a single year from March 1917 more than 4,500 ships sailed from Lerwick as part of an escorted convoy system. In total, Shetland lost more than 500 men, a higher proportion than any other part of Britain, and there were further waves of emigration in the 1920s and 1930s.[85][86]
+, Norwegian leader of the Shetland Bus operations in World War II, the most highly decorated allied naval officer of the war.[84]]] During World War I many Shetlanders served in the Gordon Highlanders, a further 3,000 served in the Merchant Navy, and more than 1,500 in a special local naval reserve. The 10th Cruiser Squadron was stationed at Swarbacks Minn (the stretch of water to the south of Muckle Roe), and during a single year from March 1917 more than 4,500 ships sailed from Lerwick as part of an escorted convoy system. In total, Shetland lost more than 500 men, a higher proportion than any other part of Britain, and there were further waves of emigration in the 1920s and 1930s.[85][86]
 
 During World War II a Norwegian naval unit nicknamed the "Shetland Bus" was established by the Special Operations Executive in the autumn of 1940 with a base first at Lunna and later in Scalloway to conduct operations around the coast of Norway. About 30 fishing vessels used by Norwegian refugees were gathered and the Shetland Bus conducted covert operations, carrying intelligence agents, refugees, instructors for the resistance, and military supplies. It made over 200 trips across the sea, and Leif Larsen, the most highly decorated allied naval officer of the war, made 52 of them.[87][88] Several RAF airfields and sites were also established at Sullom Voe and several lighthouses suffered enemy air attacks.[89]
 
@@ -112,7 +112,7 @@ The population stood at 17,814 in 1961.[91]
 
 Economy
 
-Maquereaux_etal.jpg.[92]]] Today, the main revenue producers in Shetland are agriculture, aquaculture, fishing, renewable energy, the petroleum industry (crude oil and natural gas production), the creative industries and tourism.[93]
+.[92]]] Today, the main revenue producers in Shetland are agriculture, aquaculture, fishing, renewable energy, the petroleum industry (crude oil and natural gas production), the creative industries and tourism.[93]
 
 Fishing
 
@@ -120,13 +120,11 @@ Fishing remains central to the islands' economy today, with the total catch bein
 
 Energy and fossil fuels
 
-Beryl_alpha_from_air.jpg's Beryl alpha oil platform in the East Shetland Basin]]
+'s Beryl alpha oil platform in the East Shetland Basin]]
 
 Oil and gas were first landed in 1978 at Sullom Voe, which has subsequently become one of the largest terminals in Europe.[95] Taxes from the oil have increased public sector spending on social welfare, art, sport, environmental measures and financial development. Three quarters of the islands' workforce is employed in the service sector,[96][97] and the Shetland Islands Council alone accounted for 27.9% of output in 2003.[98][99] Shetland's access to oil revenues has funded the Shetland Charitable Trust, which in turn funds a wide variety of local programmes. The balance of the fund in 2011 was £217 million, i.e., about £9,500 per head.[100]{{#tag:ref|No other part of the UK has any such oil-related fund. By comparison, as of 31 December 2010 the total value of the Government Pension Fund of Norway was NOK 3 077 billion ($525 bn),[101] i.e., circa £68,000 per head.|group="Note"}}
 
 In January 2007, the Shetland Islands Council signed a partnership agreement with Scottish and Southern Energy for the Viking Wind Farm, a 200-turbine wind farm and subsea cable. This renewable energy project would produce about 600 megawatts and contribute about £20 million to the Shetland economy per year.[102] The plan met with significant opposition within the islands, primarily resulting from the anticipated visual impact of the development.[103] The PURE project on Unst is a research centre which uses a combination of wind power and fuel cells to create a wind hydrogen system. The project is run by the Unst Partnership, the local community's development trust.[104][105]
-
-Wfm_shetland_map.png
 
 Farming and textiles
 
@@ -153,7 +151,7 @@ Quarries
 
 Transport
 
-Loganair_Islander_at_Fair_Isle.jpg aircraft on Fair Isle, midway between Orkney and Shetland]]
+aircraft on Fair Isle, midway between Orkney and Shetland]]
 
 Transport between islands is primarily by ferry, and Shetland Islands Council operates various inter-island services.[116] Shetland is also served by a domestic connection from Lerwick to Aberdeen on mainland Scotland. This service, which takes about 12 hours, is operated by NorthLink Ferries. Some services also call at Kirkwall, Orkney, which increases the journey time between Aberdeen and Lerwick by 2 hours.[117][118] There are plans for road tunnels to some of the islands, especially Bressay and Whalsay; however, it is hard to convince the mainland government to finance them.[119]
 
@@ -223,7 +221,7 @@ The islands are represented by the Shetland football team who regularly compete 
 
 Churches and religion
 
-Haroldswick_Methodist_Church.jpg Methodist Church, the most northerly church building in the UK]] Victoria_pier,_Lerwick_-_geograph.org.uk_-_908540.jpg
+Methodist Church, the most northerly church building in the UK]]
 
 The Reformation reached the archipelago in 1560. This was an apparently peaceful transition and there is little evidence of religious intolerance in Shetland's recorded history.[136]
 
@@ -258,9 +256,9 @@ Roy Grönneberg, who founded the local chapter of the Scottish National Party in
 
 Local culture and the arts
 
-Shetland_crofthouse_museum.jpg museum]] After the islands were transferred to Scotland, thousands of Scots families emigrated to Shetland in the 16th and 17th centuries but studies of the genetic makeup of the islands' population indicate that Shetlanders are just under half Scandinavian in origin. A sizeable component of Scandinavian patrilineal ancestry has been reported in Orkney (55%) and Shetland (68%).[150] This combination is reflected in many aspects of local life. For example, almost every place name in use can be traced back to the Vikings.[151] The Norn language was a form of Old Norse, which continued to be spoken until the 18th century when it was replaced by an insular dialect of Scots known as Shetlandic, which is in turn being replaced by Scottish English. Although Norn was spoken for hundreds of years it is now extinct and few written sources remain.[152] Shetlandic is used both in local radio and dialect writing, and kept alive by organisations such as Shetland Forwirds, Isle Folk, and the Shetland Folk Society.[153][154][155]
+museum]] After the islands were transferred to Scotland, thousands of Scots families emigrated to Shetland in the 16th and 17th centuries but studies of the genetic makeup of the islands' population indicate that Shetlanders are just under half Scandinavian in origin. A sizeable component of Scandinavian patrilineal ancestry has been reported in Orkney (55%) and Shetland (68%).[150] This combination is reflected in many aspects of local life. For example, almost every place name in use can be traced back to the Vikings.[151] The Norn language was a form of Old Norse, which continued to be spoken until the 18th century when it was replaced by an insular dialect of Scots known as Shetlandic, which is in turn being replaced by Scottish English. Although Norn was spoken for hundreds of years it is now extinct and few written sources remain.[152] Shetlandic is used both in local radio and dialect writing, and kept alive by organisations such as Shetland Forwirds, Isle Folk, and the Shetland Folk Society.[153][154][155]
 
-The Lerwick Up Helly Aa is one of several fire festivals held in Shetland annually in the middle of winter—it is always started on the last Tuesday of January.[156] The festival is just over 100 years old in its present, highly organised form. Originally, a festival held to break up the long nights of winter and mark the end of Yule, the festival has become one celebrating the isles' heritage and includes a procession of men dressed as Vikings and the burning of a replica longship.[157] UpHellyAa3(AnneBurgess)30Jan1973.jpg Up Helly Aa]] The cuisine of Shetland is based on locally produced lamb, beef and seafood, much of it organic. Inevitably, the real ale-producing Valhalla Brewery is the most northerly in Britain. The Shetland Black is a variety of blue potato with a dark skin and indigo coloured flesh markings.[158]
+The Lerwick Up Helly Aa is one of several fire festivals held in Shetland annually in the middle of winter—it is always started on the last Tuesday of January.[156] The festival is just over 100 years old in its present, highly organised form. Originally, a festival held to break up the long nights of winter and mark the end of Yule, the festival has become one celebrating the isles' heritage and includes a procession of men dressed as Vikings and the burning of a replica longship.[157] Up Helly Aa]] The cuisine of Shetland is based on locally produced lamb, beef and seafood, much of it organic. Inevitably, the real ale-producing Valhalla Brewery is the most northerly in Britain. The Shetland Black is a variety of blue potato with a dark skin and indigo coloured flesh markings.[158]
 
 Shetland competes in the biennial International Island Games, which it hosted in 2005.[159]
 
@@ -293,7 +291,7 @@ Wildlife
 
 Shetland has three national nature reserves, at the seabird colonies of Hermaness and Noss, and at Keen of Hamar to preserve the serpentine flora. There are a further 81 SSSIs, which cover 66% or more of the land surfaces of Fair Isle, Papa Stour, Fetlar, Noss and Foula. Mainland has 45 separate sites.[180]
 
-Edmondston's_Chickweed,_Keen_of_Hamar_CRW_2437.JPG (_Cerastium nigrescens_), on the Keen of Hamar reserve, Unst]]
+(_Cerastium nigrescens_), on the Keen of Hamar reserve, Unst]]
 
 Flora
 
@@ -309,7 +307,7 @@ The geographical isolation and recent glacial history of Shetland have resulted 
 
 Domesticated animals
 
-Shetland_Pony1.jpg There is a variety of indigenous breeds, of which the diminutive Shetland pony is probably the best known, as well as being an important part of the Shetland farming tradition. The first written record of the pony was in 1603 in the Court Books of Shetland and, for its size, it is the strongest of all the horse breeds.[198][199] Others are the Shetland Sheepdog or "Sheltie", the endangered Shetland cattle[200] and Shetland Goose[201][202] and the Shetland sheep which is believed to have originated prior to 1000 AD.[203] The Grice was a breed of semi-domesticated pig that had a habit of attacking lambs, and that became extinct in 1930.[204]
+There is a variety of indigenous breeds, of which the diminutive Shetland pony is probably the best known, as well as being an important part of the Shetland farming tradition. The first written record of the pony was in 1603 in the Court Books of Shetland and, for its size, it is the strongest of all the horse breeds.[198][199] Others are the Shetland Sheepdog or "Sheltie", the endangered Shetland cattle[200] and Shetland Goose[201][202] and the Shetland sheep which is believed to have originated prior to 1000 AD.[203] The Grice was a breed of semi-domesticated pig that had a habit of attacking lambs, and that became extinct in 1930.[204]
 
 
 See also

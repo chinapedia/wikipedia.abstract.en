@@ -1,1 +1,0 @@
-LIBERIAN FOREIGN RELATIONS were traditionally stable and cordial throughout much of the 19th and 20th centuries. During the 1990s, Charles Taylor's presidency and the First and Second Liberian Civil Wars underscored Liberian relations with the Western world, the People's Republic of China, and its neighboring countries in Western Africa.

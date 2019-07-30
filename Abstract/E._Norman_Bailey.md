@@ -1,1 +1,0 @@
-Regal_Cinema,_Uxbridge,_May_2015_01.jpg

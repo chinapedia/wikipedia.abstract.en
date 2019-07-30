@@ -1,1 +1,0 @@
-ABDUL MOMIN TALUKDAR (1929–1995) was a Bangladeshi Awami League politician, lawyer and former Member of Parliament and the former Deputy Minister of Local Government, Rural Development and Cooperative.[1]

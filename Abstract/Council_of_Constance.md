@@ -1,1 +1,0 @@
-The COUNCIL OF CONSTANCE is the 15th-century ecumenical council recognized by the Catholic Church, held from 1414 to 1418 in the Bishopric of Constance. The council ended the Western Schism by deposing or accepting the resignation of the remaining papal claimants and by electing Pope Martin V.

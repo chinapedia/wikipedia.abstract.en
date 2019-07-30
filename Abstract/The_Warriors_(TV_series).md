@@ -1,1 +1,0 @@
-_THE WARRIORS_ is an Australian television comedy drama series that premiered on ABC on 12 April 2017.[1] The eight part series is created by Tony Briggs and Robert Connolly. It explores the elite world of professional sport through the eyes of recruits and established players living in a share house.[2]

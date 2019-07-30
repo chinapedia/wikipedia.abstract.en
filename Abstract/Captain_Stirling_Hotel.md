@@ -1,1 +1,0 @@
-The CAPTAIN STIRLING HOTEL is a heritage-listed building located at 80 Stirling Highway, Nedlands, Western Australia. The building was designed by Marshall Clifton in 1935,[1] and is an Inter-War Mediterranean/Spanish Mission style two-storey hotel.[2]

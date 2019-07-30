@@ -1,1 +1,0 @@
-A CHAIN REACTION is a sequence of reactions where a reactive product or by-product causes additional reactions to take place. In a chain reaction, positive feedback leads to a self-amplifying chain of events.

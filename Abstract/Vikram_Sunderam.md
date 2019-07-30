@@ -1,1 +1,0 @@
-VIKRAM SUNDERAM (born 1967) is an Indian-American chef. He serves as the James Beard Award-winning chef at _Rasika_ restaurant in Washington, DC and is co-author of a cookbook by the same name. __NOTOC__

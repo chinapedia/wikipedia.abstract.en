@@ -1,1 +1,0 @@
-ANDRÉ EUGÈNE DAUCHEZ (17 May 1870 - 15 May 1948), born in Paris, was a French painter, watercolourist, pastellist, engraver, draughtsman and illustrator known for landscapes, waterscapes and seascapes.[1]

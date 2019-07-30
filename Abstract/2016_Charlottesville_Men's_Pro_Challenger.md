@@ -1,1 +1,0 @@
-The 2016 CHARLOTTESVILLE MEN'S PRO CHALLENGER was a professional tennis tournament played on indoor hard courts. It was the eighth edition of the tournament which was part of the 2016 ATP Challenger Tour, taking place in Charlottesville, United States from October 31 to November 6, 2016.

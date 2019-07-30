@@ -1,1 +1,0 @@
-FINLAY SMITH MORRIS (September 1945 – 18 November 1967)[1][2][3] was a Scottish professional golfer. He was Boys Amateur Champion in 1961 and won the Coca-Cola Tournament at Haggs Castle in 1967. He was killed in a road traffic accident at the age of 22.

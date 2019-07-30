@@ -1,1 +1,0 @@
-_SO BLONDE: BACK TO THE ISLAND_ is a point-and-click adventure game released for the Wii and Nintendo DS in 2010. It is not a sequel or spin-off, but a darker "what if?"[1] scenario based on the 2008 PC game _So Blonde_, which also precedes _Captain Morgane and the Golden Turtle_, which was released in 2012.

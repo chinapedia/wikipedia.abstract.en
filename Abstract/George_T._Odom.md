@@ -1,1 +1,0 @@
-GEORGE T. ODOM (August 21, 1950 – c. September 21, 2016) was an American character actor, known for roles in film and television. Odom received an Independent Spirit Awards nomination for Best Supporting Male for his portrayal of Ray Brown in the 1991 independent film, _Straight Out of Brooklyn_.[1]

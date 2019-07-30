@@ -1,1 +1,0 @@
-ANNA VINAYACHANDRA is an Ex-MLC[1] from Panchayati Raj constituency of Dakshina Kannada, Karnataka. He is a social activist, political activist and thinker. He was associated with Bharatiya Janata Party but came out of party politics and now works independently.

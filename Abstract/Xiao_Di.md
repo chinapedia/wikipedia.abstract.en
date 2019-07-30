@@ -1,1 +1,0 @@
-XIAO DI (born May 14, 1991) is a Chinese Greco-Roman wrestler. He competed in the men's Greco-Roman 98 kg event at the 2016 Summer Olympics, in which he was eliminated in the repechage by Ghasem Rezaei.[1][2]

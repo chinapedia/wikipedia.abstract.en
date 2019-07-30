@@ -1,1 +1,0 @@
-SIMON STODDART, FSA is a British archaeologist, prehistorian, and academic. He is a Reader in Prehistory at the University of Cambridge, a Fellow of Magdalene College, Cambridge, and the acting Deputy Director of the McDonald Institute for Archaeological Research.[1][2]

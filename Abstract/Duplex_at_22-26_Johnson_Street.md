@@ -1,1 +1,0 @@
-The DUPLEX AT 22-26 JOHNSON STREET is a historic multiunit residential building in Burlington, Vermont. Built about 1888, it is a good local example of vernacular Queen Anne Victorian architecture, built as worker housing in the growing city. It was listed on the National Register of Historic Places in 2012.[1]

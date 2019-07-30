@@ -1,1 +1,0 @@
-ELIZABETH BAIDU (born 28 April 1978) is a Ghanaian women's international footballer who plays as a defender. She was a member of the Ghana women's national football team. She was part of the team at the 1999 FIFA Women's World Cup and at the 2003 FIFA Women's World Cup.[1] On club level she played for Bluna Ladies in Ghana.[2]

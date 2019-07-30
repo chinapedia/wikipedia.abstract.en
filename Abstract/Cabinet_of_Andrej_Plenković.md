@@ -1,1 +1,0 @@
-The FOURTEENTH GOVERNMENT OF THE REPUBLIC OF CROATIA () is the Croatian Government cabinet currently being led by Prime Minister Andrej Plenković. It was formed on 19 October 2016, following the 2016 election.[1]

@@ -1,1 +1,0 @@
-BiH_population_density_map_2013_by_municipalities.png

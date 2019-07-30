@@ -1,1 +1,0 @@
-Poland was ruled at various times either by dukes and princes (the 10th–14th century) or by kings (the 11th18th centuries). During the latter period, a tradition of free election of monarchs made it a uniquely electable position in Europe (16th–18th centuries).

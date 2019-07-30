@@ -1,1 +1,0 @@
-The CHRISTMAS ISLAND PHOSPHATE CO.'S RAILWAY was a 19.7 km (12¼ miles) long industrial railway between Flying Fish Cove and South Point on Christmas Island. The remains of the South Point station are now heritage-listed.

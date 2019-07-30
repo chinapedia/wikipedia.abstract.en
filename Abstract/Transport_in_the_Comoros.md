@@ -1,1 +1,0 @@
-There are a number of systems of TRANSPORT IN THE COMOROS. The Comoros possesses of road, of which are paved. It has three seaports: Fomboni, Moroni and Moutsamoudou, but does not have a merchant marine, and no longer has any railway network. It has four airports, all with paved runways, one with runways over long, with the others having runways shorter than .

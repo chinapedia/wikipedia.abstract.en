@@ -1,1 +1,0 @@
-PENNY HUBBARD (born October 26, 1953) is an American politician. She is a former Democratic member of the Missouri House of Representatives, representing District 78 from 2011 to 2017. She is a member of the Democratic party.[1][2]

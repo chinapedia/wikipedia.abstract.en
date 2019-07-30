@@ -1,1 +1,0 @@
-The ROB ROY is a cocktail consisting primarily of whisky and vermouth, created in 1894 by a bartender at the Waldorf Astoria in Manhattan, New York City. The drink was named in honor of the premiere of _Rob Roy_, an operetta by composer Reginald De Koven and lyricist Harry B. Smith loosely based upon Scottish folk hero Rob Roy MacGregor.[1][2]

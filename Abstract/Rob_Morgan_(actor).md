@@ -1,1 +1,0 @@
-ROB MORGAN is an American actor known for his roles in Netflix series, most notably Turk Barrett in Marvel's _Daredevil_, _Jessica Jones, Luke Cage, Iron Fist,_ _The Defenders_, and _The Punisher_,[1][2] as well as his recurring roles in _Stranger Things_ and the limited series _Godless_ in 2017.[3]

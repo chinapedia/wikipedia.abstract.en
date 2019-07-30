@@ -1,1 +1,0 @@
-PSYCHEDELIC ROCK is a diverse style of rock music inspired, influenced, or representative of psychedelic culture, which is centred around perception-altering hallucinogenic drugs. The music is intended to replicate and enhance the mind-altering experiences of psychedelic drugs, most notably LSD. Many psychedelic groups differ in style, and the label is often applied spuriously.

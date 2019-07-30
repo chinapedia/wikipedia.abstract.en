@@ -1,1 +1,0 @@
-MIHA IVANIČ (born 22 May 1998) is a Slovenian badminton player.[1] He started his career in badminton when he was in the elementary school, and trained at the Medvode club.[2] Partnered with Nika Arih, he won a bronze medal at the 2017 European Junior Championships in the mixed doubles event.[3] He competed at the 2018 Mediterranean Games and 2019 European Games.[4][5]

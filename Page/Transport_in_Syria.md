@@ -40,7 +40,7 @@ An overland trans-desert bus service between Beirut, Haifa, Damascus and Baghdad
 
 Roads
 
-Map of Syrian Motorways _total:_ 68,157 km
+_total:_ 68,157 km
 _paved:_ 61,514 km (including 1,103 km of expressways)
 _unpaved:_ 6,643 km (2006)
 

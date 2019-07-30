@@ -1,1 +1,0 @@
-An OIL CATCH TANK (oil catch can) is a device that is fitted into the cam/crank case ventilation system on a car. Installing an oil catch tank (can) aims to reduce the amount of oil vapors re-circulated into the intake of the engine.

@@ -1,1 +1,0 @@
-ROBERTO ASCIONE (Naples, Italy, August 9, 1973 – ) is an Italian entrepreneur and global thought leader in the field of digital health. He was founder of Healthware International, and on September 28, 2016, he was named as the Top Global Industry Leader by Health 2.0 organization.[1][2]

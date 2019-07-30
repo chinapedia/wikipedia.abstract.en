@@ -1,1 +1,0 @@
-James_Williams_Rise_and_Fall_of_Model_Republic.jpg

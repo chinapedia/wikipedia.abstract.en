@@ -1,1 +1,0 @@
-'''Hong Li-chyn ''' (born 23 May 1970) is a Taiwanese women's footballer who played as a goalkeeper for the Chinese Taipei women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. At the club level she played for Taiwan PE College in Taiwan.[1]

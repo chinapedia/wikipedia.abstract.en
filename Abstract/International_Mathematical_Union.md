@@ -1,1 +1,0 @@
-The INTERNATIONAL MATHEMATICAL UNION (IMU) is an international non-governmental organization devoted to international cooperation in the field of mathematics across the world. It is a member of the International Council for Science (ICSU) and supports the International Congress of Mathematicians. Its members are national mathematics organizations from more than 80 countries.[1]

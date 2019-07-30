@@ -1,1 +1,0 @@
-_ARABSHAMSHEVIA_ is a genus of flies in the family Dolichopodidae from the United Arab Emirates and Israel.[1][2] The name is a combination of 'Arab' from Arabian Peninsula, the location of the type species, and _Shamshevia_, a closely related genus.[3]

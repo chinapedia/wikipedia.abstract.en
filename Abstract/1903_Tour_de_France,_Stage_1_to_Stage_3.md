@@ -1,1 +1,0 @@
-Tour_de_France_1904_map-fr.svg The 1903 Tour de France was the 1st edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris on 1 July and Stage 3 occurred on 8 July with a flat stage to Toulouse. The race finished at the Parc des Princes in Paris on 18 July.

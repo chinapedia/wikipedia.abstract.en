@@ -1,1 +1,0 @@
-_TORNABENEA INSULARIS_ is a species of flowering plants of the Apiaceae family. The species is one of six species of the genus _Tornabenea_ that are endemic to Cape Verde.[1] The species was first described by Filippo Parlatore in 1849 as _Tetrapleura insularis_.[2]

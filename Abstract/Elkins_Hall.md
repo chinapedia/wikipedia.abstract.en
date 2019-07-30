@@ -1,1 +1,0 @@
-ELKINS HALL is an historic administrative building located on the north side of the campus of Nicholls State University fronting Bayou Lafourche. It was the first building constructed on the campus of what was then known as Francis T. Nicholls State College.

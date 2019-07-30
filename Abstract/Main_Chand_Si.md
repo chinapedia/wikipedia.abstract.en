@@ -1,1 +1,0 @@
-_MAIN CHAND SI_ is a 2011 Pakistani romantic drama, that was aired on ARY Digital. The series starred Sami Khan, Saba Qamar and Fahad Mustafa, while Saba Hameed and Tipu Sharif were cast in supporting roles.[1][2][3][4]

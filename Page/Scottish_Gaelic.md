@@ -14,8 +14,6 @@ Scottish Gaelic is distinct from Scots, the Middle English-derived language vari
 
 History
 
-Linguistic division in early 12th century Scotland.
-
 Origins
 
 Gaelic was commonly believed to have been brought to Scotland, in the 4th–5th centuries CE, by settlers from Ireland who founded the Gaelic kingdom of on Scotland's west coast in present-day Argyll. However, archaeologist Dr Ewan Campbell has argued that there is no archaeological or placename evidence of a migration or takeover. [7] This view of the medieval accounts is shared by other archaeologists and historians.[8] Regardless of how it came to be spoken in the region, Gaelic in Scotland was mostly confined to until the eighth century, when it began expanding into Pictish areas north of the Firth of Forth and the Firth of Clyde. By 900, Pictish appears to have become extinct, completely replaced by Gaelic. An exception might be made for the Northern Isles, however, where Pictish was more likely supplanted by Norse rather than by Gaelic. During the reign of (900–943), outsiders began to refer to the region as the kingdom of Alba rather than as the kingdom of the Picts. However, though the Pictish language did not disappear suddenly, a process of Gaelicisation (which may have begun generations earlier) was clearly under way during the reigns of and his successors. By a certain point, probably during the 11th century, all the inhabitants of Alba had become fully Gaelicised Scots, and Pictish identity was forgotten.[9]
@@ -26,7 +24,7 @@ Decline
 
 Many historians mark the reign of King Malcom Canmore (Malcolm III) as the beginning of Gaelic's eclipse in Scotland. His wife Margaret of Wessex spoke no Gaelic, gave her children Anglo-Saxon rather than Gaelic names, and brought many English bishops, priests, and monastics to Scotland. When Malcolm and Margaret died in 1093, the Gaelic aristocracy rejected their anglicised sons and instead backed Malcolm's brother Donald Bàn. Donald had spent 17 years in Gaelic Ireland and his power base was in the thoroughly Gaelic west of Scotland. He was the last Scottish monarch to be buried on Iona, the traditional burial place of the Gaelic Kings of and the Kingdom of Alba. However, during the reigns of Malcolm Canmore's sons, Edgar, Alexander I and David I (their successive reigns lasting 1097–1153), Anglo-Norman names and practices spread throughout Scotland south of the Forth–Clyde line and along the northeastern coastal plain as far north as Moray. Norman French completely displaced Gaelic at court. The establishment of royal burghs throughout the same area, particularly under David I, attracted large numbers of foreigners speaking Old English. This was the beginning of Gaelic's status as a predominantly rural language in Scotland.
 
-Alexander_III_and_Ollamh_Rígh.JPG during a Gaelic coronation ceremony at Stone, 1249.]]
+during a Gaelic coronation ceremony at Stone, 1249.]]
 
 Clan chiefs in the northern and western parts of Scotland continued to support Gaelic bards who remained a central feature of court life there. The semi-independent Lordship of the Isles in the Hebrides and western coastal mainland remained thoroughly Gaelic since the language's recovery there in the 12th century, providing a political foundation for cultural prestige down to the end of the 15th century.
 
@@ -59,8 +57,6 @@ The 1755–2001 figures are census data quoted by MacAulay. The 2011 Gaelic spea
 
 Distribution in Scotland
 
-Scots_Gaelic_speakers_in_the_2011_census.png
-
 The 2011 UK Census showed a total of 57,375 Gaelic speakers in Scotland (1.1% of population over three years old), of whom only 32,400 could also read and write, due to the lack of Gaelic medium education in Scotland.[16] Compared to the 2001 Census, there has been a diminution of approximately 1,300 people.[17] This is the smallest drop between censuses since the Gaelic language question was first asked in 1881. The Scottish Government's language minister and _Bord na Gaidhlig_ took this as evidence that Gaelic's long decline has slowed.[18]
 
 The main stronghold of the language continues to be the Outer Hebrides (__), where the overall proportion of speakers is 52.2%. Important pockets of the language also exist in the Highlands (5.4%) and in Argyll and Bute (4.0%), and Inverness, where 4.9% speak the language. The locality with the largest absolute number is Glasgow with 5,878 such persons, who make up over 10% of all of Scotland's Gaelic speakers.
@@ -80,7 +76,7 @@ Scotland
 
 Scottish Parliament
 
-Anne_Lorne_Gillies_(421180978).jpg speaking publicly in the Scottish Gaelic language.]]
+speaking publicly in the Scottish Gaelic language.]]
 
 Gaelic has long suffered from its lack of use in educational and administrative contexts and was long suppressed.[22]
 
@@ -113,13 +109,13 @@ European Union
 
 In October 2009, a new agreement was made which allows Scottish Gaelic to be used formally between Scottish Government ministers and European Union officials. The deal was signed by Britain's representative to the EU, Sir Kim Darroch, and the Scottish government. This does not give Scottish Gaelic official status in the EU, but gives it the right to be a means of formal communications in the EU's institutions. The Scottish government will have to pay for the translation from Gaelic to other European languages. The deal was received positively in Scotland; Secretary of State for Scotland Jim Murphy said the move was a strong sign of the UK government's support for Gaelic. He said that "Allowing Gaelic speakers to communicate with European institutions in their mother tongue is a progressive step forward and one which should be welcomed". Culture Minister Mike Russell said that "this is a significant step forward for the recognition of Gaelic both at home and abroad and I look forward to addressing the council in Gaelic very soon. Seeing Gaelic spoken in such a forum raises the profile of the language as we drive forward our commitment to creating a new generation of Gaelic speakers in Scotland."[31]
 
-Parlamaid_na_h-Alba_Doras_BPA_200411.jpg building completed in 2004.]]
+building completed in 2004.]]
 
 The Scottish Gaelic used in Machine-readable British passports differs from Irish passports in places. "Passport" is rendered __ (in Irish, __); "The European Union", __ (in Irish, __), while "Northern Ireland" is __ in Gaelic (the Irish equivalent is __).
 
 Signage
 
-Sanas.jpg Bilingual road signs, street names, business and advertisement signage (in both Gaelic and English) are gradually being introduced throughout Gaelic-speaking regions in the Highlands and Islands, including Argyll. In many cases, this has simply meant re-adopting the traditional spelling of a name (such as __ or __ rather than the anglicised forms _Ratagan_ or _Lochailort_ respectively).
+Bilingual road signs, street names, business and advertisement signage (in both Gaelic and English) are gradually being introduced throughout Gaelic-speaking regions in the Highlands and Islands, including Argyll. In many cases, this has simply meant re-adopting the traditional spelling of a name (such as __ or __ rather than the anglicised forms _Ratagan_ or _Lochailort_ respectively).
 
 Bilingual railway station signs are now more frequent than they used to be. Practically all the stations in the Highland area use both English and Gaelic, and the spread of bilingual station signs is becoming ever more frequent in the Lowlands of Scotland, including areas where Gaelic has not been spoken for a long time.
 
@@ -129,7 +125,7 @@ The Ordnance Survey has acted in recent years to correct many of the mistakes th
 
 Canada
 
-AntigonishNovaScotia.jpg, Nova Scotia]]
+, Nova Scotia]]
 
 In the nineteenth century, Canadian Gaelic was the third-most widely spoken European language in British North America[34] and Gaelic-speaking immigrant communities could be found throughout what is modern-day Canada. Gaelic poets in Canada produced a significant literary tradition.[35] The number of Gaelic-speaking individuals and communities declined sharply, however, after the First World War.[36]
 
@@ -186,7 +182,7 @@ Scotland
 | 2018 | 4,343         | 0.63%[55]   |
 +------+---------------+-------------+
 
-Sgoil_Ghàidhlig_Ghlaschu.jpg)]] The Education (Scotland) Act 1872, which completely ignored Gaelic, and led to generations of Gaels being forbidden to speak their native language in the classroom, is now recognised as having dealt a major blow to the language. People still living can recall being beaten for speaking Gaelic in school.[56] Even later, when these attitudes had changed, little provision was made for Gaelic medium education in Scottish schools. As late as 1958, even in Highland schools, only 20% of primary students were taught Gaelic as a subject, and only 5% were taught other subjects through the Gaelic language.[57]
+)]] The Education (Scotland) Act 1872, which completely ignored Gaelic, and led to generations of Gaels being forbidden to speak their native language in the classroom, is now recognised as having dealt a major blow to the language. People still living can recall being beaten for speaking Gaelic in school.[56] Even later, when these attitudes had changed, little provision was made for Gaelic medium education in Scottish schools. As late as 1958, even in Highland schools, only 20% of primary students were taught Gaelic as a subject, and only 5% were taught other subjects through the Gaelic language.[57]
 
 Gaelic-medium playgroups for young children began to appear in Scotland during the late 1970s and early 1980s. Parent enthusiasm may have been a factor in the "establishment of the first Gaelic medium primary school units in Glasgow and Inverness in 1985".[58]
 
@@ -214,7 +210,7 @@ Lews Castle College's Benbecula campus offers an independent 1-year course in Ga
 
 Church
 
-Church_Services_-_geograph.org.uk_-_35208.jpg congregation in the community of Ness, Isle of Lewis.]] In the Western Isles, the isles of Lewis, Harris and North Uist have a Presbyterian majority (largely Church of Scotland – __ in Gaelic, Free Church of Scotland and Free Presbyterian Church of Scotland.) The isles of South Uist and Barra have a Catholic majority. All these churches have Gaelic-speaking congregations throughout the Western Isles. Notable city congregations with regular services in Gaelic are St Columba's Church, Glasgow and Greyfriars Tolbooth & Highland Kirk, Edinburgh. __ – a shorter Gaelic version of the English-language Book of Common Order – was published in 1996 by the Church of Scotland.
+congregation in the community of Ness, Isle of Lewis.]] In the Western Isles, the isles of Lewis, Harris and North Uist have a Presbyterian majority (largely Church of Scotland – __ in Gaelic, Free Church of Scotland and Free Presbyterian Church of Scotland.) The isles of South Uist and Barra have a Catholic majority. All these churches have Gaelic-speaking congregations throughout the Western Isles. Notable city congregations with regular services in Gaelic are St Columba's Church, Glasgow and Greyfriars Tolbooth & Highland Kirk, Edinburgh. __ – a shorter Gaelic version of the English-language Book of Common Order – was published in 1996 by the Church of Scotland.
 
 The widespread use of English in worship has often been suggested as one of the historic reasons for the decline of Gaelic. The Church of Scotland is supportive today, but has a shortage of Gaelic-speaking ministers. The Free Church also recently announced plans to abolish Gaelic-language communion services, citing both a lack of ministers and a desire to have their congregations united at communion time.[62]
 
@@ -294,7 +290,7 @@ Scottish Gaelic has also influenced the Scots language and English, particularly
 
 Writing system
 
-Mallaig_sign.jpg}}.]]
+}}.]]
 
 Alphabet
 
@@ -315,8 +311,6 @@ The 1767 New Testament set the standard for Scottish Gaelic. The 1981 Scottish E
 The quality of consonants (palatalised or non-palatalised) is indicated in writing by the vowels surrounding them. So-called "slender" consonants are palatalised while "broad" consonants are neutral or velarised. The vowels __ and __ are classified as slender, and __, __, and __ as broad. The spelling rule known as __ ("slender to slender and broad to broad") requires that a word-medial consonant or consonant group followed by a written __ or __ be also preceded by an __ or __; and similarly if followed by __, __ or __ be also preceded by an __, __, or __.
 
 This rule sometimes leads to the insertion of an orthographic vowel that does not influence the pronunciation of the vowel. For example, plurals in Gaelic are often formed with the suffix __ , for example, __ (shoe) / __ (shoes). But because of the spelling rule, the suffix is spelled __ (but pronounced the same, ) after a slender consonant, as in __ ((a) people) / __ (peoples) where the written __ is purely a graphic vowel inserted to conform with the spelling rule because an __ precedes the __.
-
-Welcome_to_Queen_Street_Fàilte_gu_Sràid_na_Banrighinn_Glasgow.jpg
 
 Unstressed vowels omitted in speech can be omitted in informal writing. For example:
 

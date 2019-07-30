@@ -1,1 +1,0 @@
-YAMUNA is an Indian actress who appeared primarily in Telugu films in the 1990s.[1][2] She appeared in films like _Mamagaru_, _Mouna Poratam_, _Yerra Mandaram_. After having a career with films, she also acted in TV.

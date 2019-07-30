@@ -1,1 +1,0 @@
-The is a large pumped-storage hydroelectric power plant in Toyone, Kitashitara, Aichi Prefecture, Japan. With an installed capacity of ,[1] the plant is one of the largest pumped-storage power stations in Japan.

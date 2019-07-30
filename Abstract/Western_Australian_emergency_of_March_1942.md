@@ -1,1 +1,0 @@
-The WESTERN AUSTRALIAN EMERGENCY OF MARCH 1942 was a series of local responses that occurred in relation to activity in northern Western Australia that gave Australian military forces serious concerns about the capacity of the Japanese to move down the Western Australian coast.

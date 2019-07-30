@@ -1,1 +1,0 @@
-SAFE is an unincorporated community in southeastern Maries County, in the U.S. state of Missouri.[1] The community is located on Missouri Route H on a hill just west of and above the Bourbeuse River.[2] The community is approximately six miles north-northeast of St. James.[3]

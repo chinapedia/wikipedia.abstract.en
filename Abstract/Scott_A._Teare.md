@@ -1,1 +1,0 @@
-SCOTT A. TEARE (born 1951)[1] became the Secretary General[2] and one of 12 elected volunteer members of the World Scout Committee, the main executive body of the World Organization of the Scout Movement in January 2013.[3][4][5]

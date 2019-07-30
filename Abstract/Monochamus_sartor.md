@@ -1,1 +1,0 @@
-_MONOCHAMUS SARTOR_ is a species of beetle in the family Cerambycidae. It was described by Johan Christian Fabricius in 1787, originally under the genus _Lamia_. It is known from throughout Europe, as well as in Kazakhstan, Mongolia, North Korea and South Korea. It is rated by the IUCN as Least Concern.[1]

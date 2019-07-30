@@ -1,1 +1,0 @@
-JOHN PAUL JONES PARK is a public park located in Fort Hamilton, Bay Ridge, Brooklyn. The park borders Shore Road, Fourth Avenue, 101st Street, and Fort Hamilton Parkway. The park is managed by the New York City Department of Parks and Recreation, which acquired the property from the city of Brooklyn in 1897.[1]

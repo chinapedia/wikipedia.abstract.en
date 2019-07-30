@@ -1,1 +1,0 @@
-CASSANDRA CARDINELL (born April 12, 1982) is an American diver. She competed at the 2004 Summer Olympics in Athens, in the women's synchronized 10 metre platform. Cardinell was born in Loudonville, New York.[1]

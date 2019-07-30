@@ -1,1 +1,0 @@
-LARRY JUNE (born April 8, 1991) is an American rapper from San Francisco, California.[1] He is known for his EPs _Larry_ and _Orange Season_ and has toured with musicians such as Cousin Stizz and Post Malone.[2][3]

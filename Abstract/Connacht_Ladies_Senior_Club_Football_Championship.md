@@ -1,1 +1,0 @@
-The list of winners below is generated, primarily, using the Roll of Honour from the Connacht LGFA website.[1] With their win in 2016, Carnacon became the most successful provincial club in Ladies Football with 15 wins, passing out Ballymacarbry (Waterford) who have 14 Munster titles. Carnacon have now moved to 16 titles.

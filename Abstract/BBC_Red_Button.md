@@ -1,1 +1,0 @@
-BBC_Red_Button_home.jpg BBC RED BUTTON is a branding used for digital interactive television services provided by the BBC, and broadcast in the United Kingdom. The services replaced Ceefax, the BBC's analogue teletext service.

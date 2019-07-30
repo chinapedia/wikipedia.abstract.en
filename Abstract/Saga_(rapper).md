@@ -1,1 +1,0 @@
-SAGA, is an American MC who grew up in Canarsie, Brooklyn New York [1] and now resides in Red Hook, Brooklyn New York. He is from Italian Americans and Puerto Rican descent.[2] He is the son of Richard Quarantello, former gang member, musician and writer.[3] Saga is a vegan since fifteen years,[4] practices Yoga, Meditation.

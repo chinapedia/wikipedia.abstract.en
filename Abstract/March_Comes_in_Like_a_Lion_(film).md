@@ -1,1 +1,0 @@
-is a two-part Japanese film directed by , starring Ryunosuke Kamiki and based on the manga series of the same name written and illustrated by Chica Umino.[1] The film was released in Japan by Toho and Asmik Ace in 2017 in two parts, with the first part released on March 18 and the second released on April 22.[2][3]

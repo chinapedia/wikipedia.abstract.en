@@ -5,7 +5,7 @@ _Shōgun_ is the short form of , the individual governing the country at various
 
 Heian period (794–1185)
 
-Sakanoue_Tamuramaro.jpg (758–811) was a general and shōgun of the early Heian period]]
+(758–811) was a general and shōgun of the early Heian period]]
 
 Originally, the title of _Sei-i Taishōgun_ ("Commander-in-Chief of the Expeditionary Force Against the Barbarians")[5] was given to military commanders during the early Heian period for the duration of military campaigns against the Emishi, who resisted the governance of the Kyoto-based imperial court. Ōtomo no Otomaro was the first _Sei-i Taishōgun_.[6] The most famous of these _shōguns_ was Sakanoue no Tamuramaro.
 
@@ -14,7 +14,7 @@ In the later Heian period, one more _shōgun_ was appointed. Minamoto no Yoshina
 
 Kamakura shogunate (1192–1333)
 
-Minamoto_no_Yoritomo.jpg, the first _shōgun_ (1192–1199) of the Kamakura shogunate]]
+, the first _shōgun_ (1192–1199) of the Kamakura shogunate]]
 
 In the early 11th century, _daimyō_ protected by samurai came to dominate internal Japanese politics.[7] Two of the most powerful families – the Taira and Minamoto – fought for control over the declining imperial court. The Taira family seized control from 1160 to 1185, but was defeated by the Minamoto in the Battle of Dan-no-ura. Minamoto no Yoritomo seized power from the central government and aristocracy and established a feudal system based in Kamakura in which the private military, the samurai, gained some political powers while the Emperor and the aristocracy remained the _de jure_ rulers. In 1192, Yoritomo was awarded the title of _Sei-i Taishōgun_ by Emperor Go-Toba and the political system he developed with a succession of _shōguns_ as the head became known as a shogunate. Yoritomo's wife's family, the Hōjō, seized power from the Kamakura _shōguns_.[8] When Yoritomo's sons and heirs were assassinated, the _shōgun_ himself became a hereditary figurehead. Real power rested with the Hōjō regents. The Kamakura shogunate lasted for almost 150 years, from 1192 to 1333.
 
@@ -29,7 +29,7 @@ During the Kenmu Restoration, after the fall of the Kamakura shogunate in 1333, 
 
 Ashikaga shogunate (1336–1573)
 
-Ashikaga_Takauji.JPG (1338–1358) established the Ashikaga shogunate]]
+(1338–1358) established the Ashikaga shogunate]]
 
 In 1338, Ashikaga Takauji, like Minamoto no Yoritomo, a descendant of the Minamoto princes, was awarded the title of _sei-i taishōgun_ and established the Ashikaga shogunate, which lasted until 1573. The Ashikaga had their headquarters in the Muromachi district of Kyoto, and the time during which they ruled is also known as the Muromachi period.
 
@@ -41,7 +41,7 @@ While the title of _Shōgun_ went into abeyance due to technical reasons, Oda No
 
 Tokugawa shogunate (1600–1868)
 
-Tokugawa_Ieyasu2_full.JPG, founder of the Tokugawa shogunate]]
+, founder of the Tokugawa shogunate]]
 
 Tokugawa Ieyasu seized power and established a government at Edo (now known as Tokyo) in 1600. He received the title _sei-i taishōgun_ in 1603, after he forged a family tree to show he was of Minamoto descent.[12] The Tokugawa shogunate lasted until 1867, when Tokugawa Yoshinobu resigned as _shōgun_ and abdicated his authority to Emperor Meiji.[13] Ieyasu set a precedent in 1605 when he retired as _shōgun_ in favour of his son Tokugawa Hidetada, though he maintained power from behind the scenes as (, cloistered _shōgun_).[14]
 

@@ -1,1 +1,0 @@
-_SUITE FOR BARBARA LODEN_ (French: _Supplément à la vie de Barbara Loden_) is a 2012 book by Nathalie Léger. The book was first offered in English translation by UK publishers Les Fugitives in 2015 with a translation by Natasha Lehrer and Cécile Menon; the following year it was published in the U.S. by Dorothy, a publishing project.[1][2]

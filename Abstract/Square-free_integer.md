@@ -1,1 +1,0 @@
-Composite_number_Cuisenaire_rods_10.png

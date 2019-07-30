@@ -1,1 +1,0 @@
-JOHN BLACKBURN, (born 3 December 1947) is a retired British Anglican priest and chaplain. He served as Archdeacon for the Army from 1999 to 2004 and Chaplain General of the Royal Army Chaplains' Department from 2000 to 2004. Before and after his service in the British Army, he was a parish priest in the Diocese of Monmouth of the Church in Wales.

@@ -1,1 +1,0 @@
-The NORDIC PEDIATRIC SOCIETY is a medical association for pediatricians in the Nordic countries. Its member organisations include the Danish Paediatric Society, the Norwegian Society of Pediatricians, the Swedish Paediatric Society, the Finnish Pediatric Association and the Icelandic Pediatric Association.

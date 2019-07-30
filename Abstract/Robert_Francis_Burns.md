@@ -1,1 +1,0 @@
-ROBERT FRANCIS BURNS (c 1840 – 25 September 1883) was an Irish Australian convicted murderer who was hanged at HM Prison Ararat in 1883. Burns was found guilty of the murder of Michael Quinlivan near Wickliffe. Burns was believed to have been responsible for seven other murders in colonies of Victoria, New South Wales and South Australia.

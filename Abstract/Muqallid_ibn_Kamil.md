@@ -1,1 +1,0 @@
-MUQALLID IBN KAMIL IBN MIRDAS (fl. 1030–1050) was a member of the Mirdasid dynasty, a commander of the Banu Kilab and at times served as governor of the Aleppo Citadel and the Mirdasids' envoy to the Byzantines and Fatimids.

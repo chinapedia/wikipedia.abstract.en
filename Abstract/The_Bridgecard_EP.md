@@ -1,1 +1,0 @@
-_THE BRIDGECARD EP_ is an extended play by American rapper Shim-E-Bango[1] and his first solo recording since his participation with The Fat Killahz, who made guest appearances in this album along with fellow Detroit-based rappers Guilty Simpson, Miz Korona, Moe Dirdee, and Invy Da Truth.

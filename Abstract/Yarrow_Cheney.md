@@ -1,1 +1,0 @@
-YARROW CHENEY is an American production designer, visual effects artist, director and animator. He is best known for his works as a production designer in _Despicable Me 2_ (2013), _The Lorax_ (2012) and _Despicable Me_ (2010) for which he received Primetime Emmy and Annie Awards nominations.

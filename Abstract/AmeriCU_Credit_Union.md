@@ -1,1 +1,0 @@
-AMERICU CREDIT UNION (AMERICU) is a New York State Chartered credit union headquartered in Rome, New York, originally founded in 1951 as Griffiss Employees Credit Union.[1] As of September 2017, AmeriCU had more than 122,000 members and $1.48 billion in assets, and was the 13th largest credit union in New York.[2][3]

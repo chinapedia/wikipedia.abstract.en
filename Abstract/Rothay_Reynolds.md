@@ -1,1 +1,0 @@
-ROTHAY REYNOLDS (1872-1940) was an English journalist. He worked in Berlin for the Daily Mail between the First and Second World Wars and interviewed Adolf Hitler in 1923, making him one of the first foreign correspondents to interview the future German leader.[1]

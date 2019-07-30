@@ -1,1 +1,0 @@
-_THE NATIONAL ANTHEM_ is a 1962 choral and orchestral arrangement of _God Save the Queen_ by Benjamin Britten. The arrangement was written for the Leeds Festival. It has been described as an "extraordinary progression from pianissimo prayer to pealing, overlapping choral fortissimo".[1]

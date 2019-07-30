@@ -1,1 +1,0 @@
-STOCKINGFIELD JUNCTION (NS571689) is a canal junction which lies in Lambhill, in Glasgow, Scotland. It opened in 1777,[1] and closed in 1963, followed by restoration and a re-opening in 2001-2002.[2] At first a terminus it formed the junction for the Port Dundas branch off the Forth and Clyde Canal main line from 1777.[3][4]

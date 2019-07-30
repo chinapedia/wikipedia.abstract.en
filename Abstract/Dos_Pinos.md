@@ -1,1 +1,0 @@
-COOPERATIVA DE PRODUCTORES DE LECHE DOS PINOS R.L (abbreviated as COOPROLE R.L. but more popularly known as “Dos Pinos”) is a Costa Rican cooperative producer of dairy, beverages, and candy products headquartered in Alajuela, Costa Rica. It has a brand portfolio of over 600 brands [1] and its products are sold throughout Central America and the Caribbean.[2]

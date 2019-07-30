@@ -1,1 +1,0 @@
-The APARTMENT BUILDING AT 27 AND 31 PERU STREET AND 29 JOHNSON STREET is a historic multiunit residential building in Burlington, Vermont. Built about 1889, it is a good local example of vernacular Queen Anne Victorian architecture. It was listed on the National Register of Historic Places in 2014.[1]

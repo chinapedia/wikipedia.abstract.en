@@ -1,1 +1,0 @@
-The CHAMBERLAIN-KAHN ACT of 1918 is a U.S. federal law passed on July 9, 1918 by the 65th United States Congress. The law implemented a public health program that came to be known as the AMERICAN PLAN, whose stated goal was to combat the spread of venereal disease.[1][2]

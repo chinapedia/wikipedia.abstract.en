@@ -1,1 +1,0 @@
-The ABBEY OF SAN LORENZO is a Roman Catholic basilica church, formerly part of a Benedictine monastery, located on Via San Demetrio #4 in San Lorenzo in Campo, province of Pesaro e Urbino, region of Marche, Italy. It was elevated to a basilica church in 1943 by basilica by Pope Pius XII. Abbazia_benedettina_-_San_Lorenzo_in_Campo_4.jpg

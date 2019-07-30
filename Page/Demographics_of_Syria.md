@@ -172,7 +172,7 @@ Structure of the population[69]
 
 CIA World Factbook demographic statistics
 
-Syria-demography.png, year 2007 ; Number of inhabitants in thousands.]]
+, year 2007 ; Number of inhabitants in thousands.]]
 
 The following demographic statistics are from the CIA World Factbook, unless otherwise indicated.[70]
 

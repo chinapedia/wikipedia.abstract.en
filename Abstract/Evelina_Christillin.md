@@ -1,1 +1,0 @@
-EVELINA MARIA AUGUSTA CHRISTILLIN (born 27 November 1955 in Turin, Italy) is an Italian sports official and a former scholar of history of the University of Turin.[1] She has been a member of the FIFA Council since 14 September 2016.[2]

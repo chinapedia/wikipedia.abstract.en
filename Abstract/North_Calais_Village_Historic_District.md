@@ -1,1 +1,0 @@
-The NORTH CALAIS VILLAGE HISTORIC DISTRICT encompasses a linear 19th-century mill village in Calais, Vermont. It extends mainly along North Calais Road, paralleling Pekin Brook below Mirror Lake, where ruins of its former industrial past are still evident. It was listed on the National Register of Historic Places in 2010.[1]

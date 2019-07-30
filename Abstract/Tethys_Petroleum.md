@@ -1,1 +1,0 @@
-TETHYS PETROLEUM LIMITED is a Canadian-British oil and gas company active in the field of exploration and production. The company is mainly active in central Asia, Tajikistan, Kazakhstan and Georgia.[1]

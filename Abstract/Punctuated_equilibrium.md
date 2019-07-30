@@ -1,1 +1,0 @@
-PunctuatedEquilibrium.png stability followed by rare bursts of evolutionary change via rapid cladogenesis. It is contrasted (below) to phyletic gradualism, the more gradual, continuous model of evolution.]]

@@ -1,1 +1,0 @@
-DANDOH is a village in the Hoshiarpur tehsil, Hoshiarpur district of Punjab, India. It is one of 415 villages in Hoshiarpur. the closest railway station to Dandoh is Hoshiarpur railway station. The village is situated about 134.5 km from Chandigarh, the state capital.

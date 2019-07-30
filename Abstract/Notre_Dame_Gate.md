@@ -1,1 +1,0 @@
-The NOTRE DAME GATE, also known as the NOTRE DAME DE LA GRACE GATE (), the COTTONERA GATE, the ŻABBAR GATE () or _BIEB IS-SULTAN_ (Maltese for "King's Gate"), is the main gate of the Cottonera Lines, located in Birgu, Malta. The gate was built in 1675 in the Baroque style, and it is currently used as the headquarters of the heritage organization Fondazzjoni Wirt Artna.

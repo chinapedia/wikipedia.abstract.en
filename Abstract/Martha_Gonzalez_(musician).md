@@ -1,1 +1,0 @@
-MARTHA GONZALEZ is a Chicana artivista (artist/activist) musician and feminist music theorist. She is an assistant professor in the Intercollegiate Department of Chicana/o Latina/o Studies at Scripps College.[1] She is also a lead singer, percussionist, and songwriter for the band Quetzal, which won a Grammy Award for Best Latin Pop, Rock or Album.[2]

@@ -1,1 +1,0 @@
-_THE TITAN OF TWILIGHT_ is a fantasy novel by Troy Denning, set in the world of the Forgotten Realms, and based on the _Dungeons & Dragons_ role-playing game. It is the third novel published in "The Twilight Giants" trilogy of novels. It was published in paperback in September 1995, with a paperback re-issue in October 2005.

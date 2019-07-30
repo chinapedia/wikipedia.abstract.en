@@ -1,1 +1,0 @@
-_EUCALYPTUS DIMINUTA_, commonly known as the SPRING MALLEE,[1] is species of mallee that is endemic to south-west of Western Australia. It has smooth, silvery to greyish bark, sometimes with rough flaky bark near the base, lance-shaped adult leaves, pendulous, elongated flower buds arranged in groups of seven, creamy white flowers and cup-shaped to bell-shaped fruit.

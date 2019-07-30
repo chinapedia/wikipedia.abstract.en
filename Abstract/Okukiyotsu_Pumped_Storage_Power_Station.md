@@ -1,1 +1,0 @@
-The No. 1 and No. 2 are two large pumped-storage hydroelectric power plants in Yuzawa, Minamiuonuma, Niigata Prefecture, Japan. With a combined installed capacity of ,[1] the system is the third largest pumped-storage power station in Japan.

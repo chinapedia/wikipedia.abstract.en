@@ -1,1 +1,0 @@
-In economics, ADAPTIVE EXPECTATIONS is a hypothesized process by which people form their expectations about what will happen in the future based on what has happened in the past. For example, if inflation has been higher than expected in the past, people would revise expectations for the future.

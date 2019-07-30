@@ -1,1 +1,0 @@
-NigdeMuseum1.jpg NIĞDE ARCHAEOLOGICAL MUSEUM () is located in the centre of the Turkish provincial capital, Niğde between _Dışarı Cami Sokak_ and _Öğretmenler Caddesi_. It contains objects found at sites in the surrounding area, including the tell of Köşk Höyük and the Graeco-Roman city of Tyana, both in the nearby town of Kemerhisar.

@@ -1,1 +1,0 @@
-Boulevard_De_Gaulle_-_Abidjan.jpg

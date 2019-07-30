@@ -1,1 +1,0 @@
-OMS LIGHTNING is a Slovak manufacturer and supplier of LED lighting technology. They specialise in design, industrial LED lamps, and luminaries. OMS Lightning was founded in 1995 in Dojč, Slovakia. 93% of production is exported to 120 countries, White Hart Lane stadium in London is illuminated by OMS.[1]

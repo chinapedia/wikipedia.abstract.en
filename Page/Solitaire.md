@@ -1,4 +1,4 @@
-KPatience.png is a widely known form of card solitaire.]]
+is a widely known form of card solitaire.]]
 
 SOLITAIRE is any tabletop game which one can play by oneself. The term "solitaire" is also used for single-player games of concentration and skill using a set layout of tiles, pegs or stones rather than cards. These games include peg solitaire and mahjong solitaire. Most solitaire games function as a puzzle which, due to a different starting position, may (or may not) be solved in a different fashion each time.
 

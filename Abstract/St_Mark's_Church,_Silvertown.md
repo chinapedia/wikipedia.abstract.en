@@ -1,1 +1,0 @@
-ST MARK'S CHURCH, SILVERTOWN or ST MARK'S CHURCH, VICTORIA DOCKS is a former church building in Silvertown in east London, located on North Woolwich Road. It takes one of its names from the nearby Royal Docks. It was listed as Grade II* in 1971[1] and now houses the Brick Lane Music Hall.

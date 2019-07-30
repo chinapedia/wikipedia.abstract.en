@@ -1,1 +1,0 @@
-_DEATH GOES TO SCHOOL_ is a 1953 British mystery film directed by Stephen Clarkson and starring Barbara Murray, Gordon Jackson and Pamela Alan.[1] It was made at Merton Park Studios as a second feature.

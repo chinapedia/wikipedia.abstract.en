@@ -1,1 +1,0 @@
-PAUL DESMOND (born PAUL EMIL BREITENFELD, November 25, 1924 – May 30, 1977) was an American jazz alto saxophonist and composer, best known for his work with the Dave Brubeck Quartet and for composing that group's biggest hit, "Take Five". He was one of the most popular musicians to come out of the cool jazz scene.

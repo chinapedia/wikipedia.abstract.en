@@ -1,1 +1,0 @@
-_IT'S ALL A GAME_ is the second studio album by Australian musician, Jon English. The album was released in Australia November 1974. The album produced English's first top twenty single, a cover of Bob Seger's "Turn the Page" which entered the Kent Music chart in February 1975. The song peaked at number 7 in New Zealand. [1]

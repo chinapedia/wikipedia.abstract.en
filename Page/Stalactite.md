@@ -1,11 +1,9 @@
-labeled_speleothems.jpg A STALACTITE (, ; from the Greek _stalasso_, (σταλάσσω), "to drip", and meaning "that which drips") is a type of formation that hangs from the ceiling of caves, hot springs, or manmade structures such as bridges and mines. Any material that is soluble, can be deposited as a colloid, or is in suspension, or is capable of being melted, may form a stalactite. Stalactites may be composed of lava, minerals, mud, peat, pitch, sand, sinter, and amberat (crystallized urine of pack rats).[1][2] A stalactite is not necessarily a speleothem, though speleothems are the most common form of stalactite because of the abundance of limestone caves.[3][4]
+A STALACTITE (, ; from the Greek _stalasso_, (σταλάσσω), "to drip", and meaning "that which drips") is a type of formation that hangs from the ceiling of caves, hot springs, or manmade structures such as bridges and mines. Any material that is soluble, can be deposited as a colloid, or is in suspension, or is capable of being melted, may form a stalactite. Stalactites may be composed of lava, minerals, mud, peat, pitch, sand, sinter, and amberat (crystallized urine of pack rats).[1][2] A stalactite is not necessarily a speleothem, though speleothems are the most common form of stalactite because of the abundance of limestone caves.[3][4]
 
 The corresponding formation on the floor of the cave is known as a stalagmite. Mnemonics have been developed for which word refers to which type of formation; one is that _stalactite_ has a C for "ceiling", and _stalagmite_ has a G for "ground".[5]
 
 
 Formation and type
-
-Tropfsteinanimation.gif
 
 Limestone stalactites
 
@@ -35,7 +33,7 @@ The generic term _lavacicle_ has been applied to lava stalactites and stalagmite
 
 Like limestone stalactites, they can leave lava drips on the floor that turn into lava stalagmites and may eventually fuse with the corresponding stalactite to form a column.
 
-SHARK TOOTH STALACTITES The shark tooth stalactite is broad and tapering in appearance. It may begin as a small driblet of lava from a semi-solid ceiling, but then grows by accreting layers as successive flows of lava rise and fall in the lava tube, coating and recoating the stalactite with more material. They can vary from a few millimeters to over a meter in length.[14] Shark_tooth_stalactites.jpg
+SHARK TOOTH STALACTITES The shark tooth stalactite is broad and tapering in appearance. It may begin as a small driblet of lava from a semi-solid ceiling, but then grows by accreting layers as successive flows of lava rise and fall in the lava tube, coating and recoating the stalactite with more material. They can vary from a few millimeters to over a meter in length.[14]
 
 SPLASH STALACTITES As lava flows through a tube, material will be splashed up on the ceiling and ooze back down, hardening into a stalactite. This type of formation results in a very irregularly shaped stalactite, looking somewhat like stretched taffy. Often they may be of a different color than the original lava that formed the cave.[15]
 
@@ -43,15 +41,13 @@ TUBULAR LAVA STALACTITES When the roof of a lava tube is cooling, a skin will fo
 
 Ice stalactites
 
-Ice_stalactite.jpg A common stalactite found seasonally or year round in many caves is the ice stalactite, commonly referred to as icicles, especially on the surface.[17] Water seepage from the surface will penetrate into a cave and if temperatures are below freezing the water will form stalactites. Creation may also be done by the freezing of water vapor.[18] Similar to lava stalactites, ice stalactites form very quickly within hours or days. Unlike lava stalactites however, they may grow back as long as water and temperatures are suitable.
+A common stalactite found seasonally or year round in many caves is the ice stalactite, commonly referred to as icicles, especially on the surface.[17] Water seepage from the surface will penetrate into a cave and if temperatures are below freezing the water will form stalactites. Creation may also be done by the freezing of water vapor.[18] Similar to lava stalactites, ice stalactites form very quickly within hours or days. Unlike lava stalactites however, they may grow back as long as water and temperatures are suitable.
 
 Ice stalactites can also form under sea ice when saline water is introduced to ocean water. These specific stalactites are referred to as brinicles.
 
 Ice stalactites may also form corresponding stalagmites below them and given time may grow together to form an ice column.
 
 Concrete stalactites
-
-Mostar_interchange_concrete_stalactites.jpg Calthemite_straw_stalactites_-_air_movement.jpg
 
 Stalactites can also form on concrete, and on plumbing where there is a slow leak and calcium, magnesium or other ions in the water supply, although they form much more rapidly there than in the natural cave environment. These secondary deposits, such as stalactites, stalagmites, flowstone and others, which are derived from the lime, mortar or other calcareous material in concrete, outside of the "cave" environment, can not be classified as "speleothems" due to the definition of the term.[19] The term "calthemite" is used to encompass the secondary deposits which mimic the shapes and forms of speleothems outside the cave environment.[20]
 

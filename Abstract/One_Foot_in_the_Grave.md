@@ -1,1 +1,0 @@
-_ONE FOOT IN THE GRAVE_ is a British television sitcom[1] written by David Renwick. There were six series and seven Christmas specials over a period of eleven years from early 1990 to late 2000. The first five series were broadcast between January 1990 and January 1995. For the next five years, the show appeared only as Christmas specials, followed by one final series in 2000.

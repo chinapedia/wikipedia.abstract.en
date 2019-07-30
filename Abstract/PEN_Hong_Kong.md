@@ -1,1 +1,0 @@
-PEN HONG KONG (Chinese: 香港筆會) is one of the 148 centers of PEN International. Founded in 2016, it is a multilingual society of Hong Kong-based writers, poets, publishers, editors, translators, journalists and academics, aimed at promoting literature and defending the freedom of expression in Hong Kong.

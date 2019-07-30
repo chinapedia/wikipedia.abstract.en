@@ -1,1 +1,0 @@
-FLETE (anciently FLETE DAMARELL) in the parish of Holbeton in Devon is an historic manor. In 1810 it was called "one of the finest estates in the county of Devon".[1] The present manor house known as Flete House was built in the 19th century incorporating some elements of an earlier Tudor house on the site.[2]

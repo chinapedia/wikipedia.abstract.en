@@ -7,19 +7,19 @@ A person who plays the trombone is called a trombonist or trombone player.
 
 Construction
 
-+--------+-----------------------------+
-| 120 px | 1.  tuning slide            |
-|        | 2.  counterweight           |
-|        | 3.  mouthpiece              |
-|        | 4.  slide lock ring         |
-|        | 5.  bell                    |
-|        | 6.  knob/bumper             |
-|        | 7.  water key/spit valve    |
-|        | 8.  main slide              |
-|        | 9.  second slide brace/stay |
-|        | 10. first slide brace/stay  |
-|        | 11. bell lock nut           |
-+--------+-----------------------------+
++--+-----------------------------+
+|  | 1.  tuning slide            |
+|  | 2.  counterweight           |
+|  | 3.  mouthpiece              |
+|  | 4.  slide lock ring         |
+|  | 5.  bell                    |
+|  | 6.  knob/bumper             |
+|  | 7.  water key/spit valve    |
+|  | 8.  main slide              |
+|  | 9.  second slide brace/stay |
+|  | 10. first slide brace/stay  |
+|  | 11. bell lock nut           |
++--+-----------------------------+
 
 : Basic trombone anatomy
 
@@ -123,9 +123,7 @@ The trombone can be found in symphony orchestras, concert bands, marching bands,
 
 Types
 
-Detall_de_buccén.jpg (MDMB 369, 1800–1860) in the musical instrument collection of the Museu de la Música de Barcelona]]
-
-Superbone.svg
+(MDMB 369, 1800–1860) in the musical instrument collection of the Museu de la Música de Barcelona]]
 
 The most frequently encountered type of trombone today is the tenor, followed by the bass, though as with many other Renaissance instruments the trombone has been built in sizes from piccolo to contrabass. Trombones are usually constructed with a slide that is used to change the pitch. Valve trombones use three valves (singly or in combination) instead of the slide. The valves follow the same schema as other valved instruments-the first valve lowers the pitch by one step, the second valve by a half-step, and the third valve by one and a half steps.
 
@@ -135,8 +133,6 @@ A superbone uses a full set of valves _and_ a slide. These differ from trombones
 Technique
 
 Basic slide positions
-
-Wirth_trombone_slide_position_chart.jpg
 
 The modern system has seven chromatic slide positions on a tenor trombone in B. It was first described by Andre Braun circa 1795.[12]
 
@@ -148,21 +144,15 @@ In 1811 Joseph Fröhlich wrote on the differences between the modern system and 
 
 Partials and intonation
 
-Trombone_first_position_harmonic_series.png Trombone_seventh_position_harmonic_series.png
-
 As with all brass instruments, progressive tightening of the lips and increased air pressure allow the player to move to different partial in the harmonic series. In the first position (also called closed position) on a B trombone, the notes in the harmonic series begin with B₂ (one octave higher than the pedal B₁), F₃ (a perfect fifth higher than the previous partial), B₃ (a perfect fourth higher), D₄ (a major third higher), and F₄ (a minor third higher).
 
 F₄ marks the sixth partial, or the fifth overtone. Notes on the next partial, for example A₄ (a minor third higher) in first position, tend to be out of tune in regards to the twelve-tone equal temperament scale. A₄ in particular, which is at the seventh partial (sixth overtone) is nearly always 31 cents, or about one third of a semitone, flat of the minor seventh. On the slide trombone, such deviations from intonation are corrected for by slightly adjusting the slide or by using an alternate position.[15] Although much of Western music has adopted the even-tempered scale, it has been the practice in Germany and Austria to play these notes in position, where they will have just intonation (see harmonic seventh as well for A₄).
 
 The next higher partials—B₄ (a major second higher), C₅ (a major second higher), D₅ (a major second higher)—do not require much adjustment for even-tempered intonation, but E₅ (a minor second higher) is almost exactly a quarter tone higher than it would be in twelve-tone equal temperament. E₅ and F₅ (a major second higher) at the next partial are very high notes; a very skilled player with a highly developed facial musculature and diaphragm can go even higher to G₅, A₅, B₅ and beyond.
 
-Trombone_F_slide_position_pedal_tones.png
-
 The higher in the harmonic series any two successive notes are, the closer they tend to be (as evidenced by the progressively smaller intervals noted above). A byproduct of this is the relatively few motions needed to move between notes in the higher ranges of the trombone. In the lower range, significant movement of the slide is required between positions, which becomes more exaggerated on lower pitched trombones, but for higher notes the player need only use the first four positions of the slide since the partials are closer together, allowing higher notes in alternate positions. As an example, F₄ (at the bottom of the treble clef) may be played in first, fourth or sixth position on a B trombone. The note E₁ (or the lowest E on a standard 88-key piano keyboard) is the lowest attainable note on a B tenor trombone, requiring a full of tubing. On trombones without an F attachment, there is a gap between B₁ (the fundamental in first position) and E₂ (the first harmonic in seventh position). Skilled players can produce "falset" notes between these, but the sound is relatively weak and not usually used in performance. The addition of an F attachment allows for intermediate notes to be played with more clarity.
 
 Pedal tones
-
-Trombone_slide_position_pedal_tones.png
 
 The pedal tone on B is frequently seen in commercial scoring but much less often in symphonic music while notes below that are called for only rarely as they "become increasingly difficult to produce and insecure in quality" with A or G being the bottom limit for most tenor trombonists.[16] However, Richard Wagner's _Das Rheingold_ calls for a pedal E in the Trombone IV part, in a section referred to as the 'spear motif'.[17] Some contemporary orchestral writing, movie or video game scoring, trombone ensemble and solo works will call for notes as low as a pedal C, B, or even double pedal B on the bass trombone.
 
@@ -186,7 +176,7 @@ An accomplished performer today is expected to be proficient in reading parts no
 
 Mutes
 
-Trombone_Plunger.jpg A variety of mutes can be used with the trombone to alter its timbre. Many are held in place with the use of cork grips, including the straight, cup, harmon and pixie mutes. Some fit over the bell, like the bucket mute. In addition to this, mutes can be held in front of the bell and moved to cover more or less area for a wah-wah effect. Mutes used in this way include the "hat" (a metal mute shaped like a bowler hat) and plunger (which looks like, and often is, the rubber suction cup from a sink or toilet plunger), a sound featured as the voices of adults in the _Peanuts_ cartoons.
+A variety of mutes can be used with the trombone to alter its timbre. Many are held in place with the use of cork grips, including the straight, cup, harmon and pixie mutes. Some fit over the bell, like the bucket mute. In addition to this, mutes can be held in front of the bell and moved to cover more or less area for a wah-wah effect. Mutes used in this way include the "hat" (a metal mute shaped like a bowler hat) and plunger (which looks like, and often is, the rubber suction cup from a sink or toilet plunger), a sound featured as the voices of adults in the _Peanuts_ cartoons.
 
 
 Variations in construction
@@ -211,7 +201,7 @@ Some trombones have valves instead of a slide (see valve trombone). These are us
 
 Tubing
 
-More often than not, tenor trombones with an F attachment, or trigger, have a larger bore through the attachment than through the 'straight' section (the portion of the trombone through which the air flows when the attachment is not engaged). Typically, for orchestral instruments, the slide bore is and the attachment tubing bore is . A wide variety of valve attachments and combinations are available. Valve attachment tubing usually incorporates a small tuning slide so that the attachment tubing can be tuned separately from the rest of the instrument. Most B/F tenor and bass trombones include a tuning slide long enough to lower the pitch to E with the valve tubing engaged, enabling the production of B₂. Yamaha_Trombone_comparison_of_open_and_traditional_wrap.jpg Whereas older instruments fitted with valve attachments usually had the tubing coiled rather tightly in the bell section (''closed wrap '' or _traditional wrap_), modern instruments usually have the tubing kept as free as possible of tight bends in the tubing (_open wrap_), resulting in a freer response with the valve attachment tubing engaged. While open-wrap tubing does offer a more open sound, the tubing sticks out from behind the bell and is more vulnerable to damage. For that reason, closed-wrap tubing remains more popular in trombones used in marching bands or other ensembles where the trombone may be more prone to damage.
+More often than not, tenor trombones with an F attachment, or trigger, have a larger bore through the attachment than through the 'straight' section (the portion of the trombone through which the air flows when the attachment is not engaged). Typically, for orchestral instruments, the slide bore is and the attachment tubing bore is . A wide variety of valve attachments and combinations are available. Valve attachment tubing usually incorporates a small tuning slide so that the attachment tubing can be tuned separately from the rest of the instrument. Most B/F tenor and bass trombones include a tuning slide long enough to lower the pitch to E with the valve tubing engaged, enabling the production of B₂. Whereas older instruments fitted with valve attachments usually had the tubing coiled rather tightly in the bell section (''closed wrap '' or _traditional wrap_), modern instruments usually have the tubing kept as free as possible of tight bends in the tubing (_open wrap_), resulting in a freer response with the valve attachment tubing engaged. While open-wrap tubing does offer a more open sound, the tubing sticks out from behind the bell and is more vulnerable to damage. For that reason, closed-wrap tubing remains more popular in trombones used in marching bands or other ensembles where the trombone may be more prone to damage.
 
 Tuning
 
@@ -223,13 +213,13 @@ Common and popular bore sizes for trombone slides are for tenor trombones, and f
 
 Mouthpiece
 
-Schilke_51C4_Trombone_Mouthpiece.jpg The mouthpiece is a separate part of the trombone and can be interchanged between similarly sized trombones from different manufacturers. Available mouthpieces for trombone (as with all brass instruments) vary in material composition, length, diameter, rim shape, cup depth, throat entrance, venturi aperture, venturi profile, outside design and other factors. Variations in mouthpiece construction affect the individual player's ability to make a lip seal and produce a reliable tone, the timbre of that tone, its volume, the instrument's intonation tendencies, the player's subjective level of comfort, and the instrument's playability in a given pitch range.
+The mouthpiece is a separate part of the trombone and can be interchanged between similarly sized trombones from different manufacturers. Available mouthpieces for trombone (as with all brass instruments) vary in material composition, length, diameter, rim shape, cup depth, throat entrance, venturi aperture, venturi profile, outside design and other factors. Variations in mouthpiece construction affect the individual player's ability to make a lip seal and produce a reliable tone, the timbre of that tone, its volume, the instrument's intonation tendencies, the player's subjective level of comfort, and the instrument's playability in a given pitch range.
 
 Mouthpiece selection is a highly personal decision. Thus, a symphonic trombonist might prefer a mouthpiece with a deeper cup and sharper inner rim shape in order to produce a rich symphonic tone quality, while a jazz trombonist might choose a shallower cup for brighter tone and easier production of higher notes. Further, for certain compositions, these choices between two such performers could easily be reversed. Some mouthpiece makers now offer mouthpieces that feature removable rims, cups, and shanks allowing players to further customize and adjust their mouthpieces to their preference.
 
 Plastic
 
-The_Trombone_Show_(color).JPG Instruments made mostly from plastic, including the pBone and the Tromba plastic trombone, emerged in the 2010s as a cheaper and more robust alternative to brass.[22][23] Plastic instruments could come in almost any colour but the sound plastic instruments produce is different from that of brass. While originally seen as a gimmick, these plastic models have found increasing popularity of the last decade and are now viewed as practice tools that make for more convenient travel as well as a cheaper option for beginning players not wishing to invest so much money in a trombone right away. Manufacturers now produce large-bore models with triggers as well as smaller alto models.
+Instruments made mostly from plastic, including the pBone and the Tromba plastic trombone, emerged in the 2010s as a cheaper and more robust alternative to brass.[22][23] Plastic instruments could come in almost any colour but the sound plastic instruments produce is different from that of brass. While originally seen as a gimmick, these plastic models have found increasing popularity of the last decade and are now viewed as practice tools that make for more convenient travel as well as a cheaper option for beginning players not wishing to invest so much money in a trombone right away. Manufacturers now produce large-bore models with triggers as well as smaller alto models.
 
 Regional variations
 

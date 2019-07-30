@@ -44,7 +44,7 @@ Well-known companies in Suffolk include Greene King and Branston Pickle in Bury 
 
 Geography
 
-Ruins_Abbey_Bury_St_Edmunds_with_sheep.jpg, Bury St Edmunds in 1920]]
+, Bury St Edmunds in 1920]]
 
 There are several towns in the county with Ipswich being the largest and most populous. At the time of the 2011 census, a population of 730,000 lived in the county with 133,384 living in Ipswich. The table below shows all towns with over 20,000 inhabitants.
 
@@ -79,7 +79,7 @@ Most English counties have nicknames for people from that county, such as a Tyke
 
 Notable people
 
-Mr_and_Mrs_Andrews_1748-49.jpg'' (1748–49), housed at the National Gallery in London, depicts the Suffolk landscape of his time.]]
+'' (1748–49), housed at the National Gallery in London, depicts the Suffolk landscape of his time.]]
 
 In the arts, Suffolk is noted for having been the home to two of England's best regarded painters, Thomas Gainsborough[25] and John Constable – the Stour Valley area is branded as "Constable Country"[26] – and one of its most noted composers, Benjamin Britten.[27] Other artists of note from Suffolk include sculptress Dame Elizabeth Frink, the cartoonist Carl Giles (a bronze statue of his character "Grandma" to commemorate this is located in Ipswich town centre), poets George Crabbe[28] and Robert Bloomfield,[29] writer and Literary editor Ronald Blythe, actors Ralph Fiennes[30] and Bob Hoskins, actress and singer Kerry Ellis, musician and record producer Brian Eno,[31] singer Dani Filth, of the Suffolk-based extreme metal group, Cradle of Filth, singer-songwriter Ed Sheeran, and coloratura soprano Christina Johnston.
 

@@ -1,1 +1,0 @@
-SUFFOLK () is an East Anglian county of historic origin in England. It has borders with Norfolk to the north, Cambridgeshire to the west and Essex to the south. The North Sea lies to the east. The county town is Ipswich; other important towns include Lowestoft, Bury St Edmunds, Newmarket and Felixstowe, one of the largest container ports in Europe.[1]

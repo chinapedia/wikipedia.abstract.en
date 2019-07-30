@@ -1,1 +1,0 @@
-NGAAHINA HOHAIA (1975) is a visual artist of Ngāti Moeahu, Ngāti Haupoto and Greek descent from Parihaka, New Zealand.[1] Her work often draws from Parihaka history and has been exhibited nationally and internationally.[2] Ngaahina gained a Masters in Māori Visual Arts from Toioho ki Āpiti in 2009 and in 2010 received the Arts Foundation of New Zealand New Generation Award.[3]

@@ -1,1 +1,0 @@
-JOHNSON STRING INSTRUMENT is a full service provider of new and previously owned stringed instruments and accessories, including their rental, sales, restoration, repair and appraisal. Located in Newton Upper Falls, Massachusetts, the company was founded in 1976 by Carol and Roger Johnson, and is currently owned by their son, Adam Johnson. The company is privately held.[1]

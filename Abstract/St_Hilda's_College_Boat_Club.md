@@ -1,1 +1,0 @@
-ST HILDA'S COLLEGE BOAT CLUB, OXFORD (SHCBC) is a rowing club part of the University of Oxford, England, located on the River Thames at Oxford. The club was founded in 1911, and competes primarily in the Torpids and Summer Eights bumps races in Oxford.

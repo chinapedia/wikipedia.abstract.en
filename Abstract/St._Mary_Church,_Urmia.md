@@ -1,1 +1,0 @@
-ST. MARY CHURCH (, ), is an ancient Assyrian church located in the city of Urmia, West Azerbaijan Province, Iran. It is considered by some historians to be the second oldest church in Christendom after the Church of the Nativity in Bethlehem in the West Bank.

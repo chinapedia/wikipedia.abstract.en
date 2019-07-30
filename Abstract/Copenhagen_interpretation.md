@@ -1,1 +1,0 @@
-The COPENHAGEN INTERPRETATION is an expression of the meaning of quantum mechanics that was largely devised from 1925 to 1927 by Niels Bohr and Werner Heisenberg. It remains one of the most commonly taught interpretations of quantum mechanics.[1][2]

@@ -1,1 +1,0 @@
-PRAKASH RAI is a member of the Bharatiya Janata Party from Bihar. He has won the Bihar Legislative Assembly election in 2015 from Chanpatiya defeating N.N Shahi, He is serving the people of chanpatiya since he has won without any compromise.[1][2]

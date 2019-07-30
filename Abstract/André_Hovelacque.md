@@ -1,1 +1,0 @@
-ANDRÉ ÉDOUARD ÉMILE HOVELACQUE (29 March 1880, 7th arrondissement of Paris[1] – 19 July 1939, Paris[2]) was a 20th-century French anatomist who particularly studied the anatomy of the peripheral nervous system.

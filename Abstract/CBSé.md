@@ -1,1 +1,0 @@
-CBSÉ is an organic beverage company specializing in yerba mate products based in Argentina. The company exports their products internationally since 2000. CBSé mostly offers loose-leaf yerba mate with a various flavors. Their most popular products are CBSé Hierbas Serranas, CBSé Limon, CBSé Cafe, CBSé Silueta, CBSé Energia.[1]

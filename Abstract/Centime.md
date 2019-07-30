@@ -1,1 +1,0 @@
-10_French_centimes_1963_(1).jpg 10_French_centimes_1963_(2).jpg CENTIME (from ) is French for "cent", and is used in English as the name of the fraction currency in several Francophone countries (including Switzerland, Algeria, Belgium, Morocco and France).

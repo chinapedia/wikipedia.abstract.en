@@ -1,1 +1,0 @@
-'''Michaela "Milva" Kalogerakou ''' (born 10 July 1998) is a Greek female water polo player. She played for Olympiacos, with whom she won the 2014–15 LEN Euro League Women[1] and the 2014 Women's LEN Trophy.[2] She was part of the Greece women's team winning the bronze medal at the 2015 European Games in Baku.[3] She started competing in water polo in 2013.

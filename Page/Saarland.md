@@ -9,8 +9,6 @@ History
 
 Before World War I
 
-400 px
-
 The region of the Saarland was settled by the Celtic tribes of Treveri and Mediomatrici. The most impressive relic of their time is the remains of a fortress of refuge at Otzenhausen in the north of the Saarland. In the 1st century BC, the Roman Empire made the region part of its province of Belgica. The Celtic population mixed with the Roman immigrants. The region gained wealth, which can still be seen in the remains of Roman villas and villages.
 
 Roman rule ended in the 5th century, when the Franks conquered the territory. For the next 1,300 years the region shared the history of the Kingdom of the Franks, the Carolingian Empire and of the Holy Roman Empire. The region of the Saarland was divided into several small territories, some of which were ruled by sovereigns of adjoining regions. Most important of the local rulers were the counts of Nassau-Saarbrücken. Within the Holy Roman Empire these territories gained a wide range of independence, threatened, however, by the French kings, who sought, from the 17th century onwards, to incorporate all the territories on the western side of the river Rhine and repeatedly invaded the area in 1635, in 1676, in 1679 and in 1734, extending their realm to the Saar River and establishing the city and stronghold of Saarlouis in 1680.
@@ -23,7 +21,7 @@ Interwar history
 
 In 1920 the Saargebiet was occupied by Britain and France under the provisions of the Treaty of Versailles. The occupied area included portions of the Prussian Rhine Province and the Bavarian Rhenish Palatinate. In practice the region was administered by France. In 1920 this was formalized by a 15-year League of Nations mandate.
 
-Saar_1920_05_Germania.jpg from the French occupation of Saarland (_Sarre_ in French)]] In 1933, a considerable number of communists and other political opponents of National Socialism fled to the Saar, as it was the only part of Germany that remained outside national administration following the First World War. As a result, anti-Nazi groups agitated for the Saarland to remain under French administration. However, with most of the population being ethnically German, such views were considered suspect or even treasonous, and therefore found little support.
+from the French occupation of Saarland (_Sarre_ in French)]] In 1933, a considerable number of communists and other political opponents of National Socialism fled to the Saar, as it was the only part of Germany that remained outside national administration following the First World War. As a result, anti-Nazi groups agitated for the Saarland to remain under French administration. However, with most of the population being ethnically German, such views were considered suspect or even treasonous, and therefore found little support.
 
 When the original 15-year term was over, a plebiscite was held in the territory on 13 January 1935: 90.8% of those voting favoured rejoining Germany.
 
@@ -63,11 +61,11 @@ Since 1971, Saarland has been a member of SaarLorLux, a euroregion created from 
 
 Geography
 
-La_Sarre.jpg" (Bend in the Saar) near Mettlach]]
+" (Bend in the Saar) near Mettlach]]
 
 The state borders France (_département_ of Moselle, which forms part of the _région_ of Grand Est) [3] to the south and west, Luxembourg (Grevenmacher District) to the west and Rheinland-Pfalz to the north and the east.
 
-It is named after the Saar River, a tributary of the Moselle River (itself a tributary of the Rhine), which runs through the state from the south to the northwest. One third of the land area of the Saarland is covered by forest, one of the highest percentages in Germany. The state is generally hilly; the highest mountain is the Dollberg with a height of 695.4 m (2281 feet). S_L.svg
+It is named after the Saar River, a tributary of the Moselle River (itself a tributary of the Rhine), which runs through the state from the south to the northwest. One third of the land area of the Saarland is covered by forest, one of the highest percentages in Germany. The state is generally hilly; the highest mountain is the Dollberg with a height of 695.4 m (2281 feet).
 
 Most inhabitants live in a city agglomeration on the French border, surrounding the capital of Saarbrücken.
 

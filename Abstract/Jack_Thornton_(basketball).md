@@ -1,1 +1,0 @@
-JACK THORNTON (August 31, 1914 – December 13, 2007) was an American professional basketball player.[1][2] He played in the National Basketball League for the Hammond Ciesar All-Americans in one game and for the Sheboygan Red Skins in two games.[3] Thornton scored five total points.[4]

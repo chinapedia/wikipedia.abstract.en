@@ -1,1 +1,0 @@
-The APICOMPLEXA (also called APICOMPLEXIA) are a large phylum of parasitic alveolates. Most of them possess a unique form of organelle that comprises a type of plastid called an apicoplast, and an apical complex structure. The organelle is an adaptation that the apicomplexan applies in penetration of a host cell.

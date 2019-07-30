@@ -1,1 +1,0 @@
-RAJINDER BERI (born 6 March 1962, Jalandhar) is the President of the District Congress Committee Jalandhar. He was the councillor - Municipal Corporation Jalandhar for the terms 1997–2002 and 2007–2012.

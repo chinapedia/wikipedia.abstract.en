@@ -1,1 +1,0 @@
-is a Japanese badminton player who plays for ACT Saikyo badminton club.[1][2] She was the champion of the women's singles event at the 2016 Sydney International tournament and in 2017, she was chosen to join the B squad of Japan national badminton team.[3]

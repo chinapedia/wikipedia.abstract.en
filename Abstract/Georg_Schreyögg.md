@@ -1,1 +1,0 @@
-GEORG SCHREYÖGG (13 August 1870 – 7 July 1934) was a German sculptor.[1][2] One of his better known surviving works is the 1907 St Barbara War Memorial in Koblenz, taken down to make way for a new road in 1956[3] but returned to a site in the city close to its original location in 2014.[4]

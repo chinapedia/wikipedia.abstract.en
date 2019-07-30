@@ -1,1 +1,0 @@
-"NO FOE SHALL GATHER OUR HARVEST" is a poem by Australian poet Mary Gilmore.[1] It was first published in _The Australian Women's Weekly_ on 29 June 1940,[2] and later in the poet's collection _Fourteen Men_. The final two stanzas from the poem appear as microtext on the Australian ten-dollar note.[3]

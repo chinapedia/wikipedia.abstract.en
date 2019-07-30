@@ -1,1 +1,0 @@
-The 2016 SUN BOWL was a postseason college football bowl game, played on December 30, 2016.[1] It was one of the 2016–17 bowl games concluding the 2016 FBS football season. It featured the Stanford Cardinal of the Pac-12 Conference and the North Carolina Tar Heels of the Atlantic Coast Conference.[2]

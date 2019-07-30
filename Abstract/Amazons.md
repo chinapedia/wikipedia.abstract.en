@@ -1,1 +1,0 @@
-Amazzone_ferita_-_Musei_Capitolini.jpg, Rome, Italy]] Amazon_preparing_for_the_battle_(Queen_Antiope_or_Armed_Venus)_-_Pierre-Eugene-Emile_Hebert_1860_-_NG_of_Arts_Wash_DC_rotated_and_cropped.jpg 1860 (National Gallery of Art, Washington, D.C.)]]

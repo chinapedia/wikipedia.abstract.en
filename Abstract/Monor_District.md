@@ -1,1 +1,0 @@
-MONOR () is a district in central-eastern part of Pest County. _Monor_ is also the name of the town where the district seat is found. The district is located in the Central Hungary Statistical Region.

@@ -1,1 +1,0 @@
-_Butch_Cage_and_Willie_B._Thomas.jpg

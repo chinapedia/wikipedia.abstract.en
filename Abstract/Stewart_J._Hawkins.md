@@ -1,1 +1,0 @@
-STEWART JOHN HAWKINS (born c. 1935) served as the International Commissioner of the Scout Association, as well as Chairman of the European Scout Committee and Chairman of the European Scout Foundation. He was especially involved in assisting the rebirth of Scouting in the countries of Eastern Europe and the former Soviet Union.

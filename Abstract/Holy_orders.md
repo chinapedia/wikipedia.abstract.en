@@ -1,1 +1,0 @@
-Vicente_Carducho,_"Ordenación_y_primera_misa_de_san_Juan_de_Mata".jpg]]

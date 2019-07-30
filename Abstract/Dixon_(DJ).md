@@ -1,1 +1,0 @@
-DIXON (born STEFFEN BERKHAHN; 21 December 1975 in Anklam, Germany[1]) is a Berlin-based house and techno DJ, producer and label manager. He was the number one DJ on Resident Advisor's Top 100 DJ Poll every year from 2013 to the last annual poll in 2016.

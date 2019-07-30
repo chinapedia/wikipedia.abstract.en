@@ -1,1 +1,0 @@
-_CHARIOTS OF FIRE_ is a 1981 British historical drama film. It tells the fact-based story of two athletes in the 1924 Olympics: Eric Liddell, a devout Scottish Christian who runs for the glory of God, and Harold Abrahams, an English Jew who runs to overcome prejudice.

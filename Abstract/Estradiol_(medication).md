@@ -1,1 +1,0 @@
-{{Infobox drug | Verifiedfields = verified | Watchedfields = verified | verifiedrevid = 488623959 | drug_name = Estradiol | IUPAC_name = (8_R_,9_S_,13_S_,14_S_,17_S_)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[_a_]phenanthrene-3,17-diol | image = Estradiol.svg | width = 225px | image2 = Estradiol 3D ball.png | width2 = 235px

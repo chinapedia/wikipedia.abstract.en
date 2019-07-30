@@ -1,1 +1,0 @@
-_ANOTHER DAY IN PARADISE_ is the ninth mixtape by Palestinian-Canadian hip hop recording artist Belly. It was released on May 27, 2016, by Roc Nation and XO.[1] The mixtape features guest appearances from Waka Flocka Flame, Lil Wayne, Juicy J, Starrah, Kehlani, B-Real and Travis Scott.[2]

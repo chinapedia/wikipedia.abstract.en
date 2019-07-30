@@ -1,1 +1,0 @@
-The INTERVIEW ISLANDS is a group of islands located in Austin Harbour and Interview sound. These islands belong to the Andaman Islands. They belong to the North and Middle Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands.[1]

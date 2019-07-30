@@ -1,1 +1,0 @@
-Cassius Clay (soon Muhammad Ali) and Doug Jones fought a ten-round boxing match at Madison Square Garden in New York City, on March 13, 1963. Clay won the bout on points through a close but unanimous decision.[1][2][3][4][5][6]

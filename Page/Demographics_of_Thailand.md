@@ -3,7 +3,7 @@ The DEMOGRAPHICS OF THAILAND paint a statistical portrait of the national popula
 
 Population
 
-Population_development_in_Thailand.jpg Bevölkerungspyramide_Thailand_2016.png The population of Thailand was estimated to be .
+The population of Thailand was estimated to be .
 
 Thailand's population is mostly rural. It is concentrated in the rice growing areas of the central, northeastern, and northern regions. Its urban population—principally in greater Bangkok—was 45.7 percent of the total population in 2010 according to National Economic and Social Development Board (NESDB). Accurate statistics are difficult to arrive at, as millions of Thai migrate from rural areas to cities, then return to their place of origin to help with seasonal field work. Officially they have rural residency, but spend most of the year in urban areas.
 
@@ -15,8 +15,6 @@ The United Nations classifies Thailand as an "aging society" (one-tenth of the p
 
 
 Ethnic groups
-
-Thailand_ethnic_map.svg
 
 Thailand's ethnic origins are diverse and continue to evolve. The nation's ethnic makeup is obscured by the pressures of Thaification, Thai nationalism, and social pressure, which is intertwined with a caste-like mentality assigning some groups higher social status than others. In its report to the United Nations for the _International Convention on the Elimination of All Forms of Racial Discrimination_, the Thai government officially recognized 62 ethnic communities.[9] Twenty million Central Thai (together with approximately 650,000 Khorat Thai) make up approximately 20,650,000 million (34.1 percent) of the nation's population of 60,544,937[10] at the time of completion of the Mahidol University _Ethnolinguistic Maps of Thailand_ data (1997).[11]
 

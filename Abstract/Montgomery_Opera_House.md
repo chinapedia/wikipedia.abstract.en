@@ -1,1 +1,0 @@
-MONTGOMERY OPERA HOUSE, also known as CLARK COUNTY SAVINGS BANK and KAHOKA STATE BANK, is a historic opera house located at Kahoka, Clark County, Missouri. It was built in 1890, and is a two-story, Late Victorian style brick building. The building features a high hipped roof, elaborate pressed metal cornice, and finely detailed brick work.[1]

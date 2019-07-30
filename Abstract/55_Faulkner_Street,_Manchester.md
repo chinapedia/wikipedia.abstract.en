@@ -1,1 +1,0 @@
-55 FAULKNER STREET (also 18 NICHOLAS STREET) is a historic building in the Chinatown district of Manchester, United Kingdom. Constructed in 1870, and Grade II listed in June 1994, it caught fire and was gutted in November 2016.

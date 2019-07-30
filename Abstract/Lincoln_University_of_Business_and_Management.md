@@ -1,1 +1,0 @@
-LINCOLN UNIVERSITY OF BUSINESS AND MANAGEMENT (LUBM) is a private institution based in Sharjah, United Arab Emirates, with campuses in Sharjah and Fujairah. LUBM offers management programs in bachelor, master and diploma levels in association with international institutions.

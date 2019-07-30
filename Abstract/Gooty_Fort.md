@@ -1,1 +1,0 @@
-The GOOTY FORT, also known as RAVADURG, is a ruined fort located on a hill in the Gooty town of Andhra Pradesh, India. The word Gooty (locally pronounced "Gutti") is derived from the town's original name, Gowthampuri. It is one of the centrally protected monuments of national importance.[1]

@@ -1,1 +1,0 @@
-James_Harden_2.jpg This page details the records, statistics and career achievements of American basketball player JAMES HARDEN. Harden is an American basketball guard who plays for the Houston Rockets of the National Basketball Association.

@@ -1,1 +1,0 @@
-LUIS MERINO (born September 17, 1942 in Mexico City, Mexico) is a Mexican/Canadian painter. His work can be found in numerous public and private collections in Canada, Mexico, and the United States. Some of his most notable work is on display in the Maltwood Art Museum and Gallery, at the University of Victoria in Greater Victoria, British Columbia, Canada.

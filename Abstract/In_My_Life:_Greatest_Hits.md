@@ -1,1 +1,0 @@
-_IN MY LIFE: GREATEST HITS_ is a compilation album by American recording R&B singer Stephanie Mills released in 1979. It is Mills first greatest hits album which features her hit charting songs, "What Cha' Gonna Do With My Lovin'", Never Knew Love Like This Before", and the top five R&B hits "Two Hearts" a duet with Teddy Pendergrass and "Sweet Sensation".[1]

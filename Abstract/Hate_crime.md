@@ -1,1 +1,0 @@
-A HATE CRIME (also known as a BIAS-MOTIVATED CRIME or BIAS CRIME[1]) is a prejudice-motivated crime which occurs when a perpetrator targets a victim because of their membership (or perceived membership) in a certain social group or race.

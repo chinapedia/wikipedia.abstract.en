@@ -1,1 +1,0 @@
-PLANÈTE CHOCOLAT is a Belgian chocolatier of artisan chocolates. The company was founded in 1991 and makes its chocolates with 100% pure cocoa butter.[1] GoEuro selected Planète Chocolat as one of the Top 11 best chocolate shops in Europe.[2] Planète Chocolat currently has one store where chocolates are handmade, sold, and distributed.

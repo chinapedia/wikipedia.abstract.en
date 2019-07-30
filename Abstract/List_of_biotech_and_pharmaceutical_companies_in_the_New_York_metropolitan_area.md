@@ -1,1 +1,0 @@
-BIOTECH AND PHARMACEUTICAL COMPANIES IN THE NEW YORK METROPOLITAN AREA represent a significant and growing economic component of the New York metropolitan area,[1][2] the most populous combined statistical area in the United States[3] and one of the most populous megacities in the world.[4][5]

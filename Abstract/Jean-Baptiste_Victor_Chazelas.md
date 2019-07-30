@@ -1,1 +1,0 @@
-JEAN-BAPTISTE VICTOR CHAZELAS (* 23. April 1885 in Bussière-Galant, ; † 29. December 1953 in Nice) was a French colonial administrator. He served as acting lieutenant governor of Mauritania from August 1934 to 1 November 1934 and from 15 April 1935 to 10 November 1935.[1]

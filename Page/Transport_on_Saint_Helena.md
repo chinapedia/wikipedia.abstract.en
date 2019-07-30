@@ -18,11 +18,11 @@ Saint Helena has a feeder and a harbour:
 
 Air traffic
 
-St_Helena_Airport_Terminal_(16331626258).jpg With the opening of Saint Helena Airport, scheduled flights have been operated since 14 October 2017. The new airport is served weekly from Johannesburg (South Africa) via Windhoek (Namibia).
+With the opening of Saint Helena Airport, scheduled flights have been operated since 14 October 2017. The new airport is served weekly from Johannesburg (South Africa) via Windhoek (Namibia).
 
 Rail traffic
 
-Jamestown_Jacobs_Ladder.jpg In 1829, the Saint Helena Railway Company opened a horse-drawn railway from Jamestown to Half Tree Hollow.[8], which was also known as Ladder Hill Railway. The main purpose was to transport goods from the port of Jamestown to the higher houses. The service was discontinued in 1871.[9]
+In 1829, the Saint Helena Railway Company opened a horse-drawn railway from Jamestown to Half Tree Hollow.[8], which was also known as Ladder Hill Railway. The main purpose was to transport goods from the port of Jamestown to the higher houses. The service was discontinued in 1871.[9]
 
 Another rail network was built for the seawater desalination plant in Rupert's Valley. Details of the track are not known.[10]
 
@@ -39,7 +39,7 @@ Ascension has a feeder in the island's capital Georgetown. The port was moderniz
 
 Air traffic
 
-Ascension_Island,_Wideawake_Airfield_(1).JPG With Wideawake Airfield, Ascension has had an airport since 1943. This will be used primarily for military purposes, but since October 2017 it will also be served by scheduled services from Saint Helena.
+With Wideawake Airfield, Ascension has had an airport since 1943. This will be used primarily for military purposes, but since October 2017 it will also be served by scheduled services from Saint Helena.
 
 
 Tristan da Cunha
@@ -50,7 +50,7 @@ Tristan da Cunha has a road network of 20 kilometres, half of which is paved or 
 
 Shipping
 
-Edinburgh_of_the_Seven_Seas_02.jpg The shipping traffic is of outstanding importance for Tristan da Cunha, which has no airfield. All goods and travellers can only reach the island by sea. Tristan da Cunha is approached irregularly from Cape Town by MFV Geo Searcher, MFV Edinburgh, M/V Baltic Trader, S. A. Agulhas II.[16]
+The shipping traffic is of outstanding importance for Tristan da Cunha, which has no airfield. All goods and travellers can only reach the island by sea. Tristan da Cunha is approached irregularly from Cape Town by MFV Geo Searcher, MFV Edinburgh, M/V Baltic Trader, S. A. Agulhas II.[16]
 
 Tristan da Cunha has with the Calshot Harbour[17] a port in Edinburgh of the Seven Seas. The port was comprehensively renovated at the beginning of 2017.
 

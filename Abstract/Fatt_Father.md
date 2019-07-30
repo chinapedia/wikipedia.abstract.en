@@ -1,1 +1,0 @@
-SHABAZZ FORD (born February 17, 1980), better known by his stage name FATT FATHER, is an American rapper from Detroit, Michigan.[1] He is a one fourth part of the Fat Killahz[2] (with Marv Won, Bang Belushi and King Gordy) and one half of Twin Towers[3][4] (with Marv Won).

@@ -1,1 +1,0 @@
-ELIHU YALE (5 April 1649 – 8 July 1721) was a British merchant, slave trader, President of the East India Company settlement in Fort St. George, at Madras, and a benefactor of the Collegiate School in the Colony of Connecticut, which in 1718 was renamed Yale College in his honour.[1]

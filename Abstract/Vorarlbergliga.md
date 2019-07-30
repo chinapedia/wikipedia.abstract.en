@@ -1,1 +1,0 @@
-The _' Vorarlbergliga_' is the highest football league of the Austrian state of Vorarlberg. It's the fourth highest football league in Austria. Exclusively limited to teams of the Vorarlberg Football Association (, VFV).

@@ -1,1 +1,0 @@
-KEVIN HORKIN MBE is a pet consultant and presenter who has appeared on a number of animal-themed television programs in the United Kingdom. He was also a Lancashire business owner and philanthropist who contested the Hyndburn Parliamentary Constituency on behalf of the Conservative Party in both the 2015 general election and the 2017 general election.

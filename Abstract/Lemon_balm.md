@@ -1,1 +1,0 @@
-LEMON BALM (_Melissa officinalis_),[1] BALM,[2] COMMON BALM,[3] or BALM MINT, is a perennial herbaceous plant in the mint family Lamiaceae and native to south-central Europe, the Mediterranean Basin, Iran, and Central Asia, but now naturalized in the Americas and elsewhere.[4]

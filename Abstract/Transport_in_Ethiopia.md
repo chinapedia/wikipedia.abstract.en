@@ -1,1 +1,0 @@
-TRANSPORT IN ETHIOPIA is overseen by the Ministry of Transport and Communications. Over the last years, the Ethiopian federal authorities have significantly increased funding for rail and road construction to build an infrastructure, that allows better economic development.

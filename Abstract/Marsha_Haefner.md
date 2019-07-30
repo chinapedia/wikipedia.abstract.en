@@ -1,1 +1,0 @@
-MARSHA HAEFNER (born July 8, 1951) is an American politician. She was a member of the Missouri House of Representatives, serving since first being elected in 2010 to January 2019. She is a member of the Republican Party.[1][2]

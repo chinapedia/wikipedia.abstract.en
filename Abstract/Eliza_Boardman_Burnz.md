@@ -1,1 +1,0 @@
-ELIZA BOARDMAN BURNZ (31 October 1823 - 19 June 1903)[1] was a nineteenth century American shorthand inventor and promoter. Her simplified alphabet, arranged in the basis of Isaac Pitman's _Phonography_, was the subject of Mark Twain's essay _A Simplified Alphabet_.

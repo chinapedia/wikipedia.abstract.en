@@ -1,1 +1,0 @@
-IN TOUCH NETWORKS is an online technology company based in Manchester, England. The company operates a networking and development platform for professionals looking to enhance their careers. Its members have access to tools needed to do this including CPD accredited training, networking events, CV writing services and executive coaching[1].

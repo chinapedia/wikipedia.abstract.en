@@ -1,1 +1,0 @@
-"THE DAY WILL COME WHEN YOU WON'T BE" is the seventh season premiere of the post-apocalyptic horror television series _The Walking Dead_, which aired on AMC on October 23, 2016. The episode was written by Scott M. Gimple and directed by Greg Nicotero.

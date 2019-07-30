@@ -1,1 +1,0 @@
-_REQIUEM_ is the third studio album by the Swedish experimental fusion band Goat, released on October 7, 2016 on Rocket Recordings. It was self-produced by the band and recorded at Parkeringshuset Studio.

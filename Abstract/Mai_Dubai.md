@@ -1,1 +1,0 @@
-MAI DUBAI is a Dubai-based company that produces bottled water. It is owned by the state-run Dubai Electricity and Water Authority (DEWA) and serves as one of DEWA’s key investments towards diversifying their revenue streams.[1] DEWA owns 99% of the shares in Mai Dubai however it remains an independently operated Limited Liability Company.[2]

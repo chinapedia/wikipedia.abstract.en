@@ -1,1 +1,0 @@
-_APAGUE LA LUZ Y ESCUCHE_ is a compilation album released by Guatemalan singer-songwriter Ricardo Arjona on through Sony Music on January 23, 2012. It contains ballads from previous studio albums released by Arjona from 1993 to 2001. The album charted at number 16 on the US _Billboard_ Top Latin Albums chart and at number one on the _Billboard_ Latin Pop Albums component chart.

@@ -1,1 +1,0 @@
-BANGLADESH FREEDOM FIGHTERS WELFARE TRUST or MUKTIJODDHA KALYAN TRUST,[1] is government owned and operated trust in Bangladesh established to look after the interest of former Mukti Bahini members and others who fought for Bangladesh in the Bangladesh Liberation war and their family members.

@@ -1,1 +1,0 @@
-SIR ROBERT LAIRD BORDEN, (June 26, 1854 – June 10, 1937) was a Canadian lawyer and politician who served as the eighth prime minister of Canada, in office from 1911 to 1920. He is best known for his leadership of Canada during World War I.

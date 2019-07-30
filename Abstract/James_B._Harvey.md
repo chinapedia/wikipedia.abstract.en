@@ -1,1 +1,0 @@
-Air Vice-Marshal JAMES B. HARVEY served as the International Commissioner of Scouts Canada. In 1974, Harvey was awarded the 86th _Bronze Wolf_, the only distinction of the World Organization of the Scout Movement, awarded by the World Scout Committee for exceptional services to world Scouting.[1]

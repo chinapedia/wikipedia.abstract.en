@@ -1,1 +1,0 @@
-Edge_Tessellation_Ex.jpg

@@ -1,1 +1,0 @@
-MATTHEW BEESLEY (born 3 April 1992) is an English rugby union player, currently playing at Northampton Saints.[1] He joined the team at the start of the 2016–17 season, after previously spending two seasons at National League 1 side Wharfedale.[2] He can play as a prop or a hooker.

@@ -1,1 +1,0 @@
-ELÇIN SANGU (born 13 August 1985)[1] is a Turkish actress and model of Circassian descent.[2] With her appearance on television ads and campaigns, she has become one of the highest paid celebrities in Turkey.[3][4][5]

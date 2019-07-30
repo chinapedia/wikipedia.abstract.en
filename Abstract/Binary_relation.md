@@ -1,1 +1,0 @@
-In mathematics, a BINARY RELATION over two sets _A_ and _B_ is a set of ordered pairs (_a_, _b_) consisting of elements _a_ of _A_ and elements _b_ of _B_. That is, it is a subset of the Cartesian product . It encodes the information of relation: an element _a_ is related to an element _b_ if and only if the pair (_a_, _b_) belongs to the set.

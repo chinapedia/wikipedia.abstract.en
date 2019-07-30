@@ -1,1 +1,0 @@
-The 1968 NCAA INDOOR TRACK AND FIELD CHAMPIONSHIPS were contested March 16, 1968, at the Cobo Arena in Detroit, Michigan at the fourth annual NCAA-sanctioned track meet to determine the individual and team national champions of men's collegiate indoor track and field events in the United States.[1]

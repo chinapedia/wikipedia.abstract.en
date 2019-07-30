@@ -1,1 +1,0 @@
-PETER S. CARMICHAEL (born February 13, 1966) is an American historian at Gettysburg College who serves as Robert C. Fluhrer Professor of Civil War Studies and Director of the Civil War Institute at Gettysburg College. His research and teaching is focused on the American Civil War, the American South, and public history.[1]

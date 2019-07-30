@@ -1,1 +1,0 @@
-ELECTRONIC DATA INTERCHANGE (EDI) is the concept of businesses electronically communicating information that was traditionally communicated on paper, such as purchase orders and invoices. Technical standards for EDI exist to facilitate parties transacting such instruments without having to make special arrangements.

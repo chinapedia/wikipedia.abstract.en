@@ -1,1 +1,0 @@
-FULHAM FOOTBALL CLUB is a professional association football club based in Fulham, London, England. They compete in the EFL Championship, the second tier of English football. Founded in 1879, they are the oldest football club from London to play in the Football League.[1]

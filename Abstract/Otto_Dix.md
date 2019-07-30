@@ -1,1 +1,0 @@
-WILHELM HEINRICH OTTO DIX (; 2 December 1891 – 25 July 1969) was a German painter and printmaker, noted for his ruthless and harshly realistic depictions of German society during the Weimar Republic and the brutality of war. Along with George Grosz, he is widely considered one of the most important artists of the _Neue Sachlichkeit_.

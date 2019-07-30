@@ -1,1 +1,0 @@
-IC MARKETS is an Australian-based online ECN retail forex and Contract for difference broker trading in financial derivatives headquartered in Sydney.[1][2] IC Markets specializes in CFDs over Forex, Indices, Commodities, Bonds, and equity markets in Asia and Europe.[3][4]

@@ -1,1 +1,0 @@
-JACKSON PAGE (born 8 August 2001 in Ebbw Vale, Blaenau Gwent) is a Welsh snooker player. He is the current European U-21 champion[1] and the former Under-18 World Snooker Champion and in 2017 also became the Under-18 European Snooker Champion.[2][3]

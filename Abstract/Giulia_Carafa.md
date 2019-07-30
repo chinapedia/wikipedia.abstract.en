@@ -1,1 +1,0 @@
-GIULIA CARAFA CANTELMO STUART, duchess di Cassano (1755-1841) was an Italian courtier. She was a supporter of the Parthenopean Republic and alongside her sister, she was known as one of the Republic's two _Madri della Patria_ ('Mothers of the Nation').

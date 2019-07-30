@@ -1,1 +1,0 @@
-The ♯P-COMPLETE problems (pronounced "sharp P complete" or "number P complete") form a complexity class in computational complexity theory. The problems in this complexity class are defined by having the following two properties:

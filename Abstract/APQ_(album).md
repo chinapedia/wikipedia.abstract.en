@@ -1,1 +1,0 @@
-_APQ_ (subtitled _THE MAIDEN VOYAGE SESSIONS, VOL. 3_) is a live album by saxophonist Art Pepper's Quartet recorded in 1981 at the Maiden Voyage nightclub in Los Angeles and released on the Galaxy label.[1][2][3]

@@ -43,8 +43,6 @@ Includes:
 -   a description of the effects of the climate on the play (natural or caused by powers)
 -   "Project Superhero", a detailed base (site, plans, personnel) for _Superworld_ and _Champions_, and rules for Danger Rooms
 
-TroubleForHAVOC.jpg
-
 _Trouble for HAVOC_
 
 (1984) Scenario / Campaign. Authors: Stephen Perrin, Yurek Chodak, Donald Harrington, Charles Huber. A linked collection of three scenarios based on the members of the criminal organization HAVOC. All the characters are presented with characteristics for use with three different systems, _Superworld_, _Champions_ and _Villains & Vigilantes_. Each may be played separately, or as part of a campaign.

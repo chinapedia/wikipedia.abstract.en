@@ -1,1 +1,0 @@
-A LATERAL is consonant in which the airstream proceeds along the sides of the tongue, but it is blocked by the tongue from going through the middle of the mouth. An example of a lateral consonant is the English _l_, as in _Larry_.

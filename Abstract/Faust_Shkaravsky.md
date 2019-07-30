@@ -1,1 +1,0 @@
-Dr. Faust Iosifovich Shkaravsky (1897–1975) was an officer and physician in the Soviet army during World War II. He was a forensic expert. He is most famous for having overseen the autopsy of Adolf Hitler's charred remains in 1945.

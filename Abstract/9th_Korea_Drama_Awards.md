@@ -1,1 +1,0 @@
-The 9TH KOREA DRAMA AWARDS () is an awards ceremony for excellence in television in South Korea. It was held at the Gyeongnam Culture and Art Center in Jinju, South Gyeongsang Province on October 7, 2016.[1][2][3] The nominees were chosen from Korean dramas that aired from October 2015 to September 2016.

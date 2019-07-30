@@ -1,1 +1,0 @@
-SAMUEL JOHN "LAMORNA" BIRCH, RA, RWS (7 June 1869 – 7 January 1955) was an English artist in oils and watercolours. At the suggestion of fellow artist Stanhope Forbes, Birch adopted the _soubriquet_ "Lamorna" to distinguish himself from Lionel Birch, an artist who was also working in the area at that time.[1]

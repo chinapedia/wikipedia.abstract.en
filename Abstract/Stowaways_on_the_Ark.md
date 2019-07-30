@@ -1,1 +1,0 @@
-_STOWAWAYS ON THE ARK_ is a 1988 German animated adventure film, released theatrically in Germany as _IN DER ARCHE IST DER WURM DRIN_ by United International Pictures on 24 March 1988. It's inspired by the story of Noah's Ark from the Book of Genesis. The film was later released in the United States and Canada.

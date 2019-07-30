@@ -1,1 +1,0 @@
-GEORGE GRAY PRENTICE (25 July 1891 – July 1944) was an architect practising in Brisbane, Australia, during the first half of the twentieth century and was involved in the design and construction of numerous major buildings in South East Queensland including the Queensland Heritage Register listed Brisbane City Hall.

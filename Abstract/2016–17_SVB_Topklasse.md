@@ -1,1 +1,0 @@
-The 2016–17 TELESUR TOPKLASSE is the 84th season of top tier Suriname football league and 1st season of the Topklasse, the highest football league competition of Suriname. The season began in November 2016, and ended in June 2017.[1] Telesur became official broadcaster and sponsor of the Topklasse before the start of this season.

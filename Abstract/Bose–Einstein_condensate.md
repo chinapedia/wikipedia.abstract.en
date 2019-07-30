@@ -1,1 +1,0 @@
-Bose-Einstein_Condensation.ogv

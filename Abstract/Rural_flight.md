@@ -1,1 +1,0 @@
-Rural_flight.jpg and urban Johnson County, Iowa, illustrating the flight of young adults (red) to urban centers in Iowa[1]]] RURAL FLIGHT (or RURAL EXODUS) is the migratory pattern of peoples from rural areas into urban areas. It is urbanization seen from the rural perspective.

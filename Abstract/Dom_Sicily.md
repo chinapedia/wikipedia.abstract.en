@@ -1,1 +1,0 @@
-DOMINIC MICHAEL MERENDINO-SARICH (born August 31, 1989), better known by his stage name DOM SICILY (formerly DEF DEE), is an American record producer, rapper, disc jockey (DJ) from Seattle, Washington. He is of Sicilian and Croatian descent.

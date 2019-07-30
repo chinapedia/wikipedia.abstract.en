@@ -1,1 +1,0 @@
-THE INSTITUTE FOR CLINICAL EVALUATIVE SCIENCES (acronym: ICES) is an independent, non-profit corporation that applies the study of health informatics for health services research and population-wide health outcomes research in Ontario, Canada using data collected through the routine administration of Ontario's system of publicly funded health care.  

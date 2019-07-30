@@ -1,1 +1,0 @@
-_MY FIRST MIRACLE_ is a 2015 American Christian dramedy film directed by Rudy Luna and starring Jason London, Sean Patrick Flanery, Quinton Aaron and Valerie Cruz.[1][2][3] Kenny Lofton served as an executive producer of the film.[4][5]

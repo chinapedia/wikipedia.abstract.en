@@ -1,1 +1,0 @@
-The FIELDS MEDAL is a prize awarded to two, three, or four mathematicians under 40 years of age at the International Congress of the International Mathematical Union (IMU), a meeting that takes place every four years.

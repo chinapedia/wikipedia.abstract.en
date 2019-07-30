@@ -1,1 +1,0 @@
-The 2017 UNIBET MASTERS was the fifth staging of the non-ranking Masters darts tournament, held by the Professional Darts Corporation (PDC). It was held from 27–29 January 2017 at the Arena MK in Milton Keynes, England.

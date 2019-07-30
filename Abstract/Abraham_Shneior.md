@@ -1,1 +1,0 @@
-ABRAHAM SHNEIOR (also "Avraham" and "Shneur", "Schneor," or "Shaneir"; אברהם שניאור; December 9, 1928 – February 24, 1998) was an Israeli Olympic basketball player.[1][2] He was born in Mandatory Palestine.[3]

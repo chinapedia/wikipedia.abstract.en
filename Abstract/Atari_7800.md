@@ -1,1 +1,0 @@
-The ATARI 7800 PROSYSTEM, or simply the ATARI 7800, is a home video game console officially released by the Atari Corporation in 1986.[1] It is almost fully backward-compatible with the Atari 2600, the first console to have backward compatibility without the use of additional modules. It was considered affordable at a price of US$140 ().

@@ -1,1 +1,0 @@
-PARIMUTUEL BETTING (from the or mutual betting) is a betting system in which all bets of a particular type are placed together in a pool; taxes and the "house-take" or "vigorish" are deducted, and payoff odds are calculated by sharing the pool among all winning bets. In some countries it is known as the TOTE after the totalisator, which calculates and displays bets already made.

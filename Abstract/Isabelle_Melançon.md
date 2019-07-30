@@ -1,1 +1,0 @@
-ISABELLE MELANÇON is a Canadian politician, who was elected to the National Assembly of Quebec in a by-election on December 5, 2016.[1] She represents the electoral district of Verdun as a member of the Quebec Liberal Party caucus.

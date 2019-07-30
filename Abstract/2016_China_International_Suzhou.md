@@ -1,1 +1,0 @@
-The 2016 CHINA INTERNATIONAL SUZHOU is a professional tennis tournament played on hard courts. It is the second edition of the tournament, which is part of the 2016 ATP Challenger Tour. It takes place in Suzhou, China from October 24 to October 30, 2016.

@@ -1,1 +1,0 @@
-JOHN JOSEPH BURKE SR. (March 28, 1888 – February 2, 1943)[1][2] was an American professional golfer. He finished in a tie for second place in the 1913 Canadian Open and also in the 1920 U.S. Open. He was the father of Jack Burke Jr.

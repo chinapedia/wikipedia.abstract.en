@@ -31,7 +31,7 @@ With integration into single market are tightly connected political debates abou
 
 List of common markets
 
-MERCOSUR_(orthographic_projection).svg.]]
+.]]
 
 -   European Single Market (European Economic Area – Switzerland)[8]
 -   ASEAN Economic Community (AEC)

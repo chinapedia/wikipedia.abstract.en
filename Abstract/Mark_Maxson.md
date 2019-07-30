@@ -1,1 +1,0 @@
-MARK MAXSON is a formerly imprisoned convict, who was falsely accused and convicted of the murder of Lindsay Murdock a six-year-old boy and later exonerated by DNA evidence. Following the murder in August 1993, Maxson spent over two decades in prison before being released in September 2016.

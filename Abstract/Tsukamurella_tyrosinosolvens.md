@@ -1,1 +1,0 @@
-_TSUKAMURELLA TYROSINOSOLVENS_ is a Gram-positive and aerobic bacterium from the genus of Tsukamurella.[1][2][3] _Tsukamurella tyrosinosolvens_ bacteria can cause in rare cases infections in humans.[4][5]

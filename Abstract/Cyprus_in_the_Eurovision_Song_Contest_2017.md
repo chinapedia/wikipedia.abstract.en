@@ -1,1 +1,0 @@
-CYPRUS participated in the EUROVISION SONG CONTEST 2017 with the song "Gravity" written by Thomas G:Son. The song will be performed by Hovig, who was selected by the Cypriot broadcaster Cyprus Broadcasting Corporation (CyBC) in October 2016 to represent Cyprus at the 2017 contest in Kiev, Ukraine. The Cypriot song, "Gravity", was presented to the public on 1 March 2017.

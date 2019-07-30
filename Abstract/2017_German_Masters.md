@@ -1,1 +1,0 @@
-The 2017 F66.COM GERMAN MASTERS professional ranking snooker tournament took place between 1–5 February 2017 at the Tempodrom in Berlin, Germany. It was the twelfth ranking event of the 2016/2017 season.

@@ -1,1 +1,0 @@
-_FOX HUNT_ is an interactive movie video game developed by 3Vision Gamers and published by Capcom for Microsoft Windows and PlayStation. It is an interactive movie title with live action visuals in the vein of a spy film.

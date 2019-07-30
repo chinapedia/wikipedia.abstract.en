@@ -1,1 +1,0 @@
-70_Barnes_High_Street,_March_2014_02.jpg

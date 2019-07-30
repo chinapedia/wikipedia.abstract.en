@@ -1,1 +1,0 @@
-The PORSCHE 944 is a sports car manufactured by German automobile manufacturer Porsche from 1982 to 1991. A front-engine, rear-wheel drive mid-level model based on the 924 platform, the 944 was available in coupé or cabriolet body styles, with either naturally aspirated or turbocharged engines.

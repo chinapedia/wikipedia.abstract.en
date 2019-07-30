@@ -1,1 +1,0 @@
-The individual eventing in equestrian at the 1948 Olympic Games in London was held in the town of Aldershot and at the Tweseldown Racecourse from 10 to 13 August.[1] Bernard Chevallier of France won the gold medal. Frank Henry, from the United States, won silver and Robert Selfelt, from Sweden, took bronze.

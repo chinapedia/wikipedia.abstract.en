@@ -1,1 +1,0 @@
-The IRISH CIVIL WAR (; 28 June 1922 – 24 May 1923)[1] was a conflict that followed the Irish War of Independence and accompanied the establishment of the Irish Free State, an entity independent from the United Kingdom but within the British Empire.

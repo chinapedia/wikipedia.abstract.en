@@ -1,1 +1,0 @@
-_WORDS ARE NOT ENOUGH_ is the fifth studio album by Australian musician, Jon English. The album was released in Australia in August 1978. Three singles were released from the album, including "Words Are Not Enough", which peaked at number 6 on the Kent Music chart, becoming English's first top ten single.

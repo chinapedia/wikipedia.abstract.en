@@ -1,1 +1,0 @@
-NEW YORK'S 4TH STATE SENATE DISTRICT is one of 63 districts in the New York State Senate. It has been represented by Republican Senator Phil Boyle since 2013, succeeding retiring Republican Senator Owen H. Johnson.

@@ -1,1 +1,0 @@
-_MOODU MULLA BANDHAM_ (English: THREE KNOT RELATION - MARRIAGE) is a 1980 Telugu drama film, produced by Rangana Aswartha Narayana and Poonathota Raghuram under the Gomatha Art Creations banner and directed by Muthyala Subbaiah. It stars Sarath Babu, Rajendra Prasad and Madhavi in the lead roles, with music composed by Satyam.[1]

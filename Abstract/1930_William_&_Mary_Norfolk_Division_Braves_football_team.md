@@ -1,1 +1,0 @@
-The 1930 WILLIAM & MARY NORFOLK DIVISION BRAVES FOOTBALL TEAM represented the Norfolk Division of the College of William and Mary, now referred to as Old Dominion University, during the 1930 college football season. They finished with a 3–1 record.

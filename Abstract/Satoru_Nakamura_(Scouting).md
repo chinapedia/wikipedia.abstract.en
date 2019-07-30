@@ -1,1 +1,0 @@
-, Scout name "Chi-yan", (ちーやん meaning?), pen name HIGASHINO MICHIYOSHI (東野通義), was a Japanese educator and Scouting leader active during the expansion period of Scouting in Japan, both before World War II and the postwar rebuilding period.[1]

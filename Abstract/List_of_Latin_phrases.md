@@ -1,1 +1,0 @@
-__NOTOC__ This page lists direct English translations of common Latin phrases, such as _veni, vidi, vici_ and _et cetera_. Some of the phrases are themselves translations of Greek phrases, as Greek rhetoric and literature were highly regarded in Ancient Rome when Latin rhetoric and literature were still maturing.

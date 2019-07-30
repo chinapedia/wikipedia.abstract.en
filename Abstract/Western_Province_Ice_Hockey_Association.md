@@ -1,1 +1,0 @@
-The WESTERN PROVINCE ICE HOCKEY ASSOCIATION, more commonly known as WP ICE HOCKEY, is a non-profit organization and member branch of South African Ice Hockey Federation in charge of governing ice hockey at all levels in Western Cape. It comprises 3 ice hockey teams, 110 players, 10 officials.

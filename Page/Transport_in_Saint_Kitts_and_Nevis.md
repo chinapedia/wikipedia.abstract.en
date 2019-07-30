@@ -47,8 +47,6 @@ A taxi can traverse any accessible area on the islands, including even dirt road
 
 Harbors and ferries
 
-Basseterre_ferry_terminal.JPG
-
 St. Kitts
 
 Basseterre is the location of all official harboring services on Saint Kitts, though Coast Guard stations exist at Sandy Point Town and Dieppe Bay Town. The Deep Water Harbour at Basseterre is capable of both hosting and berthing of cruise ships or the handling of cargos. It is located to the extreme East of Basseterre Bay.
@@ -68,7 +66,7 @@ The "Sea Bridge" ferry, which takes cars (and also pedestrians), docks in the no
 
 Airports
 
-St._Kitts_Airport_Terminal_from_side.jpg]]
+]]
 
 St. Kitts
 
@@ -81,7 +79,7 @@ The Vance W. Amory International Airport (IATA airport code NEV/TKPN) serves the
 
 Railway
 
-St._Kitts_Scenic_Railway_(3357634274).jpg]] St. Kitts has 58 km of narrow gauge railway, which centers in the capital, Basseterre, and circles the island. The railway line was originally built between 1912 and 1926 to transport sugar cane to the central sugar factory in Basseterre. The last load of sugar cane was delivered to the now-defunct factory in 2005, but since 2003 the railway has offered a circle tour of the island aboard specially designed open-air, double-decker coaches primarily for tourists.[2] The _St. Kitts Scenic Railway_ train currently runs from Sandy Point to Basseterre, traveling east.
+]] St. Kitts has 58 km of narrow gauge railway, which centers in the capital, Basseterre, and circles the island. The railway line was originally built between 1912 and 1926 to transport sugar cane to the central sugar factory in Basseterre. The last load of sugar cane was delivered to the now-defunct factory in 2005, but since 2003 the railway has offered a circle tour of the island aboard specially designed open-air, double-decker coaches primarily for tourists.[2] The _St. Kitts Scenic Railway_ train currently runs from Sandy Point to Basseterre, traveling east.
 
 
 See also

@@ -1,1 +1,0 @@
-The MONGOLS (, _Mongolchuud_, ) are a Mongolic ethnic group native to Mongolia and to China's Inner Mongolia Autonomous Region. They also live as minorities in other regions of China (e.g. Xinjiang), as well as in Russia. Mongolian people belonging to the Buryat and Kalmyk subgroups live predominantly in the Russian federal subjects of Buryatia and Kalmykia.

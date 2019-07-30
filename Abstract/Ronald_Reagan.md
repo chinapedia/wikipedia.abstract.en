@@ -1,1 +1,0 @@
-RONALD WILSON REAGAN (; February 6, 1911June 5, 2004) was an American politician and film actor who served as the 40th president of the United States from 1981 to 1989. Prior to his presidency, he was a Hollywood actor and union leader before serving as the 33rd governor of California from 1967 to 1975.

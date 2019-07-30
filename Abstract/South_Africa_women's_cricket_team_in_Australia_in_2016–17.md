@@ -1,1 +1,0 @@
-South Africa women's cricket team toured Australia in November 2016. The tour consisted of a series of five One Day Internationals, with the first three being part of the 2014–16 ICC Women's Championship.[1] Australia won the series 4–0 with the fourth match of the series ending in a tie.

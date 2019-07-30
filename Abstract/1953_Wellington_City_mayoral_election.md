@@ -1,1 +1,0 @@
-The 1953 WELLINGTON CITY MAYORAL ELECTION was part of the New Zealand local elections held that same year. In 1953, elections were held for the Mayor of Wellington plus other local government positions including fifteen city councillors. The polling was conducted using the standard first-past-the-post electoral method.

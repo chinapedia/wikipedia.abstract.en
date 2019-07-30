@@ -1,1 +1,0 @@
-The HISTORY OF PARAGUAY is a result of development and interaction of varying cultures of indigenous peoples in Paraguay and overseas immigrants who together have created the modern-day Paraguay. Paraguay celebrates Independence Day on May 15, from 1811 to now.

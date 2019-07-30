@@ -1,1 +1,0 @@
-Population_of_Lithuania_1915-2014.png This article is about the demographic features of the population of Lithuania, including population density, ethnicity, level of education, health, economic status, and religious affiliations.

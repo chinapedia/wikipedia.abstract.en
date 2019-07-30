@@ -1,1 +1,0 @@
-NORMAN R. BROKAW (April 21, 1927 – October 29, 2016) was an American talent agent. He served as the president, chief executive officer, and chairman of the William Morris Agency. He represented Marilyn Monroe, Donna Summer, Bill Cosby, Mark Spitz, Warren Beatty, Clint Eastwood, and many more.

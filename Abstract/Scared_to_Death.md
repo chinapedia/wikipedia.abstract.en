@@ -1,1 +1,0 @@
-_SCARED TO DEATH_ is a 1947 thriller Gothic film directed by Christy Cabanne and starring Bela Lugosi.[1] The picture was filmed in Cinecolor. The film is historically important as the only color film in which Bela Lugosi has a starring role.[2][3]

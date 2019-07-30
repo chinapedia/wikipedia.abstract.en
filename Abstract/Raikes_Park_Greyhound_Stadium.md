@@ -1,1 +1,0 @@
-RAIKES PARK GREYHOUND STADIUM, also known as BOLTON GREYHOUND STADIUM, was a greyhound track in Bolton, Greater Manchester in north-west England. It is not to be confused with the Westhoughton Greyhound Track, which was another track in nearby Westhoughton.

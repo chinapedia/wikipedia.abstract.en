@@ -1,1 +1,0 @@
-The "NEW NAMBU" M57 is a series of semi-automatic pistols designed by Shin-Chuō Industries, later merged with Minebea. "New Nambu" was named after Kijirō Nambu, a notable firearm designer and the founder of the predecessor of Shin-Chuō Industries.[1][2]

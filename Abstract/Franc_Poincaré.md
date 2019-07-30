@@ -1,1 +1,0 @@
-The FRANC POINCARÉ is a unit of account that was used in the international regulation of liability. It is defined as 65.5 milligrams of gold of millesimal fineness .900. Formerly it was identical to the French franc, although it has not been so since the 1920s.

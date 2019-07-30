@@ -1,1 +1,0 @@
-AULUS MANLIUS VULSO was a Roman politician in the 5th century BC, and was a member of the first college of the _decemviri_ in 451 BC. In 474 BC, he may have been elected consul with Lucius Furius Medullinus.[1] Whether or not the decemvir is the same man as the consul of 474 BC remains unknown.

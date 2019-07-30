@@ -1,1 +1,0 @@
-Tour_de_France_1910_map-fr.svg The 1910 Tour de France was the 8th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris on 3 July and Stage 9 occurred on 19 July with a flat stage from Perpignan. The race finished in Paris on 31 July.

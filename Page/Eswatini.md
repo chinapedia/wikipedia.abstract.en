@@ -21,13 +21,9 @@ The Swazi settlers, then known as _the Ngwane_ (or _bakaNgwane_) before entering
 
 Under Sobhuza I, the Ngwane people eventually established their capital at Zombodze in the heartland of present-day Eswatini. In this process, they conquered and incorporated the long-established clans of the country known to the Swazi as _Emakhandzambili_.[20]
 
-Récipient_Swazi.jpg
-
 Eswatini derives its name from a later king named Mswati II. _KaNgwane_, named for Ngwane III, is an alternative name for Eswatini the surname of whose royal house remains _Nkhosi Dlamini_. _Nkhosi_ literally means "king". Mswati II was the greatest of the fighting kings of Eswatini, and he greatly extended the area of the country to twice its current size. The _Emakhandzambili_ clans were initially incorporated into the kingdom with wide autonomy, often including grants of special ritual and political status. The extent of their autonomy, however, was drastically curtailed by Mswati, who attacked and subdued some of them in the 1850s.[21]
 
 With his power, Mswati greatly reduced the influence of the _Emakhandzambili_ while incorporating more people into his kingdom either through conquest or by giving them refuge. These later arrivals became known to the Swazis as _Emafikamuva_. The clans who accompanied the Dlamini kings were known as the _Bemdzabuko_ or _true Swazi_.
-
-Johnston,_W._and_A.K._-_South_African_Republic._Orange_Free_State,_Natal,_Basuto_Land,_Etc..jpg
 
 The autonomy of the Swazi nation was influenced by British and Dutch rule of southern Africa in the 19th and early 20th centuries. In 1881 the British government signed a convention recognising Swazi independence despite the _Scramble for Africa_ that was taking place at the time. This independence was also recognised in the London Convention of 1884.
 
@@ -64,7 +60,7 @@ Eswatini workers continued their anti-government protests against low salaries o
 
 Government and politics
 
-Mswati_III_King_of_Swaziland.JPG'' Mswati III has been king of Eswatini since 1986.]]
+'' Mswati III has been king of Eswatini since 1986.]]
 
 Diarchy
 
@@ -117,7 +113,7 @@ Chief Justices
 
 Military
 
-Rangers_in_Action_22-African_Land_Forces_Summit-US_Army_Africa-13_MAY_2010.jpg The Military of Eswatini (Umbutfo weSwatini Defence Force) is used primarily during domestic protests, with some border and customs duties. The military has never been involved in a foreign conflict.[60] The King is the Commander-in-Chief of the Defence Force and the substantive Minister of the Ministry of Defence.[61]
+The Military of Eswatini (Umbutfo weSwatini Defence Force) is used primarily during domestic protests, with some border and customs duties. The military has never been involved in a foreign conflict.[60] The King is the Commander-in-Chief of the Defence Force and the substantive Minister of the Ministry of Defence.[61]
 
 There are approximately 3,000 personnel in the defence force, with the army being the largest component.[62] There is a small air wing, which is mainly used for transporting the King as well as cargo and personnel, surveying land with search and rescue functions, and mobilising in case of a national emergency.[63]
 
@@ -151,15 +147,13 @@ These are the administrative regions of Eswatini. The major towns and regional c
 
 Geography
 
-Swaziland_Topography.png
-
 Eswatini lies across a fault which runs from the Drakensberg Mountains of Lesotho, north through the Eastern highlands of Zimbabwe, and forms the Great Rift Valley of Kenya.
 
 A small, landlocked kingdom, Eswatini is bordered in the North, West and South by the Republic of South Africa and by Mozambique in the East. Eswatini has a land area of 17,364 km². Eswatini has four separate geographical regions. These run from North to South and are determined by altitude. Eswatini is at approximately 26°30'S, 31°30'E.[65] Eswatini has a wide variety of landscapes, from the mountains along the Mozambican border to savannas in the east and rain forest in the northwest. Several rivers flow through the country, such as the Great Usutu River.
 
 Along the eastern border with Mozambique is the Lubombo, a mountain ridge, at an altitude of around 600 metres. The mountains are broken by the canyons of three rivers, the Ngwavuma, the Usutu and the Mbuluzi River. This is cattle ranching country. The western border of Eswatini, with an average altitude of 1200 metres, lies on the edge of an escarpment. Between the mountains rivers rush through deep gorges. Mbabane, the capital, is on the Highveld.
 
-Swaziland_landscape.jpg The Middleveld, lying at an average 700 metres above sea level is the most densely populated region of Eswatini with a lower rainfall than the mountains. Manzini, the principal commercial and industrial city, is situated in the Middleveld.
+The Middleveld, lying at an average 700 metres above sea level is the most densely populated region of Eswatini with a lower rainfall than the mountains. Manzini, the principal commercial and industrial city, is situated in the Middleveld.
 
 The Lowveld of Eswatini, at around 250 metres, is less populated than other areas and presents a typical African bush country of thorn trees and grasslands. Development of the region was inhibited, in early days, by the scourge of malaria.
 
@@ -185,7 +179,7 @@ The average temperatures at Mbabane, according to seasons:
 
 Wildlife
 
-גרויה_שעירה_-_Grewia_villosa.jpg'']]
+'']]
 
 There are known to be 507 bird species in Eswatini, including 11 globally threatened species and four introduced species, and 107 mammal species endemic to Eswatini, including the critically endangered South-central black rhinoceros and seven other endangered or vulnerable species.
 
@@ -194,21 +188,17 @@ Protected areas of Eswatini include seven nature reserves, four frontier conserv
 
 Economy
 
-Swaziland_treemap.png
-
 Eswatini's economy is diverse, with agriculture, forestry and mining accounting for about 13% of GDP, manufacturing (textiles and sugar-related processing) representing 37% of GDP and services – with government services in the lead – constituting 50% of GDP. Title Deed Lands (TDLs), where the bulk of high value crops are grown (sugar, forestry, and citrus) are characterised by high levels of investment and irrigation, and high productivity.
 
 About 75% of the population is employed in subsistence agriculture upon Swazi Nation Land (SNL). In contrast with the commercial farms, Swazi Nation Land suffers from low productivity and investment. This dual nature of the Swazi economy, with high productivity in textile manufacturing and in the industrialised agricultural TDLs on the one hand, and declining productivity subsistence agriculture (on SNL) on the other, may well explain the country's overall low growth, high inequality and unemployment.
 
 Economic growth in Eswatini has lagged behind that of its neighbours. Real GDP growth since 2001 has averaged 2.8%, nearly 2 percentage points lower than growth in other Southern African Customs Union (SACU) member countries. Low agricultural productivity in the SNLs, repeated droughts, the devastating effect of HIV/AIDS and an overly large and inefficient government sector are likely contributing factors. Eswatini's public finances deteriorated in the late 1990s following sizeable surpluses a decade earlier. A combination of declining revenues and increased spending led to significant budget deficits.
 
-Central_bank_swazi.jpg
-
 The considerable spending did not lead to more growth and did not benefit the poor. Much of the increased spending has gone to current expenditures related to wages, transfers, and subsidies. The wage bill today constitutes over 15% of GDP and 55% of total public spending; these are some of the highest levels on the African continent. The recent rapid growth in SACU revenues has, however, reversed the fiscal situation, and a sizeable surplus was recorded since 2006. SACU revenues today account for over 60% of total government revenues. On the positive side, the external debt burden has declined markedly over the last 20 years, and domestic debt is almost negligible; external debt as a percent of GDP was less than 20% in 2006.
 
 Eswatini's economy is very closely linked to the economy of South Africa, from which it receives over 90% of its imports and to which it sends about 70% of its exports. Eswatini's other key trading partners are the United States and the EU, from whom the country has received trade preferences for apparel exports (under the African Growth and Opportunity Act – AGOA – to the US) and for sugar (to the EU). Under these agreements, both apparel and sugar exports did well, with rapid growth and a strong inflow of foreign direct investment. Textile exports grew by over 200% between 2000 and 2005 and sugar exports increasing by more than 50% over the same period.
 
-Southern_African_Customs_Union.svg (green).]]
+(green).]]
 
 The continued vibrancy of the export sector is threatened by the removal of trade preferences for textiles, the accession to similar preferences for East Asian countries, and the phasing out of preferential prices for sugar to the EU market. Eswatini will thus have to face the challenge of remaining competitive in a changing global environment. A crucial factor in addressing this challenge is the investment climate.
 
@@ -220,8 +210,6 @@ Eswatini's currency, the lilangeni, is pegged to the South African rand, subsumi
 Society
 
 Demographics
-
-Swaziland-demography.png
 
 The majority of Eswatini's population is ethnically Swazi, mixed with a small number of Zulu and White Africans, mostly people of British and Afrikaner descent. Traditionally Swazi have been subsistence farmers and herders, but most now mix such activities with work in the growing urban formal economy and in government. Some Swazi work in the mines in South Africa.
 
@@ -256,7 +244,7 @@ As of 2016, Eswatini has the highest prevalence of HIV among adults aged 15 to 4
 
 Education
 
-School_Day_(3638222558).jpg Education in Eswatini begins with pre-school education for infants, primary, secondary and high school education for general education and training (GET), and universities and colleges at tertiary level. Pre-school education is usually for children 5-year or younger after that the students can enroll in a primary school anywhere in the country. In Eswatini early childhood care and education (ECCE) centres are in the form of preschools or neighbourhood care points (NCPs). In the country 21.6% of preschool age children have access to early childhood education.[77]
+Education in Eswatini begins with pre-school education for infants, primary, secondary and high school education for general education and training (GET), and universities and colleges at tertiary level. Pre-school education is usually for children 5-year or younger after that the students can enroll in a primary school anywhere in the country. In Eswatini early childhood care and education (ECCE) centres are in the form of preschools or neighbourhood care points (NCPs). In the country 21.6% of preschool age children have access to early childhood education.[77]
 
 Primary education in Eswatini begins at the age of six. It is a seven-year programme that culminates with an end of Primary school Examination [SPC] in grade 7 which is a locally based assessment administered by the Examinations Council through schools. Primary Education is from grade 1 to grade 7.[78]
 
@@ -283,7 +271,7 @@ In addition to these institutions, the kingdom also has the Swaziland Institute 
 
 Culture
 
-King_of_Swaziland.jpg at the reed dance festival where he will choose his next wife]]
+at the reed dance festival where he will choose his next wife]]
 
 The principal Swazi social unit is the homestead, a traditional beehive hut thatched with dry grass. In a polygamous homestead, each wife has her own hut and yard surrounded by reed fences. There are three structures for sleeping, cooking, and storage (brewing beer). In larger homesteads there are also structures used as bachelors' quarters and guest accommodation.
 

@@ -1,1 +1,0 @@
-_I AM SEVEN_ (stylized _I AM SE7EN_) is the third mini-album by South Korean recording artist Seven. It was released on October 14, 2016, under Eleven9 Entertainment and distributed by LOEN Entertainment. Following a hiatus lasting nearly five years, the record is his first release since his military service scandal in 2013 and departure from YG Entertainment the following year.

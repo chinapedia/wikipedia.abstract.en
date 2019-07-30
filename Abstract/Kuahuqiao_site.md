@@ -1,1 +1,0 @@
-Kuahuqiao_Site_Museum_06_2014-07.JPG

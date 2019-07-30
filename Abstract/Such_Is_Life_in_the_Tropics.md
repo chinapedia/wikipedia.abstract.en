@@ -1,1 +1,0 @@
-_SUCH IS LIFE IN THE TROPICS_ () is a 2016 Ecuadorian thriller film directed by Sebastián Cordero. It was selected as the Ecuadorian entry for the Best Foreign Language Film at the 89th Academy Awards but it was not nominated.[1][2]

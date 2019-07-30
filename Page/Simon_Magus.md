@@ -1,4 +1,4 @@
-Nucci,_Avanzino_-_Petrus'_Auseinandersetzung_mit_Simon_Magus_-_1620.jpg, 1620. Simon is on the right, dressed in black.]]
+, 1620. Simon is on the right, dressed in black.]]
 
 SIMON THE SORCERER, or SIMON THE MAGICIAN (Latin: SIMON MAGUS, Greek Σίμων ὁ μάγος), is a religious figure whose confrontation with Peter is recorded in Acts . The act of simony, or paying for position and influence in the church, is named after Simon.
 
@@ -41,8 +41,6 @@ Also, Hippolytus demonstrates acquaintance with the folk tradition on Simon whic
 
 Simonians
 
-Simonian_Aeonology.jpg
-
 Hippolytus gives a much more doctrinally detailed account of Simonianism, including a system of divine emanations and interpretations of the Old Testament, with extensive quotations from the _Apophasis Megale_. Some believe that Hippolytus' account is of a later, more developed form of Simonianism, and that the original doctrines of the group were simpler, close to the account given by Justin Martyr and Irenaeus (this account however is also included in Hippolytus' work).
 
 Hippolytus says the free love doctrine was held by them in its purest form, and speaks in language similar to that of Irenaeus about the variety of magic arts practiced by the Simonians, and also of their having images of Simon and Helen under the forms of Zeus and Athena. But he also adds, "if any one, on seeing the images either of Simon or Helen, shall call them by those names, he is cast out, as showing ignorance of the mysteries."[29]
@@ -53,7 +51,7 @@ Epiphanius writes that there were some Simonians still in existence in his day (
 
 Cyril of Jerusalem
 
-Death_of_simon_magus.jpg]]
+]]
 
 Cyril of Jerusalem (346 AD) in the sixth of his Catechetical Lectures prefaces his history of the Manichaeans by a brief account of earlier heresies: Simon Magus, he says, had given out that he was going to be translated to heaven, and was actually careening through the air in a chariot drawn by demons when Peter and Paul knelt down and prayed, and their prayers brought him to earth a mangled corpse.[31][32]
 
@@ -82,7 +80,7 @@ The encounter between both Dositheus and Simon Magus was the beginnings of the s
 
 Anti-Paulinism
 
-Disputat.jpg.]]
+.]]
 
 The Pseudo-Clementine writings were used in the 4th century by members of the Ebionite sect, one characteristic of which was hostility to Paul, whom they refused to recognize as an apostle.[43][44] Ferdinand Christian Baur (1792–1860), founder of the Tübingen School, drew attention to the anti-Pauline characteristic in the Pseudo-Clementines, and pointed out that in the disputations between Simon and Peter, some of the claims Simon is represented as making (e.g. that of having seen the Lord, though not in his lifetime, yet subsequently in vision) were really the claims of Paul; and urged that Peter's refutation of Simon was in some places intended as a polemic against Paul.[45] The enmity between Peter and Simon is clearly shown. Simon's magical powers are juxtaposed with Peter's powers in order to express Peter's authority over Simon through the power of prayer, and in the 17th _Homily,_ the identification of Paul with Simon Magus is effected. Simon is there made to maintain that he has a better knowledge of the mind of Jesus than the disciples, who had seen and conversed with Jesus in person. His reason for this strange assertion is that visions are superior to waking reality, as divine is superior to human.[46][47] Peter has much to say in reply to this, but the passage which mainly concerns us is as follows:[48]
 

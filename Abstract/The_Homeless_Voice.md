@@ -1,1 +1,0 @@
-THE HOMELESS VOICE is an American homeless advocacy center that operates out of Florida.[1] It was founded by Sean Cononie and runs a street newspaper by the same name. The center also ran a homeless shelter in Hollywood, Florida that closed in 2015.[2]

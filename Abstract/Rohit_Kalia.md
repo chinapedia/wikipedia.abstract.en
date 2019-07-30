@@ -1,1 +1,0 @@
-ROHIT KALIA is an Indian Australian actor and model who appears in English, Tamil and Telugu language films. He is also the winner of first ever Mr India Australia title held in Sydney, Australia in 2014.[1][2][3] Rohit was also selected as a Body Fit Model for Big W clothing brand at Sydney in June 2018.[4]

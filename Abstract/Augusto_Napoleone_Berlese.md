@@ -1,1 +1,0 @@
-Augusto_Napoleone_Berlese.jpg AUGUSTO NAPOLEONE BERLESE (21 October 1864, in Padua – 26 January 1903, in Milan) was an Italian botanist and mycologist. He was the brother of entomologist Antonio Berlese 1863–1927, with whom he founded the journal _Rivista di patologia vegetale_ in 1892.[1]

@@ -1,1 +1,0 @@
-The UGM-73 POSEIDON missile was the second US Navy nuclear-armed submarine-launched ballistic missile (SLBM) system, powered by a two-stage solid-fuel rocket. It succeeded the UGM-27 Polaris beginning in 1972, bringing major advances in warheads and accuracy. It was followed by Trident I in 1979, and Trident II in 1990.

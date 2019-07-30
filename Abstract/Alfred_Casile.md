@@ -1,1 +1,0 @@
-ALFRED CASILE (February 9, 1848 – June 1, 1909) was a French painter born in Marseille.[1] He is known for his landscape paintings which are typically subdued in color. He was a friend of the Impressionists Camille Pissarro, Claude Monet, and Alfred Sisley.

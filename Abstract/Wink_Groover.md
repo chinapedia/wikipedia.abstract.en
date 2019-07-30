@@ -1,1 +1,0 @@
-WINK GROOVER (September 27, 1935 – April 11, 2010) was an American Tennessee Walking Horse trainer who won the World Grand Championship in 1970 with the horse Ace's Sensation. Groover was also Trainer of the Year for 1970, and later served as a chairman for the National Horse Show Commission. Groover died in April 2010, at the age of 74.

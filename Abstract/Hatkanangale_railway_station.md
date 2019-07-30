@@ -1,1 +1,0 @@
-HATKANANGALE RAILWAY STATION is a major railway station in Kolhapur district, Maharashtra. Its code is HTK. It serves Hatkanangale city and is also the nearest railway station for the city of Ichalkaranji, 7 km away. The station consists of two platforms. The platforms are not well sheltered. It lacks many facilities including water and sanitation.[1][2][3]

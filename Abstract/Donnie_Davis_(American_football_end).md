@@ -1,1 +1,0 @@
-DONNIE RAY DAVIS (September 18, 1940 – January 19, 2004) was an American football wide receiver in the National Football League for the Dallas Cowboys and Houston Oilers. He also was a member of the Montreal Alouettes in the Canadian Football League. He played college football at Southern University.

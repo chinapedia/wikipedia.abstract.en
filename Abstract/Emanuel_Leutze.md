@@ -1,1 +1,0 @@
-EMANUEL GOTTLIEB LEUTZE (May 24, 1816July 18, 1868) was a German American history painter best known for his painting _Washington Crossing the Delaware_. He is associated with the Düsseldorf school of painting.

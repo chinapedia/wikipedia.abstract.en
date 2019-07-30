@@ -1,1 +1,0 @@
-The ALB RESERVOIR (), or ALB BASIN (_Albbecken_) is a storage reservoir in the valley of the River Alb near St. Blasien in the Southern Black Forest in south Germany. It is part of the pumped storage network of the Schluchseewerk based at Laufenburg and lies between the lake of Schluchsee and the Rhine near Waldshut. The barrier is a 28-metre-high gravity dam.

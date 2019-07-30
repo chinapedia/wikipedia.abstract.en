@@ -1,1 +1,0 @@
-WILL CRUMMER is a Cook Islands singer and entertainer who was well known in the 1960s in both Auckland, New Zealand, and the Cook Islands. He released EPs and albums during the 1960s, and along with Pepe and the Rarotongans, was a pioneering Cook Islands artist. His is also the father of singer Annie Crummer.

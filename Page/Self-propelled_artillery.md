@@ -1,4 +1,4 @@
-AS-90_self-propelled_artillery.JPGs firing in Basra, Iraq, 2006.]] PzH2000_in_Afghanistan.jpg of the German Army arriving in Afghanistan]] AlabinoTraining0904-34.jpg-S of the Russian Army]]
+s firing in Basra, Iraq, 2006.]] of the German Army arriving in Afghanistan]] -S of the Russian Army]]
 
 SELF-PROPELLED ARTILLERY (also called MOBILE ARTILLERY or LOCOMOTIVE ARTILLERY) is artillery equipped with its own propulsion system to move towards its target. Within the terminology are the self-propelled gun, self-propelled howitzer, self-propelled mortar, and rocket artillery. They are high mobility vehicles, usually based on continuous tracks carrying either a large field gun, howitzer, mortar, or some form of rocket/missile launcher. They are usually used for long-range indirect bombardment support on the battlefield.
 
@@ -15,11 +15,9 @@ History
 
 Precursors
 
-Camel_artillery_iran.JPGs were swivel guns mounted atop camels to provide swift-moving artillery during the early to mid-eighteenth century in west Asian military cultures. They saw extensive use during the Naderian Wars.]] Horse_artillery_rear.jpg in Stockholm, Sweden.]] During the Thirty Years' War, early 17th century experiments were made with early types of horse artillery. Batteries towed light field guns where most or all of the crew rode horses into battle. The gunners were trained to quickly dismount, deploy the guns and provide instant fire support to cavalry, and act as a flexible reserve. The Russian army organized small units of horse artillery that were distributed among their cavalry formations in the early 18th century. While not forming large batteries and employing only lighter 2- and 3-pound guns, they were still effective and inflicted serious losses to Prussian units in the Seven Years' War. This inspired Frederick the Great to organize the first regular horse artillery unit in 1759. Other nations quickly realized the capability of the new arm and by the start of French Revolutionary Wars in 1790s Austria, Hannover, Portugal, Russia, France, Great Britain and Sweden had all formed regular units of horse artillery. The arm was employed throughout the Napoleonic Wars and remained in use throughout the entire 19th century and into the first half of the 20th century, when advances in weapons technology finally made it obsolete.
+s were swivel guns mounted atop camels to provide swift-moving artillery during the early to mid-eighteenth century in west Asian military cultures. They saw extensive use during the Naderian Wars.]] in Stockholm, Sweden.]] During the Thirty Years' War, early 17th century experiments were made with early types of horse artillery. Batteries towed light field guns where most or all of the crew rode horses into battle. The gunners were trained to quickly dismount, deploy the guns and provide instant fire support to cavalry, and act as a flexible reserve. The Russian army organized small units of horse artillery that were distributed among their cavalry formations in the early 18th century. While not forming large batteries and employing only lighter 2- and 3-pound guns, they were still effective and inflicted serious losses to Prussian units in the Seven Years' War. This inspired Frederick the Great to organize the first regular horse artillery unit in 1759. Other nations quickly realized the capability of the new arm and by the start of French Revolutionary Wars in 1790s Austria, Hannover, Portugal, Russia, France, Great Britain and Sweden had all formed regular units of horse artillery. The arm was employed throughout the Napoleonic Wars and remained in use throughout the entire 19th century and into the first half of the 20th century, when advances in weapons technology finally made it obsolete.
 
 World War I
-
-British_Gun_Carrier_Mark_I_-_60_pdr.jpg
 
 The British Gun Carrier Mark I was the first example of a self-propelled gun, fielded in 1917 during World War I. It was based on the first tank, the British Mark I and carried a heavy field gun. The gun could either be fired from the vehicle, or removed and set up as normal. In effect, the carrier replaced the use of a separate horse team or internal combustion engine powered artillery tractor, and allowed a new way for the gun to be used.
 
@@ -29,7 +27,7 @@ The next major advance can be seen in the Birch gun developed by the British for
 
 World War II
 
-Destroyed_german_self-propelled_gun_carriage.jpg ISU-152-latrun-2.jpg At the outbreak of World War II, virtually all artillery was still being moved around by artillery tractors or horses. While the German Blitzkrieg doctrine called for combined-arms action, which required fire support for armoured units, during the invasion of Poland and France this was provided by the Luftwaffe using Stuka dive-bombers effectively acting as artillery. Conventional towed howitzers followed.
+At the outbreak of World War II, virtually all artillery was still being moved around by artillery tractors or horses. While the German Blitzkrieg doctrine called for combined-arms action, which required fire support for armoured units, during the invasion of Poland and France this was provided by the Luftwaffe using Stuka dive-bombers effectively acting as artillery. Conventional towed howitzers followed.
 
 As the war progressed, most nations developed self-propelled artillery. Some early attempts were often no more than a field gun or anti-tank gun mounted on a truck—a technique known in the British Army as carrying _portee_. These were mobile, but lacked protection for the crew. The next step was to mount the guns on a tracked chassis (often that of an obsolete or superseded tank) and provide an armoured superstructure to protect the gun and its crew. Many of the early designs were improvised and the lessons learned led to better designs later in the war. For example, the first British design, "Bishop", carried the 25 pdr gun-howitzer, but in a mounting that severely limited the gun's performance. It was replaced by the more effective Sexton.
 
@@ -46,14 +44,14 @@ After the end of World War II, the assault gun fell from use with a general tren
 
 Mortars
 
-Makmat-160.jpg).]] Many vehicles have used ancillary smoke mortars for local defense, which project one or more smoke grenades in a pattern that allows them to lay down a smoke screen some distance in order to conceal the vehicle from enemy observers. Mortar carriers are vehicles which carry a mortar as a primary weapon. Numerous vehicles have been used to mount mortars, from improvised civilian trucks used by insurgents, to modified IFV's, such as variants of the M3 half track and M113 APC, to vehicles specifically intended to carry a mortar, such as the 2S31 Vena. The Israeli Makmat is a mortar carrier based on the M4 Sherman tank chassis.
+).]] Many vehicles have used ancillary smoke mortars for local defense, which project one or more smoke grenades in a pattern that allows them to lay down a smoke screen some distance in order to conceal the vehicle from enemy observers. Mortar carriers are vehicles which carry a mortar as a primary weapon. Numerous vehicles have been used to mount mortars, from improvised civilian trucks used by insurgents, to modified IFV's, such as variants of the M3 half track and M113 APC, to vehicles specifically intended to carry a mortar, such as the 2S31 Vena. The Israeli Makmat is a mortar carrier based on the M4 Sherman tank chassis.
 
 The Russian army uses a _2S4 Tyulpan_ (Tulip) self-propelled 240 mm heavy mortar. Patria Hägglunds, a joint venture between Finnish Patria and Swedish BAE Systems Hägglunds manufactures AMOS (Advanced Mortar System), which is a 120 mm automatic twin barrelled, breech loaded mortar turret. There are also numerous AFV's and even MBT's that can be equipped with a mortar, either outside or inside of the cabin. The Israeli Merkava MBT carried a 60mm mortar in the small troop compartment in the rear, which fired through an opening in the roof, allowing the crew to remain protected. This was useful for fighting nearby infantry, as a mortar is shorter ranged and cheaper to shoot than the large main gun, as well as being better suited to wounding enemy infantry taking cover behind objects. However, since the mortar is only a secondary weapon in this case, the Merkava is not considered a mortar carrier.
 
 
 Howitzers and guns
 
-155mm_Skh_Zuzana.jpg]] Bandkanon_1.jpg]] Self-propelled artillery remains important in the equipment of many modern armies. It saw a significant role throughout the Cold War era conflicts and in the recent Gulf Wars.
+]] ]] Self-propelled artillery remains important in the equipment of many modern armies. It saw a significant role throughout the Cold War era conflicts and in the recent Gulf Wars.
 
 Modern SP artillery is highly computerized with the ability to self survey firing positions using systems such as GPS and inertial navigation systems. This, in conjunction with digital fire control/ballistic computers and digital communications, allows individual guns to disperse over a wide area and still deliver rounds on target simultaneously with the other guns in their battery.
 
@@ -66,7 +64,7 @@ One example of the increased firepower provided by modern mobile howitzers is th
 
 Rockets and missiles
 
-Army_mlrs_1982_02.jpg]]
+]]
 
 Rockets have greater ranges and carry much more complex "shells" than guns since there is less of a restriction on size (calibre). The MLRS can be used to saturate a large area with sub-munitions.
 
@@ -79,7 +77,7 @@ See also
 -   Self-propelled gun
 -   G-numbers
 
-DS1991.jpg, 2nd Armored Division (FWD) conduct artillery strikes on Iraqi positions during the 1st Gulf War. 4-3 FA was the primary fire support battalion for Task Force 1-41 Infantry during the 1st Gulf War, February 1991.]]
+, 2nd Armored Division (FWD) conduct artillery strikes on Iraqi positions during the 1st Gulf War. 4-3 FA was the primary fire support battalion for Task Force 1-41 Infantry during the 1st Gulf War, February 1991.]]
 
 
 Notes

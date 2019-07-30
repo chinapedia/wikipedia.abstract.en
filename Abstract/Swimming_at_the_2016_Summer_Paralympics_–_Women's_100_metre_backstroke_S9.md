@@ -1,1 +1,0 @@
-The WOMEN'S 100 METRE BACKSTROKE S9 event at the 2016 Paralympic Games took place on 16 September 2016, at the Olympic Aquatics Stadium. Three heats were held, with six swimmers each. The swimmers with the eight fastest times advanced to the final, which was won by Australia's Ellie Cole.

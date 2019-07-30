@@ -1,1 +1,0 @@
-ROUTE 25 is a , two-lane, uncontrolled-access, secondary highway in central Prince Edward Island. Its southern terminus is at Route 2 in Marshfield, and its northern terminus is at Gulf Shore Parkway East in Stanhope by the Sea. The route is entirely in Queens County.

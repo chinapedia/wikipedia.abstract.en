@@ -1,1 +1,0 @@
------------------------------------- Lua module implementing the {{webarchive}} template. A merger of the functionality of three templates: {{wayback}}, {{webcite}} and {{cite archives}}

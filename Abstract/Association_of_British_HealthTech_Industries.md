@@ -1,1 +1,0 @@
-The ASSOCIATION OF BRITISH HEALTHTECH INDUSTRIES, formerly the ASSOCIATION OF BRITISH HEALTHCARE INDUSTRIES is a trade association for the medical technology sector in the UK. It has about 250 member companies which together provide 80% of the medical technology used in the NHS. It has offices in London. Members include the UK operations of multinational companies.

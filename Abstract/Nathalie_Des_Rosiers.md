@@ -1,1 +1,0 @@
-NATHALIE DES ROSIERS (born 1959) is a lawyer, academic and politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was first elected in 2016. She represents the riding of Ottawa—Vanier and served in the cabinet of Kathleen Wynne.

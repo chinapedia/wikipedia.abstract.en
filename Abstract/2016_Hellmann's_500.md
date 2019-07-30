@@ -1,1 +1,0 @@
-The 2016 HELLMANN'S 500 was a NASCAR Sprint Cup Series race held on October 23, 2016, at Talladega Superspeedway in Lincoln, Alabama. Contested over 188 laps on the 2.66 mile (4.2 km) superspeedway, it was the 32nd race of the 2016 NASCAR Sprint Cup Series season, sixth race of the Chase and final race of the Round of 12.

@@ -20,7 +20,7 @@ The English pronunciation with is unetymological, and based in the value of the 
 
 Geography
 
-Sam_Rayburn_Reservoir.jpg]] Texas_Hill_Country_187N-2.JPG]]
+]] ]]
 
 Texas is the second-largest U.S. state, after Alaska, with an area of . Though 10% larger than France and almost twice as large as Germany or Japan, it ranks only 27th worldwide amongst country subdivisions by size. If it were an independent country, Texas would be the 40th largest behind Chile and Zambia.
 
@@ -30,7 +30,7 @@ With 10 climatic regions, 14 soil regions and 11 distinct ecological regions, re
 
 The Gulf Coastal Plains region wraps around the Gulf of Mexico on the southeast section of the state. Vegetation in this region consists of thick piney woods. The Interior Lowlands region consists of gently rolling to hilly forested land and is part of a larger pine-hardwood forest.
 
-Martin-Dies-Jr-State-Park.jpg]]
+]]
 
 The Great Plains region in central Texas spans through the state's panhandle and Llano Estacado to the state's hill country near Austin. This region is dominated by prairie and steppe. "Far West Texas" or the "Trans-Pecos" region is the state's Basin and Range Province. The most varied of the regions, this area includes Sand Hills, the Stockton Plateau, desert valleys, wooded mountain slopes and desert grasslands.
 
@@ -40,7 +40,7 @@ The size and unique history of Texas make its regional affiliation debatable; it
 
 Geology
 
-Palo_Duro_landscape_IMG_0101.JPG]] Summitanthonysnose1b.jpg]] Big_Bend_National_Park_PB112599.jpg]]
+]] ]] ]]
 
 Texas is the southernmost part of the Great Plains, which ends in the south against the folded Sierra Madre Occidental of Mexico. The continental crust forms a stable Mesoproterozoic craton which changes across a broad continental margin and transitional crust into true oceanic crust of the Gulf of Mexico. The oldest rocks in Texas date from the Mesoproterozoic and are about 1,600 million years old.
 
@@ -63,7 +63,7 @@ During the spring Texas wildflowers such as the state flower, the bluebonnet, li
 
 Climate
 
-Texas_Köppen.svg The large size of Texas and its location at the intersection of multiple climate zones gives the state highly variable weather. The Panhandle of the state has colder winters than North Texas, while the Gulf Coast has mild winters. Texas has wide variations in precipitation patterns. El Paso, on the western end of the state, averages of annual rainfall,[33] while parts of southeast Texas average as much as per year.[34] Dallas in the North Central region averages a more moderate per year.
+The large size of Texas and its location at the intersection of multiple climate zones gives the state highly variable weather. The Panhandle of the state has colder winters than North Texas, while the Gulf Coast has mild winters. Texas has wide variations in precipitation patterns. El Paso, on the western end of the state, averages of annual rainfall,[33] while parts of southeast Texas average as much as per year.[34] Dallas in the North Central region averages a more moderate per year.
 
 Snow falls multiple times each winter in the Panhandle and mountainous areas of West Texas, once or twice a year in North Texas, and once every few years in Central and East Texas. Snow falls south of San Antonio or on the coast in rare circumstances only. Of note is the 2004 Christmas Eve snowstorm, when of snow fell as far south as Kingsville, where the average high temperature in December is 65 °F.[35]
 
@@ -123,7 +123,7 @@ By the 1830s, the U.S. had drafted the Indian Removal Act, which was used to fac
 
 Colonization
 
-Six_Flags_over_Texas.jpg that have had sovereignty over some or all of the current territory of Texas]]
+that have had sovereignty over some or all of the current territory of Texas]]
 
 The first historical document related to Texas was a map of the Gulf Coast, created in 1519 by Spanish explorer Alonso Álvarez de Pineda.[64] Nine years later, shipwrecked Spanish explorer Álvar Núñez Cabeza de Vaca and his cohort became the first Europeans in what is now Texas.[65][66] Cabeza de Vaca reported that in 1528, when the Spanish landed in the area, "half the natives died from a disease of the bowels and blamed us."[67] Cabeza de Vaca also made observations about the way of life of the Ignaces Natives of Texas:
 
@@ -131,15 +131,13 @@ Francisco Vázquez de Coronado describes his 1541 encounter with:
 
 European powers ignored the area until accidentally settling there in 1685. Miscalculations by René-Robert Cavelier de La Salle resulted in his establishing the colony of Fort Saint Louis at Matagorda Bay rather than along the Mississippi River. The colony lasted only four years before succumbing to harsh conditions and hostile natives.
 
-Map_of_Texas_1718.jpg. Approximate state area highlighted, northern areas indefinite.]]
+. Approximate state area highlighted, northern areas indefinite.]]
 
 In 1690 Spanish authorities, concerned that France posed competitive threat, constructed several missions in East Texas. After Native American resistance, the Spanish missionaries returned to Mexico. When France began settling Louisiana, mostly in the southern part of the state, in 1716 Spanish authorities responded by founding a new series of missions in East Texas.[68] Two years later, they created San Antonio as the first Spanish civilian settlement in the area.
 
-LaFora_1771_2.jpg
-
 Hostile native tribes and distance from nearby Spanish colonies discouraged settlers from moving to the area. It was one of New Spain's least populated provinces. In 1749, the Spanish peace treaty with the Lipan Apache angered many tribes, including the Comanche, Tonkawa, and Hasinai. The Comanche signed a treaty with Spain in 1785 and later helped to defeat the Lipan Apache and Karankawa tribes.[69] With more numerous missions being established, priests led a peaceful conversion of most tribes. By the end of the 18th century only a few nomadic tribes had not converted to Christianity.
 
-Stephen_f_austin.jpg was the first American _empresario_ given permission to operate a colony within Mexican Texas.]] Mexico_1824_(equirectangular_projection).png is the northeastern-most state.]]
+was the first American _empresario_ given permission to operate a colony within Mexican Texas.]] is the northeastern-most state.]]
 
 When the United States purchased Louisiana from France in 1803, American authorities insisted the agreement also included Texas. The boundary between New Spain and the United States was finally set at the Sabine River in 1819, at what is now the border between Texas and Louisiana. Eager for new land, many United States settlers refused to recognize the agreement. Several filibusters raised armies to invade the area west of the Sabine River. In 1821, the Mexican War of Independence included the Texas territory, which became part of Mexico. Due to its low population, Mexico made the area part of the state of Coahuila y Tejas.
 
@@ -155,11 +153,11 @@ Republic
 
 Within Mexico, tensions continued between federalists and centralists. In early 1835, wary Texians formed Committees of Correspondence and Safety.[72] The unrest erupted into armed conflict in late 1835 at the Battle of Gonzales. This launched the Texas Revolution, and over the next two months, the Texians defeated all Mexican troops in the region.[73] Texians elected delegates to the Consultation, which created a provisional government. The provisional government soon collapsed from infighting, and Texas was without clear governance for the first two months of 1836.[74]
 
-SantaAnnaSurrender.jpg, Austin)]]
+, Austin)]]
 
 During this time of political turmoil, Mexican President Antonio López de Santa Anna personally led an army to end the revolt. The Mexican expedition was initially successful. General José de Urrea defeated all the Texian resistance along the coast culminating in the Goliad massacre.[75] Santa Anna's forces, after a thirteen-day siege, overwhelmed Texian defenders at the Battle of the Alamo. News of the defeats sparked panic among Texas settlers.
 
-Wpdms_republic_of_texas.svg]]
+]]
 
 The newly elected Texian delegates to the Convention of 1836 quickly signed a Declaration of Independence on March 2, forming the Republic of Texas. After electing interim officers, the Convention disbanded.[76] The new government joined the other settlers in Texas in the Runaway Scrape, fleeing from the approaching Mexican army. After several weeks of retreat, the Texian Army commanded by Sam Houston attacked and defeated Santa Anna's forces at the Battle of San Jacinto. Santa Anna was captured and forced to sign the Treaties of Velasco, ending the war.
 
@@ -175,8 +173,6 @@ The population of the new state was quite small at first and there was a strong 
 
 After Texas's annexation, Mexico broke diplomatic relations with the United States. While the United States claimed Texas's border stretched to the Rio Grande, Mexico claimed it was the Nueces River. While the former Republic of Texas could not enforce its border claims, the United States had the military strength and the political will to do so. President Polk ordered General Zachary Taylor south to the Rio Grande on January 13, 1846. A few months later Mexican troops routed an American cavalry patrol in the disputed area in the Thornton Affair starting the Mexican–American War. The first battles of the war were fought in Texas: the Siege of Fort Texas, Battle of Palo Alto and Battle of Resaca de la Palma. After these decisive victories, the United States invaded Mexican territory ending the fighting in Texas.[82]
 
-Texas_proposed_boundaries.svg
-
 After a series of United States victories, the Treaty of Guadalupe Hidalgo ended the two-year war. In return, for US$18,250,000, Mexico gave the U.S. undisputed control of Texas, ceded the Mexican Cession in 1848, most of which today is called the American Southwest, and Texas's borders were established at the Rio Grande.[83]
 
 The Compromise of 1850 set Texas's boundaries at their present form. U.S. Senator James Pearce of Maryland drafted the final proposal[84] where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt.[85] Post-war Texas grew rapidly as migrants poured into the cotton lands of the state.[86]
@@ -185,7 +181,7 @@ They also brought or purchased enslaved African Americans, whose numbers tripled
 
 Civil War and Reconstruction (1860–1900)
 
-Glory_to_the_defeated_-_dignified_resignation.jpg]]
+]]
 
 Texas was at war again after the election of 1860. At this time, blacks comprised 30 percent of the state's population, and they were overwhelmingly enslaved.[88] When Abraham Lincoln was elected, South Carolina seceded from the Union. Five other Lower South states quickly followed. A State Convention considering secession opened in Austin on January 28, 1861. On February 1, by a vote of 166–8, the Convention adopted an Ordinance of Secession from the United States. Texas voters approved this Ordinance on February 23, 1861. Texas joined the newly created Confederate States of America on March 4, 1861 ratifying the permanent C.S. Constitution on March 23.[89][90]
 
@@ -200,8 +196,6 @@ Like most of the South, the Texas economy was devastated by the War. However, si
 The cattle industry continued to thrive though it gradually became less profitable. Cotton and lumber became major industries creating new economic booms in various regions of the state. Railroad networks grew rapidly as did the port at Galveston as commerce between Texas and the rest of the U.S. (and the rest of the world) expanded. As with some other states before, the lumber industry quickly decimated the forests of Texas such that by the early 20th century the majority of the forest population in Texas was gone (later conservation efforts restored some of it, but never to the level it once was).
 
 Earlier 20th century
-
-Lucas_gusher.jpg
 
 In 1900, Texas suffered the deadliest natural disaster in U.S. history during the Galveston hurricane.[101] On January 10, 1901, the first major oil well in Texas, Spindletop, was found south of Beaumont. Other fields were later discovered nearby in East Texas, West Texas, and under the Gulf of Mexico. The resulting "oil boom" transformed Texas.[102] Oil production eventually averaged three million barrels per day at its peak in 1972.[103]
 
@@ -228,7 +222,7 @@ The current Texas Constitution was adopted in 1876. Like many states, it explici
 
 State government
 
-Texas_State_Capitol_Night.jpg at night]] Texas has a plural executive branch system limiting the power of the governor, which is a weak executive compared to some other states. Except for the Secretary of State, voters elect executive officers independently; thus candidates are directly answerable to the public, not the governor.[121] This election system has led to some executive branches split between parties and reduced the ability of the governor to carry out a program. When Republican President George W. Bush served as Texas's governor, the state had a Democratic lieutenant governor, Bob Bullock. The executive branch positions consist of the Governor, Lieutenant Governor, Comptroller of Public Accounts, Land Commissioner, Attorney General, Agriculture Commissioner, the three-member Texas Railroad Commission, the State Board of Education, and the Secretary of State.[122]
+at night]] Texas has a plural executive branch system limiting the power of the governor, which is a weak executive compared to some other states. Except for the Secretary of State, voters elect executive officers independently; thus candidates are directly answerable to the public, not the governor.[121] This election system has led to some executive branches split between parties and reduced the ability of the governor to carry out a program. When Republican President George W. Bush served as Texas's governor, the state had a Democratic lieutenant governor, Bob Bullock. The executive branch positions consist of the Governor, Lieutenant Governor, Comptroller of Public Accounts, Land Commissioner, Attorney General, Agriculture Commissioner, the three-member Texas Railroad Commission, the State Board of Education, and the Secretary of State.[122]
 
 The bicameral Texas Legislature consists of the House of Representatives, with 150 members, and a Senate, with 31 members. The Speaker of the House leads the House, and the lieutenant governor, the Senate.[123] The Legislature meets in regular session biennially for just over 100 days, but the governor can call for special sessions as often as desired (notably, the Legislature cannot call itself into session).[124] The state's fiscal year spans from the previous calendar year's September 1 to the current year's August 31. Thus, the FY 2015 dates from September 1, 2014 through August 31, 2015.
 
@@ -242,7 +236,7 @@ Politics
 
 Political history
 
-Lbj2.jpg, Texan and 36th president of the United States]]
+, Texan and 36th president of the United States]]
 
 In the 1870s, white Democrats wrested power back in the state legislature from the biracial coalition at the end of Reconstruction. In the early 20th century, the legislature passed bills to impose poll taxes, followed by white primaries; these measures effectively disfranchised most blacks, poor whites and Mexican Americans.[127][128] In the 1890s, 100,000 blacks voted in the state; by 1906, only 5,000 could vote.[129] As a result, the Democratic Party dominated Texas politics from the turn of the century, imposing racial segregation and white supremacy. It held power until after passage in the mid-1960s of national civil rights legislation enforcing constitutional rights of all citizens.
 
@@ -287,9 +281,7 @@ Texas has a reputation of very harsh criminal punishment for criminal offenses. 
 
 Economy
 
-NASA_Neutral_Buoyancy_Laboratory_Astronaut_Training.jpg in Houston]] As of 2018, Texas had a gross state product (GSP) of $1.8 trillion, the second highest in the U.S.[158] Its GSP is greater than the GDPs of Canada, Russia, South Korea and Spain, which are the world's 10th-, 11th-, 12th- and 13th-largest economies, respectively.[159] Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kantō region. Its per capita personal income in 2009 was $36,484, ranking 29th in the nation.[160]
-
-Geo_Map_of_Income_by_Location_in_Texas_(2014).png
+in Houston]] As of 2018, Texas had a gross state product (GSP) of $1.8 trillion, the second highest in the U.S.[158] Its GSP is greater than the GDPs of Canada, Russia, South Korea and Spain, which are the world's 10th-, 11th-, 12th- and 13th-largest economies, respectively.[159] Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kantō region. Its per capita personal income in 2009 was $36,484, ranking 29th in the nation.[160]
 
 Texas's large population, abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. Since oil was discovered, the state's economy has reflected the state of the petroleum industry. In recent times, urban centers of the state have increased in size, containing two-thirds of the population in 2005. The state's economic growth has led to urban sprawl and its associated symptoms.[161]
 
@@ -309,7 +301,7 @@ Texas is a "tax donor state"; in 2005, for every dollar Texans paid to the feder
 
 Agriculture and mining
 
-West_Texas_Cotton.jpg Oil_well.jpg GreenMountainWindFarm_Fluvanna_2004.jpg in the plains of West Texas]] GodPod.jpg headquarters in Plano]]
+in the plains of West Texas]] headquarters in Plano]]
 
 Texas has the most farms and the highest acreage in the United States. The state is ranked for revenue generated from total livestock and livestock products. It is ranked for total agricultural revenue, behind California.[178] At $7.4 billion or 56.7 percent of Texas's annual agricultural cash receipts, beef cattle production represents the largest single segment of Texas agriculture. This is followed by cotton at $1.9 billion (14.6 percent), greenhouse/nursery at $1.5 billion (11.4 percent), broilers at $1.3 billion (10 percent), and dairy products at $947 million (7.3 percent).[179]
 
@@ -346,7 +338,7 @@ Mexico, the state's largest trading partner, imports a third of the state's expo
 
 Demographics
 
-Texas_population_map.png The United States Census Bureau estimates the population of Texas was 28,701,845 on July 1, 2018, a 14.14 percent increase since the 2010 United States Census.[208]
+The United States Census Bureau estimates the population of Texas was 28,701,845 on July 1, 2018, a 14.14 percent increase since the 2010 United States Census.[208]
 
 As of 2004, the state had 3.5 million foreign-born residents (15.6 percent of the state population), of which an estimated 1.2 million are illegal immigrants. Texas from 2000 to 2006 had the fastest growing illegal immigration rate in the nation.[209] In 2010, illegal immigrants constituted an estimated 6.0 percent of the population. This was the fifth highest percentage of any state in the country.[210] [211] In 2015, the population of illegal immigrants living in Texas was around 800,000.[212]
 
@@ -397,19 +389,19 @@ As of 2011, 69.8% of the population of Texas younger than age 1 were minorities 
 
 : TEXAS RACIAL BREAKDOWN OF POPULATION
 
-Comanche_Osage_fight.jpg (right) trying to lance Osage warrior. Painting by George Catlin, 1834]] German, Irish, and English Americans are the three largest European ancestry groups in Texas. German Americans make up 11.3 percent of the population, and number over 2.7 million members. Irish Americans make up 8.2 percent of the population, and number over 1.9 million members. There are roughly 600,000 French Americans and 472,000 Italian Americans residing in Texas; these two ethnic groups make up 2.5 percent and 2.0 percent of the population respectively. In the 1980 United States Census the largest ancestry group reported in Texas was English with 3,083,323 Texans citing they were of English or mostly English ancestry making them 27 percent of the state at the time.[225] Their ancestry primarily goes back to the original thirteen colonies (the census of 1790 gives 48% of the population of English ancestry; together 12% Scots and Scots-Irish; 4.5% Irish South 90% were Protestant and 3% Welsh = 67.5% British; 13% were German, Swiss, Dutch and French Huguenots; 19% African-American, Colin Bonwick, The American Revolution, 1991, p. 254) and thus many of them today identify as "American" in ancestry, though they are of predominantly British stock.[226][227] There are nearly 200,000 Czech-Americans living in Texas, the largest number of any state.[228]
+(right) trying to lance Osage warrior. Painting by George Catlin, 1834]] German, Irish, and English Americans are the three largest European ancestry groups in Texas. German Americans make up 11.3 percent of the population, and number over 2.7 million members. Irish Americans make up 8.2 percent of the population, and number over 1.9 million members. There are roughly 600,000 French Americans and 472,000 Italian Americans residing in Texas; these two ethnic groups make up 2.5 percent and 2.0 percent of the population respectively. In the 1980 United States Census the largest ancestry group reported in Texas was English with 3,083,323 Texans citing they were of English or mostly English ancestry making them 27 percent of the state at the time.[225] Their ancestry primarily goes back to the original thirteen colonies (the census of 1790 gives 48% of the population of English ancestry; together 12% Scots and Scots-Irish; 4.5% Irish South 90% were Protestant and 3% Welsh = 67.5% British; 13% were German, Swiss, Dutch and French Huguenots; 19% African-American, Colin Bonwick, The American Revolution, 1991, p. 254) and thus many of them today identify as "American" in ancestry, though they are of predominantly British stock.[226][227] There are nearly 200,000 Czech-Americans living in Texas, the largest number of any state.[228]
 
 African Americans are the largest racial minority in Texas. Their proportion of population has declined since the early 20th century, after many left the state in the Great Migration. Blacks of both Hispanic and non-Hispanic origin make up 11.5 percent of the population; blacks of non-Hispanic origin form 11.3 percent of the populace. African Americans of both Hispanic and non-Hispanic origin number at roughly 2.7 million individuals.
 
 Native Americans are a smaller minority in the state. Native Americans make up 0.5 percent of Texas's population, and number over 118,000 individuals. Native Americans of non-Hispanic origin make up 0.3 percent of the population, and number over 75,000 individuals. Cherokee made up 0.1 percent of the population, and numbered over 19,400 members. In contrast, only 583 identified as Chippewa.
 
-Emory-El_Paso.jpg, founded by Spanish settlers in 1659]] Asian Americans are a sizable minority group in Texas. Americans of Asian descent form 3.8 percent of the population, with those of non-Hispanic descent making up 3.7 percent of the populace. They total more than 808,000 individuals. Non-Hispanic Asians number over 795,000. Just over 200,000 Indian Americans make Texas their home. Texas is also home to over 187,000 Vietnamese and 136,000 Chinese. In addition to 92,000 Filipinos and 62,000 Koreans, there are 18,000 Japanese Americans living in the state. Lastly, over 111,000 people are of other Asian ancestry groups, such as Cambodian, Thai, and Hmong. Sugar Land, a city within the Houston metropolitan area, and Plano, within the Dallas metropolitan area, both have high concentrations of ethnic Chinese and Korean residents. The Houston and Dallas areas, and to a lesser extent, the Austin metropolitan area, all contain substantial Vietnamese communities.
+, founded by Spanish settlers in 1659]] Asian Americans are a sizable minority group in Texas. Americans of Asian descent form 3.8 percent of the population, with those of non-Hispanic descent making up 3.7 percent of the populace. They total more than 808,000 individuals. Non-Hispanic Asians number over 795,000. Just over 200,000 Indian Americans make Texas their home. Texas is also home to over 187,000 Vietnamese and 136,000 Chinese. In addition to 92,000 Filipinos and 62,000 Koreans, there are 18,000 Japanese Americans living in the state. Lastly, over 111,000 people are of other Asian ancestry groups, such as Cambodian, Thai, and Hmong. Sugar Land, a city within the Houston metropolitan area, and Plano, within the Dallas metropolitan area, both have high concentrations of ethnic Chinese and Korean residents. The Houston and Dallas areas, and to a lesser extent, the Austin metropolitan area, all contain substantial Vietnamese communities.
 
 Americans with origins from the Pacific are the smallest minority in Texas. According to the survey, only 18,000 Texans are Pacific Islanders; 16,400 are of non-Hispanic descent. There are roughly 5,400 Native Hawaiians, 5,300 Guamanians, and 6,400 people from other groups. Samoan Americans were scant; only 2,920 people were from this group. The city of Euless, a suburb of Fort Worth, contains a sizable population of Tongan Americans, at nearly 900 people, over one percent of the city's population. Killeen has a sufficient population of Samoans and Guamanian, and people of Pacific Islander descent surpass one percent of the city's population.
 
 Multiracial individuals are also a visible minority in Texas. People identifying as multiracial form 1.9 percent of the population, and number over 448,000 people. Almost 80,000 Texans claim African and European heritage, and make up 0.3 percent of the population. People of European and American Indian ancestry number over 108,800 (close to the number of Native Americans), and make up 0.5 percent of the population. People of European and Asian ancestry number over 57,600, and form just 0.2 percent of the population. People of African and Native American ancestry were even smaller in number (15,300), and make up just 0.1 percent of the total population.
 
-Bundesarchiv_Bild_137-005007,_Zeichnung,_Deutscher_Einwandererzug_in_Texas.jpg]] Hispanics and Latinos are the second-largest group in Texas after non-Hispanic European Americans. Over 8.5 million people claim Hispanic or Latino ethnicity. This group forms over 37 percent of Texas's population. People of Mexican descent alone number over 7.9 million, and make up 31.6 percent of the population. The vast majority of the Hispanic/Latino population in the state is of Mexican descent, the next two largest groups are Salvadorans and Puerto Ricans. There are over 222,000 Salvadorans and over 130,000 Puerto Ricans in Texas. Other groups with large numbers in Texas include Hondurans, Guatemalans, Nicaraguans and Cubans, among others.[229][230] The Hispanics in Texas are more likely than in some other states (such as California) to identify as white; according to the 2010 U.S. Census, Texas is home to 6,304,207 White Hispanics and 2,594,206 Hispanics of "some other race" (usually mestizo). Praha_texas.jpeg, "Czech Capital of Texas".]]
+]] Hispanics and Latinos are the second-largest group in Texas after non-Hispanic European Americans. Over 8.5 million people claim Hispanic or Latino ethnicity. This group forms over 37 percent of Texas's population. People of Mexican descent alone number over 7.9 million, and make up 31.6 percent of the population. The vast majority of the Hispanic/Latino population in the state is of Mexican descent, the next two largest groups are Salvadorans and Puerto Ricans. There are over 222,000 Salvadorans and over 130,000 Puerto Ricans in Texas. Other groups with large numbers in Texas include Hondurans, Guatemalans, Nicaraguans and Cubans, among others.[229][230] The Hispanics in Texas are more likely than in some other states (such as California) to identify as white; according to the 2010 U.S. Census, Texas is home to 6,304,207 White Hispanics and 2,594,206 Hispanics of "some other race" (usually mestizo). , "Czech Capital of Texas".]]
 
 German descendants inhabit much of central and southeast-central Texas. Over one-third of Texas residents are of Hispanic origin; while many have recently arrived, some Tejanos have ancestors with multi-generational ties to 18th century Texas. In addition to the descendants of the state's former slave population, many African American college graduates have come to the state for work recently in the New Great Migration.[231] Recently, the Asian population in Texas has grown—primarily in Houston and Dallas. Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas. Three federally recognized Native American tribes reside in Texas: the Alabama-Coushatta Tribe, the Kickapoo Traditional Tribe, and the Ysleta del Sur Pueblo.[232]
 
@@ -509,7 +501,7 @@ Adherents of many other religions reside predominantly in the urban centers of T
 
 Culture
 
-Mission_San_Antonio_aka_Alamo.jpg is one of the most recognized symbols of Texas.]] Historically, Texas culture comes from a blend of Southern (Dixie), Western (frontier), and Southwestern (Mexican/Anglo fusion) influences, varying in degrees of such from one intrastate region to another. Texas is placed in the Southern United States by the United States Census Bureau.[260] A popular food item, the breakfast burrito, draws from all three, having a soft flour tortilla wrapped around bacon and scrambled eggs or other hot, cooked fillings. Adding to Texas's traditional culture, established in the 18th and 19th centuries, immigration has made Texas a melting pot of cultures from around the world.
+is one of the most recognized symbols of Texas.]] Historically, Texas culture comes from a blend of Southern (Dixie), Western (frontier), and Southwestern (Mexican/Anglo fusion) influences, varying in degrees of such from one intrastate region to another. Texas is placed in the Southern United States by the United States Census Bureau.[260] A popular food item, the breakfast burrito, draws from all three, having a soft flour tortilla wrapped around bacon and scrambled eggs or other hot, cooked fillings. Adding to Texas's traditional culture, established in the 18th and 19th centuries, immigration has made Texas a melting pot of cultures from around the world.
 
 Texas has made a strong mark on national and international pop culture. The entire state is strongly associated with the image of the cowboy shown in westerns and in country western music. The state's numerous oil tycoons are also a popular pop culture topic as seen in the hit TV series _Dallas_.
 
@@ -521,7 +513,7 @@ Texas self-perception
 
 Arts
 
-Big_Tex.JPG presided over every Texas State Fair since 1952 until it was destroyed by fire in 2012]] Houston is one of only five American cities with permanent professional resident companies in all of the major performing arts disciplines: the Houston Grand Opera, the Houston Symphony Orchestra, the Houston Ballet, and The Alley Theatre.[269] Known for the vibrancy of its visual and performing arts, the Houston Theater District—a 17-block area in the heart of Downtown Houston— ranks second in the country in the number of theater seats in a concentrated downtown area, with 12,948 seats for live performances and 1,480 movie seats.[270]
+presided over every Texas State Fair since 1952 until it was destroyed by fire in 2012]] Houston is one of only five American cities with permanent professional resident companies in all of the major performing arts disciplines: the Houston Grand Opera, the Houston Symphony Orchestra, the Houston Ballet, and The Alley Theatre.[269] Known for the vibrancy of its visual and performing arts, the Houston Theater District—a 17-block area in the heart of Downtown Houston— ranks second in the country in the number of theater seats in a concentrated downtown area, with 12,948 seats for live performances and 1,480 movie seats.[270]
 
 Founded in 1892, Modern Art Museum of Fort Worth, also called "The Modern", is Texas's oldest art museum. Fort Worth also has the Kimbell Art Museum, the Amon Carter Museum, the National Cowgirl Museum and Hall of Fame, the Will Rogers Memorial Center, and the Bass Performance Hall downtown. The Arts District of Downtown Dallas has arts venues such as the Dallas Museum of Art, the Morton H. Meyerson Symphony Center, the Margot and Bill Winspear Opera House, the Trammell & Margaret Crow Collection of Asian Art, and the Nasher Sculpture Center.[271]
 
@@ -542,7 +534,7 @@ Although unusual in the West, school corporal punishment is not uncommon in more
 
 Higher education
 
-The_University_of_Texas_at_Austin_-_Littlefield_Fountain_and_Main_Building.jpg]]
+]]
 
 The state's two most widely recognized flagship universities are The University of Texas at Austin and Texas A&M University, ranked as the 52nd[287] and 69th[288] best universities in the nation according to the 2014 edition of U.S. News & World Report's "Best Colleges", respectively. Some observers[289] also include the University of Houston and Texas Tech University as tier one flagships alongside UT Austin and A&M.[290][291] The Texas Higher Education Coordinating Board (THECB) ranks the state's public universities into three distinct tiers:[292]
 
@@ -563,11 +555,11 @@ The state's two most widely recognized flagship universities are The University 
 
 Texas's controversial alternative affirmative action plan, Texas House Bill 588, guarantees Texas students who graduated in the percent of their high school class automatic admission to state-funded universities. The bill encourages demographic diversity while avoiding problems stemming from the _Hopwood v. Texas_ (1996) case.
 
-TAMUcampus.jpg]] Thirty-six (36) separate and distinct public universities exist in Texas, of which 32 belong to one of the six state university systems.[297][298] Discovery of minerals on Permanent University Fund land, particularly oil, has helped fund the rapid growth of the state's two largest university systems: the University of Texas System and the Texas A&M System. The four other university systems: the University of Houston System, the University of North Texas System, the Texas State System, and the Texas Tech System are not funded by the Permanent University Fund.
+]] Thirty-six (36) separate and distinct public universities exist in Texas, of which 32 belong to one of the six state university systems.[297][298] Discovery of minerals on Permanent University Fund land, particularly oil, has helped fund the rapid growth of the state's two largest university systems: the University of Texas System and the Texas A&M System. The four other university systems: the University of Houston System, the University of North Texas System, the Texas State System, and the Texas Tech System are not funded by the Permanent University Fund.
 
-Ezekiel_W._Cullen_Building_(Alternate).JPG]] The Carnegie Foundation classifies three of Texas's universities as Tier One research institutions: The University of Texas at Austin, the Texas A&M University, and the University of Houston. The University of Texas at Austin and Texas A&M University are flagship universities of the state of Texas. Both were established by the Texas Constitution and hold stakes in the Permanent University Fund. The state has been putting effort to expand the number of flagship universities by elevating some of its seven institutions designated as "emerging research universities". The two expected to emerge first are the University of Houston and Texas Tech University, likely in that order according to discussions on the House floor of the 82nd Texas Legislature.[299]
+]] The Carnegie Foundation classifies three of Texas's universities as Tier One research institutions: The University of Texas at Austin, the Texas A&M University, and the University of Houston. The University of Texas at Austin and Texas A&M University are flagship universities of the state of Texas. Both were established by the Texas Constitution and hold stakes in the Permanent University Fund. The state has been putting effort to expand the number of flagship universities by elevating some of its seven institutions designated as "emerging research universities". The two expected to emerge first are the University of Houston and Texas Tech University, likely in that order according to discussions on the House floor of the 82nd Texas Legislature.[299]
 
-Lovett_Hall.jpg]] The state is home to various private institutions of higher learning—ranging from liberal arts colleges to a nationally recognized top-tier research university. in Houston is one of the leading teaching and research universities of the United States and is ranked the nation's 17th-best overall university by _U.S. News & World Report_.[300] Trinity University, a private, primarily undergraduate liberal arts university in San Antonio, has ranked first among universities granting primarily bachelor's and select master's degrees in the Western United States for 20 consecutive years by _U.S. News_.[301] Private universities include , , , and .[302][303][304]
+]] The state is home to various private institutions of higher learning—ranging from liberal arts colleges to a nationally recognized top-tier research university. in Houston is one of the leading teaching and research universities of the United States and is ranked the nation's 17th-best overall university by _U.S. News & World Report_.[300] Trinity University, a private, primarily undergraduate liberal arts university in San Antonio, has ranked first among universities granting primarily bachelor's and select master's degrees in the Western United States for 20 consecutive years by _U.S. News_.[301] Private universities include , , , and .[302][303][304]
 
 Universities in Texas host three presidential libraries: George Bush Presidential Library at Texas A&M University, the Lyndon Baines Johnson Library and Museum at The University of Texas at Austin, and the George W. Bush Presidential Library at Southern Methodist University.
 
@@ -598,7 +590,7 @@ Environmental factors play a large role in obesity rates.[329] Studies have show
 
 Obesity policy
 
-School_Lunch.jpg In 2003, the Texas School Nutrition Policy Launch set nutrition standards with the intentions of discouraging obesity.[333] This policy lowered the availability of foods of minimal nutritional value in schools, limited portion sizes, limited trans fats, and limited fried foods.[334] Texas has also required early childhood education programs to encourage breastfeeding, provide drinking water access, and provide daily physical activity.[335] The state also has a fund specifically for financing healthy food.[336] In 2013, the Obesity Prevention Program was created after merging the Nutrition, Physical Activity, and Obesity Prevention (NPAOP) and Worksite Wellness Programs.[337] This program supports healthy eating, physical activity, and policies that promote healthier lifestyles.
+In 2003, the Texas School Nutrition Policy Launch set nutrition standards with the intentions of discouraging obesity.[333] This policy lowered the availability of foods of minimal nutritional value in schools, limited portion sizes, limited trans fats, and limited fried foods.[334] Texas has also required early childhood education programs to encourage breastfeeding, provide drinking water access, and provide daily physical activity.[335] The state also has a fund specifically for financing healthy food.[336] In 2013, the Obesity Prevention Program was created after merging the Nutrition, Physical Activity, and Obesity Prevention (NPAOP) and Worksite Wellness Programs.[337] This program supports healthy eating, physical activity, and policies that promote healthier lifestyles.
 
 Alcohol use
 
@@ -626,7 +618,7 @@ A birth is considered preterm when it takes place more than 3 weeks before the e
 
 Low birth weight
 
-Incubator-tahrir.jpg A low birth weight is less than 2500 grams.[360] The rate of low birth weight in Texas has always been higher than the nationwide rate. In 2016, 8.4% of live births in Texas had a low birth weight.[361] The rate for Black mothers specifically was 13.5%.[362] Babies of mothers who do not get prenatal care are 3 times more likely to have a low birth weight and 5 times more likely to die than those born to mothers who do get care.[363] As for long-term complications, low birth weight babies are at a higher risk for cerebral palsy, blindness, deafness, and developmental delay.[364]
+A low birth weight is less than 2500 grams.[360] The rate of low birth weight in Texas has always been higher than the nationwide rate. In 2016, 8.4% of live births in Texas had a low birth weight.[361] The rate for Black mothers specifically was 13.5%.[362] Babies of mothers who do not get prenatal care are 3 times more likely to have a low birth weight and 5 times more likely to die than those born to mothers who do get care.[363] As for long-term complications, low birth weight babies are at a higher risk for cerebral palsy, blindness, deafness, and developmental delay.[364]
 
 Prenatal care
 
@@ -659,13 +651,13 @@ Notwithstanding the concentration of elite medical centers in the state, The Com
 
 Transportation
 
-High_Five.jpg in Dallas is a five level interchange.]] Texans have historically had difficulties traversing Texas due to the state's large size and rough terrain. Texas has compensated by building both America's largest highway and railway systems in length. The regulatory authority, the Texas Department of Transportation (TxDOT) maintains the state's immense highway system, regulates aviation,[401] and public transportation systems.[402]
+in Dallas is a five level interchange.]] Texans have historically had difficulties traversing Texas due to the state's large size and rough terrain. Texas has compensated by building both America's largest highway and railway systems in length. The regulatory authority, the Texas Department of Transportation (TxDOT) maintains the state's immense highway system, regulates aviation,[401] and public transportation systems.[402]
 
 Located centrally in North America, the state is an important transportation hub. From the Dallas/Fort Worth area, trucks can reach 93 percent of the nation's population within 48 hours, and 37 percent within 24 hours.[403] Texas has 33 foreign trade zones (FTZ), the most in the nation.[404] In 2004, a combined total of $298 billion of goods passed through Texas FTZs.[405]
 
 Highways
 
-Welcome_to_Texas_sign,_2008.jpg The first Texas freeway was the Gulf Freeway opened in 1948 in Houston.[406] As of 2005, of public highway crisscrossed Texas (up from in 1984).[407] To fund recent growth in the state highways, Texas has 17 toll roads (see list) with several additional tollways proposed.[408] In central Texas, the southern section of the State Highway 130 toll road has a speed limit of , the highest in the nation.[409] All federal and state highways in Texas are paved.
+The first Texas freeway was the Gulf Freeway opened in 1948 in Houston.[406] As of 2005, of public highway crisscrossed Texas (up from in 1984).[407] To fund recent growth in the state highways, Texas has 17 toll roads (see list) with several additional tollways proposed.[408] In central Texas, the southern section of the State Highway 130 toll road has a speed limit of , the highest in the nation.[409] All federal and state highways in Texas are paved.
 
 Airports
 
@@ -679,7 +671,7 @@ Around 1,150 seaports dot Texas's coast with over of channels.[420] Ports employ
 
 Railroads
 
-20110123_DFW_terminal_D.jpg in Dallas.]] Bush_terminal_E.jpg in Houston.]] Houston_Ship_Channel.jpg along the Houston Ship Channel]]
+in Dallas.]] in Houston.]] along the Houston Ship Channel]]
 
 Part of the state's tradition of cowboys is derived from the massive cattle drives which its ranchers organized in the nineteenth century to drive livestock to railroads and markets in Kansas, for shipment to the East. Towns along the way, such as Baxter Springs, the first cow town in Kansas, developed to handle the seasonal workers and tens of thousands of head of cattle being driven.
 
@@ -694,7 +686,7 @@ Amtrak provides Texas with limited intercity passenger rail service. Three sched
 
 Sports
 
-Cowboys_Stadium_full_view.jpg, home of the Dallas Cowboys.]] Spurs_vs._Lakers.jpg and the Los Angeles Lakers in 2007]] Rangers_Ballpark_in_Arlington.jpg, home of the Texas Rangers]]
+, home of the Dallas Cowboys.]] and the Los Angeles Lakers in 2007]] , home of the Texas Rangers]]
 
 While American football has long been considered "king" in the state, Texans enjoy a wide variety of sports.[432]
 

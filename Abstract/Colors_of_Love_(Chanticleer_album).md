@@ -1,1 +1,0 @@
-_COLORS OF LOVE_ is a Grammy Award winning 1999 album of contemporary choral music by Chanticleer to a concept designed by Frank Albinder. The album won Grammy Award for Best Small Ensemble Performance at the 42nd Annual Grammy Awards.[1]

@@ -19,7 +19,7 @@ Septimius Severus grew up in Leptis Magna. He spoke the local Punic language flu
 
 Public service
 
-Septimius_Severus,_Julia_Domna,_Caracalla,_Geta,_aureus,_AD_202,_RIC_IV_181c.jpg of Septimius Severus, minted in 202. The reverse feature the portraits of Geta (right), Julia Domna (centre), and Caracalla (left).[7] Inscription:SEVERus Pius AVGustus Pontifex Maximus, TRibunus Plebis X, COnSul III / FELICITAS SAECVLI]]
+of Septimius Severus, minted in 202. The reverse feature the portraits of Geta (right), Julia Domna (centre), and Caracalla (left).[7] Inscription:SEVERus Pius AVGustus Pontifex Maximus, TRibunus Plebis X, COnSul III / FELICITAS SAECVLI]]
 
 Around 162 Septimius Severus sought a public career in Rome. At the recommendation of his relative Gaius Septimius Severus, Emperor Marcus Aurelius () granted him entry into the senatorial ranks.[8] Membership in the senatorial order was a prerequisite to attain positions within the _cursus honorum_ and to gain entry into the Roman Senate. Nevertheless, it appears that Severus' career during the 160s met with some difficulties.[9] It is likely that he served as a _vigintivir_ in Rome, overseeing road maintenance in or near the city, and he may have appeared in court as an advocate.[10] At the time of Marcus Aurelius he was the State Attorney (_Advocatus fisci_).[11] However, he omitted the military tribunate from the _cursus honorum_ and had to delay his quaestorship until he had reached the required minimum age of 25.[12] To make matters worse, the Antonine Plague swept through the capital in 166.[13]
 
@@ -40,7 +40,7 @@ Bassianus accepted Severus' marriage proposal in early 187, and in the summer th
 
 Rise to power
 
-Septimusseverustondo.jpg, c. 199, Severus, Julia Domna, Caracalla and Geta, whose face is erased. (Antikensammlung Berlin)]]
+, c. 199, Severus, Julia Domna, Caracalla and Geta, whose face is erased. (Antikensammlung Berlin)]]
 
 In 191 Severus was appointed governor of Pannonia Superior by Commodus on the advice of Quintus Aemilius Laetus, prefect of the Praetorian Guard.[28] Commodus was assassinated the following year. Pertinax was acclaimed emperor, but he was then killed by the Praetorian Guard in early 193. In response to the murder of Pertinax, Severus's legion _XIV Gemina_ proclaimed him Emperor at Carnuntum. Nearby legions, such as _X Gemina_ at Vindobona, soon followed. Having assembled an army, Severus hurried to Italy.
 
@@ -55,7 +55,7 @@ Emperor
 
 War against Parthia
 
-Severus210AD.png Aureus_Septimius_Severus-193-leg_XIIII_GMV.jpg minted in 193 by Septimius Severus, to celebrate XIIII _Gemina Martia Victrix_, the legion that proclaimed him emperor. Inscription: IMP. CAE. L. SEP. SEV. PERT[INAX] AVG. / LEG. XIIII CEM. M. V. - TR. P., CO[N]S.]]
+minted in 193 by Septimius Severus, to celebrate XIIII _Gemina Martia Victrix_, the legion that proclaimed him emperor. Inscription: IMP. CAE. L. SEP. SEV. PERT[INAX] AVG. / LEG. XIIII CEM. M. V. - TR. P., CO[N]S.]]
 
 In early 197 Severus departed Rome and travelled to the east by sea. He embarked at Brundisium and probably landed at the port of Aegeae in Cilicia,[37] travelling to Syria by land. He immediately gathered his army and crossed the Euphrates.[38] Abgar IX, titular King of Osroene but essentially only the ruler of Edessa since the annexation of his kingdom as a Roman province,[39] handed over his children as hostages and assisted Severus' expedition by providing archers.[40] King Khosrov I of Armenia also sent hostages, money and gifts.[41]
 
@@ -69,7 +69,7 @@ According to Cassius Dio,[48] however, after 197 Severus fell heavily under the 
 
 Military reforms
 
-Bronze_head_of_Septimius_Severus,_from_Asia_Minor,_c._195-211_AD,_Ny_Carlsberg_Glyptotek,_Copenhagen_(13648215765).jpg, Copenhagen. Inscription: IMP. CAE. L. SEP. SEV. PERT. AVG. / LEG. XIIII, CEM M V - TRP COS]]
+, Copenhagen. Inscription: IMP. CAE. L. SEP. SEV. PERT. AVG. / LEG. XIIII, CEM M V - TRP COS]]
 
 Upon his arrival at Rome in 193, Severus discharged the Praetorian Guard,[51] which had murdered Pertinax and had then auctioned the Roman Empire to Didius Julianus. Its members were stripped of their ceremonial armour and forbidden to come within miles of the city on pain of death.[52] Severus replaced the old guard with 10 new cohorts recruited from veterans of his Danubian legions.[53]
 
@@ -87,8 +87,6 @@ Military activity
 
 Africa (202)
 
-Septimius_Severus'_African_conquests1.jpg
-
 In late 202 Severus launched a campaign in the province of Africa. The legate of Legio III Augusta, Quintus Anicius Faustus, had been fighting against the Garamantes along the _Limes Tripolitanus_ for five years. He captured several settlements such as Cydamus, Gholaia, Garbia, and their capital Garama – over south of Leptis Magna.[63] The province of Numidia was also enlarged: the empire annexed the settlements of Vescera, Castellum Dimmidi, Gemellae, Thabudeos and Thubunae .[64] By 203 the entire southern frontier of Roman Africa had been dramatically expanded and re-fortified. Desert nomads could no longer safely raid the region's interior and escape back into the Sahara.[65]
 
 Britain (208)
@@ -97,7 +95,7 @@ In 208 Severus travelled to Britain with the intention of conquering Caledonia. 
 
 He strengthened Hadrian's Wall and reconquered the Southern Uplands up to the Antonine Wall, which was also enhanced. Severus built a camp south of the Antonine Wall at Trimontium, probably assembling his forces there. Severus then thrust north with his army across the wall into Caledonian territory. Retracing the steps of Agricola of over a century before, Severus rebuilt and garrisoned many abandoned Roman forts along the east coast, such as Carpow. [68] He was supported and supplied by a strong naval force.[69]
 
-Kushan_ring_with_Septimus_Severus_and_Julia_Domna.jpg ring with portraits of Septimus Severus and Julia Domna, a testimony to Indo-Roman relations of the period.]]
+ring with portraits of Septimus Severus and Julia Domna, a testimony to Indo-Roman relations of the period.]]
 
 Around this time Severus' wife, Julia Domna, reportedly criticised the sexual morals of the Caledonian women. The wife of Caledonian chief Argentocoxos replied: "We fulfill the demands of nature in a much better way than do you Roman women; for we consort openly with the best men, whereas you let yourselves be debauched in secret by the vilest".[70]
 
@@ -113,8 +111,6 @@ Severus is famously said to have given the advice to his sons: "Be harmonious, e
 
 
 Assessment and legacy
-
-Leptis_Magna_Arch_of_Septimus_Severus.jpg
 
 Though his military expenditure was costly to the empire, Severus was a strong and able ruler. The Roman Empire reached its greatest extent under his reignover million square kilometres.[85][86]
 

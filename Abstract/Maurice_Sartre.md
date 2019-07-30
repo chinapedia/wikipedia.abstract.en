@@ -1,1 +1,0 @@
-MAURICE SARTRE (born 3 October 1944) is a French historian, an Emeritus professor of ancient history at the François Rabelais University,[1] a specialist in ancient Greek and Eastern Roman history, especially the Hellenized Middle East, from Alexander to Islamic conquests.

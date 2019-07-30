@@ -3,7 +3,7 @@ This article refers to transportation in the country of Togo
 
 Railways
 
-Railways_in_Togo.svg _total:_ 568 km (2008)
+_total:_ 568 km (2008)
 _narrow gauge:_ 568 km of gauge
 
 

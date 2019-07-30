@@ -1,1 +1,0 @@
-yokaichi01.jpg Giant Kite Festival is held every May in Higashiomi, Shiga, Japan.[1]]] Kitesflying.jpg Lachender_Drachen_in_Sternform.JPG. This sparless, ram-air inflated kite, has a complex bridle formed of many strings attached to the face of the wing.]]

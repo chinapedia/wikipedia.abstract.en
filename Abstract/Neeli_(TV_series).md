@@ -1,1 +1,0 @@
-_NEELI_ is a 2016–2017 Indian-Tamil language horror-supernatural soap opera starring Chavi, Naveen, Niranjani and Kavitha that aired on Vijay TV. The show is launched on 19 December 2016 and ended with 260 Episodes.[1] The show is an adaptation of the Suvarna TV serial _Neeli_.[2] It also airs in Sri Lanka Tamil Channel on Shakthi TV from 8 May 2017.

@@ -1,1 +1,0 @@
-BAHAUDDIN ZAKARIYA UNIVERSITY COLLEGE OF TEXTILE ENGINEERING, also known as BZU college of textile engineering, is an institute in southern Punjab, which provides engineering degrees in the field of textile. It is situated on 6-km Khanewal road in Multan, Pakistan.

@@ -1,1 +1,0 @@
-CRADDOCK is an unincorporated community in southern Phelps County, in the U.S. state of Missouri.[1] The community is one mile east of U.S. Route 63. Licking is approximately nine miles to the south in Texas County and Edgar Springs is about nine miles to the north.[2]

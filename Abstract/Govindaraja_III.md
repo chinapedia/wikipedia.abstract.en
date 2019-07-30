@@ -1,1 +1,0 @@
-GOVINDARAJA III (r. c. 1012-1026 CE), also known as GANDU, was an Indian king belonging to the Shakambhari Chahamana dynasty. He ruled the Sapadalaksha country, which included parts of present-day Rajasthan in north-western India.

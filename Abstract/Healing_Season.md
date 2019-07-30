@@ -1,1 +1,0 @@
-_HEALING SEASON_ is the ninth studio album, and the first Christmas album, by American R&B band Mint Condition.[1] It earned the group a nomination for Best R&B Album in the 59th Annual Grammy Awards, which were held on February 12, 2017.[2]

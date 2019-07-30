@@ -1,1 +1,0 @@
-AUNG MAUNG GYI (born 15 December 1945) is a retired Burmese weightlifter. He won a silver medal at the 1974 Asian Games and set two world record in the snatch, in 1970 and 1972. At the 1972 Summer Olympics he placed fifth.[1][2][3]

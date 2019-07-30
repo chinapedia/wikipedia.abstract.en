@@ -1,9 +1,9 @@
-Gallen-Kallela_The_defence_of_the_Sampo.jpg'' by Akseli Gallen-Kallela]] In Finnish mythology, the _SAMPO_ or SAMMAS was a magical artifact of indeterminate type constructed by Ilmarinen that brought riches and good fortune to its holder. When the Sampo was stolen, it is said that Ilmarinen's homeland fell upon hard times and he sent an expedition to retrieve it, but in the ensuing battle it was smashed and lost at sea.
+'' by Akseli Gallen-Kallela]] In Finnish mythology, the _SAMPO_ or SAMMAS was a magical artifact of indeterminate type constructed by Ilmarinen that brought riches and good fortune to its holder. When the Sampo was stolen, it is said that Ilmarinen's homeland fell upon hard times and he sent an expedition to retrieve it, but in the ensuing battle it was smashed and lost at sea.
 
 
 In the Kalevala
 
-Gallen_Kallela_The_Forging_of_the_Sampo.jpg]]
+]]
 
 The Sampo is a pivotal element of the plot of the Finnish epic poem _Kalevala_, compiled in 1835 (and expanded in 1849) by Elias Lönnrot based on earlier Finnish oral tradition.
 

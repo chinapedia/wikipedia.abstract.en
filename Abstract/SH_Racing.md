@@ -1,1 +1,0 @@
-SH RACING is an American motor race company. It was founded in 2010 by James “Sulli” Sullivan to compete in motocross. It evolved to compete in two major motor racing series - the Red Bull Global Rallycross Series where SH Racing competes under the SH Rallycross/DRR banner and in the IndyCar Series where it contests races as KVSH Racing.

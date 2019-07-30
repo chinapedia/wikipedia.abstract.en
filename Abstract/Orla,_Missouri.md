@@ -1,1 +1,0 @@
-ORLA is an unincorporated community in southern Laclede County, in the Ozarks of southern Missouri.[1] The community is located near the junction of Missouri Route 5 and Route O, east of the Osage Fork Gasconade River and approximately eleven miles south of Lebanon.[2]

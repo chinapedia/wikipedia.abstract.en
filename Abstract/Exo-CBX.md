@@ -1,1 +1,0 @@
-EXO-CBX ( _Exo-Chen-Baek-Xi_; stylized as EXO-CBX) is the first official sub-unit of South Korean-Chinese boy group Exo. Formed by SM Entertainment in 2016, the group is composed of three Exo members: Chen, Baekhyun, and Xiumin. Their debut extended play _Hey Mama!_ was released on October 31, 2016.

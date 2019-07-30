@@ -1,1 +1,0 @@
-PASCAL BORIS, CBE, is a business angel and senior non-executive director (chair, remuneration committee, strategy committee). He is a former senior executive in international banking and financial services who used to be CEO of BNP Paribas UK (1999–2007) and CEO of BNP Paribas Suisse (2007–2013).

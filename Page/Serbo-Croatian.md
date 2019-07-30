@@ -16,7 +16,7 @@ History
 
 Early development
 
-Humacka_ploca.jpg Hvalov_zbornik1.jpg, 1404]]
+, 1404]]
 
 In 9th Century, Old Church Slavonic was adopted as the language of the liturgy in churches serving various Slavic nations. This language was gradually adapted to non-liturgical purposes and became known as the Croatian version of Old Slavonic. The two variants of the language, liturgical and non-liturgical, continued to be a part of the Glagolitic service as late as the middle of the 19th century. The earliest known Croatian Church Slavonic Glagolitic manuscripts are the _Glagolita Clozianus_ and the _Vienna Folia_ from the 11th century.[17]
 
@@ -50,7 +50,7 @@ File:Razvod.jpg%7CA page from the "Istrian land survey" of 1526
 
 Modern standardization
 
-Rjecnik_hrvatskoga_ili_srpskoga_jezika.jpg, _Rječnik hrvatskoga ili srpskoga jezika_ (Croatian or Serbian Dictionary), 1882]] Gramatika_bosanskog_jezika.jpg
+, _Rječnik hrvatskoga ili srpskoga jezika_ (Croatian or Serbian Dictionary), 1882]]
 
 In the mid-19th century, Serbian (led by self-taught writer and folklorist Vuk Stefanović Karadžić) and most Croatian writers and linguists (represented by the Illyrian movement and led by Ljudevit Gaj and Đuro Daničić), proposed the use of the most widespread dialect, Shtokavian, as the base for their common standard language. Karadžić standardised the Serbian Cyrillic alphabet, and Gaj and Daničić standardized the Croatian Latin alphabet, on the basis of vernacular speech phonemes and the principle of phonological spelling. In 1850 Serbian and Croatian writers and linguists signed the Vienna Literary Agreement, declaring their intention to create a unified standard. Thus a complex bi-variant language appeared, which the Serbs officially called "Serbo-Croatian" or "Serbian or Croatian" and the Croats "Croato-Serbian", or "Croatian or Serbian". Yet, in practice, the variants of the conceived common literary language served as different literary variants, chiefly differing in lexical inventory and stylistic devices. The common phrase describing this situation was that Serbo-Croatian or "Croatian or Serbian" was a single language. During the Austro-Hungarian occupation of Bosnia and Herzegovina, the language of all three nations was called "Bosnian" until the death of administrator von Kállay in 1907, at which point the name was changed to "Serbo-Croatian".[28][29][30]
 
@@ -86,7 +86,7 @@ Outside the Balkans, there are over 2 million native speakers of the language(s)
 
 Grammar
 
-Gramatika_i_stilistika_hrvatskoga_ili_srpskoga_knjizevnoga_jezika.JPG's 1899 Grammar of Croatian or Serbian.]]
+'s 1899 Grammar of Croatian or Serbian.]]
 
 Serbo-Croatian is a highly inflected language. Traditional grammars list seven cases for nouns and adjectives: nominative, genitive, dative, accusative, vocative, locative, and instrumental, reflecting the original seven cases of Proto-Slavic, and indeed older forms of Serbo-Croatian itself. However, in modern Shtokavian the locative has almost merged into dative (the only difference is based on accent in some cases), and the other cases can be shown declining; namely:
 
@@ -337,9 +337,9 @@ The primary dialects are named after the most common question word for _what_: S
 
 The pluricentric Serbo-Croatian standard language and all four contemporary standard variants are based on the Eastern Herzegovinian subdialect of Neo-Shtokavian. Other dialects are not taught in schools or used by the state media. The Torlakian dialect is often added to the list, though sources usually note that it is a transitional dialect between Shtokavian and the Bulgaro-Macedonian dialects.
 
-  ------------------------------------------------------- ---------------------------------------------- -----------------------
-  Serbo_croatian_dialects_historical_distribution_2.png   Shtokavian_subdialects1988_incl_Slovenia.png   Croatian_dialects.PNG
-  ------------------------------------------------------- ---------------------------------------------- -----------------------
+  -- -- --
+
+  -- -- --
 
 The Serbo-Croatian dialects differ not only in the question word they are named after, but also heavily in phonology, accentuation and intonation, case endings and tense system (morphology) and basic vocabulary. In the past, Chakavian and Kajkavian dialects were spoken on a much larger territory, but have been replaced by Štokavian during the period of migrations caused by Ottoman Turkish conquest of the Balkans in the 15th and the 16th centuries. These migrations caused the koinéisation of the Shtokavian dialects, that used to form the West Shtokavian (more closer and transitional towards the neighbouring Chakavian and Kajkavian dialects) and East Shtokavian (transitional towards the Torlakian and the whole Bulgaro-Macedonian area) dialect bundles, and their subsequent spread at the expense of Chakavian and Kajkavian. As a result, Štokavian now covers an area larger than all the other dialects combined, and continues to make its progress in the enclaves where non-literary dialects are still being spoken.[54]
 
@@ -456,8 +456,6 @@ As in other pluricentric languages, all Serbo-Croatian standard varieties are ba
 In 2017, numerous prominent writers, scientists, journalists, activists and other public figures from Croatia, Bosnia-Herzegovina, Montenegro and Serbia signed the Declaration on the Common Language, which states that in Croatia, Serbia, Bosnia-Herzegovina and Montenegro a common polycentric standard language is used, consisting of several standard varieties, such as German, English or Spanish.[67][68][69][70]
 
 Contemporary names
-
-Serbo_croatian_languages2006_02.png
 
 The use of _Serbo-Croatian_ as a linguistic label has been the subject of long-standing controversy. Wayles Browne calls it a "term of convenience" and notes the difference of opinion as to whether it comprises a single language or a cluster of languages.[71] Ronelle Alexander refers to the national standards as three separate languages, but also notes that the reasons for this are complex and generally non-linguistic. She calls BCS (her term for Serbo-Croatian) a single language for communicative linguistic purposes, but three separate languages for symbolic non-linguistic purposes.
 

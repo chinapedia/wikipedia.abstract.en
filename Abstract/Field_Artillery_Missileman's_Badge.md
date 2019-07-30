@@ -1,1 +1,0 @@
-The FIELD ARTILLERY MISSILEMAN'S BADGE is a local individual award created by the 9th Field Artillery Missile Group to recognize proficiency on the various missile systems. It was awarded from December 1976 through 1979. The intent of the badge was similar to the Pershing Professionals Badge awarded by the 56th Artillery Group.

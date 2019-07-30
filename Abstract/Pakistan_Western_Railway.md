@@ -1,1 +1,0 @@
-The PAKISTAN WESTERN RAILWAY () was one of two divisions of Pakistan Railways which operated between 1947 and 1971. The company was headquartered in Lahore.[1] In 1971, Pakistan Western Railway renamed itself to Pakistan Railways.[2]

@@ -9,7 +9,7 @@ Sierra Leone has played a significant part in modern African political liberty a
 
 Early history
 
-Prehistoric_pottery_shards,_Sierra_Leone.jpg pottery from Kamabai Rock Shelter]] Archaeological finds show that Sierra Leone has been inhabited continuously for at least 2,500 years,[1] populated by successive movements of peoples from other parts of Africa.[2] The use of iron was introduced to Sierra Leone by the 9th century, and by the end of the 10th century agriculture was being practiced by coastal tribes.[3]
+pottery from Kamabai Rock Shelter]] Archaeological finds show that Sierra Leone has been inhabited continuously for at least 2,500 years,[1] populated by successive movements of peoples from other parts of Africa.[2] The use of iron was introduced to Sierra Leone by the 9th century, and by the end of the 10th century agriculture was being practiced by coastal tribes.[3]
 
 Sierra Leone's dense tropical rainforest partially isolated the land from other pre-colonial African cultures[4] and from the spread of Islam. This made it a refuge for people escaping subjugation by the Sahelian kingdoms, violence and jihads.
 
@@ -84,13 +84,9 @@ The impact of the Mane invasions on the Sapes was obviously considerable, in tha
 
 In the 17th century, Portuguese imperialism waned and, in Sierra Leone, the most significant European group became the British. By 1628, they had a "factory" (trading post) in the vicinity of Sherbro Island, about 50 km (30 mi) south-east from present-day Freetown. At that time the island was easily accessible from the coast, and elephants were still living there. One commodity they purchased was camwood, a hard timber, from which also could be obtained a red dye. The Portuguese missionary, Baltasar Barreira, left Sierra Leone in 1610. Jesuits, and later in the century, Capuchins, continued the mission. By 1700 it had closed, although priests occasionally visited.
 
-Bunce_Island_map.JPG
-
 A company called the Royal Adventurers of England Trading into Africa received a charter from Charles II of England in 1663 and subsequently built a fort in the Sherbro and on Tasso Island in the Freetown estuary. They were plundered by the Dutch in 1664, the French in 1704, and pirates in 1719 and 1720. After the Dutch raid, the Tasso Island fort was moved to nearby Bunce Island, which was more defensible.
 
 The Europeans made payments, called _Cole_, for rent, tribute, and trading rights, to the king of an area. At this time the local military advantage was still on the side of the Africans, and there is a 1714 report of a king seizing Company goods in retaliation for a breach of protocol.[24] Local Afro-Portuguese often acted as middlemen, the Europeans advancing them goods to trade to the local people, most often for ivory. In 1728, an overly aggressive Company governor united the Africans and Afro-Portuguese in hostility to him; they burnt down the Bunce Island fort and it was not rebuilt until about 1750. The French wrecked it again in 1779.
-
-Sierra_Leone_Johannes_1732.jpg
 
 During the 17th century the Temne ethnolinguistic group was expanding. Around 1600, a Mani still ruled the Loko kingdom (the area north of Port Loko Creek) and another ruled the upper part of the south shore of the Freetown estuary. The north shore of the estuary was under a Bullom king, and the area just east of Freetown on the peninsula was held by a non-Mani with a European name, Dom Phillip de Leon (who may have been a subordinate to his Mani neighbour). By the mid-17th century this situation had changed: Temne, not Bullom was spoken on the south shore, and ships stopping for water and firewood had to pay customs to the Temne king of Bureh who lived at Bagos town on the point between the Rokel River and Port Loko Creek. (The king may have considered himself a Mani—to this day, Temne chiefs have Mani-derived titles—but his people were Temne. The Bureh king in place in 1690 was called Bai Tura, _Bai_ being a Mani form.) The Temne had thus expanded in a wedge toward the sea at Freetown, and now separated the Bulom to the north from the Mani and other Mande-speakers to the south and east.
 
@@ -104,18 +100,16 @@ The Yalunka in Fouta Djallon first accepted Islam, then rejected it and were dri
 
 Besides these groups, who were more-or-less unwilling emigrants, a considerable variety of Muslim adventurers went forth from Fouta Djallon. A Fula called Fula Mansa (_mansa_ meaning _king_) became ruler of the Yoni country 100 km (62 mi) east of present-day Freetown. Some of his Temne subjects fled south to the Banta country between the middle reaches of the Bagu and Jong rivers, where they became known as the Mabanta Temne.
 
-Slaves_sierra_leone.jpg In 1652, the first slaves in North America were brought from Sierra Leone to the Sea Islands off the coast of the southern United States. During the 18th century, there was a thriving slave trade from Sierra Leone to the plantations of South Carolina and Georgia where their rice-farming skills made them particularly valuable.
+In 1652, the first slaves in North America were brought from Sierra Leone to the Sea Islands off the coast of the southern United States. During the 18th century, there was a thriving slave trade from Sierra Leone to the plantations of South Carolina and Georgia where their rice-farming skills made them particularly valuable.
 
 Britain and British seafarers—including Sir Francis Drake, John Hawkins, Frobisher and Captain Brown—played a major role in the transatlantic trade in captured Africans between 1530 and 1810. The Treaty of Utrecht of 1713, which ended the Spanish War of Succession (1701–1714), had an additional clause (the Asiento) that granted Britain (among other things) the exclusive rights over the shipment of captured Africans across the Atlantic. Over 10 million captured Africans were shipped to the Caribbean Islands and the Americas and many more died during the raids, the long marches to the coast and on the infamous middle passage due to the inhumane conditions in slave ships.
 
 
 The Province of Freedom (1787–1789)
 
-Wesleyan_Institution,_King_Tom's_Point,_Sierra-Leone,_Western_Africa_(November_1846,_p.122,_III)_-_Copy.jpg
-
 Conception of the Province of Freedom (1787)
 
-Wesleyan_Institution,_King_Tom's_Point_(May_1853,_X,_p.57)_-_Copy.jpg In 1787, a plan was established to settle some of London's "Black Poor" in Sierra Leone in what was called the "Province of Freedom". This was organised by the Committee for the Relief of the Black Poor, founded by British abolitionist Granville Sharp, which preferred it as a solution to continuing to financially support them in London. Many of the Black Poor were African Americans, who had been given their freedom after seeking refuge with the British Army during the American Revolution, but also included other West Indian, African and Asian inhabitants of London.
+In 1787, a plan was established to settle some of London's "Black Poor" in Sierra Leone in what was called the "Province of Freedom". This was organised by the Committee for the Relief of the Black Poor, founded by British abolitionist Granville Sharp, which preferred it as a solution to continuing to financially support them in London. Many of the Black Poor were African Americans, who had been given their freedom after seeking refuge with the British Army during the American Revolution, but also included other West Indian, African and Asian inhabitants of London.
 
 Establishment, destruction and re-establishment (1789)
 
@@ -127,8 +121,6 @@ After establishing Granville Town, disease and hostility from the indigenous peo
 Freetown Colony (1792–1808)
 
 Conception of the Freetown settlement (1791)
-
-Cotton_Tree_(Sierra_Leone).jpg
 
 The basis for the Freetown Colony began in 1791 with Thomas Peters, an African American who had served in the Black Pioneers and settled in Nova Scotia as part of the Black Loyalist migration. Peters travelled to England in 1791 to report grievances of the Black Loyalists who had been given poor land and faced discrimination. Peters met with British abolitionists and the directors of the Sierra Leone Company. He learned of the Company's plan for a new settlement at Sierra Leone. The directors were eager to allow the Nova Scotians to build a settlement there; the London-based and newly created Company had decided to create a new colony but before Peters' arrival had no colonists. Lieutenant John Clarkson was sent to Nova Scotia to register immigrants to take to Sierra Leone for the purpose of starting a new settlement. Clarkson worked with Peters to recruit 1,196 former American slaves from free African communities around Nova Scotia such as Birchtown. Most had escaped Virginia and South Carolina plantations. Some had been born in Africa before being enslaved and taken to America.
 
@@ -155,11 +147,9 @@ Britain outlawed the slave trade throughout its empire on 29 March 1807 with the
 
 Colonial era (1808–1961)
 
-Freetown,_Sierra_Leone_ca_1856.jpg
-
 Establishment of the British Crown Colony (1808)
 
-Houses_at_Sierra-Leone_(May_1853,_X,_p.55)_-_Copy.jpg In 1808, the British Crown Colony of Sierra Leone was founded, with Freetown serving as the capital of British West Africa. The city's population expanded rapidly with freed slaves, who established suburbs on the Freetown Peninsula. They were joined by West Indian and African soldiers who settled in Sierra Leone after fighting for Britain in the Napoleonic Wars.
+In 1808, the British Crown Colony of Sierra Leone was founded, with Freetown serving as the capital of British West Africa. The city's population expanded rapidly with freed slaves, who established suburbs on the Freetown Peninsula. They were joined by West Indian and African soldiers who settled in Sierra Leone after fighting for Britain in the Napoleonic Wars.
 
 Intervention and acquisition of the hinterland (1800s–1895)
 
@@ -258,7 +248,7 @@ African resistance was not limited to political discussion. Sierra Leone develop
 
 Besides the colonial employers, popular hostility was targeted against the tribal chiefs who the British had transformed into functionaries in the colonial system of indirect rule. Their role was to provide policing, collect taxes, and obtain corvee labour (forced labour exacted from those unable to pay taxes) for the colonialists; in return, the colonialists maintained them in a privileged position over the other Africans. Chiefs not willing to play this role were replaced by more compliant ones. According to Kilson, the attitude of the Africans toward their chiefs became ambivalent: frequently they respected the office but resented the exactions made by the individual occupying it. From the chiefs' point of view, the dilemma of an honourable ruler faced with British ultimatums cannot have been easy.
 
-QEII_Stamp.jpg, 1956]] Throughout the 20th century, there were numerous riots directed against tribal chiefs. These culminated in the Protectorate-wide riots of 1955–1956, which were suppressed only by a considerable slaughter of peasants by the army. After those riots, reforms were introduced: the forced-labour system was completely abolished and reductions were made in the powers of the chiefs.
+, 1956]] Throughout the 20th century, there were numerous riots directed against tribal chiefs. These culminated in the Protectorate-wide riots of 1955–1956, which were suppressed only by a considerable slaughter of peasants by the army. After those riots, reforms were introduced: the forced-labour system was completely abolished and reductions were made in the powers of the chiefs.
 
 Sierra Leone remained divided into a Colony and a Protectorate, with separate and different political systems constitutionally defined for each. Antagonism between the two entities escalated to a heated debate in 1947, when proposals were introduced to provide for a single political system. Most of the proposals came from the Protectorate. The Krio, led by Isaac Wallace-Johnson, opposed the proposals, the main effect of which would have been to diminish their political power. It was due to the astute politics of Sir Milton Margai that the educated Protectorate elite was won over to join forces with the paramount chiefs in the face of Krio intransigence. Later, Margai used the same skills to win-over opposition leaders and moderate Krio elements for the achievement of independence.
 
@@ -302,7 +292,7 @@ Stevens government and one-party state (1968–1985)
 
 Stevens assumed power in 1968 with a great deal of hope and ambition. Much trust was placed upon him as he championed multi-party politics. Stevens had campaigned on a platform of bringing the tribes together under socialist principles. During his first decade or so in power, Stevens renegotiated some of what he called "useless prefinanced schemes" contracted by his predecessors, Albert Margai of the SLPP and Juxon-Smith of the NRC, which were said to have left the country in an economically deprived state. Stevens reorganized the country's refinery, the government-owned Cape Sierra Hotel, and a cement factory. He cancelled Juxon-Smith's construction of a church and mosque on the grounds of Victoria Park. Stevens began efforts that would later bridge the distance between the provinces and the city. Roads and hospitals were constructed in the provinces, and paramount chiefs and provincial peoples became a prominent force in Freetown.
 
-All_People's_Congress_political_rally_Sierra_Leone_1968.jpg political rally in Kabala outside the home of supporters of the rival SLPP, 1968]] Under pressure of several coup attempts—real and perceived—Stevens' rule grew more and more authoritarian, and his relationship with some of his ardent supporters deteriorated. He removed the SLPP from competitive politics in general elections, some believed, through the use of violence and intimidation. To maintain the support of the military, Stevens retained the popular John Amadu Bangura as the head of the Sierra Leone Armed Forces.
+political rally in Kabala outside the home of supporters of the rival SLPP, 1968]] Under pressure of several coup attempts—real and perceived—Stevens' rule grew more and more authoritarian, and his relationship with some of his ardent supporters deteriorated. He removed the SLPP from competitive politics in general elections, some believed, through the use of violence and intimidation. To maintain the support of the military, Stevens retained the popular John Amadu Bangura as the head of the Sierra Leone Armed Forces.
 
 After the return to civilian rule, by-elections were held (beginning in autumn 1968) and an all-APC cabinet was appointed. Calm was not completely restored. In November 1968, unrest in the provinces led Stevens to declare a state of emergency.
 
@@ -344,7 +334,7 @@ Meanwhile, an increasing burden was placed on the country by the rebellion in th
 
 Civil War (1991–2001)
 
-School_destroyed_by_Sierra_Leone_Civil_War.jpg destroyed during the Civil War. In total 1,270 primary schools were destroyed in the War.[69]]]
+destroyed during the Civil War. In total 1,270 primary schools were destroyed in the War.[69]]]
 
 The brutal civil war in neighbouring Liberia played an undeniable role in the outbreak of fighting in Sierra Leone. Charles Taylor—leader of the National Patriotic Front of Liberia—reportedly helped form the Revolutionary United Front (RUF) under the command of former Sierra Leonean army corporal Foday Sankoh, a critic of both the Stevens and Momoh administrations. Sankoh had been an ally of Brigadier General Bangura and was among those who mutinied following Bangura's execution. Sankoh was British-trained and had undergone guerrilla training in Libya. Taylor's aim was for the RUF to attack the bases of Nigerian-dominated peacekeeping troops in Sierra Leone who were opposed to his rebel movement in Liberia. Sankoh's RUF rebels entered the country in March 1991, and within a month controlled much of Eastern Sierra Leone, including the diamond-mining area in Kono District. The government of Sierra Leone, overwhelmed by a crumbling economy and corruption, was unable to mount significant resistance.
 

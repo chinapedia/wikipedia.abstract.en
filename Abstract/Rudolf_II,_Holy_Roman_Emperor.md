@@ -1,1 +1,0 @@
-RUDOLF II (18 July 1552 – 20 January 1612) was Holy Roman Emperor (1576–1612), King of Hungary and Croatia (as RUDOLF I, 1572–1608), King of Bohemia (1575–1608/1611) and Archduke of Austria (1576–1608). He was a member of the House of Habsburg.

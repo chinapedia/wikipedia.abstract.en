@@ -42,7 +42,7 @@ Labels may also carry various declarations of filtration techniques or final mat
 
 Types
 
-Scotch_whiskies.jpg There are two basic types of Scotch whisky, from which all blends are made:
+There are two basic types of Scotch whisky, from which all blends are made:
 
 -   Single malt Scotch whisky means a Scotch whisky produced from only water and malted barley at a single distillery by batch distillation in pot stills.
 -   Single grain Scotch whisky means a Scotch whisky distilled at a single distillery but, in addition to water and malted barley, may involve whole grains of other malted or unmalted cereals. "Single grain" does not mean that only a single type of grain was used to produce the whisky—rather, the adjective "single" refers only to the use of a single _distillery_ (and making a "single grain" requires using a _mixture_ of grains, as barley is a type of grain and some malted barley must be used in all Scotch whisky).
@@ -69,7 +69,7 @@ Blended malt whisky—formerly called _vatted malt_ or _pure malt_ (terms that a
 
 Blended
 
-Johnnie_Walker_Blends_Lineup.jpg Scotch whisky bottles.]] Blended Scotch whisky constitutes about 90% of the whisky produced in Scotland.[6] Blended Scotch whiskies contain both malt whisky and grain whisky. Producers combine the various malts and grain whiskies to produce a consistent brand style. Notable blended Scotch whisky brands include Ballantine's, Bell's, Chivas Regal, Cutty Sark, Dewar's, J&B, Johnnie Walker, Teacher's Highland Cream, The Famous Grouse, and Whyte and Mackay.
+Scotch whisky bottles.]] Blended Scotch whisky constitutes about 90% of the whisky produced in Scotland.[6] Blended Scotch whiskies contain both malt whisky and grain whisky. Producers combine the various malts and grain whiskies to produce a consistent brand style. Notable blended Scotch whisky brands include Ballantine's, Bell's, Chivas Regal, Cutty Sark, Dewar's, J&B, Johnnie Walker, Teacher's Highland Cream, The Famous Grouse, and Whyte and Mackay.
 
 
 Independent bottlers
@@ -81,7 +81,7 @@ For a variety of reasons, some independent brands do not identify which facility
 
 History
 
-Greybeard_whisky.JPG According to the Scotch Whisky Association, Scotch whisky evolved from a Scottish drink called _uisge beatha_, which means "water of life". The earliest record of distillation in Scotland occurred as long ago as 1494, as documented in the _Exchequer Rolls_, which were records of royal income and expenditure.[8] The quote above records eight bolls of malt given to Friar John Cor wherewith to make aqua vitae (Latin for "water of life," = _uisge beatha_) over the previous year. This would be enough for 1,500 bottles, which suggests that distillation was well-established by the late 15th century.[9]
+According to the Scotch Whisky Association, Scotch whisky evolved from a Scottish drink called _uisge beatha_, which means "water of life". The earliest record of distillation in Scotland occurred as long ago as 1494, as documented in the _Exchequer Rolls_, which were records of royal income and expenditure.[8] The quote above records eight bolls of malt given to Friar John Cor wherewith to make aqua vitae (Latin for "water of life," = _uisge beatha_) over the previous year. This would be enough for 1,500 bottles, which suggests that distillation was well-established by the late 15th century.[9]
 
 Whisky production was first taxed in 1644, causing a rise in illicit whisky distilling in the country. Between the 1760s and the 1830s a substantial unlicensed trade originated from the Highlands, forming a significant part of region's export economy. In 1782, more than 1,000 illegal stills were seized in the Highlands: these can only have been a fraction of those in operation. The Lowland distillers, who had no opportunity to avoid taxation, complained that un-taxed Highland whisky made up more than half the market. The heavy taxation during the Napoleonic Wars gave the illicit trade a big advantage, but their product was also considered better quality, commanding a higher price in the Lowlands. This was due to the method of taxation: malt was subject to tax (at a rate that climbed substantially between the 1790s and 1822). The licensed distillers therefore used more raw grain in an effort to reduce their tax bill.
 
@@ -94,7 +94,7 @@ Two events helped to increase whisky's popularity: first, the introduction in 18
 
 Regions
 
-Scotch_regions.svg Scotland was traditionally divided into four regions: The Highlands, The Lowlands, The Isle of Islay, and Campbeltown.[11] Due to the large number of distilleries found there, the Speyside region is now also recognized by the Scotch Whisky Association (SWA) as a distinct region.[12] The whisky-producing islands other than Islay are not recognised as a distinct region by the SWA, which groups them into the Highlands region.[13]
+Scotland was traditionally divided into four regions: The Highlands, The Lowlands, The Isle of Islay, and Campbeltown.[11] Due to the large number of distilleries found there, the Speyside region is now also recognized by the Scotch Whisky Association (SWA) as a distinct region.[12] The whisky-producing islands other than Islay are not recognised as a distinct region by the SWA, which groups them into the Highlands region.[13]
 
 -   The Lowlands: The southernmost region of Scotland.
     -   There are five distilleries that remain in operation: Auchentoshan, Bladnoch, Glenkinchie, Annandale and Ailsa Bay from the Girvan Distillery plus three more—Daftmill, Eden Mill, and Kingsbarns—are currently pending their first releases.[14][15][16]

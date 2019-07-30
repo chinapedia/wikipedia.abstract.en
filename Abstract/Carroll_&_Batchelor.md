@@ -1,1 +1,0 @@
-CARROLL & BATCHELOR was an architectural partnership in Dublin, Ireland, formed by James Rawson Carroll and Frederick Batchelor around 1892. The firm is best known for its work on many of Dublin's Victorian era hospitals.

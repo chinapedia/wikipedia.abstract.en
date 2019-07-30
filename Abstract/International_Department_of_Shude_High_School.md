@@ -1,1 +1,0 @@
-The INTERNATIONAL DEPARTMENT OF SHUDE HIGH SCHOOL () is an international school in Chengdu, China. Funded by Huaying Consulting and Service Co., Ltd .[1]It goal to help students become global citizens on the world stage by establishing their way toward overseas education.

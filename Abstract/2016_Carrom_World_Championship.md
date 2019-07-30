@@ -1,1 +1,0 @@
-The 2016 CARROM WORLD CHAMPIONSHIP, was the 7th edition of an international Carrom tournament governed by the International Carrom Federation, contested from 7 to 11 November 2016 in Birmingham, United Kingdom. Fifteen countries had competed in the tournament.[1]

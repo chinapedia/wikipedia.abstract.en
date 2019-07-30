@@ -1,1 +1,0 @@
-_' Seventh-day Adventist College of Education_' is a Seventh-day Adventist institution of higher learning in Vellore, Tamil Nadu, India. It is a part of the Seventh-day Adventist education system, the world's second largest Christian school system.[1][2][3][4]

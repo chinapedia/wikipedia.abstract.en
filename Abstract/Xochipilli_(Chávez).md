@@ -1,1 +1,0 @@
-Carlos_Chavez.jpg

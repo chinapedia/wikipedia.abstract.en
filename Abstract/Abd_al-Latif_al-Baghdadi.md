@@ -1,1 +1,0 @@
-ABD AL-LATIF AL-BAGHDADI or ABDALLATIF AL-BAGHDADI (, 1162 in Baghdad–1231), short for MUWAFFAQ AL-DIN MUHAMMAD ABD AL-LATIF IBN YUSUF AL-BAGHDADI (), was a physician, historian, Egyptologist and traveler, and one of the most voluminous writers of the Near East in his time.[1]

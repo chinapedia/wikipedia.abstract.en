@@ -1,1 +1,0 @@
-Liquidnitrogen.jpg ISIM_3_logical_region.jpg or James Webb Space Telescope)]] In physics, CRYOGENICS is the production and behaviour of materials at very low temperatures. A person who studies elements that have been subjected to extremely cold temperatures is called a _cryogenicist_.

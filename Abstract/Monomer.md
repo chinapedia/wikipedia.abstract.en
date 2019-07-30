@@ -1,1 +1,0 @@
-A MONOMER ( ; _mono-_, "one" + _-mer_, "part") is a molecule that "can undergo polymerization, thereby contributing constitutional units to the essential structure of a macromolecule".[1][2] Large numbers of monomers combine to form polymers in a process called polymerization.

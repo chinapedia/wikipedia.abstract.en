@@ -1,1 +1,0 @@
-The BURAMSAN TUNNEL (불암산터널) is a road tunnel started at Byeollae-dong, Namyangju, Gyeonggi Province, Korea and ended at Sanggye-dong, Nowon-gu, Seoul. The tunnel constitutes the Seoul Ring Expressway.

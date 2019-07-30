@@ -1,1 +1,0 @@
-After the September 11 attacks, questions were raised regarding the effectiveness of airport security at the time, as all 19 hijackers involved in 9/11 managed to pass existing checkpoints and board the airplanes without incident. In the months and years following September 11, 2001, security at many airports worldwide was escalated to deter similar terrorist plots.[1]

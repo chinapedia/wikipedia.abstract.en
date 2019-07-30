@@ -1,1 +1,0 @@
-GERARD MANLEY HOPKINS (28 July 1844 – 8 June 1889) was an English poet and Jesuit priest, whose posthumous fame established him among the leading Victorian poets. His manipulation of prosody (particularly his concept of sprung rhythm and use of imagery) established him as an innovative writer of verse. Two of his major themes were nature and religion.

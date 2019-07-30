@@ -1,1 +1,0 @@
-MARGARET FAIRWEATHER (23 September 1901 – 4 August 1944) was a British aviator and one of the first eight women members of the Air Transport Auxiliary (ATA).[1] She flew many planes including Tiger Moths and Hurricanes, and was the first woman to fly a Supermarine Spitfire.[2] She had previously been an instructor for the Civil Air Guard at Renfrew.[3]

@@ -1,1 +1,0 @@
-AVIOR REGIONAL was a Venezuelan airline that was a subsidiary of Avior Airlines. It began operations in March 2015 with flights from Caracas to Barinas and Valera; the flights to Curaçao commenced in July. , Avior Regional was operate six Fokker 50 aircraft.

@@ -1,4 +1,4 @@
-Strongarm}} DEC_StrongARM.jpg
+Strongarm}}
 
 The STRONGARM is a family of computer microprocessors developed by Digital Equipment Corporation and manufactured in the late 1990s which implemented the ARM v4 instruction set architecture. It was later sold to Intel in 1997, who continued to manufacture it before replacing it with the XScale in the early 2000s.
 

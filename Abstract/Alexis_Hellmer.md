@@ -1,1 +1,0 @@
-ALEXIS HELLMER is a Mexican Latinist and classicist and the founder of Studium Angelopolitanum.[1] He is a Professor of the Latin language and literature at the Benemérita Universidad Autónoma de Puebla and at the Universidad Popular Autónoma del Estado de Puebla.

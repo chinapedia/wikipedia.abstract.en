@@ -1,1 +1,0 @@
-GLEN STACE is a Canadian pop and rock singer and songwriter, most prominent in the early 1990s.[1] He is most noted for garnering a Juno Award nomination for Most Promising Male Vocalist at the Juno Awards of 1992.[2]

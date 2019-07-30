@@ -1,1 +1,0 @@
-BISMABENZENE (C₅H₅Bi) is the parent representative of a group of organobismuth compounds that are related to benzene with a carbon atom replaced by a bismuth atom. Bismabenzene itself has been synthesised but not isolated because it is too reactive.[1][2]

@@ -1,1 +1,0 @@
-"CATCH 22" is a song by Australian rapper Illy featuring English singer, Anne-Marie. The song was released on 10 October 2016, alongside the announcement of his forthcoming fifth studio album, _Two Degrees_.

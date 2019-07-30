@@ -1,1 +1,0 @@
-EUGENE G. GROVES (18831967) was an American architect of Denver, Colorado. He was responsible for the design of civic and educational facilities throughout Colorado over a career spanning five decades.[1][2]

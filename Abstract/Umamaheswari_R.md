@@ -1,1 +1,0 @@
-UMAMAHESWARI R is an Indian dubbing artiste.She made her debut with Kalavani for heroine voices.[1] She is currently working in Tamil, Malayalam and Telugu Industry and has dubbed more than fifty Tamil feature films.[2][3]

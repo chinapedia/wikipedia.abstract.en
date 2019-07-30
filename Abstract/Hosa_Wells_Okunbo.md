@@ -1,1 +1,0 @@
-IDAHOSA (HOSA) WELLS OKUNBO (born 7 January 1958) is a Nigerian business magnate, investor, philanthropist and trained commercial pilot. He serves as either chairman or director on numerous company boards in Nigeria, spanning multiple business sectors such as the agro-allied, petroleum, telecommunications, power, real estate and banking industries.[1]

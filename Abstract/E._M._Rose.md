@@ -1,1 +1,0 @@
-E. M. ROSE (born 1959) is a historian of medieval and early modern England and a journalist, and the inaugural Visiting Scholar in the Program in Medieval Studies[1] at Harvard University, best known for the book _The Murder of William of Norwich_. Rose worked as a producer at CNN for a decade prior to beginning her career as a historian. She is the mother of four children.[2]

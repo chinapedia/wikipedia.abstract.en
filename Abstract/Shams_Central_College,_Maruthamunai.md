@@ -1,1 +1,0 @@
-SHAMS CENTRAL COLLEGE is a public school located in Maruthamunai, Eastern Province, Sri Lanka. The school provides both primary and secondary education from Grade 6 to Advanced Level, all streams including Arts, Commerce, Bio, Maths and Technical Streams.

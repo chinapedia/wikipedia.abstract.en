@@ -1,1 +1,0 @@
-_PERSON OF INTEREST: SEASON 2_ is the second soundtrack of the American television series Person of Interest, composed by Ramin Djawadi, bringing together music used for the second season. Released in January 2014, the album includes twenty-three music composed specially for seasons 2 of Person of Interest.

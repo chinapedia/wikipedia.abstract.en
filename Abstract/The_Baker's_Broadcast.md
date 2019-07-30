@@ -1,1 +1,0 @@
-_THE BAKER'S BROADCAST_ is the name applied to three old-time radio variety programs in the United States. The first one went on the air October 8, 1933; the third one's last broadcast was June 26, 1938. The name applied to all three apparently was derived from Fleischmann's Yeast, which sponsored all three programs.[1]

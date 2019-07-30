@@ -1,1 +1,0 @@
-BOURNEMOUTH TRACTION AND ROLLING STOCK MAINTENANCE DEPOT is a traction maintenance depot located in Bournemouth, South West England. The depot is situated on a spur of the South Western Main Line and is to the east of Branksome station.[1]

@@ -1,1 +1,0 @@
-Milgram_experiment_v2.svg. The subject is led to believe that for each wrong answer, the learner was receiving actual electric shocks, though in reality there were no such punishments. Being separated from the subject, the confederate set up a tape recorder integrated with the electro-shock generator, which played pre-recorded sounds for each shock level.[1]]]

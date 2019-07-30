@@ -1,1 +1,0 @@
-RINGGOLD WILMER "RING" LARDNER (March 5, 1885[1] – September 25, 1933) was an American sports columnist and short-story writer best known for his satirical writings on sports, marriage, and the theatre. His contemporaries Ernest Hemingway, Virginia Woolf, and F. Scott Fitzgerald all professed strong admiration for his writing.

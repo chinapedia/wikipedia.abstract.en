@@ -1,1 +1,0 @@
-'''Rita Wanki Awachwi ''' (born 6 January 1994) is a Cameroonian women's international footballer who plays as a defender. She is a member of the Cameroon women's national football team. She was part of the team at the 2015 FIFA Women's World Cup. On club level she plays for Locomotive Yaoundé in Cameroon.[1]

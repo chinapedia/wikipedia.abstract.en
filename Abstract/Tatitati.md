@@ -1,1 +1,0 @@
-Map_Victoria_Aboriginal_tribes_(colourmap).jpg The DADI DADI or TATITATI are an Australian Aboriginal tribe whose traditional lands are located along the southern banks of the Murray River in Victoria Australia.

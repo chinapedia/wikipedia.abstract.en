@@ -1,1 +1,0 @@
-ACF FIORENTINA YOUTH SECTOR () comprises the under-19 team and the academy of Italian professional football club ACF Fiorentina. The club currently plays in the Campionato Primavera 1, which they have won three times, and the Supercoppa Primavera once. The club also participates in the annual Torneo di Viareggio, an international tournament of which they have won eight times.

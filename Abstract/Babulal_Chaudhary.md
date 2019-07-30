@@ -1,1 +1,0 @@
-CHAUDHARY BABULAL (born 2 July 1948) is an Indian Bharatiya Janata Party politician. He was the Member of Parliament (MP) for the Fatehpur Sikri (Agra, Uttar Pradesh) constituency of 16th Lok Sabha.[1] He is one of the most prominent Jat leaders of western Uttar Pradesh for more than three decades.

@@ -1,1 +1,0 @@
-DR. GANGADHAR ADHIKARI (1898 – 1981)[1] was a prominent Marxist theoretician and prolific writer.[2] He was a chemical scientist who earned his Ph.D. degree in Berlin in 1927. He worked with some of the best scientists, attending lectures by Max Planck and Albert Einstein.[3]

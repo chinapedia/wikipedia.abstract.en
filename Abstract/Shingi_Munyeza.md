@@ -1,1 +1,0 @@
-DR. SHINGI MUNYEZA (born 17 September 1966, Mazowe) is a Zimbabwean businessman. He was the head of the Zimbabwean hotel chain, African Sun. He stepped down in 2015 to pursue personal interests as part of his calling as a marketplace apostle in advancing the kingdom of God.

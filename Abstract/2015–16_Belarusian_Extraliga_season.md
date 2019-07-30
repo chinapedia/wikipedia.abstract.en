@@ -1,1 +1,0 @@
-The 2015–16 BELARUSIAN EXTRALIGA SEASON was the 24th season of the Belarusian Extraliga, the top level of ice hockey in Belarus. Twelve teams participated in the league this season. Yunost Minsk won both the regular season and the playoffs.[1]

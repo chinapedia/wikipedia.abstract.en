@@ -1,1 +1,0 @@
-The STIMULUS–RESPONSE MODEL is a characterization of a statistical unit (such as a neuron). The model allows the prediciton of a quantitative response to a quantitative stimulus, for example one administered by a researcher. In psychology, stimulus response theory concerns forms of classical conditioning in which a stimulus becomes paired response in a subject's mind.[1]

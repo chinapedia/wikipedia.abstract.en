@@ -1,1 +1,0 @@
-STONES TOWN is a village in the Rural District in the Western Area of Sierra Leone. Stones Town is about seventeen miles east of Freetown. The main economic activities in Stones Towns are farming and fishing.

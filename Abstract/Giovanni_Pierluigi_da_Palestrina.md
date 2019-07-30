@@ -1,1 +1,0 @@
-Giovanni_Pierluigi_da_Palestrina.jpg

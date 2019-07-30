@@ -1,1 +1,0 @@
-_A FIRE UPON THE DEEP_ is a 1992 science fiction novel by American writer Vernor Vinge, a space opera involving superhuman intelligences, aliens, variable physics, space battles, love, betrayal, genocide, and a conversation medium resembling Usenet. _A Fire Upon the Deep_ won the Hugo Award in 1993, sharing it with _Doomsday Book_ by Connie Willis.[1]

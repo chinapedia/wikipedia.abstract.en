@@ -1,5 +1,3 @@
-Sambuca_1l.jpg
-
 SAMBUCA () is an Italian anise-flavoured, usually colourless, liqueur. Its most common variety is often referred to as _white sambuca_ to differentiate it from other varieties that are deep blue in colour (_black sambuca_) or bright red (_red sambuca_).[1] Like other anise-flavoured liqueurs, the ouzo effect is sometimes observed when combined with water.
 
 

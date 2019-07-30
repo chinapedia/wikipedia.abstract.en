@@ -1,1 +1,0 @@
-GUJRANWALA GURU NANAK KHALSA COLLEGE (GGNKCL) is a college of the Panjab University, Chandigarh located in the city of Ludhiana. Running in the centennial (100) year of serving humanity with its educational services, it offers undergraduate and post-graduate degrees courses in various fields.

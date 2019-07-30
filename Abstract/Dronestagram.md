@@ -1,1 +1,0 @@
-DRONESTAGRAM is a photo sharing community dedicated to drone photography. The site that has been described as "Instagram for drones", allows hobbyists to share their geo-referenced aerial photos and videos .[1] The site launched in July 2013 by Eric Dupin and is owned by his company Dronescape.[2][3] The project is based in Lyon, France. There is also an dronestagram iOS app.[4]

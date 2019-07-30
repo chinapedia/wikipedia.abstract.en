@@ -1,1 +1,0 @@
-| goals2 = 0 | nationalyears1 = 1984–1991 | nationalteam1 = Cyprus | nationalcaps1 = 16 | nationalgoals1 = 0 | manageryears1 = 2000–2007 | managerclubs1 = Omonia (goalkeeping coach) | pcupdate = | ntupdate = }}

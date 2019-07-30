@@ -1,1 +1,0 @@
-KEHAR SINGH BASNYAT () or KEHAR SINGH BASNET was a Nepalese military commander and warhero who led down his life in the Unification battles of Nepal. He was born in the illustrious clan of Shreepali Basnyats - member of Kshettriya (warrior) class.

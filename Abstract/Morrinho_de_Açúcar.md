@@ -1,1 +1,0 @@
-MORRINHO DE AÇÚCAR (Portuguese meaning "sugar hill") is a small hill in the northern part of the island of Sal in Cape Verde. It is situated 1 km from the north coast and 8 km north of the island capital Espargos. It is a remnant of a volcanic phonolitic chimney, surrounded by a vast plain. It is protected as a _natural monument_.[1]

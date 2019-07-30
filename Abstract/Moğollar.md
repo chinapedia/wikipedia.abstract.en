@@ -1,1 +1,0 @@
-MOĞOLLAR (_Mongols_ in Turkish) is one of the pioneer bands in Turkish rock music for about 40 years and one of the founders of Turkish folk rock (or Anatolian rock). The major goal of the band is to prove that folk music has a multi-layered soul and folk music's dynamism is very close to pop music's dynamism.[1]

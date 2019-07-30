@@ -1,1 +1,0 @@
-The MONTANHAS DE TERESÓPOLIS MUNICIPAL NATURE PARK () is a municipal nature park in the state of Rio de Janeiro, Brazil. It protects an area of Atlantic Forest. The area has been badly degraded in some areas by human activity before the park was created, but efforts are being made to restore the former ecology.

@@ -1,1 +1,0 @@
-HARRY MEADE (born 4 July 1983) is a British eventing rider.[1] Representing Great Britain, he competed at the 2014 World Equestrian Games in Normandy, France, where he won a team silver medal. In 2004 he was shortlisted for the Young Rider European Championships with the horse Midnight Dazzler. [2]

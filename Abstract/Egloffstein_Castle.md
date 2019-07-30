@@ -1,1 +1,0 @@
-EGLOFFSTEIN CASTLE () is a former high mediaeval, aristocratic castle, that stands immediately west of the eponymous village of Egloffstein in the Upper Franconian county of Forchheim in the German state of Bavaria.

@@ -1,1 +1,0 @@
-prog_one.png program, _Lichess_, showing artificial intelligence programming– if the white bishop at b3 moves to a2, capturing the black knight, then the black pawn at b1 is programmed to capture the bishop back. Black has just moved a pawn to c2. ]]

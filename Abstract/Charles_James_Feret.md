@@ -1,1 +1,0 @@
-Edith_Road_-_geograph.org.uk_-_655302.jpg', where the Féret family lived at no. 49 (bombed in The Blitz and replaced by flats).]] CHARLES JAMES FÉRET (born 1854 in Clerkenwell, died 1921 in Margate) was a newspaper editor and writer. He is known among historians of London as the author of an exhaustive three volume history of Fulham, published in 1900.[1]

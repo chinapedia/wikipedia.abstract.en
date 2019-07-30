@@ -1,1 +1,0 @@
-1964 BOLIVIAN COUP D'ÉTAT in Bolivia was a coup under the leadership of Vice-president René Barrientos and Bolivian Army commander-in-chief Alfredo Ovando Candía against the President Víctor Paz Estenssoro, leader of the Bolivian National Revolution of 1952, who recently had been re-elected for his third term in office.

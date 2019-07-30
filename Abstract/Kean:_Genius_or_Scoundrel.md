@@ -1,1 +1,0 @@
-_KEAN: GENIUS OR SCOUNDREL_ () is a 1956 Italian biographical drama film co-written and directed by Vittorio Gassman. A dramatization of the life of Edmund Kean, it is based on the 1836 drama play _Kean_ of Alexandre Dumas and on its 1953 adaptation with the same name by Jean-Paul Sartre.[1][2]

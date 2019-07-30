@@ -1,1 +1,0 @@
-This article is about the DEMOGRAPHIC features of the population of AMERICAN SAMOA, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. Samoa_American_Demo.png, year 2005.]]

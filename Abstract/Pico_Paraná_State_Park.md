@@ -1,1 +1,0 @@
-The PICO PARANÁ STATE PARK () is a state park in the state of Paraná, Brazil. It protects a well-preserved area of Atlantic Forest, and contains a massif that includes the highest peak in the south of Brazil. The environment is strictly protected, but visitors in good physical condition may climb the massif.

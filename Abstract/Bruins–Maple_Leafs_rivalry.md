@@ -1,1 +1,0 @@
-The BRUINS–MAPLE LEAFS RIVALRY is a National Hockey League (NHL) rivalry between the Boston Bruins and the Toronto Maple Leafs. The teams both compete in the Atlantic Division and with current NHL scheduling, they meet four times per season.

@@ -1,1 +1,0 @@
-The Oman cricket team toured the United Arab Emirates to play the United Arab Emirates cricket team in October 2016. The tour consisted of three List A cricket matches.[1] Former England cricketer Owais Shah was the coaching consultant for the UAE during the tournament, and was given a three-month contract following the conclusion of the fixtures.[2]

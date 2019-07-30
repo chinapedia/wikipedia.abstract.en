@@ -7,7 +7,7 @@ Fur is dense hair.[8] Primarily, fur augments the insulation the skin provides b
 
 Structure in humans and other mammals
 
-HautFingerspitzeOCT_nonanimated.gif'')
+'')
 Optical coherence tomogram of fingertip, depicting stratum corneum (~500 µm thick) with stratum disjunctum on top and stratum lucidum (connection to stratum spinosum) in the middle. At the bottom superficial parts of the dermis. Sweatducts are clearly visible.]] Mammalian skin is composed of two primary layers:
 
 -   the _epidermis_, which provides waterproofing and serves as a barrier to infection; and
@@ -74,7 +74,7 @@ _See also: amphibians_
 
 Overview
 
-Amphibians possess two types of glands, mucous and granular (serous). Both of these glands are part of the integument and thus considered cutaneous. Mucous and granular glands are both divided into three different sections which all connect to structure the gland as a whole. The three individual parts of the gland are the duct, the intercalary region, and lastly the alveolar gland (sac). Structurally, the duct is derived via keratinocytes and passes through to the surface of the epidermal or outer skin layer thus allowing external secretions of the body. The gland alveolus is a sac shaped structure which is found on the bottom or base region of the granular gland. The cells in this sac specialize in secretion. Between the alveolar gland and the duct is the intercalary system which can be summed up as a transitional region connecting the duct to the grand alveolar beneath the epidermal skin layer. In general, granular glands are larger in size than the mucous glands, however mucous glands hold a much greater majority in overall number.[19] FrogSkin.png
+Amphibians possess two types of glands, mucous and granular (serous). Both of these glands are part of the integument and thus considered cutaneous. Mucous and granular glands are both divided into three different sections which all connect to structure the gland as a whole. The three individual parts of the gland are the duct, the intercalary region, and lastly the alveolar gland (sac). Structurally, the duct is derived via keratinocytes and passes through to the surface of the epidermal or outer skin layer thus allowing external secretions of the body. The gland alveolus is a sac shaped structure which is found on the bottom or base region of the granular gland. The cells in this sac specialize in secretion. Between the alveolar gland and the duct is the intercalary system which can be summed up as a transitional region connecting the duct to the grand alveolar beneath the epidermal skin layer. In general, granular glands are larger in size than the mucous glands, however mucous glands hold a much greater majority in overall number.[19]
 
 Granular Glands
 

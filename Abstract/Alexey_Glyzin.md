@@ -1,1 +1,0 @@
-ALEXEY SERGEEVICH GLYZIN (; born January 13, 1954, Mytischi) is a Soviet and Russian pop singer and actor. He has received various awards, including Honored Artist of Russia (2006),[1] and the Chanson of the Year award (2016).

@@ -1,1 +1,0 @@
-TEUKU MOHAMMAD HAMZAH THAYEB (born 31 May 1952) is an Indonesian diplomat. He was Ambassador of Indonesia to Australia between 2005 and 2008 and Ambassador of Indonesia to the UK between 2013 and 2016.

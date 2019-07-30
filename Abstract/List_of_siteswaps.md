@@ -1,1 +1,0 @@
-Siteswap_relative_visualized.png Passing_5jugglers_15balls_4beats_Star_top.gif

@@ -17,7 +17,7 @@ Shrikes are medium-sized birds, up to in length, with grey, brown, or black and 
 
 Behaviour
 
-butchbirdprey.jpg presumably caught and impaled by a shrike]]
+presumably caught and impaled by a shrike]]
 
 Shrikes are known for their habit of catching insects and small vertebrates and impaling their bodies on thorns, the spikes on barbed-wire fences, or any available sharp point. This helps them to tear the flesh into smaller, more conveniently sized fragments, and serves as a cache so that the shrike can return to the uneaten portions at a later time.[4] This same behaviour of impaling insects serves as an adaptation to eating the toxic lubber grasshopper, _Romalea microptera_. The bird waits for 1–2 days for the toxins within the grasshopper to degrade, then they can eat it.[5]
 
@@ -32,52 +32,52 @@ The shrikes are generally monogamous breeders, although polygyny has been record
 
 Species in taxonomic order
 
-Shrike_prey_lizard.jpg impaled on thorns by a southern grey shrike, _Lanius meridionalis_, Lanzarote]] The family Laniidae was introduced (as Lanidia) by the French polymath Constantine Samuel Rafinesque in 1815.[9][10]
+impaled on thorns by a southern grey shrike, _Lanius meridionalis_, Lanzarote]] The family Laniidae was introduced (as Lanidia) by the French polymath Constantine Samuel Rafinesque in 1815.[9][10]
 
 FAMILY: LANIIDAE[11]
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-------------------------------------------------------------------+
-| Image                                                                                                                                                        | Genus          | Living Species                                                    |
-+==============================================================================================================================================================+================+===================================================================+
-| Loggerhead_Shrike_florida_RWD6.jpg                                                                                                                           | _LANIUS_       | -   Tiger shrike, _Lanius tigrinus_                               |
-|                                                                                                                                                              |                | -   Souza's shrike, _Lanius souzae_                               |
-|                                                                                                                                                              |                | -   Bull-headed shrike, _Lanius bucephalus_                       |
-|                                                                                                                                                              |                | -   Brown shrike, _Lanius cristatus_                              |
-|                                                                                                                                                              |                | -   Red-backed shrike, _Lanius collurio_                          |
-|                                                                                                                                                              |                | -   Isabelline shrike, _Lanius isabellinus_                       |
-|                                                                                                                                                              |                | -   Red-tailed shrike, _Lanius phoenicuroides_                    |
-|                                                                                                                                                              |                | -   Burmese shrike, _Lanius collurioides_                         |
-|                                                                                                                                                              |                | -   Emin's shrike, _Lanius gubernator_                            |
-|                                                                                                                                                              |                | -   Bay-backed shrike, _Lanius vittatus_                          |
-|                                                                                                                                                              |                | -   Long-tailed shrike, _Lanius schach_                           |
-|                                                                                                                                                              |                | -   Grey-backed shrike, _Lanius tephronotus_                      |
-|                                                                                                                                                              |                | -   Mountain shrike or grey-capped shrike, _Lanius validirostris_ |
-|                                                                                                                                                              |                | -   Mackinnon's shrike, _Lanius mackinnoni_                       |
-|                                                                                                                                                              |                | -   Lesser grey shrike, _Lanius minor_                            |
-|                                                                                                                                                              |                | -   Loggerhead shrike, _Lanius ludovicianus_                      |
-|                                                                                                                                                              |                | -   Northern shrike, _Lanius borealis_                            |
-|                                                                                                                                                              |                | -   Great grey shrike or northern shrike, _Lanius excubitor_      |
-|                                                                                                                                                              |                | -   Iberian grey shrike, _Lanius meridionalis_                    |
-|                                                                                                                                                              |                | -   Steppe grey shrike, _Lanius pallidirostris_                   |
-|                                                                                                                                                              |                | -   Chinese grey shrike, _Lanius sphenocercus_                    |
-|                                                                                                                                                              |                | -   Grey-backed fiscal, _Lanius excubitoroides_                   |
-|                                                                                                                                                              |                | -   Long-tailed fiscal, _Lanius cabanisi_                         |
-|                                                                                                                                                              |                | -   Taita fiscal, _Lanius dorsalis_                               |
-|                                                                                                                                                              |                | -   Somali fiscal, _Lanius somalicus_                             |
-|                                                                                                                                                              |                | -   Northern fiscal, _Lanius humeralis_                           |
-|                                                                                                                                                              |                | -   Southern fiscal, _Lanius collaris_                            |
-|                                                                                                                                                              |                |     -   Uhehe fiscal, _Lanius collaris marwitzi_                  |
-|                                                                                                                                                              |                | -   São Tomé fiscal, _Lanius newtoni_                             |
-|                                                                                                                                                              |                | -   Woodchat shrike, _Lanius senator_                             |
-|                                                                                                                                                              |                | -   Masked shrike, _Lanius nubicus_                               |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-------------------------------------------------------------------+
-| Yellow-billed_shrike_(Corvinella_corvina_corvina).jpg                                                                                                        | _CORVINELLA_   | -   Yellow-billed shrike, _Corvinella corvina_                    |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-------------------------------------------------------------------+
-| Southern_White-crowned_Shrike,_Eurocephalus_anguitimens,_gleaning_ants_from_the_early_morning_soil_at_Marakele_National_Park,_South_Africa_(13952312157).jpg | _EUROCEPHALUS_ | -   Northern white-crowned shrike, _Eurocephalus ruppelli_        |
-|                                                                                                                                                              |                | -   Southern white-crowned shrike, _Eurocephalus anguitimens_     |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-------------------------------------------------------------------+
-|                                                                                                                                                              |                |                                                                   |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-------------------------------------------------------------------+
++-------+----------------+-------------------------------------------------------------------+
+| Image | Genus          | Living Species                                                    |
++=======+================+===================================================================+
+|       | _LANIUS_       | -   Tiger shrike, _Lanius tigrinus_                               |
+|       |                | -   Souza's shrike, _Lanius souzae_                               |
+|       |                | -   Bull-headed shrike, _Lanius bucephalus_                       |
+|       |                | -   Brown shrike, _Lanius cristatus_                              |
+|       |                | -   Red-backed shrike, _Lanius collurio_                          |
+|       |                | -   Isabelline shrike, _Lanius isabellinus_                       |
+|       |                | -   Red-tailed shrike, _Lanius phoenicuroides_                    |
+|       |                | -   Burmese shrike, _Lanius collurioides_                         |
+|       |                | -   Emin's shrike, _Lanius gubernator_                            |
+|       |                | -   Bay-backed shrike, _Lanius vittatus_                          |
+|       |                | -   Long-tailed shrike, _Lanius schach_                           |
+|       |                | -   Grey-backed shrike, _Lanius tephronotus_                      |
+|       |                | -   Mountain shrike or grey-capped shrike, _Lanius validirostris_ |
+|       |                | -   Mackinnon's shrike, _Lanius mackinnoni_                       |
+|       |                | -   Lesser grey shrike, _Lanius minor_                            |
+|       |                | -   Loggerhead shrike, _Lanius ludovicianus_                      |
+|       |                | -   Northern shrike, _Lanius borealis_                            |
+|       |                | -   Great grey shrike or northern shrike, _Lanius excubitor_      |
+|       |                | -   Iberian grey shrike, _Lanius meridionalis_                    |
+|       |                | -   Steppe grey shrike, _Lanius pallidirostris_                   |
+|       |                | -   Chinese grey shrike, _Lanius sphenocercus_                    |
+|       |                | -   Grey-backed fiscal, _Lanius excubitoroides_                   |
+|       |                | -   Long-tailed fiscal, _Lanius cabanisi_                         |
+|       |                | -   Taita fiscal, _Lanius dorsalis_                               |
+|       |                | -   Somali fiscal, _Lanius somalicus_                             |
+|       |                | -   Northern fiscal, _Lanius humeralis_                           |
+|       |                | -   Southern fiscal, _Lanius collaris_                            |
+|       |                |     -   Uhehe fiscal, _Lanius collaris marwitzi_                  |
+|       |                | -   São Tomé fiscal, _Lanius newtoni_                             |
+|       |                | -   Woodchat shrike, _Lanius senator_                             |
+|       |                | -   Masked shrike, _Lanius nubicus_                               |
++-------+----------------+-------------------------------------------------------------------+
+|       | _CORVINELLA_   | -   Yellow-billed shrike, _Corvinella corvina_                    |
++-------+----------------+-------------------------------------------------------------------+
+|       | _EUROCEPHALUS_ | -   Northern white-crowned shrike, _Eurocephalus ruppelli_        |
+|       |                | -   Southern white-crowned shrike, _Eurocephalus anguitimens_     |
++-------+----------------+-------------------------------------------------------------------+
+|       |                |                                                                   |
++-------+----------------+-------------------------------------------------------------------+
 
 Birds with similar names
 

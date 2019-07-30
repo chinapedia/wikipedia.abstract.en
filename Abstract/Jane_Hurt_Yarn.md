@@ -1,1 +1,0 @@
-JANE HURT YARN (October 15, 1924 – October 18, 1995) was an American conservationist and environmentalist. She became interested in the environment in 1967, and focused on protecting Georgia's coastal islands, barrier islands and marshes. Yarn was the recipient of several awards, including induction into the Georgia Women of Achievement in 2009.

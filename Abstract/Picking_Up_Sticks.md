@@ -1,1 +1,0 @@
-|{{#property:P826}}]] |era=Playford |choreographer={{#property:P1809}} |year={{#property:P577}} |published_in=_The Dancing Master_, 1st edition |music_title=Lavena |music_collector=Cecil Sharp |music_year=1909 |music_published_in=Country Dance Tunes }}

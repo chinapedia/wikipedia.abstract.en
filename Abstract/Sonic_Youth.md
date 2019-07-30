@@ -1,1 +1,0 @@
-SONIC YOUTH was an American rock band based in New York City, formed in 1981. Founding members Thurston Moore (guitar, vocals), Kim Gordon (bass, vocals, guitar) and Lee Ranaldo (guitar, vocals) remained together for the entire history of the band, while Steve Shelley (drums) followed a series of short-term drummers in 1985, and rounded out the core line-up.

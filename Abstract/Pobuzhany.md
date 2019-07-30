@@ -1,1 +1,0 @@
-POBUZHANY () is a village (selo), which is located in Busk Raion, Lviv Oblast of Western Ukraine. It is a small village, which has an area of 4.4 km². The population of the village is about 1040 people [1] and Local government is administered by Pobuzhanska village council. [2]

@@ -1,1 +1,0 @@
-The CENTRE FOR CHRISTIAN MEDITATION AND SPIRITUALITY (German: _ZENTRUM FÜR CHRISTLICHE MEDITATION UND SPIRITUALITÄT_) is an institution of the Diocese of Limburg, Germany. It is based at the Holy Cross Church in Frankfurt-Bornheim and is dedicated to services, contemplation, meditation, retreats, counseling, and other events such as concerts.

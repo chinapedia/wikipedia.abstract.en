@@ -1,1 +1,0 @@
-Khama|Pentti Kahma}}

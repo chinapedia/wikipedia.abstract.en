@@ -1,1 +1,0 @@
-BettinaRiddlevonHutten.tif BETTINA RIDDLE (February 14, 1874 – January 26, 1957), also known as BETSEY RIDDLE, and later as BARONESS VON HUTTEN, was an American-born novelist, specializing in historical fiction. As an American in England during World War I, she was arrested and fined as an enemy alien, because she had a German ex-husband.

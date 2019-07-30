@@ -1,1 +1,0 @@
-FREDERICK DOUGLASS HIGH SCHOOL is a secondary school located at 2000 Winchester Road on the eastern side of Lexington, Kentucky, US. The school is one of six high schools in the Fayette County Public Schools district and was constructed to reduce overcrowding at Bryan Station High School and Henry Clay High School.[1]

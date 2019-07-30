@@ -1,1 +1,0 @@
-MULAKUPPADAM FILMS is an Indian film production and distribution company founded by businessman Tomichan Mulakuppadam. Formed in 2007, head office of Mulakuppadam Films is situated in Kochi, Kerala.[1]

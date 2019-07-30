@@ -1,1 +1,0 @@
-Gyroscope_precession.gif]]

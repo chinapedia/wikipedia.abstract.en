@@ -1,1 +1,0 @@
-THE PERFECT WORLD FOUNDATION (TPWF) is an international non-governmental organization founded in 2010, with the aims of animal and nature preservation and conservation. The organisation was founded by Ragnhild Jacobsson and Lars Valentin Jacobsson.[1][2][3]

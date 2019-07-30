@@ -1,1 +1,0 @@
-_ALGORITHMS_ is a monthly peer-reviewed open-access scientific journal of mathematics, covering design, analysis, and experiments on algorithms. The journal is published by MDPI and was established in 2008. The founding editor-in-chief was Kazuo Iwama.[1] Its current editor-in-chief is Henning Fernau (University of Trier).

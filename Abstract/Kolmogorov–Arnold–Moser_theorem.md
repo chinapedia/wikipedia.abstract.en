@@ -1,1 +1,0 @@
-The KOLMOGOROV–ARNOLD–MOSER (KAM) THEOREM is a result in dynamical systems about the persistence of quasiperiodic motions under small perturbations. The theorem partly resolves the small-divisor problem that arises in the perturbation theory of classical mechanics.

@@ -1,1 +1,0 @@
-The COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES APPROPRIATIONS ACT, 2016 is the appropriations bill for the Department of Commerce, Department of Justice, NASA, the National Science Foundation, the Office of Science and Technology Policy, and several independent agencies for the fiscal year 2016.

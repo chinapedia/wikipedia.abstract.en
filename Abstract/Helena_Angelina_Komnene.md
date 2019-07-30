@@ -1,1 +1,0 @@
-HELENA ANGELINA KOMNENE () was a daughter of the Greek _sebastokrator_ John I Doukas, ruler of Thessaly in ca. 1268–1289, and a Greek princess of Aromanian Greek origin, known only by her monastic name, Hypomone.

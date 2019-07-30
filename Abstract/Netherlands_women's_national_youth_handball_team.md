@@ -1,1 +1,0 @@
-The NETHERLANDS WOMEN'S YOUTH NATIONAL HANDBALL TEAM is the national under–17 Handball team of the Netherlands. Controlled by the Netherlands Handball Association it represents the country in international matches.

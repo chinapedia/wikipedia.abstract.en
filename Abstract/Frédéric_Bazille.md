@@ -1,1 +1,0 @@
-JEAN FRÉDÉRIC BAZILLE (December 6, 1841 – November 28, 1870) was a French Impressionist painter. Many of Bazille's major works are examples of figure painting in which he placed the subject figure within a landscape painted _en plein air_.[1]

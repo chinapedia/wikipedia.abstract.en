@@ -1,1 +1,0 @@
-_SONGS FOR THE LIVING_ is the fourth album by the Christian metal band Embodyment. The album was the biggest departure from the band's original Death metal/deathcore sound, the album being more of an Alternative metal.

@@ -1,1 +1,0 @@
-, also referred to as _JAPANESE SPIDER-MAN_, is a 1978[1] film based on the Marvel Comics character Spider-Man and also a spin-off from the Japanese Spider-Man television series. The film was released theatrically in Japan.[2]

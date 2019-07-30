@@ -1,1 +1,0 @@
-_AN ADVENTURE IN SOUND: REEDS IN HI-FI_ (also released as _AN ADVENTURE IN SOUND - REEDS_) is an album by composer, arranger and conductor Pete Rugolo featuring performances recorded in 1956 and first released on the Mercury label in 1958.[1][2][3][4]

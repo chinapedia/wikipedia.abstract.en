@@ -1,1 +1,0 @@
-JOE DUARTE (born November 29, 1941) is a former Republican member of the New Hampshire House of Representatives, from Candia. Duarte was born in Viana do Castelo, Portugal.[1] He unsuccessfully ran for the New Hampshire Senate in the 2016 elections. Duarte has nine grandchildren.[2]

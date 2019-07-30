@@ -1,1 +1,0 @@
-"MONSTER" is a song recorded by South Korean boy band Exo for their third studio album _Ex'Act_. It was released in Korean and Chinese versions by SM Entertainment on June 9, 2016 as the second single for the album.

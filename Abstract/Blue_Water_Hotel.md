@@ -1,1 +1,0 @@
-BLUE WATER HOTEL is a 5-star boutique hotel in Wadduwa, Sri Lanka. It is notable for being Geoffrey Bawa’s last hotel project and the last project he supervised on site before succumbing to illness.[1]

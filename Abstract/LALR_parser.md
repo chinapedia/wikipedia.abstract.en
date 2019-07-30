@@ -1,1 +1,0 @@
-In computer science, an LALR PARSER or LOOK-AHEAD LR PARSER is a simplified version of a canonical LR parser, to parse (separate and analyze) a text according to a set of production rules specified by a formal grammar for a computer language. ("LR" means left-to-right, rightmost derivation.)

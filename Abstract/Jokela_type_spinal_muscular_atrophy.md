@@ -1,1 +1,0 @@
-upright=0.5.]] JOKELA TYPE SPINAL MUSCULAR ATROPHY (SMAJ), also known as LATE-ONSET SPINAL MOTOR NEURONOPATHY (LOSMON), is a slowly progressing neuromuscular disorder.[1] It is caused by a mutation in the _CHCHD10_ gene[2] and is inherited in an autosomal dominant pattern.[3]

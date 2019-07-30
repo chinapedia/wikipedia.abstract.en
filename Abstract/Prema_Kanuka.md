@@ -1,1 +1,0 @@
-_PREMA KANUKA_ (English: LOVE GIFT) is a 1981 Telugu drama film, produced by Venkat Akkineni, Nagarjuna Akkineni under Annapurna Studios banner[1] and directed by K. Raghavendra Rao.[2] It stars Akkineni Nageswara Rao, Sridevi in the lead roles and music composed by Chakravarthy.[3]

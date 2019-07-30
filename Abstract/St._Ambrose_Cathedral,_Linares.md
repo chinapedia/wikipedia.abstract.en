@@ -1,1 +1,0 @@
-The ST. AMBROSE CATHEDRAL[1] () Also LINARES CATHEDRAL Is a cathedral church of Catholic worship, home of the Diocese of Linares[2] in the Maule Region in Chile.[3] It was built between 1935 and 1937.

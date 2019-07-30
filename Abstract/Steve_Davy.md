@@ -1,1 +1,0 @@
-STEVE DAVY is a British bass guitarist and vocalist, known for being a member of the blues-rock band Steamhammer. He played on the first three Steamhammer albums.[1] Subsequently he left the band[2] and was replaced by Louis Cennamo.[3]

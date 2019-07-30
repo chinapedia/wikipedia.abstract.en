@@ -1,1 +1,0 @@
-This is the LIST OF TOURIST ATTRACTIONS IN KELANTAN, Malaysia.[1][2]

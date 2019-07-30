@@ -1,1 +1,0 @@
-AISHA MUSA AHMAD (;[1] 1905 – 24 February 1974), better known as AISHA AL-FALATIYA (), was a Sudanese singer. Her early career was hindered by prejudice against female performers, but in 1942 she became the first woman to sing on Sudanese radio. Aisha's career continued into the 1960s, and she recorded over 150 songs in total, achieving popularity in both Sudan and Egypt.

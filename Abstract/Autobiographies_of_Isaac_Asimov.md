@@ -1,1 +1,0 @@
-Isaac Asimov (–1992) wrote three volumes of autobiography. _IN MEMORY YET GREEN_ (1979) and _IN JOY STILL FELT_ (1980)[1][2] were a two-volume work, covering his life up to 1978. The third volume, _I ASIMOV: A MEMOIR_ (1994),[3] published after his death, was not a sequel but a new work which covered his whole life. This third book won a Hugo Award.[4]

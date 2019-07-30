@@ -1,1 +1,0 @@
-YANG BIN (born July 10, 1989) is a Chinese Greco-Roman wrestler. He competed in the 75 kg event at the 2016 Summer Olympics and was eliminated in the repechage by Kim Hyeon-woo.[1][2] Yang won one gold and two bronze medals at the Asian championships in 2014–2018. He also won a bronze medal at the 2018 Asian Games.[3]

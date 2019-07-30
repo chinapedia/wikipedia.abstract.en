@@ -1,1 +1,0 @@
-THE CONSTITUTIONAL COURT OF CHILE (_Tribunal Constitucional de Chile_ in Spanish) is Chile's constitutional tribunal. It is not part of the judicial branch and is functionally independent of the Congress and the President.

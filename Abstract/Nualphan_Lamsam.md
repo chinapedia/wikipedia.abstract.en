@@ -1,1 +1,0 @@
-NUALPHAN LAMSAM (; ; born 21 March 1966), also known as MADAME PANG after her nickname, is the President and Chief Executive Officer of Muang Thai Life Assurance,[1] as well as Chairwoman of Port Football Club and general manager of the Thailand women's national football team.[2]

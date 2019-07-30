@@ -1,1 +1,0 @@
-Michelle_Bubenicek.jpg

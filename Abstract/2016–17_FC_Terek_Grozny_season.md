@@ -1,1 +1,0 @@
-The 2016–17 FC TEREK GROZNY SEASON was the 8th successive season that the club will play in the Russian Premier League, the highest tier of association football in Russia, and 7th in total. Terek Grozny finished the season in 5th position, narrowly missing out on the Europa League, whilst they were knocked out of the Russian Cup at the Round of 16 stage by Ufa.

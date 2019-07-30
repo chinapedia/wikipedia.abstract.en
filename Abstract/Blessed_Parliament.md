@@ -1,1 +1,0 @@
-Edward_Phelips.jpg The 1ST PARLIAMENT OF KING JAMES I was summoned by King James I on 31 January 1604 and assembled on 19 March following. It was known as the BLESSED PARLIAMENT and took place in five sessions, interrupted by Holy Days and the Gunpowder Plot. The speaker was Edward Phelips, the Member of Parliament for Somerset.

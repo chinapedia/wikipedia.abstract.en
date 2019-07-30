@@ -1,1 +1,0 @@
-"TEAR UP THIS TOWN" is a 2016 song by English alternative rock band Keane. The song was released as a one-off single to feature on the soundtrack of the 2016 fantasy film _A Monster Calls_, directed by J. A. Bayona (Keane worked with Bayona on the video for their 2012 single "Disconnected"). The song was made available for digital download on 23 September 2016.[1]

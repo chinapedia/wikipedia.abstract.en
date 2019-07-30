@@ -1,1 +1,0 @@
-The RANDWICK CITY HALL is a heritage-listed town hall located in the Sydney suburb of , New South Wales, Australia. Designed by Messrs Blackmann and Parkes in the Victorian Italianate architectural style, the town hall was completed in 1882 at a cost of A£2,300 to serve as the town hall and municipal chamber for the Borough of Randwick.

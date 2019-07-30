@@ -1,1 +1,0 @@
-'''Lotte Bagge ''' (born 21 May 1968) is a Danish footballer who played as a midfielder for the Denmark women's national football team. She was part of the team at the 1991 FIFA Women's World Cup, UEFA Women's Euro 1991 and UEFA Women's Euro 1993. At the club level, she played for B 1909 in Denmark.[1]

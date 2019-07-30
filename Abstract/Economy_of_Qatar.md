@@ -1,1 +1,0 @@
-Qatar_Export_Treemap.png Qatar_Mineral_map.gif resources of Qatar.]] Qatar's economy is one of the richest economies in the world based on GDP per capita, ranking between fifth and seventh on world rankings for 2015 and 2016 data compiled by the World Bank, United Nations, and IMF.[1][2]

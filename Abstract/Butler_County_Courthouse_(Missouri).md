@@ -1,1 +1,0 @@
-BUTLER COUNTY COURTHOUSE is a historic courthouse located at Poplar Bluff, Butler County, Missouri. It was built in 1928, and is a three-story, Classical Revival style brick building of cast concrete construction. Each side is nine bays wide, with the central five bays having two-story engaged Doric order columns and pilasters on the top two floors.[1]

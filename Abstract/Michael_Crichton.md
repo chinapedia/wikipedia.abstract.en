@@ -1,1 +1,0 @@
-JOHN MICHAEL CRICHTON (; October 23, 1942 – November 4, 2008) was an American author, screenwriter, and film director and producer best known for his work in the science fiction, thriller, and medical fiction genres. His books have sold over 200 million copies worldwide, and over a dozen have been adapted into films.

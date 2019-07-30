@@ -1,1 +1,0 @@
-The 2018 UNITED STATES HOUSE OF REPRESENTATIVES ELECTION IN MONTANA was held on November 6, 2018, to elect the U.S. Representative from Montana's at-large congressional district. The election will coincide with other elections to the House of Representatives, elections to the United States Senate and various state and local elections.

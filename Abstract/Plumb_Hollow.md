@@ -1,1 +1,0 @@
-PLUMB HOLLOW or PLUM HOLLOW is a valley in southeastern Ozark County in the Ozarks of south-central Missouri.[1] The source area for the intermittent stream in the valley lies just west of Missouri Route 101 and it flows south parallel to and passes under Route 101.The stream enters Bennetts Bayou just east of Bakersfield.[2]

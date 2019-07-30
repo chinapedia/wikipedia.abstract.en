@@ -1,1 +1,0 @@
-MØRDRUP is a former village and current neighbourhood in the Espergærde district of southern Helsingør, Denmark. Mørdrup has a halt on the Little North railway between Hillerød and Helsingør by way of Fredensborg.

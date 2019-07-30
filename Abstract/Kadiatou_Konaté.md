@@ -1,1 +1,0 @@
-KADIATOU KONATÉ is a Malian film director and screenwriter. Her most notable work is _L'Enfant terrible_, an animated short based on African myths. She has also produced several documentaries, often focusing on the issues of women and children in Mali.

@@ -1,1 +1,0 @@
-BANGOR may refer to:

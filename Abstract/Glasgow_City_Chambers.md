@@ -1,1 +1,0 @@
-Glasgow-George-Square.jpg.]] Glasgow_City_Chambers_Council_Chamber.jpg Scotland_-_Glasgow_City_Chambers_-_20141112102630.jpg Marble Staircase.]] Glasgow_City_Chambers_interior.jpg.]] Glasgow_reception_townhall.JPG

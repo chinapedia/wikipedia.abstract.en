@@ -1,1 +1,0 @@
-_BLACKSTONE PLANTATION_ is an old-time radio musical variety program in the United States. It was broadcast on CBS (1929–1930) and on NBC (1930–1934).[1] The program was one of NBC's top-rated programs in 1932.[2]

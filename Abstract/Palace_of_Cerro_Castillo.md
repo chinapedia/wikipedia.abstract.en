@@ -1,1 +1,0 @@
-The PALACE OF CERRO CASTILLO (Spanish: _Palacio de Cerro Castillo_) is the official country retreat and summer residence of the President of Chile. Constructed in 1929 in the Spanish Colonial Revival style, it is located in Viña del Mar and is a national and municipal historic monument.

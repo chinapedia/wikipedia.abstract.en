@@ -1,1 +1,0 @@
-ABERDOUR (; ,[1] ) is a scenic and historic village on the south coast of Fife, Scotland. It is on the north shore of the Firth of Forth, looking south to the island of Inchcolm and its Abbey, and to Leith and Edinburgh beyond. According to the 2011 census, the village has a population of 1,633.[2]

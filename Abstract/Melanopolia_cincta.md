@@ -1,1 +1,0 @@
-_MELANOPOLIA CINCTA_ is a species of beetle in the family Cerambycidae. It was described by Jordan in 1903. It is known from Equatorial Guinea, Cameroon and Gabon. It contains the varietas _Melanopolia cincta var. maculata_.[1]

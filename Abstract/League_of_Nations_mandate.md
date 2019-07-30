@@ -1,1 +1,0 @@
-League_of_Nations_mandate_Middle_East_and_Africa.png|Lebanon|Palestine|Transjordan|Mesopotamia|British Togoland|French Togoland|British Cameroons|French Cameroun| Ruanda-Urundi|Tanganyika|South West Africa}}

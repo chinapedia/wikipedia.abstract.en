@@ -1,1 +1,0 @@
-In linguistics, the DONOR PRINCIPLE refers primarily to the observance of the original spelling of a loanword from the original ("donor") language. This principle applies in particular to the standardization in the receiver language of exonyms when they are used in publications.[1][2]

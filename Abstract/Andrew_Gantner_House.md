@@ -1,1 +1,0 @@
-ANDREW GANTNER HOUSE is a historic home located at Boonville, Cooper County, Missouri. It was built about 1856, and is a one-story, roughly cut and dressed sandstone block dwelling. It was enlarged by subsequent historic additions, both stone and frame, to a roughly U-shaped plan.[1]

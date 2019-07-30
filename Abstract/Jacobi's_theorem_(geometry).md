@@ -1,1 +1,0 @@
-GeneralisationOfNapoleonPoint.svg

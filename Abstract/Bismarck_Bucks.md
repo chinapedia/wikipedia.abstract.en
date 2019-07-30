@@ -1,1 +1,0 @@
-The BISMARCK BUCKS are an indoor American football team based in Bismarck, North Dakota. The Bucks joined Champions Indoor Football (CIF) as an expansion team in 2016, and began play for the 2017 season.[1] The team moved to the Indoor Football League (IFL) beginning with the 2019 season.[2] The team plays its home games at the Bismarck Event Center in Bismarck.

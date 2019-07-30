@@ -1,1 +1,0 @@
-Janab TAFAZZAL HOSSAIN was an Indian politician.[1] He lived in Naikunda village, Kharba, Malda District.[2] He won the Kharba constituency seat in the 1952 West Bengal Legislative Assembly election, standing as an Indian National Congress candidate.[3]

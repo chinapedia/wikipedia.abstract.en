@@ -1,1 +1,0 @@
-BAJAJ FINANCE LIMITED,[1] a subsidiary of Bajaj Finserv, is an Indian Non-Banking Financial Company (NBFC). The company deals in Consumer Finance, SME (Small and Medium-sized Enterprises) and Commercial Lending, and Wealth Management.

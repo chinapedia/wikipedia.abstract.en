@@ -1,1 +1,0 @@
-CHRIS BUTLER (born 1974)[1] is an English-American storyboard artist, writer and director, known for his works at Laika, such as _ParaNorman_, which was nominated for the Academy Award for Best Animated Feature.[2]

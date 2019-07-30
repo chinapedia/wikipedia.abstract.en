@@ -1,1 +1,0 @@
-The AUSTRALIAN DEMOCRATS is a centrist[1][2] political party in Australia.[3] Founded in 1977 from a merger of the Australia Party and the New Liberal Movement, both of which were descended from Liberal Party splinter group, it was Australia's largest minor party from its formation in 1977 through to 2004 and frequently held the balance of power in the Senate during that time.[4]

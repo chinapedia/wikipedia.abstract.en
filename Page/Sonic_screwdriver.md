@@ -54,7 +54,7 @@ History
 
 1968–1982 and 1996
 
-1st_sonic_screwdriver.jpg'' (1969)]] The sonic screwdriver made its first appearance in the serial _Fury from the Deep_ (1968), written by Victor Pemberton. It was used thereafter by the Second Doctor as a multi-purpose tool, with occasional variations in appearance over the course of the series.
+'' (1969)]] The sonic screwdriver made its first appearance in the serial _Fury from the Deep_ (1968), written by Victor Pemberton. It was used thereafter by the Second Doctor as a multi-purpose tool, with occasional variations in appearance over the course of the series.
 
 Its abilities and overall appearance varied greatly during the classic series. The name implies that it operates through the use of sound waves to exert physical forces on objects remotely. During the Second Doctor's tenure, it functioned much as its name implied—using sonic waves to dismantle equipment or to bypass locks. In addition, it was used as a welding torch in Episode Five of _The Dominators_ (1968). In the audio commentary for _The Sea Devils_ (1972), Michael Briant claims to have suggested it as a one-off gadget in 1968.[2]
 

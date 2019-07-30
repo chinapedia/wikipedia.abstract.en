@@ -2,7 +2,7 @@ TURMERIC (pronounced , also or [1]) is a flowering plant, _Curcuma longa_ of the
 
 The rhizomes are used fresh or boiled in water and dried, after which they are ground into a deep orange-yellow powder commonly used as a coloring and flavoring agent in many Asian cuisines, especially for curries, as well as for dyeing.[3] Turmeric powder has a warm, bitter, black pepper-like flavor and earthy, mustard-like aroma.[4][5]
 
-Although long used in Ayurvedic medicine, where it is also known as _haridra_,[6] no high-quality clinical evidence exists for use of turmeric or its constituent, curcumin, as a therapy.[7][8] Curcuma_longa_-_Köhler–s_Medizinal-Pflanzen-199.jpg
+Although long used in Ayurvedic medicine, where it is also known as _haridra_,[6] no high-quality clinical evidence exists for use of turmeric or its constituent, curcumin, as a therapy.[7][8]
 
 
 History and distribution
@@ -27,8 +27,6 @@ Turmeric is a perennial herbaceous plant that reaches up to tall. Highly branche
 
 Inflorescence, flower, and fruit
 
-Turmeric_Flower_Maharashtra_India.jpg Native_Turmeric_Cooktown.jpg
-
 At the top of the inflorescence, stem bracts are present on which no flowers occur; these are white to green and sometimes tinged reddish-purple, and the upper ends are tapered.[20]
 
 The hermaphrodite flowers are zygomorphic and threefold. The three sepals are long, fused, and white, and have fluffy hairs; the three calyx teeth are unequal. The three bright-yellow petals are fused into a corolla tube up to long. The three corolla lobes have a length of and are triangular with soft-spiny upper ends. While the average corolla lobe is larger than the two lateral, only the median stamen of the inner circle is fertile. The dust bag is spurred at its base. All other stamens are converted to staminodes. The outer staminodes are shorter than the labellum. The labellum is yellowish, with a yellow ribbon in its center and it is obovate, with a length from . Three carpels are under a constant, trilobed ovary adherent, which is sparsely hairy. The fruit capsule opens with three compartments.[21][22][23]
@@ -38,7 +36,7 @@ In East Asia, the flowering time is usually in August. Terminally on the false s
 
 Phytochemistry
 
-curcuminKeto.svg form]] curcumin.svg form]]
+form]] form]]
 
 Turmeric powder is about 60–70% carbohydrates, 6–13% water, 6–8% protein, 5–10% fat, 3–7% dietary minerals, 3–7% essential oils, 2–7% dietary fiber, and 1–6% curcuminoids.[24]
 
@@ -49,7 +47,7 @@ Uses
 
 Culinary
 
-TurmericMyanmar2.jpgs with boiling water in Myanmar.]] TurmericMyanmar3.jpgs in Myanmar.]] Turmeric-powder.jpg ओल्या_हळदीची_भाजी.jpg using turmeric, referred to as _haldi ki Sabzi_, a dish from India]] Ganghwang-bap.jpg'' (turmeric rice)]] Steamed_Goan_rice_and_jaggery_cakes.jpg'' – sweet rice cakes steamed in turmeric leaves consisting of a filling of coconut and coconut palm sugar prepared in Goan Catholic style]]
+s with boiling water in Myanmar.]] s in Myanmar.]] using turmeric, referred to as _haldi ki Sabzi_, a dish from India]] '' (turmeric rice)]] '' – sweet rice cakes steamed in turmeric leaves consisting of a filling of coconut and coconut palm sugar prepared in Goan Catholic style]]
 
 Turmeric is one of the key ingredients in many Asian dishes, imparting a mustard-like, earthy aroma and pungent, slightly bitter flavor to foods.[30][31] It is used mostly in savory dishes, but also is used in some sweet dishes, such as the cake _sfouf_. In India, turmeric leaf is used to prepare special sweet dishes, _patoleo_, by layering rice flour and coconut-jaggery mixture on the leaf, then closing and steaming it in a special utensil (_chondrõ_).[32] Most turmeric is used in the form of rhizome powder to impart a golden yellow color.[33][34] It is used in many products such as canned beverages, baked products, dairy products, ice cream, yogurt, yellow cakes, orange juice, biscuits, popcorn color, cereals, sauces, and gelatin. It is a principal ingredient in curry powders.[35] Although typically used in its dried, powdered form, turmeric also is used fresh, like ginger. It has numerous uses in East Asian recipes, such as pickle that contains large chunks of soft turmeric, made from fresh turmeric.
 
@@ -67,7 +65,7 @@ Turmeric paper, also called curcuma paper or in German literature, _Curcumapapie
 
 Traditional uses
 
-Naturalis_Biodiversity_Center_-_L.0939330_-_Bernecker,_A._-_Curcuma_domestica_Valeton_-_Artwork.jpeg Khandoba_temple_Pune.jpg's newer temple in Jejuri, where devotees shower turmeric powder (_bhandara_) on each other]]
+'s newer temple in Jejuri, where devotees shower turmeric powder (_bhandara_) on each other]]
 
 Turmeric grows wild in the forests of South and Southeast Asia, where it is collected for use in Indian traditional medicine (Siddha or Ayurveda).[45]
 

@@ -1,8 +1,4 @@
-STS040-610-50.jpg, 1991). The sea is the light-colored body of water.]]
-
-Gulf_of_Izmit,_Turkey.JPG
-
-Ebédlőház_-_Rodostó,_2014.10.25_(43).JPG
+, 1991). The sea is the light-colored body of water.]]
 
 The SEA OF MARMARA (; ), also known as the SEA OF MARMORA or the MARMARA SEA, and in the context of classical antiquity as the PROPONTIS is the inland sea, entirely within the borders of Turkey, that connects the Black Sea to the Aegean Sea, thus separating Turkey's Asian and European parts. The Bosphorus strait connects it to the Black Sea and the Dardanelles strait to the Aegean Sea. The former also separates Istanbul into its Asian and European sides. The Sea of Marmara is a small sea with an area of , and dimensions .[1] Its greatest depth is .
 

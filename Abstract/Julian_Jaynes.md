@@ -1,1 +1,0 @@
-JULIAN JAYNES (February 27, 1920 – November 21, 1997) was an American psychologist, best known for his book _The Origin of Consciousness in the Breakdown of the Bicameral Mind_ (1976), in which he argued that ancient peoples were not conscious.

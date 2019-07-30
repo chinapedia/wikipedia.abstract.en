@@ -1,1 +1,0 @@
-Naryshkin-style_church.jpg N.A.Naidenov_(1891)._Views_of_Moscow._42._Petrovsko-Razumovskoe.png OCTAGON ON CUBE (also octagon on the quadrangle) is a type of architectural composition, in which a building is designed so as the upper octagon-shaped part is placed on the lower cube-shaped part.[1] This composition has been mainly used to design Russian orthodox churches.[2][3]

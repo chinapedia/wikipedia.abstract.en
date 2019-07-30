@@ -1,1 +1,0 @@
-PRESTONIA is an unincorporated community in Ozark County, Missouri.[1] The Prestonia site lies on a ridge above East Pidgeon Creek and southwest of Howards Ridge. The Missouri-Arkansas border is about one mile to the south and Norfork Lake is about four miles to the east. Access is from Missouri Route J via county road J529.[2][3]

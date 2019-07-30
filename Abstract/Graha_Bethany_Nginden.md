@@ -1,1 +1,0 @@
-GRAHA BETHANY NGINDEN (also called BETHANY CHURCH OF GOD in English) is an evangelical megachurch affiliated with, in Surabaya, Indonesia. The senior pastor of this community is Aswin Tanuseputra since its founding in 1977. In 2016, the attendance is 50,000 people.

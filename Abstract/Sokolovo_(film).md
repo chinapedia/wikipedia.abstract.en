@@ -1,1 +1,0 @@
-Sokolovo}} _SOKOLOVO_ (Russian title _Соколово_) is a 1974 Soviet–Czechoslovak war film made by Otakar Vávra depicting the Battle of Sokolovo in 1943. The film was published in two parts and was meant as the middle part of Vávra's "war trilogy" consisting of movies Dny zrady, Sokolovo and Osvobození Prahy.[1]

@@ -1,1 +1,0 @@
-BRACKLAND ROUGH is a 10.7 hectare biological Site of Special Scientific Interest in Fordham in Cambridgeshire.[1][2] It is managed by the Wildlife Trust for Bedfordshire, Cambridgeshire and Northamptonshire as FORDHAM WOODS.[3]

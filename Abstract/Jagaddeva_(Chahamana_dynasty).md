@@ -1,1 +1,0 @@
-JAGADDEVA (r. c. 1150) was an Indian king belonging to the Shakambhari Chahamana dynasty. He ruled the Sapadalaksha country, which included parts of present-day Rajasthan in north-western India. He ascended the throne after killing his father Arnoraja, and ruled briefly before being dethroned by his brother Vigraharaja IV.

@@ -1,1 +1,0 @@
-The IMMACULATE CONCEPTION CATHEDRAL[1] () Also CELAYA CATHEDRAL It is the main Catholic building in the city of Celaya[2] in Mexico,[3] occupying at present what was the space of a chapel annexed to the Temple of St. Francis (_Templo de San Francisco_). Because of the size of this last temple, it has come to confuse the Temple of St. Francis with the Cathedral, a common mistake.

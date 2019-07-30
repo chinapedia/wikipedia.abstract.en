@@ -5,11 +5,11 @@ The detailed private diary that Pepys kept from 1660 until 1669 was first publis
 
 Early life
 
-PepysQuarteringTalbot.jpg 1st & 4th: _Sable, on a bend or between two nag's heads erased argent three fleurs-de-lis of the field_ (Pepys[3]); 2nd & 3rd: _Gules, a lion rampant within a bordure engrailed or_ (Talbot[4]). Samuel Pepys was descended from John Pepys who married Elizabeth Talbot, the heiress of Cottenham in Cambridgeshire.[5] The Pepys arms are borne by the Pepys family, Earls of Cottenham[6]]]
+1st & 4th: _Sable, on a bend or between two nag's heads erased argent three fleurs-de-lis of the field_ (Pepys[3]); 2nd & 3rd: _Gules, a lion rampant within a bordure engrailed or_ (Talbot[4]). Samuel Pepys was descended from John Pepys who married Elizabeth Talbot, the heiress of Cottenham in Cambridgeshire.[5] The Pepys arms are borne by the Pepys family, Earls of Cottenham[6]]]
 
 Pepys was born in Salisbury Court, Fleet Street, London[7][8][9] on 23 February 1633, the son of John Pepys (1601–1680), a tailor, and Margaret Pepys (_née_ Kite; died 1667), daughter of a Whitechapel butcher.[10] His great uncle Talbot Pepys was Recorder and briefly Member of Parliament (MP) for Cambridge in 1625. His father's first cousin Sir Richard Pepys was elected MP for Sudbury in 1640, appointed Baron of the Exchequer on 30 May 1654, and appointed Lord Chief Justice of Ireland on 25 September 1655.
 
-Pepys was the fifth of eleven children, but child mortality was high and he was soon the oldest survivor.[11] He was baptised at St Bride's Church on 3 March 1633.[12] Pepys did not spend all of his infancy in London; for a while, he was sent to live with nurse Goody Lawrence at Kingsland, just north of the city.[13] In about 1644, Pepys attended Huntingdon Grammar School before being educated at St Paul's School, London, c. 1646–1650.[14] He attended the execution of Charles I in 1649.[15] Elizabeth_Pepys.jpg, after a 1666 painting (now destroyed) by John Hayls.[16]]] In 1650, he went to the University of Cambridge, having received two exhibitions from St Paul's School (perhaps owing to the influence of Sir George Downing, who was chairman of the judges and for whom he later worked at the Exchequer)[17] and a grant from the Mercers' Company. In October, he was admitted as a sizar to Magdalene College; he moved there in March 1651 and took his Bachelor of Arts degree in 1654.[18][19]
+Pepys was the fifth of eleven children, but child mortality was high and he was soon the oldest survivor.[11] He was baptised at St Bride's Church on 3 March 1633.[12] Pepys did not spend all of his infancy in London; for a while, he was sent to live with nurse Goody Lawrence at Kingsland, just north of the city.[13] In about 1644, Pepys attended Huntingdon Grammar School before being educated at St Paul's School, London, c. 1646–1650.[14] He attended the execution of Charles I in 1649.[15] , after a 1666 painting (now destroyed) by John Hayls.[16]]] In 1650, he went to the University of Cambridge, having received two exhibitions from St Paul's School (perhaps owing to the influence of Sir George Downing, who was chairman of the judges and for whom he later worked at the Exchequer)[17] and a grant from the Mercers' Company. In October, he was admitted as a sizar to Magdalene College; he moved there in March 1651 and took his Bachelor of Arts degree in 1654.[18][19]
 
 Later in 1654 or early in 1655, he entered the household of one of his father's cousins, Sir Edward Montagu, who was later created the 1st Earl of Sandwich.
 
@@ -23,8 +23,6 @@ In 1657 Pepys decided to undergo surgery; not an easy option, as the operation w
 
 
 The diary
-
-6ann_08_samuelpepys_bg_64kb.ogg Pepys_diary_shorthand.png Samuel_Pepys_bookplate_1.jpg
 
 On 1 January 1660 ("1 January 1659/1660" in contemporary terms), Pepys began to keep a diary. He recorded his daily life for almost ten years. This record of a decade of Pepys' life is more than a million words long and is often regarded as Britain’s most celebrated diary.[27] Pepys has been called the greatest diarist of all time due to his frankness in writing concerning his own weaknesses and the accuracy with which he records events of daily British life and major events in the 17th century.[28] Pepys wrote about the contemporary court and theatre (including his amorous affairs with the actresses), his household, and major political and social occurrences.[29]
 
@@ -44,7 +42,7 @@ However, Pepys dictated a journal for two months in 1669–70 as a record of his
 
 Public life
 
-PepysLetter.jpg at the latter's home in Deptford, written by Pepys on 16 October 1665 and referring to "prisoners" and "sick men" during the Second Dutch War]]
+at the latter's home in Deptford, written by Pepys on 16 October 1665 and referring to "prisoners" and "sick men" during the Second Dutch War]]
 
 On the Navy Board, Pepys proved to be a more able and efficient worker than colleagues in higher positions. This often annoyed Pepys and provoked much harsh criticism in his diary. Among his colleagues were Admiral Sir William Penn, Sir George Carteret, Sir John Mennes and Sir William Batten.[37]
 
@@ -58,7 +56,7 @@ Pepys' diary provides a first-hand account of the Restoration, and it is also no
 
 Second Anglo-Dutch War
 
-Van_Soest,_Attack_on_the_Medway.jpg, June 1667'' by Pieter Cornelisz van Soest, painted c. 1667. The captured ship _Royal Charles_ is right of centre.]]
+, June 1667'' by Pieter Cornelisz van Soest, painted c. 1667. The captured ship _Royal Charles_ is right of centre.]]
 
 In early 1665, the start of the Second Anglo-Dutch War placed great pressure on Pepys. His colleagues were either engaged elsewhere or incompetent, and Pepys had to conduct a great deal of business himself. He excelled under the pressure, which was extreme due to the complexity and under-funding of the Royal Navy.[40] At the outset, he proposed a centralised approach to supplying the fleet. His idea was accepted, and he was made surveyor-general of victualling in October 1665. The position brought a further £300 a year.[41]
 
@@ -80,13 +78,13 @@ He also chewed tobacco as a protection against infection, and worried that wig-m
 
 Great Fire of London
 
-Great_fire_of_london_map.png in 1666, showing Pepys' home]]
+in 1666, showing Pepys' home]]
 
 In the early hours of 2 September 1666, Pepys was awakened by his servant who had spotted a fire in the Billingsgate area. He decided that the fire was not particularly serious and returned to bed. Shortly after waking, his servant returned and reported that 300 houses had been destroyed and that London Bridge was threatened. Pepys went to the Tower to get a better view. Without returning home, he took a boat and observed the fire for over an hour. In his diary, Pepys recorded his observations as follows:
 
 The wind was driving the fire westward, so he ordered the boat to go to Whitehall and became the first person to inform the king of the fire. According to his entry of 2 September 1666, Pepys recommended to the king that homes be pulled down in the path of the fire in order to stem its progress. Accepting this advice, the king told him to go to Lord Mayor Thomas Bloodworth and tell him to start pulling down houses. Pepys took a coach back as far as St Paul's Cathedral before setting off on foot through the burning city. He found the Lord Mayor, who said, "Lord! what can I do? I am spent: people will not obey me. I have been pulling down houses; but the fire overtakes us faster than we can do it." At noon, he returned home and "had an extraordinary good dinner, and as merry, as at this time we could be", before returning to watch the fire in the city once more. Later, he returned to Whitehall, then met his wife in St. James's Park. In the evening, they watched the fire from the safety of Bankside. Pepys writes that "it made me weep to see it". Returning home, Pepys met his clerk Tom Hayter who had lost everything. Hearing news that the fire was advancing, he started to pack up his possessions by moonlight.
 
-Old.St.Pauls.Ruins.1666.png, by Thomas Wyck, as it looked roughly seven years after the fire]]
+, by Thomas Wyck, as it looked roughly seven years after the fire]]
 
 A cart arrived at 4 a.m. on 3 September and Pepys spent much of the day arranging the removal of his possessions. Many of his valuables, including his diary, were sent to a friend from the Navy Office at Bethnal Green.[58] At night, he "fed upon the remains of yesterday's dinner, having no fire nor dishes, nor any opportunity of dressing any thing." The next day, Pepys continued to arrange the removal of his possessions. By then, he believed that Seething Lane was in grave danger, so he suggested calling men from Deptford to help pull down houses and defend the king's property.[59] He described the chaos in the city and his curious attempt at saving his own goods:
 
@@ -94,7 +92,7 @@ Pepys had taken to sleeping on his office floor; on Wednesday, 5 September, he w
 
 Personal life
 
-Punch_Plaque_Covent_Garden.jpg'' on St Paul's in Covent Garden, 1662]] The diary gives a detailed account of Pepys' personal life. He liked wine, plays, and the company of other people. He also spent time evaluating his fortune and his place in the world. He was always curious and often acted on that curiosity, as he acted upon almost all his impulses. Periodically, he would resolve to devote more time to hard work instead of leisure. For example, in his entry for New Year's Eve, 1661, he writes: "I have newly taken a solemn oath about abstaining from plays and wine…" The following months reveal his lapses to the reader; by 17 February, it is recorded, "Here I drank wine upon necessity, being ill for the want of it."
+'' on St Paul's in Covent Garden, 1662]] The diary gives a detailed account of Pepys' personal life. He liked wine, plays, and the company of other people. He also spent time evaluating his fortune and his place in the world. He was always curious and often acted on that curiosity, as he acted upon almost all his impulses. Periodically, he would resolve to devote more time to hard work instead of leisure. For example, in his entry for New Year's Eve, 1661, he writes: "I have newly taken a solemn oath about abstaining from plays and wine…" The following months reveal his lapses to the reader; by 17 February, it is recorded, "Here I drank wine upon necessity, being ill for the want of it."
 
 Pepys was one of the most important civil servants of his age, and was also a widely cultivated man, taking an interest in books, music, the theatre and science. He was passionately interested in music; he composed, sang, and played for pleasure, and even arranged music lessons for his servants. He played the lute, viol, violin, flageolet, recorder and spinet to varying degrees of proficiency.[61] He was also a keen singer, performing at home, in coffee houses, and even in Westminster Abbey.[62] He and his wife took flageolet lessons from master Thomas Greeting.[63] He also taught his wife to sing and paid for dancing lessons for her (although these stopped when he became jealous of the dancing master).
 
@@ -267,7 +265,7 @@ This tree resumes, in a more compact form and with a few additional details, tre
 
 After the diary
 
-Samuel_Pepys_by_Sir_Godfrey_Kneller_1689.jpg in 1689]]
+in 1689]]
 
 Pepys' health suffered from the long hours that he worked throughout the period of the diary. Specifically, he believed that his eyesight had been affected by his work.[72] He reluctantly concluded in his last entry, dated 31 May 1669, that he should completely stop writing for the sake of his eyes, and only dictate to his clerks from then on,[73] which meant that he could no longer keep his diary.[74]
 
@@ -281,13 +279,13 @@ In 1673 he was involved with the establishment of the Royal Mathematical School 
 
 At the beginning of 1679 Pepys was elected MP for Harwich in Charles II's third parliament which formed part of the Cavalier Parliament. He was elected along with Sir Anthony Deane, a Harwich alderman and leading naval architect, to whom Pepys had been patron since 1662. By May of that year, they were under attack from their political enemies. Pepys resigned as Secretary to the Admiralty. They were imprisoned in the Tower of London on suspicion of treasonable correspondence with France, specifically leaking naval intelligence. The charges are believed to have been fabricated under the direction of Anthony Ashley-Cooper, 1st Earl of Shaftesbury.[77] Pepys was accused, among other things, of being a papist. They were released in July, but proceedings against them were not dropped until June 1680.
 
-Samuel_Pepys_by_John_Closterman.jpg in the 1690s]] Though he had resigned from the Tangier committee in 1679, in 1683 he was sent to Tangier to assist Lord Dartmouth with the evacuation and abandonment of the English colony. After six months' service, he travelled back through Spain accompanied by the naval engineer Edmund Dummer, returning to England after a particularly rough passage on 30 March 1684.[78] In June 1684, once more in favour, he was appointed King's Secretary for the affairs of the Admiralty, a post that he retained after the death of Charles II (February 1685) and the accession of James II. The phantom Pepys Island, alleged to be near South Georgia, was named after him in 1684, having been first "discovered" during his tenure at the Admiralty.
+in the 1690s]] Though he had resigned from the Tangier committee in 1679, in 1683 he was sent to Tangier to assist Lord Dartmouth with the evacuation and abandonment of the English colony. After six months' service, he travelled back through Spain accompanied by the naval engineer Edmund Dummer, returning to England after a particularly rough passage on 30 March 1684.[78] In June 1684, once more in favour, he was appointed King's Secretary for the affairs of the Admiralty, a post that he retained after the death of Charles II (February 1685) and the accession of James II. The phantom Pepys Island, alleged to be near South Georgia, was named after him in 1684, having been first "discovered" during his tenure at the Admiralty.
 
 From 1685 to 1688, he was active not only as Secretary for the Admiralty, but also as MP for Harwich. He had been elected MP for Sandwich, but this election was contested and he immediately withdrew to Harwich. When James fled the country at the end of 1688, Pepys' career also came to an end. In January 1689, he was defeated in the parliamentary election at Harwich; in February, one week after the accession of William III and Mary II, he resigned his secretaryship.
 
 Royal Society
 
-NewtonsPrincipia.jpg's personal copy of the first edition of his _Principia Mathematica_, bearing Pepys' name]]
+'s personal copy of the first edition of his _Principia Mathematica_, bearing Pepys' name]]
 
 He was elected a Fellow of the Royal Society in 1665 and served as its President from 1 December 1684 to 30 November 1686. Isaac Newton's _Principia Mathematica_ was published during this period, and its title page bears Pepys' name. There is a probability problem called the "Newton–Pepys problem" that arose out of correspondence between Newton and Pepys about whether one is more likely to roll at least one six with six dice or at least two sixes with twelve dice.[79] It has only recently been noted that the gambling advice which Newton gave Pepys was correct, while the logical argument with which Newton accompanied it was unsound.[80]
 
@@ -304,7 +302,7 @@ Pepys was buried along with his wife in St Olave Hart Street in London.
 
 Pepys Library
 
-PepysLibraryCambridge.jpg of Magdalene College, Cambridge]] Pepys_Library_c1870.jpg
+of Magdalene College, Cambridge]]
 
 Pepys was a lifelong bibliophile and carefully nurtured his large collection of books, manuscripts, and prints. At his death, there were more than 3,000 volumes, including the diary, all carefully catalogued and indexed; they form one of the most important surviving 17th-century private libraries. The most important items in the Library are the six original bound manuscripts of Pepys' diary, but there are other remarkable holdings, including:[83]
 
@@ -319,8 +317,6 @@ Pepys made detailed provisions in his will for the preservation of his book coll
 
 
 Publication history of the diary
-
-Samuel_Pepys_diary_manuscript_volumes.jpg
 
 Motivated by the publication of Evelyn's Diary, Lord Granville deciphered a few pages.[85] John Smith (later the Rector of St Mary the Virgin in Baldock) was then engaged to transcribe the diaries into plain English. He laboured at this task for three years, from 1819 to 1822, unaware until nearly finished that a key to the shorthand system was stored in Pepys' library a few shelves above the diary volumes. Others had apparently succeeded in reading the diary earlier, perhaps knowing about the key, because a work of 1812 quotes from a passage of it.[86] Smith's transcription, which is also kept in the Pepys Library, was the basis for the first published edition of the diary, edited by Lord Braybrooke, released in two volumes in 1825.
 
@@ -346,7 +342,7 @@ BBC Radio 4 has broadcast serialised radio dramatisations of the diary. In the 1
 
 Biographical studies
 
-Samuel_Pepys_pub.jpg Several detailed studies of Pepys' life are available. Arthur Bryant published his three-volume study in 1933–1938, long before the definitive edition of the diary, but, thanks to Bryant's lively style, it is still of interest. In 1974 Richard Ollard produced a new biography that drew on Latham's and Matthew's work on the text, benefitting from the author's deep knowledge of Restoration politics. Other biographies include: _Samuel Pepys: A Life_, by Stephen Coote (London: Hodder & Stoughton, 2000) and, _Samuel Pepys and His World_, by Geoffrey Trease (London: Thames and Hudson, 1972).
+Several detailed studies of Pepys' life are available. Arthur Bryant published his three-volume study in 1933–1938, long before the definitive edition of the diary, but, thanks to Bryant's lively style, it is still of interest. In 1974 Richard Ollard produced a new biography that drew on Latham's and Matthew's work on the text, benefitting from the author's deep knowledge of Restoration politics. Other biographies include: _Samuel Pepys: A Life_, by Stephen Coote (London: Hodder & Stoughton, 2000) and, _Samuel Pepys and His World_, by Geoffrey Trease (London: Thames and Hudson, 1972).
 
 The most recent general study is by Claire Tomalin, which won the 2002 Whitbread Book of the Year award, the judges calling it a "rich, thoughtful and deeply satisfying" account that unearths "a wealth of material about the uncharted life of Samuel Pepys".
 

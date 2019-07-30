@@ -1,1 +1,0 @@
-EQUULEUS is a constellation. Its name is Latin for "little horse", a foal. It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and remains one of the 88 modern constellations. It is the second smallest of the modern constellations (after Crux), spanning only 72 square degrees. It is also very faint, having no stars brighter than the fourth magnitude.

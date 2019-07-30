@@ -1,1 +1,0 @@
-FRANK KONIGSBERG (March 10, 1933 – November 12, 2016) was an American lawyer, television producer and agent. He became the second largest shareholder of ICM Partners, and he subsequently served as the president of Telepictures. He was nominated for an Emmy nine times.

@@ -1,1 +1,0 @@
-_THE SECRETS OF WU SIN_ is a 1932 American Pre-Code mystery film directed by Richard Thorpe and starring Lois Wilson, Grant Withers and Dorothy Revier. It was made by the Poverty Row studio Chesterfield Pictures.[1]

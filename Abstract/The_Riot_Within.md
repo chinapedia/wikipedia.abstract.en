@@ -1,1 +1,0 @@
-_THE RIOT WITHIN: MY JOURNEY FROM REBELLION TO REDEMPTION_ is a 2012 autobiography of Rodney King (1965-2012). Known by a videotape as a victim of Los Angeles Police Department brutality, he became a civil rights icon. [1] The book is co-authored by Lawrence J. Spagnola, an award-winning writer. [2]

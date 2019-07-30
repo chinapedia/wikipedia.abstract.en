@@ -1,1 +1,0 @@
-_PODOCARPUS LATIFOLIUS_ (BROAD-LEAVED YELLOWWOOD or REAL YELLOWWOOD, , , , )[1] is a large evergreen tree up to 35 m high and 3 m trunk diameter, in the conifer family Podocarpaceae; it is the type species of the genus _Podocarpus_.

@@ -1,4 +1,4 @@
-Simple_random_sampling.PNG.]]
+.]]
 
 In statistics and quantitative research methodology, a DATA SAMPLE is a set of data collected and the world selected from a statistical population by a defined procedure.[1] The elements of a sample are known as SAMPLE POINTS, SAMPLING UNITS or observations.
 

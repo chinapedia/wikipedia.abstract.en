@@ -1,1 +1,0 @@
-ABADEH (, also Romanized as ĀBĀDEH)[1] is a city and capital of Abadeh County, in Fars Province, Iran. Abadeh is situated at an elevation of in a fertile plain on the high road between Isfahan and Shiraz, from the former and from the latter.[2] At the 2006 census, its population was 52,042, in 14,184 families.[3] As of 2009, the population was estimated to be 59,042.[4]

@@ -1,1 +1,0 @@
-BICHOLIM VIDHAN SABHA CONSTITUENCY is one of the 40 Goa Legislative Assembly constituencies of the state of Goa in southern India. Bicholim is also one of the 20 constituencies falling under the North Goa Lok Sabha constituency.

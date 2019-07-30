@@ -1,1 +1,0 @@
-HOWLANDS MARSH is a 29.9 hectare nature reserve north-east of St Osyth in Essex. It is managed by the Essex Wildlife Trust.[1] It is part of the Colne Estuary Site of Special Scientific Interest[2] Special Protection Area[3] and Ramsar site,[4] and the Blackwater Flats and Marshes Nature Conservation Review site.[5]

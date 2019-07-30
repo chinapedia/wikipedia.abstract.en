@@ -1,1 +1,0 @@
-EUSTON DOWNSIDE CARRIAGE MAINTENANCE DEPOT was a carriage maintenance depot located in Camden, London, England. The depot was situated on the west side of the West Coast Main Line to the north of London Euston station.

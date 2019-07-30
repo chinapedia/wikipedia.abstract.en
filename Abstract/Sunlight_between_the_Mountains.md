@@ -1,1 +1,0 @@
-Gerardo Murillo Cornado, was the real name of the artist known as Dr. Atl. He was an avid researcher of nature, and he is considered to be the ideologist of the Muralist Movement, since he imposed a style that was later absorbed by Diego Rivera, David Alfaro Siqueiros, José Clemente Orozco, José Chávez Morado, among other renowned artists.[1]

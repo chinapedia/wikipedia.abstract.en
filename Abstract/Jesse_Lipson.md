@@ -1,1 +1,0 @@
-JESSE LIPSON is an American entrepreneur. He founded the enterprise file sharing service ShareFile, which he sold to Citrix Systems in 2011. He was the corporate vice president and general manager of Citrix Cloud Services until 2017. He is now working on a new project, Levitate, through his holding company RealMagic.

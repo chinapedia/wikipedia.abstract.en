@@ -1,1 +1,0 @@
-Blessed ANDREA GALLERANI (??? - 19 March 1251) was an Italian Roman Catholic from Siena and the founder of the now-defunct Frati della Misericordia association.[1] Gallerani was a distinguished soldier until, in a fit of rage he murdered a man he considered a blasphemer. As a result, he was exiled and decided to live a life of total penance for his sin.[2]

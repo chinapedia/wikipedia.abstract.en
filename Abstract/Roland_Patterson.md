@@ -1,1 +1,0 @@
-ROLAND PATTERSON (January 21, 1883 – 1968) was an insurance agent and politician in the province of Ontario, Canada. He represented Grey North in the Legislative Assembly of Ontario from 1934 to 1945 as a Liberal-Progressive and then Liberal member.[1]

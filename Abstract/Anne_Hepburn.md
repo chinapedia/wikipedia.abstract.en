@@ -1,1 +1,0 @@
-ANNE HEPBURN (20 August 1925 – 29 July 2016) was a Church of Scotland missionary and a teacher, feminist and social justice advocate and wife and mother. She served as National President of the Church of Scotland's Women's Guild in the early 1980s, where she led the debate on the issue of the "Motherhood of God".

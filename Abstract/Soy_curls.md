@@ -1,1 +1,0 @@
-SOY CURLS are a meat alternative created and sold by Butler Foods LLC, based out of Grand Ronde, Oregon.[1][2][3] The product is made from non-GMO soybeans that have not been sprayed with chemical pesticides. Once cooked, the curls have a unique texture and flavor, similar to that of chicken.[4] Other comparable products are seitan, wheatmeat, and tempeh.

@@ -1,1 +1,0 @@
-The 1970 BIG TEN CONFERENCE FOOTBALL SEASON was the 75th season of college football played by the member schools of the Big Ten Conference and was a part of the 1970 NCAA University Division football season.

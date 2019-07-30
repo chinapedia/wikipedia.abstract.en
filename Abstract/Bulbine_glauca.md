@@ -1,1 +1,0 @@
-_BULBINE GLAUCA_ is also known as ROCK LILY. The genus _Bulbine_ is made up of about fifty species. Most are native to Southern or Eastern Africa, but five species, including _B. glauca_, are native to Australia.

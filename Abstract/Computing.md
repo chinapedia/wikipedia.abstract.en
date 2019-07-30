@@ -1,1 +1,0 @@
-the magazine|Computing (journal){{!}}the scientific journal}} Babbage_Difference_Engine_(Being_utilised).jpg: computing the solution to a polynomial function]] Moody_Hall_computer_lab.jpgoratory, Moody Hall, James Madison University, 2003]] Computer_server_rack.jpgs from 2006]]

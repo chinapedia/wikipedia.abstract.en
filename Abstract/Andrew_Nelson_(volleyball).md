@@ -1,1 +1,0 @@
-ANDREW NELS NELSON (born July 27, 1993) is a Canadian male volleyball player. He was a member of the Canada men's junior national volleyball team at the 2012 Men's Junior NORCECA Volleyball Championship.[1]

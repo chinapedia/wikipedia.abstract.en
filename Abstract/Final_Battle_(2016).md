@@ -1,1 +1,0 @@
-FINAL BATTLE (2016) was the 15th Final Battle professional wrestling pay-per-view (PPV) event produced by Ring of Honor (ROH). It took place on December 2, 2016 at the Hammerstein Ballroom in New York City, New York.[1]

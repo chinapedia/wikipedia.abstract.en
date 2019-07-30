@@ -1,1 +1,0 @@
-The 1975 MISSISSIPPI GUBERNATORIAL ELECTION took place on November 4, 1975, in order to elect the Governor of Mississippi. Incumbent Democrat Bill Waller was term-limited, and could not run for reelection to a second term.

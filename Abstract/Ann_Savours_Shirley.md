@@ -1,1 +1,0 @@
-ANN SAVOURS SHIRLEY, historian of polar exploration, both Arctic and Antarctic, was born on 9 November 1927 in Stoke-on-Trent). She is most widely known for her study of Robert Falcon Scott's ship HMS Discovery.[1]

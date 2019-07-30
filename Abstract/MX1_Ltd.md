@@ -1,1 +1,0 @@
-MX1 is a global media services provider founded in July 2016 from a merger between digital media services companies, RR Media and SES Platform Services.[1] MX1 is a wholly owned subsidiary of global satellite owner and operator, SES.[2]

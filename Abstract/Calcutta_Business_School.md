@@ -1,1 +1,0 @@
-CALCUTTA BUSINESS SCHOOL (CBS) is a business school near Kolkata, India. This college is an autonomous institute. The Post Graduate Diploma in Management (PGDM) program of this college is approved by AICTE.[1][2] It received "Asia's fastest growing private educational institute" award in 2014.[3][4]

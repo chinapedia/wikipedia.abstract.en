@@ -1,1 +1,0 @@
-_TWO WORLDS_ is a 1930 British war drama film directed by Ewald André Dupont and starring Norah Baring, John Longden and Donald Calthrop. It was made at Elstree Studios by British International Pictures.[1] It was made as an MLV, with a separate German-language version _Zwei Welten_ and the French _Les deux mondes_.

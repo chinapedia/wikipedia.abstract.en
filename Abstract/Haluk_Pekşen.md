@@ -1,1 +1,0 @@
-HALUK PEKŞEN (born 11 September 1961) is a Turkish lawyer, businessman and politician from the Republican People's Party (CHP) who has served as the Member of Parliament for Trabzon since 7 June 2015.[1]

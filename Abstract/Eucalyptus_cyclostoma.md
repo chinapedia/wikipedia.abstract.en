@@ -1,1 +1,0 @@
-_EUCALYPTUS CYCLOSTOMA_ is a species of mallee that is endemic to an area in the south of Western Australia. It has smooth, greyish bark, lance-shaped adult leaves, flower buds in groups of between seven and eleven, white flowers and more or less sphercial fruit.Eucalyptus_cyclostoma_buds.jpgEucalyptus_cyclostoma_fruit.jpg

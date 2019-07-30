@@ -1,1 +1,0 @@
-BRAYS is an unincorporated community in eastern Miller County, in the U.S. state of Missouri.[1] The community is adjacent to Missouri Route 42 on the east side of the Tavern Creek floodplain, approximately three miles northeast of Iberia.[2]

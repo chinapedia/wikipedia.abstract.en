@@ -1,1 +1,0 @@
-Field Marshal HAROLD RUPERT LEOFRIC GEORGE ALEXANDER, 1ST EARL ALEXANDER OF TUNIS, (10 December 1891 – 16 June 1969), was a senior British Army officer who served with distinction in both the First World War and the Second World War and, afterwards, as Governor General of Canada, the 17th since Canadian Confederation.

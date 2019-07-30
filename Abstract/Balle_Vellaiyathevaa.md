@@ -1,1 +1,0 @@
-_BALLE VELLAIYATHEVAA_ is a 2016 Indian Tamil-language comedy-drama film directed by P. Solai Prakash. The film is produced by M. Sasikumar, who also stars in the lead role, alongside Tanya, while Rohini, Kovai Sarala, Leesha, Sangili Murugan, and Bala Singh appear in supporting roles.

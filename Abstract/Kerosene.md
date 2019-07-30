@@ -1,1 +1,0 @@
-Kerosene_bottle.jpg

@@ -1,1 +1,0 @@
-ALMAGUL MENLIBAYEVA is a Kazakhstani artist and curator whom splits her time between Kazakhstan and Germany.[1][2] Her art's main themes usually revolve around social and ecological issues in Central Asia.[3]

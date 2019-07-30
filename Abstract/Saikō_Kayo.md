@@ -1,1 +1,0 @@
-is the 8th single by the Japanese idol girl group HKT48. It was released on September 7, 2016.[1] It was number-one on the _Oricon_ Weekly Singles Chart on its release,[2] selling 269,907 copies.[3] As of September 26, 2016 (chart issue date), it had sold 283,726 copies.[4] It was also number-one on the _Billboard_ Japan Hot 100.[5]

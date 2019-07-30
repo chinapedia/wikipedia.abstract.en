@@ -1,11 +1,11 @@
-Loki,_by_Mårten_Eskil_Winge_1890.jpg.]]
+.]]
 
 In Norse mythology, SIGYN (Old Norse "victorious girl-friend"[1]) is a goddess and is the wife of Loki. Sigyn is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and the _Prose Edda_, written in the 13th century by Snorri Sturluson. In the _Poetic Edda_, little information is provided about Sigyn other than her role in assisting Loki during his captivity. In the _Prose Edda_, her role in helping her husband through his time spent in bondage is stated again, she appears in various kennings, and her status as a goddess is mentioned twice. Sigyn may appear on the Gosforth Cross and has been the subject of an amount of theory and cultural references.
 
 
 Attestations
 
-Loki_and_Sigyn_by_Gebhardt.jpg.]] Sigyn is attested in the following works:
+.]] Sigyn is attested in the following works:
 
 _Poetic Edda_
 
@@ -13,14 +13,14 @@ In stanza 35 of the _Poetic Edda_ poem _Völuspá_, a völva tells Odin that, am
 
 _Prose Edda_
 
-Loki_Bound_by_Collingwood.jpg.]] Sigyn appears in the books _Gylfaginning_ and _Skáldskaparmál_ in the _Prose Edda_. In _Gylfaginning_, Sigyn is introduced in chapter 31. There, she is introduced as the wife of Loki, and that they have a son by the name of "Nari or Narfi".[4] Sigyn is mentioned again in _Gylfaginning_ in chapter 50, where events are described differently than in _Lokasenna_. Here, the gods have captured Loki and his two sons, who are stated as Váli, described as a son of Loki, and "Nari or Narfi", the latter earlier described as also a son of Sigyn.[5] Váli is changed into a wolf by the gods, and rips apart his brother "Nari or Narfi". The guts of "Nari or Narfi" are then used to tie Loki to three stones, after which the guts turn to iron, and Skaði places a snake above Loki. Sigyn places herself beside him, where she holds out a bowl to catch the dripping venom. However, when the bowl becomes full she leaves to pour out the venom. As a result, Loki is again described as shaking so violently that the planet shakes, and this process repeats until he breaks free, setting Ragnarök into motion.[6]
+.]] Sigyn appears in the books _Gylfaginning_ and _Skáldskaparmál_ in the _Prose Edda_. In _Gylfaginning_, Sigyn is introduced in chapter 31. There, she is introduced as the wife of Loki, and that they have a son by the name of "Nari or Narfi".[4] Sigyn is mentioned again in _Gylfaginning_ in chapter 50, where events are described differently than in _Lokasenna_. Here, the gods have captured Loki and his two sons, who are stated as Váli, described as a son of Loki, and "Nari or Narfi", the latter earlier described as also a son of Sigyn.[5] Váli is changed into a wolf by the gods, and rips apart his brother "Nari or Narfi". The guts of "Nari or Narfi" are then used to tie Loki to three stones, after which the guts turn to iron, and Skaði places a snake above Loki. Sigyn places herself beside him, where she holds out a bowl to catch the dripping venom. However, when the bowl becomes full she leaves to pour out the venom. As a result, Loki is again described as shaking so violently that the planet shakes, and this process repeats until he breaks free, setting Ragnarök into motion.[6]
 
 Sigyn is introduced as a goddess, an ásynja, in the _Prose Edda_ book _Skáldskaparmál_, where the gods are holding a grand feast for the visiting Ægir,[7] and in kennings for Loki: "husband of Sigyn",[8] "cargo [Loki] of incantation-fetter's [Sigyn's] arms",[9] and in a passage quoted from the 9th-century _Haustlöng_, "the burden of Sigyn's arms".[10] The final mention of Sigyn in _Skáldskaparmál_ is in the list of ásynjur in the appended Nafnaþulur section, chapter 75.[11]
 
 
 Archaeological record
 
-Gosforth_Cross_Loki_and_Sigyn.jpg The mid-11th century Gosforth Cross located in Cumbria, England, has been interpreted as featuring various figures from Norse mythology. The bottom portion of the west side of the cross features a depiction of a long-haired female, kneeling figure holding an object above another prostrate, bound figure. Above and to their left is a knotted serpent. This has been interpreted as Sigyn soothing the bound Loki.[12]
+The mid-11th century Gosforth Cross located in Cumbria, England, has been interpreted as featuring various figures from Norse mythology. The bottom portion of the west side of the cross features a depiction of a long-haired female, kneeling figure holding an object above another prostrate, bound figure. Above and to their left is a knotted serpent. This has been interpreted as Sigyn soothing the bound Loki.[12]
 
 
 Theories

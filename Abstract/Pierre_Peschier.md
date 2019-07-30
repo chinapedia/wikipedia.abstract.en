@@ -1,1 +1,0 @@
-PIERRE PESCHIER (1 November 1739 - 16 January 1812) was a Danish merchant. He founded a successful trading house in Copenhagen in 1768 which later fell victim to the economic crisis of the 1800s and closed in 1815. Peschier's former home at Holmens Kanal in Copenhagen, now known as the Peschier House, is part of Danske Bank's headquarters.

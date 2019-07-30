@@ -1,1 +1,0 @@
-Perfect_number_Cuisenaire_rods_6.png

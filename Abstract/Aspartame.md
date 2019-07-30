@@ -1,1 +1,0 @@
-ASPARTAME (APM) is an artificial non-saccharide sweetener used as a sugar substitute in some foods and beverages. In the European Union, it is codified as E951. Aspartame is a methyl ester of the aspartic acid/phenylalanine dipeptide.

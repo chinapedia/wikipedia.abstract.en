@@ -1,1 +1,0 @@
-A SUPERNUMERARY JUDGE or SUPERNUMERARY MAGISTRATES is a judge who has retired from their full-time position on a court, but continues to work on a part-time basis. Generally, when a judge becomes supernumerary a vacancy is created, and the appropriate person or body may subsequently make a new appointment to that Court.

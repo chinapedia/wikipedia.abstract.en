@@ -1,4 +1,4 @@
-Glenn Eller shooting at 2008 Summer Olympics double trap finals.|thumb|200px|right Nancy_Johnson_(sport_shooter)_4.jpg shooting by Nancy Johnson in Sydney 2000]] SHOOTING is the act or process of discharging a projectile from a ranged weapon (such as a gun, slingshot, crossbow, or bow. Even the acts of launching/discharging artillery, darts, grenades, rockets and guided missiles can be considered acts of shooting. When using a firearm, the act of shooting is often called FIRING as it involves initiating a combustion process (deflagration).
+shooting by Nancy Johnson in Sydney 2000]] SHOOTING is the act or process of discharging a projectile from a ranged weapon (such as a gun, slingshot, crossbow, or bow. Even the acts of launching/discharging artillery, darts, grenades, rockets and guided missiles can be considered acts of shooting. When using a firearm, the act of shooting is often called FIRING as it involves initiating a combustion process (deflagration).
 
 Shooting can take place in a shooting range or in the field, in shooting sports, hunting or in combat. The person involved in the shooting activity is called a SHOOTER. A skilled, accurate shooter is a _marksman_ or _sharpshooter_, and a person's level of shooting proficiency is referred to as his/her _marksmanship_.
 
@@ -12,7 +12,7 @@ Shooting technique differs depending on factors like the type of firearm used (f
 
 Hunting with guns
 
-Print,_1866,_by_Edward_Hacker_(1813-1905),_after_Abraham_Cooper,_RA,_(1787–1868),_shooting_scene,_UK.jpg, RA, (1787–1868), print of shooting, UK.]] In the United Kingdom shooting often refers to the activity of hunting game birds such as grouse or pheasants, or small game such as rabbits, with guns.[5] A shooter is sometimes referred to as a "gun". Shooting may also refer to the culling of vermin with guns. Clay pigeon shooting is meant to simulate shooting live pigeons released from traps, after doing so was banned in the United Kingdom in 1921.[6]
+, RA, (1787–1868), print of shooting, UK.]] In the United Kingdom shooting often refers to the activity of hunting game birds such as grouse or pheasants, or small game such as rabbits, with guns.[5] A shooter is sometimes referred to as a "gun". Shooting may also refer to the culling of vermin with guns. Clay pigeon shooting is meant to simulate shooting live pigeons released from traps, after doing so was banned in the United Kingdom in 1921.[6]
 
 
 Weapons

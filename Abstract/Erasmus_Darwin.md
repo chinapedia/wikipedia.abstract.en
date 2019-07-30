@@ -1,1 +1,0 @@
-ERASMUS DARWIN (12 December 173118 April 1802) was an English physician. One of the key thinkers of the Midlands Enlightenment, he was also a natural philosopher, physiologist, slave-trade abolitionist,[1] inventor and poet.

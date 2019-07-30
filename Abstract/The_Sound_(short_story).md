@@ -1,1 +1,0 @@
-"THE SOUND" is a science fiction short story by Canadian-American writer A. E. van Vogt, originally published in _Astounding_ in February 1950.[1] In contrast to his earlier short stories, "The Sound" has a distinctly Red Scare feel to it. It involves the alien Yevd who can take on any form, and a young boy that thwarts their effort to infiltrate a naval spaceship yard.

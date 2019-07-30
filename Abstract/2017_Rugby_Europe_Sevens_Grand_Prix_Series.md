@@ -1,1 +1,0 @@
-The 2017 RUGBY EUROPE SEVENS GRAND PRIX[1] served as a European qualifier not only for the 2018 Hong Kong Sevens qualifier tournament, but for two bids among the teams not already qualified for the 2018 Rugby World Cup Sevens.[2]

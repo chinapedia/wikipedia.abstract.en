@@ -1,1 +1,0 @@
-Andrei_Tarsalainen.jpg

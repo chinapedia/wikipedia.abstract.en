@@ -1,1 +1,0 @@
-OUR LADY OF MOUNT CARMEL CHURCH () is a Roman Catholic church in the Diocese of Hong Kong. It is located in the Wanchai district at 1 Star Street.[1] The church is unique being located within a private multi-storey residential building, rather than a stand-alone structure.[2] The current parish priest is Rev. Thomas Law Kwok-Fai.

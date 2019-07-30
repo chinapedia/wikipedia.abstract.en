@@ -1,1 +1,0 @@
-THOMAS HENRY MORRIS (14 September 1884 – 24 March 1918) was an English professional football centre half who appeared in the Football League for Leeds City and Grimsby Town,[1][2] as well as in the Southern League for Brighton & Hove Albion.[3] Later in his career, he coached at Scunthorpe & Lindsey United.[4]

@@ -1,1 +1,0 @@
-DECODOKU is set of online citizen science games, based on quantum error correction.[1] The project is supported by the NCCR QSIT[2] and the University of Basel, and allows the public to get involved with quantum error correction research.[3][4]

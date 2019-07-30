@@ -1,1 +1,0 @@
-STEPAN MARKOVICH BONDAREV (; 9 April 1923 9 June 2016) was a Soviet Army lieutenant general. He fought in World War II as a tank company commander. Postwar, he was commander of the 29th Army and deputy commander of the North Caucasus Military District and the Northern Group of Forces.[1]

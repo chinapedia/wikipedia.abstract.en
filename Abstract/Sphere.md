@@ -1,1 +1,0 @@
-Sphere_wireframe_10deg_6r.svg of a sphere]] A SPHERE (from Greek —, "globe, ball"[1]) is a perfectly round geometrical object in three-dimensional space that is the surface of a completely round ball (viz., analogous to the circular objects in two dimensions, where a "circle" circumscribes its "disk").

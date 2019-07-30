@@ -1,1 +1,0 @@
-"ROWCHE RUMBLE" is a 1979 song by British post-punk band the Fall, written by Mark E. Smith, Craig Scanlon and Marc Riley. Released as the band's third single, it was the first record by the Fall to reach a recognised national chart when it reached number 31 on the indie chart in January 1980, the first month of that chart's existence.

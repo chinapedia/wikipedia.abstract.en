@@ -1,11 +1,11 @@
-Hibiscus_Delight_tisane.jpg beginning to steep]]
+beginning to steep]]
 
 HERBAL TEAS—less commonly[1] called TISANES (UK and US , US also )[2]—are beverages made from the infusion or decoction of herbs, spices, or other plant material in hot water. Perhaps some of the most known tisanes are actual, true teas (e.g., black, green, white, yellow, oolong), which are prepared from the cured leaves of the tea plant, _Camellia sinensis_. Besides coffee and true teas (they are also available decaffeinated), most other tisanes do not contain caffeine.[3]
 
 
 Etymology
 
-LE_POINT_DE_VUE11n4000.jpg and cup]] Some feel that the term _tisane_ is more correct than _herbal tea_ or that the latter is even misleading, but most dictionaries record that the word _tea_ is also used to refer to other plants beside the tea plant and to beverages made from these other plants.[4][5] In any case, the term _herbal tea_ is very well established and much more common than _tisane_.[6]
+and cup]] Some feel that the term _tisane_ is more correct than _herbal tea_ or that the latter is even misleading, but most dictionaries record that the word _tea_ is also used to refer to other plants beside the tea plant and to beverages made from these other plants.[4][5] In any case, the term _herbal tea_ is very well established and much more common than _tisane_.[6]
 
 The word _tisane_ was rare in its modern sense before the 20th century, when it was borrowed in the modern sense from French. (This is why some people feel it should be pronounced as in French, but the original English pronunciation continues to be more common in US English and especially in UK English).[7]
 

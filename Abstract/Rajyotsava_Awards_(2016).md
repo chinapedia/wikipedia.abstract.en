@@ -1,1 +1,0 @@
-The 2016 RAJYOTSAVA AWARDS ceremony took place at the Ravindra Kalakshetra on 1 November 2016.[1] Awarded annually by the government of Karnataka, the ceremony saw 61 individuals being awarded for achievements in various fields.[2] The number was chosen to mark the 61st anniversary of the formation of the State of Karnataka.[3]

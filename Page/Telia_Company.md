@@ -34,11 +34,11 @@ TeliaSonera International Carrier (AS1299) is a tier 1 carrier.
 
 Operations
 
-TeliaSonera_global_activities.png Majority-owned operations.
-Image:Telia3.png Associated companies.]] Telia Company is now the largest Nordic and Baltic fixed-voice, broadband, and mobile operator by revenue and customer base. It operates Europe's largest and fastest-growing wholesale IP backbone (AS1299) and is the 10th-largest global mobile group by consolidated customers (including ownership stakes in Turkcell,[7] Yoigo, Megafon, NetCom, and others).[8] Telia_i_Europa.png (Estonia, Latvia, Lithuania and Sweden) Leader company.
-Image:Telia2.png (Finland, Norway and Moldova) 2nd company.
-Image:Telia3.png (Denmark) 3rd company.
-Image:Telia4.png (Spain) 4th company. ]]
+Majority-owned operations.
+Associated companies.]] Telia Company is now the largest Nordic and Baltic fixed-voice, broadband, and mobile operator by revenue and customer base. It operates Europe's largest and fastest-growing wholesale IP backbone (AS1299) and is the 10th-largest global mobile group by consolidated customers (including ownership stakes in Turkcell,[7] Yoigo, Megafon, NetCom, and others).[8] (Estonia, Latvia, Lithuania and Sweden) Leader company.
+(Finland, Norway and Moldova) 2nd company.
+(Denmark) 3rd company.
+(Spain) 4th company. ]]
 
 Afghanistan
 
@@ -56,7 +56,7 @@ Telia Company owns 100% of Eesti Telekom. Eesti Telekom is one of the largest te
 
 Finland
 
-Telia_Dixi.jpg, Vantaa.]] TELIA FINLAND is the second largest mobile operator in Finland and also one of the biggest providers of landline telephone and internet services. Before the rebranding on 23 March 2017, Telia was known in Finland under the brands of Sonera and Tele Finland.[10] In September 1999, Sonera became the world's first mobile operator to launch mobile Internet services via Wireless Application Protocol (WAP).[11]
+, Vantaa.]] TELIA FINLAND is the second largest mobile operator in Finland and also one of the biggest providers of landline telephone and internet services. Before the rebranding on 23 March 2017, Telia was known in Finland under the brands of Sonera and Tele Finland.[10] In September 1999, Sonera became the world's first mobile operator to launch mobile Internet services via Wireless Application Protocol (WAP).[11]
 
 Since 2014, Telia Finland and DNA Oyj have jointly deployed a shared 4G LTE network using the 800 MHz (LTE Band 20) "digital dividend" band in remote Northern and Eastern Finland under the _Suomen Yhteisverkko Oy_ joint venture. Telia Finland owns 51% of _Suomen Yhteisverkko Oy_.[12]
 
@@ -70,7 +70,7 @@ TeliaSonera owns 49% of LMT (24.5% as Telia Company AB and 24.5% as Sonera Holdi
 
 Lithuania
 
-Bures_business_centre_in_Vilnius_(2016).jpg (skyscraper with the old _Teo_ logo)]] TeliaSonera owns 88.15% of Teo LT, the largest landline phone operator in Lithuania, which recently purchased Omnitel, one of largest mobile network operators there. It was previously owned by TeliaSonera group.
+(skyscraper with the old _Teo_ logo)]] TeliaSonera owns 88.15% of Teo LT, the largest landline phone operator in Lithuania, which recently purchased Omnitel, one of largest mobile network operators there. It was previously owned by TeliaSonera group.
 
 In October 2015, TeliaSonera announced the merger of Teo and Omnitel, through the acquisition of Omnitel by Teo.
 
@@ -136,7 +136,7 @@ Telia Company owned 60% of mobile phone operator Tcell. Tcell is a merger of Som
 
 Evolution of the TeliaSonera's brand
 
-TeliaSonera_logo.svg When Telia and Sonera merged in 2002, TeliaSonera used a simple wordmark as the logo. In 2011, TeliaSonera released its new purple pebble logo to the corporation and its affiliate brands. The pebble was designed by Landor Associates.[23][24]
+When Telia and Sonera merged in 2002, TeliaSonera used a simple wordmark as the logo. In 2011, TeliaSonera released its new purple pebble logo to the corporation and its affiliate brands. The pebble was designed by Landor Associates.[23][24]
 
 In 2016, TeliaSonera presented an updated pebble brand profile, designed by Wolff Olins, to be used by all Telia brand companies.
 

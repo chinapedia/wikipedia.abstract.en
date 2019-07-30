@@ -1,1 +1,0 @@
-Jamesl_main.png LUCY WORTHAM JAMES (September 13, 1880 – January 20, 1938) was an American philanthropist. She dedicated her life to helping others and funding medical research. Her most memorial donation was land, part of Maramec Springs, which is now a park open to the public, and maintained by the James Foundation.

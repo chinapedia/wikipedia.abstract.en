@@ -1,1 +1,0 @@
-THE OLDE TOWNE INN (“O.T.I”) is a restaurant located in Upper Marlboro, Maryland, USA, previously known as the JUDGES CHAMBERS. Since 2006 the restaurant has been owned by chef and restaurateur, Donnell Long, an African American and Washington, DC native.[1]

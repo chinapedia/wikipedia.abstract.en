@@ -1,1 +1,0 @@
-EMPRESS LI (李皇后, personal name unknown) (d. 954), known as EMPRESS DOWAGER ZHAOSHENG (昭聖太后) during Later Zhou, was an empress of the Chinese Five Dynasties and Ten Kingdoms Period state Later Han. She was the wife of Later Han's founder Liu Zhiyuan (Emperor Gaozu) and the mother of its second emperor Liu Chengyou (Emperor Yin).

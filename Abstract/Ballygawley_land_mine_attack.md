@@ -1,1 +1,0 @@
-The BALLYGAWLEY LAND MINE ATTACK was a bomb attack carried out by the Provisional Irish Republican Army (PIRA) on the 13 July 1983. The IRA exploded a landmine under an Ulster Defense Regiment's (UDR) mobile patrol at Ballygawley Road, near Dungannon in County Tyrone, Northern Ireland. Four UDR soldiers were killed in the incident.

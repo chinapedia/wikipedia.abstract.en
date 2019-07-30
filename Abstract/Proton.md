@@ -1,1 +1,0 @@
-A PROTON is a subatomic particle, symbol or , with a positive electric charge of +1_e_ elementary charge and a mass slightly less than that of a neutron. Protons and neutrons, each with masses of approximately one atomic mass unit, are collectively referred to as "nucleons".

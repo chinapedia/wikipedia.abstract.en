@@ -1,1 +1,0 @@
-EWUARE II (born October 20, 1953) was crowned the Oba of Benin on 20 October 2016.[1] He is the 40th Oba,[2] a title created for the Head of State (Emperor) of the Benin Empire at some time between 1180 and 1300.

@@ -1,1 +1,0 @@
-The 2016 AIB GAA Football Ulster Senior Club Championship is the 49th instalment of the annual competition organised by The Ulster GAA. It is one of the four provincial competitions of the 2016 AIB GAA Football All-Ireland Senior Club Championship.

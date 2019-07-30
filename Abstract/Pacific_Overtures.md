@@ -1,1 +1,0 @@
-_PACIFIC OVERTURES_ is a musical written by Stephen Sondheim and John Weidman. The show is set in Japan beginning in 1853 and follows the difficult westernization of Japan, told from the point of view of the Japanese. In particular, the story focuses on the lives of two friends caught in the change.

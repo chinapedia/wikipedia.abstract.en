@@ -1,1 +1,0 @@
-MATILDE THROUP SEPÚLVEDA (18 August 1876 – 1922) was the first Chilean woman to receive the title of attorney, and the third to obtain a professional title after the institution of the of 1877 which allowed women to be admitted to universities.[1]

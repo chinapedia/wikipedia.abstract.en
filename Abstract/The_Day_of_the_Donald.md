@@ -1,1 +1,0 @@
-_THE DAY OF THE DONALD_ (subtitled _TRUMP TRUMPS AMERICA!_) is a satirical work of fiction by Andrew Shaffer.[1] Published on June 28, 2016, the book imagines Donald Trump winning the US election to become the forty-fifth president (which subsequently occurred) and examines his second year in office.[2][3]

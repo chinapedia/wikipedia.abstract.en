@@ -1,1 +1,0 @@
-Because Cyprus has no working railway system, various other methods of transport are needed to ensure the proper delivery of any cargo, be it human or freight. Since the last railway was dismantled in 1952, the only remaining modes of transport are by road, by sea, and by air.

@@ -1,1 +1,0 @@
-GOVY (born 12 April 1981[1]) is a French artist diagnosed on the Autism Spectrum[2] in 2013,[3] and is an advocate for the Neurodiversity Movement. She is the recipient of three A' Design Awards[4] and two Videoformes Awards.[5][6]

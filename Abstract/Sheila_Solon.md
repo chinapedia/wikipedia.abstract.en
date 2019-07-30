@@ -1,1 +1,0 @@
-SHEILA SOLON (born c. 1959) is an American politician. She is a member of the Missouri House of Representatives, having served for the 9th district since January 2019. She is a member of the Republican party. Solon previously served in the Missouri House as a representiative of the 31st district from 2011 to 2017.[1][2]

@@ -1,1 +1,0 @@
-LEN BIERNAT is a Minnesota politician and former member of the Minnesota House of Representatives. A member of the Democratic Farmer Labor Party, he represented District 59A, which includes a portion of Hennepin in the northwestern Twin Cities metropolitan area.

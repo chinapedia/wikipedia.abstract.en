@@ -1,1 +1,0 @@
-JOHN HENRY "JACK" SMITH (16 June 1881 – 18 January 1953) was an Australian politician who was a member of the Legislative Assembly of Western Australia from 1921 to 1936 and again from 1939 to 1943, on both occasions representing the seat of Nelson. He stood for parliament eleven times in total, winning on six occasions.

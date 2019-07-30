@@ -1,1 +1,0 @@
-The 2017 TOPPSERIEN is the 31st season of the highest women's football league in Norway. LSK Kvinner entered the season as the defending champions, and claimed their fourth consecutive title, securing the crown with two rounds to spare.

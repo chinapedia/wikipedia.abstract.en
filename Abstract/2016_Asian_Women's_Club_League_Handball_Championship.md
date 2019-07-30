@@ -1,1 +1,0 @@
-The 2016 ASIAN WOMEN'S CLUB LEAGUE HANDBALL CHAMPIONSHIP, was the first edition of the Asian Women's Club League Handball Championship held from 26 October to 1 November 2016 at Kyzylorda, Kazakhstan under the aegis of Asian Handball Federation. It is the official competition for women's handball clubs of Asia crowning the Asian champions.[1]

@@ -1,1 +1,0 @@
-DR. SUSAN KOLIMBA (born 8 December 1964) is a Tanzanian academic and politician belonging to the ruling Chama Cha Mapinduzi (CCM) party. She served as Deputy Minister of Foreign Affairs and East African Cooperation up to September 26, 2018. She is a one-term Member of Parliament having been appointed to a special seat reserved for women.

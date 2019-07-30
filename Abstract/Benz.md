@@ -1,1 +1,0 @@
-BENZ, an old Germanic clan name dating to the fifth century (related to "bear", "war banner", "gau", or a "land by a waterway") also used in German as an alternative for names such as Berthold, Bernhard, or Benedict, may refer to:

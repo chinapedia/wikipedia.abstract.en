@@ -1,1 +1,0 @@
-_A SPORTING DOUBLE_ is a 1922 British silent drama film directed by Arthur Rooke and starring John Stuart, Lilian Douglas and Douglas Munro.[1] The film is set in the horse racing world. It was re-released in 1926 by Butcher's Film Service.

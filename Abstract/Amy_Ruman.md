@@ -1,1 +1,0 @@
-AMY RUMAN (born January 30, 1974 in Akron, Ohio) is an American racecar driver. She is a two-time champion (2015, 2016) of the Trans-Am Series, at its top level, "TA," which completed its 50th anniversary season in 2016.[1] She is also the only female to win the series championship.[2] Ruman is an Ohio native and a graduate of Kent State University.

@@ -1,1 +1,0 @@
-_TEXTRIX_ is a genus of funnel weavers first described by Carl Jakob Sundevall in 1833.[1] They have a mainly European distribution, with one species in Ethiopia. The type species of the genus is _Textrix denticulata_.[2]

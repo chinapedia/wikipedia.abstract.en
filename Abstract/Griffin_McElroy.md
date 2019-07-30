@@ -1,1 +1,0 @@
-| education = Marshall University | birth_place = | death_date = | death_place = | nationality = American | occupation = Podcaster, journalist | years_active = 2007–present | known_for = co-founder of _Polygon_ | notable_works = | spouse = | children = 1 | father = Clint McElroy | relatives = | website = }}

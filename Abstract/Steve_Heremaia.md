@@ -1,1 +1,0 @@
-STEVE HEREMAIA (born 23 June 1985 in South Auckland, New Zealand) is a retired New Zealand professional boxer. Heremaia is a former WBO Oriental middleweight Champion and peaked 14th on the WBO World rankings.[1] Heremaia has never been knocked out let alone knocked down in his career. Heremaia is a former New Zealand National Amateur champion, winning his title in 2003.[2]

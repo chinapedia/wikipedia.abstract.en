@@ -1,1 +1,0 @@
-IVAN STEVE "STEVEN" MARTINA (born 13 November 1961)[1] is a Curaçaoan businessman and politician. He has been Minister of Economic Development in the cabinet of Eugene Rhuggenaath since 2 June 2017. He previously served as Minister of Economic Development and vice Prime Minister in the cabinet of Daniel Hodge between 31 December 2012 and 7 June 2013.

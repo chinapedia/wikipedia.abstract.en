@@ -1,1 +1,0 @@
-'''Yuli Verdugo ''' (born ) is a Mexican female track cyclist, representing Mexico at international competitions. She won the gold medal at the 2016 Pan American Track Cycling Championships in the team sprint.[1]

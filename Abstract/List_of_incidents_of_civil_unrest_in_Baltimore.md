@@ -1,1 +1,0 @@
-Sixth_Maryland_Regiment_firing_on_the_rioters_in_Baltimore.png firing on the crowd during the strikes and riots of 1877]] This list is about incidents of civil unrest, rioting, violent labor disputes, or minor insurrections or revolts in Baltimore, Maryland.

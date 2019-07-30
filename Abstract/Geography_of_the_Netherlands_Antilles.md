@@ -1,1 +1,0 @@
-Netherlands_Antilles_before_1986.png Saint-Martin_Island_topographic_map-en.svg

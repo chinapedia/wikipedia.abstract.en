@@ -1,1 +1,0 @@
-_DARK SOULS – THE BOARD GAME_ is a miniature-based exploration board game created by Steamforged Games. It is based on the _Dark Souls_ video game series by FromSoftware and Bandai Namco Entertainment. A successful crowdfunding campaign raised over to fund the development of the project. It was released in April 2017.

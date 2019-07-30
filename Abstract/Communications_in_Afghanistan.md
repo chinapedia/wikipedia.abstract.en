@@ -1,1 +1,0 @@
-Shamshad_TV_studio_in_2010.jpg studio in 2010, which is one of the Afghan TV stations.]] COMMUNICATIONS IN AFGHANISTAN is under the control of the Ministry of Communications and Information Technology (MCIT). It has rapidly expanded after the Karzai administration took over in late 2001, and has embarked on wireless companies, internet, radio stations and television channels.

@@ -1,1 +1,0 @@
-Stephen_Pearse_portrait_photo.jpg STEPHEN PEARSE is an investor and entrepreneur who currently serves as Chairman of Techtonic Group LLC,[1] Chairman of the Advisory Board at Innovation Pavilion,[2] and Principal at Yucatan Rock Ventures.[3] He was previously CEO of Cyras Systems until its sale in 2000 to Ciena Corporation for $2.6 billion.[4][5][6]

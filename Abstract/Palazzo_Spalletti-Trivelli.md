@@ -1,1 +1,0 @@
-PALAZZO SPALLETTI-TRIVELLI (formerly Guicciardi) is a palace located atVia Emilia A San Pietro #2, corner with Via San Nicolò, in the center of the city of Reggio Emilia, region of Emilia Romagna, Italy. The building now belongs to the Credito Emiliano (Credem) bank, and owns the art collection now in the palace.

@@ -1,1 +1,0 @@
-ANTOINE THOMSON D'ABBADIE D'ARRAST (3 January 181019 March 1897)[1] was an Irish-born French explorer, geographer, ethnologist, linguist and astronomer notable for his travels in Ethiopia[2] during the first half of the 19th century. He was the older brother of Arnaud Michel d'Abbadie, with whom he travelled.[3]

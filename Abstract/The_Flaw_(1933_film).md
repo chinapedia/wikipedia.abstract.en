@@ -1,1 +1,0 @@
-_THE FLAW_ is a 1933 British thriller film directed by Norman Walker and starring Henry Kendall, Eric Maturin and Phyllis Clare. It was made as a quota quickie at Wembley Studios,[1] and was remade in 1955 with the same title.[2]

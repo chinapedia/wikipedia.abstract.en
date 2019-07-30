@@ -1,1 +1,0 @@
-MYANMAR (also known as BURMA) is an emerging economy with a nominal GDP of $69.322 billion in 2017 and an estimated purchasing power adjusted GDP of $327.629 billion in 2017 according to World Bank.[1] For 2018 estimate, the country's per capita will be $6,509 in PPP per capita and $1,490 in nominal per capita.

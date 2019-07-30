@@ -1,1 +1,0 @@
-FRANÇOIS JACQUES (5 February 1946 – 3 May 1992) was a 20th-century French historian, a specialist of ancient Rome. His work focused on municipal life of the Roman Empire and profoundly contributed to a renewal of the historical perspectives on this issue.

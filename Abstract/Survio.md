@@ -1,1 +1,0 @@
-SURVIO is an online survey system for the preparation of questionnaires, data collection and analysis and sharing the results. Survio is a project of Czech creators from the city of Brno, which is also referred to as the Czech Silicon Valley.[1]

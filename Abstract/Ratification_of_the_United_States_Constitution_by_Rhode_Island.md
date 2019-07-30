@@ -1,1 +1,0 @@
-The RATIFICATION OF THE UNITED STATES CONSTITUTION BY RHODE ISLAND was the 1790 decision by the State of Rhode Island and Providence Plantations ("Rhode Island") to accede to the United States Constitution. It was a controversial process which occurred only after the United States threatened a trade embargo against Rhode Island for non-compliance.

@@ -1,1 +1,0 @@
-The ACCUSATIVE CASE (abbreviated ) of a noun is the grammatical case used to mark the direct object of a transitive verb. The same case is used in many languages for the objects of (some or all) prepositions. It is a noun that is having something done to it, usually joined (such as in Latin) with the nominative case.

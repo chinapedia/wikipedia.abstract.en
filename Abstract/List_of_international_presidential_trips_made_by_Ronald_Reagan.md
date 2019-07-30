@@ -1,1 +1,0 @@
-Ronald_Reagan_Overseas_Visits.svg This is a LIST OF INTERNATIONAL PRESIDENTIAL TRIPS MADE BY RONALD REAGAN, the 40th president of the United States. Ronald Reagan made 25 international trips to 26 different countries on four continents—Europe, Asia, North America, and South America—during his presidency, which began on January 20, 1981 and ended on January 20, 1989.[1]

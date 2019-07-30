@@ -1,1 +1,0 @@
-JUNIEL ALBERTO QUERECUTO (born September 19, 1992) is a Venezuelan professional baseball infielder in the Arizona Diamondbacks organization. He previously played in Major League Baseball (MLB) for the Tampa Bay Rays.

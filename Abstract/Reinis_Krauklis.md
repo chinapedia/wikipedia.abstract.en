@@ -1,1 +1,0 @@
-REINIS KRAUKLIS (born 4 September 1995) is a Latvian male badminton player.[1][2] In 2015, he won the Latvian National Badminton Championships in mixed doubles event with his partner Kristīne Šefere.[3] In 2019, he repeated this achievement with another partner, Diāna Stognija.[4]

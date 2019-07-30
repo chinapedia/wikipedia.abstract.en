@@ -1,1 +1,0 @@
-_EAGLE FLIGHT_ is a virtual reality simulation video game developed by Ubisoft Montreal and published by Ubisoft. It was released for Microsoft Windows and PlayStation 4 in late 2016. Players must have a virtual reality headset, such as the Oculus Rift, PlayStation VR, or HTC Vive, in order to play the game.

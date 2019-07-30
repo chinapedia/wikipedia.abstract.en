@@ -1,1 +1,0 @@
-Scottish_Rite_Double_Headed_Eagle.gif.

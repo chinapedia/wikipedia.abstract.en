@@ -1,1 +1,0 @@
-_DASYMALLA GLUTINOSA_ is a flowering plant in the mint family Lamiaceae and is endemic to Western Australia. It is a spreading, sticky shrub with glabrous branches, egg-shaped, stalkless leaves and small, white or cream-coloured, tube-shaped flowers.

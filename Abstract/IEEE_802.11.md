@@ -1,1 +1,0 @@
-Linksys-Wireless-G-Router.jpg Wi-Fi router operates on the 2.4 GHz "G" standard, capable of transmitting 54 megabits per second.]] Netgear-Nighthawk-AC1900-WiFi-Router.jpg dual-band router from 2013 uses the AC standard, capable of transmitting 1900 megabits per second (combined).]]

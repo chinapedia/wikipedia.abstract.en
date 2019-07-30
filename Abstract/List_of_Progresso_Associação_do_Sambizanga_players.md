@@ -1,1 +1,0 @@
-This article a list of PROGRESSO ASSOCIAÇÃO DO SAMBIZANGA players. Progresso Associação do Sambizanga is an Angolan association football (soccer) club based in Luanda and plays at Estádio dos Coqueiros. The club was established in 1975.

@@ -1,1 +1,0 @@
-OREGON BALLOT MEASURE 96 is a ballot measure in the 2016 election in the U.S. state of Oregon. The measure dedicates 1.5% of net proceeds from the Oregon Lottery to funding support services for military veterans.[1] On November 8, 2016, Oregon voters approved the measure, with 83 percent of voters voting in favor of it.[2]

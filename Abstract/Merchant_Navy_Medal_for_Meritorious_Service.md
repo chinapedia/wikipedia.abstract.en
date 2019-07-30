@@ -1,1 +1,0 @@
-The MERCHANT NAVY MEDAL FOR MERITORIOUS SERVICE is a state award within the British honours system. The medal is awarded to no more than 20 recipients annually who are announced on Merchant Navy Day, 3 September. A 'Merchant Navy Medal' with the same criteria was awarded by the Merchant Navy Welfare Board from 2005, before being superseded by the state award in 2015.[1]

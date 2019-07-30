@@ -1,1 +1,0 @@
-HIGHWAY 51 (AR 51, ARK. 51, and HWY. 51) is a designation for two north–south state highways in Southwest Arkansas. One route of begins Highway 53 near Whelen Springs and runs north to US Highway 67 (US 67) in Donaldson. A second route of runs parallel to US 270 northwest of Malvern. Both routes are maintained by the Arkansas Department of Transportation (ArDOT).

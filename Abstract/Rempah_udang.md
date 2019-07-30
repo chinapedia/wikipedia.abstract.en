@@ -1,1 +1,0 @@
-REMPAH UDANG is a traditional Peranakan dumpling dessert snack[1] (KUEH or KUIH), usually made from glutinous rice and shrimp paste (HAE BEE HIAM) wrapped in a pandan leaf. It is sometimes wrapped in banana leaves.[2]

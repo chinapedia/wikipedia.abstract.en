@@ -1,1 +1,0 @@
-STS-51-F (also known as SPACELAB 2) was the 19th flight of NASA's Space Shuttle program and the eighth flight of Space Shuttle _Challenger_. It launched from Kennedy Space Center, Florida, on July 29, 1985, and landed just under eight days later on August 6.

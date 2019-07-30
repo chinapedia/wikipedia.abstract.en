@@ -1,1 +1,0 @@
-_OLIVIA NEWTON-JOHN: HOPELESSLY DEVOTED TO YOU_ is an Australian miniseries based on the Australian singer/songwriter and actress Olivia Newton-John.[1][2] The miniseries premiered on 13 May 2018 and concluded on 20 May 2018 on the Seven Network.[3][4]

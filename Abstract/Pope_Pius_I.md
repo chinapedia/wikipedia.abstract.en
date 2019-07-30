@@ -1,1 +1,0 @@
-POPE PIUS I (died c. 155) is said to have been the Bishop of Rome from c. 140 to his death c. 154,[1] according to the _Annuario Pontificio_. His dates are listed as 142 or 146 to 157 or 161, respectively.[2]

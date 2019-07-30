@@ -1,1 +1,0 @@
-The ACORN ELECTRON was a budget version of the BBC Micro educational/home computer made by Acorn Computers Ltd. It has 32 kilobytes of RAM, and its ROM includes BBC BASIC v2 along with its operating system.

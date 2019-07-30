@@ -1,1 +1,0 @@
-The WOMEN'S 100 METRE BREASTSTROKE SB7 event at the 2016 Paralympic Games took place on 10 September 2016, at the Olympic Aquatics Stadium. Two heats were held. The swimmers with the eight fastest times advanced to the final.

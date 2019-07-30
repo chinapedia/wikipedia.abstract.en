@@ -1,1 +1,0 @@
-The RIVERS STATE MINISTRY OF WOMEN AFFAIRS is the civil service department of Rivers State charged with advising the government on policies and programs involving women and gender equality. The ministry was formed in 1997 and took over the functions of the former Rivers State Commission for Women. Its current headquarters is at Marine Base, Port Harcourt.

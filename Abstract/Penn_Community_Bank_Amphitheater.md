@@ -1,1 +1,0 @@
-The PENN COMMUNITY BANK AMPHITHEATER is an amphitheater located in Bensalem, Pennsylvania. It was previously known as TD Bank Amphitheater, Commerce Bank Amphitheater, and Bensalem Performing Arts Center.[1] The amphitheater is located in Bensalem Township's Central Park at 2400 Byberry Road, adjacent to the Municipal Complex.

@@ -1,1 +1,0 @@
-[1] is a Japanese motorcycle racer. In 2016, she became the first Japanese female rider to compete in a Grand Prix in 21 years.[2] She currently competes aboard a TSR3 Honda in the MFJ All-Japan Road Race J-GP3 Championship.

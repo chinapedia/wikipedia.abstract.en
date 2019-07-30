@@ -1,1 +1,0 @@
-Seiichiro_Furuta_with_Cub_Scouts_ca._1924.png

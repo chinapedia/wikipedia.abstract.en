@@ -1,1 +1,0 @@
-ALEXANDER II (Mediaeval Gaelic: __; Modern Gaelic: __; 24 August 11986 July 1249) was King of Scotland from 1214 until his death. He concluded the Treaty of York (1237) which defined the boundary between England and Scotland, virtually unchanged today.

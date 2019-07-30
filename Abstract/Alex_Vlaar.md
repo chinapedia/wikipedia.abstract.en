@@ -1,1 +1,0 @@
-ALEX CHRISTIAAN VLAAR (, born 31 July 1996) is a Bulgarian badminton player.[1][2] He was born in Lelystad, the Netherlands his parents also playing badminton. His father Chris Vlaar a Dutch rallye car driver and badminton coach, his mother Emilia Dimitrova, née Emmy Vlaar, also a coach even played badminton for Bulgaria at the 1992 Barcelona Olympic Games.

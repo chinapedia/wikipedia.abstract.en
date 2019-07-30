@@ -1,1 +1,0 @@
-_NEIGHBOURS IN A THICKET : POEMS_ (1974) is the second poetry collection by Australian poet and author David Malouf.[1] It won the ALS Gold Medal,[2] the Grace Leven Prize for Poetry,[3] and the Colin Roderick Award,[4] all in 1974.

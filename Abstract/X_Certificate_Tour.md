@@ -1,1 +1,0 @@
-The _X CERTIFICATE TOUR_ was a 1978 United Kingdom concert tour by British heavy metal band Judas Priest where they supported their album _Hell Bent for Leather_ from 24 October 1978 until 24 November 1978.

@@ -1,1 +1,0 @@
-is a 2015 Japanese animated family comedy film directed by , produced by Nippon Animation and based on the manga series _Chibi Maruko-chan_ written and illustrated by Momoko Sakura.[1] It was released in Japan by Toho on December 23, 2015.[2]

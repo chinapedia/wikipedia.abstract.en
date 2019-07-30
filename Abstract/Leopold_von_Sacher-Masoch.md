@@ -1,1 +1,0 @@
-LEOPOLD RITTER[1] VON SACHER-MASOCH (27 January 1836 – 9 March 1895) was an Austrian nobleman, writer and journalist, who gained renown for his romantic stories of Galician life. The term _masochism_ is derived from his name, invented by his contemporary, the Austrian psychiatrist Richard von Krafft-Ebing. Masoch did not approve of this use of his name.[2]

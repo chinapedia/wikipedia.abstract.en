@@ -1,1 +1,0 @@
-HXD1D_0115@NXH_(20180518091616).jpg electric locomotive hauling a passenger train in China]] Three-loco-styles.jpg diesel locomotives in Australia showing three body types, cab unit, hood unit and box cab]] R707-loco-victorian-railways.jpg steam locomotive number R707 as operated by the Victorian Railways of Australia]]

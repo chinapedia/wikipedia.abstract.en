@@ -1,1 +1,0 @@
-_URAECHA ANGUSTA_ is a species of beetle in the family Cerambycidae. It was described by Francis Polkinghorne Pascoe in 1856, originally under the genus _Monohammus_. It is known from Vietnam, China and Taiwan. It contains the varietas _Uraecha angusta var. horishana_.[1]

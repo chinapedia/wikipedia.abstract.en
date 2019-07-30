@@ -1,1 +1,0 @@
-ANTINOMY (Greek ἀντί, _antí_, "against, in opposition to", and νόμος, _nómos_, "law") refers to a real or apparent mutual incompatibility of two laws.[1] It is a term used in logic and epistemology, particularly in the philosophy of Kant.

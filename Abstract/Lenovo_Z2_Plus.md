@@ -1,1 +1,0 @@
-The LENOVO Z2 PLUS is a smartphone manufactured by Lenovo. It is a part of Lenovo low-end smartphone line, and has two variants[1] LENOVO Z2 PLUS is the Indian version of Lenovo Zuk Z2, that was launched in China in May, 2016.

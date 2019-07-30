@@ -1,1 +1,0 @@
-_BUNIUM ELEGANS_ is a species of flowering plants in the family Apiaceae found in Syria and Lebanon. A specimen is kept at the Muséum National d'Histoire Naturelle in Paris.[1] The plant contains essential oils.[2]

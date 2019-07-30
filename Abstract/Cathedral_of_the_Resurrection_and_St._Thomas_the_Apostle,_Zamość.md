@@ -1,1 +1,0 @@
-The CATHEDRAL OF THE RESURRECTION AND ST. THOMAS THE APOSTLE [1] ( ) also called ZAMOŚĆ CATHEDRAL[2] is a religious building that is affiliated with the Catholic Church and is located in the old town of Zamość,[3] a city in the European country of Poland.[4]

@@ -1,1 +1,0 @@
-ART MILLER JR. (born July 11, 1946) was a Democratic member of the Michigan Senate from 1975 through 2002 representing a portion of Macomb County. From April 1985 through 1996, he was the Democratic leader in the chamber.[1]

@@ -1,1 +1,0 @@
-The _ALCATRAZLISTAN_ (English: ALCATRAZ LIST) is a most wanted list of 100 figures in organized crime maintained by the Swedish law enforcement agencies.[1] It takes its name from the notorious prison in San Francisco.

@@ -1,1 +1,0 @@
-BRITISH STEEL PLC was a major British steel producer. It originated from the nationalised BRITISH STEEL CORPORATION (BSC), formed in 1967, which was privatised as a public limited company, British Steel plc, in 1988. It was once a constituent of the FTSE 100 Index. The company merged with Koninklijke Hoogovens to form Corus Group in 1999.

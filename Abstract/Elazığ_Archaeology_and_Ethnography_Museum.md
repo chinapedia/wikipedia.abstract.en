@@ -1,1 +1,0 @@
-ELAZIĞ ARCHAEOLOGY AND ETHNOGRAPHY MUSEUM is a museum in Elazığ, Turkey

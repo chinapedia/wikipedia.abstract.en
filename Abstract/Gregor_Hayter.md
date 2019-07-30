@@ -1,1 +1,0 @@
-GREGOR HAYTER (born 13 August 1976 in Scotland) is a Scottish former rugby union player who played for Glasgow Warriors at the Lock position. He also previously played for Caledonia Reds and Edinburgh Rugby.[1]

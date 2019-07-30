@@ -1,1 +1,0 @@
-WARBOYS AND WISTOW WOODS is a 44.5 hectare biological Site of Special Scientific Interest north of Warboys and west of Wistow in Cambridgeshire.[1][2] Wistow Wood is an 8.5 hectare nature reserve owned and managed by the Wildlife Trust for Bedfordshire, Cambridgeshire and Northamptonshire.[3]

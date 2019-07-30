@@ -41,7 +41,7 @@ Telephones
 
 There are currently four cellular companies: the former Alizé, now Orange owned by Sonatel; Tigo/Sentel, 75 percent owned by Millicom International Cellular; Hayo/CSU; and Expresso/Sudatel. Orange has roughly two thirds of the cellular market, but Tigo is rapidly gaining market share. In November 2007 a third mobile license was awarded to Sudan's Sudatel for $200 million. The license permits Sudatel to offer fixed line telephone and Internet service (for which Sonatel had a monopoly).[12][13] In 2012 a fourth license was awarded to CSU/Hayo, permitting them to offer mobile, fixed, wifi, and wimax services.
 
-Atlantis-II-map.png cable system. #4 is Dakar, Senegal.]]
+cable system. #4 is Dakar, Senegal.]]
 
 -   Calling code: +221,[14] international calls to most countries can be dialed directly.
 -   International call prefix: 00[15]

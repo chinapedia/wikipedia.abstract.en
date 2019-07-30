@@ -1,1 +1,0 @@
-SOL J. PAUL was an American writer and magazine publisher. He is the founding publisher of _Television/Radio Age_ and _Cable Age_ and former journalist for the _Washington Post_ and _Gannett_. In addition to writing radio scripts, Paul also published the World Radio TV Handbook.

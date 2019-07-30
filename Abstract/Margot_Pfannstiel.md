@@ -1,1 +1,0 @@
-MARGOT PFANNSTIEL (18 June 1926 - 10 October 1993) was a German journalist and author. She was Editor in Chief of the East German women's magazine Sibylle between 1958 and 1968. Both before and after her decade at Sibylle she was a chief reporter at the weekly news magazine Wochenpost.[1][2]

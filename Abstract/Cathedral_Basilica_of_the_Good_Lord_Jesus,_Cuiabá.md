@@ -1,1 +1,0 @@
-The CATHEDRAL BASILICA OF THE GOOD LORD JESUS[1] () Also METROPOLITAN CATHEDRAL BASILICA OF THE GOOD LORD JESUS or CUIABÁ CATHEDRAL Is a Catholic temple with basilica status, located in the city of Cuiabá,[2] capital of the state of Mato Grosso in Brazil.[3]

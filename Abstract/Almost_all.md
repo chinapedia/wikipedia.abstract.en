@@ -1,1 +1,0 @@
-In mathematics, the term "ALMOST ALL" means "all but a negligible amount". More precisely, if X is a set, "almost all elements of X" means "all elements of X but those in a negligible subset of X". The meaning of "negligible" depends on the mathematical context; for instance, it can mean finite, countable, or null.

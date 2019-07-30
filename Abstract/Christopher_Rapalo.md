@@ -1,1 +1,0 @@
-CHRISTOPHER RAPALO is a photographer, filmmaker, and owner of Miami production company, Third Dream Media. He is known for his debut documentary, _Retro Couture_ (2016) which debuted at the Miami Fashion Film Festival and has gone onto international film festivals.[1]

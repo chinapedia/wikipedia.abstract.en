@@ -1,1 +1,0 @@
-VICTORIA, CROWN PRINCESS OF SWEDEN, DUCHESS OF VÄSTERGÖTLAND (Victoria Ingrid Alice Désirée; , born 14 July 1977) is the heir apparent to the Swedish throne, as the eldest child of King Carl XVI Gustaf. If she ascends to the throne as expected, she will be Sweden's fourth queen regnant (after Margaret, Christina and Ulrika Eleonora) and the first since 1720.

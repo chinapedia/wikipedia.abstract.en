@@ -1,1 +1,0 @@
-TAPINATOR, INC., founded in 2013, is a mobile game and app developer and publisher headquartered in New York City with product development and marketing teams located in North America, Europe and Asia. Tapinator generates revenues through the sale of branded advertisements and app store transactions.[1] Since its founding, Tapinator has published more than 300 mobile games.[2]

@@ -1,1 +1,0 @@
-_LIVE AT THE BERLIN JAZZ DAYS 1980_ is a live album featuring a memorial concert for Lennie Tristano by saxophonist Lee Konitz and pianist Martial Solal which was recorded at the Berliner Philharmonie by Sender Freies Berlin as part of the Berliner Jazztage in 1980 and released on the MPS label in 1982.[1][2][3] The album was also released in the US on Pausa Records.

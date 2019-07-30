@@ -1,1 +1,0 @@
-JOHN C. MCCAHERTY (born April 6, 1965) is an American politician. He was a member of the Missouri House of Representatives, from 2011 to September 16, 2017. He is a member of the Republican Party.[1][2]

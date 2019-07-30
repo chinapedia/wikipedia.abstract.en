@@ -1,1 +1,0 @@
-PAT COTHAM, At Large, is serving her third term on the Mecklenburg Board of County Commissioners. During her first term she served as Chair of the Board. She earned a BA in Spanish and a BJ in journalism from the University of Missouri.[1]

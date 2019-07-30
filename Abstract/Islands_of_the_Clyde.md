@@ -1,1 +1,0 @@
-Islands_of_the_Clyde.png]] Holy_Isle_from_North.JPG seen from Bute]] PS_Waverley_off_Brodick_castle_1989.jpg lying in Brodick Bay in front of Brodick Castle. Paddle steamers like this were formerly extremely common on the Clyde.[1]]]

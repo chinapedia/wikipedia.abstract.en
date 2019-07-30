@@ -1,1 +1,0 @@
-This is a list of the SEASONS PLAYED BY FK SUTJESKA from 1946, when the club first entered a top-tier national competition to the most recent seasons. The club's achievements in all major national competitions are listed.

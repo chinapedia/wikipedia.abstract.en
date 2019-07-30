@@ -1,1 +1,0 @@
-First Sergeant WILLIAM MCNAMARA (1835 – March 16, 1912) was an Irish-born soldier in the U.S. Army who served with the 4th U.S. Cavalry during the Texas–Indian Wars. He received the Medal of Honor for gallantry against the Comanche Indians at the Red River in Texas on September 29, 1872.

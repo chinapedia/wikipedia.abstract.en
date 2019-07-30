@@ -1,1 +1,0 @@
-The UMBUTFO ESWATINI DEFENCE FORCE (UEDF) is the official armed national military of the Southern African Kingdom of Eswatini. is used primarily during domestic protests, with some border and customs duties; the force has never been involved in a foreign conflict.[1] The army has struggled with high rates of HIV infection. Since measures were put in place the rate is dropping.[2]

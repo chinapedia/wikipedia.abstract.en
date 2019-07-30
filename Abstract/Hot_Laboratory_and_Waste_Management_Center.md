@@ -1,1 +1,0 @@
-The HOT LABORATORY AND WASTE MANAGEMENT CENTER (HLWMC), is dedicated for radioactive waste disposal as well as development of expertise in the back end of nuclear fuel cycle and radioisotope production for medical and industrial applications. The HLWMC was established in 1980, owned and operated by the Egyptian Atomic Energy Authority (AEA) in Inshas, northeast of Cairo.[1][2]

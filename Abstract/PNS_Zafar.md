@@ -1,1 +1,0 @@
-The PNS ZAFAR is a Pakistani naval base located in the vicinity of the Navy NHQ in Islamabad, Pakistan.[1][2] Commissioned in 1974, it serves as a headquarter of the Northern Command of the Pakistan Navy.[3][4]

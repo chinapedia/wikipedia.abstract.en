@@ -1,11 +1,11 @@
-United_States_General_Martin_Dempsey_and_French_General_Pierre_de_Villiers_saluting_(23_April_2014,_cropped).jpg general (left) and a French Army general (right) saluting.]] Defense.gov_News_Photo_060216-F-4462M-017.jpg Leaders_welcoming_boy_into_Mexico_Scouting.jpg leader and a new Scout exchange salutes]]
+general (left) and a French Army general (right) saluting.]] leader and a new Scout exchange salutes]]
 
 A SALUTE is a gesture or other action used to display respect. Salutes are primarily associated with armed forces, but other organizations and civilians also use salutes.
 
 
 Military salutes
 
-USNsalute.jpg Jay L. Johnson and Vern Clark of the United States Navy salute each other during a change of command ceremony. Clark is replacing Johnson as Chief of Naval Operations.]] USMC-120608-M-RT059-031.jpg Duane King of the United States Marine Band salutes during a pass in review at the Friday Evening Parade at Marine Barracks Washington D.C.]] In military traditions of various times and places, there have been numerous methods of performing salutes, using hand gestures, cannon or rifle shots, hoisting of flags, removal of headgear, or other means of showing respect or deference. In the Commonwealth of Nations, only commissioned officers are saluted, and the salute is to the commission they carry from their respective commanders-in-chief representing the Monarch, not the officers themselves.
+Jay L. Johnson and Vern Clark of the United States Navy salute each other during a change of command ceremony. Clark is replacing Johnson as Chief of Naval Operations.]] Duane King of the United States Marine Band salutes during a pass in review at the Friday Evening Parade at Marine Barracks Washington D.C.]] In military traditions of various times and places, there have been numerous methods of performing salutes, using hand gestures, cannon or rifle shots, hoisting of flags, removal of headgear, or other means of showing respect or deference. In the Commonwealth of Nations, only commissioned officers are saluted, and the salute is to the commission they carry from their respective commanders-in-chief representing the Monarch, not the officers themselves.
 
 The British Army's salute is almost identical to the French salute, with the palm facing outward. The customary salute in the Polish Armed Forces is the two-fingers salute, a variation of the British military salute with only two fingers extended. In the Russian military, the right hand, palm down, is brought to the right temple, almost, but not quite, touching; the head has to be covered. In the Hellenic Army salute, the palm is facing down and the fingers point to the coat of arms.
 
@@ -19,7 +19,7 @@ Some soldiers may salute with the left hand when the right hand is encumbered in
 
 Origin
 
-Rustic_civility.jpg showing a child "tugging his forelock" as a person of higher standing passes on horseback (only visible by the shadow)]] According to some modern military manuals, the modern Western salute originated in France when knights greeted each other to show friendly intentions by raising their visors to show their faces, using a salute. Others also note that the raising of one's visor was a way to identify oneself saying "This is who I am, and I am not afraid." Medieval visors were, to this end, equipped with a protruding spike that allowed the visor to be raised using a saluting motion.[2][3]
+showing a child "tugging his forelock" as a person of higher standing passes on horseback (only visible by the shadow)]] According to some modern military manuals, the modern Western salute originated in France when knights greeted each other to show friendly intentions by raising their visors to show their faces, using a salute. Others also note that the raising of one's visor was a way to identify oneself saying "This is who I am, and I am not afraid." Medieval visors were, to this end, equipped with a protruding spike that allowed the visor to be raised using a saluting motion.[2][3]
 
 The US Army Quartermaster School provides another explanation of the origin of the hand salute: that it was a long-established military courtesy for subordinates to remove their headgear in the presence of superiors. As late as the American Revolution, a British Army soldier saluted by removing his hat. With the advent of increasingly cumbersome headgear in the 18th and 19th centuries, however, the act of removing one's hat was gradually converted into the simpler gesture of grasping or touching the visor and issuing a courteous salutation.
 
@@ -29,7 +29,7 @@ The naval salute, with the palm downwards is said to have evolved because the pa
 
 Small arms salutes
 
-Salute-IMG_8784b.jpg salutes by holding the flat of his saber to his face during the ceremonies of the 14th of July in Toulon.]]
+salutes by holding the flat of his saber to his face during the ceremonies of the 14th of July in Toulon.]]
 
 When carrying a sword (which is still done on ceremonial occasions), European military forces and their cultural descendants use a two-step gesture. The sword is first raised, in the right hand, to the level of and close to the front of the neck. The blade is inclined forward and up 30 degrees from the vertical; the true edge is to the left. Then the sword is slashed downward to a position with the point close to the ground in front of the right foot. The blade is inclined down and forward with the true edge to the left. This gesture originated in the Crusades. The hilt of a sword formed a cross with the blade, so if a crucifix was not available, a Crusader could kiss the hilt of his sword when praying, before entering battle, for oaths and vows, and so on. The lowering of the point to the ground is a traditional act of submission.
 
@@ -41,7 +41,7 @@ A different type of salute with a rifle is a ritual firing performed during mili
 
 Heavy arms: gun salutes
 
-Soldiers_firing_a_40mm_saluting_cannon.JPEG Valletta_Saluting_battery_Malta_2014_7.jpg in Valletta firing a gun salute.]]
+in Valletta firing a gun salute.]]
 
 Naval cannon fire
 
@@ -77,7 +77,7 @@ In both countries, the right-hand salute is generally identical to, and drawn fr
 
 British military
 
-Tri-Service_Personnel_Saluting_MOD_45151321.jpg, the British Army and the Royal Navy saluting.]]
+, the British Army and the Royal Navy saluting.]]
 
 British Army
 
@@ -113,11 +113,11 @@ On Remembrance Day, 2009, The Prince of Wales attended the national ceremony in 
 
 Danish military
 
-Danish_Army_Salute.png In the Danish military, there are two types of military salutes. The first type is employed by the Royal Danish Navy, Royal Danish Air Force, and Guard Hussar Regiment Mounted Squadron, and is the same as the one used by the U.S.[15] The second is employed by the Royal Danish Army, and goes as follows: Raise the right arm forward, as to have upper arm 90 degrees from the body. Move the right hand to the temple, and have it parallel to the ground.[16]
+In the Danish military, there are two types of military salutes. The first type is employed by the Royal Danish Navy, Royal Danish Air Force, and Guard Hussar Regiment Mounted Squadron, and is the same as the one used by the U.S.[15] The second is employed by the Royal Danish Army, and goes as follows: Raise the right arm forward, as to have upper arm 90 degrees from the body. Move the right hand to the temple, and have it parallel to the ground.[16]
 
 French military
 
-Pierre_de_Villiers_(détail).jpg.]]
+.]]
 
 The French military salutes to demonstrate a mark of respect, fraternity and courtesy for all soldiers ; subordinates salute superiors and every salute is given back. Salutes are not performed if a member is not wearing a headdress or if he is holding a weapon. The French salute, as the original template, is performed with a flat hand, palm facing forwards; the upper arm is horizontal and the tips of the fingers come near the corner of the eyes. It perfectly mirrors the gesture made when knights greeted each other to show friendly intentions by raising their visors to show their faces. A crisp tension may be given when the salute is broken.
 
@@ -135,7 +135,7 @@ In Indonesia, the salute is similar to the British Royal Navy. The salute is a g
 
 Israel Defense Forces
 
-IDF_Ceremony_for_the_Newly_Appointed_Commander_in_Chief_of_Israeli_Navy_-_Flickr_-_Israel_Defense_Forces_(1).jpg In the Israel Defense Forces, saluting is normally reserved for special ceremonies. Unlike in the US Army, saluting is not a constant part of day to day barracks life.[18]
+In the Israel Defense Forces, saluting is normally reserved for special ceremonies. Unlike in the US Army, saluting is not a constant part of day to day barracks life.[18]
 
 Pakistan Armed Forces
 
@@ -147,7 +147,7 @@ Military personnel of the People's Liberation Army salute palm-down, similar to 
 
 Polish military
 
-Ludwik_Solski.jpg In Polish military forces, military men use two fingers to salute, and when they wear headdress (including helmet) because soldiers are supposed to salute to the Coat of Arms on the military headdress, out of respect to the national symbols (This is called the Two-finger salute). There are some exceptions in Polish regulations when salute is not demonstrated, for instance after proclaiming alert in military unit area. As above, salute is marking respect for higher rank or command. Untrained recruits are obliged to salute as without headdress, i.e. to stand at attention (or—during walking—to march at attention).
+In Polish military forces, military men use two fingers to salute, and when they wear headdress (including helmet) because soldiers are supposed to salute to the Coat of Arms on the military headdress, out of respect to the national symbols (This is called the Two-finger salute). There are some exceptions in Polish regulations when salute is not demonstrated, for instance after proclaiming alert in military unit area. As above, salute is marking respect for higher rank or command. Untrained recruits are obliged to salute as without headdress, i.e. to stand at attention (or—during walking—to march at attention).
 
 Swedish military
 
@@ -158,8 +158,6 @@ Swiss Armed Forces
 Swiss soldiers are required to salute any higher-ranking military personnel whenever they encounter them. When the soldier announces to a higher-ranking person he has to state the superior's rank, his rank and his name. When a military formation encounters a superior, it has to state the name of the formation. The salute is given like that of the British navy with the palm pointing towards the shoulder, the tips of the fingers pointing towards the temple.
 
 Turkish Armed Forces
-
-Two_Turkish_soldiers_salute_(4699895014).jpg
 
 Within the Turkish military hand salutes are only given when a cover (protection for the head, usually a hat) is worn.
 
@@ -187,7 +185,7 @@ The United States Army and United States Air Force give salutes both covered and
 
 Zogist salute
 
-Royal_Albanian_army_2.jpg The Zogist salute is a military salute that was instituted by Zog I of Albania. It is a gesture whereby the right hand is placed over the heart, with the palm facing downwards. It was first widely used by Zog's personal police force and was later adopted by the Royal Albanian Army.
+The Zogist salute is a military salute that was instituted by Zog I of Albania. It is a gesture whereby the right hand is placed over the heart, with the palm facing downwards. It was first widely used by Zog's personal police force and was later adopted by the Royal Albanian Army.
 
 In Mexico, a salute similar to the Zogist one is rendered by Mexican civilians during the playing of the Mexican national anthem.[26][27]
 
@@ -265,7 +263,7 @@ Thailand also has the same rule like Indonesia wherein all persons present regar
 
 Roman salute
 
-Jacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg'', by Jacques-Louis David]]
+'', by Jacques-Louis David]]
 
 The Roman salute is a gesture in which the arm is held out forward straight, with palm down and fingers extended straight and touching. Sometimes the arm is raised upward at an angle, sometimes it is held out parallel to the ground. A well known symbol of Fascism, it is commonly perceived to be based on a classical Roman custom.[29]^(p. 2) but no known Roman work of art displays this salute, and no known Roman text describes it.[30]
 
@@ -293,7 +291,7 @@ In the United States, the raised fist was associated with the Black Power moveme
 
 Greetings
 
-Secretary_General_of_NATO_Luns_tips_his_hat_as_a_troop_review_1983.jpg Joseph Luns tips his hat at a troop review in 1983, in lieu of a military salute. This (the full gesture is shown here) was by then becoming old-fashioned as a general social greeting, but had once been normal.]] Many different gestures are used throughout the world as simple greetings. In Western cultures the handshake is very common, though it has numerous subtle variations in the strength of grip, the vigour of the shake, the dominant position of one hand over the other, and whether or not the left hand is used.
+Joseph Luns tips his hat at a troop review in 1983, in lieu of a military salute. This (the full gesture is shown here) was by then becoming old-fashioned as a general social greeting, but had once been normal.]] Many different gestures are used throughout the world as simple greetings. In Western cultures the handshake is very common, though it has numerous subtle variations in the strength of grip, the vigour of the shake, the dominant position of one hand over the other, and whether or not the left hand is used.
 
 Historically, when men normally wore hats out of doors, male greetings to people they knew, and sometimes those they did not, involved touching, raising slightly ("tipping"), or removing their hat in a variety of gestures, see hat tip. This basic gesture remained normal in very many situations from the Middle Ages until men typically ceased wearing hats in the mid-20th century. Hat-raising began with an element of recognition of superiority, where only the socially inferior party might perform it, but gradually lost this element; King Louis XIV of France made a point of at least touching his hat to all women he encountered. However the gesture was never used by women, for whom their head-covering included considerations of modesty. When a man was not wearing a hat he might touch his hair to the side of the front of his head to replicate a hat tipping gesture. This was typically performed by lower class men to social superiors, such as peasants to the land-owner, and is known as "tugging the forelock", which still sometimes occurs as a metaphor for submissive behaviour.
 

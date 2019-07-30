@@ -1,1 +1,0 @@
-Berest1.jpg

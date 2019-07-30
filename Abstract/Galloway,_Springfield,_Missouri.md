@@ -1,1 +1,0 @@
-GALLOWAY[1] is a neighborhood of southeast Springfield, Missouri, United States.[2] Galloway is located in a stream valley approximately one-half mile north of the U.S. Route 60 and U.S. Route 65 interchange and one mile south of Sequiota Park.[3]

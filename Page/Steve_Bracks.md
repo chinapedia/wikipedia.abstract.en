@@ -27,7 +27,7 @@ Bracks was immediately elected to Labor's front bench, as Shadow Minister for Em
 
 First term as Premier
 
-Regional_fast_rail_launch_at_geelong.jpg at the launch of the Regional Fast Rail project Geelong line upgrades in February 2006]]
+at the launch of the Regional Fast Rail project Geelong line upgrades in February 2006]]
 
 Political observers were almost unanimous that Bracks had no chance of defeating Liberal premier Jeff Kennett at the September 1999 election:[8] polls gave Kennett a 60% popularity rating. Bracks and his senior colleagues (particularly Brumby, who comes from Bendigo) campaigned heavily in regional areas, accusing Kennett of ignoring regional communities. In response, voters in regional areas deserted the Kennett government. On election night, much to its own surprise, Labor increased its seat count from 29 to 41, with the Liberals and their National Party allies retaining 43, and three falling to rural independents. With the Coalition one seat short of government, the election was to be decided in Frankston East, when the death of incumbent Peter McLellan forced a supplementary election. That supplementary election was won by Labor on a large swing, resulting in a hung parliament. The independents agreed to support a minority Labor government, making Bracks the first Catholic Labor Premier of Victoria since 1932.
 

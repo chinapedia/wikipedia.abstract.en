@@ -12,7 +12,7 @@ Swahili is a Bantu language of the Sabaki branch.[9] In Guthrie's geographic cla
 
 History
 
-Askari_makumbusho_matini_Kiswahili_-_Kiarabu.png, Dar es Salaam (1927)]]
+, Dar es Salaam (1927)]]
 
 Origin
 
@@ -24,7 +24,7 @@ Its name comes from Arabic: سَاحِل _sāħil_ = "coast", broken plural سَ
 
 Colonial period
 
-Swahili-pn.jpg introduced by Christian missionaries and colonial administrators. The text shown here is the Catholic version of the Lord's Prayer.[14]]]
+introduced by Christian missionaries and colonial administrators. The text shown here is the Catholic version of the Lord's Prayer.[14]]]
 
 Since Swahili was the language of commerce in East Africa, the colonial administrators wanted to standardize it.[15] In June 1928, an interterritorial conference attended by representatives of Kenya, Tanganyika, Uganda, and Zanzibar took place in Mombasa. The Zanzibar dialect was chosen as standard Swahili for those areas,[16] and the standard orthography for Swahili was adopted.[17]
 
@@ -88,7 +88,7 @@ Some dialects of Swahili may also have the aspirated phonemes though they are un
 
 Orthography
 
-Bundesarchiv_Bild_105-DOA0075,_Deutsch-Ostafrika,_Einheimisches_Mädchen.jpg (ca. early 1900s)]]
+(ca. early 1900s)]]
 
 Swahili is currently written in an alphabet close to English, except it does not use the letters Q and X.[39] There are two digraphs for native sounds, _ch_ and _sh_; _c_ is not used apart from unassimilated English loans and, occasionally, as a substitute for _k_ in advertisements. There are also several digraphs for Arabic sounds not distinguished in pronunciation outside of traditional Swahili areas.
 

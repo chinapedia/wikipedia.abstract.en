@@ -1,1 +1,0 @@
-LIGA FUTEBOL AMADORA SEGUNDA DIVISÃO (often referred to as the LFA SEGUNDA DIVISÃO) is second-highest division of the Liga Futebol Amadora and second-highest overall in the Timorense football league system.

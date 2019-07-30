@@ -1,1 +1,0 @@
-DARRELL LIEVERSZ (born 7 June 1943) is a former cricketer who played for Ceylon in 1964 and 1965. In September 2018, he was one of 49 former Sri Lankan cricketers felicitated by Sri Lanka Cricket, to honour them for their services before Sri Lanka became a full member of the International Cricket Council (ICC).[1][2]

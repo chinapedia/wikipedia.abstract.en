@@ -1,1 +1,0 @@
-KÄTE DUNCKER (born KÄTE DÖLL: 23 May 1871- 2 May 1953) was a German political and feminist activist who became a politician in the Social Democratic Party of Germany and then the Communist Party of Germany.[1][2]

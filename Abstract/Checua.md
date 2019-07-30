@@ -1,1 +1,0 @@
-CHECUA is a preceramic open area archaeological site in Nemocón, Cundinamarca, Colombia. The site is located north of the town centre.[1][2] At Checua, thousands of stone and bone tools, stone flakes and human remains have been found, indicating human occupation from around 8500 to 3000 years BP.

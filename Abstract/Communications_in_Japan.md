@@ -1,1 +1,0 @@
-Government_Office_Complex_2_of_Japan_2009.jpg complex houses the Ministry of Internal Affairs and Communications, which administers Japanese cellphone networks while also providing many other services.]]

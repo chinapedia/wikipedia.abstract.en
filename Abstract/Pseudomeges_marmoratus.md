@@ -1,1 +1,0 @@
-_PSEUDOMEGES MARMORATUS_ is a species of beetle in the family Cerambycidae. It was described by Westwood in 1848, originally under the genus _Hammaticherus_. It is known from India, Bhutan, and Myanmar. It feeds on _Quercus griffithii_.[1]

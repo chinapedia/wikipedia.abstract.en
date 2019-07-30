@@ -1,1 +1,0 @@
-Within Christianity, there are a variety of views on sexual orientation and homosexuality. Even within a denomination, individuals and groups may hold different views and not all members of a denomination necessarily support their church's views on homosexuality.

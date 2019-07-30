@@ -1,1 +1,0 @@
-RwandaRoads.jpg The TRANSPORT SYSTEM IN RWANDA centres primarily around the road network. Paved roads lie between the capital, Kigali, and most other major cities and towns in the country. Rwanda is also linked by road with other countries in the African Great Lakes, via which the majority of the country's imports and exports are made.

@@ -1,1 +1,0 @@
-TERGIN APARTMENT BUILDING, also known as '''Tergin Apartments ''', is a historic apartment building located at Jefferson City, Cole County, Missouri. It was built in 1938-1939, and is a two-story brick walkup apartment building with a full basement. It measures 50 feet wide by 35 feet deep and features Art Deco and Streamline Moderne design elements.[1]

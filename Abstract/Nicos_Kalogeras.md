@@ -1,1 +1,0 @@
-NICOS KALOGERAS () served as the Chief Commissioner of the Scouts of Greece,[1][2] served as the Chairman of the Kandersteg International Scout Centre Committee, and as a member of the European Scout Committee.

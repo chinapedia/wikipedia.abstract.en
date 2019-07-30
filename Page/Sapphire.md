@@ -5,8 +5,6 @@ Sapphire is the birthstone for September and the gem of the 45th anniversary. A 
 
 Natural sapphires
 
-LgYellowSapphire.jpg
-
 Sapphire is one of the two gem-varieties of corundum, the other being ruby (defined as corundum in a shade of red). Although blue is the best-known sapphire color, they occur in other colors, including gray and black, and they can be colorless. A pinkish orange variety of sapphire is called padparadscha.
 
 Significant sapphire deposits are found in Eastern Australia, Thailand, Sri Lanka, China (Shandong), Madagascar, East Africa, and in North America in a few locations, mostly in Montana.[3] Sapphire and rubies are often found in the same geological setting.[4]
@@ -17,15 +15,13 @@ The cost of natural sapphires varies depending on their color, clarity, size, cu
 
 Blue sapphire
 
-Geschliffener_blauer_Saphir.jpg
-
 Gemstone color can be described in terms of hue, saturation, and tone. Hue is commonly understood as the "color" of the gemstone. Saturation refers to the vividness or brightness of the hue, and tone is the lightness to darkness of the hue.[6] Blue sapphire exists in various mixtures of its primary (blue) and secondary hues, various tonal levels (shades) and at various levels of saturation (vividness).
 
 Blue sapphires are evaluated based upon the purity of their primary hue. Purple, violet, and green are the most common secondary hues found in blue sapphires.[7] Violet and purple can contribute to the overall beauty of the color, while green is considered to be distinctly negative. Blue sapphires with up to 15% violet or purple are generally said to be of fine quality. Gray is the normal saturation modifier or mask found in blue sapphires. Gray reduces the saturation or brightness of the hue, and therefore has a distinctly negative effect.[8]
 
 The color of fine blue sapphires may be described as a vivid medium dark violet to purplish blue where the primary blue hue is at least 85% and the secondary hue no more than 15%, without the least admixture of a green secondary hue or a gray mask.[9]
 
-The Logan sapphire in the National Museum of Natural History, in Washington, D.C., is one of the largest faceted gem-quality blue sapphires in existence.Sapphire_III_cropped_flash.jpg
+The Logan sapphire in the National Museum of Natural History, in Washington, D.C., is one of the largest faceted gem-quality blue sapphires in existence.
 
 Sapphires of other colors
 
@@ -39,11 +35,9 @@ Colorless sapphires have historically been used as diamond substitutes in jewelr
 
 Pink sapphires
 
-Pink_sapphire_ring.jpg Pink sapphires occur in shades from light to dark pink, and deepen in color as the quantity of chromium increases. The deeper the pink color, the higher their monetary value. In the United States, a minimum color saturation must be met to be called a ruby, otherwise the stone is referred to as a _pink sapphire_.[14]
+Pink sapphires occur in shades from light to dark pink, and deepen in color as the quantity of chromium increases. The deeper the pink color, the higher their monetary value. In the United States, a minimum color saturation must be met to be called a ruby, otherwise the stone is referred to as a _pink sapphire_.[14]
 
 Padparadscha
-
-Padparadscha_sapphire.jpg
 
 _Padparadscha_ is a delicate, light to medium toned, pink-orange to orange-pink hued corundum, originally found in Sri Lanka,[15] but also found in deposits in Vietnam and parts of East Africa. Padparadscha sapphires are rare; the rarest of all is the totally natural variety, with no sign of artificial treatment.[16]
 
@@ -53,7 +47,7 @@ Natural padparadscha sapphires often draw higher prices than many of even the fi
 
 Star sapphire
 
-Star-Saphire.jpg A _star sapphire_ is a type of sapphire that exhibits a star-like phenomenon known as asterism; red stones are known as "star rubies". Star sapphires contain intersecting needle-like inclusions following the underlying crystal structure that causes the appearance of a six-rayed "star"-shaped pattern when viewed with a single overhead light source. The inclusion is often the mineral rutile, a mineral composed primarily of titanium dioxide.[19] The stones are cut _en cabochon_, typically with the center of the star near the top of the dome. Occasionally, twelve-rayed stars are found, typically because two different sets of inclusions are found within the same stone, such as a combination of fine needles of rutile with small platelets of hematite; the first results in a whitish star and the second results in a golden-colored star. During crystallization, the two types of inclusions become preferentially oriented in different directions within the crystal, thereby forming two six-rayed stars that are superimposed upon each other to form a twelve-rayed star.[20] Misshapen stars or 12-rayed stars may also form as a result of twinning. The inclusions can alternatively produce a "cat's eye" effect[21] if the 'face-up' direction of the cabochon's dome is oriented perpendicular to the crystal's c-axis rather than parallel to it. If the dome is oriented in between these two directions, an 'off-center' star will be visible, offset away from the high point of the dome.[22]
+A _star sapphire_ is a type of sapphire that exhibits a star-like phenomenon known as asterism; red stones are known as "star rubies". Star sapphires contain intersecting needle-like inclusions following the underlying crystal structure that causes the appearance of a six-rayed "star"-shaped pattern when viewed with a single overhead light source. The inclusion is often the mineral rutile, a mineral composed primarily of titanium dioxide.[19] The stones are cut _en cabochon_, typically with the center of the star near the top of the dome. Occasionally, twelve-rayed stars are found, typically because two different sets of inclusions are found within the same stone, such as a combination of fine needles of rutile with small platelets of hematite; the first results in a whitish star and the second results in a golden-colored star. During crystallization, the two types of inclusions become preferentially oriented in different directions within the crystal, thereby forming two six-rayed stars that are superimposed upon each other to form a twelve-rayed star.[20] Misshapen stars or 12-rayed stars may also form as a result of twinning. The inclusions can alternatively produce a "cat's eye" effect[21] if the 'face-up' direction of the cabochon's dome is oriented perpendicular to the crystal's c-axis rather than parallel to it. If the dome is oriented in between these two directions, an 'off-center' star will be visible, offset away from the high point of the dome.[22]
 
 The Star of Adam is the largest blue star sapphire which weighs 1404.49 carats. The gem was mined in the city of Ratnapura, southern Sri Lanka.[23] The Black Star of Queensland, the second largest gem-quality star sapphire in the world, weighs 733 carats.[24] The Star of India mined in Sri Lanka and weighing 563.4 carats is thought to be the third-largest star sapphire, and is currently on display at the American Museum of Natural History in New York City. The 182-carat Star of Bombay, mined in Sri Lanka and located in the National Museum of Natural History in Washington, D.C., is another example of a large blue star sapphire. The value of a star sapphire depends not only on the weight of the stone, but also the body color, visibility, and intensity of the asterism..
 
@@ -65,7 +59,7 @@ Certain synthetic color-change sapphires have a similar color change to the natu
 
 Source of color
 
-Corundum.png Sapphire_ring.jpg Rubies are corundum which contain chromium impurities that absorb yellow-green light and result in deeper ruby red color with increasing content.[27] Purple sapphires contain trace amounts of vanadium and come in a variety of shades. Corundum that contains ~0.01% of titanium is colorless. If trace amounts of iron are present, a very pale yellow to green color may be seen. However, if both titanium and iron impurities are present together, and in the correct valence states, the result is a deep-blue color.[28]
+Rubies are corundum which contain chromium impurities that absorb yellow-green light and result in deeper ruby red color with increasing content.[27] Purple sapphires contain trace amounts of vanadium and come in a variety of shades. Corundum that contains ~0.01% of titanium is colorless. If trace amounts of iron are present, a very pale yellow to green color may be seen. However, if both titanium and iron impurities are present together, and in the correct valence states, the result is a deep-blue color.[28]
 
 Unlike localized ("intra-atomic") absorption of light which causes color for chromium and vanadium impurities, blue color in sapphires comes from intervalence charge transfer, which is the transfer of an electron from one transition-metal ion to another via the conduction or valence band. The iron can take the form Fe²⁺ or Fe³⁺, while titanium generally takes the form Ti⁴⁺. If Fe²⁺ and Ti⁴⁺ ions are substituted for Al³⁺, localized areas of charge imbalance are created. An electron transfer from Fe²⁺ and Ti⁴⁺ can cause a change in the valence state of both. Because of the valence change there is a specific change in energy for the electron, and electromagnetic energy is absorbed. The wavelength of the energy absorbed corresponds to yellow light. When this light is subtracted from incident white light, the complementary color blue results. Sometimes when atomic spacing is different in different directions there is resulting blue-green dichroism.
 
@@ -75,7 +69,7 @@ Treatments
 
 Sapphires can be treated by several methods to enhance and improve their clarity and color.[29] It is common practice to heat natural sapphires to improve or enhance color. This is done by heating the sapphires in furnaces to temperatures between for several hours, or by heating in a nitrogen-deficient atmosphere oven for seven days or more. Upon heating, the stone becomes more blue in color, but loses some of the rutile inclusions (silk). When high temperatures are used, the stone loses all silk (inclusions) and it becomes clear under magnification.[30] The inclusions in natural stones are easily seen with a jeweler's loupe. Evidence of sapphire and other gemstones being subjected to heating goes back at least to Roman times.[31] Un-heated natural stones are somewhat rare and will often be sold accompanied by a certificate from an independent gemological laboratory attesting to "no evidence of heat treatment".
 
-Yogo2783_Close_crop.JPG]] Yogo sapphires sometimes do not need heat treating because their cornflower blue coloring is uniform and deep, they are generally free of the characteristic inclusions, and they have high uniform clarity.[32] When Intergem Limited began marketing the Yogo in the 1980s as the world's only guaranteed untreated sapphire, heat treatment was not commonly disclosed; by 1982 the heat treatment became a major issue.[33] At that time, 95% of all the world's sapphires were being heated to enhance their natural color.[34] Intergem's marketing of guaranteed untreated Yogos set them against many in the gem industry. This issue appeared as a front-page story in the _Wall Street Journal_ on 29 August 1984 in an article by Bill Richards, _Carats and Schticks: Sapphire Marketer Upsets The Gem Industry_.[35]
+]] Yogo sapphires sometimes do not need heat treating because their cornflower blue coloring is uniform and deep, they are generally free of the characteristic inclusions, and they have high uniform clarity.[32] When Intergem Limited began marketing the Yogo in the 1980s as the world's only guaranteed untreated sapphire, heat treatment was not commonly disclosed; by 1982 the heat treatment became a major issue.[33] At that time, 95% of all the world's sapphires were being heated to enhance their natural color.[34] Intergem's marketing of guaranteed untreated Yogos set them against many in the gem industry. This issue appeared as a front-page story in the _Wall Street Journal_ on 29 August 1984 in an article by Bill Richards, _Carats and Schticks: Sapphire Marketer Upsets The Gem Industry_.[35]
 
 Diffusion treatments are used to add impurities to the sapphire to enhance color. Typically beryllium is diffused into a sapphire under very high heat, just below the melting point of the sapphire. Initially (_c._ 2000) orange sapphires were created, although now the process has been advanced and many colors of sapphire are often treated with beryllium. The colored layer can be removed when stones chip or are repolished or refaceted, depending on the depth of the impurity layer. Treated padparadschas may be very difficult to detect, and many stones are certified by gemological labs (_e.g._, Gubelin, SSEF, AGTA).
 
@@ -86,7 +80,7 @@ There are several ways of treating sapphire. Heat-treatment in a reducing or oxi
 
 Mining
 
-1szafir_Madagaskar.jpg Sapphires are mined from alluvial deposits or from primary underground workings. Commercial mining locations for sapphire and ruby include (but are not limited to) the following countries: Afghanistan, Australia, Myanmar/Burma, Cambodia, China, Colombia, India, Kenya, Laos, Madagascar, Malawi, Nepal, Nigeria, Pakistan, Sri Lanka, Tajikistan, Tanzania, Thailand, United States, and Vietnam. Sapphires from different geographic locations may have different appearances or chemical-impurity concentrations, and tend to contain different types of microscopic inclusions. Because of this, sapphires can be divided into three broad categories: classic metamorphic, non-classic metamorphic or magmatic, and classic magmatic.[38]
+Sapphires are mined from alluvial deposits or from primary underground workings. Commercial mining locations for sapphire and ruby include (but are not limited to) the following countries: Afghanistan, Australia, Myanmar/Burma, Cambodia, China, Colombia, India, Kenya, Laos, Madagascar, Malawi, Nepal, Nigeria, Pakistan, Sri Lanka, Tajikistan, Tanzania, Thailand, United States, and Vietnam. Sapphires from different geographic locations may have different appearances or chemical-impurity concentrations, and tend to contain different types of microscopic inclusions. Because of this, sapphires can be divided into three broad categories: classic metamorphic, non-classic metamorphic or magmatic, and classic magmatic.[38]
 
 Sapphires from certain locations, or of certain categories, may be more commercially appealing than others,[39] particularly classic metamorphic sapphires from Kashmir, Burma, or Sri Lanka that have not been subjected to heat-treatment.[40][41][42]
 
@@ -98,8 +92,6 @@ The sapphire deposits of Kashmir are well known in the gem industry,[48] althoug
 
 
 Synthetic sapphire
-
-SaphirSynthetique.jpg
 
 In 1902, the French chemist Auguste Verneuil developed a process for producing synthetic sapphire crystals.[55] In the Verneuil process, named after him, fine alumina powder is added to an oxyhydrogen flame, and this is directed downward against a mantle.[56] The alumina in the flame is slowly deposited, creating a teardrop shaped "boule" of sapphire material. Chemical dopants can be added to create artificial versions of the ruby, and all the other natural colors of sapphire, and in addition, other colors never seen in geological samples. Artificial sapphire material is identical to natural sapphire, except it can be made without the flaws that are found in natural stones. The disadvantage of Verneuil process is that the grown crystals have high internal strains. Many methods of manufacturing sapphire today are variations of the Czochralski process, which was invented in 1916 by Polish chemist Jan Czochralski.[57] In this process, a tiny sapphire seed crystal is dipped into a crucible made of the precious metal iridium or molybdenum,[58] containing molten alumina, and then slowly withdrawn upward at a rate of 1 to 100 mm per hour. The alumina crystallizes on the end, creating long carrot-shaped boules of large size up to 200 kg in mass.[59]
 
@@ -113,7 +105,7 @@ Common applications
 
 Windows
 
-cermax.jpg with synthetic sapphire output window]] Synthetic sapphire—sometimes referred to as _sapphire glass_—is commonly used as a window material, because it is both highly transparent to wavelengths of light between 150 nm (UV) and 5500 nm (IR) (the visible spectrum extends about 380 nm to 750 nm[62]), and extraordinarily scratch-resistant.[63][64]
+with synthetic sapphire output window]] Synthetic sapphire—sometimes referred to as _sapphire glass_—is commonly used as a window material, because it is both highly transparent to wavelengths of light between 150 nm (UV) and 5500 nm (IR) (the visible spectrum extends about 380 nm to 750 nm[62]), and extraordinarily scratch-resistant.[63][64]
 
 The key benefits of sapphire windows are:
 
@@ -122,7 +114,7 @@ The key benefits of sapphire windows are:
 -   Highly resistant to scratching and abrasion (9 on the Mohs scale of mineral hardness scale, the 3rd hardest natural substance next to moissanite and diamonds)[65]
 -   Extremely high melting temperature (2030 °C)
 
-Sapphire_boule,_Kyropoulos_method.jpg. Approximately 200 mm diameter and approximately 30 kg. (A second boule is visible in the background.)]]
+. Approximately 200 mm diameter and approximately 30 kg. (A second boule is visible in the background.)]]
 
 Some sapphire-glass windows are made from pure sapphire boules that have been grown in a specific crystal orientation, typically along the optical axis, the c-axis, for minimum birefringence for the application.[66][67]
 

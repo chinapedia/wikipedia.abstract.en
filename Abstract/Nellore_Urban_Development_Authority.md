@@ -1,1 +1,0 @@
-The NELLORE URBAN DEVELOPMENT AUTHORITY (NUDA) is an urban planning agency spread over the districts of Nellore and Chittoor of the Indian state of Andhra Pradesh.[1][2] It was constituted on 1 February 2016, under _Andhra Pradesh Metropolitan Region and Urban Development Authority Act, 2016_ with the headquarters located at Nellore.[3]

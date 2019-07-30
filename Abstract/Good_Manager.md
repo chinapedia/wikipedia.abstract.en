@@ -1,1 +1,0 @@
-_GOOD MANAGER_ () is a South Korean television drama starring Namkoong Min, Nam Sang-mi, Lee Jun-ho and Jung Hye-sung. It aired on KBS2 from January 25 to March 30, 2017 on Wednesdays and Thursdays at 22:00 (KST) for 20 episodes.[1][2][3][4]

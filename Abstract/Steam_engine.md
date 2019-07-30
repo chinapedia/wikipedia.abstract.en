@@ -1,1 +1,0 @@
-JamesWattEngine.jpg Stott_Park_Bobbin_Mill_Steam_Engine.jpg from Stott Park Bobbin Mill, Cumbria, England]] 52_8134_Hoentrop_2012-09-16.jpg from East Germany. This class of engine was built in 1942–1950 and operated until 1988.]]

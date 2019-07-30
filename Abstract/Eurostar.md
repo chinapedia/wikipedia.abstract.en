@@ -1,1 +1,0 @@
-EUROSTAR is an international high-speed railway service connecting London with Amsterdam, Avignon, Brussels, Bourg-Saint-Maurice, Disneyland Paris, Lille, Lyon, Marseille, Paris, and Rotterdam. All its trains travel through the Channel Tunnel between the United Kingdom and France, owned and operated separately by Getlink.

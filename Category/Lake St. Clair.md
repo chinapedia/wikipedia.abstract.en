@@ -1,0 +1,4 @@
+-   LAKE ST. CLAIR — part of the system, located in southeastern (U.S.) and southwestern (Canada).
+-   Fed by Lake Huron via the , and a via the Detroit River.
+
+St. Clair Category:Great Lakes Waterway St. Clair St. Clair St. Clair Category:Landforms of Chatham-Kent Category:Geography of Detroit Category:Landforms of Essex County, Ontario Category:Landforms of Lambton County Category:Bodies of water of Macomb County, Michigan Category:Bodies of water of St. Clair County, Michigan Category:Bodies of water of Wayne County, Michigan Category:Landforms of Windsor, Ontario Category:Canada–United States border Category:Tributaries of Lake Erie St. Clair

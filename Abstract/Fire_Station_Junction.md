@@ -1,1 +1,0 @@
-FIRE STATION JUNCTION is one of the busiest chowks (roundabout / traffic circle) and a prominent landmark located on Grand National Trunk road in the Indian City of Eluru, Andhra Pradesh.[1] Two Major Arterial roads Grand National Trunk road and Sanivarapupeta road intersect at this junction.[2]

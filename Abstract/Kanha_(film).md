@@ -1,1 +1,0 @@
-_KANHA_ (Marathi: "कान्हा") is a 2016 Marathi language action drama film. film is directed by Avdhoot Gupte.[1] It stars Gashmeer Mahajani and Vaibbhav Tatwawdi in lead roles.[2] Movie had its theatrical release in India on 26 August 2016.[3]

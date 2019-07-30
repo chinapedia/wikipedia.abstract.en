@@ -1,1 +1,0 @@
-The EPISTLE TO THE GALATIANS, often shortened to GALATIANS, is the ninth book of the New Testament. It is a letter from Paul the Apostle to a number of Early Christian communities in Galatia. Scholars have suggested that this is either the Roman province of Galatia in southern Anatolia, or a large region defined by an ethnic group of Celtic people in central Anatolia.[1]

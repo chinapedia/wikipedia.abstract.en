@@ -1,1 +1,0 @@
-CENTRAL PONTINE MYELINOLYSIS (CPM) is a neurological condition involving severe damage to the myelin sheath of nerve cells in the _pons_ (an area of the brainstem). It is predominately iatrogenic (treatment-induced), and is characterized by acute paralysis, dysphagia (difficulty swallowing), dysarthria (difficulty speaking), and other neurological symptoms.

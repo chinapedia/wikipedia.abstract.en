@@ -1,1 +1,0 @@
-The MEDITERRANEAN is a major body of water south of Europe, west of Asia and north of Africa.

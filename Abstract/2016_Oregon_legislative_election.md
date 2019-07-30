@@ -1,1 +1,0 @@
-The 2016 ELECTIONS for the Oregon Legislative Assembly determined the composition of both houses for the 79th Oregon Legislative Assembly. The Republican and Democratic parties held primary elections on May 17, 2016 with general elections on November 8.

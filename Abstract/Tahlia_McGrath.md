@@ -1,1 +1,0 @@
-TAHLIA MCGRATH (born 10 November 1995) is an Australian cricketer.[1] She made her Women's One Day International cricket (WODI) debut against South Africa on 27 November 2016.[2] She made her women's Test debut in The Women's Ashes in November 2017.

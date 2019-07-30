@@ -1,1 +1,0 @@
-MYSQL ( "My S-Q-L")[1] is an open-source relational database management system (RDBMS).[2] Its name is a combination of "My", the name of co-founder Michael Widenius's daughter,[3] and "SQL", the abbreviation for Structured Query Language.

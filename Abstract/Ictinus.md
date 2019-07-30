@@ -1,1 +1,0 @@
-ICTINUS (; , _Iktinos_) was an architect active in the mid 5th century BC.[1][2] Ancient sources identify Ictinus and Callicrates as co-architects of the Parthenon. He co-wrote a book on the project – which is now lost – in collaboration with Carpion.[3]

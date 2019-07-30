@@ -20,7 +20,7 @@ Smaller islands of the archipelago include the Penghu islands in the Taiwan Stra
 
 Geology
 
-Philippine_Sea_Plate_br.JPG The island of Taiwan was formed approximately 4 to 5 million years ago at a complex convergent boundary between the Philippine Sea Plate and the Eurasian Plate. In a boundary running the length of the island and continuing southwards in the Luzon Volcanic Arc (including Green Island and Orchid Island), the Eurasian Plate is sliding under the Philippine Sea Plate.
+The island of Taiwan was formed approximately 4 to 5 million years ago at a complex convergent boundary between the Philippine Sea Plate and the Eurasian Plate. In a boundary running the length of the island and continuing southwards in the Luzon Volcanic Arc (including Green Island and Orchid Island), the Eurasian Plate is sliding under the Philippine Sea Plate.
 
 Most of the island comprises a huge fault block tilted to the west.[7] The western part of the island, and much of the central range, consists of sedimentary deposits scraped from the descending edge of the Eurasian Plate. In the northeast of the island, and continuing eastwards in the Ryukyu Volcanic Arc, the Philippine Sea Plate slides under the Eurasian Plate.[8][9]
 
@@ -29,7 +29,7 @@ The tectonic boundary remains active, and Taiwan experiences 15,000 to 18,000 ea
 
 Terrain
 
-Taiwan_map_large.gif of Taiwan]]
+of Taiwan]]
 
 The terrain in Taiwan is divided into two parts: the flat to gently rolling plains in the west, where 90% of the population lives, and the mostly rugged forest-covered mountains in the eastern two-thirds.
 
@@ -39,8 +39,6 @@ The Central Mountain Range extends from Su'ao in the northeast to Eluanbi at the
 
 The East Coast Mountain Range extends down the east coast of the island from the mouth of the Hualien River in the north to Taitung County in the south, and chiefly consist of sandstone and shale. It is separated from the Central Range by the narrow Huatung Valley, at an altitude of . Although Hsinkangshan (新港山), the highest peak, reaches an elevation of , most of the range is composed of large hills. Small streams have developed on the flanks, but only one large river cuts across the range. Badlands are located at the western foot of the range, where the ground water level is the lowest and rock formations are the least resistant to weathering. Raised coral reefs along the east coast and the frequent occurrences of earthquakes in the rift valley indicate that the fault block is still rising.
 
-Landform_of_Taiwan.png
-
 The ranges to the west of the Central range are divided into two groups separated by the Sun Moon Lake Basin in the centre of the island. The Dadu and Zhuoshui Rivers flow from the western slopes of the Central Range through the basin to the west coast of the island.
 
 The Xueshan Range lies to the northwest of the Central Mountain Range, beginning at Sandiaojiao, the northeast tip of the island, and gaining elevation as it extends southwest towards Nantou County. Xueshan, the main peak, is high.
@@ -49,14 +47,12 @@ The Yushan Range runs along the southwestern flank of the Central Range. It incl
 
 The Alishan Range lies west of the Yushan Range, across the valley of the south-flowing Kaoping River. The range has major elevations between . The main peak, Data Mountain (大塔山), towers .
 
-San_Guang_River,_Fusing,_Taoyuan,_Taiwan_-_20080601.jpg in northwestern Taiwan]]
+in northwestern Taiwan]]
 
 Below the western foothills of the ranges, such as the Hsinchu Hills and the Miaoli Hills, lie raised terraces formed of material eroded from the ranges. These include the Linkou Plateau, the Taoyuan Plateau and the Dadu Plateau. About 23% of Taiwan's land area consists of fertile alluvial plains and basins watered by rivers running from the eastern mountains. Over half of this land lies in the Chianan Plain in southwest Taiwan, with lesser areas in the Pingtung Plain, Taichung Basin and Taipei Basin. The only sizable plain on the east coast is the Yilan Plain in the northeast.
 
 
 Climate
-
-Koppen-Geiger_Map_TWN_present.svg
 
 The island of Taiwan lies across the Tropic of Cancer, and its climate is influenced by the East Asian Monsoon. Northern Taiwan has a humid subtropical climate, with substantial seasonal variation of temperatures, while parts of central and most of southern has a tropical monsoon climate where seasonal temperature variations are less noticeable with temperatures typically varying from warm to hot. During the winter (November to March), the northeast experiences steady rain, while the central and southern parts of the island are mostly sunny. The summer monsoon (from May to October) accounts for 90% of the annual precipitation in the south, but only 60% in the north. The average rainfall is approximately 2,600 mm per year.
 
@@ -87,7 +83,7 @@ Flora and fauna
 
 Before extensive human settlement, the vegetation on Taiwan ranged from tropical rainforest in the lowlands through temperate forests, boreal forest and alpine plants with increasing altitude.[19] Most of the plains and low-lying hills of the west and north of the island have been cleared for agricultural use since the arrival of the Chinese immigrants during the 17th and 18th century. However the mountain forests are very diverse, with several endemic species such as Formosan cypress (_Chamaecyparis formosensis_) and Taiwan fir (_Abies kawakamii_), while the camphor laurel (_Cinnamomum camphora_) was once also widespread at lower altitudes.
 
-長鬃山羊.jpg]] Taiwan is a center of bird endemism (see List of endemic birds of Taiwan).
+]] Taiwan is a center of bird endemism (see List of endemic birds of Taiwan).
 
 Prior to the country's industrialization, the mountainous areas held several endemic animal species and subspecies, such as the Swinhoe's pheasant (_Lophura swinhoii_), Taiwan blue magpie (_Urocissa caerulea_), the Formosan sika deer (_Cervus nippon taiwanensis_ or _Cervus nippon taiouanus_) and the Formosan landlocked salmon (_Oncorhynchus masou formosanus_). A few of these are now extinct, and many others have been designated endangered species.
 
@@ -98,7 +94,7 @@ Nine national parks in Taiwan showcase the diverse terrain, flora and fauna of t
 
 Natural resources
 
-Abies_kawakamii_Chi-You.jpg'')]]
+'')]]
 
 Natural resources on the islands include small deposits of gold, copper, coal, natural gas, limestone, marble, and asbestos. The island is 55% forest and woodland (mostly on the mountains) and 24% arable land (mostly on the plains), with 15% going to other purposes. 5% is permanent pasture and 1% is permanent crops.
 
@@ -112,14 +108,14 @@ Domestic agriculture (rice being the dominant kind of crop) and fisheries retain
 
 Energy resources
 
-Wind_power-Kaumei.jpg in Taichung]]
+in Taichung]]
 
 Taiwan has significant coal deposits and some insignificant petroleum and natural gas deposits. , oil accounts for 49.0% of the total energy consumption. Coal comes next with 32.1%, followed by nuclear energy with 8.3%, natural gas (indigenous and liquefied) with 10.2%, and energy from renewable sources with 0.5%. Taiwan has six nuclear reactors and two under construction.[22] Nearly all oil and gas for transportation and power needs must be imported, making Taiwan particularly sensitive to fluctuations in energy prices. Taiwan is rich in wind energy resources, with wind farms both onshore and offshore, though limited land area favors offshore wind resources.[23] By promoting renewable energy, Taiwan's government hopes to also aid the nascent renewable energy manufacturing industry, and develop it into an export market.
 
 
 Human geography
 
-Population_density_of_Taiwan_by_district.svg Taiwan has a population of over 23 million, the vast majority of whom live in the lowlands near the western coast of the island.[24] The island is highly urbanized, with nearly 9 million people living in the Taipei–Keelung–Taoyuan metropolitan area at the northern end, and over 2 million each in the urban areas of Kaohsiung and Taichung.[25]
+Taiwan has a population of over 23 million, the vast majority of whom live in the lowlands near the western coast of the island.[24] The island is highly urbanized, with nearly 9 million people living in the Taipei–Keelung–Taoyuan metropolitan area at the northern end, and over 2 million each in the urban areas of Kaohsiung and Taichung.[25]
 
 Taiwanese aborigines comprise approximately 2% of the population, and now mostly live in the mountainous eastern part of the island.[26] Most scholars believe their ancestors arrived in Taiwan by sea between 4000 and 3000 BC, probably from the mainland.[27]
 
@@ -127,7 +123,7 @@ Han Chinese make up over 95% of the population. Immigrants from southern Fujian 
 
 Environmental issues
 
-Scooters_in_taipei.jpgs are a very common means of transportation in Taiwan and contribute to urban air pollution.]]
+s are a very common means of transportation in Taiwan and contribute to urban air pollution.]]
 
 Some areas in Taiwan with high population density and many factories are affected by heavy pollution. The most notable areas are the southern suburbs of Taipei and the western stretch from Tainan to Lin Yuan, south of Kaohsiung. In the late 20th century, Taipei suffered from extensive vehicle and factory air pollution, but with mandatory use of unleaded petrol and the establishment of the Environmental Protection Administration in 1987, the air quality of Taiwan has improved dramatically.[29] Motor scooters, especially older or cheaper two-stroke versions, which are ubiquitous in Taiwan, also contribute disproportionately to urban air pollution.[30][31]
 

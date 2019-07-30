@@ -1,1 +1,0 @@
-RAJAZ (, literally 'tremor, spasm, convulsion as may occur in the behind of a camel when it wants to rise'[1]) is a metre used in classical Arabic poetry. A poem composed in this metre is an _urjūza_. The metre accounts for about 3% of surviving ancient and classical Arabic verse.[2]

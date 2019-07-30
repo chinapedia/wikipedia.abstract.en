@@ -1,1 +1,0 @@
-In the partnership card game contract bridge, the BLACKWOOD CONVENTION is a popular bidding convention that was developed by Easley Blackwood. It is used to explore the partnership's possession of aces, kings and in some variants, the queen of trumps, to judge more precisely whether slam is likely to be a good contract.

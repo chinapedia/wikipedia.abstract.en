@@ -1,1 +1,0 @@
-WITOLD FRIEMANN (August 20, 1889 in Konin – March 22, 1977 in Laski) was a Polish composer, pianist, conductor and pedagogue. He was very prolific and composed more than 350 Opuses, most of which remain inedited.

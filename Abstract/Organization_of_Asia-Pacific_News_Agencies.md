@@ -1,1 +1,0 @@
-The ORGANIZATION OF ASIA-PACIFIC NEWS AGENCIES (OANA) is an association of news agencies from UNESCO (United Nations Educational, Scientific and Cultural Organization) member states in the Asia-Pacific region. It was previously known as the ORGANISATION OF ASIAN NEWS AGENCIES.

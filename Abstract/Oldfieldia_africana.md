@@ -1,1 +1,0 @@
-OLDFIELDIA AFRICANA, also known as the AFRICAN OAK, is a large tree which can grow to 36 metres or more in height.[1] It is to be found across West Africa in such countries as Ivory Coast, Liberia, Sierra Leone, Gabon, Cameroon, Central African Republic, Congo Republic.[2]

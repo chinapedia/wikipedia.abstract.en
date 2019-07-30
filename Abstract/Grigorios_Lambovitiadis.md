@@ -1,1 +1,0 @@
-GRIGORIOS LAMBOVITIADIS (, 1908-1945) was a Greek patriot, representative of the Greek community in southern Albania and activist of the Northern Epirus movement. He was executed by the authorities of the People's Republic of Albania as "enemy of the state".

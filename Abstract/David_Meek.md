@@ -1,1 +1,0 @@
-DAVID MEEK (born September 12, 1963) is an American businessman. He has over 25 years of international experience in the pharmaceutical industry. He held various global executive positions in major pharmaceutical and biotechnology companies.[1]

@@ -1,1 +1,0 @@
-POSEIDON (; , ) was one of the Twelve Olympians in ancient Greek religion and myth, god of the sea, storms, earthquakes and horses.[1] In pre-Olympian Bronze Age Greece, he was venerated as a chief deity at Pylos and Thebes.[2] His Roman equivalent is Neptune.

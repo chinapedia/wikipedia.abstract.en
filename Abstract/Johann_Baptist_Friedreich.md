@@ -1,1 +1,0 @@
-JOHANN BAPTIST FRIEDREICH (19 April 1796, in Würzburg – 19 January 1862, in Würzburg) was a German forensic physician and psychiatrist. He was a prominent member of the so-called "somatic school" of psychiatry in Germany.[1]

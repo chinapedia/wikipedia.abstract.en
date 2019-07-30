@@ -1,1 +1,0 @@
-AMBROGIO TRAVERSARI, O.S.B. Cam., also referred to as AMBROSE OF CAMALDOLI (138620 October 1439), was an Italian monk and theologian who was a prime supporter of the papal cause in the 15th century. He is honored as a saint by the Camaldolese Order.

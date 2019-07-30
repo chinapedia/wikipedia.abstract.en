@@ -1,1 +1,0 @@
-The VICE CHIEF OF THE NAVAL STAFF (V.C.N.S.) [1] was a senior appointment in the Royal Navy usually a three-star rank and had a NATO ranking code of OF-8 that existed from 1941 to 1985 and was a member of the Admiralty Naval Staff.

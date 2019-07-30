@@ -1,1 +1,0 @@
-The MERIONETHSHIRE RAILWAY (MR) was incorporated by Act of Parliament on 29 June 1871. Powers to build the line lapsed in 1885 and were abandoned on 12 July 1887. Work to build the line never started, though parliamentary extensions of time to do so were obtained in 1876, 1879 and 1882.

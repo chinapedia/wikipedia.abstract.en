@@ -11,8 +11,6 @@ History
 
 Founding
 
-Billing_portrait.jpg
-
 In 1909 Noel Pemberton Billing purchased a number of engineering workshops on 3,000 acres of land at South in Sussex which he intended to develop as an airfield. At the same time he built a number of unsuccessful aircraft of his own design. To promote the venture he founded his own magazine _Aerocraft_. Despite attracting some aircraft constructors the airfield venture failed within a year and about the same time he sold _Aerocraft_.[3] In 1911 Billing purchased facilities to provide a base for a motor launch and yacht trading business at White's Yard off Elm Road (later renamed Hazel Road) on the Itchen river, upstream of Woolston. To manage the business Billing hired his friend Hubert Scott-Paine, who he had first met while involved in property speculation in Shoreham. Billing, his wife and Scott-Paine lived on Billing's yacht _Utopia_.[4] Under Scott-Paine's management the business was soon profitable, which allowing Billing (with the assistance of Scott-Paine) to design a series of flying boats with detachable propeller and wings so that with them removed it could be used as a motor launch.[5] He submitted a patent application for his design in October 1913. After obtaining his aviator's certificate on 17 September 1913 following a ₤500 bet with Frederick Handley-Page that he could obtain it within 24 hour of commencing flight training, he decided to build his own aircraft.
 
 In partnership with Alfred Delves de Broughton, Billing established Pemberton-Billing Ltd on 27 June 1914 with capital of ₤20,000. Billing had 6,800 shares, Broughton 3,700 and works engineer Lorenz Hans Herkomer (1889–1922), 500.[6] Herkomer's background was in electrical engineering and automobiles. Rumanian Carol Vasilesco was employed to prepare drawings and undertake the detailed design of airframes. On land at Oakbank Wharf on the river Itchen in Woolston, Southampton that Billing had previously purchased the company established a factory with Hubert Scott-Paine as work manager. Its registered telegraphic address, used for sending telegrams and cables to the company, was; _Supermarine, Southampton_.
@@ -25,7 +23,7 @@ Another early design was the P.B.7, a _flying lifeboat_ with detachable wings. T
 
 World War I
 
-Scott-Paine_timing_500.jpg The outbreak of the war saw Billing enlisting in the Royal Navy Volunteer reserve and thus he was no longer involved in day-to-day activities.[17] With the business by now in serious financial trouble due to a lack of orders, 80 percent of the staff were fired, leaving only 14 employees. On 14 November 1914 Broughton used his resources to pay off the company's debits which allowed the company to continue in business. Some work was obtained repairing aircraft subcontracting from Sopwith. Broughton then enlisted which left Scott-Paine in charge.[18] At some point in 1914 Carol Vasilesco died suddenly of a heart attack, which left the company without a designer.
+The outbreak of the war saw Billing enlisting in the Royal Navy Volunteer reserve and thus he was no longer involved in day-to-day activities.[17] With the business by now in serious financial trouble due to a lack of orders, 80 percent of the staff were fired, leaving only 14 employees. On 14 November 1914 Broughton used his resources to pay off the company's debits which allowed the company to continue in business. Some work was obtained repairing aircraft subcontracting from Sopwith. Broughton then enlisted which left Scott-Paine in charge.[18] At some point in 1914 Carol Vasilesco died suddenly of a heart attack, which left the company without a designer.
 
 In early 1915 the company obtained work building 12 Short S.38 seaplanes under licence.[19]
 
@@ -37,7 +35,7 @@ Supermarine Aviation Works
 
 In March 1916 Billing was elected as an MP. Once in parliament he was very vocal in his support of air power, constantly accusing the government of neglecting the issue. As he intended to run a campaign against the Royal Aircraft Factory and its products, it became apparent that if the company was to maintain a good relationship with the Air Department and gain any further orders it was necessary for the company to distance itself from Billing. As a result, Billing sold his shares in the company for about ₤12,500 to Hubert Scott-Paine and the other directors who renamed the company SUPERMARINE AVIATION WORKS LTD and officially registered it under that name on 27 June 1916.[25] As well as Scott-Paine, the other directors were Alfred Delves de Broughton and solicitor Charles Cecil Dominy.[26]
 
-Supermarine_P.B.31E_Nighthawk.jpg The first product of the new company was the P.B.31E Nighthawk which was a carryover from Billing's time for a quadraplane heavily armed and searchlight-equipped home defence fighter. Fitted with a recoilless Davis gun, it had a separate powerplant to power the searchlight.[27] Only the prototype was built, which was found to have insufficient performance to be of any use against Zeppelins. After completion of the Nighthawk Scott-Paine dropped Billing's fixation with anti-Zeppelin defence fighters, and in the hope of gaining orders for flying boats forged a strong relationship with the RNAS through their local liaison officer James Bird.
+The first product of the new company was the P.B.31E Nighthawk which was a carryover from Billing's time for a quadraplane heavily armed and searchlight-equipped home defence fighter. Fitted with a recoilless Davis gun, it had a separate powerplant to power the searchlight.[27] Only the prototype was built, which was found to have insufficient performance to be of any use against Zeppelins. After completion of the Nighthawk Scott-Paine dropped Billing's fixation with anti-Zeppelin defence fighters, and in the hope of gaining orders for flying boats forged a strong relationship with the RNAS through their local liaison officer James Bird.
 
 In early 1916 William Abraham Hargreaves was hired as chief designer.[28]
 
@@ -61,7 +59,7 @@ In the summer of 1919 William Hargreaves left to work for Vospers and later in t
 
 Schneider Trophy 1919 to 1924
 
-Supermarine_Sea_Lion_I_(from_Flight_1940).jpg In 1919 Scott-Paine decided to enter an aircraft from Supermarine in the upcoming 1919 Schneider Trophy contest. A suitable aircraft was produced by heavily modifying N61, the youngest of the two Babys that it had purchased from the government. Fitted with a Napier Lion engine it was given the name Sea Lion. Flown by Basil Hobbs the aircraft sank on 10 September 1919 after it struck flotsam while competing in the event.
+In 1919 Scott-Paine decided to enter an aircraft from Supermarine in the upcoming 1919 Schneider Trophy contest. A suitable aircraft was produced by heavily modifying N61, the youngest of the two Babys that it had purchased from the government. Fitted with a Napier Lion engine it was given the name Sea Lion. Flown by Basil Hobbs the aircraft sank on 10 September 1919 after it struck flotsam while competing in the event.
 
 In early 1920 the company developed the Supermarine Sea King a single seat flying boat fighter resembling the Baby and the contemporary Sea Lion racing aircraft. While the prototype of which was exhibited at the Olympia air show but obtained no sales. This was subsequently fitted with new wings and tail surfaces and fitted with a more powerful engine, which Supermarine designating it as the Sea King II. No sales were however forthcoming.
 
@@ -81,7 +79,7 @@ In 1926 existing Chief Draughtsman Frank Holroyd was promoted to become Assistan
 
 The Southampton
 
-Supermarine_Southampter.jpg Looking to expand away from the market for small amphibians and flying boats which was becoming more competitive as Blackburn and Short Brothers entered the market, the company designed large multi-engine flying boats to Air Ministry specifications. As a result, one example was built of the Scylla, a torpedo bomber triplane flying boat to specification 14/21. No orders were forthcoming. One example was also built of the Swan, a twin-engined biplane commercial amphibian to specification 21/22. Capable of carrying 12 passengers it was first flown in March 1924 and tested by the MAEE. The Air Ministry was so impressed with the results that they ordered a military derivative to specification 18/24. Six were ordered, subsequently entering service in 1925 as the Southampton. A further orders soon followed. To manufacture the Southampton, which was much larger than their previous designs a new fabrication workshop were built in 1924 and an erection hangar in 1926. Still short of room, in early 1927 the company took out a lease on the Air Ministry's large wartime flying boat assembly and testing facilities at Hythe. Final erection and testing of the Southamptons was then moved to Hythe, which was on the opposite side of the Solent from the Woolston works.[44]
+Looking to expand away from the market for small amphibians and flying boats which was becoming more competitive as Blackburn and Short Brothers entered the market, the company designed large multi-engine flying boats to Air Ministry specifications. As a result, one example was built of the Scylla, a torpedo bomber triplane flying boat to specification 14/21. No orders were forthcoming. One example was also built of the Swan, a twin-engined biplane commercial amphibian to specification 21/22. Capable of carrying 12 passengers it was first flown in March 1924 and tested by the MAEE. The Air Ministry was so impressed with the results that they ordered a military derivative to specification 18/24. Six were ordered, subsequently entering service in 1925 as the Southampton. A further orders soon followed. To manufacture the Southampton, which was much larger than their previous designs a new fabrication workshop were built in 1924 and an erection hangar in 1926. Still short of room, in early 1927 the company took out a lease on the Air Ministry's large wartime flying boat assembly and testing facilities at Hythe. Final erection and testing of the Southamptons was then moved to Hythe, which was on the opposite side of the Solent from the Woolston works.[44]
 
 While the Southampton Mk I had wooden hulls, the Air Ministry indicated that they wanted future flying boats to be metal hulled and paid for the construction of a prototype. Compared with wooden hulls, metal hulls were stronger, lighter and didn't become heavier over time as the wood soaked up water. To enable them to construct metal hulls Supermarine established a metallurgy department headed by Arthur Black (who joined the company at the end of 1925) and established metal production facilities at their Woolston works.[45] The resulting metal hulled version of the Southampton entered service as the Mk II. The Southampton series was very successful with a total of 83 of all types being built.
 
@@ -89,7 +87,7 @@ As a result of the success of the Seagull and Southampton between 1923 and 1927 
 
 Schneider Trophy 1925 to 1927
 
-Schneider_Trophy_at_Venice-1927.jpg While it had been Scott-Paine' love of speed and competitive nature that had been the driving force behind the company's entry's in the early Schneider Trophy contests, Bird was happy to continue Supermarine's involvement as he wanted to use it to enhance the company profile. After the failure of the their 1924 entry, and realizing that other countries designs were far superior, Mitchell reached the conclusion that racing flying boats were no longer competitive. As a result, he designed a monoplane seaplane called the S.4 which was used to set a new world air speed record over Southampton Water of 226.75 mph (364.9 kmh). . However the sole example crashed during testing prior to the event, forcing the company to withdraw from the event.
+While it had been Scott-Paine' love of speed and competitive nature that had been the driving force behind the company's entry's in the early Schneider Trophy contests, Bird was happy to continue Supermarine's involvement as he wanted to use it to enhance the company profile. After the failure of the their 1924 entry, and realizing that other countries designs were far superior, Mitchell reached the conclusion that racing flying boats were no longer competitive. As a result, he designed a monoplane seaplane called the S.4 which was used to set a new world air speed record over Southampton Water of 226.75 mph (364.9 kmh). . However the sole example crashed during testing prior to the event, forcing the company to withdraw from the event.
 
 With sponsorship from the Air Ministry, Mitchell began to design a new streamlined monoplane aircraft designated the S.5. Compared with the S.4 which was completely fabricated from wood, the new design had metal floats and fuselage. This was a major risk as at the time Supermarine had no prior experience in metal construction and had still to commission their new metalworking department. Unfortunately as either the S.5 or any other design from a British company was ready in time Britain did not enter the 1926 contest. Once the design was finished Supermarine received an order in late 1926 for two examples, with an order for a third following in early 1927. The S.5 dominated the 1927 contest, finishing first and second. The third example crashed killing its pilot while he was attempting to set a new air speed record over the Solent in 1928.
 
@@ -125,13 +123,13 @@ In response to the onset of the Depression in 1929, with completion of contracts
 
 Schneider Trophy 1929 and 1931
 
-Supermarine_S.6B_ExCC.jpg For the next contest Mitchell created the all metal S.6 which featured the smallest possible airframe that he could design around a Roll-Royce engine instead of the Napier engines used in the S.4 and S.5. This design won the 1929 contest. For the 1931 contest Mitchell created the S.6a, a derivative of the S6. This won the contest and as Britain had won the trophy three times in a row it confirmed Britain as the outright and final winner of the Schneider trophy.
+For the next contest Mitchell created the all metal S.6 which featured the smallest possible airframe that he could design around a Roll-Royce engine instead of the Napier engines used in the S.4 and S.5. This design won the 1929 contest. For the 1931 contest Mitchell created the S.6a, a derivative of the S6. This won the contest and as Britain had won the trophy three times in a row it confirmed Britain as the outright and final winner of the Schneider trophy.
 
 Following the contest a S6b, flown by Flt Lt G. H. Stainforth went on to set a new world air speed record of 407.5 mph.
 
 Walrus and Stranraer
 
-Supermarine_Stranraer_3_ExCC.jpg In response to a 1929 Royal Australian Air Force (RAAF) requirement for an aircraft to replace their Seagull IIIs, but with the ability to be catapult-launched from cruisers, the company in 1931 designated the Type 223 _Seagull V_ as a private venture and built a prototype. This eventually led to the RAAF placing an order in 1934 for 24 production versions which were designated Type 228 _Seagull V_. The Royal Navy was impressed by the new design and placed an order for 12 aircraft which were virtually identical except for a more powerful engine. Given the designation Type 236, they entered service as the Walrus. More orders were to follow until a total of 740 were built in all by Supermarine and other firms.
+In response to a 1929 Royal Australian Air Force (RAAF) requirement for an aircraft to replace their Seagull IIIs, but with the ability to be catapult-launched from cruisers, the company in 1931 designated the Type 223 _Seagull V_ as a private venture and built a prototype. This eventually led to the RAAF placing an order in 1934 for 24 production versions which were designated Type 228 _Seagull V_. The Royal Navy was impressed by the new design and placed an order for 12 aircraft which were virtually identical except for a more powerful engine. Given the designation Type 236, they entered service as the Walrus. More orders were to follow until a total of 740 were built in all by Supermarine and other firms.
 
 Following on from the Southampton Mk II the company developed the biplane twin-engined Southampton IV in response to specification R.20/31 for a general reconnaissance flying boat. Featuring all-metal construction with fabric covered flying surfaces, it had an enclosed cockpit. The prototype first flew in July 1932. Renamed the Scapa fifteen were built.
 
@@ -139,7 +137,7 @@ Soon after the design of the Scapa was finalised, the Air Ministry issued specif
 
 Spitfire
 
-Reginald_Mitchell_Spitfire_designer.jpg In 1930, the Air Ministry began formulating the requirements for an advanced high-performance fighter which were spelt out in specification F.7/30, which was in turn issued in the autumn of 1931 to a number of aircraft manufacturers. Among them was Supermarine, who were keen to broaden its product range from seaplanes and flying boats. In response to the specification, Mitchell designed the Type 224, a all-metal monoplane design, with an open cockpit, un-braced cranked wing and fixed undercarriage. A single prototype was built and first flew in February 1934. Flight testing however identified that it had only average performance and so Supermarine received no production contract.
+In 1930, the Air Ministry began formulating the requirements for an advanced high-performance fighter which were spelt out in specification F.7/30, which was in turn issued in the autumn of 1931 to a number of aircraft manufacturers. Among them was Supermarine, who were keen to broaden its product range from seaplanes and flying boats. In response to the specification, Mitchell designed the Type 224, a all-metal monoplane design, with an open cockpit, un-braced cranked wing and fixed undercarriage. A single prototype was built and first flew in February 1934. Flight testing however identified that it had only average performance and so Supermarine received no production contract.
 
 Unhappy at how the Type 224 had turned out Mitchell as was his wont commenced in July 1934 designing what he hoped would be a much improved fighter, which was given the designation Type 300. It was much better streamlined than the Type 224, with a shorter wing, retractable undercarriage and an enclosed cockpit. Mitchell continued to evolve the design, striving for the maximum performance he could get from the engine and airframe combination. In November 1934 the design was further revised to accommodate the promising new Rolls-Royce PV.XII (PV-12) engine, which was later named the Merlin. The estimated performance of the new design was such that McLean approved in November 1934 expenditure on detailed design of a prototype, as he was confident that funding of a prototype was extremely likely from what was a supportive Air Ministry. Within a month of receiving the initial data, the Air Ministry issued specification F.37/34 to cover the construction of a prototype Type 300.
 
@@ -149,7 +147,7 @@ The earlier Hawker Hurricane and the Spitfire were the mainstay of RAF Fighter C
 
 While the Hurricane was available in larger numbers and consequently played a larger role, the new Spitfire caught the popular imagination and became the aircraft associated with the battle. It went on to play a major part in the remainder of the war, in a number of variants and marks, and it was the only allied fighter aircraft to be in production through the entirety of the Second World War.
 
-spitfire_mark19_ps853_planform_arp.jpg Mk.XIX in 2008]]
+Mk.XIX in 2008]]
 
 Increasing production capacity
 
@@ -231,7 +229,7 @@ By 1942, the designers had realised that the characteristics of the Spitfire's w
 
 Post World War II
 
-Supermarine_Swift_FR.5_XD905_V-A_Farnborough_10.09.55_edited-2.jpg, Farnborough air show, 1955]]
+, Farnborough air show, 1955]]
 
 Following the end of the war with no further need for dispersal of production the Itchen works was rebuilt but not the Woolston works.[94] The manufacturing facilities were split into the Southern (Chilbolton, Eastleigh, Hursley and Itchen) under Leonard Gooch and Northern (South Marston and Trowbridge) under Stuart Lefevre.[95]
 
@@ -300,8 +298,6 @@ Initially, the company had no system for naming projects with a structured syste
 -   Supermarine S.6 (1929) – Schneider Trophy race seaplane.
 -   Type 171 Southampton X (1928)
 
-Supermarine_Air-Yacht.jpg
-
 -   Supermarine Air Yacht (1931) - Six-passenger flying boat.
 -   Supermarine Type 179 (1931) - Six-engine transport flying-boat.
 -   Supermarine S6A - Refurbished S.6 with new floats.
@@ -322,8 +318,6 @@ Supermarine_Air-Yacht.jpg
 -   Supermarine Spiteful (1944) – Replacement for the Spitfire.
 -   Supermarine Seafang (1946) – Naval development of Spiteful.
 
-Supermarine_Attacker_TS413_on_the_ground_1947.jpg
-
 -   Supermarine Attacker (1946) – Jet fighter.
 -   Supermarine Seagull ASR-1 (1948) – Air-sea rescue and reconnaissance.
 -   Type 508 (1951) – Twin Nene engined fighter prototype with Attacker wings and a V-tail which initially had no undercarriage as it was designed to Naval specification for “mat” landings on aircraft carriers.
@@ -333,8 +327,6 @@ Supermarine_Attacker_TS413_on_the_ground_1947.jpg
 -   Supermarine Swift (1951) – Jet fighter.
 -   Type 525 (1954) – Similar to the Type 529 but with swept wings and conventional tail arrangement. Immediate predecessor of Scimitar.
 -   Type 545 – Supersonic version of the Swift. Prototype built but cancelled before flown.[103]
-
-Scimitar_on_HMS_Ark_Royal_(R09)_c1957.jpg
 
 -   Supermarine Scimitar (1956) – Naval ground attack aircraft.
 

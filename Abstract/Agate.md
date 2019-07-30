@@ -1,1 +1,0 @@
-AGATE is a rock consisting primarily of cryptocrystalline silica, chiefly chalcedony, alternating with microgranular quartz. It is characterized by its fineness of grain and variety of color. Although agates may be found in various kinds of host rock, they are classically associated with volcanic rocks and can be common in certain metamorphic rocks.[1]

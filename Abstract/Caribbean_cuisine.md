@@ -1,1 +1,0 @@
-Mangú_with_Veggie_Meat.JPG CARIBBEAN CUISINE is a fusion of African,[1] Creole, Cajun, Amerindian, European, Latin American, East/North Indian, Middle Eastern, and Chinese. These traditions were brought from many different countries when they came to the Caribbean.[2] In addition, the population has created styles that are unique to the region.

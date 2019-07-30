@@ -1,1 +1,0 @@
-NEW YEAR LAKE is a lake in northwestern Washoe County, Nevada. It is situated in the Hays Canyon Range at an elevation of .[1][2] Explorer John C. Frémont passed New Year Lake on December 26, 1843 during his second expedition.[3] The lake appeared unnamed on the map he created after the expedition in 1845.[4]

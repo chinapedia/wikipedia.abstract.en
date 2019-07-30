@@ -1,4 +1,4 @@
-Tim_Powers.jpg, a fan convention in Israel, October 2005]] Ikon-Powers.jpg TIMOTHY THOMAS "TIM" POWERS (born February 29, 1952)[1] is an American science fiction and fantasy author. Powers has won the World Fantasy Award twice for his critically acclaimed novels _Last Call_ and _Declare_. His 1987 novel _On Stranger Tides_ served as inspiration for the _Monkey Island_ franchise of video games and was optioned for adaptation into the fourth _Pirates of the Caribbean_ film.
+, a fan convention in Israel, October 2005]] TIMOTHY THOMAS "TIM" POWERS (born February 29, 1952)[1] is an American science fiction and fantasy author. Powers has won the World Fantasy Award twice for his critically acclaimed novels _Last Call_ and _Declare_. His 1987 novel _On Stranger Tides_ served as inspiration for the _Monkey Island_ franchise of video games and was optioned for adaptation into the fourth _Pirates of the Caribbean_ film.
 
 Most of Powers' novels are "secret histories". He uses actual, documented historical events featuring famous people, but shows another view of them in which occult or supernatural factors heavily influence the motivations and actions of the characters.
 

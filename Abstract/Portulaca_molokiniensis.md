@@ -1,1 +1,0 @@
-_PORTULACA MOLOKINIENSIS_, known also as 'IHI, is a succulent plant endemic to Hawaii.[1][2][3] This plant is federally listed as an endangered species. It has small yellow flowers and when grown from seed may produce a caudex. This plant is easy to propagate.

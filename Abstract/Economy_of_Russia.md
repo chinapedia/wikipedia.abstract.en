@@ -1,1 +1,0 @@
-Russia has an upper-middle income[1]1, _World Bank_ mixed and transition economy with state ownership in strategic areas of the economy. Market reforms in the 1990s privatized much of Russian industry and agriculture, with notable exceptions to this privatization occurring in the energy and defense-related sectors.

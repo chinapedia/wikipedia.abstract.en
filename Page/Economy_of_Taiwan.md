@@ -151,7 +151,7 @@ According to the National Development Council, Taiwan's economy declined in May 
 
 Foreign trade
 
-2008Computex_Day5_TWTC_Hall_1.jpg, the second-largest technology trade show in the world,[88] is a global IT exhibition which attracts many foreign investors.[89]]]
+, the second-largest technology trade show in the world,[88] is a global IT exhibition which attracts many foreign investors.[89]]]
 
 Foreign trade has been the engine of Taiwan's rapid growth during the past 40 years. Taiwan's economy remains export-oriented, thus it depends on an open world trade regime and remains vulnerable to downturns in the world economy. The total value of trade increased over fivefold in the 1960s, nearly tenfold in the 1970s, and doubled again in the 1980s.[90] The 1990s saw a more modest, slightly less than twofold, growth. Export composition changed from predominantly agricultural commodities to industrial goods (now 98%). The electronics sector is Taiwan's most important industrial export sector and is the largest recipient of United States investment.
 
@@ -168,7 +168,7 @@ The Economic Cooperation Framework Agreement (ECFA) with the People's Republic o
 
 Industry
 
-Taipei_skyline_cityscape_at_night_with_full_moon.jpg, Taipei.]] Kaohsiung_Skyline.jpg 由臺中港路、安和路口天橋_往東看新市政專用區【2015年1月】.JPG
+, Taipei.]]
 
 Industrial output has gradually decreased from accounting for over half of Taiwan's GDP in 1986 to just 31% in 2002.[105] Industries have gradually moved to capital and technology-intensive industries from more labor-intensive industries, with electronics and information technology accounting for 35% of the industrial structure.[106] Industry in Taiwan primarily consists of many small and medium-sized enterprises (SME) with fewer large enterprises.
 
@@ -180,9 +180,9 @@ The semiconductor industry, including IC manufacturing, design, and packing, for
 
 Information technology
 
-TSMC_in_Tainan_Science_Park.JPG factory in Tainan Science Park, one of the many companies that make up Taiwan's IT industry]]
+factory in Tainan Science Park, one of the many companies that make up Taiwan's IT industry]]
 
-Taiwan_2009_WuHe_County_Tea_Plantation_FRD_6216.jpg, Hualien, part of Taiwan's agricultural industry which served as the backbone for its economic miracle]]
+, Hualien, part of Taiwan's agricultural industry which served as the backbone for its economic miracle]]
 
 Taiwan has a growing Startup sector.[139][140]
 
@@ -194,7 +194,7 @@ Although only about one-quarter of Taiwan's land area is suitable for farming, v
 
 Energy
 
-Wind_power.JPG, Taichung, are part of the government's efforts in renewable energy commercialisation]]
+, Taichung, are part of the government's efforts in renewable energy commercialisation]]
 
 Due to the lack of natural resources on the island, Taiwan is forced to import many of its energy needs (currently at 98%).[149] Imported energy totaled US$11.52 billion in 2002, accounting for 4.1% of its GDP.[150] Although the industrial sector has traditionally been Taiwan's largest energy consumer, its share has dropped in recent years from 62% in 1986 to 58% in 2002.[151] Taiwan's energy consumption is dominated by crude oil & petroleum products (48.52%), followed by coal (29.2%), natural gas (12.23%), nuclear power (8.33%), and hydroelectric power (0.28%).[152] The island is also heavily dependent on imported oil, with 72% of its crude oil coming from the Middle East in 2002. Although the Taiwan Power Company (Taipower), state-owned enterprise, is in charge of providing electricity for the Taiwan area, a 1994 measure has allowed independent power producers (IPPs) to provide up to 20% of the island's energy needs.[153] Indonesia and Malaysia supply most of Taiwan's natural gas needs.[154] It currently has three operational nuclear power plants. A fourth plant under construction was mothballed in 2014.[155]
 
@@ -220,7 +220,7 @@ Active labor market policies were carried out in Taiwan in the late 20th and ear
 
 Science and industrial parks
 
-Hsinchu_Science_and_Industrial_Park_Administration_20101017.jpg is home to many of Taiwan's IT companies]] Neihu_during_2015_winter_solstice.jpg Technology Park]]
+is home to many of Taiwan's IT companies]] Technology Park]]
 
 In order to promote industrial research and development, the government began establishing science parks, economic zones which provide rent and utility breaks, tax incentives and specialized lending rates to attract investment.[190] The first of these, the Hsinchu Science Park was established in 1980 by the National Science Council[191] with a focus on research and development in information technology and biotechnology.[192][193] It has been called Taiwan's "Silicon Valley"[194][195] and has expanded to six campuses covering an area of .[196] Over 430 companies (including many listed on TAIEX) employing over 130,000 people are located within the park, and paid in capital totaled US$36.10 billion in 2008.[197] Both Taiwan Semiconductor Manufacturing Company and United Microelectronics Corporation, the world's largest and second largest contract chipmakers,[198] are headquartered within the park. Since 1980, the government has invested over US$1 billion in the park's infrastructure,[199] and further expansion for more specialized parks have been pursued.[200] The Industrial Technology Research Institute (ITRI), headquartered within the park, is the largest nonprofit research organization in Taiwan and has worked to develop applied technological research for industry, including for many of Taiwan's traditional industries (such as textiles).[201]
 
@@ -240,7 +240,7 @@ The complete lists of industrial and science parks in Taiwan are:
 
 Economic research institutes
 
-Institute_of_Economics,_Academia_Sinica.jpg]]
+]]
 
 -   Taiwan Institute of Economic Research
 -   Chung-Hua Institution for Economic Research

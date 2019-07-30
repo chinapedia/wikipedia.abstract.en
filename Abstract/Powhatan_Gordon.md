@@ -1,1 +1,0 @@
-Major POWHATAN GORDON (1802-1879) was an American farmer and politician. He served in the Tennessee Senate in 1842 and 1845. During his tenure, he proposed a bill for the creation of Lewis County, Tennessee. By 1854, his bid for Congress as a member of the Know Nothing party was unsuccessful.

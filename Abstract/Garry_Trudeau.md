@@ -1,1 +1,0 @@
-GARRETSON BEEKMAN "GARRY" TRUDEAU (born July 21, 1948) is an American cartoonist, best known for creating the _Doonesbury_ comic strip. Trudeau is also the creator and executive producer of the Amazon Studios political comedy series _Alpha House_.

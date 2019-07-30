@@ -1,1 +1,0 @@
-Group_action_on_equilateral_triangle.svg, the counterclockwise rotation by 120° around the center of the triangle maps every vertex of the triangle to another one. The cyclic group _C_₃ consisting of the rotations by 0°, 120° and 240° acts on the set of the three vertices.]]

@@ -1,1 +1,0 @@
-DECLAN PATRICK MACMANUS, OBE (born 25 August 1954),[1] better known by his stage name ELVIS COSTELLO, is an English pop musician, singer, songwriter, composer, record producer, author, television presenter, and occasional actor.

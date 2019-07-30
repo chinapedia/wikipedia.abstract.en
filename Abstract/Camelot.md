@@ -1,1 +1,0 @@
-CAMELOT is a castle and court associated with the legendary King Arthur. Absent in the early Arthurian material, Camelot first appeared in 12th-century French romances and, after the Lancelot-Grail cycle, eventually came to be described as the fantastic capital of Arthur's realm and a symbol of the Arthurian world.

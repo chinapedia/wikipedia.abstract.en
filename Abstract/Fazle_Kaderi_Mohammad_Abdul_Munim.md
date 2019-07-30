@@ -1,1 +1,0 @@
-FAZLE KADERI MOHAMMAD ABDUL MUNIM (known as FKMA MUNIM; 1 December 1924 – 16 February 2001) was a Bangladeshi jurist served as the 4th Chief Justice of Bangladesh and the former chief of Bangladesh Law Commission.[1]

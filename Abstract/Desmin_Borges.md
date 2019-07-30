@@ -1,1 +1,0 @@
-DESMIN BORGES is an American actor. He is best known for playing Edgar Quintero, a main character on the FX/FXX comedy-drama _You're the Worst_.[1][2][3] Borges grew up in Chicago and received his Bachelor of Fine Arts in Theater at DePaul University. He now lives in New York City.[4]

@@ -1,1 +1,0 @@
-Saint Cyril}} CYRIL (also Cyrillus or Cyryl) or (Sireel) is a masculine given name. It is derived from the Greek name Κύριλλος (_Kýrillos_) meaning "Lordly, Masterful", which in turn derives from Greek κυριος (_kýrios_) "lord". There are various variant forms of the Cyril name such as Cyrill, Cyrille, Ciril, Kirill, Kiryl, Kirillos, Kyrylo, Kiril, Kiro and Kyrill.

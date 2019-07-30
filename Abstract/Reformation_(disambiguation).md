@@ -1,1 +1,0 @@
-The REFORMATION, also known as the Protestant Reformation, was the 16th century schism within Western Christianity initiated by Martin Luther, John Calvin, and others

@@ -1,1 +1,0 @@
-Jordan has a highly developed communications infrastructure. Jordan's telecom infrastructure is growing at a very rapid pace and continually being updated and expanded. COMMUNICATIONS IN JORDAN occur across many media, including telephone, radio, television, and internet.

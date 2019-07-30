@@ -1,1 +1,0 @@
-ANGELA BARKER is an .

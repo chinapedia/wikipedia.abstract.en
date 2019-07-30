@@ -13,7 +13,7 @@ Based on 1999–2003 data, over 74,000 Tanzanian-born people were living in Orga
 
 Population
 
-Tanzania-demography.png, year 2005 ; Number of inhabitants in thousands.]] Sukump1.jpg Sukuma are Tanzania's largest ethnic group.]] According to the 2012 census, the total population was 44,928,923 compared to 12,313,469 in 1967,[13] resulting in an annual growth rate of 2.9 percent. The under 15 age group represented 44.1 percent of the population, with 35.5 percent being in the 15–35 age group, 52.2 percent being in the 15–64 age group, and 3.8 percent being older than 64.[14]
+, year 2005 ; Number of inhabitants in thousands.]] Sukuma are Tanzania's largest ethnic group.]] According to the 2012 census, the total population was 44,928,923 compared to 12,313,469 in 1967,[13] resulting in an annual growth rate of 2.9 percent. The under 15 age group represented 44.1 percent of the population, with 35.5 percent being in the 15–35 age group, 52.2 percent being in the 15–64 age group, and 3.8 percent being older than 64.[14]
 
 According to the 2012 revision of the World Population Prospects, children below the age of 15 constituted 44.8 percent of the total population, with 52.0 percent aged 15–64 and 3.1 percent aged 65 or older.[15]
 
@@ -198,7 +198,7 @@ Other demographic statistics
 
 The following demographic statistics of Tanzania in 2019 are from the World Population Review.[33]
 
-Tanzania-woman.jpg, 2008.]]
+, 2008.]]
 
 -   One birth every 14 seconds
 -   One death every 1 minutes
@@ -213,8 +213,6 @@ Population
     48,261,942 (July 2013 est.)
 
 Age structure
-
-Tanzaniapop.svg
 
     _0-14 years:_ 43.4% (male 12,159,482 /female 11,908,654)
     _15-24 years:_ 20.03% (male 5,561,922 /female 5,543,788)

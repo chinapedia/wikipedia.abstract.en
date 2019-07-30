@@ -1,1 +1,0 @@
-RIDDARFJÄRDEN (, "The Knight Firth") is the easternmost bay of Lake Mälaren in central Stockholm. Stockholm was founded in 1252 on an island in the stream where Lake Mälaren (from the west) drains into the Baltic Sea (to the east); today the island is called Stadsholmen and constitutes Stockholm's Old Town.

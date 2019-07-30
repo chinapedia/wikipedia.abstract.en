@@ -1,1 +1,0 @@
-_THE RUNAWAYS_ is an American drama television series. The series stars Michael Biehn, Alan Feinstein, Patti Cohoon-Friedman, James Callahan, Karen Machon and Robert Reed. The series aired from April 27, 1978, to September 4, 1979, on NBC.[1]

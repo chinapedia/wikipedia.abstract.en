@@ -1,1 +1,0 @@
-The _REUNITED TOUR_ was a 2004 concert tour by British heavy metal band Judas Priest. It ran from 2 June 2004 until 2 September 2004. This tour celebrated the return of Rob Halford since his departure in 1992, replacing vocalist Tim "Ripper" Owens. The band also began performing in E♭ tuning during this tour, which would since be their primary sound.

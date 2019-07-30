@@ -1,1 +1,0 @@
-THE BOMBAY PROHIBITION ACT, 1949 is an Act of the Bombay Legislative Assembly relating to the promotion and enforcement of alcohol prohibition in the Bombay State. The Bombay state was divided into the states of Maharashtra and Gujarat in 1960.[1] Today the Act is applicable in the State of Gujarat.

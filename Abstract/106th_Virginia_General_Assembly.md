@@ -1,1 +1,0 @@
-The 106TH VIRGINIA GENERAL ASSEMBLY was the meeting of the legislative branch of the Virginia state government from 1910 to 1912, after the 1909 state elections. It convened in Richmond for one session.[1]

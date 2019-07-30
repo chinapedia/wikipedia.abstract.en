@@ -1,1 +1,0 @@
-GORDON RAMSAY (born 1964) is a Member of the Legislative Assembly of the Australian Capital Territory, representing the Ginninderra electorate. He was elected to be a Minister in the Barr government.[1]

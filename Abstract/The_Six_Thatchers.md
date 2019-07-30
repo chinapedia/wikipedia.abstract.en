@@ -1,1 +1,0 @@
-"THE SIX THATCHERS" is the first episode of the fourth series of the British television programme _Sherlock_ and the eleventh episode overall. The episode was first broadcast on BBC One, BBC First, PBS and Channel One[1][2] on 1 January 2017.

@@ -42,19 +42,19 @@ The city is governed by a mayor-council form of government. Following the May 24
   Votes
   -------
 
-  ---------------------------------- --------------- -------- ------------------------------- ------------------------ ----
-                                     Blank ballots   991      2.10                            Red_Arrow_Down.svg1.73
+  ---------------------------------- --------------- -------- ------ ------ ----
+                                     Blank ballots   991      2.10   1.73
 
-  Total                              47,220          100.00                                   25                       ±0
+  Total                              47,220          100.00          25     ±0
 
-  Valid votes                        47,220          98.46    Green_Arrow_Up.svg
-  Invalid votes                      738             1.54     Red_Arrow_Down.svg
-  Votes cast / turnout               47,958          61.13    Red_Arrow_Down.svg1.31
-  Abstentions                        30,492          38.87    Green_Arrow_Up_Darker.svg1.31
+  Valid votes                        47,220          98.46
+  Invalid votes                      738             1.54
+  Votes cast / turnout               47,958          61.13    1.31
+  Abstentions                        30,492          38.87    1.31
   Registered voters                  78,450
 
   Source: Ministry of the Interior
-  ---------------------------------- --------------- -------- ------------------------------- ------------------------ ----
+  ---------------------------------- --------------- -------- ------ ------ ----
 
 
 Population
@@ -68,7 +68,7 @@ By language, according to 2008 data, 21.17% of the population always speak in Ga
 
 History
 
-Catedral,_Santiago_de_Compostela,_España,_2015-09-22,_DD_12.jpg Picaportes_eue.jpg 065_Santiago_(da_Compostela)_Die_Bibliothek_und_der_Capitelsaal_neben_der_Kathedrale.jpg Monasterio_de_San_Francisco,_Santiago_de_Compostela,_España,_2015-09-22,_DD_02.jpg Interior_Catedral_Santiago_de_Compostela.jpg cathedral, 12th century]] Tomb_of_Afonso_VIII_de_Galicia_León_(Capela_das_Reliquias_da_catedral_de_Santiago_de_Compostela).jpg (d. 1187), in the Royal Pantheon of the cathedral]]
+cathedral, 12th century]] (d. 1187), in the Royal Pantheon of the cathedral]]
 
 The area of Santiago de Compostela was a Roman cemetery by the 4th century[11] and was occupied by the Suebi in the early 5th century, when they settled in Galicia and Portugal during the initial collapse of the Roman Empire. The area was later attributed to the bishopric of Iria Flavia in the 6th century, in the partition usually known as Parochiale Suevorum, ordered by King Theodemar. In 585, the settlement was annexed along with the rest of Suebi Kingdom by Leovigild as the sixth province of the Visigothic Kingdom.
 
@@ -96,7 +96,7 @@ Editorial Compostela owns daily newspaper El Correo Gallego, a local TV, and a r
 
 Way of St. James
 
-Stjacquescompostelle1.png Santiago_de_Compostela_view.jpg Codex_Calixtinus.jpg]] The legend that St James found his way to the Iberian Peninsula and had preached there is one of a number of early traditions concerning the missionary activities and final resting places of the apostles of Jesus. Although the 1884 Bull of Pope Leo XIII _Omnipotens Deus_ accepted the authenticity of the relics at Compostela, the Vatican remains uncommitted as to whether the relics are those of Saint James the Greater, while continuing to promote the more general benefits of pilgrimage to the site. Pope Benedict XVI undertook a ceremonial pilgrimage to the site on his visit to Spain in 2010.[32]
+]] The legend that St James found his way to the Iberian Peninsula and had preached there is one of a number of early traditions concerning the missionary activities and final resting places of the apostles of Jesus. Although the 1884 Bull of Pope Leo XIII _Omnipotens Deus_ accepted the authenticity of the relics at Compostela, the Vatican remains uncommitted as to whether the relics are those of Saint James the Greater, while continuing to promote the more general benefits of pilgrimage to the site. Pope Benedict XVI undertook a ceremonial pilgrimage to the site on his visit to Spain in 2010.[32]
 
 Legends
 
@@ -108,7 +108,7 @@ In the 15th century, the red banner which guided the Galician armies to battle, 
 
 Establishment of the shrine
 
-Spain_Leon_-_Santiago_Shell.jpg, worn by pilgrims]] The 1,000-year-old pilgrimage to the shrine of St. James in the Cathedral of Santiago de Compostela is known in English as the Way of St. James and in Spanish as the _Camino de Santiago_. Over 100,000 pilgrims travel to the city each year from points all over Europe and other parts of the world. The pilgrimage has been the subject of many books, television programmes, and films, notably Brian Sewell's _The Naked Pilgrim_ produced for the British television channel Channel 5 and the Martin Sheen/Emilio Estevez collaboration _The Way_.
+, worn by pilgrims]] The 1,000-year-old pilgrimage to the shrine of St. James in the Cathedral of Santiago de Compostela is known in English as the Way of St. James and in Spanish as the _Camino de Santiago_. Over 100,000 pilgrims travel to the city each year from points all over Europe and other parts of the world. The pilgrimage has been the subject of many books, television programmes, and films, notably Brian Sewell's _The Naked Pilgrim_ produced for the British television channel Channel 5 and the Martin Sheen/Emilio Estevez collaboration _The Way_.
 
 Pre-Christian legends
 
@@ -142,7 +142,7 @@ Main sights
 
 Transport
 
-Stazione_ferroviaria_di_Santiago_di_Compostela.JPG Santiago de Compostela is served by Santiago de Compostela Airport and a rail service.
+Santiago de Compostela is served by Santiago de Compostela Airport and a rail service.
 
 Airport
 
@@ -169,7 +169,7 @@ Sports teams
 
 Notable people
 
-Rosalía_Castro_de_Murguía_por_Luis_Sellier.jpg]] Carmen_Babiano2.jpg]] Ana_Romero_Masiá_Culleredo_2012_2.JPG 2012]] Vero_Boquete_Euro_2013b.jpg, 2013]]
+]] ]] 2012]] , 2013]]
 
 -   Bernal de Bonaval a 13th-century troubadour in the Kingdom of Galicia who wrote in the Galician-Portuguese language.
 -   Sancho de Andrade de Figueroa (1632–1702) a Roman Catholic prelate, Bishop of Quito (1688–1702) and Bishop of Ayacucho o Huamanga (1679–1688)

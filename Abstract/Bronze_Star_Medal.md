@@ -1,1 +1,0 @@
-Bronze Award|Bronze medal|Bronze Medallion (disambiguation){{!}}Bronze Medallion}} The BRONZE STAR MEDAL is a United States decoration awarded to members of the United States Armed Forces for either heroic achievement, heroic service, meritorious achievement, or meritorious service in a combat zone.

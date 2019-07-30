@@ -1,1 +1,0 @@
-INTERNATIONAL TROPICAL TIMBER AGREEMENT, 1994 (ITTA, 1994 or ITTA2) was drafted to ensure that by the year 2000 exports of tropical timber originated from sustainably managed sources and to establish a fund to assist tropical timber producers in obtaining the resources necessary to reach this objective. It defined the mandate of the International Tropical Timber Organization.

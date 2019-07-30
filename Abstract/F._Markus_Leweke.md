@@ -1,1 +1,0 @@
-F. MARKUS LEWEKE (born July 14, 1965 in Opladen) is a German psychiatrist and psychotherapist. He is a professor and Chair in Youth Depression Studies at the Brain and Mind Centre of the University of Sydney, Australia and a work group leader at the Central Institute of Mental Health in Mannheim, Germany.

@@ -1,1 +1,0 @@
-The ORDOVICIAN () is a geologic period and system, the second of six periods of the Paleozoic Era. The Ordovician spans 41.2 million years from the end of the Cambrian Period million years ago (Mya) to the start of the Silurian Period Mya.[1]

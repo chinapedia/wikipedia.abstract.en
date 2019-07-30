@@ -1,1 +1,0 @@
-JORGE TORAL AZUELA served as the International Commissioner of the Asociación de Scouts de México, Asociación Civil.

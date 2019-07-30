@@ -1,1 +1,0 @@
-GROUP B OF THE 2017 FIFA CONFEDERATIONS CUP took place from 18 to 25 June 2017. It consisted of Cameroon, Chile, Australia, and Germany. The top two teams, Germany and Chile, advanced to the semi-finals.[1]

@@ -1,1 +1,0 @@
-A LIST OF PLACES OF WORSHIP IN LONDON was compiled for William Maitland's 1739 _History of London_. It is thought to be the first such list published that goes beyond Church of England churches and chapels, to include the full variety of religions practised formally in London. The list then appeared in other publications, for two decades at least, without regard to updating.

@@ -1,1 +1,0 @@
-HALLFIELD PRIMARY SCHOOL is a two form entry infant and junior primary school housed in a building of architectural distinction. It is a grade II* listed building in Inverness Terrace, Paddington, London, built in 1953–55 and designed by Denys Lasdun.[1][2]

@@ -1,1 +1,0 @@
-MAURICIO CASILLAS CABALLERO (born 20 August 1990) is a Mexican male badminton player.[1] In 2015, he represented IBM Mexico competed at the World Corporate Games in Mexico City, and won the men's singles and doubles event.[2]

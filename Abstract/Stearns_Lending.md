@@ -1,1 +1,0 @@
-STEARNS LENDING, LLC is an American wholesale, retail and correspondent lender. Stearns is one of the largest mortgage lenders in the US[1][2] and the fifth-largest privately held lender nationwide.[3]

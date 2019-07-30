@@ -1,1 +1,0 @@
-In abstract algebra, the FIELD OF FRACTIONS of an integral domain is the smallest field in which it can be embedded. The elements of the field of fractions of the integral domain R are equivalence classes (see the construction below) written as $\frac{a}{b}$ with a and b in R and b ≠ 0. The field of fractions of R is sometimes denoted by Frac (R) or Quot (R).

@@ -1,1 +1,0 @@
-St_Matthias,_Kimberley_Road,_E16_(geograph_2295005).jpg ST MATTHIAS' CHURCH is a Church of England parish church in Canning Town, east London. The modern building comprises a chapel, community rooms and a home for residents with disabilities.

@@ -1,1 +1,0 @@
-A KREMLIN (, "castle", or "citadel"[1]) is a major fortified central complex found in historic Russian cities.[2] This word is often used to refer to the most famous, the Moscow Kremlin,[3] or metonymically to the government that is based there.[4]

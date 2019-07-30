@@ -1,1 +1,0 @@
-_THE HOLY OR THE BROKEN: LEONARD COHEN, JEFF BUCKLEY & THE UNLIKELY ASCENT OF 'HALLELUJAH{{'}}_ is a 2012 non-fiction book written by Alan Light.[1]

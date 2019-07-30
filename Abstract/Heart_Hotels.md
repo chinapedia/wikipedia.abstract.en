@@ -1,1 +1,0 @@
-"HEART HOTELS" is a song written and recorded by the American singer-songwriter Dan Fogelberg. The song appears on Fogelberg's 1979 album _Phoenix_. It was the second of two single releases from the LP.

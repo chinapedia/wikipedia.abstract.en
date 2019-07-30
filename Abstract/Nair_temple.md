@@ -1,1 +1,0 @@
-Buddhist_pillared_temple_in_Nair_between_Patna_and_Gaya.jpg and Gaya, with pillar capital arrangement.]] Nair_temple_side.jpg The NAIR TEMPLE is a ruined pillared temple at the location of Nair, on the road between Patna and Gaya, west of Dharawat. It is about 20 miles from Gaya.[1]

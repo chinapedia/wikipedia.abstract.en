@@ -1,1 +1,0 @@
-ZAHURUL HAQ (9 February 1935 – 15 February 1969) was a Pakistan Air Force sergeant. He was one of the 35 persons accused in the Agartala Conspiracy Case in 1968. He was killed in custody and his death led to increase in 1969 uprising in East Pakistan.[1] He received the Independence Day Award from the Government of Bangladesh in 2018.[2]

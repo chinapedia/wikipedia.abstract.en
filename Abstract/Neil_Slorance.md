@@ -1,1 +1,0 @@
-NEIL SLORANCE (born February 17, 1987) is a Scottish comic artist who is best known as the artist of _Dungeon Fun_ as well as for his political cartoons. He has contributed strips to Titan Comics' _Doctor Who_ comics alongside _Dungeon Fun_ writer Colin Bell.

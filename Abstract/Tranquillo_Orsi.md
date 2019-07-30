@@ -1,1 +1,0 @@
-TRANQUILLO ORSI (1771–1845) was an Italian painter, scenographer, and architect, who is known for his engravings and drawings of buildings. He also was a stage set designer for the Teatro La Fenice.[1]

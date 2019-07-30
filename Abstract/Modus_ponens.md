@@ -1,1 +1,0 @@
-In propositional logic, _MODUS PONENS_ (; MP; also _MODUS PONENDO PONENS_ (Latin for "mode that affirms by affirming")[1] or IMPLICATION ELIMINATION) is a rule of inference.[2] It can be summarized as "_P implies Q_ and _P_ is asserted to be true, therefore _Q_ must be true."

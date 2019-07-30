@@ -1,1 +1,0 @@
-THE BRONX is the northernmost of the five boroughs of New York City, in the U.S. state of New York. It is south of Westchester County; northeast and east of Manhattan, across the Harlem River; and north of Queens, across the East River. Since 1914, the borough has had the same boundaries as BRONX COUNTY, the third-most densely populated county in the United States.[1]

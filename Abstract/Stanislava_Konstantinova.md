@@ -1,1 +1,0 @@
-STANISLAVA ANDREYEVNA KONSTANTINOVA (; born 14 July 2000) is a Russian figure skater. She is the 2018 Grand Prix of Helsinki silver medalist, a two-time CS Tallinn Trophy champion (2016, 2017) and the 2017 CS Warsaw Cup silver medalist.

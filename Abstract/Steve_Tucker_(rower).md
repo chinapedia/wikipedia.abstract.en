@@ -1,1 +1,0 @@
-STEVE TUCKER (born March 4, 1969) is an American rower. He competed at the 2004 Summer Olympics in Athens, where he placed 7th in the men's lightweight double sculls, along with Greg Ruckman. Tucker was born in Mooresville, Indiana.[1]

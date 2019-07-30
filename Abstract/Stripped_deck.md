@@ -1,1 +1,0 @@
-Pikety.jpg deck, lacking ranks from 2 to 6]] A STRIPPED DECK (US) or SHORTENED PACK (UK) is a set of playing cards from which some cards have been removed. The removed cards are usually the pip cards. Many card games use stripped decks, and stripped decks for popular games are commercially available.

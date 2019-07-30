@@ -1,1 +1,0 @@
-The 1989 LINCOLNSHIRE COUNTY COUNCIL ELECTION was held on Thursday, 4 May 1989. The whole council of 76 members was up for election and the election resulted in the Conservative Party retaining control of the council and winning the same number of seats as the previous election in 1985, with 39 seats.[1]

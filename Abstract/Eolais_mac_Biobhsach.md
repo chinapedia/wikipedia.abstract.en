@@ -1,1 +1,0 @@
-EOLAIS _mac Biobhsach_ (alias '' "knowledge", anglicized "Wallis", "Olis" or "Olus" ) was a chieftain of 10th century Gaelic Ireland. He is noted as the first "full chieftain of Conmaicne Réin". His descendants, "the Muintir Eolais", expanded into the territory of present day south county Leitrim, and parts of west County Longford.

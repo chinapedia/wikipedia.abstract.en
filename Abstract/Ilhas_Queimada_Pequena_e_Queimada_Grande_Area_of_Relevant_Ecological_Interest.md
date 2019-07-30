@@ -1,1 +1,0 @@
-The ILHAS QUEIMADA PEQUENA E QUEIMADA GRANDE AREA OF RELEVANT ECOLOGICAL INTEREST () is an area of relevant ecological interest covering two Atlantic islands off the coast of the state of São Paulo, Brazil.

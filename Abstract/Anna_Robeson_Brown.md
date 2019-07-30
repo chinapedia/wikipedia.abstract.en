@@ -1,1 +1,0 @@
-AnnaRobesonBrown.tif ANNA ROBESON BROWN BURR (May 26, 1873 – September 10, 1941) was an American writer of novels, poetry, stories, essays, and biographies. Her _The Autobiography: A Critical and Comparative Study_ (1909), was the first book on the subject.

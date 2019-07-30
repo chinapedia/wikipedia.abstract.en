@@ -1,1 +1,0 @@
-_CALADENIA CAIRNSIANA_, commonly known as the ZEBRA ORCHID, is a species of orchid endemic to the south-west of Western Australia. It is a common and widespread orchid distinguished by its red-striped labellum, and petals and lateral which are pressed against the ovary.

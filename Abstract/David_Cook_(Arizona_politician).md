@@ -1,1 +1,0 @@
-DAVID COOK is a Republican politician elected to serve in the Arizona House of Representatives from the 8th Legislative District. He was first elected to the state House in 2016 and represents central & eastern Pinal County and southern Gila County.

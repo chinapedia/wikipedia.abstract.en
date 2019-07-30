@@ -1,1 +1,0 @@
-_BLACK ART_ is a poem written by African-American poet and writer Amiri Baraka. It was written in 1965 after the assassination of Malcolm X, soon after the poet (formerly LeRoi Jones) had taken on a new name.The poem issued a clarion call for art by and for Black people:

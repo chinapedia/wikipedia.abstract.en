@@ -1,1 +1,0 @@
-Brock_Burton_Royalty.jpg (left) with George V and Queen Mary at the Works of A.B. Burton (right) at Thames Ditton – May 28th, 1921]] The THAMES DITTON FOUNDRY was a foundry in Thames Ditton in Surrey which operated from 1874 to 1939 and which under various owners produced numerous major statues and monuments as one of the United Kingdom's leading firms of bronze founders.[1]

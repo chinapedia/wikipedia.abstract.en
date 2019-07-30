@@ -1,1 +1,0 @@
-The 1924 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 4, 1924. Republican Party of Minnesota candidate William I. Nolan defeated Minnesota Farmer–Labor Party challenger Emil E. Holmes and Minnesota Democratic Party candidate Fred Schilplin.

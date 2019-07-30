@@ -1,1 +1,0 @@
-JENIFER NEILS (born October 16, 1950) is a classical archaeologist and since July 2017 director of the American School of Classical Studies at Athens.[1] Formerly she was the Elsie B. Smith Professor in the Liberal Arts in the Department of Classics at Case Western Reserve University.[2]

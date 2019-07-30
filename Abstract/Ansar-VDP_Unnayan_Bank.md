@@ -1,1 +1,0 @@
-ANSAR-VDP UNNAYAN BANK is a specialised government owned bank in Bangladesh.[1] The bank was founded to provide financial services to the paramilitary Bangladesh Ansar and Village Defence Party.[2][3]

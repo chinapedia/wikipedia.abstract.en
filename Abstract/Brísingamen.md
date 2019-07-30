@@ -1,1 +1,0 @@
-Freya_and_Heimdall_by_Blommer.jpg

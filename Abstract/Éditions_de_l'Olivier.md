@@ -1,1 +1,0 @@
-The ÉDITIONS DE L'OLIVIER are a French publishing house created by Olivier Cohen and located 96 Boulevard du Montparnasse, in the 14th arrondissement of Paris. Established in 1991, this company specializes in French and foreign literature.

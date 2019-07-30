@@ -1,1 +1,0 @@
-PETRA SPRECHER is a Swiss circus artist, stuntwoman and actress residing in Los Angeles. She is best known for being the original cast and the creator of the Cloudswing act in Cirque du Soleil's Quidam.

@@ -1,1 +1,0 @@
-Historically strained, MYANMAR'S FOREIGN RELATIONS, particularly with Western nations, have improved since 2012. Relations became strained once more in 2017 with the Rohingya crisis.[1][2] Myanmar (also known as Burma) has generally maintained warmer relations with neighbouring states and is a member of the Association of Southeast Asian Nations.

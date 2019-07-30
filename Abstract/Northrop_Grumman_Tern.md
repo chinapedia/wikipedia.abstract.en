@@ -1,1 +1,0 @@
-Tactically_Exploited_Reconnaissance_Node.jpg

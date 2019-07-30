@@ -1,1 +1,0 @@
-is a role-playing video game for the Nintendo 3DS, based on the _Dragon Ball_ franchise. It was released in Japan on August 4, 2016 with a localized version being released in North America on November 22, 2016.[1] _Dragon Ball Fusions_ was released in Europe, the Middle East, and Australasian territories on February 17, 2017.[2]

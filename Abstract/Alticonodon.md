@@ -1,1 +1,0 @@
-_Alticonodon_ is a genus of extinct mammal from the Late Cretaceous of North America. It is the geologically youngest known eutriconodont, and is a fairly more specialised animal than earlier representatives of this clade.[1]

@@ -1,1 +1,0 @@
-The 1995 ALL-ATLANTIC COAST CONFERENCE FOOTBALL TEAM consists of American football players chosen by various selectors for their All-Atlantic Coast Conference ("ACC") teams for the 1995 college football season. Selectors in 1995 included the Associated Press (AP).

@@ -1,1 +1,0 @@
-TOLD SLANT is an indie-pop band from Brooklyn. It is led by Felix Walworth. Walworth is also involved in other projects, including Gabby's World, Florist, and Bellows.[1][2] David Anthony, writing for The A.V. Club praised Walworth for their ability to produce "simple, heartbreaking songs".[3]

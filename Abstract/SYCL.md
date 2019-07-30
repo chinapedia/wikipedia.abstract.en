@@ -1,1 +1,0 @@
-SYCL is a higher-level programming model for OpenCL as a single-source domain specific embedded language (DSEL) based on pure C++11 for SYCL 1.2.1 to improve programming productivity. This is a standard developed by Khronos Group, announced in March 2014.

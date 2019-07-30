@@ -1,1 +1,0 @@
-RYAN COCHRAN-SIEGLE (born 27 March 1992) is an American World Cup alpine ski racer, a member of the Skiing Cochrans family.[1] Cochran-Siegle specializes in giant slalom and super-G, and also races in downhill and combined. He made his World Cup debut on 26 November 2011.

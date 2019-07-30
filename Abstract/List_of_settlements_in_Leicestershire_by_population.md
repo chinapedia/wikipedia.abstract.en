@@ -1,1 +1,0 @@
-Below is a LIST OF SETTLEMENTS IN LEICESTERSHIRE (INCLUDING THE CITY OF LEICESTER) BY POPULATION based on the results of the 2011 census, where the population exceeded 2,000 (52 locations), as well as county and regional demographics in detail.

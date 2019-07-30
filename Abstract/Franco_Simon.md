@@ -1,1 +1,0 @@
-FRANCO SIMON (born 7 October 1974) is an Indian singer[1] and music composer from Kerala. He has sung around 150 Malayalam films songs and 1500 album songs in 5 different languages. He is the nephew of well-known Indian film composer Ouseppachan. He is a recipient of GMMA award and multiple Yuvaprathibha Puraskar for his soundtrack albums.

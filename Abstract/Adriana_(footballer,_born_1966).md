@@ -1,1 +1,0 @@
-ADRIANA BURKE (née VIOLA; born 26 December 1966), commonly known as ADRIANA, is a Brazilian former footballer who played as a forward for the Brazil women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. At club level she played for EC Radar in Brazil.[1]

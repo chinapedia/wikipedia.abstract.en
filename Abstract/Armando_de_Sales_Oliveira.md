@@ -1,1 +1,0 @@
-Pintura_Oficial_de_Armando_de_Sales.jpg

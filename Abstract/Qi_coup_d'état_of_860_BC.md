@@ -1,1 +1,0 @@
-In course of the QI COUP D'ÉTAT OF 860 BC Duke Hu of Qi was overthrown and killed by a rebel faction, led by his half-brother Shan. As Hu had been appointed and supported by the Zhou dynasty, the coup led to a royal punitive expedition that failed in removing Shan from the throne. Later known as Duke Xian, Shan went on to rule Qi for seven or eight years.

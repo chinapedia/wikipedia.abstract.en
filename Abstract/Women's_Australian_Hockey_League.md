@@ -1,1 +1,0 @@
-The WOMEN'S AUSTRALIAN HOCKEY LEAGUE is highest level field hockey tournament for women in Australia. Until 2016, the annually contested tournament comprised teams from the eight states and territories of Australia.

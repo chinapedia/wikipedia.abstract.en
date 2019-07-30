@@ -1,1 +1,0 @@
-hydrogen_atom.svg radius. (Image not to scale)]] A HYDROGEN ATOM is an atom of the chemical element hydrogen. The electrically neutral atom contains a single positively charged proton and a single negatively charged electron bound to the nucleus by the Coulomb force. ATOMIC HYDROGEN constitutes about 75% of the baryonic mass of the universe.[1]

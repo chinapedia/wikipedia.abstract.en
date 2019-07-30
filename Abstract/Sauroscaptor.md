@@ -1,1 +1,0 @@
-_SAUROSCAPTOR_ is a genus of cistecephalid dicynodont from the upper Permian of India, containing one species, _S. tharavati_. It is remarkable for the extreme placement of its pineal foramen, which bulges out of the posterior margin of its skull.

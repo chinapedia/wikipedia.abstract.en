@@ -1,1 +1,0 @@
-Escudo_Maldonado.png BALTASAR MALDONADO, also written as BALTAZAR MALDONADO,[1] (?, Salamanca, Castile - 1552, Bogotá, New Kingdom of Granada) was a Spanish conquistador who first served under Sebastian de Belalcázar in the conquest of Quito and Peru, the foundations of Cali and Popayán, and later in the army of Hernán Pérez de Quesada in the Spanish conquest of the Muisca.[2]

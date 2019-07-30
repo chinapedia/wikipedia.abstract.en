@@ -1,1 +1,0 @@
-RODGER DEAN GREEN (born June 30, 1989) is an American professional baseball first baseman for the Southern Maryland Blue Crabs of the Atlantic League of Professional Baseball. He played for the Tokyo Yakult Swallows of Nippon Professional Baseball's Central League in 2017.

@@ -1,1 +1,0 @@
-20060714_defile_blindes_p1040887.jpg tank, is used by the engineers of the French Army for a variety of missions.]] Counter_Obstacle_Vehicle_BAT-M_on_permanent_display_in_the_courtyard_of_Military-historical_Museum_of_Artillery,_Engineer_and_Signal_Corps_in_Saint-Petersburg,_Russia.jpg and the former Soviet Union]]

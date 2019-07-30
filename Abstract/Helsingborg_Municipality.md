@@ -1,1 +1,0 @@
-HELSINGBORG MUNICIPALITY (_Helsingborgs kommun_) is a municipality in Skåne County in Sweden. Its seat is located in the city of Helsingborg, which is Sweden's eighth largest city. The municipality had a population of 132,011 on January 1, 2013, and the population is increasing with roughly 1500 people annually.

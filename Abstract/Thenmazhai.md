@@ -1,1 +1,0 @@
-_THENMAZHAI_ () is a 1966 Tamil-language romantic comedy film, directed by Muktha Srinivasan and produced by V. Ramasamy. Music was by T. K. Ramamoorthy.[1] Gemini Ganesan, K. R. Vijaya[2] and Major Sundararajan played lead with Nagesh, Cho, Sachu and Manorama played pivotal roles and provided comic relief.

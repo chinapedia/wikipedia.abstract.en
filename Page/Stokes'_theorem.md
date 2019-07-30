@@ -80,12 +80,12 @@ Stokes' theorem on smooth manifolds can be derived from Stokes' theorem for chai
 
 Underlying principle
 
-Stokes_patch.svg To simplify these topological arguments, it is worthwhile to examine the underlying principle by considering an example for 2}} dimensions. The essential idea can be understood by the diagram on the left, which shows that, in an oriented tiling of a manifold, the interior paths are traversed in opposite directions; their contributions to the path integral thus cancel each other pairwise. As a consequence, only the contribution from the boundary remains. It thus suffices to prove Stokes' theorem for sufficiently fine tilings (or, equivalently, simplices), which usually is not difficult.
+To simplify these topological arguments, it is worthwhile to examine the underlying principle by considering an example for 2}} dimensions. The essential idea can be understood by the diagram on the left, which shows that, in an oriented tiling of a manifold, the interior paths are traversed in opposite directions; their contributions to the path integral thus cancel each other pairwise. As a consequence, only the contribution from the boundary remains. It thus suffices to prove Stokes' theorem for sufficiently fine tilings (or, equivalently, simplices), which usually is not difficult.
 
 
 Generalization to rough sets
 
-Green's-theorem-simple-region.svg, so its boundary is not a smooth manifold.]]
+, so its boundary is not a smooth manifold.]]
 
 The formulation above, in which is a smooth manifold with boundary, does not suffice in many applications. For example, if the domain of integration is defined as the plane region between two -coordinates and the graphs of two functions, it will often happen that the domain has corners. In such a case, the corner points mean that is not a smooth manifold with boundary, and so the statement of Stokes' theorem given above does not apply. Nevertheless, it is possible to check that the conclusion of Stokes' theorem is still true. This is because and its boundary are well-behaved away from a small set of points (a measure zero set).
 
@@ -101,8 +101,6 @@ Special cases
 The general form of the Stokes theorem using differential forms is more powerful and easier to use than the special cases. The traditional versions can be formulated using Cartesian coordinates without the machinery of differential geometry, and thus are more accessible. Further, they are older and their names are more familiar as a result. The traditional forms are often considered more convenient by practicing scientists and engineers but the non-naturalness of the traditional formulation becomes apparent when using other coordinate systems, even familiar ones like spherical or cylindrical coordinates. There is potential for confusion in the way names are applied, and the use of dual formulations.
 
 Kelvin–Stokes theorem
-
-Stokes'_Theorem.svg
 
 This is a (dualized) (1 + 1)-dimensional case, for a 1-form (dualized because it is a statement about vector fields). This special case is often just referred to as _Stokes' theorem_ in many introductory university vector calculus courses and is used in physics and engineering. It is also sometimes known as the CURL theorem.
 

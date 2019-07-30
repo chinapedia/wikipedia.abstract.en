@@ -1,1 +1,0 @@
-AMIYA KUMARI PADHI (15 September 1933–30 April 2012) was an eminent Indian jurist and the first woman to serve as a judge of the Odisha High Court. She was also the Odisha High Court representative under the Indian National Security Act.[1]

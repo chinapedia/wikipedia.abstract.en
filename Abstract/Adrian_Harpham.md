@@ -1,1 +1,0 @@
-ADRIAN HARPHAM (born Adrian Geoffrey Harpham, Los Angeles, California) is an American session drummer, record producer, recording artist/songwriter and multi-instrumentalist based in New York City. He grew up in Southern California, Philadelphia and the Boston area.

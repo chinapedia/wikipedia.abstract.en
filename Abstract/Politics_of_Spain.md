@@ -1,1 +1,0 @@
-The POLITICS OF SPAIN takes place under the framework established by the Constitution of 1978. Spain is established as a social and democratic sovereign country[1] wherein the national sovereignty is vested in the people, from which the powers of the state emanate.[2]

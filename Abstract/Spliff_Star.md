@@ -1,1 +1,0 @@
-WILLIAM A. LEWIS (born April 16, 1975), professionally known as SPLIFF STAR, is an American rapper and producer from Flatbush, Brooklyn, New York.[1] He's best known for his work with Busta Rhymes.[2][3][4][5] Both _Vibe_ and _Complex_ listed Spliff Star as one of the best hype men in hip hop.[6][7]

@@ -1,1 +1,0 @@
-LAKE ABITIBI () is a lake in northeastern Ontario and western Quebec, Canada. The lake, which lies within the vast Clay Belt, is separated in two distinct portions by a short narrows, making it actually 2 lakes. Its total area is 931 km², and net area 903 km².[1] The lake is shallow and studded with islands. Its shores and vicinity are covered with small timber.

@@ -1,4 +1,4 @@
-1_times_square_night_2013.jpg is the hub of the Broadway theatre district and a major cultural venue in Midtown Manhattan, New York City. The pedestrian intersection also has one of the highest annual attendance rates of any tourist attraction in the world, estimated at 60 million.[1]]] Tourist_taking_photographs_and_video_at_archaelogical_site.jpg at an archaeological site]] Urban_backpacking.jpg tourists in Vienna]]
+is the hub of the Broadway theatre district and a major cultural venue in Midtown Manhattan, New York City. The pedestrian intersection also has one of the highest annual attendance rates of any tourist attraction in the world, estimated at 60 million.[1]]] at an archaeological site]] tourists in Vienna]]
 
 TOURISM is travel for pleasure or business; also the theory and practice of touring, the business of attracting, accommodating, and entertaining tourists, and the business of operating tours.[2] Tourism may be international, or within the traveller's country. The World Tourism Organization defines tourism more generally, in terms which go "beyond the common perception of tourism as being limited to holiday activity only", as people "traveling to and staying in places outside their usual environment for not more than one consecutive year for leisure and not less than 24 hours, business and other purposes".[3]
 
@@ -9,15 +9,15 @@ Tourism suffered as a result of a strong economic slowdown of the late-2000s rec
 
 Etymology
 
-Vysoké_Tatry_r.1922.jpg, Slovakia.]]
+, Slovakia.]]
 
 The word _tourist_ was used in 1772[11] and _tourism_ in 1811.[12] It is formed from the word _tour_, which is derived from Old English _turian_, from Old French _torner_, from Latin _tornare_; 'to turn on a lathe,' which is itself from Ancient Greek _tornos_ (τόρνος); 'lathe'.[13]
 
 
 Significance of tourism
 
-Ahlbeck_Strandkörbe_2013.JPG chairs on Usedom Island, Germany. Not only does the service sector grow because of tourism, but also local manufacturers (like those producing the strandkorb chairs), retailers, the real-estate sector and the general image of a location can benefit.]]
-Drawienski_Park_Narodowy_-_ruiny_Wegorni.jpg in Poland, famous for its canoeing routes.]] Local_handicraft,_Etosha_National_Park_(Namibia).jpg in Namibia, an important source of income]] Tourism has become an important source of income for many regions and even entire countries. The _Manila Declaration on World Tourism of 1980_ recognized its importance as "an activity essential to the life of nations because of its direct effects on the social, cultural, educational, and economic sectors of national societies, and on their international relations."[14][15]
+chairs on Usedom Island, Germany. Not only does the service sector grow because of tourism, but also local manufacturers (like those producing the strandkorb chairs), retailers, the real-estate sector and the general image of a location can benefit.]]
+in Poland, famous for its canoeing routes.]] in Namibia, an important source of income]] Tourism has become an important source of income for many regions and even entire countries. The _Manila Declaration on World Tourism of 1980_ recognized its importance as "an activity essential to the life of nations because of its direct effects on the social, cultural, educational, and economic sectors of national societies, and on their international relations."[14][15]
 
 Tourism brings large amounts of income into a local economy in the form of payment for goods and services needed by tourists, accounting for 30% of the world's trade in services, and for 6% of overall exports of goods and services.[16] It also generates opportunities for employment in the service sector of the economy associated with tourism.[17]
 
@@ -232,8 +232,6 @@ World Travel and Tourism Council
 
 History
 
-"A_Tour_Guide_to_the_Famous_Places_of_the_Capital"_from_Akizato_Rito's_Miyako_meisho_zue_(1787).jpg
-
 Antiquity
 
 Travel outside a person's local area for leisure was largely confined to wealthy classes, who at times traveled to distant parts of the world, to see great buildings and works of art, learn new languages, experience new cultures, and to taste different cuisines. As early as Shulgi, however, kings praised themselves for protecting roads and building way stations for travelers.[41] Travelling for pleasure can be seen in Egypt as early on as 1500 BC.[42] During the Roman Republic, spas and coastal resorts such as Baiae were popular among the rich. Pausanias wrote his _Description of Greece_ in the second century AD. In ancient China, nobles sometimes made a point of visiting Mount Tai and, on occasion, all five Sacred Mountains.
@@ -246,7 +244,7 @@ The 10th- to 13th-century Song dynasty also saw secular travel writers such as S
 
 Grand Tour
 
-Willem_van_Haecht_Władysław_Vasa.JPG in Brussels in 1624.]] Modern tourism can be traced to what was known as the Grand Tour, which was a traditional trip around Europe (especially Germany and Italy), undertaken by mainly upper-class European young men of means, mainly from Western and Northern European countries. In 1624, young Prince of Poland, Ladislaus Sigismund Vasa, the eldest son and heir of Sigismund III, embarked for a journey across Europe, as was in custom among Polish nobility.[45] He travelled through territories of today's Germany, Belgium, Netherlands, where he admired the Siege of Breda by Spanish forces, France, Switzerland to Italy, Austria, and the Czech Republic.[46] It was an educational journey[47] and one of the outcomes was introduction of Italian opera in the Polish–Lithuanian Commonwealth.[48]
+in Brussels in 1624.]] Modern tourism can be traced to what was known as the Grand Tour, which was a traditional trip around Europe (especially Germany and Italy), undertaken by mainly upper-class European young men of means, mainly from Western and Northern European countries. In 1624, young Prince of Poland, Ladislaus Sigismund Vasa, the eldest son and heir of Sigismund III, embarked for a journey across Europe, as was in custom among Polish nobility.[45] He travelled through territories of today's Germany, Belgium, Netherlands, where he admired the Siege of Breda by Spanish forces, France, Switzerland to Italy, Austria, and the Czech Republic.[46] It was an educational journey[47] and one of the outcomes was introduction of Italian opera in the Polish–Lithuanian Commonwealth.[48]
 
 The custom flourished from about 1660 until the advent of large-scale rail transit in the 1840s, and generally followed a standard itinerary. It was an educational opportunity and rite of passage. Though primarily associated with the British nobility and wealthy landed gentry, similar trips were made by wealthy young men of Protestant Northern European nations on the Continent, and from the second half of the 18th century some South American, US, and other overseas youth joined in. The tradition was extended to include more of the middle class after rail and steamship travel made the journey easier, and Thomas Cook made the "Cook's Tour" a byword.
 
@@ -258,20 +256,20 @@ The primary value of the Grand Tour, it was believed, laid in the exposure both 
 
 Emergence of leisure travel
 
-Carl_Spitzweg_047.jpg'' by Carl Spitzweg (c. 1845)]]
+'' by Carl Spitzweg (c. 1845)]]
 
 Leisure travel was associated with the Industrial Revolution in the United Kingdomthe first European country to promote leisure time to the increasing industrial population.[49] Initially, this applied to the owners of the machinery of production, the economic oligarchy, factory owners and traders. These comprised the new middle class.[50] Cox & Kings was the first official travel company to be formed in 1758.[51]
 
 The British origin of this new industry is reflected in many place names. In Nice, France, one of the first and best-established holiday resorts on the French Riviera, the long esplanade along the seafront is known to this day as the _Promenade des Anglais_; in many other historic resorts in continental Europe, old, well-established palace hotels have names like the _Hotel Bristol_, _Hotel Carlton_, or _Hotel Majestic_reflecting the dominance of English customers.
 
-Thomas_Cook_Building,_Leicester,_panels.jpg]] Leicester_Rail_Station_-_geograph.org.uk_-_1266728.jpg – built in 1894 to replace, largely on the same site, Campbell Street station, the origin for many of Cook's early tours.]] A pioneer of the travel agency business, Thomas Cook's idea to offer excursions came to him while waiting for the stagecoach on the London Road at Kibworth. With the opening of the extended Midland Counties Railway, he arranged to take a group of 540 temperance campaigners from Leicester Campbell Street station to a rally in Loughborough, away. On 5 July 1841, Thomas Cook arranged for the rail company to charge one shilling per person; this included rail tickets and food for the journey. Cook was paid a share of the fares charged to the passengers, as the railway tickets, being legal contracts between company and passenger, could not have been issued at his own price. This was the first privately chartered excursion train to be advertised to the general public; Cook himself acknowledged that there had been previous, unadvertised, private excursion trains.[52] During the following three summers he planned and conducted outings for temperance societies and Sunday school children. In 1844 the Midland Counties Railway Company agreed to make a permanent arrangement with him, provided he found the passengers. This success led him to start his own business running rail excursions for pleasure, taking a percentage of the railway fares.[53]
+]] – built in 1894 to replace, largely on the same site, Campbell Street station, the origin for many of Cook's early tours.]] A pioneer of the travel agency business, Thomas Cook's idea to offer excursions came to him while waiting for the stagecoach on the London Road at Kibworth. With the opening of the extended Midland Counties Railway, he arranged to take a group of 540 temperance campaigners from Leicester Campbell Street station to a rally in Loughborough, away. On 5 July 1841, Thomas Cook arranged for the rail company to charge one shilling per person; this included rail tickets and food for the journey. Cook was paid a share of the fares charged to the passengers, as the railway tickets, being legal contracts between company and passenger, could not have been issued at his own price. This was the first privately chartered excursion train to be advertised to the general public; Cook himself acknowledged that there had been previous, unadvertised, private excursion trains.[52] During the following three summers he planned and conducted outings for temperance societies and Sunday school children. In 1844 the Midland Counties Railway Company agreed to make a permanent arrangement with him, provided he found the passengers. This success led him to start his own business running rail excursions for pleasure, taking a percentage of the railway fares.[53]
 
 In 1855, he planned his first excursion abroad, when he took a group from Leicester to Calais to coincide with the Paris Exhibition. The following year he started his "grand circular tours" of Europe.[54] During the 1860s he took parties to Switzerland, Italy, Egypt and the United States. Cook established "inclusive independent travel", whereby the traveller went independently but his agency charged for travel, food and accommodation for a fixed period over any chosen route. Such was his success that the Scottish railway companies withdrew their support between 1862 and 1863 to try the excursion business for themselves.
 
 
 Cruise shipping
 
-Prinzessin_Victoria_Luise_LOC_det.4a15439.jpg, the first cruise ship of the world, launched in June 1900 in Hamburg (Germany)]] Cruising is a popular form of water tourism. Leisure cruise ships were introduced by the _Peninsular & Oriental Steam Navigation Company_ (P&O) in 1844, sailing from Southampton to destinations such as Gibraltar, Malta and Athens.[55] In 1891, German businessman Albert Ballin sailed the ship _Augusta Victoria_ from Hamburg into the Mediterranean Sea. June 29, 1900 saw the launching of the first purpose-built cruise ship was _Prinzessin Victoria Luise_, built in Hamburg for the Hamburg America Line.[56]
+, the first cruise ship of the world, launched in June 1900 in Hamburg (Germany)]] Cruising is a popular form of water tourism. Leisure cruise ships were introduced by the _Peninsular & Oriental Steam Navigation Company_ (P&O) in 1844, sailing from Southampton to destinations such as Gibraltar, Malta and Athens.[55] In 1891, German businessman Albert Ballin sailed the ship _Augusta Victoria_ from Hamburg into the Mediterranean Sea. June 29, 1900 saw the launching of the first purpose-built cruise ship was _Prinzessin Victoria Luise_, built in Hamburg for the Hamburg America Line.[56]
 
 
 Modern day tourism
@@ -280,7 +278,7 @@ Many leisure-oriented tourists travel to seaside resorts on their nearest coast 
 
 Mass tourism
 
-Adolf_Friedrich_Erdmann_von_Menzel_044.jpg (1875)]] Rom_fountain_of_Trevi.jpg in Rome, Italy]] Barceloneta_2007.jpg, 2007]]
+(1875)]] in Rome, Italy]] , 2007]]
 
 Academics have defined mass tourism as travel by groups on pre-scheduled tours, usually under the organization of tourism professionals.[57] This form of tourism developed during the second half of the 19th century in the United Kingdom and was pioneered by Thomas Cook. Cook took advantage of Europe's rapidly expanding railway network and established a company that offered affordable day trip excursions to the masses, in addition to longer holidays to Continental Europe, India, Asia and the Western Hemisphere which attracted wealthier customers. By the 1890s over 20,000 tourists per year used Thomas Cook & Son.[58]
 
@@ -294,7 +292,7 @@ By the mid-20th century the Mediterranean Coast became the principal mass touris
 
 Niche tourism
 
-Cristo_Rei_(36211699613).jpg, in Almada, has become one of the most religious tourism visited places.]]
+, in Almada, has become one of the most religious tourism visited places.]]
 
 Niche tourism refers to the numerous specialty forms of tourism that have emerged over the years, each with its own adjective. Many of these terms have come into common use by the tourism industry and academics.[60] Others are emerging concepts that may or may not gain popular usage. Examples of the more common niche tourism markets are:
 
@@ -326,7 +324,7 @@ Other terms used for niche or specialty travel forms include the term "destinati
 
 Winter tourism
 
-Hollywood_Wax_Museum_-_Pigeon_Forge,_TN.jpg St. Moritz, Switzerland became the cradle of the developing winter tourism in the 1860s: hotel manager Johannes Badrutt invited some summer guests from England to return in the winter to see the snowy landscape, thereby inaugurating a popular trend.[61][62] It was, however, only in the 1970s when winter tourism took over the lead from summer tourism in many of the Swiss ski resorts. Even in winter, up to one third of all guests (depending on the location) consist of non-skiers.[63]
+St. Moritz, Switzerland became the cradle of the developing winter tourism in the 1860s: hotel manager Johannes Badrutt invited some summer guests from England to return in the winter to see the snowy landscape, thereby inaugurating a popular trend.[61][62] It was, however, only in the 1970s when winter tourism took over the lead from summer tourism in many of the Swiss ski resorts. Even in winter, up to one third of all guests (depending on the location) consist of non-skiers.[63]
 
 Major ski resorts are located mostly in the various European countries (e.g. Andorra, Austria, Bulgaria, Bosnia-Herzegovina, Croatia, Czech Republic, Cyprus, Finland, France, Germany, Greece, Iceland, Italy, Norway, Latvia, Lithuania, Poland, Romania, Serbia, Sweden, Slovakia, Slovenia, Spain, Switzerland, Turkey), Canada, the United States (e.g. Montana, Utah, Colorado, California, Wyoming, Vermont, New Hampshire, New York) Argentina, New Zealand, Japan, South Korea, Chile, and Lebanon.
 
@@ -335,7 +333,7 @@ Some places that already have ski opportunities can also have glaciers in the ar
 
 Recent developments
 
-Aerial_view_Yacht_Harbour_Residence_Rostock_Yachthafenresidenz_Hohe_Düne_6.jpg in Germany: _Yacht Harbour Residence_ in Rostock, Mecklenburg.]] Can_you_see_the_surfer?_(33988985575).jpg, is now listed on the Guinness World Records for the biggest waves ever surfed and has become a worldwide tourist attraction.]] There has been an up-trend in tourism over the last few decades, especially in Europe, where international travel for short breaks is common. Tourists have a wide range of budgets and tastes, and a wide variety of resorts and hotels have developed to cater for them. For example, some people prefer simple beach vacations, while others want more specialised holidays, quieter resorts, family-oriented holidays, or niche market-targeted destination hotels.
+in Germany: _Yacht Harbour Residence_ in Rostock, Mecklenburg.]] , is now listed on the Guinness World Records for the biggest waves ever surfed and has become a worldwide tourist attraction.]] There has been an up-trend in tourism over the last few decades, especially in Europe, where international travel for short breaks is common. Tourists have a wide range of budgets and tastes, and a wide variety of resorts and hotels have developed to cater for them. For example, some people prefer simple beach vacations, while others want more specialised holidays, quieter resorts, family-oriented holidays, or niche market-targeted destination hotels.
 
 The developments in air transport infrastructure, such as jumbo jets, low-cost airlines, and more accessible airports have made many types of tourism more affordable. The WHO estimated in 2009 that there are around half a million people on board aircraft at any given time.[68] There have also been changes in lifestyle, for example some retirement-age people sustain year round tourism. This is facilitated by internet sales of tourist services. Some sites have now started to offer dynamic packaging, in which an inclusive price is quoted for a tailor-made package requested by the customer upon impulse.
 
@@ -381,7 +379,7 @@ This form of tourism is largely praised for its more sustainable approach to tra
 
 Pro-poor tourism
 
-Community_Tourism_(Riven_No_2).webm Film-Camera.png Playlist ]] Pro-poor tourism, which seeks to help the poorest people in developing countries, has been receiving increasing attention by those involved in development; the issue has been addressed through small-scale projects in local communities and through attempts by Ministries of Tourism to attract large numbers of tourists. Research by the Overseas Development Institute suggests that neither is the best way to encourage tourists' money to reach the poorest as only 25% or less (far less in some cases) ever reaches the poor; successful examples of money reaching the poor include mountain-climbing in Tanzania and cultural tourism in Luang Prabang, Laos.[87] There is also the possibility of pro-poor tourism principles being adopted in centre sites of regeneration in the developed world.[88]
+Playlist ]] Pro-poor tourism, which seeks to help the poorest people in developing countries, has been receiving increasing attention by those involved in development; the issue has been addressed through small-scale projects in local communities and through attempts by Ministries of Tourism to attract large numbers of tourists. Research by the Overseas Development Institute suggests that neither is the best way to encourage tourists' money to reach the poorest as only 25% or less (far less in some cases) ever reaches the poor; successful examples of money reaching the poor include mountain-climbing in Tanzania and cultural tourism in Luang Prabang, Laos.[87] There is also the possibility of pro-poor tourism principles being adopted in centre sites of regeneration in the developed world.[88]
 
 Recession tourism
 
@@ -401,11 +399,11 @@ This type of tourism is focused tourists coming into a region to either particip
 
 Creative tourism
 
-FF_of_Hartwell_welcomes_Indonesians.jpg visitors from Indonesia meet their hosts in Hartwell, Georgia, USA.]] Creative tourism has existed as a form of cultural tourism, since the early beginnings of tourism itself. Its European roots date back to the time of the Grand Tour, which saw the sons of aristocratic families traveling for the purpose of mostly interactive, educational experiences. More recently, creative tourism has been given its own name by Crispin Raymond and Greg Richards,[92] who as members of the Association for Tourism and Leisure Education (ATLAS), have directed a number of projects for the European Commission, including cultural and crafts tourism, known as sustainable tourism. They have defined "creative tourism" as tourism related to the active participation of travellers in the culture of the host community, through interactive workshops and informal learning experiences.[93]
+visitors from Indonesia meet their hosts in Hartwell, Georgia, USA.]] Creative tourism has existed as a form of cultural tourism, since the early beginnings of tourism itself. Its European roots date back to the time of the Grand Tour, which saw the sons of aristocratic families traveling for the purpose of mostly interactive, educational experiences. More recently, creative tourism has been given its own name by Crispin Raymond and Greg Richards,[92] who as members of the Association for Tourism and Leisure Education (ATLAS), have directed a number of projects for the European Commission, including cultural and crafts tourism, known as sustainable tourism. They have defined "creative tourism" as tourism related to the active participation of travellers in the culture of the host community, through interactive workshops and informal learning experiences.[93]
 
 Meanwhile, the concept of creative tourism has been picked up by high-profile organizations such as UNESCO, who through the Creative Cities Network, have endorsed creative tourism as an engaged, authentic experience that promotes an active understanding of the specific cultural features of a place.
 
-Greg_Richards_-_Conferencia_Turismo_Creativo.jpg More recently, creative tourism has gained popularity as a form of cultural tourism, drawing on active participation by travelers in the culture of the host communities they visit. Several countries offer examples of this type of tourism development, including the United Kingdom, Austria, France, the Bahamas, Jamaica, Spain, Italy, New Zealand and South Korea.[94]
+More recently, creative tourism has gained popularity as a form of cultural tourism, drawing on active participation by travelers in the culture of the host communities they visit. Several countries offer examples of this type of tourism development, including the United Kingdom, Austria, France, the Bahamas, Jamaica, Spain, Italy, New Zealand and South Korea.[94]
 
 The growing interest of tourists[95] in this new way to discover a culture regards particularly the operators and branding managers, attentive to the possibility of attracting a quality tourism, highlighting the intangible heritage (craft workshops, cooking classes, etc.) and optimizing the use of existing infrastructure (for example, through the rent of halls and auditorium).
 
@@ -417,7 +415,7 @@ The term "experiential travel" has been mentioned in publications since 1985,[97
 
 Dark tourism
 
-Poland_-_Czermna_-_Chapel_of_Skulls_-_interior_06.jpg in south-western Poland is an example of dark tourism. Its interior walls, ceiling and foundations are adorned by human remains. It is the only such monument in Poland, and one of six in Europe.]] One emerging area of special interest has been identified by Lennon and Foley (2000)[98][99] as "dark" tourism. This type of tourism involves visits to "dark" sites, such as battlegrounds, scenes of horrific crimes or acts of genocide, for example concentration camps. Its origins are rooted in fairgrounds and medieval fairs.[100]
+in south-western Poland is an example of dark tourism. Its interior walls, ceiling and foundations are adorned by human remains. It is the only such monument in Poland, and one of six in Europe.]] One emerging area of special interest has been identified by Lennon and Foley (2000)[98][99] as "dark" tourism. This type of tourism involves visits to "dark" sites, such as battlegrounds, scenes of horrific crimes or acts of genocide, for example concentration camps. Its origins are rooted in fairgrounds and medieval fairs.[100]
 
 Philip Stone argues that dark tourism is a way of imagining one's own death through the real death of others.[101] Erik H Cohen introduces the term "populo sites" to evidence the educational character of dark tourism. Populo sites transmit the story of victimized people to visitors. Based on a study at Yad Vashem, the Shoah (Holocaust) memorial museum in Jerusalem, a new term—_in populo_—is proposed to describe dark tourism sites at a spiritual and population center of the people to whom a tragedy befell. Learning about the Shoah in Jerusalem offers an encounter with the subject which is different from visits to sites in Europe, but equally authentic. It is argued that a dichotomy between "authentic" sites at the location of a tragedy and "created" sites elsewhere is insufficient. Participants' evaluations of seminars for European teachers at Yad Vashem indicate that the location is an important aspect of a meaningful encounter with the subject. Implications for other cases of dark tourism at _in populo_ locations are discussed.[102] In this vein, Peter Tarlow defines dark tourism as the tendency to visit the scenes of tragedies or historically noteworthy deaths, which continue to impact our lives. This issue cannot be understood without the figure of trauma.[103]
 
@@ -427,13 +425,13 @@ Social tourism is making tourism available to poor people who otherwise could no
 
 Doom tourism
 
-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG, Patagonia, Argentina.]]
+, Patagonia, Argentina.]]
 
 Also known as "Tourism of Doom," or "Last Chance Tourism" this emerging trend involves traveling to places that are environmentally or otherwise threatened (such as the ice caps of Mount Kilimanjaro, the melting glaciers of Patagonia, or the coral of the Great Barrier Reef) before it is too late. Identified by travel trade magazine Travel Age West[105] editor-in-chief Kenneth Shapiro in 2007 and later explored in _The New York Times_,[106] this type of tourism is believed to be on the rise. Some see the trend as related to sustainable tourism or ecotourism due to the fact that a number of these tourist destinations are considered threatened by environmental factors such as global warming, overpopulation or climate change. Others worry that travel to many of these threatened locations increases an individual's carbon footprint and only hastens problems threatened locations are already facing.[107][108][109][110][111]
 
 Religious tourism
 
-Saint_Peter's_Basilica_facade,_Rome,_Italy.jpg in Vatican City, the papal enclave within the Italian city of Rome - one of the largest religious-tourism sites in the world.]] Religious tourism, in particular pilgrimage, can serve to strengthen faith and to demonstrate devotion - both of which are central tenets of many major religions.[112] Religious tourists may seek destinations whose image encourages them to believe that they can strengthen the religious elements of their self-identity in a positive manner. Given this, the perceived image of a destination may be positively influenced by whether it conforms to the requirements of their religious self-identity or not.[113]
+in Vatican City, the papal enclave within the Italian city of Rome - one of the largest religious-tourism sites in the world.]] Religious tourism, in particular pilgrimage, can serve to strengthen faith and to demonstrate devotion - both of which are central tenets of many major religions.[112] Religious tourists may seek destinations whose image encourages them to believe that they can strengthen the religious elements of their self-identity in a positive manner. Given this, the perceived image of a destination may be positively influenced by whether it conforms to the requirements of their religious self-identity or not.[113]
 
 Tourism fatigue
 
@@ -446,7 +444,7 @@ The World Tourism Organization (UNWTO) forecasts that international tourism will
 
 It has been suggested there is a strong correlation between tourism expenditure per capita and the degree to which countries play in the global context.[118] Not only as a result of the important economic contribution of the tourism industry, but also as an indicator of the degree of confidence with which global citizens leverage the resources of the globe for the benefit of their local economies. This is why any projections of growth in tourism may serve as an indication of the relative influence that each country will exercise in the future.
 
-White_Knight_Two_and_SpaceShipTwo_from_directly_below.jpg is a major project in space tourism.]]
+is a major project in space tourism.]]
 
 Space tourism
 
@@ -458,7 +456,7 @@ Since the late 1980s, sports tourism has become increasingly popular. Events suc
 
 Latest trends
 
-AYRIVANK_MONASTERY_103_(cropped).JPG: Tourists outside a Geghard monastery in Armenia, 2015.]]
+: Tourists outside a Geghard monastery in Armenia, 2015.]]
 
 As a result of the late-2000s recession, international arrivals suffered a strong slowdown beginning in June 2008. Growth from 2007 to 2008 was only 3.7% during the first eight months of 2008. This slowdown on international tourism demand was also reflected in the air transport industry, with a negative growth in September 2008 and a 3.3% growth in passenger traffic through September. The hotel industry also reported a slowdown, with room occupancy declining. In 2009 worldwide tourism arrivals decreased by 3.8%.[120] By the first quarter of 2009, real travel demand in the United States had fallen 6% over six quarters. While this is considerably milder than what occurred after the 9/11 attacks, the decline was at twice the rate as real GDP has fallen.[121][122]
 

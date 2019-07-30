@@ -1,1 +1,0 @@
-GRADIENT-ENHANCED KRIGING (GEK) is a surrogate modeling technique used in engineering. A surrogate model (alternatively known as a metamodel, response surface or emulator) is a prediction of the output of an expensive computer code. [1] This prediction is based on a small number of evaluations of the expensive computer code.

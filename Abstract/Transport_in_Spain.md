@@ -1,1 +1,0 @@
-TRANSPORT IN SPAIN is characterised by an extensive network of roads, railways, rapid transit, air routes, and ports. Its geographic location makes it an important link between Europe, Africa, and the New World. Major forms of transit generally radiate from the capital, Madrid, located in the centre of the country, to link with the capitals of the autonomous communities.

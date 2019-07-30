@@ -9,7 +9,7 @@ The Greeks who may have[1] originally identified this constellation called it _O
 
 Ancient Greece
 
-Sagitta can be seen above Aquila (constellation) in this plate from _Urania's Mirror_ (1825).|thumb|left In ancient Greece, Sagitta was regarded as the weapon that Hercules used to kill the eagle (Aquila) of Jove that perpetually gnawed Prometheus' liver.[4] The Arrow is located beyond the north border of Aquila, the Eagle. According to R.H. Allen, the Arrow could be the one shot by Hercules towards the adjacent Stymphalian birds (6th labor) who had claws, beaks and wings of iron, and who lived on human flesh in the marshes of Arcadia - Aquila the Eagle, Cygnus the Swan, and Lyra (the Vulture) - and still lying between them, whence the title Herculea (although Allen cites no reference to support this assertion).[5] Eratosthenes claimed it as the arrow with which Apollo exterminated the Cyclopes.[6]
+In ancient Greece, Sagitta was regarded as the weapon that Hercules used to kill the eagle (Aquila) of Jove that perpetually gnawed Prometheus' liver.[4] The Arrow is located beyond the north border of Aquila, the Eagle. According to R.H. Allen, the Arrow could be the one shot by Hercules towards the adjacent Stymphalian birds (6th labor) who had claws, beaks and wings of iron, and who lived on human flesh in the marshes of Arcadia - Aquila the Eagle, Cygnus the Swan, and Lyra (the Vulture) - and still lying between them, whence the title Herculea (although Allen cites no reference to support this assertion).[5] Eratosthenes claimed it as the arrow with which Apollo exterminated the Cyclopes.[6]
 
 
 Characteristics
@@ -18,8 +18,6 @@ Covering 79.9 square degrees and hence 0.194% of the sky, Sagitta ranks 86th of 
 
 
 Notable features
-
-SagittaCC.jpg
 
 Stars
 

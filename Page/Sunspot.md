@@ -1,9 +1,8 @@
 +---------------------------------------------------------------------------------------------------------------------+
-|   ------------------------------------------------------------------------------------------                        |
-|   Solar_eclipse_of_October_23_2014_start_of_partial.jpg Sunspots_1302_Sep_2011_by_NASA.jpg                          |
-|   172197main_NASA_Flare_Gband_lg-withouttext.jpg Sunspot_TRACE.jpeg                                                 |
-|   Solar_Archipelago_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg                                                     |
-|   ------------------------------------------------------------------------------------------                        |
+|   ---                                                                                                               |
+|                                                                                                                     |
+|                                                                                                                     |
+|   ---                                                                                                               |
 +---------------------------------------------------------------------------------------------------------------------+
 | -   Top: sunspot region 2192 during the partial solar eclipse in 2014[1] and sunspot region 1302 in September 2011. |
 | -   Middle: sunspot close-up in the visible spectrum (left) and in UV, taken by the TRACE observatory.              |
@@ -42,7 +41,7 @@ Magnetic pressure should tend to remove field concentrations, causing the sunspo
 
 Solar cycle
 
-Sunspot_butterfly_graph.gif behavior|alt=Point chart showing sunspot area as percent of the total area at various latitudes, above grouped bar chart showing average daily sunspot area as % of visible hemisphere.]]
+behavior|alt=Point chart showing sunspot area as percent of the total area at various latitudes, above grouped bar chart showing average daily sunspot area as % of visible hemisphere.]]
 
 Sunspot activity cycles are about every eleven years, with some variation in length. Over the solar cycle, sunspot populations rise quickly and then fall more slowly. The point of highest sunspot activity during a cycle is known as solar maximum, and the point of lowest activity as solar minimum. This period is also observed in most other solar activity and is linked to a variation in the solar magnetic field that changes polarity with this period.
 
@@ -61,11 +60,11 @@ Sunspots number is correlated with the intensity of solar radiation over the per
 
 Modern observation
 
-Swedish_Solar_Telescope.jpg at Roque de los Muchachos Observatory on La Palma in the Canary Islands.|alt=Photo of six-story building with fenced balcony containing large telescope]]
+at Roque de los Muchachos Observatory on La Palma in the Canary Islands.|alt=Photo of six-story building with fenced balcony containing large telescope]]
 
 Sunspots are observed with land-based and Earth-orbiting solar telescopes. These telescopes use filtration and projection techniques for direct observation, in addition to various types of filtered cameras. Specialized tools such as spectroscopes and spectrohelioscopes are used to examine sunspots and sunspot areas. Artificial eclipses allow viewing of the circumference of the Sun as sunspots rotate through the horizon.
 
-ALMA_observes_a_giant_sunspot_(1.25_millimetres).jpg observes a giant sunspot at 1.25 mm wavelength[20]]]
+observes a giant sunspot at 1.25 mm wavelength[20]]]
 
 Since looking directly at the Sun with the naked eye permanently damages human vision, amateur observation of sunspots is generally conducted using projected images, or directly through protective filters. Small sections of very dark filter glass, such as a #14 welder's glass, are effective. A telescope eyepiece can project the image, without filtration, onto a white screen where it can be viewed indirectly, and even traced, to follow sunspot evolution. Special purpose hydrogen-alpha narrow bandpass filters and aluminum-coated glass attenuation filters (which have the appearance of mirrors due to their extremely high optical density) on the front of a telescope provide safe observation through the eyepiece.
 
@@ -111,7 +110,7 @@ Further reading
 
 External links
 
--   Sunspot Database based on Terrestrial (GPR/DPD) and Satellite (SOHO/SDO) observations from 1872 to Nowadays with the newest data. (Flag_of_Hungary.svg)
+-   Sunspot Database based on Terrestrial (GPR/DPD) and Satellite (SOHO/SDO) observations from 1872 to Nowadays with the newest data. ()
 -   Solar Cycle 24 and VHF Aurora Website (www.solarcycle24.com)
 -   Belgium World Data Center for the sunspot index
 -   High resolution sunspot image

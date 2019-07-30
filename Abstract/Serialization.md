@@ -1,1 +1,0 @@
-In computer science, in the context of data storage, SERIALIZATION (or serialisation) is the process of translating data structures or object state into a format that can be stored (for example, in a file or memory buffer) or transmitted (for example, across a network connection link) and reconstructed later (possibly in a different computer environment).{{ cite web

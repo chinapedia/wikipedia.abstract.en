@@ -1,1 +1,0 @@
-The OSAKA RESORT CITY 200 is a building complex in the Minato-ku ward of Osaka, Japan.[1][2] Completed in March 1993, it consists of four blocks, including the Osaka Bay Tower,[3] the height of which in meters is referenced in the complex's name.[4]

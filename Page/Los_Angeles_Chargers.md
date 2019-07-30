@@ -17,13 +17,11 @@ In 1970, the Chargers were placed into the AFC West division after the completio
 
 Air Coryell era and subsequent collapse
 
-1986_Jeno's_Pizza_-_53_-_Dan_Fouts_and_Don_Macek_(cropped).jpg" 1981 AFC Divisional Playoff game.]]
+" 1981 AFC Divisional Playoff game.]]
 
 San Diego hired head coach Don Coryell in 1978, who would remain coaching the team until 1986. Coryell developed an offensive scheme and philosophy known as Air Coryell, also known as the "Coryell offense" or the "vertical offense". With Dan Fouts as quarterback, the San Diego Chargers' offense was among the greatest and most exciting passing offenses in National Football League history,[27] setting league and individual offensive records. The Chargers led the league in passing yards an NFL record six consecutive years from 1978 to 1983[28] and again in 1985. They also led the league in total yards in offense 1978–83 and 1985. Under the tutelage of Coryell, Dan Fouts, wide receiver Charlie Joiner, and tight end Kellen Winslow blossomed on the field and would all be inducted into the Pro Football Hall of Fame. The Chargers earned four consecutive playoff appearances (1979–82) during the Air Coryell era, including three AFC West division championships (1979–81). However, they came short of making it to the Super Bowl, including two straight losses in the AFC Championship game in 1980 and 1981.
 
 Despite making the playoffs again during the strike-shortened 1982 season, the Chargers missed the playoffs every season from to . In 1984, Klein cut salary in preparation of selling the team, sending defensive linemen Johnson and Kelcher to San Francisco, where they would join Dean and offensive tackle Billy Shields for another 49ers championship in Super Bowl XIX.[29] Alex Spanos purchased a majority interest in San Diego from Klein on August 1. Spanos' family still owns 97% of the team and until his death in 2016, George Pernicano owned the other 3%. Al Saunders was named the seventh head coach in Chargers history in 1986 following the resignation of Coryell during the middle of that season.[30] In , Fouts retired after a 15-year career in which he set seven NFL records and 42 club records, and became the NFL's second most prolific passer of all-time with 43,040 yards. Fouts' jersey number (14) was retired at halftime of "Dan Fouts Day" game in San Diego.[31]
-
-Jack_Murphy_Stadium_1987.jpeg
 
 1989–1994: Super Bowl bound
 
@@ -41,7 +39,7 @@ The Chargers' follow-up year in 1995 did not bring the same success of the previ
 
 In 1996, running back Rodney Culver and his wife, Karen, were killed in the crash of ValuJet Flight 592 in the Florida Everglades. Culver was the second player in team history to die while on the active roster after David Griggs was killed in a one-car accident in Davie, Florida, 11 months earlier.[43] In 1997, Ross and Beathard were at odds with one another, resulting in Ross and his staff being released.[44] The Chargers selected Kevin Gilbride to become their new head coach.[45] Gilbride, whose coaching background with the Jacksonville Jaguars and Oilers featured a more open passing attack, would mark a major change in offensive style from the ball control ground game of Ross.[46] However, the Chargers struggled in pass protection that year, resulting in Humphries suffering several concussions and his retirement from the game.[47] To replace Humphries, Beathard drafted quarterback Ryan Leaf after the Indianapolis Colts selected Peyton Manning with the first pick in the 1998 NFL Draft. The Chargers traded several players and draft choices to the Arizona Cardinals in order to move up to the second pick and select Leaf. In 1998, the Chargers went 5–11. Said safety Rodney Harrison, "If I had to go through another year like that, I'd probably quit playing."[48]
 
-Tomlinson_warming_up_1.jpg LaDainian Tomlinson in the 2001 NFL Draft. He became their all-time rushing leader.]]
+LaDainian Tomlinson in the 2001 NFL Draft. He became their all-time rushing leader.]]
 
 Gilbride was replaced by interim head coach June Jones, who was on the Chargers' staff before the hire.[49] Jones left the team at the end of the season to coach at the University of Hawaii and the Chargers named former Oregon State University head coach Mike Riley as their new head coach.[50] Leaf wound up having a disappointing career with the Chargers due to poor play and frequent conflict with both Chargers management as well as the press and his teammates, causing his release after the 2000 season. He has been arguably the biggest draft bust in NFL history, and his failure to be the player the team envisioned was seen as a black mark on the franchise.[51] Quarterback Jim Harbaugh, who was acquired in a trade with the Baltimore Ravens for a conditional draft choice in 2000, became the Chargers starting quarterback. Beathard retired in April 2000 and was replaced in January 2001 by John Butler, former general manager of the Bills.[52] From to , the Chargers had eight straight seasons where they were .500 or worse.[53]
 
@@ -69,7 +67,7 @@ The Chargers were 8–5, coming off a 23–21 loss to the Miami Dolphins. On Dec
 
 2006–2009
 
-Philip_Rivers_2014.JPG.]] The Chargers delivered an impressive performance in 2006, losing only to the Ravens and Chiefs; they finished 14–2 which secured them the #1 AFC seed in the playoffs. However, they lost 24-21 to the New England Patriots in the divisional round. Following the 2006 season, they replaced Schottenheimer with new head coach Norv Turner. In 2007, they went 11-5, beating the Tennessee Titans and the defending champion Indianapolis Colts to reach the AFC title game. However, they fell to the Patriots for the second year in a row. In 2008, the Chargers dropped to 8–8, but as the AFC West was unusually weak that year, they still managed to win the division title. Defeating the Colts in the wild card round, they lost to the Pittsburgh Steelers in the divisional round.
+.]] The Chargers delivered an impressive performance in 2006, losing only to the Ravens and Chiefs; they finished 14–2 which secured them the #1 AFC seed in the playoffs. However, they lost 24-21 to the New England Patriots in the divisional round. Following the 2006 season, they replaced Schottenheimer with new head coach Norv Turner. In 2007, they went 11-5, beating the Tennessee Titans and the defending champion Indianapolis Colts to reach the AFC title game. However, they fell to the Patriots for the second year in a row. In 2008, the Chargers dropped to 8–8, but as the AFC West was unusually weak that year, they still managed to win the division title. Defeating the Colts in the wild card round, they lost to the Pittsburgh Steelers in the divisional round.
 
 San Diego began the 2009 season 2–3. After losing to the Broncos on Monday night, they began an unbroken winning streak for the rest of the season, which included defeating the entire NFC East. In Week 11, they avenged their earlier loss against the Broncos by inflicting a 32–3 rout on them. The next game saw them beat a 1–11 Cleveland Browns squad 30-23, in which LaDainian Tomlinson broke Hall of Famer Jim Brown's rushing record and was congratulated by him afterwards. The Chargers secured another division title, the #2 AFC seed, and looked to be a near shoo-in for the Super Bowl. However, the team's postseason futility continued. Hosting the New York Jets on January 17, 2010, they endured an upset defeat, where, despite an early lead, were unable to overcome the strong Jets' defense. Kicker Nate Kaeding also missed three field goal and PAT attempts, which resulted in the Chargers losing 17–14.
 
@@ -118,8 +116,6 @@ However, In December 2018, a _Los Angeles Times_ columnist asked if the Chargers
 
 Logos and uniforms
 
-LA_Chargers_Shield_logo.png Los_Angeles_Chargers_1960_wordmark.gif
-
 Except for color changes, the Chargers have basically used the logo of an arc-shaped lightning bolt since the team debuted in 1960. During its period in the AFL, the club also used a shield logo that featured a horsehead, a lightning bolt, and the word "Chargers". The team brought the logo back for on-field design in the 2018 season.
 
 From 1960 to 1973, the colors consisted of various shades of Electric blue ("powder" blue, but technically called Collegiate blue) or white jerseys, both with gold lightning bolts on the shoulders. The helmets were white and had both the arc-shaped lightning bolt logo, in gold or navy depending on the year, and the player's number. At first, the team wore white pants before switching to gold in 1966. In 1973, the numerals on the blue jerseys changed from white to gold.
@@ -138,7 +134,7 @@ Since 2007, the Chargers have worn the alternate powder blue jerseys twice per s
 
 In 2009, in honor of their 50th anniversary as one of the eight original AFL teams, the Chargers wore their 1963 throwback uniforms for three games.
 
-Abandoned_LA_Chargers_Logo.gif For the 2013 season, the Chargers made minor tweaks to their current uniforms. These include a two-tone nameplate (gold with powder blue trim on home jersey, navy with gold trim on away jersey, and white with navy trim on alternate jersey), collars matching the color of the jersey, and the addition of a gold stripe on the socks.[97]
+For the 2013 season, the Chargers made minor tweaks to their current uniforms. These include a two-tone nameplate (gold with powder blue trim on home jersey, navy with gold trim on away jersey, and white with navy trim on alternate jersey), collars matching the color of the jersey, and the addition of a gold stripe on the socks.[97]
 
 On January 12, 2017, with the announcement that the Chargers were moving to Los Angeles, the team unveiled a new alternate logo incorporating the letters "LA" with a lightning bolt.[98] The logo was immediately and widely ridiculed by fans, the media, and even other professional sports franchises, in part for its resemblance to the Los Angeles Dodgers logo.[99][100][101][102][103][104] The team tried to diffuse the controversy by changing the color scheme of the new logo before scrapping it altogether after two days.[105]
 
@@ -216,7 +212,7 @@ With the Chargers' move to Los Angeles in 2017, the team became a beneficiary of
 
 Radio affiliates
 
-_San_Diego_Chargers_radio_affiliates.png Chargers Radio Network Chargers Finalize 2017 Broadcast Team and Station Affiliates
+Chargers Radio Network Chargers Finalize 2017 Broadcast Team and Station Affiliates
 
 English stations
 

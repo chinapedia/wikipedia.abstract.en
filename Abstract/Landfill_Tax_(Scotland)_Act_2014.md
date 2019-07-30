@@ -1,1 +1,0 @@
-The LANDFILL TAX (SCOTLAND) ACT 2014 is an Act of the Scottish Parliament, introduced to the legislature in 2013 and receiving Royal Assent on 21 January 2014, which creates a new Scottish Landfill Tax. The tax applies mainly to waste management companies and local authorities disposing of waste at landfill.

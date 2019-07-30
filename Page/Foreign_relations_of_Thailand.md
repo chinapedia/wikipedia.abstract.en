@@ -12,8 +12,6 @@ Parts of the border with Laos are undefined. A maritime boundary dispute with Vi
 
 Asia
 
-Asean_flag_flying_at_Royal_Thai_Embassy_Helsinki.jpg
-
 Relations are considered close and cordial and have made strides to improve trade and investment between the two countries. Diplomatic relations were established on 5 October 1972 and Thailand opened its embassy in 1974 followed by Bangladesh setting up their own in Bangkok in the following year. The first visit between the two countries was President Ziaur Rahman's visit to Thailand in 1979 followed by Prime Minister Prem Tinsulanonda in 1983. Other Heads of States like Ershad visited in 1985, 1988 and 1990 and Thaksin Shinawatra in July and December 2002 and January 2004. Thailand is a key country in Bangladesh's "Look East" policy and relations have begun to increase and diversify into different areas.
 
 They seek not to intervene in each other's internal matters as shown by their response to the events occurring in their own respective countries in 2006 such as the 2006 Thai coup d'état and 2006–2008 Bangladeshi political crisis. Both have considerable cooperation in summits organised by BIMSTEC and the ASEAN regional forum. Upper class and upper middle class Bangladeshis often go to Thailand for medical treatment and operations that the country's medical infrastructure cannot provide.
@@ -36,7 +34,7 @@ Indonesia and Thailand are viewed as natural allies.[20] The nations established
 
 Israel and Thailand have had official relations since June 1954. The Israeli embassy in Bangkok was established in 1958.[24] Since 1996, Thailand has had an embassy in Tel Aviv.[25] After the floods in 2011, Israel sent water management experts to Thailand. Princess Chulabhorn Mahidal is involved in advancing scientific cooperation between the two countries. The Thai ambassador to Israel is Jukr Boon-Long.[26]
 
-Abhisit_Vejjajiva_and_Yukio_Hatoyama_20091108.jpg Yukio Hatoyama, 8 November 2009, Tokyo]]
+Yukio Hatoyama, 8 November 2009, Tokyo]]
 
 Japan has become a key trading partner and foreign investor for Thailand. Japan is Thailand's largest supplier, followed by the United States. Since 2005, the rapid ramp-up in export of automobiles of Japanese makes (esp. Toyota, Nissan, Isuzu) has helped to dramatically improve the trade balance, with over 1 million cars produced last year. As such, Thailand has joined the ranks of the world's top ten automobile exporting nations. In 2007, a Japan–Thailand Economic Partnership Agreement was signed, aiming at free trade between the two countries after a transition period of 10 years.
 
@@ -50,7 +48,7 @@ Thailand officially recognised Palestine as an independent state on 18 January 2
 
 Thai-Philippines relations continue to be friendly. Relations with Thailand were established 14 June 1949. Thailand is one of the Philippines major trading partners and one of the Philippines' rice suppliers. Relations continues to be strengthened through talks and agreements on economic, security, and cultural matters including concerns on rice trading, and combatting drugs and human trafficking.
 
-Vladimir_Putin_at_APEC_Summit_in_Thailand_19-21_October_2003-8.jpg The Soviet Union and Thailand established diplomatic relations with each other on 12 March 1941; Thailand recognised Russian Federation as the successor to Soviet Union on 28 December 1991. Russia has an embassy in Bangkok and two honorary consulates in Phuket and Pattaya. Thailand has an embassy in Moscow and two honorary consulates in Saint Petersburg and Vladivostok.
+The Soviet Union and Thailand established diplomatic relations with each other on 12 March 1941; Thailand recognised Russian Federation as the successor to Soviet Union on 28 December 1991. Russia has an embassy in Bangkok and two honorary consulates in Phuket and Pattaya. Thailand has an embassy in Moscow and two honorary consulates in Saint Petersburg and Vladivostok.
 
 Relations Saudi Arabia and Thailand were established in 1957 and hundreds of thousands of Thais went to Saudi Arabia to work.[30] However, relations have been severely strained for the past 20 years due to fallout from the Blue Diamond Affair. Diplomatic missions were downgraded to chargé d'affaires level and the number of Thai workers in Saudi Arabia plummeted.[31] Saudi Arabia does not issue working visas for Thais and discourages its citizens from visiting the country.
 
@@ -128,7 +126,7 @@ Europe
 |         |                        |                                                                                                                                     |
 |         |                        | France-Thailand relations cover a period from the 16th century until modern times.                                                  |
 +---------+------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
-|         | 1862-02-17             | Flaggen_3451_08.JPG for the visit of prime minister Yingluck Shinawatra in Munich 2012]]                                            |
+|         | 1862-02-17             | for the visit of prime minister Yingluck Shinawatra in Munich 2012]]                                                                |
 |         |                        |                                                                                                                                     |
 |         |                        | -   Diplomatic relations between the Kingdom of Siam and Prussia were established on 17 February 1862.[57][58]                      |
 |         |                        | -   The Siamese government declared war on Germany in August 1917.                                                                  |
@@ -157,9 +155,7 @@ Europe
 |         |                        | -   Romania has an embassy in Bangkok and an honorary consulate in Pattaya.[67]                                                     |
 |         |                        | -   Thailand has an embassy in Bucharest.[68]                                                                                       |
 +---------+------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
-|         | 1883                   | Flags_of_Sweden_and_Thailand.jpg                                                                                                    |
-|         |                        |                                                                                                                                     |
-|         |                        | -   In 1868 an agreement on eternal friendship between Sweden and Thailand was signed.[69]                                          |
+|         | 1883                   | -   In 1868 an agreement on eternal friendship between Sweden and Thailand was signed.[69]                                          |
 |         |                        | -   In 1883 formalised diplomatic relations were established.[70]                                                                   |
 |         |                        | -   Thailand has an embassy in Stockholm.[71]                                                                                       |
 |         |                        | -   Sweden has an embassy in Bangkok and honorary consulates in Phuket, Pattaya, Chiang Mai and Hua Hin.[72]                        |
@@ -192,7 +188,7 @@ Thai diplomatic missions
 
 Royal Thai embassies and consulates
 
-Royal_Thai_Consulate_in_Penang,_George_Town.jpg, Penang, Malaysia]]
+, Penang, Malaysia]]
 
 +------------------+------------------------------------------------------+---------------------+-----------+
 | Country          | Official name                                        | City                | Type      |

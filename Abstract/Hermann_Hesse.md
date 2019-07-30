@@ -1,1 +1,0 @@
-HERMANN KARL HESSE (; 2 July 1877 – 9 August 1962) was a German-born poet, novelist, and painter. His best-known works include _Demian_, _Steppenwolf_, _Siddhartha_, and _The Glass Bead Game_, each of which explores an individual's search for authenticity, self-knowledge and spirituality. In 1946, he received the Nobel Prize in Literature.

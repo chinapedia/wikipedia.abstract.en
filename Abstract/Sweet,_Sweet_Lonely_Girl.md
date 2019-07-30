@@ -1,1 +1,0 @@
-_SWEET, SWEET LONELY GIRL_ is a 2016 American horror film written and directed by A.D. Calvo and starring Erin Wilhelmi, Quinn Shephard, and Susan Kellermann. The film had its world premiere on September 22, 2016 at Fantastic Fest.[1] Filming for _Sweet, Sweet Lonely Girl_ took place in Vernon, Connecticut during late 2015.[2]

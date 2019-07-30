@@ -1,1 +1,0 @@
-'''Norsuriani Mazli ''' (born 27 April 1990)[1] is a Malaysian women's international footballer who plays as a midfielder. She is a member of the Malaysia women's national football team.[2] She played at the 2016 AFF Women's Championship.[3]

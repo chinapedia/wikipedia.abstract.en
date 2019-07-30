@@ -1,1 +1,0 @@
-The CHURCH OF ST CATHERINE is a Church of England parish church at Hoarwithy in the English county of Herefordshire. Brooks and Pevsner describe it as "the most impressive Victorian church in the county. Designed in an Italian Romanesque style by the architect John Pollard Seddon for the Revd William Poole, vicar of Hentland with Hoarwithy, it is a Grade I listed building.[1]

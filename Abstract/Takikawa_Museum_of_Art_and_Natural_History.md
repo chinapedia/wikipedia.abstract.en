@@ -1,1 +1,0 @@
-opened in Takikawa, Hokkaidō, Japan in 1986. The collection includes works by , , and as well as the fossil type specimen of the Takikawa sea cow, discovered in the bed of the in 1980 and designated a Prefectural Natural Monument.[1][2][3]

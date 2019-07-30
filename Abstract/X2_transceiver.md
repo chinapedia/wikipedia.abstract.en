@@ -1,1 +1,0 @@
-The X2 TRANSCEIVER format is a 10 gigabit per second modular fiber optic interface intended for use in routers,[1] switches and optical transport platforms. It is an early generation 10 gigabit interface related to the similar XENPAK and XPAK formats.[2] X2 may be used with 10 gigabit ethernet or OC-192/STM-64 speed SDH/SONET equipment.

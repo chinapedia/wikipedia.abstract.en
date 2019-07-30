@@ -1,1 +1,0 @@
-QUERCUS CABO VERDE is a Capeverdean branch of the Portuguese environmental organization Quercus. It is headquartered in the capital city of Praia. Its logo features the grey headed eagle. The first and current head is Paulo Ferreira.

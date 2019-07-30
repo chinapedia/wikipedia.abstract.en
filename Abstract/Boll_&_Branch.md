@@ -1,1 +1,0 @@
-BOLL & BRANCH is a privately held, U.S. based, e-commerce company that sells luxury bedding online.[1] Headquartered in Summit, New Jersey, the company manufactures and sells organic cotton bed linens, blankets and bath towels and are the first maker of such goods to be certified by Fair Trade USA.[2][3]

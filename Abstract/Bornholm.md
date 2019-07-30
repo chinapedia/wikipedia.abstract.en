@@ -1,1 +1,0 @@
-Hovedstaden_in_Denmark.svg

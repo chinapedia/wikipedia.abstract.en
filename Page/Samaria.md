@@ -1,6 +1,6 @@
-Samaria,_George_Adam_Smith.jpg]] גבעות_יצהר.JPG
+]]
 
-Dothan,_where_Joseph_was_sold_by_his_brethren_American_Colony,_Jerusalem.jpg, Joseph was sold by his brethren]]
+, Joseph was sold by his brethren]]
 
 SAMARIA (;[1] , Standard __, Tiberian _Šōmərôn_; , __ – also known as __, "Nablus Mountains") is a historical and biblical name used for the central region of the ancient Land of Israel, also was known as Palestine, bordered by Galilee to the north and Judaea to the south.[2][3] For the beginning of the Common Era, Josephus set the Mediterranean Sea as its limit to the west, and the Jordan River as its limit to the east.[4] Its territory largely corresponds to the biblical allotments of the tribe of Ephraim and the western half of Manasseh; after the death of Solomon and the splitting-up of his empire into the southern Kingdom of Judah and the northern Kingdom of Israel, this territory constituted the southern part of the Kingdom of Israel.[5] The border between Samaria and Judea is set at the latitude of Ramallah.[6]
 
@@ -13,7 +13,7 @@ Jordan ceded its claim to the area to the Palestine Liberation Organization (PLO
 
 Etymology
 
-Samaria_from_the_Minaret_of_Mosque_(4879149239).jpg According to the Hebrew Bible, the Hebrew name "Shomron" is derived from the individual [or clan] _Shemer_, from whom King Omri (ruled 880s–870s BCE) purchased the hill on which he built his new capital city ().[14]
+According to the Hebrew Bible, the Hebrew name "Shomron" is derived from the individual [or clan] _Shemer_, from whom King Omri (ruled 880s–870s BCE) purchased the hill on which he built his new capital city ().[14]
 
 The fact that the mountain was called Shomeron when Omri bought it may indicate that the correct etymology of the name is to be found more directly, in the Semitic root for "guard", hence its initial meaning would have been "watch mountain". In the earlier cuneiform inscriptions, Samaria is designated under the name of "Bet Ḥumri" ("the house of Omri"); but in those of Tiglath-Pileser III (ruled 745–727 BCE) and later it is called Samirin, after its Aramaic name,[15] Shamerayin.[16]
 
@@ -49,7 +49,7 @@ History
 
 Ancient
 
-Shomron_map.pngs administered by the Shomron Regional Council in the West Bank]] According to the Hebrew Bible, the Israelites captured the region known as Samaria from the Canaanites and assigned it to the Tribe of Joseph. After the death of King Solomon (c. 931 BC), the northern tribes, including those of Samaria, separated from the southern tribes and established the separate Kingdom of Israel. Initially its capital was Tirzah until the time of King Omri (c.884 BC), who built the city of Shomron and made it his capital.
+s administered by the Shomron Regional Council in the West Bank]] According to the Hebrew Bible, the Israelites captured the region known as Samaria from the Canaanites and assigned it to the Tribe of Joseph. After the death of King Solomon (c. 931 BC), the northern tribes, including those of Samaria, separated from the southern tribes and established the separate Kingdom of Israel. Initially its capital was Tirzah until the time of King Omri (c.884 BC), who built the city of Shomron and made it his capital.
 
 In 726–722 BC, the new king of Assyria, Shalmaneser V, invaded Canaan and besieged the city of Samaria. After an assault of three years, the city fell and much of its population was taken into captivity and deported.[24] Little documentation exists for the period between the fall of Samaria and the end of the Assyrian Empire.[25]
 
@@ -82,7 +82,7 @@ Archaeology
 
 Ancient city of Samaria/Sebaste
 
-Ruins_of_Samaria.jpg The ancient site of Samaria-Sebaste covers the hillside overlooking the Palestinian village of Sebastia on the eastern slope of the hill.[38] Remains have been found from the Canaanite, Israelite, Hellenistic, Herodian, Roman and Byzantine era.[39]
+The ancient site of Samaria-Sebaste covers the hillside overlooking the Palestinian village of Sebastia on the eastern slope of the hill.[38] Remains have been found from the Canaanite, Israelite, Hellenistic, Herodian, Roman and Byzantine era.[39]
 
 Archaeological finds from Roman-era Sebaste, a site that was rebuilt and renamed by Herod the Great in 30 BC, include a colonnaded street, a temple-lined acropolis, and a lower city, where John the Baptist is believed to have been buried.[40]
 

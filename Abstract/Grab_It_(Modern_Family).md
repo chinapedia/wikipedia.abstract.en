@@ -1,1 +1,0 @@
-"GRAB IT" is the sixth episode of the eighth season of the American sitcom _Modern Family_. It aired on November 9 , 2016 on American Broadcasting Company (ABC). The episode is directed by Beth McCarthy Miller and written by Jeffrey Richman.

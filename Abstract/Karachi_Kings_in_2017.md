@@ -1,1 +1,0 @@
-The Karachi Kings is a franchise cricket team that represents Karachi in the Pakistan Super League. They are one of the five teams that had a competition in the 2017 Pakistan Super League. The team was captained by Kumar Sangakkara, and they stand on third position after winning four matches from their eight matches in the PSL 2017.[1]

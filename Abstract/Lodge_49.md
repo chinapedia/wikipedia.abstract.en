@@ -1,1 +1,0 @@
-_LODGE 49_ is an American comedy-drama television series created by Jim Gavin.[1] AMC set a straight-to-series order of 10 episodes on October 5, 2016.[2] The first season premiered on August 6, 2018.[3] The title alludes to the novella _The Crying of Lot 49_ by Thomas Pynchon, which Gavin references as an inspiration.[4][5]

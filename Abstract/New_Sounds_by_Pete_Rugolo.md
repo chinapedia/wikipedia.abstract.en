@@ -1,1 +1,0 @@
-_NEW SOUNDS BY PETE RUGOLO_ is an album by composer, arranger and conductor Pete Rugolo, featuring unreleased performances recorded in 1954 and 1955 for Columbia Records and released on the budget Harmony label in 1957.[1][2][3][4]

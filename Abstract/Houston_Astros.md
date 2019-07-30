@@ -1,1 +1,0 @@
-The HOUSTON ASTROS are an American professional baseball team based in Houston, Texas. The Astros compete in Major League Baseball (MLB) as a member club of the American League (AL) West division, having moved to the division in 2013 after spending their first 51 seasons in the National League (NL).[1][2] The Astros have played their home games at Minute Maid Park since 2000.[3]

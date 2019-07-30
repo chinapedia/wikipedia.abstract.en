@@ -2,7 +2,7 @@ SECAM, also written SÉCAM (, '' SÉquentiel Couleur À Mémoire'',[1] French fo
 
 Development of SECAM began in 1956 by a team led by Henri de France working at _Compagnie Française de Télévision_ (later bought by Thomson, now Technicolor). The first SECAM broadcast was made in France in 1967. The system was also selected as the standard for color in the Soviet Union, who began broadcasts shortly after the French. The standard spread from these two countries to many client states and former colonies.
 
-SECAM remained a major standard into the 2000s. It is in the process of being phased out and replaced by DVB, the new pan-European standard for digital television. PAL-NTSC-SECAM.svg
+SECAM remained a major standard into the 2000s. It is in the process of being phased out and replaced by DVB, the new pan-European standard for digital television.
 
 
 History
@@ -46,7 +46,7 @@ These signals are much more important to compatibility than the color sub carrie
 
 Technical details
 
-Pal_channel.svg color subcarrier]]
+color subcarrier]]
 
 Just as with the other color standards adopted for broadcast usage over the world, SECAM is a standard which permits existing monochrome television receivers predating its introduction to continue to be operated as monochrome televisions. Because of this compatibility requirement, color standards added a second signal to the basic monochrome signal, which carries the color information. The color information is called chrominance or C for short, while the black-and-white information is called the luminance or Y for short. Monochrome television receivers only display the luminance, while color receivers process both signals.
 

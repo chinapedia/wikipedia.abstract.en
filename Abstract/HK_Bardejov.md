@@ -1,1 +1,0 @@
-HK BARDEJOV is an ice hockey team playing in the Slovak 2.Liga, and formed in 2016, after HC 46 Bardejov announced the dissolvation of their club.[1] They play in the city of Bardejov, Slovakia at Zimný štadión Bardejov.

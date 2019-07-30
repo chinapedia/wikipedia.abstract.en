@@ -1,1 +1,0 @@
-KELLY CHRISTINA PEREIRA DA SILVA commonly known as KELLY (born 8 May 1985) is a Brazilian women's international footballer who plays as a forward. She is a member of the Brazil women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

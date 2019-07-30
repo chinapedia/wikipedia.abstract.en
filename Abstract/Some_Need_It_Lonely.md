@@ -1,1 +1,0 @@
-_SOME NEED IT LONELY_ is the thirty-eighth studio album by Omar Rodríguez-López as a solo artist, released on 16 December 2016. It is his twelfth and last release in the 12 album series initiated by Ipecac Recordings, although before its release the label confirmed an additional 12 records forthcoming set to continue the fortnightly release schedule.[1]

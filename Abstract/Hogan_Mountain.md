@@ -1,1 +1,0 @@
-HOGAN MOUNTAIN is a summit in Iron County in the U.S. state of Missouri.[1] Hogan Mountain lies just north of Carver Creek and Missouri Route AA on the south and west. Big Creek and Missouri Route 72 lie to the east with the community of Hogan to the southeast.[2]

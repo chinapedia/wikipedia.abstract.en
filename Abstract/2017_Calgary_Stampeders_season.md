@@ -1,1 +1,0 @@
-The 2017 CALGARY STAMPEDERS SEASON was the 60th season for the team in the Canadian Football League and their 83rd overall. This season is also Dave Dickenson's second season as head coach and John Hufnagel's tenth season as general manager.

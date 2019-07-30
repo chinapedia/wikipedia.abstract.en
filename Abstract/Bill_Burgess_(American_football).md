@@ -1,1 +1,0 @@
-BILL BURGESS (born January 26, 1941) is a former American football player and coach. He served as the head football coach at Jacksonville State University in Jacksonville, Alabama for 12 seasons, from 1985 until 1996, compiling a record of 84–49–4. In 1992, he led his team to a national title, winning the NCAA Division II Football Championship.[1]

@@ -1,4 +1,4 @@
-TV-line-count-world.svg or 576i as the standard-definition picture format.]]
+or 576i as the standard-definition picture format.]]
 
 STANDARD-DEFINITION TELEVISION (SDTV or SD) is a television system which uses a resolution that is not considered to be either high or enhanced definition. SDTV and high-definition television (HDTV) are the two categories of display formats for digital television (DTV) transmissions.
 

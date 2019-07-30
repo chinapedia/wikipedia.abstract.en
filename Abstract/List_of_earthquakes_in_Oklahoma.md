@@ -1,1 +1,0 @@
-2017_Oklahoma_seismic_hazard_map.png Oklahoma_seismic_hazard_map.jpg

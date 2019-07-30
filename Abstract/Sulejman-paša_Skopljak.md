@@ -1,1 +1,0 @@
-SULEIMAN PASHA OF USKOPLJE (, ; 1804–1816) was an Ottoman military commander and governor active in Rumelia (the Balkans), who distinguished himself fighting Serb rebels in the 1800s and 1810s. He served as the first Vizier of Belgrade (the Sanjak of Smederevo) after crushing the First Serbian Uprising (1804–1813).

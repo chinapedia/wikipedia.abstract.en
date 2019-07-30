@@ -1,8 +1,6 @@
-Kaufmann-1568.png
+in Guadalajara, Jalisco.]]
 
-MercadodeSanJuandeDios.jpg in Guadalajara, Jalisco.]]
-
-Earle,_Liberty_to_Trade_as_Buttressed_by_National_Law,_1909_Title.jpg'' (1909) by George Howard Earle, Jr.]]
+'' (1909) by George Howard Earle, Jr.]]
 
 TRADE involves the transfer of goods or services from one person or entity to another, often in exchange for money. A system or network that allows trade is called a market.
 
@@ -30,11 +28,11 @@ In the Mediterranean region the earliest contact between cultures were of member
 
 Some trace the origins of commerce to the very start of transaction in prehistoric times. Apart from traditional self-sufficiency, trading became a principal facility of prehistoric people, who bartered what they had for goods and services from each other.
 
-Caduceus.svg has been used today as the symbol of commerce[11] with which Mercury has traditionally been associated.]]
+has been used today as the symbol of commerce[11] with which Mercury has traditionally been associated.]]
 
 Ancient history
 
-Attic_red-figure_Pottery_in_the_Eremitage_Sankt_Petersburg.jpg "aryballoi" terracota vessels unearthed in the 1860s at Bolzhaya Bliznitsa tumulus near Phanagoria, South Russia (then part of the Bosporan Kingdom of Cimmerian Bosporus); on exhibit at the Hermitage Museum in Saint Petersburg.]] Trade is believed to have taken place throughout much of recorded human history. There is evidence of the exchange of obsidian and flint during the stone age. Trade in obsidian is believed to have taken place in Guinea from 17,000 BCE.[12][13]
+"aryballoi" terracota vessels unearthed in the 1860s at Bolzhaya Bliznitsa tumulus near Phanagoria, South Russia (then part of the Bosporan Kingdom of Cimmerian Bosporus); on exhibit at the Hermitage Museum in Saint Petersburg.]] Trade is believed to have taken place throughout much of recorded human history. There is evidence of the exchange of obsidian and flint during the stone age. Trade in obsidian is believed to have taken place in Guinea from 17,000 BCE.[12][13]
 
 Trade in the stone age was investigated by Robert Carr Bosanquet in excavations of 1901.[14][15] Trade is believed to have first begun in south west Asia.[16][17]
 
@@ -54,7 +52,7 @@ Mediterranean and Near East
 
 Ebla was a prominent trading centre during the third millennia, with a network reaching into Anatolia and north Mesopotamia.[34][35][36][37]
 
-Silk_route_copy.jpg trade route between Europe and Asia.]]
+trade route between Europe and Asia.]]
 
 Materials used for creating jewelry were traded with Egypt since 3000 BCE. Long-range trade routes first appeared in the 3rd millennium BCE, when Sumerians in Mesopotamia traded with the Harappan civilization of the Indus Valley. The Phoenicians were noted sea traders, traveling across the Mediterranean Sea, and as far north as Britain for sources of tin to manufacture bronze. For this purpose they established trade colonies the Greeks called emporia.[38]
 
@@ -66,11 +64,11 @@ The fall of the Roman empire, and the succeeding Dark Ages brought instability t
 
 Indo-Pacific
 
-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png proto-historic and historic maritime trade network in the Indian Ocean[48]]] The first true maritime trade network in the Indian Ocean was by the Austronesian peoples of Island Southeast Asia,[49] who built the first ocean-going ships.[50] They established trade routes with Southern India and Sri Lanka as early as 1500 BC, ushering an exchange of material culture (like catamarans, outrigger boats, sewn-plank boats, and paan) and cultigens (like coconuts, sandalwood, bananas, and sugarcane); as well as connecting the material cultures of India and China. Indonesians, in particular were trading in spices (mainly cinnamon and cassia) with East Africa using catamaran and outrigger boats and sailing with the help of the Westerlies in the Indian Ocean. This trade network expanded to reach as far as Africa and the Arabian Peninsula, resulting in the Austronesian colonization of Madagascar by the first half of the first millennium AD. It continued up to historic times, later becoming the Maritime Silk Road.[51][52][53][54][55]
+proto-historic and historic maritime trade network in the Indian Ocean[48]]] The first true maritime trade network in the Indian Ocean was by the Austronesian peoples of Island Southeast Asia,[49] who built the first ocean-going ships.[50] They established trade routes with Southern India and Sri Lanka as early as 1500 BC, ushering an exchange of material culture (like catamarans, outrigger boats, sewn-plank boats, and paan) and cultigens (like coconuts, sandalwood, bananas, and sugarcane); as well as connecting the material cultures of India and China. Indonesians, in particular were trading in spices (mainly cinnamon and cassia) with East Africa using catamaran and outrigger boats and sailing with the help of the Westerlies in the Indian Ocean. This trade network expanded to reach as far as Africa and the Arabian Peninsula, resulting in the Austronesian colonization of Madagascar by the first half of the first millennium AD. It continued up to historic times, later becoming the Maritime Silk Road.[51][52][53][54][55]
 
 Mesoamerica
 
-Dinero_azada_de_Mexico_(siglos_XIV-XV).jpg used as currency in Mesoamerica. It had a fixed worth of 8,000 cacao seeds, which were also used as currency.[56]]]
+used as currency in Mesoamerica. It had a fixed worth of 8,000 cacao seeds, which were also used as currency.[56]]]
 
 The emergence of exchange networks in the Pre-Columbian societies of and near to Mexico are known to have occurred within recent years before and after 1500 BCE.[57]
 
@@ -80,7 +78,7 @@ Middle Ages
 
 During the Middle Ages, commerce developed in Europe by trading luxury goods at trade fairs. Wealth became converted into movable wealth or capital. Banking systems developed where money on account was transferred across national boundaries. Hand to hand markets became a feature of town life, and were regulated by town authorities.
 
-Western Europe established a complex and expansive trade network with cargo ships being the main workhorse for the movement of goods, Cogs and Hulks are two examples of such cargo ships.[58] Many ports would develop their own extensive trade networks. The English port city of Bristol traded with peoples from what is modern day Iceland, all along the western coast of France, and down to what is now Spain.[59]Late_Medieval_Trade_Routes.jpgs for goods within late medieval Europe.]]
+Western Europe established a complex and expansive trade network with cargo ships being the main workhorse for the movement of goods, Cogs and Hulks are two examples of such cargo ships.[58] Many ports would develop their own extensive trade networks. The English port city of Bristol traded with peoples from what is modern day Iceland, all along the western coast of France, and down to what is now Spain.[59]s for goods within late medieval Europe.]]
 
 During the Middle Ages, Central Asia was the economic center of the world.[60] The Sogdians dominated the East-West trade route known as the Silk Road after the 4th century CE up to the 8th century CE, with Suyab and Talas ranking among their main centers in the north. They were the main caravan merchants of Central Asia.
 
@@ -96,9 +94,9 @@ In the 16th and 17th centuries, the Portuguese gained economic advantage in the 
 
 In the 16th century, the Seventeen Provinces were the centre of free trade, imposing no exchange controls, and advocating the free movement of goods. Trade in the East Indies was dominated by Portugal in the 16th century, the Dutch Republic in the 17th century, and the British in the 18th century. The Spanish Empire developed regular trade links across both the Atlantic and the Pacific Oceans.
 
-Wojciech_Gerson_-_Gdańsk_in_the_XVII_century.jpg in the 17th century, a port of the Hanseatic League.]] In 1776, Adam Smith published the paper _An Inquiry into the Nature and Causes of the Wealth of Nations_. It criticised Mercantilism, and argued that economic specialisation could benefit nations just as much as firms. Since the division of labour was restricted by the size of the market, he said that countries having access to larger markets would be able to divide labour more efficiently and thereby become more productive. Smith said that he considered all rationalisations of import and export controls "dupery", which hurt the trading nation as a whole for the benefit of specific industries.
+in the 17th century, a port of the Hanseatic League.]] In 1776, Adam Smith published the paper _An Inquiry into the Nature and Causes of the Wealth of Nations_. It criticised Mercantilism, and argued that economic specialisation could benefit nations just as much as firms. Since the division of labour was restricted by the size of the market, he said that countries having access to larger markets would be able to divide labour more efficiently and thereby become more productive. Smith said that he considered all rationalisations of import and export controls "dupery", which hurt the trading nation as a whole for the benefit of specific industries.
 
-In 1799, the Dutch East India Company, formerly the world's largest company, became bankrupt, partly due to the rise of competitive free trade. Berber_Trade_with_Timbuktu_1300s.jpg trade with Timbuktu, 1853.]]
+In 1799, the Dutch East India Company, formerly the world's largest company, became bankrupt, partly due to the rise of competitive free trade. trade with Timbuktu, 1853.]]
 
 19th century
 
@@ -131,7 +129,7 @@ Free trade advanced further in the late 20th century and early 2000s:
 -   1994 The GATT Marrakech Agreement specified formation of the WTO.
 -   January 1, 1995 World Trade Organization was created to facilitate free trade, by mandating mutual most favoured nation trading status between all signatories.
 -   EC was transformed into the European Union, which accomplished the Economic and Monnetary Union (EMU) in 2002, through introducing the Euro, and creating this way a real single market between 13 member states as of January 1, 2007.
--   Accarias_de_Sérionne_-_Intérêts_des_nations_de_l'Europe,_dévélopés_relativement_au_commerce,_1766_-_5790093.tif2005, the Central American Free Trade Agreement was signed; It includes the United States and the Dominican Republic.
+-   2005, the Central American Free Trade Agreement was signed; It includes the United States and the Dominican Republic.
 
 
 Perspectives
@@ -148,7 +146,7 @@ Judeao-Christian teachings prohibit fraud and dishonest measures, and historical
 
 Development of money
 
-Maximinus_denarius_-_transparent_background.PNG denarius.]] The first instances of money were objects with intrinsic value. This is called commodity money and includes any commonly available commodity that has intrinsic value; historical examples include pigs, rare seashells, whale's teeth, and (often) cattle. In medieval Iraq, bread was used as an early form of money. In Mexico under Montezuma cocoa beans were money. 6
+denarius.]] The first instances of money were objects with intrinsic value. This is called commodity money and includes any commonly available commodity that has intrinsic value; historical examples include pigs, rare seashells, whale's teeth, and (often) cattle. In medieval Iraq, bread was used as an early form of money. In Mexico under Montezuma cocoa beans were money. 6
 
 Currency was introduced as a standardised money to facilitate a wider exchange of goods and services. This first stage of currency, where metals were used to represent stored value, and symbols to represent commodities, formed the basis of trade in the Fertile Crescent for over 1500 years.
 

@@ -1,1 +1,0 @@
-During the 1915–16 English football season, Brentford competed in the London Combination. In the first season of non-competitive wartime football during the First World War, the Bees finished in mid-table in each of the leagues run by the London Combination.

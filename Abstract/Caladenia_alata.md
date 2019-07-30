@@ -1,1 +1,0 @@
-_CALADENIA ALATA_, commonly known as the FAIRY ORCHID,[1] is a plant in the orchid family Orchidaceae and is found in south-eastern Australia and New Zealand. It is a ground orchid with small, usually short-lived flowers, which have relatively stiffly held petals and sepals and reddish-purple bars on the labellum.

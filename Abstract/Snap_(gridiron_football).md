@@ -1,1 +1,0 @@
-Austrian_Bowl_2013-103.JPG A SNAP (colloquially called a "hike", "snapback", or "pass from center") is the backwards passing of the ball in American and Canadian football at the start of play from scrimmage.

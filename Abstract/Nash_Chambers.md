@@ -1,1 +1,0 @@
-NASH CHAMBERS (born 8 May 1974, Mount Gambier) is an Australian record producer, talent manager, audio engineer and multi-instrumentalist. He is a former member of the family country music group, Dead Ringer Band (1986–98), with his father Bill, mother Diane, and younger sister Kasey Chambers.

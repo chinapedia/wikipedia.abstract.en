@@ -1,4 +1,4 @@
-Venturestar1.jpg was a proposed SSTO spaceplane.]]
+was a proposed SSTO spaceplane.]]
 
 A SINGLE-STAGE-TO-ORBIT (or SSTO) vehicle reaches orbit from the surface of a body using only propellants and fluids and without expending tanks, engines, or other major hardware. The term usually, but not exclusively, refers to reusable vehicles.[1] No Earth-launched SSTO launch vehicles have ever been constructed. To date, orbital launches have been performed by either fully or partially expendable multi-stage rockets.
 
@@ -17,7 +17,7 @@ History
 
 Early concepts
 
-rombus.jpg Before the second half of the twentieth century, very little research was conducted into space travel. During the 1960s some of the first concept designs for this kind of craft began to emerge.[5]
+Before the second half of the twentieth century, very little research was conducted into space travel. During the 1960s some of the first concept designs for this kind of craft began to emerge.[5]
 
 One of the earliest SSTO concepts was the expendable One stage Orbital Space Truck (OOST) proposed by Philip Bono,[6] an engineer for Douglas Aircraft Company.[7] A reusable version named ROOST was also proposed.
 
@@ -40,7 +40,7 @@ Around 1985 the NASP project was intended to launch a scramjet vehicle into orbi
 
 DC-X technology
 
-Delta_Clipper_DC-X_first_flight.jpg]] The DC-X, short for Delta Clipper Experimental, was an uncrewed one-third scale vertical takeoff and landing demonstrator for a proposed SSTO. It is one of only a few prototype SSTO vehicles ever built. Several other prototypes were intended, including the DC-X2 (a half-scale prototype) and the DC-Y, a full-scale vehicle which would be capable of single stage insertion into orbit. Neither of these were built, but the project was taken over by NASA in 1995, and they built the DC-XA, an upgraded one-third scale prototype. This vehicle was lost when it landed with only three of its four landing pads deployed, which caused it to tip over on its side and explode. The project has not been continued since.
+]] The DC-X, short for Delta Clipper Experimental, was an uncrewed one-third scale vertical takeoff and landing demonstrator for a proposed SSTO. It is one of only a few prototype SSTO vehicles ever built. Several other prototypes were intended, including the DC-X2 (a half-scale prototype) and the DC-Y, a full-scale vehicle which would be capable of single stage insertion into orbit. Neither of these were built, but the project was taken over by NASA in 1995, and they built the DC-XA, an upgraded one-third scale prototype. This vehicle was lost when it landed with only three of its four landing pads deployed, which caused it to tip over on its side and explode. The project has not been continued since.
 
 Roton
 
@@ -164,8 +164,6 @@ where:
 The propellant mass fraction (ζ) of a vehicle can be expressed solely as a function of the mass ratio:
 
 The structural coefficient (λ) is a critical parameter in SSTO vehicle design.[32] Structural efficiency of a vehicle is maximized as the structural coefficient approaches zero. The structural coefficient is defined as:
-
-SSTO_vs_TSTO_for_LEO_Mission.tif
 
 = \frac {\frac {m_s} {m_i}} {1 - \frac {m_\text{pl}} {m_i}}}}
 

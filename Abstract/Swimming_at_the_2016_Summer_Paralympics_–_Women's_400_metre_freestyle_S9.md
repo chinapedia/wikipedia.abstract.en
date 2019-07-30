@@ -1,1 +1,0 @@
-The WOMEN'S 400 METRE FREESTYLE S9 event at the 2016 Paralympic Games took place on 9 September 2016, at the Olympic Aquatics Stadium. Three heats were held. The swimmers with the eight fastest times advanced to the final.

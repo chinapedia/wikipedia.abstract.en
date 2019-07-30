@@ -1,1 +1,0 @@
-ADVANCED CHEMISTRY is a German hip hop group from Heidelberg, a scenic city in Baden-Württemberg, South Germany. Advanced Chemistry was founded in 1987 by Toni L, Linguist, Gee-One, DJ Mike MD (Mike Dippon) and MC Torch. Each member of the group holds German citizenship, and Toni L, Linguist, and Torch are of Italian, Ghanaian, and Haitian backgrounds, respectively.[1]

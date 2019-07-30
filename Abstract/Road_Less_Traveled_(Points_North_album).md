@@ -1,1 +1,0 @@
-_ROAD LESS TRAVELED_ is the first studio album by the instrumental rock band Points North. It was recorded at the Foothill College Studio 1100 [1][2][3] and released on March 13, 2012 on Magna Carta Records.[4]

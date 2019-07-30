@@ -1,1 +1,0 @@
-THE POLISH DEVELOPMENT FUND (PFR) () is a state-owned financial group, headquartered in Warsaw, which offers instruments supporting the development of companies, local governments and individuals, and invests in sustainable social development and national economic growth.[1]

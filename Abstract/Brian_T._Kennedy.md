@@ -1,1 +1,0 @@
-BRIAN T. KENNEDY (April 11, 1934 – March 21, 2012) was an American politician who served two terms in the New Jersey General Assembly from 1972 to 1974 and 1976 to 1978 and two terms in the New Jersey Senate from 1978 to 1982 and 1984 to 1988.[1][2]

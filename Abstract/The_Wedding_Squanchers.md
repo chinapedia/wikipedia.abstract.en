@@ -1,1 +1,0 @@
-"THE WEDDING SQUANCHERS" is the tenth and final episode of the second season of the American animated television sitcom _Rick and Morty_, and the 21st overall episode of the series. Written by Tom Kauffman and directed by Wes Archer, the episode first aired on Adult Swim in the United States on October 4, 2015.

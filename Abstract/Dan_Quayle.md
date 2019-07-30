@@ -1,1 +1,0 @@
-JAMES DANFORTH QUAYLE (born February 4, 1947) is an American politician and lawyer who served as the 44th vice president of the United States from 1989 to 1993. Quayle was also a U.S. representative from 1977 to 1981 and was a U.S. senator from 1981 to 1989 for the state of Indiana.

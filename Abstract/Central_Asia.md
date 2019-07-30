@@ -1,1 +1,0 @@
-Map_of_Central_Asia.png

@@ -1,1 +1,0 @@
-On 9 March 1989, _Cinema Express magazine_ editor V. Ramamurthy announced the best of South Indian films for the year of 1988, selected by the readers of the magazine. G. Lakshma Reddy, sales manager of Dyanora Television, co-sponsor also announced the _Dyanora Gold cine awards_ for excellence in film industry.[1][2][3]

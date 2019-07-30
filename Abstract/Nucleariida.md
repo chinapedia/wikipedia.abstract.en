@@ -1,1 +1,0 @@
-NUCLEARIIDA is a group of amoebae[1] with filose pseudopods, known mostly from soils and freshwater. They are distinguished from the superficially similar vampyrellids mainly by having mitochondria with discoid cristae.

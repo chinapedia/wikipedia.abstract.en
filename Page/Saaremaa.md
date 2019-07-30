@@ -8,7 +8,7 @@ The island is called _Saaremaa_ in Estonian, and in Finnish _Saarenmaa_—litera
 
 History
 
-Valjala_maalinn_2.jpg]]
+]]
 
 According to archaeological finds, the territory of Saaremaa has been inhabited from at least 5000 BCE.[6] Pre-Viking age Salme ship burials have been found in Sõrve Peninsula. Sagas talk about numerous skirmishes between islanders and Vikings. Saaremaa was the wealthiest county of ancient Estonia and the home of notorious Estonian pirates, sometimes called the Eastern Vikings. The Chronicle of Henry of Livonia describes a fleet of sixteen ships and five hundred Osilians ravaging the area that is now southern Sweden, then belonging to Denmark. In 1206, King Valdemar II of Denmark built a fortress on the island but found no volunteers to man it. The Danes burned it themselves and left.
 
@@ -18,7 +18,7 @@ The Chronicle of Henry of Livonia describes a fleet of sixteen ships and five hu
 
 Perhaps the most renowned raid by the inhabitants of Estonia occurred in 1187, with the attack on the Swedish town of Sigtuna (other candidates as raiders are Karelians and Curonians). Among the casualties of this raid was the Swedish archbishop Johannes. Archaeological excavations have not verified the traditions of destruction of the town. Normal life in Sigtuna continued until town started to slowly lose its importance during 13th century due to navigability problems caused by post-glacial rebound.[7]
 
-Castlekuressaare.JPG Castle (Arensburg)]] In 1227, Saaremaa was conquered by the Livonian Brothers of the Sword during the Livonian Crusade but remained a hotbed of Estonian resistance. The crusaders founded the Bishopric of Ösel-Wiek there. When the Order was defeated by the Lithuanian army in the Battle of Saule in 1236, the Saaremaa islanders rebelled. The conflict was ended by a treaty that was signed by the Osilians and the Master of the Order. In the following year, the Sword-Brothers were absorbed into the Teutonic Order. As the crusaders' hold on Saaremaa got stronger, Christianity also became more established on the island, and to this day Saaremaa has a unique set of medieval churches in Kaarma, Karja, Kihelkonna, Muhu, Pöide, Püha and Valjala churches. The crusader's fortress Kuressaare Castle, known in German as Schloss Arensburg, was built by the Teutonic Order, beginning in 1380, for the bishops of Ösel-Wieck (Estonian: Saare-Lääne). It is one of the most well-preserved medieval castles in Estonia and bears testimony to the late Medieval Age.
+Castle (Arensburg)]] In 1227, Saaremaa was conquered by the Livonian Brothers of the Sword during the Livonian Crusade but remained a hotbed of Estonian resistance. The crusaders founded the Bishopric of Ösel-Wiek there. When the Order was defeated by the Lithuanian army in the Battle of Saule in 1236, the Saaremaa islanders rebelled. The conflict was ended by a treaty that was signed by the Osilians and the Master of the Order. In the following year, the Sword-Brothers were absorbed into the Teutonic Order. As the crusaders' hold on Saaremaa got stronger, Christianity also became more established on the island, and to this day Saaremaa has a unique set of medieval churches in Kaarma, Karja, Kihelkonna, Muhu, Pöide, Püha and Valjala churches. The crusader's fortress Kuressaare Castle, known in German as Schloss Arensburg, was built by the Teutonic Order, beginning in 1380, for the bishops of Ösel-Wieck (Estonian: Saare-Lääne). It is one of the most well-preserved medieval castles in Estonia and bears testimony to the late Medieval Age.
 
 During the 14th–16th centuries, and possibly earlier, local inhabitants started to expand across the Baltic Sea into surrounding areas thus establishing villages at Livonian coast.
 
@@ -35,11 +35,11 @@ Estonia gained independence on August 20, 1991, during the dissolution of the So
 
 Geography
 
-The island forms the main barrier between the Gulf of Riga and the Baltic Sea. To the south of it is the main passage out of the gulf, the Irbe Strait, next to Sõrve Peninsula, the southernmost portion of the island. In Medieval times islanders crossed the strait to form fishing villages on the Livonian coast, notably Pitrags. In those days it was easier and quicker to cross the strait towards nearby Kolka, Saunags or Mazirbe, than travel by horse large distances inland. The highest point on the island is 54 m above sea level. One feature found on the island is the Kaali crater. The island has lots of forested terrain. One of the symbols of the island is the juniper. Varahommik_ja_Panga_pank.jpg.]]
+The island forms the main barrier between the Gulf of Riga and the Baltic Sea. To the south of it is the main passage out of the gulf, the Irbe Strait, next to Sõrve Peninsula, the southernmost portion of the island. In Medieval times islanders crossed the strait to form fishing villages on the Livonian coast, notably Pitrags. In those days it was easier and quicker to cross the strait towards nearby Kolka, Saunags or Mazirbe, than travel by horse large distances inland. The highest point on the island is 54 m above sea level. One feature found on the island is the Kaali crater. The island has lots of forested terrain. One of the symbols of the island is the juniper. .]]
 
 Nature
 
-Shore_of_Saaremaa.konradmagi.jpg (1913–1914).]] More than 10,000 years ago the first parts of Saaremaa arose from the Baltic Ice Lake. The uplift of the Earth's crust is continuing even today, at per year. The West Estonian islands are lowlying plains resting on limestone, their average elevation being about above sea level. Limestone has become denuded in a great number of places, resulting in cliffs, limestone pits and quarries at Mustjala, Ninase, Pulli, Üügu and Kaugatuma.
+(1913–1914).]] More than 10,000 years ago the first parts of Saaremaa arose from the Baltic Ice Lake. The uplift of the Earth's crust is continuing even today, at per year. The West Estonian islands are lowlying plains resting on limestone, their average elevation being about above sea level. Limestone has become denuded in a great number of places, resulting in cliffs, limestone pits and quarries at Mustjala, Ninase, Pulli, Üügu and Kaugatuma.
 
 Because of its mild maritime climate and a variety of soils, Saaremaa has a rich flora, illustrated by the fact that 80% of the plant species found in Estonia are represented here. Altogether 1200 species of vascular plants can be found in Saaremaa. About 120 of the local plant species are rare ones that have received special protection status. The most famous endemic species is Rhinanthus osiliensis, a rare little flower growing mostly in spring fens. Rare and beautiful flowers are widespread; out of the 36 species found in Estonia, 35 of them are found on Saaremaa and neighbouring islands.
 
@@ -53,13 +53,13 @@ The islands lie in the East Atlantic Flyway, a migration path of waterfowl. This
 
 Kaali Meteorite
 
-Kaali_main_crater_on_2005-08-10.3.jpg]] Kaali is a small group of nine unique meteorite craters on Saaremaa. The largest of the craters measures in diameter and contains a small lake, known as _Kaali järv_ ("Lake Kaali"). The meteor cluster had an impact velocity of and a mass of 20–80 tons. At the altitude of the meteor broke into pieces. The largest fragment produced the main crater with a depth of . Eight smaller craters with diameters ranging from and depths varying from are all within of the main crater. The age estimates of the crater vary, with 4000 ± 1000 BCE being a commonly accepted estimate,[9] though other estimates suggest the explosion was as recent as 660 ± 85 BCE.[10] The energy of the impact — about 80 TJ (20 kilotons of TNT), comparable with the Hiroshima bomb) — burned forests within a radius of . There are numerous legends related to the crater; these are summarized by Lennart Meri in his book _Hõbevalge_.[11]
+]] Kaali is a small group of nine unique meteorite craters on Saaremaa. The largest of the craters measures in diameter and contains a small lake, known as _Kaali järv_ ("Lake Kaali"). The meteor cluster had an impact velocity of and a mass of 20–80 tons. At the altitude of the meteor broke into pieces. The largest fragment produced the main crater with a depth of . Eight smaller craters with diameters ranging from and depths varying from are all within of the main crater. The age estimates of the crater vary, with 4000 ± 1000 BCE being a commonly accepted estimate,[9] though other estimates suggest the explosion was as recent as 660 ± 85 BCE.[10] The energy of the impact — about 80 TJ (20 kilotons of TNT), comparable with the Hiroshima bomb) — burned forests within a radius of . There are numerous legends related to the crater; these are summarized by Lennart Meri in his book _Hõbevalge_.[11]
 
 Resources
 
 Dolomite, limestone, curative mud, mineral water, ceramic clay, sand, and gravel are the major local resources. Of these local resources, dolomite is perhaps the most famous above all.[12]
 
-Mihkli_Talumuuseum_2009_-_004.JPG.]]
+.]]
 
 
 Characteristics
@@ -69,7 +69,7 @@ The majority of the population is Estonian (97%). The biggest minority nationali
 
 Transportation
 
-Roads_on_Saaremaa_Island.jpgSaaremaa is reached by TS Laevad's ferries from Virtsu on the Estonian mainland to Kuivastu on Muhu island, which is itself connected to Saaremaa by a causeway, the Väinatamm. Saaremaa can also be reached by ferry from Sõru on the island of Hiiumaa to Triigi. There are also passenger services from Roomassaare to the smaller island of Abruka. During many winters it is possible to drive to Saaremaa by an ice road between the mainland and Muhu or between Saaremaa and the island of Hiiumaa.
+Saaremaa is reached by TS Laevad's ferries from Virtsu on the Estonian mainland to Kuivastu on Muhu island, which is itself connected to Saaremaa by a causeway, the Väinatamm. Saaremaa can also be reached by ferry from Sõru on the island of Hiiumaa to Triigi. There are also passenger services from Roomassaare to the smaller island of Abruka. During many winters it is possible to drive to Saaremaa by an ice road between the mainland and Muhu or between Saaremaa and the island of Hiiumaa.
 
 There are regular bus services from Tallinn, Pärnu and Tartu on the mainland, which use the ferry from Virtsu to Muhu.
 

@@ -1,1 +1,0 @@
-MIRIAM GAMBLE (born 1980) is a poet who has won several awards including the Eric Gregory Award in 2007 and the Somerset Maugham Award in 2011.[1] She is currently living in Scotland and is a lecturer at the University of Edinburgh.[2]

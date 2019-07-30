@@ -1,1 +1,0 @@
-SABRINA CERVANTES (born October 24, 1987) is an American politician currently serving in the California State Assembly. A Democrat, she represents the 60th Assembly District, which encompasses the northwestern Riverside County communities of Corona, Eastvale, Jurupa Valley, Norco, and parts of the City of Riverside.

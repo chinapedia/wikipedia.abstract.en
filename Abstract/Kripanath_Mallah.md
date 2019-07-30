@@ -1,1 +1,0 @@
-KRIPANATH MALLAH is a Bharatiya Janata Party politician from Assam. He is currently an elected Member of Parliament from Karimganj constituency of Assam in 2019 Lok sabha polls. He has been elected in Assam Legislative Assembly election in 2011 and from Ratabari constituency.[1][2][3]

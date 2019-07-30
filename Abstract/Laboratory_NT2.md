@@ -1,1 +1,0 @@
-LABORATORY NT2 is a technical infrastructure for Figura, the _Centre de recherche sur le texte et l'imaginaire_ (Center for Research on Texts and the Imaginary), which promotes collaboration between researchers from several universities and fields of expertise.

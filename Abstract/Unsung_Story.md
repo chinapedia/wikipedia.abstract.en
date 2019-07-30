@@ -1,1 +1,0 @@
-_UNSUNG STORY: TALE OF THE GUARDIANS_ is a tactical role-playing game in development by Little Orbit. Originally set for release in 2015, the game is expected to be released in late 2020 for Microsoft Windows, macOS, Linux, iOS, Android, Nintendo Switch, PlayStation 4, and Xbox One.

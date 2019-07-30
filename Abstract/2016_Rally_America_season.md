@@ -1,1 +1,0 @@
-The 2016 RALLY AMERICA SEASON is the 12th consecutive season of the Rally America series. The Rally America series is currently the premiere stage rally championship in the United States. The season consists of eight events across the country.

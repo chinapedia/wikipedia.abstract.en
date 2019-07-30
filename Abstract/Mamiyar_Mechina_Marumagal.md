@@ -1,1 +1,0 @@
-_MAMIYAR MECHINA MARUMAGAL_ (English: _Daughter-in law praised by the Mother-in-law_) is an Indian Tamil language film produced by AVM Productions with S. S. Rajendran, M. N. Rajam and G. Varalakshmi in the lead roles. The film was released in 1959.[1]

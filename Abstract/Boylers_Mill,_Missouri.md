@@ -1,1 +1,0 @@
-BOYLERS MILL is an unincorporated community in western Morgan County, in the U.S. state of Missouri.[1] The community is in Pole Hollow just north of the Big Buffalo Creek. The site is on Missouri Route FF.[2]

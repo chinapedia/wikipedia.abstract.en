@@ -1,1 +1,0 @@
-MANCHESTER VICTORIA REVERSING SIDINGS is an Electric Traction Depot located in Manchester, England. The depot is situated on the Liverpool to Manchester Line and is located near Manchester Victoria station.

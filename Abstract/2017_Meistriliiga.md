@@ -1,1 +1,0 @@
-The 2017 MEISTRILIIGA (known as A. LE COQ PREMIUM LIIGA for sponsorship reasons[1]) was the 27th season of the Meistriliiga, the top Estonian league for association football clubs, since its establishment in 1992. The season began on 3 March 2017 and concluded on 4 November 2017.[2] FCI Tallinn began the season as defending champions of the 2016 season.

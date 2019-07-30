@@ -1,1 +1,0 @@
-ImperialConference.jpg (front, centre) with his prime ministers in 1926. Standing (left to right): Walter Stanley Monroe (Newfoundland), Gordon Coates (New Zealand), Stanley Bruce (Australia), J. B. M. Hertzog (Union of South Africa), W. T. Cosgrave (Irish Free State). Seated: Stanley Baldwin (United Kingdom), King George V, William Lyon Mackenzie King (Canada).]]

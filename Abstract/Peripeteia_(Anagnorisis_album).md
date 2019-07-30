@@ -1,1 +1,0 @@
-_PERIPETEIA_ is the third full-length album by the black metal band Anagnorisis.[1] The title refers to concept described by Aristotle, peripeteia, which is also connected to the origin of the group's name, the concept of anagnorisis. The album was recorded and produced by the band and principal guitarist, Zak Denham.[2]

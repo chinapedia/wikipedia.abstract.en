@@ -1,1 +1,0 @@
-In the United Kingdom, the JOINT MINISTERIAL COMMITTEE (JMC), (), is a consultative body established by a memorandum of understanding between the UK Government and devolved administrations in Scotland, Wales and Northern Ireland. The JMC seeks to act as a focus for the coordination of the relationships between these administrations.

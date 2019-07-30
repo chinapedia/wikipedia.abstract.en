@@ -1,1 +1,0 @@
-JÎN (in Kurdish it means "Woman", Jin in English) is a 2013 Turkish-German movie directed by Reha Erdem. The movie is about a Kurdish guerilla fighter who deserted her military unit aiming at leaving the conflict region (Eastern Turkey) for the city of Izmir.

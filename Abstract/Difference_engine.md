@@ -1,1 +1,0 @@
-Babbage_Difference_Engine.jpg's difference engine, the first one actually built from Babbage's design. The design has the same precision on all columns, but when calculating polynomials, the precision on the higher-order columns could be lower.]]

@@ -1,1 +1,0 @@
-PATRICIA LEE SMITH (born December 30, 1946)[1] is an American singer-songwriter, musician, author, and poet who became an influential component of the New York City punk rock movement with her 1975 debut album _Horses_.[2]

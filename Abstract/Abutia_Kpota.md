@@ -1,1 +1,0 @@
-ABUTIA-KPOTA is a farming community located at South-Western part of Ho, the capital town of Volta Region, Ghana.[1] Abutia Kpota is one of the towns within the Ho West Parliamentary Constituency. The town is near the Kalapa Re-source Reserve.

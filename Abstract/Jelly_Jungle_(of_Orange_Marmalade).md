@@ -1,1 +1,0 @@
-"JELLY JUNGLE (OF ORANGE MARMALADE)" is a song written and composed by Paul Leka (who also produced it) and Shelly Pinz. It was the final chart hit by the 1960s Ohio-based rock group The Lemon Pipers.

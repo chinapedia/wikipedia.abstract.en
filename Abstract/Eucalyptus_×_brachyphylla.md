@@ -1,1 +1,0 @@
-_EUCALYPTUS × BRACHYPHYLLA_ is a mallee or small tree that is endemic to a small area in Western Australia. It has rough bark near the base of the trunk, smooth greyish bark above, egg-shaped to elliptic adult leaves, flower buds in groups of seven in leaf axils, white flowers and conical fruit.Eucalyptus_x_brachyphylla_flowers.jpgEucalyptus_x_brachyphylla_fruit.jpg

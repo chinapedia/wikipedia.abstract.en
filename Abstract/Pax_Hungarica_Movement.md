@@ -1,1 +1,0 @@
-The PAX HUNGARICA MOVEMENT (; PHM) was a far-right Hungarist and neo-Nazi movement, founded on 26 January 2008 to represent an alternative against the Hungarian National Front (MNA). Its predecessor organization was the Blood and Honour Cultural Association.[1]

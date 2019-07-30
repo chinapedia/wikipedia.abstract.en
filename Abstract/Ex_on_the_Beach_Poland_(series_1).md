@@ -1,1 +1,0 @@
-The FIRST SERIES of _Ex on the Beach Poland_, a Polish television programme, began airing on 7 November 2016 on MTV. The show was announced in 17 October 2016.[1] Cast member for this series include _Warsaw Shore_ star Wojtek Gola. The series was filmed in Croatia.

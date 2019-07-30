@@ -1,1 +1,0 @@
-DANILO IV () was the Serbian Patriarch, primate of the Serbian Orthodox Church, in the period of 1406–1407. After Patriarch Sava V's death, Danilo was chosen as the successor. Very little is known of him, his appointment coming in a time of conflict between the Lazarević and Branković families. After a year, he was succeeded by Kirilo I.

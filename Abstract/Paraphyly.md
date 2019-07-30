@@ -1,1 +1,0 @@
-Traditional_Reptilia.jpg (green field) is a paraphyletic group comprising all amniotes (Amniota) except for two subgroups: Mammalia (mammals) and Aves (birds); therefore, Reptilia is not a clade. In contrast, Amniota itself is a clade, which is a monophyletic group.]]

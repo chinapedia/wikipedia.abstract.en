@@ -1,1 +1,0 @@
-RACHAEL MORRISON (born June 2, 1987) is an American Paralympic athlete. She competes in the discus throw and club throw and holds world records in both events. She won the discus throw at the 2015 World Championships, 2015 Parapan American Games and 2016 Paralympics.[1][2][3]

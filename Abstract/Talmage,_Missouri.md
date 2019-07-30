@@ -1,1 +1,0 @@
-TALMAGE is an unincorporated community in Wright County, in the U.S. state of Missouri.[1] The community was located just west of Missouri Route E, approximately five miles due east of Hartville and two miles north of the community of Owens. It is on a ridge between Clark and Whetstone creeks at an elevation of 1266 feet.[2][3]

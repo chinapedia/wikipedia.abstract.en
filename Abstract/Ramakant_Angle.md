@@ -1,1 +1,0 @@
-RAMAKANT ANGLE is an Indian Politician from the state of Goa. He was a member of the 13th Lok Sabha. He represents the Mormugao Lok Sabha constituency. He was member of Bharatiya Janata Party but later he joined the Indian National Congress.[1][2][3]

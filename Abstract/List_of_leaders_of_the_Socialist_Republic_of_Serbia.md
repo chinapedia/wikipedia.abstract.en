@@ -1,1 +1,0 @@
-The following is a LIST OF LEADERS OF THE SOCIALIST REPUBLIC OF SERBIA (SR Serbia). It lists heads of state and heads of government. In the Socialist Republic, the only legal political party was the League of Communists of Serbia (SKS), which was part of the League of Communists of Yugoslavia (SKJ).

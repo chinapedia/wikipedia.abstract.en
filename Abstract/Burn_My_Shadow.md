@@ -1,1 +1,0 @@
-"BURN MY SHADOW" is a song by English electronic group UNKLE, featuring the vocals of Ian Astbury of The Cult. Despite its popularity on the album and being used in several films, TV shows, promos and adverts, the song did poorly on the UK Singles Chart; peaking in at No.112 [1] The music video was directed by Miguel Sapochnik and features actor Goran Višnjić.

@@ -1,1 +1,0 @@
-KIRSTEN E. SHEPHERD-BARR is an academic specialising in Victorian and modern English literature, the interaction between science and literature, and theatre studies, especially science in theatre. In 2015, she was appointed a Professor of English and Theatre Studies at the University of Oxford.

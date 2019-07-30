@@ -1,1 +1,0 @@
-The 2016 CHEMNITZ TERRORISM PLOT was a suspected terrorist bombing plot which became known to the public on 8 October 2016 in Chemnitz, Saxony, Germany. It was reportedly planned by the 22-year-old Syrian man Jaber al-Bakr.

@@ -1,1 +1,0 @@
-POPE VICTOR III (c. 1026 – 16 September 1087), born DAUFERIO, was Pope from 24 May 1086 to his death in 1087. He was the successor of Pope Gregory VII, yet his pontificate is far less impressive in history than his time as DESIDERIUS, the great Abbot of Montecassino.

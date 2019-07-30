@@ -1,1 +1,0 @@
-MARIANNA CANDIDI DIONIGI (1756-1826) born in Rome, was an Italian painter and writer who took an interest in archaeology. She wrote archaeological descriptions of buildings and monuments during a journey in Lazio.[1]

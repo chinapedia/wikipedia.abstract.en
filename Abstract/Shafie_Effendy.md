@@ -1,1 +1,0 @@
-MOHAMMAD SHAFIE BIN HAJI MOHAMMAD EFENDDY (born 4 August 1995) is a Bruneian international footballer who plays for DPMM FC and the Brunei national football team.[1] Adept at playing on either flank or as a striker, he is one of the stars of Bruneian football ever since being selected to his first international tournament at the age of 16.[2][3]

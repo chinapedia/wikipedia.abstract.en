@@ -1,1 +1,0 @@
-FRI. SAT. SUN (often stylised as FRI. SAT. SUN) is the tenth EP by South Korean girl group, Dal Shabet. The EP consists of five songs. It was released on September 29, 2016, along with a music video for the title track.[1]

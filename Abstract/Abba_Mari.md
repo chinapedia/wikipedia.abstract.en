@@ -1,1 +1,0 @@
-ABBA MARI BEN MOSES BEN JOSEPH, was a Provençal rabbi, born at Lunel, near Montpellier, towards the end of the 13th century. He is also known as YARHI from his birthplace (Hebrew _Yerah_, i.e. moon, lune), and he further took the name ASTRUC, DON ASTRUC or EN ASTRUC OF LUNEL[1] from the word "astruc" meaning lucky (see Astruc).

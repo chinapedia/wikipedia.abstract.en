@@ -1,1 +1,0 @@
-Luddite.jpg

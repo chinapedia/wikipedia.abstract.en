@@ -1,1 +1,0 @@
-The C. A. LANDERBERGER HOUSE, also known as the LANDENBERGER-JORGENSEN HOUSE or the EMIL JORGENSEN HOUSE, is a historic Queen Anne-style house in Portland, Oregon, that was built in 1896.[1] It was listed on the National Register of Historic Places in 1988.[2] It is also a contributing building in the NRHP-listed Alphabet Historic District.

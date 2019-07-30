@@ -1,1 +1,0 @@
-19-NOR-5-ANDROSTENEDIOL, also known as ESTR-5-ENE-3Β,17Β-DIOL, is a synthetic, orally active anabolic-androgenic steroid (AAS) and a derivative of 19-nortestosterone (nandrolone) that was never introduced for medical use.[1][2][3] It is an androgen prohormone of nandrolone and of other 19-norandrostanes.[4][5][6]

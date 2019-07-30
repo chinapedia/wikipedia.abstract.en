@@ -1,1 +1,0 @@
-JEEVANAAMSAM (English: Alimony) is a 1968 Tamil Family – Drama film, directed and written by Malliyam Rajagopal.[1][2] The film was produced by Das and Das under the banner of Malliyam Productions. Music was by K. V. Mahadevan. It stars Jaishankar and C. R. Vijayakumari playing lead, with A. V. M. Rajan Sivakumar, Lakshmi[3] and Nagesh playing pivotal roles.[4]

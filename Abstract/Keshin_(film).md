@@ -1,1 +1,0 @@
-is a 1986 Japanese film directed by Yōichi Higashi, to a script by Machiko Nasu, based on the 1985 novel of the same title by Junichi Watanabe.[1] The film stars Hitomi Kuroki, in her debut role[2][3] Tatsuya Fuji, and Yoko Aki.

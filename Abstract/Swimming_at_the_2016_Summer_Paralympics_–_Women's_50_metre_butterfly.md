@@ -1,1 +1,0 @@
-The WOMEN'S 50 METRE BUTTERFLY swimming events for the 2016 Summer Paralympics take place at the Rio Olympic Stadium from 8 to 15 September. A total of three events were contested for different classifications.

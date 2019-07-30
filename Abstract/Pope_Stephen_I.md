@@ -1,1 +1,0 @@
-POPE STEPHEN I (; died 2 August 257) was the Bishop of Rome from 12 May 254 to his death in 257.[1] Of Roman birth but of Greek ancestry, he became bishop after serving as archdeacon of Pope Lucius I, who appointed Stephen his successor.

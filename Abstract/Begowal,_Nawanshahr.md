@@ -1,1 +1,0 @@
-BEGOWAL is a village in Shaheed Bhagat Singh Nagar district of Punjab State, India. It is situated on Phambra-Begowal link road and located away from postal head office Kahma, from Rahon, from district headquarter Shaheed Bhagat Singh Nagar and from state capital Chandigarh. The village is administrated by Sarpanch an elected representative of the village.[1]

@@ -1,1 +1,0 @@
-ROAD AND WATERWAY CONSTRUCTION SERVICE CORPS[1] (, VVK) was during the years 1851-2010 a military corps of reserve personnel in the Swedish Army, who was responsible for in the case of war provide the Swedish Armed Forces with specially trained personnel to maintain positions in the field of civil engineering.

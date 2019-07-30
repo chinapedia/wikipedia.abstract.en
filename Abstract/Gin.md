@@ -1,1 +1,0 @@
-DecaturGins.jpg GIN is a distilled alcoholic drink that derives its predominant flavour from juniper berries (_Juniperus communis_). Gin is one of the broadest categories of spirits, all of various origins, styles, and flavour profiles, that revolve around juniper as a common ingredient.[1][2]

@@ -1,1 +1,0 @@
-SIMONE TEMPESTINI (born on 12 August 1994[1]) is a Romanian rally driver. He won the 2016 Junior World Rally Championship with the Romanian team Napoca Rally Academy and the Romanian Rally Championship in 2015, 2016 and 2018.

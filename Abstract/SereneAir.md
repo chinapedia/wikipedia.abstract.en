@@ -1,1 +1,0 @@
-SERENEAIR () is a privately owned Pakistani airline that began operating services in January 2017. SereneAir operates scheduled domestic flights within Pakistan using a fleet of 3 Boeing 737-800 aircraft.

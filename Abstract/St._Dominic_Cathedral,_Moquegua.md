@@ -1,1 +1,0 @@
-The ST. DOMINIC CATHEDRAL[1] ()[2] Also MOQUEGUA CATHEDRAL Is the main Catholic temple in the city of Moquegua in the South American country of Peru.[3] It is a property of the Catholic Church. It is located in the Plaza de armas de Moquegua.

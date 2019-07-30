@@ -1,1 +1,0 @@
-Documenta-Eule.svg 2017-06-07_Der_Parthenon_der_Bücher_by_Olaf_Kosinsky-5.jpg 2017-06-07_Documenta_14_Kassel_by_Olaf_Kosinsky-29.jpg

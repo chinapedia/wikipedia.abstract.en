@@ -1,1 +1,0 @@
-CHINA is an unincorporated community in southern Howell County, in the U.S. state of Missouri.[1] The community was located along Missouri Route JJ about eight miles south-southeast of West Plains. The South Fork Spring River is approximately one mile north of the site. The China Union Church sits adjacent to Route JJ at the location.[2]

@@ -1,1 +1,0 @@
-The HAMILTON STEELHAWKS are a senior-level ice hockey team based in Hamilton, Ontario, Canada. The team is a member of the Allan Cup Hockey league of the Ontario Hockey Association, the top tier of senior ice hockey in Ontario, and eligible for the Allan Cup national championship.

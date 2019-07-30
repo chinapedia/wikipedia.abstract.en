@@ -1,1 +1,0 @@
-ALEKSANDR VIKTOROVICH POLUKHIN (Александр Викторович Полухин, born 15 October 1961)[1] is a Kazakhstani water polo player. He was a member of the Kazakhstan men's national water polo team, playing as a goalkeeper. He was a part of the team at the 2004 Summer Olympics.[2][3]

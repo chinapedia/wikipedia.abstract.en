@@ -1,1 +1,0 @@
-Chongqing_Changjiang_Cableway.jpg in the background]] 重庆市长江索道位于南岸区龙门浩的索道站.JPG YANGTZE RIVER ROPEWAY is located at 151 Xinhua Rd., Yuzhong, Chongqing and 4 Shangxin St., Nanan, Chongqing, and dates back to 1986. It was listed in Batch II of Chongqing Cultural Relics Protected Buildings on December 15, 2009.[1]

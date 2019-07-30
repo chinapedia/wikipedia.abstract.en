@@ -1,1 +1,0 @@
-SAMANTASIMHA (IAST: Sāmantasiṃha, r. c. 1282-1305 CE) was an Indian king belonging to the Chahamana dynasty, who ruled the area around Javalipura (present-day Jalore in Rajasthan). During the later half of his reign, he and his son Kanhadadeva jointly ran the administration. The Delhi Sultanate raided the kingdom twice during his reign, but could not capture it.

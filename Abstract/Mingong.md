@@ -1,1 +1,0 @@
-Mingong.jpg MINGONG(Chinese 民工) are migrant workers in the People's Republic of China, who, starting in the last decades of the 20th century, have been travelling from the countryside to the cities to work.

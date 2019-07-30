@@ -1,1 +1,0 @@
-BAAN SINLAPIN, The Artist's House, is located at 315 Wat Tong Salangam, Phet Kasem 28, Thanon Phet Kasem, Phasi Charoen, Bangkok, Thailand.[1] It was built more than 200 years ago. Baan Sinlapin once was the house of the Raksamruat family and the last heir of this family sold this house to Mr. Chompol Arkkapantanon[2][3] to renovate to be an art gallery.[4]

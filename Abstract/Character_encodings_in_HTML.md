@@ -1,1 +1,0 @@
-HTML (Hypertext Markup Language) has been in use since 1991, but HTML 4.0 (December 1997) was the first standardized version where international characters were given reasonably complete treatment. When an HTML document includes special characters outside the range of seven-bit ASCII, two goals are worth considering: the information's integrity, and universal browser display.

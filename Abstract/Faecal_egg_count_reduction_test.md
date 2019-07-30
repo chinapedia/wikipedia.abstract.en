@@ -1,1 +1,0 @@
-The FECAL EGG COUNT REDUCTION TEST was suggested in the World Association for the Advancement of Veterinary Parasitology guideline for estimating the reduction in fecal egg counts and its corresponding confidence interval. [1] The results of this test can be used to determine the anthelmintic resistance status of the animals.

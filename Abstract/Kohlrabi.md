@@ -1,1 +1,0 @@
-KOHLRABI (from the German for CABBAGE TURNIP; _Brassica oleracea_ Gongylodes Group), also called GERMAN TURNIP, is a biennial vegetable, a low, stout cultivar of wild cabbage. It is the same species as cabbage, broccoli, cauliflower, kale, Brussels sprouts, collard greens, Savoy cabbage, and gai lan.

@@ -1,1 +1,0 @@
-José Francisco López was a low-profile Argentine politician who worked at the Ministry of Federal Planning, Public Investment and Services under minister Julio de Vido during the presidencies of Néstor and Cristina Fernández de Kirchner. He was detained in 2016 in compromising circumstances, while allegedly trying to hide bags containing millions of dollars in a convent.[1][2][3]

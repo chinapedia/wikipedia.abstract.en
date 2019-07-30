@@ -1,1 +1,0 @@
-Amazonas_und_Reliefkarte.png

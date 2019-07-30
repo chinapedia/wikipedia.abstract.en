@@ -1,1 +1,0 @@
-SANTA CRISTINA is a Roman Catholic basilica church in Bolsena, province of Viterbo, region of Lazio, Italy. The church is best known for being the site of a Eucharistic Miracle in 1263, immortalized by _The Mass at Bolsena_ by Raphael in the Vatican palace. It also was the burial site for the martyr and saint Christina of Bolsena. Bolsena-chiesa_santa_cristina1.jpg façade]]

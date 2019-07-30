@@ -1,1 +1,0 @@
-The '''Reserve of the Supreme High Command ''' (Russian: Резерв Верховного Главнокомандования; also known as the _STAVKA_ RESERVE or RVGK) comprised formations and units which acted as the principal military reserve of the Soviet Red Army during World War II and now of the Russian Armed Forces.

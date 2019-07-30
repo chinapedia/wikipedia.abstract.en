@@ -1,1 +1,0 @@
-_GENERATION OF VIPERS_ is a 1943 book by Philip Wylie. In it Wylie criticizes various aspects and beliefs of contemporary American society, including Christianity; prominent figures such as politicians, teachers, and doctors;[1] and "momism" or the adoration of mothers. Dalkey Archive Press publishes the book.[2]

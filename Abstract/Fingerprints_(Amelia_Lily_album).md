@@ -1,1 +1,0 @@
-_FINGERPRINTS_ is the second cancelled studio album by British singer Amelia Lily. It was never released following the lead single California not doing so well in the charts. After the cancellation of Lilys' original debut album "Be A Fighter" in 2013, Lily attempted to start fresh with a new sound and new record deal with Warner Music.

@@ -1,1 +1,0 @@
-JARED CHRISTOPHER CANNONIER[1] is an American professional mixed martial artist currently competing in the Middleweight division of the Ultimate Fighting Championship. , he is #9 in official UFC Middleweight rankings.[2]

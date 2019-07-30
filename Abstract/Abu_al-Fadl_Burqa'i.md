@@ -1,1 +1,0 @@
-Allama Sayyid ABU AL-FADL BURQA‘I (19 June 1908 – 1993) (also spelled as Abul Fazl Borqei or borghei or borghaii) Urdu/Punjabi:(ابوالفضل برقعی قمی) was one of the most famous jurists in Qom who was critical of certain Shiite beliefs, was repeatedly harassed and eventually had to leave Qom.[1]

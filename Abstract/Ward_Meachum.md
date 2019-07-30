@@ -1,1 +1,0 @@
-WARD MEACHUM is a fictional character appearing in American comic books published by Marvel Comics. In his original comic book appearances, he is depicted as the brother of Harold Meachum and the uncle of Joy Meachum.

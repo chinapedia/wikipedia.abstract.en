@@ -1,1 +1,0 @@
-MARVEL COMICS is the brand name and primary imprint of MARVEL WORLDWIDE INC., formerly MARVEL PUBLISHING, INC. and MARVEL COMICS GROUP, a publisher of American comic books and related media. In 2009, The Walt Disney Company acquired Marvel Entertainment, Marvel Worldwide's parent company.

@@ -1,1 +1,0 @@
-The KLEBELSBERG AWARD () is a distinction awarded to Hungarian institutions or persons who have contributed to cultural activities in Hungary. The award was established in 1935 in memory of former Hungarian culture minister Count Kuno von Klebelsberg. The award was discontinued during the communist regime, but was reestablished in 1992.

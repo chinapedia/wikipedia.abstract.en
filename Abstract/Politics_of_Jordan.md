@@ -1,1 +1,0 @@
-The POLITICS OF JORDAN takes place in a framework of a parliamentary monarchy, whereby the Prime Minister of Jordan is head of government, and of a multi-party system. Jordan is a constitutional monarchy based on the constitution promulgated on January 8, 1952. The king exercises his power through the government he appoints which is responsible before the Parliament.

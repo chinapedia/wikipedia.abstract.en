@@ -1,1 +1,0 @@
-PENNY LANE (born March 6, 1978) is an American independent filmmaker. She is known for _Our Nixon_ (2013), which she directed and co-produced with Brian Frye. _Filmmaker_ magazine named Lane one of “25 New Faces of Independent Film” in 2012 for the films _Our Nixon_ and _Nuts!_ (2016).[1]

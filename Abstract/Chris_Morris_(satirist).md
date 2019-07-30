@@ -1,1 +1,0 @@
-CHRISTOPHER J MORRIS (born 15 June 1962) is an English comedian, writer, director, actor, voice actor, and producer. He is known for his black humour, surrealism, and controversial subject matter, and has been hailed for his "uncompromising, moralistic drive" by the British Film Institute.[1]

@@ -1,1 +1,0 @@
-FREINVILLE – SEVRAN is a railway station located on the Île-de-France tramway Line 4 in the commune of Sevran. She is originally commissioned in 1899 by the Chemins de fer de l'Est to serve the Westinghouse Electric Corporation workshops.

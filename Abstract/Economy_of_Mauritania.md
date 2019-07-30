@@ -1,1 +1,0 @@
-2006Mauritanian_exports.PNG A majority of the population of Mauritania depends on agriculture and livestock for a livelihood, even though most of the nomads and many subsistence farmers were forced into the cities by recurrent droughts in the 1970s and 1980s.

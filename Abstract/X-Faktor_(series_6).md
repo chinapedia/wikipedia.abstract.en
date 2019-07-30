@@ -1,1 +1,0 @@
-X-FAKTOR is a Hungarian television music competition to find new singing talent. The sixth series aired on RTL Klub in 2016. Bence Istenes presented his third series of X-Faktor. Gabi Tóth returned as a judge for the third time. Laci Gáspár, Peti Puskás and ByeAlex, joined her, who replaced judges Róbert Alföldi, Róbert Szikora and Gábor Szűcs (Little G. Weewil).

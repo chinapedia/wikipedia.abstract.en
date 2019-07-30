@@ -1,1 +1,0 @@
-_REMEMBER THE LAUGHTER_ is the first solo studio album by American guitarist Ray Toro. The album was self-released on November 18, 2016. This is Toro's first album since his departure from American rock alt-outfit My Chemical Romance.

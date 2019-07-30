@@ -1,1 +1,0 @@
-Edmund_Wodick_001.jpg EDMUND LUDWIG EDUARD WODICK (21 November 1816, Bebertal - 10 March 1886, Magdeburg) was a German painter of the Biedermeier period, known for landscapes, portraits and genre scenes.

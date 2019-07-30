@@ -1,1 +1,0 @@
-CESAR SANTOS (born July 10, 1982) is a contemporary Cuban-American artist and portrait painter. He is better known for his _Syncretism_, a term he coined in 2011 to describe paintings where he presents two or more art tendencies in aesthetic balance. He has completed numerous commissions and his work is held in private as well as public collections around the world.

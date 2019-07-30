@@ -21,7 +21,7 @@ The metal is a dimorphic allotrope of an hexagonal α form that changes into a b
 
 Chemical properties
 
-Titanium_in_water_porbiax_diagram.png for titanium in pure water, perchloric acid, or sodium hydroxide[20]]] Like aluminium and magnesium, titanium metal and its alloys oxidize immediately upon exposure to air. Titanium readily reacts with oxygen at in air, and at in pure oxygen, forming titanium dioxide.[21] It is, however, slow to react with water and air at ambient temperatures because it forms a passive oxide coating that protects the bulk metal from further oxidation.[22] When it first forms, this protective layer is only 1–2 nm thick but continues to grow slowly; reaching a thickness of 25 nm in four years.[23]
+for titanium in pure water, perchloric acid, or sodium hydroxide[20]]] Like aluminium and magnesium, titanium metal and its alloys oxidize immediately upon exposure to air. Titanium readily reacts with oxygen at in air, and at in pure oxygen, forming titanium dioxide.[21] It is, however, slow to react with water and air at ambient temperatures because it forms a passive oxide coating that protects the bulk metal from further oxidation.[22] When it first forms, this protective layer is only 1–2 nm thick but continues to grow slowly; reaching a thickness of 25 nm in four years.[23]
 
 Atmospheric passivation gives titanium excellent resistance to corrosion, almost equivalent to platinum. Titanium is capable of withstanding attack by dilute sulfuric and hydrochloric acids, chloride solutions, and most organic acids.[24] However, titanium is corroded by concentrated acids.[25] As indicated by its negative redox potential, titanium is thermodynamically a very reactive metal that burns in normal atmosphere at lower temperatures than the melting point. Melting is possible only in an inert atmosphere or in a vacuum. At , it combines with chlorine.[26] It also reacts with the other halogens and absorbs hydrogen.[27]
 
@@ -73,7 +73,7 @@ Titanium becomes radioactive upon bombardment with deuterons, emitting mainly po
 
 Compounds
 
-Titanium_nitride_coating.jpg bit]] The +4 oxidation state dominates titanium chemistry,[46] but compounds in the +3 oxidation state are also common.[47] Commonly, titanium adopts an octahedral coordination geometry in its complexes, but tetrahedral TiCl₄ is a notable exception. Because of its high oxidation state, titanium(IV) compounds exhibit a high degree of covalent bonding. Unlike most other transition metals, simple aquo Ti(IV) complexes are unknown.
+bit]] The +4 oxidation state dominates titanium chemistry,[46] but compounds in the +3 oxidation state are also common.[47] Commonly, titanium adopts an octahedral coordination geometry in its complexes, but tetrahedral TiCl₄ is a notable exception. Because of its high oxidation state, titanium(IV) compounds exhibit a high degree of covalent bonding. Unlike most other transition metals, simple aquo Ti(IV) complexes are unknown.
 
 Oxides, sulfides, and alkoxides
 
@@ -91,7 +91,7 @@ Nitrides and carbides
 
 Titanium nitride (TiN) is a member of a family of refractory transition metal nitrides and exhibits properties similar to both covalent compounds including; thermodynamic stability, extreme hardness, thermal/electrical conductivity, and a high melting point.[53] TiN has a hardness equivalent to sapphire and carborundum (9.0 on the Mohs Scale),[54] and is often used to coat cutting tools, such as drill bits.[55] It is also used as a gold-colored decorative finish and as a barrier metal in semiconductor fabrication.[56] Titanium carbide, which is also very hard, is found in cutting tools and coatings.[57]
 
-TiCl3.jpg.]]
+.]]
 
 Halides
 
@@ -110,7 +110,7 @@ Following the success of platinum-based chemotherapy, titanium(IV) complexes wer
 
 History
 
-Martin_Heinrich_Klaproth.jpg named titanium for the Titans of Greek mythology]]
+named titanium for the Titans of Greek mythology]]
 
 Titanium was discovered in 1791 by the clergyman and amateur geologist William Gregor as an inclusion of a mineral in Cornwall, Great Britain.[63] Gregor recognized the presence of a new element in ilmenite[64] when he found black sand by a stream and noticed the sand was attracted by a magnet.[65] Analyzing the sand, he determined the presence of two metal oxides: iron oxide (explaining the attraction to the magnet) and 45.25% of a white metallic oxide he could not identify.[66] Realizing that the unidentified oxide contained a metal that did not match any known element, Gregor reported his findings to the Royal Geological Society of Cornwall and in the German science journal _Crell's Annalen_.[67][68][69]
 
@@ -118,7 +118,7 @@ Around the same time, Franz-Joseph Müller von Reichenstein produced a similar s
 
 The currently known processes for extracting titanium from its various ores are laborious and costly; it is not possible to reduce the ore by heating with carbon (as in iron smelting) because titanium combines with the carbon to produce titanium carbide.[74] Pure metallic titanium (99.9%) was first prepared in 1910 by Matthew A. Hunter at Rensselaer Polytechnic Institute by heating TiCl₄ with sodium at 700–800 °C under great pressure[75] in a batch process known as the Hunter process.[76] Titanium metal was not used outside the laboratory until 1932 when William Justin Kroll proved that it can be produced by reducing titanium tetrachloride (TiCl₄) with calcium.[77] Eight years later he refined this process with magnesium and even sodium in what became known as the Kroll process.[78] Although research continues into more efficient and cheaper processes (e.g., FFC Cambridge, Armstrong), the Kroll process is still used for commercial production.[79][80]
 
-Titanium_metal.jpg]]
+]]
 
 Titanium of very high purity was made in small quantities when Anton Eduard van Arkel and Jan Hendrik de Boer discovered the iodide, or crystal bar, process in 1925, by reacting with iodine and decomposing the formed vapours over a hot filament to pure metal.[81]
 
@@ -132,8 +132,6 @@ In 2006, the U.S. Defense Advanced Research Projects Agency (DARPA) awarded $5.7
 
 
 Production and fabrication
-
-TitaniumUSGOV.jpg Titanium_products.jpg
 
 The processing of titanium metal occurs in four major steps:[92] reduction of titanium ore into "sponge", a porous form; melting of sponge, or sponge plus a master alloy to form an ingot; primary fabrication, where an ingot is converted into general mill products such as billet, bar, plate, sheet, strip, and tube; and secondary fabrication of finished shapes from mill products.
 
@@ -159,11 +157,11 @@ Commercially pure flat product (sheet, plate) can be formed readily, but process
 
 Applications
 
-Titanzylinder.jpg Titanium is used in steel as an alloying element (ferro-titanium) to reduce grain size and as a deoxidizer, and in stainless steel to reduce carbon content.[111] Titanium is often alloyed with aluminium (to refine grain size), vanadium, copper (to harden), iron, manganese, molybdenum, and other metals.[112] Titanium mill products (sheet, plate, bar, wire, forgings, castings) find application in industrial, aerospace, recreational, and emerging markets. Powdered titanium is used in pyrotechnics as a source of bright-burning particles.
+Titanium is used in steel as an alloying element (ferro-titanium) to reduce grain size and as a deoxidizer, and in stainless steel to reduce carbon content.[111] Titanium is often alloyed with aluminium (to refine grain size), vanadium, copper (to harden), iron, manganese, molybdenum, and other metals.[112] Titanium mill products (sheet, plate, bar, wire, forgings, castings) find application in industrial, aerospace, recreational, and emerging markets. Powdered titanium is used in pyrotechnics as a source of bright-burning particles.
 
 Pigments, additives, and coatings
 
-Titanium(IV)_oxide.jpg is the most commonly used compound of titanium]] About 95% of all titanium ore is destined for refinement into titanium dioxide (), an intensely white permanent pigment used in paints, paper, toothpaste, and plastics.[113] It is also used in cement, in gemstones, as an optical opacifier in paper,[114] and a strengthening agent in graphite composite fishing rods and golf clubs.
+is the most commonly used compound of titanium]] About 95% of all titanium ore is destined for refinement into titanium dioxide (), an intensely white permanent pigment used in paints, paper, toothpaste, and plastics.[113] It is also used in cement, in gemstones, as an optical opacifier in paper,[114] and a strengthening agent in graphite composite fishing rods and golf clubs.
 
 pigment is chemically inert, resists fading in sunlight, and is very opaque: it imparts a pure and brilliant white colour to the brown or grey chemicals that form the majority of household plastics.[115] In nature, this compound is found in the minerals anatase, brookite, and rutile.[116] Paint made with titanium dioxide does well in severe temperatures and marine environments.[117] Pure titanium dioxide has a very high index of refraction and an optical dispersion higher than diamond.[118] In addition to being a very important pigment, titanium dioxide is also used in sunscreens.[119]
 
@@ -179,7 +177,7 @@ Titanium is used in the walls of the Juno spacecraft's vault to shield on-board 
 
 Industrial
 
-Hochreines_Titan_(99.999)_mit_sichtbarer_Kristallstruktur.jpgs]]
+s]]
 
 Welded titanium pipe and process equipment (heat exchangers, tanks, process vessels, valves) are used in the chemical and petrochemical industries primarily for corrosion resistance. Specific alloys are used in oil and gas downhole applications and nickel hydrometallurgy for their high strength (e. g.: titanium beta C alloy), corrosion resistance, or both. The pulp and paper industry uses titanium in process equipment exposed to corrosive media, such as sodium hypochlorite or wet chlorine gas (in the bleachery).[134] Other applications include ultrasonic welding, wave soldering,[135] and sputtering targets.[136]
 
@@ -189,13 +187,13 @@ Titanium tetrachloride (TiCl₄), a colorless liquid, is important as an interme
 
 Consumer and architectural
 
-Titanium-stamps.jpg]] Titanium metal is used in automotive applications, particularly in automobile and motorcycle racing where low weight and high strength and rigidity are critical.[138] The metal is generally too expensive for the general consumer market, though some late model Corvettes have been manufactured with titanium exhausts,[139] and a Corvette Z06's LT4 supercharged engine uses lightweight, solid titanium intake valves for greater strength and resistance to heat.[140]
+]] Titanium metal is used in automotive applications, particularly in automobile and motorcycle racing where low weight and high strength and rigidity are critical.[138] The metal is generally too expensive for the general consumer market, though some late model Corvettes have been manufactured with titanium exhausts,[139] and a Corvette Z06's LT4 supercharged engine uses lightweight, solid titanium intake valves for greater strength and resistance to heat.[140]
 
 Titanium is used in many sporting goods: tennis rackets, golf clubs, lacrosse stick shafts; cricket, hockey, lacrosse, and football helmet grills, and bicycle frames and components. Although not a mainstream material for bicycle production, titanium bikes have been used by racing teams and adventure cyclists.[141]
 
 Titanium alloys are used in spectacle frames that are rather expensive but highly durable, long lasting, light weight, and cause no skin allergies. Many backpackers use titanium equipment, including cookware, eating utensils, lanterns, and tent stakes. Though slightly more expensive than traditional steel or aluminium alternatives, titanium products can be significantly lighter without compromising strength. Titanium horseshoes are preferred to steel by farriers because they are lighter and more durable.[142]
 
-El_Guggenheim_vizcaíno._(1454058701).jpg's Guggenheim Museum, Bilbao]] Titanium has occasionally been used in architecture. The Monument to Yuri Gagarin, the first man to travel in space (), as well as the Monument to the Conquerors of Space on top of the Cosmonaut Museum in Moscow are made of titanium for the metal's attractive colour and association with rocketry.[143][144] The Guggenheim Museum Bilbao and the Cerritos Millennium Library were the first buildings in Europe and North America, respectively, to be sheathed in titanium panels.[145] Titanium sheathing was used in the Frederic C. Hamilton Building in Denver, Colorado.[146]
+'s Guggenheim Museum, Bilbao]] Titanium has occasionally been used in architecture. The Monument to Yuri Gagarin, the first man to travel in space (), as well as the Monument to the Conquerors of Space on top of the Cosmonaut Museum in Moscow are made of titanium for the metal's attractive colour and association with rocketry.[143][144] The Guggenheim Museum Bilbao and the Cerritos Millennium Library were the first buildings in Europe and North America, respectively, to be sheathed in titanium panels.[145] Titanium sheathing was used in the Frederic C. Hamilton Building in Denver, Colorado.[146]
 
 Because of titanium's superior strength and light weight relative to other metals (steel, stainless steel, and aluminium), and because of recent advances in metalworking techniques, its use has become more widespread in the manufacture of firearms. Primary uses include pistol frames and revolver cylinders. For the same reasons, it is used in the body of laptop computers (for example, in Apple's PowerBook line).[147]
 
@@ -203,7 +201,7 @@ Some upmarket lightweight and corrosion-resistant tools, such as shovels and fla
 
 Jewelry
 
-Anodized_titanium_table.jpg Because of its durability, titanium has become more popular for designer jewelry (particularly, titanium rings).[148] Its inertness makes it a good choice for those with allergies or those who will be wearing the jewelry in environments such as swimming pools. Titanium is also alloyed with gold to produce an alloy that can be marketed as 24-karat gold because the 1% of alloyed Ti is insufficient to require a lesser mark. The resulting alloy is roughly the hardness of 14-karat gold and is more durable than pure 24-karat gold.[149]
+Because of its durability, titanium has become more popular for designer jewelry (particularly, titanium rings).[148] Its inertness makes it a good choice for those with allergies or those who will be wearing the jewelry in environments such as swimming pools. Titanium is also alloyed with gold to produce an alloy that can be marketed as 24-karat gold because the 1% of alloyed Ti is insufficient to require a lesser mark. The resulting alloy is roughly the hardness of 14-karat gold and is more durable than pure 24-karat gold.[149]
 
 Titanium's durability, light weight, and dent and corrosion resistance make it useful for watch cases.[150] Some artists work with titanium to produce sculptures, decorative objects and furniture.[151]
 
@@ -213,7 +211,7 @@ Titanium has a minor use in dedicated non-circulating coins and medals. In 1999,
 
 Medical
 
-Because titanium is biocompatible (non-toxic and not rejected by the body), it has many medical uses, including surgical implements and implants, such as hip balls and sockets (joint replacement) and dental implants that can stay in place for up to 20 years.[156] The titanium is often alloyed with about 4% aluminium or 6% Al and 4% vanadium.[157] Titanium_plaatje_voor_pols.jpg Titanium has the inherent ability to osseointegrate, enabling use in dental implants that can last for over 30 years. This property is also useful for orthopedic implant applications.[158] These benefit from titanium's lower modulus of elasticity (Young's modulus) to more closely match that of the bone that such devices are intended to repair. As a result, skeletal loads are more evenly shared between bone and implant, leading to a lower incidence of bone degradation due to stress shielding and periprosthetic bone fractures, which occur at the boundaries of orthopedic implants. However, titanium alloys' stiffness is still more than twice that of bone, so adjacent bone bears a greatly reduced load and may deteriorate.[159][160]
+Because titanium is biocompatible (non-toxic and not rejected by the body), it has many medical uses, including surgical implements and implants, such as hip balls and sockets (joint replacement) and dental implants that can stay in place for up to 20 years.[156] The titanium is often alloyed with about 4% aluminium or 6% Al and 4% vanadium.[157] Titanium has the inherent ability to osseointegrate, enabling use in dental implants that can last for over 30 years. This property is also useful for orthopedic implant applications.[158] These benefit from titanium's lower modulus of elasticity (Young's modulus) to more closely match that of the bone that such devices are intended to repair. As a result, skeletal loads are more evenly shared between bone and implant, leading to a lower incidence of bone degradation due to stress shielding and periprosthetic bone fractures, which occur at the boundaries of orthopedic implants. However, titanium alloys' stiffness is still more than twice that of bone, so adjacent bone bears a greatly reduced load and may deteriorate.[159][160]
 
 Because titanium is non-ferromagnetic, patients with titanium implants can be safely examined with magnetic resonance imaging (convenient for long-term implants). Preparing titanium for implantation in the body involves subjecting it to a high-temperature plasma arc which removes the surface atoms, exposing fresh titanium that is instantly oxidized.[161]
 
@@ -233,7 +231,7 @@ The fungal species _Marasmius oreades_ and _Hypholoma capnoides_ can bioconvert 
 
 Precautions
 
-Kopiva.JPG contain up to 80 parts per million of titanium.]] Titanium is non-toxic even in large doses and does not play any natural role inside the human body.[166] An estimated quantity of 0.8 milligrams of titanium is ingested by humans each day, but most passes through without being absorbed in the tissues.[167] It does, however, sometimes bio-accumulate in tissues that contain silica. One study indicates a possible connection between titanium and yellow nail syndrome.[168] An unknown mechanism in plants may use titanium to stimulate the production of carbohydrates and encourage growth. This may explain why most plants contain about 1 part per million (ppm) of titanium, food plants have about 2 ppm, and horsetail and nettle contain up to 80 ppm.[169]
+contain up to 80 parts per million of titanium.]] Titanium is non-toxic even in large doses and does not play any natural role inside the human body.[166] An estimated quantity of 0.8 milligrams of titanium is ingested by humans each day, but most passes through without being absorbed in the tissues.[167] It does, however, sometimes bio-accumulate in tissues that contain silica. One study indicates a possible connection between titanium and yellow nail syndrome.[168] An unknown mechanism in plants may use titanium to stimulate the production of carbohydrates and encourage growth. This may explain why most plants contain about 1 part per million (ppm) of titanium, food plants have about 2 ppm, and horsetail and nettle contain up to 80 ppm.[169]
 
 As a powder or in the form of metal shavings, titanium metal poses a significant fire hazard and, when heated in air, an explosion hazard.[170] Water and carbon dioxide are ineffective for extinguishing a titanium fire; Class D dry powder agents must be used instead.[171]
 

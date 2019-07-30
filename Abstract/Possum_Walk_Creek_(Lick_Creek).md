@@ -1,1 +1,0 @@
-POSSUM WALK CREEK is a stream in the U.S. states of Arkansas and Missouri.[1] It is a tributary of Lick Creek. The headwaters are in Baxter County, Arkansas along the east side of Arkansas Route 5. The stream flows northeast into Ozark County, Missouri to its confluence with Lick Creek just north of Missouri Route T about three miles north of the border.[2]

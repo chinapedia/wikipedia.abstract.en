@@ -1,1 +1,0 @@
-is a Japanese castle located in Suwa, central Nagano Prefecture, Japan. At the end of the Edo period, Takashima Castle was home to the Suwa clan, _daimyō_ of Takashima Domain. The castle is also known as or

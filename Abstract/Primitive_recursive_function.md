@@ -1,1 +1,0 @@
-In computability theory, a PRIMITIVE RECURSIVE FUNCTION is roughly speaking a function that can be computed by a computer program whose all loops are "for" loops (that is, the number of iterations of a loop can be upper bounded before entering the loop). Primitive recursive functions form a strict subset of those general recursive functions that are also total functions.

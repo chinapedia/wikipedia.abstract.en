@@ -1,1 +1,0 @@
-The URUGUA-Í PROVINCIAL PARK () is a Provincial park in the Misiones Province in the northeast of Argentina. It protects an area of Alto Paraná Atlantic forests in the upper basin of the Urugua-í River.

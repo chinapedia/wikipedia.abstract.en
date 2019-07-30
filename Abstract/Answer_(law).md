@@ -1,1 +1,0 @@
-In law, an ANSWER was originally a solemn assertion in opposition to someone or something, and thus generally any counter-statement or defense, a reply to a question or response, or objection, or a correct solution of a problem.[1]

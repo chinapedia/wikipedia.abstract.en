@@ -1,1 +1,0 @@
-_DOCOHAMMUS BENNIGSENI_ is a species of beetle in the family Cerambycidae. It was described by Per Olof Christopher Aurivillius in 1908. It is known from Tanzania, Ethiopia, Namibia, Kenya, and Somalia. It feeds on _Acalypha neptunica_.[1]

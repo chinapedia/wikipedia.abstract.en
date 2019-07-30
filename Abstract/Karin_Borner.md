@@ -1,1 +1,0 @@
-KARIN BORNER (born 21 September 1935) is a Swiss former competitive figure skater. She represented Switzerland at the 1956 Winter Olympics in Cortina d'Ampezzo.[1][2] She won the bronze medal at the 1956 Richmond Trophy.

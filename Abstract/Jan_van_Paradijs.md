@@ -1,1 +1,0 @@
-JOHANNES A. VAN PARADIJS (9 June 1946 – 2 November 1999) was a Dutch high-energy astrophysicist. He is best known for discovering the first optical afterglow of a gamma-ray burst, GRB 970228, in February 1997, together with two of his students,[1] and for establishing that gamma-ray bursts are extragalactic events.

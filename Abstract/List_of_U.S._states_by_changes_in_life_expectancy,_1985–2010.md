@@ -1,1 +1,0 @@
-This article ranks states of the United States sorted by changes in the life expectancy of their residents between 1985 and 2010. Changes in the life expectancy of men and women in each state are also sorted. States are also ranked for three risk factors controllable by the individual: obesity, smoking, and physical activity.

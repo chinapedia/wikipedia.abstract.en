@@ -1,1 +1,0 @@
-BEHROOZ REZVANI is an American entrepreneur and telecommunications engineer. He has co-founded public companies Ikanos Communications (bought by Qualcomm Atheros), Quantenna and Seyyer. He has a PhD in Quantum Devices from the Marquette University. He has more than 40 patents to his name in the US and his founded companies have won CES Innovations Awards three years in a row.

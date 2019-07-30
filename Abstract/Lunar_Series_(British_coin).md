@@ -1,1 +1,0 @@
-Chinese lunar coins}} LUNAR coins are British bullion coins issued by the Royal Mint in gold and silver since 2014. Each subsequent release commemorates Chinese New Year with an animal of the Chinese zodiac.

@@ -1,1 +1,0 @@
-GIL HAE-YEON () is a South Korean actress. She is best known to North American audiences for her performance in the film _In Her Place_, for which she garnered a Canadian Screen Award nomination for Best Supporting Actress at the 3rd Canadian Screen Awards in 2015[1] and won the Wildflower Film Award for Best Supporting Actress at the 3rd Wildflower Film Awards in 2016.[2]

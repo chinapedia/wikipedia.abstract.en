@@ -1,1 +1,0 @@
-UDAIRAMSAR is a town/village which is located 10 km south of Bikaner city. It lies in the Bikaner district of Rajasthan. It is well connected to Bikaner and to nearby places like Nokha, Mukam, Kolayat, Nagaur. National Camel Research Farm, Bikaner lies 10 km northeast of the Udairamsar. The Yadav caste is dominant and forms the majority in Udairamsar Village.

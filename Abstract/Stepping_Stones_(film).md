@@ -1,1 +1,0 @@
-_STEPPING STONES_ is a 1931 British musical film directed by Geoffrey Benstead. It was made at Isleworth Studios as a quota quickie.[1] It is a revue-style show featuring a number of music hall performers.

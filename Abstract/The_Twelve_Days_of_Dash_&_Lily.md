@@ -1,1 +1,0 @@
-_THE TWELVE DAYS OF DASH & LILY_ is a romantic young adult novel. It is a collaboration by authors David Levithan and Rachel Cohn and the sequel to their earlier book, _Dash & Lily's Book of Dares_. It was announced that this would be the first of two new collaborations.[1]

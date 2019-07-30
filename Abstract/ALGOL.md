@@ -1,1 +1,0 @@
-ALGOL (; short for "ALGORITHMIC LANGUAGE")[1] is a family of imperative computer programming languages, originally developed in the mid-1950s, which greatly influenced many other languages and was the standard method for algorithm description used by the ACM in textbooks and academic sources for more than thirty years.[2]

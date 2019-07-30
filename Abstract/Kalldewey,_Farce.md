@@ -1,1 +1,0 @@
-_KALLDEWEY, FARCE_ is a 1981 play by the German writer Botho Strauß. It follows a couple, Lynn and Hans, who are mysteriously unable to break up, are visited by an unknown man called Kalldewey, and go through a peculiar form of therapy.

@@ -1,1 +1,0 @@
-NOOR MUHAMMAD ALLA-RAKHA DEKHAIYA (), better known by his pen name NAZIR DEKHAIYA (), was a Gujarati ghazal poet from Gujarat, India. His ghazal collections include _Tushar_ (1962), _Nazirni Ghazalo_ (part 1-2) and _Soona Sadan_ (2006).

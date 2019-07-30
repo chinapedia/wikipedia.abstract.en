@@ -1,1 +1,0 @@
-ANDRÉ LEMAIRE (born 1942) is a French epigrapher, historian and philologist. He is Director of Studies at the École pratique des hautes études, where he teaches Hebraic and Aramean philology and epigraphy. He specializes in West-Semitic old civilization and the origins of monotheism. He is a corresponding member of the Académie des Inscriptions et Belles-Lettres.

@@ -1,1 +1,0 @@
-Barnett_Samuel_Marks_photograph.tif BARNETT SAMUEL MARKS (Cardiff 1827–London 1916) R.C.A. (Royal Cambrian Academician) was a Welsh-Jewish portrait painter who was also noted for his social realism paintings.

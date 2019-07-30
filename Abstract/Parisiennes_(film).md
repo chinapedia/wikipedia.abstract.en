@@ -1,1 +1,0 @@
-_PARISIENNES_ or _THE DOCTOR'S WOMEN_ (Swedish: _PARISISKOR_, German: _DR. MONNIER UND DIE FRAUEN_) is a 1928 German-Swedish silent film directed by Gustaf Molander and starring Margit Manstad, Ruth Weyher and Fred Louis Lerch.[1]

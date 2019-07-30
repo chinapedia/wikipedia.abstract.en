@@ -9,7 +9,7 @@ Standard weights and measures were developed by the Indus Valley Civilization.[3
 
 18th century attempts
 
-Maudslay_screw-cutting_lathes_of_circa_1797_and_1800.png's famous early screw-cutting lathes of circa 1797 and 1800.]]
+'s famous early screw-cutting lathes of circa 1797 and 1800.]]
 
 The implementation of standards in industry and commerce became highly important with the onset of the Industrial Revolution and the need for high-precision machine tools and interchangeable parts.
 
@@ -21,7 +21,7 @@ National standard
 
 Maudslay's work, as well as the contributions of other engineers, accomplished a modest amount of industry standardization; some companies' in-house standards spread a bit within their industries.
 
-JFIScrewThread300.png Joseph Whitworth's screw thread measurements were adopted as the first (unofficial) national standard by companies around the country in 1841. It came to be known as the British Standard Whitworth, and was widely adopted in other countries.[11][12]
+Joseph Whitworth's screw thread measurements were adopted as the first (unofficial) national standard by companies around the country in 1841. It came to be known as the British Standard Whitworth, and was widely adopted in other countries.[11][12]
 
 This new standard specified a 55° thread angle and a thread depth of 0.640327_p_ and a radius of 0.137329_p_, where _p_ is the pitch. The thread pitch increased with diameter in steps specified on a chart. An example of the use of the Whitworth thread is the Royal Navy's Crimean War gunboats. These were the first instance of "mass-production" techniques being applied to marine engineering.[13]
 
@@ -43,11 +43,11 @@ The first modern International Organization (Intergovernmental Organization) the
 
 Parallely, by the mid to late 19th century, efforts were being made to standardize electrical measurement. Lord Kelvin was an important figure in this process, introducing accurate methods and apparatus for measuring electricity. In 1857, he introduced a series of effective instruments, including the quadrant electrometer, which cover the entire field of electrostatic measurement. He invented the current balance, also known as the _Kelvin balance_ or _Ampere balance_ (_SiC_), for the precise specification of the ampere, the standard unit of electric current.[20]
 
-crompton.jpg drew up the International Electrotechnical Commission, in 1906.]] Another important figure was R. E. B. Crompton, who became concerned by the large range of different standards and systems used by electrical engineering companies and scientists in the early 20th century. Many companies had entered the market in the 1890s and all chose their own settings for voltage, frequency, current and even the symbols used on circuit diagrams. Adjacent buildings would have totally incompatible electrical systems simply because they had been fitted out by different companies. Crompton could see the lack of efficiency in this system and began to consider proposals for an international standard for electric engineering.[21]
+drew up the International Electrotechnical Commission, in 1906.]] Another important figure was R. E. B. Crompton, who became concerned by the large range of different standards and systems used by electrical engineering companies and scientists in the early 20th century. Many companies had entered the market in the 1890s and all chose their own settings for voltage, frequency, current and even the symbols used on circuit diagrams. Adjacent buildings would have totally incompatible electrical systems simply because they had been fitted out by different companies. Crompton could see the lack of efficiency in this system and began to consider proposals for an international standard for electric engineering.[21]
 
 In 1904, Crompton represented Britain at the International Electrical Congress, held in connection with Louisiana Purchase Exposition in Saint Louis as part of a delegation by the Institute of Electrical Engineers. He presented a paper on standardisation, which was so well received that he was asked to look into the formation of a commission to oversee the process.[22] By 1906 his work was complete and he drew up a permanent constitution for the International Electrotechnical Commission.[23] The body held its first meeting that year in London, with representatives from 14 countries. In honour of his contribution to electrical standardisation, Lord Kelvin was elected as the body's first President.[24]
 
-Memory_plaque_of_founding_ISA_in_Prague_cropped.jpg.]] The International Federation of the National Standardizing Associations (ISA) was founded in 1926 with a broader remit to enhance international cooperation for all technical standards and specifications. The body was suspended in 1942 during World War II.
+.]] The International Federation of the National Standardizing Associations (ISA) was founded in 1926 with a broader remit to enhance international cooperation for all technical standards and specifications. The body was suspended in 1942 during World War II.
 
 After the war, ISA was approached by the recently formed United Nations Standards Coordinating Committee (UNSCC) with a proposal to form a new global standards body. In October 1946, ISA and UNSCC delegates from 25 countries met in London and agreed to join forces to create the new International Organization for Standardization (ISO); the new organization officially began operations in February 1947.[25]
 

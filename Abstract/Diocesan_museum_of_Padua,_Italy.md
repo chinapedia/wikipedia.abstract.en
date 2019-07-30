@@ -1,1 +1,0 @@
-The DIOCESAN MUSEUM OF PADUA was founded in 2000 in the bishop's residence which was constructed in the 15th century, but which has a foundation dating from the beginning of the 14th century. The building, close to the cathedral in the _Piazza del Duomo_, can be found in the historic center of the city which is the capital of the comune of Padua.

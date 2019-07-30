@@ -1,1 +1,0 @@
-HENRY FORD (July 30, 1863 – April 7, 1947) was an American industrialist and a business magnate, the founder of the Ford Motor Company, and the sponsor of the development of the assembly line technique of mass production.

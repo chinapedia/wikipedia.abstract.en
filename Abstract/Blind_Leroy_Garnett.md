@@ -1,1 +1,0 @@
-LEROY ROSCOE GARNETT, known professionally as BLIND LEROY GARNETT (August 6, 1897 – January 3, 1933)[1] was an American boogie-woogie and ragtime pianist and songwriter.[2] His two solo recorded compositions were "Louisiana Glide" and "Chain 'Em Down", although scant details of his life and career are known.

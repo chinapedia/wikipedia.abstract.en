@@ -1,1 +1,0 @@
-A POST-OROGENIC COLLAPSE is the loss of height and lateral spread out of mass of an orogen as consequence of the cessation or overcoming of the tectonic forces that formed the orogeny. It has been argued that extension during orogenic collapse is a more effective mechanism of lowering the mountains than erosion.[1]

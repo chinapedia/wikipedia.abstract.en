@@ -1,1 +1,0 @@
-DARRYL WEBB (born January 16, 1988) is an American former professional basketball player. Webb played for the IUP Crimson Hawks. He also played professionally in Germany, the Netherlands, Japan and Switzerland.[1]

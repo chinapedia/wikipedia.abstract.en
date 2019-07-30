@@ -1,1 +1,0 @@
-ANKHI MUKHERJEE is an academic specialising in Victorian and Modern English literature, critical theory and postcolonial and world literature. In 2015, she was appointed a Professor of English and World Literatures by the University of Oxford.

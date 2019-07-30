@@ -1,1 +1,0 @@
-KATAI YEERLANBIEKE (born July 16, 1990) is a Chinese freestyle wrestler. He competed in the men's freestyle 65 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Ganzorigiin Mandakhnaran.[1][2]

@@ -1,1 +1,0 @@
-YES WE CAN! 我们一定行 . It stars Romeo Tan, Rebecca Lim, Xu Bin, Sora Ma,Chen Liping, Chen Hanwei, Eelyn Kok and Yao Wenlong as the main casts of the series. The show aired at 9pm on weekdays and had a repeat telecast at 8am the following day. It is a Lunar New Year drama for 2014.

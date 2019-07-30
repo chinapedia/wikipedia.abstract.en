@@ -1,1 +1,0 @@
-Gerald Gardner}} GERALD BROSSEAU GARDNER (1884–1964), also known by the craft name SCIRE, was an English Wiccan, as well as an author and an amateur anthropologist and archaeologist. He was instrumental in bringing the Contemporary Pagan religion of Wicca to public attention, writing some of its definitive religious texts and founding the tradition of Gardnerian Wicca.

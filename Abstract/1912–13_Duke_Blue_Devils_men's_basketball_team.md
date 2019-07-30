@@ -1,1 +1,0 @@
-The 1912–13 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1912–13 men's college basketball season. The head coach was Joseph Brinn, coaching the Blue Devils his first season. The team finished with an overall record of 11–8.[1]

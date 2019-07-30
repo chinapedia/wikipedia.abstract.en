@@ -1,1 +1,0 @@
-The PL TYPE CARRIAGES were a series of 141 wooden passenger carriages used on the railways of Victoria, Australia. They consisted of the first class APL, second class BPL and combination second and guard's van, BCPL's.

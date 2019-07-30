@@ -1,1 +1,0 @@
-RUSH BLODGET LINCOLN JR. was an American Major general in the United States Army. After his retirement from the Army, Lincoln served as general manager of the Massachusetts Bay Transportation Authority from 1965 to 1967.

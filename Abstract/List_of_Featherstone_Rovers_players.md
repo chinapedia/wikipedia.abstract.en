@@ -1,1 +1,0 @@
-FEATHERSTONE ROVERS are an English rugby league club who have had numerous notable players (1,051 (excludes pre-1921–22 season players) as of 31 September 2016) throughout their history, each player of the rugby league era has been allocated a sequential heritage number in order of their appearance by Featherstone Rovers.[1][2][3][4][5]

@@ -1,1 +1,0 @@
-In physics, SPACETIME is any mathematical model that fuses the three dimensions of space and the one dimension of time into a single four-dimensional continuum. Spacetime diagrams can be used to visualize relativistic effects such as why different observers perceive _where_ and _when_ events occur differently.

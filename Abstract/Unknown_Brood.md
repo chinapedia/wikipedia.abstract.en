@@ -1,1 +1,0 @@
-UNKNOWN BROOD is a Dutch documentary, directed by Dennis Alink. The film depicts the life of painter and rock-'n-roll musician Herman Brood and premiered at the IDFA in Amsterdam. The film was nominated for Best Dutch Documentary and has been released in cinemas by distributor Amstel Film.

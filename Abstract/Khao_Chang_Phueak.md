@@ -1,1 +1,0 @@
-(Chang_Puak_mountain)_Karnchanaburi,Thailand.jpg

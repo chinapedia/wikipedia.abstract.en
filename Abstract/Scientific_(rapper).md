@@ -1,1 +1,0 @@
-SAMUEL SONNYBOY TUBMAN (born March 3), better known by his stage name SCIENTIFIC, is a Ghanaian-based Liberian rapper and songwriter.[1] He released the Quincy B- assisted single "Shawty" in October 2014.[2] Between 2014 and 2016, he won Best Hip Hop Artist at the Liberian Music Awards.[3]

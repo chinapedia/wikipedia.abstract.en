@@ -1,1 +1,0 @@
-DIAMOND ENTERTAINMENT CORPORATION (formerly TRANS-ATLANTIC VIDEO and BURGUNDY DIAMOND ENTERTAINMENT COMPANY), doing business as E-DMEC,[1] is an American home video distributor from Walnut, California.

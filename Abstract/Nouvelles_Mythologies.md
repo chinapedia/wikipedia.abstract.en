@@ -1,1 +1,0 @@
-_NOUVELLES MYTHOLOGIES_ is a collection of 57 texts written by authors, journalists and editorialists under the direction of Jérôme Garcin and published in 2007 at Éditions du Seuil to celebrate the 50th anniversary of the publication of the essay _Mythologies_ by Roland Barthes.

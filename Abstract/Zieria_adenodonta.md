@@ -1,1 +1,0 @@
-_ZIERIA ADENODONTA_, commonly known as the WOLLUMBIN ZIERIA, is a plant in the citrus family Rutaceae and is endemic to eastern Australia. It is a dense, bushy shrub with leaves composed of three leaflets which are warty on the upper surface. In winter and early spring it has groups of five to eight flowers, each with four white petals, the groups usually shorter than the leaves.

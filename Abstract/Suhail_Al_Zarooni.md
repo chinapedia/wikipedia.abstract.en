@@ -1,1 +1,0 @@
-SUHAIL MOHAMMAD AL ZAROONI (; born November 16, 1968) is an Emirati businessman and collector based in Dubai.[1][2][3] Al Zarooni is best known for holding a _Guinness World Record_ twice for the years 2002 and 2003 for his collection of over 20,000 model cars.[4]

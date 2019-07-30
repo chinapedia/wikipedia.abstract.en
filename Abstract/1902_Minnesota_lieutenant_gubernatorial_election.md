@@ -1,1 +1,0 @@
-The 1902 MINNESOTA LIEUTENANT GUBERNATORIAL ELECTION took place on November 4, 1902. Republican Party of Minnesota candidate Ray W. Jones of the Republican Party of Minnesota defeated Minnesota Democratic Party challenger Robert A. Smith.

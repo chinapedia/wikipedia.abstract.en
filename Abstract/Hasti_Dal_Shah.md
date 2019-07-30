@@ -1,1 +1,0 @@
-HASTI DAL SHAH or HASTIDAL SHAH was an ancient warrior at Anglo-Nepalese war from the family of Shah Dynasty of Gorkha. He was called upon as an able commander in the Almora Front during the Anglo-Nepalese war. His death caused the ultimate fall of Gorkha forces in Almora.

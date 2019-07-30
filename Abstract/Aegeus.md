@@ -1,1 +1,0 @@
-Hippolyte_Flandrin_-_Theseus_Recognized_by_his_Father_-_1832.jpg In Greek mythology, AEGEUS (; ) was an archaic figure in the founding myth of Athens. The "goat-man" who gave his name to the Aegean Sea was, next to Poseidon, the father of Theseus, the founder of Athenian institutions and one of the kings of Athens.

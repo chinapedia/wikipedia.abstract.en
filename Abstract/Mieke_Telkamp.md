@@ -1,1 +1,0 @@
-MIEKE TELKAMP (; 14 June 1934 – 20 October 2016) was a Dutch singer.[1] Her career spanned over 50 years, both as a singer and a TV personality.[2] Telkamp's most popular song was the 1971 Dutch version of _Amazing Grace_, which sold over 1 million copies.[3]

@@ -1,1 +1,0 @@
-SYNTHETIC POLYMERS are human-made polymers. From the utility point of view they can be classified into three main categories: therms, elastomers and synthetic fibers. They are found commonly in a variety of consumer products such as money, glue, etc.

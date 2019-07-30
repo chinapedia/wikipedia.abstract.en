@@ -1,1 +1,0 @@
-HARJEEV KANDHARI (born 9 April 1975)[1] is the Founder and CEO of the tyre manufacturing company Zenises, the Founder and Chairman of the Zenises Foundation and the Non-Executive Chairman of Walpole Capital.[2]

@@ -1,1 +1,0 @@
-GRAHAM CHARLES MACKINNON CMG ED (10 December 1916 – 27 June 1992) was an Australian politician who was a Liberal Party member of the Legislative Council of Western Australia from 1956 to 1986. He served as a minister in the governments of David Brand and Charles Court.

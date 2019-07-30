@@ -1,1 +1,0 @@
-LASANTHI MADUSHANI (born 12 September 1987) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against the Netherlands on 7 October 2010.[2]

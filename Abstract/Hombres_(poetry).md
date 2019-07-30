@@ -1,1 +1,0 @@
-_HOMBRES_ is a collection of erotic poetry by Paul Verlaine written sometime between 1887 and 1891, with the exception of "Dizain ingénue" and "Le Sonnet du trou du cul". The collection was originally hand-written and distributed by Verlaine, himself. _Hombres_ includes "The Sonnet to an Asshole" ("Le Sonnet du trou du cul"), an erotic poem co-written by Arthur Rimbaud in 1871.

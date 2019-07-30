@@ -1,1 +1,0 @@
-The RCA CORPORATION was a major American electronics company, which was founded as the RADIO CORPORATION OF AMERICA in 1919. It was initially a wholly owned subsidiary of General Electric (GE); however, in 1932, RCA became an independent company after GE was required to divest its ownership as part of the settlement of a government antitrust suit.

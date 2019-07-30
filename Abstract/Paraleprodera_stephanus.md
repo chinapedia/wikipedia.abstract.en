@@ -1,1 +1,0 @@
-_PARALEPRODERA STEPHANUS_ is a species of beetle in the family Cerambycidae. It was described by White in 1858, originally under the genus _Leprodera_. It is known from India, China, Vietnam, Laos, Bhutan, and Nepal.[1]

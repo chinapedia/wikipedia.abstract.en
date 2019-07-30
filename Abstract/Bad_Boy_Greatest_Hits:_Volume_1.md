@@ -1,1 +1,0 @@
-_BAD BOY GREATEST HITS: VOLUME ONE_ is the first compilation album released from the Bad Boy Entertainment label featuring various hits from artists such as Puff Daddy, Mase, Faith Evans, Craig Mack, Total, 112, The LOX, and The Notorious B.I.G. The album also included "Too Young For Me" performed by Bad Boy R&B newcomer, Jerome Childers.

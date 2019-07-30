@@ -1,1 +1,0 @@
-LAKSHMANA (IAST: Lakṣmaṇa, r. c. 950-982 CE) was an Indian king who established the Naddula Chahamana dynasty. A son of the Shakambhari Chahamana king Vakpatiraja I, Lakshmana carved out a principality around Naddula (present-day Nadol in Rajasthan).

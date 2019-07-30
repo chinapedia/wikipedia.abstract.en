@@ -1,1 +1,0 @@
-Julia_Moller_el_18_febrero_2014.jpg

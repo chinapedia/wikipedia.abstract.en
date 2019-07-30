@@ -1,1 +1,0 @@
-Mohawks_Kahnawake_1869.jpg MOHAWKS OF KAHNAWÁ:KE are a Mohawk First Nation in Quebec, Canada. In 2016 the band has a registered population of 10,946 members. Its main reserve is Kahnawake 14 located near Montreal. It also shares the uninhabited reserve of Doncaster 17 with the Mohawks of Kanesatake for hunting and fishing. The band is governed by the MOHAWK COUNCIL OF KAHNAWÁ:KE.

@@ -1,4 +1,4 @@
-Slovenia's_national_anthem,_performed_by_the_United_States_Navy_Band.oga | image_map = EU-Slovenia.svg | map_caption = | image_map2 = Slovenia - Location Map (2013) - SVN - UNOCHA.svg | capital = Ljubljana | coordinates = | largest_city = capital | official_languages = Slovene | ethnic_groups =
+| image_map = EU-Slovenia.svg | map_caption = | image_map2 = Slovenia - Location Map (2013) - SVN - UNOCHA.svg | capital = Ljubljana | coordinates = | largest_city = capital | official_languages = Slovene | ethnic_groups =
 Unspecified
 
 }}
@@ -44,23 +44,23 @@ Prehistory to Slavic settlement
 
 Prehistory
 
-Flûte_paléolithique_(musée_national_de_Slovénie,_Ljubljana)_(9420310527).jpg, possibly a flute, from Divje Babe]] Present-day Slovenia has been inhabited since prehistoric times. There is evidence of human habitation from around 250,000 years ago.[52] A pierced cave bear bone, dating from 43100 ± 700 BP, found in 1995 in Divje Babe cave near Cerkno, is considered a kind of flute, and possibly the oldest musical instrument discovered in the world.[53] In the 1920s and 1930s, artifacts belonging to the Cro-Magnon, such as pierced bones, bone points, and a needle were found by archaeologist Srečko Brodar in Potok Cave.[54][55]
+, possibly a flute, from Divje Babe]] Present-day Slovenia has been inhabited since prehistoric times. There is evidence of human habitation from around 250,000 years ago.[52] A pierced cave bear bone, dating from 43100 ± 700 BP, found in 1995 in Divje Babe cave near Cerkno, is considered a kind of flute, and possibly the oldest musical instrument discovered in the world.[53] In the 1920s and 1930s, artifacts belonging to the Cro-Magnon, such as pierced bones, bone points, and a needle were found by archaeologist Srečko Brodar in Potok Cave.[54][55]
 
 In 2002, remains of pile dwellings over 4,500 years old were discovered in the Ljubljana Marshes, now protected as a UNESCO World Heritage Site, along with the Ljubljana Marshes Wooden Wheel, the oldest wooden wheel in the world.[56] It shows that wooden wheels appeared almost simultaneously in Mesopotamia and Europe.[57] In the transition period between the Bronze age to the Iron age, the Urnfield culture flourished. Archaeological remains dating from the Hallstatt period have been found, particularly in southeastern Slovenia, among them a number of situlas in Novo Mesto, the "Town of Situlas".[58] In the Iron Age, present-day Slovenia was inhabited by Illyrian and Celtic tribes until the 1st century BC.
 
 Roman era
 
-Emona_v_Ljubljani_(6).jpg's south wall (reconstruction) in present-day Ljubljana]] The area that is present-day Slovenia was in Roman times shared between _Venetia et Histria_ (region X of Roman Italia in the classification of Augustus) and the provinces Pannonia and Noricum. The Romans established posts at Emona (Ljubljana), Poetovio (Ptuj), and Celeia (Celje); and constructed trade and military roads that ran across Slovene territory from Italy to Pannonia. In the 5th and 6th centuries, the area was subject to invasions by the Huns and Germanic tribes during their incursions into Italy. A part of the inner state was protected with a defensive line of towers and walls called _Claustra Alpium Iuliarum_. A crucial battle between Theodosius I and Eugenius took place in the Vipava Valley in 394.
+'s south wall (reconstruction) in present-day Ljubljana]] The area that is present-day Slovenia was in Roman times shared between _Venetia et Histria_ (region X of Roman Italia in the classification of Augustus) and the provinces Pannonia and Noricum. The Romans established posts at Emona (Ljubljana), Poetovio (Ptuj), and Celeia (Celje); and constructed trade and military roads that ran across Slovene territory from Italy to Pannonia. In the 5th and 6th centuries, the area was subject to invasions by the Huns and Germanic tribes during their incursions into Italy. A part of the inner state was protected with a defensive line of towers and walls called _Claustra Alpium Iuliarum_. A crucial battle between Theodosius I and Eugenius took place in the Vipava Valley in 394.
 
 Slavic settlement
 
-The Slavic tribes migrated to the Alpine area after the westward departure of the Lombards (the last Germanic tribe) in 568, and under pressure from Avars established a Slavic settlement in the Eastern Alps. From 623 to 624 or possibly 626 onwards, King Samo united the Alpine and Western Slavs against the Avars and Germanic peoples and established what is referred to as Samo's Kingdom. After its disintegration following Samo's death in 658 or 659, the ancestors of the Slovenes located in present-day Carinthia formed the independent duchy of Carantania,[59] and Carniola, later duchy Carniola. Other parts of present-day Slovenia were again ruled by Avars before Charlemagne's victory over them in 803. Klagenfurt_Landhaus_Großer_Wappensaal_Fürstenstein_19072006_6295.jpg, symbol of the Duchy of Carantania]]
+The Slavic tribes migrated to the Alpine area after the westward departure of the Lombards (the last Germanic tribe) in 568, and under pressure from Avars established a Slavic settlement in the Eastern Alps. From 623 to 624 or possibly 626 onwards, King Samo united the Alpine and Western Slavs against the Avars and Germanic peoples and established what is referred to as Samo's Kingdom. After its disintegration following Samo's death in 658 or 659, the ancestors of the Slovenes located in present-day Carinthia formed the independent duchy of Carantania,[59] and Carniola, later duchy Carniola. Other parts of present-day Slovenia were again ruled by Avars before Charlemagne's victory over them in 803. , symbol of the Duchy of Carantania]]
 
 Middle Ages
 
 The Carantanians, one of the ancestral groups of the modern Slovenes, particularly the Carinthian Slovenes, were the first Slavic people to accept Christianity. They were mostly Christianized by Irish missionaries, among them Modestus, known as the "Apostle of Carantanians". This process, together with the Christianization of the Bavarians, was later described in the memorandum known as the Conversio Bagoariorum et Carantanorum, which is thought to have overemphasized the role of the Church of Salzburg in the Christianization process over similar efforts of the Patriarchate of Aquileia.
 
-Kaernten_herzogeinsetzung.jpg in the Slovene language until 1414.]]
+in the Slovene language until 1414.]]
 
 In the mid-8th century, Carantania became a vassal duchy under the rule of the Bavarians, who began spreading Christianity. Three decades later, the Carantanians were incorporated, together with the Bavarians, into the Carolingian Empire. During the same period Carniola, too, came under the Franks, and was Christianised from Aquileia. Following the anti-Frankish rebellion of Liudewit at the beginning of the 9th century, the Franks removed the Carantanian princes, replacing them with their own border dukes. Consequently, the Frankish feudal system reached the Slovene territory.
 
@@ -70,7 +70,7 @@ By the 11th century, the Germanization of what is now Lower Austria, effectively
 
 In the 14th century, most of the territory of present-day Slovenia was taken over by the Habsburgs, the Hungarian clan Záh administering the territories connecting Slovenia with Slovakia and Moravia was exterminated in 1330 and the Slovenes permanently lost the connection with their Slovak kinsmen. The counts of Celje, a feudal family from this area who in 1436 acquired the title of state princes, were Habsburgs' powerful competitors for some time. This large dynasty, important at a European political level, had its seat in Slovene territory but died out in 1456. Its numerous large estates subsequently became the property of the Habsburgs, who retained control of the area right up until the beginning of the 20th century. Patria del Friuli ruled present western Slovenia until Venetian takeover in 1420.
 
-Boj_s_Turki-Valvasor.jpg in present-day Slovenia during the Great Turkish War.]] At the end of the Middle Ages, the Slovene Lands suffered a serious economic and demographic setback because of the Turkish raids. In 1515, a peasant revolt spread across nearly the whole Slovene territory. In 1572 and 1573 the Croatian-Slovenian peasant revolt wrought havoc throughout the wider region. Such uprisings, which often met with bloody defeats, continued throughout the 17th century.[61]
+in present-day Slovenia during the Great Turkish War.]] At the end of the Middle Ages, the Slovene Lands suffered a serious economic and demographic setback because of the Turkish raids. In 1515, a peasant revolt spread across nearly the whole Slovene territory. In 1572 and 1573 the Croatian-Slovenian peasant revolt wrought havoc throughout the wider region. Such uprisings, which often met with bloody defeats, continued throughout the 17th century.[61]
 
 Early modern period
 
@@ -82,17 +82,15 @@ The 19th century also saw a revival of culture in the Slovene language, accompan
 
 World War I
 
-Eingebaute_Mannschaftsunterstände_am_Monte_Sabotino.jpg took place mostly in rugged mountainous areas above the Soča River.]] World War I brought heavy casualties to Slovenes, particularly the twelve Battles of the Isonzo, which took place in present-day Slovenia's western border area with Italy. Hundreds of thousands of Slovene conscripts were drafted into the Austro-Hungarian Army, and over 30,000 of them died. Hundreds of thousands of Slovenes from Gorizia and Gradisca were resettled in refugee camps in Italy and Austria. While the refugees in Austria received decent treatment, the Slovene refugees in Italian camps were treated as state enemies, and several thousand died of malnutrition and diseases between 1915 and 1918.[66] Entire areas of the Slovene Littoral were destroyed.
+took place mostly in rugged mountainous areas above the Soča River.]] World War I brought heavy casualties to Slovenes, particularly the twelve Battles of the Isonzo, which took place in present-day Slovenia's western border area with Italy. Hundreds of thousands of Slovene conscripts were drafted into the Austro-Hungarian Army, and over 30,000 of them died. Hundreds of thousands of Slovenes from Gorizia and Gradisca were resettled in refugee camps in Italy and Austria. While the refugees in Austria received decent treatment, the Slovene refugees in Italian camps were treated as state enemies, and several thousand died of malnutrition and diseases between 1915 and 1918.[66] Entire areas of the Slovene Littoral were destroyed.
 
 The Treaty of Rapallo of 1920 left approximately 327,000 out of the total population of 1.3 million Slovenes in Italy.[67][68] After the fascists took power in Italy, they were subjected to a policy of violent Fascist Italianization. This caused the mass emigration of Slovenes, especially the middle class, from the Slovenian Littoral and Trieste to Yugoslavia and South America. Those who remained organized several connected networks of both passive and armed resistance. The best known was the militant anti-fascist organization TIGR, formed in 1927 in order to fight Fascist oppression of the Slovene and Croat populations in the Julian March.[69][70]
 
 Kingdom of Serbs, Croats, and Slovenes (later the Kingdom of Yugoslavia)
 
-KongressfallofAH.jpg in Ljubljana on 20 October 1918]]
+in Ljubljana on 20 October 1918]]
 
 The Slovene People's Party launched a movement for self-determination, demanding the creation of a semi-independent South Slavic state under Habsburg rule. The proposal was picked up by most Slovene parties, and a mass mobilization of Slovene civil society, known as the Declaration Movement, followed.[71] This demand was rejected by the Austrian political elites; but following the dissolution of the Austro-Hungarian Empire in the aftermath of the First World War, the National Council of Slovenes, Croats and Serbs took power in Zagreb on 6 October 1918. On 29 October, independence was declared by a national gathering in Ljubljana, and by the Croatian parliament, declaring the establishment of the new State of Slovenes, Croats, and Serbs.
-
-Treaty_of_Rapallo.png
 
 On 1 December 1918, the State of Slovenes, Croats and Serbs merged with Serbia, becoming part of the new Kingdom of Serbs, Croats, and Slovenes; in 1929 it was renamed the Kingdom of Yugoslavia. The main territory of Slovenia, being the most industrialized and westernized compared to other less developed parts of Yugoslavia, became the main center of industrial production: Compared to Serbia, for example, Slovenian industrial production was four times greater; and it was 22 times greater than in North Macedonia. The interwar period brought further industrialization in Slovenia, with rapid economic growth in the 1920s, followed by a relatively successful economic adjustment to the 1929 economic crisis and Great Depression.
 
@@ -110,11 +108,11 @@ Slovenia was the only present-day European nation that was trisected and complet
 | During World War II, Nazi Germany and Hungary annexed northern areas (brown and dark green areas, respectively), while Fascist Italy annexed the vertically hashed black area (solid black western part being annexed by Italy already with the Treaty of Rapallo). Some villages were incorporated into the Independent State of Croatia. After 1943, Germany took over the Italian occupational area, as well. |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Bundesarchiv_Bild_121-0721,_Marburg-Drau,_Adolf_Hitler.jpg and Martin Bormann visiting Maribor in April 1941.]] Axis forces invaded Yugoslavia in April 1941 and defeated the country in a few weeks. The southern part, including Ljubljana, was annexed to Italy, while the Nazis took over the northern and eastern parts of the country. The Nazis had a plan of ethnic cleansing of these areas,[73] and they resettled or expelled the local Slovene civilian population to the puppet states of Nedić's Serbia (7,500) and NDH (10,000). In addition, some 46,000 Slovenes were expelled to Germany, including children who were separated from their parents and allocated to German families.[74][75] At the same time, the ethnic Germans in the Gottschee enclave in the Italian annexation zone were resettled to the Nazi-controlled areas cleansed of their Slovene population.[76] Around 30,000 to 40,000 Slovene men were drafted to the German Army and sent to the Eastern front. The Slovene language was banned from education, and its use in public life was limited to the absolute minimum.[77]
+and Martin Bormann visiting Maribor in April 1941.]] Axis forces invaded Yugoslavia in April 1941 and defeated the country in a few weeks. The southern part, including Ljubljana, was annexed to Italy, while the Nazis took over the northern and eastern parts of the country. The Nazis had a plan of ethnic cleansing of these areas,[73] and they resettled or expelled the local Slovene civilian population to the puppet states of Nedić's Serbia (7,500) and NDH (10,000). In addition, some 46,000 Slovenes were expelled to Germany, including children who were separated from their parents and allocated to German families.[74][75] At the same time, the ethnic Germans in the Gottschee enclave in the Italian annexation zone were resettled to the Nazi-controlled areas cleansed of their Slovene population.[76] Around 30,000 to 40,000 Slovene men were drafted to the German Army and sent to the Eastern front. The Slovene language was banned from education, and its use in public life was limited to the absolute minimum.[77]
 
 In south-central Slovenia, annexed by Fascist Italy and renamed the Province of Ljubljana, the Slovenian National Liberation Front was organized in April 1941. Led by the Communist Party, it formed the Slovene Partisan units as part of the Yugoslav Partisans led by the Communist leader Josip Broz Tito.[78][79]
 
-Boji_za_Trst_in_Slovensko_primorje.jpg After the resistance started in summer 1941, Italian violence against the Slovene civilian population escalated, as well. The Italian authorities deported some 25,000 people to the concentration camps, which equaled 7.5% of the population of their occupation zone. The most infamous ones were Rab and Gonars. To counter the Communist-led insurgence, the Italians sponsored local anti-guerrilla units, formed mostly by the local conservative Catholic Slovene population that resented the revolutionary violence of the partisans. After the Italian armistice of September 1943, the Germans took over both the Province of Ljubljana and the Slovenian Littoral, incorporating them into what was known as the Operation Zone of Adriatic Coastal Region. They united the Slovene anti-Communist counter-insurgence into the Slovene Home Guard and appointed a puppet regime in the Province of Ljubljana. The anti-Nazi resistance however expanded, creating its own administrative structures as the basis for Slovene statehood within a new, federal and socialist Yugoslavia.[80][81]
+After the resistance started in summer 1941, Italian violence against the Slovene civilian population escalated, as well. The Italian authorities deported some 25,000 people to the concentration camps, which equaled 7.5% of the population of their occupation zone. The most infamous ones were Rab and Gonars. To counter the Communist-led insurgence, the Italians sponsored local anti-guerrilla units, formed mostly by the local conservative Catholic Slovene population that resented the revolutionary violence of the partisans. After the Italian armistice of September 1943, the Germans took over both the Province of Ljubljana and the Slovenian Littoral, incorporating them into what was known as the Operation Zone of Adriatic Coastal Region. They united the Slovene anti-Communist counter-insurgence into the Slovene Home Guard and appointed a puppet regime in the Province of Ljubljana. The anti-Nazi resistance however expanded, creating its own administrative structures as the basis for Slovene statehood within a new, federal and socialist Yugoslavia.[80][81]
 
 In 1945, Yugoslavia was liberated by the partisan resistance and soon became a socialist federation known as the People's Federal Republic of Yugoslavia. Slovenia joined the federation as a constituent republic, led by its own pro-Communist leadership.
 
@@ -122,11 +120,11 @@ Approximately 8% of the entire Slovene population died during World War II. The 
 
 Socialist period
 
-Locator_map_Slovenia_in_Yugoslavia.svg Following the re-establishment of Yugoslavia during World War II, Slovenia became part of Federal Yugoslavia. A socialist state was established, but because of the Tito–Stalin split in 1948, economic and personal freedoms were broader than in the Eastern Bloc countries. In 1947, the Slovene Littoral and the western half of Inner Carniola, which had been annexed by Italy after World War One, were annexed to Slovenia.
+Following the re-establishment of Yugoslavia during World War II, Slovenia became part of Federal Yugoslavia. A socialist state was established, but because of the Tito–Stalin split in 1948, economic and personal freedoms were broader than in the Eastern Bloc countries. In 1947, the Slovene Littoral and the western half of Inner Carniola, which had been annexed by Italy after World War One, were annexed to Slovenia.
 
 After the failure of forced collectivisation that was attempted from 1949–53, a policy of gradual economic liberalisation, known as workers self-management, was introduced under the advice and supervision of the Slovene Marxist theoretician and Communist leader Edvard Kardelj, the main ideologue of the Titoist path to socialism. Suspected opponents of this policy both from within and outside the Communist party were persecuted and thousands were sent to Goli otok.
 
-Nixontito19712.jpg led SFR Yugoslavia from 1944 to 1980; Pictured: Tito with the US president Richard Nixon in the White House, 1971]] The late 1950s saw a policy of liberalisation in the cultural sphere, as well, and limited border crossing into neighboring Italy and Austria was allowed again. Until the 1980s, Slovenia enjoyed relatively broad autonomy within the federation. In 1956, Josip Broz Tito, together with other leaders, founded the Non-Aligned Movement. Particularly in the 1950s, Slovenia's economy developed rapidly and was strongly industrialised. With further economic decentralisation of Yugoslavia in 1965–66, Slovenia's domestic product was 2.5 times the average of Yugoslav republics.
+led SFR Yugoslavia from 1944 to 1980; Pictured: Tito with the US president Richard Nixon in the White House, 1971]] The late 1950s saw a policy of liberalisation in the cultural sphere, as well, and limited border crossing into neighboring Italy and Austria was allowed again. Until the 1980s, Slovenia enjoyed relatively broad autonomy within the federation. In 1956, Josip Broz Tito, together with other leaders, founded the Non-Aligned Movement. Particularly in the 1950s, Slovenia's economy developed rapidly and was strongly industrialised. With further economic decentralisation of Yugoslavia in 1965–66, Slovenia's domestic product was 2.5 times the average of Yugoslav republics.
 
 Opposition to the regime was mostly limited to intellectual and literary circles, and became especially vocal after Tito's death in 1980, when the economic and political situation in Yugoslavia became very strained.[83] Political disputes around economic measures were echoed in the public sentiment, as many Slovenians felt they were being economically exploited, having to sustain an expensive and inefficient federal administration.
 
@@ -134,7 +132,7 @@ Slovenian Spring, democracy and independence
 
 In 1987 a group of intellectuals demanded Slovene independence in the 57th edition of the magazine _Nova revija_. Demands for democratisation and more Slovenian independence were sparked off. A mass democratic movement, coordinated by the Committee for the Defence of Human Rights, pushed the Communists in the direction of democratic reforms.
 
-In September 1989, numerous constitutional amendments were passed to introduce parliamentary democracy to Slovenia.[84][85] On 7 March 1990, the Slovenian Assembly changed the official name of the state to the "Republic of Slovenia".[86][87] In April 1990, the first democratic election in Slovenia took place, and the united opposition movement DEMOS led by Jože Pučnik emerged victorious. Teritorialci_so_z_armbrustom_zadeli_tank_v_križišču_pred_MMP_Rožna_Dolina..jpg, 1991]] The initial revolutionary events in Slovenia pre-dated the Revolutions of 1989 in Eastern Europe by almost a year, but went largely unnoticed by international observers. On 23 December 1990, more than 88% of the electorate voted for a sovereign and independent Slovenia.[88][89] On 25 June 1991, Slovenia became independent[90] through the passage of appropriate legal documents.[91] On 27 June in the early morning, the Yugoslav People's Army dispatched its forces to prevent further measures for the establishment of a new country, which led to the Ten-Day War.[92][93] On 7 July, the Brijuni Agreement was signed, implementing a truce and a three-month halt of the enforcement of Slovenia's independence.[94] At the end of the month, the last soldiers of the Yugoslav Army left Slovenia.
+In September 1989, numerous constitutional amendments were passed to introduce parliamentary democracy to Slovenia.[84][85] On 7 March 1990, the Slovenian Assembly changed the official name of the state to the "Republic of Slovenia".[86][87] In April 1990, the first democratic election in Slovenia took place, and the united opposition movement DEMOS led by Jože Pučnik emerged victorious. , 1991]] The initial revolutionary events in Slovenia pre-dated the Revolutions of 1989 in Eastern Europe by almost a year, but went largely unnoticed by international observers. On 23 December 1990, more than 88% of the electorate voted for a sovereign and independent Slovenia.[88][89] On 25 June 1991, Slovenia became independent[90] through the passage of appropriate legal documents.[91] On 27 June in the early morning, the Yugoslav People's Army dispatched its forces to prevent further measures for the establishment of a new country, which led to the Ten-Day War.[92][93] On 7 July, the Brijuni Agreement was signed, implementing a truce and a three-month halt of the enforcement of Slovenia's independence.[94] At the end of the month, the last soldiers of the Yugoslav Army left Slovenia.
 
 In December 1991, a new constitution was adopted,[95] followed in 1992 by the laws on denationalisation and privatization.[96] The members of the European Union recognised Slovenia as an independent state on 15 January 1992, and the United Nations accepted it as a member on 22 May 1992.[97]
 
@@ -145,7 +143,7 @@ The disillusionment with domestic socio-economic elites at municipal and nationa
 
 Geography
 
-General_map_of_slovenia.svg Triglav.jpg]] Slovenia is situated in Central and Southeastern Europe touching the Alps and bordering the Mediterranean. It lies between latitudes 45° and 47° N, and longitudes 13° and 17° E. The 15th meridian east almost corresponds to the middle line of the country in the direction west-east.[101] The Geometrical Center of the Republic of Slovenia is located at coordinates 46°07'11.8" N and 14°48'55.2" E.[102] It lies in Slivna in the Municipality of Litija.[103] Slovenia's highest peak is Triglav (); the country's average height above sea level is .
+]] Slovenia is situated in Central and Southeastern Europe touching the Alps and bordering the Mediterranean. It lies between latitudes 45° and 47° N, and longitudes 13° and 17° E. The 15th meridian east almost corresponds to the middle line of the country in the direction west-east.[101] The Geometrical Center of the Republic of Slovenia is located at coordinates 46°07'11.8" N and 14°48'55.2" E.[102] It lies in Slivna in the Municipality of Litija.[103] Slovenia's highest peak is Triglav (); the country's average height above sea level is .
 
 Four major European geographic regions meet in Slovenia: the Alps, the Dinarides, the Pannonian Plain, and the Mediterranean. Although on the shore of the Adriatic Sea near the Mediterranean Sea, most of Slovenia is in the Black Sea drainage basin. The Alps—including the Julian Alps, the Kamnik-Savinja Alps and the Karawank chain, as well as the Pohorje massif—dominate Northern Slovenia along its long border with Austria. Slovenia's Adriatic coastline stretches approximately [104] from Italy to Croatia.
 
@@ -155,11 +153,11 @@ Over half of the country () is covered by forests.[105] This makes Slovenia the 
 
 Geology
 
-Žlebiči.jpg feature on the Karst Plateau, as in many other karst areas of the world.]] Slovenia is in a rather active seismic zone because of its position on the small Adriatic Plate, which is squeezed between the Eurasian Plate to the north and the African Plate to the south and rotates counter-clockwise.[107] Thus the country is at the junction of three important geotectonic units: the Alps to the north, the Dinaric Alps to the south and the Pannonian Basin to the east.[108] Scientists have been able to identify 60 destructive earthquakes in the past. Additionally, a network of seismic stations is active throughout the country.[109] Many parts of Slovenia have a carbonate ground, and an extensive subterranean system has developed.
+feature on the Karst Plateau, as in many other karst areas of the world.]] Slovenia is in a rather active seismic zone because of its position on the small Adriatic Plate, which is squeezed between the Eurasian Plate to the north and the African Plate to the south and rotates counter-clockwise.[107] Thus the country is at the junction of three important geotectonic units: the Alps to the north, the Dinaric Alps to the south and the Pannonian Basin to the east.[108] Scientists have been able to identify 60 destructive earthquakes in the past. Additionally, a network of seismic stations is active throughout the country.[109] Many parts of Slovenia have a carbonate ground, and an extensive subterranean system has developed.
 
 Natural regions
 
-The first regionalisations of Slovenia were made by geographers Anton Melik (1935–1936) and Svetozar Ilešič (1968). The newer regionalisation by Ivan Gams divided Slovenia in the following macroregions:[110] Slovenian coast with cliffs|thumb
+The first regionalisations of Slovenia were made by geographers Anton Melik (1935–1936) and Svetozar Ilešič (1968). The newer regionalisation by Ivan Gams divided Slovenia in the following macroregions:[110]
 
 -   the Alps (_Alpe_)
 -   the subalpine landscapes (_predalpski svet_)
@@ -173,7 +171,7 @@ Protected areas of Slovenia include national parks, regional parks, and nature p
 
 Climate
 
-View_from_Mangart_MC.jpg (northwestern Slovenia), as seen from the top of Mangart in September 2007.]] Climate_types_Slovenia_1970-2000.JPG Slovenia is located in temperate latitudes. The climate is also influenced by the variety of relief, and the influence of the Alps and the Adriatic Sea. In the northeast, the continental climate type with greatest difference between winter and summer temperatures prevails. In the coastal region, there is sub-Mediterranean climate. The effect of the sea on the temperature rates is visible also up the Soča valley, while a severe Alpine climate is present in the high mountain regions. There is a strong interaction between these three climatic systems across most of the country.[114][115]
+(northwestern Slovenia), as seen from the top of Mangart in September 2007.]] Slovenia is located in temperate latitudes. The climate is also influenced by the variety of relief, and the influence of the Alps and the Adriatic Sea. In the northeast, the continental climate type with greatest difference between winter and summer temperatures prevails. In the coastal region, there is sub-Mediterranean climate. The effect of the sea on the temperature rates is visible also up the Soča valley, while a severe Alpine climate is present in the high mountain regions. There is a strong interaction between these three climatic systems across most of the country.[114][115]
 
 Precipitation, often coming from Bay of Genoa,[116] varies across the country as well, with over in some western regions and dropping down to in Prekmurje. Snow is quite frequent in winter and the record snow cover in Ljubljana was recorded in 1952 at .
 
@@ -181,17 +179,17 @@ Compared to Western Europe, Slovenia is not very windy, because it lies in the s
 
 Waters
 
-Triglav_National_Park_(7892861178).jpg River flows through Triglav National Park]] Lake_Bohinj_(9452094709).jpg, largest Slovenian lake, one of the two springs of the Sava River]] The territory of Slovenia mainly (, i.e. 81%) belongs to the Black Sea basin, and a smaller part (, i.e. 19%) belongs to the Adriatic Sea basin. These two parts are divided into smaller units in regard to their central rivers, the Mura River basin, the Drava River basin, the Sava River basin with Kolpa River basin, and the basin of the Adriatic rivers.[118] In comparison with other developed countries, water quality in Slovenia is considered to be among the highest in Europe. One of the reasons is undoubtedly that most of the rivers rise on the mountainous territory of Slovenia. But this does not mean that Slovenia has no problems with surface water and groundwater quality, especially in areas with intensive farming.[119]
+River flows through Triglav National Park]] , largest Slovenian lake, one of the two springs of the Sava River]] The territory of Slovenia mainly (, i.e. 81%) belongs to the Black Sea basin, and a smaller part (, i.e. 19%) belongs to the Adriatic Sea basin. These two parts are divided into smaller units in regard to their central rivers, the Mura River basin, the Drava River basin, the Sava River basin with Kolpa River basin, and the basin of the Adriatic rivers.[118] In comparison with other developed countries, water quality in Slovenia is considered to be among the highest in Europe. One of the reasons is undoubtedly that most of the rivers rise on the mountainous territory of Slovenia. But this does not mean that Slovenia has no problems with surface water and groundwater quality, especially in areas with intensive farming.[119]
 
 Biodiversity
 
-P_anguinus2.jpg can be found in Postojna cave and other caves in the country.]] Slovenia signed the Rio Convention on Biological Diversity on 13 June 1992 and became a party to the convention on 9 July 1996.[120] It subsequently produced a National Biodiversity Strategy and Action Plan, which was received by the convention on 30 May 2002.
+can be found in Postojna cave and other caves in the country.]] Slovenia signed the Rio Convention on Biological Diversity on 13 June 1992 and became a party to the convention on 9 July 1996.[120] It subsequently produced a National Biodiversity Strategy and Action Plan, which was received by the convention on 30 May 2002.
 
 Slovenia is distinguished by an exceptionally wide variety of habitats,[121] due to the contact of geological units and biogeographical regions, and due to human influences. Around 12.5% of the territory is protected with 35.5% in the Natura 2000 ecological network.[122] Despite this, because of pollution and environmental degradation, diversity has been in decline.
 
 Animals
 
-The biological diversity of the country is high, with 1% of the world's organisms on 0.004% of the Earth's surface area.[123] There are 75 mammal species, among them marmots, Alpine ibex, and chamois. There are numerous deer, roe deer, boar, and hares.[124] The edible dormouse is often found in the Slovenian beech forests. Trapping these animals is a long tradition and is a part of the Slovenian national identity.[125] Čebela_na_cvetu_marelice.jpg is native to Slovenia and is a subspecies of the western honey bee.]]
+The biological diversity of the country is high, with 1% of the world's organisms on 0.004% of the Earth's surface area.[123] There are 75 mammal species, among them marmots, Alpine ibex, and chamois. There are numerous deer, roe deer, boar, and hares.[124] The edible dormouse is often found in the Slovenian beech forests. Trapping these animals is a long tradition and is a part of the Slovenian national identity.[125] is native to Slovenia and is a subspecies of the western honey bee.]]
 
 Some important carnivores include the Eurasian lynx,[126][127] European wild cats, foxes (especially the red fox), and European jackal.[128] There are hedgehogs, martens, and snakes such as vipers and grass snakes. According to recent estimates, Slovenia has c. 40–60 wolves[129] and about 450 brown bears.[130][131]
 
@@ -199,7 +197,7 @@ Slovenia is home to an exceptionally diverse number of cave species, with a few 
 
 The only regular species of cetaceans found in the northern Adriatic sea is the bottlenose dolphin (_Tursiops truncatus_).[133]
 
-There are a wide variety of birds, such as the tawny owl, the long-eared owl, the eagle owl, hawks, and short-toed eagles. Other birds of prey have been recorded, as well as a growing number of ravens, crows and magpies migrating into Ljubljana and Maribor where they thrive.[134] Other birds include black and green woodpeckers and the white stork, which nests mainly in Prekmurje. Lipica_horses_(7198987762).jpg grazing]]
+There are a wide variety of birds, such as the tawny owl, the long-eared owl, the eagle owl, hawks, and short-toed eagles. Other birds of prey have been recorded, as well as a growing number of ravens, crows and magpies migrating into Ljubljana and Maribor where they thrive.[134] Other birds include black and green woodpeckers and the white stork, which nests mainly in Prekmurje. grazing]]
 
 There are 13 domestic animals native to Slovenia,[135] of eight species (hen, pig, dog, horse, sheep, goat, honey bee, and cattle).[136] Among these are the Karst Shepherd,[137] the Carniolan honeybee, and the Lipizzan horse.[138] They have been preserved ex situ and in situ.[139] The marble trout or marmorata (_Salmo marmoratus_) is an indigenous Slovenian fish.[140] Extensive breeding programmes have been introduced to repopulate the marble trout into lakes and streams invaded by non-indigenous species of trout. Slovenia is also home to the wels catfish.
 
@@ -218,7 +216,7 @@ Slovenia harbors many plants of ethnobotanically useful groups. Of 59 known spec
 
 Politics
 
-Presidential_Palace._Ljubljana.jpg in Ljubljana]] Borut_Pahor_2010.jpg]]
+in Ljubljana]] ]]
 
 Slovenia is a parliamentary democracy republic with a multi-party system. The head of state is the president, who is elected by popular vote and has an important integrative role.[146] The president is elected for five years and at maximum for two consecutive terms. He or she mainly has a representative role and is the commander-in-chief of the Slovenian armed forces.[147]
 
@@ -234,7 +232,7 @@ Judicial powers in Slovenia are executed by judges, who are elected by the Natio
 
 Military
 
-AS_AL_532_SLO.jpg of the Slovenian Army]] ASIV_Slovenia_19_(23929783333).jpg
+of the Slovenian Army]]
 
 The Slovenian Armed Forces provide military defence independently or within an alliance, in accordance with international agreements. Since conscription was abolished in 2003, it is organized as a fully professional standing army.[156] The Commander-in-Chief is the President of the Republic of Slovenia, while operational command is in the domain of the Chief of the General Staff of the Slovenian Armed Forces. In 2016, military spending was an estimated 0.91% of the country's GDP. Since joining NATO, the Slovenian Armed Forces have taken a more active part in supporting international peace. They have participated in peace support operations and humanitarian activities. Among others, Slovenian soldiers are a part of international forces serving in Bosnia and Herzegovina, Kosovo, and Afghanistan.[157]
 
@@ -243,13 +241,13 @@ Government
 
 Administrative divisions and traditional regions
 
-+-----------------------------------------------------------------------------+
-| Borders_of_the_Historical_Habsburgian_Lands_in_the_Republic_of_Slovenia.png |
-+-----------------------------------------------------------------------------+
-| 1 Slovene Littoral; CARNIOLA:                                               |
-| 2A Upper, 2B Inner, 2C Lower                                                |
-| 3 Carinthia; 4 Styria; 5 Prekmurje                                          |
-+-----------------------------------------------------------------------------+
++------------------------------------+
+|                                    |
++------------------------------------+
+| 1 Slovene Littoral; CARNIOLA:      |
+| 2A Upper, 2B Inner, 2C Lower       |
+| 3 Carinthia; 4 Styria; 5 Prekmurje |
++------------------------------------+
 
 : Traditional regions of Slovenia
 
@@ -265,8 +263,6 @@ Traditional regions and identities
 
 Traditional regions were based on the former Habsburg crown lands that included Carniola, Carinthia, Styria, and the Littoral. Stronger than with either the Carniola as a whole, or with Slovenia as the state, Slovenes historically tend to identify themselves with the traditional regions of Slovene Littoral, Prekmurje, and even traditional (sub)regions, such as Upper, Lower and, to a lesser extent, Inner Carniola.[160]
 
-Slovenia,_administrative_divisions_-_Nmbrs_(statistical_regions)_-_colored.svg
-
 The capital city Ljubljana was historically the administrative center of Carniola and belonged to Inner Carniola,[161] except for the Šentvid district, which was in Upper Carniola and also where the border between German-annexed territory and the Italian Province of Ljubljana was during the Second World War.[162]
 
 Statistical regions
@@ -279,11 +275,11 @@ The 12 _statistical regions_ have no administrative function and are subdivided 
 
 Economy
 
-Eurozone.svg (dark blue).]] Slovenia has a developed economy and is per capita the richest of the Slavic countries by nominal GDP,[164] and the second richest by GDP (PPP) behind the Czech Republic.[165] Slovenia was in the beginning of 2007 the first new member to introduce the euro as its currency, replacing the tolar. Since 2010, it has been member of the Organisation for Economic Co-operation and Development.[166][167] There is a big difference in prosperity between the various regions. The economically wealthiest regions are the Central Slovenia region which includes the capital Ljubljana and the western Slovenian regions, as Goriška and Coastal–Karst, while the least wealthy regions are the Mura, the Central Sava and the Littoral–Inner Carniola.[168]
+(dark blue).]] Slovenia has a developed economy and is per capita the richest of the Slavic countries by nominal GDP,[164] and the second richest by GDP (PPP) behind the Czech Republic.[165] Slovenia was in the beginning of 2007 the first new member to introduce the euro as its currency, replacing the tolar. Since 2010, it has been member of the Organisation for Economic Co-operation and Development.[166][167] There is a big difference in prosperity between the various regions. The economically wealthiest regions are the Central Slovenia region which includes the capital Ljubljana and the western Slovenian regions, as Goriška and Coastal–Karst, while the least wealthy regions are the Mura, the Central Sava and the Littoral–Inner Carniola.[168]
 
 Economic growth
 
-Loan_to_deposit_ratio_in_Slovenia_-_including_the_Boom_Period..png in Slovenia by years – including the 2005–2008 Boom Period.[169]]] In 2004–2006, the economy grew on average by nearly 5% a year in Slovenia; in 2007, it expanded by almost 7%. The growth surge was fuelled by debt, particularly among firms, and especially in construction. The financial crisis of 2007–2010 and European sovereign-debt crisis had a significant impact on the domestic economy.[170] The construction industry was severely hit in 2010 and 2011.[171] In 2009, Slovenian GDP per capita shrank by 8%, the biggest decline in the European Union after the Baltic countries and Finland. An increasing burden for the Slovenian economy has been its rapidly ageing population.[172]
+in Slovenia by years – including the 2005–2008 Boom Period.[169]]] In 2004–2006, the economy grew on average by nearly 5% a year in Slovenia; in 2007, it expanded by almost 7%. The growth surge was fuelled by debt, particularly among firms, and especially in construction. The financial crisis of 2007–2010 and European sovereign-debt crisis had a significant impact on the domestic economy.[170] The construction industry was severely hit in 2010 and 2011.[171] In 2009, Slovenian GDP per capita shrank by 8%, the biggest decline in the European Union after the Baltic countries and Finland. An increasing burden for the Slovenian economy has been its rapidly ageing population.[172]
 
 In August 2012, the year-on-year contraction was 0.8%, however, 0.2% growth was recorded in the first quarter (in relation to the quarter before, after data was adjusted according to season and working days).[173] Year-on-year contraction has been attributed to the fall in domestic consumption, and the slowdown in export growth. The decrease in domestic consumption has been attributed to the fiscal austerity, to the freeze on budget expenditure in the final months of 2011,[174] to the failure of the efforts to implement economic reforms, to inappropriate financing, and to the decrease in exports.[175]
 
@@ -295,7 +291,7 @@ Slovenia's total national debt at the end of September 2011 amounted to 15,884 m
 
 Services and industry
 
-Slovenia_treemap.png Almost two-thirds of people are employed in services, and over one-third in industry and construction.[184] Slovenia benefits from a well-educated workforce, well-developed infrastructure, and its location at the crossroads of major trade routes.[185]
+Almost two-thirds of people are employed in services, and over one-third in industry and construction.[184] Slovenia benefits from a well-educated workforce, well-developed infrastructure, and its location at the crossroads of major trade routes.[185]
 
 The level of foreign direct investment (FDI) per capita in Slovenia is one of the lowest in the EU,[186] and the labor productivity and the competitiveness of the Slovenian economy is still significantly below the EU average.[187][188] Taxes are relatively high, the labor market is seen by business interests as being inflexible, and industries are losing sales to China, India, and elsewhere.[189]
 
@@ -311,7 +307,7 @@ At the end of 2011 at least 87 MWp of photovoltaic modules and 22 MW of biogas
 
 Tourism
 
-Bled_Overview.JPG with its island]] Panoramics_of_Piran_2015.jpg on Slovenian coast]] Postojna_(22206343750).jpg]]
+with its island]] on Slovenian coast]] ]]
 
 Slovenia offers tourists a wide variety of natural and cultural amenities. Different forms of tourism have developed. The tourist gravitational area is considerably large, however the tourist market is small. There has been no large-scale tourism and no acute environmental pressures;[195] in 2016, National Geographic Traveller's Magazine declared Slovenia as country with the world's most sustainable tourism.[196]
 
@@ -331,9 +327,9 @@ Most of foreign tourists to Slovenia come from the key European markets: Italy, 
 
 Transport
 
-Pendolino_ETR_310.jpg tilting train]] The location at the junction of major geographic units and the area being traversed by major rivers have been the reasons for the intersection of the main transport routes in Slovenia. Their course was established already in the Antiquity. A particular geographic advantage in recent times has been the location of the intersection of the Pan-European transport corridors V (the fastest link between the North Adriatic, and Central and Eastern Europe) and X (linking Central Europe with the Balkans) in the country. This gives it a special position in the European social, economic and cultural integration and restructuring.[208] Motorways-SLO-map_2018.jpg The road freight and passenger transport constitutes the largest part of transport in Slovenia at 80%.[209] Personal cars are much more popular than public road passenger transport, which has significantly declined.[210][211] Slovenia has a very high highway and motorway density compared to the European Union average.[212] The highway system, the construction of which was accelerated after 1994,[213] has slowly but steadily transformed Slovenia into a large conurbation.[214] Other state roads have been rapidly deteriorating because of neglect and the overall increase in traffic.[215]
+tilting train]] The location at the junction of major geographic units and the area being traversed by major rivers have been the reasons for the intersection of the main transport routes in Slovenia. Their course was established already in the Antiquity. A particular geographic advantage in recent times has been the location of the intersection of the Pan-European transport corridors V (the fastest link between the North Adriatic, and Central and Eastern Europe) and X (linking Central Europe with the Balkans) in the country. This gives it a special position in the European social, economic and cultural integration and restructuring.[208] The road freight and passenger transport constitutes the largest part of transport in Slovenia at 80%.[209] Personal cars are much more popular than public road passenger transport, which has significantly declined.[210][211] Slovenia has a very high highway and motorway density compared to the European Union average.[212] The highway system, the construction of which was accelerated after 1994,[213] has slowly but steadily transformed Slovenia into a large conurbation.[214] Other state roads have been rapidly deteriorating because of neglect and the overall increase in traffic.[215]
 
-The existing Slovenian railways are out-of-date and can't compete with the motorway network.[216] Due to this fact and the projected increase in traffic through the port of Koper, which is primarily by train, a second rail on the Koper-Divača route is in early stages of starting construction.[217] With a lack of financial assets, maintenance and modernisation of the Slovenian railway network have been neglected.[218] Due to the out-of-date infrastructure, the share of the railway freight transport has been in decline in Slovenia.[219] The railway passenger transport has been recovering after a large drop in the 1990s.[220] The Pan-European railway corridors V and X, and several other major European rail lines intersect in Slovenia.[221] All international transit trains in Slovenia drive through the Ljubljana Railway Hub.[222] Ljubljana_airport_2017.jpg is the biggest international airport in the country]]
+The existing Slovenian railways are out-of-date and can't compete with the motorway network.[216] Due to this fact and the projected increase in traffic through the port of Koper, which is primarily by train, a second rail on the Koper-Divača route is in early stages of starting construction.[217] With a lack of financial assets, maintenance and modernisation of the Slovenian railway network have been neglected.[218] Due to the out-of-date infrastructure, the share of the railway freight transport has been in decline in Slovenia.[219] The railway passenger transport has been recovering after a large drop in the 1990s.[220] The Pan-European railway corridors V and X, and several other major European rail lines intersect in Slovenia.[221] All international transit trains in Slovenia drive through the Ljubljana Railway Hub.[222] is the biggest international airport in the country]]
 
 The major Slovenian port is the Port of Koper. It is the largest Northern Adriatic port in terms of container transport,[223] with almost 590,000 TEUs annually[224] and lines to all major world ports.[225][226] It is much closer to destinations east of the Suez than the ports of Northern Europe.[227] In addition, the maritime passenger traffic mostly takes place in Koper.[228] Two smaller ports used for the international passenger transport as well as cargo transport are located in Izola and Piran. Passenger transport mainly takes place with Italy and Croatia.[229] Splošna plovba,[230] the only Slovenian shipping company, transports freight and is active only in foreign ports.[231]
 
@@ -421,8 +417,6 @@ The official language in Slovenia is Slovene, which is a member of the South Sla
 
 Slovene is a highly diverse Slavic language in terms of dialects,[259] with different degrees of mutual intelligibility. Accounts of the number of dialects range from as few as seven[260][261][262] dialects, often considered dialect groups or dialect bases that are further subdivided into as many as 50 dialects.[263] Other sources characterize the number of dialects as nine[264] or as eight.[265]
 
-Slovenian_Passport3.jpg
-
 Hungarian and Italian, spoken by the respective minorities, enjoy the status of official languages in the ethnically mixed regions along the Hungarian and Italian borders, to the extent that even the passports issued in those areas are bilingual. In 2002 around 0.2% of the Slovenian population spoke Italian and around 0.4% spoke Hungarian as their native language. Hungarian is co-official with Slovene in 30 settlements in 5 municipalities (whereof 3 are officially bilingual). Italian is co-official with Slovene in 25 settlements in 4 municipalities (all of them officially bilingual).
 
 Romani,[266] spoken in 2002 as the native language by 0.2% of people, is a legally protected language in Slovenia. Romani-speakers mainly belong to the geographically dispersed and marginalized Roma community.[267]
@@ -453,7 +447,7 @@ Religion
 
 Before World War II, 97% of the population declared itself Catholic (Roman Rite), around 2.5% as Lutheran, and around 0.5% of residents identified themselves as members of other denominations.[290]
 
-Catholicism was an important feature of both social and political life in pre-Communist Slovenia. After 1945, the country underwent a process of gradual but steady secularization. After a decade of persecution of religions, the Communist regime adopted a policy of relative tolerance towards churches. After 1990, the Catholic Church regained some of its former influence, but Slovenia remains a largely secularized society. According to the 2002 census, 57.8% of the population is Catholic. In 1991, 71.6% were self-declared Catholics which means a drop of more than 1% annually.[291] The vast majority of Slovenian Catholics belong to the Latin Rite. A small number of Greek Catholics live in the White Carniola region.[292] Radovljica_Brezje_Bazilika_Sv_Vida_28082012_011.jpg, also known as the Slovenian National Shrine, is the most visited Catholic pilgrimage site in Slovenia.]] Evangeličanska_cerkev,_Bodonci.jpg church in Bodonci in the Prekmurje region]]
+Catholicism was an important feature of both social and political life in pre-Communist Slovenia. After 1945, the country underwent a process of gradual but steady secularization. After a decade of persecution of religions, the Communist regime adopted a policy of relative tolerance towards churches. After 1990, the Catholic Church regained some of its former influence, but Slovenia remains a largely secularized society. According to the 2002 census, 57.8% of the population is Catholic. In 1991, 71.6% were self-declared Catholics which means a drop of more than 1% annually.[291] The vast majority of Slovenian Catholics belong to the Latin Rite. A small number of Greek Catholics live in the White Carniola region.[292] , also known as the Slovenian National Shrine, is the most visited Catholic pilgrimage site in Slovenia.]] church in Bodonci in the Prekmurje region]]
 
 Despite a relatively small number of Protestants (less than 1% in 2002), the Protestant legacy is historically significant given that the Slovene standard language and Slovene literature were established by the Protestant Reformation in the 16th century. Primoz Trubar, a theologian in the Lutheran tradition, was one of the most influential Protestant Reformers in Slovenia. Protestantism was extinguished in the Counter-Reformation implemented by the Habsburg dynasty, which controlled the region. It only survived in the easternmost regions due to protection of Hungarian nobles, who often happened to be Calvinist themselves. Today, a significant Lutheran minority lives in the easternmost region of Prekmurje, where they represent around a fifth of the population and are headed by a bishop with the seat in Murska Sobota.[293]
 
@@ -465,8 +459,6 @@ In the 2002, around 10% of Slovenes declared themselves as atheists, another 10%
 
 
 Education
-
-University_of_Ljubljana_Palace.jpg UniverzaMaribor.jpg
 
 Slovenia's education ranks as the 12th best in the world and 4th best in the European Union, being significantly higher than the OECD average, according to the Programme for International Student Assessment.[298] Among people age 25 to 64, 12% have attended higher education, while on average Slovenes have 9.6 years of formal education. According to an OECD report, 83% of adults ages 25–64 have earned the equivalent of a high school degree, well above the OECD average of 74%; among 25- to 34-year-olds, the rate is 93%.[299] According to the 1991 census there is 99.6% literacy in Slovenia. Lifelong learning is also increasing.[300]
 
@@ -485,7 +477,7 @@ Among several universities in Slovenia, the best ranked is the University of Lju
 
 Culture
 
-Ivan_Grohar_-_Sejalec.jpg'' (1907), produced by the impressionist painter Ivan Grohar, became a metaphor for Slovenes[310][311] and was a reflection of the transition from a rural to an urban culture.[312]]]
+'' (1907), produced by the impressionist painter Ivan Grohar, became a metaphor for Slovenes[310][311] and was a reflection of the transition from a rural to an urban culture.[312]]]
 
 Heritage
 
@@ -497,9 +489,7 @@ The most picturesque church is the medieval and Baroque building on Bled Island.
 
 Cuisine
 
-Velika_noč_-_jedila_hren_šunka_pirhi_potica.jpg
-
-Slovenian cuisine is a mixture of Central European cuisine (especially Austrian and Hungarian), Mediterranean cuisine and Balkan cuisine. Historically, Slovenian cuisine was divided into town, farmhouse, cottage, castle, parsonage and monastic cuisines. Due to the variety of Slovenian cultural and natural landscapes, there are more than 40 distinct regional cuisines. PrekmurskaGibanica1.JPG is a typical pastry of the Prekmurje region.]]
+Slovenian cuisine is a mixture of Central European cuisine (especially Austrian and Hungarian), Mediterranean cuisine and Balkan cuisine. Historically, Slovenian cuisine was divided into town, farmhouse, cottage, castle, parsonage and monastic cuisines. Due to the variety of Slovenian cultural and natural landscapes, there are more than 40 distinct regional cuisines. is a typical pastry of the Prekmurje region.]]
 
 Ethnologically, the most characteristic Slovene dishes were one-pot dishes, such as _ričet_, Istrian stew (), minestrone (), and ''žganci ''buckwheat spoonbread; in the Prekmurje region there is also _bujta repa_, and _prekmurska gibanica_ pastry. Pršut prosciutto is known as () in the Slovene Littoral. The nut roll () has become a symbol of Slovenia, especially among the Slovene diaspora in the United States. Soups were added to the traditional one-pot meals and various kinds of porridge and stew only in relatively recent history.
 
@@ -539,7 +529,7 @@ Today, notable authors include Boris Pahor, a German Nazi concentration camp sur
 
 Literary history
 
-Prešern-Goldenstein.jpg, best-known Slovenian poet]] Prečrtana_kitica_Zdravljice.jpg" (_A Toast_; part) with rejection mark from Austrian censorship (due to potential revolutionary content); the music of Zdravljica is now the Slovenian national anthem.]]
+, best-known Slovenian poet]] " (_A Toast_; part) with rejection mark from Austrian censorship (due to potential revolutionary content); the music of Zdravljica is now the Slovenian national anthem.]]
 
 History of Slovene literature began in the 16th century with Primož Trubar and other Protestant Reformers. Poetry in the Slovene language achieved its highest level with the Romantic poet France Prešeren (1800–1849). In the 20th century, the Slovene literary fiction went through several periods: the beginning of the century was marked by the authors of the Slovene Modernism, with the most influential Slovene writer and playwright, Ivan Cankar; it was then followed by expressionism (Srečko Kosovel), avantgardism (Anton Podbevšek, Ferdo Delak) and social realism (Ciril Kosmač, Prežihov Voranc) before World War II, the poetry of resistance and revolution (Karel Destovnik Kajuh, Matej Bor) during the war, and intimism (Poems of the Four, 1953), post-war modernism (Edvard Kocbek), and existentialism (Dane Zajc) after the war.
 
@@ -567,7 +557,7 @@ Harmony singing is a deep rooted tradition in Slovenia, and is at least three-pa
 
 Modern folk (Slovenian country) music
 
-Slak_lojze.jpg]] From 1952 on, the Slavko Avsenik's band began to appear in broadcasts, movies, and concerts all over the West Germany, inventing the original "Oberkrainer" country sound that has become the primary vehicle of ethnic musical expression not only in Slovenia, but also in Germany, Austria, Switzerland, and in the Benelux, spawning hundreds of Alpine orchestras in the process. The band produced nearly 1000 original compositions, an integral part of the Slovenian-style polka legacy. Many musicians followed Avsenik's steps, including Lojze Slak.
+]] From 1952 on, the Slavko Avsenik's band began to appear in broadcasts, movies, and concerts all over the West Germany, inventing the original "Oberkrainer" country sound that has become the primary vehicle of ethnic musical expression not only in Slovenia, but also in Germany, Austria, Switzerland, and in the Benelux, spawning hundreds of Alpine orchestras in the process. The band produced nearly 1000 original compositions, an integral part of the Slovenian-style polka legacy. Many musicians followed Avsenik's steps, including Lojze Slak.
 
 Slovenska popevka
 
@@ -575,11 +565,11 @@ A similarly high standing in Slovene culture, like the Sanremo Music Festival ha
 
 Popular music
 
-Among pop, rock, industrial, and indie musicians the most popular in Slovenia include Laibach, an early 1980s industrial music group as well as Siddharta, an alternative rock band formed in 1995. LAIBACH_Press_Photo_2011.jpg group Laibach]]
+Among pop, rock, industrial, and indie musicians the most popular in Slovenia include Laibach, an early 1980s industrial music group as well as Siddharta, an alternative rock band formed in 1995. group Laibach]]
 
 With more than 15 million views for the official a cappella "Africa" performance video since its publishing on YouTube in May 2009 until September 2013[329] that earned them kudos from the song's co-writer, David Paich,[330] Perpetuum Jazzile is the group from Slovenia that is internationally most listened online. Other Slovenian bands include a historically progressive rock ones that were also popular in Titoist Yugoslavia, such as Buldožer and Lačni Franz, which inspired later comedy rock bands including Zmelkoow, Slon in Sadež and Mi2.[331] With exception of Terrafolk that made appearances worldwide, other bands, such as Zaklonišče Prepeva, Šank Rock, Big Foot Mama, Dan D, and Zablujena generacija, are mostly unknown outside the country. Slovenian metal bands include Noctiferia (death metal), Negligence (thrash metal), Naio Ssaion (gothic metal), and Within Destruction (deathcore).[332]
 
-2009_Lent_Festival_-_Vlado_Kreslin_(4).jpg singer-songwriter Vlado Kreslin during a concert at the Lent Festival in Maribor, 2009]]
+singer-songwriter Vlado Kreslin during a concert at the Lent Festival in Maribor, 2009]]
 
 Singer-songwriters
 
@@ -587,7 +577,7 @@ Slovenian post-WWII singer-songwriters include Frane Milčinski (1914–1988), T
 
 Theatre
 
-Lublana_143.jpg in Ljubljana]]
+in Ljubljana]]
 
 In addition to the main houses, which include Slovene National Theatre, Ljubljana and Maribor National Drama Theatre, a number of small producers are active in Slovenia, including physical theatre (e.g. Betontanc), street theatre (e.g. Ana Monró Theatre), theatresports championship Impro League, and improvisational theatre (e.g. IGLU Theatre). A popular form is puppetry, mainly performed in the Ljubljana Puppet Theatre. Theater has a rich tradition in Slovenia, starting with the 1867 first ever Slovene-language drama performance.
 
@@ -611,13 +601,13 @@ An industrial design item that has changed the international ski industry is Ela
 
 Sculpture
 
-V._Vodnik_monument_Ljubljana_front_side_2008-03.jpg (1758–1819) was created by Alojz Gangl in 1889 as part of Vodnik Monument, the first Slovene national monument.]] The renewal of Slovene sculpture begun with Alojz Gangl (1859–1935) who created sculptures for the public monuments of the Carniolan polymath Johann Weikhard von Valvasor and Valentin Vodnik, the first Slovene poet and journalist, as well as _The Genius of the Theatre_ and other statues for the Slovenian National Opera and Ballet Theatre building.[336] The development of sculpture after World War II was led by a number of artists, including brothers Boris and Zdenko Kalin, Jakob Savinšek stayed with figural art. Younger sculptors, for example Janez Boljka, Drago Tršar and particularly Slavko Tihec, moved towards abstract forms. Jakov Brdar and Mirsad Begić returned to human figures.
+(1758–1819) was created by Alojz Gangl in 1889 as part of Vodnik Monument, the first Slovene national monument.]] The renewal of Slovene sculpture begun with Alojz Gangl (1859–1935) who created sculptures for the public monuments of the Carniolan polymath Johann Weikhard von Valvasor and Valentin Vodnik, the first Slovene poet and journalist, as well as _The Genius of the Theatre_ and other statues for the Slovenian National Opera and Ballet Theatre building.[336] The development of sculpture after World War II was led by a number of artists, including brothers Boris and Zdenko Kalin, Jakob Savinšek stayed with figural art. Younger sculptors, for example Janez Boljka, Drago Tršar and particularly Slavko Tihec, moved towards abstract forms. Jakov Brdar and Mirsad Begić returned to human figures.
 
 Graphics
 
 During World War II, numerous graphics were created by Božidar Jakac, who helped establish the post-war Academy of Visual Arts in Ljubljana.
 
-Hinko_Smrekar_-_Ilustracija_za_knjigo_Martin_Krpan.jpg's illustration of _Martin Krpan_]] In 1917 Hinko Smrekar illustrated Fran Levstik's book about the well-known Slovene folk hero Martin Krpan. The children's books illustrators include a number of women illustrators, such as Marlenka Stupica, Marija Lucija Stupica, Ančka Gošnik Godec, Marjanca Jemec Božič, and Jelka Reichman.
+'s illustration of _Martin Krpan_]] In 1917 Hinko Smrekar illustrated Fran Levstik's book about the well-known Slovene folk hero Martin Krpan. The children's books illustrators include a number of women illustrators, such as Marlenka Stupica, Marija Lucija Stupica, Ančka Gošnik Godec, Marjanca Jemec Božič, and Jelka Reichman.
 
 Painting
 
@@ -631,7 +621,7 @@ The first photographer from Slovenia whose work was published by National Geogra
 
 Sports
 
-Tina_Maze_with_Olympic_silver_medal_2010.jpg, a double Olympic gold medalist and the overall winner of the 2012–13 World Cup season]] Slovenia is a natural sports venue, with many Slovenians actively practicing sports.[340] A variety of sports are played in Slovenia on a professional level,[341] with top international successes in handball, basketball, volleyball, association football, ice hockey, rowing, swimming, tennis, boxing, road cycling and athletics. Prior to World War II, gymnastics and fencing used to be the most popular sports in Slovenia, with champions like Leon Štukelj and Miroslav Cerar gaining Olympic medals for Slovenia. Association football gained popularity in the interwar period. After 1945, basketball, handball and volleyball have become popular among Slovenians, and from the mid-1970s onward, winter sports have, as well. Since 1992, Slovenian sportspeople have won 40 Olympic medals, including seven gold medals, and 19 Paralympic medals with three golds.
+, a double Olympic gold medalist and the overall winner of the 2012–13 World Cup season]] Slovenia is a natural sports venue, with many Slovenians actively practicing sports.[340] A variety of sports are played in Slovenia on a professional level,[341] with top international successes in handball, basketball, volleyball, association football, ice hockey, rowing, swimming, tennis, boxing, road cycling and athletics. Prior to World War II, gymnastics and fencing used to be the most popular sports in Slovenia, with champions like Leon Štukelj and Miroslav Cerar gaining Olympic medals for Slovenia. Association football gained popularity in the interwar period. After 1945, basketball, handball and volleyball have become popular among Slovenians, and from the mid-1970s onward, winter sports have, as well. Since 1992, Slovenian sportspeople have won 40 Olympic medals, including seven gold medals, and 19 Paralympic medals with three golds.
 
 Individual sports are also very popular in Slovenia, including tennis and mountaineering, which are two of the most widespread sporting activities in Slovenia. Several Slovenian extreme and endurance sportsmen have gained an international reputation, including the mountaineer Tomaž Humar, the mountain skier Davo Karničar, the ultramaraton swimmer Martin Strel and the ultracyclist Jure Robič. Past and current winter sports Slovenian champions include Alpine skiers, such as Mateja Svet, Bojan Križaj, and double olympic gold medalist Tina Maze, the cross-country skier Petra Majdič, and ski jumpers, such as Primož Peterka and Peter Prevc. Boxing has gained popularity since Dejan Zavec won the IBF Welterweight World Champion title in 2009.
 

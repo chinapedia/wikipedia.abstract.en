@@ -1,1 +1,0 @@
-GEN. FRANCISCO MEJIA started his military career at the age of 15 in the Spanish colonial army. His first major battle was in Mexico's war of Independence in 1821 and he also fought when Spain invaded Mexico in 1829.

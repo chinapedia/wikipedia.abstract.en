@@ -1,1 +1,0 @@
-The OUR LADY OF CARMEL CATHEDRAL [1] ( ) also called CARTAGO CATHEDRAL[2] is a religious building belonging to the Catholic Church and is located in the city of Cartago in the homonymous canton of the Central American country of Costa Rica. Not to be confused with a church of the same name in the city of Cartago in Colombia.

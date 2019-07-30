@@ -1,1 +1,0 @@
-Leitner_system_alternative.svg, correctly answered cards are advanced to the next, less frequent box, while incorrectly answered cards return to the first box for more aggressive review and repetition.]]

@@ -1,1 +1,0 @@
-The BATTLE OF BLENHEIM (German: _Zweite Schlacht bei Höchstädt_; French _Bataille de Höchstädt_), fought on 13 August 1704, was a major battle of the War of the Spanish Succession.[1] The overwhelming Allied victory ensured the safety of Vienna from the Franco-Bavarian army, thus preventing the collapse of the Grand Alliance.

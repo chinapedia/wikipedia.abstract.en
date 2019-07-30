@@ -1,1 +1,0 @@
-The was the military dictator of Japan during the period from 1185 to 1868 (with exceptions). In most of this period, the _shōguns_ were the _de facto_ rulers of the country, although nominally they were appointed by the Emperor as a ceremonial formality.[1] The _shōguns_ held almost absolute power over territories through military means.

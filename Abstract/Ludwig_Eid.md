@@ -1,1 +1,0 @@
-Ludwig_Eid_-_Historiker.gif LUDWIG EID (12 September 1865, in Obermoschel – 21 October 1936, in Munich) was a German educator and historian. He was the author of many works on Palatinate and Bavarian history.

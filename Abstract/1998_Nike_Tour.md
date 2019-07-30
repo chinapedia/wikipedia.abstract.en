@@ -1,1 +1,0 @@
-The 1998 NIKE TOUR season was the eighth season of the Nike Tour, the PGA Tour's official developmental tour, now known as the Web.com Tour. The top fifteen players on the final money list earned PGA Tour cards for 1999.

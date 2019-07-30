@@ -1,1 +1,0 @@
-_KING GORDY SINGS THE BLUES_ is the eighth studio album by American rapper King Gordy and his first blues album as a result of decision to take a break from his regular horrorcore music style. The eleven track record was released February 15, 2011 via Morbid Music L.L.C.[1][2]

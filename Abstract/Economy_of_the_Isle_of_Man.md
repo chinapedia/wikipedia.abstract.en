@@ -1,1 +1,0 @@
-BritishIslesMan.png]] The Isle of Man, one of the Crown dependencies, is a low-tax economy and offshore financial centre. Located in the Irish Sea, it is within the British Isles but does not form part of the United Kingdom or the European Communities.

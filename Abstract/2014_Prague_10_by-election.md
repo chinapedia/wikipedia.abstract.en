@@ -1,1 +1,0 @@
-A BY-ELECTION FOR THE PRAGUE 10 SENATE SEAT was held in the Czech Republic on 19–20 September 2014 and 26–27 September 2014. The election was held after incumbent Jaromír Štětina got elected member of European Parliament.[1] Voter turnout was 15.8% for first round and 8.75% for second round. It was the lowest voter turnout for any Senate election so far.[2][3]

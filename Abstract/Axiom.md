@@ -1,1 +1,0 @@
-An AXIOM or POSTULATE is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. The word comes from the Greek _axíōma_ () 'that which is thought worthy or fit' or 'that which commends itself as evident.'[1][2]

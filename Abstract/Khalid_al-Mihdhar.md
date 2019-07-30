@@ -1,1 +1,0 @@
-KHALID MUHAMMAD ABDALLAH AL-MIHDHAR (, ; also transliterated as ALMIHDHAR) (May 16, 1975 – September 11, 2001) was a Saudi Arabian terrorist. He was one of the five hijackers of American Airlines Flight 77, which was flown into the Pentagon as part of the September 11 attacks.

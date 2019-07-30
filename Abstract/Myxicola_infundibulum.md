@@ -1,1 +1,0 @@
-_MYXICOLA INFUNDIBULUM_ is a species of polychaete worm from the family Sabellidae. The body consists of a head, a cylindrical, segmented body and a tail piece. The head consists of a Prostomium (part of the mouth) and a peristomium (area around the mouth) and carries paired appendages (palps, antennae and cirri).

@@ -1,1 +1,0 @@
-CARLA SUE GARRETT (born July 31, 1967 in Albuquerque, New Mexico) was an American female weightlifter and discus thrower representing the United States in both sports at international competitions.[1]

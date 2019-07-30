@@ -1,4 +1,4 @@
-SABOTAGE_CAN_OUTWEIGH_PRODUCTION_-_NARA_-_515321.tif poster from the World War II-era that was used to inform people about what they should do if they suspect sabotage]] SABOTAGE is a deliberate action aimed at weakening a polity, effort, or organization through subversion, obstruction, disruption, or destruction. One who engages in sabotage is a _saboteur_. Saboteurs typically try to conceal their identities because of the consequences of their actions.
+poster from the World War II-era that was used to inform people about what they should do if they suspect sabotage]] SABOTAGE is a deliberate action aimed at weakening a polity, effort, or organization through subversion, obstruction, disruption, or destruction. One who engages in sabotage is a _saboteur_. Saboteurs typically try to conceal their identities because of the consequences of their actions.
 
 Any unexplained adverse condition might be sabotage. Sabotage is sometimes called tampering, meddling, tinkering, malicious pranks, malicious hacking, a practical joke, or the like to avoid needing to invoke legal and organizational requirements for addressing sabotage.
 
@@ -14,7 +14,7 @@ The verb "saboter" is also found in 1873–1874 in the _Dictionnaire de la langu
 
 As industrial action
 
-Picchetto_sabotaggio_stencil_in_Turin.jpg]] At the inception of the Industrial Revolution, skilled workers such as the Luddites (1811–1812) used sabotage as a means of negotiation in labor disputes.
+]] At the inception of the Industrial Revolution, skilled workers such as the Luddites (1811–1812) used sabotage as a means of negotiation in labor disputes.
 
 Labor unions such as the Industrial Workers of the World (IWW) have advocated sabotage as a means of self-defense and direct action against unfair working conditions.
 
@@ -36,7 +36,7 @@ From 1992 to late 2007 a radical environmental activist movement known as ELF or
 
 As war tactic
 
-"WARNING_FROM_THE_FBI"_-_NARA_-_516039.jpg poster from the United States]]
+poster from the United States]]
 
 In war, the word is used to describe the activity of an individual or group not associated with the military of the parties at war, such as a foreign agent or an indigenous supporter, in particular when actions result in the destruction or damaging of a productive or vital facility, such as equipment, factories, dams, public services, storage plants or logistic routes. Prime examples of such sabotage are the events of Black Tom and the Kingsland Explosion. Like spies, saboteurs who conduct a military operation in civilian clothes or enemy uniforms behind enemy lines are subject to prosecution and criminal penalties instead of detention as prisoners of war.[15][16] It is common for a government in power during war or supporters of the war policy to use the term loosely against opponents of the war. Similarly, German nationalists spoke of a stab in the back having cost them the loss of World War I.[17]
 
@@ -74,7 +74,7 @@ On 12 February 1917, Bedouins allied with the British destroyed a Turkish railro
 
 Post World War I
 
-193109_mukden_incident_railway_sabotage.jpg experts inspect the scene of the "railway sabotage" on the South Manchurian Railway in 1931. The "railroad sabotage" was one of the events that led to the Mukden Incident and the Japanese occupation of Manchuria.]]
+experts inspect the scene of the "railway sabotage" on the South Manchurian Railway in 1931. The "railroad sabotage" was one of the events that led to the Mukden Incident and the Japanese occupation of Manchuria.]]
 
 In Ireland, the Irish Republican Army (IRA) used sabotage against the British following the Easter 1916 uprising. The IRA compromised communication lines and lines of transportation and fuel supplies. The IRA also employed passive sabotage, refusing dock and train workers to work on ships and rail cars used by the government. In 1920, agents of the IRA committed arson against at least fifteen British warehouses in Liverpool. The following year, the IRA set fire to numerous British targets again, including the Dublin Customs House, this time sabotaging most of Liverpool's firetrucks in the firehouses before lighting the matches.[25]
 
@@ -92,7 +92,7 @@ In December 1944, the Germans ran a false flag sabotage infiltration, Operation 
 
 After World War II
 
-PalestineRailways-1946-sabotage-JaffaJerusalem-1.jpg's K class 2-8-4T steam locomotive and freight train on the Jaffa and Jerusalem line after being sabotaged by Jewish paramilitary forces in 1946.]]
+'s K class 2-8-4T steam locomotive and freight train on the Jaffa and Jerusalem line after being sabotaged by Jewish paramilitary forces in 1946.]]
 
 From 1948 to 1960, the Malayan Communists committed numerous effective acts of sabotage against the British Colonial authorities, first targeting railway bridges, then hitting larger targets such as military camps. Most of their efforts were centered around crippling Malaysia's colonial economy and involved sabotage against trains, rubber trees, water pipes, and electric lines. The Communist's sabotage efforts were so successful that they caused backlash amongst the Malaysian population, who gradually withdrew support for the Communist movement as their livelihoods became threatened.[31]
 

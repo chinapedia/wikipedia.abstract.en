@@ -1,1 +1,0 @@
-The fourth season of the reality television series _Love & Hip Hop: New York_ aired on VH1 from October 28, 2013 until February 10, 2014. The show was primarily filmed in New York City, New York. It was executively produced by Mona Scott-Young for Monami Entertainment, Toby Barraud and Stefan Springman for Eastern TV, and Shelly Tatro, Brad Abramson and Danielle Gelfand for VH1.

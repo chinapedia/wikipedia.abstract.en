@@ -1,1 +1,0 @@
-The_New_Cambridge_History_of_Islam_Vol._I.jpg _THE NEW CAMBRIDGE HISTORY OF ISLAM_ is a six volume history of Islam published by Cambridge University Press in 2010.[1] The general editor is Michael Cook.

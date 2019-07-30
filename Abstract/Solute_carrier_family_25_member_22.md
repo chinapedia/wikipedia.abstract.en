@@ -1,1 +1,0 @@
-SOLUTE CARRIER FAMILY 25 MEMBER 22 is a protein that in humans is encoded by the _SLC25A22_ gene. This gene encodes a mitochondrial glutamate carrier. Mutations in this gene are associated with early infantile epileptic encephalopathy.[1] Expression of this gene is increased in colorectal tumor cells.[2]

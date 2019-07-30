@@ -1,1 +1,0 @@
-The ALLENWOOD FARM is a historic farm property on United States Route 2 in Plainfield, Vermont. Developed in 1827 by Allen Martin, the son of an early settler, it is a well-preserved example of a transitional Federal-Greek Revival detached farmstead. It was listed on the National Register of Historic Places in 1983.[1]

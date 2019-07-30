@@ -7,7 +7,7 @@ Many programming languages may employ mechanisms designed to avoid segmentation 
 
 Overview
 
-FreeBSD_kernel_panic.png Windows_null_ptr_dereference.png dereference on Windows 8]]
+dereference on Windows 8]]
 
 A segmentation fault occurs when a program attempts to access a memory location that it is not allowed to access, or attempts to access a memory location in a way that is not allowed (for example, attempting to write to a read-only location, or to overwrite part of the operating system).
 
@@ -57,7 +57,7 @@ The default action for a segmentation fault or bus error is abnormal termination
 
 Examples
 
-Card_reader_segfault.jpg keypad]]
+keypad]]
 
 Writing to read-only memory
 

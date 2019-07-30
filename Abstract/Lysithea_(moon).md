@@ -1,1 +1,0 @@
-LYSITHEA ( , ; ) is a prograde irregular satellite of Jupiter. It was discovered by Seth Barnes Nicholson in 1938 at Mount Wilson Observatory[1] and is named after the mythological Lysithea, daughter of Oceanus and one of Zeus' lovers.[2]

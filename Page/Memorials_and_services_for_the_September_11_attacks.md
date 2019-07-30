@@ -1,4 +1,4 @@
-Wtc-2004-memorial.jpg'' memorial]] The first memorials to the victims of the September 11 attacks in 2001 began to take shape online, as hundreds of webmasters posted their own thoughts, links to the Red Cross and other rescue agencies, photos, and eyewitness accounts. Numerous online September 11 memorials began appearing a few hours after the attacks, although many of these memorials were only temporary.[1] Around the world, U.S. embassies and consulates became makeshift memorials as people came out to pay their respects.
+'' memorial]] The first memorials to the victims of the September 11 attacks in 2001 began to take shape online, as hundreds of webmasters posted their own thoughts, links to the Red Cross and other rescue agencies, photos, and eyewitness accounts. Numerous online September 11 memorials began appearing a few hours after the attacks, although many of these memorials were only temporary.[1] Around the world, U.S. embassies and consulates became makeshift memorials as people came out to pay their respects.
 
 The _Tribute in Light_ was the first major physical memorial at the World Trade Center site. A permanent memorial and museum, the National September 11 Memorial & Museum at the World Trade Center, were built as part of the design for overall site redevelopment. The Memorial consists of two massive pools set within the original footprints of the Twin Towers with waterfalls cascading down their sides. The names of the victims of the attacks are inscribed around the edges of the waterfalls. Other permanent memorials are being constructed around the world.
 
@@ -9,7 +9,7 @@ List
 
 Temporary memorials
 
-Ground_Zero_cross.jpg was a temporary memorial at Ground Zero]] Soon after the attacks, temporary memorials were set up in New York and elsewhere.
+was a temporary memorial at Ground Zero]] Soon after the attacks, temporary memorials were set up in New York and elsewhere.
 
 -   On October 4, Reverend Brian Jordan, a Franciscan priest, blessed the World Trade Center cross, two broken beams at the crash site which had formed a cross, and then had been welded together by iron-workers.
 -   On October 13, the North Charleston Coliseum raised a special banner featuring the retired number of Mark Bavis, who was on United Airlines Flight 175. Bavis had played for the ECHL's South Carolina Stingrays, and his retired number hangs in a special corner, independently from the Stingrays' retired numbers (#14, #24) and awards banners (1997 and 2001 Kelly Cup Championships), with the years he played for the team (1994–96), the date of his death (September 11, 2001), and an American flag.
@@ -27,7 +27,7 @@ Structures
 -   Memorial to Connecticut victims, Danbury, CT.[6] Glass tower by sculptor Henry Richardson
 -   Memorial at Cove Island Park in Stamford Connecticut.[7]
 
-Twin_Towers_Memorial_in_Israel.jpg in Jerusalem, Israel]] 9-11_tribute_in_Melbourne,_Aus.jpg that reads "Evil never wins"]] Sept_11_monument_in_NYC_-_August_2004.jpgs, dedicated to the victims of the September 11 attacks, on the fence of a car-lot in New York City]] Flight93nationalmemorial-july2006.jpg temporary memorial in Pennsylvania]] Where_the_Twin_Towers_Were.jpg]] Pentagon_September_11_Memorial_Arlington_National_Cemetery.jpg for victims of the September 11, 2001, terrorist attack on the Pentagon.]] Texas_State_Cemetery_September_11_Memorial.jpg with two girders removed from the WTC wreckage]] NY-911-Memorial-0897.jpg Steel_from_WTC_for_USS_New_York.jpg US_Navy_090720-N-7090S-021_Steel_recovered_from_the_World_Trade_Center_is_displayed_aboard_the_amphibious_transport_dock_ship_Pre-Commissioning_Unit_(PCU)_New_York_(LPD_21).jpg]] Monroe_Community_College_September_11th_Remembrance_Walk_2.jpg September 11 Memorial]] Logan_Airport_September_11_memorial.jpg Myrtle_Beach_Unity_Memorial.jpg Ocean_City_MD_September_11_firefighter_memorial.jpg honoring the New York City firefighters who lost their lives in the attacks, complete with a piece of the World Trade Center]] King_of_Prussia_9-11_Memorial.jpg in King of Prussia, Pennsylvania]] Clyde_NC_WTC_monument.jpg
+in Jerusalem, Israel]] that reads "Evil never wins"]] s, dedicated to the victims of the September 11 attacks, on the fence of a car-lot in New York City]] temporary memorial in Pennsylvania]] ]] for victims of the September 11, 2001, terrorist attack on the Pentagon.]] with two girders removed from the WTC wreckage]] ]] September 11 Memorial]] honoring the New York City firefighters who lost their lives in the attacks, complete with a piece of the World Trade Center]] in King of Prussia, Pennsylvania]]
 
 -   Reflect 9/11 Memorial, Rosemead, California [8]
 -   Flight 93 National Memorial, Shanksville, Pennsylvania
@@ -137,8 +137,6 @@ Performances and benefits
 The Raoul Wallenberg Award was given to New York City in 2001 "For all of its citizens who searched for the missing, cared for the injured, gave comfort to loved ones of the missing or lost, and provided sustenance and encouragement to those who searched through the rubble at Ground Zero."
 
 2002 and later events
-
-US_Navy_020208-N-3995K-002_2002_Olympics_-_WTC_Flag.jpg
 
 On February 3, 2002, during the Halftime Show of Super Bowl XXXVI, rock group U2 performed Where the Streets Have No Name, while the names of the victims were projected onto banners. Bono opened his jacket to reveal a U.S. flag pattern sewn in the inside lining.
 

@@ -1,1 +1,0 @@
-This article is about the demographic features of the population of Luxembourg, including population density, education level, health of the populace, economic status, religious affiliations and other aspects of the population.

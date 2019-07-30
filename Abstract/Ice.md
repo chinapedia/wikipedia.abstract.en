@@ -1,1 +1,0 @@
-ICE is water frozen into a solid state.[1][2] Depending on the presence of impurities such as particles of soil or bubbles of air , it can appear transparent or a more or less opaque bluish-white color.

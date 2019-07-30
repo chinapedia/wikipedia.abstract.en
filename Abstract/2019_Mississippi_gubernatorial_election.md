@@ -1,1 +1,0 @@
-The 2019 MISSISSIPPI GUBERNATORIAL ELECTION will take place on November 5, 2019, to choose the next governor of Mississippi. Primary elections will occur on August 6, 2019.[1] Incumbent Republican Governor Phil Bryant is ineligible to run for a third term due to term limits.

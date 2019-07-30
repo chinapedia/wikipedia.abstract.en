@@ -11,7 +11,7 @@ Switzerland signed a free-trade agreement with the European Economic Community i
 
 Early history
 
-Divico_und_Caesar.jpg after the Battle of Bibracte ]]
+after the Battle of Bibracte ]]
 
 Prehistory
 
@@ -20,8 +20,6 @@ Archeological evidence suggests that hunter-gatherers were already settled in th
 Antiquity
 
 In 58 BC, the Helvetii tried to evade migratory pressure from Germanic tribes by moving into Gaul, but were defeated by Julius Caesar's armies and then sent back. The alpine region became integrated into the Roman Empire and was extensively romanized in the course of the following centuries. The center of Roman administration was at _Aventicum_ (Avenches). In 259, Alamanni tribes overran the Limes, putting the settlements on Swiss territory on the frontier of the Roman Empire.
-
-Historische_Karte_CH_Rome_1.png
 
 The first Christian bishoprics were founded in the fourth century.
 
@@ -42,7 +40,7 @@ The extinction of the Kyburg dynasty paved the way for the Habsburg dynasty to b
 
 Old Confederacy (1300–1798)
 
-Battle_of_Laupen.jpg (1339) between Swiss forces and an army of the Dukes of Savoy (Diebold Schilling the Elder, 1480s).]]
+(1339) between Swiss forces and an army of the Dukes of Savoy (Diebold Schilling the Elder, 1480s).]]
 
 Late Medieval period
 
@@ -64,7 +62,7 @@ Early Modern Switzerland
 
 During the Thirty Years' War, Switzerland was a relative "oasis of peace and prosperity" (Grimmelshausen) in war-torn Europe, mostly because all major powers in Europe depended on Swiss mercenaries, and would not let Switzerland fall into the hands of one of their rivals. Politically, they all tried to take influence, by way of mercenary commanders such as Jörg Jenatsch or Johann Rudolf Wettstein. The _Drei Bünde_ of Grisons, at that point not yet a member of the Confederacy, were involved in the war from 1620, which led to their loss of the Valtellina in 1623.
 
-Leonhard_Euler_2.jpg (1707–83), one of the most prominent scientists in the Age of Enlightenment]]
+(1707–83), one of the most prominent scientists in the Age of Enlightenment]]
 
 At the Treaty of Westphalia in 1648, Switzerland attained legal independence from the Holy Roman Empire. The Valtellina became a dependency of the _Drei Bünde_ again after the Treaty and remained so until the founding of the Cisalpine Republic by Napoleon Bonaparte in 1797.
 
@@ -99,8 +97,6 @@ The liberal Free Democratic Party of Switzerland was strong in the largely Prote
 
 Sonderbund War of 1847
 
-Swiss_denominations_in_1800.jpg
-
 The Radical-liberal-Protestant element charged that the _Sonderbund_ was in violation of the Federal Treaty of 1815, §6 of which expressly forbade such separate alliances. Forming a majority in the Tagsatzung they decided to dissolve the Sonderbund on October 21, 1847.[13][14] The odds were against the Catholics, who were heavily outnumbered in population; they were outnumbered in soldiers by 79,000 to 99,000, and lacked enough well-trained soldiers, officers and generals. When the Sonderbund refused to disband, the national army attacked in a brief civil war between the Catholic and the Protestant cantons, known as the _Sonderbundskrieg_ ("Sonderbund War".) The national army was composed of soldiers of all the other cantons except Neuchâtel and Appenzell Innerrhoden (which remained neutral). The Sonderbund was easily defeated in less than a month; there were about 130 killed. Apart from small riots, this was the last armed conflict on Swiss territory.[15] Many Sonderband leaders fled to Italy, but the victors were generous. They invited the defeated cantons to join them in a program of federal reform, and a new constitution was drafted along American lines. National issues were to be under the control of the national parliament, and the Jesuits were expelled. The Swiss voted heavily in favor of the new constitution by 2 million against 300,000. Switzerland became calm. However conservatives around Europe became frightened, and prepared their own forces to meet possible challenges, which indeed soon exploded the Revolutions of 1848. In those violent revolutions, outside Switzerland, the conservatives were always successful.[16]
 
 
@@ -110,7 +106,7 @@ Industrialisation
 
 As a consequence of the civil war, Switzerland adopted a federal constitution in 1848, amending it extensively in 1874 and establishing federal responsibility for defense, trade, and legal matters, leaving all other matters to the cantonal governments. From then, and over much of the 20th century, continuous political, economic, and social improvement has characterized Swiss history.
 
-While Switzerland was primarily rural, the cities experienced an industrial revolution in the late 19th century, focused especially on textiles. In Basel, for example, textiles, including silk, were the leading industry. In 1888 women made up 44% of the wage earners. Nearly half the women worked in the textile mills, with household servants the second largest job category. The share of women in the workforce was higher between 1890 and 1910 than it was in the late 1960s and 1970s.[17] Dampfzug_Göschenen.jpg in 1882]]
+While Switzerland was primarily rural, the cities experienced an industrial revolution in the late 19th century, focused especially on textiles. In Basel, for example, textiles, including silk, were the leading industry. In 1888 women made up 44% of the wage earners. Nearly half the women worked in the textile mills, with household servants the second largest job category. The share of women in the workforce was higher between 1890 and 1910 than it was in the late 1960s and 1970s.[17] in 1882]]
 
 Swiss Universities in the late 19th century are notable for the number of female students receiving medical education.[18]
 
@@ -120,7 +116,7 @@ The major powers respected Switzerland's neutrality during World War I. In the G
 
 While the industrial sector began to grow in the mid-19th century, Switzerland's emergence as one of the most prosperous nations in Europe—the "Swiss miracle"—was a development of the short 20th century, among other things tied to the role of Switzerland during the World Wars.[19]
 
-Bundesarchiv_Bild_102-02454,_Genf,_Schlusssitzung_des_Völkerbundrates.jpg conference in Geneva (1926).]]
+conference in Geneva (1926).]]
 
 Germany considered invading Switzerland during World War II, but never attacked.[20] Under General Henri Guisan, the Swiss army prepared for mass mobilization of militia forces against invasion, and prepared strong, well-stockpiled positions high in the Alps known as the _Réduit_. Switzerland remained independent and neutral through a combination of military deterrence, economic concessions to Germany, and good fortune as larger events during the war delayed an invasion.
 
@@ -146,7 +142,7 @@ History after 1945
 
 During the Cold War, Swiss authorities considered the construction of a Swiss nuclear bomb.[32] Leading nuclear physicists at the Federal Institute of Technology Zurich such as Paul Scherrer made this a realistic possibility. However, financial problems with the defense budget prevented the substantial funds from being allocated, and the Nuclear Non-Proliferation Treaty of 1968 was seen as a valid alternative. All remaining plans for building nuclear weapons were dropped by 1988.[33]
 
-Pascal_Couchepin_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg at the World Economic Forum, one of the many international organizations based in Switzerland]]
+at the World Economic Forum, one of the many international organizations based in Switzerland]]
 
 From 1959, the Federal Council, elected by the parliament, is composed of members of the four major parties, the Protestant Free Democrats, the Catholic Christian Democrats, the left-wing Social Democrats and the right-wing People's Party, essentially creating a system without a sizeable parliamentary opposition (see concordance system), reflecting the powerful position of an opposition in a direct democracy.
 
@@ -165,30 +161,30 @@ The order of precedence of the Swiss cantons given in the federal constitution f
 
 _Eight Cantons_
 
--   1291 founding cantons – Uri-coat_of_arms.svg Uri, Schwytz-coat_of_arms.svg Schwyz, Wappen_Unterwalden_alt.svg Unterwalden
--   1332 – Lucerne-coat_of_arms.svg Lucerne
--   1351 – Zurich-coat_of_arms.svg Zürich
--   1352 – Glaris-coat_of_arms.svg Glarus, Zug-coat_of_arms.svg Zug
--   1353 – Berne-coat_of_arms.svg Bern
+-   1291 founding cantons – Uri, Schwyz, Unterwalden
+-   1332 – Lucerne
+-   1351 – Zürich
+-   1352 – Glarus, Zug
+-   1353 – Bern
 
 expansion to _Thirteen Cantons_
 
--   1481 – Fribourg-coat_of_arms.svg Fribourg, Solothurn-coat_of_arms.svg Solothurn
--   1501 – Bale-coat_of_arms.svg Basel, Schaffhouse-coat_of_arms.svg Schaffhausen
--   1513 – AppenzellRI-coat_of_arms.svg Appenzell
+-   1481 – Fribourg, Solothurn
+-   1501 – Basel, Schaffhausen
+-   1513 – Appenzell
 
 Act of Mediation
 
--   1803 – St.Gallen-coat_of_arms.svg St. Gallen, Grisons-coat_of_arms.svg Graubünden, Argovie-coat_of_arms.svg Aargau, Thurgovie-coat_of_arms.svg Thurgau, Tessin-coat_of_arms.svg Ticino, Vaud-coat_of_arms.svg Vaud
+-   1803 – St. Gallen, Graubünden, Aargau, Thurgau, Ticino, Vaud
 
 Restoration period
 
--   1815 – Valais-coat_of_arms.svg Valais, Neuchatel-coat_of_arms.svg Neuchâtel, Coat_of_Arms_of_Geneva.svg Geneva
+-   1815 – Valais, Neuchâtel, Geneva
 
 Switzerland as a federal state
 
--   1979 – Jura-coat_of_arms.svg Jura (secession from Bern)
--   1999 – official status of the six half-cantons as cantons (Obwald-coat_of_arms.svg Obwalden and Nidwald-coat_of_arms.svg Nidwalden, AppenzellRE-coat_of_arms.svg Appenzell Ausserrhoden and AppenzellRI-coat_of_arms.svg Appenzell Innerrhoden, Bale-coat_of_arms.svg Basel-Stadt and BaleCampagne-coat_of_arms.svg Basel-Landschaft)
+-   1979 – Jura (secession from Bern)
+-   1999 – official status of the six half-cantons as cantons ( Obwalden and Nidwalden, Appenzell Ausserrhoden and Appenzell Innerrhoden, Basel-Stadt and Basel-Landschaft)
 
 
 See also

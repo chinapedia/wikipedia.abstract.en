@@ -1,1 +1,0 @@
-RASHOD DEMONTARY HILL (born January 12, 1992) is an American football offensive tackle for the Minnesota Vikings of the National Football League (NFL). He played college football at the University of Southern Mississippi.

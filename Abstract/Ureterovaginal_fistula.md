@@ -1,1 +1,0 @@
-A URETEROVAGINAL FISTULA is an abnormal passageway existing between the ureter and the vagina. It presents as urinary incontinence. Its impact on women is to reduce the "quality of life dramatically."

@@ -1,1 +1,0 @@
-EMERALD CANYON is a canyon and watercourse in Laguna Beach, Orange County, California, which drains a section of the San Joaquin Hills northwest of central Laguna Beach. Emerald Canyon Creek, about long, originates at the summit of the range near SR 73 (the San Joaquin Hills Toll Road) and flows southwest under the Pacific Coast Highway into Emerald Bay.[1]

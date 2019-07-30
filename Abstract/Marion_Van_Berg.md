@@ -1,1 +1,0 @@
-MARION VAN BERG (January 15, 1896 – May 3, 1971) was an American Thoroughbred racehorse trainer. He was inducted into the National Museum of Racing and Hall of Fame in 1970.[1] His son Jack Van Berg also went on to become a racehorse trainer.

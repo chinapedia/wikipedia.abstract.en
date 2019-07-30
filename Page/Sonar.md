@@ -1,4 +1,4 @@
-Motte-Picquet-tugged-sonar.jpg (here, _La Motte-Picquet_) are fitted with VDS (Variable Depth Sonar) type DUBV43 or DUBV43C towed sonars]] Miinitraaleri_"Virsaitis"_vrakk.jpg minesweeper T-297, formerly the Latvian _Virsaitis_, which was shipwrecked on 3 December 1941 in the Gulf of Finland[1]]]
+(here, _La Motte-Picquet_) are fitted with VDS (Variable Depth Sonar) type DUBV43 or DUBV43C towed sonars]] minesweeper T-297, formerly the Latvian _Virsaitis_, which was shipwrecked on 3 December 1941 in the Gulf of Finland[1]]]
 
 SONAR (originally an acronym for SOund NAvigation Ranging) is a technique that uses sound propagation (usually underwater, as in submarine navigation) to navigate, communicate with or detect objects on or under the surface of the water, such as other vessels.[2] Two types of technology share the name "sonar": _passive_ sonar is essentially listening for the sound made by vessels; _active_ sonar is emitting pulses of sounds and listening for echoes. Sonar may be used as a means of acoustic location and of measurement of the echo characteristics of "targets" in the water. Acoustic location in air was used before the introduction of radar. Sonar may also be used for robot navigation,[3] and SODAR (an upward-looking in-air sonar) is used for atmospheric investigations. The term _sonar_ is also used for the equipment used to generate and receive the sound. The acoustic frequencies used in sonar systems vary from very low (infrasonic) to extremely high (ultrasonic). The study of underwater sound is known as underwater acoustics or hydroacoustics.
 
@@ -18,8 +18,6 @@ The Canadian engineer Reginald Fessenden, while working for the Submarine Signal
 During World War I the need to detect submarines prompted more research into the use of sound. The British made early use of underwater listening devices called hydrophones, while the French physicist Paul Langevin, working with a Russian immigrant electrical engineer Constantin Chilowsky, worked on the development of active sound devices for detecting submarines in 1915. Although piezoelectric and magnetostrictive transducers later superseded the electrostatic transducers they used, this work influenced future designs. Lightweight sound-sensitive plastic film and fibre optics have been used for hydrophones (acousto-electric transducers for in-water use), while Terfenol-D and PMN (lead magnesium niobate) have been developed for projectors.
 
 ASDIC
-
-ASDIC.png
 
 In 1916, under the British Board of Invention and Research, Canadian physicist Robert William Boyle took on the active sound detection project with A. B. Wood, producing a prototype for testing in mid-1917. This work, for the Anti-Submarine Division of the British Naval Staff, was undertaken in utmost secrecy, and used quartz piezoelectric crystals to produce the world's first practical underwater active sound detection apparatus. To maintain secrecy, no mention of sound experimentation or quartz was made – the word used to describe the early work ("supersonics") was changed to "ASD"ics, and the quartz material to "ASD"ivite: "ASD" for "Anti-Submarine Division", hence the British acronym _ASDIC_. In 1939, in response to a question from the Oxford English Dictionary, the Admiralty made up the story that it stood for "Allied Submarine Detection Investigation Committee", and this is still widely believed,[15] though no committee bearing this name has been found in the Admiralty archives.[16]
 
@@ -66,7 +64,7 @@ Other types of transducers include variable-reluctance (or moving-armature, or e
 
 Active sonar
 
-Sonar_Principle_EN.svg Active sonar uses a sound transmitter and a receiver. When the two are in the same place it is monostatic operation. When the transmitter and receiver are separated it is bistatic operation. When more transmitters (or more receivers) are used, again spatially separated, it is multistatic operation. Most sonars are used monostatically with the same array often being used for transmission and reception. Active sonobuoy fields may be operated multistatically.
+Active sonar uses a sound transmitter and a receiver. When the two are in the same place it is monostatic operation. When the transmitter and receiver are separated it is bistatic operation. When more transmitters (or more receivers) are used, again spatially separated, it is multistatic operation. Most sonars are used monostatically with the same array often being used for transmission and reception. Active sonobuoy fields may be operated multistatically.
 
 Active sonar creates a pulse of sound, often called a "ping", and then listens for reflections (echo) of the pulse. This pulse of sound is generally created electronically using a sonar projector consisting of a signal generator, power amplifier and electro-acoustic transducer/array. A beamformer is usually employed to concentrate the acoustic power into a beam, which may be swept to cover the required search angles. Generally, the electro-acoustic transducers are of the Tonpilz type and their design may be optimised to achieve maximum efficiency over the widest bandwidth, in order to optimise performance of the overall system. Occasionally, the acoustic pulse may be created by other means, e.g. chemically using explosives, airguns or plasma sound sources.
 
@@ -207,8 +205,6 @@ Examples of sonar applications in military use are given below. Many of the civi
 
 Anti-submarine warfare
 
-Variabel_dybde_sonar_(VDS)_på_et_af_søværnets_skibe_af_Thetis-klassen.jpg
-
 Until recently, ship sonars were usually with hull mounted arrays, either amidships or at the bow. It was soon found after their initial use that a means of reducing flow noise was required. The first were made of canvas on a framework, then steel ones were used. Now domes are usually made of reinforced plastic or pressurized rubber. Such sonars are primarily active in operation. An example of a conventional hull mounted sonar is the SQS-56.
 
 Because of the problems of ship noise, towed sonars are also used. These also have the advantage of being able to be placed deeper in the water. However, there are limitations on their use in shallow water. These are called towed arrays (linear) or variable depth sonars (VDS) with 2/3D arrays. A problem is that the winches required to deploy/recover these are large and expensive. VDS sets are primarily active in operation while towed arrays are passive.
@@ -235,7 +231,7 @@ Submarines rely on sonar to a greater extent than surface ships as they cannot u
 
 Aircraft
 
-Helicopters can be used for antisubmarine warfare by deploying fields of active-passive sonobuoys or can operate dipping sonar, such as the AQS-13. Fixed wing aircraft can also deploy sonobuoys and have greater endurance and capacity to deploy them. Processing from the sonobuoys or dipping sonar can be on the aircraft or on ship. Dipping sonar has the advantage of being deployable to depths appropriate to daily conditions. Helicopters have also been used for mine countermeasure missions using towed sonars such as the AQS-20A. SH-3H_HS-15_lowers_AQS-13_sonar_1979.JPEG]]
+Helicopters can be used for antisubmarine warfare by deploying fields of active-passive sonobuoys or can operate dipping sonar, such as the AQS-13. Fixed wing aircraft can also deploy sonobuoys and have greater endurance and capacity to deploy them. Processing from the sonobuoys or dipping sonar can be on the aircraft or on ship. Dipping sonar has the advantage of being deployable to depths appropriate to daily conditions. Helicopters have also been used for mine countermeasure missions using towed sonars such as the AQS-20A. ]]
 
 Underwater communications
 
@@ -252,8 +248,6 @@ Underwater security
 Sonar can be used to detect frogmen and other scuba divers. This can be applicable around ships or at entrances to ports. Active sonar can also be used as a deterrent and/or disablement mechanism. One such device is the Cerberus system.
 
 Hand-held sonar
-
-US_Navy_030223-N-7479T-011_An_AN-PQS-2A,_a_handheld_sonar_device_used_to_aid_in_the_search_of_the_Toledo_Bend_Reservoir_for_debris_from_the_Space_Shuttle_Columbia.jpg
 
 Limpet mine imaging sonar (LIMIS) is a hand-held or ROV-mounted imaging sonar designed for patrol divers (combat frogmen or clearance divers) to look for limpet mines in low visibility water.
 
@@ -272,7 +266,7 @@ Fisheries
 
 Fishing is an important industry that is seeing growing demand, but world catch tonnage is falling as a result of serious resource problems. The industry faces a future of continuing worldwide consolidation until a point of sustainability can be reached. However, the consolidation of the fishing fleets are driving increased demands for sophisticated fish finding electronics such as sensors, sounders and sonars. Historically, fishermen have used many different techniques to find and harvest fish. However, acoustic technology has been one of the most important driving forces behind the development of the modern commercial fisheries.
 
-Sound waves travel differently through fish than through water because a fish's air-filled swim bladder has a different density than seawater. This density difference allows the detection of schools of fish by using reflected sound. Acoustic technology is especially well suited for underwater applications since sound travels farther and faster underwater than in air. Today, commercial fishing vessels rely almost completely on acoustic sonar and sounders to detect fish. Fishermen also use active sonar and echo sounder technology to determine water depth, bottom contour, and bottom composition. Fishfinder.jpg
+Sound waves travel differently through fish than through water because a fish's air-filled swim bladder has a different density than seawater. This density difference allows the detection of schools of fish by using reflected sound. Acoustic technology is especially well suited for underwater applications since sound travels farther and faster underwater than in air. Today, commercial fishing vessels rely almost completely on acoustic sonar and sounders to detect fish. Fishermen also use active sonar and echo sounder technology to determine water depth, bottom contour, and bottom composition.
 
 Companies such as eSonar, Raymarine UK, Marport Canada, Wesmar, Furuno, Krupp, and Simrad make a variety of sonar and acoustic instruments for the deep sea commercial fishing industry. For example, net sensors take various underwater measurements and transmit the information back to a receiver on board a vessel. Each sensor is equipped with one or more acoustic transducers depending on its specific function. Data is transmitted from the sensors using wireless acoustic telemetry and is received by a hull mounted hydrophone. The analog signals are decoded and converted by a digital acoustic receiver into data which is transmitted to a bridge computer for graphical display on a high resolution monitor.
 
@@ -325,7 +319,7 @@ Sonars have been developed that can be used to characterise the sea bottom into,
 
 Bathymetric mapping
 
-Sonar_operations_by_survey_ship.jpg ship conducting multibeam and side-scan sonar operations]]
+ship conducting multibeam and side-scan sonar operations]]
 
 Side-scan sonars can be used to derive maps of seafloor topography (bathymetry) by moving the sonar across it just above the bottom. Low frequency sonars such as GLORIA have been used for continental shelf wide surveys while high frequency sonars are used for more detailed surveys of smaller areas.
 
@@ -350,7 +344,7 @@ Effect of sonar on marine life
 
 Effect on marine mammals
 
-Humpback_Whale_underwater_shot.jpg]] Research has shown that use of active sonar can lead to mass strandings of marine mammals.[31] Beaked whales, the most common casualty of the strandings, have been shown to be highly sensitive to mid-frequency active sonar.[32] Other marine mammals such as the blue whale also flee away from the source of the sonar,[33] while naval activity was suggested to be the most probable cause of a mass stranding of dolphins.[34] The US Navy, which part-funded some of the studies, said that the findings only showed behavioural responses to sonar, not actual harm, but they "will evaluate the effectiveness of [their] marine mammal protective measures in light of new research findings".[35] A 2008 US Supreme Court ruling on the use of sonar by the US Navy noted that there had been no cases where sonar had been conclusively shown to have harmed or killed a marine mammal.[36]
+]] Research has shown that use of active sonar can lead to mass strandings of marine mammals.[31] Beaked whales, the most common casualty of the strandings, have been shown to be highly sensitive to mid-frequency active sonar.[32] Other marine mammals such as the blue whale also flee away from the source of the sonar,[33] while naval activity was suggested to be the most probable cause of a mass stranding of dolphins.[34] The US Navy, which part-funded some of the studies, said that the findings only showed behavioural responses to sonar, not actual harm, but they "will evaluate the effectiveness of [their] marine mammal protective measures in light of new research findings".[35] A 2008 US Supreme Court ruling on the use of sonar by the US Navy noted that there had been no cases where sonar had been conclusively shown to have harmed or killed a marine mammal.[36]
 
 Some marine animals, such as whales and dolphins, use echolocation systems, sometimes called _biosonar_ to locate predators and prey. Research on the effects of sonar on blue whales in the Southern California Bight shows that mid-frequency sonar use disrupts the whales' feeding behavior. This indicates that sonar-induced disruption of feeding and displacement from high-quality prey patches could have significant and previously undocumented impacts on baleen whale foraging ecology, individual fitness and population health.[37]
 

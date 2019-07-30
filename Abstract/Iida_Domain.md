@@ -1,1 +1,0 @@
-thumb was a feudal domain under the Tokugawa shogunate of Edo period Japan. It is located in Shinano Province, Honshū. The domain was centered at Iida Castle, located in what is now part of the town of Iida in Nagano Prefecture.[1] It was also known as .

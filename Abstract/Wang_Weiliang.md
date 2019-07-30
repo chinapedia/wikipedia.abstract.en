@@ -1,1 +1,0 @@
-WANG WEILIANG (, born October 11, 1987) is a Singaporean actor. A getai performer-turned-actor, Wang has become a local celebrity after the successes of _Ah Boys to Men_ movie series by director Jack Neo.[1][2][3]

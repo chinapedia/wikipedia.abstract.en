@@ -1,1 +1,0 @@
-The DOWNTOWN RAWLINS HISTORIC DISTRICT comprises the historic center of Rawlins, Wyoming. It comprises the area between Second and Sixth Streets and Front to Buffalo Streets and along 5th Street between West Spruce and West Cedar. The town owes much of its living to the Union Pacific Railway, which took advantage of spring in the Rawlins area to establish services there.[1]

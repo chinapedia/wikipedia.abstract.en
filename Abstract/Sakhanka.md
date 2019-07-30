@@ -1,1 +1,0 @@
-SAKHANKA (; ) is a village in Novoazovsk Raion (district) in Donetsk Oblast of eastern Ukraine, at 126 km south from the centre of Donetsk city; the SE part of the village borders with the Sea of Azov.

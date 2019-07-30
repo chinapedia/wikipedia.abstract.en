@@ -1,1 +1,0 @@
-NIKOLA TESLA (;[1] ; ; 10 July 1856 – 7 January 1943) was a Serbian-American[2][3] inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system.[4]

@@ -1,1 +1,0 @@
-Aluf AMIKAM NORKIN (; born December 20, 1966) is an Israeli general and current commander of the Israeli Air Force. Before his selection to succeed Amir Eshel as commander of the IAF, Norkin served as head of the IDF Planning Directorate.[1][2]

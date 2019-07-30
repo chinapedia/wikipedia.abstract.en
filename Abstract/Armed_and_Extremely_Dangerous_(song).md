@@ -1,1 +1,0 @@
-"ARMED AND EXTREMELY DANGEROUS" is a 1973 song by American girl group First Choice from their album Armed and Extremely Dangerous. It is their highest charting single in the US & is arguably the band's most well-known song.

@@ -1,1 +1,0 @@
-ACHADA SANTO ANTÓNIO is a subdivision of the city of Praia in the island of Santiago, Cape Verde. Its population was 12,965 at the 2010 census.[1] It is situated near the Atlantic coast, southwest of the city centre. Igreja_do_Nazareno_do_Praia.jpg PraiaCentrodeSaúde.jpg

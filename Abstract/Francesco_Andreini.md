@@ -1,1 +1,0 @@
-Francesco_Andreini,_engraved_portrait_from_Le_Bravure_del_Capitano_Spavento_1624_-_Google_Books_2013.jpg

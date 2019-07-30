@@ -1,1 +1,0 @@
-_FRENCH CONCERT_ is a live album by the Shelly Manne Quartet featuring Lee Konitz, recorded in Paris by Radio France as part of George Wein's Newport Jazz Festival tour in 1977, and released on the Galaxy label in 1979.[1][2][3]

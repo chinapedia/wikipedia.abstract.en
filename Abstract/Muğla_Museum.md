@@ -1,1 +1,0 @@
-MUĞLA MUSEUM is a museum in Muğla, Turkey. It is a general purpose museum combining natural history, archaeology and ethnography. The museum building, which is located on Müştak Bey street,[1] is the former prison of Muğla city. The building was restored and opened as a museum in 1994. [2]

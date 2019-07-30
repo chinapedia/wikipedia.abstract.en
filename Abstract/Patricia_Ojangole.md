@@ -1,1 +1,0 @@
-PATRICIA OJANGOLE BCOM, MBA, FACCA, is a Ugandan accountant and bank executive. She is the Chief Executive Officer of Uganda Development Bank, Uganda's only national development finance institution.[1]

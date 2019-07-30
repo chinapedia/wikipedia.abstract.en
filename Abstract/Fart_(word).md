@@ -1,1 +1,0 @@
-The_Papal_Belvedere.jpg, commissioned by Martin Luther.[1] Title: Kissing the Pope's Feet.[2] German peasants respond to a papal bull of Pope Paul III. Caption reads: "Don't frighten us Pope, with your ban, and don't be such a furious man. Otherwise we shall turn around and show you our rears."[3][4]]]

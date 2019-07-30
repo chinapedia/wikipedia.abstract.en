@@ -1,1 +1,0 @@
-__ (; _TWILIGHT OF THE GODS_),[1] WWV 86D, is the last in Richard Wagner's cycle of four music dramas titled __ (_The Ring of the Nibelung_, or _The Ring_ for short). It received its premiere at the on 17 August 1876, as part of the first complete performance of the _Ring_.

@@ -1,1 +1,0 @@
-NAKHON RATCHASIMA HUAI THALAENG UNITED FOOTBALL CLUB (Thai สโมสรฟุตบอลนครราชสีมาห้วยแถลง ยูไนเต็ด), is a Thai football club based in Huai Thalaeng District in Nakhon Ratchasima, Thailand. The club is currently playing in the 2017 Thai League 4 North Eastern Region.

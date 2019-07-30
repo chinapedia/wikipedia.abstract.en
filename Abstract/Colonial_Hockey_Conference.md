@@ -1,1 +1,0 @@
-The COLONIAL HOCKEY CONFERENCE (CHC) is an athletic conference that operates in the northeastern United States. It participates in the NCAA's Division III as an ice hockey-only conference and includes only women's teams.

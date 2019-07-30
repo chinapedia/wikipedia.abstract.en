@@ -1,1 +1,0 @@
-The HARVEY M. VAILE MANSION is located at 1500 North Liberty Street in Independence, Missouri. Built in 1881 for businessman Harvey M. Vaile, it is a locally significant example of Second Empire architecture. The house was listed on the National Register of Historic Places in 1969 and designated locally in 2002; it is open to the public as a museum.

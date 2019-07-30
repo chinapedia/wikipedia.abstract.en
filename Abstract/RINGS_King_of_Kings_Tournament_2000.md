@@ -1,1 +1,0 @@
-The _KING OF KINGS TOURNAMENT 2000_ was a series of three separate mixed martial arts events held by the Fighting Network Rings (RINGS). The tournament took place in both Tokyo and Osaka between October 9, 2000 and February 24, 2001. The tournament was the second of two King of Kings tournaments.

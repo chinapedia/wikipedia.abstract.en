@@ -1,1 +1,0 @@
-Bank of the Cascades is the principal subsidiary of CASCADE BANCORP (NASDAQ: CACB).[1] Headquartered in Bend, Oregon, it was founded in 1977.[2] They are a sponsor of the Bank of The Cascades Center, a 4,000 seat arena in Redmond, Oregon. The company announced in 2016 it would be acquired by First Interstate BancSystem of Montana for $589 million.[3]

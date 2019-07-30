@@ -1,1 +1,0 @@
-CYGWIN ( [1]) is a POSIX-compatible environment that runs natively on Microsoft Windows. Its goal is to allow programs of Unix-like systems to be recompiled and run natively on Windows with minimal source code modifications by providing them with the same underlying POSIX API they would expect in those systems.

@@ -1,1 +1,0 @@
-In shogi, OPPOSING ROOK (向かい飛車 _mukaibisha,_ also OPPOSITE ROOK, SECOND FILE ROOK) is a class of Ranging Rook openings in which the player's rook swings over to the second file if played by White or the eighth file if played by Black.

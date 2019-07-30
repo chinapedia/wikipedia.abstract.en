@@ -1,1 +1,0 @@
-The NOT DEAD YET TOUR (also known as NOT DEAD YET LIVE! and STILL NOT DEAD YET LIVE!) is a concert tour by English recording artist Phil Collins, named after his autobiography released on 25 October 2016.[1]

@@ -1,0 +1,5 @@
+FMD_note.jpg
+
+The 2001 FOOT-AND-MOUTH OUTBREAK included 2,000 cases of the disease in cattle and sheep across the UK. The source was a Northumberland farm where pigs had been fed infected meat that had not been adequately sterilised. The initial cases were reported in February. The disease was concentrated in western England, southern Scotland and Wales, with Cumbria being the worst-affected area. A small outbreak occurred in the Netherlands, and there were a handful of cases elsewhere in Europe.
+
+The UK outbreak was controlled by the beginning of October. Control measures included stopping animal movement and slaughtering over 10 million cows and sheep. Access to farmland and moorland was also restricted, greatly reducing tourism in affected areas, particularly in the Lake District. Vaccination was used in the Netherlands, but not in the UK due to concerns that vaccinated livestock could not be exported. The outbreak cost an estimated £8bn in the UK.

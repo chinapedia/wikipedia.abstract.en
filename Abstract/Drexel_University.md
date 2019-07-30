@@ -1,1 +1,0 @@
-DREXEL UNIVERSITY is a private research university with its main campus in Philadelphia, Pennsylvania. It was founded in 1891 by Anthony J. Drexel, a financier and philanthropist. Founded as DREXEL INSTITUTE OF ART, SCIENCE, AND INDUSTRY, it was renamed DREXEL INSTITUTE OF TECHNOLOGY in 1936, before assuming the name Drexel University in 1970.

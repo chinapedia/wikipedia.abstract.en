@@ -9,7 +9,7 @@ History of Syracuse
 
 Greek period
 
-SNGANS_259.jpg (c. 415–405 BC), sporting Arethusa and a quadriga.]] Decadrachme_de_Sicile_sous_Denys_l'Ancien.jpg Sicily_Syracuse_Arethusa_Tetradrachm.jpg Thesaurus_opticus_Titelblatt.jpg
+(c. 415–405 BC), sporting Arethusa and a quadriga.]]
 
 Syracuse and its surrounding area have been inhabited since ancient times, as shown by the findings in the villages of Stentinello, Ognina, Plemmirio, Matrensa, Cozzo Pantano and _Thapsos_, which already had a relationship with Mycenaean Greece.
 
@@ -33,7 +33,7 @@ Hiero's successor, the young Hieronymus (ruled from 215 BC), broke the alliance
 
 Imperial Roman and Byzantine period
 
-Syrakus_BW_2012-10-06_16-44-19.jpg Temple_of_Apollo,_Syracuse,_Sicily.JPG]] Sicilia_Siracusa1_tango7174.jpg SiracusaCathedral-pjt1.jpg Though declining slowly through the years, Syracuse maintained the status of capital of the Roman government of Sicily and seat of the praetor. It remained an important port for trade between the Eastern and the Western parts of the Empire. Christianity spread in the city through the efforts of Paul of Tarsus and Saint Marziano, the first bishop of the city, who made it one of the main centres of proselytism in the West. In the age of Christian persecutions massive catacombs were carved, whose size is second only to those of Rome.
+]] Though declining slowly through the years, Syracuse maintained the status of capital of the Roman government of Sicily and seat of the praetor. It remained an important port for trade between the Eastern and the Western parts of the Empire. Christianity spread in the city through the efforts of Paul of Tarsus and Saint Marziano, the first bishop of the city, who made it one of the main centres of proselytism in the West. In the age of Christian persecutions massive catacombs were carved, whose size is second only to those of Rome.
 
 After a period of Vandal rule, 469–477, Syracuse and the island was recovered for Roman rule under Odoacer, 476–491 and Theodoric the Great, 491–526, by Belisarius for the Byzantine Empire (31 December 535).[17] From 663 to 668 Syracuse was the seat of Emperor Constans II, as well as a capital of the Roman Empire and metropolis of the whole Sicilian Church.
 
@@ -92,8 +92,6 @@ Buildings of the Greek period
 
 Buildings of the Christian period
 
-Santa_Lucia_Alla_Badia_Church_in_Syracuse.JPG
-
 -   The Cathedral of Syracuse () was built by bishop Zosimo in the 7th century over the great _Temple of Athena_ (5th century BC), on Ortygia island. This was a Doric edifice with six columns on the short sides and 14 on the long sides: these can still be seen incorporated in the walls of the current church. The base of the temple had three steps. The interior of the church has a nave and two aisles. The roof of the nave is from Norman times, as well as the mosaics in the apses. The façade was rebuilt by Andrea Palma in 1725–1753, with a double order of Corinthian columns, and statues by Ignazio Marabitti. The most interesting pieces of the interior are a font with marble basin (12th–13th century), a silver statue of _St. Lucy_ by Pietro Rizzo (1599), a ciborium by Luigi Vanvitelli, and a statue of the _Madonna della Neve_ ("Madonna of the Snow", 1512) by Antonello Gagini.
 -   Basilica of _Santa Lucia Extra moenia_, a Byzantine church built (after Norman rebuilt), according to tradition, in the same place of the martyrdom of the saint in 303 AD. The current appearance is from the 15th–16th centuries. The most ancient parts still preserved include the portal, the three half-circular apses and the first two orders of the belfry. Under the church are the _Catacombs of St. Lucy_. For this church Caravaggio painted the Burial of St. Lucy, now housed in the Church of _Santa Lucìa alla Badìa_.
 -   Our Lady of Tears Shrine (20th century).
@@ -112,7 +110,7 @@ Santa_Lucia_Alla_Badia_Church_in_Syracuse.JPG
 
 Other notable buildings
 
-Siracusa-castello_mainace.jpg]] Syrakus_BW_2012-10-06_14-16-50.jpg Siracusa-piazza_archimede.jpg]]
+]] ]]
 
 -   Castello Maniace, constructed between 1232 and 1240, is an example of the military architecture of Frederick II's reign. It is a square structure with circular towers at each of the four corners. The most striking feature is the pointed portal, decorated with polychrome marbles.
 -   The important _Archaeological Museum_, with collections including findings from the mid-Bronze Age to 5th century BC.

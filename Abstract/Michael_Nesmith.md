@@ -1,1 +1,0 @@
-ROBERT MICHAEL NESMITH (born December 30, 1942) is an American musician, songwriter, actor, producer, novelist, businessman, and philanthropist, best known as a member of the pop rock band the Monkees and co-star of the TV series _The Monkees_ (1966–1968). Nesmith's songwriting credits include "Different Drum" (sung by Linda Ronstadt with the Stone Poneys).

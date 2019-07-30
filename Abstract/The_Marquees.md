@@ -1,1 +1,0 @@
-THE MARQUEES were an American doo-wop group formed in Washington, D.C., in 1957. Evolving from the former group the Rainbows, the Marquees included Marvin Gaye and backed musicians such as Bo Diddley and Billy Stewart. The group also recorded as the New Moonglows with singer Harvey Fuqua.

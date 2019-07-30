@@ -1,1 +1,0 @@
-ADA ELIZABETH EDITH SWANWICK RA (1915–1989), always known as BETTY SWANWICK, was an English artist, novelist and art teacher.[1] She was head of illustration at Goldsmiths College and is known for her work for London Transport and an album cover for Genesis.[2]

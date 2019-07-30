@@ -1,1 +1,0 @@
-_KICKING OUT SHOSHANA_ ( _Shoshana Khaloutz Merkazi_) is a 2014 Israeli comedy-sports film directed by Shay Kanot. It features Gal Gadot as her first role in an Israeli film. The film also stars Oshri Cohen, Mariano Idelman and Eli Finish. It was released on July 17, 2014.[1]

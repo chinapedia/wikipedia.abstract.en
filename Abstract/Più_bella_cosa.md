@@ -1,1 +1,0 @@
-"PIÙ BELLA COSA" ( meaning "The Most Beautiful Thing") is an Italian language song written by singer Eros Ramazzotti, with Claudio Guidetti, Maurizio Fabrizio, Adelio Cogliati and performed by Ramazzotti in February 1996, as a first single and pre-release from his album _Dove c'è musica_ ("Where There's Music") that came out on May 13 of that year.

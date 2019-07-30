@@ -1,1 +1,0 @@
-The POLISH THEATRE in Poznań () is a Polish dramatic theatre founded in 1875. Is one of the oldest and best-known dramatic theatres in Poland. The Polish Theatre in Poznań has four stages: Main Stage (300 seats), Malarnia Stage (100 seats), Gallery Stage (40 seats) and Stage "Basement under the Stage".[1][2][3]

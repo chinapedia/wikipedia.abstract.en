@@ -1,1 +1,0 @@
-The OLD STONE HOUSE is a historic house at 73 East Allen Street in central Winooski, Vermont. Built about 1790, it is the city's oldest building. It has served as a tavern, and as residences, and is now in use as professional offices. It was listed on the National Register of Historic Places in 1973.[1]

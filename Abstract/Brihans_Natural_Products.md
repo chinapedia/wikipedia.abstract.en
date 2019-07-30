@@ -1,1 +1,0 @@
-BRIHANS NATURAL PRODUCTS LTD. is an Indian natural cosmetics and consumer products company based in Shaniwar Peth, Pune, Maharashtra, India. The company manufactures skin care, hair care and health care products.[1]

@@ -3,7 +3,7 @@ The SOCIETY FOR PSYCHICAL RESEARCH (SPR) is a nonprofit organisation in the Unit
 
 Origins
 
-Henry_Sidgwick.jpg, first president of the SPR]]
+, first president of the SPR]]
 
 The Society for Psychical Research (SPR) originated from a discussion between journalist Edmund Rogers and the physicist William F. Barrett in autumn 1881. This led to a conference on the 5 and 6 January 1882 at the headquarters of the British National Association of Spiritualists which the foundation of the Society was proposed.[3] The committee included Barrett, Rogers, Stainton Moses, Charles Massey, Edmund Gurney, Hensleigh Wedgwood and Frederic W. H. Myers.[4] The SPR was formally constituted on the 20 February 1882 with philosopher Henry Sidgwick as its first president.[5][6][7]
 
@@ -59,7 +59,7 @@ Prominent spiritualists at first welcomed the SPR and cooperated fully. But rela
 
 Criticism from sceptics
 
-Trevor_H._Hall.png, a critic of the SPR]] Sceptics have criticised members of the SPR for having motives liable to impair scientific objectivity. According to SPR critics John Grant and Eric Dingwall (a member of the SPR), early SPR members such as Henry Sidgwick, Frederic W. H. Myers, and William Barrett hoped to cling to something spiritual through psychical research.[44][45] Myers stated that "[T]he Society for Psychical Research was founded, with the establishment of thought-transference--already rising within measurable distance of proof--as its primary aim."[46] Defenders of the SPR have stated in reply that "a ‘will to believe’ in post-mortem survival, telepathy and other scientifically unpopular notions, does not necessarily exclude a "will to know" and thus the capacity for thorough self-criticism, methodological rigour and relentless suspicion of errors."[47]
+, a critic of the SPR]] Sceptics have criticised members of the SPR for having motives liable to impair scientific objectivity. According to SPR critics John Grant and Eric Dingwall (a member of the SPR), early SPR members such as Henry Sidgwick, Frederic W. H. Myers, and William Barrett hoped to cling to something spiritual through psychical research.[44][45] Myers stated that "[T]he Society for Psychical Research was founded, with the establishment of thought-transference--already rising within measurable distance of proof--as its primary aim."[46] Defenders of the SPR have stated in reply that "a ‘will to believe’ in post-mortem survival, telepathy and other scientifically unpopular notions, does not necessarily exclude a "will to know" and thus the capacity for thorough self-criticism, methodological rigour and relentless suspicion of errors."[47]
 
 The sceptic and physicist Victor J. Stenger has written:
 

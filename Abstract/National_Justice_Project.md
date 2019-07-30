@@ -1,1 +1,0 @@
-The NATIONAL JUSTICE PROJECT (NJP) is a not for profit legal service established to promote human rights, social justice and to fight against disadvantage and discrimination in Australia through strategic legal action, effective advocacy and communication.

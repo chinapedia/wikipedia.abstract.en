@@ -1,1 +1,0 @@
-HIGHWAY 238 (AR 238, ARK. 238, and HWY. 238) is an east–west state highway in the Lower Arkansas Delta. The route of begins at US Highway 49/US Highway 70 (US 49/US 70) in Brinkley and runs east to US 79 near Moro. The route is maintained by the Arkansas State Highway and Transportation Department (AHTD).

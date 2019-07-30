@@ -1,1 +1,0 @@
-__NOEDITSECTION__ THE SHIELD OF HONOR is a 1928 American silent crime drama film directed by Emory Johnson based on the original story by Emilie Johnson. It starred Neil Hamilton, Dorothy Gulliver, and Ralph Lewis. The movie was released on February 18, 1928 by Universal Pictures. [1] [2]

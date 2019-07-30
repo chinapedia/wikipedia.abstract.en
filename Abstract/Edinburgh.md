@@ -1,1 +1,0 @@
-EDINBURGH (;[1][2][3] ; ) is the capital city of Scotland and one of its 32 council areas. Historically part of the county of Midlothian (interchangeably Edinburghshire prior to 1921),[4] it is located in Lothian on the Firth of Forth's southern shore.

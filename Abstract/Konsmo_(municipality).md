@@ -1,1 +1,0 @@
-KONSMO is a former municipality in Vest-Agder county, Norway. The administrative centre of the municipality was the village of Konsmo where Konsmo Church is located. The municipality encompassed the southern half of the present-day municipality of Audnedal.[1]

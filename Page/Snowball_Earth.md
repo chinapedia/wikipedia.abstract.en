@@ -61,7 +61,7 @@ There is currently only one deposit, the Elatina deposit of Australia, that was 
 
 Low-latitude glacial deposits
 
-PocatelloFm.JPG of the Neoproterozoic Pocatello Formation, a "snowball Earth"-type deposit]] Elatina_Fm_diamictite.JPG below Ediacaran GSSP site in the Flinders Ranges NP, South Australia. A$1 coin for scale.]] Sedimentary rocks that are deposited by glaciers have distinctive features that enable their identification. Long before the advent of the _snowball Earth_ hypothesis many Neoproterozoic sediments had been interpreted as having a glacial origin, including some apparently at tropical latitudes at the time of their deposition. However, it is worth remembering that many sedimentary features traditionally associated with glaciers can also be formed by other means.[26] Thus the glacial origin of many of the key occurrences for snowball Earth has been contested.[27] As of 2007, there was only one "very reliable"—still challenged[28]—datum point identifying tropical tillites,[29] which makes statements of equatorial ice cover somewhat presumptuous. However, evidence of sea-level glaciation in the tropics during the Sturtian is accumulating.[30][31] Evidence of possible glacial origin of sediment includes:
+of the Neoproterozoic Pocatello Formation, a "snowball Earth"-type deposit]] below Ediacaran GSSP site in the Flinders Ranges NP, South Australia. A$1 coin for scale.]] Sedimentary rocks that are deposited by glaciers have distinctive features that enable their identification. Long before the advent of the _snowball Earth_ hypothesis many Neoproterozoic sediments had been interpreted as having a glacial origin, including some apparently at tropical latitudes at the time of their deposition. However, it is worth remembering that many sedimentary features traditionally associated with glaciers can also be formed by other means.[26] Thus the glacial origin of many of the key occurrences for snowball Earth has been contested.[27] As of 2007, there was only one "very reliable"—still challenged[28]—datum point identifying tropical tillites,[29] which makes statements of equatorial ice cover somewhat presumptuous. However, evidence of sea-level glaciation in the tropics during the Sturtian is accumulating.[30][31] Evidence of possible glacial origin of sediment includes:
 
 -   Dropstones (stones dropped into marine sediments), which can be deposited by glaciers or other phenomena.[32]
 -   Varves (annual sediment layers in periglacial lakes), which can form at higher temperatures.[33]
@@ -82,7 +82,7 @@ During the proposed episode of snowball Earth, there are rapid and extreme negat
 
 Banded iron formations
 
-Black-band_ironstone_(aka).jpg Banded iron formations (BIF) are sedimentary rocks of layered iron oxide and iron-poor chert. In the presence of oxygen, iron naturally rusts and becomes insoluble in water. The banded iron formations are commonly very old and their deposition is often related to the oxidation of the Earth's atmosphere during the Palaeoproterozoic era, when dissolved iron in the ocean came in contact with photosynthetically produced oxygen and precipitated out as iron oxide.
+Banded iron formations (BIF) are sedimentary rocks of layered iron oxide and iron-poor chert. In the presence of oxygen, iron naturally rusts and becomes insoluble in water. The banded iron formations are commonly very old and their deposition is often related to the oxidation of the Earth's atmosphere during the Palaeoproterozoic era, when dissolved iron in the ocean came in contact with photosynthetically produced oxygen and precipitated out as iron oxide.
 
 The bands were produced at the tipping point between an anoxic and an oxygenated ocean. Since today's atmosphere is oxygen-rich (nearly 21% by volume) and in contact with the oceans, it is not possible to accumulate enough iron oxide to deposit a banded formation. The only extensive iron formations that were deposited after the Palaeoproterozoic (after 1.8 billion years ago) are associated with Cryogenian glacial deposits.
 
@@ -92,9 +92,7 @@ Being isolated from the oceans, such lakes could have been stagnant and anoxic a
 
 Cap carbonate rocks
 
-Grosser_Aletschgletscher_3178.JPG
-
-Around the top of Neoproterozoic glacial deposits there is commonly a sharp transition into a chemically precipitated sedimentary limestone or dolomite metres to tens of metres thick.[44] These cap carbonates sometimes occur in sedimentary successions that have no other carbonate rocks, suggesting that their deposition is result of a profound aberration in ocean chemistry.[45] Mahameru-volcano.jpeg Period.]]
+Around the top of Neoproterozoic glacial deposits there is commonly a sharp transition into a chemically precipitated sedimentary limestone or dolomite metres to tens of metres thick.[44] These cap carbonates sometimes occur in sedimentary successions that have no other carbonate rocks, suggesting that their deposition is result of a profound aberration in ocean chemistry.[45] Period.]]
 
 These cap carbonates have unusual chemical composition, as well as strange sedimentary structures that are often interpreted as large ripples.[46] The formation of such sedimentary rocks could be caused by a large influx of positively charged ions, as would be produced by rapid weathering during the extreme greenhouse following a snowball Earth event. The isotopic signature of the cap carbonates is near −5 ‰, consistent with the value of the mantle—such a low value is usually/could be taken to signify an absence of life, since photosynthesis usually acts to raise the value; alternatively the release of methane deposits could have lowered it from a higher value, and counterbalance the effects of photosynthesis.
 
@@ -118,8 +116,6 @@ In addition, glacial sediments of the Port Askaig Tillite Formation in Scotland 
 
 
 Mechanisms
-
-SnowballSimulations.jpg
 
 The initiation of a snowball Earth event would involve some initial cooling mechanism, which would result in an increase in Earth's coverage of snow and ice. The increase in Earth's coverage of snow and ice would in turn increase Earth's albedo, which would result in positive feedback for cooling. If enough snow and ice accumulates, run-away cooling would result. This positive feedback is facilitated by an equatorial continental distribution, which would allow ice to accumulate in the regions closer to the equator, where solar radiation is most direct.
 
@@ -151,7 +147,7 @@ In January 2016, Gernon et al. proposed a "shallow-ridge hypothesis" involving t
 
 During the frozen period
 
-AntarcticaDomeCSnow.jpg Global temperature fell so low that the equator was as cold as modern-day Antarctica.[64] This low temperature was maintained by the high albedo of the ice sheets, which reflected most incoming solar energy into space. A lack of heat-retaining clouds, caused by water vapor freezing out of the atmosphere, amplified this effect.
+Global temperature fell so low that the equator was as cold as modern-day Antarctica.[64] This low temperature was maintained by the high albedo of the ice sheets, which reflected most incoming solar energy into space. A lack of heat-retaining clouds, caused by water vapor freezing out of the atmosphere, amplified this effect.
 
 Breaking out of global glaciation
 
@@ -209,7 +205,7 @@ Several alternative explanations for the evidence have been proposed.
 
 Survival of life through frozen periods
 
-Blacksmoker_in_Atlantic_Ocean.jpg, a type of hydrothermal vent]] A tremendous glaciation would curtail photosynthetic life on Earth, thus depleting atmospheric oxygen, and thereby allowing non-oxidized iron-rich rocks to form.
+, a type of hydrothermal vent]] A tremendous glaciation would curtail photosynthetic life on Earth, thus depleting atmospheric oxygen, and thereby allowing non-oxidized iron-rich rocks to form.
 
 Detractors argue that this kind of glaciation would have made life extinct entirely. However, microfossils such as stromatolites and oncolites prove that, in shallow marine environments at least, life did not suffer any perturbation. Instead life developed a trophic complexity and survived the cold period unscathed.[92] Proponents counter that it may have been possible for life to survive in these ways:
 
@@ -235,7 +231,7 @@ The melting of the ice may have presented many new opportunities for diversifica
 
 Effect on early evolution
 
-DickinsoniaCostata.jpg costata'', an Ediacaran organism of unknown affinity, with a quilted appearance]] The Neoproterozoic was a time of remarkable diversification of multicellular organisms, including animals. Organism size and complexity increased considerably after the end of the snowball glaciations. This development of multicellular organisms may have been the result of increased evolutionary pressures resulting from multiple icehouse-hothouse cycles; in this sense, snowball Earth episodes may have "pumped" evolution. Alternatively, fluctuating nutrient levels and rising oxygen may have played a part. Another major glacial episode may have ended just a few million years before the Cambrian explosion.
+costata'', an Ediacaran organism of unknown affinity, with a quilted appearance]] The Neoproterozoic was a time of remarkable diversification of multicellular organisms, including animals. Organism size and complexity increased considerably after the end of the snowball glaciations. This development of multicellular organisms may have been the result of increased evolutionary pressures resulting from multiple icehouse-hothouse cycles; in this sense, snowball Earth episodes may have "pumped" evolution. Alternatively, fluctuating nutrient levels and rising oxygen may have played a part. Another major glacial episode may have ended just a few million years before the Cambrian explosion.
 
 One hypothesis which has been gaining currency in recent years: that early snowball Earths did not so much _affect_ the evolution of life on Earth as result from it. In fact the two hypotheses are not mutually exclusive. The idea is that Earth's life forms affect the global carbon cycle and so major evolutionary events alter the carbon cycle, redistributing carbon within various reservoirs within the biosphere system and in the process temporarily lowering the atmospheric (greenhouse) carbon reservoir until the revised biosphere system settled into a new state. The Snowball I episode (of the Huronian glaciation 2.4 to 2.1 billion years) and Snowball II (of the Precambrian's Cryogenian between 580–850 million years and which itself had a number of distinct episodes) are respectively thought to be caused by the evolution of oxygenic photosynthesis and then the rise of more advanced multicellular animal life and life's colonization of the land.[102][103]
 

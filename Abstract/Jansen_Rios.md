@@ -1,1 +1,0 @@
-JANSEN MANI RIOS (born October 28, 1991) is a Filipino professional basketball player for the NLEX Road Warriors of the Philippine Basketball Association (PBA). He was selected 25th overall in the 2015 PBA draft.

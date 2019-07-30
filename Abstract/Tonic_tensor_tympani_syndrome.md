@@ -1,1 +1,0 @@
-TONIC TENSOR TYMPANI SYNDROME is a disease of the tensor tympani muscle, described by Klochoff et al in 1971.[1][2] It involves a decrease in the contraction threshold of the tensor tympani. This hypercontraction (or spasms) leads to chronic ear pain, in particular in the case of hyperacusis [3] and acoustic shock.[4]

@@ -1,1 +1,0 @@
-The NORTH ATLANTIC TREATY, also referred to as the WASHINGTON TREATY, is the treaty that forms the legal basis of, and is implemented by, the North Atlantic Treaty Organization (NATO). The treaty was signed in Washington, D.C. on 4 April 1949.

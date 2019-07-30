@@ -1,1 +1,0 @@
-The HAZARAS (, ) are an ethnic group native to the mountainous region of Hazarajat in central Afghanistan. They speak the Hazaragi variant of Dari,[1][2][3] one of the two official languages of Afghanistan.

@@ -1,1 +1,0 @@
-TIFFANY JANA (born June 13, 1977) is the founder of TMI Consulting Incorporated, a diversity and inclusion management consulting firm founded in 2003 and headquartered in Richmond, Virginia. TMI Consulting is a benefit corporation as well as a certified B Corporation and earned the 2016 Best for the World[1][2] honor from the nonprofit B Lab that certifies B Corps worldwide.

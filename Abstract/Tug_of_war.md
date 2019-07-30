@@ -1,1 +1,0 @@
-TUG OF WAR (also known as TUG O' WAR, TUG WAR, ROPE WAR, ROPE PULLING, or TUGGING WAR) is a sport that pits two teams against each other in a test of strength: teams pull on opposite ends of a rope, with the goal being to bring the rope a certain distance in one direction against the force of the opposing team's pull.

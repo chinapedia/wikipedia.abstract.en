@@ -1,1 +1,0 @@
-The 1941–42 DREXEL DRAGONS MEN'S BASKETBALL TEAM represented Drexel Institute of Technology during the 1941–42 men's basketball season. The Dragons, led by 3rd year head coach Lawrence Mains, played their home games at Curtis Hall Gym.

@@ -1,1 +1,0 @@
-SUBSTANCE THEORY, or SUBSTANCE–ATTRIBUTE THEORY, is an ontological theory about objecthood positing that a _substance_ is distinct from its properties. A _thing-in-itself_ is a property-bearer that must be distinguished from the properties it bears.[1]

@@ -1,1 +1,0 @@
-The 2013 ASIAN MEN'S HOCKEY CHAMPIONS TROPHY is the 3rd edition of the Asian Hockey Champions Trophy for men. The tournament was held in Japan, Kakamigahara. The Six Asian teams (Pakistan, China, India, Japan, Oman and Malaysia) participated in the tournament which involved round-robin league among all teams followed by play-offs for final positions.

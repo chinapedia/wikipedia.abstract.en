@@ -1,1 +1,0 @@
-PETE "GUITAR" LEWIS (probably July 11, 1913 – September 25, 1970)[1] was an American rhythm and blues guitarist and occasional harmonica player, best known as a session musician and performer with Johnny Otis in the late 1940s and 1950s.

@@ -1,1 +1,0 @@
-_STANDING MERCURY_ is a bronze sculpture by French artist Auguste Rodin, first exhibited in 1888. Rodin depicts the mythological god Mercury, son of Maia and Jupiter—messenger of the gods and guide to the Underworld—as a young man, representing eloquence and reason. This depiction is opposite to the traditional representation of Hermes, its Greek counterpart, as a mature man.[1]

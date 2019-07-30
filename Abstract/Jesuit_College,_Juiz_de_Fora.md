@@ -1,1 +1,0 @@
-JESUIT COLLEGE is a kindergarten through secondary school in Juiz de Fora, Minas Gerais, Brazil. It was founded by the Society of Jesus in 1956 and occupies 20 acres of forested land in the center of the city. In 2015 the college was rated 51st nationally in Brazil among those schools that took the National Secondary Education Examination (Enem).[1]

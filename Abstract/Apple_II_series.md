@@ -1,1 +1,0 @@
-Apple_II_tranparent_800.png

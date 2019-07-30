@@ -1,1 +1,0 @@
-The COLE BLOCK BUILDING is an historic structure located at 702 5th Avenue in San Diego's Gaslamp Quarter, in the U.S. state of California.[1] It was built in 1892, and housed the restaurant La Strada, as of 2011.[2]

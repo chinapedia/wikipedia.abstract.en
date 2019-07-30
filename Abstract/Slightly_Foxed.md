@@ -1,1 +1,0 @@
-_SLIGHTLY FOXED_ is a British quarterly literary magazine. Its primary focus is books and book culture. 2016 saw the publication of its fiftieth issue. Notable authors to have written for the magazine include Penelope Lively, Richard Mabey, Diana Athill, Ronald Blythe and Robert Macfarlane.[1]

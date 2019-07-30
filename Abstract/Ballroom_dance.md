@@ -1,1 +1,0 @@
-Michael_Foskett_&_Nika_Vlasenko_2.JPG BALLROOM DANCE is a set of partner dances, which are enjoyed both socially and competitively around the world. Because of its performance and entertainment aspects, ballroom dance is also widely enjoyed on stage, film, and television.

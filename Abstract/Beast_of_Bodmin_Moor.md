@@ -1,1 +1,0 @@
-The BEAST OF BODMIN MOOR, also known as the BEAST OF BODMIN[1] () is a phantom wild cat purported to live in Cornwall, England. Bodmin Moor became a centre of purported sightings after 1978, with occasional reports of mutilated slain livestock; the alleged panther-like cats of the same region came to be popularly known as the Beast of Bodmin Moor.

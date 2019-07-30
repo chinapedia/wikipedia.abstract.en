@@ -1,1 +1,0 @@
-NEOTENY ()[1][2][3][4], also called JUVENILIZATION,[5] is the delaying or slowing of the physiological (or somatic) development of an organism, typically an animal. Neoteny is found in modern humans.[6] In PROGENESIS (also called PAEDOGENESIS), sexual development is accelerated.[7]

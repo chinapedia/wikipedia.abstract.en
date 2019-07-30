@@ -1,1 +1,0 @@
-_YAHAN AMEENA BIKTI HAI_ is a 2016 Indian drama film directed by Kumar Raj. The Cameroon-based company MD4 Production had a small role to play in the film. Despite that, it was selected as the Cameroonian entry for the Best Foreign Language Film at the 89th Academy Awards.[1][2] However, the film was not included on the final list of submissions published by the Academy.[3]

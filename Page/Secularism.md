@@ -18,7 +18,7 @@ Dictionary definitions
 
 Overview
 
-Holyoake2.JPG writer George Jacob Holyoake (1817–1906) coined the term "secularism" in 1851[20]]] Alberico_Gentili.jpg law professor Alberico Gentili (1552–1608) first split secularism from canon law and Roman Catholic theology.]] The term "secularism" was first used by the British writer George Jacob Holyoake in 1851.[21] Holyoake invented the term secularism to describe his views of promoting a social order separate from religion, without actively dismissing or criticizing religious belief. An agnostic himself, Holyoake argued that "Secularism is not an argument against Christianity, it is one independent of it. It does not question the pretensions of Christianity; it advances others. Secularism does not say there is no light or guidance elsewhere, but maintains that there is light and guidance in secular truth, whose conditions and sanctions exist independently, and act forever. Secular knowledge is manifestly that kind of knowledge which is founded in this life, which relates to the conduct of this life, conduces to the welfare of this life, and is capable of being tested by the experience of this life."[22]
+writer George Jacob Holyoake (1817–1906) coined the term "secularism" in 1851[20]]] law professor Alberico Gentili (1552–1608) first split secularism from canon law and Roman Catholic theology.]] The term "secularism" was first used by the British writer George Jacob Holyoake in 1851.[21] Holyoake invented the term secularism to describe his views of promoting a social order separate from religion, without actively dismissing or criticizing religious belief. An agnostic himself, Holyoake argued that "Secularism is not an argument against Christianity, it is one independent of it. It does not question the pretensions of Christianity; it advances others. Secularism does not say there is no light or guidance elsewhere, but maintains that there is light and guidance in secular truth, whose conditions and sanctions exist independently, and act forever. Secular knowledge is manifestly that kind of knowledge which is founded in this life, which relates to the conduct of this life, conduces to the welfare of this life, and is capable of being tested by the experience of this life."[22]
 
 Barry Kosmin of the Institute for the Study of Secularism in Society and Culture breaks modern secularism into two types: hard and soft secularism. According to Kosmin, "the hard secularist considers religious propositions to be epistemologically illegitimate, warranted by neither reason nor experience." However, in the view of soft secularism, "the attainment of absolute truth was impossible and therefore skepticism and tolerance should be the principle and overriding values in the discussion of science and religion."[23]
 
@@ -34,7 +34,7 @@ Harvey Cox explains that the Enlightenment hailed Nature as the "deep reality" t
 
 State secularism
 
-Map_of_state_religions.svg.
+.
 
 +--+--+--+--+--+
 |  |  |  |  |  |

@@ -1,4 +1,4 @@
-Espadon-Morges.jpg, 15th or 16th century]]
+, 15th or 16th century]]
 
 A SWORD is a bladed weapon intended for slashing or thrusting that is longer than a knife or dagger, consisting of a long blade attached to a hilt. The precise definition of the term varies with the historical epoch or the geographic region under consideration. The blade can be straight or curved. Thrusting swords have a pointed tip on the blade, and tend to be straighter; slashing swords have a sharpened cutting edge on one or both sides of the blade, and are more likely to be curved. Many swords are designed for both thrusting and slashing.
 
@@ -21,7 +21,7 @@ The first weapons that can be described as "swords" date to around 3300 BC. They
 
 Bronze Age
 
-Apa_Schwerter.jpg Nebra_Schwerter.jpg, c. 1600 BC.]] The sword developed from the knife or dagger. A knife is unlike a dagger in that a knife has only one cutting surface, while a dagger has two cutting surfaces. Construction of longer blades became possible during the 3rd millennium BC in the Middle East, first in arsenic copper, then in tin-bronze.
+, c. 1600 BC.]] The sword developed from the knife or dagger. A knife is unlike a dagger in that a knife has only one cutting surface, while a dagger has two cutting surfaces. Construction of longer blades became possible during the 3rd millennium BC in the Middle East, first in arsenic copper, then in tin-bronze.
 
 Blades longer than were rare and not practical until the late Bronze Age because the Young's modulus (stiffness) of bronze is relatively low, and consequently longer blades would bend easily. The development of the sword out of the dagger was gradual; the first weapons that can be classified as swords without any ambiguity are those found in Minoan Crete, dated to about 1700 BC, reaching a total length of more than 100 cm. These are the "type A" swords of the Aegean Bronze Age.
 
@@ -35,7 +35,7 @@ In the Indian subcontinent, earliest available Bronze age swords of copper were 
 
 Iron Age
 
-Hallstatt_'C'_Swords_in_Wels_Museum,_Upper_Austria.jpg swords]]
+swords]]
 
 Iron became increasingly common from the 13th century BC. Before that the use of swords was less frequent. The iron was not quench-hardened although often containing sufficient carbon, but work-hardened like bronze by hammering. This made them comparable or only slightly better in terms of strength and hardness to bronze swords. They could still bend during use rather than spring back into shape. But the easier production, and the better availability of the raw material for the first time permitted the equipment of entire armies with metal weapons, though Bronze Age Egyptian armies were sometimes fully equipped with bronze weapons.[13]
 
@@ -55,7 +55,7 @@ Persian antiquity
 
 In the first millennium BC the Persian armies used a sword that was originally of Scythian design called the akinaka (acinaces). However, the great conquests of the Persians made the sword more famous as a Persian weapon, to the extent that the true nature of the weapon has been lost somewhat as the name Akinaka has been used to refer to whichever form of sword the Persian army favoured at the time.
 
-Darius-Vase.jpg of Persia holding an acinaces in his lap]]
+of Persia holding an acinaces in his lap]]
 
 It is widely believed that the original akinaka was a 14 to 18 inch double-edged sword. The design was not uniform and in fact identification is made more on the nature of the scabbard than the weapon itself; the scabbard usually has a large, decorative mount allowing it to be suspended from a belt on the wearer’s right side. Because of this, it is assumed that the sword was intended to be drawn with the blade pointing downwards ready for surprise stabbing attacks.
 
@@ -69,7 +69,7 @@ Early post-classical history
 
 Europe
 
-Morgan-bible-fl-29.jpg showing 13th-century swords]] During the Middle Ages sword technology improved, and the sword became a very advanced weapon. The spatha type remained popular throughout the Migration period and well into the Middle Ages. Vendel Age spathas were decorated with Germanic artwork (not unlike the Germanic bracteates fashioned after Roman coins). The Viking Age saw again a more standardized production, but the basic design remained indebted to the spatha.[23]
+showing 13th-century swords]] During the Middle Ages sword technology improved, and the sword became a very advanced weapon. The spatha type remained popular throughout the Migration period and well into the Middle Ages. Vendel Age spathas were decorated with Germanic artwork (not unlike the Germanic bracteates fashioned after Roman coins). The Viking Age saw again a more standardized production, but the basic design remained indebted to the spatha.[23]
 
 Around the 10th century, the use of properly quenched hardened and tempered steel started to become much more common than in previous periods. The Frankish 'Ulfberht' blades (the name of the maker inlaid in the blade) were of particularly consistent high quality.[24] Charles the Bald tried to prohibit the export of these swords, as they were used by Vikings in raids against the Franks.
 
@@ -89,8 +89,6 @@ File:Pala type of kilij.jpg|Kilij. File:Sabel, Shamsir (Persien) - Livrustkammar
 
 East Asia
 
-Antique_Japanese_(samurai)_katana.jpg Sword_with_Scabbard_MET_21123_-_cropped.jpg
-
 As steel technology improved, single-edged weapons became popular throughout Asia. Derived from the Chinese Jian or dao, the Korean hwandudaedo are known from the early medieval Three Kingdoms. Production of the Japanese tachi, a precursor to the katana, is recorded from c. AD 900 (see Japanese sword).[31]
 
 Japan was famous for the swords it forged in the early 13th century for the class of warrior-nobility known as the Samurai. The types of swords used by the Samurai included the ōdachi (extra long field sword), tachi (long cavalry sword), katana (long sword), and wakizashi (shorter companion sword for katana). Japanese swords that pre-date the rise of the samurai caste include the tsurugi (straight double-edged blade) and chokutō (straight one-edged blade).[32] Japanese swordmaking reached the height of its development in the 15th and 16th centuries, when samurai increasingly found a need for a sword to use in closer quarters, leading to the creation of the modern katana.[33]
@@ -101,13 +99,13 @@ Southeast Asia
 
 In Indonesia, the images of Indian style swords can be found in Hindu gods statues from ancient Java circa 8th to 10th century. However the native types of blade known as _kris_, _parang_, _klewang_ and _golok_ were more popular as weapons. These daggers are shorter than sword but longer than common dagger.
 
-Kampilan_moro_sword_with_sheath.jpg from the Philippines. The traditional designs of the hilt is a notable depiction from Philippine mythology.]] In The Philippines, traditional large swords known as the Kampilan and the Panabas were used in combat by the natives. A notable wielder of the _kampilan_ was Lapu-Lapu, the king of Mactan and his warriors who defeated the Spaniards and killed Portuguese explorer Ferdinand Magellan at the Battle of Mactan on 27 April 1521.[37] Traditional swords in the Philippines were immediately banned, but the training in swordsmanship was later hidden from the occupying Spaniards by practices in dances. But because of the banning, Filipinos were forced to use swords that were disguised as farm tools. Bolos and baliswords were used during the revolutions against the colonialists not only because ammunition for guns was scarce, but also for concealability while walking in crowded streets and homes. Bolos were also used by young boys who joined their parents in the revolution and by young girls and their mothers in defending the town while the men were on the battlefields. During the Philippine–American War in events such as the Balangiga Massacre, most of an American company was hacked to death or seriously injured by bolo-wielding guerillas in Balangiga, Samar.[38] When the Japanese took control of the country, several American special operations groups stationed in the Philippines were introduced to the Filipino Martial Arts and swordsmanship, leading to this style reaching America despite the fact that natives were reluctant to allow outsiders in on their fighting secrets.[39]
+from the Philippines. The traditional designs of the hilt is a notable depiction from Philippine mythology.]] In The Philippines, traditional large swords known as the Kampilan and the Panabas were used in combat by the natives. A notable wielder of the _kampilan_ was Lapu-Lapu, the king of Mactan and his warriors who defeated the Spaniards and killed Portuguese explorer Ferdinand Magellan at the Battle of Mactan on 27 April 1521.[37] Traditional swords in the Philippines were immediately banned, but the training in swordsmanship was later hidden from the occupying Spaniards by practices in dances. But because of the banning, Filipinos were forced to use swords that were disguised as farm tools. Bolos and baliswords were used during the revolutions against the colonialists not only because ammunition for guns was scarce, but also for concealability while walking in crowded streets and homes. Bolos were also used by young boys who joined their parents in the revolution and by young girls and their mothers in defending the town while the men were on the battlefields. During the Philippine–American War in events such as the Balangiga Massacre, most of an American company was hacked to death or seriously injured by bolo-wielding guerillas in Balangiga, Samar.[38] When the Japanese took control of the country, several American special operations groups stationed in the Philippines were introduced to the Filipino Martial Arts and swordsmanship, leading to this style reaching America despite the fact that natives were reluctant to allow outsiders in on their fighting secrets.[39]
 
 Indian subcontinent
 
 The _Khanda_ is a double-edge straight sword. It is often featured in religious iconography, theatre and art depicting the ancient history of India. Some communities venerate the weapon as a symbol of Shiva. It is a common weapon in the martial arts in the Indian subcontinent.[40] Khanda often appears in Hindu, Buddhist and Sikh scriptures and art.[41] In Sri Lanka, a unique wind furnace was used to produce the high quality steel. This gave the blade a very hard cutting edge and beautiful patterns. For these reasons it became a very popular trading material.[42]
 
-Rajput_Khanda.jpg sword from India.]] The Urumi: (Tamil: சுருள் பட்டாக்கத்தி surul pattai, lit. curling blade; Sinhalese: එතුණු කඩුව ethunu kaduwa; Hindi: aara) is a longsword with a flexible whip-like blade from India. Originating in the country's southern states, it is thought to have existed as far back as the Maurya dynasty (322–185 BC). The urumi is considered one of the most difficult weapons to master due to the risk of injuring oneself. It is treated as a steel whip,[43] and therefore requires prior knowledge of that weapon.
+sword from India.]] The Urumi: (Tamil: சுருள் பட்டாக்கத்தி surul pattai, lit. curling blade; Sinhalese: එතුණු කඩුව ethunu kaduwa; Hindi: aara) is a longsword with a flexible whip-like blade from India. Originating in the country's southern states, it is thought to have existed as far back as the Maurya dynasty (322–185 BC). The urumi is considered one of the most difficult weapons to master due to the risk of injuring oneself. It is treated as a steel whip,[43] and therefore requires prior knowledge of that weapon.
 
 The Firangi: () derived from the Arabic term for a Western European a "Frank") was a sword type which used blades manufactured in Western Europe and imported by the Portuguese, or made locally in imitation of European blades. Because of its length the firangi is usually regarded as primarily a cavalry weapon. The sword has been especially associated with the Marathas, who were famed for their cavalry. However, the firangi was also widely used by Sikhs and Rajputs.[44]
 
@@ -117,7 +115,7 @@ File:Indian tulwar - talwar sword.jpg|Talwar File:Pata-1-Archit-Patel.jpg|Pata F
 
 Africa
 
-State_Gifts_Presentation_Sword.JPG There are several state swords of the Ashanti people in West Africa, the most important of which being the _keteanofena_ (lit. "edge of the sleeping mat swords"), which are divided into akrafena and bosomfena. The akrafena is to be held in the right hand, representing its wielder's _kra_ (soul), while the bosomfena is to be held in the left hand, representing its wielder's _sunsum_ (ego). These swords often have ornate designs, including Ashanti symbolism on their blade and hilt. They are still used today in ceremonies, such as the Odwira festival.[47][48]
+There are several state swords of the Ashanti people in West Africa, the most important of which being the _keteanofena_ (lit. "edge of the sleeping mat swords"), which are divided into akrafena and bosomfena. The akrafena is to be held in the right hand, representing its wielder's _kra_ (soul), while the bosomfena is to be held in the left hand, representing its wielder's _sunsum_ (ego). These swords often have ornate designs, including Ashanti symbolism on their blade and hilt. They are still used today in ceremonies, such as the Odwira festival.[47][48]
 
 The takoba is a type of broadsword originating in the Sahel, descended from the various Byzantine and Islamic swords used across North Africa. Strongly associated with the Tuaregs, it has a straight double-edged blade measuring about 1 meter in length, usually imported from Europe. The hilt has a short, usually simple crossguard either covered in leather or decorative metal plates (typically brass) and a large pommel. The smiths of these swords formed a separate caste, with their own language, and did not intermarry with the Tuaregs.[49][50]
 
@@ -129,7 +127,7 @@ Late post-classical history
 
 From around 1300 to 1500, in concert with improved armour, innovative sword designs evolved more and more rapidly. The main transition was the lengthening of the grip, allowing two-handed use, and a longer blade. By 1400, this type of sword, at the time called _langes Schwert_ (longsword) or _spadone_, was common, and a number of 15th- and 16th-century _Fechtbücher_ offering instructions on their use survive. Another variant was the specialized armour-piercing swords of the estoc type. The longsword became popular due to its extreme reach and its cutting and thrusting abilities.[53]
 
-Battle_of_Kappel_detail.jpg used against pikes in the Battle of Kappel]] KHM_Wien_A_141_-_Ceremonial_sword_of_the_Rector_of_the_Republic_of_Ragusa,_1466.jpg (15th century)]] The estoc became popular because of its ability to thrust into the gaps between plates of armour.[54] The grip was sometimes wrapped in wire or coarse animal hide to provide a better grip and to make it harder to knock a sword out of the user's hand.[55]
+used against pikes in the Battle of Kappel]] (15th century)]] The estoc became popular because of its ability to thrust into the gaps between plates of armour.[54] The grip was sometimes wrapped in wire or coarse animal hide to provide a better grip and to make it harder to knock a sword out of the user's hand.[55]
 
 A number of manuscripts covering longsword combat and techniques dating from the 13th–16th centuries exist in German,[56] Italian, and English,[57] providing extensive information on longsword combatives as used throughout this period. Many of these are now readily available online.[58][59]
 
@@ -167,13 +165,13 @@ Towards the end of its useful life, the sword served more as a weapon of self-de
 
 However, swords were still used in combat, especially in Colonial Wars between native populations and Colonial Empires. For example, during the Aceh War the Acehnese Klewangs, a sword similar to the machete, proved very effective in close quarters combat with Dutch troops, leading the Royal Netherlands East Indies Army to adopt a heavy cutlass, also called klewang (very similar in appearance to the US Navy Model 1917 Cutlass) to counter it. Mobile troops armed with carbines and klewangs succeeded in suppressing Aceh resistance where traditional infantry with rifle and bayonet had failed. From that time on until the 1950s the Royal Dutch East Indies Army, Royal Dutch Army, Royal Dutch Navy and Dutch police used these cutlasses called Klewang.[81][82]
 
-Jack_Churchill_leading_training_charge_with_sword.jpg (far right) leads Commandos during a training exercise, sword in hand, in World War II.]] Swords continued in general peacetime use by cavalry of most armies during the years prior to World War I. The British Army formally adopted a completely new design of cavalry sword in 1908, almost the last change in British Army weapons before the outbreak of the war.[83] At the outbreak of World War I infantry officers in all combatant armies then involved (French, German, British, Austro-Hungarian, Russian, Belgian and Serbian) still carried swords as part of their field equipment. On mobilization in August 1914 all serving British Army officers were required to have their swords sharpened as the only peacetime use of the weapon had been for saluting on parade.[84] The high visibility and limited practical use of the sword however led to it being abandoned within weeks, although most cavalry continued to carry sabres throughout the War. It was not until the late 1920s and early 1930s that this historic weapon was finally discarded for all but ceremonial purposes by most remaining horse mounted regiments of Europe and the Americas.
+(far right) leads Commandos during a training exercise, sword in hand, in World War II.]] Swords continued in general peacetime use by cavalry of most armies during the years prior to World War I. The British Army formally adopted a completely new design of cavalry sword in 1908, almost the last change in British Army weapons before the outbreak of the war.[83] At the outbreak of World War I infantry officers in all combatant armies then involved (French, German, British, Austro-Hungarian, Russian, Belgian and Serbian) still carried swords as part of their field equipment. On mobilization in August 1914 all serving British Army officers were required to have their swords sharpened as the only peacetime use of the weapon had been for saluting on parade.[84] The high visibility and limited practical use of the sword however led to it being abandoned within weeks, although most cavalry continued to carry sabres throughout the War. It was not until the late 1920s and early 1930s that this historic weapon was finally discarded for all but ceremonial purposes by most remaining horse mounted regiments of Europe and the Americas.
 
 In China troops used the long anti-cavalry Miao dao well into the Second Sino-Japanese War. The last units of British heavy cavalry switched to using armoured vehicles as late as 1938. Swords and other dedicated melee weapons were used occasionally by many countries during World War II, but typically as a secondary weapon as they were outclassed by coexisting firearms.[85][86][87]
 
 Ceremonial use
 
-Szczerbiec.PNG, a sword that was traditionally used in the coronation ceremony of Polish kings, 12th–13th century.]] Swords are commonly worn as a ceremonial item by officers in many military and naval services throughout the world. Occasions to wear swords include any event in dress uniforms where the rank-and-file carry arms: parades, reviews, courts-martial, tattoos, and changes of command. They are also commonly worn for officers' weddings, and when wearing dress uniforms to church—although they are rarely actually worn in the church itself.
+, a sword that was traditionally used in the coronation ceremony of Polish kings, 12th–13th century.]] Swords are commonly worn as a ceremonial item by officers in many military and naval services throughout the world. Occasions to wear swords include any event in dress uniforms where the rank-and-file carry arms: parades, reviews, courts-martial, tattoos, and changes of command. They are also commonly worn for officers' weddings, and when wearing dress uniforms to church—although they are rarely actually worn in the church itself.
 
 In the British forces they are also worn for any appearance at Court. In the United States, every Naval officer at or above the rank of Lieutenant Commander is required to own a sword, which can be prescribed for any formal outdoor ceremonial occasion; they are normally worn for changes of command and parades. For some Navy parades, cutlasses are issued to Petty Officers and Chief Petty Officers.
 
@@ -198,7 +196,7 @@ The sword consists of the blade and the hilt. The term _scabbard_ applies to the
 
 Blade
 
-Sword_parts-en.svg There is considerable variation in the detailed design of sword blades. The diagram opposite shows a typical Medieval European sword.
+There is considerable variation in the detailed design of sword blades. The diagram opposite shows a typical Medieval European sword.
 
 Early iron blades have rounded points due to the limited metallurgy of the time. These were still effective for thrusting against lightly armoured opponents. As armour advanced, blades were made narrower, stiffer and sharply pointed to defeat the armour by thrusting.
 
@@ -214,7 +212,7 @@ On Japanese blades, the maker's mark appears on the tang under the grip.[95]
 
 Hilt
 
-Rapier_mg_3370-no_shadows.jpg. In this case, with a swept hilt]] Sword_of_Umar_ibn_al-Khittab-mohammad_adil_rais.JPG, with later hilt.]]
+. In this case, with a swept hilt]] , with later hilt.]]
 
 The hilt is the collective term for the parts allowing for the handling and control of the blade; these consist of the grip, the pommel, and a simple or elaborate guard, which in post-Viking Age swords could consist of only a crossguard (called a cruciform hilt or quillons). The pommel was originally designed as a stop to prevent the sword slipping from the hand. From around the 11th century onward it became a counterbalance to the blade, allowing a more fluid style of fighting.[96] It can also be used as a blunt instrument at close range, and its weight affects the centre of percussion. In later times a _sword knot_ or _tassel_ was sometimes added. By the 17th century, with the growing use of firearms and the accompanying decline in the use of armour, many rapiers and dueling swords had developed elaborate basket hilts, which protect the palm of the wielder and rendered the gauntlet obsolete.[97]
 
@@ -255,8 +253,6 @@ Backsword and falchion
 European terminology does give generic names for single-edged and double-edged blades but refers to specific types with the term 'sword' covering them all. For example, the backsword may be so called because it is single-edged but the falchion which is also single-edged is given its own specific name.[103]
 
 Single vs two-handed use
-
-Tvåhandssvärd,_Italien,_ca_1623_-_Skoklosters_slott_-_67303.tif Trp-Sword-14226124129-v06.png
 
 Two-handed
 

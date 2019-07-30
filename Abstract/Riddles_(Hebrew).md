@@ -1,1 +1,0 @@
-RIDDLES in Hebrew are referred to as _ḥidot_ (singular _ḥidah_). They have at times been a major and distinctive part of literature in Hebrew and closely related languages. At times they have a complex relationship with proverbs.[1]

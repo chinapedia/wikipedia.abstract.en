@@ -1,5 +1,3 @@
-SweetbreadsChufaCuminBroccoliCocoa_(8311452821).jpg
-
 SWEETBREAD is a culinary name for the thymus (also called throat, gullet, or neck sweetbread) or pancreas (also called stomach, belly or gut sweetbread), typically from calf (_ris de veau_) and lamb (_ris d'agneau_), and, less commonly, beef and pork.[1][2] The "heart" sweetbreads are more spherical in shape, while the "throat" sweetbreads are more cylindrical in shape.[3]
 
 Various other glands used as food may also sometimes be called "sweetbreads," including the parotid gland ("cheek" or "ear" sweetbread), the sublingual glands ("tongue" sweetbreads or "throat bread") as well as ovary and testicles.[4][5]

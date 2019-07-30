@@ -1,1 +1,0 @@
-_BO GRUMPUS_ is American psychedelic rock band that originated in Boston, Massachusetts in 1967. They are best known for their debut album in 1968, _Before the War_, which was produced by Felix Pappalardi.[1][2][3][4][5]

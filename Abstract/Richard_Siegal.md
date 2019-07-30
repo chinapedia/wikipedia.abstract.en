@@ -1,1 +1,0 @@
-2G6A6670-Edit.jpg RICHARD SIEGAL is an American dancer and choreographer. He is founder and artistic director of The Bakery, an interdisciplinary platform for performance art based in Munich, Germany.

@@ -1,1 +1,0 @@
-PAVO PAVO is an American indie pop quintet from Brooklyn, New York, United States, formed in 2015 and consisting of Eliza Bagg (vocals, violin, synthesizers), Oliver Hill (vocals, guitar, synthesizers), Ian Romer (vocals, bass), Peter Coccoma (guitar), and Noah Hecht (drums).[1] The band is currently signed to Bella Union.[2]

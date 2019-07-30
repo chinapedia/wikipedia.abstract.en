@@ -1,1 +1,0 @@
-INDIGENOUS PHILIPPINE ART is art made by the indigenous peoples of the Philippines. It includes works in raw materials such as extract from trees, fruits, and vegetables. Some of the art treasure of the Philippines is found in rock in caves, trees and woods.

@@ -1,1 +1,0 @@
-TREKKING SARL is a French aircraft manufacturer based in Lambesc. The company specializes in the design and manufacture of paragliders and paramotor wings in the form of ready-to-fly aircraft. The company also produces four-wheel drive truck tents and travel luggage, as well as photo and video accessories.[1][2]

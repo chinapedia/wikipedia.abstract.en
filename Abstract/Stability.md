@@ -1,1 +1,0 @@
-STABILITY may refer to:

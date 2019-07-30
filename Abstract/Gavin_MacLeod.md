@@ -1,1 +1,0 @@
-GAVIN MACLEOD (born ALLAN GEORGE SEE; February 28, 1931) is an American film and television character actor, ship's ambassador, and Christian activist and author, whose career spans six decades. He has also appeared as a guest on several talk, variety, and religious programs.

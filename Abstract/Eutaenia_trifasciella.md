@@ -1,1 +1,0 @@
-_EUTAENIA TRIFASCIELLA_ is a species of beetle in the family Cerambycidae. It was described by White in 1850, originally under the genus _Lamia_. It is known from Laos, China, Vietnam and Malaysia.[1]

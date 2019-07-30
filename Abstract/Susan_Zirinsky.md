@@ -1,1 +1,0 @@
-SUSAN ZIRINSKY (born March 3, 1952) is an American journalist and television news producer. She has been the President of CBS News since January 2019. She previously served as executive producer of _48 Hours_ from 1996 to 2019. In 2003 she won a Primetime Emmy Award as producer of the documentary _9/11_, which aired on CBS in 2002.[1]

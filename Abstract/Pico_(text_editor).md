@@ -1,1 +1,0 @@
-PICO (PINE COMPOSER) is a text editor for Unix and Unix-based computer systems. It is integrated with the Pine e-mail client, which was designed by the Office of Computing and Communications at the University of Washington.[1]

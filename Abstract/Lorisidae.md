@@ -1,1 +1,0 @@
-LORISIDAE (or sometimes LORIDAE) is a family of strepsirrhine primates. The LORISIDS are all slim arboreal animals and comprise the lorises, pottos and angwantibos. Lorisids live in tropical, central Africa as well as in south and southeast Asia.

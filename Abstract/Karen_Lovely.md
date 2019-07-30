@@ -1,1 +1,0 @@
-KAREN PATRICIA LOVELY (born November 23, 1959)[1] is an American electric blues singer and songwriter. Lovely has released three albums to date, with her most recent being _Ten Miles of Bad Road_ (2015). She was a nominee at the 2016 Blues Music Awards as "Contemporary Blues Female Artist of the Year".[2]

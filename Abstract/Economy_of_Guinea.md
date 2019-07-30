@@ -1,1 +1,0 @@
-Guinea is richly endowed with minerals, possessing an estimated quarter of the world's proven reserves of bauxite,[1] more than 1.8 billion metric tons (2.0 billion short tons) of high-grade iron ore, significant diamond and gold deposits, and undetermined quantities of uranium.

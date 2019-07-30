@@ -1,1 +1,0 @@
-DAVID GEORGE PLOTKIN AKA "David George Kin" (April, 1899 – March 30, 1968)[1] was an American poet, cartoonist, novelist, and ghostwriter who was reputed author of _My Sister and I_ (memoir attributed to the German philosopher Friedrich Nietzsche) and author of _The Plot Against America: Senator Wheeler and the Forces Behind Him_.

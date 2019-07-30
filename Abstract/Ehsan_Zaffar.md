@@ -1,1 +1,0 @@
-EHSAN ZAFFAR is a civil rights advocate,[1][2] educator and policymaker[3][4] and the founder of the Los Angeles Mobile Legal Aid Clinic (LAMLAC), which helped to pioneer the delivery of mobile legal care to vulnerable populations in California and across the nation.[5]

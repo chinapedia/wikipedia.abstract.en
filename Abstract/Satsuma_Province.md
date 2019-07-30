@@ -1,1 +1,0 @@
-Provinces_of_Japan-Satsuma.svg

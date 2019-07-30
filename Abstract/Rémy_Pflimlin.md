@@ -1,1 +1,0 @@
-RÉMY PFLIMLIN (; 17 February 1954 – 3 December 2016) was a French media executive. He served as the CEO of France 3 from 1999 to 2005, the Nouvelles Messageries de la Presse Parisienne (later known as Presstalis) from 2006 to 2010, and France Télévisions, France's public national television broadcaster, from 2010 to 2015.

@@ -1,1 +1,0 @@
-CHAKIR ANSARI (born June 22, 1991) is a Moroccan freestyle wrestler. He is the first Moroccan freestyle wrestler qualified in Olympic Games. He competed in the men's freestyle 57 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 32 by Asadulla Lachinau. He win African title in Marrakech 2017.

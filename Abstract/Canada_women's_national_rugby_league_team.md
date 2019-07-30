@@ -1,1 +1,0 @@
-The CANADA NATIONAL WOMEN'S RUGBY LEAGUE TEAM, also known as the CANADIAN RAVENS represents Canada in international rugby league football tournaments. Canada have qualified for, and will be competing in the 2017 Women's Rugby League World Cup.[1][2][3]

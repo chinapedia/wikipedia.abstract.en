@@ -1,1 +1,0 @@
-KUJANG CH'ŎNGNYŎN STATION is a railway station in Kujang-ŭp, Kujang county, North P'yŏngan province, North Korea. Located on the Manp'o Line of the Korean State Railway, it is an important junction point, being a terminus of the Ch'ŏngnyŏn P'arwŏn Line, the P'yŏngdŏk Line, and the Ryong'am Line.[1]

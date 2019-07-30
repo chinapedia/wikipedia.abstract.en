@@ -1,5 +1,3 @@
-Map_of_the_Southern_United_States_modern_definition.png Barbecue_pit.jpg
-
 The CUISINE OF THE SOUTHERN UNITED STATES developed in the traditionally defined American South, influenced by African, English, Scottish, Irish, French, Spanish, and Native American cuisines. Tidewater, Appalachian, Creole, Lowcountry, and Floribbean are examples of types of Southern cuisine. In recent history, elements of Southern cuisine have spread north, having an effect on the development of other types of American cuisine.
 
 Many elements of Southern cooking—squash, corn (and its derivatives, including grits), and deep-pit barbecuing—are borrowings from southeast American Indian tribes such as the Caddo, Choctaw, and Seminole. Sugar, flour, milk, and eggs come from Europe; the Southern fondness for fried foods is Scottish, and the old-fashioned Virginian use of ragouts comes from the West Country of England. Black-eyed peas, okra, rice, eggplant, sesame, sorghum, and melons, as well as most spices used in the South, are originally African; a preponderance of slaves imported to Virginia in early years were Igbo from the Bight of Biafra,[1] and down to the present day Southern and Nigerian cuisines have many flavors and elements in common.
@@ -10,8 +8,6 @@ Parts of the South have other cuisines, though. Creole cuisine is mostly vernacu
 
 
 Traditional Southern dishes
-
-Runny_hunny.jpg
 
 A traditional Southern meal is pan-fried chicken, field peas (such as black-eyed peas), greens (such as collard greens, mustard greens, turnip greens, or poke sallet), mashed potatoes, cornbread or corn pone, sweet tea, and dessert—typically a pie (sweet potato, chess, shoofly, pecan, and peach are the most common), or a cobbler (peach, blackberry, sometimes apple in Kentucky or Appalachia).
 
@@ -26,7 +22,7 @@ Cabbage is largely used as the basis of coleslaw, both as a side dish and on a v
 
 Southern food in restaurants
 
-Southernfood.jpg.]] Frenchy'sHouston.jpg]] Friedchickenbreast.jpg]]
+.]] ]] ]]
 
 Chains serving Southern foods—often along with American comfort food—have had great success; many have spread across the country or across the world, while others have chosen to stay in the South. Pit barbecue is popular all over the American South; unlike the rest of the country, most of the rural South has locally owned, non-franchise pit-barbecue restaurants, many serving the regional style of barbecue instead of the nationally predominant Kansas City style. Family-style restaurants serving Southern cuisine are common throughout the South, and range from the humble and down-home to the decidedly upscale.
 
@@ -55,11 +51,11 @@ Southern cuisine varies widely by region. Generally speaking:
 
 Louisiana Creole cuisine
 
-CreoleFood.jpg]]
+]]
 
 Southern Louisiana is geographically and politically part of the South, but its cuisine is probably best understood as having only mild Southern influences. Creole cuisine makes good use of many coastal animals—crawfish (commonly called crayfish outside the region), crab, oysters, shrimp, and saltwater fish. Mirliton, or chayote squash, is popular in Louisiana and harder to find in other parts of the South. Chicory coffee is sometimes preferred over the real thing—especially as an accompaniment to beignets.
 
-Jambalaya_(cropped).jpg has roots in Spanish cuisine, not French; it's a Louisiana Creole adaptation of paella, and quite possibly also of Jollof rice.[11][12][13] ]]
+has roots in Spanish cuisine, not French; it's a Louisiana Creole adaptation of paella, and quite possibly also of Jollof rice.[11][12][13] ]]
 
 Lowcountry cuisine
 

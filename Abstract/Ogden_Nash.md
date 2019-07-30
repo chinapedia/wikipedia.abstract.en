@@ -1,1 +1,0 @@
-FREDERIC OGDEN NASH (August 19, 1902 – May 19, 1971) was an American poet well known for his light verse, of which he wrote over 500 pieces. With his unconventional rhyming schemes, he was declared the country's best-known producer of humorous poetry.

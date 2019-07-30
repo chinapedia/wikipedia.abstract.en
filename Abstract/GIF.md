@@ -1,1 +1,0 @@
-The GRAPHICS INTERCHANGE FORMAT (GIF or ), is a bitmap image format that was developed by a team at the online services provider CompuServe led by American computer scientist Steve Wilhite on June 15, 1987.[1] It has since come into widespread usage on the World Wide Web due to its wide support and portability between many applications and operating systems.

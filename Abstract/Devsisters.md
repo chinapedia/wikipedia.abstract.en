@@ -1,1 +1,0 @@
-DEVSISTERS CORP is a South Korean video game developer based in Seoul. From 2009 onwards, the company has created a variety of games for smartphones and tablets. Its most successful titles are the running game series _Cookie Run_.

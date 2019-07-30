@@ -1,1 +1,0 @@
-_STAR SHOW 360_ () was a South Korean variety television show on MBC Every1, which aired Monday at 5:30 PM KST with a rerun at 11:10 PM KST. The show was hosted by Leeteuk, Tak Jae-hoon and Kim So-hye an I.O.I Member[1]

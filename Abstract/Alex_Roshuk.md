@@ -1,1 +1,0 @@
-Alex756-and-Jimbo-Wales-small.jpg in 2006]] ALEX ROSHUK (July 14, 1956[1] – November 9, 2014[2] ) was an American attorney who was the first legal advisor to the Wikimedia Foundation. He was also an electrician and worked in the entertainment industry as a director and editor.

@@ -1,1 +1,0 @@
-The modern state of Guinea did not come into existence until 1958, but the history of the area stretches back well before European colonization. Its current boundaries were determined during the colonial period by the Berlin Conference (1884–1885) and the French, who ruled Guinea until 1958.

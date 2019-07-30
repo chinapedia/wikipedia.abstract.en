@@ -1,1 +1,0 @@
-VESCERA, also known as Ad Piscinam, was an ancient titular see and Roman colony in Roman North Africa. It has been identified as a site near Biskra in Algeria. It remains as a titular see of the Roman Catholic Church in the Province of Numidia.[1]

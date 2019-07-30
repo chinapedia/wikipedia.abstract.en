@@ -1,1 +1,0 @@
-YAKOV KOZALCHIK (1902 – 13 June 1953) was a known Polish-Israeli strongman and professional wrestler. Kozalchik was the head of the Jewish police in the town of Krynica-Zdrój, a Kapo in the Auschwitz concentration camp.[1]

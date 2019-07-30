@@ -1,1 +1,0 @@
-JOHN MICHAEL MAŁEK (born May 18, 1928 in Piotrków Trybunalski, Poland) is a Polish-American engineer, entrepreneur, real estate investor and developer, economics enthusiast, and activist and philanthropist.[1][2]

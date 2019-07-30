@@ -1,1 +1,0 @@
-Airwicks,_an_installation_by_artist_Russell_Hill,_using_18_automatic_air_freshener_machines_for_Anticipation_at_Selfridges,_London.jpg, London]]

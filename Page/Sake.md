@@ -1,4 +1,4 @@
-Japanese_-_Sake_Bottle_("Tokkuri")_with_Children_-_Walters_49966_-_View_C.jpg 冷酒_(5942984517).jpg Sake_Hachimangu.jpg in Kamakura]]
+in Kamakura]]
 
 , also spelled _saké_ ( ),[1][2] also referred to as _Japanese rice wine_,[3] is an alcoholic beverage made by fermenting rice that has been polished to remove the bran. Despite the name, unlike wine, in which alcohol is produced by fermenting sugar that is naturally present in fruit (typically grapes), sake is produced by a brewing process more akin to that of beer, where starch is converted into sugars, which ferment into alcohol.
 
@@ -13,7 +13,7 @@ History
 
 The origin of _sake_ is unclear, the earliest reference to the use of alcohol in Japan is recorded in the _Book of Wei_ in the _Records of the Three Kingdoms_. This 3rd-century Chinese text speaks of the Japanese drinking and dancing.[5] Alcoholic beverages () are mentioned several times in the _Kojiki_, Japan's first written history, which was compiled in 712. Bamforth (2005) places the probable origin of true sake (which is made from rice, water, and _kōji_ mold (, _Aspergillus oryzae_) in the Nara period (710–794). In the Heian period, sake was used for religious ceremonies, court festivals, and drinking games.[6] Sake production was a government monopoly for a long time, but in the 10th century, temples and shrines began to brew sake, and they became the main centers of production for the next 500 years. The _Tamon-in Diary_, written by abbots of Tamon-in (temple) from 1478 to 1618, records many details of brewing in the temple. The diary shows that pasteurization and the process of adding ingredients to the main fermentation mash in three stages were established practices by that time. In the 16th century, the technique of distillation was introduced into the Kyushu district from Ryukyu.[7] The brewing of shōchū, called "Imo—sake" started, and was sold at the central market in Kyoto.
 
-Bereiding_van_saké_1781.jpg: earliest explanation of the sake brewing process in a European language. Published in 1781, in Batavia, Dutch East Indies.]] In the 18th century, Engelbert Kaempfer[8] and Isaac Titsingh[9] published accounts identifying sake as a popular alcoholic beverage in Japan; but Titsingh was the first to try to explain and describe the process of sake brewing. The work of both writers was widely disseminated throughout Europe at the beginning of the 19th century.[10]
+: earliest explanation of the sake brewing process in a European language. Published in 1781, in Batavia, Dutch East Indies.]] In the 18th century, Engelbert Kaempfer[8] and Isaac Titsingh[9] published accounts identifying sake as a popular alcoholic beverage in Japan; but Titsingh was the first to try to explain and describe the process of sake brewing. The work of both writers was widely disseminated throughout Europe at the beginning of the 19th century.[10]
 
 During the Meiji Restoration, laws were written that allowed anybody with the money and know-how to construct and operate their own sake breweries. Around 30,000 breweries sprang up around the country within a year. However, as the years went by, the government levied more and more taxes on the sake industry and slowly the number of breweries dwindled to 8,000.
 
@@ -38,7 +38,7 @@ October 1 is the official Sake Day (, "Nihonshu no Hi") of Japan.[14]
 
 Production
 
-Brasserie_de_saké_Takayama.jpg, with a _sugitama_ (杉玉) globe of cedar leaves indicating sake.]]
+, with a _sugitama_ (杉玉) globe of cedar leaves indicating sake.]]
 
 Rice
 
@@ -57,7 +57,7 @@ Typically breweries source their water from wells, though lakes and rivers can b
 
 Brewing
 
-Moromi.JPG, the main mash]]
+, the main mash]]
 
 Sake is produced by the multiple parallel fermentation of rice. The rice is first polished to remove the protein and oils from the exterior of the rice grains, leaving behind starch. Thorough milling leads to fewer congeners and generally a more desirable product.
 
@@ -111,7 +111,7 @@ Ways to make the starter mash
 
 Different handling after fermentation
 
-Unfiltered_Sake_at_Gyu-Kaku.jpg, or unfiltered sake]]
+, or unfiltered sake]]
 
 -   NAMAZAKE () is sake that has not been pasteurized. It requires refrigerated storage and has a shorter shelf-life than pasteurized sake.
 -   GENSHU () is undiluted sake. Most sake is diluted with water after brewing to lower the alcohol content from 18–20% down to 14–16%, but genshu is not.
@@ -159,7 +159,7 @@ Sake can have many flavor notes, such as fruits, flowers, herbs, and spices. Man
 
 Serving sake
 
-Sake_set.jpg'' (a wooden, box-like cup).]] Japanese_-_Sake_Ewer_from_a_Portable_Picnic_Set_-_Walters_49957_-_Three_Quarter_View_A.jpg In Japan, sake is served chilled (_reishu_ ), at room temperature (_jōon_ or _hiya_ ), or heated (_atsukan_ ), depending on the preference of the drinker, the quality of the sake, and the season. Typically, hot sake is a winter drink, and high-grade sake is not drunk hot, because the flavors and aromas will be lost. This masking of flavor is the reason that low-quality and old sake is often served hot. There are gradations of temperature both for chilling and heating, about every , with hot sake generally served around , and chilled sake around , like white wine. Hot sake that has cooled (_kanzamashi_ ) may be reheated.
+'' (a wooden, box-like cup).]] In Japan, sake is served chilled (_reishu_ ), at room temperature (_jōon_ or _hiya_ ), or heated (_atsukan_ ), depending on the preference of the drinker, the quality of the sake, and the season. Typically, hot sake is a winter drink, and high-grade sake is not drunk hot, because the flavors and aromas will be lost. This masking of flavor is the reason that low-quality and old sake is often served hot. There are gradations of temperature both for chilling and heating, about every , with hot sake generally served around , and chilled sake around , like white wine. Hot sake that has cooled (_kanzamashi_ ) may be reheated.
 
 Sake is traditionally drunk from small cups called _choko_ or _o-choko_ () and poured into the choko from ceramic flasks called _tokkuri_. This is very common for hot sake, where the flask is heated in hot water and the small cups ensure that the sake does not get cold in the cup, but may also be used for chilled sake. Traditionally one does not pour one’s own drink, which is known as _tejaku_ (), but instead members of a party pour for each other, which is known as _shaku_ (). This has relaxed in recent years, but is generally observed on more formal occasions, such as business meals, and is still often observed for the first drink.
 
@@ -178,8 +178,6 @@ The Japanese Sake Association encourages people to drink chaser water for their 
 
 Seasonality
 
-Uda_Matsuyama06s3872.jpg
-
 Traditionally sake was brewed only in the winter. While it can now be brewed year-round, there is still seasonality associated with sake, particularly artisanal ones. The most visible symbol of this is the _sugitama_ (), a globe of cedar leaves traditionally hung outside a brewery when the new sake is brewed. The leaves start green, but turn brown over time, reflecting the maturation of the sake. These are now hung outside many restaurants serving sake. The new year's sake is called _shinshu_ ("new sake"), and when initially released in late winter or early spring, many brewers have a celebration, known as _kurabiraki_ (warehouse opening). Traditionally sake was best transported in the cool spring, to avoid spoilage in the summer heat, with a secondary transport in autumn, once the weather had cooled, known as _hiyaoroshi_ ("cold wholesale distribution") – this autumn sake has matured over the summer.
 
 There is not traditionally a notion of vintage of sake – it is generally drunk within the year, and if aged, it does not vary significantly from year to year. Today, with influence from wine vintages, some breweries label sake intended for aging with a vintage, but this is otherwise rare.
@@ -196,7 +194,7 @@ After opening a bottle of sake, it is best consumed within 2 or 3 hours. It is p
 
 Ceremonial use
 
-Sake_before_the_kagami_biraki.jpg]] SakeContainers.jpg shop]] Sake is often consumed as part of Shinto purification rituals. Sake served to gods as offerings prior to drinking are called or .
+]] shop]] Sake is often consumed as part of Shinto purification rituals. Sake served to gods as offerings prior to drinking are called or .
 
 In a ceremony called _kagami biraki_, wooden casks of sake are opened with mallets during Shinto festivals, weddings, store openings, sports and election victories, and other celebrations. This sake, called _iwai-zake_ ("celebration sake"), is served freely to all to spread good fortune.
 

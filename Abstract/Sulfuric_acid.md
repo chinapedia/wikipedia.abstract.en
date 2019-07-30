@@ -1,1 +1,0 @@
-SULFURIC ACID (alternative spelling SULPHURIC ACID), also known as VITRIOL, is a mineral acid composed of the elements sulfur, oxygen and hydrogen, with molecular formula H₂SO₄. It is a colorless, odorless, and syrupy liquid that is soluble in water and is synthesized in reactions that are highly exothermic.[1]

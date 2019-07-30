@@ -1,1 +1,0 @@
-NICK J. LAPPIN (born November 1, 1992) is an American professional ice hockey right winger who is currently playing under contract to the St. Louis Blues of the National Hockey League (NHL). Lappin is the son of former NHL hockey player, Peter Lappin.

@@ -1,1 +1,0 @@
-The COUNCIL OF EUROPE (COE; ; ) is an international organisation whose stated aim[1] is to uphold human rights, democracy and the rule of law in Europe.[2] Founded in 1949, it has 47 member states, covers approximately 820 million people and operates with an annual budget of approximately 500 million euros.[3]

@@ -1,1 +1,0 @@
-Demosthenes_orator_Louvre.jpg]] CONSEQUENTIALISM is the class of normative ethical theories holding that the consequences of one's conduct are the ultimate basis for any judgment about the rightness or wrongness of that conduct. Thus, from a consequentialist standpoint, a morally right act (or omission from acting) is one that will produce a good outcome, or consequence.

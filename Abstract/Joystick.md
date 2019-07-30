@@ -1,1 +1,0 @@
-Joyopis.svg

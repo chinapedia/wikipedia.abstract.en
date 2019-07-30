@@ -1,1 +1,0 @@
-The CO-CATHEDRAL OF THE MERCIFUL FATHER [1] ( ) also called CO-CATHEDRAL OF ZAPORIZHIA is the name given to a religious building that is affiliated with the Catholic Church and is located in the city of Zaporizhia in the European country of Ukraine.[2]

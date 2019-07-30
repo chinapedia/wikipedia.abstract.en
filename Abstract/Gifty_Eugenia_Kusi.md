@@ -1,1 +1,0 @@
-GIFTY EUGENIA KUSI (born 11 February 1958) is a Ghanaian politician. She was the member of parliament for the Tarkwa-Nsuaem (Ghana parliament constituency) from 2001 to 2017. She is also the principal research assistant in the department of Community Health at the University of Ghana Medical School-Korle-Bu.[1][2][3]

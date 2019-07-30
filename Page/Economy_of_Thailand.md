@@ -20,8 +20,6 @@ In May 2018, the Thai Cabinet approved a FY2019 budget of three trillion baht, u
 
 History
 
-Istorical_GDP_growth_of_Thailand.png
-
 Before 1945
 
 Thailand, formerly known as Siam, opened to foreign contact in the pre-industrial era. Despite the scarcity of resources in Siam, coastal ports and cities and those at the river mouth were early economic centers which welcomed merchants from Persia, the Arab countries, India, and China. The rise of Ayutthaya during the 14th century was connected to renewed Chinese commercial activity, and the kingdom became one of the most prosperous trade centers in Asia.
@@ -282,7 +280,7 @@ Virtually all of Thailand's firms, 99.7 percent, or 2.7 million enterprises, are
 
 Agriculture, forestry and fishing
 
-Rice_farmers_Mae_Wang_Chiang_Mai_Province.jpg. Forty-nine percent of Thailand's labor force is employed in agriculture.[82]]]
+. Forty-nine percent of Thailand's labor force is employed in agriculture.[82]]]
 
 Developments in agriculture since the 1960s have supported Thailand's transition to an industrialised economy.[83] As recently as 1980, agriculture supplied 70 percent of employment.[84] In 2008, agriculture, forestry and fishing contributed 8.4 percent to GDP; in rural areas, farm jobs supply half of employment.[85] Rice is the most important crop in the country and Thailand had long been the world's number one exporter of rice, until recently falling behind both India and Vietnam.[86] It is a major exporter of shrimp. Other crops include coconuts, corn, rubber, soybeans, sugarcane and tapioca.[87]
 
@@ -296,7 +294,7 @@ Thailand is the world's second-largest exporter of gypsum (after Canada), althou
 
 Industry and manufacturing
 
-SPS_Intertech_factory13.jpg.]]
+.]]
 
 In 2007 industry contributed 43.9 percent of GDP, employing 14 percent of the workforce. Industry expanded at an average annual rate of 3.4 percent from 1995 to 2005. The most important sub-sector of industry is manufacturing, which accounted for 34.5 percent of GDP in 2004.
 
@@ -412,7 +410,7 @@ The number of migrant workers in Thailand is unknown. The official number—1,33
 
 Foreign trade
 
-2014_Thailand_Products_Export_Treemap.png] 2006Thai_exports.PNG
+]
 
 China has replaced the United States as Thailand's largest export market while the latter still holds its position as its second-largest supplier (after Japan). While Thailand's traditional major markets have been North America, Japan, and Europe, economic recovery in Thailand's regional trading partners has helped Thai export growth.
 

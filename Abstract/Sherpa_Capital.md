@@ -1,1 +1,0 @@
-SHERPA CAPITAL is an American venture capital firm established in March 2013 by Shervin Pishevar and Scott Stanford. Based in San Francisco, CA, Sherpa Capital specializes in early stage and growth startups ranging from e-commerce to technology.[1]

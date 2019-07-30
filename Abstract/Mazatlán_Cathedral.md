@@ -1,1 +1,0 @@
-The CATHEDRAL BASILICA OF THE IMMACULATE CONCEPTION[1] () Also MAZATLÁN CATHEDRAL Is the main religious building in the city of Mazatlan,[2] in Baroque-Revival style of Sinaloa, Mexico,[3] and home of the Catholic Diocese of Mazatlan. It is located in the historical center.

@@ -1,1 +1,0 @@
-_SAFARI_ is a 2016 Austrian-Danish documentary film co-written and directed by Ulrich Seidl. It premiered out of competition at the 73rd edition of the Venice Film Festival, and was later screened at the 41st Toronto International Film Festival. It is an explicit portrayal of the tourist hunting in Africa.[1][2][3]

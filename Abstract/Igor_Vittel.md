@@ -1,1 +1,0 @@
-IGOR STANISLAVOVICH VITTEL is a Russian journalist and TV personality most known for his continuous work at Russian "business TV" channel RBC TV. He is also known as an expert guest at numerous political talk shows on major Russian TV channels such as Channel 1.[1] He is systematically involved in other creative and political activities.[2]

@@ -1,1 +1,0 @@
-The OUR LADY OF THE PILLAR CATHEDRAL [1] ( ) also called ALAJUELA CATHEDRAL[2] or CATHEDRAL OF VIRGIN OF THE PILLAR, is a religious building affiliated with the Catholic Church, which is located in the city of Alajuela,[3] the second largest in the Central American country of Costa Rica.[4]

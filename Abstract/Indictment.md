@@ -1,1 +1,0 @@
-An INDICTMENT ( ) is a criminal accusation that a person has committed a crime. In jurisdictions that use the concept of felonies, the most serious criminal offence is a felony; jurisdictions that do not use the felonies concept often use that of an indictable offence, an offence that requires an indictment.

@@ -1,1 +1,0 @@
-BOAVISTA FUTEBOL CLUBE TIMOR LESTE or BOAVISTA TIMOR LESTE is a football club of East Timor based in Dili.[1] The team plays in the Liga Futebol Amadora. The team was formerly known as CARSAE FUTEBOL CLUBE until 2017.[2]

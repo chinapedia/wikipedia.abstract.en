@@ -1,1 +1,0 @@
-The LCDR _TIGER_ CLASS was a class of twenty-four steam locomotives of the 4-4-0 wheel arrangement. They were designed by Thomas Russell Crampton for the London, Chatham and Dover Railway (LCDR) as general purpose passenger locomotives.

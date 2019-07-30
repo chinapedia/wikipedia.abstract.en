@@ -1,1 +1,0 @@
-Disused_railway_bridge_over_River_Clyde_-_geograph.org.uk_-_1359127.jpg WESTBURN VIADUCT, also known as CARMYLE VIADUCT, is a disused railway bridge over the River Clyde between Carmyle in Glasgow (north side) and Westburn (Cambuslang) in South Lanarkshire (south side). It is constructed of a steel lattice frame with sandstone pillars and has 3 main spans over the water.[1]

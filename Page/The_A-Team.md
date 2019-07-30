@@ -42,7 +42,7 @@ The show ran for five seasons on the NBC television network, from January 23, 19
 
 Characters
 
-Ateam.jpg, B. A. Baracus, John "Hannibal" Smith and Templeton "Faceman" Peck.]]
+, B. A. Baracus, John "Hannibal" Smith and Templeton "Faceman" Peck.]]
 
 _The A-Team_ revolves around the four members of a former commando outfit, now mercenaries. Their leader is Lieutenant Colonel/Colonel John "Hannibal" Smith (George Peppard), whose plans tend to be unorthodox but effective. Lieutenant Templeton Peck (Dirk Benedict; Tim Dunigan appeared as Templeton Peck in the pilot), usually called "Face" or "Faceman", is a smooth-talking con man who serves as the team's appropriator of vehicles and other useful items, as well as the team's second-in-command. The team's pilot is Captain H.M. "Howling Mad" Murdock (Dwight Schultz), who has been declared insane and lives in a Veterans' Administration mental institution for the show's first four seasons. Finally, there is the team's strong man, mechanic and Sergeant First Class Bosco "B.A.", or "Bad Attitude", Baracus (Mr. T).
 
@@ -159,7 +159,7 @@ As Marla Heasley recounts in _Bring Back... The A-Team_ (May 18, 2006), although
 
 GMC van
 
-Long_Beach_Comic_Expo_2012_-_A-Team_van_(7186650356).jpg The 1983 GMC Vandura van used by the A-Team, with its characteristic red stripe, black and red turbine mag wheels, and rooftop spoiler,[45] has become an enduring pop culture icon. The customized 1994 Chevrolet G20 used on the A-Team movie was also on display at the 2010 New York International Auto Show.[46]
+The 1983 GMC Vandura van used by the A-Team, with its characteristic red stripe, black and red turbine mag wheels, and rooftop spoiler,[45] has become an enduring pop culture icon. The customized 1994 Chevrolet G20 used on the A-Team movie was also on display at the 2010 New York International Auto Show.[46]
 
 A number of devices were seen in the back of the van in different episodes, including a mini printing press ("Pros and Cons"), an audio surveillance recording device ("A Small and Deadly War"), Hannibal's disguise kits in various episodes, and a gun storage locker.
 

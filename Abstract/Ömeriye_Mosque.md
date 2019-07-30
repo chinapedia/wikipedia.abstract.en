@@ -1,1 +1,0 @@
-ÖMERIYE MOSQUE ( _Temenos Omerié_, ), is a mosque in the walled city of Nicosia on the island of Cyprus, currently located in the south section of Nicosia.[1] Following the Turkish invasion of Cyprus, the mosque gained significance as one of the most important sites of Muslim worship in the non-Muslim section of the island and the city.[2]

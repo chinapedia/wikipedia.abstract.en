@@ -1,1 +1,0 @@
-HRISTINA HRISTOVA (), better known by her stage name TITA, is a Bulgarian singer and a model, who rose to fame in late 2014 after participating in _X Factor Bulgaria_. Tita is currently signed to Bulgarian hip hop artist Krisko's record label imprint Adamand Records.

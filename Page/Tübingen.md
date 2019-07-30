@@ -31,8 +31,6 @@ In 1262, an Augustinian monastery was established by Pope Alexander IV in Tübin
 
 In 1342, the county palatine was sold to Ulrich III, Count of Württemberg and incorporated into the County of Württemberg.
 
-Tübingen_Neckarfront_BW_2015-04-27_15-31-07.jpg Tübingen_Markt_BW_2015-04-27_15-43-00.jpg
-
 Between 1470 and 1483, St. George's Collegiate Church was built. The collegiate church offices provided the opportunity for what soon afterwards became the most significant event in Tübingen's history: the founding of the Eberhard Karls University by Duke Eberhard im Bart of Württemberg in 1477, thus making it one of the oldest universities in Central Europe. It became soon renowned as one of the most influential places of learning in the Holy Roman Empire, especially for theology (a Protestant faculty, Tübinger Stift, was established in 1535 in the former Augustinian monastery). Today, the university is still the biggest source of income for the residents of the city and one of the biggest universities in Germany with more than 26,000 students.
 
 Between 1622 and 1625, the Catholic League occupied Lutheran Württemberg in the course of the Thirty Years' War. In the summer of 1631, the city was raided. In 1635/36 the city was hit by the Plague. In 1638, Swedish troops conquered Tübingen. Towards the end of the war, French troops occupied the city from 1647 until 1649.
@@ -57,9 +55,7 @@ Overview
 
 Main sights
 
-In central Tübingen, the Neckar divides briefly into two streams, forming the elongated _Neckarinsel_ (Neckar Island), famous for its _Platanenallee_ with high plane trees, some of which are more than 200 years old. Pedestrians can reach the island via stairs on the narrow ends leading down from two bridges spanning the Neckar. During the summer, the _Neckarinsel_ is occasionally the venue for concerts, plays, and literary readings. The row of historical houses across one side of the elongated _Neckarinsel_ is called the _Neckarfront_ and includes the house with adjoining tower where poet Friedrich Hölderlin stayed for the last 36 years of his life, as he struggled with mental instability. TuebingenNeckar.jpg
-
-Tuebingen_Rathaus.jpg TuebingenNeckarfront3.jpg TuebingenStiftskirche.jpg Tübingen_street_art.jpg
+In central Tübingen, the Neckar divides briefly into two streams, forming the elongated _Neckarinsel_ (Neckar Island), famous for its _Platanenallee_ with high plane trees, some of which are more than 200 years old. Pedestrians can reach the island via stairs on the narrow ends leading down from two bridges spanning the Neckar. During the summer, the _Neckarinsel_ is occasionally the venue for concerts, plays, and literary readings. The row of historical houses across one side of the elongated _Neckarinsel_ is called the _Neckarfront_ and includes the house with adjoining tower where poet Friedrich Hölderlin stayed for the last 36 years of his life, as he struggled with mental instability.
 
 Tübingen's _Altstadt_ (old town) survived the Second World War due to the city's lack of heavy industry. The result is a growing domestic tourism business. as visitors come to wander through one of the few completely intact historic _Altstädte_ in Germany. The highlights of Tübingen include its crooked cobblestone lanes, narrow-stair alleyways picking their way through the hilly terrain, streets lined with canals, and well-maintained traditional half-timbered houses.
 
@@ -87,8 +83,6 @@ There are several festivals and open air markets on a regular basis:
 -   May
     -   Rock Festival _Rock im Tunnel_ (usually in May or June)
 -   June
-
-Neckar_Stocherkahn.JPG
 
 -   -   Poled boat race (), second Thursday of June, 2pm, around the Neckar Island
     -   Ract!festival, an alternative open air festival for free with music performances and workshops
@@ -123,7 +117,7 @@ Former President of Germany Horst Köhler is a Tübingen alumnus as well, as was
 
 Tübingen is also the hometown of former track and field athlete Dieter Baumann, winner of the 5000m at the 1992 Summer Olympics. In 1990, the award-winning Israeli human rights lawyer Felicia Langer accepted a teaching position in Tübingen and has resided there since then.
 
-American soccer coach Sigi Schmid, who has won Major League Soccer championships with the Los Angeles Galaxy and Columbus Crew and was an assistant coach for the U.S. at the 1994 FIFA World Cup, was born in Tübingen and moved to Torrance, California as a child. Neckar_watershed_closer.gif
+American soccer coach Sigi Schmid, who has won Major League Soccer championships with the Los Angeles Galaxy and Columbus Crew and was an assistant coach for the U.S. at the 1994 FIFA World Cup, was born in Tübingen and moved to Torrance, California as a child.
 
 Sung Yuri, a South Korean top actress and the youngest member of the K-Pop girl group Fin.K.L., was born in Tübingen in 1981. Her father, Sung Chong Hyon, received his doctorate degree in theology from Tübingen University and is currently a professor of New Testament at the Presbyterian College and Theological Seminary in Seoul, South Korea.[2]
 
@@ -224,7 +218,7 @@ Local public transport: The town, due to its high student population, features a
 
 Higher education
 
-TuebingenUniNeueAula.jpg Germany_Tübingen_Student.jpg The Eberhard Karls University of Tübingen dates from 1477, making it one of the oldest in Germany. The city is also host to several research institutes including the Max Planck Institute for Biological Cybernetics, Max Planck Institute for Developmental Biology, Max Planck Institute for Intelligent Systems, The Friedrich Miescher Laboratory of the MPG (and formerly the Max Planck Institute for Biology) and the Hertie-Institute for Clinical Brain Research. The university also maintains an excellent botanical garden, the Botanischer Garten der Universität Tübingen.
+The Eberhard Karls University of Tübingen dates from 1477, making it one of the oldest in Germany. The city is also host to several research institutes including the Max Planck Institute for Biological Cybernetics, Max Planck Institute for Developmental Biology, Max Planck Institute for Intelligent Systems, The Friedrich Miescher Laboratory of the MPG (and formerly the Max Planck Institute for Biology) and the Hertie-Institute for Clinical Brain Research. The university also maintains an excellent botanical garden, the Botanischer Garten der Universität Tübingen.
 
 
 Schools
@@ -281,8 +275,6 @@ VOCATIONAL SCHOOLS (_Berufsschulen_)
 
 
 Gallery
-
-centre
 
 File:Germany Tübingen Nonnenhaus-2005.jpg|Houses in the snow File:Germany Tübingen Hölderlinturm.jpg|Hölderlinturm File:Germany Tübingen Reflection-in-Neckar.jpg|Reflection of houses in the Neckar File:Germany Tübingen Neptune Fountain.jpg|Fountain in front of the Rathaus File:Germany Tübingen St-George-and-Shutters.jpg|Fountain in front of St-Georg Stiftskirche File:Germany Tübingen St-Georg-in-Snow.jpg|St Georg Stiftskirche in snow File:Germany Tübingen St-Georg-in-Winter.jpg|St Georg Stiftskirche in winter File:Germany Tübingen Joker.jpg|Carving at entry to Schloß File:Tübingen, Danneckersche Nymphengruppe (R Kennison 2012).jpg|Statues File:Germany Tübingen St-Georg Legend.jpg|St. George being broken on the wheel, St. Georg Stiftskirche File:Graffiti art, Epplehaus Tübingen (2018).jpg|Graffiti art, Epplehaus [9] (2018)
 

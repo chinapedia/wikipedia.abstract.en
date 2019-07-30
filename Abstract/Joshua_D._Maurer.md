@@ -1,1 +1,0 @@
-JOSHUA D. MAURER (born 1964) is an American film producer, writer and actor whose credits include _Georgia O'Keeffe,_ _The Hoax,_ _The Last Tycoon,_ _Rosemary's Baby,_ _Jodi Arias: Dirty Little Secret_ and _Introducing Dorothy Dandridge_.

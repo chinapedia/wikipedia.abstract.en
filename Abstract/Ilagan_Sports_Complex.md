@@ -1,1 +1,0 @@
-The CITY OF ILAGAN SPORTS COMPLEX is a sports facility complex situated in Ilagan City, Isabela, Philippines. It was formerly called as Paguirigan Memorial Athletic Stadium before the construction of the new modern sports facility.

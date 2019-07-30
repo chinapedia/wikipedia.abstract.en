@@ -1,1 +1,0 @@
-SOMALI FACES is an online project[1] that shares everyday stories of ordinary Somali people from around the world. It was founded by Mohammed Ibrahim Shire, a storyteller, author and an academic. The blog had over 70,000 followers on Facebook[2] and around 21,600 followers on Instagram[3] as of June 2017.

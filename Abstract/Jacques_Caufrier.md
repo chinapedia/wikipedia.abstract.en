@@ -1,1 +1,0 @@
-JACQUES CAUFRIER (15 Feb 1942 - 2 August 2012) was a Belgian male water polo player. He was a member of the Belgium men's national water polo team. He competed with the team at the 1960 Summer Olympics and the 1964 Summer Olympics.[1]

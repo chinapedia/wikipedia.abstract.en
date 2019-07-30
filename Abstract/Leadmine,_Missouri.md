@@ -1,1 +1,0 @@
-LEADMINE (also spelled out LEAD MINE) is an unincorporated community in northern Dallas County, in the U.S. state of Missouri.[1] The community is located about 3.5 miles east of Tunas on Missouri Route E. The Lead Mines Conservation Area lies one-half mile to the east.[2] It is approximately 50 miles north-northeast of Springfield.

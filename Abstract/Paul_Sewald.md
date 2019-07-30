@@ -1,1 +1,0 @@
-PAUL STANTON SEWALD (born May 26, 1990) is an American professional baseball pitcher in the New York Mets organization. Sewald attended the University of San Diego played college baseball for the San Diego Toreros. He made his major league debut in 2017.

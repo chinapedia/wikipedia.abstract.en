@@ -35,8 +35,6 @@ For typical laboratory measurements, the value of the logarithm in the previous 
 
 Effect of a magnetic field
 
-Langevin_function.png
-
 When an external magnetic field _H_ is applied to an assembly of superparamagnetic nanoparticles, their magnetic moments tend to align along the applied field, leading to a net magnetization. The magnetization curve of the assembly, i.e. the magnetization as a function of the applied field, is a reversible S-shaped increasing function. This function is quite complicated but for some simple cases:
 
 1.  If all the particles are identical (same energy barrier and same magnetic moment), their easy axes are all oriented parallel to the applied field and the temperature is low enough (_T_(B) < T ≲ KV/(10 k_(B))_), then the magnetization of the assembly is

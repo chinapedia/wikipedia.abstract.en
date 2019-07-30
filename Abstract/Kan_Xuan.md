@@ -1,1 +1,0 @@
-KAN XUAN () (born in 1972 in Xuancheng, Anhui) is a Chinese contemporary visual artist, known for her experimental video artworks, though some of her work incorporates painting, photography, and performance art.[1] She is considered as one of the most important female video artists of China, and has been active since the late 1990s.[2][3]

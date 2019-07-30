@@ -1,4 +1,4 @@
-Atomic_cloud_over_Hiroshima_-_NARA_542192_-_Edit.jpg during World War II. The bombing was an act of total war.]]
+during World War II. The bombing was an act of total war.]]
 
 TOTAL WAR is warfare that includes any and all civilian-associated resources and infrastructure as legitimate military targets, mobilizes all of the resources of society to fight the war, and gives priority to warfare over non-combatant needs. The _Oxford Living Dictionaries_ defines "total war" as "A war that is unrestricted in terms of the weapons used, the territory or combatants involved, or the objectives pursued, especially one in which the laws of war are disregarded."[1]
 
@@ -39,15 +39,13 @@ French and American Revolutionary Wars and Napoleonic Wars
 
 During the American Revolutionary War, many basic tactics of total war, such as the scorched earth policy, were created in a modern form. In 1779, the Sullivan Expedition began, marching through Western Pennsylvania and up through New York, burning Iroquois villages to the ground, leaving nothing behind but smoldering ruin and dead animals. The goal was to force the Indians to go to Canada for food and thus be out of range of attacking American settlements.[11]
 
-SavenayDrownings.jpg during the War in the Vendée, 1793]] National_Museum_in_Poznan_-_Przejście_przez_Berezynę.JPG's retreat from Russia in 1812. Napoleon's _Grande Armée_ had lost about half a million men.]]
+during the War in the Vendée, 1793]] 's retreat from Russia in 1812. Napoleon's _Grande Armée_ had lost about half a million men.]]
 
 The French Revolutionary Wars introduced to mainland Europe some of the first concepts of total war, such as mass conscription.[12] The fledgling republic found itself threatened by a powerful coalition of European nations. The only solution, in the eyes of the Jacobin government, was to pour the entire nation's resources into an unprecedented war effort—this was the advent of the levée en masse. The following decree of the National Convention on August 23, 1793 demonstrates the immensity of the French war effort, when the French front line forces grew to some 800,000 with a total of 1.5 million in all services—the first time an army in excess of a million had been mobilized in Western history:
 
 In the Russian campaign of 1812 the Russians resorted to destroying infrastructure and agriculture in their retreat in order to hamper the French and strip them of adequate supplies. In the campaign of 1813, Allied forces in the German theater alone amounted to nearly one million whilst two years later in the Hundred Days a French decree called for the total mobilization of some 2.5 million men (though at most a fifth of this was managed by the time of the French defeat at Waterloo). During the prolonged Peninsular War from 1808–1814 some 300,000 French troops were kept permanently occupied by, in addition to several hundred thousand Spanish, Portuguese and British regulars, an enormous and sustained guerrilla insurgency—ultimately French deaths would amount to 300,000 in the Peninsular War alone.[13]
 
 Taiping Rebellion
-
-Qing_ambush_Taiping_Army_at_Wangjiakou_1854.jpg
 
 The Taiping Rebellion (1850–1864) was one of the deadliest wars in history.[14] About 20 million people died, many due to disease and famine.[15] It followed the secession of the Taiping Heavenly Kingdom from the Qing Empire.[16] Almost every citizen of the Heavenly Kingdom was given military training and conscripted into the army to fight against the Imperial forces.[17]
 
@@ -64,8 +62,6 @@ Scholars taking issue with the notion that Sherman was employing "total war" inc
 
 World War I
 
-Bundesarchiv_Bild_146-2008-0084,_Belgien,_Flandern,_Ruinen.jpg
-
 Almost the whole of Europe and the European colonial empires mobilized to wage World War I. Rationing occurred on the home fronts. Bulgaria went so far as to mobilize a quarter of its population or 800,000 people, a greater share of its population than any other country during the war.
 
 One of the features of total war in Britain was the use of government propaganda posters to divert all attention to the war on the home front. Posters were used to influence public opinion about what to eat and what occupations to take, and to change the attitude of support towards the war effort. Even the Music Hall was used as propaganda, with propaganda songs aimed at recruitment.
@@ -74,7 +70,7 @@ After the failure of the Battle of Neuve Chapelle, the large British offensive i
 
 As young men left the farms for the front, domestic food production in Britain and Germany fell. In Britain the response was to import more food, which was done despite the German introduction of unrestricted submarine warfare, and to introduce rationing. The Royal Navy's blockade of German ports prevented Germany from importing food and hastened German capitulation by creating a food crisis in Germany.
 
-Founding_Ceremony_of_the_Hakko-Ichiu_Monument.JPG'' Monument, promoting the unification of "the 8 corners of the world under one roof"]]
+'' Monument, promoting the unification of "the 8 corners of the world under one roof"]]
 
 World War II
 
@@ -112,7 +108,7 @@ Plant and machinery were plentiful and incompletely used, thus it was comparativ
 
 Soviet Union
 
-RIAN_archive_216_The_Volkovo_cemetery.jpg, in which about 1 million civilians died]]
+, in which about 1 million civilians died]]
 
 The Soviet Union (USSR) was a command economy which already had an economic and legal system allowing the economy and society to be redirected into fighting a total war. The transportation of factories and whole labour forces east of the Urals as the Germans advanced across the USSR in 1941 was an impressive feat of planning. Only those factories which were useful for war production were moved because of the total war commitment of the Soviet government.
 

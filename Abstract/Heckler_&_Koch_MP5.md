@@ -1,1 +1,0 @@
-The MP5 (''') is a 9x19mm Parabellum submachine gun, developed in the 1960s by a team of engineers from the German small arms manufacturer Heckler & Koch GmbH (H&K) of Oberndorf am Neckar. There are over 100 variants of the MP5,[1] including some semi-automatic versions.

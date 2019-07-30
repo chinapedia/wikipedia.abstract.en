@@ -19,14 +19,10 @@ In 1959, von Braun, head of the Development Operations Division at the Army Ball
 
 Air Force plans
 
-MOL_USAF.png
-
 The Department of Defense (DoD) and NASA cooperated closely in many areas of space.[14] In September 1963, NASA and the DoD agreed to cooperate in building a space station.[15] The DoD wanted its own crewed facility, however,[16] and in December it announced Manned Orbital Laboratory (MOL), a small space station primarily intended for photo reconnaissance using large telescopes directed by a two-man crew. The station was the same diameter as a Titan II upper stage, and would be launched with the crew riding atop in a modified Gemini capsule with a hatch cut into the heat shield on the bottom of the capsule.[17][18][19] MOL competed for funding with a NASA station for the next five years[20] and politicians and other officials often suggested that NASA participate in MOL or use the DoD design.[21] The military project led to changes to the NASA plans so that they would resemble MOL less.[22]
 
 
 Development
-
-NASA_Skylab_Pre-Flight_Orbital_Workshop_Overview-1972.ogv Assembling_the_Skylab_Orbital_Workshop_7014162.jpg
 
 Apollo Applications Program
 
@@ -36,15 +32,13 @@ As part of their general work, in August 1964 the Manned Spacecraft Center (MSC)
 
 Wet workshop
 
-Dr._von_Braun's_Sketch_of_the_Space_Station_8883912_original.jpg
-
 In November 1964, von Braun proposed a more ambitious plan to build a much larger station built from the S-II second stage of a Saturn V. His design replaced the S-IVB third stage with an aeroshell, primarily as an adapter for the CSM on top. Inside the shell was a cylindrical equipment section. On reaching orbit, the S-II second stage would be vented to remove any remaining hydrogen fuel, then the equipment section would be slid into it via a large inspection hatch. This became known as a "wet workshop" concept, because of the conversion of an active fuel tank. The station filled the entire interior of the S-II stage's hydrogen tank, with the equipment section forming a "spine" and living quarters located between it and the walls of the booster. This would have resulted in a very large living area. Power was to be provided by solar cells lining the outside of the S-II stage.[26]
 
 One problem with this proposal was that it required a dedicated Saturn V launch to fly the station. At the time the design was being proposed, it was not known how many of the then-contracted Saturn Vs would be required to achieve a successful Moon landing. However, several planned Earth-orbit test missions for the LEM and CSM had been canceled, leaving a number of Saturn IBs free for use. Further work led to the idea of building a smaller "wet workshop" based on the S-IVB, launched as the second stage of a Saturn IB.
 
 A number of S-IVB-based stations were studied at MSC from mid-1965, which had much in common with the Skylab design that eventually flew. An airlock would be attached to the hydrogen tank, in the area designed to hold the LEM, and a minimum amount of equipment would be installed in the tank itself in order to avoid taking up too much fuel volume. Floors of the station would be made from an open metal framework that allowed the fuel to flow through it. After launch, a follow-up mission launched by a Saturn IB would launch additional equipment, including solar panels, an equipment section and docking adapter, and various experiments. Douglas Aircraft, builder of the S-IVB stage, was asked to prepare proposals along these lines. The company had for several years been proposing stations based on the S-IV stage, before it was replaced by the S-IVB.[27]
 
-Wet_Workshop.svg" version of Skylab]] On April 1, 1966, MSC sent out contracts to Douglas, Grumman, and McDonnell for the conversion of a S-IVB spent stage, under the name _Saturn S-IVB spent-stage experiment support module_ (SSESM).[28] In May, astronauts voiced concerns over the purging of the stage's hydrogen tank in space. Nevertheless, in late July it was announced that the Orbital Workshop would be launched as a part of Apollo mission AS-209, originally one of the Earth-orbit CSM test launches, followed by two Saturn I/CSM crew launches, AAP-1 and AAP-2.
+" version of Skylab]] On April 1, 1966, MSC sent out contracts to Douglas, Grumman, and McDonnell for the conversion of a S-IVB spent stage, under the name _Saturn S-IVB spent-stage experiment support module_ (SSESM).[28] In May, astronauts voiced concerns over the purging of the stage's hydrogen tank in space. Nevertheless, in late July it was announced that the Orbital Workshop would be launched as a part of Apollo mission AS-209, originally one of the Earth-orbit CSM test launches, followed by two Saturn I/CSM crew launches, AAP-1 and AAP-2.
 
 MOL remained AAP's chief competitor for funds, although the two programs cooperated on technology. NASA considered flying experiments on MOL, or using its Titan IIIC booster instead of the much more expensive Saturn IB. The agency decided that the Air Force station was not large enough, and that converting Apollo hardware for use with Titan would be too slow and too expensive.[29] The DoD later canceled MOL in June 1969.[30]
 
@@ -71,34 +65,34 @@ Rescuing astronauts from Skylab was possible in the most likely emergency circum
 
 Components
 
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
-| Component                | Mass[49][50][51] | Habitable Volume | Length | Diameter | Image                                             |
-+==========================+==================+==================+========+==========+===================================================+
-| Payload shroud           |                  | –                |        |          |                                                   |
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
-| Apollo Telescope Mount   |                  | –                |        |          | Cover3skylabcompontents_(cropped_3_-_ATM).jpg     |
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
-| Multiple Docking Adapter |                  |                  |        |          | Cover3skylabcompontents_(cropped_2_-_MDA).jpg     |
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
-| Airlock module           |                  |                  |        |          | Cover3skylabcompontents_(cropped_4_-_Airlock).jpg |
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
-| Instrument Unit          |                  | –                |        |          | Cover3skylabcompontents_(cropped_5_-_IU).jpg      |
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
-| Orbital Workshop         |                  |                  |        |          | Cover3skylabcompontents_(cropped_6_-_OW).jpg      |
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
-| Total in orbit           |                  |                  |        |          |                                                   |
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
-| Apollo CSM               |                  |                  |        |          | Cover3skylabcompontents_(cropped_1_-_CSM).jpg     |
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
-| Total with CSM           |                  |                  |        |          |                                                   |
-+--------------------------+------------------+------------------+--------+----------+---------------------------------------------------+
++--------------------------+------------------+------------------+--------+----------+-------+
+| Component                | Mass[49][50][51] | Habitable Volume | Length | Diameter | Image |
++==========================+==================+==================+========+==========+=======+
+| Payload shroud           |                  | –                |        |          |       |
++--------------------------+------------------+------------------+--------+----------+-------+
+| Apollo Telescope Mount   |                  | –                |        |          |       |
++--------------------------+------------------+------------------+--------+----------+-------+
+| Multiple Docking Adapter |                  |                  |        |          |       |
++--------------------------+------------------+------------------+--------+----------+-------+
+| Airlock module           |                  |                  |        |          |       |
++--------------------------+------------------+------------------+--------+----------+-------+
+| Instrument Unit          |                  | –                |        |          |       |
++--------------------------+------------------+------------------+--------+----------+-------+
+| Orbital Workshop         |                  |                  |        |          |       |
++--------------------------+------------------+------------------+--------+----------+-------+
+| Total in orbit           |                  |                  |        |          |       |
++--------------------------+------------------+------------------+--------+----------+-------+
+| Apollo CSM               |                  |                  |        |          |       |
++--------------------------+------------------+------------------+--------+----------+-------+
+| Total with CSM           |                  |                  |        |          |       |
++--------------------------+------------------+------------------+--------+----------+-------+
 
 
 Operational history
 
 Completion and launch
 
-SKYLAB_I_-_view_from_a_distance.jpg rocket carrying the Skylab space station]]
+rocket carrying the Skylab space station]]
 
 On August 8, 1969, the McDonnell Douglas Corporation received a contract for the conversion of two existing S-IVB stages to the Orbital Workshop configuration. One of the S-IV test stages was shipped to McDonnell Douglas for the construction of a mock-up in January 1970. The Orbital Workshop was renamed "Skylab" in February 1970 as a result of a NASA contest.[52] The actual stage that flew was the upper stage of the AS-212 rocket (the S-IVB stage, S-IVB 212). The mission computer used aboard Skylab was the IBM System/4Pi TC-1, a relative of the AP-101 Space Shuttle computers. The Saturn V with serial number SA-513, originally produced for the Apollo program—before the cancellation of Apollo 18, 19, and 20—was repurposed and redesigned to launch Skylab.[53] The Saturn V's third stage was removed and replaced with Skylab, but with the controlling Instrument Unit remaining in its standard position.
 
@@ -109,8 +103,6 @@ Immediately following Skylab's launch, Pad A at Kennedy Space Center Launch Comp
 SL-1 was the last uncrewed launch from LC-39A until February 19, 2017, when SpaceX CRS-10 was launched from there.
 
 Crewed missions
-
-S73-32568skylab3saturnibnight.jpg Skylab_3_flyaround.jpg False_Color_Isophote_of_a_Solar_Eruption.jpg
 
 Three crewed missions, designated SL-2, SL-3 and SL-4, were made to Skylab. The first crewed mission, SL-2, launched on May 25, 1973 atop a Saturn IB and involved extensive repairs to the station. The crew deployed a parasol-like sunshade through a small instrument port from the inside of the station, bringing station temperatures down to acceptable levels and preventing overheating that would have melted the plastic insulation inside the station and released poisonous gases. This solution was designed by NASA's "Mr. Fix It" Jack Kinzler, who won the NASA Distinguished Service Medal for his efforts. The crew conducted further repairs via two spacewalks (extra-vehicular activity, or EVA). The crew stayed in orbit with Skylab for 28 days. Two additional missions followed, with the launch dates of July 28, 1973 (SL-3) and November 16, 1973 (SL-4), and mission durations of 59 and 84 days, respectively. The last Skylab crew returned to Earth on February 8, 1974.
 
@@ -126,7 +118,7 @@ Also of note was the three-man crew of Skylab Medical Experiment Altitude Test, 
 
 Orbital operations
 
-Astronaut_Owen_Garriott_Performs_EVA_During_Skylab_3_-_GPN-2002-000065.jpg performing an EVA in 1973]]
+performing an EVA in 1973]]
 
 Skylab orbited Earth 2,476 times during the 171 days and 13 hours of its occupation during the three crewed Skylab expeditions. Each of these extended the human record of 23 days for amount of time spent in space set by the Soviet Soyuz 11 crew aboard the space station Salyut 1 on June 30, 1971. Skylab 2 lasted 28 days, Skylab 3 56 days, and Skylab 4 84 days. Astronauts performed ten spacewalks, totaling 42 hours and 16 minutes. Skylab logged about 2,000 hours of scientific and medical experiments, 127,000 frames of film of the Sun and 46,000 of Earth.[56] Solar experiments included photographs of eight solar flares, and produced valuable results[57] that scientists stated would have been impossible to obtain with uncrewed spacecraft.[58] The existence of the Sun's coronal holes were confirmed because of these efforts.[59] Many of the experiments conducted investigated the astronauts' adaptation to extended periods of microgravity.
 
@@ -138,8 +130,6 @@ The station offered what a later study called "a highly satisfactory living and 
 
 
 Experiments
-
-Spider_Anita.jpg Sl3-122-2587ellenfromskylab.jpg
 
 Prior to departure about 80 experiments were named, although they are also described as "almost 300 separate investigations".[71] Experiments were divided into six broad categories:
 
@@ -158,11 +148,7 @@ The figure (below) lists an overview of most major experiments.[72] Skylab 4 car
 
 Summary
 
-Skylabexpsheet.jpg
-
 Example
-
-Skylabed24.jpg
 
 Nobel Prize
 
@@ -170,8 +156,6 @@ Riccardo Giacconi shared the 2002 Nobel Prize in Physics for his study of X-ray 
 
 
 Film vaults and window radiation shield
-
-P188skylabfilmvault.jpg
 
 Skylab had certain features to protect vulnerable technology from radiation.[75] The window was vulnerable to darkening, and this darkening could affect experiment S190.[76] As a result, a light shield that could be open or shut was designed and installed on Skylab.[77] To protect a wide variety of films, used for a variety of experiments and for astronaut photography, there were five film vaults.[78] There were four smaller film vaults in the Multiple Docking Adapter, mainly because the structure could not carry enough weight for a single larger film vault.[79] The orbital workshop could handle a single larger safe, which is also more efficient for shielding.[80] The large vault in the orbital workshop had an empty mass of 2398 lb (1088 kg, 171.3 stones).[81][82] The four smaller vaults had combined mass of 1545 lb.[83] The primary construction material of all five safes was aluminum.[84] When Skylab re-entered there was one 180 lb chunk of aluminum found that was thought to be a door to one of the film vaults.[85] The big film vault was one of the heaviest single pieces of Skylab to re-enter Earth's atmosphere.[86]
 
@@ -182,7 +166,7 @@ The Skylab film vault was used for storing film from various sources including t
 
 Gyroscopes
 
-P46bskylabgyros.jpg without using propellant by changing the spin of large gyroscopes]]
+without using propellant by changing the spin of large gyroscopes]]
 
 There were two types of gyroscopes on Skylab. Control-moment gyroscopes could physically move the station, and rate gyroscopes measured the rate of rotation to find its orientation. (see Control moment gyroscope (CMG))[93] The CMG helped provide the fine pointing needed by the Apollo Telescope Mount, and to resist various forces that can change the station's orientation.[94]
 
@@ -198,8 +182,6 @@ There were three control movement gyroscopes on Skylab, but only two were requir
 
 
 Shower
-
-Showering_on_Skylab_-_GPN-2000-001710.jpg Skylab_2_Conrad_in_shower.jpg P268skylabshowertest.jpg
 
 Skylab had a zero-gravity shower system in the work and experiment section of the Orbital Workshop[108] designed and built at the Manned Spaceflight Center.[109] It had a cylindrical curtain that went from floor to ceiling and a vacuum system to suck away water.[110] The floor of the shower had foot restraints.
 
@@ -220,7 +202,7 @@ A simulated Skylab shower was also used during the 56-day Earth-bound Skylab ana
 
 Cameras and film
 
-Skylab_3_Close-Up_-_GPN-2000-001711.jpg Sl2-05-364crete1973.jpg as photographed on June 22, 1973 from Skylab]] 40_Years_Ago,_Skylab_Paved_Way_for_International_Space_Station.jpg
+as photographed on June 22, 1973 from Skylab]]
 
 There was a variety of hand-held and fixed experiments that used various types of film. In addition to the instruments in the ATM solar observatory, 35 and 70 mm film cameras were carried on board. A TV camera was carried that recorded video electronically. These electronic signals could be recorded to magnetic tape or be transmitted to Earth by radio signal. The TV camera was not a digital camera of the type that became common in the later decades, although Skylab did have a digital computer using microchips on board.
 
@@ -271,8 +253,6 @@ There was also a Polaroid SX-70 instant camera,[147] and a pair of Leitz Trinovi
 
 Computers
 
-Nasasoftwareforskylabcycle.jpg
-
 Skylab was controlled in part by a digital computer system, and one of its main jobs was to control the pointing of the station; pointing was especially important for its solar power collection and observatory functions.[149] The computer consisted of two actual computers, a primary and a secondary. The system ran several thousand words of code, which was also backed up on the Memory Load Unit (MLU).[150] The two computers were linked to each other and various input and output items by the workshop computer interface.[151] Operations could be switched from the primary to the backup, which were the same design, either automatically if errors were detected, by the Skylab crew, or from the ground.[152]
 
 The Skylab computer was a space-hardened and customized version of the TC-1 computer, a version of the IBM System/4 Pi, itself based on the System 360 computer.[153] The TC-1 had a 16,000-word memory based on ferrite memory cores, while the MLU was a read-only tape drive that contained a backup of the main computer programs.[154] The tape drive would take 11 seconds to upload the backup of the software program to a main computer.[155] The TC-1 used 16-bit words and the central processor came from the 4Pi computer.[156] There was a 16k and an 8k version of the software program.[157]
@@ -292,7 +272,7 @@ For personal computing needs Skylab crews were equipped with models of the then 
 
 Plans for re-use after the last mission
 
-SkylabRescue.jpg rocket after the last Skylab mission]]
+rocket after the last Skylab mission]]
 
 The three crewed Skylab missions used only about 16.8 of the 24-man-months of oxygen, food, water, and other supplies stored aboard Skylab.[173] A fourth crewed mission was under consideration, which would have used the launch vehicle kept on standby for the Skylab Rescue mission. This would have been a 20-day mission to boost Skylab to a higher altitude and do more scientific experiments.[174] Another plan was to use a Teleoperator Retrieval System (TRS) launched aboard the Space Shuttle (then under development), to robotically re-boost the orbit. When Skylab 5 was cancelled, it was expected Skylab would stay in orbit until the 1980s, which was enough time to overlap with the beginning of Shuttle launches. Other options for launching TRS included the Titan III and Atlas Agena. No option received the level of effort and funding needed for execution before Skylab's sooner-than-expected re-entry.[175]
 
@@ -305,8 +285,6 @@ Proponents of Skylab's reuse also said repairing and upgrading Skylab would prov
 Some studies also said, beyond the opportunity for space construction and maintenance experience, reactivating the station would free up shuttle flights for other uses,[201] and reduce the need to modify the shuttle for long-duration missions.[202] Even if the station were not crewed again, went one argument, it might serve as an experimental platform.[203]
 
 Shuttle mission plans
-
-Teleoperator_Retrieval_System_with_Shuttle.jpg
 
 The reactivation would likely have occurred in four phases:[204]
 
@@ -322,15 +300,11 @@ Other options for launching TRS were Titan III or Atlas Agena.[208]
 
 After departure
 
-Skylab_4_undocking.jpg
-
 After a boost of by SL-4's Apollo CSM before its departure in 1974, Skylab was left in a parking orbit of by [209] that was expected to last until at least the early 1980s, based on estimates of the 11-year sunspot cycle that began in 1976.[210] NASA first considered as early as 1962 the potential risks of a space station reentry, but decided not to incorporate a retrorocket system in Skylab due to cost and acceptable risk.[211]
 
 The spent 49-ton Saturn V S-II stage which had launched Skylab in 1973 remained in orbit for almost two years, and made an uncontrolled reentry on January 11, 1975.[212] Some debris, most prominently the five heavy J-2 engines, likely survived to impact in the North Atlantic Ocean. Although this event did not receive heavy media or public attention, it was followed closely by NASA and the Air Force, and helped emphasize the need for improved planning and public awareness for Skylab's eventual reentry.
 
 Solar activity
-
-Skylab_Solar_flare.jpg
 
 British mathematician Desmond King-Hele of the Royal Aircraft Establishment predicted in 1973 that Skylab would de-orbit and crash to Earth in 1979, sooner than NASA's forecast, because of increased solar activity.[213] Greater-than-expected solar activity[214] heated the outer layers of Earth's atmosphere and increased drag on Skylab. By late 1977, NORAD also forecast a reentry in mid-1979;[215] a National Oceanic and Atmospheric Administration (NOAA) scientist criticized NASA for using an inaccurate model for the second most-intense sunspot cycle in a century, and for ignoring NOAA predictions published in 1976.[216]
 
@@ -340,7 +314,7 @@ Ground controllers re-established contact with Skylab in March 1978[219] and rec
 
 Re-entry and debris
 
-Skylab_reentry_map.svg relief map of the Skylab re-entry site and final orbits, as predicted by NASA]] Skylabfragment.JPG]]
+relief map of the Skylab re-entry site and final orbits, as predicted by NASA]] ]]
 
 Skylab's demise in 1979 was an international media event, with T-shirts and hats with bullseyes[225] and "Skylab Repellent" with a money-back guarantee, wagering on the time and place of re-entry, and nightly news reports. The _San Francisco Examiner_ offered a $10,000 prize for the first piece of Skylab delivered to its offices; the competing _San Francisco Chronicle_ offered $200,000 if a subscriber suffered personal or property damage.[226] A Nebraska neighborhood painted a target so that the station would have "something to aim for", a resident said.[227]
 
@@ -355,7 +329,7 @@ After the demise of Skylab, NASA focused on the reusable Spacelab module, an orb
 
 Rockets, rescue, and cancelled missions
 
-Skylab_rescue_cm.jpg Kennedy_Space_Center_-_Rocket_Garden.jpg rocket garden.]]
+rocket garden.]]
 
 There was a Skylab Rescue mission assembled for the second crewed mission to Skylab, but it was not needed. Another rescue mission was assembled for the last Skylab and was also on standby for ASTP. That launch stack might have been used for Skylab 5 (which would have been the fourth crewed Skylab mission), but this was cancelled and the SA-209 Saturn IB rocket was put on display at NASA Kennedy Space Center.[242]
 
@@ -386,33 +360,33 @@ Mission designations
 
 The numerical identification of the crewed Skylab missions was the cause of some confusion. Originally, the uncrewed launch of Skylab and the three crewed missions to the station were numbered _SL-1_ through _SL-4_. During the preparations for the crewed missions, some documentation was created with a different scheme—_SLM-1_ through _SLM-3_—for those missions only. William Pogue credits Pete Conrad with asking the Skylab program director which scheme should be used for the mission patches, and the astronauts were told to use 1-2-3, not 2-3-4. By the time NASA administrators tried to reverse this decision, it was too late, as all the in-flight clothing had already been manufactured and shipped with the 1-2-3 mission patches.[250]
 
-+---------------------------+--------------------------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
-| Mission                   | Emblem                   | Commander                          | Science Pilot     | Pilot         | Launch date             | Landing date | Duration (days) |
-+===========================+==========================+====================================+===================+===============+=========================+==============+=================+
-| Skylab 1 _SL-1_           | Skylab_Program_Patch.png | _uncrewed launch of space station_ | 1973-05-14        | 1979-07-11    | 2248.96                 |              |                 |
-|                           |                          |                                    | 17:30:00 UTC      | 16:37:00 UTC  |                         |              |                 |
-+---------------------------+--------------------------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
-| Skylab 2 _SL-2_ (_SLM-1_) | Skylab1-Patch.png        | Pete Conrad                        | Joseph Kerwin     | Paul Weitz    | 1973-05-25              | 1973-06-22   | 28.03           |
-|                           |                          |                                    |                   |               | 13:00:00 UTC            | 13:49:48 UTC |                 |
-+---------------------------+--------------------------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
-| Skylab 3 _SL-3_ (_SLM-2_) | Skylab2-Patch.png        | Alan Bean                          | Owen Garriott     | Jack Lousma   | 1973-07-28              | 1973-09-25   | 59.46           |
-|                           |                          |                                    |                   |               | 11:10:50 UTC            | 22:19:51 UTC |                 |
-+---------------------------+--------------------------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
-| Skylab 4 _SL-4_ (_SLM-3_) | Skylab3-Patch.png        | Gerald Carr                        | Edward Gibson     | William Pogue | 1973-11-16              | 1974-02-08   | 84.04           |
-|                           |                          |                                    |                   |               | 14:01:23 UTC            | 15:16:53 UTC |                 |
-+---------------------------+--------------------------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
-| Skylab 5                  |                          | Vance Brand                        | William B. Lenoir | Don Lind      | (April 1974, Cancelled) |              | 20 (notional)   |
-+---------------------------+--------------------------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
-| Skylab Rescue             | Skylab_rescue_crew.jpg   | Vance Brand                        | Don Lind          | (Survivors)   | (On Standby)            |              |                 |
-+---------------------------+--------------------------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
++---------------------------+--------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
+| Mission                   | Emblem | Commander                          | Science Pilot     | Pilot         | Launch date             | Landing date | Duration (days) |
++===========================+========+====================================+===================+===============+=========================+==============+=================+
+| Skylab 1 _SL-1_           |        | _uncrewed launch of space station_ | 1973-05-14        | 1979-07-11    | 2248.96                 |              |                 |
+|                           |        |                                    | 17:30:00 UTC      | 16:37:00 UTC  |                         |              |                 |
++---------------------------+--------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
+| Skylab 2 _SL-2_ (_SLM-1_) |        | Pete Conrad                        | Joseph Kerwin     | Paul Weitz    | 1973-05-25              | 1973-06-22   | 28.03           |
+|                           |        |                                    |                   |               | 13:00:00 UTC            | 13:49:48 UTC |                 |
++---------------------------+--------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
+| Skylab 3 _SL-3_ (_SLM-2_) |        | Alan Bean                          | Owen Garriott     | Jack Lousma   | 1973-07-28              | 1973-09-25   | 59.46           |
+|                           |        |                                    |                   |               | 11:10:50 UTC            | 22:19:51 UTC |                 |
++---------------------------+--------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
+| Skylab 4 _SL-4_ (_SLM-3_) |        | Gerald Carr                        | Edward Gibson     | William Pogue | 1973-11-16              | 1974-02-08   | 84.04           |
+|                           |        |                                    |                   |               | 14:01:23 UTC            | 15:16:53 UTC |                 |
++---------------------------+--------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
+| Skylab 5                  |        | Vance Brand                        | William B. Lenoir | Don Lind      | (April 1974, Cancelled) |              | 20 (notional)   |
++---------------------------+--------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
+| Skylab Rescue             |        | Vance Brand                        | Don Lind          | (Survivors)   | (On Standby)            |              |                 |
++---------------------------+--------+------------------------------------+-------------------+---------------+-------------------------+--------------+-----------------+
 
 SMEAT
 
 The _Skylab Medical Experiment Altitude Test_ or SMEAT was a 56-day (8-week) Earth analog Skylab test.[251] The test had a low-pressure high oxygen-percentage atmosphere but it operated under full gravity, as SMEAT was not in orbit. The test had a three-man crew with Commander (Crippen), Science Pilot (Bobko), and Pilot (Thornton);[252] there was a focus on medical studies and Thornton was an M.D.[253] The crew lived and worked in the pressure chamber, converted to be like Skylab, from July 26 to September 20, 1972.[254]
 
-  Mission   Emblem            Commander     Science Pilot   Pilot              Start date      End date                   Duration (days)
-  --------- ----------------- ------------- --------------- ------------------ --------------- -------------------------- -----------------
-  SMEAT     SMEAT_patch.jpg   Bob Crippen   Karol Bobko     William Thornton   July 26, 1972   September 20, 1972.[255]   56-days
+  Mission   Emblem   Commander     Science Pilot   Pilot              Start date      End date                   Duration (days)
+  --------- -------- ------------- --------------- ------------------ --------------- -------------------------- -----------------
+  SMEAT              Bob Crippen   Karol Bobko     William Thornton   July 26, 1972   September 20, 1972.[255]   56-days
 
 
 Program cost

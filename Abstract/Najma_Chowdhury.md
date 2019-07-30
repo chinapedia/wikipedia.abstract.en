@@ -1,1 +1,0 @@
-NAJMA CHOWDHURY is a Bangladeshi academic. She is pioneer in establishing women studies in Bangladesh. She founded the Women and Gender Studies department of the University of Dhaka in 2000.[1] She was an advisor in the first caretaker government in 1996.[2] She was awarded Ekushey Padak in research in 2008.[3]

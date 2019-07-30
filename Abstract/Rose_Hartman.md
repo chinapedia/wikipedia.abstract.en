@@ -1,1 +1,0 @@
-ROSE HARTMAN (born May 16, 1937) is a photographer, travel writer, and author who lives and works in New York. Hartman claims she got hooked on photography during an assignment From DNR (a fashion publication) to shoot an elaborate Hemingway wedding in Sun Valley, Idaho in 1976."[1] Hartman is the subject of the 2016 documentary film _The Incomparable Rose Hartman_.[2][3][4]

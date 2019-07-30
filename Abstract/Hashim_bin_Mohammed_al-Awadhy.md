@@ -1,1 +1,0 @@
-HASHIM BIN MOHAMMED AL-AWADHY (Arabic: العوضي محمد بن هاشم) is a Qatari businessman and the owner of Rabea TV, and an official with the Qatar-based Eid Charity Association. Al-Awadhy's son, Mohammed bin Hashim al-Awadhy, was the coordinator of an Islamic fundraising campaign and was killed while fighting with ISIS in Syria. Al-Awadhy currently resides in Doha, Qatar.

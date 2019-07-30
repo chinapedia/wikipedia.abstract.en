@@ -1,1 +1,0 @@
-LEFT SILVER-57 RAPID ATTACK or LEFT SILVER-5G RAPID ATTACK or LEFT SILVER-5G QUICK ATTACK (5七銀左急戦 _go-nana gin hidari kyuusen_) is a fast attacking strategy in shogi used with several different Static Rook openings often played by Black against Ranging Rook positions played by White. It is characterized by moving the left silver from its start position on 79 to the 57 square.

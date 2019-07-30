@@ -1,1 +1,0 @@
-SIDNEY SELBY (born July 23, 1931), known as "GUITAR CRUSHER" and formerly as "BONE CRUSHER", is an American blues singer and guitarist, for many years based in Berlin, Germany. Primarily a singer, billed as "The Big Voice from New York", he also plays guitar and blues harmonica.

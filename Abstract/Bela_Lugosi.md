@@ -1,1 +1,0 @@
-BÉLA FERENC DEZSŐ BLASKÓ (; 20 October 1882 – 16 August 1956), better known as BELA LUGOSI (; ), was a Hungarian-American actor best remembered for portraying Count Dracula in the 1931 film and for his roles in other horror films.[1]

@@ -14,7 +14,7 @@ In many respects no two men could be more unlike than Severus, the scholar and o
 
 Works
 
-Caroline_2.jpg by Sulpice Sévère, written in carolingian minuscule]]
+by Sulpice Sévère, written in carolingian minuscule]]
 
 _Chronicle_
 

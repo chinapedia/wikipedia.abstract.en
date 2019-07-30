@@ -1,1 +1,0 @@
-A CABAL is a small group of people united in some close design, usually to promote their private views of or interests in an ideology, state, or other community, often by intrigue and usually unbeknownst to those outside their group. The use of this term usually carries negative connotations of political purpose, conspiracy and secrecy.[1][2]

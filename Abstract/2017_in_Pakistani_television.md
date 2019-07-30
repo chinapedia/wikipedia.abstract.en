@@ -1,1 +1,0 @@
-The following is a list of events affecting PAKISTANI TELEVISION IN 2017. Events listed include television show debuts, and finales; channel launches, and closures; stations changing or adding their network affiliations; and information about changes of ownership of channels or stations.

@@ -1,1 +1,0 @@
-_KALAKKA POVATHU YAARU? SEASON 5_ () is a Tamil language stand-up comedy reality television show on Vijay TV from 26 July 2015 to 14 August 2016 at 2:00PM IST, for 54 episodes.[1] The Judges are Tamil actor Thadi Balaji, Erode Mahesh, Mimicry Sethu and Vijay TV anchor Priyanka Deshpande.

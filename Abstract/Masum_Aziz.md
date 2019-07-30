@@ -1,1 +1,0 @@
-MASUM AZIZ () is a Bangladeshi actor.[1][2][3] He has performed on stage, television and film. While studying in Chittagong University, he made his acting debut in theater. In 1985, he debuted in TV drama. Masum has played more than four hundred drama and notable film since 1985.[4]

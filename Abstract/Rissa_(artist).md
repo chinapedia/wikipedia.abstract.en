@@ -1,1 +1,0 @@
-RISSA (born KARIN MARTIN on 22 June 1938 in Rabenstein near Chemnitz), is a German artist and former professor at the Kunstakademie Düsseldorf. In 1964 she adopted the artist name RISSA, derived from the Norwegian municipality, Rissa.[1]

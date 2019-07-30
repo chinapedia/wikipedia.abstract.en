@@ -1,1 +1,0 @@
-GILBERTO MENDOZA (March 30, 1943 – March 11, 2016) was the President of the World Boxing Association (WBA), the oldest of the four major boxing organizations. He served from 1982 until stepping down in December 2015. He later served as President Emeritus until his death.

@@ -1,1 +1,0 @@
-AUKI is an impact crater in the Mare Tyrrhenum quadrangle of Mars, at 15.76 °S latitude and 263.13 °W longitude. It is 40.0 km in diameter and was named after Auki, a town in the Solomon Islands, in 2015 by the International Astronomical Union (IAU) Working Group for Planetary System Nomenclature (WGPSN).[1]

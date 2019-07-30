@@ -1,1 +1,0 @@
-RUDOLPH VALENTINO RENDER (July 1, 1926 – September 11, 2014)[1][2] was an American singer, musician, arranger and songwriter, best known for his 1949 R&B chart hit, "Sneakin' Around" and his work as musical director for Debbie Reynolds.

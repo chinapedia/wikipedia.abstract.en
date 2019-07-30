@@ -1,1 +1,0 @@
-_SERVANTS OF TWILIGHT_ is a 1991 American horror film directed by Jeffrey Obrow and starring Bruce Greenwood, Belinda Bauer, Grace Zabriskie and Jarrett Lennon. It is based on the novel _The Servants of Twilight_ by Dean Koontz.[1]

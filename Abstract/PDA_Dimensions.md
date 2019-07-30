@@ -1,1 +1,0 @@
-PDA DIMENSIONS Inc was an Atlanta-based company that developed software for early PDA handheld devices and smartphones. They developed the first 3rd party smartphone application, DispatchIt. This was the only 3rd party application for the IBM Simon.[1] The DispatchIt application costs were US$2,999 for the host PC software and US$299 for each Simon software client.

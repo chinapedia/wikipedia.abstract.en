@@ -1,1 +1,0 @@
-On October 28, 2016, FEDEX EXPRESS FLIGHT 910, a McDonnell Douglas MD-10-10F flying from Memphis International Airport to Fort Lauderdale-Hollywood International Airport was involved in a runway skid after a landing gear collapse, which resulted in a fire completely destroying the left engine and wing. Two crew members, the only people on board, were unharmed.

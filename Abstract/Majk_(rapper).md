@@ -1,1 +1,0 @@
-MAJK (born Kastriot Rexha, November 27, 1990) is a Kosovar rapper, singer and songwriter. Majk first gained fame in 2005 as a member of the then Kosovo rap group TDS, with hit singles such as "Si Manekene" and "Mejrem". After the group split and going on a short hiatus, Majk returned with a hit summer single featuring Albanian rapper Getoar Selimi called "Sjena Mo"[1] in 2015.

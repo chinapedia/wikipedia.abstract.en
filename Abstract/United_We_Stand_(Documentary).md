@@ -1,1 +1,0 @@
-_UNITED WE STAND_ is a 2003 feature documentary directed by Matteo Barzini about America’s reactions to 9/11 and the Iraq War. The documentary was presented in the New Territories section of the official selection at the 2003 Venice International Film Festival.[1][2]

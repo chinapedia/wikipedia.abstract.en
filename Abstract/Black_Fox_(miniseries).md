@@ -1,1 +1,0 @@
-_BLACK FOX_ is a 1995 American television miniseries based on Matt Braun's 1973 novel of the same name starring Christopher Reeve, Raoul Trujillo, Tony Todd and Nancy Sorel.[1] The miniseries was presented in three parts on CBS.

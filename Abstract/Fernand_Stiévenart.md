@@ -1,1 +1,0 @@
-Fernand_Stiévenart.JPG Fermette-Stiévenart.jpg FERNAND JOSEPH JULES STIÉVENART (21 May 1862 in Douai – 22 January 1922 in Uccle) was a French landscape painter; associated with the artists' colony at Wissant.

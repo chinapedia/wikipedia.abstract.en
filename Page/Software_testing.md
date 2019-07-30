@@ -74,7 +74,7 @@ Software testing methods are traditionally divided into white- and black-box tes
 
 White-box testing
 
-White_Box_Testing_Approach.png White-box testing (also known as clear box testing, glass box testing, transparent box testing, and structural testing) verifies the internal structures or workings of a program, as opposed to the functionality exposed to the end-user. In white-box testing, an internal perspective of the system (the source code), as well as programming skills, are used to design test cases. The tester chooses inputs to exercise paths through the code and determine the appropriate outputs.[31][32] This is analogous to testing nodes in a circuit, e.g., in-circuit testing (ICT).
+White-box testing (also known as clear box testing, glass box testing, transparent box testing, and structural testing) verifies the internal structures or workings of a program, as opposed to the functionality exposed to the end-user. In white-box testing, an internal perspective of the system (the source code), as well as programming skills, are used to design test cases. The tester chooses inputs to exercise paths through the code and determine the appropriate outputs.[31][32] This is analogous to testing nodes in a circuit, e.g., in-circuit testing (ICT).
 
 While white-box testing can be applied at the unit, integration, and system levels of the software testing process, it is usually done at the unit level.[33] It can test paths within a unit, paths between units during integration, and between subsystems during a system–level test. Though this method of test design can uncover many errors or problems, it might not detect unimplemented parts of the specification or missing requirements.
 
@@ -110,7 +110,7 @@ happens to be chosen. Pseudo-tested functions and methods are those that are cov
 
 Black-box testing
 
-Blackbox.svg Black-box testing (also known as functional testing) treats the software as a "black box," examining functionality without any knowledge of internal implementation, without seeing the source code. The testers are only aware of what the software is supposed to do, not how it does it.[41] Black-box testing methods include: equivalence partitioning, boundary value analysis, all-pairs testing, state transition tables, decision table testing, fuzz testing, model-based testing, use case testing, exploratory testing, and specification-based testing.[42][43][44]
+Black-box testing (also known as functional testing) treats the software as a "black box," examining functionality without any knowledge of internal implementation, without seeing the source code. The testers are only aware of what the software is supposed to do, not how it does it.[41] Black-box testing methods include: equivalence partitioning, boundary value analysis, all-pairs testing, state transition tables, decision table testing, fuzz testing, model-based testing, use case testing, exploratory testing, and specification-based testing.[42][43][44]
 
 Specification-based testing aims to test the functionality of software according to the applicable requirements.[45] This level of testing usually requires thorough test cases to be provided to the tester, who then can simply verify that for a given input, the output value (or behavior), either "is" or "is not" the same as the expected value specified in the test case. Test cases are built around specifications and requirements, i.e., what the application is supposed to do. It uses external descriptions of the software, including specifications, requirements, and designs to derive test cases. These tests can be functional or non-functional, though usually functional.
 
@@ -176,7 +176,7 @@ In addition, the software testing should ensure that the portability of the syst
 
 Testing types, techniques and tactics
 
-Different labels and ways of grouping testing may be testing types, software testing tactics or techniques.[73] TestingCup-Polish-Championship-in-Software-Testing-Katowice-2016.jpg, May 2016]]
+Different labels and ways of grouping testing may be testing types, software testing tactics or techniques.[73] , May 2016]]
 
 Installation testing
 

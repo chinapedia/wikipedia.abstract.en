@@ -1,1 +1,0 @@
-_CANU HELEDD_ (modern Welsh /'kani 'hɛlɛð/, the songs of Heledd) are a collection of early Welsh _englyn_-poems. They are rare among medieval Welsh poems for being set in the mouth of a female character.

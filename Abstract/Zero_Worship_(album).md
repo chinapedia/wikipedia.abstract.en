@@ -1,1 +1,0 @@
-_ZERO WORSHIP_ is the second full-length album by Young Legionnaire. The album was pre-released digitally to record backers on 24 June 2016, while the physical version was released on 25 November 2016 on Superstar Destroyer Records.

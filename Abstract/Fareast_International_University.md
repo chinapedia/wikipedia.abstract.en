@@ -1,1 +1,0 @@
-FAREAST INTERNATIONAL UNIVERSITY (FIU) () is a private university located at Banani in Dhaka, Bangladesh.[1][2][3] The university was established in 2013 under the Private University Act, 2010. It was founded by Sheikh Kabir Hossain, relative of Prime Minister Sheikh Hasina.[4]

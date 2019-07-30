@@ -1,1 +1,0 @@
-Mabel_Conkling_1904_by_Frederick_William_MacMonnies.jpg's "finest portrait"]] MABEL CONKLING (November 17, 1871 – October 11, 1966) was an American sculptor, and president of the National Association of Women Painters and Sculptors from 1926 to 1928.[1]

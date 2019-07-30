@@ -1,1 +1,0 @@
-Baptism-of-Christ-xx-Francesco-Alban.JPG's _The Baptism of Christ,_ when Jesus became one with God according to Adoptionism ]]

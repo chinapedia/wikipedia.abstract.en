@@ -1,1 +1,0 @@
-STATE BANK OF SIKKIM (SBS) is a state owned banking institution headquartered at Gangtok, Sikkim, India. The Bank operates within the jurisdiction of the State of Sikkim and in addition to banking services, State Bank of Sikkim handles treasury functions of State Government of Sikkim.[1]

@@ -1,1 +1,0 @@
-The ALTAR OF HIERON () or the GREAT ALTAR OF SYRACUSE is a monumental grand altar in the ancient quarter of Neapolis in Syracuse, Sicily. It was built in the Hellenistic period by King Hiero II and is the largest altar known from antiquity.

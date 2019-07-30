@@ -14,7 +14,7 @@ Origin hypotheses
 
 Indo-European
 
-Leshy_(1906).jpg, satyrs bear similarities to figures in other Indo-European mythologies, such as the Slavic _lešiy_ (_pictured_) and some form of similar entity probably originated in Proto-Indo-European mythology.]]
+, satyrs bear similarities to figures in other Indo-European mythologies, such as the Slavic _lešiy_ (_pictured_) and some form of similar entity probably originated in Proto-Indo-European mythology.]]
 
 According to classicist Martin Litchfield West, satyrs and silenoi in Greek mythology are similar to a number of other entities appearing in other Indo-European mythologies, indicating that they probably go back, in some vague form, to Proto-Indo-European mythology. Like satyrs, these other Indo-European nature spirits are often human-animal hybrids, frequently bearing specifically equine or asinine features. Human-animal hybrids known as Kiṃpuruṣas or Kiṃnaras are mentioned in the _Rāmāyaṇa_, an Indian epic poem written in Sanskrit. According to Augustine of Hippo (354 – 430 AD) and others, the ancient Celts believed in _dusii_, which were hairy demons believed to occasionally take human form and seduce mortal women. Later figures in Celtic folklore, including the Irish _bocánach_, the Scottish _ùruisg_ and _glaistig_, and the Manx _goayr heddagh_, are part human and part goat. The lexicographer Hesychius of Alexandria (fifth or sixth century AD) records that the Illyrians believed in satyr-like creatures called _Deuadai_. The Slavic _lešiy_ also bears similarities to satyrs, since he is described as being covered in hair and having "goat's horns, ears, feet, and long clawlike fingernails."
 
@@ -29,15 +29,13 @@ In archaic and classical Greece
 
 Physical appearance
 
-Satyr_goat_Met_L.2008.51.jpg
-
 In archaic and classical Greek art, satyrs are shown with the ears and tails of horses. They walk upright on two legs, like human beings. They are usually shown with bestial faces, snub noses, and manelike hair. They are often bearded and balding. Like other Greek nature spirits, satyrs are always depicted nude. Sometimes they also have the legs of horses,[5] but, in ancient art, including both vase paintings and in sculptures, satyrs are most often represented with human legs and feet.
 
 Satyrs' genitals are always depicted as either erect or at least extremely large. Their erect phalli represent their association with wine and women, which were the two major aspects of their god Dionysus's domain. In some cases, satyrs are portrayed as very human-like, lacking manes or tails. As time progressed, this became the general trend, with satyrs losing aspects of their original bestial appearance over the course of Greek history and gradually becoming more and more human. In the most common depictions, satyrs are shown drinking wine, dancing, playing flutes, chasing nymphs, or consorting with Dionysus. They are also frequently shown masturbating or copulating with animals. In scenes from ceramic paintings depicting satyrs engaging in orgies, satyrs standing by and watching are often shown masturbating.
 
 Behavior
 
-Crátera_ática_de_columnas_(M.A.N._1999-99-65)_02.jpg, dating to 560–550 BC, showing a satyr masturbating. Athenian satyr plays were characterized as "a genre of 'hard-ons.'"]]
+, dating to 560–550 BC, showing a satyr masturbating. Athenian satyr plays were characterized as "a genre of 'hard-ons.'"]]
 
 One of the earliest written sources for satyrs is the _Catalogue of Women_, which is attributed to the Boeotian poet Hesiod. Here satyrs are born alongside the nymphs and Kouretes and are described as "good-for-nothing, prankster Satyrs". Satyrs were widely seen as mischief-makers who routinely played tricks on people and interfered with their personal property. They had insatiable sexual appetites and often sought to seduce or ravish both nymphs and mortal women alike, though these attempts were not always successful. Satyrs almost always appear in artwork alongside female companions of some variety. These female companions may be clothed or nude, but the satyrs always treat them as mere sexual objects. A single elderly satyr named Silenus was believed to have been the tutor of Dionysus on Mount Nysa. After Dionysus grew to maturity, Silenus became one of his most devout followers, remaining perpetually drunk.
 
@@ -45,7 +43,7 @@ This image was reflected in the classical Athenian satyr play. Satyr plays were 
 
 The only complete extant satyr play is Euripides's _Cyclops_, which is a burlesque of a scene from the eighth-century BC epic poem, the _Odyssey_, in which Odysseus is captured by the Cyclops Polyphemus in a cave. In the play, Polyphemus has captured a tribe of satyrs led by Silenus, who is described as their "Father", and forced them to work for him as his slaves. After Polyphemus captures Odysseus, Silenus attempts to play Odysseus and Polyphemus off each other for his own benefit, primarily by tricking them into giving him wine. As in the original scene, Odysseus manages to blind Polyphemus and escape. Approximately 450 lines, most of which are fragmentary, have survived of Sophocles's satyr play _Ichneutae_ (_Tracking Satyrs_). In the surviving portion of the play, the chorus of satyrs are described as "lying on the ground like hedgehogs in a bush, or like a monkey bending over to fart at someone." The character Cyllene scolds them: "All you [satyrs] do you do for the sake of fun!... Cease to expand your smooth phallus with delight. You should not make silly jokes and chatter, so that the gods will make you shed tears to make me laugh."
 
-Komos_Douris_BM_E768.jpg'' ( 500–490 BC)]]
+'' ( 500–490 BC)]]
 
 In Dionysius's fragmentary satyr play _Limos_ (_Starvation_), Silenus attempts to give the hero Heracles an enema. A number of vase paintings depict scenes from satyr plays, including the Pronomos Vase, which depicts the entire cast of a victorious satyr play, dressed in costume, wearing shaggy leggings, erect phalli, and horse tails. The genre's reputation for crude humor is alluded to in other texts as well. In Aristophanes's comedy _Thesmophoriazusae_, the tragic poet Agathon declares that a dramatist must be able to adopt the _personae_ of his characters in order to successfully portray them on stage. In lines 157–158, Euripides's unnamed relative retorts: "Well, let me know when you're writing satyr plays; I'll get behind you with my hard-on and show you how." This is the only extant reference to the genre of satyr plays from a work of ancient Greek comedy and, according to Shaw, it effectively characterizes satyr plays as "a genre of 'hard-ons.'"
 
@@ -53,7 +51,7 @@ In spite of their bawdy behavior, however, satyrs were still revered as semi-div
 
 Mythology
 
-Mirone_(da),_Atena_e_Marsia,_copia_romana_da_originale_del_450_ac.ca_02.JPG's bronze sculptural group _Athena and Marsyas_, which was originally created around 440 BC]]
+'s bronze sculptural group _Athena and Marsyas_, which was originally created around 440 BC]]
 
 According to classicist William F. Hansen, although satyrs were popular in classical art, they rarely appear in surviving mythological accounts. Different classical sources present conflicting accounts of satyrs' origins. According to a fragment from the Hesiodic _Catalogue of Women_, satyrs are sons of the five granddaughters of Phoroneus and therefore siblings of the Oreads and the Kouretes. The satyr Marsyas, however, is described by mythographers as the son of either Olympos or Oiagros. Hansen observes that "there may be more than one way to produce a satyr, as there is to produce a Cyclops or a centaur." The classical Greeks recognized that satyrs obviously could not self-reproduce since there were no female satyrs, but they seem to have been unsure whether satyrs were mortal or immortal.
 
@@ -66,7 +64,7 @@ Later antiquity
 
 Hellenistic Era
 
-Greek_-_Appliqué_with_Satyr_Walking_to_Left_-_Walters_71557_(cropped).jpg satyr wears a rustic perizoma (loincloth) and carries a pedum (shepherd's crook). Walters Art Museum, Baltimore.]] Statue_of_a_Satyr.jpg'' at Athens Archaeological Museum]]
+satyr wears a rustic perizoma (loincloth) and carries a pedum (shepherd's crook). Walters Art Museum, Baltimore.]] '' at Athens Archaeological Museum]]
 
 The iconography of satyrs was gradually conflated with that of the Pans, plural forms of the god Pan, who were regularly depicted with the legs and horns of a goat. By the Hellenistic Period (323–31 BC), satyrs were beginning to sometimes be shown with goat-like features. Meanwhile, both satyrs and Pans also continued to be shown as more human and less bestial. Scenes of satyrs and centaurs were very popular during the Hellenistic Period. They often appear dancing or playing the aulos. The maenads that often accompany satyrs in Archaic and Classical representations are often replaced in Hellenistic portrayals with wood nymphs.
 
@@ -93,7 +91,7 @@ After antiquity
 
 Middle Ages
 
-F13r-aberdeen-best.jpg, holding a wand resembling a jester's club. Medieval bestiaries conflated satyrs with western European wild men.]]
+, holding a wand resembling a jester's club. Medieval bestiaries conflated satyrs with western European wild men.]]
 
 Starting in late antiquity, Christian writers began to portray satyrs and fauns as dark, evil, and demonic. Jerome ( 347 – 420 AD) described them as symbols of Satan on account of their lasciviousness. Despite this, however, satyrs were sometimes clearly distinguished from demons and sometimes even portrayed as noble. Because Christians believed that the distinction between humans and animals was spiritual rather than physical, it was thought that even a satyr could attain salvation. Isidore of Seville ( 560 – 636) records an anecdote later recounted in the _Golden Legend_, that Anthony the Great encountered a satyr in the desert who asked to pray with him to their common God. During the Early Middle Ages, features and characteristics of satyrs and the god Pan, who resembled a satyr, became absorbed into traditional Christian iconography of Satan.
 
@@ -125,7 +123,7 @@ The late nineteenth-century German Existentialist philosopher Friedrich Nietzsch
 
 Twentieth and twenty-first centuries
 
-Febo_Mari_1917.jpg's 1917 silent film _Il Fauno_, about a statue of a faun that comes to life and falls in love with a female model]]
+'s 1917 silent film _Il Fauno_, about a statue of a faun that comes to life and falls in love with a female model]]
 
 In 1908, the French painter Henri Matisse produced his own _Nymph and Satyr_ painting in which the animal nature of the satyr is drastically minimized. The satyr is given human legs, but is exceptionally hairy. The seduction element is removed altogether; the satyr simply extends his arms towards the nymph, who lies on the ground, defeated. Penny Florence writes that the "generic scene displays little sensuality" and that the main factor distinguishing it is its tone, because "It does not seem convincing as a rape, despite the nymph's reluctance." In 1912, Vaslav Nijinsky choreographed Debussy's symphonic poem _Prelude to the Afternoon of a Faun_ as a ballet and danced in it as the lead role of the faun. The choreography of the ballet and Nijinsky's performance were both highly erotic and sexually charged, causing widespread scandal among upper-class Parisians. In the 1980 biographical film _Nijinsky_, directed by Herbert Ross, Nijinsky, who is played by George de la Peña, is portrayed as actually masturbating on stage in front of the entire live audience during the climax of the dance.
 

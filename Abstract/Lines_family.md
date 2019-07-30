@@ -1,1 +1,0 @@
-Samuel_Lines_by_William_Thomas_Roden.jpg]] The LINES FAMILY was a family in Birmingham, England, which included several notable artists,[1][2] who are considered members of the Birmingham School. These included:

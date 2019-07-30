@@ -1,1 +1,0 @@
-DAVID G. MALONEY (born 25 November 1954) is an oncologist and researcher at Fred Hutchinson Cancer Research Center and the University of Washington who specializes in developing targeted immunotherapies for the treatment of blood cancers.

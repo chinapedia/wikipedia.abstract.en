@@ -1,1 +1,0 @@
-AZHAGIYA THAMIZH MAGAL () is a 2016-2016 Singapore-Tamil soap opera, starring Vikneswary Se, Bharathi, Narain, Leena, Shamini Gunasagar, Mahalakshmi and among others. It aired on MediaCorp Vasantham every Monday to Thursday at 22:00 starting 26 September 2016 and 9 December 2016.[1][2]

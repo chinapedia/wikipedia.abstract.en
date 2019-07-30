@@ -1,1 +1,0 @@
-__NOTOC__ Alphonse_de_Poitiers_01.jpg of the town of Agen. In this illustration he takes an oath before the consuls with his right hand on the town ordinances, while sitting on a pedestal. The consul administering the oath is forced to go on his knees, symbolising Alphonse's lordship and the town's loyalty.]]

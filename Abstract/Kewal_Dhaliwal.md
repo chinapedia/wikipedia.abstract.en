@@ -1,1 +1,0 @@
-KEWAL DHALIWAL (born 7 October 1964) is a Punjabi playwright, theatre director and president of Punjab Sangeet Natak Akademi Chandigarh.[1][2]An alumnus of the National School of Drama, Dhaliwal has been active in theater for more than thirty-five years.[3]

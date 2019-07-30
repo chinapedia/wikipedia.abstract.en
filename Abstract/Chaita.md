@@ -1,1 +1,0 @@
-CHAITA is a village and a gram panchayat in Basirhat II CD Block in Basirhat subdivision of North 24 Parganas district, West Bengal, India with total 528 families residing. The Chaita village has population of 2390 of which 1215 are males while 1175 are females as per population census 2011.

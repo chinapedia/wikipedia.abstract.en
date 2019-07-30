@@ -1,1 +1,0 @@
-'''''Man with the Transplanted Brain ''''' (, ) is a 1972 French-Italian-West German science fiction-drama film written and directed by Jacques Doniol-Valcroze. It is loosely based on a novel by Alain Franck and Victor Vicas.[1]

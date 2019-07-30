@@ -1,1 +1,0 @@
-ANDRÉ WEIL (; ; 6 May 1906 – 6 August 1998) was a French mathematician,[1] known for his foundational work in number theory and algebraic geometry. He was a founding member and the _de facto_ early leader of the mathematical Bourbaki group. The philosopher Simone Weil was his sister.[2][3]

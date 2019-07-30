@@ -1,1 +1,0 @@
-The HISTORY OF THE PHILIPPINES is believed to have begun with the arrival of the first humans[1][2] using rafts or boats at least 67,000 years ago as the 2007 discovery of Callao Man suggested.[3] Negrito groups first inhabited the isles. Groups of Austronesians later migrated to the islands.

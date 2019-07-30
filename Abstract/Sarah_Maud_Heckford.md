@@ -1,1 +1,0 @@
-SARAH MAUD GOFF HECKFORD (30 June 1839 – 17 April 1903) was an Anglo-Irish philanthropist, writer, and traveller. She was co-founder of an East London hospital for women and children, and author of _A Lady Trader in the Transvaal_ (1882).

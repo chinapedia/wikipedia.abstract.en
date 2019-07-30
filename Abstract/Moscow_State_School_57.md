@@ -1,1 +1,0 @@
-MOSCOW STATE SCHOOL 57 () is a public school located in the Khamovniki District of Moscow, Russia. The school was founded in 1877 and is best known for its specialized secondary program in mathematics and its alumni.[1]

@@ -1,1 +1,0 @@
-The EUROPEAN CONFERENCE OF POSTAL AND TELECOMMUNICATIONS ADMINISTRATIONS (CEPT) was established on June 26, 1959, as a coordinating body for European state telecommunications and postal organizations. The acronym comes from the French version of its name _Conférence européenne des administrations des postes et des télécommunications_.

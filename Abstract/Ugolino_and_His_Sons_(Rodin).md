@@ -1,1 +1,0 @@
-_UGOLINO AND HIS SONS_ is a plaster sculpture by French artist Auguste Rodin, part of the sculptural group known as _The Gates of Hell_. As an independent piece, it was exhibited by its author in Brussels (1887), Edinburgh (1893), Genoa (1896), Florence (1897), Netherlands (1899) and in his own retrospective in 1900.[1]

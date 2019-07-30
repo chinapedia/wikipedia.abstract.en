@@ -1,1 +1,0 @@
-Gregorio_Allegri_Romano01.jpg

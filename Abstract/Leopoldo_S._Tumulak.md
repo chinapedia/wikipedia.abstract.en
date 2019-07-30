@@ -1,1 +1,0 @@
-LEOPOLDO SUMAYLO TUMALAK (29 September 1944 – 17 June 2017) was a Filipino Bishop of the Military Ordinariate of the Philippines[1] He served as head of Military Ordinariate of the Philippines from 2005 until his death in 2017.

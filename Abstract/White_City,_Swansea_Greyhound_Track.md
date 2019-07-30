@@ -1,1 +1,0 @@
-WHITE CITY, SWANSEA GREYHOUND TRACK was a greyhound racing track in Fforestfach, north-west of Swansea, Wales. It is not to be confused with the Fforestfach track on Ystrad Road that was built later and was called the Swansea Greyhound Stadium.

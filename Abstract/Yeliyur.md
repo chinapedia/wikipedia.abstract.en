@@ -1,1 +1,0 @@
-Chottahalli.Yeliyur.jpg

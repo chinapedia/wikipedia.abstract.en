@@ -1,1 +1,0 @@
-PETER ALTER (b. July 22, 1940 in Parchim) is emeritus professor of modern and contemporary history at the University of Duisburg-Essen, Germany, and a specialist in nationalism and the twentieth century history of the United Kingdom. He is a former research fellow and deputy director of the German Historical Institute London.[1][2]

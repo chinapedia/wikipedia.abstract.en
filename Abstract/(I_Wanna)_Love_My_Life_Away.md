@@ -1,1 +1,0 @@
-"(I WANNA) LOVE MY LIFE AWAY" is a song written and sung by Gene Pitney, which he released in 1961. The song was Pitney's first charting single, and spent 8 weeks on the _Billboard_ Hot 100 chart, peaking at No. 39,[1] while reaching No. 23 on Canada's CHUM Hit Parade.[2] In the United Kingdom, the song spent 11 weeks on the _Record Retailer_ chart, reaching No. 26.[3]

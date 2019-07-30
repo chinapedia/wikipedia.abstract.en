@@ -1,1 +1,0 @@
-_MAGIC CELLPHONE_ () is a 2016 South Korean web series that aired online from Jul 13, 2016 to Sep 14, 2016. The SBS drama is a Korean-Chinese joint venture of the production company Aura Media.[1] It aired weekly on Sohu TV.

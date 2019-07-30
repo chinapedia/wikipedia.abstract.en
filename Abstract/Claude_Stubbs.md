@@ -1,1 +1,0 @@
-ROBERT HENRY CLAUDE STUBBS (2 April 1905 – 25 May 1998) was an Australian politician who was a Labor Party member of the Legislative Council of Western Australia from 1962 to 1980, representing South-East Province. He served as a minister in the government of John Tonkin.

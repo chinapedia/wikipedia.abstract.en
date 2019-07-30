@@ -1,1 +1,0 @@
-SIAUFUNG "BOSCO" TJAN (曾学锋, January 21, 1966 – December 2, 2016)[1] was a Chinese-American psychologist and neuroscientist. He was a professor of psychology at the University of Southern California's Dornsife College of Letters, Arts & Sciences.[2]

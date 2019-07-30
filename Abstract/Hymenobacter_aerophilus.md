@@ -1,1 +1,0 @@
-_HYMENOBACTER AEROPHILUS_ is a Gram-negative, non-spore-forming, aerobic and rod-shaped bacterium from the genus of Hymenobacter which has been isolated from airborne from the Museo Correr in Venice in Italy.[1][2][3]

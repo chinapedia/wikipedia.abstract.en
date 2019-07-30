@@ -1,1 +1,0 @@
-NICHOLAS PETER BALDWIN CBE FIMechE FIET (born 17 December 1952)[1] is a British businessman, and the Chairman of the Office for Nuclear Regulation, and a former Chief Executive of Powergen (E.ON UK since July 2004)

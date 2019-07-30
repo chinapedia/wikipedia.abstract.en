@@ -1,1 +1,0 @@
-AÍDA PELÁEZ MARTÍNEZ (fl. 5 February 1895 – 1923), also known by her pseudonym EUGENIO,[1] was a Cuban writer, journalist, suffragist, and feminist activist.[2] She was one of the architects of Cuba's women's suffrage campaign of the 1910s, along with Digna Collazo and Amalia Mallén.[3] To this end, she participated in various pro-feminist organizations.[4]

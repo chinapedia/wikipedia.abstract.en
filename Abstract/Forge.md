@@ -1,1 +1,0 @@
-Smithy}} Muzeum_Bierkowice-kuznia_1726.JPG East_Meon_forge_-_geograph.org.uk_-_2633.jpg, Hampshire, England]] Lotyšské_etnografické_muzeum_v_přírodě_(17).jpg, Courland, Latvia currently located at The Ethnographic Open-Air Museum of Latvia]]

@@ -1,1 +1,0 @@
-SAFIQOLI KHAN (also spelled Safi Qoli; died 1632) was a Safavid official of Georgian origin, who served as the governor (_hakem_) of Lar in 1629-1630 (1st tenure) and in 1632 (2nd tenure) during the reign of king Safi (r. 1629–1642).

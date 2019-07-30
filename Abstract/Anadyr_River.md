@@ -1,1 +1,0 @@
-ANADYR () is a river in the far northeast Siberia which flows into Anadyr Bay of the Bering Sea and drains much of the interior of Chukotka Autonomous Okrug. Its basin corresponds to the Anadyrsky District of Chukotka.

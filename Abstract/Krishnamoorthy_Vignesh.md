@@ -1,1 +1,0 @@
-KRISHNAMOORTHY VIGNESH (born 9 September 1994) is an Indian cricketer.[1] He made his first-class debut for Tamil Nadu in the 2016–17 Ranji Trophy on 6 October 2016.[2] He made his Twenty20 debut for Tamil Nadu in the 2016–17 Inter State Twenty-20 Tournament on 29 January 2017.[3]

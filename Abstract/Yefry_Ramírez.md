@@ -1,1 +1,0 @@
-YEFRY RAMÍREZ ALCALA (born November 28, 1993) is a Dominican professional baseball pitcher for the Pittsburgh Pirates of Major League Baseball (MLB). He made his MLB debut in June 2018. Listed at and , Ramírez both throws and bats right-handed.

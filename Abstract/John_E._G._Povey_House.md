@@ -1,1 +1,0 @@
-The JOHN E. G. POVEY HOUSE in northeast Portland, Oregon, is a Queen Anne-style house that was built in 1891. The house is asymmetrical and is about wide by deep. It was home of glass-maker John E. G. Povey (1867–1917).[1]

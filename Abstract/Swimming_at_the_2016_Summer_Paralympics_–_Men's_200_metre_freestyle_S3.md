@@ -1,1 +1,0 @@
-The MEN'S 200 METRE FREESTYLE S3 event at the 2016 Paralympic Games took place on 15 September 2016, at the Olympic Aquatics Stadium. No heats were held. The swimmers with the eight fastest times advanced to the final.

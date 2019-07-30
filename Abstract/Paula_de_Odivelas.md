@@ -1,1 +1,0 @@
-Madre_Paula_de_Odivelas_representada_como_Nossa_Senhora.png MOTHER PAULA OF ODIVELAS, religious name of PAULA TERESA DA SILVA E ALMEIDA (17 June 1701 – 4 July 1768),[1] was a Portuguese nun and royal mistress.

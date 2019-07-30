@@ -1,1 +1,0 @@
-WILDENBERG CASTLE (), also called the WILDENBURG, is a ruined, Hohenstaufen period castle in the Odenwald hills in Germany. It is located in the parish of Preunschen in the municipality of Kirchzell, in the Lower Franconian district of Miltenberg in Bavaria.

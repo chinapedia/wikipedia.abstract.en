@@ -1,1 +1,0 @@
-The INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF KENYA (ICPAK) is a professional body for certified public accountants (CPAs) in Kenya. ICPAK is a full member of the International Federation of Accountants and the Pan African Federation of Accounting.[1]

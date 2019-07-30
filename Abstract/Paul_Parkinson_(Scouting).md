@@ -1,1 +1,0 @@
-PAUL PARKINSON OAM of Brisbane, Australia served as the Regional Chair of the Asia-Pacific Regional Scout Committee of the World Organization of the Scout Movement (WOSM),[1] Scouts Australia National Commissioner for Adult Training and Development, as well he is the current Principal of the Scouts Australia Institute of Training (SAIT).[2]

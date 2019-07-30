@@ -1,1 +1,0 @@
-LOIS KNOWLES (1903-1990) was the first woman to become a full professor in the College of Education at the University of Missouri. Dr. Knowles advocated for more women in higher education and co-authored an innovative textbook at the time, _Seeing Through Arithmetic_.

@@ -1,1 +1,0 @@
-SWANK SOCIAL CLUB begin as a social club for a group of students from Second Ward High School in Charlotte, North Carolina. The club has since evolved into a social oriented organization and is now Charlotte's oldest African American social club.[1]

@@ -1,1 +1,0 @@
-Mary_Barkas.jpg MARY RUSHTON BARKAS (7 September 1889 – 17 April 1959) was a psychiatrist, physician and author from New Zealand. She worked at the Bethlem Royal Hospital, where she was the first female house physician, and the Maudsley Hospital in London, United Kingdom.

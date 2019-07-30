@@ -1,1 +1,0 @@
-ELIEZER WIESEL (, _ʾĔlîʿezer Vîzel_;[1][2] September 30, 1928 – July 2, 2016) was a Romanian-born American writer, professor, political activist, Nobel Laureate, and Holocaust survivor. He authored 57 books, written mostly in French and English, including _Night_, a work based on his experiences as a Jewish prisoner in the Auschwitz and Buchenwald concentration camps.[3]

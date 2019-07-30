@@ -1,1 +1,0 @@
-The 2003 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho during the 2003 NCAA Division I-A football season. Idaho was a football-only member of the Sun Belt Conference, and played their home games in the Kibbie Dome, an indoor facility on campus in Moscow. The Vandals went under head coach and alumnus Tom Cable, in his fourth and

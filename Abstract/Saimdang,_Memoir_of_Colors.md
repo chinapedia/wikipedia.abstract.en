@@ -1,1 +1,0 @@
-_SAIMDANG, MEMOIR OF COLORS_[1] () is a South Korean drama starring Lee Young-ae in the title role as Shin Saimdang, a famous Joseon-era artist and calligrapher who lived in the early 16th century. It aired on SBS every Wednesday and Thursday at 22:00 (KST) starting January 26, 2017.[2]

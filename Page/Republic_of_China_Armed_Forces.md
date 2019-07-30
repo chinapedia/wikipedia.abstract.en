@@ -16,7 +16,7 @@ History
 
 Origin and nationalization
 
-NRA_machinegunners.jpg]] The earliest use of the name "Republic of China Armed Forces (中華民國國軍)" can be found in the first Constitution of the Republic of China in the Beiyang Government in 1923.[5]
+]] The earliest use of the name "Republic of China Armed Forces (中華民國國軍)" can be found in the first Constitution of the Republic of China in the Beiyang Government in 1923.[5]
 
 The Republic of China's army was known as the _National Revolutionary Army_, which was founded on mainland China in 1925. The National Revolutionary Army was the military arm of Kuomintang (Nationalist Party - KMT) from 1925 until 1947 in the Republic of China. It also become the regular army of the ROC during the KMT's period of party rule beginning in 1928.
 
@@ -24,31 +24,23 @@ However, with the promulgation of the second Constitution of the Republic of Chi
 
 ROC Army
 
-ROCA_CM-11_in_Hukou_Camp_after_Exercise_20111105a.jpg Army Base]]
+Army Base]]
 
 The Land force was established in 1924. It can be traced back to the establishment of the Whampoa Military Academy in Canton by 1911 revolutionary leader Sun Yat-sen and built as the National Revolutionary Army, the military arm of KMT. Whampoa Military Academy was relocated to Fengshan District, Kaohsiung City, Taiwan after 1949. It was re-established as the Republic of China Military Academy (中華民國陸軍軍官學校), and modeled after the United States Military Academy at West Point, New York.
 
 ROC Navy
 
-武夷號油彈補給艦.JPG
-
 The Navy of the Qing dynasty was first exposed to Western influence. With the establishment of the Republic of China in 1912, many former Qing-naval officer agreed with the revolutionary ideal of Xinhai and joined the ROC Navy. However, with warlordism continuing to plague the territory of the Republic of China, the development of the Republican navy was somewhat slow. Furthermore, there were internal conflicts during its development. During the 2nd Sino-Japanese war, most of the ROC Navy was destroyed by the Imperial Japanese Navy. In 1946 the Republic of China Naval Academy was established in Shanghai; it was relocated to Taiwan in 1949.
 
 ROC Marine Corps
-
-ROCMC_Forgmen_Balance_a_Inflatable_Boat_Over_Their_Heads_While_Heading_toward_the_Pier_20141123.jpg
 
 The ROC Marine Corps was formed from the former Navy Sentry Corps in December 1914, it used to have two divisions, 66th and 99th divisions, in size, when its doctrine focused on retaking mainland China. Since its transition to a defensive posture, the ROCMC has been downsized from about 38,000 active personnel to only 9,000. In 2004, the ROCMC redeployed a brigade near the Taipei area to defend against a possible PLA decapitation strike. The ROC Marine Corps' official motto is "永遠忠誠" (Forever Loyalty), modeled after the US Marine Corps's "Semper Fidelis".
 
 ROC Air Force
 
-Skyguard-Sparrow_Misslie_Launcher_in_Songshan_Air_Force_Base_Display.jpg
-
 In 1920 Sun Yat-sen established the Aviation Ministry in Canton(Guangdong Province). But due to the division of the Southern Warlords, it was later dismantled. In 1929, Chiang Kai-shek established the Aviation Class in the ROC Military Academy. It was relocated to Hangzhou in 1931. Following the outbreak of the 2nd Sino-Japanese War, the ROC Air Force was responsible for shooting down many Japanese Air force fighters. After 1949 the ROC Air Force Academy was relocated to Taiwan island.
 
 ROC Military Police
-
-ROC_Military_Police_V-150_Commando_Front_view.jpg
 
 The ROC Military Police was established in 1914 when Sun Yat-sen assumed the provisional presidency. It was established as a police guard and to maintain discipline within the army. In 1932 the nationalist government established the "Command Work of Military Police" (憲兵勤務令) and the Service Procedure for the Military Police (憲兵服務章程), which established the military police system. In 1936, the Military police Academy was founded in Nanjing. The school relocated to Taiwan after 1949.
 
@@ -59,7 +51,7 @@ In the 21st century as the PRC vastly increased its defense spending, Taiwan reg
 
 Personnel
 
-Two_Children_Photoing_with_ROCMP_Armor_Battalion_Soldiers_by_Mother_20120908.jpg MP Base]] Three_ROCN_Honor_Guards_Talking_at_Hsinchu_AFB_Parking_Lots_20120602.jpg]]
+MP Base]] ]]
 
 The ROC Armed Forces number approximately 300,000, and reserves reportedly total 3,870,000. Conscription remains universal for qualified males reaching the age of 18. Force streamlining programs under way since 1997 are combining redundant institutions and steadily reducing the military to 270,000 personnel by 2012. However, even then there would be compulsory basic training for all males reaching 18 years of age. As the size of the force decreases, the ROC intends to gradually expand the number of volunteer soldiers with the eventual goal of forming an all volunteer career force.[11]
 
@@ -72,7 +64,7 @@ Because of the historical legacy having once controlled mainland China, the army
 
 Organization
 
-(cropped)_Chief_of_the_ROCA_General_Yen_Teh-fa_Opening_Speech_in_ROCMA_Open_Day_20140531.jpg, Minister of National Defense]]
+, Minister of National Defense]]
 
 Military branches and structure
 
@@ -122,7 +114,7 @@ Reforms and development
 
 Civilian control of the military
 
-Soldiers_Taken_out_Machine_Guns_of_CM-12_Tank_20120211.jpg soldiers taking out the machine guns from a CM-12 Tank]]
+soldiers taking out the machine guns from a CM-12 Tank]]
 
 The modern day ROC military is styled after western military systems, mostly the US military. Internally, it has a political warfare branch/department that tightly controls and monitors each level of the ROC military, and reports directly to the General Headquarters of the ROC military, and if necessary, directly to the President of the ROC. This is a carryover from the pre-1949 era, when KMT and its army were penetrated by Communist agents repeatedly and led to frontline units defecting to Communist China. To strengthen their control over the military and prevent massive defection after retreating to Taiwan in 1949, CKS and CCK employed tight control over the military, by installing political officers and commissioners down to the company level, in order to ensure political correctness in the military and loyalty toward ROC leadership. This gave the political officers/commissars a great deal of power, allowing them to overrule the unit commander and take over the unit. Only in recent years has the political warfare department (due to cutbacks) reduced its power within the ROC military.
 
@@ -130,7 +122,7 @@ Two defense reform laws implemented in 2002 granted the civilian defense ministe
 
 Doctrine and exercises
 
-IDF_F-CK-1A_Single_Front_View.jpg]] ROCN_cheng_kung_class_PFG2-1105_and_PFG2-1101_20050624.jpg]] Thunderbolt_2000_MLRS_Side_View_20111105a.jpg]]
+]] ]] ]]
 
 The primary goal of the ROC Armed Forces is to provide a credible deterrent against hostile action by establishing effective counterstrike and defense capabilities. Should hostilities occur, current ROC military doctrine centers upon the principle of "offshore engagement" where the primary goal of the armed forces in any conflict with the PRC would be to keep as much of the fighting away from Taiwan proper for as long as possible to minimize damage to infrastructure and civilian casualties. The military has also begun to take the threat of a sudden "decapitation attack" by the PRC seriously. Consequently, these developments have seen a growing emphasis on the role of the Navy and Air Force (where the Army had traditionally dominated); as well as the development of rapid reaction forces and quick mobilization of local reserve forces.[34]
 
@@ -145,7 +137,7 @@ Taiwan figures itself in terms of China's long-term strategic planning. The isla
 
 Foreign cooperation
 
-ROCA_Soldiers_Climbing_Stair_Go_to_Camp_20120324.jpg Hualien-Taitung Defense Command soldiers]]
+Hualien-Taitung Defense Command soldiers]]
 
 Japan
 
@@ -170,7 +162,7 @@ Tsai Ing-wen’s request of purchasing weaponry from the US was approved by the 
 
 Military parades
 
-Humvees_National_Day_parade.jpg Military Parade]] The Republic of China held their first military parade on 10 October 2007 for National Day celebrations since 1991. Previous parades were halted in an effort to ease the tension with the PRC. The parade was aimed at easing worries that the armed forces might be unprepared for a conflict with the PRC. The parade consisted of indigenous missiles, U.S. Patriot II and Avenger anti-missiles systems, U.S.-made F-16s, French-made Mirages and Taiwan-made IDF fighters.[45][46]
+Military Parade]] The Republic of China held their first military parade on 10 October 2007 for National Day celebrations since 1991. Previous parades were halted in an effort to ease the tension with the PRC. The parade was aimed at easing worries that the armed forces might be unprepared for a conflict with the PRC. The parade consisted of indigenous missiles, U.S. Patriot II and Avenger anti-missiles systems, U.S.-made F-16s, French-made Mirages and Taiwan-made IDF fighters.[45][46]
 
 In 2015, another parade was held to mark the 70th anniversary of the defeat of Japan in 1945 in northern Hsinchu county. The parade was long at two hours and consisted of indigenous missiles, Apache helicopters and awards for World War II veterans.[47][48][49]
 
@@ -234,7 +226,7 @@ Major deployments, battles and incidents
 
 1912–1949
 
-Chinese_soldiers_1939.jpg Taierzhuang.jpg]]
+]]
 
 -   Northern Expedition: 1926–1928
 -   Central Plains War: May 1930 – 4 November 1930
@@ -258,7 +250,7 @@ Chinese_soldiers_1939.jpg Taierzhuang.jpg]]
 
 Since 1949
 
-Kinmen_guningtouarch.jpg, Kinmen County]] Aug.23_Artillery_Battle_Museum_20050707.jpg, Kinmen County]]
+, Kinmen County]] , Kinmen County]]
 
 -   Battle of Kuningtou: 25–28 October 1949
 -   Battle of Dengbu Island: 3–5 November 1949
@@ -311,7 +303,7 @@ Budget
 
 Chief of the General Staffs
 
-(Cropped)_Promotion_of_Lee_Hsi-ming_to_Admiral_李喜明晉任海軍上將_(20150130_總統主持國軍重要幹部晉任布達授階典禮).png, the incumbent Chief of the General Staff]]
+, the incumbent Chief of the General Staff]]
 
 -   Lin Chen-yi (5 February 2009 – 15 January 2013)
 -   Yen Ming (16 January 2013 – 7 August 2013)

@@ -1,1 +1,0 @@
-Self_portrait_by_Wenzel_Peter,_1813,_oil_on_canvas_-_Pinacoteca_Vaticana_-_Vatican_Museums_-_DSC01222.jpg

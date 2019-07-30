@@ -1,1 +1,0 @@
-EDWARD MITCHELL BANNISTER (November 2, 1828 – January 9, 1901) was a Black Canadian-American Tonalist painter. Like other Tonalists, his style and predominantly pastoral subject matter were drawn from his admiration for Millet and the French Barbizon School.

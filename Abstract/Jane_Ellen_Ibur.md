@@ -1,1 +1,0 @@
-JANE ELLEN IBUR (born 1950) is an American poet and arts educator living in St. Louis, Missouri, United States. She has been chosen to serve as the Poet Laureate for the City of St. Louis from April 1, 2019, until March 31, 2021.

@@ -1,1 +1,0 @@
-FRANTIC ASSEMBLY is a theatre production company. They have worked in around 30 countries[1] and are widely studied as practitioners for A-Levels in the UK.[2] They were founded on the 4th of September in 1994.

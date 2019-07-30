@@ -1,1 +1,0 @@
-Magnetron2.jpg Magnetron_section_transverse_to_axis.JPG Magnetron_MI-189W.jpg magnets _(top, bottom)_, which create a magnetic field along the axis of the tube. The microwaves are emitted from the waveguide aperture _(top)_ which in use is attached to a waveguide conducting the microwaves to the radar antenna. Modern tubes use rare earth magnets which are much less bulky. ]]

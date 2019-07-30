@@ -1,1 +1,0 @@
-The 2016 FAI CUP FINAL was the final match of the 2016 FAI Cup, the national association football cup of the Republic of Ireland. The match took place on 6 November 2016 at the Aviva Stadium in Dublin, and wascontested between Cork City and Dundalk.[1][2] The match was a repeat of the 2015 FAI Cup Final. Cork City won the game 1-0 after extra time with a late winning goal.[3][4]

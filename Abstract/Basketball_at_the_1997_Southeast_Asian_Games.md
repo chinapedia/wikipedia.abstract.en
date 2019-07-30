@@ -1,1 +1,0 @@
-BASKETBALL at the 1997 SOUTHEAST ASIAN GAMES was held from 12 to 18 October 1997 in Senayan, Central Jakarta, Indonesia. This edition featured both tournaments for men's and women's team. All matches were held in Senayan Basketball Sports Hall.

@@ -1,1 +1,0 @@
-MISSION RANJAN DAS is a Bharatiya Janata Party politician from Assam. He has been elected in Assam Legislative Assembly election in 1991, 2000, 2001 and 2006 from Karimganj North constituency.[1][2][3]

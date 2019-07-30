@@ -1,1 +1,0 @@
-ANDREW "ANDY" MINDER (c.1860 - May 5, 1943) was an American jockey. He rode the winning horse Pink Star in the 1907 Kentucky Derby for trainer William Fizer.[1] A native of Brooklyn, New York City, New York, Minder became a jockey at 16 and rode for twenty years.[2]

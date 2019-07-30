@@ -1,1 +1,0 @@
-_HIDE & SEEKERS_ is the third studio album by Australian group the Seekers. The album was released in 1964. In some countries, the album was titled _The Four & Only Seekers_. The album peaked at number 122 in the United States.[1]

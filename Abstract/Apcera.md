@@ -1,1 +1,0 @@
-APCERA is an American cloud infrastructure company that provides a container management platform[1] to deploy, orchestrate and govern containers and applications across on-premises and cloud-based infrastructure.

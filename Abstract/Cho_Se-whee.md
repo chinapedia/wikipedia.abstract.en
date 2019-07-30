@@ -1,1 +1,0 @@
-CHO SE-WHEE (, born 14 June 1991), also spelled CHO SE-HUI, is a South Korean model and beauty pageant titleholder who was crowned Miss Universe Korea for 2017.[1] Cho represented Korea at Miss Universe 2017.

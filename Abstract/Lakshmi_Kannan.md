@@ -1,1 +1,0 @@
-LAKSHMI KANNAN, also known by her Tamil pen name KAAVERI, (born 1947) is an Indian poet, novelist and short story writer. Writing in Tamil, she translates her works into English.[1][2] Her poetry has received positive reviews in the Indian press.[3]

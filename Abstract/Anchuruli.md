@@ -1,1 +1,0 @@
-ANCHURULI, also spelled ANJURULI, is an emerging tourist destination and a catchment area of Idukki arch dam in Kanchiyar village near Kattappana in the district of Idukki in Kerala state, India. It is highly noted for the long circular tunnel that carries water from Erattayar dam near Kattappana to Idukki reservoir.[1]

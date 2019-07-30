@@ -1,1 +1,0 @@
-DAUD JUNBISH is a BBC journalist.[1][2][3] He is one of the few journalists in the world who has met former Taliban chief Mullah Omar, and has interviewed him on multiple occasions.[4] He is the author of _What Is Really Happening in Afghanistan?_, _24 Hours That Turned Afghanistan Around_, and _Red Army in Afghanistan_.[5]

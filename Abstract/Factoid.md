@@ -1,1 +1,0 @@
-Mur_chiński_2010_1.JPG is often incorrectly said to be visible from the Moon with the naked eye.]] A FACTOID is either a false statement presented as a fact,[1][2] _or_ a true but brief or trivial item of news or information.

@@ -1,1 +1,0 @@
-PROSHYAN BRANDY FACTORY (), is one of the oldest producers of alcoholic drinks in Armenia, located in Yerevan, on the Ashtarak Highway leading to the village of Proshyan.[1] The factory is mainly famous for its cognac brand _Mané_.

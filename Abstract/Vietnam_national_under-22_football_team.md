@@ -1,1 +1,0 @@
-The VIETNAM NATIONAL UNDER-22 FOOTBALL TEAM () is the under-22 football team representing Vietnam at the Southeast Asian Games, AFC U-23 Championship qualifiers. It is controlled by the Vietnam Football Federation. The team established in 2016.

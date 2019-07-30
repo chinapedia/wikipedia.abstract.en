@@ -1,1 +1,0 @@
-MAGNET THEATRE is an independent physical theatre company based in Cape Town, South Africa. It was formed in 1987 by Mark Fleishman and Jennie Reznek who have since been the company's artistic directors. Besides creating original theatre productions, Magnet Theatre is actively engaged in youth development work in the Cape Town area as well as in the Cederberg Municipality.

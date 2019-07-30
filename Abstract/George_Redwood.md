@@ -1,1 +1,0 @@
-GEORGE EDWARD REDWOOD (4 June 1885 – 24 November 1956) was an English professional football left back who played in the Football League for Fulham.[1] He also played in the Southern League for West Ham United.[2]

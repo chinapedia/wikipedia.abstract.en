@@ -1,1 +1,0 @@
-SILVERBIRD CINEMA is a movie theater in Port Harcourt, Rivers State, located at former Obi Wali Cultural Centre, Abonnema Wharf Road.[1] It was opened in April 2009 and is owned and operated by Silverbird Group.

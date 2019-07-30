@@ -1,1 +1,0 @@
-The INJILARIJA people were an Indigenous Australian people south of the Gulf of Carpentaria in Queensland who lived east of the Waanyi, south of the Nguburinji and west of the Mingginda that are considered extinct.

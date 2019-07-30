@@ -1,1 +1,0 @@
-The NYAH FOOTBALL CLUB was a country Australian rules football team from the small Victorian town of Nyah. The team competed in a number of leagues before staying in the Mid-Murray Football League from 1934 onwards. In 1978, the Nyah Football Club merged with the Nyah West Football Club to form the Nyah-Nyah West United Football Club.

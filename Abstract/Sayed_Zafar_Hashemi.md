@@ -1,1 +1,0 @@
-ZAFAR HASHEMI (; born February 17, 1985) is Afghan-American who works as a political counselor at the embassy of Afghanistan in Washington, D.C. He was the deputy (and for nine months acting) spokesperson of the President of Afghanistan, Ashraf Ghani until January 2017.[1]

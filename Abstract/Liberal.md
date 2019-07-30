@@ -1,1 +1,0 @@
-LIBERAL may refer to:

@@ -1,1 +1,0 @@
-BOB CROCKER (August 3, 1928 – December 22, 2018) was an American ice hockey scout, former coach and executive. He was awarded the Lester Patrick Award, for contributions to hockey in the United States, in 2015.

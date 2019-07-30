@@ -1,1 +1,0 @@
-PRATIMA BANDOPADHYAY () (21 December 1934 – 29 July 2004) (born as Pratima Chatterjee aka Pratima Chattopadhyay) was a Bengali playback singer from Kolkata, who sang numerous songs in popular Bengali language movies and non-film as well, particularly during the 1950s, 60s and 70s.[1] She was also known as Pratima Banerjee.

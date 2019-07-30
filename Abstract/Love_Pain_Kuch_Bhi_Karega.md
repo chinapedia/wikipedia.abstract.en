@@ -1,1 +1,0 @@
-_LOVE PAIN KUCH BHI KAREGA_ is a 2016 Indian Odia-language drama film directed by Ashok Pati and produced by Tarang Cine Productions.[1] It stars Supriya Nayak and Babushan in lead roles while Usasi Mishra and Mihir Das play supporting roles.[2]

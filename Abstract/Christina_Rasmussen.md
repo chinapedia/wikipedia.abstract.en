@@ -1,1 +1,0 @@
-CHRISTINA RASMUSSEN is a Greek–American crisis intervention counselor and author. She is best known for writing Second Firsts, a 2013 book introducing a new model of grief based on the science of neuroplasticity, as well as creating a grief counseling organization of the same name.

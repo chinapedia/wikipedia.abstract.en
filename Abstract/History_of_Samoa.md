@@ -1,1 +1,0 @@
-Samoa_Cram_Map_1896.jpg The Samoan Islands were first settled some 3,500 years ago as part of the Austronesian expansion. Samoa's early and more current history is strongly connected with the histories of Tonga and Fiji, which are in the same region, and with whom it shares historical, genealogical, and cultural traditions.

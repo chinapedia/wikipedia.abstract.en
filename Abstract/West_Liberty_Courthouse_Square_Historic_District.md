@@ -1,1 +1,0 @@
-WEST LIBERTY COURTHOUSE SQUARE HISTORIC DISTRICT is a national historic district located at Liberty, Clay County, Missouri. It encompasses three contributing buildings in the central business district of Liberty. The adjoining buildings were built between 1877 and 1885, and are representative examples of Italianate style commercial architecture.[1]

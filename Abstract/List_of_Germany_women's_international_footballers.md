@@ -1,1 +1,0 @@
-The Germany women's national football team represents the nation of Germany in international women's association football. Players are listed since the first match in 1982. The list is up to date as of match against the Netherlands on 25 October 2016.[1]

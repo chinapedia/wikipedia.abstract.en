@@ -1,1 +1,0 @@
-_SENIOR SECRET LOVE_ _()_ is a Thai television series produced by GMM Grammy and GMMTV. It was broadcast every Sunday from 3:00 PM until 4:00 PM (Thailand time), starting on February 7, 2016 on One Channel.

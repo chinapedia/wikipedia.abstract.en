@@ -1,1 +1,0 @@
-_SYRIA_, subtitled _Archéologie, art et histoire_ (until 2005 _Revue d’art oriental et d’archéologie_), is a multidisciplinary and multilingual academic journal covering the Semitic Middle East from prehistory to the Islamic conquest. It is published by the Institut français du Proche-Orient and was established in 1920.

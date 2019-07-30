@@ -5,7 +5,7 @@ He is first called THE SEER in 1 Samuel 9:9.
 
 Biblical account
 
-Gerbrand_van_den_Eeckhout_-_Anna_toont_haar_zoon_Samuël_aan_de_priester_Eli.jpg - Hannah presenting her son Samuel to the priest Eli ca.1665]]
+- Hannah presenting her son Samuel to the priest Eli ca.1665]]
 
 Family
 
@@ -37,7 +37,7 @@ This event established that Samuel was now "established as a prophet of the Lord
 
 Leader
 
-Vitral_com_representação_de_Samuel_e_a_batalha_entre_Israelitas_e_Filisteus_(1728),_Palácio_da_Pena_(cropped).png as the Israelites slaughter the Philistines in the background, as depicted in an 18th-century stained-glass window (Pena Palace, Portugal)]] During Samuel's youth at Shiloh, the Philistines inflicted a decisive defeat against the Israelites at Eben-Ezer, placed the land under Philistine control, and took the sanctuary's Ark for themselves. Upon hearing the news of the capture of the Ark of the Covenant, and the death of his sons, Eli collapsed and died. When the Philistines had been in possession of the Ark for seven months and had been visited with calamities and misfortunes, they decided to return the Ark to the Israelites.[19]
+as the Israelites slaughter the Philistines in the background, as depicted in an 18th-century stained-glass window (Pena Palace, Portugal)]] During Samuel's youth at Shiloh, the Philistines inflicted a decisive defeat against the Israelites at Eben-Ezer, placed the land under Philistine control, and took the sanctuary's Ark for themselves. Upon hearing the news of the capture of the Ark of the Covenant, and the death of his sons, Eli collapsed and died. When the Philistines had been in possession of the Ark for seven months and had been visited with calamities and misfortunes, they decided to return the Ark to the Israelites.[19]
 
 According to Bruce C. Birch, Samuel was a key figure in keeping the Israelites' religious heritage and identity alive during Israel's defeat and occupation by the Philistines. "[I]t may have been possible and necessary for Samuel to exercise authority in roles that would normally not converge in a single individual (priest, prophet, judge)."[20]
 
@@ -57,7 +57,7 @@ Samuel directed Saul to "utterly destroy" the Amalekites in fulfilment of the co
 
     _When the Lord your God has given you rest from your enemies all around, in the land which the Lord your God is giving you to possess as an inheritance, ... you will blot out the remembrance of Amalek from under heaven_.
 
-During the campaign against the Amalekites, King Saul spared Agag, the king of the Amalekites, and the best of their livestock. Saul told Samuel that he had spared the choicest of the Amalekites' sheep and oxen, intending to sacrifice the livestock to the Lord. This was in violation of the Lord's command, as pronounced by Samuel, to "... utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass" (1 Samuel 15:3, KJV). Samuel confronted Saul for his disobedience and told him that God made him king, and God can unmake him king. Samuel then proceeded to execute Agag. Saul never saw Samuel alive again after this.[27] Louvre_rosa_apparition.jpg, by Salvator Rosa, 1668.]]
+During the campaign against the Amalekites, King Saul spared Agag, the king of the Amalekites, and the best of their livestock. Saul told Samuel that he had spared the choicest of the Amalekites' sheep and oxen, intending to sacrifice the livestock to the Lord. This was in violation of the Lord's command, as pronounced by Samuel, to "... utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass" (1 Samuel 15:3, KJV). Samuel confronted Saul for his disobedience and told him that God made him king, and God can unmake him king. Samuel then proceeded to execute Agag. Saul never saw Samuel alive again after this.[27] , by Salvator Rosa, 1668.]]
 
 Samuel then proceeded to Bethelehem and secretly anointed David as king. He would later provide sanctuary for David, when the jealous Saul first tried to have him killed.
 
@@ -90,7 +90,7 @@ According to the documentary hypothesis of Biblical source criticism, which post
 
 Perspectives on Samuel
 
-Samuel_Nabi.JPG.]]
+.]]
 
 Judaism
 
@@ -108,7 +108,7 @@ Herbert Lockyer and others have seen in Samuel's combined offices of prophet, pr
 
 Islam
 
-The_Tomb_Of_Propet_Samuel.JPG.]]
+.]]
 
 Samuel is seen as a _nabi_ ()[45] and seer in the Islamic faith. The narrative of Samuel in Muslims' literature focuses specifically on his birth and the anointing of Talut. Other elements from his narrative are in accordance with the narratives of other Prophets of Israel, as exegesis recounts Samuel's preaching against idolatry. Although he is mentioned in the Qur’an, his name is not given, but he is instead referred to as "a Prophet."[46] According to Islamic history, the Israelites, after the time of the prophet Moses, wanted a king to rule over their country. Thus, God sent the prophet Samuel to anoint Saul as the first king for the Israelites. The Qur'an states:
 

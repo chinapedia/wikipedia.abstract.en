@@ -1,1 +1,0 @@
-ROBERT W. LICHTWARDT (November 27, 1924 – February 9, 2018) was a Brazilian-born American mycologist specializing in the study of arthropod-associated, gut-dwelling fungi (trichomycetes). He is known for his online monograph and interactive keys to trichomycete taxa.[1][2][3]

@@ -1,1 +1,0 @@
-CONSTANTINE PAPASTEPHANOU (Greek: Κωνσταντίνος Παπαστεφάνου, born 1924, in Damascus, Syria - died 17 April 2016, in Athens, Greece) was an Eastern Orthodox hierarch and long serving (1969-2014) Metropolitan of Baghdad and Kuwait, under the jurisdiction of the Eastern Orthodox Patriarchate of Antioch and All the East.[1]

@@ -1,1 +1,0 @@
-CONDUENT INC. is a technology-led business process services company headquartered in New Jersey. It was formed in 2017 as a divestiture from Xerox.[1] The company offers digital platforms for businesses and governments.[2][3][4] It has 85,000 employees in more than 40 countries.[5]

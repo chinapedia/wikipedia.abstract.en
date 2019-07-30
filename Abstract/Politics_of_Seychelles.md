@@ -1,1 +1,0 @@
-POLITICS OF SEYCHELLES takes place in a framework of a presidential republic, whereby the President of Seychelles is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the National Assembly.

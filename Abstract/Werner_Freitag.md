@@ -1,1 +1,0 @@
-WERNER FREITAG (born 4 January 1946) is a retired German butterfly swimmer who won the national 200 m title in 1963 and 1965.[1] He competed in the 200 m event at the 1964 Summer Olympics and in the 100 m event the 1968 Summer Olympics, but failed to reach the finals. His daughter Meike also became an Olympic swimmer.[2]

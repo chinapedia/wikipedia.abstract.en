@@ -1,1 +1,0 @@
-2016_World_Rugby_Americas_Pacific_Challenge_-_Uruguay_vs_United_States_07.jpg

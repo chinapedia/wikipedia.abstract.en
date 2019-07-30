@@ -1,1 +1,0 @@
-The BULGARIA WOMEN'S NATIONAL CRICKET TEAM represents the country of Bulgaria in international Women's cricket. The team is organised by the Bulgaria Cricket Federation, which became an affiliate member of the International Cricket Council (ICC) in 2008.[1]

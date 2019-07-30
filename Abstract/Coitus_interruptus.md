@@ -1,1 +1,0 @@
-_COITUS INTERRUPTUS_, also known as the REJECTED SEXUAL INTERCOURSE, WITHDRAWAL or the PULL-OUT METHOD, is a method of birth control in which a man, during sexual intercourse, withdraws his penis from a woman's vagina prior to orgasm (and ejaculation) and then directs his ejaculate (semen) away from the vagina in an effort to avoid insemination.

@@ -1,1 +1,0 @@
-_MUSIC FOR HI-FI BUGS_ (also released as _MUSIC FROM OUT OF SPACE_) is an album by composer, arranger and conductor Pete Rugolo featuring performances recorded in 1956 and originally released on the EmArcy label as a 12-inch LP.[1][2][3][4] Tracks from this album were later released in stereo on _Music from Out of Space_ and _Rugolo Meets Rhythm_.

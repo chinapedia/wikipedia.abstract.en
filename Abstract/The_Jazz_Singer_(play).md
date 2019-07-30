@@ -1,1 +1,0 @@
-_THE JAZZ SINGER_ is a play written by Samson Raphaelson, based on his short story "The Day of Atonement". Producers Albert Lewis and Max Gordon staged it on Broadway, where it debuted at the Fulton Theatre in 1925. A highly influential movie adaptation was released in 1927.

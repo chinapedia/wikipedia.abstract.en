@@ -1,1 +1,0 @@
-The CAMP VAN DORN SLAUGHTER was an alleged massacre of black soldiers occurring Camp Van Dorn, a U.S. Army installation near Centreville, Mississippi in June 1943.[1] The alleged victims were members of the 364th Infantry Regiment.[2]

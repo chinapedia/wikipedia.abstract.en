@@ -1,1 +1,0 @@
-RISE, INC. is an American non-governmental civil rights organization working with multiple state legislatures and the U.S. Congress to implement a sexual assault survivors' bill of rights. Its founder and president is Amanda Nguyen.[1]

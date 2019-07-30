@@ -1,1 +1,0 @@
-KRIS BARMAN, known professionally as WUKI, is an American musician, record producer, and DJ. He was a member of the electronic rock band Innerpartysystem from 2007-2011 where he sang back up vocals, played the guitar and synthesizer, and helped with programming.

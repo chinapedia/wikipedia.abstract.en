@@ -1,1 +1,0 @@
-MUSTAFA I (; ‎;24 June 1591 – 20 January 1639), called MUSTAFA THE SAINT (Veli Mustafa) during his second reign and often called MUSTAFA THE MAD (Deli Mustafa) by modern historians, was the son of Mehmed III and was the Sultan of the Ottoman Empire from 1617 to 1618 and from 1622 to 1623.

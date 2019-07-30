@@ -1,1 +1,0 @@
-Logemann_Family_in_charity_gala.png

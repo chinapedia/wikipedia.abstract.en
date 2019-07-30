@@ -1,1 +1,0 @@
-Multiple hypotheses explain the possible connections between SLEEP AND LEARNING in humans. Research indicates that sleep does more than allow the brain to rest. It may also aid the consolidation of long-term memories.

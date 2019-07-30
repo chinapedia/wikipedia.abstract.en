@@ -1,1 +1,0 @@
-_IN A LOTUS GARDEN_ is a 1931 British musical film directed by Fred Paul and starring Roy Galloway, Jocelyn Yeo and H. Agar Lyons. It was made at Isleworth Studios as a quota quickie.[1] The film's sets were designed by Norman G. Arnold.

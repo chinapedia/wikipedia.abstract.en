@@ -1,1 +1,0 @@
-_WHO'S YOUR DADDY?_ is a simulation video game created by Joe Williams.[1] The game funded $1,500 through the crowdfunding platform Kickstarter and received support on Steam Greenlight. An early access version of the game was made available in late December 2015.[2]

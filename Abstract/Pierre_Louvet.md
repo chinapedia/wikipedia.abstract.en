@@ -1,1 +1,0 @@
-PIERRE LOUVET (3 February 1617 – 1684, ?) was a 17th-century French historian, archivist and historiographer. He was one of the few seventeenth historians who worked as an archivist and the only one to specialize in local history.[1]

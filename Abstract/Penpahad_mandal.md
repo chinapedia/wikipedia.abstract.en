@@ -1,1 +1,0 @@
-PENPAHAD MANDAL is one of the 23 mandals in Suryapet district of the Indian state of Telangana.[1] It is under the administration of Suryapet revenue division with its headquarters at Penpahad. It is bounded by Suryapet mandal towards North, Chivvemla mandal towards North, Neredcherla mandal towards South, Munagala mandal towards East.

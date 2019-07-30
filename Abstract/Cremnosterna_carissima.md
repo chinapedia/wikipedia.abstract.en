@@ -1,1 +1,0 @@
-_CREMNOSTERNA CARISSIMA_ is a species of beetle in the family Cerambycidae. It was described by Francis Polkinghorne Pascoe in 1857. It is known from India, Myanmar, Cambodia, Laos, Thailand, Vietnam and Nepal.[1]

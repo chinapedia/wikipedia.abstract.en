@@ -1,1 +1,0 @@
-LithuaniaPhysicalMap-Detailed.png

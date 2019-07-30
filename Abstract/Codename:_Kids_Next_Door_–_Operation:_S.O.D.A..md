@@ -1,1 +1,0 @@
-_CODENAME: KIDS NEXT DOOR – OPERATION: S.O.D.A._ is a platformer video game based on the American animated television series _Codename: Kids Next Door_. The game was released exclusively for the Game Boy Advance in 2004.

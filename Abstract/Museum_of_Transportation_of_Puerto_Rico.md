@@ -1,1 +1,0 @@
-The MUSEUM OF TRANSPORTATION (MOT) OF PUERTO RICO is a museum located in the town of Guaynabo, Puerto Rico which documents the history of transportation in Puerto Rico, from the canoes used by the natives, to the actual subway system located in the metro area known as the "Tren Urbano" (Urban Train).

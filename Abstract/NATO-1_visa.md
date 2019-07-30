@@ -1,1 +1,0 @@
-__notoc__ The NATO-1 VISA is a non-immigrant visa which allows representatives from NATO member states, their official staff, and their immediate family members to travel to United States.[1] Recipients are normally exempt from inspection, and the visa is valid for the duration of the individual's stay in the US.[2]

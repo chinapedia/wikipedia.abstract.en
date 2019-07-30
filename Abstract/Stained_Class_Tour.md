@@ -1,1 +1,0 @@
-The _STAINED CLASS TOUR_ was a 1978 concert tour by British heavy metal band Judas Priest where they toured in Europe, North America and Asia for the first time from 19 January to 5 August 1978 in support of the album _Stained Class_.

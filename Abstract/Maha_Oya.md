@@ -1,1 +1,0 @@
-The MAHA OYA is a major stream in the Sabaragamuwa Province of Sri Lanka. It measures approximately in length.[1] It runs across four provinces and five districts. Maha Oya has 14 Water supply networks to serve the need of water and more than 1 million people live by the river.[2]

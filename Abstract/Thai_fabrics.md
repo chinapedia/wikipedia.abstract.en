@@ -1,1 +1,0 @@
-THAI FABRICS are Thai handicraft products that are indicative of the flourish of the Thai national culture and creativity of the nation in making products and clothes for daily use. Thai Fabric is hand-woven fabric produced in Thailand. It is a cultural heritage and unique culture to the Thai culture and now has been famous throughout the world.

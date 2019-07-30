@@ -1,1 +1,0 @@
-GERALD F. APA (born August 18, 1940) is an American former politician. He served in the South Dakota House of Representatives from 1997 to 2000, in the South Dakota State Senate from 2001 to 2008, and as mayor of Lead, South Dakota from 2014-2016.[1][2]

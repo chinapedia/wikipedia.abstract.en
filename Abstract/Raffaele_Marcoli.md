@@ -1,1 +1,0 @@
-RAFFAELE MARCOLI (27 March 1940 in Turbigo, Italy– 29 August 1966 in Feriolo, Italy) was an Italian professional road bicycle racer. He won 4 stages at the Giro d'Italia in 1963, 1964, 1965 and 1966. He also won the semi-classic race Coppa Bernocchi and Tirreno-Adriatico. He died with his girlfriend in a traffic collision accident on August 29, 1966, aged 26.[1]

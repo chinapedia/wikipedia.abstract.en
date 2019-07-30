@@ -1,1 +1,0 @@
-'''Jay Lamoureux ''' (born 13 August 1995) is a Canadian male road and track cyclist, representing Canada at international competitions. He won the silver medal at the 2016 Pan American Track Cycling Championships in the individual pursuit and the team pursuit.[1]

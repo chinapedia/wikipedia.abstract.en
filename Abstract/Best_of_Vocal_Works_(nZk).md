@@ -1,1 +1,0 @@
-_BEST OF VOCAL WORKS [NZK]_ is the first best album by Hiroyuki Sawano, released on February 4, 2015 on DefSTAR Records.[1] It contains some of his vocal works from Guilty Crown, Attack on Titan, Blue Exorcist, KILL la KILL, Sengoku Basara and Aldnoah.Zero.[2]

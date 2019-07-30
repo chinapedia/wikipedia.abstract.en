@@ -1,1 +1,0 @@
-CHRISTINE KADDOUS is Professor of European Union law at the University of Geneva, Jean Monnet Chair ad personam and Director of the Centre d'études juridiques européennes(CEJE) – Centre d'excellence Jean Monnet of Geneva University.[1] She is also Visiting Professor at the College of Europe (since 2015).[2]

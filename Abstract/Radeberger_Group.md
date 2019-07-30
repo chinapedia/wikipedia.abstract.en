@@ -1,1 +1,0 @@
-RADEBERGER GROUP is the largest brewery group in Germany. It is headquartered in Frankfurt am Main and produces beer and non-alcoholic beverages at 16 different locations. With an approximate annual production volume of 13 million hectolitres, the group accounts for approximately 15% of German beer production.

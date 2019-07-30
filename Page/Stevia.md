@@ -1,4 +1,4 @@
-Steviol_structure.svg, the basic building block of stevia's sweet glycosides ]]
+, the basic building block of stevia's sweet glycosides ]]
 
 STEVIA ()[1][2] is a sweetener and sugar substitute derived from the leaves of the plant species _Stevia rebaudiana_, native to Brazil and Paraguay. The active compounds are steviol glycosides (mainly stevioside and rebaudioside), which have 30 to 150 times the sweetness of sugar,[3] are heat-stable, pH-stable, and not fermentable.[4] The body does not metabolize the glycosides in stevia, so it contains zero calories like some artificial sweeteners. Stevia's taste has a slower onset and longer duration than that of sugar, and some of its extracts may have a bitter or licorice-like aftertaste at high concentrations.
 
@@ -9,7 +9,7 @@ History
 
 Discovery
 
-Stevia_plant.jpg The plant _Stevia rebaudiana_ has been used for more than 1,500 years by the Guaraní peoples of South America, who called it _ka'a he'ê_ ("sweet herb").[8] The leaves have been used traditionally for hundreds of years in both Brazil and Paraguay to sweeten local teas and medicines, and as a "sweet treat".[9] The genus was named for Spanish botanist and physician Petrus Jacobus Stevus (Pedro Jaime Esteve 1500–1556), a professor of botany at the University of Valencia.[10]
+The plant _Stevia rebaudiana_ has been used for more than 1,500 years by the Guaraní peoples of South America, who called it _ka'a he'ê_ ("sweet herb").[8] The leaves have been used traditionally for hundreds of years in both Brazil and Paraguay to sweeten local teas and medicines, and as a "sweet treat".[9] The genus was named for Spanish botanist and physician Petrus Jacobus Stevus (Pedro Jaime Esteve 1500–1556), a professor of botany at the University of Valencia.[10]
 
 In 1899, Swiss botanist Moisés Santiago Bertoni, while conducting research in eastern Paraguay, first described the plant and the sweet taste in detail.[11] Only limited research was conducted on the topic until, in 1931, two French chemists isolated the glycosides that give stevia its sweet taste.[12]
 
@@ -86,8 +86,6 @@ The plant may be grown legally in most countries, although some countries restri
 -   Norway:
     -   Steviol glycoside approved as food additive (E 960) since June 2012.[69]
     -   The plant itself has not been approved as of September 2012.
-
-SteviaPY.jpg
 
 -   Paraguay: available as of 2008, regulatory status uncertain.[70]
 -   Peru: available as of 2008, regulatory status uncertain.[71]

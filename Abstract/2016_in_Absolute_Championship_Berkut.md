@@ -1,1 +1,0 @@
-The year 2016 was the 4th year in the history of the Absolute Championship Berkut, a mixed martial arts promotion based in Russia. 2016 started with Absolute Championship Berkut 29 . It started broadcasting through a television agreement with Match TV.

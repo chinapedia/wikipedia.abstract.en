@@ -1,1 +1,0 @@
-The 1876 WELLINGTON CITY MAYORAL ELECTION was part of the New Zealand local elections held that same year. William Hutchison, the incumbent Mayor sought re-election and retained office unopposed with no other candidates emerging.[1]

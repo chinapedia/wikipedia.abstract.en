@@ -1,1 +1,0 @@
-In Washington, D.C., it was the largest protest since the anti-Vietnam War protests in the 1960s and 1970s. Estimated 3,300,000–5,600,000 in the United States[1][2] Estimated up to 5 million worldwide[3][4] | casualties1 = | casualties2 = | casualties3 = | injuries = | fatalities = | arrests = | detentions = | charged = | fined = | notes = Official websites:

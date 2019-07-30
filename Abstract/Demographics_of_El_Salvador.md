@@ -1,1 +1,0 @@
-FMSC_-_El_Salvador_(35158013945).jpg This article is about the demographic features of the population of El Salvador, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.

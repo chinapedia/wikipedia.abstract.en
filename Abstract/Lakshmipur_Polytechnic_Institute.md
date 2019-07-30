@@ -1,1 +1,0 @@
-The LAKSHMIPUR POLYTECHNIC INSTITUTE in Lakshmipur, Bangladesh,[1] was established in 2006. It is located near Lakshmipur Stadium baishmara. It is under BTEB (Bangladesh Technical Education Board).[2] It contains about 5,000 students, 66% of whom are male and 44% female.

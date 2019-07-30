@@ -1,1 +1,0 @@
-CHEO HODARI COKER (born December 12, 1972) is an American former music journalist turned television writer and producer known for such television series as _Luke Cage_, _NCIS: Los Angeles_, _Southland_ and _Ray Donovan_. Coker also wrote the screenplay for the 2009 biographical film _Notorious_, based on the life and death of The Notorious B.I.G.[1][2][3][4][5][6]

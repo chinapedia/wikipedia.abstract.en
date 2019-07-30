@@ -1,1 +1,0 @@
-Osaka07_D7M_Stephan_Steding_Javelin.jpg during the 2007 IAAF World Championships in Osaka, Japan.]] The JAVELIN THROW is a track and field event where the javelin, a spear about in length, is thrown. The javelin thrower gains momentum by running within a predetermined area. Javelin throwing is an event of both the men's decathlon and the women's heptathlon.

@@ -1,1 +1,0 @@
-EVE ARDEN (born EUNICE MARY QUEDENS, April 30, 1908 – November 12, 1990) was an American film, radio, stage, and television actress, and comedienne. She performed in leading and supporting roles for nearly six decades.

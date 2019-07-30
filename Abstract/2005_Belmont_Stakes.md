@@ -1,1 +1,0 @@
-The 2005 BELMONT STAKES was the 137th running of the Belmont Stakes. The race, known as the "test of the champion" and sometimes called the "final jewel" in thoroughbred horse racing's Triple Crown series. It was held on June 11, 2005, three weeks after the Preakness Stakes and five weeks after the Kentucky Derby.

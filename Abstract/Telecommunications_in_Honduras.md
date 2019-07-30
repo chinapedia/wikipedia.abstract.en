@@ -1,1 +1,0 @@
-TELECOMMUNICATION IN HONDURAS started in 1876 when the first telegraph was introduced, continued development with the telephone in 1891, radio in 1928, television in 1959, the Internet in the early 1990s, and cellphones in 1996.

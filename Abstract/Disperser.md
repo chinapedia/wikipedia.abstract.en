@@ -1,1 +1,0 @@
-A DISPERSER is a one-sided extractor.[1] Where an extractor requires that every event gets the same probability under the uniform distribution and the extracted distribution, only the latter is required for a disperser. So for a disperser, an event A ⊆ {0, 1}^(m) we have: Pr_(U_(m))[A] > 1 − ϵ

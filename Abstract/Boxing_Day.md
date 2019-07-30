@@ -1,1 +1,0 @@
-BOXING DAY is a secular holiday celebrated the day after Christmas Day. It originated in the United Kingdom and is celebrated in a number of countries that previously formed part of the British Empire. Boxing Day is on 26 December, although the attached bank holiday or public holiday may take place either on that day or two days later.

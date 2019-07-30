@@ -1,1 +1,0 @@
-In baseball, a SACRIFICE FLY (sometimes abbreviated to SAC FLY) is defined by Rule 9.08(d) [1]: "Score a sacrifice fly when, before two are out, the batter hits a ball in flight handled by an outfielder or an infielder running in the outfield in fair or foul territory that

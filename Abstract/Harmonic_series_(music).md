@@ -1,1 +1,0 @@
-Harmonic_partials_on_strings.svg

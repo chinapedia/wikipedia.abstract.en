@@ -1,1 +1,0 @@
-AL MANAR CENTRAL COLLEGE () is a public school located in Maruthamunai, Eastern Province, Sri Lanka. It was founded in 1911 and is one of the oldest schools in Maruthamunai. The school provides both Primary and Secondary education.

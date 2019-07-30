@@ -1,1 +1,0 @@
-ANTONY WU TING-YUK, GBS, JP, (born 1954)[1]() is a standing committee member of the Chinese People's Political Consultative Conference (CPPCC) National Committee of the People's Republic of China. He was appointed on 11 March 2013.

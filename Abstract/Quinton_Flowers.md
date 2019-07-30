@@ -1,1 +1,0 @@
-QUINTON LENARD FLOWERS (born December 2, 1994) is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He played college football at South Florida as a quarterback.

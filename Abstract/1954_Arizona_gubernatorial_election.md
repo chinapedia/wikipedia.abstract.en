@@ -1,1 +1,0 @@
-The 1954 ARIZONA GUBERNATORIAL ELECTION took place on November 2, 1954. Incumbent Governor John Howard Pyle, the first Republican elected to the office in two decades, ran for reelection for a third term.

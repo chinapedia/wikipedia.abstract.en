@@ -1,1 +1,0 @@
-Mercedes_Comaposada.jpg MERCEDES COMAPOSADA GUILLÉN (also MERCEDES GUILLÉN; Barcelona, 14 August 1901 - Paris, 11 February 1994) was a Spanish pedagogue, lawyer, and anarcho-feminist. With Lucía Sánchez Saornil and Amparo Poch y Gascón, she was the cofounder of the libertarian women's organization, _Mujeres Libres_. She participated in the Spanish Revolution of 1936.[1]

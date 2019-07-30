@@ -1,1 +1,0 @@
-In complex analysis, the RIEMANN MAPPING THEOREM states that if _U_ is a non-empty simply connected open subset of the complex number plane C which is not all of C, then there exists a biholomorphic mapping _f_ (i.e. a bijective holomorphic mapping whose inverse is also holomorphic) from _U_ onto the open unit disk

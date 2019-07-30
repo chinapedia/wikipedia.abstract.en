@@ -1,1 +1,0 @@
-BERNOULLI'S TRIANGLE is an array of partial sums of the binomial coefficients. For any non-negative integer _n_ and for any integer _k_ included between 0 and _n_, the component in row _n_ and column _k_ is given by:

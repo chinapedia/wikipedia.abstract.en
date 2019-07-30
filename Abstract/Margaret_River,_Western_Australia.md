@@ -1,1 +1,0 @@
-MARGARET RIVER is a town in the South West of Western Australia, located in the valley of the eponymous Margaret River, south of Perth, the state capital. Its Local Government Area is the Shire of Augusta-Margaret River.

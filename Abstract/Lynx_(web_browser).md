@@ -1,1 +1,0 @@
-LYNX is a customizable text-based web browser for use on cursor-addressable character cell terminals. , it is the oldest web browser still in general use and active development, having started in 1992.

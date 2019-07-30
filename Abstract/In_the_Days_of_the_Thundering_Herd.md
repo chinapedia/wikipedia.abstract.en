@@ -1,1 +1,0 @@
-_IN THE DAYS OF THE THUNDERING HERD_ is a 1914 silent film western directed jointly by Colin Campbell and Francis J. Grandon. It was produced by the Selig Polyscope Company and distributed by General Film Company. This film stars Tom Mix and is representative of some of his rare surviving early features.[1][2]

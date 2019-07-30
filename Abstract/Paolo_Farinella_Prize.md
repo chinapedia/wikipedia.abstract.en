@@ -1,1 +1,0 @@
-The PAOLO FARINELLA PRIZE is named after Paolo Farinella. The prize recognizes significant contributions in the fields of planetary sciences, space geodesy, fundamental physics, science popularization, security in space, weapons control, and disarmament.[1] Recipients must be under the age of 47 (the age at which Farinella died) to qualify for the prize.

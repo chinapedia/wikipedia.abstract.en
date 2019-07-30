@@ -1,1 +1,0 @@
-The 2013 ASIAN WOMEN'S HOCKEY CHAMPIONS TROPHY is the 3rd edition of the Asian Hockey Champions Trophy for women. The tournament was held in Kakamigahara, Japan. The four Asian teams (China, India, Japan and Malaysia) will participate in the tournament which involved round-robin league among all teams followed by play-offs for final positions.

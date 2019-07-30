@@ -1,1 +1,0 @@
-REID PARK is a historic African-American neighborhood on the West side of Charlotte, North Carolina. It is one of the oldest African American neighborhoods the city. located alone West Boulevard, it lies east of Wingate Park, south of Westerly Hills and west of Revolution Park.[1]

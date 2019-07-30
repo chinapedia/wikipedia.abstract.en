@@ -1,1 +1,0 @@
-JOACHIM I NESTOR (21 February 1484 – 11 July 1535) was a Prince-elector of the Margraviate of Brandenburg (1499–1535), the fifth member of the House of Hohenzollern. His nickname was taken from King Nestor of Greek mythology.

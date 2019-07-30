@@ -1,1 +1,0 @@
-FRANK MILLER "FRANKIE" ERVIN (March 27, 1926 – February 1, 2009)[1] was an American R&B singer who recorded both solo and with vocal groups including Johnny Moore's Three Blazers ("Dragnet Blues", 1953) and The Shields ("You Cheated", 1958).

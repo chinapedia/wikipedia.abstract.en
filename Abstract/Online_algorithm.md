@@ -1,1 +1,0 @@
-In computer science, an ONLINE ALGORITHM[1] is one that can process its input piece-by-piece in a serial fashion, i.e., in the order that the input is fed to the algorithm, without having the entire input available from the start.

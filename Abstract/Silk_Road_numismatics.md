@@ -1,1 +1,0 @@
-SILK ROAD NUMISMATICS is a special field within Silk Road studies and within numismatics. It is particularly important because it covers a part of the world where history is not always clear – either because the historical record is incomplete or is contested. For example numismatics has played a central role in determining the chronology of the Kushan kings.

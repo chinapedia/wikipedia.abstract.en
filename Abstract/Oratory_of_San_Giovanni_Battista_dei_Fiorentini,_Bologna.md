@@ -1,1 +1,0 @@
-The ORATORY OF THE SAN GIOVANNI BATTISTA DEI FIORENTINI is a former confraternity meeting hall in central Bologna, found on Corte Galluzzi #6, and is part of the complex of the church of Santa Maria Rotonda dei Galluzzi and near San Petronio.

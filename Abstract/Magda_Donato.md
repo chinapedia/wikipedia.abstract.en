@@ -1,1 +1,0 @@
-CARMEN EVA NELKEN MANSBERGER (6 February 1898 – 3 November 1966), known by the pseudonym MAGDA DONATO, was a Spanish writer, journalist, playwright, and actress who went into exile in Mexico after the Spanish Civil War. She was the sister of writer and politician Margarita Nelken.

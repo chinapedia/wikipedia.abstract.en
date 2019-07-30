@@ -1,1 +1,0 @@
-_KAIKAIFILU_ is a genus of tylosaurine mosasaur from the Late Cretaceous part of the Lopez de Bertodano Formation of Antarctica, just before the Cretaceous–Paleogene extinction event. It is among the largest members of the tylosaurines, a group of marine lizards that lived during the Cretaceous, and the only really large Antarctic tylosaurine.[1]

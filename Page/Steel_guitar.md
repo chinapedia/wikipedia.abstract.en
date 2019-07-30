@@ -1,4 +1,4 @@
-Lapstyle.jpg played lap steel fashion.]]
+played lap steel fashion.]]
 
 STEEL GUITAR is a type of guitar or the method of playing the instrument. Developed in Hawaii by Joseph Kekuku in the late 19th and early 20th centuries, a steel guitar is usually positioned horizontally; strings are plucked with one hand, while the other hand changes the pitch of one or more strings with the use of a bar or slide called a steel (generally made of metal, but also of glass or other materials).
 
@@ -60,7 +60,7 @@ Historically, these have been of many types, but two dominate:
 
 Hawaiian guitars
 
-RogerSteel2b.jpg.]] Fender_Dual_8_Professional_Lap_Steel_Guitar.jpg.]] Soldier'sJoy.ogg.]]
+.]] .]] .]]
 
 Lap steel guitars
 
@@ -90,7 +90,7 @@ The distinction between console steel guitar and lap steel guitar is fuzzy at be
 
 Pedal steel guitars
 
-Zumsteel.jpg.]] The pedal steel guitar is an electric instrument normally with 8 to 14 strings per neck, and one or two necks, each in a different tuning. Up to ten pedals (not counting the volume pedal) and up to eight knee-levers are used to alter the tunings of different strings, which gives the instrument its distinctive voice, most often heard in country music.
+.]] The pedal steel guitar is an electric instrument normally with 8 to 14 strings per neck, and one or two necks, each in a different tuning. Up to ten pedals (not counting the volume pedal) and up to eight knee-levers are used to alter the tunings of different strings, which gives the instrument its distinctive voice, most often heard in country music.
 
 The extra strings and use of pedals gives even a single neck pedal steel guitar far more versatility than any table steel guitar, but at the same time makes playing far more complex.
 

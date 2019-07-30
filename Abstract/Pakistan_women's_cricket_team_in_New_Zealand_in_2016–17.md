@@ -1,1 +1,0 @@
-Pakistan women's cricket team toured New Zealand in November 2016. The tour consisted of a series of five Women's One Day Internationals (WODIs), the last three being part of the 2014–16 ICC Women's Championship, and a Women's Twenty20 International (WT20I).[1] New Zealand women won the WODI series 5–0 and won the one-off WT20I match by 14 runs.[2][3]

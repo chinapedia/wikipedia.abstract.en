@@ -1,1 +1,0 @@
-The CHIMNEY MUSEUM () is a museum in Kubong, Labuan, Malaysia. The museum details the history of Kubong when coal mining was at its peak under the administration of the British North Borneo Chartered Company.[1]

@@ -1,1 +1,0 @@
-_ROSENCRANTZ AND GUILDENSTERN ARE DEAD_, often referred to as just _ROSENCRANTZ AND GUILDENSTERN_, is an absurdist, existential tragicomedy by Tom Stoppard, first staged at the Edinburgh Festival Fringe in 1966.[1][2] The play expands upon the exploits of two minor characters from Shakespeare's _Hamlet_, the courtiers Rosencrantz and Guildenstern. The main setting is Denmark.

@@ -1,1 +1,0 @@
-SUPERCONDUCTING MAGNETIC ENERGY STORAGE (SMES) systems store energy in the magnetic field created by the flow of direct current in a superconducting coil which has been cryogenically cooled to a temperature below its superconducting critical temperature.

@@ -1,1 +1,0 @@
-The DISTRICT NO. 2 SCHOOL is a historic school building at 2442 Polly Hubbard Road in Georgia, Vermont. Built in 1843 and enlarged in 1931, it is a good local example of mid-19th century vernacular Greek Revival school architecture. It was restored in the 1990s after being abandoned for some years, and was listed on the National Register of Historic Places in 2000.[1]

@@ -1,1 +1,0 @@
-MARY BETH BOWIE (born 27 October 1978)[1] is a Canadian women's international footballer who played as a midfielder.[2] She has competed for the Canada women's national soccer team. She was part of the team at the 1999 FIFA Women's World Cup.[3]

@@ -1,1 +1,0 @@
-The ARZAKAN-MEGHRADZOR SANCTUARY is a protected area in the Armenian Kotayk Province. The sanctuary covers an area of 135.32 km² in the Hrazdan forest.[1] It has a protection level of 4 according to the IUCN protection system.[2]

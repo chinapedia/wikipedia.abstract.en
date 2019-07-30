@@ -1,1 +1,0 @@
-SWEDEN were originally going to debut in the Turkvision Song Contest, at the Turkvision Song Contest 2016 to be held in Turkey. However the 2016 edition was cancelled. They will now debut at the Turkvision Song Contest 2017.

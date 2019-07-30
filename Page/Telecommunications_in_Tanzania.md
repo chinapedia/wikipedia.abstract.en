@@ -61,8 +61,6 @@ Some of the mobile phone companies operating in Tanzania are:[18]
 
 Internet
 
-SEACOM_Network_Map.jpg
-
 -   Top-level domain: .tz[19]
 -   Internet users: 7.2 million users; 13.1% of the population, 182nd in the world (2016);[20]
 -   Fixed broadband: 3,753 subscriptions, 164th in the world; less than 0.05% of the population, 187th in the world (2012).[21][22]

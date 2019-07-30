@@ -1,1 +1,0 @@
-In mathematics, a BILINEAR MAP is a function combining elements of two vector spaces to yield an element of a third vector space, and is linear in each of its arguments. Matrix multiplication is an example.

@@ -1,1 +1,0 @@
-JEFFREY FOWLER (born July 27, 1978) is an American filmmaker and visual effects artist. He was nominated for the Academy Award for Best Animated Short Film as writer and director of the short animated film _Gopher Broke_ (2004).[1] He will make his theatrical directorial debut with the upcoming _Sonic the Hedgehog_ film due in 2020.

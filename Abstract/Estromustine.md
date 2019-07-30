@@ -1,1 +1,0 @@
-ESTROMUSTINE (developmental code name LEO 271 F), also known as ESTRONE 17Β-3-N-BIS(2-CHLOROETHYL)CARBAMATE or ESTRONE–CYTOSTATIC COMPLEX,[1] is a major active metabolite of the cystotatic antineoplastic agent and estrogen estramustine phosphate, a medication used in the treatment of prostate cancer.[2][3]

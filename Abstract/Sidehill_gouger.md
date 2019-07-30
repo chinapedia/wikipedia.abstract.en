@@ -1,1 +1,0 @@
-Sidehill-Gouger.jpg

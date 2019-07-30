@@ -1,1 +1,0 @@
-FIRE has been an important part of all cultures and religions from pre-history to modern day and was vital to the development of civilization. It has been regarded in many different contexts throughout history, but especially as a metaphysical constant of the world.

@@ -1,1 +1,0 @@
-Wrestling_at_the_2016_Summer_Olympics,_Sharifov_vs_Shengfeng_6.jpg

@@ -1,1 +1,0 @@
-The ST. EZEQUIEL MORENO CATHEDRAL[1] () Also PASTO CATHEDRAL[2] Is a cathedral of the Catholic Church consecrated to Saint Ezequiel Moreno Diaz and to St. Francis. Located in the city of Pasto in the South American country of Colombia.[3]

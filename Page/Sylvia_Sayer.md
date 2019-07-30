@@ -1,9 +1,9 @@
-Sylvia_Sayer_21_May_1983-lq.jpg SYLVIA OLIVE PLEADWELL SAYER, LADY SAYER (6 March 1904 – 4 January 2000), was a passionate conservationist and environmental campaigner on behalf of Dartmoor,[1] an area of mostly granite moorland in Devon in the south-west of England. She was chairman of the Dartmoor Preservation Association from 1951 to 1973, and remained deeply involved with the organisation until her death.
+SYLVIA OLIVE PLEADWELL SAYER, LADY SAYER (6 March 1904 – 4 January 2000), was a passionate conservationist and environmental campaigner on behalf of Dartmoor,[1] an area of mostly granite moorland in Devon in the south-west of England. She was chairman of the Dartmoor Preservation Association from 1951 to 1973, and remained deeply involved with the organisation until her death.
 
 
 Biography
 
-Huccaby,_St_Raphael's_Church_-_geograph.org.uk_-_1014207.jpg Sayer's grandfather was Robert Burnard (1848–1920), who with Sabine Baring-Gould performed the first scientific excavations of ancient monuments on Dartmoor, including Grimspound; and who was one of the founding members in 1883 of the Dartmoor Preservation Association. He leased Huccaby House, on the West Dart River, near Hexworthy, from the Duchy of Cornwall and Sayer used to visit as a child.[2][3]
+Sayer's grandfather was Robert Burnard (1848–1920), who with Sabine Baring-Gould performed the first scientific excavations of ancient monuments on Dartmoor, including Grimspound; and who was one of the founding members in 1883 of the Dartmoor Preservation Association. He leased Huccaby House, on the West Dart River, near Hexworthy, from the Duchy of Cornwall and Sayer used to visit as a child.[2][3]
 
 Her mother was Olive Louise Munday (born Burnard; 1873–1960), Robert Burnard's eldest daughter.[4] Her father was the Principal Medical Officer at the Naval Hospital School in Greenwich. She attended Princess Helena College in Ealing, and then the Central School of Art in London. In 1925 she married Guy Sayer, who was a midshipman in the Royal Navy, and they spent some time in China. Three years later they bought Old Middle Cator, a dilapidated Dartmoor longhouse about two miles west of the village of Widecombe-in-the-Moor in Dartmoor. They had twin sons, Geoffrey and Oliver, born in 1930, and until World War Two the family travelled widely to meet the needs of Guy's navy career. After VE Day, Guy was posted to the Far East and Sylvia settled at Cator and became interested in local politics, at first as a parish councillor for Widecombe, then as a Rural District Councillor and a member of the Dartmoor Sub-Committee of Devon County Council.[5]
 
@@ -22,7 +22,7 @@ The National Parks and Access to the Countryside Act 1949 created the National P
 
 TV mast
 
-North_Hessary_Tor_base_station.jpg and base of mast in 2010]] As chairman of the Dartmoor Preservation Association (DPA), Sayer was heavily involved in all that organisation's fights for what it saw as conservation issues. The first of these was against the proposed installation of a television transmitting mast on North Hessary Tor in the centre of the moor. When the Dartmoor Standing Committee voted in June 1952 to approve the application, Sayer complained that it had relied on the casting vote of the chairman in the absence of three members who would have voted against.[17]
+and base of mast in 2010]] As chairman of the Dartmoor Preservation Association (DPA), Sayer was heavily involved in all that organisation's fights for what it saw as conservation issues. The first of these was against the proposed installation of a television transmitting mast on North Hessary Tor in the centre of the moor. When the Dartmoor Standing Committee voted in June 1952 to approve the application, Sayer complained that it had relied on the casting vote of the chairman in the absence of three members who would have voted against.[17]
 
 Continued objection from Sayer and the DPA, and the CPRE, led to a public enquiry which took place in September 1953. Sir Patrick Duff, the National Parks Commission chairman, was well briefed by Sayer and at the enquiry his case was mainly based on the damage the mast would do to the scenery of the moor. Although congratulatory letters were passed between all the main objectors after the enquiry, the ministry granted the planning application in January 1954, though with some minor provisos to minimise the impact.[18] Although Duff had failed to stop the installation of the mast, Sayer rewarded him for his efforts with a painting of North Hessary Tor saying it was "almost the last representation of that landscape that can be made while it is still unshadowed and unspoiled".[19]
 
@@ -40,7 +40,7 @@ However, the other reservoir at Meldon on the north west edge of the moor was pa
 
 China clay workings
 
-Water_contains_mud_-_geograph.org.uk_-_335427.jpg Following these efforts, she concentrated on the two companies involved in the extraction of china clay in the south west of the moor. They had permission dating from 1951 to expand their pits and tips. Shaugh Moor is an adjacent area that is rich in ancient monuments and it was there that the companies planned to tip the vast quantities of spoil that is generated from clay extraction. At the time the area became known as "Area Y", from an explanatory diagram that Sayer had drawn. The activism culminated in an adjournment debate in the House of Commons in which Janet Fookes, a Plymouth MP, argued against irreparably damaging the ancient landscape. In June 1978, the two companies agreed to share their waste tips, as Sayer had recommended, saving Shaugh Moor.[28]
+Following these efforts, she concentrated on the two companies involved in the extraction of china clay in the south west of the moor. They had permission dating from 1951 to expand their pits and tips. Shaugh Moor is an adjacent area that is rich in ancient monuments and it was there that the companies planned to tip the vast quantities of spoil that is generated from clay extraction. At the time the area became known as "Area Y", from an explanatory diagram that Sayer had drawn. The activism culminated in an adjournment debate in the House of Commons in which Janet Fookes, a Plymouth MP, argued against irreparably damaging the ancient landscape. In June 1978, the two companies agreed to share their waste tips, as Sayer had recommended, saving Shaugh Moor.[28]
 
 Okehampton bypass
 
@@ -52,7 +52,7 @@ She opposed proposals to build a new Dartmoor Prison at Princetown in the centre
 
 In 1983 she refused an invitation from the Prince of Wales to attend the launch of the Duchy of Cornwall's management plan for Dartmoor, since it allowed for a continuance of military usage. She was also one of a deputation who met the Prince in 1990 to explain to him why they thought he should not renew the military licences for a further term. However, the licences were renewed that year until 2011.[34]
 
-Village_sign,_Widecombe-in-the-Moor_-_geograph.org.uk_-_1237758.jpg, designed by Sayer in the late 1940s[35]]]
+, designed by Sayer in the late 1940s[35]]]
 
 
 Legacy

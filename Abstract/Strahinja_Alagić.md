@@ -1,1 +1,0 @@
-STRAHINJA "BRACA" ALAGIĆ () was a Serbian professional basketball player and coach. He dedicated his coaching career is the most to women's basketball. With Crvena zvezda he won the FIBA EuroLeague Women in 1979.[1]

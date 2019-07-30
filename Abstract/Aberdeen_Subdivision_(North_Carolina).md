@@ -1,1 +1,0 @@
-The ABERDEEN SUBDIVISION is a railroad line owned by CSX Transportation in North Carolina. The line runs along CSX's S Line from Raleigh, North Carolina to Marston, North Carolina for a total of 86.9 miles. At its north end it continues south from the Norlina Subdivision and at its south end it continues south as the Hamlet Terminal Subdivision.[1][2]

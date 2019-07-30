@@ -1,1 +1,0 @@
-ALVIN TOFFLER (October 4, 1928 – June 27, 2016) was an American writer, futurist, and businessman known for his works discussing modern technologies, including the digital revolution and the communication revolution, with emphasis on their effects on cultures worldwide.

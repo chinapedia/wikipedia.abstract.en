@@ -8,12 +8,12 @@ The ranks from highest to lowest are:
 
 Dice game
 
-Snake_eyes_with_Chinese_dice.jpg Throwing Heaven and Nine (掷天九), or _Kwat-P'ai_ (骨牌) as reported by Ng Kwai-shang in 1886[2], is a game of chance where players try to beat each other with a higher combination from a pair of Chinese dice with red 1 and 4 pips.[3] Of the 21 possible combinations, 11 are ranked in a "civil" suit and 10 are ranked in a "military" suit. After the wager is set, the banker throws the dice into a bowl which sets the suit. The banker automatically wins if he throws the highest rank (Heaven or Nine) but loses if he throws the lowest rank (Red Mallet Six or Final Three). For any other combination, the other players try to beat him by throwing a higher rank of the same suit. If they throw the wrong suit, then they get to throw again until they "follow suit". Those that throw lower than the banker will have to pay him. According to R.C. Bell, if there is a tie, no money is exchanged.[4] The opponents keep throwing until one manages to beat the banker and gets paid by him. The player to the right of the banker becomes the next banker and starts the following round after new stakes are set.
+Throwing Heaven and Nine (掷天九), or _Kwat-P'ai_ (骨牌) as reported by Ng Kwai-shang in 1886[2], is a game of chance where players try to beat each other with a higher combination from a pair of Chinese dice with red 1 and 4 pips.[3] Of the 21 possible combinations, 11 are ranked in a "civil" suit and 10 are ranked in a "military" suit. After the wager is set, the banker throws the dice into a bowl which sets the suit. The banker automatically wins if he throws the highest rank (Heaven or Nine) but loses if he throws the lowest rank (Red Mallet Six or Final Three). For any other combination, the other players try to beat him by throwing a higher rank of the same suit. If they throw the wrong suit, then they get to throw again until they "follow suit". Those that throw lower than the banker will have to pay him. According to R.C. Bell, if there is a tie, no money is exchanged.[4] The opponents keep throwing until one manages to beat the banker and gets paid by him. The player to the right of the banker becomes the next banker and starts the following round after new stakes are set.
 
 
 Domino games
 
-ChineseDominoes.jpg In the domino games, there are two copies of each Civil tile. They have been available in playing card format since the beginning of the 17th century.
+In the domino games, there are two copies of each Civil tile. They have been available in playing card format since the beginning of the 17th century.
 
 Turning Heaven and Nine
 

@@ -1,1 +1,0 @@
-_TU KAHIBU NA MU_ is an Indian Odia-language drama film directed by Susant Mani and produced by Tarang Cine Productions.[1] It stars Niharika Dash and Amlan Das in lead roles while Aparajita Mohanty and Mihir Das play supporting roles.[2] The music is released by Amara Muzik.

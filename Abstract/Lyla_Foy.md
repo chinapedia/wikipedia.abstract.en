@@ -1,1 +1,0 @@
-LYLA FOY (aka Wall) is a London songwriter and solo artist. She has shared stages with The National, Sharon Van Etten, Midlake, Phosphorescent and Fleet Foxes. Lyla also sings and plays bass with psychedelic 6-piece, Mono Club, fronted by Goldheart Assembly's John Herbert.

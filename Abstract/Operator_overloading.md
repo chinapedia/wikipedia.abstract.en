@@ -1,1 +1,0 @@
-In programming, OPERATOR OVERLOADING, sometimes termed _operator ad hoc polymorphism_, is a specific case of polymorphism, where different operators have different implementations depending on their arguments. Operator overloading is generally defined by a programming language, a programmer, or both.

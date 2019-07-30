@@ -1,1 +1,0 @@
-Senmen-kosyakyou.jpg

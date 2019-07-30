@@ -1,1 +1,0 @@
-is a Japanese footballer who is the captain of J1 League side Gamba Osaka. He is also a Japanese international and his regular playing position is centre-back although he can also play as a full-back.[1][2]

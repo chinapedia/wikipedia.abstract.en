@@ -1,1 +1,0 @@
-Overhand3.jpg SHUFFLING is a procedure used to randomize a deck of playing cards to provide an element of chance in card games. Shuffling is often followed by a cut, to help ensure that the shuffler has not manipulated the outcome.

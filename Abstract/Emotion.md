@@ -1,1 +1,0 @@
-EMOTION is a mental state associated with the nervous system[1][2][3] brought on by chemical changes variously associated with thoughts, feelings, behavioural responses, and a degree of pleasure or displeasure.[4][5] There is currently no scientific consensus on a definition. Emotion is often intertwined with mood, temperament, personality, disposition, and motivation.[6]

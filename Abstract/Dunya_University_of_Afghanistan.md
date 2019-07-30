@@ -1,1 +1,0 @@
-DUNYA UNIVERSITY OF AFGHANISTAN is a private university established in 2009 in Kabul, Afghanistan in partnership with the Swiss UMEF University.[1] UMEF is not accredited by the Swiss higher education authorities.[2]

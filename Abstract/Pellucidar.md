@@ -1,1 +1,0 @@
-PELLUCIDAR is a fictional Hollow Earth invented by American writer Edgar Rice Burroughs for a series of action adventure stories. In a crossover event between Burroughs's series, there is a Tarzan story in which he travels into Pellucidar.

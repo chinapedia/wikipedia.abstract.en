@@ -1,6 +1,4 @@
-Southcentral_Alaska_Stub.png
-
-Kenai5.jpg]] SOUTHCENTRAL ALASKA is the portion of the U.S. state of Alaska consisting of the shorelines and uplands of the central Gulf of Alaska. Most of the population of the state lives in this region, concentrated in and around the city of Anchorage.[1]
+]] SOUTHCENTRAL ALASKA is the portion of the U.S. state of Alaska consisting of the shorelines and uplands of the central Gulf of Alaska. Most of the population of the state lives in this region, concentrated in and around the city of Anchorage.[1]
 
 The area includes Cook Inlet, the Matanuska-Susitna Valley, the Kenai Peninsula, Prince William Sound, and the Copper River Valley. Tourism, fisheries, and petroleum production are important economic activities.
 

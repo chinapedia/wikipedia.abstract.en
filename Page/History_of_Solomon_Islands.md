@@ -1,9 +1,9 @@
-Solomon Islands is a sovereign state in the Melanesia subregion of Oceania in the western Pacific Ocean. This page is about the history of the nation state rather than the broader geographical area of the Solomon Islands archipelago, which covers both Solomon Islands and Bougainville Island, a province of Papua New Guinea. For the history of the archipelago not covered here refer to the former administration of the British Solomon Islands Protectorate, the North Solomon Islands and the History of Bougainville. Solomon_Islands_and_Oceania.jpg in Oceania.]]
+Solomon Islands is a sovereign state in the Melanesia subregion of Oceania in the western Pacific Ocean. This page is about the history of the nation state rather than the broader geographical area of the Solomon Islands archipelago, which covers both Solomon Islands and Bougainville Island, a province of Papua New Guinea. For the history of the archipelago not covered here refer to the former administration of the British Solomon Islands Protectorate, the North Solomon Islands and the History of Bougainville. in Oceania.]]
 
 
 Earliest inhabitants in Solomon Islands
 
-Solomon_Islands_warriors.jpg The human HISTORY OF SOLOMON ISLANDS begins with the first Papuan settlement at least 30,000 years ago from New Guinea. They represented the furthest expansion of humans into the Pacific until the expansion of Austronesian-language speakers through the area around 4000 BC, bringing new agricultural and maritime technology. Most of the languages spoken today in Solomon Islands derive from this era, but some thirty languages of the pre-Austronesian settlers survive. Most of the people that settled there back then were Papuans _(see East Papuan languages)._
+The human HISTORY OF SOLOMON ISLANDS begins with the first Papuan settlement at least 30,000 years ago from New Guinea. They represented the furthest expansion of humans into the Pacific until the expansion of Austronesian-language speakers through the area around 4000 BC, bringing new agricultural and maritime technology. Most of the languages spoken today in Solomon Islands derive from this era, but some thirty languages of the pre-Austronesian settlers survive. Most of the people that settled there back then were Papuans _(see East Papuan languages)._
 
 There are preserved numerous pre-European cultural monuments in Solomon Islands, notably Bao megalithic shrine complex (13th century AD), Nusa Roviana fortress and shrines (14th – 19th century), Vonavona Skull island – all in Western province. Nusa Roviana fortress, shrines and surrounding villages served as a hub of regional trade networks in 17th – 19th centuries. Skull shrines of Nusa Roviana are sites of legends. Better known is Tiola shrine – site of legendary stone dog which turned towards the direction where enemy of Roviana was coming from.[1] This complex of archaeological monuments characterises fast development of local Roviana culture, through trade and head hunting expeditions turning into regional power in 17th – 18th centuries.[2]
 
@@ -19,7 +19,7 @@ Museums with significant collections of Solomon Islands artifacts include the Bi
 
 Colonization
 
-Solomonislands1939canoepalm3d-sg65.jpg, 1939]] Sikaiana, then known as the Stewart Islands, was annexed to the Hawaiian Kingdom in 1856. Hawai'i did not formalize the annexation, and the United States refused to recognize Hawaiian sovereignty over Sikaiana when the United States annexed Hawai'i in 1898.
+, 1939]] Sikaiana, then known as the Stewart Islands, was annexed to the Hawaiian Kingdom in 1856. Hawai'i did not formalize the annexation, and the United States refused to recognize Hawaiian sovereignty over Sikaiana when the United States annexed Hawai'i in 1898.
 
 Missionary activity then started at the mid 19th century and European colonial ambitions led to the establishment of a German Protectorate over the North Solomon Islands, which covered parts of what is now Solomon Islands, following an Anglo-German Treaty of 1886. A British Solomon Islands Protectorate over the southern islands was proclaimed in June 1893. German interests were transferred to the United Kingdom under the Samoa Tripartite Convention of 1899, in exchange for recognition of the German claim to Western Samoa.
 
@@ -28,7 +28,7 @@ In 1927 District Commissioner William R. Bell was killed on Malaita, along with 
 
 World War II
 
-B-17_bombing_japanese_positions_on_Gizo_Island,_Solomon_Islands.jpg bombers over Gizo.]] Japanese forces occupied the Solomon Islands in January 1942. The counter-attack was led by the United States; the 1st Division of the US Marine Corps landed on Guadalcanal and Tulagi in August 1942. Some of the most bitter fighting of World War II took place on the islands for almost three years.
+bombers over Gizo.]] Japanese forces occupied the Solomon Islands in January 1942. The counter-attack was led by the United States; the 1st Division of the US Marine Corps landed on Guadalcanal and Tulagi in August 1942. Some of the most bitter fighting of World War II took place on the islands for almost three years.
 
 Tulagi, the seat of the British administration on the island of Nggela Sule in Central Province was destroyed in the heavy fighting following landings by the US Marines. Then the tough battle for Guadalcanal, which was centred on the capture of the airfield, Henderson field, led to the development of the adjacent town of Honiara as the United States logistics centre.
 
@@ -49,7 +49,7 @@ Stability was restored during the 1950s, as the British colonial administration 
 
 Elections were held again in 1970 and a new constitution was introduced. The 1970 constitution replaced the Legislative and Executive Councils with a single Governing Council. It also established a 'committee system of government' where all members of the Council sat on one or more of five committees. The aim of this system was to reduce divisions between elected representatives and the colonial bureaucracy, provide opportunities for training new representatives in managing the responsibilities of government.
 
-It was also claimed that this system was more consistent with the Melanesian style of government, however this was quickly undermined by opposition to the 1970 constitution and the committee system by elected members of the council. As a result, a new constitution was introduced in 1974 which established a standard Westminster form of government and gave the Islanders both Chief Ministerial and Cabinet responsibilities. Solomon Mamaloni became the country's first Chief Minister in July 1974. Solomon_Islands_1989.jpg, circa 1989 (click to enlarge).]]
+It was also claimed that this system was more consistent with the Melanesian style of government, however this was quickly undermined by opposition to the 1970 constitution and the committee system by elected members of the council. As a result, a new constitution was introduced in 1974 which established a standard Westminster form of government and gave the Islanders both Chief Ministerial and Cabinet responsibilities. Solomon Mamaloni became the country's first Chief Minister in July 1974. , circa 1989 (click to enlarge).]]
 
 
 Independence (1978)

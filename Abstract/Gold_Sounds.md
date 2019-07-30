@@ -1,1 +1,0 @@
-_GOLD SOUNDS_ is an album by saxophonist James Carter, keyboardist Cyrus Chestnut, drummer Ali Jackson and bassist Reginald Veal performing compositions by the indie rock band Pavement and released on the Brown Brothers label in 2005.[1]

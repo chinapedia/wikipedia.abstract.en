@@ -1,1 +1,0 @@
-Fatima_Shaik.jpg

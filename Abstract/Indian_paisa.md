@@ -1,1 +1,0 @@
-INDIAN PAISA (plural: _paise_) is (one-hundredth) subdivision of the Indian rupee. The paisa was first introduced on 1 April 1957 after decimalisation of the Indian rupee. As of 30 June 2011, except for 50 paisa coins, all other paisa coins had been demonetized.

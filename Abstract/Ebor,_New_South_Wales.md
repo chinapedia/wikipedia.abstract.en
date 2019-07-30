@@ -1,1 +1,0 @@
-EBOR is a village on Waterfall Way on the Northern Tablelands in New South Wales, Australia. It is situated about east of Armidale and about a third of the way between Armidale and the coast. Dorrigo to the east is away with the Coffs Coast away along Waterfall Way. In the , Ebor's zone had a population of 166.[1]

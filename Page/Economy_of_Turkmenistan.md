@@ -72,7 +72,7 @@ In the early 2000s, the contribution of Turkmenistan’s state-run agriculture s
 
 Trade
 
-2006Turkmen_exports.PNG In 2016, Turkmenistan exported $6.987 billion in goods making it the 100th largest export economy in the world. The top exports are gas, crude oil, petrochemicals, textiles and cotton fiber. Most of these exports will end up in China 70%, Turkey 5.3%, Italy 5.3%, Afghanistan 4.5%, Russia 4.1%.[20]
+In 2016, Turkmenistan exported $6.987 billion in goods making it the 100th largest export economy in the world. The top exports are gas, crude oil, petrochemicals, textiles and cotton fiber. Most of these exports will end up in China 70%, Turkey 5.3%, Italy 5.3%, Afghanistan 4.5%, Russia 4.1%.[20]
 
 Also in that year Turkmenistan imported $5.001 billion in goods resulting it being the 121th largest importer in the world. This is $1.986 billion less in imports compared to exports meaning the country has a positive trade balance of $1.986 billion. Its top imports are machinery and equipment, chemicals, foodstuffs. The top origins of imports are Turkey 26.4%, Russia 10.5%, Japan 8.6%, Germany 8.2%, South Korea 7.8%, China 7.2%, Italy 5.2%.[21]
 

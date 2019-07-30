@@ -32,12 +32,12 @@ Irwin Fridovich and Joe McCord at Duke University discovered the enzymatic activ
 
 There are three major families of superoxide dismutase, depending on the protein fold and the metal cofactor: the Cu/Zn type (which binds both copper and zinc), Fe and Mn types (which bind either iron or manganese), and the Ni type (which binds nickel).
 
-  --------------------------------------------------------------------- ---------------------------------------------- -----------------------------------------
-  2SOD_ribbon_colorPencil_WhBkgd.png of bovine Cu-Zn SOD subunit[5]]]   Crystal_Structure_of_Human_Manganese_SOD.png   094-SuperoxideDismutase-Mn_Fe_2mers.png
-  --------------------------------------------------------------------- ---------------------------------------------- -----------------------------------------
+  ---------------------------------- -- --
+  of bovine Cu-Zn SOD subunit[5]]]
+  ---------------------------------- -- --
 
 -   Copper and zinc – most commonly used by eukaryotes, including humans. The cytosols of virtually all eukaryotic cells contain an SOD enzyme with copper and zinc (Cu-Zn-SOD). For example, Cu-Zn-SOD available commercially is normally purified from bovine red blood cells. The bovine Cu-Zn enzyme is a homodimer of molecular weight 32,500. It was the first SOD whose atomic-detail crystal structure was solved, in 1975.[6] It is an 8-stranded "Greek key" beta-barrel, with the active site held between the barrel and two surface loops. The two subunits are tightly joined back-to-back, mostly by hydrophobic and some electrostatic interactions. The ligands of the copper and zinc are six histidine and one aspartate side-chains; one histidine is bound between the two metals.[7]
--   Iron_Superoxide_Dismutase_Active_Site.pngIron or manganese – used by prokaryotes and protists, and in mitochondria and chloroplasts
+-   Iron or manganese – used by prokaryotes and protists, and in mitochondria and chloroplasts
     -   Iron – Many bacteria contain a form of the enzyme with iron (Fe-SOD); some bacteria contain Fe-SOD, others Mn-SOD, and some (such as _E. coli_) contain both. Fe-SOD can also be found in the chloroplasts of plants. The 3D structures of the homologous Mn and Fe superoxide dismutases have the same arrangement of alpha-helices, and their active sites contain the same type and arrangement of amino acid side-chains. They are usually dimers, but occasionally tetramers.
     -   Manganese – Nearly all mitochondria, and many bacteria, contain a form with manganese (Mn-SOD): For example, the Mn-SOD found in human mitochondria. The ligands of the manganese ions are 3 histidine side-chains, an aspartate side-chain and a water molecule or hydroxy ligand, depending on the Mn oxidation state (respectively II and III).[8]
 -   Nickel – prokaryotic. This has a hexameric (6-copy) structure built from right-handed 4-helix bundles, each containing N-terminal hooks that chelate a Ni ion. The Ni-hook contains the motif His-Cys-X-X-Pro-Cys-Gly-X-Tyr; it provides most of the interactions critical for metal binding and catalysis and is, therefore, a likely diagnostic of NiSODs.[9][10]

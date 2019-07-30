@@ -1,1 +1,0 @@
-_UPPU HULI KHARA_ (; ) is a 2017 Indian Kannada film written and directed by Imran Sardhariya, produced by M. Ramesh under the banner Tejeshwini Enterprises.[1] The film stars Shashi Devraj, Malashri, Sharath, Anushree, Dhananjay B, Jayashree and Shamanth Shetty in prominent roles.[2]

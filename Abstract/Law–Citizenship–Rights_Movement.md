@@ -1,1 +1,0 @@
-The LAW–CITIZENSHIP–RIGHTS MOVEMENT (), QMH (from the English transliteration _qiyyam, muwatana, huqouq_), also known as _Teyar El-Qemih_ (from the Arabic acronym), and translated as WHEAT WAVE MOVEMENT, is a democratic secular multi-ethnic political party established in 2015 in northern Syria.[1][2]

@@ -1,1 +1,0 @@
-ERLBACHER BUILDINGS are two historic commercial buildings located at Cape Girardeau, Missouri. They were built in 1957-1958, and are two-story, long, narrow, flat-roofed Streamline Moderne style brick buildings with round corners on the façade and horizontal bands of windows.[1]

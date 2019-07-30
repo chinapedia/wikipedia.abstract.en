@@ -1,4 +1,4 @@
-Nyk_Aphrodite_p2_approaching_Port_of_Rotterdam,_Holland_09-Apr-2007.jpg CMA_CGM_Balzac.jpg.]] Jawaharlal_Nehru_Trust_Port.jpg in Navi Mumbai, India.]] MARITIME TRANSPORT, FLUVIAL TRANSPORT, or more generally WATERBORNE TRANSPORT is the transport of people (passengers) or goods (cargo) via waterways. Freight transport by sea has been widely used throughout recorded history. The advent of aviation has diminished the importance of sea travel for passengers, though it is still popular for short trips and pleasure cruises. Transport by water is cheaper than transport by air,[1] despite fluctuating exchange rates and a fee placed on top of freighting charges for carrier companies known as the currency adjustment factor (CAF).
+.]] in Navi Mumbai, India.]] MARITIME TRANSPORT, FLUVIAL TRANSPORT, or more generally WATERBORNE TRANSPORT is the transport of people (passengers) or goods (cargo) via waterways. Freight transport by sea has been widely used throughout recorded history. The advent of aviation has diminished the importance of sea travel for passengers, though it is still popular for short trips and pleasure cruises. Transport by water is cheaper than transport by air,[1] despite fluctuating exchange rates and a fee placed on top of freighting charges for carrier companies known as the currency adjustment factor (CAF).
 
 Maritime transport can be realized over any distance by boat, ship, sailboat or barge, over oceans and lakes, through canals or along rivers. Shipping may be for commerce, recreation, or for military purposes. While extensive inland shipping is less critical today, the major waterways of the world including many canals are still very important and are integral parts of worldwide economies. Virtually any material can be moved by water; however, water transport becomes impractical when material delivery is time-critical such as various types of perishable produce. Still, water transport is highly cost effective with regular schedulable cargoes, such as trans-oceanic shipping of consumer products – and especially for heavy loads or bulk cargos, such as coal, coke, ores, or grains. Arguably, the industrial revolution took place best where cheap water transport by canal, navigations, or shipping by all types of watercraft on natural waterways supported cost effective bulk transport.
 
@@ -7,7 +7,7 @@ Containerization revolutionized maritime transport starting in the 1970s. "Gener
 
 Description
 
-Merchant_marine_by_country.PNG _Merchant shipping:_ A nation's shipping fleet (merchant navy, merchant marine, merchant fleet) consists of the ships operated by civilian crews to transport passengers or cargo from one place to another. Merchant shipping also includes water transport over the river and canal systems connecting inland destinations, large and small. For example, during the early modern era, cities in the Hanseatic League began taming Northern Europe's rivers and harbors. And, for instance, the Saint Lawrence Seaway connects the port cities on the Great Lakes in Canada and the United States with the Atlantic Ocean shipping routes; while the various Illinois Canals connect the Great Lakes and Canada with New Orleans. Ores, Coal, and grains can travel along the rivers of the American midwest to Pittsburgh, or Birmingham. Professional mariners are merchant seaman, merchant sailor, and merchant mariner, or simply seaman, sailor, or mariners. The terms "seaman" or "sailor" may refer to a member of a country's navy.
+_Merchant shipping:_ A nation's shipping fleet (merchant navy, merchant marine, merchant fleet) consists of the ships operated by civilian crews to transport passengers or cargo from one place to another. Merchant shipping also includes water transport over the river and canal systems connecting inland destinations, large and small. For example, during the early modern era, cities in the Hanseatic League began taming Northern Europe's rivers and harbors. And, for instance, the Saint Lawrence Seaway connects the port cities on the Great Lakes in Canada and the United States with the Atlantic Ocean shipping routes; while the various Illinois Canals connect the Great Lakes and Canada with New Orleans. Ores, Coal, and grains can travel along the rivers of the American midwest to Pittsburgh, or Birmingham. Professional mariners are merchant seaman, merchant sailor, and merchant mariner, or simply seaman, sailor, or mariners. The terms "seaman" or "sailor" may refer to a member of a country's navy.
 
 According to the 2005 CIA World Factbook, the total number of merchant ships of at least 1,000 gross register tons in the world was 30,936. In 2010, it was 38,988, an increase of 26%.[2] , a quarter of all merchant mariners were born in the Philippines.[3] Statistics for individual countries are available at the list of merchant navy capacity by country.
 
@@ -25,24 +25,9 @@ Ships and other watercraft are used for maritime transport. Types can be disting
 Most modern merchant ships can be placed in one of a few categories, such as:
 
   Primary Maritime Transport Types
-  ------------------------------------------
+  ------------------------------------
   Image
-  Sabrina_I.jpg
-  Resim_057.jpg
-  CelebrityCruises_Century.jpg
-  Beluga_Recognition_Gottwald_Cranes.jpg
-  Queen_Mary_2_07_KMJ.jpg
-  Salica_Frigo_cropped.jpg
-  ChiCheemaun.jpeg
-  Supertanker_AbQaiq.jpg
   Secondary Maritime Transport Types
-  CrushedStoneBarge.jpg
-  Cable_layer_ship.jpg
-  Warnemünde Handelsschiff (01) 2006-09-21
-  Dredge_No-4_(2).JPG
-  PrideofRotterdam.png
-  FS_Le_Four_1.jpg
-  MV_Blue_Marlin_carrying_USS_Cole.jpg
 
 Typical in-transit times
 
@@ -54,7 +39,7 @@ History
 
 Professional mariners
 
-Shipping_routes_red_black.png A ship's complement can be divided into four categories:
+A ship's complement can be divided into four categories:
 
 1.  The deck department
 2.  The engine department
@@ -63,7 +48,7 @@ Shipping_routes_red_black.png A ship's complement can be divided into four categ
 
 Deck department
 
-Crewmember_doing_iceberg_lookout_on_the_USNS_Southern_Cross_(Ross_Sea,_Antarctica,_1981).jpg, Antarctica; circa 1981.]] Officer positions in the deck department include but not limited to: Master and his Chief, Second, and Third officers. The official classifications for unlicensed members of the deck department are Able Seaman and Ordinary Seaman.
+, Antarctica; circa 1981.]] Officer positions in the deck department include but not limited to: Master and his Chief, Second, and Third officers. The official classifications for unlicensed members of the deck department are Able Seaman and Ordinary Seaman.
 
 A common deck crew for a ship includes:
 
@@ -131,7 +116,7 @@ The environmental impact of shipping includes greenhouse gas emissions, acoustic
 
 Infrastructure
 
-Container_port_facilities_in_Newark_Bay.JPG, seen from Bayonne, New Jersey, United States]] For a port to efficiently send and receive cargo, it requires infrastructure: docks, bollards, pilings, cranes, bulk cargo handling equipment, and so on – equipment and organization supporting the role of the facilities. From pier to pier these may differ, one dock handling intermodal transport needs (container-ships linked to rail by cranes); another bulk handling capabilities (such as conveyors, elevators, tanks, pumps) for loading and unloading bulk cargoes like grain, coal, or fuels. Others may be outfitted as passenger terminals or for mixed mode operations.
+, seen from Bayonne, New Jersey, United States]] For a port to efficiently send and receive cargo, it requires infrastructure: docks, bollards, pilings, cranes, bulk cargo handling equipment, and so on – equipment and organization supporting the role of the facilities. From pier to pier these may differ, one dock handling intermodal transport needs (container-ships linked to rail by cranes); another bulk handling capabilities (such as conveyors, elevators, tanks, pumps) for loading and unloading bulk cargoes like grain, coal, or fuels. Others may be outfitted as passenger terminals or for mixed mode operations.
 
 Generally, Harbors, seaports and marinas all host watercraft, and consist of components such as piers, wharfs, docks and roadsteads.
 

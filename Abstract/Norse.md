@@ -1,1 +1,0 @@
-NORSE may refer to:

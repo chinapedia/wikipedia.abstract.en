@@ -1,1 +1,0 @@
-In geometry, an OCTAHEDRON (plural: octahedra) is a polyhedron with eight faces, twelve edges, and six vertices. The term is most commonly used to refer to the REGULAR octahedron, a Platonic solid composed of eight equilateral triangles, four of which meet at each vertex.

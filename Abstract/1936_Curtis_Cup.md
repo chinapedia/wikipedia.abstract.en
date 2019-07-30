@@ -1,1 +1,0 @@
-The 3RD CURTIS CUP MATCH was played on 6 May 1936 on the King's Course at Gleneagles Hotel in Auchterarder, Perthshire, Scotland. The match ended in a tie at 4½ each and the United States, as the holders, retained the trophy.[1][2]

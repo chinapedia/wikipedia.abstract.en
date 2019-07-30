@@ -1,1 +1,0 @@
-'''Pedrolia Martin Sikayun ''' (born 18 February 1992) is a Malaysian women's international footballer who plays as a midfielder. She is a member of the Malaysia women's national football team. She was part of the team at the 2016 AFF Women's Championship.[1] At a club level she played for MISC-MIFA in Malaysia.[2]

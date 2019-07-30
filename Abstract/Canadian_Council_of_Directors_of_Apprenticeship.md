@@ -1,1 +1,0 @@
-The CANADIAN COUNCIL OF DIRECTORS OF APPRENTICESHIP is a partnership between Canada's federal, provincial and territorial governments. It supports the development of skilled trades in Canada and manages the Interprovincial Standards Red Seal Program.[1]

@@ -1,1 +1,0 @@
-ALAN CURTIS KAY (born May 17, 1940[1]) is an American computer scientist. He has been elected a Fellow of the American Academy of Arts and Sciences, the National Academy of Engineering, and the Royal Society of Arts.[2] He is best known for his pioneering work on object-oriented programming and windowing graphical user interface design.

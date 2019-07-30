@@ -1,1 +1,0 @@
-The KORAJ MASSACRE was the 28 November 1941 mass murder of over a hundred Bosnian Muslim peasants from the village Koraj near Brčko by Serbian Chetniks.[1] The massacre was in response to the 1941 anti-Communist Tuzla Rebellion.[2]

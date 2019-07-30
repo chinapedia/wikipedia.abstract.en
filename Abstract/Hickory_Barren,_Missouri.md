@@ -1,1 +1,0 @@
-HICKORY BARREN is an unincorporated community in northern Greene County, in the U.S. state of Missouri.[1] The community is on Missouri Route H, two miles north of Fellows Lake. Fair Grove is approximately four miles to the northeast.[2]

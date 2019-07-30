@@ -1,1 +1,0 @@
-_For the former opera house in Algiers, see Théâtre National Algérien Mahieddine Bachtarzi._ ALGIERS OPERA HOUSE is an opera house in Ouled Fayet, Algiers, Algeria. It was built in 2016 by the Chinese government.[1]

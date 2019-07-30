@@ -1,1 +1,0 @@
-The COMMISSION TO PRESERVE NATIONAL MONUMENTS OF BOSNIA AND HERZEGOVINA, _()_, is Bosnia and Herzegovina institution which declares and registers the national monuments, as sites, places, immovable and movable heritage of historical and cultural importance to Bosnia and Herzegovina.[1][2] The sites of exclusively natural heritage are not subject of _Annex 8_ and the Commission.

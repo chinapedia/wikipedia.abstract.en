@@ -1,1 +1,0 @@
-_TENABLE_ is a British game show, presented by Warwick Davis and aired on ITV since 14 November 2016.[1] On each episode, five contestants attempt to win up to £125,000 by filling in the lists of 10 items each.[2]

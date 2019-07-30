@@ -1,1 +1,0 @@
-FREEDOM is an unincorporated community in Osage County, in the U.S. state of Missouri.[1] The village lies on Missouri Route N, approximately one mile north of U.S. Route 50 and two miles north of the Gasconade River.[2]

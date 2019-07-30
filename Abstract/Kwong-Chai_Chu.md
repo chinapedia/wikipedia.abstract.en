@@ -1,1 +1,0 @@
-Portrait_of_Kwong-Chai_Chu.jpeg

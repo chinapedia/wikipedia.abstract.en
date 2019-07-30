@@ -1,1 +1,0 @@
-ALVIS POWERS HOUSE is a historic home located at Grandin, Carter County, Missouri. It was built between 1888 and 1909 by the Missouri Lumber and Mining Company. It is a two-story, vernacular frame dwelling with a front porch, lean-to in back, gable roof and weatherboard, and composition board siding.[1]

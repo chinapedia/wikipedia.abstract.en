@@ -1,1 +1,0 @@
-ZERO GRAVITY PARAGLIDERS was a South Korean aircraft manufacturer based in Seoul and founded by Mansoo Chae. The company specialized in the design and manufacture of ready-to-fly paragliders and parachutes.[1]

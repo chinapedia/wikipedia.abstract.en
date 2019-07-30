@@ -1,1 +1,0 @@
-MANUELA ALEXANDRA GONZÁLEZ MENDOZA (born 29 August 1995) is a Colombian footballer who plays as a forward. She is a member of the Colombia women's national football team. She was part of the team at the 2015 FIFA Women's World Cup. On club level she plays for CD Palmiranas in Colombia.[1]

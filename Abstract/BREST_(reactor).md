@@ -1,1 +1,0 @@
-The BREST reactor is a Russian concept of lead-cooled fast reactor aiming to the standards of a generation IV reactor. Two designs are planned, the BREST-300 (300 MWe) and the BREST-1200 (1200 MWe). Main characteristics of the BREST reactor are passive safety and a closed fuel cycle.[1]

@@ -1,1 +1,0 @@
-Basis}} 3d_two_bases_same_vector.svg In mathematics, a set of elements (vectors) in a vector space is called a BASIS, if every element of may be written in a unique way as a (finite) linear combination of elements of . The coefficients of this linear combination are referred to as COMPONENTS or COORDINATES on of the vector. The elements of a basis are called .

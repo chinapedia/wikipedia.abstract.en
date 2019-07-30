@@ -1,1 +1,0 @@
-OS-structure.svg

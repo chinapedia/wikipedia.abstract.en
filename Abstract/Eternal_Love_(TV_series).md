@@ -1,1 +1,0 @@
-_ETERNAL LOVE_ () is a 2017 Chinese television series starring Yang Mi and Mark Chao.[1] It is based on the xianxia novel of the same name (released as _To the Sky Kingdom_ in English) by Tang Qi. The series was broadcast on Zhejiang TV and Dragon TV from 30 January to 1 March 2017.[2][3]

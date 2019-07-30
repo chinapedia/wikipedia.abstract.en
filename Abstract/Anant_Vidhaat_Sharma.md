@@ -1,1 +1,0 @@
-ANANT VIDHAAT SHARMA is an Actor and Assistant Director, known for _Gunday_ (2014), _Mardaani_ (2014), _Sultan_ (2016) and _Tiger Zinda Hai_ (2017). Before doing films, he was a theatre artist in Delhi in a theater called the Mohsin's.[1]

@@ -1,1 +1,0 @@
-MENTZ is an unincorporated community in northeast Colorado County, in the U.S. state of Texas. It is situated northeast of Columbus on the north side of Interstate 10 (I-10). The town was first established in 1846 by German immigrants from near Mainz, Germany. The small community was still served by a Catholic Church in 2016.

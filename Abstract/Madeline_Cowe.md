@@ -1,1 +1,0 @@
-MADELINE COWE is an Australian TV Host, model, and beauty pageant titleholder. She won Miss World Australia 2016 and placed 1st Runner-up at Miss Universe Australia 2015. She represented Australia at Miss World 2016 pageant.

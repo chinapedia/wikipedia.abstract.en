@@ -1,1 +1,0 @@
-_WEISTHÜMER_ is a collection of partially oral legal traditions from rural German-speaking Europe by Jacob Grimm, published in four volumes (1840–1863), intended for use in research into Germanic law.[1]

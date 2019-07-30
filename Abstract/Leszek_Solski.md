@@ -1,1 +1,0 @@
-Leszek_Solski_grób.JPG]] LESZEK SOLSKI (23 November 1935 – 10 April 2010) was a Polish activist. He was a representative of the Katyn Families, a Polish NGO that brings together activists from across the country to commemorate the victims of the Katyn massacre.

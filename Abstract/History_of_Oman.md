@@ -1,1 +1,0 @@
-Nakhal.fort.jpg, one of the best-preserved forts in Oman]] Oman is the site of pre-historic human habitation, stretching back over 100,000 years. The region was impacted by powerful invaders, including other Arab tribes, Portugal and Britain. Oman once possessed the island of Zanzibar, on the east coast of Africa as a colony.[1]

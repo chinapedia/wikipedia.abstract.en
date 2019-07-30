@@ -1,1 +1,0 @@
-_IRU SAGODHARIGAL_ (Meaning in English: _Two Sisters_) is a 1957 Indian Tamil language drama film directed by Vedantam Raghavaiah. The film features Gemini Ganesan and Savithri in the lead roles.[1] The film released on 17 May 1957.

@@ -1,1 +1,0 @@
-DONALD LAWRENCE "DON" MEADE (December 12, 1913 – December 22, 1996) was an American jockey. Called the "Bad Boy" of the sport by Time magazine because of his numerous suspensions and fines, he is widely know to this day as a result of his win on Brokers Tip in the 1933 Kentucky Derby.

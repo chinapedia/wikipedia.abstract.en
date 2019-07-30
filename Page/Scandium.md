@@ -88,7 +88,7 @@ In early 2018, evidence was gathered from spectrometer data of significant scand
 
 Applications
 
-Mig-29_on_landing.jpg are made from Al-Sc alloy.[41]]] The addition of scandium to aluminium limits the grain growth in the heat zone of welded aluminium components. This has two beneficial effects: the precipitated Al₃Sc forms smaller crystals than in other aluminium alloys,[42] and the volume of precipitate-free zones at the grain boundaries of age-hardening aluminium alloys is reduced.[43] Both of these effects increase the usefulness of the alloy. However, titanium alloys, which are similar in lightness and strength, are cheaper and much more widely used.[44]
+are made from Al-Sc alloy.[41]]] The addition of scandium to aluminium limits the grain growth in the heat zone of welded aluminium components. This has two beneficial effects: the precipitated Al₃Sc forms smaller crystals than in other aluminium alloys,[42] and the volume of precipitate-free zones at the grain boundaries of age-hardening aluminium alloys is reduced.[43] Both of these effects increase the usefulness of the alloy. However, titanium alloys, which are similar in lightness and strength, are cheaper and much more widely used.[44]
 
 The alloy Al₂₀Li₂₀Mg₁₀Sc₂₀Ti₃₀ is as strong as titanium, light as aluminium, and hard as ceramic.[45]
 

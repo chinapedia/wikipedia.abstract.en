@@ -1,1 +1,0 @@
-ERNEST F. SCHUCK (March 1, 1929 – May 16, 2009) was an American Democratic Party politician who served for seven years as mayor of Barrington, New Jersey and eight years in the New Jersey General Assembly, from 1974 to 1982, where he represented the 5th Legislative District.

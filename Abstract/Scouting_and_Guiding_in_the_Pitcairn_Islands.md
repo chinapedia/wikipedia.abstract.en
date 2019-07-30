@@ -1,1 +1,0 @@
-Pitcairn_Island_Sea_Scouts.png SCOUTING AND GUIDING IN THE PITCAIRN ISLANDS is served by PITCAIRN ISLAND SEA SCOUTS, an initiative of the local police officer who was installed by the British government for the first time following the discovery of child abuse in 2004.[1]

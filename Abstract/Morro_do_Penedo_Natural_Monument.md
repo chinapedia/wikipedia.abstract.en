@@ -1,1 +1,0 @@
-The MORRO DO PENEDO NATURAL MONUMENT () is a municipal natural monument in the state of Espírito Santo, Brazil. It contains a small sugarloaf hill on the shore of the bay to the south of Vitória, the state capital.

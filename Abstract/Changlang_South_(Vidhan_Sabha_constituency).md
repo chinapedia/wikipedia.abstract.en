@@ -1,1 +1,0 @@
-CHANGLANG SOUTH is an area in the Indian state of Arunachal Pradesh. Changlang South is located in Changlang, the district's administrative headquarters. It is one of the five Arunachal Pradesh Legislative Assembly constituencies located in the Changlang district.

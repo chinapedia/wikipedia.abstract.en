@@ -1,1 +1,0 @@
-JSON PATCH is a web standard format for describing changes in a JSON document. It is meant to be used together with HTTP Patch which allows for the modification of existing HTTP resources. The JSON Patch media type is application/json-patch+json.

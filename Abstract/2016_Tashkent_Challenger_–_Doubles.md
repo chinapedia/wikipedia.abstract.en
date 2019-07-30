@@ -1,1 +1,0 @@
-Sergey Betov and Mikhail Elgin were the defending champions but chose to participate with different partners. Betov partnered Alexander Kudryavtsev but lost in the first round to Mirza Bašić and Blaž Kavčič. Elgin partnered Denis Istomin and won the title.

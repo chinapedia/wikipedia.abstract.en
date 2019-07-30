@@ -1,1 +1,0 @@
-SOCIAL LAW is a unified concept of law, which replaces the classical division of public law and private law. The term has both been used to mean fields of law that fall between "core" private and public subjects, such as corporate law, competition law, labour law and social security,[1] or as a unified concept for the whole of the law based on associations.[2]

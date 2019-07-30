@@ -1,1 +1,0 @@
-ARTHRITIS is a term often used to mean any disorder that affects joints.[1] Symptoms generally include joint pain and stiffness.[2] Other symptoms may include redness, warmth, swelling, and decreased range of motion of the affected joints.[3][4] In some types other organs are also affected.[5] Onset can be gradual or sudden.[6]

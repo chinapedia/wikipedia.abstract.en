@@ -1,1 +1,0 @@
-The DHARMA HALL, also known as LECTURE HALL, is an important building in Han Chinese Buddhist temples. The Dharma Hall is the place for senior monks to preach and generally ranks right after the Mahavira Hall.[1]

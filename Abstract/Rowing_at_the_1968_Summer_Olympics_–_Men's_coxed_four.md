@@ -1,1 +1,0 @@
-The MEN'S COXED FOUR competition at the 1968 Summer Olympics took place at Virgilio Uribe Rowing and Canoeing Course, Mexico City, Mexico. It was held from 13 to 19 October and was unexpectedly won by the team from New Zealand, which secured the country its first Olympic rowing medal.

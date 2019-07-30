@@ -33,7 +33,7 @@ Views from modern scholars
 
 Legends
 
-Flag_of_Cornwall.svg consists of a white cross on a black field]]
+consists of a white cross on a black field]]
 
 -   The heathen Irish tied him to a mill-stone, rolled it over the edge of a cliff into a stormy sea, which immediately became calm, and the saint floated safely over the water to land upon the sandy beach of Perranzabuloe in Cornwall. His first disciples are said to have been a badger, a fox, and a bear[25]
 -   He landed in Cornwall, and there established himself as a hermit. His sanctity and his austerity won for him the veneration of all around, and the gift of miracles, with which he was favoured, brought many to seek his charitable aid.[26]
@@ -43,7 +43,7 @@ Flag_of_Cornwall.svg consists of a white cross on a black field]]
 
 Death and veneration
 
-Blason_de_la_famille_de_saint-pezran.svg of Saint-Piran's family]] Oratoire-de-saint-peran-trezilide.jpg, Finistère]] It is said that at his death,{{#tag:ref|"At length, however, worn out with age and infirmity, St Piran called his followers around him, and, having addressed them for the last time, desired a grave to be prepared. He then took leave of them, and, descending into it with calmness, his spirit departed on the 5th day of March, about 480. He rests, continues an old narrative of his life, in Cornwall, on the shore of the _Severn_ sea, fifteen miles from Petroc-stowe or Padstow, and twenty-five from Mousehole (two ancient harbours of Cornwall, the former on the north, and the latter on the south coast)."[28]|group=note}} the remains of the Blessed Martin the Abbot which he had brought from Ireland were buried with him at Perranzabuloe.
+of Saint-Piran's family]] , Finistère]] It is said that at his death,{{#tag:ref|"At length, however, worn out with age and infirmity, St Piran called his followers around him, and, having addressed them for the last time, desired a grave to be prepared. He then took leave of them, and, descending into it with calmness, his spirit departed on the 5th day of March, about 480. He rests, continues an old narrative of his life, in Cornwall, on the shore of the _Severn_ sea, fifteen miles from Petroc-stowe or Padstow, and twenty-five from Mousehole (two ancient harbours of Cornwall, the former on the north, and the latter on the south coast)."[28]|group=note}} the remains of the Blessed Martin the Abbot which he had brought from Ireland were buried with him at Perranzabuloe.
 
 His own remains were subsequently exhumed and redistributed to be venerated in various reliquaries. Exeter Cathedral was reputed to be the possessor of one of his arms, while according to an inventory, St Piran's Old Church, Perranzabuloe, had a reliquary containing his head and also a hearse in which his body was placed for processionals. In 1443, Cornish nobleman, Sir John Arundell bequeathed money in his Will for the preservation of the head of St Piran in the chapel at Perranzabuloe.The Saints of Cornwall, Oxford University Press, By Nicholas Orme
 
@@ -57,7 +57,7 @@ Mount St. Piran is a mountain in Banff National Park near Lake Louise, Alberta, 
 
 St Piran's Day
 
-St_Piran's_Cross_-_geograph.org.uk_-_63222.jpg St Piran's Day is popular in Cornwall and the term 'Perrantide' has been coined to describe the week prior to this day. Many Cornish-themed events occur in the Duchy and also in areas in which there is a large community descended from Cornish emigrants. The village of Perranporth ('Porthpyran' in Cornish) hosts the annual inter-Celtic festival of 'Lowender Peran', which is also named in honour of him.
+St Piran's Day is popular in Cornwall and the term 'Perrantide' has been coined to describe the week prior to this day. Many Cornish-themed events occur in the Duchy and also in areas in which there is a large community descended from Cornish emigrants. The village of Perranporth ('Porthpyran' in Cornish) hosts the annual inter-Celtic festival of 'Lowender Peran', which is also named in honour of him.
 
 The largest St Piran's Day event is the march across the dunes to St Piran's cross which hundreds of people attend, generally dressed in black, white and gold, and carrying the Cornish Flag.[33] A play of the Life of St Piran, in Cornish, has been enacted in recent years at the event. Daffodils are also carried and placed at the cross. Daffodils also feature in celebrations in Truro, most likely due to their 'gold' colour. Black, white and gold are colours associated with Cornwall due to St Piran's Flag (black and white), and the Duchy Shield (gold coins on black).
 

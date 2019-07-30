@@ -1,1 +1,0 @@
-_AIR MUSIC_ is a set of ten variations for orchestra by the American composer Ned Rorem. The work was completed in 1974 and was first performed by the Cincinnati Symphony Orchestra on December 5, 1975. The piece won the 1976 Pulitzer Prize for Music.[1][2][3]

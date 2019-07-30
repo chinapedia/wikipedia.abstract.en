@@ -1,1 +1,0 @@
-COLNE POINT is a 276.4 hectare nature reserve south-west of St Osyth in Essex. It is managed by the Essex Wildlife Trust.[1] It is part of the Colne Estuary Site of Special Scientific Interest, National Nature Reserve.[2] Ramsar site,[3] Nature Conservation Review site[4] and Special Protection Area.[5] It is also part of the Essex Estuaries Special Area of Conservation.[6]

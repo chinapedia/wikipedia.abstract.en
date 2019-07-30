@@ -1,1 +1,0 @@
-ROBERT G. SCHWEMM is an American lawyer and currently the Ashland-Spears Distinguished Research Professor of Law[1] and William L. Matthews, Jr. Professor of Law at the College of Law, University of Kentucky,[2] and also a published author.[3] From 1998-99, he was also the college's Acting Dean.[4]

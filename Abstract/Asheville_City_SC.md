@@ -1,1 +1,0 @@
-{{ infobox football club | clubname = Asheville City SC | image = Asheville City SC.png | caption = | fullname = Asheville City Soccer Club | TV = | shortname = | founded = | dissolved = | stadium = Memorial Stadium

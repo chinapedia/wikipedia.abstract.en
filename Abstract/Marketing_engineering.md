@@ -1,1 +1,0 @@
-MARKETING ENGINEERING is currently definded as "a systematic approach to harness data and knowledge to drive effective marketing decision making an implementation through a technology-enabled and model-supported decision process".[1]

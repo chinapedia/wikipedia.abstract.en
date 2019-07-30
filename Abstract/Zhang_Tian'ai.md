@@ -1,1 +1,0 @@
-ZHANG TIAN'AI (; born 28 October 1988), also known by her English name CRYSTAL ZHANG, is a Chinese actress and model. She is best known for her breakout role in the 2015 hit web-drama _Go Princess Go_.

@@ -1,1 +1,0 @@
-THE FIRST ELECTION TO LLANELLI BOROUGH COUNCIL was held in April 1973.[1] It was followed by the 1976 election. On the same day there were elections to the other local authorities and community councils in Wales.

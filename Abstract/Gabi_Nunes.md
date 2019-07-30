@@ -1,1 +1,0 @@
-GABRIELA NUNES DA SILVA (born 10 March 1997), commonly known as GABI NUNES, is a Brazilian professional footballer who plays for the Brazilian club, Corinthians/Audax. She participated at the 2016 edition of the FIFA U-20 Women's World Cup.

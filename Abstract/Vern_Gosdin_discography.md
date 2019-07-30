@@ -1,1 +1,0 @@
-VERN GOSDIN is an American country music artist. His discography consists of 14 studio albums and 41 singles. Of his singles, 41 charted on the U.S. _Billboard_ Hot Country Songs charts between 1976 and 1993.

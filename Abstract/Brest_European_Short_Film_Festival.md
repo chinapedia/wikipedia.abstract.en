@@ -1,1 +1,0 @@
-The BREST EUROPEAN SHORT FILM FESTIVAL (French: FESTIVAL EUROPÉEN DU FILM COURT DE BREST) is a film festival dedicated to short films, happening every year in Brest, in the Brittany region in France. It has been organized by the Côte Ouest Association since 1987 and is open to everyone, school groups and professionals.

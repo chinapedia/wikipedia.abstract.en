@@ -8,7 +8,7 @@ Trinidad is the larger island, with a business-oriented economy and the seat of 
 
 Public transport
 
-Maxi_Taxis_in_Trinidad.jpg from Port of Spain to Arima.]] Public transport is provided by a bus service operated by government-owned Public Transport Service Corporation (PTSC), privately owned mini-buses (locally known as maxi-taxis) and privately owned cars. Maxi-taxis and some cars carry passengers along fixed routes for a fixed fare, although cars are slightly more expensive for similar routes carried by maxi-taxis because of their much smaller passenger capacities. Car taxis are not allowed to utilise the Priority Bus Route, and as such maxi-taxis and buses are preferable for speedily entering and exiting the cities (especially Port of Spain) during rush hour (7am–9am and 4pm–6pm).
+from Port of Spain to Arima.]] Public transport is provided by a bus service operated by government-owned Public Transport Service Corporation (PTSC), privately owned mini-buses (locally known as maxi-taxis) and privately owned cars. Maxi-taxis and some cars carry passengers along fixed routes for a fixed fare, although cars are slightly more expensive for similar routes carried by maxi-taxis because of their much smaller passenger capacities. Car taxis are not allowed to utilise the Priority Bus Route, and as such maxi-taxis and buses are preferable for speedily entering and exiting the cities (especially Port of Spain) during rush hour (7am–9am and 4pm–6pm).
 
 In downtown Port of Spain on a street referred to as South Quay is the historic site of the Trinidad Government Rail (TGR) building at(#60 South Quay, Port of Spain). This former railway facility is now the current administrative and bus loading headquarters of the Public Transport Service Corporation (PTSC). The compound also houses the Maxi Taxi loading facility which is located in its north- eastern quadrant. The Maxi Taxi loading facility is utilized by both route two (2) or red banded Maxi Taxis and route three (3) which are green banded. The red banded Maxi Taxis ply for hire from Port of Spain eastward to as far as the town of Sangre Grande. Green banded Maxi Taxis ply for hire from Port of Spain in a southern direction to either Chaguanas which is considered central Trinidad or to the region of San Fernando located along the South- western coast of Trinidad. The entire PTSC compound located on South Quay Port of Spain is officially referred to as The Port of Spain Transit Centre. The name "City Gate" to which the facility is popularly referred cannot be legally of officially used by the PTSC of on any official documentation used to refer to this facility.
 
@@ -19,21 +19,21 @@ In all other locations and for Port of Spain Intra-city transportation, taxi-sta
 
 Ferry service
 
-STAPP_034_San_Fernando_Harbour.jpg Ferries operate between Port of Spain and Scarborough. Cars can be brought onto the ferries and kept in the cargo areas. Ferries run daily, Sundays to Sunday (less sailings on the weekend). The ferries are inexpensive, in spite of the minimum 2½–3 hour travel time between Port of Spain and Scarborough.
+Ferries operate between Port of Spain and Scarborough. Cars can be brought onto the ferries and kept in the cargo areas. Ferries run daily, Sundays to Sunday (less sailings on the weekend). The ferries are inexpensive, in spite of the minimum 2½–3 hour travel time between Port of Spain and Scarborough.
 
 The Water Taxi Service (Trinidad and Tobago) operates between the cities of Port of Spain and San Fernando at a peak rate of five sailings from San Fernando to Port of Spain per morning. Each sailing carries approximately 400 passengers. Travel time is 50 mins and the cost of the service is heavily subsidized.
 
 
 Railways
 
-Trinidad_rail_map_1925.jpg There is a minimal agricultural railway system near San Fernando, but the Trinidad Government Railway that was built while Trinidad and Tobago was a colony of the United Kingdom was gradually scaled back until it was discontinued in 1968. (The narrow-gauge agricultural railroad was shut down in the late 1990s).
+There is a minimal agricultural railway system near San Fernando, but the Trinidad Government Railway that was built while Trinidad and Tobago was a colony of the United Kingdom was gradually scaled back until it was discontinued in 1968. (The narrow-gauge agricultural railroad was shut down in the late 1990s).
 
 On April 11, 2008 the Trinitrain consortium announced it would plan and build 105 km two line Trinidad Rapid Railway.[1] It was claimed that the new railways were needed to overcome growing road congestion.[2] However the project was cancelled in September 2010.[3][4]
 
 
 Roads
 
-STAPP_071_Debe_Sir_Solomon_Hochoy_Highway.jpg _total:_ 8,320 km
+_total:_ 8,320 km
 _paved:_ 8,320 km
 _unpaved:_ 0 km (1996 est.)
 

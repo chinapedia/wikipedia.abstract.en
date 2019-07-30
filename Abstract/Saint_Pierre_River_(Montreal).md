@@ -1,1 +1,0 @@
-Saint Pierre River}} The SAINT PIERRE RIVER was a river in the city of Montreal, in Quebec, in Canada, flowing into the St. Lawrence River. The city of Montreal was founded at its mouth, at the height of the site Pointe-à-Callière Museum.

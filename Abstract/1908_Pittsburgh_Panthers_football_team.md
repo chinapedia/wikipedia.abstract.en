@@ -1,1 +1,0 @@
-The 1908 PITTSBURGH PANTHERS FOOTBALL TEAM was an American football team that represented the University of Pittsburgh as an independent during the 1908 college football season. In its second season under head coach Joseph H. Thompson, the team compiled an 8–3 record and outscored opponents by a total of 140 to 36.[1][2]

@@ -1,1 +1,0 @@
-KEYSVILLE is an unincorporated community in southwest Crawford County, in the U.S. state of Missouri.[1] The community is located approximately six miles south of Steelville on Missouri Route AA and is on the banks of Crooked Creek.[2]

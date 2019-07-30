@@ -1,1 +1,0 @@
-A QUOTATION is the repetition of one expression as part of another one, particularly when the quoted expression is well-known or explicitly attributed by citation to its original source, and it is indicated by (punctuated with) quotation marks.

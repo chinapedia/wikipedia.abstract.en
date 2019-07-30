@@ -1,1 +1,0 @@
-GORZÓW WIELKOPOLSKI WIEPRZYCE RAILWAY STATION is a railway station serving the town of Gorzów Wielkopolski, in the Lubusz Voivodeship, Poland. The station opened in 1912 and is located on the Tczew–Kostrzyn railway and Gorzów Wielkopolski–Myślibórz railway. The train services are operated by Przewozy Regionalne and Arriva.

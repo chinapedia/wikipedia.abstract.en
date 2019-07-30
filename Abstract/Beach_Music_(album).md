@@ -1,1 +1,0 @@
-| studio = | genre = Indie rock | length = | label = Domino | producer = Alex Giannascoli | prev_title = DSU | prev_year = 2014 | next_title = Rocket | next_year = 2017 | misc = }} _BEACH MUSIC_ is the sixth studio album by American musician Alex G, released on October 9, 2015, through Domino Recording Company, his first album under the label.[1]

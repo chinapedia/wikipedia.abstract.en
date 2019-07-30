@@ -1,1 +1,0 @@
-_GOLISODA_ (English: _Banta_) is a 2016 Indian Kannada-language film written, directed by Raghujaya. Produced by Praveen Kolla and Mahesh Kolla under Kolla Entertainments. It is a remake of the 2014 Tamil film _Goli Soda_.[1] The film was released in Telugu as _Evadu Thakkuva Kaadu_in 2019.[2]

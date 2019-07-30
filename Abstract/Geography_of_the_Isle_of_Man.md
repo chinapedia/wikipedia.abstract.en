@@ -1,1 +1,0 @@
-The ISLE OF MAN is an island in the Irish Sea, between Great Britain and Ireland in Western Europe, with a population of almost 85,000. It is a British Crown dependency. It has a small islet, the Calf of Man, to its south. It is located at .

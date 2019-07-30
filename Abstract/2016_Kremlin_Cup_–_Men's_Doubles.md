@@ -1,1 +1,0 @@
-Dmitry Tursunov and Andrey Rublev were the defending champions, but Tursunov chose not to participate this year. Rublev played alongside Daniil Medvedev, but lost in the semifinals to Julian Knowle and Jürgen Melzer.

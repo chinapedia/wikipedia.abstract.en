@@ -1,1 +1,0 @@
-CRISTINA RODRIGUES (Porto, born 1 July 1980) is a Portuguese artist and architect. Her art work was the main feature and cover of 2016's January/February issue of the American magazine SCULPTURE, one of the world's most relevant publications on that field.

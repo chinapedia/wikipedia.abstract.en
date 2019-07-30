@@ -1,1 +1,0 @@
-_AQUASHOW DECONSTRUCTED_ was the re-recording by singer-songwriter Elliott Murphy of the ten songs off his 1973 album _Aquashow_ in a Paris studio, produced, arranged and mixed by his son Gaspard Murphy who had previously produced French pop band Superbus.

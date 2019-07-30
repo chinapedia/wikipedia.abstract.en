@@ -1,1 +1,0 @@
-_HANNAH: FROM DACHAU TO THE OLYMPICS AND BEYOND_ is a Holocaust biography written by Jean Goodwin Messinger about Hannah Pence. The book gained notoriety when it was revealed that the entire story had been fabricated by Pence.

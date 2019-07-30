@@ -1,1 +1,0 @@
-The PRIX SAINTE-BEUVE, established in 1946, is a French literary prize awarded each year to a writer in the categories "novels" (or "poetry") and "essays" (or "critics"); it is named after the writer Charles-Augustin Sainte-Beuve. The founding jury included Raymond Aron, Maurice Blanchot, , Maurice Nadeau, Jean Paulhan and Raymond Queneau.[1]

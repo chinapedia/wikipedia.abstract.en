@@ -1,1 +1,0 @@
-ISAIAH 41 is the forty-first chapter of the Book of Isaiah in the Hebrew Bible or the Old Testament of the Christian Bible and the second chapter of the section known as "Deutero-Isaiah" (Isaiah 40-55), dating from the time of the Israelites' exile in Babylon. This book contains the prophecies attributed to the prophet Isaiah, and is one of the Books of the Prophets.

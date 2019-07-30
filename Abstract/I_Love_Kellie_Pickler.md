@@ -1,1 +1,0 @@
-_I LOVE KELLIE PICKLER_ is an American reality television series starring Kellie Pickler. The series premiered on November 6, 2015, on CMT.[1][2] The series was not included on CMT's summer 2018 programming slate, thus rendering it canceled.[3]

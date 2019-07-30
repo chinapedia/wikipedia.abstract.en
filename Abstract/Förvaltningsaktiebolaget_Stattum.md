@@ -1,1 +1,0 @@
-FÖRVALTNINGSAKTIEBOLAGET STATTUM, a Swedish government holding company that can be characterized as a National Wealth Fund. It was set up in 1991, to manage the listed shareholdings of the Swedish government, following the dismantling of Fortia AB and Statsföretag. Shareholdings included Celsius Industrier AB, AssiDomän, SSAB, and Pharmacia & Upjohn.[1]

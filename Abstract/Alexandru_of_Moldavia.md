@@ -1,1 +1,0 @@
-ALEXANDRU (died on 26 July 1496) was the first-born son of Stephen III of Moldavia and his heir apparent. He participated in his father's fights against the Ottoman Empire and Wallachia from the late 1470s. He had his own court in Bacău from the early 1480s. He was made Stephen III's co-ruler in or before 1490. He predeceased his father.

@@ -1,1 +1,0 @@
-CHRISSY STEELE was the stage name of CHRISTINA SOUTHERN,[1] a Canadian rock singer active in the 1980s and 1990s.[2] She is most noted for garnering a Juno Award nomination for Most Promising Female Vocalist at the Juno Awards of 1992.[3]

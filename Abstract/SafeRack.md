@@ -1,1 +1,0 @@
-SAFERACK is an American company that manufactures industrial safety products for truck, railcar and industrial loading applications. Its products include access gangways, fall protection systems, loading arms, safety cages and loading rack products.

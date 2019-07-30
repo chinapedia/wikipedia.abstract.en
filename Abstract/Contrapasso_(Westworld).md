@@ -1,1 +1,0 @@
-"CONTRAPASSO" is the fifth episode of the HBO science fiction thriller television series _Westworld_. The episode aired on October 30, 2016. The title makes reference to one of the few rules in Dante's Inferno; contrapasso is the idea that every sinner must have an equal and fitting punishment.[1]

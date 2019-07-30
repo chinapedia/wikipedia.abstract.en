@@ -1,1 +1,0 @@
-EDEN PHILLPOTTS (4 November 1862 – 29 December 1960) was an English author, poet and dramatist. He was born in Mount Abu, India, was educated in Plymouth, Devon, and worked as an insurance officer for 10 years before studying for the stage and eventually becoming a writer.[1]

@@ -1,4 +1,4 @@
-Mezuzah_IMG_2124.JPG The SAMARITAN RELIGION, also known as SAMARITANISM, is the national religion[1] of the Samaritans.[2][3][4][5][6][7][8][9] The Samaritans adhere to the Samaritan Torah, which they believe is the original, unchanged Torah,[10] as opposed to the Torah used by Jews. In addition to the Samaritan Torah, Samaritans also revere their version of the Book of Joshua and recognize some Biblical figures, such as Eli.
+The SAMARITAN RELIGION, also known as SAMARITANISM, is the national religion[1] of the Samaritans.[2][3][4][5][6][7][8][9] The Samaritans adhere to the Samaritan Torah, which they believe is the original, unchanged Torah,[10] as opposed to the Torah used by Jews. In addition to the Samaritan Torah, Samaritans also revere their version of the Book of Joshua and recognize some Biblical figures, such as Eli.
 
 Samaritanism is internally described as the religion that began with Moses, unchanged over the millennia that have since passed. Samaritans believe Judaism and the Jewish Torah have been corrupted by time and no longer serve the duties God mandated on Mount Sinai. Jews view the Temple Mount as the most sacred location in their faith, but Samaritans regard Mount Gerizim as their holiest site.
 
@@ -41,9 +41,9 @@ File:Samaritans.jpg%7CSamaritans, from a photo c. 1900 by the Palestine Explorat
 
 Religious texts
 
-Shma_yisrael.png" written in Samaritan Hebrew calligraphy]] Samaritan law differs from Halakha (Rabbinic Jewish law) and other Jewish movements. The Samaritans have several groups of religious texts, which correspond to Jewish Halakha. A few examples of such texts are:
+" written in Samaritan Hebrew calligraphy]] Samaritan law differs from Halakha (Rabbinic Jewish law) and other Jewish movements. The Samaritans have several groups of religious texts, which correspond to Jewish Halakha. A few examples of such texts are:
 
-Samaritan_High_Priest_and_Old_Pentateuch,_1905.png Yaakov ben Aharon and the Abisha Scroll, 1905]]
+Yaakov ben Aharon and the Abisha Scroll, 1905]]
 
 -   SAMARITAN PENTATEUCH: There are some 6,000 differences between the Samaritan Pentateuch and the Masoretic Jewish Pentateuch text; and, according to one estimate, 1,900 points of agreement between it and the Greek LXX version. Several passages in the New Testament would also appear to echo a Torah textual tradition not dissimilar to that conserved in the Samaritan text. There are several theories regarding the similarities. The variations, some corroborated by readings in the Old Latin, Syriac and Ethiopian translations, attest to the antiquity of the Samaritan text,[22][23][24] although the exact date of composition is still largely unclear. Granted special attention is the so-called "Abisha Scroll", a manuscript of the Pentateuch tradition attributed to Abishua, grandson of Aaron, traditionally compiled during the Bronze Age. However, testing on the scroll revealed it was created no earlier than the 14th century CE, in fact around a century younger than the world's oldest Torah scroll.
 -   HISTORICAL WRITINGS

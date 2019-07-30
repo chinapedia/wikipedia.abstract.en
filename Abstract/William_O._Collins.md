@@ -1,1 +1,0 @@
-WILLIAM OLIVER COLLINS (August 23, 1809 – October 26, 1880) was a Union Army officer who served in the cavalry during the Civil War and in the American West. He was the namesake for Fort Collins, Colorado.[1]

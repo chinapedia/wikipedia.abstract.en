@@ -1,1 +1,0 @@
-LANDON ANTHONY "LANDO" VANNATA[1] (; born March 14, 1992) is an American professional mixed martial artist currently competing in the Lightweight division of the Ultimate Fighting Championship.[2] A professional competitor since 2012, he has formerly competed for the RFA and Pancrase.

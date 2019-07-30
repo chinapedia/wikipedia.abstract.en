@@ -1,1 +1,0 @@
-Li_ting_better.jpg

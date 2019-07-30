@@ -37,7 +37,7 @@ In 2359, he became briefly involved with K'Ehleyr who was the daughter of a Klin
 
 _The Next Generation_
 
-Michael_Dorn_by_Gage_Skidmore_2.jpg portrayed Worf.]] In 2364, Worf was assigned to the USS _Enterprise_-D as relief flight control and tactical officer with the rank of lieutenant junior grade (_TNG_: "Encounter at Farpoint"). The next year, he was made Acting Chief of Security following the death of Tasha Yar, even though he believed that a promotion due to the death of a comrade was not honorable (_TNG_: "Skin of Evil"). The next year, he transferred to operations division and was formally made Chief of Security (_TNG_: "The Child").
+portrayed Worf.]] In 2364, Worf was assigned to the USS _Enterprise_-D as relief flight control and tactical officer with the rank of lieutenant junior grade (_TNG_: "Encounter at Farpoint"). The next year, he was made Acting Chief of Security following the death of Tasha Yar, even though he believed that a promotion due to the death of a comrade was not honorable (_TNG_: "Skin of Evil"). The next year, he transferred to operations division and was formally made Chief of Security (_TNG_: "The Child").
 
 In 2365, he renewed his relationship with K'Ehleyr when she came aboard the _Enterprise_ as a Federation emissary on an urgent mission. He proposed marriage but was rejected (_TNG_: "The Emissary").
 

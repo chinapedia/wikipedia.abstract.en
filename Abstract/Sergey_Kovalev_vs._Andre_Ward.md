@@ -1,1 +1,0 @@
-SERGEY KOVALEV vs. ANDRE WARD, billed as POUND FOR POUND, was a highly anticipated professional boxing superfight for the unified WBA, IBF, and WBO light heavyweight titles. The bout was held on November 19, 2016, at the T-Mobile Arena in Las Vegas, Nevada. The event was televised on HBO Pay-per-view.[1] Ward won the fight by unanimous decision to take the titles.[2][3]

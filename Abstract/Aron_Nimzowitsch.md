@@ -1,1 +1,0 @@
-ARON NIMZOWITSCH (, , _Aron Isayevich Nimtsovich_; born ARON NIEMZOWITSCH;[1] 7 November 1886 – 16 March 1935) was a Russian-born, Danish leading chess grandmaster[2] and influential chess writer. He was the foremost figure amongst the hypermoderns.

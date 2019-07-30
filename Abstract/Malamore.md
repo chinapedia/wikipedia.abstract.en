@@ -1,1 +1,0 @@
-_MALAMORE_ is a 1982 Italian melodrama film co-written and directed by Eriprando Visconti and starring Nathalie Nell and Jimmy Briscoe. It was Visconti's last film. It premiered at the 39th edition of the Venice International Film Festival in the De Sica section.[1]

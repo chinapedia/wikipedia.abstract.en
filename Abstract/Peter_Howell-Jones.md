@@ -1,1 +1,0 @@
-PETER HOWELL-JONES (born 1962) is a British Anglican priest. He has been the Dean of Blackburn since his installation at Blackburn Cathedral on 25 March 2017. He was previously vice-dean and a residentiary canon of Chester Cathedral since 2011.

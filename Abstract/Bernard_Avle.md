@@ -1,1 +1,0 @@
-BERNARD KOKU AVLE also known as BERNARDINO KOKU AVLE (born 20 May 1981) is a Ghanaian media personality, broadcast journalist, public speaker. He is the current host of Citi FM's morning show _The_ _Citi Breakfast Show_[1][2] and the host of the _Point Of View Show_ on Citi TV. He also moderates and facilitates local and international conferences occasionally.[3]

@@ -1,1 +1,0 @@
-_ASPARAGUS SQUARROSUS_ is a species of flowering plant in the _Asparagaceae_ family. The species is endemic to Cape Verde.[1] The species was named by Johann Anton Schmidt in 1853. Its local name is _espargo_. The plant is used in traditional medicine.[2]

@@ -1,1 +1,0 @@
-Nielsen_Pool_House_-_Front_PNG.png

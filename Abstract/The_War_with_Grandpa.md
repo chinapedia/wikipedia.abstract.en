@@ -1,1 +1,0 @@
-_THE WAR WITH GRANDPA_ is an upcoming American family comedy film directed by Tim Hill and starring Robert De Niro, Christopher Walken, and Oakes Fegley. It was based on the novel of the same name by Robert Kimmel Smith.

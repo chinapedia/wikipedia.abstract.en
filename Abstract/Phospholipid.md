@@ -1,1 +1,0 @@
-Phospholipid_TvanBrussel.edit.jpg Phospholipid_Chemicalmakeup.png Phosphatidyl-Choline.svg is the major component of lecithin. It is also a source for choline in the synthesis of acetylcholine in cholinergic neurons.]]

@@ -1,1 +1,0 @@
-The 1993 FIBA EUROPE UNDER-16 CHAMPIONSHIP FOR WOMEN (known at that time as 1993 EUROPEAN CHAMPIONSHIP FOR CADETTES) was the tenth edition of the FIBA Europe Under-16 Championship for Women. 12 teams featured in the competition, held in Poprad, Slovakia, from 17 to 25 July 1993.

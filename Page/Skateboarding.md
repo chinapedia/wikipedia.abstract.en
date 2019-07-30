@@ -7,7 +7,7 @@ History
 
 1940s–1960s
 
-BackSmithGrind.jpg, Oregon]] The first skateboards started with wooden boxes, or boards, with roller skate wheels attached to the bottom. Crate scooters preceded skateboards, having a wooden crate attached to the nose (front of the board), which formed rudimentary handlebars.[6][7][8] The boxes turned into planks, similar to the skateboard decks of today.[9]
+, Oregon]] The first skateboards started with wooden boxes, or boards, with roller skate wheels attached to the bottom. Crate scooters preceded skateboards, having a wooden crate attached to the nose (front of the board), which formed rudimentary handlebars.[6][7][8] The boxes turned into planks, similar to the skateboard decks of today.[9]
 
 Skateboarding, as we know it, was probably born sometime in the late 1940s, or early 1950s, when surfers in California wanted something to do when the waves were flat. This was called "sidewalk surfing" – a new wave of surfing on the sidewalk as the sport of surfing became highly popular. No one knows who made the first board; it seems that several people came up with similar ideas at around the same time. The first manufactured skateboards were ordered by a Los Angeles, California surf shop, meant to be used by surfers in their downtime. The shop owner, Bill Richard, made a deal with the Chicago Roller Skate Company to produce sets of skate wheels, which they attached to square wooden boards. Accordingly, skateboarding was originally denoted "sidewalk surfing" and early skaters emulated surfing style and maneuvers, and performed barefoot.[10][11][12]
 
@@ -23,7 +23,7 @@ The growth of the sport during this period can also be seen in sales figures for
 
 1970s
 
-Freeride_Skateboarding_&_Downhill_Slides.webm 1_bowl_skate_boarding.JPG In the early 1970s, Frank Nasworthy started to develop a skateboard wheel made of polyurethane, calling his company Cadillac Wheels.[30] Prior to this new material, skateboards wheels were metal or "clay" wheels. The improvement in traction and performance was so immense that from the wheel's release in 1972 the popularity of skateboarding started to rise rapidly again, causing companies to invest more in product development. Nasworthy commissioned artist Jim Evans to do a series of paintings promoting Cadillac Wheels, they were featured as ads and posters in the resurrected Skateboarder magazine, and proved immensely popular in promoting the new style of skateboarding.
+In the early 1970s, Frank Nasworthy started to develop a skateboard wheel made of polyurethane, calling his company Cadillac Wheels.[30] Prior to this new material, skateboards wheels were metal or "clay" wheels. The improvement in traction and performance was so immense that from the wheel's release in 1972 the popularity of skateboarding started to rise rapidly again, causing companies to invest more in product development. Nasworthy commissioned artist Jim Evans to do a series of paintings promoting Cadillac Wheels, they were featured as ads and posters in the resurrected Skateboarder magazine, and proved immensely popular in promoting the new style of skateboarding.
 
 In the early 1970s skateparks hadn't been invented yet, so skateboarders would flock and skateboard in such urban places as The Escondido reservoir in San Diego, California. Skateboarding magazine would publish the location and Skateboarders made up nicknames for each location such as the Tea Bowl, the Fruit Bowl, Bellagio, the Rabbit Hole, Bird Bath, the Egg Bowl, Upland Pool and the Sewer Slide. Some of the development concepts in the terrain of skateparks were actually taken from the Escondido reservoir.[31][32][33] Many companies started to manufacture trucks (axles) specially designed for skateboarding, reached in 1976 by Tracker Trucks. As the equipment became more maneuverable, the decks started to get wider, reaching widths of and over, thus giving the skateboarder even more control. A banana board is a skinny, flexible skateboard made of polypropylene with ribs on the underside for structural support. These were very popular during the mid-1970s and were available in a myriad of colors, bright yellow probably being the most memorable, hence the name.
 
@@ -41,7 +41,7 @@ As a result of the "vert" skating movement, skate parks had to contend with high
 
 1980s
 
-Merza.jpg in Kabul, Afghanistan]] This period was fueled by skateboard companies that were run by skateboarders. The focus was initially on vert ramp skateboarding. The invention of the no-hands aerial (later known as the ollie) by Alan Gelfand in Florida in 1976,[48] and the almost parallel development of the grabbed aerial by George Orton and Tony Alva in California, made it possible for skaters to perform airs on vertical ramps. While this wave of skateboarding was sparked by commercialized vert ramp skating, a majority of people who skateboarded during this period didn't ride vert ramps. As most people could not afford to build vert ramps, or did not have access to nearby ramps, street skating increased in popularity.
+in Kabul, Afghanistan]] This period was fueled by skateboard companies that were run by skateboarders. The focus was initially on vert ramp skateboarding. The invention of the no-hands aerial (later known as the ollie) by Alan Gelfand in Florida in 1976,[48] and the almost parallel development of the grabbed aerial by George Orton and Tony Alva in California, made it possible for skaters to perform airs on vertical ramps. While this wave of skateboarding was sparked by commercialized vert ramp skating, a majority of people who skateboarded during this period didn't ride vert ramps. As most people could not afford to build vert ramps, or did not have access to nearby ramps, street skating increased in popularity.
 
 Freestyle skating remained healthy throughout this period, with pioneers such as Rodney Mullen inventing many of the basic tricks that would become the foundation of modern street skating, such as the "Impossible" and the "kickflip". The influence that freestyle exerted upon street skating became apparent during the mid-1980s; however, street skating was still performed on wide vert boards with short noses, slide rails, and large soft wheels. In response to the tensions created by this confluence of skateboarding "genres", a rapid evolution occurred in the late 1980s to accommodate the street skater. Since few skateparks were available to skaters at this time, street skating pushed skaters to seek out shopping centers and public and private property as their "spot" to skate. (Public opposition, in which businesses, governments, and property owners have banned skateboarding on properties under their jurisdiction or ownership, would progressively intensify over the following decades.)[49][50] By 1992, only a small fraction of skateboarders continuing to take part in a highly technical version of street skating, combined with the decline of vert skating, produced a sport that lacked the mainstream appeal to attract new skaters.
 
@@ -53,7 +53,7 @@ Skateboarding during the 1990s became dominated by street skateboarding. Most bo
 
 2000–present
 
-Bad-mama-jamas_0049.jpg]] By 2001 skateboarding had gained so much popularity that more people under the age of 18 rode skateboards (10.6 million) than played baseball (8.2 million), although traditional organized team sports still dominated youth programs overall.[54] Skateboarding and skateparks began to be viewed and used in a variety of new ways to complement academic lessons in schools, including new non-traditional physical education skateboarding programs, like Skatepass[55] and Skateistan,[56] to encourage youth to have better attendance, self-discipline and confidence.[57][58][59] This was also based on the healthy physical opportunities skateboarding was understood to bring participants for muscle & bone strengthening and balance, as well as the positive impacts it can have on youth in teaching them mutual respect, social networking, artistic expression and an appreciation of the environment.[60][61][62][63]
+]] By 2001 skateboarding had gained so much popularity that more people under the age of 18 rode skateboards (10.6 million) than played baseball (8.2 million), although traditional organized team sports still dominated youth programs overall.[54] Skateboarding and skateparks began to be viewed and used in a variety of new ways to complement academic lessons in schools, including new non-traditional physical education skateboarding programs, like Skatepass[55] and Skateistan,[56] to encourage youth to have better attendance, self-discipline and confidence.[57][58][59] This was also based on the healthy physical opportunities skateboarding was understood to bring participants for muscle & bone strengthening and balance, as well as the positive impacts it can have on youth in teaching them mutual respect, social networking, artistic expression and an appreciation of the environment.[60][61][62][63]
 
 In 2003 Go Skateboarding Day was founded in southern California by the International Association of Skateboard Companies[64] to promote skateboarding throughout the world. It is celebrated annually on June 21 "to define skateboarding as the rebellious, creative celebration of independence it continues to be."[65][66][67][68][69] According to market research firm American Sports Data the number of skateboarders worldwide increased by more than 60 percent between 1999 and 2002—from 7.8 million to 12.5 million.[70]
 
@@ -67,12 +67,12 @@ By raising £790,000, the Long Live Southbank[81] initiative managed in 2017 to 
 
 Recently, barefoot skating has been experiencing a revival. Many skaters ride barefoot, particularly in summer and in warmer countries, such as South Africa, Australia, Spain and South America. The plastic penny board is intended to be ridden barefoot, as is the surfboard-inspired hamboard.
 
-In the 2010s, electric skateboards became popular, along with self-balancing unicycles in a board format. Skaters_await_their_turn_during_the_best_trick_contest.jpg, 2019]]
+In the 2010s, electric skateboards became popular, along with self-balancing unicycles in a board format. , 2019]]
 
 
 Trick skating
 
-Kickflip1.jpg off a stairset.]]
+off a stairset.]]
 
 With the evolution of skateparks and ramp skating, the skateboard began to change. Early skate tricks had consisted mainly of two-dimensional freestyle manoeuvres like riding on only two wheels ("wheelie" or "manual"), spinning only on the back wheels (a "pivot"), high jumping over a bar and landing on the board again, also known as a "hippie jump", long jumping from one board to another, (often over small barrels or fearless teenagers), or slalom. Another popular trick was the Bertlemann slide, named after Larry Bertelemann's surfing manoeuvres.
 
@@ -140,8 +140,6 @@ The use, ownership and sale of skateboards were forbidden in Norway from 1978 to
 
 
 Other uses and styles
-
-USMC_with_a_skateboard.jpg
 
 Transportation
 

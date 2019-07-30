@@ -1,1 +1,0 @@
-NINA CHANEL ABNEY (born 1982) is an American artist, based in New York. She was born in Chicago, Illinois.[1] She is an African American contemporary artist and painter who explores race, gender, pop culture, homophobia and politics in her work.

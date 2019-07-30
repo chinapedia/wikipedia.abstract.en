@@ -1,1 +1,0 @@
-The 1918 ALABAMA GUBERNATORIAL ELECTION took place on November 2, 1918, to elect the Governor of Alabama. Democratic incumbent Charles Henderson was term-limited, and could not seek a second consecutive term.

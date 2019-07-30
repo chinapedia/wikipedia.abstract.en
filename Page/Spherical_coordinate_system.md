@@ -1,8 +1,6 @@
-3D_Spherical.svg convention): radial distance , polar angle (theta), and azimuthal angle (phi). The symbol (rho) is often used instead of .]]
+convention): radial distance , polar angle (theta), and azimuthal angle (phi). The symbol (rho) is often used instead of .]]
 
-3D_Spherical_2.svg
-
-Spherical_coordinate_system.svg. In this image, equals 4/6, equals 90°, and equals 30°.]]
+. In this image, equals 4/6, equals 90°, and equals 30°.]]
 
 In mathematics, a SPHERICAL COORDINATE SYSTEM is a coordinate system for three-dimensional space where the position of a point is specified by three numbers: the _radial distance_ of that point from a fixed origin, its _polar angle_ measured from a fixed zenith direction, and the _azimuth angle_ of its orthogonal projection on a reference plane that passes through the origin and is orthogonal to the zenith, measured from a fixed reference direction on that plane. It can be seen as the three-dimensional version of the polar coordinate system.
 

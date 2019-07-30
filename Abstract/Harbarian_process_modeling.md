@@ -1,1 +1,0 @@
-Sample_HPM_Process_Diagram.png

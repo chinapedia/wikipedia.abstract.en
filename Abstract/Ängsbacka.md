@@ -1,1 +1,0 @@
-Angsbacka_association.jpg

@@ -1,1 +1,0 @@
-SIR FREDERICK GEORGE THOMAS HOLLIDAY, (22 September 1935 – 5 September 2016) was a British marine biologist, academic, academic administrator, and businessman. He was Acting Principal of the University of Stirling from 1973 to 1975, Vice-Chancellor and Warden of Durham University from 1980 to 1990, and Chair of Northumbrian Water from 1993 to 2006.

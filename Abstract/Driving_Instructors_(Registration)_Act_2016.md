@@ -1,1 +1,0 @@
-The DRIVING INSTRUCTORS (REGISTRATION) ACT 2016 is an Act of the Parliament of the United Kingdom that amends certain sections of the Road Traffic Act 1988, in respect of the registration of driving instructors.

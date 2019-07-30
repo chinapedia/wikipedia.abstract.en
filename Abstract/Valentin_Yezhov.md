@@ -1,1 +1,0 @@
-VALENTIN IVANOVICH YEZHOV, alternatively spelled EZHOV, () (21 January 1921 Samara — 8 May 2004 Moscow) was a Soviet and Russian screenwriter, playwright, writer and professor at VGIK.[1] Honored Artist of the Russian SFSR (1976). Recipient of the Lenin Prize (1961) and the State Prize of the Russian Federation (1997).

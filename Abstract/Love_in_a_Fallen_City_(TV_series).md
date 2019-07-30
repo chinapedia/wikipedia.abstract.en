@@ -1,1 +1,0 @@
-loveinafallencitytv.jpg _LOVE IN A FALLEN CITY_ is a 2009 Chinese television series based on Eileen Chang's 1943 novella of the same name. The series was directed by Mengji and produced by Zou Jingzhi, who also wrote the adapted screenplay.

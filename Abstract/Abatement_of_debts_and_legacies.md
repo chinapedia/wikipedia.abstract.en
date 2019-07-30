@@ -1,1 +1,0 @@
-ABATEMENT OF DEBTS AND LEGACIES is a common law doctrine of wills that holds that when the equitable assets of a deceased person are not sufficient to satisfy fully all the creditors, their debts must abate proportionately, and they must accept a dividend.[1]

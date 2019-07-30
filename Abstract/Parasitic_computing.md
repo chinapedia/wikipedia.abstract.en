@@ -1,1 +1,0 @@
-PARASITIC COMPUTING is programming technique where a program in normal authorized interactions with another program manages to get the other program to perform computations of a complex nature. It is, in a sense, a security exploit in that the program implementing the parasitic computing has no authority to consume resources made available to the other program.

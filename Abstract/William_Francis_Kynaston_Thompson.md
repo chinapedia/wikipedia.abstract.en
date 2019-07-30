@@ -1,1 +1,0 @@
-WILLIAM FRANCIS KYNASTON "SHERIFF" THOMPSON OBE (12 November 1909 – 6 June 1980) was a British soldier and journalist. Born in Greenwich, London in 1909 Thompson served in the army for 30 years before becoming the defence correspondent of the _Daily Telegraph_.

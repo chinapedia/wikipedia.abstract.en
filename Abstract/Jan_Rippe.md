@@ -1,1 +1,0 @@
-JAN TORBJÖRN RIPPE (born 26 April 1955) is a Swedish actor, singer, and comedian. He is known as a member of the comedic groups Galenskaparna and After Shave.[1] He also had a role in the comedy series _Macken_.

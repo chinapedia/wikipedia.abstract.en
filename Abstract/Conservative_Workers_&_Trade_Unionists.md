@@ -1,1 +1,0 @@
-The CONSERVATIVE WORKERS & TRADE UNIONISTS (CWTU) is an organisation part of the Conservative Party[1][2][3] in the United Kingdom which aims at reaching out to support working people and trade unionists.[4][5] It is focused on improving employment rights, tackling low pay, raising productivity and supporting greater employment satisfaction.

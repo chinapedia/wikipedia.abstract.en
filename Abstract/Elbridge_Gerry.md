@@ -1,1 +1,0 @@
-ELBRIDGE GERRY (; July 17, 1744 (O.S. July 6, 1744) – November 23, 1814) was an American politician and diplomat. As a Democratic-Republican he served as the fifth vice president of the United States under President James Madison from March 1813 until his death in November 1814. He is known best for being the eponym of gerrymandering.

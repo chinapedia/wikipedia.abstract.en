@@ -1,1 +1,0 @@
-Parapsychology is a field of research that studies a number of ostensible paranormal phenomena, including telepathy, precognition, clairvoyance, psychokinesis, near-death experiences, reincarnation, and apparitional experiences.

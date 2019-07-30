@@ -1,1 +1,0 @@
-BATTLE OF VARKAUS was a battle of the 1918 Finnish Civil War, fought 19–21 February between the Whites and the Reds in Varkaus, Leppävirta. The victory was important for the Whites, all of Northern Finland was now under their control. The battle is best known of its bloody aftermath as the Whites executed up to 180 surrendered Reds.[1]

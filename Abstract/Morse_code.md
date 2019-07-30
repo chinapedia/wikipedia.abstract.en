@@ -1,1 +1,0 @@
-International_Morse_Code.svg MORSE CODE is a character encoding scheme used in telecommunication that encodes text characters as standardized sequences of two different signal durations called _dots_ and _dashes_ or _dits_ and _dahs_.[1][2] Morse code is named for Samuel F. B. Morse, an inventor of the telegraph.

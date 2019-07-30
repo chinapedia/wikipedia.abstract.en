@@ -1,1 +1,0 @@
-The RHODA AND BERNARD SARNAT INTERNATIONAL PRIZE IN MENTAL HEALTH was established in 1992 and is awarded annually by the National Academy of Medicine in the United States to recognize individuals, groups, or organizations for outstanding achievement in improving mental health. It is accompanied by a medal and $20,000.[1]

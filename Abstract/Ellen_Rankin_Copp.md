@@ -1,1 +1,0 @@
-EllenHughRankinCopp.tif ELLEN RANKIN COPP (August 4, 1853 – August 8, 1901), also called ELLEN or HELEN HOUSER RANKIN, was an American sculptor. Her works were featured at the World's Columbian Exposition in Chicago in 1893.

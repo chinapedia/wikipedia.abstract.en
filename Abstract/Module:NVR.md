@@ -1,1 +1,0 @@
---This module generates links to ships in the Naval Vessel Register (nvr.navy.mil) database. It is used by Template:NVR_url and Template:NVR_SC_url Please do not modify this code without applying the changes first at Module:NVR/sandbox and testing at Module:NVR/sandbox/testcases and Module talk:NVR/sandbox/testcases. Authors and maintainers: * User:RP88

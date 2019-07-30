@@ -1,1 +1,0 @@
-A TOXIN is a poisonous substance produced within living cells or organisms;[1][2] synthetic toxicants created by artificial processes are thus excluded. The term was first used by organic chemist Ludwig Brieger (1849–1919),[3] derived from the word toxic.[4]

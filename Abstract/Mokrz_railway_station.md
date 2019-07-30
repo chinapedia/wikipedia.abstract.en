@@ -1,1 +1,0 @@
-MOKRZ RAILWAY STATION is a railway station serving the village of Mokrz, in the Greater Poland Voivodeship, Poland. The station is located on the Poznań–Szczecin railway. The train services are operated by Przewozy Regionalne.

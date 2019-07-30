@@ -1,1 +1,0 @@
-_MILIONIA QUEENSLANDICA_ is a species of moth in the family Geometridae first described by Karl Jordan and Walter Rothschild in 1895. It is found in Australia, where it has been recorded from Queensland.[1]

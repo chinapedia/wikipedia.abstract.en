@@ -1,1 +1,0 @@
-ALEX STENZEL (born 1965) is a German-American artist and former fashion designer who is known for a new style of abstract overpainted photographs and innovative designs in architecture, fashion and product design.[1][2][3]

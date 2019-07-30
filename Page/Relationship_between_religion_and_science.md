@@ -44,7 +44,7 @@ Prominent modern scientists who are atheists include evolutionary biologist Rich
 
 Perspectives
 
-Dawkins_aaconf.jpg, "Not only is science corrosive to religion; religion is corrosive to science. It teaches people to be satisfied with trivial, supernatural non-explanations and blinds them to the wonderful real explanations that we have within our grasp. It teaches them to accept authority, revelation and faith instead of always insisting on evidence."[55]]]
+, "Not only is science corrosive to religion; religion is corrosive to science. It teaches people to be satisfied with trivial, supernatural non-explanations and blinds them to the wonderful real explanations that we have within our grasp. It teaches them to accept authority, revelation and faith instead of always insisting on evidence."[55]]]
 
 The kinds of interactions that might arise between science and religion have been categorized by theologian, Anglican priest, and physicist John Polkinghorne: (1) conflict between the disciplines, (2) independence of the disciplines, (3) dialogue between the disciplines where they overlap and (4) integration of both into one field.[56]
 
@@ -98,7 +98,7 @@ Two physicists, Charles A. Coulson and Harold K. Schilling, both claimed that "t
 
 Dialogue
 
-Studying_astronomy_and_geometry.jpg studying astronomy and geometry (France, early 15th century).]]
+studying astronomy and geometry (France, early 15th century).]]
 
 The _religion and science community_ consists of those scholars who involve themselves with what has been called the "religion-and-science dialogue" or the "religion-and-science field."[114][115] The community belongs to neither the scientific nor the religious community, but is said to be a third overlapping community of interested and involved scientists, priests, clergymen, theologians and engaged non-professionals.[116] Institutions interested in the intersection between science and religion include the Center for Theology and the Natural Sciences, the Institute on Religion in an Age of Science, the Ian Ramsey Centre,[117] and the Faraday Institute. Journals addressing the relationship between science and religion include _Theology and Science_ and _Zygon_. Eugenie Scott has written that the "science and religion" movement is, overall, composed mainly of theists who have a healthy respect for science and may be beneficial to the public understanding of science. She contends that the "Christian scholarship" movement is not a problem for science, but that the "Theistic science" movement, which proposes abandoning methodological materialism, does cause problems in understanding of the nature of science.[118] The Gifford Lectures were established in 1885 to further the discussion between "natural theology" and the scientific community. This annual series continues and has included William James, John Dewey, Carl Sagan, and many other professors from various fields.[119]
 
@@ -183,7 +183,7 @@ Tenzin Gyatso, the 14th Dalai Lama, maintains that empirical scientific evidence
 
 Christianity
 
-Tiffany_Education_(center).JPG window _Education_ (1890).]] Francis_Collins_official_photo.jpg.]]
+window _Education_ (1890).]] .]]
 
 Among early Christian teachers, Tertullian (c. 160–220) held a generally negative opinion of Greek philosophy, while Origen (c. 185–254) regarded it much more favorably and required his students to read nearly every work available to them.[137]
 
@@ -215,7 +215,7 @@ Galileo once stated "The intention of the Holy Spirit is to teach us how to go t
 
 Influence of a biblical worldview on early modern science
 
-Gossuin_de_Metz_-_L'image_du_monde_-_BNF_Fr._574_fo42_-_miniature.jpg in a 13th-century copy of _L'Image du monde_ (c. 1246)]] According to Andrew Dickson White's _A History of the Warfare of Science with Theology in Christendom_ from the 19th century, a biblical world view affected negatively the progress of science through time. Dickinson also argues that immediately following the Reformation matters were even worse. The interpretations of Scripture by Luther and Calvin became as sacred to their followers as the Scripture itself. For instance, when Georg Calixtus ventured, in interpreting the Psalms, to question the accepted belief that "the waters above the heavens" were contained in a vast receptacle upheld by a solid vault, he was bitterly denounced as heretical.[169] Today, much of the scholarship in which the conflict thesis was originally based is considered to be inaccurate. For instance, the claim that early Christians rejected scientific findings by the Greco-Romans is false, since the "handmaiden" view of secular studies was seen to shed light on theology. This view was widely adapted throughout the early medieval period and afterwards by theologians (such as Augustine) and ultimately resulted in fostering interest in knowledge about nature through time.[170] Also, the claim that people of the Middle Ages widely believed that the Earth was flat was first propagated in the same period that originated the conflict thesis[171] and is still very common in popular culture. Modern scholars regard this claim as mistaken, as the contemporary historians of science David C. Lindberg and Ronald L. Numbers write: "there was scarcely a Christian scholar of the Middle Ages who did not acknowledge [earth's] sphericity and even know its approximate circumference."[172][173] From the fall of Rome to the time of Columbus, all major scholars and many vernacular writers interested in the physical shape of the earth held a spherical view with the exception of Lactantius and Cosmas.[174]
+in a 13th-century copy of _L'Image du monde_ (c. 1246)]] According to Andrew Dickson White's _A History of the Warfare of Science with Theology in Christendom_ from the 19th century, a biblical world view affected negatively the progress of science through time. Dickinson also argues that immediately following the Reformation matters were even worse. The interpretations of Scripture by Luther and Calvin became as sacred to their followers as the Scripture itself. For instance, when Georg Calixtus ventured, in interpreting the Psalms, to question the accepted belief that "the waters above the heavens" were contained in a vast receptacle upheld by a solid vault, he was bitterly denounced as heretical.[169] Today, much of the scholarship in which the conflict thesis was originally based is considered to be inaccurate. For instance, the claim that early Christians rejected scientific findings by the Greco-Romans is false, since the "handmaiden" view of secular studies was seen to shed light on theology. This view was widely adapted throughout the early medieval period and afterwards by theologians (such as Augustine) and ultimately resulted in fostering interest in knowledge about nature through time.[170] Also, the claim that people of the Middle Ages widely believed that the Earth was flat was first propagated in the same period that originated the conflict thesis[171] and is still very common in popular culture. Modern scholars regard this claim as mistaken, as the contemporary historians of science David C. Lindberg and Ronald L. Numbers write: "there was scarcely a Christian scholar of the Middle Ages who did not acknowledge [earth's] sphericity and even know its approximate circumference."[172][173] From the fall of Rome to the time of Columbus, all major scholars and many vernacular writers interested in the physical shape of the earth held a spherical view with the exception of Lactantius and Cosmas.[174]
 
 H. Floris Cohen argued for a biblical Protestant, but not excluding Catholicism, influence on the early development of modern science.[175] He presented Dutch historian R. Hooykaas' argument that a biblical world-view holds all the necessary antidotes for the hubris of Greek rationalism: a respect for manual labour, leading to more experimentation and empiricism, and a supreme God that left nature open to emulation and manipulation.[176] It supports the idea early modern science rose due to a combination of Greek and biblical thought.[177][178]
 
@@ -279,8 +279,6 @@ Through the ages, Jain philosophers have adamantly rejected and opposed the conc
 Surveys on attitudes
 
 Scientists
-
-Religion_of_Nobel_Prize_winners_between_1901_and_2000.png
 
 Since 1901–2013, 22% of all Nobel prizes have been awarded to Jews despite them being less than 1% of the world population.[242]
 

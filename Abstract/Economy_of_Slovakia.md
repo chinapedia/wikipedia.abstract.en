@@ -1,1 +1,0 @@
-The ECONOMY OF SLOVAKIA is based upon Slovakia becoming an EU member state in 2004, and adopting the euro at the beginning of 2009. Its capital, Bratislava, is the largest financial centre in Slovakia. As of 2018 (1.Q.), the unemployment rate was 5.72%.[1]

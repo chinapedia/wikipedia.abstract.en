@@ -1,1 +1,0 @@
-Man of Steel |top_scorer = |top_scorer_link = |top goal scorer = |top goal scorer_link = |top try scorer = Greg Eden (Castleford Tigers) (38) |top try scorer_link = |promote = Hull KR |promote_from = Championship |relegate = Leigh Centurions |relegate_to = Championship |playoffs = Super League Play=offs (for top 8)

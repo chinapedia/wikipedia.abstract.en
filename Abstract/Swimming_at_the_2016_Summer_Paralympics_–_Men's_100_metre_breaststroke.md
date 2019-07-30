@@ -1,1 +1,0 @@
-The MEN'S 100 M BREASTSTROKE swimming events for the 2016 Summer Paralympics took place at the Olympic Aquatics Stadium from 8 to 17 September. A total of eleven events were contested for different classifications.

@@ -1,1 +1,0 @@
-TIMOTHY BOARDMAN (born May 23, 1996) is an American actor, singer, and dancer. He is best known for portraying Miles Walton in _Miles_,[1] John Ryan in _Madam Secretary_, and Dylan in _The Wilde Wedding_.

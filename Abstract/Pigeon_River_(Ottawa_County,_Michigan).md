@@ -1,1 +1,0 @@
-The PIGEON RIVER is a small river flowing to Lake Michigan on the western Lower Peninsula of the U.S. state of Michigan. The river is approximately long[1] and drains an area of [2] in a generally rural area situated between the cities of Holland and Grand Haven. Via Lake Michigan and the larger Great Lakes system, it is part of the watershed of the St. Lawrence River.

@@ -1,1 +1,0 @@
-APOLLINARISM or APOLLINARIANISM is a Christological concept proposed by Apollinaris of Laodicea (died 390) that argues that Jesus had a normal human body but a divine mind instead of a regular human soul. It was deemed heretical in 381 and virtually died out within the following decades.[1]

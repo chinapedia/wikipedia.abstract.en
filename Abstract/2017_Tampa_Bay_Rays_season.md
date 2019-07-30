@@ -1,1 +1,0 @@
-The TAMPA BAY RAYS 2017 SEASON was the Rays' 20th season of Major League Baseball, and the 10th as the "Rays" (all at Tropicana Field). Although they improved upon their record from last season, they still finished in third place in the American League East and did not make the playoffs.

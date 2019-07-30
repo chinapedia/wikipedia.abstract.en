@@ -1,1 +1,0 @@
-The CORPUS CHRISTI RAGE was a professional indoor football team and a charter member of the National Arena League (NAL) that began play in its inaugural 2017 season. Based in Corpus Christi, Texas, the Rage played their home games at the American Bank Center.

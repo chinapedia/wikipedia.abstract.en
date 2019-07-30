@@ -1,1 +1,0 @@
-_MONOCHAMUS NOTATUS_, the NORTHEASTERN PINE SAWYER or NOTABLE SAWYER, is a species of beetle in the family Cerambycidae. It was described by Dru Drury in 1773, originally under the genus _Cerambyx_. It is known from Canada and the United States.[1]

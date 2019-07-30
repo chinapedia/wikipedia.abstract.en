@@ -1,1 +1,0 @@
-MARGARET BALDERSON is an Australian novelist and writer for children who was born in Concord, New South Wales in 1935.[1] She won the 1969 Children's Book of the Year Award: Older Readers award for her debut novel _When Jays Fly to Barbmo_.[2]

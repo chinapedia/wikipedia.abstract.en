@@ -26,7 +26,7 @@ French and British colonisation and the First Carib War
 
 Various attempts by the English and Dutch to claim the island proved unsuccessful, and it was the French who were first able to colonise the island, settling in the town of Barrouallie on the Leeward side of St Vincent in 1719.[9] The French brought with them enslaved African prisoners of war to work the plantations of sugar, coffee, indigo, tobacco, cotton and cocoa.[10]
 
-SaintVincent_Carib_Treaty_Negotiation_1773.jpgs]] The British captured the island and drove out the French from Barrouallie during the Seven Years' War, a claim confirmed with the Treaty of Paris (1763).[11] On taking control of the island in 1763, the British laid the foundations of Fort Charlotte and also brought with them enslaved African prisoners of war to work on the island plantations. The Caribs however, opposed to the British presence, went into open conflict against the British, starting the First Carib War which lasted from 1772 to 1773.[12]
+s]] The British captured the island and drove out the French from Barrouallie during the Seven Years' War, a claim confirmed with the Treaty of Paris (1763).[11] On taking control of the island in 1763, the British laid the foundations of Fort Charlotte and also brought with them enslaved African prisoners of war to work on the island plantations. The Caribs however, opposed to the British presence, went into open conflict against the British, starting the First Carib War which lasted from 1772 to 1773.[12]
 
 During the Anglo-French War (1778–1783) the French re-captured St Vincent in 1779, however the British regained control under the Treaty of Versailles (1783).[13][14]
 
@@ -38,15 +38,13 @@ In 1806 the building of Fort Charlotte was completed.
 
 The La Soufriere volcano erupted in 1812, resulting in considerable destruction[17][18]
 
-Flag_of_Saint_Vincent_and_the_Grenadines_(1907-1979).svg
-
 The British abolished slavery in Saint Vincent (as well as in the other British West Indies colonies) in 1834, and an apprenticeship period followed which ended in 1838.[19][20] After its end, labour shortages on the plantations resulted, and this was initially addressed by the immigration of indentured servants; in the late 1840s many Portuguese immigrants arrived from Madeira and between 1861 and 1888 shiploads of Indian labourers arrived.[21] Conditions remained harsh for both former slaves and immigrant agricultural workers, as depressed world sugar prices kept the economy stagnant until the turn of the century. The economy then went into a period of decline with many landowners abandoning their estates and leaving the land to be cultivated by liberated slaves.
 
 The Opobo king Jaja of Nigeria was exiled to after his 1887 arrest by the British for shipping cargoes of palm oil directly to Liverpool without the intermediation of the National African Company.
 
 20th century
 
-Baking_bread_in_the_West_Indies.png (casava bread) in the 1910s]] In 1902, La Soufrière volcano erupted, killing 1,500-2,000 people; much farmland was damaged, and the economy deteriorated.[22][23][24]
+(casava bread) in the 1910s]] In 1902, La Soufrière volcano erupted, killing 1,500-2,000 people; much farmland was damaged, and the economy deteriorated.[22][23][24]
 
 Saint Vincent and the Grenadines passed through various stages of colonial status under the British. A representative assembly was authorised in 1776, Crown Colony government was installed in 1877, a legislative council was created in 1925 with a limited franchise[25], and universal adult suffrage was granted in 1951.[26] During the period of its control of Saint Vincent and the Grenadines, Britain made several attempts to unify the island with other Windward Islands as a single entity, with the aim of simplifying British control in the Anglo-Caribbean region through a single unified administration.[27] In the 1960s, the British again tried to unify all of its regional islands including Saint Vincent into one united single entity under British control, unified politically. The unification was to be called the West Indies Federation and was driven by a desire to gain independence from British government. However the attempt collapsed in 1962.[28]
 
@@ -58,7 +56,7 @@ On 27 October 1979 Saint Vincent and the Grenadines became the last of the Windw
 
 Post-independence era
 
-Sir_James_Mitchell_SVG.png Milton Cato of the centre-left Saint Vincent Labour Party (SVLP) was the country's first Prime Minister (he had been Premier since 1974), ruling until he was defeated in the 1984 Vincentian general election by James Fitz-Allen Mitchell of the centre-right New Democratic Party (NDP).[33] During Cato's time in office there was a brief rebellion on Union Island in December 1979 led by Lennox 'Bumba' Charles; apparently inspired by the recent revolution on Grenada, Charles alleged neglect of Union by the central government, however the revolt was swiftly put down and Charles arrested.[34][35] There were also a series of strikes in the early 1980s.[36] James Mitchell remained Prime Minister for 16 years until 2000, winning three consecutive elections.[37] Mitchell was at the forefront of attempts to improve regional integration.[38] In 1980 and 1987 hurricanes damaged many banana and coconut plantations. Hurricane seasons were also very active in 1998 and 1999, with Hurricane Lenny in 1999 causing extensive damage to the west coast of the island.
+Milton Cato of the centre-left Saint Vincent Labour Party (SVLP) was the country's first Prime Minister (he had been Premier since 1974), ruling until he was defeated in the 1984 Vincentian general election by James Fitz-Allen Mitchell of the centre-right New Democratic Party (NDP).[33] During Cato's time in office there was a brief rebellion on Union Island in December 1979 led by Lennox 'Bumba' Charles; apparently inspired by the recent revolution on Grenada, Charles alleged neglect of Union by the central government, however the revolt was swiftly put down and Charles arrested.[34][35] There were also a series of strikes in the early 1980s.[36] James Mitchell remained Prime Minister for 16 years until 2000, winning three consecutive elections.[37] Mitchell was at the forefront of attempts to improve regional integration.[38] In 1980 and 1987 hurricanes damaged many banana and coconut plantations. Hurricane seasons were also very active in 1998 and 1999, with Hurricane Lenny in 1999 causing extensive damage to the west coast of the island.
 
 In 2000 Arnhim Eustace became Prime Minister after taking over the leadership of the NDP following Mitchell's retirement; he was defeated a year later by Ralph Gonsalves of the Unity Labour Party (the successor party to the SVLP).[39][40] Gonsalves, known as 'Comrade Ralph' due to his left-wing views, has criticised US policy against Venezuela[41] and Cuba[42], and argued that European nations owe Caribbean nations reparations for their role in the Atlantic slave trade.[43]
 
@@ -67,7 +65,7 @@ On 25 November 2009, voters were asked to approve a new constitution in a refere
 
 Geography
 
-Saint_Vincent_and_the_Grenadines.svg and the Grenadines]]
+and the Grenadines]]
 
 Saint Vincent and the Grenadines lies to the west of Barbados, south of Saint Lucia and north of Grenada in the Windward Islands of the Lesser Antilles, an island arc of the Caribbean Sea. The islands of Saint Vincent and the Grenadines include the main island of Saint Vincent and the northern two-thirds of the Grenadines , which are a chain of smaller islands stretching south from Saint Vincent to Grenada. There are 32 islands and cays that make up St Vincent and the Grenadines (SVG). Nine are inhabited, including the mainland St Vincent and the Grenadines islands: Young Island, Bequia, Mustique, Canouan, Union Island, Mayreau, Petit St Vincent and Palm Island. Prominent uninhabited islands of the Grenadines include Petit Nevis, used by whalers, and Petit Mustique, which was the center of a prominent real estate scam in the early 1990s.
 
@@ -78,7 +76,7 @@ The island of Saint Vincent is volcanic and heavily forested, and includes littl
 
 Government and politics
 
-Ralph_Gonsalves_(cropped).jpg]] Saint Vincent and the Grenadines is a parliamentary democracy and constitutional monarchy, with Elizabeth II as Queen of Saint Vincent and the Grenadines. She does not reside in the islands and is represented in the country by the Governor General of Saint Vincent and the Grenadines, currently Sir Frederick Ballantyne.
+]] Saint Vincent and the Grenadines is a parliamentary democracy and constitutional monarchy, with Elizabeth II as Queen of Saint Vincent and the Grenadines. She does not reside in the islands and is represented in the country by the Governor General of Saint Vincent and the Grenadines, currently Sir Frederick Ballantyne.
 
 The office of Governor General has mostly ceremonial functions including the opening of the islands' House of Assembly and the appointment of various government officials. Control of the government rests with the elected Prime Minister and his or her cabinet. The current Prime Minister is Ralph Gonsalves, elected in 2001 as head of the Unity Labour Party.
 
@@ -156,7 +154,7 @@ Saint Vincent protests Venezuela's claim to give full effect to Aves (Bird) Isla
 
 Economy
 
-St._Vincent_and_the_Grenadines_Export_Treemap.png St._Vincent,_Karibik_-_Kingstown_-_Looking_north_from_Fort_Charlotte_-_panoramio.jpg Agriculture, dominated by banana production, is the most important sector of this lower-middle-income economy. The services sector, based mostly on a growing tourist industry, is also important. The government has been relatively unsuccessful at introducing new industries, and the unemployment rate remains high at 19.8% in the 1991 census[63] to 15% in 2001.[64] The continuing dependence on a single crop represents the biggest obstacle to the islands' development as tropical storms wiped out substantial portions of bananas in many years.
+Agriculture, dominated by banana production, is the most important sector of this lower-middle-income economy. The services sector, based mostly on a growing tourist industry, is also important. The government has been relatively unsuccessful at introducing new industries, and the unemployment rate remains high at 19.8% in the 1991 census[63] to 15% in 2001.[64] The continuing dependence on a single crop represents the biggest obstacle to the islands' development as tropical storms wiped out substantial portions of bananas in many years.
 
 There is a small manufacturing sector and a small offshore financial sector serving International Businesses whose particularly restrictive secrecy laws have caused some international concern. There are increasing demands for international financial services like stock exchange and financial intermediaries financial activities in the country. In addition, the natives of Bequia are permitted to hunt up to four humpback whales per year under IWC subsistence quotas.
 
@@ -197,7 +195,7 @@ The number of non-Christians is small. These religious groups include the Rastaf
 
 Culture
 
-Mustiquebeaches.jpg in the Grenadines]]
+in the Grenadines]]
 
 Sport
 

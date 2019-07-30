@@ -1,1 +1,0 @@
-_THE BOY IN THE TREE_ () is a 1961 Swedish drama film written and directed by Arne Sucksdorff, starring Tomas Bolme, Anders Henrikson, Heinz Hopf and Björn Gustafson. It tells the story of a troubled 16-year-old boy who seeks liberation in nature and teams up with two poachers.

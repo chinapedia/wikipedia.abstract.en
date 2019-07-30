@@ -1,1 +1,0 @@
-The 2016 FOUR NATIONS TOURNAMENT (Torneio Quatro Nações) in Portuguese, was the third edition of the Four Nations Tournament held in São Bernardo do Campo, Brazil between 4–6 November as a Men's friendly handball tournament organised by the Brazilian Handball Confederation.[1]

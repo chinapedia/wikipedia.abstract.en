@@ -1,1 +1,0 @@
-_DIPLOTAXIS GLAUCA_ is a species of flowering plants of the Brassicaceae family. The species is endemic to Cape Verde.[1] It is listed as a critically endangered plant by the IUCN.[2] The plant was named by Otto Eugen Schulz in 1916. The local name of the species is _mostarda-brabo_ (wild mustard),[3] a name that may also refer to the related species _Diplotaxis gracilis_.

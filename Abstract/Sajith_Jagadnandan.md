@@ -1,1 +1,0 @@
-SAJITH JAGADNANDAN[1] (_born on May 25 in 1981_) is an Indian film director[2] who makes movies in Malayalam.[3] His directorial[4] debut Ore Mukham[5][6] is in production.[7] He works as associative director and Director.[8][9]He is married to Anjali menon

@@ -1,1 +1,0 @@
-The CANOE SPRINT WOMEN'S KL1 event at the 2016 Paralympic Games took place on 14 September 2016 - 15 September 2016, at the Lagoa Rodrigo de Freitas. Two heats were held. Winners and runners up advanced directly to the final. The rest went into the semifinal, where the top four advanced to the final.

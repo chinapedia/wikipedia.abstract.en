@@ -1,1 +1,0 @@
-Pandora_Loison_cour_Carree_Louvre.jpg

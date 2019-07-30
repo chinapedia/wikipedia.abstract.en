@@ -1,1 +1,0 @@
-The POLITICS OF THE LAO PEOPLE'S DEMOCRATIC REPUBLIC (commonly known as LAOS) takes place in the framework of a one-party socialist republic. The only legal political party is the Lao People's Revolutionary Party (LPRP).[1] The _de jure_ head of state is President Bounnhang Vorachith, who also is LPRP general secretary making him the _de facto_ leader of Laos.

@@ -1,1 +1,0 @@
-[1] is a Japanese actor, singer, and model. He is represented with Stardust Promotion's Section 3.[2] He is the leader of Stardust's music collective Ebidan unit Dish.[3] As a member of Dish he is nicknamed as TAKUMI, stylized as TAKUMI.

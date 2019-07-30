@@ -1,1 +1,0 @@
-POPE ANTERUS (died 3 January 236) was the Bishop of Rome from 21 November 235 to his death in 236.[1] He succeeded Pope Pontian, who had been deported from Rome to Sardinia, along with the antipope Hippolytus.

@@ -1,1 +1,0 @@
-The _JOURNAL OF ORGANIZATIONAL AND END USER COMPUTING_ (JOEUC) is a quarterly peer-reviewed academic journal which focuses on end-user computing.[1] It is published by IGI Global. The journal was established in 1989.

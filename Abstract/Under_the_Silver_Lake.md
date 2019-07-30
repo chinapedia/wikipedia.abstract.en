@@ -1,1 +1,0 @@
-_UNDER THE SILVER LAKE_ is a 2018 American comedic neo-noir mystery film written, produced and directed by David Robert Mitchell. Set in Los Angeles, it follows a young man (Andrew Garfield) who sets out on a quest to investigate the sudden disappearance of his neighbour (Riley Keough), only to stumble upon an elusive and dangerous large-scale conspiracy.

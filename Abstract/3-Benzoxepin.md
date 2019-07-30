@@ -1,1 +1,0 @@
-3-BENZOXEPIN is an annulated ring system with an aromatic benzene ring and a non-aromatic, unsaturated, oxygen-containing seven-membered heterocyclic oxepin. The first synthesis was described by Karl Dimroth and coworkers in 1961.[1] It is one of the three isomers of the benzoxepins.

@@ -1,1 +1,0 @@
-MARY HOWGILL (1623 – before 1681) was a prominent early member of the Religious Society of Friends (Quakers) in England. She is best known for her public defense of Quakers in a 1656 letter to Oliver Cromwell.[1][2][3] She delivered the letter in person and subsequently had a long discourse with Cromwell. She began the letter:

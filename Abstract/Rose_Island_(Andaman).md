@@ -1,1 +1,0 @@
-ROSE ISLAND, sometimes called LITTLE NEILL ISLAND, is an uninhabited island of the Andaman Islands. It belongs to the South Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands.[1] The island lies northeast of Port Blair.

@@ -1,1 +1,0 @@
-Wolfsberg_im_Schwarzautal_IMG_3447.jpg

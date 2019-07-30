@@ -1,1 +1,0 @@
-PIERRE BODINEAU (born 1943) is a French academic in public law and politician, President of the Economic and Social Council of Burgundy, presided over Scoutisme Français from 1979 to 1982 and served as a member of the European Scout Committee.

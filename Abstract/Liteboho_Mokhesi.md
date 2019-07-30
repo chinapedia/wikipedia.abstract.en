@@ -1,1 +1,0 @@
-LITEBOHO MOKHESI (born May 17, 1985) is a footballer who plays as goalkeeper. He currently plays Matlama FC. He previously played for the Lesotho national football team, and is still eligible to compete in it.

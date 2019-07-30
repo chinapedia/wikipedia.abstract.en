@@ -1,1 +1,0 @@
-"WIENERS OUT" is the fourth episode in the twentieth season of the American animated television series _South Park_. The 271st episode of the series overall, it first aired on Comedy Central in the United States on October 12, 2016.

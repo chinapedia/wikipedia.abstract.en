@@ -1,1 +1,0 @@
-BALI PADDA is a British businessman and current active CEO of The Lego Group.[1] Prior to this role, he was Lego's chief operations officer. He inherited the role of CEO from Jørgen Vig Knudstorp, who stepped down to lead the LEGO Brand Group in January 2017.[2][3] He was the first non-Danish top-level executive to run the 84-year-old company.[4][5]

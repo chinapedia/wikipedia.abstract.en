@@ -1,1 +1,0 @@
-The CHAUNCEY B. LEONARD HOUSE is a historic house on Shed Road at Crosstown Road in Berlin, Vermont. Built about 1845, it is one of the oldest houses in Berlin, built in the Berlin Corners area that was once the town center. It was listed on the National Register of Historic Places in 1995.[1]

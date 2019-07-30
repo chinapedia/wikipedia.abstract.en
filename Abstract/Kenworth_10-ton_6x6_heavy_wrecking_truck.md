@@ -1,1 +1,0 @@
-The KENWORTH 10-TON 6X6 HEAVY WRECKING TRUCK (G116) (officially HEAVY WRECKING TRUCK M1) was the standard heavy wrecker of the US Army during World War II. It was replaced in the 1950s by 5-ton wreckers.

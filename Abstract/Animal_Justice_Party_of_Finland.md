@@ -1,1 +1,0 @@
-ANIMAL JUSTICE PARTY OF FINLAND (, ) is a Finnish political party, founded in 2015 and admitted to the registry of political parties in 2016.[1] The party's chairman is Santeri Pienimäki. The party participated the municipal elections in 2017.[2]

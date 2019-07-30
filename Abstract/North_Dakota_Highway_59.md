@@ -1,1 +1,0 @@
-NORTH DAKOTA HIGHWAY 59 (ND 59) is a state highway located entirely within Pembina County that connects Interstate 29 (I-29) and U.S. Route 81 (US 81) on the west side of Pembina, to Minnesota State Highway 171 (MN 171) at the Minnesota state line at the Red River.

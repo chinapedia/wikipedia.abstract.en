@@ -1,1 +1,0 @@
-HSU TUNG-HSIUNG (born 20 December 1954) is a Taiwanese sports official and former swimmer. He won bronze medals in four events at the 1970 Asian Games, and competed in four events at the 1972 Summer Olympics.[1][2]

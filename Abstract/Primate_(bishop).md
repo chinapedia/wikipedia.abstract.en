@@ -1,1 +1,0 @@
-PRIMATE () is a title or rank bestowed on some archbishops in certain Christian churches. Depending on the particular tradition, it can denote either jurisdictional authority (title of authority) or (usually) ceremonial precedence (title of honour).

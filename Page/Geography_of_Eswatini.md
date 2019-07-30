@@ -1,5 +1,3 @@
-SwazilandOMC.png LocationEswatini.svg
-
 ESWATINI is a country in Southern Africa, lying between Mozambique and South Africa. The country is located at the geographic coordinates . Eswatini has an area of 17,363 square kilometres, of which 160 are water. The major regions of the country are Lowveld, Midveld and Highveld.
 
 
@@ -24,7 +22,7 @@ The average temperatures at Mbabane, according to seasons:
 
 Physical geography
 
-Swaziland_Topography.png The terrain largely consists of mountains and hills, with some moderately sloping plains. The lowest point is the Great Usutu River, at 21 metres, and the highest is Emlembe, at 1,862 m.
+The terrain largely consists of mountains and hills, with some moderately sloping plains. The lowest point is the Great Usutu River, at 21 metres, and the highest is Emlembe, at 1,862 m.
 
 As a landlocked country, Eswatini has neither coastline nor maritime claims. In terms of land boundaries, Eswatini borders Mozambique for 105 kilometres, and South Africa for 430, giving a total land boundary length of 535 km.
 
@@ -46,7 +44,7 @@ Eswatini possesses the following natural resources: asbestos, coal, clay, cassit
 
 Environment
 
-Mlilwane_Wildlife_Sanctuary_01.jpg]] Eswatini is prone to floods and drought. Soil erosion as a result of overgrazing is a growing problem.
+]] Eswatini is prone to floods and drought. Soil erosion as a result of overgrazing is a growing problem.
 
 Eswatini is part of the following international agreements: Biodiversity, Climate Change, Endangered Species, Nuclear Test Ban and Ozone Layer Protection. The country has signed, but not ratified the agreement on desertification, and the law of the sea.
 

@@ -1,1 +1,0 @@
-DENG XIAONAN (born 1950) is a professor of history at Peking University's Centre for Research on Ancient Chinese History.[1] She is known for her research on Song history, Ancient Chinese bureaucratic systems and female history of the Tang and Song.[2]

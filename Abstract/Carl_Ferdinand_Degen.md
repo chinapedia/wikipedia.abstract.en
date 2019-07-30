@@ -1,1 +1,0 @@
-CARL FERDINAND DEGEN (1 November 1766 – 8 April 1825) was a Danish mathematician. His most important contributions were within number theory and he advised the young, aspiring Norwegian mathematician Niels Henrik Abel in a decisive way. Degen has received much of the credit for the introduction of more modern and advanced mathematics in the Danish-Norwegian school system.

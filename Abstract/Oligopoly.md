@@ -1,1 +1,0 @@
-An OLIGOPOLY is a market form wherein a market or industry is dominated by a small number of large sellers (oligopolists). Oligopolies can result from various forms of collusion which reduce competition and lead to higher prices for consumers. Oligopolies have their own market structure.[1]

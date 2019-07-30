@@ -1,1 +1,0 @@
-ISAIAH 13 is the thirteenth chapter of the Book of Isaiah in the Hebrew Bible or the Old Testament of the Christian Bible. This book contains the prophecies spoken by the prophet Isaiah, and is a part of the Book of the Prophets. In the New King James Version, the chapter is sub-titled "Proclamation Against Babylon".[1]

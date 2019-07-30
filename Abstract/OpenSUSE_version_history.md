@@ -1,1 +1,0 @@
-openSUSE, a popular Linux distribution developed by the community-supported openSUSE Project and sponsored by a number of companies and individuals, most notably SUSE, AMD, B1 Systems, Heinlein Support and IP Exchange.[1] attempts to maintain, promote, improve and document the openSUSE Linux distribution.

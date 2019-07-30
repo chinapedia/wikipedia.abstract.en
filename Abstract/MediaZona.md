@@ -1,1 +1,0 @@
-MEDIAZONA is a Russian alternative media outlet founded by two members of the Russian punk rock band Pussy Riot, Maria Alyokhina and Nadezhda Tolokonnikova. Its editor-in-chief is Russian political journalist Sergey Smirnov.[1]

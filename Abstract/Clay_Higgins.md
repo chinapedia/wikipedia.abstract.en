@@ -1,1 +1,0 @@
-GLEN CLAY HIGGINS (born August 24, 1961) is an American Republican politician, reserve law enforcement officer from the state of Louisiana. He is the U.S. Representative for Louisiana's 3rd congressional district. He won the runoff election held on December 10, 2016, in which he defeated fellow Republican Scott Angelle.

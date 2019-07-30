@@ -1,1 +1,0 @@
-The WHIRLY-GIRLS, officially known as WHIRLY-GIRLS INTERNATIONAL, are a non-profit, charitable and educational organization that aims to advance women in helicopter aviation. They are an affiliate member of the Helicopter Association International.[1] The Whirly-Girls and the Ninety-Nines have many members in common.[2]

@@ -1,1 +1,0 @@
-HUGO WOLFRAM (; 1925–2015) was an English businessman and novelist, of German Jewish origin. He served as managing director of the Lurex Company, makers of the fabric Lurex, and was the author of three novels[1][2] including _Into a Neutral Country_,[3] a psychological novel about the experience of refugees and the predicament of "displaced persons".[4]

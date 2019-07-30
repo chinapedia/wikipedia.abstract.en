@@ -1,1 +1,0 @@
-_PASTORALE OFFICIUM_ was a Apostolic Brief issued by Pope Paul III, May 29, 1537, to Cardinal Juan Pardo de Tavera which declares that anyone who enslaved or despoiled indigenous Americans would be automatically excommunicated.[1][2][3]

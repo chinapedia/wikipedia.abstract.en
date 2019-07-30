@@ -1,1 +1,0 @@
-DAMON JESSE GAUSE (17 June 1915 – 9 March 1944) was a United States Army Air Corps officer. He was captured and escaped from Bataan, then Corregidor. He served with the Ninth Air Force and flew with the Hell Hawks.

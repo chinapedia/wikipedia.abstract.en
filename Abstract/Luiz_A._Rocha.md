@@ -1,1 +1,0 @@
-LUIZ ALVEZ ROCHA is an Associate Curator and Follett Chair of Ichthyology at the California Academy of Sciences.[1] He is also an adjunct professor at the University of California Santa Cruz[2] and San Francisco State University.[3]

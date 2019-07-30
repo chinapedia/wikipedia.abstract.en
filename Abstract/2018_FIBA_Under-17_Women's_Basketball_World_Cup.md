@@ -1,1 +1,0 @@
-The 2018 FIBA UNDER-17 WOMEN'S BASKETBALL WORLD CUP was an international basketball competition held from 21 to 29 July 2018 in Minsk, Belarus.[1] It was the fifth edition of the FIBA Under-17 Women's Basketball World Cup. Sixteen national teams competed in the tournament.[2]

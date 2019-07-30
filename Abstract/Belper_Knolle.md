@@ -1,1 +1,0 @@
-Belper_Knolle_avec_ruban_rouge,_WikiCheese_Lausanne.jpg Belper_Knolle_Gold_with_packaging,_WikiCheese_Lausanne.jpg The BELPER KNOLLE ("Belp Ball") is a Swiss cheese made in the city of Belp, Switzerland.[1]

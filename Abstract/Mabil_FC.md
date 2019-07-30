@@ -1,1 +1,0 @@
-MABIL FOOTBALL CLUB is a South Sudanese sporting club based at Mabil block in Wanyjok, South Sudan. The team was founded on 18 September 2011. The team is nicknamed THE KANGAROOS. Their home ground is Mabil.[1]

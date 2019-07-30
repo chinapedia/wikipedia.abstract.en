@@ -1,1 +1,0 @@
-The CUTTER EXPANSIVE CLASSIFICATION system is a library classification system devised by Charles Ammi Cutter. The system was the basis for the top categories of the Library of Congress Classification.[1]

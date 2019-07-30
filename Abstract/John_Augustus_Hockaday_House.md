@@ -1,1 +1,0 @@
-JOHN AUGUSTUS HOCKADAY HOUSE, also known as the HOCKADAY HOUSE, is a historic home located at Fulton, Callaway County, Missouri. It was built between 1863 and 1868, and is a two-story, vernacular Greek Revival / Italianate style brick I-house. It has a low hipped roof with denticulated cornice and features a two-story high portico with square piers and projecting bay.[1]

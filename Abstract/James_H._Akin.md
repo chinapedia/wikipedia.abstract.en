@@ -1,1 +1,0 @@
-Major JAMES H. AKIN (1832–1911) was an American Confederate veteran, farmer and politician. He served as a Democratic member of the Tennessee House of Representatives in 1899, representing Williamson County, Tennessee.

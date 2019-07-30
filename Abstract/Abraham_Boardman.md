@@ -1,1 +1,0 @@
-ABRAHAM BOARDMAN (1824 - 1897) was elected Mayor of Auckland in 1896, and took office on 16 December in that year. He, however, resigned shortly afterwards on account of ill-health, and died on 21 May 1897, aged seventy-three.[1]

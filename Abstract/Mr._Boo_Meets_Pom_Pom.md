@@ -1,1 +1,0 @@
-_MR. BOO MEETS POM POM_ is a 1985 Hong Kong comedy film directed by Wu Ma and starring Richard Ng and John Shum. It is the third film in the _Pom Pom_ film series which is a spin-off the My Lucky Stars series.

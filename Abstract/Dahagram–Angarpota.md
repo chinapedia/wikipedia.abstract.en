@@ -1,1 +1,0 @@
-DAHAGRAM–ANGARPOTA is a group of Bangladeshi enclaves in India about away from the border of Bangladesh.[1][2] It has a population of 17,000 people as of 2014.[3] Dahagram–Angarpota is the largest Bangladeshi enclave.[4] The enclave falls under Patgram Upazila.[5]

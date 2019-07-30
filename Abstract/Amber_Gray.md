@@ -1,1 +1,0 @@
-AMBER GRAY is an American actress and singer best known for portraying Hélène Kuragina in the 2016 Broadway musical _Natasha, Pierre, & the Great Comet of 1812._[1] Gray also played Persephone in the 2016 Off-Broadway musical _Hadestown_ and reprised her role for the Broadway transfer, for which she received favorable reviews and a Tony Award nomination.[2]

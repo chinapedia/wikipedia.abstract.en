@@ -1,1 +1,0 @@
-_MAN WITH THE BROKEN NOSE_ is a sculpture by Auguste Rodin created between 1863 and 1864 and approved by the Salon in 1875. It is considered the first by Rodin in which life is represented over the grace pervading the academic circles and aesthetic of the time.[1]

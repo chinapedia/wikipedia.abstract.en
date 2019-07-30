@@ -1,1 +1,0 @@
-_NECROTHALASSIA COMPSIAS_ is a moth of the Scythrididae family, and the only species in the genus _NECROTHALASSIA_. It was described by Walsingham in 1907. It is found in Algeria, Morocco and the Palestinian territories.[1]

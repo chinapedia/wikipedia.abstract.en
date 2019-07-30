@@ -1,1 +1,0 @@
-PHIL DAY (born in August, 1973) is an Australian artist. He is formally recognised as a Notable Graduate[1] from the Graphic Investigation Workshop, Australian National University (ANU), alongside Alex Hamilton, Paul McDermott, Danie Mellor and Paul Uhlmann.

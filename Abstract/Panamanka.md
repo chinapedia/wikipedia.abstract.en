@@ -1,1 +1,0 @@
-RIAN_archive_644465_First_stage_in_the_Soviet_troop_withdrawal_from_Afghanistan.jpg Afgan1987_Gardez_UAZ469.jpg

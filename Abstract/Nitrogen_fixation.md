@@ -1,1 +1,0 @@
-NITROGEN FIXATION is a process by which nitrogen in the air is converted into ammonia (NH₃) or related nitrogenous compounds.[1] Atmospheric nitrogen is molecular dinitrogen, a relatively nonreactive molecule that is metabolically useless to all but a few microorganisms. Biological nitrogen fixation converts N₂ into ammonia, which is metabolized by most organisms.

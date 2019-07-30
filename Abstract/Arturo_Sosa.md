@@ -1,1 +1,0 @@
-ARTURO MARCELINO SOSA ABASCAL (born 12 November 1948) is the thirty-first and present Superior General of the Society of Jesus. He was elected Superior General by the Society's 36th General Congregation on 14 October 2016, succeeding Adolfo Nicolás. As a Venezuelan, he is the first person born in Latin America to lead the Jesuits.

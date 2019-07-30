@@ -1,1 +1,0 @@
-ARA PETERSON (born 1973 in Boston, Massachusetts) is an American artist based in Providence, Rhode Island. He is known for his interlaced relief paintings[1] and sculptures, which are rooted in wave patterns and a process-intensive work ethic.[2] Peterson was a founding member of the art collective Forcefield.

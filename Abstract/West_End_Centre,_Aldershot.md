@@ -1,1 +1,0 @@
-The WEST END CENTRE is an entertainment venue and arts centre[1] located on Queens Road in Aldershot. The centre hosts classes, workshops, art exhibitions, music performances (of heavy metal, blues, folk and punk music), stand-up comedy, and small-scale and intimate theatre.[2][3]

@@ -1,1 +1,0 @@
-HILDEGARD OF BINGEN (; ; 1098 – 17 September 1179), also known as SAINT HILDEGARD and the SIBYL OF THE RHINE, was a German Benedictine abbess, writer, composer, philosopher, Christian mystic, visionary, and polymath.[1][2] She has been considered by many in Europe to be the founder of scientific natural history in Germany.[3]

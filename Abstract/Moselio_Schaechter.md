@@ -1,1 +1,0 @@
-MOSELIO "ELIO" SCHAECHTER is Distinguished professor emeritus at Tufts University, and adjunct professor at both San Diego State University and University of California, San Diego. His work focuses on microbiology.

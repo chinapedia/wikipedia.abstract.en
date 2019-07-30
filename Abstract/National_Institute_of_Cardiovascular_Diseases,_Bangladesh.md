@@ -1,1 +1,0 @@
-NATIONAL INSTITUTE OF CARDIOVASCULAR DISEASES (NICVD), BANGLADESH is a government medical college and cardiac hospital in Bangladesh to provide all type of health care services to cardiac patients. It is located at Sher-e-Bangla Nagor Thana, Dhaka. It covers primary to tertiary health care.[1][2][3]

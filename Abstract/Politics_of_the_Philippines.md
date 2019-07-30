@@ -1,1 +1,0 @@
-Elections are administered by an independent Commission on Elections every three years starting 1992. Held every second Monday of May, the winners in the elections take office on the following June 30.

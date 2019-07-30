@@ -9,9 +9,7 @@ Siege towers were used to get troops over an enemy curtain wall. When a siege to
 
 Ancient use
 
-Assyrian_Attack_on_a_Town.jpgn attack on a town with archers and a wheeled battering ram; Assyrian Relief, North-West Palace of Nimrud (room B, panel 18); 865–860 BC.]] MasadaRamp.jpg siege-ramp at Masada.]] The oldest known siege towers were used by the armies of the Neo-Assyrian Empire in the 9th century BC, under Ashurnasirpal II (r. 884 BC – 859 BC). Reliefs from his reign, and subsequent reigns, depict siege towers in use with a number of other siege works, including ramps and battering rams.
-
-Young_Folks'_History_of_Rome_illus106.png
+n attack on a town with archers and a wheeled battering ram; Assyrian Relief, North-West Palace of Nimrud (room B, panel 18); 865–860 BC.]] siege-ramp at Masada.]] The oldest known siege towers were used by the armies of the Neo-Assyrian Empire in the 9th century BC, under Ashurnasirpal II (r. 884 BC – 859 BC). Reliefs from his reign, and subsequent reigns, depict siege towers in use with a number of other siege works, including ramps and battering rams.
 
 Centuries after they were employed in Assyria, the use of the siege tower spread throughout the Mediterranean. The biggest siege towers of antiquity, such as the _Helepolis_ (meaning "_The Taker of Cities_") of the siege of Rhodes in 305 BC, could be as high as 135 feet and as wide as 67.5 feet. Such large engines would require a rack and pinion to be moved effectively. It was manned by 200 soldiers and was divided into nine stories; the different levels housed various types of catapults and ballistae. Subsequent siege towers down through the centuries often had similar engines.
 
@@ -24,11 +22,9 @@ One of the oldest references to the mobile siege tower in Ancient China was a wr
 
 Medieval and later use
 
-Beffroi.d.assaut.png
-
 With the collapse of the Roman Empire in the West into independent states, and the Eastern Roman Empire on the defensive, the use of siege towers reached its height during the medieval period. Siege towers were used when the Avars laid siege unsuccessfully to Constantinople in 626, as the _Chronicon Paschale_ recounts:
 
-Grose-Francis-Pavisors-and-Moveable-Tower-Assaulting-Castle-1812.jpg At this siege the attackers also made use of "sows" – mobile armoured shelters which were used throughout the medieval period, and allowed workers to fill in moats with protection from the defenders (thus levelling the ground for the siege towers to be moved to the walls). However, the construction of a sloping talus at the base of a castle wall (as was common in Crusader fortification[5]) could have reduced the effectiveness of this tactic to an extent.
+At this siege the attackers also made use of "sows" – mobile armoured shelters which were used throughout the medieval period, and allowed workers to fill in moats with protection from the defenders (thus levelling the ground for the siege towers to be moved to the walls). However, the construction of a sloping talus at the base of a castle wall (as was common in Crusader fortification[5]) could have reduced the effectiveness of this tactic to an extent.
 
 Siege towers also became more elaborate during the medieval period; at the Siege of Kenilworth Castle in 1266, for example, 200 archers and 11 catapults operated from a single tower.[6] Even then, the siege lasted almost a year, making it the longest siege in all of English history. They were not invulnerable either, as during the Fall of Constantinople in 1453, Ottoman siege towers were sprayed by the defenders with Greek fire.[7]
 

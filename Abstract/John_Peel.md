@@ -1,1 +1,0 @@
-JOHN ROBERT PARKER RAVENSCROFT, (30 August 1939 – 25 October 2004), known professionally as JOHN PEEL, was an English disc jockey, radio presenter, record producer and journalist. He was the longest serving of the original BBC Radio 1 DJs, broadcasting regularly from 1967 until his death in 2004.

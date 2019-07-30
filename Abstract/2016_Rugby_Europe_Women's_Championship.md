@@ -1,1 +1,0 @@
-The 2016 WOMEN'S EUROPEAN CHAMPIONSHIP was the 21st annual rugby tournament organised by FIRA for the continent's national teams, and also acted as a qualification tournament for 2017 Women's Rugby World Cup.

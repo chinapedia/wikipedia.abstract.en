@@ -1,1 +1,0 @@
-The ECONOMY OF ESWATINI is fairly diversified, with agriculture, forestry and mining accounting for about 13 percent of GDP, manufacturing (textiles and sugar-related processing) representing 37 percent of GDP and services – with government services in the lead – constituting 50 percent of GDP.

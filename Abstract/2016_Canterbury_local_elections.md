@@ -1,1 +1,0 @@
-The 2016 CANTERBURY LOCAL ELECTIONS were part of the wider 2016 New Zealand local elections, to elect members to sub-national councils and boards. The Canterbury elections cover one regional council (Environment Canterbury), nine territorial authority (city and district) councils, two district health boards, and various local boards and licensing trusts.

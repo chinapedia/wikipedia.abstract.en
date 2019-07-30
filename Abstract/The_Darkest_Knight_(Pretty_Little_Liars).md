@@ -1,1 +1,0 @@
-"THE DARKEST KNIGHT" is tenth episode of the seventh season of the American mystery–thriller television series _Pretty Little Liars_. The installment was directed by Arlene Sanford and written by showrunner I. Marlene King and executive producer Maya Goldsmith. It premiered on August 30, 2016, on the cable network Freeform.

@@ -1,1 +1,0 @@
-The GAME BOY FAMILY is a line of handheld game consoles developed, manufactured, and marketed by Nintendo, consisting of the Game Boy, Game Boy Color and Game Boy Advance.[1][2] The product line has sold 200 million units worldwide.[3][4]

@@ -1,1 +1,0 @@
-JOSEPH THOMAS (1838-1901) was a Cornish architect, civil engineer and entrepreneur who lived the majority of his life in Looe. He made a number of significant contributions to the development of the town in the late 19th century, including the design of the Banjo Pier and the creation of the Hannafore estate.[1]

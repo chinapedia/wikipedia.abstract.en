@@ -1,1 +1,0 @@
-General ZUBAIR MAHMOOD HAYAT (Urdu:زبیر محمود حیات; b. 1960) is the 16th Chairman Joint Chiefs of Staff Committee. A four-star rank army general of the Pakistan Army, he assumed office on 28 November 2016.

@@ -1,1 +1,0 @@
-The SANTA CRUZ SHRIKEBILL (_Clytorhynchus sanctaecrucis_), or NENDO SHRIKEBILL, is a songbird species in the family Monarchidae. The Santa Cruz shrikebill was split from the black-throated shrikebill in 2008 but some authorities still consider it to be its subspecies, _C. n. sanctaecrucis_.[1]

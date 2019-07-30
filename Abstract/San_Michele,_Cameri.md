@@ -1,1 +1,0 @@
-Cameri_parrocchiale.jpg SAN MICHELE, locally called in dialect, _Gésa Granda_, is the Roman Catholic parish church located in the city center at Piazza Dante Alighieri in the town Cameri, province of Novara, Piedmont, Italy.

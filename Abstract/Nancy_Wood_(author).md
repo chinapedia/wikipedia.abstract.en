@@ -1,1 +1,0 @@
-NANCY WOOD (June 20, 1936 – March 12, 2013)[1] was an American author, poet, and photographer. Wood published numerous collections of poetry as well as children's novels, fiction, and nonfiction. Major themes and influences in her work were Native American culture of the Southwestern United States.

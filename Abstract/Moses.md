@@ -1,1 +1,0 @@
-MOSES ()[1][2] was a prophet according to the teachings of the Abrahamic religions. Scholarly consensus sees Moses as a legendary figure and not a historical person,[3][4] while retaining the possibility that a Moses-like figure existed.[5][6]

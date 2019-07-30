@@ -1,5 +1,3 @@
-Scsi_logo.svg
-
 SMALL COMPUTER SYSTEM INTERFACE (SCSI, )[1] is a set of standards for physically connecting and transferring data between computers and peripheral devices. The SCSI standards define commands, protocols, electrical, optical and logical interfaces. SCSI is most commonly used for hard disk drives and tape drives, but it can connect a wide range of other devices, including scanners and CD drives, although not all controllers can handle all devices. The SCSI standard defines command sets for specific peripheral device types; the presence of "unknown" as one of these types means that in theory it can be used as an interface to almost any device, but the standard is highly pragmatic and addressed toward commercial requirements.
 
 The ancestral SCSI standard, X3.131-1986, generally referred to as SCSI-1, was published by the X3T9 technical committee of the American National Standards Institute (ANSI) in 1986. SCSI-2 was published in August 1990 as X3.T9.2/86-109, with further revisions in 1994 and subsequent adoption of a multitude of interfaces. Further refinements have resulted in improvements in performance and support for ever-increasing storage data capacity.[2]
@@ -37,8 +35,6 @@ SCSI is available in a variety of interfaces. The first was parallel SCSI (also 
 SCSI interfaces have often been included on computers from various manufacturers for use under Microsoft Windows, classic Mac OS, Unix, Commodore Amiga and Linux operating systems, either implemented on the motherboard or by the means of plug-in adaptors. With the advent of SAS and SATA drives, provision for parallel SCSI on motherboards was discontinued.[13]
 
 Parallel SCSI
-
-Scsi-1_gehaeuse.jpg
 
 Initially, the _SCSI Parallel Interface_ (SPI) was the only interface using the SCSI protocol. Its standardization started as a single-ended 8-bit bus in 1986, transferring up to 5 MB/s, and evolved into a low-voltage differential 16-bit bus capable of up to 320 MB/s. The last SPI-5 standard from 2003 also defined a 640 MB/s speed which failed to be realized.
 
@@ -91,8 +87,6 @@ Other SCSI interfaces
 
 
 Cabling
-
-SCSI-terminator-exposed-hdr-0a.jpg
 
 SCSI Parallel Interface
 

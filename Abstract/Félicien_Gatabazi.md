@@ -1,1 +1,0 @@
-FÉLICIEN GATABAZI (died 21 February 1994) was a Rwandan politician who was killed in the lead-up to the Rwandan genocide. At the time of his death he was secretary general of the Social Democratic Party[1] and served as Minister of Public Works and Energy.[2]

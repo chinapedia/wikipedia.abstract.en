@@ -1,1 +1,0 @@
-_LOVE IS IN THE AIR_ is the fourth studio album by Australian pop singer John Paul Young, released in 1978. The album was produced by Vanda & Young and released through Albert Productions. It peaked at number 32 on the ARIA Charts.The album spawned the singles: "Love Is in the Air", "The Day That My Heart Caught Fire", "Lost in Your Love" and "Fool in Love".[1][2]

@@ -1,1 +1,0 @@
-COALITION "JUSTICE FOR PEACE IN DONBAS" () is an informal alliance of 17 Ukrainian human rights organisations and initiatives. Members of the Coalition have teamed up to document human rights violations that occurred during the armed conflict in eastern Ukraine.

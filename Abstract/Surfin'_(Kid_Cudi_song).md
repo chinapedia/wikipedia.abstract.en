@@ -1,1 +1,0 @@
-"SURFIN'" is a song by American rapper Kid Cudi. It was released on September 30, 2016, as the lead single from his sixth studio album, _Passion, Pain & Demon Slayin'_. The music was written and produced by Pharrell Williams, while the lyrics were handled by Kid Cudi.

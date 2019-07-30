@@ -1,4 +1,4 @@
-Geographical distribution of English in South Africa: proportion of the population that speaks English at home. Geographical distribution of English in South Africa: density of English home-language speakers. SOUTH AFRICAN ENGLISH (SAFRE, SAFRENG, SAE, EN-ZA)[1] is the set of English dialects native to South Africans.
+SOUTH AFRICAN ENGLISH (SAFRE, SAFRENG, SAE, EN-ZA)[1] is the set of English dialects native to South Africans.
 
 
 History

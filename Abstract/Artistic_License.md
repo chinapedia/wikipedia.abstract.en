@@ -1,1 +1,0 @@
-The ARTISTIC LICENSE (version 1.0) is a software license used for certain free and open-source software packages, most notably the standard implementation of the Perl programming language and most CPAN modules, which are dual-licensed under the Artistic License and the GNU General Public License (GPL).

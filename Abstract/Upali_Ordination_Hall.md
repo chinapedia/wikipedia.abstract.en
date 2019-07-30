@@ -1,1 +1,0 @@
-UPĀLI ORDINATION HALL (, ) is a Buddhist ordination hall located midway between Bagan and Nyaung U in Myanmar.[1] The ordination hall is known for its well-preserved Konbaung Dynasty interior frescoes.[2][3]

@@ -1,4 +1,4 @@
-Takachiho-gawara_Kirishima_City_Kagoshima_Pref02n4050.jpg of Ninigi-no-Mikoto, the grandson of Amaterasu]] Shimboku_of_Nikko_Futarasan_Shrine.jpg
+of Ninigi-no-Mikoto, the grandson of Amaterasu]]
 
 or _KAMI-NO-MICHI_ (as well as other names) is the ethnic religion of Japan that focuses on ritual practices to be carried out diligently to establish a connection between present-day Japan and its ancient past.[1]
 
@@ -13,7 +13,7 @@ According to Inoue (2003): "In modern scholarship, the term is often used with r
 
 Types
 
-Miwa-shrine_Yutateshinji_A.JPG]]
+]]
 
 Shinto religious expressions have been distinguished by scholars into a series of categories:[23]
 
@@ -56,7 +56,7 @@ The god manifests in a duality, a male and a female function, respectively and .
 
 Creation of Japan
 
-Kobayashi_Izanami_and_Izanagi.jpg The generation of the Japanese archipelago is expressed mythologically as the action of two gods: Izanagi ("He-who-invites") and Izanami ("She-who-is-invited").[49] The interaction of these two principles begets the islands of Japan and a further group of _kami_.[50]
+The generation of the Japanese archipelago is expressed mythologically as the action of two gods: Izanagi ("He-who-invites") and Izanami ("She-who-is-invited").[49] The interaction of these two principles begets the islands of Japan and a further group of _kami_.[50]
 
 The events are described in the _Kojiki_ as follows:
 
@@ -72,17 +72,17 @@ The events are described in the _Kojiki_ as follows:
 
 In the myth, the birth of the god of fire (_Kagu-tsuchi_) causes the death of Izanami, who descends into _Yomi-no-kuni_, the netherworld. Izanagi chases her there, but runs away when he finds the dead figure of his spouse.[51] As he returns to the land of the living, Amaterasu (the sun goddess) is born from his left eye, Tsukiyomi (the moon deity) from his right eye, and Susanoo (the storm deity) is born from Izanagi's nose.[52]
 
-Karasuzumo_purification_ritual.jpg tournament at the Kamigamo Jinja in Kyoto.]]
+tournament at the Kamigamo Jinja in Kyoto.]]
 
 Impurity
 
 Shinto teaches that certain deeds create a kind of ritual impurity that one should want cleansed for one's own peace of mind and good fortune rather than because impurity is wrong. Wrong deeds are called , which is opposed to . Normal days are called "day" (_ke_), and festive days are called "sunny" or, simply, "good" (_hare_).[53]
 
-Those who are killed without being shown gratitude for their sacrifice will hold a (grudge) and become powerful and evil _kami_ who seek revenge (_aragami_).[54] Additionally, if anyone is injured on the grounds of a shrine, the area must be ritually purified. Haraegushi (祓串) for purification|thumb|upright=0.8
+Those who are killed without being shown gratitude for their sacrifice will hold a (grudge) and become powerful and evil _kami_ who seek revenge (_aragami_).[54] Additionally, if anyone is injured on the grounds of a shrine, the area must be ritually purified.
 
 Purification
 
-Jichinsai-himorogi.jpg Purification rites called Harae are a vital part of Shinto. They are done on a daily, weekly, seasonal, lunar, and annual basis. These rituals are the lifeblood of the practice of Shinto.[55] Such ceremonies have also been adapted to modern life. New buildings made in Japan are frequently blessed by a Shinto priest called during the , and many cars made in Japan have been blessed as part of the assembly process. Moreover, many Japanese businesses built outside Japan have a Shinto priest perform ceremonies. On occasion, priests visit annually to re-purify.
+Purification rites called Harae are a vital part of Shinto. They are done on a daily, weekly, seasonal, lunar, and annual basis. These rituals are the lifeblood of the practice of Shinto.[55] Such ceremonies have also been adapted to modern life. New buildings made in Japan are frequently blessed by a Shinto priest called during the , and many cars made in Japan have been blessed as part of the assembly process. Moreover, many Japanese businesses built outside Japan have a Shinto priest perform ceremonies. On occasion, priests visit annually to re-purify.
 
 
 Afterlife
@@ -141,7 +141,7 @@ Practices
 
 _Omairi_
 
-ItsukushimaBasin7406.jpg Any person may visit a shrine and one need not be Shinto to do this. Doing so is called _Omairi_. Typically there are a few basic steps to visiting a shrine.
+Any person may visit a shrine and one need not be Shinto to do this. Doing so is called _Omairi_. Typically there are a few basic steps to visiting a shrine.
 
 -   At any entrance gate, bow respectfully before passing through.
 -   If there is a hand washing basin provided, perform Temizu: take the dipper in your right hand and scoop up water. Pour some onto your left hand, then transfer the dipper to your left hand and pour some onto your right hand. Transfer the dipper to your right hand again, cup your left palm, and pour water into it, from which you will take the water into your mouth (never drink directly from the dipper), silently swish it around in your mouth (do not drink), then quietly spit it out into your cupped left hand (not into the reservoir). Then, holding the handle of the dipper in both hands, turn it vertically so that the remaining water washes over the handle. Then replace it where you found it.
@@ -167,7 +167,7 @@ Another form of ritual cleanliness is avoidance, which means that a taboo is pla
 
 Amulets and talismans
 
-KasugaTaisha2.jpg]] Ema are small wooden plaques that wishes or desires are written upon and left at a place in the shrine grounds so that one may get a wish or desire fulfilled. They have a picture on them and are frequently associated with the larger Shrines.[60]
+]] Ema are small wooden plaques that wishes or desires are written upon and left at a place in the shrine grounds so that one may get a wish or desire fulfilled. They have a picture on them and are frequently associated with the larger Shrines.[60]
 
 _Ofuda_ are talismans—made of paper, wood, or metal—that are issued at shrines. They are inscribed with the names of kami and are used for protection in the home. They are typically placed in the home at a kamidana. Ofuda may be kept anywhere, as long as they are in their protective pouches, but there are several rules about the proper placement of kamidana. They are also renewed annually.[61]
 
@@ -181,7 +181,7 @@ Other protective items include _dorei_, which are earthenware bells that are use
 
 _Kagura_
 
-Niiname-sai,traditional_Japanese_dance,katori-jingu-shrine,katori-city,japan.JPG _Kagura_ is the ancient Shinto ritual dance of shamanic origin. The word "kagura" is thought to be a contracted form of _kami no kura_ or "seat of the kami" or the "site where the kami is received."[69] There is a mythological tale of how _kagura_ dance came into existence. The sun goddess Amaterasu became very upset at her brother so she hid in a cave. All of the other gods and goddesses were concerned and wanted her to come outside. Ame-no-uzeme began to dance and create a noisy commotion in order to entice Amaterasu to come out. The kami (gods) tricked Amaterasu by telling her there was a better sun goddess in the heavens. Amaterasu came out and light returned to the universe.[70]
+_Kagura_ is the ancient Shinto ritual dance of shamanic origin. The word "kagura" is thought to be a contracted form of _kami no kura_ or "seat of the kami" or the "site where the kami is received."[69] There is a mythological tale of how _kagura_ dance came into existence. The sun goddess Amaterasu became very upset at her brother so she hid in a cave. All of the other gods and goddesses were concerned and wanted her to come outside. Ame-no-uzeme began to dance and create a noisy commotion in order to entice Amaterasu to come out. The kami (gods) tricked Amaterasu by telling her there was a better sun goddess in the heavens. Amaterasu came out and light returned to the universe.[70]
 
 Music plays a very important role in the _kagura_ performance. Everything from the setup of the instruments to the most subtle sounds and the arrangement of the music is crucial to encouraging the kami to come down and dance. The songs are used as magical devices to summon the gods and as prayers for blessings. Rhythm patterns of five and seven are common, possibly relating to the Shinto belief of the twelve generations of heavenly and earthly deities. There is also vocal accompaniment called _kami uta_ in which the drummer sings sacred songs to the gods. Often the vocal accompaniment is overshadowed by the drumming and instruments, reinforcing that the vocal aspect of the music is more for incantation rather than aesthetics.[71]
 
@@ -189,7 +189,7 @@ In both ancient Japanese collections, the Kojiki and the Nihon Shoki, Ame-no-uze
 
 There is a division between the _kagura_ that is performed at the Imperial palace and the shrines related to it, and the _kagura_ that is performed in the countryside. Folk _kagura_, or _kagura_ from the countryside is divided according to region. The following descriptions relate to _sato kagura_, _kagura_ that is from the countryside. The main types are: _miko kagura_, _Ise kagura_, _Izumo kagura_, and _shishi kagura_.
 
-Head_miko_in_Inari_shrine,_Tanabe_179738668_4dc16b0c21_o.jpg (woman consecrated to a Shinto deity) at Inari Shrine.]]
+(woman consecrated to a Shinto deity) at Inari Shrine.]]
 
 _Miko kagura_ is the oldest type of _kagura_ and is danced by women in Shinto shrines and during folk festivals. The ancient miko were shamanesses, but are now considered priestesses in the service of the Shinto Shrines. _Miko kagura_ originally was a shamanic trance dance, but later, it became an art and was interpreted as a prayer dance. It is performed in many of the larger Shinto shrines and is characterized by slow, elegant, circular movements, by emphasis on the four directions and by the central use of torimono (objects dancers carry in their hands), especially the fan and bells.[74]
 
@@ -272,7 +272,7 @@ In the 18th century, various Japanese scholars, in particular , tried to tear ap
 
 State Shinto
 
-Chosen_Jingu.JPG in Seoul]] Fridell argues that scholars call the period 1868–1945 the "State Shinto period" because, "during these decades, Shinto elements came under a great deal of overt state influence and control as the Japanese government systematically utilized shrine worship as a major force for mobilizing imperial loyalties on behalf of modern nation-building."[95] However, the government had already been treating shrines as an extension of government before Meiji; see for example the Tenpō Reforms. Moreover, according to the scholar Jason Ānanda Josephson, It is inaccurate to describe shrines as constituting a "state religion" or a "theocracy" during this period since they had neither organization, nor doctrine, and were uninterested in conversion.[96]
+in Seoul]] Fridell argues that scholars call the period 1868–1945 the "State Shinto period" because, "during these decades, Shinto elements came under a great deal of overt state influence and control as the Japanese government systematically utilized shrine worship as a major force for mobilizing imperial loyalties on behalf of modern nation-building."[95] However, the government had already been treating shrines as an extension of government before Meiji; see for example the Tenpō Reforms. Moreover, according to the scholar Jason Ānanda Josephson, It is inaccurate to describe shrines as constituting a "state religion" or a "theocracy" during this period since they had neither organization, nor doctrine, and were uninterested in conversion.[96]
 
 The Meiji Restoration reasserted the importance of the emperor and the ancient chronicles to establish the Empire of Japan, and in 1868 the government attempted to recreate the ancient imperial Shinto by separating shrines from the temples that housed them. During this period, numerous scholars of _kokugaku_ believed that this national Shinto could be the unifying agent of the country around the Emperor while the process of modernization was undertaken with all possible speed. The psychological shock of the Western "Black Ships" and the subsequent collapse of the shogunate convinced many that the nation needed to unify in order to resist being colonized by outside forces.
 

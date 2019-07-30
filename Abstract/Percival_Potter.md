@@ -1,1 +1,0 @@
-PERCIVAL GEORGE CHARLES POTTER (4 September 1906 – 17 August 1975) was an Australian politician who was a Labor Party member of the Legislative Assembly of Western Australia from 1956 to 1959, representing the seat of Subiaco.

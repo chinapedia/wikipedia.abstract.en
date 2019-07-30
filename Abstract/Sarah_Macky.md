@@ -1,1 +1,0 @@
-SARAH MACKY (born January 13, 1980) is a New Zealand former sailor, who specialized in the Europe class.[1] She scored top ten finishes on her signature boat in two editions of the Olympic Games (2000 and 2004), and also trained throughout most of her sailing career for Kohimarama Yacht Club, under the tutelage of her coach and former Olympian Leslie Egnot.[2]

@@ -1,1 +1,0 @@
-"SOLDIER OF FORTUNE" is an electronic pop song by Australian pop singer John Paul Young, written by John Capek and Marc Jordan, and released in 1983.[1][2] The song peaked at number 17 on the Australian Kent Music Report and stayed in the chart for 19 weeks.

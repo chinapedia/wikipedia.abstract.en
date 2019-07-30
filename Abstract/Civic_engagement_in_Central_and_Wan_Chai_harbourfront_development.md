@@ -1,1 +1,0 @@
-CIVIC ENGAGEMENT IN CENTRAL AND WAN CHAI HARBOURFRONT DEVELOPMENT is a process of civic engagement initiated by the Government of Hong Kong to explore the future development of the Victoria Harbour and its harbourfront areas since 2004. It was launched in response to the government's defeat in the judicial review case against the Central and Wan Chai Reclamation projects.

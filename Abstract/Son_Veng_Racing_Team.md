@@ -1,1 +1,0 @@
-SON VENG RACING TEAM is a Macanese auto racing team based in Taipa, Macau. The team has raced in the TCR International Series, since 2016.[1] Having previously raced in the World Touring Car Championship and the Macau Road Sport Challenge amongst others.

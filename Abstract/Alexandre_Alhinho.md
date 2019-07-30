@@ -1,1 +1,0 @@
-ALEXANDRE MANUEL FORTES ALHINHO (born December 7, 1953 in São Vicente) is a Cape Verdean retired footballer who played as a defender and a manager of regional clubs and the national team between 2003[1] and 2006.

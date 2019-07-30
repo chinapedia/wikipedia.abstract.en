@@ -1,1 +1,0 @@
-René_Bernards_(2018).jpg RENÉ BERNARDS (born 4 January 1953) is a Dutch cancer researcher. He is professor of molecular carcinogenesis at Utrecht University and head of the section of molecular carcinogenesis at the Netherlands Cancer Institute-Antoni van Leeuwenhoekziekenuis. Bernards is a winner of the 2005 Spinoza Prize.

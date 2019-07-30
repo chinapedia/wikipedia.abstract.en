@@ -1,1 +1,0 @@
-ISIDORE GLUCKSTEIN (1851–1920) was a director of Salmon & Gluckstein tobacco merchants, and one of the founders of J. Lyons and Co., a restaurant chain, food manufacturing, and hotel conglomerate created in 1884 that dominated British mass-catering in the first half of the twentieth century.[1]

@@ -35,7 +35,7 @@ Gay, lesbian, bisexual, and transgender people staged a small riot at the Cooper
 
 Greenwich Village
 
-Washington_square_park.jpg in Greenwich Village]]
+in Greenwich Village]]
 
 The Manhattan neighborhoods of Greenwich Village and Harlem were home to sizable homosexual populations after World War I, when men and women and those in between who had served in the military took advantage of the opportunity to settle in larger cities. The enclaves of gay men and lesbians, described by a newspaper story as "short-haired women and long-haired men", developed a distinct subculture through the following two decades.[46] Prohibition inadvertently benefited gay establishments, as drinking alcohol was pushed underground along with other behaviors considered immoral. New York City passed laws against homosexuality in public and private businesses, but because alcohol was in high demand, speakeasies and impromptu drinking establishments were so numerous and temporary that authorities were unable to police them all.[47]
 
@@ -49,8 +49,6 @@ None of the bars frequented by gay men and lesbians were owned by gay people. Al
 
 Stonewall Inn
 
-Stonewall_Inn_in_Greenwich_Village_map.png
-
 The Stonewall Inn, located at 51 and 53 Christopher Street, along with several other establishments in the city, was owned by the Genovese crime family.[57][58] In 1966, three members of the Mafia invested $3,500 to turn the Stonewall Inn into a gay bar, after it had been a restaurant and a nightclub for heterosexuals. Once a week a police officer would collect envelopes of cash as a payoff, as the Stonewall Inn had no liquor license.[59][60] It had no running water behind the bar—used glasses were run through tubs of water and immediately reused.[61][62] There were no fire exits, and the toilets overran consistently.[63] Though the bar was not used for prostitution, drug sales and other "cash transactions" took place. It was the only bar for gay men in New York City where dancing was allowed;[64] dancing was its main draw since its re-opening as a gay club.[65]
 
 Visitors to the Stonewall Inn in 1969 were greeted by a bouncer who inspected them through a peephole in the door. The legal drinking age was 18, and to avoid unwittingly letting in undercover police (who were called "Lily Law", "Alice Blue Gown", or "Betty Badge"[66]), visitors would have to be known by the doorman, or look gay. The entrance fee on weekends was $3, for which the customer received two tickets that could be exchanged for two drinks. Patrons were required to sign their names in a book to prove that the bar was a private "bottle club", but rarely signed their real names.[67] There were two dance floors in the Stonewall; the interior was painted black, making it very dark inside, with pulsing gel lights or black lights. If police were spotted, regular white lights were turned on, signaling that everyone should stop dancing or touching.[68] In the rear of the bar was a smaller room frequented by "queens"; it was one of two bars where effeminate men who wore makeup and teased their hair (though dressed in men's clothing) could go.[69] Only a few transvestites, or men in full drag, were allowed in by the bouncers. The customers were "98 percent male" but a few lesbians sometimes came to the bar. Younger homeless adolescent males, who slept in nearby Christopher Park, would often try to get in so customers would buy them drinks.[70] The age of the clientele ranged between the upper teens and early thirties, and the racial mix was evenly distributed among white, black, and Hispanic patrons.[71][72] Because of its even mix of people, its location, and the attraction of dancing, the Stonewall Inn was known by many as "_the_ gay bar in the city".[73]
@@ -61,8 +59,6 @@ Police raids on gay bars were frequent—occurring on average once a month for e
 Riots
 
 Police raid
-
-Layout_of_the_Stonewall_Inn_1969-en.svg
 
 At 1:20 a.m. on Saturday, June 28, 1969, four plainclothes policemen in dark suits, two patrol officers in uniform, and Detective Charles Smythe and Deputy Inspector Seymour Pine arrived at the Stonewall Inn's double doors and announced "Police! We're taking the place!"[81] Stonewall employees do not recall being tipped off that a raid was to occur that night, as was the custom. According to Duberman (p. 194), there was a rumor that one might happen, but since it was much later than raids generally took place, Stonewall management thought the tip was inaccurate.
 
@@ -86,7 +82,7 @@ Multiple accounts of the riot assert that there was no pre-existing organization
 
   We all had a collective feeling like we'd had enough of this kind of shit. It wasn't anything tangible anybody said to anyone else, it was just kind of like everything over the years had come to a head on that one particular night in the one particular place, and it was not an organized demonstration... Everyone in the crowd felt that we were never going to go back. It was like the last straw. It was time to reclaim something that had always been taken from us.... All kinds of people, all different reasons, but mostly it was total outrage, anger, sorrow, everything combined, and everything just kind of ran its course. It was the police who were doing most of the destruction. We were really trying to get back in and break free. And we felt that we had freedom at last, or freedom to at least show that we demanded freedom. We weren't going to be walking meekly in the night and letting them shove us around—it's like standing your ground for the first time and in a really strong way, and that's what caught the police by surprise. There was something in the air, freedom a long time overdue, and we're going to fight for it. It took different forms, but the bottom line was, we weren't going to go away. And we didn't.[103]
 
-Stonewall_riots.jpg'' on Sunday, June 29, 1969, showing the "street kids" who were the first to fight with the police.]]
+'' on Sunday, June 29, 1969, showing the "street kids" who were the first to fight with the police.]]
 
 The only known photograph taken during the first night of the riots shows the homeless youth who slept in nearby Christopher Park, scuffling with police.[104] The Mattachine Society newsletter a month later offered its explanation of why the riots occurred: "It catered largely to a group of people who are not welcome in, or cannot afford, other places of homosexual social gathering... The Stonewall became home to these kids. When it was raided, they fought for it. That, and the fact that they had nothing to lose other than the most tolerant and broadminded gay place in town, explains why."[105]
 
@@ -102,7 +98,7 @@ The Tactical Patrol Force (TPF) of the New York City Police Department arrived t
 
 The TPF formed a phalanx and attempted to clear the streets by marching slowly and pushing the crowd back. The mob openly mocked the police. The crowd cheered, started impromptu kick lines, and sang to the tune of Ta-ra-ra Boom-de-ay: "We are the Stonewall girls/ We wear our hair in curls/ We don't wear underwear/ We show our pubic hair."[114][115][116] Lucian Truscott reported in _The Village Voice_: "A stagnant situation there brought on some gay tomfoolery in the form of a chorus line facing the line of helmeted and club-carrying cops. Just as the line got into a full kick routine, the TPF advanced again and cleared the crowd of screaming gay power[-]ites down Christopher to Seventh Avenue."[117] One participant who had been in the Stonewall during the raid recalled, "The police rushed us, and that's when I realized this is not a good thing to do, because they got me in the back with a nightstick." Another account stated, "I just can't ever get that one sight out of my mind. The cops with the [nightsticks] and the kick line on the other side. It was the most amazing thing... And all the sudden that kick line, which I guess was a spoof on the machismo... I think that's when I felt rage. Because people were getting smashed with bats. And for what? A kick line."[118]
 
-ChristopherPark3358.jpg, where many of the demonstrators met after the first night of rioting to talk about what had happened, now features a sculpture of four white figures by George Segal that commemorates the milestone.[119]]]
+, where many of the demonstrators met after the first night of rioting to talk about what had happened, now features a sculpture of four white figures by George Segal that commemorates the milestone.[119]]]
 
 Craig Rodwell, owner of the Oscar Wilde Memorial Bookshop, reported watching police chase participants through the crooked streets, only to see them appear around the next corner behind the police. Members of the mob stopped cars, overturning one of them to block Christopher Street. Jack Nichols and Lige Clarke, in their column printed in _Screw_, declared that "massive crowds of angry protesters chased [the police] for blocks screaming, 'Catch them!' "[120]
 
@@ -131,7 +127,7 @@ Aftermath
 
 The feeling of urgency spread throughout Greenwich Village, even to people who had not witnessed the riots. Many who were moved by the rebellion attended organizational meetings, sensing an opportunity to take action. On July 4, 1969, the Mattachine Society performed its annual picketing in front of Independence Hall in Philadelphia, called the Annual Reminder. Organizers Craig Rodwell, Frank Kameny, Randy Wicker, Barbara Gittings, and Kay Lahusen, who had all participated for several years, took a bus along with other picketers from New York City to Philadelphia. Since 1965, the pickets had been very controlled: women wore skirts and men wore suits and ties, and all marched quietly in organized lines.[148] This year Rodwell remembered feeling restricted by the rules Kameny had set. When two women spontaneously held hands, Kameny broke them apart, saying, "None of that! None of that!" Rodwell, however, convinced about ten couples to hold hands. The hand-holding couples made Kameny furious, but they earned more press attention than all of the previous marches.[149][150] Participant Lilli Vincenz remembered, "It was clear that things were changing. People who had felt oppressed now felt empowered."[151] Rodwell returned to New York City determined to change the established quiet, meek ways of trying to get attention. One of his first priorities was planning Christopher Street Liberation Day.[152]
 
-Demonstration,_with_Gay_Liberation_Front_Banner.jpg, London, including members of the Gay Liberation Front (GLF). The GLF in the UK held its first meeting in a basement classroom at the London School of Economics on October 13, 1970. The organization was very informal, instituting marches and other activities, leading to the first British Gay Pride March in 1972.]]
+, London, including members of the Gay Liberation Front (GLF). The GLF in the UK held its first meeting in a basement classroom at the London School of Economics on October 13, 1970. The organization was very informal, instituting marches and other activities, leading to the first British Gay Pride March in 1972.]]
 
 Gay Liberation Front
 
@@ -184,7 +180,7 @@ Author Michael Bronski highlights the "attack on pre-Stonewall culture", particu
 
 Lasting impact and recognition
 
-Stonewall_Inn_New_York_002.JPG was located. The building and the surrounding streets have been declared a National Historic Landmark.]]
+was located. The building and the surrounding streets have been declared a National Historic Landmark.]]
 
 The riots spawned from a bar raid became a literal example of gays and lesbians fighting back, and a symbolic call to arms for many people. Historian David Carter remarks in his book about the Stonewall riots that the bar itself was a complex business that represented a community center, an opportunity for the Mafia to blackmail its own customers, a home, and a place of "exploitation and degradation".[212] The true legacy of the Stonewall riots, Carter insists, is the "ongoing struggle for lesbian, gay, bisexual, and transgender equality".[213] Historian Nicholas Edsall writes,
 
@@ -194,7 +190,7 @@ Before the rebellion at the Stonewall Inn, homosexuals were, as historians Dudle
 
   a secret legion of people, known of but discounted, ignored, laughed at or despised. And like the holders of a secret, they had an advantage which was a disadvantage, too, and which was true of no other minority group in the United States. They were invisible. Unlike African Americans, women, Native Americans, Jews, the Irish, Italians, Asians, Hispanics, or any other cultural group which struggled for respect and equal rights, homosexuals had no physical or cultural markings, no language or dialect which could identify them to each other, or to anyone else... But that night, for the first time, the usual acquiescence turned into violent resistance.... From that night the lives of millions of gay men and lesbians, and the attitude toward them of the larger culture in which they lived, began to change rapidly. People began to appear in public as homosexuals, demanding respect.[215]
 
-Historian Lillian Faderman calls the riots the "shot heard round the world", explaining, "The Stonewall Rebellion was crucial because it sounded the rally for that movement. It became an emblem of gay and lesbian power. By calling on the dramatic tactic of violent protest that was being used by other oppressed groups, the events at the Stonewall implied that homosexuals had as much reason to be disaffected as they."[216] Stonewall_Inn_raid_sign_pride_weekend_2016.jpg
+Historian Lillian Faderman calls the riots the "shot heard round the world", explaining, "The Stonewall Rebellion was crucial because it sounded the rally for that movement. It became an emblem of gay and lesbian power. By calling on the dramatic tactic of violent protest that was being used by other oppressed groups, the events at the Stonewall implied that homosexuals had as much reason to be disaffected as they."[216]
 
 Joan Nestle co-founded the Lesbian Herstory Archives in 1974, and credits "its creation to that night and the courage that found its voice in the streets."[217] Cautious, however, not to attribute the start of gay activism to the Stonewall riots, Nestle writes,
 
@@ -214,7 +210,7 @@ Obama also referenced the Stonewall riots in a call for full equality during his
 
   We, the people, declare today that the most evident of truths—that all of us are created equal—is the star that guides us still; just as it guided our forebears through Seneca Falls, and Selma, and Stonewall.... Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law—for if we are truly created equal, then surely the love we commit to one another must be equal as well.[235]
 
-Stonewall_Inn_6_pride_weekend_2016.jpg]]
+]]
 
 This was a historic moment, being the first time that a president mentioned gay rights or the word "gay" in an inaugural address.[236][237]
 
@@ -226,7 +222,7 @@ In 2019, Paris, France named a square Stonewall Riots Square.[243]
 
 Historic landmark and monument
 
-The_Plaque_at_Stonewall_Inn.jpg In June 1999, the U.S. Department of the Interior designated 51 and 53 Christopher Street and the surrounding area in Greenwich Village to be on the National Register of Historic Places, the first of significance to the lesbian, gay, bisexual and transgender community. In a dedication ceremony, Assistant Secretary of the Department of the Interior John Berry stated, "Let it forever be remembered that here—on this spot—men and women stood proud, they stood fast, so that we may be who we are, we may work where we will, live where we choose and love whom our hearts desire."[244] The Stonewall Inn was itself named a National Historic Landmark in February 2000.[245]
+In June 1999, the U.S. Department of the Interior designated 51 and 53 Christopher Street and the surrounding area in Greenwich Village to be on the National Register of Historic Places, the first of significance to the lesbian, gay, bisexual and transgender community. In a dedication ceremony, Assistant Secretary of the Department of the Interior John Berry stated, "Let it forever be remembered that here—on this spot—men and women stood proud, they stood fast, so that we may be who we are, we may work where we will, live where we choose and love whom our hearts desire."[244] The Stonewall Inn was itself named a National Historic Landmark in February 2000.[245]
 
 In May 2015, the New York City Landmarks Preservation Commission announced it would officially consider designating the Stonewall Inn as a landmark, making it the first city location to be considered based on its LGBT cultural significance alone.[246] On June 23, 2015, the New York City Landmarks Preservation Commission unanimously approved the designation of the Stonewall Inn as a city landmark, making it the first landmark honored for its role in the fight for gay rights.[247]
 

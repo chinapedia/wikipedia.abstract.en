@@ -1,1 +1,0 @@
-JELLY is a dessert made with a sweetened and flavored processed collagen product (gelatin). This kind of dessert is first recorded by Hannah Glasse in her 18th century book _The Art of Cookery_, appearing in a layer of trifle. Jelly is also featured in the best selling cookbooks of English food writers Eliza Acton and Isabella Beeton in the 19th century.

@@ -1,1 +1,0 @@
-The CZ EXTREME EURO OPEN is an IPSC level 3 shooting competition held annually in June at the Hodonice shooting range near the town Znojmo in the South Moravian Region of the Czech Republic. The match is organized by the company Extreme Gun Group, Ltd. and the Extreme Squad shooting club.

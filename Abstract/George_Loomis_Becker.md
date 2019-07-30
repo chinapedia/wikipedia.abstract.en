@@ -1,1 +1,0 @@
-George_Loomis_Becker.jpg

@@ -1,1 +1,0 @@
-Sajek_Valley_2.jpg SAJEK VALLEY - সাজেক ভ্যালি / মেঘের উপত্যকায় জীবন is an emerging tourist spot in Bangladesh situated among the hills of Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.[1] The valley is above sea level.[2] Sajek valley is known as the Queen of Hills & Roof of Rangamati.

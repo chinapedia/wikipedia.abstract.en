@@ -1,1 +1,0 @@
-The RUSSIAN REVOLUTION was a period of political and social revolution across the territory of the Russian Empire which started with the abolishment of monarchy and concluded with the establishment of the Soviet Union by the bolsheviks and the end of the civil war.

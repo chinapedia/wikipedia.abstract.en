@@ -1,1 +1,0 @@
-Guillaume_Delisle_Senegambia_1707.jpg (1770)]] The HISTORY OF SENEGAL is commonly divided into a number of periods, encompassing the prehistoric era, the precolonial period, colonialism, and the contemporary era.

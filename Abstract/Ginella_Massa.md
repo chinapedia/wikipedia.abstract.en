@@ -1,1 +1,0 @@
-GINELLA MASSA (born January 29, 1987) is a Canadian television journalist.[1] A reporter and anchor for _CityNews_ on CITY-DT in Toronto, Ontario, she is most noted for becoming Canada’s first hijab-wearing television news anchor when she anchored the station's 11 p.m. newscast on November 17, 2016.[2]

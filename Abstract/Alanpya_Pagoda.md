@@ -1,1 +1,0 @@
-ALANPYA PAGODA (; also known as SIGNAL PAGODA) is a Burmese pagoda located on Alanpya Hill, on the southern part of Dhammarakhita Hill, in Yangon, Myanmar.[1] The pagoda is south of Maha Wizaya Pagoda.

@@ -1,1 +1,0 @@
-RYONGMUN T'AN'GWANG STATION (RYONGMUN COLLIERY STATION) is a railway station in Ryongmul-lodongjagu, Kujang county, North P'yŏngan province, North Korea. It is the terminus of the Ryongmun Colliery Line of the Korean State Railway.[1]

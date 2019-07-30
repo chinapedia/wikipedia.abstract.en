@@ -1,1 +1,0 @@
-VARAVUT MAJCHACHEEP (born June 8, 1973) is a Thai sport shooter. He competed in rifle shooting events at the 2000 Summer Olympics. He is the brother of Tevarit Majchacheep, who was also an Olympic shooter for Thailand.[1]

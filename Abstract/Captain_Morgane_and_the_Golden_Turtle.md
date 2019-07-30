@@ -1,1 +1,0 @@
-_CAPTAIN MORGANE AND THE GOLDEN TURTLE_ is a point-and-click adventure game released for the PC, PlayStation 3, Wii and Nintendo DS in 2012. It is a sequel to the 2008 game _So Blonde_ and the 2010 game _So Blonde: Back to the Island_, but takes place a little while before them.

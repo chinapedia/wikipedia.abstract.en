@@ -1,1 +1,0 @@
-'''María Coto ''' (born 2 March 1998) is a Costa Rican footballer who plays as a defender for the Costa Rica women's national football team.[1] She was part of the team at the 2015 FIFA Women's World Cup. On club level she plays for L.D. Alajuelense in Costa Rica.[2]

@@ -9,7 +9,7 @@ One of the challenges of string theory is that the full theory does not have a s
 
 Fundamentals
 
-Open_and_closed_strings.svg models.]]
+models.]]
 
 In the twentieth century, two theoretical frameworks emerged for formulating the laws of physics. The first is Albert Einstein's general theory of relativity, a theory that explains the force of gravity and the structure of space and time. The other is quantum mechanics which is a completely different formulation to describe physical phenomena using the known probability principles. By the late 1970s, these two frameworks had proven to be sufficient to explain most of the observed features of the universe, from elementary particles to atoms to the evolution of stars and the universe as a whole.[1]
 
@@ -27,7 +27,7 @@ One of the challenges of string theory is that the full theory does not have a s
 
 Strings
 
-World_lines_and_world_sheet.svgs of point-like particles or a worldsheet swept up by closed strings in string theory.]]
+s of point-like particles or a worldsheet swept up by closed strings in string theory.]]
 
 The application of quantum mechanics to physical objects such as the electromagnetic field, which are extended in space and time, is known as quantum field theory. In particle physics, quantum field theories form the basis for our understanding of elementary particles, which are modeled as excitations in the fundamental fields.[15]
 

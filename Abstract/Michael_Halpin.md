@@ -1,1 +1,0 @@
-MICHAEL HALPIN is a Democratic member of the Illinois House of Representatives representing the 72nd district.[1] The 72nd district is located in the Quad Cities and includes East Moline, Moline, Rock Island, Milan, Taylor Ridge and Andalusia.[2]

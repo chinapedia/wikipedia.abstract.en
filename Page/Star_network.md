@@ -1,7 +1,5 @@
 Starnet}}
 
-StarNetwork.svg Star_Topology.png
-
 A STAR NETWORK is an implementation of a spoke–hub distribution paradigm in computer networks. In a star network, every host is connected to a central hub. In its simplest form, one central hub acts as a conduit to transmit messages.[1] The star network is one of the most common computer network topologies.
 
 The hub and hosts, and the transmission lines between them, form a graph with the topology of a star. Data on a star network passes through the hub before continuing to its destination. The hub manages and controls all functions of the network. It also acts as a repeater for the data flow.

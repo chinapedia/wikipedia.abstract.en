@@ -1,1 +1,0 @@
-CITIZEN KAY is a Canberra based hip hop artist.[1] His debut EP _Demokracy_ was nominated for a 2015 ARIA Award for Best Urban Album[2] and his debut album _With The People_ was nominated the next year.[3]

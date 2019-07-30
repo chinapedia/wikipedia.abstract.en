@@ -1,1 +1,0 @@
-PARATECH AG was a Swiss aircraft manufacturer based in Wasserauen and previously in Appenzell. The company specialized in the design and manufacture of paragliders in the form of ready-to-fly aircraft, as well as paragliding harnesses, clothing and accessories.[1]

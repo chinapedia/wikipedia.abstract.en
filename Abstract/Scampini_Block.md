@@ -1,1 +1,0 @@
-The SCAMPINI BLOCK is a historic commercial building at 289 North Main Street in the city of Barre, Vermont. Built in 1904, it is an elegant showcase of the skills of local granite carvers, and was for many years a social center for the area's large immigrant stoneworkers. It was listed on the National Register of Historic Places in 2007.[1]

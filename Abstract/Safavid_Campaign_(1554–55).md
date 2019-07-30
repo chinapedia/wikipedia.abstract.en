@@ -1,1 +1,0 @@
-The SAFAVID CAMPAIGN OF 1554–55 was the final bout of hostilities between the Ottomans and the Safavids during the Ottoman-Safavid War of 1532–55. It was launched by Suleiman the Magnificent (r. 1520–66), and took place between June 1554 and May 1555. It was part of the wider Sunni–Shia conflict.

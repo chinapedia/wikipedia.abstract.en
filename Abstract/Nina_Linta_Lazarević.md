@@ -1,1 +1,0 @@
-NINA LINTA LAZAREVIĆ (; aka Nina Lazarević; born on 20 August 1976 in Belgrade, [then part of PR Serbia] in Yugoslavia)[1] is a Serbian theater, film, and television actress, theatrical producer and playwright.

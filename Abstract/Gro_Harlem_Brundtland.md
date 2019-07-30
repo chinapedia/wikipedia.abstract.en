@@ -1,1 +1,0 @@
-GRO HARLEM BRUNDTLAND (; born GRO HARLEM, 20 April 1939) is a Norwegian politician, who served three terms as Prime Minister of Norway (1981, 1986–89, and 1990–96) and as Director-General of the World Health Organization from 1998 to 2003. She is also known for having chaired the Brundtland Commission which presented the Brundtland Report on sustainable development.

@@ -1,1 +1,0 @@
-CESAR CHAVEZ (born October 30, 1987) is a Mexican-American politician and a Democratic member of the Arizona House of Representatives elected to represent District 29 in 2016. Prior to entering the political arena, Chavez had traveled internationally as a Mariachi vocalist.

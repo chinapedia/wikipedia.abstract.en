@@ -1,1 +1,0 @@
-_AT RUEDESHEIMER CASTLE THERE IS A LIME TREE_ (German: _AM RUEDESHEIMER SCHLOSS STEHT EINE LINDE_) is a 1928 German silent film directed by Johannes Guter and starring Werner Fuetterer, Marija Leiko and Alvin Neuss.[1] It was made by the German subsidiary of the American Fox Film company. It takes its title from a popular German song of the same name.

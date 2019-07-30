@@ -1,1 +1,0 @@
-BactrianZoroastrian.jpg head of a Zoroastrian priest wearing a distinctive Bactrian-style headdress, Takhti-Sangin, Tajikistan, Greco-Bactrian kingdom, 3rd-2nd century BC]] Ti-map.gif map of Tajikistan]] Tajikistan_OVER.jpg

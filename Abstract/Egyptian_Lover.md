@@ -1,1 +1,0 @@
-Rapp_Extravaganza_-_July_12,_1987_(ticket).jpg GREGORY BROUSSARD (born August 31, 1963 in Los Angeles, California), better known by his stage name EGYPTIAN LOVER, is an American musician, vocalist, producer and DJ, and was an important part of the L.A. dance music and rap scene in the early 1980s.[1]

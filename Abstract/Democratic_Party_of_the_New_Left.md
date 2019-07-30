@@ -1,1 +1,0 @@
-DEMOCRATIC PARTY OF THE NEW LEFT (in Spanish: _Partido Democrático de la Nueva Izquierda_; PDNI) was a social democratic and ecologist political party in Spain. Its was created in 1996[1] by a group that split from the United Left (IU) led by Cristina Almeida and Diego López Garrido.

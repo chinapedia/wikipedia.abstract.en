@@ -1,1 +1,0 @@
-STEDMAN SHUMWAY HANKS (July 17, 1889 – May 23, 1979) was one of the early aviators in the United States. After leaving active military service, he became a prolific writer and a prominent airport engineer who advocated airport construction across the United States.

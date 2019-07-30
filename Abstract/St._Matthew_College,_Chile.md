@@ -1,1 +1,0 @@
-ST. MATTHEW COLLEGE, CHILE, (_Colegio San Mateo_) is a Jesuit pre-K through secondary school in Osorno which dates back to the Institute of St. Matthew founded by the Society of the Divine Word in 1932. It is currently part of the Ignatian Educational Network of Chile and the Federation of Jesuit Colleges in Latin America (FLACSI).

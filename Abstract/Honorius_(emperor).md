@@ -1,1 +1,0 @@
-HONORIUS (; 9 September 384 – 15 August 423) was Western Roman Emperor from 395 to 423. He was the younger son of emperor Theodosius I and his first wife Aelia Flaccilla, and brother of Arcadius, who was the Eastern Emperor from 395 until his death in 408. During his reign, Rome was sacked for the first time in almost 800 years.[1]

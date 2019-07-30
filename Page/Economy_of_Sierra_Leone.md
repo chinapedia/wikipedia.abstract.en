@@ -45,7 +45,7 @@ Economic sectors
 
 Agriculture
 
-Sierra_Leone_rice_farmer.jpg Two-thirds of the population of Sierra Leone are directly involved in subsistence agriculture.[9] Agriculture accounted for 58 percent national Gross Domestic Product (GDP) in 2007.[10]
+Two-thirds of the population of Sierra Leone are directly involved in subsistence agriculture.[9] Agriculture accounted for 58 percent national Gross Domestic Product (GDP) in 2007.[10]
 
 Agriculture is the largest employer with 80 percent of the population working in the sector.[11] Rice is the most important staple crop in Sierra Leone with 85 percent of farmers cultivating rice during the rainy season[12] and an annual consumption of 76 kg per person.[13]
 
@@ -76,7 +76,7 @@ There are ten airports in Sierra Leone, of which one - Lungi International Airpo
 
 Trade and investment
 
-2006Sierra_Leonean_exports.PNG Sierra_Leone_Export_Treemap.png Mineral exports remain Sierra Leone's principal foreign exchange earner. Sierra Leone is a major producer of gem-quality diamonds. Though rich in this resource, the country has historically struggled to manage its exploitation and export. Annual production estimates range between $70–$250 million; however, only a fraction of that passes through formal export channels (1999: $1.2 million; 2000: $16 million; 2001: projections $25 million). The balance is smuggled out and has been used to finance rebel activities in the region, money laundering, arms purchases, and financing of other illicit activities, leading some to characterize Sierra Leone's diamonds as a "conflict resource."
+Mineral exports remain Sierra Leone's principal foreign exchange earner. Sierra Leone is a major producer of gem-quality diamonds. Though rich in this resource, the country has historically struggled to manage its exploitation and export. Annual production estimates range between $70–$250 million; however, only a fraction of that passes through formal export channels (1999: $1.2 million; 2000: $16 million; 2001: projections $25 million). The balance is smuggled out and has been used to finance rebel activities in the region, money laundering, arms purchases, and financing of other illicit activities, leading some to characterize Sierra Leone's diamonds as a "conflict resource."
 
 Recent efforts on the part of the country to improve the management of the export trade have met with some success. In October 2000, a new UN-approved export certification system for exporting diamonds from Sierra Leone was put into place that led to a dramatic increase in legal exports. In 2001, the Government of Sierra Leone created a mining community development fund, which returns a portion of diamond export taxes to diamond mining communities. The fund was created to raise local communities' stake in the legal diamond trade.
 

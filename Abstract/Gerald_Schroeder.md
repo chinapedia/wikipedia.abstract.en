@@ -1,1 +1,0 @@
-GERALD LAWRENCE SCHROEDER is an Orthodox Jewish physicist, author, lecturer and teacher at College of Jewish Studies Aish HaTorah's Discovery Seminar, Essentials and Fellowships programs and Executive Learning Center,[1] who focuses on what he perceives to be an inherent relationship between science and spirituality.

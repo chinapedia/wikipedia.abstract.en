@@ -1,1 +1,0 @@
-Cytochrome_c.png

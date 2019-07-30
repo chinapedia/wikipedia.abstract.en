@@ -1,1 +1,0 @@
-The EUROPEAN THERMOELECTRIC SOCIETY (ETS) is a non-profit organization founded in 1995.[1] The goals of the ETS are to promote European research and development activities and professional networking in the field of thermoelectricity.

@@ -1,1 +1,0 @@
-_SCHIZOLAENA CAULIFLORA_ is a tree in the family Sarcolaenaceae. It is endemic to Madagascar. The specific epithet __ is from the Latin meaning "stem-flowered", referring to the flowers being directly attached to the stem.

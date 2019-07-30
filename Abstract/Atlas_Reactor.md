@@ -1,1 +1,0 @@
-_ATLAS REACTOR_ is a free-to-play turn-based tactics game developed by Trion Worlds. In _Atlas Reactor_, the player takes the role of a Freelancer in the megacity of _Atlas_. The game was released in October 2016.[1] The game shut down on June 28th 2019.[2]

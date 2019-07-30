@@ -1,1 +1,0 @@
-Hamdani}} HAMADANI, HAMEDANI or HAMADHANI (, ) is an Arabic _nisbah_ (attributive title) that denotes an origin from Hamadan. It is commonly used for Badi' al-Zaman al-Hamadani, but the many notable people with the surname include:

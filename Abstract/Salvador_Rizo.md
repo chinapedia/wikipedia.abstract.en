@@ -1,1 +1,0 @@
-SALVADOR RIZO BLANCO (Santa Cruz de Mompox, Viceroyalty of New Granada, 1760 - Bogotá, Viceroyalty of New Granada, 1816) was a botanist and painter who was a person very important during the Royal Botanical Expedition to New Granada which classified plants and wildlife.

@@ -1,1 +1,0 @@
-_CONQUEST_ (aka _THE CANDLE IN THE WIND_) is a 1928 American aviation drama film, based on the short story _Conquest_ by Mary Imlay Taylor. {{#tag:ref|Prior to publication in book form, Mary Imlay Taylor's novel was serialized in _Munsey's Magazine_ (July–November 1917).[1]|group=N}} The film was made using the Vitaphone sound process. [2]

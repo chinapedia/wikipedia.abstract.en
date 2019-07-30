@@ -1,1 +1,0 @@
-WLADIMIR ZWALF (1932-2002) was a Sanskritist and expert on Buddhist art and iconography in India and Tibet. An Assistant Keeper at the British Museum, he produced _A Catalogue of Gandharan Sculpture in the British Museum_ (1996).[1]

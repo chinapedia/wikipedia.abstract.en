@@ -1,1 +1,0 @@
-TK_and_Sami.jpg STEPHEN JOHN TKOWSKI (born October 3, 1989), better known by his ring name TK O'RYAN, is an American professional wrestler currently signed by Ring of Honor (ROH), where he is a three-time ROH World Six-Man Tag Team Champion as part of The Kingdom.

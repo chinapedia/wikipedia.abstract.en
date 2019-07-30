@@ -1,1 +1,0 @@
-BIS(HYDROXYMETHYL)UREA is an organic compound with the formula OC(NHCH₂OH)₂. This white water-soluble solid is an intermediate in the formation of urea-formaldehyde resins. It forms upon treatment of urea with an excess of formaldehyde.[1]

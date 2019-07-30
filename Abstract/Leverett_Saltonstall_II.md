@@ -1,1 +1,0 @@
-Leverett_Saltonstall.jpg

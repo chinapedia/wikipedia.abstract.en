@@ -1,1 +1,0 @@
-HIGDON is an unincorporated community in northeast Madison County, in the U.S. state of Missouri.[1]

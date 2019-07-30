@@ -1,1 +1,0 @@
-The GRUPO PARA EL DESARROLLO INTEGRAL DE LA CAPITAL (Group for the Integral Development of Havana) is an urban planning effort in Havana, Cuba, established in 1987.[1] According to one scholar, it was "created to develop new ways of dealing with the problems created by three decades of neglect" of the city by the state.[2]

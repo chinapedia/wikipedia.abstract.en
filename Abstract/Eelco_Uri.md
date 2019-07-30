@@ -1,1 +1,0 @@
-EELCO URI (born 5 December 1973) is a Dutch male former water polo player. He was a member of the Netherlands men's national water polo team. He competed with the team at the 1994 World Championships, the 1995, 1997, 1999, 2001 and 2003 European Championships. 1996 Summer Olympics and 2000 Summer Olympics. He played 256 tests. [1]

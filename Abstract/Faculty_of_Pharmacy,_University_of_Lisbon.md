@@ -1,1 +1,0 @@
-The FACULTY OF PHARMACY, UNIVERSITY OF LISBON (FFULisboa) is a Portuguese public institution of higher education dedicated to education, research, knowledge transfer and continuing education in the fields of pharmacy, medicine, and pharmaceutical sciences.[1]

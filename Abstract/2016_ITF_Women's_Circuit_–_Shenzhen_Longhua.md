@@ -1,1 +1,0 @@
-The 2016 ITF WOMEN'S CIRCUIT – SHENZHEN LONGHUA was a professional tennis tournament played on outdoor hard courts. It was the 1st edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $100,000 in prize money. It took place in Shenzhen, China, on 14–20 November 2016.

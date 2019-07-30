@@ -11,7 +11,7 @@ Multilateral
 -   From May to July 1997, Slovenia contributed to Operation ALBA in Albania with a 25-person medical unit, which was well received and commended by the Italian commander. Thereafter, it continued to support efforts to restore stability in Albania by participating in the WEU's Multinational Advisory Police Element (MAPE) helping to reconstitute and train Albanian police. The government has pledged to the Albanian Government its continuing support;
 -   Since November 1997, Slovenia has participated in its first United Nations peacekeeping operation, contributing 27 troops to an Austrian UNFICYP contingent on Cyprus. Slovenia also has peacekeepers with the UN at Naharya Ogl, Israel, on the Lebanese border.
 
-Embassy_of_Slovenia_in_the_Hague_-_IMG_2273.jpg.]]
+.]]
 
 
 Meeting NATO/Partnership for Peace/EAPC goals

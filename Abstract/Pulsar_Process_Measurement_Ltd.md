@@ -1,1 +1,0 @@
-PULSAR PROCESS MEASUREMENT LTD is a British company with an office in Malvern, Worcestershire and an office in Earls Colne, Essex. The company was founded in 1997 and is also commonly known as 'Pulsar' or 'Pulsar PM'.[1]

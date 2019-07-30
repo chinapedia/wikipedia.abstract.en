@@ -1,1 +1,0 @@
-_JON GLASER LOVES GEAR_ is an American mockumentary television series with reality segments that premiered October 25, 2016 on truTV. Hosted by Jon Glaser playing a fictionalized version of himself, the show focuses on the comedian's love of gear and gadgets.[1][2]

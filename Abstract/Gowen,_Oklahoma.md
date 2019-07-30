@@ -1,1 +1,0 @@
-GOWEN is an unincorporated community in Latimer County, Oklahoma, United States.[1] The community is located to the south of U.S. Route 270 and west-southwest of Wilburton. Gowen has a post office with ZIP code 74545, which opened on January 13, 1894.[2][3] The community was named for lawyer Francis I. Gowen.[4]

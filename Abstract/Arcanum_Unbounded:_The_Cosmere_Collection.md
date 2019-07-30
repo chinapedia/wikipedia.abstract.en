@@ -1,1 +1,0 @@
-_ARCANUM UNBOUNDED: THE COSMERE COLLECTION_ is a collection of epic fantasy short stories and novellas written by American author Brandon Sanderson set in his Cosmere universe. It was published on November 22, 2016 by Tor Books.[1]

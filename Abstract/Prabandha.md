@@ -1,1 +1,0 @@
-PRABANDHA is a literary genre of medieval Indian Sanskrit literature. The _prabandha_s contain semi-historical anecdotes about the lives of famous persons. They were written primarily by Jain scholars of western India (Gujarat and Malwa) from 13th century onwards. The _prabandha_s feature colloquial Sanskrit with vernacular expressions, and contain elements of folklore.

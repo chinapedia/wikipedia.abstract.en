@@ -1,1 +1,0 @@
-SAVE THE DUNES CONSERVATION FUND, originally known as Save the Dunes Council, is a 501(c)(3) nonprofit organization out of Northwest Indiana. Save the Dunes' mission is to preserve, protect and restore the Indiana dunes and all natural resources in Northwest Indiana’s Lake Michigan Watershed for an enhanced quality of life.[1]

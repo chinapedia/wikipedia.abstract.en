@@ -1,1 +1,0 @@
-_HEAVEN SENT_ is the fifth studio album by Australian pop singer John Paul Young, released in November 1979. The album was produced by Vanda & Young. It peaked at number 95 on the Australian Kent Music Report.[1]

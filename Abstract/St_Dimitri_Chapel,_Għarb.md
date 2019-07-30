@@ -1,1 +1,0 @@
-The CHAPEL OF ST DEMETRIUS, more commonly known as SAN DIMITRI CHAPEL, is a small rural Roman Catholic church located in Għarb, Gozo, Malta. This is the only church in Malta dedicated to this Greek saint.

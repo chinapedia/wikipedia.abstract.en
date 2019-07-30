@@ -1,1 +1,0 @@
-_SILICONN CITY_ is a 2017 Kannada action film directed by Murali Gurappa, in his first direction. The film features Srinagar Kitty, Anil Siddhu,Suraj Gowda, Kavya Shetty and Ekta Rathod in the lead roles.[1][2][3] The film is a remake of Tamil film _Metro_ (2016).[4] [5] [6] The film was released in around 200 screens across Karnataka on 16 June 2017.

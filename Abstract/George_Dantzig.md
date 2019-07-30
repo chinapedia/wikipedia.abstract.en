@@ -1,1 +1,0 @@
-GEORGE BERNARD DANTZIG (; November 8, 1914 – May 13, 2005) was an American mathematical scientist who made contributions to industrial engineering, operations research, computer science, economics, and statistics.

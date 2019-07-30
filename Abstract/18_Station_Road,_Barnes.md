@@ -1,1 +1,0 @@
-18_Station_Road,_Barnes,_London_07.jpg

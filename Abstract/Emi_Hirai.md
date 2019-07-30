@@ -1,1 +1,0 @@
-EMI HIRAI (; born October 14, 1986) is a Japanese ice dancer. With skating partner Marien de la Asuncion, she is a four-time Japanese national silver medalist and has competed at four Four Continents Championships.

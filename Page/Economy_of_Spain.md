@@ -7,7 +7,7 @@ In 2015, the Spanish GDP grew by 3.2%, a rate not seen since 2007, before the cr
 
 History
 
-14-08-05-barcelona-RalfR-068.jpg, Barcelona]] Edificio_del_I.N.E._(Madrid)_01.jpg of Spain]] The_Corporation_(6452393677).jpg]] Interior_del_Palacio_de_la_Bolsa,_Madrid,_España,_2017_30.jpg, the largest and most international of Spain]] Bilbao_-_Zubizuri_07.jpg (Basque Country)]] WTCZ_World_Trade_Center_Zaragoza.JPG (Aragón)]] Torre_Sevilla_desde_Puente_de_Triana.jpg (Seville) (Andalusia)]] Benidorm_vista_04.JPG, a popular tourist destination]] MMM_Aérea_Puerto_de_Algeciras.jpg in the Bay of Gibraltar, the 7th busiest container port in Europe]]
+, Barcelona]] of Spain]] ]] , the largest and most international of Spain]] (Basque Country)]] (Aragón)]] (Seville) (Andalusia)]] , a popular tourist destination]] in the Bay of Gibraltar, the 7th busiest container port in Europe]]
 
 When Spain joined the EEC in 1986 its GDP per capita was about 72% of the average of its members.[17]
 
@@ -56,7 +56,7 @@ In all, the Spanish real estate market is experiencing a new boom, this time in 
 
 Euro debt crisis
 
-In the first weeks of 2010, renewed anxiety about the excessive levels of debt in some EU countries and, more generally, about the health of the euro has spread from Ireland and Greece to Portugal, and to a lesser extent in Spain. Eurozone.svg (dark blue), and of the EU single market. ]] Many economists recommended a battery of policies to control the surging public debt caused by the recessionary collapse of tax revenues, combining drastic austerity measures with higher taxes. Some senior German policy makers went as far as to say that emergency bailouts should include harsh penalties to EU aid recipients such as Greece.[52] It has been noted that the Spanish government budget was in surplus in the years immediately before the global financial crisis and that its debt was not considered excessive.
+In the first weeks of 2010, renewed anxiety about the excessive levels of debt in some EU countries and, more generally, about the health of the euro has spread from Ireland and Greece to Portugal, and to a lesser extent in Spain. (dark blue), and of the EU single market. ]] Many economists recommended a battery of policies to control the surging public debt caused by the recessionary collapse of tax revenues, combining drastic austerity measures with higher taxes. Some senior German policy makers went as far as to say that emergency bailouts should include harsh penalties to EU aid recipients such as Greece.[52] It has been noted that the Spanish government budget was in surplus in the years immediately before the global financial crisis and that its debt was not considered excessive.
 
 At the beginning of 2010, Spain's public debt as a percentage of GDP was still less than those of Britain, France or Germany. However, commentators pointed out that Spain's recovery was fragile, that the public debt was growing quickly, that troubled regional banks may need large bailouts, growth prospects were poor and therefore limiting revenue and that the central government has limited control over the spending of the regional governments. Under the structure of shared governmental responsibilities that has evolved since 1975, much responsibility for spending had been given back to the regions. The central government found itself in the difficult position of trying to gain support for unpopular spending cuts from the recalcitrant regional governments.[53]
 
@@ -68,7 +68,7 @@ Till Q2 2012, Spanish banks were allowed to report real estate related assets in
 
 Employment crisis
 
-Torres_de_la_Casería.jpg apartment buildings in San Fernando completed in 2007. The collapse of the Spanish construction boom was a major contributor to the record unemployment.[56]]]
+apartment buildings in San Fernando completed in 2007. The collapse of the Spanish construction boom was a major contributor to the record unemployment.[56]]]
 
 Even though the sheer size of Spain's underground economy masks to some extent the real situation, employment is a long term weakness of the Spanish economy. By 2014 the structural unemployment rate was estimated at 18%.[57]
 
@@ -201,7 +201,7 @@ The following table shows the main economic indicators in 1980–2017. Inflation
 
 Banking system
 
-Banco_de_España_(Madrid)_06.jpg HQs in Madrid]] La_vela_bbva.jpg head offices in Madrid.]] Spanish private commercial banks played a central role in Spain's economic development, benefiting from their role as the state's creditor in the 19th century, from their ability to monetize public debt, and from state-sanctioned oligopolistic arrangements that lasted from the beginning of the 20th century until the late 1980s, when European rules forced a liberalization of the sector. It has been argued that the favorable treatment received by the main Spanish commercial banks and their close relationship to the Bank of Spain (_Banco de España_) following the end of the Franco regime allowed for a public-private partnership to restructure the large commercial banks into two large banks (Santander and BBVA) with the purpose of preparing the private institutions for international competition and external expansion once the European banking market was integrated in 1992[98] Alongside this financial mercantilism benefiting the commercial banking sector, Spanish regulators also allowed for the vast expansion of not for profit savings banks sponsored by regional governments who became heavily exposed to the housing mortgage and real estate development sectors during the Spanish economic boom of 1999–2007.
+HQs in Madrid]] head offices in Madrid.]] Spanish private commercial banks played a central role in Spain's economic development, benefiting from their role as the state's creditor in the 19th century, from their ability to monetize public debt, and from state-sanctioned oligopolistic arrangements that lasted from the beginning of the 20th century until the late 1980s, when European rules forced a liberalization of the sector. It has been argued that the favorable treatment received by the main Spanish commercial banks and their close relationship to the Bank of Spain (_Banco de España_) following the end of the Franco regime allowed for a public-private partnership to restructure the large commercial banks into two large banks (Santander and BBVA) with the purpose of preparing the private institutions for international competition and external expansion once the European banking market was integrated in 1992[98] Alongside this financial mercantilism benefiting the commercial banking sector, Spanish regulators also allowed for the vast expansion of not for profit savings banks sponsored by regional governments who became heavily exposed to the housing mortgage and real estate development sectors during the Spanish economic boom of 1999–2007.
 
 Prior to 2010, the Spanish banking system had been credited as one of the most solid of all western banking systems in coping with the ongoing worldwide liquidity crisis, thanks to the country's conservative banking rules and practices. Banks were required to have high capital provisions and to demand various guarantees and securities from intending borrowers. This allowed the banks, particularly the geographically and industrially diversified large banks like BBVA and Santander, to weather the real estate deflation better than expected. Indeed, Spain's large commercial banks have been able to capitalize on their strong position to buy up distressed banking assets elsewhere in Europe and in the United States.[99]
 
@@ -225,7 +225,7 @@ Indeed, as the impact of cheaper fuel prices faded and economic recovery took ho
 
 Economic strengths
 
-2006Spanish_exports.PNG Since the 1990s some Spanish companies have gained multinational status, often expanding their activities in culturally close Latin America. Spain is the second biggest foreign investor there, after the United States. Spanish companies too have expanded into Asia, especially China and India.[114] This early global expansion is a competitive advantage over its competitors and European neighbors. The reason may be primarily due to the booming interest toward Spanish language and culture in Asia and Africa, but also a corporate culture that learned to take risks in unstable markets.
+Since the 1990s some Spanish companies have gained multinational status, often expanding their activities in culturally close Latin America. Spain is the second biggest foreign investor there, after the United States. Spanish companies too have expanded into Asia, especially China and India.[114] This early global expansion is a competitive advantage over its competitors and European neighbors. The reason may be primarily due to the booming interest toward Spanish language and culture in Asia and Africa, but also a corporate culture that learned to take risks in unstable markets.
 
 Spanish companies invested in fields like renewable energy commercialisation (Iberdrola is the world's largest renewable energy operator[115]), technology companies like Telefónica, Abengoa, Mondragon Corporation, Movistar, Gamesa, Hisdesat, Indra, train manufacturers like CAF, Talgo, global corporations such as the textile company Inditex, petroleum companies like Repsol and infrastructure, with six of the ten biggest international construction firms specialising in transport being Spanish, like Ferrovial, Acciona, ACS, OHL and FCC.[116]
 
@@ -243,7 +243,7 @@ The port of Valencia in Spain is the busiest seaport in the Mediterranean basin,
 
 Exports grow steadily
 
-2014_Spain_Products_Export_Treemap.png]
+]
 
 During the boom years, Spain had built up a trade deficit eventually amounting a record equivalent to 10% of GDP (2007)[124] and the external debt ballooned to the equivalent of 170% of GDP, one of the highest among Western economies.[125] Then, during the economic downturn, Spain reduced significantly imports due to domestic consumption shrinking while – despite the global slowdown – it has been increasing exports and kept attracting growing numbers of tourists. Spanish exports grew by 4.2% in 2013, the highest rate in the European Union. As a result, after three decades of running a trade deficit Spain attained in 2013 a trade surplus.[126] Export growth was driven by capital goods and the automotive sector and the forecast was to reach a surplus equivalent to 2.5% of GDP in 2014.[127] Exports in 2014 were 34% of GDP, up from 24% in 2009.[128] The trade surplus attained in 2013 has been consolidated in 2014 and 2015.[129]
 
@@ -256,7 +256,7 @@ In all, by 2017 foreign sales have been rising every year since 2010, with a deg
 
 Sectors of the economy
 
-Zara_Bruselas_16.jpg The Spanish benchmark stock market index is the IBEX 35, which as of 2016 is led by banking (including Banco Santander and BBVA), clothing (Inditex), telecommunications (Telefónica) and energy (Iberdrola).
+The Spanish benchmark stock market index is the IBEX 35, which as of 2016 is led by banking (including Banco Santander and BBVA), clothing (Inditex), telecommunications (Telefónica) and energy (Iberdrola).
 
 External trade
 
@@ -304,7 +304,7 @@ German companies poured €4.8 billion into Spain in 2015, making the country th
 
 Energy
 
-Laboratorio_de_Ultra_Alta_Tensión_de_Arteche.jpg's Ultra-High Voltage Laboratory]] In 2008, Spanish electricity consumption was an average of 6,523 kWh/person. Spanish electricity usage constituted 88% of the EU15 average (EU15: 7,409 kWh/person), and 73% of the OECD average (8,991 kWh/person).[149]
+'s Ultra-High Voltage Laboratory]] In 2008, Spanish electricity consumption was an average of 6,523 kWh/person. Spanish electricity usage constituted 88% of the EU15 average (EU15: 7,409 kWh/person), and 73% of the OECD average (8,991 kWh/person).[149]
 
 Spain is one of the world leaders in renewable energies, both as a producer of renewable energy itself and as an exporter of such technology. In 2013 it became the first country ever in the world to have wind power as its main source of energy.[150]
 

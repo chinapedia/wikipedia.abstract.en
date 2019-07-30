@@ -1,1 +1,0 @@
-Henny_tscherning.jpg HENRIETTE (HENNY) TSCHERNING, née SCHULTZ, (1853–1932) was a pioneering Danish nurse and trade unionist who headed the Danish Nurses' Organization for 28 years (1899–1927). She introduced a three-year nurses training programme culminating in an examination which provided official state authorization for nurses to take up work.[1][2]

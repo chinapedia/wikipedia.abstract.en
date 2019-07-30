@@ -1,1 +1,0 @@
-BONAVENTURA PORTA (October 21, 1866 – December 15, 1953) was the Italian Bishop of the Roman Catholic Diocese of Pesaro from his appointment by Pope Benedict XV on March 22, 1917, until December 28, 1952.[1]

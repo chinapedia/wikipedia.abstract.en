@@ -1,1 +1,0 @@
-NILS MÖNKEMEYER (born 1978) is a German violist and academic teacher. He has recorded several CDs, of viola literature and arrangements for the viola, making it a respected solo instrument. He has been awarded several international prizes.

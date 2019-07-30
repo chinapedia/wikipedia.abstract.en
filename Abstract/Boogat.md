@@ -1,1 +1,0 @@
-BOOGAT is a Canadian-Mexican musician from Montreal, Quebec,[1] whose style blends hip hop with Latin music styles such as cumbia and reggaeton. He won the Juno Award for World Music Album of the Year for his album _Neo-Reconquista_ at the Juno Awards of 2016 and the ADISQ Awards of 2016.

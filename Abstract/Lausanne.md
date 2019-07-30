@@ -1,1 +1,0 @@
-LAUSANNE (,[1][2][3][4][5] , ;[6] , ; ; )[7] is the capital city and biggest town of the canton of Vaud in Romandy, Switzerland. A municipality, it is situated on the shores of Lake Geneva ().[8] It faces the French town of , with the Jura Mountains to its north-west. Lausanne is located northeast of Geneva.

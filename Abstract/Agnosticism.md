@@ -1,1 +1,0 @@
-AGNOSTICISM is the view that the existence of God, of the divine or the supernatural is unknown or unknowable.[1][2][3] Another definition provided is the view that "human reason is incapable of providing sufficient rational grounds to justify either the belief that God exists or the belief that God does not exist."[4]

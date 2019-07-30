@@ -1,1 +1,0 @@
-The 2015 BENE LADIES TOUR is the second edition of the BeNe Ladies Tour, a women's cycling stage race in the Netherlands and Belgium. It is rated by the UCI as a category 2.2 race and is held between 17 and 19 July 2015.

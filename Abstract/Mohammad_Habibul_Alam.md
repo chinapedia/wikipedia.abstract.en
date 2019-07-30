@@ -1,1 +1,0 @@
-MOHAMMAD HABIBUL ALAM (Bengali: হাবিবুল আলম Dhaka, Bangladesh May 15, 1950) served as the Vice-Chairman of the World Scout Committee[1] as well as Vice-President and Chairman, International Committee of the Bangladesh Scouts.

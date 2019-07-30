@@ -1,1 +1,0 @@
-PLAN 9 FROM BELL LABS is a distributed operating system, originating in the Computing Sciences Research Center (CSRC) at Bell Labs in the mid-1980s, and building on UNIX concepts first developed there in the late 1960s. The final official release was in early 2015.

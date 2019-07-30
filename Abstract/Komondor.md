@@ -1,1 +1,0 @@
-The KOMONDOR (in Hungarian, the plural form of komondor is _komondorok_ [1]), also known as the HUNGARIAN SHEEPDOG, is a large, white-coloured Hungarian breed of livestock guardian dog with a long, corded coat.

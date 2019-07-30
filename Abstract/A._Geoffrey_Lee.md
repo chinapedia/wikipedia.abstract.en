@@ -1,1 +1,0 @@
-A. GEOFFREY "GEOFF" LEE AM OAM (1928-2007) served as the International Commissioner of Scouts Australia, as well as the Vice-Chairman of the Asia-Pacific Scout Committee and then Vice Chairman of the Lord Baden-Powell Society Management Committee, and played a major role in the success of the 16th World Scout Jamboree.

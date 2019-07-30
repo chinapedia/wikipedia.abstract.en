@@ -1,1 +1,0 @@
-REBEKAH MERCER (born December 6, 1973) is an American heiress, foundation director, and major Republican[1][2] donor who oversees the day-to-day operations of philanthropic and political projects for the Mercer family. She began managing the family foundation when the Mercers started getting involved in conservative causes.[3][4][5][6]Storey,

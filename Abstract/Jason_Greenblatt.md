@@ -1,1 +1,0 @@
-JASON DOV GREENBLATT (born 1967) is an American lawyer. He was the executive vice president and chief legal officer to Donald Trump and The Trump Organization, and his advisor on Israel.[1] In January 2017, he was appointed as an Assistant to the President and Special Representative for International Negotiations by President Donald Trump.

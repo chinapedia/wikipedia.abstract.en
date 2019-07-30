@@ -1,1 +1,0 @@
-The GEORGE AND VIRGINIA TROUT HOUSE is a historic house in Wamego, Kansas, U.S., that was built in 1896.[1] It was designed in the Queen Anne style architectural style.[2] It has been listed on the National Register of Historic Places since January 8, 2014.[3]

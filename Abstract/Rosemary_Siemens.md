@@ -1,1 +1,0 @@
-ROSEMARY SIEMENS is a violinist and singer, formerly from Plum Coulee, Manitoba. She has received a considerable amount of recognition, and has collaborated with artists such as Roy Tan, Eli Bennett, Orlando and Grace Sukkau, and Mary Zilba.

@@ -1,1 +1,0 @@
-KATHRYN JANE GLEADLE is an academic historian specialising in the experiences of British women in the late 18th and 19th centuries. In 2015, she was appointed a Professor of Gender and Women's History by the University of Oxford.

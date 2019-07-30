@@ -1,1 +1,0 @@
-Between the years AD 1900 and 2099, September 11 of the Gregorian calendar is the leap day of the Coptic and Ethiopian calendars. These leap days occur in the years immediately before leap years in the Julian and Gregorian calendars. In all common years of the Coptic and Ethiopian calendars, September 11 is New Year's Day.

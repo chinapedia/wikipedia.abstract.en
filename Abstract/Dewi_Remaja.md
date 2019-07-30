@@ -1,1 +1,0 @@
-DEWI REMAJA (_Miss Teen Malaysia_) is a beauty contest organized by the _Remaja_ magazine (_Youth magazine_) published by the group Karangkraf. The competition is usually in alternating with the competition for the male version of the Hero Remaja (_Mister Teen Malaysia_).

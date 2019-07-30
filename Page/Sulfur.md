@@ -7,8 +7,6 @@ Sulfur is an essential element for all life, but almost always in the form of or
 
 Characteristics
 
-Burning-sulfur.png
-
 Physical properties
 
 Sulfur forms polyatomic molecules with different chemical formulas, the best-known allotrope being octasulfur, cyclo-S₈. The point group of cyclo-S₈ is D_(4d) and its dipole moment is 0 D.[3] Octasulfur is a soft, bright-yellow solid that is odorless, but impure samples have an odor similar to that of matches.[4] It melts at , boils at and sublimes easily.[5] At , below its melting temperature, cyclo-octasulfur changes from α-octasulfur to the β-polymorph.[6] The structure of the S₈ ring is virtually unchanged by this phase change, which affects the intermolecular interactions. Between its melting and boiling temperatures, octasulfur changes its allotrope again, turning from β-octasulfur to γ-sulfur, again accompanied by a lower density but increased viscosity due to the formation of polymers.[7] At higher temperatures, the viscosity decreases as depolymerization occurs. Molten sulfur assumes a dark red color above . The density of sulfur is about 2 g/cm³, depending on the allotrope; all of the stable allotropes are excellent electrical insulators.
@@ -19,7 +17,7 @@ Sulfur burns with a blue flame with formation of sulfur dioxide, which has a suf
 
 Allotropes
 
-Cyclooctasulfur-above-3D-balls.png Sulfur forms over 30 solid allotropes, more than any other element.[10] Besides S₈, several other rings are known.[11] Removing one atom from the crown gives S₇, which is more of a deep yellow than the S₈. HPLC analysis of "elemental sulfur" reveals an equilibrium mixture of mainly S₈, but with S₇ and small amounts of S₆.[12] Larger rings have been prepared, including S₁₂ and S₁₈.[13][14]
+Sulfur forms over 30 solid allotropes, more than any other element.[10] Besides S₈, several other rings are known.[11] Removing one atom from the crown gives S₇, which is more of a deep yellow than the S₈. HPLC analysis of "elemental sulfur" reveals an equilibrium mixture of mainly S₈, but with S₇ and small amounts of S₆.[12] Larger rings have been prepared, including S₁₂ and S₁₈.[13][14]
 
 Amorphous or "plastic" sulfur is produced by rapid cooling of molten sulfur—for example, by pouring it into cold water. X-ray crystallography studies show that the amorphous form may have a helical structure with eight atoms per turn. The long coiled polymeric molecules make the brownish substance elastic, and in bulk this form has the feel of crude rubber. This form is metastable at room temperature and gradually reverts to crystalline molecular allotrope, which is no longer elastic. This process happens within a matter of hours to days, but can be rapidly catalyzed.
 
@@ -33,11 +31,11 @@ In most forest ecosystems, sulfate is derived mostly from the atmosphere; weathe
 
 Natural occurrence
 
-Nearly_exhausted_sulphur_vat_from_which_railroad_cars_are_loaded,_Freeport_Sulphur_Co.,_Hoskins_Mound,_Texas,_1a35438v.jpg Io_highest_resolution_true_color.jpg are due to elemental sulfur and sulfur compounds deposited by active volcanoes.]] Kawah_Ijen_-East_Java_-Indonesia_-sulphur-31July2009.jpg, a volcano in East Java, Indonesia, 2009]] ³²S is created inside massive stars, at a depth where the temperature exceeds 2.5×10⁹ K, by the fusion of one nucleus of silicon plus one nucleus of helium.[17] As this nuclear reaction is part of the alpha process that produces elements in abundance, sulfur is the 10th most common element in the universe.
+are due to elemental sulfur and sulfur compounds deposited by active volcanoes.]] , a volcano in East Java, Indonesia, 2009]] ³²S is created inside massive stars, at a depth where the temperature exceeds 2.5×10⁹ K, by the fusion of one nucleus of silicon plus one nucleus of helium.[17] As this nuclear reaction is part of the alpha process that produces elements in abundance, sulfur is the 10th most common element in the universe.
 
 Sulfur, usually as sulfide, is present in many types of meteorites. Ordinary chondrites contain on average 2.1% sulfur, and carbonaceous chondrites may contain as much as 6.6%. It is normally present as troilite (FeS), but there are exceptions, with carbonaceous chondrites containing free sulfur, sulfates and other sulfur compounds.[18] The distinctive colors of Jupiter's volcanic moon Io are attributed to various forms of molten, solid, and gaseous sulfur.[19]
 
-Fumarola_Vulcano.jpgs such as this one in Vulcano, Italy]]
+s such as this one in Vulcano, Italy]]
 
 It is the fifth most common element by mass in the Earth. Elemental sulfur can be found near hot springs and volcanic regions in many parts of the world, especially along the Pacific Ring of Fire; such volcanic deposits are currently mined in Indonesia, Chile, and Japan. These deposits are polycrystalline, with the largest documented single crystal measuring 22×16×11 cm.[20] Historically, Sicily was a major source of sulfur in the Industrial Revolution.[21]
 
@@ -72,7 +70,7 @@ This reaction highlights a distinctive property of sulfur: its ability to catena
 
 The interconversion of these species is exploited in the sodium-sulfur battery.
 
-The radical anion S₃^(−) gives the blue color of the mineral lapis lazuli. Lapis_lazuli_block.jpg owes its blue color to a trisulfur radical anion ()]] S@CNT.jpg (CNT, a). Zig-zag (b) and straight (c) S chains inside double-wall CNTs[29]]]
+The radical anion S₃^(−) gives the blue color of the mineral lapis lazuli. owes its blue color to a trisulfur radical anion ()]] (CNT, a). Zig-zag (b) and straight (c) S chains inside double-wall CNTs[29]]]
 
 Oxides, oxoacids, and oxoanions
 
@@ -122,7 +120,7 @@ History
 
 Antiquity
 
-MODOAzufre.jpg collection]]
+collection]]
 
 Being abundantly available in native form, sulfur was known in ancient times and is referred to in the Torah (Genesis). English translations of the Bible commonly referred to burning sulfur as "brimstone", giving rise to the term "fire-and-brimstone" sermons, in which listeners are reminded of the fate of eternal damnation that await the unbelieving and unrepentant. It is from this part of the Bible that Hell is implied to "smell of sulfur" (likely due to its association with volcanic activity). According to the Ebers Papyrus, a sulfur ointment was used in ancient Egypt to treat granular eyelids. Sulfur was used for fumigation in preclassical Greece;[38] this is mentioned in the _Odyssey_.[39] Pliny the Elder discusses sulfur in book 35 of his _Natural History_, saying that its best-known source is the island of Melos. He mentions its use for fumigation, medicine, and bleaching cloth.[40]
 
@@ -134,7 +132,7 @@ Early European alchemists gave sulfur a unique alchemical symbol, a triangle at 
 
 Modern times
 
-Soufre_extraction_1.jpg In 1777, Antoine Lavoisier helped convince the scientific community that sulfur was an element, not a compound.
+In 1777, Antoine Lavoisier helped convince the scientific community that sulfur was an element, not a compound.
 
 Sulfur deposits in Sicily were the dominant source for more than a century. By the late 18th century, about 2,000 tonnes per year of sulfur were imported into Marseilles, France, for the production of sulfuric acid for use in the Leblanc process. In industrializing Britain, with the repeal of tariffs on salt in 1824, demand for sulfur from Sicily surged upward. The increasing British control and exploitation of the mining, refining, and transportation of the sulfur, coupled with the failure of this lucrative export to transform Sicily's backward and impoverished economy, led to the 'Sulfur Crisis' of 1840, when King Ferdinand II gave a monopoly of the sulfur industry to a French firm, violating an earlier 1816 trade agreement with Britain. A peaceful solution was eventually negotiated by France.[48][49]
 
@@ -149,11 +147,11 @@ _Sulfur_ is derived from the Latin word __, which was Hellenized to __. The spel
 
 Production
 
-Bergelut_dengan_asap_nan_beracun.jpg, East Java, Indonesia. This image shows the dangerous and rugged conditions the miners face, including toxic smoke and high drops, as well as their lack of protective equipment. The pipes over which they are standing are for condensing sulfur vapors.]] Sulfur may be found by itself and historically was usually obtained in this form; pyrite has also been a source of sulfur.[56] In volcanic regions in Sicily, in ancient times, it was found on the surface of the Earth, and the _"Sicilian process"_ was used: sulfur deposits were piled and stacked in brick kilns built on sloping hillsides, with airspaces between them. Then, some sulfur was pulverized, spread over the stacked ore and ignited, causing the free sulfur to melt down the hills. Eventually the surface-borne deposits played out, and miners excavated veins that ultimately dotted the Sicilian landscape with labyrinthine mines. Mining was unmechanized and labor-intensive, with pickmen freeing the ore from the rock, and mine-boys or _carusi_ carrying baskets of ore to the surface, often through a mile or more of tunnels. Once the ore was at the surface, it was reduced and extracted in smelting ovens. The conditions in Sicilian sulfur mines were horrific, prompting Booker T. Washington to write "I am not prepared just now to say to what extent I believe in a physical hell in the next world, but a sulphur mine in Sicily is about the nearest thing to hell that I expect to see in this life."[57]
+, East Java, Indonesia. This image shows the dangerous and rugged conditions the miners face, including toxic smoke and high drops, as well as their lack of protective equipment. The pipes over which they are standing are for condensing sulfur vapors.]] Sulfur may be found by itself and historically was usually obtained in this form; pyrite has also been a source of sulfur.[56] In volcanic regions in Sicily, in ancient times, it was found on the surface of the Earth, and the _"Sicilian process"_ was used: sulfur deposits were piled and stacked in brick kilns built on sloping hillsides, with airspaces between them. Then, some sulfur was pulverized, spread over the stacked ore and ignited, causing the free sulfur to melt down the hills. Eventually the surface-borne deposits played out, and miners excavated veins that ultimately dotted the Sicilian landscape with labyrinthine mines. Mining was unmechanized and labor-intensive, with pickmen freeing the ore from the rock, and mine-boys or _carusi_ carrying baskets of ore to the surface, often through a mile or more of tunnels. Once the ore was at the surface, it was reduced and extracted in smelting ovens. The conditions in Sicilian sulfur mines were horrific, prompting Booker T. Washington to write "I am not prepared just now to say to what extent I believe in a physical hell in the next world, but a sulphur mine in Sicily is about the nearest thing to hell that I expect to see in this life."[57]
 
 Elemental sulfur was extracted from salt domes (in which it sometimes occurs in nearly pure form) until the late 20th century. Sulfur is now produced as a side product of other industrial processes such as in oil refining, in which sulfur is undesired. As a mineral, native sulfur under salt domes is thought to be a fossil mineral resource, produced by the action of ancient bacteria on sulfate deposits. It was removed from such salt-dome mines mainly by the Frasch process.[58] In this method, superheated water was pumped into a native sulfur deposit to melt the sulfur, and then compressed air returned the 99.5% pure melted product to the surface. Throughout the 20th century this procedure produced elemental sulfur that required no further purification. Due to a limited number of such sulfur deposits and the high cost of working them, this process for mining sulfur has not been employed in a major way anywhere in the world since 2002.[59][60]
 
-AlbertaSulfurAtVancouverBC.jpg, stockpiled for shipment in North Vancouver, British Columbia]] Today, sulfur is produced from petroleum, natural gas, and related fossil resources, from which it is obtained mainly as hydrogen sulfide. Organosulfur compounds, undesirable impurities in petroleum, may be upgraded by subjecting them to hydrodesulfurization, which cleaves the C–S bonds:[61][62]
+, stockpiled for shipment in North Vancouver, British Columbia]] Today, sulfur is produced from petroleum, natural gas, and related fossil resources, from which it is obtained mainly as hydrogen sulfide. Organosulfur compounds, undesirable impurities in petroleum, may be upgraded by subjecting them to hydrodesulfurization, which cleaves the C–S bonds:[61][62]
 
     R-S-R + 2 H₂ → 2 RH + H₂S
 
@@ -162,7 +160,7 @@ The resulting hydrogen sulfide from this process, and also as it occurs in natur
     3 O₂ + 2 H₂S → 2 SO₂ + 2 H₂O
     SO₂ + 2 H₂S → 3 S + 2 H₂O
 
-Sulfur_price_world_production.svg Owing to the high sulfur content of the Athabasca Oil Sands, stockpiles of elemental sulfur from this process now exist throughout Alberta, Canada.[65] Another way of storing sulfur is as a binder for concrete, the resulting product having many desirable properties (see sulfur concrete).[66] Sulfur is still mined from surface deposits in poorer nations with volcanoes, such as Indonesia, and worker conditions have not improved much since Booker T. Washington's days.[67]
+Owing to the high sulfur content of the Athabasca Oil Sands, stockpiles of elemental sulfur from this process now exist throughout Alberta, Canada.[65] Another way of storing sulfur is as a binder for concrete, the resulting product having many desirable properties (see sulfur concrete).[66] Sulfur is still mined from surface deposits in poorer nations with volcanoes, such as Indonesia, and worker conditions have not improved much since Booker T. Washington's days.[67]
 
 The world production of sulfur in 2011 amounted to 69 million tonnes (Mt), with more than 15 countries contributing more than 1 Mt each. Countries producing more than 5 Mt are China (9.6), US (8.8), Canada (7.1) and Russia (7.1).[68] Production has been slowly increasing from 1900 to 2010; the price was unstable in the 1980s and around 2010.[69]
 
@@ -173,7 +171,7 @@ Sulfuric acid
 
 Elemental sulfur is used mainly as a precursor to other chemicals. Approximately 85% (1989) is converted to sulfuric acid (H₂SO₄):
 
-    2 S + 3 O₂ + 2 H₂O → 2 H₂SO₄Sulfuric_acid_2000.png
+    2 S + 3 O₂ + 2 H₂O → 2 H₂SO₄
 
 In 2010, the United States produced more sulfuric acid than any other inorganic industrial chemical.[70] The principal use for the acid is the extraction of phosphate ores for the production of fertilizer manufacturing. Other applications of sulfuric acid include oil refining, wastewater processing, and mineral extraction.[71]
 
@@ -191,13 +189,13 @@ The botanical requirement for sulfur equals or exceeds the requirement for phosp
 
 Fine chemicals
 
-Malathion-3D-vdW.png]] Organosulfur compounds are used in pharmaceuticals, dyestuffs, and agrochemicals. Many drugs contain sulfur; early examples being antibacterial sulfonamides, known as _sulfa drugs_. Sulfur is a part of many bacterial defense molecules. Most β-lactam antibiotics, including the penicillins, cephalosporins and monolactams contain sulfur.[77]
+]] Organosulfur compounds are used in pharmaceuticals, dyestuffs, and agrochemicals. Many drugs contain sulfur; early examples being antibacterial sulfonamides, known as _sulfa drugs_. Sulfur is a part of many bacterial defense molecules. Most β-lactam antibiotics, including the penicillins, cephalosporins and monolactams contain sulfur.[77]
 
 Magnesium sulfate, known as Epsom salts when in hydrated crystal form, can be used as a laxative, a bath additive, an exfoliant, magnesium supplement for plants, or (when in dehydrated form) as a desiccant.
 
 Fungicide and pesticide
 
-Sulphur_Candle.jpg Elemental sulfur is one of the oldest fungicides and pesticides. "Dusting sulfur", elemental sulfur in powdered form, is a common fungicide for grapes, strawberry, many vegetables and several other crops. It has a good efficacy against a wide range of powdery mildew diseases as well as black spot. In organic production, sulfur is the most important fungicide. It is the only fungicide used in organically farmed apple production against the main disease apple scab under colder conditions. Biosulfur (biologically produced elemental sulfur with hydrophilic characteristics) can also be used for these applications.
+Elemental sulfur is one of the oldest fungicides and pesticides. "Dusting sulfur", elemental sulfur in powdered form, is a common fungicide for grapes, strawberry, many vegetables and several other crops. It has a good efficacy against a wide range of powdery mildew diseases as well as black spot. In organic production, sulfur is the most important fungicide. It is the only fungicide used in organically farmed apple production against the main disease apple scab under colder conditions. Biosulfur (biologically produced elemental sulfur with hydrophilic characteristics) can also be used for these applications.
 
 Standard-formulation dusting sulfur is applied to crops with a sulfur duster or from a dusting plane. Wettable sulfur is the commercial name for dusting sulfur formulated with additional ingredients to make it water miscible.[78][79] It has similar applications and is used as a fungicide against mildew and other mold-related problems with plants and soil.
 
@@ -248,7 +246,7 @@ Metalloproteins and inorganic cofactors
 
 Inorganic sulfur forms a part of iron–sulfur clusters as well as many copper, nickel, and iron proteins. Most pervasive are the ferrodoxins, which serve as electron shuttles in cells. In bacteria, the important nitrogenase enzymes contains an Fe–Mo–S cluster and is a catalyst that performs the important function of nitrogen fixation, converting atmospheric nitrogen to ammonia that can be used by microorganisms and plants to make proteins, DNA, RNA, alkaloids, and the other organic nitrogen compounds necessary for life.[91]
 
-    FdRedox.png
+
 
 Sulfur metabolism and the sulfur cycle
 
@@ -265,7 +263,7 @@ Sulfur is absorbed by plants roots from soil as sulfate and transported as a pho
 
 Precautions
 
-Effect of acid rain on a forest, Jizera Mountains, Czech Republic Elemental sulfur is non-toxic, as are most of the soluble sulfate salts, such as Epsom salts. Soluble sulfate salts are poorly absorbed and laxative. When injected parenterally, they are freely filtered by the kidneys and eliminated with very little toxicity in multi-gram amounts.
+Elemental sulfur is non-toxic, as are most of the soluble sulfate salts, such as Epsom salts. Soluble sulfate salts are poorly absorbed and laxative. When injected parenterally, they are freely filtered by the kidneys and eliminated with very little toxicity in multi-gram amounts.
 
 When sulfur burns in air, it produces sulfur dioxide. In water, this gas produces sulfurous acid and sulfites; sulfites are antioxidants that inhibit growth of aerobic bacteria and a useful food additive in small amounts. At high concentrations these acids harm the lungs, eyes, or other tissues. In organisms without lungs such as insects or plants, sulfite in high concentration prevents respiration.
 

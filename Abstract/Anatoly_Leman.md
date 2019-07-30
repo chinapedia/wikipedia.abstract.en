@@ -1,1 +1,0 @@
-ANATOLY IVANOVICH LEMAN (, 13 June 1859, Moscow, Imperial Russia, — 24 September 1913, Saint Petersburg, Imperial Russia) was a Russian writer, and editor, also known as a manufacturer of musical string instruments and a professional billiards player.

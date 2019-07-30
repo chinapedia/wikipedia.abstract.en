@@ -1,1 +1,0 @@
-'' THE WHISTLER'' is a novel written by American author John Grisham. It was released in hardcover, large print paperback, e-book, compact disc audiobook and downloadable audiobook on October 25, 2016.[1] It is a legal thriller about Florida Board on Judicial Conduct investigator Lacy Stoltz.[2]

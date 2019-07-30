@@ -1,1 +1,0 @@
-SAVVAS MANOUSOS () (born July 4, 1985) is a Greek professional basketball player for Union Dax-Gamarde of the Nationale Masculine 2. Born in Thessaloniki, Greece, he can play both the Power forward and the Center positions. He is 2.08 m (6'10") in height.

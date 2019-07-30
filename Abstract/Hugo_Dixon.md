@@ -1,1 +1,0 @@
-HUGO DUNCAN DIXON (born December 1963) is a British business journalist and the former editor-in-chief and chairman of the financial commentary website Breakingviews which he co-founded. He was also the editor of the _Financial Times_ Lex column from 1994 to 1999 and visiting fellow at Saïd Business School, Oxford University.

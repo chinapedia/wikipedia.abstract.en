@@ -1,1 +1,0 @@
-_POLITICAL ORDER AND POLITICAL DECAY: FROM THE INDUSTRIAL REVOLUTION TO THE PRESENT DAY_ is a 2014 book by Yoshihiro Francis Fukuyama, author of _The Origins of Political Order_, written to shed light on political development in different regions.[1]

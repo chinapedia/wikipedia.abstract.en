@@ -1,1 +1,0 @@
-JORDAN BAKER-CALDWELL (born 1983) is an American artist known for his large scale abstract and figurative works—such as his 9-foot-tall steel sculpture Ascension,[1][2] which is permanently installed in Midtown Manhattan.[3][4]

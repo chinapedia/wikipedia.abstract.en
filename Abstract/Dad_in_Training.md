@@ -1,1 +1,0 @@
-_DAD IN TRAINING_ (original title: _TOUT POUR ÊTRE HEUREUX_) is a 2015 French comedy film written and directed by Cyril Gelblat, loosely based on the novel _Un coup à prendre_ by Xavier de Moulins. The film stars Manu Payet, Audrey Lamy and Aure Atika.[1][2]

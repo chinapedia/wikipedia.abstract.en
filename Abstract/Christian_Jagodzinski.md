@@ -1,1 +1,0 @@
-CHRISTIAN JAGODZINSKI is a German multimillionaire Internet entrepreneur and real estate investor. He has developed and turned around many businesses, most notably Telebuch.de, the first online book retailer.

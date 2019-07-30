@@ -1,1 +1,0 @@
-SAY-10 is an independent record label and skateboard company owned by Adam Gecking and operated from his house in Richmond, Virginia. Say-10 was founded in 2007 in Virginia Beach, Virigina, while he owned Volume, an independent record store.[1]

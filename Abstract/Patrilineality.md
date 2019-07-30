@@ -1,1 +1,0 @@
-PATRILINEALITY, also known as the MALE LINE, the SPEAR SIDE[1] or AGNATIC KINSHIP, is a common kinship system in which an individual's family membership derives from and is recorded through his or her father's lineage. It generally involves the inheritance of property, rights, names or titles by persons related through male kin.

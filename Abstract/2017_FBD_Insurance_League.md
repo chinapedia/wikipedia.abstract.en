@@ -1,1 +1,0 @@
-The 2017 FBD INSURANCE LEAGUE was an inter-county and third-level college gaelic football competition in the province of Connacht. All five Connacht county teams participated. Three college teams competed – Institute of Technology, Sligo, NUI Galway and Galway-Mayo Institute of Technology (GMIT).[1][2][3] Galway were the winners.

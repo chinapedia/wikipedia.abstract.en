@@ -1,1 +1,0 @@
-Dov_Glickman_1990s.jpg

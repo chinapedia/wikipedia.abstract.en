@@ -1,1 +1,0 @@
-GNUCASH is an accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application,[1] but also has features for small business accounting.[2] Recent development has been focused on adapting to modern desktop support-library requirements.

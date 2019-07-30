@@ -1,1 +1,0 @@
-The _WOOD COUNTY DEMOCRAT_ was a newspaper serving Quitman, the county seat of Wood County, Texas. It was founded in 1893 and merged with the _Mineola Monitor_ to form the _Wood County Monitor_ in 2016, ending publication under the Democrat masthead.

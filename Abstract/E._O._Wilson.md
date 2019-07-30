@@ -1,1 +1,0 @@
-EDWARD OSBORNE WILSON (born June 10, 1929), usually cited as E. O. WILSON, is an American biologist, theorist, naturalist and author. His biological specialty is myrmecology, the study of ants, on which he has been called the world's leading expert.[1][2]

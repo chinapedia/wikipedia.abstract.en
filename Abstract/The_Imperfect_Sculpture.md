@@ -1,1 +1,0 @@
-[1] _THE IMPERFECT SCULPTURE_ (天缺一角; literally meaning "A Day Missing A Corner") is a 2003 Chinese television drama series made in China, directed by Yang Xinlei (杨新磊), and is based on the 1997 Lu Xun Literary Prize-winning novel of the same name by Li Guantong (李贯通). The series first aired in September 2003 on [Guangxi Television].

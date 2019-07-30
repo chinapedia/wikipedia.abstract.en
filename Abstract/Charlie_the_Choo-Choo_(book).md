@@ -1,1 +1,0 @@
-_CHARLIE THE CHOO-CHOO: FROM THE WORLD OF THE DARK TOWER_[1] is a children's book by Stephen King,[2] published under the pseudonym Beryl Evans. It is based on a fictional book central to the plot of King's previous novel _The Dark Tower III: The Waste Lands_. It was published by Simon & Schuster Books for Young Readers on November 11, 2016.[3]

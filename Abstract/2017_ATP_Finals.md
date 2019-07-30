@@ -1,1 +1,0 @@
-The 2017 ATP FINALS (also known as the 2017 NITTO ATP FINALS for sponsorship reasons) was a men's tennis tournament played at the O₂ Arena in London, United Kingdom, from 12 to 19 November 2017. It was the season-ending event for the highest-ranked singles players and doubles teams on the 2017 ATP World Tour.

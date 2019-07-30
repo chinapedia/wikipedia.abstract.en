@@ -1,1 +1,0 @@
-_OUTSIDERS_ is an Australian television news and commentary show broadcast on Sky News Australia.[1] The show is currently co-hosted by editor of _The Spectator_ magazine Rowan Dean, _The Friday Show_ host Rita Panahi, and _The Daily Telegraph_ opinion editor James Morrow, and features long-form discussion of political issues between conservative contributors.[2][3]

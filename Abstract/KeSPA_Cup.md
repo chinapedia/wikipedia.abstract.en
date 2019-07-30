@@ -1,1 +1,0 @@
-The KESPA CUP (Hangul: 케스파컵) is an annual eSports event organized by KeSPA, the Korean eSports Association. As of the 2018 edition, the tournament is organized for _League of Legends_. Until 2016, the tournament was also organized for _StarCraft II_.

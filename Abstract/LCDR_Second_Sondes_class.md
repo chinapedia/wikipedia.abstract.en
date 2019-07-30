@@ -1,1 +1,0 @@
-The LCDR SECOND _SONDES_ CLASS was a class of six steam locomotives of the 2-4-0T wheel arrangement. They were designed by William Martley for the London, Chatham and Dover Railway (LCDR), and built at the LCDR's Longhedge works during 1865, using components from the _Sondes_ class 4-4-0ST locomotives, including the boilers.

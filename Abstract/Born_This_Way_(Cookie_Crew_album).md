@@ -1,1 +1,0 @@
-_BORN THIS WAY_ is the 1989 debut album by British rap duo The Cookie Crew. The album reached No. 24 on the UK albums chart.[1][2] Three singles were released from the album: "Born This Way (Let's Dance)" (No. 23, UK Singles Chart), "Got to Keep On" (No. 17), "Come On and Get Some" (No. 42).

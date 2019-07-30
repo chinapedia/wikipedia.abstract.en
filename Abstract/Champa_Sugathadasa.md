@@ -1,1 +1,0 @@
-CHAMPA SUGATHADASA (born 10 November 1973) is a Sri Lankan former cricketer. She played eight Women's One Day International matches for Sri Lanka women's national cricket team.[1] She was part of Sri Lanka's squad for the 2000 Women's Cricket World Cup.

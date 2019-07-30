@@ -1,1 +1,0 @@
-DANIEL MARK SCHWARTZ (born July 28, 1950) is a former Nevada State Treasurer, serving from January 2015 to January 2019. An international businessman, attorney, and Republican, Schwartz defeated his Democratic opponent, former Nevada State Controller Kim Wallin, in 2014.

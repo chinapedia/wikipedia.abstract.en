@@ -1,1 +1,0 @@
-Lomo_lc-a.JPG]] LOMOGRAPHY is a commercial trademark of Lomographische AG, which their creators associate to a photographic image style and a film camera movement and community facilitated by The Lomographic Society International.

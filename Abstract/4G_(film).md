@@ -1,1 +1,0 @@
-_4G_ is an upcoming Tamil-language fantasy-comedy film directed by Venkat Pakkar, starring G. V. Prakash Kumar, Gayathri Suresh, Suresh Menon and Sathish in the leading roles. The film began production during October 2016.[1]

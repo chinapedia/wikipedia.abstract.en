@@ -1,1 +1,0 @@
-The ST. LUKE'S MEDICAL CENTER – GLOBAL CITY is a hospital at the Bonifacio Global City in Taguig, Metro Manila, Philippines. It is the sister facility of the hospital of the same name in Quezon City. Both are affiliated with the Episcopal Church of the Philippines.[1]

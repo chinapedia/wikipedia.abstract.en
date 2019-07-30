@@ -1,1 +1,0 @@
-DIANA ANDREYEVNA KLIMOVA (; born 8 October 1996)[1] is a Russian female track cyclist, representing Russia at international competitions. She won the bronze medal at the 2016–17 UCI Track Cycling World Cup, Round 1 in Glasgow in the madison.[2][3]

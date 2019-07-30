@@ -1,1 +1,0 @@
-MICHAEL EDWARD REAGAN (born JOHN CHARLES FLAUGHER; March 18, 1945)[1] is an American television personality, political commentator, Republican strategist,[2] former radio talk show host, and author. He is the adoptive son of former U.S. President Ronald Reagan (1911–2004) and his first wife, actress Jane Wyman (1917–2007).

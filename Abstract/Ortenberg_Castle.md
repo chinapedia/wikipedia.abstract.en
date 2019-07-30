@@ -1,1 +1,0 @@
-Schloss_Ortenberg.jpg Schloss_Ortenberg,_Baden.JPG ORTENBERG CASTLE is the main landmark of the Ortenau and is situated above the town of Ortenberg at the end of the Kinzig Valley between Offenburg and Gengenbach.

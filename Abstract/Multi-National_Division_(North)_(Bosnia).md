@@ -1,1 +1,0 @@
-US-Army-Satellite-Phone-Skugrici-Bosnia-Joint-Forge-1999.jpg in 1999]] MULTI-NATIONAL DIVISION (NORTH) was an international military formation, part of IFOR and then SFOR under NATO command in Bosnia-Hercegovina from 1995. It was based at Tuzla and was American led. Its U.S. designation was Task Force Eagle.

@@ -1,1 +1,0 @@
-The ISLAMABAD-RAWALPINDI METROPOLITAN AREA is Pakistan's third most populous metropolitan area. It consists principally of the twin cities of Islamabad and Rawalpindi, along with smaller towns such as Murree, Wah Cantonment, Taxila, Gujar Khan, Golra Sharif, and several gated suburbs including Bahria Town and DHA Islamabad.[1][2][3]

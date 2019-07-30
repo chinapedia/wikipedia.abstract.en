@@ -1,1 +1,0 @@
-POPE URBAN VIII (; baptised 5 April 1568 – 29 July 1644) reigned as Pope from 6 August 1623 to his death in 1644. He expanded the papal territory by force of arms and advantageous politicking, and was also a prominent patron of the arts and a reformer of Church missions.

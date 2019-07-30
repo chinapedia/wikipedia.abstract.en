@@ -1,1 +1,0 @@
-Hue_alpha_falloff.png

@@ -1,1 +1,0 @@
-The CHON AIKE FORMATION is an extensive geological formation, present in the Deseado Massif in north-central Santa Cruz Province, Patagonia, Argentina. It covers an area of approximately and consists of rhyolitic volcanic rocks, particularly ignimbrites and lavas, with smaller amounts of agglomerates and tuffs.[1] Within dacitic rocks, plant fossils have been found.[2]

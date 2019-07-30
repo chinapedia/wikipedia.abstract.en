@@ -1,1 +1,0 @@
-ANDREW P. BREMBERG currently serves as Assistant to the President and the Director of the Domestic Policy Council for U.S. President Donald Trump. He has been nominated to be the next Representative of the United States of America to the Office of the United Nations and Other International Organizations in Geneva.[1]

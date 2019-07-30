@@ -1,1 +1,0 @@
-Martina Hingis and Sania Mirza were the defending champions, but chose not to participate together. Hingis played alongside Coco Vandeweghe, but lost in the second round to Aleksandra Krunić and Kateřina Siniaková.

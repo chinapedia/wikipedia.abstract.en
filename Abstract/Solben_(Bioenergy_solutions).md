@@ -1,1 +1,0 @@
-SOLUCIONES EN BIONERGÍA (BIOENERGY SOLUTIONS) (abbreviated SOLBEN) is a Mexican biodiesel production company headquartered in Monterrey, Mexico. It is responsible for 80% of biodiesel production consumed in Mexico.[1]

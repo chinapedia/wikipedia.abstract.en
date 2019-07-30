@@ -1,1 +1,0 @@
-PHENCYCLIDINE (PCP), also known as ANGEL DUST among other names, is a drug used for its mind-altering effects.[1] PCP may cause hallucinations, distorted perceptions of sounds, and violent behavior.[2][3] As a recreational drug, it is typically smoked, but may be taken by mouth, snorted, or injected.[4][5] It may also be mixed with cannabis or tobacco.[6]

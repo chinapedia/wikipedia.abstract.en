@@ -1,1 +1,0 @@
-_WHERE IS LOVE?_ is an album by vocalist Irene Kral performing with pianist Alan Broadbent which was recorded in 1974 and originally released on the Choice label and rereleased by Candid on CD in 1996.[1][2][3]

@@ -1,1 +1,0 @@
-JOHN HENRY "JACK" OKE (1 May 1880 – 8 March 1950)[1][2] was an English professional golfer. He won the first Canadian Open in 1904.[3] His brother, George (1892–1947), was also a professional golfer and was president of the PGA in 1930/31.

@@ -1,1 +1,0 @@
-right _JUST FOR TONIGHT_ is a surviving 1918 silent film comedy-drama directed by Charles Giblyn and starring Tom Moore. It was produced and distributed by Goldwyn Pictures, one of the predecessors of MGM.[1]

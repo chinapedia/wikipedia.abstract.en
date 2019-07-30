@@ -1,1 +1,0 @@
-BOLOGNI GRACIN BAKUMANYA (born July 27, 1997) is a Congolese professional basketball player for Spartak Subotica of the Basketball League of Serbia.. In 2013, he arrived in the United States for the first time and attended Pantego Christian Academy in Arlington, Texas, before returning to Europe in 2014.

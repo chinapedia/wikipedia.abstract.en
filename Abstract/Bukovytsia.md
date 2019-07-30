@@ -1,1 +1,0 @@
-BUKOVYTSIA is a ski resort in the Eastern Beskyd Carpathian forests of Ukraine. It is located in Boryslav. The first mentions about winter sports for this resort are from the times of the Austro-Hungarian Empire. The official opening took place on January 5, 2016.

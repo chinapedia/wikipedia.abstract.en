@@ -3,7 +3,7 @@ SEXTANS is a minor equatorial constellation which was introduced in 1687 by Joha
 
 Notable features
 
-SextansDoppelmayr.png's Atlas Coelestis, c. 1730 (Plate 19, Southern Celestial Hemisphere).]] Sextans as a constellation covers a rather dim, sparse region of the sky. It has only one star above the fifth magnitude, namely α Sextantis at 4.49^(m). The constellation contains a few double stars, including γ, 35, and 40 Sextantis. There are a few notable variable stars, including β, 25, 23 Sextantis, and LHS 292. NGC 3115, an edge-on lenticular galaxy, is the only noteworthy deep-sky object. It also lies near the ecliptic, which causes the Moon, and some of the planets to occasionally pass through it for brief periods of time.
+'s Atlas Coelestis, c. 1730 (Plate 19, Southern Celestial Hemisphere).]] Sextans as a constellation covers a rather dim, sparse region of the sky. It has only one star above the fifth magnitude, namely α Sextantis at 4.49^(m). The constellation contains a few double stars, including γ, 35, and 40 Sextantis. There are a few notable variable stars, including β, 25, 23 Sextantis, and LHS 292. NGC 3115, an edge-on lenticular galaxy, is the only noteworthy deep-sky object. It also lies near the ecliptic, which causes the Moon, and some of the planets to occasionally pass through it for brief periods of time.
 
 The constellation is the location of the field studied by the COSMOS project, undertaken by the Hubble Space Telescope.
 

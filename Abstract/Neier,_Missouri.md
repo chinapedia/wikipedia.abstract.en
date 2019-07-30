@@ -1,1 +1,0 @@
-NEIER is an unincorporated community in Franklin County, in the U.S. state of Missouri.[1] The community is located southwest of Union between routes EE and UU. It lies north of Voss Creek and west of Bourbeuse River.[2]

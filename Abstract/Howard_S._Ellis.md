@@ -1,1 +1,0 @@
-HOWARD SYLVESTER ELLIS (July 2, 1898 – April 15, 1992) was an American economist. He was a Professor of Economics at the University of California, Berkeley from 1938 to 1965. In 1949, he served as President of the American Economic Association.[1]

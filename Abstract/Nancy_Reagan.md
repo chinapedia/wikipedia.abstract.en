@@ -1,1 +1,0 @@
-NANCY DAVIS REAGAN (born ANNE FRANCES ROBBINS; July 6, 1921 – March 6, 2016) was an American film actress and the wife of Ronald Reagan, the 40th president of the United States. She was the first lady of the United States from 1981 to 1989.

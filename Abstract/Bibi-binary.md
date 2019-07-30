@@ -1,1 +1,0 @@
-Table_de_correspondance_entre_le_Bibinaire_et_les_autres_notations.svg

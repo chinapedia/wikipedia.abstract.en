@@ -1,1 +1,0 @@
-IBN SINA (), also known as ABU ALI SINA (), PUR SINA (), and often known in the west as AVICENNA ( – June 1037) was a Persian[1][2][3] Muslim polymath who is regarded as one of the most significant physicians, astronomers, thinkers and writers of the Islamic Golden Age.*

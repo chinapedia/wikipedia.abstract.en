@@ -1,1 +1,0 @@
-The 1976 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1976 NCAA Division I football season. The Vandals were led by third-year head coach Ed Troxel and were members of the Big Sky Conference, then in Division II. They played their home games at the Kibbie Dome, an indoor facility on campus in Moscow, Idaho.

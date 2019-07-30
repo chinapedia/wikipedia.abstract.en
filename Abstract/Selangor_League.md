@@ -1,1 +1,0 @@
-FA SELANGOR LEAGUE is the state football league in Selangor.[1] It is one of the 23 others concurrent top-tier level league in Malaysian football league system and a fifth to seventh-tier league in national level. The league is managed by the Football Association of Selangor (FAS). The league has been established a long time ago where the earliest known records was in 1935.[2]

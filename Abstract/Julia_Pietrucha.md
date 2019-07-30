@@ -1,1 +1,0 @@
-JULIA PIETRUCHA (Polish pronunciation: ; born 17 March 1989 in Warsaw) is a Polish actress, singer, and model. In 2007, she won the Special Acting Award at the Gdynia Film Festival for her performance in _Jutro idziemy do kina_.[1] In 2009, she played Halinka in _Tatarak_, a film directed by Andrzej Wajda.

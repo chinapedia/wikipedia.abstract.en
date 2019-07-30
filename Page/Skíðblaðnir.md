@@ -1,4 +1,4 @@
-The_third_gift_—_an_enormous_hammer_by_Elmer_Boyd_Smith.jpg. The bottom right corner depicts the ship _Skíðblaðnir_ "afloat" the goddess Sif's new hair.]]
+. The bottom right corner depicts the ship _Skíðblaðnir_ "afloat" the goddess Sif's new hair.]]
 
 _SKÍÐBLAÐNIR_ (Old Norse 'assembled from thin pieces of wood'[1]), sometimes anglicized as _SKIDBLADNIR_ or _SKITHBLATHNIR_, is the best of ships in Norse mythology. It is attested in the _Poetic Edda_, compiled in the 13th century from earlier traditional sources, and in the _Prose Edda_ and _Heimskringla_, both written in the 13th century by Snorri Sturluson. All sources note that the ship is the finest of ships, and the _Poetic Edda_ and _Prose Edda_ attest that it is owned by the god Freyr, while the euhemerized account in _Heimskringla_ attributes it to the magic of Odin. Both _Heimskringla_ and the _Prose Edda_ attribute to it the ability to be folded up—as cloth may be—into one's pocket when not needed.
 

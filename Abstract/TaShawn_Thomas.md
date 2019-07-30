@@ -1,1 +1,0 @@
-TASHAWN THOMAS (born February 27, 1993) is an American professional basketball player for Hapoel Jerusalem of the Israeli Premier League and the FIBA Champions League. He played college basketball for the University of Houston and the University of Oklahoma before playing professionally in Germany, Italy and Israel. Thomas was named the Israeli State Cup MVP in 2019.

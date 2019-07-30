@@ -1,1 +1,0 @@
-The 2016–17 UC SANTA BARBARA GAUCHOS MEN'S BASKETBALL TEAM represented the University of California, Santa Barbara during the 2016–17 NCAA Division I men's basketball season. The Gauchos, led by 19th-year head coach Bob Williams, played their home games at the UC Santa Barbara Events Center, nicknamed the _Thunderdome_, as members of the Big West Conference.

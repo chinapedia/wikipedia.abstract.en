@@ -1,1 +1,0 @@
-HEATHER FARGO (born December 12, 1952) is an American politician who served as mayor and was a former City Council Member of Sacramento, California. She was sworn in as mayor in November 2000, replacing Jimmie R. Yee, and served until December 2008, when she was succeeded by Kevin Johnson.

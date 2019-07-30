@@ -1,1 +1,0 @@
-ANNA SALMBERG, née _Brinck_ (1788, Copenhagen – 1868, Åbo), was a Finnish educator. She was the founder and manager of _Salmbergska flickpensionen_ ('Salmberg Pension for Girls'), one of the most famed and fashionable educational institutions for females in Finland in her time.

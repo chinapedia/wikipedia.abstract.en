@@ -1,1 +1,0 @@
-The GLOBE OF MATELICA (Globo of Matelica) is an ancient Roman sundial sculpted on a marble ball. The artifact was found during the 1985 reconstruction of the medieval Palazzo Pretorio, presently Museo Civico Archeologico, of Matelica in the region of Marche, Italy.

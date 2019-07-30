@@ -1,1 +1,0 @@
-The 2017 MFF CHARITY CUP is the 6th MFF Charity Cup, an annual Myanmar football match played between the winners of the previous season's Myanmar National League and 2016 General Aung San Shield. The match was contested by Magwe, the 2016 General Aung San Shield winners, and Yadanarbon, champions of the 2016 Myanmar National League.

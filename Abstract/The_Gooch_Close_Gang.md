@@ -1,1 +1,0 @@
-The GOOCH CLOSE GANG also known as the G.C.O.G's (Gooch Close Gang) or simply “The Gooch” or 170 in Manchester, is an organised crime group based in Moss Side & surrounding neighbourhoods of south Manchester, England.[1][2] Most members of the gang grew up on the West Side of the Alexandra Park Estate in Moss Side around Gooch Close (which is where the gang gets their name from).

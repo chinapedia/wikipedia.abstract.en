@@ -1,1 +1,0 @@
-During the 1970–71 season Hibernian, a football club based in Edinburgh, came twelfth out of 18 clubs in the Scottish First Division, reached the semi-finals of the Scottish Cup and reached the quarter-finals of the Scottish League Cup and Inter-Cities Fairs Cup.

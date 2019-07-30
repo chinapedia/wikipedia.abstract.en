@@ -1,1 +1,0 @@
-CANON ANTOINE-LOUIS CORNETTE (8 November 1860 - 19 September 1936) was founder in 1916 of Eclaireurs de Saint Honoré d'Eylau, and served as the first General Chaplain of the Scouts de France, best known for being one of the founders of Scouting in France along with Jacques Sevin, Arthur de Salins, Paul Coze and Édouard de Macedo.[1]

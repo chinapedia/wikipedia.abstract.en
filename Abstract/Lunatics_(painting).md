@@ -1,1 +1,0 @@
-_LUNATICS_ is a 2002 painting by the Norwegian painter Odd Nerdrum. It depicts a barren landscape with a number of nude or semi-nude people wearing headgears such as crowns and helmets. In their 2014 catalogue note, Sotheby's described the painting as "a quintessential example of Nerdrum's large-scale allegories, presenting a sense of the apocalyptic".[1]

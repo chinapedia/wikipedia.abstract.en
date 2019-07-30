@@ -1,1 +1,0 @@
-is a song by Japanese singer-songwriter Utada Hikaru, featuring guest vocals by Sheena Ringo. A corresponding music video was released on September 16, 2016[1] and the song was sent to radio stations as well, to promote the release of the album _Fantôme_.[2]

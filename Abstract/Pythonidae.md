@@ -1,1 +1,0 @@
-The PYTHONIDAE, commonly known simply as PYTHONS, from the Greek word _python_ (πυθων), are a family of nonvenomous snakes found in Africa, Asia, and Australia. Among its members are some of the largest snakes in the world. Eight genera and 31 species are currently recognized.[1]

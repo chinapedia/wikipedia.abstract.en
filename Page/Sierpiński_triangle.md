@@ -1,4 +1,4 @@
-Sierpinski_triangle.svg Random_Sierpinski_Triangle_animation.gif Multigrade_operator_AND.svg of lexicographically ordered arguments. The columns interpreted as binary numbers give 1, 3, 5, 15, 17, 51... ]] The SIERPINSKI TRIANGLE (also with the original orthography _Sierpiński_), also called the SIERPINSKI GASKET or SIERPINSKI SIEVE, is a fractal and attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Originally constructed as a curve, this is one of the basic examples of self-similar sets–that is, it is a mathematically generated pattern that is reproducible at any magnification or reduction. It is named after the Polish mathematician Wacław Sierpiński, but appeared as a decorative pattern many centuries before the work of Sierpiński.[1][2]
+of lexicographically ordered arguments. The columns interpreted as binary numbers give 1, 3, 5, 15, 17, 51... ]] The SIERPINSKI TRIANGLE (also with the original orthography _Sierpiński_), also called the SIERPINSKI GASKET or SIERPINSKI SIEVE, is a fractal and attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Originally constructed as a curve, this is one of the basic examples of self-similar sets–that is, it is a mathematically generated pattern that is reproducible at any magnification or reduction. It is named after the Polish mathematician Wacław Sierpiński, but appeared as a decorative pattern many centuries before the work of Sierpiński.[1][2]
 
 
 Constructions
@@ -7,7 +7,7 @@ There are many different ways of constructing the Sierpinski triangle.
 
 Removing triangles
 
-Sierpinski_triangle_evolution.svg The Sierpinski triangle may be constructed from an equilateral triangle by repeated removal of triangular subsets:
+The Sierpinski triangle may be constructed from an equilateral triangle by repeated removal of triangular subsets:
 
 1.  Start with an equilateral triangle.
 2.  Subdivide it into four smaller congruent equilateral triangles and remove the central triangle.
@@ -25,17 +25,17 @@ The same sequence of shapes, converging to the Sierpinski triangle, can alternat
 
 Note that this infinite process is not dependent upon the starting shape being a triangle—it is just clearer that way. The first few steps starting, for example, from a square also tend towards a Sierpinski triangle. Michael Barnsley used an image of a fish to illustrate this in his paper "V-variable fractals and superfractals."[4][5]
 
-Sierpinski_triangle_evolution_square.svg The actual fractal is what would be obtained after an infinite number of iterations. More formally, one describes it in terms of functions on closed sets of points. If we let _d__(A) denote the dilation by a factor of about a point A, then the Sierpinski triangle with corners A, B, and C is the fixed set of the transformation _d__(A) ∪ _d__(B) ∪ _d__(C).
+The actual fractal is what would be obtained after an infinite number of iterations. More formally, one describes it in terms of functions on closed sets of points. If we let _d__(A) denote the dilation by a factor of about a point A, then the Sierpinski triangle with corners A, B, and C is the fixed set of the transformation _d__(A) ∪ _d__(B) ∪ _d__(C).
 
 This is an attractive fixed set, so that when the operation is applied to any other set repeatedly, the images converge on the Sierpinski triangle. This is what is happening with the triangle above, but any other set would suffice.
 
 Chaos game
 
-Triângulo_de_Sierpinski.gif If one takes a point and applies each of the transformations _d__(A), _d__(B), and _d__(C) to it randomly, the resulting points will be dense in the Sierpinski triangle, so the following algorithm will again generate arbitrarily close approximations to it:[6]
+If one takes a point and applies each of the transformations _d__(A), _d__(B), and _d__(C) to it randomly, the resulting points will be dense in the Sierpinski triangle, so the following algorithm will again generate arbitrarily close approximations to it:[6]
 
 Start by labeling P₁, P₂ and P₃ as the corners of the Sierpinski triangle, and a random point V₁. Set , where _r_(n)_ is a random number 1, 2 or 3. Draw the points V₁ to V_(∞). If the first point V₁ was a point on the Sierpiński triangle, then all the points V_(_n_) lie on the Sierpinski triangle. If the first point V₁ to lie within the perimeter of the triangle is not a point on the Sierpinski triangle, none of the points V_(_n_) will lie on the Sierpinski triangle, however they will converge on the triangle. If V₁ is outside the triangle, the only way V_(_n_) will land on the actual triangle, is if V_(_n_) is on what would be part of the triangle, if the triangle was infinitely large.
 
-Animated_construction_of_Sierpinski_Triangle.gif Fractal_tree.gif Or more simply:
+Or more simply:
 
 1.  Take three points in a plane to form a triangle, you need not draw it.
 2.  Randomly select any point inside the triangle and consider that your current position.
@@ -46,11 +46,9 @@ Animated_construction_of_Sierpinski_Triangle.gif Fractal_tree.gif Or more simply
 
 This method is also called the chaos game, and is an example of an iterated function system. You can start from any point outside or inside the triangle, and it would eventually form the Sierpinski Gasket with a few leftover points (if the starting point lies on the outline of the triangle, there are no leftover points). With pencil and paper, a brief outline is formed after placing approximately one hundred points, and detail begins to appear after a few hundred. An interactive version of the chaos game can be found here.
 
-Sierpinski1.png
-
 Arrowhead construction of Sierpinski gasket
 
-Arrowhead_curve_1_through_6.png Another construction for the Sierpinski gasket shows that it can be constructed as a curve in the plane. It is formed by a process of repeated modification of simpler curves, analogous to the construction of the Koch snowflake:
+Another construction for the Sierpinski gasket shows that it can be constructed as a curve in the plane. It is formed by a process of repeated modification of simpler curves, analogous to the construction of the Koch snowflake:
 
 1.  Start with a single line segment in the plane
 2.  Repeatedly replace each line segment of the curve with three shorter segments, forming 120° angles at each junction between two consecutive segments, with the first and last segments of the curve either parallel to the original line segment or forming a 60° angle with it.
@@ -63,7 +61,7 @@ The Sierpinski triangle also appears in certain cellular automata (such as Rule 
 
 Pascal's triangle
 
-Sierpinski_Pascal_triangle.svg If one takes Pascal's triangle with 2^(_n_) rows and colors the even numbers white, and the odd numbers black, the result is an approximation to the Sierpinski triangle. More precisely, the limit as _n_ approaches infinity of this parity-colored 2^(_n_)-row Pascal triangle is the Sierpinski triangle.[13]
+If one takes Pascal's triangle with 2^(_n_) rows and colors the even numbers white, and the odd numbers black, the result is an approximation to the Sierpinski triangle. More precisely, the limit as _n_ approaches infinity of this parity-colored 2^(_n_)-row Pascal triangle is the Sierpinski triangle.[13]
 
 Towers of Hanoi
 
@@ -90,11 +88,9 @@ Conversely, the fractal can also be generated by beginning with a triangle and d
 
 Analogues in higher dimensions
 
-Sierpinski_pyramid.png Sierpinskitetrahedron.gif Sierpiński_Pyramid_from_Above.PNG The SIERPINSKI TETRAHEDRON or TETRIX is the three-dimensional analogue of the Sierpinski triangle, formed by repeatedly shrinking a regular tetrahedron to one half its original height, putting together four copies of this tetrahedron with corners touching, and then repeating the process.
+The SIERPINSKI TETRAHEDRON or TETRIX is the three-dimensional analogue of the Sierpinski triangle, formed by repeatedly shrinking a regular tetrahedron to one half its original height, putting together four copies of this tetrahedron with corners touching, and then repeating the process.
 
 A tetrix constructed from an initial tetrahedron of side-length _L_ has the property that the total surface area remains constant with each iteration. The initial surface area of the (iteration-0) tetrahedron of side-length _L_ is _L_². The next iteration consists of four copies with side length , so the total area is 4()² = 4_L_²· = _L_² again. Meanwhile the volume of the construction is halved at every step and therefore approaches zero. The limit of this process has neither volume nor surface but, like the Sierpinski gasket, is an intricately connected curve. Its Hausdorff dimension is  = 2. If all points are projected onto a plane that is parallel to two of the outer edges, they exactly fill a square of side length without overlap.
-
-tetrix_projection_fill_plane.gif
 
 Numerical generation
 
@@ -112,7 +108,7 @@ A short code in the Mathematica internal language: the recursive procedure SIPYR
        Do[s = Union[s,
           SiPyramid[n - 1, 2^(n - 1)*vect[u] + {i, j, k}]], {u, 4}]; s];
 
-Sierpinski_tetrahedrons.stl of level 0 to 6 tetrices]]
+of level 0 to 6 tetrices]]
 
 
 History

@@ -86,8 +86,6 @@ In 2019, the Saudi Public Investment Fund (PIF) launched the first commercial he
 
 Rail transport
 
-Rail_transport_map_of_Saudi_Arabia.png
-
 The first railway ever in Saudi Arabia is Ryadh-Dammam railway. It was launched by King Abdulaziz in 1951. In 2018, the railway transported 1.8 million passengers and 700,000 goods. Currently, the railway is planned to go under further development.[9]
 
 As a result of over-reliance on road and air travel, the rail transport has not received a similar level of investment in Saudi Arabia. However, there are now plans for expansion within the kingdom's railway infrastructure. The length of the new railway is 1,500 km.[10] Some of these plans are:

@@ -1,1 +1,0 @@
-ALEKSANDR ALEKSANDROVICH SHIDLOVSKY (Александр Александрович Шидловский, born 14 July 1974)[1] is a Russian born Kazakhstani water polo player. He was a member of the Kazakhstan men's national water polo team, playing as a driver. He was a part of the team at the 2004 Summer Olympics.[2][3]

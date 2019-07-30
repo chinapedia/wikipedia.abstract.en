@@ -1,1 +1,0 @@
-ELISABETH DARINA LARACY SILONE (30 March 1917 - 25 July 2003) was an Irish journalist, translator and anti-fascist.[1] She was the wife of the writer Ignazio Silone from 1944 until his death in 1978 .[2]

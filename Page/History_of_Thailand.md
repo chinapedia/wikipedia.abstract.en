@@ -48,13 +48,13 @@ From about the 10th century to the 14th century, Thailand is known through archa
 
 Hariphunchai
 
-Wat-Kukut-Lamphun-3.jpg]] According to the _Cāmadevivaṃsa_, the city of Hariphunchai (modern Lamphun) was founded by hermits. Camadevi, a princess of the Lavo Kingdom, was invited to rule the city around 700. However, this date is considered too early for the foundation of Hariphunchai as Camadevi brought no dharmachakras to the north. Hariphunchai may be a later (10th century) offshoot of the Lavo Kingdom or instead related to the Thaton Kingdom.
+]] According to the _Cāmadevivaṃsa_, the city of Hariphunchai (modern Lamphun) was founded by hermits. Camadevi, a princess of the Lavo Kingdom, was invited to rule the city around 700. However, this date is considered too early for the foundation of Hariphunchai as Camadevi brought no dharmachakras to the north. Hariphunchai may be a later (10th century) offshoot of the Lavo Kingdom or instead related to the Thaton Kingdom.
 
 Hariphunchai was the centre of Theravada in the north. The kingdom flourished during the reign of King Attayawong who built Wat Phra That Hariphunchai in 1108. The kingdom had strong relations with the Mon Kingdom of Thaton. During the 11th century, Hariphunchai waged lengthy wars with the Tai Ngoenyang Kingdom of Chiang Saen. Weakened by Tai invasions, Hariphunchai eventually fell in 1293 to Mangrai, king of Lan Na, the successor state of the Ngoenyang Kingdom.
 
 Arrival of the Tais
 
-TaiFamilyTree_Overlaid_On_Map.png The most recent and accurate theory about the origin of the Tai people stipulates that Guangxi in China is really the Tai motherland instead of Yunnan. A large number of Tai people known as the Zhuang still live in Guangxi today. Around 700 CE, Tai people who did not come under Chinese influence settled in what is now Điện Biên Phủ in modern Vietnam according to the Khun Borom legend. Based on layers of Chinese loanwords in proto-Southwestern Tai and other historical evidence, Pittayawat Pittayaporn (2014) proposed that this migration must have taken place sometime between the 8th–10th centuries.[14] Tai speaking tribes migrated southwestward along the rivers and over the lower passes into Southeast Asia, perhaps prompted by the Chinese expansion and suppression. Chinese historical texts record that, in 722, 400,000 'Lao'[15] rose in revolt behind a leader who declared himself the king of Nanyue in Guangdong. After the 722 revolt, some 60,000 were beheaded. In 726, after the suppression of a rebellion by a 'Lao' leader in the present-day Guangxi, over 30,000 rebels were captured and beheaded. In 756, another revolt attracted 200,000 followers and lasted four years. In the 860s, many local people in what is now North Vietnam sided with attackers from Nanchao, and in the aftermath, some 30,000 of them were beheaded. In the 1040s, a powerful matriarch-shamaness by the name of A Nong, her chiefly husband, and their son, Nong Zhigao, raised a revolt, took Nanning, besieged Guangzhou for fifty seven days, and slew the commanders of five Chinese armies sent against them before they were defeated, and many of their leaders were killed. As a result of these three bloody centuries, the Tai began to migrate southwestward.
+The most recent and accurate theory about the origin of the Tai people stipulates that Guangxi in China is really the Tai motherland instead of Yunnan. A large number of Tai people known as the Zhuang still live in Guangxi today. Around 700 CE, Tai people who did not come under Chinese influence settled in what is now Điện Biên Phủ in modern Vietnam according to the Khun Borom legend. Based on layers of Chinese loanwords in proto-Southwestern Tai and other historical evidence, Pittayawat Pittayaporn (2014) proposed that this migration must have taken place sometime between the 8th–10th centuries.[14] Tai speaking tribes migrated southwestward along the rivers and over the lower passes into Southeast Asia, perhaps prompted by the Chinese expansion and suppression. Chinese historical texts record that, in 722, 400,000 'Lao'[15] rose in revolt behind a leader who declared himself the king of Nanyue in Guangdong. After the 722 revolt, some 60,000 were beheaded. In 726, after the suppression of a rebellion by a 'Lao' leader in the present-day Guangxi, over 30,000 rebels were captured and beheaded. In 756, another revolt attracted 200,000 followers and lasted four years. In the 860s, many local people in what is now North Vietnam sided with attackers from Nanchao, and in the aftermath, some 30,000 of them were beheaded. In the 1040s, a powerful matriarch-shamaness by the name of A Nong, her chiefly husband, and their son, Nong Zhigao, raised a revolt, took Nanning, besieged Guangzhou for fifty seven days, and slew the commanders of five Chinese armies sent against them before they were defeated, and many of their leaders were killed. As a result of these three bloody centuries, the Tai began to migrate southwestward.
 
 The _Simhanavati legend_ tells us that a Tai chief named Simhanavati drove out the native Wa people and founded the city of Chiang Saen around 800 CE. For the first time, the Tai people made contact with the Indianized civilisations of Southeast Asia. Through Hariphunchai, the Tais of Chiang Saen adopted Theravada Buddhism and Sanskrit royal names. Wat Phrathat Doi Tong, constructed around 850, signified the piety of Tai people on the Theravada religion. Around 900, major wars were fought between Chiang Saen and Hariphunchai. Mon forces captured Chiang Saen and its king fled. In 937, Prince Prom the Great took Chiang Saen back from the Mon and inflicted severe defeats on Hariphunchai.
 
@@ -64,7 +64,7 @@ Overpopulation might have encouraged the Tais to seek their fortune further sout
 
 Lavo
 
-Wat_Phra_Prang_Sam_Yod-001.jpg.]] Around the 10th century, the city-states of Dvaravati merged into two mandalas, the Lavo (modern Lopburi) and the Suvarnabhumi (modern Suphan Buri). According to a legend in the Northern Chronicles, in 903, a king of Tambralinga invaded and took Lavo and installed a Malay prince on the Lavo throne. The Malay prince was married to a Khmer princess who had fled an Angkorian dynastic bloodbath. The son of the couple contested the Khmer throne and became Suryavarman I, thus bringing Lavo under Khmer domination through the marital union. Suryavarman I also expanded into the Khorat Plateau (later styled "Isan"), constructing many temples.
+.]] Around the 10th century, the city-states of Dvaravati merged into two mandalas, the Lavo (modern Lopburi) and the Suvarnabhumi (modern Suphan Buri). According to a legend in the Northern Chronicles, in 903, a king of Tambralinga invaded and took Lavo and installed a Malay prince on the Lavo throne. The Malay prince was married to a Khmer princess who had fled an Angkorian dynastic bloodbath. The son of the couple contested the Khmer throne and became Suryavarman I, thus bringing Lavo under Khmer domination through the marital union. Suryavarman I also expanded into the Khorat Plateau (later styled "Isan"), constructing many temples.
 
 Suryavarman, however, had no male heirs and again Lavo was independent. After the death of King Narai of Lavo, however, Lavo was plunged into bloody civil war and the Khmer under Suryavarman II took advantage by invading Lavo and installing his son as the King of Lavo.
 
@@ -93,9 +93,9 @@ Medieval Thailand
 
 Burmese wars
 
-Statue_de_Bouddha_Ayutthaya.JPG was destroyed by the Burmese invaders in 1767 CE.]] Starting in the middle of the 16th century, the kingdom came under repeated attacks by the Taungoo Dynasty of Burma. The Burmese–Siamese War (1547–49) began with a Burmese invasion and a failed siege of Ayutthaya. A second siege (1563–64) led by King Bayinnaung forced King Maha Chakkraphat to surrender in 1564. The royal family was taken to Bago, Burma, with the king's second son Mahinthrathirat installed as a vassal king.[19][20] In 1568, Mahinthrathirat revolted when his father managed to return from Bago as a Buddhist monk. The ensuing third siege captured Ayutthaya in 1569 and Bayinnaung made Mahathammarachathirat his vassal king.[21]
+was destroyed by the Burmese invaders in 1767 CE.]] Starting in the middle of the 16th century, the kingdom came under repeated attacks by the Taungoo Dynasty of Burma. The Burmese–Siamese War (1547–49) began with a Burmese invasion and a failed siege of Ayutthaya. A second siege (1563–64) led by King Bayinnaung forced King Maha Chakkraphat to surrender in 1564. The royal family was taken to Bago, Burma, with the king's second son Mahinthrathirat installed as a vassal king.[19][20] In 1568, Mahinthrathirat revolted when his father managed to return from Bago as a Buddhist monk. The ensuing third siege captured Ayutthaya in 1569 and Bayinnaung made Mahathammarachathirat his vassal king.[21]
 
-Royal_statue_king_naresuan_ay.jpg at Phra Nakhon Si Ayutthaya.]] After Bayinnaung's death in 1581, Uparaja Naresuan proclaimed Ayutthaya's independence in 1584. The Thai fought off repeated Burmese invasions (1584–1593), capped by an elephant duel between King Naresuan and Burmese heir-apparent Mingyi Swa in 1593 during the fourth siege of Ayutthaya in which Naresuan famously slew Mingyi Swa. The Burmese–Siamese War (1594–1605) was a Thai attack on Burma, resulting in the capture of the Tanintharyi Region as far as Mottama in 1595 and Lan Na in 1602. Naresuan even invaded mainland Burma as far as Taungoo in 1600, but was driven back.
+at Phra Nakhon Si Ayutthaya.]] After Bayinnaung's death in 1581, Uparaja Naresuan proclaimed Ayutthaya's independence in 1584. The Thai fought off repeated Burmese invasions (1584–1593), capped by an elephant duel between King Naresuan and Burmese heir-apparent Mingyi Swa in 1593 during the fourth siege of Ayutthaya in which Naresuan famously slew Mingyi Swa. The Burmese–Siamese War (1594–1605) was a Thai attack on Burma, resulting in the capture of the Tanintharyi Region as far as Mottama in 1595 and Lan Na in 1602. Naresuan even invaded mainland Burma as far as Taungoo in 1600, but was driven back.
 
 Ayutthaya expanded its sphere of influence over a considerable area, ranging from the Islamic states on the Malay Peninsula, the Andaman seaports of present-day India, the Angkor kingdom of Cambodia, to states in northern Thailand. In the 18th century, the power of the Ayutthaya Kingdom gradually declined as fighting between princes and officials plagued its politics. Outlying principalities became more and more independent, ignoring the capital's orders and decrees.
 
@@ -160,8 +160,6 @@ Early modern period
 
 Modernization under Rama IV and Rama V
 
-King_Chulalongkorn,_Rama_V.jpg
-
 When King Mongkut ascended the Siamese throne, he was severely threatened by the neighbouring states. The colonial powers of Britain and France had already advanced into territories which originally belonged to the Siamese sphere of influence. Mongkut and his successor Chulalongkorn (Rama V) recognised this situation and tried to strengthen the defence forces of Siam by modernisation, to absorb Western scientific and technical achievements, thus avoiding colonisation.
 
 The two monarchs, who ruled in this epoch, were the first with Western formation. King Mongkut had lived 26 years as a wandering monk and later as an abbot of Wat Bowonniwet Vihara. He was not only skilled in the traditional culture and Buddhist sciences of Siam, but he had also dealt extensively with modern western science, drawing on the knowledge of European missionaries and his correspondence with Western leaders and the Pope. He was the first Siamese monarch to speak the English.
@@ -188,7 +186,7 @@ In 1904, 1907 and 1909, there were new border corrections in favour of France an
 
 Nation formation under Vajiravudh
 
-Ananta_Samakhom_Throne_Hall.jpg is a royal reception hall.]] The successor of King Chulalongkorn was King Rama VI in October 1910, better known as Vajiravudh. He had studied law and history as the Siamese crown prince in Great Britain. After his ascension to the throne, he forgave important officials for his devoted friends, who were not part of the nobility, and even less qualified than their predecessors, an action which had hitherto been unprecedented in Siam. In his reign (1910–1925) many changes were made, which brought Siam closer to modern countries. For example, the Gregorian Calendar was introduced, all the citizens of his country had to accept a Family names, women were encouraged to wear skirts and long hair fringements and a citizenship law, Principle of the "Ius sanguinis" was adopted. In 1917 the Chulalongkorn University was founded and school education was introduced for all 7 to 14-year-olds.
+is a royal reception hall.]] The successor of King Chulalongkorn was King Rama VI in October 1910, better known as Vajiravudh. He had studied law and history as the Siamese crown prince in Great Britain. After his ascension to the throne, he forgave important officials for his devoted friends, who were not part of the nobility, and even less qualified than their predecessors, an action which had hitherto been unprecedented in Siam. In his reign (1910–1925) many changes were made, which brought Siam closer to modern countries. For example, the Gregorian Calendar was introduced, all the citizens of his country had to accept a Family names, women were encouraged to wear skirts and long hair fringements and a citizenship law, Principle of the "Ius sanguinis" was adopted. In 1917 the Chulalongkorn University was founded and school education was introduced for all 7 to 14-year-olds.
 
 King Vajiravudh was a favour of literature, theatre, he translated many foreign literatures into Thai. He created the spiritual foundation for a kind of Thai nationalism, a phenomenon unknown in Siam. He was based on the unity of nation, Buddhism, and kingship, and demanded loyalty from his subjects to all these three institutions. King Vajiravudh also took refuge in an irrational and contradictory anti-Sinicism. As a result of the mass immigration, in contrast to previous immigration waves from China, women and entire families had also come into the country, which meant that the Chinese were less assimilated and retained their cultural independence. In an article published by King Vajiravudh under a pseudonym, he described the Chinese minority as _Jews of the East_.
 
@@ -198,7 +196,7 @@ In 1912, a Palace revolt, plotted by young military officers, tried unsuccessful
 
 World War I
 
-Firstworldwar.jpg during World War I, Paris, 1919 CE.]]
+during World War I, Paris, 1919 CE.]]
 
 In 1917 Siam declared war on German Empire and Austria-Hungary, mainly to gain favour with the British and the French. Siam's token participation in World War I secured it a seat at the Versailles Peace Conference, and Foreign Minister Devawongse used this opportunity to argue for the repeal of the 19th-century unequal treaties and the restoration of full Siamese sovereignty. The United States obliged in 1920, while France and Britain followed in 1925. This victory gained the king some popularity, but it was soon undercut by discontent over other issues, such as his extravagance, which became more noticeable when a sharp postwar recession hit Siam in 1919. There was also the fact that the king had no son. He obviously preferred the company of men to women (a matter which of itself did not much concern Siamese opinion, but which did undermine the stability of the monarchy due to the absence of heirs).
 
@@ -213,7 +211,7 @@ End of absolute monarchy, and military rule
 
 Siamese revolution of 1932
 
-Prajadhipok's_coronation_records_-_001.jpg signing the Permanent Constitution of Siam on 10 December 1932]]
+signing the Permanent Constitution of Siam on 10 December 1932]]
 
 A small circle from the rising bourgeoisie of former students (all of whom had completed their studies in Europe – mostly Paris), supported by some military men, seized power from the absolute monarchy on 24 June 1932 in an almost nonviolent revolution. This was also called the "Siamese Revolution". The group, which called themselves _Khana Ratsadon_ or _sponsors_, gathered officers, intellectuals and bureaucrats, who represented the idea of the refusal of the absolute monarchy.
 
@@ -235,7 +233,7 @@ When Phibulsonggram succeeded Phraya Phahon as Prime Minister of Thailand on 11 
 
 Fascist Thailand
 
-Plaek_Pibulsonggram_said_Chulalongkorn_university_student_on_8_October_1940.jpg In 1938, Phibunsongkhram, an open supporter of Mussolini and Hitler, began moving the government towards the right. By 1942 he had issued a series of cultural decrees' '(ratthaniyom)' or Thai cultural mandates, which reflected the desire for social modernisation, but also an authoritarian and exaggerated nationalist spirit. First, in 1939 he changed the country's name of Siam to Thailand _(Prathet Thai)_ (). This was directed against the ethnic diversity in the country (Malay, Chinese, Lao, Shan, etc.) and is based on the idea of a "Thai race", a Pan-Thai nationalism whose program is the integration of the Shan, the Lao and other Tai peoples, such as those in Vietnam, Burma and South China, into a "Great Kingdom of Thailand" (). Other decrees urged the citizens only to call themselves "Thai", urged the use of regional dialects and other languages, demanded respect for the flag, the national and royal anthem, and the purchase of Thai products. Chinese names had to be changed into Thai ones, and candidates for the military academy had to prove that they were "pure-blooded" Thais. Finally, the use of Western clothing and customs (including hats for men and women, gloves and high heels for women, the man should kiss the woman before he went to work) was prescribed.
+In 1938, Phibunsongkhram, an open supporter of Mussolini and Hitler, began moving the government towards the right. By 1942 he had issued a series of cultural decrees' '(ratthaniyom)' or Thai cultural mandates, which reflected the desire for social modernisation, but also an authoritarian and exaggerated nationalist spirit. First, in 1939 he changed the country's name of Siam to Thailand _(Prathet Thai)_ (). This was directed against the ethnic diversity in the country (Malay, Chinese, Lao, Shan, etc.) and is based on the idea of a "Thai race", a Pan-Thai nationalism whose program is the integration of the Shan, the Lao and other Tai peoples, such as those in Vietnam, Burma and South China, into a "Great Kingdom of Thailand" (). Other decrees urged the citizens only to call themselves "Thai", urged the use of regional dialects and other languages, demanded respect for the flag, the national and royal anthem, and the purchase of Thai products. Chinese names had to be changed into Thai ones, and candidates for the military academy had to prove that they were "pure-blooded" Thais. Finally, the use of Western clothing and customs (including hats for men and women, gloves and high heels for women, the man should kiss the woman before he went to work) was prescribed.
 
 The defeat of France in Battle of France was the catalyst for Thai leadership to begin an attack on French colonies in Indochina. This began with smaller conflicts in 1940 and resulted in the Franco-Thai War in 1941. It had to accept a heavy defeat in the sea Battle of Ko Chang, but it dominated on land and in the air. The Empire of Japan, already the dominant power in the Southeast Asian region, took over the role of the mediator. The negotiations ended the Franco-Thai War with Thai territorial gains in the French colonies Laos and Cambodia. In celebration of the victory, Phibun called himself _Than phu nam_ () ("the leader") so as to run a personality cult around himself.
 
@@ -253,7 +251,7 @@ Postwar
 
 Allied occupation of Thailand (1946)
 
-Japanese_Troops_Leave_Bangkok,_1945_IND4835.jpgs guide disarmed Japanese soldiers from Bangkok to prisoner of war camps outside the city, September 1945]]
+s guide disarmed Japanese soldiers from Bangkok to prisoner of war camps outside the city, September 1945]]
 
 After Japan's defeat in 1945, British, Indian troops, and US observers landed in September, and during their brief occupation of parts of the country disarmed the Japanese troops. After repatriating them, the British left in March 1946. US support for Thailand blunted Allied demands, although the British demanded reparations in the form of rice sent to Malaya, and the French the return of territories lost in the Franco-Thai War. In exchange for supporting Thailand's admission to the United Nations, the Soviet Union demanded the repeal of the anti-communist legislation. Former British POWs erected a monument expressing gratitude to the citizens of Ubon Ratchathani for their kindnesses.
 
@@ -265,7 +263,7 @@ Moreover, the post-war accommodations with the Allies weakened the civilian gove
 
 Democratic elections and the return of the military
 
-Bhumbol_coronation_1.jpg at his coronation at the Grand Palace]]
+at his coronation at the Grand Palace]]
 
 Elections were held in January 1946. These were the first elections in which political parties were legal, and Pridi's People's Party and its allies won a majority. In March 1946 Pridi became Siam's first democratically elected prime minister. In 1946, after he agreed to hand back the Indochinese territories occupied in 1941 as the price for admission to the United Nations, all wartime claims against Siam were dropped and substantial US aid was received.
 
@@ -278,7 +276,7 @@ Although nominally a constitutional monarchy, Thailand was ruled by a series of 
 
 Cold War and pro-American period
 
-ATrelations0018a-1.jpg addresses a joint session of the United States Congress in 1960]]
+addresses a joint session of the United States Congress in 1960]]
 
 By 1955 Phibun was losing his leading position in the army to younger rivals led by Field Marshal Sarit Thanarat and General Thanom Kittikachorn, the Sarit's army staged a bloodless coup on 17 September 1957, ending Phibun's career for good. The coup beginning a long tradition of US-backed military regimes in Thailand. Thanom became prime minister until 1958, then yielded his place to Sarit, the real head of the regime. Sarit held power until his death in 1963, when Thanom again took the lead.
 
@@ -288,7 +286,7 @@ The regimes of Sarit and Thanom were strongly supported by the US. Thailand had 
 
 Agent Orange
 
-Two_Vietnameses_pose_in_front_of_the_billboard-cropped.jpg Agent Orange, a herbicide and defoliant chemical used by the U.S. military as part of its herbicidal warfare program, Operation Ranch Hand, was tested by the United States in Thailand during the war in Southeast Asia. Buried drums were uncovered and confirmed to be Agent Orange in 1999.[44] Workers who uncovered the drums fell ill while upgrading the airport near Hua Hin District, 100 km south of Bangkok.[45]
+Agent Orange, a herbicide and defoliant chemical used by the U.S. military as part of its herbicidal warfare program, Operation Ranch Hand, was tested by the United States in Thailand during the war in Southeast Asia. Buried drums were uncovered and confirmed to be Agent Orange in 1999.[44] Workers who uncovered the drums fell ill while upgrading the airport near Hua Hin District, 100 km south of Bangkok.[45]
 
 US Vietnam-era veterans whose service involved duty on or near the perimeters of military bases in Thailand anytime between 28 February 1961, and 7 May 1975, may have been exposed to herbicides and may qualify for VA benefits.[46]
 
@@ -304,7 +302,7 @@ The insurgency spread to other parts of Thailand in 1966, although 90 percent of
 
 Vietnam War and development
 
-Walking_Street_in_Pattaya_in_June_2017.jpg]] Kohsan_Road_Bangkok.JPG, Bangkok]] The Vietnam War hastened the modernisation and Westernisation of Thai society. The American presence and the exposure to Western culture that came with it had an effect on almost every aspect of Thai life. Before the late 1960s, full access to Western culture was limited to a highly educated elite in society, but the Vietnam War brought the outside world face to face with large segments of the Thai society as never before. With US dollars pumping up the economy, the service, transportation, and construction industries grew phenomenally as did drug abuse and prostitution. The traditional rural family unit was broken down as more and more rural Thais moved to the city to find new jobs. This led to a clash of cultures as Thais were exposed to Western ideas about fashion, music, values, and moral standards.
+]] , Bangkok]] The Vietnam War hastened the modernisation and Westernisation of Thai society. The American presence and the exposure to Western culture that came with it had an effect on almost every aspect of Thai life. Before the late 1960s, full access to Western culture was limited to a highly educated elite in society, but the Vietnam War brought the outside world face to face with large segments of the Thai society as never before. With US dollars pumping up the economy, the service, transportation, and construction industries grew phenomenally as did drug abuse and prostitution. The traditional rural family unit was broken down as more and more rural Thais moved to the city to find new jobs. This led to a clash of cultures as Thais were exposed to Western ideas about fashion, music, values, and moral standards.
 
 The population began to grow explosively as the standard of living rose, and a flood of people began to move from the villages to the cities, and above all to Bangkok. Thailand had 30 million people in 1965, while by the end of the 20th century the population had doubled. Bangkok's population had grown tenfold since 1945 and had tripled since 1970.
 
@@ -336,7 +334,7 @@ The post-1973 years have seen a difficult and sometimes bloody transition from m
 
 Thaksin Period
 
-Thaksin.jpg The populist Thai Rak Thai party, led by Prime Minister Thaksin Shinawatra, came to power in 2001. He was popular with the urban, suburban, and rural poor for his populist social programs. His rule came under attack from elites who saw danger in his "parliamentary dictatorship". In mid-2005, Sondhi Limthongkul, a well-known media tycoon, became the foremost Thaksin critic. Eventually, Sondhi and his allies developed the movement into a mass protest and later unified under the name of People's Alliance for Democracy (PAD).
+The populist Thai Rak Thai party, led by Prime Minister Thaksin Shinawatra, came to power in 2001. He was popular with the urban, suburban, and rural poor for his populist social programs. His rule came under attack from elites who saw danger in his "parliamentary dictatorship". In mid-2005, Sondhi Limthongkul, a well-known media tycoon, became the foremost Thaksin critic. Eventually, Sondhi and his allies developed the movement into a mass protest and later unified under the name of People's Alliance for Democracy (PAD).
 
 On 19 September 2006, after the dissolution of parliament, Thaksin became head of a provisional government. While he was in New York for a meeting of the UN, Army Commander-in-Chief Lieutenant General Sonthi Boonyaratglin launched the bloodless September 2006 Thailand military coup d'état supported by anti-Thaksin elements in civil society and the Democrat Party. A general election on 23 December 2007 restored a civilian government, led by Samak Sundaravej of the People's Power Party, as a successor to Thai Rak Thai.
 
@@ -348,7 +346,7 @@ In this interim constitution draft, the head of the junta was allowed to remove 
 
 2008–2010 political crisis
 
-PAD_rally_at_Sukhumvit_Road_2008-10-30.jpg, Yellow Shirts, rally on Sukhumvit Road in 2008.]] 2010_09_19_red_shirt_protest_bkk_09.JPG, Red Shirts, protest on Ratchaprasong intersection in 2010.]]
+, Yellow Shirts, rally on Sukhumvit Road in 2008.]] , Red Shirts, protest on Ratchaprasong intersection in 2010.]]
 
 The People's Power Party (Thailand) (PPP), led by Samak Sundaravej formed a government with five smaller parties. Following several court rulings against him in a variety of scandals, and surviving a vote of no confidence, and protesters blockading government buildings and airports, in September 2008, Sundaravej was found guilty of conflict of interest by the Constitutional Court of Thailand (due to being host of a TV cooking program),[59] and thus, ended his term in office.
 
@@ -364,8 +362,6 @@ On 3 July 2011, the opposition Pheu Thai Party, led by Yingluck Shinawatra (the 
 
 2013–2014 political crisis
 
-Protesters_on_motorcycles_in_Bangkok,_1_December_2013.jpg
-
 Protests recommenced in late 2013, as a broad alliance of protesters, led by former opposition deputy leader Suthep Thaugsuban, demanded an end to the Thaksin regime. A blanket amnesty for people involved in the 2010 protests, altered at the last minute to include all political crimes, including all convictions against Thaksin, triggered a mass show of discontent, with numbers variously estimated between 98,500 (the police) and 400,000 (an aerial photo survey done by the _Bangkok Post_), taking to the streets. The Senate was urged to reject the bill to quell the reaction, but the measure failed. A newly named group, the People's Democratic Reform Committee (PDRC) along with allied groups, escalated the pressure, with the opposition Democrat party resigning en masse to create a parliamentary vacuum. Protesters demand variously evolved as the movement's numbers grew, extending a number of deadlines and demands that became increasingly unreasonable or unrealistic, yet attracting a groundswell of support. They called for the establishment of an indirectly elected "people’s council", in place of Yingluck's government, that would cleanse Thai politics and eradicate the Thaksin regime.[70]
 
 In response to the protests, Yingluck dissolved parliament on 9 December 2013 and proposed a new election for 2 February 2014, a date that was later approved by the election commission.[71] The PDRC insisted that the prime minister stand down within 24 hours, regardless of her actions, with 160,000 protesters in attendance at Government House on 9 December. Yingluck insisted that she would continue her duties until the scheduled election in February 2014, urging the protesters to accept her proposal: "Now that the government has dissolved parliament, I ask that you stop protesting and that all sides work towards elections. I have backed down to the point where I don't know how to back down any further."[72]
@@ -376,7 +372,7 @@ On 7 May 2014, the Constitutional Court ruled that Yingluck would have to step d
 
 2014 coup d'état
 
-2014_0526_Thailand_coup_Chang_Phueak_Gate_Chiang_Mai_02.jpg{{!}}border.|link=Special:FilePath/2014_0526_Thailand_coup_Chang_Phueak_Gate_Chiang_Mai_02.jpgborder]] On 20 May 2014 the Thai army declared martial law and began to deploy troops in the capital, denying that it was a coup attempt.[76] On 22 May, the army admitted that it was a coup and that it was taking control of the country and suspending the country's constitution.[77][78] On the same day, the military imposed a curfew between the hours of 22:00–05:00, ordering citizens and visitors to remain indoors during this period.[79][80][81][82][83] On 21 August 2014 the National Assembly of Thailand elected the army chief, General Prayut Chan-o-cha, as prime minister. Martial law was declared formally ended on 1 April 2015.[84] "Uniformed or ex-military men have led Thailand for 55 of the 83 years since absolute monarchy was overthrown in 1932,..." observed one journalist in 2015.[85]
+.|link=Special:FilePath/2014_0526_Thailand_coup_Chang_Phueak_Gate_Chiang_Mai_02.jpgborder]] On 20 May 2014 the Thai army declared martial law and began to deploy troops in the capital, denying that it was a coup attempt.[76] On 22 May, the army admitted that it was a coup and that it was taking control of the country and suspending the country's constitution.[77][78] On the same day, the military imposed a curfew between the hours of 22:00–05:00, ordering citizens and visitors to remain indoors during this period.[79][80][81][82][83] On 21 August 2014 the National Assembly of Thailand elected the army chief, General Prayut Chan-o-cha, as prime minister. Martial law was declared formally ended on 1 April 2015.[84] "Uniformed or ex-military men have led Thailand for 55 of the 83 years since absolute monarchy was overthrown in 1932,..." observed one journalist in 2015.[85]
 
 Military Junta (2014 to present)
 
@@ -384,7 +380,7 @@ The ruling junta led by Prayuth Chan-o-cha promised to hold new elections, but w
 
 Maha Vajiralongkorn reign (2016–present)
 
-HRH_Vajiralongkorn_(Cropped).jpg, the new king of Thailand.]] On 13 October 2016, King Bhumibol Adulyadej of Thailand died at the age of 89, in Siriraj Hospital in Bangkok. On the night of 1 December 2016, the fiftieth day after the death of Bhumibol, Regent Prem Tinsulanonda led the heads of the country's three branches of government to an audience with Vajiralongkorn to invite him to ascend to the throne as the tenth king of the Chakri dynasty.[90] In April 2017, King Vajiralongkorn signs the new constitution which will aid in the return to democracy.
+, the new king of Thailand.]] On 13 October 2016, King Bhumibol Adulyadej of Thailand died at the age of 89, in Siriraj Hospital in Bangkok. On the night of 1 December 2016, the fiftieth day after the death of Bhumibol, Regent Prem Tinsulanonda led the heads of the country's three branches of government to an audience with Vajiralongkorn to invite him to ascend to the throne as the tenth king of the Chakri dynasty.[90] In April 2017, King Vajiralongkorn signs the new constitution which will aid in the return to democracy.
 
 In May 2017, Bangkok hospital was bombed, wounding 24 people on the third anniversary of the military coup of 2014.[91]
 

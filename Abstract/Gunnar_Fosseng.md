@@ -1,1 +1,0 @@
-GUNNAR "GURKEN" FOSSENG (born 7 August 1967) is a Norwegian handball goalkeeper. He made his debut on the Norwegian national team in 1987, and played 164 matches for the national team between 1987 and 2003.[1] At the 2001 World Men's Handball Championship he was captain for the Norwegian team.

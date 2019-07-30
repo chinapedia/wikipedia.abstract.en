@@ -1,1 +1,0 @@
-'''Hanne Nissen ''' (born 21 November 1970) is a Danish footballer who played as a forward for the Denmark women's national football team. She was part of the team at the 1991 FIFA Women's World Cup and UEFA Women's Euro 1993. At the club level, she played for Odense BK in Denmark.[1]

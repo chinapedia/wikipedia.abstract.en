@@ -1,1 +1,0 @@
-CANADIAN PACIFIC RAILWAY N-2-A, B, AND C class locomotives were a class of 182 2-8-0 or Consolidation type locomotives built by Montreal Locomotive Works in 1912-1914. They were numbered 3600–3799 by CP and were used almost everywhere around the system.

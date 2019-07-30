@@ -1,1 +1,0 @@
-MEDIA OWNERSHIP IN COLOMBIA is highly concentrated. The four largest newspapers together account for two-thirds of total readership, and the two largest television channels have about two-thirds of the market and 78% of advertising revenues,[1] according to a 2016 study by Reporters Without Borders and the Colombian Federation of Journalists.

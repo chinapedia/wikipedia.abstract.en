@@ -1,1 +1,0 @@
-LOUIS CHATELAIN (23 February 1883 – 6 October 1950) was a 20th-century French historian, archaeologist and university professor. The son of Émile Chatelain, philologist and Latinist, he particularly worked on the excavation sites of Orange, Maktar (Tunisia) and Volubilis (Morocco).

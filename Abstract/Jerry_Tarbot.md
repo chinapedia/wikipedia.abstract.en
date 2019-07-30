@@ -1,1 +1,0 @@
-JERRY TARBOT was an American conman who claimed he was an amnesia victim of World War I.[1] On April 10, 1926 The Healdsburg Tribune published on article/photograph on Tarbot calling him the "sliding ghost" of World War I.[2]

@@ -1,1 +1,0 @@
-Sword_Boeheim_schiavonesca.jpg

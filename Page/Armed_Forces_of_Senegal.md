@@ -25,7 +25,7 @@ Lists of Chiefs of Defense Staff Senegal
 -   General Mamadou Sow (30/10 / 2012-31 / 12/2016)
 -   Major General Cheikh Gueye (01/01/2017
 
-== Summary of past military actions == Senegalese_navy_Adm._Ousmane_Ibrahima_Sall,_left,_the_deputy_chief_of_staff_of_the_Senegalese_Armed_Forces,_inspects_a_formation_of_troops_with_military_leaders_from_other_nations_during_exercise_Western_Accord_120714-M-XI134-0407.jpgs commando of Thiès.|220x220px|left]]
+== Summary of past military actions == s commando of Thiès.|220x220px|left]]
 
 -   In October 1980 and August 1981, the Senegalese military was invited into the Gambia by President Dawda Kairaba Jawara to put down a coup attempt.[2]
 -   In August 1989, Senegalese-Gambian military cooperation ceased with the dissolution of the Senegambian Confederation.
@@ -41,7 +41,7 @@ The Army (_Armée de Terre_) is the leading force within the Senegalese armed fo
 
 Army
 
-Senegalese_soldiers_during_exercise.jpg Since independence the army has gone through a large number of reorganisations. The army's heritage includes the prestigious Tirailleurs sénégalais. In 1978, Senegal dispatched a battalion to the Inter-African Force in Zaire, in the aftermath of the Shaba II fighting. The Senegalese contingent was under the command of Colonel Osmane Ndoye.[4] The Senegalese force comprised a parachute battalion from Thiaroye.
+Since independence the army has gone through a large number of reorganisations. The army's heritage includes the prestigious Tirailleurs sénégalais. In 1978, Senegal dispatched a battalion to the Inter-African Force in Zaire, in the aftermath of the Shaba II fighting. The Senegalese contingent was under the command of Colonel Osmane Ndoye.[4] The Senegalese force comprised a parachute battalion from Thiaroye.
 
 The Army currently consists of two divisions, the Operations Division and the Logistic Division. The IISS estimated in 2012 that the Army had a strength of 11,900 soldiers, three armoured battalions the 22nd, 24th, and 25th (at Bignona) and the 26th _Bataillon de reconnaissance et d'Appui_ at Kolda; there are six infantry battalions 1st to 6th.[5] 3rd Battalion may have been at Kaolack with 4th at Tambacounda at one point.[6]
 
@@ -52,7 +52,7 @@ Although the Senegalese air force is geared towards supporting it, the army may 
 
 National Gendarmerie
 
-Spahis_sénégalais_lors_de_l'Investiture_de_Macky_Sall_-_2_avril_2012_(3).jpg.|180x180px|left]] The Gendarmerie is a military force which provides policing and security. It includes a Territorial Gendarmerie with general policing duties, and a Mobile Gendarmerie for special tasks and serious public disorder.
+.|180x180px|left]] The Gendarmerie is a military force which provides policing and security. It includes a Territorial Gendarmerie with general policing duties, and a Mobile Gendarmerie for special tasks and serious public disorder.
 
 The Senegalese gendarmerie evolved out of a French colonial Spahi detachment sent to Senegal in 1845. This detachment (which became today's Red Guard of Senegal) was the cadre around which the "Colonial Gendarmerie" was formed. On independence this became the National Gendarmerie.
 
@@ -61,7 +61,7 @@ The commander is General Abdoulaye Fall (a different person from the current Arm
 
 Navy
 
-Fouladou_Senegal_Patrol.jpg _Fouladou_ (OPV 190).]] The navy (_marine_), also known as the _Armée de mer_, is of small size and is commanded by a Ship-of-the-Line Captain. It is responsible for securing Senegal's Atlantic coastline which is strategically located on the extreme west of the African continent. The navy was created in 1961.
+_Fouladou_ (OPV 190).]] The navy (_marine_), also known as the _Armée de mer_, is of small size and is commanded by a Ship-of-the-Line Captain. It is responsible for securing Senegal's Atlantic coastline which is strategically located on the extreme west of the African continent. The navy was created in 1961.
 
 The Navy is divided into three branches known as "groupings":[8]
 
@@ -79,12 +79,12 @@ The Navy is divided into three branches known as "groupings":[8]
 
 Air Force
 
-Roundel_of_Senegal.svg.|180x180px]] The air force (_Armée de l'Air_) is orientated towards providing support for ground forces and resembles an army aviation corps. It has no air-to-air combat aircraft, but possesses Mil Mi-24 gunship helicopters, transport helicopters and aeroplanes, and reconnaissance helicopters and aeroplanes. This small force is commanded by a colonel.
+.|180x180px]] The air force (_Armée de l'Air_) is orientated towards providing support for ground forces and resembles an army aviation corps. It has no air-to-air combat aircraft, but possesses Mil Mi-24 gunship helicopters, transport helicopters and aeroplanes, and reconnaissance helicopters and aeroplanes. This small force is commanded by a colonel.
 
 
 Military zones
 
-Zones_militaires_sénégal_carte_map.png At the present time, there are seven military zones:[9]
+At the present time, there are seven military zones:[9]
 
 -   Zone n°1 - Dakar
 -   Zone n°2 - Saint-Louis
@@ -125,8 +125,6 @@ OTHER 'SOFT-SKIN' MILITARY VEHICLES NOT LISTED BY THE IISS:
 -   M-809 6x6 trucks
 
 Artillery
-
-Marins_sénégalais_en_2011.jpg
 
 -   6 M-50 155mm Howitzer
 -   8 TRF1 155mm Howitzer[10]

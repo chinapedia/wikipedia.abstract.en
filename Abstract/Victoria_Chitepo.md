@@ -1,1 +1,0 @@
-VICTORIA FIKILE CHITEPO (27 March 1928 – 8 April 2016) was a Zimbabwean politician, activist and educator. She was the wife of Herbert Chitepo, a leading figure in the Zimbabwe African National Union (ZANU), but was a major political figure in her own right and served as a minister in the government of independent Zimbabwe between 1980–1992.[1]

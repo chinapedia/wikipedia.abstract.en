@@ -1,1 +1,0 @@
-The 2007 INTERNATIONAL GT OPEN SEASON was the second season of the International GT Open, the grand tourer-style sports car racing founded in 2006 by the Spanish GT Sport Organización. It began on 21 April at ACI Vallelunga Circuit and finished on 11 November, at Barcelona after six double-header meetings with one single race round.

@@ -1,1 +1,0 @@
-Hark_Hark_(Marks's_Nursery_Rhymes).jpg "HARK, HARK! THE DOGS DO BARK" is an English nursery rhyme. Its origins are uncertain and researchers have attributed it to various dates ranging from the late 1000s to the early 1700s. The earliest known printings of the rhyme are from the late 1700s, but a related rhyme was written down a century earlier than that.

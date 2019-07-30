@@ -1,1 +1,0 @@
-_THESE C*CKSUCKING TEARS_ is a 2016 American documentary short film directed by Dan Taberski and starring Patrick Haggerty. It is based on his life and struggles as an openly gay person and musician with the band Lavender Country.[1]

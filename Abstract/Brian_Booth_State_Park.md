@@ -1,1 +1,0 @@
-BRIAN BOOTH STATE PARK is a coastal recreational area located near Seal Rock, Oregon. It consists of two major portions: Ona Beach State Park and Beaver Creek Natural Area. The park has beach access, kayaking, and hiking trails. The park is 886.32 acres and has an annual attendance of 247,772 people. Ona is known as a Chinook Jargon word for razor clam.[1]

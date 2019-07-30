@@ -1,1 +1,0 @@
-NORMAN COLIN DEXTER (29 September 1930 – 21 March 2017) was an English crime writer known for his _Inspector Morse_ series of novels, which were written between 1975 and 1999 and adapted as an ITV television series, _Inspector Morse_, from 1987 to 2000. His characters have spawned a sequel series, _Lewis_, and a prequel series, _Endeavour_.

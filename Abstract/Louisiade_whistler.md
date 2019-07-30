@@ -1,1 +1,0 @@
-The LOUISIADE WHISTLER (_Pachycephala collaris_) is a species of bird in the family Pachycephalidae, which is endemic to the Louisiade Archipelago south-east of New Guinea. It was split from the Bismarck whistler by the IOC in 2015.[1]

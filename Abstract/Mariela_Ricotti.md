@@ -1,1 +1,0 @@
-'''Mariela Ricotti ''' (born 2 April 1979) is an Argentine women's international footballer who plays as a defender. She is a member of the Argentina women's national football team. She was part of the team at the 2003 FIFA Women's World Cup. On club level she plays for Boca Juniors in Argentina.[1]

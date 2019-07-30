@@ -1,1 +1,0 @@
-The 2017 UCI EUROPE TOUR was the thirteenth season of the UCI Europe Tour. The 2017 season began on 26 January 2017 with the Trofeo Santanyí-Ses Salines-Campos and ended on 17 October 2017 with the Nationale Sluitingsprijs.

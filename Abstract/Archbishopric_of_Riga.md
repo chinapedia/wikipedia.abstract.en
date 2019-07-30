@@ -1,1 +1,0 @@
-The ARCHBISHOPRIC OF RIGA (, ) was an archbishopric in Medieval Livonia, a subject to the Holy See. It was established in 1186 as the bishopric of Livonia at Ikšķile, then after moving to Riga it became the bishopric of Riga in 1202 and was elevated to an archbishopric in 1255.

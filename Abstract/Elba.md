@@ -1,1 +1,0 @@
-Tuscan_archipelago.png

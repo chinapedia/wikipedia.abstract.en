@@ -1,1 +1,0 @@
-Un-el-salvador.png

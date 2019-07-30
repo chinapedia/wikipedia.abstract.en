@@ -1,1 +1,0 @@
-BLANCA ESTELA RUBIO (born September 15, 1969) is an American politician serving in the California State Assembly since 2016. She is a Democrat representing the 48th Assembly District, encompassing parts of the eastern San Gabriel Valley. Prior to being elected to the Assembly, she was a school board trustee for the Baldwin Park Unified School District.

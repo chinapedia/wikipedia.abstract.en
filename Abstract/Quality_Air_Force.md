@@ -1,1 +1,0 @@
-QUALITY AIR FORCE (QAF) was an initiative inside the United States Air Force in the 1990s that attempted to apply quality control to all activities. The effort was associated with General Merrill McPeak.

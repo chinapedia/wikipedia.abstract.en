@@ -1,1 +1,0 @@
-_KILLER RACK_ is a 2015 American musical horror comedy film directed by Greg Lamberson and written by Paul McGinnis.[1] The film, which was shot in Buffalo, New York,[2] was screened at over twelve film festivals, and profits from promotional stickers were donated to the Lynn Sage Foundation, a breast cancer organization.[3]

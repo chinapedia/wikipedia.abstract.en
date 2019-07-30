@@ -1,1 +1,0 @@
-VLADIMIR KUZNETSOV (born ) is a Soviet male former weightlifter, who competed in the middleweight class and represented Soviet Union at international competitions. He won the silver medal at the 1983 World Weightlifting Championships in the 75 kg category.[1]

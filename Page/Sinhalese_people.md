@@ -32,8 +32,6 @@ Rulers such as Dutthagamani, Valagamba, and Dhatusena are noted for defeating th
 
 Polonnaruwa & Transitional period
 
-King_of_Kandy.svg
-
 During the Middle Ages Sri Lanka was well known for its agricultural prosperity under the Parakramabahu in Polonnaruwa during which period the island was famous around the world as the rice mill of the east. Later in the 13th century the country's administrative provinces were divided into three independent kingdoms: Kingdom of Sitawaka, Kingdom of Kotte and the Kandyan kingdom.[27] The invasion by Magha in the 13th century led to migrations by the Sinhalese to areas not under his control. This migration was followed by a period of conflict among the Sinhalese chiefs who tried to exert political supremacy. Parakramabahu VI in the 15th century was the only Sinhalese king during this time who could bring back the unity of the whole island. Trade also increased during this period, as Sri Lanka began to trade Cinnamon and a large number of Muslim traders were bought into the island.[28]
 
 In the 15th century a Kandyan Kingdom formed which divided the Sinhalese politically into low-country and up-country.[29]
@@ -49,7 +47,7 @@ Demographics
 
 Sri Lanka
 
-Sri_Lanka_-_Ethnicity_2012.png Within Sri Lanka the majority of the Sinhalese reside in the South, Central, Sabaragamuwa and Western parts of the country. This coincides with the largest Sinhalese populations areas in Sri Lanka. Cities with a > 90% population include Hambantota, Galle, Gampaha, Kurunegala, Monaragala, Anuradhapura and Polonnaruwa.[30]
+Within Sri Lanka the majority of the Sinhalese reside in the South, Central, Sabaragamuwa and Western parts of the country. This coincides with the largest Sinhalese populations areas in Sri Lanka. Cities with a > 90% population include Hambantota, Galle, Gampaha, Kurunegala, Monaragala, Anuradhapura and Polonnaruwa.[30]
 
 +----------+------------+----------+-------------+
 | Province | Sinhalese  | %        | % Sinhalese |
@@ -80,13 +78,11 @@ Sri_Lanka_-_Ethnicity_2012.png Within Sri Lanka the majority of the Sinhalese re
 
 Diaspora
 
-Sinhalese_USC2000_PHS.svg Sinhalese people have emigrated out to many countries for a variety of reasons. The larger diaspora communities are situated in the United Kingdom, Australia, United States and Canada among others. In addition to this there are many Sinhalese, who reside in the Middle East, Southeast Asia and Europe, temporarily in connection with employment and/or education. They are often employed as guest workers in the Middle East and professionals in the other regions.
+Sinhalese people have emigrated out to many countries for a variety of reasons. The larger diaspora communities are situated in the United Kingdom, Australia, United States and Canada among others. In addition to this there are many Sinhalese, who reside in the Middle East, Southeast Asia and Europe, temporarily in connection with employment and/or education. They are often employed as guest workers in the Middle East and professionals in the other regions.
 
 The largest population centres of the Sinhalese diaspora are mainly situated in Europe, North America and Australia. The city of Melbourne contains just under half of the Sri Lankan Australians. The 2011 census recorded 86,412 Sri Lanka born in Australia. There are 73,849 Australians (0.4 of the population) who reported having Sinhalese ancestry in 2006. Sinhala was also reported to be the 29th-fastest-growing language in Australia (ranking above Somali but behind Hindi and Belarusian). Sinhalese Australians have an exceptionally low rate of return migration to Sri Lanka. In the 2011 Canadian Census, 7,220 people identified themselves as of Sinhalese ancestry, out of 139,415 Sri Lankans.[32] There are a small number of Sinhalese people in India, scattered around the country, but mainly living in and around the northern and southern regions. Sri Lankan New Zealanders comprised 3% of the Asian population of New Zealand in 2001.[33] The numbers arriving continued to increase, and at the 2006 census there were over 7,000 Sri Lankans living in New Zealand. The Sinhalese number about 12,000 in the U.S. The New York City Metropolitan Area contains the largest Sri Lankan community in the United States, receiving the highest legal permanent resident Sri Lankan immigrant population,[34] followed by Central New Jersey and the Los Angeles metropolitan area. Many Sinhalese have migrated to Italy since the 1970s. Italy was attractive to the Sinhalese due to perceived easier employment opportunities and entry, compared to other European countries. It is estimated that there are 30,000-33,000 Sinhalese in Italy. The major Sinhalese communities in Italy are located in Lombardia (In the districts Loreto and Lazzaretto), Milan, Lazio, Rome, Naples, and Southern Italy (Particularly Palermo, Messina and Catania). Though Sinhalese people in particular and Sri Lankans in general have migrated to the UK over the centuries beginning from the colonial times, the number of Sinhalese people in the UK cannot be estimated accurately due to inadequacies of census in the UK. The UK government does not record statistics on the basis of language or ethnicity and all Sri Lankans are classified into one group as Asian British or Asian Other.
 
 Language and literature
-
-Word_Sinhala_in_Yasarath_font.svg Ola_Scriptures_And_Art_Works_Of_Venerable_Migettuwatte_Gunananda_Thera.jpg
 
 Sinhalese people speak Sinhala, also known as "Helabasa"; this language has two varieties, spoken and written. Sinhala is an Indo-Aryan language within the broader group of Indo-European languages.[35] The early form of the language was brought to Sri Lanka by the ancestors of the Sinhalese people from northern India who settled on the island in the 6th century BCE.[36][37] Sinhala developed in a way different from the other Indo-Aryan languages because of the geographic separation from its Indo-Aryan sister languages. It was influenced by many languages, prominently Pali, the sacred language of Southern Buddhism, and Sanskrit. Many early texts in the language such as the _Hela Atuwa_ were lost after their translation into Pali. Other significant Sinhala texts include _Amāvatura_, _Kavu Silumina_, _Jathaka Potha_ and _Sala Liheeniya_. Sinhala has also adopted many loanwords of foreign origin, including from many Indian such as Tamil and European languages such as Portuguese, Dutch, and English.[38]
 
@@ -98,7 +94,7 @@ In the modern period, Sinhala writers such as Martin Wickremasinghe and G. B. S
 
 Religion
 
-Zahntempel_Kandy.jpg was renovated during the Buddhist revival.]]
+was renovated during the Buddhist revival.]]
 
 The form of Buddhism in Sri Lanka is known as Theravada (school of elders). The Pali chronicles (e.g., the Mahavansa) claim that the Sinhalese as an ethnic group are destined to preserve and protect Buddhism. In 1988 almost 93% of the Sinhala speaking population in Sri Lanka were Buddhist.[41] Observations of current religious beliefs and practices demonstrate that Sinhalese as a religious community have complex worldview as Buddhists. Due to the proximity and on some occasions similarity of certain doctrines, there are many areas where Buddhists and Hindus share religious views and practices. This can lead to the opinion that Buddhists have adopted religious elements from Hindu traditions in their religious practices. Some of these practices may relate to ancient indigenous beliefs and traditions on spirits, worship of deities and godlings and some figures appear to demons. Some of these demonic figures are used in healing rituals and may be native to the island.[42][43][44]
 
@@ -110,7 +106,7 @@ Religion is considered very important among the Sinhalese. According to a 2008 G
 
 Genetics
 
-Genetic_relationship_of_Sinhalese_to_other_ethnic_groups_in_a_dendogram.PNG of Sinhalese to other ethnic groups in the Indian Subcontinent according to an Alu Polymorphism analysis.]]
+of Sinhalese to other ethnic groups in the Indian Subcontinent according to an Alu Polymorphism analysis.]]
 
 Modern studies point towards a predominantly Bengali contribution and a minor Tamil and Western Indian (Gujarati) contribution.[50][51] In relation to the former, studies also show the Sinhalese possess a genetic relationship with East Asian and Southeast Asian populations due to their close genetic links to Northeast India.[52][53] Certain Y-DNA and mtDNA haplogroups and genetic markers of immunoglobulin among the Sinhalese, for example, show East and Southeast Asian genetic influences many of which are also found among certain Northeast Indian populations of whom the Sinhalese are genetically related to.[54][55][56]
 
@@ -125,13 +121,11 @@ According to the Mahavamsa, the Sinhalese are descended from the exiled Prince V
 
 Dress
 
-Sinhalese_Girl_Wearing_A_Traditional_Kandyan_Saree_(Osaria)-1.jpg]]
+]]
 
 Traditionally during recreation the Sinhalese wear a sarong (_sarama_ in Sinhala). Men may wear a long-sleeved shirt with the sarong, while women wear a tight-fitting, short-sleeved jacket with a wrap-around called the _cheeththaya_. In the more populated areas, Sinhalese men also wear Western-style clothing — wearing suits while the women wear skirts and blouses. For formal and ceremonial occasions women wear the traditional Kandyan (Osaria) style, which consists of a full blouse which covers the midriff completely, and is partially tucked in at the front. However, modern intermingling of styles has led to most wearers baring the midriff. The Kandyan style is considered as the national dress of Sinhalese women. In many occasions and functions, even the _saree_ plays an important role in women's clothing and has become the de facto clothing for female office workers especially in government sector. An example of its use is the uniform of air hostesses of Sri Lankan Airlines.[60]
 
 Cuisine
-
-FoodAtUnawatuna_RiceAndPrawns.jpg
 
 Sinhalese cuisine is one of the most complex cuisines of South Asia. As a major trade hub, it draws influence from colonial powers that were involved in Sri Lanka and by foreign traders. Rice, which is consumed daily, can be found at any occasion, while spicy curries are favourite dishes for lunch and dinner.[61] Some of the Sri Lankan dishes have striking resemblance to Kerala cuisine, which could be due to the similar geographic and agricultural features with Kerala. A well-known rice dish with Sinhalese is Kiribath, meaning "Milk Rice." In addition to sambols, Sinhalese eat "Mallung"- chopped leaves mixed with grated coconut and red onions. Coconut milk is found in most Sri Lankan dishes to give the cuisine its unique flavour.
 
@@ -141,7 +135,7 @@ The island nation's cuisine mainly consists of boiled or steamed rice served wit
 
 Art and architecture
 
-British_Museum_Asia_45_(cropped).jpg, from the Anuradhapura period, 8th century.]]
+, from the Anuradhapura period, 8th century.]]
 
 Many forms of Sri Lankan arts and crafts take inspiration from the island's long and lasting Buddhist culture which in turn has absorbed and adopted countless regional and local traditions. In most instances Sri Lankan art originates from religious beliefs, and is represented in many forms such as painting, sculpture, and architecture. One of the most notable aspects of Sri Lankan art are caves and temple paintings, such as the frescoes found at Sigiriya, and religious paintings found in temples in Dambulla and Temple of the Tooth Relic in Kandy. Other popular forms of art have been influenced by both natives as well as outside settlers. For example, traditional wooden handicrafts and clay pottery are found around the hill country while Portuguese-inspired lacework and Indonesian-inspired Batik have become notable. It has many different and beautiful drawings.
 
@@ -159,7 +153,7 @@ In the recent years high budget films like Aloko Udapadi, Aba (film) and Maharaj
 
 Performing arts
 
-GataBeraya.jpg Performing arts of the Sinhalese people can be categorised into few groups:
+Performing arts of the Sinhalese people can be categorised into few groups:
 
 -   Kandyan dance consist of 18 Wannam (dance routines) featuring behaviours of various animals such as elephant, eagle, cobra, monkey, peacock and rabbit, mainly performing in Annual Perahara pegent in Sri Dalada Maligawa Kandy.
 -   Pahatharata dance have significant dancing style which is using for cure illnesses and spiritual clarification.the main feature in this dances is dancer wear on Masks representing various Gods and Demons.and use elements such as fire and water to bless people.
@@ -168,13 +162,11 @@ GataBeraya.jpg Performing arts of the Sinhalese people can be categorised into f
 
 Martial arts
 
-Angampora_high_click.JPG
-
 Angampora is the traditional martial art of the Sinhalese people. It combines combat techniques, self-defence, sport, exercise and meditation.[62] Key techniques observed in _Angampora_ are: _Angam_, which incorporates hand-to-hand fighting, and _Illangam_, which uses indigenous weapons such as _Velayudaya_, staves, knives and swords. Its most distinct feature is the use of pressure point attacks to inflict pain or permanently paralyse the opponent. Fighters usually make use of both striking and grappling techniques, and fight until the opponent is caught in a submission lock that they cannot escape. Usage of weapons is discretionary. Perimeters of fighting are defined in advance, and in some of the cases is a pit.[63][64] _Angampora_ became nearly extinct after the country came under British rule in 1815, but survived in a few families until the country regained independence.[65]
 
 Science and education
 
-Sinhala_palm-leaf_medical_manuscripts,_open_leaves,_large_image..JPG The Sinhalese have a long history of literacy and formal learning. Instruction in basic fields like writing and reading by Buddhist Monks pre-date the birth of Christ. This traditional system followed religious rule and was meant to foster Buddhist understanding. Training of officials in such skills as keeping track of revenue and other records for administrative purposes occurred under this institution.[66]
+The Sinhalese have a long history of literacy and formal learning. Instruction in basic fields like writing and reading by Buddhist Monks pre-date the birth of Christ. This traditional system followed religious rule and was meant to foster Buddhist understanding. Training of officials in such skills as keeping track of revenue and other records for administrative purposes occurred under this institution.[66]
 
 Technical education such as the building of reservoirs and canals was passed down from generation to generation through home training and outside craft apprenticeships.[67]
 

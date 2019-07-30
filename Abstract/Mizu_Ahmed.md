@@ -1,1 +1,0 @@
-MIZU AHMED (17 November 1953 – 27 March 2017)[1] was a Bangladeshi actor and producer.[2] He is mostly known for his villain role in the Bengali film industry.[3][4][5][6][7] He won Bangladesh National Film Award for Best Supporting Actor for his role in the film _Traas_ (1992).[8]

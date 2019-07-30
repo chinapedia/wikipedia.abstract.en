@@ -1,1 +1,0 @@
-EISA DAVIS (born May 5, 1971) is an American playwright, actress and singer-songwriter.[1] She is most commonly known for her work as a playwright, writing shows such as _Bulrusher_ and _Angela's Mixtape_ as well as through her acting work, wherein she won an Obie Award for Sustained Excellence in Performance_._ She currently resides in Brooklyn.[2]

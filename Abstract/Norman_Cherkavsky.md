@@ -1,1 +1,0 @@
-NORMAN CHERKAVSKY, known as DJ NORMAN (December 23, 1982[1] – September 15, 2016[2]) – Ukrainian musician. His music was inspired by Kraftwerk. His last known song was "World War II". He won the "New Electro Award"[3] as a\ starting musician.

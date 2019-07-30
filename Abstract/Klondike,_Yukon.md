@@ -1,1 +1,0 @@
-Hunker_Creek_Valley.JPG

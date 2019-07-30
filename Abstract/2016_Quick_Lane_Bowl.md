@@ -1,1 +1,0 @@
-The 2016 QUICK LANE BOWL was a postseason college football bowl game, played at Ford Field in Detroit, Michigan, on December 26, 2016.[1] The third edition of the Quick Lane Bowl featured the Maryland Terrapins of the Big Ten Conference and the Boston College Eagles of the Atlantic Coast Conference.[2]

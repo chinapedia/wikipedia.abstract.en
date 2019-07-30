@@ -1,1 +1,0 @@
-The 2016 GUIA RACE OF MACAU was the eleventh and final round of the 2016 TCR International Series season as well as the fifth and final round of the 2016 TCR Asia Series season. It took place on 20 November at the Guia Circuit.

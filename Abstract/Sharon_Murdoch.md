@@ -1,1 +1,0 @@
-SHARON MURDOCH is a cartoonist born in 1960 in Invercargill, New Zealand. She is the first woman to regularly produce political cartoons for New Zealand mainstream media, and draws the cartoon cat Munro who accompanies the daily crossword in Fairfax newspapers.

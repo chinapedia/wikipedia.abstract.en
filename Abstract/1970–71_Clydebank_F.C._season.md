@@ -1,1 +1,0 @@
-The 1970–71 season was CLYDEBANK'S fifth season in the Scottish Football League. They competed in the Scottish League Division Two where they finished 5th in the table, Scottish League Cup and Scottish Cup.

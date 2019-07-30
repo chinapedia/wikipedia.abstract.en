@@ -1,1 +1,0 @@
-MONSERRATT BUSTAMANTE CHÁN (born April 15, 1976) is an Ecuadorian professor and academic. In 2017 she ran as a candidate for Vice President of Ecuador alongside presidential candidate Paco Moncayo,[1] in alliance with Izquierda Democrática, Centro Democrático Nacional and Acuerdo Nacional por el Cambio.

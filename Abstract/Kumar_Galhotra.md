@@ -1,1 +1,0 @@
-KUMAR GALHOTRA, born Dec 10, 1965 in India, is group vice president and president, Ford North America, from March 1, 2018.[1] Previously, Galhotra was group vice president, Lincoln (2014-2018) and chief marketing officer for Ford Motor Company (2017-2018). Previously he was Vice-President of Engineering at Ford Motor Co. He joined Ford in 2012 having worked for Mazda in Japan.

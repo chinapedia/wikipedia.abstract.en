@@ -1,1 +1,0 @@
-The Exodus is one of the foundational stories of the Jewish, Christian and Islamic religions. Whilst the historicity of the story is debated by scholars and Bible archaeologists, it lends itself to a range of spiritual interpretations.

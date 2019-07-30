@@ -21,7 +21,7 @@ The Antigua Rum Distillery is located at the Citadel and is the only rum distill
 
 Demographics
 
-The majority of the population of St. John's reflects that of the rest of Antigua: people of African and mixed European-African ancestry, with a European minority, including British and Portuguese. There is a population of Levantine Christian Arabs. St_Johns_Antigua_2012.jpg
+The majority of the population of St. John's reflects that of the rest of Antigua: people of African and mixed European-African ancestry, with a European minority, including British and Portuguese. There is a population of Levantine Christian Arabs.
 
 
 Government
@@ -35,7 +35,7 @@ Culture
 
 There are several museums, including the Museum of Antigua and Barbuda and the Museum of Marine Art, a small facility containing fossilised bedrock, volcanic stones, petrified wood, a collection of more than 10,000 shells, and artefacts from English shipwrecks.
 
-Cricket_ground.jpg]] Just east of St. John's is the Sir Vivian Richards Stadium, a multi-use stadium in North Sound, that was created mostly for cricket matches, and has hosted the matches during the 2007 Cricket World Cup. The Antigua Recreation Ground, Antigua and Barbuda's national stadium, is located in St. John's.
+]] Just east of St. John's is the Sir Vivian Richards Stadium, a multi-use stadium in North Sound, that was created mostly for cricket matches, and has hosted the matches during the 2007 Cricket World Cup. The Antigua Recreation Ground, Antigua and Barbuda's national stadium, is located in St. John's.
 
 
 Geography
@@ -49,7 +49,7 @@ The city's skyline is dominated by the white baroque towers of St. John's Cathed
 
 The Botanical Garden is near the intersection of Factory Road and Independence Avenue. This small park's shaded benches and gazebo provide a quiet refuge from the bustle of activity of St. John's.
 
-AntiguaLight.jpg St. John's Antigua Light is a lighthouse located in the city's harbour ().
+St. John's Antigua Light is a lighthouse located in the city's harbour ().
 
 Fort James stands at the entrance to St. John's harbour. Other nearby forts include Fort George, Fort Charles, Fort Shirley, Fort Berkeley and Fort Barrington.
 

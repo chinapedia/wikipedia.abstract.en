@@ -1,1 +1,0 @@
-MBISSINE THÉRÈSE DIOP (born 1949) is a Senegalese actress best known for her starring role as Diouana in the 1966 Ousmane Sembène film _Black Girl_ (_La noire de..._), which is often cited as one of the first feature films of African cinema to go on to international acclaim.[1]

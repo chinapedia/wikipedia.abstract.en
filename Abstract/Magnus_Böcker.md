@@ -1,1 +1,0 @@
-MAGNUS BÖCKER (31 August 1961 – 26 July 2017)[1] was the Executive Chairman of Blibros Capital Partners,[2] an investment company based in Singapore and Stockholm. He was also chairman and co-founder of Tryb.

@@ -1,1 +1,0 @@
-ROBIN CAMPBELL ALLSHIRE (born 19 May 1960) [1][2] is Professor of Chromosome Biology[3] at University of Edinburgh and a Wellcome Trust Principal Research Fellow.[4][5] His research group at the Wellcome Trust Centre for Cell Biology[6] focuses on the epigenetic mechanisms governing the assembly of specialised domains of chromatin and their transmission through cell division.[7]

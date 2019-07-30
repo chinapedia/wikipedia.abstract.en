@@ -1,1 +1,0 @@
-VALENTINA CANIGLIA is an Italian-American cinematographer and director, who has received awards for her work. She is a member of the Italian Society of Cinematographers (AIC) and European federation of Cinematographers (IMAGO).[1]

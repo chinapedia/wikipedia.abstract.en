@@ -1,1 +1,0 @@
-ProvinciaPamplona.jpg ORTÚN VELÁZQUEZ DE VELASCO (, Cuéllar, Castile – 4November 1584, Pamplona, New Kingdom of Granada) was a Spanish conquistador. He is known as the co-founder and first governor of Pamplona in the Norte de Santander department of Colombia, which borders Venezuela.[1]

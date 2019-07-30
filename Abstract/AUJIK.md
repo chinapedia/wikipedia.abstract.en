@@ -1,1 +1,0 @@
-AUJIK is an art concept initiated in 2001 by the award-winning (Prix Ars Electronica, Japan Media Arts Festival, Animago 2016, Screengrab) artist Stefan Larsson, who was born in Sweden and lives and works in Ōtsu, Japan.

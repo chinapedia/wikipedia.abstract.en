@@ -1,1 +1,0 @@
-GEEK'D CON is an annual fan convention held in Shreveport, Louisiana. The even was founded in 2015, and debuted as one of the largest Comic book convention in the state of Louisiana, with a first year attendance that topped 12,000 people over three days.

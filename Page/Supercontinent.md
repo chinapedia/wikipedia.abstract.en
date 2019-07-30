@@ -1,4 +1,4 @@
-Pangea_animation_03.gif, an ancient supercontinent]] Two-point-equidistant-asia.jpgn landmass would _not_ be considered a supercontinent according to P.F. Hoffman (1999).[1]]]
+, an ancient supercontinent]] n landmass would _not_ be considered a supercontinent according to P.F. Hoffman (1999).[1]]]
 
 In geology, a SUPERCONTINENT is the assembly of most or all of Earth's continental blocks or cratons to form a single large landmass.[2][3] However, many earth scientists use a different definition: "a clustering of nearly all continents",[4] which leaves room for interpretation and is easier to apply to Precambrian times.[5]
 
@@ -41,8 +41,6 @@ Secular trends such as carbonatites, granulites, eclogites, and greenstone belt 
 
 
 Supercontinents and volcanism
-
-FigureSlabAvalanche.jpg FigureSupercontinentBreakup.jpg
 
 The causes of supercontinent assembly and dispersal are thought to be driven by convection processes in the Earth's mantle.[19] Approximately 660 km into the mantle, a discontinuity occurs, affecting the surface crust through processes like plumes and "superplumes". When a slab of subducted crust is denser than the surrounding mantle, it sinks to the discontinuity. Once the slabs build up, they will sink through to the lower mantle in what is known as a "slab avalanche". This displacement at the discontinuity will cause the lower mantle to compensate and rise elsewhere. The rising mantle can form a plume or superplume.
 
@@ -94,8 +92,6 @@ Many studies of the Milankovitch fluctuations during supercontinent time periods
 
 
 Proxies
-
-FigureUPbZircons.jpg
 
 Granites and detrital zircons have notably similar and episodic appearances in the rock record. Their fluctuations correlate with Precambrian supercontinent cycles. The U–Pb zircon dates from orogenic granites are among the most reliable aging determinants. Some issues exist with relying on granite sourced zircons, such as a lack of evenly globally sourced data and the loss of granite zircons by sedimentary coverage or plutonic consumption. Where granite zircons are less adequate, detrital zircons from sandstones appear and make up for the gaps. These detrital zircons are taken from the sands of major modern rivers and their drainage basins.[49] Oceanic magnetic anomalies and paleomagnetic data are the primary resources used for reconstructing continent and supercontinent locations back to roughly 150 Ma.[50]
 

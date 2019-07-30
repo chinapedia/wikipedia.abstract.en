@@ -1,1 +1,0 @@
-_TOOT SWEET_ is a live album by saxophonist Lee Konitz and pianist Michel Petrucciani which was recorded in Paris in 1982 and released on the French Owl label.[1][2] The album was rereleased on CD in the US on Sunnyside.[3]

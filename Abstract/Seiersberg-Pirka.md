@@ -1,1 +1,0 @@
-Gedersberg_Skilift.JPG

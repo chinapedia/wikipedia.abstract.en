@@ -1,1 +1,0 @@
-KELLEY AND BROWNE FLATS is a national historic district located at St. Joseph, Missouri. The district encompasses two sets of rowhouses consisting of five contributing buildings. They were built in 1888 and about 1890, and both are two-story brick buildings with Queen Anne style detailing.[1]

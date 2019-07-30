@@ -1,1 +1,0 @@
-Karmen_McNamara_July_2019.jpg KARMEN MCNAMARA (born October 12, 1983 in Red Deer, Alberta) is a Canadian triathlete[1]. She won the 2019 Canadian National Championships in Kelowna, BC for Standard Distance triathlon.[2]

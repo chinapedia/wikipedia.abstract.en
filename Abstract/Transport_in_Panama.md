@@ -1,1 +1,0 @@
-TRANSPORT IN PANAMA is fairly well developed. The majority of the trips are done by car while a great part in public transport. The public transportation system is in need of modernization and other improvements.

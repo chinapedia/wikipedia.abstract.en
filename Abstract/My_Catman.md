@@ -1,1 +1,0 @@
-MY CATMAN (Chinese: 捡来的猫男) is a Chinese-South Korean web-drama starring Im Si-wan, Chae Soo-bin and Kim Myung-soo. A joint production of South Korea's MBC and China's Shanghai Ulike Media, it is to stream online on Tencent's QQLive.[1]

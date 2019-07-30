@@ -1,1 +1,0 @@
-The PARACEL ISLANDS, also known as XISHA in Chinese and HOÀNG SA in Vietnamese, is a group of islands, reefs, banks and other maritime features in the South China Sea. It is controlled (and occupied) by the People's Republic of China, and also claimed by Taiwan (Republic of China) and Vietnam.

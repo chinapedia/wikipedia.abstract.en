@@ -1,1 +1,0 @@
-PROCAT is a further education college based in Basildon, Essex, England, with an additional campus in Canvey Island. _PROCAT_ is an acronym of "Prospect College of Advanced Technology", and the college specialises in engineering and construction training.

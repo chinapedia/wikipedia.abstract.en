@@ -1,1 +1,0 @@
-LOYOLA INDUSTRIAL TRAINING INSTITUTE, BANGALORE in India offers two-year programs as well as an array of shorter courses to prepare technicians for private practice and for industry. The Jesuits began this work among disadvantaged youth and it has grown into a trade school with diverse offerings.

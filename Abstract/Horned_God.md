@@ -1,1 +1,0 @@
-The HORNED GOD is one of the two primary deities found in Wicca and some related forms of Neopaganism. The term _Horned god_ itself predates Wicca, and is an early 20th-century syncretic term for a horned or antlered anthropomorphic god with partly pseudohistorical origins, partly based on historical horned deities.[1]

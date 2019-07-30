@@ -1,1 +1,0 @@
-AHMED SAIFI is a Pakistani cricketer.[1] He made his List A debut for Sui Northern Gas Pipelines Limited in the 2015–16 National One Day Cup on 22 January 2016.[2] He made his first-class debut for Sui Northern Gas Pipelines Limited in the 2016–17 Quaid-e-Azam Trophy on 12 November 2016.[3]

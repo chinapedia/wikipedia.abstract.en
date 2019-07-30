@@ -1,1 +1,0 @@
-EMMA GOLDMAN (, 1869May 14, 1940) was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.

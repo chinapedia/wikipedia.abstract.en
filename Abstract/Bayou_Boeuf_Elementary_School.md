@@ -1,1 +1,0 @@
-BAYOU BOEUF ELEMENTARY SCHOOL (BBES) is an elementary school in unincorporated Lafourche Parish, Louisiana,[1] east of the Kraemer (Bayou Boeuf) census-designated place.[2] It serves residents of the Ward 6 Area of the parish,[3] including Bayou Boeuf and Choctaw.[4][5][6] It is a part of Lafourche Parish Public Schools.

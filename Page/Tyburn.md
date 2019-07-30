@@ -1,4 +1,4 @@
-Tyburn_gallows_1746.jpgs and immediate surroundings, from John Rocque's map of London, Westminster and Southwark (1746)]] TYBURN was a village in the county of Middlesex close to the current location of Marble Arch and the southern end of Edgware Road in present-day London. It took its name from the Tyburn Brook, a tributary of the River Westbourne. The name Tyburn, from Teo Bourne meaning 'boundary stream',[1] is quite widely occurring, and the Tyburn Brook should not be confused with the better known River Tyburn, which is the next tributary of the River Thames to the east of the Westbourne.
+s and immediate surroundings, from John Rocque's map of London, Westminster and Southwark (1746)]] TYBURN was a village in the county of Middlesex close to the current location of Marble Arch and the southern end of Edgware Road in present-day London. It took its name from the Tyburn Brook, a tributary of the River Westbourne. The name Tyburn, from Teo Bourne meaning 'boundary stream',[1] is quite widely occurring, and the Tyburn Brook should not be confused with the better known River Tyburn, which is the next tributary of the River Thames to the east of the Westbourne.
 
 For many centuries, the name Tyburn was synonymous with capital punishment, it having been the principal place for execution of London criminals and convicted traitors, including many religious martyrs. It was also known as 'God's Tribunal', in the 18th century.[2]
 
@@ -14,7 +14,7 @@ Tyburn had significance from ancient times and was marked by a monument known as
 
 Tyburn gallows
 
-Tyburn_tree.jpg For much of its history, public executions took place at Tyburn, with prisoners processed from Newgate Prison in the City, via St Giles in the Fields and Oxford Street. After the late 18th century, when public executions were no longer carried out at Tyburn, they were carried out at Newgate Prison itself and at Horsemonger Lane Gaol in Southwark.
+For much of its history, public executions took place at Tyburn, with prisoners processed from Newgate Prison in the City, via St Giles in the Fields and Oxford Street. After the late 18th century, when public executions were no longer carried out at Tyburn, they were carried out at Newgate Prison itself and at Horsemonger Lane Gaol in Southwark.
 
 The first recorded execution took place at a site next to the stream in 1196. William Fitz Osbert, populist leader who played a major role in an 1196 popular revolt in London, was cornered in the church of St Mary le Bow. He was dragged naked behind a horse to Tyburn, where he was hanged.[4]
 
@@ -26,13 +26,13 @@ The Tree stood in the middle of the roadway, providing a major landmark in west 
 
 The first victim of the "Tyburn Tree" was John Story, a Roman Catholic who was convicted and tried for treason.[9] A plaque to the _Catholic martyrs_ executed at Tyburn in the period 1535–1681 is located at 8 Hyde Park Place, the site of Tyburn convent.[10] Among the more notable individuals suspended from the "Tree" in the following centuries were John Bradshaw, Henry Ireton and Oliver Cromwell, who were already dead but were disinterred and hanged at Tyburn in January 1661 on the orders of the Cavalier Parliament in an act of posthumous revenge for their part in the beheading of King Charles I.[11]
 
-The gallows seem to have been replaced several times, probably because of wear, but in general the entire structure stood all the time in Tyburn. After some acts of vandalism, in October 1759 it was decided to replace the permanent structure with new moving gallows until the last execution in Tyburn, probably carried out in November 1783.[12] William_Hogarth_-_Industry_and_Idleness,_Plate_11;_The_Idle_'Prentice_Executed_at_Tyburn.png's _The Idle 'Prentice Executed at Tyburn_, from the _Industry and Idleness_ series (1747)]]
+The gallows seem to have been replaced several times, probably because of wear, but in general the entire structure stood all the time in Tyburn. After some acts of vandalism, in October 1759 it was decided to replace the permanent structure with new moving gallows until the last execution in Tyburn, probably carried out in November 1783.[12] 's _The Idle 'Prentice Executed at Tyburn_, from the _Industry and Idleness_ series (1747)]]
 
 The executions were public spectacles and proved extremely popular, attracting crowds of thousands. The enterprising villagers of Tyburn erected large spectator stands so that as many as possible could see the hangings (for a fee). On one occasion, the stands collapsed, reportedly killing and injuring hundreds of people. This did not prove a deterrent, however, and the executions continued to be treated as public holidays, with London apprentices being given the day off for them. One such event was depicted by William Hogarth in his satirical print, _The Idle 'Prentice Executed at Tyburn_ (1747).
 
 Tyburn was commonly invoked in euphemisms for capital punishment—for instance, to "take a ride to Tyburn" (or simply "go west") was to go to one's hanging, "Lord of the Manor of Tyburn" was the public hangman, "dancing the Tyburn jig" was the act of being hanged, and so on. Convicts would be transported to the site in an open ox-cart from Newgate Prison. They were expected to put on a good show, wearing their finest clothes and going to their deaths with insouciance. The crowd would cheer a "good dying", but would jeer any displays of weakness on the part of the condemned.
 
-TyburnStone.jpg, Bayswater Road and Oxford Street]]
+, Bayswater Road and Oxford Street]]
 
 On 19 April 1779, clergyman James Hackman was hanged there following his 7 April murder of courtesan and socialite Martha Ray, the mistress of John Montagu, 4th Earl of Sandwich. The Tyburn gallows were last used on 3 November 1783, when John Austin, a highwayman, was hanged; for the next eighty-five years hangings were staged outside Newgate prison. Then, in 1868, due to public disorder during these public executions, it was decided to execute the convicts inside the prison.[13]
 

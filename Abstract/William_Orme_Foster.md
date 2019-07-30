@@ -1,1 +1,0 @@
-William_Orme_Foster_Silvy.jpg WILLIAM ORME FOSTER (29 October 1814 – 29 September 1899) was an English ironmaster, coalmaster and owner of the large industrial firm John Bradley & Co, which he inherited from his uncle, James Foster in 1853. He served as a Liberal MP for South Staffordshire from 1857 until 1868.

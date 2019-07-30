@@ -1,1 +1,0 @@
-GERWALD CLAUS-BRUNNER (19 May 1972 – 19 September 2016) was a German politician and member of the Pirate Party Berlin, which is a branch of the national Pirate Party. He entered the state parliament of Berlin when the Pirate party won 15 seats in the 2011 Berlin state election.[1]

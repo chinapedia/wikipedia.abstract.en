@@ -1,1 +1,0 @@
-The KWANGBOP TEMPLE is an historic structure located in Mt. Taesong, Pyongyang, North Korea. Built during the early period of Koguryo [1] during the reign of King Kwanggaetho, it is listed as item 164 on the list of National Treasures of North Korea.

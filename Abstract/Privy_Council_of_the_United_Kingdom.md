@@ -1,1 +1,0 @@
-HER MAJESTY'S MOST HONOURABLE PRIVY COUNCIL, usually known simply as the PRIVY COUNCIL OF THE UNITED KINGDOM or just the PRIVY COUNCIL, is a formal body of advisers to the Sovereign of the United Kingdom. Its membership mainly comprises senior politicians who are current or former members of either the House of Commons or the House of Lords.

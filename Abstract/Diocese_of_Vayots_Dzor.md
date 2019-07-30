@@ -1,1 +1,0 @@
-DIOCESE OF VAYOTS DZOR ( _Vayots Dzori t'em_), is one of the newest dioceses of the Armenian Apostolic Church covering the Vayots Dzor Province of Armenia. The diocesan headquarters are located in the town of Yeghegnadzor. The seat of the bishop is the 12th-century Holy Mother of God Cathedral of Yeghegnadzor.

@@ -1,1 +1,0 @@
-_IL FLAMINIO_ is a 1735 opera buffa by Giovanni Battista Pergolesi to a Neapolitan libretto by Gennaro Antonio Federico, first performed at the Teatro Nuovo, Naples. Untypically in Pergolesi's difficult and short career the opera was an immediate success and continued to be staged up to 1750.[1]

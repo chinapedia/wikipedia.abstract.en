@@ -1,8 +1,8 @@
 SAINT PIERRE AND MIQUELON, officially the OVERSEAS COLLECTIVITY OF SAINT PIERRE AND MIQUELON (; ), is a self-governing territorial overseas collectivity of France, situated in the northwestern Atlantic Ocean near the Canadian province of Newfoundland and Labrador.[1] It is the only part of New France that remains under French control,[2] with an area of and a population of 6,080 at the January 2011 census.[3]
 
-The islands are situated in the Gulf of St. Lawrence near the entrance of Fortune Bay, which extends into the southwestern coast of Newfoundland, near the Grand Banks of Newfoundland.[4] They are from Brest, the nearest point in Metropolitan France,[5] and from the Burin Peninsula of Newfoundland.[6] St_Pierre._Le_Quai_La_Roncière.jpg Un_coin_de_Saint_Pierre.jpg
+The islands are situated in the Gulf of St. Lawrence near the entrance of Fortune Bay, which extends into the southwestern coast of Newfoundland, near the Grand Banks of Newfoundland.[4] They are from Brest, the nearest point in Metropolitan France,[5] and from the Burin Peninsula of Newfoundland.[6]
 
-Sainte-Pierre_aerial.jpg is at the lower right. Wikimedia Commons has extensive annotations.]]
+is at the lower right. Wikimedia Commons has extensive annotations.]]
 
 
 Etymology
@@ -33,8 +33,6 @@ During World War II, despite opposition from Canada, Britain, and the United Sta
 
 Politics
 
-Flag_of_Saint-Pierre_and_Miquelon.svg
-
 Since March 2003, Saint Pierre and Miquelon has been an overseas collectivity with a special status. The archipelago became an overseas territory in 1946, then an overseas department in 1976, before acquiring the status of territorial collectivity in 1985.[36] The archipelago has two communes: Saint-Pierre and Miquelon-Langlade.[37] A third commune, Isle-aux-Marins, existed until 1945, when it was absorbed by the municipality of Saint-Pierre.[38] The inhabitants possess French citizenship and suffrage.[39] Saint Pierre and Miquelon sends a senator and a deputy to the National Assembly of France in Paris, and enjoys a degree of autonomy concerning taxes, customs, and excise.[40]
 
 France appoints the Prefect of Saint Pierre and Miquelon, who represents the national government in the territory.[41] The Prefect is in charge of national interests, law enforcement, public order, and, under the conditions set by the statute of 1985, administrative control.[42] The prefect is Henri Jean, replacing Jean-Christophe Bouvier.[43] The local legislative body, the Territorial Council (), has 19 members: four councillors from Miquelon-Langlade and 15 from Saint-Pierre.[44] The President of the Territorial Council is the head of a delegation of "France in the name of Saint Pierre and Miquelon" for international events such as the annual meetings of NAFO and ICCAT.[45]
@@ -43,7 +41,7 @@ France is responsible for the defence of the islands.[46] The Maritime Gendarmer
 
 Maritime boundary case
 
-Saint-Pierre_and_Miquelon_EEZ_map-en.svg of Saint Pierre and Miquelon]]
+of Saint Pierre and Miquelon]]
 
 France claimed a 200-mile (320 km) exclusive economic zone for Saint-Pierre and Miquelon, and in August 1983 the naval ship _Le Hénaff_ and the seismic ship _Lucien Beaufort_ were sent to explore for oil in the disputed zone.[50] In addition to the potential oil reserves, cod fishing rights on the Grand Banks of Newfoundland were at stake in the dispute. In the late 1980s, indications of declining fish stocks began to raise serious concern over the depletion of the fishery.[51] In 1992, an arbitration panel awarded the islands an exclusive economic zone of to settle a longstanding territorial dispute with Canada, although it represents only 25% of what France had sought.[52]
 
@@ -51,8 +49,6 @@ The 1992 decision fixed the maritime boundaries between Canada and the islands, 
 
 
 Geography
-
-Saint-Pierre_and_Miquelon_3D.png
 
 Located off the western end of the Newfoundland's Burin Peninsula, the archipelago of Saint Pierre and Miquelon is composed of eight islands, totalling , and of which only two are inhabited.[54] The islands are bare and rocky, with steep coasts, and only a thin layer of peat to soften the hard landscape.[55]
 
@@ -70,8 +66,6 @@ Seabirds are the most common fauna.[62] Seals and other wildlife can be found in
 
 Climate
 
-Port_of_saint-pierre,_SPM.jpg
-
 The archipelago is characterized by a cold borderline humid continental/subarctic climate, under the influence of polar air masses and the cold Labrador Current.[66] The mild winters for being a subarctic climate also means it has influences of subpolar oceanic climate, thus being at the confluence of three climatic types. The February mean is just below the isotherm for that classification.[67] Due to just three months being above 10 °C (50 °F) in mean temperatures and winter lows being so mild, Saint Pierre and Miquelon has a Köppen Climate Classification of Dfc, if bordering on Cfc due to the mildness of the winter and either Dfb or Cfb due to the closeness of the fourth-and fifth-warmest months to having mean temperatures at or above 10 °C (50 °F).
 
 Typical maritime seasonal lag is also strong with September being warmer than June and March being colder than December. The average temperature is , with a temperature range of between the warmest ( in August) and coldest months ( in February).[68] Precipitation is abundant ( per year) and regular (146 days per year), falling as snow and rain.[69] Because of its location at the confluence of the cold waters of the Labrador Current and the warm waters of the Gulf Stream, the archipelago is also crossed a hundred days a year by fog banks, mainly in June and July.[70]
@@ -81,7 +75,7 @@ Two other climatic elements are remarkable: the extremely variable winds and haz
 
 Economy
 
-Saint-Pierre_harbor.jpg The inhabitants have traditionally earned their livelihood by fishing and by servicing fishing fleets operating off the coast of Newfoundland.[72] The climate and the small amount of available land hardly favour activity such as farming and livestock (weather conditions are severe, confining the growing season to a few weeks, and the soil contains significant peat and clay and is largely infertile).[73] Since 1992 the economy has been in steep decline, following the depletion of fish stocks due to overfishing, the limitation of fishing areas and the ban imposed on all cod fishing by the Canadian Government.[74]
+The inhabitants have traditionally earned their livelihood by fishing and by servicing fishing fleets operating off the coast of Newfoundland.[72] The climate and the small amount of available land hardly favour activity such as farming and livestock (weather conditions are severe, confining the growing season to a few weeks, and the soil contains significant peat and clay and is largely infertile).[73] Since 1992 the economy has been in steep decline, following the depletion of fish stocks due to overfishing, the limitation of fishing areas and the ban imposed on all cod fishing by the Canadian Government.[74]
 
 The rise in unemployment has been countered by state financial aid for the retraining of businesses and individuals. The construction of the new airport helped sustain activity in the construction industry and public works.[75] Fish farming, crab fishing and agriculture are being developed to diversify the local economy.[76] The future of Saint Pierre and Miquelon rests on tourism, fisheries and aquaculture. Explorations are under way to exploit deposits of oil and gas.[77] Tourism relies on the proximity to Canada, while commerce and crafts make up the bulk of the business sector.[78]
 
@@ -131,7 +125,7 @@ During 2019 direct flights from Saint Pierre to Paris will be in service between
 
 Communications
 
-Stamp-St_Pierre_1891_25Fr_overprint.jpg from Saint Pierre and Miquelon]] Saint-Pierre and Miquelon has four radio stations; all stations operate on the FM band, with the last stations converted from the AM band in 2004. Three of the stations are on Saint-Pierre, two of which are owned by Outre-Mer 1ère, along with one 1ère station on Miquelon. At night, these stations broadcast France-Inter. The other station (Radio Atlantique) is an affiliate of Radio France Internationale. The nation is linked to North America and Europe by satellite communications for telephone and television service.
+from Saint Pierre and Miquelon]] Saint-Pierre and Miquelon has four radio stations; all stations operate on the FM band, with the last stations converted from the AM band in 2004. Three of the stations are on Saint-Pierre, two of which are owned by Outre-Mer 1ère, along with one 1ère station on Miquelon. At night, these stations broadcast France-Inter. The other station (Radio Atlantique) is an affiliate of Radio France Internationale. The nation is linked to North America and Europe by satellite communications for telephone and television service.
 
 The department of Saint-Pierre and Miquelon is served by three television stations: Saint-Pierre-et-Miquelon 1ère (call letters FQN) on Channel 8, with a repeater on Channel 31, and France Ô on Channel 6. While Saint-Pierre and Miquelon use the French SECAM-K1 standard for television broadcasts, the local telecommunications provider (SPM Telecom) carries many North American television stations and cable channels, converted from North America's NTSC standard. In addition, Saint-Pierre-et-Miquelon 1ère is carried on Shaw Direct satellite and most digital cable services in Canada, converted to NTSC.
 

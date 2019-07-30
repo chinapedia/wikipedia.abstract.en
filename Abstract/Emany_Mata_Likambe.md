@@ -1,1 +1,0 @@
-EMANY MATA LIKAMBE (born 10 September 1933) is a Congolese diplomat and a former Ambassador to Poland, who came to international attention when it was discovered that he was homeless and living on the streets of Warsaw in 1994, the government of Zaire having failed to pay him for over two years.

@@ -1,1 +1,0 @@
-CSX_Yeoman_Subdivision_Bridge_over_Blackwater_Creek.JPG The YEOMAN SUBDIVISION is a railroad line owned by CSX Transportation in Florida. It runs along CSX’s S Line from Zephyrhills south to just east of Tampa via Plant City for a total of 31.2 miles.

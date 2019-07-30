@@ -1,1 +1,0 @@
-MICHAEL JOSEPH PERRY[1] (born September 15, 1991) is an American professional mixed martial artist and former professional boxer currently competing in the welterweight division of the Ultimate Fighting Championship.

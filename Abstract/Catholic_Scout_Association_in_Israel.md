@@ -1,1 +1,0 @@
-Haifa Maronite Boy Scouts with Dr. John Macqueen Chief Medical Officer for Haifa, 1939|thumb|left The ISRAEL CATHOLIC SCOUTS ASSOCIATION () was founded in 1951 from five Scout groups established since 1926. Today, the organization consists of 18 Scout groups which belong to the Greek Catholic, Latin, and Maronite creeds. Three archbishops are Co-Presidents of the organization.[1]

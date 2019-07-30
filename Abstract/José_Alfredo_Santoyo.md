@@ -1,1 +1,0 @@
-'''José Alfredo Santoyo ''' (born ) is a Mexican male road and track cyclist, representing Mexico at international competitions. He won the gold medal at the 2016 Pan American Track Cycling Championships in the scratch.[1]

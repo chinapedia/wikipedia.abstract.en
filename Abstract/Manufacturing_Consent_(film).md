@@ -1,1 +1,0 @@
-_MANUFACTURING CONSENT: NOAM CHOMSKY AND THE MEDIA_ is a 1992 documentary film that explores the political life and ideas of linguist, intellectual, and political activist Noam Chomsky. Canadian filmmakers Mark Achbar and Peter Wintonick expand the analysis of political economy and mass media presented in _Manufacturing Consent_, a 1988 book Chomsky wrote with Edward S. Herman.

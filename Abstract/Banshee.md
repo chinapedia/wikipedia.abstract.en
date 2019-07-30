@@ -1,1 +1,0 @@
-Banshee.jpg A BANSHEE ( ; Modern Irish , , from , , "woman of the fairy mound" or "fairy woman") is a female spirit in Irish mythology who heralds the death of a family member, usually by wailing, shrieking, or keening. Her name is connected to the mythologically important tumuli or "mounds" that dot the Irish countryside, which are known as síde (singular _síd_) in Old Irish.[1]

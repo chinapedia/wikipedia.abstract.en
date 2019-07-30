@@ -1,1 +1,0 @@
-G. M. BUTTERWORTH is an Old Testament Scholar who taught at the United Theological College, Bangalore from 1972 through 1978[1] and later on moved to TAFTEE[2] in Bangalore and finally to England where he continued to bring out the message of the Old Testament.[3]

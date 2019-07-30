@@ -1,1 +1,0 @@
-The JAMES MONROE HOUSES of the New York City Housing Authority were named after the fifth President of the United States, James Monroe. They are composed of 12 buildings, some of which are nearly 15 stories in height, built on nearly 19 acres of land in Soundview, Bronx in New York City. They are home to over 2,800 people.

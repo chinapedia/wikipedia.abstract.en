@@ -1,1 +1,0 @@
-The NYHAMNA GAS PLANT is a large and significant natural-gas processing plant in Aukra, Møre og Romsdal, Norway. As of January 2018, Norway was the world's third-largest natural gas exporter, after Russia and Qatar.[1]

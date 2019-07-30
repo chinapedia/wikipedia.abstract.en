@@ -1,1 +1,0 @@
-The FMW WORLD STREET FIGHT 8-MAN TAG TEAM CHAMPIONSHIP is a championship in Frontier Martial-Arts Wrestling. It replaced the FMW World Street Fight 6-Man Tag Team Championship in October 2016.[1] The first champions were determined on November 24, 2016, at Korakuen Hall in Tokyo.

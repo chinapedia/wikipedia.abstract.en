@@ -1,1 +1,0 @@
-ROBERT MILLER YOUNG (1886–1970) was a Scottish amateur football full back who played in the Scottish League for Queen's Park.[1] He captained the club and after his retirement as a player was a member of the committee and acted as Honorary Treasurer.[2] Young also played for Motherwell and Clyde.[3]

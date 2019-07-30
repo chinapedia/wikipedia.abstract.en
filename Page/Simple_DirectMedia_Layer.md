@@ -79,7 +79,7 @@ The SDL 2.0 library has language bindings for:
 
 Supported back-ends
 
-SDL_Layers.svg Because of the way SDL is designed, much of its source code is split into separate modules for each operating system, to make calls to the underlying system. When SDL is compiled, the appropriate modules are selected for the target system. Following back-ends are available:[36]
+Because of the way SDL is designed, much of its source code is split into separate modules for each operating system, to make calls to the underlying system. When SDL is compiled, the appropriate modules are selected for the target system. Following back-ends are available:[36]
 
 -   GDI back-end for Microsoft Windows.
 -   DirectX back-end; but SDL 1.2 requires DirectX 7 by default. Sam Lantinga has stated that he plans to use DirectX 8 in future SDL releases.[37]
@@ -97,7 +97,7 @@ An unofficial Sixel back-end is available for SDL 1.2.[43]
 
 Reception and adoption
 
-SDL-Workshop-IMG_2612.jpg]] Over the years SDL was used for many commercial and non-commercial video game projects. For instance, MobyGames listed 120 games using SDL in 2013,[44] and the SDL website itself listed around 700 games in 2012.[45] Important commercial examples are _Angry Birds_[46] and _Unreal Tournament_; ones from the open-source domain are _OpenTTD_,[47] _The Battle for Wesnoth_[48] or _Freeciv_.[49]
+]] Over the years SDL was used for many commercial and non-commercial video game projects. For instance, MobyGames listed 120 games using SDL in 2013,[44] and the SDL website itself listed around 700 games in 2012.[45] Important commercial examples are _Angry Birds_[46] and _Unreal Tournament_; ones from the open-source domain are _OpenTTD_,[47] _The Battle for Wesnoth_[48] or _Freeciv_.[49]
 
 The cross-platform game releases of the popular Humble Indie Bundles for Linux, Mac and Android are often SDL based.
 

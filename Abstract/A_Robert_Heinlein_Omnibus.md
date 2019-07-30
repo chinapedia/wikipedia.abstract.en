@@ -1,1 +1,0 @@
-A ROBERT HEINLEIN OMNIBUS was a second collection of Robert A Heinlein's stories to use the term "omnibus" the first being The Robert Heinlein Omnibus (1958), published in 1966.[1] Containing fifteen of Heinlein's short stories and novellas, this second "Omnibus" represents a short chronological period, 1940 to 1950, of Heinlein's writings.

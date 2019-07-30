@@ -1,1 +1,0 @@
-The PRIME MINISTER'S AWARDS FOR TEACHING EXCELLENCE are awarded by the Prime Minister of Canada to exceptional Canadian elementary and secondary school teachers. It is the most prestigious prize awarded to a teacher in Canada.[1][2]

@@ -1,1 +1,0 @@
-ANNA ŠIŠKOVÁ (born 30 June 1960) is a Slovak actress. She won the Czech Lion award for Best Actress in 2000 for her role in the Academy Award-nominated film _Divided We Fall_.[1] Her daughters, Dorota Nvotová[2] and Tereza Nvotová are also actresses.

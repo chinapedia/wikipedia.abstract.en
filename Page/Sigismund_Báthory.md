@@ -18,7 +18,7 @@ Voivode
 
 Christopher Báthory fell seriously ill after his wife's death. At his request, the Diet of Transylvania elected Sigismund voivode in Kolozsvár (present-day Cluj-Napoca in Romania) around 15May 1581. Since Sigismund was still a minor, his dying father tasked a council of twelve noblemen with the government. Christopher Báthory's cousin, Dénes Csáky, and his brother-in-law, Stephen Bocskai, headed the council. Christopher Báthory died on 27May.
 
-Partium1570.PNG shortly before Sigismund's birth]]
+shortly before Sigismund's birth]]
 
 The Ottoman Sultan, Murad III, confirmed Sigismund's election on 3July 1581, reminding him of his obligation to pay a yearly tribute of 15,000 florins. However, Pál Márkházy, a young nobleman who lived in Istanbul, offered to double the tribute and to pay an additional tax of 100,000 florins if he was made the ruler of Transylvania. The Grand Vizier, Koca Sinan Pasha, supported Márkházy's claim. Taking advantage of the situation, Murad demanded the same payments from Sigismund, but Stephen Báthory and the "Three Nations of Transylvania" resisted. After receiving the customary tribute from Transylvania, the sultan again confirmed Sigismund's rule in November 1581.
 
@@ -38,7 +38,7 @@ Sigismund took the customary oath of the Transylvanian monarchs on 23December 15
 
 Sigismund made several attempts to strengthen the position of the Roman Catholic Church, especially by appointing Catholics to the highest positions of state administration. Carillo and other Jesuit priests returned to Sigismund's court in disguise in early 1591. Sigismund met Andrew and Balthasar Báthory in August to seek their support for the legalization of the Jesuits' presence, but they refused to stand by the priests at the Diet.
 
-Baltazar_Batory.jpg]]
+]]
 
 Sigismund dispatched his favorite, István Jósika, to Tuscany to start negotiations regarding his marriage to Eleonora Orsini (a niece of Ferdinando I de' Medici), although his cousins had sharply opposed Jósika's appointment. He also invited Italian artists and artisans to his court, making them his advisors or butlers. Szamosközy described them as "the trashiest representatives of the noblest nation". The delegates of the "Three Nations" criticized Sigismund for his prodigal way of life at the Diet in Gyulafehérvár in November. To reduce his authority, the Diet prescribed that Sigismund should only make decisions in the royal council. Sigismund deprived his cousins of the allowances that the royal treasury had paid to them.
 
@@ -54,7 +54,7 @@ The commanders of the army (including Stephen Bocskai), and Friar Carillo jointl
 
 Holy League
 
-Anonym_Erzherzogin_Maria_Christierna.jpg Mihai_Viteazul_fighting_the_Turks,_Giurgiu,_October_1595.jpg, which ended with the victory of the united forces of Transylvania, Wallachia, and Moldavia over the retreating Ottoman army]]
+, which ended with the victory of the united forces of Transylvania, Wallachia, and Moldavia over the retreating Ottoman army]]
 
 Sigismund decided to join the Holy League together with Aaron the Tyrant, voivode of Moldavia, and Michael the Brave, voivode of Wallachia, on 5October 1594. The two voivodes had started direct negotiations with the Holy See, but Sigismund, who claimed suzerainty over them, prevented them from conducting further direct negotiations. Sigismund's envoy, Stephen Bocskai, signed the document that confirmed the membership of Transylvania in the Holy League in Prague on 28January 1595. According to the treaty, RudolphII recognized Sigismund's hereditary right to rule Transylvania and Partium and to use the title of prince, but he also stipulated that the principality was to be re-united with the Hungarian Crown if Sigismund's family died out. The Diet of Transylvania confirmed the treaty on 16April. The Diet also prohibited religious innovations, which gave rise to the persecution of Szekler Sabbatarians in Udvarhelyszék.
 
@@ -74,7 +74,7 @@ Sigismund again went to Prague to meet RudolphII and offered to abdicate in Janu
 
 Abdications and returns
 
-4k_ref_portre_bocskai.jpg, who urged Sigismund to return to Transylvania]] Houghton_STC_22790_-_Generall_Historie_of_Virginia,_New_England,_and_the_Summer_Isles,_John_Smith.jpg John_Smith's_coat_of_arms_-_geograph.org.uk_-_1161196.jpg 's coat of arms granted to him by Sigismund Báthory.]]
+, who urged Sigismund to return to Transylvania]] 's coat of arms granted to him by Sigismund Báthory.]]
 
 The failure of his marriage and the defeats of the Holy League diminished Sigismund's self-confidence. He sent his envoys to RudolphII and again offered to abdicate in September 1597. An agreement regarding his abdication was signed on 23December 1597. RudolphII granted Sigismund the Silesian duchies of Racibórz and Opole and a yearly subsidy of 50,000 thalers. The agreement was kept secret for months.
 
@@ -86,7 +86,7 @@ All of Sigismund's attempts to make peace with the sultan failed. He sent his en
 
 Andrew Báthory lost his throne and his life fighting against Michael the Brave and his Székely allies in autumn. Michael the Brave administered Transylvania as RudolphII's governor, but his rule was unpopular among the noblemen, especially because of the pillaging raids made by his unpaid soldiers. As early as 9February 1600 Sigismund announced that he was ready to return to Transylvania. Moses Székely, a commander-in-chief during Michael the Brave's campaign against Moldavia in May, deserted Michael and came to Poland to meet Sigismund.
 
-Hans_von_Aachen_-_Allegory_of_the_Turkish_war_-_The_Battle_of_Gorossló.jpg]]
+]]
 
 The elected leader of the Transylvanian noblemen, István Csáky, sought assistance from RudolphII's military commander, Giorgio Basta, against Michael. Basta invaded Transylvania and expelled Michael the Brave in September. Basta's unpaid soldiers regularly pillaged the principality, while Ottoman and Tatar marauders made frequent incursions across the frontiers. Sigismund returned to Transylvania across Moldavia at the head of a Polish army on 24March 1601. The Diet proclaimed him prince in Kolozsvár on 3April. Basta and Michael the Brave invaded Transylvania in summer. They routed Sigismund's army in the Battle of Goroszló on 3August 1601. After the battle, Sigismund fled to Moldavia, but he returned on 6September.
 

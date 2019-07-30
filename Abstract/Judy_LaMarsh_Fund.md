@@ -1,1 +1,0 @@
-The JUDY LAMARSH FUND is a political fundraising body, established to support female candidates running for federal elected office in Canada.[1] The Fund is an arm of the Liberal Party of Canada. The Fund is named after Judy LaMarsh, the first woman Liberal cabinet minister.

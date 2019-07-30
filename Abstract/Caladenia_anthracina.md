@@ -1,1 +1,0 @@
-_CALADENIA ANTHRACINA_, commonly known as the BLACK-TIPPED SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is endemic to Tasmania. It is a ground orchid with a single hairy leaf and a single white or cream-coloured flower with red markings and black tips on the sepals and petals.

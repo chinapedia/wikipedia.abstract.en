@@ -1,1 +1,0 @@
---> | club membership = 75,879[1] | prevseason = 2016 | nextseason = 2018 }} The 2017 COLLINGWOOD FOOTBALL CLUB SEASON was the club's 121st season of senior competition in the Australian Football League (AFL). The club also fielded its reserves team in the VFL, and a women's team in the inaugural AFL Women's competition.

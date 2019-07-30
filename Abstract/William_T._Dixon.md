@@ -1,1 +1,0 @@
-WILLIAM T. DIXON (September 8, 1833 – June 3, 1909) was an educator and Baptist minister in Brooklyn, New York. He was a founder of the New England Baptist Association. Dixon was a member of Brooklyn's black elite and was listed by the Brooklyn Daily Eagle as a member of Brooklyn's "Colored 400" in 1892.[1]

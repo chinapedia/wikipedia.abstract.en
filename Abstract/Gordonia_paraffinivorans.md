@@ -1,1 +1,0 @@
-_GORDONIA PARAFFINIVORANS_ is a bacterium from the genus of Gordonia which has been isolated from the Daqing Oil Field in China.[1][2][3][4] _Gordonia paraffinivorans_ has the ability to degrade hydrocarbon.[5]

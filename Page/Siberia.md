@@ -27,9 +27,9 @@ At least three species of human lived in Southern Siberia around 40,000 years ag
 
 History
 
-Choris,_Tschuktschen.jpg, one of many indigenous peoples of Siberia. Representation of a Chukchi family by Louis Choris (1816)]] During past millennia different groups of nomads - such as the Enets, the Nenets, the Huns, the Xiongnu, the Scythians and the Uyghurs inhabited various parts of Siberia. The proto-Mongol Khitan people also occupied parts of the region. In 630 the Khan of Sibir in the vicinity of modern Tobolsk was known as a prominent figure who endorsed Kubrat as _Khagan_ of Old Great Bulgaria. In the 13th century, during the period of the Mongol Empire, the Mongols conquered a large part of this area.[11]
+, one of many indigenous peoples of Siberia. Representation of a Chukchi family by Louis Choris (1816)]] During past millennia different groups of nomads - such as the Enets, the Nenets, the Huns, the Xiongnu, the Scythians and the Uyghurs inhabited various parts of Siberia. The proto-Mongol Khitan people also occupied parts of the region. In 630 the Khan of Sibir in the vicinity of modern Tobolsk was known as a prominent figure who endorsed Kubrat as _Khagan_ of Old Great Bulgaria. In the 13th century, during the period of the Mongol Empire, the Mongols conquered a large part of this area.[11]
 
-Map_Siberian_route.svg in the 18th century (_green_) and the early 19th century (_red_).]]
+in the 18th century (_green_) and the early 19th century (_red_).]]
 
 With the breakup of the Golden Horde, the autonomous Khanate of Sibir formed in the late-15th century. Turkic-speaking Yakut migrated north from the Lake Baikal region under pressure from the Mongol tribes during the 13th to 15th century.[12] Siberia remained a sparsely populated area. Historian John F. Richards wrote: "... it is doubtful that the total early modern Siberian population exceeded 300,000 persons".[13]
 
@@ -39,7 +39,7 @@ By the mid-17th century Russia had established areas of control that extended to
 
 The first great modern change in Siberia was the Trans-Siberian Railway, constructed during 1891–1916. It linked Siberia more closely to the rapidly industrialising Russia of Nicholas II (). Around seven million people moved to Siberia from European Russia between 1801 and 1914.[19] Between 1859 and 1917 more than half a million people migrated to the Russian Far East.[20] Siberia has extensive natural resources: during the 20th century, large-scale exploitation of these took place, and industrial towns cropped up throughout the region.[21]
 
-Novosibirsk-Karimov.jpg family in Novosibirsk]] At 7:15 a.m. on 30 June 1908 the Tunguska Event felled millions of trees near the Podkamennaya Tunguska (Stony Tunguska) River in central Siberia. Most scientists believe this resulted from the air burst of a meteor or a comet. Even though no crater has ever been found, the landscape in the (sparsely inhabited) area still bears the scars of this event.[22]
+family in Novosibirsk]] At 7:15 a.m. on 30 June 1908 the Tunguska Event felled millions of trees near the Podkamennaya Tunguska (Stony Tunguska) River in central Siberia. Most scientists believe this resulted from the air burst of a meteor or a comet. Even though no crater has ever been found, the landscape in the (sparsely inhabited) area still bears the scars of this event.[22]
 
 In the early decades of the Soviet Union (especially in the 1930s and 1940s), the government used the Gulag state agency to administer a system of penal labour camps, replacing the previous katorga system.[23] According to semi-official Soviet estimates, which did not become public until after the fall of the Soviet government in 1991, from 1929 to 1953 more than 14 million people passed through these camps and prisons, many of them in Siberia. Another seven to eight million people were internally deported to remote areas of the Soviet Union (including entire nationalities or ethnicities in several cases).[24]
 
@@ -48,7 +48,7 @@ Half a million (516,841) prisoners died in camps from 1941 to 1943[25] due to fo
 
 Geography
 
-Altai_Kutscherla-See.jpg]] 26_swiatoinos.jpg]] Vasyugan.jpg in the southern West Siberian Plain]] Siberian_autumn_in_taiga..JPG]] Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg volcano towering over Petropavlovsk-Kamchatsky on the Kamchatka Peninsula]]
+]] ]] in the southern West Siberian Plain]] ]] volcano towering over Petropavlovsk-Kamchatsky on the Kamchatka Peninsula]]
 
 With an area of , Siberia makes up roughly 77% of Russia's total territory and almost 10% of Earth's land surface (). While Siberia falls entirely within Asia, many authorities such as the UN geoscheme will not subdivide countries and will place all of Russia as part of Europe and/or Eastern Europe. Major geographical zones include the West Siberian Plain and the Central Siberian Plateau.
 
@@ -99,14 +99,14 @@ Geology
 
 The West Siberian Plain consists mostly of Cenozoic alluvial deposits and is somewhat flat. Many deposits on this plain result from ice dams which produced a large glacial lake. This mid- to late-Pleistocene lake blocked the northward flow of the Ob and Yenisei rivers, resulting in a redirection southwest into the Caspian and Aral seas via the Turgai Valley.[30] The area is very swampy, and soils are mostly peaty histosols and, in the treeless northern part, histels. In the south of the plain, where permafrost is largely absent, rich grasslands that are an extension of the Kazakh Steppe formed the original vegetation, most of which is no longer visible.
 
-The Central Siberian Plateau is an ancient craton (sometimes named _Angaraland_) that formed an independent continent before the Permian (see the Siberian continent). It is exceptionally rich in minerals, containing large deposits of gold, diamonds, and ores of manganese, lead, zinc, nickel, cobalt and molybdenum. Much of the area includes the Siberian Traps—a large igneous province. This massive eruptive period was approximately coincident with the Permian–Triassic extinction event. The volcanic event is said to be the largest known volcanic eruption in Earth's history. Only the extreme northwest was glaciated during the Quaternary, but almost all is under exceptionally deep permafrost, and the only tree that can thrive, despite the warm summers, is the deciduous Siberian Larch (_Larix sibirica_) with its very shallow roots. Outside the extreme northwest, the taiga is dominant, covering a significant fraction of the entirety of Siberia.[31] Soils here are mainly turbels, giving way to spodosols where the active layer becomes thicker and the ice content lower. Akkem_Valley_2011.jpg]] Осенний_лес_в_горах_Восточных_Саян,_Бурятия,_Россия.jpg, Buryatia]]
+The Central Siberian Plateau is an ancient craton (sometimes named _Angaraland_) that formed an independent continent before the Permian (see the Siberian continent). It is exceptionally rich in minerals, containing large deposits of gold, diamonds, and ores of manganese, lead, zinc, nickel, cobalt and molybdenum. Much of the area includes the Siberian Traps—a large igneous province. This massive eruptive period was approximately coincident with the Permian–Triassic extinction event. The volcanic event is said to be the largest known volcanic eruption in Earth's history. Only the extreme northwest was glaciated during the Quaternary, but almost all is under exceptionally deep permafrost, and the only tree that can thrive, despite the warm summers, is the deciduous Siberian Larch (_Larix sibirica_) with its very shallow roots. Outside the extreme northwest, the taiga is dominant, covering a significant fraction of the entirety of Siberia.[31] Soils here are mainly turbels, giving way to spodosols where the active layer becomes thicker and the ice content lower. ]] , Buryatia]]
 
 The _Lena-Tunguska petroleum province_ includes the Central Siberian platform (some authors refer to it as the Eastern Siberian platform), bounded on the northeast and east by the Late Carboniferous through Jurassic Verkhoyansk foldbelt, on the northwest by the Paleozoic Taymr foldbelt, and on the southeast, south and southwest by the Middle Silurian to Middle Devonian Baykalian foldbelt.[32] A regional geologic reconnaissance study begun in 1932, followed by surface and subsurface mapping, revealed the Markova-Angara Arch (anticline). This led to the discovery of the Markovo Oil Field in 1962 with the Markovo 1 well, which produced from the Early Cambrian Osa Horizon bar-sandstone at a depth of .[33] The _Sredne-Botuobin Gas Field_ was discovered in 1970, producing from the Osa and the Proterozoic Parfenovo Horizon.[34] The Yaraktin Oil Field was discovered in 1971, producing from the Vendian Yaraktin Horizon at depths of up to , which lies below Permian to Lower Jurassic basalt traps.[35]
 
 Climate
 
 +-----------------------------------------------------------------------------------------------------------------------------+
-| File:Russia vegetation.png                                                                                                  |
+|                                                                                                                             |
 +-----------------------------------------------------------------------------------------------------------------------------+
 |                                                                                                                             |
 +-----------------------------------------------------------------------------------------------------------------------------+
@@ -115,7 +115,7 @@ Climate
 
 The climate of Siberia varies dramatically, but it typically has short summers and long, brutally cold winters. On the north coast, north of the Arctic Circle, there is a very short (about one-month-long) summer.
 
-BaikalForest_(pixinn.net).jpg near Lake Baikal]]
+near Lake Baikal]]
 
 Almost all the population lives in the south, along the Trans-Siberian Railway. The climate in this southernmost part is Humid continental climate (Köppen _Dfb_) with cold winters but fairly warm summers lasting at least four months. The annual average is about . January averages about and July about while daytime temperatures in summer typically are above .[36][37] With a reliable growing season, an abundance of sunshine and exceedingly fertile chernozem soils, southern Siberia is good enough for profitable agriculture, as was proven in the early 20th century.
 
@@ -130,7 +130,7 @@ Researchers, including Sergei Kirpotin at Tomsk State University and Judith Marq
 
 Fauna
 
-Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg and cub.]]
+and cub.]]
 
 Order Artiodactyla
 
@@ -162,13 +162,13 @@ Politics
 
 Borders and administrative division
 
-upright=1.8 Siberian_Cities_Graph.svg] The term "Siberia" has a long history. Its meaning has gradually changed during ages. Historically, Siberia was defined as the whole part of Russia to the east of Ural Mountains, including the Russian Far East. According to this definition, Siberia extended eastward from the Ural Mountains to the Pacific coast, and southward from the Arctic Ocean to the border of Russian Central Asia and the national borders of both Mongolia and China.[51]
+upright=1.8 ] The term "Siberia" has a long history. Its meaning has gradually changed during ages. Historically, Siberia was defined as the whole part of Russia to the east of Ural Mountains, including the Russian Far East. According to this definition, Siberia extended eastward from the Ural Mountains to the Pacific coast, and southward from the Arctic Ocean to the border of Russian Central Asia and the national borders of both Mongolia and China.[51]
 
 Soviet-era sources (_Great Soviet Encyclopedia_ and others)[52] and modern Russian ones[53] usually define Siberia as a region extending eastward from the Ural Mountains to the watershed between Pacific and Arctic drainage basins, and southward from the Arctic Ocean to the hills of north-central Kazakhstan and the national borders of both Mongolia and China. By this definition, Siberia includes the federal subjects of the Siberian Federal District, and some of the Ural Federal District, as well as Sakha (Yakutia) Republic, which is a part of the Far Eastern Federal District. Geographically, this definition includes subdivisions of several other subjects of Urals and Far Eastern federal districts, but they are not included administratively. This definition excludes Sverdlovsk Oblast and Chelyabinsk Oblast, both of which are included in some wider definitions of Siberia.
 
 Other sources may use either a somewhat wider definition that states the Pacific coast, not the watershed, is the eastern boundary (thus including the whole Russian Far East)[54] or a somewhat narrower one that limits Siberia to the Siberian Federal District (thus excluding all subjects of other districts).[55] In Russian, the word for Siberia is used as a substitute for the name of the federal district by those who live in the district itself and less commonly used to denote the federal district by people residing outside of it.
 
-Октябрьский_район_(Улан-Удэ).jpg]] Оперный_театр4.jpg is the largest city in Siberia]]
+]] is the largest city in Siberia]]
 
   Subject                          Administrative center
   -------------------------------- -----------------------
@@ -195,7 +195,7 @@ Other sources may use either a somewhat wider definition that states the Pacific
 
   : Federal subjects of Siberia (GSE)
 
-Хабаровск,_летом_на_набережной_Амура.JPG waterfront in Khabarovsk]] VladivostokGoldenHorn.jpg, Primorsky Krai]] Якутск._Вид_на_центральную_часть_города_(2).JPG is the capital of the Sakha Republic]]
+ waterfront in Khabarovsk]] , Primorsky Krai]] is the capital of the Sakha Republic]]
 
   Subject                        Administrative center
   ------------------------------ --------------------------
@@ -237,7 +237,7 @@ Wider definitions of Siberia also include:
 
 Economy
 
-RF_NG_pipestoEU.gif and gas supplier to much of Europe. ]]
+and gas supplier to much of Europe. ]]
 
 Siberia is extraordinarily rich in minerals, containing ores of almost all economically valuable metals. It has some of the world's largest deposits of nickel, gold, lead, coal, molybdenum, gypsum, diamonds, diopside, silver and zinc, as well as extensive unexploited resources of oil and natural gas.[57] Around 70% of Russia's developed oil fields are in the Khanty-Mansiysk region.[58] Russia contains about 40% of the world's known resources of nickel at the Norilsk deposit in Siberia. Norilsk Nickel is the world's biggest nickel and palladium producer.[59]
 
@@ -248,7 +248,7 @@ While the development of renewable energy in Russia is held back by the lack of 
 
 Sport
 
-Pujacs_and_Safronov_2011-12-04_Amur-Sibir_KHL-game.jpeg game HC Sibir Novosibirsk vs Amur Khabarovsk]] Открытие_XXIX_Всемирной_зимней_универсиады_в_Красноярске_05.jpg]]
+game HC Sibir Novosibirsk vs Amur Khabarovsk]] ]]
 
 Professional football teams include FC Tom Tomsk, FC Sibir Novosibirsk and FK Yenisey Krasnoyarsk.
 
@@ -261,7 +261,7 @@ The 2019 Winter Universiade was hosted by Krasnoyarsk.
 
 Demographics
 
-Street_Scene_in_Tomsk_-_Russia.JPG, one of the oldest Siberian cities, was founded in 1604.]] According to the Russian Census of 2010, the Siberian and Far Eastern Federal Districts, located entirely east of the Ural Mountains, together have a population of about 25.6 million. Tyumen and Kurgan Oblasts, which are geographically in Siberia but administratively part of the Urals Federal District, together have a population of about 4.3 million. Thus, the whole region of Asian Russia (or Siberia in the broadest usage of the term) is home to approximately 30 million people.[69] It has a population density of about three people per square kilometre.
+, one of the oldest Siberian cities, was founded in 1604.]] According to the Russian Census of 2010, the Siberian and Far Eastern Federal Districts, located entirely east of the Ural Mountains, together have a population of about 25.6 million. Tyumen and Kurgan Oblasts, which are geographically in Siberia but administratively part of the Urals Federal District, together have a population of about 4.3 million. Thus, the whole region of Asian Russia (or Siberia in the broadest usage of the term) is home to approximately 30 million people.[69] It has a population density of about three people per square kilometre.
 
 All Siberians are Russian citizens, and of these Russian citizens of Siberia, most are Slavic-origin Russians and russified Ukrainians.[70] The remaining Russian citizens of Siberia consists of other groups of non-indigenous ethnic origins and those of indigenous Siberian origin.
 
@@ -278,7 +278,7 @@ About seventy percent of Siberia's people live in cities, mainly in apartments. 
 
 Religion
 
-Хабаровск,_собор.jpg]] There are a variety of beliefs throughout Siberia, including Orthodox Christianity, other denominations of Christianity, Tibetan Buddhism and Islam.[76] The Siberian Federal District alone has an estimation of 250,000 Muslims. An estimated 70,000 Jews live in Siberia,[77] some in the Jewish Autonomous Region.[78] The predominant religious group is the Russian Orthodox Church.
+]] There are a variety of beliefs throughout Siberia, including Orthodox Christianity, other denominations of Christianity, Tibetan Buddhism and Islam.[76] The Siberian Federal District alone has an estimation of 250,000 Muslims. An estimated 70,000 Jews live in Siberia,[77] some in the Jewish Autonomous Region.[78] The predominant religious group is the Russian Orthodox Church.
 
 Tradition regards Siberia the archetypal home of shamanism, and polytheism is popular.[79] These native sacred practices are considered by the tribes to be very ancient. There are records of Siberian tribal healing practices dating back to the 13th century.[80] The vast territory of Siberia has many different local traditions of gods. These include: Ak Ana, Anapel, Bugady Musun, Kara Khan, Khaltesh-Anki, Kini'je, Ku'urkil, Nga, Nu'tenut, Numi-Torem, Numi-Turum, Pon, Pugu, Todote, Toko'yoto, Tomam, Xaya Iccita, Zonget. Places with sacred areas include Olkhon, an island in Lake Baikal.
 

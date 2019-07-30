@@ -1,1 +1,0 @@
-_SORCERERS!_ is a themed anthology of science fiction short works edited by Jack Dann and Gardner Dozois. It was first published in paperback by Ace Books in October 1986. It was reissued as an ebook by Baen Books in July 2013.[1]

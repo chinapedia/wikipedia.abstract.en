@@ -1,1 +1,0 @@
-CHRISTIAN LARCHER (Charmois-l'Orgueilleux, Lorraine, France, 15 September 1953) served as the International Commissioner of the Scouts et Guides de France for many years.[1] He also assumed the interim post of Delegate General following the departure of Catherine Larrieu in 2016.

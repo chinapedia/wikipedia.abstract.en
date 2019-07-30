@@ -1,1 +1,0 @@
-GUILHERME GIMENEZ DE SOUZA (18 June 1995 – 28 November 2016), simply known as GIMENEZ, was a Brazilian footballer who last played for Chapecoense. Mainly a right back, he also played as a defensive midfielder.

@@ -1,1 +1,0 @@
-PAUL WERTICO (born January 5, 1953 in Chicago, Illinois) is an American drummer. He gained recognition as a member of the Pat Metheny Group from 1983 until 2001,[1] leaving the group to spend more time with his family and to pursue other musical interests.

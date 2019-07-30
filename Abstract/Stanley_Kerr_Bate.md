@@ -1,1 +1,0 @@
-STANLEY CHAVE KERR BATE (born 1906) is a British architect, the son of Commander Francis William Bate RNR, Surveyor Marine Dept, Board of Trade, and his wife Helen Maria Talbot Bate.[1] Kerr Bate began his career with the inheritance of the architectural practice of Frederick Walters.[2]

@@ -1,1 +1,0 @@
-KYLE BODDY (born 1983)[1] is an American baseball pitching trainer and consultant. He is the founder and owner of baseball performance training system Driveline Baseball, which uses a sabermetric approach to increase pitching velocity and improve conditioning.

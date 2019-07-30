@@ -1,1 +1,0 @@
-QED may refer to:

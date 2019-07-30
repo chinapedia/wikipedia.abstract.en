@@ -1,1 +1,0 @@
-FEEDBACK HUB is a universal app bundled with Windows 10. It is designed to allow users—and in particular, Windows Insider users—to provide feedback, feature suggestions, and bug reports for the operating system.

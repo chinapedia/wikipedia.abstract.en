@@ -1,1 +1,0 @@
-CHAMINDA FERNANDO (born 31 October 1969) is a Sri Lankan former cricketer. He played 51 first-class matches for Sinhalese Sports Club between 1988 and 1997.[1] He was also part of Sri Lanka's squad for the 1988 Youth Cricket World Cup.[2]

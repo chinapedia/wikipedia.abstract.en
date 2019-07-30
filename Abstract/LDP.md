@@ -1,1 +1,0 @@
-LDP may mean:

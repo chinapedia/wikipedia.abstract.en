@@ -1,1 +1,0 @@
-CAROL ZELIS PEREZ is a career Foreign Service Officer, currently serving as the Director General of the Foreign Service. Previously, Perez served as the U.S. Ambassador to Chile from October 2016 to January 2019.

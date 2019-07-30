@@ -1,1 +1,0 @@
-The English Language Proficiency for Aeronautical Communication (ELPAC) is a EUROCONTROL test for aeronautical communication designed to assess ICAO English Language Proficiency for pilots and air traffic controllers, and reflects the range of tasks undertaken in air traffic control and pilot communications. The test focuses on language proficiency, not operational procedures.

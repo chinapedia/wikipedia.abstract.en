@@ -1,1 +1,0 @@
-BRUSH CREEK is an unincorporated community in southern Laclede County, in the U.S. state of Missouri.[1] The community lies four miles southwest of Lebanon and approximately one mile north of Caffeyville. I-44 passes about one mile to the southeast.[2]

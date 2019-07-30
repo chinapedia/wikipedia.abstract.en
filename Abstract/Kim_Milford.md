@@ -1,1 +1,0 @@
-RICHARD KIM MILFORD (February 7, 1951 – June 16, 1988), known professionally as KIM MILFORD, was an American actor, singer-songwriter, and composer. He is known for his stage acting in musicals such as _The Rocky Horror Show_ and _Jesus Christ Superstar_.[1]

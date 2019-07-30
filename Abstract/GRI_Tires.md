@@ -1,1 +1,0 @@
-GRI (GLOBAL RUBBER INDUSTRIES, PVT. LTD.) is a tire manufacturer in Sri Lanka producing industrial and specialty tires for the global market.[1] GRI produces tires for over 50 countries[2] across the world.

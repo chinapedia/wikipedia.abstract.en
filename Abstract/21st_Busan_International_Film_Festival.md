@@ -1,1 +1,0 @@
-The 21ST BUSAN INTERNATIONAL FILM FESTIVAL was held from October 6 to October 15, 2016 at the Busan Cinema Center and was hosted by Sol Kyung-gu and Han Hyo-joo. A total of 301 films from 69 countries will be screened at the festival, including 96 world premieres and 27 international premieres.[1][2][3]

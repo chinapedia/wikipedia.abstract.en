@@ -1,1 +1,0 @@
-DIXON COLLEGE or DIXON BUSINESS COLLEGE was a private college in Dixon, Illinois, USA. It operated together with NORTHERN ILLINOIS NORMAL SCHOOL, a teacher training institution, from 1881 until some time after 1914.

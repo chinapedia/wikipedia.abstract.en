@@ -1,1 +1,0 @@
-MIKHAIL PETROVICH PETROV (; 17 November 19045 August 1967) was a Tatar Soviet Army colonel and a Hero of the Soviet Union. Petrov was awarded the title for his actions in Operation Bagration, during which he led his regiment in encircling Mogilev. He continued to serve in the Soviet Army postwar, retiring in 1954, after which he moved to Vinnytsia.[1]

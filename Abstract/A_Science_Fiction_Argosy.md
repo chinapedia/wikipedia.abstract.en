@@ -1,1 +1,0 @@
-_A SCIENCE FICTION ARGOSY_ is an anthology of science fiction short works edited by Damon Knight. It was first published in hardcover by Simon & Schuster in March 1972; a book club edition issued by the same publisher together with the Science Fiction Book Club followed in May of the same year. The first British edition was issued by Gollancz in hardcover in April 1973.[1]

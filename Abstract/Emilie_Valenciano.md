@@ -1,1 +1,0 @@
-'''Emilie Valenciano ''' (born 15 February 1997) is a Costa Rican footballer who plays as a defender for Asheville City SC. She is a member of the Costa Rica women's national football team.[1] She was part of the team at the 2015 FIFA Women's World Cup. [2]

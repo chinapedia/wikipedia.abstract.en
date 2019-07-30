@@ -1,1 +1,0 @@
-The 2020 NEW HAMPSHIRE GUBERNATORIAL ELECTION will be held on November 3, 2020, to elect the Governor of New Hampshire. Incumbent Republican Governor Chris Sununu is eligible to run for re-election to a third term in office, and has declared his intent to do so.[1]

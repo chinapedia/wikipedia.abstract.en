@@ -1,4 +1,4 @@
-Set-game-cards.png _SET_ is a real-time card game designed by Marsha Falco in 1974 and published by Set Enterprises in 1991. The deck consists of 81 unique cards that vary in four features across three possibilities: number of shapes (one, two, or three), shape (diamond, squiggle, stadium), shading (solid, striped, or open), and color (red, green, or purple).[1] Each possible combination of features (e.g., a card with [three] [striped] [green] [diamonds]) appears as a card precisely _once_ in the deck.
+_SET_ is a real-time card game designed by Marsha Falco in 1974 and published by Set Enterprises in 1991. The deck consists of 81 unique cards that vary in four features across three possibilities: number of shapes (one, two, or three), shape (diamond, squiggle, stadium), shading (solid, striped, or open), and color (red, green, or purple).[1] Each possible combination of features (e.g., a card with [three] [striped] [green] [diamonds]) appears as a card precisely _once_ in the deck.
 
 In the basic game, three cards make up a "set", which a player collects by making sure each of those three cards has exactly the same matching feature or else all have a different feature. If two cards match in one of the four features, but the third card does not, then the three cards are not a "set" and the player is penalized instead of being able to collect.
 
@@ -10,7 +10,7 @@ The game evolved out of a coding system that the designer used in her job as a g
 
 Games
 
-Deskohraní_2012_-_6831.JPG Several games can be played with these cards, all involving the concept of a _set_. A set consists of three cards satisfying _all_ of these conditions:
+Several games can be played with these cards, all involving the concept of a _set_. A set consists of three cards satisfying _all_ of these conditions:
 
 -   They all have the same number or have three different numbers.
 -   They all have the same shape or have three different shapes.

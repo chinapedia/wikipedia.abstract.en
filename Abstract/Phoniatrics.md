@@ -1,1 +1,0 @@
-PHONIATRICS or PHONIATRY[1] is the study and treatment of organs involved in speech production, mainly the mouth, throat (larynx), vocal cords, and lungs. Problems treated in phoniatrics include dysfunction of the vocal cords, cancer of the vocal cords or larynx, inability to control the speech organs properly (speech disorders), and vocal loading problems.

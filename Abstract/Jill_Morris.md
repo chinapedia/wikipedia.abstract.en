@@ -1,1 +1,0 @@
-JILL MORRIS (born 1967[1]) is a senior British diplomat who is currently the British Ambassador to Italy and non-resident British Ambassador to San Marino, succeeding Christopher Prentice.[2] She is the first female to hold this post.[3]

@@ -1,1 +1,0 @@
-_BRIDE OF THE MONSTER_ is a 1955 American science fiction horror film directed, written, and produced by Edward D. Wood Jr., and starring Bela Lugosi and Tor Johnson with a supporting cast featuring Tony McCoy and Loretta King.

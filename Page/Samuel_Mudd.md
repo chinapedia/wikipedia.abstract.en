@@ -15,7 +15,7 @@ At 15, after several years of home tutoring, Mudd went off to boarding school at
 
 Upon graduation in 1856, Mudd returned to Charles County to practice medicine, marrying his childhood sweetheart, Sarah Frances (Frankie) Dyer Mudd one year later.[3]
 
-Dr._Samuel_Mudd_House_(21592081012).jpg now preserved as a museum]] Dr._Samuel_Mudd_House_(21603494465).jpg house with surrounding tobacco plantation property]]
+now preserved as a museum]] house with surrounding tobacco plantation property]]
 
 As a wedding present, Mudd's father gave the couple of his best farmland and a new house named St. Catherine. While the house was under construction, the young Mudds lived with Frankie's bachelor brother, Jeremiah Dyer, finally moving into their new home in 1859. They had nine children in all: four before Mudd's arrest and five after his release from prison.[4] To supplement his income from his medical practice, Mudd became a small scale tobacco grower, using five slaves according to the 1860 census.[5] Mudd believed that slavery was divinely ordained and wrote a letter to the theologian Orestes Brownson to that effect.[6]
 
@@ -26,7 +26,7 @@ Booth connection
 
 Many historians agree that President Abraham Lincoln's future assassin, John Wilkes Booth, visited Bryantown, Maryland, in November and December 1864, claiming to look for real estate investments. Bryantown is about from Washington, DC, and about from Mudd's farm. The real estate story was merely a cover; Booth's true purpose was to plan an escape route as part of a plan to kidnap Lincoln. Booth believed the federal government would ransom Lincoln by releasing a large number of Confederate prisoners of war.
 
-Carte_de_visite_of_John_Wilkes_Booth.jpg]] Historians agree that Booth met Mudd at St. Mary's Catholic Church in Bryantown during one of those visits, probably in November. Booth visited Mudd at his farm the next day, and stayed there overnight. The following day, Booth purchased a horse from Mudd's neighbor and returned to Washington. Some historians[7] believe that Booth used his visit to Bryantown to recruit Mudd to his kidnapping plot, but others believe that Mudd would have had no interest in such a scheme.
+]] Historians agree that Booth met Mudd at St. Mary's Catholic Church in Bryantown during one of those visits, probably in November. Booth visited Mudd at his farm the next day, and stayed there overnight. The following day, Booth purchased a horse from Mudd's neighbor and returned to Washington. Some historians[7] believe that Booth used his visit to Bryantown to recruit Mudd to his kidnapping plot, but others believe that Mudd would have had no interest in such a scheme.
 
 A short time later, on December 23, 1864, Mudd went to Washington where he met Booth again. Some historians believe the meeting had been arranged, but others disagree. The two men, as well as John Surratt, Jr., and Louis J. Weichmann, had a conversation and drinks together, first at Booth's hotel and later at Mudd's.
 
@@ -47,7 +47,7 @@ During the conspiracy trial, Lieutenant Alexander Lovett testified, "On Friday, 
 
 Trial
 
-Fort_Jefferson_4_wiki.jpg, 70 miles west of Key West, Florida in the Gulf of Mexico]] US_National_Park_Service_marker_for_Samuel_Mudd_at_Fort_Jefferson.jpg marker for Samuel Mudd at Fort Jefferson]] After Booth's death on April 26, 1865, Mudd was arrested and charged with conspiracy to murder Lincoln. Representative Frederick Stone was the senior defense counsel for Mudd.[17]
+, 70 miles west of Key West, Florida in the Gulf of Mexico]] marker for Samuel Mudd at Fort Jefferson]] After Booth's death on April 26, 1865, Mudd was arrested and charged with conspiracy to murder Lincoln. Representative Frederick Stone was the senior defense counsel for Mudd.[17]
 
 On May 1, 1865, President Johnson ordered the formation of a nine-man military commission to try the conspirators. Mudd was represented by General Thomas Ewing, Jr.. The trial began on May 10, 1865. Mary Surratt, Lewis Powell, George Atzerodt, David Herold, Samuel Mudd, Michael O'Laughlen, Edmund Spangler and Samuel Arnold were all charged with conspiring to murder Lincoln.[18] The prosecution called 366 witnesses.[19]
 
@@ -60,7 +60,7 @@ Imprisonment
 
 Mudd, O'Laughlen, Arnold, and Spangler were imprisoned at Fort Jefferson, in the Dry Tortugas, about west of Key West, Florida. The fort housed Union Army deserters and held about 600 prisoners when Mudd and the others arrived. Prisoners lived on the second tier of the fort, in unfinished, open-air gun rooms called casemates. Mudd and his three companions lived in the casemate directly above the fort's main entrance, called the sally port.
 
-Drmudd4wiki.jpg's shop in the prison at Fort Jefferson, circa 1866-1867.]]
+'s shop in the prison at Fort Jefferson, circa 1866-1867.]]
 
 In September 1865, two months after Mudd arrived, the control of Fort Jefferson was transferred from the 161st New York Volunteer Infantry Regiment to the 82nd US Colored Troops. On September 25, 1865, he attempted to escape from Fort Jefferson by stowing away on the transport _Thomas A. Scott_.[23]
 
@@ -93,7 +93,7 @@ Mudd was just 49 years old when he died of pneumonia, on January 10, 1883, and w
 
 Rehabilitation attempts
 
-"114_Years_Later,_Dr._Mudd_Cleared_in_Lincoln_Death"_-_NARA_-_139974.tif'' 1979 headline after Carter wrote that Mudd should be considered innocent]]
+'' 1979 headline after Carter wrote that Mudd should be considered innocent]]
 
 The degree of Samuel Mudd's culpability has remained controversial ever since. Some, including Mudd's grandson Richard Mudd, claimed that Mudd was innocent of any wrongdoing and that he had merely been imprisoned for treating a man who came to his house late at night with a fractured leg. Over a century after the assassination, Presidents Jimmy Carter and Ronald Reagan both wrote letters to Richard Mudd in which they agreed that his grandfather had committed no crime. However, others, including authors Edward Steers, Jr. and James Swanson, assert evidence that Samuel Mudd visited Booth three times in the months before the failed kidnapping attempt. The first time was November 1864 when Booth, who was looking for help in his kidnapping plot, was directed to Mudd by agents of the Confederate Secret Service. In December, Booth again met with Mudd and spent the night at his farm. Later that December, Mudd went to Washington and introduced Booth to a Confederate agent who he knew: John Surratt. Additionally, George Atzerodt testified that Booth sent supplies to Mudd's house in preparation for the kidnapping plan. Mudd lied to the authorities who came to his house after the assassination, claiming that he did not recognize the man who showed up on his doorstep in need of treatment and giving them false information about where Booth and Herold went.[31] He also hid the monogrammed boot that he had cut off Booth's injured leg behind a panel in his attic, but the thorough search of Mudd's house soon revealed this further piece of evidence which was later used against him. One hypothesis is that Dr. Mudd was originally complicit in the kidnapping plot, likely as the person who the conspirators would have turned to for medical treatment in case Lincoln was injured, and that Booth thus remembered the doctor and went to his house to get help in the early hours of April 15. [32]
 

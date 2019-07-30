@@ -1,1 +1,0 @@
-MILLS, RHINES, BELLMAN & NORDHOFF was an architectural firm in Toledo, Ohio. The firm or its individual partners designed a number of buildings that are listed on the U.S. National Register of Historic Places for their architecture.

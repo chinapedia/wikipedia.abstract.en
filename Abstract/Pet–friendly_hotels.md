@@ -1,1 +1,0 @@
-PET–FRIENDLY HOTELS are hotels which offer a range of amenities designed to accommodate pet owners.[1][2][3] In these hotels pet owners get gourmet room service menus for their pets.[4][5] Examples include JW Marriott Hotels, Ritz-Carlton, Renaissance Hotels.[6]

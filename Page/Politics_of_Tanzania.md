@@ -18,14 +18,14 @@ Tanzania was ranked Partly Free by Freedom House.[4] The 2011 Democracy Index ma
 
 Executive branch
 
-Kikwete_and_Pinda.jpg shares a light moment with PM Pinda at the latter's hometown]] |President |John Magufuli |Chama Cha Mapinduzi |5 November 2015 |- |Prime Minister |Majaliwa Kassim Majaliwa |Chama Cha Mapinduzi |20 November 2015 |- |Vice-President of Tanzania |Samia Suluhu |Chama Cha Mapinduzi |20 November 2015
+shares a light moment with PM Pinda at the latter's hometown]] |President |John Magufuli |Chama Cha Mapinduzi |5 November 2015 |- |Prime Minister |Majaliwa Kassim Majaliwa |Chama Cha Mapinduzi |20 November 2015 |- |Vice-President of Tanzania |Samia Suluhu |Chama Cha Mapinduzi |20 November 2015
 
 |} Tanzania's president is elected by direct popular vote for a 5-year term. The president appoints a prime minister who serves as the government's leader in the National Assembly. The president selects his cabinet from among National Assembly members. The Constitution also empowers him to nominate 10 non-elected members of Parliament, who also are eligible to become cabinet members.
 
 
 Legislative branch
 
-Hamisi_Kigwangalla_Bungeni.jpg addressing the parliament]]
+addressing the parliament]]
 
 The unicameral National Assembly of Tanzania or Bunge has 324 seats — 236 elected by popular vote, 75 allocated to women chosen by their parties in proportion to their share of the electoral vote, 10 nominated by the president, and five members chosen by the Zanzibar House of Representatives — all members serving five-year terms. In addition to enacting laws that apply to the entire United Republic of Tanzania, the Assembly enacts laws that apply only to the mainland. Zanzibar has its own House of Representatives to make laws especially for Zanzibar (the Zanzibar House of Representatives has 70 seats, directly elected by universal suffrage to serve five-year terms).
 

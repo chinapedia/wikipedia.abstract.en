@@ -1,1 +1,0 @@
-The MEN'S 4 X 400 METRES RELAY athletics events for the 2016 Summer Paralympics took place at the Estádio Olímpico João Havelange between 16 and 17 September 2016. One event was contested over this distance with each leg being run by one of the two different classifications, T53 and T54.[1]

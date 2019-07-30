@@ -1,1 +1,0 @@
-Blessed TEOFILIUS MATULIONIS (22 June 1873 – 20 August 1962) was a Lithuanian prelate of the Roman Catholic Church. He was consecrated a bishop in secret and spent most of his years as bishop in prison. His death was likely due to poisoning by officials of the USSR.

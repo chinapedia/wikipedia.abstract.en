@@ -1,1 +1,0 @@
-JOSH VOORHEES is an American political journalist and senior writer for _Slate_, and the former editor of its news blog Slatest.[1] He graduated from Davidson College, and currently lives in Iowa City, Iowa. In 2013, he was named a fellow of the Kiplinger Program by Ohio State University.[2] In 2009, _the Hill_ named him one of the 50 most beautiful people of 2009.[3]

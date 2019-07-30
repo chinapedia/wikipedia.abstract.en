@@ -1,1 +1,0 @@
-ALEXEY FYODOROVICH IVANOV (, 14 February 1841, Saint Petersburg, Russian Empire, — 15 January 1894, Saint Petersburg) was a Russian writer and poet, better known under his pen name IVANOV-CLASSIC (Иванов-Классик).[1]

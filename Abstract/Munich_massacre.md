@@ -1,1 +1,0 @@
-The MUNICH MASSACRE was an attack during the 1972 Summer Olympics in Munich, West Germany, in which the Palestinian terrorist group Black September took eleven Israeli Olympic team members hostage and killed them along with a West German police officer.[1][2][3][4]

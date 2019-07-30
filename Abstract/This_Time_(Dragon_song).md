@@ -1,1 +1,0 @@
-"THIS TIME" (In the Right Direction) is a song by New Zealand band Dragon, released in 1976, from their album _Sunshine_. It was released as a single in June 1976, and peaked at No. 26 on the Australian national singles chart, remaining on the chart for 23 weeks[1]

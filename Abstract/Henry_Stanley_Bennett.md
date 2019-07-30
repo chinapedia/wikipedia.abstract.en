@@ -1,1 +1,0 @@
-HENRY STANLEY BENNETT, FBA (1889-1972) was an English literary historian.[1] Known as STANLEY BENNETT, publishing as H. S. BENNETT, Bennett was an authority on mediaeval England, publishing _Life on the English Manor_ in 1937, and subsequently writing extensively on literature of the fifteenth and sixteenth centuries.

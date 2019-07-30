@@ -1,1 +1,0 @@
-KURILE LAKE () is a caldera and crater lake in Kamchatka, Russia. It is also known as Kurilskoye Lake or Kuril Lake.[1] It is part of the Eastern Volcanic Zone of Kamchatka which, together with the Sredinny Range, forms one of the volcanic belts of Kamchatka. These volcanoes form from the subduction of the Pacific Plate beneath the Okhotsk Plate and the Asian Plate.

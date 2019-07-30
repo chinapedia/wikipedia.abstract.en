@@ -1,1 +1,0 @@
-CARL HENRY "BUTTERCUP" ANDERSON (November 16, 1913 – July 30, 2001) was an American professional basketball player.[1][2] He played in the National Basketball League for the Indianapolis Kautskys and Hammond Ciesar All-Americans but did not score a single point in five career games.[3]

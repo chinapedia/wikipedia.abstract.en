@@ -1,1 +1,0 @@
-The TOMB OF THE UNKNOWN SOLDIER () is a war memorial located in Syntagma Square in Athens, in front of the Old Royal Palace. It is a cenotaph dedicated to the Greek soldiers killed during war. It was sculpted between 1930 and 1932 by sculptor Fokion Rok.

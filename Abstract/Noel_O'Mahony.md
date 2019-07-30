@@ -1,1 +1,0 @@
-NOEL O'MAHONY (18 December 1939 – 30 May 2013) [1] was a former League of Ireland footballer and manager. As a player, he won the 1970–71 League of Ireland title with Cork Hibernians and as manager he won the 1992–93 League of Ireland Premier Division with Cork City.

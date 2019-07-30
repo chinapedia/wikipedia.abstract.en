@@ -1,1 +1,0 @@
-CARLO FIDANI is a Canadian business executive and philanthropist from Toronto, Ontario. He currently serves as chairman of the Orlando Corporation,[1][2] a Mississauga-based real estate company [3] with interests in construction and development, and property leasing and management. Fidani is also president of the Carlo Fidani Foundation.

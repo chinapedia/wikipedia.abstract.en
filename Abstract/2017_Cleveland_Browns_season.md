@@ -1,1 +1,0 @@
-The 2017 CLEVELAND BROWNS SEASON was the franchise's 69th as a professional sports franchise, their 65th season as a member of the National Football League, their second under head coach Hue Jackson and their second and final season under general manager Sashi Brown.

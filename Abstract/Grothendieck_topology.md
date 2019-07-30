@@ -1,1 +1,0 @@
-In category theory, a branch of mathematics, a GROTHENDIECK TOPOLOGY is a structure on a category _C_ which makes the objects of _C_ act like the open sets of a topological space. A category together with a choice of Grothendieck topology is called a SITE.

@@ -1,1 +1,0 @@
-The MARTIN M. BATES FARMSTEAD is a historic farm property on Huntington Road in Richmond, Vermont. Farmed since the 1790s, the property is now a well-preserved example of a mid-19th century dairy farm, with a fine Italianate farmhouse. The property was listed on the National Register of Historic Places in 1991.[1]

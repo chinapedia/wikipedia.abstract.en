@@ -1,1 +1,0 @@
-The WOMEN'S 100 METRE FREESTYLE S10 event at the 2016 Paralympic Games took place on 13 September 2016, at the Olympic Aquatics Stadium. Three heats were held. The swimmers with the eight fastest times advanced to the final.

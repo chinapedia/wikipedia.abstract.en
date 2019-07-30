@@ -1,1 +1,0 @@
-The SHAKEY'S V-LEAGUE 13TH SEASON REINFORCED OPEN CONFERENCE was the 27th conference of the Shakey's V-League and the third conference for its 13th season. Conference started October 1, 2016 at the PhilSports Arena in Pasig.[1]

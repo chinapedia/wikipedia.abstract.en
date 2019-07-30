@@ -1,1 +1,0 @@
-PowerBook_redjar.jpg

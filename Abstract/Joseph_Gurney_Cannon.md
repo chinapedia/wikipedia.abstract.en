@@ -1,1 +1,0 @@
-JOSEPH GURNEY CANNON (May 7, 1836 – November 12, 1926) was a United States politician from Illinois and leader of the Republican Party. Cannon served as Speaker of the United States House of Representatives from 1903 to 1911, and many consider him to be the most dominant Speaker in United States history,[1] with such control over the House that he could often control debate.

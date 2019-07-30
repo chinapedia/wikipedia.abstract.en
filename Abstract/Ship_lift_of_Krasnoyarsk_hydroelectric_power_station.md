@@ -1,1 +1,0 @@
-Elektrownia_wodna_w_Krasnojarsku_2.jpg

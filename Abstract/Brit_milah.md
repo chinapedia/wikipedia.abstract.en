@@ -1,1 +1,0 @@
-The _BRIT MILAH_ (, ; Ashkenazi pronunciation: , "covenant of circumcision"; Yiddish pronunciation: _bris_ ) is a Jewish religious male circumcision ceremony performed by a mohel ("circumciser") on the eighth day of the infant's life. The _brit milah_ is followed by a celebratory meal (_seudat mitzvah_).

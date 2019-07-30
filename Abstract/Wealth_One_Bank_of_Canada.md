@@ -1,1 +1,0 @@
-WEALTH ONE BANK OF CANADA (WOBC) is a Canadian Schedule I bank opened in 2016 with a focus on providing services to Chinese-Canadians. It provides banking services online and through retail offices in Toronto and Markham, Ontario, and in Vancouver, British Columbia.

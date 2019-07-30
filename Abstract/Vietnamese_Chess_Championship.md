@@ -1,1 +1,0 @@
-The VIETNAMESE CHESS CHAMPIONSHIP has been held annually since 1980 by the Vietnam Chess Federation (), which joined FIDE in 1988.[1] The federation has also organized an annual VIETNAMESE WOMEN'S CHESS CHAMPIONSHIP since 1984.[2]

@@ -23,7 +23,7 @@ Some scholars also find fragments of the "warning letter", or of other letters, 
 
 Structure
 
-II_Corinthians_Bib_Lat_1486_Bodleian_Library_273.jpg The book is usually divided as follows:[10]
+The book is usually divided as follows:[10]
 
 -   1:1–11 – Greeting
 -   1:12 – 7:16 – Paul defends his actions and apostleship, affirming his affection for the Corinthians.

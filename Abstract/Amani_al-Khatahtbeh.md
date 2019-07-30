@@ -1,1 +1,0 @@
-AMANI AL-KHATAHTBEH is an American author and tech entrepreneur. She is the co-founder and editor of MuslimGirl.com, a blog for Muslim women. At 23 years old, she was named to Forbes 30 Under 30 in media for her work with Muslim Girl.[1][2]

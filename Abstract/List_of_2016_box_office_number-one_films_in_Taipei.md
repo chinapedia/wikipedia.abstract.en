@@ -1,1 +1,0 @@
-LIST OF 2016 BOX OFFICE NUMBER-ONE FILMS IN TAIPEI,The data using weekend three-day movie box office information。At present, there is no transparent calculation method for box office in Taiwan,Most of the time using Taipei movie box office as a multiple of opera.[1]。（Unit：Ten thousandNew Taiwan dollar）

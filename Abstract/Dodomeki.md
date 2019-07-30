@@ -1,1 +1,0 @@
-"Sekien's_Depiction_of_Dodomeki",_18th_Century.jpg DODOMEKI (百々目鬼) is a Japanese yōkai that's depicted as human women who are cursed with having long arms covered with hundreds of bird eyes due to their habit of stealing money.[1] It is also called the TODOMEKI.

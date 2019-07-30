@@ -1,1 +1,0 @@
-The 2017 REPUBLICAN NATIONAL COMMITTEE (RNC) CHAIRPERSON ELECTION was held in January 2017, to determine the next chairperson of the Republican National Committee. The elected chair will be in charge of the national party activities during their two-year term.

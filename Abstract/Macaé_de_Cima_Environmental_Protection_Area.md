@@ -1,1 +1,0 @@
-The MACAÉ DE CIMA ENVIRONMENTAL PROTECTION AREA () is a state-level environmental protection area in the state of Rio de Janeiro, Brazil. It protects an area of Atlantic Forest in the Serra do Mar mountains.

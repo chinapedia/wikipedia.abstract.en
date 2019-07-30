@@ -1,1 +1,0 @@
-Rev Dr MARY IRENE LEVISON DD (8 January 1923 – 12 September 2011) was the first person to petition the Church of Scotland for the ordination of women to the Ministry of Word and Sacrament in 1963. This was achieved five years later and Levison became a minister in 1973. In 1991 She was appointed as Queen's Chaplain, the first woman to hold the position.[1]

@@ -1,1 +1,0 @@
-HENRY I, COUNT OF EU AND LORD OF HASTINGS (ca. 1075-12 July 1140) was the son of William II, Count of Eu, and his wife Helisende d'Avranches was the sister of Hugh d'Avranches, Earl of Chester. Henry descended from Richard I, Duke of Normandy. His father died in 1096, having revolted against King William II of England.

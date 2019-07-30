@@ -9,7 +9,7 @@ Great advances in science have been termed "revolutions" since the 18th century.
 
 In the 19th century, William Whewell described the revolution in science itself—the scientific method—that had taken place in the 15th–16th century. "Among the most conspicuous of the revolutions which opinions on this subject have undergone, is the transition from an implicit trust in the internal powers of man's mind to a professed dependence upon external observation; and from an unbounded reverence for the wisdom of the past, to a fervid expectation of change and improvement."[12] This gave rise to the common view of the Scientific Revolution today:
 
-Galileo_Galilei_by_Ottavio_Leoni_Marucelliana_(cropped).jpg by Leoni]]
+by Leoni]]
 
 The Scientific Revolution is traditionally assumed to start with the Copernican Revolution (initiated in 1543) and to be complete in the "grand synthesis" of Isaac Newton's 1687 _Principia_. Much of the change of attitude came from Francis Bacon whose "confident and emphatic announcement" in the modern progress of science inspired the creation of scientific societies such as the Royal Society, and Galileo who championed Copernicus and developed the science of motion.
 
@@ -28,7 +28,7 @@ The history professor Peter Harrison attributes Christianity to having contribut
 
 Ancient and medieval background
 
-PeuerbachSuperioribus2.png of the spheres for Venus, Mars, Jupiter, and Saturn. Georg von Peuerbach, _Theoricae novae planetarum_, 1474.]]
+of the spheres for Venus, Mars, Jupiter, and Saturn. Georg von Peuerbach, _Theoricae novae planetarum_, 1474.]]
 
 The Scientific Revolution was built upon the foundation of ancient Greek learning and science in the Middle Ages, as it had been elaborated and further developed by Roman/Byzantine science and medieval Islamic science.[13] Some scholars have noted a direct tie between "particular aspects of traditional Christianity" and the rise of science.[14][15] The "Aristotelian tradition" was still an important intellectual framework in the 17th century, although by that time natural philosophers had moved away from much of it.[16] Key scientific ideas dating back to classical antiquity had changed drastically over the years, and in many cases been discredited.[17] The ideas that remained, which were transformed fundamentally during the Scientific Revolution, include:
 
@@ -62,7 +62,7 @@ An influential formulation of empiricism was John Locke's _An Essay Concerning H
 
 Baconian science
 
-Somer_Francis_Bacon.jpg was a pivotal figure in establishing the scientific method of investigation. Portrait by Frans Pourbus the Younger (1617).]]
+was a pivotal figure in establishing the scientific method of investigation. Portrait by Frans Pourbus the Younger (1617).]]
 
 The philosophical underpinnings of the Scientific Revolution were laid out by Francis Bacon, who has been called the father of empiricism.[36] His works established and popularised inductive methodologies for scientific inquiry, often called the _Baconian method_, or simply the scientific method. His demand for a planned procedure of investigating all things natural marked a new turn in the rhetorical and theoretical framework for science, much of which still surrounds conceptions of proper methodology today.
 
@@ -78,13 +78,13 @@ Bacon first described the experimental method.
 
 William Gilbert was an early advocate of this method. He passionately rejected both the prevailing Aristotelian philosophy and the Scholastic method of university teaching. His book _De Magnete_ was written in 1600, and he is regarded by some as the father of electricity and magnetism.[41] In this work, he describes many of his experiments with his model Earth called the terrella. From these experiments, he concluded that the Earth was itself magnetic and that this was the reason compasses point north.
 
-Gilbert_De_Magnete_Illo044.jpg's _De Magnete_, a pioneering work of experimental science]]
+'s _De Magnete_, a pioneering work of experimental science]]
 
 _De Magnete_ was influential not only because of the inherent interest of its subject matter, but also for the rigorous way in which Gilbert described his experiments and his rejection of ancient theories of magnetism.[42] According to Thomas Thomson, "Gilbert['s]... book on magnetism published in 1600, is one of the finest examples of inductive philosophy that has ever been presented to the world. It is the more remarkable, because it preceded the _Novum Organum_ of Bacon, in which the inductive method of philosophizing was first explained."[43]
 
 Galileo Galilei has been called the "father of modern observational astronomy",[44] the "father of modern physics",[45][46] the "father of science",[47][48] and "the Father of Modern Science".[49] His original contributions to the science of motion were made through an innovative combination of experiment and mathematics.[50]
 
-Galileo_manuscript.png first noted the moons of Jupiter. Galileo revolutionized the study of the natural world with his rigorous experimental method.]]
+first noted the moons of Jupiter. Galileo revolutionized the study of the natural world with his rigorous experimental method.]]
 
 Galileo was one of the first modern thinkers to clearly state that the laws of nature are mathematical. In _The Assayer_ he wrote "Philosophy is written in this grand book, the universe ... It is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures;...."[51] His mathematical analyses are a further development of a tradition employed by late scholastic natural philosophers, which Galileo learned when he studied philosophy.[52] He ignored Aristotelianism. In broader terms, his work marked another step towards the eventual separation of science from both philosophy and religion; a major development in human thought. He was often willing to change his views in accordance with observation. In order to perform his experiments, Galileo had to set up standards of length and time, so that measurements made on different days and in different laboratories could be compared in a reproducible fashion. This provided a reliable foundation on which to confirm mathematical laws using inductive reasoning.
 
@@ -103,7 +103,7 @@ Galileo anticipates the concept of a systematic mathematical interpretation of t
 
 The mechanical philosophy
 
-Sir_Isaac_Newton_by_Sir_Godfrey_Kneller,_Bt.jpg in a 1702 portrait by Godfrey Kneller]]
+in a 1702 portrait by Godfrey Kneller]]
 
 Aristotle recognized four kinds of causes, and where applicable, the most important of them is the "final cause". The final cause was the aim, goal, or purpose of some natural process or man-made thing. Until the Scientific Revolution, it was very natural to see such aims, such as a child's growth, for example, leading to a mature adult. Intelligence was assumed only in the purpose of man-made artifacts; it was not attributed to other animals or to nature.
 
@@ -115,7 +115,7 @@ Newton had also specifically attributed the inherent power of inertia to matter,
 
 Institutionalization
 
-Gresham_College_from_Record_of_RS.jpg had its origins in Gresham College, and was the first scientific society in the world.]]
+had its origins in Gresham College, and was the first scientific society in the world.]]
 
 The first moves towards the institutionalization of scientific investigation and dissemination took the form of the establishment of societies, where new discoveries were aired, discussed and published. The first scientific society to be established was the Royal Society of London. This grew out of an earlier group, centred around Gresham College in the 1640s and 1650s. According to a history of the College:
 
@@ -125,7 +125,7 @@ These physicians and natural philosophers were influenced by the "new science", 
 
 On 28 November 1660, the 1660 committee of 12 announced the formation of a "College for the Promoting of Physico-Mathematical Experimental Learning", which would meet weekly to discuss science and run experiments. At the second meeting, Robert Moray announced that the King approved of the gatherings, and a Royal charter was signed on 15 July 1662 creating the "Royal Society of London", with Lord Brouncker serving as the first President. A second Royal Charter was signed on 23 April 1663, with the King noted as the Founder and with the name of "the Royal Society of London for the Improvement of Natural Knowledge"; Robert Hooke was appointed as Curator of Experiments in November. This initial royal favour has continued, and since then every monarch has been the patron of the Society.[64]
 
-Académie_des_Sciences_1698.jpg was established in 1666.]]
+was established in 1666.]]
 
 The Society's first Secretary was Henry Oldenburg. Its early meetings included experiments performed first by Robert Hooke and then by Denis Papin, who was appointed in 1684. These experiments varied in their subject area, and were both important in some cases and trivial in others.[65] The society began publication of _Philosophical Transactions_ from 1665, the oldest and longest-running scientific journal in the world, which established the important principles of scientific priority and peer review.[66]
 
@@ -142,7 +142,7 @@ Heliocentrism
 
 For almost five millennia, the geocentric model of the Earth as the center of the universe had been accepted by all but a few astronomers. In Aristotle's cosmology, Earth's central location was perhaps less significant than its identification as a realm of imperfection, inconstancy, irregularity and change, as opposed to the "heavens" (Moon, Sun, planets, stars), which were regarded as perfect, permanent, unchangeable, and in religious thought, the realm of heavenly beings. The Earth was even composed of different material, the four elements "earth", "water", "fire", and "air", while sufficiently far above its surface (roughly the Moon's orbit), the heavens were composed of different substance called "aether".[67] The heliocentric model that replaced it involved not only the radical displacement of the earth to an orbit around the sun, but its sharing a placement with the other planets implied a universe of heavenly components made from the same changeable substances as the Earth. Heavenly motions no longer needed to be governed by a theoretical perfection, confined to circular orbits.
 
-JKepler.jpg]]
+]]
 
 Copernicus' 1543 work on the heliocentric model of the solar system tried to demonstrate that the sun was the center of the universe. Few were bothered by this suggestion, and the pope and several archbishops were interested enough by it to want more detail.[68] His model was later used to create the calendar of Pope Gregory XIII.[69] However, the idea that the earth moved around the sun was doubted by most of Copernicus' contemporaries. It contradicted not only empirical observation, due to the absence of an observable stellar parallax,[70] but more significantly at the time, the authority of Aristotle.
 
@@ -152,7 +152,7 @@ This work culminated in the work of Isaac Newton. Newton's _Principia_ formulate
 
 Gravitation
 
-NewtonsPrincipia.jpg's _Principia_, developed the first set of unified scientific laws.]]
+'s _Principia_, developed the first set of unified scientific laws.]]
 
 As well as proving the heliocentric model, Newton also developed the theory of gravitation. In 1679, Newton began to consider gravitation and its effect on the orbits of planets with reference to Kepler's laws of planetary motion. This followed stimulation by a brief exchange of letters in 1679–80 with Robert Hooke, who had been appointed to manage the Royal Society's correspondence, and who opened a correspondence intended to elicit contributions from Newton to Royal Society transactions.[71] Newton's reawakening interest in astronomical matters received further stimulus by the appearance of a comet in the winter of 1680–1681, on which he corresponded with John Flamsteed.[72] After the exchanges with Hooke, Newton worked out proof that the elliptical form of planetary orbits would result from a centripetal force inversely proportional to the square of the radius vector (see Newton's law of universal gravitation – History and _De motu corporum in gyrum_). Newton communicated his results to Edmond Halley and to the Royal Society in _De motu corporum in gyrum_, in 1684.[73] This tract contained the nucleus that Newton developed and expanded to form the _Principia_.[74]
 
@@ -164,15 +164,13 @@ Biology and Medicine
 
 Medical discoveries
 
-Vesalius_Fabrica_p190.jpg's intricately detailed drawings of human dissections in _Fabrica_ helped to overturn the medical theories of Galen.]]
+'s intricately detailed drawings of human dissections in _Fabrica_ helped to overturn the medical theories of Galen.]]
 
 The writings of Greek physician Galen had dominated European medical thinking for over a millennium. The Flemish scholar Vesalius demonstrated mistakes in the Galen's ideas. Vesalius dissected human corpses, whereas Galen dissected animal corpses. Published in 1543, Vesalius' _De humani corporis fabrica_[78] was a groundbreaking work of human anatomy. It emphasized the priority of dissection and what has come to be called the "anatomical" view of the body, seeing human internal functioning as an essentially corporeal structure filled with organs arranged in three-dimensional space. This was in stark contrast to many of the anatomical models used previously, which had strong Galenic/Aristotelean elements, as well as elements of astrology.
 
 Besides the first good description of the sphenoid bone, he showed that the sternum consists of three portions and the sacrum of five or six; and described accurately the vestibule in the interior of the temporal bone. He not only verified the observation of Etienne on the valves of the hepatic veins, but he described the vena azygos, and discovered the canal which passes in the fetus between the umbilical vein and the vena cava, since named ductus venosus. He described the omentum, and its connections with the stomach, the spleen and the colon; gave the first correct views of the structure of the pylorus; observed the small size of the caecal appendix in man; gave the first good account of the mediastinum and pleura and the fullest description of the anatomy of the brain yet advanced. He did not understand the inferior recesses; and his account of the nerves is confused by regarding the optic as the first pair, the third as the fifth and the fifth as the seventh.
 
 Further groundbreaking work was carried out by William Harvey, who published _De Motu Cordis_ in 1628. Harvey made a detailed analysis of the overall structure of the heart, going on to an analysis of the arteries, showing how their pulsation depends upon the contraction of the left ventricle, while the contraction of the right ventricle propels its charge of blood into the pulmonary artery. He noticed that the two ventricles move together almost simultaneously and not independently like had been thought previously by his predecessors.[79]
-
-Image of veins from William Harvey's _Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus_. Harvey demonstrated that blood circulated around the body, rather than being created in the liver.|left|thumb
 
 In the eighth chapter, Harvey estimated the capacity of the heart, how much blood is expelled through each pump of the heart, and the number of times the heart beats in a half an hour. From these estimations, he demonstrated that according to Gaelen's theory that blood was continually produced in the liver, the absurdly large figure of 540 pounds of blood would have to be produced every day. Having this simple mathematical proportion at hand—which would imply a seemingly impossible role for the liver—Harvey went on to demonstrate how the blood circulated in a circle by means of countless experiments initially done on serpents and fish: tying their veins and arteries in separate periods of time, Harvey noticed the modifications which occurred; indeed, as he tied the veins, the heart would become empty, while as he did the same to the arteries, the organ would swell up.
 
@@ -196,7 +194,7 @@ Physical
 
 Optics
 
-Opticks.jpg _Opticks or a treatise of the reflections, refractions, inflections and colours of light_]] Important work was done in the field of optics. Johannes Kepler published _Astronomiae Pars Optica_ (_The Optical Part of Astronomy_) in 1604. In it, he described the inverse-square law governing the intensity of light, reflection by flat and curved mirrors, and principles of pinhole cameras, as well as the astronomical implications of optics such as parallax and the apparent sizes of heavenly bodies. _Astronomiae Pars Optica_ is generally recognized as the foundation of modern optics (though the law of refraction is conspicuously absent).[88]
+_Opticks or a treatise of the reflections, refractions, inflections and colours of light_]] Important work was done in the field of optics. Johannes Kepler published _Astronomiae Pars Optica_ (_The Optical Part of Astronomy_) in 1604. In it, he described the inverse-square law governing the intensity of light, reflection by flat and curved mirrors, and principles of pinhole cameras, as well as the astronomical implications of optics such as parallax and the apparent sizes of heavenly bodies. _Astronomiae Pars Optica_ is generally recognized as the foundation of modern optics (though the law of refraction is conspicuously absent).[88]
 
 Willebrord Snellius (1580–1626) found the mathematical law of refraction, now known as Snell's law, in 1621. Subsequently René Descartes (1596–1650) showed, by using geometric construction and the law of refraction (also known as Descartes' law), that the angular radius of a rainbow is 42° (i.e. the angle subtended at the eye by the edge of the rainbow and the rainbow's centre is 42°).[89] He also independently discovered the law of reflection, and his essay on optics was the first published mention of this law.
 
@@ -208,7 +206,7 @@ In his _Hypothesis of Light_ of 1675, Newton posited the existence of the ether 
 
 Electricity
 
-Guericke_Sulfur_globe.jpg's experiments on electrostatics, published 1672]]
+'s experiments on electrostatics, published 1672]]
 
 Dr. William Gilbert, in _De Magnete_, invented the New Latin word _electricus_ from __ (_elektron_), the Greek word for "amber". Gilbert undertook a number of careful electrical experiments, in the course of which he discovered that many substances other than amber, such as sulphur, wax, glass, etc.,[91] were capable of manifesting electrical properties. Gilbert also discovered that a heated body lost its electricity and that moisture prevented the electrification of all bodies, due to the now well-known fact that moisture impaired the insulation of such bodies. He also noticed that electrified substances attracted all other substances indiscriminately, whereas a magnet only attracted iron. The many discoveries of this nature earned for Gilbert the title of _founder of the electrical science_.[92] By investigating the forces on a light metallic needle, balanced on a point, he extended the list of electric bodies, and found also that many substances, including metals and natural magnets, showed no attractive forces when rubbed. He noticed that dry weather with north or east wind was the most favourable atmospheric condition for exhibiting electric phenomena—an observation liable to misconception until the difference between conductor and insulator was understood.[93]
 
@@ -223,7 +221,7 @@ As an aid to scientific investigation, various tools, measuring aids and calcula
 
 Calculating devices
 
-Napier's_Bones.JPG, an early calculating device invented by John Napier]]
+, an early calculating device invented by John Napier]]
 
 John Napier introduced logarithms as a powerful mathematical tool. With the help of the prominent mathematician Henry Briggs their logarithmic tables embodied a computational advance that made calculations by hand much quicker.[101] His Napier's bones used a set of numbered rods as a multiplication tool using the system of lattice multiplication. The way was opened to later scientific advances, particularly in astronomy and dynamics.
 
@@ -235,7 +233,7 @@ John Hadley (1682–1744) was the inventor of the octant, the precursor to the s
 
 Industrial machines
 
-Savery-engine.jpg'' was the first successful steam engine]]
+'' was the first successful steam engine]]
 
 Denis Papin (1647–1712) was best known for his pioneering invention of the steam digester, the forerunner of the steam engine.[107] The first working steam engine was patented in 1698 by the inventor Thomas Savery, as a "...new invention for raising of water and occasioning motion to all sorts of mill work by the impellent force of fire, which will be of great use and advantage for drayning mines, serveing townes with water, and for the working of all sorts of mills where they have not the benefitt of water nor constant windes."[108] The invention was demonstrated to the Royal Society on 14 June 1699 and the machine was described by Savery in his book _The Miner's Friend; or, An Engine to Raise Water by Fire_ (1702),[109] in which he claimed that it could pump water out of mines. Thomas Newcomen (1664–1729) perfected the practical steam engine for pumping water, the Newcomen steam engine. Consequently, Thomas Newcomen can be regarded as a forefather of the Industrial Revolution.[110]
 
@@ -253,7 +251,7 @@ In 1666, Isaac Newton argued that the faults of the refracting telescope were fu
 
 Other devices
 
-Boyle_air_pump.jpg built by Robert Boyle. Many new instruments were devised in this period, which greatly aided in the expansion of scientific knowledge.]]
+built by Robert Boyle. Many new instruments were devised in this period, which greatly aided in the expansion of scientific knowledge.]]
 
 The invention of the vacuum pump paved the way for the experiments of Robert Boyle and Robert Hooke into the nature of vacuum and atmospheric pressure. The first such device was made by Otto von Guericke in 1654. It consisted of a piston and an air gun cylinder with flaps that could suck the air from any vessel that it was connected to. In 1657, he pumped the air out of two conjoined hemispheres and demonstrated that a team of sixteen horses were incapable of pulling it apart.[120] The air pump construction was greatly improved by Robert Hooke in 1658.[121]
 
@@ -290,7 +288,7 @@ People and key ideas that emerged from the 16th and 17th centuries:
 
 Criticism
 
-Ricci_Guangqi_2.jpg (left) and Xu Guangqi (right) in Athanasius Kircher, _La Chine ... Illustrée_, Amsterdam, 1670.]]
+(left) and Xu Guangqi (right) in Athanasius Kircher, _La Chine ... Illustrée_, Amsterdam, 1670.]]
 
 The idea that modern science took place as a kind of revolution has been debated among historians. A weakness of the idea of scientific revolution is the lack of a systematic approach to the question of knowledge in the period comprehended between the 14th and 17th centuries, leading to misunderstandings on the value and role of modern authors. From this standpoint, the continuity thesis is the hypothesis that there was no radical discontinuity between the intellectual development of the Middle Ages and the developments in the Renaissance and early modern period and has been deeply and widely documented by the works of scholars like Pierre Duhem, John Hermann Randall, Alistair Crombie and William A. Wallace, who proved the preexistence of a wide range of ideas used by the followers of the Scientific Revolution thesis to substantiate their claims. Thus, the idea of a scientific revolution following the Renaissance is—according to the continuity thesis—a myth. Some continuity theorists point to earlier intellectual revolutions occurring in the Middle Ages, usually referring to either a European Renaissance of the 12th century[137][138] or a medieval Muslim scientific revolution,[139][140][141] as a sign of continuity.[142]
 

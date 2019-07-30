@@ -1,1 +1,0 @@
-_LOVE STATION_ is a 2016 Indian Odia-language drama film directed by Ashok Pati and produced and distributed by Tarang Cine Productions.[1] It stars Elina Samantray and Babushan in lead roles while Papu Pom Pom and Mihir Das play supporting roles. The movie is a remake of 2013 Telugu movie _Venkatadri Express_.

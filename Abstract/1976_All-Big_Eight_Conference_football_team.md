@@ -1,1 +1,0 @@
-The 1976 ALL-BIG EIGHT CONFERENCE FOOTBALL TEAM consists of American football players chosen by various organizations for All-Big Eight Conference teams for the 1976 NCAA Division I football season. The selectors for the 1976 season included the Associated Press (AP).

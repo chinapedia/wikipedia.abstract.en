@@ -1,1 +1,0 @@
-Lieutenant General SEBASTIAN HAITOTA NDEITUNGA (born in 1962) is the head of the Namibian Police Force. He was appointed in 2005.[1] Ndeitunga is also the current Vice President of the International Criminal Police Organization (INTERPOL) for Africa.[2][3][4][5]

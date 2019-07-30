@@ -1,1 +1,0 @@
-_THE PLEA_ ( translit. _Vedreba_, ) is a 1967 Soviet art drama film directed by Tengiz Abuladze and co-written with Revaz Kveselava and Anzor Saluqvadze. The film based on the poems of Vazha-Pshavela.[1] It regarded as an influential classic and is an appreciated work of 20th century world cinema.[2][3]

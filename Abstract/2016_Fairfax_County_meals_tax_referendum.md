@@ -1,1 +1,0 @@
-The FAIRFAX COUNTY MEALS TAX REFERENDUM is a 2016 referendum that proposes a 4% tax on all prepared meals sold in Fairfax County, Virginia. The 4% tax would be on top of the current 6% state sales tax, resulting in a total of 10% in taxes charged on all prepared meals.[1] The referendum was voted on by Fairfax County residents in the general election on November 8, 2016.

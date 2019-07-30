@@ -1,1 +1,0 @@
-AMADOU-AMATH M'BAYE (born December 14, 1989) is a French professional basketball player for Pınar Karşıyaka of the Turkish Basketball Super League. Standing at , he plays at the power forward position.

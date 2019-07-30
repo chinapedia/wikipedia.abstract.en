@@ -1,1 +1,0 @@
-_CHLOÉ_ is a 1996 French-Belgian TV drama film directed by Dennis Berry starring Marion Cotillard in the title role, a 16-year-old girl who is forced by her boyfriend to become a prostitute.[1][2] The film features Édith Piaf's song "_La Vie en Rose_" performed by Louis Armstrong.[3] Years later, Marion Cotillard won an Oscar for playing Piaf in the 2007 film _La Vie en Rose_.

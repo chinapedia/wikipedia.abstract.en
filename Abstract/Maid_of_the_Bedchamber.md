@@ -1,1 +1,0 @@
-David_Klöcker_Ehrenstrahl_-_Hedvig_Eleonora_Stenbock.jpg, kammarfröken to queen Hedvig Eleonora.]] A MAID OF THE BEDCHAMBER (Danish: _Kammerfrøken_; German: _Kammerfräulein_; Russian: _Kammer-devitsa_; Swedish: _Kammarfröken_) was a court office for a lady-in-waiting in several European courts.

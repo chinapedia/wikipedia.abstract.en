@@ -1,1 +1,0 @@
-OS TUBARÕES was a Cape Verdean traditional music band who, along with Bulimundo, Finaçon and Simentera, were among the most famous music bands in Cape Verde.[1] The band name is Portuguese for "the sharks" which are common in the waters surrounding the archipelago.[2][3]

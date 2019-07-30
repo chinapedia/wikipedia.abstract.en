@@ -1,1 +1,0 @@
-Kerry_Hudson.jpg

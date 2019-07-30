@@ -1,1 +1,0 @@
-The_New_Cambridge_Medieval_History_Vol._1.jpg _THE NEW CAMBRIDGE MEDIEVAL HISTORY_ is a history of Europe from 500 to 1500 AD[1] published by Cambridge University Press in seven volumes between 1995 and 2005. It replaced _The Cambridge Medieval History_ in eight volumes published between 1911 and 1936.

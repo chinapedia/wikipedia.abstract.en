@@ -1,1 +1,0 @@
-BOONE is a town in and the county seat of Watauga County, North Carolina, United States. Located in the Blue Ridge Mountains of western North Carolina, Boone is the home of Appalachian State University. The population was 17,122 at the 2010 census.

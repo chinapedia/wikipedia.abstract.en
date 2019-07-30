@@ -1,1 +1,0 @@
-FRANK ANTHONY MEKULES (November 16, 1918 – September 5, 1958) was an American professional basketball player and minor league baseball player.[1][2] He played in the National Basketball League for the Detroit Gems for three games in the 1946–47 season and averaged 2.0 points per game.[3] In baseball, he played for the Amarillo Gold Sox, Jackson Senators, and Pensacola Fliers.[4]

@@ -1,1 +1,0 @@
-SAMASATA–AMRUKA BRANCH LINE () was one of several branch lines in Pakistan, operated and maintained by Pakistan Railways. The line began at Samasata Junction and ended at Amruka. The total length of this railway line is with 15 railway stations.

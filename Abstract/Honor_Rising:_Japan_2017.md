@@ -1,1 +1,0 @@
-HONOR RISING: JAPAN 2017 was a two-day professional wrestling "supershow" event co-produced by the Japanese New Japan Pro-Wrestling (NJPW) and American Ring of Honor (ROH) promotions. The shows took place on February 26 and 27, 2017, at Korakuen Hall in Tokyo, Japan.

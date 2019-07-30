@@ -1,1 +1,0 @@
-A MILITARY ORDINARIATE is an ecclesiastical jurisdiction of the Catholic Church, of the Latin or an Eastern church, responsible for the pastoral care of Catholics serving in the armed forces of a nation.

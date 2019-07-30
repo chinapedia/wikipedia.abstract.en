@@ -1,1 +1,0 @@
-Cthulhu_sketch_by_Lovecraft.jpg drawn by Lovecraft, May 11, 1934]] Weird_Tales_March_1944.jpg'' (March 1944, vol. 37, no. 4) featuring "The Trail of Cthulhu" by August Derleth. Cover art by John Giunta.]]

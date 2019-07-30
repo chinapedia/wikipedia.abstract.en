@@ -1,1 +1,0 @@
-"HAPWORTH 16, 1924" was the last original work J. D. Salinger published in his lifetime. It appeared in the June 19, 1965, edition of _The New Yorker_, infamously taking up almost the entire magazine. It is the "youngest" of Salinger's Glass family stories, in the sense that the narrated events happen chronologically before those in the rest of the series.

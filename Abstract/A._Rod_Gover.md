@@ -1,1 +1,0 @@
-ASHWIN ROD GOVER[1][2] is a New Zealand mathematician and a Fellow of the Royal Society of New Zealand. He is currently employed as a Professor of Pure Mathematics at the University of Auckland in New Zealand.[3] He is the PhD students' Adviser for the Department of Mathematics and is the head of the Analysis, Geometry and Topology Research Group at the University of Auckland.[4]

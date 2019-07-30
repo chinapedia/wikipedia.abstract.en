@@ -1,1 +1,0 @@
-TIM VIPOND is a Canadian investment banker, financial analyst, and founder of Mathers Pacific Capital Inc., an advisory firm based in Vancouver, British Columbia that helps companies seeking independent financial advice. He is currently the CEO of the Corporate Finance Institute.[1]

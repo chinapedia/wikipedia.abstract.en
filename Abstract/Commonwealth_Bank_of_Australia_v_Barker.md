@@ -1,1 +1,0 @@
-_COMMONWEALTH BANK OF AUSTRALIA V BARKER_ is a leading Australian judgment of the High Court which unanimously and firmly rejected the proposition that contracts of employment in Australia should contain an implied term of mutual trust and confidence.[1]

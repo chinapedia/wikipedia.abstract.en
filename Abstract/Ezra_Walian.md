@@ -1,1 +1,0 @@
-EZRA HARM RUUD WALIAN (born 22 October 1997) is an Indonesian professional footballer who plays as a forward for Almere City.[1] [2][3] His father is Indonesian of Manadonese descent, while his mother is Dutch.

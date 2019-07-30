@@ -1,1 +1,0 @@
-TETRAMETHYLUREA is the organic compound with the formula (Me₂N)₂CO. It is a substituted urea. This colorless liquid is used as an aprotic-polar solvent , especially for aromatic compounds and is used e. g. for Grignard reagents.[1]

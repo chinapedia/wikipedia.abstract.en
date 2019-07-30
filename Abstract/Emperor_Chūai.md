@@ -1,1 +1,0 @@
-, also known as was the 14th Emperor of Japan,[1] according to the traditional order of succession.[2] The dates of his reign are conventionally given as 192 to 200.[3] He was the first Emperor who was not the child of the previous Emperor, being instead the nephew of his predecessor Emperor Seimu.[4]

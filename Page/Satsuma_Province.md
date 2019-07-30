@@ -1,11 +1,9 @@
-Provinces_of_Japan-Satsuma.svg
-
 was an old province of Japan that is now the western half of Kagoshima Prefecture on the island of Kyūshū.[1] Its abbreviation is Sasshū (薩州).
 
 
 History
 
-Tea_Storage_Jar_with_Paulownia_and_Thunder_Pattern_LACMA_M.2007.130a-b.jpg Satsuma's provincial capital was Satsumasendai. During the Sengoku period, Satsuma was a fief of the Shimazu _daimyō_, who ruled much of southern Kyūshū from their castle at Kagoshima city. They were the initial patrons of Satsuma ware, which was later widely exported to the West.
+Satsuma's provincial capital was Satsumasendai. During the Sengoku period, Satsuma was a fief of the Shimazu _daimyō_, who ruled much of southern Kyūshū from their castle at Kagoshima city. They were the initial patrons of Satsuma ware, which was later widely exported to the West.
 
 In 1871, with the abolition of feudal domains and the establishment of prefectures after the Meiji Restoration, the provinces of Satsuma and Ōsumi were combined to eventually establish Kagoshima Prefecture.
 

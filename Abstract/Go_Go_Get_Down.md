@@ -1,1 +1,0 @@
-_GO GO GET DOWN_ (also titled as _GO GO GET DOWN: PURE GHETTO FUNK FROM WASHINGTON, D.C._) is a double-compilation album, consisting of prominent go-go songs remixed and compiled by DJ and producer Joey Negro. The album was released on his record label, Z Records, in 2012.

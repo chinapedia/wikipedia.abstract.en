@@ -1,1 +1,0 @@
-DELPHI (; ),[1] formerly also called PYTHO (Πυθώ), is famous as the ancient sanctuary that grew rich as the seat of Pythia, the oracle who was consulted about important decisions throughout the ancient classical world. The ancient Greeks considered the centre of the world to be in Delphi, marked by the stone monument known as the omphalos (navel).

@@ -1,1 +1,0 @@
-GHANTAA (Marathi: घंटा) is a 2016 Indian Marathi language comedy film produced and directed by Shailesh Shankar Kale.[1][2] The movie stars Amey Wagh, Aroh Welankar and Saksham Kulkarni in the lead roles.[3]

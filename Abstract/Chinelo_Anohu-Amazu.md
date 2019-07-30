@@ -1,1 +1,0 @@
-CHINELO ANOHU-AMAZU is a Nigerian lawyer, public servant and administrator. She is the immediate past Director General and CEO of National Pension Commission, (PenCom). She was a member of Pension Reform Committee of 2004 that introduces contributory pension scheme in Nigeria.

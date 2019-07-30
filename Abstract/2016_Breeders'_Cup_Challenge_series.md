@@ -1,1 +1,0 @@
-The 2016 BREEDERS' CUP CHALLENGE SERIES provided winners of the designated races an automatic "Win and You're In" Berth in the 2016 Breeders' Cup. Races were chosen by the Breeders' Cup organization and included key prep races in the various Breeders' Cup divisions from around the world.

@@ -1,1 +1,0 @@
-The following is a list of notable burials at Brookwood Cemetery near Woking in Surrey. Aladjin.gif]] Margaret_Duchess_of_Argyll_crop.jpg]] Mancherjee_Bhownagree_Vanity_Fair_1897-11-18.jpg in a _Vanity Fair_ caricature]] Charles_Bradlaugh.jpg]] ThomasHawksley.JPG]] JNTata.jpg]] Albert_Visetti_001.jpg]] Dennis_Wheatley_Allan_Warren.jpg]]

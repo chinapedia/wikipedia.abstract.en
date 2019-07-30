@@ -1,1 +1,0 @@
-An EXOPLANET ()[1] or EXTRASOLAR PLANET is a planet outside the Solar System. The first evidence of an exoplanet was noted in 1917, but was not recognized as such.[2] The first scientific detection of an exoplanet was in 1988; it was confirmed to be an exoplanet in 2012. The first confirmed detection occurred in 1992.

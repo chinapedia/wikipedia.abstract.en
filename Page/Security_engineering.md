@@ -57,8 +57,6 @@ These activities are designed to help meet security objectives in the software l
 
 Physical
 
-Canadian_Embassy_DC_2007_002.jpg
-
 -   Understanding of a _typical_ threat and the usual risks to people and property.
 -   Understanding the incentives created both by the threat and the countermeasures.
 -   Understanding risk and threat analysis methodology and the benefits of an empirical study of the physical security of a facility.

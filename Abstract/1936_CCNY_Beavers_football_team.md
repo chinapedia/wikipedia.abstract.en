@@ -1,1 +1,0 @@
-The 1936 CCNY BEAVERS FOOTBALL TEAM represented the City College of New York (CCNY) during the 1936 college football season. In its third season under head coach Benny Friedman, the team compiled a record of 4–4.[1]

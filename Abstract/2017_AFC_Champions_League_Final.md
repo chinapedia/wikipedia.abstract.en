@@ -1,1 +1,0 @@
-The 2017 AFC CHAMPIONS LEAGUE FINAL was the final of the 2017 AFC Champions League, the 36th edition of the top-level Asian club football tournament organized by the Asian Football Confederation (AFC), and the 15th under the current AFC Champions League title.

@@ -1,1 +1,0 @@
-'''Hermanus "Herman" Brood ''' (; 5 November 1946 – 11 July 2001) was a Dutch musician and painter. As a musician he achieved artistic and commercial success in the 1970s and 1980s, and was called "the greatest and only Dutch rock 'n' roll star".[1] Later in life he started a successful career as a painter.

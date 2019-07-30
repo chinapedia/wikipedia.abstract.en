@@ -1,1 +1,0 @@
-RAYMOND LÉVESQUE (born October 7, 1928 in Montreal, Quebec) is a retired Canadian singer-songwriter and poet from Quebec.[1] One of the pioneers of the _chansonnier_ tradition in Quebec,[2] he is best known for writing "Quand les hommes vivront d'amour", one of the most famous pop standards in French-language popular music.[3]

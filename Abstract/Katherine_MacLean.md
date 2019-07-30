@@ -1,1 +1,0 @@
-KATHERINE ANNE MACLEAN (born January 22, 1925) is an American science fiction author best known for her short fiction of the 1950s which examined the impact of technological advances on individuals and society.

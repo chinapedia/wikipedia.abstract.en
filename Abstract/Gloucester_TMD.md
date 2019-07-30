@@ -1,1 +1,0 @@
-GLOUCESTER TMD is a traction maintenance depot located in Gloucester, Gloucestershire, England. The depot is situated on the Great Western Main Line and is on the north side of the line to the east of Gloucester station.[1]

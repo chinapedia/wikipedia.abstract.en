@@ -1,1 +1,0 @@
-ARYANKAVU SASTHA TEMPLE a Hindu temple and one among the 108 Sastha shrines in the Indian state of Kerala. The idol here is believed to be consecrated by sage Parashurama.[1] It is also one among _Pancha Sastha_ temples in Kerala located in the Pathanapuram tehsil of Kollam district, in the eastern forest ranges.

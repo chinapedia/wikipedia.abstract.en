@@ -1,1 +1,0 @@
-BLAENAU FFESTINIOG NORTH (initially named plain "Blaenau Festiniog", without a second f) was the London and North Western Railway's (LNWR's) second passenger station in Blaenau Ffestiniog, then in Merionethshire, now in Gwynedd, Wales.

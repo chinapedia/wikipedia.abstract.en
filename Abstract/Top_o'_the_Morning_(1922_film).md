@@ -1,1 +1,0 @@
-Top_o'_the_Morning_lobby_card.jpg _TOP O' THE MORNING_ is a lost[1][2] 1922 silent film romantic drama directed by Edward Laemmle and starring Gladys Walton. It was produced and distributed by Universal Film Manufacturing Company.[3]

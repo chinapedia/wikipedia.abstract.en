@@ -1,1 +1,0 @@
-RAGGAMUFFIN MUSIC, usually abbreviated as RAGGA, is a subgenre of DANCEHALL and reggae music, in which the instrumentation primarily consists of electronic music. Similar to hip hop, sampling often serves a prominent role in raggamuffin music.

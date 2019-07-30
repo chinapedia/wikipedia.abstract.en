@@ -1,1 +1,0 @@
-CITY MONTESSORI SCHOOL, RAJAJIPURAM (CMS RJPM) BRANCH, Lucknow (Hindi: सिटी मॉन्टेसरी स्कूल, लखनऊ) is a private school that offers education up to the level of under-graduation, in Lucknow, India. CMS Rajajipuram Campus 1 is a co-educational, English Medium institution affiliated to ICSE Board, New Delhi.

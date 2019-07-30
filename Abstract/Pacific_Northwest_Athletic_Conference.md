@@ -1,1 +1,0 @@
-The PACIFIC NORTHWEST ATHLETIC CONFERENCE was a NCAA conference that operated from 1984 to 1998. Formed by the remnants of the Evergreen Conference, the conference broke up when most of its remaining members joined the Pacific West Conference.[1]

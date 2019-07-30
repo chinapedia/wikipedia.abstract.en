@@ -1,1 +1,0 @@
-In economics, GROSS SUBSTITUTES (GS) is a class of utility functions on indivisible goods. An agent is said to _have a GS valuation_ if, whenever the prices of some items increase and the prices of other items remain constant, the agent's demand for the items whose price remain constant weakly increases.

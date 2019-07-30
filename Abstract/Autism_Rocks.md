@@ -1,1 +1,0 @@
-AUTISM ROCKS is a United Kingdom-based charitable organization founded by Sanjay Shah[1] to raise awareness about autism through charitable music events. All funds raised by Autism Rocks will go to the Autism Research Trust, which in turn supports research by the Autism Research Centre at Cambridge University.

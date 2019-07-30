@@ -1,1 +1,0 @@
-ILYES YAICHE (born October 27, 1997) is an Algerian footballer who plays for Algerian Ligue Professionnelle 1 club NA Hussein Dey on loan from USM Alger. He plays primarily as an attacking midfielder.

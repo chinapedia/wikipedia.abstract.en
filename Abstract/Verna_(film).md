@@ -1,1 +1,0 @@
-_VERNA_ (lit: _Or Else_) is a 2017 Pakistani social-drama film; written, directed and produced by Shoaib Mansoor under his Shoman Productions. The film stars Mahira Khan and debutants Haroon Shahid, Zarrar Khan and Naimal Khawar.

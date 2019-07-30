@@ -1,1 +1,0 @@
-VALLIKKUNNU RAILWAY STATION is situated at Ariyallur vallikkunnu. It is one of the oldest railway stations in Kerala. This railway station was a part of first rail route (Tirur-Beypore) in Kerala. The station code for Vallikkunnu set by Indian Railway is VLI which can be used for various purposes including online reservations.[1][2][3][4][5]

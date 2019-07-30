@@ -43,7 +43,7 @@ The geographical distribution of Turkic-speaking peoples across Eurasia since th
 
 Classification
 
-TurkicLanguages.png For centuries, the Turkic-speaking peoples have migrated extensively and intermingled continuously, and their languages have been influenced mutually and through contact with the surrounding languages, especially the Iranian, Slavic, and Mongolic languages.[26]
+For centuries, the Turkic-speaking peoples have migrated extensively and intermingled continuously, and their languages have been influenced mutually and through contact with the surrounding languages, especially the Iranian, Slavic, and Mongolic languages.[26]
 
 This has obscured the historical developments within each language and/or language group, and as a result, there exist several systems to classify the Turkic languages. The modern genetic classification schemes for Turkic are still largely indebted to Samoilovich (1922).
 

@@ -1,4 +1,4 @@
-Cuisines_of_China.png SICHUAN CUISINE, SZECHWAN CUISINE, or SZECHUAN CUISINE ( or [1]) is a style of Chinese cuisine originating from Sichuan Province. It has bold flavours, particularly the pungency and spiciness resulting from liberal use of garlic and chili peppers, as well as the unique flavour of Sichuan pepper. There are many local variations within Sichuan Province and the neighbouring Chongqing Municipality, which was part of Sichuan Province until 1997. Four sub-styles of Sichuan cuisine include Chongqing, Chengdu, Zigong and Buddhist vegetarian style.[2]
+SICHUAN CUISINE, SZECHWAN CUISINE, or SZECHUAN CUISINE ( or [1]) is a style of Chinese cuisine originating from Sichuan Province. It has bold flavours, particularly the pungency and spiciness resulting from liberal use of garlic and chili peppers, as well as the unique flavour of Sichuan pepper. There are many local variations within Sichuan Province and the neighbouring Chongqing Municipality, which was part of Sichuan Province until 1997. Four sub-styles of Sichuan cuisine include Chongqing, Chengdu, Zigong and Buddhist vegetarian style.[2]
 
 UNESCO declared Chengdu, the capital of Sichuan Province, to be a city of gastronomy in 2011 to recognise the sophistication of its cooking.[3]
 
@@ -12,7 +12,7 @@ Sichuan is colloquially known as the "heavenly country" due to its abundance of 
 
 Features
 
-MaLaTang.JPG characteristic of Sichuan cuisine]] The complex topography of Sichuan Province, including its mountains, hills, plains, plateaus and the Sichuan Basin, has shaped its food customs with versatile and distinct ingredients.
+characteristic of Sichuan cuisine]] The complex topography of Sichuan Province, including its mountains, hills, plains, plateaus and the Sichuan Basin, has shaped its food customs with versatile and distinct ingredients.
 
 Abundant rice and vegetables are produced from the fertile Sichuan Basin, whereas a wide variety of herbs, mushrooms and other fungi prosper in the highland regions. Pork is overwhelmingly the most common type of meat consumed.[6] Beef is somewhat more common in Sichuan cuisine than it is in other Chinese cuisines, perhaps due to the prevalence of oxen in the region.[7] Sichuan cuisine also uses various bovine and porcine organs as ingredients, such as intestine, arteries, head, tongue, skin and liver, in addition to other commonly used portions of the meat. Rabbit meat is also much more popular in Sichuan than elsewhere in China. It is estimated that the Sichuan Basin and Chongqing area consume about 70 percent of China's rabbit meat consumption.[8] Yoghurt, which probably spread from India through Tibet in medieval times, is consumed among the Han Chinese. This is an unusual custom in other parts of the country. The salt produced from Sichuan salt springs and wells, unlike sea salt, does not contain Iodine, which lead to goiter problems before the 20th century.[9]
 
@@ -33,31 +33,31 @@ Notable foods
 
 Although many dishes live up to their spicy reputation, there is a large percentage of recipes that use little to no hot spices at all, including dishes such as tea-smoked duck.
 
-  English                                           Image                                                                                 Traditional Chinese   Simplified Chinese   Pinyin                    Notes
-  ------------------------------------------------- ------------------------------------------------------------------------------------- --------------------- -------------------- ------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Ants climbing a tree                              Mayishangshu.jpg                                                                      螞蟻上樹              蚂蚁上树             mǎyǐ shàng shù
-  Bon bon chicken                                   Bon_bon_chicken_with_sauce.jpg                                                        棒棒雞                棒棒鸡               bàngbàng jī
-  Braised pork ribs with konjac                                                                                                           魔芋燒排骨            魔芋烧排骨           móyù shāo páigǔ
-  Chili Oil Wontons                                 Red_Oil_Wontons_(红油抄手).jpg                                                        紅油抄手              红油抄手             hóng yóu chāoshǒu
-  Dandan noodles                                    Dandan_noodles_(擔擔麵).jpg                                                           擔擔麵                担担面               dàndàn miàn
-  Fish with pickled mustard greens                  酸菜鱼_Preserved_Mustard_Green_with_Fish_-_Charming_Spice_AUD24.80_(4104355401).jpg   酸菜魚                酸菜鱼               suān cài yú
-  Fragrant and spicy fish slices                                                                                                          香辣魚片              香辣鱼片             xiāng là yú piàn
-  Hot and sour noodles                              Hot_&_Sour_noodles_(酸辣麵).jpg                                                       酸辣麵                酸辣面               suān là miàn              Typically a vegetarian noodle dish primarily made with _brassica juncea_, vinegar, hot oil, and soy sauce. It has different flavors such as sour, sweet, fragrant, spicy and salty. Commonly is for breakfast but also a popular street snack in Sichuan, Yunnan, and Hubei.
-  Hot and sour noodle soup                          Hot_&_Sour_Noodle_Soup_(酸辣肉絲湯麵).jpg                                             酸辣肉絲湯麵          酸辣肉丝汤面         suān là ròu sī tāngmiàn   A noodle soup dish primarily made with the ingredients of _brassica juncea_, stir-fried shredded meat, noodle, and broth.
-  Kung Pao beef tendon                                                                                                                    宮保牛筋              宫保牛筋             gōngbǎo niú jīn
-  Kung Pao chicken                                  Gongbaojiding_MichaelDziedzic.jpg                                                     宮保雞丁              宫保鸡丁             gōngbǎo jīdīng
-  Mao xue wang                                                                                                                            毛血旺                毛血旺               máo xuě wàng              A traditional dish from Chongqing made from pig's blood, tripe, duck's blood, ham and chicken gizzard. Beansprouts, chili, Sichuan peppercorn, sesame and other spices are often added as seasoning.
-  Mapo doufu                                        Mapo_tofu.JPG                                                                         麻婆豆腐              麻婆豆腐             mápó dòufǔ                Literally "pockmarked granny's tofu"
-  Sliced beef/beef tripe/ox tongue in chili sauce   Fuqi_Fei_Pian.jpg                                                                     夫妻肺片              夫妻肺片             fūqī fèipiàn              Literally "husband and wife lung pieces"
-  Shredded chicken cold noodles                                                                                                           雞絲涼麵              鸡丝凉面             jī sī liáng miàn
-  Shredded pork in garlic sauce                     Fish_flavoured_sliced_pork_from_Melbourne.jpg                                         魚香肉絲              鱼香肉丝             yúxiāng ròusī             Literally "sliced pork with fish aroma"
-  Sichuan hotpot                                    Chengdu_Hotpot.jpg                                                                    四川火鍋              四川火锅             Sìchuān huǒguō
-  Stir Fried Green Beans[11]                        Sichuan's_Spicy_Green_Beans_at_Sichuan_Restaurant,_Acton,_London_(4466367167).jpg     乾煸四季豆            干煸四季豆           gān biān sìjì dòu         Also known as "Dry Fried Green Beans,"[12] "Dry Fried String Beans,"[13] "Sichuan Style Green Beans,"[14] "Szechuan Dry Fried Green Beans"[15] or "Spicy Green Beans"[16]
-  Spicy deep-fried chicken                          La_Zi_Ji_(Chicken_with_Chiles)_(2269517013).jpg                                       辣子雞                辣子鸡               làzǐjī
-  Tea-smoked duck                                   Duck_breast,_smoked_and_panfried.jpg                                                  樟茶鴨                樟茶鸭               zhāngchá yā
-  Three pepper chicken                                                                                                                    三椒煸雞              三椒煸鸡             sān jiāo biān jī
-  Twice cooked pork                                 Hoikoro.jpg                                                                           回鍋肉                回锅肉               huíguōròu                 Literally "meat returning to the pot"
-  Water-cooked meat                                 Shuizhufish2.JPG                                                                      水煮肉                水煮肉               shuǐzhǔ ròu
+  English                                           Image   Traditional Chinese   Simplified Chinese   Pinyin                    Notes
+  ------------------------------------------------- ------- --------------------- -------------------- ------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Ants climbing a tree                                      螞蟻上樹              蚂蚁上树             mǎyǐ shàng shù
+  Bon bon chicken                                           棒棒雞                棒棒鸡               bàngbàng jī
+  Braised pork ribs with konjac                             魔芋燒排骨            魔芋烧排骨           móyù shāo páigǔ
+  Chili Oil Wontons                                         紅油抄手              红油抄手             hóng yóu chāoshǒu
+  Dandan noodles                                            擔擔麵                担担面               dàndàn miàn
+  Fish with pickled mustard greens                          酸菜魚                酸菜鱼               suān cài yú
+  Fragrant and spicy fish slices                            香辣魚片              香辣鱼片             xiāng là yú piàn
+  Hot and sour noodles                                      酸辣麵                酸辣面               suān là miàn              Typically a vegetarian noodle dish primarily made with _brassica juncea_, vinegar, hot oil, and soy sauce. It has different flavors such as sour, sweet, fragrant, spicy and salty. Commonly is for breakfast but also a popular street snack in Sichuan, Yunnan, and Hubei.
+  Hot and sour noodle soup                                  酸辣肉絲湯麵          酸辣肉丝汤面         suān là ròu sī tāngmiàn   A noodle soup dish primarily made with the ingredients of _brassica juncea_, stir-fried shredded meat, noodle, and broth.
+  Kung Pao beef tendon                                      宮保牛筋              宫保牛筋             gōngbǎo niú jīn
+  Kung Pao chicken                                          宮保雞丁              宫保鸡丁             gōngbǎo jīdīng
+  Mao xue wang                                              毛血旺                毛血旺               máo xuě wàng              A traditional dish from Chongqing made from pig's blood, tripe, duck's blood, ham and chicken gizzard. Beansprouts, chili, Sichuan peppercorn, sesame and other spices are often added as seasoning.
+  Mapo doufu                                                麻婆豆腐              麻婆豆腐             mápó dòufǔ                Literally "pockmarked granny's tofu"
+  Sliced beef/beef tripe/ox tongue in chili sauce           夫妻肺片              夫妻肺片             fūqī fèipiàn              Literally "husband and wife lung pieces"
+  Shredded chicken cold noodles                             雞絲涼麵              鸡丝凉面             jī sī liáng miàn
+  Shredded pork in garlic sauce                             魚香肉絲              鱼香肉丝             yúxiāng ròusī             Literally "sliced pork with fish aroma"
+  Sichuan hotpot                                            四川火鍋              四川火锅             Sìchuān huǒguō
+  Stir Fried Green Beans[11]                                乾煸四季豆            干煸四季豆           gān biān sìjì dòu         Also known as "Dry Fried Green Beans,"[12] "Dry Fried String Beans,"[13] "Sichuan Style Green Beans,"[14] "Szechuan Dry Fried Green Beans"[15] or "Spicy Green Beans"[16]
+  Spicy deep-fried chicken                                  辣子雞                辣子鸡               làzǐjī
+  Tea-smoked duck                                           樟茶鴨                樟茶鸭               zhāngchá yā
+  Three pepper chicken                                      三椒煸雞              三椒煸鸡             sān jiāo biān jī
+  Twice cooked pork                                         回鍋肉                回锅肉               huíguōròu                 Literally "meat returning to the pot"
+  Water-cooked meat                                         水煮肉                水煮肉               shuǐzhǔ ròu
 
 
 

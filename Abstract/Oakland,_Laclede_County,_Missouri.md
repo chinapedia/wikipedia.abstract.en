@@ -1,1 +1,0 @@
-OAKLAND is an unincorporated community in Laclede County, in the Ozarks of southern Missouri.[1] The community is located on Route B, two miles south of the junction of Route B with Missouri Route 32. The site lies five miles southeast of Lebanon.[2]

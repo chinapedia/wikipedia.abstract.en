@@ -1,1 +1,0 @@
-CURTIS ALLAN HASLER (born December 29, 1964) is an American professional baseball coach and former pitcher. He has served as the bullpen coach for the Chicago White Sox of Major League Baseball since .[1]

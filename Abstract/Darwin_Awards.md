@@ -1,1 +1,0 @@
-The DARWIN AWARDS are a tongue-in-cheek honor, originating in Usenet newsgroup discussions around 1985. They recognize individuals who have supposedly contributed to human evolution by selecting themselves out of the gene pool via death or sterilization by their own actions.

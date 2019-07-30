@@ -1,1 +1,0 @@
-The WOMEN'S 400M athletics events for the 2016 Summer Paralympics take place at the Estádio Olímpico João Havelange from 8 September to 17 September 2016. A total of 12 events were contested over this distance for 15 different classifications.

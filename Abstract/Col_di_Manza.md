@@ -1,1 +1,0 @@
-COL DI MANZA (Venetian language - _Col de Manzha_) is a hill between the towns of Colle Umberto and San Fior in the province of Treviso in Italy, facing the higher hill of Castello Roganzuolo. It is notable as the site of a villa built for the painter Titian.

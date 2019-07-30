@@ -1,1 +1,0 @@
-ARUP KUMAR KUNDU (Bengali "অরূপ কুমার কুন্ডু") (born 2 January 1958) is an educationist, Indian Rheumatologist, clinician, orator,[1] academician, teacher and author.[2] He has authored five medical books entitled _Bedside Clinics in Medicine, Part I & Part II_,[3] _Beginner's Guide to Clinical Medicine_, _MCQs in Internal Medicine_ and _Pearls in Medicine for Students_.

@@ -1,4 +1,4 @@
-Primary_road_between_Paramaribo_and_Brownsweg.JPG and Brownsweg.]]
+and Brownsweg.]]
 
 The Republic of Suriname () has a number of forms of transport.
 
@@ -16,7 +16,7 @@ Rail links with adjacent countries
 
 Highways
 
-Paramaribo,_Jules_Wijdenboschbrug.JPG over the Suriname River near Paramaribo.]] Coppename_River.jpg near Boskamp.]] Bailey-Coppename_River.jpg over the Coppename River near Bitagron.]]
+over the Suriname River near Paramaribo.]] near Boskamp.]] over the Coppename River near Bitagron.]]
 
 -   total: 4,304 km
 -   paved: 1,130 km

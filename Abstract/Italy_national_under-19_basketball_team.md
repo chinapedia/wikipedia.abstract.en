@@ -1,1 +1,0 @@
-The ITALY NATIONAL UNDER-18 AND UNDER-19 BASKETBALL TEAM is a national basketball team of Italy, administered by the Federazione Italiana Pallacanestro.[1] It represents the country in international under-18 and under-19 (under age 18 and under age 19) basketball competitions.

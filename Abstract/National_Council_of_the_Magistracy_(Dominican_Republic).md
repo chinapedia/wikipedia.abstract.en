@@ -1,1 +1,0 @@
-The NATIONAL COUNCIL OF THE MAGISTRACY (_Consejo Nacional de la Magistratura-CNM,_ en español), is the Dominican constitutional body responsible for appointing judges of the Supreme Court, the Constitutional Court and the Superior Electoral Court of the Dominican Republic.

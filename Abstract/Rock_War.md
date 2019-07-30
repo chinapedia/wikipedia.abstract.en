@@ -1,1 +1,0 @@
-_ROCK WAR_ is a series of young adult novels written by English author Robert Muchamore. The series follows three aspiring teenage musicians, Jay Thomas, Summer Smith and Dylan Wilton, as they appear on reality show _Rock War_.[1]

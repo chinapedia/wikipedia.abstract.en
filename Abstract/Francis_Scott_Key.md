@@ -1,1 +1,0 @@
-FRANCIS SCOTT KEY (August 1, 1779January 11, 1843)[1] was an American lawyer, author, and amateur poet from Frederick, Maryland who is best known for writing a poem which later became the lyrics for the United States' national anthem, "The Star-Spangled Banner".

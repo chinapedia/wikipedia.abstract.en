@@ -1,1 +1,0 @@
-The 1965 KFK COMPETITIONS IN UKRAINE were part of the 1965 Soviet KFK competitions that were conducted in the Soviet Union. It was first season of the KFK in Ukraine. The winner eventually qualified to the 1966 Soviet Second League.

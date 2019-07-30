@@ -1,1 +1,0 @@
-The fourth season of _Reign_, an American historical fantasy, premiered on February 10, 2017. The series, created by Stephanie SenGupta and Laurie McCarthy, airs on The CW. On December 7, 2016 the CW announced that this would be the final season and would consist of 16 episodes.[1]

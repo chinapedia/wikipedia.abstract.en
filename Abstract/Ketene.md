@@ -1,1 +1,0 @@
-Ketenes.png A KETENE is an organic compound of the form R′R″C=C=O, where R and R' are two arbitrary monovalent chemical groups (or two separate substitution sites in the same molecule).[1] The name may also refers to the specific compound ethenone , the simplest ketene.

@@ -1,1 +1,0 @@
-KASHUBIAN or CASSUBIAN (Kashubian: __, __, __; , __, __) is a West Slavic lect belonging to the Lechitic subgroup along with Polish and Silesian.[1][2] Although often classified as a language in its own right, it is sometimes viewed as a dialect of Pomeranian or as a dialect of Polish.[3]

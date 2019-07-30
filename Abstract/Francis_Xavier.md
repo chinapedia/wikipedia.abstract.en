@@ -1,1 +1,0 @@
-FRANCIS XAVIER, S.J. (; born FRANCISCO DE JASSO Y AZPILICUETA; Latin _Franciscus Xaverius_; Basque: _Frantzisko Xabierkoa_; Spanish: _Francisco Javier_; Portuguese: _Francisco Xavier_; 7 April 15062 December 1552), was a Navarrese Catholic missionary who was a co-founder of the Society of Jesus.

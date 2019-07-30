@@ -1,1 +1,0 @@
-Paris_-_Salon_du_livre_et_de_la_famille_-_Ghislain_de_Diesbach_-_1.jpg

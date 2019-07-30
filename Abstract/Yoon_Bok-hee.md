@@ -1,1 +1,0 @@
-'''Yoon Bok-Hee (윤복희, '''尹福姬, March 9, 1946 - ) is a South Korean singer, musical actress, and songwriter. Her father is Yoon Bu-gil, a popular comedian and her mother is Sung Kyung-ja, a well known classical ballerina.[1] She is known for being an early adopter of the miniskirt in South Korea in the 1960s and for her songs "Everyone" and "I'll Follow You".[2][3]

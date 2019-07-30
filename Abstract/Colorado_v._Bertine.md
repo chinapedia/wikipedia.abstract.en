@@ -1,1 +1,0 @@
-_COLORADO V. BERTINE_, 479 U.S. 367 (1987), was a case in which the Supreme Court of the United States held that the Fourth Amendment does not prohibit the State from proving charges with the evidence discovered during an inventory search.[1]

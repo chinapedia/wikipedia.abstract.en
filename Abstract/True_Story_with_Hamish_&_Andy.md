@@ -1,1 +1,0 @@
-_TRUE STORY WITH HAMISH & ANDY_ is an Australian television series starring radio and television hosts Hamish Blake and Andy Lee, that was first aired on 5 June 2017.[1] This is their third series for the Nine Network.[2][3][4]

@@ -1,1 +1,0 @@
-STRIKE may refer to:

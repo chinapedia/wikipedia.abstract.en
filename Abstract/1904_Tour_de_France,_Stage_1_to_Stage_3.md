@@ -1,1 +1,0 @@
-Tour_de_France_1904_map-fr.svg The 1904 Tour de France was the 2nd edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris on 2 July and Stage 3 occurred on 13 July with a flat stage to Toulouse. The race finished at the Parc des Princes in Paris on 23 July.

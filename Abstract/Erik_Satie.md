@@ -1,1 +1,0 @@
-ÉRIC ALFRED LESLIE SATIE (;[1] 17 May 18661 July 1925), who signed his name ERIK SATIE after 1884, was a French composer and pianist. Satie was an influential artist in the late 19th- and early 20th-century Parisian avant-garde. His work was a precursor to later artistic movements such as minimalism, repetitive music, and the Theatre of the Absurd.[2]

@@ -1,1 +1,0 @@
-AGRICULTURE IN ALASKA faces many challenges, largely due to the climate, the short growing season, and generally poor soils. However, the exceptionally long days of summer enable some vegetables to attain world record sizes.

@@ -1,1 +1,0 @@
-BELFAST (; )[1] is the capital and largest city of Northern Ireland, standing on the banks of the River Lagan on the east coast of Ireland. It is the second-largest city on the island of Ireland, after Dublin.[2] It had a population of 333,871 .[3]

@@ -1,1 +1,0 @@
-Indonesian_kids_in_Museum.jpg The population of Indonesia according to the 2010 national census was 237.64 million,[1] and it was estimated to reach 255.4 million in 2015.[2] 58% live on the island of Java,[3] the world's most populous island.[4]

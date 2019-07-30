@@ -7,11 +7,11 @@ Today, Seychelles boasts the highest nominal per capita GDP in Africa, excluding
 
 History
 
-Victoria_Seychelles_1900s.jpg The Seychelles were uninhabited throughout most of recorded history. Some scholars assume that Austronesian seafarers and later Maldivian and Arab traders were the first to visit the uninhabited Seychelles. This assumption is based on the discovery of tombs, visible until 1910.[7] The earliest recorded sighting by Europeans took place on 15 March 1503, recorded by Thomé Lopes aboard "Rui Mendes de Brito" part of the fleet of the Portuguese Admiral Vasco da Gama. Da Gama's ships passed close to an elevated island, probably Silhouette Island and the following day Desroches Island. The earliest recorded landing was in January 1609, by the crew of the "Ascension" under Captain Alexander Sharpeigh during the fourth voyage of the British East India Company.
+The Seychelles were uninhabited throughout most of recorded history. Some scholars assume that Austronesian seafarers and later Maldivian and Arab traders were the first to visit the uninhabited Seychelles. This assumption is based on the discovery of tombs, visible until 1910.[7] The earliest recorded sighting by Europeans took place on 15 March 1503, recorded by Thomé Lopes aboard "Rui Mendes de Brito" part of the fleet of the Portuguese Admiral Vasco da Gama. Da Gama's ships passed close to an elevated island, probably Silhouette Island and the following day Desroches Island. The earliest recorded landing was in January 1609, by the crew of the "Ascension" under Captain Alexander Sharpeigh during the fourth voyage of the British East India Company.
 
 A transit point for trade between Africa and Asia, the islands were said to be occasionally used by pirates until the French began to take control starting in 1756 when a Stone of Possession was laid on Mahé by Captain Nicholas Morphey. The islands were named after Jean Moreau de Séchelles, Louis XV's Minister of Finance.[8]
 
-The British frigate "Orpheus" commanded by Captain Henry Newcome arrived at Mahé on 16 May 1794. Terms of capitulation were drawn up and the next day Seychelles was surrendered to Britain. Jean Baptiste Quéau de Quincy, the French administrator of Seychelles during the years of war with the United Kingdom, declined to resist when armed enemy warships arrived. Instead, he successfully negotiated the status of capitulation to Britain which gave the settlers a privileged position of neutrality. Seychelles_1953_coronation_stamp.JPG]] Britain eventually assumed full control upon the surrender of Mauritius in 1810, formalised in 1814 at the Treaty of Paris. Seychelles became a crown colony separate from Mauritius in 1903. Elections were held in 1966 and 1970.
+The British frigate "Orpheus" commanded by Captain Henry Newcome arrived at Mahé on 16 May 1794. Terms of capitulation were drawn up and the next day Seychelles was surrendered to Britain. Jean Baptiste Quéau de Quincy, the French administrator of Seychelles during the years of war with the United Kingdom, declined to resist when armed enemy warships arrived. Instead, he successfully negotiated the status of capitulation to Britain which gave the settlers a privileged position of neutrality. ]] Britain eventually assumed full control upon the surrender of Mauritius in 1810, formalised in 1814 at the Treaty of Paris. Seychelles became a crown colony separate from Mauritius in 1903. Elections were held in 1966 and 1970.
 
 Independence
 
@@ -30,7 +30,7 @@ In January 2013, Seychelles declared a state of emergency; the tropical cyclone 
 
 Politics
 
-Victoria.jpeg, the capital of Seychelles]] The Seychelles president, who is head of state and head of government, is elected by popular vote for a five-year term of office. The cabinet is presided over and appointed by the president, subject to the approval of a majority of the legislature.
+, the capital of Seychelles]] The Seychelles president, who is head of state and head of government, is elected by popular vote for a five-year term of office. The cabinet is presided over and appointed by the president, subject to the approval of a majority of the legislature.
 
 The unicameral Seychellois parliament, the National Assembly or _Assemblée Nationale_, consists of 34 members, 25 of whom are elected directly by popular vote, while the remaining nine seats are appointed proportionally according to the percentage of votes received by each party. All members serve five-year terms.
 
@@ -38,7 +38,7 @@ The Supreme Court of Seychelles, created in 1903, is the highest trial court in 
 
 Political culture
 
-James_Michel_in_meeting.jpg in his office in Victoria, 2009]] Se-map.gif Seychelles' previous president France Albert René came to power after his supporters overthrew the first president James Mancham on 5 June 1977 in a coup d'état and installed him as president. René was at that time the prime minister.[21][22][23] René ruled as a strongman under a socialist one-party system until in 1993, when he was forced to introduce a multi-party system. He stepped down in 2004 in favour of his vice-president, James Michel, who was reelected in 2006 and again in 2011.[24][25][26] On 28 September 2016, the Office of the President announced that Michel would step down effective 16 October, and that Vice President Danny Faure would complete the rest of Michel's term.[27]
+in his office in Victoria, 2009]] Seychelles' previous president France Albert René came to power after his supporters overthrew the first president James Mancham on 5 June 1977 in a coup d'état and installed him as president. René was at that time the prime minister.[21][22][23] René ruled as a strongman under a socialist one-party system until in 1993, when he was forced to introduce a multi-party system. He stepped down in 2004 in favour of his vice-president, James Michel, who was reelected in 2006 and again in 2011.[24][25][26] On 28 September 2016, the Office of the President announced that Michel would step down effective 16 October, and that Vice President Danny Faure would complete the rest of Michel's term.[27]
 
 The primary political parties are the ruling socialist People's Party (PP), known until 2009 as the Seychelles People's Progressive Front (SPPF) now called United Seychelles (US), and the socially liberal Seychelles National Party (SNP).[28]
 
@@ -88,7 +88,7 @@ LA DIGUE AND REMAINING INNER ISLANDS
 
 Geography
 
-Praslin_vom_Nid_d'Aigle.jpg, the second largest island of the Seychelles]]
+, the second largest island of the Seychelles]]
 
 An island nation, Seychelles is located in the Indian Ocean, northeast of Madagascar and about east of Kenya. The Constitution of Seychelles lists 155 named islands and a further 7 reclaimed islands have been created subsequent to the publication of the Constitution. The majority of the islands are uninhabited, with many dedicated as nature reserves.
 
@@ -96,15 +96,15 @@ A group of 44 islands (42 granitic and 2 coralline) occupy the shallow waters of
 
 The islands are divided into groups as follows.
 
-There are 42 granitic islands known as the Granitic Seychelles. These are in descending order of size: Mahé, Praslin, Silhouette Island, La Digue, Curieuse, Félicité, Frégate, Ste-Anne, North, Cerf, Marianne, Grand Sœur, Thérèse, Aride Island, Conception, Petite Sœur, Cousin Island, Cousine, Long, Récif, Round (Praslin), Anonyme, Mamelles, Moyenne, Île aux Vaches Marines, L'Islette, Beacon (Île Sèche), Cachée, Cocos, Round (Mahé), L'Ilot Frégate, Booby, Chauve-Souris (Mahé), Chauve-Souris (Praslin), Île La Fouche, Hodoul, L'Ilot, Rat, Souris, St. Pierre (Praslin), Zavé, Harrison Rocks (Grand Rocher). Anse_Source_d'Argent_2-La_Digue.jpg]] There are two coral sand cays north of the granitics on the edge of the Seychelles Bank: Denis and Bird.
+There are 42 granitic islands known as the Granitic Seychelles. These are in descending order of size: Mahé, Praslin, Silhouette Island, La Digue, Curieuse, Félicité, Frégate, Ste-Anne, North, Cerf, Marianne, Grand Sœur, Thérèse, Aride Island, Conception, Petite Sœur, Cousin Island, Cousine, Long, Récif, Round (Praslin), Anonyme, Mamelles, Moyenne, Île aux Vaches Marines, L'Islette, Beacon (Île Sèche), Cachée, Cocos, Round (Mahé), L'Ilot Frégate, Booby, Chauve-Souris (Mahé), Chauve-Souris (Praslin), Île La Fouche, Hodoul, L'Ilot, Rat, Souris, St. Pierre (Praslin), Zavé, Harrison Rocks (Grand Rocher). ]] There are two coral sand cays north of the granitics on the edge of the Seychelles Bank: Denis and Bird.
 
-There are two coral islands south of the Granitics: Coëtivy and Platte. Anse_Lazio_beach_Praslin_Seychelles.jpg on the island of Praslin]]
+There are two coral islands south of the Granitics: Coëtivy and Platte. on the island of Praslin]]
 
 There are 29 coral islands in the Amirantes group, west of the granitics: Desroches, Poivre Atoll (comprising three islands—Poivre, Florentin and South Island), Alphonse, D'Arros, St. Joseph Atoll (comprising 14 islands—St. Joseph, Île aux Fouquets, Resource, Petit Carcassaye, Grand Carcassaye, Benjamin, Bancs Ferrari, Chiens, Pélicans, Vars, Île Paul, Banc de Sable, Banc aux Cocos and Île aux Poules), Marie Louise, Desnœufs, African Banks (comprising two islands—African Banks and South Island), Rémire, St. François, Boudeuse, Étoile, Bijoutier.
 
 There are 13 coral islands in the Farquhar Group, south-southwest of the Amirantes: Farquhar Atoll (comprising 10 islands—Bancs de Sable, Déposés, Île aux Goëlettes, Lapins, Île du Milieu, North Manaha, South Manaha, Middle Manaha, North Island and South Island), Providence Atoll (comprising two islands—Providence and Bancs Providence) and St Pierre.
 
-Seychelles_017.JPG There are 67 raised coral islands in the Aldabra Group, west of the Farquhar Group: Aldabra Atoll (comprising 46 islands—Grande Terre, Picard, Polymnie, Malabar, Île Michel, Île Esprit, Île aux Moustiques, Ilot Parc, Ilot Émile, Ilot Yangue, Ilot Magnan, Île Lanier, Champignon des Os, Euphrate, Grand Mentor, Grand Ilot, Gros Ilot Gionnet, Gros Ilot Sésame, Héron Rock, Hide Island, Île aux Aigrettes, Île aux Cèdres, Îles Chalands, Île Fangame, Île Héron, Île Michel, Île Squacco, Île Sylvestre, Île Verte, Ilot Déder, Ilot du Sud, Ilot du Milieu, Ilot du Nord, Ilot Dubois, Ilot Macoa, Ilot Marquoix, Ilots Niçois, Ilot Salade, Middle Row Island, Noddy Rock, North Row Island, Petit Mentor, Petit Mentor Endans, Petits Ilots, Pink Rock and Table Ronde), Assumption Island, Astove and Cosmoledo Atoll (comprising 19 islands—Menai, Île du Nord (West North), Île Nord-Est (East North), Île du Trou, Goélettes, Grand Polyte, Petit Polyte, Grand Île (Wizard), Pagode, Île du Sud-Ouest (South), Île aux Moustiques, Île Baleine, Île aux Chauve-Souris, Île aux Macaques, Île aux Rats, Île du Nord-Ouest, Île Observation, Île Sud-Est and Ilot la Croix).
+There are 67 raised coral islands in the Aldabra Group, west of the Farquhar Group: Aldabra Atoll (comprising 46 islands—Grande Terre, Picard, Polymnie, Malabar, Île Michel, Île Esprit, Île aux Moustiques, Ilot Parc, Ilot Émile, Ilot Yangue, Ilot Magnan, Île Lanier, Champignon des Os, Euphrate, Grand Mentor, Grand Ilot, Gros Ilot Gionnet, Gros Ilot Sésame, Héron Rock, Hide Island, Île aux Aigrettes, Île aux Cèdres, Îles Chalands, Île Fangame, Île Héron, Île Michel, Île Squacco, Île Sylvestre, Île Verte, Ilot Déder, Ilot du Sud, Ilot du Milieu, Ilot du Nord, Ilot Dubois, Ilot Macoa, Ilot Marquoix, Ilots Niçois, Ilot Salade, Middle Row Island, Noddy Rock, North Row Island, Petit Mentor, Petit Mentor Endans, Petits Ilots, Pink Rock and Table Ronde), Assumption Island, Astove and Cosmoledo Atoll (comprising 19 islands—Menai, Île du Nord (West North), Île Nord-Est (East North), Île du Trou, Goélettes, Grand Polyte, Petit Polyte, Grand Île (Wizard), Pagode, Île du Sud-Ouest (South), Île aux Moustiques, Île Baleine, Île aux Chauve-Souris, Île aux Macaques, Île aux Rats, Île du Nord-Ouest, Île Observation, Île Sud-Est and Ilot la Croix).
 
 In addition to these 155 islands as per the Constitution of Seychelles there are 7 reclaimed islands: Ile Perseverance, Ile Aurore, Romainville, Eden Island, Eve, Ile du Port and Ile Soleil.
 
@@ -117,8 +117,6 @@ The climate is equable although quite humid, as the islands are small,[29] class
 During the coolest months, July and August, the average low is about . The southeast trade winds blow regularly from May to November, and this is the most pleasant time of the year. The hot months are from December to April, with higher humidity (80%). March and April are the hottest months, but the temperature seldom exceeds . Most of the islands lie outside the cyclone belt, so high winds are rare.[31]
 
 Wildlife
-
-Seychelles_Paradise-flycatcher.jpg Aldabra_Female_on_Curieuse.JPG Nerita_plicata.jpg Bird_flocks_Bird_Island_Seychelles.jpg
 
 Seychelles is among the world's leading countries to protect lands for threatened species, allocating 42% of its territory for conservation.[32] Like many fragile island ecosystems, Seychelles saw the loss of biodiversity when humans first settled in the area, including the disappearance of most of the giant tortoises from the granitic islands, the felling of coastal and mid-level forests, and the extinction of species such as the chestnut flanked white eye, the Seychelles parakeet, and the saltwater crocodile. However, extinctions were far fewer than on islands such as Mauritius or Hawaii, partly due to a shorter period of human occupation (since 1770). Seychelles today is known for success stories in protecting its flora and fauna. The rare Seychelles black parrot, the national bird of the country, is now protected.
 
@@ -145,11 +143,9 @@ Their government's Seychelles Climate Guide describes the nation's climate as ra
 
 Demographics
 
-Victoria_(Seychelles).jpg]] Seychelles_demography.png, year 2005; Number of inhabitants in thousands.]] When the British gained control of the islands during the Napoleonic Wars, they allowed the French upper class to retain their land. Both the French and British settlers used enslaved Africans, and although the British prohibited slavery in 1835, African workers continued to come. Thus the _Gran blan_ ("big whites") of French origin dominated economic and political life. The British administration employed Indians on indentured servitude to the same degree as in Mauritius resulting in a small Indian population. The Indians, like a similar minority of Chinese, were confined to a merchant class.[38]
+]] , year 2005; Number of inhabitants in thousands.]] When the British gained control of the islands during the Napoleonic Wars, they allowed the French upper class to retain their land. Both the French and British settlers used enslaved Africans, and although the British prohibited slavery in 1835, African workers continued to come. Thus the _Gran blan_ ("big whites") of French origin dominated economic and political life. The British administration employed Indians on indentured servitude to the same degree as in Mauritius resulting in a small Indian population. The Indians, like a similar minority of Chinese, were confined to a merchant class.[38]
 
 Through harmonious socioeconomic policies and developments over the years, today Seychelles is described as a fusion of peoples and cultures. Numerous Seychellois are considered multiracial: blending from African, Asian and European descent to create a modern creole culture. Evidence of this harmonious blend is also revealed in Seychellois food, incorporating various aspects of French, Chinese, Indian and African cuisine.
-
-St_Francis_Church_Mahe.jpg
 
 As the islands of the Seychelles had no indigenous population, the current Seychellois descend from people who immigrated, of which the largest ethnic groups were those of African, French, Indian and Chinese origin. The median age of the Seychellois is 32 years.[39]
 
@@ -166,7 +162,7 @@ Hinduism is practiced by 2.4%, and Islam by 1.6%. Other non-Christian faiths acc
 
 Economy
 
-Mahe_Beach_-_author_with_the_sailfish_by_J._Strzelecki.JPG Colourful_Skirts_at_Seychelles_Market.jpg During the plantation era, cinnamon, vanilla and copra were the chief exports. In 1965, during a three-month visit to the islands, futurist Donald Prell prepared for the then-crown colony Governor General an economic report containing a scenario for the future of the economy. Quoting from his report, in the 1960s, about 33% of the working population worked at plantations, and 20% worked in the public or government sector.[43][44] The Indian Ocean Tracking Station on Mahé used by the Air Force Satellite Control Network was closed in August 1996 after the Seychelles government attempted to raise the rent to more than $10,000,000 per year.
+During the plantation era, cinnamon, vanilla and copra were the chief exports. In 1965, during a three-month visit to the islands, futurist Donald Prell prepared for the then-crown colony Governor General an economic report containing a scenario for the future of the economy. Quoting from his report, in the 1960s, about 33% of the working population worked at plantations, and 20% worked in the public or government sector.[43][44] The Indian Ocean Tracking Station on Mahé used by the Air Force Satellite Control Network was closed in August 1996 after the Seychelles government attempted to raise the rent to more than $10,000,000 per year.
 
 Since independence in 1976, per capita output has expanded to roughly seven times the old near-subsistence level. Growth has been led by the tourist sector, which employs about 30% of the labour force, compared to agriculture which today employs about 3% of the labour force. Despite the growth of tourism, farming and fishing continue to employ some people, as do industries that process coconuts and vanilla.
 
@@ -180,7 +176,7 @@ The national currency of Seychelles is the Seychellois rupee. Initially tied to 
 
 Tourism
 
-Seychelles_083.JPG]] General_hotel.jpg In 1971, with the opening of Seychelles International Airport, tourism became a significant industry, essentially dividing the economy into plantations and tourism. The tourism sector paid better, and the plantation economy could only expand so far. The plantation sector of the economy declined in prominence, and tourism became the primary industry of Seychelles.
+]] In 1971, with the opening of Seychelles International Airport, tourism became a significant industry, essentially dividing the economy into plantations and tourism. The tourism sector paid better, and the plantation economy could only expand so far. The plantation sector of the economy declined in prominence, and tourism became the primary industry of Seychelles.
 
 In recent years the government has encouraged foreign investment to upgrade hotels and other services. These incentives have given rise to an enormous amount of investment in real estate projects and new resort properties, such as project TIME, distributed by the World Bank, along with its predecessor project MAGIC. Despite its growth, the vulnerability of the tourist sector was illustrated by the sharp drop in 1991–1992 due largely to the Gulf War.[47]
 
@@ -197,7 +193,7 @@ In recent years oil has been imported from Kuwait and also from Bahrain. Seychel
 
 Culture
 
-Clock_Tower_-Victoria_-Seychelles2.jpg.]] Seychellois society is essentially matriarchal.[49][50] Mothers tend to be dominant in the household, controlling most expenditures and looking after the interests of the children.[51] Unwed mothers are the societal norm, and the law requires fathers to support their children.[52] Men are important for their earning ability, but their domestic role is relatively peripheral.[53]
+.]] Seychellois society is essentially matriarchal.[49][50] Mothers tend to be dominant in the household, controlling most expenditures and looking after the interests of the children.[51] Unwed mothers are the societal norm, and the law requires fathers to support their children.[52] Men are important for their earning ability, but their domestic role is relatively peripheral.[53]
 
 Education
 
@@ -213,7 +209,7 @@ The administration launched plans to open a university in an attempt to slow dow
 
 Cuisine
 
-Cutting_coconuts_Seychelles.jpg Staple foods include fish, seafood and shellfish dishes, often accompanied with rice.[54][55] Fish dishes are cooked in several ways, such as steamed, grilled, wrapped in banana leaves, baked, salted and smoked.[56] Curry dishes with rice are also a significant aspect of the country's cuisine.[57][58]
+Staple foods include fish, seafood and shellfish dishes, often accompanied with rice.[54][55] Fish dishes are cooked in several ways, such as steamed, grilled, wrapped in banana leaves, baked, salted and smoked.[56] Curry dishes with rice are also a significant aspect of the country's cuisine.[57][58]
 
 Additional food staples include coconut, breadfruit, mangoes and _kordonnyen fish_.[59] Dishes are often garnished with fresh flowers.[60]
 
@@ -248,7 +244,7 @@ Security
 
 Military
 
-INS_Teg_approaching_Port_Victoria,_Seychelles.JPG The Military of Seychelles is the Seychelles People's Defence Force which consists of a number of distinct branches: an Infantry Unit and Coast Guard, Air Force and a Presidential Protection Unit. India has played and continues to play a key role developing the military of Seychelles. After handing over two SDB Mk5 patrol vessels namely INS Tarasa and INS Tarmugli to Seychelles Coast Guard, built by GRSE which were subsequently renamed SCG Constant and SCG Topaz, India also gifted a Dornier Maritime Patrol aircraft built by Hindustan Aeronautics Limited.[73] India also signed a pact to develop Assumption Island, one of the 115 islands that make up the country. Spread over , it is strategically located in the Indian Ocean, north of Madagascar. The island is being leased for the development of infrastructure, a euphemism for developing strategic assets by India.[74]
+The Military of Seychelles is the Seychelles People's Defence Force which consists of a number of distinct branches: an Infantry Unit and Coast Guard, Air Force and a Presidential Protection Unit. India has played and continues to play a key role developing the military of Seychelles. After handing over two SDB Mk5 patrol vessels namely INS Tarasa and INS Tarmugli to Seychelles Coast Guard, built by GRSE which were subsequently renamed SCG Constant and SCG Topaz, India also gifted a Dornier Maritime Patrol aircraft built by Hindustan Aeronautics Limited.[73] India also signed a pact to develop Assumption Island, one of the 115 islands that make up the country. Spread over , it is strategically located in the Indian Ocean, north of Madagascar. The island is being leased for the development of infrastructure, a euphemism for developing strategic assets by India.[74]
 
 Incarceration
 

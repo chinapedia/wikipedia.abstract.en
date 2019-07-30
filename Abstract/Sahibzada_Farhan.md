@@ -1,1 +1,0 @@
-SAHIBZADA FARHAN (; born 6 March 1996) is a Pakistani cricketer.[1] He has played for several domestic teams since 2016 and in June 2018, he was called up to the national team for the first time. In August 2018, he was one of thirty-three players to be awarded a central contract for the 2018–19 season by the Pakistan Cricket Board (PCB).[2][3]

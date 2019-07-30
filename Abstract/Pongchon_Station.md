@@ -1,1 +1,0 @@
-PONGCH'ŎN STATION is a railway station in Pongch'ŏn-dong, Kaech'ŏn municipal city, South P'yŏngan province, North Korea on the Manp'o Line of the Korean State Railway; it is also the starting point of the Pongch'ŏn Colliery Line to Pongch'ŏn Colliery.[1]

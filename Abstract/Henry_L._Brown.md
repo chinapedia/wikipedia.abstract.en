@@ -1,1 +1,0 @@
-HENRY L. BROWN, M.D. (December 9, 1876 – January 12, 1960) was a prominent African- American physician situated in Laurel, Mississippi. He served in World War I (as a part of the Medical Reserve Corps) as commanding officer of 366th Ambulance Company in the 317th Sanitary Train. He later was promoted to a Captain.

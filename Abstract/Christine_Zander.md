@@ -1,1 +1,0 @@
-CHRISTINE ZANDER is an American television writer and producer. She is best known for her work as a writer on NBC's _Saturday Night Live_ (1986–1993).1 She began her comedy career performing for Second City in Chicago.[1]

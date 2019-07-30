@@ -1,1 +1,0 @@
-Coat_of_arms_of_Cesare_Borgia_as_Duke_of_Romagna_and_Valentinois_and_Captain-General_of_the_Church.svg Coat_of_arms_of_Cesare_Borgia_as_Duke_of_Valentinois.svg.]]

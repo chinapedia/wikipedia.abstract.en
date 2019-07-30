@@ -1,1 +1,0 @@
-Souvenir_of_Chicago_in_colors.pdf The V. O. HAMMON PUBLISHING COMPANY was a Chicago-based manufacturer of postcards from the Great Lakes region in the early 20th century.[1][2] As of 1915, the company would buy only postcard rights to negatives from photographers.[3]

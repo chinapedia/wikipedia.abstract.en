@@ -1,5 +1,3 @@
-Typical_bus_in_Apia,_Samoa,_2009.jpg Samoa_coastal_road.jpg
-
 TRANSPORT IN SAMOA includes one international airport situated on the north west coast of Upolu island, paved highways reaching most parts of the two main islands, one main port in the capital Apia and two ports servicing mainly inter island ferries for vehicles and passengers between the two main islands, Upolu and Savai'i.
 
 
@@ -18,7 +16,7 @@ HIGHWAYS:
 
 Ports and Harbors
 
-Samoa_ferry_Fotu_o_Samoa_II.jpg and Savai'i islands.]]
+and Savai'i islands.]]
 
 PORTS AND HARBORS:
 
@@ -29,8 +27,6 @@ PORTS AND HARBORS:
 
 
 Airports
-
-Samoa_605.JPG
 
 AIRPORTS:
 

@@ -1,1 +1,0 @@
-_LITTLE GIRL, GREAT FORTUNE_ (German: _KLEINES MÄDEL - GROSSES GLÜCK_) is a 1933 German comedy film directed by E.W. Emo and starring Dolly Haas, Carl Esmond and Adele Sandrock.[1] A separate Italian version _One Night with You_ was also made.

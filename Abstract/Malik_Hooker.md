@@ -1,1 +1,0 @@
-MALIK HOOKER (born April 2, 1996) is an American football safety for the Indianapolis Colts of the National Football League (NFL). He played college football at Ohio State and was drafted by the Colts with the 15th overall pick in the 2017 NFL Draft. While at Ohio State, Hooker was named a First Team All-American and won the 2015 CFP national championship.

@@ -1,1 +1,0 @@
-MARIEN DE LA ASUNCION (born 6 February 1989) is a French ice dancer who competes for Japan with skating partner Emi Hirai. Together, they are four-time Japanese national silver medalists and have competed at four Four Continents Championships.

@@ -1,1 +1,0 @@
-2016–17 SUPERLEGA is the 72nd season of the Italian Championship (highest level of Italian Volleyball League) organized under the supervision of Federazione Italiana Pallavolo. This season is composed of 14 teams, two more than the last season. Biosì Indexa Sora and Tonno Callipo Calabria Vibo Valentia are the new additions to the league.

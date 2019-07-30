@@ -1,1 +1,0 @@
-EDWARD ELMER SMITH (May 2, 1890 – August 31, 1965), better known by his pen name E. E. "DOC" SMITH, was an American food engineer (specializing in doughnut and pastry mixes) and science-fiction author, best known for the _Lensman_ and _Skylark_ series. He is sometimes called the father of space opera.

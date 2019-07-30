@@ -1,1 +1,0 @@
-COMET is an unincorporated community in southeast Dade County, in the U.S. state of Missouri.[1] The community lies on the banks of the Sac River, approximately six miles north-northwest of Ash Grove.[2]

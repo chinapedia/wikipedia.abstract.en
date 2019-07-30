@@ -1,1 +1,0 @@
-The BOOK OF MICAH is the sixth of the twelve minor prophets in the Hebrew Bible{{\}}Old Testament.[1] Ostensibly, it records the sayings of Micah, whose name is _Mikayahu_ (), meaning "Who is like Yahweh?",[2] an 8th-century BC prophet from the village of Moresheth in Judah (Hebrew name from the opening verse: מיכה המרשתי).[3]

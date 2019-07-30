@@ -1,1 +1,0 @@
-The RED CROSS OF SERBIA () is a humanitarian, non-governmental organisation that provides humanitarian aid, disaster relief and education in Serbia. It is the national affiliate of the International Federation of Red Cross and Red Crescent Societies.

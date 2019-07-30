@@ -1,1 +1,0 @@
-AROKIASWAMY VELUMANI (born April 1959) is an Indian scientist and entrepreneur. He is the founder, chairman and managing director of Thyrocare Technologies Ltd. a chain of diagnostic and preventive care laboratories headquartered in Navi Mumbai.[1] He is the founder and managing director of Nueclear Healthcare Limited, a radiology diagnostics company affiliated to Thyrocare.[2]

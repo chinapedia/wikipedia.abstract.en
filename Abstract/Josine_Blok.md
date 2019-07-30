@@ -1,1 +1,0 @@
-Blok_Josine_Foto_Henk_Thomas.jpg JOSINE HENRIËTTE BLOK (born 9 June 1953)[1] is a Dutch classical scholar. She has been a professor of Ancient History and Classical Civilisation at Utrecht University since 2001.

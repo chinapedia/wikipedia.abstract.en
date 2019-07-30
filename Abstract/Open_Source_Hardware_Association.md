@@ -1,1 +1,0 @@
-The OPEN SOURCE HARDWARE ASSOCIATION (OSHWA) is a non-profit organization that advocates for open-source hardware.[1][2] It aims to act as a hub of open source hardware activity of all types while actively cooperating with other initiatives such as the TAPR Open Hardware License, open-source development groups at CERN, and the Open Source Initiative (OSI).

@@ -1,1 +1,0 @@
-GASPARE RICCIULLO DEL FOSSO, O.M. (1496–1592) was a Roman Catholic prelate who served as Archbishop of Reggio Calabria (1560–1592),[1] Bishop of Calvi Risorta (1551–1560),[2] and Bishop of Scala (1548–1551).[3]

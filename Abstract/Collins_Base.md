@@ -1,1 +1,0 @@
-The COLLINS BASE is an Antarctic shelter located in the Collins Glacier that is in the Collins Bay in the Fildes Peninsula, King George Island. It was inaugurated at the 2006-2007 season and is administrated by the Instituto Antártico Chileno (INACH).[1][2]

@@ -1,1 +1,0 @@
-REBECA Z. GYUMI is a Founder & Executive Director at Msichana Initiative, a Tanzanian NGO which aims to empower a girl child through education, and address key challenges which limit girl’s right to education. She has worked for over 8 years with Femina, a youth focused organisation as a TV personality and youth advocate. .[1][2]

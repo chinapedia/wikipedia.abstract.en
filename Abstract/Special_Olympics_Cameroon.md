@@ -1,1 +1,0 @@
-SPECIAL OLYMPICS CAMEROON (French: __) is the national sports federation for people with intellectual disabilities. Founded in 2005, the Chairman of the Board was Christophe Ampouam and Director was Jean-Marie Aléokol Mabiemé.

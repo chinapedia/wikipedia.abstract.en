@@ -1,1 +1,0 @@
-KRISTIAN WOOLF (born 6 July 1975) is an Australian professional rugby league football coach who is the head coach of the Tongan national team and an assistant coach for the Newcastle Knights in the NRL.

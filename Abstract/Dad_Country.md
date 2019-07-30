@@ -1,1 +1,0 @@
-_DAD COUNTRY_ is the third album by American country musician Jonny Fritz, and his first under his real name (as opposed to his stage name, Jonny Corndawg). It was released on ATO Records on April 15, 2013, and was co-produced by Fritz and Dawes guitarist-singer Taylor Goldsmith.[1]

@@ -1,1 +1,0 @@
-KENNY HUNTER (born 1962) is a Scottish sculptor. He lives and works in Edinburgh. Between 2015 - 2018, he was Programme Director of Sculpture at Edinburgh College of Art[1] where he now continues to work part-time as a lecturer in Fine Art, Sculpture.[2]

@@ -1,1 +1,0 @@
-MUNGER AIRPORT (also known as _' Safyabad Airport_'[1]) is an airport located in Munger district in the Indian state of Bihar.[2] The airport is situated at Saifabad, 5 km from the district headquarters of Munger.[3] It is controlled by the Airports Authority of India.

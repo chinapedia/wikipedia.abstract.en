@@ -1,1 +1,0 @@
-POPE CELESTINE I (; died 1 August 432) was Pope from 10 September 422 to his death in 432. According to the _Liber Pontificalis_, the start of his papacy was 3 November.[1] However, Tillemont places the date at 10 September.[2]

@@ -1,1 +1,0 @@
-DICKY CREEK (also spelled DICKEY CREEK) is a stream in Douglas County, Missouri.[1] The stream originates on the south side of a ridge below Missouri State Highway 76 about 3.5 miles east of Ava and it flows south-southeast through a narrow valley for about 3.7 miles to its junction with Hunter Creek.[2][3]

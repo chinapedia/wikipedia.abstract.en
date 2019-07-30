@@ -1,1 +1,0 @@
-DONALD ERVIN KNUTH ([1] ; born January 10, 1938) is an American computer scientist, mathematician, and professor emeritus at Stanford University. He is the 1974 recipient of the ACM Turing Award, informally considered the Nobel Prize of computer science.[2][3]

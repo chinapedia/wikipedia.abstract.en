@@ -1,1 +1,0 @@
-VEMURI ANJANEYA SARMA (24 October 1917 - 6 May 2003) was an Indian writer in the Telugu and Hindi languages. He was active in literary and cultural fields in the Indian independence movement, and became an important figure in the Dakshina Bharat Hindi Prachar Sabha (DBHP), a Hindi-language movement in South India.

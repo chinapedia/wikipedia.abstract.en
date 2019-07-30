@@ -1,1 +1,0 @@
-KARŞIYAKA FERRY TERMINAL () is ferry terminal in Karşıyaka, İzmir on the Gulf of İzmir. Located along Cemal Gürsel Avenue, at the southern end of the Karşıyaka Çarşı, İzdeniz operates commuter ferry to service to Alsancak, Konak, Göztepe and Üçkuyular.

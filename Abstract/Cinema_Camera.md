@@ -1,1 +1,0 @@
-2012_Blackmagic_Cinema_Camera_front_2013_CP+.jpg with a lens attached.]] The CINEMA CAMERA is a line of digital movie cameras developed and manufactured by Blackmagic Design, introduced in September 4, 2012. They are a series of small form-factor cameras that shoot in either 4K, 2.5K and 1080p and are meant to be versatile compared to standard digital movie cameras.

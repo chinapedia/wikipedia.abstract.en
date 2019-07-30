@@ -1,1 +1,0 @@
-YANA "FOXY" KUNITSKAYA (born November 11, 1989) is a Russian mixed martial artist in the bantamweight division in the Ultimate Fighting Championship (UFC). As July 15, 2019 she is #8 in the official UFC bantamweight rankings.[1]

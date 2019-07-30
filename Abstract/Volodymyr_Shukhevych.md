@@ -1,1 +1,0 @@
-Володимир_Шухевич.jpg VOLODYMYR OSYPOVYCH SHUKHEVYCH (, pseudonym, V. Sh. Shumylo, ) (15 March 1849, Tyshkivtsi village, Horodenkyi district, Ivano-Frankivsk region, Ukraine – 10 April 1915, Lviv, Ukraine) – was a Ukrainian public figure, writer, ethnographer and teacher.

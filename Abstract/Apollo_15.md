@@ -1,1 +1,0 @@
-APOLLO 15 was the ninth crewed mission in the United States' Apollo program, the eighth to be successful, and the fourth to land on the Moon. It was the first J mission, with a longer stay on the Moon and a greater focus on science than earlier landings. Apollo 15 saw the first use of the Lunar Roving Vehicle.

@@ -1,1 +1,0 @@
-Tanguy_Viel.jpg

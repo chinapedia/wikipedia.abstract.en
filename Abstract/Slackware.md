@@ -1,1 +1,0 @@
-SLACKWARE is a Linux distribution created by Patrick Volkerding in 1993. Originally based on Softlanding Linux System, Slackware has been the basis for many other Linux distributions, most notably the first versions of SUSE Linux distributions, and is the oldest distribution that is still maintained.[1]

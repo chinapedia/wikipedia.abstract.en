@@ -1,1 +1,0 @@
-The 1928 BROWNLOW MEDAL was the fifth year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Ivor Warne-Smith of the Melbourne Football Club won the medal by polling eight votes during the 1928 VFL season.[2]

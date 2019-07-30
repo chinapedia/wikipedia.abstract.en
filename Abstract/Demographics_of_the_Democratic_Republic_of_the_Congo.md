@@ -1,1 +1,0 @@
-Fufuprep.jpg.]] This article is about the demographic features of the population of the Democratic Republic of the Congo, including ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.

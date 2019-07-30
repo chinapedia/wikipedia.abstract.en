@@ -1,1 +1,0 @@
-William_Herring.jpg WILLIAM HERRING (January 31, 1833July 10, 1912) was an American lawyer, politician, and businessman. He represented Westchester County, New York, during the 1873 session of the New York State Assembly and was a Republican.[1]

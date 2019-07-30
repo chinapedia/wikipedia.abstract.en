@@ -1,1 +1,0 @@
-The PTOLEMAIC DYNASTY (; , _Ptolemaioi_), sometimes also known as the LAGIDS () or LAGIDAE (; , _Lagidai_, after Lagus, Ptolemy I's father), was a Macedonian Greek[1][2][3][4][5] royal family, which ruled the Ptolemaic Kingdom in Egypt during the Hellenistic period. Their rule lasted for 275 years, from 305 to 30 BC.[6] They were the last dynasty of ancient Egypt.

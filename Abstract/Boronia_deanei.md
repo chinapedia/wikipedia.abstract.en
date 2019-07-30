@@ -1,1 +1,0 @@
-_BORONIA DEANEI_, commonly known as DEANE'S BORONIA,[1] is a plant in the citrus family Rutaceae and is endemic to the central and southern highlands of New South Wales. It is an erect shrub with crowded, strongly aromatic leaves and white to bright pink flowers in late winter and spring.

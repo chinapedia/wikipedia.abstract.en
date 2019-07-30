@@ -1,1 +1,0 @@
-_HEATHERS_ is a 1988 American dark comedy[1] film written by Daniel Waters and directed by Michael Lehmann. It stars Winona Ryder and Christian Slater. The film portrays four teenage girls—three of whom are named Heather—in a clique at an Ohio high school.[2]

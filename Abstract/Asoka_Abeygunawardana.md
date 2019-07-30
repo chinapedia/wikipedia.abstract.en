@@ -1,1 +1,0 @@
-Asoka_Abeygunawardana.jpg

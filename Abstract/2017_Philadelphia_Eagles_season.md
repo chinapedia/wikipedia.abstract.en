@@ -1,1 +1,0 @@
-The 2017 PHILADELPHIA EAGLES SEASON was the franchise's 85th season in the National Football League, their 15th playing their home games at Lincoln Financial Field and the second under head coach Doug Pederson. Philadelphia won its first-ever Super Bowl title, as well as the franchise's first NFL Championship since 1960.

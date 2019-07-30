@@ -1,1 +1,0 @@
-_BEACH BITES WITH KATIE LEE_ is an American food travelogue television series that airs on Cooking Channel. It is presented by chef Katie Lee. The series features Lee traveling to different beach destinations and eating the local cuisine.[1][2]

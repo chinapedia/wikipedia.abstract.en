@@ -1,1 +1,0 @@
-The ADIOS PACE is a horse race for three-year-old Standardbred colts and geldings run annually since 1967 at a distance of one mile at Meadows Racetrack in North Strabane Township, Washington County, Pennsylvania.[1]

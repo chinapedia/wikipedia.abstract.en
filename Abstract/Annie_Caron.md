@@ -1,1 +1,0 @@
-'''Annie Caron ''' (born 6 May 1964) is a Canadian footballer who played both as a forward and midfielder for the Canada women's national soccer team. She was part of the team at the 1995 FIFA Women's World Cup.[1]

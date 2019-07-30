@@ -1,1 +1,0 @@
-THE FAMILY INTERNATIONAL (TFI) is a cult[1][2] which was founded in Huntington Beach, California, US in 1968. It was originally named TEENS FOR CHRIST and it later gained notoriety as THE CHILDREN OF GOD (COG). It was later renamed and reorganized as THE FAMILY OF LOVE, which was eventually shortened to THE FAMILY. It is currently named THE FAMILY INTERNATIONAL.

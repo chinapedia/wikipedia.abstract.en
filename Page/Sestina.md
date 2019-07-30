@@ -5,7 +5,7 @@ The invention of the form is usually attributed to Arnaut Daniel, a troubadour o
 
 History
 
-Arnaut_Daniel_-_BN_MS_fr_12473.jpg The oldest-known sestina is "Lo ferm voler qu'el cor m'intra", written around 1200 by Arnaut Daniel, a troubadour of Aquitanian origin; he refers to it as "cledisat", meaning, more or less, "interlock".[1] Hence, Daniel is generally considered the form's inventor,[2] though it has been suggested that he may only have innovated an already existing form.[3] Nevertheless, two other original troubadouric sestinas are known,[4] the best known being "Eras, pus vey mon benastruc" by Guilhem Peire Cazals de Caortz; there are also two contrafacta built on the same end-words, the best known being _Ben gran avoleza intra_ by Bertran de Born. These early sestinas were written in Old Occitan; the form started spilling into Italian with Dante in the 13th century; by the 15th, it was used in Portuguese by Luís de Camões.[5][6]
+The oldest-known sestina is "Lo ferm voler qu'el cor m'intra", written around 1200 by Arnaut Daniel, a troubadour of Aquitanian origin; he refers to it as "cledisat", meaning, more or less, "interlock".[1] Hence, Daniel is generally considered the form's inventor,[2] though it has been suggested that he may only have innovated an already existing form.[3] Nevertheless, two other original troubadouric sestinas are known,[4] the best known being "Eras, pus vey mon benastruc" by Guilhem Peire Cazals de Caortz; there are also two contrafacta built on the same end-words, the best known being _Ben gran avoleza intra_ by Bertran de Born. These early sestinas were written in Old Occitan; the form started spilling into Italian with Dante in the 13th century; by the 15th, it was used in Portuguese by Luís de Camões.[5][6]
 
 The involvement of Dante and Petrarch in establishing the sestina form,[7] together with the contributions of others in the country, account for its classification as an Italian verse form—despite not originating there.[8] The result was that the sestina was re-imported into France from Italy in the 16th century.[9] Pontus de Tyard was the first poet to attempt the form in French, and the only one to do so prior to the 19th century; he introduced a partial rhyme scheme in his sestina.[10]
 
@@ -22,13 +22,11 @@ From the 1930s, a revival of the form took place across the English-speaking wor
 
 Form
 
-Sestina_system_alt.svg Although the sestina has been subject to many revisions throughout its development, there remain several features that define the form. The sestina is composed of six stanzas of six lines (sixains), followed by a stanza of three lines (a tercet).[26][27] There is no rhyme within the stanzas;[28] instead the sestina is structured through a recurrent pattern of the words that end each line,[29] a technique known as "lexical repetition".[30]
+Although the sestina has been subject to many revisions throughout its development, there remain several features that define the form. The sestina is composed of six stanzas of six lines (sixains), followed by a stanza of three lines (a tercet).[26][27] There is no rhyme within the stanzas;[28] instead the sestina is structured through a recurrent pattern of the words that end each line,[29] a technique known as "lexical repetition".[30]
 
 In the original form composed by Daniel, each line is of ten syllables, except the first of each stanza which are of seven.[31] The established form, as developed by Petrarch and Dante, was in hendecasyllables.[32] Since then, changes to the line length have been a relatively common variant,[33] such that Stephanie Burt has written: "sestinas, as the form exists today, [do not] require expertise with inherited meter ...".[34]
 
 The pattern that the line-ending words follow is often explained if the numbers 1 to 6 are allowed to stand for the end-words of the first stanza. Each successive stanza takes its pattern based upon a bottom-up pairing of the lines of the preceding stanza (i.e., last and first, then second-from-last and second, then third-from-last and third).[35] Given that the pattern for the first stanza is 123456, this produces 615243 in the second stanza.
-
-Sestina_system_retrogradatio_cruciata.svg
 
 Another way of visualising the pattern of line-ending words for each stanza is by the procedure known as _retrogradatio cruciata_, which may be rendered as "backward crossing".[36] The second stanza can be seen to have been formed from three sets of pairs (6–1, 5–2, 4–3), or two triads (1–2–3, 4–5–6). The 1–2–3 triad appears in its original order, but the 4–5–6 triad is reversed and superimposed upon it.[37]
 

@@ -1,1 +1,0 @@
-The 2016–17 ISRAELI BASKETBALL STATE CUP was the 57th edition of the Israeli Basketball State Cup, organized by the Israel Basketball Association. Maccabi Tel Aviv won its 44th State Cup title after beating Hapoel Jerusalem in the Final.

@@ -1,1 +1,0 @@
-The TURHAN CEMAL BERIKER BOULEVARD is a major thoroughfare through the Seyhan district of Adana, Turkey. With the Girne (Kyrenia) and Cemal Gürsel Boulevards, the Turhan Cemal Beriker Boulevard forms the D400 state roadway through the city of Adana. Historically, the boulevard is located on the P1 state roadway and E5.

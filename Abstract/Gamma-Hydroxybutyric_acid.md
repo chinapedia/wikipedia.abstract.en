@@ -1,1 +1,0 @@
-Γ-HYDROXYBUTYRIC ACID (GHB), also known as 4-HYDROXYBUTANOIC ACID, is a naturally occurring neurotransmitter and a psychoactive drug. It is a precursor to GABA, glutamate, and glycine in certain brain areas. It acts on the GHB receptor and is a weak agonist at the GABA_(B) receptor.

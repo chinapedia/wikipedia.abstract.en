@@ -1,1 +1,0 @@
-JALAL KHAN (born 13 August 1927) is a Pakistani former javelin thrower. Khan represented Pakistan at the 1952 Summer Olympics and 1956 Summer Olympics.[1] During the 1950s he was a two-time Asian Games silver medallist and won both a silver and bronze medal in the British Commonwealth Games.[2][3] His personal best, 73.16m, was set in 1959.

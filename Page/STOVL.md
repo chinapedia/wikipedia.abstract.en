@@ -1,4 +1,4 @@
-FA2_Sea_Harrier_Launches_from_HMS_Illustrious_MOD_45139505.jpg in 2001]]
+in 2001]]
 
 A SHORT TAKE-OFF AND VERTICAL LANDING AIRCRAFT (STOVL AIRCRAFT) is a fixed-wing aircraft that is able to take off from a short runway (or take off vertically if it does not have a heavy payload) and land vertically (i.e. with no runway). The formal NATO definition (since 1991) is:
 
@@ -7,7 +7,7 @@ On aircraft carriers, non-catapult-assisted, fixed-wing short takeoffs are accom
 
 History
 
-LiftThrust1.PNG In 1951, the Lockheed XFV and the Convair XFY Pogo tailsitters were both designed around the Allison YT40 turboprop engine driving contra-rotating propellers.
+In 1951, the Lockheed XFV and the Convair XFY Pogo tailsitters were both designed around the Allison YT40 turboprop engine driving contra-rotating propellers.
 
 The British Hawker P.1127 took off vertically in 1960, and demonstrated conventional take-off in 1961. It was developed into the Hawker Siddeley Harrier which flew in 1967.
 

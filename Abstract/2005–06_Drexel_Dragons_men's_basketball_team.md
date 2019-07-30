@@ -1,1 +1,0 @@
-The 2005–06 DREXEL DRAGONS MEN'S BASKETBALL TEAM represented Drexel University during the 2005–06 NCAA Division I men's basketball season. The Dragons, led by 5th year head coach Bruiser Flint, played their home games at the Daskalakis Athletic Center and were members of the Colonial Athletic Association.

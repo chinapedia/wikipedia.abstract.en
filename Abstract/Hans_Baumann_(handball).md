@@ -1,1 +1,0 @@
-HANS BAUMANN (1906 – 7 February 1971), was a Swiss architect and sports administrator who was one of the founding members of the International Handball Federation. He served as the second President of the International Handball Federation (IHF) from 1950 to 1971. He currently holds the record of serving longest term as the head of the IHF (21 years).

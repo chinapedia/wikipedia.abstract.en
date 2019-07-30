@@ -1,1 +1,0 @@
-JASMIN EDER (born 8 October 1992) is an Austrian women's international footballer. She was a member of the Austria women's national football team from 2011–2013, playing 12 matches.[1][2] She was part of the team at the 2014 Algarve Cup. On club level she played for FC Bayern München, BV Cloppenburg and VfL Sindelfingen.

@@ -1,1 +1,0 @@
-SELF-DEFENSE FORCES (, abbreviated as HXP; , ) is a multi-ethnic territorial defense militia and the only conscripted armed force in the Autonomous Administration of North and East Syria. As a self-defense force, manpower for the HXP is recruited locally.

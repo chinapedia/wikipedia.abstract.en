@@ -1,1 +1,0 @@
-FRANK MOTLEY, JR. (December 30, 1923 – May 31, 1998)[1] was an American R&B and jazz musician and bandleader who worked in Canada for much of his career. His main instrument was the trumpet, on which he was known for playing two simultaneously. He also sang, and played trombone.

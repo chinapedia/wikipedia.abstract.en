@@ -1,1 +1,0 @@
-CHUA JIM NEO (; 1907 – 8 August 1980), also known as MRS. LEE CHIN KOON (), was a Singaporean cookbook writer best known for _Mrs. Lee's Cookbook_, which preserves the recipes of Peranakan cuisine. Chua was also the mother of Lee Kuan Yew, the first Prime Minister of Singapore.

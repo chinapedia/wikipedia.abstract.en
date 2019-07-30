@@ -1,1 +1,0 @@
-upright=0.9 and the Sovereign Military Order of Malta]] upright=0.9 to the United States, in Washington D.C.]] Ambassade_des_pays_nordiques_(Berlin)_(6298294868).jpg, Finland, Iceland, Norway, and Sweden to Germany in Berlin]]

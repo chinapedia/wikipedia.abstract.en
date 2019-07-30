@@ -1,1 +1,0 @@
-SEAN MCMEEKIN (born May 10, 1974 in Idaho) is an American historian. He is a specialist in European history of the early 20th century, especially regarding the origins of the First World War, and the role of Russia and the Ottoman Empire. He is currently Francis Flournoy Professor of European History and Culture at Bard College in upstate New York.

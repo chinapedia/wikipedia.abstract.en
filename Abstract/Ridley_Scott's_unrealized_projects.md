@@ -1,1 +1,0 @@
-The following is A LIST OF UNPRODUCED RIDLEY SCOTT PROJECTS in roughly chronological order. During his long career, English film director and producer Ridley Scott has worked on a number of projects which never progressed beyond the pre-production stage under his direction. Some of these projects, fell in development hell or are officially canceled.

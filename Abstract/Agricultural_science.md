@@ -1,1 +1,0 @@
-AGRICULTURAL SCIENCE is a broad multidisciplinary field of biology that encompasses the parts of exact, natural, economic and social sciences that are used in the practice and understanding of agriculture. (Veterinary science, but not animal science, is often excluded from the definition.)

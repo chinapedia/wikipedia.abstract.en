@@ -24,7 +24,7 @@ The name of Zanzibar comes from "zenji", the name for a local people (said to me
 
 History
 
-Olduvai_stone_chopping_tool_(cropped).jpg and on display at the British Museum]]
+and on display at the British Museum]]
 
 Ancient
 
@@ -44,11 +44,11 @@ Travelers and merchants from the Persian Gulf and India have visited the east Af
 
 Colonial
 
-City_of_Kilwa,_1572.jpg, a UNESCO World Heritage Site]]
+, a UNESCO World Heritage Site]]
 
 Claiming the coastal strip, Omani Sultan Said bin Sultan moved his capital to Zanzibar City in 1840. During this time, Zanzibar became the centre for the Arab slave trade.[35] Between 65 and 90 percent of the Arab-Swahili population of Zanzibar was enslaved.[36] One of the most infamous slave traders on the East African coast was Tippu Tip, who was the grandson of an enslaved African. The Nyamwezi slave traders operated under the leadership of Msiri and Mirambo.[37] According to Timothy Insoll, "Figures record the exporting of 718,000 slaves from the Swahili coast during the 19th century, and the retention of 769,000 on the coast."[38] In the 1890s, slavery was abolished.[39]
 
-Wilhelm_Kuhnert_Schlacht_bei_Mahenge.jpg against German colonial rule in 1905]]
+against German colonial rule in 1905]]
 
 In the late 19th century, Germany conquered the regions that are now Tanzania (minus Zanzibar) and incorporated them into German East Africa (GEA). The Supreme Council of the 1919 Paris Peace Conference awarded all of GEA to Britain on 7 May 1919, over the strenuous objections of Belgium.[40] The British colonial secretary, Alfred Milner, and Belgium's minister plenipotentiary to the conference, , then negotiated the Anglo-Belgian agreement of 30 May 1919[41] where Britain ceded the north-western GEA provinces of Ruanda and Urundi to Belgium.[42] The conference's Commission on Mandates ratified this agreement on 16 July 1919.[43] The Supreme Council accepted the agreement on 7 August 1919.[44] On 12 July 1919, the Commission on Mandates agreed that the small Kionga Triangle south of the Rovuma River would be given to Portuguese Mozambique,[45] with it eventually becoming part of independent Mozambique. The commission reasoned that Germany had virtually forced Portugal to cede the triangle in 1894.[46] The Treaty of Versailles was signed on 28 July 1919, although the treaty did not take effect until 10 January 1920. On that date, the GEA was transferred officially to Britain, Belgium, and Portugal. Also on that date, "Tanganyika" became the name of the British territory.
 
@@ -64,7 +64,7 @@ After the Zanzibar Revolution overthrew the Arab dynasty in neighbouring Zanziba
 
 Following Tanganyika's independence and unification with Zanzibar leading to the state of Tanzania, President Nyerere emphasised a need to construct a national identity for the citizens of the new country. To achieve this, Nyerere provided what is regarded as one of the most successful cases of ethnic repression and identity transformation in Africa.[57] With over 130 languages spoken within its territory, Tanzania is one of the most ethnically diverse countries in Africa. Despite this obstacle, ethnic divisions remained rare in Tanzania when compared to the rest of the continent, notably its immediate neighbour, Kenya. Furthermore, since its independence, Tanzania has displayed more political stability than most African countries, particularly due to Nyerere's ethnic repression methods.[58]
 
-Arusha_Declaration_Monument.jpg]] In 1967, Nyerere's first presidency took a turn to the left after the Arusha Declaration, which codified a commitment to socialism as well as Pan-Africanism. After the declaration, banks and many large industries were nationalised.
+]] In 1967, Nyerere's first presidency took a turn to the left after the Arusha Declaration, which codified a commitment to socialism as well as Pan-Africanism. After the declaration, banks and many large industries were nationalised.
 
 Tanzania was also aligned with China, which from 1970 to 1975 financed and helped build the TAZARA Railway from Dar es Salaam to Zambia.[59] Nonetheless, from the late 1970s, Tanzania's economy took a turn for the worse, in the context of an international economic crisis affecting both developed and developing economies.
 
@@ -75,9 +75,9 @@ In 1992, the Constitution of Tanzania was amended to allow multiple political pa
 
 Geography
 
-Koppen-Geiger_Map_TZA_present.svg At ,[63] Tanzania is the 13th largest country in Africa and the 31st largest in the world, ranked between the larger Egypt and smaller Nigeria.[64] It borders Kenya and Uganda to the north; Rwanda, Burundi, and the Democratic Republic of the Congo to the west; and Zambia, Malawi, and Mozambique to the south. Tanzania is located on the eastern coast of Africa and has an Indian Ocean coastline approximately long.[65] It also incorporates several offshore islands, including Unguja (Zanzibar), Pemba, and Mafia.[66] The country is the site of Africa's highest and lowest points: Mount Kilimanjaro, at above sea level, and the floor of Lake Tanganyika, at below sea level, respectively.[67]
+At ,[63] Tanzania is the 13th largest country in Africa and the 31st largest in the world, ranked between the larger Egypt and smaller Nigeria.[64] It borders Kenya and Uganda to the north; Rwanda, Burundi, and the Democratic Republic of the Congo to the west; and Zambia, Malawi, and Mozambique to the south. Tanzania is located on the eastern coast of Africa and has an Indian Ocean coastline approximately long.[65] It also incorporates several offshore islands, including Unguja (Zanzibar), Pemba, and Mafia.[66] The country is the site of Africa's highest and lowest points: Mount Kilimanjaro, at above sea level, and the floor of Lake Tanganyika, at below sea level, respectively.[67]
 
-Wildebeest_Migration_in_Serengeti_National_Park,_Tanzania.jpg]] Tanzania is mountainous and densely forested in the northeast, where Mount Kilimanjaro is located. Three of Africa's Great Lakes are partly within Tanzania. To the north and west lie Lake Victoria, Africa's largest lake, and Lake Tanganyika, the continent's deepest lake, known for its unique species of fish. To the southwest lies Lake Nyasa. Central Tanzania is a large plateau, with plains and arable land. The eastern shore is hot and humid, with the Zanzibar Archipelago just offshore.
+]] Tanzania is mountainous and densely forested in the northeast, where Mount Kilimanjaro is located. Three of Africa's Great Lakes are partly within Tanzania. To the north and west lie Lake Victoria, Africa's largest lake, and Lake Tanganyika, the continent's deepest lake, known for its unique species of fish. To the southwest lies Lake Nyasa. Central Tanzania is a large plateau, with plains and arable land. The eastern shore is hot and humid, with the Zanzibar Archipelago just offshore.
 
 Kalambo Falls in the southwestern region of Rukwa is the second highest uninterrupted waterfall in Africa, and is located near the southeastern shore of Lake Tanganyika on the border with Zambia.[68] The Menai Bay Conservation Area is Zanzibar's largest marine protected area.
 
@@ -89,7 +89,7 @@ Tanzania has two major rainfall regimes: one is uni-modal (October–April) and 
 
 Wildlife and conservation
 
-Giraffes_Arusha_Tanzania.jpg. The giraffe is the national animal.]]
+. The giraffe is the national animal.]]
 
 Approximately 38 percent of Tanzania's land area is set aside in protected areas for conservation.[72] Tanzania has 16 national parks,[73] plus a variety of game and forest reserves, including the Ngorongoro Conservation Area. In western Tanzania, Gombe Stream National Park is the site of Jane Goodall's ongoing study of chimpanzee behaviour, which started in 1960.[74][75]
 
@@ -134,7 +134,7 @@ Tanzania has the highest occurrence of this human rights violation among 27 Afri
 
 Zanzibar
 
-Spice_Islands_(Zanzibar_highlighted)_sv.svg]]
+]]
 
 The legislative authority in Zanzibar over all non-union matters is vested in the House of Representatives (per the Tanzania constitution)[110] or the Legislative Council (per the Zanzibar constitution).
 
@@ -148,7 +148,7 @@ The House of Representatives is composed of elected members, ten members appoint
 
 Administrative subdivisions
 
-Tanzania,_administrative_divisions_-_de_-_colored_(+details).svg In 1972, local government on the mainland was abolished and replaced with direct rule from the central government. Local government, however, was reintroduced in the beginning of the 1980s, when the rural councils and rural authorities were re-established. Local government elections took place in 1983, and functioning councils started in 1984. In 1999, a Local Government Reform Programme was enacted by the National Assembly, setting "a comprehensive and ambitious agenda ... [covering] four areas: political decentralization, financial decentralization, administrative decentralization and changed central-local relations, with the mainland government having over-riding powers within the framework of the Constitution."[125]
+In 1972, local government on the mainland was abolished and replaced with direct rule from the central government. Local government, however, was reintroduced in the beginning of the 1980s, when the rural councils and rural authorities were re-established. Local government elections took place in 1983, and functioning councils started in 1984. In 1999, a Local Government Reform Programme was enacted by the National Assembly, setting "a comprehensive and ambitious agenda ... [covering] four areas: political decentralization, financial decentralization, administrative decentralization and changed central-local relations, with the mainland government having over-riding powers within the framework of the Constitution."[125]
 
 As of 2016, Tanzania is divided into thirty-one regions. regions (_mkoa_),[126][127] twenty-six on the mainland and five in Zanzibar (three on Unguja, two on Pemba).[128] In 2012, the thirty former regions were divided into 169 districts (wilaya), also known as local government authorities. Of those districts, 34 were urban units, which were further classified as three city councils (Arusha, Mbeya, and Mwanza), nineteen municipal councils, and twelve town councils.[129]
 
@@ -160,7 +160,7 @@ Foreign relations
 
 Bilateral relations
 
-Tanzanian_Embassy_Washington.JPG in West End, Washington, D.C., USA]] Apart from its border dispute with Malawi, Tanzania had cordial relations with its neighbours in 2012.[133]
+in West End, Washington, D.C., USA]] Apart from its border dispute with Malawi, Tanzania had cordial relations with its neighbours in 2012.[133]
 
 Relations between Tanzania and Malawi have been tense because of a dispute over the countries' Lake Nyasa (Lake Malawi) border. An unsuccessful mediation regarding this issue took place in March 2014.[134][135][136] The two countries agreed in 2013 to ask the International Court of Justice (ICJ) to resolve the dispute should mediation be unsuccessful.[137] Malawi, but not Tanzania, has accepted the compulsory jurisdiction of the ICJ.[138]
 
@@ -182,18 +182,16 @@ As of 31 October 2014, Tanzania was contributing 2,253 soldiers and other person
 
 Military
 
-FIB-training-22_(9311333487).jpg
-
 
 Economy and infrastructure
 
-Bank_of_Tanzania_golden_hour.jpg]] , according to the IMF, Tanzania's gross domestic product (GDP) was an estimated $56.7 billion (nominal), or $176.5 billion on a purchasing power parity (PPP) basis. GDP per capita (PPP) was $3,457.[158]
+]] , according to the IMF, Tanzania's gross domestic product (GDP) was an estimated $56.7 billion (nominal), or $176.5 billion on a purchasing power parity (PPP) basis. GDP per capita (PPP) was $3,457.[158]
 
 From 2009 through 2013, Tanzania's per capita GDP (based on constant local currency) grew an average of 3.5% per year, higher than any other member of the East African Community (EAC) and exceeded by only nine countries in Sub-Saharan Africa: the Democratic Republic of the Congo, Ethiopia, Ghana, Lesotho, Liberia, Mozambique, Sierra Leone, Zambia, and Zimbabwe.[159]
 
 Tanzania's largest trading partners in 2017 for its US$5.3 billion in exports were India, Vietnam, South Africa, Switzerland, and China.[160] Its imports totalled US$8.17 billion, with India, Switzerland, Saudi Arabia, China, and the United Arab Emirates being the biggest partners.[161]
 
-The_close_view_of_the_Kariakoo_market_in_Dar_es_Salaam.JPG market in Dar es Salaam]] Tanzania weathered the Great Recession, which began in late 2008 or early 2009, relatively well. Strong gold prices, bolstering the country's mining industry, and Tanzania's poor integration into global markets helped to insulate the country from the downturn.[162] Since the recession ended, the Tanzanian economy has expanded rapidly thanks to strong tourism, telecommunications, and banking sectors.[163]
+market in Dar es Salaam]] Tanzania weathered the Great Recession, which began in late 2008 or early 2009, relatively well. Strong gold prices, bolstering the country's mining industry, and Tanzania's poor integration into global markets helped to insulate the country from the downturn.[162] Since the recession ended, the Tanzanian economy has expanded rapidly thanks to strong tourism, telecommunications, and banking sectors.[163]
 
 According to the United Nations Development Program, however, recent growth in the national economy has benefited only the "very few", leaving out the majority of the population.[164] Tanzania's 2013 Global Hunger Index was worse than any other country in the EAC except Burundi.[165] The proportion of persons who were undernourished in 2010–12 was also worse than any other EAC country except Burundi.[166]
 
@@ -207,8 +205,6 @@ There are very few resources for Tanzanians in terms of credit services, infrast
 
 Agriculture
 
-Tea_fields,_Tukuyu,_Tanzania.jpg
-
 The Tanzanian economy is heavily based on agriculture, which in 2013 accounted for 24.5 percent of gross domestic product,[174] provides 85% of exports,[175] and accounted for half of the employed workforce;[176] The agricultural sector grew 4.3 percent in 2012, less than half of the Millennium Development Goal target of 10.8%.[177] 16.4 percent of the land is arable,[178] with 2.4 percent of the land planted with permanent crops.[179] Tanzania's economy relies on farming, but climate change has impacted their farming.
 
 Maize was the largest food crop on the Tanzania mainland in 2013 (5.17 million tonnes), followed by cassava (1.94 million tonnes), sweet potatoes (1.88 million tonnes), beans (1.64 million tonnes), bananas (1.31 million tonnes), rice (1.31 million tonnes), and millet (1.04 million tonnes).[180] Sugar was the largest cash crop on the mainland in 2013 (296,679 tonnes), followed by cotton (241,198 tonnes), cashew nuts (126,000 tonnes), tobacco (86,877 tonnes), coffee (48,000 tonnes), sisal (37,368 tonnes), and tea (32,422 tonnes).[181] Beef was the largest meat product on the mainland in 2013 (299,581 tonnes), followed by lamb/mutton (115,652 tonnes), chicken (87,408 tonnes), and pork (50,814 tonnes).[182]
@@ -221,8 +217,6 @@ Industry and construction is a major and growing component of the Tanzanian econ
 
 Only 15 percent of Tanzanians had access to electric power in 2011.[190] The government-owned Tanzania Electric Supply Company Limited (TANESCO) dominates the electric supply industry in Tanzania.[191] The country generated 6.013 billion kilowatt hours (kWh) of electricity in 2013, a 4.2 percent increase over the 5.771 billion kWh generated in 2012.[192] Generation increased by 63 percent between 2005 and 2012;[193][194] Almost 18 percent of the electricity generated in 2012 was lost because of theft and transmission and distribution problems.[195] The electrical supply varies, particularly when droughts disrupt hydropower electric generation; rolling blackouts are implemented as necessary.[196][197] The unreliability of the electrical supply has hindered the development of Tanzanian industry.[198] In 2013, 49.7 percent of Tanzania's electricity generation came from natural gas, 28.9 percent from hydroelectric sources, 20.4 percent from thermal sources, and 1.0 percent from outside the country.[199] The government has built a gas pipeline from Mnazi Bay to Dar es Salaam.[200] This pipeline was expected to allow the country to double its electricity generation capacity to 3,000 megawatts by 2016.[201] The government's goal is to increase capacity to at least 10,000 megawatts by 2025.[202]
 
-Nyerere_Bridge_-_Kigamboni_.jpg
-
 According to PFC Energy, 25 to 30 trillion cubic feet of recoverable natural gas resources have been discovered in Tanzania since 2010,[203] bringing the total reserves to over 43 trillion cubic feet by the end of 2013.[204] The value of natural gas actually produced in 2013 was US$52.2 million, a 42.7 percent increase over 2012.[205]
 
 Commercial production of gas from the Songo Songo Island field in the Indian Ocean commenced in 2004, thirty years after it was discovered there.[206][207] Over 35 billion cubic feet of gas was produced from this field in 2013,[208] with proven, probable, and possible reserves totalling 1.1 trillion cubic feet.[209] The gas is transported by pipeline to Dar es Salaam.[210] As of 27 August 2014, TANESCO owed the operator of this field, Orca Exploration Group Inc.[211]
@@ -233,7 +227,7 @@ The Ruvuma and Nyuna regions of Tanzania have been explored mostly by the discov
 
 Tourism
 
-Uhuru_Peak_Mt._Kilimanjaro_1.JPG]]
+]]
 
 Travel and tourism contributed 17.5 percent of Tanzania's gross domestic product in 2016[216] and employed 11.0 percent of the country's labour force (1,189,300 jobs) in 2013.[217] Overall receipts rose from US$1.74 billion in 2004 to US$4.48 billion in 2013,[218] and receipts from international tourists rose from US$1.255 billion in 2010 to US$2 billion in 2016.[219][220] In 2016, 1,284,279 tourists arrived at Tanzania's borders compared to 590,000 in 2005.[221] The vast majority of tourists visit Zanzibar or a "northern circuit" of Serengeti National Park, the Ngorongoro Conservation Area, Tarangire National Park, Lake Manyara National Park, and Mount Kilimanjaro.[222] In 2013, the most visited national park was Serengeti (452,485 tourists), followed by Manyara (187,773) and Tarangire (165,949).[223]
 
@@ -257,8 +251,6 @@ As of 2011, Tanzania had 56 mobile telephone subscribers per 100 inhabitants, a 
 
 Water supply and sanitation
 
-Gross_domestic_expenditure_on_Research_and_Development_GDP_ratio_in_Southern_Africa,_2012_or_closest_year.svg
-
 Water supply and sanitation in Tanzania has been characterised by decreasing access to improved water sources in the 2000s (especially in urban areas), steady access to some form of sanitation (around 93 percent since the 1990s), intermittent water supplies, and generally low quality of service.[238] Many utilities are barely able to cover their operation and maintenance costs through revenues because of low tariffs and poor efficiency. There are significant regional differences, with the best performing utilities being Arusha, Moshi, and Tanga.[239]
 
 The government of Tanzania has embarked on a major sector reform process since 2002. An ambitious National Water Sector Development Strategy that promotes integrated water resources management and the development of urban and rural water supply was adopted in 2006. Decentralisation has meant that responsibility for water and sanitation service provision has shifted to local government authorities and is carried out by 20 urban utilities and about 100 district utilities, as well as by Community Owned Water Supply Organisations in rural areas.[240]
@@ -268,26 +260,22 @@ These reforms have been backed by a significant increase of the budget starting 
 
 Food and nutrition
 
-Pilua_for_many.jpg.]] Poor nutrition remains a persistent problem within Tanzania and varies hugely throughout the country's regions. USAID reports that 16% of children are underweight and 34% experience stunted growth as a result of malnutrition.[243] 10 regions house 58% of children suffering from stunted growth while 50% of acutely malnourished children can be found in 5 regions.[244] Over a 5-year period, the Mara district of Tanzania saw a 15% reduction in stunting in children under 5 years old, falling from 46% to 31% in 2005 and 2010 respectively. Dodoma, on the other hand saw a 7% increase in the prevalence of stunting in this age group, rising from 50% in 2005 to 57% in 2010.[245] Overall availability of food does not necessarily contribute to overall stunting figures. Iringa, Mbeya and Rukwa regions, where overall availability of food is considered acceptable still experience stunting incidences in excess of 50%. In some areas where food shortages are common such as in the Tabora and Singida regions, stunting incidences remain comparatively less than those seen in Iringa, Mbeya and Rukwa.[246] The Tanzania Food and Nutrition Centre attributes these discrepancies to variance in maternal malnutrition, poor infant feeding practices, hygiene practices and poor healthcare services.[247] Periods of drought can have significant impacts on the production of crops in Tanzania. Drought in East Africa has resulted in massive increases in the prices of food staples such as maize and sorghum, crops crucial to the nutrition of the majority of Tanzania's population. From 2015 to 2017, the price of maize when bought wholesale has more than doubled from 400 Shillings per kilogram to 1253 Shillings per kilogram respectively.[248] Farmers_in_Igunga,_Tanzania.jpg Tanzania remains heavily agricultural, with 80% of the total population engaging in subsistence farming.[249] Rural areas are subjected to increased food shortages in comparison to urbanised areas, with a survey carried out within the country in 2017 finding 84% of people in rural areas suffering food shortages over a 3-month period compared to 64% of residents in cities.[250] This disparity between rural and city nutrition can be attributed to various factors; increased nutritional needs due to manual labour, more limited access to food as a result of poor infrastructure, high-susceptibility to the damaging effects of nature and the "Agricultural Productivity Gap".[251] The Agricultural Productivity Gap postulates that "value added per worker" is often much lower within the agricultural sector than that found within non-agricultural sectors. Furthermore, allocation of labour within the agricultural sector is largely allocated ineffectively.[252]
+.]] Poor nutrition remains a persistent problem within Tanzania and varies hugely throughout the country's regions. USAID reports that 16% of children are underweight and 34% experience stunted growth as a result of malnutrition.[243] 10 regions house 58% of children suffering from stunted growth while 50% of acutely malnourished children can be found in 5 regions.[244] Over a 5-year period, the Mara district of Tanzania saw a 15% reduction in stunting in children under 5 years old, falling from 46% to 31% in 2005 and 2010 respectively. Dodoma, on the other hand saw a 7% increase in the prevalence of stunting in this age group, rising from 50% in 2005 to 57% in 2010.[245] Overall availability of food does not necessarily contribute to overall stunting figures. Iringa, Mbeya and Rukwa regions, where overall availability of food is considered acceptable still experience stunting incidences in excess of 50%. In some areas where food shortages are common such as in the Tabora and Singida regions, stunting incidences remain comparatively less than those seen in Iringa, Mbeya and Rukwa.[246] The Tanzania Food and Nutrition Centre attributes these discrepancies to variance in maternal malnutrition, poor infant feeding practices, hygiene practices and poor healthcare services.[247] Periods of drought can have significant impacts on the production of crops in Tanzania. Drought in East Africa has resulted in massive increases in the prices of food staples such as maize and sorghum, crops crucial to the nutrition of the majority of Tanzania's population. From 2015 to 2017, the price of maize when bought wholesale has more than doubled from 400 Shillings per kilogram to 1253 Shillings per kilogram respectively.[248] Tanzania remains heavily agricultural, with 80% of the total population engaging in subsistence farming.[249] Rural areas are subjected to increased food shortages in comparison to urbanised areas, with a survey carried out within the country in 2017 finding 84% of people in rural areas suffering food shortages over a 3-month period compared to 64% of residents in cities.[250] This disparity between rural and city nutrition can be attributed to various factors; increased nutritional needs due to manual labour, more limited access to food as a result of poor infrastructure, high-susceptibility to the damaging effects of nature and the "Agricultural Productivity Gap".[251] The Agricultural Productivity Gap postulates that "value added per worker" is often much lower within the agricultural sector than that found within non-agricultural sectors. Furthermore, allocation of labour within the agricultural sector is largely allocated ineffectively.[252]
 
 Programs targeting hunger
 
-USAID programs focusing on nutrition operate within the Morogoro, Dodoma, Iringa, Mbeya, Manyara, Songwe and Zanzibar regions of Tanzania. These "Feed the Future" programs heavily invest in nutrition, infrastructure, policy, capacity of institutions and agriculture which is identified by the organisation as a key area of economic growth in the country.[253] A Tanzanian government led initiative "Kilimo Kwanza" or "Agriculture First" aims to encourage investment into agriculture within the private sector and hopes to improve agricultural processes and development within the country by seeking the knowledge of young people and the innovation that they can potentially provide.[254] During the 1990s, around 25% of Tanzania's population were provided access to iodized oil aimed to target iodine deficiency within expecting mothers, as result of studies showing the negative effects of in-utero iodine deficiency on cognitive development in children. Research showed that children of mothers with access to the supplement achieved on average greater than a third of a year more education than those who did not.[255] Food_Items_in_World_Food_Programme_Food_Parcels.jpg Programmes led by the World Food Programme operate within Tanzania. The Supplementary Feeding Program (SFP) aims to target acute malnutrition by supplying blended food fortified with vitamins to pregnant women and mothers to children under 5 on a monthly basis.[256] Pregnant women and mothers to children under 2 have access to the Mother and Child Health and Nutrition Programme's "Super Cereal" which is supplied with the intent of reducing stunting in children.[257] World Food Programme supplementation remains the main food source for Tanzania's refugees. Super Cereal, Vegetable Oil, Pulses and Salt are supplied as part of the Protracted Relief and Recovery Operation in order to meet the average persons minimum daily calorific requirement of 2,100 kcal.[258] UNICEF state that continued investment in nutrition within Tanzania is of the utmost importance: Estimates predict that Tanzania stands to lose $20 billion by 2025 if nutrition within the country remains at its current level, however improvements in nutrition could produce a gain of around $4.7 billion[259]
+USAID programs focusing on nutrition operate within the Morogoro, Dodoma, Iringa, Mbeya, Manyara, Songwe and Zanzibar regions of Tanzania. These "Feed the Future" programs heavily invest in nutrition, infrastructure, policy, capacity of institutions and agriculture which is identified by the organisation as a key area of economic growth in the country.[253] A Tanzanian government led initiative "Kilimo Kwanza" or "Agriculture First" aims to encourage investment into agriculture within the private sector and hopes to improve agricultural processes and development within the country by seeking the knowledge of young people and the innovation that they can potentially provide.[254] During the 1990s, around 25% of Tanzania's population were provided access to iodized oil aimed to target iodine deficiency within expecting mothers, as result of studies showing the negative effects of in-utero iodine deficiency on cognitive development in children. Research showed that children of mothers with access to the supplement achieved on average greater than a third of a year more education than those who did not.[255] Programmes led by the World Food Programme operate within Tanzania. The Supplementary Feeding Program (SFP) aims to target acute malnutrition by supplying blended food fortified with vitamins to pregnant women and mothers to children under 5 on a monthly basis.[256] Pregnant women and mothers to children under 2 have access to the Mother and Child Health and Nutrition Programme's "Super Cereal" which is supplied with the intent of reducing stunting in children.[257] World Food Programme supplementation remains the main food source for Tanzania's refugees. Super Cereal, Vegetable Oil, Pulses and Salt are supplied as part of the Protracted Relief and Recovery Operation in order to meet the average persons minimum daily calorific requirement of 2,100 kcal.[258] UNICEF state that continued investment in nutrition within Tanzania is of the utmost importance: Estimates predict that Tanzania stands to lose $20 billion by 2025 if nutrition within the country remains at its current level, however improvements in nutrition could produce a gain of around $4.7 billion[259]
 
 Save the Children, with the help of UNICEF and Irish Aid funding created the Partnership for Nutrition in Tanzania (PANITA), in 2011. PANITA aims to utilise civil society organisations to specifically target nutrition within the country. Alongside this, various sectors associated with nutrition are targeted such as agriculture, water, sanitation, education, economic development and social progress. PANITA is responsible for ensuring significant attention is given to nutrition in development plans and budgets created on national and regional levels within Tanzania. Since its conception, PANITA has grown from 94 to 306 participating civil society organisations nationwide.[260] Agriculture within Tanzania is specifically targeted by the Irish Aid led initiative Harnessing Agriculture for Nutrition Outcomes (HANO), which aims to merge nutrition initiatives with agriculture in the Lindi District of the country. The project aims to reduce stunting by 10% in children aged 0 to 23 months.[261]
 
 
 Science and technology
 
-Researchers_(HC)_in_Southern_Africa_per_million_inhabitants,_2013_or_closest_year.svg
-
 Tanzania's first "National Science and Technology Policy" was adopted in 1996. The objective of the government's "Vision 2025" (1998) document was to "transform the economy into a strong, resilient and competitive one, buttressed by science and technology".
 
 Under the umbrella of the One UN Initiative, UNESCO and Tanzanian government departments and agencies formulated a series of proposals in 2008 for revising the "National Science and Technology Policy". The total reform budget of US$10 million was financed from the One UN fund and other sources. UNESCO provided support for mainstreaming science, technology, and innovation into the new "National Growth and Poverty Reduction Strategy" for the mainland and Zanzibar namely, Mkukuta II and Mkuza II, including in the field of tourism.
 
 Tanzania's revised science policy was published in 2010. Entitled "National Research and Development Policy", it recognises the need to improve the process of prioritisation of research capacities, develop international co-operation in strategic areas of research and development, and improve planning for human resources. It also makes provisions for the establishment of a National Research Fund. This policy was, in turn, reviewed in 2012 and 2013.[262]
-
-Seychelles_and_South_Africa_have_the_most_publications_per_million_inhabitants.svg
 
 In 2010, Tanzania devoted 0.38 percent of GDP to research and development. The global average in 2013 was 1.7 percent of GDP. Tanzania had 69 researchers (in head counts) per million population in 2010. In 2014, Tanzania counted 15 publications per million inhabitants in internationally catalogued journals, according to Thomson Reuters' Web of Science (Science Citation Index Expanded). The average for sub-Saharan Africa was 20 publications per million inhabitants and the global average 176 publications per million inhabitants.
 
@@ -312,7 +300,7 @@ The population distribution in Tanzania is uneven. Most people live on the north
 
 Approximately 70 percent of the population is rural, although this percentage has been declining since at least 1967.[267] Dar es Salaam (population 4,364,541)[268] is the largest city and commercial capital. Dodoma (population 410,956)[269] is located in the centre of Tanzania, is the capital of the country, and hosts the National Assembly.
 
-Hadzabe_Hunters.jpg live as hunter-gatherers.]]
+live as hunter-gatherers.]]
 
 The population consists of about 125 ethnic groups.[270] The Sukuma, Nyamwezi, Chagga, and Haya peoples each have a population exceeding 1 million.[271] Approximately 99 percent of Tanzanians are of native African descent, with small numbers of Arab, European, and Asian descent.[272] The majority of Tanzanians, including the Sukuma and the Nyamwezi, are Bantu.[273]
 
@@ -334,8 +322,6 @@ There are also active communities of other religious groups, primarily on the ma
 
 Languages
 
-Zanzibar_door_carved.jpg
-
 More than 100 languages are spoken in Tanzania, making it the most linguistically diverse country in East Africa.[289] Among the languages spoken are all four of Africa's language families: Bantu, Cushitic, Nilotic, and Khoisan.[290] There are no _de jure_ official languages in Tanzania.[291]
 
 Swahili is used in parliamentary debate, in the lower courts, and as a medium of instruction in primary school. English is used in foreign trade, in diplomacy, in higher courts, and as a medium of instruction in secondary and higher education,[292] The Tanzanian government, however, has plans to discontinue English as a language of instruction.[293] In connection with his Ujamaa social policies, President Nyerere encouraged the use of Swahili to help unify the country's many ethnic groups.[294] Approximately 10 percent of Tanzanians speak Swahili as a first language, and up to 90 percent speak it as a second language.[295] Many educated Tanzanians are trilingual, also speaking English.[296][297][298] The widespread use and promotion of Swahili is contributing to the decline of smaller languages in the country.[299][300] Young children increasingly speak Swahili as a first language, particularly in urban areas.[301] Ethnic community languages (ECL) other than Kiswahili are not allowed as a language of instruction. Nor are they taught as a subject, though they might be used unofficially in some cases in initial education. Television and radio programmes in an ECL are prohibited, and it is nearly impossible to get permission to publish a newspaper in an ECL. There is no department of local or regional African Languages and Literatures at the University of Dar es Salaam.[302]
@@ -346,7 +332,7 @@ The Sandawe people speak a language that may be related to the Khoe languages of
 
 Education
 
-Nkrumah.JPG]]
+]]
 
 In 2012, the literacy rate in Tanzania for persons aged 15 and over was estimated to be 67.8 percent.[305] Education is compulsory until children reach age 15.[306] In 2010, 74.1 percent of children age 5 to 14 years were attending school.[307] The primary school completion rate was 80.8 percent in 2012.[308]
 
@@ -367,7 +353,7 @@ Women and men have equality before the law.[322] The government signed the Conve
 
 Culture
 
-Judith_Wambura,.jpg is a popular Bongo Flava recording singer.]]
+is a popular Bongo Flava recording singer.]]
 
 Literature
 
@@ -376,8 +362,6 @@ Tanzania's literary culture is primarily oral.[333] Major oral literary forms in
 Books in Tanzania are often expensive and hard to come by.[337][338] Most Tanzanian literature is in Swahili or English.[339] Major figures in Tanzanian written literature include Shaaban Robert (considered the father of Swahili literature), Muhammed Saley Farsy, Faraji Katalambulla, Adam Shafi Adam, Muhammed Said Abdalla, Said Ahmed Mohammed Khamis, Mohamed Suleiman Mohamed, Euphrase Kezilahabi, Gabriel Ruhumbika, Ebrahim Hussein, May Materru Balisidya, Fadhy Mtanga, Abdulrazak Gurnah, and Penina O. Mlama.[340]
 
 Painting and sculpture
-
-A Tingatinga (painting) painting|thumb
 
 Two Tanzanian art styles have achieved international recognition.[341] The Tingatinga school of painting, founded by Edward Said Tingatinga, consists of brightly coloured enamel paintings on canvas, generally depicting people, animals, or daily life.[342][343] After Tingatinga's death in 1972, other artists adopted and developed his style, with the genre now being the most important tourist-oriented style in East Africa.[344][345]
 

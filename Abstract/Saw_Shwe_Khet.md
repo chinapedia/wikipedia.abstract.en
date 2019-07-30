@@ -1,1 +1,0 @@
-MINYE KYAWSWA SAW SHWE KHET (, ) was governor of Prome (Pyay), a major vassal state of Ava, from 1417 to 1422, and from 1442 to 1446. He was the only governor or viceroy of Prome to serve more than one term. He also served as governor of districts of Prome: twice at Tharrawaddy (Thayawadi) (1422–1427) and (1446–1460) and at Paungde (1460–1470s).

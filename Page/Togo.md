@@ -16,7 +16,7 @@ The slave trade began in the 16th century, and for the next two hundred years th
 
 Colonial era (1884–1960)
 
-Togoland.jpg, 1908)]]
+, 1908)]]
 
 In 1884, a paper was signed at Togoville with the King Mlapa III, whereby Germany claimed a protectorate over a stretch of territory along the coast and gradually extended its control inland. Its borders were defined after the capture of hinterland by German forces and signing agreements with France and Britain. In 1905, this became the German colony of Togoland. The local population was forced to work, cultivate cotton, coffee and cocoa and pay high taxes. A railway and the port of Lomé were built for export of agricultural products. The Germans introduced modern techniques of cultivation of cocoa, coffee and cotton and developed the infrastructure.
 
@@ -26,7 +26,7 @@ After World War II, these mandates became UN Trust Territories. The residents of
 
 Independence to present day (1960–present)
 
-Sylvanus_Olympio.jpg|left]]
+|left]]
 
 The Togolese Republic was proclaimed on 27 April 1960. In the first presidential elections in 1961, Sylvanus Olympio became the first president, gaining 100% of the vote in elections boycotted by the opposition. On 9 April 1961 the Constitution of the Togolese Republic was adopted, according to which the supreme legislative body was the National Assembly of Togo.[9]
 
@@ -45,7 +45,7 @@ In late 2017, anti-government protests erupted in Togo, the biggest since ones a
 
 Geography
 
-To-map.png Togo has an area equal to and is one of the smallest countries in Africa. It borders the Bight of Benin in the south; Ghana lies to the west; Benin to the east; and to the north, Togo is bound by Burkina Faso. Togo lies mostly between latitudes 6° and 11°N, and longitudes 0° and 2°E.
+Togo has an area equal to and is one of the smallest countries in Africa. It borders the Bight of Benin in the south; Ghana lies to the west; Benin to the east; and to the north, Togo is bound by Burkina Faso. Togo lies mostly between latitudes 6° and 11°N, and longitudes 0° and 2°E.
 
 The coast of Togo in the Gulf of Guinea is 56 km long and consists of lagoons with sandy beaches. In the north, the land is characterized by a gently rolling savanna in contrast to the center of the country, which is characterized by hills. The south of Togo is characterized by a savanna and woodland plateau which reaches to a coastal plain with extensive lagoons and marshes.
 
@@ -62,7 +62,7 @@ The coast of Togo is characterized by marshes and mangroves. High human populati
 
 Government
 
-Faure_Gnassingbé_2014.png since 2005]] Gnassingbé_Eyadema,_1972.jpg ruled Togo from 1967 until his death in 2005]]
+since 2005]] ruled Togo from 1967 until his death in 2005]]
 
 The President is elected by universal and direct suffrage for 5 years. He is also the commander of the armed forces and has the right to initiate legislation and dissolve parliament. Executive power is exercised by the president and the government. The head of government is the Prime Minister, who is appointed by the president.
 
@@ -99,8 +99,6 @@ Togo was labeled "Not Free" by Freedom House from 1972 to 1998, and again from 2
 
 Economy
 
-Togo_Export_Treemap.png
-
 Togo is among the smallest countries in Africa, but possesses valuable phosphate deposits and a well-developed export sector based on agricultural products such as coffee; cocoa bean; and peanuts (groundnuts), which together generate roughly 30% of export earnings. Cotton is the most important cash crop.[36] The fertile land occupies 11.3% of the country, most of which is developed. Major crops are cassava, jasmine rice, corn and millet. Other important sectors are brewery and the textile industry. A permanent problem is the lack of electricity, because the country is able to produce only about a third of its consumption, the rest is covered by imports from Ghana and Nigeria. Low market prices for Togo's major export commodities, however, coupled with the volatile political situation of the 1990s and early 2000s, had a negative effect on the economy.[37]
 
 Togo is one of the least developed countries; the economic situation is still precarious. Togo serves as a regional commercial and trade center. The government's decade-long efforts, supported by the World Bank and the International Monetary Fund (IMF), to carry out economic reforms, to encourage investment, and to create the balance between income and consumption has stalled. Political unrest, including private and public sector strikes throughout 1992 and 1993, jeopardized the reform program, shrank the tax base, and disrupted vital economic activity.
@@ -124,7 +122,7 @@ Industry provides only 20.4% of Togo's national income, because it consists only
 
 Demographics
 
-Danseuses-Adossa.JPG.]]
+.]]
 
 +------------+
 | Population |
@@ -146,11 +144,11 @@ Largest cities
 
 Ethnic groups
 
-Togo-benin_1985-079_hg.jpg In Togo, there are about 40 different ethnic groups, the most numerous of which are the Ewe in the south who make up 32% of the population. Along the southern coastline they account for 21% of the population. Also found are Kotokoli or Tem and Tchamba in the center and the Kabye people in the north (22%). The Ouatchis are 14% of the population. Sometimes the Ewes and Ouatchis are considered the same, but the French who studied both groups considered them different people.[47] Other Ethnic groups include the Mina, Mossi, and Aja people (about 8%). There is also a European population who make up less than 1%.
+In Togo, there are about 40 different ethnic groups, the most numerous of which are the Ewe in the south who make up 32% of the population. Along the southern coastline they account for 21% of the population. Also found are Kotokoli or Tem and Tchamba in the center and the Kabye people in the north (22%). The Ouatchis are 14% of the population. Sometimes the Ewes and Ouatchis are considered the same, but the French who studied both groups considered them different people.[47] Other Ethnic groups include the Mina, Mossi, and Aja people (about 8%). There is also a European population who make up less than 1%.
 
 Religion
 
-Kpalime.jpg.]] According to a 2012 US government religious freedoms report, in 2004 the University of Lomé estimated that 33% of the population are traditional animists, 28% are Roman Catholic, 14% are Sunni Muslim, 10% are Protestant and another 10% belonged to other Christian denominations. The remaining 5% were reported to include persons not affiliated with any religious group. The report also noted that many Christians and Muslims continue to perform indigenous religious practices.[48]
+.]] According to a 2012 US government religious freedoms report, in 2004 the University of Lomé estimated that 33% of the population are traditional animists, 28% are Roman Catholic, 14% are Sunni Muslim, 10% are Protestant and another 10% belonged to other Christian denominations. The remaining 5% were reported to include persons not affiliated with any religious group. The report also noted that many Christians and Muslims continue to perform indigenous religious practices.[48]
 
 The CIA World Factbook meanwhile states that 29% of the population are Christian, 20% are Muslim with 51% being followers of indigenous beliefs.[49]
 
@@ -179,7 +177,7 @@ Education in Togo is compulsory for six years.[61] In 1996, the gross primary en
 
 Culture
 
-Togo_Taberma_house_04.jpg Togo's culture reflects the influences of its many ethnic groups, the largest and most influential of which are the Ewe, Mina, Tem, Tchamba and Kabre.
+Togo's culture reflects the influences of its many ethnic groups, the largest and most influential of which are the Ewe, Mina, Tem, Tchamba and Kabre.
 
 Despite the influences of Christianity and Islam, over half of the people of Togo follow native animistic practices and beliefs.
 
@@ -191,7 +189,7 @@ The official Togolese drink is called sodabi, a liquor that is created from the 
 
 Sports
 
-Emmanuel_Adebayor.jpg.]]
+.]]
 
 Olympics
 

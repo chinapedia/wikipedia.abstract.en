@@ -1,1 +1,0 @@
-MEL LAWRENCE (May 17, 1935 - November 5, 2016) was an American film director and producer and former concert and festival promoter. He is best known for his role as the Director of Operations at the Woodstock Festival,[1] his work on the _Qatsi_ Trilogy, and for directing and producing the Emmy-nominated documentary _Paha Sapa: The Struggle for the Black Hills_.

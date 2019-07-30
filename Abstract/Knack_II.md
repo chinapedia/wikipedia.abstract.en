@@ -1,1 +1,0 @@
-_KNACK II_ is an action-platform game developed by SIE Japan Studio and published by Sony Interactive Entertainment for PlayStation 4. It is the sequel to the 2013 game _Knack_ and was released worldwide in September 2017.

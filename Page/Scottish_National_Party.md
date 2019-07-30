@@ -138,7 +138,7 @@ Leadership
 
 Leaders of the Scottish National Party
 
-First_Minister,_Nicola_Sturgeon.jpg, Leader of the Scottish National Party]]
+, Leader of the Scottish National Party]]
 
 -   Sir Alexander MacEwen, 1934–1936
 -   Andrew Dewar Gibb, 1936–1940

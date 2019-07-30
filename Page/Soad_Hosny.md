@@ -21,7 +21,7 @@ She was romantically linked with various celebrities including the Egyptian film
 
 Death
 
-Stuart_Tower_-_geograph.org.uk_-_905944.jpg]] On June 21, 2001, Soad Hosny died after falling from the balcony of her friend, Nadia Yousri's apartment in Stuart Tower building in London. Her death was surrounded in controversy, with authorities initially failing to provide details of how she fell; an omission that fuelled media speculation and rumours that her death may have been a suicide or murder, rather than accidental.[21] Soad's body was flown home to Cairo [22] and her funeral in Cairo was attended by some 10,000 people. She was buried in a family's plot of land on the outskirts of Cairo.[23] She had no children and was survived by her last husband, writer Maher Awad, whom she married in 1987.[24][25]
+]] On June 21, 2001, Soad Hosny died after falling from the balcony of her friend, Nadia Yousri's apartment in Stuart Tower building in London. Her death was surrounded in controversy, with authorities initially failing to provide details of how she fell; an omission that fuelled media speculation and rumours that her death may have been a suicide or murder, rather than accidental.[21] Soad's body was flown home to Cairo [22] and her funeral in Cairo was attended by some 10,000 people. She was buried in a family's plot of land on the outskirts of Cairo.[23] She had no children and was survived by her last husband, writer Maher Awad, whom she married in 1987.[24][25]
 
 
 Legacy

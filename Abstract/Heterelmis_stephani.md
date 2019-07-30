@@ -1,1 +1,0 @@
-_HETERELMIS STEPHANI_ was a rare species of aquatic beetle known by the common name STEPHAN'S RIFFLE BEETLE. It was endemic to Arizona in the United States, where it occurred in the Santa Rita Mountains before being declared presumed extinct. It was brown in color with small black dots on its wings.[1]

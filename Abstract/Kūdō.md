@@ -1,1 +1,0 @@
-(formerly _Kakutō karate_ (格闘空手); often _Daidōjuku_) is a Japanese hybrid martial art. It is full-contact mixed combat sport with head Guard and gloves, throwing and grappling techniques are also allowed in the competition, including restraint, locks and strangle holds. It can be called a mixed martial art with protective gear for the head.[1]

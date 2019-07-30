@@ -1,1 +1,0 @@
-Bektashism{{·}}Sufism

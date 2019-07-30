@@ -1,1 +1,0 @@
-_MONOPOLY_ is a video game based on the board game _Monopoly_, released on Game Boy, Genesis, NES, and SNES. Developed by Sculptured Software and published by Parker Brothers (the Game Boy version was published by Majesco Sales), this title was one of many inspired by the property.

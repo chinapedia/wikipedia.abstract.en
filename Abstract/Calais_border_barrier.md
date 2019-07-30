@@ -1,1 +1,0 @@
-The CALAIS BORDER BARRIER is an international border barrier under construction jointly by France and the United Kingdom designed to prevent illegal migrants from gaining access to the Channel Tunnel and from the port of Calais as a means of illegal entry to Britain. Construction, funded by Britain, began in September 2016.[1]

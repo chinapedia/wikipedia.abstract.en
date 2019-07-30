@@ -1,1 +1,0 @@
-PLATINUM is a chemical element with the symbol PT and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. Its name is derived from the Spanish term _platino_, meaning "little silver".[1][2]

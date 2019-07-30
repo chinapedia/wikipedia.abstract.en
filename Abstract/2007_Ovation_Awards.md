@@ -1,1 +1,0 @@
-5.3.10NeilPatrickHarrisByDavidShankbone.jpg AnnetteBeningSept2013TIFF.jpg Laurence_Fishburne_2009_-_cropped.jpg Dan_Lauria_at_ATX_TV_Festival_2014_Sullivan_and_Son.jpg David_Henry_Hwang_photo_by_Lia_Chang2013.jpg Yeardley_Smith_by_Gage_Skidmore.jpg Erika_Amato.jpg LynnRedgraveHS09TIFF.jpg Lakin,_Christine_(2007).jpg Ewcolor.jpg David_Shire05.JPG Brian-headshot_1.jpg

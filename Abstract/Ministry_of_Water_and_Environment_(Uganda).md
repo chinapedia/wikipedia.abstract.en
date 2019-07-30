@@ -1,1 +1,0 @@
-The MINISTRY OF WATER AND ENVIRONMENT (MWE), is a cabinet-level government ministry of Uganda. It is responsible for the "sound management and sustainable utilisation of water and environment resources for the betterment of the population of Uganda".[1] The ministry is headed by Minister Sam Cheptoris.[2]

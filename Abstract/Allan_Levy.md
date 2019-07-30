@@ -1,1 +1,0 @@
-ALLAN EDWARD LEVY was a barrister specialising in family law and an advocate of children’s rights. He is most well known for his chairmanship of the Pindown Enquiry and, as a result of the public exposure the enquiry brought, he was much in demand as a speaker at family law conferences within the United Kingdom and internationally.

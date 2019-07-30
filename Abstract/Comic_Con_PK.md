@@ -1,1 +1,0 @@
-COMIC CON PK is an annual event held at the Defense Public Library Complex in Lahore, Punjab, Pakistan. It is the first of its kind (comic con) in Pakistan. It hosts fans of popular media and gives them a chance to share their creative works as well as panels of artists who produce popular fiction[1]. The event also sells merchandise related to popular fiction.[2]

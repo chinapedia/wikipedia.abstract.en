@@ -1,1 +1,0 @@
-BJÖRN KRISTIAN ULVAEUS (credited as BJÖRN ULVÆUS ; born 25 April 1945)[1] is a Swedish songwriter, producer, a member of the Swedish musical group ABBA, and co-composer of the musicals _Chess_, _Kristina från Duvemåla_, and _Mamma Mia!_. He co-produced the film _Mamma Mia!_ with fellow ABBA member and close friend Benny Andersson.

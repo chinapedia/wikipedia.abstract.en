@@ -1,1 +1,0 @@
-'''Ryan Owens ''' (born 29 September 1995) is a British male track cyclist, representing Great Britain at international competitions. He won the silver medal at the 2016 UEC European Track Championships in the team sprint.[1]

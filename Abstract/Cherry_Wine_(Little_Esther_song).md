@@ -1,1 +1,0 @@
-"CHERRY WINE" is a 1953 song by Little Esther written by Henry Glover. It is the best known of her releases from Federal Records and has been re-issued several times.[1] _Billboard_ noted her distinctive style and "a lively piano in the backing".[2]

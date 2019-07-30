@@ -1,1 +1,0 @@
-The AMERICAN LEAGUE CHAMPIONSHIP SERIES (ALCS) is a best-of-seven series played in October in the Major League Baseball postseason that determines the winner of the American League (AL) pennant. The winner of the series advances to play the winner of the National League (NL) Championship Series (NLCS) in the World Series, Major League Baseball's championship series.

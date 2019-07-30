@@ -1,1 +1,0 @@
-THE MYMENSINGH CINEMA BOMBINGS were a coordinated bombing of four movie theaters that caused in the deaths of 27 people and injured over 200 others in Mymensingh, Bangladesh on 6 December 2002.[1] The bombing was carried out by Jama’atul Mujahedeen Bangladesh.[2]

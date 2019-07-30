@@ -1,1 +1,0 @@
-JOURNEY is a Thoroughbred racehorse best known for winning the British Champions Fillies' and Mares' Stakes at Ascot on British Champions Day. It has been suggested she was named in reference to the song Don't Stop Believin' by the band Journey.

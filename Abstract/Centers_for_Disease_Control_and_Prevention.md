@@ -1,1 +1,0 @@
-The CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC) is the leading national public health institute of the United States. The CDC is a United States federal agency under the Department of Health and Human Services and is headquartered in Atlanta, Georgia.[1]

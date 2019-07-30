@@ -1,1 +1,0 @@
-WAVE ENERGY SCOTLAND (WES) is a technology development body set up by the Scottish Government to facilitate the development of wave energy in Scotland. It was set up in 2015 and is a subsidiary of Highlands and Islands Enterprise (HIE) based in Inverness. WES manages a number of projects resulting from its pre-commercial procurement funding calls.

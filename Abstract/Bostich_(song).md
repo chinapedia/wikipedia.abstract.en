@@ -1,1 +1,0 @@
-"BOSTICH" is a song by Swiss synthpop band Yello, released in 1981. It is the third and final single to be released from their debut studio album _Solid Pleasure_. "Bostich" appears on the band's compilation album _Essential Yello_. The song peaked at number 23 on the _Billboard_ dance chart.

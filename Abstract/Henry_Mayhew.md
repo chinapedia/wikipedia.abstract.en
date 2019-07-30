@@ -1,1 +1,0 @@
-Henrymayhew.png

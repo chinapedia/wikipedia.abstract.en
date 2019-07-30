@@ -1,9 +1,9 @@
-Tristan_Bernard_by_Toulouse-Lautrec.jpg]] TRISTAN BERNARD (7 September 1866 – 7 December 1947) was a French playwright, novelist, journalist and lawyer.
+]] TRISTAN BERNARD (7 September 1866 – 7 December 1947) was a French playwright, novelist, journalist and lawyer.
 
 
 Life
 
-Eleonora_Duse_with_Matilde_Serao,_Francesco_Paolo_and_Tristan_Bernard.jpg, Matilde Serao, and others, 1897. Photo by Giuseppe Primoli.]] Born PAUL BERNARD into a Jewish family in Besançon, Doubs, Franche-Comté, France, he was the son of an architect. He left Besançon at the age of 14 years, relocating with his father to Paris, where he studied at the Lycée Condorcet, which was noted for its numerous literary alumni. In 1888 was born his son Jean-Jacques Bernard, also a dramatist.
+, Matilde Serao, and others, 1897. Photo by Giuseppe Primoli.]] Born PAUL BERNARD into a Jewish family in Besançon, Doubs, Franche-Comté, France, he was the son of an architect. He left Besançon at the age of 14 years, relocating with his father to Paris, where he studied at the Lycée Condorcet, which was noted for its numerous literary alumni. In 1888 was born his son Jean-Jacques Bernard, also a dramatist.
 
 He studied law, but after his military service he started his career as the manager of an aluminium smelter. In the 1890s he also managed the _Vélodrome de la Seine_ at Levallois-Perret and the Vélodrome Buffalo, whose events were an integral part of Parisian life, being regularly attended by personalities such as Toulouse-Lautrec.[1] He reputedly introduced the bell to signify the last lap of a race.[2]
 

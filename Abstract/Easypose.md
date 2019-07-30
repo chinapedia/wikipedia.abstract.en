@@ -1,1 +1,0 @@
-"Easypose" is an American fitness startup based in Los Angeles and founded by Ruben Dua and Venk Tatineni. The company offers a platform to book a certified yoga teacher for a home, office or hotel yoga session in 20+ American cities.[1] Prior to founding the company, Dua was the CEO of an advertising technology company known as Spreeify and is a graduate of USC and LMU.

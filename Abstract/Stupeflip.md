@@ -1,1 +1,0 @@
-STUPEFLIP () is a French hip hop band formed in 2000, composed of Julien Barthélémy, Stéphane Bellenger and Jean-Paul Michel. Their style can be described as a mix of hip hop, punk rock and synthpop.[1]

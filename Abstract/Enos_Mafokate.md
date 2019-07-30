@@ -1,1 +1,0 @@
-ENOS MAFOKATE (* 1946 in a Johannesburg Township, South Africa) is a South African show jumper and founder of a riding school. He became successful as being the first black South African show jumper.[1]

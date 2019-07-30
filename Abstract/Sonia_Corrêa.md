@@ -1,1 +1,0 @@
-Sonia_Onufer_Correa.jpg SONIA CORRÊA (born 18 November 1948) is a feminist activist and researcher from Brazil, working primarily on issues of gender equality, health and sexuality.[1] Since 2002, she has co-chaired Sexuality Policy Watch (SPW),[2] a global policy forum analysing global trends in sexuality related policies and projects.[3][4]

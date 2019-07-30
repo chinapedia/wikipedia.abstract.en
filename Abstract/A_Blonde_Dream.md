@@ -1,1 +1,0 @@
-_A BLONDE DREAM_ (German: _EIN BLONDER TRAUM_) is a 1932 German musical comedy film directed by Paul Martin and starring Lilian Harvey, Willy Fritsch and Willi Forst.[1] A separate English-language version _Happy Ever After_ was made as a co-production with Gainsborough Pictures. A French-language version was also released.

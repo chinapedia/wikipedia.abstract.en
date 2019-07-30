@@ -1,1 +1,0 @@
-CHRISTIAN was a bishop of Aarhus, Denmark, from c. 1060 to c. 1102 when it is known another person was bishop of Aarhus.[1] Christian was the second bishop of the Ancient See of Aarhus and the first after almost a century of vacancy in the diocese. Christian is especially remembered for participating in one of the last viking raids to England in 1070.[2]

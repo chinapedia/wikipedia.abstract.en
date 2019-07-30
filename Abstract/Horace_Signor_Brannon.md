@@ -1,1 +1,0 @@
-HORACE SIGNOR BRANNON, M.D. (January 19, 1884 – October 20, 1970) was an African-American physician based in Louisville, Kentucky. He served in the 92nd Division during World War I, under the 365th Ambulance Company.

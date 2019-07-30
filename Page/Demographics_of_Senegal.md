@@ -5,7 +5,7 @@ About 42% of Senegal's population is rural. In rural areas, population density v
 
 Population
 
-Senegal_population.svg According to the 2018 revision of the World Population Review[2] the total population was 16,302,789 in May 2018, compared to only 2,416,000 in 1950. The proportion of children below the age of 15 in 2017 was 41.5%, between 15 and 54 years of age was 31.1%, while 55 years or older was 6.9%. .[3]
+According to the 2018 revision of the World Population Review[2] the total population was 16,302,789 in May 2018, compared to only 2,416,000 in 1950. The proportion of children below the age of 15 in 2017 was 41.5%, between 15 and 54 years of age was 31.1%, while 55 years or older was 6.9%. .[3]
 
          Total population   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
   ------ ------------------ -------------------------- --------------------------- -------------------------
@@ -197,8 +197,6 @@ Population
     15,020,945 (July 2018 est.)
 
 Age structure
-
-Senegalpop.svg
 
     _0-14 years:_ 41.15% (male 3,106,942 /female 3,074,740)
     _15-24 years:_ 20.33% (male 1,521,868 /female 1,531,484)

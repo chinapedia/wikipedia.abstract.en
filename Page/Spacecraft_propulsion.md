@@ -1,4 +1,4 @@
-Shuttle_Main_Engine_Test_Firing.jpg during a test firing at the John C. Stennis Space Center in Hancock County, Mississippi.]]
+during a test firing at the John C. Stennis Space Center in Hancock County, Mississippi.]]
 
 SPACECRAFT PROPULSION is any method used to accelerate spacecraft and artificial satellites. Space propulsion or in-space propulsion exclusively deals with propulsion systems used in the vacuum of space and should not be confused with launch vehicles. Several methods, both pragmatic and hypothetical, have been developed each having its own drawbacks and advantages.
 
@@ -11,7 +11,7 @@ Artificial satellites must be launched into orbit after which they must be place
 
 For interplanetary travel, a spacecraft must use its engines to leave Earth's orbit. Once it has done so, it must somehow make its way to its destination. Current interplanetary spacecraft do this with a series of short-term trajectory adjustments.[4] In between these adjustments, the spacecraft simply moves along its trajectory with a constant velocity. The most fuel-efficient means to move from one circular orbit to another is with a Hohmann transfer orbit: the spacecraft begins in a roughly circular orbit around the Sun. A short period of thrust in the direction of motion accelerates or decelerates the spacecraft into an elliptical orbit around the Sun which is tangential to its previous orbit and also to the orbit of its destination. The spacecraft falls freely along this elliptical orbit until it reaches its destination, where another short period of thrust accelerates or decelerates it to match the orbit of its destination.[5] Special methods such as aerobraking or aerocapture are sometimes used for this final orbital adjustment.[6]
 
-Ssunsail.jpg Some spacecraft propulsion methods such as solar sails provide very low but inexhaustible thrust;[7] an interplanetary vehicle using one of these methods would follow a rather different trajectory, either constantly thrusting against its direction of motion in order to decrease its distance from the Sun or constantly thrusting along its direction of motion to increase its distance from the Sun. The concept has been successfully tested by the Japanese IKAROS solar sail spacecraft.
+Some spacecraft propulsion methods such as solar sails provide very low but inexhaustible thrust;[7] an interplanetary vehicle using one of these methods would follow a rather different trajectory, either constantly thrusting against its direction of motion in order to decrease its distance from the Sun or constantly thrusting along its direction of motion to increase its distance from the Sun. The concept has been successfully tested by the Japanese IKAROS solar sail spacecraft.
 
 No spacecraft capable of short duration (compared to human lifetime) interstellar travel has yet been built, but many hypothetical designs have been discussed. Because interstellar distances are very great, a tremendous velocity is needed to get a spacecraft to its destination in a reasonable amount of time. Acquiring such a velocity on launch and getting rid of it on arrival remains a formidable challenge for spacecraft designers.[8]
 
@@ -47,7 +47,7 @@ Examples include both duct engines and rocket engines, and more uncommon variati
 
 Delta-v and propellant
 
-Tsiolkovsky_rocket_equation.svgs versus final velocity, as calculated from the rocket equation]] Exhausting the entire usable propellant of a spacecraft through the engines in a straight line in free space would produce a net velocity change to the vehicle; this number is termed _delta-v_ (Δv).
+s versus final velocity, as calculated from the rocket equation]] Exhausting the entire usable propellant of a spacecraft through the engines in a straight line in free space would produce a net velocity change to the vehicle; this number is termed _delta-v_ (Δv).
 
 If the exhaust velocity is constant then the total Δv of a vehicle can be calculated using the rocket equation, where _M_ is the mass of propellant, _P_ is the mass of the payload (including the rocket structure), and v_(e) is the velocity of the rocket exhaust. This is known as the Tsiolkovsky rocket equation:
 
@@ -78,7 +78,7 @@ $$\frac{1}{2} \dot{m} v_e^2$$
 
 This energy is not necessarily lost- some of it usually ends up as kinetic energy of the vehicle, and the rest is wasted in residual motion of the exhaust.
 
-Rocket_propulsion_efficiency.svg]] Comparing the rocket equation (which shows how much energy ends up in the final vehicle) and the above equation (which shows the total energy required) shows that even with 100% engine efficiency, certainly not all energy supplied ends up in the vehicle - some of it, indeed usually most of it, ends up as kinetic energy of the exhaust.
+]] Comparing the rocket equation (which shows how much energy ends up in the final vehicle) and the above equation (which shows the total energy required) shows that even with 100% engine efficiency, certainly not all energy supplied ends up in the vehicle - some of it, indeed usually most of it, ends up as kinetic energy of the exhaust.
 
 The exact amount depends on the design of the vehicle, and the mission. However, there are some useful fixed points:
 
@@ -93,7 +93,7 @@ For, although solar power and nuclear power are virtually unlimited sources of _
 
 Energy
 
-Average_propulsive_efficiency_of_rockets.png In the ideal case m₁ is useful payload and m₀ − m₁ is reaction mass (this corresponds to empty tanks having no mass, etc.). The energy required can simply be computed as
+In the ideal case m₁ is useful payload and m₀ − m₁ is reaction mass (this corresponds to empty tanks having no mass, etc.). The energy required can simply be computed as
 
 $$\frac{1}{2}(m_0 - m_1)v_\text{e}^2$$
 
@@ -186,7 +186,7 @@ Mission planning therefore frequently involves adjusting and choosing the propul
 
 Rocket engines
 
-SpaceX_engine_test_fire.jpg's Kestrel engine is tested]] Most rocket engines are internal combustion heat engines (although non combusting forms exist). Rocket engines generally produce a high temperature reaction mass, as a hot gas. This is achieved by combusting a solid, liquid or gaseous fuel with an oxidiser within a combustion chamber. The extremely hot gas is then allowed to escape through a high-expansion ratio nozzle. This bell-shaped nozzle is what gives a rocket engine its characteristic shape. The effect of the nozzle is to dramatically accelerate the mass, converting most of the thermal energy into kinetic energy. Exhaust speed reaching as high as 10 times the speed of sound at sea level are common.
+'s Kestrel engine is tested]] Most rocket engines are internal combustion heat engines (although non combusting forms exist). Rocket engines generally produce a high temperature reaction mass, as a hot gas. This is achieved by combusting a solid, liquid or gaseous fuel with an oxidiser within a combustion chamber. The extremely hot gas is then allowed to escape through a high-expansion ratio nozzle. This bell-shaped nozzle is what gives a rocket engine its characteristic shape. The effect of the nozzle is to dramatically accelerate the mass, converting most of the thermal energy into kinetic energy. Exhaust speed reaching as high as 10 times the speed of sound at sea level are common.
 
 Rocket engines provide essentially the highest specific powers and high specific thrusts of any engine used for spacecraft propulsion.
 
@@ -196,7 +196,7 @@ See rocket engine for a listing of various kinds of rocket engines using differe
 
 Electromagnetic propulsion
 
-Ion_Engine_Test_Firing_-_GPN-2000-000482.jpg Rather than relying on high temperature and fluid dynamics to accelerate the reaction mass to high speeds, there are a variety of methods that use electrostatic or electromagnetic forces to accelerate the reaction mass directly. Usually the reaction mass is a stream of ions. Such an engine typically uses electric power, first to ionize atoms, and then to create a voltage gradient to accelerate the ions to high exhaust velocities.
+Rather than relying on high temperature and fluid dynamics to accelerate the reaction mass to high speeds, there are a variety of methods that use electrostatic or electromagnetic forces to accelerate the reaction mass directly. Usually the reaction mass is a stream of ions. Such an engine typically uses electric power, first to ionize atoms, and then to create a voltage gradient to accelerate the ions to high exhaust velocities.
 
 The idea of electric propulsion dates back to 1906, when Robert Goddard considered the possibility in his personal notebook.[16] Konstantin Tsiolkovsky published the idea in 1911.
 
@@ -206,7 +206,7 @@ For some missions, particularly reasonably close to the Sun, solar energy may be
 
 With any current source of electrical power, chemical, nuclear or solar, the maximum amount of power that can be generated limits the amount of thrust that can be produced to a small value. Power generation adds significant mass to the spacecraft, and ultimately the weight of the power source limits the performance of the vehicle.
 
-Current nuclear power generators are approximately half the weight of solar panels per watt of energy supplied, at terrestrial distances from the Sun. Chemical power generators are not used due to the far lower total available energy. Beamed power to the spacecraft shows some potential. Xenon_hall_thruster.jpg Jet Propulsion Laboratory.]] Some electromagnetic methods:
+Current nuclear power generators are approximately half the weight of solar panels per watt of energy supplied, at terrestrial distances from the Sun. Chemical power generators are not used due to the far lower total available energy. Beamed power to the spacecraft shows some potential. Jet Propulsion Laboratory.]] Some electromagnetic methods:
 
 -   Ion thrusters (accelerate ions first and later neutralize the ion beam with an electron stream emitted from a cathode called a neutralizer)
     -   Electrostatic ion thruster
@@ -230,8 +230,6 @@ In electrothermal and electromagnetic thrusters, both ions and electrons are acc
 
 Without internal reaction mass
 
-Solarsail_msfc.jpg
-
 The law of conservation of momentum is usually taken to imply that any engine which uses no reaction mass cannot accelerate the center of mass of a spaceship (changing orientation, on the other hand, is possible). But space is not empty, especially space inside the Solar System; there are gravitation fields, magnetic fields, electromagnetic waves, solar wind and solar radiation. Electromagnetic waves in particular are known to contain momentum, despite being massless; specifically the momentum flux density P of an EM wave is quantitatively 1/c^2 times the Poynting vector S, i.e. P = S/c^2, where c is the velocity of light. Field propulsion methods which do not rely on reaction mass thus must try to take advantage of this fact by coupling to a momentum-bearing field such as an EM wave that exists in the vicinity of the craft. However, because many of these phenomena are diffuse in nature, corresponding propulsion structures need to be proportionately large.
 
 There are several different space drives that need little or no reaction mass to function. A tether propulsion system employs a long cable with a high tensile strength to change a spacecraft's orbit, such as by interaction with a planet's magnetic field or through momentum exchange with another object.[17] Solar sails rely on radiation pressure from electromagnetic energy, but they require a large collection surface to function effectively. The magnetic sail deflects charged particles from the solar wind with a magnetic field, thereby imparting momentum to the spacecraft. A variant is the mini-magnetospheric plasma propulsion system, which uses a small cloud of plasma held in a magnetic field to deflect the Sun's charged particles. An E-sail would use very thin and lightweight wires holding an electric charge to deflect these particles, and may have more controllable directionality.
@@ -249,7 +247,7 @@ Beam-powered propulsion is another method of propulsion without reaction mass. B
 
 Planetary and atmospheric propulsion
 
-Lightcraft.jpg test, a subset of beam-powered propulsion.]]
+test, a subset of beam-powered propulsion.]]
 
 Launch-assist mechanisms
 
@@ -284,7 +282,7 @@ For spacecraft already in very low-orbit, air-breathing electric propulsion woul
 
 Planetary arrival and landing
 
-Pathfinder_Air_Bags_-_GPN-2000-000484.jpg When a vehicle is to enter orbit around its destination planet, or when it is to land, it must adjust its velocity. This can be done using all the methods listed above (provided they can generate a high enough thrust), but there are a few methods that can take advantage of planetary atmospheres and/or surfaces.
+When a vehicle is to enter orbit around its destination planet, or when it is to land, it must adjust its velocity. This can be done using all the methods listed above (provided they can generate a high enough thrust), but there are a few methods that can take advantage of planetary atmospheres and/or surfaces.
 
 -   Aerobraking allows a spacecraft to reduce the high point of an elliptical orbit by repeated brushes with the atmosphere at the low point of the orbit. This can save a considerable amount of fuel because it takes much less delta-V to enter an elliptical orbit compared to a low circular orbit. Because the braking is done over the course of many orbits, heating is comparatively minor, and a heat shield is not required. This has been done on several Mars missions such as Mars Global Surveyor, Mars Odyssey and Mars Reconnaissance Orbiter, and at least one Venus mission, Magellan.
 -   Aerocapture is a much more aggressive manoeuver, converting an incoming hyperbolic orbit to an elliptical orbit in one pass. This requires a heat shield and much trickier navigation, because it must be completed in one pass through the atmosphere, and unlike aerobraking no preview of the atmosphere is possible. If the intent is to remain in orbit, then at least one more propulsive maneuver is required after aerocapture—otherwise the low point of the resulting orbit will remain in the atmosphere, resulting in eventual re-entry. Aerocapture has not yet been tried on a planetary mission, but the re-entry skip by Zond 6 and Zond 7 upon lunar return were aerocapture maneuvers, because they turned a hyperbolic orbit into an elliptical orbit. On these missions, because there was no attempt to raise the perigee after the aerocapture, the resulting orbit still intersected the atmosphere, and re-entry occurred at the next perigee.
@@ -428,7 +426,7 @@ Some systems cannot be adequately tested on the ground and test launches may be 
 
 Speculative methods
 
-Wormhole_travel_as_envisioned_by_Les_Bossinas_for_NASA.jpg A variety of hypothetical propulsion techniques have been considered that require a deeper understanding of the properties of space, particularly inertial frames and the vacuum state. To date, such methods are highly speculative and include:
+A variety of hypothetical propulsion techniques have been considered that require a deeper understanding of the properties of space, particularly inertial frames and the vacuum state. To date, such methods are highly speculative and include:
 
 -   Black hole starship
 -   Differential sail

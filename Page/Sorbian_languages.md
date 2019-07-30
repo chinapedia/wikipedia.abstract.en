@@ -12,7 +12,7 @@ Geographic distribution
 
 In Germany, Upper and Lower Sorbian are officially recognized and protected as minority languages.[3] In the home areas of the Sorbs, both languages are recognized as second official languages next to German.
 
-Bautzen_Ortschild.jpg]] The city of Bautzen in Upper Lusatia is the centre of Upper Sorbian culture. Bilingual signs can be seen around the city, including the name of the city, "Bautzen/". The city of Cottbus () is considered the cultural centre of Lower Sorbian; here, too, bilingual signs are found. Sorbian has also been spoken in the small Sorbian ("Wendish") settlement of Serbin in Lee County, Texas, and a few speakers possibly still remain there. Until 1949, newspapers were published in Sorbian there. The local dialect has been heavily influenced by surrounding speakers of German and English.
+]] The city of Bautzen in Upper Lusatia is the centre of Upper Sorbian culture. Bilingual signs can be seen around the city, including the name of the city, "Bautzen/". The city of Cottbus () is considered the cultural centre of Lower Sorbian; here, too, bilingual signs are found. Sorbian has also been spoken in the small Sorbian ("Wendish") settlement of Serbin in Lee County, Texas, and a few speakers possibly still remain there. Until 1949, newspapers were published in Sorbian there. The local dialect has been heavily influenced by surrounding speakers of German and English.
 
 The German terms "Wends" (_Wenden_) and "Wendish" (_wendisch/Wendisch_) once denoted "Slav(ic)" generally; they are today mostly replaced by "Sorbs" (_Sorben_) and "Sorbian" (_sorbisch/Sorbisch_) with reference to Sorbian communities in Germany.
 

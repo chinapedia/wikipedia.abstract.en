@@ -1,1 +1,0 @@
-AHN GOOC-JIN (born 1980), is a South Korean film director and screenwriter. Ahn's directorial feature debut _Alice in Earnestland_ (2015) has won various awards, including New Talent Award at the 39th Hong Kong Asian Film Festival, Best Screenplay at the 52nd Baeksang Arts Awards and Best Independent Film Director at the 16th Director's Cut Awards.

@@ -1,1 +1,0 @@
-MERCEDES LÓPEZ-MORALES is a Spanish-American astrophysicist at the Harvard–Smithsonian Center for Astrophysics (CfA) in Cambridge, Massachusetts, who works on detection and characterization of exoplanet atmospheres.[1][2]

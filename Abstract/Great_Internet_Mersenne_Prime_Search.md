@@ -1,1 +1,0 @@
-GIMPS_logo.png

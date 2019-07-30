@@ -1,1 +1,0 @@
-WILLIAM KIDD, also known as CAPTAIN WILLIAM KIDD or simply CAPTAIN KIDD (c. 1654 – 23 May 1701),[1] was a Scottish sailor who was tried and executed for piracy after returning from a voyage to the Indian Ocean. Some modern historians, for example Sir Cornelius Neale Dalton (see Books), deem his piratical reputation unjust.

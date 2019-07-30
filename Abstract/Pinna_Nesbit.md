@@ -1,1 +1,0 @@
-PINNA NESBIT (1896-1950) was a Canadian silent film actress.[1] She was married three times and had an affair with King Edward VIII, when he was Prince of Wales, and not yet King.[2] Her first husband, Harley Knoles, directed several of her films.[3]

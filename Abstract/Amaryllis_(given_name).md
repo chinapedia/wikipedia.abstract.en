@@ -1,1 +1,0 @@
-Arnold-Bocklin-La-Complainte-du-berger-Daphnis-et-Amaryllis.JPG AMARYLLIS (Αμαρυλλίς) is a female ancient Greek name and means "sparkling". According to mythology, the name of the flower Amaryllis derived from the nymph Amaryllis.

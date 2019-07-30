@@ -1,1 +1,0 @@
-"ANTHEM OF EUROPE" is the anthem used by the Council of Europe to represent Europe as a whole and the European Union.[1][2] It is based on "Ode to Joy" from the final movement of Beethoven's 9th Symphony composed in 1823, and is played on official occasions by both organisations.

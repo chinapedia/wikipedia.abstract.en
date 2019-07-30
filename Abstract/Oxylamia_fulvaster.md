@@ -1,1 +1,0 @@
-_OXYLAMIA FULVASTER_ is a species of beetle in the family Cerambycidae. It was described by Jordan in 1894, originally under the genus _Monohammus_. It is known from Gabon, Cameroon, the Republic of the Congo, and the Democratic Republic of the Congo.[1]

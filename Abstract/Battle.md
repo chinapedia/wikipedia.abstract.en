@@ -1,1 +1,0 @@
-A BATTLE is a combat in warfare between two or more armed forces. A war usually consists of multiple battles. Battles generally are well defined in duration, area, and force commitment.[1] A battle with only limited engagement between the forces and without decisive results is sometimes called a skirmish.

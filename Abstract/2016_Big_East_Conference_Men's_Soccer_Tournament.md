@@ -1,1 +1,0 @@
-The 2016 BIG EAST MEN'S SOCCER TOURNAMENT, was the fourth men's soccer tournament of the new Big East Conference, formed in July 2013 after the original Big East Conference split into two leagues along football lines. Including the history of the original conference, it was the 21st edition of the Big East tournament.

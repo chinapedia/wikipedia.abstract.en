@@ -1,1 +1,0 @@
-Slavic_World_updated.png

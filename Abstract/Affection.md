@@ -1,1 +1,0 @@
-Affection_LCCN2003670229.tif

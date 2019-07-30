@@ -1,1 +1,0 @@
-BRISBANE BOYS' COLLEGE BUILDINGS are the heritage-listed private school buildings at Brisbane Boys' College, 55 Moggill Road, Toowong, City of Brisbane, Queensland, Australia. They were built from 1930 to 1950. They were added to the Queensland Heritage Register on 21 October 1992.[1]

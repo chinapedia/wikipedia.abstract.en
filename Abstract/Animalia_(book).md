@@ -1,1 +1,0 @@
-_ANIMALIA_ is an illustrated children's book by Graeme Base. It was originally published in 1986, followed by a tenth anniversary edition in 1996, and a 25th anniversary edition in 2012. Over four million copies have been sold worldwide.[1] A special numbered and signed anniversary edition was also published in 1996, with an embossed gold jacket.[2]

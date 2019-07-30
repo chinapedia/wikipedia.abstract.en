@@ -1,1 +1,0 @@
-Woman_with_Fish_Frank_Dobson_Square_Tower_Hamlets.jpg

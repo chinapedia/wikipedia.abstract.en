@@ -1,1 +1,0 @@
-RAPHAËL LESSARD (born July 5, 2001)[1] is a Canadian professional stock car racing driver. He currently competes part-time in the NASCAR Gander Outdoors Truck Series, driving the No. 46 Toyota Tundra for Kyle Busch Motorsports. He has driven for Venturini Motorsports in the ARCA Racing Series.

@@ -1,1 +1,0 @@
-_FIRST LOVE, LAST RITES_ is a 1997 American romantic drama film directed by Jesse Peretz and starring Natasha Gregson Wagner and Giovanni Ribisi. It is based on the short story of the same name by Ian McEwan.[1][2]

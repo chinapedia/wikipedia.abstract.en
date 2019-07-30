@@ -1,1 +1,0 @@
-METTE LANGE is a Danish architect. A graduate of the Royal Danish Academy of Fine Arts in 1990, she divides her time between Denmark and India. She has received awards and recognition for her outstanding design of villas and vacation houses in Denmark and the mobile schools she has designed for nomad children in Goa.[1][2]

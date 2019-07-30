@@ -1,1 +1,0 @@
-'''Lucja Pietrzak ''' (born ) is a Polish female track cyclist, representing Poland at international competitions. She won the silver medal at the 2016 UEC European Track Championships in the team pursuit, but only participated in the qualifying round and semi-final.[1]

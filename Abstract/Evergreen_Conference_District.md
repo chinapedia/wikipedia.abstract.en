@@ -1,1 +1,0 @@
-Evergreen Historic District}} EVERGREEN CONFERENCE DISTRICT is a music conference center in Jefferson County, Colorado, near Evergreen. It was listed as a historic district on the National Register of Historic Places on May 1, 1979.[1] The district is located at Highway 74 along Bear Creek.[2]

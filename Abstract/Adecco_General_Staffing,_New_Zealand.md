@@ -1,1 +1,0 @@
-ADECCO GENERAL STAFFING, NEW ZEALAND is one of the largest providers of employment placement and recruitment services in New Zealand. The company employs about 90 employees across 17 offices all over the country, with headquarters in Auckland City.

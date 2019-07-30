@@ -1,1 +1,0 @@
-The INSTITUTE OF TECHNOLOGY, NIRMA UNIVERSITY (ITNU), formerly NIRMA INSTITUTE OF TECHNOLOGY, is the constituent engineering institution of Nirma University, located in Ahmedabad city. Started in 1995 by Nirma Education and Research Foundation (NERF), it was the first self-financed engineering college in Gujarat.[1]

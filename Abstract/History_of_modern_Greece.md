@@ -1,1 +1,0 @@
-The HISTORY OF MODERN GREECE covers the history of Greece from the recognition of its autonomy from the Ottoman Empire by the Great Powers (Great Britain, France, and Russia) in 1828, after the Greek War of Independence, to the present day.

@@ -1,1 +1,0 @@
-JAMES EDWIN HYSLOP (7 November 1862 in Inverness, Scotland – 15 August 1931 in El Paso, Texas) was a Scottish businessman and landowner, who settled in the Mexican state of Chihuahua and owner of several mines.

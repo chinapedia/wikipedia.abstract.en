@@ -1,1 +1,0 @@
-Qatar_31_January_2003.jpg

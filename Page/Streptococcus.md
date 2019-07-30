@@ -49,7 +49,7 @@ Beta-hemolytic
 
 Beta hemolysis (β-hemolysis), sometimes called complete hemolysis, is a complete lysis of red cells in the media around and under the colonies: the area appears lightened (yellow) and transparent. Streptolysin, an exotoxin, is the enzyme produced by the bacteria which causes the complete lysis of red blood cells. There are two types of streptolysin: Streptolysin O (SLO) and streptolysin S (SLS). Streptolysin O is an oxygen-sensitive cytotoxin, secreted by most group A _Streptococcus_ (GAS), and interacts with cholesterol in the membrane of eukaryotic cells (mainly red and white blood cells, macrophages, and platelets), and usually results in beta-hemolysis under the surface of blood agar. Streptolysin S is an oxygen-stable cytotoxin also produced by most GAS strains which results in clearing on the surface of blood agar. SLS affects immune cells, including polymorphonuclear leukocytes and lymphocytes, and is thought to prevent the host immune system from clearing infection. _Streptococcus pyogenes_, or GAS, displays beta hemolysis.
 
-Some weakly beta-hemolytic species cause intense hemolysis when grown together with a strain of _Staphylococcus_. This is called the CAMP test. _Streptococcus agalactiae_ displays this property. _Clostridium perfringens_ can be identified presumptively with this test. _Listeria monocytogenes_ is also positive on sheep's blood agar. Alpha_and_Beta_haemolytic_streptococci.jpg'' (right) and beta-hemolytic _S. pyogenes_ (left) streptococci growing on blood agar]]
+Some weakly beta-hemolytic species cause intense hemolysis when grown together with a strain of _Staphylococcus_. This is called the CAMP test. _Streptococcus agalactiae_ displays this property. _Clostridium perfringens_ can be identified presumptively with this test. _Listeria monocytogenes_ is also positive on sheep's blood agar. '' (right) and beta-hemolytic _S. pyogenes_ (left) streptococci growing on blood agar]]
 
 Group A
 
@@ -102,12 +102,12 @@ Group H streptococci cause infections in medium-sized canines. Group H streptoco
 
 Molecular taxonomy and phylogenetics
 
-Streptococcus_phylogenetic_tree.png Streptococci have been divided into six groups on the basis of their 16S rDNA sequences: _S. anginosus, S.bovis, S. mitis, S. mutans, S. pyogenes_ and _S. salivarius_.[23] The 16S groups have been confirmed by whole genome sequencing (see figure). The important pathogens _S. pneumoniae_ and _S. pyogenes_ belong to the _S. mitis_ and _S. pyogenes_ groups, respectively,[24] while the causative agent of dental caries, _Streptococcus mutans_, is basal to the _Streptococcus_ group.
+Streptococci have been divided into six groups on the basis of their 16S rDNA sequences: _S. anginosus, S.bovis, S. mitis, S. mutans, S. pyogenes_ and _S. salivarius_.[23] The 16S groups have been confirmed by whole genome sequencing (see figure). The important pathogens _S. pneumoniae_ and _S. pyogenes_ belong to the _S. mitis_ and _S. pyogenes_ groups, respectively,[24] while the causative agent of dental caries, _Streptococcus mutans_, is basal to the _Streptococcus_ group.
 
 
 Genomics
 
-Streptococcus_gene_overlap.png'', _S. mutans_, and _S. pneumoniae_. Modified after Xu et al. (2007)[25] ]] The genomes of hundreds of species have been sequenced.[26] Most _Streptococcus_ genomes are 1.8 to 2.3 Mb in size and encode 1,700 to 2,300 proteins. Some important genomes are listed in the table.[27] The four species shown in the table (_S. pyogenes, S. agalactiae, S. pneumoniae_, and _S. mutans_) have an average pairwise protein sequence identity of about 70%.[28]
+'', _S. mutans_, and _S. pneumoniae_. Modified after Xu et al. (2007)[25] ]] The genomes of hundreds of species have been sequenced.[26] Most _Streptococcus_ genomes are 1.8 to 2.3 Mb in size and encode 1,700 to 2,300 proteins. Some important genomes are listed in the table.[27] The four species shown in the table (_S. pyogenes, S. agalactiae, S. pneumoniae_, and _S. mutans_) have an average pairwise protein sequence identity of about 70%.[28]
 
   feature      _S. pyogenes_   _S. agalactiae_   _S. pneumoniae_   _S. mutans_
   ------------ --------------- ----------------- ----------------- -------------

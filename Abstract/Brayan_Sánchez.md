@@ -1,1 +1,0 @@
-BRAYAN SÁNCHEZ VERGARA (born ) is a Colombian male road and track cyclist, currently riding for UCI Continental team .[1] He won the gold medal at the 2016 Pan American Track Cycling Championships in the team pursuit.[2]

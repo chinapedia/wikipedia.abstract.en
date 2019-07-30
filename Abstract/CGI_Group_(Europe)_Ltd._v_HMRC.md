@@ -1,1 +1,0 @@
-The VAT Tribunal case of CGI GROUP (EUROPE) LIMITED V HMRC ([2010] UKFTT 396 (TC)) is a United Kingdom legal case which addressed the VAT treatment of a joint employment arrangement in the context of outsourcing services.[1]

@@ -1,1 +1,0 @@
-The 2016 WORLD KABADDI CUP was the sixth edition of the circle style World Kabaddi Cup, held from 4 November to 17 November 2016 with the Opening Ceremony on 3 November 2016 at the Nehru stadium Roopnagar. The tournament took place in Punjab, India.

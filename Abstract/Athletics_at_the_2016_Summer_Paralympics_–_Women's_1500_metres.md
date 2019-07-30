@@ -1,1 +1,0 @@
-The WOMEN'S 1500M athletics events for the 2016 Summer Paralympics took place at the Estádio Olímpico João Havelange from 8 to 17 September. A total of four events were contested over this distance for eight different classifications.[1]

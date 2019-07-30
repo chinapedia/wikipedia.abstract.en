@@ -1,5 +1,3 @@
-The_Seabee_expression.jpg Bougainville_Seabee_and_Marine_Raider_1.jpg
-
 UNITED STATES NAVAL CONSTRUCTION BATTALIONS, better known as the SEABEES, form the Naval Construction Force (NCF) of the United States Navy. Their nickname is a heterograph of the first initials "C.B." from the words Construction Battalion.[1][2] Depending upon how the word is used "Seabee" can refer to one of three things: all the enlisted personnel in the USN's occupational field-7 (OF-7), all officers and enlisted assigned to the Naval Construction Force (NCF), or the U.S. Navy's Construction Battalions (CBs). Seabees also serve outside the NCF. During WWII Seabees served in both the Naval Combat Demolition Units and the UDTs as well as Cubs, Lions, Acorns and the United States Marine Corps.[3] Today they can be found in many special needs assignments: Naval Support Unit: Department of State, at Camp David, manning many Naval Facilities Public Works or the Naval Facilities Mobile Support Equipment Group(MUSE) or any overseas Naval Station Public Works, under both Commanders of the Naval Surface Forces Alantic/Pacific fleets, in various USN diving commands and the Combat Service Support Task Unit (Naval Special Warfare).
 
 Naval Construction Battalions were conceived of as a replacement for civilian construction companies working for the US Navy after the United States was drawn into World War II with the Japanese attack on Pearl Harbor on 7 December 1941. At that time the U.S. had roughly 70,000 civilians working on military installations overseas.[4] International law made it illegal for them to resist enemy attack, as to do so would classify them as guerrillas, for which they could be summarily executed, which is exactly what happened when the Japanese invaded Wake Island.[5]
@@ -36,7 +34,7 @@ Rear Admiral Ben Moreell became the Chief of BuDocks in December 1937, a post he
 
 World War II
 
-Flag_of_the_United_States_Navy_(1864–1959).svg for the Construction Battalions.[12] (U.S. Navy)]] Peary1943BayonetCrpd6996985447_054ffcd41d_k.jpg NTC, VA in 1943 (Seabee Museum)]]
+for the Construction Battalions.[12] (U.S. Navy)]] NTC, VA in 1943 (Seabee Museum)]]
 
 By summer of 1941 civilian contractors were working on large naval bases at Guam, Midway, Wake, Pearl Harbor, Iceland, Newfoundland, Bermuda, and many other places. BuDocks decided there was a need to improve the Navy's supervision of these projects through the creation of "Headquarters Construction Companies". The men in these companies would report to the officers in charge of construction and would be draftsmen and engineering aids needed for the administrative functions of the inspectors and supervisors overseeing the contracted work. These companies would consist of two officers and 99 enlisted men, but were not to do any actual construction. Rear Admiral Chester Nimitz, Chief of the Bureau of Navigation, authorized the formation of the 1st Headquarters Construction Company, on 31 October 1941. Recruitment started in November and as history would have it the company was formed on 7 December[13] with the men undergoing boot training at Naval Station Newport, Rhode Island. By 16 December 1941, four additional companies had been authorized, but 7 December happened, plans changed and with them the ratings needed by a change in mission. The 1st HQ Construction Company provided the nucleus for the formation of the 1st Naval Construction Detachment sent to Bora Bora in January 1942. Those men were part of Operation Bobcat[14] and are known in Seabee history as the "Bobcats". In December 1941, Rear Admiral Ben Moreell, Chief of BuDocks, recommended establishing Navy Construction Battalions and on the 28th requested authority to carry this out. On 5 January 1942, he got the go-ahead from the Navy's Bureau of Navigation to recruit construction tradesmen for three naval construction battalions. When Admiral Moreell submitted his request to form those battalions the other four HQ construction companies had been approved and authorized, so HQ Companies 2 & 3 were combined to form the 1st Naval Construction Battalion that were then were deployed as the 2nd & 3rd Construction Detachments. The 1st NCB was commissioned on 21 January at Charleston So. Carolina. The next HQ Companies 4 & 5 were combined to form the 2nd Naval Construction Battalion, and were deployed as the 4th and 5th Construction Detachments. While those four HQ Companies provided the nucleus for two construction battalions they were all deployed in a manner similar to the first construction detachment and this sort of thing continued through the 5th NCB.[15] It was 6 NCB that was the first Battalion to deploy as a unit to the same place.[16]
 
@@ -54,7 +52,7 @@ By the end of 1945 the Seabees had constructed over 300 different advanced bases
 
 ALANTIC In the Atlantic CBs biggest job was the preparations for the assault on Europe and the Normandy landing. However, a long way from the beach 3 Seabee units took part in the crossing of the Rhine, CBMU 627, CBMU 628, and CBMU 629. For 629 it was front-line work.[36] The three CBMUs were formed from the 114th CB.
 
-Eagle,_Globe,_and_Anchor.svg for Seabees and Corpsmen.[37]]] 53rd_NCB.jpg 19th_NCB.jpg Seabee_Logo_Figure.jpg
+for Seabees and Corpsmen.[37]]]
 
 MARINE CORPS USMC historian Gordon L. Rottman wrote "that one of the biggest contributions the Navy made to the Marine Corps during WWII was the creation of the Seabees".[38] In turn, the Corps would be influential upon the CB organization and its history. In 1942 the marines issued USMC duffel bags and uniforms to Battalions 18-20.[39][40][41] In the records of both the 18th and 19th NCBs they each claim to have been the first CB authorized to wear the USMC uniform.[42] They both received their military training and USMC issue at Marine Training Center, New River, N.C. Marine Corps Base Camp Lejeune. How many other battalions received the USMC issue is not recorded but it is known that the 25th, 31st, 43rd,[43] 76th,[44] 121st and 133rd NCBs did also.[45] The Marine Corps listed CBs on their Table of organization: "D-Series Division" for 1942,[46] "E-Series Division" for 1943,[47][48] and "Amphibious Corps" for 1944/45.[49]
 
@@ -74,7 +72,7 @@ With the war over the Seabees ended up with the most unique standing any U.S. mi
 
 see Notes: 2a–2l
 
-NAVAL COMBAT DEMOLITION UNITS: NCDUS NCDU1.jpg Naval_Combat_Demolition_Unit_45.jpg & French Croix de Guerre with Palm, while MM2 Meyers received a Silver Star.[91]]]
+NAVAL COMBAT DEMOLITION UNITS: NCDUS & French Croix de Guerre with Palm, while MM2 Meyers received a Silver Star.[91]]]
 
 In early May 1943, a two-phase "Naval Demolition Project" was directed by the Chief of Naval Operations "to meet a present and urgent requirement". The first phase began at Amphibious Training Base (ATB) Solomons, Maryland with the establishment of Operational Naval Demolition Unit No. 1. Six Officers and eighteen enlisted men reported from NTC Camp Peary dynamiting and demolition school, for a four-week course on May 14.[92][93] Those Seabees, lead by Lieutenant Fred Wise CEC, were immediately sent to participate in the invasion of Sicily.[94][95]
 
@@ -86,7 +84,7 @@ With Europe invaded Admiral Turner requisitioned all available NCDUs from Fort P
 
 see Notes: 2m–2q
 
-UNDERWATER DEMOLITION TEAMS: UDTS Seabee_Demolition_UDT_3.jpg
+UNDERWATER DEMOLITION TEAMS: UDTS
 
 ''Prior to Operation Galvanic and Tarawa, V Amphibious Corps had identified coral as an issue for future amphibious operations. Rear Admiral Kelly Turner, commander V Amphibious Corps had ordered a review to get a grip on the problem. VAC found that the only people having any applicable experience with the material were men in the Naval Construction Battalions. The Admiral tasked Lt. T. C. Crist (CEC) to develop a method for blasting coral under combat conditions and putting together a team to do it.[113] Lt. Crist started by getting others he had blasted coral with in CB 5. By the end of November 1943 he had close to 30 officers and 150 enlisted gathered at Waipio Amphibious Operating Base on Oahu.[114] ''
 
@@ -104,7 +102,7 @@ see Notes: 2r–2u
 
 AFRICAN AMERICAN SERVICE: THE SEABEE STEVEDORES
 
-"Group_of_CBs_acting_as_stretcher_bearers_for_the_7th_Marines._Peleliu.",_09-1944_-_NARA_-_532537.jpg In February 1942 CNO Admiral Harold Rainsford Stark recommended African Americans for ratings in the construction trades. In April the Navy announced it would enlist African Americans in the Seabees. Even so, there were just two regular CBs that were segregated units, the 34th[138] and 80th[139] NCBs. Both had white Southern officers and black enlisted. Both battalions experienced problems with that arrangement that led to the replacement of the officers.
+In February 1942 CNO Admiral Harold Rainsford Stark recommended African Americans for ratings in the construction trades. In April the Navy announced it would enlist African Americans in the Seabees. Even so, there were just two regular CBs that were segregated units, the 34th[138] and 80th[139] NCBs. Both had white Southern officers and black enlisted. Both battalions experienced problems with that arrangement that led to the replacement of the officers.
 
 The Navy had a huge need for cargo handlers.[140] The lack of stevedores for unloading ships in combat zones was creating a problem. On 18 September 1942 authorization was granted for the formation of a different type of CB denoted by the tag "Special" for cargo handling.[141] By wars end 41 Special Construction Battalions were commissioned of which 15 were segregated. Those Special CBs later became the first fully integrated units in the U.S. Navy.[142] The wars end also brought the decommissioning of every one of those units. The Navy's contemporary version of these units are Navy Cargo Handling Battalions of the Navy Expeditionary Logistics Support Group (United States).
 
@@ -113,7 +111,7 @@ Of particular note were the actions of the 17th Special at Peleliu 15–18 Septe
 -   On Peleliu, shore party detachments from the 33rd and 73rd CBs received Presidential Unit Citations as did the primary shore party (1st Marine Pioneers).[150] The Commander of the 17th Special CB (segregated) received the same commendatory letter as the Company Commanders of the 7th Marine Ammo Co. (segregated) and the 11th Marine Depot Co.(segregated). Before the battle was even over, Major General Rupertus, USMC wrote to each:
 -   African American Seabees[151][152]
 
-SEABEE NORTH SLOPE OIL EXPLORATION 1944 Winterized_wildcat_Seabee_1_in_NPR_4,at_Umiat,_Alaska.jpg
+SEABEE NORTH SLOPE OIL EXPLORATION 1944
 
 A Construction Battalion Detachment (CBD) was formed from "screening Camp Peary and the NCF for geologists, petroleum engineers, driller (oil), tool pushers, roustabouts and roughnecks" and later designated 1058.[153][154] Many of the enlisted and officers were chosen for their arctic experience with CB 12 and CB 66.[155] Once chosen the detachment was assembled at Camp Lee Stephenson. The original plan in 1944 had been to send them to the recaptured oil fields of New Guinea with the assignment to get those fields back in production.[156] This changed when Congress earmarked $1,000,000 for Operation Pet 4 and it was decided to send the unit to Alaska to determine if there was actually oil in NPR 4 (U.S. Navy Petroleum Reserve No. 4). NPR-4 had been created and placed in the oil reserve in 1923.[157] The area is known today as the National Petroleum Reserve in Alaska. The detachment's mission was to complete a detailed geologic study at Umiat and Cape Simpson, begin core hole and deep well drilling, as well complete aerial and overland pipeline surveys.[158] In 1944, a base camp was constructed a Point Barrow. Four D-8s with twenty sleds of supplies were readied for the 330 mile trek to Umiat once the ground froze to support them.[159] After those supplies were delivered the Cats returned to get the heavy well equipment.[160] During the summer of 1945 the Seabees drilled a 1,816-foot wildcat designated Seabee #1[161] before being shut down by the cold. The well site was near 4 known seeps at Umiat in the very south-east of NPR 4.[162][163] The rock in the area was from the Upper Cretaceous and a stratum of it was named the "Seabee Formation".[164] On the coast the Seabees drilled test holes at Cape Simpson and Point Barrow.[165] In March 1946 civilians took over for the Seabees some of whom had been members of CBD 1058 and were hired immediately upon discharge to continue in the same job they had performed for the Navy."[166] The Navy drew upon the cold weather experience it gained from CBD 1058 and applied it in Operation Highjump and Operation Deep Freeze. – Today Seabee #1 is a USGS monitor well.[167]
 
@@ -133,7 +131,7 @@ With the fall of Japan Operation Beleaguer was initiated for the repatriation of
 
 Cold War: Operation Crossroads
 
-Seabees_build_camera_tower_on_Bikini_Atoll.jpg In early 1946 the 53rd NCB was still attached to III Marine Amphibious Corps[182] and was deployed for the preparations of the nuclear testing at Bikini Atoll as a component of Operation Crossroads.[183] At Bikini the battalion was assigned to Task Group 1.8 and designated TU 1.8.6.[184] The project list included observation and communication towers, general base facilities, and dredging the lagoon. On 3 August the battalion was decommissioned with the men transferred to CBD 1156 that was commissioned on Bikini.[185] The TU 1.8.6 designation continued with them. The Battalion remained on the atoll for nine days after the second nuclear test when it was detached from the Marine Corps and deactivated there.[186][187]
+In early 1946 the 53rd NCB was still attached to III Marine Amphibious Corps[182] and was deployed for the preparations of the nuclear testing at Bikini Atoll as a component of Operation Crossroads.[183] At Bikini the battalion was assigned to Task Group 1.8 and designated TU 1.8.6.[184] The project list included observation and communication towers, general base facilities, and dredging the lagoon. On 3 August the battalion was decommissioned with the men transferred to CBD 1156 that was commissioned on Bikini.[185] The TU 1.8.6 designation continued with them. The Battalion remained on the atoll for nine days after the second nuclear test when it was detached from the Marine Corps and deactivated there.[186][187]
 
 UDT 3 was designated TU 1.1.3 for the operation. On 27 April 1946, 7 officers and 51 enlisted embarked the USS Begor (APD-127) at the Seabee's base, Port Hueneme, for transit to Bikini.[188] Afterwards in 1948 the displaced natives put in a request to the U.S. Navy to blast a channel for access to the island Kili they had been relocated on. This was given to the Seabee detachment on Kwajelin who placed a request for UDT 3. The King of the Bikinians was so pleased he held a going-away feast for the UDTs.
 
@@ -159,7 +157,7 @@ In January 1947, CBs 104 and 105 were reactivated to join CB 103. The 121st CB w
 
 Cold War: Korea
 
-Yo_Do_Island_ACB_1_refueling_Corsairs.jpg NAS_Cubi_Point_and_NS_Subic_Bay.jpg left, U.S. Naval Base Subic Bay right. Seabees leveled a mountain that civilian contractors said could not be done. (USN)]] NMCB_5_CCAD.jpg built by NMCB 5 CCAD in Timor-Liste 2015(Seabee Museum)]]
+left, U.S. Naval Base Subic Bay right. Seabees leveled a mountain that civilian contractors said could not be done. (USN)]] built by NMCB 5 CCAD in Timor-Liste 2015(Seabee Museum)]]
 
 The outbreak of the Korean War in June 1950 led to a call-up of more than 10,000 men from the Seabee Naval Reserve program. The Seabees landed at Inchon with the assault troops. They dealt with enormous tides and enemy fire while installing causeways within hours of the initial landings. Their action here and at other landings emphasized the role of the Seabees. When the truce was declared there was no Seabee demobilization as there had been at the end of WWII.
 
@@ -176,9 +174,9 @@ CONSTRUCTION CIVIC ACTION DETAILS or CCAD[216] CCADs or "See-Kads" are larger ci
 
 Cold War: Antarctica
 
-Amundsen-Scott_South_Pole_Station.jpg Nuke_pm3a_tank_U.S.Navy.jpg (U.S. Navy)]] OPERATION HIGHJUMP On 2 and 5 December 1946, 166 Seabees sailed from Port Hueneme on the USS Yancey and USS Merrick assigned to Operation Highjump. They were part of Admiral Richard E. Byrd's Antarctic expedition. The U.S. Navy was in charge with "Classified" orders "to do all it could to establish a basis for a (U.S.) land claim in Antarctica".[218] The Navy sent the Seabees to do the job starting with the construction of Little America (exploration base) IV as well as a runway for aerial mapping flights.[219] This Operation was vastly larger than IGY Operation Deep Freeze that followed.[220]
+(U.S. Navy)]] OPERATION HIGHJUMP On 2 and 5 December 1946, 166 Seabees sailed from Port Hueneme on the USS Yancey and USS Merrick assigned to Operation Highjump. They were part of Admiral Richard E. Byrd's Antarctic expedition. The U.S. Navy was in charge with "Classified" orders "to do all it could to establish a basis for a (U.S.) land claim in Antarctica".[218] The Navy sent the Seabees to do the job starting with the construction of Little America (exploration base) IV as well as a runway for aerial mapping flights.[219] This Operation was vastly larger than IGY Operation Deep Freeze that followed.[220]
 
-OPERATION DEEP FREEZE MCB_1_Sled_train_departing_Little_America_for_traverse_to_Byrd_Station.jpg
+OPERATION DEEP FREEZE
 
 In 1955, Seabees began deploying yearly to the continent of Antarctica as participants in Operation Deep Freeze. Their mission was to build and expand scientific bases located on the frozen continent and further establish a land claim for the U.S. (Fig. 19). The first "wintering over" party included 200 Seabees who distinguished themselves by constructing a ice runway on McMurdo Sound. Despite a blizzard that undid the entire project, the airstrip was completed in time for the advance party of Deep Freeze II to become the first to fly into the South Pole by plane. MCB 1 was assigned for Deep Freeze II.
 
@@ -191,8 +189,6 @@ CIA
 
 -   After the Seabees left Camp Peary the CIA moved into the base and now refer to the it as "the Farm".
 -   During WWII NAS Tanapag, Saipan was a "giant forward propaganda base for the U.S. Navy and the Office of War Information"(OWI).[223] In 1947 Construction Battalion Detachment 1510 began maintaining NAS Tanapag for the NTTU(Naval Technical Training Unit).[224][225] In 1948 CBD 1510's 256 men were transferred to CBD 1504 about the same time 1504 relieved CB 121 as island Public Works. In addition to the base and two airfields there were four radio transmission towers to maintain. That year the CIA began using the NTTU as a cover for its Saipan operation and made access highly restricted to NAS Tanapag. Station Security was instructed any unauthorized intrusions were to be shot with no questions asked. The station covered the entire Northern half of Saipan including both Kagman Field and Marpi Point Field.[226] "Brig. Gen. Edward G. Lansdale, Pentagon expert on guerrilla warfare, shared with Gen. Maxwell D. Taylor, President Kennedy’s military adviser, on “Resources for Unconventional Warfare in SE. Asia.”....that the “CIA maintains a field training station on the island of Saipan ... the installation is under Navy cover and is known as the Naval Technical Training Unit. The primary mission of the Saipan Training Station is to provide physical facilities and competent instructor personnel to fulfill a variety of training requirements including intelligence tradecraft, communications, counter-intelligence and psychological warfare techniques. Training is performed in support of CIA activities conducted throughout the Far East area."[227] There is a date of 1953 for when the Seabees ceased the Public Works assignments at NAS Tanapag and Saipan while the CIA remained until 1962. However, MCB 9 deployed to Saipan in 1954 with one of their projects being the up-grading of the Public Works shops.[228]
-
-Swan_Islands.jpeg
 
 -   A year before the Bay of pigs and Cuban Missile Crisis the CIA took an urgent/immediate project to the Seabees.[229] The agency wanted two 220' radio towers with a supporting airstrip, dock, and quonsets erected on Swan Island, built asap, with no construction plans for the Seabees.[230] The station would be independent and self powered. Det Tango of MCB 6 was given the project.[231] LSTs 1046 and 1056 were loaded at Quonset Point with all the men and materials required.[232] The Seabees had the CIA,s "Radio Swan" on the air in short order.[233]
 -   CIA redacted memorandum dated 14 June 1968 discusses the use on Naval Construction Personal/Seabees on a project that appears to be CONUS. As is, the GSA is forbidden from using "Naval Personal" however, the memorandum discusses the possibility for releasing the project in two parts: non-sensitive areas and security sensitive areas. This approach would allow the GSA a means around the restriction of using Seabees in CONUS by arguing they were necessary for "National Security".[234]
@@ -208,7 +204,7 @@ see Notes: 7a-7b
 
 Cold War: Vietnam
 
-STAT_1104.jpg, the 9-man team received the Navy Unit Commendation a Medal of Honor, 2 Silver Stars, 6 Bronze Stars with Vs and 9 purple hearts. (USN) ]] Vietnam_era_Seabee_Equipment_Operator_collar_devices.jpg
+, the 9-man team received the Navy Unit Commendation a Medal of Honor, 2 Silver Stars, 6 Bronze Stars with Vs and 9 purple hearts. (USN) ]]
 
 Seabees deployed to Vietnam twice in the 1950s. First in June 1954 as elements of Operation Passage to Freedom and then two years later to map and survey the nations roads. Seabee teams 501 and 502 arrived on 25 Jan 1963 and are regarded as the first Seabees of the Vietnam War. They were sent to Dam Pau and Tri Ton to build camps for the Special Forces.[235] In June 1965, Construction Mechanic 3rd Class Marvin G. Shields was a member of Seabee Technical Assistance Team 1104, that took part in the Battle of Dong Xoai. He was posthumously awarded the Medal of Honor for his actions there and is the only Seabee ever to be awarded the Medal of Honor. Those Seabee "Civic Action Teams" continued throughout the Vietnam War and often were fending off enemy forces alongside their Marine and Army counterparts. Teams typically built schools, clinics or drilled wells. In 1964 ACB 1 was the first CB in the theatre. Beginning in 1965 Naval Construction Regiments (NCRs) deployed throughout Vietnam. The Seabees supported the Marines at Khe Sanh and Chu Lai Base Area in addition to building a staggering number of aircraft-support facilities, roads, and bridges. Seabees also worked with and taught construction skills to the Vietnamese people. "In 1966, Navy Seabees rebuilt the damaged airfield at Khe Sanh in four days, with 3,900 feet of 60-foot-wide aluminum matting to serve cargo planes. General Westmoreland “called it one of the most outstanding military engineering feats in Vietnam.”"[236] Lt. Joseph J. Rhodes of MCB 121 was the first CEC KIA (23/10/1967).[237]
 
@@ -228,7 +224,7 @@ Camp David is officially known as Naval Support Facility Thurmont, because it is
 
 Cold War: Naval Support Unit: Department of State
 
-Diplomatic_Security_photo.jpg Seabees were first assigned to the State Department in 1964 because listening devices were found in the Embassy of the United States in Moscow.[248] Initially the Seabees were members of “Naval Mobile Construction Battalion FOUR, Detachment NOVEMBER,”[249] The U.S. had just constructed a new embassy in Warsaw so the Seabees were dispatched and found lots of "bugs". This led to the creation of the support unit in 1966 and made permanent in 1968.[250] That year William Darrah, a Seabee of the support unit, is credited with saving the U.S. Embassy in Prague, Czechoslovakia from a potentially disastrous fire.[251] In 1986, "as a result of reciprocal expulsions ordered by Washington and Moscow" Seabees were sent to "Moscow and Leningrad to help keep the embassy and the consulate functioning".[252]
+Seabees were first assigned to the State Department in 1964 because listening devices were found in the Embassy of the United States in Moscow.[248] Initially the Seabees were members of “Naval Mobile Construction Battalion FOUR, Detachment NOVEMBER,”[249] The U.S. had just constructed a new embassy in Warsaw so the Seabees were dispatched and found lots of "bugs". This led to the creation of the support unit in 1966 and made permanent in 1968.[250] That year William Darrah, a Seabee of the support unit, is credited with saving the U.S. Embassy in Prague, Czechoslovakia from a potentially disastrous fire.[251] In 1986, "as a result of reciprocal expulsions ordered by Washington and Moscow" Seabees were sent to "Moscow and Leningrad to help keep the embassy and the consulate functioning".[252]
 
 The Support Unit has a limited number of special billets for select NCOs, E-5 and above. These Seabees are assigned to the Department of State and attached to Diplomatic Security.[253][254] Those chosen can be assigned to the Regional Security Officer of a specific embassy or be part of a team traveling from one embassy to the next. Duties include the installation of alarm systems, CCTV cameras, electromagnetic locks, safes, vehicle barriers, and securing compounds(Fig. 22). They can also assist with the security engineering in sweeping embassies (electronic counter-intelligence). They are tasked with new construction or renovations in security sensitive areas and supervise private contractors in non-sensitive areas.[255] Due to Diplomatic protocol the Support Unit is required to wear civilian clothes most of the time they are on duty and receive a supplemental clothing allowance for this. The information regarding this assignment is very scant, but State Department records in 1985 indicate Department security had 800 employees, plus 1,200 Marines and 115 Seabees.[256] That Seabee number is roughly the same today.[257]
 
@@ -236,8 +232,6 @@ see Notes: 9a-9c and 5a
 
 
 Cold War: NASA, Tektite I,
-
-Tektite_I_exterior.jpg
 
 In 1960 MCB 103 built a Project Mercury telemetry and ground instrumentation station on Canton island.[258]
 
@@ -264,7 +258,7 @@ During the Persian Gulf War, more than 5,000 Seabees (4,000 active and 1,000 res
 
 Iraq, Afghanistan, and the War on Terror
 
-US_Navy_030527-N-5362A-010_Engineering_Aide_1st_Class_Scott_Lyerla_assigned_to_Naval_Mobile_Construction_Battalion_Fifteen_(NMCB-15)_helps_to_guard_his_convoy_as_it_travels_through_Al_Hillah_in_support_of_Operation_Iraqi_Freedo.jpg, Iraq in May 2003 (U.S. Navy).]]
+, Iraq in May 2003 (U.S. Navy).]]
 
 Seabees were deployed from the beginning of the invasion of Afghanistan in 2001 and Iraq in 2003. They provided the required construction skills to rebuild the infrastructure of both Afghanistan and Iraq. All active and reserve NMCBs and NCRs were deployed to get the job done.[279] NMCB 133 deployed to FOBCamp Rhino and Kandahar Airfield where a detention facitlty was constructed.[280] One of their most high-profile tasks in Iraq was the removal of statues of Saddam Hussein in Baghdad. In Afghanistan, the Seabees' main task was the construction of multiple forward operating bases for U.S. and coalition forces.[281]
 
@@ -275,7 +269,7 @@ see Notes:
 
 Disaster relief and recovery
 
-US_Navy_060821-N-7770P-002_A_team_of_U.S._Navy_Seabees_assigned_to_Naval_Mobile_Construction_Battalion_Five_(NMCB_5),_attached_to_Combined_Joint_Task_Force_Horn_of_Africa_(CJTF_HOA),_set_up_tents.jpg set up tents to house displaced victims of a devastating flood that hit Ethiopia. (U.S. Navy, 2006)]]
+set up tents to house displaced victims of a devastating flood that hit Ethiopia. (U.S. Navy, 2006)]]
 
 -   Hurricane Camille in 1969 made landfall 20 miles west of Naval Construction Battalion Center (Gulfport, Mississippi), NMCB-121 was in home port then, and was called upon for cleanup, rescue, and community outreach for months to come. They fed displaced families and supported the community.
 -   Cyclone Ofa in 1990 – NMCB 133 sent a 100-man detachment to American Samoa to aid in the recovery.
@@ -302,9 +296,9 @@ Combat Service Support Detachments(CSSD) have several hundred Seabees assigned i
 
 Naval Construction Force (NCF)
 
-WWII_Seabee_Battalion_Organization.jpg At present, there are six active-duty Naval Mobile Construction Battalions (NMCBs) in the United States Navy, split between the Pacific Fleet and the Atlantic Fleet.
+At present, there are six active-duty Naval Mobile Construction Battalions (NMCBs) in the United States Navy, split between the Pacific Fleet and the Atlantic Fleet.
 
-30TH NAVAL CONSTRUCTION REGIMENT, HQ GUAM – PACIFIC FLEET - Homeport for the Pacific Fleet Battalions is Port Hueneme, CA. Seabees.jpg US_Navy_090513-M-6882R-233_Navy_Petty_Officers_1st_Class_John_Cid,_from_Quezon_City,_Philippines,_and_Thomas_Damron,_from_Port_Hueneme,_Calif.,_frame_walls_of_the_Regimental_Combat_Team_3_Combat_Operations_Center.jpg in Afghanistan in 2009 (USMC)]]
+30TH NAVAL CONSTRUCTION REGIMENT, HQ GUAM – PACIFIC FLEET - Homeport for the Pacific Fleet Battalions is Port Hueneme, CA. in Afghanistan in 2009 (USMC)]]
 
 -   NMCB 3[302]
 -   NMCB 4
@@ -344,7 +338,7 @@ DIVISION: Shortly after the commencement of the Global War on Terror, it was rea
 
 CONSTRUCTION BATTALION MAINTENANCE UNIT (CBMU): When first organized during World War II, these units consisted of approximately one fourth of the personnel of an NCB, and were intended to take over the maintenance of bases on which major construction had been completed. Today, CBMU's provide public works support at Naval Support Activities, Forward Operating Bases, and Fleet Hospital/Expeditionary Medical Facilities during wartime or contingency operations. They also provide disaster recovery support to Naval Regional Commanders in CONUS.
 
-UNDERWATER CONSTRUCTION TEAM (UCT): U.S._Sailors_assigned_to_Construction_Dive_Detachment_Alpha,_Underwater_Construction_Team_2_dive_over_the_remains_of_the_battleship_USS_Arizona_at_Joint_Base_Pearl_Harbor-Hickam,_Hawaii,_March_21,_2013_130321-N-WX059-135.jpg make dives to ascertain the condition and status of the battleship USS Arizona Memorial at Pearl Harbor, Hawaii, March 21, 2013, USN 130321-N-WX059-135]]
+UNDERWATER CONSTRUCTION TEAM (UCT): make dives to ascertain the condition and status of the battleship USS Arizona Memorial at Pearl Harbor, Hawaii, March 21, 2013, USN 130321-N-WX059-135]]
 
 "NAVFAC Engineering & Expeditionary Warfare Center Ocean Facilities Department supports the Fleet through the support it gives the Underwater Construction Teams".[308] UCTs deploy worldwide to conduct underwater construction, inspection, repair, and demolition operations of ocean facilities, to include repair of battle damage. They maintain a capability to support a Fleet Marine Force amphibious assault, subsequent combat service support ashore, and self-defense for their camp and facilities under construction. UCT1 is home ported at Virginia Beach, Virginia, while UCT2 is at Port Hueneme, California.
 
@@ -352,13 +346,13 @@ UNDERWATER CONSTRUCTION TEAM (UCT): U.S._Sailors_assigned_to_Construction_Dive_D
 
 NAVAL CONSTRUCTION GROUPS: In 2013, the Seabee Readiness Groups (SRGs) were decommissioned, and re-formed into Naval Construction Groups One and Two. They are regimental-level command groups, tasked with administrative and tactical control of Seabee Battalions, as well as conducting pre-deployment training of NCF units in the NCGs' respective home port locations. Currently, Naval Construction Group Two (NCG-2) is based at CBC Gulfport, and Naval Construction Group One (NCG-1) is based at CBC Port Hueneme.
 
-AMPHIBIOUS CONSTRUCTION BATTALION (ACB): [not NCF assigned] US_Navy_030404-N-1050K-023_U.S._Navy_Seabees_assigned_to_Amphibious_Construction_Battalions_One_and_Two_prepare_to_place_the_next_roadway_section_being_used_in_the_building_of_the_Elevated_Causeway_System-Modular_(ELCAS_(M))_st.jpg, Kuwait (Apr 4, 2003) It was the first time the ELCAS/M (length 1,400-feet) was assembled in a combat operation.[310]]]
+AMPHIBIOUS CONSTRUCTION BATTALION (ACB): [not NCF assigned] , Kuwait (Apr 4, 2003) It was the first time the ELCAS/M (length 1,400-feet) was assembled in a combat operation.[310]]]
 
 ACBs (also abbreviated as PHIBCB) evolved out of pontoon assembly battalions formed as part of the Seabees during World War II. On 31 October 1950, MCBs 104 and 105 were re-designated ACB One and ACB Two, and assigned to Naval Beach Groups. Today, the ACBs are not part of the NCF, reporting to surface TYCOMs. Additionally, an ACB has a different personnel-mix to an NMCB, with half the enlisted personnel being traditional Seabee rates and the other half being fleet rates.
 
 PUBLIC WORKS: U.S. NAVAL BASES: These units have CEC officers leading them and enlisted Seabees for the various crews. About one-third of new Seabees are assigned to Public Works Departments (PWD) at naval installations both within the United States and overseas. While stationed at a Public Works Department, a Seabee has the opportunity to get specialized training and extensive experience in one or more facets of their rating. Some bases have civilians that augment the Seabees, but the department is a military organization.
 
-SEABEE ENGINEERING RECONNAISSANCE TEAMS (SERTS) US_Navy_030412-N-1485H-009_Seabee_Engineer_Reconnaissance_Team_(SERT)_reach_their_mission_destination_to_determine_if_an_old_bridge_can_be_used_to_support_troop_and_convoy_movements_during_an_annual_field_exercise.jpg
+SEABEE ENGINEERING RECONNAISSANCE TEAMS (SERTS)
 
 Seabee Engineer Reconnaissance Teams are ten-person teams, developed during Operation Iraqi Freedom (Fig.29). SERTs are divided into three components: a liaison element, a security element and a reconnaissance element. The liaison (LNO) element has a CEC officer and two petty officers who are communications specialists. The LNO element is responsible for communications with higher echelons, both in transferring engineering assessments and intelligence and in receiving engineering reach-back solutions. The reconnaissance element has a CEC officer, who is the SERT Officer-in-Charge (OIC), a Builder or Steelworker chief petty officer who has some bridge construction experience, and petty officers of varying Seabee ratings. The OIC is normally a licensed professional engineer with a civil/structural engineering background. A SERT unit will include a corpsman or corpsman-trained member, with the rest of the team being selected from the best of their trades in their battalion. All are qualified Seabee Combat Warfare Specialists. The UCTs proved the SERT concept was viable and they have led the way to the concept's adoption throughout OIF.[311]
 
@@ -376,11 +370,9 @@ NCF UNIT TYPES THAT NO LONGER EXIST
 
 Training and rates
 
-US_Navy_070406-N-0775Y-078_Equipment_Operator_1st_Class_Shannon_Farber_instructs_Mass_Communication_Specialist_1st_Class_Carmichael_Yepez_how_to_aim_a_M-240B_machine_gun_during_a_weapons_training_exercise_at_a_range_in_Camp_Han.jpg at the Marine Corps gun range, Camp Hansen Okinawa . (USN)]] USMC_barracks_inspection.jpg at Camp Lejeune in March 1968 (USN)]]
+at the Marine Corps gun range, Camp Hansen Okinawa . (USN)]] at Camp Lejeune in March 1968 (USN)]]
 
 The newcomers begin "A" School (preliminary training) fresh out of boot camp, or they come from the fleet after their service term is met, spending about 75% of the twelve weeks immersed in hands-on training. The remaining 25% is spent in classroom instruction. From "A" School, new Seabees most often report to an NMCB command for their first tour of duty. For training, the new Seabees attend a four-week course of Expeditionary Combat Skills (ECS) at the Naval Construction Battalion Center in Gulfport, Mississippi, and Port Hueneme, California. ECS is also being taught to all personnel who report to a unit in the Navy Expeditionary Combat Command. ECS is a basic combat-skills course in learning map reading and land navigation, battlefield first aid, formulating defensive plans, conducting reconnaissance, and other combat-related skills. Half of each course is spent at a shooting range learning basic rifle-marksmanship and qualifying with a M16A2 or M16A3 rifle and the M9 service pistol. Those that are posted Alfa Company of an NMCB may be assigned to a crew-served weapon, such as the MK 19 40 mm grenade launcher, the M2HB .50-caliber machine gun, or the M240 machine gun. Many reserve units still field variants of the M60 machine gun. Until 2012, Seabees wore the U.S. Woodland camouflage uniform or the legacy tri-color Desert Camouflage Uniform, the last members of the entire U.S. military to do so, but have now transitioned to the Navy Working Uniform NWU Type III. Seabees use ALICE field gear, as well as some units working with Marines using USMC-issue Improved Load Bearing Equipment (ILBE) gear.
-
-US_Navy_061114-N-0553R-001_U.S._Navy_Seabee_Utilitiesman_3rd_Class_Mark_Crubaugh,_stationed_with_Naval_Mobile_Construction_Battalion_ONE_(NMCB-1),_works_alongside_Marines_from_the_9th_Engineer_Support_Battalion,_3rd_Marine_Logi.jpg
 
 WWII TRAINING
 
@@ -435,8 +427,6 @@ Diver : is a qualification that the various rates can obtain with three grades: 
 
 The "Seabee" and CB unit insignias
 
-Seabee_logo.jpg
-
 On 1 March 1942 the Chief of BuDocks recommended that as a means to promote _esprit de corps_ in the new branch of construction battalions, that an insignia be created for use on equipment similar to what air squadrons used on their aircraft (Fig. 26). This was not something for the uniform.[331] Frank J. Iafrate, a civilian plan file clerk at Quonset Point Advance Naval Base, Davisville, Rhode Island, was the artist who designed the original "Disney Style" Seabee in early 1942 with a large capital letter Q around the edge as border. This design was sent to Admiral Moreell who made a single request: that this reference to Quonset Point be changed to a hawser rope and it would be officially adopted.[332] That design remains in use to this day, predominantly unchanged. In late 1942, after designing the logo, Iafrate enlisted in the Seabees.[333] The Camp Post exchanges (PXs) sold pennants with a different Seabee design on them, that was stylistically similar to the Mosquito boat rating insignia.
 
 The Seabees also had a second Logo that much less has been written about (Fig. 9). It was that of a shirtless construction worker holding a sledge hammer with a rifle strapped across his back standing upon the words "Construimus Batuimus USN". The figure is typically on a shield with a blue field across the top and vertical red and white stripes. A small CEC logo is left of the figure and a small anchor is to the right. The Camp's PXs sold two versions of brass badges with this logo, enameled or non-enameled. Despite little being written about this logo it is incorporated into many CB Unit insignias (or variations of it). A partial list of these CBs would be: 9, 15, 17, 23, 29, 41, 45, 50, 68, 75, 77, 86, 87, 90, 93, 95, 99, 143, 145 & 18th Special, Construction Battalion Units (CBUs) 408, 504, 535 and the 7th Brigade.[334] Other units simply used it like 133 NCB did on the front cover of their unit history the "Rain Makers Log".[335]
@@ -451,7 +441,7 @@ The end of WWII brought the decommissioning of nearly every Seabee Battalion. Th
 
 Seabee Combat Warfare Insignia and Peltier Award
 
-Navy_Seabee_Combat_Warfare_Specialist_Insignia.png The military qualification badge for the Seabees is known as the Seabee combat warfare specialist insignia (SCW) (Fig. 34). It was created in 1993 for issue to both officers and enlisted personnel that fulfill the training requirements. Only members attached to a qualifying NCF unit are eligible for the SCW pin. The qualifying units include: Naval Mobile Construction Battalions (NMCB), Amphibious Construction Battalions (ACB), Naval Construction Force Support Units (NCFSU), Underwater Construction Teams (UCT), and, since the end of 2008, Naval Construction Regiments (NCR). Fleet_Marine_Force_insignia_authorized_for_US_Naval_personnel.jpg
+The military qualification badge for the Seabees is known as the Seabee combat warfare specialist insignia (SCW) (Fig. 34). It was created in 1993 for issue to both officers and enlisted personnel that fulfill the training requirements. Only members attached to a qualifying NCF unit are eligible for the SCW pin. The qualifying units include: Naval Mobile Construction Battalions (NMCB), Amphibious Construction Battalions (ACB), Naval Construction Force Support Units (NCFSU), Underwater Construction Teams (UCT), and, since the end of 2008, Naval Construction Regiments (NCR).
 
 The Fleet Marine Force Insignia (Fig. 35), also known as the Fleet Marine Force pin or FMF PIN, are three military badges of the United States Navy which are issued to those U.S. Navy officers and sailors who are trained and qualified to perform duties in support of the United States Marine Corps. Those Seabees that draw an assignment with the Fleet Marine Force can earn the Fleet Marine Force Insignia, also known as the Fleet Marine Force pin or FMF pin. the United States Navy has authorized these badges for U.S. Navy officers and sailors who are trained and qualified to perform duties in support of the United States Marine Corps. There are currently three classes of the Fleet Marine Force pin: enlisted, officer, and chaplain. For the requirements, see: Fleet Marine Force Warfare Specialist (EFMFWS) Program per OPNAV Instruction 1414.4B.
 
@@ -462,14 +452,14 @@ The Peltier Award is given to the "best of type" active duty Naval Construction 
 
 Seabee barge carriers
 
-US_Navy_050728-N-8268B-022_A_Logistical_Amphibious_Recovery_Craft_(LARC)_amphibious_vehicle_assigned_to_Beachmaster_Unit_One_(BMU-1)_launches_from_the_Military_Sealift_Command_(MSC)_sea_barge_heavy_lift_ship_SS_Cape_Mohican_(T.jpg (BMU-1) launches from the Military Sealift Command (MSC) sea barge heavy lift ship SS Cape Mohican (T-AKR-5065)]] see: Seabee (barge)
+(BMU-1) launches from the Military Sealift Command (MSC) sea barge heavy lift ship SS Cape Mohican (T-AKR-5065)]] see: Seabee (barge)
 
 The first ship of a series of six "Sea Bee" ships,[344] was the SS _Cape Mendocino_ (T-AKR-5064), followed by and (Fig. 37), three of which were operated by Lykes Brothers Steamship Company. "The U.S. Navy's Naval Construction Force, or SeaBees, primarily use the SEABEE barges. The barges are loaded with cargo and floated to and from a mother ship, which allows loading and unloading of containerized cargo off-shore. SEABEE barge ships are equipped with a stern cargo elevator for loading the barges from the water onto the vessel; loaded barges can then be moved toward the vessel's bow using an internal track system. The barges are stowed on internal decks and are not stacked. The "Sea Bee" vessels had three decks and could transport 38 lighters (12 on the lower decks and 14 on the upper deck). SEABEE barges are larger and heavier than their counterpart, LASH barges."[345] The dual function of the ship is noteworthy, as it had storage tanks with a capacity of nearly 36000 m³ volume built into its sides and unusually large double hull, allowing it to be used also as a product tanker. The ships were later purchased by Military Sealift Command.
 
 
 Museums
 
-Fighting_seabee_statue.jpg, where the Seabee Museum and Memorial Park commemorates Camp Endicott which is on the National Register of Historic Places (U.S. Navy)]] FightingSeabee_NavalConstructionBattalionCenter_Gulfport,MS.jpg The U.S. Navy Seabee Museum[346] is located at Naval Base Ventura County, Port Hueneme, California near the entrance, but outside the main gate. Due to the location, visitors are able to visit the museum without having to enter the base proper. The museum re-opened on 22 July 2011 in a new building built by Carlsbad-based RQ Construction. The design of the single-story, 38,833 square foot structure was inspired by the Seabee Quonset hut. Inside are galleries for exhibition space, a grand hall, a theater for 45 people, collections storage, and research areas.
+, where the Seabee Museum and Memorial Park commemorates Camp Endicott which is on the National Register of Historic Places (U.S. Navy)]] The U.S. Navy Seabee Museum[346] is located at Naval Base Ventura County, Port Hueneme, California near the entrance, but outside the main gate. Due to the location, visitors are able to visit the museum without having to enter the base proper. The museum re-opened on 22 July 2011 in a new building built by Carlsbad-based RQ Construction. The design of the single-story, 38,833 square foot structure was inspired by the Seabee Quonset hut. Inside are galleries for exhibition space, a grand hall, a theater for 45 people, collections storage, and research areas.
 
 On 7 February 2011, the museum was certified as LEED Silver for utilizing a number of sustainable design and construction strategies. Features include the use of low-maintenance landscaping; a "cool" roofing system with high solar reflectance and thermal emittance; use of photocell-controlled light fixtures and energy-efficient lighting fixtures; 30% use of regional materials and 80% construction debris was recycled and diverted from landfills; low-volatility organic compounds (VOCs); and, use of dual-flush toilets and low-flow aerator faucets.
 
@@ -528,17 +518,17 @@ WWII
 
 2a. The Seabee NTCs were named for former heads of the Civil Engineer Corps and the Bureau of Yards and Docks: Rear Admiral Mordecai T. _Endicott_, 1898-1907, Rear Admiral Harry H. _Rousseau_, 1907-1907, Rear Admiral Richard C. _Hollyday_, 1907–1912, Rear Admiral Charles W. _Parks_, 1918-1921.[355] Camp Peary was named for Rear Admiral Robert Peary CEC. They also named a Training Center for their first CEC killed in combat, Lt. Irwin W. Lee and Lt. (jg) George W. Stephenson of the 24th CB.[356]
 
-2b. 80 px  Presidential Unit Citation USN/USMC : – The 6th CB with the 1st Marine Div. on Guadalcanal.[357]
+2b.   Presidential Unit Citation USN/USMC : – The 6th CB with the 1st Marine Div. on Guadalcanal.[357]
 
-2c. 80 px  Presidential Unit Citation USN/USMC : – The 18th CB with the 2nd Marine Div. on Tarawa[358]
+2c.   Presidential Unit Citation USN/USMC : – The 18th CB with the 2nd Marine Div. on Tarawa[358]
 
-2d. 80 px  Presidential Unit Citation USN/USMC : – The 33rd CBs shore party detachment[359][360] with the 1st Marine Div. on Peleliu
+2d.   Presidential Unit Citation USN/USMC : – The 33rd CBs shore party detachment[359][360] with the 1st Marine Div. on Peleliu
 
-2e. 80 px  Presidential Unit Citation USN/USMC : – The 73rd CBs shore party detachment[361][362] with the 1st Marine Div. on Peleliu
+2e.   Presidential Unit Citation USN/USMC : – The 73rd CBs shore party detachment[361][362] with the 1st Marine Div. on Peleliu
 
-2f. United_States_Army_and_U.S._Air_Force_Presidential_Unit_Citation_ribbon.svg  Presidential Unit Citation U.S. ARMY : – 40th CB plus 12 men from the 78th CB with the 1st Cavalry Div. on Los Negros[363]
+2f.   Presidential Unit Citation U.S. ARMY : – 40th CB plus 12 men from the 78th CB with the 1st Cavalry Div. on Los Negros[363]
 
-2g. 80 px  Presidential Unit Citation USN/USMC : – The 121st CB with the 4th Marine Div. on Saipan and Tinian[364]
+2g.   Presidential Unit Citation USN/USMC : – The 121st CB with the 4th Marine Div. on Saipan and Tinian[364]
 
 2h. When the 18th, 19th and 25th CBs were transferred to the Marine Corps they each were reduced in size by one company plus 1/5th of Hq Co. This was done to match the organization of a USMC battalion. B Co from the 25th CB[365] and C Co from the 18th CB[366] were used in the formation of the 53rd CB. The company from the 19th CB went towards the formation of the 121st CB.
 
@@ -570,9 +560,9 @@ NCDUS UDTS
 
 2pa. The Navy Seal Archives has a photo labeled NCDU that became part of UDT 19.[388]
 
-2q. 80 px  Presidential Unit Citation USN/USMC : Naval Combat Demolition Force O for Omaha beach at Normandy. The following NCDUs made up this group: 11, 22-24, 27, 41-46 (Fig. 12), 128-131, 133, 137, 138, 140-142.[389]
+2q.   Presidential Unit Citation USN/USMC : Naval Combat Demolition Force O for Omaha beach at Normandy. The following NCDUs made up this group: 11, 22-24, 27, 41-46 (Fig. 12), 128-131, 133, 137, 138, 140-142.[389]
 
-2r. 80 px  Navy Unit Commendation: Naval Combat Demolition Force U for Utah beach at Normandy.
+2r.   Navy Unit Commendation: Naval Combat Demolition Force U for Utah beach at Normandy.
 
 2ra. The Naval Special Warfare Command building at the U.S.N. Seal base at Fort Pierce is named for LTJG Frank Kaine CEC commander of NCDU 2.
 
@@ -580,9 +570,9 @@ NCDUS UDTS
 
 2.rb. The same OSS Maritime Unit attached to UDT 10 is referred to as both Group A and Group II in documents.
 
-2s. Bronze_Star_medal.jpgSeabees outside the NCF, made naval history.[393] For the Marianas operations of Kwajelein, Roi-Namur, Siapan, Tinian, Eniwetok, and Guam, Admiral Turner recommended sixty Silver Stars and over three hundred Bronze Stars with Vs for the Seabees and other service members of UDTs 1-7[394] That was unpresendented in U.S. Naval/Marine Corps history.[395] For UDTs 5 and 7 every officer received a silver star and all the enlisted received bronze stars with Vs for Operation Forager (Tinian).[396] For UDTs 3 and 4 every officer received a silver star and all the enlisted received bronze stars with Vs for Operation Forager (Guam).[397] Admiral Richard Lansing Conolly felt the commanders of teams 3 and 4 (Lt. Crist and Lt. W.G. Carberry) should have received Navy Crosses.[398]
+2s. Seabees outside the NCF, made naval history.[393] For the Marianas operations of Kwajelein, Roi-Namur, Siapan, Tinian, Eniwetok, and Guam, Admiral Turner recommended sixty Silver Stars and over three hundred Bronze Stars with Vs for the Seabees and other service members of UDTs 1-7[394] That was unpresendented in U.S. Naval/Marine Corps history.[395] For UDTs 5 and 7 every officer received a silver star and all the enlisted received bronze stars with Vs for Operation Forager (Tinian).[396] For UDTs 3 and 4 every officer received a silver star and all the enlisted received bronze stars with Vs for Operation Forager (Guam).[397] Admiral Richard Lansing Conolly felt the commanders of teams 3 and 4 (Lt. Crist and Lt. W.G. Carberry) should have received Navy Crosses.[398]
 
-2sa. Bronze_Star_medal.jpgSeabees in the WWII NCF were awarded 5 Navy Crosses, 33 Silver Stars and over 2,000 Purple Hearts.[399] Bronze Stars could be awarded for service or valor and those numbers for the Seabees are not available. It is Marine Corps policy to not keep records on non-USMC personnel so the number of Marine Corps Commendations Seabees received is also not known. However, on Iwo Jima the 8th CB received 26 and the 133rd CB received 29.[400]
+2sa. Seabees in the WWII NCF were awarded 5 Navy Crosses, 33 Silver Stars and over 2,000 Purple Hearts.[399] Bronze Stars could be awarded for service or valor and those numbers for the Seabees are not available. It is Marine Corps policy to not keep records on non-USMC personnel so the number of Marine Corps Commendations Seabees received is also not known. However, on Iwo Jima the 8th CB received 26 and the 133rd CB received 29.[400]
 
 2sb. By the end of WWII over 300 Seabee had been killed in action while over 500 were killed on the construction site.[401]
 
@@ -632,7 +622,7 @@ COLD WAR: VIETNAM
 
 8c. Military training for battalions during this period lasted six weeks. The first two weeks were at home port – Davisville Naval Construction Battalion Center, CBC Gulfport or CBC Port Hueneme. The last four weeks were with the Marines at Camp Lejuene or Marine Corps Base Camp Pendleton.
 
-8d. 80 px  Presidential Unit Citation USN/USMC : Detachments from MCBs 5, 10, 53 and CBMU 301 for supporting the 26th Marines during the 11 week Battle of Khe Sanh Jan-Feb 1968.[417]
+8d.   Presidential Unit Citation USN/USMC : Detachments from MCBs 5, 10, 53 and CBMU 301 for supporting the 26th Marines during the 11 week Battle of Khe Sanh Jan-Feb 1968.[417]
 
 8e. Cold War project: 1961 floating dry dock for Polaris submarines at Holy Loch, Scotland.[418]
 
@@ -656,7 +646,7 @@ TEKETITE
 
 IRAQ AFGHANISTAN
 
-13a. 80 px  Presidential Unit Citation USN/USMC : 30th NCR, NMCBs 4, 5, 74, 133, Air-Det 22nd NCR, Air-Det UCT 2, NCF Support Unit 2 in support of the First Marine Expeditionary Force (I MEF ENGINEER GROUP) in November 2003 added later upon review were: NMCBs 7, 15 as well as Air-Det NMCB 21, Air-Det NMCB 25, and CBMU 303 Det.[426] (per: CMC MARADMIN 507/03)[427]
+13a.   Presidential Unit Citation USN/USMC : 30th NCR, NMCBs 4, 5, 74, 133, Air-Det 22nd NCR, Air-Det UCT 2, NCF Support Unit 2 in support of the First Marine Expeditionary Force (I MEF ENGINEER GROUP) in November 2003 added later upon review were: NMCBs 7, 15 as well as Air-Det NMCB 21, Air-Det NMCB 25, and CBMU 303 Det.[426] (per: CMC MARADMIN 507/03)[427]
 
 13b. In 2015 ACB 1 moved the Orion (spacecraft) Boilerplate (spaceflight) test article for NASA at San Diego, CA.
 

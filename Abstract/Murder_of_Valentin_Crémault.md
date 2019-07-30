@@ -1,1 +1,0 @@
-VALENTIN CRÉMAULT was an 11-year-old boy who was murdered by Stéphane Moitoiret, a drifter, on the night of 28–29 July 2008 in Lagnieu, in the département of Ain in eastern France. The case is known in France as the _Affaire Moitoiret_.

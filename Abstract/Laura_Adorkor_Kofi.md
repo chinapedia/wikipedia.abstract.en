@@ -1,1 +1,0 @@
-LAURA ADORKOR KOFI (died 8 March 1928), called MOTHER KOFI, was a Ghanaian minister and activist associated with the Universal Negro Improvement Association. She was assassinated while preaching in Miami, Florida.

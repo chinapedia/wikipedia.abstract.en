@@ -1,1 +1,0 @@
-_VOYEUR II_ is a first person full motion video game released in July 1996 by Philips Media and Interweave Entertainment, starring Jennifer O'Neill. The game is a sequel to _Voyeur_, released in 1993.[1]

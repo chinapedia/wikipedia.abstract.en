@@ -1,1 +1,0 @@
-The CHINESE TAIPEI WOMEN'S NATIONAL UNDER-18 AND UNDER-19 BASKETBALL TEAM is a national basketball team of Republic of China on Taiwan and is governed by the Chinese Taipei Basketball Association (Traditional Chinese: 中華台北籃球協會).[1] It represents the country in international under-19 and under-18 (under age 19 and under age 18) women's basketball competitions.

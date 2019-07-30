@@ -1,1 +1,0 @@
-JOHN ELLIS ROSS III (born November 27, 1994)[1] is an American football wide receiver for the Cincinnati Bengals of the National Football League (NFL). He played college football at the University of Washington, and was drafted by the Bengals ninth overall in the 2017 NFL Draft.

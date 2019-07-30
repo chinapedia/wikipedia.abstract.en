@@ -1,1 +1,0 @@
-DATA-POP ALLIANCE is a non-profit think tank founded by the Harvard Humanitarian Initiative, MIT Media Lab and the Overseas Development Institute.[1][2][3] Emmanuel Letouzé is Director and Co-Founder and Alex Pentland is Academic Director.[4] Its research areas includes public policy,[5][6] inequality,[7] privacy,[8] crime,[9] climate change[10][11] and human rights.[12]

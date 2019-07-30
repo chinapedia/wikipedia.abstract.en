@@ -1,1 +1,0 @@
-1599_Guyana_Hondius.jpg

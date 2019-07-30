@@ -1,1 +1,0 @@
-KUNCHANGI is a village in Visakhapatnam district of the Indian state of Andhra Pradesh. It is located in Anakapalle Mandal of Anakapalle revenue division.[1] It is located at a distance of 10km from Anakapalle.

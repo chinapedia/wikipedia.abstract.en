@@ -1,1 +1,0 @@
-ESTRADIOL GLUCURONIDE, or ESTRADIOL 17Β-D-GLUCURONIDE, is a conjugated metabolite of estradiol.[1] It is formed from estradiol in the liver by UDP-glucuronyltransferase via attachment of glucuronic acid and is eventually excreted in the urine by the kidneys.[2] It has much higher water solubility than does estradiol.[3] Glucuronides are the most abundant estrogen conjugates.[4]

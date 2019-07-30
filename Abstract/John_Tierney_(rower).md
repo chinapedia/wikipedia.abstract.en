@@ -1,1 +1,0 @@
-JOHN TIERNEY is an English-born former rower of Irish heritage. He was the Team Leader for the US Olympic Rowing team in Barcelona in 1992. Tierney was at one time team leader for the Pan Am Rowing team. Tierney taught chemistry at Pennsylvania State University until May 2017.[1][2][3]

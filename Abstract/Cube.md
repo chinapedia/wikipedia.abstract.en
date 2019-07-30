@@ -1,1 +1,0 @@
-Cubo_desarrollo.gif

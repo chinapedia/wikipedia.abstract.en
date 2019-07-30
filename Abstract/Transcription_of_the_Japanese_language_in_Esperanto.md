@@ -1,1 +1,0 @@
-This article explains the transcription of the Japanese language in the Esperanto alphabet. Esperantists often use non-Esperanto transcriptions, such as Hepburn and Kunrei. However, the need for a transcription in the Esperanto alphabet is essential for non-Japanese speaking Esperantists to be able to pronounce words.

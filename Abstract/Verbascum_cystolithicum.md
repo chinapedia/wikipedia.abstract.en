@@ -1,1 +1,0 @@
-_VERBASCUM CYSTOLITHICUM_ is a species of flowers in the family _Scrophulariaceae_. The species is endemic to Cape Verde.[1] The species was first described in 1960 by Bror Johan Petterson, who placed it in the genus _Celsia_. Arthur Huber-Morath placed it in the Verbascum species in 1973.[2] Its local name is _mato-branco_, which may also refer to two other plants.[3]

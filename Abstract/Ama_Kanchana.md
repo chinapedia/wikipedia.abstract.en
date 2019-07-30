@@ -1,1 +1,0 @@
-KATHIRA ARACHCHIGE DONA AMA KANCHANA (born 7 April 1991) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against South Africa on 15 October 2014.[2]

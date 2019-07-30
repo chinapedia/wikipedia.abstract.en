@@ -1,1 +1,0 @@
-The 1948 ARIZONA GUBERNATORIAL ELECTION took place on November 2, 1948. Following the death of Governor Sidney Preston Osborn while in office, Dan Edward Garvey, who was serving as Secretary of State of Arizona was ascended to the position of governor, and thus ran for a full term. Facing a crowded primary field, Garvey emerged successful as the Democratic party's nominee.

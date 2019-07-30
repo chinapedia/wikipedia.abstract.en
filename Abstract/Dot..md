@@ -1,1 +1,0 @@
-_DOT._ is an animated children's television series based on the book by Randi Zuckerberg. The series debuted on Kids' CBC in Canada on September 6, 2016.[1] The series later premiered on Universal Kids in the United States on October 22, 2016.[2]

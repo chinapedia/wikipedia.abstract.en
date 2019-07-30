@@ -1,1 +1,0 @@
-The NATIONAL CIVIL GUARD (, _Ethniki Politophylaki_) was the security force of the Political Committee of National Liberation (PEEA), the government that the National Liberation Front (EAM) had established in the territory it controlled during the Nazi occupation of Greece in 1944.[1]

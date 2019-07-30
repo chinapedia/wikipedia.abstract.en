@@ -1,1 +1,0 @@
-JEAN-FRANÇOIS MILLET (; October 4, 1814 – January 20, 1875) was a French painter and one of the founders of the Barbizon school in rural France. Millet is noted for his scenes of peasant farmers; he can be categorized as part of the Realism art movement.

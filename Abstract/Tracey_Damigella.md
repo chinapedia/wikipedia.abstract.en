@@ -1,1 +1,0 @@
-TRACEY DAMIGELLA-LOHSE (born 1969) is an American former competitive figure skater. As a single skater, she is the 1985 Grand Prix International St. Gervais champion, 1987 Novarat Trophy champion, 1985 Nebelhorn Trophy silver medalist, and 1986 U.S. national pewter medalist.

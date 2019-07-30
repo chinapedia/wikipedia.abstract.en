@@ -1,1 +1,0 @@
-FRANCISCO S. "FRANKIE" ROMAN (1930–2016) served as the Chairman of the World Scout Committee from 1996 to 1999, President of the Boy Scouts of the Philippines from 1986 to 1989, and as Chairman of the Asia-Pacific Scout Committee.

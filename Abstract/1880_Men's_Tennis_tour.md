@@ -1,1 +1,0 @@
-{{ Infobox tennis circuit season | name = 1880 Men's Tennis tour | image = William Charles Renshaw.jpg | image_caption = William Renshaw won most title's this year | image_alt = | image_size = 200px | duration = 12 April – 28 November | edition = 4th | tournaments = 19 (Amateur) | categories = Important (5)

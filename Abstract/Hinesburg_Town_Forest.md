@@ -1,1 +1,0 @@
-The HINESBURG TOWN FOREST is located at the eastern end of Hayden Hill Road in eastern Hinesburg, Vermont. The forest covers of of mixed woodland, and is managed by the town as a conservation and recreation resource. It was listed on the National Register of Historic Places in 2016 as a good example of a municipally managed forest in the state of Vermont.

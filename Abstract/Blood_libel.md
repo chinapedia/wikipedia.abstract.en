@@ -1,1 +1,0 @@
-BLOOD LIBEL or RITUAL MURDER LIBEL (also BLOOD ACCUSATION)[1][2] is an antisemitic canard[3][4][5] accusing Jews of murdering Christian children in order to use their blood as part of religious rituals.[6][7][8] Historically, these claims—alongside those of well poisoning and host desecration—have been a major theme of the persecution of Jews in Europe.[9]

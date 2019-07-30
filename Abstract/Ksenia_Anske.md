@@ -1,1 +1,0 @@
-KSENIA ANSKE (born Ksenia Kubeeva; February 6, 1976) is an American author of short fiction and novels. She has published to date seven novels and two books from her tweets about writing. Many of her works fall into the genre of fantasy.

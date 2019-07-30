@@ -1,1 +1,0 @@
-_DEAD AWAKE_ is a 2016 American supernatural psychological horror film written by Jeffrey Reddick and directed by Phillip Guzman. It stars Jocelin Donahue, Jesse Bradford, Jesse Borrego, Brea Grant, James Eckhouse, and Lori Petty.[1]

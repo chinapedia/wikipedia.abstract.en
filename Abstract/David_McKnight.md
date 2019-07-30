@@ -1,1 +1,0 @@
-DAVID MCKNIGHT (4 March 1935 – 14 May 2006) was a Canadian-British anthropologist and ethnographer who specialized in the anthropology of Australian aborigines, with particular regard to the tribes of the Cape York Peninsula. He conducted over 20 field trips among the Aborigines in Australia from 1965 to 1999.

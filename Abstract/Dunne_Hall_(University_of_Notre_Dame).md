@@ -1,1 +1,0 @@
-DUNNE HALL is the newest of the 31 Residence Halls on the campus of the University of Notre Dame and one of the 16 male dorms. It is located on East Quad, between Knott Hall and McCourtney Hall. Built in 2016 together with its twin dorm Flaherty Hall, it was the first dorm built since Ryan Hall in 2009.[1][2]

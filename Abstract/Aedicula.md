@@ -1,1 +1,0 @@
-Ephesus_library-650px.jpg Library with aediculae in Ephesus]] The Aedicule, the body of Jesus was buried]] Cathedral_of_exeter.jpg, with rows of figures in aedicular or tabernacle frames above the door, and two above the crenellations]]

@@ -1,1 +1,0 @@
-EMPLOYSURE is an Australian-based company that provides workplace relations support to employers and business owners in Australia and New Zealand. It is a subsidiary of Peninsula Business Services Group Ltd[1] based in the United Kingdom and comes under the banner of the Rainy City Investments Ltd,[2][3][4] also based in the U.K. (Manchester).

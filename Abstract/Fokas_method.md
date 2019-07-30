@@ -1,1 +1,0 @@
-The FOKAS METHOD, or unified transform, is an algorithmic procedure for analysing boundary value problems for linear partial differential equations and for an important class of nonlinear PDEs belonging to the so-called integrable systems. It is named after Greek mathematician Athanassios S. Fokas.

@@ -1,1 +1,0 @@
-GOH SZE FEI (; born 18 August 1997) is a Malaysian badminton player.[1] In 2016, he won the Singapore International tournament in the men's doubles event partnered with Nur Izzuddin Mohd Rumsani.[2] In 2017, he and Izzuddin became the runner-up at the Malaysia Masters Grand Prix Gold tournament.[3]

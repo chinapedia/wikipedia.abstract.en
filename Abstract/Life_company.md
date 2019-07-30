@@ -1,1 +1,0 @@
-A LIFE COMPANY (, but usually written in its definite form; _Livkompaniet_) is the first company of a regiment in the Swedish Army. Before the 17th century, the term "life company" referred to the company of which the regimental commander directly controlled.[1]

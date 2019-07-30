@@ -1,1 +1,0 @@
-PASQUALE ESPOSITO (born 1963 in Naples, Italy)[1] is an Italian actor and director. His acting has been influenced and guided by his Zen Buddhism practice. He is the founder and art director of the Research Company Art and Awareness.

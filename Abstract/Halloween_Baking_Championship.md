@@ -1,1 +1,0 @@
-_HALLOWEEN BAKING CHAMPIONSHIP_ is an American cooking competition show that premiered on Food Network on October 5, 2015.[1] Like its sister show, Holiday Baking Championship, it's a seasonal program that runs for a few weeks (in this case, the month of October) and aims to crown the best baker of spooky, creepy desserts.

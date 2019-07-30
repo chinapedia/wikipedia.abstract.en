@@ -1,1 +1,0 @@
-_BEHEN HOGI TERI_ () is a 2017 Indian Hindi-language romantic comedy film starring Rajkummar Rao and Shruti Haasan.[1][2][3] This film was scheduled for a worldwide release on 26 May 2017,[4] but release was pushed back to 9 June 2017.[5]

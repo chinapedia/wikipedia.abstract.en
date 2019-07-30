@@ -1,1 +1,0 @@
-The CHINA CUP INTERNATIONAL FOOTBALL CHAMPIONSHIP () is an annual association football tournament organized in China by Wanda Sports Holdings.[1] The Championship was inaugurated in 2017 as a single-elimination tournament with four national teams, of which one is China, the host. It is planned to build up to eight teams.[2]

@@ -1,1 +1,0 @@
-Square_compasses.svg.

@@ -1,1 +1,0 @@
-_MINE_ is a 2016 psychological thriller war film written and directed by Fabio Guaglione and Fabio Resinaro, in their feature film directorial debuts. It stars Armie Hammer as a United States Marine who steps on a landmine during a botched mission and must remain still until help arrives. The film was released in the United States on April 7, 2017.

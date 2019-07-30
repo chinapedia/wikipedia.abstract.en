@@ -1,1 +1,0 @@
-HA HONG NGUYEN (born June 20, 1955 in Saigon, Vietnam - died December 23, 2012[1]) was a Vietnamese American costume designer known for her work on _The Nutty Professor_, J.J. Abrams' _Super 8_, and _The Mask_ for which she was nominated for a Saturn Award for Best Costume in 1994.

@@ -1,1 +1,0 @@
-CLACTON CARRIAGE SERVICING DEPOT is a stabling point located in Clacton-on-Sea, Essex, England. The depot is situated on the western side of the Great Eastern Main Line and is adjacent to Clacton-on-Sea station.[1]

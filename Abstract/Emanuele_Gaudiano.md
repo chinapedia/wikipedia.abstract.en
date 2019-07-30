@@ -1,1 +1,0 @@
-EMANUELE GAUDIANO (born 30 June 1986, Matera) is an Italian Olympic show jumping rider.[1][2] He competed at the 2016 Summer Olympics in Rio de Janeiro, Brazil, where he finished 67th in the individual competition.

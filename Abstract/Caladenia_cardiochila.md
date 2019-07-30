@@ -1,1 +1,0 @@
-_CALADENIA CARDIOCHILA_, commonly known as THICK-LIPPED SPIDER-ORCHID, FLESHY-LIPPED CALADENIA and HEARTLIP SPIDER-ORCHID, is a plant in the orchid family Orchidaceae and is endemic to Victoria and South Australia. It is a ground orchid with a single hairy leaf and one or two yellowish-green, red-striped flowers on a thin, wiry stem.

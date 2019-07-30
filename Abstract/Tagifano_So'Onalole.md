@@ -1,1 +1,0 @@
-TAGIFANO SO'ONALOLE (born 7 March 1978) is a Samoan female retired tennis player. So'Onalole made her WTA tour debut at the 2001 Waikoloa Championships.[1] Playing for Pacific Oceania in Fed Cup, she had a win-loss record of 16–19.[2] So'Onalole retired from professional tennis in 2009.

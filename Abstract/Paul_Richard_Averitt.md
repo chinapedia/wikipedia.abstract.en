@@ -1,1 +1,0 @@
-PAUL RICHARD AVERITT (August 7, 1923 — August 7, 2001) was an American soldier serving as a member of the US Army 92nd Signal Corps Battalion. He was one the first photographers taking pictures at Dachau concentration camp during its liberation on April 29, 1945.

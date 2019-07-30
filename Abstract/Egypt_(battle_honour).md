@@ -1,1 +1,0 @@
-EgyptSphinxBadge.png

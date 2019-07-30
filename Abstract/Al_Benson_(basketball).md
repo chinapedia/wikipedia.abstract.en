@@ -1,1 +1,0 @@
-ALBERT "AL" BENSON was an American professional basketball player.[1][2] He played in the National Basketball League for the Hammond Ciesar All-Americans and Detroit Eagles in 1940–41 and averaged 1.6 points per game.[3]

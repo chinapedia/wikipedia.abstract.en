@@ -1,1 +1,0 @@
-MALACHI (or MALACHIAS; , __) is the last book of the Neviim contained in the Tanakh, canonically the last of the Twelve Minor Prophets. In the Christian ordering, the grouping of the Prophetic Books is the last section of the Old Testament, making Malachi the last book before The New Testament.

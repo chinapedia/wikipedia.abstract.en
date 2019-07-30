@@ -1,1 +1,0 @@
-The 2016 CHALLENGER BANQUE NATIONALE DE SAGUENAY was a professional tennis tournament played on indoor hard courts. It was the 11th edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $50,000 in prize money. It took place in Saguenay, Quebec, Canada between October 17 and October 23, 2016.

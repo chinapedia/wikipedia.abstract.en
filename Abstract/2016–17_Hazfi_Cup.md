@@ -1,1 +1,0 @@
-The 2016–17 HAZFI CUP was the 30th season of the Iranian football knockout competition. Zob Ahan Isfahan, the defending champions, were eliminated by Tractor Sazi in the semi final in extra time. The competition started on 12 September 2016, and the final was played on 11 May 2017. Naft Tehran defeated Tractor Sazi at the final and earned their first title.

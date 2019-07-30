@@ -1,1 +1,0 @@
-ERIC SPICELY (born September 29, 1986) is an American mixed martial artist and professional wrestler currently competing in the middleweight division of Ultimate Fighting Championship. A professional competitor since 2012, he formerly competed for RFA, CES MMA and was a Light Heavyweight contestant on The Ultimate Fighter: Team Joanna vs. Team Cláudia.

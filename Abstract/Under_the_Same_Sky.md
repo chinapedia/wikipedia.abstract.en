@@ -1,1 +1,0 @@
-'''''Under the Same Sky ''''' or _POD ISTO NEBO_ (Под исто небо) is a 1964 Macedonian war drama film directed by Ljubisha Georgievski,[1] based on a screenplay by Jovan Boshkovski. The film stars Darko Damevski, Bekim Fehmiu and Dragomir Felba.[2]

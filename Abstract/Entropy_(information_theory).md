@@ -1,1 +1,0 @@
-Entropy_flip_2_coins.jpg

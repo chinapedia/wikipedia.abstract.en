@@ -1,1 +1,0 @@
-TRINIDAD FERNANDEZ LEGARDA (28 March 1899 – 1998) was a Filipina suffragist, clubwoman, philanthropist, and editor. She was the first woman ambassador from the Philippines, when she was appointed in 1958.[1]

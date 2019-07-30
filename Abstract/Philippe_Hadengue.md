@@ -1,1 +1,0 @@
-PHILIPPE HADENGUE (17 September 1932, Paris[1]) is a French writer and painter, winner of the Inter Book Prize and the Prix Louis-Guilloux in 1989 for _Petite chronique des gens de nuit dans un port de l'Atlantique Nord_.

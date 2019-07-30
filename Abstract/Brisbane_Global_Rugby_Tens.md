@@ -1,1 +1,0 @@
-The GLOBAL 10S is a rugby tens tournament held during February each year in Brisbane at Suncorp Stadium. It is hosted by Duco Events and the Queensland Rugby Union. The inaugural tournament was held in 2017.[1][2]

@@ -1,1 +1,0 @@
-CANTON is the name of an electoral ward in the west of the city of Cardiff, Wales, which covers its namesake community, Canton. The ward elects three county councillors to the County Council of the City and County of Cardiff.

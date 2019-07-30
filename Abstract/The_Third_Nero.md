@@ -1,1 +1,0 @@
-_THE THIRD NERO: OR NEVER SAY NERO AGAIN_ is a historical novel by British writer Lindsey Davis, the fifth in her Flavia Albia series. It was first published in the UK on 6 April 2017 by Hodder & Stoughton () and in the United States in 2017 by St. Martin's Press.[1][2]

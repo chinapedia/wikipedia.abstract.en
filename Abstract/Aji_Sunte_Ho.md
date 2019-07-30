@@ -1,1 +1,0 @@
-_AJI SUNTE HO_ is an Indian Hindi reality television series, which premiered on 14 November 2016 and was broadcast on Zee TV. The series was produced by Shashi Sumeet Productions of Shashi Mittal and Sumeet Hukamchand Mittal. The series was aired on weekdays' nights.[1]

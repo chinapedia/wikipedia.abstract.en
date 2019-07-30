@@ -1,1 +1,0 @@
-_ROTUNDARIA PUSTULOSA_[1] is a species of freshwater mussels, aquatic bivalve mollusks in the family Unionidae, the river mussels. This species is native to North America, where it is a widespread and common.[2][3]

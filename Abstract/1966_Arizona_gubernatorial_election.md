@@ -1,1 +1,0 @@
-The 1966 ARIZONA GUBERNATORIAL ELECTION took place on November 8, 1966. Incumbent Governor Samuel Pearson Goddard ran for reelection to a second term as Governor, narrowly winning the Democratic Party nomination as he was challenged by Justice of the Peace Norman Green.

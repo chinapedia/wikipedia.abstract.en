@@ -1,1 +1,0 @@
-Theresienbad_2.JPG]] On 2 December 2015, at the Theresienbad swimming pool in the Austrian capital Vienna, a 10-year-old boy was raped. The perpetrator, an Iraqi refugee who had arrived in the country two months earlier, claimed that he was motivated by not having sex for four months.

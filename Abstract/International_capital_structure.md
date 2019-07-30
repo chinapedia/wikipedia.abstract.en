@@ -1,1 +1,0 @@
-Many major firms throughout the world have begun to internationalize their capital structure by raising funds from foreign as well as domestic sources. As a result, these corporations are becoming multinational not only in the scope of their business activities but also in their capital structure.[1]

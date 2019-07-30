@@ -1,1 +1,0 @@
-PHILO (formerly TIVLI)[1] is an internet television company currently based in San Francisco, California. The service first launched at Harvard University in 2009. Investors in the company include HBO, Facebook co-founder Andrew McCollum, and Mark Cuban. , the service has approximately 50,000 subscribers.[2]

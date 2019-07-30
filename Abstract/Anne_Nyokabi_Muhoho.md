@@ -1,1 +1,0 @@
-ANNE NYOKABI MUHOHO (also called Hannah) (1920–August 2006) was married to Chief Muhoho in Kenya, and the mother-in-law of Jomo Kenyatta, the first prime minister (1963–1964) and the first president of Kenya (1964–1978). A girls' school in Nairobi bears her name.

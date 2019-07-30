@@ -1,1 +1,0 @@
-The HOWARD L. AND VIVIAN W. LOTT HOUSE located at 311 East Kilpatrick Street in Mineola, Wood County, Texas, is a house designed in the Prairie School style with classical details. It is a Recorded Texas Historic Landmark and is listed on the National Register of Historic Places.[1]

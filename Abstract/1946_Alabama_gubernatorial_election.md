@@ -1,1 +1,0 @@
-The 1946 ALABAMA GUBERNATORIAL ELECTION took place on November 5, 1946, to elect the Governor of Alabama. Incumbent Democrat Chauncey Sparks was term-limited, and could not seek a second consecutive term.

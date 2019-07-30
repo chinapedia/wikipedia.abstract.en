@@ -1,1 +1,0 @@
-SAMUEL RICHARD DARNOLD (born June 5, 1997) is an American football quarterback for the New York Jets of the National Football League (NFL). He played college football at USC, and was selected third overall by the Jets in the 2018 NFL Draft.

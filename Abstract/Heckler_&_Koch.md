@@ -1,1 +1,0 @@
-HECKLER & KOCH GMBH (HK) () is a German defense manufacturing company that manufactures handguns, rifles, submachine guns, and grenade launchers. The company is located in Oberndorf in the state of Baden-Württemberg, and also has subsidiaries in the United Kingdom, France and the United States.

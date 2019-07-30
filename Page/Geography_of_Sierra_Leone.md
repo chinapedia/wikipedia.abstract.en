@@ -1,5 +1,3 @@
-UNsierraleone.PNG Koppen-Geiger_Map_SLE_present.svg LocationSierraLeone.svg
-
 SIERRA LEONE is located on the west coast of Africa, between the 7th and 10th parallels north of the equator. Sierra Leone is bordered by Guinea to the north and northeast, Liberia to the south and southeast, and the Atlantic Ocean to the west.[1]
 
 Sierra Leone has a total area of , divided into a land area of and water of .[2]
@@ -12,8 +10,6 @@ Sierra Leone is located on the west coast of Africa, between the 7th and 10th pa
 Sierra Leone has four distinct geographical regions: coastal Guinean mangroves, the wooded hill country, an upland plateau, and the eastern mountains. Eastern Sierra Leone is an interior region of large plateaus interspersed with high mountains, where Mount Bintumani rises to .[5]
 
 Geology
-
-Sierra_Leone_Topography.png
 
 Sierra Leone can be split into three geological areas, in the east is part of the West African craton, the western area consists of the Rokelides, an orogenic belt, and a 20- to 30-km coastal strip of sediments.[6]
 
@@ -43,7 +39,7 @@ Average rainfall is highest at the coast, 3000–5000 mm per year; moving inlan
 
 Environment issues
 
-Outamba_Kilimi_3_Hippos_Sierra_Leone.jpg in Sierra Leone's northwest.]]
+in Sierra Leone's northwest.]]
 
 Rapid population growth in Sierra Leone has put pressure upon the natural environment. Environmental problems include the overharvesting of timber, the expansion of cattle grazing and slash and burn agriculture have resulted in deforestation and soil exhaustion, and overfishing.
 

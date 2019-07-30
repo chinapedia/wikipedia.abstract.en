@@ -1,1 +1,0 @@
-WILLIAM JACKSON (1731-1810)[1] was a Revolutionary era loyalist born in Boston. He inherited and then owned a general store called "The Brazen Head." The store was located in Cornhill, an area in the center of Boston.[2] Because of his loyalty to the crown, Jackson made enemies with many patriotic Bostonians, and was the target of frequent intimidation by the Sons of Liberty.

@@ -1,1 +1,0 @@
-The PITTSBURGH STEELERS are a professional American football team based in Pittsburgh, Pennsylvania. The Steelers compete in the National Football League (NFL), as a member club of the league's American Football Conference (AFC) North division. Founded in , the Steelers are the oldest franchise in the AFC.

@@ -1,1 +1,0 @@
-Christ the King Church}}

@@ -1,1 +1,0 @@
-"ARRIVEDERCI" is a 1959 Italian song composed by Umberto Bindi (music) and Giorgio Calabrese (lyrics). "Arrivederci" marked the record debut of Bindi, who recorded two versions of the song, but it was eventually led to success by Don Marino Barreto Jr., whose version topped the Italian hit parade.[1]

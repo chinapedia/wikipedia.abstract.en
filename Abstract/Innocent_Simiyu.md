@@ -1,1 +1,0 @@
-INNOCENT "NAMCOS" SIMIYU (born 24 April 1983) is a former Kenyan rugby union player who captained the Kenya national rugby union team and the national rugby sevens team.[1] In the World Rugby Sevens Series, Simiyu has represented Kenya in 121 matches scoring 321 points.[2] At club level he played for Impala Saracens and Kenya Harlequin.

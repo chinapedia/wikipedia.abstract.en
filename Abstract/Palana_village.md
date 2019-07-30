@@ -1,1 +1,0 @@
-PALANA is a village in Vaso taluka, Kheda District, Gujarat , India. It has panchayat raj system. It has nearby a canal passing and two lakes inside village. Various different communities living in village are

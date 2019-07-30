@@ -1,1 +1,0 @@
-TARVARUS MCFADDEN (born January 28, 1997) is an American football cornerback who is currently a free agent. He played college football at Florida State and was signed by the San Francisco 49ers as an undrafted free agent.

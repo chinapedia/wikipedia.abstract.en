@@ -1,1 +1,0 @@
-HENRIK THUNE (born 1969) is a Norwegian academic, writer and diplomat, who is the director [1] of the Norwegian Center for Conflict Resolution (NOREF). He was previously a senior research fellow at the Norwegian Institute of International Affairs (NUPI) and head of its Middle East Programme.

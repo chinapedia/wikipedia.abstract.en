@@ -1,1 +1,0 @@
-ALPHONS LEOPOLD MIELICH (27 January 1863 – 25 January 1929) was an Austrian painter noted for his orientalist scenes. He participated in a team responsible for documenting the frescoes in an Umayyad castle at Qasr Amra, including the famous _Painting of the Six Kings_ and provided the illustrations for a published book on the findings, _Kusejr'Amra,_ published in 1907.

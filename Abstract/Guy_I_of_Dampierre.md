@@ -1,1 +1,0 @@
-GUY I OF DAMPIERRE (died 1151), son of Thibaut of Dampierre-sur-l’Aube and Elizabeth of Montlhéry, daughter of Milo I of Montlhéry, Viscount of Troyes. Seigneur of Dampierre, Saint-Dizier, and Moëlain.

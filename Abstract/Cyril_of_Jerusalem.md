@@ -1,1 +1,0 @@
-CYRIL OF JERUSALEM (; ) was a distinguished theologian of the early Church ( 313[1] 386 AD). He is venerated as a saint by the Roman Catholic Church, the Eastern Orthodox Church, Oriental Orthodox Church and the Anglican Communion. In 1883, Cyril was declared a Doctor of the Church by Pope Leo XIII. He is highly respected in the Palestinian Christian Community.

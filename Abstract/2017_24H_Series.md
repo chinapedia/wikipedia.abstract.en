@@ -1,1 +1,0 @@
-The 2017 24H SERIES POWERED BY HANKOOK is the third season of the 24H Series with drivers battling for championship points and titles and the tenth season since Creventic, the organiser and promoter of the series, organised multiple races a year. The races are contested with GT3-spec cars, GT4-spec cars, sports cars, touring cars and 24H-Specials, like silhouette cars.

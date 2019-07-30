@@ -1,1 +1,0 @@
-EDRISA LUBEGA is an Ugandan footballer who is now playing for SV Ried on loan from Proline FC.[1] Christened 'Torres' after Fernando Torres, he was born to a family with 4 children to Mugisha Tumushabe and Rebecca Nakamya.[2] He scored in their first win of the 2016-17 Uganda Super League.[3]

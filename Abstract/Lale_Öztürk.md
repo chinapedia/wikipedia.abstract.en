@@ -1,1 +1,0 @@
-LALE ÖZTÜRK, (born December 1, 1971) Turkish athlete of long distance and marathon runner. She won the bronze medal in women's marathon at the 1997 Mediterranean Games held in Bari, Italy.[1] And also become third in the International Trabzon and Eurasia Marathon. Lale Öztürk represented Turkey in the marathon at the 2004 Summer Olympics in Athens, Greece.[2]

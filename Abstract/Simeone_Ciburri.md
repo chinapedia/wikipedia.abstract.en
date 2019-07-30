@@ -1,1 +1,0 @@
-SIMEONE CIBURRI (active 1591-1624) was an Italian painter of the early-Baroque period. Born in Perugia, where he painted in the style of Federico Barocci, although maybe a pupil of Benedetto Bandiera. He died in Gubbio.[1]

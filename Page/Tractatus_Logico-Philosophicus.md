@@ -9,8 +9,6 @@ Wittgenstein's later works, notably the posthumously published _Philosophical In
 
 Main theses
 
-Tractatus_Logico_Philosophicus_Text_Structure.png
-
 There are seven main propositions in the text. These are:
 
 1.  The world is everything that is the case.
@@ -97,7 +95,7 @@ Wittgenstein's conception of representation as picturing also allows him to deri
 
 Logical atomism
 
-Wittgenstein_Tractatus_Annalen_der_Naturphilosophie.png Although Wittgenstein did not use the term himself, his metaphysical view throughout the _Tractatus_ is commonly referred to as logical atomism. While his logical atomism resembles that of Bertrand Russell, the two views are not strictly the same.[36]
+Although Wittgenstein did not use the term himself, his metaphysical view throughout the _Tractatus_ is commonly referred to as logical atomism. While his logical atomism resembles that of Bertrand Russell, the two views are not strictly the same.[36]
 
 Russell's theory of descriptions is a way of logically analyzing sentences containing definite descriptions without presupposing the existence of an object satisfying the description. According to the theory, a statement like "There is a man to my left" should be analyzed into: "There is some _x_ such that _x_ is a man and _x_ is to my left, and for any _y_, if _y_ is a man and _y_ is to my left, _y_ is identical to _x_". If the statement is true, _x_ refers to the man to my left.[37]
 
@@ -136,7 +134,7 @@ The book was translated into English by C. K. Ogden with help from the teenaged 
 
 The _Tractatus_ caught the attention of the philosophers of the Vienna Circle (1921–1933), especially Rudolf Carnap and Moritz Schlick. The group spent many months working through the text out loud, line by line. Schlick eventually convinced Wittgenstein to meet with members of the circle to discuss the _Tractatus_ when he returned to Vienna (he was then working as an architect). Although the Vienna Circle's logical positivists appreciated the _Tractatus_, they argued that the last few passages, including Proposition 7, are confused. Carnap hailed the book as containing important insights, but encouraged people to ignore the concluding sentences. Wittgenstein responded to Schlick, commenting: "...I cannot imagine that Carnap should have so completely misunderstood the last sentences of the book and hence the fundamental conception of the entire book."[63]
 
-Penrose_triangle.svg)]]
+)]]
 
 A more recent interpretation comes from The New Wittgenstein family of interpretations under development since 2000.[64] This so-called "resolute reading" is controversial and much debated. The main contention of such readings is that Wittgenstein in the _Tractatus_ does not provide a theoretical account of language that relegates ethics and philosophy to a mystical realm of the unsayable. Rather, the book has a therapeutic aim. By working through the propositions of the book the reader comes to realize that language is perfectly suited to all her needs, and that philosophy rests on a confused relation to the logic of our language. The confusion that the _Tractatus_ seeks to dispel is not a confused theory, such that a correct theory would be a proper way to clear the confusion, rather the need of any such theory is confused. The method of the _Tractatus_ is to make the reader aware of the logic of our language as he is already familiar with it, and the effect of thereby dispelling the need for a theoretical account of the logic of our language spreads to all other areas of philosophy. Thereby the confusion involved in putting forward e.g. ethical and metaphysical theories is cleared in the same _coup_.
 

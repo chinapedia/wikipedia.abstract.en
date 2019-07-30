@@ -1,1 +1,0 @@
-_CREDLIN KENEALLY_ (originally announced as _CREDLIN & KENEALLY_) is an Australian television news and commentary program broadcast weekly on Sky News Australia.[1] The program is co-hosted by Peta Credlin and Kristina Keneally and features long-form discussion of political issues between the presenters.[2]

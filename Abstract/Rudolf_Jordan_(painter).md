@@ -1,1 +1,0 @@
-Rudolf_jordan_um_1880.JPG Rudolf_Jordan_Heiratsantrag_a_Helgoland.JPG WILHELM RUDOLF JORDAN (4 May 1810, Berlin - 20 March 1887, Düsseldorf) was a German genre painter, illustrator, etcher and art teacher.

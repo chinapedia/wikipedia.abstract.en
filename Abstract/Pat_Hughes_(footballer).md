@@ -1,1 +1,0 @@
-PATRICK JOSEPH HUGHES (28 February 1945 – 25 February 2010) was a Scottish footballer who played as a left winger in the Scottish League for St Mirren and Hamilton Academical and in the English Football League for Darlington.[1] Although he played little, he was a member of the Darlington team that won promotion from the Fourth to the Third Division in 1965–66 Football League.[2]

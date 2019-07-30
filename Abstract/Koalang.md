@@ -1,1 +1,0 @@
-KOALANG is a term coined by Janusz A. Zajdel, a Polish science fiction writer. It is a language used by people in a totalitarian world called _Paradyzja_ in his 1984 novel of the same name.[1] The "_ko-al_" in "_koalang_" derives from the Polish words 'KOJARZENIOWO-ALUZYJNY' ("associative-allusive").[2]

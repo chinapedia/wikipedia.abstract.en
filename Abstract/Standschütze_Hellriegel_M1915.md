@@ -1,1 +1,0 @@
-Brzostrelka_Hellriegel_-_2.jpg Brzostrelka_Hellriegel_-_3.jpg STANDSCHÜTZE HELLRIEGEL 1915 was an Austro-Hungarian water-cooled sub machine gun produced during World War I in very limited prototype numbers.

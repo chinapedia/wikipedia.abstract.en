@@ -1,1 +1,0 @@
-PIETER WILLEM ADRIAAN MULDER (born 19 February 1998), known as WIAAN MULDER, is a South African professional cricketer. He made his One Day International (ODI) debut for the South Africa national cricket team in October 2017 before going on to make his Test cricket debut in March 2019.[1] Domestically he plays for Highveld Lions and Gauteng.

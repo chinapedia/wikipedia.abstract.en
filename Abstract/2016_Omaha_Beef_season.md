@@ -1,1 +1,0 @@
-The 2016 OMAHA BEEF SEASON was the team's seventeenth and second as a member of Champions Indoor Football (CIF). One of 12 teams in the CIF for the 2016 season, they played in the 6-team Northern Division.

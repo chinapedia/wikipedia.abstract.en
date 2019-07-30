@@ -1,1 +1,0 @@
-The 2017 WINNIPEG BLUE BOMBERS SEASON was the 60th season for the team in the Canadian Football League (CFL) and their 85th season overall. This was the fourth season under head coach Mike O'Shea and the fourth full season under general manager Kyle Walters.

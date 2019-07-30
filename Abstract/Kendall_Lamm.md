@@ -1,1 +1,0 @@
-KENDALL LAMM (born June 5, 1992) is an American football offensive tackle for the Cleveland Browns of the National Football League (NFL). He played at Appalachian State for four years and was signed by the Houston Texans as an undrafted free agent in 2015.[1]

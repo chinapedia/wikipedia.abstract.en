@@ -1,1 +1,0 @@
-The NEWCASTLE 500 (known for sponsorship reasons as the COATES HIRE NEWCASTLE 500) is an annual motor racing event for Supercars, held at the Newcastle Street Circuit in Newcastle, New South Wales since 2017.

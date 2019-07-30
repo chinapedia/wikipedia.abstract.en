@@ -1,1 +1,0 @@
-MARK E. HUTTON (born August 5, 1954) is an American politician. He served as a Republican member for the 105th district in the Kansas House of Representatives from 2013 to 2017. In 2016, he was given a lifetime rating of 88% by the American Conservative Union. He is married with two children. [1][2]

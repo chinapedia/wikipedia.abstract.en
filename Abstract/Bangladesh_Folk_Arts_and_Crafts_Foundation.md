@@ -1,1 +1,0 @@
-BANGLADESH FOLK ARTS AND CRAFTS FOUNDATION is a government foundation that is responsible for the preservation of; and arrange training programmes on arts and crafts, and the setting up of folk art museum in Bangladesh and is located in Sonargaon, Narayanganj, Bangladesh.[1][2]

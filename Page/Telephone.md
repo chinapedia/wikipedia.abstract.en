@@ -1,4 +1,4 @@
-Alt_Telefon.jpg telephone, c. 1940s]]Tel_01LX.jpg A TELEPHONE (derived from the , _tēle_, "far" and φωνή, _phōnē_, "voice", together meaning "distant voice"), or PHONE, is a telecommunications device that permits two or more users to conduct a conversation when they are too far apart to be heard directly. A telephone converts sound, typically and most efficiently the human voice, into electronic signals that are transmitted via cables and other communication channels to another telephone which reproduces the sound to the receiving user.
+telephone, c. 1940s]] A TELEPHONE (derived from the , _tēle_, "far" and φωνή, _phōnē_, "voice", together meaning "distant voice"), or PHONE, is a telecommunications device that permits two or more users to conduct a conversation when they are too far apart to be heard directly. A telephone converts sound, typically and most efficiently the human voice, into electronic signals that are transmitted via cables and other communication channels to another telephone which reproduces the sound to the receiving user.
 
 In 1876, Alexander Graham Bell was the first to be granted a United States patent for a device that produced clearly intelligible replication of the human voice. This instrument was further developed by many others. The telephone was the first device in history that enabled people to talk directly with each other across large distances. Telephones rapidly became indispensable to businesses, government and households.
 
@@ -10,8 +10,6 @@ Convergence has given most modern cell phones capabilities far beyond simple voi
 
 
 Basic principles
-
-Telephoneschematic.gif
 
 A traditional landline telephone system, also known as _plain old telephone service_ (POTS), commonly carries both control and audio signals on the same twisted pair (_C_ in diagram) of insulated wires, the telephone line. The control and signaling equipment consists of three components, the ringer, the hookswitch, and a dial. The ringer, or beeper, light or other device (A7), alerts the user to incoming calls. The hookswitch signals to the central office that the user has picked up the handset to either answer a call or initiate a call. A dial, if present, is used by the subscriber to transmit a telephone number to the central office when initiating a call. Until the 1960s dials used almost exclusively the rotary technology, which was replaced by dual-tone multi-frequency signaling (DTMF) with pushbutton telephones (A4).
 
@@ -39,7 +37,7 @@ A lineman's handset is a telephone designed for testing the telephone network, a
 
 History
 
-Telefono_di_Meucci_-_Museo_scienza_tecnologia_Milano_02148-02147_dia.jpg in 1849.[3]]] Alexander_Graham_Telephone_in_Newyork.jpg
+in 1849.[3]]]
 
 In the United Kingdom _the blower_ is used as a slang term for a telephone. The term came from navy slang for a speaking tube.[4]
 
@@ -55,7 +53,7 @@ In 1876, shortly after Bell's patent application, Hungarian engineer Tivadar Pus
 
 Timeline of early development
 
-Johann_Philipp_Reis_telephone.jpg Consolidated_Telephone_Co._ad_1886.jpg 1896_telephone.jpg]] Wall_Hanging_Telephone_with_Detachable_Earpiece_-_Communication_Gallery_-_BITM_-_Calcutta_2000_211.JPG generator]]
+]] generator]]
 
 -   1844: Innocenzo Manzetti first mooted the idea of a "speaking telegraph" or telephone. Use of the "speaking telegraph" and "sound telegraph" monikers would eventually be replaced by the newer, distinct name, "telephone".
 -   26 August 1854: Charles Bourseul published an article in the magazine _L'Illustration_ (Paris): "Transmission électrique de la parole" (electric transmission of speech), describing a "make-and-break" type telephone transmitter later created by Johann Reis.
@@ -87,7 +85,7 @@ Signalling began in an appropriately primitive manner. The user alerted the othe
 
 Rural and other telephones that were not on a common battery exchange had a magneto hand-cranked generator to produce a high voltage alternating signal to ring the bells of other telephones on the line and to alert the operator. Some local farming communities that were not connected to the main networks set up barbed wire telephone lines that exploited the existing system of field fences to transmit the signal.
 
-Marguerite_Martyn_sketch_of_Finley_Johnson_Shepard_at_his_desk_being_congratulated_on_his_engagement_to_Helen_Gould,_1917.jpg shows a man using a candlestick telephone, 1917.]] In the 1890s a new smaller style of telephone was introduced, packaged in three parts. The transmitter stood on a stand, known as a "candlestick" for its shape. When not in use, the receiver hung on a hook with a switch in it, known as a "switchhook". Previous telephones required the user to operate a separate switch to connect either the voice or the bell. With the new kind, the user was less likely to leave the phone "off the hook". In phones connected to magneto exchanges, the bell, induction coil, battery and magneto were in a separate bell box or "ringer box".[13] In phones connected to common battery exchanges, the ringer box was installed under a desk, or other out of the way place, since it did not need a battery or magneto.
+shows a man using a candlestick telephone, 1917.]] In the 1890s a new smaller style of telephone was introduced, packaged in three parts. The transmitter stood on a stand, known as a "candlestick" for its shape. When not in use, the receiver hung on a hook with a switch in it, known as a "switchhook". Previous telephones required the user to operate a separate switch to connect either the voice or the bell. With the new kind, the user was less likely to leave the phone "off the hook". In phones connected to magneto exchanges, the bell, induction coil, battery and magneto were in a separate bell box or "ringer box".[13] In phones connected to common battery exchanges, the ringer box was installed under a desk, or other out of the way place, since it did not need a battery or magneto.
 
 Cradle designs were also used at this time, having a handle with the receiver and transmitter attached, now called a handset, separate from the cradle base that housed the magneto crank and other parts. They were larger than the "candlestick" and more popular.
 
@@ -102,7 +100,7 @@ File:Ericsson bakelittelefon 1931 sv.jpg|Ericsson DBH 1001 (ca. 1931), the first
 
 Digital telephones and voice over IP
 
-CiscoIPPhone7941Series.jpg]] Fixed_telephone_lines_per_100_inhabitants_1997-2007_ITU.png
+]]
 
 The invention of the transistor in 1947 dramatically changed the technology used in telephone systems and in the long-distance transmission networks. With the development of electronic switching systems in the 1960s, telephony gradually evolved towards digital telephony which improved the capacity, quality, and cost of the network.
 

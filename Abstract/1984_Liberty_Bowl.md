@@ -1,1 +1,0 @@
-The 1984 LIBERTY BOWL was an American college football bowl game played on December 27, 1984 at Liberty Bowl Memorial Stadium in Memphis, Tennessee. The game pitted the Arkansas Razorbacks and the Auburn Tigers.

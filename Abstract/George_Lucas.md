@@ -1,1 +1,0 @@
-GEORGE WALTON LUCAS JR.[1] (born May 14, 1944) is an American filmmaker and entrepreneur. Lucas is known for creating the _Star Wars_ and _Indiana Jones_ franchises and founding Lucasfilm, LucasArts and Industrial Light & Magic. He served as chairman of Lucasfilm before selling it to The Walt Disney Company in 2012.[2]

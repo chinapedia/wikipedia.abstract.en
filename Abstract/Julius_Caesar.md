@@ -1,1 +1,0 @@
-GAIUS JULIUS CAESAR (; ; 12 or 13 July 100 BC – 15 March 44 BC), known by his nomen and cognomen JULIUS CAESAR, was a populist Roman dictator, politician, military general, and historian who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. He also wrote Latin prose.

@@ -1,1 +1,0 @@
-ARNAUD GUILLON (born 1964, Caen) is a contemporary French writer, the winner of the Prix Roger Nimier in 2000 for his novel _Écume Palace_ and the Prix Henri de Régnier in 2015 for _Tableau de chasse, une passion très coupable_.

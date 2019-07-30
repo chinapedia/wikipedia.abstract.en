@@ -1,1 +1,0 @@
-NINEVEH (; ; ) was an ancient Assyrian city of Upper Mesopotamia, located on the outskirts of Mosul in modern-day northern Iraq. It is located on the eastern bank of the Tigris River, and was the capital of the Neo-Assyrian Empire. Today it is a common name for the half of Mosul which lies on the eastern bank of the Tigris.

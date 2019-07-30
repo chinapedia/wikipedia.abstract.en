@@ -1,1 +1,0 @@
-ACCRA GIRLS SENIOR HIGH SCHOOL is an all female second cycle institution in Accra in the Greater Accra Region of Ghana.[1][2][3] and operates as a non-denominational day and boarding school. The school runs courses in business, general science, general arts, home economics and visual arts, leading to the award of a West African Senior High School Certificate (WASSCE).[4]

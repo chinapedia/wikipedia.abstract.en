@@ -1,1 +1,0 @@
-ICEMAN (ROBERT LOUIS "BOBBY" DRAKE) is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in _The X-Men_ #1 (September 1963).

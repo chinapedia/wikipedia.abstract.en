@@ -1,1 +1,0 @@
-Bernard_Barham_Woodward_Grave.jpg in Brookwood Cemetery.]] EMMA HOSKEN (also EMMA HOSKEN WOODWARD) (11 August 1845–16 July 1884) was a British novelist of the Victorian era. Her last novel was published posthumously in 1885 by her husband Bernard Barham Woodward.

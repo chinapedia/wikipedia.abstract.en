@@ -1,1 +1,0 @@
-JOHN RUTHVEN LAWRIE known as JOCK LAWRIE (11 September 1900 – 7 July 1981)[1] was a rugby union flanker who played 11 times for Scotland between 1922 and 1924. He played his club rugby for Leicester Tigers and Melrose.

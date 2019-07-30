@@ -1,1 +1,0 @@
-"THE RETURN OF DOCTOR MYSTERIO" is an episode of the British science fiction television series _Doctor Who_. First broadcast on BBC One on 25 December 2016, it is the twelfth Christmas special since the show's revival in 2005. It was written by Steven Moffat and directed by Ed Bazalgette. The episode received generally positive reviews from critics.

@@ -1,1 +1,0 @@
-DOUG LIBLA (born 1952) is a Republican member of the Missouri Senate, representing the southeasternmost part of the state.[1] He was first elected to that position in 2012, receiving 56% of the vote over Democratic candidate Terry Swinger.[2]

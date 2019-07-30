@@ -1,1 +1,0 @@
-Α-KETOGLUTARIC ACID (2-OXOGLUTARIC ACID) is one of two ketone derivatives of glutaric acid. (The term "ketoglutaric acid," when not further qualified, almost always refers to the alpha variant. β-Ketoglutaric acid varies only by the position of the ketone functional group, and is much less common.

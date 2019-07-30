@@ -1,1 +1,0 @@
-JOHN M. KELLER (born March 5, 1938) is an American educational psychologist. He is best known for his work on motivation in educational settings and in particular the ARCS model of instructional design. The four elements of the acronym stand for Attention, Relevance, Confidence and Satisfaction (ARCS).

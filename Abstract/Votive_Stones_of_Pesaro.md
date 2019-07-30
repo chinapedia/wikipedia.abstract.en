@@ -1,1 +1,0 @@
-The Ancient VOTIVE STONES OF PESARO are 13 sandstone rocks that were unearthed in 1737 on a Pesaro, Italy farm field owned by Patrician Annibale degli Abati Olivieri.[1] Oliverio dug up the stones at the site of his newly discovered Lucus Pisaurensis Sacred Grove on his property at _Il Pignocco_[2] in Pesaro.[3]

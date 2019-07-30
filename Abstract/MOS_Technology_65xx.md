@@ -1,1 +1,0 @@
-The MOS TECHNOLOGY 65XX series is a family of 8-bit microprocessors from MOS Technology, based on the Motorola 6800 (introduced ca. 1975). The 65xx family included the 6502, used in home computers such as the Commodore PET and VIC-20, the Apple II, the Atari 800, and the British BBC Micro.

@@ -1,1 +1,0 @@
-NEIL OCAMPO is a Filipino radio broadcaster. He was lastly the anchor of the program "Todo Arangkada Balita" (combined names of his two former programs in DZMM, Radyo5 and DZRH) from Monday to Friday at 8:00am to 10:00am (UTC+08:00) on DZRJ 810 AM Radyo Bandido under the 8TriMedia programming block.

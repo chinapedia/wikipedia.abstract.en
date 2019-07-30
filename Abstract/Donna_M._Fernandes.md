@@ -1,1 +1,0 @@
-DR. DONNA M. FERNANDES is an American zoo administrator who is a past President and CEO of the Buffalo Zoo (2000 to 2017). Under her administration, the zoo advanced in terms of exhibits, visitor attractions and attendance.[1]

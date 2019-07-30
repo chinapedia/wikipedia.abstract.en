@@ -1,1 +1,0 @@
-Farmer_with_a_buffalo_near_Yangshou.jpg WOMEN IN AGRICULTURE IN CHINA make up a diverse group of women who support agricultural activities in their country. Because China is a large country, rural women should not be considered a monolithic group, but instead have different strategies for success based on group or family relationships.

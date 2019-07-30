@@ -1,1 +1,0 @@
-Modern_croquet_equipment.JPG Wyczółkowski_Game_of_croquet.jpg, _A Game of Croquet_ (1892-1895), National Museum, Warsaw]] CROQUET () is a sport[1][2] that involves hitting wooden or plastic balls with a mallet through hoops (often called "wickets" in the United States) embedded in a grass playing court.

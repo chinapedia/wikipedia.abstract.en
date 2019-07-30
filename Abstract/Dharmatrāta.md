@@ -1,1 +1,0 @@
-DHARMATRĀTA (धर्मत्रात or धर्मतार) or possibly Dharmatara or Dharmatāra, is the name of successive Sarvāstivāda teachers and authors. The name is usually transliterated into Chinese as 達磨多羅 and translated as 法救, which means 'Dharma Rescuer' or 'Dharma Saviour'.

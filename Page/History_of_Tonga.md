@@ -1,4 +1,4 @@
-Tonga_group.jpg The HISTORY OF TONGA is recorded since the century after 900 BC, when seafarers associated with the Lapita diaspora first settled the islands which now make up the Kingdom of Tonga.[1] Along with Fiji and Samoa, the area served as a gateway into the rest of the Pacific region known as Polynesia.[2] Ancient Tongan mythologies recorded by early European explorers report the islands of 'Ata and Tongatapu as the first islands having been hauled to the surface from the deep ocean by Maui.[3][4]
+The HISTORY OF TONGA is recorded since the century after 900 BC, when seafarers associated with the Lapita diaspora first settled the islands which now make up the Kingdom of Tonga.[1] Along with Fiji and Samoa, the area served as a gateway into the rest of the Pacific region known as Polynesia.[2] Ancient Tongan mythologies recorded by early European explorers report the islands of 'Ata and Tongatapu as the first islands having been hauled to the surface from the deep ocean by Maui.[3][4]
 
 
 Pre-contact
@@ -8,7 +8,7 @@ The dates of the initial settlement of Tonga are still subject to debate; noneth
 
 Early culture
 
-TO-Haamonga_A_Maui.JPG The_Social_and_Political_Systems_of_Central_Polynesia_-_Tongatabu.png, 1924 map]] Centuries before Westerners arrived, Tongans created megalithic stoneworks. Most notably, these are the Haʻamonga ʻa Maui and the Langi terraced tombs. The Haʻamonga is 5 meters high and made of three coral-lime stones that weigh more than 40 tons each. The Langi are low, very flat, two or three tier pyramids that mark the graves of former kings.
+, 1924 map]] Centuries before Westerners arrived, Tongans created megalithic stoneworks. Most notably, these are the Haʻamonga ʻa Maui and the Langi terraced tombs. The Haʻamonga is 5 meters high and made of three coral-lime stones that weigh more than 40 tons each. The Langi are low, very flat, two or three tier pyramids that mark the graves of former kings.
 
 What is known about Tonga before European contact comes from myths, stories, songs, poems, (as there was no writing system) as well as from archaeological excavations. Many ancient sites, kitchens and refuse heaps, have been found in Tongatapu and Haʻapai, and a few in Vavaʻu and the Niuas that provide insights into old Tongan settlement patterns, diet, economy, and culture.
 
@@ -20,7 +20,7 @@ The South Pacific, meanwhile, was almost completely uninhabited. Any present hum
 
 The Lapita Period
 
-Carte_lapita.png pottery has been found]] MegapodiusPritchardiiWolf.jpgs]] Around 3000 B.P., the Lapita people reached Tonga, and carbon dating places their landfall first in Tongatapu and then in Haʻapai soon after.[9] The newcomers were already well adapted to the resource-scarce island life and settled in small communities of a few households[10] on beaches just above high tide line that faced open lagoons or reefs. Through continued interaction with Lapita relatives of the west, the Haʻapaians obtained domesticated animals and cultivatable plants, but it seems that both of these possible food sources contributed minimally towards their diet for at least the first two hundred years. Instead, they feasted mainly on life in the sea: parrotfish, wrasses, turtles, surgeonfish, jacks, eels, emperors, bottom-dwellers, shellfish, and the occasional deep water tuna.[11] Just as their Polynesian descendants do today.
+pottery has been found]] s]] Around 3000 B.P., the Lapita people reached Tonga, and carbon dating places their landfall first in Tongatapu and then in Haʻapai soon after.[9] The newcomers were already well adapted to the resource-scarce island life and settled in small communities of a few households[10] on beaches just above high tide line that faced open lagoons or reefs. Through continued interaction with Lapita relatives of the west, the Haʻapaians obtained domesticated animals and cultivatable plants, but it seems that both of these possible food sources contributed minimally towards their diet for at least the first two hundred years. Instead, they feasted mainly on life in the sea: parrotfish, wrasses, turtles, surgeonfish, jacks, eels, emperors, bottom-dwellers, shellfish, and the occasional deep water tuna.[11] Just as their Polynesian descendants do today.
 
 Sea food was inexhaustible, so reefs then were not much different from reefs today, except for the marked decline in sea turtle populations. Fauna didn’t fare as well, however, and soon the giant iguanas, the megapodes, twenty four bird species, almost all pigeons, and all but one species of fruit bat were all extinct.[12]
 
@@ -53,7 +53,7 @@ Little is known about the period because of the absence of much archaeological e
 
 Tongan Maritime Empire
 
-Tomb_of_Chief_Tongamana_Wellcome_V0050664.jpg Burial_ground_on_the_Island_of_Amsterdam_Wellcome_V0050665.jpg]]
+]]
 
 By the 12th century, Tongans, and the Tongan kings named the Tu'i Tonga, were known across the Pacific, from Niue, Samoa to Tikopia. They ruled these nations for more than 400 years, sparking some historians to refer to a "Tongan Empire", although it was more of a network of interacting navigators, chiefs, and adventurers. It is unclear whether chiefs of the other islands actually came to Tonga regularly to acknowledge their sovereign. Distinctive pottery and Tapa cloth designs also show that the Tongans have travelled from the far reaches of Micronesia, to Fiji and Hawaii.
 
@@ -87,7 +87,7 @@ File:Tasman-dagboek-b.jpg%7CTongans as depicted by Isaack Gilsemans during Abel 
 
 Unification
 
-George_Tupou_I,_c._1880s.jpg, c. 1880]] In 1799, the 14th Tui Kanokupolu, Tukuaho was murdered, which sent Tonga into a civil war for fifty years. Finally, the islands were united into a Polynesian kingdom in 1845 by the ambitious young warrior, strategist, and orator Tāufaʻāhau. He held the chiefly title of Tu'i Kanokupolu, but was baptised with the name King George Tupou I.
+, c. 1880]] In 1799, the 14th Tui Kanokupolu, Tukuaho was murdered, which sent Tonga into a civil war for fifty years. Finally, the islands were united into a Polynesian kingdom in 1845 by the ambitious young warrior, strategist, and orator Tāufaʻāhau. He held the chiefly title of Tu'i Kanokupolu, but was baptised with the name King George Tupou I.
 
 In 1875, with the help of missionary Shirley Baker, he declared Tonga a constitutional monarchy, at which time he emancipated the serfs, enshrined a code of law, land tenure, and freedom of the press, and limited the power of the chiefs. The islands were not fully surveyed until 1898, when the British warships and completed the task.[45]
 
@@ -96,7 +96,7 @@ File:TWI TONGAN YOUNG WOMEN.jpg|Two Tongan young women, 1823 File:Training-Schoo
 
 20th century
 
-Coat_of_arms_of_Tonga.svg (1875)]] George_Tubou_II,_Auckland_Weekly_News,_16_December_1909.jpg, 1909]]
+(1875)]] , 1909]]
 
 Kingdom of Tonga (1900–70)
 
@@ -112,7 +112,7 @@ File:George Tupou II going to the Opening of Tongan Parliament in 1900.jpg|King 
 
 Independence (1970)
 
-Tonga_1_Pa'anga_1980_front.jpg coin depicting Queen Salote Tupou III.]] Royal_Tongan_Wedding_of_1976.jpg
+coin depicting Queen Salote Tupou III.]]
 
 On 4 June 1970, protected state status ended under arrangements established prior to her death in 1965 by the third monarch, Queen Sālote.
 
@@ -127,7 +127,7 @@ Educational opportunities for young commoners have advanced, and their increasin
 
 21st century
 
-Akilisi_Pohiva_ITU_2016.jpg, leader of the democratic movement in Tonga and Prime Minister since 2014]]
+, leader of the democratic movement in Tonga and Prime Minister since 2014]]
 
 2002 election
 
@@ -139,7 +139,7 @@ By February 2004, the amendment was passed and licensure of news media was requi
 
 2005 election
 
-Feleti.jpg, first commoner to serve as Prime Minister of Tonga since the 19th century]]
+, first commoner to serve as Prime Minister of Tonga since the 19th century]]
 
 At the 2005 Tongan general election, the Human Rights and Democracy Movement won seven of the nine popularly-elected seats (the rest of the 30 MPs are appointed by the King or are members of the Tongan aristocracy). 'Aho'eitu 'Unuaki'otonga Tuku'aho, son of the King, initially retained his position as Prime Minister, but he resigned in 2006, after the Tongan Speaker of the House was found guilty of bribery.[55] The position passed to Feleti Sevele, Minister of Labour and one of the two independent candidates elected, as well as the first non-noble Prime Minister of the country.
 
@@ -147,7 +147,7 @@ In 2005 the government spent several weeks negotiating with striking civil servi
 
 2006 riots
 
-Startfires.jpg in Nukuʻalofa ]] Tonga_princes.jpg (centre) in a mourning dress for his recently deceased father, king Tāufaʻāhau Tupou IV in 2006. He is flanked by his two sons, the new chiefs ʻUlukālala (left) and Ata (right)]]
+in Nukuʻalofa ]] (centre) in a mourning dress for his recently deceased father, king Tāufaʻāhau Tupou IV in 2006. He is flanked by his two sons, the new chiefs ʻUlukālala (left) and Ata (right)]]
 
 Tonga did not rate as an "electoral democracy" under the criteria of Freedom House's Freedom in the World 2006 report. This is likely because while elections exist, they could only elect nine of 30 Legislative Assembly seats, the remainder being selected either by the nobility or the government; as such the people have a voice in but no control over the government.
 

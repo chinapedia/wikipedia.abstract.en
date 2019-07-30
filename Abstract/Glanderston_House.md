@@ -1,1 +1,0 @@
-GLANDERSTON HOUSE was a country house and estate in East Renfrewshire, Scotland, to the south of Barrhead. It lies on Glanderston Reservoir.[1] At one time it belonged to the Stewart Kings of Scotland. The de Croc family ceded it to the Earls of Lennox, and a John Mure of Caldwell is documented to have owned the house in 1560.[2]

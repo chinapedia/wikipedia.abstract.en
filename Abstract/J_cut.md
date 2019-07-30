@@ -1,1 +1,0 @@
-A J CUT is a variant of a split edit film editing technique in which the audio from a following scene overlaps the picture from the preceding scene, so that the audio portion of the later scene starts playing before its picture as a lead-in to the visual cut. Also called an _audio lead_ or _audio advance_.[1][2]

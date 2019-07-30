@@ -1,1 +1,0 @@
-_ARCHAEA_ is an extinct genus of spiders in the family Archaeidae. , four species are placed (or possibly placed) in the genus. All have been found preserved in amber, either from the Baltic or Bitterfeld, Germany.[1] First described in 1854, _Archaea_ species have a distinctive "neck" separating the head from the thorax, and very long chelicerae ("jaws").[2]

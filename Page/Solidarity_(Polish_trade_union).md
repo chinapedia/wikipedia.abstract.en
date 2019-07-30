@@ -27,7 +27,7 @@ When the Polish government launched martial law in December 1981, however, Solid
 
 Catholic social teaching
 
-Ostrowiec_Solidarnosc_20100815.jpg in Ostrowiec Świętokrzyski (priest Jerzy Popiełuszko in foreground)]]
+in Ostrowiec Świętokrzyski (priest Jerzy Popiełuszko in foreground)]]
 
 In _Sollicitudo rei socialis_, a major document of Catholic Social Teaching, Pope John Paul II identifies the concept of solidarity with the poor and marginalized as a constitutive element of the Gospel and human participation in the common good. The Roman Catholic Church, under the leadership of Pope John Paul II, was a very powerful supporter of the union and was greatly responsible for its success. Wałęsa, who himself publicly displayed Catholic piety, confirmed the Pope's influence, saying: "The Holy Father, through his meetings, demonstrated how numerous we were. He told us not to be afraid."[27]
 
@@ -45,7 +45,7 @@ Kołakowski later described Solidarity as "perhaps [the] closest to the working 
 
 Influence abroad
 
-A_T-55_on_Václavské_náměstí,_Prague.jpg in Prague in 1990]] Solidarity_petition,_Edinburgh.JPG ETUC,_Solidarity_Trade_Union_-_Budapest,_2011_(2).JPG
+in Prague in 1990]]
 
 The survival of Solidarity was an unprecedented event not only in Poland, a satellite state of the USSR ruled (in practice) by a one-party Communist regime, but the whole of the Eastern bloc. It meant a break in the hard-line stance of the communist Polish United Workers' Party, which had bloodily ended a 1970 protest with machine gun fire (killing over thirty and injuring over 1,000), and the broader Soviet communist regime in the Eastern Bloc, which had quelled both the 1956 Hungarian Uprising and the 1968 Prague Spring with Soviet-led invasions.
 

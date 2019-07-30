@@ -1,1 +1,0 @@
-UNIVERSIDAD CATÓLICA DE MURCIA CLUB DE FÚTBOL "B" is a Spanish football club based in Murcia. A reserve team of UCAM Murcia CF, it plays in Tercera División – Group 13, holding home games at _Estadio El Mayayo_, with a capacity of 2,500 spectators.

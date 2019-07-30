@@ -1,1 +1,0 @@
-_TEN LITTLE FINGERS AND TEN LITTLE TOES_ is a 2008 children's picture book by Mem Fox and Helen Oxenbury. It is about babies, who, although they are from around the world, all share the common trait of having the same number of digits.

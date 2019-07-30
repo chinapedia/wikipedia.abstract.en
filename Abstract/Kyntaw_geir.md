@@ -1,1 +1,0 @@
-_KYNTAW GEIR_ (IPA /'kəntau gəir/, named for its first line, 'kyntaw geir a dywedaw', 'the first speech I will utter') is a medieval Welsh _englyn_-poem. It is a relatively rare example of religious poetry in the _englyn_ form.

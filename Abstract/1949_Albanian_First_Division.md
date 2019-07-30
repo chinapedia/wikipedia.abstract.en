@@ -1,1 +1,0 @@
-The 1949 Albanian First Division is the sixth season of the second tier of football in Albania. The season took over from the annulled 1948–49 campaign which was ended on 31 March 1949, and the 1949 campaign began on 22 May and finished in October.

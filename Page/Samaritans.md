@@ -42,7 +42,7 @@ Further, the _Samaritan Chronicle Adler_, or New Chronicle, believed to have bee
 
 Jewish sources
 
-100.Foreign_Nations_Are_Slain_by_Lions_in_Samaria.jpg from the 1866 _La Sainte Bible_, The Holy Bible]] The emergence of the Samaritans as an ethnic and religious community distinct from other Levant peoples appears to have occurred at some point after the Assyrian conquest of the Israelite Kingdom of Israel in approximately 721 BCE. The records of Sargon II of Assyria indicate that he deported 27,290 inhabitants of the former kingdom.
+from the 1866 _La Sainte Bible_, The Holy Bible]] The emergence of the Samaritans as an ethnic and religious community distinct from other Levant peoples appears to have occurred at some point after the Assyrian conquest of the Israelite Kingdom of Israel in approximately 721 BCE. The records of Sargon II of Assyria indicate that he deported 27,290 inhabitants of the former kingdom.
 
 Jewish tradition affirms the Assyrian deportations and replacement of the previous inhabitants by forced resettlement by other peoples but claims a different ethnic origin for the Samaritans. The Talmud accounts for a people called "Cuthim" on a number of occasions, mentioning their arrival by the hands of the Assyrians. According to 2 Kings[34] and Josephus,[35] the people of Israel were removed by the king of the Assyrians (Sargon II)[36] to Halah, to Gozan on the Khabur River and to the towns of the Medes. The king of the Assyrians then brought people from Babylon, Cuthah, Avah, Emath, and Sepharvaim to place in Samaria.[37] Because God sent lions among them to kill them, the king of the Assyrians sent one of the priests from Bethel to teach the new settlers about God's ordinances. The eventual result was that the new settlers worshiped both the God of the land and their own gods from the countries from which they came.[38]
 
@@ -85,7 +85,7 @@ Both Jewish and Samaritan religious leaders taught that it was wrong to have any
 
 Persian period
 
-Samaritan_inscription.jpg. From a photo c. 1900 by the Palestine Exploration Fund.]]
+. From a photo c. 1900 by the Palestine Exploration Fund.]]
 
 According to historian Lawrence Schiffman, throughout the Persian Period, Judeans and Samaritans fought periodically with one another. The Samaritans were a blend of all kinds of people—made up of Israelites who were not exiled when the Northern Kingdom was destroyed in 722 BCE—of various different nationalities whom the Assyrians had resettled in the area. The Assyrians did this as an attempt to ensure that Israel’s national dream could not come true.[48]
 
@@ -145,7 +145,7 @@ According to Samaritan sources, Eastern Roman emperor Zeno (who ruled 474–491 
 
 Some modern historians believe that the order of the facts preserved by Samaritan sources should be inverted, as the persecution of Zeno was a consequence of the rebellion rather than its cause, and should have happened after 484, around 489. Zeno rebuilt the church of St. Procopius in Neapolis (Sichem) and the Samaritans were banned from Mount Gerizim, on whose top a signalling tower was built to alert in case of civil unrest.[65]
 
-Under a charismatic, messianic figure named Julianus ben Sabar (or ben Sahir), the Samaritans launched a war to create their own independent state in 529. With the help of the Ghassanids, Emperor Justinian I crushed the revolt; tens of thousands of Samaritans died or were enslaved. The Samaritan faith, which had previously enjoyed the status of _religio licita_, was virtually outlawed thereafter by the Christian Byzantine Empire; from a population once at least in the hundreds of thousands, the Samaritan community dwindled to tens of thousands. Mosaic_from_Samaritan_synagogue.jpg)]]
+Under a charismatic, messianic figure named Julianus ben Sabar (or ben Sahir), the Samaritans launched a war to create their own independent state in 529. With the help of the Ghassanids, Emperor Justinian I crushed the revolt; tens of thousands of Samaritans died or were enslaved. The Samaritan faith, which had previously enjoyed the status of _religio licita_, was virtually outlawed thereafter by the Christian Byzantine Empire; from a population once at least in the hundreds of thousands, the Samaritan community dwindled to tens of thousands. )]]
 
 Middle Ages
 
@@ -157,7 +157,7 @@ During the Crusades, Samaritans, like the non-Latin Christian inhabitants of the
 
 Ottoman rule
 
-Gerizim2.jpg.]] While the majority of the Samaritan population in Damascus was massacred or converted during the reign of the Ottoman Pasha Mardam Beq in the early 17th century, the remainder of the Samaritan community there, in particular, the Danafi family, which is still influential today, moved back to Nablus in the 17th century.[69]
+.]] While the majority of the Samaritan population in Damascus was massacred or converted during the reign of the Ottoman Pasha Mardam Beq in the early 17th century, the remainder of the Samaritan community there, in particular, the Danafi family, which is still influential today, moved back to Nablus in the 17th century.[69]
 
 The Nablus community endured because most of the surviving diaspora returned, and they have maintained a tiny presence there to this day. In 1624, the last Samaritan High Priest of the line of Eleazar son of Aaron died without issue, but according to Samaritan tradition, descendants of Aaron's other son, Ithamar, remained and took over the office.[70]
 
@@ -165,13 +165,13 @@ By the late Ottoman period, the Samaritan community dwindled to its lowest. In 1
 
 British Mandate
 
-The_High_Priest_of_the_Samaritans_with_the_Codex_Nablus_c._192.jpg Interior_of_the_Synagogue_of_the_Samaritans_Nablus_c._1920.jpg The situation of the Samaritan community improved significantly during the British Mandate of Palestine. At that time, they began to work in the public sector, like many other groups. The censuses of 1922 and 1931 recorded 163 and 182 Samaritans in Palestine, respectively.[71] The majority of them lived in Nablus.[72]
+The situation of the Samaritan community improved significantly during the British Mandate of Palestine. At that time, they began to work in the public sector, like many other groups. The censuses of 1922 and 1931 recorded 163 and 182 Samaritans in Palestine, respectively.[71] The majority of them lived in Nablus.[72]
 
 Israeli, Jordanian and Palestinian rule
 
 After the end of the British Mandate of Palestine and the subsequent establishment of the State of Israel, some of the Samaritans who were living in Jaffa emigrated to Samaria and lived in Nablus. By the late 1950s, around 100 Samaritans left the West Bank for Israel under an agreement with the Jordanian authorities in the West Bank.[73] In 1954, Israeli President Yitzhak Ben-Zvi fostered a Samaritan enclave in Holon, Israel.
 
-Until the 1990s, most of the Samaritans resided in the West Bank city of (Nablus) below Mount Gerizim. They relocated to the mountain itself near the Israeli settlement Har Brakha as a result of violence during the First Intifada (1987–1990). Consequently, all that is left of the Samaritan community in Nablus itself is an abandoned synagogue. The Israeli army maintains a presence in the area.[74] Sofi_Tzadka.jpg, an Israeli actress from the Samaritan community]] Samaritan_Pilgrimage_1920.JPG. On the last day of the encampment, they begin at dawn a pilgrimage to the crest of the sacred mount. Before setting forth on this pilgrimage, however, the men spread their cloths and repeat the creed and the story of the Creation in silence, after which, in loud voice they read the Book of Genesis and the first quarter of the Book of Exodus, ending with the story of the Passover and the flight from Egypt
+Until the 1990s, most of the Samaritans resided in the West Bank city of (Nablus) below Mount Gerizim. They relocated to the mountain itself near the Israeli settlement Har Brakha as a result of violence during the First Intifada (1987–1990). Consequently, all that is left of the Samaritan community in Nablus itself is an abandoned synagogue. The Israeli army maintains a presence in the area.[74] , an Israeli actress from the Samaritan community]] . On the last day of the encampment, they begin at dawn a pilgrimage to the crest of the sacred mount. Before setting forth on this pilgrimage, however, the men spread their cloths and repeat the creed and the story of the Creation in silence, after which, in loud voice they read the Book of Genesis and the first quarter of the Book of Exodus, ending with the story of the Passover and the flight from Egypt
 — John D. Whiting
   _The National Geographic Magazine_, Jan 1920]]
 
@@ -200,9 +200,9 @@ Demographics
 
 Figures
 
-Shomroni_tora2.jpg There were 1 million Samaritans in biblical times,[80] but in recent times the numbers are smaller. There were 100 in 1786 and 141 in 1919,[81] then 150 in 1967.[82] This grew to 745 in 2011, 751 in 2012, 756 in 2013, 760 in 2014, 777 in 2015, 785 in 2016, 796 in 2017 and 810 in 2018.[83]
+There were 1 million Samaritans in biblical times,[80] but in recent times the numbers are smaller. There were 100 in 1786 and 141 in 1919,[81] then 150 in 1967.[82] This grew to 745 in 2011, 751 in 2012, 756 in 2013, 760 in 2014, 777 in 2015, 785 in 2016, 796 in 2017 and 810 in 2018.[83]
 
-Half reside in modern homes at Kiryat Luza on Mount Gerizim, which is sacred to them, and the rest in the city of Holon, just outside Tel Aviv.[84][85] There are also four Samaritan families residing in Binyamina-Giv'at Ada, Matan, and Ashdod. As a small community physically divided between neighbors in a hostile region, Samaritans have been hesitant to overtly take sides in the Arab–Israeli conflict, fearing that doing so could lead to negative repercussions. While the Samaritan communities in both the West Bank's Nablus and Israeli Holon have assimilated to the surrounding respective cultures, Hebrew has become the primary domestic language for Samaritans. Samaritans who are Israeli citizens are drafted into the military, along with the Jewish citizens of Israel. Flickr_-_Government_Press_Office_(GPO)_-_Samaritans_praying_during_Passover_holiday_ceremony_on_mount_Grizim.jpg Relations of Samaritans with Jewish Israelis and Muslim and Christian Palestinians in neighboring areas have been mixed. Samaritans living in both Israel and in the West Bank enjoy Israeli citizenship. Samaritans in the Palestinian Authority-ruled territories are a minority in the midst of a Muslim majority. They had a reserved seat in the Palestinian Legislative Council in the election of 1996, but they no longer have one. Samaritans living in Samaria have been granted passports by both Israel and the Palestinian Authority.
+Half reside in modern homes at Kiryat Luza on Mount Gerizim, which is sacred to them, and the rest in the city of Holon, just outside Tel Aviv.[84][85] There are also four Samaritan families residing in Binyamina-Giv'at Ada, Matan, and Ashdod. As a small community physically divided between neighbors in a hostile region, Samaritans have been hesitant to overtly take sides in the Arab–Israeli conflict, fearing that doing so could lead to negative repercussions. While the Samaritan communities in both the West Bank's Nablus and Israeli Holon have assimilated to the surrounding respective cultures, Hebrew has become the primary domestic language for Samaritans. Samaritans who are Israeli citizens are drafted into the military, along with the Jewish citizens of Israel. Relations of Samaritans with Jewish Israelis and Muslim and Christian Palestinians in neighboring areas have been mixed. Samaritans living in both Israel and in the West Bank enjoy Israeli citizenship. Samaritans in the Palestinian Authority-ruled territories are a minority in the midst of a Muslim majority. They had a reserved seat in the Palestinian Legislative Council in the election of 1996, but they no longer have one. Samaritans living in Samaria have been granted passports by both Israel and the Palestinian Authority.
 
 Community survival
 
@@ -225,15 +225,11 @@ According to _The Economist_, "most ethnic Samaritans are now pious Muslims."[98
 
 Samaritanism
 
-Samaritan_Passover_prayer_1920.JPG
-
 The Samaritan religion is based on some of the same books used as the basis of Judaism but differs from the latter. Samaritan religious works include the Samaritan version of the Torah, the Memar Markah, the Samaritan liturgy, and Samaritan law codes and biblical commentaries. Many claim the Samaritans appear to have a text of the Torah as old as the Masoretic Text; scholars have various theories concerning the actual relationships between these three texts.
 
 Samaritan Temple
 
 According to Samaritans,[99] it was on Mount Gerizim that Abraham was commanded by God to offer Isaac, his son, as a sacrifice.[100] In both narratives, God then causes the sacrifice to be interrupted, explaining that this was the ultimate test of Abraham's obedience, as a result of which all the world would receive blessing.
-
-Harry_Fenn._Ruins_on_the_summit_of_Mount_Gerizim,_on_the_site_of_the_Samaritan_temple._1881-1884.jpg
 
 The Torah mentions the place where God chooses to establish His name (Deut 12:5), and Judaism takes this to refer to Jerusalem. However, the Samaritan text speaks of the place where God _has chosen_ to establish His name, and Samaritans identify it as Mount Gerizim, making it the focus of their spiritual values.
 
@@ -258,7 +254,7 @@ File:Samaritans.jpg%7CSamaritans, from a photo c. 1900 by the Palestine Explorat
 
 Relationship to Rabbinic Judaism
 
-Samaritan_doorpost.jpg engraved above the front door]]
+engraved above the front door]]
 
 Samaritans refer to themselves as _Benai Yisrael_ ("Children of Israel") which is a term used by all Jewish denominations as a name for the Jewish people as a whole. They, however, do not refer to themselves as _Yehudim_ (Jews), the standard Hebrew name for Jews.
 

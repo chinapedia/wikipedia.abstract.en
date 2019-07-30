@@ -1,1 +1,0 @@
-TODD MILLER is a journalist based in Tucson, Arizona. He is the author of _Border Patrol Nation: Dispatches from the Front Lines of Homeland Security_ and _Storming the Wall: Climate Change, Migration, and Homeland Security._

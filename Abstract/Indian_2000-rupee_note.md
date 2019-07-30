@@ -1,1 +1,0 @@
-The INDIAN 2000-RUPEE BANKNOTE (₹2000) is a denomination of the Indian rupee. It was released by the Reserve Bank of India (RBI) on 8 November 2016 after the demonetisation of ₹500 and ₹1000 banknotes and has been in circulation since 10 November 2016.[1] It is a part of the Mahatma Gandhi New Series of banknotes with a completely new design.

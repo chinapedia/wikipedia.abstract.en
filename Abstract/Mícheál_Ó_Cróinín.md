@@ -1,1 +1,0 @@
-MÍCHEÁL Ó CRÓINÍN (born 1977) is an Irish retired Gaelic footballer and current sports broadcaster. His league and championship career with the Cork senior team spanned seven seasons from 1999 to 2005.[1]

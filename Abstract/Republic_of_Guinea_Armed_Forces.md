@@ -1,1 +1,0 @@
-The REPUBLIC OF GUINEA ARMED FORCES (French: _Forces armées guinéennes_) are the armed forces of Guinea. They are responsible for the territorial security of Guinea's border and the defence of the country against external attack and aggression.

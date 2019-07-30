@@ -1,1 +1,0 @@
-_FAIRY DUST_ is a 2016 short film co-produced, co-written and starring Swedish singer-songwriter Tove Lo. The film coincides with the first "chapter", or first six songs, of Lo's sophomore album, _Lady Wood_, which was released on 28 October 2016. The film was released on YouTube and Vevo on 31 October 2016.[1]

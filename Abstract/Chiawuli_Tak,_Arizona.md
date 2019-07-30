@@ -1,1 +1,0 @@
-CHIAWULI TAK is both a census-designated place (CDP) as well as a populated place in Pima County, Arizona, United States. _Chiawuli Tak_ means "the barrel cactus sits" in the O'odham language. It is also unofficially known as GEOWIC, JEOWIC, or TJEAVOLITAK.[1][2] The population was 78 at the 2010 census.

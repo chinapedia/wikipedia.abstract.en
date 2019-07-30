@@ -1,1 +1,0 @@
-TAVERN CREEK is a stream in Miller and Pulaski counties in the U.S. state of Missouri.[1] It is a tributary of the Osage River.[2] The stream headwaters are at and the confluence with the Osage is at .[3]

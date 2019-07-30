@@ -1,1 +1,0 @@
-HAFIZ BASHIR AHMED (born August 1, 1960 in Bilasipara, Assam) is an All India United Democratic Front politician from Assam. He was elected in Assam Legislative Assembly election in 2006, 2011 and 2016 from Bilasipara West constituency.[1][2][3]

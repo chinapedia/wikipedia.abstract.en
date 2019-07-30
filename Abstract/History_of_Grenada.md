@@ -1,1 +1,0 @@
-The RECORDED HISTORY OF THE CARIBBEAN ISLAND OF GRENADA begins in the early 17th century. First settled by indigenous peoples, by the time of European contact it was inhabited by the Caribs. British colonists drove most of the Caribs off the island and established plantations on the island, eventually importing African slaves to work on the sugar plantations.

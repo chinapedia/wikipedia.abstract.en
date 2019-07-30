@@ -1,1 +1,0 @@
-MARY ISABELLA HALES HORNE (November 20, 1818 – August 25, 1905) was a prominent leader in many different capacities in The Church of Jesus Christ of Latter-day Saints.[1] During her lifetime she served as a Relief Society president at the Ward and Stake levels. She also made her voice heard with regards to the federal restraints on polygamy and women's rights.[2]

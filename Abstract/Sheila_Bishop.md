@@ -1,1 +1,0 @@
-SHEILA BISHOP (3 October 1916 – 30 May 2009) was an English novelist. She had 27 books published. Her early work alternated between plots set in the Tudor period and the contemporary 1960s, some with flashbacks to the 1930s and 1940s. In later years she concentrated on Regency romance novels, and these formed by far the greater part of her output.

@@ -1,1 +1,0 @@
-BIPOLAR I DISORDER (BD-I; pronounced "type one bipolar disorder") is a type of bipolar spectrum disorder characterized by the occurrence of at least one manic episode, with or without mixed or psychotic features.[1] Most patients also, at other times, have one or more depressive episodes, and all experience a hypomanic stage before progressing to full mania.[2]

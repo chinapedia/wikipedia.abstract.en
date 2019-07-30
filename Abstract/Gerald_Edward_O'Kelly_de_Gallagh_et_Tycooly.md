@@ -1,1 +1,0 @@
-GERALD EDWARD O'KELLY DE GALLAGH ET TYCOOLY (1890–1968) was an Irish diplomat.

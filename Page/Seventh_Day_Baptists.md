@@ -7,7 +7,7 @@ In England
 
 Seventh Day Baptists trace the beginning of their movement to coalescing factors during the decade of the 1650s in England. These factors included the continuing Baptist movement in England, English language publications about the Sabbath in the early 1600s, and a relative freedom of religion from state interference in Oliver Cromwell's commonwealth. Once the factors had coalesced, individuals associated with the movement chose to accept punishment meted out by the State rather than renounce their Sabbath conviction.
 
-The first recorded SDB meeting was held at The Mill Yard Church in London in 1651 under the leadership of Dr. Peter Chamberlen. However many SDBs believe that their origins date to 1617[2] with John Trask and his wife,[3] but the records for this were lost in a fire. Sabbatarian_Meeting_House.jpg building]]
+The first recorded SDB meeting was held at The Mill Yard Church in London in 1651 under the leadership of Dr. Peter Chamberlen. However many SDBs believe that their origins date to 1617[2] with John Trask and his wife,[3] but the records for this were lost in a fire. building]]
 
 In America
 

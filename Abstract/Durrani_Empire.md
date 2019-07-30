@@ -1,1 +1,0 @@
-The DURRANI EMPIRE (), also called the SADOZAI KINGDOM (),[1] and AFGHAN EMPIRE (),[2] was founded and built by Ahmad Shah Durrani. At its maximum extent, the empire ruled over what are now the modern-day countries of Afghanistan, Pakistan, as well as some parts of northeastern Iran, eastern Turkmenistan, and northwestern India including the Kashmir region.[3]

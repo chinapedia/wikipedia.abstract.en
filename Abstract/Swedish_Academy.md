@@ -1,1 +1,0 @@
-The SWEDISH ACADEMY (), founded in 1786 by King Gustav III, is one of the Royal Academies of Sweden. Its 18 members, who are elected for life, comprise the highest Swedish language authority. Outside Scandinavia, it is best known as the body that chooses the laureates for the annual Nobel Prize in Literature, awarded in memory of the donor Alfred Nobel.

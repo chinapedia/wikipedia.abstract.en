@@ -1,1 +1,0 @@
-VILLA COLLOREDO MELS is a suburban palace located on Via Gregorio XII, on the western edge of the urban center of Recanati, province of Macerata, Marche, Italy. It presently houses the civic archeologic and art museum of the town.

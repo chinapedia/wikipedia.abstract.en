@@ -1,1 +1,0 @@
-The ITALY NATIONAL UNDER-17 BASKETBALL TEAM is a national basketball team of Italy, administered by the Federazione Italiana Pallacanestro.[1] It represents the country in international under-17 (under age 17) basketball competitions.

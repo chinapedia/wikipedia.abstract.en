@@ -1,1 +1,0 @@
-STEPHANE LEONARD (born April 19, 1979) is a German artist. Leonard works in various different medias. His oeuvre spans from drawing and painting to sound installation, music, video installation, music videos and film.

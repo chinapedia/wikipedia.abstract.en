@@ -1,1 +1,0 @@
-ROUTE 24, also known as DOVER ROAD and MURRAY HARBOUR ROAD, is a , two-lane, uncontrolled-access, secondary highway in Prince Edward Island. Its southern terminus is at Route 4 in Murray River and its northern terminus is at Route 3 in Vernon River. The route is in Kings and Queens counties.

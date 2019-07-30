@@ -1,1 +1,0 @@
-The U.S.-JAPAN CAUCUS is a bipartisan Congressional Member Organization within the United States Congress made up of over 100 members of the United States House of Representatives who work to strengthen and maintain U.S.–Japanese Relations.[1]

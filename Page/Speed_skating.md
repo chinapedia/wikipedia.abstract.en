@@ -5,15 +5,13 @@ An international federation was founded in 1892, the first for any winter sport.
 
 Overview
 
-Jan_Smeekens_(23-02-2008).jpg, Thialf, 2008]] The standard rink for long track is 400 meters long, but tracks of 200, 250 and 333 meters are used occasionally. It is one of two Olympic forms of the sport and the one with the longer history.
+, Thialf, 2008]] The standard rink for long track is 400 meters long, but tracks of 200, 250 and 333 meters are used occasionally. It is one of two Olympic forms of the sport and the one with the longer history.
 
 International Skating Union rules allow some leeway in the size and radius of curves.
 
-Saguenay_500m.jpg racing through a curve]]
+racing through a curve]]
 
 Short track speed skating takes place on a smaller rink, normally the size of an ice hockey rink, on a 111.12 m oval track. Distances are shorter than in long-track racing, with the longest Olympic individual race being 1500 meters (the women's relay is 3000 meters and the men's relay 5000 meters). Event are usually held with a knockout format, with the best two in heats of four or five qualifying for the final race, where medals are awarded. Disqualifications and falls are not uncommon.
-
-Veit_Dubiel_2008-11-02.jpg 1988_CPA_5923.jpg
 
 There are variations on the mass-start races. In the regulations of roller sports, eight different types of mass starts are described. Among them are elimination races, where one or more competitors are eliminated at fixed points during the course; simple distance races, which may include preliminary races; endurance races with time limits instead of a fixed distance; points races; and individual pursuits.
 
@@ -28,7 +26,7 @@ In the Netherlands, marathon competitions may be held on natural ice on canals, 
 
 History
 
-Schaatswedstrijd_voor_vrouwen_op_de_Stadsgracht_in_Leeuwarden_-_21_januari_1809_-_Nicolaas_Baur_-_1809_-_SK-A-5020_-_Rijksmuseum.jpg: Women's speed skating competition on the town canal at Leeuwarden, 1809.]] Kortebaanwedstrijd_in_Hindelopen.jpg near Hindeloopen, Netherlands in 1828]]
+: Women's speed skating competition on the town canal at Leeuwarden, 1809.]] near Hindeloopen, Netherlands in 1828]]
 
 The roots of speed skating date back over a millennium to Scandinavia, Northern Europe and the Netherlands, where the natives added bones to their shoes and used them to travel on frozen rivers, canals and lakes. In contrast to what people think, ice skating has always been an activity of joy and sports and not a matter of transport. For example, winters in the Netherlands have never been stable and cold enough to make ice skating a way of travelling or a mode of transport. This has already been described in 1194 by William Fitzstephen, who described a sport in London.
 
@@ -40,7 +38,7 @@ By 1851, North Americans had discovered a love of the sport, and indeed the all-
 
 ISU development
 
-JaapEden.jpg, the first official world champion]]
+, the first official world champion]]
 
 Organized races on ice skates developed in the 19th century. Norwegian clubs hosted competitions from 1863, with races in Christiania drawing five-digit crowds.[2] In 1884, the Norwegian Axel Paulsen was named Amateur Champion Skater of the World after winning competitions in the United States. Five years later, a sports club in Amsterdam held an ice-skating event they called a world championship, with participants from Russia, the United States and the United Kingdom, as well as the host country. The _Internationale Eislauf Vereinigung_, now known as the International Skating Union, was founded at a meeting of 15 national representatives in Scheveningen in 1892, the first international winter sports federation. The Nederlandse Schaatsrijderbond was founded in 1882[3] and organised the world championships of 1890 and 1891.[4] Competitions were held around tracks of varying lengths—the 1885 match between Axel Paulsen and Remke van der Zee was skated on a track of 6/7 mile (1400 metres)—but the 400 metre track was standardised by the ISU in 1892, along with the standard distances for world championships, 500 m, 1500 m, 5000 m and 10,000 m. Skaters started in pairs, each to their own lane, and changed lanes for every lap to ensure that each skater completed the same distance. This is what is now known as long track speed skating. Competitions were exclusively for amateur skaters, which was enforced. Peter Sinnerud was disqualified for professionalism in 1904 and lost his world title.
 
@@ -48,13 +46,13 @@ Long track world records were first registered in 1891 and improved rapidly, Jaa
 
 Elfstedentocht
 
-De_10e_Elfstedentocht.ogv with Dutch commentary]]
+with Dutch commentary]]
 
 The Elfstedentocht was organized as a competition in 1909 and has been held at irregular intervals, whenever the ice on the course is deemed good enough. Other outdoor races developed later, with Friesland in the northern Netherlands hosting a race in 1917, but the Dutch natural ice conditions have rarely been conducive to skating. The Elfstedentocht has been held 15 times in the nearly 100 years since 1909, and, before artificial ice was available in 1962, national championships had been held in 25 of the years between 1887, when the first championship was held in Slikkerveer, and 1961. Since artificial ice became common in the Netherlands, Dutch speed skaters have been among the world top in long track ice skating and marathon skating. Another solution to still be able to skate marathons on natural ice became the Alternative Elfstedentocht. The Alternative Elfstedentocht races take part in other countries, such as Austria, Finland or Canada, and all top marathon skaters, as well as thousands of recreative skaters, travel from the Netherlands to the location where the race is held. According to the NRC Handelsblad journalist Jaap Bloembergen, the country "takes a carnival look" during international skating championships.[7]
 
 Olympic Games
 
-Bundesarchiv_Bild_102-05456,_St._Moritz,_Winterolympiade.jpg in St. Moritz, Switzerland]] At the 1914 Olympic Congress, the delegates agreed to include ice speed skating in the 1916 Olympics, after figure skating had featured in the 1908 Olympics. However, World War I put an end to the plans of Olympic competition, and it was not until the winter sports week in Chamonix in 1924—retroactively awarded Olympic status—that ice speed skating reached the Olympic programme. Charles Jewtraw from Lake Placid, New York, won the first Olympic gold medal, though several Norwegians in attendance claimed Oskar Olsen had clocked a better time. Timing issues on the 500 were a problem within the sport until electronic clocks arrived in the 1960s; during the 1936 Olympic 500–metre race, it was suggested that Ivar Ballangrud's 500-metre time was almost a second too good. Finland won the remaining four gold medals at the 1924 Games, with Clas Thunberg winning 1,500 metres, 5,000 metres, and allround. It was the first and only time an allround Olympic gold medal has been awarded in speed skating. Speed Skating is also a sport in today's Olympics.
+in St. Moritz, Switzerland]] At the 1914 Olympic Congress, the delegates agreed to include ice speed skating in the 1916 Olympics, after figure skating had featured in the 1908 Olympics. However, World War I put an end to the plans of Olympic competition, and it was not until the winter sports week in Chamonix in 1924—retroactively awarded Olympic status—that ice speed skating reached the Olympic programme. Charles Jewtraw from Lake Placid, New York, won the first Olympic gold medal, though several Norwegians in attendance claimed Oskar Olsen had clocked a better time. Timing issues on the 500 were a problem within the sport until electronic clocks arrived in the 1960s; during the 1936 Olympic 500–metre race, it was suggested that Ivar Ballangrud's 500-metre time was almost a second too good. Finland won the remaining four gold medals at the 1924 Games, with Clas Thunberg winning 1,500 metres, 5,000 metres, and allround. It was the first and only time an allround Olympic gold medal has been awarded in speed skating. Speed Skating is also a sport in today's Olympics.
 
 Norwegian and Finnish skaters won all the gold medals in world championships between the world wars, with Latvians and Austrians visiting the podium in the European Championships. However, North American races were usually conducted pack-style, similar to the marathon races in the Netherlands, but the Olympic races were to be held over the four ISU-approved distances. The ISU approved the suggestion that the speed skating at the 1932 Winter Olympics should be held as pack-style races, and Americans won all four gold medals. Canada won five medals, all silver and bronze, while defending World Champion Clas Thunberg stayed at home, protesting against this form of racing. At the World Championships held immediately after the games, without the American champions, Norwegian racers won all four distances and occupied the three top spots in the allround standings.
 
@@ -62,7 +60,7 @@ Norwegians, Swedes, Finns, and Japanese skating leaders protested to the USOC, c
 
 Technical developments
 
-Monique_Angermüller_(23-02-2008).jpg on clap skates and in a full body-covering suit in 2008]]
+on clap skates and in a full body-covering suit in 2008]]
 
 Artificial ices entered the long track competitions with the 1960 Winter Olympics, and the competitions in 1956 on Lake Misurina were the last Olympic competitions on natural ice. 1960 also saw the first Winter Olympic competitions for women. Lidia Skoblikova won two gold medals in 1960 and four in 1964.
 

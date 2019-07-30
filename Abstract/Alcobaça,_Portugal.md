@@ -1,1 +1,0 @@
-Alcobaca_-_Front.jpg Alcobaca_fountain_hires.jpg Alcobaça_Praça_da_República.jpg

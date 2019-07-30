@@ -1,1 +1,0 @@
-_STRONGER TOGETHER: A BLUEPRINT FOR AMERICA'S FUTURE_ is a 2016 book by Hillary Clinton and her vice-presidential running mate Tim Kaine, released during the 2016 U.S. presidential election. It outlines their vision for the nation were they to win the election. The book was published by Simon & Schuster in September 2016. Critics' reviews were unfavorable.

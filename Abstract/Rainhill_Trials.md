@@ -1,1 +1,0 @@
-Rainhill_Trials_in_the_Illustrated_London_News.jpg

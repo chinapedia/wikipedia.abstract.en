@@ -1,1 +1,0 @@
-ARTHUR CHRISTO BOUWER (born ) is a South African-born Namibian rugby union player, that played international rugby for the Namibia national team between 2012 and 2016. He also played for the in the South African Vodacom Cup and Currie Cup competitions.[1] He usually played as a scrum-half.

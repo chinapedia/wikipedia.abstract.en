@@ -1,1 +1,0 @@
-MANON STEFFAN ROS (born in Rhiwlas[1]) is a Welsh novelist, playwright, games author, and scriptwriter.[2] She is the daughter of Steve Eaves. She is the author of over twenty children's books and three novels for adults, all in Welsh. Her award-winning novel _Blasu_ has been translated (by the author) into English, under the title of _The Seasoning_.

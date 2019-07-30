@@ -1,1 +1,0 @@
-BELLE AND SEBASTIAN are a Scottish band formed in Glasgow in January 1996. Led by Stuart Murdoch, the band has released nine albums.[1][2] Much of their work had been released on Jeepster Records, but they are now signed to Rough Trade Records in the United Kingdom and Matador Records in the United States.

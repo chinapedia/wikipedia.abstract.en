@@ -1,1 +1,0 @@
-Tiziano_Vecellio_-_Pala_di_Serravalle_(1542-47).jpg The SERRAVALLE ALTARPIECE or MADONNA AND CHILD IN GLORY WITH SAINT ANDREW AND SAINT PETER is a painting by Titian, now in the church of Santa Maria Nova in Serravalle, for which it was commissioned.

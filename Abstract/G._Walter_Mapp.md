@@ -1,1 +1,0 @@
-GEORGE WALTER MAPP (May 23, 1873 – February 2, 1941) was an American lawyer and Democratic politician who served as a member of the Virginia Senate, where he was a strong proponent of prohibition and women's suffrage.[1][2]

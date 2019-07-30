@@ -1,1 +1,0 @@
-_DER UNHEIMLICHE MÖNCH_ () is a 1965 German black-and-white film from Constantin Film directed by Harald Reinl, and starring Karin Dor, Harald Leipnitz and Siegfried Lowitz. It is based on the play _The Terror_ by Edgar Wallace and was part of a very successful series of German films inspired by his works.

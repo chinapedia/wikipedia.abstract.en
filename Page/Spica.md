@@ -12,8 +12,6 @@ Spica is believed to be the star that gave Hipparchus the data that led him to d
 
 Observation
 
-Finding_spica.png
-
 Spica is 2.06 degrees from the ecliptic and can be occulted by the Moon and sometimes by planets. The last planetary occultation of Spica occurred when Venus passed in front of the star (as seen from Earth) on November 10, 1783. The next occultation will occur on September 2, 2197, when Venus again passes in front of Spica.[7] The Sun passes a little more than 2° north of Spica around October 16 every year, and the star's heliacal rising occurs about two weeks later. Every 8 years, Venus passes Spica around the time of the star's heliacal rising, as in 2009 when it passed 3.5° north of the star on November 3.[8]
 
 A method of finding Spica is to follow the arc of the handle of the Big Dipper (or Plough) to Arcturus, and then continue on the same angular distance to Spica. This can be recalled by the mnemonic phrase, "arc to Arcturus and spike to Spica."[9][10]
@@ -65,7 +63,7 @@ In a non-canonical chapter in Re:Zero -Starting Life in Another World-, Subaru h
 
 Spica is the pseudonym of Lili in the children's manga series, _Zodiac P.I._
 
-In his _Three Books of Occult Philosophy_, Cornelius Agrippa attributes Spica's kabbalistic symbol Image:Agrippa1531 Spica.png to Hermes Trismegistus.
+In his _Three Books of Occult Philosophy_, Cornelius Agrippa attributes Spica's kabbalistic symbol to Hermes Trismegistus.
 
 
 References

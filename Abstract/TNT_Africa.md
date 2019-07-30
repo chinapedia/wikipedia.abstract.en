@@ -1,1 +1,0 @@
-TNT is an African pay television channel centred towards movies. The channel is available in Africa (as TNT Africa) and the Arab world (as TCM MENA). In the Arab world, TCM has a unique schedule, and its movies are broadcast with Arabic subtitles, which are optional.

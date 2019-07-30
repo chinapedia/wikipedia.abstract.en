@@ -1,1 +1,0 @@
-CELERY (_Apium graveolens_) is a marshland plant in the family Apiaceae that has been cultivated as a vegetable since antiquity. Celery has a long fibrous stalk tapering into leaves. Depending on location and cultivar, either its stalks, leaves or hypocotyl are eaten and used in cooking. Celery seed is also used as a spice and its extracts have been used in herbal medicine.

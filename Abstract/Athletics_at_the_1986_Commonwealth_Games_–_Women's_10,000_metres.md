@@ -1,1 +1,0 @@
-The WOMEN'S 10,000 METRES event at the 1986 Commonwealth Games was held on 28 July at the Meadowbank Stadium in Edinburgh.[1] It was the first time that this event was contested at the Commonwealth Games.

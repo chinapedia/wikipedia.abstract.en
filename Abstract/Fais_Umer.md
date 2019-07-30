@@ -1,1 +1,0 @@
-FAIS UMER() (born 3 August 1981) is an Indian film screenwriter and activist. Fais Umer known for his work in Malayalam cinema and Mappila onam Payasam[1][2][3] Fest. He is popular for the _Onnum Onnum Moonu_

@@ -1,1 +1,0 @@
-_OXYOPES HETEROPHTHALMUS_ is a lynx spider from the family Oxyopidae, it is the type species of the genus _Oxyopes_ and was described by Pierre André Latreille in 1804, it has a Palearctic distribution.[1]

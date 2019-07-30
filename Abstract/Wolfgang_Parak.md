@@ -1,1 +1,0 @@
-WOLFGANG PARAK[1] is Professor of Experimental Physics at the Philipps-University of Marburg, Germany and head of the Biofunctional Nanomaterials Unit at CIC biomaGUNE, San Sebastian, Spain, He received his PhD in 1999 from Ludwig Maximilians Universität München, Germany.

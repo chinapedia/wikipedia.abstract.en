@@ -1,1 +1,0 @@
-The BAROSSA STATE BY-ELECTION, 1933 was a by-election held on 8 July 1933 for the South Australian House of Assembly seat of Barossa.[1] The by-election was caused by the death on 4 June 1933 of independent MP Dr Herbert Basedow, who had regained the seat at the 1933 election less than two months prior. He had previously held the seat from 1927 to 1930.[2]

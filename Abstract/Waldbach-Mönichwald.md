@@ -1,1 +1,0 @@
-Waldbach-Kirche_7837.jpg Mönichwald_-_Kirche_hll_Peter_und_Paul_mit_Friedhofsmauer.jpg

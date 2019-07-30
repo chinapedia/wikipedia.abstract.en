@@ -1,1 +1,0 @@
-KChristensen.jpg

@@ -1,1 +1,0 @@
-The KUGU NGANHCARA, also _Wikngenchera, Wik-Ngandjara (Ngandjara)_ are an Australian group of peoples living in the middle western part of the Cape York Peninsula, Queensland in Australia. Today they are primarily concentrated at Aurukan and the Edward river settlement.

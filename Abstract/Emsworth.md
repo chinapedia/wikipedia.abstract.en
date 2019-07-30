@@ -1,1 +1,0 @@
-EMSWORTH is a small town[1] in Hampshire on the south coast of England, near the border of West Sussex. It lies at the north end of an arm of Chichester Harbour, a large and shallow inlet from the English Channel and is equidistant between Portsmouth and Chichester.[2]

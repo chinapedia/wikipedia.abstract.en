@@ -1,1 +1,0 @@
-OKOYE is a fictional character, a member of the Dora Milaje in Marvel Comics. The character, created by Christopher Priest and Mark Texeira, first appeared in _Black Panther_ #1 (November 1998) within the comics.

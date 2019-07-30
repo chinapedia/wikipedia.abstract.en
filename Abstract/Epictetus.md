@@ -1,1 +1,0 @@
-EPICTETUS (;[1] , _Epíktētos_; 55 135 AD) was a Greek Stoic philosopher. He was born a slave at Hierapolis, Phrygia (present day Pamukkale, Turkey) and lived in Rome until his banishment, when he went to Nicopolis in northwestern Greece for the rest of his life. His teachings were written down and published by his pupil Arrian in his _Discourses_ and _Enchiridion_.

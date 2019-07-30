@@ -1,1 +1,0 @@
-Refraction_photo.png

@@ -1,1 +1,0 @@
-PYOTR EMELYANOVICH SHELEPOV (; 14 July 19203 September 1983) was a Red Army man and a Hero of the Soviet Union. Shelepov was awarded the title for his actions in the Berlin Offensive, in which he and others captured a height and then held it against several counterattacks. Postwar, he became a prosecutor.[1]

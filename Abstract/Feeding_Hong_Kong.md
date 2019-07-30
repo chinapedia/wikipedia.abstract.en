@@ -1,1 +1,0 @@
-FEEDING HONG KONG () is the first Hong Kong food bank dedicated to rescuing surplus food from retailers, distributors and manufacturers and redistributing it to people in need. They aim to fight hunger and reduce food waste in Hong Kong.[1] It is an accredited member of The Global Food Banking Network.[2][3]

@@ -1,1 +1,0 @@
-JUAN ALEJO (born January 9, 1984) is a Mexican professional boxer. He won Mexico's Light Flyweight title with an 11th-round TKO of Jose Guadalupe Martinez on August 20, 2014.[1] He won a ten-round split decision victory over Jose Rivas on May 27, 2015. Alejo is the current WBC FECOMBOX light flyweight Champion.

@@ -1,1 +1,0 @@
-ARDEN is an unincorporated community in western Douglas County, Missouri.[1] Arden is located on a ridge along Missouri Route O between Missouri Route 14 to the north and the community of Red Bank to the south.[2] The community is at an elevation of .[3]

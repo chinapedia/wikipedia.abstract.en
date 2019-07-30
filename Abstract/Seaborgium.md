@@ -1,1 +1,0 @@
-SEABORGIUM is a synthetic chemical element with the symbol SG and atomic number 106. It is named after the American nuclear chemist Glenn T. Seaborg. As a synthetic element, it can be created in a laboratory but is not found in nature. It is also radioactive; the most stable known isotope, ²⁶⁹Sg, has a half-life of approximately 14 minutes.[1]

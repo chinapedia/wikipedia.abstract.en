@@ -1,1 +1,0 @@
-_THIS HOUSE IS NOT FOR SALE – LIVE FROM THE LONDON PALLADIUM_ is the third live album by American rock band Bon Jovi. It was released on December 16, 2016 by Island Records. The album contains live versions of 15 of the 19 songs from Bon Jovi's thirteenth studio album, _This House Is Not for Sale_, recorded at the London Palladium, London, England, in October 10, 2016.[1]

@@ -1,1 +1,0 @@
-_MONOPOLY_ is a 1995 computer game based on the board game _Monopoly_. Developed by Westwood Studios[1], published by Hasbro Electronic Entertainment and distributed by Virgin Interactive Entertainment. This title was one of many inspired by the property.

@@ -1,1 +1,0 @@
-ACTION 9 was a current affairs program hosted by Rey Langit and co-hosted by Angelique Lazo and Ramon Tulfo. It was aired on Radio Philippines Network (reverted from New Vision 9 since October 1, 1994 with the station tagline "RPN, The Network" was adopted) from January 1993 to May 1998.

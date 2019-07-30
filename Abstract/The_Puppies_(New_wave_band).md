@@ -1,1 +1,0 @@
-THE PUPPIES was an American new wave band from San Diego County, California. Dane Conover was the chief songwriter and played keyboards, guitarist Richard Filaccio who also contributed songs, bassist Nino Del Pesco and guitarist Jimmy Krieger. The drummer and vocalist was Irene Liberatore, formerly of the all female band The Dinettes.[1][2]

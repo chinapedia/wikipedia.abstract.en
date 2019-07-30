@@ -1,1 +1,0 @@
-The JAMSHEDPUR GOLF COURSE in Jamshedpur, Jharkhand state, India, comprises two golf courses - the Beldih Golf Course and the Golmuri Golf Course. It is on the Chota Nagpur plateau, surrounded by dense forests and hills, and is bordered from east to west by the Dalma Hills. These golf courses have been developed with the participation of the Tata Group.

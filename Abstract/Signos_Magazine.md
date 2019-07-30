@@ -1,1 +1,0 @@
-Signos_con_Garbade.jpg _SIGNOS MAGAZINE_ was a Spanish magazine of poetry founded 1986 by Leopoldo Alas Minguez,[1] Luis Cremades, Mario Miguez and Daniel Garbade.[2] Edited first by _Ediciones Libertarias_ and later _El Observatorio_, it was directed by Leopoldo Alas.[3] After its closure in 1992, _Signos_ turned into an editorial for contemporary Spanish poetry.

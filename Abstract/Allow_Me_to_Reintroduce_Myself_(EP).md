@@ -1,1 +1,0 @@
-_ALLOW ME TO REINTRODUCE MYSELF_ is the second extended play (EP) by Swedish singer Zara Larsson. It was released on 5 July 2013, by TEN Music Group and Universal Music Group.[1] This was Larsson's last extended play (EP) before her debut full-length album _1_.[2]

@@ -1,1 +1,0 @@
-Chelonus._goldenrod.jpg Chelonus.basalis.-.lindsey.jpg _CHELONUS_ is a wasp genus in the subfamily Cheloninae. Their larvae feed chiefly on larvae of moths in superfamilies Tortricoidea and Pyraloidea.[1]

@@ -1,1 +1,0 @@
-FRANCES WESSELLS (born August 18, 1919) is an American dancer, choreographer, and Associate Professor _Emerita_ and founder of the dance department at Virginia Commonwealth University (VCU).[1] She helped form the department of dance at VCU and is still teaching and dancing professionally in her late nineties.[2][3]

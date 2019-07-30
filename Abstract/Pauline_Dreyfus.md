@@ -1,1 +1,0 @@
-Dreyfus}} PAULINE DREYFUS (19 November 1969) is a French woman of letters, winner of the prix des Deux Magots in January 2013 for her novel __. That was the first time the prize was awarded unanimously by the jury.[1]

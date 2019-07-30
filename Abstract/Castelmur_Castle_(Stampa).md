@@ -1,1 +1,0 @@
-PALAZZO CASTELMUR or CASTELMUR CASTLE is a castle in the village of Stampa in the municipality of Bregaglia of the Canton of Graubünden in Switzerland. It is a Swiss heritage site of national significance.[1]

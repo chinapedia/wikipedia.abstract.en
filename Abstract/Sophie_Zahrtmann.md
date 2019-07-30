@@ -1,1 +1,0 @@
-METTE SOPHIE ZAHRTMANN (1841–1925) was a Danish deaconess and nurse. Zahrtmann became Sister Superior of the Danish Deaconess Institute in Copenhagen after the death of its founder Louise Conring in 1891. She is remembered for expanding the deaconess network in Denmark with additional homes and care centres and for adding theory to the training courses for nurses.[1][2]

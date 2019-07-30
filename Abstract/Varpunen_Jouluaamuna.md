@@ -1,1 +1,0 @@
-VARPUNEN JOULUAAMUNA (Swedish: Sparven om julmorgonen), _Sparrow on Christmas Morning_, is a poem by Zachris Topelius from 1859. It has been translated to Finnish by Konrad Alexis Hougberg. You can see the sorrow of Topelius in the poem; his son, Rafael, died at the age of one[1] the spring before he wrote the poem.[2]

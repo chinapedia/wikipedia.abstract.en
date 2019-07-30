@@ -1,1 +1,0 @@
-Linda_olsson.jpg

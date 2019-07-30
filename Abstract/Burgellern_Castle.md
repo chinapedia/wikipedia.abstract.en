@@ -1,1 +1,0 @@
-BURGELLERN CASTLE is a castle located in a village called “Burgellern” near Bamberg in Franconia, Germany. The former residence of Bamberg's cathedral chapter of the 18th century is today offering a Hotel and a Restaurant.

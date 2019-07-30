@@ -1,1 +1,0 @@
-The JONES–PESTLE FARMSTEAD is a historic farm property at 339 Bridge Street in Waitsfield, Vermont. First developed in the 1820s, it is a well-preserved 19th-century disconnected farm complex. It was listed on the National Register of Historic Places in 2015.[1]

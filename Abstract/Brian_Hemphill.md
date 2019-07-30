@@ -1,1 +1,0 @@
-BRIAN HEMPHILL is an American educational leader, researcher, author and the 7th president of Radford University since July 1, 2016. Before Radford, Hemphill was president of West Virginia State University.[1]

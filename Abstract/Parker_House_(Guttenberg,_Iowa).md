@@ -1,1 +1,0 @@
-The PARKER HOUSE is a historic building located in Guttenberg, Iowa, United States. This two-story brick structure with a brick lean-to addition, which houses the kitchen, was built in 1858. It is one of the oldest residences in town.[1] The house sits on the back of the lot facing the alley. The building was listed on the National Register of Historic Places in 1984.[2]

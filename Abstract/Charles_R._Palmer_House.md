@@ -1,1 +1,0 @@
-The CHARLES R. PALMER HOUSE is a historic house at 201-203 North Willard Street in Burlington, Vermont. Built about 1911, it is a well-preserved example of an American Foursquare duplex in the city's Old North End neighborhood. It was listed on the National Register of Historic Places in 2005.[1]

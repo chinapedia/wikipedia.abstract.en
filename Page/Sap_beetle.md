@@ -10,7 +10,7 @@ They are small (2–6 mm) ovoid, usually dull-coloured beetles, with knobbed an
 
 Classification
 
-Cornsap_Beetle_(7572942020).jpg'']] The family includes these genera:
+'']] The family includes these genera:
 
 -   Subfamily Calonecrinae Kirejtshuk, 1982
 -   Subfamily Maynipeplinae Kirejtshuk, 1998

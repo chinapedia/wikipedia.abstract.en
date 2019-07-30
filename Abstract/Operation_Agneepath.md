@@ -1,1 +1,0 @@
-_OPERATION AGNEEPATH_ is a Bangladeshi action thriller film directed by Ashiqur Rahman, produced under the banner of Vertex Production and Cinefekt Entertainment.[1] It stars Shakib Khan, Shiba Ali Khan, Sayelaluddin Mahalder And Misha Sawdagor in lead roles.[2] This film has been music composed by Dabbu Ghosal, Akassh and Imran Mahmudul.

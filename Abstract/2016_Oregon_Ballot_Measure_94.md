@@ -1,1 +1,0 @@
-OREGON BALLOT MEASURE 94 is a ballot measure in the 2016 election in the U.S. state of Oregon. The measure, if passed, would have eliminated the mandatory retirement age for state judges, currently set at 75.[1] The measure was rejected by Oregon voters, with 63 percent voting against the measure.[2]

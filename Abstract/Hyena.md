@@ -1,1 +1,0 @@
-Aardwolf_Skeleton.jpg)]]

@@ -1,1 +1,0 @@
-Jangaon_District_Revenue_divisions.png JANGOAN DISTRICT is a district in the Indian state of Telangana. It was a part of the Warangal district and Nalgonda district prior to the re-organisation of districts in the state.[1] .The district shares boundaries with Suryapet, Yadadri, Warangal (rural) district, Warangal urban, Siddipet and Mahabubabad districts.

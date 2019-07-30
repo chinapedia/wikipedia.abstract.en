@@ -1,1 +1,0 @@
-Sardinian_Dance.jpg

@@ -1,1 +1,0 @@
-AUTOMATED THEOREM PROVING (also known as ATP or AUTOMATED DEDUCTION) is a subfield of automated reasoning and mathematical logic dealing with proving mathematical theorems by computer programs. Automated reasoning over mathematical proof was a major impetus for the development of computer science.

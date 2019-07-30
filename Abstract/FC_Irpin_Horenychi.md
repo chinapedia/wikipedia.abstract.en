@@ -1,1 +1,0 @@
-FC IRPIN HORENYCHI is an amateur club from Horenychi and participated in the regional competitions of Kiev Oblast. The club became famous for fielding former Ukraine international footballers who were about to retire from professional sport.

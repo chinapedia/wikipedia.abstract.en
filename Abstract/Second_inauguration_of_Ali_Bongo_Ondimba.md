@@ -1,1 +1,0 @@
-The SECOND INAUGURATION OF ALI BONGO ONDIMBA for his second seven-year term as the third President of Gabon occurred on 27 September 2016 after the August 2016 presidential election.[1] This was the second time Ali Bongo took the oath after he was first sworn into office on 16 October 2016.

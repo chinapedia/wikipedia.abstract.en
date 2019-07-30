@@ -1,1 +1,0 @@
-_CRUEL ROMANCE_ () is a 2015 Chinese television series starring Huang Xiaoming and Joe Chen. It is based on the republican novel _The Fate of Jinxiu_ (锦绣缘) by Yu Yi. The series aired on Hunan TV from 3 March to 26 March 2015.

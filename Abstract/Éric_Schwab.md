@@ -1,1 +1,0 @@
-ÉRIC SCHWAB (1910–1977) was a French photographer, photojournalist and war correspondent. Starting in 1944 he worked for Agence France-Presse (AFP). In the 1950s and 1960s he was employed by several United Nations organizations such as WHO.

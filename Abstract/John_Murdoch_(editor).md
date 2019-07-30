@@ -1,1 +1,0 @@
-JOHN MURDOCH (Gaelic ;Iain MacMhuirich) (15 January 1818 – 29 January 1903) was a Scottish newspaper owner and editor and land reform campaigner who played a significant part in the campaign for crofters rights in the late 19th century[1][2] Murdoch.jpg

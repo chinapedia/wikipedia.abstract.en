@@ -1,1 +1,0 @@
-The ruins of BÄRNFELS CASTLE () are the remains of a late mediaeval aristocratic castle on the southern edge of the village of Bärnfels in the municipality of Obertrubach in the Upper Franconian county of Forchheim in Bavaria. The ruins of the spur castle are freely accessible.

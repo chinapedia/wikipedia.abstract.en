@@ -1,1 +1,0 @@
-SRINIDHI RAMESH SHETTY (born March 21, 1992) is an Indian model, actress and beauty pageant titleholder who was crowned as Miss Supranational India in Miss Diva 2016 pageant and later represented India at Miss Supernational 2016, which she won. She is the second Indian representative to win the title. She is also an actress in the Kannada cinema.

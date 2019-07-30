@@ -20,7 +20,7 @@ Sri Lanka's population is aging faster than any other nation in South Asia and h
 
 Ethnicity
 
-Sri_Lanka_-_Ethnicity_2012.png The Sinhalese make up 74.9% of the population (according to 2012 census) and are concentrated in the densely populated south-west and central parts of the island.[23] The Sri Lanka Tamils, who live predominantly in the north and east of the island, form the largest minority group at 11.1% (according to the 2012 census) of the population.[24]
+The Sinhalese make up 74.9% of the population (according to 2012 census) and are concentrated in the densely populated south-west and central parts of the island.[23] The Sri Lanka Tamils, who live predominantly in the north and east of the island, form the largest minority group at 11.1% (according to the 2012 census) of the population.[24]
 
 The Moors, descendants of Arab traders that settled in Sri Lanka and married local women, form the third largest ethnic group at 9.3% of the population.[25] They are mostly concentrated in urban areas in the southern parts of the island with substantial populations in the Central and Eastern provinces. During times of Portuguese colonization, Moors were persecuted, and many forced to retreat to the central highlands and the eastern coast.
 
@@ -34,8 +34,6 @@ Smaller minorities include the Malays who descend from Austronesian settlers, th
 
 
 Religion
-
-Sri_Lanka_-_Religion_2012.png
 
 According to the 2012 census Buddhists make up 70.1% of the population, Hindus 12.6%, Muslims 9.7% and Christians 7.6%.[33] Most Sinhalese are Buddhist; most Tamils are Hindu; and the Moors and Malays are mostly Muslim. Sizeable minorities of both Sinhalese and Tamils are Christians, most of whom are Roman Catholic. The Burgher population is mostly Roman Catholic or Presbyterian. The Veddahs have Animist and Buddhist practices. The 1978 constitution, while assuring freedom of religion, gives "the foremost place" to Buddhism.[34][35]
 
@@ -61,7 +59,7 @@ According to the 2012 census Buddhists make up 70.1% of the population, Hindus 1
 
 Languages
 
-A_road_sign_in_Colombo_-_Katunayake_Expressway,_Sri_Lanka.jpg Sinhala, an Indo-European language, is the first language of the Sinhalese. Tamil, a Dravidian language, is the first language of the Tamils. Tamil is also the first language the majority of Moors and the Indian Tamils - according to the 2012 census 98% of Moors could speak Tamil but only 59% could speak Sinhala.[39]
+Sinhala, an Indo-European language, is the first language of the Sinhalese. Tamil, a Dravidian language, is the first language of the Tamils. Tamil is also the first language the majority of Moors and the Indian Tamils - according to the 2012 census 98% of Moors could speak Tamil but only 59% could speak Sinhala.[39]
 
 Malays speak Sri Lanka Malay, a Creole language mixing Sinhala, Tamil and Malay. Many of the Burghers speak Sri Lankan Indo-Portuguese although its use has declined and the majority now speak Sinhala.[40] The Veddahs speak Vedda, a Creole language closely based on Sinhala. Use of English has declined since independence, but it continues to be spoken by many in the middle and upper middle classes, particularly in Colombo. According to the 2012 census 24% of the population could speak English.[41] The government is seeking to reverse the decline in the use of English, mainly for economic but also for political reasons. According to the constitution Sinhala and Tamil are official languages whilst English is the link language.[42]
 
@@ -195,7 +193,7 @@ Provisional estimates (01/07/2013) :
 
 CIA World Factbook demographic statistics
 
-Bevölkerungspyramide_Sri_Lanka_2016.png The following demographic statistics are from the CIA World Factbook, unless otherwise indicated:[48]
+The following demographic statistics are from the CIA World Factbook, unless otherwise indicated:[48]
 
 -   Population - 21,481,334 (July 2012 est.)
 -   Age structure - 0–14 years: 23.9% (male 2,594,815/female 2,493,002); 15–64 years: 68% (male 7,089,307/female 7,418,123); 65 years and over:8.1% (male 803,172/female 926,372) (2010 est.)

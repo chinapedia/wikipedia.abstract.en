@@ -1,1 +1,0 @@
-GDAŃSK ŚRÓDMIEŚCIE RAILWAY STATION is a railway station serving the city of Gdańsk, in the Pomeranian Voivodeship, Poland. The station opened on 1 April 2015 [1] and is located on the Gdańsk Śródmieście–Rumia railway. The train services are operated by SKM Tricity.

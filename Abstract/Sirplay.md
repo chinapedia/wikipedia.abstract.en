@@ -1,1 +1,0 @@
-SIRPLAY is a sportsbook and gaming software company based in Malta, with offices in Peru, Colombia,[1]Argentina[2] and Nigeria. It supplies bookmakers, lotteries and betting organisations in regulated markets.

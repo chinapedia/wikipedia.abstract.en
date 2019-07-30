@@ -1,1 +1,0 @@
-OKTOBER GUITARS INC. (formerly OCTOBER GUITARS) is an American manufacturer of guitars and other instruments, based in Baltimore, Maryland. The company was founded by Tony Leicht, who is also the head luthier.[1]

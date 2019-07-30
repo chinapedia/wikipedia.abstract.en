@@ -1,1 +1,0 @@
-_EUCALYPTUS DOLICHORHYNCHA_, commonly known as the FUCHSIA GUM,[1] is a species of mallet that is endemic to the south-west of Western Australia. It has smooth, pale grey over pale brown bark, lance-shaped to oblong adult leaves, pendulous, solitary, red flower buds in leaf axils, yellow flowers and winged fruit that is square in cross-section.Eucalyptus_dolichorhyncha_buds.jpg

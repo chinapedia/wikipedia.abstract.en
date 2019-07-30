@@ -1,1 +1,0 @@
-Zabivaka_(mascot).jpg ZABIVAKA (, "Goalscorer") was the official mascot of the 2018 FIFA World Cup, which was held in Russia. The name is a blend of the Russian words забияка ("hothead") and забивать ("to score").

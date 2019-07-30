@@ -1,1 +1,0 @@
-The 2016–17 NATIONAL CRICKET LEAGUE was the eighteenth edition of the National Cricket League, a first-class cricket competition that was held in Bangladesh. The tournament started on 25 September 2016 and concluded on 6 January 2017.[1] Khulna Division were the defending champions.[2]

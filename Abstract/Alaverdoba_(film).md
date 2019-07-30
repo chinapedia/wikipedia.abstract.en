@@ -1,1 +1,0 @@
-_ALAVERDOBA_ (, translit. _alaverdoba_, ) is a 1962 Georgian Art drama film directed by Giorgi Shengelaia. The film story set in around Alaverdi Monastery, Kakheti. Protagonist Guram goes there in order to see firsthand the ancient Georgian religious feast Alaverdoba.[1][2][3]

@@ -1,1 +1,0 @@
-_ALAN CARR'S HAPPY HOUR_ is a British comedy show, presented by comedian Alan Carr. The programme features celebrity guests, sketches, topical chat and music. The first series consisted of three episodes.[1] The first episode of the first series aired on Channel 4 on 2 December 2016 and the last on 16 December 2016.

@@ -1,1 +1,0 @@
-The BRITISH VIRGIN ISLANDS RECORDS IN SWIMMING are the fastest ever performances of swimmers from British Virgin Islands, which are recognised and ratified by the British Virgin Islands Swimming Association.

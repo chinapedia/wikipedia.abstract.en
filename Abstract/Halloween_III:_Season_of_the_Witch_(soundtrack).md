@@ -1,1 +1,0 @@
-_HALLOWEEN III: SEASON OF THE WITCH_ is a soundtrack by John Carpenter & Alan Howarth for the film of the same name. It was released in 1982 on vinyl through MCA Records and on CD through Varèse Sarabande. An expanded 25th Anniversary Edition was released in 2007 through Alan Howarth Incorporated.

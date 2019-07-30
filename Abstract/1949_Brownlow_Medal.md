@@ -1,1 +1,0 @@
-The 1949 BROWNLOW MEDAL was the 22nd year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Colin Austen of the Hawthorn Football Club and Ron Clegg of the South Melbourne Football Club both won the medal by polling twenty-three votes during the 1949 VFL season.[2]

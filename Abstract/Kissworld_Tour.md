@@ -1,1 +1,0 @@
-The KISSWORLD 2017–2018 TOUR was a concert tour by the American rock band Kiss.[1] The tour marked the return of the _Creatures of the Night_ costumes which had previously been seen on the sixth annual Kiss Kruise.

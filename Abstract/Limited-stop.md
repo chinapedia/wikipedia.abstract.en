@@ -1,1 +1,0 @@
-In public transit, particularly tram or train transportation, a LIMITED-STOP (or sometimes referred to as SEMI-FAST service) service is a service that stops less frequently than a local service. Many limited-stop or semi-fast services are a combination of commuter rail and express train.

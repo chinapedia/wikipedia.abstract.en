@@ -1,1 +1,0 @@
-JUAN IGNACIO ZOIDO ÁLVAREZ (born 21 January 1957) is a Spanish former judge and politician of the People's Party, who has been serving as Member of the European Parliament since 2019. In Parliament, he has since been serving on the Committee on Agriculture and Rural Development.

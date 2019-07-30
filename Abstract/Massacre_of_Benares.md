@@ -1,1 +1,0 @@
-Oudh_in_Northern_India_1857_map.jpg The MASSACRE OF BENARES is the name given to the minor and unsuccessful insurrection of Wazir Ali Khan, deposed Nawab of Awadh, at Benares in northern India in 1799, in which five British East India Company officials and civilians were murdered. Wazir Ali's uprising resulted in his imprisonment for the remainder of his life.[1]

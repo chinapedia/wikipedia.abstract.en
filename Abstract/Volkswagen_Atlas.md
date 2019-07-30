@@ -1,1 +1,0 @@
-The VOLKSWAGEN ATLAS is a mid size[1][2] sport utility vehicle (SUV) manufactured by the German automaker Volkswagen at its Chattanooga plant in Chattanooga, Tennessee, United States. The Atlas is the largest vehicle produced on the Volkswagen Group MQB platform, and features a transverse mounted inline-four or Volkswagen's narrow angle VR6.[3][4]

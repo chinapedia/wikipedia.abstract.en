@@ -1,1 +1,0 @@
-LEE YVONNE (born 1 March 1988, Selangor, Malaysia) is a Malaysian model. She is best known for her title as Miss World Malaysia 2012 / 2013 and represented her country in the Miss World 2012 in Ordos, Inner Mongolia, China PR.

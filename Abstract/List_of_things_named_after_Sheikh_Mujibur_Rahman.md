@@ -1,1 +1,0 @@
-This is a LIST OF THINGS NAMED AFTER BANGABANDHU SHEIKH MUJIBUR RAHMAN, founding leader of Bangladesh, the 1st and 4th President and 2nd Prime Minister of the country (1971–1975).[1] This list includes proposed name changes.

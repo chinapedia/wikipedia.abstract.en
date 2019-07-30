@@ -1,4 +1,4 @@
-Mountain.jpg, a symbol of Switzerland]]
+, a symbol of Switzerland]]
 
 The GEOGRAPHY OF SWITZERLAND encompasses the geographical features of Switzerland, a mountainous and landlocked country located in Western and Central Europe. It is surrounded by 5 countries: Austria and Liechtenstein to the east, France to the west, Italy to the south and Germany to the north. Switzerland has a maximum north–south length of and an east–west length of about .[1]
 
@@ -11,14 +11,14 @@ Switzerland is also divided by language. There are four national languages: Germ
 
 Physical description
 
-Switzerland_relief_location_map.jpg Switzerland extends between the parallels 45°49'05 and 47°48'30 lat. and the meridians 5° 57'23 and 10°29'31 long. It forms an irregular quadrilateral, of which the greatest length from east to west is , and the greatest breadth from north to south is nearly . Switzerland is a landlocked country, the closest coastline being at the Gulf of Genoa, 160 km south of Chiasso. Its political boundaries often do not coincide with those of nature. The entire canton of Ticino is south of the Alps, as are the valleys of Simplon (Valais), Mesocco, Bregaglia, Poschiavo and Müstair (all in Graubünden); the whole canton of Schaffhausen and part of that of Basel are north of the Rhine, while a large part of Graubünden lies to the east of the Rhine basin, and Porrentruy is far down on the western slope of the Jura. Putting these exceptional cases aside, the physical geography of Switzerland may thus be described:[6]
+Switzerland extends between the parallels 45°49'05 and 47°48'30 lat. and the meridians 5° 57'23 and 10°29'31 long. It forms an irregular quadrilateral, of which the greatest length from east to west is , and the greatest breadth from north to south is nearly . Switzerland is a landlocked country, the closest coastline being at the Gulf of Genoa, 160 km south of Chiasso. Its political boundaries often do not coincide with those of nature. The entire canton of Ticino is south of the Alps, as are the valleys of Simplon (Valais), Mesocco, Bregaglia, Poschiavo and Müstair (all in Graubünden); the whole canton of Schaffhausen and part of that of Basel are north of the Rhine, while a large part of Graubünden lies to the east of the Rhine basin, and Porrentruy is far down on the western slope of the Jura. Putting these exceptional cases aside, the physical geography of Switzerland may thus be described:[6]
 
 -   On the south runs the main chain of the Alps, which is joined (at Mont Dolent near Martigny) by the lower ranges that rise south of Lake Geneva, and which continues partly Swiss till close to Piz Lad on the east.
 -   To the north of this main chain there is another great range of mountains (wholly Swiss) only slightly inferior in extent and height, which starts from the hills known as the Jorat range above Lausanne, reaches maximum in the great snowy summits of the Bernese Alps and the Tödi group, before trending to the north near Chur and, after rising once more in the Säntis group, dies away on the southern shore of Lake Constance.
 -   The Swiss portion of the main chain of the Alps and the great northern outlier run parallel to each other from Martigny to near Chur, while for a short distance they actually unite near Pizzo Rotondo (west of the St Gotthard Pass), parting again near the Oberalp Pass (east of the St Gotthard). Between these two great snowclad ranges flow two of the mightiest European rivers, the Rhône towards the west and the Rhine towards the east, their headwaters being only separated by the tangled mountain mass between Pizzo Rotondo and the Oberalp Pass, which sends the Reuss towards the north and the Ticino towards the south.
 -   To the north of the great northern outlier rises the Jura range, a huge spur of the Alps (with which it is connected by the Jorat range), while between the northern outlier and the Jura extends what may be called the plains or plateau of Switzerland, consisting almost wholly of the undulating valley of the Aare (below Thun) with its numerous affluents. To that river valley, the valley of the Thur (a direct affluent of the Rhine), that lies between the Aare basin and the Rhine basin (Lake Constance) must be added.
 
-Hypsometric_curve_of_Switzerland.svg of Switzerland]]
+of Switzerland]]
 
 Putting aside the valleys of the Ticino and Inn, Switzerland may thus be described as consisting of three great river valleys (Rhône, Rhine and Aare) with the smaller one of the Thur, which all lie to the north of the main chain of the Alps and include the region between the Alps and the Jura. If matters are examined more carefully, it can be noted that the Rhône and Rhine valleys are shut off from that of the Aare (and of the Thur) by the great northern outlier of the Alps, which consists of the Bernese and Glarus Alps. Two wide and undulating valleys (Aare and Thur) and two deeply cut trenches (Rhône and Rhine) thus lie on the northern slope of the Alps, to the north and south respectively of the great northern outlier of the Alps. The main chain of the Alps rises in Swiss territory to the height of in the loftiest summit or Dufourspitze (wholly Swiss) of Monte Rosa, though the Dom (), in the Mischabel range, is the highest mountain mass which is entirely within Switzerland. The great northern outlier attains a height of in the Finsteraarhorn, while the lowest level () within the Confederation, is on Lake Maggiore (on the course of the Ticino). The highest permanently inhabited village in Switzerland is Juf () at the head of the Avers valley (a tributary of the Rhine), while the lowest is Ascona (), on Lake Maggiore.[7]
 
@@ -34,8 +34,6 @@ Switzerland is situated in a relatively tectonically inactive area, although the
 
 Physiographic divisions
 
-Trois_régions_suisses_1.png
-
 Switzerland is divided in three main geographic regions: the Swiss Alps, the Central Plateau and the Jura, each corresponding to very different geological realities. In addition, two small regions are not part of those three. The first, north of the Rhine in the Basel area, is situated beyond the Jura. The second, on the south in the Mendrisio area, is located in the Po Valley. But these two territories are not extensive in comparison to the total area of the country.
 
 The Swiss Alps occupy the southern part of Switzerland. They were formed by the thrust of the African plate, which also caused the formation of the Jura in the north-east and the plateau between the two massifs. In terms of area the Alps constitute about 60% of the country, the plateau 30% and the Jura 10%.
@@ -44,51 +42,51 @@ The rugged terrain of the Jura and the Alps are very sparsely populated, except 
 
 Central Plateau
 
-2011-04-17_Balonveturo_(Foto_Dietrich_Michael_Weidmann)_159.JPG]] The Swiss Plateau extends from Lake Geneva on the French border across central Switzerland to Lake Constance on the German and Austrian borders. In the north and northwest, the Swiss Plateau is sharply delimited geographically and geologically by the Jura Mountains. In the south, there is no clear border with the Alps. Usually, the rising of the terrain to altitudes above 1500 metres, which is very abrupt in certain places, is taken as a criterion for delimitation. The plateau has an average altitude of .[8] Even though the Swiss Plateau forms a basin, it is by no means a flat territory and it is covered with rolling hills, lakes and rivers. Most of Switzerland's large lakes are located in the plateau. Both Lake Geneva () and Lake Constance () are located in the plateau but are shared with other countries. The largest lake totally in Switzerland, Lake Neuchâtel (), is located in the Swiss Plateau.
+]] The Swiss Plateau extends from Lake Geneva on the French border across central Switzerland to Lake Constance on the German and Austrian borders. In the north and northwest, the Swiss Plateau is sharply delimited geographically and geologically by the Jura Mountains. In the south, there is no clear border with the Alps. Usually, the rising of the terrain to altitudes above 1500 metres, which is very abrupt in certain places, is taken as a criterion for delimitation. The plateau has an average altitude of .[8] Even though the Swiss Plateau forms a basin, it is by no means a flat territory and it is covered with rolling hills, lakes and rivers. Most of Switzerland's large lakes are located in the plateau. Both Lake Geneva () and Lake Constance () are located in the plateau but are shared with other countries. The largest lake totally in Switzerland, Lake Neuchâtel (), is located in the Swiss Plateau.
 
-Rhine_Falls2.jpg The Swiss Plateau is crossed by three great river valleys (Rhône, Rhine and Aare) and the smaller Thur valley. While the headwaters of these four rivers all lie in the Alps, they all cut across the plateau between the Alps and the Jura mountains. Near Schaffhausen the Rhine passes through the Rhine Falls, Europe's largest waterfall. The Rhine Falls are wide and .
+The Swiss Plateau is crossed by three great river valleys (Rhône, Rhine and Aare) and the smaller Thur valley. While the headwaters of these four rivers all lie in the Alps, they all cut across the plateau between the Alps and the Jura mountains. Near Schaffhausen the Rhine passes through the Rhine Falls, Europe's largest waterfall. The Rhine Falls are wide and .
 
 The plateau occupies about one third of the land area of Switzerland, and about two thirds of the population live in this area. The population density on the plateau averages about 450 people per km² (1,166 per square mile).[9] In the regions around Lake Geneva, Lake Zurich and other cities, the population density exceeds 1000 people per km².[10] As well as the majority of the population, the Swiss Plateau is also home to the majority of industry, manufacturing and farming in Switzerland. The farms are generally small and very organized. Most farms include small meadows alternating with fields with a variety of crops and small wooded areas.
 
 Alps
 
-Finsteraarhorn_and_surrounding_mounts.jpg, the great northern range constitutes an important climatic barrier]] The Swiss Alps form part of a chain of mountains that stretch across southern Europe and isolate Northern Europe from the Mediterranean Sea. Several important passes through the Alps are located in Switzerland, and control of the passes has been important throughout Switzerland's history. The Alps have an average altitude of [11] and cover nearly two thirds of the total surface area. Within the Alps there are 48 mountains that are or higher.
+, the great northern range constitutes an important climatic barrier]] The Swiss Alps form part of a chain of mountains that stretch across southern Europe and isolate Northern Europe from the Mediterranean Sea. Several important passes through the Alps are located in Switzerland, and control of the passes has been important throughout Switzerland's history. The Alps have an average altitude of [11] and cover nearly two thirds of the total surface area. Within the Alps there are 48 mountains that are or higher.
 
 The Alps are the watershed of Western Europe. The Rhine, together with its tributaries the Aare and the Thur drain about two thirds of the water into the North Sea. The Rhône and the Ticino drain about 18% of the water into the Mediterranean Sea. The Inn which flows into the Danube outside of Switzerland drains about 4.4% of the water into the Black Sea.[12] The Swiss Alps also contain many of Central Europe's glaciers. There are about 1,800 glaciers[13] which cover of the total glaciated area of the Alps. [14]
 
-Grindelwald.jpg in Grindelwald]] The Alps are a popular tourist destination and are one of the most recognizable symbols of Switzerland. The tallest point in Switzerland, Monte Rosa () in Canton Valais, is located in the Alps as is tallest mountain wholly in Switzerland, the Dom (). One of the most recognizable symbols of Switzerland, the Matterhorn, is also located in the Alps. The Matterhorn () is the seventh highest peak in the Swiss Alps and is the most photographed mountain in Switzerland. The tallest mountain in the northern outlier[15] or Bernese Alps is the Finsteraarhorn ().
+in Grindelwald]] The Alps are a popular tourist destination and are one of the most recognizable symbols of Switzerland. The tallest point in Switzerland, Monte Rosa () in Canton Valais, is located in the Alps as is tallest mountain wholly in Switzerland, the Dom (). One of the most recognizable symbols of Switzerland, the Matterhorn, is also located in the Alps. The Matterhorn () is the seventh highest peak in the Swiss Alps and is the most photographed mountain in Switzerland. The tallest mountain in the northern outlier[15] or Bernese Alps is the Finsteraarhorn ().
 
 Switzerland encompasses a significant portion of the south side of the Alps. Most of it is constituted by the canton of Ticino, almost reaching the plains of the Po and including Switzerland's lowest point on Lake Maggiore ().[16] The canton of Graubünden is also partially located on the south side of the Alps with the four valleys of Misox, Bregaglia, Poschiavo and Müstair. Finally, the canton of Valais comprises the upper Diveria valley, located south of the Simplon Pass.
 
 Jura
 
-Jura.jpg in Canton Neuchatel showing the limestone layers visible in the Jura Mountains]] The Jura is a limestone mountain range running from Lake Geneva to the Rhine river. This area makes up about 12% of Switzerland's land area. Located about above sea level, this region is characterized by a limestone highland with deep river valleys.
+in Canton Neuchatel showing the limestone layers visible in the Jura Mountains]] The Jura is a limestone mountain range running from Lake Geneva to the Rhine river. This area makes up about 12% of Switzerland's land area. Located about above sea level, this region is characterized by a limestone highland with deep river valleys.
 
 The limestone rock in the Jura is a Jurassic period rock with numerous fossils and dinosaur tracks. The name Jurassic actually refers to the Jura region where these fossils were studied at the end of the 18th century.[17] The Jura is considered one of the most important sites for dinosaur footprints in the world. In one area near the village of Courtedoux, over 13,000 footprints were discovered in between 2002 and 2011.[18]
 
 The range is being continually built up and decreasing in width by mountain building, accommodating the compression from alpine folding as the main Alpine orogenic front moves roughly northwards. The deformation becomes less pervasive away from the younger, more active Alpine mountain building.
 
-Lac_des_Brenets_2008.jpg, marking the border with France]] Structurally, the Jura consists of a sequence of folds, the formation of which is facilitated by an evaporitic decollement layer. The box folds are still relatively young, evidenced by their defining the shape of the overlying landscape (meaning they have not existed long enough to experience erosion). The folds comprise three major (lithological units) bands of building evidence dated roughly by era: the Malm, Dogger, and Lias ( part of the Jurassic Geologic period). Each era of folding represents effects on a previously shallow marine environment as evidenced by beds with particular carbonate sequences, containing abundant bioclasts and oolitic divisions between layers (called horizons).
+, marking the border with France]] Structurally, the Jura consists of a sequence of folds, the formation of which is facilitated by an evaporitic decollement layer. The box folds are still relatively young, evidenced by their defining the shape of the overlying landscape (meaning they have not existed long enough to experience erosion). The folds comprise three major (lithological units) bands of building evidence dated roughly by era: the Malm, Dogger, and Lias ( part of the Jurassic Geologic period). Each era of folding represents effects on a previously shallow marine environment as evidenced by beds with particular carbonate sequences, containing abundant bioclasts and oolitic divisions between layers (called horizons).
 
 The Jura Mountains rise in Swiss territory to a height of at Mont Tendre. Other high summits are La Dôle (), the Chasseron () and the Chasseral (), all located in the western part of the range, in the cantons of Vaud, Neuchâtel and Bern.
 
 
 Hydrology
 
-Aletschgebiet_aus_dem_Flugzeug.jpg, take their source from the Alpine glaciers]] Switzerland has 6% of all freshwater reserves in Europe. The country shares five river basins and some of the largest lakes in western Europe with its neighbours. It is the source of several major European rivers that ultimately flow into the North Sea (Rhine), into the Mediterranean Sea (Rhône), into the Black Sea (Inn, through the Danube) and into the Adriatic Sea (Ticino, through the Po and Rom through the Adige).
+, take their source from the Alpine glaciers]] Switzerland has 6% of all freshwater reserves in Europe. The country shares five river basins and some of the largest lakes in western Europe with its neighbours. It is the source of several major European rivers that ultimately flow into the North Sea (Rhine), into the Mediterranean Sea (Rhône), into the Black Sea (Inn, through the Danube) and into the Adriatic Sea (Ticino, through the Po and Rom through the Adige).
 
 Most of the great Swiss rivers, being in their origin mere mountain torrents, tend to overflow their banks. Much has been done to prevent this by embanking them, regaining arable land: the Rhine (between Bad Ragaz and Lake Constance), the Rhône, the Aare, the Reuss and in particular the great works on the Linth (carried out 1807–1810 by Hans Conrad Escher, earning him the surname of "Von der Linth") and the Zihl near the lakes of Neuchâtel and Biel, while the diversion of the Kander from its junction with the Aare to a channel by which it flows into Lake Thun was effected as early as 1714.
 
-Klöntal.jpg, one of the numerous Alpine lakes of Switzerland]] Switzerland has considerable reserves of groundwater and a large number of lakes, large and small, can be found in most areas. The two most extensive, those of Geneva and of Constance, balance each other, as it were, at the south-west and north-east corners of the land. But neither of these is wholly Swiss, this distinction being claimed by the next in size, that of Neuchâtel, Lake Maggiore (partly Swiss only) coming next in the list, and being followed by the wholly Swiss lakes of Lucerne and of Zurich. Then come Lake Lugano, Lake Thun, Lake Biel, Lake Zug, Lake Brienz, Lake Walenstadt and Lake Murten. These thirteen only are over in extent. Ten of them are in the Rhine basin (also in that of the Aare), two (Maggiore and Lugano) in that of the Po, and one (Geneva) in that of the Rhône. There are no large lakes in the Swiss portion of the Inn basin, the most extensive being that of Sils. Smaller Alpine lakes such as the Oeschinensee are innumerable, and often constitute popular tourist destination. Since the twentieth century a large number of dams have been built in the Alps and elsewhere, resulting in many artificial lakes. The largest are the Sihlsee and the Lake of Gruyère both approximately in extent. Also notable is Lac des Dix, withheld by the Grande Dixence, the tallest gravity dam in the world.
+, one of the numerous Alpine lakes of Switzerland]] Switzerland has considerable reserves of groundwater and a large number of lakes, large and small, can be found in most areas. The two most extensive, those of Geneva and of Constance, balance each other, as it were, at the south-west and north-east corners of the land. But neither of these is wholly Swiss, this distinction being claimed by the next in size, that of Neuchâtel, Lake Maggiore (partly Swiss only) coming next in the list, and being followed by the wholly Swiss lakes of Lucerne and of Zurich. Then come Lake Lugano, Lake Thun, Lake Biel, Lake Zug, Lake Brienz, Lake Walenstadt and Lake Murten. These thirteen only are over in extent. Ten of them are in the Rhine basin (also in that of the Aare), two (Maggiore and Lugano) in that of the Po, and one (Geneva) in that of the Rhône. There are no large lakes in the Swiss portion of the Inn basin, the most extensive being that of Sils. Smaller Alpine lakes such as the Oeschinensee are innumerable, and often constitute popular tourist destination. Since the twentieth century a large number of dams have been built in the Alps and elsewhere, resulting in many artificial lakes. The largest are the Sihlsee and the Lake of Gruyère both approximately in extent. Also notable is Lac des Dix, withheld by the Grande Dixence, the tallest gravity dam in the world.
 
 In total, lakes and reservoirs contain 50% of the stored water, glaciers 28%, groundwater 20% and rivers 2%.[19]
 
-Chexbres_-_1_-_2048x712.jpg from the vineyards between Montreux and Lausanne]]
+from the vineyards between Montreux and Lausanne]]
 
 
 Climate
 
-Koppen-Geiger_Map_CHE_present.svg types of Switzerland]] In Switzerland, where the elevation above sea-level ranges from , many climates are naturally found, from the regions of olives, vines, oaks and beeches, pines and firs, to those of the high mountain pastures, rhododendrons, and of eternal snow.
+types of Switzerland]] In Switzerland, where the elevation above sea-level ranges from , many climates are naturally found, from the regions of olives, vines, oaks and beeches, pines and firs, to those of the high mountain pastures, rhododendrons, and of eternal snow.
 
 In most inhabited regions of Switzerland, at lower altitudes, the weather is generally moderate. On the plateau, freezing temperatures generally occur during December-early March[20] with an average temperature of for elevations between . On the Plateau the average precipitation is with a range of about .[21] The higher elevations of the Jura and the Alps naturally cause lower temperatures and in the high Alps glaciers exist. The Jura and foothills (both north and south of the Alps) typically have more precipitation, with an average of , while the high Alps may have over .[22] Ticino, on the south side of the Alps, has sub-tropical vegetation, is usually warmer, and os wetter than the Swiss Plateau.
 
@@ -108,9 +106,8 @@ Political divisions and greater regions
 
 As a federal state, Switzerland is composed of 26 cantons, which are further divided into districts and municipalities. Each canton was a fully sovereign state[23] with its own borders, army and currency from the Treaty of Westphalia (1648) until the establishment of the Swiss federal state in 1848. There are considerable differences between the individual cantons, most particularly in terms of population and geographical area; hence seven larger and more homogeneous regions have been defined. They do not, however, constitute administrative units and are mostly used for statistical and economic purposes.[24]
 
-  ------------------------------------------
-  Karte_Grossregionen_der_Schweiz_2011.png
-  ------------------------------------------
+  --
+  --
 
 +------------------+-----------------------+------------------------+------------+
 | Regions          | Cantons of            | Regions                | Cantons of |
@@ -148,44 +145,44 @@ As a federal state, Switzerland is composed of 26 cantons, which are further div
 
 Land use
 
-+------------------------------------------+
-| Re_482_mit_Containerzug_bei_Oberrüti.jpg |
-+------------------------------------------+
-| LAND USE                                 |
-| Source: FSO (1992–1997)[25]              |
-+------------------------------------------+
-| Main areas                               |
-+------------------------------------------+
-| SURFACES OF HOUSING AND INFRASTRUCTURE   |
-+------------------------------------------+
-| Industrial areas                         |
-+------------------------------------------+
-| Special infrastructure areas             |
-+------------------------------------------+
-| Green spaces and recreation areas        |
-+------------------------------------------+
-| Transportation areas                     |
-+------------------------------------------+
-| AGRICULTURAL LAND                        |
-+------------------------------------------+
-| Arable land, local pastures              |
-+------------------------------------------+
-| Alpine pastures                          |
-+------------------------------------------+
-| FORESTS                                  |
-+------------------------------------------+
-| Scrub forests                            |
-+------------------------------------------+
-| Other woodlands                          |
-+------------------------------------------+
-| UNPRODUCTIVE AREAS                       |
-+------------------------------------------+
-| Rivers                                   |
-+------------------------------------------+
-| Unproductive vegetation                  |
-+------------------------------------------+
-| Unvegetated surfaces                     |
-+------------------------------------------+
++----------------------------------------+
+|                                        |
++----------------------------------------+
+| LAND USE                               |
+| Source: FSO (1992–1997)[25]            |
++----------------------------------------+
+| Main areas                             |
++----------------------------------------+
+| SURFACES OF HOUSING AND INFRASTRUCTURE |
++----------------------------------------+
+| Industrial areas                       |
++----------------------------------------+
+| Special infrastructure areas           |
++----------------------------------------+
+| Green spaces and recreation areas      |
++----------------------------------------+
+| Transportation areas                   |
++----------------------------------------+
+| AGRICULTURAL LAND                      |
++----------------------------------------+
+| Arable land, local pastures            |
++----------------------------------------+
+| Alpine pastures                        |
++----------------------------------------+
+| FORESTS                                |
++----------------------------------------+
+| Scrub forests                          |
++----------------------------------------+
+| Other woodlands                        |
++----------------------------------------+
+| UNPRODUCTIVE AREAS                     |
++----------------------------------------+
+| Rivers                                 |
++----------------------------------------+
+| Unproductive vegetation                |
++----------------------------------------+
+| Unvegetated surfaces                   |
++----------------------------------------+
 
 The Swiss territory is divided into four major types of land use. , 36.9%[26] of the land in Switzerland was used for farming. 30.8% of the country is covered with forests and woodlands,[27] with an additional 6.8% covered with houses or buildings.[28] About one-fourth (25.5%) of the country is either mountains, lakes or rivers and is categorised as unproductive.[29]
 
@@ -218,12 +215,12 @@ In the plains, lakes and streams near areas of habitat are used for recreation a
 
 Population
 
-CH-population-density-2007.png The population of Switzerland is heavily urbanised. In 2009, 74% of the 7,785,800 inhabitants lived in urban areas. The distribution of population is shaped by the topography of the country, the plateau being the most populous area and including the major cities of Switzerland. With a population density of 450 inhabitants per km², it is one of the most densely populated region in Europe. There are large disparities of population densities between the cantons lying in the plateau and those lying in the Alps. Thus, the population densities of the cantons of Lucerne, Solothurn and Zurich are respectively 261.0, 319.7 and 813.6 inhabitants per km². On the other hand, the cantons of Uri and Graubünden have very low population densities, respectively 33.4 and 27.0 inhabitants per km². In the southern Alps, the canton of Ticino also has a population density less than the national average, with 122.5 inhabitants per km² (against 194.7).[32]
+The population of Switzerland is heavily urbanised. In 2009, 74% of the 7,785,800 inhabitants lived in urban areas. The distribution of population is shaped by the topography of the country, the plateau being the most populous area and including the major cities of Switzerland. With a population density of 450 inhabitants per km², it is one of the most densely populated region in Europe. There are large disparities of population densities between the cantons lying in the plateau and those lying in the Alps. Thus, the population densities of the cantons of Lucerne, Solothurn and Zurich are respectively 261.0, 319.7 and 813.6 inhabitants per km². On the other hand, the cantons of Uri and Graubünden have very low population densities, respectively 33.4 and 27.0 inhabitants per km². In the southern Alps, the canton of Ticino also has a population density less than the national average, with 122.5 inhabitants per km² (against 194.7).[32]
 
 
 Environment
 
-Gletscherschmelze.jpg of Aletsch Glacier (situation in 1979, 1991 and 2002), due to global warming.]] With the delicate alpine and glacial environments making up a significant portion of the country and providing a major industry, Switzerland has been concerned with environmental issues. Some of the main issues are listed below.
+of Aletsch Glacier (situation in 1979, 1991 and 2002), due to global warming.]] With the delicate alpine and glacial environments making up a significant portion of the country and providing a major industry, Switzerland has been concerned with environmental issues. Some of the main issues are listed below.
 
 Air
 
@@ -239,7 +236,7 @@ The total renewable water resources of Switzerland, , totals ,[41] of which the 
 
 Biodiversity
 
-Alpine_Ibex.jpg]] Switzerland is facing a loss of biodiversity.[43] While the country is quite small, the wide range of climates allow a variety of organisms to flourish. There are about 50,000 animal and plant species living in Switzerland.[44] While most species that live on north and south foothills of the Alps are generally doing well, the Swiss Plateau is seeing a decrease in many species. The pressure from city and agricultural growth is reducing or eliminating the habitat of many species that once flourished along the plateau. There are about 60 species that are considered endangered that live in Switzerland.[45] To help offset this, 28.6% of the country is set aside as a protected natural area.[46] In 2001, the Federal Office for the Environment FOEN launched a nationwide programme to systematically monitor biodiversity (Biodiversity Monitoring Switzerland) [47].
+]] Switzerland is facing a loss of biodiversity.[43] While the country is quite small, the wide range of climates allow a variety of organisms to flourish. There are about 50,000 animal and plant species living in Switzerland.[44] While most species that live on north and south foothills of the Alps are generally doing well, the Swiss Plateau is seeing a decrease in many species. The pressure from city and agricultural growth is reducing or eliminating the habitat of many species that once flourished along the plateau. There are about 60 species that are considered endangered that live in Switzerland.[45] To help offset this, 28.6% of the country is set aside as a protected natural area.[46] In 2001, the Federal Office for the Environment FOEN launched a nationwide programme to systematically monitor biodiversity (Biodiversity Monitoring Switzerland) [47].
 
 International agreements
 
@@ -325,7 +322,7 @@ No subdivision of Europe is universally accepted, therefore naming the different
 
 The term "Western Europe" commonly indicates the region west of the Baltic and Adriatic Sea. Countries described as Western European (including Switzerland, according to the United Nations Statistics Division and the National Geographic Society[54]) are invariably high-income developed countries, characterized by stable democratic political systems, mixed economies combining the free market with aspects of the welfare state. On the other hand, the term "Central Europe" refers to the region between Western and Eastern Europe. Central European countries (including Switzerland in the westernmost part, according to the World Factbook[55] and various encyclopedias such as Britannica and Columbia) show high disparities with regard to income but possibly share similar cultural characteristics. The concept came back into use by the end of the Cold War, which had divided Europe politically into the Western World and the East Bloc, splitting Central Europe in half. Before World War I, the German-speaking world used the somewhat-related term _Mitteleuropa_ (from German: _Middle Europe_) for an area larger than most conceptions of Central Europe, notably encompassing Switzerland among the other German-speaking countries.
 
-Extreme_points_of_Europe.png Physically, Switzerland is situated approximately in the middle of the portion of Europe west of the Carpathian Mountains. Defining the Ural Mountains as the eastern limit of the continent, Switzerland is located within the western third of Europe, approximately 15 degrees of longitude away from the extreme west and 50 degrees away from extreme east.[56] Phytogeographically, the part of Switzerland that lies north of the Alps belongs to Central Europe, while the part south of the Alps belongs to Southern Europe.[57]
+Physically, Switzerland is situated approximately in the middle of the portion of Europe west of the Carpathian Mountains. Defining the Ural Mountains as the eastern limit of the continent, Switzerland is located within the western third of Europe, approximately 15 degrees of longitude away from the extreme west and 50 degrees away from extreme east.[56] Phytogeographically, the part of Switzerland that lies north of the Alps belongs to Central Europe, while the part south of the Alps belongs to Southern Europe.[57]
 
 
 Natural World Heritage Sites

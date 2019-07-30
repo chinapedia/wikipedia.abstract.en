@@ -1,1 +1,0 @@
-The 2016 SEASON OF KABUSCORP SPORT CLUBE DO PALANCA is the club's 14th season in Angolan football and the 9th consecutive season in the Girabola, the top flight league of Angolan football. In 2016, the club participated in the Girabola and the Angola Cup.

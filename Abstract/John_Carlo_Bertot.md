@@ -1,1 +1,0 @@
-JOHN CARLO BERTOT is a professor and co-director of the Information Policy & Access Center at the College of Information Studies at the University of Maryland, where he is also Associate Provost for Faculty Affairs.

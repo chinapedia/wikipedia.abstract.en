@@ -1,1 +1,0 @@
-Pangea_animation_03.gif Antonio_Snider-Pellegrini_Opening_of_the_Atlantic.jpg

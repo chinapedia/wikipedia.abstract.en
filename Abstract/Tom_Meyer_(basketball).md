@@ -1,1 +1,0 @@
-HENRY THOMAS "TOM" MEYER (November 6, 1922 – March 12, 2019) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Gems during the 1946–47 season and averaged 7.8 points per game.[3]

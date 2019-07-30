@@ -1,1 +1,0 @@
-MAGBENI is a village in the Port Loko District of Sierra Leone, and is a part of the Koya chiefdom within the district. The village was part of Operation Barras, a rescue mission involving the British Army and the West Side Boys militia group who occupied the village.[1]

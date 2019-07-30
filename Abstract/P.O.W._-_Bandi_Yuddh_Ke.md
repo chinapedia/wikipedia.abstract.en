@@ -1,1 +1,0 @@
-_P.O.W. - BANDI YUDDH KE_ is an Indian political thriller television finite series developed by Nikkhil Advani,[1] and is loosely based on the Israeli drama _Hatufim_.[2] The series premiered 7 November 2016 on Star Plus.[3] The show was featured at MAMI film fest followed by a talk with Gideon Raff, who developed _Hatufim_ and served as a consultant for this series.[4][5][6][7]

@@ -1,1 +1,0 @@
-_ARROWHEAD_ (also released as _ALIEN ARRIVAL_) is a 2016 Australian science fiction film by Jesse O'Brien. It stars Dan Mor as Kye Cortland, an escaped political prisoner who is recruited by a rebellion to rescue his father from a totalitarian government. During his mission, he crash lands on a desert moon, which he learns has strategic value to both sides of the conflict.

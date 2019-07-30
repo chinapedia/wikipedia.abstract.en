@@ -1,1 +1,0 @@
-'''Joseph Cramarossa ''' (born October 26, 1992) is a Canadian professional ice hockey forward for the Wilkes-Barre/Scranton Penguins of the American Hockey League (AHL) while under contract to the Pittsburgh Penguins of the National Hockey League (NHL).

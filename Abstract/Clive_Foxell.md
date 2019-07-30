@@ -1,1 +1,0 @@
-CLIVE ARTHUR PEIRSON FOXELL CBE (27 February 1930 – 30 July 2016) was an English physicist who pioneered the use of fibre-optic technology and was an author on the history of the Metropolitan Railway about which he produced a number of books.

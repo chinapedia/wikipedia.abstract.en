@@ -1,1 +1,0 @@
-_EUCALYPTUS COSMOPHYLLA_, commonly known as CUP GUM[1], BOG GUM or SCRUB GUM,[2] is a species of small tree or mallee that is endemic in South Australia. It usually has smooth bark and lance-shaped adult leaves, flower buds arranged in groups of three, white flowers and cup-shaped, cylindrical or hemispherical fruit.

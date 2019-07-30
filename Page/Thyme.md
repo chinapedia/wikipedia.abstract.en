@@ -3,7 +3,7 @@ THYME () is any member of the genus _Thymus_ of aromatic perennial evergreen her
 
 History
 
-Flowering_thyme.JPG Ancient Egyptians used thyme for embalming.[1] The ancient Greeks used it in their baths and burnt it as incense in their temples, believing it was a source of courage. The spread of thyme throughout Europe was thought to be due to the Romans, as they used it to purify their rooms and to "give an aromatic flavour to cheese and liqueurs".[2] In the European Middle Ages, the herb was placed beneath pillows to aid sleep and ward off nightmares.[3] In this period, women also often gave knights and warriors gifts that included thyme leaves, as it was believed to bring courage to the bearer. Thyme was also used as incense and placed on coffins during funerals, as it was supposed to assure passage into the next life.[4]
+Ancient Egyptians used thyme for embalming.[1] The ancient Greeks used it in their baths and burnt it as incense in their temples, believing it was a source of courage. The spread of thyme throughout Europe was thought to be due to the Romans, as they used it to purify their rooms and to "give an aromatic flavour to cheese and liqueurs".[2] In the European Middle Ages, the herb was placed beneath pillows to aid sleep and ward off nightmares.[3] In this period, women also often gave knights and warriors gifts that included thyme leaves, as it was believed to bring courage to the bearer. Thyme was also used as incense and placed on coffins during funerals, as it was supposed to assure passage into the next life.[4]
 
 The name of the genus of fish _Thymallus_, first given to the grayling (_T. thymallus_, described in the 1758 edition of _Systema Naturae_ by Swedish zoologist Carl Linnaeus), originates from the faint smell of thyme that emanates from the flesh.[5]
 
@@ -15,7 +15,7 @@ Thyme is best cultivated in a hot, sunny location with well-drained soil. It is 
 
 Culinary use
 
-Seombaengnihyang-cha.jpg tea)]] In some Levantine countries, and Assyria, the condiment _za'atar_ (Arabic for both thyme and marjoram) contains many of the essential oils found in thyme. It is a common component of the _bouquet garni_, and of _herbes de Provence_.
+tea)]] In some Levantine countries, and Assyria, the condiment _za'atar_ (Arabic for both thyme and marjoram) contains many of the essential oils found in thyme. It is a common component of the _bouquet garni_, and of _herbes de Provence_.
 
 Thyme is sold both fresh and dried. While summer-seasonal, fresh greenhouse thyme is often available year-round. The fresh form is more flavourful, but also less convenient; storage life is rarely more than a week. However, the fresh form can last many months if carefully frozen.[7]
 
@@ -30,14 +30,10 @@ Thyme retains its flavour on drying better than many other herbs.
 
 Antimicrobial properties
 
-ThymeEssentialOil.png
-
 Oil of thyme, the essential oil of common thyme (_Thymus vulgaris_), contains 20–54% thymol.[8] Thyme essential oil also contains a range of additional compounds, such as _p_-cymene, myrcene, borneol, and linalool.[9] Thymol, an antiseptic, is an active ingredient in various commercially produced mouthwashes such as Listerine.[10] Before the advent of modern antibiotics, oil of thyme was used to medicate bandages.[11]
 
 
 Important species and cultivars
-
-Variegated_Lemon_Thyme_Thymus_citriodorus_variegata_Leaves_3264px.JPG
 
 -   _Thymus citriodorus_ – various lemon thymes, orange thymes, lime thyme
 -   _Thymus herba-barona_ (caraway thyme) is used both as a culinary herb and a ground cover, and has a very strong caraway scent due to the chemical carvone.

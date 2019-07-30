@@ -1,1 +1,0 @@
-1_to_use_Kornfeld-Logo_(nur_Haus).tif GALERIE KORNFELD is a privately owned Swiss auction house in Berne and one of the leading auction houses in Switzerland in the fields of Modern Art (paintings, drawings, prints and sculptures) as well as Old Master prints and drawings.

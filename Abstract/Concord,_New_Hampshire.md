@@ -1,1 +1,0 @@
-CONCORD () is the capital city of the U.S. state of New Hampshire and the county seat of Merrimack County. As of the 2010 census, its population was 42,695,[1] and in 2018 the population was an estimated 43,412.[2]

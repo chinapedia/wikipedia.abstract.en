@@ -1,1 +1,0 @@
-Backlit_keyboard.jpg

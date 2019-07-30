@@ -1,1 +1,0 @@
-_LA WALLY_ is a 1932 Italian musical drama film directed by Guido Brignone and starring Germana Paolieri, Isa Pola and Carlo Ninchi.[1] It is an adaptation of the 1892 opera _La Wally_ by Alfredo Catalani.

@@ -1,1 +1,0 @@
-MUSETTE FRANCES JACQUELINE NATALIE MAJENDIE CBE (1903–1981)[1] was the owner of Hedingham Castle.[2] In 1713 the castle was purchased by Sir William Ashhurst, after his death in 1720, the estate passed to his great granddaughter, the wife of Lewis Majendie. The Majendie family owned Hedingham Castle for 250 years until Miss Majendie left it to her cousin Thomas Lindsay.[3]

@@ -1,1 +1,0 @@
-The "KHARKIV" POLICE BATTALION was formed in autumn 2015 from the special police unit battalion's "Kharkiv-1",[1] "Kharkiv-2" and "Slobozhanshchyna".[2] They have been involved in maintaining public order and guarding strategically important facilities in Mariupol.[3]

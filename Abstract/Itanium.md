@@ -1,1 +1,0 @@
-ITANIUM ( ) is a family of 64-bit Intel microprocessors that implement the Intel Itanium architecture (formerly called IA-64). Intel markets the processors for enterprise servers and high-performance computing systems. The Itanium architecture originated at Hewlett-Packard (HP), and was later jointly developed by HP and Intel.

@@ -1,1 +1,0 @@
-ROMANO MUSSOLINI (26 September 1927 – 3 February 2006) was an Italian jazz pianist, painter and film producer.[1] He was the fourth and youngest son of Benito Mussolini, fascist dictator of Italy from 1922 to 1943.

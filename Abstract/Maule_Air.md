@@ -1,1 +1,0 @@
-MAULE AIR, INC. is a manufacturer of light, single-engined, short take-off and landing (STOL) aircraft, based in Moultrie, Georgia, USA. The company delivered 2,500 aircraft in its first 50 years of business.

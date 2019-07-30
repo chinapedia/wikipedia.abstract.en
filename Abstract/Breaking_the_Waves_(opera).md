@@ -1,1 +1,0 @@
-_BREAKING THE WAVES_ is an opera in three acts by Missy Mazzoli with a libretto by Royce Vavrek. It is based on the 1996 film of the same name by Danish auteur Lars von Trier.[1] The opera was first performed on September 22, 2016, by Opera Philadelphia.

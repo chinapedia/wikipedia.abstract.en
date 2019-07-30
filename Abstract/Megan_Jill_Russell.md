@@ -1,1 +1,0 @@
-MEGAN JILL RUSSELL is a Biomedical and Electrical engineer based in Johannesburg, South Africa. She is popularly known for inventing an artificial larynx which was featured by MIT Technology Review, but perhaps more importantly, she is involved in the development of methods of Computer-assisted detection of Tuberculosis.

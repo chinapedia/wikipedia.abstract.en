@@ -1,1 +1,0 @@
-Parfet-Preserve.png Parfet-Triceratops-Track.png The PARFET PREHISTORIC PRESERVE is a dinosaur track site in Golden, Colorado. The site is accessible to the public via the TRICERATOPS TRAIL, a 1.5-mile walking trail maintained by the Friends of Dinosaur Ridge.[1]

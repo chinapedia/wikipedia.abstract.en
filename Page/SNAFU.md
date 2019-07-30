@@ -1,4 +1,4 @@
-Snafu}} Private_SNAFU.JPG'' was a series of instructional cartoons devised by Frank Capra and produced by Warner Brothers animators such as Chuck Jones for the US Army during WW2.]]
+Snafu}} '' was a series of instructional cartoons devised by Frank Capra and produced by Warner Brothers animators such as Chuck Jones for the US Army during WW2.]]
 
 SNAFU is an acronym that is widely used to stand for the sarcastic expression SITUATION NORMAL: ALL FUCKED UP. It is a well-known example of military acronym slang; however the original military acronym stood for "Status Nominal: All Fucked Up." It is sometimes bowdlerized to "all fouled up" or similar.[1] It means that the situation is bad, but that this is a normal state of affairs. The acronym is believed to have originated in the United States Marine Corps during World War II.
 

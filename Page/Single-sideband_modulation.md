@@ -1,5 +1,3 @@
-SSB_bandform.svg
-
 In radio communications, SINGLE-SIDEBAND MODULATION (SSB) or SINGLE-SIDEBAND SUPPRESSED-CARRIER MODULATION (SSB-SC) is a type of modulation, used to transmit information, such as an audio signal, by radio waves. A refinement of amplitude modulation, it uses transmitter power and bandwidth more efficiently. Amplitude modulation produces an output signal the bandwidth of which is twice the maximum frequency of the original baseband signal. Single-sideband modulation avoids this bandwidth increase, and the power wasted on a carrier, at the cost of increased device complexity and more difficult tuning at the receiver.
 
 
@@ -22,8 +20,6 @@ Amateur radio operators began serious experimentation with SSB after World War I
 
 
 Mathematical formulation
-
-Single-sideband_derivation.png
 
 Single-sideband has the mathematical form of quadrature amplitude modulation (QAM) in the special case where one of the baseband waveforms is derived from the other, instead of being independent messages:
 
@@ -74,7 +70,7 @@ which is the classic model of suppressed-carrier double sideband AM.
 
 Practical implementations
 
-Collins_KWM-1.jpg, an early Amateur Radio transceiver that featured SSB voice capability]]
+, an early Amateur Radio transceiver that featured SSB voice capability]]
 
 Bandpass filtering
 
@@ -133,7 +129,7 @@ Today, such simple inversion-based speech encryption techniques are easily decry
 
 Vestigial sideband (VSB)
 
-VSB_bandform.svg Limitation of single-sideband modulation being used for voice signals and not available for video/TV signals leads to the usage of VESTIGIAL SIDEBAND. A VESTIGIAL SIDEBAND (in radio communication) is a sideband that has been only partly cut off or suppressed. Television broadcasts (in analog video formats) use this method if the video is transmitted in AM, due to the large bandwidth used. It may also be used in digital transmission, such as the ATSC standardized 8VSB.
+Limitation of single-sideband modulation being used for voice signals and not available for video/TV signals leads to the usage of VESTIGIAL SIDEBAND. A VESTIGIAL SIDEBAND (in radio communication) is a sideband that has been only partly cut off or suppressed. Television broadcasts (in analog video formats) use this method if the video is transmitted in AM, due to the large bandwidth used. It may also be used in digital transmission, such as the ATSC standardized 8VSB.
 
 The broadcast or transport channel for TV in countries that use NTSC or ATSC has a bandwidth of 6 MHz. To conserve bandwidth, SSB would be desirable, but the video signal has significant low-frequency content (average brightness) and has rectangular synchronising pulses. The engineering compromise is vestigial-sideband transmission. In vestigial sideband, the full upper sideband of bandwidth W2 = 4.75 MHz is transmitted, but only W1 = 1.25 MHz of the lower sideband is transmitted, along with a carrier. This effectively makes the system AM at low modulation frequencies and SSB at high modulation frequencies. The absence of the lower sideband components at high frequencies must be compensated for, and this is done in the IF amplifier.
 

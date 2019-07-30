@@ -1,1 +1,0 @@
-Sardinia is the second-largest island in the Mediterranean Sea, with a population of about 1.6 million people. The list includes notable natives of Sardinia, as well as those who were born elsewhere but spent a large part of their active life in Sardinia. People of Sardinian heritage and descent are in a separate section of this article.

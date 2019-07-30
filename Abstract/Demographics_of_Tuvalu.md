@@ -1,1 +1,0 @@
-Dancer,_Tuvalu_stage,_2011_Pasifika_festival.jpg]] This article is about the demographic features of the population of Tuvalu, including the age structure, ethnicity, education level, life expectancy, religious affiliations and other aspects of the population.

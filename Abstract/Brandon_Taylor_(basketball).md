@@ -1,1 +1,0 @@
-BRANDON ALEXANDER TAYLOR (born August 1, 1994) is an American professional basketball player for the Rethymno Cretan Kings of the Greek Basket League. He is a 6'7" (2.01 m) tall small forward-power forward.[1]

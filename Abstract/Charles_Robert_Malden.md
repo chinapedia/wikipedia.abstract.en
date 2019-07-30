@@ -1,1 +1,0 @@
-CHARLES ROBERT MALDEN (9 August 1797 – 23 May 1855), was a nineteenth-century British naval officer, surveyor and educator. He is the discoverer of Malden Island in the central Pacific, which is named in his honour. He also founded Windlesham House School at Brighton, England.

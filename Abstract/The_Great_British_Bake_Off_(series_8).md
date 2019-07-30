@@ -1,1 +1,0 @@
-The EIGHTH SERIES of _The Great British Bake Off_ began on 29 August 2017,[1] with this being the first of _The Great British Bake Off_ to be broadcast on Channel 4, after the production company Love Productions moved the show.[2] It is the first series for new hosts Noel Fielding and Sandi Toksvig, and new judge Prue Leith.[3]

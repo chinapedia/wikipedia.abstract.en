@@ -1,1 +1,0 @@
-ATLAS AUTOCODE (AA)[1][2] was a programming language developed around 1965 at Manchester University. A variant of the ALGOL programming language, it was developed by Tony Brooker and Derrick Morris for the Atlas Computer.

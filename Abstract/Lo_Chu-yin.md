@@ -1,1 +1,0 @@
-'''Lo Chu-yin ''' (born 6 October 1965) is a Taiwanese footballer who played as a defender for the Chinese Taipei women's national football team. She was part of the team at the 1991 FIFA Women's World Cup. On club level she played for Mulan in Taiwan.[1]

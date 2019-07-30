@@ -1,1 +1,0 @@
-Salam Atilola [1] (born 2 February 1996 in Saki) is a Nigerian football player who currently plays for Abia Warriors F.C.. He has played for Manzini Sundowns F.C. in the Swazi Premier League and Crown , Shooting Stars F.C. and MFM FC in Nigeria Premier League.

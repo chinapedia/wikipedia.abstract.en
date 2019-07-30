@@ -1,1 +1,0 @@
-The 2017 FOOTBALL WEST SEASON was the fourth season under the new competition format in Western Australia. The NPL premier Bayswater City qualified for the National Premier Leagues finals series, and were eliminated at the quarter-final stage.

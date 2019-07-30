@@ -1,1 +1,0 @@
-KHALKHU is a village placed in Sirdala Block of Nawada district (Bihar). Located in rural part of Nawada district of Bihar, it is one of the 87 villages of Sirdala Block of Nawada district. As per the government register, the village code of Khalkhu is 258275. The village has 127 families.

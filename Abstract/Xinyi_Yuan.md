@@ -1,1 +1,0 @@
-Xinyi_Yuan_2017.JPG XINYI YUAN () is a Chinese mathematician who is currently an associate professor of mathematics at the University of California, Berkeley working in number theory, arithmetic geometry, and automorphic forms. In particular, his work focuses on arithmetic intersection theory, algebraic dynamics, Diophantine equations and special values of L-functions.

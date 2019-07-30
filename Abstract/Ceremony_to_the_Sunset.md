@@ -1,1 +1,0 @@
-_CEREMONY TO THE SUNSET_ is the debut studio album by Yawning Sons, a collaborative musical project formed by members of American band Yawning Man and British band Sons of Alpha Centauri. It was released on June 15, 2009 by Lexicon Devil Records, with a deluxe vinyl edition released by Alone Records on October 25, 2014.

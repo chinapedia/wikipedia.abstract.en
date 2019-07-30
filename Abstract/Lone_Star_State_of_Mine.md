@@ -1,1 +1,0 @@
-"_Lone Star State of Mine_" is an unreleased song by American actor, singer and songwriter River Phoenix. The lyrics and musical composition are attributed to Phoenix.[1] The song was performed by Phoenix in the film The Thing Called Love (1993),[2][3] but was not included on the soundtrack album for the film.[4]

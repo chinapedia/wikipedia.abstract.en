@@ -1,1 +1,0 @@
-STANFORD may refer to:

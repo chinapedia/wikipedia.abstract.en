@@ -1,1 +1,0 @@
-ALENE S. AMMOND (April 6, 1933 – June 4, 2019) was an American politician who served in the New Jersey Senate from the 6th Legislative District from 1974 to 1978. Known as the "Terror of Trenton," she campaigned on and remained committed to the promise to bring anything of public interest to the public's attention.[1]

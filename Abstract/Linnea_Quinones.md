@@ -1,1 +1,0 @@
-'''Linnea Quinones ''' (born 17 July 1980) is a Mexican women's international footballer who plays as a goalkeeper. She is a member of the Mexico women's national football team. She was part of the team at the 1999 FIFA Women's World Cup.[1]

@@ -1,1 +1,0 @@
-_SIPHLOPHIS LEUCOCEPHALUS_, commonly known as the COMMON SPOTTED NIGHT SNAKE, is a species of snake of the family Colubridae. It is endemic to southeastern Brazil and known from Bahia, Goiás, and Minas Gerais states.[1][2]

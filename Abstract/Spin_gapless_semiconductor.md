@@ -1,1 +1,0 @@
-SPIN GAPLESS SEMICONDUCTORS are a novel class of materials with unique electrical band structure for different spin channels in such a way that there is no band gap (i.e., 'gapless') for one spin channel while there is a finite gap in another spin channel.

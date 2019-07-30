@@ -1,1 +1,0 @@
-The _WORLD VENGEANCE TOUR_ was a 1982 concert tour by British heavy metal band Judas Priest where they toured throughout North America from 26 August 1982 until 21 February 1983 in support of the 1982 album _Screaming for Vengeance._

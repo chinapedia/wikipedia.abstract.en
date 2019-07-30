@@ -1,1 +1,0 @@
-Water_bottle_flipping.gif

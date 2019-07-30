@@ -1,1 +1,0 @@
-Data_warehouse_overview.JPG Data_warehouse_architecture.jpg

@@ -1,1 +1,0 @@
-In mathematical analysis, a NULL SET N ⊂ ℝ is a set that can be covered by a countable union of intervals of arbitrarily small total length. The notion of null set in set theory anticipates the development of Lebesgue measure since a null set necessarily has MEASURE ZERO. More generally, on a given measure space M = (X, Σ, μ) a null set is a set S ⊂ X such that μ(S) = 0.

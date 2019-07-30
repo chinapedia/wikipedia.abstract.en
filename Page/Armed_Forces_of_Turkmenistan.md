@@ -31,7 +31,7 @@ List of Chiefs of Staff
 
 Ground Forces
 
-Flag_of_the_Turkmen_Ground_Forces.svg]] Independence_Day_Parade_-_Flickr_-_Kerri-Jo_(111).jpg during the 20th year of independence in Turkmenistan]] Independence_Day_Parade_-_Flickr_-_Kerri-Jo_(52).jpg Independence_Day_Parade_-_Flickr_-_Kerri-Jo_(68).jpgUMG tankman salutes during parade]] Independence_Day_Parade_-_Flickr_-_Kerri-Jo_(66).jpgSA and T-72UMG units]] The Turkmen military inherited several motor rifle divisions from the Soviet Armed Forces Turkestan Military District, forming the basis of the Turkmen ground forces. Among them was the 58th Motor Rifle Division at Kyzyl-Arvat.[6] Interim Russian commanders in the first half of the 1990s included Major General Viktor Zavarzin, chief of staff and first deputy commander of the Separate Combined-Arms Army of Turkmenistan, and commander of the Separate Combined-Arms Army of Turkmenistan and deputy minister of defence Lieutenant General Nikolai Kormiltsev.
+]] during the 20th year of independence in Turkmenistan]] UMG tankman salutes during parade]] SA and T-72UMG units]] The Turkmen military inherited several motor rifle divisions from the Soviet Armed Forces Turkestan Military District, forming the basis of the Turkmen ground forces. Among them was the 58th Motor Rifle Division at Kyzyl-Arvat.[6] Interim Russian commanders in the first half of the 1990s included Major General Viktor Zavarzin, chief of staff and first deputy commander of the Separate Combined-Arms Army of Turkmenistan, and commander of the Separate Combined-Arms Army of Turkmenistan and deputy minister of defence Lieutenant General Nikolai Kormiltsev.
 
 Today the ground forces include the 2nd, 3rd, 11th, and 22nd Motor Rifle Divisions.[7] The 11th Motor Rifle Division is the former Soviet 88th Motor Rifle Division. The 11th (according to other sources 357th) MSD behalf of Sultan Sanjar (former Soviet 88th MSD; Kushka officially - Serhetabat).
 
@@ -113,7 +113,7 @@ Light equipment
 
 Air Force
 
-Flag_of_the_Turkmenistan_Air_Forces.svg]] Turkmenistan_AgustaWestland_AW-101_Mk643_Vanzura-1.jpg flying overhead]] Independence_Day_Parade_-_Flickr_-_Kerri-Jo_(98).jpgs fly near the presidential palace]] The IISS in 2012 said the Air Force had 3,000 personnel with 94 combat capable aircraft.[17] The total number of aircraft is around 120.[18] It said there were two fighter/ground attack squadrons with MiG-29/MiG-29UB (total of 24 both types), Sukhoi Su-17 Fitter-Bs (65) and two Sukhoi Su-25 Frogfoots (with 41 more being refurbished). It reported one transport squadron with Antonov An-26 'Curl' (1), and Mi-8s and Mi-24s (8 and 10 listed in service respectively). Training units had Sukhoi Su-7 Fitter-As (3 listed in service) and L-39 Albatross. Air defence missile units had SA-2, SA-3, and SA-5.
+]] flying overhead]] s fly near the presidential palace]] The IISS in 2012 said the Air Force had 3,000 personnel with 94 combat capable aircraft.[17] The total number of aircraft is around 120.[18] It said there were two fighter/ground attack squadrons with MiG-29/MiG-29UB (total of 24 both types), Sukhoi Su-17 Fitter-Bs (65) and two Sukhoi Su-25 Frogfoots (with 41 more being refurbished). It reported one transport squadron with Antonov An-26 'Curl' (1), and Mi-8s and Mi-24s (8 and 10 listed in service respectively). Training units had Sukhoi Su-7 Fitter-As (3 listed in service) and L-39 Albatross. Air defence missile units had SA-2, SA-3, and SA-5.
 
 Units:
 
@@ -148,7 +148,7 @@ Border Guard
 
 Naval Forces
 
-Flag_of_the_Turkmenistan_Naval_Forces.svg]]
+]]
 
 Turkmen naval forces are currently directed by the Border Guard Service and consist of around 700 servicemen and sixteen patrol boats.[27] The Congressional Research Service, citing the International Institute for Strategic Studies, reports a number of six patrol boats.[28]
 
@@ -184,7 +184,7 @@ NCOs and Enlisted
 -   Corporal
 -   Private
 
-Independence_Day_Parade_-_Flickr_-_Kerri-Jo_(19).jpg.]]
+.]]
 
 
 Military Academies

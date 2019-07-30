@@ -1,1 +1,0 @@
-The ŠIAULIAI–JELGAVA POWER LINE is an electricity link (interconnector) in the Baltic transmission system (synchronous with the IPS/UPS system) between Lithuania and Latvia. The overhead power line is one of seven interconnections between the two countries and one of the four 330 kV power transmission lines between Lithuania and Latvia.

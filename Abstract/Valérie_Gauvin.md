@@ -1,1 +1,0 @@
-VALÉRIE GAUVIN (born 1 June 1996) is a French football player who plays as a forward for Montpellier in the Division 1 Féminine and for the French national team. She was born in Sainte-Clotilde on the island of Réunion.

@@ -1,1 +1,0 @@
-APRIL WALKER (1941) is a British actress, primarily for the BBC, best known for her regular appearances on the hit variety show _The Two Ronnies_, episodic guest roles on numerous other shows, such as _Fawlty Towers_ and _Dial M for Murder_, and also for having been the first woman cast in the seminal role of Sarah Jane Smith for the series _Doctor Who_.

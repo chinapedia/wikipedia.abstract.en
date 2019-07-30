@@ -1,1 +1,0 @@
-TITUS FLAVIUS JOSEPHUS (;[1] ; 37 – 100), born YOSEF BEN MATITYAHU (, _Yosef ben Matityahu_; ),[2][3][4] was a first-century Romano-Jewish historian who was born in Jerusalem—then part of Roman Judea—to a father of priestly descent and a mother who claimed royal ancestry.

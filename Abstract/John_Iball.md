@@ -1,1 +1,0 @@
-Dr JOHN IBALL FRSE FIP (1907–1993) was a British physicist and crystallographer. He made major advances in cancer research. He gives his name to the IBALL INDEX: the relative potency of carcinogenic compounds.

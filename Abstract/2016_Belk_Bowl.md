@@ -1,1 +1,0 @@
-The 2016 BELK BOWL was a postseason college football bowl game played on December 29, 2016. The game featured the Arkansas Razorbacks of the Southeastern Conference and the Virginia Tech Hokies of the Atlantic Coast Conference. It was the first appearance in the Belk Bowl for both teams.[1]

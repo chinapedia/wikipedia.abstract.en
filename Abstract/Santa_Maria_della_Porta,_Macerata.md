@@ -1,1 +1,0 @@
-SANTA MARIA DELLA PORTA is a Romanesque and Gothic-style, Roman Catholic church located between Via Padre Matteo Ricci and Via Santa Maria della Porta, with one façade on La Scaletta, a pedestrian staircase leading up to Piazza della Liberta, in central Macerata, region of Marche, Italy.

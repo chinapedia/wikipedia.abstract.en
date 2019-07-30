@@ -1,1 +1,0 @@
-In mathematics, the BASS–QUILLEN CONJECTURE relates vector bundles over a regular Noetherian ring _A_ and over the polynomial ring A[t₁, …, t_(n)]. The conjecture is named for Hyman Bass and Daniel Quillen, who formulated the conjecture.[1][2]

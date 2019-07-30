@@ -1,1 +1,0 @@
-The Oshkosh P-19R is an Aircraft Rescue and Fire Fighting (ARFF) vehicle and it was selected by the U.S. Marines in 2013.[1] The first delivery occurred in June 2017, Initial Operating Capability (IOC) followed in February 2018, and in service the P-19R serves as a first-response vehicle in aircraft fire emergencies at military bases and expeditionary airfields.[2][3]

@@ -1,1 +1,0 @@
-The TRANSFIGURATION CHURCH[1] () Is a Catholic church in the city of Pyatigorsk (Stavropol Krai) in southern Russia, built in the 1840s.[2] it depends on the Diocese of Saratov and is in Anisimov street.

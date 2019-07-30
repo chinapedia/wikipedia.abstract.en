@@ -1,1 +1,0 @@
-KUZNETSOV, KUZNYETSOV, KUZNETSOFF, or KOUZNETSOV (masculine, ) or KUZNETSOVA (feminine, ) is the third most common Russian surname, an equivalent of the English "Smith" (derived from a Russian word _kuznets_ that means _blacksmith_).

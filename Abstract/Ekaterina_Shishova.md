@@ -1,1 +1,0 @@
-YEKATERINA VLADIMIROVNA SHISHOVA (Екатерина Владимировна Шишова, born 13 September 1978) was a Russian female water polo player. She was a member of the Russia women's national water polo team, playing as a centre back.

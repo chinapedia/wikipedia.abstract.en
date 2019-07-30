@@ -10,7 +10,7 @@ The tradition that he was born at Henfynyw (Vetus-Menevia) in Ceredigion is not 
 
 Legend
 
-Clonard_RC_Church_St_Finian_02_Detail_2007_08_26.jpg in a stained glass window at Clonard]]
+in a stained glass window at Clonard]]
 
 His best-known miracle is said to have taken place when he was preaching in the middle of a large crowd at the Synod of Brefi: the village of Llanddewi Brefi stands on the spot where the ground on which he stood is reputed to have risen up to form a small hill. A white dove, which became his emblem, was seen settling on his shoulder. John Davies notes that one can scarcely "conceive of any miracle more superfluous" in that part of Wales than the creation of a new hill.[7] David is said to have denounced Pelagianism during this incident and he was declared archbishop by popular acclaim according to Rhygyfarch,[8] bringing about the retirement of Dubricius. St David's metropolitan status as an archbishopric was later supported by Bernard, Bishop of St David's, Geoffrey of Monmouth and Gerald of Wales.
 
@@ -25,7 +25,7 @@ Rhigyfarch counted Glastonbury Abbey among the churches David founded.[10] Aroun
 
 Death
 
-Shrine_of_St_David.jpg, prior to its reconstruction in the early twenty-first century.]] StDavidsCathedral.jpg, current day, restored to its 1181 appearance.
+, prior to its reconstruction in the early twenty-first century.]] , current day, restored to its 1181 appearance.
 (St Davids, Pembrokeshire)]]
 
 Though the exact date of his death is not certain, tradition holds that it was on 1 March, which is the date now marked as Saint David's Day.[11] The two most common years given for his death are 601 and 589. The monastery is said to have been "filled with angels as Christ received his soul." His last words to his followers were in a sermon on the previous Sunday. The Welsh Life of St David gives these as, "Arglwydi, vrodyr, a chwioryd, Bydwch lawen a chedwch ych ffyd a'ch cret, a gwnewch y petheu bychein a glywyssawch ac a welsawch gennyf i. A mynheu a gerdaf y fford yd aeth an tadeu idi",[12] which translates as, "Lords, brothers and sisters, Be joyful, and keep your faith and your creed, and do the little things that you have seen me do and heard about. And as for me, I will walk the path that our fathers have trod before us." "Do ye the little things in life" ("Gwnewch y pethau bychain mewn bywyd") is today a very well known phrase in Welsh. The same passage states that he died on a Tuesday, from which attempts have been made to calculate the year of his death.
@@ -52,7 +52,7 @@ He is usually represented standing on a little hill, with a dove on his shoulder
 
 Reputation
 
-Flag_of_Saint_David.svg]] David's popularity in Wales is shown by the _Armes Prydein_ of around 930, a popular poem which prophesied that in the future, when all might seem lost, the _Cymry_ (Welsh people) would unite behind the standard of David to defeat the English; "A lluman glân Dewi a ddyrchafant" ("And they will raise the pure banner of Dewi").
+]] David's popularity in Wales is shown by the _Armes Prydein_ of around 930, a popular poem which prophesied that in the future, when all might seem lost, the _Cymry_ (Welsh people) would unite behind the standard of David to defeat the English; "A lluman glân Dewi a ddyrchafant" ("And they will raise the pure banner of Dewi").
 
 David is said to have played a role in spreading Christianity on the continent, inspiring numerous place names in Brittany including Saint-Divy, Saint-Yvi and Landivy.
 

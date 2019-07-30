@@ -1,1 +1,0 @@
-PETER ASH (born 1961, DeWitt, Iowa ) is a composer and conductor, best known for his opera _The Golden Ticket_ (based on the Roald Dahl book _Charlie and the Chocolate Factory_ )[1] and for his work with the London Schools Symphony Orchestra, of which he has been Artistic Director since 2001.[2]

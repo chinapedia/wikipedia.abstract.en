@@ -1,1 +1,0 @@
-DANIEL OSCAR TAGATA () served as the President of the Asociación de Scouts del Perú, as well as the Community Development Executive and Director for Management Development of the Interamerican Scout Office.[1]

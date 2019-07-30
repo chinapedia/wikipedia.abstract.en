@@ -1,1 +1,0 @@
-The FAYETTEVILLE WOODPECKERS are a Minor League Baseball team of the Carolina League and the Class A affiliate of the Houston Astros. They are located in Fayetteville, North Carolina at Segra Stadium. From 2017 to 2018, the team was known as the BUIES CREEK ASTROS and played at Jim Perry Stadium on the campus of Campbell University in Buies Creek, North Carolina.

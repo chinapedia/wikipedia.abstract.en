@@ -1,1 +1,0 @@
-ALDONA (baptized _Ona_ or _Anna_; her pagan name, Aldona, is known only from the writings of Maciej Stryjkowski;[1] – 26 May 1339) was Queen consort of Poland (1333–1339), and a princess of the Grand Duchy of Lithuania. She was the daughter of Gediminas, Grand Duke of Lithuania.

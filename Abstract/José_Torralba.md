@@ -1,1 +1,0 @@
-JOSÉ TORRALBA RIOS (1653-1726) was a Spanish oidor and licentiate who served as the 36th Governor-General of the Philippines. He is the eighth Governor-General of the Philippines from the Real Audiencia of Manila.

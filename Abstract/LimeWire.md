@@ -1,1 +1,0 @@
-LIMEWIRE is a discontinued free peer-to-peer file sharing (P2P) client for Windows, OS X, Linux and Solaris.[1] LimeWire used the gnutella network as well as the BitTorrent protocol.[2] A freeware version and a purchasable "enhanced" version were available. BitTorrent support is provided by libtorrent.

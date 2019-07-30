@@ -1,1 +1,0 @@
-Nike_Mag.jpeg of the original Nike Mag shoes, 2011]] SELF-TYING SHOES (also known as _self-lacing_ or _power laces_) are designed to automatically tighten once the user puts them on. Such shoes were initially depicted in the 1989 science fiction film _Back to the Future II_.

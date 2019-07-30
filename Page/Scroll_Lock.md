@@ -1,4 +1,4 @@
-Scroll-lock.jpg.]] SCROLL LOCK (⤓ or ⇳) is a lock key (typically with an associated status light) on most IBM-compatible computer keyboards.
+.]] SCROLL LOCK (⤓ or ⇳) is a lock key (typically with an associated status light) on most IBM-compatible computer keyboards.
 
 Depending on the operating system, it may be used for different purposes and applications may assign functions to the key or change their behaviour depending on its toggling state.[1][2]
 

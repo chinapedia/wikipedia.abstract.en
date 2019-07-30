@@ -1,1 +1,0 @@
-KANNAMBADI or KANNAMPADI is a remote tribal settlement located inside the Idukki Wildlife Sanctuary and near the Idukki Hydro Electric Project area in the district of Idukki in Kerala, India.[1]It is noted for its beautiful sceneries and the old government tribal school, started in 1956.[2]

@@ -1,1 +1,0 @@
-GARRY JACOBSON (born 28 February 1992 in Shepparton, Australia) is an Australian motor racing driver. He currently competes in the Virgin Australia Supercars Championship with Kelly Racing in the No. 3 Nissan Altima. Jacobson won the 2016 Supercars Dunlop Series with Prodrive Racing Australia in a Ford FG X Falcon.

@@ -1,1 +1,0 @@
-_THERE WAS A YOUNG MAN_ is a 1937 British comedy film directed by Albert Parker and starring Oliver Wakefield, Nancy O'Neil and Clifford Heatherley. It was made at Wembley Studios as a quota quickie by Twentieth Century Fox.[1]

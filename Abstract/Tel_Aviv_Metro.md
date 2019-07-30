@@ -1,1 +1,0 @@
-Tel_Aviv_Metro_Barebones.svg

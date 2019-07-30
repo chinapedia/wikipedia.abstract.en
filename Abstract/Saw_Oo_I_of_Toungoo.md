@@ -1,1 +1,0 @@
-SAW OO (, ) was viceroy of Toungoo (Taungoo) from 1397 to 1399. He succeeded his father Phaungga following his father's death. But Saw Oo was still a youngster, and was removed from office about two years later by King Swa Saw Ke, who wanted a more experienced governor.[1][2]

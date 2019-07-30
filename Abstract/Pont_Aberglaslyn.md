@@ -1,1 +1,0 @@
-Pont_Aberglaslyn_-_geograph.org.uk_-_62789.jpg. Bridge House is visible in the background. In this picture upstream is to the right.]] Pont_Aberglasslyn_(1131288).jpg PONT ABERGLASLYN is a bridge over the Afon Glaslyn and the surrounding hamlet, located near Beddgelert and Nantmor in Gwynedd, north-west Wales.

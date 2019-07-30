@@ -1,1 +1,0 @@
-Stilnoct2.JPG

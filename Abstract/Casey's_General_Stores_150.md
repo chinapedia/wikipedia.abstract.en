@@ -1,1 +1,0 @@
-The CASEY'S GENERAL STORES 150 is a NASCAR K&N Pro Series East and NASCAR K&N Pro Series West combined race held annually at Iowa Speedway, From 2007-2010, it was a race, In 2010, it was a race, Since 2012, it was reduced to .

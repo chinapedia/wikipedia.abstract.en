@@ -1,1 +1,0 @@
-In genetics and biochemistry, SEQUENCING means to determine the primary structure (sometimes incorrectly called the primary sequence) of an unbranched biopolymer. Sequencing results in a symbolic linear depiction known as a SEQUENCE which succinctly summarizes much of the atomic-level structure of the sequenced molecule.

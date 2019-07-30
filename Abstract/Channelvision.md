@@ -1,1 +1,0 @@
-CHANNELVISION was an Australian subscription television channel based in Canberra that screened locally produced content. The channel launched on 1 September 2005 on TransTV,[1] replacing the TransTV Help Channel, and mainly broadcast local content, news, interviews and local sport.

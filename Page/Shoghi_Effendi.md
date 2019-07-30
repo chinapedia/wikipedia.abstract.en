@@ -7,7 +7,7 @@ Future hereditary Guardians were permitted in the Bahá'í scripture by appointm
 
 Background
 
-Shoghi-1905.jpg Born in ʿAkkā in the Acre Sanjak of the Ottoman Empire in March 1897, Shoghi Effendi was related to the Báb through his father, Mírzá Hádí Shírází, and to Bahá'u'lláh through his mother, Ḍíyá'íyyih Khánum, the eldest daughter of `Abdu'l-Bahá. `Abdu'l-Bahá, who provided much of his initial training, greatly influenced Shoghi Effendi from the early years of his life. Shoghi Effendi learned prayers from his grandfather, who encouraged him to chant. `Abdu'l-Bahá also insisted that people address the child as "Shoghi Effendi", ("Effendi" signifies "Sir"), rather than simply as "Shoghi", as a mark of respect towards him.[3]
+Born in ʿAkkā in the Acre Sanjak of the Ottoman Empire in March 1897, Shoghi Effendi was related to the Báb through his father, Mírzá Hádí Shírází, and to Bahá'u'lláh through his mother, Ḍíyá'íyyih Khánum, the eldest daughter of `Abdu'l-Bahá. `Abdu'l-Bahá, who provided much of his initial training, greatly influenced Shoghi Effendi from the early years of his life. Shoghi Effendi learned prayers from his grandfather, who encouraged him to chant. `Abdu'l-Bahá also insisted that people address the child as "Shoghi Effendi", ("Effendi" signifies "Sir"), rather than simply as "Shoghi", as a mark of respect towards him.[3]
 
 From his early years, Shoghi Effendi was introduced to the suffering which accompanied the Bahá'ís in Akká, including the attacks by Mírzá Muhammad `Alí against `Abdu'l-Bahá. As a young boy, he was aware of the desire of Sultan Abdul Hamid II (reigned 1876-1909) to banish `Abdu'l-Bahá to the deserts of North Africa where he was expected to perish. At one point, Shoghi Effendi was warned not to drink coffee in the homes of any of the Bahá'ís in the fear that he would be poisoned.[4]
 
@@ -27,7 +27,7 @@ After studying at the American University of Beirut he later went to Balliol Col
 
 Death of `Abdu'l-Bahá and Guardianship
 
-Shoghi_Efandi.jpg The issue of successorship to `Abdu'l-Bahá was in the minds of early Bahá'ís, and although the Universal House of Justice was an institution mentioned by Bahá'u'lláh, the institution of the Guardianship was not clearly introduced until the Will and Testament of `Abdu'l-Bahá was publicly read after his death.[10]
+The issue of successorship to `Abdu'l-Bahá was in the minds of early Bahá'ís, and although the Universal House of Justice was an institution mentioned by Bahá'u'lláh, the institution of the Guardianship was not clearly introduced until the Will and Testament of `Abdu'l-Bahá was publicly read after his death.[10]
 
 While studying in England, on 29 November 1921, the news of `Abdu'l-Bahá's death reached Shoghi Effendi, which, according to Wellesley Tudor Pole, the deliverer of the cable, left him "in a state of collapse". After spending a couple of days with John Esslemont,[11] and after some passport difficulties, he sailed from England accompanied with Sara Blomfield and his sister Ruhangiz on 16 December and arrived in Haifa on 29 December. A few days later he opened `Abdu'l-Bahá's Will and Testament, which was addressed to Shoghi Effendi.[12]
 
@@ -47,7 +47,7 @@ In the 1950s he also continued building the Bahá'í administration, establishin
 
 Translations and writings
 
-Handwriting_of_Shoghi_Effendi_1919-1.jpg, 1919]] In his lifetime, Shoghi Effendi translated into English many of the writings of the Báb, Bahá'u'lláh and `Abdu'l-Bahá, including the _Hidden Words_ in 1929, the _Kitáb-i-Íqán_ in 1931, _Gleanings_ in 1935 and _Epistle to the Son of the Wolf_ in 1941.[19] He also translated such historical texts as _The Dawn-breakers_.[20] His significance is not just that of a translator, but he was also the designated and authoritative interpreter of the Bahá'í writings. His translations, therefore, are a guideline for all future translations of the Bahá'í writings. The vast majority of his writings were in the style of letters with Bahá'ís from all parts of the globe.
+, 1919]] In his lifetime, Shoghi Effendi translated into English many of the writings of the Báb, Bahá'u'lláh and `Abdu'l-Bahá, including the _Hidden Words_ in 1929, the _Kitáb-i-Íqán_ in 1931, _Gleanings_ in 1935 and _Epistle to the Son of the Wolf_ in 1941.[19] He also translated such historical texts as _The Dawn-breakers_.[20] His significance is not just that of a translator, but he was also the designated and authoritative interpreter of the Bahá'í writings. His translations, therefore, are a guideline for all future translations of the Bahá'í writings. The vast majority of his writings were in the style of letters with Bahá'ís from all parts of the globe.
 
 These letters, of which 17,500 have been collected thus far and are believed to number a total of 30,000, ranged from routine correspondence regarding the affairs of Bahá'ís around the world to lengthy letters to the Bahá'ís of the world addressing specific themes.[21][22][23] Some of his longer letters include _World Order of Bahá'u'lláh_, regarding the nature of Bahá'í administration, _Advent of Divine Justice_, regarding teaching the religion, and _Promised Day is Come_ regarding Bahá'u'lláh's letters to world leaders.
 
@@ -69,7 +69,7 @@ Shoghi Effendi had a great love for the English language.[36] He was an avid fan
 
 Marriage
 
-Mary_Maxwell.jpg In March 1937,[40] Shoghi Effendi married Mary Maxwell, entitled Rúhíyyih Khánum, a Canadian. She was the only child of May Maxwell, a disciple of `Abdu'l-Bahá, and William Sutherland Maxwell, a Canadian architect. Shoghi Effendi had first met Mary as a girl when she came on pilgrimage with her mother in 1923.[41] The two had begun a regular correspondence from the mid-1920s. Mary was an active Bahá'í teacher, and a letter written to Shoghi Effendi described her as "a beautiful and most refreshing girl to know".[42] Whilst on her third pilgrimage in 1937 the two began a discreet courtship. Then herself 26 years old, Mary was a tall, athletic woman. Mary had been living in Nazi Germany for 18 months with her cousin prior to coming to Haifa. The couple married in the room of Bahíyyih Khánum in the House of `Abdu'l-Bahá in Haifa. The ceremony was a short, simple and quiet one in which Rúhíyyih Khánum wore black. Very few knew the wedding was taking place apart from the witnesses and a small group of residents of Haifa. Therefore the marriage came as a great surprise to the world-wide Bahá'í community when the mother of Shoghi Effendi cabled the Bahá'ís:
+In March 1937,[40] Shoghi Effendi married Mary Maxwell, entitled Rúhíyyih Khánum, a Canadian. She was the only child of May Maxwell, a disciple of `Abdu'l-Bahá, and William Sutherland Maxwell, a Canadian architect. Shoghi Effendi had first met Mary as a girl when she came on pilgrimage with her mother in 1923.[41] The two had begun a regular correspondence from the mid-1920s. Mary was an active Bahá'í teacher, and a letter written to Shoghi Effendi described her as "a beautiful and most refreshing girl to know".[42] Whilst on her third pilgrimage in 1937 the two began a discreet courtship. Then herself 26 years old, Mary was a tall, athletic woman. Mary had been living in Nazi Germany for 18 months with her cousin prior to coming to Haifa. The couple married in the room of Bahíyyih Khánum in the House of `Abdu'l-Bahá in Haifa. The ceremony was a short, simple and quiet one in which Rúhíyyih Khánum wore black. Very few knew the wedding was taking place apart from the witnesses and a small group of residents of Haifa. Therefore the marriage came as a great surprise to the world-wide Bahá'í community when the mother of Shoghi Effendi cabled the Bahá'ís:
 
 While Shoghi Effendi and Rúhíyyih Khánum never had children, Rúhíyyih Khánum became his constant companion and helpmate; in 1941, she became Shoghi Effendi's principal secretary in English.[43] In a rare public statement revealing his private sentiments in 1951 he described his wife as "my helpmate, my shield in warding off the darts of Covenant breakers and my tireless collaborator in the arduous tasks I shoulder".
 
@@ -84,8 +84,6 @@ Throughout Shoghi Effendi's life, nearly all remaining family members and descen
 
 
 Unexpected death
-
-Shoghi_Effendi_resting_place.jpg
 
 Shoghi Effendi's death came unexpectedly in London, on 4 November 1957, as he was travelling to Britain and caught the Asian Flu,[46] during the pandemic which killed two million worldwide, and he is buried there in New Southgate Cemetery.[47] His wife sent the following cable:
 

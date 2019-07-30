@@ -28,7 +28,7 @@ On 26 December 1991, Serbia, Montenegro, and the Serb rebel-held territories in 
 
 Yugoslav Wars
 
-Serbia_in_the_Yugoslav_Wars.png]]
+]]
 
 The FRY was suspended from a number of international institutions. This was due to the ongoing Yugoslav wars during the 1990s, which had prevented agreement being reached on the disposition of federal assets and liabilities, particularly the national debt. The Government of Yugoslavia supported Croatian and Bosnian Serbs in the wars from 1992 to 1995. Because of that, the country was under economic and political sanctions, which resulted in economic disaster that forced thousands of its young citizens to emigrate from the country.
 
@@ -44,7 +44,7 @@ From 1996, the first public signs of political discord between parts of Monteneg
 
 Kosovo War
 
-Zasto.jpg) who were killed during NATO bombing of the RTS building in 1999.]]
+) who were killed during NATO bombing of the RTS building in 1999.]]
 
 With Milošević's second and last legal term as Serbian President expiring in 1997, he ran for, and was elected President of Yugoslavia in 1997. Upon taking office, Milošević gained direct control of the Yugoslav military and security forces, and directed them to engage Kosovo separatists. The conflict escalated from 1998 to 1999 and became known as the Kosovo War.
 
@@ -78,8 +78,6 @@ The Armed Forces of Serbia and Montenegro (Serbian: Војска Србије и
 
 
 Administrative divisions
-
-Scg02.png
 
 Serbia and Montenegro was composed of four principal political units, consisting of two republics and two subordinate autonomous provinces:
 
@@ -147,8 +145,6 @@ The complexity of the FRY's political relationships, slow progress in privatisat
 
 Transport
 
-Passport_of_the_Federal_Republic_of_Yugoslavia.jpg
-
 Serbia, and in particular the valley of the Morava is often described as "the crossroads between the East and the West" – one of the primary reasons for its turbulent history. The valley is by far the easiest land route from continental Europe to Greece and Asia Minor.
 
 Until the outbreak of the Yugoslav wars, the once named highway "Bratstvo i jedinstvo" (Brotherhood and Unity) running through Croatia, Serbia and the Republic of Macedonia was one of Europe's most important transport arteries. It gradually resumed this role as the security situation stabilized.
@@ -187,8 +183,6 @@ Holidays celebrated only in Montenegro
 
 
 Proposed national flag and state anthem
-
-Proposed_flag_of_Serbia_and_Montenegro_(2003).svg
 
 After the formation of Serbia and Montenegro, the Yugoslav tricolour was to be replaced by a new compromise flag. Article 23 of the Law for the implementation of the Constitutional Charter[24] stated that a law specifying the new flag was to be passed within 60 days of the first session of the new joint parliament. Among the flag proposals, the popular choice was a flag with a shade of blue in between the Serbian tricolor and the Montenegrin tricolor of 1993 through 2004. The color shade Pantone 300C was perceived as the best choice.[25] However the parliament failed to vote on the proposal within the legal time-frame and the flag was not adopted. In 2004, Montenegro adopted a radically different flag, as its independence-leaning government sought to distance itself from Serbia. Proposals for a compromise flag were dropped after this and the Union of Serbia and Montenegro never adopted a flag.
 

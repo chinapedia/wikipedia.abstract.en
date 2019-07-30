@@ -1,1 +1,0 @@
-MIXMASTER MORRIS (born MORRIS GOULD, 30 December 1965) is an English ambient DJ and underground musician.[1] Famous for his, "It's time to lie down and be counted" 1 quote, relating specifically to ambient music, Morris stated "It's exactly what you need if you have a busy and stressful life".[2]

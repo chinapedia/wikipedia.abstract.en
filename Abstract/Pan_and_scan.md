@@ -1,1 +1,0 @@
-Image_cropping_133x1.jpg PAN AND SCAN is a method of adjusting widescreen film images so that they can be shown in fullscreen proportions of a standard definition 4:3 aspect ratio television screen, often cropping off the sides of the original widescreen image to focus on the composition's most important aspects.

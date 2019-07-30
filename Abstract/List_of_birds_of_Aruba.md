@@ -1,1 +1,0 @@
-This is a LIST OF THE BIRD SPECIES RECORDED IN ARUBA. The avifauna of Aruba has 219 confirmed species, of which four have been introduced by humans and 91 are rare or vagrants (including two species introduced elsewhere in the region). Two have been extirpated. None are endemic. One additional species is hypothetical (see below).

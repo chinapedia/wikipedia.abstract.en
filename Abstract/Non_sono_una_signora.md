@@ -1,1 +1,0 @@
-"NON SONO UNA SIGNORA" (i.e. "I am not a lady") is an Italian pop-rock song written by Ivano Fossati and performed by Loredana Bertè. Considered Bertè's signature song, it has influenced her provocative imagine and aggressive style in the following years of career.[1] It has been described as a "career catch" song for Berté.[2]

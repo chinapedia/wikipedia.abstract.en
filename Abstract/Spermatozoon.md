@@ -1,1 +1,0 @@
-A SPERMATOZOON (pronounced , alternate spelling SPERMATOZOÖN; plural SPERMATOZOA; from "seed" and "living being") is a motile sperm cell, or moving form of the haploid cell that is the male gamete. A spermatozoon joins an ovum to form a zygote. (A zygote is a single cell, with a complete set of chromosomes, that normally develops into an embryo.)

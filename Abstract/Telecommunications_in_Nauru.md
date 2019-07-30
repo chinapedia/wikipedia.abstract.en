@@ -1,1 +1,0 @@
-Nauru has one government-owned radio station and two television stations. One station is government-owned and mainly rebroadcasts CNN and the other is a private sports network. The island's Internet service is provided by CenPacNet.

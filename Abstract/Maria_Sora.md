@@ -1,1 +1,0 @@
-'''Maria Sora ''' (born 10 June 1994) is a Greek female water polo player. She plays for Olympiacos in Greece.[1] She was a part of the team winning the 2014–15 LEN Euro League Women,[2] the 2015 Women's LEN Super Cup[3] and the 2014 Women's LEN Trophy.[4]

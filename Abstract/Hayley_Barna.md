@@ -1,1 +1,0 @@
-HAYLEY BARNA is an American entrepreneur and venture capitalist who co-founded Birchbox in 2009 while at Harvard Business School.[1] In 2015, Barna "stepped away from her day-to-day role" at Birchbox,[2] remaining a board member. In 2016 she became a partner First Round,[3] a venture capital firm specializing in seed-stage funding.[4]

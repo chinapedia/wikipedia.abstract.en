@@ -1,1 +1,0 @@
-MUSLEHUDDIN AHMAD (died on 10 September 2012) was a Bangladeshi diplomat and university administrator.[1] He was the founder of North South University, the first private university in Bangladesh and served as its first vice-chancellor. He was the ambassador of Bangladesh to France and Romania.[2]

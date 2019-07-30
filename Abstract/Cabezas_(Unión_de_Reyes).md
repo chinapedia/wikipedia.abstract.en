@@ -1,1 +1,0 @@
-CABEZAS, also known as _SAN ANTONIO DE CABEZAS_, is a Cuban village and _consejo popular_ ("people's council", i.e. hamlet) of the municipality of Unión de Reyes, in Matanzas Province. Sometimes referred to as _Wajay_,[1] it has a population of 5,549 and the council's administrative territory covers an area of 28.70 km².[2]

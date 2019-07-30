@@ -1,1 +1,0 @@
-MACBETH (Medieval Gaelic: _Mac Bethad mac Findlaích_; Modern Gaelic: _MacBheatha mac Fhionnlaigh_; nicknamed __, "the Red King";[1] – 15 August 1057) was King of Scots from 1040 until his death. He was titled King of Alba during his life, and ruled over only a portion of present-day Scotland.

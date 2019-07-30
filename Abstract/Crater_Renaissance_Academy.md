@@ -1,1 +1,0 @@
-CRATER RENAISSANCE ACADEMY OF ARTS AND SCIENCES is a public high school located in Jackson County, Oregon, United States. It is one of three public high schools in Oregon's School District 6, serving the Southern Oregon communities of Central Point, Gold Hill and Sams Valley.

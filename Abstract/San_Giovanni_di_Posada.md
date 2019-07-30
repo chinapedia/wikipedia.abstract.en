@@ -1,1 +1,0 @@
-SAN GIOVANNI DI POSADA (Latin: PORTUS LUGUIDONIS or PORTUS LIQUIDONIS[1]) is a _frazione_ and small village in Sardinia, Italy, on the Tyrrhenian coast of the island, in the territory of the _comune_ of Posada.

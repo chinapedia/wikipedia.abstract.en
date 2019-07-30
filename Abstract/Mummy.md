@@ -1,1 +1,0 @@
-Ramesses_II_mummy_in_profile_(colored_picture).jpg

@@ -1,1 +1,0 @@
-The ST. NICHOLAS CATHEDRAL [1] () also called GREEK-CATHOLIC CATHEDRAL OF ST. NICHOLAS It is a Catholic church that serves as the cathedral of the Eparchy of Oradea Mare (_Eparchia Magnovaradinensis Romenorum_). It is located in the city of Oradea in the European country of Romania.[2]

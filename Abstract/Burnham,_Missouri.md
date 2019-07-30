@@ -1,1 +1,0 @@
-BURNHAM is an unincorporated community in Howell County, in the U.S. state of Missouri.[1] The community is located about midway between Willow Springs and Pomona about one mile west of US Route 63 along the Burlington Northern Santa Fe railroad's Springfield-Memphis line.[2]

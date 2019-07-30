@@ -1,1 +1,0 @@
-The HISTORY OF PANAMA refers to the Isthmus of Panama region's long history that occurred in Central America, from Pre-Columbian cultures, during the Spanish colonial era, through independence and the current country of Panama. Pm-map.png (top).]]

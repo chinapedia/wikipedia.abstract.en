@@ -1,1 +1,0 @@
-_HYPERA NIGRIROSTRIS_, commonly known as the LESSER CLOVER LEAF WEEVIL, is a species of weevil that is native to Europe and northern Africa and has been introduced to North America and Japan.[1] Both adults and larvae feed on red clover and other plants in the Fabaceae family.

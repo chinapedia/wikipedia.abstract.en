@@ -1,1 +1,0 @@
-DCKAP is an American and Indian firm that builds e-commerce store fronts for Magento, an open-source e-commerce platform, and is based in Fremont, California. DCKAP was founded in 2005 by Indian-American[1] Karthik Chidambaram.[2][3]

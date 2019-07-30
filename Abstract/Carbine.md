@@ -1,1 +1,0 @@
-Muskets_carbines_musketoons_blunderbuss.gif

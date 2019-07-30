@@ -1,4 +1,4 @@
-Alla_upplagor.jpg _SVENSKA AKADEMIENS ORDLISTA_ (), abbreviated SAOL, is a glossary published every few years by the Swedish Academy.[1][2][3] It is a single volume that is considered the final arbiter of Swedish spelling. Traditionally it carries the motto of the Swedish Academy, _Snille och Smak_ ("Talent and Taste"), on its blue cloth cover.
+_SVENSKA AKADEMIENS ORDLISTA_ (), abbreviated SAOL, is a glossary published every few years by the Swedish Academy.[1][2][3] It is a single volume that is considered the final arbiter of Swedish spelling. Traditionally it carries the motto of the Swedish Academy, _Snille och Smak_ ("Talent and Taste"), on its blue cloth cover.
 
 Whenever a new edition comes out lively discussions about new and changed entries erupt around the country. In some instances the Academy has been ahead of its times and has later had to change entries back to older spellings. _Jos_ – _juice_ is probably the most well-known instance. In 2015, the fourteenth edition (containing entries) was published.
 

@@ -1,1 +1,0 @@
-KARNATAKA () is a state in the south western region of India. It was formed on 1 November 1956, with the passage of the States Reorganisation Act. Originally known as the State of Mysore, it was renamed _Karnataka_ in 1973. The state corresponds to the Carnatic region. The capital and largest city is Bangalore.

@@ -5,7 +5,7 @@ Roads
 
     _See also: _
 
-BaobabDakar.JPG The system of roads in Senegal is extensive by West African standards, with paved roads reaching each corner of the country and all major towns.
+The system of roads in Senegal is extensive by West African standards, with paved roads reaching each corner of the country and all major towns.
 
 International highways
 
@@ -54,8 +54,6 @@ Maps
 
 Ground transport
 
-Senegal_Car_rapide.jpg
-
 There were an estimated 4,271 km of paved roads and 10,305 km of unpaved roads as of 1996.
 
 Taxis (black-yellow or blue-yellow in color) are cheap, numerous and available everywhere in Dakar.[1] It is customary to negotiate the fare since most meters installed in the taxis are broken or missing.[2] For travel outside Dakar, public transportation is available but often unreliable and uncomfortable.[3]
@@ -76,7 +74,7 @@ Dakar has one of the largest deep-water seaports along the West African coast.[4
 
 Airports
 
-Air_Senegal_International_B737_6V-AHU.jpg There were an estimated 20 airports in 1999. Blaise Diagne International Airport in Diass became the hub of the sub-region.[9][10] Dakar is linked to numerous African cities by air, and daily flights go to Europe.[11] Delta Air Lines flies daily to/from Atlanta/Dakar/Johannesburg.[12] South African Airways flies daily to New York and Washington, D.C. from Johannesburg via Dakar.[13] The old Léopold Sédar Senghor International Airport in Dakar is now only exists as a cargo hub.
+There were an estimated 20 airports in 1999. Blaise Diagne International Airport in Diass became the hub of the sub-region.[9][10] Dakar is linked to numerous African cities by air, and daily flights go to Europe.[11] Delta Air Lines flies daily to/from Atlanta/Dakar/Johannesburg.[12] South African Airways flies daily to New York and Washington, D.C. from Johannesburg via Dakar.[13] The old Léopold Sédar Senghor International Airport in Dakar is now only exists as a cargo hub.
 
 UNKNOWN
 

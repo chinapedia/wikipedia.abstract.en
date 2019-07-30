@@ -1,1 +1,0 @@
-AMBROISE, sometimes AMBROISE OF NORMANDY,[1] (flourished ) was a Norman poet and chronicler of the Third Crusade, author of a work called __, which describes in rhyming Old French verse the adventures of as a crusader. The poem is known to us only through one Vatican manuscript, and long escaped the notice of historians.[2]

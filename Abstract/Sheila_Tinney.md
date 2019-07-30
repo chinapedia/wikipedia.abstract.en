@@ -1,1 +1,0 @@
-SHEILA CHRISTINA TINNEY (_née_ Power, 15 January 1918 – 27 March 2010) was an Irish mathematical physicist. Her 1941 PhD from the University of Edinburgh, completed under the supervision of Max Born in just two years, is believed to make her the first Irish-born and -raised woman to receive a doctorate in the mathematical sciences.[1]

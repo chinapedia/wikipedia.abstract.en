@@ -1,1 +1,0 @@
-FEDASIL (_Federal Agency for the Reception of Asylum Seekers_) is a Belgian institution that is responsible for the reception of asylum seekers. The organisation is further responsible for the observation and orientation of unaccompanied minor foreign nationals (UMFNs). The reception of asylum seekers is provided at individual reception locations or collective reception centres.

@@ -1,5 +1,3 @@
-Slingshot_(weapon).png
-
 A SLINGSHOT or CATAPULT (UK), GING (primarily Australian and New Zealand), SHANGHAI (Australian and New Zealand) or KETTIE (South Africa) is normally a small hand-powered projectile weapon. The classic form consists of a Y-shaped frame held in the off hand (nondominant hand), with two natural-rubber strips attached to the uprights. The other ends of the strips lead back to a pocket that holds the projectile. The dominant hand grasps the pocket and draws it back to the desired extent to provide power for the projectile—up to a full span of the arm with sufficiently long bands.
 
 
@@ -41,8 +39,6 @@ On the Battle of Marawi, the soldiers of the Philippine Army's elite Scout Range
 
 
 Dangers
-
-Slingshot_band_failure.jpg CPSC_recall_Daisy_Natural.jpg
 
 One of the dangers inherent in slingshots is the high probability that the bands will fail. Most bands are made from latex, which degrades with time and use, causing the bands to eventually fail under load.[13][14] Failures at the pouch end are safest, as they result in the band rebounding away from the user. Failures at the fork end, however, send the band back towards the shooter's face, which can cause eye and facial injuries.[15] One method to minimize the chance of a fork end failure is to utilize a tapered band, thinner at the pouch end, and thicker and stronger at the fork end.[16] Designs that use loose parts at the fork are the most dangerous, as they can result in those parts being propelled back towards the shooter's face, such as the ball attachment used in the recalled Daisy "Natural" line of slingshots (see image). The band could slip out of the slot in which it rested, and the hard ball in the tube resulted in cases of blindness and broken teeth. Daisy models using plain tubular bands were not covered in the recall, because the elastic tubing does not cause severe injuries upon failure.[17] Another big danger is the fork breakage, some commercial slingshots made from cheap zinc alloy may break and severely injure shooters' eyes & face. [18]
 

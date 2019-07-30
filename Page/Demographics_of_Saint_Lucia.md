@@ -3,7 +3,7 @@ This article is about the demographic features of the population of Saint Lucia,
 
 Population
 
-Saint_Lucia_demography.png, year 2005 ; Number of inhabitants in thousands]] According to the 2018 population census Saint Lucia has a population of 179,667.[1] The estimated population of is (). The population is evenly divided between urban and rural areas, although the capital, Castries, contains more than one-third of the population.
+, year 2005 ; Number of inhabitants in thousands]] According to the 2018 population census Saint Lucia has a population of 179,667.[1] The estimated population of is (). The population is evenly divided between urban and rural areas, although the capital, Castries, contains more than one-third of the population.
 
 
 Vital statistics

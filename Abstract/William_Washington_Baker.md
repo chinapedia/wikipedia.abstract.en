@@ -1,1 +1,0 @@
-WILLIAM WASHINGTON BAKER (October 20, 1844 – February 21, 1927) was an American Democratic politician who served as a member of the Virginia House of Delegates, representing his native Chesterfield County.[1][2]

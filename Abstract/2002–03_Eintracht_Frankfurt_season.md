@@ -1,1 +1,0 @@
-The 2002–03 EINTRACHT FRANKFURT SEASON was the 103rd season in the club's football history. In 2002–03 the club played in the 2. Bundesliga, the second tier of German football. It was the club's 4th season in the 2. Bundesliga. The season ended for Eintracht with promotion to the Bundesliga after finishing 3rd in the 2. Bundesliga.

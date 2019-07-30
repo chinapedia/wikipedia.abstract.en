@@ -20,7 +20,7 @@ Population distribution is very uneven due to soil and terrain variations. The p
 
 French, the official language, is used in administration and documentation. The public primary schools combine French with Ewe or Kabye as languages of instruction, depending on the region. English is spoken in neighboring Ghana and is taught in Togolese secondary schools. As a result, many Togolese, especially in the south and along the Ghana border, speak some English.
 
-Togo_demography.png, year 2005 ; Number of inhabitants in thousands.]]
+, year 2005 ; Number of inhabitants in thousands.]]
 
 +-------------+------------+----------------+-------------+------------+
 | Census date | Population | Average annual | Population  | Proportion |
@@ -147,8 +147,6 @@ Population
     8,176,449 (July 2018 est.)
 
 Age structure
-
-Togopop.svg
 
     _0-14 years:_ 40.13% (male 1,646,438 /female 1,634,609)
     _15-24 years:_ 19.1% (male 779,774 /female 782,192)

@@ -1,1 +1,0 @@
-SPLITLOG is an unincorporated community in western McDonald County, in the U.S. state of Missouri.[1] The community is located approximately four miles northwest of Anderson and 1.5 miles west of Elliff on Missouri Route 59.[2]

@@ -1,1 +1,0 @@
-DYKE BRANCH is a stream in the U.S. states of Kansas and Missouri.[1] It is a tributary of Indian Creek. The headwaters are in eastern Kansas at and the confluence with Indian Creek is in Missouri at .[2]

@@ -52,7 +52,7 @@ Tibaut, who had a low reputation locally, decided at another point to kill North
 
 Tibaut hired Northup out to a planter named Eldret, who lived about 38 miles south on the Red River. At what he called "The Big Cane Brake", Eldret had Northup and other slaves clear cane, trees, and undergrowth in the bottomlands in order to develop cotton fields for cultivation.[56][57] With the work unfinished, after about five weeks, Tibaut sold Northup to Edwin Epps.
 
-Lsua_epps_020712.JPG campus]] Epps held Northup for almost 10 years, until 1853, in Avoyelles Parish. He was a cruel master who frequently and indiscriminately punished slaves and drove them hard. His policy was to whip slaves if they did not meet daily work quotas he set for pounds of cotton to be picked, among other goals.[58] Northup wrote that the sounds of whipping were heard every day on Epps' plantation, from sundown until lights out. Epps sexually abused a young enslaved woman named Patsey, repeatedly raping her. This led to additional severe physical and mental abuse prompted by Epps's wife, the mistress of the plantation.
+campus]] Epps held Northup for almost 10 years, until 1853, in Avoyelles Parish. He was a cruel master who frequently and indiscriminately punished slaves and drove them hard. His policy was to whip slaves if they did not meet daily work quotas he set for pounds of cotton to be picked, among other goals.[58] Northup wrote that the sounds of whipping were heard every day on Epps' plantation, from sundown until lights out. Epps sexually abused a young enslaved woman named Patsey, repeatedly raping her. This led to additional severe physical and mental abuse prompted by Epps's wife, the mistress of the plantation.
 
 In 1852, itinerant Canadian carpenter Samuel Bass came to do some work for Epps. Hearing Bass express his abolitionist views, Northup eventually decided to confide his secret to him. Bass was the first person he told of his true name and origins as a free man since he was first enslaved.[59] Along with mailing a letter written by Northup, Bass wrote several letters at his request to Northup's friends, providing general details of his location at Bayou Boeuf, in hopes of gaining his rescue.[60]
 
@@ -67,8 +67,6 @@ Bass was itinerant and had no local family. (Unbeknownst to his friends in Louis
 In cooperation with U.S. Senator Pierre Soulé from Louisiana and other local authorities, Henry B. Northup arrived in Marksville on January 1, 1853. Tracing Northup was difficult as he was known locally only by his slave name of Platt. When the attorney confronted Epps with the evidence that Platt/Northup was a free man, with a wife and children, Epps first demanded of the enslaved man why he had not told him this at the time of purchase. Then Epps said, had he known that men were coming to take "Platt", he would have ensured they could never take the slave alive. Epps cursed the man (unknown to him) who had helped Northup, and threatened to kill him if he ever learned his identity.
 
 Northup later wrote, "He [Epps] thought of nothing but his loss, and cursed me for having been born free."[67][68] Attorney Henry B. Northup convinced Epps that it would be futile to contest the free papers in a court of law, so the planter conceded the case. He signed papers giving up all claim to Northup. Finally on January 4, 1853, four months after meeting Bass, Northup regained his freedom.[69][70]
-
-Solomon_Northrup_illustration.jpg
 
 Court cases and memoir
 

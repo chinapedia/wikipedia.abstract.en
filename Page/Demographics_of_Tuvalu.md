@@ -1,9 +1,9 @@
-Dancer,_Tuvalu_stage,_2011_Pasifika_festival.jpg]] This article is about the demographic features of the population of Tuvalu, including the age structure, ethnicity, education level, life expectancy, religious affiliations and other aspects of the population.
+]] This article is about the demographic features of the population of Tuvalu, including the age structure, ethnicity, education level, life expectancy, religious affiliations and other aspects of the population.
 
 
 Summary of the demographics of Tuvalu
 
-Children_of_Niutao_Island.JPG]] The population of Tuvalu is primarily of Polynesian ethnicity with approximately 5.6% of the population being Micronesian.[1] Tuvaluans are ethnically related to the people of Samoa and Tonga. There is evidence for a dual genetic origin of Pacific Islanders in Asia and Melanesia, which results from an analysis of Y chromosome (NRY) and mitochondrial DNA (mtDNA) markers; there is also evidence that Fiji playing a pivotal role in west-to-east expansion within Polynesia.[2]
+]] The population of Tuvalu is primarily of Polynesian ethnicity with approximately 5.6% of the population being Micronesian.[1] Tuvaluans are ethnically related to the people of Samoa and Tonga. There is evidence for a dual genetic origin of Pacific Islanders in Asia and Melanesia, which results from an analysis of Y chromosome (NRY) and mitochondrial DNA (mtDNA) markers; there is also evidence that Fiji playing a pivotal role in west-to-east expansion within Polynesia.[2]
 
 The vast majority of Tuvaluans belong to the Church of Tuvalu, a Protestant denomination. Their ancestors were converted by Christian missionaries in the 19th century.
 
@@ -34,11 +34,9 @@ The Census Monograph on Migration, Urbanization and Youth provides an analysis o
 
 Demographic statistics
 
-The following demographic statistics are from the CIA World Factbook,[23] unless otherwise indicated. Tuvalu_Inaba-15.jpg
+The following demographic statistics are from the CIA World Factbook,[23] unless otherwise indicated.
 
 Population
-
-Population_Distribution_of_Tuvalu_by_Age_Group_(2014).png
 
 -   11,052 (estimate as of July 2017)
 

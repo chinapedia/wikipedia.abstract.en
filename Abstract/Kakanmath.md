@@ -1,1 +1,0 @@
-KAKANMAṬH is a ruined 11th century Shiva temple located at Sihoniya in Madhya Pradesh, India. It was built by the Kachchhapaghata ruler Kirttiraja. Only a part of the original temple complex now survives. Some of the sculptures from the site are now located at Gwalior.

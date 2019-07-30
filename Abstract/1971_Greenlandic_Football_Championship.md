@@ -1,1 +1,0 @@
-The 1971 GREENLANDIC FOOTBALL CHAMPIONSHIP was the inaugural edition of the Greenlandic Football Championship. The final round was held in Nuuk. It was won by Tupilak-41 who defeated Grønlands Seminarius Sportklub 1–0 in the final.[1]

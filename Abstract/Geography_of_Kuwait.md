@@ -1,1 +1,0 @@
-Satellite_image_of_Kuwait_in_November_2001.jpg.]] KUWAIT is situated in Southwest Asia, bordering the Persian Gulf, between Iraq and Saudi Arabia. A prosperous trade center for many centuries, Kuwait came to greater international prominence in the post-World War II era, largely because of its strategic location at the head of the Persian Gulf and oil revenues.

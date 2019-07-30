@@ -1,1 +1,0 @@
-KERNEL may refer to:

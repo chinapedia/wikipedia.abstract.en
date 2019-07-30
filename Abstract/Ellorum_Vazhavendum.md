@@ -1,1 +1,0 @@
-_ELLORUM VAZHAVENDUM_ (English: Everyone should live) is an Indian Tamil language film directed by G. Viswanathan and released in 1962. The film features K. Balaji and Malini in the lead roles. M. R. Radha is a guest artiste. Music was scored by Rajan–Nagendra duo from Kannada Cinema.[1][2]

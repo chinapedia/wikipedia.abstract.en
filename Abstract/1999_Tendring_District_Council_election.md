@@ -1,1 +1,0 @@
-Elections to Tendring District Council in Essex, England took place on 6 May 1999. This was on the same day as other local elections across the United Kingdom. Although the Labour Party remained the largest party on the council, it lost overall control while the Conservatives made major gains.

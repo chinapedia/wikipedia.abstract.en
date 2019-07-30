@@ -1,1 +1,0 @@
-The SYNOD OF NEW SOUTH WALES AND THE ACT is a regional council of the Uniting Church in Australia having responsibility for the congregations and presbyteries in New South Wales and the Australian Capital Territory. From its creation in 1977 until 29 March 2008, the Synod had the shorter title of SYNOD OF NEW SOUTH WALES.[1]

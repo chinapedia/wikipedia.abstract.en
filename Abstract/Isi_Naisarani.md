@@ -1,1 +1,0 @@
-ISI NAISARANI (born 14 February 1995) is a Fijian-born professional rugby union player.[1] He currently plays for the Rebels in Super Rugby and was previously with the Brumbies[2] and Western Force.[3][4] His usual position is Number Eight.

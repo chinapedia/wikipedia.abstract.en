@@ -1,1 +1,0 @@
-The ASEAN INTER-PARLIAMENTARY ASSEMBLY (AIPA), until 2007, the ASEAN INTER-PARLIAMENTARY ORGANIZATION (AIPO), is an organization founded in 1977, which is grouped with, but formally associated with ASEAN.[1] Its creation was initiated by Indonesia, with the support of other members of the ASEAN 5 founding members.[2]

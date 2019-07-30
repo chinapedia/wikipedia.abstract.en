@@ -1,1 +1,0 @@
-ENRICO BOMBIERI (born 26 November 1940 in Milan) is an Italian mathematician, known for his work in analytic number theory, Diophantine geometry, complex analysis, and group theory. He won a Fields Medal in 1974.[1]

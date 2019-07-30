@@ -1,1 +1,0 @@
-The 1994 LIGA PERDANA season is the inaugural season of the newly created professional football league in Malaysia, Liga Perdana (1994–97). A total of 16 teams participated in the season with 14 teams from Malaysia and two foreign teams, Singapore and Brunei.[1] It is also the last season for Singapore-based team played in Malaysian League until a return with LionsXII in 2012.

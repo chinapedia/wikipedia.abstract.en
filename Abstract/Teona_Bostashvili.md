@@ -1,1 +1,0 @@
-TEONA BOSTASHVILI (born January 19, 1998) is a Georgian swimmer. She competed at the 2016 Summer Olympics in the women's 100 metre backstroke; her time of 1:22.91 in the heats did not qualify her for the semifinals.[1][2]

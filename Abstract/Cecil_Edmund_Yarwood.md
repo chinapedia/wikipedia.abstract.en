@@ -1,1 +1,0 @@
-CECIL EDMUND YARWOOD (1908–1981) was an American-Canadian plant pathologist whose work focused on obligate parasites of plants, viruses, and conditions that predisposed plants to infections. He is considered an authority on rust (fungus) and powdery mildew.[1]

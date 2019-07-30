@@ -1,1 +1,0 @@
-BANGLADESH JUDICIAL SERVICE COMMISSION is a government commission that is responsible for the recruitment and examination of judges in Bangladesh and is located in Dhaka, Bangladesh.[1][2] Hasan Foez Siddique is the present chairman of the commission.[3]

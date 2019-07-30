@@ -1,1 +1,0 @@
-The_Towers_formerly_Bracknell,_corner_of_Lansell_Road_and_St_Georges_Road_Toorak.jpg WILLIAM HENRY ELLERKER (died 1891) was an architect and politician in Melbourne, Victoria, Australia. He was Mayor of St Kilda.[1]

@@ -1,1 +1,0 @@
-WITNICA RAILWAY STATION is a railway station serving the town of Witnica, in the Lubusz Voivodeship, Poland. The station is located on the Tczew–Kostrzyn railway. The train services are operated by Przewozy Regionalne and Arriva.

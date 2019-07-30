@@ -1,1 +1,0 @@
-Aéroport-Roland-Garros.jpg]] Réunion possesses a network of highways, which cover a total distance of 2,784km. Of that length, 2,187 km of the road system is paved. There are no roads going into the cirque of Mafate, thus transportation there has to take place by foot or helicopter.

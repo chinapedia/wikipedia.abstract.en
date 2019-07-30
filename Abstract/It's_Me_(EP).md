@@ -1,1 +1,0 @@
-_IT'S ME_ is the first extended play by South Korea singer Hyolyn and second music release after her album _Love & Hate_ in 2013. The album was released on November 8, 2016 by Starship Entertainment and distributed by LOEN Entertainment.

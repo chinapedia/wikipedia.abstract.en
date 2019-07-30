@@ -1,1 +1,0 @@
-The 1991 MISSISSIPPI GUBERNATORIAL ELECTION took place on November 5, 1991, in order to elect the Governor of Mississippi. Incumbent Democrat Ray Mabus unsuccessfully ran for reelection to a second term. This election marked the first time a Republican was elected Governor of Mississippi since Adelbert Ames in 1873.

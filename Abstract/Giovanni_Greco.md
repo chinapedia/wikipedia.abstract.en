@@ -1,1 +1,0 @@
-GIOVANNI GRECO (born: 11 April 1990) is an Italian badminton player. He started playing badminton in 1999, in a small town near Palermo. He started competing competitively when he was 20,and was selected to join the national team in 2009.[1][2] He participated at the 2013 and 2018 Mediterranean Games, also at the 2015 and 2019 European Games.

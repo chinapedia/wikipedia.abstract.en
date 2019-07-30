@@ -1,1 +1,0 @@
-_INSULOCHAMUS ANNOBONAE_ is a species of beetle in the family Cerambycidae.[1] It was described by Per Olof Christopher Aurivillius as _Monochamus annobonae_ in 1928.[2] It occurs on the island of Annobón, Equatorial Guinea.[3]

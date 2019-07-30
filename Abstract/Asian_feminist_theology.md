@@ -1,1 +1,0 @@
-ASIAN FEMINIST THEOLOGY is a Christian feminist theology developed to be especially relevant to women in Asia. Inspired by both liberation theology and feminist theology, it aims to contextualize them to the conditions and experiences of Asian women.

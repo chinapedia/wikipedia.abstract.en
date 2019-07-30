@@ -1,1 +1,0 @@
-PROBONTO is a knowledge base and ontology of probability distributions.[1][2] ProbOnto 2.5 (released on January 16, 2017) contains over 150 uni- and multivariate distributions and alternative parameterizations, more than 220 relationships and re-parameterization formulas, supporting also the encoding of empirical and univariate mixture distributions.

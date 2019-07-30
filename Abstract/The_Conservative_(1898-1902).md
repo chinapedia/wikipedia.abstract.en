@@ -1,1 +1,0 @@
-Conservative_ne.jpg _THE CONSERVATIVE_ was a weekly newspaper devoted to the discussion of political, economic, and sociological questions published in Nebraska City, Nebraska by Julius Sterling Morton.

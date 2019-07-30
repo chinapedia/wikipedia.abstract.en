@@ -1,1 +1,0 @@
-SUMIT BHADURI (born 1948) is an Indian organometallic chemist and was a senior scientific advisor to Reliance Industries.[1] He is known for his studies on metal-carbonyl clusters and to the polymer-supported catalysis[2] and is credited with the development of technology for the manufacture of Ziegler-Natta polypropylene catalyst which is in use with Reliance Industries.

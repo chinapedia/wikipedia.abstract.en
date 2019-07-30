@@ -1,1 +1,0 @@
-MANASA MOALA MATAELE (born 27 November 1996) is a Fijian and Tongan rugby union player. He plays for Taranaki in the Mitre 10 Cup. He was signed by the Crusaders in 2016 and has played for them since the 2017 Super Rugby season. Mataele plays predominantly as a winger.

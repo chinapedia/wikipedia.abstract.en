@@ -1,1 +1,0 @@
-PATRICK ROEST (; born 7 December 1995) is a Dutch professional long track speed skater who has twice won the World Allround Speed Skating Championships. He is a member of the commercial team of Jumbo-Visma.

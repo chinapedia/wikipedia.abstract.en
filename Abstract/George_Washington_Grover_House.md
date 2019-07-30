@@ -1,1 +1,0 @@
-THE GEORGE WASHINGTON GROVER HOUSE is a two-story house located at 1520 Market (Avenue D) in the East End Historic District of Galveston, Texas. Built in 1859, the house is one of the oldest brick residences in the city.

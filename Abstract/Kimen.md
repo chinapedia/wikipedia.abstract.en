@@ -1,1 +1,0 @@
-_KIMEN_ (The Seed) is a Norwegian film from 1974 directed by Erik Solbakken.[1] It starred Kjell Stormoen, Svein Sturla Hungnes, Ragnhild Michelsen, Helle Ottesen, Helge Jordal, and Ragnhild Hilt. The film was based on the 1940 novel of the same name by Tarjei Vesaas.[2]

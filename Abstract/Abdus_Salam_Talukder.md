@@ -1,1 +1,0 @@
-ABDUS SALAM TALUKDER (4 November 1936 – 20 August 1999) was a Bangladeshi politician and lawyer. He served as the secretary general of Bangladesh Nationalist Party, the State Minister of Law and Parliamentary Affairs and a Jatiya Sangsad member from Jamalpur-4 constituency.[1]

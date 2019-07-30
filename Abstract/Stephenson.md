@@ -1,1 +1,0 @@
-STEPHENSON is a medieval patronymic surname meaning "son of Stephen". The earliest public record is found in the county of Huntingdonshire in 1279. There are variant spellings including Stevenson.[1] People with the surname include:

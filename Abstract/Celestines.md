@@ -1,1 +1,0 @@
-Religieux_célestin.jpg

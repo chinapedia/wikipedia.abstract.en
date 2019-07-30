@@ -1,1 +1,0 @@
-JUAN PABLO ROMERO (born January 30, 1990) is a Mexican boxer. He competed at the 2016 Summer Olympics in the men's welterweight event, in which he was eliminated in the round of 32 by Vincenzo Mangiacapre.[1][2]

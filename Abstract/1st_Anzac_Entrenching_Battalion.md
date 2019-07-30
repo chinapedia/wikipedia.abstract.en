@@ -1,1 +1,0 @@
-The 1ST ANZAC ENTRENCHING BATTALION was a First Australian Imperial Force (AIF) battalion of World War I. It was formed in June 1916 with the role of preparing soldiers for combat with the AIF's infantry battalions. From September that year until the battalion's disbandment in October 1917 it was used as a tunnelling unit.

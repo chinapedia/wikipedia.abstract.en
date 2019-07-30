@@ -1,1 +1,0 @@
-The 1934–35 CYPRIOT CUP was the first edition of the Cypriot Cup. A total of 8 clubs entered the competition. It began on 4 November 1934 with the quarterfinals and concluded on 25 November 1934 with the replay final which was held at GSP Stadium. Enosis Neon Trust won their 1st Cypriot Cup trophy after beating APOEL 1–0 in the final.

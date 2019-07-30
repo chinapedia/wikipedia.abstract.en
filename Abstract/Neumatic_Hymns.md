@@ -1,1 +1,0 @@
-ხელნაწერი_საგალობლები_ნევმებით,_X-XI_საუკუნე.jpg Manuscript with the musical notes, 10th-11th cc. (National Archives of Georgia, fond #1446, manuscript #172) 2 pp. parchment; fragment; dimensions: 143x105; Nuskhuri; ink – brown; title and initials – with cinnabar.

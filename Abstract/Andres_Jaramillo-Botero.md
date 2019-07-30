@@ -1,1 +1,0 @@
-ANDRES JARAMILLO-BOTERO (born March 28, 1964, in Cali, Colombia) is a Colombian-American scientist and professor, working in Computational Chemical Physics, known for his contributions to first-principles based modeling, design and characterization of nanoscale materials[1][2][3][4] and devices.[5][6]

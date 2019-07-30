@@ -1,1 +1,0 @@
-_PATHER DABI_ (_The Right of Way_; or _Demands of the Road_) is a Bengali novel written by Sarat Chandra Chattopadhyay. It was first published as a novel in 1926, after having been initially serialized in the journal _Bangabani_. The book is set in British India.[1][2][3]

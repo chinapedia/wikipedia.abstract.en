@@ -1,1 +1,0 @@
-CHARLES M. RICE is an American virologist whose main area of research is hepatitis C virus. He is a professor of virology at the Rockefeller University. He received the 2016 Lasker Award for Clinical Research, jointly with Ralf F. W. Bartenschlager and Michael J. Sofia.[1][2]

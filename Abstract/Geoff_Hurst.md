@@ -1,1 +1,0 @@
-SIR GEOFFREY CHARLES HURST (born 8 December 1941)[1] is an English former professional footballer. A striker, he remains the only man to score a hat-trick in a World Cup final, when England recorded a 4–2 victory over West Germany at the old Wembley Stadium in 1966.

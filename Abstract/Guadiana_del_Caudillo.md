@@ -1,1 +1,0 @@
-GUADIANA DEL CAUDILLO, also shortened as GUADIANA, is a Spanish town and municipality of the Province of Badajoz, in the autonomous community of Extremadura. The municipality covers an area of and as of 2015 had a population of 2,527 people.[1]

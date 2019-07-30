@@ -1,1 +1,0 @@
-PAVEL JANEČEK (born 7 April 1994) is a Czech swimmer. He competed at the 2016 Summer Olympics in the men's 400 metre individual medley; his time of 4:22.09 in the heats did not qualify him for the final.[1][2]

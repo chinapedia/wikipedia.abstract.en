@@ -1,1 +1,0 @@
-The 2017 WOMEN'S EUROHOCKEY NATIONS CHAMPIONSHIP was the 13th edition of the women's field hockey championship organised by the European Hockey Federation. It was held from 18–26 August 2017 in the Wagener Stadium, Amstelveen, Netherlands.[1] The tournament also served as a qualifier for the 2018 Women's Hockey World Cup, with the winner qualifying.

@@ -1,1 +1,0 @@
-_L'IMBOSCATA_ (Italian for "The ambush") is a studio album by Italian singer-songwriter Franco Battiato, released by Mercury Records in 1996. After some more experimental albums and meditative songs, the album marked the return of Battiato to a rock sound and to a massive commercial success, mainly pushed by the success of the single "La cura".[1]

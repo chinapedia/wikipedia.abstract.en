@@ -9,7 +9,7 @@ In September 2013, the Russian government has given the Tajik military $200 mill
 
 Army
 
-Tajik_National_Army_members_01.jpg Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units. Instead, the Russian Defense Ministry took direct command of the Soviet units there, forcing the Tajik regime to build an army from virtually nothing. During the 1990s, the army was small and had little amounts of native Tajiks in it. The army failed to effectively defend the regime, which resulted in a civil war. The regime was dependent on other Central Asian countries and CIS states on security, to the point that if they decided to withdraw their forces, the regime would collapse.
+Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units. Instead, the Russian Defense Ministry took direct command of the Soviet units there, forcing the Tajik regime to build an army from virtually nothing. During the 1990s, the army was small and had little amounts of native Tajiks in it. The army failed to effectively defend the regime, which resulted in a civil war. The regime was dependent on other Central Asian countries and CIS states on security, to the point that if they decided to withdraw their forces, the regime would collapse.
 
 During the Tajik civil war (1992–1993), the Russian government had around 22,000 to 25,000 troops stationed in Tajikistan to help the regime as part of a defense agreement, which is why the Tajik government was able to survive the war. The war was often thought to have been started by Islamic fundamentalists, but more accurately, it was a war between the regional clans and ethnic groups.
 
@@ -17,11 +17,11 @@ The Tajik regime began assembling their own army in February 1993. The first uni
 
 By the mid 1990s, the National Army numbered to around 3,000. The majority of the officer corps were Russian, mostly veterans of the war in Afghanistan. The Ministry of Defense of Russia continued providing material support for the National Army. It was especially difficult for the Army to create its own military force due to the fact that many Tajiks preferred to serve in the Russian Army, due to the higher pay. Because of military opposition in the country, the regime had the largest military buildup in the Central Asian region. As of 1997, Tajikistan had two motorized rifle brigades (one of them is a training brigade), a special operations brigade and detachment (all primarily intended for the protection of the ruling regime), and a combined aviation squadron. Tajikistan further had a basic set of units and sub units that provide operational, technical and logistic support.
 
-Russia provided much support toward the creation of the national army, and trained command and engineer personnel. An institute of higher military education was created in Tajikistan. Despite the large budget (mostly from Russian taxpayer money) and the adequate training of personnel, the creation of the national army was proceeding very slowly. The army benefited from several United Tajik Opposition units that were experienced from fighting government forces during the civil war, but as of 2006, were poorly maintained and funded. At that time the army had 44 main battle tanks, 34 armored infantry fighting vehicles, 29 armored personnel carriers, 12 pieces of towed artillery, 10 multiple rocket launchers, 9 mortars, and 20 surface-to-air missiles. Парад_в_честь_70-летия_Великой_Победы_-_37.jpg, 9 May 2015]]
+Russia provided much support toward the creation of the national army, and trained command and engineer personnel. An institute of higher military education was created in Tajikistan. Despite the large budget (mostly from Russian taxpayer money) and the adequate training of personnel, the creation of the national army was proceeding very slowly. The army benefited from several United Tajik Opposition units that were experienced from fighting government forces during the civil war, but as of 2006, were poorly maintained and funded. At that time the army had 44 main battle tanks, 34 armored infantry fighting vehicles, 29 armored personnel carriers, 12 pieces of towed artillery, 10 multiple rocket launchers, 9 mortars, and 20 surface-to-air missiles. , 9 May 2015]]
 
 The Tajikistan army in 2007 had two motorized rifle brigades, one mountain brigade, one artillery brigade, one airborne assault brigade, one airborne assault detachment, and one surface-to-air missile regiment. The airborne assault brigade is an elite special forces unit which Tajikistan has made a separate branch from the national army, the Tajik Mobile Forces. Some troops are trained by China, France, India, Russia, and the United States. The Peacekeeping Operations, or PKO Battalion, became one of the best units of the National Army due to it being trained by the National Guard of the United States in a partnership program. The US intended for the battalion to be sent as a peacekeeper unit along with other United Nations forces, perhaps in 2013.
 
-Эмомали_Собирзода.jpg]]
+]]
 
 The national army is being run in a Soviet-style. The American trainers are working on setting up a non-commissioned officer corps within the army to train enlisted personnel, though it is a process that will take time, and for the time being the officers train enlisted personnel. The United States government has decided that after ISAF troops pull out of Afghanistan, tens of millions of dollars worth of equipment will be given to the armies of Tajikistan and Uzbekistan, due to the fact that the Afghan National Army has ties to the Taliban and is not stable.[3]
 
@@ -55,7 +55,7 @@ Aircraft Inventory
 
 National Guard
 
-Presidential_National_Guardsman.jpg The Tajik National Guard is a special task force under direct command of the President of Tajikistan. Formed on 4 December 1992, it was originally a special forces unit known as the Brigade of Special Mission during the 16th session of the Supreme Council of Tajikistan, under the Tajik Interior Ministry. During its first years, the Guard underwent serious testing, which earned the trust of the President and the people. It was the reason why the President changed it from the Special Mission to the Presidential National Guard.
+The Tajik National Guard is a special task force under direct command of the President of Tajikistan. Formed on 4 December 1992, it was originally a special forces unit known as the Brigade of Special Mission during the 16th session of the Supreme Council of Tajikistan, under the Tajik Interior Ministry. During its first years, the Guard underwent serious testing, which earned the trust of the President and the people. It was the reason why the President changed it from the Special Mission to the Presidential National Guard.
 
 Their primary task is ensuring public safety and security. Within two years, four additional units were formed in the towns of Chkalovsk, Kalinin, and Obigarm. They had a similar structure to the rest of the military. Worthy of note is the honesty that the National Guard has exhibited. The Rapid Reaction Force, also called the First Brigade, under Colonel Mahmud Khudoiberdiyev, took part in the Tajik civil war, as part of the Guard and the regular Army. It became one of the most effective fighting units within the Army, but picked a fight with the 11th Brigade. They defeated the 11th, and attempted to take the capitol, but were defeated by another Guard unit and street thugs armed with AK-47s. The colonel and his men fled into Uzbekistan.
 
@@ -66,7 +66,7 @@ Security Forces
 
 Border Troops
 
-Tajikistan_(2617602766).jpg The Border Troops of Tajikistan are responsible for border security and operate often with the Afghan Border Police. Development of the border guard is overseen by the Organization for Security and Co-operation in Europe.[13] A Border Troops Academy is located in Dushanbe, while a Border Troops Training Centre is found to the south in the Rudaki District.[14] In 2011, the Border Troops, along with the National Army and Mobile Forces, took part in a joint war game with Kyrgyzstan on the Kyrgyz-Tajik border. The operation involved eliminating two attacking groups of terrorists.[15]
+The Border Troops of Tajikistan are responsible for border security and operate often with the Afghan Border Police. Development of the border guard is overseen by the Organization for Security and Co-operation in Europe.[13] A Border Troops Academy is located in Dushanbe, while a Border Troops Training Centre is found to the south in the Rudaki District.[14] In 2011, the Border Troops, along with the National Army and Mobile Forces, took part in a joint war game with Kyrgyzstan on the Kyrgyz-Tajik border. The operation involved eliminating two attacking groups of terrorists.[15]
 
 Internal Troops
 
@@ -96,8 +96,6 @@ In June 2014 Global Voices Online reported that the practice of systematic viole
 
 
 Military Academies
-
-Суворовцы_Таджикистана.jpg
 
 -   Mastibek Tashmukhamedov Military Lyceum of the Ministry of Defense of Tajikistan
 -   Military Institute of the Ministry of Defense of Tajikistan

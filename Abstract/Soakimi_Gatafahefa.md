@@ -1,1 +1,0 @@
-SOAKIMI GATAFAHEFA (1838 – 24 May 1896), also known as simply SOAKIMI GATA, a Polynesian transliteration of JOACHIM GATA, was the first Roman Catholic priest from Polynesia. A member of the Society of Mary (Marists), he worked in several Oceanic countries including Tonga, Samoa, Fiji, Wallis and Futuna, and later Australia and New Zealand.[1]

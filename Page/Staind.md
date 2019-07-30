@@ -17,7 +17,7 @@ The album achieved slow success, reaching the No. 1 spot on Billboard's Heatseek
 
 _Break the Cycle_ (2001–2002)
 
-Staind_Lewis.jpg on August 4, 2001.]]
+on August 4, 2001.]]
 
 Staind toured with Limp Bizkit for the Family Values Tour during the fall of 1999, where Aaron Lewis performed an early version of "Outside" with Fred Durst at the Mississippi Coast Coliseum. Staind released their third studio album, _Break the Cycle_, on May 22, 2001. Propelled by the success of the first single, "It's Been Awhile", the album debuted at No. 1 on Billboard's Top 200 Album charts, selling 716,000 copies in its first week.[16] The record's first-week sales were the second highest of any album that year, behind Creed's _Weathered_.[17]
 
@@ -29,8 +29,6 @@ In early 2003, Staind embarked on a worldwide tour to promote the release of the
 
 _Chapter V_ and _The Singles_ (2005–2007)
 
-Staind_band.jpg
-
 Staind's fifth album, titled _Chapter V_, was released on August 9, 2005, and became their third consecutive number one. The album opened to sales of 185,000 and has since been certified platinum in the U.S. The first single, "Right Here", was the biggest success from the album, garnering much mainstream radio play and peaking at number 1 on the mainstream rock chart. "Falling" was released as the second single, followed by "Everything Changes" and "King of All Excuses". Staind went on the road when the album came out, doing live shows and promoting it for a full year, including participating in the Fall Brawl tour with P.O.D., Taproot, and Flyleaf; they also had a solo tour across Europe and a mini-promotional tour in Australia for the first time. Other live shows included a cover of Pantera's "This Love", a tribute to Dimebag Darrell. Staind appeared on _The Howard Stern Show_ on August 10, 2005 to promote _Chapter V_. They performed acoustic renditions of the single "Right Here" and Beetlejuice's song "This is Beetle". In early November 2005, Staind released the limited edition 2-CD/DVD set of _Chapter V_. On September 6, 2006, they performed an acoustic show in the Hiro Ballroom, New York City, that was recorded for their singles collection. The band played sixteen songs, including three covers: Tool's "Sober", Pink Floyd's "Comfortably Numb", and Alice in Chains's "Nutshell".
 
 The collection _The Singles: 1996–2006_ was released on November 14, 2006. It included all the band's singles, the three covers performed at the New York show, and a remastered version of "Come Again" from Staind's first independent release _Tormented_.[25]
@@ -41,7 +39,7 @@ On August 19, 2008, Staind released their sixth album, _The Illusion of Progress
 
 _Staind_ and departure of Jon Wysocki (2010–2012)
 
-Staind.jpgIn March 2010, Aaron Lewis stated the band would start working on their seventh studio album by the end of the year.[27] Lewis had finished recording his country music solo EP and had started a nonprofit organization to reopen his daughter's elementary school in Worthington, Massachusetts.[28] Guitarist Mike Mushok stated in a Q&A session with fans that the band was looking to make a heavy record, but still "explore some of the things we did on the last record and take them somewhere new for us".[29] In a webisode posted on the band's website, Lewis stated that eight songs were written and that "every one of them is as heavy or heavier than the heaviest song on the last record".[30]
+In March 2010, Aaron Lewis stated the band would start working on their seventh studio album by the end of the year.[27] Lewis had finished recording his country music solo EP and had started a nonprofit organization to reopen his daughter's elementary school in Worthington, Massachusetts.[28] Guitarist Mike Mushok stated in a Q&A session with fans that the band was looking to make a heavy record, but still "explore some of the things we did on the last record and take them somewhere new for us".[29] In a webisode posted on the band's website, Lewis stated that eight songs were written and that "every one of them is as heavy or heavier than the heaviest song on the last record".[30]
 
 In December 2010, Staind posted three webisodes from the studio, which featured the band members discussing the writing and recording process of their new album. They announced that as of April 20, they had completed the recording of their seventh and would release it later that year.[31]
 

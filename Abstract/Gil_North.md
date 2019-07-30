@@ -1,1 +1,0 @@
-GIL NORTH (real name GEOFFREY HORNE; 1916-1988) was a British author of detective stories.[1] His novels about Sergeant Cluff, based in Yorkshire were made into a television series, Cluff, by the BBC in the 1960s.

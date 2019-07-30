@@ -1,1 +1,0 @@
-SAN TOSSANO is a Roman Catholic church located just outside the hamlet of Agolla in the town limits of Sefro, province of Macerata, region of Marche, Italy. Another church dedicated to this saint is located in Esanatoglia.

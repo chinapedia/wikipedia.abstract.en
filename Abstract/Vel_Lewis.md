@@ -1,1 +1,0 @@
-VEL LEWIS (legal name is Velbert Lewis, Jr.) is an American contemporary jazz musician born on November 30, 1954 in Philadelphia, Pennsylvania. His primary instrument of choice is the Hammond organ; however he also plays piano, synthesizer keyboards, drums, and electric bass guitar.

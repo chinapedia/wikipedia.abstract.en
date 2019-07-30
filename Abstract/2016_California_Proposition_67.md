@@ -1,1 +1,0 @@
-PROPOSITION 67 was a California ballot proposition on the November 8, 2016 ballot. A "Yes" vote was to approve, and a "No" vote to reject, a statute that prohibits grocery and other stores from providing customers single–use plastic or paper carryout bags but permits the sale of recycled paper bags and reusable bags for a fee.[1]

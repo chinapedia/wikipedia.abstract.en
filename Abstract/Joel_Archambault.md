@@ -1,1 +1,0 @@
-'''Joel Archambault ''' is a Canadian male track cyclist, representing Canada at international competitions. He won the bronze medal at the 2016 Pan American Track Cycling Championships in the team sprint.[1]

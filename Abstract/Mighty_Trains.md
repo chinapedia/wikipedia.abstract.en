@@ -1,1 +1,0 @@
-_MIGHTY TRAINS_ (also known as Megatrains on Discovery Channel Australia[1]) is a documentary television program produced in Canada and aired on Discovery Channel Canada.[2][3] Smithsonian Channel had an executive production role in Season 1.[4] Each episode of the series follows a particular train.

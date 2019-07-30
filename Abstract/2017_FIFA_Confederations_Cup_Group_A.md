@@ -1,1 +1,0 @@
-GROUP A OF THE 2017 FIFA CONFEDERATIONS CUP took place from 17 to 24 June 2017. It consisted of Russia, New Zealand, Portugal, and Mexico. The top two teams, Portugal and Mexico, advanced to the semi-finals.[1]

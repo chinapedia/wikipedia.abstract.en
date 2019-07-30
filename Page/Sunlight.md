@@ -1,4 +1,4 @@
-Ніжний_ранковий_світло.jpg Apollo_7_Florida.jpg.]]
+.]]
 
 SUNLIGHT is a portion of the electromagnetic radiation given off by the Sun, in particular infrared, visible, and ultraviolet light. On Earth, sunlight is filtered through Earth's atmosphere, and is obvious as daylight when the Sun is above the horizon. When the direct solar radiation is not blocked by clouds, it is experienced as SUNSHINE, a combination of bright light and radiant heat. When it is blocked by clouds or reflects off other objects, it is experienced as diffused light. The World Meteorological Organization uses the term "sunshine duration" to mean the cumulative time during which an area receives direct irradiance from the Sun of at least 120 watts per square meter.[1] Other sources indicate an "Average over the entire earth" of "164 Watts per square meter over a 24 hour day".[2]
 
@@ -30,8 +30,6 @@ Dividing the irradiance of 1050 W/m² by the size of the Sun's disk in steradia
 
 Composition and power
 
-Solar_spectrum_en.svg
-
 The spectrum of the Sun's solar radiation is close to that of a black body[9][10] with a temperature of about 5,800 K.[11] The Sun emits EM radiation across most of the electromagnetic spectrum. Although the Sun produces gamma rays as a result of the nuclear-fusion process, internal absorption and thermalization convert these super-high-energy photons to lower-energy photons before they reach the Sun's surface and are emitted out into space. As a result, the Sun does not emit gamma rays from this process, but it does emit gamma rays from solar flares.[12] The Sun also emits X-rays, ultraviolet, visible light, infrared, and even radio waves;[13] the only direct signature of the nuclear process is the emission of neutrinos.
 
 Although the solar corona is a source of extreme ultraviolet and X-ray radiation, these rays make up only a very small amount of the power output of the Sun (see spectrum at right). The spectrum of nearly all solar electromagnetic radiation striking the Earth's atmosphere spans a range of 100 nm to about 1 mm (1,000,000 nm). This band of significant radiation power can be divided into five regions in increasing order of wavelengths:[14]
@@ -52,7 +50,7 @@ Tables of direct solar radiation on various slopes from 0 to 60 degrees north la
 
 Solar constant
 
-Solar_irradiance_spectrum_1992.gif]]
+]]
 
 The SOLAR CONSTANT, a measure of flux density, is the amount of incoming solar electromagnetic radiation per unit area that would be incident on a plane perpendicular to the rays, at a distance of one astronomical unit (AU) (roughly the mean distance from the Sun to Earth). The "solar constant" includes all types of solar radiation, not just the visible light. Its average value was thought to be approximately 1366 W/m²,[18] varying slightly with solar activity, but recent recalibrations of the relevant satellite observations indicate a value closer to 1361 W/m² is more realistic.[19]
 
@@ -66,7 +64,7 @@ SPECTRAL SOLAR IRRADIANCE (SSI) – the spectral distribution of the TSI – has
 
 Intensity in the Solar System
 
-Mars_sunset_PIA00920.jpg''. ]] Different bodies of the Solar System receive light of an intensity inversely proportional to the square of their distance from Sun. A rough table comparing the amount of solar radiation received by each planet in the Solar System follows (from data in 1):
+''. ]] Different bodies of the Solar System receive light of an intensity inversely proportional to the square of their distance from Sun. A rough table comparing the amount of solar radiation received by each planet in the Solar System follows (from data in 1):
 
   Planet or dwarf planet   distance (AU)   Solar radiation (W/m²)
   ------------------------ --------------- ------------------------
@@ -90,7 +88,7 @@ For comparison, sunlight on Saturn is slightly brighter than Earth sunlight at t
 
 Surface illumination
 
-Sun_over_Lake_Hawea,_New_Zealand.jpgs, giving rise to crepuscular rays]] The spectrum of surface illumination depends upon solar elevation due to atmospheric effects, with the blue spectral component dominating during twilight before and after sunrise and sunset, respectively, and red dominating during sunrise and sunset. These effects are apparent in natural light photography where the principal source of illumination is sunlight as mediated by the atmosphere.
+s, giving rise to crepuscular rays]] The spectrum of surface illumination depends upon solar elevation due to atmospheric effects, with the blue spectral component dominating during twilight before and after sunrise and sunset, respectively, and red dominating during sunrise and sunset. These effects are apparent in natural light photography where the principal source of illumination is sunlight as mediated by the atmosphere.
 
 While the color of the sky is usually determined by Rayleigh scattering, an exception occurs at sunset and twilight. "Preferential absorption of sunlight by ozone over long horizon paths gives the zenith sky its blueness when the sun is near the horizon".[29]
 
@@ -99,8 +97,6 @@ See diffuse sky radiation for more details.
 Spectral composition of sunlight at Earth's surface
 
 The Sun may be said to illuminate, which is a measure of the light within a specific sensitivity range. Many animals (including humans) have a sensitivity range of approximately 400–700 nm,[30] and given optimal conditions the absorption and scattering by Earth's atmosphere produces illumination that approximates an equal-energy illuminant for most of this range.[31] The useful range for color vision in humans, for example, is approximately 450–650 nm. Aside from effects that arise at sunset and sunrise, the spectral composition changes primarily in respect to how directly sunlight is able to illuminate. When illumination is indirect, Rayleigh scattering in the upper atmosphere will lead blue wavelengths to dominate. Water vapour in the lower atmosphere produces further scattering and ozone, dust and water particles will also absorb selective wavelengths.[32][33]
-
-Spectrum_of_Sunlight_en.svg
 
 
 Variations in solar irradiance
@@ -141,7 +137,7 @@ The more recent discoveries of coal, petroleum and natural gas are modern extens
 
 Cultural aspects
 
-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg: _Le déjeuner sur l'herbe_ (1862-63)]] The effect of sunlight is relevant to painting, evidenced for instance in works of Eduard Manet and Claude Monet on outdoor scenes and landscapes. Winter_Sunshine.jpg, early 20th century]] Many people find direct sunlight to be too bright for comfort, especially when reading from white paper upon which the sunlight is directly shining. Indeed, looking directly at the Sun can cause long-term vision damage. To compensate for the brightness of sunlight, many people wear sunglasses. Cars, many helmets and caps are equipped with visors to block the Sun from direct vision when the Sun is at a low angle. Sunshine is often blocked from entering buildings through the use of walls, window blinds, awnings, shutters, curtains, or nearby shade trees. Sunshine exposure is needed biologically for the creation of Vitamin D in the skin, a vital compound needed to make strong bone and muscle in the body.
+: _Le déjeuner sur l'herbe_ (1862-63)]] The effect of sunlight is relevant to painting, evidenced for instance in works of Eduard Manet and Claude Monet on outdoor scenes and landscapes. , early 20th century]] Many people find direct sunlight to be too bright for comfort, especially when reading from white paper upon which the sunlight is directly shining. Indeed, looking directly at the Sun can cause long-term vision damage. To compensate for the brightness of sunlight, many people wear sunglasses. Cars, many helmets and caps are equipped with visors to block the Sun from direct vision when the Sun is at a low angle. Sunshine is often blocked from entering buildings through the use of walls, window blinds, awnings, shutters, curtains, or nearby shade trees. Sunshine exposure is needed biologically for the creation of Vitamin D in the skin, a vital compound needed to make strong bone and muscle in the body.
 
 In colder countries, many people prefer sunnier days and often avoid the shade. In hotter countries, the converse is true; during the midday hours, many people prefer to stay inside to remain cool. If they do go outside, they seek shade that may be provided by trees, parasols, and so on.
 

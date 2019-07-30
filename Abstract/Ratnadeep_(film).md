@@ -1,1 +1,0 @@
-_RATNADEEP_ (English title: The Jewelled Lamp) is a 1979 Hindi film written and directed by Basu Chatterjee.[1] The film starred Hema Malini and Girish Karnad in lead roles.[2] The film has music by Rahul Dev Burman with lyrics by Gulzar.

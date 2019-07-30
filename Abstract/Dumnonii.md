@@ -1,1 +1,0 @@
-The DUMNONII or DUMNONES were a British tribe who inhabited Dumnonia, the area now known as Devon and Cornwall (and some areas of present-day Dorset and Somerset) in the further parts of the South West peninsula of Britain, from at least the Iron Age up to the early Saxon period. They were bordered to the east by the Durotriges tribe.

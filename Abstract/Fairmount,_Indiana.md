@@ -1,1 +1,0 @@
-FAIRMOUNT is a town in Fairmount Township, Grant County in the east central part of the U.S. state of Indiana. The population was 2,954 at the 2010 census. It is ninety kilometers (fifty-five miles) northeast of Indianapolis. Largely a bedroom community for nearby Marion, Fairmount is best known as the boyhood home of actor James Dean, who is buried there.

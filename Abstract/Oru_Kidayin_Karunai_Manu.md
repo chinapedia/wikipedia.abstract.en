@@ -1,1 +1,0 @@
-_ORU KIDAYIN KARUNAI MANU_ (English: A scapegoat’s petition for mercy) is a 2017 Tamil drama film, written and directed by Suresh Sangaiah. The film features Vidharth and Raveena Ravi in the lead roles, with a goat playing a pivotal role. _Oru Kidayin Karunai Manu_ is produced by Eros International.[1][2]The film received positives reviews and critical acclaim.[3]

@@ -1,1 +1,0 @@
-In computer science, STRING-SEARCHING ALGORITHMS, sometimes called STRING-MATCHING ALGORITHMS, are an important class of string algorithms that try to find a place where one or several strings (also called patterns) are found within a larger string or text.

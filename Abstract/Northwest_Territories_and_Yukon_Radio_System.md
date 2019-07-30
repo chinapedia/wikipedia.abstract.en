@@ -1,1 +1,0 @@
-The NORTHWEST TERRITORIES AND YUKON RADIO SYSTEM was a radio service spanning the Northwest Territories and the Yukon, in existence from 1923 until 1959. It was created for easy communication between the towns or outposts and the rest of the country and was disbanded in 1959 when the system stations were taken over by the Department of Transport.

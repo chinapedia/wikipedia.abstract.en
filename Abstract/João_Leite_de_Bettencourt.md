@@ -1,1 +1,0 @@
-JOÃO LEITE DE BETTENCOURT (21 August 1916, Nossa Senhora do Rosário - 12 March 1973, Nossa Senhora do Rosário) was a chemist, industrialist and politician from the island of São Miguel in the Portuguese archipelago of the Azores, important for his role in local government and modernization/expansion of the _Fábrica de Cerâmica Lima_.[1]

@@ -1,1 +1,0 @@
-TRACY-LEE BROOK[1] (born 8 July 1971)[2] is an Australian former competitive figure skater. She is a three-time Australian national champion (1986–87 to 1988–89) and competed at the 1988 Winter Olympics.

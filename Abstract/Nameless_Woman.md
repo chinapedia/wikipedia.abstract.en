@@ -1,1 +1,0 @@
-_NAMELESS WOMAN_ (German: _DIE FRAU OHNE NAMEN_) is a 1927 German silent adventure film directed by Georg Jacoby and starring Elga Brink, Jack Trevor and Georg Alexander.[1] It was released in two parts. A pair of American journalists embark on a world-wide tour in which they enjoy many adventures.

@@ -1,1 +1,0 @@
-Mayor of Farmington Hills

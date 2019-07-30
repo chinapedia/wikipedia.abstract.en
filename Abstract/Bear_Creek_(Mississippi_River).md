@@ -1,1 +1,0 @@
-BEAR CREEK is a stream in Marion and Ralls counties in the U.S. state of Missouri.[1] It is a tributary of the Mississippi River. The creek enters the Mississippi on the southeast side of Hannibal.[2]

@@ -1,1 +1,0 @@
-KURT LANGENDORF (11 September 1920 - 2 July 2011) was a German participant in political resistance during the Nazi years. After 1945 he chose an academic career, becoming a university professor and economist, while also engaging in the Union of Persecutees of the Nazi Regime (_"Vereinigung der Verfolgten des Naziregimes"_) and its successor organisation.[1][2]

@@ -1,1 +1,0 @@
-The HENRY'S PUB HOSTAGE INCIDENT was a hostage crisis that occurred on September 28, 1990 at Henry's Pub inside the Hotel Durant in Berkeley, California, United States, when Mehrdad Dashti, who had schizophrenia, held 33 hostages for seven hours, terrorizing them and sexually degrading some of them.

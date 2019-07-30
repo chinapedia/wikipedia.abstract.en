@@ -1,1 +1,0 @@
-CASUAL DINING GROUP (CDG) operates over 300 restaurants in the UK, located from Aberdeen to Plymouth. CDG operates restaurants primarily under the Bella Italia, Café Rouge and Las Iguanas names. It also operates sites under the Belgo, Huxleys, La Tasca, Oriel Grande Brasserie and La Salle brands.

@@ -1,1 +1,0 @@
-ADI PRATAMA (born 2 June 1992) is an Indonesian male badminton player.[1][2] In December 2013, he became an assistant coach of Austrian Badminton Association (Österreichischer Badminton Verband) for the men's single.[3]

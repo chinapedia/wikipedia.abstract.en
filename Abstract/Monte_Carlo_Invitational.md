@@ -1,1 +1,0 @@
-The MONTE CARLO INVITATIONAL was a senior (over 50s) men's professional golf tournament on the European Senior Tour. It was played from 1998 to 2002 at the Monte Carlo Golf Club, La Turbie, Alpes-Maritimes, France. The course is near Mont Agel, in France, as there are no golf courses in Monaco. The Monte Carlo Open was played at the same venue from 1984 to 1992.

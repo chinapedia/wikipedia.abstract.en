@@ -1,1 +1,0 @@
-In 2012, Jourdan Bobbish and Jacob Kudla were two American teenagers tortured and murdered in Detroit after attempting to purchase drugs. The suspects in the killings were Frederick Young and Felando Hunter, who were sentenced to life in prison without parole in 2015.[1][2][3][4][5][6]

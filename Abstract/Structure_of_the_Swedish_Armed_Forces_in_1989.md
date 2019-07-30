@@ -1,1 +1,0 @@
-The following article depicts the structure of the Swedish Armed Forces in 1989 by service branch. In wartime units would come under six multi-service military area commands. These area commands, as well as their wartime structure, can be found in their respective articles listed at Swedish military areas.

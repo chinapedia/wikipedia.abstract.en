@@ -1,1 +1,0 @@
-WILLIAM ALEXANDER BROWN, also known as WILLIAM HENRY BROWN (1815 – 1884),[1] was an African-American playwright and theatrical producer. He is considered the first known Black playwright in America.[2]

@@ -1,1 +1,0 @@
-The POLITICS OF THE CENTRAL AFRICAN REPUBLIC formally take place in a framework of a semi-presidential republic. In this system, the President is the head of state, with a Prime Minister as head of government. Executive power is exercised by the government. Legislative power is vested in both the government and parliament.

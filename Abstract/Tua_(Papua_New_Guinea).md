@@ -1,1 +1,0 @@
-The TUA RIVER is a tributary of the Purari River of Papua New Guinea. It originates in the Eastern Highlands Province and flows through the highlands of the Simbu Province, where it joins the Pio River, giving rise to the Purari.[1]

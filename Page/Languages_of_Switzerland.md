@@ -24,7 +24,7 @@ National languages and linguistic regions
 
 German
 
-Brunig-Napf-Reuss-Linie.png dialects. Marked in red is the Brünig-Napf-Reuss line.]] Hoechstalemannisch.png dialects.]]
+dialects. Marked in red is the Brünig-Napf-Reuss line.]] dialects.]]
 
 The GERMAN-SPEAKING PART OF SWITZERLAND (, , , ) constitutes about 65% of Switzerland (North Western Switzerland, Eastern Switzerland, Central Switzerland, most of the Swiss Plateau and the greater part of the Swiss Alps).
 
@@ -44,7 +44,7 @@ In addition to this more widespread notion of Swiss German dialect, there is als
 
 French
 
-Map_Languages_CH.png Arpitan_francoprovencal_map.jpg language area map with place names in arpitan and historic political divisions.]]
+language area map with place names in arpitan and historic political divisions.]]
 
 ROMANDY (, ,[9] ) is the French-speaking part of Switzerland. It covers the area of the cantons of Geneva, Vaud, Neuchâtel, and Jura as well as the French-speaking parts of the cantons of Bern (German-speaking majority), Valais (French-speaking majority), and Fribourg (French-speaking majority). 1.9 million people (or 24.4% of the Swiss population) live in Romandy.[10]
 
@@ -56,7 +56,7 @@ The term _Romandy_ does not formally exist in the political system, but is used 
 
 Italian
 
-Suisse_italiene.pngITALIAN SWITZERLAND (, , , ) is the Italian-speaking part of Switzerland, which includes the canton of Ticino and the southern part of Graubünden. Italian is also spoken in the Gondo Valley (leading to the Simplon Pass, on the southern part of the watershed) in Valais.
+ITALIAN SWITZERLAND (, , , ) is the Italian-speaking part of Switzerland, which includes the canton of Ticino and the southern part of Graubünden. Italian is also spoken in the Gondo Valley (leading to the Simplon Pass, on the southern part of the watershed) in Valais.
 
 The linguistic region covers an area approximately 3,500 km² and has a total population of around 350,000 inhabitants,[12] with the number of Italophones residing in Switzerland being 545,274 (about 7% of the Swiss population).[13]
 
@@ -64,7 +64,7 @@ The proportion of Italian-speaking inhabitants had been decreasing since the 197
 
 Romansh
 
-Sprachen_GR_2000.png (2000). ]] On the cantonal level, Romansh is an official language only in the trilingual canton of Graubünden, where the municipalities in turn are free to specify their own official languages.
+(2000). ]] On the cantonal level, Romansh is an official language only in the trilingual canton of Graubünden, where the municipalities in turn are free to specify their own official languages.
 
 Significant communities of Romansh speakers remain in the Surselva, the Sursés/Oberhalbstein, the lower Engadin and the Val Müstair.
 
@@ -169,7 +169,7 @@ Besides the national languages and the many varieties of Swiss German, several r
 
 Neo-Latin
 
-Fünffranken_(cropped).jpg with the Latin inscription _Confoederatio Helvetica._]] Bundeshaus_Bern_2009,_Flooffy.jpg
+with the Latin inscription _Confoederatio Helvetica._]]
 
 To avoid having to translate the name of Switzerland in the four national languages,[19] Latin is used on the coins of the Swiss franc (_Helvetia_ or _Confoederatio Helvetica_) and on Swiss stamps (_Helvetia_). The country code top-level domain for Switzerland on the internet is .ch, the abbreviation of the Latin name, _Confoederatio Helvetica_ (Swiss Confederation); similarly, the International vehicle registration code for Swiss automobiles is "CH". The Federal Palace of Switzerland bears the inscription __.
 

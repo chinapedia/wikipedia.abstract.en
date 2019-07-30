@@ -1,1 +1,0 @@
-HABUR is the name of the border crossing point at the Turkish side of the Turkey-Iraq border. In ancient times, especially since the opening of the 15 July Martyrs Bridge, on , trucks coming from Europe, with freight targeting Iraq and Kuwait, and the other Gulf countries in the Mid-East, passed through this border checkpoint.

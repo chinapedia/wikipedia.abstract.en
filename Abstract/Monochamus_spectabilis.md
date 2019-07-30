@@ -1,1 +1,0 @@
-_MONOCHAMUS SPECTABILIS_ is a species of beetle in the family Cerambycidae. It was described by Perroud in 1855, originally under the genus _Lophoptera_. It has a wide distribution throughout Africa. It contains the varietas _Monochamus spectabilis var. immaculipennis_.[1]

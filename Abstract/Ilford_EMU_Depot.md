@@ -1,1 +1,0 @@
-ILFORD EMU DEPOT is a traction maintenance depot located in Ilford, Greater London, England. The depot is situated on the Great Eastern Main Line and is on the north side of the line to the east of Ilford station, between that station and Seven Kings railway station.[1]

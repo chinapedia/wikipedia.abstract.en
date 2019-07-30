@@ -1,1 +1,0 @@
-IHWA MURAL VILLAGE (), is an area of Ihwa-dong, Seoul near Naksan Park that was revitalized by the Ministry of Culture, Sports and Tourism's public art "Ihwa-dong Naksan Project" in 2006, with paintings and installation art of about 70 artists.[1] It is a popular destination for both locals and international tourists for its murals and scenic setting.[2][3][4]

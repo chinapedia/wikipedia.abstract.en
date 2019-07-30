@@ -1,1 +1,0 @@
-ASTERALES [1] is an order of dicotyledonous flowering plants that includes the large family Asteraceae (or Compositae) known for composite flowers made of florets, and ten families related to the Asteraceae.[2]

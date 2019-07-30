@@ -1,1 +1,0 @@
-PLAN C STUDIOS is an Indian motion picture production company founded as an alliance between Anil Ambani’s Reliance Entertainment and the duo Neeraj Pandey & Shital Bhatia’s Friday Filmworks.[1] It is the result of a 50:50 joint venture between the two production houses.

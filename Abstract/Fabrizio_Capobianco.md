@@ -1,1 +1,0 @@
-Fabrizio_Capobianco.jpg FABRIZIO CAPOBIANCO (born December 2, 1970) is an Italian serial entrepreneur based in Silicon Valley. He is the founder and CEO of the sports social network TOK.tv[1] and he also serves as president and chairman of Funambol,[2] a white-label “personal cloud” provider.

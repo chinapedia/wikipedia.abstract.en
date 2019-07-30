@@ -1,1 +1,0 @@
-M. FRED BELL RENTAL COTTAGE is a historic home located at Fulton, Callaway County, Missouri. It was built between about 1893 and 1894, with additions designed by Fulton architect Morris Frederick Bell built about 1904. It is a one-story, Queen Anne / Shingle Style frame cottage with a central hip roof with pinwheel projecting gables. It was restored in the late-1990s.[1]

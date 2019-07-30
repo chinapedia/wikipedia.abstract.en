@@ -1,1 +1,0 @@
-JOHN-HUBERT MEYER (born 19 September 1993) is a South African rugby union player for the in Super Rugby and in the Currie Cup and the in the Rugby Challenge.[1] He can play as a loosehead or tighthead prop.

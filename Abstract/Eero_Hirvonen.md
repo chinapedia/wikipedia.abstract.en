@@ -1,1 +1,0 @@
-EERO HIRVONEN (born 30 January 1996) is a Finnish Nordic combined skier. He was born in Laukaa. He debuted in the World Cup in the 2015–16 season in Lahti, Finland on the 6th of March 2016 finishing 33rd in the Large Hill.[1] His best result in the world cup is 2nd place in the 2016–17 World Cup in Lahti, Finland in January 2017.[2]

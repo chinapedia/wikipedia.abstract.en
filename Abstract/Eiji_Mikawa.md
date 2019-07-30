@@ -1,1 +1,0 @@
-EIJI MIKAWA ( __, 17 August 1933 – 19 June 1999) was a Japanese businessperson and rugby player, who played for the Japan national rugby union team in the 1950s. He worked for Yokogawa Electric from 1956 and became company president in 1993.

@@ -1,1 +1,0 @@
-_BURIOLESTES_ (meaning "Buriol's robber") is a genus of early sauropodomorph dinosaurs from the Late Triassic Santa Maria Formation of the Paraná Basin in southeastern Brazil. It contains one species, _B. SCHULTZI_, named in 2016. The type specimen was found alongside a specimen of the lagerpetid dinosauromorph _Ixalerpeton_.[1]

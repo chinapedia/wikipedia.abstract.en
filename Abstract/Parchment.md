@@ -1,1 +1,0 @@
-Parchment_from_goatskin.jpg stretched on a wooden frame]] קלף,_נוצה_ודיו.jpg PARCHMENT is a writing material made from specially prepared untanned skins of animals—primarily sheep, calves, and goats. It has been used as a writing medium for over two millennia. Vellum is a finer quality parchment made from the skins of young animals such as lambs and young calves.

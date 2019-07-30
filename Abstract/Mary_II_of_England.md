@@ -1,1 +1,0 @@
-MARY II (30 April 1662 – 28 December 1694) was Queen of England, Scotland, and Ireland, co-reigning with her husband, King William III & II, from 1689 until her death. Popular histories usually refer to their joint reign as that of _William and Mary_.

@@ -18,7 +18,7 @@ After Imperial German troops drove out the French, Maximilian Sforza, son of Lud
 
 Sforza rulers of the Duchy of Milan
 
-Italy_1494_shepherd.jpg in 1494. Insert shows the Duchy of Milan ruled by the Visconti family and inherited by the Sforzas.]]
+in 1494. Insert shows the Duchy of Milan ruled by the Visconti family and inherited by the Sforzas.]]
 
 -   Francesco I, 1450–1466
 -   Galeazzo Maria, 1466–1476
@@ -38,8 +38,6 @@ Sforza rulers of Pesaro and Gradara
 
 
 Sforza family tree
-
-Center
 
 -   Muzio Sforza with mistress Lucia da Torsano had 7 illegitimate sons
     -   son Gabriele Sforza archbishop of Milan
@@ -68,41 +66,41 @@ Center
 
 Notable members
 
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Name                    | Portrait                                                       | Relationship to the House of Sforza                                                       |
-+=========================+================================================================+===========================================================================================+
-| Muzio Attendolo         | Muzio_Attendolo_Sforza.jpg                                     | Founder of the House of Sforza                                                            |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Francesco Sforza        | Francesforza.jpg                                               | Son of Muzio Attendolo, first Sforza ruler of Milan                                       |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Bianca Maria Visconti   | biancamati.jpg                                                 | Wife of Francesco I Sforza                                                                |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Galeazzo Maria Sforza   | Giangaleazzosketch.jpg                                         | Son of Francesco I Sforza and Bianca Maria Visconti, Duke of Milan                        |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Gian Galeazzo Sforza    | GianniDavinci.jpg                                              | Son of Galeazzo Maria Sforza                                                              |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Bona Sforza             | Caraglio_Cameo_of_Bona_Sforza.jpg                              | Daughter of Gian Galeazzo Sforza                                                          |
-|                         |                                                                | and Queen of Kingdom of Poland and Grand Princess of Grand Duchy of Lithuania,            |
-|                         |                                                                | as the wife of Sigismund I the Old, King of Kingdom of Poland and Grand Duke of Lithuania |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Bianca Maria Sforza     | Bernhard_Strigel_009.jpg                                       | Daughter of Galeazzo Maria Sforza and                                                     |
-|                         |                                                                | Holy Roman Empress, as the wife of Maximilian I, Holy Roman Emperor                       |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Anna Sforza             | Anna_Maria_Sforza.jpg                                          | Daughter of Galeazzo Maria Sforza and wife of Alfonso I d'Este                            |
-|                         |                                                                | Her successor would be the infamous Lucrezia Borgia                                       |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Caterina Sforza         | Cattysporja.jpg                                                | Illegitimate daughter of Galeazzo Maria Sforza, Duke of Milan                             |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Ludovico Sforza         | Ludosporjailmoro.jpg                                           | Son of Francesco I Sforza and Bianca Maria Visconti, Duke of Milan                        |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Beatrice d'Este         | Bettyeste_sporjawife.jpg                                       | Wife of Ludovico Sforza                                                                   |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Maximilian Sforza       | Massimiliano_Sforza_by_G.A._de_Predis_(Donatus_Grammatica).jpg | Son of Ludovico Sforza, Duke of Milan                                                     |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Francesco II Sforza     | FrancescoIISforza.jpg                                          | Son of Ludovico Sforza, Duke of Milan                                                     |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Giovanni Paolo I Sforza | Giovanni_Paolo_Sforza_with_the_Sforza_symbol.jpg               | Illegitimate son of Ludovico Sforza, first Marquess of Caravaggio                         |
-+-------------------------+----------------------------------------------------------------+-------------------------------------------------------------------------------------------+
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Name                    | Portrait | Relationship to the House of Sforza                                                       |
++=========================+==========+===========================================================================================+
+| Muzio Attendolo         |          | Founder of the House of Sforza                                                            |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Francesco Sforza        |          | Son of Muzio Attendolo, first Sforza ruler of Milan                                       |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Bianca Maria Visconti   |          | Wife of Francesco I Sforza                                                                |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Galeazzo Maria Sforza   |          | Son of Francesco I Sforza and Bianca Maria Visconti, Duke of Milan                        |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Gian Galeazzo Sforza    |          | Son of Galeazzo Maria Sforza                                                              |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Bona Sforza             |          | Daughter of Gian Galeazzo Sforza                                                          |
+|                         |          | and Queen of Kingdom of Poland and Grand Princess of Grand Duchy of Lithuania,            |
+|                         |          | as the wife of Sigismund I the Old, King of Kingdom of Poland and Grand Duke of Lithuania |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Bianca Maria Sforza     |          | Daughter of Galeazzo Maria Sforza and                                                     |
+|                         |          | Holy Roman Empress, as the wife of Maximilian I, Holy Roman Emperor                       |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Anna Sforza             |          | Daughter of Galeazzo Maria Sforza and wife of Alfonso I d'Este                            |
+|                         |          | Her successor would be the infamous Lucrezia Borgia                                       |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Caterina Sforza         |          | Illegitimate daughter of Galeazzo Maria Sforza, Duke of Milan                             |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Ludovico Sforza         |          | Son of Francesco I Sforza and Bianca Maria Visconti, Duke of Milan                        |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Beatrice d'Este         |          | Wife of Ludovico Sforza                                                                   |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Maximilian Sforza       |          | Son of Ludovico Sforza, Duke of Milan                                                     |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Francesco II Sforza     |          | Son of Ludovico Sforza, Duke of Milan                                                     |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
+| Giovanni Paolo I Sforza |          | Illegitimate son of Ludovico Sforza, first Marquess of Caravaggio                         |
++-------------------------+----------+-------------------------------------------------------------------------------------------+
 
 
 In popular culture

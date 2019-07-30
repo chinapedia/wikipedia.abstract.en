@@ -1,1 +1,0 @@
-JULIAN PERKINS is a British conductor and keyboard player (harpsichord, fortepiano and clavichord).[1] He is Founder Director of the early music ensemble Sounds Baroque and Artistic Director of Cambridge Handel Opera Company.[2]

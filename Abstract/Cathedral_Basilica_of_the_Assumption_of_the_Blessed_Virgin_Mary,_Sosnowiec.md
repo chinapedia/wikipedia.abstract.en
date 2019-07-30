@@ -1,1 +1,0 @@
-The CATHEDRAL BASILICA OF THE ASSUMPTION OF THE BLESSED VIRGIN MARY [1] ( ) also called SOSNOWIEC CATHEDRAL is a religious building affiliated with the Catholic Church which is located in the city of Sosnowiec[2] in the European country of Poland.[3][4]

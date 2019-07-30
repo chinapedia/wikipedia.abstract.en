@@ -1,1 +1,0 @@
-BEXLEY HOSPITAL, BEXLEYHEATH was in Bexleyheath (Upton Road) and was founded in 1884 (by paid for by the Bexley United Charities).[1] It was previously called the _Bexley Cottage Hospital and Provident Dispensar._[2] and also _Bexley Cottage Hospital._ Currently known as The Upton center it is run by Oxleas NHS Foundation Trust.[3]

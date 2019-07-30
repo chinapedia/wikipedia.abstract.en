@@ -1,1 +1,0 @@
-PRISON: FIRST & LAST 24 HOURS is a British documentary series that was broadcast between 28 October 2015 and 5 December 2016 on Sky 1. It followed prisoners in four Scottish Prison Service run prisons in Scotland who are either in their first 24 hours of their sentences or are about to be released (liberated in Scotland) from jail.[1]

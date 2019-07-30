@@ -127,7 +127,7 @@ The term "Semantic Web" is often used more specifically to refer to the formats 
 -   Web Ontology Language (OWL), a family of knowledge representation languages
 -   Rule Interchange Format (RIF), a framework of web rule language dialects supporting rule interchange on the Web
 
-Semantic_web_stack.svg.]]
+.]]
 
 The Semantic Web Stack illustrates the architecture of the Semantic Web. The functions and relationships of the components can be summarized as follows:[22]
 

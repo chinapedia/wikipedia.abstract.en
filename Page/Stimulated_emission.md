@@ -1,4 +1,4 @@
-Lasers.JPG STIMULATED EMISSION is the process by which an incoming photon of a specific frequency can interact with an excited atomic electron (or other excited molecular state), causing it to drop to a lower energy level. The liberated energy transfers to the electromagnetic field, creating a new photon with a phase, frequency, polarization, and direction of travel that are all identical to the photons of the incident wave. This is in contrast to spontaneous emission, which occurs at random intervals without regard to the ambient electromagnetic field.
+STIMULATED EMISSION is the process by which an incoming photon of a specific frequency can interact with an excited atomic electron (or other excited molecular state), causing it to drop to a lower energy level. The liberated energy transfers to the electromagnetic field, creating a new photon with a phase, frequency, polarization, and direction of travel that are all identical to the photons of the incident wave. This is in contrast to spontaneous emission, which occurs at random intervals without regard to the ambient electromagnetic field.
 
 The process is identical in form to atomic absorption in which the energy of an absorbed photon causes an identical but opposite atomic transition: from the lower level to a higher energy level. In normal media at thermal equilibrium, absorption exceeds stimulated emission because there are more electrons in the lower energy states than in the higher energy states. However, when a population inversion is present, the rate of stimulated emission exceeds that of absorption, and a net optical amplification can be achieved. Such a gain medium, along with an optical resonator, is at the heart of a laser or maser. Lacking a feedback mechanism, laser amplifiers and superluminescent sources also function on the basis of stimulated emission.
 
@@ -6,8 +6,6 @@ The process is identical in form to atomic absorption in which the energy of an 
 Overview
 
 Electrons and their interactions with electromagnetic fields are important in our understanding of chemistry and physics. In the classical view, the energy of an electron orbiting an atomic nucleus is larger for orbits further from the nucleus of an atom. However, quantum mechanical effects force electrons to take on discrete positions in orbitals. Thus, electrons are found in specific energy levels of an atom, two of which are shown below:
-
-Stimulated_Emission.svg
 
 When an electron absorbs energy either from light (photons) or heat (phonons), it receives that incident quantum of energy. But transitions are only allowed between discrete energy levels such as the two shown above. This leads to emission lines and absorption lines.
 

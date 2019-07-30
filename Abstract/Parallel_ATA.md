@@ -1,1 +1,0 @@
-PARALLEL ATA (PATA), originally , is an interface standard for the connection of storage devices such as hard disk drives, floppy disk drives, and optical disc drives in computers. The standard is maintained by the X3/INCITS committee.[1] It uses the underlying (ATA) and PACKET INTERFACE (ATAPI) standards.

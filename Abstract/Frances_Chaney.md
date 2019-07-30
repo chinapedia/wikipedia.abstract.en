@@ -1,1 +1,0 @@
-FRANCES CHANEY (July 23, 1915 - November 23, 2004) was an actress on stage, on old-time radio and on television. She was perhaps best known, however, for being "ostracized as pro-communist along with her late blacklisted husband, Ring Lardner Jr."[1]

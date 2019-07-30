@@ -1,1 +1,0 @@
-The 2003 SÃO TOMÉ AND PRÍNCIPE COUP D'ÉTAT was an attempted military coup on July 16, 2003. The coup was launched against the government of President Fradique de Menezes, and was led by Major Fernando Pereira. The coup leaders claimed that they had acted to overthrow the government to help stop poverty in the region.

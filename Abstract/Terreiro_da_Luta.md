@@ -1,1 +1,0 @@
-TERREIRO DA LUTA is located north of Monte (Funchal) and the area was once the last stop on the only cog railway (Monte Railway) in Madeira. It is also where the Our Lady of Peace sanctuary () is located.

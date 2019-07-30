@@ -1,1 +1,0 @@
-TIMOTHY R. CLIFFORD, SR. (born November 28, 1958) is a former American football player. He played college football as a quarterback for the Indiana Hoosiers football team from 1977 to 1980. He won the 1979 Chicago Tribune Silver Football trophy in 1979 as the most valuable player in the Big Ten Conference.

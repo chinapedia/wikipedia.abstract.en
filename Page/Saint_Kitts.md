@@ -22,7 +22,7 @@ The youngest volcanic center is Mt. Liamuiga, 5 km in diameter and rising to an 
 
 History
 
-StKitts_Brimstomhill.jpg, 1782, as described by an observer in a French engraving titled "Attaque de Brimstomhill".]]
+, 1782, as described by an observer in a French engraving titled "Attaque de Brimstomhill".]]
 
 During the last Ice Age, the sea level was up to lower and St. Kitts and Nevis were one island along with Saba and Sint Eustatius (also known as Statia).[9]
 

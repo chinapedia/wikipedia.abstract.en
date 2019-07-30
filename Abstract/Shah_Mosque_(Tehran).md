@@ -1,1 +1,0 @@
-The SHAH MOSQUE (), also known as the _' Soltāni Mosque_'[1] () meaning "royal", renamed the IMAM MOSQUE (), after the 1979 Iranian Revolution, is a principal[2] mosque in the northern section of the Grand Bazaar in Tehran, Iran.[3]

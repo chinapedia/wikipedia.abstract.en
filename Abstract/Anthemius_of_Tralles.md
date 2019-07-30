@@ -1,1 +1,0 @@
-ANTHEMIUS OF TRALLES (, Medieval Greek: , _Anthémios o Trallianós_;  – 533  558) was a Greek from Tralles who worked as a geometer and architect in Constantinople, the capital of the Byzantine Empire. With Isidore of Miletus, he designed the Hagia Sophia for Justinian I.

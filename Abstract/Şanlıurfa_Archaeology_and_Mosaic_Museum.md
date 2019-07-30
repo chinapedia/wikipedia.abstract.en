@@ -1,1 +1,0 @@
-ŞANLIURFA ARCHAEOLOGY AND MOSAIC MUSEUM is a museum in Şanlıurfa (also known as Urfa), Turkey. The museum contains remains of Şanlıurfa (known as Edessa in antiquity), Harran (another ancient city which lies southeast of Şanlıurfa), and ruins found in the hydroelectric dam reservoirs of Atatürk Dam, Birecik Dam and Karkamış Dam.

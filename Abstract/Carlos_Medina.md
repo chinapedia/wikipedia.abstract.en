@@ -1,1 +1,0 @@
-_CARLOS MEDINA_ (born 1953 in Barquisimeto) is a Venezuelan visual artist. His work has been shown in Italy, France, Belgium, Yugoslavia, United States, South Korea, Austria, Hungary, Spain, Mexico, Chile, Argentina, Colombia, Panama, Costa Rica and Venezuela.

@@ -1,1 +1,0 @@
-BEARSHARE was a peer-to-peer file sharing application originally created by Free Peers, Inc. for Microsoft Windows and also a rebranded version of iMesh by MusicLab, LLC, tightly integrated with their music subscription service.

@@ -1,1 +1,0 @@
-_NAXA TEXTILIS_[1] is a species of moth which was described by Preyer 1884. _Naxa textilis_ included in the genus _Naxa_ and Geometer moth family.[2][3] No subspecies are listed in the Catalogue of Life .[4]

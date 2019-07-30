@@ -1,1 +1,0 @@
-_A QUIET DREAM_ () is a 2016 South Korean drama film written and directed by Korean-Chinese filmmaker Zhang Lu and starring Han Ye-ri alongside several Korean directors playing her potential suitors, including Park Jung-bum, Yoon Jong-bin and Yang Ik-june. It made its world premiere as the opening film of the 21st Busan International Film Festival on October 6, 2016.[1]

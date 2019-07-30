@@ -1,1 +1,0 @@
-The OLD AEROPLANE COMPANY is an aviation company based in Tyabb, Victoria. Located at Tyabb Airport, it is owned by Judy Pay.[1] It has a collection of antique aircraft on display and works on aviation restoration and maintenance.

@@ -1,1 +1,0 @@
-A GRAND JURY is a jury – a group of citizens – empowered by law to conduct legal proceedings and investigate potential criminal conduct, and determine whether criminal charges should be brought. A grand jury may subpoena physical evidence or a person to testify. A grand jury is separate from the courts, which do not preside over its functioning.[1]

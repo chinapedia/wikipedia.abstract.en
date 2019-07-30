@@ -1,1 +1,0 @@
-SANDRO STRINGARI is an Italian theoretical physicist, who has contributed to the theory of quantum many-body physics, including atomic nuclei, quantum liquids and ultra-cold atomic Bose and Fermi gases. He has developed in a systematic way the sum rule approach to the collective behavior of interacting systems.

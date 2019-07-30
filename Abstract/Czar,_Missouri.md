@@ -1,1 +1,0 @@
-CZAR is an unincorporated community in southeastern Crawford County, in the U.S. state of Missouri.[1] The community was located on the east side of Shoal Creek on Missouri Route Y, approximately four miles north of Viburnum. The Czar church and cemetery are about one-half mile northwest and the Czar Lookout Tower is on a ridge about one mile northeast on Route Y.[2]

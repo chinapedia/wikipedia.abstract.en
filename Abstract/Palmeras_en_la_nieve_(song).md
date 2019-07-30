@@ -1,1 +1,0 @@
-"PALMERAS EN LA NIEVE" () is a song recorded by Spanish singer-songwriter Pablo Alborán for the soundtrack to the Spanish romantic drama film _Palmeras En La Nieve_. The song was released worldwide on 11 December 2015 and peaked at number 23 in Spain in February 2016.

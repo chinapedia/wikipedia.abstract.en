@@ -1,1 +1,0 @@
-TD TRUMP DEUTSCHLAND AG (German for "TD Trump Germany AG") was a venture by Donald Trump planning to trade and build skyscrapers in Germany. In cooperation with Marseille-Kliniken Hamburg, The Trump Organization agreed in August 2000 to found TD Trump Deutschland AG with a common capital stock of {{€|4 million}}, split equally as 2 million for each partner company.[1][2][3]

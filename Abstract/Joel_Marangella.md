@@ -1,1 +1,0 @@
-JOEL MARANGELLA is an American oboist who has performed in concert with many of the world's leading orchestras. A founding member of the Speculum Musicae, he was the principal oboist for the West Australian Symphony Orchestra, and a founding member of the New Music Ensemble.

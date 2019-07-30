@@ -1,1 +1,0 @@
-The RASO DA CATARINA is an ecoregion in the _caatinga_ biome of Bahia and Pernambuco, Brazil. It is a sandstone plateau, much eroded, that is extremely dry for most of the year. Vegetation includes low bushes, often thorny, cacti and bromeliads.

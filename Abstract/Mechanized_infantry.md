@@ -1,1 +1,0 @@
-US_Army_infantrymen_unload_from_an_M113,_1985.jpg

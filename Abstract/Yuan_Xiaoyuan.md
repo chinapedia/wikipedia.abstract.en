@@ -1,1 +1,0 @@
-YUAN XIAOYUAN (25 June 1901 – 17 November 2003), born YUAN XINGJIE, also known as MILLY YUAN and H K YUAN, was a Chinese diplomat, politician, author, linguist, calligrapher, artist, and centenarian. She became China's first female diplomat when she served as vice-consul of the Chinese Embassy in Calcutta (Kolkata), India from 1943 and 1945 during World War II.

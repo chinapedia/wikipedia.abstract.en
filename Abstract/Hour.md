@@ -1,1 +1,0 @@
-DigitalClock_1hour.gif to 1 a.m. on a 24-hour clock with a digital face]] AnalogClockAnimation1_2hands_1h_in_6sec.gif) to 1 on a 12-hour clock with an analog face]] An HOUR (symbol: H;[1] also abbreviated HR.) is a unit of time conventionally reckoned as of a day and scientifically reckoned as 3,599–3,601 seconds, depending on conditions.

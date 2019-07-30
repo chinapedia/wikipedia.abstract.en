@@ -1,1 +1,0 @@
-_HENRY STEPS OUT_ is a 1940 British comedy film directed by Widgey R. Newman and starring George Turner, Margaret Yarde and Wally Patch.[1] On the outbreak of the Second World War an idler is forced to join the army by his domineering wife.

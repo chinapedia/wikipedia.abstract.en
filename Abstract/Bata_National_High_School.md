@@ -1,1 +1,0 @@
-BATA NATIONAL HIGH SCHOOL (Filipino: _"Mataas na Paaralang Pambansa ng Bata"_) is a school in Bacolod City, Philippines.[1] It is built within the barangay itself (Brgy. Bata). The barangay serves as the boundary between the cities of Bacolod and Talisay. Its name was formed by merging the first syllables of the cities.

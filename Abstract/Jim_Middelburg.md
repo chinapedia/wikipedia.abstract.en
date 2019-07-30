@@ -1,1 +1,0 @@
-JIM MIDDELBURG (born 6 January 1993) is a Dutch male badminton player.[1] Born in Delft, Middelburg had been training in DKC badminton club, then he moved to VELO.[2] In 2011, he won bronze medal at the European Junior Badminton Championships in mixed doubles event with his partner Soraya de Visch Eijbergen.[3]

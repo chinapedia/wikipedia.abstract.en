@@ -1,1 +1,0 @@
-According to Citrix, a Citrix Technology Professional (CTP) award is given to individuals "who have invested a significant amount of time and resources to become experts in Citrix products and solutions."[1]The awardees are those who have shared knowledge and helped Citrix with their community presence.[2]

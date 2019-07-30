@@ -1,1 +1,0 @@
-The 7TH HONG KONG AWARDS ceremony, honored the best films of 1987 and took place on 10 April 1988 at Hong Kong Academy for Performing Arts, Wan Chai, Hong Kong. The ceremony was hosted by Lydia Shum and Paul Chung, during the ceremony awards are presented in 14 categories. The ceremony was sponsored by City Entertainment Magazine.

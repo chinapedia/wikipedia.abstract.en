@@ -1,1 +1,0 @@
-।।_Beautiful_Bangladesh_SYleht_।।.jpg BICHNAKANDI () is a village in Rustompur Union in Gowainghat Upazila of Sylhet District in Bangladesh.[1][2] In recent years there has been an influx of tourists to its river.[3]

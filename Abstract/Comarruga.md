@@ -1,1 +1,0 @@
-COMARRUGA (or COMA-RUGA) is a seaside resort in the municipality of El Vendrell, in the province of Tarragona (Catalonia, Spain). It stretches along the 2.3 km long Beach of Comarruga. Until 1946 it made part of the former municipality of Sant Vicenç de Calders.

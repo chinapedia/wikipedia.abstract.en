@@ -1,1 +1,0 @@
-GBALAMUYA is a town in Kambia District in the Northern Province of Sierra Leone.[1] Gbalamuya shares international border with the town of Pamelap located in the Republic of Guinea. Gbalamuya is a busy trading, transportation and business center. Gbalamuya is located about 35 miles from Kambia, and about 130 miles northwest of Freetown.

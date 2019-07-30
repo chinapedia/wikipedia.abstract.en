@@ -1,1 +1,0 @@
-LoAD_vs_Sprint.jpg

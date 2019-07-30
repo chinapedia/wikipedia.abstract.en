@@ -1,1 +1,0 @@
-The HOMELESSNESS REDUCTION ACT 2017 is an Act of the Parliament of the United Kingdom. It amends the Housing Act 1996.[1] The Act started as a Private Member's Bill introduced by Conservative Member of Parliament for Harrow East Bob Blackman.[2]

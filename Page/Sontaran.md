@@ -15,7 +15,7 @@ Sporting an updated design,[1] Sontarans returned to the revived series in the s
 
 Games
 
-Destiny_of_the_Doctors_Sontaran.jpg'', a _Doctor Who_ video game released by BBC Multimedia.]] The origins of the Sontarans have not been revealed in the television series. The _Doctor Who_ role-playing game published by FASA claimed that they were all descended from the genetic stock of General Sontar (or Sontaris), who used newly developed bioengineering techniques to clone millions of duplicates of himself and annihilated the non-clone population. He renamed the race after himself and turned the Sontarans into an expansionist and warlike society set on universal conquest. However, this origin has no basis in anything seen in the television series.
+'', a _Doctor Who_ video game released by BBC Multimedia.]] The origins of the Sontarans have not been revealed in the television series. The _Doctor Who_ role-playing game published by FASA claimed that they were all descended from the genetic stock of General Sontar (or Sontaris), who used newly developed bioengineering techniques to clone millions of duplicates of himself and annihilated the non-clone population. He renamed the race after himself and turned the Sontarans into an expansionist and warlike society set on universal conquest. However, this origin has no basis in anything seen in the television series.
 
 The Sontarans have also appeared as a character in the PC game _Destiny of the Doctors_ released on 5 December 1997, by BBC Multimedia. They can be defeated by firing the occupants of an angry beehive at them.[3]
 
@@ -50,7 +50,7 @@ Characteristics
 
 Culture
 
-Sontaran.jpg'']]
+'']]
 
 The Sontarans are a race of humanoids with a stocky build, greenish brown skin, a distinctive dome-shaped head, and they have only three fingers on each hand, though some members of their species do have five fingers. Their musculature is designed for load-bearing rather than leverage, because of the significant amount of gravity on their home planet. Ross Jenkins in "The Sontaran Stratagem" describes a Sontaran as resembling "a talking baked potato". Sontarans come from a large, dense planet named Sontar in the "southern spiral arm of the galaxy" which has a very strong gravitational field, which explains their compact stocky form.[6] They are far stronger than humans, and in the recent series are shorter than the average human male.
 

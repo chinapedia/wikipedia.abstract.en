@@ -1,1 +1,0 @@
-ROSHAN RAVINDRA (Sinhala: රොෂාන් රවින්ද්‍ර) is a Sri Lankan actor and producer. He received the Sumathi Award for Best Actor in 2011,[1] and was a nominee for Best Tele-drama Actor in the 2013 Raigam Tele’es.[2]

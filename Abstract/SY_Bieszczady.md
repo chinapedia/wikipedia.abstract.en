@@ -1,1 +1,0 @@
-SY _BIESZCZADY_ was a Polish sailing yacht (built in 1974[1][2]) belonging to the Polish Scouting and Guiding Association[3][4] that sank in the North Sea in the night of 10 September 2000 after a collision with the Hongkong tanker .[5] Of eight crew members on board, only one survived.[6]

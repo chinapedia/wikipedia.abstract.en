@@ -1,1 +1,0 @@
-_FLY WITH THE CRANE_ () is a 2012 Chinese film written and directed by Li Ruijun, and adapted from a novel _Tell Them I've Gone With the White Crane_ by renowned Chinese author Su Tong. It made its premiere at the 69th Venice International Film Festival in 2012.[1][2]

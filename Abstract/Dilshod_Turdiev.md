@@ -1,1 +1,0 @@
-DILSHOD TURDIEV (born 19 October 1991) is an Uzbekistani Greco-Roman wrestler. He competed in the men's Greco-Roman 75 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Viktor Nemeš.[1][2]

@@ -1,1 +1,0 @@
-IBRAHIM GEORGE KHEIRALLA (11 November 1849 - 6 March 1929) was a founder of the first American Bahá'í community along with Anton Haddad. He was born to a Christian family in a village on Mount Lebanon in 1849 and later studied medicine at the Syrian Protestant College in Beirut.[1]

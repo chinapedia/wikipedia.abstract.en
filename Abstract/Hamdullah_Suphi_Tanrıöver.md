@@ -1,1 +1,0 @@
-HAMDULLAH SUPHI TANRIÖVER (1885 – 10 June 1966) was a highly influential Turkish poet, intellectual, diplomat and politician. He adopted his surname Tanrıöver after the Turkish Surname Law was enacted in 1934.

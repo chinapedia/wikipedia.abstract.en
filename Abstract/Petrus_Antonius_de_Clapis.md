@@ -1,1 +1,0 @@
-PETRUS ANTONIUS DE CLAPIS, PETER ANTON VON CLAPIS or PETER ANTON FINARIENSIS (c. 1440, Finale Ligure, Italy - 14 May 1512, Cologne) was an Italian nobleman, priest and humanist, mainly active in Germany. He was a canon of Worms Cathedral and Speyer Cathedral and chancellor of the University of Heidelberg.

@@ -1,1 +1,0 @@
-JACEK BRACIAK (born 12 May 1968)[1] is a Polish film and theater actor. He has appeared in more than 60 films since 1991.[2] He received the Polish Academy Award for Best Supporting Actor for _Edi_[3] and _Rose_.[4]

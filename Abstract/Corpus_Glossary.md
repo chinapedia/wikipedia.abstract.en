@@ -1,1 +1,0 @@
-The CORPUS GLOSSARY is one of many Anglo-Saxon glossaries. Alongside many entries which gloss Latin words with simpler Latin words or explanations, it also includes numerous Old English glossaries on Latin words, making it one of the oldest extant texts in the English language.[1]

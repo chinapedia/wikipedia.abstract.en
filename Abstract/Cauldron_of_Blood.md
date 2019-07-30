@@ -1,1 +1,0 @@
-_CAULDRON OF BLOOD_ (also known as _BLIND MAN'S BUFF_) is a 1971 horror film filmed in Spain and directed by Edward Mann. It stars Boris Karloff and Viveca Lindfors. The original Spanish release title was _El Coleccionista de cadáveres_ (_The Corpse Collector_).[1]

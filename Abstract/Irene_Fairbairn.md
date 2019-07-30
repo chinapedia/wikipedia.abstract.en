@@ -1,1 +1,0 @@
-IRENE FLORENCE FAIRBAIRN (30 March 1899 – 14 March 1974) served as the Chief Commissioner of Guides Australia. She was a 1947 recipient of the Silver Fish Award, the highest adult award in Girlguiding, awarded for outstanding service to Girlguiding combined with service to world Guiding.[1]

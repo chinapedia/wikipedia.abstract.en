@@ -1,1 +1,0 @@
-The BRISTOL AIRPORT RAIL LINK is a proposed light or heavy rail line to serve Bristol Airport in southwest England. The project is currently under consideration by the West of England Local Enterprise Partnership as a means to address "poor connectivity between North Somerset, Bristol Airport and Bristol".[1]

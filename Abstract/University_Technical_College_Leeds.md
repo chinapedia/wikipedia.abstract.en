@@ -1,1 +1,0 @@
-UTC_Leeds,_Sayner_Road_(geograph_5331156).jpg UNIVERSITY TECHNICAL COLLEGE LEEDS is a university technical college (UTC) in Hunslet, Leeds, England, which opened in September 2016. The UTC is sponsored by the University of Leeds and several local employers.[1][2]

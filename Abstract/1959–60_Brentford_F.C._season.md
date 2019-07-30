@@ -1,1 +1,0 @@
-During the 1959–60 English football season, Brentford competed in the Football League Third Division. A strong run in the final 13 matches of the season lifted the Bees from mid-table to a 6th-place finish.

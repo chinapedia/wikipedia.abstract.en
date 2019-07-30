@@ -1,1 +1,0 @@
-MUHAMMAD SOHRAB HOSSAIN is a Bangladesh Awami League politician and the former Minister of Fisheries and Livestock, from April 1972 to March 1973.[1] In the next term he was the Ministry of Housing and Public Works.[2]

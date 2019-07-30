@@ -1,1 +1,0 @@
-AMYGDALIN (from Ancient Greek: __ "almond") is a naturally occurring chemical compound best known for being falsely promoted as a cancer cure. It is found in many plants, but most notably in the seeds (kernels) of apricots, bitter almonds, apples, peaches, and plums.

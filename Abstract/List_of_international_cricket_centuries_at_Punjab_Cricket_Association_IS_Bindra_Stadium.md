@@ -1,1 +1,0 @@
-LightsMohali.png

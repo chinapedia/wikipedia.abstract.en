@@ -1,1 +1,0 @@
-CHASE KEVIN BRISCOE (born December 15, 1994) is an American professional stock car racing driver. He currently competes full-time in the NASCAR Xfinity Series, driving the No. 98 Ford Mustang for Stewart-Haas Racing with Biagi-DenBeste. He also owns World of Outlaws Sprint Car team Briscoe Racing. He won the 2016 ARCA Racing Series championship.

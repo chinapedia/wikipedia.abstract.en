@@ -1,1 +1,0 @@
-Ahijah_and_Jeroboam's_wife.jpg, 1909.]] The WIFE OF JEROBOAM is a character in the Hebrew Bible. She is unnamed in the Masoretic Text, but according to the Septuagint, she was an Egyptian princess called Ano:

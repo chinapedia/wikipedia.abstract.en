@@ -1,1 +1,0 @@
-Loki_and_Hod.jpg tricks Höðr into shooting Baldr]] HÖÐR ( ; often anglicized as HOD, HODER, or HODUR) is a blind god and a son of Odin and Frigg in Norse mythology. Tricked and guided by Loki, he shot the mistletoe arrow which was to slay the otherwise invulnerable Baldr.

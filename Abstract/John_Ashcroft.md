@@ -1,1 +1,0 @@
-JOHN DAVID ASHCROFT (born May 9, 1942) is an American lawyer and former politician who served as the 79th U.S. Attorney General (2001–2005), in the George W. Bush Administration. He later founded The Ashcroft Group, a Washington D.C. lobbying firm.[1]

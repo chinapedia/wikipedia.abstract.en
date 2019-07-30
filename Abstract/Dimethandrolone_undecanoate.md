@@ -1,1 +1,0 @@
-DIMETHANDROLONE UNDECANOATE (DMAU), also known by its developmental code name CDB-4521, is an experimental androgen/anabolic steroid (AAS) and progestogen medication which is under development as a potential birth control pill for men.[1][2][3] It is taken by mouth, but can also be given by injection into muscle.[4][5][6]

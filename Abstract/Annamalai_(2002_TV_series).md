@@ -1,1 +1,0 @@
-_ANNAMALAI_ is an Indian Tamil-language soap opera that aired Monday through Friday on Sun TV from 21 February 2002 to 21 January 2005. The series ended with 757 episodes.[1][2]It was dubbed as _Shivayya_ in Telugu in Gemini TV.

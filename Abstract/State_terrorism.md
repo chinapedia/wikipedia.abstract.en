@@ -1,1 +1,0 @@
-STATE TERRORISM refers to acts of terrorism conducted by a state, whether against foreign targets or against its own citizens.[1][2][3][4][5] There is some disagreement about how to exactly define what is and what is not state terrorism, see "Definition" section below for details.

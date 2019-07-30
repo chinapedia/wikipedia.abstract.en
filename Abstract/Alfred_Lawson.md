@@ -1,1 +1,0 @@
-ALFRED WILLIAM LAWSON (March 24, 1869 – November 29, 1954) was a professional baseball player, manager, and league promoter from 1887 through 1916 and went on to play a pioneering role in the U.S. aircraft industry. He published two early aviation trade journals.

@@ -1,1 +1,0 @@
-_MICROBACTERIUM HALOTOLERANS_ is a Gram-positive, halophilic aerobic, non-spore-forming and non-motile bacterium from the genus of Microbacterium which has been isolated from hypersaline soil in China.[1][2][3][4][5]

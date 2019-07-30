@@ -1,1 +1,0 @@
-RIHON DAIMARY (born 1 January 1960) in Udalguri, Assam is an Indian politician from the state of Assam. He is a member of the Assam Legislative Assembly from the Bodoland People's Front. He became a minister in the Sarbananda Sonowal-led government in 2016. He has been elected for the fourth time from the Udalguri constituency.[1][2][3][4]

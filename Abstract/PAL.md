@@ -1,1 +1,0 @@
-PAL-NTSC-SECAM.svg

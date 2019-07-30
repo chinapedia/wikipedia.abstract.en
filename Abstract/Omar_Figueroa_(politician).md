@@ -1,1 +1,0 @@
-OMAR FIGUEROA is a Belizean politician and a member of the United Democratic Party (UDP). He was elected in January 2015 as Area Representative for the Cayo North constituency in the Cayo District. As of 2016, Figueroa is Minister of State for the Ministry of Agriculture, Fisheries, Forestry, the Environment and Sustainable Development.[1]

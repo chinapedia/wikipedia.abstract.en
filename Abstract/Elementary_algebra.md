@@ -1,1 +1,0 @@
-Polynomialdeg2.svg

@@ -1,1 +1,0 @@
-HUMAYUN AZIZI () was a governor of Kandahar Province, Afghanistan, from April 2015 until 2017.[1] He has previously been minister for parliamentary affairs in the national government.[2] In 2008 Dr Azizi resumed his further studies in plastic surgery in France and received his certificate in 2009.

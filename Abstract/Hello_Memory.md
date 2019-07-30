@@ -1,1 +1,0 @@
-_HELLO MEMORY_ is the debut studio album from American alt-pop group Little Daylight.[1][2] The album was praised by music critics, and debuted at number 20 on the American Heatseekers Album chart.[3] One of the songs on the album, "Overdose," reached number 1 on the Hype Machine chart.[4]

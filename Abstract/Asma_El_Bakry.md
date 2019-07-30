@@ -1,1 +1,0 @@
-ASMA EL BAKRY (28 October 1947 – 5 January 2015) was an Egyptian film director, author and illustrator.[1][2][3] She was born in Cairo, moving to Alexandria as a young girl with her mother and brother. She attended the renowned French school, Notre Dame de Sion and Lycée, and earned a BA in French literature from the University of Alexandria in 1970.[4]

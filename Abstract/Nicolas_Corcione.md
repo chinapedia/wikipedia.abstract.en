@@ -1,1 +1,0 @@
-NICOLAS CORCIONE (born 1969) is since 2013 the president of the Grupo Corcione Foundation,[1] a non-profit organization that focuses on helping children and youth in situations of social vulnerability, through the pillars of education, sports, environmental protection and social contribution.

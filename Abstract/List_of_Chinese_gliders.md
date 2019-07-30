@@ -1,1 +1,0 @@
-This is a LIST OF GLIDERS/SAILPLANES of the world, (this reference lists all gliders with references, where available)[1] Note: Any aircraft can glide for a short time, but gliders are designed to glide for longer.

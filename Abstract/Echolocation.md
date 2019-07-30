@@ -1,1 +1,0 @@
-ECHOLOCATION is the use of "sound" as a form of navigation

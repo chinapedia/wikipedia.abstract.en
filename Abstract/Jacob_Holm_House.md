@@ -1,1 +1,0 @@
-The JACOB HOLM HOUSE is a historic property located at Strandgade 4B in the Christianshavn neighbourhood of Copenhagen, Denmark. It was owned by the wealthy industrialist and shipowner Jacob Holm from 1819 to 1845.

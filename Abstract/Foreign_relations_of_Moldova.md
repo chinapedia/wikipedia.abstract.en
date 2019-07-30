@@ -1,1 +1,0 @@
-After achieving independence from the Soviet Union, the Republic of Moldova established relations with other European countries. A course for European Union integration and neutrality define the country's foreign policy guidelines.

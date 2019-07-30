@@ -1,1 +1,0 @@
-The BULGARIA HOCKEY FEDERATION (BHF) is the governing body of field hockey in Bulgaria. Its headquarters are in Sofia, Bulgaria. It is affiliated to IHF International Hockey Federation and EHF European Hockey Federation.

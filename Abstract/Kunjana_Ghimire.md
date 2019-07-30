@@ -1,1 +1,0 @@
-KUNJANA GHIMIRE (), popularly known by her serial name सुन्तली is a Nepali comedian[1], actor and a social worker. She is one of the main characters of the Nepali TV series Meri Bassai. She is considered one of the Nepal's talented and good comedian ever because she had played various roles in her own sitcom Meri Bassai. She is highly active in social work.[2]

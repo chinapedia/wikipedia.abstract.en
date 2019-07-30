@@ -1,1 +1,0 @@
-SHOBHITA (IAST: Śobhita, r. c. 982-986 CE) was an Indian king belonging to the Naddula Chahamana dynasty. He ruled the area around Naddula (present-day Nadol in Rajasthan), and achieved military successes against a Paramara branch.

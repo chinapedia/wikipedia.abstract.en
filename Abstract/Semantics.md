@@ -1,1 +1,0 @@
-SEMANTICS (from _sēmantikós_, "significant")[1] is the linguistic and philosophical study of meaning in language, programming languages, formal logics, and semiotics. It is concerned with the relationship between _signifiers_—like words, phrases, signs, and symbols—and what they stand for in reality, their denotation.

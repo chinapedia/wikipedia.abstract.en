@@ -14,7 +14,7 @@ In matters of creed, the Sunni tradition upholds the six pillars of _iman_ (fait
 
 Terminology
 
-SA_Blue_Mosque.jpg, Malaysia]]
+, Malaysia]]
 
 (Classical Arabic: ), also commonly referred to as , is a term derived from _{{transl_ ( , plural __ ) meaning "habit", "usual practice",[17] "custom", "tradition". In Arabic, the word is an adjective literally meaning "pertaining to the Sunnah". The Muslim use of this term refers to the sayings and living habits of the prophet Muhammad. In Arabic, this branch of Islam is referred to as __ (), "the people of the sunnah and the community", which is commonly shortened to __ (Arabic أهل السنة).[18][19]
 
@@ -71,7 +71,7 @@ During the Middle Ages, the Mamluk Sultanate in Egypt delineated the acceptable 
 
 Differences in the schools
 
-Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosquée_de_Kairouan_Panorama.jpg (also known as the Mosque of Uqba) was, in particular during the 9th, 10th and 11th centuries, an important center of Islamic learning with an emphasis on the Maliki Madh'hab.[59] It is located in the city of Kairouan in Tunisia]]
+(also known as the Mosque of Uqba) was, in particular during the 9th, 10th and 11th centuries, an important center of Islamic learning with an emphasis on the Maliki Madh'hab.[59] It is located in the city of Kairouan in Tunisia]]
 
 Interpreting Islamic law by deriving specific rulings – such as how to pray – is commonly known as Islamic jurisprudence. The schools of law all have their own particular tradition of interpreting this jurisprudence. As these schools represent clearly spelled out methodologies for interpreting Islamic law, there has been little change in the methodology with regard to each school. While conflict between the schools was often violent in the past,[60] today the schools recognize one another as viable legal methods rather than sources of error or heresy in contrast to one another. Each school has its evidences, and differences of opinion are generally respected.
 

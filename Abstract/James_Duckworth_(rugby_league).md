@@ -1,1 +1,0 @@
-JAMES DUCKWORTH (born 9 April 1994, in Leeds, Yorkshire, England) is an English rugby league footballer who plays for the Hunslet Hawks in the Kingstone Press League 1 competition. He plays on the .[1]

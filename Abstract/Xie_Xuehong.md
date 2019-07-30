@@ -1,1 +1,0 @@
-XIE XUEHONG (; 17 October 1901 – 5 November 1970) was a Taiwanese politician. A women's rights activist, she cofounded the Taiwanese Communist Party . Persecuted by the Kuomintang, she escaped to China, where she became a member of the Taiwan Democratic Self-Government League and the Communist Party of China.

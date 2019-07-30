@@ -1,1 +1,0 @@
-GAN SIOW HUANG is a Singaporean air force general. On 1 July 2015, she was promoted to the rank of Brigadier-General, becoming the first female general and the highest ranking female officer in the Singapore Armed Forces (SAF).[1][2]

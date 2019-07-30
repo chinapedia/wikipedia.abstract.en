@@ -1,5 +1,3 @@
-Taj_PopRurPop1958-2005.jpg Old_bearded_man_from_Tajikistan.jpg Tajik003.jpg
-
 The DEMOGRAPHICS OF TAJIKISTAN is about the demographic features of the population of Tajikistan, including population growth, population density, ethnicity, education level, health, economic status, religious affiliations, and other aspects of the population.
 
 
@@ -20,8 +18,6 @@ The following demographic statistics are from the CIA World Factbook,[4] unless 
 
 Ethnic groups
 
-Tajik004.jpg
-
 -   Tajik 84.3%
 -   Uzbek 13.8%
 -   Other 2% (includes Kyrgyz, Russian, Turkmen, Tatar, Arab)
@@ -38,8 +34,6 @@ Languages
 Several dialects of Persian (Central Asian dialects of Persian) are spoken in Tajikistan and it is its official language (officially referred to as Tajik).[8] Russian is widely used in both government and business. The different ethnic minorities speak different languages, for instance Uzbek Turkmen, Kyrgyz and Khowar.[9] In the Gorno-Badakhshan Autonomous Province, Shughni as well as other Pamir languages are spoken. In the northern Yaghnob valley, the Yaghnobi language is still spoken.
 
 Religion
-
-A_Tajikistani_man.jpg
 
 -   Sunni Islam 95%
 -   Shia Islam 3%

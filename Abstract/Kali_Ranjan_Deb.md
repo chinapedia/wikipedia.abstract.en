@@ -1,1 +1,0 @@
-KALI RANJAN DEB is a Bharatiya Janata Party politician from Assam. He has been elected in Assam Legislative Assembly election in 1991, 1996 and 2001 from Katigorah constituency. He was one of the first politician from BJP-Assam to have been nominated thrice consecutively.[1][2]

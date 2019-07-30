@@ -24,7 +24,7 @@ It is unknown precisely who the first European to sight the islands was. Some so
 
 European Settlement
 
-_Turks_and_Caicos_Islands_raking_salt_stamp_1938.jpg _Historic_Lighthouse_Park_on_Grand_Turk.jpg]]
+]]
 
 From the mid 1600s Bermudian salt collectors began seasonally visiting the islands, later settling more permanently with their African slaves.[20][21] For several decades around the turn of the 18th century, the islands became popular pirate hideouts.[22] During the Anglo-French War (1778–1783) the French captured the archipelago in 1783, however it was later confirmed as British colony with the Treaty of Paris (1783). After the American War of Independence (1775–1783), many Loyalists fled to British Caribbean colonies, also bringing with them African slaves.[23][24] They developed cotton as an important cash crop, but it was superseded by the development of the salt industry, with the labour done by African slaves forcibly imported from Africa or the other Caribbean islands and their descendants, who soon came to outnumber the European settlers.[25]
 
@@ -42,7 +42,7 @@ In 1848, Britain designated the Turks and Caicos as a separate colony under a co
 
 On 4 July 1959 the islands were again designated as a separate colony, the last commissioner being restyled administrator. The governor of Jamaica also continued as the governor of the islands. When Jamaica was granted independence from Britain in August 1962, the Turks and Caicos Islands became a Crown colony.[39] Beginning in 1965, the governor of the Bahamas was also governor of the Turks and Caicos Islands and oversaw affairs for the islands.[40]
 
-Sharlene-cartwright-robinson.png When the Bahamas gained independence in 1973, the Turks and Caicos received their own governor (the last administrator was restyled).[41] In 1974, Canadian New Democratic Party MP Max Saltsman tried to use his Private Member's Bill for legislation to annex the islands to Canada, but it did not pass in the House of Commons of Canada.[42] Since August 1976, the islands have had their own government headed by a chief minister (now premier), the first of whom was James Alexander George Smith McCartney. Moves towards independence in the early 1980s were stalled by the election of an anti-independence party in 1980 and since then the islands have remained British territory.[43] Local government was suspended from 1986-88, following allegation of government involvement with drug trafficking whicb resulted in the arrest of Chief Minister Norman Saunders.[44][45]
+When the Bahamas gained independence in 1973, the Turks and Caicos received their own governor (the last administrator was restyled).[41] In 1974, Canadian New Democratic Party MP Max Saltsman tried to use his Private Member's Bill for legislation to annex the islands to Canada, but it did not pass in the House of Commons of Canada.[42] Since August 1976, the islands have had their own government headed by a chief minister (now premier), the first of whom was James Alexander George Smith McCartney. Moves towards independence in the early 1980s were stalled by the election of an anti-independence party in 1980 and since then the islands have remained British territory.[43] Local government was suspended from 1986-88, following allegation of government involvement with drug trafficking whicb resulted in the arrest of Chief Minister Norman Saunders.[44][45]
 
 In 2002 the islands were re-designated a British Overseas Territory, with islanders gaining full British citizenship.[46] A new constitution was promulgated in 2006, however in 2009 Premier Michael Misick resigned in the face of corruption charges, and the United Kingdom took over direct control of the government.[47][48] A new constitution was promulgated in October 2012 and the government was returned to full local administration after the November 2012 elections.[49][50]
 
@@ -50,8 +50,6 @@ In the 2016 elections, Rufus Ewing's Progressive National Party (PNP) lost for t
 
 
 Geography
-
-Turks_and_Caicos_Islands_1976_CIA_map.jpg
 
 The two island groups are in the North Atlantic Ocean, southeast of the Bahamas, northeast of Cuba, about north of Hispaniola, and about from Miami in the United States, at . The territory is geographically contiguous to the Bahamas, both comprising the Lucayan Archipelago, but is politically a separate entity. The Caicos Islands are separated by the Caicos Passage from the closest Bahamian islands, Mayaguana and Great Inagua. The nearest foreign landmass from the Turks and Caicos Islands is the Bahamian island of Little Inagua, about 30 miles from West Caicos.
 
@@ -127,7 +125,7 @@ The Turks and Caicos Islands feature tropical climate, with relatively consisten
 
 Politics
 
-Cockburn_Town.jpg, the capital of the Turks and Caicos Islands]] EU_OCT_and_OMR_map_en.png]] The Turks and Caicos Islands are a British Overseas Territory.[63] As a British territory, its sovereign is Queen Elizabeth II of the United Kingdom, represented by a governor appointed by the monarch, on the advice of the Foreign Office.[64] With the election of the territory's first Chief Minister, J.A.G.S. McCartney, the islands first adopted a constitution on 30 August 1976. The national holiday, Constitution Day, is celebrated annually on 30 August.[65]
+, the capital of the Turks and Caicos Islands]] ]] The Turks and Caicos Islands are a British Overseas Territory.[63] As a British territory, its sovereign is Queen Elizabeth II of the United Kingdom, represented by a governor appointed by the monarch, on the advice of the Foreign Office.[64] With the election of the territory's first Chief Minister, J.A.G.S. McCartney, the islands first adopted a constitution on 30 August 1976. The national holiday, Constitution Day, is celebrated annually on 30 August.[65]
 
 The territory's legal system is based on English common law, with a small number of laws adopted from Jamaica and the Bahamas. Suffrage is universal for those over 18 years of age. English is the official language. Grand Turk is the administrative and political capital of the Turks and Caicos Islands and Cockburn Town has been the seat of government since 1766.
 
@@ -274,7 +272,7 @@ Catholics are served by the Mission "Sui Iuris" for Turks and Caicos, which was 
 
 Culture
 
-_Turks_&_Caicos_National_Museum.jpg The Turks and Caicos Islands are perhaps best known musically for ripsaw music, a genre which originated on the islands.[83] The Turks and Caicos Islands are known for their annual Music and Cultural Festival showcasing many local talents and other dynamic performances by many music celebrities from around the Caribbean and United States.
+The Turks and Caicos Islands are perhaps best known musically for ripsaw music, a genre which originated on the islands.[83] The Turks and Caicos Islands are known for their annual Music and Cultural Festival showcasing many local talents and other dynamic performances by many music celebrities from around the Caribbean and United States.
 
 Women continue traditional crafts of using a straw to make baskets and hats on the larger Caicos islands. It is possible that this continued tradition is related to the liberated Africans who joined the population directly from Africa in the 1830s and 1841 from shipwrecked slavers; they brought cultural craft skills with them.[84]
 
@@ -303,7 +301,7 @@ The Turks and Caicos established a National Health System in 2010. Residents con
 
 Economy
 
-TC-grand-turk-cruiseterminal-2.jpg]]
+]]
 
 The economy of Turks and Caicos is dominated by tourism, offshore finance and fishing.[88][89] The US dollar is the main currency used on the islands.
 
@@ -334,7 +332,7 @@ Tourism
 
 Tourism is one of the largest sources of income for the islands, with most visitors coming from America via ship.[94] Tourist arrivals had risen to 264,887 in 2007 and to 351,498 by 2009. In 2010, a total of 245 cruise ships arrived at the Grand Turk Cruise Terminal, carrying a total of 617,863 visitors.[95]
 
-Turks_and_Caicos_Islands_sunset.jpg Grand_Turk_beach.JPG]]
+]]
 
 The government is pursuing a two-pronged strategy to increase tourism. Upscale resorts are aimed at the wealthy, while a large new cruise ship port and recreation centre has been built for the masses visiting Grand Turk. Turks and Caicos Islands has one of the longest coral reefs in the world[96] and the world's only conch farm.[97]
 
@@ -356,7 +354,7 @@ Resorts
 
 Biodiversity
 
-Blue_Tang_and_Squirrelfish.jpg and a Squirrelfish in Princess Alexandra Land and Sea National Park, Providenciales]] Whale-off-south-caicos.jpg breaching off South Caicos]] The Turks and Caicos Islands are a biodiversity hotspot. The islands have many endemic species and others of international importance, due to the conditions created by the oldest established salt-pan development in the Caribbean. The variety of species includes a number of endemic species of lizards, snakes, insects and plants, and marine organisms; in addition to being an important breeding area for seabirds.[107]
+and a Squirrelfish in Princess Alexandra Land and Sea National Park, Providenciales]] breaching off South Caicos]] The Turks and Caicos Islands are a biodiversity hotspot. The islands have many endemic species and others of international importance, due to the conditions created by the oldest established salt-pan development in the Caribbean. The variety of species includes a number of endemic species of lizards, snakes, insects and plants, and marine organisms; in addition to being an important breeding area for seabirds.[107]
 
 The UK and Turks and Caicos Islands Governments have joint responsibility for the conservation and preservation to meet obligations under international environmental conventions.[108]
 
@@ -375,7 +373,7 @@ The islands have no significant railways. In the early twentieth century East Ca
 
 Spaceflight
 
-Grand_Turk,_Replica_of_Friendship_7_-_panoramio.jpg at Grand Turk Airport ]]
+at Grand Turk Airport ]]
 
 From 1950 to 1981, the United States had a missile tracking station on Grand Turk. In the early days of the American space program, NASA used it. After his three earth orbits in 1962, American astronaut John Glenn successfully landed in the nearby ocean and was brought back ashore to Grand Turk island.[114][115]
 

@@ -1,1 +1,0 @@
-, better known as TK, is a singer, songwriter and the lead vocalist and guitarist of the Japanese rock band Ling tosite sigure. In 2011, he started to release solo material as TK FROM LING TOSITE SIGURE,[1] and started to collaborate with Masayuki Nakano from the former electronic music band Boom Boom Satellites.[2]

@@ -1,1 +1,0 @@
-_TINKER TICKER_ () is a 2013 South Korean crime drama film written and directed by Kim Jung-hoon in his first feature-length for his Korean Academy of Film Arts (KAFA) graduation project. Starring Byun Yo-han and Park Jung-min, it follows a bombmaker who meets a detonator.[1]

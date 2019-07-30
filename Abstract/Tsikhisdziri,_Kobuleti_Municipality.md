@@ -1,1 +1,0 @@
-TSIKHISDZIRI () is a village in the Kobuleti Municipality, Autonomous Republic of Adjara, Georgia, on the Black Sea coast, 8 km south of the town of Kobuleti. Tsikhisdziri is home to an archaeological site and ruins of a Late Antique fortified town, which is identified by mainstream scholarship with the Roman-built city-fortress of Petra.

@@ -1,1 +1,0 @@
-SHAHID NAWAZ (born 26 August 1970) is a Pakistani former cricketer. He played 104 first-class matches in Pakistan between 1987 and 2000.[1] He was also part of Pakistan's squad for the 1988 Youth Cricket World Cup.[2]

@@ -1,1 +1,0 @@
-TRASK is an unincorporated community in northern Howell County, in the U.S. state of Missouri.[1] The community is located on Missouri Route V about one mile south of U. S. Route 60 between Willow Springs and Mountain View.[2]

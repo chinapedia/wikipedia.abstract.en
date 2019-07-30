@@ -1,1 +1,0 @@
-DSC09822_Shri_Shakti_Devi_temple_Chamba.jpg of 8th century, in Shri Shakti Devi temple, built by Raja Meru Verman of Bharmour, in Chhatrari, Chamba, Himachal Pradesh.[1]]] ASHTADHATU (literally eight metals), also called octo-alloy is an alloy often used for casting metallic idols in Jain and Hindu temples in India.[2][3][4]

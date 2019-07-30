@@ -1,1 +1,0 @@
-The 1985 FIBA EUROPE UNDER-16 CHAMPIONSHIP FOR WOMEN (known at that time as 1985 EUROPEAN CHAMPIONSHIP FOR CADETTES) was the sixth edition of the FIBA Europe Under-16 Championship for Women. 12 teams featured in the competition, held in Tuzla, then Yugoslavia, from 20 to 27 July 1985.

@@ -1,1 +1,0 @@
-San_Diego,_2016_-_143.jpg San_Diego,_2016_-_144.jpg The TIVOLI BAR AND GRILL is the oldest bar in San Diego, California, located at 505 Sixth Ave. in the Gaslamp Quarter.[1] It opened as a saloon in 1885.[2][3]

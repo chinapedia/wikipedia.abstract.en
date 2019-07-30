@@ -1,1 +1,0 @@
-Tenasillahe_Welch_Islands.jpg TENASILLAHE ISLAND is an island in the Columbia River Estuary portion of the Columbia River in Clatsop County, Oregon.[1] It is separated from the mainland and the unincorporated community of Clifton, Oregon by the Clifton Channel, and from nearby Welch Island by the Red Slough.[2]

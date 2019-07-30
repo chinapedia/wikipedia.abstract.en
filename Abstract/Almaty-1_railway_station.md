@@ -1,1 +1,0 @@
-ALMATY-1 () is a railway station located in the city of Almaty, Kazakhstan, and is one of two principal stations in the city. Almaty-1 serves as a primary point of departure for passengers traveling both within Kazakhstan and internationally. The station was built initially in 1929 and rebuilt between 1969 and 1975.

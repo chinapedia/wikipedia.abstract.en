@@ -1,1 +1,0 @@
-YVONNE MARIE HERVEY, DOWAGER MARCHIONESS OF BRISTOL (_née_ SUTTON; born 1945),[1] is a British peeress, the widow of Victor Hervey, 6th Marquess of Bristol and the mother of the incumbent Frederick Hervey, 8th Marquess of Bristol as well as Lady Victoria Hervey and Lady Isabella Hervey.

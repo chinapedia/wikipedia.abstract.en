@@ -1,1 +1,0 @@
-WILLIAM WHITE was a film producer and actor. The films he has been involved with in production include _Where's Willie?_, and _House of the Black Death_. He also directed _Brother, Cry for Me_, and _Divorce Las Vegas Style_.

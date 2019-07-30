@@ -1,1 +1,0 @@
-The 2017 TCR SCANDINAVIA TOURING CAR CHAMPIONSHIP was the seventh Scandinavian Touring Car Championship season. This season will see the introduction of the TCR regulations. The season started at Ring Knutstorp on 7 May and ended at Mantorp Park on 17 September, after eight rounds.

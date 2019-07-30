@@ -1,1 +1,0 @@
-THE NAZE NATURE RESERVE is a 45 hectare nature reserve on The Naze peninsula north of Walton-on-the-Naze in Essex. It is managed by the Essex Wildlife Trust,.[1] Part of it, The Naze SSSI, is a geological Site of Special Scientific Interest[2][3] and a Geological Conservation Review site.[4][5]

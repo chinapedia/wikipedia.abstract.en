@@ -1,1 +1,0 @@
-EDWARD HUNTER (born 9 June 1943) is a Scottish retired amateur football wing half who made nearly 200 appearances in the Scottish League for Queen's Park.[1] He later managed the club for 15 years.[2] Hunter represented Scotland at amateur level and made one friendly appearance for Great Britain.[3]

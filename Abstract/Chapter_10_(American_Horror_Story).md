@@ -1,1 +1,0 @@
-"CHAPTER 10" is the tenth episode and season finale of the sixth season of the anthology television series _American Horror Story_. It aired on November 16, 2016, on the cable network FX. The episode was written by Ryan Murphy and Brad Falchuk, and directed by Bradley Buecker.

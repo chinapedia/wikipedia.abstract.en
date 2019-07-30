@@ -1,1 +1,0 @@
-The 2017 ANGOLA BASKETBALL SUPER CUP (24th edition) was contested by Primeiro de Agosto, as the 2016 league champion and Recreativo do Libolo, the 2016 cup winner. Recreativo do Libolo won its 3rd title.[1]

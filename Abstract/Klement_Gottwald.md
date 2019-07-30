@@ -1,1 +1,0 @@
-KLEMENT GOTTWALD (23 November 1896 – 14 March 1953) was a Czechoslovak Communist politician, who was the leader of the Communist Party of Czechoslovakia from 1929 until his death in 1953–titled as General Secretary until 1945 and as Chairman from 1945 to 1953. He was the first Communist leader of Czechoslovakia from 1948 to 1953.

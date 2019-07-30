@@ -1,1 +1,0 @@
-FERTILITY AWARENESS (FA) refers to a set of practices used to determine the fertile and infertile phases of a woman's menstrual cycle. Fertility awareness methods may be used to avoid pregnancy, to achieve pregnancy, or as a way to monitor gynecological health.

@@ -1,1 +1,0 @@
-The 1988 BOISE STATE BRONCOS FOOTBALL TEAM represented Boise State University in the 1988 NCAA Division I-AA football season. competed in the Big Sky Conference and played their home games at Bronco Stadium in Boise, Idaho. second-year head coach Skip Hall, finished the season overall and

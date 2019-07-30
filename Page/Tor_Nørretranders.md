@@ -1,4 +1,4 @@
-Share_your_Shit_-_medium_size.jpg in Copenhagen]] TOR NØRRETRANDERS (born June 20, 1955) is a Danish author of popular science. He was born in Copenhagen, Denmark. His books and lectures have primarily been focused on light popular science and its role in society, often with Nørretranders' own advice about how society should integrate new findings in popular science. He introduced the notion of exformation in his book The User Illusion.
+in Copenhagen]] TOR NØRRETRANDERS (born June 20, 1955) is a Danish author of popular science. He was born in Copenhagen, Denmark. His books and lectures have primarily been focused on light popular science and its role in society, often with Nørretranders' own advice about how society should integrate new findings in popular science. He introduced the notion of exformation in his book The User Illusion.
 
 
 Biography

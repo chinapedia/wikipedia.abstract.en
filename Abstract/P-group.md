@@ -1,1 +1,0 @@
-In mathematical group theory, given a prime number _p_, a _P_-GROUP is a group in which each element has a power of _p_ as its order. That is, for each element _g_ of a _p_-group, there exists a nonnegative integer _n_ such that the product of _p^(n)_ copies of _g_, and not fewer, is equal to the identity element. The orders of different elements may be different powers of _p_.

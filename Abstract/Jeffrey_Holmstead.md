@@ -1,1 +1,0 @@
-JEFFREY RALPH "JEFF" HOLMSTEAD is an American energy lobbyist and lawyer. He is a partner with Houston-based Bracewell LLP[1] and a former deputy administrator of the Environmental Protection Agency in the George W. Bush administration.[2][3][4][5][6][7] [8] Bracewell LLP is formerly Bracewell & Giuliani, the international law firm of Rudy Giuliani.

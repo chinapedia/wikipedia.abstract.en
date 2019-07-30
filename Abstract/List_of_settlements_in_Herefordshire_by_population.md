@@ -1,1 +1,0 @@
-This is a LIST OF SETTLEMENTS IN HEREFORDSHIRE BY POPULATION based on the results of the 2011 census. The next United Kingdom census will take place in 2021. In 2011, there were 13 built-up area subdivisions with 1,000 or more inhabitants in Herefordshire, shown in the table below.

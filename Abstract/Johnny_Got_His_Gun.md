@@ -1,1 +1,0 @@
-_JOHNNY GOT HIS GUN_ is an anti-war novel written in 1938 by American novelist, and later blacklisted screenwriter, Dalton Trumbo, and published in September 1939 by J. B. Lippincott.[1] The novel won one of the early National Book Awards: the Most Original Book of 1939.[2] A 1971 film adaptation was written for the screen and directed by Trumbo himself.

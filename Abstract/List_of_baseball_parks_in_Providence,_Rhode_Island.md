@@ -1,1 +1,0 @@
-This is a list of venues used for professional baseball in Providence, Rhode Island. The information is a compilation of the information contained in the references listed. Messer_Street_Grounds,_1879.jpg

@@ -1,1 +1,0 @@
-JAMES EDWARD WASHINGTON JR. (born April 2, 1996) is an American football wide receiver for the Pittsburgh Steelers of the National Football League (NFL). He played college football at Oklahoma State and was drafted by the Steelers in the second round of the 2018 NFL Draft.

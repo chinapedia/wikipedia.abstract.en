@@ -1,1 +1,0 @@
-The MUSTELIDAE (;[1] from Latin _mustela_, weasel) are a family of carnivorous mammals, including weasels, badgers, otters, ferrets, martens, minks, and wolverines, among others. MUSTELIDS ([2]) are a diverse group and form the largest family in the order Carnivora, suborder Caniformia. Mustelidae comprises about 56–60 species across eight subfamilies.[3]

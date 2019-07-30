@@ -1,1 +1,0 @@
-The 2016 CITIZEN SOLDIER 400 was a NASCAR Sprint Cup Series race that was held on October 2, 2016, at Dover International Speedway in Dover, Delaware. Contested over 400 laps on the one-mile (1.6 km) concrete speedway, it was the 29th race of the 2016 NASCAR Sprint Cup Series season, third race of the Chase and final race of the Round of 16.

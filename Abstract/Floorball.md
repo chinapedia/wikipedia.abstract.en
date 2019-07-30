@@ -1,1 +1,0 @@
-FLOORBALL is a type of floor hockey with five players and a goalkeeper in each team. Men and women play indoors with sticks and a plastic ball with holes. Matches are played in three twenty-minute periods. Floorball was included in the World Games for the first time in 2017 in Wroclaw, Poland. Sweden were the first World Games gold medal winners.

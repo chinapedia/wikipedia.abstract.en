@@ -1,1 +1,0 @@
-A LUBRICANT is a substance, usually organic, introduced to reduce friction between surfaces in mutual contact, which ultimately reduces the heat generated when the surfaces move. It may also have the function of transmitting forces, transporting foreign particles, or heating or cooling the surfaces. The property of reducing friction is known as lubricity.

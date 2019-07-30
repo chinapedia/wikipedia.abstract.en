@@ -1,1 +1,0 @@
-ASSOCIATE JUSTICE OF THE SUPREME COURT OF THE UNITED STATES is the title of all members of the Supreme Court of the United States other than the chief justice of the United States. The number of associate justices is eight, as set by the Judiciary Act of 1869.[1]

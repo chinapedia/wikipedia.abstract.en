@@ -1,1 +1,0 @@
-The PURITANS were English Protestants in the 16th and 17th centuries who sought to purify the Church of England of Roman Catholic practices, maintaining that the Church of England had not been fully reformed and needed to become more Protestant.[1] Puritanism played a significant role in English history, especially during the Protectorate.

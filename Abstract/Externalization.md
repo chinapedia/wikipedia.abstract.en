@@ -1,1 +1,0 @@
-In Freudian psychology, EXTERNALIZATION (or EXTERNALISATION) is an unconscious defense mechanism by which an individual "projects" his or her own internal characteristics onto the outside world, particularly onto other people.[1] For example, a patient who is overly argumentative might instead perceive others as argumentative and himself as blameless.

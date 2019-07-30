@@ -1,1 +1,0 @@
-The TX WATCH COMPANY was launched in 2006 by the Timex Group, an international holding group and corporate parent of global watchmaking companies, including Timex Group USA, Inc.,[1] TMX Philippines, Inc., and Timex Group India Ltd.

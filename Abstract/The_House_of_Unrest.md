@@ -1,1 +1,0 @@
-_THE HOUSE OF UNREST_ is a 1931 British mystery film directed by Leslie Howard Gordon and starring Dorothy Boyd, Malcolm Keen and Tom Helmore. It was made as a quota quickie at Cricklewood Studios.[1]

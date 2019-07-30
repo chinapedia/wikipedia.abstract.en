@@ -1,1 +1,0 @@
-SILVIO BERLUSCONI (; born 29 September 1936) is an Italian media tycoon and politician who has served as Prime Minister of Italy in four governments. [1] He serves as a Member of the European Parliament (MEP) since July 2019.[2]

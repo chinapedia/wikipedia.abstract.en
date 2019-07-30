@@ -1,1 +1,0 @@
-The SEAMEN'S BETHEL in Boston was a Methodist church whose pastor was the famous preacher Edward Thompson Taylor. The building was purchased by Italian immigrants and became the SACRED HEART CHURCH in 1888.

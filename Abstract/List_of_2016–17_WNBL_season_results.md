@@ -1,1 +1,0 @@
-The 2016–17 WNBL season is the 37th season of competition since its establishment in 1981. The regular season began on October 7, 2016 when the Sydney Uni Flames host the Perth Lynx and is scheduled to conclude on February 19, 2017. [1]

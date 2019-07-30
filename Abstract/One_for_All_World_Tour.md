@@ -1,1 +1,0 @@
-ONE FOR ALL WORLD TOUR is the ninth concert tour by the Bee Gees in support of their eighteenth studio album _One_. The tour began on 10 April 1989 in Tokyo, Japan and ended on 7 December 1989 in Matsuyama, Japan.

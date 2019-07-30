@@ -1,1 +1,0 @@
-_GOIN' A BUFFALO_ is a 1968 play by Ed Bullins, in which a group of black people in early 1960s Los Angeles try to escape the cycle of crime that dominates their lives and start over in Buffalo, New York.

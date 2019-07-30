@@ -1,1 +1,0 @@
-ROY "SKIP" MORRIS ( - 14 May 2011, Styvechale, Coventry) was a British Scout Leader and recipient of the Silver Wolf Award, the highest award of The Scout Association, "for services of the most exceptional character".

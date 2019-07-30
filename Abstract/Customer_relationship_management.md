@@ -1,1 +1,0 @@
-CUSTOMER RELATIONSHIP MANAGEMENT (CRM) is an approach to manage a company's interaction with current and potential customers. It uses data analysis about customers' history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.[1]

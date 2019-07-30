@@ -1,1 +1,0 @@
-_' Afro Celt Sound System_' is a musical group who fuse electronic music with traditional Irish and West African music. Afro Celt Sound System was formed in 1995 by producer-guitarist Simon Emmerson, and feature a wide range of guest artists.[1] In 2003 they temporarily changed their name to AFROCELTS before reverting to their original name.

@@ -1,1 +1,0 @@
-KIM YOOL-HO (; born February 21, 1985) is a South Korean actor and model, He is best known for his role in _The Map Against the World_, in which he played Prince Geumwi, and the 2016 zombie thriller apocalypse film _Train to Busan_ as "man in suit 2", who helps Yong-suk (played by Kim Eui-sung).[1]

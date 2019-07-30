@@ -1,1 +1,0 @@
-PATRICK ABERCROMBY (1656) was a Scottish physician and antiquarian, noted for being physician to King James VII (II of England) and his fervent opposition to the Act of Union between Scotland and England.

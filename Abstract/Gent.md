@@ -1,1 +1,0 @@
-GENT is a shortened form of the word gentleman. It may also refer to:

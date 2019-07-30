@@ -1,1 +1,0 @@
-SINGULARITY or SINGULAR POINT may refer to:

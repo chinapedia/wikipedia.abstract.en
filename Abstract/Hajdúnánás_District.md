@@ -1,1 +1,0 @@
-HAJDÚNÁNÁS () is a district in north-western part of Hajdú-Bihar County. _Hajdúnánás_ is also the name of the town where the district seat is found. The district is located in the Northern Great Plain Statistical Region. This district is a part of Hajdúság historical and geographical region.

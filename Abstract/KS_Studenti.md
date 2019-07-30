@@ -1,1 +1,0 @@
-KLUBI SPORTIV STUDENTI is an Albanian sports club based in the country's capital Tirana, which represents the University of Tirana.[1] The club consists of various departments including basketball, volleyball shooting and judo. The club is funded by the Ministry of Education and Sport[2]

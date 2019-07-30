@@ -1,1 +1,0 @@
-Bartók_Béla_1927.jpg

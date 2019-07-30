@@ -1,1 +1,0 @@
-The 1916 MEMORIAL at Limerick, Ireland, is one of many erected in the Republic of Ireland to commemorate the dead of the 1916 Easter Rising.[1] Located at Sarsfield Bridge, it was first erected in 1954, as a result of fund-raising efforts begun in 1931.[2] The memorial was designed by sculptor Albert Power.

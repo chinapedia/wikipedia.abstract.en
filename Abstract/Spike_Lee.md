@@ -1,1 +1,0 @@
-SHELTON JACKSON "SPIKE" LEE (born March 20, 1957) is an American film director, producer, writer, and actor. His production company, 40 Acres and a Mule Filmworks, has produced over 35 films since 1983.

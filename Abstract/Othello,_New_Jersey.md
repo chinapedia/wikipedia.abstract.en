@@ -1,1 +1,0 @@
-OTHELLO is an unincorporated community located within Greenwich Township, Cumberland County, New Jersey, United States. It is part of the Greenwich Historic District, which has been on the National Register of Historic Places since 1972.

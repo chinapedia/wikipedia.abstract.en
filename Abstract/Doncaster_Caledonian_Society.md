@@ -1,1 +1,0 @@
-The DONCASTER CALEDONIAN SOCIETY was founded in Doncaster in the 18th century and holds regular meetings for its members at Doncaster Golf Club [1] to promote Scottish culture and traditions in the local area.[2] Meetings consist of celebrations for St. Andrew's Day, Burns Supper and holding monthly seminars.[3]

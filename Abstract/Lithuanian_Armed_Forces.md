@@ -1,1 +1,0 @@
-The LITHUANIAN ARMED FORCES consist of 20,565 active personnel.[1] Conscription was ended in September 2008[2] but was reintroduced in 2015 because of concerns about the geopolitical environment in light of Russia's military intervention in Ukraine.[3]

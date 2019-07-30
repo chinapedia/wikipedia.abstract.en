@@ -1,1 +1,0 @@
-WILLIAM WALTER ROGERS (December 25, 1893 – October 15, 1976) was a highly decorated officer of the United States Marine Corps with the rank of major general, who served as staff officer in the Asiatic-Pacific Theater during World War II.

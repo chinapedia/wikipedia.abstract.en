@@ -1,1 +1,0 @@
-KENNETH WATHEN DUNN (17 May 1912 – 30 July 1976) was an Australian politician who was a Liberal Party member of the Legislative Assembly of Western Australia from 1962 to 1971, representing the seat of Darling Range.

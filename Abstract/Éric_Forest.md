@@ -1,1 +1,0 @@
-ÉRIC FOREST (born April 6, 1952) is a Canadian Senator from Quebec. He was previously Mayor of Rimouski, Quebec from 2005 to 2016 and had been president of the l'Union des municipalités québécoises from 2011 to 2014.

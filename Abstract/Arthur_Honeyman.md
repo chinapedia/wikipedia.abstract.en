@@ -1,1 +1,0 @@
-ARTHUR HONEYMAN (May 10, 1940 – December 8, 2008), also known as ART HONEYMAN, was a poet, author, and disability rights activist.[1][2][3] His book _Sam and his Cart_ was adapted into a movie in 1981.[4] [5] Honeyman is one of the main characters in the 2007 film _Music Within_.[6]

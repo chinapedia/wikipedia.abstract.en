@@ -1,1 +1,0 @@
-MORLEY and MORLEY GREEN are neighbouring hamlets in Wilmslow, Cheshire, England. They are situated approximately north west of Wilmslow town centre. Until 1894 the area formed part of the parish of Pownall Fee.[1]

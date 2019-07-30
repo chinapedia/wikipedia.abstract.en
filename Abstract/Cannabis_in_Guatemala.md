@@ -1,1 +1,0 @@
-CANNABIS IN GUATEMALA, as of 2016, is illegal. Otto Pérez, when he was president of the country, tried to lead a legalization drive, and some congressmen tried to pass a law for legalization, but those efforts failed. A poll conducted in 2012 said that 41% of Guatemalans might support decriminalization.

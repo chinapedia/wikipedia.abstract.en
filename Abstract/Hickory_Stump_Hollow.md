@@ -1,1 +1,0 @@
-HICKORY STUMP HOLLOW is a valley in southeastern Ozark County in the Ozarks of southern Missouri.[1] The valley headwaters lie just south of U.S. Route 160 east of Tecumseh. The stream enters Bridges Creek about one-quarter mile east of the waters of Norfork Lake.[2]

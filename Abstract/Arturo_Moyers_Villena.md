@@ -1,1 +1,0 @@
-ARTURO MOYERS VILLENA (January 2, 1930 – February 3, 2013)[1] was a Mexican muralist and painter, whose work was influenced by David Alfaro Siqueiros. Many of his mural works are exhibited in government buildings or cultural institutions.

@@ -13,7 +13,7 @@ In the 1960s, about 33% of the working population worked at plantations, and 20%
 
 Advent of the tourist industry (1971)
 
-Seychelles_083.JPG.]]
+.]]
 
 Plantations were the main industry of the Seychelles until 1971, when the international airport opened. Overnight, tourism became a serious industry, basically dividing the economy into plantations and tourism. The tourism sector paid better, and the plantation economy could only expand so far.
 
@@ -26,7 +26,7 @@ The Indian Ocean Tracking Station, on Mahé, was closed in August 1996 after the
 
 Current economy
 
-SMB_supermarket,_1984.jpg Since Seychelles' independence in 1976, per capita output has expanded to roughly seven times the old near-subsistence level. Growth has been led by the tourist sector, which employs about 30% of the labor force and provides more than 70% of hard currency earnings, followed by tuna fishing. In recent years the government has encouraged foreign investment in order to upgrade hotels and other services. Seychelles is also a command economy.
+Since Seychelles' independence in 1976, per capita output has expanded to roughly seven times the old near-subsistence level. Growth has been led by the tourist sector, which employs about 30% of the labor force and provides more than 70% of hard currency earnings, followed by tuna fishing. In recent years the government has encouraged foreign investment in order to upgrade hotels and other services. Seychelles is also a command economy.
 
 At the same time, the government has moved to reduce the dependence on tourism by promoting the development of farming, fishing, small-scale manufacturing and most recently the offshore sector. The vulnerability of the tourist sector was illustrated by the sharp drop in 1991-92 due largely to the Gulf War. Although the industry has rebounded, the government recognizes the continuing need for upgrading the sector in the face of stiff international competition. Other issues facing the government are the curbing of the budget deficit and further privatization of public enterprises.
 
@@ -35,8 +35,6 @@ Despite attempts to improve its agricultural base and emphasize locally manufact
 In an effort to increase agricultural self-sufficiency, Seychelles has undertaken steps to make the sector more productive and to provide incentives to farmers. Much of the state holdings in the agricultural sector have been privatized, while the role of the government has been reduced to conducting research and providing infrastructure.
 
 Tourism and fishing
-
-Fisherman_Seychelles.jpg
 
 Tourism is one of the most important sectors of the economy, accounting for approximately 16.6% (2000) of GDP. Employment, foreign earnings, construction, banking, and commerce are all dominated by tourism-related industries. Tourism earned $631 million in 1999-2000. About 130,046 tourists visited Seychelles in 2000, 80.1% of them from Europe (United Kingdom, Italy, France, Germany, and Switzerland).
 

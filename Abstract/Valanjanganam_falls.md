@@ -1,1 +1,0 @@
-VALANJANGANAM FALLS, locally known as _Ninnumullipara_ is a scenic waterfall located in Kuttikkanam in Idukki district, Kerala state. It lies on the Kottayam-Kumily state highway, about 4 km from Kuttikkanam.[1]

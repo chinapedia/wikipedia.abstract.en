@@ -1,1 +1,0 @@
-ADRIANA TARANTO (born 1999) is an Australian football (soccer) player, who plays for Melbourne Victory in the Australian W-League.[1] She has also played for Galaxy United FC in the Victorian Women's Premier League.[2][3] Taranto has represented Australia on the Australia women's national under-17 soccer team.

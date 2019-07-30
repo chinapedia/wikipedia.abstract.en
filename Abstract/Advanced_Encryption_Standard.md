@@ -1,1 +1,0 @@
-The ADVANCED ENCRYPTION STANDARD (AES), also known by its original name RIJNDAEL (),[1] is a specification for the encryption of electronic data established by the U.S. National Institute of Standards and Technology (NIST) in 2001.[2]

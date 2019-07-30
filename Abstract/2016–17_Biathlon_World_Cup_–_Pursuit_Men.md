@@ -1,1 +1,0 @@
-The 2016–17 BIATHLON WORLD CUP – PURSUIT MEN started on Sunday 4 December, 2016 in Östersund and finished on Saturday 18 March, 2017 in Oslo Holmenkollen. The defending titlist was Martin Fourcade of France.

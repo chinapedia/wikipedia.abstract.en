@@ -1,1 +1,0 @@
-_QUARTET (LONDON) 1985_ is a live album by composer and saxophonist Anthony Braxton recorded in England by BBC Radio 3 in 1985 and first released on the Leo label as a limited edition 3LP Box Set in 1988 before being released as a double CD in 1990.[1][2][3][4]

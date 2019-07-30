@@ -1,1 +1,0 @@
-SAINT CATHERINE COLLEGE was founded in 1905 by the Society of Jesus on Florianópolis island off the coast of Brazil, at the request of the Santa Catarina state governor at the time. It is maintained by the Antônio Vieira Society.[1]

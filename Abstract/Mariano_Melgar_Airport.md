@@ -1,1 +1,0 @@
-MARIANO MELGAR AIRPORT is an airport serving the agricultural district of La Joya in the Arequipa Region of Peru. It is named after Peruvian patriot Mariano Melgar. It also serves as the LA JOYA AIR BASE.

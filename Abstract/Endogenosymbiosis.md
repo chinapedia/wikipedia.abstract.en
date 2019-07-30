@@ -1,1 +1,0 @@
-ENDOGENOSYMBIOSIS is an evolutionary process, proposed by the evolutionary and environmental biologist Roberto Cazzolla Gatti, in which "gene carriers" (viruses, retroviruses and bacteriophages) and symbiotic prokaryotic cells (bacteria or archaea) could share parts or all of their genomes in an endogenous symbiotic relationship with their hosts.[1][2][3][4]

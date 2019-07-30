@@ -1,1 +1,0 @@
-Botswana_map_of_Köppen_climate_classification.svg Botswana_Topography.png

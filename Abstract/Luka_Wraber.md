@@ -1,1 +1,0 @@
-LUKA WRABER (born 7 September 1990) is an Austrian badminton player. He started playing badminton at aged 8, and joined the Austrian national badminton team in 2008.[1][2] He competed at the 2015 and 2019 European Games.

@@ -1,1 +1,0 @@
-HERBERT VICTOR NOOTBAAR (November 8, 1908 – December 18, 2016) was an American businessman and philanthropist who endowed to various organizations and institutes, such as Pepperdine University. He is an Ellis Island Medal of Honor recipient.

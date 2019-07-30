@@ -1,1 +1,0 @@
-ROTHSCHILD PARK () is a public park in Frankfurt, Germany. It is located within the central business district known as the Bankenviertel, to the north of the Opera Tower, adjacent to the Opera Square. The park is named for the Rothschild family, a banking family originating in Frankfurt.

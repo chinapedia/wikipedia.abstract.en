@@ -1,1 +1,0 @@
-_KARVVA_ (also spelled as _KARVA_) is a 2016 Indian Kannada horror film written and directed by Navaneeth. The film was produced by Krishna Chaithanya under the banner of Sri Swarnalatha Productions and its theater distribution was handled by Jayanna films.[1] The film was released on 24 May 2016.[2] It was later dubbed in Tamil as _Idam Porul Aavi_.[3][4]

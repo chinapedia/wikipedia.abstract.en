@@ -1,1 +1,0 @@
-LACROSSE ISLAND is an island in the Cambridge Gulf in the Kimberley region of Western Australia, located between Cape Domett on the eastern shore, and Cape Dussejour on the western. The island is in the local government area of the Shire of Wyndham-East Kimberley.

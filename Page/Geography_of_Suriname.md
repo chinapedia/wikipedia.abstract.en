@@ -1,4 +1,4 @@
-Koppen-Geiger_Map_SUR_present.svg Suriname-CIA_WFB_Map.png Suriname_Topography.png Suriname is located in the northern part of South America and is part of Caribbean South America, bordering the North Atlantic Ocean, between French Guiana and Guyana. It is mostly covered by tropical rainforest, containing a great diversity of flora and fauna that, for the most part, are increasingly threatened by new development. There is a relatively small population, most of which live along the coast.
+Suriname is located in the northern part of South America and is part of Caribbean South America, bordering the North Atlantic Ocean, between French Guiana and Guyana. It is mostly covered by tropical rainforest, containing a great diversity of flora and fauna that, for the most part, are increasingly threatened by new development. There is a relatively small population, most of which live along the coast.
 
 
 Location

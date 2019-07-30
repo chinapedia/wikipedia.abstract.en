@@ -1,1 +1,0 @@
-BANGLADESH HOUSE BUILDING FINANCE CORPORATION is a specialized public financial institution that finances the construction and renovation of houses and purchasing residential apartments in all over Bangladesh and its headquarter slocated in Paltan, Dhaka.[1][2]

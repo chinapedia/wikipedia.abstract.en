@@ -1,1 +1,0 @@
-Devonport_Dockyard.jpg and the Hamoaze from the Rame Peninsula, Cornwall]] The HAMOAZE (; ) is an estuarine stretch of the tidal River Tamar, between its confluence with the River Lynher and Plymouth Sound, England.

@@ -1,1 +1,0 @@
-Major General JAMES EDWARD BARRY, (born 7 September 1932)[1] is an Australian businessman, Army Reserve officer, and sports administrator. His appointments have included commander 3rd Division, Executive Member of the Australian Olympic Committee and President of the Australian Gymnastic Federation.[2][3]

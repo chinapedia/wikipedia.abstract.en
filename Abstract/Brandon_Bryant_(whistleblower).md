@@ -1,1 +1,0 @@
-Brandon_Bryant.jpg BRANDON WAYNE BRYANT (born November 18, 1985 in Missoula, Montana[1]) is an American whistleblower. From 2006 to 2011 he was a camera operator (_sensor operator_) of unmanned drones of the United States Air Force. His job was targeted killing.

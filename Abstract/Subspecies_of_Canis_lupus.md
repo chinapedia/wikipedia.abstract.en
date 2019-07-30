@@ -1,1 +1,0 @@
-The historic _Canis lupus_ has 38 subspecies listed in the taxonomic authority _Mammal Species of the World_ (2005, 3rd edition). These subspecies were named over the past 250 years, and since their naming, a number of them have gone extinct. The nominate subspecies is _Canis lupus lupus_.

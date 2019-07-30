@@ -1,1 +1,0 @@
-Puncheon.jpg The PLANK ROAD BOOM was an economic boom in the United States that lasted from 1844 to the mid 1850s. Largely in the Eastern United States and New York, in the span of ten years, over 3,500 miles of plank road were built in New Yorkenough road to go from Manhattan to Californiaand more than 10,000 miles of plank road were built countrywide.[1][2]

@@ -1,1 +1,0 @@
-_THE HAND OF THE VIOLINIST (THE RHYTHMS OF THE BOW)_ is a 1912 painting by Italian Futurist Giacomo Balla, depicting a musician's hand and the neck of a violin "made to look like it's vibrating through space"—blurred and duplicated to suggest the motion of frenetic playing.[1][2] The painting, representative of Futurism's first wave, exhibits techniques of Divisionism.[3]

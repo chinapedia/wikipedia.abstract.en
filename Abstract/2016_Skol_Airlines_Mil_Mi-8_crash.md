@@ -1,1 +1,0 @@
-On 21 October 2016 a Mil Mi-8 helicopter belonging to Skol Airlines crashed in Yamalo-Nenets on the Yamal Peninsula in Siberia, Russia. At least nineteen people were killed and there were three survivors. The helicopter was carrying at least 22 passengers and crew, mostly oil and gas workers.[1][2]

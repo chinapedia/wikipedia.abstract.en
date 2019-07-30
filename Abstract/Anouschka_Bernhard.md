@@ -1,1 +1,0 @@
-'''Anouschka Bernhard ''' (born 5 October 1970 in Waiblingen) is a German women's international footballer who plays as a defender. She is a member of the Germany women's national football team. She was part of the team at the 1995 FIFA Women's World Cup. On club level she plays for FSV Frankfurt in Germany.[1]

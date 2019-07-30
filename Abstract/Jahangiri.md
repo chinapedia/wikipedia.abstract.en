@@ -1,1 +1,0 @@
-The '''Jahangiris ''', also called SWATIS, is a tribe of Pashtun people found in Pakistan, and in some eastern parts of Afghanistan. The JAHANGIRIS (1190-1520), a dynasty, were originally called Sultani.

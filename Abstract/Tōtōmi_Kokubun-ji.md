@@ -1,1 +1,0 @@
-The is situated in the Iwata city of Shizuoka Prefecture. In Japan during Nara period, lot of provincial temples and nunneries were built across the country. This temple was built on the Emperor Shoumu's orders in 741. Shōmu (701 – 756?) decreed both a kokubun-ji for monks and a kokubunni-ji (国分尼寺?) for nuns to be established in each province.

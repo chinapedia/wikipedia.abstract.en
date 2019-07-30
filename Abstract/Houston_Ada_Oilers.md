@@ -1,1 +1,0 @@
-The HOUSTON ADA OILERS was an amateur basketball club located in Houston, Texas, sponsored and run by the Phillips Petroleum Company. The team was created after the huge success the company's other team, the Phillips 66ers, had achieved in the 1940s and early 1950s.

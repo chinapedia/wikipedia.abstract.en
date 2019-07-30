@@ -1,1 +1,0 @@
-The C-2 VISA is a non-immigrant visa which allows individuals to travel to United States for the purpose of immediate and continuous transit to or from the headquarters of the United Nations, or for United Nations officials transiting the US to another foreign nation.[1] The holders of such a visa are considered "geographically restricted nonimmigrants".[2]

@@ -1,1 +1,0 @@
-HILARY WONTNER (3 October 1912 – 25 June 1984) was an English television actor. He appeared in many British and American television series and films, which include _Crossroads_, _No Hiding Place_, _The Avengers_, _Randall and Hopkirk (Deceased)_, _All Creatures Great and Small_, _We'll Meet Again_ and others.

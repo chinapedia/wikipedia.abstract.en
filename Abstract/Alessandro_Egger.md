@@ -1,1 +1,0 @@
-Alessandro_Egger.jpg

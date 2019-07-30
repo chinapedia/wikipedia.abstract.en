@@ -1,1 +1,0 @@
-WILLIAM HALLING (19 March 1744 - 12 April 1796), born VITUS HALLING and after 1772 frequently referred to as BRIGADÉR HALLING, was a Danish nabob and landowner. He owned the Brigadér Halling House in Copenhagen and Dronninglund in Vendsyssel.

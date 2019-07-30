@@ -1,1 +1,0 @@
-CARINA () is a constellation in the southern sky. Its name is Latin for the keel of a ship, and it was formerly part of the larger constellation of Argo Navis (the ship _Argo_) until that constellation was divided into three pieces, the other two being Puppis (the poop deck), and Vela (the sails of the ship).

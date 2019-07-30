@@ -1,1 +1,0 @@
-SIR JOHN ALEXANDER MACDONALD (11 January 1815 – 6 June 1891) was the first prime minister of Canada (1867–1873, 1878–1891). The dominant figure of Canadian Confederation, he had a political career which spanned almost half a century.

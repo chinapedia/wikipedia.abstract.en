@@ -3,13 +3,11 @@ TRANSPORT IN TANZANIA includes road, rail, air and maritime networks. The road n
 
 Roads
 
-Tanroads_sign_Mwanza.jpg to Shinyanga.]] The Tanzania National Roads Agency (TANROADS) - an Executive Agency under the Ministry of Works, Transport and Communications - came into operation in July 2000 and is the agency responsible for the maintenance and development of the trunk and regional road network in Mainland Tanzania. The total classified road network in Mainland Tanzania was estimated to be based on the Road Act 2007. The Ministry of Works through TANROADS is managing the national road network of about , comprising of trunk road and of regional road. The remaining network of about of urban, district and feeder roads is under the responsibility of the Prime Minister's Office Regional Administration and Local Government (PMO-RALG).[2]
+to Shinyanga.]] The Tanzania National Roads Agency (TANROADS) - an Executive Agency under the Ministry of Works, Transport and Communications - came into operation in July 2000 and is the agency responsible for the maintenance and development of the trunk and regional road network in Mainland Tanzania. The total classified road network in Mainland Tanzania was estimated to be based on the Road Act 2007. The Ministry of Works through TANROADS is managing the national road network of about , comprising of trunk road and of regional road. The remaining network of about of urban, district and feeder roads is under the responsibility of the Prime Minister's Office Regional Administration and Local Government (PMO-RALG).[2]
 
 In 2007 there were of roads, of which including was paved. The road network ranked 51st worldwide by length.[3]
 
 Trunk roads
-
-Trunk_road_Tanzania.jpg
 
 -   Dar es Salaam and Dodoma ( entirely paved):[4] The A-7 road links Dar es Salaam and Morogoro. The B-129 road then connects Morogoro with Dodoma.
 -   Dar es Salaam and Iringa ([5] entirely paved): The A-7 road links these cities.
@@ -54,21 +52,20 @@ Most of the trunk roads in Tanzania are marked by numbers following the two-tier
 
 Regional roads
 
-Transportation_in_Tanzania_Traffic_problems.JPG, in the year 2007.]]
+, in the year 2007.]]
 
 -   Mtwara Region: Paved roads link Mtwara and Masasi and from there almost to Nangoma. An unpaved road then leads to Mtambaswala and the modern Unity Bridge on the Mozambique border.[17] The African Development Bank in April 2012 approved a loan to Tanzania to pave this road,[18] followed in April 2013 with an additional loan of 7.659 billion yen (US $77.9 million) from Japan.[19]
 -   Western regions are the most poorly served, with no paved highways except locally in Kigoma and Ujiji. Only one dirt road runs down the western side of the country, it is just a track between Kasulu and Sumbawanga and prone to flooding south of Mpanda. Between Tunduma in the south-west and Nyakanyazi junction near Kibondo in the north-west, a distance of nearly 1000 km, there are no highways in the centre of the country.
 
 International highways
 
-Heading_to_Ngorongoro.jpg]] The Cairo-Cape Town Highway, Highway 4 in the Trans-African Highway network, runs between the northern town of Namanga on the Kenyan border and the Zambian border town of Tunduma in the southwest, via Arusha, Dodoma, Iringa, and Mbeya. The section between the entrance to Tarangire National Park and Iringa has been recently paved between Babati-Kondoa-Dodoma-Iringa. There is no longer a need to traverse a longer eastern route from Arusha to Iringa via Moshi and Morogoro is paved. This route is versus for the Arusha-Dodoma-Iringa route.[20]
+]] The Cairo-Cape Town Highway, Highway 4 in the Trans-African Highway network, runs between the northern town of Namanga on the Kenyan border and the Zambian border town of Tunduma in the southwest, via Arusha, Dodoma, Iringa, and Mbeya. The section between the entrance to Tarangire National Park and Iringa has been recently paved between Babati-Kondoa-Dodoma-Iringa. There is no longer a need to traverse a longer eastern route from Arusha to Iringa via Moshi and Morogoro is paved. This route is versus for the Arusha-Dodoma-Iringa route.[20]
 
 In the southwest, from Iringa to Tunduma, the Cairo-Cape Town Highway follows the Tanzam Highway linking Zambia and Dar es Salaam.
 
 
 Rail transport
 
-Railways_in_Tanzania.svg
 ━━━  TAZARA Railway]]
 
 In 2008 Tanzania had of rail, ranking it 46th in the world by length It includes of Metre gauge and of gauge track. On 31 March 2015 the Tanzanian government announced it would use $14.2 billion of commercial loans to build new rail infrastructure across the country before 2021 and make the country a regional transport hub.[21]
@@ -83,7 +80,7 @@ Isaka Dry Port is a small town and station on the Mwanza Line at its intersectio
 
 TAZARA Railway
 
-Rovos_Rail_on_TAZARA_track_across_Mpanga_River.jpg, a luxury train entering a tunnel on the TAZARA line]]
+, a luxury train entering a tunnel on the TAZARA line]]
 
 The TANZANIA-ZAMBIA RAILWAY AUTHORITY (TAZARA), formerly also called _TanZam Railway_ operates of narrow gauge track (matching Zambian/Southern African networks) between Dar es Salaam and Kapiri Mposhi in Zambia, of which is in Tanzania and in Zambia). It is not a part of Tanzania Railways Corporation, and because of the difference in gauge there is no rail connection between the networks.[23] There is a container trans-shipment yard to transfer freight containers between TAZARA and Tanzania Railways Corporation at Kidatu near Morogoro. This allows containers to be shipped from as far as Uganda and Kenya via the Lake Victoria train ferries and the Kidatu yard to the Southern African rail network via Zambia.
 
@@ -97,7 +94,7 @@ Urban rail
 
 Air transport
 
-Dar_es_Salaam_Airport.jpg]]
+]]
 
 Airports
 
@@ -109,7 +106,7 @@ The government is cognizant of the importance of air travel to the economy and h
 
 Airstrips
 
-Mtemere_Airstrip.jpg in the Selous Game Reserve]] There are a considerable number of both public and private airstrips. Tanzania Airports Authority manages 32 airstrips, such as Morogoro and Singida.
+in the Selous Game Reserve]] There are a considerable number of both public and private airstrips. Tanzania Airports Authority manages 32 airstrips, such as Morogoro and Singida.
 
 The Tanzania National Parks Authority operates 26 airstrips in national parks. Seronera Airstrip is the busiest in the country. Sixty-one airstrips are operated by the Ministry of Natural Resources and Tourism.
 
@@ -118,15 +115,13 @@ Private organisations own 93 aerodromes such as the Tanzania Petroleum Developme
 
 Maritime transport
 
-Zanzibar_Harbour.jpg
-
 Ports and harbours
 
 There is an abundance of coastal and lake waterways. In the central areas there are no navigable lakes or rivers. There is a strong maritime tradition going back centuries. Zanzibar was once the chief port on the East African, Indian Ocean coast. Its hinterland reached into Central Africa as far as the middle Congo River. Swahili traders used dhows to conduct trade though many ports along the coast. This tradition continues today with motorized craft. In 2010, the government announced plans to develop a new port at Mbegani, near Bagamoyo as a deepwater harbour with a two-berth container terminal.[26]
 
 Ferries
 
-M.V._Sengerema.JPG. Crossing of the trunk road from Mwanza to Geita.]]
+. Crossing of the trunk road from Mwanza to Geita.]]
 
 Lake Victoria
 
@@ -147,7 +142,7 @@ In 2008 the merchant fleet consisted of nine Tanzanian-flagged vessels and one r
 
 Other modes
 
-Shume3.jpg at Shume, Lushoto]]
+at Shume, Lushoto]]
 
 Pipeline transport
 

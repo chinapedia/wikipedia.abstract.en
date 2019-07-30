@@ -1,1 +1,0 @@
-JAKE PRAIRIE is an unincorporated community in northwest Crawford County, in the U.S. state of Missouri.[1] The community is located on Missouri Route F approximately eight miles northwest of Cuba.[2]

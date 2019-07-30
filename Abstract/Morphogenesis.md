@@ -1,1 +1,0 @@
-MORPHOGENESIS (from the Greek _morphê_ shape and _genesis_ creation, literally, "beginning of the shape") is the biological process that causes an organism to develop its shape. It is one of three fundamental aspects of developmental biology along with the control of cell growth and cellular differentiation, unified in evolutionary developmental biology (evo-devo).

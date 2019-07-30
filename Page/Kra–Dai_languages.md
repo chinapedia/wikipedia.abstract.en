@@ -65,7 +65,7 @@ The Kra–Dai languages were formerly considered to be part of the Sino-Tibetan 
 
 Austro-Tai
 
-Genesis_of_Daic_languages_and_their_relation_with_Austronesians.png and their relation with Austronesian languages (Blench, 2018)[27]]] Several Western scholars have presented suggestive evidence that Kra–Dai is related to or a branch of the Austronesian language family.[28] There are a number of possible cognates in the core vocabulary. Among proponents, there is yet no agreement as to whether they are a sister group to Austronesian in a family called Austro-Tai, a back-migration from Taiwan to the mainland, or a later migration from the Philippines to Hainan during the Austronesian expansion.[29] Benedict later added Japanese to the proposal.[30]
+and their relation with Austronesian languages (Blench, 2018)[27]]] Several Western scholars have presented suggestive evidence that Kra–Dai is related to or a branch of the Austronesian language family.[28] There are a number of possible cognates in the core vocabulary. Among proponents, there is yet no agreement as to whether they are a sister group to Austronesian in a family called Austro-Tai, a back-migration from Taiwan to the mainland, or a later migration from the Philippines to Hainan during the Austronesian expansion.[29] Benedict later added Japanese to the proposal.[30]
 
 Roger Blench (2018) concludes that Kra-Dai and Austronesian must be related based on the fundamentally shared vocabulary.[31]
 

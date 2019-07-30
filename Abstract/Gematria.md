@@ -1,1 +1,0 @@
-GEMATRIA ( or , plural or , _gematriot_)[1] is an alphanumeric code of assigning a numerical value to a name, word or phrase based on its letters. People who practice gematria believe that words with identical numerical values may bear some relation to each other or to the number itself. A single word can yield multiple values depending on the cipher used.

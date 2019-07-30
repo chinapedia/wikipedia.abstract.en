@@ -1,1 +1,0 @@
-The ruins of the ÜÇAYAK BYZANTINE CHURCH (; "Three-legged Church") are found in Kırşehir Province in Central Anatolia, Turkey. The church is unique in several respects. It is built on a remote location, without any evidence of any artefacts in the surrounding area, apparently in a completely isolated place, with no signs of human habitation.[1][2]

@@ -1,1 +1,0 @@
-STAR CINEPLEX is a Bangladeshi movie theater chain located in the country's one of the biggest shopping malls Bashundhara City.[1] It is owned by Show Motion Limited and the first of its type in Bangladesh.[2][3]

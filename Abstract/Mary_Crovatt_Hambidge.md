@@ -1,1 +1,0 @@
-MARY CROVATT HAMBIDGE (1885-1973) was born in Brunswick, Georgia in 1885 and became an influential weaver in the north Georgia mountains, leaving behind an organization devoted to the artists, which later became known as the Hambidge Center for Creative Arts and Sciences.[1]

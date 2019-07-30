@@ -1,1 +1,0 @@
-EMEM ISONG is a Nigerian screenwriter, film producer, and director. She has become known primarily for films in the English language, and is a dominant figure in that industry. Her second directed feature, _Code of Silence_, which deals with rape in Nigeria, was released in 2015.

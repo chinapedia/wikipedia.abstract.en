@@ -1,1 +1,0 @@
-POWERING POTENTIAL INC. is a 501(c)(3) non-profit organization that provides public co-ed schools in underdeveloped countries with solar-powered computers, open source software, and offline digital libraries. Its headquarters are located in New York, New York.

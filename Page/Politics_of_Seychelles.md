@@ -45,7 +45,7 @@ Three candidates again contested the 1998 presidential election: Albert Rene (SP
 
 The twenty-first century
 
-Seychelles_National_Assembly.jpg Early elections originally set for 2003 were called in August/September 2001. The Government Party SPPF again prevailed, although the main Opposition Party, Seychelles National Party (previously known as the United Opposition Party) headed by Wavel Ramkalawan, made a surprisingly strong showing and collected 46% of the total votes. The DP, headed by Mancham, did not take part in the elections.
+Early elections originally set for 2003 were called in August/September 2001. The Government Party SPPF again prevailed, although the main Opposition Party, Seychelles National Party (previously known as the United Opposition Party) headed by Wavel Ramkalawan, made a surprisingly strong showing and collected 46% of the total votes. The DP, headed by Mancham, did not take part in the elections.
 
 In April 2004, Rene retired as President, passing the office to his Vice President, James Michel. At the next presidential election in July 2006, Michel polled 53.7% of valid votes, Wavel Ramkalawan 45.7% and Phillip Boulle 0.6%. In the May 2007 National Assembly elections, Seychelles People's Progressive Front took 56.2% of votes and Seychelles National Party in coalition with Seychelles Democratic Party took 43.8%. This gave SPPF 18 directly elected seats plus 5 nominated, total 23 seats with the SNP/DP coalition taking 7 directly elected plus 4 nominated, total 11 seats.
 

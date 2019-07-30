@@ -1,1 +1,0 @@
-THE VALIANTS of Philadelphia is a fraternal society of Black and Latino firefighters in Pennsylvania, with the mission of encouraging urban youth to pursue public safety careers and promoting public safety and fire prevention through education.

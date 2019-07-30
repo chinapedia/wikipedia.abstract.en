@@ -1,4 +1,4 @@
-Houghton_54C-508_-_Girodet-Trioson,_Pan_poursuivant_Syrinx.jpg, 1826]]
+, 1826]]
 
 In classical Greek mythology, SYRINX (Greek Σύριγξ) was a nymph and a follower of Artemis, known for her chastity. Pursued by the amorous god Pan, she ran to a river's edge and asked for assistance from the river nymphs. In answer, she was transformed into hollow water reeds that made a haunting sound when the god's frustrated breath blew across them. Pan cut the reeds to fashion the first set of pan pipes, which were thenceforth known as _syrinx_.[1] The word _syringe_ was derived from this word.
 
@@ -25,7 +25,7 @@ In _Dark Places of Wisdom_, Peter Kingsley discusses in some detail the use of t
 
 In art
 
-Jean-François_de_Troy_-_Pan_and_Syrinx.jpg.]] The Britiah Victorian artist Arthur Hacker depicted Syrinx in his 1892 nude. This painting in oil on canvas is currently on display in Manchester Art Gallery.
+.]] The Britiah Victorian artist Arthur Hacker depicted Syrinx in his 1892 nude. This painting in oil on canvas is currently on display in Manchester Art Gallery.
 
 Sculptor Adolph Wolter was commissioned in 1973 to create a replacement for a stolen sculpture of Syrinx in Indianapolis, United States. This work was a replacement for a similar statue by Myra Reynolds Richards that had been stolen. The sculpture sits in University Park located in the city's Indiana World War Memorial Plaza.
 

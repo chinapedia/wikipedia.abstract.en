@@ -1,1 +1,0 @@
-SAMY BADIBANGA NTITA (born 12 September 1962) is a Congolese politician who was Prime Minister of the Democratic Republic of the Congo from November 2016 to May 2017. He was also on the ballot for the 2018 Democratic Republic of the Congo general election as a presidential candidate.

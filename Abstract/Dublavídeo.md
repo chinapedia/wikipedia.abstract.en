@@ -1,1 +1,0 @@
-DUBLAVÍDIO is a dubbing studio located in the city of São Paulo. It is currently responsible for dubbing most Sony Pictures titles in Brazil, including film and television. Also receives several works of 20th Century Fox.[1]

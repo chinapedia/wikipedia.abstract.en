@@ -1,1 +1,0 @@
-SURE (The Standard for Sustainable and Resilient Infrastructure) is a global voluntary standard which integrates key criteria of sustainability and resilience into infrastructure development and upgrade. It has been developed by the Swiss Global Infrastructure Basel Foundation and the French bank Natixis.[1]

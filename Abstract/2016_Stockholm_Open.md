@@ -1,1 +1,0 @@
-The 2016 STOCKHOLM OPEN (also known as the 2016 IF STOCKHOLM OPEN due to sponsorship) was a professional men's tennis tournament played on indoor hard courts. It was the 48th edition of the tournament, and part of the ATP World Tour 250 series of the 2016 ATP World Tour. It took place in Stockholm, Sweden from 17 to 23 October 2016.

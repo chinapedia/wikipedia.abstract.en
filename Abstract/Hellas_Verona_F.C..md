@@ -1,1 +1,0 @@
-Hellas_verona_since_1930.jpg

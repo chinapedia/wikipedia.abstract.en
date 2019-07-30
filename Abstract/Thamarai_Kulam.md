@@ -1,1 +1,0 @@
-_THAMARAI KULAM_ () is a 1959 Indian Tamil language film directed by Muktha Srinivasan, written by S. R. Natarajan and produced by him along with S. R. Veerabahu. It features Sowcar Janaki, V. Gopalakrishnan, M. R. Radha, N. N. Kannappa, K. Sarangkapani, V. S. Raghavan, S. A. Ashokan, Kaka Radhakrishnan, S. N. Lakshmi, Padmini Priyadarshini, and Nagesh in his film debut.[1]

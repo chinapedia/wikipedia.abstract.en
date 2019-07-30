@@ -1,1 +1,0 @@
-The PRIX RFO DU LIVRE was a French literary prize awarded annually from 1995 to 2010[1] by RFO to a Francophone work of fiction linked to French overseas departments and territories or surrounding geographical and geopolitical zones.

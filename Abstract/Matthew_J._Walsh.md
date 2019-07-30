@@ -1,1 +1,0 @@
-The Rev. MATTHEW J. WALSH, C.S.C. (May 14, 1882 – January 19, 1963) was an American priest and President of the University of Notre Dame from 1922 to 1928, after having served has Vice President 1912–22.[1]

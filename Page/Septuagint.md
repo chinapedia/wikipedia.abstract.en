@@ -20,7 +20,7 @@ Composition
 
 Jewish legend
 
-Letter_of_Aristeas_(Vat._gr._747_f._1r).jpg Seventy-two Jewish scholars were asked by the Greek King of Egypt Ptolemy II Philadelphus to translate the Torah from Biblical Hebrew into Greek, for inclusion in the Library of Alexandria.[11]
+Seventy-two Jewish scholars were asked by the Greek King of Egypt Ptolemy II Philadelphus to translate the Torah from Biblical Hebrew into Greek, for inclusion in the Library of Alexandria.[11]
 
 This narrative is found in the pseudepigraphic Letter of Aristeas to his brother Philocrates,[12] and is repeated by Philo of Alexandria, Josephus (in Antiquities of the Jews)[13] and by various later sources, including St. Augustine.[14] The story is also found in the Tractate Megillah of the Babylonian Talmud:
 
@@ -270,7 +270,7 @@ Table of books
 
 Textual analysis
 
-Texts_of_the_OT.svg Modern scholarship holds that the Septuagint was written during the 3rd through 1st centuries BCE. But nearly all attempts at dating specific books, with the exception of the Pentateuch (early- to mid-3rd century BCE), are tentative and without consensus.[69]
+Modern scholarship holds that the Septuagint was written during the 3rd through 1st centuries BCE. But nearly all attempts at dating specific books, with the exception of the Pentateuch (early- to mid-3rd century BCE), are tentative and without consensus.[69]
 
 Later Jewish revisions and recensions of the Greek against the Hebrew are well attested, the most famous of which include _the Three:_ Aquila (128 CE), Symmachus, and Theodotion. These three, to varying degrees, are more literal renderings of their contemporary Hebrew scriptures as compared to the Old Greek (the original Septuagint). Modern scholars consider one or more of the 'three' to be totally new Greek versions of the Hebrew Bible.
 

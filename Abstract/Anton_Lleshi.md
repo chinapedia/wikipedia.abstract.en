@@ -1,1 +1,0 @@
-ANTON LLESHI (born 10 June 1993 in Mirditë) is an Albanian football player who plays for Kosovan club KF Vushtrria. He has spent several seasons playing in the Albanian First Division.[1] His main position is central forward.

@@ -1,1 +1,0 @@
-SOCIETY FOR THE DEFENSE OF PALESTINE was a nationalist Arab militia, active during the 1936–39 Arab revolt in Palestine. The group was composed of Sunni Arab volunteers, mainly coming from Iraq and commanded by Iraqi Fawzi al-Qawuqji.

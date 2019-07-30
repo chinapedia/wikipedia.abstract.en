@@ -1,1 +1,0 @@
-NICOLE DENNIS-BENN is a Jamaican novelist. Her award-winning novel, _Here Comes the Sun_, was named a "Best Book of the year" by the _New York Times_ and others. She lives and works in Brooklyn.[1][2] She is a notable out lesbian and feminist author who explores themes of gender, sexuality, Jamaican life, and its diaspora in her works.

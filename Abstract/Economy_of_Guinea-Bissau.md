@@ -1,1 +1,0 @@
-Guinea-Bissau is among the world's least developed nations and one of the 10 poorest countries in the world, and depends mainly on agriculture and fishing. Cashew crops have increased remarkably in recent years, and the country now ranks sixth in cashew production.

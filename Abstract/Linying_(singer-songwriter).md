@@ -1,1 +1,0 @@
-LINYING (born 1994) is a Singaporean singer-songwriter. She recently signed on a multi-rights deal with Universal Music Singapore, becoming the first Singapore female artist to do so, and Canadian music label Nettwerk Music Group.[1][2][3]

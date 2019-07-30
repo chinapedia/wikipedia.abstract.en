@@ -1,1 +1,0 @@
-The CAMPANI COMPOUND MICROSCOPE is a microscope on exhibit at the Museo Galileo in Italy, thought to have been built by optical instrument maker Giuseppe Campani in the second half 17th century. For a time it was thought to have been built by Italian scientist Galileo Galilei but no longer bares that attribution.[1]

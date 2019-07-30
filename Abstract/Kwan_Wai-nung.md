@@ -1,1 +1,0 @@
-KWAN WAI-NUNG (; 1878-1956) was a Chinese artist. A descendant of Lam Qua, Kwan was born in Guangdong and studied Chinese painting under Ju Lian.[1] He fused this with a more Western style learnt from his brother, Kwan Kin-hing.[2]

@@ -1,1 +1,0 @@
-This is a list of cricketers who have played first-class, List A or Twenty20 cricket for Chhattisgarh cricket team. Seasons given are first and last seasons; the player did not necessarily play in all the intervening seasons. Players in BOLD have played international cricket.

@@ -1,1 +1,0 @@
-The 2017 BORD NA MÓNA WALSH CUP was the 55th staging of the Walsh Cup since its establishment in 1954. Kilkenny won their 20th title after a 0-20 to 0-18 win against Galway in the final on 5 February.[1][2]

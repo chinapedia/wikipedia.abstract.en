@@ -1,1 +1,0 @@
-SANDLER O'NEILL + PARTNERS, L.P., (SANDLER O'NEILL) is a full-service investment banking firm and broker-dealer specializing in the financial services sector.[1] It is headquartered in New York City, and has offices in Boston, Chicago, San Francisco and Atlanta. The firm also operates a mortgage finance company and registered investment adviser based in Memphis.

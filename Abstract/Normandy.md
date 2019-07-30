@@ -1,1 +1,0 @@
-NORMANDY (; ; ; from Old French , plural of _Normant_, originally from the word for "northman" in several Scandinavian languages)[1] is the northwesternmost of the 18 regions of France, roughly referring to the historical Duchy of Normandy.

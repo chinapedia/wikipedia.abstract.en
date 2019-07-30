@@ -1,5 +1,3 @@
-Composite_number_Cuisenaire_rods_10.png
-
 In mathematics, a SQUARE-FREE INTEGER (or SQUAREFREE INTEGER) is an integer which is divisible by no perfect square other than 1. That is, its prime factorization has exactly one factor for each prime that appears in it. For example, is square-free, but is not, because 18 is divisible by . The smallest positive square-free numbers are
 
     1, 2, 3, 5, 6, 7, 10, 11, 13, 14, 15, 17, 19, 21, 22, 23, 26, 29, 30, 31, 33, 34, 35, 37, 38, 39, ...

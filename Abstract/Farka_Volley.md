@@ -1,1 +1,0 @@
-FARKA VOLLEY () a men's volleyball team based in Farkë, Tirana County. The club was founded on 16 June 2009 and they compete in the Albanian Volleyball League, which is the highest level of volleyball in the country.[1][2]

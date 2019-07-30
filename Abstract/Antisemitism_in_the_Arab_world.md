@@ -1,1 +1,0 @@
-ANTISEMITISM IN THE ARAB WORLD increased greatly in the 20th century, for several reasons: the breakdown of the Ottoman Empire and traditional Islamic society; European influence, brought about by Western imperialism and Arab Christians;[1] Nazi propaganda;[2] resentment over Jewish nationalism (see Zionism); and the rise of Arab nationalism.

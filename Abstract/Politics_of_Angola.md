@@ -1,1 +1,0 @@
-Since the adoption of a new constitution in 2010, the POLITICS OF ANGOLA takes place in a framework of a presidential republic, whereby the President of Angola is both head of state and head of government, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in the President, the government and parliament.[1]

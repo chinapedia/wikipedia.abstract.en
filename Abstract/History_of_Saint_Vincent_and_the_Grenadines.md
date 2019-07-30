@@ -1,1 +1,0 @@
-Fort_Duvernette_and_Young's_Island_from_Calliaqua,_St._Vincent_1890s.jpg

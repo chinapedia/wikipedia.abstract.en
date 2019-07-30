@@ -1,1 +1,0 @@
-Willy_Eisenschitz_1910.pngWILLY EISENSCHITZ (1889–1974), was a French painter of Austrian origin, has mostly represented the landscapes of Provence and Drome in particular.[1][2][3] His works are presented in a dozen European museums, and are the subject of retrospective exhibitions from 1957 to 2006.

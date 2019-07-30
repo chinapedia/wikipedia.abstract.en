@@ -1,1 +1,0 @@
-DAVID MAGNUS is the Thomas A. Raffin Professor of Medicine and Biomedical Ethics and professor of pediatrics at Stanford University.[1][2][3] He is also the director of the Stanford Center for Biomedical Ethics and the co-chair of the Ethics Committee at Stanford Hospital.[4]

@@ -1,1 +1,0 @@
-The STAR HEIGHT PROBLEM in formal language theory is the question whether all regular languages can be expressed using regular expressions of limited star height, i.e. with a limited nesting depth of Kleene stars. Specifically, is a nesting depth of one always sufficient? If not, is there an algorithm to determine how many are required? The problem was raised by .

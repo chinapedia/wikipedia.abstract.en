@@ -1,1 +1,0 @@
-ALEXS PLUSKOWSKI is an Associate Professor of Archaeology at the University of Reading. His areas of research include the environmental archaeology of medieval Europe, especially zooarchaeology, ecology, biodiversity and human-animal relations.[1]

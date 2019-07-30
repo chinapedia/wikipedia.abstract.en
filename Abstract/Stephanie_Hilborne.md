@@ -1,1 +1,0 @@
-STEPHANIE VERA HILBORNE (born 3 March 1968) is a British scientist. She became chief executive of The Wildlife Trusts in 2004.[1] In 2010 she received an OBE for her services to nature conservation.[2][3]

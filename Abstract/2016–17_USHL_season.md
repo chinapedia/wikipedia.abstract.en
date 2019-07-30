@@ -1,1 +1,0 @@
-The 2016–17 USHL SEASON is the 37th season of the United States Hockey League as an all-junior league. The regular season ran from September 23, 2016, to April 8, 2017.[1] The regular season champions, the Sioux City Musketeers, were awarded the Anderson Cup. The playoff champions, the Chicago Steel, were awarded the Clark Cup.

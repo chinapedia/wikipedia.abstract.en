@@ -1,1 +1,0 @@
-The 1937 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1937 college football season. The Vandals were led by third-year head coach Ted Bank,[1] and were members of the Pacific Coast Conference. Home games were played on campus in Moscow at the new Neale Stadium, with one in Boise at Public School Field.[2][3]

@@ -3,7 +3,7 @@ SAKS FIFTH AVENUE is an American chain of luxury department stores owned, since 
 
 History
 
-Sakslogo.svg Saks_Fifth_Avenue_(48155562261).jpg]] SaksFifthAvenueToronto.jpg
+]]
 
 Early years
 

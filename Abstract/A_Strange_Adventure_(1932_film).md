@@ -1,1 +1,0 @@
-_A STRANGE ADVENTURE_ is a 1932 American Pre-Code mystery film directed by Phil Whitman and starring Regis Toomey, June Clyde and Lucille La Verne.[1] It is also known by the alternative title of _THE WAYNE MURDER CASE_.

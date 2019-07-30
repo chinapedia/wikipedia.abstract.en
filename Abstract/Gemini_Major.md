@@ -1,1 +1,0 @@
-BENN GILBERT KAMOTO (born 14 June 1990), better known by his stage name GEMINI MAJOR, is a Malawian-born South African record producer and singer-songwriter. He was signed to Family Tree Records, a South African independent record label.[1]

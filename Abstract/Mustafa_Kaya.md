@@ -1,1 +1,0 @@
-MUSTAFA KAYA (born June 6, 1992) is a Turkish freestyle wrestler. He competed in the men's freestyle 65 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 32 by Alejandro Valdés.[1][2]

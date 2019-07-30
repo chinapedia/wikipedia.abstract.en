@@ -1,1 +1,0 @@
-CRICKLEWOOD SIDINGS currently provides stabling for passenger trains, and is the site of a former steam shed and diesel Traction Maintenance Depot located in Cricklewood, Greater London, England. It is situated beside the Midland Main Line, to the east of Cricklewood station.[1]

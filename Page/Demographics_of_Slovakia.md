@@ -3,7 +3,7 @@ This article is about the demographic features of the population of Slovakia, in
 
 Population
 
-Slovakia_demography.png, year 2009 ; Number of inhabitants in millions.]] Total population: (as of ).
+, year 2009 ; Number of inhabitants in millions.]] Total population: (as of ).
 
 Population censuses in 1848-2011
 
@@ -119,7 +119,7 @@ Population
 
 Age structure
 
-Slovakiapop.svg of Slovakia in 2017]]
+of Slovakia in 2017]]
 
     _0-14 years:_ 15.2% (male 424,921 /female 402,483)
     _15-24 years:_ 10.48% (male 293,573 /female 277,041)
@@ -142,8 +142,6 @@ Median age
     female: 39.5 years (2012 est)
 
 Birth rate
-
-BirthDeath_1950_SK.svg
 
     9.6 births/1,000 population (2018 est.) Country comparison to the world: 198th
 
@@ -215,7 +213,7 @@ _total population:_ 0.94 male(s)/female (2011 est.)
 
 Immigration
 
-Foreign_population_of_Slovakia_in_2010.png Immigration to Slovakia is one of the lowest in the European Union.
+Immigration to Slovakia is one of the lowest in the European Union.
 {| class="wikitable" |+Largest groups of foreign residents !Nationality !Population (2016)[9] |- | |13,024 |- | |10,137 |- | |7,813 |- | |7,232 |- | |6,907 |- | |5,562 |- | |4,380 |- | |4,035 |- | |2,757 |- | |2,580 |- | |2,346 |- | |2,334 |- | |1,970 |- | |1,789 |- | |1,638 |- | |1,398 |- | |1,058 |- | |1,056 |}
 
 Infant mortality rate
@@ -259,12 +257,10 @@ Life expectancy from 1950 to 2015 (_UN World Population Prospects_)[10]:
 | 2010–2015 | 76.30              |
 +-----------+--------------------+
 
-Slovakia_1910_Language.png Slovakia_2011_Language.png
-
 
 Ethnic groups
 
-Census1880.png Slovakia_2011_Ethnic.png The majority of the 5.4 million inhabitants of Slovakia are Slovak (80.7%). Hungarians are the largest ethnic minority (8.5%) and are concentrated in the southern and eastern regions of Slovakia. Other ethnic groups include Roma (2.0%), Czechs, Croats, Rusyns, Ukrainians, Germans, Poles, Serbs[11] and Jews (about 2,300 remain of the estimated pre-WWII population of 120,000).
+The majority of the 5.4 million inhabitants of Slovakia are Slovak (80.7%). Hungarians are the largest ethnic minority (8.5%) and are concentrated in the southern and eastern regions of Slovakia. Other ethnic groups include Roma (2.0%), Czechs, Croats, Rusyns, Ukrainians, Germans, Poles, Serbs[11] and Jews (about 2,300 remain of the estimated pre-WWII population of 120,000).
 
 While both international organizations (the United Nations and the World Bank) and the official Slovak statistics office offer population figures for ethnic groups, these figures seldom come close to agreement. Figures for the Roma population (for a variety of reasons) vary between 1% and 10% of the population. In the most recent survey carried out by the Slovak Government's Roma Plenipotentiary, the figure for the percentage of Roma was arrived at through interview with municipality representatives and mayors, according to how many Roma they think live in their jurisdictions. The figure arrived at by this means was in the region of 300,000 (about 5.6%). Note that in the case of the 5.6%, however, the above percentages of Hungarians and Slovaks are lower accordingly.
 
@@ -304,7 +300,7 @@ Despite its modern European economy and society, Slovakia has a significant rura
 
 Religion
 
-Slovakia_2011_Religion.png The Slovak constitution guarantees freedom of religion. The majority of Slovak citizens (62%) practice Roman Catholicism; the second-largest group consider themselves atheists (13%). About 6.9% are Protestants, 4.1% are Greek Catholics, and 0.9% are Orthodox. Reformed Christian Church 2.0%, other 6.4% (2004 survey).
+The Slovak constitution guarantees freedom of religion. The majority of Slovak citizens (62%) practice Roman Catholicism; the second-largest group consider themselves atheists (13%). About 6.9% are Protestants, 4.1% are Greek Catholics, and 0.9% are Orthodox. Reformed Christian Church 2.0%, other 6.4% (2004 survey).
 
 
 See also

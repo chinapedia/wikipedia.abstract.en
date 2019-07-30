@@ -1,1 +1,0 @@
-In the 2016 season, Galway started their campaign winning their 6th FBD Insurance League title with a win over Roscommon. Galway ended Mayo's bid for a 6th consecutive Connacht Senior Football Championship title with an unlikely 3 point victory in McHale Park. In the All-Ireland quarter-final Galway were defeated by Tipperary.[1]

@@ -1,1 +1,0 @@
-_CALADENIA ATRADENIA_, commonly known as BRONZE FINGERS is a plant in the orchid family Orchidaceae and is endemic to New Zealand. It is a ground orchid with a thin, hairy leaf and a thin wiry stem bearing one or two dark green or greenish red flowers with maroon or magenta markings.

@@ -1,1 +1,0 @@
-THE INTESTINE is a 2016 Canadian independent film written and directed by Lev Lewis. It stars Melanie Scheiner as Maya, a penniless young woman who meets a wealthy man, Philip, and wakes up the next morning alone in his upscale home. With Philip nowhere to be found, she tries to take possession of his empty house.

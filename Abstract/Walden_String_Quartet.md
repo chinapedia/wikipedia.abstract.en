@@ -1,1 +1,0 @@
-The WALDEN STRING QUARTET was a chamber music ensemble formed in 1934 by members of the Cleveland Orchestra.[1] It was originally the idea of violinist Homer Schmitt and cellist Robert Swenson, who met in 1927. They recruited violinist Bernard Goodman and violist Leroy Collins for the original group.[2] The viola chair changed many times until John Garvey joined in 1948.

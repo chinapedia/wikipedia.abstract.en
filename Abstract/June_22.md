@@ -1,1 +1,0 @@
-On this day the Summer solstice may occur in the Northern Hemisphere, and the Winter solstice may occur in the Southern Hemisphere.

@@ -1,1 +1,0 @@
-The PD SUBDIVISION is a railroad line owned by CSX Transportation in Florida and Alabama. The line runs from Pensacola, Florida north to Flomaton, Alabama for a total of 41.0 miles. At its south end it connects to the Florida Gulf & Atlantic Railroad and at its north end it continues north as the M&M Subdivision.[1][2]

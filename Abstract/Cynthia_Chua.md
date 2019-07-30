@@ -1,1 +1,0 @@
-CYNTHIA CHUA (born 1972) is a Singaporean businesswoman[1][2] who is the founder and CEO of Spa Esprit Group.[3][4] She is known as a lifestyle entrepreneur in Singapore, and was awarded the Singapore Tourism Board’s Tourism Entrepreneur of the Year in 2012.[5]

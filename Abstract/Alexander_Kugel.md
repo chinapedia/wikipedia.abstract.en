@@ -1,1 +1,0 @@
-ALEXANDER RAFAILOVICH KUGEL (, born Avraam Rafailovich Kugel; 1864, — 5 October 1928) was a Russian and Soviet theatre critic and editor, founder of the False Mirror (Krivoye Zerkalo), a popular theatre of parodies.[1][2]

@@ -1,1 +1,0 @@
-"QUE SERA MI VIDA (IF YOU SHOULD GO)" is a 1979 song by the Gibson Brothers taken from their album Cuba. It is their highest charting single in the UK, reaching number 5 there, however it didn't chart in the US. pop charts, but made #8 in Billboard's "Hot Dance / Club Play Songs" chart.[1]

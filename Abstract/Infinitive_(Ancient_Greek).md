@@ -1,1 +1,0 @@
-The Ancient Greek infinitive is a non-finite verb form, sometimes called a verb mood, with no endings for person or number, but it is (unlike in Modern English) inflected for tense and voice (for a general introduction in the grammatical formation and the morphology of the Ancient Greek infinitive see here and for further information see these tables).

@@ -1,1 +1,0 @@
-The DIOCESAN MUSEUM OF BRESCIA is a museum in Italy dedicated to the artistic patrimony of the Diocese of Brescia, and is located in the greater cloister of the Monastery of Saint Joseph in via Gasparo Salò, a short distance from the _Piazza della Loggia_.

@@ -1,1 +1,0 @@
-MARK MERCEDES is an Australian professional wrestler and promoter, currently owning and promoting the International Wrestling Australia he was one of the few Australians to wrestle for World Championship Wrestling and World Wrestling All-Stars.[1][2][3][4][5][6]

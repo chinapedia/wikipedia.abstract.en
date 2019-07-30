@@ -1,1 +1,0 @@
-commonly abbreviated as SEGA CS2 R&D and better known as is a video game development division of the Japanese company Sega. Sonic Team is best known for the long-running _Sonic the Hedgehog_ series and games such as _Nights into Dreams_ and _Phantasy Star Online_.

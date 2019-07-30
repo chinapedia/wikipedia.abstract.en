@@ -1,1 +1,0 @@
-FINLANDIZATION (; ; ) is the process by which one powerful country makes a smaller neighboring country abide by the former's foreign policy rules, while allowing it to keep its nominal independence and its own political system.[1] The term means "to become like Finland" referring to the influence of the Soviet Union on Finland's policies during the Cold War.

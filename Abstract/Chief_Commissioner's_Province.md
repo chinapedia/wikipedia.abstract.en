@@ -1,1 +1,0 @@
-CHIEF COMMISSIONER'S PROVINCE refers to a middle-level and minor type of province in British India and in the post-colonial successor states, not headed by a (lieutenant-)governor but by a Chief commissioner, notably :

@@ -1,1 +1,0 @@
-The LEGION OF MERIT (LOM) is a military award of the United States Armed Forces that is given for exceptionally meritorious conduct in the performance of outstanding services and achievements. The decoration is issued to members of the seven uniformed services of the United States[1] as well as to military and political figures of foreign governments.

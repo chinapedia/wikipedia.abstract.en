@@ -1,1 +1,0 @@
-The BANK NOTES (SCOTLAND) ACT 1765 (5 Geo. 3 c. 49) was an Act of the Parliament of Great Britain that introduced restrictions on the use of banknotes by the Scottish banks. The act was from the Fourth Session of the Twelfth Parliament of Great Britain at Westminster; beginning May 19, 1761 and lasting until January 10, 1765.[1]

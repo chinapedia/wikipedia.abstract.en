@@ -1,1 +1,0 @@
-The 1905 TCU HORNED FROGS FOOTBALL TEAM represented Texas Christian University (TCU) in the 1905 college football season. The Horned Frogs finished the season 4–4 overall. The team was coached by Emory J. Hyde in his first year as head coach. They played their home games in Waco, Texas.

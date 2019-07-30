@@ -1,1 +1,0 @@
-Klaus_Bouillon(2015).jpg KLAUS BOUILLON (born 19 November 1947 in St. Wendel) is a German politician. He is a member of the CDU. From 1983 to 2014 he was mayor of his town of birth. In 2014 he became Minister of the Interior of the German state of Saarland. In 2016 he was chairman of the Standing Conference of Interior Ministers ("Innenministerkonferenz", IMK) in Germany.

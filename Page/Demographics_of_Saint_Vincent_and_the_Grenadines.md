@@ -3,7 +3,7 @@ This article is about the DEMOGRAPHICS OF THE POPULATION OF SAINT VINCENT AND TH
 
 Population
 
-Saint_Vincent_and_Gren.png, year 2005; Number of inhabitants in thousands]] According to the 2001 population census Saint Vincent and the Grenadines has a population of 106,253, a decrease of 256 since the 1991 census.[1] The population decrease of St. Vincent is caused by a high rate of emigration, as natural growth is positive. The estimated population of is ().
+, year 2005; Number of inhabitants in thousands]] According to the 2001 population census Saint Vincent and the Grenadines has a population of 106,253, a decrease of 256 since the 1991 census.[1] The population decrease of St. Vincent is caused by a high rate of emigration, as natural growth is positive. The estimated population of is ().
 
 
 Vital statistics

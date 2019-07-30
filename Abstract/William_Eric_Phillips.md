@@ -1,1 +1,0 @@
-WILLIAM ERIC PHILLIPS (1892 or 1893 - 1964) was a Canadian businessman. Phillips was the chairman and chief executive officer of Massey Ferguson, at the time of his death the largest producer of farm machinery in the British Commonwealth,[1] and founding chairman of Argus Corporation, a position he held until his death.[2]

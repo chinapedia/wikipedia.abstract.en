@@ -1,1 +1,0 @@
-Mirror.jpg]] Mirror_MET_DP105758.jpg (New York City)]] Enhanced_aluminum_coated_first_surface_mirror_on_an_optical_flat.JPG coated with aluminum and enhanced with dielectric coatings. The angle of the incident light (represented by both the light in the mirror and the shadow behind it) matches the exact angle of reflection (the reflected light shining on the table).]]

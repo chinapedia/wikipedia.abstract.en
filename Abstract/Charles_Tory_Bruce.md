@@ -1,1 +1,0 @@
-CHARLES TORY BRUCE (May 11, 1906 - December 19, 1971) was a Canadian poet, journalist and fiction writer.[1] He was most noted for his poetry collection _The Mulgrave Road_, which won the Governor General's Award for English-language poetry or drama at the 1951 Governor General's Awards.[2]

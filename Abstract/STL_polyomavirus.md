@@ -1,1 +1,0 @@
-STL POLYOMAVIRUS (STLPYV, also known as SAINT LOUIS POLYOMAVIRUS or HUMAN POLYOMAVIRUS 11) is a virus of the polyomavirus family that infects human hosts. It was first reported in 2013 and is most closely related to MW polyomavirus.[1] It has been identified mostly in stool samples from children and has been detected in a variety of geographic locations.[2]

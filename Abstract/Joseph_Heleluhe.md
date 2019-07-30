@@ -1,1 +1,0 @@
-JOSEPH HEWAHEWA KAIMIHAKULANI HELELUHE (June 2, 1855 – July 8, 1900) was a member of the Hawaiian nobility who served as a retainer and private secretary of Queen Liliʻuokalani, the last monarch of the Kingdom of Hawaii, and accompanied her on her trips to the United States and Washington, DC from 1896 to 1900 to prevent the American annexation of Hawaii.

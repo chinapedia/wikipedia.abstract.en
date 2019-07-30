@@ -1,1 +1,0 @@
-FEVER HIGH is a Brooklyn-based duo composed of singer/instrumentalists Anna Nordeen and Reni Lane. Their five-track debut EP, _All Work_, was re-released in 2016 by Sire Records after being released independently in 2015. The band also includes collaborator/producer Adam Schlesinger. The group will independently release their debut full-length _FHNY_ on November 10, 2017.[1]

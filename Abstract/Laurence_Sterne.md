@@ -1,1 +1,0 @@
-LAURENCE STERNE (24 November 1713 – 18 March 1768) was an Irish novelist and an Anglican clergyman. He wrote the novels _The Life and Opinions of Tristram Shandy, Gentleman_ and _A Sentimental Journey Through France and Italy_, and also published many sermons, wrote memoirs, and was involved in local politics. Sterne died in London after years of fighting tuberculosis.

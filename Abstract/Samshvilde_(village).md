@@ -1,1 +1,0 @@
-SAMSHVILDE (, , also Շամշուլդա, _Shamshulda_)[1] is a village in the Tetritsqaro Municipality, Kvemo Kartli, Georgia. It is located 4 km south of the town of Tetritsqaro and 2 km north of the ruins of the medieval town of Samshvilde. The village was founded by a group of Armenians in the early 19th century and named after the nearby historical locale.[2]

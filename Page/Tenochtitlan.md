@@ -12,7 +12,7 @@ Traditionally, the name Tenochtitlan was thought to come from Nahuatl ("rock") a
 
 Geography
 
-Tenochtitlan.jpg. is the southern part of the main island (under the red line). The northern part is .]]
+. is the southern part of the main island (under the red line). The northern part is .]]
 
 covered an estimated , situated on the western side of the shallow Lake Texcoco.
 
@@ -33,13 +33,13 @@ The earliest European images of the city were woodcuts published in Augsburg aro
 
 Marketplaces
 
-Tlatelolco_Marketplace.JPG, Chicago]]
+, Chicago]]
 
 Each _calpulli_ (from Classical Nahuatl _calpōlli_, Nahuatl pronunciation: [kaɬˈpoːlːi], meaning "large house") had its own _tiyanquiztli_ (marketplace), but there was also a main marketplace in Tlatelolco – Tenochtitlan's sister city. Cortés estimated it was twice the size of the city of Salamanca with about 60,000 people trading daily. Bernardino de Sahagún provides a more conservative population estimate of 20,000 on ordinary days and 40,000 on feast days. There were also specialized markets in the other central Mexican cities.
 
 Public buildings
 
-Reconstruction_of_Tenochtitlan2006.jpg]]
+]]
 
 In the center of the city were the public buildings, temples, and palaces. Inside a walled square, 500 meters to a side, was the ceremonial center. There were about 45 public buildings, including: the Templo Mayor, which was dedicated to the Aztec patron deity Huitzilopochtli and the Rain God Tlaloc; the temple of Quetzalcoatl; the _tlachtli_ (ball game court) with the _tzompantli_ or rack of skulls; the Sun Temple, which was dedicated to Tonatiuh; the Eagle's House, which was associated with warriors and the ancient power of rulers; the platforms for the gladiatorial sacrifice; and some minor temples.[9]
 
@@ -65,7 +65,7 @@ Adding even more complexity to Aztec social stratification was the _calpolli_. _
 
 History
 
-Statue_of_Foundation_of_Tenochtitlan.jpg statue commemorating the foundation of Tenochtitlan]] Tenochtitlan was the capital of the Mexican civilization of the Mexica people, founded in 1325. The state religion of the Mexica civilization awaited the fulfillment of an ancient prophecy: the wandering tribes would find the destined site for a great city whose location would be signaled by an eagle with a snake in its beak perched atop a cactus (Opuntia).
+statue commemorating the foundation of Tenochtitlan]] Tenochtitlan was the capital of the Mexican civilization of the Mexica people, founded in 1325. The state religion of the Mexica civilization awaited the fulfillment of an ancient prophecy: the wandering tribes would find the destined site for a great city whose location would be signaled by an eagle with a snake in its beak perched atop a cactus (Opuntia).
 
 The Mexica saw this vision on what was then a small swampy island in Lake Texcoco, a vision that is now immortalized in Mexico's coat of arms and on the Mexican flag. Not deterred by the unfavourable terrain, they set about building their city, using the _chinampa_ system (misnamed as "floating gardens") for agriculture and to dry and expand the island.
 
@@ -79,7 +79,7 @@ Although some popular sources put the number as high as 350,000,[20] the most co
 
 Invasion era
 
-The_Conquest_of_Tenochtitlan.jpg When Cortés and his men invaded Tenochtitlan, Moctezuma II chose to welcome Cortés as an ambassador rather than risk a war which might quickly be joined by aggrieved indigenous people.
+When Cortés and his men invaded Tenochtitlan, Moctezuma II chose to welcome Cortés as an ambassador rather than risk a war which might quickly be joined by aggrieved indigenous people.
 
 As Cortés approached Tenochtitlan, the Tenochcah celebrated Toxcatl. At this event the most prominent warriors of altepetl would dance in front of a huge statue of Huitzilopochtli. The Spanish leader, Pedro de Alvarado, who was left in charge, worried that the natives planned a surprise attack. He captured three natives and tortured them until they said that this was indeed true. During the festival, the Spaniards came heavily armed and closed off every exit from the courtyard so that no one would escape. This happened during their last days in Tenochtitlan.[23]
 
@@ -97,15 +97,13 @@ The people of Tenochtitlan were exposed to diseases. Someone who was exposed wou
 
 Colonial era
 
-Barrios_Tenochtitlan_OSM2.png Cortés founded the Spanish capital of Mexico City on the ruins of Tenochtitlan. Despite the extensive damage to the built environment, the site retained symbolic power and legitimacy as the capital of the Aztec empire, which Cortés sought to appropriate. For a time this , the highest rank in the Spanish hierarchy of settlement designation, was called Mexico–Tenochtitlan. Charles Gibson devotes the final chapter of his classic work, _The Aztecs Under Spanish Rule_, to what he called "The City,"[35] with later historians building on his work.[36] The Spaniards established a or town council, which had jurisdiction over the Spanish residents. The Spanish established a Europeans-only zone in the center of the city, an area of 13 blocks in each direction of the central plaza, which was the . Although many native residents died during the siege of Tenochtitlan, the indigenous still had a strong presence in the city, and were settled in two main areas of the island, designated San Juan Tenochtitlan and Santiago Tlatelolco, each with a municipal council that functioned the entire colonial period. San Juan Tenochtitlan was a Spanish administrative creation, which amalgamated four indigenous sections, with each losing territory to the Spanish . The Spanish laid out the streets of the in a checker board pattern, with straight streets and plazas at intervals, whereas the indigenous portions of the city were irregular in layout and built of modest materials. In the colonial period both San Juan Tenochtitlan and Santiago Tlatelolco retained jurisdiction over settlements on the mainland that they could draw on for labor and tribute demanded by the Spanish, but increasingly those subordinate settlements () were able to gain their autonomy with their own rulers and separate relationship with the Spanish rulers.[37] Concern about the health of the indigenous population in early post-conquest Mexico–Tenochtitlan led to the founding of a royal hospital for indigenous residents.[38]
+Cortés founded the Spanish capital of Mexico City on the ruins of Tenochtitlan. Despite the extensive damage to the built environment, the site retained symbolic power and legitimacy as the capital of the Aztec empire, which Cortés sought to appropriate. For a time this , the highest rank in the Spanish hierarchy of settlement designation, was called Mexico–Tenochtitlan. Charles Gibson devotes the final chapter of his classic work, _The Aztecs Under Spanish Rule_, to what he called "The City,"[35] with later historians building on his work.[36] The Spaniards established a or town council, which had jurisdiction over the Spanish residents. The Spanish established a Europeans-only zone in the center of the city, an area of 13 blocks in each direction of the central plaza, which was the . Although many native residents died during the siege of Tenochtitlan, the indigenous still had a strong presence in the city, and were settled in two main areas of the island, designated San Juan Tenochtitlan and Santiago Tlatelolco, each with a municipal council that functioned the entire colonial period. San Juan Tenochtitlan was a Spanish administrative creation, which amalgamated four indigenous sections, with each losing territory to the Spanish . The Spanish laid out the streets of the in a checker board pattern, with straight streets and plazas at intervals, whereas the indigenous portions of the city were irregular in layout and built of modest materials. In the colonial period both San Juan Tenochtitlan and Santiago Tlatelolco retained jurisdiction over settlements on the mainland that they could draw on for labor and tribute demanded by the Spanish, but increasingly those subordinate settlements () were able to gain their autonomy with their own rulers and separate relationship with the Spanish rulers.[37] Concern about the health of the indigenous population in early post-conquest Mexico–Tenochtitlan led to the founding of a royal hospital for indigenous residents.[38]
 
 There are a number of colonial-era pictorial manuscripts dealing with Tenochtitlan–Tlatelolco, which shed light on litigation between Spaniards and indigenous over property.[39] An account with information about the war of Tenochtitlan against its neighbor Tlatelolco in 1473 and the Spanish conquest in 1521 is the .[40] Anthropologist Susan Kellogg has studied colonial-era inheritance patterns of Nahuas in Mexico City, using Nahuatl- and Spanish-language testaments.[41]
 
 Ruins
 
-Templo_Mayor_2007.JPG
-
-Tenochtitlan's main temple complex, the Templo Mayor, was dismantled and the central district of the Spanish colonial city was constructed on top of it. The great temple was destroyed by the Spanish during the construction of a cathedral. The location of the Templo Mayor was rediscovered in the early 20th century, but major excavations did not take place until 1978–1982, after utility workers came across a massive stone disc depicting the nude dismembered body of the moon goddess Coyolxauhqui. The disc is in diameter, and is held at the Templo Mayor Museum.[42] Fundacion_Tenochtitlan.jpg]]
+Tenochtitlan's main temple complex, the Templo Mayor, was dismantled and the central district of the Spanish colonial city was constructed on top of it. The great temple was destroyed by the Spanish during the construction of a cathedral. The location of the Templo Mayor was rediscovered in the early 20th century, but major excavations did not take place until 1978–1982, after utility workers came across a massive stone disc depicting the nude dismembered body of the moon goddess Coyolxauhqui. The disc is in diameter, and is held at the Templo Mayor Museum.[42] ]]
 
 The ruins, constructed over seven periods, were built on top of each other. The resulting weight of the structures caused them to sink into the sediment of Lake Texcoco; the ruins now rest at an angle instead of horizontally.
 

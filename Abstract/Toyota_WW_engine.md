@@ -1,1 +1,0 @@
-The TOYOTA WW ENGINE FAMILY is a series of 16 valve DOHC inline-4 turbo diesel engines with common rail injection. These engines are based on a BMW design but modified for use in Toyota vehicles. The WW engine is offered in 1.6 and 2.0 liter versions.[1]

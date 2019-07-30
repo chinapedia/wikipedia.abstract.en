@@ -1,1 +1,0 @@
-MICHAEL RASMUSSEN (born April 17, 1999) is a Canadian professional ice hockey centre currently playing for the Detroit Red Wings of the National Hockey League (NHL). Rasmussen was drafted ninth overall by the Red Wings in the 2017 NHL Entry Draft. He was born in Vancouver, British Columbia, but grew up in Surrey, British Columbia.[1]

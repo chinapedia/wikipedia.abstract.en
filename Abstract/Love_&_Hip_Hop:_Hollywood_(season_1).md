@@ -1,1 +1,0 @@
-The first season of the reality television series _Love & Hip Hop: Hollywood_ aired on VH1 from September 15, 2014 until December 9, 2014. It was primarily filmed in Los Angeles, California. It is executively produced by Mona Scott-Young for Monami Entertainment, Toby Barraud and Stefan Springman for Eastern TV, and Susan Levison, Nina L. Diaz and Vivian Gomez for VH1.

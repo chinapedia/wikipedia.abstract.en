@@ -1,1 +1,0 @@
-_THE KID FROM THE BIG APPLE_ () is a 2016 Malaysian film. The film stars Sarah Tan as Sarah, an 11-year-old girl from New York City who was forced to move to rural Malaysia to stay with her grandfather. The film garnered several awards at the 7th Macau International Movie Festival and the 28th Malaysian Film Festival.[1][2]

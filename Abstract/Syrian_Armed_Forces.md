@@ -1,1 +1,0 @@
-The SYRIAN ARAB ARMED FORCES () are the military forces of the Syrian Arab Republic. They consist of the Syrian Arab Army, Syrian Arab Navy, Syrian Arab Air Force, Syrian Arab Air Defense Force, and several paramilitary forces, such as the National Defence Force. According to the Syrian constitution, the President of Syria is the Commander-in-Chief of the Armed Forces.

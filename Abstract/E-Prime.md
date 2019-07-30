@@ -1,1 +1,0 @@
-E-PRIME (short for ENGLISH-PRIME or ENGLISH PRIME,[1] sometimes denoted É or E′) is a version of the English language that excludes all forms of the verb _to be_, including all conjugations, contractions and archaic forms.

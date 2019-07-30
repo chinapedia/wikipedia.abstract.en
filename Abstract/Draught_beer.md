@@ -1,1 +1,0 @@
-Keg_Fonts.jpg

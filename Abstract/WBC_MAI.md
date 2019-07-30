@@ -1,1 +1,0 @@
-WOMEN'S BASKETBALL CLUB OF MOSCOW AVIATION INSTITUTE (студенческий женский баскетбольный клуб Московского авиационного института), also known as MAI was a basketball club based in Moscow, Russian SFSR, Soviet Union.[1]

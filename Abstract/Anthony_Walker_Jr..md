@@ -1,1 +1,0 @@
-ANTHONY LARON WALKER JR. (born August 8, 1995) is an American football linebacker for the Indianapolis Colts of the National Football League (NFL). He played college football for the Northwestern University Wildcats and was drafted by the Colts in the 5th round of the 2017 NFL Draft.

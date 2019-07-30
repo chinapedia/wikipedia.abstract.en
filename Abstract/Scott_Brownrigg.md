@@ -1,1 +1,0 @@
-SCOTT BROWNRIGG (originally SCOTT BROWNRIGG & TURNER) is a British architecture practice with nine offices in the UK and abroad, with staff of 280. It was founded in 1910 and is headquartered in London.

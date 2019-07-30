@@ -1,1 +1,0 @@
-OROANTRAL FISTULA (OAF) is an abnormal condition of the face where the maxillary sinus is exposed to the oral cavity through an epithelialised fistula. This term signifies pathology and it is not to be confused with oroantral communication (OAC). OAC if left untreated can either heal spontaneously or progress into OAF. The fistulous opening may be situated on the alveolus.[1]

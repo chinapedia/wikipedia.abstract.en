@@ -1,1 +1,0 @@
-PRINCE EDWARD ISLAND ROUTE 142, known locally as O'LEARY ROAD, is a 2-lane highway in Prince County, Prince Edward Island, Canada. The highway bisects the island approximately halfway between Summerside and Tignish, and passes through the town of O'Leary.

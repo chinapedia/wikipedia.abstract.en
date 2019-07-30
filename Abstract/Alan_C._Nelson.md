@@ -1,1 +1,0 @@
-Alan Nelson}} ALAN C. NELSON (1933 to January 29, 1997) was a former Commissioner of the Immigration and Naturalization Services (INS) (February 22, 1982 to June 16, 1989) under the administration of then United States President Ronald Reagan, and co-author of the original proposal behind California Proposition 187 (passed November 1994).[1][2][3]

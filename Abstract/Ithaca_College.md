@@ -1,1 +1,0 @@
-ITHACA COLLEGE is a private liberal arts college in Ithaca, New York. The college was founded by William Egbert in 1892 as a conservatory of music and is set against the backdrop of the city of Ithaca, Cayuga Lake, waterfalls, and gorges. The college is best known for its large list of alumni who have played substantial roles in the media and entertainment industries.

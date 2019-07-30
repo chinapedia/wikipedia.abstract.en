@@ -1,1 +1,0 @@
-The '''Lerdo Law ''', or _LEY LERDO_ in Spanish, is the common name for the Reform law formally known as the CONFISCATION OF LAW AND URBAN RUINS OF THE CIVIL AND RELIGIOUS CORPORATIONS OF MEXICO. It was drafted by Miguel Lerdo de Tejada and enacted on 25 June 1856 by President Ignacio Comonfort.[1]

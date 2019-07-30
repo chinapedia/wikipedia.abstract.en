@@ -1,1 +1,0 @@
-PEMBROKE COLLEGE is a constituent college of the University of Cambridge, England. The college is the third-oldest college of the university and has over seven hundred students and fellows. Physically, it is one of the university's larger colleges, with buildings from almost every century since its founding, as well as extensive gardens. Its members are termed "Valencians".[1]

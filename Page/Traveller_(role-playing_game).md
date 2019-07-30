@@ -75,8 +75,6 @@ The ANCIENTS were a major race in the distant past; their ruins dot planets thro
 
 Publishing history
 
-Traveller_books.jpg
-
 Format
 
 The original gamebooks were distinctive digest-sized black pamphlets (the so-called "little black books") produced by Game Designers' Workshop (GDW). The main rules were detailed in three such booklets, sold as a boxed set while the same format was used for early support material, such as the adventures, supplements and further books. Later supplements and updated versions of the main game system introduced full sized booklets, complete re-writes of the game system and significant changes to the Third Imperium.

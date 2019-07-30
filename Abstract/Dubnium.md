@@ -1,1 +1,0 @@
-DUBNIUM is a synthetic chemical element with the symbol DB and atomic number 105. Dubnium is highly radioactive: the most stable known isotope, dubnium-268, has a half-life of about 28 hours. This greatly limits the extent of research on dubnium.

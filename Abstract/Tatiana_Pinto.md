@@ -1,1 +1,0 @@
-TATIANA VANESSA FERREIRA PINTO (born 28 March 1994) is a Portuguese football midfielder who plays for Campeonato Nacional de Futebol Feminino club Sporting Clube de Portugal and the Portugal national team.

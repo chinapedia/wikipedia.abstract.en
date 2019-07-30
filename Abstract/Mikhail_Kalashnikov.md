@@ -1,1 +1,0 @@
-Lieutenant-General MIKHAIL TIMOFEYEVICH KALASHNIKOV (; 10 November 1919 – 23 December 2013) was a Russian general, inventor, military engineer, writer and small arms designer. He is most famous for developing the AK-47 assault rifle and its improvements, the AKM and AK-74, as well as the PK machine gun and RPK light machine gun.[1]

@@ -1,1 +1,0 @@
-In computer network engineering, an INTERNET STANDARD is a normative specification of a technology or methodology applicable to the Internet. Internet Standards are created and published by the Internet Engineering Task Force (IETF).

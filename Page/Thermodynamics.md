@@ -1,4 +1,4 @@
-Carnot_engine_(hot_body_-_working_body_-_cold_body).jpg showing the hot body (boiler), working body (system, steam), and cold body (water), the letters labeled according to the stopping points in Carnot cycle.]]
+showing the hot body (boiler), working body (system, steam), and cold body (water), the letters labeled according to the stopping points in Carnot cycle.]]
 
 THERMODYNAMICS is the branch of physics that deals with heat and temperature, and their relation to energy, work, radiation, and properties of matter. The behavior of these quantities is governed by the four laws of thermodynamics which convey a quantitative description using measurable macroscopic physical quantities, but may be explained in terms of microscopic constituents by statistical mechanics. Thermodynamics applies to a wide variety of topics in science and engineering, especially physical chemistry, chemical engineering and mechanical engineering, but also in fields as complex as meteorology.
 
@@ -17,7 +17,7 @@ With these tools, thermodynamics can be used to describe how systems respond to 
 
 This article is focused mainly on classical thermodynamics which primarily studies systems in thermodynamic equilibrium. Non-equilibrium thermodynamics is often treated as an extension of the classical treatment, but statistical mechanics has brought many advances to that field.
 
-Eight_founding_schools.pngs representative of the original eight founding schools of thermodynamics. The schools with the most-lasting effect in founding the modern versions of thermodynamics are the Berlin school, particularly as established in Rudolf Clausius’s 1865 textbook _The Mechanical Theory of Heat_, the Vienna school, with the statistical mechanics of Ludwig Boltzmann, and the Gibbsian school at Yale University, American engineer Willard Gibbs' 1876 _On the Equilibrium of Heterogeneous Substances_ launching chemical thermodynamics.[16]]]
+s representative of the original eight founding schools of thermodynamics. The schools with the most-lasting effect in founding the modern versions of thermodynamics are the Berlin school, particularly as established in Rudolf Clausius’s 1865 textbook _The Mechanical Theory of Heat_, the Vienna school, with the statistical mechanics of Ludwig Boltzmann, and the Gibbsian school at Yale University, American engineer Willard Gibbs' 1876 _On the Equilibrium of Heterogeneous Substances_ launching chemical thermodynamics.[16]]]
 
 
 History
@@ -56,7 +56,7 @@ Classical thermodynamics is the description of the states of thermodynamic syste
 
 Statistical mechanics
 
-Statistical mechanics, also called statistical thermodynamics, emerged with the development of atomic and molecular theories in the late 19th century and early 20th century, and supplemented classical thermodynamics with an interpretation of the microscopic interactions between individual particles or quantum-mechanical states. This field relates the microscopic properties of individual atoms and molecules to the macroscopic, bulk properties of materials that can be observed on the human scale, thereby explaining classical thermodynamics as a natural result of statistics, classical mechanics, and quantum theory at the microscopic level. Thermodynamics_navigation_image.svg
+Statistical mechanics, also called statistical thermodynamics, emerged with the development of atomic and molecular theories in the late 19th century and early 20th century, and supplemented classical thermodynamics with an interpretation of the microscopic interactions between individual particles or quantum-mechanical states. This field relates the microscopic properties of individual atoms and molecules to the macroscopic, bulk properties of materials that can be observed on the human scale, thereby explaining classical thermodynamics as a natural result of statistics, classical mechanics, and quantum theory at the microscopic level.
 
 Chemical thermodynamics
 
@@ -100,7 +100,7 @@ Absolute zero, at which all activity would stop if it were possible to happen, i
 
 System models
 
-system_boundary.svg An important concept in thermodynamics is the thermodynamic system, which is a precisely defined region of the universe under study. Everything in the universe except the system is called the _surroundings_. A system is separated from the remainder of the universe by a _boundary_ which may be a physical boundary or notional, but which by convention defines a finite volume. Exchanges of work, heat, or matter between the system and the surroundings take place across this boundary.
+An important concept in thermodynamics is the thermodynamic system, which is a precisely defined region of the universe under study. Everything in the universe except the system is called the _surroundings_. A system is separated from the remainder of the universe by a _boundary_ which may be a physical boundary or notional, but which by convention defines a finite volume. Exchanges of work, heat, or matter between the system and the surroundings take place across this boundary.
 
 In practice, the boundary of a system is simply an imaginary dotted line drawn around a volume within which is going to be a change in the internal energy of that volume. Anything that passes across the boundary that effects a change in the internal energy of the system needs to be accounted for in the energy balance equation. The volume can be the region surrounding a single atom resonating energy, such as Max Planck defined in 1900; it can be a body of steam or air in a steam engine, such as Sadi Carnot defined in 1824; it can be the body of a tropical cyclone, such as Kerry Emanuel theorized in 1986 in the field of atmospheric thermodynamics; it could also be just one nuclide (i.e. a system of quarks) as hypothesized in quantum thermodynamics, or the event horizon of a black hole.
 

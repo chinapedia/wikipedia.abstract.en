@@ -1,1 +1,0 @@
-LUIS MARTÍNEZ (born December 11, 1995) is a Guatemalan swimmer. He competed at the 2016 Summer Olympics in the men's 100 metre butterfly event; his time of 52.22 seconds in the heats did not qualify him for the semifinals.[1][2]

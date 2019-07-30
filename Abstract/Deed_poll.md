@@ -1,1 +1,0 @@
-A DEED POLL (plural: DEEDS POLL) is a legal document binding only to a single person or several persons acting jointly to express an active intention. It is, strictly speaking, not a contract because it binds only one party and expresses an intention instead of a promise.

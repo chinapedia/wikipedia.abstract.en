@@ -1,1 +1,0 @@
-The ST. JAMES CATHEDRAL[1] () Also MOYOBAMBA CATHEDRAL[2] Is the main Catholic church of the Prelature of Moyobamba and of the Region of San Martín, is in the Center of Moyobamba[3] a city of the South American country of Peru.

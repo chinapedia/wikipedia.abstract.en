@@ -1,1 +1,0 @@
-_PORGY & BESS_ (subtitled _MODERN INTERPRETATIONS_) is an album by multi-instrumentalist Buddy Collette featuring jazz versions of music from the George Gershwin opera _Porgy and Bess_ recorded at sessions in 1957 and released on the Interlude label in 1959.[1][2]

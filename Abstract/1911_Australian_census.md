@@ -1,1 +1,0 @@
-The 1911 AUSTRALIAN CENSUS was the first national population census held in Australia. The day used for the census, was taken for the night between 2 and 3 April 1911. The total population of the Commonwealth of Australia was counted as 4,455,005 - an increase of 681,204 people, 18.05% over the 1901 "Federation" Census.[1][2]

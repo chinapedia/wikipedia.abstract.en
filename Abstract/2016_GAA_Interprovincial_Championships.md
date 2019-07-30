@@ -1,1 +1,0 @@
-The 2016 GAA INTERPROVINCIAL CHAMPIONSHIPS (formerly known as the RAILWAY CUPS) was a senior GAA competition in which the four provinces of Ireland competed in gaelic football and hurling. The provincial squads are made up of players from the county panels in each province.

@@ -1,1 +1,0 @@
-GEORGE SIKAZWE (born 1938) is a former Zambian footballer who played for Mufulira Wanderers and Zambia as a midfielder, representing his country before and after independence. Together with Samuel ‘Zoom’ Ndhlovu, he is credited with masterminding Wanderers’ early success.

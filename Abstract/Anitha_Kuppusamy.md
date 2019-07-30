@@ -1,1 +1,0 @@
-ANITHA KUPPUSAMY is a Tamil folk and Carnatic singer, and television host known for her 'Naatupura Pattu', a Tamil folk art. Anitha aspired to become a singer from a young age. Apart from singing, Anitha has appeared as a judge on several television reality shows. Anitha has written few books on cookery and appeared in cookery shows on TV.

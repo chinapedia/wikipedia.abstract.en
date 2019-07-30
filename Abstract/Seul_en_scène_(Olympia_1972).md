@@ -1,1 +1,0 @@
-_SEUL EN SCÈNE – OLYMPIA 1972_ (_Alone on stage_) is a double album by poet and singer-songwriter Léo Ferré, recorded live during his time at the Olympia in Paris, in November 1972. Published by Barclay Records in 1973, the record does not initially render the recital in its entirety.[1]

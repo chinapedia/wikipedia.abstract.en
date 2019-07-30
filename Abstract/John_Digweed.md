@@ -1,1 +1,0 @@
-THOMAS JOHN DIGWEED (born 1 January 1967)[1] is a British DJ, record producer and actor.[2] _DJ Magazine_ voted him World No 1 DJ in 2001.[3] As well as achieving success as a solo act, he has collaborated with Sasha as Sasha & John Digweed, and with Nick Muir as Bedrock.

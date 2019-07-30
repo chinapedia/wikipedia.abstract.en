@@ -1,1 +1,0 @@
-FRANCESCA PAVAN (born 1979) was an Italian female water polo player. Francesca was a member of the Italy women's national water polo team, playing as driver, and she was a part of the team at the 2008 Summer Olympics.[1]

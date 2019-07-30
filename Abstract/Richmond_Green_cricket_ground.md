@@ -1,1 +1,0 @@
-RICHMOND GREEN CRICKET GROUND, on The Green at Richmond, London, has been a popular venue for cricket matches since the 17th century. The earliest reference to cricket on Richmond Green is from a 1666 letter by Sir Robert Paston, a resident of Richmond.

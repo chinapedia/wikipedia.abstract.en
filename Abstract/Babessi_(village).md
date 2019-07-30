@@ -1,1 +1,0 @@
-BABESSI is one of the four villages that make up the Babessi Sub-Division and Babessi Sub-Division is one of three sub divisions of Ngoketunjia Division of the North West Region of Cameroon with a population of 26,802.

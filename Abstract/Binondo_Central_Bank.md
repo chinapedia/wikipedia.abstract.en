@@ -1,1 +1,0 @@
-The BINONDO CENTRAL BANK (BCB) was a Filipino government dual exchange rate system that operated between 1983 and 1986. It was established to allow the government to narrow the rate gap by directly intervening in black market currency prices.[1]

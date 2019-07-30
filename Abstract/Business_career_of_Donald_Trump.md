@@ -1,1 +1,0 @@
-20140627_Trump_International_Hotel_and_Tower_(Chicago)_sign_2.JPG]]

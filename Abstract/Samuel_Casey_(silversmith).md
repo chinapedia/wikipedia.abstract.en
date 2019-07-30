@@ -1,1 +1,0 @@
-Teapot,_Samuel_Casey,_Little_Rest,_Rhode_Island,_c._1755,_silver_-_Hood_Museum_of_Art_-_DSC09323.JPG

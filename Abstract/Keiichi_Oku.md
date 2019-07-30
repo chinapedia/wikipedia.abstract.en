@@ -1,1 +1,0 @@
-is a Japanese keyboardist, composer, and arranger. He was the keyboardist in the Japanese band Spectrum from 1979-1981. In 2009, he won the JASRAC International Award for the background music used in the _Ashita no Nadja_ anime television series from Toei Animation.[1]

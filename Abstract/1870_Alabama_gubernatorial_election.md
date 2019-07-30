@@ -1,1 +1,0 @@
-The 1870 ALABAMA GUBERNATORIAL ELECTION took place on November 8, 1870 in order to elect the Governor of Alabama. Incumbent Republican William Hugh Smith was narrowly defeated by Democrat Robert B. Lindsay.

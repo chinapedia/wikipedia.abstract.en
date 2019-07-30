@@ -1,1 +1,0 @@
-NATION'S LITTLE SISTER () or NATION'S LITTLE BROTHER () is an informal title in South Korean entertainment industry. It refers to "a young female [or male] celebrity in her [or his] late teens to early twenties... [who is] cute, bright, and innocent."[1]

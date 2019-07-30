@@ -1,1 +1,0 @@
-The AINU or the AYNU (Ainu アィヌ Аину _Aynu_; Japanese: _Ainu_; Russian: _Ajny_), or the EZO () in the historical Japanese texts, are an indigenous people of Japan (Hokkaido, and formerly northeastern Honshu) and Russia (Sakhalin, the Kuril Islands, Khabarovsk Krai and the Kamchatka Peninsula).[1]

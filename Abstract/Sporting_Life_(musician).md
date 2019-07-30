@@ -1,1 +1,0 @@
-SPORTING LIFE, is an American artist, architect, and record producer from New York City, New York.[1] He founded New York City hip hop group Ratking with American rappers Wiki and Hak. Aside from releasing music with Ratking under XL Recordings, he has released several solo albums and extended plays (EPs) under R&S Records.

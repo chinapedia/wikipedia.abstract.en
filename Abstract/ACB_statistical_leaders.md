@@ -1,1 +1,0 @@
-ACB STATISTICAL LEADERS are the season by season stats leaders and all-time stats leaders of the top-tier level professional basketball league in Spain, the Liga ACB, and its predecessor, the Liga Nacional Primera División.

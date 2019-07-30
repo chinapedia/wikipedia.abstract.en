@@ -1,1 +1,0 @@
-ARAMIS is fragrance introduced by Estée Lauder in 1964.[1] It was the first prestige men’s fragrance widely available in department stores, and is now sold in 120 countries.[2] Aramis was created by perfumer Bernard Chant.[3]

@@ -1,1 +1,0 @@
-_EIGHT POEMS_ is a 1962 poetry collection by the American poet Marianne Moore, with illustrations by Robert Andrew Parker. It was published by the Museum of Modern Art in New York City. Only 195 copies were produced; each was signed by Moore and Parker.[1]

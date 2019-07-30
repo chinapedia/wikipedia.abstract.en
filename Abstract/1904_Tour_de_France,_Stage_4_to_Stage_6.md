@@ -1,1 +1,0 @@
-Tour_de_France_1904_map-fr.svg The 1904 Tour de France was the 1st edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris on 2 July and Stage 4 occurred on 17 July with a flat stage from Toulouse. The race finished at the Parc des Princes in Paris on 23 July.

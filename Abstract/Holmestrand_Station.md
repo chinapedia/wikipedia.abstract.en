@@ -1,1 +1,0 @@
-The new HOLMESTRAND STATION is a railway station on the Vestfold Line located in the town of Holmestrand in Vestfold, Norway, that opened for traffic on 28 November 2016.[1] It is located inside the tunnel Holmestrandsporten.

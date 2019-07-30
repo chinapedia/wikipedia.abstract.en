@@ -1,1 +1,0 @@
-LAWRENCE MARTIN-BITTMAN (14 February 1931 – 18 September 2018),[1][2] formerly known as LADISLAV BITTMAN, was an American artist, author, and retired professor of disinformation at Boston University.[3] Prior to his defection to the United States in 1968, he served as an intelligence officer specializing in disinformation for the Czechoslovak Intelligence Service.[4]

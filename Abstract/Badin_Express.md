@@ -1,1 +1,0 @@
-BADIN EXPRESS () is a passenger train operated daily by Pakistan Railways between Hyderabad and Badin.[1][2] The trip takes approximately 2 hours and 30 minutes to cover a published distance of , traveling along the entire stretch of the Hyderabad–Badin Branch Line.

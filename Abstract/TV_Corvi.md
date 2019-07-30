@@ -1,1 +1,0 @@
-TV CORVI, also known as TOMBAUGH'S STAR, is a dwarf nova of the SU Ursae Majoris type in the constellation Corvus that was first discovered by accident as a mysterious 12th magnitude star on a plate by Clyde Tombaugh while looking for remote planets on May 25, 1932, before its identity was confirmed as a dwarf nova by David Levy in 1990.

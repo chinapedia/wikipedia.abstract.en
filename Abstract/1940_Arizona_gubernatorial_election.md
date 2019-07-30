@@ -1,1 +1,0 @@
-The 1940 ARIZONA GUBERNATORIAL ELECTION took place on November 5, 1940. Incumbent Governor Robert Taylor Jones ran for reelection but was defeated in the Democratic primary by former Secretary of State Sidney Preston Osborn, whom Jones had previously defeated in 1938.

@@ -1,1 +1,0 @@
-33 SERVICE BATTALION is a Canadian Forces Primary Reserve unit falling under 33 Canadian Brigade Group, responsible for providing Combat Service Support to eastern and northern Ontario, including cities such as Ottawa, North Bay, and Sault Ste Marie.

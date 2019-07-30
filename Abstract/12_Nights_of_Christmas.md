@@ -1,1 +1,0 @@
-_12 NIGHTS OF CHRISTMAS_ is the first holiday and fourteenth studio album by American R&B singer R. Kelly.[1] It was released on October 21, 2016, by RCA Records. This was the last album by Kelly to be released by RCA Records before he was dropped from the label after numerous sexual assault allegations and thusly his last album to date.

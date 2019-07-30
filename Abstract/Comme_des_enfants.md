@@ -1,1 +1,0 @@
-"COMME DES ENFANTS" is a song by Canadian singer Cœur de pirate from her first studio album _Cœur de pirate_. It was released as a single on 28 September 2009. In 2014, an instrumental version of the song was used in an advertisement for Disneyland Paris.[1]

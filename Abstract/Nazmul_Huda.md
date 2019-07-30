@@ -1,1 +1,0 @@
-NAZMUL HUDA is a Bangladeshi lawyer and politician. He was as a member of Bangladesh Nationalist Party since its inception and in 2012, he left the party when he was serving as its vice chairman.[1] He served as the Minister of Communications of the Government of Bangladesh.[2]

@@ -1,1 +1,0 @@
-Maiorga_Ramírez.jpg MAIORGA RAMIREZ (born 20 July 1976) is a Basque nationalist politician. He is a leading member of the Eusko Alkartasuna (EA) in the province of Navarre[1] and, since 2015, one of three just EA members of the Parliament of Navarre, where the EA sits as part of the EHB left-wing nationalist coalition.[2]

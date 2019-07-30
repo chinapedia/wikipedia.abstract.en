@@ -1,1 +1,0 @@
-The LEGISLATIVE COUNCIL OF SIERRA LEONE was the official executive body that governed the Crown Colony of Sierra Leone. The Members of the Colonial Council were accorded the title of 'Honorable' and were responsible for decision-making in the Colony of Sierra Leone.

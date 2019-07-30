@@ -1,1 +1,0 @@
-_EUCALYPTUS DELICATA_ is a species of tree that is endemic to Western Australia. It has rough, fibrous to scaly bark on the trunk, smooth white to greyish bark above, linear to narrow lance-shaped adult leaves, flower buds in groups of between seven and eleven, creamy white flowers and more or less spherical to barrel-shaped fruit.

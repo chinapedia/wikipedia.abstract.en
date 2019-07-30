@@ -1,1 +1,0 @@
-KEETHTOWN is an unincorporated community in southern Miller County, in the U.S. state of Missouri.[1] The community is on Missouri Route U, approximately four miles southeast of Brumley and 1.5 miles north of the Miller-Camden county line.[2]

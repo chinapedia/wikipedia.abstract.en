@@ -1,1 +1,0 @@
-The BISHOPRIC OF BRANDENBURG ( or _Dioecesis Brandenburgensis_) was a Roman Catholic diocese established by King Otto I of Germany in 948, in the territory of the _Marca Geronis_ (Saxon Eastern March) east of the Elbe river. The bishopric was a suffragan diocese of the Archbishopric of Magdeburg, its seat was Brandenburg an der Havel.

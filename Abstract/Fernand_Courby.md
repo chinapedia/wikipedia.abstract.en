@@ -1,1 +1,0 @@
-FERNAND Henri Fabien COURBY (19 January 1878 – 6 March 1932) was a French archaeologist and Hellenist, a specialist of ancient Greece, a member of the French School at Athens (class 1905), and professor at the Faculté des lettres of the University of Lyon.

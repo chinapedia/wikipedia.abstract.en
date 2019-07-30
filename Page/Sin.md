@@ -38,7 +38,7 @@ The New Testament states that everyone has sinned.[19] Romans 3:23 says, "For al
 
 Original sin
 
-Forbidden_fruit.jpg fresco depicts the expulsion of Adam and Eve for transgressing God's command not to eat the fruit of the Tree of the knowledge of good and evil.]] Jan_Brueghel_de_Oude_en_Peter_Paul_Rubens_-_Het_aards_paradijs_met_de_zondeval_van_Adam_en_Eva.jpg by Jan Brueghel the Elder and Pieter Paul Rubens.]] Original sin, also called ancestral sin,Examples:
+fresco depicts the expulsion of Adam and Eve for transgressing God's command not to eat the fruit of the Tree of the knowledge of good and evil.]] by Jan Brueghel the Elder and Pieter Paul Rubens.]] Original sin, also called ancestral sin,Examples:
 
 -   Alexander Golitzin, _On the Mystical Life_ by Saint Symeon (St Vladimir's Seminary Press 1995 ), p.119
 -   Adam L. Tate, _Conservatism and Southern Intellectuals, 1789–1861_ (University of Missouri Press 2005 ), p. 190

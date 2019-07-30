@@ -1,1 +1,0 @@
-VENETTA SEALS is an American politician and businesswoman who has been the Mayor of Pecos, Texas since May 2010. Her current term expires May 2019.[1] Before serving as mayor, Seals was the President of the Pecos Area Chamber of Commerce.[2]

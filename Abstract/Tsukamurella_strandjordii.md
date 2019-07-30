@@ -1,1 +1,0 @@
-_TSUKAMURELLA STRANDJORDII_ is a Gram-positive and aerobic bacterium from the genus of Tsukamurella which has been isolated from the blood of a young girl with acute mycelogenous leukemia.[1][2][3][4][5]

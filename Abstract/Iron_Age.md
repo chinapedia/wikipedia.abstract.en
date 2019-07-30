@@ -1,1 +1,0 @@
-The IRON AGE is the final epoch of the three-age division of the prehistory and protohistory of humanity. It was preceded by the Stone Age (Paleolithic, Mesolithic, Neolithic, and Chalcolithic) and the Bronze Age. The concept has been mostly applied to Europe and the Ancient Near East, and, by analogy, also to other parts of the Old World.

@@ -1,1 +1,0 @@
-REV. CANON JOHN VAUGHAN (1855–1922) was an Anglican English cleric and naturalist who lived and worked in Hampshire. Vaughan is considered a distinguished botanist and writer on natural history. He is an author of at least ten books on ecclesiastical and natural history topics.

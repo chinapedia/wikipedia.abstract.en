@@ -1,1 +1,0 @@
-STERLING is an unincorporated community in northwest Howell County, in the U.S. state of Missouri.[1] The community is located adjacent to the railroad just east of U. S. Route 63 about one mile south of the county line.[2]

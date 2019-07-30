@@ -1,1 +1,0 @@
-Toulouse_-_Chemin_de_Tournefeuille_-_20140627_(1).jpg CANNABIS IN FRANCE is illegal for personal use, but remains one of the most popular illegal drugs. Limited types of cannabis-derived products are permitted for medical uses.

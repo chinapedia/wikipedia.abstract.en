@@ -1,1 +1,0 @@
-SANTI MARTINO E MARCO is a Neoclassical-style, Roman Catholic parish church located on Piazza di San Martino in the town of Petriolo, province of Macerata, region of Marche, Italy. The church stands alongside and across the street from the Palazzo Communale and faces the church of the Madonna della Misericordia across the Piazza.

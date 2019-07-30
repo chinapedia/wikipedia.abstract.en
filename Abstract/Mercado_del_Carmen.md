@@ -1,1 +1,0 @@
-MERCADO DEL CARMEN is one of the largest gastronomic markets in Mexico. The purpose of the market is to contribute and generate an environment of gastronomic culture for specific customers. It has a wide variety of 100% eccentric Mexican products, food stands and Chopin art gallery.[1]

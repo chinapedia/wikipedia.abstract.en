@@ -1,1 +1,0 @@
-_THE RAIN OF SORROW_ is a 1965 Taiwanese film directed by Wang Yin, based on Chiung Yao's 1964 novel _Fire and Rain_. The film stars Wang Yin himself, as well as 21-year-old Gua Ah-leh in her acting debut.

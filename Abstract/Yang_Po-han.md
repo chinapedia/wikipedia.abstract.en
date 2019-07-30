@@ -1,1 +1,0 @@
-YANG PO-HAN (; born 13 March 1994) is a Taiwanese badminton player.[1][2] In 2013, he won the men's doubles title at the Vietnam International tournament partnered with Liao Min-chun when he was 18-year-old.[3]

@@ -1,4 +1,4 @@
-NASA_Earth-observing_Fleet_June_2012.ogv's Earth-observing fleet as of June 2012.]] ERS_2.jpg ERS 2]]
+'s Earth-observing fleet as of June 2012.]] ERS 2]]
 
 In the context of spaceflight, a SATELLITE is an object that has been intentionally placed into orbit. These objects are called ARTIFICIAL SATELLITES to distinguish them from natural satellites such as Earth's Moon.
 
@@ -13,7 +13,7 @@ Satellites are usually semi-independent computer-controlled systems. Satellite s
 
 History
 
-1986_CPA_5712.jpg Popular_Science_May_1949.jpg depicts the idea of an "artificial moon"]] ConstellationGPS.gif.]] Sputnik_asm.jpg: The first artificial satellite to orbit Earth.]] ESTCube-1_illustration.jpg ESTCube-1, developed mainly by the students from the University of Tartu, carries out a tether deployment experiment in low Earth orbit.]]
+depicts the idea of an "artificial moon"]] .]] : The first artificial satellite to orbit Earth.]] ESTCube-1, developed mainly by the students from the University of Tartu, carries out a tether deployment experiment in low Earth orbit.]]
 
 The first published mathematical study of the possibility of an artificial satellite was Newton's cannonball, a thought experiment in A Treatise of the System of the World by Isaac Newton. The first fictional depiction of a satellite being launched into orbit was a short story by Edward Everett Hale, _The Brick Moon_.[4][5] The idea surfaced again in Jules Verne's _The Begum's Fortune_ (1879).
 
@@ -75,8 +75,6 @@ Types
 -   RECONNAISSANCE SATELLITES are Earth observation satellite or communications satellite deployed for military or intelligence applications. Very little is known about the full power of these satellites, as governments who operate them usually keep information pertaining to their reconnaissance satellites classified.
 -   RECOVERY SATELLITES are satellites that provide a recovery of reconnaissance, biological, space-production and other payloads from orbit to Earth.
 
-International_Space_Station_after_undocking_of_STS-132.jpg
-
 -   SPACE-BASED SOLAR POWER SATELLITES are proposed satellites that would collect energy from sunlight and transmit it for use on Earth or other places.
 -   SPACE STATIONS are artificial orbital structures that are designed for human beings to live on in outer space. A space station is distinguished from other crewed spacecraft by its lack of major propulsion or landing facilities. Space stations are designed for medium-term living in orbit, for periods of weeks, months, or even years.
 -   TETHER SATELLITES are satellites which are connected to another satellite by a thin cable called a tether.
@@ -85,7 +83,7 @@ International_Space_Station_after_undocking_of_STS-132.jpg
 
 Orbit types
 
-Orbits_around_earth_scale_diagram.svg (GPS) satellites, and the red dotted line the orbit of the International Space Station (ISS).]]
+(GPS) satellites, and the red dotted line the orbit of the International Space Station (ISS).]]
 
 The first satellite, Sputnik 1, was put into orbit around Earth and was therefore in geocentric orbit. By far this is the most common type of orbit with approximately 1,886[18] artificial satellites orbiting the Earth. Geocentric orbits may be further classified by their altitude, inclination and eccentricity.
 
@@ -106,8 +104,6 @@ Altitude classifications
 -   MEDIUM EARTH ORBIT (MEO): Geocentric orbits ranging in altitude from – . Also known as an intermediate circular orbit.
 -   GEOSYNCHRONOUS ORBIT (GEO): Geocentric circular orbit with an altitude of . The period of the orbit equals one sidereal day, coinciding with the rotation period of the Earth. The speed is approximately .
 -   HIGH EARTH ORBIT (HEO): Geocentric orbits above the altitude of geosynchronous orbit .
-
-Orbitalaltitudes.jpg
 
 Inclination classifications
 

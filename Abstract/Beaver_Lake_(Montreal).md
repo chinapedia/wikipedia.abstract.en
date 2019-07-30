@@ -1,1 +1,0 @@
-Beaver|Beaver Lake (disambiguation){{!}}Beaver Lake}} The BEAVER LAKE () is an artificial basin fitted in 1938 on a former swamp located on the Mount Royal, in Montreal, Quebec, Canada. It was designed by architect Frederick Todd.

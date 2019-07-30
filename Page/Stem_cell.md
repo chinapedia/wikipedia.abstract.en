@@ -26,7 +26,7 @@ When a stem cell self-renews it divides and does not disrupt the undifferentiate
 
 Potency meaning
 
-upright=1.5, are totipotent, able to become all tissues in the body and the extraembryonic placenta.]] Human_embryonic_stem_cells.pngnic stem cells
+upright=1.5, are totipotent, able to become all tissues in the body and the extraembryonic placenta.]] nic stem cells
 A: Stem cell colonies that are not yet differentiated.
 B: Nerve cells, an example of a cell type after differentiation.]]
 
@@ -73,8 +73,6 @@ The primitive stem cells located in the organs of fetuses are referred to as fet
 
 
 Adult
-
-Stem_cell_division_and_differentiation.svg
 
 Adult stem cells, also called somatic (from Greek σωματικóς, "of the body") stem cells, are stem cells which maintain and repair the tissue in which they are found.[32] They can be found in children, as well as adults.[33]
 
@@ -153,7 +151,7 @@ In July 2013, Consumer Watchdog announced that it would appeal the decision to a
 
 Treatment
 
-Stem_cell_treatments.svg Diseases and conditions where stem cell treatment is being investigated include:
+Diseases and conditions where stem cell treatment is being investigated include:
 
 -   Diabetes[95]
 -   Rheumatoid arthritis[96]

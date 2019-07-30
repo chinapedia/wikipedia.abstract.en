@@ -1,1 +1,0 @@
-ISPAHANI ARIF JAHAN ()[1] the duo Dhallywood film directors are known for thriller and action genres.[2][3] Their latest film is Mission Madrid[4] They have their own two film production house ‘Diganta Chalachitra’ and ‘ Nakkhatra Chalachitra’. They have directed movies for many other production houses in Dhallywood and all of which were blockbusters.

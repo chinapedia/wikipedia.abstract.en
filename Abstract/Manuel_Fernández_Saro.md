@@ -1,1 +1,0 @@
-MANUEL FERNÁNDEZ SARO (born 27 January 1975) is a Spanish show jumping rider.[1][2] He competed at the 2016 Summer Olympics in Rio de Janeiro, Brazil, where he placed 11th in the team and 38th in the individual competition.

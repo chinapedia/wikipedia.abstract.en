@@ -1,1 +1,0 @@
-_DORABABU_ is a 1974 Telugu Action film, produced by J. Subba Rao and G. Rajendra Prasad under the Phani Madhavi Combines banner[1] and directed by Tatineni Rama Rao.[2] It stars Akkineni Nageswara Rao, Manjula in the lead roles and music composed by J. V. Raghavulu.[3][4]

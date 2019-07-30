@@ -1,1 +1,0 @@
-"FREQUENCY" (previously titled "THE FREQUENCY")[1] is a song recorded by American rapper Kid Cudi. It was released on September 30, 2016, as the first promotional single from his sixth studio album, _Passion, Pain & Demon Slayin'_ (2016). The song was written and produced by Mike Dean, Plain Pat and Kid Cudi.[2]

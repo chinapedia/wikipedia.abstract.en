@@ -1,1 +1,0 @@
-ATHARANALA () - a historic laterite stone bridge over the Madhupur[1] or Musa[2] stream at the entrance of Puri town, Odisha (India) on Puri - Bhubaneswar road, locally known as Atharnala bridge; a Monument of National Importance N-OR-64[3] officially recognized by Archaeological Survey of India. Due to safety reasons the bridge is excluded from heavy vehicle traffic.

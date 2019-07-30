@@ -1,1 +1,0 @@
-BANGLADESH WATER DEVELOPMENT BOARD is government agency which is responsible for surface water and groundwater management in Bangladesh and is located in Dhaka.[1][2] Md Mahfuzur Rahman is the present Director General of the board.[3]

@@ -1,1 +1,0 @@
-The QUETZALPAPÁLOTL complex are ruins located in Teotihuacán. The complex is best known for the Palace of Quetzalpapálotl (Spanish: _Palacio de Quetzalpapálotl_) and the stone reliefs in its courtyard. Adjacent structures house surviving murals. The main entrance faces the Avenue of the Dead and is southwest of the Pyramid of the Moon.

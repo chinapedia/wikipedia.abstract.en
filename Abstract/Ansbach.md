@@ -1,1 +1,0 @@
-Former building Gewerbevereins Ansbach De_Merian_Frankoniae_108.jpg ANSBACH (; ) is a city in the German state of Bavaria. It is the capital of the administrative region of Middle Franconia. Ansbach is southwest of Nuremberg and north of Munich, on the Fränkische Rezat (Rezat River), a tributary of the Main river. In 2004, its population was 40,723.

@@ -1,1 +1,0 @@
-EUGENE LEE (born February 14, 1973) is an American sports agent. With over eighteen years of experience as an NFLPA certified contract advisor,[1] Lee has represented over fifty NFL players over the past decade.

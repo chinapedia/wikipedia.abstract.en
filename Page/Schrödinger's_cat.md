@@ -1,4 +1,4 @@
-Schrodingers_cat.svg source are placed in a sealed box. If an internal monitor (e.g. Geiger counter) detects radioactivity (i.e. a single atom decaying), the flask is shattered, releasing the poison, which kills the cat. The Copenhagen interpretation of quantum mechanics implies that after a while, the cat is _simultaneously_ alive _and_ dead. Yet, when one looks in the box, one sees the cat _either_ alive _or_ dead, not both alive _and_ dead. This poses the question of when exactly quantum superposition ends and reality collapses into one possibility or the other.]]
+source are placed in a sealed box. If an internal monitor (e.g. Geiger counter) detects radioactivity (i.e. a single atom decaying), the flask is shattered, releasing the poison, which kills the cat. The Copenhagen interpretation of quantum mechanics implies that after a while, the cat is _simultaneously_ alive _and_ dead. Yet, when one looks in the box, one sees the cat _either_ alive _or_ dead, not both alive _and_ dead. This poses the question of when exactly quantum superposition ends and reality collapses into one possibility or the other.]]
 
 SCHRÖDINGER'S CAT is a thought experiment, sometimes described as a paradox, devised by Austrian physicist Erwin Schrödinger in 1935.[1] It illustrates what he saw as the problem of the Copenhagen interpretation of quantum mechanics applied to everyday objects. The scenario presents a hypothetical cat that may be simultaneously both alive and dead,[2][3][4][5][6][7][8] a state known as a quantum superposition, as a result of being linked to a random subatomic event that may or may not occur.
 
@@ -7,7 +7,7 @@ The thought experiment is also often featured in theoretical discussions of the 
 
 Origin and motivation
 
-Schroedinger_cat.jpgSchrödinger intended his thought experiment as a discussion of the EPR article—named after its authors Einstein, Podolsky, and Rosen—in 1935.[9] The EPR article highlighted the counterintuitive nature of quantum superpositions, in which a quantum system such as an atom or photon can exist as a combination of multiple states corresponding to different possible outcomes.
+Schrödinger intended his thought experiment as a discussion of the EPR article—named after its authors Einstein, Podolsky, and Rosen—in 1935.[9] The EPR article highlighted the counterintuitive nature of quantum superpositions, in which a quantum system such as an atom or photon can exist as a combination of multiple states corresponding to different possible outcomes.
 
 The prevailing theory, called the Copenhagen interpretation, says that a quantum system remains in superposition until it interacts with, or is observed by the external world. When this happens, the superposition collapses into one or another of the possible definite states. The EPR experiment shows that a system with multiple particles separated by large distances can be in such a superposition. Schrödinger and Einstein exchanged letters about Einstein's EPR article, in the course of which Einstein pointed out that the state of an unstable keg of gunpowder will, after a while, contain a superposition of both exploded and unexploded states.
 
@@ -35,7 +35,7 @@ However, one of the main scientists associated with the Copenhagen interpretatio
 
 Many-worlds interpretation and consistent histories
 
-Schroedingers_cat_film.svg In 1957, Hugh Everett formulated the many-worlds interpretation of quantum mechanics, which does not single out observation as a special process. In the many-worlds interpretation, both alive and dead states of the cat persist after the box is opened, but are decoherent from each other. In other words, when the box is opened, the observer and the possibly-dead cat split into an observer looking at a box with a dead cat, and an observer looking at a box with a live cat. But since the dead and alive states are decoherent, there is no effective communication or interaction between them.
+In 1957, Hugh Everett formulated the many-worlds interpretation of quantum mechanics, which does not single out observation as a special process. In the many-worlds interpretation, both alive and dead states of the cat persist after the box is opened, but are decoherent from each other. In other words, when the box is opened, the observer and the possibly-dead cat split into an observer looking at a box with a dead cat, and an observer looking at a box with a live cat. But since the dead and alive states are decoherent, there is no effective communication or interaction between them.
 
 When opening the box, the observer becomes entangled with the cat, so "observer states" corresponding to the cat's being alive and dead are formed; each observer state is entangled or linked with the cat so that the "observation of the cat's state" and the "cat's state" correspond with each other. Quantum decoherence ensures that the different outcomes have no interaction with each other. The same mechanism of quantum decoherence is also important for the interpretation in terms of consistent histories. Only the "dead cat" or the "alive cat" can be a part of a consistent history in this interpretation. Decoherence is generally considered to prevent simultaneous observation of multiple states.[19][20]
 
@@ -69,8 +69,6 @@ Objective collapse theories require a modification of standard quantum mechanics
 
 
 Applications and tests
-
-Quantum_superposition_of_states_and_decoherence.ogv
 
 The experiment as described is a purely theoretical one, and the machine proposed is not known to have been constructed. However, successful experiments involving similar principles, e.g. superpositions of relatively large (by the standards of quantum physics) objects have been performed.[23] These experiments do not show that a cat-sized object can be superposed, but the known upper limit on "cat states" has been pushed upwards by them. In many cases the state is short-lived, even when cooled to near absolute zero.
 

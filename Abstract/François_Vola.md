@@ -1,1 +1,0 @@
-FRANÇOIS VOLA, guitarist and composer, was born in Nice, France, in 1953.[1] He is a double national (France and USA). He is the godson of Louis Vola (bassist with Django Reinhardt's The Hot Club of France).[2][3] He started playing guitar semi-pro at the age of 14. In 1974 at age 20, he moved to the US; studied bluegrass and swing and played in several bands.

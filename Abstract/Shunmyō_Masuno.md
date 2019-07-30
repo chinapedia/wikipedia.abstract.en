@@ -1,1 +1,0 @@
-Gärten_der_Welt,_Berlin-Marzahn_027.jpg, Berlin (2003)]] (born 28 February 1953)[1] is a Japanese monk and garden designer. He is chief priest of the Sōtō Zen temple Kenkō-ji, professor at Tama Art University, and president of a design firm that has completed numerous projects in Japan and overseas. He has been called "Japan's leading garden designer".

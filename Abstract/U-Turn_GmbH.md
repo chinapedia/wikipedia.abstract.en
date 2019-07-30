@@ -1,1 +1,0 @@
-U-TURN GMBH is a German aircraft manufacturer originally based in Villingen-Schwenningen and later in Tuningen. The company specializes in the design and manufacture of paragliders in the form of ready-to-fly aircraft, particularly for aerobatics.[1]

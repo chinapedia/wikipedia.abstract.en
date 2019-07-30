@@ -1,1 +1,0 @@
-MANSING RONGPI is an Bharatiya Janata Party politician from Assam. He was elected in Assam Legislative Assembly election in 2016 from Baithalangso as a candidate from the Indian National Congress party.[1][2][3]

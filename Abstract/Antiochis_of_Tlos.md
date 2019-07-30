@@ -1,1 +1,0 @@
-ANTIOCHIS OF TLOS () was a Roman physician who lived in the 1st century BC or BCE. She was the daughter of Diodotus of Tlos. Through her medical practice, she gained notoriety of citizens and politicians throughout the Lycian region.

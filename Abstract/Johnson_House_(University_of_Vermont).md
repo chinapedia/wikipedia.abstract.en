@@ -1,1 +1,0 @@
-JOHNSON HOUSE is a campus building of the University of Vermont (UVM), which is located at 617 Main Street, on the southwestern corner of the intersection of University Heights in Burlington, Vermont.

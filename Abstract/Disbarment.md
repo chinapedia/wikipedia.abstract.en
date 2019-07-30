@@ -1,1 +1,0 @@
-DISBARMENT is the removal of a lawyer from a bar association or the practice of law, thus revoking his or her law license or admission to practice law. Disbarment is usually a punishment for unethical or criminal conduct. Procedures vary depending on the law society.

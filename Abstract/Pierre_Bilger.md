@@ -1,1 +1,0 @@
-{{ infobox Person | name = Pierre Bilger | birth_date = | birth_place = Colmar, France | death_date = | death_place = Paris, France | nationality = French | education = Sciences Po, ÉNA | death_cause = Leukemia | parents = Joseph Bilger

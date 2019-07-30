@@ -1,1 +1,0 @@
-MARTIN WORTHINGTON is senior lecturer in Assyriology at the University of Cambridge, and former British Academy Research Fellow in the Dept of Near and Middle East at SOAS, University of London, with his research focused on Babylonian poems from the first millennium BC.[1]

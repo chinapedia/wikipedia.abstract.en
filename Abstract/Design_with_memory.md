@@ -1,1 +1,0 @@
-Designwithmemory_exhibition_japan.jpg

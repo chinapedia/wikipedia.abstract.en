@@ -1,1 +1,0 @@
-PATRICK ONWUASOR (born August 22, 1992), nicknamed "PEANUT", is an American football linebacker for the Baltimore Ravens of the National Football League (NFL). He played college football at Portland State and signed with the Ravens as an undrafted free agent in 2016.

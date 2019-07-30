@@ -1,1 +1,0 @@
-The MARUBI PALACE GARDENS RANGE REAR LIGHTHOUSE is located in the Marubi Palace Gardens in Stone Town, Zanzibar, Tanzania.[1] The lighthouse is located to support ships trying to dock at the Stone Town harbor.[2][3]

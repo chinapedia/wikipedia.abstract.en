@@ -1,1 +1,0 @@
-HMS_Noble_FL10070.jpg]] EUGENIUSZ JÓZEF STANISŁAW PŁAWSKI (March 26, 1895 – May 23, 1972) was a Polish Navy officer who served in World War I and World War II. He was the commander of the ORP Piorun (G65) during the hunt for Bismarck.

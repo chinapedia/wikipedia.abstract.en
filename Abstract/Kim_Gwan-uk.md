@@ -1,1 +1,0 @@
-KIM GWAN-UK (born July 22, 1990) is a South Korean freestyle wrestler. He competed in the men's freestyle 86 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Reineris Salas.[1][2]

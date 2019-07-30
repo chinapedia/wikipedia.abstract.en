@@ -1,1 +1,0 @@
-NICOLÁS SARMIENTO (born 3 December 1992) is an Argentine professional futsal player who plays as a Goalkeeper for Spanish club Palma Futsal in the Spanish Primera División and the Argentine national futsal team.

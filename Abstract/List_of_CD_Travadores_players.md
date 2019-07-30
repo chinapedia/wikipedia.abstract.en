@@ -1,1 +1,0 @@
-This article is about the list of CD TRAVADORES players. Clube Desportivo Travadores is a Cape Verdean football (soccer) club based in Praia, Cape Verde and plays at Estádio da Várzea. The club was formed on 15 October 1929.

@@ -1,1 +1,0 @@
-MICHEL LUNEAU (30 January 1934 – 19 July 2012[1]) was a French poet, writer, publisher from Brittany. Also a galierist, from 1998 he directed the centre for contemporary art of la Rairie at Pont-Saint-Martin.

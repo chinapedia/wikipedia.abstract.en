@@ -1,1 +1,0 @@
-LIZ WEIR (born October 21, 1950) is a Northern Irish children's writer and storyteller. She is currently Storyteller in Residence in Belfast and has written 27 stories. She is involved in a number of storytelling organisations including The Early Years Organisation, where she talks to children about racism, anti-bullying and respect for the elderly.

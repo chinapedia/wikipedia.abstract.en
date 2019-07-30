@@ -1,1 +1,0 @@
-DASYPROCTIDAE is a family of large South American rodents, comprising the agoutis and acouchis.[1] Their fur is a reddish or dark colour above, with a paler underside. They are herbivorous, often feeding on ripe fruit that falls from trees. They live in burrows, and, like squirrels, will bury some of their food for later use.[2]

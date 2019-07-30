@@ -1,1 +1,0 @@
-The TRINIDAD AND TOBAGO DEFENCE FORCE (TTDF) is the military organization responsible for the defence of the twin island Republic of Trinidad and Tobago. It consists of the Trinidad and Tobago Regiment, the Trinidad and Tobago Coast Guard, the Trinidad and Tobago Air Guard and the Defence Force Reserves.

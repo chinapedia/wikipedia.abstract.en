@@ -1,1 +1,0 @@
-HENRI RENÉ ALBERT GUY DE MAUPASSANT (;[1] ; 5 August 1850 – 6 July 1893) was a 19th century French author, remembered as a master of the short story form, and as a representative of the Naturalist school, who depicted human lives and destinies and social forces in disillusioned and often pessimistic terms.

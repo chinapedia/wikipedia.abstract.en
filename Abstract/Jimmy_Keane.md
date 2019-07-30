@@ -1,1 +1,0 @@
-JIMMY KEANE is a London-born English musician of Irish origin and a specialist piano accordion player. In addition to his solo career, in the 1980s, he was part of the folk trio Moloney, O'Connell & Keane, then in ensemble Green Fields of America. In the 1990s, he was in Aengus and formed the duo bohola with Pat Broaders. He has recorded and produced a number of albums.

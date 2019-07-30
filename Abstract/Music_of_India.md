@@ -1,1 +1,0 @@
-The MUSIC OF INDIA includes multiple varieties of Punjabi Music, classical music, folk music, filmi, Indian rock, and Indian pop. India's classical music tradition, including Hindustani music and Carnatic, has a history spanning millennia and developed over several areas. Music in India began as an integral part of socio-religious life.

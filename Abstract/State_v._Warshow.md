@@ -1,1 +1,0 @@
-_STATE V. WARSHOW_, Supreme Court of Vermont, 410 A.2d 1000 (1980), is a criminal case that set forth conditions for a defense of necessity in civil disobedience during political protests.[1] Four requirements were described that apply to other necessity defenses.

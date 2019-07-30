@@ -1,1 +1,0 @@
-A BARRISTER is a type of lawyer in common law jurisdictions. Barristers mostly specialise in courtroom advocacy and litigation. Their tasks include taking cases in superior courts and tribunals, drafting legal pleadings, researching the philosophy, hypothesis and history of law, and giving expert legal opinions. Often, barristers are also recognised as _legal scholars_.

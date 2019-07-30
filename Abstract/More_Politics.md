@@ -1,1 +1,0 @@
-_MORE POLITICS_ is the fourth studio album by American rapper Termanology. It was released on November 18, 2016, through his own record label, ST. Records, Statik Selektah's Showoff Records, and Boston based label Brick Records.[1] It serves as a sequel to Politics as Usual (2008).

@@ -1,1 +1,0 @@
-DIANNA MARIE RUSSINI (born February 11, 1983) is an American sports journalist who currently works as an NFL host, reporter, insider, and analyst for ESPN on NFL Countdown and NFL Live. Russini joined ESPN and became a SportsCenter anchor in July 2015.[1] Prior to being hired by ESPN, she worked as the main sports anchor for WRC-TV in Washington, D.C.[2]

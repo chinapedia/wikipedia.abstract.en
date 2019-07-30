@@ -1,1 +1,0 @@
-Historic_pakistan_rel96b.JPG

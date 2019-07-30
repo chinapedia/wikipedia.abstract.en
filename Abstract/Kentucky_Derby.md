@@ -1,1 +1,0 @@
-The KENTUCKY DERBY is a horse race that is held annually in Louisville, Kentucky, United States, on the first Saturday in May, capping the two-week-long Kentucky Derby Festival. The race is a Grade I stakes race for three-year-old Thoroughbreds at a distance of at Churchill Downs. Colts and geldings carry and fillies .[1]

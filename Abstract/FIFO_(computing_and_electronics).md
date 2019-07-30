@@ -1,1 +1,0 @@
-Fifo_queue.png

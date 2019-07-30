@@ -1,1 +1,0 @@
-DENIS GRANT KING (born 1903) was an archaeological draftsman, artist, historic monument conservation campaigner and archaeologist. He worked predominantly in Wiltshire, England, most notably as Alexander Keiller’s surveyor and draftsman during the excavations at Avebury.

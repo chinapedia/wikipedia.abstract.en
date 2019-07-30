@@ -1,1 +1,0 @@
-SUSIE POWER (29 August 2003 in Dublin) is an Irish teen actress and singer. She is best known for playing Eleanor Daly on _Fair City_. She is also known for her roles in _Dark Touch_ and Roy O'Brien in _Little Roy_.

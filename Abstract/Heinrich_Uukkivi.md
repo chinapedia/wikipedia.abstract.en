@@ -1,1 +1,0 @@
-HEINRICH UUKKIVI (10 May 1912 – 12 April 1943) was an Estonian association football, bandy and ice hockey player. He won the Estonian Football Championship five times, the Estonian Bandy Championship three times and the Estonian Ice Hockey Championship twice.[1]

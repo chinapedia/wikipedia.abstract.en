@@ -1,1 +1,0 @@
-The 2016 MAZDA ROAD TO INDY SHOOTOUT was the first edition of the Road to Indy Shootout. The event was held at Mazda Raceway Laguna Seca on December 6 and 7. The winner received a $200,000 scholarship to compete in the 2017 U.S. F2000 National Championship.[1]

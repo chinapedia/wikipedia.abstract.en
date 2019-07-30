@@ -1,1 +1,0 @@
-THE FRIEDMANN–EINSTEIN UNIVERSE is a model of the universe published by Albert Einstein in 1931.[1] The model is of historic significance as the first scientific publication in which Einstein embraced the possibility of a cosmos of time-varying radius.

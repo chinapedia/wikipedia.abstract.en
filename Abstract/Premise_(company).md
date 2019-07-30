@@ -1,1 +1,0 @@
-PREMISE is a San Francisco, CA based data & analytics technology company.[1] Premise is a $66M Series C venture capital organization, backed by Valor Equity Partners, Social Capital, Google Ventures, and Andreessen Horowitz, among others.[2]

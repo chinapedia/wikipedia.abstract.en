@@ -1,1 +1,0 @@
-'''Briana DeSouza ''' (born 22 May 1991) is a Canadian-born Guyanese women's international footballer who plays as a defender. She is co-captain of the Guyana women's national football team[1] and competed at the 2016 CONCACAF Women's Olympic Qualifying Championship.[2] At the club level, she plays for Durham United FC in Canada.[3]

@@ -1,1 +1,0 @@
-'''Patience Sackey ''' (born 22 April 1975) is a Ghanaian women's international footballer who plays as a defender. She is a member of the Ghana women's national football team. She was part of the team at the 1999 FIFA Women's World Cup and 2003 FIFA Women's World Cup.[1]

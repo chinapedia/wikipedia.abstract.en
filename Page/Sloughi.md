@@ -20,8 +20,6 @@ Only a few genetic conditions have been confirmed in the breed. These include ce
 
 History
 
-Arabian_Greyhound_from_1915.JPG
-
 The Sloughi has existed for centuries in North Africa, and is largely found in Morocco. Morocco is responsible for the breed's FCI Standard.[4] The Sloughi was and still is used for hunting in its native countries, and also is a reliable guard dog. Today, the Sloughi is mainly found in Morocco, Algeria, Tunisia, and Libya. The Sloughi received full recognition by the American Kennel Club as of January 1, 2016 when it became eligible to compete in the AKC Hound Group.[5]
 
 

@@ -1,1 +1,0 @@
-ITSLEARNING is a digital learning management system developed by the Norwegian company itslearning AS and designed for both lower and higher degrees of education: from kindergartens and primary schools to colleges.[1]

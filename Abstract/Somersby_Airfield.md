@@ -1,1 +1,0 @@
-SOMERSBY AIRFIELD (ICAO: YSMB, IATA: GOS) is an Australian airfield located in the town of Somersby, New South Wales. The airport is by road from the Central Business District of the nearby city of Gosford, and is one of the closest airports to it. It is the only aerodrome in Somersby, and does not serve scheduled commercial traffic.

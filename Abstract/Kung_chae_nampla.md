@@ -1,1 +1,0 @@
-_KUNG CHAE NAMPLA_ (, ) is a Thai salad made from fresh raw shrimp soaked in Thai fish sauce and served with chunks of gourd, cloves of garlic, chilies, and spicy sauce.[1] Generally, Thais usually use whiteleg shrimp in this dish.

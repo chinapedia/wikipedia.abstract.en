@@ -1,1 +1,0 @@
-MOHIT ABROL (born 1 November 1988) is an Indian television actor known for being a part of various shows like: _Balika Vadhu,_ _Razia Sultan_, _Pyaar Ko Ho Jaane Do,_ _Tum Saath Ho Jab Apne_, _MTV Fanaah_, _Meri Aashiqui Tum Se Hi_, _Swaragini - Jodein Rishton Ke Sur_, _Gangaa_, _Kavach...Kaali Shaktiyon Se_ and Porus.

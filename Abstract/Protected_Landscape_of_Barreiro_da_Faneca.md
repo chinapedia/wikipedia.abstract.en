@@ -1,1 +1,0 @@
-The PROTECTED LANDSCAPE OF BARREIRO DA FANECA () is a geological region and protected landscape in the civil parish of São Pedro, in the municipality of Vila do Porto, on the Portuguese island of Santa Maria, archipelago of the Azores.

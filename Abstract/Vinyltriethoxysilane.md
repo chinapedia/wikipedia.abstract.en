@@ -1,1 +1,0 @@
-VINYLTRIETHOXYSILANE is an organosilicon compound with the formula (C₂H₅O)₃SiCH=CH₂. It is a colorless liquid. The compound is bifunctional, featuring both a vinyl group and hydrolytically sensitive ethoxysilyl groups. As such it is a crosslinking agent.[1]

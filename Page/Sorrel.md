@@ -1,4 +1,4 @@
-Rumex_acetosa_-_Hapu_oblikas.jpg Sorrel_soup_with_egg_and_croutons_(Zupa_szczawiowa_z_jajkiem_i_grzankami).jpg with egg and croutons, Poland]]
+with egg and croutons, Poland]]
 
 COMMON SORREL or GARDEN SORREL (_Rumex acetosa_), often simply called SORREL, is a perennial herb in the family Polygonaceae. Other names for sorrel include SPINACH DOCK and NARROW-LEAVED DOCK. It is a common plant in grassland habitats and is cultivated as a garden herb or salad vegetable (pot herb).
 

@@ -1,1 +1,0 @@
-ALPHONSE DECUYPER (3 April 1877 – 7 June 1937) was a French male water polo player. He was a member of the Libellule de Paris water polo team. He won with the team the bronze medal at the 1900 Summer Olympics.[1]

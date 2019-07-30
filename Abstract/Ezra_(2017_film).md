@@ -1,1 +1,0 @@
-_EZRA_ is a 2017 Indian Malayalam-language supernatural thriller film written and directed by Jay K. and starring Prithviraj Sukumaran.[1] Principal photography began in late-June 2016. Major filming locations were Fort Kochi and Sri Lanka.[2] The film was one of the highest-grossing Malayalam films of the year, it grossed 50 crore at the box-office.[3]

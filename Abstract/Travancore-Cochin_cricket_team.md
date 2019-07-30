@@ -1,1 +1,0 @@
-The TRAVANCORE-COCHIN cricket team represented the Indian state of Travancore-Cochin in the Ranji Trophy from 1951-52 to 1956-57. After the state was reorganised and expanded to form the new state of Kerala in 1956, the Travancore-Cochin team was superseded by the Kerala cricket team, beginning with the 1957-58 Ranji Trophy.

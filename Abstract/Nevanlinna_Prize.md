@@ -1,1 +1,0 @@
-The ROLF NEVANLINNA PRIZE (named in honor of Rolf Nevanlinna) is awarded once every 4 years at the International Congress of Mathematicians, for outstanding contributions in Mathematical Aspects of Information Sciences including:

@@ -1,1 +1,0 @@
-Georg_Saal_Selbstbildnis_1858.JPG (1858)]] GEORG EDUARD OTTO SAAL (11 March 1817, Koblenz - 3 October 1870, Baden-Baden) was a German painter; known primarily for his landscapes of Norway, although he worked in a wide variety of genres.

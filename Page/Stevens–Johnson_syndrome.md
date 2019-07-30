@@ -72,7 +72,7 @@ The diagnosis is based on involvement of less than 10% of the skin.[95] It is kn
 
 Pathology
 
-Confluent_epidermal_necrosis_-_very_high_mag.jpg showing full-thickness epidermal necrosis with a basket weave-like stratum corneum and separation of the dermis and epidermis, skin biopsy, H&E stain]] SJS, like TEN and erythema multiforme, is characterized by confluent epidermal necrosis with minimal associated inflammation. The acuity is apparent from the (normal) basket weave-like pattern of the stratum corneum.
+showing full-thickness epidermal necrosis with a basket weave-like stratum corneum and separation of the dermis and epidermis, skin biopsy, H&E stain]] SJS, like TEN and erythema multiforme, is characterized by confluent epidermal necrosis with minimal associated inflammation. The acuity is apparent from the (normal) basket weave-like pattern of the stratum corneum.
 
 Classification
 

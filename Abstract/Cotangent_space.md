@@ -1,1 +1,0 @@
-In differential geometry, one can attach to every point _x_ of a smooth (or differentiable) manifold a vector space called the COTANGENT SPACE at _x_. Typically, the cotangent space is defined as the dual space of the tangent space at _x_, although there are more direct definitions (see below). The elements of the cotangent space are called COTANGENT VECTORS or TANGENT COVECTORS.

@@ -1,1 +1,0 @@
-Soldadu MUHAMMAD RAZIMIE BIN RAMLLI (born 6 August 1990) is a Bruneian international footballer who plays for Singapore Premier League side DPMM FC and the Brunei national football team as a striker.[1]

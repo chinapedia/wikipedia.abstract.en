@@ -1,1 +1,0 @@
-BUL-GAE (Korean: 불 개 _fire dog_), the mythical FIRE DOGS in Korean mythology, are dog beasts from the kingdom of darkness that always chase the sun and moon, causing eclipses when they bite both the celestial bodies.[1]

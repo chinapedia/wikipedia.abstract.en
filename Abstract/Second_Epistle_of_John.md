@@ -1,1 +1,0 @@
-The SECOND EPISTLE OF JOHN, often referred to as SECOND JOHN and often written 2 JOHN or II JOHN, is a book of the New Testament attributed to John the Evangelist, traditionally thought to be the author of the Gospel of John and the other two epistles of John.

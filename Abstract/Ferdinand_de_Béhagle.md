@@ -1,1 +1,0 @@
-JEAN JACQUES MARIE FERDINAND DE BÉHAGLE (18 July 1857 – 15 October 1899) was a French explorer of Africa. He served with the colonial service in Algeria and travelled in the Congo and Ubangi region. While attempting to find a viable land route from the Congo to the Mediterranean via Chad he was taken prisoner by Rabih az-Zubayr and hanged.

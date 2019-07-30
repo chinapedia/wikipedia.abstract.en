@@ -1,1 +1,0 @@
-Riemann-Zeta-Detail.png

@@ -1,1 +1,0 @@
-In group theory, a branch of mathematics, given a group _G_ under a binary operation ∗, a subset _H_ of _G_ is called a SUBGROUP of _G_ if _H_ also forms a group under the operation ∗. More precisely, _H_ is a subgroup of _G_ if the restriction of ∗ to is a group operation on _H_. This is usually denoted , read as "_H_ is a subgroup of _G_".

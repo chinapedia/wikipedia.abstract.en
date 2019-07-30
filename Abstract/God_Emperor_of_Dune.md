@@ -1,1 +1,0 @@
-_GOD EMPEROR OF DUNE_ is a science fiction novel by Frank Herbert published in 1981, the fourth in his _Dune_ series of six novels. It was ranked as the number 11 hardcover fiction best seller of 1981 by _Publishers Weekly_.[1]

@@ -1,1 +1,0 @@
-RAMAVARAPPADU JUNCTION is one of the busiest chowks (roundabout / traffic circle) and a prominent landmark located on National Highway 16 in the Indian City of Vijayawada, Andhra Pradesh.[1] Two highways NH16 and Vijayawada Inner Ring Road intersect at this junction.

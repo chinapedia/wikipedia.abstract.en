@@ -1,1 +1,0 @@
-The CONNECTICUT EASTERN RAILROAD MUSEUM is a railroad museum located on Route 32 in Willimantic, Connecticut.[1] It was founded by members of the Connecticut Eastern Chapter of the National Railway Historical Society.

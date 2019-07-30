@@ -1,1 +1,0 @@
-The GURJAANI KVELATSMINDA CHURCH of the Dormition of the Mother of God (, literally, "the holiest of Gurjaani") is a Georgian Orthodox church constructed in the 8th or 9th century, during the "transitional period" in the medieval Georgian architecture. It is located in the town of Gurjaani in Georgia's easternmost region of Kakheti.[1]

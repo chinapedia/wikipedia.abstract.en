@@ -1,4 +1,4 @@
-SaltInWaterSolutionLiquid.jpg solution by dissolving table salt (NaCl) in water. The salt is the solute and the water the solvent.]]
+solution by dissolving table salt (NaCl) in water. The salt is the solute and the water the solvent.]]
 
 In chemistry, a SOLUTION is a special type of homogeneous mixture composed of two or more substances. In such a mixture, a solute is a substance dissolved in another substance, known as a solvent. The mixing process of a solution happens at a scale where the effects of chemical polarity are involved, resulting in interactions that are specific to solvation. The solution assumes the phase of the solvent when the solvent is the larger fraction of the mixture, as is commonly the case. The concentration of a solute in a solution is the mass of that solute expressed as a percentage of the mass of the whole solution. The term aqueous solution is when one of the solvents is water.[1]
 
@@ -77,7 +77,7 @@ Liquid
 
 In principle, all types of liquids can behave as solvents: liquid noble gases, molten metals, molten salts, molten covalent networks, and molecular liquids. In the practice of chemistry and biochemistry, most solvents are molecular liquids. They can be classified into polar and non-polar, according to whether their molecules possess a permanent electric dipole moment. Another distinction is whether their molecules can form hydrogen bonds (protic and aprotic solvents). Water, the most commonly used solvent, is both polar and sustains hydrogen bonds.
 
-3D_model_hydrogen_bonds_in_water.svg is a good solvent because the molecules are polar and capable of forming hydrogen bonds (1).]]
+is a good solvent because the molecules are polar and capable of forming hydrogen bonds (1).]]
 
 Salts dissolve in polar solvents, forming positive and negative ions that are attracted to the negative and positive ends of the solvent molecule, respectively. If the solvent is water, hydration occurs when the charged solute ions become surrounded by water molecules. A standard example is aqueous saltwater. Such solutions are called electrolytes. Whenever salt dissolves in water ion association has to be taken into account.
 

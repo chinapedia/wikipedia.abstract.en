@@ -27,7 +27,7 @@ By 1916, he had completed a doctoral dissertation for Harvard on "Knowledge and 
 
 Marriage
 
-Vivienne_Haigh-Wood_Eliot_1920.jpg, passport photograph from 1920. ]] In a letter to Aiken late in December 1914, Eliot, aged 26, wrote, "I am very dependent upon women (I mean female society)."[32] Less than four months later, Thayer introduced Eliot to Vivienne Haigh-Wood, a Cambridge governess. They were married at Hampstead Register Office on 26 June 1915.[33]
+, passport photograph from 1920. ]] In a letter to Aiken late in December 1914, Eliot, aged 26, wrote, "I am very dependent upon women (I mean female society)."[32] Less than four months later, Thayer introduced Eliot to Vivienne Haigh-Wood, a Cambridge governess. They were married at Hampstead Register Office on 26 June 1915.[33]
 
 After a short visit alone to his family in the United States, Eliot returned to London and took several teaching jobs, such as lecturing at Birkbeck College, University of London. The philosopher Bertrand Russell took an interest in Vivienne while the newlyweds stayed in his flat. Some scholars have suggested that she and Russell had an affair, but the allegations were never confirmed.[34]
 
@@ -37,13 +37,13 @@ In a private paper written in his sixties, Eliot confessed: "I came to persuade 
 
 Teaching, Lloyds, Faber and Faber
 
-TSEliotFaberHouse_(cropped).jpg's Faber Building, 24 Russell Square, London]] After leaving Merton, Eliot worked as a schoolteacher, most notably at Highgate School, a private school in London, where he taught French and Latin—his students included the young John Betjeman.[37] Later he taught at the Royal Grammar School, High Wycombe, a state school in Buckinghamshire. To earn extra money, he wrote book reviews and lectured at evening extension courses at the University College London, and Oxford. In 1917, he took a position at Lloyds Bank in London, working on foreign accounts. On a trip to Paris in August 1920 with the artist Wyndham Lewis, he met the writer James Joyce. Eliot said he found Joyce arrogant—Joyce doubted Eliot's ability as a poet at the time—but the two soon became friends, with Eliot visiting Joyce whenever he was in Paris.[38] Eliot and Wyndham Lewis also maintained a close friendship, leading to Lewis's later making his well-known portrait painting of Eliot in 1938.
+'s Faber Building, 24 Russell Square, London]] After leaving Merton, Eliot worked as a schoolteacher, most notably at Highgate School, a private school in London, where he taught French and Latin—his students included the young John Betjeman.[37] Later he taught at the Royal Grammar School, High Wycombe, a state school in Buckinghamshire. To earn extra money, he wrote book reviews and lectured at evening extension courses at the University College London, and Oxford. In 1917, he took a position at Lloyds Bank in London, working on foreign accounts. On a trip to Paris in August 1920 with the artist Wyndham Lewis, he met the writer James Joyce. Eliot said he found Joyce arrogant—Joyce doubted Eliot's ability as a poet at the time—but the two soon became friends, with Eliot visiting Joyce whenever he was in Paris.[38] Eliot and Wyndham Lewis also maintained a close friendship, leading to Lewis's later making his well-known portrait painting of Eliot in 1938.
 
 Charles Whibley recommended T.S. Eliot to Geoffrey Faber.[39] In 1925 Eliot left Lloyds to become a director in the publishing firm Faber and Gwyer, later Faber and Faber, where he remained for the rest of his career.[40][41] At Faber and Faber, he was responsible for publishing important English poets like W. H. Auden, Stephen Spender, and Ted Hughes.[42]
 
 Conversion to Anglicanism and British citizenship
 
-T.S._Eliot_house.jpg building where Eliot worked from 1925 to 1965; the commemorative plaque is under the right-hand arch.]] On 29 June 1927, Eliot converted to Anglicanism from Unitarianism, and in November that year he took British citizenship. He became a warden of his parish church, St Stephen's, Gloucester Road, London, and a life member of the Society of King Charles the Martyr.[43][44] He specifically identified as Anglo-Catholic, proclaiming himself "classicist in literature, royalist in politics, and anglo-catholic in religion".[45][46] About 30 years later Eliot commented on his religious views that he combined "a Catholic cast of mind, a Calvinist heritage, and a Puritanical temperament".[47] He also had wider spiritual interests, commenting that "I see the path of progress for modern man in his occupation with his own self, with his inner being" and citing Goethe and Rudolf Steiner as exemplars of such a direction.[48]
+building where Eliot worked from 1925 to 1965; the commemorative plaque is under the right-hand arch.]] On 29 June 1927, Eliot converted to Anglicanism from Unitarianism, and in November that year he took British citizenship. He became a warden of his parish church, St Stephen's, Gloucester Road, London, and a life member of the Society of King Charles the Martyr.[43][44] He specifically identified as Anglo-Catholic, proclaiming himself "classicist in literature, royalist in politics, and anglo-catholic in religion".[45][46] About 30 years later Eliot commented on his religious views that he combined "a Catholic cast of mind, a Calvinist heritage, and a Puritanical temperament".[47] He also had wider spiritual interests, commenting that "I see the path of progress for modern man in his occupation with his own self, with his inner being" and citing Goethe and Rudolf Steiner as exemplars of such a direction.[48]
 
 One of Eliot's biographers, Peter Ackroyd, commented that "the purposes of [Eliot's conversion] were two-fold. One: the Church of England offered Eliot some hope for himself, and I think Eliot needed some resting place. But secondly, it attached Eliot to the English community and English culture."[49]
 
@@ -59,7 +59,7 @@ On 10 January 1957, at the age of 68, Eliot married Esmé Valerie Fletcher, who 
 
 Death and honours
 
-T_S_Eliot_3_Kensington_Court_Gardens_blue_plaque.jpg Eliot died of emphysema at his home in Kensington in London, on 4 January 1965,[58] and was cremated at Golders Green Crematorium.[59] In accordance with his wishes, his ashes were taken to St Michael and All Angels' Church, East Coker, the village in Somerset from which his Eliot ancestors had emigrated to America.[60] A wall plaque in the church commemorates him with a quotation from his poem _East Coker_: "In my beginning is my end. In my end is my beginning."[61]
+Eliot died of emphysema at his home in Kensington in London, on 4 January 1965,[58] and was cremated at Golders Green Crematorium.[59] In accordance with his wishes, his ashes were taken to St Michael and All Angels' Church, East Coker, the village in Somerset from which his Eliot ancestors had emigrated to America.[60] A wall plaque in the church commemorates him with a quotation from his poem _East Coker_: "In my beginning is my end. In my end is my beginning."[61]
 
 In 1967, on the second anniversary of his death, Eliot was commemorated by the placement of a large stone in the floor of Poets' Corner in London's Westminster Abbey. The stone, cut by designer Reynolds Stone, is inscribed with his life dates, his Order of Merit, and a quotation from his poem _Little Gidding_, "the communication / of the dead is tongued with fire beyond / the language of the living."[62]
 
@@ -84,7 +84,7 @@ The poem's structure was heavily influenced by Eliot's extensive reading of Dant
 
 _The Waste Land_
 
-T.S._Eliot,_1923.JPG]] In October 1922, Eliot published _The Waste Land_ in _The Criterion_. Eliot's dedication to _il miglior fabbro_ ("the better craftsman") refers to Ezra Pound's significant hand in editing and reshaping the poem from a longer Eliot manuscript to the shortened version that appears in publication.[71]
+]] In October 1922, Eliot published _The Waste Land_ in _The Criterion_. Eliot's dedication to _il miglior fabbro_ ("the better craftsman") refers to Ezra Pound's significant hand in editing and reshaping the poem from a longer Eliot manuscript to the shortened version that appears in publication.[71]
 
 It was composed during a period of personal difficulty for Eliot—his marriage was failing, and both he and Vivienne were suffering from nervous disorders. The poem is often read as a representation of the disillusionment of the post-war generation. Before the poem's publication as a book in December 1922, Eliot distanced himself from its vision of despair. On 15 November 1922, he wrote to Richard Aldington, saying, "As for _The Waste Land_, that is a thing of the past so far as I am concerned and I am now feeling toward a new form and style."[72]
 
@@ -195,13 +195,9 @@ National or State Honours
 
 These honours are displayed in order of precedence based on Eliot's nationality and rules of protocol, not awarding date.
 
-  -----------------------------------------------------
+  ---------------------------
   NATIONAL OR STATE HONOURS
-  Order_of_Merit_(Commonwealth_realms)_ribbon.png
-  Presidential_Medal_of_Freedom_(ribbon).png
-  Legion_Honneur_Officier_ribbon.svg
-  Ordre_des_Arts_et_des_Lettres_Commandeur_ribbon.svg
-  -----------------------------------------------------
+  ---------------------------
 
 Literary awards
 

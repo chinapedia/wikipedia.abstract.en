@@ -1,1 +1,0 @@
-COGNIA Cloud is a cloud-based compliance archiving and analytics company, with headquarters in London.[1] It was established in 2007 to provide recording and regulatory solutions to financial institutions, telecommunications providers and field services enterprises.

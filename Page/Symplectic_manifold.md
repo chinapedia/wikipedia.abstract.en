@@ -80,7 +80,7 @@ A LAGRANGIAN FIBRATION of a symplectic manifold _M_ is a fibration where all of 
 
 Lagrangian mapping
 
-TIKZ_PICT_FBN.png Let _L_ be a Lagrangian submanifold of a symplectic manifold (_K_,ω) given by an immersion (_i_ is called a LAGRANGIAN IMMERSION). Let give a Lagrangian fibration of _K_. The composite is a LAGRANGIAN MAPPING. The critical value set of _π_ ∘ _i_ is called a caustic.
+Let _L_ be a Lagrangian submanifold of a symplectic manifold (_K_,ω) given by an immersion (_i_ is called a LAGRANGIAN IMMERSION). Let give a Lagrangian fibration of _K_. The composite is a LAGRANGIAN MAPPING. The critical value set of _π_ ∘ _i_ is called a caustic.
 
 Two Lagrangian maps and are called LAGRANGIAN EQUIVALENT if there exist diffeomorphisms _σ_, _τ_ and _ν_ such that both sides of the diagram given on the right commute, and _τ_ preserves the symplectic form.[7] Symbolically:
 

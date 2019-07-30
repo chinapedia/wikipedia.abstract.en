@@ -1,1 +1,0 @@
-APPROXIMATE MEASURES are units of volumetric measurement which are not defined by a government or government-sanctioned organization, or which were previously defined and are now repealed, yet which remain in use.[1][2][3]

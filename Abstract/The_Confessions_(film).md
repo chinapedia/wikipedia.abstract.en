@@ -1,1 +1,0 @@
-_THE CONFESSIONS_ () is a 2016 Italian-French thriller drama film directed by Roberto Andò. It stars Toni Servillo, Connie Nielsen, Pierfrancesco Favino, Marie-Josée Croze, Moritz Bleibtreu, Lambert Wilson and Daniel Auteuil .[1][2]

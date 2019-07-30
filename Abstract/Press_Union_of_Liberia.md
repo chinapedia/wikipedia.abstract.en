@@ -1,1 +1,0 @@
-The PRESS UNION OF LIBERIA was founded on September 30, 1964 by a group of independent journalists. It serves as an umbrella organization for media professionals and institutions to advocate for press freedom and the legal protection of journalists.

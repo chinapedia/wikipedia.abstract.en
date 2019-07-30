@@ -1,1 +1,0 @@
-The 2016 INTERNATIONAUX FÉMININS DE LA VIENNE was a professional tennis tournament played on indoor hard courts. It was the 20th edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $100,000 in prize money. It took place in Poitiers, France, on 24–30 October 2016.

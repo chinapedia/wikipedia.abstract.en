@@ -1,1 +1,0 @@
-The TONGGUAN KILN (), also called the CHANGSHA KILN, is located in Wazhaping (瓦渣坪), Tongguan Subdistrict, Changsha, Hunan, China. It is one of the major kiln sites in Tongguan to be protected at the national level. The place was a historical kiln site of potteries in the Tang (618–907 AD) and Five Dynasties periods (907–960 AD),[1]

@@ -1,1 +1,0 @@
-is a 2016 Japanese science fiction film directed by Takashi Miike and based on the manga series of the same name[1] by Yū Sasuga & Kenichi Tachibana. It was released in Japan on Friday, April 29, 2016.[2]

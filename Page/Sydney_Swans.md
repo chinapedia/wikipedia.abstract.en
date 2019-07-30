@@ -9,7 +9,7 @@ The Swans' headquarters and training facilities are located at the Sydney Cricke
 
 South Melbourne history
 
-Smfc.png Old_lake_oval_grandstand.jpg ground, a single grandstand built in 1926 which for many years stood in a state of disrepair]]
+ground, a single grandstand built in 1926 which for many years stood in a state of disrepair]]
 
 Origins: 1874–1876
 
@@ -63,8 +63,6 @@ The move caused great internal difficulties, as a group of supporters known as K
 +-----------------------------------+---------------+-----+---------+
 
 Upon moving, the club played at the Sydney Cricket Ground. In 1982, the club was technically a Melbourne-based club which played all of its home games in Sydney; it dropped the name "South Melbourne" in June 1982, becoming known as simply "the Swans" for the rest of that season.[21] It was not until 1983 that the club formally moved its operations to Sydney and became the Sydney Swans.[22] Its physical "home club" was the "Southern Cross Social Club" at 120a Clovelly Road, Randwick, New South Wales which became bankrupt in 1987; new Sydney Swans Offices were then set up in the Sydney Football Stadium.
-
-Sydney80s.png
 
 On 31 July 1985, for what was thought to be $6.3 million, Geoffrey Edelsten "bought" the Swans; in reality it was $2.9 million in cash with funding and other payments spread over five years. Edelsten resigned as chairman in less than twelve months, but had already made his mark. He immediately recruited former Geelong coach Tom Hafey. Hafey, in turn, used his knowledge of Geelong's contracts to recruit David Bolton, Bernard Toohey and Greg Williams, who would all form a key part of the Sydney side, at a league-determined total fee of $240,000 (less than the $500,000 Geelong demanded and even the $300,000 Sydney offered).[23] The likes of Gerard Healy, Merv Neagle and Paul Morwood were also poached from other clubs, and failed approaches were made to Simon Madden, Terry Daniher, Andrew Bews and Maurice Rioli.[24]
 
@@ -155,7 +153,7 @@ Sydney finished the 2007 home and away season in 7th place, and advanced to the 
 
 The conclusion of the 2007 trade saw the loss of Adam Schneider and Sean Dempster to St Kilda, the delisting of Simon Phillips, Jonathan Simpkin and Luke Vogels, and the gain of Henry Playfair from Geelong and Martin Mattner from Adelaide.
 
-Sydney_banner_honouring_Amon_Buchanon_and_Paul_Roos.jpg' 500th game as player and coach]]
+' 500th game as player and coach]]
 
 The Swans spent the middle part of the 2008 season inside the top four, however a late form slump which yielded only three wins in the last nine rounds saw the Swans drop to sixth at the conclusion of the 2008 regular season. Having qualified for the finals for a sixth consecutive season, the Swans defeated in the elimination final before losing to the Western Bulldogs the following week.
 
@@ -184,13 +182,13 @@ Former premiership-winning forward John Longmire took over as coach of the Swans
 
 It was during the regular season that the Swans caused the upset of the season, defeating the star-studded Geelong Cats on its home ground, Skilled Stadium, where the home tenant had won its past 29 games in succession, and its past two matches at the ground by a combined margin of 336 points, in Round 23. It was the Swans' first win over the Cats since 2006 and its first win at the ground since Round 8, 1999. The Swans were also the only team to defeat the West Coast Eagles at Patersons Stadium during the regular season. The Swans' victory over Geelong was overshadowed by the news that co-captain Jarrad McVeigh's baby daughter had died in the week leading up to the match, forcing him to miss that match.
 
-Sydney_Swans_banner.jpg The 2012 season began for the Swans with the inaugural Sydney Derby against AFL newcomers . After an even and physical first half, Sydney went on to win by 63 points. Subsequent wins over , , and saw the Swans sit second behind on percentage after Round 5, but the Swans would proceed to lose three of their next four matches before embarking on a nine-match winning streak between Rounds 10 and 19 inclusive. The Swans eventually finished the regular season in third place after losing three of their final four matches, all against their fellow top-four rivals (Collingwood, Hawthorn and Geelong in Rounds 20, 22 and 23 respectively).
+The 2012 season began for the Swans with the inaugural Sydney Derby against AFL newcomers . After an even and physical first half, Sydney went on to win by 63 points. Subsequent wins over , , and saw the Swans sit second behind on percentage after Round 5, but the Swans would proceed to lose three of their next four matches before embarking on a nine-match winning streak between Rounds 10 and 19 inclusive. The Swans eventually finished the regular season in third place after losing three of their final four matches, all against their fellow top-four rivals (Collingwood, Hawthorn and Geelong in Rounds 20, 22 and 23 respectively).
 
 The Swans defeated by 29 points in their qualifying final at AAMI Stadium, thus earning a week off and a home preliminary final, where they then defeated by 26 points to qualify for their first grand final since 2006, ending an eleven-match losing streak against the Magpies in the process.
 
 In the grand final, the Swans defeated Hawthorn by ten points in front of 99,683 people at the MCG, with Nick Malceski kicking a snap goal with 34 seconds left to seal the Swans' fifth premiership and first since 2005. Ryan O'Keefe was named the Norm Smith Medallist and the Swan's best player in September
 
-Sydney_Swans_warming_up_2013.jpg The Swans' 2013 season was marred by long-term injuries to many of its key players, namely Adam Goodes, Sam Reid, Lewis Jetta, Rhyce Shaw and Lewis Roberts-Thomson, among others; despite this setback, the team were still able to reach the finals for the fifteenth time in 18 seasons, reaching the preliminary finals where they were defeated by at Patersons Stadium, its first loss at the venue since 2009.[30][31]
+The Swans' 2013 season was marred by long-term injuries to many of its key players, namely Adam Goodes, Sam Reid, Lewis Jetta, Rhyce Shaw and Lewis Roberts-Thomson, among others; despite this setback, the team were still able to reach the finals for the fifteenth time in 18 seasons, reaching the preliminary finals where they were defeated by at Patersons Stadium, its first loss at the venue since 2009.[30][31]
 
 The 2014 AFL season began with some difficulties for the Swans. Sydney lost their first game against and then to Collingwood before becoming the first non-South Australian team to win at Adelaide Oval defeating Adelaide by 63 points with Lance Franklin and Luke Parker kicking 4 goals each. After a loss to North Melbourne in Round 4, the Swans' won twelve games in a row, including victories against 2013 grand finalists Fremantle and Hawthorn, Geelong by 110 points at the SCG and then ladder leaders Port Adelaide. In Round 17, the Swans defeated Carlton to match a winning streak set three times in club history, the last of which came way back in 1935,[32] and eventually closed out the season with their first minor premiership in 18 years and a club record 17 wins for the season, eclipsing the previous highest of 16, which was achieved on six past occasions in 2012, 1996, 1986, 1945, 1936 and 1935. In 2014 the Swans were minor premiers, and also qualified for the 2014 AFL Grand Final. They defeated Fremantle at home in the first qualifying final in Round one of the finals series and so earned a one-week break. In the first preliminary final the Swans had a convincing win against North Melbourne, which led them to their fourth grand final in 10 years. The 2014 AFL Grand Final was played on Saturday 27 September 2014 in near perfect weather conditions, with Sydney seen as favourites leading up to the match. This was the first time in a finals series that former Hawk player Lance Franklin would play against his former team, one of very few players to have played back to back grand finals for two different teams. The Hawks dominated the game quite early and eventually defeated the Swans 11.8.(74) to 21.11.(137). The 63-point loss was Sydney's biggest ever loss in a grand final and their biggest defeat all season, meaning Hawthorn would become back to back premiers for the second time in their history.
 
@@ -237,7 +235,7 @@ George Gershwin's _Swanee_ (1919) was used by the club in marketing promotions d
 
 Mascot
 
-Swans_mascot.jpgThe Sydney Swans' mascot for the AFL's Mascot Manor is Syd 'Swannie' Skilton. He is named after Swans legend Bob Skilton. The actual mascot at Sydney's home games is, however, still known as _Cyggy_ (as in cygnet).
+The Sydney Swans' mascot for the AFL's Mascot Manor is Syd 'Swannie' Skilton. He is named after Swans legend Bob Skilton. The actual mascot at Sydney's home games is, however, still known as _Cyggy_ (as in cygnet).
 
 Home ground
 
@@ -246,7 +244,7 @@ Since the 2016 AFL season, the Swans have played all their home games at the Syd
 
 Supporter base
 
-Sydney_swans_supporters_at_the_2006_afl_grand_final.jpg The Sydney Swans have built a strong following in the city they've called home since moving from South Melbourne. Attendances and memberships grew dramatically during the Lockett era, helped out by the Super League War plaguing Rugby League. The Swans continue to have a strong supporter base in Victoria with attendances for Swans games in Melbourne being much higher than other non-Victorian teams.
+The Sydney Swans have built a strong following in the city they've called home since moving from South Melbourne. Attendances and memberships grew dramatically during the Lockett era, helped out by the Super League War plaguing Rugby League. The Swans continue to have a strong supporter base in Victoria with attendances for Swans games in Melbourne being much higher than other non-Victorian teams.
 
 LEGEND: _Premiers_ _Grand Finalist_ _Finals_ _Wooden spoon_
 
@@ -326,7 +324,7 @@ The introduction of the GWS Giants to the AFL in 2012 resulted in the formation 
 
 West Coast Eagles
 
-Barry_Hall.jpg and Darren Glass]] The Swans developed a famous modern rivalry against the Perth-based West Coast Eagles between 2005 and 2007, when six consecutive games between the two teams, including two qualifying finals and two grand finals, were decided by less than a goal. The rivalry was highlighted by Sydney's four-point win against West Coast in the 2005 Grand Final, and West Coast's one-point win against Sydney in the 2006 Grand Final.
+and Darren Glass]] The Swans developed a famous modern rivalry against the Perth-based West Coast Eagles between 2005 and 2007, when six consecutive games between the two teams, including two qualifying finals and two grand finals, were decided by less than a goal. The rivalry was highlighted by Sydney's four-point win against West Coast in the 2005 Grand Final, and West Coast's one-point win against Sydney in the 2006 Grand Final.
 
 Hawthorn
 

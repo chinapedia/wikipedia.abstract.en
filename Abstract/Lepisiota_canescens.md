@@ -1,1 +1,0 @@
-_LEPISIOTA CANESCENS_ is a species of ant in the subfamily Formicinae. Supercolonies spanning as much as 38 kilometres have been found. Scientists believe that this ant species has the potential of spreading all over the world and posing threats to other ants.[1]

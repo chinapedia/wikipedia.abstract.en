@@ -1,1 +1,0 @@
-BRITAIN'S BRAVEST MANUFACTURING COMPANY (BBMC) is a social enterprise company based in England, which employs Armed Forces veterans and people with disabilities. It aims to produce four things; signs, wooden pallets, print & mail and fulfilment.

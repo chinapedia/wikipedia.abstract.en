@@ -1,1 +1,0 @@
-N. KESAVAN (d. 2011) was an Indian politician, philanthropist and founder of Sri Manakula Vinayagar Educational Trust, from Puducherry. He served as Member of the Legislative Assembly from Lawspet assembly constituency from 1996 to 2001. He was appointed as Government Whip in Puducherry Legislative Assembly during his tenure.[1]

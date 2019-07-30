@@ -1,1 +1,0 @@
-The UTAH SOCCER ASSOCIATION is the association for soccer and USASA affiliate in Utah.[1] It promotes, oversees, and regulates amateur soccer in the state. It is also affiliated with FIFA, the world governing body of soccer. The Utah Soccer Association has five divisions, the first being the fifth division in U.S. soccer, and the last being the tenth.

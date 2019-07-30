@@ -1,1 +1,0 @@
-The 2016–17 BASKETBALL LEAGUE OF SERBIA SEASON is the 11th season of the Basketball League of Serbia, the highest professional basketball league in Serbia. It is also 73rd national championship played by Serbian clubs inclusive of nation's previous incarnations as Yugoslavia and Serbia & Montenegro.

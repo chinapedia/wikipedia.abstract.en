@@ -1,1 +1,0 @@
-The 2016 VIETNAM FLOODS affected central Vietnam, resulting in estimated 27.000 thousands of homes entirely submerged by rising water. Meteorologists cited the 2016 Asian monsoon, among the strongest in years, and the El Niño as the cause.[1] The last time the area was heavily flooded was during the 2008 Vietnam floods.

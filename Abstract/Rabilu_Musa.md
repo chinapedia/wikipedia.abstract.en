@@ -1,1 +1,0 @@
-RABILU MUSA, popularly known as Dan Ibro (December 12, 1971 – December 9, 2014) was a Nigerian professional Hausa comedian, actor, filmmaker and director. He was regarded as a pioneer revolutionist of the modern day Kannywood and the most popular comedian ever in the history of Kannywood Movie Industry until his death in 2014.

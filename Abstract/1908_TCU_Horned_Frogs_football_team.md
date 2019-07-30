@@ -1,1 +1,0 @@
-The 1908 TCU HORNED FROGS FOOTBALL TEAM represented Texas Christian University (TCU) in the 1908 college football season. The Horned Frogs finished the season 6–3 overall. The team was coached by Jesse R. Langley in his first year as head coach. They played their home games in Waco, Texas.

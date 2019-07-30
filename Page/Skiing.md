@@ -1,9 +1,7 @@
-Ski_Famille_-_Family_Ski_Holidays.jpg SKIING can be a means of transport, a recreational activity or a competitive winter sport in which the participant uses skis to glide on snow. Many types of competitive skiing events are recognized by the International Olympic Committee (IOC), and the International Ski Federation (FIS).
+SKIING can be a means of transport, a recreational activity or a competitive winter sport in which the participant uses skis to glide on snow. Many types of competitive skiing events are recognized by the International Olympic Committee (IOC), and the International Ski Federation (FIS).
 
 
 History
-
-Ski-kampioen_Jan_Boon_demonstreert_op_Duinrell.ogv
 
 Skiing has a history of almost five millennia.[1] Although modern skiing has evolved from beginnings in Scandinavia, it may have been practiced more than 100 centuries ago in what is now China, according to an interpretation of ancient paintings.[2][3]
 
@@ -24,7 +22,7 @@ Also called "downhill skiing", Alpine skiing typically takes place on a piste at
 
 Nordic
 
-Påske.jpg on Hardangervidda, Norway]] The Nordic disciplines include cross-country skiing and ski jumping, which both use bindings that attach at the toes of the skier's boots but not at the heels. Cross-country skiing may be practiced on groomed trails or in undeveloped backcountry areas. Ski jumping is practiced in certain areas that are reserved exclusively for ski jumping.
+on Hardangervidda, Norway]] The Nordic disciplines include cross-country skiing and ski jumping, which both use bindings that attach at the toes of the skier's boots but not at the heels. Cross-country skiing may be practiced on groomed trails or in undeveloped backcountry areas. Ski jumping is practiced in certain areas that are reserved exclusively for ski jumping.
 
 Telemark
 

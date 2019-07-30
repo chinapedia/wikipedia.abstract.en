@@ -1,1 +1,0 @@
-The 1948 OSTZONENMEISTERSCHAFT FINAL decided the winner of the 1948 Ostzonenmeisterschaft, the 1st edition of the Ostzonenmeisterschaft, a knockout football cup competition to decide the champions of the Soviet occupation zone.

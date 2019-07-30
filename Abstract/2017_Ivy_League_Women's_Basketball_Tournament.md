@@ -1,1 +1,0 @@
-The 2017 IVY LEAGUE WOMEN'S BASKETBALL TOURNAMENT was a women's college conference tournament held March 11–12, 2017 at the Palestra on the campus of the University of Pennsylvania in Philadelphia. It was the first postseason tournament held by the Ivy League in women's basketball. Penn won the tournament, earning an automatic bid to the 2017 NCAA Tournament.

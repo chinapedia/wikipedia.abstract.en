@@ -18,11 +18,9 @@ History
 
 1905–1922
 
-Arthur_Griffith_(1871-1922).jpg
-
 Sinn Féin was founded on 28 November 1905, when, at the first annual Convention of the National Council, Arthur Griffith outlined the Sinn Féin policy, "to establish in Ireland's capital a national legislature endowed with the moral authority of the Irish nation".[10][11] The party contested the 1908 North Leitrim by-election, where it secured 27% of the vote.[12] Thereafter, both support and membership fell. At the 1910 _Ard Fheis_ (party conference) the attendance was poor, and there was difficulty finding members willing to take seats on the executive.[13]
 
-McGuinness-_1917_election.jpg, who won the 1917 South Longford by-election whilst imprisoned. He was one of the first Sinn Féin members to be elected. In 1921 he sided with Collins in the Treaty debate.]]
+, who won the 1917 South Longford by-election whilst imprisoned. He was one of the first Sinn Féin members to be elected. In 1921 he sided with Collins in the Treaty debate.]]
 
 In 1914, Sinn Féin members, including Griffith, joined the anti-Redmond Irish Volunteers, which was referred to by Redmondites and others as the "Sinn Féin Volunteers". Although Griffith himself did not take part in the Easter Rising of 1916, many Sinn Féin members did, as they were also members of both the Volunteers and the Irish Republican Brotherhood. Government and newspapers dubbed the Rising "the Sinn Féin Rising".[14] After the Rising, republicans came together under the banner of Sinn Féin, and at the 1917 _Ard Fheis_ the party committed itself for the first time to the establishment of an Irish Republic. In the 1918 general election, Sinn Féin won 73 of Ireland's 105 seats, and in January 1919, its MPs assembled in Dublin and proclaimed themselves Dáil Éireann, the parliament of Ireland. The party supported the Irish Republican Army during the War of Independence, and members of the Dáil government negotiated the Anglo-Irish Treaty with the British government in 1921. In the Dáil debates that followed, the party divided on the Treaty. Anti-Treaty members led by Éamon de Valera walked out, and pro- and anti-Treaty members took opposite sides in the ensuing Civil War.[15]
 
@@ -34,7 +32,7 @@ An attempt in the 1940s to access funds that had been put in the care of the Hig
 
 1970–1975
 
-Ruairí_Ó_Brádaigh_2004.jpg was the president of Provisional Sinn Féin from 1970 until 1983.]] The Sinn Féin party split in two at the beginning of 1970. At the party's _Ard Fheis_ on 11 January the proposal to end abstentionism and take seats, if elected, in the Dáil, the Parliament of Northern Ireland and the Parliament of the United Kingdom was put before the members.[27] A similar motion had been adopted at an IRA convention the previous month, leading to the formation of a Provisional Army Council by Mac Stíofáin and other members opposed to the leadership. When the motion was put to the _Ard Fheis_, it failed to achieve the necessary two-thirds majority. The Executive attempted to circumvent this by introducing a motion in support of IRA policy, at which point the dissenting delegates walked out of the meeting. These members reconvened at another place, appointed a Caretaker Executive and pledged allegiance to the Provisional Army Council. The Caretaker Executive declared itself opposed to the ending of abstentionism, the drift towards "extreme forms of socialism", the failure of the leadership to defend the nationalist people of Belfast during the 1969 Northern Ireland riots, and the expulsion of traditional republicans by the leadership during the 1960s.[28]
+was the president of Provisional Sinn Féin from 1970 until 1983.]] The Sinn Féin party split in two at the beginning of 1970. At the party's _Ard Fheis_ on 11 January the proposal to end abstentionism and take seats, if elected, in the Dáil, the Parliament of Northern Ireland and the Parliament of the United Kingdom was put before the members.[27] A similar motion had been adopted at an IRA convention the previous month, leading to the formation of a Provisional Army Council by Mac Stíofáin and other members opposed to the leadership. When the motion was put to the _Ard Fheis_, it failed to achieve the necessary two-thirds majority. The Executive attempted to circumvent this by introducing a motion in support of IRA policy, at which point the dissenting delegates walked out of the meeting. These members reconvened at another place, appointed a Caretaker Executive and pledged allegiance to the Provisional Army Council. The Caretaker Executive declared itself opposed to the ending of abstentionism, the drift towards "extreme forms of socialism", the failure of the leadership to defend the nationalist people of Belfast during the 1969 Northern Ireland riots, and the expulsion of traditional republicans by the leadership during the 1960s.[28]
 
 At its October 1970 _Ard Fheis_, delegates were informed that an IRA convention had been held and had regularised its structure, bringing to an end the 'provisional' period.[29] By then, however, the label "Provisional" or "Provo" was already being applied to them by the media.[30] The opposing, anti-abstentionist party became known as "Official Sinn Féin".[31] It changed its name in 1977 to "Sinn Féin – The Workers' Party",[32] and in 1982 to "The Workers' Party".[33]
 
@@ -42,7 +40,7 @@ Because the "Provisionals" were committed to military rather than political acti
 
 1976–1983
 
-Bobby_Sands_Belfast_Irland@20160528_02.jpg mural in Belfast. Sands, a member of the Provisional IRA, stood on an Anti H-Block ticket.]] Political status for prisoners became an issue after the ending of the truce. Rees released the last of the internees but introduced the Diplock courts, and ended 'Special Category Status' for all prisoners convicted after 1 March 1976. This led first to the blanket protest, and then to the dirty protest.[40] Around the same time, Gerry Adams began writing for _Republican News_, calling for Sinn Féin to become more involved politically.[41] Over the next few years, Adams and those aligned with him would extend their influence throughout the republican movement and slowly marginalise Ó Brádaigh, part of a general trend of power in both Sinn Féin and the IRA shifting north.[42] In particular, Ó'Brádaigh's part in the 1975 IRA ceasefire had damaged his reputation in the eyes of Ulster republicans.[43]
+mural in Belfast. Sands, a member of the Provisional IRA, stood on an Anti H-Block ticket.]] Political status for prisoners became an issue after the ending of the truce. Rees released the last of the internees but introduced the Diplock courts, and ended 'Special Category Status' for all prisoners convicted after 1 March 1976. This led first to the blanket protest, and then to the dirty protest.[40] Around the same time, Gerry Adams began writing for _Republican News_, calling for Sinn Féin to become more involved politically.[41] Over the next few years, Adams and those aligned with him would extend their influence throughout the republican movement and slowly marginalise Ó Brádaigh, part of a general trend of power in both Sinn Féin and the IRA shifting north.[42] In particular, Ó'Brádaigh's part in the 1975 IRA ceasefire had damaged his reputation in the eyes of Ulster republicans.[43]
 
 The prisoners' protest climaxed with the 1981 hunger strike, during which striker Bobby Sands was elected Member of Parliament for Fermanagh and South Tyrone as an Anti H-Block candidate. After his death on hunger strike, his seat was held, with an increased vote, by his election agent, Owen Carron. Two other Anti H-Block candidates were elected to Dáil Éireann in the general election in the Republic. These successes convinced republicans that they should contest every election.[44] Danny Morrison expressed the mood at the 1981 _Ard Fheis_ when he said:
 
@@ -52,7 +50,7 @@ This was the origin of what became known as the Armalite and ballot box strategy
 
 1983–1998
 
-Gerry_Adams_and_Martin_McGuinness.jpg, Provisional Sinn Féin adopted a reformist policy, eventually leading to the Good Friday Agreement.]] Under Adams' leadership electoral politics became increasingly important. In 1983 Alex Maskey was elected to Belfast City Council, the first Sinn Féin member to sit on that body.[47] Sinn Féin polled over 100,000 votes in the Westminster elections that year, and Adams won the West Belfast seat that had been held by the Social Democratic and Labour Party (SDLP).[48] By 1985 it had fifty-nine seats on seventeen of the twenty-six Northern Ireland councils, including seven on Belfast City Council.[49]
+, Provisional Sinn Féin adopted a reformist policy, eventually leading to the Good Friday Agreement.]] Under Adams' leadership electoral politics became increasingly important. In 1983 Alex Maskey was elected to Belfast City Council, the first Sinn Féin member to sit on that body.[47] Sinn Féin polled over 100,000 votes in the Westminster elections that year, and Adams won the West Belfast seat that had been held by the Social Democratic and Labour Party (SDLP).[48] By 1985 it had fifty-nine seats on seventeen of the twenty-six Northern Ireland councils, including seven on Belfast City Council.[49]
 
 The party began a reappraisal of the policy of abstention from the Dáil. At the 1983 _Ard Fheis_ the constitution was amended to remove the ban on the discussion of abstentionism to allow Sinn Féin to run a candidate in the forthcoming European elections. However, in his address, Adams said, "We are an abstentionist party. It is not my intention to advocate change in this situation."[50] A motion to permit entry into the Dáil was allowed at the 1985 _Ard Fheis_, but without the active support of the leadership, and Adams did not speak. The motion failed narrowly.[51] By October of the following year an IRA Convention had indicated its support for elected Sinn Féin Teachtaí Dála (TDs) taking their seats. Thus, when the motion to end abstention was put to the _Ard Fheis_ on 1 November 1986, it was clear that there would not be a split in the IRA as there had been in 1970.[52] The motion was passed with a two-thirds majority. Ó Brádaigh and about twenty other delegates walked out, and met in a Dublin hotel with hundreds of supporters to re-organise as Republican Sinn Féin.[53]
 
@@ -62,7 +60,7 @@ The talks led to the Good Friday Agreement of 10 April 1998 (officially known as
 
 1998–2017
 
-The party expelled Denis Donaldson, a party official, in December 2005, with him stating publicly that he had been in the employ of the British government as an agent since the 1980s. Donaldson told reporters that the British security agencies who employed him were behind the collapse of the Assembly and set up Sinn Féin to take the blame for it, a claim disputed by the British Government.[56] Donaldson was found fatally shot in his home in County Donegal on 4 April 2006, and a murder inquiry was launched.[57] In April 2009, the Real IRA released a statement taking responsibility for the killing.[58] Sinn_Féin_Logo.svg When Sinn Féin and the Democratic Unionist Party (DUP) became the largest parties, by the terms of the Good Friday Agreement no deal could be made without the support of both parties. They nearly reached a deal in November 2004, but the DUP insisted on photographic and/or video evidence that decommissioning had been carried out, which was unacceptable to Sinn Féin.[59]
+The party expelled Denis Donaldson, a party official, in December 2005, with him stating publicly that he had been in the employ of the British government as an agent since the 1980s. Donaldson told reporters that the British security agencies who employed him were behind the collapse of the Assembly and set up Sinn Féin to take the blame for it, a claim disputed by the British Government.[56] Donaldson was found fatally shot in his home in County Donegal on 4 April 2006, and a murder inquiry was launched.[57] In April 2009, the Real IRA released a statement taking responsibility for the killing.[58] When Sinn Féin and the Democratic Unionist Party (DUP) became the largest parties, by the terms of the Good Friday Agreement no deal could be made without the support of both parties. They nearly reached a deal in November 2004, but the DUP insisted on photographic and/or video evidence that decommissioning had been carried out, which was unacceptable to Sinn Féin.[59]
 
 On 2 September 2006, Martin McGuinness publicly stated that Sinn Féin would refuse to participate in a shadow assembly at Stormont, asserting that his party would only take part in negotiations that were aimed at restoring a power-sharing government. This development followed a decision on the part of members of Sinn Féin to refrain from participating in debates since the Assembly's recall the previous May. The relevant parties to these talks were given a deadline of 24 November 2006 to decide upon whether or not they would ultimately form the executive.[60]
 
@@ -73,8 +71,6 @@ Immediately after the June 2017 UK general election, where the Conservatives won
 In 2017 and 2018 there were allegations of bullying within the party, leading to a number of resignations and expulsions of elected members.[65]
 
 At the _Ard Fheis_ on 18 November 2017, Gerry Adams announced he would stand down as president of Sinn Féin in 2018, and would not stand for re-election as TD for Louth.
-
-Mary_Lou_McDonald_and_Michelle_O’Neill_2018.jpg
 
 2018
 
@@ -112,7 +108,7 @@ The October 2015 Assessment on Paramilitary Groups in Northern Ireland concluded
 
 Policy and ideology
 
-Sinn_Fein_sign,_Strabane,_January_2010.JPG signs in Strabane]] Most of the party's policies are intended to be implemented on an "all-Ireland" basis which further emphasises their central aim of creating a united Ireland.
+signs in Strabane]] Most of the party's policies are intended to be implemented on an "all-Ireland" basis which further emphasises their central aim of creating a united Ireland.
 
 Sinn Féin is a democratic socialist and left-wing party.[99] In the European Parliament, the party aligns itself with the European United Left–Nordic Green Left (GUE/NGL) parliamentary group. The party pledges support for minority rights, migrants' rights, and eradicating poverty. Although it is not in favour of the extension of legalised abortion (British 1967 Act) to Northern Ireland, Sinn Féin state they are opposed to the attitudes in society which "pressurise women" to have abortions and "criminalise" women who make this decision. The party does state that in cases of incest, rape, sexual abuse, "fatal foetal abnormalities", or when a woman's life and health are at risk or in danger, the final decision must rest with the woman.[100][101] In the 2018 Irish abortion referendum, the party campaigned for a 'Yes' vote, but remained opposed to abortions up to 12 weeks.[102] Categorised as "populist socialist" in literature,[103] in 2014 leading party strategist and ideologue Eoin Ó Broin described Sinn Féin's entire political project as unashamedly populist.[104]
 
@@ -163,7 +159,7 @@ Sinn Féin support a policy of "critical engagement with the EU", and have a "pr
 
 Organisational structure
 
-Sinn_Fein_Advice_Centre,_Castlewellan,_December_2009.JPG]]
+]]
 
 Sinn Féin is organised throughout Ireland, and membership is open to all Irish residents over the age of 16. The party is organised hierarchically into _cumainn_ (branches), _comhairle ceantair_ (district executives), and _cúigí_ (regional executives). At national level, the _Coiste Seasta_ (Standing Committee) oversees the day-to-day running of Sinn Féin. It is an eight-member body nominated by the Sinn Féin _Ard Chomhairle_ (National Executive) and also includes the chairperson of each _cúige_. The Sinn Féin _Ard Chomhairle_ meets at least once a month. It directs the overall implementation of Sinn Féin policy and activities of the party.
 
@@ -199,8 +195,6 @@ Leadership Members elected at the Ard Fhéis 2016
 
 
 Leadership history
-
-Mary_Lou_McDonald_(official_portrait).jpg
 
   Name                              Dates          Notes
   --------------------------------- -------------- ----------------------------------------------------------------------------------------------------------

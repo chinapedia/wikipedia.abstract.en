@@ -1,1 +1,0 @@
-ALAIN CONNES (; born 1 April 1947) is a French mathematician, currently Professor at the Collège de France, IHÉS, Ohio State University and Vanderbilt University. He was an Invited Professor at the Conservatoire national des arts et métiers (2000).[1]

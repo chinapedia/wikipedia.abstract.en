@@ -1,1 +1,0 @@
-PATRIK PULKKINEN (born 14 March 2001) is a Finnish motorcycle racer. He was signed up to race in the Moto3 World Championship for Peugeot MC Saxoprint team for 2017.[1] Pulkkinen has also been a competitor in the Red Bull MotoGP Rookies Cup in 2015 and 2016.

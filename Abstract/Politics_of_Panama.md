@@ -1,1 +1,0 @@
-The POLITICS OF PANAMA take place in a framework of a presidential representative democratic republic with multi-party system, whereby the President of Panama is both head of state and head of government.

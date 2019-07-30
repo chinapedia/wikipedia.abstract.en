@@ -1,1 +1,0 @@
-Silver_denarius_of_Clodius_Macer_68_CE.jpg issued for the anti-Neronian rebel Clodius Macer in 68 AD]] CLODIUS is an alternate form of the Roman _nomen_ Claudius, a patrician _gens_ that was traditionally regarded as Sabine in origin. The alternation of _o_ and _au_ is characteristic of the Sabine dialect. The feminine form is CLODIA.

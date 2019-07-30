@@ -1,1 +1,0 @@
-ARCHIBALD JUDSON HAINES (October 13, 1878 – September 24, 1950) was a winery owner, fruit grower and politician in Ontario, Canada. He represented Lincoln in the Legislative Assembly of Ontario from 1937 to 1942 as a Liberal.[1][2]

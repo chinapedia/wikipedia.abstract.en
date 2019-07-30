@@ -1,1 +1,0 @@
-Dampfturbine_Montage01.jpg with the case opened. Such turbines produce most of the electricity used today. Electricity consumption and living standards are highly correlated.[1] Electrification is believed to be the most important engineering achievement of the 20th century.]]

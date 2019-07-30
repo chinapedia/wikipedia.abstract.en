@@ -1,1 +1,0 @@
-_JOCK THE HERO DOG_ is a 2011 South African-American computer-animated adventure comedy film directed by Duncan MacNeillie. It features the voices of Bryan Adams, Donald Sutherland, Helen Hunt, Ted Danson, Desmond Tutu, Mandy Patinkin and William Baldwin. It is loosely based on the 1907 book _Jock of the Bushveld_ by Sir James Percy FitzPatrick.[1][2]

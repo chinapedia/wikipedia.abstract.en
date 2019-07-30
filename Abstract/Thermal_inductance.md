@@ -1,1 +1,0 @@
-THERMAL INDUCTANCE refers to the phenomenon wherein a thermal change of an object surrounded by a fluid will induce a change in convection currents within that fluid, thus inducing a change in the kinetic energy of the fluid.[1] It is considered the thermal analogue to electrical inductance in system equivalence modeling; its unit is the _thermal henry_.[2]

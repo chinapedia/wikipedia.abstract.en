@@ -1,1 +1,0 @@
-BULUTSUZLUK OZLEMI is a Turkish rock band that was founded in 1984. It is the first Turkish alternative rock band to combine western rock melodies and Anatolian rhythms with Turkish lyrics. Bulutsuzluk Özlemi often creates songs that have sociological, political, economic and psychological messages.[1]

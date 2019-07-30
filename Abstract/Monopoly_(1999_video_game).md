@@ -1,1 +1,0 @@
-_MONOPOLY_ is a Nintendo 64 video game based on the board game _Monopoly_, released on December 18, 1999. Developed by Mind's Eye Productions and published by Hasbro Interactive, this title was one of many inspired by the property.

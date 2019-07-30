@@ -1,1 +1,0 @@
-In mathematical finance, MULTIPLE FACTOR MODELS are asset pricing models that can be used to estimate the discount rate for the valuation of financial assets. They are generally extensions of the single-factor capital asset pricing model (CAPM).

@@ -1,1 +1,0 @@
-BRYANT is an extinct town in Douglas County, in the U.S. state of Missouri. The GNIS classifies it as a populated place.[1] Bryant is located on the north side of Bryant Creek along an abandoned stretch of old Missouri Highway 5 and approximately one mile downstream (southeast) from the current Missouri Highway 5 bridge over Bryant Creek.[2]

@@ -1,1 +1,0 @@
-LJUBICA LUKOVIĆ () (1858-1915) was a Serbian nurse, social worker, teacher, translator and president of the Circle of Serbian Sisters. She was instrumental in establishing the first nurses' training course in Serbia and was posthumously awarded the Florence Nightingale Medal.

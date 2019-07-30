@@ -1,1 +1,0 @@
-MYCHAL FALLON JUDGE, O.F.M. (born ROBERT EMMETT JUDGE; May 11, 1933 – September 11, 2001), was a Franciscan friar and Catholic priest who served as a chaplain to the New York City Fire Department. It was while serving in that capacity that he was killed, becoming the first certified fatality of the September 11, 2001 attacks.[1]

@@ -1,1 +1,0 @@
-AL ARABY (Arabic: العربي) is a general television network launched in January 2015. It broadcasts a variety of programs and news shows in Arabic, covering society, politics, entertainment and culture. The channel's headquarters are in London and the network has bureaus in several Arab and Western capitals, through 11 bureaus in the Middle East and worldwide[1].

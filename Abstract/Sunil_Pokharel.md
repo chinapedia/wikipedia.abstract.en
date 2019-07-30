@@ -1,1 +1,0 @@
-SUNIL POKHAREL (; born on 16 June 1963) is a Nepali theatre artist and director.[1] He is considered as one of the pioneers of modern Nepali theatre.[2][3][4] He is a graduate of National School of Drama, India (1987).[5][6] He has directed more than four dozens of varied Nepali, Indian and European plays.[7][8] Sunil_pokharel_with_students.jpg

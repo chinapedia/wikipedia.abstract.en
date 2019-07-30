@@ -1,1 +1,0 @@
-KHARKIV MUNICIPAL GALLERY is one of the first Ukrainian galleries (opened in 1996) of contemporary art. The gallery combines the programs and exhibitions of traditional paintings, graphics, sculpture, photo, and contemporary art projects and new media.

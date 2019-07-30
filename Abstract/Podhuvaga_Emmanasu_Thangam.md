@@ -1,1 +1,0 @@
-_PODHUVAGA EM MANASU THANGAM_ (English: Generally my heart is gold) is a 2017 Indian Tamil language comedy film written and directed by Thalapathy Prabhu, starring Udhayanidhi Stalin and Nivetha Pethuraj in the leading roles, with Parthiepan and Soori in supporting roles. The film began production during September 2016 and was released on 11 August 2017 with mixed reviews.[1]

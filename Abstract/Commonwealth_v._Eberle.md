@@ -1,1 +1,0 @@
-_COMMONWEALTH V. EBERLE_, 474 Pa. 548, 379 A.2d 90 (1977),[1] is a criminal case involving duty to retreat.[2] The case established that in order to counter the justification or excuse of self defense, the prosecution must show that a defendant who used deadly force had a safe opportunity to escape.[3][4]

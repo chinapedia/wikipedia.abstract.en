@@ -1,1 +1,0 @@
-ISLEHAM NATURE RESERVE is a 1.1 hectare Local Nature Reserve in Isleham in Cambridgeshire. It is owned by Cambridgeshire County Council and managed by the council together with the Friends of Isleham Nature Reserves.[1][2]

@@ -1,1 +1,0 @@
-FREE VERSE is an open form of poetry which in its modern form arose through the French _vers libre_ form. It does not use consistent meter patterns, rhyme, or any musical pattern.[1] It thus tends to follow the rhythm of natural speech.

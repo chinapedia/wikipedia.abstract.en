@@ -1,1 +1,0 @@
-Clive Barda (born 14 January 1945) is a British freelance photographer. His career has spanned nearly fifty years, during which he produced more than a million photographs of classical musicians (including composers and conductors) and artists of the stage (opera, ballet and theatre).[1]

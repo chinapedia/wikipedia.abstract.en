@@ -1,1 +1,0 @@
-_TALES FROM THE VIENNA WOODS_ (German: _G'SCHICHTEN AUS DEM WIENERWALD_) is a 1928 German silent film directed by Jaap Speyer and starring Albert Paulig, Magnus Stifter and Eric Barclay.[1] The title refers to the waltz _Tales from the Vienna Woods_ by Johann Strauss.

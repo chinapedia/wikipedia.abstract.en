@@ -1,1 +1,0 @@
-Kaupunginteatteri_illalla.jpg The HELSINKI CITY THEATRE (; ) is a theatre located in Helsinki, Finland. Owned by the Helsinki Theatre Foundation, it operates on a perception of itself as a "modern popular bilingual repertoire theatre."[1]

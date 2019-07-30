@@ -1,1 +1,0 @@
-_POLINA_ () is a 2016 French drama film directed by Valérie Müller and Angelin Preljocaj, based on the graphic novel _Polina_ by Bastien Vivès. The film was screened as part of the Venice Days programme at the 73rd Venice International Film Festival.[1][2]

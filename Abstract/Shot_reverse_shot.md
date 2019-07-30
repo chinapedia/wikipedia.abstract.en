@@ -1,1 +1,0 @@
-SHOT REVERSE SHOT (or SHOT/COUNTERSHOT) is a film technique where one character is shown looking at another character (often off-screen), and then the other character is shown looking back at the first character. Since the characters are shown facing in opposite directions, the viewer assumes that they are looking at each other.[1][2]

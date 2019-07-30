@@ -1,1 +1,0 @@
-_ASPHALT XTREME_ is a racing video game, published and developed by Gameloft. It was the second spinoff, and the first off-road racing iteration, in the _Asphalt_ series. It was released on 27 October 2016.

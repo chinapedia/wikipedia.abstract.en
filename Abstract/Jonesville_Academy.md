@@ -1,1 +1,0 @@
-The JONESVILLE ACADEMY is a historic school building at Cochran and Duxbury Roads in Richmond, Vermont. Built about 1868, it is a prominent local example of Italianate school architecture, and was used as a school until 1955. It is now in private ownership as a residence. It was listed on the National Register of Historic Places in 1982.[1]

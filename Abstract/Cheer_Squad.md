@@ -1,1 +1,0 @@
-_CHEER SQUAD_ is a Canadian reality television series that debuted on ABC Spark on July 6, 2016 and in the US on Freeform on August 22, 2016. It follows the Canadian cheer team the Great White Sharks as they work together on the road to world championships.[1] As of 2018 there is only one season, with no clear plans to renew the show.[2]

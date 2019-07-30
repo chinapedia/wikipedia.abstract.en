@@ -1,1 +1,0 @@
-This is a list of LISTS OF UNIVERSITIES AND COLLEGES.

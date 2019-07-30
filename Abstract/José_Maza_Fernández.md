@@ -1,1 +1,0 @@
-JOSÉ MAZA FERNÁNDEZ (13 October 1889 – 6 May 1964) was a politician, lawyer and diplomat from Chile. He served as the President of the United Nations General Assembly during its tenth session from 1954 to 1955.[1]

@@ -18,7 +18,7 @@ For example, newly dominant male lions often kill cubs in the pride that they di
 
 History
 
-Plos_wilson.jpg, a central figure in the history of sociobiology, from the publication in 1975 of his book _Sociobiology: The New Synthesis_]]
+, a central figure in the history of sociobiology, from the publication in 1975 of his book _Sociobiology: The New Synthesis_]]
 
 The philosopher of biology Daniel Dennett suggested that the political philosopher Thomas Hobbes was the first sociobiologist, arguing that in his 1651 book _Leviathan_ Hobbes had explained the origins of morals in human society from an amoral sociobiological perspective.[4]
 
@@ -35,7 +35,7 @@ Sociobiologists maintain that human behavior, as well as nonhuman animal behavio
 
 Natural selection is fundamental to evolutionary theory. Variants of hereditary traits which increase an organism's ability to survive and reproduce will be more greatly represented in subsequent generations, i.e., they will be "selected for". Thus, inherited behavioral mechanisms that allowed an organism a greater chance of surviving and/or reproducing in the past are more likely to survive in present organisms. That inherited adaptive behaviors are present in nonhuman animal species has been multiply demonstrated by biologists, and it has become a foundation of evolutionary biology. However, there is continued resistance by some researchers over the application of evolutionary models to humans, particularly from within the social sciences, where culture has long been assumed to be the predominant driver of behavior.
 
-Nikolaas_Tinbergen_1978.jpg, whose work influenced sociobiology]]
+, whose work influenced sociobiology]]
 
 Sociobiology is based upon two fundamental premises:
 

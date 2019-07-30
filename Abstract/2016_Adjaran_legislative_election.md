@@ -1,1 +1,0 @@
-The LEGISLATIVE ELECTION in Adjara, an autonomous republic within Georgia, was held on 8 October 2016. Adjara elected its 18-member parliament, Supreme Council, in the region's 7th local legislative election since Georgia declared independence from the Soviet Union in 1991.

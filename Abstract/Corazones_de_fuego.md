@@ -1,1 +1,0 @@
-CORAZONES DE FUEGO ("Hearts of Fire") was a Colombian television anthology drama series, broadcast three times a week on daytime between 1992 and 1994 on the state-owned channel Cadena Uno. It was produced by Producciones Tevecine.

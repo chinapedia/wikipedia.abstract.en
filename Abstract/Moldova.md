@@ -1,1 +1,0 @@
-{{Infobox country | conventional_long_name = Republic of Moldova | common_name = Moldova | native_name = | image_flag = Flag of Moldova.svg | image_coat = Coat of arms of Moldova.svg | national_anthem = "Limba Noastră"

@@ -1,1 +1,0 @@
-"MARTIAN MAN" is a song written by Lynsey de Paul[1] that was destined to be a track on her 1976 album _Before You Go Tonight_ (aka _Take Your Time_), but was shelved as part of a legal dispute with former manager Don Arden.[2]

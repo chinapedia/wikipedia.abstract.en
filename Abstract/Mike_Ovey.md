@@ -1,1 +1,0 @@
-MICHAEL JOHN OVEY (9 December 1958 – 7 January 2017), known as MIKE OVEY, was a British Anglican clergyman, academic, and former lawyer. From 2007 until his death, he was Principal of Oak Hill College, a conservative evangelical theological college in London, England.

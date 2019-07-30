@@ -1,1 +1,0 @@
-Folkets_hus_brinner.jpg

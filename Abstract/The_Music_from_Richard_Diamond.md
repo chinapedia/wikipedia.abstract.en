@@ -1,1 +1,0 @@
-_THE MUSIC FROM RICHARD DIAMOND_ is an album by composer, arranger and conductor Pete Rugolo featuring compositions written for _Richard Diamond, Private Detective_ recorded in 1959 and first released on the EmArcy label.[1][2][3][4]

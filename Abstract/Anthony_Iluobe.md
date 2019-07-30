@@ -1,1 +1,0 @@
-Chief ANTHONY ILUOBE (JP) was born in 1945 to the family of Chief and Mrs Joseph Agimhelen Iluobe (JP) of Ivue-Uromi of the Uromi Kingdom in Edo State. He is the owner, managing director and chief executive officer of Iluobe Oil and Gas Marketing Co. Ltd. He studied Engineering in Japan.

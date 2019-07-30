@@ -1,1 +1,0 @@
-WEST END SALOON, also known as PADDY MALONE'S, is a historic commercial building located at Jefferson City, Cole County, Missouri. It was built in 1863, and expanded and enlarged between 1892 and 1898. It is a three-story, rectangular, Second Empire style brick building. It features a mansard roof.[1]

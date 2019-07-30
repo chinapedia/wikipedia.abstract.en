@@ -1,1 +1,0 @@
-CAPRICHO AWARDS DE GATO NACIONAL is an award given annually since 2001 by the Magazine Capricho with open voting by the official Editora Abril site. The actor Bruno Gagliasso holds the record for most awards a total of 3.

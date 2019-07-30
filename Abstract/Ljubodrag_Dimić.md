@@ -1,1 +1,0 @@
-Ljubodrag_Dimic-mc.rs.jpg LJUBODRAG DIMIĆ (; February 20, 1956, Zemun) is a Serbian historian, university professor and since 2012 member of Serbian Academy of Sciences and Arts.[1] His primary fields of study are: history of former Yugoslavia, history of the Cold War, modern political, social and cultural history of Serbia and contemporary national history of Serbian people.

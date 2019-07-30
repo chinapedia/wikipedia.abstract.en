@@ -1,1 +1,0 @@
-MICHAEL PIERCE (born November 6, 1992) is an American football nose tackle for the Baltimore Ravens of the National Football League (NFL). He played college football at Samford and was signed by the Baltimore Ravens as an undrafted free agent in 2016.

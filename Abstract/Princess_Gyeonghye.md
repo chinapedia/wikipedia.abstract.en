@@ -1,1 +1,0 @@
-PRINCESS GYEONGHYE (1435–1473), also known as PRINCESS PYEONGCHANG before her marriage, was a Joseon princess and the eldest child of Munjong of Joseon. She served as guardian for her brother, Danjong of Joseon, when he ascended the throne underage.[1]

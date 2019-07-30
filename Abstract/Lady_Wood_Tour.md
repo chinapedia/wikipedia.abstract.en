@@ -1,1 +1,0 @@
-The LADY WOOD TOUR was the second headlining concert tour by Swedish recording artist Tove Lo in support of her second major-label studio album _Lady Wood_ (2016). The tour began on 6 February 2017, in Seattle, Washington, at the Showbox SoDo, and it concluded on 14 October 2017 at the Austin City Limits Music Festival in Austin, Texas.

@@ -1,1 +1,0 @@
-Bloch_Sphere.svg is a representation of a qubit, the fundamental building block of quantum computers.]] QUANTUM COMPUTING is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. A QUANTUM COMPUTER is used to perform such computation, which can be implemented theoretically or physically.[1]

@@ -1,1 +1,0 @@
-JOHN BRENKMAN is an American historian of American literature, currently a Distinguished Professor and Department Chair at Baruch College, City University of New York,[1] and also a published author.[2] He is also founding editor of the Duke University journal _Social Text_.[3]

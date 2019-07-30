@@ -1,1 +1,0 @@
-Up until the fall of Manerplaw, the village had been subjected to several military offensives by the Tatmadaw, and the surrounding area was the location of several alleged human right abuses by the military junta, including forced labour and extrajudicial punishment.[1]

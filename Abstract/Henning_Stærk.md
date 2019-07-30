@@ -1,1 +1,0 @@
-HENNING STÆRK (born 20 March 1949) is a Danish singer and musical-performer. Henning Stærk was born in Holstebro on 20 March 1949. He started his musical career in Holstebro but later moved to Aarhus where he became involved in the local music scene.[1]

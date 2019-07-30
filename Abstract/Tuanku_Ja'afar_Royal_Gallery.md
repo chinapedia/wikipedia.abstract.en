@@ -1,1 +1,0 @@
-The TUANKU JA'AFAR ROYAL GALLERY (Malay: _Galeri Diraja Tuanku Ja'afar_) is a gallery in Seremban, Negeri Sembilan, Malaysia. The gallery is about the former Negeri Sembilan Yang di-Pertuan Besar Tuanku Ja'afar.

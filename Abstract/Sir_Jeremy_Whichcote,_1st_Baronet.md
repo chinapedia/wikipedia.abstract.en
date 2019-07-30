@@ -1,1 +1,0 @@
-Quy_Hall,_Cambridgeshire-geograph.org.uk-2298625.jpg SIR JEREMY WHICHCOTE, 1ST BARONET (c. 1614–1677), was an English barrister and Solicitor-General to the Frederick V of the Palatinate. He was the owner of the manor of Totteridge in north London.

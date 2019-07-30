@@ -1,1 +1,0 @@
-BEATRIX POTTER (,[1] US ,[2] 28 July 186622 December 1943) was an English writer, illustrator, natural scientist, and conservationist best known for her children's books featuring animals, such as those in _The Tale of Peter Rabbit_.

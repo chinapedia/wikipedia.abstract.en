@@ -1,1 +1,0 @@
-NBA SLAM is an Indian television show about NBA basketball on the Sony SIX channel.[1] It showcases the abilities and on-court rivalry of two rival NBA star players through the eyes of two Indian celebrity fans. The first episode featured Bollywood actor and VJ Rannvijay Singha and VJ Varun Sood.[2]

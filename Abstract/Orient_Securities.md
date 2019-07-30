@@ -1,1 +1,0 @@
-ORIENT SECURITIES CO., LTD. also known as DFZQ is a Chinese investment bank and brokerage firm headquartered in Shanghai. Orient Securities is a constituent of SSE 50 Index, the blue chip index of Shanghai Stock Exchange.

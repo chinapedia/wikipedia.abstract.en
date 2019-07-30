@@ -1,1 +1,0 @@
-"I'M A WONDERFUL THING, BABY" is a 1982 song by Kid Creole and the Coconuts from their album _Tropical Gangsters_. It was the first single released from _Tropical Gangsters_ and their first major hit reaching a peak of no. 4 in the UK Singles Chart. It also reached no. 18 on the US Club Play chart.

@@ -1,1 +1,0 @@
-The 1966 ALL-BIG EIGHT CONFERENCE FOOTBALL TEAM consists of American football players chosen by various organizations for All-Big Eight Conference teams for the 1966 college football season. The selectors for the 1966 season included the Associated Press (AP).

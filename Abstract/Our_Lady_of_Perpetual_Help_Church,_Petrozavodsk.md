@@ -1,1 +1,0 @@
-The OUR LADY OF PERPETUAL HELP CHURCH[1] () It is a Catholic church in the city of Petrozavodsk, belonging to the Archdiocese of Mother of God at Moscow, Russia.[2] It is at 11 Lenin Avenue, the main street in that city.

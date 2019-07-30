@@ -1,1 +1,0 @@
-ANCESTRAL LAND CONFLICT IN BOTSWANA has centred on the desert land occupied by the San people, including the Central Kalahari Game Reserve (CKGR), established in 1961 for wildlife, while the San were permitted to continue their hunter-gatherer lifestyle.

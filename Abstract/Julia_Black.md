@@ -1,1 +1,0 @@
-JULIA BLACK, FBA is a Professor of Law at the London School of Economics (LSE).[1] She was the interim Director of the LSE,[2] a post she held from September 2016 until September 2017, at which time Minouche Shafik took over the Directorship.[3]

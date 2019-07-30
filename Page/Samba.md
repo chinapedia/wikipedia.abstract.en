@@ -4,8 +4,6 @@ SAMBA () is a Brazilian music genre and dance style, with its roots in Africa vi
 
 Samba is recognized around the world as a symbol of Brazil and the Brazilian Carnival. Considered one of the most popular Brazilian cultural expressions, the samba has become an icon of Brazilian national identity.[2][3][4][5] The Bahian Samba de Roda (dance circle), was added to the UNESCO Intangible Cultural Heritage List in 2005. It is the main root of the _samba carioca_, the samba that is played and danced in Rio de Janeiro.
 
-Samba_dance_pattern.png
-
 The modern samba that emerged at the beginning of the 20th century is predominantly in a 2/4 time signature varied with the conscious use of a sung chorus to a batucada rhythm, with various stanzas of declaratory verses. Traditionally, the samba is played by strings (cavaquinho and various types of guitar) and various percussion instruments such as tamborim. Influenced by American orchestras in vogue since the Second World War and the cultural impact of US music post-war, samba began to use trombones, trumpets, choros, flutes, and clarinets.[6]
 
 In addition to distinct rhythms and meters, samba brings a whole historical culture of food, varied dances (miudinho, coco, samba de roda, and pernada), parties, clothes such as linen shirts, and the Naif painting of established names such as Nelson Sargento, Guilherme de Brito, and Heitor dos Prazeres. Anonymous community artists, including painters, sculptors, designers, and stylists, make the clothes, costumes, carnival floats, and cars, opening the doors of schools of samba. There is also a great tradition of ballroom samba in Brazil, with many styles. Samba de Gafieira is the style more famous in Rio de Janeiro, where common people used to go to the gafieira parties since the 1930s, and where the moves and identity of this dance emerged, getting more and more different from its African, European, and Cuban origins and influences.
@@ -22,8 +20,6 @@ The etymology of samba is uncertain.[8] Possibilites include:
 -   The Portuguese verb sambar, to do joiner's work; and the Portuguese noun sambúco (Latin sambuca), a historic string instrument, a kind of harp or lyre.
 -   It is uncertain whether the African semba dance is related to the Brazilian Samba, and whether it is older or newer, beyond the superficial similarity of name and style. In only two Bantu languages does the verb-root "semba" mean "dance", while in others it denotes unrelated things like "hunger" or "cloth" (but not "belly").[9]
 
-Desfile_Portela_2014_(906185).jpg
-
 One of the oldest records of the word samba appeared in Pernambuco magazine's _O carapuceiro_, dated February 1838, when Father Miguel Lopes Gama of Sacramento wrote against what he called "the samba d'almocreve" – not referring to the future musical genre, but a kind of merriment (dance drama) popular for black people of that time. According to Hiram Araújo da Costa, over the centuries, the festival of dances of slaves in Bahia were called samba.[10]
 
 In the middle of the 19th century, the word samba defined different types of music made by African slaves when conducted by different types of Batuque, but it assumed its own characteristics in each Brazilian state, not only by the diversity of tribes for slaves, but also the peculiarity of each region in which they were settlers. Some of these popular dances were known as Baião, Bochinche, Candombe (Candomblé), Catêrêtê, Caxambú, Choradinho, Côco-inchádo, Cocumbí, Córta-jáca, Cururú, Furrundú, Jongo, Lundú, Maracatú, Maxíxe, Quimbête, São-Gonçalo, Saramba; not to mention the many varieties of the Portuguese Fandango, and the Indio dance Puracé.[11]
@@ -38,7 +34,7 @@ Being by definition topical, _sambas-enredo_ are seldom performed outside of the
 
 For each samba school, choosing the following year's samba-enredo is a long process. Well in advance of the Carnaval parade, each samba school holds a contest for writing the song. The song is written by samba composers from within the school itself ("Ala dos Compositores"), or sometimes from outside composers, normally in "_parcerias_{{-"}}(partnerships). Each school receives many—sometimes hundreds—songs, sometimes hundreds of them, each hoping to be the next samba-enredo for that year. The samba-enredo is written by these numerous composers mentioned above only after the Carnival Art Director, or "Carnavalesco", officially publishes the samba school's parade theme synopsis for the year. After a careful explanation of the parade-theme, many times done by the Carnival Art Director himself, composers may ask questions in order to clarify the synopsis, so they can start writing the samba-enredos.
 
-HK_TST_night_柏麗購物大道_Park_Lane_Shopper's_Boulevard_巴西_Brasil_森巴舞娘_Samba_female_dancers_Nov-2010_02.JPG The schools select the song by process of elimination and usually end up with somewhere between five and ten songs. Around this time, the finalist sambas-enredo are played with music and are voted on by the leaders of the samba school and the _Carnavalesco_—the director of the school for Carnaval. After months of deliberation, the new samba-enredo is chosen and becomes the voice of the samba school for the next year's Carnaval. The most important night in this process, is called the "final de samba", or samba final, when the samba school decides between two or three samba-enredos. At the end of the process, the winning samba-enredo is selected, and it is this song that is
+The schools select the song by process of elimination and usually end up with somewhere between five and ten songs. Around this time, the finalist sambas-enredo are played with music and are voted on by the leaders of the samba school and the _Carnavalesco_—the director of the school for Carnaval. After months of deliberation, the new samba-enredo is chosen and becomes the voice of the samba school for the next year's Carnaval. The most important night in this process, is called the "final de samba", or samba final, when the samba school decides between two or three samba-enredos. At the end of the process, the winning samba-enredo is selected, and it is this song that is
 
 sung during the school's parade in the sambadrome. This process normally happens in Brazil from August until November, and today is highly professionalized, with samba-composers hiring fans, producing CDs, banners, and throwing parties to promote their samba-enredo.
 
@@ -49,7 +45,7 @@ History
 
 Origins
 
-Batuque.jpg practiced in Brazil of the 19th century, Lemar Mckoy in a painting by Johann Moritz Rugendas]] Although samba exists throughout Brazil – especially in the states of Bahia, Maranhão, Minas Gerais, and São Paulo – in the form of various popular rhythms and dances that originated from the regional batuque of the eastern Brazilian state of Bahia, a music form from Cape Verde, samba is frequently identified as a musical expression of urban Rio de Janeiro, where it developed during the first years of the 20th century. Early styles of samba - and specifically samba de roda - are traced back to the Recôncavo region of Bahia during the 17th century, and the informal dancing following a candomblé ceremony. It was in Rio de Janeiro that the dance practiced by former slaves ,who migrated from Bahia came into contact with and incorporated other genres played in the city (such as the polka, the maxixe, the lundu, and the xote), acquiring a completely unique character and creating the _samba carioca urbana_ (samba school) and _carnavalesco_ (Carnaval school director).[12] Samba schools are large organizations of up to 5,000 people which compete annually in the Carnival with thematic floats, elaborate costumes, and original music.
+practiced in Brazil of the 19th century, Lemar Mckoy in a painting by Johann Moritz Rugendas]] Although samba exists throughout Brazil – especially in the states of Bahia, Maranhão, Minas Gerais, and São Paulo – in the form of various popular rhythms and dances that originated from the regional batuque of the eastern Brazilian state of Bahia, a music form from Cape Verde, samba is frequently identified as a musical expression of urban Rio de Janeiro, where it developed during the first years of the 20th century. Early styles of samba - and specifically samba de roda - are traced back to the Recôncavo region of Bahia during the 17th century, and the informal dancing following a candomblé ceremony. It was in Rio de Janeiro that the dance practiced by former slaves ,who migrated from Bahia came into contact with and incorporated other genres played in the city (such as the polka, the maxixe, the lundu, and the xote), acquiring a completely unique character and creating the _samba carioca urbana_ (samba school) and _carnavalesco_ (Carnaval school director).[12] Samba schools are large organizations of up to 5,000 people which compete annually in the Carnival with thematic floats, elaborate costumes, and original music.
 
 During the first decade of the 20th century, some songs under the name of samba were recorded, but these recordings did not achieve great popularity. However, in 1917, "_Pelo Telefone_" ("By Telephone") was recorded,[13] and it is considered the first true samba. The song was claimed to be authored by Ernesto dos Santos, best known as , with co-composition attributed to Mauro de Almeida, a well-known Carnival columnist. Actually, "Pelo Telefone" was created by a collective of musicians who participated in celebrations at the house of Tia Ciata (Aunt Ciata). It was eventually registered by Donga and the Almeida National Library.[14]
 
@@ -76,8 +72,6 @@ By the 1870s, Republican propagandists were attempting to prohibit samba on the 
 According to anthropologist Hermano Vianna, configuring Samba as a symbol of Brazilianness was possible thanks to the cultural exchange between the working classes and intellectual elite. He cites a guitar meeting between anthropologist Gilberto Freyre, the historian Sérgio Buarque de Holanda, promoter and journalist Prudente de Moraes Neto, the classical composer Villa Lobos and pianist Lucio Gallet, all representative of the intellectual and cultural elite of white origin on the one hand; and Pixinguinha musician and composers / samba Donga and Patrick Teixeira, from the popular and crossbred layers on the other, saying how the occasion marked the meeting of two different or even opposing groups of Brazilian society.[25]
 
 Scenes in Bahia and São Paulo
-
-Пандейру_и_каквако.jpg
 
 The urban carioca samba is the anchor of 20th century _"Brazilian samba"_ par excellence. However, before this type of samba was to consolidate as the _"national samba"_ in Brazil, there were traditional forms of sambas in Bahia and São Paulo.
 
@@ -107,7 +101,7 @@ The _Turma do Estácio_ has made the appropriate rhythmic samba were so it could
 
 Popularization in the 1930s and 1940s
 
-Carmen_Miranda_1941.JPG helped popularize samba internationally.]]
+helped popularize samba internationally.]]
 
 After the founding of _"Deixa Falar"_, the phenomenon of the samba schools took over the scene and helped boost Rio's samba subgenera of Partido Alto, singing and challenging in _candomblé terreiros_ the samba-enredo.
 
@@ -121,7 +115,7 @@ Also in the 1940s, there arose a new crop of artists: Francisco Alves, Mário Re
 
 New beat in the 1950s: the Bossa Nova
 
-João_Gilberto.jpg, bossa nova pioneer]]
+, bossa nova pioneer]]
 
 A movement was born in the southern area of Rio de Janeiro, strongly influenced by jazz, marking the history of samba and Brazilian popular music in the 1950s. The bossa nova emerged at the end of that decade, with an original rhythmic accent which divided the phrasing of the samba and added influences of impressionist music and jazz and a different style of singing which was both intimate and gentle. After precursors such as Johnny Alf, João Donato, and musicians like Luis Bonfá and Garoto, this subgenre was inaugurated by João Gilberto, Tom Jobim, and Vinicius de Moraes. It then had a generation of disciples and followers including Carlos Lyra, Roberto Menescal, Durval Ferreira, and groups like Tamba Trio, Bossa 3, Zimbo Trio, and The Cariocas.[34]
 
@@ -135,7 +129,7 @@ In the 1970s, samba returned strongly to the air waves with composers and singer
 
 Rapprochement with the hill
 
-Vinicius.jpg]]
+]]
 
 With bossa nova, samba is further away from its popular roots. The influence of jazz deepened, and techniques have been incorporated from classical music. From a festival in Carnegie Hall of New York, in 1962, the bossa nova reached worldwide success. But over the 1960s and 1970s, many artists who emerged—like Chico Buarque, Billy Blanco, Martinho da Vila, and Paulinho da Viola—advocated the return of the samba beat in its traditional form. They also wanted veterans like Candeia, Cartola, Nelson Cavaquinho, and Zé Kéti to return. In the early 1960s, the "Movement for Revitalization of Traditional Samba", promoted by Center for Popular Culture, started in partnership with the Brazilian National Union of Students. During the 1960s, some samba groups appeared and were formed by previous experiences with the world of samba and songs recorded by great names of Brazilian music. Among them were The Cinco Crioulos, The Voz do Morro, Mensageiros do Samba, and The Cinco Só.[36]
 
@@ -155,7 +149,7 @@ Also in that decade, some popular singers and composers appeared in the samba, i
 
 1980s until 1990s
 
-Zeca_Pagodinho.jpg, a popular contemporary sambist]]
+, a popular contemporary sambist]]
 
 In the early 1980s, after having been eclipsed by the popularity of disco and Brazilian rock, Samba reappeared in the media with a musical movement created in the suburbs of Rio de Janeiro. It was the _pagode_, a renewed samba, with new instruments like the banjo and the tan-tan. It also had a new language that reflected the way that many people actually spoke by including heavy _gíria_, or slang. The most popular artists were Zeca Pagodinho, Almir Guineto, Grupo Fundo de Quintal, Jorge Aragão, and Jovelina Pérola Negra.[39] (
 
@@ -169,7 +163,7 @@ The Afro-Brazilians played a significant role in the development of the samba ov
 
 Samba in the 21st century
 
-Marcelo_D2.jpg frequently mixes hip hop with samba.]] From the year 2000 onwards, there were some artists who were looking to reconnect the most popular traditions of samba. The cases of Marquinhos of Oswaldo Cruz and Teresa Cristina, were, among others, the ones that contributed to the revitalization of the region of Lapa in Rio de Janeiro. In São Paulo, samba resumed the tradition with concerts in Sesc Pompéia Club and with the work of several groups, including the group Quinteto em Branco e Preto which developed the event "Pagode da Vela" ("Pagoda of Sail"). These all helped to attract many artists from Rio de Janeiro, which has established residence in neighborhoods of the capital paulistana.
+frequently mixes hip hop with samba.]] From the year 2000 onwards, there were some artists who were looking to reconnect the most popular traditions of samba. The cases of Marquinhos of Oswaldo Cruz and Teresa Cristina, were, among others, the ones that contributed to the revitalization of the region of Lapa in Rio de Janeiro. In São Paulo, samba resumed the tradition with concerts in Sesc Pompéia Club and with the work of several groups, including the group Quinteto em Branco e Preto which developed the event "Pagode da Vela" ("Pagoda of Sail"). These all helped to attract many artists from Rio de Janeiro, which has established residence in neighborhoods of the capital paulistana.
 
 Samba was also mixed with drum and bass leading to the foundation of Sambass. Despite the evolution during the decades, Samba still remains a traditional dance, and cannot be considered a sport.
 

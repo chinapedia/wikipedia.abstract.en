@@ -1,1 +1,0 @@
-COVA-PAUL-RIBEIRA DA TORRE NATURAL PARK, in the east of the island of Santo Antão, is one of ten "natural parks" in the country of Cape Verde.[1] Its area is ,[2] of which in the municipality of Ribeira Grande, in the municipality of Paul and in the municipality of Porto Novo.[3] Since 2016, the natural park is on the tentative list of World Heritage sites.[4]

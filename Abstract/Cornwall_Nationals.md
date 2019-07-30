@@ -1,1 +1,0 @@
-The CORNWALL NATIONALS were a minor league professional ice hockey team in the Federal Hockey League (FHL) that played in the 2016–17 season and folded during the 2017–18 season. Based in Cornwall, Ontario, the Nationals played their home games at the Ed Lumley Arena.

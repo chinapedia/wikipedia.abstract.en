@@ -1,1 +1,0 @@
-NAHIDUL ISLAM (born 19 July 1993) is a Bangladeshi cricketer who plays for Khulna Division.[1] He made his Twenty20 (T20) debut on 8 November 2016 playing for Comilla Victorians in the 2016–17 Bangladesh Premier League.[2]

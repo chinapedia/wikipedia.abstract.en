@@ -1,1 +1,0 @@
-The ENSAF MOVEMENT (, or "Justice Movement") is a social-democratic political party in Libya. The party is led by Mohammad Alareshiya and was founded in early 2014. The party advocates worker rights, secularism, feminism and disbandment of militias. Its founder and current leader serves as its only member in the Presidential Council.[1][2]

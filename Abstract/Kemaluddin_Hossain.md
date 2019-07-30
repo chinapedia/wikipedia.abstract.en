@@ -1,1 +1,0 @@
-KEMALUDDIN HOSSAIN (died on 21 August 2013) was a Bangladeshi jurist who served as the third Chief Justice of Bangladesh from 1 February 1978 until 11 April 1982.[1] He was a chairman of Bangladesh Law Commission.[2]

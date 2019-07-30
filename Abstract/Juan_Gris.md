@@ -1,1 +1,0 @@
-JOSÉ VICTORIANO (CARMELO CARLOS) '''González-Pérez ''' (23 March 1887 – 11 May 1927), better known as JUAN GRIS (; ), was a Spanish painter born in Madrid who lived and worked in France most of his life. Closely connected to the innovative artistic genre Cubism, his works are among the movement's most distinctive.

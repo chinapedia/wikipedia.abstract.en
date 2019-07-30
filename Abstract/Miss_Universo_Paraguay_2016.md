@@ -1,1 +1,0 @@
-The MISS UNIVERSO PARAGUAY 2016 pageant was held at _AwA Resort_ on October 1, 2016, to select Paraguayan representatives to 3 major beauty pageants: Miss Universe, Miss International and Miss Supranational. It was broadcast live on SNT.

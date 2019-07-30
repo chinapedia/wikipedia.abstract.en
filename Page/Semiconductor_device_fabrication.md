@@ -1,4 +1,4 @@
-Clean_room.jpg ]]
+]]
 
 SEMICONDUCTOR DEVICE FABRICATION is the process used to create the MOSFET (metal-oxide-silicon field-effect transistor) semiconductor devices used in the integrated circuits (ICs) that are present in everyday electrical and electronic devices. It is a multiple-step sequence of photolithographic and chemical processing steps during which electronic circuits are gradually created on a wafer made of pure semiconducting material. Silicon is almost always used, but various compound semiconductors are used for specialized applications.
 
@@ -64,8 +64,6 @@ This is a list of processing techniques that are employed numerous times through
         -   Trim and form (separates the lead frames from each other, and bends the lead frame's pins so that they can be mounted on a Printed circuit board)
 -   IC testing
 
-Comparison_semiconductor_process_nodes.svg
-
 
 Prevention of contamination and defects
 
@@ -103,8 +101,6 @@ Metal layers
 Once the various semiconductor devices have been created, they must be interconnected to form the desired electrical circuits. This occurs in a series of wafer processing steps collectively referred to as BEOL (not to be confused with _back end_ of chip fabrication, which refers to the packaging and testing stages). BEOL processing involves creating metal interconnecting wires that are isolated by dielectric layers. The insulating material has traditionally been a form of SiO₂ or a silicate glass, but recently new low dielectric constant materials are being used (such as silicon oxycarbide), typically providing dielectric constants around 2.7 (compared to 3.82 for SiO₂), although materials with constants as low as 2.2 are being offered to chipmakers.
 
 Interconnect
-
-Siliconchip_by_shapeshifter.png
 
 Historically, the metal wires have been composed of ALUMINUM. In this approach to wiring (often called _subtractive aluminum_), blanket films of aluminum are deposited first, patterned, and then etched, leaving isolated wires. Dielectric material is then deposited over the exposed wires. The various metal layers are interconnected by etching holes (called "_vias")_ in the insulating material and then depositing tungsten in them with a CVD technique; this approach is still used in the fabrication of many memory chips such as dynamic random-access memory (DRAM), because the number of interconnect levels is small (currently no more than four).
 

@@ -1,1 +1,0 @@
-_MY PLEASURE IS YOUR PLEASURE_ () is a 1973 commedia sexy all'italiana anthology film written and directed by the cinematographer , at his writing and directorial debut. It is loosely based on Honoré de Balzac's novel _Les Contes drolatiques_.[1][2]

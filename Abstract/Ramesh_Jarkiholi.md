@@ -1,1 +1,0 @@
-RAMESH LAXMANRAO JARKIHOLI is an Indian politician and a member of the INC from the state of Karnataka. He served as the Minister for Municipal Administration in the Government of Karnataka lead by H. D. Kumaraswamy.[1][2]

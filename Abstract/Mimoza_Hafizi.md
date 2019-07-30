@@ -1,1 +1,0 @@
-MIMOZA HAFIZI is a physicist and has been a member of the Assembly of the Republic of Albania for the LIBRA Party. She has been representing the Socialist Party from 2013 until 2016. On October 2016, together with Ben Blushi, she created LIBRA.[1] She failed to win a second mandate on the 2017 election.

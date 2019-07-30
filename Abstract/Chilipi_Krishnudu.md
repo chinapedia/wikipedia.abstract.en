@@ -1,1 +1,0 @@
-_CHILIPI KRISHNUDU_ is a 1978 Telugu, Romance film, produced by D. Ramanaidu under the Suresh Productions banner[1] and directed by Boina Subba Rao.[2] It stars Akkineni Nageswara Rao, Vanisri in the lead roles[3] and music composed by K. V. Mahadevan.[4] The film was remade in Hindi in 1980 as _Bandish_.

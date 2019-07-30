@@ -1,1 +1,0 @@
-The CATHEDRAL OF THE CONSOLATA,[1][2] also called the ROMAN CATHOLIC CATHEDRAL OF TEHRAN, is a Catholic Church building in the city of Tehran, Iran, in which the Latin or Roman rite is followed.[3][4] It is not to be confused with the Chaldean Catholic cathedral of Tehran, St. Joseph's Cathedral, where the Chaldean rite is followed.

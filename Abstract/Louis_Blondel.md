@@ -1,1 +1,0 @@
-LOUIS BLONDEL (Geneva 24 November 1885-January 17, 1967) was a Swiss archaeologist, the first director of the cantonal archaeological service in Geneva, as well as one of the founders of Scouting in Switzerland.[1] He served as Federal Scout Leader in 1934.[2]

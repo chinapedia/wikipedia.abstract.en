@@ -13,8 +13,6 @@ To date , only five countries have participated in every Summer Olympic Games â€
 
 Hosting
 
-Summer_olympics_all_cities.PNG
-
 The United States has hosted the Summer Olympic Games four times: the 1904 Games were held in St. Louis, Missouri; the 1932 and 1984 Games were both held in Los Angeles, California; and the 1996 Games were held in Atlanta, Georgia. The 2028 Games in Los Angeles will mark the fifth occasion on which the Summer Games have been hosted by the U.S.
 
 In 2012, the United Kingdom hosted its third Summer Olympic Games in the capital city, London, which became the first city ever to have hosted the Summer Olympic Games three times. The cities of Los Angeles, Paris, and Athens have each hosted two Summer Olympic Games. In 2024, France will host its third Summer Olympic Games in its capital, making Paris the second city ever to have hosted three Summer Olympics. In 2028, Los Angeles will become the third city ever to have hosted the Games three times.
@@ -32,7 +30,7 @@ History
 
 Early years
 
-1896_Olympic_opening_ceremony.jpg]] The modern Olympic Games were founded in 1894 when Pierre de Coubertin sought to promote international understanding through sporting competition. He based his Olympics on the Wenlock Olympian Society Annual Games, which had been contested in Much Wenlock since 1850.[4] The first edition of de Coubertin's games, held in Athens in 1896, attracted just 245 competitors, of whom more than 200 were Greek, and only 14 countries were represented. Nevertheless, no international events of this magnitude had been organised before. Female athletes were not allowed to compete, though one woman, Stamata Revithi, ran the marathon course on her own, saying "If the committee doesn't let me compete I will go after them regardless".[5]
+]] The modern Olympic Games were founded in 1894 when Pierre de Coubertin sought to promote international understanding through sporting competition. He based his Olympics on the Wenlock Olympian Society Annual Games, which had been contested in Much Wenlock since 1850.[4] The first edition of de Coubertin's games, held in Athens in 1896, attracted just 245 competitors, of whom more than 200 were Greek, and only 14 countries were represented. Nevertheless, no international events of this magnitude had been organised before. Female athletes were not allowed to compete, though one woman, Stamata Revithi, ran the marathon course on her own, saying "If the committee doesn't let me compete I will go after them regardless".[5]
 
 The 1896 Summer Olympics, officially known as the Games of the Olympiad, was an international multi-sport event which was celebrated in Athens, Greece, from 6 to 15 April 1896. It was the first Olympic Games held in the Modern era. About 100,000 people attended for the opening of the games. The athletes came from 14 nations, with most coming from Greece. Although Greece had the most athletes, the U.S. finished with the most champions. 11 Americans placed first in their events vs. the 10 from Greece.[6] Ancient Greece was the birthplace of the Olympic Games, consequently Athens was perceived to be an appropriate choice to stage the inaugural modern Games. It was unanimously chosen as the host city during a congress organised by Pierre de Coubertin, a French pedagogue and historian, in Paris, on 23 June 1894. The IOC was also established during this congress.
 
@@ -41,8 +39,6 @@ Despite many obstacles and setbacks, the 1896 Olympics were regarded as a great 
 Greek officials and the public were enthusiastic about the experience of hosting an Olympic Games. This feeling was shared by many of the athletes, who even demanded that Athens be the permanent Olympic host city. The IOC intended for subsequent Games to be rotated to various host cities around the world. The second Olympics was held in Paris.[8]
 
 Four years later the 1900 Summer Olympics in Paris attracted more than four times as many athletes, including 20 women, who were allowed to officially compete for the first time, in croquet, golf, sailing, and tennis. The Games were integrated with the Paris World's Fair and lasted over 5 months. It is still disputed which events exactly were _Olympic_, since few or maybe even none of the events were advertised as such at the time.
-
-Dorando_Pietri_1908.jpg
 
 Tensions caused by the Russoâ€“Japanese War and the difficulty of getting to St. Louis may have contributed to the fact that very few top ranked athletes from outside the US and Canada took part in the 1904 Games.[9]
 
@@ -104,7 +100,7 @@ By then the process of choosing a location for the Games had itself become a com
 
 In the Atlanta games in 1996, the highlight was 200 meters runner Michael Johnson annihilating the world record in front of a home crowd. Canadians savored Donovan Bailey's recording gold medal run in the 100-meter dash. This was popularly felt to be an appropriate recompense for the previous national disgrace involving Ben Johnson. There were also emotional scenes, such as when Muhammad Ali, clearly affected by Parkinson's disease, lit the Olympic torch and received a replacement medal for the one he had discarded in 1960. The latter event took place not at the boxing ring but in the basketball arena. The atmosphere at the Games was marred, however, when a bomb exploded during the celebration in Centennial Olympic Park. In June 2003, the principal suspect in this bombing, Eric Robert Rudolph, was arrested.
 
-Sydney_olympic_stadium_track_and_field.jpg held in Sydney, Australia, known as the "Games of the New Millennium".]]
+held in Sydney, Australia, known as the "Games of the New Millennium".]]
 
 The 2000 Summer Olympics were held in Sydney, Australia, and showcased individual performances by local favorite Ian Thorpe in the pool, Briton Steve Redgrave who won a rowing gold medal in an unprecedented fifth consecutive Olympics, and Cathy Freeman, an Indigenous Australian whose triumph in the 400 meters united a packed stadium. Eric "the Eel" Moussambani, a swimmer from Equatorial Guinea, received wide media coverage when he completed the 100 meter freestyle swim in by far the slowest time in Olympic history. He nevertheless won the heat as both his opponents had been disqualified for false starts. His female compatriot Paula Barila Bolopa also received media attention for her record-slow and struggling but courageous performance. The Sydney Games also saw the first appearance of a joint North and South Korean contingent at the opening ceremonies, though they competed as different countries. Controversy occurred in the Women's Artistic Gymnastics, when the vaulting horse was set to the wrong height during the All Around Competition.
 

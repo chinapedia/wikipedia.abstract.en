@@ -1,1 +1,0 @@
-BERINTHIA "BERRY" BERENSON-PERKINS (April 14, 1948 – September 11, 2001) was an American photographer, actress, and model. Perkins, who was the wife of actor Anthony Perkins, died in the September 11 attacks as a passenger on American Airlines Flight 11.

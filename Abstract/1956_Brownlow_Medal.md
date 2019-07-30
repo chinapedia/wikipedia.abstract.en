@@ -1,1 +1,0 @@
-The 1956 BROWNLOW MEDAL was the 29th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Peter Box of the Footscray Football Club won the medal by polling twenty-two votes during the 1956 VFL season.[2]

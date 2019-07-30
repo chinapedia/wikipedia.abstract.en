@@ -11,8 +11,6 @@ Geography
 
 LOCATION: Oceania, island group of nine islands comprising three reef islands and six true atolls in the South Pacific Ocean.[9] The islands of Tuvalu are spread out between the latitude of 5° to 10° south and longitude of 176° to 180°, west of the International Date Line.[10]
 
-Tv-map.png
-
 GEOGRAPHIC COORDINATES: to
 
 MAP REFERENCES: Oceania
@@ -47,7 +45,7 @@ ELEVATION EXTREMES:
 _lowest point:_ Pacific Ocean 0 m
 _highest point:_ unnamed location, on Niulakita.
 
-EXTREME POINTS: Tuvalu_-_Funafuti_-_Approach.jpg (Funafuti)'']] This is a list of the extreme points of Tuvalu, the points that are farther north, south, east or west than any other location:
+EXTREME POINTS: (Funafuti)'']] This is a list of the extreme points of Tuvalu, the points that are farther north, south, east or west than any other location:
 
 -   Northernmost point – Lakena islet, Nanumea
 -   Easternmost point – Niuoko islet, Nukulaelae
@@ -66,7 +64,7 @@ IRRIGATED LAND: NA km²
 
 Native broadleaf forest
 
-Beach_of_Nanumea_Atoll.jpg'' and _Guettarda speciosa_ grow near the beach on Nanumea Atoll]] Fualifeke_Islet,_Funafuti_Atoll.jpg Islet]]
+'' and _Guettarda speciosa_ grow near the beach on Nanumea Atoll]] Islet]]
 
 The native broadleaf forest is limited to 4.1% of the vegetation types on the islands of Tuvalu.[14] The islets of the Funafuti Conservation Area have 40% of the remaining native broadleaf forest on Funafuti atoll. While Coconut palms are common in Tuvalu, they are usually cultivated rather than naturally seeding and growing. Tuvaluan traditional histories are that the first settlers of the islands planted Coconut palms as they were not found on the islands. The native broadleaf forest of Funafuti would include the following species, that were described by Charles Hedley in 1896,[15] which include the Tuvaluan name (some of which may follow Samoan plant names):
 
@@ -123,7 +121,7 @@ Severe tropical cyclones are usually rare, however the low level of islands make
 
 George Westbrook recorded a cyclone that struck Funafuti on 23–24 December 1883.[33][34] A cyclone struck Nukulaelae on 17–18 March 1886.[35] Captain Davis of HMS _Royalist_, who visited the Ellice Group in 1892, recorded in the ship's diary that in February 1891 the Ellice Group was devastated by a severe cyclone.[36] A cyclone caused severe damage to the islands in 1894.[37]
 
-Tuvalu_Meteorology_Service.jpg, Fongafale, Funafuti atoll]] Cyclone Bebe caused severe damage to Funafuti during the 1972–73 South Pacific cyclone season. Funafuti's Tepuka Vili Vili islet was devastated by Cyclone Meli in 1979, with all its vegetation and most of its sand swept away during the cyclone.[38] Cyclone Gavin was first identified during 2 March 1997, and was the first of three tropical cyclones to affect Tuvalu during the 1996–97 cyclone season with Cyclones Hina and Keli following later in the season. Cyclone Ofa had a major impact on Tuvalu in late January and early February 1990.[39][40][41] On Vaitupu Island around 85 percent of residential homes, trees and food crops were destroyed, while residential homes were also destroyed on the islands of Niutao, Nui and Nukulaelae.[42] The majority of the islands in Tuvalu reported damage to vegetation and crops especially bananas, coconuts and breadfruit, with the extent of damage ranging from 10 to 40 percent. In Funafuti sea waves flattened the Hurricane Bebe bank at the southern end of the airstrip, which caused sea flooding and prompted the evacuation of several families from their homes. In Nui and Niulakita there was a minor loss of the landscape because of sea flooding while there were no lives lost. Soon after the systems had impacted Tuvalu, a Disaster Rehabilitation Sub-Committee was appointed to evaluate the damage caused and make recommendations to the National Disaster Committee and to the Cabinet of Tuvalu, on what should be done to help rehabilitate the affected areas.[43]
+, Fongafale, Funafuti atoll]] Cyclone Bebe caused severe damage to Funafuti during the 1972–73 South Pacific cyclone season. Funafuti's Tepuka Vili Vili islet was devastated by Cyclone Meli in 1979, with all its vegetation and most of its sand swept away during the cyclone.[38] Cyclone Gavin was first identified during 2 March 1997, and was the first of three tropical cyclones to affect Tuvalu during the 1996–97 cyclone season with Cyclones Hina and Keli following later in the season. Cyclone Ofa had a major impact on Tuvalu in late January and early February 1990.[39][40][41] On Vaitupu Island around 85 percent of residential homes, trees and food crops were destroyed, while residential homes were also destroyed on the islands of Niutao, Nui and Nukulaelae.[42] The majority of the islands in Tuvalu reported damage to vegetation and crops especially bananas, coconuts and breadfruit, with the extent of damage ranging from 10 to 40 percent. In Funafuti sea waves flattened the Hurricane Bebe bank at the southern end of the airstrip, which caused sea flooding and prompted the evacuation of several families from their homes. In Nui and Niulakita there was a minor loss of the landscape because of sea flooding while there were no lives lost. Soon after the systems had impacted Tuvalu, a Disaster Rehabilitation Sub-Committee was appointed to evaluate the damage caused and make recommendations to the National Disaster Committee and to the Cabinet of Tuvalu, on what should be done to help rehabilitate the affected areas.[43]
 
 In March 2015 Cyclone Pam, the Category 5 cyclone that devastated Vanuatu, caused damage to houses, crops and infrastructure on the outer islands.[44][45][46][47] A state of emergency was subsequently declared on 13 March.[48][49] An estimated 45 percent of the nation's nearly 10,000 people were displaced, according to Prime Minister Enele Sopoaga.[50][51] The three northern islands, Nanumea, Nanumanga and Niutao were badly affected by flooding as the result of storm surges. More than 400 people from the northern island of Nanumanga were moved to emergency accommodation in the school buildings, as well as another 85 families from Nukulaelae in the south of Tuvalu. On Nui the storm surges contaminated the water supplies and damaged septic tanks and grave sites. The central islands of Vaitupu and Nukufetau were also affected by flooding caused by storm surges.[52][53][54] The Situation Report published on 30 March reported that on Nukufetau all the displaced people have returned to their homes.[55]
 
@@ -138,7 +136,7 @@ Environment
 
 Island, reef and lagoon habitats
 
-Nukufetau.jpg atoll.]]
+atoll.]]
 
 Tuvalu consists of three reef islands and six true atolls. Its small, scattered group of atolls have poor soil and a total land area of only about 26 square kilometres (less than 10 sq. mi.) making it the fourth smallest country in the world. The islets that form the atolls are very low-lying. Nanumaga, Niutao, Niulakita are reef islands and the six true atolls are Funafuti, Nanumea, Nui, Nukufetau, Nukulaelae and Vaitupu. Funafuti is the largest atoll of the nine low reef islands and atolls that form the Tuvalu volcanic island chain. It comprises numerous islets around a central lagoon that is approximately 25.1 kilometres (15.6 mi) (N–S) by 18.4 kilometres (11.4 mi) (W-E), centred on 179°7’E and 8°30’S. On the atolls an annular reef rim surrounds the lagoon, with several natural reef channels.[64] A standard definition of an _atoll_ is "an annular reef enclosing a lagoon in which there are no promontories other than reefs and islets composed of reef detritus".[65]
 
@@ -154,7 +152,7 @@ Since there are no streams or rivers and groundwater is not potable, most water 
 
 Because of the low elevation, the islands that make up this nation are threatened by current and future sea level rise.[75][76] The highest elevation is above sea level on Niulakita,[77] which gives Tuvalu the second-lowest maximum elevation of any country (after the Maldives). However, the highest elevations are typically in narrow storm dunes on the ocean side of the islands which are prone to over topping in tropical cyclones, such as occurred on Funafuti with Cyclone Bebe.[78]
 
-Ocean_side_Funafuti.jpg atoll showing the storm dunes, the highest point on the atoll.]] Tuvalu is mainly composed of coral debris eroded from encircling reefs and pushed up onto the islands by winds and waves.[79] Paul Kench at the University of Auckland in New Zealand and Arthur Webb at the South Pacific Applied Geoscience Commission in Fiji released a study in 2010 on the dynamic response of reef islands to sea level rise in the central Pacific. Tuvalu was mentioned in the study, and Webb and Kench found that seven islands in one of its nine atolls have spread by more than 3 per cent on average since the 1950s.[80] One island, Funamanu, gained 0.44 hectares, or nearly 30 per cent of its previous area. In contrast, Tepuka Vili Vili has suffered a net loss in area of 22 percent since 1896. The shape and orientation of the reef has also changed over time.[81]
+atoll showing the storm dunes, the highest point on the atoll.]] Tuvalu is mainly composed of coral debris eroded from encircling reefs and pushed up onto the islands by winds and waves.[79] Paul Kench at the University of Auckland in New Zealand and Arthur Webb at the South Pacific Applied Geoscience Commission in Fiji released a study in 2010 on the dynamic response of reef islands to sea level rise in the central Pacific. Tuvalu was mentioned in the study, and Webb and Kench found that seven islands in one of its nine atolls have spread by more than 3 per cent on average since the 1950s.[80] One island, Funamanu, gained 0.44 hectares, or nearly 30 per cent of its previous area. In contrast, Tepuka Vili Vili has suffered a net loss in area of 22 percent since 1896. The shape and orientation of the reef has also changed over time.[81]
 
 Further research by Kench et al., published in 2018 identifies rising sea levels as creating an increased transfer of wave energy across the reef surfaces of the atolls of Tuvalu, which shifts sand, resulting in accretion to island shorelines. Over 4 decades, there had been a net increase in land area of the islets of 73.5 ha (2.9%), although the changes are not uniform, with 74% increasing and 27% decreasing in size.[82] However, this process does not result in additional habitable land.[83][84]
 
@@ -183,8 +181,6 @@ Tuvalu signed the Pacific Islands Cetaceans Memorandum of Understanding on 9 Sep
 Funafuti atoll
 
 Structure of Funafuti atoll
-
-Funafuti.jpg
 
 Funafuti atoll consists of a narrow sweep of land between wide, encircling a large lagoon (_Te Namo_) of about long and wide. The average depth in the Funafuti lagoon is about 20 fathoms (36.5 metres or 120 feet).[106] With a surface of , it is by far the largest lagoon in Tuvalu. The land area of the 33 islets aggregates to , less than one percent of the total area of the atoll.
 

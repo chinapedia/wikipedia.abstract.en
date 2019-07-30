@@ -1,1 +1,0 @@
-DIMETHANDROLONE (DMA), also known by its developmental code name CDB-1321, is an experimental androgen/anabolic steroid (AAS) and progestogen medication which is under investigation for potential clinical use.[1][2][3]

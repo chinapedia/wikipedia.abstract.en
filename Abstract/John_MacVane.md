@@ -1,1 +1,0 @@
-JOHN FRANKLIN MACVANE (April 29, 1912 – January 28, 1984) was an American broadcast journalist and war correspondent. He gained prominence covering World War II in Europe for NBC News. Throughout the war he provided eyewitness radio reports on major events, including the London Blitz, the Dieppe Raid, the Allied invasion of Italy, and the Normandy landings at Omaha Beach.

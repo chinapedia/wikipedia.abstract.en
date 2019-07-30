@@ -1,5 +1,3 @@
-The southern terminus of the Suez Canal at Suez on the Gulf of Suez (Red Sea)
-
 The SUEZ CANAL ( __) is a sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez. Constructed by the Suez Canal Company between 1859 and 1869, it was officially opened on 17 November 1869. The canal offers watercraft a more direct route between the North Atlantic and northern Indian oceans via the Mediterranean and Red seas, thus avoiding the South Atlantic and southern Indian oceans and thereby reducing the journey distance from the Arabian Sea to, for example, London by approximately .[1] It extends from the northern terminus of Port Said to the southern terminus of Port Tewfik at the city of Suez. Its length is , including its northern and southern access channels. In 2012, 17,225 vessels traversed the canal (an average of 47 per day).[2]
 
 The original canal was a single-lane waterway with passing locations in the Ballah Bypass and the Great Bitter Lake.[3] It contains no locks system, with seawater flowing freely through it. In general, the canal north of the Bitter Lakes flows north in winter and south in summer. South of the lakes, the current changes with the tide at Suez.[4]
@@ -84,13 +82,11 @@ History
 
 Interim period
 
-Suez1856.jpg, northern Gulf of Suez, route to Cairo, 1856]]
+, northern Gulf of Suez, route to Cairo, 1856]]
 
 Although the alleged difference in sea levels could be problematic for construction, the idea of finding a shorter route to the east remained alive. In 1830, F. R. Chesney submitted a report to the British government that stated that there was no difference in elevation and that the Suez Canal was feasible, but his report received no further attention. Lieutenant Waghorn established his "Overland Route", which transported post and passengers to India via Egypt. Linant de Bellefonds, a French explorer of Egypt, became chief engineer of Egypt's Public Works. In addition to his normal duties, he surveyed the Isthmus of Suez and made plans for the Suez Canal. French Saint-Simonianists showed an interest in the canal and in 1833, Barthélemy Prosper Enfantin tried to draw Muhammad Ali's attention to the canal but was unsuccessful. Alois Negrelli, the Austrian railroad pioneer, became interested in the idea in 1836. In 1846, Prosper Enfantin's Société d'Études du Canal de Suez invited a number of experts, among them Robert Stephenson, Negrelli and Paul-Adrien Bourdaloue to study the feasibility of the Suez Canal (with the assistance of Linant de Bellefonds). Bourdaloue's survey of the isthmus was the first generally accepted evidence that there was no practical difference in altitude between the two seas. Britain, however, feared that a canal open to everyone might interfere with its India trade and therefore preferred a connection by train from Alexandria via Cairo to Suez, which was eventually built by Stephenson.
 
 Construction by the Suez Canal Company
-
-SuezCanalKantara.jpg
 
 Preparations (1854–1858)
 
@@ -99,8 +95,6 @@ In 1854 and 1856, Ferdinand de Lesseps obtained a concession from Sa'id Pasha, t
 Construction (1859–1869)
 
 Work started on the shore of the future Port Said on 25 April 1859.
-
-Suez_Canal_drawing_1881.jpg
 
 The excavation took some 10 years using forced labour (corvée) of Egyptian workers during the first years. Some sources estimate that over 30,000 people were working on the canal at any given period, that more than 1.5 million people from various countries were employed, and that thousands of labourers died, many of them from cholera and similar epidemics.[111][112]
 
@@ -112,7 +106,7 @@ Initially international opinion was skeptical and Suez Canal Company shares did 
 
 Inauguration (17 November 1869)
 
-Suez_Canal,_Egypt._Lantern_Slide.jpg ]]
+]]
 
 The canal opened under French control on 17 November 1869. The opening was performed by Khedive Isma'il Pasha of Egypt and Sudan, and at Ismail's invitation French Empress Eugenie in the Imperial yacht _L'Aigle_ piloted by Napoléon Coste, upon whom the Khedive bestowed the Ottoman Order of the Medjidie.
 
@@ -132,15 +126,13 @@ After the opening, the Suez Canal Company was in financial difficulties. The rem
 
 Company rule after opening
 
-Suez_Canal_(ca_1914).jpg
-
 The canal had an immediate and dramatic effect on world trade. Combined with the American transcontinental railroad completed six months earlier, it allowed the world to be circled in record time. It played an important role in increasing European colonization of Africa. The construction of the canal was one of the reasons for the Panic of 1873, because goods from the Far East were carried in sailing vessels around the Cape of Good Hope and were stored in British warehouses. An inability to pay his bank debts led Said Pasha's successor, Isma'il Pasha, in 1875 to sell his 44% share in the canal for £4,000,000 ($19.2 million) equivalent to 432 to 456 million pounds Sterling ($540 to $570 million) to the government of the United Kingdom.[124] French shareholders still held the majority.[125] Local unrest caused the British to invade in 1882 and take full control, although nominally Egypt remained part of the Ottoman Empire. The British representative 1883 to 1907 was Evelyn Baring, 1st Earl of Cromer, who reorganized and modernized the government and suppressed rebellions and corruption, thereby facilitating increased traffic on the canal.[126]
 
 The Convention of Constantinople in 1888 declared the canal a neutral zone under the protection of the British, who had occupied Egypt and Sudan at the request of Khedive Tewfiq to suppress the Urabi Revolt against his rule. The revolt went on from 1879 to 1882. As a result of British involvement on the side of Khedive Tewfiq, Britain gained control of the canal in 1882. The British defended the strategically important passage against a major Ottoman attack in 1915, during the First World War.[127] Under the Anglo-Egyptian Treaty of 1936, the UK retained control over the canal. The canal was again strategically important in the 1939–1945 Second World War, and Italo-German attempts to capture it were repulsed during the North Africa Campaign, during which the canal was closed to Axis shipping. In 1951 Egypt repudiated the treaty and in October 1954 the UK agreed to remove its troops. Withdrawal was completed on 18 July 1956.
 
 Suez Crisis
 
-Port_Said_from_air.jpg on Port Said, 5 November 1956]]
+on Port Said, 5 November 1956]]
 
 Because of Egyptian overtures towards the Soviet Union, the United Kingdom and the United States withdrew their pledge to support the construction of the Aswan Dam. Egyptian President Gamal Abdel Nasser responded by nationalizing the canal on 26 July 1956[128] and transferring it to the Suez Canal Authority, intending to finance the dam project using revenue from the canal. On the same day that the canal was nationalized Nasser also closed the Straits of Tiran to all Israeli ships.[129] This led to the Suez Crisis in which the UK, France, and Israel invaded Egypt. According to the pre-agreed war plans under the Protocol of Sèvres, the Israelis invaded the Sinai Peninsula on 29 October, forcing Egypt to engage them militarily, and allowing the Anglo-French partnership to declare the resultant fighting a threat to stability in the Middle East and enter the war - officially to separate the two forces but in reality to regain the Canal and bring down the Nasser government.
 
@@ -148,7 +140,7 @@ To save the British from what he thought was a disastrous action and to stop the
 
 Arab–Israeli wars of 1967 and 1973
 
-Egyptianbridge.jpg]] Israeli_Tanks_Cross_the_Suez_Canal_-_Flickr_-_Israel_Defense_Forces.jpg
+]]
 
 In May 1967, Nasser ordered the UN peacekeeping forces out of Sinai, including the Suez Canal area. Israel objected to the closing of the Straits of Tiran to Israeli shipping. The canal had been closed to Israeli shipping since 1949, except for a short period in 1951–1952.
 
@@ -170,7 +162,7 @@ In the summer of 2014, months after taking office as President of Egypt, Abdel F
 
 Timeline
 
-Mittelholzer-suezkanal.jpg]] USS_America_(CV-66)_in_the_Suez_canal_1981.jpg SuezCanal4_byDanielCsorfoly.JPG
+]]
 
 -   Circa 1799 – Napoleon Bonaparte conquers Egypt and orders a feasibility analysis. This reports a supposed difference in sea levels and a high cost, so the project is put on hold.
 -   Circa 1840 – A second survey finds the first analysis incorrect. A direct link between the Mediterranean Sea and the Red Sea is possible and not as expensive as previously estimated.
@@ -206,7 +198,7 @@ The canal allows passage of ships up to draft or 240,000 deadweight tons and up 
 
 Navigation
 
-SuezCanal_ElBallah.JPG MEDCURR.GIF for June]]
+for June]]
 
 The canal has no locks because of the flat terrain, and the minor sea level difference between each end is inconsequential for shipping. As the canal has no sea surge gates, the ports at the ends would be subject to the sudden impact of tsunamis from the Mediterranean Sea and Red Sea, according to a 2012 article in the _Journal of Coastal Research_.[146]
 
@@ -220,7 +212,7 @@ The SCA has the right to determine the number of tugs required to assist warship
 
 Operation
 
-Capesize_bulk_carrier_at_Suez_Canal_Bridge.JPG bulk carrier approaches the Friendship Bridge]] Bittersee_suezkanal.JPG
+bulk carrier approaches the Friendship Bridge]]
 
 Before August 2015, the canal was too narrow for free two-way traffic, so ships would pass in convoys and use bypasses. The by-passes were out of (40%). From north to south, they are: Port Said by-pass (entrances) , Ballah by-pass & anchorage, , Timsah by-pass , and the Deversoir by-pass (northern end of the Great Bitter Lake) . The bypasses were completed in 1980.
 
@@ -233,8 +225,6 @@ Convoy sailing
 Since the canal does not cater to unregulated two-way traffic, all ships transit in convoys on regular times, scheduled on a 24-hour basis. Each day, a single northbound convoy starts at 04:00 from Suez. At dual lane sections, the convoy uses the eastern route.[155][156][157] Synchronised with this convoy's passage is the southbound convoy. It starts at 03:30 from Port Said and so passes the Northbound convoy in the two-lane section.
 
 Canal crossings
-
-Suez_canal_english.jpg
 
 From north to south, the crossings are:
 
@@ -259,7 +249,7 @@ Before the canal's opening in 1869, goods were sometimes offloaded from ships an
 
 Northern Sea Route
 
-Northern_Sea_Route_vs_Southern_Sea_Route.svg (blue) and an alternative route through Suez Canal (red)]]
+(blue) and an alternative route through Suez Canal (red)]]
 
 In recent years, the shrinking Arctic sea ice has made the Northern Sea Route feasible for commercial cargo ships between Europe and East Asia during a six-to-eight-week window in the summer months, shortening the voyage by thousands of miles compared to that through the Suez Canal. According to polar climate researchers, as the extent of the Arctic summer ice pack recedes the route will become passable without the help of icebreakers for a greater period each summer.[165][166]
 

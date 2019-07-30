@@ -1,1 +1,0 @@
-TODD ANTHONY TYLER is a Canadian reality television judge, fashion photographer and former model. He was the resident photographer and judge for the first season of _Asia's Next Top Model_. He is also the resident photographer and judge of TV show _Fit for Fashion_.

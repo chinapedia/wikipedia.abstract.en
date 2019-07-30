@@ -363,7 +363,7 @@ In Finland, defamation is a crime, according to the Criminal Code (Chapter 24, S
 
 France
 
-CdG_LA_VIE_ILLUSTREE_1902_N_197_L'AFFAIRE_Mme_DUGAST-_Me_BARBOUX_25_July_1902.JPG stands in court during the cases of character defamation by the barrister Maître Barboux, and the Prince of Sagan's assault on Barboux.]]
+stands in court during the cases of character defamation by the barrister Maître Barboux, and the Prince of Sagan's assault on Barboux.]]
 
 In France, defamation is a criminal offense defined as "the allegation or [the] allocation of a fact that damages the honor or reputation of the person or body to which the fact is imputed". A defamatory allegation is considered an insult if it does not include any facts or if the claimed facts cannot be verified.
 

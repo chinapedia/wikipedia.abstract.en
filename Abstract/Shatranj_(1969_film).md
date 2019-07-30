@@ -1,1 +1,0 @@
-_SHATRANJ_ () is a 1969 Indian Hindi-language spy thriller film co-produced and directed by S. S. Vasan. His final directorial venture, it stars Rajendra Kumar, Waheeda Rehman, Mehmood, Shashikala, Helen, Achala Sachdev and Agha.

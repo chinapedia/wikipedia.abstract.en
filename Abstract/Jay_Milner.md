@@ -1,1 +1,0 @@
-JAY MILNER (1926-2011) was a journalist who wrote for many organizations throughout his career in the field. Perhaps the most notable group he was a part of was the Maddogs. He also served in the US Navy during WWII, and taught at the Texas Christian University (TCU) as well as Southern Methodist University (SMU).

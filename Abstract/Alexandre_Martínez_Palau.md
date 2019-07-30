@@ -1,1 +1,0 @@
-ALEXANDRE "ÀLEX" MARTÍNEZ PALAU (born 10 October 1998) is an Andorran footballer and beach soccer player who plays for FC Andorra Juvenil A,[1] the Andorra national beach soccer team and the Andorra national football team.[2]

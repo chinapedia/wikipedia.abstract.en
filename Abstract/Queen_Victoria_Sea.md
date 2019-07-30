@@ -1,1 +1,0 @@
-The QUEEN VICTORIA SEA (, _Morye Korolevy Viktorii_) is a body of water in the Arctic Ocean, stretching from northeast of Svalbard to northwest Franz Josef Land. It is obstructed by ice most of the year.

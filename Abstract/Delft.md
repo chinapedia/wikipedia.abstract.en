@@ -1,1 +1,0 @@
-DELFT () is a city and municipality in the province of South Holland, Netherlands. It is located between Rotterdam, to the southeast, and The Hague, to the northwest. Together with them, it is part of both Rotterdam–The Hague metropolitan area and the Randstad.

@@ -1,1 +1,0 @@
-The SOUTH AMAZON ECOTONES ECOLOGICAL CORRIDOR () is a proposed ecological corridor connecting conservation units and indigenous territories that form an ecotone, or transition between the south of the Amazon rainforest and the north of the cerrado of Brazil.

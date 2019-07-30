@@ -1,1 +1,0 @@
-_TASTE THE ISLANDS_ is a Caribbean cooking series distributed by American Public Television.[1][2] In it, hosts explore traditional and gourmet Caribbean dishes and offer tips on ethnic ingredients and unique preparation methods.

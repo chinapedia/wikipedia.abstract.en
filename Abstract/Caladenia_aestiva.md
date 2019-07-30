@@ -1,1 +1,0 @@
-_CALADENIA AESTIVA_, commonly known as SUMMER SPIDER ORCHID,[1] is a plant in the orchid family Orchidaceae and is endemic to south-eastern Australia. It is a ground orchid which grows singly or in small groups in the Australian Capital Territory and Victoria. It has one or two greenish-yellow to pale yellow flowers, often while the single, hairy leaf withers.

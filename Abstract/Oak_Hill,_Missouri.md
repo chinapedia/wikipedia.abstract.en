@@ -1,1 +1,0 @@
-OAK HILL is an unincorporated community in northwest Crawford County, in the U.S. state of Missouri.[1] The community is located on the east bank of Brush Creek, one-quarter mile south of the Crawford-Gasconade county line and is on Missouri Route CC, one mile east of Missouri Route 19.[2]

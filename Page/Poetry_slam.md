@@ -1,4 +1,4 @@
-NuyoricanPoetsCafe.JPG, New York City]]
+, New York City]]
 
 A POETRY SLAM is a competition in which poets of all ages perform spoken word poetry. Poetry slams began in Chicago in 1984 with its first competition designed to move poetry recitals from academia to a popular audience when American poet Marc Smith began experimenting with existing open microphone venues for poetry readings by making them competitive.[1] The performances at a poetry slam are judged by a panel of judges, typically five, and usually selected from the audience, or sometimes judged by audience response.[2] The judges usually give each poem a score on a scale of 0–10 (zero being the worst and ten being the best). The highest and lowest scores are dropped and the middle three are kept. The highest score one can receive is 30 and the lowest is zero.
 
@@ -31,7 +31,7 @@ Props, costumes, and music are forbidden in slams,[12] which differs greatly fro
 
 Competition types
 
-Digiluule_Slam_Arvamusfestivali_kohvikualal_04.jpg, Estonia]] In an "Open Slam", the most common slam type, competition is open to all who wish to compete, given the number of slots available. In an "Invitational Slam", only those invited to do so may compete.
+, Estonia]] In an "Open Slam", the most common slam type, competition is open to all who wish to compete, given the number of slots available. In an "Invitational Slam", only those invited to do so may compete.
 
 Poetry Slam, Inc. holds several national and international competitions, including the Individual World Poetry Slam, the National Poetry Slam and The Women of the World Poetry Slam. The current (2013) IWPS champion is Ed Mabrey.[14] Ed Mabrey is the only three-time IWPS champion in the history of the event.[15] The current (2013) National Poetry Slam Team champions are Slam New Orleans (SNO), who have won the competition for the second year in a row.[16] The current (2014) Women of the World Poetry Slam Champion is Dominique Christina.[17]
 
@@ -52,7 +52,7 @@ What is a dominant / successful style one year may not be passed to the next. Cr
 
   One of the more interesting end products (to me, at least) of this constant shifting is that poets in the slam always worry that something—a style, a project, a poet—will become so dominant that it will kill the scene, but it never does. Ranting hipsters, freestyle rappers, bohemian drifters, proto-comedians, mystical shamans and gothy punks have all had their time at the top of the slam food chain, but in the end, something different always comes along and challenges the poets to try something new.[22]
 
-BobHolmanNewYorkCity2006.JPG One of the goals of a poetry slam is to challenge the authority of anyone who claims absolute authority over literary value. No poet is beyond critique, as everyone is dependent upon the goodwill of the audience. Since only the poets with the best cumulative scores advance to the final round of the night, the structure assures that the audience gets to choose from whom they will hear more poetry. Audience members furthermore become part of each poem's presence, thus breaking down the barriers between poet/performer, critic, and audience.
+One of the goals of a poetry slam is to challenge the authority of anyone who claims absolute authority over literary value. No poet is beyond critique, as everyone is dependent upon the goodwill of the audience. Since only the poets with the best cumulative scores advance to the final round of the night, the structure assures that the audience gets to choose from whom they will hear more poetry. Audience members furthermore become part of each poem's presence, thus breaking down the barriers between poet/performer, critic, and audience.
 
 Bob Holman, a poetry activist and former slammaster of the Nuyorican Poets Cafe, once called the movement "the democratization of verse".[23] In 2005, Holman was also quoted as saying: "The spoken word revolution is led a lot by women and by poets of color. It gives a depth to the nation's dialogue that you don't hear on the floor of Congress. I want a floor of Congress to look more like a National Poetry Slam. That would make me happy."[24]
 

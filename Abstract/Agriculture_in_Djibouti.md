@@ -1,1 +1,0 @@
-Agriculture is the third economic activity in Djibouti. Agriculture makes up 3 percent of the wider economy value. Djibouti depends on imports in most foods.[1] Climatic conditions and poor soils limit farm output, and domestic food production meets about 15% of demand. 10% of the Djiboutian workforce are employed in agriculture.

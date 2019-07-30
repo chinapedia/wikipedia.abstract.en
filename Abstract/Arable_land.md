@@ -1,1 +1,0 @@
-upright=1.25 like this one in Dorset, England.]] ARABLE LAND (from Latin _arabilis_, "able to be plowed") is, according to one definition, land capable of being ploughed and used to grow crops.[1] In Britain, it was traditionally contrasted with pasturable land such as heaths which could be used for sheep-rearing but not farmland.

@@ -1,1 +1,0 @@
-ISAAC MANUEL FRANCISCO ALBÉNIZ Y PASCUAL (; 29 May 1860 – 18 May 1909) was a Spanish virtuoso pianist, composer, and conductor. He is one of the foremost composers of the Post-Romantic era who also had a significant influence on his contemporaries and younger composers. He is best known for his piano works based on Spanish folk music idioms.

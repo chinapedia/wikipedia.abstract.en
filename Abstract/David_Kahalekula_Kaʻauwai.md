@@ -1,1 +1,0 @@
-DAVID KAHALEKULA KAʻAUWAI[1] (January 26, 1856) was a lawyer and politician of the Kingdom of Hawaii. He served two terms as a member of the House of Representatives of the Legislature of the Kingdom from 1854 to 1855. His father and younger brother were also legislators while his niece became a Princess of Hawaii.[2]

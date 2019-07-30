@@ -38,8 +38,6 @@ History
 
 Origins
 
-Rashidun_Caliph_Ali_ibn_Abi_Talib_-_علي_بن_أبي_طالب.svg
-
 According to Carl W. Ernst the earliest figures of Sufism are Muhammad himself and his companions (_Sahabah_).[35] Sufi orders are based on the _"bay‘ah"_ (بَيْعَة _bay‘ah_, مُبَايَعَة _mubāya‘ah_ "pledge, allegiance") that was given to Muhammad by his _Ṣahabah_. By pledging allegiance to Muhammad, the Sahabah had committed themselves to the service of God.[36][37][38]
 
 Sufis believe that by giving _bayʿah_ (pledging allegiance) to a legitimate Sufi shaykh, one is pledging allegiance to Muhammad; therefore, a spiritual connection between the seeker and Muhammad is established. It is through Muhammad that Sufis aim to learn about, understand and connect with God.[39] Ali is regarded as one of the major figures amongst the _Sahaba_ who have directly pledged allegiance to Muhammad, and Sufis maintain that through Ali, knowledge about Muhammad and a connection with Muhammad may be attained. Such a concept may be understood by the _hadith_, which Sufis regard to be authentic, in which Muhammad said, "I am the city of knowledge and Ali is its gate".[40] Eminent Sufis such as Ali Hujwiri refer to Ali as having a very high ranking in _Tasawwuf_. Furthermore, Junayd of Baghdad regarded Ali as sheikh of the principals and practices of _Tasawwuf_.[41]
@@ -58,7 +56,7 @@ Over the years, Sufi orders have influenced and been adopted by various Shi'i mo
 
 As an Islamic discipline
 
-Dance_of_Sufi_Dervishes.jpg (c. 1480/1490)]]
+(c. 1480/1490)]]
 
 Existing in both Sunni and Shia Islam, Sufism is not a distinct sect, as is sometimes erroneously assumed, but a method of approaching or a way of understanding the religion, which strives to take the regular practice of the religion to the "supererogatory level" through simultaneously "fulfilling ... [the obligatory] religious duties"[57] and finding a "way and a means of striking a root through the 'narrow gate' in the depth of the soul out into the domain of the pure arid unimprisonable Spirit which itself opens out on to the Divinity."[58][59] Academic studies of Sufism confirm that Sufism, as a separate tradition from Islam apart from so-called _pure Islam_, is frequently a product of Western orientalism and modern Islamic fundamentalists.[60]
 
@@ -72,8 +70,6 @@ Al-Ghazali narrates in _Al-Munqidh min al-dalal_:
 
 Formalization of doctrine
 
-A_Sufi_in_Ecstasy_in_a_Landscape_LACMA_M.73.5.582.jpg
-
 In the eleventh-century, Sufism, which had previously been a less "codified" trend in Islamic piety, began to be "ordered and crystallized" into orders which have continued until the present day. All these orders were founded by a major Islamic scholar, and some of the largest and most widespread included the Qadiriyya (after Abdul-Qadir Gilani [d. 1166]), the Rifa'iyya (after Ahmed al-Rifa'i [d. 1182]), the Chishtiyya (after Moinuddin Chishti [d. 1236]), the Shadiliyya (after Abul Hasan ash-Shadhili [d. 1258]), the Hamadaniyyah (after Sayyid Ali Hamadani [d. 1384], the Naqshbandiyya (after Baha-ud-Din Naqshband Bukhari [d. 1389]).[63] Contrary to popular perception in the West,[64] however, neither the founders of these orders nor their followers ever considered themselves to be anything other than orthodox Sunni Muslims,[65] and in fact all of these orders were attached to one of the four orthodox legal schools of Sunni Islam.[66][67] Thus, the Qadiriyya order was Hanbali, with its founder, Abdul-Qadir Gilani, being a renowned jurist; the Chishtiyya was Hanafi; the Shadiliyya order was Maliki; and the Naqshbandiyya order was Hanafi.[68] Thus, it is precisely because it is historically proven that "many of the most eminent defenders of Islamic orthodoxy, such as Abdul-Qadir Gilani, Ghazali, and the Sultan Ṣalāḥ ad-Dīn (Saladin) were connected with Sufism"[69] that the popular studies of writers like Idries Shah are continuously disregarded by scholars as conveying the fallacious image that "Sufism" is somehow distinct from "Islam."[70][71][72][73]
 
 Towards the end of the first millennium, a number of manuals began to be written summarizing the doctrines of Sufism and describing some typical Sufi practices. Two of the most famous of these are now available in English translation: the _Kashf al-Mahjûb_ of Ali Hujwiri and the _Risâla_ of Al-Qushayri.[74]
@@ -82,7 +78,7 @@ Two of al-Ghazali's greatest treatises are the _Revival of Religious Sciences_ a
 
 Growth of influence
 
-Jahangir_with_sufi.jpg dated from the early 1620s depicting the Mughal emperor Jahangir (d. 1627) preferring an audience with Sufi saint to his contemporaries, the Ottoman Sultan and the King of England James I (d. 1625); the picture is inscribed in Persian: "Though outwardly shahs stand before him, he fixes his gazes on dervishes."]] Historically, Sufism became "an incredibly important part of Islam" and "one of the most widespread and omnipresent aspects of Muslim life" in Islamic civilization from the early medieval period onwards,[77][78] when it began to permeate nearly all major aspects of Sunni Islamic life in regions stretching from India and Iraq to the Balkans and Senegal.[79]
+dated from the early 1620s depicting the Mughal emperor Jahangir (d. 1627) preferring an audience with Sufi saint to his contemporaries, the Ottoman Sultan and the King of England James I (d. 1625); the picture is inscribed in Persian: "Though outwardly shahs stand before him, he fixes his gazes on dervishes."]] Historically, Sufism became "an incredibly important part of Islam" and "one of the most widespread and omnipresent aspects of Muslim life" in Islamic civilization from the early medieval period onwards,[77][78] when it began to permeate nearly all major aspects of Sunni Islamic life in regions stretching from India and Iraq to the Balkans and Senegal.[79]
 
 The rise of Islamic civilization coincides strongly with the spread of Sufi philosophy in Islam. The spread of Sufism has been considered a definitive factor in the spread of Islam, and in the creation of integrally Islamic cultures, especially in Africa[80] and Asia. The Senussi tribes of Libya and the Sudan are one of the strongest adherents of Sufism. Sufi poets and philosophers such as Khoja Akhmet Yassawi, Rumi, and Attar of Nishapur (c. 1145 – c. 1221) greatly enhanced the spread of Islamic culture in Anatolia, Central Asia, and South Asia.[81][82] Sufism also played a role in creating and propagating the culture of the Ottoman world,[83] and in resisting European imperialism in North Africa and South Asia.[84]
 
@@ -98,7 +94,7 @@ However, defying these predictions, Sufism and Sufi orders have continued to pla
 
 In the modern world, the classical interpretation of Sunni orthodoxy, which sees in Sufism an essential dimension of Islam alongside the disciplines of jurisprudence and theology, is represented by institutions such as Egypt's Al-Azhar University and Zaytuna College, with Al-Azhar's current Grand Imam Ahmed el-Tayeb recently defining "Sunni orthodoxy" as being a follower "of any of the four schools of [legal] thought (Hanafi, Shafi’i, Maliki or Hanbali) and ... [also] of the Sufism of Imam Junayd of Baghdad in doctrines, manners and [spiritual] purification."[90]
 
-تراث_مصري_03.jpg, Cairo]] Current Sufi orders include Alians, Bektashi Order, Mevlevi Order, Ba 'Alawiyya, Chishti Order, Jerrahi, Naqshbandi, Mujaddidi, Ni'matullāhī, Qadiriyya, Qalandariyya, Sarwari Qadiriyya, Shadhiliyya, Suhrawardiyya, Saifiah (Naqshbandiah), and Uwaisi.[91] The relationship of Sufi orders to modern societies is usually defined by their relationship to governments.[92]
+, Cairo]] Current Sufi orders include Alians, Bektashi Order, Mevlevi Order, Ba 'Alawiyya, Chishti Order, Jerrahi, Naqshbandi, Mujaddidi, Ni'matullāhī, Qadiriyya, Qalandariyya, Sarwari Qadiriyya, Shadhiliyya, Suhrawardiyya, Saifiah (Naqshbandiah), and Uwaisi.[91] The relationship of Sufi orders to modern societies is usually defined by their relationship to governments.[92]
 
 Turkey and Persia together have been a center for many Sufi lineages and orders. The Bektashi were closely affiliated with the Ottoman Janissaries and are the heart of Turkey's large and mostly liberal Alevi population. They have spread westwards to Cyprus, Greece, Albania, Bulgaria, Republic of Macedonia, Bosnia and Herzegovina, Kosovo, and, more recently, to the United States, via Albania.
 
@@ -115,7 +111,7 @@ Currently active Sufi academics and publishers include Llewellyn Vaughan-Lee, Nu
 
 Aims and objectives
 
-Tome_of_Shah_Rukn-e-Alam.jpg located in Multan, Pakistan. Known for its multitude of Sufi shrines, Multan is nicknamed the “City of Saints”.]]
+located in Multan, Pakistan. Known for its multitude of Sufi shrines, Multan is nicknamed the “City of Saints”.]]
 
 While all Muslims believe that they are on the pathway to Allah and hope to become close to God in Paradise—after death and after the Last Judgment—Sufis also believe that it is possible to draw closer to God and to more fully embrace the divine presence in this life.[94] The chief aim of all Sufis is to seek the pleasing of God by working to restore within themselves the primordial state of _fitra_.[95]
 
@@ -123,7 +119,7 @@ To Sufis, the outer law consists of rules pertaining to worship, transactions, m
 
 Teachings
 
-Porte_mosquee_Sidi_Boumediene_Tlemcen.jpg in Tlemcen, Algeria, built to honor the 12th-century Sufi master Abu Madyan]]
+in Tlemcen, Algeria, built to honor the 12th-century Sufi master Abu Madyan]]
 
 To the Sufi, it is the transmission of divine light from the teacher's heart to the heart of the student, rather than worldly knowledge, that allows the adept to progress. They further believe that the teacher should attempt inerrantly to follow the Divine Law.[97]
 
@@ -131,7 +127,7 @@ According to Moojan Momen "one of the most important doctrines of Sufism is the 
 
 As a further example, the prospective adherent of the Mevlevi Order would have been ordered to serve in the kitchens of a hospice for the poor for 1001 days prior to being accepted for spiritual instruction, and a further 1,001 days in solitary retreat as a precondition of completing that instruction.[101]
 
-A_view_of_darbar_sharif.JPG, located in Hujra Shah Muqeem, Pakistan]]
+, located in Hujra Shah Muqeem, Pakistan]]
 
 Some teachers, especially when addressing more general audiences, or mixed groups of Muslims and non-Muslims, make extensive use of parable, allegory, and metaphor.[102] Although approaches to teaching vary among different Sufi orders, Sufism as a whole is primarily concerned with direct personal experience, and as such has sometimes been compared to other, non-Islamic forms of mysticism (e.g., as in the books of Hossein Nasr).
 
@@ -141,7 +137,7 @@ Muhammad
 
 Devotion to Muhammad is an exceptionally strong practice within Sufism.[105] Sufis have historically revered Muhammad as the prime personality of spiritual greatness. The Sufi poet Saadi Shirazi stated, "He who chooses a path contrary to that of the prophet, shall never reach the destination. O Saadi, do not think that one can treat that way of purity except in the wake of the chosen one."[106] Rumi attributes his self-control and abstinence from worldly desires as qualities attained by him through the guidance of Muhammad. Rumi states, "I 'sewed' my two eyes shut from [desires for] this world and the next – this I learned from Muhammad." Ibn Arabi regards Muhammad as the greatest man and states, "Muhammad's wisdom is uniqueness (_fardiya_) because he is the most perfect existent creature of this human species. For this reason, the command began with him and was sealed with him. He was a Prophet while Adam was between water and clay, and his elemental structure is the Seal of the Prophets."[107] Attar of Nishapur claimed that he praised Muhammad in such a manner that was not done before by any poet, in his book the _Ilahi-nama_.[108] Fariduddin Attar stated, "Muhammad is the exemplar to both worlds, the guide of the descendants of Adam. He is the sun of creation, the moon of the celestial spheres, the all-seeing eye...The seven heavens and the eight gardens of paradise were created for him, he is both the eye and the light in the light of our eyes."[109] Sufis have historically stressed the importance of Muhammad's perfection and his ability to intercede. The persona of Muhammad has historically been and remains an integral and critical aspect of Sufi belief and practice.[110] Bayazid Bastami is recorded to have been so devoted to the _sunnah_ of Muhammad that he refused to eat a watermelon because he could not establish that Muhammad ever ate one.[111]
 
-Calligraphic_representation_of_Muhammad's_name.jpg. Sufis believe the name of Muhammad is holy and sacred.]] In the 13th century, a Sufi poet from Egypt, Al-Busiri, wrote the _al-Kawākib ad-Durrīya fī Madḥ Khayr al-Barīya_ (The Celestial Lights in Praise of the Best of Creation) commonly referred to as _Qaṣīdat al-Burda_ ("Poem of the Mantle"), in which he extensively praised Muhammad.[112] This poem is still widely recited and sung amongst Sufi groups all over the world.[113]
+. Sufis believe the name of Muhammad is holy and sacred.]] In the 13th century, a Sufi poet from Egypt, Al-Busiri, wrote the _al-Kawākib ad-Durrīya fī Madḥ Khayr al-Barīya_ (The Celestial Lights in Praise of the Best of Creation) commonly referred to as _Qaṣīdat al-Burda_ ("Poem of the Mantle"), in which he extensively praised Muhammad.[112] This poem is still widely recited and sung amongst Sufi groups all over the world.[113]
 
 Sufi beliefs about Muhammad
 
@@ -151,7 +147,7 @@ Sufis maintain that Muhammad is _Al-Insān al-Kāmil_. Sufis believe that aid an
 
 Sufism and Islamic law
 
-Fatehpur_Sikri_near_Agra_2016-03_img03.jpg, Fatehpur Sikri, Agra, Uttar Pradesh, India]]
+, Fatehpur Sikri, Agra, Uttar Pradesh, India]]
 
 Sufis believe the _sharia_ (exoteric "canon"), _tariqa_ ("order") and _haqiqa_ ("truth") are mutually interdependent.[114] Sufism leads the adept, called _salik_ or "wayfarer", in his _sulûk_ or "road" through different stations (_maqaam_) until he reaches his goal, the perfect _tawhid_, the existential confession that God is One. Ibn Arabi says, "When we see someone in this Community who claims to be able to guide others to God, but is remiss in but one rule of the Sacred Law—even if he manifests miracles that stagger the mind—asserting that his shortcoming is a special dispensation for him, we do not even turn to look at him, for such a person is not a sheikh, nor is he speaking the truth, for no one is entrusted with the secrets of God Most High save one in whom the ordinances of the Sacred Law are preserved. (_Jamiʿ karamat al-awliyaʾ_)".[115]
 
@@ -159,20 +155,18 @@ The Amman Message, a detailed statement issued by 200 leading Islamic scholars i
 
 Traditional Islamic thought and Sufism
 
-Tomb_of_said-ul-Auliya_sayyid_Ali_hamadani.jpg, Tajikistan ]] The literature of Sufism emphasizes highly subjective matters that resist outside observation, such as the subtle states of the heart. Often these resist direct reference or description, with the consequence that the authors of various Sufi treatises took recourse to allegorical language. For instance, much Sufi poetry refers to intoxication, which Islam expressly forbids. This usage of indirect language and the existence of interpretations by people who had no training in Islam or Sufism led to doubts being cast over the validity of Sufism as a part of Islam. Also, some groups emerged that considered themselves above the _sharia_ and discussed Sufism as a method of bypassing the rules of Islam in order to attain salvation directly. This was disapproved of by traditional scholars.
+, Tajikistan ]] The literature of Sufism emphasizes highly subjective matters that resist outside observation, such as the subtle states of the heart. Often these resist direct reference or description, with the consequence that the authors of various Sufi treatises took recourse to allegorical language. For instance, much Sufi poetry refers to intoxication, which Islam expressly forbids. This usage of indirect language and the existence of interpretations by people who had no training in Islam or Sufism led to doubts being cast over the validity of Sufism as a part of Islam. Also, some groups emerged that considered themselves above the _sharia_ and discussed Sufism as a method of bypassing the rules of Islam in order to attain salvation directly. This was disapproved of by traditional scholars.
 
 For these and other reasons, the relationship between traditional Islamic scholars and Sufism is complex and a range of scholarly opinion on Sufism in Islam has been the norm. Some scholars, such as Al-Ghazali, helped its propagation while other scholars opposed it. William Chittick explains the position of Sufism and Sufis this way:
 
 _Neo-Sufism_
 
-5861-Linxia-Yu-Baba-Gongbei-main-building-roof.jpg'') of Ma Laichi in Linxia City, China]]
+'') of Ma Laichi in Linxia City, China]]
 
 The term "neo-Sufism" was originally coined by Fazlur Rahman and used by other scholars to describe reformist currents among 18th century Sufi orders, whose goal was to remove some of the more ecstatic and pantheistic elements of the Sufi tradition and reassert the importance of Islamic law as the basis for inner spirituality and social activism.[117][118] In recent times, it has been increasingly used by scholars like Mark Sedgwick in another sense, to describe various forms of Sufi-influenced spirituality in the West, in particular the deconfessionalized spiritual movements which emphasize universal elements of the Sufi tradition and de-emphasize its Islamic context.[119][120] Such groups include The Sufi Order in the West, founded by Inayat Khan, which teaches the essential unity of all faiths, and accepts members of all creeds. Sufism Reoriented is an offshoot of it charted by the syncretistic teacher Meher Baba. The Golden Sufi Center exists in England, Switzerland and the United States. It was founded by Llewellyn Vaughan-Lee to continue the work of his teacher Irina Tweedie, herself a practitioner of both Hinduism and neo-Sufism. Other Western Sufi organisations include the Sufi Foundation of America and the International Association of Sufism.
 
 
 Theoretical perspectives
-
-Munqidh_min_al-dalal_(last_page).jpg
 
 Traditional Islamic scholars have recognized two major branches within the practice of Sufism, and use this as one key to differentiating among the approaches of different masters and devotional lineages.[121]
 
@@ -195,7 +189,7 @@ Sufi cosmology and Sufi metaphysics are also noteworthy areas of intellectual ac
 
 Devotional practices of Sufis
 
-Dhikr_Rifa-iyya.jpg The devotional practices of Sufis vary widely. This is because an acknowledged and authorized master of the Sufi path is in effect a physician of the heart, able to diagnose the seeker's impediments to knowledge and pure intention in serving God, and to prescribe to the seeker a course of treatment appropriate to his or her maladies. The consensus among Sufi scholars is that the seeker cannot self-diagnose, and that it can be extremely harmful to undertake any of these practices alone and without formal authorization.[128]
+The devotional practices of Sufis vary widely. This is because an acknowledged and authorized master of the Sufi path is in effect a physician of the heart, able to diagnose the seeker's impediments to knowledge and pure intention in serving God, and to prescribe to the seeker a course of treatment appropriate to his or her maladies. The consensus among Sufi scholars is that the seeker cannot self-diagnose, and that it can be extremely harmful to undertake any of these practices alone and without formal authorization.[128]
 
 Prerequisites to practice include rigorous adherence to Islamic norms (ritual prayer in its five prescribed times each day, the fast of Ramadan, and so forth). Additionally, the seeker ought to be firmly grounded in supererogatory practices known from the life of Muhammad (such as the "sunna prayers"). This is in accordance with the words, attributed to God, of the following, a famous _Hadith Qudsi_:
 
@@ -209,7 +203,7 @@ Magic may have also been a part of some Sufi practices, notably in India.[132]
 
 Dhikr
 
-Isma_allah_zat-new.png _Dhikr_ is the remembrance of Allah commanded in the Qur'an for all Muslims through a specific devotional act, such as the repetition of divine names, supplications and aphorisms from _hadith_ literature and the Quran. More generally, _dhikr_ takes a wide range and various layers of meaning.[133] This includes _dhikr_ as any activity in which the Muslim maintains awareness of Allah. To engage in _dhikr_ is to practice consciousness of the Divine Presence and love, or "to seek a state of godwariness". The Quran refers to Muhammad as the very embodiment of _dhikr_ of Allah (65:10–11). Some types of _dhikr_ are prescribed for all Muslims and do not require Sufi initiation or the prescription of a Sufi master because they are deemed to be good for every seeker under every circumstance.[134]
+_Dhikr_ is the remembrance of Allah commanded in the Qur'an for all Muslims through a specific devotional act, such as the repetition of divine names, supplications and aphorisms from _hadith_ literature and the Quran. More generally, _dhikr_ takes a wide range and various layers of meaning.[133] This includes _dhikr_ as any activity in which the Muslim maintains awareness of Allah. To engage in _dhikr_ is to practice consciousness of the Divine Presence and love, or "to seek a state of godwariness". The Quran refers to Muhammad as the very embodiment of _dhikr_ of Allah (65:10–11). Some types of _dhikr_ are prescribed for all Muslims and do not require Sufi initiation or the prescription of a Sufi master because they are deemed to be good for every seeker under every circumstance.[134]
 
 The _dhikr_ may slightly vary among each order. Some Sufi orders[135] engage in ritualized _dhikr_ ceremonies, or _sema_. _Sema_ includes various forms of worship such as recitation, singing (the most well known being the Qawwali music of the Indian subcontinent), instrumental music, dance (most famously the Sufi whirling of the Mevlevi order), incense, meditation, ecstasy, and trance.[136]
 
@@ -225,7 +219,7 @@ While variation exists, one description of the practice within a Naqshbandi line
 
 Sufi whirling
 
-Whriling_dervishes,_Rumi_Fest_2007.jpg, at Rumi Fest 2007]] Sufi whirling (or _Sufi spinning_) is a form of Sama or physically active meditation which originated among Sufis, and which is still practised by the Sufi Dervishes of the Mevlevi order. It is a customary dance performed within the _sema_, through which dervishes (also called _semazens_, from Persian ) aim to reach the source of all perfection, or kemal. This is sought through abandoning one's nafs, egos or personal desires, by listening to the music, focusing on God, and spinning one's body in repetitive circles, which has been seen as a symbolic imitation of planets in the Solar System orbiting the sun.[140]
+, at Rumi Fest 2007]] Sufi whirling (or _Sufi spinning_) is a form of Sama or physically active meditation which originated among Sufis, and which is still practised by the Sufi Dervishes of the Mevlevi order. It is a customary dance performed within the _sema_, through which dervishes (also called _semazens_, from Persian ) aim to reach the source of all perfection, or kemal. This is sought through abandoning one's nafs, egos or personal desires, by listening to the music, focusing on God, and spinning one's body in repetitive circles, which has been seen as a symbolic imitation of planets in the Solar System orbiting the sun.[140]
 
 As explained by Sufis:[141]
 
@@ -238,7 +232,7 @@ _Qawwali_ is a form of Sufi devotional music popular in South Asia, usually perf
 
 Saints
 
-Ахмад_Газали,_беседующий_с_учеником.jpg depicting the medieval saint and mystic Ahmad Ghazali (d. 1123), brother of the famous Abu Hamid al-Ghazali (d. 1111), talking to a disciple, from the _Meetings of the Lovers_ (1552)]]
+depicting the medieval saint and mystic Ahmad Ghazali (d. 1123), brother of the famous Abu Hamid al-Ghazali (d. 1111), talking to a disciple, from the _Meetings of the Lovers_ (1552)]]
 
 _Walī_ (, plural ) is an Arabic word whose literal meanings include "custodian", "protector", "helper", and "friend."[143] In the vernacular, it is most commonly used by Muslims to indicate an Islamic saint, otherwise referred to by the more literal "friend of God."[144][145][146] In the traditional Islamic understanding of saints, the saint is portrayed as someone "marked by [special] divine favor ... [and] holiness", and who is specifically "chosen by God and endowed with exceptional gifts, such as the ability to work miracles."[147] The doctrine of saints was articulated by Islamic scholars very early on in Muslim history,[148][149][150][151] and particular verses of the Quran and certain _hadith_ were interpreted by early Muslim thinkers as "documentary evidence"[152] of the existence of saints.
 
@@ -246,7 +240,7 @@ Since the first Muslim hagiographies were written during the period when Sufism 
 
 Visitation
 
-Bidokht_8810_(19)-W.jpg In popular Sufism (i.e. devotional practices that have achieved currency in world cultures through Sufi influence), one common practice is to visit or make pilgrimages to the tombs of saints, renowned scholars, and righteous people. This is a particularly common practice in South Asia, where famous tombs include such saints as Sayyid Ali Hamadani in Kulob, Tajikistan; Afāq Khoja, near Kashgar, China; Lal Shahbaz Qalandar in Sindh; Ali Hujwari in Lahore, Pakistan; Bahauddin Zakariya in Multan Pakistan; Moinuddin Chishti in Ajmer, India; Nizamuddin Auliya in Delhi, India; and Shah Jalal in Sylhet, Bangladesh.
+In popular Sufism (i.e. devotional practices that have achieved currency in world cultures through Sufi influence), one common practice is to visit or make pilgrimages to the tombs of saints, renowned scholars, and righteous people. This is a particularly common practice in South Asia, where famous tombs include such saints as Sayyid Ali Hamadani in Kulob, Tajikistan; Afāq Khoja, near Kashgar, China; Lal Shahbaz Qalandar in Sindh; Ali Hujwari in Lahore, Pakistan; Bahauddin Zakariya in Multan Pakistan; Moinuddin Chishti in Ajmer, India; Nizamuddin Auliya in Delhi, India; and Shah Jalal in Sylhet, Bangladesh.
 
 Likewise, in Fez, Morocco, a popular destination for such pious visitation is the Zaouia Moulay Idriss II and the yearly visitation to see the current Sheikh of the Qadiri Boutchichi Tariqah, Sheikh Sidi Hamza al Qadiri al Boutchichi to celebrate the Mawlid (which is usually televised on Moroccan National television).
 
@@ -268,7 +262,7 @@ Prominent Sufis
 
 Abdul-Qadir Gilani
 
-Roof_hafez_tomb.jpg on the underside of the dome of Hafiz Shirazi's tomb in Shiraz]]
+on the underside of the dome of Hafiz Shirazi's tomb in Shiraz]]
 
 Abdul-Qadir Gilani (1077–1166) was a Persian Hanbali jurist and Sufi based in Baghdad. Qadiriyya was his patronym. Gilani spent his early life in Na'if, the town of his birth. There, he pursued the study of Hanbali law. Abu Saeed Mubarak Makhzoomi gave Gilani lessons in fiqh. He was given lessons about _hadith_ by Abu Bakr ibn Muzaffar. He was given lessons about Tafsir by Abu Muhammad Ja'far, a commentator. His Sufi spiritual instructor was Abu'l-Khair Hammad ibn Muslim al-Dabbas. After completing his education, Gilani left Baghdad. He spent twenty-five years as a reclusive wanderer in the desert regions of Iraq. In 1127, Gilani returned to Baghdad and began to preach to the public. He joined the teaching staff of the school belonging to his own teacher, Abu Saeed Mubarak Makhzoomi, and was popular with students. In the morning he taught _hadith_ and _tafsir_, and in the afternoon he held discourse on the science of the heart and the virtues of the Quran.
 
@@ -278,7 +272,7 @@ Abul Hasan ash-Shadhili (died 1258), the founder of the Shadhiliyya order, intro
 
 Ahmad al-Tijani
 
-Shams_al-Ma'arif.jpg, _Shams al-Ma'arif_ (The Book of the Sun of Gnosis), was written by the Algerian Sufi master Ahmad al-Buni during the 12th century.]] Ahmad al-Tijani ABU AL-ʿABBÂS AHMAD IBN MUHAMMAD AT-TIJÂNÎ or AHMED TIJANI (1735–1815), in Arabic سيدي أحمد التجاني (_Sidi Ahmed Tijani_), is the founder of the Tijaniyya Sufi order. He was born in a Berber family,[167][168][169] in Aïn Madhi, present-day Algeria and died in Fez, Morocco at the age of 80.
+, _Shams al-Ma'arif_ (The Book of the Sun of Gnosis), was written by the Algerian Sufi master Ahmad al-Buni during the 12th century.]] Ahmad al-Tijani ABU AL-ʿABBÂS AHMAD IBN MUHAMMAD AT-TIJÂNÎ or AHMED TIJANI (1735–1815), in Arabic سيدي أحمد التجاني (_Sidi Ahmed Tijani_), is the founder of the Tijaniyya Sufi order. He was born in a Berber family,[167][168][169] in Aïn Madhi, present-day Algeria and died in Fez, Morocco at the age of 80.
 
 Bayazid Bastami
 
@@ -302,13 +296,11 @@ Mansur Al-Hallaj (died 922) is renowned for his claim, _Ana-l-Haqq_ ("I am The T
 
 Moinuddin Chishti
 
-Sufi_Prayer_Book_LACMA_M.87.21.jpg
-
 Khwaja Moinuddin Chishti was born in 1141 and died in 1236. Also known as _Gharīb Nawāz_ ("Benefactor of the Poor"), he is the most famous Sufi saint of the Chishti Order. Moinuddin Chishti introduced and established the order in the Indian subcontinent. The initial spiritual chain or silsila of the Chishti order in India, comprising Moinuddin Chishti, Bakhtiyar Kaki, Baba Farid, Nizamuddin Auliya (each successive person being the disciple of the previous one), constitutes the great Sufi saints of Indian history. Moinuddin Chishtī turned towards India, reputedly after a dream in which Muhammad blessed him to do so. After a brief stay at Lahore, he reached Ajmer along with Sultan Shahāb-ud-Din Muhammad Ghori, and settled down there. In Ajmer, he attracted a substantial following, acquiring a great deal of respect amongst the residents of the city. Moinuddin Chishtī practiced the Sufi _Sulh-e-Kul_ (peace to all) concept to promote understanding between Muslims and non-Muslims.
 
 Rabi'a al-'Adawiyya
 
-Rabia_al-Adawiyya.jpg from a Persian dictionary]]
+from a Persian dictionary]]
 
 Rabi'a al-'Adawiyya or Rabia of Basra (died 801) was a mystic who represents countercultural elements of Sufism, especially with regards to the status and power of women. Prominent Sufi leader Hasan of Basra is said to have castigated himself before her superior merits and sincere virtues.[172] Rabi'a was born of very poor origin, but was captured by bandits at a later age and sold into slavery. She was however released by her master when he awoke one night to see the light of sanctity shining above her head.[173] Rabi'a al-Adawiyya is known for her teachings and emphasis on the centrality of the love of God to a holy life.[174] She is said to have proclaimed, running down the streets of Basra, Iraq:
 
@@ -322,7 +314,7 @@ A _Dargah_ (Persian: درگاه _dargâh_ or درگه _dargah_, also in Urdu) is
 
 Major Sufi orders
 
-Syariah-thariqah-hakikah2.jpg. The fourth station, _marifa_, which is considered "unseen", is actually _the center_ of the _haqiqa_ region. It is the essence of all four stations.]]
+. The fourth station, _marifa_, which is considered "unseen", is actually _the center_ of the _haqiqa_ region. It is the essence of all four stations.]]
 
 The term _Tariqa_ is used for a school or order of Sufism, or especially for the mystical teaching and spiritual practices of such an order with the aim of seeking ḥaqīqah (ultimate truth). A tariqa has a murshid (guide) who plays the role of leader or spiritual director. The members or followers of a tariqa are known as _murīdīn_ (singular _murīd_), meaning "desirous", viz. "desiring the knowledge of knowing God and loving God".[175]
 
@@ -384,7 +376,7 @@ Reception
 
 Perception outside Islam
 
-Sudan_sufis.jpg Sufi mysticism has long exercised a fascination upon the Western world, and especially its Orientalist scholars.[185] Figures like Rumi have become well known in the United States, where Sufism is perceived as a peaceful and apolitical form of Islam.[186][187] Orientalists have proposed a variety of diverse theories pertaining to the nature of Sufism, such as it being influenced by Neoplatonism or as an Aryan historical reaction against "Semitic" cultural influence.[188] Hossein Nasr states that the preceding theories are false according to the point of view of Sufism.[189] Nasreddin.jpg, a Seljuk satirical figure, currently in the Topkapı Palace Museum Library]] The Islamic Institute in Mannheim, Germany, which works towards the integration of Europe and Muslims, sees Sufism as particularly suited for interreligious dialogue and intercultural harmonisation in democratic and pluralist societies; it has described Sufism as a symbol of tolerance and humanism—nondogmatic, flexible and non-violent.[190] According to Philip Jenkins, a Professor at Baylor University, "the Sufis are much more than tactical allies for the West: they are, potentially, the greatest hope for pluralism and democracy within Muslim nations." Likewise, several governments and organisations have advocated the promotion of Sufism as a means of combating intolerant and violent strains of Islam.[191] For example, the Chinese and Russian[192] governments openly favor Sufism as the best means of protecting against Islamist subversion. The British government, especially following the 7 July 2005 London bombings, has favoured Sufi groups in its battle against Muslim extremist currents. The influential RAND Corporation, an American think-tank, issued a major report titled "Building Moderate Muslim Networks," which urged the US government to form links with and bolster[193] Muslim groups that opposed Islamist extremism. The report stressed the Sufi role as moderate traditionalists open to change, and thus as allies against violence.[194][195] News organisations such as the BBC, Economist and Boston Globe have also seen Sufism as a means to deal with violent Muslim extremists.[196]
+Sufi mysticism has long exercised a fascination upon the Western world, and especially its Orientalist scholars.[185] Figures like Rumi have become well known in the United States, where Sufism is perceived as a peaceful and apolitical form of Islam.[186][187] Orientalists have proposed a variety of diverse theories pertaining to the nature of Sufism, such as it being influenced by Neoplatonism or as an Aryan historical reaction against "Semitic" cultural influence.[188] Hossein Nasr states that the preceding theories are false according to the point of view of Sufism.[189] , a Seljuk satirical figure, currently in the Topkapı Palace Museum Library]] The Islamic Institute in Mannheim, Germany, which works towards the integration of Europe and Muslims, sees Sufism as particularly suited for interreligious dialogue and intercultural harmonisation in democratic and pluralist societies; it has described Sufism as a symbol of tolerance and humanism—nondogmatic, flexible and non-violent.[190] According to Philip Jenkins, a Professor at Baylor University, "the Sufis are much more than tactical allies for the West: they are, potentially, the greatest hope for pluralism and democracy within Muslim nations." Likewise, several governments and organisations have advocated the promotion of Sufism as a means of combating intolerant and violent strains of Islam.[191] For example, the Chinese and Russian[192] governments openly favor Sufism as the best means of protecting against Islamist subversion. The British government, especially following the 7 July 2005 London bombings, has favoured Sufi groups in its battle against Muslim extremist currents. The influential RAND Corporation, an American think-tank, issued a major report titled "Building Moderate Muslim Networks," which urged the US government to form links with and bolster[193] Muslim groups that opposed Islamist extremism. The report stressed the Sufi role as moderate traditionalists open to change, and thus as allies against violence.[194][195] News organisations such as the BBC, Economist and Boston Globe have also seen Sufism as a means to deal with violent Muslim extremists.[196]
 
 Idries Shah states that Sufism is universal in nature, its roots predating the rise of Islam and Christianity.[197] He quotes Suhrawardi as saying that "this [Sufism] was a form of wisdom known to and practiced by a succession of sages including the mysterious ancient Hermes of Egypt.", and that Ibn al-Farid "stresses that Sufism lies behind and before systematization; that 'our wine existed before what you call the grape and the vine' (the school and the system)..."[198] Shah's views have however been rejected by modern scholars.[199] Such modern trends of neo-Sufis in Western countries allow non-Muslims to receive "instructions on following the Sufi path", not without opposition by Muslims who consider such instruction outside the sphere of Islam.[200][201]
 

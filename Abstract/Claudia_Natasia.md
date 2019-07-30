@@ -1,1 +1,0 @@
-CLAUDIA NATASIA is an Indonesian author and philanthropist. At age 16, she published her first realistic fiction novel, _Just Like Butterflies_, which details the experience of an adopted girl suffering from post traumatic disorder. The book was published in 2010 and reprinted in 2014. It was one of the titles selected to represent Indonesia at the World Book Fair.

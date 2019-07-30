@@ -1,1 +1,0 @@
-Location_of_the_Delta_Field_and_Cross_Section_Across_the_Niger_Delta.pngNigerdeltapetroleumsys.gif The DELTA FIELD is located offshore from Nigeria on Oil Mining Leases (OML) 49 and 95.[1] This is located within the Niger Delta Basin and sits in 12 feet of water. In 1965, the Delta 1 well was completed and the Delta Field opened in 1968 for production.[2]

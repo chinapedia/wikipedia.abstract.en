@@ -1,1 +1,0 @@
-The 1991–92 WILLS TROPHY was a triangular one-day international cricket tournament held at Sharjah between 17 October and 25 October 1991. It involved the national cricket teams of Pakistan, West Indies and India. Pakistan won the tournament after beating India in the final on 25 October.[1][2]

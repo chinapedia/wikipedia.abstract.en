@@ -1,1 +1,0 @@
-WILLIAM GRANT GUILFORD, known as GRANT GUILFORD, is a New Zealand-American academic and administrator, specialising in veterinary nutrition. Guilford is currently the Vice-Chancellor at Victoria University of Wellington. His primary residence is in Auckland. He is currently the Vice-Chancellor of the Wellington University of Wellington.

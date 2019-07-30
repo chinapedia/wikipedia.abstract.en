@@ -1,1 +1,0 @@
-_CONYZA PANNOSA_ is a species of flowering plants of the Asteraceae family. The species is endemic to Cape Verde.[1] It is listed as an endangered plant by the IUCN.[2] The plant was named by Philip Barker Webb in 1849. Its local name is _taba_.[3]

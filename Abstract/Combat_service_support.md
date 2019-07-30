@@ -1,1 +1,0 @@
-The term COMBAT SERVICE SUPPORT (or CSS) is utilized by numerous military organizations throughout the world to describe entities that provide direct and indirect sustainment services to the groups that engage (or are potentially to be engaged) in combat.

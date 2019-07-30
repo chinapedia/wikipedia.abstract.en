@@ -13,13 +13,13 @@ San Marino is one of the only three countries in the world to be completely surr
 
 History
 
-Marino_als_steinhauer.png, the founder of the Republic of San Marino, and prominent cultural figure]] Saint Marinus left the island of Rab in present-day Croatia with his lifelong friend Leo, and went to the city of Rimini as a stonemason. After the Diocletianic Persecution following his Christian sermons, he escaped to the nearby Monte Titano, where he built a small church and thus founded what is now the city and state of San Marino, which is sometimes still called the "Titanic Republic".[10]
+, the founder of the Republic of San Marino, and prominent cultural figure]] Saint Marinus left the island of Rab in present-day Croatia with his lifelong friend Leo, and went to the city of Rimini as a stonemason. After the Diocletianic Persecution following his Christian sermons, he escaped to the nearby Monte Titano, where he built a small church and thus founded what is now the city and state of San Marino, which is sometimes still called the "Titanic Republic".[10]
 
 The official date of the founding of what is now known as the Republic is 3 September 301. In 1320 the community of Chiesanuova chose to join the country.[11] In 1463 San Marino was extended with the communities of Faetano, Fiorentino, Montegiardino, and Serravalle, after which the country's border have remained unchanged.[12] In 1631, its independence was recognized by the Papacy.
 
 The advance of Napoleon's army in 1797 presented a brief threat to the independence of San Marino, but the country was saved from losing its liberty thanks to one of its Regents, Antonio Onofri, who managed to gain the respect and friendship of Napoleon. Thanks to his intervention, Napoleon, in a letter delivered to Gaspard Monge, scientist and commissary of the French Government for Science and Art, promised to guarantee and protect the independence of the Republic, even offering to extend its territory according to its needs. The offer was declined by the Regents, fearing future retaliation from other states' revanchism.[13][14]
 
-San_Marino_constitution_1600.jpg During the later phase of the Italian unification process in the 19th century, San Marino served as a refuge for many people persecuted because of their support for unification. In recognition of this support, Giuseppe Garibaldi accepted the wish of San Marino not to be incorporated into the new Italian state.
+During the later phase of the Italian unification process in the 19th century, San Marino served as a refuge for many people persecuted because of their support for unification. In recognition of this support, Giuseppe Garibaldi accepted the wish of San Marino not to be incorporated into the new Italian state.
 
 The government of San Marino made United States President Abraham Lincoln an honorary citizen. He wrote in reply, saying that the republic proved that "government founded on republican principles is capable of being so administered as to be secure and enduring."[15][16]
 
@@ -27,7 +27,7 @@ During World War I, when Italy declared war on Austria-Hungary on 23 May 1915, S
 
 Following the conclusion of World War I, San Marino suffered from high rates of unemployment and inflation, leading to increased tensions between the lower and middle classes. The latter, fearing that the moderate government of San Marino would make concessions to the lower class majority, began to show support for the Sammarinese Fascist Party (_Partito Fascista Sammarinese_), founded in 1922 and styled largely off their Italian counterpart. PFS rule lasted from 1923 to 1943, and, during this time, they often sought support from Benito Mussolini's fascist government in Italy.[18]
 
-Guerra1.JPG during the battle of San Marino, September 1944]] During World War II, San Marino remained neutral, although it was wrongly reported in an article from _The New York Times_ that it had declared war on the United Kingdom on 17 September 1940.[19] The Sammarinese government later transmitted a message to the British government stating that they had not declared war on the United Kingdom.[20]
+during the battle of San Marino, September 1944]] During World War II, San Marino remained neutral, although it was wrongly reported in an article from _The New York Times_ that it had declared war on the United Kingdom on 17 September 1940.[19] The Sammarinese government later transmitted a message to the British government stating that they had not declared war on the United Kingdom.[20]
 
 Three days after the fall of Benito Mussolini in Italy, PFS rule collapsed and the new government declared neutrality in the conflict. The Fascists regained power on 1 April 1944 but kept neutrality intact. Despite that, on 26 June 1944, San Marino was bombed by the Royal Air Force, in the belief that San Marino had been overrun by German forces and was being used to amass stores and ammunition. The Sammarinese government declared on the same day that no military installations or equipment were located on its territory, and that no belligerent forces had been allowed to enter.[21] San Marino accepted thousands of civilian refugees when Allied forces went over the Gothic Line.[22] In September 1944, it was briefly occupied by German forces, who were defeated by Allied forces in the Battle of San Marino.
 
@@ -40,7 +40,7 @@ San Marino became a member of the Council of Europe in 1988 and of the United Na
 
 Geography
 
-Fortress_of_Guaita_2013-09-19.jpg'' on Mount Titano]] San_Marino_CIA_map.gif San Marino is an enclave (landlocked) surrounded by Italy in Southern Europe, on the border between the _regioni_ of Emilia Romagna and Marche and about from the Adriatic coast at Rimini. Its hilly topography, with no flat ground, is part of the Apennine mountain range. The highest point in the country, the summit of Monte Titano, is above sea level. There are no bodies of water of any significant size.
+'' on Mount Titano]] San Marino is an enclave (landlocked) surrounded by Italy in Southern Europe, on the border between the _regioni_ of Emilia Romagna and Marche and about from the Adriatic coast at Rimini. Its hilly topography, with no flat ground, is part of the Apennine mountain range. The highest point in the country, the summit of Monte Titano, is above sea level. There are no bodies of water of any significant size.
 
 Climate
 
@@ -49,7 +49,7 @@ The climate is Mediterranean with continental influences, having warm summers an
 
 Government
 
-Parliament_San_Marino.jpg, seat of the government of San Marino]] Captains_Regent_Tomassoni,_Rossi,_Mancini_and_Selva.jpg, Alessandro Rossi, Alessandro Mancini, and Alberto Selva]] San Marino has the political framework of a parliamentary representative democratic republic: the Captains Regent are both heads of state and heads of government, and there is a pluriform multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the Grand and General Council. The judiciary is independent of the executive and the legislature.
+, seat of the government of San Marino]] , Alessandro Rossi, Alessandro Mancini, and Alberto Selva]] San Marino has the political framework of a parliamentary representative democratic republic: the Captains Regent are both heads of state and heads of government, and there is a pluriform multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the Grand and General Council. The judiciary is independent of the executive and the legislature.
 
 San Marino was originally led by the Arengo, initially formed from the heads of each family. In the 13th century, power was given to the Grand and General Council. In 1243, the first two Captains Regent were nominated by the Council. , this method of nomination is still in use.
 
@@ -71,7 +71,7 @@ Administrative divisions
 
 Municipalities
 
-San_Marino.pngs of San Marino]] San Marino is divided into the following nine municipalities, known locally as __ (meaning "castles"):
+s of San Marino]] San Marino is divided into the following nine municipalities, known locally as __ (meaning "castles"):
 
 -   San Marino (City of San Marino, officially __) is the capital.
 
@@ -105,7 +105,7 @@ Once at the heart of San Marino's army, the Crossbow Corps is now a ceremonial f
 
 Guard of the Rock
 
-Guardia_di_Rocca_al_Palazzo_Pubblico_San_Marino.jpg]] The Guard of the Rock is a front-line military unit in the San Marino armed forces, a state border patrol, with responsibility for patrolling borders and defending them. In their role as Fortress Guards they are responsible for guarding the Palazzo Pubblico in San Marino City, the seat of national government.
+]] The Guard of the Rock is a front-line military unit in the San Marino armed forces, a state border patrol, with responsibility for patrolling borders and defending them. In their role as Fortress Guards they are responsible for guarding the Palazzo Pubblico in San Marino City, the seat of national government.
 
 In this role they are the forces most visible to tourists, and are known for their colourful ceremony of Changing the Guard. Under the 1987 statute the Guard of the Rock are all enrolled as "Criminal Police Officers" (in addition to their military role) and assist the police in investigating major crime. The uniform of the Guard of the Rock is a distinctive red and green.
 
@@ -131,8 +131,6 @@ The entire military corps of San Marino depends upon the co-operation of full-ti
 
 
 Economy
-
-Via_Basilicus_din_San_Marino2.jpg
 
 Although San Marino is not a European Union member, it is allowed to use the euro as its currency by arrangement with the Council of the European Union; it is also granted the right to use its own designs on the national side of the euro coins. Before the euro, the Sammarinese lira was pegged to, and exchangeable with, the Italian lira. The small number of Sammarinese euro coins, as was the case with the lira before it, are primarily of interest to coin collectors.
 
@@ -189,7 +187,7 @@ Notable people
 
 Religion
 
-San_Marino_katedra.jpg]] San Marino is a predominantly Catholic state[33]—over 97% of the population profess the Roman Catholic faith, but Catholicism is not an established religion. Approximately half of those who profess to be Catholic practice the faith.[34] There is no episcopal see in San Marino, although its name is part of the present diocesan title. Historically, the various parishes in San Marino were divided between two Italian dioceses, mostly in the Diocese of Montefeltro, and partly in the Diocese of Rimini. In 1977, the border between Montefeltro and Rimini was readjusted so that all of San Marino fell within the diocese of Montefeltro. The bishop of Montefeltro-San Marino resides in Pennabilli, in Italy's province of Pesaro e Urbino.
+]] San Marino is a predominantly Catholic state[33]—over 97% of the population profess the Roman Catholic faith, but Catholicism is not an established religion. Approximately half of those who profess to be Catholic practice the faith.[34] There is no episcopal see in San Marino, although its name is part of the present diocesan title. Historically, the various parishes in San Marino were divided between two Italian dioceses, mostly in the Diocese of Montefeltro, and partly in the Diocese of Rimini. In 1977, the border between Montefeltro and Rimini was readjusted so that all of San Marino fell within the diocese of Montefeltro. The bishop of Montefeltro-San Marino resides in Pennabilli, in Italy's province of Pesaro e Urbino.
 
 However, there is a provision under the income tax rules that the taxpayers have the right to request for allocation of 0.3% of their income tax to the Catholic Church or to "other" charities. The churches include the two religious groups of the Waldensian Church and Jehovah's Witnesses.
 
@@ -226,7 +224,7 @@ San Marino has limited public transport facilities. There is a regular bus servi
 
 A limited licensed taxi service operates nationwide. There are seven licensed taxi companies operating in the republic,[41] and Italian taxis regularly operate within San Marino when carrying passengers picked up in Italian territory.
 
-San-Marino-Gondola-1283.jpg]] There is a aerial tramway connecting the City of San Marino on top of Monte Titano with Borgo Maggiore, a major town in the republic, with the second largest population of any Sammarinese settlement. From here a further connection is available to the nation's largest settlement, Dogana, via the local bus service.
+]] There is a aerial tramway connecting the City of San Marino on top of Monte Titano with Borgo Maggiore, a major town in the republic, with the second largest population of any Sammarinese settlement. From here a further connection is available to the nation's largest settlement, Dogana, via the local bus service.
 
 Two aerial tramway cars (gondolas) operate, with service provided at roughly 15-minute intervals throughout the day. A third vehicle is available on the system, a service car for the use of engineers maintaining the tramway.
 
@@ -237,7 +235,7 @@ Today, there is no railway in San Marino, but for a short period before World Wa
 
 Culture
 
-Pompeo_batoni_san_marino_risolleva_la_repubblica_by_stefano_bolognini.JPG]] The Three Towers of San Marino are located on the three peaks of Monte Titano in the capital. They are depicted on both the Flag of San Marino and its coat of arms. The three towers are: _Guaita_, the oldest of the three (it was constructed in the 11th century); the 13th-century _Cesta_, located on the highest of Monte Titano's summits; and the 14th-century _Montale_, on the smallest of Monte Titano's summits, still privately owned.
+]] The Three Towers of San Marino are located on the three peaks of Monte Titano in the capital. They are depicted on both the Flag of San Marino and its coat of arms. The three towers are: _Guaita_, the oldest of the three (it was constructed in the 11th century); the 13th-century _Cesta_, located on the highest of Monte Titano's summits; and the 14th-century _Montale_, on the smallest of Monte Titano's summits, still privately owned.
 
 University
 
@@ -251,7 +249,7 @@ In San Marino football is the most popular sport. Basketball and volleyball are 
 
 Despite being the most popular sport, the San Marino national football team has had little success, being made up of part-timers, never qualifying for a major tournament, and recording only one win in over 25 years of its history, a 1–0 victory in 2004 against Liechtenstein.[47] They have drawn four more, with their most notable result being a 1993 0–0 draw with Turkey during the European qualifiers for the 1994 FIFA World Cup.[48] Despite being among the worst teams in the world, they used to hold the record for the fastest goal scored in international football (since broken by Christian Benteke), with David Gualtieri scoring 8.3 seconds after the start of a match against the England national football team in 1993, which they went on to lose 7–1, in the final round of the same World Cup qualifiers.[49]
 
-GP_Imola2005_SchumiAlonso.jpg held in Imola, Italy]]
+held in Imola, Italy]]
 
 A Formula One race, the San Marino Grand Prix, was named after the state, although it did not take place there. Instead, it was held at the Autodromo Enzo e Dino Ferrari in the Italian town of Imola, about northwest of San Marino. This international event was removed from the calendar in 2007.
 
@@ -265,7 +263,7 @@ San Marino has had little success at the Olympic Games, winning no medals.
 
 Cuisine
 
-Piadina.jpg'', a dish characteristic of the Italian region of Romagna and of its enclave of San Marino]] The cuisine of San Marino is extremely similar to Italian, especially that of the adjoining Emilia-Romagna and Marche regions, but it has a number of its own unique dishes and products. Its best known is probably the _Torta Tre Monti_ ("Cake of the Three Mountains" or "Cake of the Three Towers"), a wafer layered cake covered in chocolate depicting the Three Towers of San Marino. The country also has a small wine industry.
+'', a dish characteristic of the Italian region of Romagna and of its enclave of San Marino]] The cuisine of San Marino is extremely similar to Italian, especially that of the adjoining Emilia-Romagna and Marche regions, but it has a number of its own unique dishes and products. Its best known is probably the _Torta Tre Monti_ ("Cake of the Three Mountains" or "Cake of the Three Towers"), a wafer layered cake covered in chocolate depicting the Three Towers of San Marino. The country also has a small wine industry.
 
 UNESCO
 

@@ -1,1 +1,0 @@
-UTC | timezone1_DST = WEST | utc_offset1_DST = +1 | postal_code_type = Postal zone | postal_code = 1149-014 Lisboa | area_code_type = | area_code = (+351) 21 XXX-XXXX | geocode = | iso_code = | blank_name = | blank_info = | blank1_name = Patron saint | blank1_info = Vincent of Saragossa and Anthony of Lisbon | blank2_name = Municipal address | blank2_info = Praça do Município, 1

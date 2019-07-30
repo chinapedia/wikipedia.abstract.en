@@ -1,1 +1,0 @@
-JOHN KEATS (; 31 October 1795 – 23 February 1821) was an English Romantic poet. He was one of the main figures of the second generation of Romantic poets, along with Lord Byron and Percy Bysshe Shelley, despite his works having been in publication for only four years before his death from tuberculosis at the age of 25.[1]

@@ -1,1 +1,0 @@
-DOCKER, INC is the company behind development of Docker (software), an open-source project that automates the deployment of code inside software containers. Docker, Inc had over 423 employees in 2015 and is based in San Francisco, California.[1]

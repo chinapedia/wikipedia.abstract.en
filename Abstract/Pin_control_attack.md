@@ -1,1 +1,0 @@
-PIN CONTROL ATTACK is a class of attack against a system on a chip (SoC) in an embedded system where attacker targets I/O configuration of the embedded systems and disables software or operating system I/O functions without detection. The attack is facilitated by a lack of hardware protection for _pin configuration_ and _pin multiplexing_ configurations.

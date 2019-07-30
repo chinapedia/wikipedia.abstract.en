@@ -1,1 +1,0 @@
-BERNARD ALLAN "BERNIE" FEDERKO (born May 12, 1956) is a Canadian retired professional ice hockey centre of Ukrainian ancestry who played fourteen seasons in the National Hockey League from 1976 through 1990.

@@ -1,1 +1,0 @@
-NATALIYA (or NATALIA) KUZNETSOVA (née TRUKHINA) (born July 1, 1991) is a Russian professional bodybuilder who holds the world armlifting, bench press, and deadlift titles, as well as the European bench press and deadlift titles. She is the heaviest known female professional bodybuilder.[1][2][3][4][5][6]

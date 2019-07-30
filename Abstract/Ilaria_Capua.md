@@ -1,1 +1,0 @@
-ILARIA CAPUA (Rome, April 21, 1966) is a virologist and former Italian politician, best known for her research on influenza viruses, particularly avian influenza, and her efforts promoting open access to genetic information on emerging viruses as part of pre-pandemic preparedness efforts.

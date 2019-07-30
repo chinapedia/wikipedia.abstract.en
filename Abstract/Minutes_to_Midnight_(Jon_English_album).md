@@ -1,1 +1,0 @@
-_MINUTES TO MIDNIGHT_ is the fourth studio album by Australian musician, Jon English. The album was released in Australia March 1977. Three singles were released from the album, including "Lay it All Down" which peaked at number 46 on the Kent Music chart.

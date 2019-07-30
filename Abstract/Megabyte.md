@@ -1,1 +1,0 @@
-The MEGABYTE is a multiple of the unit byte for digital information. Its recommended unit symbol is MB. The unit prefix _mega_ is a multiplier of (10⁶) in the International System of Units (SI).[1] Therefore, one megabyte is one million bytes of information. This definition has been incorporated into the International System of Quantities.

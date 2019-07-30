@@ -181,8 +181,6 @@ If two cards are drawn _with_ replacement from a deck of cards, the event of dra
 
 Pairwise and mutual independence
 
-Pairwise_independent.svg Mutually_independent.svg
-
 Consider the two probability spaces shown. In both cases, P(A) = P(B) = 1/2 and P(C) = 1/4. The random variables in the first space are pairwise independent because P(A|B) = P(A|C) = 1/2 = P(A), P(B|A) = P(B|C) = 1/2 = P(B), and P(C|A) = P(C|B) = 1/4 = P(C); but the three random variables are not mutually independent. The random variables in the second space are both pairwise independent and mutually independent. To illustrate the difference, consider conditioning on two events. In the pairwise independent case, although any one event is independent of each of the other two individually, it is not independent of the intersection of the other two:
 
 $$\mathrm{P}(A|BC) = \frac{\frac{4}{40}}{\frac{4}{40} + \frac{1}{40}} = \tfrac{4}{5} \ne \mathrm{P}(A)$$

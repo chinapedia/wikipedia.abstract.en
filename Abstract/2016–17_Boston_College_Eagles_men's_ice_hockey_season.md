@@ -1,1 +1,0 @@
-The 2016–17 BOSTON COLLEGE EAGLES MEN'S ICE HOCKEY TEAM represented Boston College in the 2016–17 NCAA Division I men's ice hockey season. The team was coached by Jerry York, '67, his twenty-third season behind the bench at Boston College. The Eagles played their home games at Kelley Rink on the campus of Boston College, competing in Hockey East.

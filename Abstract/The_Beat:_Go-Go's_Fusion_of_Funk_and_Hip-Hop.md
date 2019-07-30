@@ -1,1 +1,0 @@
-_THE BEAT: GO-GO'S FUSION OF FUNK AND HIP-HOP_ is a 2001 book written by Kip Lornell and Charles C. Stephenson, Jr.[1][2] In 2009, an updated second edition of the book was published and retitled _THE BEAT! GO-GO MUSIC FROM WASHINGTON, D.C._

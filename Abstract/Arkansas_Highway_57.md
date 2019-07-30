@@ -1,1 +1,0 @@
-HIGHWAY 57 (AR 57, ARK. 57, and HWY. 57) is a north–south state highway in Southwest Arkansas. The route of begins at US Highway 82 (US 82) at Marysville and runs north to Highway 24 in Chidester. The route is maintained by the Arkansas State Highway and Transportation Department (AHTD).

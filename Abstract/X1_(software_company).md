@@ -1,1 +1,0 @@
-X1, previously known as X1 Technologies, Inc., is a privately held software company, based in Pasadena, California, United States, that develops and markets products for people and organizations that need to find information quickly. It is an operating company of Idealab, and is backed by U.S. Venture Partners.

@@ -1,1 +1,0 @@
-Barbara_Maminska_fot._RD.jpg Barbara_Mamińska.JPG]] BARBARA MAMIŃSKA (10 November 1957 – 10 April 2010) was a Polish government official. She was director of the Personnel and Decorations Office at the Chancellery of the President of the Republic of Poland.

@@ -1,1 +1,0 @@
-The 2017 TOUR DOWN UNDER was a road cycling stage race that took place between 17 and 22 January 2017 in and around Adelaide, South Australia. It was the 19th edition of the Tour Down Under and was the first event of the 2017 UCI World Tour.[1][2]

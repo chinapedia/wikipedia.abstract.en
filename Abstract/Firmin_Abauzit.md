@@ -1,1 +1,0 @@
-FIRMIN ABAUZIT (November 11, 1679March 20, 1767) was a French scholar who worked on physics, theology and philosophy, and served as librarian in Geneva (Republic of Geneva) during his final 40 years. Abauzit is also notable for proofreading or correcting the writings of Isaac Newton and other scholars.

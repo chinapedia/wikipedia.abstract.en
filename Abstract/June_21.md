@@ -1,1 +1,0 @@
-This day usually marks the summer solstice in the Northern Hemisphere and the winter solstice in the Southern Hemisphere, which is the day of the year with the most hours of daylight in the Northern Hemisphere and the fewest hours of daylight in the Southern Hemisphere.

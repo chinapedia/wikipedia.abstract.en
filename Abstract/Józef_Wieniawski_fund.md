@@ -1,1 +1,0 @@
-The JÓZEF WIENIAWSKI COLLECTION is a donation made to the Royal Conservatory of Brussels by his oldest daughter, Elisabeth Wieniawska (1892-1978), of a collection of autograph scores from the composer.

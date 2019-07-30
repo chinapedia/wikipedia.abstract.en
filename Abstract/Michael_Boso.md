@@ -1,1 +1,0 @@
-MICHAEL BOSO (born 3 September 1991) is a Solomon Islands footballer who plays as a defender for Suva F.C. in Fiji. He made his debut for the national team on October 5, 2016, in a 3-0 loss against New Caledonia.

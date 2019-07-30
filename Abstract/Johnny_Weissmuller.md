@@ -1,1 +1,0 @@
-JOHNNY WEISSMULLER (2 June 1904 – 20 January 1984) was an Austro-Hungarian-born American competition swimmer and actor, also known for playing Edgar Rice Burroughs' ape man Tarzan in films of the 1930s and 1940s and for having one of the best competitive swimming records of the 20th century.

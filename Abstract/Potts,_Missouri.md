@@ -1,1 +1,0 @@
-POTTS is an unincorporated community in Osage County, in the U.S. state of Missouri.[1] Potts is located on U.S. Route 50 between Linn to the west and Mount Sterling to the east, in Gasconade County.[2]

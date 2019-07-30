@@ -1,10 +1,10 @@
-Möbius_strip.jpgs, which have only one surface and one edge, are a kind of object studied in topology.]]
+s, which have only one surface and one edge, are a kind of object studied in topology.]]
 
 In mathematics, TOPOLOGY (from the Greek τόπος, _place_, and λόγος, _study_) is concerned with the properties of a geometric object that are preserved under continuous deformations, such as stretching, twisting, crumpling and bending, but not tearing or gluing.
 
 A topological space is a set endowed with a structure, called a _topology_, which allows defining continuous deformation of subspaces, and, more generally, all kinds of continuity. Euclidean spaces, and, more generally, metric spaces are examples of topological spaces, as any distance or metric defines a topology. The deformations that are considered in topology are homeomorphisms and homotopies. A property that is invariant under such deformations is a topological property. Basic examples of topological properties are: the dimension, which allows distinguishing between a line and a surface; compactness, which allows distinguishing between a line and a circle; connectedness, which allows distinguishing a circle from two non-intersecting circles.
 
-The ideas underlying topology go back to Gottfried Leibniz, who in the 17th century envisioned the _geometria situs_ and _analysis situs_. Leonhard Euler's Seven Bridges of Königsberg problem and polyhedron formula are arguably the field's first theorems. The term _topology_ was introduced by Johann Benedict Listing in the 19th century, although it was not until the first decades of the 20th century that the idea of a topological space was developed. Trefoil_knot_arb.png, the simplest non-trivial knot]]
+The ideas underlying topology go back to Gottfried Leibniz, who in the 17th century envisioned the _geometria situs_ and _analysis situs_. Leonhard Euler's Seven Bridges of Königsberg problem and polyhedron formula are arguably the field's first theorems. The term _topology_ was introduced by Johann Benedict Listing in the 19th century, although it was not until the first decades of the 20th century that the idea of a topological space was developed. , the simplest non-trivial knot]]
 
 
 Motivation
@@ -21,9 +21,9 @@ Intuitively, two spaces are homeomorphic if one can be deformed into the other w
 
 Homeomorphism can be considered the most basic topological equivalence. Another is homotopy equivalence. This is harder to describe without getting technical, but the essential notion is that two objects are homotopy equivalent if they both result from "squishing" some larger object.
 
-  Homeomorphism        Homotopy equivalence
-  -------------------- -----------------------
-  alphabet_homeo.png   alphabet_homotopy.png
+  Homeomorphism   Homotopy equivalence
+  --------------- ----------------------
+
 
   : Equivalence classes of the English (i.e., Latin) alphabet (sans-serif)
 
@@ -53,7 +53,7 @@ Letter topology has practical relevance in stencil typography. For instance, Bra
 
 History
 
-Konigsberg_bridges.png was a problem solved by Euler.]]
+was a problem solved by Euler.]]
 
 Topology, as a well-defined mathematical discipline, originates in the early part of the twentieth century, but some isolated results can be traced back several centuries.[2] Among these are certain questions in geometry investigated by Leonhard Euler. His 1736 paper on the Seven Bridges of Königsberg is regarded as one of the first practical applications of topology.[3] On 14 November 1750, Euler wrote to a friend that he had realised the importance of the _edges_ of a polyhedron. This led to his polyhedron formula, (where , , and respectively indicate the number of vertices, edges, and faces of the polyhedron). Some authorities regard this analysis as the first theorem, signalling the birth of topology.[4][5]
 

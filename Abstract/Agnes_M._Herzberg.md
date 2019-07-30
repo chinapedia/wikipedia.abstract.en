@@ -1,1 +1,0 @@
-AGNES MARGARET HERZBERG is a Canadian statistician who works as a professor of mathematics and statistics at Queen's University.[1] She was president of the Statistical Society of Canada for 1991–1992,[2] its first female president.[3]

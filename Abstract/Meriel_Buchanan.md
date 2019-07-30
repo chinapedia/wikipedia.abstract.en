@@ -1,1 +1,0 @@
-''' Meriel Buchanan ''' (5 September 1886 - 6 Feb 1959) was British memorialist. The daughter of the last British Ambassador to Imperial Russia, she wrote a number of articles and books about her experiences during that time, most notably: _Recollections of imperial Russia_ ( 1923) and _Ambassador's daughter_ (1958).

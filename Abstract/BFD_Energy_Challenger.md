@@ -1,1 +1,0 @@
-The BFD ENERGY CHALLENGER is a professional tennis tournament played on clay courts. It is currently part of the Association of Tennis Professionals (ATP) Challenger Tour. It is held annually in Rome, Italy since 2015.

@@ -1,1 +1,0 @@
-American singer and songwriter Kehlani has released three mixtapes and twenty-four singles (including six singles as a featured artist). Her debut album _SweetSexySavage_ was released on January 27, 2017.

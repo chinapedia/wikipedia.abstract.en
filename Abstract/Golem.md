@@ -1,1 +1,0 @@
-Prague-golem-reproduction.jpg

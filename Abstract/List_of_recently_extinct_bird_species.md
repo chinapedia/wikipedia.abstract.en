@@ -1,1 +1,0 @@
-    _This page refers only to birds that have gone extinct since 1500; for the list of birds known only from fossils, see List of fossil bird genera. For birds extinct in Late Quaternary prehistoric times and usually known from specimens not completely fossilized, see List of Late Quaternary prehistoric bird species._

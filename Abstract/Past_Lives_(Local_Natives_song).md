@@ -1,1 +1,0 @@
-"PAST LIVES" is a song by American indie rock band Local Natives. It is the second track and first single from their third studio album, _Sunlit Youth_, and was released commercially as a digital single on 6 May 2016 on Loma Vista Recordings.[1]

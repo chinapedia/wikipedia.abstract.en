@@ -1,1 +1,0 @@
-The are a professional basketball team that competes in the first division of the Japanese B.League.[1] Prior to their entry into the B.League in September 2016, the club was the corporate team of Mitsubishi Electric.

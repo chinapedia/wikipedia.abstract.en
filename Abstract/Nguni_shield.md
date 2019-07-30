@@ -1,1 +1,0 @@
-Annals_of_the_South_African_Museum_=_Annale_van_die_Suid-Afrikaanse_Museum_(1972)_(17794609233).jpg

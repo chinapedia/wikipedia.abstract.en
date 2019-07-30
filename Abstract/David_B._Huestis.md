@@ -1,1 +1,0 @@
-DAVID B. HUESTIS of Canada served as a member of the Board of the World Scout Foundation. In 2011, Huestis was awarded the 330th _Bronze Wolf_, the only distinction of the World Organization of the Scout Movement, awarded by the World Scout Committee for exceptional services to world Scouting.[1][2]

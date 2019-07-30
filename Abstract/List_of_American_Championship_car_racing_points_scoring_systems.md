@@ -1,1 +1,0 @@
-This is a LIST OF POINTS SCORING SYSTEMS used to determine the outcome of the ACCR Championships since 1909. The Championships are awarded each year to the driver who accumulate the most championship points over the course of the Championship season.

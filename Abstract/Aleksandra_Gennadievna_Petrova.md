@@ -1,1 +1,0 @@
-Alexandra_Petrova.jpg

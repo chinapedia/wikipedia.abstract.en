@@ -1,1 +1,0 @@
-The following is a TIMELINE OF THE HISTORY OF THE TOWN OF ALEKSANDRÓW ŁÓDZKI, Poland.[1]

@@ -7,7 +7,7 @@ As Sutton was teaching DanceWriting to the Royal Danish Ballet, Lars von der Lie
 
 Although not the first writing system for sign languages (see Stokoe notation), SignWriting is the first to adequately represent facial expressions and shifts in posture, and to accommodate representation of series of signs longer than compound words and short phrases. It is the only system in regular use, used for example to publish college newsletters in American Sign Language, and has been used for captioning of YouTube videos. Sutton notes that SignWriting has been used or investigated in over 40 countries on every inhabited continent.[1] However, it is not clear how widespread its use is in each country.
 
-Escola_Estadual_de_Educação_Especial_Dr._Reinaldo_Fernando_Cóser_02.jpg In Brazil, during the FENEIS (National Association of the Deaf) annual meeting in 2001, the association voted to accept SignWriting as the preferred method of transcribing Lingua Brasileira de Sinais (Libras) into a written form. The strong recommendation to the Brazilian government from that association was that SignWriting be taught in all Deaf schools. Currently SignWriting is taught on an academic level at the University Federal de Santa Catarina as part of its Brazilian Sign Language curriculum. SignWriting is also being used in the recently published Brazilian Sign Language Dictionary containing more than 3,600 signs used by the deaf of São Paulo, published by the University of São Paulo under the direction of Prof. Fernando Capovilla (EJ669813 – Brazilian Sign Language Lexicography and Technology: Dictionary, Digital Encyclopedia, Chereme-based Sign Retrieval, and Quadriplegic Deaf Communication Systems. Abstracted from Educational Resources Information Center).
+In Brazil, during the FENEIS (National Association of the Deaf) annual meeting in 2001, the association voted to accept SignWriting as the preferred method of transcribing Lingua Brasileira de Sinais (Libras) into a written form. The strong recommendation to the Brazilian government from that association was that SignWriting be taught in all Deaf schools. Currently SignWriting is taught on an academic level at the University Federal de Santa Catarina as part of its Brazilian Sign Language curriculum. SignWriting is also being used in the recently published Brazilian Sign Language Dictionary containing more than 3,600 signs used by the deaf of São Paulo, published by the University of São Paulo under the direction of Prof. Fernando Capovilla (EJ669813 – Brazilian Sign Language Lexicography and Technology: Dictionary, Digital Encyclopedia, Chereme-based Sign Retrieval, and Quadriplegic Deaf Communication Systems. Abstracted from Educational Resources Information Center).
 
 Some initial studies found that Deaf communities prefer video or writing systems for the dominant language,[2] however this claim has been disputed by the work of Steve and Dianne Parkhurst in Spain where they found initial resistance, later renewed interest, and finally pride. "If Deaf people learn to read and write in their own signing system, that increases their self-esteem", says Dianne Parkhurst.
 
@@ -34,7 +34,7 @@ The diagram to the left shows a BA-hand (flat hand) in six orientations. For the
 
 Hand shapes
 
-Handshape_equiv2.png There are over a hundred glyphs for hand shapes, but all the ones used in ASL are based on five basic elements:
+There are over a hundred glyphs for hand shapes, but all the ones used in ASL are based on five basic elements:
 
 -   A square represents a closed fist, with the knuckles of the flexed fingers bent 90° so that the fingers touch the palm and the thumb lies over the fingers. Unadorned, this square represents the S hand of fingerspelling. Modified as described below, it indicates that at least one of the four fingers touches the palm of the hand.
 -   A circle represents an "open fist", a hand where the thumb and fingers are flexed so as to touch at their tips. Unadorned, this is the O hand of fingerspelling. Modified, it indicates that at least one finger touches the thumb this way.
@@ -45,8 +45,6 @@ Handshape_equiv2.png There are over a hundred glyphs for hand shapes, but all th
 A line halfway across the square or pentagon shows the thumb across the palm. These are the E, B, and (with spread fingers) 4 hands of fingerspelling.
 
 These basic shapes are modified with lines jutting from their faces and corners to represent fingers that are not positioned as described above. Straight lines represent straight fingers (these may be at an angle to indicate that they are not in line with the palm; if they point toward or away from the signer, they have a diamond shape at the tip); curved lines for curved (cupped) fingers; hooked lines for hooked fingers; right-angle lines, for fingers bent at only one joint; and crossed lines, for crossed fingers, as shown in the chart at right. The pentagon and C are only modified to show that the fingers are spread rather than in contact; the angle is only modified to show whether the thumb touches the finger tips or juts out to the side. Although there are some generalizations which can be made for the dozens of other glyphs, which are based on the circle and square, the details are somewhat idiosyncratic and each needs to be memorized.
-
-Signwriting.png
 
 For the top sign, the arrows show that the two '1' hands move in vertical circles, and that although they move at the same time (tie bar), the left hand (hollow arrowhead) starts away from the body (thin line) going up while the right hand (solid arrowhead) starts near the body (thick line) going down.
 
@@ -78,7 +76,7 @@ Arrows on the face at the eyes show the direction of gaze.
 
 Contact
 
-Contact_symbols.png Six contact glyphs show hand contact with the location of the sign. That is, a handshape glyph located at the side of the face, together with a contact glyph, indicates that the hand touches the side of the face. The choice of the contact glyph indicates the manner of the contact:
+Six contact glyphs show hand contact with the location of the sign. That is, a handshape glyph located at the side of the face, together with a contact glyph, indicates that the hand touches the side of the face. The choice of the contact glyph indicates the manner of the contact:
 
 -   an asterisk (∗ or *) for simply touching the place;
 -   a plus sign (+) for grasping the place (usually the other hand);
@@ -112,7 +110,7 @@ Various punctuation symbols exist that correspond to commas, periods, question a
 
 Arrangement of symbols
 
-Jack_and_Jill.gif''.]]
+''.]]
 
 One of the unusual characteristics of SignWriting is its use of two-dimensional layout within an invisible 'sign box'. The relative positions of the symbols within the box iconically represent the locations of the hands and other parts of the body involved in the sign being represented. As such, there is no obvious linear relationship between the symbols within each sign box, unlike the sequence of characters within each word in most scripts for spoken languages. This is also unlike other sign language scripts which arrange symbols linearly as in spoken languages. However, since in sign languages many phonetic parameters are articulated simultaneously, these other scripts require arbitrary conventions for specifying the order of different parameters of handshape, location, motion, etc. Although SignWriting does have conventions for how symbols are to be arranged relative to each other within a sign, the two-dimensional layout results in less arbitrariness and more iconicity than other sign language scripts.[12]
 

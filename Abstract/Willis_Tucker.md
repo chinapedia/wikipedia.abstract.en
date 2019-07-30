@@ -1,1 +1,0 @@
-WILLIS D. TUCKER (November 13, 1922 – June 30, 2000) was an American politician and newspaper editor from Washington state. Tucker was the longtime editor of the _Western Sun_ in southern Snohomish County from 1965 to 1980. He was elected as the first Snohomish County Executive in 1980 and served three terms in the office before retiring in 1991.

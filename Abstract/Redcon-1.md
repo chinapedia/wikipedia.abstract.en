@@ -1,1 +1,0 @@
-_REDCON-1_[1] is a 2018 British action horror film, starring Katarina Waters, Mark Strange, and Carlos Gallardo.[2] The film was produced by Gallardo and Kevin Eastman.[3] Working titles for the film included _Zombie Apocalypse_[4] and _Zombie City_.[5] It is Gallardo's second zombie movie. The film was released in the UK on 28 September, 2018.[6]

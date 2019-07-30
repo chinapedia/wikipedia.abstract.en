@@ -1,1 +1,0 @@
-HITESH BASUMATARY is an Asom Gana Parishad politician from Assam. He has been elected in Assam Legislative Assembly election in 2011 from Chapaguri constituency.[1][2][3][4] In 2016, he joined the United Peoples Party ahead of the Assam election in 2016.

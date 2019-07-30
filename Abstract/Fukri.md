@@ -1,1 +1,0 @@
-_FUKRI_ is a 2017 Indian Malayalam-language film written and directed by Siddique and starring Jayasurya.[1] It was produced by Siddique, Vaishak Rajan, and Jenso Jose under the banners of S Talkies and Vaishaka Cynyma.[2]

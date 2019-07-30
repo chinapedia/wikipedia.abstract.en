@@ -1,1 +1,0 @@
-NINJA TUNE is an English independent record label[1] based in London. It has a satellite office in Los Angeles. It was founded by Matt Black and Jonathan More, better known as Coldcut[2] and managed by Peter Quicke and others.

@@ -1,1 +1,0 @@
-RICHARD MASON HANCOCK (November 22, 1832 – June 5, 1899) was a carpenter and shop foreman and civil rights activist in the American Northeast and Chicago. He was one of few African-American iron works shop foremen during his era.

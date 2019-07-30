@@ -1,1 +1,0 @@
-KEVIN ALDERSON (born 21 August 1953) is an English former footballer who made two appearances in the Football League playing as a winger for Darlington in the 1970s. He also played non-league football for Shildon.[1]

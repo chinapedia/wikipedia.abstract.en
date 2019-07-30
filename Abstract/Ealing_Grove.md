@@ -1,1 +1,0 @@
-Architectural_drawing_by_Henry_Keene_of_facade_of_Ealing_Grove,_built_for_Joseph_Gulston_II.jpg, third quarter of the 18th century]]

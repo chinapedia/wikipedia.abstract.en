@@ -1,1 +1,0 @@
-"FEEL THE BENEFIT" is a song by 10cc appearing on their 1977 album, _Deceptive Bends_. It is the final track on the album, and is the band's longest studio recording at nearly 12 minutes. The song is a fan-favorite, and has been included on many of the band's compilation albums and has been performed live by the band many times since its release.

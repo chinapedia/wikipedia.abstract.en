@@ -1,1 +1,0 @@
-Marine-assault-okinawa-1945.jpg search the ruins of Naha, Okinawa for Japanese snipers, Spring 1945]] Royal_Irish_Rifles_ration_party_Somme_July_1916.jpg at the Battle of the Somme (July–November 1916) during the First World War]]

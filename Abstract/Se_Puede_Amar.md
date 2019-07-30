@@ -1,1 +1,0 @@
-"SE PUEDE AMAR" ("YOU CAN LOVE") is a song recorded by Spanish singer-songwriter Pablo Alborán. The song was released worldwide on 22 April 2016 [1]and peaked at number 6 in Spain; thus becoming Alborán's twelfth top ten single in Spain.[2]

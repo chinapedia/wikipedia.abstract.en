@@ -1,1 +1,0 @@
-FLEETWOOD MAC are a British-American rock band, formed in London in 1967. They have sold more than 100 million records worldwide, making them one of the world's best-selling bands. In 1998, select members of Fleetwood Mac were inducted into the Rock and Roll Hall of Fame[1] and received the Brit Award for Outstanding Contribution to Music.[2]

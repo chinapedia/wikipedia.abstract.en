@@ -1,1 +1,0 @@
-SHAFIQA HABIBI is a journalist, television anchor, activist and politician from Afghanistan. She is known for her work to support women journalists, and for her 2004 candidacy for Vice President of Afghanistan as the running mate of Abdul Rashid Dostum.

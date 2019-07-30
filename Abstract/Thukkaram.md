@@ -1,1 +1,0 @@
-_THUKKARAM_ is a 1938 Indian Tamil-language biographical film directed by B. N. Rao and produced by Central Studios in Coimbatore. The film featured Carnatic vocalist Musiri Subramania Iyer as the eponymous saint.[1]

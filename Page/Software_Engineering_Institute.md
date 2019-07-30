@@ -41,7 +41,7 @@ The SEI sponsors national and international conferences, workshops, and user-gro
 
 Education and training
 
-Software_Engineering_Institute.jpg SEI courses are currently offered at the SEI's locations in the United States and Europe. In addition, using licensed course materials, SEI Partners train individuals.
+SEI courses are currently offered at the SEI's locations in the United States and Europe. In addition, using licensed course materials, SEI Partners train individuals.
 
 Membership program
 
@@ -74,8 +74,6 @@ SEI has been an occasional site of anti-war movement and peace movement protests
 
 
 References in popular culture
-
-SEI_from_Mellon_Institute.jpg
 
 -   SEI served as the Blackgate Prison in the 2012 film _The Dark Knight Rises_.
 

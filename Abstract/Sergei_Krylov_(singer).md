@@ -1,1 +1,0 @@
-SERGEI LVOVICH KRYLOV (; born August 25, 1961, Tula, RSFSR, USSR) is a Russian singer,[1] showman and actor. He is head of the organization _"Union of Russian children"_ and the vice-president of the World charity theorists professional fashion sex.[2]

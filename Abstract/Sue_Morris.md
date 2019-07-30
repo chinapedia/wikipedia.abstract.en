@@ -1,1 +1,0 @@
-SUE MORRIS (born 30 May 1958) is a New Zealand former cricketer. She played eight Women's One Day International matches for the New Zealand women's national cricket team.[1][2] She was part of New Zealand's squad for the 1988 Women's Cricket World Cup.[3]

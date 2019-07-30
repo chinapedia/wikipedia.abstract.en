@@ -1,1 +1,0 @@
-RALPH C. MERKLE (born February 2, 1952) is a computer scientist. He is one of the inventors of public key cryptography, the inventor of cryptographic hashing, and more recently a researcher and speaker of cryonics.

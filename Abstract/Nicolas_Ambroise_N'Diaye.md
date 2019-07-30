@@ -1,1 +1,0 @@
-NICOLAS AMBROISE N'DIAYE (-‡2002 to 2005[1]), born in French West Africa, served as the _Commissaire Général_ of _Scoutisme d'Afrique Occidentale Française_, as well as _Commissaire Général_ of the Scouts et Guides du Sénégal and the President of the Confédération Sénégalaise du Scoutisme.

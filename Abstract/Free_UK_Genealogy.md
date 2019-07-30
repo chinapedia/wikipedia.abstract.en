@@ -1,1 +1,0 @@
-Free_UK_GEN_social_banner.png FREE UK GENEALOGY is a charitable incorporated organisation (CIO) acting as an umbrella organisation for FreeBMD, FreeREG and FreeCEN.[1] The charity was formerly known as FreeBMD.[2]'''

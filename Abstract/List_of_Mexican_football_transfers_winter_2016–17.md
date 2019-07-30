@@ -1,1 +1,0 @@
-This is the LIST OF MEXICAN FOOTBALL TRANSFERS of the Mexican Primera Division during the winter 2016–17 transfer window, grouped by club. It only includes football transfers related to clubs from the Liga Bancomer MX, the first division of Mexican football.

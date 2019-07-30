@@ -1,1 +1,0 @@
-_DERAILED_ (), also known as _NO WAY TO GO_, is a 2016 South Korean action crime film starring Ma Dong-seok and Choi Min-ho.[1] The film was displayed at the 21st Busan International Film Festival in the "Korean Cinema Today – Panorama" section.[2][3] The film was released in the cinemas in South Korea on November 30, 2016.[4][5]

@@ -1,1 +1,0 @@
-Stamps_of_the_Soviet_Union,_1965_Ivanov.jpg commemorative issue stamp from 1965.]] VIKTOR SEMENOVICH IVANOV () (11 November 1909[1] - 26 November 1968) was a Soviet poster artist who worked for the TASS agency.[2] Among his posters is the well known "Lenin lived, Lenin lives, Lenin will live forever".

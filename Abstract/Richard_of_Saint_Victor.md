@@ -1,1 +1,0 @@
-Hugostv.jpg teaching the young canons of Richard's abbey]] RICHARD OF SAINT VICTOR, C.R.S.A. (died 1173) was a Medieval Scottish philosopher and theologian and one of the most influential religious thinkers of his time. A canon regular, he was a prominent mystical theologian, and was prior of the famous Augustinian Abbey of Saint Victor in Paris from 1162 until his death in 1173.

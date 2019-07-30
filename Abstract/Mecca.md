@@ -1,1 +1,0 @@
-MECCA, also spelled MAKKAH, is a city in the Hejazi region of Saudi Arabia.[1] inland from Jeddah, in a narrow valley above sea level, south of Medina, its population in 2012 was 2 million, although visitors more than triple this number every year during the _Ḥajj_ (, "Pilgrimage"), held in the twelfth Muslim lunar month of _Dhūl-Ḥijjah_ ().

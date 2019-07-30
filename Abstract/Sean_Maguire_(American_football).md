@@ -1,1 +1,0 @@
-SEAN MAGUIRE (born March 11, 1994) is an American football quarterback. He played college football for the Florida State Seminoles. Currently, Maguire is a graduate assistant at Texas A&M, working under his FSU coach Jimbo Fisher.[1]

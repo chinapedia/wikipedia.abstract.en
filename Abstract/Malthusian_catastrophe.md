@@ -1,1 +1,0 @@
-Malthus_PL_en.svg World-Population-1800-2100.svg A MALTHUSIAN CATASTROPHE (also known as MALTHUSIAN CHECK, MALTHUSIAN CRISIS, MALTHUSIAN SPECTRE or MALTHUSIAN CRUNCH) is a prediction that population growth will outpace agricultural production – that there will be too many people and not enough food.

@@ -1,1 +1,0 @@
-The SIND–PISHIN STATE RAILWAY was the name of a broad gauge line that ran between Rohri, Sindh and Chaman, Balochistan. In 1886, the southern section of the Sind–Pishin State Railway was amalgamated with the Kandahar State Railway and several other railways to form the North Western State Railway (NWR). Today the line is still active and part of the Rohri–Chaman Railway Line.[1]

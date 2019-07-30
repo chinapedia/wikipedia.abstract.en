@@ -1,1 +1,0 @@
-The GEELONG WEST GIANTS, nicknamed the _GIANTS_, is an Australian rules football and netball club based in the suburb of North Geelong, Victoria. The club fields teams in both the Geelong Football League and Geelong & District Football League.

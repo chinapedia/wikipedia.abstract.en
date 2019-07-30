@@ -1,1 +1,0 @@
-BLOOMING ROSE is an unincorporated community in the southwest corner of Phelps County, in the U.S. state of Missouri.[1] The community is on Missouri Route K between Beulah to the east and Duke to the north. Licking is approximately nine miles to the southeast, in Texas County.[2]

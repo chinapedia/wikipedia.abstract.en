@@ -1,1 +1,0 @@
-CHRISTOPHER TERENCE WOOD (19 January 1959),[1] is a British diplomat who served as Representative, British Office Taipei from 2013 to 2016. His previous assignments included Minister, British Embassy Beijing (2008–2012), Director for the Americas, Foreign and Commonwealth Office (2007–2008) and the British Consul-General to Guangzhou (2003–2006).

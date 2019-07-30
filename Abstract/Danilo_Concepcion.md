@@ -1,1 +1,0 @@
-DANILO "DANICON" LARDIZABAL CONCEPCION (born February 7, 1958) is a Filipino lawyer, who currently serves as the 21st President of the University of the Philippines. Prior to his appointment as President, he was the dean and a professor of law at the UP College of Law and the Executive Director of the UP Bonifacio Global City Campus.[1]

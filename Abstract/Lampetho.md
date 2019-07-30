@@ -1,1 +1,0 @@
-LAMPETHO was an Amazon queen mentioned by French medieval poet Eustache Deschamps. She was a member of the female version of Deschamps' nine worthies, individuals who along with their male counterparts were historical, scriptural and legendary personages who embodied the ideals of chivalry, honor and privilege.

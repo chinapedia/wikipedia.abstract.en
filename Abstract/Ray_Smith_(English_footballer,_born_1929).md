@@ -1,1 +1,0 @@
-RAYMOND SCORER SMITH (14 April 1929 – 21 June 2017) was an English footballer who played as a wing half in the Football League for Luton Town and Southend United.[1][2] He also played non-league football for Evenwood Town and Hastings United.[3]

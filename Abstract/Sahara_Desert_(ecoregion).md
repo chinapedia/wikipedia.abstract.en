@@ -1,1 +1,0 @@
-The SAHARA DESERT ECOREGION, as defined by the World Wide Fund for Nature (WWF), includes the hyper-arid center of the Sahara, between 18° and 30° N.[1] It is one of several desert and xeric shrubland ecoregions that cover the northern portion of the African continent.

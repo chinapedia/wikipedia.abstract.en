@@ -1,1 +1,0 @@
-Kneeling_figures_of_Lady_and_Sir_James_Hobart.tif SIR JAMES HOBART, also known as JAMES HOBERD and JAMES HUBBARD, (1436[1] – 24 February 1517) of Norfolk became a member of Lincoln's Inn during Edward IV of England's reign and was appointed attorney-general and knighted during the reign of Henry VII.[2]

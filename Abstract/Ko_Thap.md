@@ -1,1 +1,0 @@
-KO THAP (, "Thap Island", sometimes spelled _Tub_) is an island in Krabi Province, Thailand. This island is a member of the Poda Archipelago, which is composed of Poda Island, Tub Island, Mor Island and Kai Island. Locals refer to Tab Island as Koh Tub.[1]

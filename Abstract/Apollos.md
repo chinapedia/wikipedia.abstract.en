@@ -1,1 +1,0 @@
-APOLLOS () was a 1st-century Alexandrian Jewish Christian mentioned several times in the New Testament. A contemporary and colleague of Paul the Apostle, he played an important role in the early development of the churches of Ephesus and Corinth.

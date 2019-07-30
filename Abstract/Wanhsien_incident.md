@@ -1,1 +1,0 @@
-The WANHSIEN INCIDENT of 1926 was a series of maritime conflicts and civilian casualties on the river Yangtze, between British merchant shipping and regional Chinese military leaders, culminating in a battle with Royal Navy gunboats, which also fired cannons into the city of Wanhsien.[1][2]

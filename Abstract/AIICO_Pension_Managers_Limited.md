@@ -1,1 +1,0 @@
-AIICO PENSION MANAGERS LIMITED is a pension funds management company in Nigeria. It is a 65 percent owned subsidiary of _AIICO Insurance_, a Nigeria Stock Exchange listed insurance services provider.[1][2]

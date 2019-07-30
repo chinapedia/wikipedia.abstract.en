@@ -1,1 +1,0 @@
-Bachiler_coat-of-arms._By_Sylvanus_Morgan,_1898.jpg STEPHEN BACHILER (23 June 1561 - 28 October 1656) was an English clergyman who was an early proponent of the separation of church and state in American Colonies. He is also known for starting such settlements as Hampton, New Hampshire.[1]

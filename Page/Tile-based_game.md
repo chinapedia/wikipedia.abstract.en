@@ -1,5 +1,3 @@
-Dominospiel.JPG
-
 A TILE-BASED GAME is a game that uses tiles as one of the fundamental elements of play. Traditional tile-based games use small tiles as playing pieces for gambling or entertainment games. Some board games use tiles to create their board, giving multiple possibilities for board layout, or allowing changes in the board geometry during play.
 
 Each tile has a back (undifferentiated) side and a face side. Domino tiles are usually rectangular, twice as long as they are wide and at least twice as wide as they are thick, though games exist with square tiles, triangular tiles and even hexagonal tiles.

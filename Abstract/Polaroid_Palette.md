@@ -1,1 +1,0 @@
-The POLAROID PALETTE and POLAROID PROPALETTE are a series of digital film recorders from Polaroid Corporation. The line started in the early 1980s, using 35mm film to produce slides for presentations.[1] All versions of GEM provide drivers.[2][3]

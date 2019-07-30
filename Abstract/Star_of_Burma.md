@@ -1,1 +1,0 @@
-The STAR OF BURMA is an cabochon-cut star ruby. In 1935, the Burmese ruby was purchased by Howard Hoeffer of jeweler Trabert & Hoeffer-Mauboussin, whereupon it was used in several Hollywood films in the 1930s, including the musical comedy _Vogues of 1938_. Trabert & Hoeffer-Mauboussin sold the jewel on September 14, 2004.

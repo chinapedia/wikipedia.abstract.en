@@ -1,1 +1,0 @@
-THE EVANGELICAL NETWORK (also known as TEN)[1] is an association of Christian and Evangelical ministries that are a part of and are affirming to the LGBTQ community and their relationships. The TEN website describes its focus in a mission statement including the following goals:

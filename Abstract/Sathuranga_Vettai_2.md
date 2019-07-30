@@ -1,1 +1,0 @@
-_SATHURANGA VETTAI 2_ () is an upcoming Indian Tamil-language heist film directed by Nirmal Kumar and written by H. Vinoth. A spiritual successor to Vinoth's _Sathuranga Vettai_ (2014), the film features Arvind Swamy and Trisha in the lead roles, with Vamsi Krishna and Amit Bhargav in supporting roles. Produced by Manobala, the venture began production in October 2016.

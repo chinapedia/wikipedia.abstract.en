@@ -1,1 +1,0 @@
-With Macau's population (about 500,000) and its small market, only a few media options are available for the local people. Because radio signals, newspapers and magazines from Hong Kong are available in Macau, the local media are always a minority group in terms of sales and number of viewers.

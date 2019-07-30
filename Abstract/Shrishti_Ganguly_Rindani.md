@@ -1,1 +1,0 @@
-SHRISHTI GANGULY RINDANI is an actress residing in Mumbai known for her work in many shows like _bb ki vines_[1] and _Pyaar Ka The End_[2] on Bindass, _Pyaar Tune Kya Kiya_ on Zing, and _Yeh Jawani Ta Ra Ri Ri_ on Channel V.

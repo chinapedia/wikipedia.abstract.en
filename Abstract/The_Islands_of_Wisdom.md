@@ -1,1 +1,0 @@
-_DIE INSELN DER WEISHEIT_ (_The Islands of Wisdom_) is a 1922 novel by Alexander Moszkowski that features expeditions to various utopian and dystopian islands that embody various social-political ideas of European philosophy and extrapolates them for their absurdities when they are put into practice.[1]

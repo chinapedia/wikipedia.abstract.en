@@ -1,1 +1,0 @@
-_ENTRE CORRER Y VIVIR_, is a Mexican television series produced by Julián Antuñano for Azteca 7.[1] The series premiered on October 22, 2016, is also available on the Blim platform.[2]The series is based on the lives of the brothers Ricardo and Pedro Rodríguez de la Vega, famous drivers of the _Formula 1_ in the 60's.[3]

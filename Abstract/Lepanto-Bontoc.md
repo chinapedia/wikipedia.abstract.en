@@ -1,1 +1,0 @@
-LEPANTO-BONTOC was a short-lived province of the Philippines, existing from 1902 to 1908. The province encompassed much of the central section of the Cordillera mountains in Luzon. Its capital was Cervantes, in the sub-province of Lepanto.[1]

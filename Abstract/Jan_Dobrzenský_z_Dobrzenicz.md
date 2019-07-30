@@ -1,1 +1,0 @@
-Jan_Dobrzensky_z_Dobrzenic.jpg of the _Orléans obedience_ of the Order of Saint Lazarus.]] Portrait_of_Jan_Dobrzenský.jpg JAN DOBRZENSKÝ Z DOBRZENICZ is a Czech-French count and, since 2010, the 50th Grand Master of the _Orléans obedience_ of the Order of Saint Lazarus (statuted 1910).[1]

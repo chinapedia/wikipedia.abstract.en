@@ -1,1 +1,0 @@
-AMANDA HESSER (born 1971) is an American food writer, editor, cookbook author and entrepreneur. Most notably, she was the food editor of _The New York Times Magazine_, the editor of _T Living_, a quarterly publication of _The New York Times_, author of The Essential New York Times Cookbook which was a _New York Times_ bestseller, and co-founder and CEO of Food52.

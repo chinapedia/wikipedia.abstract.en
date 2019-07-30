@@ -1,1 +1,0 @@
-Sparsely populated in relation to its area, the Democratic Republic of the Congo is home to a vast potential of natural resources and mineral wealth. Despite this, the economy has declined drastically since the mid-1980s.[1]

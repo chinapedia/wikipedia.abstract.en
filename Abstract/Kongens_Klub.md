@@ -1,1 +1,0 @@
-Østergade_15_(Copenhagen).jpg KONGENS KLUB was a gentlemen's club founded in 1776 in Copenhagen, Denmark. The club was until the late 1840s based in the Karel van Mander House at Østergade 15. It existed until 1877 when it was merged with Det forenede borgerlige Selskab (founded in 1798) under the name Kjøbenhavns Klub ("Copenhagen Club).

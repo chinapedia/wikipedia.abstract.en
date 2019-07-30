@@ -1,1 +1,0 @@
-The 1901–02 SYRACUSE ORANGEMEN MEN'S BASKETBALL TEAM represented Syracuse University during the 1901–02 college men's basketball season. Instead of a head coach, the team's operations was headed by manager Fred Griffin.

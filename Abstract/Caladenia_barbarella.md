@@ -1,1 +1,0 @@
-_CALADENIA BARBARELLA_, commonly known as the SMALL DRAGON ORCHID, is a plant in the orchid family Orchidaceae and is endemic to the south-west of Western Australia. It has a single broad, hairy leaf held close to the ground and a single greenish-yellow and red flower. It is only known from a small area near the Murchison River.

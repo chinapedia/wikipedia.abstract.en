@@ -1,1 +1,0 @@
-The 2017 ICC WOMEN'S CRICKET WORLD CUP QUALIFIER was an international women's cricket tournament that was held in Colombo, Sri Lanka, from 7 to 21 February 2017. It was the final stage of the qualification process for the 2017 World Cup in England. The tournament was the fourth edition of the World Cup Qualifier, and the first to be held in Sri Lanka.[1]

@@ -1,1 +1,0 @@
-ANABAPTISM (from Neo-Latin _anabaptista_,[1] from the Greek : "re-" and "baptism",[2] , earlier also _Wiedertäufer_[3]) is a Christian movement which traces its origins to the Radical Reformation. The movement is generally seen as an offshoot of Protestantism, although this view has been challenged by some Anabaptists.[4][5]

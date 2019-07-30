@@ -3,12 +3,12 @@ T (named _tee_ [1]) is the 20th letter in the modern English alphabet and the IS
 
 History
 
-+-----------------------+------------------+---------------+
-| Phoenician            | Etruscan         | Greek         |
-| _Taw_                 | T                | _Tau_         |
-+=======================+==================+===============+
-| Proto-semiticT-01.svg | EtruscanT-01.svg | Tau_uc_lc.svg |
-+-----------------------+------------------+---------------+
++------------+----------+-------+
+| Phoenician | Etruscan | Greek |
+| _Taw_      | T        | _Tau_ |
++============+==========+=======+
+|            |          |       |
++------------+----------+-------+
 
 _Taw_ was the last letter of the Western Semitic and Hebrew alphabets. The sound value of Semitic _Taw_, Greek alphabet Tαυ (_Tau_), Old Italic and Latin T has remained fairly constant, representing in each of these; and it has also kept its original basic shape in most of these alphabets.
 

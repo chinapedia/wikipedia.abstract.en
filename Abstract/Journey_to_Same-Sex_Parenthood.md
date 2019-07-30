@@ -1,1 +1,0 @@
-_JOURNEY TO SAME-SEX PARENTHOOD_ is a nonfiction book by author and activist Eric Rosswood. The work focuses on adoption, foster care, assisted reproduction, surrogacy, and co-parenting advice for LGBT couples. The foreword is written by Melissa Gilbert and the introduction by Charlie Condou.

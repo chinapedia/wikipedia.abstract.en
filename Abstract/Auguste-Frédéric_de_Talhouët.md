@@ -1,1 +1,0 @@
-Colonel_Auguste-Frederic-Bon-Amour,_marquis_de_Talhouët_by_Emile-Jean-Horace_Vernet.jpg, 1818.]] Fanny_de_Talhouët_(1818-1863).jpg AUGUSTE-FRÉDÉRIC DE TALHOUËT-BONAMOUR, marquis de Talhouët (8 April 1788, Rennes - 12 March 1842, Paris) was a French general of the Napoleonic Wars. He was awarded the Military Merit Order along with several French orders.

@@ -1,1 +1,0 @@
-ERNEST RUTHERFORD, 1ST BARON RUTHERFORD OF NELSON, ,[1] HFRSE, LLD (30 August 1871 – 19 October 1937), was a New Zealand physicist who came to be known as the father of nuclear physics.[2] _Encyclopædia Britannica_ considers him to be the greatest experimentalist since Michael Faraday (1791–1867).[3]

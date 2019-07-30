@@ -1,1 +1,0 @@
-DEVADASAN NITHYA PREMNATH (born 21 October 1950), known as D. N. PREMNATH, is an Indian pastor and Old Testament scholar, who has been teaching since 1988 at the St. Bernard's School of Theology and Ministry, a Roman Catholic seminary, in Rochester, New York.[1] In 1981, Premnath participated in an archaeological dig at Tell el-Hesi in southern Israel.[2]

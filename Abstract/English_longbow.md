@@ -1,1 +1,0 @@
-Englishlongbow.jpg (1.98 m) long, 470 N (105 lbf) draw force.]] Battle_of_crecy_froissart.jpg. Anglo-Welsh longbowmen figure prominently in the foreground on the right, where they are driving away Italian mercenary crossbowmen.]]

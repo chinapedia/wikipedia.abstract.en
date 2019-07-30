@@ -1,1 +1,0 @@
-Ham_(4).jpg Schinken-gekocht.jpg HAM is pork from a leg cut that has been preserved by wet or dry curing, with or without smoking.[1] As a processed meat, the term "ham" includes both whole cuts of meat and ones that have been mechanically formed.

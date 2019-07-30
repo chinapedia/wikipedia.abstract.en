@@ -1,1 +1,0 @@
-MADANA-PALA (IAST: Madanapāla, r. c. 1104-1113 CE), also known as Madana-chandra, was an Indian king from the Gahadavala dynasty. He ruled the Antarvedi country in present-day Uttar Pradesh, including Kanyakubja and Varanasi.

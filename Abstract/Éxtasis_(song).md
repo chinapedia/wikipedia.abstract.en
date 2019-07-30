@@ -1,1 +1,0 @@
-"ÉXTASIS" () is a song recorded by the Spanish singer-songwriter Pablo Alborán. The song was released as the fourth single from his second studio album _Tanto_ (2012). It was released in 27 August 2013 as a digital download in Spain. The single has peaked to number 16 on the Spanish Singles Chart in December 2013.

@@ -1,1 +1,0 @@
-The SECOND BATTLE OF EL ALAMEIN (23 October – 11 November 1942) was a battle of the Second World War that took place near the Egyptian railway halt of El Alamein. The First Battle of El Alamein and the Battle of Alam el Halfa had prevented the Axis from advancing further into Egypt.

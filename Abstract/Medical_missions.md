@@ -1,1 +1,0 @@
-MEDICAL MISSIONS is the term used for (typically) Christian missionary endeavors that involve the administration of medical treatment. As has been common among missionary efforts from the 18th to 20th centuries, medical missions often involves residents of the "Western world" traveling to locales within Africa, Asia, Eastern Europe, Latin America, or the Pacific Islands.

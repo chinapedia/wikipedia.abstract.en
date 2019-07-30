@@ -1,1 +1,0 @@
-SINGULAR _THEY_ is the use in English of the pronoun _they_ or its inflected or derivative forms, _them_, _their_, _theirs_, and _themselves_ (or _themself_), as an epicene (gender-neutral) singular pronoun. It typically occurs with an unspecified antecedent, as in sentences such as:

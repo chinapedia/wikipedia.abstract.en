@@ -84,7 +84,7 @@ The "eggbeater kick" is another important skill of synchronised swimming. It is 
 
 Lifts and highlights
 
-Open_Make_Up_For_Ever_2013_-_Team_-_Japan_-_10.jpg A lift or highlight is when members of the team propel another teammate relatively high out of the water. They are quite common in routines of older age groups and higher skill levels. There are many variations on lifts and these can include partner lifts, float patterns or other areas of unique, artistic choreography intended to exceptionally impress the judges and audience.
+A lift or highlight is when members of the team propel another teammate relatively high out of the water. They are quite common in routines of older age groups and higher skill levels. There are many variations on lifts and these can include partner lifts, float patterns or other areas of unique, artistic choreography intended to exceptionally impress the judges and audience.
 
 Parts of a successful lift
 
@@ -104,7 +104,7 @@ Common Types of highlights
 
 Positions
 
-Open_Make_Up_For_Ever_2013_-_Wu_Yiwen_-_Huang_Xuechen_-_11.jpg and Huang Xuechen of China perform during the duet technical routine at the 2013 French Open.]] There are hundreds of different regular positions that can be used to create seemingly infinite combinations. These are a few basic and commonly used ones:
+and Huang Xuechen of China perform during the duet technical routine at the 2013 French Open.]] There are hundreds of different regular positions that can be used to create seemingly infinite combinations. These are a few basic and commonly used ones:
 
 -   BACK LAYOUT: The most basic position. The body floats, completely straight and rigid, face-up on the surface while sculling under the hips.
 -   BALLET LEG: Beginning in a back layout, one leg is extended and held perpendicular to the body, while the other is held parallel to the surface of the water.

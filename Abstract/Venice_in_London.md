@@ -1,1 +1,0 @@
-Venice_in_London_programme_1892.jpg Program_for_Venice_in_London.jpg _VENICE IN LONDON_ was a spectacular held at Olympia in London from 26 December 1891 to January 1893. It was also variously described as _Venice The Bride of the Sea at Olympia_, _Venice at Olympia_, etc.

@@ -1,1 +1,0 @@
-GUY CASARIL (1933-1996) was a French film director, screenwriter and non-fiction writer.[1] His first film, _L'Astragale_, was a cinematic adaptation of an eponymous novel by Albertine Sarrazin.[2] His biopic about Edith Piaf was lauded by _The Catholic Advance_ out of Wichita, Kansas for "evoking the mood's period and background".[3]

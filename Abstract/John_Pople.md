@@ -1,1 +1,0 @@
-SIR JOHN ANTHONY POPLE, [1] (31 October 1925 – 15 March 2004)[2][3] was a British theoretical chemist who was awarded the Nobel Prize in Chemistry with Walter Kohn in 1998 for his development of computational methods in quantum chemistry.[4][5][6][7]

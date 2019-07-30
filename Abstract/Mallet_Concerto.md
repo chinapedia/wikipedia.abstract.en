@@ -1,1 +1,0 @@
-The MALLET CONCERTO is a concerto for mallet percussion instruments and chamber orchestra by the American composer Ned Rorem. It was first performed by the percussionist Evelyn Glennie and the Madison Symphony Orchestra under the conductor John DeMain in Madison, Wisconsin, on March 27, 2004.[1][2][3]

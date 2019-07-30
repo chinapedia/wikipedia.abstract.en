@@ -1,1 +1,0 @@
-In computer science, the COMPUTATIONAL COMPLEXITY, or simply COMPLEXITY of an algorithm is the amount of resources required for running it. The computational complexity of a problem is the minimum of the complexities of all possible algorithms for this problem (including the unknown algorithms).

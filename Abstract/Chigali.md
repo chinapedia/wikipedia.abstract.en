@@ -1,1 +1,0 @@
-Chigali_1.jpg CHIGALI is a popular tangy Tamarind[1] treat usually made in Southern India, especially in the state of Karnataka. Chigali is also referred to as IMLI KI GOLI[2][3][4] in Northern India. Chigali has become popular in recent days when a company Havenow Foodtech Pvt. Ltd. introduced it widely into Indian FMCG market with a brand of "Chicley"[5]

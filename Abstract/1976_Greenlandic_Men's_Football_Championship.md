@@ -1,1 +1,0 @@
-The 1976 GREENLANDIC MEN'S FOOTBALL CHAMPIONSHIP was the sixth edition of the Greenlandic Men's Football Championship. The final round was held in Nuuk. It was won by Grønlands Seminarius Sportklub for the third time in its history.[1]

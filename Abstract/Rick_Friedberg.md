@@ -1,1 +1,0 @@
-RICK FRIEDBERG is an American film and television director, screenwriter and producer, best known for his work with Leslie Nielsen. He is also the author of _Hollywood War Stories, How to Survive in the Trenches_, a memoir/advice guide on the film industry.[1]

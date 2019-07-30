@@ -49,7 +49,7 @@ _See Ministry of Justice and Legal Affairs (Solomon Islands)_
 
 Legislative branch
 
-SI_Houses_of_Parliament.jpg The National Parliament has 50 members, elected for a four-year term in single-seat constituencies. Solomon Islands have a multi-party system, with numerous parties in which no one party often has a chance of gaining power alone. Political parties must work with each other to form coalition governments.
+The National Parliament has 50 members, elected for a four-year term in single-seat constituencies. Solomon Islands have a multi-party system, with numerous parties in which no one party often has a chance of gaining power alone. Political parties must work with each other to form coalition governments.
 
 Parliament may be dissolved by a majority vote of its members before the completion of its term. Parliamentary representation is based on single-member constituencies. Suffrage is universal for citizens over age 18.
 

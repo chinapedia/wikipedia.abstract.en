@@ -1,1 +1,0 @@
-KISBÉR () is a district in south-western part of Komárom-Esztergom County. _Kisbér_ is also the name of the town where the district seat is found. The district is located in the Central Transdanubia Statistical Region.

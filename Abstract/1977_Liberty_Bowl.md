@@ -1,1 +1,0 @@
-The 1977 LIBERTY BOWL was a postseason bowl game, played in Memphis, Tennessee, on Monday, The Nebraska Cornhuskers of the Big Eight Conference rallied to defeat North Carolina Tar Heels of the Atlantic Coast Conference,

@@ -1,1 +1,0 @@
-KNUT HAMSUN (August 4, 1859 – February 19, 1952) was a Norwegian writer who was awarded the Nobel Prize in Literature in 1920. Hamsun's work spans more than 70 years and shows variation with regard to the subject, perspective and environment. He published more than 20 novels, a collection of poetry, some short stories and plays, a travelogue, and some essays.

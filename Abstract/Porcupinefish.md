@@ -1,1 +1,0 @@
-PORCUPINEFISH are fish belonging to the family DIODONTIDAE (order Tetraodontiformes), also commonly called BLOWFISH and, sometimes, BALLOONFISH and GLOBEFISH. They are sometimes collectively called PUFFERFISH,[1] not to be confused with the morphologically similar and closely related Tetraodontidae, which are more commonly given this name.

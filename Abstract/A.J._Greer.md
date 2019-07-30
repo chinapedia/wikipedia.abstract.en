@@ -1,1 +1,0 @@
-ANTHONY-JOHN "A.J." GREER (born December 14, 1996) is a Canadian professional ice hockey forward. He is currently playing for the Colorado Avalanche of the National Hockey League (NHL). He was selected in the second round, 39th overall, by the Avalanche in the 2015 NHL Entry Draft.

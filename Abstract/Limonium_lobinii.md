@@ -1,1 +1,0 @@
-_LIMONIUM LOBINII_ is a species of flowering plants of the Plumbaginaceae family. The species is endemic to Cape Verde.[1] It is listed as an endangered species by the IUCN.[2] The species was first described by Norbert Kilian and Teresa Leyens in 1994. Its local name is _carqueja-de-Santiago_.[3]

@@ -1,1 +1,0 @@
-EDWARD WILLARD BATES, M.D. (November 5, 1884 – August 7, 1930) was a prominent African-American who served as a physician and surgeon in the 368th Ambulance Company in 317th Sanitary (Medical) Train of the 92nd Division during World War I. For his bravery in battle he was recommended for the Distinguished Service Cross (DSC).

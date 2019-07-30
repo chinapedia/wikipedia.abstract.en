@@ -1,4 +1,4 @@
-Tetrahedral_group_2.svg is invariant under 12 distinct rotations, reflections excluded. These are illustrated here in the cycle graph format, along with the 180° edge (blue arrows) and 120° vertex (reddish arrows) rotations that permute the tetrahedron through the positions. The 12 rotations form the ROTATION (SYMMETRY) GROUP of the figure.]]
+is invariant under 12 distinct rotations, reflections excluded. These are illustrated here in the cycle graph format, along with the 180° edge (blue arrows) and 120° vertex (reddish arrows) rotations that permute the tetrahedron through the positions. The 12 rotations form the ROTATION (SYMMETRY) GROUP of the figure.]]
 
 In group theory, the SYMMETRY GROUP of a geometric object is the group of all transformations under which the object is invariant, endowed with the group operation of composition. Such a transformation is an invertible mapping of the ambient space which takes the object to itself, and which preserves all the relevant structure of the object. A frequent notation for the symmetry group of an object _X_ is _G_ = Sym(_X_).
 

@@ -1,1 +1,0 @@
-LEE SUN-BIN (born Lee Jin-kyung on January 7, 1994) is a South Korean actress and singer. She is known for starring in _Squad 38_, _Missing 9_ and _Criminal Minds_.[1] She joined girl group JQT following Minsun's departure in September 2011, until the group's disbandment in 2012.

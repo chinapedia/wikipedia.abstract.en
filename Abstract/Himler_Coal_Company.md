@@ -1,1 +1,0 @@
-Himlerville-panorama.jpg

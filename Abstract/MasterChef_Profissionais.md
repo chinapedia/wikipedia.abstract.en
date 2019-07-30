@@ -1,1 +1,0 @@
-_MASTERCHEF PROFISSIONAIS_ is a Brazilian cooking competition television series based on the format of the U.K. series _MasterChef: The Professionals_. The series premiered on Tuesday, October 4, 2016 at 10:30 p.m. (BRT / AMT) on Band.

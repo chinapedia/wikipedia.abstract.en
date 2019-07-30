@@ -1,1 +1,0 @@
-MAMED IBRAGIMOV (born June 9, 1992 in Russia) is a Russian Naturalized Kazakhstani freestyle wrestler. He competed in the men's freestyle 97 kg event at the 2016 Summer Olympics, in which he was eliminated in the quarterfinals by Elizbar Odikadze.[1][2]

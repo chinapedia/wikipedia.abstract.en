@@ -1,1 +1,0 @@
-'''Agnes Aduako ''' (born 25 December 1989) is a Ghanaian footballer who plays as a forward for the Ghana women's national football team. She was part of the team at the 2014 African Women's Championship and at the 2015 African Games scoring a goal against Zimbabwe. At the club level, she played for Fabulous Ladies in Ghana.[1]

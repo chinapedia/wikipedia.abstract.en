@@ -1,1 +1,0 @@
-The ORGANIZATION OF AMERICAN STATES (, , ), or the OAS or OEA, is a continental organization that was founded on 30 April 1948, for the purposes of regional solidarity and cooperation among its member states. Headquartered in the United States' capital Washington, D.C.,[1] the OAS's members are the 35 independent states of the Americas.

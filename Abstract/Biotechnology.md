@@ -1,1 +1,0 @@
-Insulincrystals.jpg crystals]]

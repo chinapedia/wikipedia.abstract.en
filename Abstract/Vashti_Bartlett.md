@@ -1,1 +1,0 @@
-VASHTI BARTLETT (November 15, 1873 – July 7, 1969) was an American nurse who served with the American Red Cross during World War I, and in Siberia and Manchuria after the war. She also worked in Haiti, Oklahoma, and Newfoundland on various missions.

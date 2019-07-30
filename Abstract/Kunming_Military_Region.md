@@ -1,1 +1,0 @@
-The KUNMING MILITARY REGION was a military region of the People's Liberation Army, established in December 1954 or 1955 and disestablished during the 1980s. It was incorporated within the Chengdu Military Region.

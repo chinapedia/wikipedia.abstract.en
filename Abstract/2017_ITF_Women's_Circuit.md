@@ -1,1 +1,0 @@
-The 2017 INTERNATIONAL TENNIS FEDERATION (ITF) WOMEN'S CIRCUIT is a second-tier tour for women's professional tennis. It is organized by the International Tennis Federation and is a tier below the Women's Tennis Association (WTA) Tour. The ITF Women's Circuit includes tournaments with prize money ranging from $15,000 to $100,000.[1]

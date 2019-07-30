@@ -1,1 +1,0 @@
-KARIN WOLFF WILSON is an American elected official and has served as the mayor of Fairhope, Alabama since November 7, 2016.[1] Wilson's campaign platform focused on community concerns about the city's comprehensive plan, growth strategies, and maintaining Fairhope's quality of life.[2][3]

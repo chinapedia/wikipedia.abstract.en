@@ -1,1 +1,0 @@
-The KUALA LUMPUR LIBRARY () is the main library of Kuala Lumpur, Malaysia. It has 9 branches around Kuala Lumpur in Taman Tun Dr. Ismail, Jelatek, Desa Tun Razak, Gombak Setia, Pantai Dalam, Cheras, Setapak, Bandar Tun Razak and Sentul.

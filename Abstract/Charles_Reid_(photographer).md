@@ -1,1 +1,0 @@
-CHARLES REID (20 September 1837 – 1929) was one of the first and most successful commercial photographers in Scotland. He pioneered the photography of livestock and wildlife in an era when very long exposures were generally required. In a 50-year career, he travelled all over the UK.[1]

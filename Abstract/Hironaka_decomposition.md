@@ -1,1 +1,0 @@
-In mathematics, a HIRONAKA DECOMPOSITION is a representation of an algebra over a field as a finitely generated free module over a polynomial subalgebra or regular local ring. They are named after Heisuke Hironaka, who used this in his unpublished master's thesis at Kyoto University .

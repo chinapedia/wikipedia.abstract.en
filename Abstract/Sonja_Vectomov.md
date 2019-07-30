@@ -1,1 +1,0 @@
-SONJA VECTOMOV (born 21 May 1979) is a Czech-Finnish electronic musician and composer who descends from a family rooted in the classical music world.[1] Vectomov is married to American writer and conductor David Woodard.[2] Her parents are Vladimír Večtomov and Sonja Vectomov.

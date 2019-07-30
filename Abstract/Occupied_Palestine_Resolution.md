@@ -1,1 +1,0 @@
-UNESCO_"Occupied_Palestine_Resolution"_Votes.png

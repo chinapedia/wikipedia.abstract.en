@@ -1,1 +1,0 @@
-QUEEN SINDEOK (12 July 1356 – 15 September 1396) (신덕왕후 강씨) was the second wife and Queen Consort of King Taejo of Joseon, the first monarch of the Korean Joseon Dynasty. She was a political advisor of King Taejo and had a great influence on the founding of Joseon.

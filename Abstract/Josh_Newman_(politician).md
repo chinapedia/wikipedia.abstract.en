@@ -1,1 +1,0 @@
-JOSH NEWMAN (born October 17, 1964) is an American politician who formerly served in the California State Senate until being recalled in June 2018. A Democrat, he represented the 29th Senate District, which encompasses parts of Los Angeles, Orange, and San Bernardino counties.

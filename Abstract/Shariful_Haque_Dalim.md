@@ -1,1 +1,0 @@
-SHARIFUL HAQUE DALIM (born 1946)[1] is a former decorated Bangladesh Liberation War veteran and ambassador of Bangladesh.[2] He was also convicted for his part in the assassination of Sheikh Mujibur Rahman, the country's founding father, in 1975.

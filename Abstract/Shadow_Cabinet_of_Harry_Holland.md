@@ -1,1 +1,0 @@
-New Zealand political leader Harry Holland assembled a spokesperson system amongst the Labour caucus following his elevation to become Leader of the Opposition in 1926. As the Labour Party formed the largest party not in government, his frontbench team was as a result the Official Opposition of the New Zealand House of Representatives.

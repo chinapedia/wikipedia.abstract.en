@@ -1,1 +1,0 @@
-The 1904 GERMAN FOOTBALL CHAMPIONSHIP FINAL was to decide the winner of the 1904 German football championship, the 2nd edition of the German football championship, a knockout football cup competition contested by the regional association winners to determine the national champions.

@@ -1,1 +1,0 @@
-WILLIAM VINCENT LTD., often known as Vincent of Reading, was a British coachbuilder founded in 1805 making carriages but in 1899 they made their first car body and later made bodies for commercial vehicles.

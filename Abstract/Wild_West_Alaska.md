@@ -1,1 +1,0 @@
-_WILD WEST ALASKA_ is an American reality television series. The series premiered on January 13, 2013, on Animal Planet.[1][2] The series is filmed in Anchorage, Alaska, where it chronicles the daily activities at the Wild West Guns gun shop.

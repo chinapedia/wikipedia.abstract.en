@@ -1,1 +1,0 @@
-AssemblyOfQuakers.jpg preacher and her congregation.]] Predicador.JPG, São Paulo, Brasil.]] A PREACHER is a person who delivers sermons or homilies on religious topics to an assembly of people. Less common are preachers who preach on the street, or those whose message is not necessarily religious, but who preach components such as a moral or social worldview or philosophy.

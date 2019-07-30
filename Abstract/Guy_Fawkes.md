@@ -1,1 +1,0 @@
-GUY FAWKES (; 13 April 1570 – 31 January 1606), also known as GUIDO FAWKES while fighting for the Spanish, was a member of a group of provincial English Catholics who planned the failed Gunpowder Plot of 1605. He was born and educated in York, England; his father died when Fawkes was eight years old, after which his mother married a recusant Catholic.

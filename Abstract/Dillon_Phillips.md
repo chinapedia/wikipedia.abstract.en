@@ -1,1 +1,0 @@
-DILLON PHILLIPS (born 11 June 1995) is an English professional footballer who plays as a goalkeeper for club Charlton Athletic. He had brief loan spells at Whitehawk and Bishop's Stortford, before helping Cheltenham Town to win the National League whilst on a season-long loan during the 2015–16 campaign.

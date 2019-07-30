@@ -1,1 +1,0 @@
-The PARQUE OESTE MASSACRE was the killing of two landless farmers by military police on February 16, 2005, in the Goias state, Brazil. The farmers were part of a group of 3000–4000 families occupying abandoned land who were evicted by the military police.

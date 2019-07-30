@@ -1,1 +1,0 @@
-In the computer science subfield of algorithmic information theory, a CHAITIN CONSTANT (CHAITIN OMEGA NUMBER)[1] or HALTING PROBABILITY is a real number that, informally speaking, represents the probability that a randomly constructed program will halt. These numbers are formed from a construction due to Gregory Chaitin.

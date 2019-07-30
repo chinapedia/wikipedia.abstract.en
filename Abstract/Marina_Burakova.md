@@ -1,1 +1,0 @@
-'''Marina Burakova ''' (; born 8 May 1966) is a Russian women's international footballer who plays as a defender. She is a member of the Russia women's national football team. She was part of the team at the 1999 FIFA Women's World Cup and 2003 FIFA Women's World Cup where she was the team captain.[1]

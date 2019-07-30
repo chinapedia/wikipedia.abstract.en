@@ -1,1 +1,0 @@
-This is a worldwide list of accidents involving trams (or streetcars in U.S English) in which there was significant damage to the tramcar, or involving severe injury or death to those in the tramcar. Pedestrian fatalities are outside the scope of this list.

@@ -1,1 +1,0 @@
-GEORGY GRIGORIEVICH NATHANSON (; 23 May 1921 – 17 December 2017) was a Soviet and Russian theater and cinema director, screenwriter and playwright.[1] Directed by Mosfilm.[2] People's Artist of Russia (1994), winner of the USSR State Prize (1977).[3]

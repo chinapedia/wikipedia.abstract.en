@@ -1,1 +1,0 @@
-_CALM BEFORE THE STORM_ is the sixth studio album by the Australian musician, Jon English, and his first under the Mercury Records label. The album was released in Australia in April 1980 and peaked at number 17 on the Kent Music Report in March 1983. [1]

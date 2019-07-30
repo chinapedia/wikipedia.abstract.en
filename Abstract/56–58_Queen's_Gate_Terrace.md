@@ -1,1 +1,0 @@
-56-58_Queen's_Gate_Terrace,_September_2016_01.jpg

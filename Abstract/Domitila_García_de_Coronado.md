@@ -1,1 +1,0 @@
-DOMITILA GARCÍA DOMÉNICO DE CORONADO (7 May 1847 – 1938){{#tag:ref|Some authors list her year of death as 1937.[1][2]|group=note}} was a Cuban writer, journalist, editor, and professor, considered to be the first women to practice journalism in her country.[3][4]

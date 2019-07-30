@@ -1,1 +1,0 @@
-Caroline_Barbot_c1865-small.png

@@ -1,1 +1,0 @@
-The 1960 BROWNLOW MEDAL was the 33rd year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] John Schultz of the Footscray Football Club won the medal by polling twenty votes during the 1960 VFL season.[2]

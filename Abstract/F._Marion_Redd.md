@@ -1,1 +1,0 @@
-FRANCIS MARION REDD was Mayor of Charlotte, North Carolina, from 1927–1929. Redd was born on August 8, 1871 in Onslow County, North Carolina. He graduated from the University of North Carolina at Chapel Hill in 1905 and married Bessie Lee Flowe in 1919.[1]

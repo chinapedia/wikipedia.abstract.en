@@ -1,1 +1,0 @@
-FREDERICK WILLIAM ALLENDORF (born April 29, 1947) is Regents Professor of Biology Emeritus at the University of Montana. He has published widely on the topics of population genetics and conservation biology.[1][2] Among other organisms, Allendorf has written extensively about salmon.[3]

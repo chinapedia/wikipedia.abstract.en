@@ -1,1 +1,0 @@
-ANTHONY VELONIS (23 October 1911 – 29 October 1997) was an American painter and designer born in New York City who helped introduce the public to silkscreen printing in the early 20th century.[1] He married Elizabeth Amidon,[2] with whom he had four children.

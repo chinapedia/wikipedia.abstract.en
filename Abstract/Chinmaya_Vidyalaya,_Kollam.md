@@ -1,1 +1,0 @@
-CHINMAYA VIDYALAYA, KOLLAM is a senior secondary school established by Chinmaya Educational, Cultural and Charitable Trust in Kollam city on 23 October 1985. The schools is situated in a 3.01 acre campus at Kuzhiyam road in Chandanathope(Reg No. 930434). The school currently teaches students in the Pre-Primary, LP, UP, HS & plus Two sections.[1][2][3]

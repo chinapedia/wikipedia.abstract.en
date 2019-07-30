@@ -1,1 +1,0 @@
-_DESMOSPORA ACTIVA_ is a Gram-positive and aerobic bacterium from the genus of Desmospora which has been isolated from the sputum from a patient with suspected pulmonary tuberculosis in Germany.[1][2][3][4][5]

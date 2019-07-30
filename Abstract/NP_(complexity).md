@@ -1,1 +1,0 @@
-P_np_np-complete_np-hard.svg for P, NP, NP-complete, and NP-hard set of problems. Under the assumption that P≠NP, the existence of problems within NP but outside both P and NP-complete was established by Ladner.[1]]]

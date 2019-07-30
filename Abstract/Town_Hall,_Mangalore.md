@@ -1,1 +1,0 @@
-TOWN HALL of Mangalore, inaugurated on 29 December 1964 is a Town Hall situated in Hampankatta locality of Mangalore, Karnataka which is a prominent platform for all major social, political and cultural events in the city.[1]

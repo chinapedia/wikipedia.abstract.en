@@ -1,1 +1,0 @@
-ELLA MAE ROMIG (1871–1936) was the wife of Moravian missionary Joseph Herman Romig. Using her nursing skills, Romig ran the Moravian mission, including clinical services except surgery, in Bethel, Alaska alone and with her husband when he was not at remote missions.

@@ -1,1 +1,0 @@
-_A GHOST STORY_ is a 2017 American supernatural drama film written and directed by David Lowery. It stars Casey Affleck, Rooney Mara, Will Oldham, Sonia Acevedo, Rob Zabrecky, and Liz Franke. Affleck plays a man who becomes a ghost and remains in the house he shares with his wife (Mara).

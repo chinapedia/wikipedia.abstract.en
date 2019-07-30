@@ -1,1 +1,0 @@
-NEW YORK'S 3RD STATE SENATE DISTRICT is one of 63 districts of the New York State Senate. It has been represented by Democratic Senator Monica Martinez since 2019. She succeeded former Republican Senator Thomas Croci, who served from 2015 until his retirement in 2018.

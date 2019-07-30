@@ -1,1 +1,0 @@
-RYAN HODIERNE (born 1983) is a South African sports scientist. A biomechanist with the Sports Science Centre at Singapore Sports Institute, Hodierne is one of the unsung heroes to whom Joseph Schooling paid tribute for his 2016 Summer Olympics success, including the nutritionist Kirsty Fairbairn and high performance manager Sonya Porter.[1]

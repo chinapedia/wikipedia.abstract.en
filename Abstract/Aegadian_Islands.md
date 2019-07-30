@@ -1,1 +1,0 @@
-Aegadian_Islands_map.png Mare_Favignana.JPG

@@ -1,1 +1,0 @@
-LILY FRANCES "LAL" CHITTY, (20 March 1893 – 8 February 1979) was a British archaeologist and independent scholar, who specialised in the prehistoric archaeology of Wales and the west of England. She has been described as one of the "pioneers in the mapping of archaeological data".[1]

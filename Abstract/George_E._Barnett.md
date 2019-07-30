@@ -1,1 +1,0 @@
-GEORGE ERNEST BARNETT (February 19, 1873 – June 17, 1938) was an American economist. He was a Professor of Economics at Johns Hopkins University from 1911 to 1938. In 1932, he served as President of the American Economic Association.[1]

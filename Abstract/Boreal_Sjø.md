@@ -1,1 +1,0 @@
-BOREAL SJØ AS (formerly BOREAL TRANSPORT NORD AS and VEOLIA TRANSPORT NORD AS) is a subsidiary of Boreal Norge, operating road ferries and fast ferries in Finnmark, Nordland and Troms. The headquarters are located in Hammerfest, Finnmark.[1]

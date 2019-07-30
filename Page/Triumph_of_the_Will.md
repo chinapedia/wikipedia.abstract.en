@@ -54,8 +54,6 @@ The film follows a script similar to _Der Sieg des Glaubens_, which is evident w
 
 Riefenstahl had the difficult task of condensing an estimated 61 hours of film into two hours. She labored to complete the film as fast as she could, going so far as to sleep in the editing room filled with hundreds of thousands of feet of film footage.
 
-Bundesarchiv_Bild_183-R99035,_Adolf_Hitler_und_Leni_Riefenstahl_crop.jpg Bundesarchiv_Bild_183-2004-0312-503,_Nürnberg,_Reichsparteitag,_Marsch_der_Wehrmacht.jpg
-
 
 Themes
 
@@ -86,7 +84,7 @@ Hitler's speeches
 
 Among the themes presented, the desire for pride in Germany and the purification of the German people is well exemplified through the speeches and ideals of the Third Reich in _Triumph of the Will_.
 
-Bundesarchiv_Bild_102-04062A,_Nürnberg,_Reichsparteitag,_SA-_und_SS-Appell.jpg leader Heinrich Himmler, Adolf Hitler, and SA leader Viktor Lutze (from L to R) on the stone terrace in front of the _Ehrenhalle_ (Hall of Honour) in the Luitpoldarena. In the background is the crescent-shaped _Ehrentribüne_ (literally: tribune of honour).]]
+leader Heinrich Himmler, Adolf Hitler, and SA leader Viktor Lutze (from L to R) on the stone terrace in front of the _Ehrenhalle_ (Hall of Honour) in the Luitpoldarena. In the background is the crescent-shaped _Ehrentribüne_ (literally: tribune of honour).]]
 
 In every speech given and shown in _Triumph of the Will_, pride is one of the major focuses. Hitler advocates to the people that they should not be satisfied with their current state and they should not be satisfied with the descent from power and greatness Germany has endured since World War I. The German people should believe in themselves and the movement that is occurring in Germany. Hitler promotes pride in Germany through the unification of it. Unifying Germany would force the elimination of what does not amount to the standards of the Nazi regime.
 
@@ -108,7 +106,7 @@ One of the best ways to gauge the response to _Triumph of the Will_ was the inst
 
 Controversy
 
-Julius_Streicher_72-920_crop.jpg in custody in 1945]] Like American filmmaker D. W. Griffith's _The Birth of a Nation_, _Triumph of the Will_ has been criticized as a use of spectacular filmmaking to promote a profoundly unethical system. In her defense, Riefenstahl claimed that she was naïve about the Nazis when she made it and had no knowledge of Hitler's genocidal or anti-semitic policies. She also pointed out that _Triumph of the Will_ contains "not one single anti-semitic word", although it does contain a veiled comment by Julius Streicher, the notorious Jew-baiter (who was hanged after the Nuremberg trials), that "a people that does not protect its racial purity will perish".
+in custody in 1945]] Like American filmmaker D. W. Griffith's _The Birth of a Nation_, _Triumph of the Will_ has been criticized as a use of spectacular filmmaking to promote a profoundly unethical system. In her defense, Riefenstahl claimed that she was naïve about the Nazis when she made it and had no knowledge of Hitler's genocidal or anti-semitic policies. She also pointed out that _Triumph of the Will_ contains "not one single anti-semitic word", although it does contain a veiled comment by Julius Streicher, the notorious Jew-baiter (who was hanged after the Nuremberg trials), that "a people that does not protect its racial purity will perish".
 
 However, Roger Ebert has observed that for some, "the very absence of anti-semitism in _Triumph of the Will_ looks like a calculation; excluding the central motif of almost all of Hitler's public speeches must have been a deliberate decision to make the film more efficient as propaganda."[24]
 
@@ -133,7 +131,7 @@ Hitler proposed his own "artistic" compromise where _Triumph of the Will_ would 
 
 Influences and legacy
 
-Dictator_charlie2.jpg as Adenoid Hynkel in _The Great Dictator_]] _Triumph of the Will_ remains well known for its striking visuals. As one historian notes, "many of the most enduring images of the [Nazi] regime and its leader derive from Riefenstahl's film."[28]
+as Adenoid Hynkel in _The Great Dictator_]] _Triumph of the Will_ remains well known for its striking visuals. As one historian notes, "many of the most enduring images of the [Nazi] regime and its leader derive from Riefenstahl's film."[28]
 
 Extensive excerpts of the film were used in Erwin Leiser's documentary _Mein Kampf_, produced in Sweden in 1960. Riefenstahl unsuccessfully sued the Swedish production company Minerva-Film for copyright violation, although she did receive forty thousand marks in compensation from German and Austrian distributors of the film.[29]
 

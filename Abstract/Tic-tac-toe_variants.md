@@ -1,1 +1,0 @@
-Three-board_Notakto.svg Tic-tac-toe is an instance of an m,n,k-game, where two players alternate taking turns on an _m_×_n_ board until one of them gets _k_ in a row.[1] Harary's generalized tic-tac-toe is an even broader generalization. The game can also be generalized as a n^(d) game.[2]

@@ -1,1 +1,0 @@
-ERICH GRITZNER (7 April 1874, in Berlin – 10 November 1963, in Dresden) was a German heraldist, genealogist and sigillographer, known for his research of German nobility. He was the son of heraldist Maximilian Gritzner (1843–1902).

@@ -1,1 +1,0 @@
-MONTE SANTO ANTÓNIO is a mountain in the southwestern part of the island Boa Vista in Cape Verde. At elevation,[1] it is the island's second highest point. Like Rocha Estância and Monte Estância, it rises steeply from the surrounding plains. It is part of a protected natural area under the statute of _natural monument_,[2] covering .[3][4]

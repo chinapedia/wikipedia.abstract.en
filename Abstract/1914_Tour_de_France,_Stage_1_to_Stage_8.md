@@ -1,1 +1,0 @@
-Tour_de_France_1914_map-fr.svg The 1914 Tour de France was the 12th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris on 28 June and Stage 8 occurred on 12 July with a flat stage to Marseille. The race finished in Paris on 26 July.

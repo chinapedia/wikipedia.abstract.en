@@ -1,1 +1,0 @@
-The TURKIC LANGUAGES are a group of languages spoken across Eastern Europe, the Middle East, Central Asia and Siberia. Turkic languages are spoken as native languages by some 170 million people. The following is a list of said languages by subfamily:

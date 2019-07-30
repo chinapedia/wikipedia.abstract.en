@@ -1,1 +1,0 @@
-_HOW TO MAKE AN AMERICAN QUILT_ is the debut novel of Whitney Otto. The novel tells the intersecting stories of several generations of women who together are part of the same quilting circle in Grasse, California. The novel was made into a movie of the same name in 1995 directed by Jocelyn Moorhouse and starring Winona Ryder as Finn Dodd.[1]

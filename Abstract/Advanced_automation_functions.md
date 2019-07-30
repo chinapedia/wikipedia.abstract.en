@@ -1,1 +1,0 @@
-In automation production technology the actions performed by an automated process are executed by a program of instructions which is run during a work cycle. To execute work cycle programs, an automated system should be available to execute these advanced functions.

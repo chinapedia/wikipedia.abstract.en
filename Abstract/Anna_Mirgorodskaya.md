@@ -1,1 +1,0 @@
-ANNA MIRGORODSKAYA (born March 13, 1980) is a former Ukrainian artistic gymnast. She competed at the 1995 World Artistic Gymnastics Championships, the 1996 European Women's Artistic Gymnastics Championships and the 1996 Summer Olympics.[1]

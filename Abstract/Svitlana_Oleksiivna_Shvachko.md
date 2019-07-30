@@ -1,1 +1,0 @@
-Professor SVITLANA OLEKSIIVNA SHVACHKO (Ukrainian СВІТЛАНА ОЛЕКСІЇВНА ШВАЧКО; born 25 November 1935) is an academician of the Academy of Higher school of Ukraine and a Professor of the Department of Germanic Philology in Sumy State University.

@@ -1,1 +1,0 @@
-WHEELER AIRLINES was the operating name of WHEELER FLYING SERVICE (WHAA), a historically significant company because it was the first black-owned airline certificated in the USA by the FAA and it helped integrate the pilots at major US air carriers by qualifying a large number of black pilots that were subsequently hired by the nation’s major airlines.

@@ -1,1 +1,0 @@
-The HOUSTON TEXANS are a professional American football team based in Houston, Texas. The Texans compete in the National Football League (NFL) as a member club of the American Football Conference (AFC) South division. The team plays its home games at NRG Stadium.

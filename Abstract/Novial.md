@@ -1,1 +1,0 @@
-NOVIAL [_nov-_ ("new") + _IAL, International Auxiliary Language_] is a constructed international auxiliary language (IAL) for universal communication between speakers of different native languages. It was devised by Otto Jespersen, a Danish linguist who had been involved in the Ido movement, and later in the development of Interlingua de IALA.

@@ -1,1 +1,0 @@
-RASHA SHARBAJI, also SHURBAJI, CHORBAJI, () is a Syrian mother who was arrested together with her children when she went to get a passport, as a means of putting pressure on her husband.[1] Sharbaji's husband died in 2014 while attempting to migrate to Europe.[2]

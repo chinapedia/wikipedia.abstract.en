@@ -1,1 +1,0 @@
-ABDUL NAWAZ BUGTI is a Baloch human rights activist and representative of Baloch Republican Party at the United Nations Human Rights Council.[1] He has been representing Balochistan during the regular sessions of the UNHRC, held every March, June and September every year.

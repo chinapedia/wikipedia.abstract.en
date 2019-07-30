@@ -1,1 +1,0 @@
-_TANGANYIKA_ (subtitled _MODERN AFRO-AMERICAN JAZZ_) is an album by multi-instrumentalist and composer Buddy Collette recorded at sessions in late 1956 and released on Johnny Otis' short-lived Dig label.[1][2]

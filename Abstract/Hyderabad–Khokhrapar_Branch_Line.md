@@ -1,1 +1,0 @@
-HYDERABAD–KHOKHRAPAR BRANCH LINE (, ) is one of several branch lines in Pakistan, operated and maintained by Pakistan Railways. The line begins from Kotri Junction station and ends at Zero Point station. The total length of this railway line is . There are 23 railway stations from Kotri Junction to Zero Point.[1]

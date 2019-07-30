@@ -1,1 +1,0 @@
-Kusum_Sarovar,_Govardhan.jpg

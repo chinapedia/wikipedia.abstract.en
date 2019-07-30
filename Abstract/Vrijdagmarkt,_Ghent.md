@@ -1,1 +1,0 @@
-The_Friday_Square_-_Ghent,_Belgium_-_panoramio.jpg in the middle of the square.]] Gent_Vrijdag_002.JPG VRIJDAGMARKT (; ) is a city square in the historic center of Ghent, Belgium. It is named after the weekly tradition to stage a market every Friday morning. As one of the oldest squares in Ghent, it played an important role in the city's history.[1]

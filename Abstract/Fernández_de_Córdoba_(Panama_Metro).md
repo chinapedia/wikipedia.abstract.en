@@ -1,1 +1,0 @@
-FERNÁNDEZ DE CÓRDOBA is a Panama Metro station on Line 1. The tunnels to the station were completed in August 2012[1] and it was one of the first 11 stations when the metro began operations on 6 April 2014.[2]

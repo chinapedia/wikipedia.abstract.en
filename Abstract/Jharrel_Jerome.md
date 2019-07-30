@@ -1,1 +1,0 @@
-JHARREL JEROME (born October 9, 1997) is a Dominican American actor. He is best known for his roles as young Kevin in Barry Jenkins' drama film _Moonlight_ (2016) and as Korey Wise in Ava DuVernay's Netflix miniseries _When They See Us_ (2019).[1] For the latter, he received a nomination for the Primetime Emmy Award for Outstanding Lead Actor in a Limited Series or Movie.

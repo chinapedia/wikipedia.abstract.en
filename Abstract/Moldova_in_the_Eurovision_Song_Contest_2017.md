@@ -1,1 +1,0 @@
-MOLDOVA participated in the EUROVISION SONG CONTEST 2017. The artist and song that would represent Moldova in the 2017 contest was selected through the national final, _O melodie pentru Europa 2017_, organised by the Moldovan broadcaster TeleRadio-Moldova (TRM), on 25 February 2017.

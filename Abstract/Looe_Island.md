@@ -1,1 +1,0 @@
-Looe_island.jpg LOOE ISLAND (, meaning _island of the monk's enclosure_), also known as ST GEORGE'S ISLAND, and historically ST MICHAEL'S ISLAND is a small island a mile from the mainland town of Looe off Cornwall, England.

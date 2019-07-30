@@ -1,1 +1,0 @@
-CHENEY is an unincorporated community in Douglas County, in the Ozarks of southern Missouri.[1] The community was located on Missouri Route C approximately one mile north of Evans on Missouri Route 14.[2]

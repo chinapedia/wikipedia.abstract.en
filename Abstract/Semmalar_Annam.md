@@ -1,1 +1,0 @@
-SEMMALAR ANNAM K is an Indian film actress who rose to fame with the critically acclaimed Tamil drama film _Ammani_ (2016) directed by Lakshmy Ramakrishnan. She has also directed and acted in more than fifteen short films during her studies at college. Semmalar is well known for her street plays performed at Coimbatore for many social and environmental causes.[1]

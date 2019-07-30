@@ -1,1 +1,0 @@
-JONATHAN BEPLER (born 1959) is an American composer of experimental music perhaps best known for his collaborative work with artists and choreographers, including 20 years of work with visual artist Matthew Barney. He is also multi-instrumentalist, singer, installation artist, and teacher.

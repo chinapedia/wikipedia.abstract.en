@@ -1,1 +1,0 @@
-Muhammad Ali and Richard Dunn fought a boxing match on May 24, 1976. Ali won the bout by knocking out Dunn in the fifth round. The fight is remembered for being the very last time Ali would knock down any opponent in the ring in his boxing career.[1][2][3][4][5][6]

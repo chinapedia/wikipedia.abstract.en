@@ -1,1 +1,0 @@
-__NOTOC__ KOHINOOR is a locality in the Australian state of South Australia located on Kangaroo Island about south-west of the state capital of Adelaide and about south-east of the municipal seat of Kingscote.[1][2]

@@ -1,1 +1,0 @@
-NIALL KEARNEY (born 10 March 1988) is an Irish professional golfer. Kearney enjoyed a successful amateur career, playing in the 2009 Walker Cup. He won the Irish PGA Championship in 2014 and 2015. He played in the 2015 PGA Cup and, in the last singles match, holed an 8-foot putt to win his match and give Great Britain and Ireland their first PGA Cup victory in America.[1]

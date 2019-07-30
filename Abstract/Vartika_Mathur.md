@@ -1,1 +1,0 @@
-Dr_Vartika_Mathur_.jpg

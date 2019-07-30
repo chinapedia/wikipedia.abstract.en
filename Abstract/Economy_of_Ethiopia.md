@@ -1,1 +1,0 @@
-The ECONOMY OF ETHIOPIA is a mixed and transition economy with a large public sector. The Ethiopian government is in the process of privatizing many of the state-owned businesses and moving toward a market economy.[1] However, the banking, telecommunication and transportation sectors of the economy are dominated by government-owned companies.[2][3]

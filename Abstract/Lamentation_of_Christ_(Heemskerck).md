@@ -1,1 +1,0 @@
-_LAMENTATION OF CHRIST_ is a circa 1540 panel painting of the common subject of the Lamentation of Christ by the Dutch Renaissance painter Maarten van Heemskerck in the Museum of Fine Arts, Budapest.[1]

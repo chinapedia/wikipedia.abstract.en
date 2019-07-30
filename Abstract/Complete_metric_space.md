@@ -1,1 +1,0 @@
-In mathematical analysis, a metric space _M_ is called COMPLETE (or a CAUCHY SPACE) if every Cauchy sequence of points in _M_ has a limit that is also in _M_ or, alternatively, if every Cauchy sequence in _M_ converges in _M_.

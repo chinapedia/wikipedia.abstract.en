@@ -1,1 +1,0 @@
-Southcentral_Alaska_Stub.png

@@ -1,1 +1,0 @@
-_MIMOSA_ is a genus of about 400 species of herbs and shrubs, in the mimosoid clade of the legume family Fabaceae. The generic name is derived from the Greek word (_mimos_), an "actor" or "mime," and the feminine suffix –_osa_, "resembling", suggesting its 'sensitive leaves' which seem to 'mimic conscious life'.[1][2]

@@ -1,1 +1,0 @@
-_CLIMA_ (meaning _Climate_ in English) was a cultural magazine published in Sao Paulo, Brazil.[1] Ismail Xavier argues that although it existed just for three years from 1941 to 1944, the magazine significantly influenced cultural criticism in Brazil.[2]

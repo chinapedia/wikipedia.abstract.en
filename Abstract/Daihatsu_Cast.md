@@ -1,1 +1,0 @@
-The is a kei car built by the Japanese manufacturer Daihatsu since 2015. It comes in three variations designated "_Activa_", "_Style_" and "_Sport_". Each can be equipped with either front-wheel-drive or four-wheel-drive configuration.[1]

@@ -1,1 +1,0 @@
-DALAI LAMA (, ;[1][2] Standard Tibetan: , , ) is a title given by the Tibetan people for the foremost spiritual leader of the Gelug or "Yellow Hat" school of Tibetan Buddhism, the newest of the classical schools of Tibetan Buddhism.[3] The 14th and current Dalai Lama is Tenzin Gyatso.

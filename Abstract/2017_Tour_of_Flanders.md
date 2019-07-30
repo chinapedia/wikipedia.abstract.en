@@ -1,1 +1,0 @@
-The 2017 TOUR OF FLANDERS () was the 101st edition of the Tour of Flanders, a one-day cycling classic, that took place on 2 April 2017. It was the second monument race of the 2017 cycling season and the thirteenth event of the 2017 UCI World Tour.[1][2] The race marked the pinnacle of the Flemish Cycling Week.

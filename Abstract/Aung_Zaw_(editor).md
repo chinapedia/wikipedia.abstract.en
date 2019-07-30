@@ -1,1 +1,0 @@
-AUNG ZAW, (ca. 1968), is a Burmese journalist, editor, and founder of major publishing media _The Irrawaddy_. He was jailed and tortured at the age of 20, then covertly escaped his home country after he began protesting the governments socialist military regime during the 8888 Uprising.[1] His news magazine reported on event later during the Saffron Revolution.[2]

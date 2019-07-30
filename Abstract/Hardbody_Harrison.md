@@ -1,1 +1,0 @@
-HARRISON NORRIS JR. (born August 22, 1966), is an American Gulf War U.S. Army veteran,[1] retired professional wrestler and former 2001 Toughman heavyweight champion, best known by his ring name HARDBODY HARRISON.[2] In 2007, he was sentenced to life in prison for his part in a sex trafficking and forced labor ring.[3]

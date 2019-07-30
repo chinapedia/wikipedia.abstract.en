@@ -1,1 +1,0 @@
-MANGALORE CITY NORTH (Previously SURATHKAL) is one of the Karnataka Legislative Assembly or Vidhan Sabha constituency in Karnataka.[1] Mangalore South is part of Dakshina Kannada Lok Sabha constituency along with seven other Vidhan Sabha segments, namely: 201. Moodabidri, 203. Mangalore City South, 204. Mangalore, 205. Bantval, 206. Puttur and 207. Sullia.

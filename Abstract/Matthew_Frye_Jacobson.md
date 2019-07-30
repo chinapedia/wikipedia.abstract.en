@@ -1,1 +1,0 @@
-MATTHEW FRYE JACOBSON is a historian whose research concerns politics and race in all eras of American history. He is the William Robertson Coe Professor of American Studies & History and a professor of African American Studies at Yale University. From 2012–2013 he was president of the American Studies Association.

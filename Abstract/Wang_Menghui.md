@@ -1,1 +1,0 @@
-WANG MENGHUI (; born January 1960) is a Chinese politician, and the current Minister of Housing and Urban-Rural Development. Among other roles, he has served as party chief of Xiamen, and party chief of Shenyang.

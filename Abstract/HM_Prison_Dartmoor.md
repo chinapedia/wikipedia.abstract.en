@@ -1,1 +1,0 @@
-HM_Dartmoor_Prison.jpg HM PRISON DARTMOOR is a Category C men's prison, located in Princetown, high on Dartmoor in the English county of Devon. Its high granite walls dominate this area of the moor. The prison is owned by the Duchy of Cornwall, and is operated by Her Majesty's Prison Service.

@@ -11,7 +11,7 @@ The next important step was taken in October 1869, when the Stockholm University
 
 In 1878, the university college _Stockholms högskola_ started its operations with a series of lectures on natural sciences, open to curious citizens (a tradition still upheld by yearly publicly open lectures). Notable in the university's early history is the appointment of Sofia Kovalevskaya to hold a chair in mathematics department in 1889, making her the third female professor in Europe. In 1904 the college became an official degree granting institution.
 
-Experimentalfältet_(Fredrik_Bloms_hus).jpg's house at Experimentalfältet. now used for the central administration of Stockholm University]] In 1960, the college was granted university status, becoming Sweden's fourth state university. The university premises were situated in central Stockholm at _Observatorielunden_ but increased enrollment resulted in a lack of space, which required the university campus to be shifted to a bigger facility. Since 1970 most of the university operations are pursued at the main campus at Frescati north of the city center, the former Experimentalfältet, previously used by the Royal Swedish Academy of Agriculture and Forestry.
+'s house at Experimentalfältet. now used for the central administration of Stockholm University]] In 1960, the college was granted university status, becoming Sweden's fourth state university. The university premises were situated in central Stockholm at _Observatorielunden_ but increased enrollment resulted in a lack of space, which required the university campus to be shifted to a bigger facility. Since 1970 most of the university operations are pursued at the main campus at Frescati north of the city center, the former Experimentalfältet, previously used by the Royal Swedish Academy of Agriculture and Forestry.
 
 
 Organisation
@@ -69,11 +69,11 @@ Notable people
 
 Academics
 
--   Svante Arrhenius, 1903 Nobel Prize in Chemistry NobelPrizeMedal.jpg
--   Hans von Euler-Chelpin, 1929 Nobel Prize in Chemistry NobelPrizeMedal.jpg
--   George de Hevesy, 1943 Nobel Prize in Chemistry NobelPrizeMedal.jpg
--   Paul Crutzen, 1995 Nobel Prize in Chemistry NobelPrizeMedal.jpg
--   Tomas Tranströmer, 2011 Nobel Prize in Literature NobelPrizeMedal.jpg
+-   Svante Arrhenius, 1903 Nobel Prize in Chemistry
+-   Hans von Euler-Chelpin, 1929 Nobel Prize in Chemistry
+-   George de Hevesy, 1943 Nobel Prize in Chemistry
+-   Paul Crutzen, 1995 Nobel Prize in Chemistry
+-   Tomas Tranströmer, 2011 Nobel Prize in Literature
 -   Gunnar Myrdal, economist, sociologist and politician. Received the Nobel Memorial Prize in Economic Sciences in 1974
 -   Hans Bielenstein, sinologist.
 -   Bert Bolin, meteorologist. First chairman, Intergovernmental Panel on Climate Change (IPCC)

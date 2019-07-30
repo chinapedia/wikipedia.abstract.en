@@ -1,1 +1,0 @@
-BlueMarble-2001-2002.jpg, the home to marine life. Oceans average nearly four kilometres in depth and are fringed with coastlines that run for 360,000 kilometres.[1][2]|alt=Two views of the ocean from space]]

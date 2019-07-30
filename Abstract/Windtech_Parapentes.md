@@ -1,1 +1,0 @@
-WINDTECH PARAPENTES () is a Spanish aircraft manufacturer based in Gijón and founded in 1994. The company specializes in the design and manufacture of paragliders in the form of ready-to-fly aircraft, as well as rescue parachutes.[1]

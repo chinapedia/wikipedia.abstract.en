@@ -1,1 +1,0 @@
-ADRIAN STEPHEN BRETON (4 October 1962 – 11 June 2007) was a British sports shooter from Guernsey. He competed at the 1988 and 1992 Summer Olympics.[1] He also competed in the Commonwealth Games, winning a gold, silver and bronze medal.

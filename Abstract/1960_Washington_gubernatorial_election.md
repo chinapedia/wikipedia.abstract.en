@@ -1,1 +1,0 @@
-The WASHINGTON GUBERNATORIAL ELECTION OF 1960 took place on November 8, 1960, between incumbent Democratic governor Albert D. Rosellini and State Superintendent of Public Instruction Lloyd J. Andrews, nominated by the Republican Party.

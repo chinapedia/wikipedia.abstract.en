@@ -1,1 +1,0 @@
-KAMMALAMPATTY village is located in Harur Taluk of Dharmapuri district in Tamil Nadu, India. It is situated 5 km away from sub-district headquarter Harur and 46 km away from district headquarter Dharmapuri. As per 2009 stats, Ellapudayampatty is the gram panchayat of Kammalampatty village.

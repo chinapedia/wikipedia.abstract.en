@@ -1,1 +1,0 @@
-SHAGHAB (died 933) was the mother of the eighteenth Abbasid Caliph al-Muqtadir (), and wielded a considerable influence over state affairs during the reign of her son. She was commonly referred to only as UMM AL-MUQTADIR (mother of al-Muqtadir) or AL-SAYYIDA (the lady).

@@ -1,1 +1,0 @@
-Mary_Cassatt_-_Woman_with_a_Pearl_Necklace.jpg

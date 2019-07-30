@@ -1,1 +1,0 @@
-PARLIAMENTARY ELECTIONS were held in Slovenia on 3 June 2018.[1][2] The elections were originally expected to be held on 10 June 2018, but after the resignation of Prime Minister Miro Cerar on 14 March 2018 all parties called for snap elections. They were the third consecutive snap elections after 2011 and 2014.

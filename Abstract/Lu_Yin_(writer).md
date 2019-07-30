@@ -1,1 +1,0 @@
-LU YIN (1899–1934) was a 20th-century Chinese writer. Her books are not happy and they discuss the position of women in China in her stories. She was very well known in the 1920s and is best known for her novel _The Ivory Ring_. Bing Xin, Lin Huiyin and Lu Yin have been called the "three talented women in Fuzhou".

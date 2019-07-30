@@ -1,1 +1,0 @@
-Saint BRUNO OF QUERFURT ( 974 – 14 February 1009 AD), also known as _Brun_ and _Boniface_, was a Christian missionary bishop and martyr, who was beheaded near the border of Kievan Rus and Lithuania for trying to spread Christianity. He is also called the second "Apostle of the Prussians".

@@ -1,1 +1,0 @@
-The TEFÉ NATIONAL FOREST () is a national forest in Amazonas, Brazil. It protects a relatively well-preserved area of Amazon rainforest to the south of the town of Tefé on the Solimões River (upper Amazon River). The resident population, scattered in small communities along the rivers, are engaged in sustainable farming, fishing and extraction of forest products.

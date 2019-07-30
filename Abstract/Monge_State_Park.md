@@ -1,1 +1,0 @@
-The MONGE STATE PARK () is a state park in the state of Paraná, Brazil. It is named after a monk, or monks, who was said to have lived in a cave in the park for a while. The cave is now a pilgrimage destination for the monk's devotees.

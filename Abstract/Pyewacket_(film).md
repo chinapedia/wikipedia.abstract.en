@@ -1,1 +1,0 @@
-_PYEWACKET_ is a 2017 Canadian horror thriller film written and directed by Adam MacDonald. It stars Laurie Holden and Nicole Muñoz.[1] It was screened in the Contemporary World Cinema section at the 2017 Toronto International Film Festival.[2]

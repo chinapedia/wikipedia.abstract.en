@@ -1,1 +1,0 @@
-HARRY A. MERLO (March 5, 1925 – October 24, 2016) was an American businessman and philanthropist in the state of Oregon. A native of California, he was chief executive of then Fortune 500 company Louisiana-Pacific after it was divested by forest products company Georgia-Pacific, which were both then headquartered in Portland, Oregon.

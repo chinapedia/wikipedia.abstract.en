@@ -1,1 +1,0 @@
-This is a list of the marine Mollusca Bivalvia recorded from Ireland. It is part of the List of marine molluscs of Ireland. The list includes species from the Continental Margin Zone (200 - 500m); Bathyal (500 - 2000m); Abyssal Rise (2000 - 4000m) ; Rockall Basin and Porcupine Seabight, Celtic Sea,

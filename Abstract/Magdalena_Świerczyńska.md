@@ -1,1 +1,0 @@
-MAGDALENA ŚWIERCZYŃSKA (born 4 April 1998) is a Polish badminton player.[1] Świerczyńska trained at the Baranowo, and was the bronze medalist at the 2017 European Junior Championships in the mixed doubles event partnered with Paweł Śmiłowski.[2] She won her first senior international title at the 2017 Slovak Open in the mixed doubles event.[3]

@@ -1,1 +1,0 @@
-Burkina_Faso_Map.jpg LocationBurkinaFaso.svg Burkina_Faso_Topography.png

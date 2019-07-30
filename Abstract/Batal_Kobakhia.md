@@ -1,1 +1,0 @@
-BATAL KOBAKHIA (born 18 August 1955, Sukhumi, Georgia) is an Abkhaz archaeologist and public figure; The deputy of 4th convocation (2007-2012),[1][2] chairman of the committee for Human Rights and Rule of Law.

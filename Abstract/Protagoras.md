@@ -1,1 +1,0 @@
-PROTAGORAS (; ; )[1] was a pre-Socratic Greek philosopher. He is numbered as one of the sophists by Plato. In his dialogue _Protagoras_, Plato credits him with inventing the role of the professional sophist.

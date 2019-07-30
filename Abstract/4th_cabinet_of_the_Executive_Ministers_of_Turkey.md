@@ -1,1 +1,0 @@
-Hüseyin_Rauf_Orbay.jpg The 4TH CABINET OF EXECUTIVE MINISTERS OF TURKEY (12 July 1922- 4 August 1923 ) was the fourth government formed by the nationalists during the Turkish War of Independence. The Republic was not yet proclaimed and the government was called _İcra vekilleri heyeti_ ("cabinet of executive ministers")

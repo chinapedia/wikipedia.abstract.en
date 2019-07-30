@@ -1,1 +1,0 @@
-_BAREFOOT TO GOA_ is a 2015 Indian Hindi drama film directed and produced by Praveen Morchhale. It narrates the story of two school-going kids living in Mumbai. Its release in India was crowdfunded through Morchhale's Proud Funding Campaign. It was released on 10 April 2015.

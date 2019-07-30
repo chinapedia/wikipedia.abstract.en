@@ -1,1 +1,0 @@
-ILIR BUTKA (1965) is a film director and producer. He graduated the Albanian Academy of Arts in Tirana, Albania. Currently he is serving as Chairman of the Albanian National Centre of Cinematography, the official institution representing the Albanian cinema.

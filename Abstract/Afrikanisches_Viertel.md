@@ -1,1 +1,0 @@
-Wedding_Nachtigalplatz-2.jpg]] The _AFRIKANISCHES VIERTEL_ () is a neighborhood in Wedding, a locality of Mitte, Berlin, Germany. It is bounded by Müllerstraße, Seestraße, Volkspark Rehberge, Goethepark, and the border with the neighboring borough of Reinickendorf.

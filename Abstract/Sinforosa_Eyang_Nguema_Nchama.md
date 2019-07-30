@@ -1,1 +1,0 @@
-SINFOROSA EYANG NGUEMA NCHAMA (born 26 April 1994),[1] better known as MIREY,[2] is an Equatoguinean football manager and former player who coaches Deportivo Evinayong in the Equatoguinean women's league.[3]

@@ -1,1 +1,0 @@
-The MILITARY CATHEDRAL OF ST. MARY QUEEN OF PEACE[1] () Also MILITARY CATHEDRAL OF BRASÍLIA Is a Roman Catholic temple in the city of Brasilia,[2][3] the capital of the South American country of Brazil.[4]

@@ -1,1 +1,0 @@
-The 2017 TOUR OF THE BASQUE COUNTRY was a road cycling stage race that took place between 3 and 8 April. It was the 57th edition of the Tour of the Basque Country and was the fourteenth event of the 2017 UCI World Tour.[1][2]

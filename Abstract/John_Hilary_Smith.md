@@ -1,1 +1,0 @@
-JOHN HILARY SMITH (born 1928) is a British colonial administrator. Smith was the last governor of the united Gilbert and Ellice Islands before it was divided into Tuvalu and what later became Kiribati.

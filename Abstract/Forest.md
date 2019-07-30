@@ -1,1 +1,0 @@
-Swiss_National_Park_131.JPG in the Swiss Alps (National Park)]] Adirondacks_in_May_2008.jpg of Upstate New York form the southernmost part of the Eastern forest-boreal transition ecoregion.]] Zall_Dajti.jpg, Albania]] Rain_Forest_in_KLIA.jpg

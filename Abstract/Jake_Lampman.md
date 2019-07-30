@@ -1,1 +1,0 @@
-JAKE LAMPMAN (born June 11, 1993) is an American football wide receiver who is currently a free agent. He played college football at Ferris State. He was signed by the New Orleans Saints as an undrafted free agent after the 2016 NFL Draft.

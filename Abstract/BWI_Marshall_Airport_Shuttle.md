@@ -1,1 +1,0 @@
-The BWI MARSHALL AIRPORT SHUTTLE is a free bus service provided by Baltimore–Washington International Airport, that connects the airport terminal to BWI Rail Station. The free shuttle connects airport passengers to Amtrak and MARC trains, hence connecting the airport to Baltimore and Washington, D.C., as well as the rest of the Northeastern United States.

@@ -1,1 +1,0 @@
-Isracard_old_logo.svg ISRACARD () is an Israeli company that is made up of 4 different companies: Isracard LTD, Europay LTD, Aminit LTD and American Express Israel, which offers financial services - including credit card issuing, loans, credit solutions, and flexible payment options.

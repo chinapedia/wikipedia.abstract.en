@@ -1,1 +1,0 @@
-DIANTE WATKINS (born 5 July 1990) is an American professional basketball player, who currently plays for SOMB of the LNB Pro B. Watkins started his professional career for Nürnberg Falcons of the German ProA.[1]

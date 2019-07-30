@@ -1,1 +1,0 @@
-During the 1914–15 English football season, Brentford competed in the Southern League Second Division. The season began one month after Britain entered the First World War, which unsettled the squad as players left to undertake military or munitions duties. The Bees finished in mid-table in what would be the club's last season of competitive football until 1919–20.

@@ -1,1 +1,0 @@
-WILLIAM JOHN SUTTON (19 January 1859 – 9 May 1914) was a timberman, geologist, mineralogist, assayer, surveyor, lecturer, explorer, pioneer and promoter of Vancouver Island, British Columbia and stood twice in B.C. elections. William_John_Sutton_Savannah.jpg

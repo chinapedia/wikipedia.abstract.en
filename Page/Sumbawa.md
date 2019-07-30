@@ -9,8 +9,6 @@ The 14th-century Nagarakretagama mentioned several principalities identified to 
 
 For a short period of time, the Balinese kingdom of Gelgel ruled a part of western Sumbawa. The eastern parts of the island, on the other hand, were home to the Sultanate of Bima, an Islamic polity that had links to the Bugis and Makassar peoples of South Sulawesi, as well as other Malay-Islamic polities in the archipelago.
 
-Nl-HaNA_4.VEL_452_Noordkust_van_Sumbawa.jpg
-
 Historical evidence indicates that people on Sumbawa island were known in the East Indies for their honey, horses,[2] sappanwood, which is used to make red dye,[3] and sandalwood, which is used for incense and medications. The area was thought to be highly productive agriculturally.
 
 In the 18th century, the Dutch introduced coffee plantation on the western slopes of Mount Tambora, a volcano on the north side of Sumbawa, thus creating the Tambora coffee variant. Tambora's colossal eruption in 1815 was one of the most powerful of all time, ejecting of ash and debris into the atmosphere. The eruption killed up to 71,000 people and triggered a period of global cooling known as the "Year Without a Summer" in 1816. It also apparently destroyed a small culture of Papuan[4] affinity, known to archaeologists as the "Tambora culture".[5]
@@ -119,7 +117,7 @@ Newmont has been accused of being involved in scandals of mercury and arsenic po
 
 Transport
 
-PotoTanoHarbour.JPG There is a road network in Sumbawa, but it is poorly maintained and has long portions of rough gravel. Frequent ferry service to Sumbawa (Poto Tano) from Lombok (Labuhan Lombok) exists, however ferry service to Flores from Sape is infrequent. Bima is the largest city on Sumbawa and has ferry and bus service directly to Java and Bali, though service breakdowns are common.
+There is a road network in Sumbawa, but it is poorly maintained and has long portions of rough gravel. Frequent ferry service to Sumbawa (Poto Tano) from Lombok (Labuhan Lombok) exists, however ferry service to Flores from Sape is infrequent. Bima is the largest city on Sumbawa and has ferry and bus service directly to Java and Bali, though service breakdowns are common.
 
 The most convenient way to reach Sumbawa is via air. There are commercial flight service connected island's main airport, the Bima airport, to Denpasar and Makassar.
 

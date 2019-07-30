@@ -1,1 +1,0 @@
-013880_Wounded_Japanese_treated_after_final_attack_Gona.jpg

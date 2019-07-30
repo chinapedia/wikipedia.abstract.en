@@ -1,1 +1,0 @@
-The 1929 CAL AGGIES FOOTBALL TEAM represented the Northern Branch of the College of Agriculture[1] in the 1929 college football season.[2] The team was known as either the Cal Aggies or California Aggies, and competed in the Far Western Conference (FWC).[3]

@@ -1,1 +1,0 @@
-HORSE ISLAND _(Gaeilge: Oileán na gCapall)_ is a small inhabited island in Roaringwater Bay, County Cork, Ireland, that forms part of Carbery's Hundred Isles. No ferry service operates to and from the island, however there is a jetty and a small road on the island.

@@ -1,1 +1,0 @@
-VOLUME CARTOGRAPHY is the name of a computer program for locating and mapping 2-dimensional surfaces within a 3-dimensional object.[1] X-rays can reveal minute details of what is in an object,[2][3] and computer program such as Volume Cartography can organize the images into layers, a process called volume rendering.

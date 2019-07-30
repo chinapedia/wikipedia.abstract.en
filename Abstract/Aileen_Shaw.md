@@ -1,1 +1,0 @@
-AILEEN SHAW or NASH (born 21 May 1945)[1] is an Australian former figure skater. She won five Australian national titles, from 1958–59 to 1961–62 and 1963–64.[2] At the age of 14 years and 9 months, she competed at the 1960 Winter Olympics in Squaw Valley, California.[3]

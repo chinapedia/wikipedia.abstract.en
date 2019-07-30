@@ -1,1 +1,0 @@
-CARME SOLÉ VENDRELL (born Barcelona, 1944) is an award-winning Spanish illustrator and writer, mainly of children's books. Since 1968, she has illustrated more than a hundred books. She has also worked on television series such as _Víctor y María_. She was a Premi Nacional de Cultura laureate in 1979 and 2012.[1]

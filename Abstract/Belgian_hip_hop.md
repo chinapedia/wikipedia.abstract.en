@@ -1,1 +1,0 @@
-BELGIAN HIP HOP MUSIC has a few rappers stemming from Africa and Italy.[1] Belgium, like France, controlled African countries like the Democratic Republic of the Congo (formerly Zaire), Rwanda, and Burundi until the early 1960s. Like in France, immigrants from these countries started to study and live in Belgium.

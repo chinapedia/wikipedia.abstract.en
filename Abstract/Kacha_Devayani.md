@@ -1,1 +1,0 @@
-_KACHA DEVAYANI_ is a 1941 Indian Tamil language film produced and directed by K. Subramaniam. The film is based on a love story from Mahabharatha's Aadi parva and in Matsyapuranam[1] and featured Kothamangalam Seenu and T. R. Rajakumari on the lead roles. [2]

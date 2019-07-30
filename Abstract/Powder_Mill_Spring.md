@@ -1,1 +1,0 @@
-POWDER MILL SPRING is a spring in eastern Oregon County in the Ozarks of southern Missouri.[1] The spring lies on the west bank of the Eleven Point River approximately four miles north of the U.S. Route 160 crossing at Riverton.[2]

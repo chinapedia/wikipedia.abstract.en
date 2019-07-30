@@ -1,1 +1,0 @@
-The DUNA are an indigenous people of Papua New Guinea (also known as _Yuna_) who live in the north-western area of the Southern Highlands Province. They number approximately 11,000 (1991)[1] or 25,000 (2002)

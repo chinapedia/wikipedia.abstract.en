@@ -1,1 +1,0 @@
-BENJAMIN LAZAR DAVIS is a New York City–born American multi-instrumentalist, singer-songwriter, arranger, composer and producer. He is a member of several bands including Okkervil River and Cuddle Magic.[1] Davis attended New England Conservatory of Music.[2]

@@ -1,1 +1,0 @@
-THE BOOK OF OMNI ()[1] is one of the books that make up the Book of Mormon. The book contains only one chapter although it covers more than two centuries of Nephite history (from _ca_ 323 BC to 130 BC, according to footnotes).[2]

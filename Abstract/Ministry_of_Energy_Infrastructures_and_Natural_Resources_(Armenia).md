@@ -1,1 +1,0 @@
-The MINISTRY OF ENERGY INFRASTRUCTURES AND NATURAL RESOURCES OF THE REPUBLIC OF ARMENIA () is the ministry responsible for the management of the energy systems, and control of the exploitation of natural resources in Armenia. It elaborates and implements the policies of the Republic of Armenia Government in the energy sector.[1][2]

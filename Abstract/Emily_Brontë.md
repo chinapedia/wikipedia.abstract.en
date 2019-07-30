@@ -1,1 +1,0 @@
-EMILY JANE BRONTË (, commonly ;[1] 30 July 1818 – 19 December 1848)[2] was an English novelist and poet who is best known for her only novel, _Wuthering Heights_, now considered a classic of English literature. Emily was the third-eldest of the four surviving Brontë siblings, between the youngest Anne and her brother Branwell. She published under the pen name ELLIS BELL.

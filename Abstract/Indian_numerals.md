@@ -1,1 +1,0 @@
-INDIAN NUMERALS are the symbols representing numbers in India. These numerals are used in the context of the decimal Hindu–Arabic numeral system, and are distinct from, though related by descent to Arabic numerals.

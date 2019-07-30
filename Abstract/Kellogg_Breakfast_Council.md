@@ -1,1 +1,0 @@
-The KELLOGG BREAKFAST COUNCIL was an organization made up of nutrition experts, whose stated purpose on the Kellogg's cereal company website was to provide independent nutrition advice to the company.[1] Council members included a professor of nutrition, a pediatrician, as well as several dietitians.[2]

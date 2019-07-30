@@ -1,1 +1,0 @@
-In film, an INSERT is a shot of part of a scene as filmed from a different angle and/or focal length from the master shot. Inserts cover action already covered in the master shot, but emphasize a different aspect of that action due to the different framing. An insert differs from a cutaway as cutaways cover action _not_ covered in the master shot.[1][2][3]

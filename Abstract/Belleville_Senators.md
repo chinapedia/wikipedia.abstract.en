@@ -1,1 +1,0 @@
-The BELLEVILLE SENATORS are a professional ice hockey team in the American Hockey League (AHL) that began play in the 2017–18 season as the top minor league affiliate of the National Hockey League team, the Ottawa Senators. Based in Belleville, Ontario, Canada, the Senators play their home games at CAA Arena.

@@ -9,15 +9,13 @@ The human brain must also solve this problem in real time. In human perception t
 
 Applications
 
-Polyphonic_note_separation_&_manipulation.jpg
-
 Cocktail party problem
 
 At a cocktail party, there is a group of people talking at the same time. You have multiple microphones picking up mixed signals, but you want to isolate the speech of a single person. BSS can be used to separate the individual sources by using mixed signals. In the presence of noise, dedicated optimization criteria need to be used[2]
 
 Image processing
 
-BSS-example.png Figure 2 shows the basic concept of BSS. The individual source signals are shown as well as the mixed signals which are received signals. BSS is used to separate the mixed signals with only knowing mixed signals and nothing about original signal or how they were mixed. The separated signals are only approximations of the source signals. The separated images, were separated using Python and the Shogun toolbox using Joint Approximation Diagonalization of Eigen-matrices (JADE) algorithm which is based off independent component analysis, ICA.[3] This toolbox method can be used with multi-dimensions but for an easy visual aspect images(2-D) were used.
+Figure 2 shows the basic concept of BSS. The individual source signals are shown as well as the mixed signals which are received signals. BSS is used to separate the mixed signals with only knowing mixed signals and nothing about original signal or how they were mixed. The separated signals are only approximations of the source signals. The separated images, were separated using Python and the Shogun toolbox using Joint Approximation Diagonalization of Eigen-matrices (JADE) algorithm which is based off independent component analysis, ICA.[3] This toolbox method can be used with multi-dimensions but for an easy visual aspect images(2-D) were used.
 
 Medical imaging
 
@@ -43,7 +41,7 @@ Other applications:[6]
 
 Mathematical representation
 
-BSS-flow-chart.png The set of individual source signals, s(t) = (s₁(t), …, s_(n)(t))^(T), is 'mixed' using a matrix, A = [a_(ij)] ∈ ℝ^(m × n), to produce a set of 'mixed' signals, x(t) = (x₁(t), …, x_(m)(t))^(T), as follows. Usually, n is equal to m. If m > n, then the system of equations is overdetermined and thus can be unmixed using a conventional linear method. If n > m, the system is underdetermined and a non-linear method must be employed to recover the unmixed signals. The signals themselves can be multidimensional.
+The set of individual source signals, s(t) = (s₁(t), …, s_(n)(t))^(T), is 'mixed' using a matrix, A = [a_(ij)] ∈ ℝ^(m × n), to produce a set of 'mixed' signals, x(t) = (x₁(t), …, x_(m)(t))^(T), as follows. Usually, n is equal to m. If m > n, then the system of equations is overdetermined and thus can be unmixed using a conventional linear method. If n > m, the system is underdetermined and a non-linear method must be employed to recover the unmixed signals. The signals themselves can be multidimensional.
 
 x(t) = A ⋅ s(t)
 

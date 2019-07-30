@@ -1,1 +1,0 @@
-The WOMEN'S 4X400M RELAY athletics events for the 2016 Summer Paralympics took place at the Estádio Olímpico João Havelange at 08:24 on 16 September 2016. A total of one event was contested over this distance with each leg being run by one of the four different classifications, T53 and T54.[1]

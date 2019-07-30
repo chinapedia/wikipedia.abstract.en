@@ -1,1 +1,0 @@
-JAAN MAIDE, VR II/3 (30 May 1896 – 10 August 1945) was a senior Estonian Army officer who fought in World War I, the Estonian War of Independence and World War II. He was appointed Commander-in-Chief of the Estonian Military by Otto Tief's government in 1944.

@@ -1,4 +1,4 @@
-Hungarian_migration.png]] Sarkbric.jpg on some of the bricks from Sarkel]]
+]] on some of the bricks from Sarkel]]
 
 SARKEL (or SHARKIL, literally _white house_ in Khazar language)[1] was a large limestone-and-brick fortress in the present-day Rostov Oblast of Russia, on the left bank of the lower Don River.
 
@@ -23,7 +23,7 @@ Constantine Porphyrogenitus records in his work De Administrando Imperio that th
 
 History
 
-Principalities_of_Kievan_Rus'_(1054-1132).jpg The city served as a bustling commercial center, as it controlled the Volga-Don portage, which was used by the Rus to cross from the Black Sea to the Volga and thence to the Caspian and Baltic; the route was known as the "Khazarian Way". A garrison fortified at Sarkel included Oghuz and Pecheneg mercenaries.
+The city served as a bustling commercial center, as it controlled the Volga-Don portage, which was used by the Rus to cross from the Black Sea to the Volga and thence to the Caspian and Baltic; the route was known as the "Khazarian Way". A garrison fortified at Sarkel included Oghuz and Pecheneg mercenaries.
 
 Sarkel's fortress and city were captured by Kievan Rus' under prince Sviatoslav I in 965. The city was renamed BELAYA VEZHA (Slavic for _White Tower_ or _White Fortress_) and settled by Slavs. It remained Slavic until the 12th century, when the district was taken over by the Kipchaks.
 

@@ -1,1 +1,0 @@
-AGNES WICKFIELD is a character of _David Copperfield_, a novel by Charles Dickens. She is a friend and confidante of David (the narrator and protagonist of this semi-autobiography) since his childhood and at the end of the novel, his second wife. In Dickens' language, she is the "real heroine" of the novel.

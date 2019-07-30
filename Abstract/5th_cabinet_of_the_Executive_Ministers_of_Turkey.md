@@ -1,1 +1,0 @@
-Ali_Fethi_Okyar.jpg The 5TH CABINET OF EXECUTIVE MINISTERS OF TURKEY (14 August 1923- 27 October 1923 ) was the fifth government formed by the nationalists after the Turkish War of Independence. The Republic was not yet proclaimed and the government was called __ ("cabinet of executive ministers")

@@ -1,1 +1,0 @@
-NGAMTA "NATALIE" THAMWATTANA is a Thai mathematician who works in Australia as a Professor of Applied Mathematics at the University of Newcastle (Australia).[1] In 2014 she won the J. H. Michell Medal of ANZIAM for her "pioneering contributions in the areas of granular materials and nanotechnology".[2]

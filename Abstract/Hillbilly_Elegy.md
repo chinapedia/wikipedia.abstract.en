@@ -1,1 +1,0 @@
-_HILLBILLY ELEGY: A MEMOIR OF A FAMILY AND CULTURE IN CRISIS_ is a memoir by J. D. Vance about the Appalachian values of his Kentucky family and their relation to the social problems of his hometown of Middletown, Ohio, where his mother's parents moved when they were young.

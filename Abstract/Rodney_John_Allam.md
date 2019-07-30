@@ -1,1 +1,0 @@
-RODNEY JOHN ALLAM, MBE (born 1940 in St Helens, Lancashire)[1] is an English chemical engineer and fellow of the Institution of Chemical Engineers who is credited with inventions related to power generation, notably the Allam power cycle, which is a generation process for fossil fuels, with integrated carbon dioxide capture.[2][3][4]

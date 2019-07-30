@@ -1,1 +1,0 @@
-ASHISH KUMAR (born 10 December 1988) is an Indian cricketer.[1] He made his first-class debut for Jharkhand in the 2014–15 Ranji Trophy on 28 December 2014.[2] He made his List A debut for Jharkhand in the 2017–18 Vijay Hazare Trophy on 11 February 2018.[3]

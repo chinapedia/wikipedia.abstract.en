@@ -1,1 +1,0 @@
-BERTHE BADY (1872 – 1921) was a French actress of Belgian origin. She was the companion of Lugné-Poe and Henry Bataille. The fortunes she had won as an actress were devoted to her household with Bataille. Berthe died in isolation at Jouy-sur-Eure.

@@ -1,1 +1,0 @@
-FOREIGN RELATIONS OF TAJIKISTAN are based on a desire to secure foreign investment and promote regional security while ensuring Tajikistan's independence. Sirodjidin Aslov is the current Foreign Minister of Tajikistan.[1]

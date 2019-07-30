@@ -1,1 +1,0 @@
-ARTHUR WELLESLEY, 1ST DUKE OF WELLINGTON, (1 May 1769 – 14 September 1852) was an Anglo-Irish soldier and Tory statesman who was one of the leading military and political figures of 19th-century Britain, serving twice as Prime Minister. His victory against Napoleon at the Battle of Waterloo in 1815 puts him in the first rank of Britain's military heroes.

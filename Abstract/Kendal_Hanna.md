@@ -1,1 +1,0 @@
-KENDAL HANNA (born June 25, 1936)[1] is a painter and sculptor who is known as one of The Bahamas’ first abstract expressionist.[2] His works have been inspired by and compared to international artists and fellow abstractionists such as William de Kooning, Jackson Pollock, Hans Hoffman, Joan Miró and Mark Rothko.[3]

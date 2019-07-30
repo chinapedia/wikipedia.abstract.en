@@ -1,1 +1,0 @@
-_CLASSIC THEMES REDUX EP_ is an extended play by American film director and composer John Carpenter. It was released on June 17, 2016, through Sacred Bones Records.[1] The extended play was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.[2]

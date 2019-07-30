@@ -1,1 +1,0 @@
-OMEGA (capital: Ω, lowercase: Ω; Greek ὦ, later ὦ μέγα, Modern Greek ωμέγα) is the 24th and last letter of the Greek alphabet. In the Greek numeric system/Isopsephy (Gematria), it has a value of 800. The word literally means "great O" (_ō mega_, mega meaning "great"), as opposed to omicron, which means "little O" (_o mikron_, micron meaning "little").[1]

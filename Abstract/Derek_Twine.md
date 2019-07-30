@@ -1,1 +1,0 @@
-DEREK TWINE CBE (born 1951) is a British charity CEO, trustee and consultant who served as the Chief Scout Executive of the Scout Association from 1997 to 2013. He is Chair of Bradford Cathedral Council, Vice-Chair of Church Urban Fund (CUF), and a National Trust Council member.

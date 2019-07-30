@@ -1,1 +1,0 @@
-_EARLY SINGLES_ is a compilation album released on March 11, 1997[1] by the Washington, D.C.-based go-go band Trouble Funk.[2] The album consists of a compilations of the band earlier singles from the late-70s to the early-80s.[3]

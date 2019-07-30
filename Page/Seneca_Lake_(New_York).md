@@ -5,7 +5,7 @@ Due to Seneca Lake's unique macroclimate it is home to over 50 wineries, many of
 
 Description
 
-Seneca_Lake_from_Watkins_Glen_July_2017.jpg At long, it is the second longest of the Finger Lakes and has the largest volume, estimated at , roughly half of the water in all the Finger Lakes. It has an average depth of ,[2] a maximum depth of , and a surface area of . Fingerlakesmap.png For comparison, Scotland's famous Loch Ness is long, wide, has a surface area of , an average depth of , a maximum depth of , and total volume of of water.
+At long, it is the second longest of the Finger Lakes and has the largest volume, estimated at , roughly half of the water in all the Finger Lakes. It has an average depth of ,[2] a maximum depth of , and a surface area of . For comparison, Scotland's famous Loch Ness is long, wide, has a surface area of , an average depth of , a maximum depth of , and total volume of of water.
 
 Seneca's two main inlets are Catharine Creek at the southern end and the Keuka Lake Outlet. Seneca Lake lets out into the Seneca River/ Cayuga-Seneca Canal, which joins Seneca and Cayuga Lakes at their northern ends.
 
@@ -19,7 +19,7 @@ Seneca lake has a typical aquatic population for large deep lakes in the northea
 
 History
 
-Seneca_lake_Geneva.JPG]] Seneca Lake was formed at least two million years ago by glacial carving of streams and valleys. Originally it was a part of a series of rivers that flowed northward. Around this time many continental glaciers moved into the area and started the Pleistocene glaciation also known as the Ice Age. It is presumed that the Finger Lakes were created by many advances and retreats of massive glaciers that were up to 2 miles wide.[4]
+]] Seneca Lake was formed at least two million years ago by glacial carving of streams and valleys. Originally it was a part of a series of rivers that flowed northward. Around this time many continental glaciers moved into the area and started the Pleistocene glaciation also known as the Ice Age. It is presumed that the Finger Lakes were created by many advances and retreats of massive glaciers that were up to 2 miles wide.[4]
 
 Over 200 years ago, there were Iroquois villages on Seneca Lake's surrounding hillsides. During the American Revolutionary War, their villages, including Kanadaseaga ("Seneca Castle"), were wiped out during the 1779 Sullivan Expedition by Continental troops under order by General George Washington (in retaliation of the Wyoming Massacre ) to invade their homeland, destroy their dwellings and crops, and end their threat to the patriots. They destroyed nearly 50 Seneca and Cayuga villages. Today roadside signs trace Sullivan's route along the east side of Seneca Lake where the burning of villages and crops occurred.
 
@@ -60,12 +60,10 @@ There is a YSI EMM-2500 Buoy Platform located in the north end of Seneca Lake ro
 
 The buoy was initially deployed in June 2006. The water depth where it is located is about .[11]
 
-Seneca_Harbor_and_wine.JPG
-
 
 Wine
 
-Seneca_Lake_vineyards.jpg]]
+]]
 
 Viticulture and winemaking in the area date back to the 19th century, with the foundation of the Seneca Lake Wine Company in 1866 marking the first major winery in the area. The modern era of wine production began in the 1970s with the establishment of several wineries and the passage of the New York Farm Winery Act of 1976.[12] The region was established as an American Viticultural Area in 1988.[13]
 

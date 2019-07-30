@@ -1,1 +1,0 @@
-The 2016–17 FC UFA SEASON is the 3rd successive season that the club will play in the Russian Premier League, the highest tier of association football in Russia, and 3rd in total. Ufa are also playing in the Russian Cup.

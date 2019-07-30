@@ -1,1 +1,0 @@
-Louis_Schlaefli_par_Claude_Truong-Ngoc_juin_2013.jpg

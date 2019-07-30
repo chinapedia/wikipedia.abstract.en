@@ -1,1 +1,0 @@
-The following is a list of articles about recurring themes in science fiction.

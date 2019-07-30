@@ -1,1 +1,0 @@
-PUEBLO NUEVO is a Panama Metro station on Line 1. It was one of the first 11 stations when the metro began operations on 6 April 2014.[1] It is the second of six elevated stations when travelling towards the terminus of San Isidro.[2]

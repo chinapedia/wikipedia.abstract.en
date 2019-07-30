@@ -1,1 +1,0 @@
-SIMON BAR KOKHBA (; died 135 CE), born SIMON BEN KOSEVAH, was the leader of what is known as the Bar Kokhba revolt against the Roman Empire in 132 CE, establishing an independent Jewish state which he ruled for three years as _Nasi_ ("Prince"). His state was conquered by the Romans in 135 following a two and half-year war.

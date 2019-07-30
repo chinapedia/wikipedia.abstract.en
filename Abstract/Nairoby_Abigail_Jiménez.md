@@ -1,1 +1,0 @@
-NAIROBY ABIGAIL JIMÉNEZ RAMÍREZ (born 22 October 2000) is a Dominican Republic badminton player[1] She competed at the 2018 Central American and Caribbean Games in Barranquilla, Colombia, and won the bronze medal in the mixed doubles event partnered with Nelson Javier.[2]

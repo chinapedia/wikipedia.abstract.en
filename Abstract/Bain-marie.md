@@ -1,1 +1,0 @@
-Bain-marie.jpg

@@ -1,4 +1,4 @@
-_Suffragette_arrest,_London,_1914.jpg organization member in London, 1914. Suffragette organizations campaigned for women's right to vote.]] SEXISM is prejudice or discrimination based on a person's sex or gender. Sexism can affect anyone, but it systematically and primarily affects women and girls. There is a clear and broad consensus among academic scholars in multiple fields that sexism refers primarily to discrimination against women, and primarily affects women. See, for example:
+organization member in London, 1914. Suffragette organizations campaigned for women's right to vote.]] SEXISM is prejudice or discrimination based on a person's sex or gender. Sexism can affect anyone, but it systematically and primarily affects women and girls. There is a clear and broad consensus among academic scholars in multiple fields that sexism refers primarily to discrimination against women, and primarily affects women. See, for example:
 
 -   Defines sexism as "prejudice, stereotyping, or discrimination, typically against women, on the basis of sex".
 
@@ -46,11 +46,11 @@ Feminist author bell hooks defines sexism as a system of oppression that results
 
  Ancient world
 
-A_Hindoo_Widow_Burning_Herself_with_the_Corpse_of_her_Husband.jpg, or self-immolation by widows, was prevalent in Hindu society until the early 19th century.]] The status of women in ancient Egypt depended on their fathers or husbands, but they had property rights and were allowed to attend court, including as plaintiffs.[26] Women of the Anglo-Saxon era were commonly afforded equal status.[27] Evidence, however, is lacking to support the idea that many pre-agricultural societies afforded women a higher status than women today.[28][29] After the adoption of agriculture and sedentary cultures, the concept that one gender was inferior to the other was established; most often this was imposed upon women and girls.[30] Examples of sexism in the ancient world include written laws preventing women from participating in the political process; women in ancient Rome could not vote or hold political office.[31] Another example is scholarly texts that indoctrinate children in female inferiority; women in ancient China were taught the Confucian principles that a woman should obey her father in childhood, husband in marriage, and son in widowhood.[32]
+, or self-immolation by widows, was prevalent in Hindu society until the early 19th century.]] The status of women in ancient Egypt depended on their fathers or husbands, but they had property rights and were allowed to attend court, including as plaintiffs.[26] Women of the Anglo-Saxon era were commonly afforded equal status.[27] Evidence, however, is lacking to support the idea that many pre-agricultural societies afforded women a higher status than women today.[28][29] After the adoption of agriculture and sedentary cultures, the concept that one gender was inferior to the other was established; most often this was imposed upon women and girls.[30] Examples of sexism in the ancient world include written laws preventing women from participating in the political process; women in ancient Rome could not vote or hold political office.[31] Another example is scholarly texts that indoctrinate children in female inferiority; women in ancient China were taught the Confucian principles that a woman should obey her father in childhood, husband in marriage, and son in widowhood.[32]
 
 Witch hunts and trials
 
-Malleus_maleficarum,_Köln_1520,_Titelseite.jpg edition of the _Malleus Maleficarum_, 1520 (from the University of Sydney Library). The Latin title is "_MALLEUS MALEFICARUM, Maleficas, & earum hæresim, ut phramea potentissima conterens_". (Generally translated into English as _The Hammer of Witches which destroyeth Witches and their heresy as with a two-edged sword_).[33]]] Sexism may have been the impetus that fueled the witch trials between the 15th and 18th centuries.[34] In early modern Europe, and in the European colonies in North America, claims were made that witches were a threat to Christendom. The misogyny of that period played a role in the persecution of these women.[35][36]
+edition of the _Malleus Maleficarum_, 1520 (from the University of Sydney Library). The Latin title is "_MALLEUS MALEFICARUM, Maleficas, & earum hæresim, ut phramea potentissima conterens_". (Generally translated into English as _The Hammer of Witches which destroyeth Witches and their heresy as with a two-edged sword_).[33]]] Sexism may have been the impetus that fueled the witch trials between the 15th and 18th centuries.[34] In early modern Europe, and in the European colonies in North America, claims were made that witches were a threat to Christendom. The misogyny of that period played a role in the persecution of these women.[35][36]
 
 In _Malleus Malificarum_, the book which played a major role in the witch hunts and trials, the authors argue that women are more likely to practice witchcraft than men, and write that:
 
@@ -62,7 +62,7 @@ When women are targeted for accusations of witchcraft and subsequent violence, i
 
 Coverture and other marriage regulations
 
-Say_no_to_dowry.jpg poster in Bangalore, India. According to Amnesty International, "[T]he ongoing reality of dowry-related violence is an example of what can happen when women are treated as property".[42]]] Until the 20th century, U.S. and English law observed the system of coverture, where "by marriage, the husband and wife are one person in law; that is the very being or legal existence of the woman is suspended during the marriage".[43] U.S. women were not legally defined as "persons" until 1875 (_Minor v. Happersett_, 88 U.S. 162).[44] A similar legal doctrine, called marital power, existed under Roman Dutch law (and is still partially in force in present-day Eswatini).
+poster in Bangalore, India. According to Amnesty International, "[T]he ongoing reality of dowry-related violence is an example of what can happen when women are treated as property".[42]]] Until the 20th century, U.S. and English law observed the system of coverture, where "by marriage, the husband and wife are one person in law; that is the very being or legal existence of the woman is suspended during the marriage".[43] U.S. women were not legally defined as "persons" until 1875 (_Minor v. Happersett_, 88 U.S. 162).[44] A similar legal doctrine, called marital power, existed under Roman Dutch law (and is still partially in force in present-day Eswatini).
 
 Restrictions on married women's rights were common in Western countries until a few decades ago: for instance, French married women obtained the right to work without their husband's permission in 1965,[45][46][47] and in West Germany women obtained this right in 1977.[48][49] During the Franco era, in Spain, a married woman required her husband's consent (called _permiso marital_) for employment, ownership of property and traveling away from home; the _permiso marital_ was abolished in 1975.[50] In Australia, until 1983, the passport application of a married woman had to be authorized by her husband.[51]
 
@@ -78,7 +78,7 @@ Laws, regulations, and traditions related to marriage continue to discriminate a
 
 Suffrage and politics
 
-Annie_Kenney_and_Christabel_Pankhurst.jpg and Christabel Pankhurst]]
+and Christabel Pankhurst]]
 
 Gender has been used, at times, as a tool for discrimination against women in the political sphere. Women's suffrage was not achieved until 1893, when New Zealand was the first country to grant women the right to vote. Saudi Arabia was the most recent country, as of August 2015, to extend the right to vote to women in 2011.[71] Some Western countries allowed women the right to vote only relatively recently: Swiss women gained the right to vote in federal elections in 1971,[72] and Appenzell Innerrhoden became the last canton to grant women the right to vote on local issues (in 1991, when it was forced to do so by the Federal Supreme Court of Switzerland).[73] French women were granted the right to vote in 1944.[74][75] In Greece, women obtained the right to vote in 1952.[76] In Liechtenstein, women obtained the right to vote in 1984, through the women's suffrage referendum of 1984.[77][78]
 
@@ -93,7 +93,7 @@ Until the early 1980s, some high-end restaurants had two menus: a regular menu w
 
 Gender stereotypes
 
-_Bettie_Page_driving.jpg. Features Bettie Page]] Gender stereotypes are widely held beliefs about the characteristics and behavior of women and men.[86] Empirical studies have found widely shared cultural beliefs that men are more socially valued and more competent than women in a number of activities.[87][88] Dustin B. Thoman and others (2008) hypothesize that "[t]he socio-cultural salience of ability versus other components of the gender-math stereotype may impact women pursuing math". Through the experiment comparing the math outcomes of women under two various gender-math stereotype components, which are the ability of math and the effort on math respectively, Thoman and others found that women’s math performance is more likely to be affected by the negative ability stereotype, which is influenced by sociocultural beliefs in the United States, rather than the effort component. As a result of this experiment and the sociocultural beliefs in the United States, Thoman and others concluded that individuals' academic outcomes can be affected by the gender-math stereotype component that is influenced by the sociocultural beliefs.[89]
+. Features Bettie Page]] Gender stereotypes are widely held beliefs about the characteristics and behavior of women and men.[86] Empirical studies have found widely shared cultural beliefs that men are more socially valued and more competent than women in a number of activities.[87][88] Dustin B. Thoman and others (2008) hypothesize that "[t]he socio-cultural salience of ability versus other components of the gender-math stereotype may impact women pursuing math". Through the experiment comparing the math outcomes of women under two various gender-math stereotype components, which are the ability of math and the effort on math respectively, Thoman and others found that women’s math performance is more likely to be affected by the negative ability stereotype, which is influenced by sociocultural beliefs in the United States, rather than the effort component. As a result of this experiment and the sociocultural beliefs in the United States, Thoman and others concluded that individuals' academic outcomes can be affected by the gender-math stereotype component that is influenced by the sociocultural beliefs.[89]
 
 
 In language
@@ -148,7 +148,7 @@ In Europe, studies based on field experiments in the labour market, provide evid
 
 Earnings gap
 
-_EU_27_Gender_Pay_Gap_2014.png 2014[132]]] Studies have concluded that on average women earn lower wages than men worldwide. Some people argue that this is the result of widespread gender discrimination in the workplace. Others argue that the wage gap is a result of different choices by men and women, such as women placing more value than men on having children, and men being more likely than women to choose careers in high paying fields such as business, engineering, and technology.
+2014[132]]] Studies have concluded that on average women earn lower wages than men worldwide. Some people argue that this is the result of widespread gender discrimination in the workplace. Others argue that the wage gap is a result of different choices by men and women, such as women placing more value than men on having children, and men being more likely than women to choose careers in high paying fields such as business, engineering, and technology.
 
 Eurostat found a persistent, average gender pay gap of 27.5% in the 27 EU member states in 2008.[133] Similarly, the OECD found that female full-time employees earned 27% less than their male counterparts in OECD countries in 2009.[134][135]
 
@@ -161,8 +161,6 @@ The gender gap can also vary across-occupation and within occupation. In Taiwan,
 The gender pay gap has been attributed to differences in personal and workplace characteristics between men and women (such as education, hours worked and occupation), innate behavioral and biological differences between men and women and discrimination in the labor market (such as gender stereotypes and customer and employer bias). Women currently take significantly more time off to raise children than men.[143] In certain countries such as South Korea, it has also been a long-established practice to lay-off female employees upon marriage.[144] A study by professor Linda Babcock in her book _Women Don't Ask_ shows that men are eight times more likely to ask for a pay raise, suggesting that pay inequality may be partly a result of behavioral differences between the sexes.[145] However, studies generally find that a portion of the gender pay gap remains unexplained after accounting for factors assumed to influence earnings; the unexplained portion of the wage gap is attributed to gender discrimination.[146]
 
 Estimates of the discriminatory component of the gender pay gap vary. The OECD estimated that approximately 30% of the gender pay gap across OECD countries is due to discrimination.[147] Australian research shows that discrimination accounts for approximately 60% of the wage differential between men and women.[148][149] Studies examining the gender pay gap in the United States show that a large portion of the wage differential remains unexplained, after controlling for factors affecting pay. One study of college graduates found that the portion of the pay gap unexplained after all other factors are taken into account is 5% one year after graduating and 12% a decade after graduation.[150][151][152][153] A study by the American Association of University Women found that women graduates in the United States are paid less than men doing the same work and majoring in the same field.[154]
-
-US_gender_pay_gap,_by_sex,_race-ethnicity-2009.png
 
 Wage discrimination is theorized as contradicting the economic concept of supply and demand, which states that if a good or service (in this case, labor) is in demand and has value it will find its price in the market. If a worker offered equal value for less pay, supply and demand would indicate a greater demand for lower-paid workers. If a business hired lower-wage workers for the same work, it would lower its costs and enjoy a competitive advantage. According to supply and demand, if women offered equal value demand (and wages) should rise since they offer a better price (lower wages) for their service than men do.[155]
 
@@ -203,7 +201,7 @@ In August 1995, Kimberly Nixon filed a complaint with the British Columbia Human
 
 Objectification
 
-Menu.jpg of women on a wine menu]] In social philosophy, objectification is the act of treating a person as an object or thing. Objectification plays a central role in feminist theory, especially sexual objectification.[181] Feminist writer and gender equality activist Joy Goh-Mah argues that by being objectified, a person is denied agency.[182] According to the philosopher Martha Nussbaum, a person might be objectified if one or more of the following properties are applied to them:[183]
+of women on a wine menu]] In social philosophy, objectification is the act of treating a person as an object or thing. Objectification plays a central role in feminist theory, especially sexual objectification.[181] Feminist writer and gender equality activist Joy Goh-Mah argues that by being objectified, a person is denied agency.[182] According to the philosopher Martha Nussbaum, a person might be objectified if one or more of the following properties are applied to them:[183]
 
 1.  INSTRUMENTALITY – treating the object as a tool for another's purposes: "The objectifier treats the object as a tool of his or her purposes."
 2.  DENIAL OF AUTONOMY – treating the object as lacking in autonomy or self-determination: "The objectifier treats the object as lacking in autonomy and self-determination."
@@ -222,8 +220,6 @@ Rae Helen Langton, in _Sexual Solipsism: Philosophical Essays on Pornography and
 According to objectification theory, objectification can have important repercussions on women, particularly young women, as it can negatively impact their psychological health and lead to the development of mental disorders, such as unipolar depression, sexual dysfunction, and eating disorders.[186]
 
 In advertising
-
-Two_girls_examining_a_bulletin_board_posted_on_a_fence._An_advertisement_painted_above_them_asks_"Are_You_a_Woman?".jpg
 
 While advertising used to portray women and men in obviously stereotypical roles (e.g., as a housewife, breadwinner), in modern advertisements, they are no longer solely confined to their traditional roles. However, advertising today nonetheless still stereotypes men and women, albeit in more subtle ways, including by sexually objectifying them.[187] Women are most often targets of sexism in advertising. When in advertisements with men they are often shorter and put in the background of images, shown in more 'feminine' poses, and generally present a higher degree of 'body display'.[188]
 
@@ -301,7 +297,7 @@ Examples
 
 Domestic violence
 
-Acid_attack_victim.jpg]] Although the exact rates are widely disputed, there is a large body of cross-cultural evidence that women are subjected to domestic violence mostly committed by men.[247][248][249] In addition, there is broad consensus that women are more often subjected to severe forms of abuse and are more likely to be injured by an abusive partner.[250][251] The United Nations recognizes domestic violence as a form of gender-based violence, which it describes as a human rights violation, and the result of sexism.[252]
+]] Although the exact rates are widely disputed, there is a large body of cross-cultural evidence that women are subjected to domestic violence mostly committed by men.[247][248][249] In addition, there is broad consensus that women are more often subjected to severe forms of abuse and are more likely to be injured by an abusive partner.[250][251] The United Nations recognizes domestic violence as a form of gender-based violence, which it describes as a human rights violation, and the result of sexism.[252]
 
 Domestic violence is tolerated and even legally accepted in many parts of the world. For instance, in 2010, the United Arab Emirates (UAE)'s Supreme Court ruled that a man has the right to physically discipline his wife and children if he does not leave visible marks.[253] In 2015, Equality Now drew attention a section of the Penal Code of Northern Nigeria, titled _Correction of Child, Pupil, Servant or Wife_ which reads: "(1) Nothing is an offence which does not amount to the infliction of grievous hurt upon any persons which is done: (...) (d) by a husband for the purpose of correcting his wife, such husband and wife being subject to any native law or custom in which such correction is recognized as lawful."[254]
 
@@ -315,7 +311,7 @@ Dowry deaths are the result of the killing women who are unable to pay the high 
 
 Gendercide and forced sterilization
 
-Something_you_wouldn't_see_in_America_(cropped).jpg 2012_Birth_Sex_Ratio_World_Map.jpg G106-Dajipu-to-Daye-hills-0068.jpg, 2008)]]
+, 2008)]]
 
 Female infanticide is the killing of newborn female children, while female selective abortion is the terminating of a pregnancy based upon the female sex of the fetus. Gendercide is the systematic killing of members of a specific gender and it is an extreme form of gender-based violence.[264][265][266] Female infanticide is more common than male infanticide, and is especially prevalent in South Asia, in countries such as China, India and Pakistan.[267][268][269] Recent studies suggest that over 90 million girls and women are missing in China and India as a result of infanticide.[270][271]
 
@@ -329,13 +325,13 @@ In India the custom of dowry is strongly related to female infanticide, sex-sele
 
 Female genital mutilation
 
-Campaign_road_sign_against_female_genital_mutilation_(cropped).jpg in Uganda]]
+in Uganda]]
 
 Female genital mutilation is defined by the World Health Organization (WHO) as "all procedures that involve partial or total removal of the external female genitalia, or other injury to the female genital organs for non-medical reasons". WHO further state that, "the procedure has no health benefits for girls and women" and "[p]rocedures can cause severe bleeding and problems urinating, and later cysts, infections, infertility as well as complications in childbirth increased risk of newborn death,"[284] and "is recognized internationally as a violation of the human rights of girls and women" and "constitutes an extreme form of discrimination against women".[285] The European Parliament stated in a resolution that the practice "clearly goes against the European founding value of equality between women and men and maintains traditional values according to which women are seen as the objects and properties of men".[286]
 
 Sexual assault and treatment of victims
 
-Bangalore_protests_following_Delhi_gang-rape_(photo_-_Jim_Ankan_Deka).jpg, India, demanding justice for a student gang-raped in Delhi in 2012]]
+, India, demanding justice for a student gang-raped in Delhi in 2012]]
 
 Research by Lisak and Roth into factors motivating perpetrators of sexual assault, including rape, against women revealed a pattern of hatred towards women and pleasure in inflicting psychological and physical trauma, rather than sexual interest.[287] Mary Odem and Peggy Reeves Sanday posit that rape is the result not of pathology but of systems of male dominance, cultural practices and beliefs.[288]
 
@@ -349,7 +345,7 @@ In countries where fornication or adultery are illegal, victims of rape can be c
 
 War rape
 
-DRC_raped_women.jpg]] Sexism is manifested by the crime of rape targeting women civilians and soldiers, committed by soldiers, combatants or civilians during armed conflict, war or military occupation. This arises from the long tradition of women being seen as sexual booty and from the misogynistic culture of military training.[302][303]
+]] Sexism is manifested by the crime of rape targeting women civilians and soldiers, committed by soldiers, combatants or civilians during armed conflict, war or military occupation. This arises from the long tradition of women being seen as sexual booty and from the misogynistic culture of military training.[302][303]
 
 Sexual violence and rape are also committed against men during war and are often under-reported. Sexism plays a significant part in the difficulty that the survivors face coping with their victimization, especially in patriarchal cultures, and in the lack of support provided to men who have been raped.[304]
 
@@ -359,7 +355,7 @@ The United Nations Population Fund writes that "Family planning is central to ge
 
 Child and forced marriage
 
-Girl_Summit_-_22nd_July_in_London_(14498368279).jpg A child marriage is a marriage where one or both spouses are under 18, a practice that disproportionately affects women.[313][314][315] Child marriages are most common in South Asia, the Middle East and Sub-Saharan Africa, but occur in other parts of the world, too. The practice of marrying young girls is rooted in patriarchal ideologies of control of female behavior, and is also sustained by traditional practices such as dowry and bride price.[316] Child marriage is strongly connected with the protection of female virginity.[317] UNICEF states that:[318]
+A child marriage is a marriage where one or both spouses are under 18, a practice that disproportionately affects women.[313][314][315] Child marriages are most common in South Asia, the Middle East and Sub-Saharan Africa, but occur in other parts of the world, too. The practice of marrying young girls is rooted in patriarchal ideologies of control of female behavior, and is also sustained by traditional practices such as dowry and bride price.[316] Child marriage is strongly connected with the protection of female virginity.[317] UNICEF states that:[318]
 
     "Marrying girls under 18 years old is rooted in gender discrimination, encouraging premature and continuous child bearing and giving preference to boys' education. Child marriage is also a strategy for economic survival as families marry off their daughters at an early age to reduce their economic burden."
 
@@ -367,7 +363,7 @@ Consequences of child marriage include restricted education and employment prosp
 
  Legal justice and regulations
 
-Taliban_beating_woman_in_public_RAWA.jpg beating an Afghan woman in Kabul on August 26, 2001. State violence against women is a form of discrimination.]] In several OIC countries the legal testimony of a woman is worth legally half of that of a man (see Status of women's testimony in Islam). Such countries include:[327][328] Algeria (in criminal cases), Bahrain (in Sharia courts), Egypt (in family courts), Iran (in most cases), Iraq (in some cases), Jordan (in Sharia courts), Kuwait (in family courts), Libya (in some cases), Morocco (in family cases), Palestine (in cases related to marriage, divorce and child custody), Qatar (in family law matters), Syria (in Sharia courts), United Arab Emirates (in some civil matters), Yemen (not allowed to testify at all in cases of adultery and retribution), and Saudi Arabia. Such laws have been criticized by Human Rights Watch and Equality Now as being discriminatory towards women.[329][330]
+beating an Afghan woman in Kabul on August 26, 2001. State violence against women is a form of discrimination.]] In several OIC countries the legal testimony of a woman is worth legally half of that of a man (see Status of women's testimony in Islam). Such countries include:[327][328] Algeria (in criminal cases), Bahrain (in Sharia courts), Egypt (in family courts), Iran (in most cases), Iraq (in some cases), Jordan (in Sharia courts), Kuwait (in family courts), Libya (in some cases), Morocco (in family cases), Palestine (in cases related to marriage, divorce and child custody), Qatar (in family law matters), Syria (in Sharia courts), United Arab Emirates (in some civil matters), Yemen (not allowed to testify at all in cases of adultery and retribution), and Saudi Arabia. Such laws have been criticized by Human Rights Watch and Equality Now as being discriminatory towards women.[329][330]
 
 The criminal justice system in many common law countries has also been accused of discriminating against women. Provocation is, in many common law countries, a partial defense to murder, which converts what would have been murder into manslaughter. It is meant to be applied when a person kills in the "heat of passion" upon being "provoked" by the behavior of the victim. This defense has been criticized as being gendered, favoring men, due to it being used disproportionately in cases of adultery, and other domestic disputes when women are killed by their partners. As a result of the defense exhibiting a strong gender bias, and being a form of legitimization of male violence against women and minimization of the harm caused by violence against women, it has been abolished or restricted in several jurisdictions.[331][332]
 
@@ -401,7 +397,7 @@ Writer Gerry Garibaldi has argued that the educational system has become "femini
 
 Fashion
 
-Gobert_-_Louis_XV_as_child,_Fundación_Jakober.jpg in 1712, a boy wearing a pink dress]] A_HIGH_CASTE_LADYS_DAINTY_LILY_FEET.jpg]] Feminists argue that clothing and footwear fashion has been oppressive to women, restricting their movements, increasing their vulnerability, and endangering their health.[372] The use of thin models within the fashion industry has encouraged the development of bulimia and anorexia nervosa, as well as locking female consumers into false feminine identities.[373]
+in 1712, a boy wearing a pink dress]] ]] Feminists argue that clothing and footwear fashion has been oppressive to women, restricting their movements, increasing their vulnerability, and endangering their health.[372] The use of thin models within the fashion industry has encouraged the development of bulimia and anorexia nervosa, as well as locking female consumers into false feminine identities.[373]
 
 The assignment of gender-specific baby clothes can instill in children a belief in negative gender stereotypes.[374] One example is the assignment in some countries of the color pink to girls and blue to boys. The fashion is a recent one; at the beginning of the 20th century the trend was the opposite: blue for girls and pink for boys.[375] In the early 1900s, _The Women's Journal_ wrote that "pink being a more decided and stronger colour, is more suitable for the boy, while blue, which is more delicate and dainty, is prettier for the girl". _DressMaker_ magazine also explained that "[t]he preferred colour to dress young boys in is pink. Blue is reserved for girls as it is considered paler, and the more dainty of the two colours, and pink is thought to be stronger (akin to red)".[376] Today, in many countries, it is considered inappropriate for boys to wear dresses and skirts, but this is also a relatively recent view. From the mid-16th century[377] until the late 19th or early 20th century, young boys in the Western world were unbreeched and wore gowns or dresses until an age that varied between two and eight.[378]
 
@@ -411,7 +407,7 @@ The production process also faces criticism for sexist practices. In the garment
 
 Conscription
 
-Flickr_-_Israel_Defense_Forces_-_Karakal_Winter_Training_(1).jpg Conscription, or compulsory military service, has been criticized as sexist.[384] [385] Prior to the late 20th century, only men were subjected to conscription,[386] [387][388][389][390] and most countries still require only men to serve in the military.
+Conscription, or compulsory military service, has been criticized as sexist.[384] [385] Prior to the late 20th century, only men were subjected to conscription,[386] [387][388][389][390] and most countries still require only men to serve in the military.
 
 In his book _The Second Sexism: Discrimination Against Men and Boys_ (2012), philosopher David Benatar states that "[t]he prevailing assumption is that where conscription is necessary, it is only men who should be conscripted and, similarly, that only males should be forced into combat". This, he believes, "is a sexist assumption".[391] Anthropologist Ayse Gül Altinay has commented that "given equal suffrage rights, there is no other citizenship practice that differentiates as radically between men and women as compulsory male conscription".[392]
 

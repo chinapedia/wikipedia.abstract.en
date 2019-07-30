@@ -1,1 +1,0 @@
-The LIGIER JS2 is a mid-engined sports coupé that was built by Ligier in the French commune of Abrest near Vichy in the department of Allier between 1971 and 1975. Road-going and competition versions were built.

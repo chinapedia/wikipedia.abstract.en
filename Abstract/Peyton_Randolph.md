@@ -1,1 +1,0 @@
-US-Colonial_(VA-69)-Virginia-4_Mar_1773_OBV.jpg.]] PEYTON RANDOLPH (September 10, 1721 – October 22, 1775) was a planter and public official from the Colony of Virginia. He served as Speaker of the Virginia House of Burgesses, president of Virginia Conventions, and the first President of the Continental Congress.[1][2]

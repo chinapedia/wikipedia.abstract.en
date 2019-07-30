@@ -7,7 +7,7 @@ The Neame family were relative latecomers in the overall development of the Shep
 
 Shepherd Neame as such is reported as having been established in 1698, in an advertisement of the _Kentish Gazette_ for 11 April 1865. Richard Marsh lived until 1727 when his Brewery was bequeathed to his widow, and then to his daughter, who sold the property on to Samuel Shepherd around 1741. Samuel Shepherd was from Deal, Kent. He had an interest in malting when he moved to Faversham around 1730 and had established himself as a Brewer of Malt by 1734. Shepherd expanded on his interest, through acquiring a number of public houses, but it was his son, Julius Shepherd, who extended this trend still further upon his inheritance of the Brewery in 1770, when the company held four such outlets. In 1789, he set about modernising the process of malt grinding and pumping, which had been previously worked with the employment of horses, by introducing what was reputed to be the first steam engine (Boulton and Watt) to be used for this purpose outside London, and was then able to describe his business as the _Faversham Steam Brewery_.
 
-Spanish_Galleon_Tavern.jpg]]
+]]
 
 Henry, his second son, born in 1780, continued the family tradition, and raised his son of the same name into the business. It was this Henry Shepherd (1816~77) who was to be the last of the Shepherds actively involved in the Company. The death of Henry senior at the age of eighty-two occurred in 1862 and although his own son was not a businessman of the same determination, the firm’s expansion continued adequately with John Mares, who had come to the financial assistance of the Shepherd Brewery during the recession of the mid-1840s and continued as the impetus behind _Shepherd and Mares_ until Percy Beale Neame joined the Brewery in 1864. Mares had seen the potential of the Brewery’s growth with the arrival of the long delayed railway service in 1858. He pressed the firm to actively prepare for such growth. Horse-drawn drays were used to carry the Brewery’s ales throughout Kent, and malts were imported by barge at Faversham Creek at its own wharf which was also used as the means to deliver its product to London, until the 1850s when steamboats were beginning to prove more expeditious to the task. The railways soon even outpaced and replaced the steamboats.
 
@@ -22,15 +22,11 @@ The brewery itself is located very near to Faversham town centre, and it is poss
 
 Beers
 
-ShepherdNeameMixedBrandingOnBar.jpg
-
 Shepherd Neame has been making beer in Faversham, Kent, for more than 300 years. It claims to use traditional methods and 100% natural ingredients.The brewery uses chalk-filtered mineral water from the brewery’s own artesian well, deep below the brewery, and 93% of the hops used in its beers are grown in Kent.[7] Centuries of brewing experience have been passed down to the current team of brewers, who still use many traditional methods, including handcrafting beer in the UK’s last remaining unlined solid oak mash tuns.
 
 -   SPITFIRE PREMIUM KENTISH ALE (cask: 4.2% abv, bottle: 4.5% abv) is Shepherd Neame's biggest-selling cask conditioned ale. An infusion of three aromatic Kentish hops adorns this blood-orange tinted bitter, first brewed in 1990 to commemorate the 50th anniversary of the Battle of Britain in 1990.
 
 The beer is named after the Supermarine Spitfire aircraft designed by R. J. Mitchell. Winner of a Gold Medal and Best Strong Cask-Conditioned Beer of the World at the Brewing Industry International Awards, Spitfire has Protected Geographical Indication, the same regional produce protection afforded to Champagne and Parma Ham.
-
-Bishops_Finger.JPG
 
 -   BISHOP'S FINGER (cask: 5% abv, bottle: 5.4%abv) is a fine English Ale that takes its name from the Kentish nickname for an ancient signpost on the Pilgrims' Way pointing to Canterbury and the shrine of Thomas Becket. The rich, ruby-coloured classic is one of the oldest names in British beer, brewed since 1958. Malt had been strictly rationed during the Second World War, and Bishops Finger was introduced as a celebration to the end of the postwar years of austerity. It has Protected Geographical Indication.
 -   MASTER BREW (cask: 3.7% abv, bottle: 4%abv) is the Shepherd Neame's flagship beer. It is a distinctive, amber bitter ale, with a hoppy aroma. It has Protected Geographical Indication.
@@ -63,7 +59,7 @@ Whitstable Bay collection: Shepherd Neame originally adopted the Faversham Steam
 
 See also Whitstable Bay Black Oyster Stout and Whitstable Bay Blonde Lager under Keg.
 
-Keg: Shepherd Neame produces brewery-conditioned draught beers which are brewed in exactly the same way as traditional, cask beers but filtered before being packaged into pressurised kegs. This ensures consistency of taste, and is the preferred option in bars where there is limited, or no, cellar space. WhitstableBayBlackOysterStoutPourShot.jpg
+Keg: Shepherd Neame produces brewery-conditioned draught beers which are brewed in exactly the same way as traditional, cask beers but filtered before being packaged into pressurised kegs. This ensures consistency of taste, and is the preferred option in bars where there is limited, or no, cellar space.
 
 -   WHITSTABLE BAY BLACK OYSTER STOUT (draught 4.2% abv), is a silky keg stout brewed using a unique blend of four coloured malts which impart a rich, complex flavour of roasted mocha notes, balanced by a subtly bitterness from the finest Admiral hops, and finished with a smooth, creamy head.
 -   WHITSTABLE BAY BLONDE LAGER (draught: 4.5% abv, bottle: 4.5% abv) takes its name from the golden hue of the beer. It is brewed with Challenger, Centennial and Saaz hops, and Lager and Crystal Malts. It has a floral aroma, paired with buttery biscuit base notes and crisp, citrus flavours.
@@ -77,7 +73,7 @@ Lager: The brewery also produces a range of lagers, mainly under licence, such a
 
 Pubs
 
-Eastern_City_of_London_08.03.2013_16-14-33_east_india_arms.jpg in the City of London]]
+in the City of London]]
 
 The brewery owns around 330 pubs and establishments, mostly in Kent, but extending across the South East of England. These are predominantly tenanted public houses situated in towns and villages. The brewery also manages its own chain of hotels, including The Royal Albion in Broadstairs and The George Hotel in Cranbrook, Kent. The brewery's own brands are typically given prominence in terms of frontage with extensive branding. All fonts and pumps bear the distinctive logos and branding, glasses are branded and bar runners that advertise the house beers are commonplace.
 

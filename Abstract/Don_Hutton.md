@@ -1,1 +1,0 @@
-DON HUTTON is a Canadian politician, who was elected to the Legislative Assembly of Yukon in the 2016 election.[1] He represents the electoral district of Mayo-Tatchun as a member of the Yukon Liberal Party.

@@ -1,1 +1,0 @@
-Garoutte_Coat_of_Arms.jpg

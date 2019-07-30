@@ -1,1 +1,0 @@
-LESLIE R. "LES" MITCHELL (Hammersmith, England 9 December 1923 - 6 October 2014 Bingley, West Yorkshire, England),[1][2] a Scouter and a radio amateur with the callsign G3BHK, was the founder of Jamboree-on-the-Air (JOTA), now considered the largest event scheduled by the World Organization of the Scout Movement annually.[3][4][5][6][7][8]

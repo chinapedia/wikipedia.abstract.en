@@ -1,1 +1,0 @@
-MariensaeuleMuenchen.jpg]] Www.gerhard-blank.de_münchen_ansicht_von_oben.jpg Frauenkirche_in_München.jpg behind the skyline of Munich]] Lions_at_the_Feldherrnhalle_in_Munich.JPG at the Feldherrnhalle]]

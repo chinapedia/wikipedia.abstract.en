@@ -1,1 +1,0 @@
-LOS ÁNGELES AZULES are a Mexican musical group playing the _cumbia sonidera_ genre, which is a cumbia subgenre using the accordion and synthesizers. This results in a fusion of the sounds of cumbia from the 1950-1970s with those of 1990s-style electronic music.[1]

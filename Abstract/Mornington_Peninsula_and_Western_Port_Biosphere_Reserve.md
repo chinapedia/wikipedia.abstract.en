@@ -1,1 +1,0 @@
-MORNINGTON PENINSULA AND WESTERN PORT BIOSPHERE RESERVE is a biosphere reserve in the Australian state of Victoria located on land and coastal waters associated both with the Mornington Peninsula and the bay known as Western Port.[1][2]

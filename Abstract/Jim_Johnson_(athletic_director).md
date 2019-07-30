@@ -1,1 +1,0 @@
-JAMES JOHNSON is an American university sports administrator and a former NCAA Division II conference commissioner. Johnson is currently the athletic director for Pittsburg State University, an NCAA Division II sports program in Pittsburg, Kansas.[1] Previously, Johnson was the Commissioner of the Mid-America Intercollegiate Athletics Association (MIAA).

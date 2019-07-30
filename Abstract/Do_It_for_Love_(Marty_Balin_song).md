@@ -1,1 +1,0 @@
-"DO IT FOR LOVE" is a song written by Jesse Barish and performed by Marty Balin. It reached #17 on the U.S. adult contemporary chart and #107 on the U.S. pop chart in 1983.[1] The song was featured on his 1983 album, _Lucky_.[2]

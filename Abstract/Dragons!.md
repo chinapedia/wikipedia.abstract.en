@@ -1,1 +1,0 @@
-_DRAGONS!_ is a themed anthology of fantasy short works edited by American writers Jack Dann and Gardner Dozois. It was first published in trade paperback by Ace Books in August 1993, and as an ebook by Baen Books in July 2013.[1]

@@ -1,1 +1,0 @@
-LORETTA HIDALGO WHITESIDES is a public speaker, co-creator of Yuri's Night, and an author on space exploration. She accumulated over five hours of weightless time as a Flight Director for Zero-G Corporation, and plans to travel to space as a "Founder Astronaut" on Virgin Galactic's SpaceShipTwo with her husband George T. Whitesides. 1

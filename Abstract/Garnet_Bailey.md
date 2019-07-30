@@ -1,1 +1,0 @@
-_'Garnet Edward "Ace" Bailey_' (June 13, 1948 – September 11, 2001) was a Canadian professional ice hockey player and scout who was a member of Stanley Cup and Memorial Cup winning teams. He died at the age of 53 while aboard United Airlines Flight 175, which crashed into the South Tower of the World Trade Center in New York City during the September 11 attacks.

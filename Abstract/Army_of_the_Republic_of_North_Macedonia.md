@@ -1,1 +1,0 @@
-The ARMY OF THE REPUBLIC OF NORTH MACEDONIA ( [АРCМ]) is a defense force consisting of an army and air force; it is responsible for defending the sovereignty and territorial integrity of North Macedonia.[1] Since 2005, it is a fully professional defense force compatible with NATO standards.

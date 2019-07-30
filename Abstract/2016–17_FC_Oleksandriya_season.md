@@ -1,1 +1,0 @@
-The 2016–17 SEASON was 5th season in the top Ukrainian football league for FC OLEKSANDRIYA. Oleksandriya competed in Premier League and Ukrainian Cup. This was the first season in history of Oleksandriya it took part in European club tournament, representing Ukraine in UEFA Europa League.

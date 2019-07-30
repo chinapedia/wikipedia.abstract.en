@@ -1,1 +1,0 @@
-RNAS ASSOCIATED WITH GENES ASSOCIATED WITH TWISTER AND HAMMERHEAD RIBOZYMES (RAGATH) refers to a bioinformatics strategy that was devised to find self-cleaving ribozymes in bacteria.[1] It also refers to candidate RNAs, or RAGATH RNA MOTIFS, discovered using this strategy.

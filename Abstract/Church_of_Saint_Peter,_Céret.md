@@ -1,1 +1,0 @@
-SAINT PETER is a Roman Catholic church in Céret, southern France. Mentioned for the first time in 814, the present day church was built and rebuilt several times from the 11th to the 18th centuries. It was declared a national monument in 1998.[1]

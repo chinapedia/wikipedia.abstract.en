@@ -1,1 +1,0 @@
-GEORGE GAGNIDZE () is a Georgian operatic baritone specializing in the Italian dramatic repertoire.[1] He has performed at New York's Metropolitan Opera every season since 2008/09,[2] including playing Giuseppe Verdi's _Rigoletto_.[3]

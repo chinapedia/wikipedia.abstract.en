@@ -1,1 +1,0 @@
-The SYNOD OF QUEENSLAND or QUEENSLAND SYNOD is a state council of the Uniting Church in Australia. The word 'synod' also describes the regular meeting (every 18 months) of representatives of the state-wide church known as Synod in Session. The next Synod in Session will be the 35th Synod in 2020.

@@ -1,1 +1,0 @@
-_MARIE_ is a 1979 American television pilot starring singer-actress Marie Osmond. It was created as a star vehicle for Osmond which was her sitcom debut following a successful three-year run alongside brother Donny on their variety show _Donny & Marie_ (1976–79).

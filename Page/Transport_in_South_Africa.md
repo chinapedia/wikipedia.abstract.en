@@ -5,7 +5,7 @@ Roads
 
 The national speed limit is between 50 or 80  km/h in residential areas and 120 km/h on national roads/freeways/motorways.
 
-In 2002 the country had 362,099  km of highways, 73,506  km (17%) of which was paved (including 239  km of expressways).[1]Cape_Town_Excite_Taxis_Cabs_1.jpg
+In 2002 the country had 362,099  km of highways, 73,506  km (17%) of which was paved (including 239  km of expressways).[1]
 
 In South Africa, the term _freeway_ differs from most other parts of the world. A freeway is a road where certain restrictions apply.[2] The following are forbidden from using a freeway:
 
@@ -26,8 +26,6 @@ The Department of Transport is responsible for regulation of all transportation 
 MINIBUS TAXIS
 
 Minibus Taxis are the predominant form of transport for people in urban areas of South Africa.[5] This is due to their availability and affordability to the public.[6] Most minibus taxis are not subsidized by the state and the taxi industry is notorious for using vehicles that are not well maintained are that are often not roadworthy to keep costs low.[7] Because many taxi owners own just a few taxis and each owner may choose to manage their business differently, there is not much known as to the inner workings of the industry that is rife with violence. Since 1994 there have been efforts to formalize the industry but as taxi organisations often don't abide by labour regulations, relationships between taxi operators and the state are often strained.
-
-My_City_Cape_Town_Bus.jpg
 
 CAPE TOWN AND MYCITI IRT
 
@@ -99,7 +97,7 @@ There are 931 km of crude oil pipeline transport, 1,748 km for other petroleum
 
 Tramways
 
-Johannesburg-tram-001.jpg]] A number of urban tramway systems operated in South Africa but no longer do so. The last system (in Johannesburg) began in 1890 as Rand Tramway(electrified in 1906) and ceased operations in 1961.[14]
+]] A number of urban tramway systems operated in South Africa but no longer do so. The last system (in Johannesburg) began in 1890 as Rand Tramway(electrified in 1906) and ceased operations in 1961.[14]
 
 
 References

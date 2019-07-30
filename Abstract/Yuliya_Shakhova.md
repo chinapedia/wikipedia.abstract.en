@@ -1,1 +1,0 @@
-YULIYA SHAKHOVA (born May 29, 1976) is an Uzbekistani sport shooter. She competed at the 2000 Summer Olympics in the women's 50 metre rifle three positions event, in which she tied for 30th place, and the women's 10 metre air rifle event, in which she tied for 32nd place.[1]

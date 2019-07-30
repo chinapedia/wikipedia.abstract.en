@@ -1,1 +1,0 @@
-PAYOLA, 2002 - 2012 is a 2013 compilation album by The Cribs, released on 12 March 2013. It features the previously unreleased "Leather Jacket Love Song" - the last song recorded with erstwhile guitarist Johnny Marr. [1]

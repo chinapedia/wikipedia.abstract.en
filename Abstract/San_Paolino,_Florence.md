@@ -1,1 +1,0 @@
-SAN PAOLO APOSTOLO, more commonly known as SAN PAOLINO, is a Romanesque-style, Roman Catholic church and convent located in Via di S. Paolino #8, in central Florence, region of Tuscany, Italy. The church is near the Church of the Ognissanti.

@@ -1,1 +1,0 @@
-NEWS WORLD INDIA () is free to air 24-hour national news channel.[1] The channel is owned by F7 Broadcast Private Limited.[2] News World India focuses on news that touches the day-to-day life of masses.[3] At present Rohit Saxena is chief executive officer.[4]

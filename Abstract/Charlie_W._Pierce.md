@@ -1,1 +1,0 @@
-CHARLES WILLIAM "CHARLIE" PIERCE (July 16, 1864 – July 10, 1939) was one of South Florida's most important pioneer citizens. Arriving in 1872, Pierce was a community leader in banking, seamanship, the postal service, and author of the sentinel book on early South Florida life.[1]

@@ -1,1 +1,0 @@
-Banded_iron_formation.png ore (banded iron formation)]] Psilomelane-167850.jpg ore – psilomelane (size: 6.7 × 5.8 × 5.1 cm)]] Anglesite-Galena-249200.jpg ore – galena and anglesite (size: 4.8 × 4.0 × 3.0 cm)]] Gold-Quartz-273364.jpg ore (size: 7.5 × 6.1 × 4.1 cm)]] OreCartPachuca.JPG, Mexico]]

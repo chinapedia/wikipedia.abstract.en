@@ -1,1 +1,0 @@
-The ST. JOHN BAPTIST CATHEDRAL [1] ( ) also called PENONOMÉ CATHEDRAL is a religious building that is affiliated with the Catholic Church and is located in the city of Penonomé in Cocle province in the Central American country of Panama.[2]

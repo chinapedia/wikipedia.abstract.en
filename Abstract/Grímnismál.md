@@ -1,1 +1,0 @@
-Grímnir_and_Agnar_by_George_Wright.jpg

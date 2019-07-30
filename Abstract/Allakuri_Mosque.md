@@ -1,1 +1,0 @@
-ALLAKURI MOSQUE (), located in Mohammadpur Colony area near Sat Masjid Road of Dhaka, is an example of the imperial Mughal architecture in Bangladesh. The mosque was tentatively built in 1680 and is the earliest known square single-domed Mughal style mosque in Bengal.[1]

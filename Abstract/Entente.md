@@ -1,1 +1,0 @@
-ENTENTE, meaning a diplomatic "understanding", may refer to a number of agreements:

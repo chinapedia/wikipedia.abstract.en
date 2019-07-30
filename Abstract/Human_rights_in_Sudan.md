@@ -1,1 +1,0 @@
-Some human rights organizations have documented a variety of abuses and atrocities carried out by the Sudanese government over the past several years. The 2009 Human Rights Report by the United States Department of State noted serious concerns over human rights violations by the government and militia groups.[1] Capital punishment, including crucifixion, is used for many crimes.

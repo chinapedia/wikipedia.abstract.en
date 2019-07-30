@@ -1,1 +1,0 @@
-RONALD SAVAGE (born 1965)[1] is an American entrepreneur, hip hop artist, author, and activist. He was known as the "crate boy" for Jazzy Jay, who was the DJ for Afrika Bambaataa. He later publicly reported in 2016 that Bambaataa sexually molested him. 640_×_960_Hon._Ronald_Savage_at_a_Press_Release.jpg

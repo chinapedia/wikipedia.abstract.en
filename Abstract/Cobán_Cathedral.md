@@ -1,1 +1,0 @@
-The ST. DOMINIC CATHEDRAL [1] ( ) also called COBÁN CATHEDRAL[2] is a religious building that is affiliated with the Catholic Church and is located in the town and municipality of Cobán[3] in Alta Verapaz department of the Central American country of Guatemala.[4]

@@ -1,1 +1,0 @@
-SAMUEL FINLEY BREESE MORSE (April 27, 1791 – April 2, 1872) was an American painter and inventor. After having established his reputation as a portrait painter, in his middle age Morse contributed to the invention of a single-wire telegraph system based on European telegraphs. He was a co-developer of Morse code and helped to develop the commercial use of telegraphy.

@@ -1,1 +1,0 @@
-ENERGY FLASH: A JOURNEY THROUGH RAVE MUSIC AND DANCE CULTURE is a book by English music journalist Simon Reynolds which chronicles the development of dance and rave music from the mid 1980s to the early 2000s. The book was published in America under the title GENERATION ECSTASY: INTO THE WORLD OF TECHNO AND RAVE CULTURE.

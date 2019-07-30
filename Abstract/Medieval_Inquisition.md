@@ -1,1 +1,0 @@
-PopeGregoryIX.jpg]]

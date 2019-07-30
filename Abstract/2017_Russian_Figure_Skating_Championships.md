@@ -1,1 +1,0 @@
-The 2017 RUSSIAN FIGURE SKATING CHAMPIONSHIPS () were held from 20 to 26 December 2016 in Chelyabinsk, Chelyabinsk Oblast. Medals were awarded in the disciplines of men's singles, ladies' singles, pair skating, and ice dancing. The results were among the criteria used to select Russia's teams to the 2017 European Championships and 2017 World Championships.

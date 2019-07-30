@@ -1,1 +1,0 @@
-The DEVONIAN ( )[1] is a geologic period and system of the Paleozoic, spanning 60 million years from the end of the Silurian, million years ago (Mya), to the beginning of the Carboniferous, Mya.[2] It is named after Devon, England, where rocks from this period were first studied.

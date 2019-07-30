@@ -1,1 +1,0 @@
-_ELLAARUM INNAATTU MANNAR_ () is a 1960 Indian Tamil language film directed by T. Prakash Rao. The film features Gemini Ganesan, B. Saroja Devi, M. N. Nambiar, M. N. Rajam and K. A. Thangavelu in main roles.[1][2]

@@ -1,1 +1,0 @@
-POLITICS OF CHAD takes place in a framework of a presidential republic, whereby the President of Chad is both head of state and head of government. Executive power is exercised by the government. Legislative power is vested in both the government and parliament. Chad is one of the most corrupt countries in the world.

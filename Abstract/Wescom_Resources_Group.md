@@ -1,1 +1,0 @@
-WESCOM RESOURCES GROUP (WRG) is a wholly owned subsidiary of Wescom Credit Union that operates as a CUSO headquartered in Pasadena, California, providing technology products and services to credit unions across the United States.

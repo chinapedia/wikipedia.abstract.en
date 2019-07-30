@@ -1,1 +1,0 @@
-Ana_Stjelja.jpg

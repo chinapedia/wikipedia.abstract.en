@@ -1,1 +1,0 @@
-This is a list of all the golfers who have won five or more official events on the European Senior Tour.[1] The totals include wins by European Senior Tour players in the Senior Open Championship and PGA Seniors Championship before the formation of the tour in 1992. The list is up to date as of 21 July 2019.

@@ -1,1 +1,0 @@
-_ZENABEL_ was a 1969 film directed by Ruggero Deodato. The film is set in 1627 and is about a young woman named Zenabel (Lucretia Love) who find out that she is the daughter of a Duke who was killed by the Spanish Baron Imolne. Zenabel gather a group of women to lead them to fight against Imolne to exact revenge.

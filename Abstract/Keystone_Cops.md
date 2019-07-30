@@ -1,1 +1,0 @@
-Keystone-Cops-1912.jpg, Mack Sennett, Bill Haber, Henry Lehrman, — McAlley, Chester Franklin, Ford Sterling, Fred Mace and Arthur Tavares.]] The KEYSTONE COPS (often spelled "KEYSTONE KOPS") were fictional, humorously incompetent policemen, featured in silent film slapstick comedies produced by Mack Sennett for his Keystone Film Company between 1912 and 1917.

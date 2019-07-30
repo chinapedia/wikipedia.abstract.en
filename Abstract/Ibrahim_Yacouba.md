@@ -1,1 +1,0 @@
-IBRAHIM YACOUBA, also known as IBRAHIM YACOUBOU (born 8 August 1971), is a Nigerien politician who has served in the government of Niger as Minister of Foreign Affairs 2016 to 2018. He leads the Nigerien Patriotic Movement.

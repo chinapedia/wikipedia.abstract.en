@@ -1,1 +1,0 @@
-The CHURCH OF SAINT-ÉTIENNE-LE-VIEUX ("Old Saint Stephen's") is a former Roman Catholic church, today partly ruined, located in the old city of Caen, Calvados, France. It is not to be confused with the nearby Church of Saint-Étienne, the former church of the Abbaye aux Hommes. This church has been classified as a _monument historique_ since August 22, 1903.[1]

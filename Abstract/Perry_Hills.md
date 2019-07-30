@@ -1,1 +1,0 @@
-PERRY HILLS is an American football quarterback. He played college football at the University of Maryland and was the Terrapins starting quarterback for most of the 2012, 2015 and 2016 seasons. In 2015, Hills broke the school's single-game rushing record for a quarterback with 170 yards against No. 1 Ohio State.

@@ -1,1 +1,0 @@
-BERTHA is an unincorporated community in southern Douglas County, Missouri.[1] Bertha is located on the Fox Creek floodplain just north of its junction with Bryant Creek on County Road 95-345 southeast of Gentryville.[2]

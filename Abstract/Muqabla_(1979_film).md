@@ -1,1 +1,0 @@
-_MUQABLA_ () is 1979 Hindi action film directed by Rajkumar Kohli, starring Sunil Dutt, Vinod Mehra, Reena Roy, Bindiya Goswami, Rajesh Khanna and Rekha. The film was average in box office terms.[1] The song _Teen Batti Wala Govinda Aala_ remains popular and even today is played on the festival of Janmmashtami in India.[2]

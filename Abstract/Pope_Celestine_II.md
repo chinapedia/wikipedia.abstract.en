@@ -1,1 +1,0 @@
-POPE CELESTINE II (; died 8 March 1144), born GUIDO DI CASTELLO,[1] was head of the Catholic Church and ruler of the Papal States from 26 September 1143[2] to his death in 1144. He is the first pope mentioned in the prophecy of Saint Malachy.

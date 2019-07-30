@@ -1,1 +1,0 @@
-View_of_Twickenham_from_the_Thames.jpg from the River Thames, 1753.[1] Dr. William Battie's house on the right.[2]]] BARNABY BACKWELL (died 3 October 1754) was the member of Parliament for Bishop's Castle, Shropshire, in 1754.

@@ -1,1 +1,0 @@
-_SORCIÈRE_ (French for witch, that is, a practitioner of witchcraft) was the name of several PRIVATEERS that sailed during the Napoleonic Wars. Three were French vessels, but one was British, though the British _Sorciere_ was probably the _Sorcière_ launched in 1803 at Saint-Malo that the British Royal Navy captured in April 1806.

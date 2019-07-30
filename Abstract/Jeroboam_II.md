@@ -1,1 +1,0 @@
-JEROBOAM II ( _Yarov‘am_; ; ) was the son and successor of Jehoash (alternatively spelled Joash) and the thirteenth king of the ancient Kingdom of Israel, over which he ruled for forty-one years in the eighth century BC. His reign was contemporary with those of Amaziah () and Uzziah (), kings of Judah.

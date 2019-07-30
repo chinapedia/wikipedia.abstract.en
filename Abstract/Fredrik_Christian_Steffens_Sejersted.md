@@ -1,1 +1,0 @@
-FREDRIK CHRISTIAN STEFFENS SEJERSTED (5 May 1901  – ) was a Norwegian jurist.

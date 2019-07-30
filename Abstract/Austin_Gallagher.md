@@ -1,1 +1,0 @@
-Austin_Photo.jpg

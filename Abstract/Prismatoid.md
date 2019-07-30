@@ -1,1 +1,0 @@
-In geometry, a PRISMATOID is a polyhedron whose vertices all lie in two parallel planes. Its lateral faces can be trapezoids or triangles.[1] If both planes have the same number of vertices, and the lateral faces are either parallelograms or trapezoids, it is called a PRISMOID.[2]

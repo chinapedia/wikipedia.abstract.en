@@ -1,1 +1,0 @@
-Public transport is the main means of transportation in Eswatini. Car ownership is low, at 32 cars per 1,000 people.[1] The National Road Network has 1500 km of main roads and 2270 km of district roads.[2]

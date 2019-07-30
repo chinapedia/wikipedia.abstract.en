@@ -1,1 +1,0 @@
-LLOYD E. JONES (June 17, 1889 – January 3, 1958) was a United States Army major general. A veteran of World War I, he was prominent during World War II as commander of the Alaska Defense Command's Amchitka Task Force and the 10th Mountain Division.

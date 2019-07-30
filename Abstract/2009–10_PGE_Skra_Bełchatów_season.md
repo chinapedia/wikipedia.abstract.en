@@ -1,1 +1,0 @@
-PGE SKRA BEŁCHATÓW 2009–2010 SEASON is the 2009/2010 volleyball season for Polish professional volleyball club PGE SKRA BEŁCHATÓW. The club won 6th title of Polish Champion, bronze medal of CEV Champions League and silver medal of FIVB Club World Championship.[1][2]

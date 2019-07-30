@@ -1,1 +1,0 @@
-QIAO BIN (, born 17 November 1992) is a Chinese badminton player.[1] He won his first senior international title at the China International tournament.[2] In 2016, Qiao who ranked 41 at that time clinched the Superseries title at the Korea Open, defeated the sixth seed, world number eight, Son Wan-ho in the final.[3]

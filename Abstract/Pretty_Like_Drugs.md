@@ -1,1 +1,0 @@
-_"PRETTY LIKE DRUGS"_ is a song by British alternative rock band Queenadreena, released in 2002[1] from their album _Drink Me_. It was later included as a bonus track on the US release of the band's third album, _The Butcher and the Butterfly_ after they left Rough Trade records and signed with One Little Indian.

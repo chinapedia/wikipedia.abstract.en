@@ -1,1 +1,0 @@
-E._Frédéric_Dubois_d'Amiens._Lithograph_by_C._L._Masquelier,_Wellcome_V0001681.jpg FRÉDÉRIC DUBOIS D'AMIENS (17 February 1799, in Amiens – 10 January 1873, in Paris) was a French physician and historian of medicine.

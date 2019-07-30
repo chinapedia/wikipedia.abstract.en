@@ -1,1 +1,0 @@
-SYSTEM OF A DOWN is an heavy metal band from Glendale, California, formed in 1994. The band currently consists of Serj Tankian (lead vocals, keyboards), Daron Malakian (vocals, guitar), Shavo Odadjian (bass, backing vocals), and John Dolmayan (drums).[1]

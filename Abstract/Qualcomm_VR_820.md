@@ -1,1 +1,0 @@
-The Snapdragon QUALCOMM VR820 is a virtual reality reference platform[1] that was anticipated for release in Q4 2016 with the first commercial devices based on the platform expected to be available shortly thereafter.

@@ -1,1 +1,0 @@
-_AGAPANTHUS AFRICANUS_ (AFRICAN LILY) is a flowering plant from the genus _Agapanthus_ native to the area of Cape of Good Hope in South Africa.[1] _A. africanus_ is more difficult to grow in gardens than _A. praecox_, and almost all plants sold as _A. africanus_ are actually _A. praecox_.[2]

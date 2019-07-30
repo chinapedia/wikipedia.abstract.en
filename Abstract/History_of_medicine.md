@@ -1,1 +1,0 @@
-HippocraticOath.jpg''

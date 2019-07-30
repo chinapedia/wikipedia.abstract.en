@@ -1,1 +1,0 @@
-In poker, POT ODDS are the ratio of the current size of the pot to the cost of a contemplated call.[1] Pot odds are often compared to the probability of winning a hand with a future card in order to estimate the call's expected value.

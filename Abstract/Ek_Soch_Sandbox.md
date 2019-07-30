@@ -1,1 +1,0 @@
-The EK SOCH SANDBOX in Varanasi was inspired by the Deshpande Foundation’s Social Innovation Sandbox model - the Hubli Sandbox.[1][2] It was co-founded by Dilip Modi,[3] the pioneering telecom entrepreneur in India and Naveen Jha, CEO of Deshpande Foundation, India.

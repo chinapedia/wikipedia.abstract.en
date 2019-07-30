@@ -1,1 +1,0 @@
-ERA UNIVERSITY is a private university established in 2016[1] by the Era Educational Trust in Lucknow, Uttar Pradesh.[2] The university offer courses in the fields of medical and allied sciences, nursing, pharmacy, science, liberal arts and computer application. It is parent institute of ERA's Lucknow Medical College.

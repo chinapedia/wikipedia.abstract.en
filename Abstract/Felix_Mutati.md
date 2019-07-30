@@ -1,1 +1,0 @@
-FELIX C MUTATI (born 29 January 1959) is a Zambian politician representing the Movement for Multi-Party Democracy party.[1] . He did not run for a Member of Parliament seat and received a nominated seat by the president.[2]

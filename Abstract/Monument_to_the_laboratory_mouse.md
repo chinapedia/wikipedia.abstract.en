@@ -1,1 +1,0 @@
-The _MONUMENT TO THE LABORATORY MOUSE_ is a sculpture in the city of Novosibirsk in Siberia, Russia. It is located in a park in front of the Institute of Cytology and Genetics of the Russian Academy of Sciences, and was completed on July 1, 2013, coinciding with the 120th anniversary of the founding of the city.

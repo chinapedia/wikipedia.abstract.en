@@ -1,1 +1,0 @@
-_KASHRUT_ (also _KASHRUTH_ or _KASHRUS_, ) is a set of Jewish religious dietary laws. Food that may be consumed according to _halakha_ (Jewish law) is deemed KOSHER ( in English, ), from the Ashkenazi pronunciation of the Hebrew term _kashér_ (), meaning "fit" (in this context, fit for consumption).

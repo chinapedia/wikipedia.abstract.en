@@ -1,1 +1,0 @@
-UZAMA DOUGLAS (7 December 1998 – 29 December 2016) was a Nigerian football player in the position of defender for the Nigerian U-17 and U-20 teams. He was signed on loan from Karamone by the Nigeria National League team Gombe United F.C. in the second division league and assisted the team to be promoted into the Nigeria Premier League in 2016.

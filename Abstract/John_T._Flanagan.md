@@ -1,1 +1,0 @@
-JOHN THEODORE FLANAGAN (January 15, 1906 – March 11, 1996) was a professor of literature at the University of Minnesota and the University of Illinois who specialized in early literature of the Midwest. He was born in St. Paul, Minnesota and earned a bachelor, master and PhD degree from the University of Minnesota.

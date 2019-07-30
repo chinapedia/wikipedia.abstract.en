@@ -1,1 +1,0 @@
-SHYAMAL KRISHNA BASHAK () (born January 1, 1967) is a Bangladeshi artist, and served as senior artist cum audio-visual officer of the National Museum of Science and Technology[1] in Bangladesh for 20 years, and was previously chief artist of Bhorer Kagoj.

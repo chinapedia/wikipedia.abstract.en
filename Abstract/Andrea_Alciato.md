@@ -1,1 +1,0 @@
-Andrea_Alciato_1584.JPGAndreas-Alciatus-Opera-omnia_MG_0360.tif

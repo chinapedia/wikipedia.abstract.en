@@ -1,1 +1,0 @@
-PÄR KRISTIAN RÅDSTRÖM (1925-1963) was a Swedish writer and journalist. He also wrote popular songs and was a radio personality.[1] His novel, _Ärans portar_ (_The Gates of Glory_), published in 1954, was his first major success.[2]

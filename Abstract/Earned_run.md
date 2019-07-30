@@ -1,1 +1,0 @@
-In baseball, an EARNED RUN is any run that was fully enabled by the offensive team's production in the face of competent play from the defensive team. Conversely, an UNEARNED RUN is a run that would not have been scored without the aid of an error or a passed ball committed by the defense.

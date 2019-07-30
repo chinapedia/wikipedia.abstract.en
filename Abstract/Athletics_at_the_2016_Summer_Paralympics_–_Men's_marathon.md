@@ -1,1 +1,0 @@
-The MEN'S MARATHON athletics events for the 2016 Summer Paralympics took place in the streets of Rio de Janeiro on the 18 September. A total of three events were contested over this distance for three different disability classifications.

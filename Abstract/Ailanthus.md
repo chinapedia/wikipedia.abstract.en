@@ -1,1 +1,0 @@
-_AILANTHUS_ (;[1] derived from _ailanto,_ an Ambonese word probably meaning "tree of the gods" or "tree of heaven")[2] is a genus of trees belonging to the family Simaroubaceae, in the order Sapindales (formerly Rutales or Geraniales). The genus is native from east Asia south to northern Australasia.

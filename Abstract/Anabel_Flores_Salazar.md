@@ -1,1 +1,0 @@
-ANABEL FLORES SALAZAR (c. 1984 – 9 February 2016), a Mexican journalist working for the _El Sol de Orizaba_ in Orizaba, Veracruz, Mexico, was murdered and found dead on the Cuacnopalan-Tehuacan highway in Puebla, Mexico.[1][2][3][4][5] Her death is one of many in the Veracruz region thought to be related to drug cartel violence.[6][7]

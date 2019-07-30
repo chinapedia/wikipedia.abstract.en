@@ -1,13 +1,9 @@
-Dust_Storm_Over_Turkmenistan.jpg
-
 TURKMENISTAN is a landlocked country in Central Asia, bordering the Caspian Sea to the west, Iran and Afghanistan to the south, Uzbekistan to the north-east, and Kazakhstan to the north-west. It is the southernmost republic of the Commonwealth of Independent States (CIS), the loose federation created at the end of 1991 by most of the Post-Soviet states.
 
 Its longest border is with the Caspian Sea (). The other borders are with Iran (to the south, ), Afghanistan (to the south, ), Uzbekistan (to the north and east, ) and Kazakhstan (to the north, ). Turkmenistan is slightly larger than the US state of California in territory, occupying 488,100 km². By area, Turkmenistan ranks fourth among the former Soviet republics, after Russia, Kazakhstan, and Ukraine. The country's greatest extent from west to east is , and its greatest north-to-south distance is .
 
 
 Physical features
-
-Turkmenistan_1994_CIA_map.jpg Turkmenistan_Topography.png
 
 Terrain of Turkmenistan consists of a flat-to-rolling sandy desert, the Karakum, with its dunes slowly rising to the south; by the time they reach the border with Iran, they become the low mountains known as the Kopet Dag. The Caspian Sea washes the western shores of this mostly arid country.
 
@@ -20,7 +16,7 @@ A dominant feature of the republic's landscape is the Garagum Desert (also known
 
 Climate
 
-Turkmenistan_map_of_Köppen_climate_classification.svg Turkmenistan has a cold desert climate that is severely continental. Summers are long (from May through September), hot, and dry, while winters generally are mild and dry, although occasionally cold and damp in the north. Most precipitation falls between January and May; precipitation is slight throughout the country, with annual averages ranging from in the Kopet Dag to in the northwest. The capital, Ashgabat, close to the Iranian border in south-central Turkmenistan, averages of rainfall annually. Average annual temperatures range from in Ashgabat to in Daşoguz, on the Uzbek border in north-central Turkmenistan. The almost constant winds are northerly, northeasterly, or westerly.
+Turkmenistan has a cold desert climate that is severely continental. Summers are long (from May through September), hot, and dry, while winters generally are mild and dry, although occasionally cold and damp in the north. Most precipitation falls between January and May; precipitation is slight throughout the country, with annual averages ranging from in the Kopet Dag to in the northwest. The capital, Ashgabat, close to the Iranian border in south-central Turkmenistan, averages of rainfall annually. Average annual temperatures range from in Ashgabat to in Daşoguz, on the Uzbek border in north-central Turkmenistan. The almost constant winds are northerly, northeasterly, or westerly.
 
 
 Hydrological conditions

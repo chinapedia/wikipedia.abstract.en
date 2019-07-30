@@ -1,1 +1,0 @@
-HUMPHREY DEFOREST BOGART (;[1] December 25, 1899January 14, 1957)[2][3] was an American film and theater actor. His performances in numerous films from the Classical Hollywood era made him a cultural icon.[4][5][6] In 1999, the American Film Institute selected him as the greatest male star of classic American cinema.[7]

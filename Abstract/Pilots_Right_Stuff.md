@@ -1,1 +1,0 @@
-PILOTS RIGHT STUFF (often called just PRS) was a German aircraft manufacturer based in Brannenburg and founded by Hans Bausenwein. The company specialized in the design and manufacture of paragliders in the form of ready-to-fly aircraft.[1]

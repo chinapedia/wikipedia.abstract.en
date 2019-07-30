@@ -1,1 +1,0 @@
-The MINISTRY OF DISASTER PREPAREDNESS AND REFUGEES is a cabinet-level government ministry of Uganda. The ministry is responsible for the coordination of all refugee matters in the country. It is also responsible for national preparedness for disasters, including floods, landslides, earthquakes, droughts, and famine.[1]

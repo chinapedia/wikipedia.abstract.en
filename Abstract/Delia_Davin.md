@@ -1,1 +1,0 @@
-DELIA DAVIN (9 June 1944 – 13 October 2016) was a writer and lecturer on Chinese society and particularly Chinese women's stories.[1] She was one of the first foreign scholars to consider the impact of the policies of the Chinese Communist Party on women.[2]

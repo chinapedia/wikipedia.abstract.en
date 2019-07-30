@@ -1,1 +1,0 @@
-2017-07-29-Corner_house_in_Riga-JonasR.jpg COMMITTEE FOR STATE SECURITY OF THE LATVIAN SOVIET SOCIALIST REPUBLIC () (Russian:Комитет государственной безопасности Латвийской ССР) or KGB OF LSSR () was the secret police and state security organization[1]. It was controlled by the KGB of the Soviet Union. Established on April 10, 1954 and dissolved on August 24, 1991.

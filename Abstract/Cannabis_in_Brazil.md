@@ -1,1 +1,0 @@
-Marijuana_march_Rio_de_Janeiro_2014_May_10_Brazil_marcha_maconha.jpg

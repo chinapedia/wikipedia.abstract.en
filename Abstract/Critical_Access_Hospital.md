@@ -1,1 +1,0 @@
-The CRITICAL ACCESS HOSPITAL program is a United States federal program established in 1997 as part of the Balanced Budget Act. The program aims to offer small hospitals in rural areas to serve residents that would otherwise be a long distance from emergency care.

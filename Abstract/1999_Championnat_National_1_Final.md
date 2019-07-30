@@ -1,1 +1,0 @@
-The 1999 CHAMPIONNAT NATIONAL 1 FINAL was the fourth final of the Algerian Championnat. The match took place on May 30, 1999, at Ahmed Zabana Stadium in Oran with kick-off at 15:00. MC Alger beat JS Kabylie 1-0 to win their six Algerian Championnat.

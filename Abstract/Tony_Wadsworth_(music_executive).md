@@ -1,1 +1,0 @@
-TONY WADSWORTH has had a lifelong career in the music industry, including stints as Managing Director of the Parlophone label, Chairman & CEO of EMI Music UK and Ireland, and Chairman of the industry's trade association, the BPI.

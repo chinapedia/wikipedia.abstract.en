@@ -1,1 +1,0 @@
-Luigi_Guglielmo_Cambray-Digny.jpg LUIGI GUGLIELMO CAMBRAY-DIGNY (April 8, 1820 – December 11, 1906) was an Italian politician. He was born in Florence and he was the first mayor of his hometown. He was a recipient of the Order of Saints Maurice and Lazarus.

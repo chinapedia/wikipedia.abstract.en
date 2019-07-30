@@ -1,1 +1,0 @@
-_I GOTTA BE ME_ is a web series starring Phaldut Sharma as an actor, Paul Shah, who is given the role of Sammy Davis Jr. in a Rat Pack tribute show. The tribute show is filmed as part of a faux documentary.[1][2] [3]

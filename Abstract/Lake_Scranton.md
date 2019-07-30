@@ -1,1 +1,0 @@
-LAKE SCRANTON is a lake in Lackawanna County, Pennsylvania, with a 3.5 mile running track surrounding it.[1][2] The lake is considered to be a reservoir built with a dam in the early 1900s.[3] The lake borders East Mountain and Scranton, Pennsylvania. The lake is owned by the Pennsylvania American Water Company which supplies the city with drinking water.

@@ -1,1 +1,0 @@
-_RAAGA DEEPAM_ (English: MUSICAL LIGHT) is a 1982 Telugu drama film, produced by Kodali Bosu Babu under the Veera Rani Enterprises banner[1] and directed by Dasari Narayana Rao.[2] It stars Akkineni Nageswara Rao, Jayasudha in the lead roles and music composed by Chakravarthy.[3][4]

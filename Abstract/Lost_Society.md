@@ -1,1 +1,0 @@
-LOST SOCIETY is a Finnish four-piece thrash metal band formed in Jyväskylä, Finland in 2010. The band consists of guitarist and lead vocalist Samy Elbanna, guitarist and backing vocalist Arttu Lesonen, bassist and backing vocalist Mirko Lehtinen, and drummer Ossi Paananen.

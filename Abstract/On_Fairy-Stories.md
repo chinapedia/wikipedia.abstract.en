@@ -1,1 +1,0 @@
-"ON FAIRY-STORIES" is an essay by J. R. R. Tolkien which discusses the fairy-story as a literary form. It was initially written (and entitled simply "Fairy Stories") for presentation by Tolkien as the Andrew Lang lecture at the University of St Andrews, Scotland, on 8 March 1939.[1]

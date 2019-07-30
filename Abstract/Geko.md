@@ -1,1 +1,0 @@
-GEKO were a gothic rock duo based in Los Angeles. Formed in 1983, the band's nucleus comprised vocalist/bassist Sarah Folkman and guitarist Carrie McNinch. They released one full-length album, titled _Join My Pretty World_, in 1992 before disbanding.

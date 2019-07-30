@@ -1,1 +1,0 @@
-CARME ( ; ) is a retrograde irregular satellite of Jupiter. It was discovered by Seth Barnes Nicholson at Mount Wilson Observatory in California in July 1938.[1] It is named after the mythological Carme, mother by Zeus of Britomartis, a Cretan goddess.

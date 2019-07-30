@@ -1,1 +1,0 @@
-BASTOB ROY is an Indian former football player and is the current assistant coach of Indian Super League side ATK. He is signed as Head Coach of East Bengal F.C.During his playing days, Roy played for Mohun Bagan, Mohammedan, Tollygunge Agragami, and George Telegraph.[1]

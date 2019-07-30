@@ -1,1 +1,0 @@
-MUHAMMED ALPEREN UYSAL (born 1 January 1994) is a Turkish professional footballer who plays as a goalkeeper for Turkish TFF First League club İstanbulspor. He made his professional debut for Gaziantepspor in a 4-0 loss to Beşiktaş 2 April 2016.[1]

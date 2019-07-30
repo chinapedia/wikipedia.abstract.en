@@ -1,1 +1,0 @@
-FRENCH FRIES, or simply FRIES (North American English); CHIPS (British and Commonwealth English),[1] FINGER CHIPS (Indian English),[2] or FRENCH-FRIED POTATOES are _batonnet_ or _allumette_-cut deep-fried potatoes.

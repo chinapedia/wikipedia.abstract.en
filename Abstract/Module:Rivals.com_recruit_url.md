@@ -1,1 +1,0 @@
--- This module forms a rivals.com URL for Template:College athlete recruit end local p = {}

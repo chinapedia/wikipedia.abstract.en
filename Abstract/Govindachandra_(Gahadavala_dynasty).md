@@ -1,1 +1,0 @@
-GOVINDACHANDRA (IAST: Govindacandra, 1114–1155 CE) was an Indian king from the Gahadavala dynasty. He ruled the Antarvedi country in present-day Uttar Pradesh, including the major cities of Kanyakubja and Varanasi.

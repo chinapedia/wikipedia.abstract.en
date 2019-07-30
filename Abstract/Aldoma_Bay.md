@@ -1,1 +1,0 @@
-ALDOMA BAY (Russian: _Zaliv Aldoma_) is a small bay in the western Sea of Okhotsk. It is 8 km (5 mi) east to west and 14.5 km (9 mi) north to south. The _Aldoma River_ flows into it from the west; to its east lies the Nurki Peninsula. It is considered the best anchorage in the northwestern part of the sea as it offers shelter from northeast winds.[1][2]

@@ -1,1 +1,0 @@
-Since the late 1970s, the European Union's (EU) policy has been to develop and drive appropriate measures to improve air quality throughout the EU. The control of emissions from mobile sources, improving fuel quality and promoting and integrating environmental protection requirements into the transport and energy sector are part of these aims.

@@ -1,1 +1,0 @@
-The PERSONAL TELCO PROJECT (or PTP) is a wireless community network project in Portland, Oregon. It was founded by Adam Shand in November 2000[1] after he read a Slashdot article about the Consume The Net project in London.

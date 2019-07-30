@@ -1,1 +1,0 @@
-_FLAMBARDS_ is a novel for children or young adults by K. M. Peyton, first published by Oxford University Press in 1967 with illustrations by Victor Ambrus. Alternatively, "Flambards" is the trilogy (1967–1969) or series (1967–1981) named after its first book. The series is set in England just before, during, and after World War I.

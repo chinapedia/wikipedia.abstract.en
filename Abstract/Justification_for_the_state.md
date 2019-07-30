@@ -1,1 +1,0 @@
-The JUSTIFICATION OF THE STATE refers to the source of legitimate authority for the state or government. Typically, such a justification explains why the state should exist, and to some degree scopes the ROLE OF GOVERNMENT - what a legitimate state should or should not be able to do.

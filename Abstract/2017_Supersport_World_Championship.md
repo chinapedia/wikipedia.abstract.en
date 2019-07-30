@@ -1,1 +1,0 @@
-The 2017 SUPERSPORT WORLD CHAMPIONSHIP SEASON was the twenty-first season of the Supersport World Championship, the nineteenth held under this name. The season was contested over 12 races at 12 locations, starting from 26 February at Phillip Island Grand Prix Circuit in Australia to 4 November at Losail International Circuit in Qatar.

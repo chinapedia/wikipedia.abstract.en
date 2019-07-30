@@ -1,1 +1,0 @@
-VSEVOLOD NIKOLAYEVICH AKSYONOV (; 19 April 1902 - 29 March 1960) was a Soviet theater and film actor. He was a Meritorious Artist of the RSFSR (1947) and winner of the Stalin Prize of the first degree (1948), for the part of Harry Smith in the film _The Russian Question_.[1]

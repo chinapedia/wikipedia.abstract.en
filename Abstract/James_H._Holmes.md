@@ -1,1 +1,0 @@
-JAMES H. HOLMES (December 9, 1826 - November 25, 1900) was a Baptist minister in Richmond, Virginia. As pastor of Richmond's First African Baptist Church, he was the leader of one of the largest churches in the country.

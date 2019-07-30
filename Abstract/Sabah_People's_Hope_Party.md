@@ -1,1 +1,0 @@
-SABAH PEOPLE'S HOPE PARTY or (Harapan Rakyat) was a Sabah-based-opposition party. The party was formed on 25 October 2016, founded by Lajim Ukin.[1][2] It was the former party in the alliance of United Sabah Alliance (USA) from 2017 until 2018.[3][4][5]

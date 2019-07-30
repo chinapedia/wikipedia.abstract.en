@@ -1,1 +1,0 @@
-ALBERT OF PALATINATE-MOSBACH or ALBERT OF BAVARIA (German: _Albrecht von Pfalz-Mosbach_ or _Albrecht von Bayern_) (6 September 1440 – 20 August 1506 in Saverne) was a Roman Catholic clergyman who was bishop of Strasbourg from 1478 to 1506.

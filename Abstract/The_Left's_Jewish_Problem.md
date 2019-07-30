@@ -1,1 +1,0 @@
-_THE LEFT'S JEWISH PROBLEM: JEREMY CORBYN, ISRAEL AND ANTI‑SEMITISM_ is a 2016 book by British author Dave Rich.[1] The book argues that new antisemitism is "masked as anti-Zionism" in left-wing politics.[2]

@@ -1,1 +1,0 @@
-A CHORDATE () is an animal constituting the phylum CHORDATA (). During some period of their life cycle, chordates possess a notochord, a dorsal nerve cord, pharyngeal slits, an endostyle, and a post-anal tail: these five anatomical features define this phylum. Chordates are also bilaterally symmetric; and have a coelom, metameric segmentation, and a circulatory system.

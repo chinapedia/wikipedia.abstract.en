@@ -1,1 +1,0 @@
-MAXWELL MYRON KALMAN (May 30, 1906 – November 27, 2009) was a Canadian architect, real estate developer, and philanthropist. He designed over 1,100 commercial, residential, and institutional projects in Quebec before and after World WarII. He was noted as the architect of Canada's first shopping centre, the Norgate shopping centre, which opened in Montreal, Quebec in 1949.

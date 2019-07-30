@@ -1,1 +1,0 @@
-INTERCALATION or EMBOLISM in timekeeping is the insertion of a leap day, week, or month into some calendar years to make the calendar follow the seasons or moon phases. Lunisolar calendars may require intercalations of both days and months.

@@ -1,1 +1,0 @@
-MANANKURRA, traditionally transcribed in English ethnographic texts as MANANGOORA, is the name of an area 60 kilometres east of Borroloola in the Northern Territory of Australia which is of great importance for the Yanyuwa people and Garrwa and of many other indigenous Australian people in the south-west of the Gulf of Carpentaria. It is now sited within a pastoral lease.

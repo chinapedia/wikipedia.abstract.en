@@ -1,1 +1,0 @@
-'''Tanya Dennis ''' (born 26 August 1985) is a Canadian women's international footballer who plays as a defender. She is a member of the Canada women's national soccer team. She was part of the team at the 2003 FIFA Women's World Cup and 2007 FIFA Women's World Cup. On club level she plays for Nebraska Cornhuskers in the United States.[1]

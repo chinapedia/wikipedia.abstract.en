@@ -1,1 +1,0 @@
-_SOLOMON'S PERJURY_ () is a 2016 South Korean television series starring Kim Hyun-soo, Jang Dong-yoon, Seo Ji-hoon, Seo Young-joo and Cho Jae-hyun based on the novel of the same title by Japanese novelist Miyuki Miyabe.[1][2][3] It aired on cable network JTBC on Fridays and Saturdays at 8.30 p.m. KST from December 16, 2016 to January 28, 2017 with 12 episodes.

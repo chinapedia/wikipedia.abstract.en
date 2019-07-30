@@ -1,1 +1,0 @@
-The BISMARCK LARKS are a baseball team that plays in the Northwoods League (a collegiate summer baseball league). Based in Bismarck, North Dakota, the Larks play their home games at Bismarck Municipal Ballpark.

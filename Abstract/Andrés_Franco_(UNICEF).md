@@ -1,1 +1,0 @@
-ANDRÉS FRANCO is a Colombian diplomat and UNICEF official. He was President of the UNICEF Executive Board, the governing body of UNICEF at the international level, in 2002.[1][2] He has served as Ambassador and Deputy Permanent Representative to the United Nations (New York) of Colombia.[3]

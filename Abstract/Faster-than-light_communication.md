@@ -1,1 +1,0 @@
-SUPERLUMINAL COMMUNICATION is a hypothetical process in which information is sent at faster-than-light (FTL) speeds. The current scientific consensus is that faster-than-light communication is not possible, and to date it has not been achieved in any experiment.

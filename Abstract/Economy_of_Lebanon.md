@@ -1,1 +1,0 @@
-The ECONOMY OF LEBANON is generally classified as a developing economy. The nominal GDP was estimated $54.1 billions in 2018 [1], with a per capita GDP amounting to $12,000. Government spending amounted to $15.9 billion in 2018[2], or 23% of GDP.

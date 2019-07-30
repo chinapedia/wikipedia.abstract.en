@@ -1,1 +1,0 @@
-ALAN HOO HONG-CHING, SBS, SC, JP (; born 5 October 1951) is a Hong Kong barrister and politician. He is the chairman of the Basic Law Institute, Hong Kong member of the Chinese People's Political Consultative Conference (CPPCC) and vice-chairman of the Liberal Party.

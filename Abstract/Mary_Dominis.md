@@ -1,1 +1,0 @@
-MARY LAMBERT JONES DOMINIS (August 3, 1803 – April 25, 1889) was the first mistress of Washington Place in Honolulu. She was also the mother of John Owen Dominis, Prince Consort of the Kingdom of Hawaii, and mother-in-law of Hawaii's final monarch Queen Liliʻuokalani. She is credited with starting the Christmas tree and Santa Claus traditions for Christmas in Hawaii

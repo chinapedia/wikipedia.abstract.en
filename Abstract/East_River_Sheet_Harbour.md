@@ -1,1 +1,0 @@
-EAST RIVER SHEET HARBOUR (locally known as EAST RIVER) is a river on the Eastern Shore of Nova Scotia, Canada, in the Halifax Regional Municipality. Its headwaters are at the Marshall Flowage near Malay Falls and the mouth of the river is at the head of the Northeast Arm in Sheet Harbour, Nova Scotia.

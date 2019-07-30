@@ -1,1 +1,0 @@
-TWANG, the Toolkit for Weighting and Analysis of Nonequivalent Groups, developed by the statistics group of the RAND Corporation, contains a set of functions to support Rubin causal modeling of observational data through the estimation and evaluation of propensity score weights by applying gradient boosting. It has been applied in several studies.[1][2][3][4][5]

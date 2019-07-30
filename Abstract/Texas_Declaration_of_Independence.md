@@ -1,1 +1,0 @@
-The TEXAS DECLARATION OF INDEPENDENCE was the formal declaration of independence of the Republic of Texas from Mexico in the Texas Revolution. It was adopted at the Convention of 1836 at Washington-on-the-Brazos on March 2, 1836, and formally signed the next day after mistakes were noted in the text.

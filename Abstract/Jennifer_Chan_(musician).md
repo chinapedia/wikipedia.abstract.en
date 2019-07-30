@@ -1,1 +1,0 @@
-JENNIFER CHAN (born 25 September, year unknown) is a former Hong Kong radio personality, creative director, singer-songwriter, film actress and architect of Chinese and Scottish descent, most active around the late 1980s-2000s.

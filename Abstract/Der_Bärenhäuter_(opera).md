@@ -1,1 +1,0 @@
-_DER BÄRENHÄUTER_ is an 1899 German-language opera by Siegfried Wagner based on the German folk tale Der Bärenhäuter, or the Bearskin man.[1] As with most of Siegfried Wagner's operas it is more influenced by his teacher Humperdinck than his father Richard Wagner's operas.[2]

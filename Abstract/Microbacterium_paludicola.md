@@ -1,1 +1,0 @@
-_MICROBACTERIUM PALUDICOLA_ is a Gram-positive, xylanolytic, short-rod-shaped and non-motile bacterium from the genus of Microbacterium which has been isolated from swamp forest soil from Ulsan in Korea.[1][2][3][4]

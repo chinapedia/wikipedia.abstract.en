@@ -1,1 +1,0 @@
-The SAXHORN is a family of valved brass instruments that have conical bores and deep cup-shaped mouthpieces. The saxhorn family was developed by Adolphe Sax, who is also known for creating the saxophone family. The sound of the saxhorn has a characteristic mellow tone quality and blends well with other brass.

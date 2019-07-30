@@ -1,1 +1,0 @@
-ALBIN SAVOLA (26 July 1867, Sulkava - 8 December 1934, Forssa) was a Finnish priest and missionary, who served as the first Finnish missionary Martti Rautanen , a close colleague in Ovamboland and published literature in oshindonga language.[1][2]

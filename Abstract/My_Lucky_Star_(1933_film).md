@@ -1,1 +1,0 @@
-_MY LUCKY STAR_ is a 1933 British comedy film directed by Louis Blattner and John Harlow and starring Florence Desmond, Oscar Asche and Harry Tate. It was made at Elstree Studios as a quota quickie.[1] A young woman working in a shop poses as a film star.

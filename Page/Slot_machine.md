@@ -1,5 +1,3 @@
-Las_Vegas_slot_machines.jpg
-
 A SLOT MACHINE (American English), known variously as a FRUIT MACHINE (British English, except Scotland), PUGGY (Scottish English),[1] THE SLOTS (Canadian and American English), POKER MACHINE/POKIES (Australian English and New Zealand English), or simply SLOT (British English and American English), is a casino gambling machine that creates a game of chance for its customers.
 
 Its standard layout is a display with three or more reels which rotate when a lever is pulled or button pushed. Slot machines are also known as ONE-ARMED BANDITS because they were originally operated by pulling upon a large mechanical lever on the side of the machine (as distinct from the modern button on the front panel), and because of their ability to empty a player's pockets and wallet as a thief would.[2] Many modern machines are still equipped with a legacy lever in addition to the button.
@@ -16,7 +14,7 @@ The "slot machine" term derives from the slots on the machine for inserting and 
 
 History
 
-Liberty_bell.jpg Liberty_Bell_slot_machine_2012-09-15_16-50-38.jpg's San Francisco workshop, where he invented the three-reel slot machine. The location is a California Historical Landmark.]] Sittman and Pitt of Brooklyn, New York, U.S., developed a gambling machine in 1891 which was a precursor to the modern slot machine. It contained five drums holding a total of 50 card faces and was based on poker. This machine proved extremely popular and soon many bars in the city had one or more of the machines. Players would insert a nickel and pull a lever, which would spin the drums and the cards they held, the player hoping for a good poker hand. There was no direct payout mechanism, so a pair of kings might get the player a free beer, whereas a royal flush could pay out cigars or drinks, the prizes wholly dependent on what was on offer at the local establishment. To make the odds better for the house, two cards were typically removed from the deck: the ten of spades and the jack of hearts, which doubles the odds against winning a royal flush. The drums could also be rearranged to further reduce a player's chance of winning.
+'s San Francisco workshop, where he invented the three-reel slot machine. The location is a California Historical Landmark.]] Sittman and Pitt of Brooklyn, New York, U.S., developed a gambling machine in 1891 which was a precursor to the modern slot machine. It contained five drums holding a total of 50 card faces and was based on poker. This machine proved extremely popular and soon many bars in the city had one or more of the machines. Players would insert a nickel and pull a lever, which would spin the drums and the cards they held, the player hoping for a good poker hand. There was no direct payout mechanism, so a pair of kings might get the player a free beer, whereas a royal flush could pay out cigars or drinks, the prizes wholly dependent on what was on offer at the local establishment. To make the odds better for the house, two cards were typically removed from the deck: the ten of spades and the jack of hearts, which doubles the odds against winning a royal flush. The drums could also be rearranged to further reduce a player's chance of winning.
 
 Due to the vast number of possible wins with the original poker card-based game, it proved practically impossible to come up with a way to make a machine capable of making an automatic payout for all possible winning combinations. Somewhere between 1887 and 1895,[6] Charles Fey of San Francisco, California, U.S., devised a much simpler automatic mechanism[7] with three spinning reels containing a total of five symbols: horseshoes, diamonds, spades, hearts, and a Liberty Bell. The bell gave the machine its name. By replacing ten cards with five symbols and using three reels instead of five drums, the complexity of reading a win was considerably reduced, allowing Fey to devise an effective automatic payout mechanism. Three bells in a row produced the biggest payoff, ten nickels (50¢). _Liberty Bell_ was a huge success and spawned a thriving mechanical gaming device industry. Even when the use of these gambling devices was banned in his home state after a few years, Fey still could not keep up with demand for the game elsewhere. The Liberty Bell machine was so popular that it was copied by many slot machine manufacturers. Thus in 1907, manufacturer Herbert Mills from Chicago produced a slot machine called the Operator Bell. By 1908 lots of "bell" machines were installed in most cigar stores, saloons, bowling alleys, brothels and barber shops.[8] Early machines, including an 1899 "Liberty Bell", are now part of the Nevada State Museum's Fey Collection.[9]
 
@@ -31,7 +29,7 @@ The first American video slot machine to offer a "second screen" bonus round was
 
 Description
 
-Vegas_slots.JPG''.]]
+''.]]
 
 A person playing a slot machine can insert cash, or in ticket-in, ticket-out machines, a paper ticket with a barcode, into a designated slot on the machine. The machine is then activated by means of a lever or button, or on newer machines, by pressing a touchscreen on its face. The game itself may or may not involve skill on the player's part—or it may create the illusion of involving skill while only being a game of chance.
 
@@ -94,7 +92,7 @@ SLOT VARIANCE At the heart of slot machine gameplay is the concept of slot varia
 
 TASTE is a reference to the small amount often paid out to keep a player seated and continuously betting. Only rarely will machines fail to pay out even the minimum placed a bet over the course of several pulls.
 
-Slot_machine_Tilt_error.jpg TILT Electromechanical slot machines usually include an electromechanical "tilt switch", which makes or breaks a circuit if the machine is tilted or otherwise tampered with, and so triggers an alarm. While modern machines no longer have tilt switches, any kind of technical fault (door switch in the wrong state, reel motor failure, out of paper, etc.) is still called a "tilt".
+TILT Electromechanical slot machines usually include an electromechanical "tilt switch", which makes or breaks a circuit if the machine is tilted or otherwise tampered with, and so triggers an alarm. While modern machines no longer have tilt switches, any kind of technical fault (door switch in the wrong state, reel motor failure, out of paper, etc.) is still called a "tilt".
 
 THEORETICAL HOLD WORKSHEET A document provided by the manufacturer for all slot machines, which indicates the theoretical percentage that the slot machine should hold based on the amount paid in. The worksheet also indicates the reel strip settings, number of coins that may be played, the payout schedule, the number of reels and other information descriptive of the particular type of slot machine.
 
@@ -193,7 +191,7 @@ Malfunctioning electronic slot machines are capable of indicating jackpot winnin
 
 Regional variations
 
-Las_Vegas_slot_machines.jpg in Las Vegas]]
+in Las Vegas]]
 
 United States
 
@@ -306,7 +304,7 @@ In Russia, slot clubs appeared quite late, only in 1992. Before 1992 slot machin
 
 United Kingdom
 
-Old_fruit_machines_in_Teignmouth_10-08-06.jpg Slot_machines_at_Wookey_Hole_Caves.JPG]] The provision of slot machines is covered by the Gambling Act 2005. This superseded the Gaming Act 1968.[45]
+]] The provision of slot machines is covered by the Gambling Act 2005. This superseded the Gaming Act 1968.[45]
 
 Slot machines in the UK are categorised by definitions produced by the Gambling Commission as part of the legislation brought in with the Gambling Act of 2005.
 
@@ -373,8 +371,6 @@ Mike Dixon, PhD, professor of psychology at the University of Waterloo, Ontario,
 Psychologists Robert Breen and Marc Zimmerman[49][50] found that players of video slot machines reach a debilitating level of involvement with gambling three times as rapidly as those who play traditional casino games, even if they have gambled regularly on other forms of gambling in the past without a problem.
 
 The 2011 _60 Minutes_ report "Slot Machines: The Big Gamble"[51] focused on the link between slot machines and gambling addiction.
-
-Mills_Novelty_Co._Horse_Head_Bonus_Antique_Slot_Machine.jpg
 
 
 Skill stops

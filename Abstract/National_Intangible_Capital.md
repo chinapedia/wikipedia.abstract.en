@@ -1,1 +1,0 @@
-NATIONAL INTANGIBLE CAPITAL (NIC) performance for 59 countries 2014 as measured by the ELSS (Edvinsson-Lin-Ståhle-Ståhle) methodology for measuring stock of national intangible capital, economic impacts and efficiency of NIC:[1] Research is supported as an initiative by The New Club of Paris.[2]

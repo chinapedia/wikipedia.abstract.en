@@ -7,8 +7,6 @@ Her best-known work is _Kristin Lavransdatter_, a trilogy about life in Norway i
 
 Early life
 
-Sigrid_Undset_young.jpg
-
 Sigrid Undset was born on 20 May 1882 in the small town of Kalundborg, Denmark, at the childhood home of her mother, Charlotte Undset (1855–1939, née Anna Maria Charlotte Gyth). Undset was the eldest of three daughters. She and her family moved to Norway when she was two.
 
 She grew up in the Norwegian capital, Oslo (or Kristiania, as it was known until 1925). When she was only 11 years old, her father, the Norwegian archaeologist Ingvald Martin Undset (1853–1893), died at the age of 40 after a long illness.[2]
@@ -39,7 +37,7 @@ Undset and Svarstad were married in 1912 and went to stay in London for six mont
 
 She continued writing, finishing her last realistic novels and collections of short stories. She also entered the public debate on topical themes: women's emancipation and other ethical and moral issues. She had considerable polemical gifts, and was critical of emancipation as it was developing, and of the moral and ethical decline she felt was threatening in the wake of the First World War.
 
-Sigrid_Undset_at_Bjerkebæk.jpg Bjerkebæk_Lillehammer.jpg museum]]
+museum]]
 
 In 1919, she moved to Lillehammer, a small town in the Gudbrand Valley in southeast Norway, taking her two children with her. She was then expecting her third child. The intention was that she should take a rest at Lillehammer and move back to Kristiania as soon as Svarstad had their new house in order. However, the marriage broke down and a divorce followed. In August 1919, she gave birth to her third child, at Lillehammer. She decided to make Lillehammer her home, and within two years, Bjerkebæk, a large house of traditional Norwegian timber architecture, was completed, along with a large fenced garden with views of the town and the villages around. Here she was able to retreat and concentrate on her writing.[7]
 

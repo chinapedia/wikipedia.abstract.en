@@ -1,1 +1,0 @@
-KODIMANGALAM S. RAVICHANDRAN is the chair of the Department of Microbiology at the University of Virginia School of Medicine and director of the UVA Center for Cell Clearance. He studies apoptosis in relation to many models of human disease.

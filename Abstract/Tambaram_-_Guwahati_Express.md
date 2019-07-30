@@ -1,1 +1,0 @@
-TAMBARAM - SILGHAT TOWN EXPRESS is a weekly Express train belonging to Northeast Frontier Railway zone of Indian Railways that connects Silghat Town of Assam and Tambaram in the South Indian metropolis of Chennai, Tamil Nadu. The train was extended to Tambaram on a trail basis from August 2017.[1][2]. The train was also extended from Guwahati to Silghat Town.

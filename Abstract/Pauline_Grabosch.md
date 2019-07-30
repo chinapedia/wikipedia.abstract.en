@@ -1,1 +1,0 @@
-PAULINE SOPHIE GRABOSCH (born 14 January 1998) is a German female track cyclist, representing Germany at international competitions. She won the silver medal at the 2016 UEC European Track Championships in the 500m time trial.[1]

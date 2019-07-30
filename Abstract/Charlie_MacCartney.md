@@ -1,1 +1,0 @@
-CHARLES WILLIAM MACCARTNEY (4 February 1910 – 1982) was an English footballer who played as a centre forward. He scored 45 goals from 85 appearances in the Football League playing for Notts County, Wrexham, Carlisle United, York City and Darlington. He also played non-league football for Stamford Town, Peterborough United and Grantham.[1][2]

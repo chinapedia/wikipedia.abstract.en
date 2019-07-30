@@ -1,1 +1,0 @@
-Pyar_Ki_Dhun_Poster_1.jpg

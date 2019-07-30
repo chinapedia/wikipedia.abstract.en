@@ -1,1 +1,0 @@
-The TAKAYASU SENZUKA KOFUN or Takayasukofungun is an ancient tomb group at the foot of Mt. Takayasu which is the east part of Yao, Osaka.[1] The site is designed as a national historic site under the name “Takayasusenzukakofungun”.

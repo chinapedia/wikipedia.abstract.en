@@ -1,1 +1,0 @@
-During the 1916–17 English football season, Brentford competed in the London Combination, due to the cessation of competitive football for the duration of the First World War. Restricted by league rules mandating that all players must be members of the armed forces or munitions workers, Brentford finished third-from-bottom, having been forced to field over 50 guest players.

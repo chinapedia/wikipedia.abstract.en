@@ -1,1 +1,0 @@
-POPLAR BLUFF PUBLIC LIBRARY is a historic library building located at Poplar Bluff, Butler County, Missouri. It was built in 1936, and is a one-story, Colonial Revival style brick building. It sits on a full basement and has a gable roof.[1]

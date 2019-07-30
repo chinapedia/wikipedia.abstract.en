@@ -1,1 +1,0 @@
-In classical logic, DISJUNCTIVE SYLLOGISM[1][2] (historically known as _MODUS TOLLENDO PONENS_ (MTP),[3] Latin for "mode that affirms by denying")[4] is a valid argument form which is a syllogism having a disjunctive statement for one of its premises.[5][6]

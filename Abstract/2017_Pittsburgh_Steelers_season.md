@@ -1,1 +1,0 @@
-The 2017 PITTSBURGH STEELERS SEASON was the franchise's 85th season as a professional sports franchise and as a member of the National Football League. It was the 18th season under leadership of general manager Kevin Colbert and the eleventh under head coach Mike Tomlin. It was also the Steelers' first season since the death of Dan Rooney.

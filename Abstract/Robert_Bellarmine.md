@@ -1,1 +1,0 @@
-Stemma_dei_Roberto_Francesco_Romolo_Bellarmino.png]] Saint ROBERT BELLARMINE, S.J. (; 4 October 1542 – 17 September 1621) was an Italian Jesuit and a cardinal of the Catholic Church. He was canonized a saint in 1930 and named Doctor of the Church, one of only 36. He was one of the most important figures in the Counter-Reformation.

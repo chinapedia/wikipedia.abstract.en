@@ -1,1 +1,0 @@
-A. WAHAB was the acting regent of Poso Regency, Central Sulawesi, Indonesia; and ran the interim administration from 1959 to 1960. Due to political instability in Indonesia at the time, he was selected because he had a military background.[1]

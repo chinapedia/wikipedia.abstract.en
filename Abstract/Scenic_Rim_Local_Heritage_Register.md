@@ -1,1 +1,0 @@
-The SCENIC RIM LOCAL HERITAGE REGISTER is a heritage register containing a list of culturally-significant places within the Scenic Rim Region, Queensland, Australia. Under Section 113 of the Queensland Heritage Act 1992, all local government authorities in Queensland must maintain a local heritage register.[1]

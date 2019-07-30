@@ -1,1 +1,0 @@
-Slovenia's_national_anthem,_performed_by_the_United_States_Navy_Band.oga | image_map = EU-Slovenia.svg | map_caption = | image_map2 = Slovenia - Location Map (2013) - SVN - UNOCHA.svg | capital = Ljubljana | coordinates = | largest_city = capital | official_languages = Slovene | ethnic_groups =

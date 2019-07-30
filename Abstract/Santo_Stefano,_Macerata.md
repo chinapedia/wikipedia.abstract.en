@@ -1,1 +1,0 @@
-SANTO STEFANO, also called the _Chiesa dei Cappuccini Vecchi_, is a Renaissance-style, Roman Catholic church located on Via Fonte Maggiore, about a mile north of the town Macerata, region of Marche, Italy.

@@ -1,1 +1,0 @@
-The LAVAL ROCKET () is a professional ice hockey team playing in the American Hockey League (AHL) as an affiliate of the National Hockey League (NHL)'s Montreal Canadiens. Based in Laval, Quebec, Canada, the Rocket play their home games at Place Bell.

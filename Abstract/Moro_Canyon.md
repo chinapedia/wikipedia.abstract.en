@@ -1,1 +1,0 @@
-MORO CANYON is a canyon and seasonal stream near Laguna Beach, Orange County, California in the Crystal Cove State Park. Moro Canyon Creek originates at the summit of the San Joaquin Hills and flows southwest, under Pacific Coast Highway to empty into the Pacific Ocean at Moro Beach.[1]

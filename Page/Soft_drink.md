@@ -1,4 +1,4 @@
-Tumbler_of_cola_with_ice.jpg served with ice cubes]]
+served with ice cubes]]
 
 A SOFT DRINK (see § Terminology for other names) is a drink that usually contains carbonated water (although some lemonades are not carbonated), a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute (in the case of _diet drinks_), or some combination of these. Soft drinks may also contain caffeine, colorings, preservatives, and/or other ingredients.
 
@@ -28,7 +28,7 @@ Another early type of soft drink was lemonade, made of water and lemon juice swe
 
 Carbonated drinks
 
-Priestley_Joseph_pneumatic_trough.jpg in his experiments on gases and the carbonation of water|alt=Engraving of assorted scientific equipment, such as a pneumatic trough. A dead mouse rests under one glass canister.]] In the late 18th century, scientists made important progress in replicating naturally carbonated mineral waters. In 1767, Englishman Joseph Priestley first discovered a method of infusing water with carbon dioxide to make carbonated water[16] when he suspended a bowl of distilled water above a beer vat at a local brewery in Leeds, England. His invention of carbonated water (also known as soda water) is the major and defining component of most soft drinks.[17]
+in his experiments on gases and the carbonation of water|alt=Engraving of assorted scientific equipment, such as a pneumatic trough. A dead mouse rests under one glass canister.]] In the late 18th century, scientists made important progress in replicating naturally carbonated mineral waters. In 1767, Englishman Joseph Priestley first discovered a method of infusing water with carbon dioxide to make carbonated water[16] when he suspended a bowl of distilled water above a beer vat at a local brewery in Leeds, England. His invention of carbonated water (also known as soda water) is the major and defining component of most soft drinks.[17]
 
 Priestley found that water treated in this manner had a pleasant taste, and he offered it to his friends as a refreshing drink. In 1772, Priestley published a paper entitled _Impregnating Water with Fixed Air_ in which he describes dripping _oil of vitriol_ (or sulfuric acid as it is now called) onto chalk to produce carbon dioxide gas, and encouraging the gas to dissolve into an agitated bowl of water.[18]
 
@@ -42,13 +42,13 @@ It was not long before flavoring was combined with carbonated water. The earlies
 
 Mass market and industrialization
 
-(1883)_SCHWEPPES_MINERAL-WATERS.jpg Mineral-Waters]]
+Mineral-Waters]]
 
 Soft drinks soon outgrew their origins in the medical world and became a widely consumed product, available cheaply for the masses. By the 1840s there were more than fifty soft drink manufacturers – an increase from just ten in the previous decade. Carbonated lemonade was widely available in British refreshment stalls in 1833,[22] and in 1845 R. White's Lemonade went on sale in the UK.[23] For the Great Exhibition of 1851 in London, Schweppes was designated the official drink supplier and sold over a million bottles of lemonade, ginger beer, Seltzer water and soda-water. There was a Schweppes soda water fountain, situated directly at the entrance to the exhibition.[24]
 
 Mixer drinks became popular in the second half of the century. Tonic water was originally quinine added to water as a prophylactic against malaria and was consumed by British officials stationed in the tropical areas of South Asia and Africa. As the quinine powder was so bitter people began mixing the powder with soda and sugar, and a basic tonic water was created. The first commercial tonic water was produced in 1858.[25] The mixed drink gin and tonic also originated in British colonial India, when the British population would mix their medicinal quinine tonic with gin.[26]
 
-Image-Codd_bottle.jpg provided an effective seal for soft drinks in the late 19th century]] A persistent problem in the soft drinks industry was the lack of an effective sealing of the bottles. Carbonated drink bottles are under great pressure from the gas, so inventors tried to find the best way to prevent the carbon dioxide or bubbles from escaping. The bottles could also explode if the pressure was too great. Hiram Codd devised a patented bottling machine while working at a small mineral water works in the Caledonian Road, Islington, in London in 1870. His Codd-neck bottle was designed to enclose a marble and a rubber washer in the neck. The bottles were filled upside down, and pressure of the gas in the bottle forced the marble against the washer, sealing in the carbonation. The bottle was pinched into a special shape to provide a chamber into which the marble was pushed to open the bottle. This prevented the marble from blocking the neck as the drink was poured.[27]
+provided an effective seal for soft drinks in the late 19th century]] A persistent problem in the soft drinks industry was the lack of an effective sealing of the bottles. Carbonated drink bottles are under great pressure from the gas, so inventors tried to find the best way to prevent the carbon dioxide or bubbles from escaping. The bottles could also explode if the pressure was too great. Hiram Codd devised a patented bottling machine while working at a small mineral water works in the Caledonian Road, Islington, in London in 1870. His Codd-neck bottle was designed to enclose a marble and a rubber washer in the neck. The bottles were filled upside down, and pressure of the gas in the bottle forced the marble against the washer, sealing in the carbonation. The bottle was pinched into a special shape to provide a chamber into which the marble was pushed to open the bottle. This prevented the marble from blocking the neck as the drink was poured.[27]
 
 By mid-1873 he had granted 20 licenses and received a further 50 applications. This was boosted further by a Trade Show held in London in the same year. By 1874 the license was free to bottle manufacturers as long as they purchased the marbles, sealing rings and used his groove tool, and the mineral water firms they traded with had already bought a license to use his bottle.
 
@@ -68,7 +68,7 @@ Per capita consumption of soda varies considerably around the world. As of 2014,
 
 Production
 
-7-Up_Bottlers_Flavor_jug.jpg The syrup-like concentrate lacks sugar and is sold to franchisees to refill.]] Soft drinks are made by mixing dry or fresh ingredients with water. Production of soft drinks can be done at factories or at home. Soft drinks can be made at home by mixing a syrup or dry ingredients with carbonated water, or by lacto-fermentation. Syrups are commercially sold by companies such as Soda-Club; dry ingredients are often sold in pouches, in a style of the popular U.S. drink mix Kool-Aid. Carbonated water is made using a soda siphon or a home carbonation system or by dropping dry ice into water. Food-grade carbon dioxide, used for carbonating drinks, often comes from ammonia plants.[30]
+The syrup-like concentrate lacks sugar and is sold to franchisees to refill.]] Soft drinks are made by mixing dry or fresh ingredients with water. Production of soft drinks can be done at factories or at home. Soft drinks can be made at home by mixing a syrup or dry ingredients with carbonated water, or by lacto-fermentation. Syrups are commercially sold by companies such as Soda-Club; dry ingredients are often sold in pouches, in a style of the popular U.S. drink mix Kool-Aid. Carbonated water is made using a soda siphon or a home carbonation system or by dropping dry ice into water. Food-grade carbon dioxide, used for carbonating drinks, often comes from ammonia plants.[30]
 
 Drinks like ginger ale and root beer are often brewed using yeast to cause carbonation.
 
@@ -108,7 +108,7 @@ According to research presented at the American Heart Association's Epidemiology
 
 Dental decay
 
-Soft_drink_shelf_2.jpg Most soft drinks contain high concentrations of simple carbohydrates: glucose, fructose, sucrose and other simple sugars. If oral bacteria ferment carbohydrates and produce acids that may dissolve tooth enamel and induce dental decay, then sweetened drinks may increase the risk of dental caries. The risk would be greater if the frequency of consumption is high.[72]
+Most soft drinks contain high concentrations of simple carbohydrates: glucose, fructose, sucrose and other simple sugars. If oral bacteria ferment carbohydrates and produce acids that may dissolve tooth enamel and induce dental decay, then sweetened drinks may increase the risk of dental caries. The risk would be greater if the frequency of consumption is high.[72]
 
 A large number of soda pops are acidic as are many fruits, sauces and other foods. Drinking acidic drinks over a long period and continuous sipping may erode the tooth enamel. A 2007 study determined that some flavored sparkling waters are as erosive or more so than orange juice.[73]
 

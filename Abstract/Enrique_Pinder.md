@@ -1,1 +1,0 @@
-ENRIQUE PINDER (born August 7, 1947 in Panama City) is a Panamanian boxer in the Super bantamweight division who held the World Bantamweight Championship. During his career, he won the WBC, WBA and Lineal Bantamweight Championship of the world. Pinder defeated such men as Rafael Herrera, Jesus "Chucho" Castillo, Nestor Carlos "Baba" Jimenez, Camilo Valdespino and Heleno Ferreira.

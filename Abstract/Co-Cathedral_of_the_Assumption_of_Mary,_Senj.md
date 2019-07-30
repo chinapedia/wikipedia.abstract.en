@@ -1,1 +1,0 @@
-The CO-CATHEDRAL OF THE ASSUMPTION OF MARY [1] ( ) also called SENJ CO-CATHEDRAL Is a Catholic temple in Senj, Croatia.[2] Once it was the main cathedral of the diocese of Senj, it is now the co-cathedral of the diocese of Gospić-Mark.

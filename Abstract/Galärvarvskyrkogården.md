@@ -1,1 +1,0 @@
-Galärvarvskykogården_nov_2012b.jpg

@@ -1,1 +1,0 @@
-ÅRSTA CHURCH () is a church in Årsta, Uppsala, Sweden that was built in 1974, and was designed by Samuel Fränne. The church was originally owned by the Uppsala Missionary Congregation, but is now a district church in Vaksala parish. It has an ecumenical cooperation with the Swedish Salvation Army.[1]

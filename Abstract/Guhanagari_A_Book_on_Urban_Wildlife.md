@@ -1,1 +1,0 @@
-_GUHANAGARI: A BOOK ON URBAN WILDLIFE_ is an attempt to show the diversity of life in Christ University, Bangalore.[1] The book documents from the migratory fluttering butterflies to mammals living inside the 25 acre university campus.[2]

@@ -1,1 +1,0 @@
-On 9 October 2016 in Jerusalem, Musbah Abu Sbaih, a Hamas militant shot 8 people from a car near the Ammunition Hill light rail stop, killing two and wounding six. The police gave chase, Shaih was shot and killed while shooting at pursuing police.[1][2]

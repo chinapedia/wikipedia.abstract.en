@@ -1,1 +1,0 @@
-STOP FUNDING HATE is a social media campaign which aims to stop companies from advertising in, and thus providing funds for, certain British newspapers that it argues use "fear and division to sell more papers".[1]

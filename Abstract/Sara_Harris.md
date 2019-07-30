@@ -1,1 +1,0 @@
-SARA E HARRIS (1969-) is a Canadian scientist, and Professor in the department of Earth, Ocean, and Atmospheric Sciences, and the Associate Dean Academic[1] in the Faculty of Science at the University of British Columbia.[2] In 2015, she was named a 3M National Teaching Fellow for her MOOC on climate change.[3][4][5]

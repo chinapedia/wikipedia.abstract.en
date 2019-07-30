@@ -1,1 +1,0 @@
-MANAGE DON NIPUNI HANSIKA (born 3 August 1994) is a Sri Lankan cricketer who plays for Sri Lanka's women's cricket team.[1] She made her One Day International (ODI) debut against the West Indies on 24 February 2013.[2]

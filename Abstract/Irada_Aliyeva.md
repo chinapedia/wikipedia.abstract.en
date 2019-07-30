@@ -1,1 +1,0 @@
-IRADA AZAD GIZI ALIYEVA () – Azerbaijani athlete-paralimpic, appearing in the category F12 blindness. World Cup winner among Paralympians 2015. Irada represented Azerbaijan at the 2016 Summer Paralympic Games in Rio de Janeiro, which won the silver medal.[1][2][3][4][5]

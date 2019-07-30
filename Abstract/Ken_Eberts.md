@@ -1,1 +1,0 @@
-KEN EBERTS (born July 4, 1943) is an American painter who has been instrumental in creating the automotive art genre.[1] These are artworks inspired by and focusing on automobiles and motorcycles as their subject matter. He is a founding member of the Automotive Fine Arts Society (AFAS), and has been its president since its inception in 1983.[2]

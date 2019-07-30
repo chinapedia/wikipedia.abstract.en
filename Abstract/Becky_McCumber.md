@@ -1,1 +1,0 @@
-BECKY STUTZMAN MCCUMBER (born REBECCA STUTZMAN, 1956) is a champion in the sport of skeet shooting. She won over thirty-five world skeet shooting championships, with her first in 1983. She also set two world records, hitting 1,183 consecutive targets in the 12-gauge ladies division and 259 straight in the long run doubles division for ladies.

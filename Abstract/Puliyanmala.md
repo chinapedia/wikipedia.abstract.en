@@ -1,1 +1,0 @@
-PULIYANMALA is a village in Idukki district of Kerala state, India. The places intersects SH-19 (Munnar-Kumily) and SH-33 (Thodupuzha-Puliyanmala), which are the two important state highways in the district. It comes under the premises of Kattappana municipality and belongs to the newly formed Idukki constituency.[1]

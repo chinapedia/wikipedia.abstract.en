@@ -1,1 +1,0 @@
-San_Francisco,_California._View_of_business_district_on_Post_Street_in_neighborhood_occupied_by_res_._._._-_NARA_-_536044.tif]]

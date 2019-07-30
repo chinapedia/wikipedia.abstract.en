@@ -1,1 +1,0 @@
-The STRING QUARTET NO. 16 in F major, Op. 135, by Ludwig van Beethoven was written in October 1826[1] and was the last major work he completed. Only the final movement of the Quartet Op. 130, written as a replacement for the _Große Fuge_, was composed later. The op. 135 quartet was premiered by the Schuppanzigh Quartet in March 1828, one year after Beethoven's death.

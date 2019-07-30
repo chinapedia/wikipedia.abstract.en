@@ -81,7 +81,7 @@ Framton Nuttel, a nervous man, has come to stay in the country for his health. H
 
 "The Unrest-Cure"
 
-Saki's recurring hero Clovis Sangrail, a clever, mischievous young man, overhears the complacent middle-aged Huddle complaining of his own addiction to routine and aversion to change. Huddle's friend makes the wry suggestion that he needs an "unrest-cure" (the opposite of a rest cure), to be performed, if possible, in the home. Clovis takes it upon himself to "help" the man and his sister by involving them in an invented outrage that will be a "blot on the twentieth century". Hector_Hugh_Munro.jpg
+Saki's recurring hero Clovis Sangrail, a clever, mischievous young man, overhears the complacent middle-aged Huddle complaining of his own addiction to routine and aversion to change. Huddle's friend makes the wry suggestion that he needs an "unrest-cure" (the opposite of a rest cure), to be performed, if possible, in the home. Clovis takes it upon himself to "help" the man and his sister by involving them in an invented outrage that will be a "blot on the twentieth century".
 
 "Esmé"
 

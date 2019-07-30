@@ -1,1 +1,0 @@
-LIFT LABS (who made the Liftware spoon) was acquired by Google in September 2014 for integration into then life sciences division of Google X. [1] and Pathak became the technical lead for the division.[2]

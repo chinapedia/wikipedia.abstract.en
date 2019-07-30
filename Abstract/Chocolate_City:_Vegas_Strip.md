@@ -1,1 +1,0 @@
-_CHOCOLATE CITY: VEGAS STRIP_ is a 2017 American comedy-drama film directed and written by filmmaker Jean-Claude La Marre. The film stars Michael Jai White, Robert Ri'chard, Michael Bolwaire, Ginuwine, Mekhi Phifer, Darrin Henson, Mel B and Vivica A. Fox.[1] It is the sequel to the 2015 film _Chocolate City_.[2]

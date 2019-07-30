@@ -1,1 +1,0 @@
-The 2016 SANTIAGO CHALLENGER was a professional tennis tournament played on clay courts. It was the second edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Santiago, Chile between 17 and 22 October 2016.

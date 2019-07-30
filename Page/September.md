@@ -1,4 +1,4 @@
-SEP|the family division|Sept}} Les_Très_Riches_Heures_du_duc_de_Berry_septembre.jpg'']] Liège_(3).JPG starts in September in many countries, such as here, in Belgium]] September_WPA_poster.jpg poster, 1940]] Logansapphire.jpg, September birthstone]] 2008-05-04_at_18-26-44-Forgetmenot-Flower.jpg, September birth flower]] SEPTEMBER is the ninth month of the year in the Julian and Gregorian calendars, the third of four months to have a length of 30 days, and the fourth of five months to have a length of less than 31 days. In the Northern Hemisphere September is the seasonal equivalent of March in the Southern Hemisphere.
+SEP|the family division|Sept}} '']] starts in September in many countries, such as here, in Belgium]] poster, 1940]] , September birthstone]] , September birth flower]] SEPTEMBER is the ninth month of the year in the Julian and Gregorian calendars, the third of four months to have a length of 30 days, and the fourth of five months to have a length of less than 31 days. In the Northern Hemisphere September is the seasonal equivalent of March in the Southern Hemisphere.
 
 In the Northern hemisphere, the beginning of the meteorological autumn is on 1 September. In the Southern hemisphere, the beginning of the meteorological spring is on 1 September.[1]　
 
@@ -23,7 +23,7 @@ September is mostly in the sixth month of the astrological calendar (and the fir
 September symbols
 
 -   September's birthstone is the sapphire.
--   Morning_glory.jpg]]Aster_amellus_-_blooms_(aka).jpg]]The birth flowers for September are the forget-me-not, morning glory and aster.[7][8]
+-   ]]]]The birth flowers for September are the forget-me-not, morning glory and aster.[7][8]
 -   The zodiac signs for the month of September are Virgo and Libra whose end and start are related to equinox date (usually 22 or 23 September).
 
 

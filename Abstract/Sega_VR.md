@@ -1,1 +1,0 @@
-The SEGA VR is a virtual reality headset that was under development by Sega. Versions were planned for arcades and consoles (Sega Genesis and then Saturn), but only the arcade version was released, while the home console versions were cancelled.

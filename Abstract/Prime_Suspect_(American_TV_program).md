@@ -1,1 +1,0 @@
-Syndicated_Prime_Suspect_TV_Intro_(1992).jpg

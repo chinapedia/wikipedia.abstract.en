@@ -1,1 +1,0 @@
-ALISON VENETIA GRAHAM BETTS is a Scottish archaeologist and academic, who specialises in the "archaeology of the lands along the Silk Roads" and the nomadic peoples of the Near East.[1] Since 2012, she has been Professor of Silk Road Studies at the University of Sydney.[2][3]

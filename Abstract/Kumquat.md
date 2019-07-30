@@ -1,1 +1,0 @@
-KUMQUATS (or CUMQUATS in Australian English, ;[1] _Citrus japonica_) are a group of small fruit-bearing trees in the flowering plant family Rutaceae. They were previously classified as forming the now historical genus _Fortunella_, or placed within _Citrus sensu lato_.

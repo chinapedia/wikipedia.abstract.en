@@ -1,1 +1,0 @@
-NAM PHRIK NUM (; pronounced [nám pʰrík nùm]) is one kind of “Nam phrik”. It is normally served on small saucers placed by the main dish as a condiment or dip for bland preparations, mostly dip with raw or boiled greens, sticky rice, or pork snack.

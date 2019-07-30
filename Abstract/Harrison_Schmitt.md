@@ -1,1 +1,0 @@
-HARRISON HAGAN "JACK" SCHMITT (born July 3, 1935) is an American geologist, retired NASA astronaut, university professor, former U.S. senator from New Mexico, and, as a crew member of Apollo 17, the most recent living person to have walked on the Moon.

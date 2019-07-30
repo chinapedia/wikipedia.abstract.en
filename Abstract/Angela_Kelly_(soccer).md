@@ -1,1 +1,0 @@
-'''Angela Kelly ''' (born 10 March 1971) is a Canadian footballer who played as a midfielder for the Canada women's national football team. She was part of the team at the 1995 FIFA Women's World Cup.[1] She was a 2004 inductee into the Canada Soccer Hall of Fame.[2]

@@ -22,8 +22,6 @@ Typically, color is chosen by lot: one player uses red pieces, and the other use
 
 Gameplay
 
-Stratego.png
-
 Players alternate moving; red moves first. Each player moves one piece per turn. A player must move a piece in his turn; there is no "pass" (like that in the game of Go).
 
 Two zones in the middle of the board, each 2×2, cannot be entered by either player's pieces at any time. They are shown as lakes on the battlefield and serve as choke points to make frontal assaults less direct.
@@ -138,7 +136,7 @@ Unlike the vast literature for chess, checkers and backgammon, as of 2016, there
 
 Versions
 
-Essen_2008_0126.jpg The game remains in production, with new versions continuing to appear every few years. These are a few of the notable ones. In addition, the first U.S. edition (1961) Milton Bradley set, and a special edition 1963 set called _Stratego Fine_, had wooden pieces. The 1961 wood pieces had a design that looked like vines scaling a castle wall on the back. But note that later 1961 production featured plastic pieces (not true first editions). All other regular edition sets had plastic pieces. A few special editions as noted below had wooden or metal pieces.
+The game remains in production, with new versions continuing to appear every few years. These are a few of the notable ones. In addition, the first U.S. edition (1961) Milton Bradley set, and a special edition 1963 set called _Stratego Fine_, had wooden pieces. The 1961 wood pieces had a design that looked like vines scaling a castle wall on the back. But note that later 1961 production featured plastic pieces (not true first editions). All other regular edition sets had plastic pieces. A few special editions as noted below had wooden or metal pieces.
 
 Classic versions
 

@@ -1,1 +1,0 @@
-The specialty of KRAUS & NAIMER are load and disconnect switches as well as modular cam switches, where the company is world market leader.[1] Kraus & Naimer is a supplier of switchgear for industrial customers in the fields of transport (railways, vehicles, ships, etc.,), conveyor systems, lift systems, mechanical engineering and power generation and power distribution systems.

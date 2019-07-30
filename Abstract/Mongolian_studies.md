@@ -1,1 +1,0 @@
-MONGOLIAN STUDIES is an interdisciplinary field of scholarly inquiry concerning Mongolian language, Mongolian history, and Mongolian culture. Scholars who work in the field of Mongolian studies are often referred to as MONGOLISTS.[1]

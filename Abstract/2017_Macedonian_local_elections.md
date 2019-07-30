@@ -1,1 +1,0 @@
-The 2017 MACEDONIAN LOCAL ELECTIONS were held on October 15 and 29, 2017 in the Republic of Macedonia to elect mayors and members of municipality councils of the 80 municipalities in Macedonia. These were the sixth local elections since the independence of Macedonia.

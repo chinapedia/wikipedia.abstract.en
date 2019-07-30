@@ -1,1 +1,0 @@
-The 2ND CONGRESS OF THE COMMUNIST PARTY OF INDIA was held in Calcutta, West Bengal from February 28 to March 6, 1948.[1][2][3] At the Second Party Congress, the party line shifted dramatically under the new General Secretary B.T. Ranadive and subsequently the party engaged in revolutionary insurrections across the country.

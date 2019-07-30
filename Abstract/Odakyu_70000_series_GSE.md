@@ -1,1 +1,0 @@
-The or GSE (Graceful Super Express) is a Romancecar electric multiple unit (EMU) train type on order by the private railway operator Odakyu Electric Railway in Japan. Two seven-car trainsets are scheduled to enter service on the Odakyu Odawara Line in March 2018.[1]

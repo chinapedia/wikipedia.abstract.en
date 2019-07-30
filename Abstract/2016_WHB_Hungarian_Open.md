@@ -1,1 +1,0 @@
-The 2016 WHB HUNGARIAN OPEN was a professional tennis tournament played on hardcourt. It was the inaugural edition of the tournament and was part of the 2016 ATP Challenger Tour. It took place in Budapest, Hungary between 24 and 30 October 2016.

@@ -1,1 +1,0 @@
-KILFINAN is a hamlet on the Cowal peninsula in Argyll and Bute, Scotland. Located on the eastern side of Loch Fyne, the hamlet is northwest of the village of Tighnabruaich.[1] Kilfinan is the burial place of the clan chiefs of the Lamonts, in the 13th-century Kilfinan Parish Church.[2][3] The parish covers the entire western part of Cowal.

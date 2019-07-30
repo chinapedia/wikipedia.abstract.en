@@ -1,1 +1,0 @@
-JOHN II (; 2 August 1455 – 9 January 1499) was Elector of Brandenburg from 1486 until his death, the fourth of the House of Hohenzollern. After his death he received the posthumous cognomen _CICERO_, after the Roman orator of the same name, but the elector's eloquence and interest in the arts is debatable.[1]

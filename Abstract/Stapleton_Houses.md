@@ -1,1 +1,0 @@
-Stapleton Houses, Staten Island

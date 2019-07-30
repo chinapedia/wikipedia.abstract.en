@@ -1,4 +1,4 @@
-Sprouts-2spot-game.png SPROUTS is a paper-and-pencil game that can be enjoyed simply by both adults and children. Yet it also can be analyzed for its significant mathematical properties. It was invented by mathematicians John Horton Conway and Michael S. Paterson[1] at Cambridge University in the early 1960s. Setup is even simpler than the popular Dots and Boxes game, but game-play develops much more artistically and organically.
+SPROUTS is a paper-and-pencil game that can be enjoyed simply by both adults and children. Yet it also can be analyzed for its significant mathematical properties. It was invented by mathematicians John Horton Conway and Michael S. Paterson[1] at Cambridge University in the early 1960s. Setup is even simpler than the popular Dots and Boxes game, but game-play develops much more artistically and organically.
 
 
 Rules
@@ -22,13 +22,9 @@ In the following proofs, we suppose that a game starts with _n_ spots and lasts 
 
 Maximum number of moves
 
-Sprouts-max-moves.png
-
 Each spot starts with three _lives_ and each move reduces the total number of lives in the game by one (two lives are lost at the ends of the line, but the new spot has one life). So at the end of the game there are 3_n_−_m_ remaining lives. Each surviving spot has only one life (otherwise there would be another move joining that spot to itself), so there are exactly 3_n_−_m_ survivors. There must be at least one survivor, namely the spot added in the final move. So 3_n_−_m_ ≥ 1; hence a game can last no more than 3_n_−1 moves.
 
 This upper bound is actually the maximum, and it can be attained in many ways by ensuring that there is only one survivor at the end of the game. For instance, the game on the right has one survivor and 3_n_−1 moves.
-
-Sprouts-analysis.png
 
 Minimum number of moves
 
@@ -42,7 +38,7 @@ _m_ = 2_n_ + _p_/4
 
 So a game lasts for at least 2_n_ moves, and the number of pharisees is divisible by 4.
 
-Game_of_sprouts_with_n_initial_vertices,_ending_in_minimum_number_of_moves.png This lower bound on the length of a game is actually the minimum. The diagram on the right shows a completed game of 2_n_ moves. It has _n_ survivors, 2_n_ neighbors and 0 pharisees.
+This lower bound on the length of a game is actually the minimum. The diagram on the right shows a completed game of 2_n_ moves. It has _n_ survivors, 2_n_ neighbors and 0 pharisees.
 
 Importance in real games
 
@@ -90,7 +86,7 @@ The results for misère play are now conjectured to follow a pattern of length s
 
 Brussels Sprouts
 
-Brussel_Sprouts_Game.png A variant of the game, named BRUSSELS SPROUTS after the cruciferous vegetable, starts with a number of crosses, i.e. spots with four free ends. Each move involves joining two free ends with a curve, again not crossing any existing line, and then putting a short stroke across the line to create two new free ends. This game is finite, and the total number of moves (and thus the game's winner) is predetermined by the initial number of crosses: the players cannot affect the result by their play.
+A variant of the game, named BRUSSELS SPROUTS after the cruciferous vegetable, starts with a number of crosses, i.e. spots with four free ends. Each move involves joining two free ends with a curve, again not crossing any existing line, and then putting a short stroke across the line to create two new free ends. This game is finite, and the total number of moves (and thus the game's winner) is predetermined by the initial number of crosses: the players cannot affect the result by their play.
 
 Each move removes two free ends and introduces two more. With _n_ initial crosses, the number of moves will be 5_n_ − 2, so a game starting with an odd number of crosses will be a first player win, while a game starting with an even number will be a second player win regardless of the moves.
 

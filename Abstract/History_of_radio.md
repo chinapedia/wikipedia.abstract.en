@@ -1,1 +1,0 @@
-The early HISTORY OF RADIO is the history of technology that produces and uses radio instruments that use radio waves. Within the timeline of radio, many people contributed theory and inventions in what became radio.[1] Radio development began as "wireless telegraphy".[2] Later radio history increasingly involves matters of broadcasting.

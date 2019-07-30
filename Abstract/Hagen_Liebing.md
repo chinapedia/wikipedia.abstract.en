@@ -1,1 +1,0 @@
-HAGEN FRIEDRICH LIEBING (nickname "The Incredible Hagen“; 18 February 1961 – 25 September 2016) was a German musician and journalist, best known as the bassist for the influential punk band Die Ärzte.

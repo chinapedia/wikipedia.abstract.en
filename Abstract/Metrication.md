@@ -1,1 +1,0 @@
-Speedometer-dualsystem.jpeg (outer, in white) and kilometres per hour (inner, in red) – for Canadian[1] vehicles the scales are reversed, or in km/h only.]] Camry_Speed_Odometer.jpg, as in almost all countries.]]

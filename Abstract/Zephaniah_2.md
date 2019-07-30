@@ -1,1 +1,0 @@
-ZEPHANIAH 2 is the second chapter of the Book of Zephaniah in the Hebrew Bible or the Old Testament of the Christian Bible. This book contains the prophecies attributed to the prophet Zephaniah, and is a part of the Book of the Twelve Minor Prophets.[1][2] This chapter contains a call to penitence and oracles against nations.

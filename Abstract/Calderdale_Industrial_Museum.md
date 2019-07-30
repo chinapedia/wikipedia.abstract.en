@@ -1,1 +1,0 @@
-Square_Works,_Halifax_-_geograph.org.uk_-_1237431.jpg CALDERDALE INDUSTRIAL MUSEUM is a museum in the town of Halifax, West Yorkshire, England, dedicated to the industrial heritage of the area.[1] The museum contains a number of working machines built between 1850 - 1930 all of which were either built or used in Halifax.

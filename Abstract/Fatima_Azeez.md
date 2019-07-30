@@ -1,1 +1,0 @@
-TITILAYO FATIMA AZEEZ (born 31 December 1992) is a Nigerian badminton player.[1] In 2010, she competed at the Summer Youth Olympics in Singapore.[2] In 2011, she won the women's doubles bronze medal at the All-Africa Games in Maputo, Mozambique.[3]

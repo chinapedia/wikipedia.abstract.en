@@ -1,1 +1,0 @@
-AttilatheHunonhorsebackbyGeorgeSStuart.jpg created from his physical description mentioned in historical records.]] ATTILA (; fl. c. 406–453), frequently called ATTILA THE HUN, was the ruler of the Huns from 434 until his death in March 453. He was also the leader of a tribal empire consisting of Huns, Ostrogoths, and Alans among others, in Central and Eastern Europe.

@@ -1,1 +1,0 @@
-SAN AUGUSTIN SPRING, formerly also known as SAN AUGUSTINE SPRINGS, is a spring in the Organ Mountains in Doña Ana County, New Mexico. It lies on the east side of San Augustin Pass at an elevation of 5627 feet / 1715 meters, 14.7 miles east northeast of Las Cruces, New Mexico.[1]

@@ -1,1 +1,0 @@
-WRONKI RAILWAY STATION is a railway station serving the town of Wronki, in the Greater Poland Voivodeship, Poland. The station opened in 1848 and is located on the Poznań–Szczecin railway. The train services are operated by PKP and Przewozy Regionalne.

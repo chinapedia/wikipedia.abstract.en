@@ -1,1 +1,0 @@
-'''Juliet Acheampong ''' (born 11 July 1991) is a Ghanaian women's international footballer who plays as a midfielder for the Ghana women's national football team. She plays professionally for Ånge IF in the Swedish Damallsvenskan.

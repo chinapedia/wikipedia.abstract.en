@@ -1,1 +1,0 @@
-_LOCOMOTIVAS_ (Eng: Locomotives) is a Brazilian telenovela produced and broadcast by Rede Globo. It premiered on 1 March 1977 and ended on 12 September 1977, with a total of 168 episodes. It's the nineteenth "novela das sete" to be aired at the timeslot. It is created by Cassiano Gabus Mendes and directed by Régis Cardoso.[1][2]

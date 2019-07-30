@@ -1,1 +1,0 @@
-ABDUR RAHIM AJMAL (born 1 July 1986 in Mumbai, Maharashtra is an All India United Democratic Front politician from Assam. He was elected in Assam Legislative Assembly election in 2014 bypoll and 2016 from Jamunamukh constituency.[1][2][3][4]

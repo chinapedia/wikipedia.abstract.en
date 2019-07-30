@@ -1,1 +1,0 @@
-MOSAGALAKKU MOSAGADU is a 2015 Indian Telugu black comedy action-crime film directed by Nellore Bose and produced by Chakri Chigurapati under Lakshmi Narasimha Entertainments Banner. It stars Sudheer Babu and Nandini in lead roles. Manchu Manoj enacted a guest role in the film. It was released on 22 May 2015.

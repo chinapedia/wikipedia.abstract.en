@@ -1,1 +1,0 @@
-Roman_Reigns_in_September_2016.jpg in September 2016]] The PERSONA AND RECEPTION OF ROMAN REIGNS refers to the ascendency of American professional wrestler Roman Reigns (Leati Joseph Anoaʻi) within WWE, which has divided critical and public opinion.

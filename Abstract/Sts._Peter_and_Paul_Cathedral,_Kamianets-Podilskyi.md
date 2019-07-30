@@ -1,1 +1,0 @@
-The STS. PETER AND PAUL CATHEDRAL [1] ( ) also called KAMIANETS-PODILSKYI CATHEDRAL is the name given to a religious building affiliated with the Catholic Church which is in the cathedral square in city of Kamianets-Podilskyi in Khmelnytskyi Oblast in the west part of the European country of Ukraine.[2][3][4]

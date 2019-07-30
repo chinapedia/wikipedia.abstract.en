@@ -1,1 +1,0 @@
-DIVAN ROSSOUW (born 12 March 1996) is a Namibian rugby union player, currently playing in South Africa for the in Super Rugby, the in the Currie Cup and the in the Rugby Challenge.[1] He is a utility back that can play as a fullback, winger, centre or scrum-half.

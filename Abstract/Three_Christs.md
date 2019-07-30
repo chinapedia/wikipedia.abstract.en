@@ -1,1 +1,0 @@
-_THREE CHRISTS_ is an American drama film directed, co-produced, and co-written by Jon Avnet, based on the book _The Three Christs of Ypsilanti_ by Milton Rokeach. It screened in the Gala Presentations section at the 2017 Toronto International Film Festival.[1][2][3]

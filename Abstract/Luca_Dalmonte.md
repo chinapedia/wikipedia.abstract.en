@@ -1,1 +1,0 @@
-LUCA DALMONTE (born October 3, 1963) is an Italian professional basketball coach. From 2013-2015 he was head coach of Virtus Roma in Italy's Lega Basket Serie A and has also been the assistant coach of Italy's national basketball team.[1]

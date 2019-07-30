@@ -1,1 +1,0 @@
-FRANCES FREEBORN PAULEY (1905-2003) was a southern civil rights activist in Georgia, who battled against racial injustice and discrimination throughout her life. Due to her actions in the civil rights movement, she led to the eventual desegregation and integration of African Americans in the south.[1]

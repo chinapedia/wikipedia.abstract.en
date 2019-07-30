@@ -1,5 +1,3 @@
-Ti-map.gif
-
 Tajikistan is nestled between Kyrgyzstan and Uzbekistan to the north and west, China to the east, and Afghanistan to the south. Mountains cover 93 percent of Tajikistan's surface area. The two principal ranges, the Pamir Mountains and the Alay Mountains, give rise to many glacier-fed streams and rivers, which have been used to irrigate farmlands since ancient times. Central Asia's other major mountain range, the Tian Shan, skirts northern Tajikistan. Mountainous terrain separates Tajikistan's two population centers, which are in the lowlands of the southern (Panj River) and northern (Fergana Valley) sections of the country.[1] Especially in areas of intensive agricultural and industrial activity, the Soviet Union's natural resource utilization policies left independent Tajikistan with a legacy of environmental problems.[2]
 
 
@@ -10,7 +8,7 @@ With an area of , Tajikistan has a maximum east-to-west extent is , and its maxi
 
 Topography and drainage
 
-Tajikistan_2001_CIA_map.jpg Tajikistan_Topography.png The lower elevations of Tajikistan are divided into northern and southern regions by a complex of three mountain chains that constitute the westernmost extension of the massive Tian Shan system. Running essentially parallel from east to west, the chains are the Turkestan, Zeravshan (Zarafshan), and Hisor (Gissar) mountains. The last of these lies just north of the capital, Dushanbe, which is situated in west-central Tajikistan.[4]
+The lower elevations of Tajikistan are divided into northern and southern regions by a complex of three mountain chains that constitute the westernmost extension of the massive Tian Shan system. Running essentially parallel from east to west, the chains are the Turkestan, Zeravshan (Zarafshan), and Hisor (Gissar) mountains. The last of these lies just north of the capital, Dushanbe, which is situated in west-central Tajikistan.[4]
 
 More than half of Tajikistan lies above an elevation of . Even the lowlands, which are located in the Fergana Valley in the far north and in Khatlon Province in the southwest, are well above sea level. In the Turkestan range, highest of the western chains, the maximum elevation is . The highest elevations of this range are in the east, near the border with Kyrgyzstan. That region is dominated by the peaks of the Pamir-Alay mountain system, including two of the three highest elevations in the former Soviet Union: Mount Lenin — and Ismoil Somoni Peak — . Several other peaks in the region also exceed . The mountains contain numerous glaciers, the largest of which, Fedchenko Glacier, covers more than and is the largest glacier in the world outside the polar regions. Because Tajikistan lies in an active seismic belt, severe earthquakes are common.[5]
 
@@ -27,7 +25,7 @@ The two most important rivers in northern Tajikistan are the Syr Darya and the Z
 
 Climate
 
-Tajikistan_map_of_Köppen_climate_classification.svg Kara-kul_lake.jpg is a lake formed inside a meteor crater in Tajikistan.]] Tajikistan's climate is continental, subtropical, and semiarid, with some desert areas. The climate changes drastically according to elevation, however. The Fergana Valley and other lowlands are shielded by mountains from Arctic air masses, but temperatures in that region still drop below freezing for more than 100 days a year. In the subtropical southwestern lowlands, which have the highest average temperatures, the climate is arid, although some sections now are irrigated for farming. At Tajikistan's lower elevations, the average temperature range is in July and in January. In the eastern Pamirs, the average July temperature is , and the average January temperature is .[11]
+is a lake formed inside a meteor crater in Tajikistan.]] Tajikistan's climate is continental, subtropical, and semiarid, with some desert areas. The climate changes drastically according to elevation, however. The Fergana Valley and other lowlands are shielded by mountains from Arctic air masses, but temperatures in that region still drop below freezing for more than 100 days a year. In the subtropical southwestern lowlands, which have the highest average temperatures, the climate is arid, although some sections now are irrigated for farming. At Tajikistan's lower elevations, the average temperature range is in July and in January. In the eastern Pamirs, the average July temperature is , and the average January temperature is .[11]
 
 Tajikistan is the wettest of the Central Asian republics, with the average annual precipitation for the Kafernigan and Vakhsh valleys in the south being around , and up to in the mountains. At the Fedchenko Glacier, as much as of snow falls each year. Only in the northern Fergana Valley and in the rain shadow areas of the eastern Pamirs is precipitation as low as in other parts of Central Asia: in the eastern Pamirs less than falls per year. Most precipitation occurs in the winter and spring.
 
@@ -54,7 +52,7 @@ _party to:_ Biodiversity, Climate Change, Desertification, Environmental Modific
 
 Pamir Mountains
 
-1982_expedition_to_Tartu_Ülikool_350_(40).jpg in a 6,258-meter peak in Pamir Mountains.]] Tajikistan is home to some of the highest mountains in the world, including the Pamir and Alay ranges. 93% of Tajikistan is mountainous with altitudes ranging from to almost , and nearly 50% of Tajikistan's territory is above .
+in a 6,258-meter peak in Pamir Mountains.]] Tajikistan is home to some of the highest mountains in the world, including the Pamir and Alay ranges. 93% of Tajikistan is mountainous with altitudes ranging from to almost , and nearly 50% of Tajikistan's territory is above .
 
 The massive mountain ranges are cut by hundreds of canyons and gorges at the bottom of which run streams that flow into larger river valleys where the majority of the country's population lives and works. The Pamirs in particular are heavily glaciated, and Tajikistan is home to the largest non-polar glacier in the world, the Fedchenko Glacier.
 

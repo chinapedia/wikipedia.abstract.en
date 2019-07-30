@@ -1,1 +1,0 @@
-_DAAERA_ (Circle, literally) is a 1953 film written and directed by Kamal Amrohi, starring Meena Kumari, Nasir Khan and Nana Palsikar.[1] It was released at Bombay's Naaz cinema. Its story is loosely based on Kamal Amrohi and Meena Kumari's own love story.

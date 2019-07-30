@@ -1,1 +1,0 @@
-Lorenz_attractor_yb.svg for values 28}}, 10}}, 8/3}}]] Double-compound-pendulum.gif animation showing chaotic behavior. Starting the pendulum from a slightly different initial condition would result in a completely different trajectory. The double-rod pendulum is one of the simplest dynamical systems with chaotic solutions.]]

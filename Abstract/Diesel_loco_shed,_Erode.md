@@ -1,1 +1,0 @@
-DIESEL LOCO SHED, ERODE is an engine shed located on Erode–Chennimalai road in Erode, Tamil Nadu, India. Being closely located to Erode Junction railway station, the shed falls under Salem railway division of Southern Railway zone.

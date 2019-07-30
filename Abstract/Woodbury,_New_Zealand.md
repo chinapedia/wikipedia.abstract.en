@@ -1,1 +1,0 @@
-WOODBURY is a small township in the Canterbury Region in the South Island of New Zealand. It is about inland from Geraldine and is the gateway to the nearby Waihi and Orari River Gorges and the Four Peaks. The township is home to various small local businesses.

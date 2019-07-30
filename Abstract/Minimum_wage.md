@@ -1,1 +1,0 @@
-Fight_for_$15_on_4-15_(17161520871).jpg A MINIMUM WAGE is the lowest remuneration that employers can legally pay their workers—the price floor below which workers may not sell their labor. Most countries had introduced minimum wage legislation by the end of the 20th century.[1]

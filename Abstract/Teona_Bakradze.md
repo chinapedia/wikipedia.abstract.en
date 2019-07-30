@@ -1,1 +1,0 @@
-TEONA BAKRADZE (, born January 24, 1996) is a Georgian football forward. She is a member of the Georgian national team. Currently, she is playing in the Turkish Women's First Football League for Hakkarigücü Spor with jersey number 77.[1]

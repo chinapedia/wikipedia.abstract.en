@@ -1,1 +1,0 @@
-DEXTER SIMMONS (born August 27, 1983) is an American fashion designer and reality TV competitor living in Los Angeles, California. He has appeared in Project Runway and Rihanna's Styled to Rock, a fashion design TV competition show aired on Bravo and Lifetime.

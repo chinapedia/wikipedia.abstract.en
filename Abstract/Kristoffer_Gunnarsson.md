@@ -1,1 +1,0 @@
-KRISTOFFER GUNNARSSON MATSSON (born 26 February 1997) is a Swedish professional ice hockey defenseman who is currently playing with Mora IK of the HockeyAllsvenskan (Allsv). He was selected by the Vancouver Canucks in the fifth round, 135th overall, of the 2017 NHL Entry Draft.

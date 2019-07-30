@@ -1,1 +1,0 @@
-The BOW CURVE is a branch railway line in Bow, east London, that connects the Great Eastern Main Line (out of ) and the London, Tilbury and Southend Railway (out of ). The line, in length, connects on the GEML with on the LTSR.

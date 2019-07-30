@@ -1,1 +1,0 @@
-The film industry is built upon a large number of technologies and techniques, drawing upon photography, stagecraft, music, and many other disciplines. Following is an index of specific terminology applicable thereto.

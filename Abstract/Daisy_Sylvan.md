@@ -1,1 +1,0 @@
-DAISY SYLVAN (July 12, 1874 - Unknown), born ELENA MAZZANTINI, was an Italian film studio owner, producer, director, and actress in the silent era. She was the founder of Daisy Film, which produced ..._Bolscevismo??_ (..._Bolshevism,_ 1922) and _Sovrana_ (_Sovereign,_ 1923), both considered lost films.

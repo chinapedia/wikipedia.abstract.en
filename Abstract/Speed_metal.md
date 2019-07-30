@@ -1,1 +1,0 @@
-SPEED METAL is an extreme subgenre of heavy metal music that originated in the late 1970s from new wave of British heavy metal (NWOBHM) roots. It is described by AllMusic as "extremely fast, abrasive, and technically demanding" music.[1]

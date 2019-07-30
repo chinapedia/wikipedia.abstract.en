@@ -1,1 +1,0 @@
-KRISTIN KUUBA (born 15 February 1997) is an Estonian badminton player.[1][2] She was a bronze medalist at the 2015 European Junior Championships in the girls' doubles event with her partner Helina Rüütel.[3] Kuuba competed at the 2014 Summer Youth Olympics in Nanjing,[4] also at the 2015 Baku and 2019 Minsk European Games.[5][6]

@@ -1,1 +1,0 @@
-AHMED BADR (احمد بدر, born 1 May 1977)[1] is an Egyptian male water polo player. He was a member of the Egypt men's national water polo team at the 2004 Summer Olympics.[2][3] At the club level, he has played for Al Ahly SC.[4]

@@ -1,1 +1,0 @@
-The RIO MADEIRA ANTWREN (_Epinecrophylla amazonica_), also called MADEIRA STIPPLE-THROATED ANTWREN, MADEIRA ANTWREN or RIO MADEIRA STIPPLETHROAT, is a species of bird in the family Thamnophilidae found in Brazil and Bolivia. Until 2014, it was considered a subspecies of the stipple-throated antwren.[1][2][3] The Rio Madeira antwren has two subspecies:[4]

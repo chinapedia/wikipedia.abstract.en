@@ -45,17 +45,17 @@ The present day Sinhalese are a mixture of the indigenous people and of other pe
 
 Anuradhapura period (377 BCE–1017)
 
-Temple_between_hill_symbols_and_elephant_coin_of_the_Pandyas_Sri_Lanka_1st_century_CE.jpg coin depicting a temple between hill symbols and elephant, Pandyas, Sri Lanka, 1st century CE.]]
+coin depicting a temple between hill symbols and elephant, Pandyas, Sri Lanka, 1st century CE.]]
 
 In the early ages of the Anuradhapura Kingdom, the economy was based on farming and early settlements were mainly made near the rivers of the east, north central, and north east areas which had the water necessary for farming the whole year round. The king was the ruler of country and responsible for the law, the army, and being the protector of faith. Devanampiya Tissa (250–210 BCE) was Sinhalese was friends with the King of the Maurya clan. His links with Emperor Asoka led to the introduction of Buddhism by Mahinda (son of Asoka) around 247 BCE. Sangamitta (sister of Mahinda) brought a Bodhi sapling via Jambukola (west of Kankesanthurai). This king's reign was crucial to Theravada Buddhism and for Sri Lanka.
 
 Ellalan (205–161 BCE) was a Tamil King who ruled "Pihiti Rata" (Sri Lanka north of the Mahaweli) after killing King Asela. During Ellalan's time Kelani Tissa was a sub-king of Maya Rata (in the south-west) and Kavan Tissa was a regional sub-king of Ruhuna (in the south-east). Kavan Tissa built Tissa Maha Vihara, Dighavapi Tank and many shrines in Seruvila. Dutugemunu (161–137 BCE), the eldest son of King Kavan Tissa, at 25 years of age defeated the South Indian Tamil invader Elara (over 64 years of age) in single combat, described in the Mahavamsa. The Ruwanwelisaya, built by Dutugemunu, is a dagaba of pyramid-like proportions and was considered an engineering marvel.
 
-Bronze_imitation_of_Roman_coin_Sri_Lanka_South_India_4th_to_8th_century_CE.jpg, 4–8th century CE.]] Pulahatta (or Pulahatha), the first of the Five Dravidians, was deposed by Bahiya. He in turn was deposed by Panaya Mara who was deposed by Pilaya Mara, murdered by Dathika in 88 BCE. Mara was deposed by Valagamba I (89–77 BCE) which ended Tamil rule. The Mahavihara Theravada _Abhayagiri_ ("pro-Mahayana") doctrinal disputes arose at this time. The Tripitaka was written in Pali at Aluvihara, Matale. Chora Naga (63–51 BCE), a Mahanagan, was poisoned by his consort Anula who became queen. Queen Anula (48–44 BCE), the widow of Chora Naga and of Kuda Tissa, was the first Queen of Lanka. She had many lovers who were poisoned by her and was killed by Kuttakanna Tissa. Vasabha (67–111 CE), named on the Vallipuram gold plate, fortified Anuradhapura and built eleven tanks as well as pronouncing many edicts. Gajabahu I (114–136) invaded the Chola kingdom and brought back captives as well as recovering the relic of the tooth of the Buddha.
+, 4–8th century CE.]] Pulahatta (or Pulahatha), the first of the Five Dravidians, was deposed by Bahiya. He in turn was deposed by Panaya Mara who was deposed by Pilaya Mara, murdered by Dathika in 88 BCE. Mara was deposed by Valagamba I (89–77 BCE) which ended Tamil rule. The Mahavihara Theravada _Abhayagiri_ ("pro-Mahayana") doctrinal disputes arose at this time. The Tripitaka was written in Pali at Aluvihara, Matale. Chora Naga (63–51 BCE), a Mahanagan, was poisoned by his consort Anula who became queen. Queen Anula (48–44 BCE), the widow of Chora Naga and of Kuda Tissa, was the first Queen of Lanka. She had many lovers who were poisoned by her and was killed by Kuttakanna Tissa. Vasabha (67–111 CE), named on the Vallipuram gold plate, fortified Anuradhapura and built eleven tanks as well as pronouncing many edicts. Gajabahu I (114–136) invaded the Chola kingdom and brought back captives as well as recovering the relic of the tooth of the Buddha.
 
 A Sangam Period classic, _Manimekalai_, attributes the origin of the first Pallava King from a liaison between the daughter of a Naga king of Manipallava named Pilli Valai (Pilivalai) with a Chola king, Killivalavan, out of which union was born a prince, who was lost in ship wreck and found with a twig (_pallava_) of Cephalandra Indica (_Tondai_) around his ankle and hence named _Tondai-man_. Another version states "Pallava" was born from the union of the Brahmin Ashvatthama with a Naga Princess also supposedly supported in the sixth verse of the Bahur plates which states "From Ashvatthama was born the king named Pallava".[20]
 
-Sri_Lankan_imitations_of_4th_century_Roman_coins_4th_to_8th_century_CE.jpg There was intense Roman trade with the ancient Tamil country (present day Southern India) and Sri Lanka,[21] establishing trading settlements which remained long after the fall of the Western Roman Empire.[22]
+There was intense Roman trade with the ancient Tamil country (present day Southern India) and Sri Lanka,[21] establishing trading settlements which remained long after the fall of the Western Roman Empire.[22]
 
 During the reign of Mahasena (274–301) the Theravada (Maha Vihara) was persecuted and the Mahayanan branch of Buddhism appeared. Later the King returned to the Maha Vihara. Pandu (429) was the first of seven Pandiyan rulers, ending with Pithya in 455. Dhatusena (459–477) "Kalaweva" and his son Kashyapa (477–495) built the famous sigiriya rock palace where some 700 rock graffiti give a glimpse of ancient Sinhala.
 
@@ -74,8 +74,6 @@ Sadayavarman Sundara Pandyan I invaded Sri Lanka in the 13th century and defeate
 
 
 Transitional period (1232–1505)
-
-Francesco_Berlinghieri,_Geographia,_incunabolo_per_niccolò_di_lorenzo,_firenze_1482,_38_ceylon_02.jpg
 
 Jaffna kingdom
 
@@ -106,7 +104,7 @@ Crisis of the Sixteenth Century (1505–1594)
 
 Portuguese intervention
 
-Batticaloa_Portuguese_(dutch)_fort.jpg, Eastern Province built in the 16th century.]]
+, Eastern Province built in the 16th century.]]
 
 The first Europeans to visit Sri Lanka in modern times were the Portuguese: Lourenço de Almeida arrived in 1505 and found that the island, divided into seven warring kingdoms, was unable to fend off intruders. The Portuguese founded a fort at the port city of Colombo in 1517 and gradually extended their control over the coastal areas. In 1592, the Sinhalese moved their capital to the inland city of Kandy, a location more secure against attack from invaders. Intermittent warfare continued through the 16th century.
 
@@ -126,11 +124,9 @@ After the invasion of the Portuguese, Konappu Bandara (King Vimaladharmasuriya) 
 
 Colonial Sri Lanka (1815–1948)
 
-Karte_von_Ceylon.jpg
-
 During the Napoleonic Wars, Great Britain, fearing that French control of the Netherlands might deliver Sri Lanka to the French, occupied the coastal areas of the island (which they called Ceylon) with little difficulty in 1796. In 1802, the Treaty of Amiens formally ceded the Dutch part of the island to Britain and it became a crown colony. In 1803, the British invaded the Kingdom of Kandy in the first Kandyan War, but were repulsed. In 1815 Kandy was occupied in the second Kandyan War, finally ending Sri Lankan independence.
 
-Following the suppression of the Uva Rebellion the Kandyan peasantry were stripped of their lands by the Wastelands Ordinance, a modern enclosure movement, and reduced to penury. The British found that the uplands of Sri Lanka were very suitable for coffee, tea and rubber cultivation. By the mid-19th century, Ceylon tea had become a staple of the British market bringing great wealth to a small number of white tea planters. The planters imported large numbers of Tamil workers as indentured labourers from south India to work the estates, who soon made up 10% of the island's population. These workers had to work in slave-like conditions living in line rooms, not very different from cattle sheds. Acta_Eruditorum_-_II_alfabeti_monete,_1733_–_BEIC_13426913.jpg, 1733]] The British colonialists favoured the semi-European Burghers, certain high-caste Sinhalese and the Tamils who were mainly concentrated to the north of the country. Nevertheless, the British also introduced democratic elements to Sri Lanka for the first time in its history and the Burghers were given degree of self-government as early as 1833. It was not until 1909 that constitutional development began, with a partly elected assembly, and not until 1920 that elected members outnumbered official appointees. Universal suffrage was introduced in 1931 over the protests of the Sinhalese, Tamil and Burgher elite who objected to the common people being allowed to vote .[35]
+Following the suppression of the Uva Rebellion the Kandyan peasantry were stripped of their lands by the Wastelands Ordinance, a modern enclosure movement, and reduced to penury. The British found that the uplands of Sri Lanka were very suitable for coffee, tea and rubber cultivation. By the mid-19th century, Ceylon tea had become a staple of the British market bringing great wealth to a small number of white tea planters. The planters imported large numbers of Tamil workers as indentured labourers from south India to work the estates, who soon made up 10% of the island's population. These workers had to work in slave-like conditions living in line rooms, not very different from cattle sheds. , 1733]] The British colonialists favoured the semi-European Burghers, certain high-caste Sinhalese and the Tamils who were mainly concentrated to the north of the country. Nevertheless, the British also introduced democratic elements to Sri Lanka for the first time in its history and the Burghers were given degree of self-government as early as 1833. It was not until 1909 that constitutional development began, with a partly elected assembly, and not until 1920 that elected members outnumbered official appointees. Universal suffrage was introduced in 1931 over the protests of the Sinhalese, Tamil and Burgher elite who objected to the common people being allowed to vote .[35]
 
 Independence movement
 

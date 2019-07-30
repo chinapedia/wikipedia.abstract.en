@@ -1,1 +1,0 @@
-_WE WANT GROOVE_ is the debut studio album by American jazz and funk group Rock Candy Funk Party. It was released on January 25, 2013 through J&R Adventures.

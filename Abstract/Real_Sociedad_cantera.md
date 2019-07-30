@@ -1,1 +1,0 @@
-The CANTERA (_quarry_) of Spanish professional football club Real Sociedad is the organisation's youth academy, developing players from childhood through to the integration of the best prospects into the adult teams.

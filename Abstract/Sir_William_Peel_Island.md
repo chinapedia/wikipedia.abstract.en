@@ -1,1 +1,0 @@
-PEEL ISLAND is an island of the Andaman Islands. It belongs to the South Andaman administrative district, part of the Indian union territory of the Andaman and Nicobar Islands.[1] The island lies to the North-East of Port Blair.

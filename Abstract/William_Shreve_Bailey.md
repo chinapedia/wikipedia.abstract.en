@@ -1,1 +1,0 @@
-WILLIAM SHREVE BAILEY (1806–1886) was a US mechanic and printer born in Centerville, Ohio and who moved to Newport, Kentucky, notable for his abolitionist publications, and who received widespread support from the abolitionist movement when financially strained due effects of his work.[1][2]

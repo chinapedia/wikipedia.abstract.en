@@ -1,1 +1,0 @@
-SCANNER may refer to:

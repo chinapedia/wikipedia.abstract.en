@@ -1,1 +1,0 @@
-KWAME NKRUMAH PC (21 September 1909 – 27 April 1972) was a Ghanaian politician and revolutionary. He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957. An influential advocate of pan-Africanism, Nkrumah was a founding member of the Organisation of African Unity and winner of the Lenin Peace Prize in 1962.[1]

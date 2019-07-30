@@ -1,1 +1,0 @@
-JULES MAXIME REPOND (1853–1933) was a Swiss lawyer and law professor, writer and journalist, politician, entrepreneur and military officer. He served as commander of the Pontifical Swiss Guard for eleven years, during 1910–1921.

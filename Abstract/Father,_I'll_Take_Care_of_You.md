@@ -1,1 +1,0 @@
-_FATHER, I'LL TAKE CARE OF YOU_ () is a 2016 South Korean television series starring Kim Jaewon, Park Eun-bin, Lee Tae-hwan, Lee Soo-kyung and others. It replaced _The Flower in Prison_ and started airing on MBC on November 12, 2016 for 50 episodes.[1][2][3]

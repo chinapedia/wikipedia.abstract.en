@@ -1,1 +1,0 @@
-The ALASKA NATIVE CLAIMS SETTLEMENT ACT (ANCSA) was signed into law by President Richard Nixon on December 18, 1971, constituting at the time the largest land claims settlement in United States history.[1][2] ANCSA was intended to resolve long-standing issues surrounding aboriginal land claims in Alaska, as well as to stimulate economic development throughout Alaska.[3]

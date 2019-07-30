@@ -1,1 +1,0 @@
-WONHEE ANNE JOH is an author, theologian, professor and lecturer whose influence in the disciplines of religion, women's equality, and the Asian American experience has created a great deal of thought and positive discourse.[1]

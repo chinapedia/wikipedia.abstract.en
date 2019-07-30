@@ -1,1 +1,0 @@
-PSYCHOMETRICS is a field of study concerned with the theory and technique of psychological measurement. As defined by the US National Council on Measurement in Education (NCME), psychometrics refers to psychological measurement. Generally, it refers to the field in psychology and education that is devoted to testing, measurement, assessment, and related activities.[1]

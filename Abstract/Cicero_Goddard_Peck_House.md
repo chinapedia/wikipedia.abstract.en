@@ -1,1 +1,0 @@
-The CICERO GODDARD PECK HOUSE is a historic house at 18 Mechanicsville Road in Hinesburg, Vermont. Built in 1896 by a prominent town benefactor, it is a well-preserved example of Queen Anne Victorian architecture. It was listed on the National Register of Historic Places in 2010.[1]

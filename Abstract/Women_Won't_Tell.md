@@ -1,1 +1,0 @@
-_WOMEN WON'T TELL_ is a 1932 American Pre-Code drama film directed by Richard Thorpe and starring Sarah Padden, Otis Harlan and Gloria Shea. It was written by Lela E. Rogers, mother of Ginger Rogers.[1]

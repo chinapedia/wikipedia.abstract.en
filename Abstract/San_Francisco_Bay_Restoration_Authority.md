@@ -1,1 +1,0 @@
-San_Francisco_Bay_Restoration_Authority_logo.jpg

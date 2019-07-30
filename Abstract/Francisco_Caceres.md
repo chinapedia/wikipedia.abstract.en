@@ -1,1 +1,0 @@
-FRANCISCO CÁCERES is a TV host and producer.[1] He’s currently the Film Expert for Telemundo’s national morning show, Un Nuevo Día;[2] and the Host of his own weekly film show on DirecTV Latin America, OnCINEMA.[3] He’s also the Main Anchor for Fandango Cine, the Spanish version of the popular Movie-Ticketing website Fandango.com.[4]

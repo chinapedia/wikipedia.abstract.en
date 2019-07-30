@@ -1,1 +1,0 @@
-ZENZL MÜHSAM (born KRESZENTIA ELFINGER: 27 July 1884 – 10 March 1962) was a political activist who was involved, with her husband, Erich Mühsam, in the Munich Soviet (_"workers' council"_) of 1919.[1][2]

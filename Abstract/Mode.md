@@ -1,1 +1,0 @@
-MODE ( meaning "manner, tune, measure, due measure, rhythm, melody") may refer to:

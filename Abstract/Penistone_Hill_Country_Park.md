@@ -1,1 +1,0 @@
-PENISTONE HILL COUNTRY PARK is an open space of moorland that is located to west of Haworth and north-west of Oxenhope in West Yorkshire, England.[1] The park's highest point is detailed with a trig point which is above sea level. Since 1994, the park has been notified as being an SSSI as part of the South Pennine Moors.[2]

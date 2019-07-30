@@ -1,1 +1,0 @@
-The NATIONAL ICONOGRAPHIC MUSEUM "ONUFRI" () is an Albanian national museum dedicated to Byzantine art and iconography in Berat, Albania. The museum is located inside the Church of the Dormition of St Mary in the castle quarter Berat.[1] The museum was named to honor Onufri, an Albanian painting Headmaster of the 16th century.

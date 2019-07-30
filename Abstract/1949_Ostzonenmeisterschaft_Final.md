@@ -1,1 +1,0 @@
-The 1949 OSTZONENMEISTERSCHAFT FINAL decided the winner of the 1949 Ostzonenmeisterschaft, the 2nd edition of the Ostzonenmeisterschaft, a knockout football cup competition to decide the champions of the Soviet occupation zone.

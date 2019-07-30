@@ -1,1 +1,0 @@
-This is a comprehensive list of all Article III and Article IV UNITED STATES FEDERAL JUDGES APPOINTED BY DONALD TRUMP during his presidency, as well as a partial list of Article I federal judicial appointments, excluding appointments to the District of Columbia judiciary.[1]

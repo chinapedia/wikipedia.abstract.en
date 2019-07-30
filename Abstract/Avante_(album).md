@@ -1,1 +1,0 @@
-_AVANTE (AO VIVO EM SÃO PAULO)_ (English: "Forwards (Live in São Paulo") is the first live material by Brazilian singer Joelma, being the second CD in her solo career and the singer's first DVD, released on April 28, 2017[1] by Universal Music.[2]

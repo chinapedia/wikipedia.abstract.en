@@ -1,1 +1,0 @@
-MERTON JENNINGS BATCHELDER (March 5, 1896 – November 26, 1975) was an officer of the United States Marine Corps with the rank of brigadier general, who served as commanding officer of 25th Marine Regiment and later as chief of staff of 4th Marine Division during World War II.

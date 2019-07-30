@@ -1,1 +1,0 @@
-SHARON MCMURTRY, also known as SHARON REMER, is an American retired soccer player and was a member of the United States women's national soccer team from 1985–1986. She was the first recipient of the U.S. Soccer Female Athlete of the Year award in 1985.[1][2][3][4]

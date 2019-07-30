@@ -1,1 +1,0 @@
-PAUL SCHIMPF (born 1971) is a Republican member of the Illinois Senate from the 58th district.[1] The 58th district includes all or parts of Jefferson, Perry, Randolph, St. Clair, Monroe, Jackson, Union, and Washington counties.[2]

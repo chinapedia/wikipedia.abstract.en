@@ -1,1 +1,0 @@
-The MILITIA ()[1] or CHINA MILITIA () is the militia part of the armed forces of China, other two parts being the People's Liberation Army (PLA) and the People's Armed Police (PAP).[2] The Militia is under the leadership of the Communist Party of China (CPC)[3] and serves as an auxiliary and reserve force for the PLA.[4] It is one of the largest militias in the world.

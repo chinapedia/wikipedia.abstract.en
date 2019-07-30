@@ -1,1 +1,0 @@
-_DIVERSEY V. SCHMIDLY_, 738 F. 3d 1196 (10th Cir. 2013) is an American federal copyright case from the United States Court of Appeals for the Tenth Circuit.[1] The case addresses several important issues in U.S. copyright law, including the three-year statute of limitations, the making available right, the doctrine of fair use, and contributory infringement.

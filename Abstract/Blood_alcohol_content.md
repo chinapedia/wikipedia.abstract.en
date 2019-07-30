@@ -1,1 +1,0 @@
-BLOOD ALCOHOL CONTENT (BAC), also called BLOOD ALCOHOL CONCENTRATION, BLOOD ETHANOL CONCENTRATION, or BLOOD ALCOHOL LEVEL, is most commonly used as a metric of alcohol intoxication for legal or medical purposes.

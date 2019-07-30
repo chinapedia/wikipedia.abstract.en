@@ -1,1 +1,0 @@
-LIGA MALAYSIA (1982–1988) () was an amateur football league in Malaysia that operated from 1982 until 1988. The league was managed by Football Association of Malaysia. Malaysian League was established in 1982 after an introduction of league trophy for the winner of league stage qualification round for the Piala Malaysia competition.[1][2]

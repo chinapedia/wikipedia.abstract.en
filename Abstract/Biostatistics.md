@@ -1,1 +1,0 @@
-BIOSTATISTICS are the development and application of statistical methods to a wide range of topics in biology. It encompasses the design of biological experiments, the collection and analysis of data from those experiments and the interpretation of the results.

@@ -11,7 +11,7 @@ In 2019, founder Morris Dees was dismissed, which was followed by the resignatio
 
 History
 
-Splc.jpg.]] The Southern Poverty Law Center was founded by civil rights lawyers Morris Dees and Joseph J. Levin Jr. in August 1971[16] as a law firm originally focused on issues such as fighting poverty, racial discrimination and the death penalty in the United States. Dees asked civil rights leader Julian Bond to serve as president, a largely honorary position; he resigned in 1979 but remained on the board of directors until his death in 2015. In 1979, Dees and the SPLC began filing civil lawsuits against Ku Klux Klan chapters and similar organizations for monetary damages on behalf of their victims. The favorable verdicts from these suits served to bankrupt the KKK and other targeted organizations.[17] In 1981, the Center began its _Klanwatch_ project to monitor the activities of the KKK. That project, now called _Hatewatch,_ was later expanded to include seven other types of hate organizations.[18]
+.]] The Southern Poverty Law Center was founded by civil rights lawyers Morris Dees and Joseph J. Levin Jr. in August 1971[16] as a law firm originally focused on issues such as fighting poverty, racial discrimination and the death penalty in the United States. Dees asked civil rights leader Julian Bond to serve as president, a largely honorary position; he resigned in 1979 but remained on the board of directors until his death in 2015. In 1979, Dees and the SPLC began filing civil lawsuits against Ku Klux Klan chapters and similar organizations for monetary damages on behalf of their victims. The favorable verdicts from these suits served to bankrupt the KKK and other targeted organizations.[17] In 1981, the Center began its _Klanwatch_ project to monitor the activities of the KKK. That project, now called _Hatewatch,_ was later expanded to include seven other types of hate organizations.[18]
 
 In 1986, the entire legal staff of the SPLC, excluding Dees, resigned as the organization shifted from traditional civil rights work toward fighting right-wing extremism.[19] In 1989, the Center unveiled its Civil Rights Memorial, which was designed by Maya Lin.[20] In 1995, the _Montgomery Advertiser_ won a Pulitzer Prize recognition for work that probed management self-interest, questionable practices, and employee racial discrimination allegations in the SPLC.[21][22] The Center's "Teaching Tolerance" project was initiated in 1991[23] and in 2013 was cited as "of the most widely read periodicals dedicated to diversity and social justice in education".[24] In 2008, the SPLC and Dees were featured on _National Geographic_{{'}}s _Inside American Terror_ explaining their litigation strategy against the Ku Klux Klan.[25]
 
@@ -58,7 +58,7 @@ Within a year, the court found Miller and his followers, now calling themselves 
 
 United Klans of America
 
-In 1987, SPLC won a case against the United Klans of America for the lynching of Michael Donald, a black teenager in Mobile, Alabama.[58] The SPLC used an unprecedented legal strategy of holding an organization responsible for the crimes of individual members to help produce a $7 million judgment for the victim's mother.[59] The verdict forced United Klans of America into bankruptcy. Its national headquarters was sold for approximately $52,000 to help satisfy the judgment.[60] In 1987, five members of a Klan offshoot, the White Patriot Party, were indicted for stealing military weaponry and plotting to kill Dees.[61] The SPLC has since successfully used this precedent to force numerous Ku Klux Klan and other hate groups into bankruptcy.[62] Civil_Rights_Memorial_fountain.jpg in Montgomery]]
+In 1987, SPLC won a case against the United Klans of America for the lynching of Michael Donald, a black teenager in Mobile, Alabama.[58] The SPLC used an unprecedented legal strategy of holding an organization responsible for the crimes of individual members to help produce a $7 million judgment for the victim's mother.[59] The verdict forced United Klans of America into bankruptcy. Its national headquarters was sold for approximately $52,000 to help satisfy the judgment.[60] In 1987, five members of a Klan offshoot, the White Patriot Party, were indicted for stealing military weaponry and plotting to kill Dees.[61] The SPLC has since successfully used this precedent to force numerous Ku Klux Klan and other hate groups into bankruptcy.[62] in Montgomery]]
 
 White Aryan Resistance
 
@@ -122,7 +122,7 @@ Projects
 
 Tolerance.org
 
-CivilRightsMemorial-SPLC.jpg]] SPLC's projects include the website Tolerance.org, which provides news on tolerance issues, education for children, guidebooks for activists, and resources for parents and teachers.See:
+]] SPLC's projects include the website Tolerance.org, which provides news on tolerance issues, education for children, guidebooks for activists, and resources for parents and teachers.See:
 
 -   -   -   -   The website received Webby Awards in 2002 and 2004 for Best Activism.[106] Another product of Tolerance.org is the "10 Ways To Fight Hate on Campus: A Response Guide for College Activists" booklet.[107]
 

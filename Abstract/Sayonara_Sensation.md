@@ -1,1 +1,0 @@
-"SAYONARA SENSATION" is the second single by Hey! Say! JUMP's sub group, SENSATIONS, and the group's eighteenth single overall. It was released for the film _Assassination Classroom: Graduation_, starring group member Ryosuke Yamada.[1] The group made two music videos for the single: New Gear Mode and Final Battle Mode.

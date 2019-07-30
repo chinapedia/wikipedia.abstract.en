@@ -1,1 +1,0 @@
-"BERTIE TAKES GUSSIE'S PLACE AT DEVERILL HALL" is the fourth episode of the third series of the 1990s British comedy television series _Jeeves and Wooster_. It is also called "Right Ho! Jeeves". It first aired in the UK on on ITV.[1]

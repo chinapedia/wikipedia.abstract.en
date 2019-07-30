@@ -1,1 +1,0 @@
-SEBASTIAN GRAHAM-JONES was a British actor and director known for such films and television series as _Ace of Wands_, _Travelling Man_, _Because of the Cats_, _The Little Drummer Girl_ and _Shadow of the Noose_. Jones was also a theatre director and musician. He died at aged 56 of cancer.[1][2][3][4]

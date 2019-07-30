@@ -1,1 +1,0 @@
-This article is about the DEMOGRAPHIC FEATURES OF THE POPULATION OF THE ISLE OF MAN, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population. The UN estimate of population as at mid- is .

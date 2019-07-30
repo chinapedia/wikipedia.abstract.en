@@ -20,7 +20,7 @@ Most Solomon Islanders maintain this traditional social structure and find their
 
 The World Factbook demographic statistics
 
-The following demographic statistics are from The World Factbook, unless otherwise indicated.[3] Solomon_Islands_Demo.png, year 2005 ; Number of inhabitants in thousands.]]
+The following demographic statistics are from The World Factbook, unless otherwise indicated.[3] , year 2005 ; Number of inhabitants in thousands.]]
 
 Population
 

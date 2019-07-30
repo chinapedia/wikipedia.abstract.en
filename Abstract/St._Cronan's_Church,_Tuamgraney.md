@@ -1,1 +1,0 @@
-ST. CRONAN'S CHURCH is a 10th-century Church of Ireland church in Tuamgraney, County Clare, Ireland. It is the oldest church in continuous use in Ireland. The Tuamgraney parish operates as a unit with the Mountshannon parish in the Killaloe Union of parishes in the Diocese of Limerick and Killaloe.[1][2][3]

@@ -1,1 +1,0 @@
-Vonasera_Pipina.jpg PIPINA BONASERA (1838–1927), was a Greek stage actor. She belonged to the pioneer generation of modern Greek theater and was one of the first professional Greek actresses as well as one of the first female theater stars of her country. She was also the first theater director of her sex in Greece.

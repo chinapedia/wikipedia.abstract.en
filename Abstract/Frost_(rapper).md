@@ -1,1 +1,0 @@
-ARTURO MOLINA, JR. (born May 31, 1964), better known as FROST (originally KID FROST), is an American rapper, songwriter and record producer. He is from Los Angeles, California. He is also the father of American record producer Scoop DeVille.

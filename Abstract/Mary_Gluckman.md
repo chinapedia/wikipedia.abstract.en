@@ -1,1 +1,0 @@
-MARY GLUCKMAN (1917–1990) was an Italian linguist and anthropologist. She was the wife of Professor Max Gluckman at Manchester University and worked at her husband's side for many years. After his death in 1975, she served with Voluntary Service Overseas for over two years in Sierra Leone.

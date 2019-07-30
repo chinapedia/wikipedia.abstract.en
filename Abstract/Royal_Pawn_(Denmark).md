@@ -1,1 +1,0 @@
-The '''Royal Pawn ''' (Danish: Det Kongelige Assistenshus) was a pawnbroking establishment which existed from 1688 to 1975 in Copenhagen, Denmark. It was created at private initiative but was taken over by the state in 1758. Its former building at NYBROGADE 2 was expanded by Philip de Lange in 1762. It is now home to the Ministry of Culture.

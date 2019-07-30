@@ -1,1 +1,0 @@
-_THE BEAUTIFUL CITY_ is a 1925 American drama film directed by Kenneth Webb and starring Richard Barthelmess, Dorothy Gish, and William Powell. For their mother's sake, a man takes the blame for a robbery committed by his brother and his brother's gangster boss.

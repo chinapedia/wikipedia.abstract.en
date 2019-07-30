@@ -1,1 +1,0 @@
-_7 FIRST KISSES_ () is a South Korean promotional web series produced for Lotte Duty Free Shop. It premiered online through Naver TV Cast and YouTube every Monday and Thursday at 10:00 (KST) starting from December 5, 2016 to January 5, 2017.[1][2]

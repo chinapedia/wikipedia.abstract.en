@@ -1,1 +1,0 @@
-WENNER DUDLEY JOHNSON (April 3, 1930 – October 24, 2016) was an American cardiothoracic surgeon who became known as the father of coronary artery bypass surgery. He and a colleague operated on one of the longest-surviving patients in the early days of heart transplants, and he made significant contributions to several other cardiac surgical procedures.

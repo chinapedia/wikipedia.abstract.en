@@ -1,1 +1,0 @@
-'''''The Apocalypse Fire ''''' is a 2016 mystery detective thriller novel by the English historian and journalist Dominic Selwood. It is part two of the Ava Curzon trilogy and sequel to The Sword of Moses.

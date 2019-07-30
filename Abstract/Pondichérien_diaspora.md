@@ -1,1 +1,0 @@
-The PONDICHÉRIEN DIASPORA is a demographic group of people from Puducherry state of India who have emigrated and settled in other parts of the world, significantly in France, Réunion and the French Caribbean islands of Martinique and Guadeloupe. There are around 300,000 of them living around the world.

@@ -1,1 +1,0 @@
-CCD may refer to:

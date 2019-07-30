@@ -1,1 +1,0 @@
-RAGA is a Tehsil in the Indian state of Arunachal Pradesh.[1] [Kamle district | Kamle district]] is the name of the district that contains Tehsil Raga. Present MLA of 25th Raga constituency is TARIN DAKPE(Gapak).

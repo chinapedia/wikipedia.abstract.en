@@ -1,1 +1,0 @@
-The EXABYTE is a multiple of the unit byte for digital information. In the International System of Units (SI), the prefix _exa_ indicates multiplication by the sixth power of 1000 (10¹⁸). Therefore, one exabyte is one quintillion bytes (short scale). The unit symbol for the exabyte is EB.

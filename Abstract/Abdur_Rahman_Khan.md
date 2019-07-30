@@ -1,1 +1,0 @@
-ABDUR RAHMAN KHAN () (between 1840 and 1844October 1, 1901) was Emir of Afghanistan from 1880 to 1901.[1] He is known for uniting the country after years of internal fighting. He is also known for signing the controversial Durand Line Agreement with British India.

@@ -1,1 +1,0 @@
-VLADIMIR KOVAL (; born February 28, 1975) is a Ukrainian former footballer who played in the Ukrainian Second League, Canadian National Soccer League, Canadian International Soccer League, Canadian Professional Soccer League, and Ontario Soccer League. He is currently manager of FC Ukraine United of the Canadian Soccer League.

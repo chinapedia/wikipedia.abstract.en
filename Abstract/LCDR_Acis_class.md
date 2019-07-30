@@ -1,1 +1,0 @@
-The LCDR _ACIS_ CLASS was a class of fourteen steam locomotives of the 0-6-0 wheel arrangement. They were designed by William Martley for the London, Chatham and Dover Railway (LCDR) as goods locomotives.

@@ -1,1 +1,0 @@
-_BACTRIANOSCYTHRIS PAMIRICA_ is a moth of the Scythrididae family. It was described by Pietro Passerin d'Entrèves and Angela Roggero in 2008.[1] It is found in Afghanistan,[2] where it has been recorded from the Pamir Mountains.

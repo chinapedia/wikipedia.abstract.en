@@ -1,1 +1,0 @@
-MIGUEL HERRERO Y RODRÍGUEZ DE MIÑÓN (born 18 June 1940) is a Spanish lawyer and politician, member of the Union of the Democratic Centre until 1982, then of People's Alliance and its successor, the People's Party.[1]

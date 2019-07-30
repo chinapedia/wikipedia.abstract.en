@@ -1,1 +1,0 @@
-ROUTE 41 is an express bus route operated by King County Metro in Seattle, Washington. It connects Lake City and Northgate to Downtown Seattle, with non-stop service on Interstate 5 south of Northgate Transit Center.

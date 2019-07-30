@@ -12,7 +12,7 @@ The Captains Regent
 
 Every six months, the Council elects two Captains Regent to be the heads of state. The foundational theory was to create a balance of power or, at least, reciprocal control. They serve a 6-month term. The investiture of the Captains Regent takes place on April 1 and October 1 in every year. Once this term is over, citizens have 3 days in which to file complaints about the Captains' activities. If they warrant it, judicial proceedings against the ex-head(s) of state can be initiated.
 
-The practice of dual heads of state, according to the principle of Collegiality, as well as the frequent re-election of same, are derived directly from the customs of the Roman Republic. The Council is equivalent to the Roman Senate; the Captains Regent, to the consuls of ancient Rome.San_Marino_tron_kapitanow_regentow.jpg
+The practice of dual heads of state, according to the principle of Collegiality, as well as the frequent re-election of same, are derived directly from the customs of the Roman Republic. The Council is equivalent to the Roman Senate; the Captains Regent, to the consuls of ancient Rome.
 
 
 The Congress of State

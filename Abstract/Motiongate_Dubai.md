@@ -1,1 +1,0 @@
-MOTIONGATE DUBAI is a Hollywood-inspired theme park located in Dubai Parks and Resorts, Dubai, United Arab Emirates, showcasing themed areas and attractions based on DreamWorks Animation, Columbia Pictures, Lionsgate, and _The Smurfs_ and was opened on December 16, 2016.

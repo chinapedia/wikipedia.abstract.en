@@ -1,1 +1,0 @@
-Chaparral_-_studies_in_the_dwarf_forests,_or_elfin-wood,_of_southern_California_(1911)_(20596498991).jpg (_Rhus integrifolia_)]] ANNIE ELIZABETH HOYLE (1851–1931) was an artist from West Virginia who worked in the United States Forest Service from 1908 until 1930.[1][2] She illustrated _The Pine Trees of the Rocky Mountain Region_ by botanist George Sudworth.[3]

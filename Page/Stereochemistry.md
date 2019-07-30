@@ -1,4 +1,4 @@
-Isomerism.svgs. Stereochemistry focuses on stereoisomers]]
+s. Stereochemistry focuses on stereoisomers]]
 
 STEREOCHEMISTRY, a subdiscipline of chemistry, involves the study of the relative spatial arrangement of atoms that form the structure of molecules and their manipulation.[1] The study of stereochemistry focuses on stereoisomers, which by definition have the same molecular formula and sequence of bonded atoms (constitution), but differ in the three-dimensional orientations of their atoms in space. For this reason, it is also known as 3D chemistry—the prefix "stereo-" means "three-dimensionality".[2]
 
@@ -16,12 +16,12 @@ Cahn–Ingold–Prelog priority rules are part of a system for describing a mole
 
 Thalidomide example
 
-Thalidomide-structures.png An often cited example of the importance of stereochemistry relates to the thalidomide disaster. Thalidomide is a pharmaceutical drug, first prepared in 1957 in Germany, prescribed for treating morning sickness in pregnant women. The drug was discovered to be teratogenic, causing serious genetic damage to early embryonic growth and development, leading to limb deformation in babies. Some of the several proposed mechanisms of teratogenecity involve a different biological function for the (_R_)- and the (_S_)-thalidomide enantiomers.[5] In the human body however, thalidomide undergoes racemization: even if only one of the two enantiomers is administered as a drug, the other enantiomer is produced as a result of metabolism.[6] Accordingly, it is incorrect to state that one stereoisomer is safe while the other is teratogenic.[7] Thalidomide is currently used for the treatment of other diseases, notably cancer and leprosy. Strict regulations and controls have been enabled to avoid its use by pregnant women and prevent developmental deformations. This disaster was a driving force behind requiring strict testing of drugs before making them available to the public.
+An often cited example of the importance of stereochemistry relates to the thalidomide disaster. Thalidomide is a pharmaceutical drug, first prepared in 1957 in Germany, prescribed for treating morning sickness in pregnant women. The drug was discovered to be teratogenic, causing serious genetic damage to early embryonic growth and development, leading to limb deformation in babies. Some of the several proposed mechanisms of teratogenecity involve a different biological function for the (_R_)- and the (_S_)-thalidomide enantiomers.[5] In the human body however, thalidomide undergoes racemization: even if only one of the two enantiomers is administered as a drug, the other enantiomer is produced as a result of metabolism.[6] Accordingly, it is incorrect to state that one stereoisomer is safe while the other is teratogenic.[7] Thalidomide is currently used for the treatment of other diseases, notably cancer and leprosy. Strict regulations and controls have been enabled to avoid its use by pregnant women and prevent developmental deformations. This disaster was a driving force behind requiring strict testing of drugs before making them available to the public.
 
 
 Definitions
 
-Synantipericlinal.svg Many definitions that describe a specific conformer (IUPAC Gold Book) exist, developed by William Klyne and Vladimir Prelog, constituting their Klyne–Prelog system of nomenclature:
+Many definitions that describe a specific conformer (IUPAC Gold Book) exist, developed by William Klyne and Vladimir Prelog, constituting their Klyne–Prelog system of nomenclature:
 
 -   a torsion angle of ±60° is called GAUCHE[8]
 -   a torsion angle between 0° and ±90° is called SYN (s)

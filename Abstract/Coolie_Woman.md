@@ -1,1 +1,0 @@
-_COOLIE WOMAN_ (full title: _COOLIE WOMAN: THE ODYSSEY OF INDENTURE_) is a book written by Gaiutra Bahadur and co-published in 2013 by Hurst and Company of London in Europe and the University of Chicago Press in the US. Editions from Hachette in India in 2013 and Jacana in South Africa in 2014 followed.

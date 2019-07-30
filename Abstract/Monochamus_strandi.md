@@ -1,1 +1,0 @@
-_MONOCHAMUS STRANDI_ is a species of beetle in the family Cerambycidae. It was described by Stephan von Breuning in 1939. It is known from Equatorial Guinea, the Democratic Republic of the Congo, Gabon, Cameroon, and the Ivory Coast.[1]

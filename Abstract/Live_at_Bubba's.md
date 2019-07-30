@@ -1,1 +1,0 @@
-_LIVE AT BUBBA'S_ is a live album by American jazz pianist Ahmad Jamal featuring performances recorded at Bubba's Jazz Restaurant in Fort Lauderdale, FL on May 20, 1980 and released on Who's Who in Jazz in 1981.[1][2]

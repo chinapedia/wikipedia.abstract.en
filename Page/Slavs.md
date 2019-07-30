@@ -1,5 +1,3 @@
-Slavic_World_updated.png
-
 SLAVS are modern Indo-European peoples who speak the various Slavic languages of the larger Balto-Slavic linguistic group. They are native to Eurasia, stretching from Central, Eastern, and Southeastern Europe all the way north and eastwards to Northeast Europe, Northern Asia (Siberia), and Central Asia (especially Kazakhstan and Turkmenistan), as well as historically in Western Europe (particularly in East Germany) and Western Asia (including Anatolia). From the early 6th century they spread to inhabit the majority of Central, Eastern and Southeastern Europe. Today, there is a large Slavic diaspora throughout North America, particularly in the United States and Canada as a result of immigration.[1]
 
 Slavs are the largest ethno-linguistic group in Europe.[2] Present-day Slavic people are classified into East Slavs (chiefly Belarusians, Russians, Rusyns, and Ukrainians), West Slavs (chiefly Czechs, Kashubs, Moravians, Poles, Silesians, Slovaks and Sorbs), and South Slavs (chiefly Bosniaks, Bulgarians, Croats, Macedonians, Gorani, Montenegrins, Serbs and Slovenes).[3][4][5][6]
@@ -11,7 +9,7 @@ The second-largest religion among the Slavs after Christianity is Islam. Muslim 
 
 Ethnonym
 
-Баян.jpg, a legendary story teller and oral historian]] The oldest mention of the Slavic ethnonym is the 6th century AD Procopius, writing in Byzantine Greek, using various forms such as _Sklaboi_ (), _Sklabēnoi_ (), _Sklauenoi_ (), _Sthlabenoi_ (), or _Sklabinoi_ (),[8] while his contemporary Jordanes refers to the in Latin.[9] The oldest documents written in Old Church Slavonic, dating from the 9th century, attest the autonym as _Slověne_ (). These forms point back to a Slavic autonym which can be reconstructed in Proto-Slavic as , plural _Slověne_.
+, a legendary story teller and oral historian]] The oldest mention of the Slavic ethnonym is the 6th century AD Procopius, writing in Byzantine Greek, using various forms such as _Sklaboi_ (), _Sklabēnoi_ (), _Sklauenoi_ (), _Sthlabenoi_ (), or _Sklabinoi_ (),[8] while his contemporary Jordanes refers to the in Latin.[9] The oldest documents written in Old Church Slavonic, dating from the 9th century, attest the autonym as _Slověne_ (). These forms point back to a Slavic autonym which can be reconstructed in Proto-Slavic as , plural _Slověne_.
 
 The reconstructed autonym is usually considered a derivation from _slovo_ ("word"), originally denoting "people who speak (the same language)", i. e. people who understand each other, in contrast to the Slavic word denoting German people, namely , meaning "silent, mute people" (from Slavic "mute, mumbling"). The word _slovo_ ("word") and the related _slava_ ("glory, fame") and _slukh_ ("hearing") originate from the Proto-Indo-European root ("be spoken of, glory"), cognate with Ancient Greek ( "fame"), as in the name Pericles, Latin ("be called"), and English .
 
@@ -19,8 +17,6 @@ The reconstructed autonym is usually considered a derivation from _slovo_ ("word
 History and origins
 
 First mentions
-
-The_origin_and_dispersion_of_Slavs_in_the_5-10th_centuries.png
 
 Ancient Roman sources refer to the Early Slavic peoples as Veneti, who dwelled in a region of central Europe east of the Germanic tribe of Suebi, and west of the Iranian Sarmatians in the 1st and 2nd centuries AD.[10][11] The Slavs under name of the _Antes_ and the _Sclaveni_ first appear in Byzantine records in the early 6th century. Byzantine historiographers under emperor Justinian I (527–565), such as Procopius of Caesarea, Jordanes and Theophylact Simocatta describe tribes of these names emerging from the area of the Carpathian Mountains, the lower Danube and the Black Sea, invading the Danubian provinces of the Eastern Empire.
 
@@ -30,15 +26,13 @@ Menander Protector mentions a Daurentius (circa 577–579) who slew an Avar envo
 
 Migrations
 
-Slavic_tribes_in_the_7th_to_9th_century.jpg
-
 According to eastern homeland theory, prior to becoming known to the Roman world, Slavic-speaking tribes were part of the many multi-ethnic confederacies of Eurasia – such as the Sarmatian, Hun and Gothic empires. The Slavs emerged from obscurity when the westward movement of Germans in the 5th and 6th centuries CE (thought to be in conjunction with the movement of peoples from Siberia and Eastern Europe: Huns, and later Avars and Bulgars) started the great migration of the Slavs, who settled the lands abandoned by Germanic tribes fleeing the Huns and their allies: westward into the country between the Oder and the Elbe-Saale line; southward into Bohemia, Moravia, much of present-day Austria, the Pannonian plain and the Balkans; and northward along the upper Dnieper river. It has also been suggested that some Slavs migrated with the Vandals to the Iberian Peninsula and even North Africa.[16]
 
 Around the 6th century, Slavs appeared on Byzantine borders in great numbers.[17] Byzantine records note that Slav numbers were so great, that grass would not regrow where the Slavs had marched through. After a military movement even the Peloponnese and Asia Minor were reported to have Slavic settlements.[18] This southern movement has traditionally been seen as an invasive expansion.[19] By the end of the 6th century, Slavs had settled the Eastern Alps regions.
 
 Middle Ages
 
-Great_moravia_svatopluk.png was one of the first major Slavic states, 833–907 AD]]
+was one of the first major Slavic states, 833–907 AD]]
 
 When Slav migrations ended, their first state organizations appeared, each headed by a prince with a treasury and a defense force. In the 7th century, the Frankish merchant Samo supported the Slavs against their Avar rulers, and became the ruler of the first known Slav state in Central Europe, Samo's Empire. This early Slavic polity probably did not outlive its founder and ruler, but it was the foundation for later West Slavic states on its territory. The oldest of them was Carantania; others are the Principality of Nitra, the Moravian principality (see under Great Moravia) and the Balaton Principality. The First Bulgarian Empire was founded in 681 as an alliance between the ruling Bulgars and the numerous slavs in the area, and their South Slavic language, the Old Church Slavonic, became the main and official language of the empire in 864. Bulgaria was instrumental in the spread of Slavic literacy and Christianity to the rest of the Slavic world. The expansion of the Magyars into the Carpathian Basin and the Germanization of Austria gradually separated the South Slavs from the West and East Slavs. Later Slavic states, which formed in the following centuries, included the Kievan Rus', the Second Bulgarian Empire, the Kingdom of Poland, Duchy of Bohemia, the Kingdom of Croatia, Banate of Bosnia and the Serbian Empire.
 
@@ -48,17 +42,10 @@ In late 19th century, there were only four Slavic states in the world: the Russi
 
 Pan-Slavism
 
-Slovansky_sjezd_v_Praze_1848.jpg held in Prague, 1848]] Pan-Slavism, a movement which came into prominence in the mid-19th century, emphasized the common heritage and unity of all the Slavic peoples. The main focus was in the Balkans where the South Slavs had been ruled for centuries by other empires: the Byzantine Empire, Austria-Hungary, the Ottoman Empire, and Venice. The Russian Empire used Pan-Slavism as a political tool; as did the Soviet Union, which gained political-military influence and control over most Slavic-majority nations between 1939 and 1948 and retained a hegemonic role until the period 1989–1991.
+held in Prague, 1848]] Pan-Slavism, a movement which came into prominence in the mid-19th century, emphasized the common heritage and unity of all the Slavic peoples. The main focus was in the Balkans where the South Slavs had been ruled for centuries by other empires: the Byzantine Empire, Austria-Hungary, the Ottoman Empire, and Venice. The Russian Empire used Pan-Slavism as a political tool; as did the Soviet Union, which gained political-military influence and control over most Slavic-majority nations between 1939 and 1948 and retained a hegemonic role until the period 1989–1991.
 
 
 Languages
-
-SOUTH SLAVIC LANGUAGES.
-Slovene Croatian Bosnian Serbian Montenegrin Torlakian (transitional dialect) Macedonian Bulgarian
-
-EAST SLAVIC LANGUAGES.
-
-WEST SLAVIC LANGUAGES.
 
 Proto-Slavic, the supposed ancestor language of all Slavic languages, is a descendant of common Proto-Indo-European, via a Balto-Slavic stage in which it developed numerous lexical and morphophonological isoglosses with the Baltic languages. In the framework of the Kurgan hypothesis, "the Indo-Europeans who remained after the migrations [from the steppe] became speakers of Balto-Slavic".[20] Proto-Slavic is defined as the last stage of the language preceding the geographical split of the historical Slavic languages. That language was uniform, and on the basis of borrowings from foreign languages and Slavic borrowings into other languages, cannot be said to have any recognizable dialects – this suggests that there was, at one time, a relatively small Proto-Slavic homeland.[21]
 
@@ -82,7 +69,7 @@ South Slavs from most of the region have origins in early Slavic tribes who mixe
 
 Religion
 
-"Swiatowid_(cult_statue)",_Kraków_2013.2.jpg Archaeological Museum]] The pagan Slavic populations were Christianized between the 7th and 12th centuries. Orthodox Christianity is predominant among East and South Slavs, while Roman Catholicism is predominant among West Slavs and some western South Slavs. The religious borders are largely comparable to the East–West Schism which began in the 11th century.
+Archaeological Museum]] The pagan Slavic populations were Christianized between the 7th and 12th centuries. Orthodox Christianity is predominant among East and South Slavs, while Roman Catholicism is predominant among West Slavs and some western South Slavs. The religious borders are largely comparable to the East–West Schism which began in the 11th century.
 
 The majority of contemporary Slavic populations who profess a religion are Orthodox, followed by Catholic, while a small minority are Protestant. There are minor Slavic Muslim groups. Religious delineations by nationality can be very sharp; usually in the Slavic ethnic groups the vast majority of religious people share the same religion. Some Slavs are atheist or agnostic: in the Czech Republic 20% were atheists according to a 2012 poll.
 
@@ -118,7 +105,7 @@ Mainly Islam:
 
 Relations with non-Slavic people
 
-The_foundation_of_the_BG.png, the Bulgars were a Turkic semi-nomadic warrior tribe that became Slavicized in the 7th century AD]]
+, the Bulgars were a Turkic semi-nomadic warrior tribe that became Slavicized in the 7th century AD]]
 
 Throughout their history, Slavs came into contact with non-Slavic groups. In the postulated homeland region (present-day European Russia[31] and Ukraine), they had contacts with the Iranian Sarmatians and the Germanic Goths. After their subsequent spread, the Slavs began assimilating non-Slavic peoples. For example, in the Balkans, there were Paleo-Balkan peoples, such as Romanized and Hellenized (Jireček Line) Illyrians, Thracians and Dacians, as well as Greeks and Celtic Scordisci and Serdi.[32] Because Slavs were so numerous, most indigenous populations of the Balkans were Slavicized. Thracians and Illyrians vanished as defined ethnic groups in this period. Exceptions are Greece, where Slavs were Hellenized because Greeks were more numerous (aided by more Greeks returning to Greece in the 9th century and by the church and administration), Romania, where Slavs settled en route to present-day Greece, North Macedonia, Bulgaria and East Thrace but assimilated, and the modern Albanian nation which claims descent from Illyrians.
 
@@ -134,8 +121,6 @@ Cossacks, although Slavic-speaking and practicing Orthodox Christianity, came fr
 Population
 
 There are an estimated 360 million Slavs worldwide.
-
-Slavic_ancestry_in_the_USA_and_Canada.png
 
 +--------------+--------------+----------------------------------------------------------+
 | Ethnicity    | Nation-state | colspan="2" data-sort-type="number" |Approximate numbers |

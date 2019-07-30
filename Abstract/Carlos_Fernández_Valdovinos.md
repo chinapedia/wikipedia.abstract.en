@@ -1,1 +1,0 @@
-PhD_Carlos_Fernández_Valdovinos.jpg CARLOS FERNÁNDEZ VALDOVINOS (born February 9, 1965 in Asunción, Paraguay) is a Paraguayan economist. Between October 2013 and August 2018 he was the president of the Central Bank of Paraguay.

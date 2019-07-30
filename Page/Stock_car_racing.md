@@ -5,8 +5,6 @@ Top level stock cars exceed [2][3][4] at speedway tracks and on superspeedway tr
 
 History
 
-1934FordStock-CarRacer.jpg
-
 Early years
 
 In the 1920s, moonshine runners during the Prohibition era would often have to outrun the authorities. To do so, they had to upgrade their vehicles—while leaving them looking ordinary, so as not to attract attention. Eventually, runners started getting together with fellow runners and making runs together. They would challenge one another and eventually progressed to organized events in the early 1930s. The main problem racing faced was the lack of a unified set of rules among the different tracks. When Bill France, Sr. saw this problem, he set up a meeting at the Streamline Hotel in order to form an organization that would unify the rules.
@@ -62,7 +60,7 @@ The 1973 oil crisis meant that large displacement special edition homologation c
 
 Types of cars
 
-BrettSontag2010LateModelRockfordSpeedway.jpg car on an asphalt track]] A stock car, in the original sense of the term, is an automobile that has not been modified from its original factory configuration. Later the term _stock car_ came to mean any production-based automobile used in racing. This term is used to differentiate such a car from a "race car", a special, custom-built car designed only for racing purposes.
+car on an asphalt track]] A stock car, in the original sense of the term, is an automobile that has not been modified from its original factory configuration. Later the term _stock car_ came to mean any production-based automobile used in racing. This term is used to differentiate such a car from a "race car", a special, custom-built car designed only for racing purposes.
 
 The degree to which the cars conform to standard model specs has changed over the years and varies from country to country. Today most American stock cars may superficially resemble standard American family sedans, but are in fact purpose-built racing machines built to a strict set of regulations governing the car design ensuring that the chassis, suspension, engine, etc. are architecturally identical on all vehicles. For example, Monster Energy NASCAR Cup Series race vehicles now require fuel injection. The closest European equivalent to stock car racing is probably touring car racing. In the UK and New Zealand there is a racing formula called stock cars but the cars are markedly different from any road car. In Australia there was a formula that was quite similar to NASCAR called AUSCAR.
 
@@ -80,12 +78,12 @@ Some entry level classes are called "street stock", and are similar to what is o
 
 Late models
 
-ScottBloomquist2008EastBayWinternationals.jpg Late models are usually the highest class of stock cars in local racing.[17] Rules for construction of a late model car vary from region to region and even race track to race track. The most common variations (on paved tracks) include super late models (SLMs), late model stock cars (LMSCs), and limited late models (LLMs). A late model may be a custom built machine, or a heavily modified street car. Individual sanctioning bodies (like NASCAR, ACT, PASS, UARA, CRA, etc.) maintain their own late model rule books, and even individual racetracks can maintain their own rule books, meaning a late model that is legal in one series or at one track may not be legal at another without modifications. The national touring series, the NASCAR Late Model Sportsman Division, originated from local late model races in the east coast of the U.S. This division was later called the "Busch Series", the "Nationwide Series", and currently the "Xfinity Series" as its title sponsor changed.
+Late models are usually the highest class of stock cars in local racing.[17] Rules for construction of a late model car vary from region to region and even race track to race track. The most common variations (on paved tracks) include super late models (SLMs), late model stock cars (LMSCs), and limited late models (LLMs). A late model may be a custom built machine, or a heavily modified street car. Individual sanctioning bodies (like NASCAR, ACT, PASS, UARA, CRA, etc.) maintain their own late model rule books, and even individual racetracks can maintain their own rule books, meaning a late model that is legal in one series or at one track may not be legal at another without modifications. The national touring series, the NASCAR Late Model Sportsman Division, originated from local late model races in the east coast of the U.S. This division was later called the "Busch Series", the "Nationwide Series", and currently the "Xfinity Series" as its title sponsor changed.
 
 
 United States
 
-Daniel_Suárez_Daytona_IMG_1330_03.jpg's 2018 Toyota Camry in the garage at Daytona International Speedway]]
+'s 2018 Toyota Camry in the garage at Daytona International Speedway]]
 
 NASCAR
 
@@ -93,9 +91,9 @@ NASCAR is currently the highest stock car racing governing body in the world. Wh
 
 Monster Energy NASCAR Cup Series
 
-Tony_Stewart_2005_at_Infineon_photo_D_Ramey_Logan.jpg at Infineon Raceway (now Sonoma Raceway) in 2005]] The most prominent championship in stock car racing is the Monster Energy NASCAR Cup Series, more commonly known as the Cup Series. It is the most popular racing series in the United States, drawing over 6 million spectators in 1997, an average live audience of over 190,000 people for each race.
+at Infineon Raceway (now Sonoma Raceway) in 2005]] The most prominent championship in stock car racing is the Monster Energy NASCAR Cup Series, more commonly known as the Cup Series. It is the most popular racing series in the United States, drawing over 6 million spectators in 1997, an average live audience of over 190,000 people for each race.
 
-The most famous event in the series is the Daytona 500,[18] an annual race at the Daytona International Speedway. The series' second-biggest event is arguably The Brickyard 400, an annual race held at the Indianapolis Motor Speedway, the legendary home of the Indianapolis 500, an open-wheeled race. Together the Cup Series and Xfinity Series drew 8 million spectators in 1997, compared to 4 million for both American open-wheel series (CART and IRL), which merged in 2008 under the IRL banner. In 2002, 17 of the 20 US top sporting events in terms of attendance were stock car races. Only football drew more television viewers that year. 60CarlEdwards2010Bucyrus200RoadAmerica.jpg at Road America in 2010]]
+The most famous event in the series is the Daytona 500,[18] an annual race at the Daytona International Speedway. The series' second-biggest event is arguably The Brickyard 400, an annual race held at the Indianapolis Motor Speedway, the legendary home of the Indianapolis 500, an open-wheeled race. Together the Cup Series and Xfinity Series drew 8 million spectators in 1997, compared to 4 million for both American open-wheel series (CART and IRL), which merged in 2008 under the IRL banner. In 2002, 17 of the 20 US top sporting events in terms of attendance were stock car races. Only football drew more television viewers that year. at Road America in 2010]]
 
 NASCAR Xfinity Series
 
@@ -147,7 +145,7 @@ The Stock Car Speed Association _ASCAR_ or _Days of Thunder_ was a "NASCAR" styl
 
 Other regions
 
-Stock_Car_V8_Brasil_2006_Curitiba.jpg in 2006]] Internationally, stock car racing has not enjoyed the same success as within the United States. The NASCAR Pinty's Series enjoys generally strong car-counts using the base of the sport in Canada (the short-oval region of Southern Ontario). Brazil also has a successful stock car racing series, with starting grids of 40 or more cars, and four brands competing: Chevrolet, Mitsubishi, Volkswagen and Peugeot. Brazilian Stock Car also has two developing series. Despite the name, Brazilian stock car competitions are not held on oval tracks, thus they resemble more Touring car racing than Stock car racing[20] the same can be said about Argentina's popular stock series, called Turismo Carretera.[21] Unsuccessful efforts have been made in Australia, South Africa, and Japan as well.
+in 2006]] Internationally, stock car racing has not enjoyed the same success as within the United States. The NASCAR Pinty's Series enjoys generally strong car-counts using the base of the sport in Canada (the short-oval region of Southern Ontario). Brazil also has a successful stock car racing series, with starting grids of 40 or more cars, and four brands competing: Chevrolet, Mitsubishi, Volkswagen and Peugeot. Brazilian Stock Car also has two developing series. Despite the name, Brazilian stock car competitions are not held on oval tracks, thus they resemble more Touring car racing than Stock car racing[20] the same can be said about Argentina's popular stock series, called Turismo Carretera.[21] Unsuccessful efforts have been made in Australia, South Africa, and Japan as well.
 
 
 Career paths

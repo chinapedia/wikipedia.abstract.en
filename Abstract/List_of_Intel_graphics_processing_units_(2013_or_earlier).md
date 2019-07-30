@@ -1,1 +1,0 @@
-This page contains information about Intel's GPUs and motherboard graphics chipsets in table form. In 1982 Intel licensed the NEC µPD7220 and announced it as the Intel 82720 Graphics Display Controller.[1]

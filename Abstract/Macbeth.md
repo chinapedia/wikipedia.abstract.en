@@ -1,1 +1,0 @@
-Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png. Depicted, anti-clockwise from top-left, are: Macbeth and Banquo meet the witches; just after the murder of Duncan; Banquo's ghost; Macbeth duels Macduff; and Macbeth.]]

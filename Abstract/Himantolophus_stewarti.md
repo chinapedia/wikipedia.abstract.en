@@ -1,1 +1,0 @@
-_HIMANTOLOPHUS STEWARTI_ is a species of footballfish, a type of anglerfish. The fish is bathydemersal and has been found at depths ranging from . The species has mainly been found in the Tasman Sea, though it is likely to be endemic to the same areas as Himantolophus appelii.[1]

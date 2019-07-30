@@ -1,1 +1,0 @@
-Solderedjoint.jpg Solder_on_spool.jpeg

@@ -1,1 +1,0 @@
-LOUISE ERDRICH (born KAREN LOUISE ERDRICH, June 7, 1954)[1] is an American author, writer of novels, poetry, and children's books featuring Native American characters and settings. She is an enrolled member of the Turtle Mountain Band of Chippewa Indians, a federally recognized tribe of the Anishinaabe (also known as Ojibwe and Chippewa).[2]

@@ -1,1 +1,0 @@
-ILLINOIS BONE AND JOINT INSTITUTE (IBJI), founded in 1990, is one of the largest independent physician-owned orthopaedic practices in the United States,[1] with over 90 certified and trained physicians and surgeons with expertise in every orthopaedic areas in treating adults and children,[2] providing orthopedic, diagnostic, treatment and rehabilitation services.[3]

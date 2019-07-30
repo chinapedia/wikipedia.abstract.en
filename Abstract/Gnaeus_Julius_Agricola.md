@@ -1,1 +1,0 @@
-GNAEUS JULIUS AGRICOLA (; 13 June 40 – 23 August 93) was a Gallo-Roman general responsible for much of the Roman conquest of Britain. Written by his son-in-law Tacitus, the _De vita et moribus Iulii Agricolae_ is the primary source for most of what is known about him,[1] along with detailed archaeological evidence from northern Britain.[2]

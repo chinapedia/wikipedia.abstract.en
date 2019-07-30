@@ -1,1 +1,0 @@
-The 2017 PHILLIPS 66 BIG 12 MEN'S BASKETBALL TOURNAMENT was a postseason men's basketball tournament for the Big 12 Conference. It was played from March 8 to 11, in Kansas City, Missouri at the Sprint Center. Iowa State received the conference's automatic bid to the 2017 NCAA Tournament with an 80–74 win over West Virginia in the finals.

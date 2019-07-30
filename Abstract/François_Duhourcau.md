@@ -1,1 +1,0 @@
-FRANÇOIS DUHOURCAU (25 February 1883 – 3 March 1951, Bayonne), graduated from the École spéciale militaire de Saint-Cyr in the infantry in 1905, was a 20th-century French novelist, essayist and historian, winner of the Grand prix du roman de l'Académie française in 1925.

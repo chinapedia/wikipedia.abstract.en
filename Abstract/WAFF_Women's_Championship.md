@@ -1,1 +1,0 @@
-The WAFF WOMEN'S CHAMPIONSHIP or _West Asian Football Federation Women's Championship_ is a football competition consisting mainly of West Asian countries and territories. The event is organized by West Asian Football Federation. It is usually held every two years, but occasionally at longer intervals.

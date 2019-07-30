@@ -1,1 +1,0 @@
-_ORU MEXICAN APARATHA_ (English: _A Mexican enormity_) is a 2017 Indian Malayalam-language political drama film directed by Tom Emmatty. The film stars Tovino Thomas, Neeraj Madhav, Roopesh Peethambaran. It was released on 3 March 2017 in India.[1][2] This movie narrates how the students established the political party SFY (in reality SFI).

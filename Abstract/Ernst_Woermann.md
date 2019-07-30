@@ -1,1 +1,0 @@
-ERNST WOERMANN (30 March 1888 in Dresden, German Empire – 5 July 1979 in Heidelberg, West Germany) was a German diplomat who worked for the Foreign Office under the Third Reich. He was a junior state secretary of the German Foreign Ministry (1940–43) and the German ambassador to the Nanjing Nationalist Government, the Japanese puppet government in China (1943–45).

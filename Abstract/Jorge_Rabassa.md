@@ -1,1 +1,0 @@
-JORGE RABASSA is an Argentine geomorphologist and Quaternary geologist. He is a professor at National University of Tierra del Fuego and director of the CONICET.[1][2] He is member of the National Academy of Sciences of Argentina since 2012.[3] From 1998 to 2002 he served as rector of the National University of Comahue.[4]

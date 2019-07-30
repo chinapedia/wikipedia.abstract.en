@@ -1,1 +1,0 @@
-The 1940 BROWNLOW MEDAL was the 17th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Des Fothergill of the Collingwood Football Club and Herbie Matthews of the South Melbourne Football Club both won the medal by polling thirty-two votes during the 1940 VFL season.[2]

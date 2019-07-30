@@ -1,1 +1,0 @@
-Albert_Visetti_001.jpg ALBERT ANTHONY VISETTI (13 May 1846–10 July 1928) was a Dalmatian musician who moved to London where he was Professor of Singing at the Royal College of Music, becoming a Fellow in 1921. He was the stepfather of the novelist Radclyffe Hall.

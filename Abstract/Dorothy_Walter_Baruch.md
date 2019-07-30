@@ -1,1 +1,0 @@
-DOROTHY WALTER BARUCH (5 August 1899 – 4 September 1962) was an American psychologist and children's book author.[1] She studied children's language acquisition and wrote about childhood development whilst also supplying fiction for children

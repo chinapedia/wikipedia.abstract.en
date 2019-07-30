@@ -1,1 +1,0 @@
-_FRESH BLOOD FOR TIRED VAMPYRES_ is the fourteenth studio album by Detroit rock band Electric Six and the twelfth in their official canon. It was first released on October 7, 2016 at a performance in the House of Blues in New Orleans, before going on general release. Original album art is credited to Andrea Mastrovito.

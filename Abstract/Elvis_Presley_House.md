@@ -1,1 +1,0 @@
-ELVIS PRESLEY HOUSE is a one-story ranch style house in a residential neighborhood in Memphis, Tennessee. Singer Elvis Presley lived here with his parents between March 1956 and March 1957,[1] before moving to Graceland.

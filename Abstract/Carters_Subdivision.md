@@ -1,1 +1,0 @@
-Lakeland_FL_Amtrak_station05.jpg The CARTERS SUBDIVISION is a CSX Transportation rail line in Florida. It runs along CSX's A Line from Poinciana southwest to Lakeland. The Carters Subdivision ends just west of Downtown Lakeland at Lakeland Junction, where it continues west as the Lakeland Subdivision. It also connects to the Vitis Subdivision at Lakeland Junction.[1]

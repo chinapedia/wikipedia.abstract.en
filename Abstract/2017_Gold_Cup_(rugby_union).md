@@ -1,1 +1,0 @@
-The 2017 GOLD CUP was the second season of the Gold Cup competition since its name change, having previously been known as the Community Cup. The competition was the top competition for non-university rugby union clubs in South Africa, Namibia and Zimbabwe.

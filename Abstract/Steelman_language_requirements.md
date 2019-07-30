@@ -1,1 +1,0 @@
-The STEELMAN LANGUAGE REQUIREMENTS were a set of requirements which a high-level general-purpose programming language should meet, created by the United States Department of Defense in _The Department of Defense Common High Order Language program_ in 1978. The predecessors of this document were called, in order, "Strawman", "Woodenman", "Tinman" and "Ironman".

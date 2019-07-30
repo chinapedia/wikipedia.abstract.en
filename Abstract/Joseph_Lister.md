@@ -1,1 +1,0 @@
-Lister's_carbolic_steam_spray_apparatus,_Hunterian_Museum,_Glasgow.jpg, Glasgow]] JOSEPH LISTER, 1ST BARON LISTER, (5 April 182710 February 1912),[1] known between 1883 and 1897 as SIR JOSEPH LISTER, BT., was a British surgeon and a pioneer of antiseptic surgery.

@@ -1,1 +1,0 @@
-The BURGESS-MASCHMEYER MANSION is a historic residence at 1209 Government Street in the Oakleigh Garden Historic District of Mobile, Alabama, United States. It was built in 1907 in the Renaissance Revival style by noted Mobile architect George Bigelow Rogers. The residence was constructed for cotton factor Col. David R. Burgess.

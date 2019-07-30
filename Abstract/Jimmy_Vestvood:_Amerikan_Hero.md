@@ -1,1 +1,0 @@
-_JIMMY VESTVOOD: AMERIKAN HERO_ is a 2014 comedy film directed by Jonathan Kesselman and written by Maz Jobrani and Amir Ohebsion. The films stars Maz Jobrani, John Heard, Deanna Russo, Sheila Vand and Marshall Manesh. The plot follows an Iranian who wins the Green Card lottery and moves to Los Angeles with his mom to pursue his dream of becoming an American hero.

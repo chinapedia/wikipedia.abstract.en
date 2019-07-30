@@ -1,1 +1,0 @@
-PHILIPS HUE is a line of color changing LED lamps and white bulbs which can be controlled wirelessly. It was introduced in October 2012 and was updated in 2015 and 2016. The lamps are currently created and manufactured by Signify N.V., formerly the Philips Lighting division of Royal Philips N.V..[1][2]

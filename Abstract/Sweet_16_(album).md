@@ -1,1 +1,0 @@
-_SWEET 16_ is the second studio album by Dutch three-piece girl group Lisa, Amy & Shelley. It was released in the Netherlands on the 14 October 2011 by Cloud 9 Music. The album peaked at number 45 on the Dutch Albums Chart.

@@ -1,1 +1,0 @@
-PETER KLOCK HEPLER HonFRMS is the Constantine J. Gilgut and Ray Ethan Torrey Professor Emeritus in the Biology Department of the University of Massachusetts at Amherst who is notable for his work on elucidating the roles of calcium,[1] membranes[2] and the cytoskeleton[3][4] in plant cell development and cell motility.

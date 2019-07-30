@@ -1,1 +1,0 @@
-HAJI ABDUL KHAIR BIN HAJI BASRI (born 5 January 1996) is a Bruneian international footballer who plays for Indera SC. Predominantly a central midfielder, his attributes and versatility also allows him to play as a centre-back or as a forward when required.

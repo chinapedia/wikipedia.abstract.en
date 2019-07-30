@@ -1,1 +1,0 @@
-Chromosome.svg eukaryotic chromosome. (1) Chromatid – one of the two identical parts of the chromosome after S phase. (2) Centromere – the point where the two chromatids touch. (3) Short arm (p).(4) Long arm (q).]]

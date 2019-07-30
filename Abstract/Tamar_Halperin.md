@@ -1,1 +1,0 @@
-TAMAR HALPERIN (born 1976) is an Israeli harpsichordist, pianist and musicologist. She has played Baroque music in historically informed performance, but also classical repertory and jazz with a big band.

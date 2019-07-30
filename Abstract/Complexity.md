@@ -1,1 +1,0 @@
-COMPLEXITY characterises the behaviour of a system or model whose components interact in multiple ways and follow local rules, meaning there is no reasonable higher instruction to define the various possible interactions.[1]

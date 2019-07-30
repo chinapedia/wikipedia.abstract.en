@@ -1,1 +1,0 @@
-This is a list of Assamese language films produced by the film industry of Assam, India based in Guwahati and publicly released in the year 2017. Premiere shows and film festival screenings are not considered as releases for this list.[1] In this year, a total of 16 films were certified by Central Board of Film Certification and 24 films had their theatrical release.[2]

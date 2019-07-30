@@ -1,1 +1,0 @@
-BASHLITE (also known as GAFGYT, LIZKEBAB, QBOT, TORLUS and LIZARDSTRESSER) is malware which infects Linux systems in order to launch distributed denial-of-service attacks (DDoS).[1] Originally it was also known under the name BASHDOOR,[2] but this term now refers to the exploit method used by the malware. It has been used to launch attacks of up to 400 Gbps.[3]

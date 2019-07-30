@@ -1,1 +1,0 @@
-Briefmarke_Documenta_XI_2002.jpg DOCUMENTA11 was the eleventh edition of documenta, a quinquennial contemporary art exhibition. It was held between 8 June and 15 September 2002 in Kassel, Germany. The artistic director was Okwui Enwezor.[1]

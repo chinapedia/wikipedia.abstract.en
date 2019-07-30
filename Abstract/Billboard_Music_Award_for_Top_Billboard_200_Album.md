@@ -1,1 +1,0 @@
-This page lists the winners and nominees for the _BILLBOARD_ MUSIC AWARD FOR TOP _BILLBOARD_ 200 ALBUM. The award has been given since 1993 and since its conception only five artists have won the award twice: 50 Cent, Adele, Drake, Eminem, and Taylor Swift.

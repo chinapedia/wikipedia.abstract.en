@@ -1,1 +1,0 @@
-PATRICK O'CONNOR (born August 13, 1984) is an American politician from Weymouth, Massachusetts, who was elected to the Massachusetts Senate on May 10, 2016, in a special election to replace Robert Hedlund.[1] He represents the Plymouth and Norfolk District, which comprises Cohasset, Duxbury, Hingham, Hull, Marshfield, Norwell, Scituate, and Weymouth.[2]

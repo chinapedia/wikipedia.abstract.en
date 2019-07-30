@@ -1,1 +1,0 @@
-SHORKOT–SHEIKHUPURA BRANCH LINE () is one of several branch lines in Pakistan, operated and maintained by Pakistan Railways. The line begins from Shorkot Cantonment Junction station and ends at Qila Sheikhupura Junction. The total length of this railway line is . There are 13 railway stations from Shorkot Junction to Qila Sheikhupura Junction.[1]

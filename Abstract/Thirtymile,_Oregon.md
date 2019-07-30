@@ -1,1 +1,0 @@
-THIRTYMILE is an unincorporated community in Gilliam County, Oregon, United States.[1] It lies south of Condon and east of Oregon Route 19 along Thirtymile Creek, a tributary of the John Day River.[2][3]

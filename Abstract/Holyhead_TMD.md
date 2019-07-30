@@ -1,1 +1,0 @@
-HOLYHEAD TMD is a traction maintenance depot located in Holyhead, Gwynedd, Wales. The depot is situated on the North Wales Coast Line and is on the eastern side of the line, to the south of Holyhead station.[1]

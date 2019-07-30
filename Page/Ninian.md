@@ -22,11 +22,11 @@ Tradition holds that Ninian was a Briton who had studied in Rome, that he establ
 
 Bede's contribution (ca. 731)
 
-The_Venerable_Bede_translates_John_1902.jpg translates John'', by J. D. Penrose, c. 1902.]]
+translates John'', by J. D. Penrose, c. 1902.]]
 
 Bede says that Ninian (whose name he only renders in the ablative case _Nynia_) was a Briton who had been instructed in Rome; that he made his church of stone, which was unusual among the Britons; that his episcopal see was named after Saint Martin of Tours; that he preached to and converted the southern Picts; that his base was in a place called " Ad Candidam Casam", which was in the province of the Bernicians; and that he was buried there, along with many other saints.[6]
 
-Bede's information is minimal and he does not claim it as fact, asserting only that he is passing on "traditional" information. He provides the first historical reference to Saint Ninian, in a passing reference contained in the final part of a single paragraph. Saint.Aelred.jpg
+Bede's information is minimal and he does not claim it as fact, asserting only that he is passing on "traditional" information. He provides the first historical reference to Saint Ninian, in a passing reference contained in the final part of a single paragraph.
 
 Aelred's contribution (ca. 1160)
 
@@ -36,7 +36,7 @@ Aelred said that in addition to finding information about Ninian in Bede, he too
 
 Ussher's contribution (1639)
 
-James_Ussher_by_Sir_Peter_Lely.jpg, Archbishop of Armagh, Primate of All Ireland.]]
+, Archbishop of Armagh, Primate of All Ireland.]]
 
 Ussher says that Ninian left Candida Casa for _Cluayn-coner_ in Ireland, and eventually died in Ireland; that his mother was a Spanish princess; that his father wished to regain him after having assented to his training for an ecclesiastical state; that a bell comes from heaven to call together his disciples; that a wooden church was raised by him, with beams delivered by stags; and that a harper with no experience at architecture was the builder of the church. He adds that a smith and his son, named respectively "Terna" and "Wyn", witnessed a miracle by Ninian and that the saint was granted lands to be called "Wytterna".[10][11]
 
@@ -48,7 +48,7 @@ Other sources
 
 Others who wrote of Saint Ninian used the accounts of Bede, Aelred, or Ussher, or used derivatives of them in combination with information from various manuscripts. This includes John Capgrave (1393–1464), John of Tinmouth (fl. ca. 1366), John Colgan (d. ca. 1657), and many others,[17] up to the present day.
 
-The anonymously written 8th century hagiographic _Miracula Nynie Episcopi_ (_Miracles of Bishop Ninian_) is discounted as a non-historical account, and copies are not widely extant.[18] St.Ninian.dedications.jpg
+The anonymously written 8th century hagiographic _Miracula Nynie Episcopi_ (_Miracles of Bishop Ninian_) is discounted as a non-historical account, and copies are not widely extant.[18]
 
 
 Dedications to St Ninian

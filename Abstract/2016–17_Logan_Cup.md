@@ -1,1 +1,0 @@
-The 2016–17 LOGAN CUP was the 23rd edition of the Logan Cup, a first-class cricket competition in Zimbabwe. It was held between December 2016 and May 2017.[1] Mountaineers won the tournament, following a draw against Mashonaland Eagles in round 8 of the competition.[2]

@@ -1,1 +1,0 @@
-ALEXIOS II KOMNENOS or ALEXIUS II COMNENUS () (10 September 1169October 1183) was Byzantine emperor from 1180 to 1183. He was the son of Emperor Manuel I Komnenos and Maria, daughter of Raymond of Poitiers, prince of Antioch.[1] He was the long-awaited male heir and was named Alexius as a fulfilment of the AIMA prophecy.

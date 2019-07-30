@@ -1,1 +1,0 @@
-WANG JUN YI (Chinese: 王俊懿, born in 1974) is a contemporary Chinese jade sculptor and carving master[1][2][3] who was awarded the title of “Chinese Jade Carving Master” in 2006.[4] He is known for incorporating gold, silver and titanium alloy into jade.[5]

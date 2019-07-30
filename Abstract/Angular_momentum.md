@@ -1,1 +1,0 @@
-R × P}} }} In physics, ANGULAR MOMENTUM (rarely, MOMENT OF MOMENTUM or ROTATIONAL MOMENTUM) is the rotational equivalent of linear momentum. It is an important quantity in physics because it is a conserved quantity—the total angular momentum of a closed system remains constant.

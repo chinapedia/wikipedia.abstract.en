@@ -1,1 +1,0 @@
-The METHODIST UNIVERSITY OF PIRACICABA (Portuguese: _Universidade Metodista de Piracicaba_), also known as UNIMEP, is a Brazilian private higher education institution located in the state of São Paulo.

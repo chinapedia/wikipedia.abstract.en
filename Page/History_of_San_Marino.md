@@ -5,7 +5,7 @@ Like Andorra, Vatican City , Liechtenstein and Monaco, it is one of the sole sur
 
 Origins
 
-Marino_als_steinhauer.png, who created a mountainside colony to escape persecution]] The country, whose independence has ancient origins, claims to be the world's oldest surviving republic. According to legend, San Marino was founded in 301 AD[1] when a Christian stonemason Marinus (lit. _from the sea_), later venerated as Saint Marinus, emigrated in 297 AD from Dalmatian island of Rab, when Emperor Diocletian issued a decree calling for the reconstruction of the city walls of Rimini, destroyed by Liburnian pirates.[2] Marinus later became a Deacon and was ordained by Gaudentius, the Bishop of Rimini; shortly after, he was recognised and accused by an insane woman of being her estranged husband, whereupon he quickly fled to Monte Titano to build a chapel and monastery and live as a hermit.[3] Later, the State of San Marino would bud from the centre created by this monastery.[4] Living in geographical isolation from the Diocletianic Persecution of Christians at the time, the mountain people were able to live peaceful lives. When the settlement of fearful mountain people was eventually discovered, the owner of the land, Felicissima, a sympathetic lady of Rimini, bequeathed it to the small Christian community of mountain dwellers, recommending to them to remain always united.
+, who created a mountainside colony to escape persecution]] The country, whose independence has ancient origins, claims to be the world's oldest surviving republic. According to legend, San Marino was founded in 301 AD[1] when a Christian stonemason Marinus (lit. _from the sea_), later venerated as Saint Marinus, emigrated in 297 AD from Dalmatian island of Rab, when Emperor Diocletian issued a decree calling for the reconstruction of the city walls of Rimini, destroyed by Liburnian pirates.[2] Marinus later became a Deacon and was ordained by Gaudentius, the Bishop of Rimini; shortly after, he was recognised and accused by an insane woman of being her estranged husband, whereupon he quickly fled to Monte Titano to build a chapel and monastery and live as a hermit.[3] Later, the State of San Marino would bud from the centre created by this monastery.[4] Living in geographical isolation from the Diocletianic Persecution of Christians at the time, the mountain people were able to live peaceful lives. When the settlement of fearful mountain people was eventually discovered, the owner of the land, Felicissima, a sympathetic lady of Rimini, bequeathed it to the small Christian community of mountain dwellers, recommending to them to remain always united.
 
 Evidence of the existence of a community on Mount Titano dates back to the Middle Ages. That evidence comes from a monk named Eugippio, who reports in several documents going back to 511 that another monk lived here. In memory of the stonecutter, the land was renamed "Land of San Marino", and was changed to its present-day name, "Republic of San Marino".
 
@@ -18,7 +18,7 @@ The original government structure was composed of a self-governed assembly known
 
 During the feudal era
 
-Cesareborgia.jpg'' (Cesare Borgia) briefly took control of San Marino in 1503.]]
+'' (Cesare Borgia) briefly took control of San Marino in 1503.]]
 
 In quick succession, the lords of Montefeltro, the Malatesta of Rimini, and the lords of Urbino attempted to conquer the little town, but without success.[5] In 1320 the community of Chiesanuova chose to join the country.[6] The land area of San Marino consisted only of Mount Titano until 1463, at which time the republic entered into an alliance against Sigismondo Pandolfo Malatesta, duke of Rimini, who was later defeated. As a result, Pope Pius II gave San Marino some castles and the towns of Fiorentino, Montegiardino and Serravalle. Later that year, the town of Faetano joined the republic on its own accord. Since then, the size of San Marino has remained unchanged.[7]
 
@@ -80,8 +80,6 @@ The 1930s was an era of public works and reinvention of the Republic's economy, 
 
 
 World War II
-
-The_Inauguration_of_New_Regents_For_San_Marino,_Italy,_1_October_1944_TR2386.jpg
 
 San Marino was mostly uninvolved in the Second World War. In September 1940, press reports claimed that it had to have declared war on Britain in support of Italy;[24] however, this was later denied by the Sammarinese government.[25]
 

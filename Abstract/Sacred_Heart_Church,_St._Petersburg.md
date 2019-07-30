@@ -1,1 +1,0 @@
-The SACRED HEART CHURCH[1] () is a Catholic church, built in the neo-Gothic style located in the Russian city of St. Petersburg[2] in northern Russia[3] and part of the Roman Catholic Archdiocese of Moscow. It is dedicated to the Sacred Heart of Jesus and is located at 57 Babushkin street.

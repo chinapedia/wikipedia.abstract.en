@@ -1,1 +1,0 @@
-A TOURNAMENT SOLUTION is a function that maps an oriented complete graph to a nonempty subset of its vertices. Tournament solutions originate from social choice theory,[1][2][3][4] but have also been considered in sports competition, game theory,[5] multi-criteria decision analysis, biology,[6][7] webpage ranking,[8] and dueling bandit problems.[9]

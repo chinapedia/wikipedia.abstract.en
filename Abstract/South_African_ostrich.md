@@ -1,1 +1,0 @@
-The SOUTH AFRICAN OSTRICH (_Struthio camelus australis_), also known as the BLACK-NECKED OSTRICH, CAPE OSTRICH or SOUTHERN OSTRICH is a subspecies of the common ostrich endemic to Southern Africa. It is widely farmed for its meat, eggs and feathers.

@@ -1,1 +1,0 @@
-FDR_Oval_Office_in_1934_LOC37952v_cropped.jpg in 1934.]] ERIC GUGLER (March 13, 1889 – May 17, 1974) was an American Neoclassical architect, interior designer, sculptor and muralist. He was selected by President Franklin D. Roosevelt to design the Oval Office.[1]

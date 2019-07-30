@@ -1,1 +1,0 @@
-DONALD E. GIBSON is an American academic administrator and author. He is a professor of management and dean of the Fairfield University Dolan School of Business and former executive director of the International Association for Conflict Management.[1]

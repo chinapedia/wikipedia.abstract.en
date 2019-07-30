@@ -1,1 +1,0 @@
-HENRI GABRIEL MARCEAU (12 June 1896, Richmond, Virginia – 15 September 1969, Philadelphia, Pennsylvania) was an American architect, teacher, art historian and museum curator. He served as Director of the Philadelphia Museum of Art, 1955–1964.

@@ -1,1 +1,0 @@
-RIDE TV[1] is a 24-hour, high-definition, American digital cable and satellite television network dedicated to showcasing equestrian and horse lifestyle and culture. RIDE TV delivers high-quality programming to those that enjoy and care about anything and everything horse related.

@@ -1,1 +1,0 @@
-_FØR FROSTNETTENE_ (English: _Before the Frosts_) is a 1966 Norwegian drama film directed by Arnljot Berg.[1][2] It is based on Sigurd Hoel's 1935 novel _Fjorten dager før frostnettene_ (Fourteen Days before the Frosts)[3][4] and it premiered on January 17, 1966. The music for the film was composed by Egil Monn-Iversen.[5]

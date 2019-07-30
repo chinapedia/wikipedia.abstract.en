@@ -35,8 +35,6 @@ The name TeX is intended by its developer to be , with the final consonant of _l
 
 Community
 
-Logo_TUG.svg
-
 Notable entities in the TeX community include the TeX Users Group, which publishes TUGboat and _The PracTeX Journal_, covering a wide range of topics in digital typography relevant to TeX. The Deutschsprachige Anwendervereinigung TeX is a large user group in Germany. The TeX Users Group was founded in 1980 for educational and scientific purposes, provides an organization for those who have an interest in typography and font design, and are users of the TeX typesetting system invented by Knuth. The TeX Users Group represents the interests of TeX users worldwide. The TeX Users Group publishes the journal TUGboat three times per year.[20]
 
 

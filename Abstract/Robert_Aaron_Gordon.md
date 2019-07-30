@@ -1,1 +1,0 @@
-ROBERT AARON GORDON (born Aaron Goldstein;[1] July 26, 1908 – April 7, 1978) was an American economist. He was a Professor of Economics at the University of California, Berkeley from 1938 to 1976. In 1975, he served as President of the American Economic Association.[2]

@@ -1,1 +1,0 @@
-Desktop-Linux-Mint.png running simultaneously Xfce desktop environment, Firefox, a calculator program, the built-in calendar, Vim, GIMP, and VLC media player.]] Microsoft_Windows_1.01_multitasking.png released in 1985, here shown running the MS-DOS Executive and Calculator programs]]

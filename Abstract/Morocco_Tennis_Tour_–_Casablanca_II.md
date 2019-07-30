@@ -1,1 +1,0 @@
-The MOROCCO TENNIS TOUR – CASABLANCA II is a professional tennis tournament played on clay courts. It is currently part of the Association of Tennis Professionals (ATP) Challenger Tour. It is held annually in Casablanca, Morocco since 2015.

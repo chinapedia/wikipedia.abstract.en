@@ -1,1 +1,0 @@
-Clean_room.jpg ]]

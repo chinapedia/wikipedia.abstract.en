@@ -1,1 +1,0 @@
-MOONEY is a family name, which is probably predominantly derived from the Irish Ó Maonaigh. It can also be spelled Moony, Moonie, Mainey, Mauney, Meaney and Meeney depending on the dialectic pronunciation that was Anglicised.

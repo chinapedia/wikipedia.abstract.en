@@ -1,4 +1,4 @@
-Svalbard-VE.JPG satellite photo of Svalbard, courtesy NASA]] SVALBARD is an archipelago in the Arctic Ocean roughly centered on 78° north latitude and 20° east longitude. The archipelago is the northernmost part of the Kingdom of Norway. The three main islands in the group consist of Spitsbergen (the largest island), Nordaustlandet and Edgeøya. There are also a number of smaller islands, such as Barents Island (Barentsøya) (), Kvitøya (), Prins Karls Forland (English: Prince Charles Foreland) (), Kongsøya (), Bear Island (), Svenskøya (), Wilhelm Island () and other smaller islands or skerries ().
+satellite photo of Svalbard, courtesy NASA]] SVALBARD is an archipelago in the Arctic Ocean roughly centered on 78° north latitude and 20° east longitude. The archipelago is the northernmost part of the Kingdom of Norway. The three main islands in the group consist of Spitsbergen (the largest island), Nordaustlandet and Edgeøya. There are also a number of smaller islands, such as Barents Island (Barentsøya) (), Kvitøya (), Prins Karls Forland (English: Prince Charles Foreland) (), Kongsøya (), Bear Island (), Svenskøya (), Wilhelm Island () and other smaller islands or skerries ().
 
 
 Climate
@@ -105,7 +105,7 @@ Coastlines of the Svalbard islands (listed from largest island to smallest) show
 
 Mountains
 
-Although they are small when compared with the mountains of Norway, the elevation of the Svalbard island mountains accounts for much of the glacial erosion:[8] Mountains_(js)_10.jpg.]]
+Although they are small when compared with the mountains of Norway, the elevation of the Svalbard island mountains accounts for much of the glacial erosion:[8] .]]
 
 -   Newtontoppen,
 -   Perriertoppen,
@@ -115,7 +115,7 @@ Although they are small when compared with the mountains of Norway, the elevatio
 
 Glaciers
 
-Uria_lomvia_2.jpg at Bear Island.]]
+at Bear Island.]]
 
 -   Austfonna (with Sørfonna and Vegafonna),
 -   Olav V Land,
@@ -153,7 +153,7 @@ Rivers
 
 Settlements
 
-Ny-Aalesund_summer.jpg in summer.]]
+in summer.]]
 
 Inhabited
 

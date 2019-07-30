@@ -1,1 +1,0 @@
-NUR IZZUDDIN MOHD RUMSANI (born 11 November 1997) is a Malaysian badminton player.[1][2] In 2016, he won the SIngapore and Swiss International tournaments in the men's doubles event partnered with Goh Sze Fei.[3][4] In 2017, he and Goh became the runner-up at the Malaysia Masters Grand Prix Gold tournament.[5]

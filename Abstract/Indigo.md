@@ -1,1 +1,0 @@
-INDIGO is a deep and rich color close to the color wheel blue (a primary color in the RGB color space), as well as to some variants of ultramarine. It is traditionally regarded as a color in the visible spectrum, as well as one of the seven colors of the rainbow: the color between violet and blue; however, sources differ as to its actual position in the electromagnetic spectrum.

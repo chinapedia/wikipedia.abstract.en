@@ -1,1 +1,0 @@
-The PROVINCIAL COMMITTEE FOR SERBIA () or PROVINCIAL COMMITTEE OF SERBIA (Покрајински комитет Србије/Pokrajinski komitet Srbije), abbreviated PKS/ПКС, was the branch of the Communist Party of Yugoslavia (KPJ) active in Serbia during the Kingdom of Yugoslavia and German-occupied Serbia during World War II. It was transformed into the Communist Party of Serbia in May 1945.

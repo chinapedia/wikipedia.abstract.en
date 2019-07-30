@@ -1,1 +1,0 @@
-Lieutenant_Governor_and_Bailiff_of_Guernsey.jpg SIR RICHARD COLLAS was born in 1953 in Guernsey where, after studying engineering and accountancy, he moved to law in which he practised for a number of years before moving into the civic duty of Deputy Bailiff. He has held the office of the Bailiff of Guernsey since 2012.

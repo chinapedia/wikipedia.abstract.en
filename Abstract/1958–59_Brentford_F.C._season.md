@@ -1,1 +1,0 @@
-During the 1958–59 English football season, Brentford competed in the Football League Third Division. Despite 32 goals from Jim Towers and 22 from George Francis, a number of defeats to low-placed clubs early in the season prevented the Bees from finishing higher than 3rd, one place away from promotion.

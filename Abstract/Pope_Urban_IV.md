@@ -1,1 +1,0 @@
-POPE URBAN IV (; c. 1195 – 2 October 1264), born JACQUES PANTALÉON,[1] was the head of the Catholic Church and ruler of the Papal States from 29 August 1261 to his death in 1264. He was not a cardinal; only a few popes since his time have not been cardinals, including Gregory X, Urban V and Urban VI.

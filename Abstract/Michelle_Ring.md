@@ -1,1 +1,0 @@
-'''Michelle Ring ''' (born 28 November 1967) is a Canadian footballer who played as a defender for the Canada women's national soccer team. She was part of the team at the 1995 FIFA Women's World Cup.[1]

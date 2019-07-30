@@ -21,8 +21,6 @@ Branches
 -   National Guard
 -   Presidential Guard
 
-Sao-Tome_et_Principe_cocarde_aéronefs.svg
-
 
 Military and naval equipment
 
@@ -72,8 +70,6 @@ Aircraft
 International military engagement
 
 São Tomé and Príncipe has traditionally had strong ties with both Portugal and Angola.[17] In the past the United States has provided the country with occasional assistance; however, US interest in the region has increased since the start of the Global War of Terrorism. The position of the country along strategically important sea lanes of communication along the west African coast, as well as rising concerns about piracy and security for oil tankers transiting region, has seen increased foreign interest in the nation. This has seen São Tomé and Príncipe's military become part of the NATO-sponsored Maritime Safety and Security Information System, as well as the commencement of several engagement activities on the part of the US military.[18] It has also seen Sao Tomean officers undertaking training in the United States under the terms of the International Military Education and Training program.[19]
-
-US_Navy_080123-N-4044H-052_Chief_Hospital_Corpsman_Chris_Maurer_demonstrates_to_Sao_Tomain_military_personnel_the_procedure_for_inserting_an_intravenous_drip_into_a_person's_vein.jpg
 
 In 2002, it was announced that an unmanned US naval facility would be established in the country, to be used mainly a stopover base for US military aircraft and ships transiting the area.[20] In late 2004, the US Navy began exploring further options for maritime engagement in the Gulf of Guinea area, and delegates from Sao Tome and Principle attended a conference in Naples, Italy, after which the US submarine tender USS _Emory S. Land_ conducted a training mission in the area as part of steps towards the establishment of United States Africa Command.[21]
 

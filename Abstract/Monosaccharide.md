@@ -1,1 +1,0 @@
-MONOSACCHARIDES (from Greek _monos_: single, _sacchar_: sugar), also called SIMPLE SUGAR, are the simplest form of sugar and the most basic units of carbohydrates.[1] They cannot be further hydrolyzed to simpler chemical compounds. The general formula is . They are usually colorless, water-soluble, and crystalline solids. Some monosaccharides have a sweet taste.

@@ -14,13 +14,11 @@ History
 
 Pre-1869 (Edo period)
 
-Commodore_Perry_expedition_LOC_LC-USZ62-3319.jpg expedition and his first arrival in Japan in 1853]]
+expedition and his first arrival in Japan in 1853]]
 
 Tokyo was originally a small fishing village named Edo, in what was formerly part of the old Musashi Province. Edo was first fortified by the Edo clan, in the late twelfth century. In 1457, Ōta Dōkan built Edo Castle. In 1590, Tokugawa Ieyasu was transferred from Mikawa Province (his lifelong base) to Kantō region. When he became _shōgun_ in 1603, Edo became the center of his ruling. During the subsequent Edo period, Edo grew into one of the largest cities in the world with a population topping one million by the 18th century.[24] But Edo was Tokugawa's home and was not capital of Japan. (That was caused by the Meiji Restoration in 1868.)[25] The Emperor himself lived in Kyoto from 794 to 1868 as capital of Japan. During the Edo era, the city enjoyed a prolonged period of peace known as the _Pax Tokugawa_, and in the presence of such peace, Edo adopted a stringent policy of seclusion, which helped to perpetuate the lack of any serious military threat to the city.[26] The absence of war-inflicted devastation allowed Edo to devote the majority of its resources to rebuilding in the wake of the consistent fires, earthquakes, and other devastating natural disasters that plagued the city. However, this prolonged period of seclusion came to an end with the arrival of American Commodore Matthew C. Perry in 1853. Commodore Perry forced the opening of the ports of Shimoda and Hakodate, leading to an increase in the demand for new foreign goods and subsequently a severe rise in inflation.[27] Social unrest mounted in the wake of these higher prices and culminated in widespread rebellions and demonstrations, especially in the form of the "smashing" of rice establishments.[28] Meanwhile, supporters of the Meiji Emperor leveraged the disruption that these widespread rebellious demonstrations were causing to further consolidate power by overthrowing the last Tokugawa _shōgun_, Yoshinobu, in 1867.[29] After 265 years, the _Pax Tokugawa_ came to an end.
 
 1869–1943
-
-Ginza_in_1933.JPG
 
 In 1869, the 17-year-old Emperor Meiji moved to Edo, and in accordance, the city was renamed Tokyo (meaning Eastern Capital). The city was divided into Yamanote and Shitamachi. Tokyo was already the nation's political and cultural center,[30] and the emperor's residence made it a de facto imperial capital as well, with the former Edo Castle becoming the Imperial Palace. The city of Tokyo was officially established on May 1, 1889.
 
@@ -29,8 +27,6 @@ Central Tokyo, like Osaka, has been designed since about 1900 to be centered on 
 Tokyo went on to suffer two major catastrophes in the 20th century: the 1923 Great Kantō earthquake, which left 140,000 dead or missing; and World War II.[31]
 
 1943–present
-
-Firebombing_of_Tokyo.jpg
 
 In 1943, the city of Tokyo merged with the prefecture of Tokyo to form the "Metropolitan Prefecture" of Tokyo. Since then, the Tokyo Metropolitan Government served as both the prefecture government for Tokyo, as well as administering the special wards of Tokyo, for what had previously been Tokyo City. World War II wrought widespread destruction of most of the city due to the persistent Allied air raids on Japan and the use of incendiary bombs. The bombing of Tokyo in 1944 and 1945 is estimated to have killed between 75,000 and 200,000 civilians and left more than half of the city destroyed.[32] The deadliest night of the war came on March 9–10, 1945, the night of the American "Operation Meetinghouse" raid;[33] as nearly 700,000 incendiary bombs rained on the eastern half of the city, mainly in heavily residential wards. Two-fifths of the city were completely burned, more than 276,000 buildings were demolished, 100,000 civilians were killed, and 110,000 more were injured.[34][35] Between 1940 and 1945, the population of Japan's capital city dwindled from 6,700,000 to less than 2,800,000, with the majority of those who lost their homes living in "ramshackle, makeshift huts".[36]
 
@@ -49,7 +45,7 @@ On September 7, 2013, the IOC selected Tokyo to host the 2020 Summer Olympics. T
 
 Geography
 
-Tokyo_Landsat.jpg's Landsat 7]] TokyoMetropolitanGovernmentOffice.jpg]]
+'s Landsat 7]] ]]
 
 The mainland portion of Tokyo lies northwest of Tokyo Bay and measures about east to west and north to south. The average elevation in Tokyo is .[48] Chiba Prefecture borders it to the east, Yamanashi to the west, Kanagawa to the south, and Saitama to the north. Mainland Tokyo is further subdivided into the special wards (occupying the eastern half) and the Tama area () stretching westwards.
 
@@ -60,8 +56,6 @@ Under Japanese law, Tokyo is designated as a , translated as _metropolis_.[49] I
 In addition to these 23 special wards, Tokyo also includes 26 more cities ( -shi), five towns ( -chō or machi), and eight villages ( -son or -mura), each of which has a local government. The Tokyo Metropolitan Government administers the whole metropolis including the 23 special wards and the cities and towns that constitute the prefecture. It is headed by a publicly elected governor and metropolitan assembly. Its headquarters is located in Shinjuku Ward.
 
 Special wards
-
-Tokyo_special_wards_map.svg
 
 The of Tokyo comprise the area formerly incorporated as Tokyo City. On July 1, 1943, Tokyo City was merged with forming the current "metropolitan prefecture". As a result, unlike other city wards in Japan, these wards are not conterminous with a larger incorporated city.
 
@@ -98,8 +92,6 @@ The special wards of Tokyo are:
 The "three central wards" of Tokyo – Chiyoda, Chūō and Minato – are the business core of the city, with a daytime population more than seven times higher than their nighttime population.[51] Chiyoda Ward is unique in that it is in the very heart of the former Tokyo City, yet is one of the least populated wards. It is occupied by many major Japanese companies and is also the seat of the national government, and the Japanese emperor. It is often called the "political center" of the country.[52] Akihabara, known for being an otaku cultural center and a shopping district for computer goods, is also located in Chiyoda.
 
 Tama Area (Western Tokyo)
-
-Western_Tokyo_map.svg
 
 To the west of the special wards, Tokyo Metropolis consists of cities, towns, and villages that enjoy the same legal status as those elsewhere in Japan.
 
@@ -140,8 +132,6 @@ The Tokyo Metropolitan Government has designated Hachiōji, Tachikawa, Machida, 
 
 Nishi-Tama District
 
-Tokyo_Nishitama_District_Area_Map.svg
-
 The far west of the Tama area is occupied by the district (_gun_) of Nishi-Tama. Much of this area is mountainous and unsuitable for urbanization. The highest mountain in Tokyo, Mount Kumotori, is high; other mountains in Tokyo include Takanosu (), Odake (), and Mitake (). Lake Okutama, on the Tama River near Yamanashi Prefecture, is Tokyo's largest lake. The district is composed of three towns (Hinode, Mizuho and Okutama) and one village (Hinohara).
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -149,8 +139,6 @@ The far west of the Tama area is occupied by the district (_gun_) of Nishi-Tama.
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Islands
-
-Map_of_Izu_Islands.png Ogasawara_islands.png
 
 Tokyo has numerous outlying islands, which extend as far as from central Tokyo. Because of the islands' distance from the administrative headquarters of the Tokyo Metropolitan Government in Shinjuku, local subprefectural branch offices administer them.
 
@@ -172,8 +160,6 @@ The Ogasawara Islands include, from north to south, Chichi-jima, Nishinoshima, H
 
 National parks
 
-Ogasawara_Islands,_Tokyo,_Japan.jpg
-
 As of March 31, 2008, 36% of the total land area of the prefecture was designated as Natural Parks (second only to Shiga Prefecture), namely the Chichibu Tama Kai, Fuji-Hakone-Izu, and Ogasawara National Parks (the last a UNESCO World Heritage Site); Meiji no Mori Takao Quasi-National Park; and Akikawa Kyūryō, Hamura Kusabana Kyūryō, Sayama, Takao Jinba, Takiyama, and Tama Kyūryō Prefectural Natural Parks.[56]
 
 A number of museums are located in Ueno Park: Tokyo National Museum, National Museum of Nature and Science, Shitamachi Museum and National Museum for Western Art, among others. There are also artworks and statues at several places in the park. There is also a zoo in the park, and the park is a popular destination to view cherry blossoms.
@@ -181,8 +167,6 @@ A number of museums are located in Ueno Park: Tokyo National Museum, National Mu
 Seismicity
 
 Common seismicity
-
-Temporarygatheringplace.jpg
 
 Tokyo is near the boundary of three plates, making it an extremely active region for smaller quakes and slippage which frequently affect the urban area with swaying as if in a boat, although epicenters within mainland Tokyo (excluding Tokyo's 2000  km long island jurisdiction) are quite rare. It is not uncommon in the metro area to have hundreds of these minor quakes (magnitudes 4–6) that can be felt in a single year, something local residents merely brush off but can be a source of anxiety to not only to foreign visitors but Japanese from elsewhere as well. They rarely cause much damage (sometimes a few injuries) as they are either too small or far away as quakes tend to dance around the region. Particularly active are offshore regions and to a lesser extent Chiba and Ibaraki.[57]
 
@@ -222,7 +206,7 @@ As of October 2012, the official intercensal estimate showed 13.506 million peo
 In 1889, the Home Ministry recorded 1,375,937 people in Tokyo City and a total of 1,694,292 people in Tokyo-fu.[80] In the same year, a total of 779 foreign nationals were recorded as residing in Tokyo. The most common nationality was British (209 residents), followed by United States nationals (182) and nationals of China (137).[81]
 
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Tokyo_historical_population.gif                                                                                                                                 | +----------------------------------+                                                                                    |
+|                                                                                                                                                                 | +----------------------------------+                                                                                    |
 |                                                                                                                                                                 | | REGISTERED FOREIGN NATIONALS[82] |                                                                                    |
 |                                                                                                                                                                 | +----------------------------------+                                                                                    |
 |                                                                                                                                                                 | | Nationality                      |                                                                                    |
@@ -277,7 +261,7 @@ In 1889, the Home Ministry recorded 1,375,937 people in Tokyo City and a total o
 
 Economy
 
-Tokyo_Skytree_2014_Ⅲ.jpg, the tallest tower in the world]] Tokyo_stock_exchange.jpg]] Ginza_Wako_Clock.jpg is a popular upscale shopping area of Tokyo as one of the most luxurious shopping districts in the world.]] Bank_of_Japan_headquarters_in_Tokyo,_Japan.jpg headquarters in Chuo, Tokyo]] Tokyo_Tower_at_night_8.JPG Shibuya_crossing.jpg attracts many tourists.]]
+, the tallest tower in the world]] ]] is a popular upscale shopping area of Tokyo as one of the most luxurious shopping districts in the world.]] headquarters in Chuo, Tokyo]] attracts many tourists.]]
 
 Tokyo has the largest metropolitan economy in the world. According to a study conducted by PricewaterhouseCoopers, the Greater Tokyo Area (Tokyo-Yokohama) of 38 million people had a total GDP of $2 trillion in 2012 (at purchasing power parity), which topped that list.
 
@@ -296,7 +280,7 @@ The Tsukiji Fish Market in Tokyo is the biggest wholesale fish and seafood marke
 
 Transportation
 
-Tokyo_station_from_marunouchi_oazo.JPG is the main intercity rail terminal in Tokyo.]] HND_control_tower.jpg]] 10000x6300_01.jpg and Toei Subway are two main subway operators in Tokyo.]] Shuto_expressway_shibaura_jct_ii.jpg]]
+is the main intercity rail terminal in Tokyo.]] ]] and Toei Subway are two main subway operators in Tokyo.]] ]]
 
 Tokyo, as the center of the Greater Tokyo Area, is Japan's largest domestic and international hub for rail and ground. However, its airspace has been under the US military's exclusive rights after World War II and some flight routes are returned to Japan.[93] Public transportation within Tokyo is dominated by an extensive network of clean and efficient[94] trains and subways run by a variety of operators, with buses, monorails and trams playing a secondary feeder role. There are up to 62 electric train lines and more than 900 train stations in Tokyo.[95]
 
@@ -311,7 +295,7 @@ Expressways link the capital to other points in the Greater Tokyo area, the Kant
 
 Education
 
-YasudaAuditorium.jpg in Bunkyō]] Okuma_lecture_hall_Waseda_University_2007-01.jpg at Waseda University in Shinjuku]] Hibiya-Highschool-00.jpg in Chiyoda]]
+in Bunkyō]] at Waseda University in Shinjuku]] in Chiyoda]]
 
 Tokyo has many universities, junior colleges, and vocational schools. Many of Japan's most prestigious universities are in Tokyo, including University of Tokyo, Hitotsubashi University, Tokyo Institute of Technology, Waseda University, Tokyo University of Science, Sophia University, and Keio University.[98] Some of the biggest national universities in Tokyo are:
 
@@ -348,13 +332,13 @@ Publicly run kindergartens, elementary schools (years 1 through 6), and Primary 
 
 Culture
 
-Nihon-Kagaku-Miraikan,Koto-ward,Tokyo,Japan.JPG, also known as "Miraikan"]] Takeshita_street_2012.JPG in Harajuku]]
+, also known as "Miraikan"]] in Harajuku]]
 
 Tokyo has many museums. In Ueno Park, there is the Tokyo National Museum, the country's largest museum and specializing in traditional Japanese art; the National Museum of Western Art and Ueno Zoo. Other museums include the National Museum of Emerging Science and Innovation in Odaiba; the Edo-Tokyo Museum in Sumida, across the Sumida River from the center of Tokyo; the Nezu Museum in Aoyama; and the National Diet Library, National Archives, and the National Museum of Modern Art, which are near the Imperial Palace.
 
 Tokyo has many theatres for performing arts. These include national and private theatres for traditional forms of Japanese drama. Noteworthy are the National Noh Theatre for noh and the Kabuki-za for Kabuki.[99] Symphony orchestras and other musical organizations perform modern and traditional music. Tokyo also hosts modern Japanese and international pop, and rock music at venues ranging in size from intimate clubs to internationally known areas such as the Nippon Budokan.
 
-View_of_mikoshi_from_sensoji_Sanja_Matsuri_2006-3.jpg in Asakusa]]
+in Asakusa]]
 
 Many different festivals occur throughout Tokyo. Major events include the Sannō at Hie Shrine, the Sanja at Asakusa Shrine, and the biennial Kanda Festivals. The last features a parade with elaborately decorated floats and thousands of people. Annually on the last Saturday of July, an enormous fireworks display over the Sumida River attracts over a million viewers. Once cherry blossoms bloom in spring, many residents gather in Ueno Park, Inokashira Park, and the Shinjuku Gyoen National Garden for picnics under the blossoms.
 
@@ -365,7 +349,7 @@ Cuisine in Tokyo is internationally acclaimed. In November 2007, Michelin releas
 
 Sports
 
-Tokyo_Dome_night.jpg, the home stadium for the Yomiuri Giants]] Ryogoku_Kokugikan_Tsuriyane_05212006.jpg sumo wrestling arena]]
+, the home stadium for the Yomiuri Giants]] sumo wrestling arena]]
 
 Tokyo, with a diverse array of sports, is home to two professional baseball clubs, the Yomiuri Giants who play at the Tokyo Dome and Tokyo Yakult Swallows at Meiji-Jingu Stadium. The Japan Sumo Association is also headquartered in Tokyo at the Ryōgoku Kokugikan sumo arena where three official sumo tournaments are held annually (in January, May, and September). Football clubs in Tokyo include F.C. Tokyo and Tokyo Verdy 1969, both of which play at Ajinomoto Stadium in Chōfu, and FC Machida Zelvia at Nozuta Stadium in Machida. Basketball clubs include the Hitachi SunRockers, Toyota Alvark Tokyo and Tokyo Excellence.
 
@@ -374,7 +358,7 @@ Tokyo hosted the 1964 Summer Olympics, thus becoming the first Asian city to hos
 
 In popular culture
 
-Akihabara_Night.jpg is the most popular area for fans of anime, manga, and games.]] Fuji_TV_headquarters_and_Aqua_City_Odaiba_-_2006-05-03_edit.jpg headquarters]]
+is the most popular area for fans of anime, manga, and games.]] headquarters]]
 
 As the largest population center in Japan and the site of the country's largest broadcasters and studios, Tokyo is frequently the setting for many Japanese movies, television shows, animated series (_anime_), web comics, light novels, video games, and comic books (_manga_). In the _kaiju_ (monster movie) genre, landmarks of Tokyo are usually destroyed by giant monsters such as Godzilla and Gamera.
 

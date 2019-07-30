@@ -1,1 +1,0 @@
-LIDIJA POZAIĆ FRKETIĆ of Croatia (born 23 September 1974) is one of 12 elected volunteer members of the World Scout Committee, the main executive body of the World Organization of the Scout Movement, in charge of international relations.[1][2][3]

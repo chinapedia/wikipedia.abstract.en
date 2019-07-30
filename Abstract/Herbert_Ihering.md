@@ -1,1 +1,0 @@
-Fotothek_df_pk_0000228_013.jpg HERBERT IHERING (also sometimes HERBERT JHERING: 29 February 1888 - 15 January 1977) was seen by many contemporaries as one of the leading German theatre critics during and after the Weimar years.[1]

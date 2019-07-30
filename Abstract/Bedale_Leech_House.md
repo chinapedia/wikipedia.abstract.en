@@ -1,1 +1,0 @@
-This late Georgian BEDALE LEECH HOUSE in Bedale, North Yorkshire, England, is a unique example[1] of a building constructed to keep live medicinal leeches (_Hirudo medicinalis_) healthy prior to their sale by the local apothecary[2] to doctors and private individuals for the purpose of blood letting as a medical procedure to cure or prevent a variety of illnesses and diseases.[3]

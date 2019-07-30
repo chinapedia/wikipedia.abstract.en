@@ -1,1 +1,0 @@
-Marshal_Mustafa_Kemal_Pasha.jpg The 1ST CABINET OF EXECUTIVE MINISTERS OF TURKEY (3 May 1920 – 24 January 1921 ) was the first government formed by the nationalists during the Turkish War of Independence. The Republic was not yet proclaimed and the government was called _İcra vekilleri heyeti_ ("cabinet of executive ministers")

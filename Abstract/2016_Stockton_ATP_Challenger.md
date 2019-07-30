@@ -1,1 +1,0 @@
-The 2016 STOCKTON ATP CHALLENGER was a professional tennis tournament played on hard courts. It was the first edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Stockton, United States between 1 October and 9 October 2016.

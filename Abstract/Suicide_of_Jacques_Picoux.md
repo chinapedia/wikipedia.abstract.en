@@ -1,1 +1,0 @@
-JACQUES CAMILLE PICOUX (9 November 1948 – 16 October 2016) was a lecturer on French language and literature at National Taiwan University,[1] who committed suicide on 16 October 2016.[2] He held a solo artist's exhibition in 2012,[3] and was also known for playing the character _Kong Kong_, in the 2015 film _The Assassin_, directed by Hou Hsiao-hsien.[4]

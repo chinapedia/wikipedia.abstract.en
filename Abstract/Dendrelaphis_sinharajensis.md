@@ -1,1 +1,0 @@
-_DENDRELAPHIS SINHARAJENSIS_ is a species of arboreal snake endemic to Sri Lanka. Recommended vernacular names include: SINHARAJA TREE SNAKE (English), SINHARAJA HALDANDA (Sinhala; සිංහරාජ හාල්දණ්ඩා) and SINHARAJA KOMBERI MUKEN (Tamil).[1]

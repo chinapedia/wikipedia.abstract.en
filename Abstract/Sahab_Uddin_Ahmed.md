@@ -1,1 +1,0 @@
-SAHAB UDDIN AHMED (born 12 March 1963 in Katarihara, Assam is an All India United Democratic Front politician from Assam, India. He was elected in Assam Legislative Assembly election in 2016 from Jaleswar constituency.[1][2][3]

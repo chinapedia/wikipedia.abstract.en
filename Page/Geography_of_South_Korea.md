@@ -1,9 +1,7 @@
-Korea_south_map_-_Valentim.png South Korea is located in East Asia, on the southern half of the Korean Peninsula jutting out from the far east of the Asian landmass. The only country with a land border to South Korea is North Korea, lying to the north with of border running along the Korean Demilitarized Zone. South Korea is mostly surrounded by water and has of coastline along three seas; to the west is the Yellow Sea (West Sea), to the south is the East China Sea, and to the east is the Sea of Japan (known as the "East Sea" in South Korea) . Geographically, South Korea's land mass is approximately .[1] of South Korea are occupied by water. The approximate coordinates are 37° North, 127° 30 East.
+South Korea is located in East Asia, on the southern half of the Korean Peninsula jutting out from the far east of the Asian landmass. The only country with a land border to South Korea is North Korea, lying to the north with of border running along the Korean Demilitarized Zone. South Korea is mostly surrounded by water and has of coastline along three seas; to the west is the Yellow Sea (West Sea), to the south is the East China Sea, and to the east is the Sea of Japan (known as the "East Sea" in South Korea) . Geographically, South Korea's land mass is approximately .[1] of South Korea are occupied by water. The approximate coordinates are 37° North, 127° 30 East.
 
 
 Land area and borders
-
-Satellite_image_of_South_Korea_in_January_2004.jpg
 
 The Korean Peninsula extends southward from the northeast part of the Asian continental landmass. The Japanese islands of Honshū and Kyūshū are located some 200 km (124 mi) to the southeast across the Korea Strait; the Shandong Peninsula of China lies 190 kilometers to the west. The west coast of the peninsula is bordered by the Korea Bay to the north and the Yellow Sea and Korea Strait to the south; the east coast is bordered by the East sea. The 8,640-kilometer coastline is highly indented. Some 3,579 islands lie adjacent to the peninsula. Most of them are found along the south and west coasts.
 
@@ -15,8 +13,6 @@ The largest island, Jeju-do, lies off the southwest corner of the peninsula and 
 
 
 Topography and drainage
-
-South_Korea_Topography.png Earthquake_map_in_South_Korea.svg
 
 Early European visitors to Korea remarked that the land resembled "a sea in a heavy gale" because of the large number of successive mountain ranges that crisscross the peninsula. The highest mountains are in North Korea. The highest mountain peak in South Korea is Hallasan (1,950 m), which is the cone of a volcanic formation constituting Jeju Island. There are two major mountain ranges within South Korea: the Taebaek Mountains, and the Sobaek Mountains.
 
@@ -43,7 +39,7 @@ _highest point:_ Hallasan 1,950 m
 
 Climate
 
-Koppen-Geiger_Map_KOR_present.svg of South Korea]] FAS_Korea_2010003_terra_250m.jpg
+of South Korea]]
 
 Part of the East Asian Monsoon region, South Korea has a temperate climate with four distinct seasons. The movement of air masses from the Asian continent exerts greater influence on South Korea's weather than does air movement from the Pacific Ocean. Winters are usually long, cold, and dry, whereas summers are short, hot, and humid. Spring and autumn are pleasant but short in duration. Seoul's mean temperature in January is ; in July the mean temperature is about . Because of its southern and seagirt location, Jeju Island has warmer and milder weather than other parts of South Korea. Mean temperatures on Jeju range from in January to in July.
 

@@ -1,1 +1,0 @@
-The 2017 CAMPEONATO CARIOCA DE FUTEBOL was the 114th edition of the top tier football of football of FFERJ (Federação de Futebol do Estado do Rio de Janeiro, or Rio de Janeiro State Football Federation). The top four teams competed in the 2017 Copa do Brasil.

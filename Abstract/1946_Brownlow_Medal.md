@@ -1,1 +1,0 @@
-The 1946 BROWNLOW MEDAL was the 19th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Don Cordner of the Melbourne Football Club won the medal by polling twenty votes during the 1946 VFL season.[2]

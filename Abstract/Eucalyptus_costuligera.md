@@ -1,1 +1,0 @@
-_EUCALYPTUS COSTULIGERA_ is a species of small tree that is endemic in the Kimberley region of Western Australia. It has short-fibrous or flaky bark on the trunk and branches, bluish, lance-shaped adult leaves, club-shaped flower buds in branched or unbranched inflorescences with the buds in groups of up to seven, creamy-white flowers and conical, cup-shaped or pear-shaped fruit.

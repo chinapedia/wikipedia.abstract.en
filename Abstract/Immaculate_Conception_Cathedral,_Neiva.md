@@ -1,1 +1,0 @@
-The IMMACULATE CONCEPTION CATHEDRAL[1] Also NEIVA CATHEDRAL[2] Is the name given to a religious building affiliated with the Roman Catholic Church dedicated to the Virgin Mary in her invocation of the Immaculate Conception. It is located in the city of Neiva in the department of Huila in the southwestern part of the South American country of Colombia.[3]

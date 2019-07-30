@@ -1,1 +1,0 @@
-LOUISE MCMURTRIEL (born 26 April 1976) is an Australian former footballer who played as a defender for the Australia women's national soccer team. She was part of the team at the 1995 FIFA Women's World Cup. At the club level, she played for Queensland Academy of Sport in Australia.[1][2][3]

@@ -18,7 +18,7 @@ From 1791 until 1794, Coleridge attended Jesus College, Cambridge.[10] In 1792, 
 
 Pantisocracy and marriage
 
-Mary_Matilda_Betham,_Sara_Coleridge_(Mrs._Samuel_Taylor),_Portrait_miniature,1809.jpg, _Sara Coleridge (Mrs. Samuel Taylor Coleridge),_ Portrait miniature, 1809]]Samuel_Taylor_Coleridge_portrait.jpg), published by Sampson Low, 1906.]] Samuel_Taylor_Coleridge_-_geograph.org.uk_-_990077.jpg]]
+, _Sara Coleridge (Mrs. Samuel Taylor Coleridge),_ Portrait miniature, 1809]]), published by Sampson Low, 1906.]] ]]
 
 Cambridge and Somerset
 
@@ -44,7 +44,7 @@ From 16 September 1798, Coleridge and the Wordsworths left for a stay in Germany
 
 In 1799, Coleridge and the Wordsworths stayed at Thomas Hutchinson's farm on the River Tees at Sockburn, near Darlington.
 
-Sara_Coleridge_1.jpg – 1830. Portrait by Richard James Lane]] It was at Sockburn that Coleridge wrote his ballad-poem _Love_, addressed to Sara Hutchinson. The knight mentioned is the mailed figure on the Conyers tomb in ruined Sockburn church. The figure has a wyvern at his feet, a reference to the Sockburn Worm slain by Sir John Conyers (and a possible source for Lewis Carroll's _Jabberwocky_). The worm was supposedly buried under the rock in the nearby pasture; this was the 'greystone' of Coleridge's first draft, later transformed into a 'mount'. The poem was a direct inspiration for John Keats' famous poem _La Belle Dame Sans Merci_.[21]
+– 1830. Portrait by Richard James Lane]] It was at Sockburn that Coleridge wrote his ballad-poem _Love_, addressed to Sara Hutchinson. The knight mentioned is the mailed figure on the Conyers tomb in ruined Sockburn church. The figure has a wyvern at his feet, a reference to the Sockburn Worm slain by Sir John Conyers (and a possible source for Lewis Carroll's _Jabberwocky_). The worm was supposedly buried under the rock in the nearby pasture; this was the 'greystone' of Coleridge's first draft, later transformed into a 'mount'. The poem was a direct inspiration for John Keats' famous poem _La Belle Dame Sans Merci_.[21]
 
 Coleridge's early intellectual debts, besides German idealists like Kant and critics like Lessing, were first to William Godwin's _Political Justice_, especially during his Pantisocratic period, and to David Hartley's _Observations on Man_, which is the source of the psychology which is found in _Frost at Midnight_. Hartley argued that one becomes aware of sensory events as impressions, and that "ideas" are derived by noticing similarities and differences between impressions and then by naming them. Connections resulting from the coincidence of impressions create linkages, so that the occurrence of one impression triggers those links and calls up the memory of those ideas with which it is associated (See Dorothy Emmet, "Coleridge and Philosophy").
 
@@ -57,7 +57,7 @@ In 1802, Coleridge took a nine-day walking holiday in the fells of the Lake Dist
 
 Later life and increasing drug use
 
-Samuel_Taylor_Coleridge_by_Washington_Allston_retouched.jpg ]]
+]]
 
 Travel and _The Friend_
 
@@ -69,7 +69,7 @@ In 1809, Coleridge made his second attempt to become a newspaper publisher with 
 
 London: final years and death
 
-SamuelTaylorColeridgeBluePlaque.jpg, London]] Between 1810 and 1820, Coleridge gave a series of lectures in London and Bristol – those on Shakespeare renewed interest in the playwright as a model for contemporary writers. Much of Coleridge's reputation as a literary critic is founded on the lectures that he undertook in the winter of 1810–11, which were sponsored by the Philosophical Institution and given at Scot's Corporation Hall off Fetter Lane, Fleet Street. These lectures were heralded in the prospectus as "A Course of Lectures on Shakespeare and Milton, in Illustration of the Principles of Poetry." Coleridge's ill-health, opium-addiction problems, and somewhat unstable personality meant that all his lectures were plagued with problems of delays and a general irregularity of quality from one lecture to the next. As a result of these factors, Coleridge often failed to prepare anything but the loosest set of notes for his lectures and regularly entered into extremely long digressions which his audiences found difficult to follow. However, it was the lecture on _Hamlet_ given on 2 January 1812 that was considered the best and has influenced _Hamlet_ studies ever since. Before Coleridge, _Hamlet_ was often denigrated and belittled by critics from Voltaire to Dr. Johnson. Coleridge rescued the play's reputation, and his thoughts on it are often still published as supplements to the text.
+, London]] Between 1810 and 1820, Coleridge gave a series of lectures in London and Bristol – those on Shakespeare renewed interest in the playwright as a model for contemporary writers. Much of Coleridge's reputation as a literary critic is founded on the lectures that he undertook in the winter of 1810–11, which were sponsored by the Philosophical Institution and given at Scot's Corporation Hall off Fetter Lane, Fleet Street. These lectures were heralded in the prospectus as "A Course of Lectures on Shakespeare and Milton, in Illustration of the Principles of Poetry." Coleridge's ill-health, opium-addiction problems, and somewhat unstable personality meant that all his lectures were plagued with problems of delays and a general irregularity of quality from one lecture to the next. As a result of these factors, Coleridge often failed to prepare anything but the loosest set of notes for his lectures and regularly entered into extremely long digressions which his audiences found difficult to follow. However, it was the lecture on _Hamlet_ given on 2 January 1812 that was considered the best and has influenced _Hamlet_ studies ever since. Before Coleridge, _Hamlet_ was often denigrated and belittled by critics from Voltaire to Dr. Johnson. Coleridge rescued the play's reputation, and his thoughts on it are often still published as supplements to the text.
 
 In 1812 he allowed Robert Southey to make use of extracts from his vast number of private notebooks in their collaboration _Omniana; Or, Horae Otiosiores_.
 
@@ -107,7 +107,7 @@ As important as Coleridge was to poetry as a poet, he was equally important to p
 
 _The Rime of the Ancient Mariner_, _Christabel_, and _Kubla Khan_
 
-KublaKhan.jpeg'']] Coleridge is probably best known for his long poems _The Rime of the Ancient Mariner_ and _Christabel_. Even those who have never read the _Rime_ have come under its influence: its words have given the English language the metaphor of an albatross around one's neck, the quotation of "water, water everywhere, nor any drop to drink" (almost always rendered as "but not a drop to drink"), and the phrase "a sadder and a wiser man" (again, usually rendered as "a sadder but wiser man"). The phrase "All creatures great and small" may have been inspired by _The Rime_: "He prayeth best, who loveth best;/ All things both great and small;/ For the dear God who loveth us;/ He made and loveth all." _Christabel_ is known for its musical rhythm, language, and its Gothic tale.
+'']] Coleridge is probably best known for his long poems _The Rime of the Ancient Mariner_ and _Christabel_. Even those who have never read the _Rime_ have come under its influence: its words have given the English language the metaphor of an albatross around one's neck, the quotation of "water, water everywhere, nor any drop to drink" (almost always rendered as "but not a drop to drink"), and the phrase "a sadder and a wiser man" (again, usually rendered as "a sadder but wiser man"). The phrase "All creatures great and small" may have been inspired by _The Rime_: "He prayeth best, who loveth best;/ All things both great and small;/ For the dear God who loveth us;/ He made and loveth all." _Christabel_ is known for its musical rhythm, language, and its Gothic tale.
 
 _Kubla Khan_, or, _A Vision in a Dream, A Fragment_, although shorter, is also widely known. Both _Kubla Khan_ and _Christabel_ have an additional "Romantic" aura because they were never finished. Stopford Brooke characterised both poems as having no rival due to their "exquisite metrical movement" and "imaginative phrasing."
 
@@ -124,7 +124,7 @@ The eight of Coleridge's poems listed above are now often discussed as a group e
 
 Harper himself considered that the eight poems represented a form of blank verse that is "...more fluent and easy than Milton's, or any that had been written since Milton".[46] In 2006 Robert Koelzer wrote about another aspect of this apparent "easiness", noting that Conversation poems such as "... Coleridge's _The Eolian Harp_ and _The Nightingale_ maintain a middle register of speech, employing an idiomatic language that is capable of being construed as un-symbolic and un-musical: language that lets itself be taken as 'merely talk' rather than rapturous 'song'."[47]
 
-Ancient_mariner_statue.jpg Harbour, Somerset, England]]
+Harbour, Somerset, England]]
 
 The last ten lines of _Frost at Midnight_ were chosen by Harper as the "best example of the peculiar kind of blank verse Coleridge had evolved, as natural-seeming as prose, but as exquisitely artistic as the most complicated sonnet."[48] The speaker of the poem is addressing his infant son, asleep by his side:
 
@@ -143,7 +143,7 @@ In _Biographia Literaria_ and his poetry, symbols are not merely "objective corr
 
 Coleridge and the influence of the Gothic
 
-Rime_of_the_Ancient_Mariner-Albatross-Dore.jpg''. The frozen crew and the albatross by Gustave Doré (1876)]] Coleridge wrote reviews of Ann Radcliffe's books and _The Mad Monk_, among others. He comments in his reviews: "Situations of torment, and images of naked horror, are easily conceived; and a writer in whose works they abound, deserves our gratitude almost equally with him who should drag us by way of sport through a military hospital, or force us to sit at the dissecting-table of a natural philosopher. To trace the nice boundaries, beyond which terror and sympathy are deserted by the pleasurable emotions, – to reach those limits, yet never to pass them, hic labor, hic opus est." and "The horrible and the preternatural have usually seized on the popular taste, at the rise and decline of literature. Most powerful stimulants, they can never be required except by the torpor of an unawakened, or the languor of an exhausted, appetite... We trust, however, that satiety will banish what good sense should have prevented; and that, wearied with fiends, incomprehensible characters, with shrieks, murders, and subterraneous dungeons, the public will learn, by the multitude of the manufacturers, with how little expense of thought or imagination this species of composition is manufactured."
+''. The frozen crew and the albatross by Gustave Doré (1876)]] Coleridge wrote reviews of Ann Radcliffe's books and _The Mad Monk_, among others. He comments in his reviews: "Situations of torment, and images of naked horror, are easily conceived; and a writer in whose works they abound, deserves our gratitude almost equally with him who should drag us by way of sport through a military hospital, or force us to sit at the dissecting-table of a natural philosopher. To trace the nice boundaries, beyond which terror and sympathy are deserted by the pleasurable emotions, – to reach those limits, yet never to pass them, hic labor, hic opus est." and "The horrible and the preternatural have usually seized on the popular taste, at the rise and decline of literature. Most powerful stimulants, they can never be required except by the torpor of an unawakened, or the languor of an exhausted, appetite... We trust, however, that satiety will banish what good sense should have prevented; and that, wearied with fiends, incomprehensible characters, with shrieks, murders, and subterraneous dungeons, the public will learn, by the multitude of the manufacturers, with how little expense of thought or imagination this species of composition is manufactured."
 
 However, Coleridge used these elements in poems such as _The Rime of the Ancient Mariner_ (1798), _Christabel_ and _Kubla Khan_ (published in 1816, but known in manuscript form before then) and certainly influenced other poets and writers of the time. Poems like these both drew inspiration from and helped to inflame the craze for Gothic romance. Coleridge also made considerable use of Gothic elements in his commercially successful play _Remorse_.[56]
 

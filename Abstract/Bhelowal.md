@@ -1,1 +1,0 @@
-BHELOWAL (Urdu, Punjabi: بھیلووال) is a village, union council, and administrative subdivision of Jhelum District (Urdu جہلم) in the Punjab Province of Pakistan. It is part of Pind Dadan Khan Tehsil.[1][2]

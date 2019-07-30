@@ -1,1 +1,0 @@
-_HOMO HABILIS_ is a proposed archaic species of _Homo_, which lived between roughly 2.1 and 1.5 million years ago, during the Gelasian and early Calabrian stages of the Pleistocene geological epoch.[1]

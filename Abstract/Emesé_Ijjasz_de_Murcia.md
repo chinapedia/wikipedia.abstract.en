@@ -1,1 +1,0 @@
-EMESÉ IJJASZ DE MURCIA (b May 18, 1936) is a Hungarian-born Colombian architect and educator.[1] She studied architecture in Argentina, at the Catholic University in Santiago, Chile and at the National University of Colombia at Medellín.

@@ -1,1 +1,0 @@
-GDAŃSK (,[1] ; ; ) is a Polish city on the Baltic coast. With a population of 466,631,[2] Gdańsk is the capital and largest city of the Pomeranian Voivodeship and one of the most prominent cities within the cultural and geographical region of Kashubia. It is Poland's principal seaport and the centre of the country's fourth-largest metropolitan area.[3]

@@ -1,1 +1,0 @@
-PAT LOIKA (born 1979) is a San Diego–based podcaster and photographer.[1] He has created artwork for comics and featured in discussions about the comic book industry. His photography, focusing largely on cosplay, has been featured in magazines and broadcasts.

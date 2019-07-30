@@ -1,4 +1,4 @@
-Service_mark.svgal logo using the service mark symbol.]]
+al logo using the service mark symbol.]]
 
 A SERVICE MARK or SERVICEMARK is a trademark used in the United States and several other countries to identify a service rather than a product.[1][2]
 

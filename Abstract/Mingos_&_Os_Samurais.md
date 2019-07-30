@@ -1,1 +1,0 @@
-_MINGOS & OS SAMURAIS_ or _OS MINGOS E OS SAMURAIS_ was Rui Veloso's fifth album released on EMI Portugal in 1990.[1] It was one of the most successful Portuguese music which sold 200,000 copies The disc musically tells a story of a small provincial band during the 1960s and the 1970s.

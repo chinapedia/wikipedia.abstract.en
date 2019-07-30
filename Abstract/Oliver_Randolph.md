@@ -1,1 +1,0 @@
-OLIVER RANDOLPH (Oct 31, 1877[1] – October 2, 1951) was an African American lawyer and Republican Party politician. He was the first African American to be admitted to the New Jersey bar, the second African American elected to the New Jersey Legislature, and the only African American to serve as a delegate to the New Jersey Constitutional Convention of 1947.

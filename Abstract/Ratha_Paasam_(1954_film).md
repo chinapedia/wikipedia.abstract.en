@@ -1,1 +1,0 @@
-_RATHA PAASAM_ () is a 1954 Indian Tamil-language drama film directed by R. S. Mani, written by C. V. Sridhar and produced by T. K. Muthusamy. The film stars T. K. Shanmugam, T. K. Bhagavathi, Anjali Devi, M. S. Draupadhai and T. S. Balaiah. It is based on Sridhar's play of the same name. The film was a commercial success, and was later remade in Hindi as _Bhai-Bhai_ (1956).

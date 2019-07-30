@@ -1,1 +1,0 @@
-The RUGBY WORLD CUP is a men's rugby union tournament contested every four years between the top international teams. The tournament was first held in 1987, when the tournament was co-hosted by New Zealand and Australia.

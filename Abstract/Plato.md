@@ -1,1 +1,0 @@
-PLATO (; _Plátōn_, in Classical Attic; 428/427 or 424/423 – 348/347 BC) was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.

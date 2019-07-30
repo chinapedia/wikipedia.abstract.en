@@ -1,1 +1,0 @@
-AFFINITY may refer to:

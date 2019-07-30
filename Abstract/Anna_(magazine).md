@@ -1,1 +1,0 @@
-_ANNA_ is a weekly Italian women's fashion magazine based in Milan, Italy.[1] The magazine was founded in 1984 on the ashes of the monthly _Annabella_, a famous magazine closed in the 1970s.[2] The publisher is RCS Periodici,[3] part of RCS MediaGroup.[4] The magazine has many sister publications, including another women's magazine _Amica_.[5][6]

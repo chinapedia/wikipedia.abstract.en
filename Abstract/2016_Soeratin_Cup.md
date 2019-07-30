@@ -1,1 +1,0 @@
-The 2016 SOERATIN CUP season is a football competition which is intended for footballers born before 1 January 1999. This season is managed by competition committee of Province Association for qualification round and managed by PT. GTS in national round.[1] The national round started on 19 November 2016.

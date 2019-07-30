@@ -1,1 +1,0 @@
-KARADENIZ EREĞLI MUSEUM (also known as Ereğli Museum) is a museum in Ereğli ilçe (district) of Zonguldak Province , Turkey. The modifier _Karadeniz_ ("Black Sea") is used to distinguish Ereğli in Zonguldak Province from another similar-named ilçes in Konya and Tekirdağ Provinces.

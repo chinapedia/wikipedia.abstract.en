@@ -1,1 +1,0 @@
-MAYAN GROUP CO. MAYAN Group () is Iran's largest private software development company. The company provides enterprise software solutions and support to businesses of all sizes located across the country.

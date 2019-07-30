@@ -1,1 +1,0 @@
-_PACHNEPHORUS LOPATINI_ is a species of leaf beetle found in Senegal, described by Stefano Zoia in 2007.[1] It is named after the entomologist Igor Lopatin.[2]

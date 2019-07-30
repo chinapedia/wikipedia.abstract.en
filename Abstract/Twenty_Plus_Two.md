@@ -1,1 +1,0 @@
-_TWENTY PLUS TWO_ (a.k.a. "It Started in Tokyo") is a 1961 American film noir directed by Joseph M. Newman and starring David Janssen, Jeanne Crain, and Dina Merrill.[1] The film adapted Frank Gruber's 1961 novel of the same title.[2]

@@ -1,1 +1,0 @@
-ENDOXIFEN, also known as _N_-DESMETHYL-4-HYDROXYTAMOXIFEN, is a chemical that is under development for estrogen receptor-positive breast cancer.[1] It is also being evaluated as an antipsychotic for treatment of mania and other psychotic disorders.[2]

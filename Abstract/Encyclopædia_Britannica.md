@@ -1,1 +1,0 @@
-s thistle logo

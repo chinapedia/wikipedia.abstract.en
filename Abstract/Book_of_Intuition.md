@@ -1,1 +1,0 @@
-_BOOK OF INTUITION_ is a studio album by jazz pianist Kenny Barron with bassist Kiyoshi Kitagawa and drummer Jonathan Blake.[1] The album was released on March 4, 2016 via Impulse! Records label.[2][3]

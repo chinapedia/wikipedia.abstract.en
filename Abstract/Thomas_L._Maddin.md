@@ -1,1 +1,0 @@
-THOMAS L. MADDIN (1826–1908) was an American physician. He treated black slaves in Alabama in the antebellum era. He served as the director of a hospital for the Confederate States Army in Nashville, Tennessee during the American Civil War. He was a professor of medicine at the University of Nashville and the Vanderbilt University School of Medicine.

@@ -24,7 +24,7 @@ In the 20 years following his hire, Ballmer headed several Microsoft divisions, 
 
 Chief Executive Officer (2000–2014)
 
-Steve_Ballmer_MWC_2010.jpg On January 13, 2000, Ballmer was officially named the chief executive officer.[31][32] As CEO, Ballmer handled company finances and daily operations, but Gates remained chairman of the board and still retained control of the "technological vision" as chief software architect.[33] Gates relinquished day-to-day activities when he stepped down as chief software architect in 2006, while staying on as chairman, and that gave Ballmer the autonomy needed to make major management changes at Microsoft.[34]
+On January 13, 2000, Ballmer was officially named the chief executive officer.[31][32] As CEO, Ballmer handled company finances and daily operations, but Gates remained chairman of the board and still retained control of the "technological vision" as chief software architect.[33] Gates relinquished day-to-day activities when he stepped down as chief software architect in 2006, while staying on as chairman, and that gave Ballmer the autonomy needed to make major management changes at Microsoft.[34]
 
 When Ballmer took over as CEO, the company was fighting an antitrust lawsuit brought on by the U.S. government and 20 states, plus class-action lawsuits and complaints from rival companies. While it was said that Gates would have continued fighting the suit, Ballmer made it his priority to settle these saying: "Being the object of a lawsuit, effectively, or a complaint from your government is a very awkward, uncomfortable position to be in. It just has all downside. People assume if the government brought a complaint that there's really a problem, and your ability to say we're a good, proper, moral place is tough. It's actually tough, even though you feel that way about yourselves."[35]
 
@@ -38,7 +38,7 @@ Ballmer attracted criticism for failing to capitalize on several new consumer te
 
 In 2009, and for the first time since Bill Gates resigned from day-to-day management at Microsoft, Ballmer delivered the opening keynote at CES.[55]
 
-Steve_Ballmer_-_MIX_2008.jpg As part of his plans to expand on hardware, on June 19, 2012, Ballmer revealed Microsoft's first ever computer device, a tablet called Microsoft Surface at an event held in Hollywood, Los Angeles.[56] He followed this by announcing the company's purchase of Nokia's mobile phone division in September 2013,[57] his last major acquisition for Microsoft as CEO.
+As part of his plans to expand on hardware, on June 19, 2012, Ballmer revealed Microsoft's first ever computer device, a tablet called Microsoft Surface at an event held in Hollywood, Los Angeles.[56] He followed this by announcing the company's purchase of Nokia's mobile phone division in September 2013,[57] his last major acquisition for Microsoft as CEO.
 
 On August 23, 2013, Microsoft announced that Ballmer would retire within the next 12 months. A special committee that included Bill Gates would decide on the next CEO.[58]
 

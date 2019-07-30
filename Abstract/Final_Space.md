@@ -1,1 +1,0 @@
-_FINAL SPACE_ is an American animated space opera comedy-drama television series created by Olan Rogers for cable networks TBS and Cartoon Network’s late-night block Adult Swim. The series involves an astronaut named Gary and his alien friend, Mooncake, and focuses on their intergalactic adventures as they try to solve the mystery of the titular "Final Space."

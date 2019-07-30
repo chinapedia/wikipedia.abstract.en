@@ -1,1 +1,0 @@
-_OFF COURSE_ () is a 2015 Spanish comedy film directed by Nacho G. Velilla. It is a light, entertaining film, which nevertheless touches on the topics of youth unemployment and underemployment, economic emigration, estrangement (from family), language barriers, Alzheimer's, infertility and other interesting subjects.

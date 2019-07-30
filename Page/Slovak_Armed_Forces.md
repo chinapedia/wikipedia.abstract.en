@@ -1,11 +1,7 @@
 The ARMED FORCES OF THE SLOVAK REPUBLIC were divided from Czechoslovak army after dissolution of Czechoslovakia on January 1, 1993. Slovakia joined NATO on 29 March 2004.[1] From 2006 the army transformed into a fully professional organization and compulsory military service was abolished.[2][3][4] Slovak armed forces numbered 15,996 uniformed personnel and 3,761 civilians in 2014.[5][6]
 
-Slovakia_Army.png
-
 
 Ground forces
-
-Soldiers_from_12th_Mechanized_Battalion_of_1st_Mechanized_Brigade2.jpg
 
 -   Ground Forces Headquarters
 -   1st Mechanized Brigade
@@ -15,11 +11,9 @@ Soldiers_from_12th_Mechanized_Battalion_of_1st_Mechanized_Brigade2.jpg
 
 Air force
 
-Slovak_Air_Force_MiG-29AS.JPG.]] The Slovak Air Force, officially the _Air Force of the Armed Forces of the Slovak Republic_, has been defending Slovak airspace since 1939. Slovak Air Force currently comprises one wing of fighters and one wing of utility helicopters, and one SAM brigade. It operates 20 pieces aircraft, as well as 10 helicopters from 3 air bases: Malacky Air Base, Sliač Air Base, Prešov Air Base. The Air Force is currently part of the NATO Integrated Air and Missiles Defense System – NATINADS.
+.]] The Slovak Air Force, officially the _Air Force of the Armed Forces of the Slovak Republic_, has been defending Slovak airspace since 1939. Slovak Air Force currently comprises one wing of fighters and one wing of utility helicopters, and one SAM brigade. It operates 20 pieces aircraft, as well as 10 helicopters from 3 air bases: Malacky Air Base, Sliač Air Base, Prešov Air Base. The Air Force is currently part of the NATO Integrated Air and Missiles Defense System – NATINADS.
 
 Aircraft
-
-Prešov_Air_base.JPG
 
 +---------------------------+--------+---------------------+--------------+------------+--------------------------------------------------------------------------------+
 | Aircraft                  | Origin | Type                | Variant      | In service | Notes                                                                          |

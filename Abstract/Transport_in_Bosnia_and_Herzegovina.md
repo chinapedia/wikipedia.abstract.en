@@ -1,1 +1,0 @@
-Roads_in_Bosnia_and_Herzegovina.svg

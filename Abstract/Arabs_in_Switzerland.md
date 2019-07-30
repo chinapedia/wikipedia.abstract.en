@@ -1,1 +1,0 @@
-ARABS IN SWITZERLAND () are Swiss citizens or residents of Arab ethnic, cultural and linguistic heritage from Arab countries, particularly Morocco, Tunisia, Algeria, Lebanon, Syria, Iraq and Egypt, also small groups from Palestine, Yemen, Libya, Jordan and Sudan, who emigrated from their native nations and currently reside in Switzerland.

@@ -1,1 +1,0 @@
-Gamla_vattentornet_i_Sala_0555.jpg AGNES MAGNELL (26 November 1878, Uddevalla – 1966) was a Swedish architect. She was the first woman in Sweden to be admitted to the Royal Institute of Technology to study architecture.

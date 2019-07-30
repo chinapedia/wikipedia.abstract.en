@@ -1,1 +1,0 @@
-"UN BACIO PICCOLISSIMO" is a 1964 song composed by Giovanni Ornati and Gino Mescoli. The song premiered at the 14th edition of the Sanremo Music Festival with a double performance of Robertino and Bobby Rydell. Robertino's version was sung with a fake English accent according to the fashion of the time.[1][2]

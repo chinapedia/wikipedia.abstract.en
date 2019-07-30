@@ -1,1 +1,0 @@
-MARÍA ROSA ONDO NSING (born 10 October 1982) is an Equatoguinean footballer who played as a goalkeeper for the Equatorial Guinea women's national football team. She was part of the team at the 2011 FIFA Women's World Cup. At the club level, she played for Inter Continental in Equatorial Guinea.[1]

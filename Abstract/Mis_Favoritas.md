@@ -1,1 +1,0 @@
-_MIS FAVORITAS_ is a Latin music compilation album series by Sony Music initiated in 2010 and issued in the US and in Colombia.[1][2] Some of the albums in the series charted on the main Latin album charts, for example the _Mis Favoritas_ compilation for Gilberto Santa Rosa became the artist's 25th charting album.[3]

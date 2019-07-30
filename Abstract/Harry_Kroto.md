@@ -1,1 +1,0 @@
-SIR HAROLD WALTER KROTO [1][2] (born HAROLD WALTER KROTOSCHINER; 7 October 1939 – 30 April 2016), known as HARRY KROTO, was an English chemist. He shared the 1996 Nobel Prize in Chemistry with Robert Curl and Richard Smalley for their discovery of fullerenes. He was the recipient of many other honors and awards.

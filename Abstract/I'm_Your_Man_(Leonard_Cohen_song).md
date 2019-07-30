@@ -1,1 +1,0 @@
-"I'M YOUR MAN" is a song written by Canadian singer-songwriter Leonard Cohen, first released on the album of the same name. Originally released as a single in 1988, it reached number 57 in the French charts after Cohen's death in 2016.

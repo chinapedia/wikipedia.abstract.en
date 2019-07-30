@@ -1,1 +1,0 @@
-ESMAIL KHAN MERAT (7 March 1893 – 18 December 1949) was Iran's minister of education during Reza Shah reign. He is founder of some faculties of university of Tehran, including law faculty and technical faculty. He has also founded art section of University of Tehran.

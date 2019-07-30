@@ -1,1 +1,0 @@
-PROFESSOR WATCHLIST is a website run by Turning Point USA that lists US professors deemed to "discriminate against conservative students, promote anti-American values and advance leftist propaganda in the classroom."[1] It was launched in 2016.[2] As of December 2016, the website included about 200 professors.[3]

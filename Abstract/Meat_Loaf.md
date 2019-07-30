@@ -1,1 +1,0 @@
-MICHAEL LEE ADAY (born MARVIN LEE ADAY; September 27, 1947), known professionally as MEAT LOAF, is an American singer, songwriter, record producer, and actor. He is noted for his wide-ranging operatic voice and theatrical live shows.

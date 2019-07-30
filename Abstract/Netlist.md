@@ -1,1 +1,0 @@
-In electronic design, a NETLIST is a description of the connectivity of an electronic circuit.[1][2] In its simplest form, a netlist consists of a list of the electronic components in a circuit and a list of the nodes they are connected to.[3][4] A network (net) is a collection of two or more interconnected components.

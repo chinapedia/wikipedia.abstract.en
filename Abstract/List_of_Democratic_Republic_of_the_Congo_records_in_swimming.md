@@ -1,1 +1,0 @@
-The DEMOCRATIC REPUBLIC OF THE CONGO RECORDS IN SWIMMING are the fastest ever performances of swimmers from the Democratic Republic of the Congo, which are recognised and ratified by the Fédération de Natation en République Démocratique du Congo.

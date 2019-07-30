@@ -1,1 +1,0 @@
-GUSTAVE DE MOLINARI (; 3 March 1819 – 28 January 1912) was a Belgian political economist and classical liberal theorist associated with French _laissez-faire_ economists such as Frédéric Bastiat and Hippolyte Castille.

@@ -1,1 +1,0 @@
-_GENTLE RAIN_ is the final album by vocalist Irene Kral performing with pianist Alan Broadbent which was recorded in 1977 and originally released on the Choice label and rereleased by Candid on CD in 2001.[1][2][3]

@@ -1,1 +1,0 @@
-Yellowjacket_capsule_2.jpg Yellowjacket_bark.jpg

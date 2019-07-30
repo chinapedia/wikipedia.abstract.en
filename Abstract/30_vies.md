@@ -1,1 +1,0 @@
-_30 VIES_ is a French-language Canadian television series directed by Fabienne Larouche, produced by Aetios Productions and broadcast between 10 January 2011 and 14 April 2016 on ICI Radio-Canada Télé, with 4 episodes per week.[1] This serial is unpublished in the other francophone countries.

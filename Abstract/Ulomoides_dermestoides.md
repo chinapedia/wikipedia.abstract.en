@@ -1,1 +1,0 @@
-_ULOMOIDES DERMESTOIDES_ is a species of beetle in the family Tenebrionidae, known under a variety of common names, such as CHINESE BEETLE, CHINESE WEEVIL, PEANUT BEETLE, CANCER BEETLE, or ASTHMA BEETLE. While native to Asia, it has been spread worldwide due to the belief that it has medicinal properties.

@@ -1,1 +1,0 @@
-Streetscene_Macau.jpg

@@ -1,1 +1,0 @@
-RAHMI SALTUK (born in 1945 in Tunceli) is a Turkish Kurdish singer. After having made his name singing in Turkish, his 1989 album _Hoy Nare_ was the first Kurdish album to obtain the approval of the Turkish Ministry of Culture, although the approval was reversed a few weeks later and not lifted till 1992.[1][2]

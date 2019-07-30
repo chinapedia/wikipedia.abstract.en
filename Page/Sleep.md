@@ -1,5 +1,3 @@
-Sleeping-girl.jpg
-
 SLEEP is a naturally recurring state of mind and body, characterized by altered consciousness, relatively inhibited sensory activity, reduced muscle activity and inhibition of nearly all voluntary muscles during rapid eye movement (REM) sleep,[1] and reduced interactions with surroundings.[2] It is distinguished from wakefulness by a decreased ability to react to stimuli, but more reactive than coma or disorders of consciousness, sleep displaying very different and active brain patterns.
 
 Sleep occurs in repeating periods, in which the body alternates between two distinct modes: REM sleep and non-REM sleep. Although REM stands for "rapid eye movement", this mode of sleep has many other aspects, including virtual paralysis of the body. A well-known feature of sleep is the dream, an experience typically recounted in narrative form, which resembles waking life while in progress, but which usually can later be distinguished as fantasy.
@@ -13,7 +11,7 @@ Humans may suffer from various sleep disorders, including dyssomnias such as ins
 
 Physiology
 
-REM-søvn.jpg The most pronounced physiological changes in sleep occur in the brain.[7] The brain uses significantly less energy during sleep than it does when awake, especially during non-REM sleep. In areas with reduced activity, the brain restores its supply of adenosine triphosphate (ATP), the molecule used for short-term storage and transport of energy.[8] In quiet waking, the brain is responsible for 20% of the body's energy use, thus this reduction has a noticeable effect on overall energy consumption.[9]
+The most pronounced physiological changes in sleep occur in the brain.[7] The brain uses significantly less energy during sleep than it does when awake, especially during non-REM sleep. In areas with reduced activity, the brain restores its supply of adenosine triphosphate (ATP), the molecule used for short-term storage and transport of energy.[8] In quiet waking, the brain is responsible for 20% of the body's energy use, thus this reduction has a noticeable effect on overall energy consumption.[9]
 
 Sleep increases the sensory threshold. In other words, sleeping persons perceive fewer stimuli, but can generally still respond to loud noises and other salient sensory events.[10][11]
 
@@ -29,7 +27,7 @@ The sleep cycle of alternate NREM and REM sleep takes an average of 90 minutes, 
 
 Awakening
 
-1900_The_Awakening.jpg ]] Awakening can mean the end of sleep, or simply a moment to survey the environment and readjust body position before falling back asleep. Sleepers typically awaken soon after the end of a REM phase or sometimes in the middle of REM. Internal circadian indicators, along with successful reduction of homeostatic sleep need, typically bring about awakening and the end of the sleep cycle.[24] Awakening involves heightened electrical activation in the brain, beginning with the thalamus and spreading throughout the cortex.[25]
+]] Awakening can mean the end of sleep, or simply a moment to survey the environment and readjust body position before falling back asleep. Sleepers typically awaken soon after the end of a REM phase or sometimes in the middle of REM. Internal circadian indicators, along with successful reduction of homeostatic sleep need, typically bring about awakening and the end of the sleep cycle.[24] Awakening involves heightened electrical activation in the brain, beginning with the thalamus and spreading throughout the cortex.[25]
 
 During a night's sleep, a small amount of time is usually spent in a waking state. As measured by electroencephalography, young females are awake for 0–1% of the larger sleeping period; young males are awake for 0–2%. In adults, wakefulness increases, especially in later cycles. One study found 3% awake time in the first ninety-minute sleep cycle, 8% in the second, 10% in the third, 12% in the fourth, and 13–14% in the fifth. Most of this awake time occurred shortly after REM sleep.[26]
 
@@ -80,7 +78,7 @@ Different characteristic sleep patterns, such as the familiarly so-called "early
 
 Naps
 
-Hombre_echando_una_siesta_en_San_Cristóbal,_Cusco,_Perú,_2015-07-31,_DD_49.JPG The siesta habit has recently been associated with a 37% lower coronary mortality, possibly due to reduced cardiovascular stress mediated by daytime sleep.[69] Short naps at mid-day and mild evening exercise were found to be effective for improved sleep, cognitive tasks, and mental health in elderly people.[70]
+The siesta habit has recently been associated with a 37% lower coronary mortality, possibly due to reduced cardiovascular stress mediated by daytime sleep.[69] Short naps at mid-day and mild evening exercise were found to be effective for improved sleep, cognitive tasks, and mental health in elderly people.[70]
 
 Many people experience a temporary drop in alertness in the early afternoon, commonly known as the "post-lunch dip". While a large meal can make a person feel sleepy, the post-lunch dip is mostly an effect of the circadian clock. People naturally feel most sleepy at two times of the day about 12 hours apart—for example, at 2:00 a.m. and 2:00 p.m. At those two times, the body clock is activated. At about 2 p.m. (14:00), it overrides the homeostatic buildup of sleep debt, allowing several more hours of wakefulness. At about 2 a.m. (02:00), with the daily sleep debt paid off, it is activated again to ensure a few more hours of sleep.
 
@@ -97,7 +95,7 @@ Homeostatic sleep propensity (the need for sleep as a function of the amount of 
 
 Ideal duration
 
-Effects_of_sleep_deprivation.svg,[83] indicating impairment of normal maintenance by sleep.]]
+,[83] indicating impairment of normal maintenance by sleep.]]
 
 Human sleep needs vary by age and amongst individuals; sleep is considered to be adequate when there is no daytime sleepiness or dysfunction. Moreover, self-reported sleep duration is only moderately correlated with actual sleep time as measured by actigraphy,[84] and those affected with sleep state misperception may typically report having slept only four hours despite having slept a full eight hours.[85]
 
@@ -107,7 +105,7 @@ Sleep difficulties are furthermore associated with psychiatric disorders such as
 
 Children
 
-WLA_metmuseum_Bronze_statue_of_Eros_sleeping_7.jpg sleeping, 3rd century BC–early 1st century AD]]
+sleeping, 3rd century BC–early 1st century AD]]
 
 By the time infants reach the age of two, their brain size has reached 90 percent of an adult-sized brain;[95] a majority of this brain growth has occurred during the period of life with the highest rate of sleep. The hours that children spend asleep influence their ability to perform on cognitive tasks.[96][97] Children who sleep through the night and have few night waking episodes have higher cognitive attainments and easier temperaments than other children.[98][99][100]
 
@@ -115,7 +113,7 @@ Sleep also influences language development. To test this, researchers taught inf
 
 Recommendations
 
-"Plenty_of_sleep_keeps_him_on_the_job"_-_NARA_-_514792.jpg Children need many hours of sleep per day in order to develop and function properly: up to 18 hours for newborn babies, with a declining rate as a child ages.[103] Early in 2015, after a two-year study,[104] the National Sleep Foundation in the US announced newly revised recommendations as shown in the table below.
+Children need many hours of sleep per day in order to develop and function properly: up to 18 hours for newborn babies, with a declining rate as a child ages.[103] Early in 2015, after a two-year study,[104] the National Sleep Foundation in the US announced newly revised recommendations as shown in the table below.
 
   Age and condition                      Sleep Needs
   -------------------------------------- ---------------------------
@@ -154,8 +152,6 @@ Reactivation of memory also occurs during wakefulness and its function is associ
 Furthermore, nocturnal reactivation seems to share the same neural oscillatory patterns as reactivation during wakefulness, processes which might be coordinated by theta activity.[148] During wakefulness, theta oscillations have been often related to successful performance in memory tasks, and cued memory reactivations during sleep have been showing that theta activity is significantly stronger in subsequent recognition of cued stimuli as compared to uncued ones, possibly indicating a strengthening of memory traces and lexical integration by cuing during sleep.[149] However, the beneficial effect of TMR for memory consolidation seems to occur only if the cued memories can be related to prior knowledge.[150]
 
 Dreaming
-
-Glimpse_of_a_dream_(9391068364).jpg
 
 During sleep, especially REM sleep, people tend to have dreams: elusive first-person experiences which seem realistic while in progress, despite their frequently bizarre qualities. Dreams can seamlessly incorporate elements within a person's mind that would not normally go together. They can include apparent sensations of all types, especially vision and movement.[151]
 
@@ -204,7 +200,7 @@ In culture
 
 Anthropology
 
-Pieter_Bruegel_d._Ä._037.jpg'' by Pieter Bruegel the Elder, 1567.]]
+'' by Pieter Bruegel the Elder, 1567.]]
 
 Research suggests that sleep patterns vary significantly across cultures.[176][177] The most striking differences are observed between societies that have plentiful sources of artificial light and ones that do not.[178] The primary difference appears to be that pre-light cultures have more broken-up sleep patterns.[179] For example, people without artificial light might go to sleep far sooner after the sun sets, but then wake up several times throughout the night, punctuating their sleep with periods of wakefulness, perhaps lasting several hours.[180]
 
@@ -220,7 +216,7 @@ People sleep in a variety of locations. Some sleep directly on the ground; other
 
 In mythology and literature
 
-Seven_sleepers_(Menologion_of_Basil_II).jpg from the _Menologion of Basil II_ (985 AD), showing the Seven Sleepers of Ephesus sleeping in their cave]] Sleep has been seen in culture as similar to death since antiquity;[193] in Greek mythology, Hypnos (the god of sleep) and Thanatos (the god of death) were both said to be the children of Nyx (the goddess of night).[194] John Donne, Samuel Taylor Coleridge, Percy Bysshe Shelley, and other poets have all written poems about the relationship between sleep and death.[195] Shelley describes them as "both so passing, strange and wonderful!"[196] Many people consider dying in one's sleep the most peaceful way to die.[197] Phrases such as "big sleep" and "rest in peace" are often used in reference to death,[198] possibly in effort to lessen its finality.[199] Sleep has sometimes been seen as a visionary experience.[200] In medieval Irish tradition, in order to become a filí, a poet was required to undergo a ritual called the _imbas forosnai_, in which he would enter a mantic, trance-like sleep.[201]
+from the _Menologion of Basil II_ (985 AD), showing the Seven Sleepers of Ephesus sleeping in their cave]] Sleep has been seen in culture as similar to death since antiquity;[193] in Greek mythology, Hypnos (the god of sleep) and Thanatos (the god of death) were both said to be the children of Nyx (the goddess of night).[194] John Donne, Samuel Taylor Coleridge, Percy Bysshe Shelley, and other poets have all written poems about the relationship between sleep and death.[195] Shelley describes them as "both so passing, strange and wonderful!"[196] Many people consider dying in one's sleep the most peaceful way to die.[197] Phrases such as "big sleep" and "rest in peace" are often used in reference to death,[198] possibly in effort to lessen its finality.[199] Sleep has sometimes been seen as a visionary experience.[200] In medieval Irish tradition, in order to become a filí, a poet was required to undergo a ritual called the _imbas forosnai_, in which he would enter a mantic, trance-like sleep.[201]
 
 Many cultural stories have been told about people falling asleep for extended periods of time.[202][203] The earliest of these stories is the ancient Greek legend of Epimenides of Knossos.[204][205][206][207] According to the biographer Diogenes Laërtius, Epimenides was a shepherd on the Greek island of Crete.[208][209] One day, one of his sheep went missing and he went out to look for it, but became tired and fell asleep in a cave under Mount Ida.[210][211] When he awoke, he continued searching for the sheep, but could not find it,[212][213] so he returned to his old farm, only to discover that it was now under new ownership.[214][215] He went to his hometown, but discovered that nobody there knew him.[216] Finally, he met his younger brother, who was now an old man,[217][218] and learned that he had been asleep in the cave for fifty-seven years.[219][220]
 
@@ -429,7 +425,7 @@ Sleep Category:Psychological states Category:Unsolved problems in neuroscience
 
 [75]
 
-[76]  CC-BY_icon.svg This content is available under the Creative Commons Attribution License 4.0.
+[76]  This content is available under the Creative Commons Attribution License 4.0.
 
 [77]
 

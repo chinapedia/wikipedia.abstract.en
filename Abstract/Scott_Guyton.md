@@ -1,1 +1,0 @@
-SCOTT GUYTON (born 11 June 1976) is a New Zealand cyclist. He competed at the 1996 Summer Olympics in Atlanta, in the men's individual road race, and at the 2000 Summer Olympics in Sydney, in the men's individual road race.[1]

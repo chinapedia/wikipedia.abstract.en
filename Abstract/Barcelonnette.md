@@ -1,1 +1,0 @@
-BARCELONNETTE (; ) is a commune of France and a subprefecture in the department of Alpes-de-Haute-Provence, in the Provence-Alpes-Côte d'Azur region. It is located in the southern French Alps, at the crossroads between Provence, Piedmont and the Dauphiné, and is the largest town in the Ubaye Valley. The town's inhabitants are known as _Barcelonnettes_.

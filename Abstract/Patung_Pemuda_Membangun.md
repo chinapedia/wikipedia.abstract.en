@@ -1,1 +1,0 @@
-PATUNG PEMUDA MEMBANGUN (translated as YOUTH ADVANCEMENT MONUMENT or simply YOUTH MONUMENT) is a statue located at the southern end of Jalan Jenderal Sudirman, Jakarta, Indonesia. The statue marks the entrance to Kebayoran Baru subdistrict in South Jakarta.

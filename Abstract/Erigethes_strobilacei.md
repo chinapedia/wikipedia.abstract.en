@@ -1,1 +1,0 @@
-_ERIGETHES STROBILACEI_ is a moth of the Scythrididae family, and the only species in the genus _ERIGETHES_. It was described by Baron Walsingham in 1907. It is found in Algeria, Morocco and Tunisia.[1]

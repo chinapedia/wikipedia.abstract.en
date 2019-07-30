@@ -1,1 +1,0 @@
-Balocchi_e_profumi_E._A._Mario.jpg "BALOCCHI E PROFUMI" is a 1928 Italian song composed by E.A. Mario. Originally launched by Gennaro Pasquariello, it was popularized by Anna Fougez, as to become a classic in the repertoire of Italian café-chantant artists.[1]

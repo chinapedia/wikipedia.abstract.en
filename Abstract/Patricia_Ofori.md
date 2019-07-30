@@ -1,1 +1,0 @@
-'''Patricia Ofori ''' (9 June 1981 – 20 April 2011 in Huntsville) was a Ghanaian women's international footballer who played as a defender. She was a member of the Ghana women's national football team from 2003 to 2007. She was part of the team at the 2003 FIFA Women's World Cup and 2007 FIFA Women's World Cup. On club level she played for the Alabama A&M.[1]

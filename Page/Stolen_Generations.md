@@ -1,4 +1,4 @@
-QVB135lg.jpg, Sydney, by artist Chris Cooke.]] The STOLEN GENERATIONS (also known as STOLEN CHILDREN) were the children of Australian Aboriginal and Torres Strait Islander descent who were removed from their families by the Australian Federal and State government agencies and church missions, under acts of their respective parliaments. The removals of those referred to as "half-caste" children were conducted in the period between approximately 1905[1] and 1967,[2][3] although in some places mixed-race children were still being taken into the 1970s.[4][5][6]
+, Sydney, by artist Chris Cooke.]] The STOLEN GENERATIONS (also known as STOLEN CHILDREN) were the children of Australian Aboriginal and Torres Strait Islander descent who were removed from their families by the Australian Federal and State government agencies and church missions, under acts of their respective parliaments. The removals of those referred to as "half-caste" children were conducted in the period between approximately 1905[1] and 1967,[2][3] although in some places mixed-race children were still being taken into the 1970s.[4][5][6]
 
 Official government estimates are that in certain regions between one in ten and one in three indigenous Australian children were forcibly taken from their families and communities between 1910 and 1970.
 
@@ -99,7 +99,7 @@ According to the archaeologist and writer Josephine Flood, "The well-meaning but
 
 Australian federal parliament apology
 
-RuddSorry.jpg on screen in Federation Square, Melbourne, apologising to the stolen generations.]] Apology_to_Australia's_Indigenous_Peoples.jpg
+on screen in Federation Square, Melbourne, apologising to the stolen generations.]]
 
 One of the recommendations of the 1997 Bringing Them Home report was for Australian parliaments to offer an official apology. A decade later, on 13 February 2008, Prime Minister Kevin Rudd presented an apology to Indigenous Australians as a motion to be voted on by the house. The apology text was as follows:[54][55]
 

@@ -1,1 +1,0 @@
-Electric_feed_rocket_cycle.svg

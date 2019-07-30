@@ -1,1 +1,0 @@
-44 FRONT STREET in Burlington, Vermont is a well-preserved vernacular Queen Anne Revival house. Built about 1860 and significantly altered in 1892, it is representative of two periods of the city's growth in the 19th century. It was listed on the National Register of Historic Places in 2008.[1]

@@ -20,7 +20,7 @@ History
 
 The Melayu Kingdom was absorbed by Srivijaya.[11]
 
-Batak_Warriors_60011135_edit.jpg warriors, 1870]]
+warriors, 1870]]
 
 Srivijayan influence waned in the 11th century after it was defeated by the Chola Empire of southern India. At the same time, Islam made its way to Sumatra through Arabs and Indian traders in the 6th and 7th centuries AD.[12] By the late 13th century, the monarch of the Samudra kingdom had converted to Islam. Marco Polo visited the island in 1292.
 
@@ -30,8 +30,6 @@ The Free Aceh Movement fought against Indonesian government forces in the Aceh I
 
 
 Administration
-
-House_in_Nias_North_Sumatra.jpg
 
 +-------------------------------+------------+-------------+-------------+---------------+----------------+
 | Name                          | Area (km²) | Population  | Population  | Population    | Capital        |
@@ -68,15 +66,13 @@ House_in_Nias_North_Sumatra.jpg
 
 Geography
 
-Sumatra_Volcanoes.png
-
 The longest axis of the island runs approximately northwest–southeast, crossing the equator near the centre. At its widest point, the island spans . The interior of the island is dominated by two geographical regions: the Barisan Mountains in the west and swampy plains in the east. Sumatra is the closest Indonesian island to mainland Asia.
 
 To the southeast is Java, separated by the Sunda Strait. To the north is the Malay Peninsula (located on the Asian mainland), separated by the Strait of Malacca. To the east is Borneo, across the Karimata Strait. West of the island is the Indian Ocean.
 
 The Great Sumatran fault (a strike-slip fault), and the Sunda megathrust (a subduction zone), run the entire length of the island along its west coast. On 26 December 2004, the western coast and islands of Sumatra, particularly Aceh province, were struck by a tsunami following the Indian Ocean earthquake. This was the longest earthquake recorded, lasting between 500 and 600 seconds.[16] More than 170,000 Indonesians were killed, primarily in Aceh. Other recent earthquakes to strike Sumatra include the 2005 Nias–Simeulue earthquake and the 2010 Mentawai earthquake and tsunami.
 
-Sinabung.jpg, North Sumatra]]
+, North Sumatra]]
 
 To the east, big rivers carry silt from the mountains, forming the vast lowland interspersed by swamps. Even if mostly unsuitable for farming, the area is currently of great economic importance for Indonesia. It produces oil from both above and below the soil – palm oil and petroleum.
 
@@ -85,7 +81,7 @@ Sumatra is the largest producer of Indonesian coffee. Small-holders grow Arabica
 
 Largest cities
 
-Medanskyline2013.jpg, the largest city in Sumatra]] By population, Medan is the largest city in Sumatra.[18] Medan is also the most visited and developed cities in Sumatra.
+, the largest city in Sumatra]] By population, Medan is the largest city in Sumatra.[18] Medan is also the most visited and developed cities in Sumatra.
 
 +------+------------------+---------------+-------------+------------------+------------+
 | Rank | City             | Province      | Population  | City Birthday    | Area (km²) |
@@ -121,7 +117,7 @@ Medanskyline2013.jpg, the largest city in Sumatra]] By population, Medan is the 
 
 Flora and fauna
 
-Sumatran_tiger.jpg]] Rafflesia_sumatra.jpg'']]
+]] '']]
 
 Sumatra supports a wide range of vegetation types which are home to a rich variety of species, including 17 endemic genera of plants.[19] Unique species include the Sumatran pine which dominates the Sumatran tropical pine forests of the higher mountainsides in the north of the island and rainforest plants such as _Rafflesia arnoldii_ (the world's largest individual flower), and the titan arum (the world's largest unbranched inflorescence).
 
@@ -134,8 +130,6 @@ The island includes more than 10 national parks, including 3 which are listed as
 
 Demographics
 
-Minangprocession.jpg
-
 Sumatra is not particularly densely populated, with just over 90.4 people per km² – more than 50 million people in total. Because of its great extent, it is nonetheless the fifth[24] most populous island in the world.
 
 Languages
@@ -144,7 +138,7 @@ There are over 52 languages spoken, all of them (except Chinese and Tamil) belon
 
 Religion
 
-Meuseujid_Raya.JPG in Banda Aceh]] The majority of people in Sumatra are Muslims (87,1%), while 10,7% are Christians, less than 2% are Buddhist and Hindus.[27]
+in Banda Aceh]] The majority of people in Sumatra are Muslims (87,1%), while 10,7% are Christians, less than 2% are Buddhist and Hindus.[27]
 
 
 Rail transport

@@ -1,1 +1,0 @@
-CHARLES E. "CHARLIE" FLOWERS (born February 28, 1939) is an American former politician. He served in the South Dakota House of Representatives from 2001 to 2002 and in the Senate from 1989 to 2000.[1][2]

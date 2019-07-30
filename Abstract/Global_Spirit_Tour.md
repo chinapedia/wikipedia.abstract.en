@@ -1,1 +1,0 @@
-The GLOBAL SPIRIT TOUR[1] was a worldwide concert tour by English electronic music band Depeche Mode in support of the group's 14th studio album, _Spirit_. During the summer 2017, the band played to more than 3 million fans in total.

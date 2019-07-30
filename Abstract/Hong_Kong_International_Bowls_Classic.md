@@ -1,1 +1,0 @@
-The HONG KONG INTERNATIONAL BOWLS CLASSIC is an international lawn bowls competition. It is one of the most prestigious events on the lawn bowls calendar. It started out as a pairs competition for men in 1981, with a singles event added for men in 1983 and later singles and pairs competition for women added to the programme in 2008.

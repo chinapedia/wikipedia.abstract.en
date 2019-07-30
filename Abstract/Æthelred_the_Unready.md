@@ -1,1 +1,0 @@
-ÆTHELRED II (Old English: _Æþelræd_, ;[1]  966 – 23 April 1016), known as THE UNREADY, was King of the English from 978 to 1013 and again from 1014 until his death. His epithet does not derive from the modern word "unready", but rather from the Old English _unræd_ meaning "poorly advised"; it is a pun on his name, which means "well advised".

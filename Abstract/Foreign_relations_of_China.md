@@ -1,1 +1,0 @@
-Diplomatic_relations_of_the_People's_Republic_of_China.svg

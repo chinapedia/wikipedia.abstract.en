@@ -1,1 +1,0 @@
-MTV BASE: SA'S HOTTEST MCS is an annual segment that airs on MTV Base on the first two days of December. The segment consists of a panel of judges who are usually South African hip hop performers or personalities associated with the South African Hip Hop Genre.

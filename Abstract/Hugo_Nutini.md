@@ -1,1 +1,0 @@
-HUGO G. NUTINI (1928–2013) was an Italian-born Chilean and subsequently American professor of anthropology.[1] In 1965 he became involved in Project Camelot, an academic research project funded by the United States military through the Special Operations Research Office to train in counter-insurgency techniques.[2]

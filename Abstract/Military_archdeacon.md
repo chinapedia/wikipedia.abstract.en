@@ -1,1 +1,0 @@
-The most senior Anglican chaplain in each branch of the British Armed Forces (Royal Navy, British Army, and Royal Air Force) is made an archdeacon in the Church of England. Respectively they are titled the ARCHDEACON FOR THE ROYAL NAVY, the ARCHDEACON FOR THE ARMY, and the ARCHDEACON FOR THE ROYAL AIR FORCE. As an archdeacon, he/she is styled _The Venerable_.[1]

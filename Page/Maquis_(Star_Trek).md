@@ -72,7 +72,7 @@ Other _Voyager_ and _Deep Space Nine_ shows contribute to the Maquis story
 
 Characters
 
-Michelle_Forbes_2009a_Comic-Con.jpg Various members of the Maquis are characters in _TNG_, _DS9_, and _Voyager_, although membership is sometimes transitory and as revealed by the Maquis saga, for example some are revealed as Federation agents. The reveal of a character's identity is common plot device throughout the storyline. Many episodes play on these questions
+Various members of the Maquis are characters in _TNG_, _DS9_, and _Voyager_, although membership is sometimes transitory and as revealed by the Maquis saga, for example some are revealed as Federation agents. The reveal of a character's identity is common plot device throughout the storyline. Many episodes play on these questions
 
 Examples:
 

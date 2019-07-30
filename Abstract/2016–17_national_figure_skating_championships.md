@@ -1,1 +1,0 @@
-NATIONAL FIGURE SKATING CHAMPIONSHIPS of the 2016–17 season are taking place mostly between November 2016 and February 2017. Medals may be awarded in the disciplines of men's singles, ladies' singles, pair skating, and ice dancing.

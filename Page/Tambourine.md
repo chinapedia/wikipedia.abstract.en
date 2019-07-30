@@ -42,13 +42,13 @@ Similar instruments
 
 Buben
 
-Ukr_folk_05.jpg BUBEN (Бубен in Russian, Бубон in Ukrainian, _boben_ in Slovenian, _buben_ in Czech, _bęben_ in Polish) is a musical instrument of the percussion family similar to a tambourine. A buben consists of a wooden or metal hoop with a tight membrane stretched over one of its sides (some bubens have no membrane at all). Certain kinds of bubens are equipped with clanking metal rings, plates, cymbals, or little bells. It is held in the hand and can be played in numerous ways, from stroking or shaking the jingles to striking it sharply with hand. It is used for rhythmical accompaniment during dances, soloist or choral singing. Buben is often used by some folk and professional bands, as well as orchestras.
+BUBEN (Бубен in Russian, Бубон in Ukrainian, _boben_ in Slovenian, _buben_ in Czech, _bęben_ in Polish) is a musical instrument of the percussion family similar to a tambourine. A buben consists of a wooden or metal hoop with a tight membrane stretched over one of its sides (some bubens have no membrane at all). Certain kinds of bubens are equipped with clanking metal rings, plates, cymbals, or little bells. It is held in the hand and can be played in numerous ways, from stroking or shaking the jingles to striking it sharply with hand. It is used for rhythmical accompaniment during dances, soloist or choral singing. Buben is often used by some folk and professional bands, as well as orchestras.
 
 The name is related to Greek language βόμβος (low and hollow sound) and βομβύλη (a breed of bees) and related to Indo-Aryan _bambharas_ (bee) and English _bee_. Buben is known to have existed in many countries since time immemorial, especially in the East. There are many kinds of bubens, including _def_, _daf_, or _qaval_ (Azerbaijan), _daf_ or _khaval_ (Armenia), _daira_ (Georgia), _doira_ (Uzbekistan and Tajikistan), _daire_ or _def_ (Iran), _bendeir_ (Arab countries), _pandero_ (Spain). In Kievan Rus, drums and military timpani were referred to as _buben_.
 
 Daf
 
-Daf-isfahan.jpg palace, Isfahan, 17th century, Iran.]] A DAF is a large-sized tambourine used to accompany both popular and classical music in Iran, Azerbaijan, Turkey (where it is called _tef_), Uzbekistan (where it's called _childirma_), India (where it is known as the _Dafli_) and Turkmenistan. Daf typically indicates the beat and tempo of the music being played, thus acts like the conductor in the monophonic oriental music. The Persian poet Rudaki, who widely used names of the musical instruments in his poems, mentions the daf and the tambourine (taboorak) in a Ruba'i: A common use of tambourine (Daf) is by Albanians. They are often played by women and bridesmaids in wedding cases to lead the ceremony when bride walks down the aisle.
+palace, Isfahan, 17th century, Iran.]] A DAF is a large-sized tambourine used to accompany both popular and classical music in Iran, Azerbaijan, Turkey (where it is called _tef_), Uzbekistan (where it's called _childirma_), India (where it is known as the _Dafli_) and Turkmenistan. Daf typically indicates the beat and tempo of the music being played, thus acts like the conductor in the monophonic oriental music. The Persian poet Rudaki, who widely used names of the musical instruments in his poems, mentions the daf and the tambourine (taboorak) in a Ruba'i: A common use of tambourine (Daf) is by Albanians. They are often played by women and bridesmaids in wedding cases to lead the ceremony when bride walks down the aisle.
 
 Pandeiro
 
@@ -60,15 +60,15 @@ The Basque pandero is a folk instrument currently played along with the trikitix
 
 Riq
 
-riqq.jpg The RIQ (also spelled RIQQ or RIK) is a type of tambourine used as a traditional instrument in Arabic music. It is an important instrument in both folk and classical music throughout the Arabic-speaking world. Widely known as "Shakers".
+The RIQ (also spelled RIQQ or RIK) is a type of tambourine used as a traditional instrument in Arabic music. It is an important instrument in both folk and classical music throughout the Arabic-speaking world. Widely known as "Shakers".
 
 Dayereh
 
-Dayra_player.jpeg A DAYEREH (or DOYRA, DOJRA, DAJRE, DOIRA, DAIRE) is a medium-sized frame drum with jingles used to accompany both popular and classical music in Iran (Persia), the Balkans, and many central Asian countries such as Tajikistan and Uzbekistan. It is a percussion instrument, and is something intermediate between a drum and a tambourine.
+A DAYEREH (or DOYRA, DOJRA, DAJRE, DOIRA, DAIRE) is a medium-sized frame drum with jingles used to accompany both popular and classical music in Iran (Persia), the Balkans, and many central Asian countries such as Tajikistan and Uzbekistan. It is a percussion instrument, and is something intermediate between a drum and a tambourine.
 
 Kanjira
 
-Kanjira.jpg The KANJIRA or GANJIRA is a South Indian frame drum of the tambourine family. It is mostly used in Carnatic music concerts (South Indian classical music) as a supporting instrument for the _mridangam_.
+The KANJIRA or GANJIRA is a South Indian frame drum of the tambourine family. It is mostly used in Carnatic music concerts (South Indian classical music) as a supporting instrument for the _mridangam_.
 
 Tar
 
@@ -84,7 +84,7 @@ A RABANA (plural _Raban_) is a one-sided traditional tambourine played with the 
 
 Rebana
 
-COLLECTIE_TROPENMUSEUM_Lijsttrom_TMnr_1772-445.jpg, South Sumatra, with its typical red, black, and gold color.]] REBANA is a Malay tambourine that is used in Islamic devotional music in Southeast Asia, particularly in Indonesia, Malaysia, Brunei, and Singapore.
+, South Sumatra, with its typical red, black, and gold color.]] REBANA is a Malay tambourine that is used in Islamic devotional music in Southeast Asia, particularly in Indonesia, Malaysia, Brunei, and Singapore.
 
 
 See also

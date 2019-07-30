@@ -1,1 +1,0 @@
-ZIPPOS MR GOOD BAR (1984-2016) is a registered American Quarter Horse with the American Quarter Horse Association (AQHA). He is an American Quarter Horse Hall of Fame inductee for 2019. He is known for his show career and as a top sire. He was 32 years of age in 2016 when he died.

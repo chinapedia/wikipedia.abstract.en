@@ -1,1 +1,0 @@
-The INDUS VALLEY STATE RAILWAY was a railway founded in 1871 to provide a rail link between Kotri and Multan and to replace the Indus Steam Flotilla.[1][2] The opening of the line thus connected Karachi with Lahore.

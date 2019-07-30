@@ -1,1 +1,0 @@
-THE GRACE THRILLERS is a Jamaican gospel group. The group was founded in 1971 by Noel Willis. Although the members have changed over the years, the group remains one of the most internationally recognized Jamaican gospel groups and has performed in many countries including the United States, United Kingdom, and Canada.

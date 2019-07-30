@@ -1,1 +1,0 @@
-DANIEL GÓMEZ ÍÑIGUEZ is a Mexican entrepreneur distinguished for his appearance in business magazines like Forbes and INC before the age of 21. He was recognized as the most innovative entrepreneur of the TR35 of 2013. He co-founded the biodiesel company Bioenergy Solutions (SOLBEN), a for-profit business that produces 80% of the biodiesel produced in Mexico.[1]

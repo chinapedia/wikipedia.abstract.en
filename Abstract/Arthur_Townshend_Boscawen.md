@@ -1,1 +1,0 @@
-Reverend Canon ARTHUR TOWNSHEND BOSCAWEN (9 July 1862 – 17 July 1939) was from 1893 the Rector of Ludgvan, Cornwall, UK, and a recreational and commercial horticulturist who introduced the _Anemone_ as a commercial crop to Cornwall.

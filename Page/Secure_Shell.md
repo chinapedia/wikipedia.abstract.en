@@ -73,7 +73,7 @@ In 1999, developers, wanting a free software version to be available, went back 
 
 Uses
 
-X11_ssh_tunnelling.png application over SSH: the user 'josh' has SSHed from the local machine 'foofighter' to the remote machine 'tengwar' to run xeyes.]] OpenWrtPuTTY.png via SSH using PuTTY running on Windows.]] SSH is a protocol that can be used for many applications across many platforms including most Unix variants (Linux, the BSDs including Apple's macOS, and Solaris), as well as Microsoft Windows. Some of the applications below may require features that are only available or compatible with specific SSH clients or servers. For example, using the SSH protocol to implement a VPN is possible, but presently only with the OpenSSH server and client implementation.
+application over SSH: the user 'josh' has SSHed from the local machine 'foofighter' to the remote machine 'tengwar' to run xeyes.]] via SSH using PuTTY running on Windows.]] SSH is a protocol that can be used for many applications across many platforms including most Unix variants (Linux, the BSDs including Apple's macOS, and Solaris), as well as Microsoft Windows. Some of the applications below may require features that are only available or compatible with specific SSH clients or servers. For example, using the SSH protocol to implement a VPN is possible, but presently only with the OpenSSH server and client implementation.
 
 -   For login to a shell on a remote host (replacing Telnet and rlogin)
 -   For executing a single command on a remote host (replacing rsh)
@@ -100,8 +100,6 @@ The Secure Shell protocols are used in several file transfer mechanisms.
 
 
 Architecture
-
-Ssh_binary_packet_alt.svg
 
 The SSH-2 protocol has an internal architecture (defined in RFC 4251) with well-separated layers, namely:
 

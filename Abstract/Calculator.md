@@ -1,1 +1,0 @@
-Casio_calculator_JS-20WK_in_201901_002.jpg (LCD) seven-segment display that can perform arithmetic operations]] Casio-fx115ES-5564.jpg LCD]] An ELECTRONIC CALCULATOR is typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics.

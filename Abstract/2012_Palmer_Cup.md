@@ -1,1 +1,0 @@
-The 2012 PALMER CUP was held on 28–30 June 2012 at the Royal County Down Golf Club in Newcastle, County Down, Northern Ireland. Europe won 13½–10½.[1] The United States led 10–6 at the start of the final day but Europe won 7 of the 8 singles matches and halved the other to win the match.

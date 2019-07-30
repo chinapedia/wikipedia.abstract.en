@@ -1,1 +1,0 @@
-BOBI LADAWA MOBUTU (born 2 September 1945[1]) is the former second wife of Mobutu Sese Seko, who ruled Zaire (now the Democratic Republic of the Congo) as president and dictator between 1965 and 1997.

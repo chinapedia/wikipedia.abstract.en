@@ -1,1 +1,0 @@
-ASIOLA is an online crowdfunding platform built to support creative and community-driven ideas in Thailand.[1] It was launched in 2015 in Bangkok by a group of founders comprising technology experts, music industry experts and artists in response to Thailand's burgeoning startup scene. Their aim was to provide a way for fledgling ideas to gather attention and get funded.[2]

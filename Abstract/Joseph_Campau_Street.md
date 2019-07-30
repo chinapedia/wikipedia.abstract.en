@@ -1,1 +1,0 @@
-JOSEPH CAMPAU STREET, also known as JOSEPH CAMPAU AVENUE is a city street in Hamtramck and Detroit in the southeastern part of the U.S. state of Michigan. Jos. Campau Historic District is located along the street in Hamtramck. Along Joseph Campau Street and the Detroit River are River Place and The Roberts Riverwalk Hotel and Residence Detroit .

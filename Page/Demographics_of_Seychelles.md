@@ -11,7 +11,7 @@ About 91.9% of the adult population is literate, and the literacy rate of school
 
 Vital statistics
 
-Seychelles_demography.png, year 2005 ; Number of inhabitants in thousands.]]
+, year 2005 ; Number of inhabitants in thousands.]]
 
          Population (in thousands)[1][2]   Live births   Deaths   Natural change   Crude birth rate (per 1000)   Crude death rate (per 1000)   Natural change (per 1000)   TFR
   ------ --------------------------------- ------------- -------- ---------------- ----------------------------- ----------------------------- --------------------------- ------
@@ -139,8 +139,6 @@ Population
     81 534 July 2005 est.)
 
 Age structure
-
-Seychellespop.svg
 
     _0-14 years:_ 19.52% (male 9,482 /female 8,989)
     _15-24 years:_ 12.96% (male 6,461 /female 5,806)

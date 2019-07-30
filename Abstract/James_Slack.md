@@ -1,1 +1,0 @@
-JAMES SLACK is the Downing Street Press Secretary and a former British journalist.[1] Previously Home Affairs editor of the _Daily Mail_, he was appointed political editor of the newspaper in October 2015 in succession to James Chapman, who had been appointed as spokesman for George Osborne, then Chancellor of the Exchequer.[2]

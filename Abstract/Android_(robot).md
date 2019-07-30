@@ -1,1 +1,0 @@
-Android}} An ANDROID is a robot[1] or other artificial being[2][3][4] designed to resemble a human, and often made from a flesh-like material.[5] Historically, androids were completely within the domain of science fiction and frequently seen in film and television, but recent advances in robot technology now allow the design of functional and realistic humanoid robots.[6]

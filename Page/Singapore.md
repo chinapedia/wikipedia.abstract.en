@@ -52,13 +52,13 @@ The Nagarakretagama, a Javanese epic poem written in 1365, referred to a settlem
 
 British colonisation
 
-Part_of_Singapore_Island_(British_Library_India_Office_Records,_1825,_detail).jpg trade was at Singapore River for 150 years. Fort Canning hill (centre) was home to its ancient and early colonial rulers.]]
+trade was at Singapore River for 150 years. Fort Canning hill (centre) was home to its ancient and early colonial rulers.]]
 
 The British governor Stamford Raffles arrived in Singapore on 28 January 1819 and soon recognised the island as a natural choice for the new port. The island was then nominally ruled by Tengku Abdul Rahman, the Sultan of Johor, who was controlled by the Dutch and the Bugis. However, the Sultanate was weakened by factional division; the Temenggong (or Chief Minister) Tengku Abdu'r Rahman and his officials were loyal to Tengku Rahman's elder brother Tengku Long who was living in exile in Riau. With the Temenggong's help, Raffles managed to smuggle Tengku Long back into Singapore. He offered to recognise Tengku Long as the rightful Sultan of Johor, given the title of Sultan Hussein and provide him with a yearly payment of $5000 and $3000 to the Temenggong; in return, Sultan Hussein would grant the British the right to establish a trading post on Singapore.[56] A formal treaty was signed on 6 February 1819 and modern Singapore was born.[57][58]
 
 In 1824, the entire island as well as the Temenggong became a British possession after a further treaty with the Sultan.[59] In 1826, Singapore became part of the Straits Settlements, under the jurisdiction of British India, becoming the regional capital in 1836.[60] Prior to Raffles' arrival, there were only about a thousand people living on the island, mostly indigenous Malays along with a handful of Chinese.[61] By 1860 the population had swelled to over 80,000, more than half being Chinese.[62] Many of these early immigrants came to work on the pepper and gambier plantations.[63] Later, in the 1890s, when the rubber industry also became established in Malaya and Singapore,[64] the island became a global centre for rubber sorting and export.[65]
 
-Stamford_Raffles_statue.jpg's statue at the Singapore River spot where he first landed]]
+'s statue at the Singapore River spot where he first landed]]
 
 Singapore was not much affected by First World War (1914–18) since the conflict did not spread to Southeast Asia. The only significant event during the war was a mutiny by the Muslim sepoys from British India who were garrisoned in Singapore, which occurred in 1915. After hearing rumours that they were to be sent off to fight the Ottoman Empire, which was a Muslim state, the soldiers rebelled. They killed their officers and several British civilians before the mutiny was suppressed by non-Muslim troops arriving from Johore and Burma. After the First World War, the British built the large Singapore Naval Base as part of the defensive Singapore strategy. Originally announced in 1923, the construction of the base proceeded slowly until the Japanese invasion of Manchuria in 1931. When completed in 1939, at the very large cost of $500 million, it boasted what was then the largest dry dock in the world, the third-largest floating dock, and having enough fuel tanks to support the entire British navy for six months. It was defended by heavy 15-inch naval guns stationed at Fort Siloso, Fort Canning and Labrador, as well as a Royal Air Force airfield at Tengah Air Base. Winston Churchill touted it as the "Gibraltar of the East" and military discussions often referred to the base as simply "East of Suez". Unfortunately, it was a base without a fleet. The British Home Fleet was stationed in Europe, and the British could not afford to build a second fleet to protect its interests in Asia. The plan was for the Home Fleet to sail quickly to Singapore in the event of an emergency. However, after World War II broke out in 1939, the fleet was fully occupied with defending Britain.[66]
 
@@ -70,13 +70,11 @@ British forces had planned to liberate Singapore in 1945; however, the war ended
 
 Post-war period
 
-Evacuation_of_British_POWs,_Kallang_Airport,_Singapore_-_19450908.jpg. Kallang Airport's control tower near the city has been conserved.]]
+. Kallang Airport's control tower near the city has been conserved.]]
 
 After the Japanese surrender to the Allies on 15 August 1945, Singapore fell into a brief state of violence and disorder; looting and revenge-killing were widespread. British troops led by Lord Louis Mountbatten, Supreme Allied Commander for Southeast Asia Command, returned to Singapore to receive formal surrender of the Japanese forces in the region from General Itagaki Seishiro on behalf of General Hisaichi Terauchi on 12 September 1945, and a British Military Administration was formed to govern the island until March 1946. Much of the infrastructure had been destroyed during the war, including harbour facilities at the Port of Singapore. There was also a shortage of food leading to malnutrition, disease, and rampant crime and violence. High food prices, unemployment, and workers' discontent culminated into a series of strikes in 1947 causing massive stoppages in public transport and other services. By late 1947, the economy began to recover, facilitated by a growing demand for tin and rubber around the world, but it would take several more years before the economy returned to pre-war levels.[72]
 
 The failure of Britain to successfully defend Singapore had destroyed its credibility as an infallible ruler in the eyes of Singaporeans. The decades after the war saw a political awakening amongst the local populace and the rise of anti-colonial and nationalist sentiments, epitomised by the slogan _Merdeka_, or "independence" in the Malay language. The British, on their part, were prepared to gradually increase self-governance for Singapore and Malaya.[73] On 1 April 1946, the Straits Settlements was dissolved and Singapore became a separate Crown Colony with a civil administration headed by a Governor. In July 1947, separate Executive and Legislative Councils were established and the election of six members of the Legislative Council was scheduled in the following year.[74]
-
-SingaporeRiver-bumboats-196009.jpg
 
 During the 1950s, Chinese communists with strong ties to the trade unions and Chinese schools waged a guerrilla war against the government, leading to the Malayan Emergency. The 1954 National Service riots, Hock Lee bus riots, and Chinese middle schools riots in Singapore were all linked to these events.[75] David Marshall, pro-independence leader of the Labour Front, won Singapore's first general election in 1955. He led a delegation to London, but Britain rejected his demand for complete self-rule. He resigned and was replaced by Lim Yew Hock in 1956, whose policies convinced Britain to grant Singapore full internal self-government for all matters except defence and foreign affairs.[76]
 
@@ -84,11 +82,11 @@ During the May 1959 elections, the People's Action Party (PAP) won a landslide v
 
 Merger with Malaysia
 
-Lee_Kuan_Yew.jpg, the first Prime Minister, is also recognised as Singapore's founding father.]]
+, the first Prime Minister, is also recognised as Singapore's founding father.]]
 
 Despite their successes in governing Singapore, the PAP leaders believed that Singapore's future lay with Malaya due to strong ties between the two nations. It was thought that the merger would benefit the economy by creating a common market which will support new industries, solving the ongoing unemployment woes in Singapore. However, a sizeable pro-communist wing of the PAP was strongly opposed to the merger, fearing a loss of influence, and hence formed the Barisan Sosialis, splitting from the PAP.[79][80] This was because the ruling party of Malaya, United Malays National Organisation (UMNO), was staunchly anti-communist and would support the non-communist faction of PAP against them. UMNO, who was initially sceptical of the idea of a merger as they distrust the PAP government and were concerned that the large Chinese population in Singapore would alter the racial balance on which their political power base depended, changed their minds about the merger after being afraid of being taken over by pro-communists. On 27 May 1961, Malaya's Prime Minister, Tunku Abdul Rahman, made a surprise proposal of a Federation of Malaysia, comprising existing Federation of Malaya, Singapore, Brunei and the British Borneo territories of North Borneo and Sarawak.[81] The UMNO leaders believed that the additional Malay population in the Borneo territories would offset Singapore's Chinese population.[82] The British government, for its part, believed that the merger would prevent Singapore from becoming a haven for communism.[83] To secure the mandate of the people, the PAP called for the 1962 Merger Referendum, which provided different terms for merger with Malaysia, but no options for avoiding it. As a result, on 16 September 1963, Singapore joined with the Federation of Malaya, the Crown Colony of Sarawak and the Crown Colony of North Borneo to form the new federation of Malaysia under the terms of the Malaysia Agreement, with Singapore being granted a high level of autonomy compared to other states in Malaysia.[84]
 
-A_Night_Perspective_on_the_Singapore_Merlion_(8347645113).jpg was erected in 1964]]
+was erected in 1964]]
 
 Indonesia, however, opposed the formation of Malaysia over its own claims of Borneo and launched _konfrontasi_ (Confrontation in Indonesian).[85] On 10 March 1965, a bomb planted by Indonesian saboteurs on a mezzanine floor of MacDonald House exploded, killing three people and injuring 33 others. It was the deadliest of at least 42 bomb incidents which occurred during the confrontation.[86] Two members of the Indonesian Marine Corps, Osman bin Haji Mohamed Ali and Harun bin Said, were eventually convicted and executed for the crime.[87] The explosion caused $250,000 in damage to MacDonald House.[88][89]
 
@@ -96,7 +94,7 @@ Even after the merger, the Singapore state government and the Malaysian central 
 
 Republic of Singapore
 
-Singapore_flags_and_banners_in_Istana_Park_-_20080817.jpg ]]
+]]
 
 Singapore gained independence as the Republic of Singapore (remaining within the Commonwealth of Nations) on 9 August 1965 with Lee Kuan Yew and Yusof bin Ishak as the first prime minister and president respectively. Race riots broke out once more in 1969.[96] In 1967, the country co-founded the Association of Southeast Asian Nations (ASEAN).[97] Lee Kuan Yew's emphasis on rapid economic growth, support for business entrepreneurship, and limitations on internal democracy shaped Singapore's policies for the next half-century and the country progressed to a First World country.[98][99] Further economic success continued through the 1980s, with the unemployment rate falling to 3% and real GDP growth averaging at about 8% up until 1999. During the 1980s, Singapore began to upgrade to higher-technological industries, such as the wafer fabrication sector, in order to compete with its neighbours which now had cheaper labour. Singapore Changi Airport was opened in 1981 and Singapore Airlines was formed.[100] The Port of Singapore became one of the world's busiest ports and the service and tourism industries also grew immensely during this period. Singapore emerged as an important transportation and logistics hub and a major tourist destination.[101][102]
 
@@ -109,11 +107,11 @@ In 2004, Lee Hsien Loong, the eldest son of Lee Kuan Yew, became the country's t
 
 Government and politics
 
-Istana_(Singapore).jpg is the official residence and office of the President, as well as the working office of the Prime Minister.]]
+is the official residence and office of the President, as well as the working office of the Prime Minister.]]
 
 Singapore is a parliamentary republic with a Westminster system of unicameral parliamentary government representing constituencies. The country's constitution establishes a representative democracy as the political system.[115] Executive power rests with the Cabinet of Singapore, led by the Prime Minister and, to a much lesser extent, the President.[116] The President is elected through a popular vote, and has veto powers over a specific set of executive decisions, such as the use of the national reserves and the appointment of judges, but otherwise occupies a largely ceremonial post.[117] In 2016, constitutional amendments provide for 'reserved presidential elections' for an ethnic community in Singapore if no one from that community has been President for any of the five most recent terms of office of the President. In 2017, Halimah Yacob was unanimously named the first female president of Singapore in the first reserved election for the Malay community, since all other candidates were declared ineligible for the election.[118]
 
-Supreme_Court_of_Singapore_at_night_(HDR)_-_20071115.jpg buildings. The Court of Appeal occupies the 'disc' atop, representing the highest level of justice and a modern interpretation of the dome.]]
+buildings. The Court of Appeal occupies the 'disc' atop, representing the highest level of justice and a modern interpretation of the dome.]]
 
 The Parliament serves as the legislative branch of the government.[119] Members of Parliament (MPs) consist of elected, non-constituency and nominated members. Elected MPs are voted into the Parliament on a "first-past-the-post" (plurality) basis and represent either single-member or group representation constituencies.[120] The People's Action Party has won control of Parliament with large majorities in every election since self-governance was secured in 1959.[121] Multiracialism, a key reason for its separation from Malaysia, is enshrined in its constitution since independence, and continues to shape major national policies in education, housing, politics and others.[122]
 
@@ -121,7 +119,7 @@ Freedom House ranks Singapore as "partly free" in its _Freedom in the World_ rep
 
 The legal system of Singapore is based on English common law, but with substantial local differences. Trial by jury was abolished in 1970 so that judicial decisions would rest entirely in the hands of appointed judges.[127] Singapore has penalties that include judicial corporal punishment in the form of caning, which may be imposed for such offences as rape, rioting, vandalism, and certain immigration offences.[128][129] There is Capital punishment in Singapore for murder, as well as for certain aggravated drug-trafficking and firearms offences.[130]
 
-Speakers_Corner_1.jpg in Chinatown provides a public demonstration and "free speech" area usually restricted in other parts of the island.]]
+in Chinatown provides a public demonstration and "free speech" area usually restricted in other parts of the island.]]
 
 Amnesty International has said that some legal provisions of the Singapore system conflict with the right to be presumed innocent until proven guilty".[131] The government has disputed Amnesty's claims, stating that their "position on abolition of the death penalty is by no means uncontested internationally" and that the Report contains "grave errors of facts and misrepresentations".[132] Singapore's judicial system is considered one of the most reliable in Asia.[133]
 
@@ -131,7 +129,7 @@ In 2019, the World Justice Project's Rule of Law Index ranked Singapore as 13th 
 
 Foreign relations
 
-Lee_Kuan_Yew_Cohen.jpg Lee Kuan Yew and Ambassador to the US Chan Heng Chee meeting with US Secretary of Defense William Cohen during a visit in 2000.]]
+Lee Kuan Yew and Ambassador to the US Chan Heng Chee meeting with US Secretary of Defense William Cohen during a visit in 2000.]]
 
 Singapore's foreign policy is aimed at maintaining security in Southeast Asia and surrounding territories. An underlying principle is political and economic stability in the region.[139] It has diplomatic relations with more than 180 sovereign states.[140] The Singaporean passport is second in the world after Japan for visa-free travel granted by the most countries to its citizens.[141]
 
@@ -139,7 +137,7 @@ As Singapore has diplomatic relations with both United States and North Korea, a
 
 As one of the five founding members of ASEAN,[145] it is a strong supporter of the ASEAN Free Trade Area (AFTA) and the ASEAN Investment Area, because Singapore's economy is closely linked to that of the region as a whole. Former Prime Minister Goh Chok Tong proposed the formation of an ASEAN Economic Community, a step beyond the current AFTA, bringing it closer to a common market. This was agreed to in 2007 for implementation by 2015. Other regional organisations are important to Singapore, and it is the host of the APEC Secretariat.[146] Singapore maintains membership in other regional organisations, such as Asia–Europe Meeting, the Forum for East Asia-Latin American Cooperation, the Indian Ocean Rim Association, and the East Asia Summit.[147] It is also a member of the Non-Aligned Movement[148] and the Commonwealth.[149] While Singapore is not a formal member of the G20, it has been invited to participate in G20 processes in most years since 2010.[150]
 
-Trump_and_Lee_shaking_hands.jpg of the United States a day before the historic 2018 North Korea–United States summit held in Singapore.]]
+of the United States a day before the historic 2018 North Korea–United States summit held in Singapore.]]
 
 In general, bilateral relations with other ASEAN members are strong; however, disagreements have arisen,[151] and relations with neighbouring Malaysia and Indonesia have sometimes been strained.[152] Malaysia and Singapore have clashed over the delivery of fresh water to Singapore,[153] and access by the Singapore Armed Forces to Malaysian airspace.[154] Border issues exist with Malaysia and Indonesia, and both have banned the sale of marine sand to Singapore over disputes about Singapore's land reclamation.[155] Some previous disputes, such as the Pedra Branca dispute, have been resolved by the International Court of Justice.[156] Piracy in the Strait of Malacca has been a cause of concern for all three countries.[157] Close economic ties exist with Brunei, and the two share a pegged currency value, through a Currency Interchangeability Agreement between the two countries which makes both Brunei dollar and Singapore dollar banknotes and coins legal tender in either country.[158][159]
 
@@ -149,13 +147,13 @@ The first diplomatic contact with China was made in the 1970s, with full diploma
 
 Military
 
-Boeing_F-15SG_Strike_Eagle,_Singapore_-_Air_Force_JP7096555.jpg's F-15SG are _Strike Eagle_ variants (40 units). Pilots also train in Australia, France and the United States due to severe airspace constraints.]]
+'s F-15SG are _Strike Eagle_ variants (40 units). Pilots also train in Australia, France and the United States due to severe airspace constraints.]]
 
 The Singaporean military is arguably the most technologically advanced in Southeast Asia.[167] It comprises the Singapore Army, Republic of Singapore Navy, and Republic of Singapore Air Force. It is seen as the guarantor of the country's independence.[168] This principle translates into the culture, involving all citizens in the country's defence.[169] The government spends 4.9% of the country's GDP on the military—high by regional standards[170]—and one out of every four dollars of government spending is spent on defence.[171]
 
 After its independence, Singapore had two infantry regiments commanded by British officers. This force was considered too small to provide effective security for the new country, so the development of its military forces became a priority.[172] Britain pulled its military out of Singapore in October 1971, leaving behind only a small British, Australian and New Zealand force as a token military presence. The last British soldier left Singapore in March 1976. New Zealand troops were the last to leave, in 1989.[173]
 
-US_Navy_100716-N-0995C-155_The_Singapore_navy_guided-missile_frigate_RSS_Steadfast_(FFG_70)_and_the_corvette_RSS_Vigilance_(90)_are_underway_during_Cooperation_Afloat_Readiness_and_Training_(CARAT)_Singapore_2010.jpg and RSS _Vigilance_ sailing line-abreast during CARAT Singapore 2010.]]
+and RSS _Vigilance_ sailing line-abreast during CARAT Singapore 2010.]]
 
 A great deal of initial support came from Israel,[174] a country that is not recognised by the neighbouring Muslim-majority nations of Malaysia, Indonesia, or Brunei.[175][176][177] The main fear after independence was an invasion by Malaysia. Israeli Defense Force (IDF) commanders were tasked with creating the Singapore Armed Forces (SAF) from scratch, and Israeli instructors were brought in to train Singaporean soldiers. Military courses were conducted according to the IDF's format, and Singapore adopted a system of conscription and reserve service based on the Israeli model.[178] Singapore still maintains strong security ties with Israel and is one of the biggest buyers of Israeli arms and weapons systems.[179] The MATADOR anti-tank weapon is one example of recent Singaporean–Israeli collaboration.[180]
 
@@ -166,8 +164,6 @@ upright=.8 building within the SAFTI Military Institute]]
 Singapore has conscription for all able-bodied males at age 18, except those with a criminal record or who can prove that their loss would bring hardship to their families. Males who have yet to complete pre-university education or are awarded the Public Service Commission scholarship can opt to defer their draft.[183] Though not required to perform military service, the number of women in the SAF has been increasing: since 1989 they have been allowed to fill military vocations formerly reserved for men. Before induction into a specific branch of the armed forces, recruits undergo at least 9 weeks of basic military training.[184]
 
 Because of the scarcity of open land on the main island, training involving activities such as live firing and amphibious warfare is often carried out on smaller islands, typically barred to civilian access. This also avoids risk to the main island and the city. However, large-scale drills are considered too dangerous to be performed in the area, and since 1975 have been performed in Taiwan.[185] Training is also held in about a dozen other countries. In general, military exercises are held with foreign forces once or twice per week.[186]
-
-Flag_lowering_by_Singapore_troops,_Kiwi_Base,_Bamyan_Province,_Afghanistan_-_20101027.jpg
 
 Due to airspace and land constraints, the Republic of Singapore Air Force (RSAF) maintains a number of overseas bases in Australia, the United States, and France. The RSAF's 130 Squadron is based in RAAF Base Pearce, Western Australia,[187] and its 126 Squadron is based in the Oakey Army Aviation Centre, Queensland.[188] The RSAF has one squadron—the 150 Squadron—based in Cazaux Air Base in southern France.[189][190] The RSAF also has a few overseas detachments in the United States, in San Diego, California, Marana, Arizona, Grand Prairie, Texas and Luke Air Force Base, among others.[191][192]
 
@@ -182,15 +178,13 @@ Singapore law dating from 1938 (Penal Code, s. 377A) bans sexual relations betwe
 
 Geography
 
-CIA_World_Factbook_map_of_Singapore_(English).png
-
 Singapore consists of 63 islands, including the main island, Pulau Ujong.[200] There are two-man-made connections to Johor, Malaysia: the Woodlands 1st Link in the north and the Tuas 2nd Link in the west. Jurong Island, Pulau Tekong, Pulau Ubin and Sentosa are the largest of Singapore's smaller islands. The highest natural point is Bukit Timah Hill at .[201] Under British rule, Christmas Island and the Cocos Islands were part of Singapore, but were later transferred over to Australia in 1957.[202][203][204] Pedra Branca, an outlying island which now belongs to Singapore after the dispute, is the nation's easternmost point.
 
 Ongoing land reclamation projects have increased Singapore's land area from in the 1960s to in 2018, an increase of some 23% (130 km²).[205] The country is projected to grow to by 2030.[206] Some projects involve merging smaller islands through land reclamation to form larger, more functional islands, as has been done with Jurong Island.[207] The type of sand used in reclamation is found in rivers and beaches, rather than deserts, and is in great demand worldwide. In 2010 Singapore imported almost 15 million tons of sand for its projects, the demand being such that Indonesia, Malaysia, and Vietnam have all restricted or barred the export of sand to Singapore in recent years. As a result, in 2016 Singapore switched to using polders – a Netherlands solution – to reclamation, in which an area is enclosed and then pumped dry.[208]
 
 Nature
 
-Singapore_Botanic_Gardens_Palm_Valley.jpg – one of three gardens in the world, and the only tropical garden to be recognised.]]
+– one of three gardens in the world, and the only tropical garden to be recognised.]]
 
 Singapore's urbanisation means that it has lost 95% of its historical forests,[209] and now over half of the naturally occurring fauna and flora in Singapore is present in nature reserves, such as the Bukit Timah Nature Reserve and the Sungei Buloh Wetland Reserve, which comprise only 0.25% of Singapore's land area.[210] To combat this decline, in 1967 the government introduced the vision of making Singapore a "garden city"[211] aiming to soften the harshness of urbanisation and improve the quality of life.[212] Since then, nearly 10% of Singapore's land has been set aside for parks and nature reserves.[213] The government also has plans to preserve the remaining wildlife.[214]
 
@@ -235,11 +229,11 @@ Exchange Rate
 
 The currency of Singapore is the Singapore dollar (SGD or S$), issued by the Monetary Authority of Singapore (MAS).[250] It is interchangeable with the Brunei dollar at par value since 1967, owing to their historically close relations.[251] MAS manages its monetary policy by allowing the Singapore dollar exchange rate to rise or fall within an undisclosed trading band. This is different from most central banks, which use interest rates to manage policy.[252]
 
-Singapore_Airlines,_Airbus_A380-800_9V-SKI_'50th_anniversary_of_Singapore'_NRT_(20786371995).jpg celebrated the nation's 2015 Golden Jubilee with a flag livery on its Airbus A380 ]]
+celebrated the nation's 2015 Golden Jubilee with a flag livery on its Airbus A380 ]]
 
 In recent years, the country has been identified as an increasingly popular tax haven for the wealthy due to the low tax rate on personal income and tax exemptions on foreign-based income and capital gains. Australian millionaire retailer Brett Blundy and multi-billionaire Facebook co-founder Eduardo Saverin are two examples of wealthy individuals who have settled in Singapore (Blundy in 2013 and Saverin in 2012).[253] In 2009, Singapore was removed from the OCDE "liste grise" of tax havens,[254] but ranked fourth on the Tax Justice Network's 2015 Financial Secrecy Index of the world's off-shore financial service providers, banking one-eighth of the world's off-shore capital, while "providing numerous tax avoidance and evasion opportunities".[255] In August 2016, _The Straits Times_ reported that Indonesia had decided to create tax havens on two islands near Singapore to bring Indonesian capital back into the tax base.[256] In October 2016, the Monetary Authority of Singapore admonished and fined UBS and DBS and withdrew Falcon Private Bank's banking licence for their alleged role in the Malaysian Sovereign Fund scandal.[257][258]
 
-View_of_MBS_from_the_gardens_(8026531707).jpg is an integrated resort opened in 2010; one of the world's most photographed buildings.]]
+is an integrated resort opened in 2010; one of the world's most photographed buildings.]]
 
 Singapore has the world's highest percentage of millionaires, with one out of every six households having at least one million US dollars in disposable wealth. This excludes property, businesses, and luxury goods, which if included would increase the number of millionaires, especially as property in Singapore is among the world's most expensive.[259] Singapore does not have a minimum wage, believing that it would lower its competitiveness. It also has one of the highest income inequalities among developed countries.[260][261]
 
@@ -255,8 +249,6 @@ Industry sectors
 
 Globally, Singapore is a leader in several economic sectors, including being 3rd-largest foreign exchange centre, 3rd-leading financial centre,[276][277] 2nd-largest casino gambling market,[278] 3rd-largest oil-refining and trading centre, world's largest oil-rig producer and major hub for ship repair services,[279][280][281] world's top logistics hub.[282]
 
-2014_Singapore_Products_Export_Treemap.png
-
 The economy is diversified, with its top contributors—financial services, manufacturing, oil-refining. Its main exports are refined petroleum, integrated circuits and computers[283] which constituted 27% of the country's GDP in 2010, and includes significant electronics, petroleum refining, chemicals, mechanical engineering and biomedical sciences sectors. In 2006, Singapore produced about 10% of the world's foundry wafer output.[284]
 
 Singapore's largest companies are in the telecoms, banking, transportation and manufacturing sectors, many of which started as state-run enterprises, and has since been listed on the Singapore Exchange, including Singapore Telecommunications (Singtel), Singapore Technologies Engineering, Keppel Corporation, Oversea-Chinese Banking Corporation (OCBC), Development Bank of Singapore (DBS), United Overseas Bank (UOB). In 2011, amidst the global financial crisis, OCBC, DBS and UOB were ranked as the world's 1st, 5th, 6th "strongest banks in the world" respectively by Bloomberg surveys.[285]
@@ -265,7 +257,7 @@ The nation's best known global brands include Singapore Airlines, Changi Airport
 
 Tourism
 
-JewelSingaporeVortex1.jpg features the world's largest indoor waterfall, named the Rain Vortex]]
+features the world's largest indoor waterfall, named the Rain Vortex]]
 
 Tourism forms a large part of the economy, with over 17 million tourists visiting the city-state in 2017.[289] To expand the sector, casinos were legalised in 2005, but only two licences for "Integrated Resorts" were issued, to control money laundering and addiction.[290] Singapore also promotes itself as a medical tourism hub, with about 200,000 foreigners seeking medical care there each year. Singapore medical services aim to serve at least one million foreign patients annually and generate US$3 billion in revenue.[291] In 2015, Lonely Planet and The New York Times listed Singapore as their top and 6th best world destination to visit respectively.[292]
 
@@ -276,7 +268,7 @@ Infrastructure
 
 Information and communications
 
-Singapore_Former-Hill-Street-Police-Station-02.jpg oversees the development of Infocomm, Media and the arts.]] Information and communications technologies (ICT) is one of the pillars of Singapore's economic success. However, Singapore's mass communications networks, including television and phone networks, have long been operated by the government. When Singapore first came online, Singaporeans could use Teleview to communicate with one another, but not with those outside of their sovereign city-state. Publications such as _The Wall Street Journal_ were censored.[296] The 'Intelligent Island' is a term used to describe Singapore in the 1990s, in reference to the island nation's early adaptive relationship with the internet.[297][298]
+oversees the development of Infocomm, Media and the arts.]] Information and communications technologies (ICT) is one of the pillars of Singapore's economic success. However, Singapore's mass communications networks, including television and phone networks, have long been operated by the government. When Singapore first came online, Singaporeans could use Teleview to communicate with one another, but not with those outside of their sovereign city-state. Publications such as _The Wall Street Journal_ were censored.[296] The 'Intelligent Island' is a term used to describe Singapore in the 1990s, in reference to the island nation's early adaptive relationship with the internet.[297][298]
 
 The World Economic Forum's 2015 Global Technology Report placed Singapore as the most "Tech-Ready Nation". It is the most comprehensive survey of the pervasiveness and network-readiness of a country, in terms of market, political and regulatory infrastructure for connectivity. Singapore has also topped Waseda University's International e-Government rankings from 2009 to 2013, and 2015.[299] Singapore has the world's highest smartphone penetration rates, in surveys by Deloitte[300][301] and Google Consumer Barometer – at 89% and 85% of the population respectively in 2014.[302] Overall mobile phone penetration rate is at 148 mobile phone subscribers per 100 people.[303]
 
@@ -284,13 +276,13 @@ Internet in Singapore is provided by state owned Singtel, partially state owned 
 
 Transport
 
-Singapore_Changi_Airport,_Control_Tower_2,_Dec_05.JPG continues to expand with the Jewel mixed-use complex and a 5th Terminal by 2030.]]
+continues to expand with the Jewel mixed-use complex and a 5th Terminal by 2030.]]
 
 As Singapore is a small island with a high population density, the number of private cars on the road is restricted to curb pollution and congestion. Car buyers must pay for duties one-and-a-half times the vehicle's market value, and bid for a Singaporean Certificate of Entitlement (COE), which allows the car to run on the road for a decade. The cost of the Singaporean certificate of entitlement alone would buy a Porsche Boxster in the United States. Car prices are generally significantly higher in Singapore than in other English-speaking countries.[307] As with most Commonwealth countries, vehicles on the road and people walking on the streets keep to the left.[308]
 
 Singapore has a road system covering , which includes of expressways.[309][310] The Singapore Area Licensing Scheme, implemented in 1975, became the world's first congestion pricing scheme, and included other complementary measures such as stringent car ownership quotas and improvements in mass transit.[311][312] Upgraded in 1998 and renamed Electronic Road Pricing, the system introduced electronic toll collection, electronic detection, and video surveillance technology.[313]
 
-ERP_in_Singapore.jpg scheme started in the city centre in 1975. Fully automated by Electronic Road Pricing in 1998. A Global Navigation Satellite System will replace physical gantries by 2020[314]]]
+scheme started in the city centre in 1975. Fully automated by Electronic Road Pricing in 1998. A Global Navigation Satellite System will replace physical gantries by 2020[314]]]
 
 Singaporean residents also travel by e-scooters,[315] bicycles, bus, taxis and train (MRT or LRT). Two companies run the train transport system—SBS Transit and SMRT Corporation. Four companies, Go-Ahead, Tower-Transit, SBS Transit and SMRT Corporation run the public buses under a 'Bus Contracting Model' where operators bid for routes. There are six taxi companies, who together put out over 28,000 taxis on the road.[316] Taxis are a popular form of public transport as the fares are relatively cheap compared to many other developed countries.[317]
 
@@ -315,7 +307,7 @@ As of mid-2018, the estimated population of Singapore was 5,638,700 people, 3,47
 
 The same census also reports that about 74.1% of residents were of Chinese descent, 13.4% of Malay descent, 9.2% of Indian descent, and 3.3% of other (including Eurasian) descent.[332] Prior to 2010, each person could register as a member of only one race, by default that of his or her father, therefore mixed-race persons were solely grouped under their father's race in government censuses. From 2010 onward, people may register using a multi-racial classification, in which they may choose one primary race and one secondary race, but no more than two.[333]
 
-Singapore_The_Pinnacle@Duxton_01.jpg near Chinatown has become a tourist attraction with gardens and views from its 50th storey skybridges - the world's longest at 500m.]]
+near Chinatown has become a tourist attraction with gardens and views from its 50th storey skybridges - the world's longest at 500m.]]
 
 90.3% of resident households (i.e. households headed by a Singapore citizen or permanent resident) own the homes they live in, and the average household size is 3.43 persons (which include dependants who are neither citizens nor permanent residents).[334] However, due to scarcity of land, 80.4% of resident households live in subsidised, high-rise, public housing apartments known as "HDB flats" because of the government board (Housing and Development Board) responsible for public housing in the country. Also, 75.9% of resident households live in properties that are equal to, or larger than, a four-room (i.e. three bedrooms plus one living room) HDB flat or in private housing.[335][336] Live-in foreign domestic workers are quite common in Singapore, with about 224,500 foreign domestic workers there, as of December 2013.[337]
 
@@ -337,13 +329,9 @@ Singapore has four official languages: English, Malay, Mandarin Chinese, and Tam
 
 The Constitution of Singapore and all laws are written in English,[350] and interpreters are required if one wishes to address the Singaporean Courts in a language other than English.[351] English is the native tongue for only one-third of all Singaporeans, with roughly a quarter of all Singaporean Malays, a third of all Singaporean Chinese, and half of all Singaporean Indians speaking it as their native tongue. Twenty percent of Singaporeans cannot read or write in English.[352][353]
 
-Teochew_Building,_Mar_06.JPG
-
 Singaporeans are mostly bilingual, with English as their common language and usually the mother-tongue as a second language taught in schools, in order to preserve each individual's ethnic identity and values. The official languages amongst Singaporeans are English (80% literacy), Mandarin (65% literacy), Malay (17% literacy), and Tamil (4% literacy).[354][355] Singapore English is based on British English,[356] and forms of English spoken in Singapore range from Standard Singapore English to a colloquial form known as "Singlish". Singlish is discouraged by the government.[357]
 
 English is the language spoken by most Singaporeans at home, 36.9% of the population, just ahead of Mandarin.[358][359] Nearly half a million speak other varieties of Chinese, mainly Hokkien, Teochew, and Cantonese, as their home language, although the use of these is declining in favour of Mandarin and English.[360] Singapore Chinese characters are written using simplified Chinese characters.[361]
-
-Protected_place_sign,_Fort_Canning_Park,_Singapore_-_20081203.jpg
 
 Malay was chosen as a national language by the Singaporean government after independence from Britain in the 1960s to avoid friction with Singapore's Malay-speaking neighbours Malaysia and Indonesia.[362] It has a symbolic, rather than functional purpose.[363][364][365] It is used in the national anthem "Majulah Singapura",[366] in citations of Singaporean orders and decorations, and in military commands. In general, Malay is spoken mainly within the Singaporean Malay community, with only 17% of all Singaporeans literate in it[367] and only 12% using it as their native language.[368] While Singaporean Malay is officially written in the Latin-based Rumi script, some Singaporean Malays still learn the Arabic-based Jawi script as children alongside Rumi,[369] and Jawi is considered an ethnic script for use on Singaporean Identity Cards.[370]
 
@@ -352,7 +340,7 @@ Around 100,000 Singaporeans, or 3% of the population, speak Tamil as their nativ
 
 Education
 
-Singapore_Management_University_17,_Aug_06.JPG is one of six autonomous universities in the city-state]]
+is one of six autonomous universities in the city-state]]
 
 The education system in Singapore has been noted to be one of the best in the world. Singapore students excelled in most of the world education benchmarks in maths, science and reading. In 2015, both its primary and secondary students rank first in OECD's global school performance rankings across 76 countries—described as the most comprehensive map of education standards.[373][374] In 2016, Singapore students topped both the Program International Student Assessment (PISA)[375][376][377][378] and the Trends in International Mathematics and Science Study (TIMSS).[379][380][381]
 
@@ -360,7 +348,7 @@ In the 2015 International Baccalaureate exams taken in 107 countries, Singapore 
 
 Education for primary, secondary, and tertiary levels is mostly supported by the state. All institutions, private and public, must be registered with the Ministry of Education.[389] English is the language of instruction in all public schools,[390] and all subjects are taught and examined in English except for the "mother tongue" language paper.[391] While the term "mother tongue" in general refers to the first language internationally, in Singapore's education system, it is used to refer to the second language, as English is the first language.[392][393] Students who have been abroad for a while, or who struggle with their "Mother Tongue" language, are allowed to take a simpler syllabus or drop the subject.[394][395]
 
-Hwa_Chong_Institution.jpg was the first Chinese institution of learning in Southeast Asia in 1919.]]
+was the first Chinese institution of learning in Southeast Asia in 1919.]]
 
 Education takes place in three stages: primary, secondary, and pre-university education. Only the primary level is compulsory. Students begin with six years of primary school, which is made up of a four-year foundation course and a two-year orientation stage. The curriculum is focused on the development of English, the mother tongue, mathematics, and science.[396][397] Secondary school lasts from four to five years, and is divided between Special, Express, Normal (Academic), and Normal (Technical) streams in each school, depending on a student's ability level.[398] The basic coursework breakdown is the same as in the primary level, although classes are much more specialised.[399] Pre-university education takes place over two to three years at senior schools, mostly called Junior Colleges.[400] As alternatives to Pre-U education, however, courses are offered in other post-secondary education institutions, including 5 polytechnics and the institutes of technical education (ITEs). Singapore has six public universities[401] of which the National University of Singapore and Nanyang Technological University are among the top 20 universities in the world.[402]
 
@@ -369,7 +357,7 @@ National examinations are standardised across all schools, with a test taken aft
 
 Healthcare
 
-KRW_Facade2_final.jpg is the second largest hospital in the city, serving one million patients yearly.]]
+is the second largest hospital in the city, serving one million patients yearly.]]
 
 Singapore has a generally efficient healthcare system, even though health expenditures are relatively low for developed countries.[407] The World Health Organisation ranks Singapore's healthcare system as 6th overall in the world in its World Health Report.[408] In general, Singapore has had the lowest infant mortality rate in the world for the past two decades.[409] Life expectancy in Singapore is 80 for males and 85 for females, placing the country 4th in the world for life expectancy, as almost the whole population has access to improved water and sanitation facilities.
 
@@ -380,7 +368,7 @@ The government's healthcare system is based upon the "3M" framework. This has th
 
 Culture
 
-Chinese_New_Year_market.jpg during Chinese New Year holidays. In Chinese culture, red is the most auspicious colour representing good fortune and happiness.]]
+during Chinese New Year holidays. In Chinese culture, red is the most auspicious colour representing good fortune and happiness.]]
 
 Despite its small size, Singapore has a diversity of languages, religions, and cultures.[416] Former Prime Ministers of Singapore, Lee Kuan Yew and Goh Chok Tong, have stated that Singapore does not fit the traditional description of a nation, calling it a society-in-transition, pointing out the fact that Singaporeans do not all speak the same language, share the same religion, or have the same customs.[417][418] Even though English is the first language of the nation, according to the 2010 census, 20% of Singaporeans are illiterate in English. This is however an improvement from 1990, when 40% of Singaporeans were illiterate in English.[419][420]
 
@@ -388,7 +376,7 @@ upright=0.7 From 1819, it served as a trading port for British ships on their wa
 
 When Singapore became independent from the United Kingdom in 1963, most Singaporean citizens were uneducated labourers from Malaysia, China and India. Many were transient labourers, seeking to make some money in Singapore, with no intention of staying permanently.[422] There was also a sizeable minority of middle-class, locally born people—known as Peranakans or Baba-Nyonya—descendants of 15th- and 16th-century Chinese immigrants. With the exception of the Peranakans who pledged their loyalties to Singapore, most of the labourers' loyalties lay with their respective homelands of Malaysia, China and India. After independence, the government began a deliberate process of crafting a Singaporean identity and culture.[423]
 
-Aerial_view_of_Kampong_Glam,_Singapore_-_20121027.jpg and the Malay Heritage Centre.]]
+and the Malay Heritage Centre.]]
 
 Each Singaporean's behaviours and attitudes are influenced by, among other things, his or her home language and his religion. Singaporeans who speak English as their native language tend to lean toward Western culture, while those who speak Chinese as their native language tend to lean toward Chinese culture and Confucianism. Malay-speaking Singaporeans tend to lean toward Malay culture, which itself is closely linked to Islamic culture.[424][425]
 
@@ -400,13 +388,13 @@ Singapore has a reputation as a nanny state.[430][431] The government also place
 
 Arts
 
-National_Gallery_2_(31322988764).jpg oversees the world's largest public collection of Singapore and Southeast Asian art]]
+oversees the world's largest public collection of Singapore and Southeast Asian art]]
 
 Since the 1990s when the National Arts Council was created to spearhead the development of performing arts, visual and literary art forms, to hasten a vibrant cosmopolitan "gateway between the East and West".[433]
 
 The National Gallery Singapore is the nation's flagship museum with some 8,000 works of Singapore and South East Asian artists. The Singapore Art Museum focuses on contemporary art. The Red Dot Design Museum celebrates exceptional art and design of objects for everyday life, from more than 1,000 items from 50 countries. The lotus-shaped ArtScience Museum host touring exhibitions that combine art with the sciences. Other major museums include the Asian Civilisations Museum, Peranakan Museum, The Arts House.[434]
 
-The_Esplanade_–_Theatres_on_the_Bay.jpg.]] The Esplanade is Singapore's largest performing arts centre with many performances throughout the year, including 5,900 free arts and culture events in 2016.[435][436] Some of the major music and dance groups include the Singapore Symphony Orchestra, Singapore Chinese Orchestra, Singapore Dance Theatre
+.]] The Esplanade is Singapore's largest performing arts centre with many performances throughout the year, including 5,900 free arts and culture events in 2016.[435][436] Some of the major music and dance groups include the Singapore Symphony Orchestra, Singapore Chinese Orchestra, Singapore Dance Theatre
 
 LITERATURE OF SINGAPORE, or _SingLit_, comprises a collection of literary works by Singaporeans written chiefly in the country's four official languages: English, Malay, Standard Mandarin and Tamil. It is increasingly regarded as having four sub-literatures instead of one. Many significant works has been translated and showcased in publications such as the literary journal _Singa_, published in the 1980s and 1990s with editors including Edwin Thumboo and Koh Buck Song, as well as in multilingual anthologies such as _Rhythms: A Singaporean Millennial Anthology Of Poetry_ (2000), in which the poems were all translated three times each into the three languages. A number of Singaporean writers such as Tan Swie Hian and Kuo Pao Kun have contributed work in more than one language, although such cross-linguistic fertilisation is becoming increasingly rare.
 
@@ -424,7 +412,7 @@ The city-state has a burgeoning food scene ranging from hawker centres (open-air
 
 Hawker Centres
 
-Satay_stalls_along_Boon_Tat_Street_next_to_Telok_Ayer_Market,_Singapore_-_20120629-02.jpg hawker centre in the midst of the financial district. Satay cart-stalls rolls in after dusk, on a side street]]
+hawker centre in the midst of the financial district. Satay cart-stalls rolls in after dusk, on a side street]]
 
 Prior to the 1980s, street food were mainly sold by immigrants from China, India and Malaysia to other immigrants seeking a familiar taste. In Singapore, street food has long migrated into hawker centres with communal seating areas. Typically, these centres have a few dozen to hundreds of food stalls, with each specialising in a single or a number of related dishes. The choices are almost overwhelming even for locals.[450][451] Although cooked food that originates from or still sold on streets can be found in many countries, the variety and reach of centralised hawker centres that serve heritage street food in Singapore is unmatched elsewhere.[452]
 
@@ -434,7 +422,7 @@ Local food items generally belong to a particular ethnicity – Chinese, Malay a
 
 Sport and recreation
 
-2016_AFC_Cup_Group_Stage.jpg's retractable roof holds the world's 'largest dome structure' record]]
+'s retractable roof holds the world's 'largest dome structure' record]]
 
 The development of private sports and recreation clubs began in the 19th century colonial Singapore, such as the Cricket Club, Singapore Recreation Club, Singapore Swimming Club, Hollandse Club and others.[456]
 

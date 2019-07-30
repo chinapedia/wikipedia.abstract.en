@@ -1,1 +1,0 @@
-ClaraSearsTaylor.tif CLARA SEARS TAYLOR (October 2, 1876 – after 1938) was an American writer, editor, publicist, and government official, appointed in 1920 by President Woodrow Wilson to serve on the Washington D. C. rent commission. She was the first woman appointed to that office.

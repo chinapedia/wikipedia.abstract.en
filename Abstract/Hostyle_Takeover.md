@@ -1,1 +1,0 @@
-_HOSTYLE TAKEOVER_ is the fourth album from Hostyle Gospel. Hostyle Gospel Ministries released the project on October 14, 2016. The Christian hip hop group worked with Tone Jonez, Lamorax, John Givez, Gemstones, Fred Lynch, Marty B, Laquisha Burries and Jonathan Jackson on the production on this album.[1]

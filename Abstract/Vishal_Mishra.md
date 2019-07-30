@@ -1,1 +1,0 @@
-VISHAL MISHRA is an Indian music composer and singer. He first appeared in a television reality singing show aired on DD National.[1] He was then guided through his initial days in the industry by Lalit Pandit of Jatin-Lalit, and then rapidly worked his way up in the industry, bagging a number of projects as a music composer in the Hindi and Marathi film industry.[2]

@@ -1,1 +1,0 @@
-MARIE AHLERS (born MARIE ALBRECHT: 4 April 1898 - 17 April 1968) was a German politician (KPD/SED). She sat as a member of the national parliament (_"Reichstag"_) between 1930 and 1933,[1] and was a senior party official in the Soviet occupation zone / German Democratic Republic after 1945.[2]

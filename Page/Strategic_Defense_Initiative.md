@@ -17,7 +17,7 @@ The US Army had considered the issue of ballistic missile defense (BMD) as early
 
 This led to a series of projects including Nike Zeus, Nike-X, Sentinel and ultimately the Safeguard Program, all aimed at deploying a nationwide defensive system against attacks by Soviet ICBMs. The reason for so many programs was the rapidly changing strategic threat; the Soviets claimed to be producing missiles "like sausages", and ever-more missiles would be needed to defend against this growing fleet. Low-cost countermeasures like radar decoys required additional interceptors to counter. An early estimate suggested one would have to spend $20 on defense for every $1 the Soviets spent on offense. The addition of MIRV in the late 1960s further upset the balance in favor of offense systems. This cost-exchange ratio was so favorable that it appeared the only thing building a defense would do would be to cause an arms race.
 
-LIM-49A_Spartan_mockup.png/Spartan missile of the late-1960s was designed to provide full-country defense as part of the Sentinel-Safeguard programs. Projected to cost $40 billion ($ billion in ) it would have offered minimal protection and damage prevention in an all-out attack.]]
+/Spartan missile of the late-1960s was designed to provide full-country defense as part of the Sentinel-Safeguard programs. Projected to cost $40 billion ($ billion in ) it would have offered minimal protection and damage prevention in an all-out attack.]]
 
 When initially faced with this problem, President Eisenhower asked ARPA to consider alternative concepts. Their Project Defender studied all sorts of systems, before abandoning most of them to concentrate on Project BAMBI. BAMBI used a series of satellites carrying interceptor missiles that would attack the Soviet ICBMs shortly after launch. This _boost phase_ intercept rendered MIRV impotent; a successful attack would destroy all of the warheads. Unfortunately, the operational cost of such a system would be enormous, and the US Air Force continually rejected such concepts. Development was cancelled in 1963.[13][14]
 
@@ -27,7 +27,7 @@ A Soviet military A-35 anti-ballistic missile system was deployed around Moscow 
 
 Lead up to SDI
 
-Tumbler_Snapper_rope_tricks.jpg test shots, are known as the "rope trick effect". They are caused by the intense flash of _thermal_/soft X-rays released by the explosion heating the steel tower guy-wires white hot. The development of the W71 and the Project Excalibur x-ray laser were based on enhancing the destructive effects of these x-rays.]]
+test shots, are known as the "rope trick effect". They are caused by the intense flash of _thermal_/soft X-rays released by the explosion heating the steel tower guy-wires white hot. The development of the W71 and the Project Excalibur x-ray laser were based on enhancing the destructive effects of these x-rays.]]
 
 George Shultz, Secretary of State under Reagan, suggests that a 1967 lecture by physicist Edward Teller (the so-called "father of the hydrogen bomb") was an important precursor to SDI. In the lecture, Teller talked about the idea of defending against nuclear missiles using nuclear weapons, principally the W65 and W71, with the latter being a contemporary enhanced thermal/X-ray device used actively on the Spartan missile in 1975. Held at Lawrence Livermore National Laboratory (LLNL), the 1967 lecture was attended by Reagan shortly after he became the governor of California.[18]
 
@@ -49,8 +49,6 @@ According to a 1983 US Interagency Intelligence Assessment, there was good evide
 
 
 Project and proposals
-
-Reagan_SDI_Speech_1983.ogv
 
 Announcement
 
@@ -99,7 +97,7 @@ In 1993, the Clinton administration further shifted the focus to ground-based in
 
 Ground-based programs
 
-ERINT.jpg (ERINT) launch from White Sands Missile Range]]
+(ERINT) launch from White Sands Missile Range]]
 
 Extended Range Interceptor (ERINT)
 
@@ -111,7 +109,7 @@ Under BMDO, ERINT was later chosen as the MIM-104 Patriot (Patriot Advanced Capa
 
 Homing Overlay Experiment (HOE)
 
-ABM_test_vehicle_(Homing_Overlay_Experiment).jpg Given concerns about the previous programs using nuclear-tipped interceptors, in the 1980s the US Army began studies about the feasibility of hit-to-kill vehicles, i.e. interceptor missiles that would destroy incoming ballistic missiles just by colliding with them head-on.
+Given concerns about the previous programs using nuclear-tipped interceptors, in the 1980s the US Army began studies about the feasibility of hit-to-kill vehicles, i.e. interceptor missiles that would destroy incoming ballistic missiles just by colliding with them head-on.
 
 The Homing Overlay Experiment (HOE) was the first hit-to-kill system tested by the US Army, and also the first successful hit-to-kill intercept of a mock ballistic missile warhead outside the Earth's atmosphere.
 
@@ -134,9 +132,9 @@ Directed-energy weapon (DEW) programs
 
 X-ray laser
 
-Space_Laser_Satellite_Defense_System_Concept.jpg or a chemical hydrogen fluoride laser satellite,[46] Resulted in this 1984 artist's concept of a laser-equipped satellite firing on another, causing a momentum change in the target object by laser ablation. Before having to cool and re-aim at further possible targets.]]
+or a chemical hydrogen fluoride laser satellite,[46] Resulted in this 1984 artist's concept of a laser-equipped satellite firing on another, causing a momentum change in the target object by laser ablation. Before having to cool and re-aim at further possible targets.]]
 
-Excalibur_firing.png depicts an Excalibur engaging three targets, simultaneously. In most descriptions, each Excalibur could fire at dozens of targets, which would be hundreds or thousands of kilometers away.]] An early focus of the SDI effort was an X-ray lasers powered by nuclear explosions. Nuclear explosions give off a huge burst of X-rays, which the Excalibur concept intended to focus using a lasing medium consisting of metal rods. Many such rods would be placed around a warhead, each one aimed at a different ICBM, thus destroying many ICBMs in a single attack. It would cost much less for the US to build another Excalibur than the Soviets would need to build enough new ICBMs to counter it. The idea was first based on satellites, but when it was pointed out that these could be attacked in space, the concept moved to a "pop-up" concept, rapidly launched from a submarine off the Soviet northern coast.
+depicts an Excalibur engaging three targets, simultaneously. In most descriptions, each Excalibur could fire at dozens of targets, which would be hundreds or thousands of kilometers away.]] An early focus of the SDI effort was an X-ray lasers powered by nuclear explosions. Nuclear explosions give off a huge burst of X-rays, which the Excalibur concept intended to focus using a lasing medium consisting of metal rods. Many such rods would be placed around a warhead, each one aimed at a different ICBM, thus destroying many ICBMs in a single attack. It would cost much less for the US to build another Excalibur than the Soviets would need to build enough new ICBMs to counter it. The idea was first based on satellites, but when it was pointed out that these could be attacked in space, the concept moved to a "pop-up" concept, rapidly launched from a submarine off the Soviet northern coast.
 
 However, on March 26, 1983,[47] the first test, known as the Cabra event, was performed in an underground shaft and resulted in marginally positive readings that could be dismissed as being caused by a faulty detector. Since a nuclear explosion was used as the power source, the detector was destroyed during the experiment and the results therefore could not be confirmed. Technical criticism[48] based upon unclassified calculations suggested that the X-ray laser would be of at best marginal use for missile defense.[49] Such critics often cite the X-ray laser system as being the primary focus of SDI, with its apparent failure being a main reason to oppose the program; however, the laser was never more than one of the many systems being researched for ballistic missile defense.
 
@@ -144,7 +142,7 @@ Despite the apparent failure of the Cabra test, the long term legacy of the X-ra
 
 Chemical laser
 
-Slbd_front.jpg Beginning in 1985, the Air Force tested an SDIO-funded deuterium fluoride laser known as Mid-Infrared Advanced Chemical Laser (MIRACL) at White Sands Missile Range. During a simulation, the laser successfully destroyed a Titan missile booster in 1985, however the test setup had the booster shell pressurized and under considerable compression loads. These test conditions were used to simulate the loads a booster would be under during launch.[52] The system was later tested on target drones simulating cruise missiles for the US Navy, with some success. After the SDIO closed, the MIRACL was tested on an old Air Force satellite for potential use as an anti-satellite weapon, with mixed results. The technology was also used to develop the Tactical High Energy Laser, (THEL) which is being tested to shoot down artillery shells.[53]
+Beginning in 1985, the Air Force tested an SDIO-funded deuterium fluoride laser known as Mid-Infrared Advanced Chemical Laser (MIRACL) at White Sands Missile Range. During a simulation, the laser successfully destroyed a Titan missile booster in 1985, however the test setup had the booster shell pressurized and under considerable compression loads. These test conditions were used to simulate the loads a booster would be under during launch.[52] The system was later tested on target drones simulating cruise missiles for the US Navy, with some success. After the SDIO closed, the MIRACL was tested on an old Air Force satellite for potential use as an anti-satellite weapon, with mixed results. The technology was also used to develop the Tactical High Energy Laser, (THEL) which is being tested to shoot down artillery shells.[53]
 
 During the mid-to-late 1980s a number of panel discussions on lasers and SDI took place at various laser conferences.[54] Proceedings of these conferences include papers on the status of chemical and other high power lasers at the time.
 
@@ -156,7 +154,7 @@ In July 1989, the Beam Experiments Aboard a Rocket (BEAR) program launched a sou
 
 Laser and mirror experiments
 
-SDIO_LACE_Spacecraft.jpg The High Precision Tracking Experiment (HPTE), launched with the Space Shuttle Discovery on STS-51-G, was tested June 21, 1985 when a Hawaii-based low-power laser successfully tracked the experiment and bounced the laser off of the HPTE mirror.
+The High Precision Tracking Experiment (HPTE), launched with the Space Shuttle Discovery on STS-51-G, was tested June 21, 1985 when a Hawaii-based low-power laser successfully tracked the experiment and bounced the laser off of the HPTE mirror.
 
 The Relay mirror experiment (RME), launched in February 1990, demonstrated critical technologies for space-based relay mirrors that would be used with an SDI directed-energy weapon system. The experiment validated stabilization, tracking, and pointing concepts and proved that a laser could be relayed from the ground to a 60 cm mirror on an orbiting satellite and back to another ground station with a high degree of accuracy and for extended durations.[56]
 
@@ -181,7 +179,7 @@ Groups of interceptors were to be housed in orbital modules. Hover testing was c
 
 Brilliant Pebbles
 
-Brilliant_pebbles.jpg Brilliant Pebbles was a non-nuclear system of satellite-based interceptors designed to use high-velocity, watermelon-sized, teardrop-shaped projectiles made of tungsten as kinetic warheads.[61][62] It was designed to operate in conjunction with the Brilliant Eyes sensor system. The project was conceived in November 1986 by Lowell Wood at Lawrence Livermore National Laboratory.[63] Detailed studies were undertaken by several advisory boards, including the Defense Science Board and JASON, in 1989.
+Brilliant Pebbles was a non-nuclear system of satellite-based interceptors designed to use high-velocity, watermelon-sized, teardrop-shaped projectiles made of tungsten as kinetic warheads.[61][62] It was designed to operate in conjunction with the Brilliant Eyes sensor system. The project was conceived in November 1986 by Lowell Wood at Lawrence Livermore National Laboratory.[63] Detailed studies were undertaken by several advisory boards, including the Defense Science Board and JASON, in 1989.
 
 The Pebbles were designed in such a way that autonomous operation, without further external guidance from planned SDI sensor systems, was possible. This was attractive as a cost saving measure, as it would allow scaling back of those systems, and was estimated to save $7 to $13 billion versus the standard Phase I Architecture.[64] Brilliant Pebbles later became the centerpiece of a revised architecture under the Bush Administration SDIO.
 
@@ -192,7 +190,7 @@ Though regarded as one of the most capable SDI systems, the Brilliant Pebbles pr
 
 Sensor programs
 
-SDIO_Delta_Star.jpg SDIO sensor research encompassed visible light, ultraviolet, infrared, and radar technologies, and eventually led to the Clementine mission though that mission occurred just after the program transitioned to the BMDO. Like other parts of SDI, the sensor system initially was very large-scale, but after the Soviet threat diminished it was cut back.
+SDIO sensor research encompassed visible light, ultraviolet, infrared, and radar technologies, and eventually led to the Clementine mission though that mission occurred just after the program transitioned to the BMDO. Like other parts of SDI, the sensor system initially was very large-scale, but after the Soviet threat diminished it was cut back.
 
 Boost Surveillance and Tracking System (BSTS)
 
@@ -215,7 +213,7 @@ The Delta 183 program used a satellite known as _Delta Star_ to test several sen
 
 Countermeasures
 
-Ground-Space_based_hybrid_laser_weapon_concept_art.jpg In war-fighting, countermeasures can have a variety of meanings:
+In war-fighting, countermeasures can have a variety of meanings:
 
 1.  The immediate tactical action to reduce vulnerability, such as chaff, decoys, and maneuvering.
 2.  Counter strategies which exploit a weakness of an opposing system, such as adding more MIRV warheads which are less expensive than the interceptors fired against them.
@@ -234,15 +232,15 @@ A sophisticated attacker having the technology to use decoys, shielding, maneuve
 
 Response from the Soviet Union
 
-Gorbachev_and_Reagan_1985-8.jpg's agenda at the Geneva Summit, November 1985.]]
+'s agenda at the Geneva Summit, November 1985.]]
 
 The Soviet response to the SDI during the period of March 1983 through November 1985 provided indications of their view of the program both as a threat and as an opportunity to weaken NATO. SDI was likely seen not only as a threat to the physical security of the Soviet Union, but also as part of an effort by the United States to seize the strategic initiative in arms controls by neutralizing the military component of Soviet strategy. The Kremlin, however, masked their real concerns, advocating that space-based missile defenses would make nuclear war inevitable.
 
-A major objective of that strategy was the political separation of Western Europe from the United States, which the Soviets sought to facilitate by aggravating allied concern over the SDI's potential implications for European security and economic interests. The Soviet predisposition to see deception behind the SDI was reinforced by their assessment of US intentions and capabilities and the utility of military deception in furthering the achievement of political goals.[72][73] US_and_USSR_nuclear_stockpiles.svg and the dissolution of the country between 1989–91 which marks the end of the Cold War and with it the relaxation of the "arms race", warhead production had continued unabated in the USSR. Total _deployed_ US and Soviet strategic weapons increased steadily from 1983 until the Cold War ended.[74]]] In 1986 Carl Sagan summarized what he heard Soviet commentators were saying about SDI, with a common argument being that it was equivalent to starting an economic war through a defensive arms race to further cripple the Soviet economy with extra military spending, while another less plausible interpretation was that it served as a disguise for the US wish to initiate a first strike on the Soviet Union.[75]
+A major objective of that strategy was the political separation of Western Europe from the United States, which the Soviets sought to facilitate by aggravating allied concern over the SDI's potential implications for European security and economic interests. The Soviet predisposition to see deception behind the SDI was reinforced by their assessment of US intentions and capabilities and the utility of military deception in furthering the achievement of political goals.[72][73] and the dissolution of the country between 1989–91 which marks the end of the Cold War and with it the relaxation of the "arms race", warhead production had continued unabated in the USSR. Total _deployed_ US and Soviet strategic weapons increased steadily from 1983 until the Cold War ended.[74]]] In 1986 Carl Sagan summarized what he heard Soviet commentators were saying about SDI, with a common argument being that it was equivalent to starting an economic war through a defensive arms race to further cripple the Soviet economy with extra military spending, while another less plausible interpretation was that it served as a disguise for the US wish to initiate a first strike on the Soviet Union.[75]
 
 Though classified at the time, a detailed study on a Soviet space-based LASER system began no later than 1976 as the _Skif_, a 1 MW Carbon dioxide laser along with the anti-satellite _Kaskad_, an in-orbit missile platform. With both devices reportedly designed to pre-emptively destroy any US satellites that might be launched in the future which could otherwise aid US missile defense.
 
-Ground-based-laser-DIA.jpg drawing of the Soviet Terra-3 laser in the USSR.]] Terra-3' was a Soviet laser testing centre, located on the Sary Shagan anti-ballistic missile (ABM) testing range in the Karaganda Region of Kazakhstan. It was originally built to test missile defense concepts, In 1984, officials within the United States Department of Defense (DoD) suggested it was the site of a prototypical anti-satellite weapon system.[76]
+drawing of the Soviet Terra-3 laser in the USSR.]] Terra-3' was a Soviet laser testing centre, located on the Sary Shagan anti-ballistic missile (ABM) testing range in the Karaganda Region of Kazakhstan. It was originally built to test missile defense concepts, In 1984, officials within the United States Department of Defense (DoD) suggested it was the site of a prototypical anti-satellite weapon system.[76]
 
 In 1987 a disguised Mir space station module was lifted on the inaugural flight of the Energia booster as the Polyus and it has since been revealed that this craft housed a number of systems of the Skif laser, which were intended to be clandestinely tested in orbit, if it had not been for the spacecraft's attitude control system malfunctioning upon separation from the booster and it failing to reach orbit.[77] More tentatively, it is also suggested that the Zarya module of the International Space Station, capable of station keeping and providing sizable battery power, was initially developed to power the Skif laser system.[78]
 
@@ -253,7 +251,7 @@ In 2014, a declassified CIA paper states that "In response to SDI, Moscow threat
 
 Controversy and criticism
 
-SDIO_KEW_Lexan_projectile.jpg projectile was fired from a light-gas gun at a velocity of at a cast aluminum block.]] Historians from the Missile Defense Agency attribute the term "Star Wars" to a _Washington Post_ article published March 24, 1983, the day after the speech, which quoted Democratic Senator Ted Kennedy describing the proposal as "reckless Star Wars schemes."[83] Some critics used that term derisively, implying it was an impractical science fiction. In addition, the American media's liberal use of the moniker (despite President Reagan's request that they use the program's official name) did much to damage the program's credibility.[84] In comments to the media on March 7, 1986, Acting Deputy Director of SDIO, Dr. Gerold Yonas, described the name "Star Wars" as an important tool for Soviet disinformation and asserted that the nickname gave an entirely wrong impression of SDI.[85]
+projectile was fired from a light-gas gun at a velocity of at a cast aluminum block.]] Historians from the Missile Defense Agency attribute the term "Star Wars" to a _Washington Post_ article published March 24, 1983, the day after the speech, which quoted Democratic Senator Ted Kennedy describing the proposal as "reckless Star Wars schemes."[83] Some critics used that term derisively, implying it was an impractical science fiction. In addition, the American media's liberal use of the moniker (despite President Reagan's request that they use the program's official name) did much to damage the program's credibility.[84] In comments to the media on March 7, 1986, Acting Deputy Director of SDIO, Dr. Gerold Yonas, described the name "Star Wars" as an important tool for Soviet disinformation and asserted that the nickname gave an entirely wrong impression of SDI.[85]
 
 Jessica Savitch reported on the technology in episode No.111 of Frontline, "Space: The Race for High Ground" on PBS on 4/11/1983.[86] The opening sequence shows Jessica Savitch seated next to a laser that she used to destroy a model of a communication satellite. The demonstration was perhaps the first televised use of a weapons grade laser. No theatrical effects were used. The model was actually destroyed by the heat from the laser. The model and the laser were realized by Marc Palumbo, a High Tech Romantic artist from the Center for Advanced Visual Studies at MIT.
 
@@ -265,7 +263,7 @@ In response to this when Teller testified before Congress he stated that "instea
 
 On June 28, 1985, David Lorge Parnas resigned from SDIO's Panel on Computing in Support of Battle Management, arguing in eight short papers that the software required by the Strategic Defense Initiative could never be made to be trustworthy and that such a system would inevitably be unreliable and constitute a menace to humanity in its own right.[89] Parnas said he joined the panel with the desire to make nuclear weapons "impotent and obsolete" but soon concluded that the concept was "a fraud".
 
-Keinen_Krieg_der_Sterne.JPG graffiti in Kassel, West Germany says "Keinen Krieg der Sterne! Stoppt SDI! SDAJ" or (No star wars! Stop SDI! SDAJ).]]
+graffiti in Kassel, West Germany says "Keinen Krieg der Sterne! Stoppt SDI! SDAJ" or (No star wars! Stop SDI! SDAJ).]]
 
 Treaty obligations
 

@@ -1,1 +1,0 @@
-JOHN GWYN (Muff, Co. Donegal 1755 – 1829 Derry) was a linen merchant and philanthropist. On his death he left a substantial bequest to establish a charity for the benefit of boys from poor families in and around Derry, which was duly set up in 1840 under the name of Gwyn's Institution.

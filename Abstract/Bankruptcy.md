@@ -1,1 +1,0 @@
-Bankrupt_computer_store.jpg]] BANKRUPTCY is a legal process through which people or other entities who cannot repay debts to creditors may seek relief from some or all of their debts. In most jurisdictions, bankruptcy is imposed by a court order, often initiated by the debtor.

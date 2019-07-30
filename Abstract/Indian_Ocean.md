@@ -1,1 +1,0 @@
-The INDIAN OCEAN is the third-largest of the world's oceanic divisions, covering (19.8% of the water on the Earth's surface).[1] It is bounded by Asia on the north, on the west by Africa, on the east by Australia, and on the south by the Southern Ocean or, depending on definition, by Antarctica.[2]

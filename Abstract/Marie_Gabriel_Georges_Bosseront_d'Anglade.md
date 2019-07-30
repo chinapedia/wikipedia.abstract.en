@@ -1,1 +1,0 @@
-MARIE GABRIEL GEORGES BOSSERONT D'ANGLADE (pseudonym GEORGES SAUVIN; 20 January 1858 – February 1929) was a French diplomat to the Kingdom of Hawaii during the late 19th century. He wrote _Un Royaume Polynésien: Îles Hawaï_, an account of life in Hawaii from 1889 to 1893. He also served many other consular posts around the world.

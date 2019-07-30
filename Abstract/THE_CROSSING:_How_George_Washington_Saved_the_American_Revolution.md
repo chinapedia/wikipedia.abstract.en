@@ -1,1 +1,0 @@
-_THE CROSSING: HOW GEORGE WASHINGTON SAVED THE AMERICAN REVOLUTION_ is a 2010 Children's history book by Jim Murphy. It describes the first couple of years of the American Revolutionary War concentrating on George Washington and his pivotal role in the conflict.

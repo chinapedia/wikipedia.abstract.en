@@ -1,1 +1,0 @@
-IRA is an unincorporated community in northeastern Laclede County, in the Ozarks of south central Missouri.[1] The community is located on Missouri Route E, approximately six miles northwest of Eldridge and about one-quarter mile east of the Laclede-Dallas county line.[2]

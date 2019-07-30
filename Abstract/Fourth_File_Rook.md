@@ -1,1 +1,0 @@
-In shogi, FOURTH FILE ROOK (四間飛車 _shikenbisha_) is a class of Ranging Rook openings in which the rook is initially positioned on the fourth file if played by White or the sixth file if played by Black.

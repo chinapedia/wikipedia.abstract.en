@@ -1,1 +1,0 @@
-KANG YOUNG-JOONG (; born July 27, 1949), the chairman of Daekyo Group,[1] the largest private tutoring company in Korea, served as the President of the Korea Scout Association from March 7, 2008 to April 16, 2012.

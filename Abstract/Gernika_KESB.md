@@ -1,1 +1,0 @@
-GERNIKA KIROL ELKARTEA SASKI BALOIA, also known as LOINTEK GERNIKA BIZKAIA for sponsorship reasons, is a women's basketball team based in Gernika, Basque Country, Spain. The team currently plays in Liga Femenina.

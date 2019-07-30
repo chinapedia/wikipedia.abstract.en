@@ -1,1 +1,0 @@
-ANASTAZIA WAMBURA (born 15 January 1965) is a Tanzanian politician belonging to the ruling Chama Cha Mapinduzi (CCM) party. She is the current Deputy Minister of Information, Culture, Artists and Sports. She is a three-term Member of Parliament having been appointed to a special seat reserved for women.

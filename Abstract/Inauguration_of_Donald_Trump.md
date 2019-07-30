@@ -1,1 +1,0 @@
-The INAUGURATION OF DONALD TRUMP as the 45th president of the United States marked commencement of the four-year term of Donald Trump as president and Mike Pence as vice president. An estimated 300,000 to 600,000[1][2] people attended the public ceremony held on Friday, January 20, 2017, on the West Front of the United States Capitol Building in Washington, D.C.

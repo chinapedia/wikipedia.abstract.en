@@ -1,1 +1,0 @@
-STAYUNCLE is a hotel booking website in India for both married and unmarried couples.[1][2][3] The site books hotel rooms in 40 Indian cities, who will now allow unmarried couples coming from StayUncle with local ID proof to stay in their properties. The site also allows booking of rooms for 12 hours, rather than the customary 24.[4]

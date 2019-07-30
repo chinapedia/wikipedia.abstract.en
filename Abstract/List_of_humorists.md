@@ -1,1 +1,0 @@
-A humorist (American English) or humourist (British English) is an intellectual who uses humor in writing or public speaking.[1] Humorists are distinct from comedians, who are show business entertainers whose business is to make an audience laugh, though it is possible for some persons to occupy both roles in the course of their careers.

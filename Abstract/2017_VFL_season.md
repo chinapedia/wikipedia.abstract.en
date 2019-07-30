@@ -1,1 +1,0 @@
-The 2017 VICTORIAN FOOTBALL LEAGUE SEASON is the 136th season of the Victorian Football Association/Victorian Football League Australian rules football competition. The competition began on 8 April and concluded with the Grand Final on 24 September 2017.

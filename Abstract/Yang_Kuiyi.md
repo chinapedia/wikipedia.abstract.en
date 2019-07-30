@@ -1,1 +1,0 @@
-YANG KUIYI (, 1885 – 1946) was a Chinese general of the Second Sino-Japanese War who became a high-ranking military official of the Nanjing Nationalist Government, a regime established by Imperial Japan.

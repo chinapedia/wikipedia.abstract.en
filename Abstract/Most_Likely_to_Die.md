@@ -1,1 +1,0 @@
-_MOST LIKELY TO DIE_ is a 2015 American slasher film directed by Anthony DiBlasi. Heather Morris, Ryan Doom, Perez Hilton, Tatum Miranda, and Jake Busey star. It premiered at the London FrightFest Film Festival and was released in the United States on May 13, 2016. A masked killer, known as The Graduate, stalks and kills his classmates at their ten-year reunion.

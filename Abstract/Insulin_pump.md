@@ -1,1 +1,0 @@
-An INSULIN PUMP is a medical device used for the administration of insulin in the treatment of diabetes mellitus, also known as continuous subcutaneous insulin therapy. The device configuration may vary depending on design. A traditional pump includes:

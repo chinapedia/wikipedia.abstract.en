@@ -26,13 +26,13 @@ Another influence came from Gary Clail's Tackhead soundsystem. Clail often worke
 
 Mainstream breakthrough
 
-Massive_attack_at_stereoleto.jpg, a British trip hop group that helped bring the genre to mainstream success in the 1990s[20]]]
+, a British trip hop group that helped bring the genre to mainstream success in the 1990s[20]]]
 
 Massive Attack's first album _Blue Lines_ was released in 1991 to huge success in the United Kingdom. _Blue Lines_ was seen widely as the first major manifestation of a uniquely British hip hop movement, but the album's hit single "Unfinished Sympathy" and several other tracks, while their rhythms were largely sample-based, were not seen as hip hop songs in any conventional sense. Produced by Dollar, Shara Nelson (an R&B singer) featured on the orchestral "Unfinished", and Jamaican dance hall star Horace Andy provided vocals on several other tracks, as he would throughout Massive Attack's career. Massive Attack released their second album entitled _Protection_ in 1994. Although Tricky stayed on in a lesser role, and Hooper again produced, the fertile dance music scene of the early 1990's had informed the record, and it was seen as an even more significant shift away from the Wild Bunch era.
 
 In the June 1994 issue of UK magazine _Mixmag_, music journalist Andy Pemberton used the term _trip hop_ to describe the hip hop instrumental "In/Flux", a 1993 single by San Francisco's DJ Shadow, and other similar tracks released on the Mo' Wax label and being played in London clubs at the time. "In/Flux", with its mixed up bpms, spoken word samples, strings, melodies, bizarre noises, prominent bass, and slow beats, gave the listener the impression they were on a musical trip, according to Pemberton.[21] Soon, however, Massive Attack's dubby, jazzy, psychedelic, electronic textures, rooted in hip hop sampling technique but taking flight into many styles, were described by journalists as the template of the eponymous genre.
 
-Tricky_mp3h1944.jpg, a major trip hop artist]]
+, a major trip hop artist]]
 
 In 1993, Icelandic musician Björk released _Debut_, produced by Wild Bunch member Nellee Hooper. The album, although rooted in four-on-the-floor house music, contained elements of trip hop and is credited as one of the first albums to introduce electronic dance music into mainstream pop.[22][23] She had been in contact with London's underground electronic music scene and was romantically involved with trip hop musician Tricky. Björk embraced trip hop even more with her 1995 album _Post_ by collaborating with Tricky and Howie B. _Homogenic_, her 1997 album, has been described as a pinnacle of trip hop music.[24]
 
@@ -48,7 +48,7 @@ Although not as popular in the United States, bands like Portishead and Sneaker 
 
 "Post-trip hop"
 
-Björk_@deer_lake_park_2.jpg, an artist who has often incorporated trip hop in her music[27][28][29]]]
+, an artist who has often incorporated trip hop in her music[27][28][29]]]
 
 After the initial success of trip hop in the mid-1990s, notable "post-trip-hop" artists include Bowery Electric, Esthero, Morcheeba, Sneaker Pimps, Anomie Belle,[30] Alpha, Jaianto, Mudville and Cibo Matto and Lamb. These artists incorporated trip hop into other genres, including ambient, soul, IDM, industrial, dubstep, breakbeat, drum and bass, acid jazz, and new-age. The first printed use of the term "post-trip hop" was in an October 2002 article of _The Independent_, and was used to describe the band Second Person.
 

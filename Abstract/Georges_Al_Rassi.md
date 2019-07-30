@@ -1,1 +1,0 @@
-GEORGES AL RASSI (), is a Lebanese singer, musician, and songwriter. into a distinctively artistic family. His father, who plays "Oud", encouraged him to sing as did his actress mother. At 16 years old Georges Al Rassi won his first contract a six months agreement to perform at "options", the international night club, at Kaskil, Lebanon.

@@ -1,1 +1,0 @@
-HERBERT G. BARBER (August 14, 1870 – October 5, 1947) was a Vermont attorney and Republican Party politician who served in both chambers of the Vermont General Assembly and as Vermont Attorney General.

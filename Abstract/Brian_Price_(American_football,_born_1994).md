@@ -1,1 +1,0 @@
-BRIAN KEITH PRICE (born June 24, 1994) is an American football defensive tackle for the Cleveland Browns of the National Football League (NFL). He played college football at Texas-San Antonio, and was signed by the Green Bay Packers as an undrafted free agent in 2016.

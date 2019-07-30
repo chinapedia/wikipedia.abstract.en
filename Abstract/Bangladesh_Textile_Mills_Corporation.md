@@ -1,1 +1,0 @@
-BANGLADESH TEXTILE MILLS CORPORATION or BTMC,[1] is a public corporation that owns and manages all government textile mills in Bangladesh and is located in Dhaka.[2] It manages 18 government owned textile factories.[3]

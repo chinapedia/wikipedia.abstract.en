@@ -1,1 +1,0 @@
-_THE ADVENTURES OF A BLACK GIRL IN SEARCH OF GOD_ is a drama written and produced by Canadian playwright Djanet Sears. The production ran from October 2003-March 2004, co-produced by Obsidian Theatre and Nightwood Theatre, and was reprised in 2015 at the National Arts Centre and Centaur Theatre.[1] A print version of this play was published by Playwrights Canada Press in 2003.

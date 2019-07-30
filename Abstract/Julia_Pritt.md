@@ -1,1 +1,0 @@
-JULIA PRITT ( – [1]) was a Seattle area philanthropist and cofounder of Attachmate.[2] She founded Julia's Place (a homeless family shelter in the Madrona neighborhood[3][4]) and Washington Women in Need,[5][6] and donated land for an Issaquah park.[7][8] Pritt died in April, 2010.[9]

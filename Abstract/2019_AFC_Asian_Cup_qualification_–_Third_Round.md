@@ -1,1 +1,0 @@
-The THIRD ROUND of the 2019 AFC ASIAN CUP QUALIFICATION was played from 26 March 2017 to 27 March 2018.

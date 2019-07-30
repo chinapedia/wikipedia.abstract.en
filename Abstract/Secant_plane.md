@@ -1,1 +1,0 @@
-Ellipsoid_circular_sections.gif A SECANT PLANE is a plane containing a nontrivial section of a sphere or an ellipsoid, or such a plane that a sphere is projected onto. Secant planes are similar to tangent planes, which contact the sphere's surface at a point, while secant planes contact the surface along curves.

@@ -1,1 +1,0 @@
-CARL MAGNUE JOHANSON (1863 – August 2, 1933) was an American football player and coach, known as the "father of Cornell football".[1][2] He convinced Pop Warner to attend Cornell.[3] Johanson died at the age of 69, on August 2, 1933, in Seattle, Washington.[4]

@@ -1,1 +1,0 @@
-GRIT CITY GRASS is a Bluegrass band located in Crozet, Virginia.[1] The band is made up of four musicians who play a wide range of traditional instruments[2] and their recordings receive regular airplay on Bluegrass Sunday Morning on WNRN.

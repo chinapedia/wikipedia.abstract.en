@@ -1,1 +1,0 @@
-The 1977 CORK SENIOR HURLING CHAMPIONSHIP was the 89th staging of the Cork Senior Hurling Championship since its establishment by the Cork County Board in 1887. The draw for the opening fixtures took place on 30 January 1977. The championship began on 1 May 1977 and ended on 18 September 1977.

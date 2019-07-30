@@ -1,1 +1,0 @@
-IRRELEVANT CONCLUSION,[1] also known as _IGNORATIO ELENCHI_ () or MISSING THE POINT, is the informal fallacy of presenting an argument that may or may not be logically valid and sound, but (whose conclusion) fails to address the issue in question. It falls into the broad class of relevance fallacies.[2]

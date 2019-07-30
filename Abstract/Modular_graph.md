@@ -1,1 +1,0 @@
-2d_modular_lattice.svg]] In graph theory, a branch of mathematics, the MODULAR GRAPHS are undirected graphs in which every three vertices , , and have at least one _median vertex_ that belongs to shortest paths between each pair of , , and .[1] Their name comes from the fact that a finite lattice is a modular lattice if and only if its Hasse diagram is a modular graph.[2]

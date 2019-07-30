@@ -1,1 +1,0 @@
-_OOCATOCHUS_ is a genus of snake in the family Colubridae that contains the sole species _OOCATOCHUS RUFODORSATUS_.[1][2] It is known as the CHINESE GARTER SNAKE, FROG-EATING RAT SNAKE, or RED-BACKED RAT SNAKE.[3][4]

@@ -1,1 +1,0 @@
-Eating_rice,_China_-_collected_by_Berthold_Laufer.jpg

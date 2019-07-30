@@ -1,1 +1,0 @@
-The UNITY WORLD CUP is an international football competition contested by Christian national men's teams. Its name, _unity_, shows its will to _unite_ the different kinds of christians during a sports event. It is organized with the help of the John Paul II Foundation for sports[1]{{,}}[2]{{,}}.[3]

@@ -1,1 +1,0 @@
-HÜSEYIN KÖKSEÇEN (born in Pazarcık, Kahramanmaraş Province, Turkey on 26 January 1988) is a German rapper of Kurdish descent. Based in Essen, Germany, he has an own label imprint "Rebell Army". He released six albums, four of which, have peaked at number one on the German Albums Chart.

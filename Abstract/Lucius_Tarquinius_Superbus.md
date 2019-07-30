@@ -1,1 +1,0 @@
-LUCIUS TARQUINIUS SUPERBUS (died 495 BC) was the legendary seventh and final king of Rome, reigning from 535 BC until the popular uprising in 509 BC that led to the establishment of the Roman Republic. He is commonly known as TARQUIN THE PROUD, from his cognomen _Superbus_ (Latin for "proud, arrogant, lofty").[1]

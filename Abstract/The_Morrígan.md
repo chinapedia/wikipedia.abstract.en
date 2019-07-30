@@ -1,1 +1,0 @@
-Morrigan.jpg THE MORRÍGAN or MÓRRÍGAN, also known as MORRÍGU, is a figure from Irish mythology. The name is MÓR-RÍOGHAIN in Modern Irish. It has been translated as "great queen", "phantom queen" or "queen of phantoms".

@@ -1,1 +1,0 @@
-A CONSTITUTIONAL REFERENDUM was held in Grenada on 24 November 2016.[1] Voters were asked whether they approved of seven amendments, with each one voted on separately.[2] The amendments would only have been approved if two-thirds of valid votes had been cast in favour.[3] However, all seven proposals were rejected by voters. It was the first referendum in Grenada's history.[4]

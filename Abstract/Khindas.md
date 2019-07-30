@@ -1,1 +1,0 @@
-KHINDAS MARWAR is a village located near Degana in the Nagaur district of Rajasthan, India. In this village MOST of the Rajput champawat caste are brave .The city is situated roughly southeast of 75 km from Nagaur and 14 km from degana, at a junction of State Highways 59 and 60.

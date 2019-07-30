@@ -1,1 +1,0 @@
-Gradient2.svg

@@ -1,1 +1,0 @@
-GUTENBERG-STENZENGREITH is a municipality since 2015 in the Weiz District of Styria, Austria. It was created as part of the Styria municipal structural reform, at the end of 2014, by merging the former towns of Gutenberg an der Raabklamm and Stenzengreith.[1] [2]

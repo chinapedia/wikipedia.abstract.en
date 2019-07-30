@@ -1,1 +1,0 @@
-The NOZZLE AND FLAPPER MECHANISM is a displacement type detector which converts mechanical movement into a pressure signal, by covering the opening of a NOZZLE with a flat plate called the FLAPPER.[1] This restricts fluid flow through the nozzle and generates a pressure signal.

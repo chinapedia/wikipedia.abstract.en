@@ -1,1 +1,0 @@
-VALENTÍN DE LA ASUNCIÓN ZUBIZARRETA Y UNAMUNSAGA, OCD (2 November 1862 – 26 February 1948) was a Cuban prelate of the Catholic Church. He served as Bishop of Camagüey from 1914 to 1922, Bishop of Cienfuegos from 1922 to 1925, and Archbishop of Santiago de Cuba from 1925 to 1948.

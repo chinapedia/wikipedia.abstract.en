@@ -1,1 +1,0 @@
-SALMA TARIK MOHAMED ABDELMOTALEB AHMED (born 22 November 1989) is an Egyptian international footballer who plays as a midfielder for the Egypt women's national football team. At the club level, she played for Smouha in Egypt.[1][2]

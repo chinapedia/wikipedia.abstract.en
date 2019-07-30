@@ -1,1 +1,0 @@
-The 2018 UNITED STATES HOUSE OF REPRESENTATIVES ELECTIONS IN LOUISIANA were held on November 6, 2018, to elect the six U.S. Representatives from the state of Louisiana, one from each of the state's six congressional districts. The elections coincided with other elections to the House of Representatives, elections to the United States Senate and various state and local elections.

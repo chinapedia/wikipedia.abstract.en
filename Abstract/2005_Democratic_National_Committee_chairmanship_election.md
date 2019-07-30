@@ -1,1 +1,0 @@
-The 2005 DEMOCRATIC NATIONAL COMMITTEE (DNC) CHAIRMANSHIP ELECTION was held on February 12, 2005, to elect a chairperson to the DNC for a four-year term. Howard Dean was elected as the DNC chair, succeeding Terry McAuliffe.

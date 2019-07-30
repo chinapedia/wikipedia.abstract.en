@@ -1,1 +1,0 @@
-MPWH (Meeting People With Herpes) is an American-based international Herpes dating community. MPWH offers an exclusive platform for positive singles who are living with Herpes (HSV-1 and HSV-2) to find support, friendship and love.[1]

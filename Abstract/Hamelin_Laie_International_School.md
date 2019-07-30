@@ -1,1 +1,0 @@
-HAMELIN LAIE INTERNATIONAL SCHOOL is a private international school located in Montgat, Spain, near Barcelona. The school was founded in 1989 and teaches infant education, primary education, secondary education and baccalaurate.

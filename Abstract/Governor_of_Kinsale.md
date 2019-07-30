@@ -1,1 +1,0 @@
-The GOVERNOR OF KINSALE was a military officer who commanded the garrison at Kinsale and Charles Fort in County Cork. The office became a sinecure and in 1833 was to be abolished from the next vacancy.

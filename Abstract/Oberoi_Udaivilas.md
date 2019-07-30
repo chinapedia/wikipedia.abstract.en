@@ -1,1 +1,0 @@
-Oberoi_udaivilas.jpg

@@ -1,4 +1,4 @@
-Bachiler_coat-of-arms._By_Sylvanus_Morgan,_1898.jpg STEPHEN BACHILER (23 June 1561 - 28 October 1656) was an English clergyman who was an early proponent of the separation of church and state in American Colonies. He is also known for starting such settlements as Hampton, New Hampshire.[1]
+STEPHEN BACHILER (23 June 1561 - 28 October 1656) was an English clergyman who was an early proponent of the separation of church and state in American Colonies. He is also known for starting such settlements as Hampton, New Hampshire.[1]
 
 
 Early life
@@ -29,7 +29,7 @@ In 1638, Bachiler and others, including his son-in-law Christopher Hussey, succe
 
 Maine
 
-Title_page_for_The_Scarlet_Letter.jpg By 1644 Cleeve had become deputy governor of _Lygonia_, a rival province to that of Gorges' in Maine established from a resurrected Plough Patent, and asked Bachiler to be its minister at Casco. Bachiler deferred, having already received a call to be minister for the new town of Exeter. Once again Massachusetts intervened in his affairs when the General Court ordered deferral of any church at Exeter. Frustrated in his attempts at a new ministry, Bachiler left Hampton and went as missionary to Strawbery Banke (now Portsmouth, New Hampshire) probably that same year 1644. While there, he married in 1648 (his fourth wife) a young widow, Mary Beedle of Kittery, Maine. In 1651, she was indicted and sentenced for adultery with a neighbor.[19] There are scholars who believe that she was the model of the character of Hester Prynne in The Scarlet Letter.[20]
+By 1644 Cleeve had become deputy governor of _Lygonia_, a rival province to that of Gorges' in Maine established from a resurrected Plough Patent, and asked Bachiler to be its minister at Casco. Bachiler deferred, having already received a call to be minister for the new town of Exeter. Once again Massachusetts intervened in his affairs when the General Court ordered deferral of any church at Exeter. Frustrated in his attempts at a new ministry, Bachiler left Hampton and went as missionary to Strawbery Banke (now Portsmouth, New Hampshire) probably that same year 1644. While there, he married in 1648 (his fourth wife) a young widow, Mary Beedle of Kittery, Maine. In 1651, she was indicted and sentenced for adultery with a neighbor.[19] There are scholars who believe that she was the model of the character of Hester Prynne in The Scarlet Letter.[20]
 
 
 Emigration to England and death
@@ -39,7 +39,7 @@ Denied a divorce by the Massachusetts Court, Bachiler finally returned to Englan
 
 Legacy
 
-PAHSt1010012.JPG Perhaps the best summation of his career is in the biographical entry in Robert Charles Anderson's look at the early immigrants: "Among the many remarkable lives lived by early New Englanders, Bachiler's is the most remarkable." The Metropolitan Museum of Art in New York holds the (Bachiler-Hussey) _Joined armchair_, dated 1650-1700. The chair was possibly commissioned prior to Bachiler's voyage back to England and is made from white oak. Bachiler's son-in-law, Captain Christopher Hussey acquired the chair when Bachiler, "gave him (Hussey) all of his estate"; this was owing to the absence of any dowry accompanying Theodate Hussey - Bachiler's daughter. The chair subsequently remained in Bachiler's family for generations, being given to the museum in 2010.[22][23][24][25][26][27][28][29][30]
+Perhaps the best summation of his career is in the biographical entry in Robert Charles Anderson's look at the early immigrants: "Among the many remarkable lives lived by early New Englanders, Bachiler's is the most remarkable." The Metropolitan Museum of Art in New York holds the (Bachiler-Hussey) _Joined armchair_, dated 1650-1700. The chair was possibly commissioned prior to Bachiler's voyage back to England and is made from white oak. Bachiler's son-in-law, Captain Christopher Hussey acquired the chair when Bachiler, "gave him (Hussey) all of his estate"; this was owing to the absence of any dowry accompanying Theodate Hussey - Bachiler's daughter. The chair subsequently remained in Bachiler's family for generations, being given to the museum in 2010.[22][23][24][25][26][27][28][29][30]
 
 
 Notable descendants

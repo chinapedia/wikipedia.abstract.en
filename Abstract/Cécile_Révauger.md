@@ -1,1 +1,0 @@
-Cécile_Révauger_(2018).jpg CÉCILE RÉVAUGER (1955, Bordeaux) is a French historian and historiographer in the fields of freemasonry and the Lumières. A freemason, she was initiated in 1982 at the Grande Loge féminine de France. She left this grand lodge to join the Grand Orient de France in 2013.

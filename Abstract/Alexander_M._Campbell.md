@@ -1,1 +1,0 @@
-ALEXANDER M. CAMPBELL (1907–1968)[1] was an Indiana lawyer who served in the United States Department of Justice as Assistant U.S. Attorney General for the Criminal Division, formally from August 1948 through December 20, 1949, under Tom C. Clark as U.S. Attorney General (1945–49).[2]

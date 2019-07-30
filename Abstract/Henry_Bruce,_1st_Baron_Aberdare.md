@@ -1,1 +1,0 @@
-HENRY AUSTIN BRUCE, 1ST BARON ABERDARE, (16 April 181525 February 1895) was a British Liberal Party politician, who served in government most notably as Home Secretary (1868–1873) and as Lord President of the Council.[1]

@@ -1,1 +1,0 @@
-This article is about the list of ESTRELA CLUBE PRIMEIRO DE MAIO players. Estrela Clube Primeiro de Maio is an Angolan football (soccer) club based in Benguela, Angola and plays at Estádio Municipal Edelfride Palhares da Costa. The club was established in 1981.

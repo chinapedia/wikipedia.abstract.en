@@ -1,1 +1,0 @@
-_THE LIFE OF MAN_ () is a five-act symbolist drama by Leonid Andreyev. Written in the September 1906, it premiered on 22 February 1907 in the Komissarzhevskaya Theatre, directed by Vsevolod Meyerkhold. On 12 December 1907 it was performed for the first time in the Moscow Art Theatre, directed by Konstantin Stanislavski and Leopold Sulerzhitsky.[1]

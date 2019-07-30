@@ -1,1 +1,0 @@
-The KINDLER LITERATURE ENCYCLOPEDIA (in German: Das Kindler Literatur Lexikon) is an encyclopedia released in Germany covering information about world literature. Its first edition was released from 1965 to 1972 (7 volumes).[1] Its second and third edition were distributed from 1988–1992 (20 volumes) and in 2009 (18 volumes).[2] In 1999 a CD-ROM version was released.

@@ -1,1 +1,0 @@
-The 362ND INFANTRY DIVISION () was an infantry division of the German Army during the Second World War, active from 1943 to 1945. Formed in Italy, it participated in the Italian Campaign for the entire duration of its war service. It was implicated in the massacre of 97 civilians in what is known as the Benedicta massacre, which occurred at Piedmont in April 1944.

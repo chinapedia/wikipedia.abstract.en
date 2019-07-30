@@ -1,1 +1,0 @@
-HALOCYPRIDAE is a family of ostracods in the suborder Halocypridina. This family contains bioluminescent members such as _Conchoecia pseudodiscophora_, which are believed to use coelenterazine and a coelenterazine luciferase rather than vargulin.[1]

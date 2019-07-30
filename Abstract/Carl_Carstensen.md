@@ -1,1 +1,0 @@
-Rear-Admiral CARL VILHELM EDVARD CARSTENSEN, (1863-1940) acting as the personal representative of King Christian X of Denmark, officially opened the 2nd World Scout Jamboree on 10 August 1924, held from 9 to 17 August 1924 at Ermelunden, Denmark.[1]

@@ -1,1 +1,0 @@
-The_Edgar_Wallace_Pub_(4856116057).jpg

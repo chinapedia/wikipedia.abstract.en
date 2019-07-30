@@ -1,1 +1,0 @@
-_TORA DINE KU MORA DINE_ is a 2016 Indian Odia action comedy drama film directed by Sudhanshu Mohan sahu and produced by Sitaram Agrawal under the banner of Sarthak Music Pvt.Ltd.[1] Arindam Roy, Amlan, Riya Dey and Sheetal Patra are in lead roles. It was declared as a Super hit.

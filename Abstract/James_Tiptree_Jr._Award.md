@@ -1,1 +1,0 @@
-The JAMES TIPTREE JR. AWARD is an annual literary prize for works of science fiction or fantasy that expand or explore one's understanding of gender. It was initiated in February 1991 by science fiction authors Pat Murphy and Karen Joy Fowler, subsequent to a discussion at WisCon.

@@ -1,1 +1,0 @@
-Primes-vs-composites.svg

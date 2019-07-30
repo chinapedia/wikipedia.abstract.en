@@ -1,1 +1,0 @@
-ALEXIUS is the Latinized form of the given name ALEXIOS (, polytonic , "defender", cf. Alexander), especially common in the later Byzantine Empire. Variants include ALEXIS with the Russian ALEKSEY and its Ukrainian counterpart OLEKSA/OLEKSIY deriving from this form. The female form is ALEXIA () and its variants such as Alessia (the masculine form of which is Alessio) in Italian.

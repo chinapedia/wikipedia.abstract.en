@@ -1,1 +1,0 @@
-AMR AWADALLAH (born October 1, 1970) is an Egyptian-born American computer scientist, Silicon Valley entrepreneur known for co-founding Cloudera Inc., and a pioneer in the use of Apache Hadoop for data analysis. Amr is currently the CTO at Cloudera Inc. [1][2]

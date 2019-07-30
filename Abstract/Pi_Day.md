@@ -1,1 +1,0 @@
-PI DAY is an annual celebration of the mathematical constant (pi). Pi Day is observed on March 14 (3/14 in the _month/day_ format) since 3, 1, and 4 are the first three significant digits of .[1][2] In 2009, the United States House of Representatives supported the designation of Pi Day.[3]

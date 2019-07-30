@@ -1,1 +1,0 @@
-The LEGISLATURE () of Islamic Republic of Iran consists of two components, a unicameral[1] parliamentary chamber called Islamic Consultative Assembly and a reviewing power, the Guardian Council of the Constitution.[2]

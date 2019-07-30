@@ -1,1 +1,0 @@
-SZERENCS () is a district in central-eastern part of Borsod-Abaúj-Zemplén County. _Szerencs_ is also the name of the town where the district seat is found. The district is located in the Northern Hungary Statistical Region.

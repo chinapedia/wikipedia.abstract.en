@@ -1,1 +1,0 @@
-JOSEPH WADE "JOE" SCOTT (December 2, 1924 – March 6, 1979)[1] was an American R&B trumpeter, bandleader, songwriter, arranger, record producer and A&R man, best known for his work at Duke and Peacock Records in the 1950s and 1960s, notably with Bobby "Blue" Bland.[2]

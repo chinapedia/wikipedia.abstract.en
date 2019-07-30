@@ -10,7 +10,7 @@ A 15-member State Advisory Council advises the president in the conduct of polic
 
 Legislative branch
 
-AssembleeSurinaam.jpg.]] The legislative branch of government consists of a 51-member unicameral National Assembly, simultaneously and popularly elected for a 5-year term.
+.]] The legislative branch of government consists of a 51-member unicameral National Assembly, simultaneously and popularly elected for a 5-year term.
 
 
 Political parties and elections

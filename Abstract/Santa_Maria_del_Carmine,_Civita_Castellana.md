@@ -1,1 +1,0 @@
-SANTA MARIA DEL CARMINE, once known as _Santa Maria dell'Arco_ is a Romanesque-style, Roman Catholic church located at the intersection of the Vi Flaminia with Via Ferretti in the town of Civita Castellana, province of Viterbo, region of Lazio, Italy.

@@ -1,1 +1,0 @@
-PRESBURGER ARITHMETIC is the first-order theory of the natural numbers with addition, named in honor of Mojżesz Presburger, who introduced it in 1929. The signature of Presburger arithmetic contains only the addition operation and equality, omitting the multiplication operation entirely. The axioms include a schema of induction.

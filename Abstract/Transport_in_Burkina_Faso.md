@@ -1,1 +1,0 @@
-Un-burkina-faso.png TRANSPORT IN BURKINA FASO consists primarily of road, air and rail transportation. The World Bank classified country's transportation as underdeveloped but noted that Burkina Faso is a natural geographic transportation hub for West Africa.

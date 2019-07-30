@@ -1,1 +1,0 @@
-1898_Henriod_6_CV_two-seater_(23385875514).jpg C.E.HENRIOD & CIE and Automobiles Henriod & Cie (founded 1898) of Neuilly-sur-Seine, Paris, France were enterprises of pioneering Swiss automotive engineer, Charles-Edouard Henriod born Fleurier, Switzerland 22 May 1866 died Lausanne 18 November 1941 and his brother Fritz.[1]

@@ -1,1 +1,0 @@
-MIN NEMI (, ) was governor of Toungoo (Taungoo) from 1399 to 1408/09.[1][2] He was also a military commander, whose regional army consisted of 60 war elephants, and fought in the Forty Years' War. He ruled for nearly ten years.[3]

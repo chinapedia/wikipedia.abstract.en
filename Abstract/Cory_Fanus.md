@@ -1,1 +1,0 @@
-CORY ELIUS FANUS (born 13 March 1996) is a Barbadian badminton player.[1] He was the men's doubles champion at the 2016 Suriname International tournament partnered with Dakeil Thorpe.[2] Fanus represented his country at the 2018 Commonwealth Games in Gold Coast.[3]

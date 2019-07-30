@@ -1,1 +1,0 @@
-ANGELA JOSEPHINE (born March 18, 1967) is an American indie folk singer-songwriter, musician, author and visual artist. She began her musical career back in 2002 when she appeared at a Border's Open Mic in Northern Michigan.[1]

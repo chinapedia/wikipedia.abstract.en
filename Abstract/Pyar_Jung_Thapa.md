@@ -1,1 +1,0 @@
-PYAR JUNG THAPA () was Chief of Army Staff (COAS) of Nepalese Army from 10 September 2003 to 9 September 2006 A.D. In 2006 A.D., he had held talk with Girija Prasad Koirala to opt out position of COAS for Rookmangud Katawal. [1] Later, Rookmangud succeeded Thapa.

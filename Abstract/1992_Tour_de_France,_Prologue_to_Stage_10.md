@@ -1,1 +1,0 @@
-Route_of_the_1992_Tour_de_France.png The 1992 Tour de France was the 79th edition of Tour de France, one of cycling's Grand Tours. The Tour began in San Sebastián in Spain with a prologue individual time trial on 4 July, and Stage 10 occurred on 14 July with a flat stage to Strasbourg. The race finished on the Champs-Élysées in Paris on 26 July.

@@ -1,1 +1,0 @@
-PEDRO CEBALLOS (born September 8, 1990) is a Venezuelan freestyle wrestler. He competed in the men's freestyle 86 kg event at the 2016 Summer Olympics, in which he lost the bronze medal match to Sharif Sharifov.[1][2]

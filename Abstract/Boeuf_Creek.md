@@ -1,1 +1,0 @@
-BOEUF CREEK is a stream in Franklin and Gasconade counties in the U.S. state of Missouri.[1] Boeuf Creek is a tributary to the Missouri River.[2] Alternate names include _Buffalo Creek, Beef Creek, Boeuse Creek, Riviere au Boeuf_ and variations.[3]

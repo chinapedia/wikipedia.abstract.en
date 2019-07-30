@@ -1,1 +1,0 @@
-The LABOR THEORY OF VALUE (LTV) is a heterodox theory of value that argues that the economic value of a good or service is determined by the total amount of "socially necessary labor" required to produce it.

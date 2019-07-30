@@ -1,1 +1,0 @@
-NOWHERE BOYS is a 5-piece pop rock band in Hong Kong formed in 2015. It is currently under record label Frenzi Music. Band members include vocalist/guitarist Van Chan, drummer Nate Wong, guitarist Kenneth Angus, keyboardist/ violinist Fisher Kan, and bassist Hansun Chan. Nowhere Boys classified their music as ‘Cinematic Rock’, most of their songs are inspired by movies.

@@ -1,1 +1,0 @@
-SAINT ANGILBERT ( – 18 February 814), sometimes known as ANGILBERK or ENGELBERT, was a noble Frankish poet who was educated under Alcuin and served Charlemagne as a secretary, diplomat, and son-in-law. He was venerated as a pre-Congregation saint and is still honored on the day of his death, 18 February.

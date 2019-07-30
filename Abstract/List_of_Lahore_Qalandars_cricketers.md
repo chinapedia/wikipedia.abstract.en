@@ -1,1 +1,0 @@
-This is a list of CRICKETERS who have represented Lahore Qalandars in the Pakistan Super League (PSL) since the first season of the PSL in 2016.[1] Players are listed alphabetically using the standard naming format of their country of origin followed by the year(s) that they have been active as a Lahore player.

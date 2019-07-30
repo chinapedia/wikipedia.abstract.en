@@ -1,1 +1,0 @@
-JUAN MEI-SHU or NG BI-CHU (; 28 November 1928 – 28 November 2016) was a Taiwanese activist, musician, and researcher. Her father was a victim of the 228 Incident, an anti-government uprising that occurred in 1947 when she was eighteen. She spent much of her life studying the event and the subsequent White Terror period.

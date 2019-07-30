@@ -1,1 +1,0 @@
-AZTLAN UNDERGROUND is a band from Los Angeles, California that combines Hip-Hop, Punk Rock, Jazz, and electronic music with Chican@ and Native American themes, and indigenous instrumentation. They are often cited as progenitors of Chican@/Native rap and hip-hop.[1][2][3]

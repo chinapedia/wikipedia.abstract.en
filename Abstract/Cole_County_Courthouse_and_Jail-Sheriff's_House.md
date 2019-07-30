@@ -1,1 +1,0 @@
-COLE COUNTY COURTHOUSE AND JAIL-SHERIFF'S HOUSE is a historic courthouse, jail and sheriff's residence, located in Jefferson City, Cole County, Missouri. It was built in 1896-1897 and is a three-story, Romanesque Revival style, stone building. It measures 107 feet by 69 feet and features corner pavilions and a central clock tower.[1]

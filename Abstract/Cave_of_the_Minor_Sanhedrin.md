@@ -1,1 +1,0 @@
-מערת_הסנהדרין_הקטנה.jpeg The CAVE OF THE MINOR SANHEDRIN is a burial cave located next to the Tomb of Simeon the Just in the Sheikh Jarrah neighborhood of Jerusalem. It contains 26 burial niches, in which the 26 members of the Minor Sanhedrin are said to be buried. There are also other burial caves in the complex.

@@ -1,1 +1,0 @@
-_IT'S ABOUT LUV_ is the first solo album by Bad Brains lead singer H.R. (the band is also known as HUMAN RIGHTS). It was first released as an LP by Olive Tree Records (H.R.'s own label) in 1985[1] and reissued in 1986 by SST Records (#SST 179).

@@ -1,1 +1,0 @@
-CARL AUSTIN-BEHAN (born 1973) is a British former politician and community activist who currently serves as LGBT adviser to the Mayor of Greater Manchester. He served as Lord Mayor of Manchester from May 2016 to May 2017, being its first openly gay Lord Mayor. He was Labour councillor for Burnage from 2011 to 2018.

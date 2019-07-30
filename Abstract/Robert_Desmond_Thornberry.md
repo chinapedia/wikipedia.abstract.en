@@ -1,1 +1,0 @@
-ROBERT DESMOND THORNBERRY (November 8, 1907 – 1969) was a businessperson and politician in Ontario, Canada. He represented Hamilton Centre in the Legislative Assembly of Ontario from 1943 to 1945 and from 1948 to 1951 as a Co-operative Commonwealth Federation (CCF) member.[1][2]

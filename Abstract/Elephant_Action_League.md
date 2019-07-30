@@ -1,1 +1,0 @@
-The ELEPHANT ACTION LEAGUE (EAL) is an environmental non-governmental organization founded in 2013 in the United States by Andrea Crosta, Gilda Moratti, and Francesco Rocca.[1][2] EAL is based in Los Angeles, California.

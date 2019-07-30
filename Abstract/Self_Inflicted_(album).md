@@ -1,1 +1,0 @@
-_SELF INFLICTED_ is the fourth studio album by American deathcore band Chelsea Grin. The album debuted at number 105 on the Billboard 200.[1] This is the band's last album to feature Alex Koehler, Jake Harmond, and Dan Jones before their departures in 2018.

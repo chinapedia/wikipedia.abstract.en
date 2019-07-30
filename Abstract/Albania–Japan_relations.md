@@ -1,1 +1,0 @@
-ALBANIA–JAPAN RELATIONS are the bilateral relations between Albania and Japan. Japan’s Ambassador in Rome is accredited to Albania,[1] while an Honorary Consulate in Tirana assists Japanese interests in Albania. Albania has an embassy in Tokyo.[2]

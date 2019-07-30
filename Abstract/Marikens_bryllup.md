@@ -1,1 +1,0 @@
-_MARIKENS BRYLLUP_ (Mariken's Wedding) is a Norwegian comedy from 1972 directed by Knut Andersen with a script by Nicole Macé.[1] Anne Marit Jacobsen plays the title role as Mariken, who marries Per Egil, played by Geir Børresen. The film is about the wedding and presents many family members and friends that come to the wedding.[2]

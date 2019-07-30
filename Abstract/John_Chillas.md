@@ -1,1 +1,0 @@
-JOHN STALKER CHILLAS (born 31 July 1951) is a Scottish professional golfer. He won the Scottish PGA Championship twice, in 1976 and 2001. He has also won three times on the European Seniors Tour. He tied for 52nd place in the 1984 Open Championship.

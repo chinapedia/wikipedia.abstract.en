@@ -1,1 +1,0 @@
-ST. JOHN'S is the capital and largest city of Antigua and Barbuda, located in the West Indies in the Caribbean Sea and with a population of 22,193,[1] St. John's is the commercial centre of the nation and the chief port of the island of Antigua.

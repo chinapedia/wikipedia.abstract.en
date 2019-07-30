@@ -1,1 +1,0 @@
-'''Helle Rotbøll ''' (born 8 October 1963) is a Danish footballer who played as a defender for the Denmark women's national football team. She was part of the team at the 1991 FIFA Women's World Cup and UEFA Women's Euro 1991. At the club level, she played for HEI Aarhus in Denmark.[1]

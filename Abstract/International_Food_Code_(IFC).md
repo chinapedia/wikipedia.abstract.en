@@ -1,1 +1,0 @@
-The INTERNATIONAL FOOD CODE (IFC) is a code which uniquely identifies foods from national food composition databases (FCDBs) around the world. It has also become popular among suppliers and manufacturers to uniquely identify their food products (see "Use on barcodes and numeric systems" below).

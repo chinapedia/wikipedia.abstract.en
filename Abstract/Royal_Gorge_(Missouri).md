@@ -1,1 +1,0 @@
-ROYAL GORGE is a gap in Iron County in the U.S. state of Missouri.[1] The gap is at a point where Minor Creek cuts through a ridge in Ketcherside Mountain. Routes 72 and 21 pass through the gap southwest of Ironton.[2]

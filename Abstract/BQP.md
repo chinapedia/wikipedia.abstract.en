@@ -1,1 +1,0 @@
-In computational complexity theory, BOUNDED-ERROR QUANTUM POLYNOMIAL TIME (BQP) is the class of decision problems solvable by a quantum computer in polynomial time, with an error probability of at most 1/3 for all instances.[1] It is the quantum analogue of the complexity class BPP.

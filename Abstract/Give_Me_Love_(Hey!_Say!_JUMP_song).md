@@ -1,1 +1,0 @@
-"GIVE ME LOVE" is a single by Hey! Say! JUMP. It was released on December 14, 2016. The song is being used as the theme song for the Fuji TV drama _Cain and Abel_. The show, which stars group member Ryosuke Yamada, began airing on October 17, 2016.[1]

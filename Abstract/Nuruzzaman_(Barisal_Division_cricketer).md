@@ -1,1 +1,0 @@
-NURUZZAMAN (born 20 October 1994) is a Bangladeshi first-class cricketer who plays for Barisal Division.[1] In September 2017, he scored his maiden first-class century playing for Barisal Division against Khulna Division in the 2017–18 National Cricket League.[2]

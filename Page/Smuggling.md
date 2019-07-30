@@ -1,4 +1,4 @@
-H.M._Revenue_&_Customs_officers_with_seized_smuggled_tobacco,_2014.jpg Hudiakov_Smugglers.jpg at the Russian border, 1853. A painting by Vasily Hudiakov.]] SMUGGLING is the illegal transportation of objects, substances, information or people, such as out of a house or buildings, into a prison, or across an international border, in violation of applicable laws or other regulations.
+at the Russian border, 1853. A painting by Vasily Hudiakov.]] SMUGGLING is the illegal transportation of objects, substances, information or people, such as out of a house or buildings, into a prison, or across an international border, in violation of applicable laws or other regulations.
 
 There are various motivations to smuggle. These include the participation in illegal trade, such as in the drug trade, illegal weapons trade, exotic wildlife trade, illegal immigration or illegal emigration, tax evasion, providing contraband to a prison inmate, or the theft of the items being smuggled.
 
@@ -12,7 +12,7 @@ The verb _smuggle_, from Low German _smuggeln_ or Dutch _smokkelen_ (="to transp
 
 History
 
-Cigarette_smuggling_with_a_book.JPG Smuggling has a long and controversial history, probably dating back to the first time at which duties were imposed in any form, or any attempt was made to prohibit a form of traffic. Smuggling is often associated with efforts by authorities to prevent the importation of certain contraband items or non-taxed goods; however, there has also been smuggling based on illegally exporting goods. In England smuggling first became a recognised problem in the 13th century, following the creation of a national customs collection system by Edward I in 1275.[2] Medieval smuggling tended to focus on the export of highly taxed export goods — notably wool and hides.[3] Merchants also, however, sometimes smuggled other goods to circumvent prohibitions or embargoes on particular trades. Grain, for instance, was usually prohibited from export, unless prices were low, because of fears that grain exports would raise the price of food in England and thus cause food shortages and / or civil unrest. Following the loss of Gascony to the French in 1453, imports of wine were also sometimes embargoed during wars to try and deprive the French of the revenues that could be earned from their main export.
+Smuggling has a long and controversial history, probably dating back to the first time at which duties were imposed in any form, or any attempt was made to prohibit a form of traffic. Smuggling is often associated with efforts by authorities to prevent the importation of certain contraband items or non-taxed goods; however, there has also been smuggling based on illegally exporting goods. In England smuggling first became a recognised problem in the 13th century, following the creation of a national customs collection system by Edward I in 1275.[2] Medieval smuggling tended to focus on the export of highly taxed export goods — notably wool and hides.[3] Merchants also, however, sometimes smuggled other goods to circumvent prohibitions or embargoes on particular trades. Grain, for instance, was usually prohibited from export, unless prices were low, because of fears that grain exports would raise the price of food in England and thus cause food shortages and / or civil unrest. Following the loss of Gascony to the French in 1453, imports of wine were also sometimes embargoed during wars to try and deprive the French of the revenues that could be earned from their main export.
 
 Most studies of historical smuggling have been based on official sources — such as court records, or the letters of Revenue Officers. According to Dr Evan Jones (University of Bristol), the trouble with these is that 'they only detail the activities of those dumb enough to get caught'.[4] This has led him and others, such as Prof Huw Bowen (University of Swansea) to use commercial records to reconstruct smuggling businesses.[5] Jones' study focuses on smuggling in Bristol in the mid-16th century, arguing that the illicit export of goods like grain and leather represented a significant part of the city's business, with many members of the civic elite engaging in it.[6] Grain smuggling by members of the civic elite, often working closely with corrupt customs officers, has also been shown to have been prevalent in East Anglia during the later 16th century.[7]
 
@@ -35,8 +35,6 @@ Types of smuggling
 
 Goods
 
-First_Opium_War_Smuggling.jpg 2018_Signalisation_frontière_cannabis_04.jpg
-
 Much smuggling occurs when enterprising merchants attempt to supply demand for a good or service that is illegal or heavily taxed. As a result, illegal drug trafficking, and the smuggling of weapons (illegal arms trade), as well as the historical staples of smuggling, alcohol and tobacco,[13] are widespread. As the smuggler faces significant risk of civil and criminal penalties if caught with contraband, smugglers are able to impose a significant price premium on smuggled goods. The profits involved in smuggling goods appear to be extensive. The Iron Law of Prohibition dictates that greater enforcement results in more potent alcohol and drugs being smuggled.
 
 Profits also derive from avoiding taxes or levies on imported goods. For example, a smuggler might purchase a large quantity of cigarettes in a place with low taxes and smuggle them into a place with higher taxes, where they can be sold at a far higher margin than would otherwise be possible. It has been reported that smuggling one truckload of cigarettes within the United States can lead to a profit of US$2 million.[14]
@@ -49,7 +47,7 @@ People smuggling can be used to rescue a person from oppressive circumstances. F
 
 Human trafficking
 
-Germany_human_traffic.JPG Lucy_Liu_@_USAID_Human_Trafficking_Symposium_02.jpg Lucy Liu spoke out against human trafficking and lauded USAID efforts to increase awareness]] Trafficking of human beings, sometimes called human trafficking, or in the much referred to case of sexual services, sex trafficking, is not the same as people smuggling. A smuggler will facilitate illegal entry into a country for a fee, and on arrival at their destination, the smuggled person is free; the trafficking victim is coerced in some way. Victims do not agree to be trafficked: they are tricked, lured by false promises, or forced into it. Traffickers use coercive tactics including deception, fraud, intimidation, isolation, physical threats and use of force, debt bondage or even force-feeding drugs to control their victims.
+Lucy Liu spoke out against human trafficking and lauded USAID efforts to increase awareness]] Trafficking of human beings, sometimes called human trafficking, or in the much referred to case of sexual services, sex trafficking, is not the same as people smuggling. A smuggler will facilitate illegal entry into a country for a fee, and on arrival at their destination, the smuggled person is free; the trafficking victim is coerced in some way. Victims do not agree to be trafficked: they are tricked, lured by false promises, or forced into it. Traffickers use coercive tactics including deception, fraud, intimidation, isolation, physical threats and use of force, debt bondage or even force-feeding drugs to control their victims.
 
 While the majority of victims are women,[16] and sometimes children, other victims include men, women and children forced or conned into manual or cheap labor. Due to the illegal nature of trafficking, the exact extent is unknown. A U.S. government report published in 2003 estimates that 800,000-900,000 people worldwide are trafficked across borders each year.[17] This figure does not include those who are trafficked internally.
 
@@ -71,7 +69,7 @@ Very often the traveling conditions are inhumane: the migrants are overcrowded i
 
 Wildlife
 
-Bird_smuggler.jpg at a U.S. border]]
+at a U.S. border]]
 
 Wildlife smuggling results from the demand for exotic species and the lucrative nature of the trade. The CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) regulates the movement of endangered wildlife across political borders.[23]
 
@@ -89,7 +87,7 @@ Contrarily, in a research by Tat Chee Tsui in 2016, even if increasing of cigare
 
 Methods
 
-Bolletjes.jpg of an abdomen piled up with cocaine]]
+of an abdomen piled up with cocaine]]
 
 In smuggling, concealment can involve concealing the smuggled goods on a person's clothing, luggage or inside a body cavity. Some smugglers hide the whole transportation vehicle or ship used to bring the items into an area. Avoiding border checks, such as by small ships, private airplanes, through overland smuggling routes, smuggling tunnels and even small submersibles.[27][28] This also applies for illegally passing a border oneself, for illegal immigration or illegal emigration. In many parts of the world, particularly the Gulf of Mexico, the smuggling vessel of choice is the go-fast boat.
 

@@ -1,1 +1,0 @@
-LISTERINE is a brand of antiseptic mouthwash product. It is promoted with the slogan "Kills germs that cause bad breath". Named after Joseph Lister, a pioneer of antiseptic surgery, Listerine was developed in 1879 by Joseph Lawrence, a chemist in St. Louis, Missouri.[1]

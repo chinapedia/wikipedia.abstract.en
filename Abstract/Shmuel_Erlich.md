@@ -1,1 +1,0 @@
-Shmuel_Erlich.jpg H. SHMUEL ERLICH (born July 11, 1937 in Frankfurt) is an Israeli psychoanalyst, organizational consultant and psychologist of clinical psychology. Since 1990 he has been professor of the Sigmund Freud Chair at the Hebrew University of Jerusalem. In 2005 he became emeritus.[1] Erlich is one of the spiritual fathers of the Nazareth-Conferences.[2]

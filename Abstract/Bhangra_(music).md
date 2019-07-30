@@ -1,1 +1,0 @@
-BHAṄGṚĀ ( (Shahmukhi), ਭੰਗੜਾ (Gurmukhi); ) is a type of upbeat popular music associated with the Punjab region in the northern part of the Indian subcontinent, and the Punjabi diaspora in Europe and North America.

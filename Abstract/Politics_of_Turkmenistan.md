@@ -1,1 +1,0 @@
-The POLITICS OF TURKMENISTAN takes place in the framework of a presidential republic, whereby the President of Turkmenistan is both head of state and head of government. No true opposition parties are allowed; every registered political party supports the second and current President Gurbanguly Berdimuhamedow.[1]

@@ -1,1 +1,0 @@
-NEIL RICHARD ORMANDY (born April 1, 1981) is a British musician, songwriter and producer based in Los Angeles. He co-wrote James Arthur's worldwide hit single "Say You Won't Let Go", and is the owner of SILO Music.

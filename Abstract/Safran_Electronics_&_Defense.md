@@ -1,1 +1,0 @@
-SAFRAN ELECTRONICS & DEFENSE, formerly known as SAGEM DÉFENSE SÉCURITÉ, is a French company specializing in optronics, avionics and electronic systems, as well as software for civil and military applications in the naval, aeronautical and space sectors. It is one of the ten entities that make up the Safran Group.

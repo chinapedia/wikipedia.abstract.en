@@ -1,1 +1,0 @@
-FRANCESCO FEDERICO FALCO (Penne April 12, 1866 - Livorno August 11, 1944) was an Italian doctor, who fought for the Cuban War of Independence as coronel "commander of the Health Corp in the Liberation Army of Cuba".[1]

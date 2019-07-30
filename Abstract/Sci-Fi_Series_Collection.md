@@ -1,1 +1,0 @@
-SCI-FI SERIES COLLECTION was the name of a television program that consisted of reruns of various science fiction, horror and fantasy shows that aired for only one season on the Sci-Fi Channel. During its run, the program aired every weeknight from 9:00 PM to 10:00 PM EST.[1]

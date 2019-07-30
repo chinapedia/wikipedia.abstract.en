@@ -1,1 +1,0 @@
-BAZIDPUR is a village in Shaheed Bhagat Singh Nagar district of Punjab State, India. It is situated on Wazidpur-Ludhiana link road and located away from postal head office Garcha, from Rahon, from district headquarter Shaheed Bhagat Singh Nagar and from state capital Chandigarh. The village is administrated by Sarpanch an elected representative of the village.[1]

@@ -1,1 +1,0 @@
-_HAYWARD V ZURICH INSURANCE COMPANY PLC_ [2016] UKSC 48 was a 2016 judgment of the Supreme Court of the United Kingdom that allowed an insurer to set aside a settlement agreement because of fraudulent misrepresentation by the claimant even when the insurer had misgivings about the claim prior to settling.

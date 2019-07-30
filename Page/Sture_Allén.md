@@ -1,4 +1,4 @@
-Sture_Allén,_Bokmässan_2013_3_(crop).jpg STURE ALLÉN (born 31 December 1928) is a Swedish retired professor of computational linguistics at the University of Gothenburg, who was the permanent secretary of the Swedish Academy between 1986 and 1999. Born in Gothenburg, he was elected to chair 3 of the Swedish Academy in 1980.[1] He is also a member of the Norwegian Academy of Science and Letters.[2]
+STURE ALLÉN (born 31 December 1928) is a Swedish retired professor of computational linguistics at the University of Gothenburg, who was the permanent secretary of the Swedish Academy between 1986 and 1999. Born in Gothenburg, he was elected to chair 3 of the Swedish Academy in 1980.[1] He is also a member of the Norwegian Academy of Science and Letters.[2]
 
 
 Bibliography

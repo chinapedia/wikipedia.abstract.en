@@ -1,1 +1,0 @@
-FALAKNUMA JANGAON MEMU, is a suburban service running between Falaknuma and Jangaon in the Telangana state. The Secundrabad Division of South Central Railways of Indian Railways administers this train. The train covers in 2 hours and 45 minutes. Falaknuma_Jangaon_MEMU_departing_Bibinagar.jpg The train runs from Falaknuma, the suburban station of Hyderabad, to Jangaon.

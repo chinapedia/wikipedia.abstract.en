@@ -1,1 +1,0 @@
-NIMISHA MEHTA [1][2][3] is a British actress, model and dancer, of Indian descent, working in the Hindi film industry. She made her Hindi film debut in' _Days of Tafree_[4][5][6][7](remake of Gujarati super hit film Chhello Divas) in 2016. She is also known for her work as Aisha in A.I.SHA My Virtual Girlfriend.

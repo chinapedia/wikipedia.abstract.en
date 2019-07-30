@@ -1,1 +1,0 @@
-CANNABIS IN MALAYSIA is illegal. Malaysian legislation provides for a mandatory death penalty for convicted drug traffickers. Individuals arrested in possession of 200 grams (seven ounces) of marijuana are presumed by law to be trafficking in drugs. Individuals arrested in possession of 50 grams (1,5 ounces) or less will be sentenced to imprisonment up to 10 years.[1]

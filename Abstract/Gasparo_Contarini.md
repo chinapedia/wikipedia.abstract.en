@@ -1,1 +1,0 @@
-Gasparo_Contarini.jpg GASPARO CONTARINI (16 October 1483 – 24 August 1542) was an Italian diplomat, cardinal and Bishop of Belluno. He was one of the first proponents of the dialogue with Protestants, after the Reformation.

@@ -61,7 +61,7 @@ In addition, reserve elements consist of the:
 
 National Command Authority
 
-Armed_Forces_Day_of_South_Korea_(1973)_1.jpg inspecting the troops at the 1973 Republic of Korea Armed Forces Day parade.]] The President is the Commander-in-Chief Forces ex officio. The military authority runs from the President to the Minister of National Defense, who is commonly (but not legally bound to be) a retired 4-star General (equivalent to a British Army/Commonwealth full General or a Royal Navy/Commonwealth Admiral).
+inspecting the troops at the 1973 Republic of Korea Armed Forces Day parade.]] The President is the Commander-in-Chief Forces ex officio. The military authority runs from the President to the Minister of National Defense, who is commonly (but not legally bound to be) a retired 4-star General (equivalent to a British Army/Commonwealth full General or a Royal Navy/Commonwealth Admiral).
 
 The Chairman of the Joint Chiefs of Staff, a 4-star General or Admiral, is the Senior Officer of the Armed Forces and has the Operational Authority over the Armed Forces, with directions from the President through the Minister of Defense. Traditionally (with one exception), the position is filled by an officer of the Army. The chain of Operational Authority runs straight from the Chairman of the Joint Chiefs of Staff to the Commandants of the several Operational Commands. Currently there are five Operational Commands in the Army, two in the Navy (including the Marine Corps) and one in the Air Force.
 
@@ -78,7 +78,7 @@ Service branches
 
 ROK Army (대한민국 육군)
 
-Panmunjeom_DMZ.png (Joint Security Area) between the blue buildings. North Korea is in the background.]]
+(Joint Security Area) between the blue buildings. North Korea is in the background.]]
 
 The ROK Army (ROKA) is by far the largest of the military branches, with 495,000 personnel as of 2014. This comes as a response to both the mountainous terrain native to the Korean Peninsula (70% mountainous) as well as the heavy North Korean presence, with its 1-million-strong army, two-thirds of which is permanently garrisoned in the frontline near the DMZ. The current administration has initiated a program of self-defense, whereby South Korea would be able to fully counter the North Korean threat with purely domestic means within the next two decades.
 
@@ -90,7 +90,7 @@ The army will take the brunt of the personnel reduction part of the Defense Refo
 
 ROK Navy (대한민국 해군)
 
-ROKS_Munmu_the_Great_(DDH_976).jpg underway in July 2006]] US_Navy_100730-N-8539M-181_The_Republic_of_Korea_Navy_guided-missile_destroyer_ROKS_Sejong_the_Great_(DDG_991)_returns_to_Joint_Base_Pearl_Harbor-Hickam_after_participating_in_Rim_of_the_Pacific_(RIMPAC)_2010_exercises.jpg Sejong the Great (DDG 991), a _King Sejong the Great_ -class guided-missile destroyer]] The ROK Navy (ROKN) is the armed forces branch responsible for conducting naval operations and amphibious landing operations.[15] As a part of its mission, the ROK Navy has engaged in several peacekeeping operations since the turn of the century.[16] The ROK Navy includes the Republic of Korea Navy Headquarters, Republic of Korea Fleet, Naval Logistics Command, Naval Education and Training Command, Naval Academy, and Republic of Korea Marine Corps, which is a quasi-autonomous organization. The Chief of Naval Operations (CNO) is the highest-ranking officer (four-star admiral) of the ROK Navy.
+underway in July 2006]] Sejong the Great (DDG 991), a _King Sejong the Great_ -class guided-missile destroyer]] The ROK Navy (ROKN) is the armed forces branch responsible for conducting naval operations and amphibious landing operations.[15] As a part of its mission, the ROK Navy has engaged in several peacekeeping operations since the turn of the century.[16] The ROK Navy includes the Republic of Korea Navy Headquarters, Republic of Korea Fleet, Naval Logistics Command, Naval Education and Training Command, Naval Academy, and Republic of Korea Marine Corps, which is a quasi-autonomous organization. The Chief of Naval Operations (CNO) is the highest-ranking officer (four-star admiral) of the ROK Navy.
 
 In 1995, Admiral An Pyongtae, the 20th Chief of Naval Operations, presented the vision of building a "blue ocean navy" for the future of the ROK Navy in his inaugural address.[17] In 2001, then President Kim Dae-jung announced a plan for building up a Strategic Mobile Fleet.[18] As a part of "Defense Reform 2020," which was proposed by the Roh Moo-hyun Administration, the ROK Navy is required to reform the organizations under Commander-in-Chief Republic of Korea Fleet (CINCROKFLT) by upgrading a submarine operations command (to fleet submarine force), a naval aviation operations command (to fleet air arm), and by establishing some Mobile Flotillas.[19] The ROK Navy aims to become a blue-water navy by 2020.[20]
 
@@ -100,13 +100,13 @@ The ROK Navy hosted its second international fleet review off the coast of Busan
 
 ROK Marine Corps (대한민국 해병대)
 
-RoK_Marines.jpg Although the National Armed Forces Organisation Act stipulates that the ROK Navy includes the Republic of Korea Marine Corps, the ROKMC is a semi-autonomous organization that carries out much of its functions independently.[21] During the Korean War, the ROKMC earned their nickname as "귀신잡는 해병대" ().[22]
+Although the National Armed Forces Organisation Act stipulates that the ROK Navy includes the Republic of Korea Marine Corps, the ROKMC is a semi-autonomous organization that carries out much of its functions independently.[21] During the Korean War, the ROKMC earned their nickname as "귀신잡는 해병대" ().[22]
 
 The motto of the ROK Marine Corps is "한번 해병은 영원한 해병" ().
 
 ROK Air Force (대한민국 공군)
 
-F-15Ks_ROKAF_with_USAF_F-16C_2009.jpg F-15K strike fighters]] The ROK Air Force (ROKAF) maintains a modern air force in order to defend itself from various modes of threats, including the North Korean Army. The ROK Air Force fields some 450 combat aircraft of American design. In contrast, the North Korean Army has roughly 650 combat aircraft, but mostly obsolete types of Soviet and Chinese origin.
+F-15K strike fighters]] The ROK Air Force (ROKAF) maintains a modern air force in order to defend itself from various modes of threats, including the North Korean Army. The ROK Air Force fields some 450 combat aircraft of American design. In contrast, the North Korean Army has roughly 650 combat aircraft, but mostly obsolete types of Soviet and Chinese origin.
 
 Korea began a program for the development of indigenous jet trainers beginning in 1997. This project eventually culminated in the KAI T-50, dubbed the "Golden Eagle" which is used as a trainer for jet pilots, now being exported to Indonesia. A multirole all-weather version of the T-50 is the modified FA-50, which can be externally fitted with Rafael's Sky Shield or LIG Nex1's ALQ-200K ECM pods, Sniper or LITENING targeting pods, and Condor 2 reconnaissance pods to further improve the fighter's electronic warfare, reconnaissance, and targeting capabilities.[23][24] Other improved weapon systems over FA-50 include SPICE multifunctional guidance kits,[25] Textron CBU-97/105 Sensor Fuzed Weapon with WCMD tail kits, JDAM, and JDAM-ER for more comprehensive air-to-ground operations, and AIM-120 missiles for BVR air-to-air operations.[26] FA-50 has provisions for, but does not yet integrate, Python and Derby missiles, also produced by Rafael, and other anti-ship missiles, stand-off weapons, and sensors to be domestically developed by Korea.[27][28][29]
 

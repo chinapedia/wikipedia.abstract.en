@@ -1,1 +1,0 @@
-Playing_acoustic_guitar.jpg a steel-string guitar]] C.F._Martin_000-28EC_Eric_Clapton_model_Acoustic_Guitar.jpg Eric Clapton model]] Fender_DG-41SCE_Electro-acoustic_guitar.JPG DG-41SCE]] Epiphone_PR-5E_VS_Cutaway_Acoustic_Electric_Guitar_(Vintage_Sunburst).jpg PR-5E VS]]

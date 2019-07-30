@@ -1,1 +1,0 @@
-CHARLES MURDOCH is an Australian electronic record producer and musician from Brisbane.[1] As CHARLIE WHY he worked as a DJ and musician.[2] Why's debut six-track extended play, _I was Deliciously Wired_, was released in June 2010 on the Bang Gang label.[3] He later signed to Future Classic Records. As a producer he works for Rio Lobotomy.[4][5]

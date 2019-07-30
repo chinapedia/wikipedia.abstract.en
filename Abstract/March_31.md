@@ -1,1 +1,0 @@
-It is the last day of the first quarter of the year.

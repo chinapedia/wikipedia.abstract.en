@@ -1,1 +1,0 @@
-The PREMIER OF TASMANIA is the head of the executive government in the Australian state of Tasmania. By convention, the leader of the party or political grouping which has majority support in the House of Assembly is invited by the Governor of Tasmania to be Premier and principal adviser.[1]

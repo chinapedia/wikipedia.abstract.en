@@ -1,1 +1,0 @@
-DYNAMIC SCALING (sometimes known as FAMILY-VICSEK SCALING[1][2]) is a litmus test that shows whether an evolving system exhibits self-similarity. In general a function is said to exhibit dynamic scaling if it satisfies:

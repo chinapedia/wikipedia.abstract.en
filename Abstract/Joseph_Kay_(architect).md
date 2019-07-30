@@ -1,1 +1,0 @@
-JOSEPH KAY (17751847) was an English architect, particularly active in the early years of the 19th century, and associated with the layout of central Greenwich and with Hastings. He was one of the original members of the Royal Institute of British Architects, and was elected a fellow in 1834.[1]

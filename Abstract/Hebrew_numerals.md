@@ -1,1 +1,0 @@
-The system of HEBREW NUMERALS is a quasi-decimal alphabetic numeral system using the letters of the Hebrew alphabet. The system was adapted from that of the Greek numerals in the late 2nd century BCE.

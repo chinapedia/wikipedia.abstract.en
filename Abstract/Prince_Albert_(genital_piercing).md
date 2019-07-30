@@ -1,1 +1,0 @@
-The PRINCE ALBERT (PA) is one of the most common male genital piercings.[1] The PA is "a ring-style piercing that extends along the underside of the glans from the urethral opening to where the glans meets the shaft of the penis."[2] The related "reverse Prince Albert piercing" enters through the urethra and exits through a hole pierced in the top of the glans.[3]

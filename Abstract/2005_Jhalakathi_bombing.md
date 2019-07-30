@@ -1,1 +1,0 @@
-2005 JHALAKATHI BOMBING was a bombing of a car transporting Judges to the District Court of Jhalakathi.[1] Jama'atul Mujahideen Bangladesh (JMB) claimed responsibility for the bombings. The group, led by Shaykh Abdur Rahman and Siddiqur Rahman (also known as Bangla Bhai).[2][3]

@@ -1,1 +1,0 @@
-Bachlut1.gif (1685–1750). This is the beginning of the _Prelude from the Suite for Lute in G minor_ BWV 995 (transcription of _Cello Suite No. 5_, BWV 1011).]] MUSIC NOTATION or MUSICAL NOTATION is any system used to visually represent aurally perceived music played with instruments or sung by the human voice through the use of written, printed, or otherwise-produced symbols.

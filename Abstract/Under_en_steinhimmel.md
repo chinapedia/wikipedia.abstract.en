@@ -1,1 +1,0 @@
-_UNDER EN STEINHIMMEL_ (Under a Stone Sky; ) is a Norwegian war film directed by Knut Andersen, Igor Maslennikov, and Stanislav Rostotsky.[1][2] The film is a fictionalized portrayal of historical events.

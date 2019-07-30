@@ -1,1 +1,0 @@
-The is a residential building in the Toshima special ward of Tokyo, Japan. Completed in January 2011, it stands at 189.2 m (621 ft) tall,[1][2][3] with the top floor located at 182.8 m (600 ft).[4] It is the 38th tallest building in Tokyo[5] and the 55th tallest building in Japan.[6]

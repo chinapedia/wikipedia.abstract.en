@@ -1,4 +1,4 @@
-standard_deviation_diagram.svg (or bell-shaped curve) where each band has a width of 1 standard deviation – See also: 68–95–99.7 rule]] Normal-distribution-cumulative-density-function.svg
+(or bell-shaped curve) where each band has a width of 1 standard deviation – See also: 68–95–99.7 rule]]
 
 In statistics, the STANDARD DEVIATION (SD, also represented by the lower case Greek letter sigma Σ for the population standard deviation or the Latin letter s for the sample standard deviation) is a measure that is used to quantify the amount of variation or dispersion of a set of data values.[1] A low standard deviation indicates that the data points tend to be close to the mean (also called the expected value) of the set, while a high standard deviation indicates that the data points are spread out over a wider range of values.
 
@@ -34,8 +34,6 @@ Logan[4] gives the following example. Furness and Bryant[5] measured the resting
 
 The graph shows the metabolic rate for males and females. By visual inspection, it appears that the variability of the metabolic rate is greater for males than for females.
 
-Graph of metabolic rates for northern fulmars
-
 The sample standard deviation of the metabolic rate for the female fulmars is calculated as follows. The formula for the sample standard deviation is
 
 $$s = \sqrt{\frac{1}{N-1}\sum_{i=1}^N (x_i - \bar{x})^2 },$$
@@ -62,8 +60,6 @@ The denominator in the sample standard deviation formula is _N_ – 1, where _N_
 $$s = \sqrt{\frac{\sum_{i=1}^N (x_i - \bar{x})^2}{N-1} } = \sqrt{\frac{886047.09}{5}} = 420.96.$$
 
 For the male fulmars, a similar calculation gives a sample standard deviation of 894.37, approximately twice as large as the standard deviation for the females. The graph shows the metabolic rate data, the means (red dots), and the standard deviations (red lines) for females and males.
-
-Graph of standard deviation of metabolic rate of fulmars
 
 Use of the sample standard deviation implies that these 14 fulmars are a sample from a larger population of fulmars. If these 14 fulmars comprised the entire population (perhaps the last 14 surviving fulmars), then instead of the sample standard deviation, the calculation would use the population standard deviation. In the population standard deviation formula, the denominator is _N_ instead of _N_ - 1. It is rare that measurements can be taken for an entire population, so, by default, statistical computer programs calculate the sample standard deviation. Similarly, journal articles report the sample standard deviation unless otherwise specified.
 
@@ -262,7 +258,7 @@ This means that the standard deviation is equal to the square root of the differ
 
 Interpretation and application
 
-Comparison_standard_deviations.svg A large standard deviation indicates that the data points can spread far from the mean and a small standard deviation indicates that they are clustered closely around the mean.
+A large standard deviation indicates that the data points can spread far from the mean and a small standard deviation indicates that they are clustered closely around the mean.
 
 For example, each of the three populations {0, 0, 14, 14}, {0, 6, 8, 14} and {6, 6, 8, 8} has a mean of 7. Their standard deviations are 7, 5, and 1, respectively. The third population has a much smaller standard deviation than the other two because its values are all close to 7. It will have the same units as the data points themselves. If, for instance, the data set {0, 6, 8, 14} represents the ages of a population of four siblings in years, the standard deviation is 5 years. As another example, the population {1000, 1006, 1008, 1014} may represent the distances traveled by four athletes, measured in meters. It has a mean of 1007 meters, and a standard deviation of 5 meters.
 
@@ -327,7 +323,7 @@ An observation is rarely more than a few standard deviations away from the mean.
 
 Rules for normally distributed data
 
-Standard_deviation_diagram.svgs.]]
+s.]]
 
 The central limit theorem states that the distribution of an average of many independent, identically distributed random variables tends toward the famous bell-shaped normal distribution with a probability density function of
 
@@ -345,7 +341,7 @@ where $\textstyle\operatorname{erf}$ is the error function. The proportion that 
 
 If a data distribution is approximately normal then about 68 percent of the data values are within one standard deviation of the mean (mathematically, _μ_ ± _σ_, where _μ_ is the arithmetic mean), about 95 percent are within two standard deviations (_μ_ ± 2_σ_), and about 99.7 percent lie within three standard deviations (_μ_ ± 3_σ_). This is known as the _68-95-99.7 rule_, or _the empirical rule_.
 
-For various values of _z_, the percentage of values expected to lie in and outside the symmetric interval, CI = (−_zσ_, _zσ_), are as follows: Confidence_interval_by_Standard_deviation.svg Standard_deviation_by_Confidence_interval.svg
+For various values of _z_, the percentage of values expected to lie in and outside the symmetric interval, CI = (−_zσ_, _zσ_), are as follows:
 
 +--------------+-------------------+--------------------+
 | Confidence   | Proportion within | Proportion without |

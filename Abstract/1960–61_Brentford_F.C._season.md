@@ -1,1 +1,0 @@
-During the 1960–61 English football season, Brentford competed in the Football League Third Division. An abundance of draws led to a 17th-place finish and it was the last of seven seasons to feature the "Terrible Twins" strike partnership of Jim Towers and George Francis.

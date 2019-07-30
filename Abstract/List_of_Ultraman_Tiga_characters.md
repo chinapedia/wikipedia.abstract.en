@@ -1,1 +1,0 @@
-is a Japanese tokusatsu TV show and is the 11th show in the Ultra Series. Produced by Tsuburaya Productions, _Ultraman Tiga_ was aired at 6:00pm and aired between September 7, 1996 to August 30, 1997. Following _Tiga_'s conclusion, the series was succeeded by from 7 September 1997 until 30 August 1998.

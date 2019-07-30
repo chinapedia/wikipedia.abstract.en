@@ -1,1 +1,0 @@
-GRAIG-Y-RHACCA is a housing estate bordering Trethomas, Bedwas and Machen in the borough of Caerphilly, southeastern Wales. The town is about 8 miles to the west of Newport and 4 miles to the east of Caerphilly. The town mainly consists of local authority tenancies and privately owned estates.

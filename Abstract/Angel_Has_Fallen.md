@@ -1,1 +1,0 @@
-_ANGEL HAS FALLEN_ is an upcoming American action thriller film directed by Ric Roman Waugh and starring Gerard Butler and Morgan Freeman. It is the third film in the _Olympus Has Fallen_ film series, following _Olympus Has Fallen_ (2013) and _London Has Fallen_ (2016).

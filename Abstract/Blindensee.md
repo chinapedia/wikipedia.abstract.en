@@ -1,1 +1,0 @@
-The BLINDENSEE is a raised bog lake on the territory of Schönwald im Schwarzwald in the Black Forest in Germany. It lies within the county of Schwarzwald-Baar-Kreis in the state of Baden-Württemberg. It is only accessible on a board walk and lies with raised bog area that has been designated as a nature reserved near the watershed between the rivers Gutach and Elz.

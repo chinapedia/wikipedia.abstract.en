@@ -1,1 +1,0 @@
-The SWANTON SCHOOL is a historic school building at 53 Church Street in the village of Swanton, Vermont. Built in 1912, it served first as a primary school and then a high school, until its closure in 1993. A high quality example of Colonial Revival architecture, it has been converted into senior housing. It was listed on the National Register of Historic Places in 2002.[1]

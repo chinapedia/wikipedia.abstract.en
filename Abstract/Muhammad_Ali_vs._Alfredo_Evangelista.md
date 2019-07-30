@@ -1,1 +1,0 @@
-Muhammad Ali and Alfredo Evangelista fought a boxing match on May 16, 1977. Ali won the bout through a unanimous decision on points (71-65, 72-64 72-64). There was a crowd of about 12,000 at the Capital Centre and this bout was televised in primetime on ABC.

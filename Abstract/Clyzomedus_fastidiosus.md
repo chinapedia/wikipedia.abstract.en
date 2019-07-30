@@ -1,1 +1,0 @@
-_CLYZOMEDUS FASTIDIOSUS_ is a species of beetle in the family Cerambycidae. It was described by Jean Baptiste Boisduval in 1835, originally under the genus _Acanthocinus_. It is known from Papua New Guinea, Indonesia, and the Philippines.[1]

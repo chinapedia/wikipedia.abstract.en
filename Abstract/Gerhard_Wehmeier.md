@@ -1,1 +1,0 @@
-GERHARD WEHMEIER (1935–2009)[1] was an Old Testament Scholar hailing from Germany from the Evangelical Church of Hesse Electorate-Waldeck. Wehmeier taught Old Testament at the United Theological College, Bangalore from 1973 through 1978.[2]

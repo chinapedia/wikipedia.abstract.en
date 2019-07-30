@@ -1,1 +1,0 @@
-The 2016 EURO RX OF BELGIUM was the second round of the forty-first season of the FIA European Rallycross Championship. The event was held at the Circuit Jules Tacheny Mettet in Mettet, Wallonia as an undercard to the 2016 World RX of Belgium and hosted the Supercar and TouringCar classes.[1][2]

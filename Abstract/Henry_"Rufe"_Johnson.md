@@ -1,1 +1,0 @@
-HENRY "RUFE" JOHNSON (October 2, 1908 – February 4, 1974), was an American Piedmont blues guitarist, harmonica player, pianist, banjo player, singer and songwriter.[1][2] On occasion he played slide guitar with a pocket knife. He finally found a larger audience with his 1973 album, _The Union County Flash!_ His fame was short-lived, as he died months after its release.

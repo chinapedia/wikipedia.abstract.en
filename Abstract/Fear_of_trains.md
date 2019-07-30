@@ -1,1 +1,0 @@
-A._Provost_-_Versailles_-_Railroad_Disaster.jpg. News about events like this one contributed to train anxiety]] The FEAR OF TRAINS is anxiety and fear associated with trains, railways, and railway travel.

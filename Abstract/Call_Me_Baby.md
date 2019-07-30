@@ -1,1 +1,0 @@
-"CALL ME BABY" is a song recorded by South Korean boy band Exo for their second studio album _Exodus_. It was released in Korean and Chinese versions by SM Entertainment on March 27, 2015 as the lead single for the album. The song was a commercial success, having sold over 1.6 million copies worldwide.

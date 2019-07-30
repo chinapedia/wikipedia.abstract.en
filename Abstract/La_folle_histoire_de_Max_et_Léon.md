@@ -1,1 +1,0 @@
-_LA FOLLE HISTOIRE DE MAX ET LÉON_ is a 2016 French World War II comedy film directed by Jonathan Barré, written by Barré, and the two stars of the film, the comedy team of Grégoire Ludig, and David Marsais. The film was produced by Alain Goldman and Christopher Lambert who has a cameo as a French Army Captain.

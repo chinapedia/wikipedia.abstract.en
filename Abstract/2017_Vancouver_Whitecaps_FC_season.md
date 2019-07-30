@@ -1,1 +1,0 @@
-The 2017 VANCOUVER WHITECAPS FC SEASON is the club's seventh season in Major League Soccer, the top division of soccer in the United States and Canada. Including previous iterations of the franchise, this is 40th season of professional soccer being played in Vancouver under a variation of the "Whitecaps" name.

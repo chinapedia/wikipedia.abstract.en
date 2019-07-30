@@ -1,1 +1,0 @@
-JUAN IGNACIO BAIXAS FIGUERAS (born 1942) is a Chilean architect and designer. Baixas studied architecture at the Pontifical Catholic University of Chile, where he teaches.[1] He is a practising architect, and has an architectural firm with his partner, Enrique del Rio.[2]

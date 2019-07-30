@@ -1,1 +1,0 @@
-WEST BENGAL LEGAL SERVICE (W.B.L.S.) is the legal service of the Indian State of West Bengal. It performs examinations of people with LL.B. degrees from recognized universities for positions to handle litigation and court cases for the Government of West Bengal.

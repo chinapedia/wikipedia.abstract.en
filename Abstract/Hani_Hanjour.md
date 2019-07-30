@@ -1,1 +1,0 @@
-HANI SALEH HASAN HANJOUR (, ; August 30, 1972September 11, 2001) was the Saudi Arabian hijacker-pilot of American Airlines Flight 77, crashing the plane into the Pentagon as part of the September 11 attacks.

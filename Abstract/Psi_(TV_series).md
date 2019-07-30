@@ -1,1 +1,0 @@
-_PSI_ is a Brazilian television series created by Contardo Calligaris and produced by HBO Brasil.[1][2] Its first episode aired on 23 March 2014. A third season was confirmed in 2016, expected to debut in 2017.[3]

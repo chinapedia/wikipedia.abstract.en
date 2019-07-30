@@ -1,1 +1,0 @@
-THIERRY PETIT (born May 12, 1973 in Nevers) is a French entrepreneur, known as the co-founder and co-CEO of showroomprive.com, created in 2006. He is also the vice-President of France Digitale and a business angel engaged in the French online economy.

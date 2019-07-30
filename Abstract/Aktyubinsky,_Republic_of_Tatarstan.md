@@ -1,1 +1,0 @@
-AKTYUBINSKY (; , _Aqtübä_) is an urban locality (an urban-type settlement) in Aznakayevsky District of the Republic of Tatarstan, Russia, located on the Leninogorsk–Aznakayevo auto route, west of Aznakayevo. As of the 2010 Census, its population was 9,237.[1]

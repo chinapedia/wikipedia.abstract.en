@@ -1,1 +1,0 @@
-Anna_van_bourgondië.jpg ANNA VAN BOURGONDIË (1435-1508), was the illegitimate daughter of Philip the Good and Jacqueline van Steenberghe. She was a royal governess, ie. Governess of the Children of France, supervising the education of Mary of Burgundy. She married Adriaan van Borssele and Adolph of Cleves, Lord of Ravenstein. She is known for her building projects on her domains.

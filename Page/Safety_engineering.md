@@ -1,11 +1,9 @@
-ISS_impact_risk.jpg SAFETY ENGINEERING is an engineering discipline which assures that engineered systems provide acceptable levels of safety. It is strongly related to industrial engineering/systems engineering, and the subset system safety engineering. Safety engineering assures that a life-critical system behaves as needed, even when components fail.
+SAFETY ENGINEERING is an engineering discipline which assures that engineered systems provide acceptable levels of safety. It is strongly related to industrial engineering/systems engineering, and the subset system safety engineering. Safety engineering assures that a life-critical system behaves as needed, even when components fail.
 
 
 Analysis techniques
 
 Analysis techniques can be split into two categories: qualitative and quantitative methods. Both approaches share the goal of finding causal dependencies between a hazard on system level and failures of individual components. Qualitative approaches focus on the question "What must go wrong, such that a system hazard may occur?", while quantitative methods aim at providing estimations about probabilities, rates and/or severity of consequences.
-
-Risk_Cost_Analysis.jpg
 
 The complexity of the technical systems such as Improvements of Design and Materials, Planned Inspections, Fool-proof design, and Backup Redundancy decreases risk and increases the cost. The risk can be decreased to ALARA (as low as reasonably achievable) or ALAPA (as low as practically achievable) levels.
 
@@ -24,8 +22,6 @@ Failure modes with identical effects can be combined and summarized in a Failure
 Fault tree analysis
 
 Fault tree analysis (FTA) is a top-down, deductive analytical method. In FTA, initiating primary events such as component failures, human errors, and external events are traced through Boolean logic gates to an undesired top event such as an aircraft crash or nuclear reactor core melt. The intent is to identify ways to make top events less probable, and verify that safety goals have been achieved.
-
-Fault_tree.svg
 
 Fault trees are a logical inverse of success trees, and may be obtained by applying de Morgan's theorem to success trees (which are directly related to reliability block diagrams).
 
@@ -90,7 +86,7 @@ Usually a failure in safety-certified systems is acceptable if, on average, less
 
 Preventing failure
 
-Survival_redundancy.svg graph shows the relationship between the survival of a crew of astronauts and the amount of redundant equipment in their spacecraft (the "MM", Mission Module).]]
+graph shows the relationship between the survival of a crew of astronauts and the amount of redundant equipment in their spacecraft (the "MM", Mission Module).]]
 
 Once a failure mode is identified, it can usually be mitigated by adding extra or redundant equipment to the system. For example, nuclear reactors contain dangerous radiation, and nuclear reactions can cause so much heat that no substance might contain them. Therefore, reactors have emergency core cooling systems to keep the temperature down, shielding to contain the radiation, and engineered barriers (usually several, nested, surmounted by a containment building) to prevent accidental leakage. Safety-critical systems are commonly required to permit no single event or component failure to result in a catastrophic failure mode.
 

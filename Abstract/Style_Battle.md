@@ -1,1 +1,0 @@
-STYLE BATTLE is an American professional wrestling promotion founded in 2017 by former Ring of Honor booker and Dragon Gate USA vice president, Gabe Sapolsky. On November 22, 2016, it was announced that WWNLive would be debuting a new promotion named Style Battle on January 7, 2017.[1][2][3]

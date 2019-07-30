@@ -38,15 +38,9 @@ There are three types of splay steps, each of which has two symmetric variants: 
 
 ZIG STEP: this step is done when _p_ is the root. The tree is rotated on the edge between _x_ and _p_. Zig steps exist to deal with the parity issue and will be done only as the last step in a splay operation and only when _x_ has odd depth at the beginning of the operation.
 
-splay_tree_zig.svg
-
 ZIG-ZIG STEP: this step is done when _p_ is not the root and _x_ and _p_ are either both right children or are both left children. The picture below shows the case where _x_ and _p_ are both left children. The tree is rotated on the edge joining _p_ with _its_ parent _g_, then rotated on the edge joining _x_ with _p_. Note that zig-zig steps are the only thing that differentiate splay trees from the _rotate to root_ method introduced by Allen and Munro[4] prior to the introduction of splay trees.
 
-Zigzig.gif
-
 ZIG-ZAG STEP: this step is done when _p_ is not the root and _x_ is a right child and _p_ is a left child or vice versa. The tree is rotated on the edge between _p_ and x, and then rotated on the resulting edge between _x_ and g.
-
-Zigzag.gif
 
 Join
 

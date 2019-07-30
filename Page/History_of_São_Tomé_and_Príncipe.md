@@ -1,4 +1,4 @@
-Johannes_Vingboons_-_'t_eylant_St._Thome_(1665).jpg (1665).]] São_Tomé_e_Príncipe.PNG The islands of SÃO TOMÉ AND PRÍNCIPE were uninhabited at the time of the arrival of the Portuguese sometime between 1469 and 1471. After the islands were discovered by the explorers João de Santarém and Pêro Escobar,[1] Portuguese navigators explored the islands and decided they would be a good location for bases to trade with the mainland.
+(1665).]] The islands of SÃO TOMÉ AND PRÍNCIPE were uninhabited at the time of the arrival of the Portuguese sometime between 1469 and 1471. After the islands were discovered by the explorers João de Santarém and Pêro Escobar,[1] Portuguese navigators explored the islands and decided they would be a good location for bases to trade with the mainland.
 
 
 History of Portuguese São Tomé and Príncipe

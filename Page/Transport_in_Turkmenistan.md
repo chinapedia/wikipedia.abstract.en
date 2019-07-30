@@ -11,7 +11,7 @@ Turkmenistan is also part of the international transport corridor created under 
 
 Airways
 
-Turkmenistan_Boeing_767-300ER_Simon-1.jpg Boeing 767-300ER.]] In 2014, Turkmenistan had an estimated 26 airports.[3] One heliport was in operation.
+Boeing 767-300ER.]] In 2014, Turkmenistan had an estimated 26 airports.[3] One heliport was in operation.
 
 There are three international airports in the country. One is under construction.
 
@@ -27,7 +27,7 @@ Turkmenistan Airlines (Türkmenhowaýollary) is the flag carrier airline of Turk
 
 Railways
 
-A_newly_constructed_railway_station_in_Bereket_city,_October_2013.jpg in (Kazandjik) is an important crossroad of the Trans-Caspian Railway and North-South Transnational Railway.]]
+in (Kazandjik) is an important crossroad of the Trans-Caspian Railway and North-South Transnational Railway.]]
 
 In 2014 Turkmenistan had of rail line, most of which runs close to the northern and southern borders. The Tejen – Serakhs – Mashhad railway, built in 1996 by Turkmenistan and Iran, has become a vital link of Central Asian, Russian, and European rail systems with South Asia and the Persian Gulf. In February 2006, the final construction phase began on the Trans-Karakum Railway, a direct link between Ashgabat and Dashoguz that will halve travel time between the southern and northern borders. Urban transportation systems are being upgraded in Ashgabat, Dashoguz, and Mary.
 

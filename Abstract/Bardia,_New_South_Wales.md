@@ -1,1 +1,0 @@
-BARDIA is a suburb of Sydney, in the state of New South Wales, Australia located south-west of the Sydney central business district, in the local government areas of the City of Campbelltown and City of Liverpool. It is part of the Macarthur region. Bardia was gazetted as a suburb on 18 December 2009.[1]

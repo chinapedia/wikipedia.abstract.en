@@ -1,1 +1,0 @@
-In neuroscience, an F WAVE is the second of two voltage changes observed after electrical stimulation is applied to the skin surface above the distal region of a nerve. F waves are often used to measure nerve conduction velocity, and are particularly useful for evaluating conduction problems in the proximal region of nerves (i.e., portions of nerves near the spinal cord).

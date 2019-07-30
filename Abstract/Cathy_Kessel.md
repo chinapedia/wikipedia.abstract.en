@@ -1,1 +1,0 @@
-CATHY KESSEL is a U.S. researcher in mathematics education[1] and consultant, past-president of Association for Women in Mathematics, winner of the Association for Women in Mathematics Louise Hay Award, and a blogger on Mathematics and Education.[2] She is currently (2016) an editor for Illustrative Mathematics.

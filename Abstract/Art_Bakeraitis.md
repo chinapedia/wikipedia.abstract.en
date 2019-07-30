@@ -1,1 +1,0 @@
-ARTHUR H. BAKERAITIS (February 19, 1925 – July 4, 2014) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Vagabond Kings during the 1948–49 season and averaged 4.6 points per game.[3]

@@ -1,1 +1,0 @@
-Opium_poppy_seed_and_flower_at_Budhha_lodge_of_Chaurikharka,Nepal.jpg, Nepal]]

@@ -1,1 +1,0 @@
-POLITICS OF MACAU is a framework of political system, dominated by the People's Republic of China. It includes the legislature, the judiciary, the government, and a multi-party system. Executive power is exercised by the government, led by the Chief Executive.

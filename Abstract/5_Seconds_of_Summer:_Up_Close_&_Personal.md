@@ -1,1 +1,0 @@
-_5 SECONDS OF SUMMER: UP CLOSE & PERSONAL_ is a 2014 documentary film based on the pop-punk band _5 Seconds of Summer_, distributed by Paramount Pictures.[1] The film premiered in cinemas on 5 May 2014, in New York City at the Angelika Film Center. It was then shown in theaters in Sydney, Australia. It follows the story of the band and how they became famous.

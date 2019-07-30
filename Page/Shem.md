@@ -1,4 +1,4 @@
-Shem,_Ham_and_Japheth.jpg and Japheth'' by James Tissot 1904.]]
+and Japheth'' by James Tissot 1904.]]
 
 SHEM (; _Šēm_) was one of the sons of Noah in the Hebrew Bible as well as in Islamic literature.
 
@@ -8,7 +8,7 @@ Islamic literature describes Shem as one of the believing sons of Noah. Some sou
 
 Shem is mentioned several times in Genesis 5-11[2] as well as 1 Chronicles 1:4.
 
-Josephustable3.jpg, c. 100 AD; Japheth's sons shown in red, Ham's sons in blue, Shem's sons in green.]] Genealogy_shem.gif, Israelites, Ammonites, Ishmaelites, Edomites, Midianites, Ashurites, Leturites and Leumites.]]
+, c. 100 AD; Japheth's sons shown in red, Ham's sons in blue, Shem's sons in green.]] , Israelites, Ammonites, Ishmaelites, Edomites, Midianites, Ashurites, Leturites and Leumites.]]
 
 
 In the Bible

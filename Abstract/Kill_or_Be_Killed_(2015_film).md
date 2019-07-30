@@ -1,1 +1,0 @@
-_KILL OR BE KILLED_ (filmed as _Red on Yella, Kill a Fella_) is a 2015 American Western film written and directed by Duane Graves and Justin Meeks. Meeks stars as a notorious Texas criminal whose gang is slowly picked off one-by-one by an unknown killer. It premiered at the ninth Dallas International Film Festival and was released in the US on March 1, 2016.

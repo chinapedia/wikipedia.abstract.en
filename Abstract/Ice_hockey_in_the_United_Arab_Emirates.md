@@ -1,1 +1,0 @@
-ICE HOCKEY is a minor sport that is gaining popularity in UNITED ARAB EMIRATES.[1][2] The premier ice hockey league in the UAE is Emirates Ice Hockey League (EHL) which began in 2009.[3] The U.A.E. Ice Hockey Association is one of the few sports associations recognized by the United Arab Emirates government.[4][5][6]

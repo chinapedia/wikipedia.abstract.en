@@ -1,1 +1,0 @@
-MORNING STAR FOOTBALL CLUB is a professional Indian football club based in Diphu, Karbi Anglong, Assam. It also known as KARBI ANGLONG MORNING STAR F.C.. The club was formed in 2008. They compete in the top division Assam State Premier League and other tournaments like Independence Day Cup. They were the champion of 2015 edition of Assam State Premier League.[1]

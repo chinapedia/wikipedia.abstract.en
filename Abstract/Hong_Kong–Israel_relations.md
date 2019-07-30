@@ -1,1 +1,0 @@
-HONG KONG–ISRAEL RELATIONS refer to relations between Hong Kong and Israel. Israel has a consulate in Hong Kong, while Hong Kong is represented through the Hong Kong Economic and Trade Office in addition to the Chinese embassy in Tel Aviv.

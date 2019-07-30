@@ -1,1 +1,0 @@
-The_Brewer_designed_and_engraved_in_the_Sixteenth._Century_by_J_Amman.png

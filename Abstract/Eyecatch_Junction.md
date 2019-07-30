@@ -1,1 +1,0 @@
-is a 1991 Japanese action comedy film directed by Takashi Miike.[1][2] This was the second film directed by Takashi Miike, though it was released prior to _Lady Hunter: Prelude to Murder_, the first film he directed.

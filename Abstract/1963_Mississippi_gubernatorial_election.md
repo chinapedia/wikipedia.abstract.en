@@ -1,1 +1,0 @@
-The 1963 MISSISSIPPI GUBERNATORIAL ELECTION took place on November 5, 1963, in order to elect the Governor of Mississippi. Incumbent Democrat Ross Barnett was term-limited, and could not run for reelection to a second term.

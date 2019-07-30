@@ -1,1 +1,0 @@
-Aerial_view_of_the_village.jpg KHONGSARA is a village in Kota Tehsil in Bilaspur District of Chhattisgarh State, India. It is located 56 km north from the district headquarters Bilaspur, and 148 km from the state capital Raipur.

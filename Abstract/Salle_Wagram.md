@@ -1,1 +1,0 @@
-The SALLE WAGRAM is a historic auditorium in the 17th arrondissement of Paris, France. It was built in 1865.[1] It has been listed as an official historical monument by the French Ministry of Culture since March 2, 1981.[2]

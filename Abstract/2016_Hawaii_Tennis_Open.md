@@ -1,1 +1,0 @@
-The 2016 HAWAII TENNIS OPEN was a professional tennis tournament played on outdoor hard courts. It was the 1st edition of the tournament and part of the 2016 WTA 125K series, offering a total of $115,000 in prize money. It took place in Honolulu, United States, on 21–27 November 2016.

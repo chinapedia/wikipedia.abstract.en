@@ -1,1 +1,0 @@
-CAMBRIDGE is a city and the county town of Cambridgeshire, United Kingdom, famous for being the location of the University of Cambridge.

@@ -1,1 +1,0 @@
-Zhdanovskaya_Street_SPB_3.jpg

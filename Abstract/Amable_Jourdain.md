@@ -1,1 +1,0 @@
-AMABLE JOURDAIN (25 January 1788, Paris[1] – 19 February 1818) was an early 19th-century French historian and orientalist, a student of Louis-Mathieu Langlès and Antoine-Isaac Silvestre de Sacy, a specialist of ancien Persia and the Latin transmission of Aristotle.

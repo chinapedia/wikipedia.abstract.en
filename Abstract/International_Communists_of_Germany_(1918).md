@@ -1,1 +1,0 @@
-INTERNATIONAL COMMUNISTS OF GERMANY (Internationalen Kommunisten Deutschlands; IKD) was a Communist political grouping founded in November 1918 during the German Revolution. The small party was, together with the better known Spartacist Group, one of the constituent organizations that joined to form the Communist Party of Germany in 1918.

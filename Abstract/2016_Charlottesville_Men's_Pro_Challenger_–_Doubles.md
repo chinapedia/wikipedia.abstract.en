@@ -1,1 +1,0 @@
-Chase Buchanan and Tennys Sandgren were the defending champions but only Sandgren chose to defend his title, partnering Austin Krajicek. Sandgren lost in the quarterfinals to Brian Baker and Sam Groth.

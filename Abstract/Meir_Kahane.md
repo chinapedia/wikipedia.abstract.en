@@ -1,1 +1,0 @@
-MEIR DAVID HAKOHEN KAHANE (; ; August 1, 1932 – November 5, 1990) was an American-Israeli ordained Orthodox rabbi, writer, and ultra-nationalist politician who served one term in Israel's Knesset.[1] His work influenced most modern Jewish militant and far-right political groups.[2]

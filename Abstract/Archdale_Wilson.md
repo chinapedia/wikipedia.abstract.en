@@ -1,1 +1,0 @@
-Archdale_Wilson.jpg SIR ARCHDALE WILSON, 1ST BARONET (1803 – 9 May 1874) was a distinguished soldier in the British Indian Army, who fought at the siege of Bharatpur in 1825-6, and was commended for his part in the capture of Delhi when that city staged a rebellion agansit British colonial government, being made K.C.B. 17 November 1853, and created a baronet 8 January 1858.

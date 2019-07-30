@@ -1,1 +1,0 @@
-border | flag_alt = Flag of Jerusalem | flag_link = Flag of Jerusalem | image_shield = Emblem of Jerusalem.svg | shield_alt = Emblem of Jerusalem | shield_link = Emblem of Jerusalem | shield_size = 55px | nickname = _Ir ha-Kodesh_ (The Holy City),

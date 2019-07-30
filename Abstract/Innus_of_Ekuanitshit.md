@@ -1,1 +1,0 @@
-Outside_tent_-_Innu_-_Mingan_Quebec_1947.jpg in 1947]] INNUS OF EKUANITSHIT (French: _Les Innus d'Ekuanitshit_) are an Innu band in Quebec, Canada. They live primarily in the Indian reserve of Mingan on the north coast of St Lawrence River. In 2016, the band had a registered population of 632 members.

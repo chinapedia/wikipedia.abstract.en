@@ -1,1 +1,0 @@
-The 1977 WELLINGTON CITY MAYORAL ELECTION was part of the New Zealand local elections held that same year. In 1977, election were held for the Mayor of Wellington plus other local government positions including eighteen city councillors. The polling was conducted using the standard first-past-the-post electoral method.

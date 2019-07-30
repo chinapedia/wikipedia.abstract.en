@@ -1,1 +1,0 @@
-Below is a LIST OF TOPICS IN PAINTING.

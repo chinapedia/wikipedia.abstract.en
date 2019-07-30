@@ -1,1 +1,0 @@
-FRANCIS J. PORDUM (born December 4, 1945) is a Democrat US politician from Lake View, New York.[1] He served as a New York State Assemblyman and represented the 1st District in the Erie County Legislature from 1980 to 1982.[2]

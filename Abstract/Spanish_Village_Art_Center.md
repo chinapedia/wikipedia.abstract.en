@@ -1,1 +1,0 @@
-Balboa_Park,_Artist_village.JPG

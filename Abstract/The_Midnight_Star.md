@@ -1,1 +1,0 @@
-_THE MIDNIGHT STAR_ is a fantasy novel by American author Marie Lu and the third and final book in _The Young Elites_ trilogy. It was released on October 11, 2016.[1] The book follows the titular character, Adelina Amouteru, after her takeover of the kingdom that once hated her.

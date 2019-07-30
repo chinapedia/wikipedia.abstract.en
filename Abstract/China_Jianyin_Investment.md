@@ -1,1 +1,0 @@
-CHINA JIANYIN INVESTMENT CO., LTD. (JIC) is an integrated investment group focused on equity investments. Founded in 2004, the group is headquartered in Beijing and owns more than 160 wholly owned or holding enterprises and institutions in 29 Chinese provinces, autonomous regions, municipalities and Hong Kong SAR. It has also established affiliated agencies in Europe.[1]

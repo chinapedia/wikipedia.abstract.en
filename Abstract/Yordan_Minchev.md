@@ -1,1 +1,0 @@
-YORDAN MINCHEV (also transliterated Jordan, Iordan, Minchev, , born October 17, 1998) is a Bulgarian professional basketball player for İstanbul BŞB of the Turkish Basketball Super League (BSL). Standing at he plays both the shooting guard and small forward positions.

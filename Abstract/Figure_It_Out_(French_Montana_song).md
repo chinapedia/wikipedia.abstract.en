@@ -1,1 +1,0 @@
-"FIGURE IT OUT" is a single by American rapper French Montana, featuring Kanye West and Nas. The track was released on May 6, 2016 as the first single from Montana's mixtape _MC4_ (2016).[1] It was also released as the first single from his mixtape _Wave Gods_ (2016), which was released at an earlier date than the single itself.[2]

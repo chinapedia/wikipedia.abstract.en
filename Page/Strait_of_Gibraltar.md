@@ -10,7 +10,7 @@ The name comes from the Rock of Gibraltar, which in turn originates from the Ara
 
 Location
 
-Detroit_Gibraltar_2007.jpg On the northern side of the Strait are Spain and Gibraltar (a British overseas territory in the Iberian Peninsula), while on the southern side are Morocco and Ceuta (a Spanish exclave in Morocco). Its boundaries were known in antiquity as the Pillars of Hercules.
+On the northern side of the Strait are Spain and Gibraltar (a British overseas territory in the Iberian Peninsula), while on the southern side are Morocco and Ceuta (a Spanish exclave in Morocco). Its boundaries were known in antiquity as the Pillars of Hercules.
 
 Due to its location, the Strait is commonly used for illegal immigration from Africa to Europe.[9]
 
@@ -29,7 +29,7 @@ The International Hydrographic Organization defines the limits of the Strait of 
 
 Geology
 
-StraitOfGibraltar.JPG, Spain]] The seabed of the Strait is composed of synorogenic Betic-Rif clayey flysch covered by Pliocene and/or Quaternary calcareous sediments, sourced from thriving cold water coral communities.[11] Exposed bedrock surfaces, coarse sediments and local sand dunes attest to the strong bottom current conditions at the present time.
+, Spain]] The seabed of the Strait is composed of synorogenic Betic-Rif clayey flysch covered by Pliocene and/or Quaternary calcareous sediments, sourced from thriving cold water coral communities.[11] Exposed bedrock surfaces, coarse sediments and local sand dunes attest to the strong bottom current conditions at the present time.
 
 Around 5.9 million years ago,[12] the connection between the Mediterranean Sea and the Atlantic Ocean along the Betic and Rifan Corridor was progressively restricted until its total closure, effectively causing the salinity of the Mediterranean to rise periodically within the gypsum and salt deposition range, during what is known as the Messinian salinity crisis. In this water chemistry environment, dissolved mineral concentrations, temperature and stilled water currents combined and occurred regularly to precipitate many mineral salts in layers on the seabed. The resultant accumulation of various huge salt and mineral deposits about the Mediterranean basin are directly linked to this era. It is believed that this process took a short time, by geological standards, lasting between 500,000 and 600,000 years.
 
@@ -47,7 +47,7 @@ A resident killer whale pod of some 36 individuals lives around the Strait, one 
 
 History
 
-Strait_of_Gibraltar_by_Piri_Reis.jpg]]
+]]
 
 Evidence of the first human habitation of the area by Neanderthals dates back to 125,000 years ago. It is believed that the Rock of Gibraltar may have been one of the last outposts of Neanderthal habitation in the world, with evidence of their presence there dating to as recently as 24,000 years ago.[18] Archaeological evidence of Homo sapiens habitation of the area dates back years.
 
@@ -64,8 +64,6 @@ Following the Spanish coup of July 1936 the Spanish Republican Navy tried to blo
 
 Communications
 
-Hércules3D.jpg
-
 The Strait is an important shipping route from the Mediterranean to the Atlantic. There are ferries that operate between Spain and Morocco across the Strait, as well as between Spain and Ceuta and Gibraltar to Tangier.
 
 Tunnel across the Strait
@@ -79,13 +77,13 @@ The Strait of Gibraltar links the Atlantic Ocean directly to the Mediterranean S
 
 Inflow and outflow
 
-InternalWaves_Gibraltar_ISS009-E-09952_54.jpgs (marked with arrows) are caused by water flowing through the Strait (bottom left, top right).]]
+s (marked with arrows) are caused by water flowing through the Strait (bottom left, top right).]]
 
 Through the Strait, water generally flows more or less continually in both an eastward and a westward direction. A smaller amount of deeper saltier and therefore denser waters continually work their way westwards (the Mediterranean outflow), while a larger amount of surface waters with lower salinity and density continually work their way eastwards (the Mediterranean inflow). These general flow tendencies may be occasionally interrupted for brief periods by temporary tidal flows, depending on various lunar and solar alignments. Still, on the whole and over time, the balance of the water flow is eastwards, due to an evaporation rate within the Mediterranean basin higher than the combined inflow of all the rivers that empty into it. At the Strait's far western end is the Camarinal Sill, the Strait's shallowest point which limits mixing between the cold, less saline Atlantic water and the warm Mediterranean waters.
 
 The Mediterranean waters are so much saltier than the Atlantic waters that they sink below the constantly incoming water and form a highly saline (_thermohaline_, both warm and salty) layer of bottom water. This layer of bottom-water constantly works its way out into the Atlantic as the Mediterranean outflow. On the Atlantic side of the Strait, a density boundary separates the Mediterranean outflow waters from the rest at about depth. These waters flow out and down the continental slope, losing salinity, until they begin to mix and equilibrate more rapidly, much further out at a depth of about . The Mediterranean outflow water layer can be traced for thousands of kilometres west of the Strait, before completely losing its identity.
 
-Camarinal_Still_Water_Mixing_(Simplified).jpg During the Second World War, German U-boats used the currents to pass into the Mediterranean Sea without detection, by maintaining silence with engines off.[22] From September 1941 to May 1944 Germany managed to send 62 U-boats into the Mediterranean. All these boats had to navigate the British-controlled Strait of Gibraltar where nine U-boats were sunk while attempting passage and 10 more had to break off their run due to damage. No U-boats ever made it back into the Atlantic and all were either sunk in battle or scuttled by their own crews.[23]
+During the Second World War, German U-boats used the currents to pass into the Mediterranean Sea without detection, by maintaining silence with engines off.[22] From September 1941 to May 1944 Germany managed to send 62 U-boats into the Mediterranean. All these boats had to navigate the British-controlled Strait of Gibraltar where nine U-boats were sunk while attempting passage and 10 more had to break off their run due to damage. No U-boats ever made it back into the Atlantic and all were either sunk in battle or scuttled by their own crews.[23]
 
 Internal waves
 

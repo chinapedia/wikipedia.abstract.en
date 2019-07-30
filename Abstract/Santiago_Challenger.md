@@ -1,1 +1,0 @@
-The SANTIAGO CHALLENGER, also known as Movistar Open by Cachantun for sponsorship reasons, is a professional tennis tournament played on clay courts. It is currently part of the Association of Tennis Professionals (ATP) Challenger Tour. It is held annually in Vitacura, Santiago Metropolitan Region, Chile since 2015.

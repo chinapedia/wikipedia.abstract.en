@@ -1,1 +1,0 @@
-RYSZARD RYNKOWSKI (born October 9, 1951 in Elbląg[1]) is Polish singer, composer, pianist and actor. In the years 1978—1987 accompanist of _Vox_ music band,[2] a solo artist since 1987. He was awarded with the Knight's Cross of the Order of Polonia Restituta[3] and the Order of the Smile.[4] He also is honorary citizen of Elbląg, Poland.[5]

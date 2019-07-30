@@ -1,1 +1,0 @@
-"TRAVELLER TONG" () is a short story by Pu Songling first published in _Strange Stories from a Chinese Studio_ (1740). It revolves around a scholar's encounter with the titular character, and was fully translated into English by Sidney L. Sondergard in 2012.

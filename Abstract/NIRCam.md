@@ -1,1 +1,0 @@
-JWST_Nircam1lwres.jpg Engineers_Install_Near_Infrared_Camera_into_the_Heart_of_Webb_Telescope_(13543822205).jpg

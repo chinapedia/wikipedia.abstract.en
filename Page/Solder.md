@@ -1,5 +1,3 @@
-Solderedjoint.jpg Solder_on_spool.jpeg
-
 SOLDER (,[1] [2] or in North America [3]) is a fusible metal alloy used to create a permanent bond between metal workpieces. The word solder comes from the Middle English word , via Old French and , from the Latin , meaning "to make solid".[4] In fact, solder must first be melted in order to adhere to and connect the pieces together after cooling, which requires that an alloy suitable for use as solder have a lower melting point than the pieces being joined. The solder should also be resistant to oxidative and corrosive effects that would degrade the joint over time. Solder used in making electrical connections also needs to have favorable electrical characteristics.
 
 Soft solder typically has a melting point range of ,[5] and is commonly used in electronics, plumbing, and sheet metal work. Alloys that melt between are the most commonly used. Soldering performed using alloys with a melting point above is called "hard soldering", "silver soldering", or brazing.
@@ -13,7 +11,7 @@ Plumbers often use bars of solder, much thicker than the wire used for electrica
 
 Lead-free solder
 
-Pure_tin_solder.JPG Propane_torch_soldering_copper_pipe.jpg On July 1, 2006 the European Union Waste Electrical and Electronic Equipment Directive (WEEE) and Restriction of Hazardous Substances Directive (RoHS) came into effect, restricting the inclusion of lead in most consumer electronics sold in the EU, and having a broad effect on consumer electronics sold worldwide. In the US, manufacturers may receive tax benefits by reducing the use of lead-based solder. Lead-free solders in commercial use may contain tin, copper, silver, bismuth, indium, zinc, antimony, and traces of other metals. Most lead-free replacements for conventional 60/40 and 63/37 Sn-Pb solder have melting points from 50 to 200 °C higher,[7] though there are also solders with much lower melting points.
+On July 1, 2006 the European Union Waste Electrical and Electronic Equipment Directive (WEEE) and Restriction of Hazardous Substances Directive (RoHS) came into effect, restricting the inclusion of lead in most consumer electronics sold in the EU, and having a broad effect on consumer electronics sold worldwide. In the US, manufacturers may receive tax benefits by reducing the use of lead-based solder. Lead-free solders in commercial use may contain tin, copper, silver, bismuth, indium, zinc, antimony, and traces of other metals. Most lead-free replacements for conventional 60/40 and 63/37 Sn-Pb solder have melting points from 50 to 200 °C higher,[7] though there are also solders with much lower melting points.
 
 It may be desirable to use minor modification of the solder pots (e.g., titanium liners or impellers) used in wave-soldering, to reduce maintenance cost due to increased tin-scavenging of high-tin solder.
 
@@ -28,7 +26,7 @@ Tin-based solders readily dissolve gold, forming brittle intermetallics; for Sn-
 
 Lead solder
 
-60-40_Solder.jpg Tin-lead (Sn-Pb) solders, also called soft solders, are commercially available with tin concentrations between 5% and 70% by weight. The greater the tin concentration, the greater the solder’s tensile and shear strengths. Historically, lead has been widely believed to mitigate the formation of tin whiskers, though the precise mechanism for this is unknown.[10] Today, many techniques are used to mitigate the problem, including changes to the annealing process (heating and cooling), addition of elements like copper and nickel, and the inclusion of conformal coatings.[11] Alloys commonly used for electrical soldering are 60/40 Sn-Pb, which melts at ,[12] and 63/37 Sn-Pb used principally in electrical/electronic work. This mixture is a eutectic alloy of these metals, which:
+Tin-lead (Sn-Pb) solders, also called soft solders, are commercially available with tin concentrations between 5% and 70% by weight. The greater the tin concentration, the greater the solder’s tensile and shear strengths. Historically, lead has been widely believed to mitigate the formation of tin whiskers, though the precise mechanism for this is unknown.[10] Today, many techniques are used to mitigate the problem, including changes to the annealing process (heating and cooling), addition of elements like copper and nickel, and the inclusion of conformal coatings.[11] Alloys commonly used for electrical soldering are 60/40 Sn-Pb, which melts at ,[12] and 63/37 Sn-Pb used principally in electrical/electronic work. This mixture is a eutectic alloy of these metals, which:
 
 1.  has the lowest melting point () of all the tin-lead alloys; and
 2.  the melting point is truly a _point_ — not a range.
@@ -44,7 +42,7 @@ Lead, and to some degree tin, as used in solder contains small but significant a
 
 Flux
 
-Rosin_core_electrical_solder.JPG Flux is a reducing agent designed to help reduce (return oxidized metals to their metallic state) metal oxides at the points of contact to improve the electrical connection and mechanical strength. The two principal types of flux are acid flux (sometimes called "active flux"), containing strong acids, used for metal mending and plumbing, and rosin flux (sometimes called "passive flux"), used in electronics. Rosin flux comes in a variety of "activities", corresponding roughly to the speed and effectiveness of the organic acid components of the rosin in dissolving metallic surface oxides, and consequently the corrosiveness of the flux residue.
+Flux is a reducing agent designed to help reduce (return oxidized metals to their metallic state) metal oxides at the points of contact to improve the electrical connection and mechanical strength. The two principal types of flux are acid flux (sometimes called "active flux"), containing strong acids, used for metal mending and plumbing, and rosin flux (sometimes called "passive flux"), used in electronics. Rosin flux comes in a variety of "activities", corresponding roughly to the speed and effectiveness of the organic acid components of the rosin in dissolving metallic surface oxides, and consequently the corrosiveness of the flux residue.
 
 Due to concerns over atmospheric pollution and hazardous waste disposal, the electronics industry has been gradually shifting from rosin flux to water-soluble flux, which can be removed with deionized water and detergent, instead of hydrocarbon solvents.
 

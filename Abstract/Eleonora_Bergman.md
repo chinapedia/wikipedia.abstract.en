@@ -1,1 +1,0 @@
-ELEONORA BERGMAN (born 1947) is a Polish architecture historian who worked on the preservation of Jewish heritage in Poland. She was director of the Jewish Historical Institute in Warsaw from 2007 to 2011.[1]

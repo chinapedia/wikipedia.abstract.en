@@ -1,1 +1,0 @@
-Ramjet_operation.svg

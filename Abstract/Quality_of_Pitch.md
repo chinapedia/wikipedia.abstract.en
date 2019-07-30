@@ -1,1 +1,0 @@
-QUALITY OF PITCH (QOP) is a pitch quantification statistic which combines speed, location and movement into a single numeric value that quantifies the quality of a baseball pitch. QOP was developed by Jarvis Greiner and Jason Wilson of Biola University, California, as a method of objectively evaluating pitches in baseball.[1] QOPBASEBALL is the brand of the QOP statistic.[2]

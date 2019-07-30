@@ -1,1 +1,0 @@
-The MISS RUSSIA 2015 took place on, April 18, 2015 at the Bravikha Luxury Village Concert Hall, in a contest where fifty contestants from different oblast competed for the crown. The winner Sofia Nikitchuk , from Yekaterinburg, was crowned by the outgoing title holder, Yulia Alipova (Miss Russia 2014). Nikitchuk will represent Russia at Miss World 2015.[1]

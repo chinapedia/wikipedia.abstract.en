@@ -1,1 +1,0 @@
-NAJLA ALJERAIWI (born 26 October 1988) is a Kuwaiti professional racing cyclist.[1] She competed at the 2016 UCI Road World Championships in the women's time trial but fell after riding ito a fence[2] and finished 38th, and in the women's road race, but she did not finish the race.[3][4]

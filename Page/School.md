@@ -1,4 +1,4 @@
-Larkmead_School,_Abingdon,_Oxfordshire.png LDAI_2002.jpg during a class photograph, 2002]]
+during a class photograph, 2002]]
 
 A SCHOOL is an educational institution designed to provide learning spaces and learning environments for the teaching of students (or "pupils") under the direction of teachers. Most countries have systems of formal education, which is commonly compulsory. In these systems, students progress through a series of schools. The names for these schools vary by country (discussed in the _Regional_ section below) but generally include primary school for young children and secondary school for teenagers who have completed primary education. An institution where higher education is taught, is commonly called a university college or university, but these higher education institutions are usually not compulsory.
 
@@ -16,22 +16,22 @@ The word _school_ derives from Greek '' (''), originally meaning "leisure" and a
 
 History and development
 
-Plato's_Academy_mosaic_from_Pompeii.jpg's academy, mosaic from Pompeii]] The concept of grouping students together in a centralized location for learning has existed since Classical antiquity. Formal schools have existed at least since ancient Greece (see Academy), ancient Rome (see Education in Ancient Rome) ancient India (see Gurukul), and ancient China (see History of education in China). The Byzantine Empire had an established schooling system beginning at the primary level. According to _Traditions and Encounters_, the founding of the primary education system began in 425 AD and "... military personnel usually had at least a primary education ...". The sometimes efficient and often large government of the Empire meant that educated citizens were a must. Although Byzantium lost much of the grandeur of Roman culture and extravagance in the process of surviving, the Empire emphasized efficiency in its war manuals. The Byzantine education system continued until the empire's collapse in 1453 AD.[5]
+'s academy, mosaic from Pompeii]] The concept of grouping students together in a centralized location for learning has existed since Classical antiquity. Formal schools have existed at least since ancient Greece (see Academy), ancient Rome (see Education in Ancient Rome) ancient India (see Gurukul), and ancient China (see History of education in China). The Byzantine Empire had an established schooling system beginning at the primary level. According to _Traditions and Encounters_, the founding of the primary education system began in 425 AD and "... military personnel usually had at least a primary education ...". The sometimes efficient and often large government of the Empire meant that educated citizens were a must. Although Byzantium lost much of the grandeur of Roman culture and extravagance in the process of surviving, the Empire emphasized efficiency in its war manuals. The Byzantine education system continued until the empire's collapse in 1453 AD.[5]
 
 In Western Europe a considerable number of cathedral schools were founded during the Early Middle Ages in order to teach future clergy and administrators, with the oldest still existing, and continuously operated, cathedral schools being The King's School, Canterbury (established 597 CE), King's School, Rochester (established 604 CE), St Peter's School, York (established 627 CE) and Thetford Grammar School (established 631 CE). Beginning in the 5th century CE monastic schools were also established throughout Western Europe, teaching both religious and secular subjects.
 
 Islam was another culture that developed a school system in the modern sense of the word. Emphasis was put on knowledge, which required a systematic way of teaching and spreading knowledge, and purpose-built structures. At first, mosques combined both religious performance and learning activities, but by the 9th century, the madrassa was introduced, a school that was built independently from the mosque, such as al-Qarawiyyin, founded in 859 CE. They were also the first to make the _Madrassa_ system a public domain under the control of the Caliph.
 
-Under the Ottomans, the towns of Bursa and Edirne became the main centers of learning. The Ottoman system of Külliye, a building complex containing a mosque, a hospital, madrassa, and public kitchen and dining areas, revolutionized the education system, making learning accessible to a wider public through its free meals, health care and sometimes free accommodation. Farm_Security_Administration_school_in_Alabama_USA_1935.gif]]
+Under the Ottomans, the towns of Bursa and Edirne became the main centers of learning. The Ottoman system of Külliye, a building complex containing a mosque, a hospital, madrassa, and public kitchen and dining areas, revolutionized the education system, making learning accessible to a wider public through its free meals, health care and sometimes free accommodation. ]]
 
-In Europe, universities emerged during the 12th century; here, scholasticism was an important tool, and the academicians were called _schoolmen_. During the Middle Ages and much of the Early Modern period, the main purpose of schools (as opposed to universities) was to teach the Latin language. This led to the term grammar school, which in the United States informally refers to a primary school, but in the United Kingdom means a school that selects entrants based on ability or aptitude. Following this, the school curriculum has gradually broadened to include literacy in the vernacular language as well as technical, artistic, scientific and practical subjects. BogdanovBelsky_UstnySchet.jpg. Russia, 1895.]]
+In Europe, universities emerged during the 12th century; here, scholasticism was an important tool, and the academicians were called _schoolmen_. During the Middle Ages and much of the Early Modern period, the main purpose of schools (as opposed to universities) was to teach the Latin language. This led to the term grammar school, which in the United States informally refers to a primary school, but in the United Kingdom means a school that selects entrants based on ability or aptitude. Following this, the school curriculum has gradually broadened to include literacy in the vernacular language as well as technical, artistic, scientific and practical subjects. . Russia, 1895.]]
 
 Obligatory school attendance became common in parts of Europe during the 18th century. In Denmark-Norway, this was introduced as early as in 1739-1741, the primary end being to increase the literacy of the _almue_, i.e. the "regular people".[6] Many of the earlier public schools in the United States and elsewhere were one-room schools where a single teacher taught seven grades of boys and girls in the same classroom. Beginning in the 1920s, one-room schools were consolidated into multiple classroom facilities with transportation increasingly provided by kid hacks and school buses.
 
 
 Regional terms
 
-Serrekundamadrassa.JPG in the Gambia]] Loyola_School.jpg, India – run by the Catholic Diocese of Madras. Christian missionaries played a pivotal role in establishing modern schools in India.]]
+in the Gambia]] , India – run by the Catholic Diocese of Madras. Christian missionaries played a pivotal role in establishing modern schools in India.]]
 
 The use of the term _school_ varies by country, as do the names of the various levels of education within the country.
 
@@ -45,7 +45,7 @@ In much of the Commonwealth of Nations, including Australia, New Zealand, India,
 
 India
 
-Perumacheri_AUP_School.JPG, India]]
+, India]]
 
 In ancient India, schools were in the form of Gurukuls. Gurukuls were traditional Hindu residential schools of learning; typically the teacher's house or a monastery. During the Mughal rule, Madrasahs were introduced in India to educate the children of Muslim parents. British records show that indigenous education was widespread in the 18th century, with a school for every temple, mosque or village in most regions of the country. The subjects taught included Reading, Writing, Arithmetic, Theology, Law, Astronomy, Metaphysics, Ethics, Medical Science and Religion.
 
@@ -53,7 +53,7 @@ Under the British rule in India, Christian missionaries from England, USA and ot
 
 Europe
 
-1887_Bettannier_Der_Schwarze_Fleck_anagoria.jpg's 1887 painting _La Tache noire_ depicts a child being taught about the "lost" province of Alsace-Lorraine in the aftermath of the Franco-Prussian War – an example of how European schools were often used in order to inoculate Nationalism in their pupils.]] Bundesarchiv_B_145_Bild-F079063-0034,_Bonn,_Gymnasium,_Chemieunterricht.jpg, Bonn, 1988]] In much of continental Europe, the term _school_ usually applies to primary education, with primary schools that last between four and nine years, depending on the country. It also applies to secondary education, with secondary schools often divided between _Gymnasiums_ and vocational schools, which again depending on country and type of school educate students for between three and six years. In Germany students graduating from Grundschule are not allowed to directly progress into a vocational school, but are supposed to proceed to one of Germany's general education schools such as Gesamtschule, Hauptschule, Realschule or Gymnasium. When they leave that school, which usually happens at age 15–19 they are allowed to proceed to a vocational school. The term school is rarely used for tertiary education, except for some _upper_ or _high_ schools (German: Hochschule), which describe colleges and universities.
+'s 1887 painting _La Tache noire_ depicts a child being taught about the "lost" province of Alsace-Lorraine in the aftermath of the Franco-Prussian War – an example of how European schools were often used in order to inoculate Nationalism in their pupils.]] , Bonn, 1988]] In much of continental Europe, the term _school_ usually applies to primary education, with primary schools that last between four and nine years, depending on the country. It also applies to secondary education, with secondary schools often divided between _Gymnasiums_ and vocational schools, which again depending on country and type of school educate students for between three and six years. In Germany students graduating from Grundschule are not allowed to directly progress into a vocational school, but are supposed to proceed to one of Germany's general education schools such as Gesamtschule, Hauptschule, Realschule or Gymnasium. When they leave that school, which usually happens at age 15–19 they are allowed to proceed to a vocational school. The term school is rarely used for tertiary education, except for some _upper_ or _high_ schools (German: Hochschule), which describe colleges and universities.
 
 In Eastern Europe modern schools (after World War II), of both primary and secondary educations, often are combined, while secondary education might be split into accomplished or not. The schools are classified as middle schools of general education and for the technical purposes include "degrees" of the education they provide out of three available: the first – primary, the second – unaccomplished secondary, and the third – accomplished secondary. Usually the first two degrees of education (eight years) are always included, while the last one (two years) gives option for the students to pursue vocational or specialized educations.
 
@@ -76,7 +76,7 @@ In Mozambique, specifically, there are two kinds of Qur’anic schools. They are
 
 Ownership and operation
 
-Mr._Shake_Amargosa.jpg, 2014]] Many schools are owned or funded by states. Private schools operate independently from the government. Private schools usually rely on fees from families whose children attend the school for funding; however, sometimes such schools also receive government support (for example, through School vouchers). Many private schools are affiliated with a particular religion; these are known as parochial schools.
+, 2014]] Many schools are owned or funded by states. Private schools operate independently from the government. Private schools usually rely on fees from families whose children attend the school for funding; however, sometimes such schools also receive government support (for example, through School vouchers). Many private schools are affiliated with a particular religion; these are known as parochial schools.
 
 Starting a school
 
@@ -94,7 +94,7 @@ When designing a school, factors that need to be decided include:[12]
 
 Components of most schools
 
-rathaykentst.jpg Schools are organized spaces purposed for teaching and learning. The classrooms, where teachers teach and students learn, are of central importance. Classrooms may be specialized for certain subjects, such as laboratory classrooms for science education and workshops for industrial arts education.
+Schools are organized spaces purposed for teaching and learning. The classrooms, where teachers teach and students learn, are of central importance. Classrooms may be specialized for certain subjects, such as laboratory classrooms for science education and workshops for industrial arts education.
 
 Typical schools have many other rooms and areas, which may include:
 
@@ -109,7 +109,7 @@ Typical schools have many other rooms and areas, which may include:
 
 Security
 
-Warning_signs_at_CHS.jpg surveillance cameras. This is especially common in schools with gang activity or violence.]] The safety of staff and students is increasingly becoming an issue for school communities, an issue most schools are addressing through improved security. Some have also taken measures such as installing metal detectors or video surveillance. Others have even taken measures such as having the children swipe identification cards as they board the school bus. For some schools, these plans have included the use of door numbering to aid public safety response.
+surveillance cameras. This is especially common in schools with gang activity or violence.]] The safety of staff and students is increasingly becoming an issue for school communities, an issue most schools are addressing through improved security. Some have also taken measures such as installing metal detectors or video surveillance. Others have even taken measures such as having the children swipe identification cards as they board the school bus. For some schools, these plans have included the use of door numbering to aid public safety response.
 
 Other security concerns faced by schools include bomb threats, gangs, and vandalism.[15]
 
@@ -139,7 +139,7 @@ According to a 2008 mental health study by the Associated Press and mtvU, eight 
 
 Discipline towards students
 
-葳格高中國中部夏季制服.jpg Schools and their teachers have always been under pressure – for instance, pressure to cover the curriculum, to perform well in comparison to other schools, and to avoid the stigma of being "soft" or "spoiling" toward students. Forms of discipline, such as control over when students may speak, and normalized behaviour, such as raising a hand to speak, are imposed in the name of greater efficiency. Practitioners of critical pedagogy maintain that such disciplinary measures have no positive effect on student learning. Indeed, some argue that disciplinary practices detract from learning, saying that they undermine students' individual dignity and sense of self-worth – the latter occupying a more primary role in students' hierarchy of needs.
+Schools and their teachers have always been under pressure – for instance, pressure to cover the curriculum, to perform well in comparison to other schools, and to avoid the stigma of being "soft" or "spoiling" toward students. Forms of discipline, such as control over when students may speak, and normalized behaviour, such as raising a hand to speak, are imposed in the name of greater efficiency. Practitioners of critical pedagogy maintain that such disciplinary measures have no positive effect on student learning. Indeed, some argue that disciplinary practices detract from learning, saying that they undermine students' individual dignity and sense of self-worth – the latter occupying a more primary role in students' hierarchy of needs.
 
 
 See also

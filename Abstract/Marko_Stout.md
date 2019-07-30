@@ -1,1 +1,0 @@
-MARKO STOUT is an American contemporary artist known for his gritty industrial pop style with a focus on New York City and modern urban life. Stout produces work in a variety of media including print, painting, sculpture, film, video, photography and new media.[1][2]

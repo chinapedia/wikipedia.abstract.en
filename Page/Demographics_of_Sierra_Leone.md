@@ -5,8 +5,6 @@ In the past, some Sierra Leoneans were noted for their educational achievements,
 
 Population
 
-Sierra-Leone-demography.png
-
 According to the total population was in , compared to only 1 895 000 in 1950. The proportion of children below the age of 15 in 2010 was 43%, 55.1% was between 15 and 65 years of age, while 1.9% was 65 years or older .[2]
 
          Total population   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
@@ -125,8 +123,6 @@ Population
     6,312,212 (July 2018 est.)
 
 Age structure
-
-Sierra_Leonepop.svg
 
     _0-14 years:_ 41.71% (male 1,314,905 /female 1,317,921)
     _15-24 years:_ 18.6% (male 572,274 /female 602,105)
@@ -255,7 +251,7 @@ Nationality
 
 Ethnic groups
 
-Sierra_leone_ethnic_1969.jpg.]]
+.]]
 
     18 native African tribes 90% (Temne 36%, Mende 33%, Limba 6.4%, Kono 4.4% other 20%)
     Creole 1.2% (descendants of freed Jamaican slaves who were settled in the Freetown area in the late-18th century)

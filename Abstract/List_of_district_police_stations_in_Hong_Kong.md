@@ -1,1 +1,0 @@
-This is a LIST OF DISTRICT POLICE STATIONS IN HONG KONG, by police district.

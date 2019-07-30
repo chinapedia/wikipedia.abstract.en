@@ -1,1 +1,0 @@
-RONALD "RON" THOMPSON (15 November 1917 – 16 May 2006) was an Australian trade unionist and politician who was a member of the Legislative Council of Western Australia from 1959 to 1980. He served as a minister in the government of John Tonkin.

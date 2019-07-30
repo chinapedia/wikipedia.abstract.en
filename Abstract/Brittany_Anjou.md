@@ -1,1 +1,0 @@
-Brittany_Anjou_(photo_credit_Jeff_Chase).jpg

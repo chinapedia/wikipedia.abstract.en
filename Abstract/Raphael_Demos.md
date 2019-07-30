@@ -1,1 +1,0 @@
-RAPHAEL DEMOS (; January 23, 1892 – August 8, 1968) was Alford Professor of Natural Religion, Moral Philosophy and Civil Polity, emeritus, at Harvard University and an authority on the work of the Greek philosopher Plato. At Harvard, he taught Martin Luther King Jr.

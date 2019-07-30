@@ -1,1 +1,0 @@
-The Blessed MARTYRS OF LAOS are seventeen Catholic priests and professed religious as well as one lay young man venerated as martyrs killed in Laos between 1954 and 1970 during a period of anti-religious sentiment under the Pathet Lao communist political movement.[1][2]

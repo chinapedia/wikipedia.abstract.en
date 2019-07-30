@@ -1,1 +1,0 @@
-SAN MARIA INTER VINEAS (_St Mary Among the Vineyards_) is a late-Romanesque and early-Gothic-style, Roman Catholic church located on Largo del Cremore in the town of Ascoli Piceno in the region of Marche, Italy.

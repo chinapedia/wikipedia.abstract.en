@@ -1,1 +1,0 @@
-SCIENTIFIC MISCONDUCT is the violation of the standard codes of scholarly conduct and ethical behavior in the publication of professional scientific research. A _Lancet_ review on _Handling of Scientific Misconduct in Scandinavian countries_ provides the following sample definitions:[1] (reproduced in The COPE report 1999.)[2]

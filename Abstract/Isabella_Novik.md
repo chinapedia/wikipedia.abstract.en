@@ -1,1 +1,0 @@
-ISABELLA NOVIK (born 1971)[1] is a mathematician who works at the University of Washington as the Robert R. & Elaine F. Phelps Professor in Mathematics. Her research concerns algebraic combinatorics and polyhedral combinatorics.[2]

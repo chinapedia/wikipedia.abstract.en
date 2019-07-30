@@ -1,1 +1,0 @@
-Kochbuch-eger.jpg SUSANNA EGER, also EGERIN, née BORN (1640–1713) was a German cook and cookbook writer. She is remembered for her pioneering _Leipziger Kochbuch_ (Leipzig Cookbook), first published in 1706.[1] It was later translated into Swedish as _En nödig och nyttig hushålds och kokbok_ (1733), becoming one of Sweden's earliest cookbooks.[2]

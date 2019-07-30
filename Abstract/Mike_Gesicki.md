@@ -1,1 +1,0 @@
-MICHAEL WILLIAM GESICKI (born October 3, 1995) is an American football tight end for the Miami Dolphins of the National Football League. He played college football at Penn State. He is the record holder for most receptions by a tight end in Penn State history.[1] He was drafted in the second round of the 2018 NFL Draft by the Miami Dolphins.

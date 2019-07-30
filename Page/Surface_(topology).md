@@ -1,4 +1,4 @@
-Saddle_Point.png with _x_-, _y_-, and _z_-contours shown.]]
+with _x_-, _y_-, and _z_-contours shown.]]
 
 In mathematics, a SURFACE is a two-dimensional manifold. Some surfaces arise as the boundaries of three-dimensional solids; for example, the sphere is the boundary of the solid ball. Other surfaces arise as graphs of functions of two variables; see the figure at right. However, surfaces can also be defined abstractly, without reference to any ambient space. For example, the Klein bottle is a surface that cannot be embedded in three-dimensional Euclidean space.
 
@@ -33,8 +33,6 @@ In differential and algebraic geometry, extra structure is added upon the topolo
 
 Extrinsically defined surfaces and embeddings
 
-A sphere can be defined parametrically (by _x_ = _r_ sin _θ_ cos _φ_, _y_ = _r_ sin _θ_ sin _φ_, _z_ = _r_ cos _θ_) or implicitly (by 0}}.)
-
 Historically, surfaces were initially defined as subspaces of Euclidean spaces. Often, these surfaces were the locus of zeros of certain functions, usually polynomial functions. Such a definition considered the surface as part of a larger (Euclidean) space, and as such was termed _extrinsic_.
 
 In the previous section, a surface is defined as a topological space with certain properties, namely Hausdorff and locally Euclidean. This topological space is not considered a subspace of another space. In this sense, the definition given above, which is the definition that mathematicians use at present, is _intrinsic_.
@@ -45,7 +43,7 @@ In fact, any compact surface that is either orientable or has a boundary can be 
 
 The Alexander horned sphere is a well-known pathological embedding of the two-sphere into the three-sphere.
 
-KnottedTorus.svg The chosen embedding (if any) of a surface into another space is regarded as extrinsic information; it is not essential to the surface itself. For example, a torus can be embedded into E³ in the "standard" manner (which looks like a bagel) or in a knotted manner (see figure). The two embedded tori are homeomorphic, but not isotopic: They are topologically equivalent, but their embeddings are not.
+The chosen embedding (if any) of a surface into another space is regarded as extrinsic information; it is not essential to the surface itself. For example, a torus can be embedded into E³ in the "standard" manner (which looks like a bagel) or in a knotted manner (see figure). The two embedded tori are homeomorphic, but not isotopic: They are topologically equivalent, but their embeddings are not.
 
 The image of a continuous, injective function from R² to higher-dimensional R^(n) is said to be a parametric surface. Such an image is so-called because the _x_- and _y_- directions of the domain R² are 2 variables that parametrize the image. A parametric surface need not be a topological surface. A surface of revolution can be viewed as a special kind of parametric surface.
 
@@ -91,7 +89,7 @@ A CLOSED SURFACE is a surface that is compact and without boundary. Examples are
 
 Classification of closed surfaces
 
-SurfacesWithAndWithoutBoundary.svg, and the surface of a cube. (The cube and the sphere are topologically equivalent to each other.) Right: Some surfaces with boundary are the disk surface, square surface, and hemisphere surface. The boundaries are shown in red. All three of these are topologically equivalent to each other.]]
+, and the surface of a cube. (The cube and the sphere are topologically equivalent to each other.) Right: Some surfaces with boundary are the disk surface, square surface, and hemisphere surface. The boundaries are shown in red. All three of these are topologically equivalent to each other.]]
 
 The _classification theorem of closed surfaces_ states that any connected closed surface is homeomorphic to some member of one of these three families:
 

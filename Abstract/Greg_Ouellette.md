@@ -1,1 +1,0 @@
-GREG OUELLETTE (born 19 May 1986) is an American Professional tennis player. Ouellette reached a career high singles ranking of 269 on August 12, 2011 winning 5 professional singles titles and 7 doubles titles.[1] He was named the International Tennis Federation (ITF) Player of the Month in October 2010.

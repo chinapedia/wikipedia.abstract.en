@@ -1,1 +1,0 @@
-The ATUEL CANYON (in Spanish _Cañón del Atuel_) is a narrow canyon and popular tourist attraction within Valle Grande, Argentina. The canyon is popular location for adventure sports, including river rafting, hiking, climbing, horse riding and mountain biking.[1][2]

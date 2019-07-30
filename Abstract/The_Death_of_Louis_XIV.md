@@ -1,1 +1,0 @@
-_THE DEATH OF LOUIS XIV_ () is a 2016 historical drama film written and directed by Albert Serra and starring Jean-Pierre Léaud as King Louis XIV. The film was screened out of competition at the 2016 Cannes Film Festival.[1][2] It made its North American premiere at the 2016 Toronto International Film Festival and its U.S. premiere at the 54th New York Film Festival.[3][4]

@@ -1,1 +1,0 @@
-GEORGE TOWNES RISON (February 3, 1850 – January 28, 1929) was an American Democratic politician who served as a member of the Virginia Senate.[1][2] He resigned before the end of his fifth term in 1923.

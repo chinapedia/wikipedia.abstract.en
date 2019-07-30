@@ -1,1 +1,0 @@
-Chiesa_santi_Filippo_e_Giacomo.jpg SANTI FILIPPO E GIACOMO is a Baroque-style, Roman Catholic former-church built adjacent to a former Benedictine abbey, thus also known as the _Chiesa della Badia_, in the town of Canicattì, province of Agrigento, region of Sicily, Italy.

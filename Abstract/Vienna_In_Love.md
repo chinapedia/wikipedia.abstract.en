@@ -1,1 +1,0 @@
-VIENNA IN LOVE are a British alternative rock band, formed in London in 2011 by singer-guitarist Victor Cobbs and guitarist Branko Stefanovic. Vienna In Love's influences include The Cure, Placebo, Echo & the Bunnymen, Kent, and U2. Their single "Tokyo" was ranked at number 7 on The MTV Adria 's Top 20 Domaćica Chart on October 2, 2016.[1][2]

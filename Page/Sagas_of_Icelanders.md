@@ -1,6 +1,6 @@
     _Not to be confused with The saga of Icelanders (Íslendinga saga) which is based on historical events from the 13th century._
 
-Egil_Skallagrimsson_17c_manuscript.jpg in a 17th-century manuscript of Egils Saga]] AM426_Grettir.jpg is ready to fight in this illustration from a 17th-century Icelandic manuscript]] Íslendingasögur.jpg
+in a 17th-century manuscript of Egils Saga]] is ready to fight in this illustration from a 17th-century Icelandic manuscript]]
 
 The SAGAS OF ICELANDERS (), also known as FAMILY SAGAS, are prose narratives mostly based on historical events that mostly took place in Iceland in the 9th, 10th, and early 11th centuries, during the so-called Saga Age. They are the best-known specimens of Icelandic literature.
 

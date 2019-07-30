@@ -1,1 +1,0 @@
-SŎNBONG STATION is a railway station in Sŏnbong-ŭp, Sŏnbong county, Rason Special City, North Hamgyŏng province, North Korea on the Hambuk Line of the Korean State Railway; it is also the starting point of the Sŭngri branch to Sŭngri.[1]

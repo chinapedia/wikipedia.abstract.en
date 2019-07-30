@@ -1,1 +1,0 @@
-KALAVA SRINIVASULU is an Indian politician and a Member of Legislative Assembly[1] elected from Rayadurg Constituency of Andhra Pradesh state. He is the Cabinet Minister for Rural Housing and Information and Public Relations in Andhra Pradesh.He Has been serving as Politburo Member of Telugu Desam Party since June, 2004.

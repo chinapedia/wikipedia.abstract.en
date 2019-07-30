@@ -1,1 +1,0 @@
-ICS_Lima.svg "Lima" called the "Yellow Jack" which when flown in harbor means the ship is under quarantine. A simple yellow flag (also called the "Yellow Jack") had historically been used to signal quarantine (it stands for Q among signal flags), but now indicates the opposite, as a signal of a ship free of disease that requests boarding and inspection.]]

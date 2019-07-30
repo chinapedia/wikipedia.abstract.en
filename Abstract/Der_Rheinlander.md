@@ -1,1 +1,0 @@
-DER RHEINLANDER was a German restaurant in Portland, Oregon's Rose City Park neighborhood, in the United States. It was established by chef Horst Mager, who is originally from Wiesbaden, Germany, in 1963. The restaurant was "under reconsideration for redevelopment" in February 2016,[1][2] and closed in early 2017.[3][4][5]

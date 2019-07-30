@@ -1,1 +1,0 @@
-BOSNIA AND HERZEGOVINA, abbreviated BIH or B&H, sometimes called BOSNIA–HERZEGOVINA and often known informally as BOSNIA, is a country in Southeastern Europe, located within the Balkan Peninsula. Sarajevo is the capital and largest city.

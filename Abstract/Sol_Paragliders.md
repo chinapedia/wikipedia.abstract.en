@@ -1,1 +1,0 @@
-SOL PARAGLIDERS (Sun Paragliders) is a Brazilian aircraft manufacturer based in Jaraguá do Sul and founded by Ary Carlos Pradi. The company specializes in the design and manufacture of paragliders and paramotor wings in the form of ready-to-fly aircraft. The company also produces paragliding harnesses, rescue parachutes and accessories.[1]

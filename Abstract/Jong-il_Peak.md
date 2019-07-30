@@ -1,1 +1,0 @@
-JONG-IL PEAK () is one of the peaks of Mount Sobaek, south-east of Paektu Mountain. The height is 5,899 ft (1,798 m). It is located near the shore of Sobaek Stream, in Samjiyon County, Ryanggang Province, North Korea.

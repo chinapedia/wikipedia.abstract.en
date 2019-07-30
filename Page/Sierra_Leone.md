@@ -15,7 +15,7 @@ History
 
 Early history
 
-Prehistoric_pottery_shards,_Sierra_Leone.jpg pottery from Kamabai Rock Shelter]] slaves_sierra_leone.jpg Freetown,_Sierra_Leone_ca_1856.jpg Houses_at_Sierra-Leone_(May_1853,_X,_p.55)_-_Copy.jpg
+pottery from Kamabai Rock Shelter]]
 
 Archaeological finds show that Sierra Leone has been inhabited continuously for at least 2,500 years,[12] populated successively by societies who migrated from other parts of Africa.[13] The people adopted the use of iron by the 9th century and by 1000 AD agriculture was being practised along the coast.[14] The climate changed considerably and boundaries among different ecological zones changed as well, affecting migration and conquest.[15]
 
@@ -45,11 +45,11 @@ Colonial era (1800–1960)
 
 The settlement of Sierra Leone in the 1800s was unique in that the population was composed of displaced Africans who were brought to the colony after the British abolition of the slave trade in 1807. Upon arrival in Sierra Leone, each "recaptive" was given a registration number, and information on their physical qualities would be entered into the Register of Liberated Africans. However, oftentimes the documentation would be overwhelmingly subjective and would result in inaccurate entries, making them difficult to track. In addition, differences between the Register of Liberated Africans of 1808 and the List of Captured Negroes of 1812 (which emulated the 1808 document) revealed some disparities in the entries of the recaptives, specifically in the names; many recaptives decided to change their given names to more anglicised versions which contributed to the difficulty in tracking them after they arrived in Sierra Leone.
 
-According to the British Act for the Abolition of the Slave Trade in 1807, the recaptives could be subject to apprenticeships led by British colonists in Sierra Leone and the males enlisted into the Army or Navy. In many instances, the recaptives who were assigned to apprenticeships were sold for $20, giving the apprenticeship system qualities similar to slavery.[32] It is documented that the recaptive apprentices were unpaid and the settlers who they were appointed to had devices which could be used to discipline them, namely sticks. According to Suzanne Schwartz, a historian on colonial Sierra Leone, in June 1808 a group of 21 men and women ran away to the nearby native settlement of Robiss and upon recapture were imprisoned by the settlers in Sierra Leone, thus contributing to the slavery-like qualities of the apprenticeship system.[33] Bai_Bureh.jpg, Temne leader of the Hut Tax War of 1898 against British rule]]
+According to the British Act for the Abolition of the Slave Trade in 1807, the recaptives could be subject to apprenticeships led by British colonists in Sierra Leone and the males enlisted into the Army or Navy. In many instances, the recaptives who were assigned to apprenticeships were sold for $20, giving the apprenticeship system qualities similar to slavery.[32] It is documented that the recaptive apprentices were unpaid and the settlers who they were appointed to had devices which could be used to discipline them, namely sticks. According to Suzanne Schwartz, a historian on colonial Sierra Leone, in June 1808 a group of 21 men and women ran away to the nearby native settlement of Robiss and upon recapture were imprisoned by the settlers in Sierra Leone, thus contributing to the slavery-like qualities of the apprenticeship system.[33] , Temne leader of the Hut Tax War of 1898 against British rule]]
 
 In the early 19th century, Freetown served as the residence of the British colonial governor of the region, who also administered the Gold Coast (now Ghana) and the Gambia settlements. Sierra Leone developed as the educational centre of British West Africa. The British established Fourah Bay College here in 1827, which rapidly became a magnet for English-speaking Africans on the West Coast. For more than a century, it was the only European-style university in western Sub-Saharan Africa.
 
-Bai_Bureh_(1898).jpg soldier stands guard next to him ]] The British interacted mostly with the Krios in Freetown, who did most of the trading with the indigenous peoples of the interior. In addition, educated Krios held numerous positions in the colonial government, giving them status and good-paying positions. Following the Berlin Conference of 1884–1885, the UK decided that it needed to establish more dominion over the inland areas, to satisfy what was described by the European powers as "effective occupation" of territories. In 1896 it annexed these areas, declaring them the Sierra Leone Protectorate.[34] With this change, the British began to expand their administration in the region, recruiting British citizens to posts, and pushing Krios out of positions in government and even the desirable residential areas in Freetown.[35]
+soldier stands guard next to him ]] The British interacted mostly with the Krios in Freetown, who did most of the trading with the indigenous peoples of the interior. In addition, educated Krios held numerous positions in the colonial government, giving them status and good-paying positions. Following the Berlin Conference of 1884–1885, the UK decided that it needed to establish more dominion over the inland areas, to satisfy what was described by the European powers as "effective occupation" of territories. In 1896 it annexed these areas, declaring them the Sierra Leone Protectorate.[34] With this change, the British began to expand their administration in the region, recruiting British citizens to posts, and pushing Krios out of positions in government and even the desirable residential areas in Freetown.[35]
 
 In addition, the British annexation of the Protectorate interfered with the sovereignty of indigenous chiefs. They designated chiefs as units of local government, rather than dealing with them individually as had been previous practice. They did not maintain relationships even with longtime allies, such as Bai Bureh, chief of Kasseh, a community on the Small Scarcies River. He was later unfairly portrayed as a prime instigator of the Hut Tax war in 1898.[36]
 
@@ -57,7 +57,7 @@ Colonel Frederic Cardew, military governor of the Protectorate, in 1898 establis
 
 For several months, Bureh's fighters had the advantage over the vastly more powerful British forces, but the British troops and Bureh's warriors suffered hundreds of fatalities.[37] Bai Bureh finally surrendered on 11 November 1898 to end the destruction of his people's territory and dwellings. Although the British government recommended leniency, Cardew insisted on sending the chief and two allies into exile in the Gold Coast;[38] his government hanged 96 of the chief's warriors. Bai Bureh was allowed to return in 1905, when he resumed his chieftaincy of Kasseh.[39]
 
-SierraLeoneP016.tiff, Freetown, Sierra Leone]] British_Expeditionary_Force_in_Freetown,_1919.jpg troops in Freetown, 1914–1916. Published caption: "British expeditionary force preparing to embark at Freetown to attack the German Cameroons, the main object of the attack being the port of Duala. Auxiliary native troops were freely used in African warfare."]] The_Royal_Navy_during_the_Second_World_War_A24465.jpg
+, Freetown, Sierra Leone]] troops in Freetown, 1914–1916. Published caption: "British expeditionary force preparing to embark at Freetown to attack the German Cameroons, the main object of the attack being the port of Duala. Auxiliary native troops were freely used in African warfare."]]
 
 The defeat of the Temne and Mende in the Hut Tax war ended mass resistance to the Protectorate and colonial government, but intermittent rioting and labour unrest continued throughout the colonial period. Riots in 1955 and 1956 involved "many tens of thousands" of Sierra Leonians in the protectorate.[40]
 
@@ -103,7 +103,7 @@ On 18 April 1968 a group of low ranking soldiers in the Sierra Leone Army who ca
 
 One-party state (1968–1991)
 
-All_People's_Congress_political_rally_Sierra_Leone_1968.jpg political rally in the northern town of Kabala outside the home of supporters of the rival SLPP in 1968]]
+political rally in the northern town of Kabala outside the home of supporters of the rival SLPP in 1968]]
 
 Stevens assumed power again in 1968 with a great deal of hope and ambition. Much trust was placed upon him as he championed multi-party politics. Stevens had campaigned on a platform of bringing the tribes together under socialist principles. During his first decade or so in power, Stevens renegotiated some of what he called "useless prefinanced schemes" contracted by his predecessors, both Albert Margai of the SLPP and Juxon-Smith of the NRC. Some of these policies by the SLPP and the NRC were said to have left the country in an economically deprived state.
 
@@ -133,7 +133,7 @@ The next couple of years under the Momoh administration were characterised by co
 
 Sierra Leone Civil War (1991–2002)
 
-School_destroyed_by_Sierra_Leone_Civil_War.jpg destroyed during the Civil War; in total 1,270 primary schools were destroyed in the War.[60]]] In October 1990, owing to mounting pressure from both within and outside the country for political and economic reform, president Momoh set up a constitutional review commission to assess the 1978 one-party constitution. Based on the commission's recommendations a constitution re-establishing a multi-party system was approved by the exclusive APC Parliament by a 60% majority vote, becoming effective on 1 October 1991. There was great suspicion that president Momoh was not serious about his promise of political reform, as APC rule continued to be increasingly marked by abuses of power.
+destroyed during the Civil War; in total 1,270 primary schools were destroyed in the War.[60]]] In October 1990, owing to mounting pressure from both within and outside the country for political and economic reform, president Momoh set up a constitutional review commission to assess the 1978 one-party constitution. Based on the commission's recommendations a constitution re-establishing a multi-party system was approved by the exclusive APC Parliament by a 60% majority vote, becoming effective on 1 October 1991. There was great suspicion that president Momoh was not serious about his promise of political reform, as APC rule continued to be increasingly marked by abuses of power.
 
 The brutal civil war that was going on in neighbouring Liberia played a significant role in the outbreak of fighting in Sierra Leone. Charles Taylor – then leader of the National Patriotic Front of Liberia – reportedly helped form the Revolutionary United Front (RUF) under the command of former Sierra Leonean army corporal Foday Saybana Sankoh, an ethnic Temne from Tonkolili District in Northern Sierra Leone. Sankoh was a British trained former army corporal who had also undergone guerrilla training in Libya. Taylor's aim was for the RUF to attack the bases of Nigerian dominated peacekeeping troops in Sierra Leone who were opposed to his rebel movement in Liberia.
 
@@ -186,8 +186,6 @@ In 2018, Sierra Leone held a general election. The presidential election, in whi
 
 Geography and climate
 
-UNsierraleone.PNG Koppen-Geiger_Map_SLE_present.svg
-
 Sierra Leone is located on the southwest coast of West Africa, lying mostly between latitudes 7° and 10°N (a small area is south of 7°), and longitudes 10° and 14°W. The country is bordered by Guinea to the north and east, Liberia to the southeast, and the Atlantic Ocean to the west and southwest.[75]
 
 Sierra Leone has a total area of , divided into a land area of and water of .[76] The country has four distinct geographical regions. In eastern Sierra Leone the plateau is interspersed with high mountains, where Mount Bintumani reaches , the highest point in the country. The upper part of the drainage basin of the Moa River is located in the south of this region.
@@ -217,7 +215,7 @@ In June 2005, the Royal Society for the Protection of Birds (RSPB) and BirdLife 
 
 Government and politics
 
-Ernest_Bai_Koroma.jpg, former president of Sierra Leone]] Sierra Leone is a constitutional republic with a directly elected president and a unicameral legislature. The current system of the Government of Sierra Leone is based on the 1991 Sierra Leone Constitution. Sierra Leone has a dominant unitary central government and a weak local government. The executive branch of the Government of Sierra Leone, headed by the president of Sierra Leone has extensive powers and influences. The president is the most powerful government official in Sierra Leone.[89]
+, former president of Sierra Leone]] Sierra Leone is a constitutional republic with a directly elected president and a unicameral legislature. The current system of the Government of Sierra Leone is based on the 1991 Sierra Leone Constitution. Sierra Leone has a dominant unitary central government and a weak local government. The executive branch of the Government of Sierra Leone, headed by the president of Sierra Leone has extensive powers and influences. The president is the most powerful government official in Sierra Leone.[89]
 
 Within the confines of the 1991 Constitution, supreme legislative powers are vested in Parliament, which is the law making body of the nation. Supreme executive authority rests in the president and members of his cabinet and judicial power with the judiciary of which the Chief Justice is head.
 
@@ -231,7 +229,7 @@ Next to the president is the Vice-president, who is the second-highest ranking g
 
 Parliament
 
-Freetown_Court_1984.jpg in the capital Freetown, the highest and most powerful court in the country]] The Parliament of Sierra Leone is unicameral, with 124 seats. Each of the country's fourteen districts is represented in parliament. 112 members are elected concurrently with the presidential elections; the other 12 seats are filled by paramount chiefs from each of the country's 12 administrative districts. The Sierra Leone parliament is led by the Speaker of Parliament, who is the overall leader of Parliament and is directly elected by sitting members of parliament. The current speaker of the Sierra Leone parliament is Sheku Badara Bashiru Dumbuya, who was elected by members of parliament on 21 January 2014.
+in the capital Freetown, the highest and most powerful court in the country]] The Parliament of Sierra Leone is unicameral, with 124 seats. Each of the country's fourteen districts is represented in parliament. 112 members are elected concurrently with the presidential elections; the other 12 seats are filled by paramount chiefs from each of the country's 12 administrative districts. The Sierra Leone parliament is led by the Speaker of Parliament, who is the overall leader of Parliament and is directly elected by sitting members of parliament. The current speaker of the Sierra Leone parliament is Sheku Badara Bashiru Dumbuya, who was elected by members of parliament on 21 January 2014.
 
 The current members of Parliament of Sierra Leone were elected in the 2012 Sierra Leone parliamentary election. The All People's Congress (APC) currently has 70 of the 112 elected parliamentary seats and the Sierra Leone People's Party (SLPP) has 42 of the elected 132 parliamentary seats. Sierra Leone's two most dominant parties, the APC and the SLPP, collectively won every elected seats in Parliament in the 2012 Sierra Leone parliamentary election. To be qualified as Member of Parliament, the person must be a citizen of Sierra Leone, must be at least 21 years old, must be able to speak, read and write the English language with a degree of proficiency to enable him to actively take part in proceedings in Parliament; and must not have any criminal conviction.[91]
 
@@ -243,8 +241,6 @@ The judicial power of Sierra Leone is vested in the judiciary, headed by the Chi
 
 Foreign relations
 
-Embassy_of_Sierra_Leone.JPG
-
 The Sierra Leone Ministry of Foreign Affairs and International Cooperation is responsible for foreign policy of Sierra Leone. Sierra Leone has diplomatic relations that include China, Russia,[94] Libya, Iran, and Cuba. Sierra Leone has good relations with the West, including the United States, and has maintained historical ties with the United Kingdom and other former British colonies through membership in the Commonwealth of Nations.[95] The United Kingdom has played a major role in providing aid to the former colony, together with administrative help and military training since intervening to end the Civil War in 2000.
 
 Former President Siaka Stevens' government had sought closer relations with other West African countries under the Economic Community of West African States (ECOWAS) a policy continued by the current government. Sierra Leone, along with Liberia and Guinea, form the Mano River Union (MRU). It is primarily designed to implement development projects and promote regional economic integration between the three countries.[96]
@@ -253,7 +249,7 @@ Sierra Leone is also a member of the United Nations and its specialised agencies
 
 Administrative divisions
 
-Sierra_Leone_Districts.png The Republic of Sierra Leone is composed of four regions: the Northern Province, Southern Province, the Eastern Province, and the Western Area. Three provinces are further divided into 12 districts; and the Western Area is divided into two districts.
+The Republic of Sierra Leone is composed of four regions: the Northern Province, Southern Province, the Eastern Province, and the Western Area. Three provinces are further divided into 12 districts; and the Western Area is divided into two districts.
 
 The provincial districts are divided into 149 chiefdoms, which have traditionally been led by paramount chiefs, recognised by the British administration in 1896 at the time of organising the Protectorate of Sierra Leone. The Paramount Chiefs are very influential, particularly in villages and small rural towns.[98] Each chiefdom has ruling families that were recognised at that time; the Tribal Authority, made up of local notables, elects the paramount chief from the ruling families.[99] Typically, chiefs have the power to "raise taxes, control the judicial system, and allocate land, the most important resource in rural areas."[100]
 
@@ -315,7 +311,7 @@ Each one of Sierra Leone's 14 districts is headed by a district police commissio
 
 Economy
 
-Sierra_Leone_Export_Treemap.png By the 1990s economic activity was declining and economic infrastructure had become seriously degraded. Over the next decade much of the formal economy was destroyed in the country's civil war. Since the end of hostilities in January 2002, massive infusions of outside assistance have helped Sierra Leone begin to recover.[123]
+By the 1990s economic activity was declining and economic infrastructure had become seriously degraded. Over the next decade much of the formal economy was destroyed in the country's civil war. Since the end of hostilities in January 2002, massive infusions of outside assistance have helped Sierra Leone begin to recover.[123]
 
 Much of the recovery will depend on the success of the government's efforts to limit corruption by officials, which many feel was the chief cause for the civil war. A key indicator of success will be the effectiveness of government management of its diamond sector.
 
@@ -327,7 +323,7 @@ Sierra Leone is a country that is exposed to vulnerable situations (not so as a 
 
 Agriculture
 
-Sierra_Leone_rice_farmer.jpg.[125]]]
+.[125]]]
 
 Two-thirds of the population of Sierra Leone are directly involved in subsistence agriculture.[126] Agriculture accounted for 58 percent of gross domestic product (GDP) in 2007.[127]
 
@@ -370,7 +366,7 @@ Sierra Leone has one of the world's largest deposits of rutile, a titanium ore u
 
 Transport infrastructure
 
-Kenema-Kailahun_Road.jpg to Kailahun District]] There are a number of systems of transport in Sierra Leone, which has a road, air and water infrastructure, including a network of highways and several airports. There are of highways in Sierra Leone, of which [133] are paved (about 8% of the roads). Sierra Leone highways are linked to Conakry, Guinea, and Monrovia, Liberia.
+to Kailahun District]] There are a number of systems of transport in Sierra Leone, which has a road, air and water infrastructure, including a network of highways and several airports. There are of highways in Sierra Leone, of which [133] are paved (about 8% of the roads). Sierra Leone highways are linked to Conakry, Guinea, and Monrovia, Liberia.
 
 Sierra Leone has the largest natural harbour on the African continent, allowing international shipping through the Queen Elizabeth II Quay in the Cline Town area of eastern Freetown or through Government Wharf in central Freetown. There are of waterways in Sierra Leone, of which are navigable year-round. Major port cities are Bonthe, Freetown, Sherbro Island and Pepel.
 
@@ -401,8 +397,6 @@ Society
 
 Demographics
 
-Sierra-Leone-demography.png
-
 In 2013 Sierra Leone had an officially projected population of 6,190,280[157] and a growth rate of 2.216% a year.[158] The country's population is mostly young, with an estimated 41.7% under 15, and rural, with an estimated 62% of people living outside the cities.[159] As a result of migration to cities, the population is becoming more urban with an estimated rate of urbanisation growth of 2.9% a year.[160][161]
 
 Population density varies greatly within Sierra Leone. The Western Area Urban District, including Freetown, the capital and largest city, has a population density of 1,224 persons per square km. The largest district geographically, Koinadugu, has a much lower density of 21.4 persons per square km.[162]
@@ -415,7 +409,7 @@ The populations quoted above for the five largest cities are from the 2004 censu
 
 Religion
 
-Pendemdu_Mosque_and_Church.JPG Sierra Leone is officially a secular state, although Islam and Christianity are the two main religions in the country. The constitution of Sierra Leone provides for freedom of religion and the Sierra Leone Government generally protects it. The Sierra Leone Government is constitutionally forbidden from establishing a state religion, though Muslim and Christian prayers are usually held in the country at the beginning of major political occasions, including presidential inauguration and the official opening of the new session of Parliament.
+Sierra Leone is officially a secular state, although Islam and Christianity are the two main religions in the country. The constitution of Sierra Leone provides for freedom of religion and the Sierra Leone Government generally protects it. The Sierra Leone Government is constitutionally forbidden from establishing a state religion, though Muslim and Christian prayers are usually held in the country at the beginning of major political occasions, including presidential inauguration and the official opening of the new session of Parliament.
 
 Based on recent estimates of the population of Sierra Leone, 71% of the population are Muslims, 27% are Christians, and 2% practice African traditional religion.
 
@@ -437,7 +431,7 @@ Non-denominational Christians form a significant minority of Sierra Leone's Chri
 
 Ethnic groups
 
-Sierra_Leone_ethnic_groups.svg]]
+]]
 
 +-----------------+
 | ETHNIC GROUPS   |
@@ -534,7 +528,7 @@ Small female-operated business not only could contribute to Sierra Leone's econo
 
 Education
 
-Classroom_at_a_seconday_school_in_Pendembu_Sierra_Leone.jpg, Kailahun District]]
+, Kailahun District]]
 
 Education in Sierra Leone is legally required for all children for six years at primary level (Class P1-P6) and three years in junior secondary education,[226] but a shortage of schools and teachers has made implementation impossible.[227] Two thirds of the adult population of the country are illiterate.[228]
 
@@ -579,7 +573,7 @@ According to a national survey carried out in 2006, 84% of the urban population 
 
 With a new decentralisation policy, embodied in the Local Government Act of 2004, responsibility for water supply in areas outside the capital was passed from the central government to local councils. In Freetown the Guma Valley Water Company remains in charge of water supply.
 
-Guinea_Liberia_Sierra_Leone_Ebola_Map_August_8_2014.jpg as of 8 August 2014]]
+as of 8 August 2014]]
 
 2014 Ebola outbreak
 
@@ -596,7 +590,7 @@ Polygamy
 
 Food and customs
 
-Sierra_Leone_rice_farming.jpg Rice is the staple food of Sierra Leone and is consumed at virtually every meal daily. The rice is prepared in numerous ways, and topped with a variety of sauces made from some of Sierra Leone's favourite toppings, including potato leaves, cassava leaves, crain crain, okra soup, fried fish and groundnut stew.[260]
+Rice is the staple food of Sierra Leone and is consumed at virtually every meal daily. The rice is prepared in numerous ways, and topped with a variety of sauces made from some of Sierra Leone's favourite toppings, including potato leaves, cassava leaves, crain crain, okra soup, fried fish and groundnut stew.[260]
 
 Along the streets of towns and cities across Sierra Leone one can find foods consisting of fruit, vegetables and snacks such as fresh mangoes, oranges, pineapple, fried plantains, ginger beer, fried potato, fried cassava with pepper sauce; small bags of popcorn or peanuts, bread, roasted corn, or skewers of grilled meat or shrimp.
 
@@ -604,7 +598,7 @@ Poyo is a popular Sierra Leonean drink. It is a sweet, lightly fermented palm wi
 
 Media
 
-Radio_listener_in_Sierra_Leone.jpg]] Media in Sierra Leone began with the introduction of the first printing press in Africa at the start of the 19th century. A strong free journalistic tradition developed with the creation of a number of newspapers. In the 1860s, the country became a journalist hub for Africa, with professionals travelling to the country from across the continent. At the end of the 19th century, the industry went into decline, and when radio was introduced in the 1930s, it became the primary communication media in the country.
+]] Media in Sierra Leone began with the introduction of the first printing press in Africa at the start of the 19th century. A strong free journalistic tradition developed with the creation of a number of newspapers. In the 1860s, the country became a journalist hub for Africa, with professionals travelling to the country from across the continent. At the end of the 19th century, the industry went into decline, and when radio was introduced in the 1930s, it became the primary communication media in the country.
 
 The Sierra Leone Broadcasting Service (SLBS) was created by the colonial government in 1934 making it the earliest English language radio broadcaster service in West Africa. The service began broadcasting television in 1963, with coverage extended to all the districts in the country in 1978. In April 2010, the SLBS merged with the United Nations peacekeeping radio station in Sierra Leone to form the Sierra Leone Broadcasting Corporation,[262][263] the government-owned current national broadcaster in Sierra Leone.
 
@@ -614,7 +608,7 @@ Under legislation enacted in 1980, all newspapers must register with the Ministr
 
 Print media is not widely read in Sierra Leone, especially outside Freetown and other major cities, partially due to the low levels of literacy in the country.[275] In 2007 there were 15 daily newspapers in the country, as well as those published weekly.[276] Among newspaper readership, young people are likely to read newspapers weekly and older people daily. The majority of newspapers are privately run and are often critical of the government. The standard of print journalism tends to be low owing to lack of training, and people trust the information published in newspapers less than that found on the radio.[277]
 
-Isata_Mahoi_radio_editor_and_actress.jpg shown editing radio programmes in Talking Drum studio Freetown; she is also an actress in the Sierra Leone radio soap opera _Atunda Ayenda_]] Radio is the most-popular and most-trusted media in Sierra Leone, with 85% of people having access to a radio and 72% of people in the country listening to the radio daily.[278] These levels do vary between areas of the country, with the Western Area having the highest levels and Kailahun the lowest. Stations mainly consist of local commercial stations with a limited broadcast range, combined with a few stations with national coverage – Capital Radio Sierra Leone being the largest of the commercial stations.
+shown editing radio programmes in Talking Drum studio Freetown; she is also an actress in the Sierra Leone radio soap opera _Atunda Ayenda_]] Radio is the most-popular and most-trusted media in Sierra Leone, with 85% of people having access to a radio and 72% of people in the country listening to the radio daily.[278] These levels do vary between areas of the country, with the Western Area having the highest levels and Kailahun the lowest. Stations mainly consist of local commercial stations with a limited broadcast range, combined with a few stations with national coverage – Capital Radio Sierra Leone being the largest of the commercial stations.
 
 The United Nations Mission in Sierra Leone (UNIOSIL) ran one of the most popular stations in the country, broadcasting programs in a range of languages. The UN mission were restructured in 2008 and it was decided that the UN Radio would be merged with SLBS to form the new Sierra Leone Broadcasting Corporation (SLBC). This merger eventually happened in 2011 after the necessary legislation was enacted. SLBC transmits radio on FM and has two television services, one of which is uplinked by satellite for international consumption. FM relays of BBC World Service (in Freetown, Bo, Kenema and Makeni), Radio France Internationale (Freetown only) and Voice of America (Freetown only) are also broadcast.
 
@@ -629,8 +623,6 @@ The arts in Sierra Leone are a mixture of tradition and hybrid African and weste
 File:Temne. Ode-Lay Mask Brooklyn Museum.jpg|Odelay mask by Temne people. Brooklyn Museum. File:Sierra Leone Koindu dance.jpg|The Koindu dance
 
 Sports
-
-Sierra_Leone_National_Stadium.jpg
 
 Football is by far the most popular sport in Sierra Leone. Children, youth and adult are frequently seen playing street football across Sierra Leone. There are organised youth and adult football tournaments across the country, and there are various primary and secondary schools with football teams across Sierra Leone.
 

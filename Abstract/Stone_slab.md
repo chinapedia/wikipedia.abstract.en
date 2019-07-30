@@ -1,1 +1,0 @@
-RO_B_Village_Museum_Rapciuni_church_stone_table_1.jpg Cova_d'en_Daina1.JPG A STONE SLAB is a big stone, flat and of little thickness, that are generally used for paving floors, for covering walls or as headstones.[1]

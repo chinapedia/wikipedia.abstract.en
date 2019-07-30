@@ -1,1 +1,0 @@
-S.AISHWARYA born on 27 October 1995 in Chennai, Tamil Nadu is an Indian singer of traditional Carnatic music.[1] She is the great-granddaughter of M. S. Subbulakshmi.[2] and the grand-daughter of Radha Viswanathan.

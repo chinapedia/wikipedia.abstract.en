@@ -1,1 +1,0 @@
-CHURCHES UNITING IN CHRIST (CUIC) is an ecumenical organization that brings together mainline American denominations (including both predominantly white and predominantly black churches), and was inaugurated on January 20, 2002 in Memphis, Tennessee on the balcony of the Lorraine Motel.[1] It is the successor organization to the Consultation on Church Union.

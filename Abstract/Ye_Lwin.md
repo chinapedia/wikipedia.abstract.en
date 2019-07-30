@@ -1,1 +1,0 @@
-YE LWIN (; born 15 May 1951) is the mayor of Myanmar's second largest city, Mandalay. He was concurrently appointed as Mandalay's mayor and chairman of the Mandalay City Development Committee on 5 April 2016.[1] Ye Lwin was previously an honorary professor at University of Medicine, Mandalay.[2]

@@ -1,1 +1,0 @@
-_TRIPLE THREAT_ is an 2019 martial arts film directed by Jesse V. Johnson and starring Tony Jaa, Iko Uwais and Tiger Chen, as well as Scott Adkins, Michael Jai White, Michael Bisping, Celina Jade, and Jeeja Yanin.[1]

@@ -1,1 +1,0 @@
-CHAN TING-I () is a Taiwanese politician. She is also known by the name NICOLE CHAN.[1] Chan became the chairperson of the National Communications Commission on 1 August 2016.[2] She resigned the position on 3 April 2019.[3]

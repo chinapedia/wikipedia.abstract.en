@@ -1,1 +1,0 @@
-BRIDGE 12 is a historic Parker through truss bridge, carrying Boston Post Road across the Missisquoi River in Enosburg, Vermont. Built in 1929 in the wake of Vermont's devastating 1927 floods, it is one a shrinking number of surviving truss bridges on the river. It was listed on the National Register of Historic Places in 2007.[1]

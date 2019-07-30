@@ -1,1 +1,0 @@
-SICELE O'BRIEN (1 April 1887 – 18 June 1931) was one of Ireland's pioneering pilots. She was one of three women who raced and set records in Europe and Africa in the 1920s. She was the second woman in Britain or Ireland to get a commercial pilots licence. She was the first woman in Britain or Ireland to run an air taxi service.[1]

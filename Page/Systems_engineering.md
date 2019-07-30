@@ -1,4 +1,4 @@
-Systems_engineering_application_projects_collage.jpg, requirements analysis and scheduling to manage complexity.]]
+, requirements analysis and scheduling to manage complexity.]]
 
 SYSTEMS ENGINEERING is an interdisciplinary field of engineering and engineering management that focuses on how to design and manage complex systems over their life cycles. At its core, systems engineering utilizes systems thinking principles to organize this body of knowledge. The individual outcome of such efforts, an ENGINEERED SYSTEM, can be defined as a combination of components that work in synergy to collectively perform a useful function.
 
@@ -9,7 +9,7 @@ The systems engineering process is a discovery process that is quite unlike a ma
 
 History
 
-A1_House_of_Quality.png for Enterprise Product Development Processes]] The term _systems engineering_ can be traced back to Bell Telephone Laboratories in the 1940s.[1] The need to identify and manipulate the properties of a system as a whole, which in complex engineering projects may greatly differ from the sum of the parts' properties, motivated various industries, especially those developing systems for the U.S. Military, to apply the discipline.[2]
+for Enterprise Product Development Processes]] The term _systems engineering_ can be traced back to Bell Telephone Laboratories in the 1940s.[1] The need to identify and manipulate the properties of a system as a whole, which in complex engineering projects may greatly differ from the sum of the parts' properties, motivated various industries, especially those developing systems for the U.S. Military, to apply the discipline.[2]
 
 When it was no longer possible to rely on design evolution to improve upon a system and the existing tools were not sufficient to meet growing demands, new methods began to be developed that addressed the complexity directly.[3] The continuing evolution of systems engineering comprises the development and identification of new methods and modeling techniques. These methods aid in a better comprehension of the design and developmental control of engineering systems as they grow more complex. Popular tools that are often used in the systems engineering context were developed during these times, including USL, UML, QFD, and IDEF0.
 
@@ -62,7 +62,7 @@ Managing complexity
 
 The need for systems engineering arose with the increase in complexity of systems and projects,[22][23] in turn exponentially increasing the possibility of component friction, and therefore the unreliability of the design. When speaking in this context, complexity incorporates not only engineering systems, but also the logical human organization of data. At the same time, a system can become more complex due to an increase in size as well as with an increase in the amount of data, variables, or the number of fields that are involved in the design. The International Space Station is an example of such a system.
 
-STS-134_International_Space_Station_after_undocking.jpg is an example of a largely complex system requiring Systems Engineering.]]
+is an example of a largely complex system requiring Systems Engineering.]]
 
 The development of smarter control algorithms, microprocessor design, and analysis of environmental systems also come within the purview of systems engineering. Systems engineering encourages the use of tools and methods to better comprehend and manage complexity in systems. Some examples of these tools can be seen here:[24]
 
@@ -79,7 +79,7 @@ Taking an interdisciplinary approach to engineering systems is inherently comple
 
 Scope
 
-SE_Activities.jpg One way to understand the motivation behind systems engineering is to see it as a method, or practice, to identify and improve common rules that exist within a wide variety of systems. Keeping this in mind, the principles of systems engineering – holism, emergent behavior, boundary, et al. – can be applied to any system, complex or otherwise, provided systems thinking is employed at all levels.[25] Besides defense and aerospace, many information and technology based companies, software development firms, and industries in the field of electronics & communications require systems engineers as part of their team.[26]
+One way to understand the motivation behind systems engineering is to see it as a method, or practice, to identify and improve common rules that exist within a wide variety of systems. Keeping this in mind, the principles of systems engineering – holism, emergent behavior, boundary, et al. – can be applied to any system, complex or otherwise, provided systems thinking is employed at all levels.[25] Besides defense and aerospace, many information and technology based companies, software development firms, and industries in the field of electronics & communications require systems engineers as part of their team.[26]
 
 An analysis by the INCOSE Systems Engineering center of excellence (SECOE) indicates that optimal effort spent on systems engineering is about 15-20% of the total project effort.[27] At the same time, studies have shown that systems engineering essentially leads to reduction in costs among other benefits.[28] However, no quantitative survey at a larger scale encompassing a wide variety of industries has been conducted until recently. Such studies are underway to determine the effectiveness and quantify the benefits of systems engineering.[29][30]
 
@@ -129,7 +129,7 @@ The systems engineering process encompasses all creative, manual and technical a
 
 Depending on their application, tools are used for various stages of the systems engineering process:[44]
 
-    Systems_Engineering_Process.jpg
+
 
 Using models
 

@@ -1,1 +1,0 @@
-DIANA, PRINCESS OF WALES (born DIANA FRANCES SPENCER; 1 July 1961 – 31 August 1997), was a member of the British royal family. She was the first wife of Charles, Prince of Wales, and the mother of Prince William, Duke of Cambridge, and Prince Harry, Duke of Sussex.

@@ -1,4 +1,4 @@
-Saint_Joseph's_Catholic_Church_(Central_City,_Kentucky)_-_stained_glass,_St._Theresa_of_Ávila_detail.jpg. In traditional Christian iconography, saints are often depicted with halos as a symbol of holiness.]]
+. In traditional Christian iconography, saints are often depicted with halos as a symbol of holiness.]]
 
 A SAINT is a person who is recognized as having an exceptional degree of holiness or likeness or closeness to God. However, the use of the term "saint" depends on the context and denomination. In Roman Catholic, Eastern Orthodox, Anglican, Oriental Orthodox, and Lutheran doctrine, all of their faithful deceased in Heaven are considered to be saints, but some are considered worthy of greater honor or emulation;[1] official ecclesiastical recognition, and consequently veneration, is given to some saints through the process of canonization in the Catholic Church or glorification in the Eastern Orthodox Church.[2]
 
@@ -27,7 +27,7 @@ Christianity
 
 Catholic Church
 
-Cimabue_Saint_Francis_Fragment.jpg by the Italian artist Cimabue (1240–1302)]]
+by the Italian artist Cimabue (1240–1302)]]
 
 According to the Catholic Church, a "saint" is anyone in Heaven, whether recognized on Earth or not, who form the "great cloud of witnesses" (Hebrews 12:1).[10]<ref CHURCH"> These "may include our own mothers, grandmothers or other loved ones (cf. 2 Tim 1:5)" who may have not always lived perfect lives but "amid their faults and failings they kept moving forward and proved pleasing to the Lord".[11] The title "Saint" denotes a person who has been formally canonized, that is, officially and authoritatively declared a saint, by the Church as holder of the Keys of the Kingdom of Heaven, and is therefore believed to be in Heaven by the grace of God. There are many persons that the Church believes to be in Heaven who have not been formally canonized and who are otherwise titled "saints" because of the fame of their holiness.[12] Sometimes the word "saint" also denotes living Christians.[13]
 
@@ -89,7 +89,7 @@ According to the Church of England, a saint is one who is sanctified, as it tran
 
 Lutheranism
 
-AugsburgConfessionXXIOfTheWorshipoftheSaints.JPG Article XXI.[45]]] In the Lutheran Church, all Christians, whether in heaven or on earth, are regarded as saints. However, the church still recognizes and honors specific saints, including some of those recognized by the Catholic Church, but in a qualified way: according to the Augsburg Confession,[46] the term "saint" is used in the manner of the Catholic Church only insofar as to denote a person who received exceptional grace, was sustained by faith, and whose good works are to be an example to any Christian. Traditional Lutheran belief accounts that prayers _to_ the saints are prohibited, as they are not mediators of redemption.[47][48] But, Lutherans do believe that saints pray for the Christian Church in general.[49] Philip Melanchthon, the author of the Apology of the Augsburg Confession, approved honoring the saints by saying they are honored in three ways:
+Article XXI.[45]]] In the Lutheran Church, all Christians, whether in heaven or on earth, are regarded as saints. However, the church still recognizes and honors specific saints, including some of those recognized by the Catholic Church, but in a qualified way: according to the Augsburg Confession,[46] the term "saint" is used in the manner of the Catholic Church only insofar as to denote a person who received exceptional grace, was sustained by faith, and whose good works are to be an example to any Christian. Traditional Lutheran belief accounts that prayers _to_ the saints are prohibited, as they are not mediators of redemption.[47][48] But, Lutherans do believe that saints pray for the Christian Church in general.[49] Philip Melanchthon, the author of the Apology of the Augsburg Confession, approved honoring the saints by saying they are honored in three ways:
 
     1. By thanking God for examples of His mercy;
     2. By using the saints as examples for strengthening our faith; and

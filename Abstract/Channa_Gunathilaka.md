@@ -1,1 +1,0 @@
-Major General CHANNA GUNATHILAKA, RSP, USP, ndc, psc, SLE (born 1963) is a Sri Lankan general, who is the current Deputy Chief of Staff of the Sri Lanka Army. He was the former Commandant of the Sri Lanka Army Volunteer Force, Security Force Commander (Central), Military Secretary, Security Force Commander (Kilinochchi), GOC - 56th Infantry Division, GOC - Mannar.[1][2]

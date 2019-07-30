@@ -1,1 +1,0 @@
-SELO in Java, Indonesia is a village on the saddle of ground between the two volcanoes n Central Java, Mount Merbabu and Mount Merapi. It is regularly identified as _Selo, Boyolali_ due to its district name and immediate administrative centre having that name[1]

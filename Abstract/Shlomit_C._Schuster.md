@@ -1,1 +1,0 @@
-SHLOMIT C. SCHUSTER (; born 19 July 1951 in Suriname and died 15 Feb 2016 in Israel) was an Israeli Philosophical Counselor,[1] and considered a pioneer in the Philosophical counseling field.[2] Her first book is considered a source of learning and teaching Philosophical counseling .[3]

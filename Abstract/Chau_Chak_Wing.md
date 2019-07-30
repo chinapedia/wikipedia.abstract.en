@@ -1,1 +1,0 @@
-CHAU CHAK-WING (; born 1954),[1] is a Chinese-born Australian property developer known for his Kingold Group business based in Guangzhou, People's Republic of China (PRC).[2] He is a citizen of Australia, from Chaozhou, China,[3] and known for the $70 million purchase of the house of James Packer in 2015.[4]

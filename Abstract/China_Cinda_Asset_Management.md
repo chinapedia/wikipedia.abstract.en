@@ -1,1 +1,0 @@
-CHINA CINDA ASSET MANAGEMENT CO., LTD. known as CHINA CINDA or just CINDA is a Chinese merchant bank and asset management company. The corporation was founded as a state-owned enterprise and a bad bank for China Construction Bank in 1999. The bank received shares by debt-to-equity swap on non-performing loans. In 2010, the corporation became a "company limited by shares" ().[1]

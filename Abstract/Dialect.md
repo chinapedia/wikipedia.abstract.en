@@ -1,1 +1,0 @@
-The term DIALECT (from Latin , , from the Ancient Greek word , , "discourse", from , , "through" and , , "I speak") is used in two distinct ways to refer to two different types of linguistic phenomena:

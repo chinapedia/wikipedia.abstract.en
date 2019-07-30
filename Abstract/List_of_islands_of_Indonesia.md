@@ -1,1 +1,0 @@
-Indonesia_map.png

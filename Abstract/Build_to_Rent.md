@@ -1,1 +1,0 @@
-BUILD TO RENT (B2R) refers to the emerging sub-market in private rented residential stock in the United Kingdom, designed specifically for renting rather than for sale, typically owned by institutional investors and managed by specialist operators. The product is in many ways synonymous with the multi-family sector in the United States.

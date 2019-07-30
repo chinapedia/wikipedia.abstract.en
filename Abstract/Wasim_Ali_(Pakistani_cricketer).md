@@ -1,1 +1,0 @@
-WASIM ALI (born 8 June 1969) is a Pakistani former cricketer. He played 63 first-class matches in Pakistan between 1985 and 1994.[1] He was also part of Pakistan's squad for the 1988 Youth Cricket World Cup.[2]

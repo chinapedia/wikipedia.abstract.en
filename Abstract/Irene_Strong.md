@@ -1,1 +1,0 @@
-IRENE WATLER (born IRENE MARIE STRONG, 3 March 1929)[1][2][3][4] is a Canadian former competitive swimmer from Surrey, British Columbia.[5] She competed at the 1948 Summer Olympics and the 1952 Summer Olympics.[6]

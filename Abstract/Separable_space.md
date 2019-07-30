@@ -1,1 +1,0 @@
-In mathematics, a topological space is called SEPARABLE if it contains a countable, dense subset; that is, there exists a sequence {x_(n)}_(n = 1)^(∞) of elements of the space such that every nonempty open subset of the space contains at least one element of the sequence.

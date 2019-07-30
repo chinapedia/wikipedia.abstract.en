@@ -1,1 +1,0 @@
-The GURDWARA SAHIB WOOLWICH is a Sikh gurdwara in central Woolwich in the Royal Borough of Greenwich, South East London. It was built in 1814–16 as a Methodist church and converted into a Sikh place of worship in the late 1970s. The main hall is Grade II-listed; the former Soldier's Institute and Sunday School next door, now in use as a langar, is not.

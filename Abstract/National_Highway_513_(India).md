@@ -1,1 +1,0 @@
-NATIONAL HIGHWAY 513 (NH 513) is a National Highway in North East India that connects Pasighat and Yingkiong in Arunachal Pradesh. [1] It is a secondary route of National Highway 13.[2] NH-513 runs entirely in the state of Arunachal Pradesh in India.[3]

@@ -1,1 +1,0 @@
-ATOMIC may refer to:

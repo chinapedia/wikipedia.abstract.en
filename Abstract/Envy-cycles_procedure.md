@@ -1,1 +1,0 @@
-The ENVY-CYCLES PROCEDURE is a procedure for fair item assignment. It can be used by several people who want to divide among them several discrete items, such as heirlooms, sweets, or seats in a class.

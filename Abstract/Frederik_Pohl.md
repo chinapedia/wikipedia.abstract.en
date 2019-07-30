@@ -1,1 +1,0 @@
-FREDERIK GEORGE POHL JR. (; November 26, 1919 – September 2, 2013) was an American science-fiction writer, editor, and fan, with a career spanning more than 75 years—from his first published work, the 1937 poem "Elegy to a Dead Satellite: Luna", to the 2011 novel _All the Lives He Led_ and articles and essays published in 2012.[1]

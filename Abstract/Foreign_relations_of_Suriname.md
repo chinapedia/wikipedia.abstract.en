@@ -1,1 +1,0 @@
-As part of the FOREIGN RELATIONS OF SURINAME, the country is a participant in numerous international organizations. International tensions have arisen due to Suriname's status as a trans-shipment point for South American recreational drugs destined mostly for Europe.

@@ -1,1 +1,0 @@
-BANGLADESH NATIONAL SCIENTIFIC AND TECHNICAL DOCUMENTATION CENTRE is the national scientific research archive and provides support to research and development projects in Bangladesh and is located in Dhaka, Bangladesh.[1][2]

@@ -1,4 +1,4 @@
-Jamón_de_Guijuelo_004.JPG. In 2007 and 2010, BEHER "Bellota Oro" was chosen as "Best ham in the world" in IFFA Delicat]] Paella_de_marisco_01.jpg mixta]] Barra_de_pintxos_Donosti_07.JPG in San Sebastián]] Plato_de_lechazo,_Valladolid.jpg]]
+. In 2007 and 2010, BEHER "Bellota Oro" was chosen as "Best ham in the world" in IFFA Delicat]] mixta]] in San Sebastián]] ]]
 
 SPANISH CUISINE is heavily influenced by historical processes that shaped local culture and society in some of Europe's Iberian Peninsula territories. Geography and climate had great influence on cooking methods and available ingredients. These cooking methods and ingredients are still present in the gastronomy of the various regions that make up Spain. Spanish cuisine derives from a complex history where invasions and conquests of Spain have modified traditions which made new ingredients available. Thus, the current and old cuisine of Spain incorporates old and new traditions.
 
@@ -28,7 +28,7 @@ Many traditional Spanish dishes such as tortilla de patata (an omelette made wit
 
 Meal routines
 
-Cafeconleche.jpg_, a popular type of coffee served at breakfast]] A continental-style breakfast (_desayuno'') may be taken just after waking up, or before entering the workplace. Due to the large time span between breakfast and lunch, it is not uncommon to halt the working schedule to take a mid-morning snack.
+_, a popular type of coffee served at breakfast]] A continental-style breakfast (_desayuno'') may be taken just after waking up, or before entering the workplace. Due to the large time span between breakfast and lunch, it is not uncommon to halt the working schedule to take a mid-morning snack.
 
 Lunch (_el almuerzo_ or simply _la comida_, literally meaning "the food"), the large midday meal in Spain, contains several courses. In some regions of Spain, the word _almuerzo_ refers to the mid-morning snack, instead of lunch. Lunch usually starts between 2:00 pm or 2:30 pm finishing around 3:00 pm to 3:30 pm, and is usually followed by Sobremesa, which refers to the tabletalk that Spanish people undertake. Menus are organized according to these courses and include five or six choices in each course. At home, Spanish meals wouldn't be too fancy, and would contain soup or a pasta dish, salad, a meat or a fish dish and a dessert such as fruit or cheese.
 
@@ -45,7 +45,7 @@ The following is a list of traditional Spanish meals:
 
 Andalusia
 
-Gazpacho_(8894306052).jpg is a very typical Andalucian dish.]] Andalusian cuisine is twofold: rural and coastal. Of all the Spanish regions, this region uses the most olive oil in its cuisine. The Andalusian dish that has achieved the most international fame is Gazpacho. It is a cold soup made with five vegetables, vinegar, water, salt, olive oil, and stale bread crumbs. Other cold soups include: Poleá, Zoque, salmorejo, etc.
+is a very typical Andalucian dish.]] Andalusian cuisine is twofold: rural and coastal. Of all the Spanish regions, this region uses the most olive oil in its cuisine. The Andalusian dish that has achieved the most international fame is Gazpacho. It is a cold soup made with five vegetables, vinegar, water, salt, olive oil, and stale bread crumbs. Other cold soups include: Poleá, Zoque, salmorejo, etc.
 
 Snacks made with olives are common. Meat dishes include: flamenquín, pringá, oxtail stew and Menudo Gitano (also called Andalusian tripe). The hot soups include cat soup (made with bread), dog stew (fish soup with orange juice) and Migas Canas. Fish dishes include: fried fish, cod pavías, and parpandúas. A culinary custom is the typical Andalusian breakfast, which is considered to be a traditional characteristic of laborers which is extending throughout Spain.
 
@@ -58,8 +58,6 @@ The Aragonese cuisine has a rural and mountainous origin. The central part of Ar
 Legumes are very important but the most popular vegetables are borage and thistle. In terms of cured meats, ham from Teruel and Huesca are used often. Among the cheeses, Tronchon is notable. Fruit-based cuisine includes the very popular Fruits of Aragon (Spanish: Frutas de Aragon; candied fruits) and Maraschino cherries.
 
 Asturias
-
-Fabada_en_cazuela_de_barro.jpg
 
 Asturian cuisine has a long and rich history, deeply rooted in Celtic traditions of northern Europe. One of its most famous dishes is the Asturian bean stew, known as "fabada". Fabada is the traditional stew of the region, made with white beans, sausages such as chorizo, morcilla, and pork. Another well-known recipe is beans with clams. Asturian beans ("fabes") can also be cooked with hare, partridge, prawns or octopus. Also of note are Asturian stew (made with white beans, cabbage, potatoes and a variety of sausages and bacon) and vigil stew. Pork-based foods, for example chosco, Asturian-style tripe and bollos preñaos (chorizo-stuffed bread bums) are popular.
 
@@ -85,7 +83,7 @@ Basque Country
 
 The cuisine of the Basque Country has a wide and varied range of ingredients and preparations. The culture of eating is very strong among the inhabitants of this region. Highlights include meat and fish dishes. Among fish, cod is produced in various preparations: bacalao al pil pil, cod Bilbao, to name a few. Also popular are anchovies, bream, and bonito. Among the most famous dishes is the seafood changurro. Among the meats are: the beef steaks, pork loin with milk, fig leaf quail, and marinated goose.
 
-Tapas_en_La_Pradera_en_Rascafría_-_jlastras.jpg'']]
+'']]
 
 Canary Islands
 
@@ -103,15 +101,13 @@ Wineries are common in the islands. However, only Malvasia wine from Lanzarote h
 
 Cantabria
 
-Highlander_stew.jpg
-
 A popular Cantabrian dish is _cocido montañés_ (highlander stew), a rich stew made with beans, cabbage, and pork. Seafood is widely used and bonito is present in the typical _sorropotún_ or marmite. Recognized quality meats are Tudanca veal and game meat. Cantabrian pastries include _sobaos_ and _quesadas pasiegas_. Dairy products include Cantabrian cream cheese, smoked cheeses, _picón Bejes-Tresviso,_ and _quesucos de Liébana_. _Orujo_ is the Cantabrian pomace brandy. Cider (_sidra_) and _chacoli_ wine are also favorites.[6][7]
 
 Cantabria has two wines labelled DOC: Costa de Cantabria and Liébana.
 
 Castile-La Mancha
 
-Gastronomiapm.jpg, Spain]]
+, Spain]]
 
 In this region, the culinary habits reflect the origin of foods eaten by shepherds and peasants. _Al-Manchara_ means in Arabic, "Dry Land". Which indicates the arid lands and the quality of its dishes. It is said that the best La Mancha cuisine cookbook is the novel _Don Quixote_ by Miguel de Cervantes. Wheat and grains are a dominant product and ingredient. They are used in bread, soups, gazpacho manchego, crumbs, porridge, etc. One of the most abundant ingredients in Manchego cuisine is garlic, leading to dishes such as ajo arriero, ajo puerco, and garlic marinade.
 
@@ -121,13 +117,13 @@ Given the fact that its lands are dry, and thus unable to sustain large amounts 
 
 Castile and León
 
-Jamon_Bellota_2007_BEHER_Bernardo_Hernandez_Guijuelo_Salamanca..JPG "Bellota Oro", was elected as "Best ham in the world" in IFFA Delicat 2007, 2010 and 2013.]] In Castile and León characteristic dishes include morcilla, (a black pudding made with special spices), _judión de la granja_, _sopa de ajo_ (garlic soup), _Cochinillo asado_ (roast piglet), _lechazo_ (roast lamb), _botillo del Bierzo_, _hornazo_ from Salamanca, _Jamón de Guijuelo_ (a cured ham from Guijuelo, Salamanca), _Salchichas de Zaratán,_ other sausages, Serrada cheese, Burgos's soft cheese, and Ribera del Duero wines.
+"Bellota Oro", was elected as "Best ham in the world" in IFFA Delicat 2007, 2010 and 2013.]] In Castile and León characteristic dishes include morcilla, (a black pudding made with special spices), _judión de la granja_, _sopa de ajo_ (garlic soup), _Cochinillo asado_ (roast piglet), _lechazo_ (roast lamb), _botillo del Bierzo_, _hornazo_ from Salamanca, _Jamón de Guijuelo_ (a cured ham from Guijuelo, Salamanca), _Salchichas de Zaratán,_ other sausages, Serrada cheese, Burgos's soft cheese, and Ribera del Duero wines.
 
 Major wines in Castilian-Leonese cuisine include the robust wine of Toro, reds from Ribera del Duero, whites from Rueda, and clarets from Cigales.
 
 Catalonia
 
-Pa_amb_tomàquet_-_001.jpg (bread and tomato with olive oil)]]
+(bread and tomato with olive oil)]]
 
 The cuisine of Catalonia is based in a rural culture; it is very extensive and has great culinary wealth. Notably, it was in Catalonia where the first cookbook was written in Spain. It has a triple cuisine: seafood, mountain and interior. Among the most popular dishes include: escudella and bread with tomato. Bean omelette, coca de recapte, samfaina, thyme soup, and caragols a la llauna are famous dishes. Notable sauces are: romesco sauce, aioli, bouillabaisse of Catalan origin and picada.
 
@@ -153,7 +149,7 @@ The Northeastern comarca of La Vera produces pimentón de la Vera, smoked paprik
 
 Galicia
 
-Pulpo_a_la_gallega_-_jlastras.jpg, Galician octopus with pepper, olive oil and potatoes]]
+, Galician octopus with pepper, olive oil and potatoes]]
 
 Galician cuisine is known in Spanish territory because of the emigration of its inhabitants. One of the most noted is Galician soup. Also notable is pork with turnip tops, a popular component of the Galician carnival meal laconadas. Another remarkable recipe is Caldo de castañas (a chestnut broth), which is commonly consumed during winter. Pork products are also popular.
 
@@ -163,7 +159,7 @@ Cattle breeding is very common in Galicia, therefore, a lot of red meat is consu
 
 Madrid
 
-Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg. Scottish National Gallery.]] Churros_con_Chocolate_en_San_Sebastián.jpg]]
+. Scottish National Gallery.]] ]]
 
 Madrid did not gain its own identity in the Court until 1561, when Philip II moved the capital to Madrid. Since then, due to immigration, many of Madrid's culinary dishes have been made from modifications to dishes from other Spanish regions. Madrid, due to the influx of visitors from the nineteenth century onwards, was one of the first cities to introduce the concept of the restaurant, hosting some of the earliest examples.
 
@@ -181,11 +177,11 @@ Desserts are abundant; among them are paparajotes Orchard, stuffed pastries, and
 
 Navarre
 
-Chistorra_-_Ración.JPG de Navarra]] The gastronomy of Navarra has many similarities with the Basque cuisine. Two of its flag dishes are: Trout Navarre Style and Ajoarriero, although we must not forget the lamb chilindrón or relleno. There are very curious recipes such as the Carlists eggs.
+de Navarra]] The gastronomy of Navarra has many similarities with the Basque cuisine. Two of its flag dishes are: Trout Navarre Style and Ajoarriero, although we must not forget the lamb chilindrón or relleno. There are very curious recipes such as the Carlists eggs.
 
 Salted products are common and include: chorizo de Pamplona, stuffing and sausage. The lamb and beef have, at present, designations of origin. Among the dairy products are: Roncal cheese, the curd or Idiazabal cheese. Among the most typical alcoholic drinks are: the claret and pacharán.
 
-Solomillo_de_ternera_lechal_ecologico.jpg de ternera, popular dish eaten all around Spain]]
+de ternera, popular dish eaten all around Spain]]
 
 Valencia
 
@@ -197,8 +193,6 @@ Other Spanish dishes: (Salchichón)
 
 
 Notable Spanish chefs
-
-Ferran_Adrià_en_la_presentación_de_'Un_proyecte_per_compartir'.jpg
 
 -   Ferran Adrià of El Bulli, Girona (closed).[11]
 -   Juan Mari Arzak, _Arzak_, San Sebastián, Guipúzcoa (1989).[12]

@@ -1,1 +1,0 @@
-The WEST BERKSHIRE SCHOOL is a historic school building at Berkshire Center and Mineral Brook Roads in Berkshire, Vermont. Built about 1820, it is one of the state's oldest surviving two-room two-story schoolhouses. It was used as a school until 1970. It was listed on the National Register of Historic Places in 1993.[1]

@@ -1,1 +1,0 @@
-GUSTAVO GAVIRIA ANGEL (born August 12, 1948; Bogota, Colombia) is a Colombian coffee entrepreneur, founder and President of Industrias Aliadas, Coffeecol, Aurora and Chairman of Vision de Valores S.A. He is best known for his contribution as special ambassador of Colombia to the Milan Expo 2010[1] and the Shangai Expo 2015.[2]

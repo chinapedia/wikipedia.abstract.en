@@ -1,1 +1,0 @@
-The 2016 PAN AMERICAN WOMEN'S CLUB HANDBALL CHAMPIONSHIP was the first edition of the tournament organised by the Pan-American Team Handball Federation,[1] and was held in Santiago, Chile 1–5 November.[2]

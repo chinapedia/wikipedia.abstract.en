@@ -1,1 +1,0 @@
-Tour_de_France_1905_map-fr.svg The 1905 Tour de France was the 3rd edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris on 9 July and Stage 6 occurred on 20 July with a flat stage to Toulouse. The race finished in Paris on 29 July.

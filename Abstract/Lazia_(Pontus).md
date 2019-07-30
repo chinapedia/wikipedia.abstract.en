@@ -1,1 +1,0 @@
-The THEME OF LAZIA or GREATER LAZIA (; ) was the easternmost subdivision of the medieval Empire of Trebizond (1204–1461) located in mountainous interior of the eastern Black Sea, northeast Anatolia (modern Turkey). Its name was derived from native Lazs, who were natives of this area.

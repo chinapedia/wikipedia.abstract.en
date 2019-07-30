@@ -1,1 +1,0 @@
-HARUNA MAWA is an Ugandan football coach and former footballer. As a player, he played for Rayon Sports in Rwanda.[1] In November 2016, he was appointed as coach of the Somalia national football team.[2]

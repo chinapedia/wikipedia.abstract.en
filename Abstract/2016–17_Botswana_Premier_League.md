@@ -1,1 +1,0 @@
-The 2016–17 BOTSWANA PREMIER LEAGUE is the 52nd season of the Botswana Premier League since its establishment in 1966. Township Rollers clinched their second straight league title and 14th overall.[1]

@@ -1,1 +1,0 @@
-Libya's history covers its rich mix of ethnic groups added to the indigenous Berber tribes. Berbers have been present throughout the entire history of the country. For most of its history, Libya has been subjected to varying degrees of foreign control, from Europe, Asia, and Africa. The modern history of independent Libya began in 1951.

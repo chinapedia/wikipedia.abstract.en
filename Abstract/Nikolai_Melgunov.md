@@ -1,1 +1,0 @@
-NIKOLAI ALEXANDROVICH MELGUNOV (, April 1804, – 16 February 1867) was a Russian writer, publicist, translator from German and French, and music critic, described as one of the most prolific and diverse authors of his time.[1]

@@ -1,1 +1,0 @@
-JESSIE HANNAH CRAIGEN (_c_.1835–1899), was a working-class suffrage speaker in a movement which was predominately made up of middle and upper-class activists. She was also a freelance (or 'paid agent') speaker in the campaigns for Irish Home Rule and the cooperative movement and against vivisection, compulsory vaccination, and the Contagious Diseases Acts.[1]

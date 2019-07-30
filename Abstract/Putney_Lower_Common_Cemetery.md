@@ -1,1 +1,0 @@
-Putney_Lower_Common_Cemetery,_March_2014_06.jpg

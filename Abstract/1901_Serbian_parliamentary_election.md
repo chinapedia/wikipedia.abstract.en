@@ -1,1 +1,0 @@
-PARLIAMENTARY ELECTIONS were held in Serbia in July, 1901. They followed the introduction of a new, liberal constitution in April, which created a bicameral People’s Representative Body consisting of an elected National Assembly and a largely appointed Senate, 60% of whose members the King could appoint.[1]

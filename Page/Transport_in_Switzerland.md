@@ -1,5 +1,3 @@
-Railwaysystem_Switzerland_2017.svg Image-Swiss-Highway-network-en.png
-
 Switzerland has a dense network of roads and railways. The Swiss public transport network has a total length of 24,500 kilometers and has more than 2600 stations and stops.
 
 The crossing of the Alps is an important route for European transportation, as the Alps separate Northern Europe from Southern Europe. Alpine railway routes began in 1882 with the Gotthard Railway with its central Gotthard Rail Tunnel, followed in 1906 by the Simplon Tunnel and the Lötschberg Tunnel in 1913. As part of the New Railway Link through the Alps (NRLA) in 2007 the Lötschberg Base Tunnel opened and in 2016 the Gotthard Base Tunnel opened on June 1.[1]
@@ -12,8 +10,6 @@ Switzerland has approved billions of francs for the improvement of its public tr
 
 
 Railways
-
-Panoramic_Train.jpg
 
 Switzerland has a very high density of railway network, with an average of 122 km of track for every 1,000 km² (average of 46 km in Europe).[4] In 2008, each Swiss citizen traveled, on average, 2,422 km by rail, which makes them the most frequent users of rail transport.[5]
 
@@ -35,7 +31,7 @@ In response to the increasing need for transport capacity and the cost of ground
 
 Mountain rail
 
-Muerrenbahn-02.jpg ]] Trains cannot climb steep gradients, so it is necessary to build lot of track in order to gain height gradually. Transversals through the Alps were made possible with the use of hidden circular tunnels, which are called Spiral. In the case of extremely mountainous terrain, railway engineers opted for the more economical narrow gauge construction.
+]] Trains cannot climb steep gradients, so it is necessary to build lot of track in order to gain height gradually. Transversals through the Alps were made possible with the use of hidden circular tunnels, which are called Spiral. In the case of extremely mountainous terrain, railway engineers opted for the more economical narrow gauge construction.
 
 The many railway viaducts of the Rhaetian Railway in the canton of Graubünden, built for the most part in the early 20th century, have become a tourist attraction as well as a necessary transport system, drawing rail enthusiasts from all over the world.
 
@@ -44,7 +40,7 @@ Some railways were built only for tourist purposes as the Gornergrat or the Jung
 
 Roads
 
-Picswiss_BE-95-11_Postauto_(Sustenpass_-_Urnerseite).jpg ]]
+]]
 
 Switzerland has a network of two-lane national roads. These roads usually lack a median or central reservation. Some stretches are controlled-access, in that all traffic must enter and exit through ramps and must cross using grade separations.
 
@@ -72,7 +68,7 @@ The Asian trend of bike sharing came to Switzerland in 2017 with new companies e
 
 Air transport
 
-swiss.a320-200.hb-ijq.arp.jpg of the national carrier - Swiss International Air Lines.]]
+of the national carrier - Swiss International Air Lines.]]
 
 -   64 (2012)
 -   Airports - with paved runways
@@ -92,7 +88,7 @@ swiss.a320-200.hb-ijq.arp.jpg of the national carrier - Swiss International Air 
     -   under 914 m: 23 (2012)
 -   Heliports: 1
 
-Zurichairportshopping.jpg]]
+]]
 
 Zurich Airport also called KLOTEN AIRPORT, located in Kloten, canton of Zurich, is Switzerland's largest international flight gateway and hub to Swiss International Air Lines and Lufthansa. The airport handled 27.6 million passengers in 2016[7]. In 2003, Zurich International completed an expansion project in which it built a car park, a midfield terminal, and an automated underground train to move passengers between the existing terminal complex and the new terminal. Zurich International lost traffic when Swissair shut down its operations. When Lufthansa took over its successor Swiss International Air Lines (SWISS), traffic grew again.
 
@@ -102,7 +98,7 @@ The second largest airport of the country, Geneva Airport , handled 16.5 million
 
 A turnaround occurred in 1996 when Swissair decided to abandon all the intercontinental routes departing from Geneva except for New York and Washington (that is, all its African destinations). The airport then requested the Swiss Federal Government to implement an open skies policy for Geneva and abolish the legal monopoly enjoyed by Swissair. Following the open skies policy, Geneva Airport now deserves over 110 direct destinations from more than 55 airlines. It is the main hub for easyJet Switzerland and a focus airport for Swiss International Air Lines, as well as home to the executive office of IATA.
 
-Geneva_airport_from_air.jpg]]
+]]
 
 Road access to the airport is provided by highways: It's directly connected to the rest of Switzerland by the A1 highway and France via the A40. It has its own railway station, Geneva Airport railway station, from the Swiss Federal Railways (CFF) located right besides the main terminal with trains regularly departing to the rest of Switzerland, towards Neuchâtel, Lausanne-Fribourg-Berne-Zurich, and Lausanne-Vevey-Montreux-Sion-Brig and stopping in all cases in Geneva main train station located in the city centre, which lies only 7 minutes away from the airport by train. Geneva train station is also connected via HSR to France and will from 2019 enjoy a new suburban rail network covering much of the city and connecting it to its french southern neighbours (the CEVA rail). The airport is also served by several Genevan public transport lines such as trolley line 10. Public transport to the city is free for the first 80 minutes for passengers leaving the airport (tickets are available from the baggage claim area).
 

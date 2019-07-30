@@ -1,1 +1,0 @@
-Lente_di_Bregans_inv_2545_2710_bis_IF_24518.jpg

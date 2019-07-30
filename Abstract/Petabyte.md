@@ -1,1 +1,0 @@
-The PETABYTE is a multiple of the unit byte for digital information. The prefix _peta_ indicates the fifth power of 1000 and means 10¹⁵ in the International System of Units (SI), and therefore 1 petabyte is one quadrillion (short scale) bytes, or 1 thousand billion (long scale) bytes. The unit symbol for the petabyte is PB.

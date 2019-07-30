@@ -1,1 +1,0 @@
-HENRI METZGER (19 August 1912 – 2 October 2007) was a French archaeologist and Hellenist, a member of the Institut de France. He specialized in pottery of ancient Greece, particularly from Athens, and archaeology in Anatolia, specifically in Lycia.[1]

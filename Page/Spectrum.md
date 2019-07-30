@@ -1,4 +1,4 @@
-Rainbow_above_Kaviskis_Lake,_Lithuania.jpg]] A SPECTRUM (plural _spectra_ or _spectrums_)[1] is a condition that is not limited to a specific set of values but can vary, without steps, across a continuum. The word was first used scientifically in optics to describe the rainbow of colors in visible light after passing through a prism. As scientific understanding of light advanced, it came to apply to the entire electromagnetic spectrum.
+]] A SPECTRUM (plural _spectra_ or _spectrums_)[1] is a condition that is not limited to a specific set of values but can vary, without steps, across a continuum. The word was first used scientifically in optics to describe the rainbow of colors in visible light after passing through a prism. As scientific understanding of light advanced, it came to apply to the entire electromagnetic spectrum.
 
 Spectrum has since been applied by analogy to topics outside optics. Thus, one might talk about the "spectrum of political opinion", or the "spectrum of activity" of a drug, or the "autism spectrum". In these uses, values within a spectrum may not be associated with precisely quantifiable numbers or definitions. Such uses imply a broad range of conditions or behaviors grouped together and studied under a single title for ease of discussion. Nonscientific uses of the term _spectrum_ are sometimes misleading. For instance, a single left–right spectrum of political opinion does not capture the full range of people's political beliefs. Political scientists use a variety of biaxial and multiaxial systems to more accurately characterize political opinion.
 
@@ -14,7 +14,7 @@ The prefix "spectro-" is used to form words relating to spectra. For example, a 
 
 Physical science
 
-EM_Spectrum_Properties_edit.svg In the 17th century, the word _spectrum_ was introduced into optics by Isaac Newton, referring to the range of colors observed when white light was dispersed through a prism.[2][3] Soon the term referred to a plot of light intensity or power as a function of frequency or wavelength, also known as a _spectral density plot_.
+In the 17th century, the word _spectrum_ was introduced into optics by Isaac Newton, referring to the range of colors observed when white light was dispersed through a prism.[2][3] Soon the term referred to a plot of light intensity or power as a function of frequency or wavelength, also known as a _spectral density plot_.
 
 The term _spectrum_ was expanded to apply to other waves, such as sound waves that could also be measured as a function of frequency, frequency spectrum and power spectrum of a signal. The term now applies to any signal that can be measured or decomposed along a continuous variable such as energy in electron spectroscopy or mass-to-charge ratio in mass spectrometry. Spectrum is also used to refer to a graphical representation of the signal as a function of the dependent variable.
 
@@ -32,7 +32,7 @@ In radiometry and colorimetry (or color science more generally), the spectral po
 
 Mass spectrum
 
-Titan_atmosphere_diagram.png's ionosphere]] A plot of ion abundance as a function of mass-to-charge ratio is called a mass spectrum. It can be produced by a mass spectrometer instrument.[8] The mass spectrum can be used to determine the quantity and mass of atoms and molecules. Tandem mass spectrometry is used to determine molecular structure.
+'s ionosphere]] A plot of ion abundance as a function of mass-to-charge ratio is called a mass spectrum. It can be produced by a mass spectrometer instrument.[8] The mass spectrum can be used to determine the quantity and mass of atoms and molecules. Tandem mass spectrometry is used to determine molecular structure.
 
 Energy spectrum
 
@@ -44,7 +44,7 @@ In physics, particularly in quantum mechanics, some differential operators have 
 
 Spectrogram
 
-Dolphin1.jpg In acoustics, a spectrogram is a visual representation of the frequency spectrum of sound as a function of time or another variable.
+In acoustics, a spectrogram is a visual representation of the frequency spectrum of sound as a function of time or another variable.
 
 A source of sound can have many different frequencies mixed. A Musical tone's timbre is characterized by its harmonic spectrum. Sound in our environment that we refer to as _noise_ includes many different frequencies. When a sound signal contains a mixture of all audible frequencies, distributed equally over the audio spectrum, it is called white noise.[9]
 
@@ -69,7 +69,7 @@ In algebraic topology, a spectrum is an object representing a generalized cohomo
 
 Social science
 
-Political-spectrum-multiaxis.png of the political spectrum using (red leftism and blue rightism) coding.]] In social science, economic spectrum is used to indicate the range of social class along some indicator of wealth or income. In political science, the term political spectrum refers to a system of classifying political positions in one or more dimensions, for example in a range including right wing and left wing.
+of the political spectrum using (red leftism and blue rightism) coding.]] In social science, economic spectrum is used to indicate the range of social class along some indicator of wealth or income. In political science, the term political spectrum refers to a system of classifying political positions in one or more dimensions, for example in a range including right wing and left wing.
 
 
 References

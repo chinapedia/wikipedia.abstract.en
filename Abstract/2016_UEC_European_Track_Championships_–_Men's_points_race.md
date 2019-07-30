@@ -1,1 +1,0 @@
-The MEN'S POINTS RACE was held on 22 October 2016. 23 riders participated over a distance of 40 km (160 laps), with sprints every 10 laps awarding 5, 3, 2 or 1 point to the first four (double in the final sprint); 20 points are also awarded/withdrawn for each lap gained/lost respectively.[1]

@@ -1,1 +1,0 @@
-WILDWOOD HALL is a historic house on Moore's Hill Road in Newbury, Vermont. Also known locally as THE CASTLE, it is a distinctive example of Shingle style architecture, designed as a country house by William M. Butterfield and completed in 1895. It was listed on the National Register of Historic Places in 1978.[1]

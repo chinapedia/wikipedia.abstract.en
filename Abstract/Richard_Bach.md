@@ -1,1 +1,0 @@
-RICHARD DAVID BACH (born June 23, 1936)[1] is an American writer. Bach is widely known as the author of some of the 1970s' biggest sellers, including _Jonathan Livingston Seagull_ (1970) and _Illusions: The Adventures of a Reluctant Messiah_ (1977). Bach has written numerous works of fiction, and also non-fiction flight-related titles.

@@ -1,1 +1,0 @@
-Schuylkill-Friends-Meeting-House.jpg SCHUYLKILL FRIENDS MEETING HOUSE is a Quaker meeting house located on North Whitehorse Road in the Schuylkill Township section of Chester County, Pennsylvania in the United States. This Meeting House is 2.5 miles west of Valley Forge Post Office.

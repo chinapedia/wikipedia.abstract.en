@@ -1,1 +1,0 @@
-Заграничная_командировка_в_г._Минск,_республика_Беларусь.jpg 76th Guards Air Assault Division.]] A_Belarusian_soldier_provides_an_honor_guard_as_34_airmen_from_the_U.S._Air_Forces_in_Europe_Band_march_in_the_World_War_II_Victory_Day_Parade_in_Minsk,_Belarus.jpg

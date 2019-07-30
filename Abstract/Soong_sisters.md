@@ -1,1 +1,0 @@
-Soong_sisters.jpg

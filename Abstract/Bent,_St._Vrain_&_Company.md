@@ -1,1 +1,0 @@
-BENT, ST. VRAIN & COMPANY was a fur trading and Indian trading business active from 1830 to 1849, in the Republic of Mexico, the Republic of Texas, and in the unorganized territory of the United States.

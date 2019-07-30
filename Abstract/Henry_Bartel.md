@@ -1,1 +1,0 @@
-DR. HARRY BARTEL is a professor of Administrative Studies and Economics at York University. He is an expert in the areas of economic policy, economic policy analysis, and quantitative methods. He has over 200 publications including journal articles and books, and have included work in applied micro and macroeconomic policies.[1]

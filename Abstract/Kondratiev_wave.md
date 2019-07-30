@@ -1,1 +1,0 @@
-Kondratieff_Wave.svg In economics, KONDRATIEV WAVES (also called SUPERCYCLES, GREAT SURGES, LONG WAVES, K-WAVES or THE LONG ECONOMIC CYCLE) are hypothesized cycle-like phenomena in the modern world economy.[1]

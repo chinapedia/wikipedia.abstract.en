@@ -1,1 +1,0 @@
-_GAME OF EMPERORS_ is a massively multiplayer online real-time strategy game (MMORTS) developed by the Bulgarian game production company Imperia Online JSC. It is released on February 2016 and it has been translated into 30 languages. Game of Emperors is a medieval MMORTS game with deep gameplay.[1]

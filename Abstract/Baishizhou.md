@@ -1,1 +1,0 @@
-Baishizhou0.jpg BAISHIZHOU () is an area of Nanshan District, Shenzhen, Guangdong, China. about 150,000 people live in Baishizhou.[1] Its area is and has a population density higher than that of the city average.[2]

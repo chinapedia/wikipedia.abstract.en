@@ -1,1 +1,0 @@
-TOMMY TUCKER (before/in 1942 – 25 June 1949) was a male Eastern gray squirrel who became a celebrity in the United States, touring the country wearing women's fashions while performing tricks, entertaining children, and selling war bonds.[1] A _Washington Post_ columnist called him "the most famous squirrel ever to come from Washington."[2]

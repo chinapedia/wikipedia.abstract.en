@@ -1,1 +1,0 @@
-SAM SING KUNG TEMPLE () (also known as the THREE SAINTS TEMPLE) is a Chinese temple in Sandakan, Sabah, Malaysia. Built in 1887, the temple is the third oldest temple in Sandakan, after Goddess of Mercy Temple and Tam Kung Temple.[1][2] It is part of the Sandakan Heritage Trail.

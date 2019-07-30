@@ -1,1 +1,0 @@
-SWEEP TOSHO (Japanese: スイープトウショウ, foaled 9 May 2001) is a Japanese Thoroughbred racehorse and broodmare. Bred and owned by Tosho Sangyo and trained throughout her racing career by Akio Tsurudome she won eight of her twenty-four races between October 2003 and November 2007 including Grade I victories in the Shuka Sho, Takarazuka Kinen and Queen Elizabeth II Cup.

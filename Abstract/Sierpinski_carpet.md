@@ -1,1 +1,0 @@
-Animated_Sierpinski_carpet.gif

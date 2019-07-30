@@ -1,1 +1,0 @@
-KARIN THEDA BIJSTERVELD (born 12 October 1961)[1] is a Dutch historian. She is a professor of Science, Technology, and Modern Culture at Maastricht University. Bijsterveld is active in the field of sound studies.[2] The Royal Netherlands Academy of Arts and Sciences has called her one of the founders of the field.[3]

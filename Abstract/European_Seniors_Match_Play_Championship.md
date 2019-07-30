@@ -1,1 +1,0 @@
-The EUROPEAN SENIORS MATCH PLAY CHAMPIONSHIP was a senior (over 50s) men's professional match play golf tournament played on the European Seniors Tour from 2000 to 2004. In 2000 and 2001 it was held at Penina Golf, Portimão, on the Algarve, Portugal, while from 2002 to 2004 it was held at Flamingos Golf, Marbella, Málaga, Spain. Prize money totalled £100,000.

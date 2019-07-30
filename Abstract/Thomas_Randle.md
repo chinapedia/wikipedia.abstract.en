@@ -1,1 +1,0 @@
-THOMAS RANDLE (born 7 April 1996) is an Australian racing driver. He currently races in the Dunlop Super2 Series with Tickford Racing in the No. 5 Ford FG X Falcon. Randle has also won the 2017 Toyota Racing Series. In 2018, he was awarded the Mike Kable Young Gun Award.

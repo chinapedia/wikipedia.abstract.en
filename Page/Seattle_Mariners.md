@@ -13,7 +13,7 @@ History
 
 The Mariners were created as a result of a lawsuit. In , in the aftermath of the Seattle Pilots' purchase and relocation to Milwaukee as the Milwaukee Brewers by Bud Selig, the city of Seattle, King County, and the state of Washington (represented by then-state Attorney General and future U.S. Senator Slade Gorton) sued the American League for breach of contract.[4] Confident that Major League Baseball would return to Seattle within a few years, King County built the multi-purpose Kingdome, which would become home to the National Football League's expansion Seattle Seahawks in 1976. The name "Mariners" was chosen by club officials in August 1976 from over 600 names submitted by 15,000 entrants in a name-the-team contest.[5]
 
-Ken_Griffey,_Jr._June_2009.jpg holds six single-season batting records and an individual career record for the Mariners franchise.]]
+holds six single-season batting records and an individual career record for the Mariners franchise.]]
 
 The Mariners played their first game on April 6, , to a sold-out crowd of 57,762 at the Kingdome, losing 7–0 to the California Angels.[6] The first home run in team history was hit on April 10, 1977, by designated hitter Juan Bernhardt.[7]
 
@@ -27,7 +27,7 @@ On October 22, the Mariners announced the hiring of Jack Zduriencik, formerly sc
 
 Griffey Jr. announced his retirement on June 2, 2010, after 22 MLB seasons.[10]
 
-King_Felix_is_ready_(4667946841).jpg has made five All-Star appearances as a member of the Seattle Mariners.]]
+has made five All-Star appearances as a member of the Seattle Mariners.]]
 
 The Mariners fired field manager Don Wakamatsu along with bench coach Ty Van Burkleo, pitching coach Rick Adair and performance coach Steve Hecht on August 9, 2010. Daren Brown, the manager of the AAA affiliate Tacoma Rainiers, took over as interim field manager. Roger Hansen, the former Minor League catching coordinator, was promoted to bench coach. Carl Willis, the former Minor League pitching coordinator, was promoted to pitching coach.[11]
 
@@ -195,7 +195,7 @@ In 1994, the Mariners started a promotion called "Buhner Buzz Cut Night" Inspire
 
 Rally Fries
 
-Rally_fries_sign.jpg fans holding a sign requesting rally fries.]] Rally Fries are a baseball tradition started by Mariners broadcaster Mike Blowers in 2007. During a game against the Cincinnati Reds, a fan tried to catch a foul ball along the right-field line but in turn spilled his tray of french fries along the track. While chatting on the air and seeing the mishap, Blowers' partner, Dave Sims, suggested that he should send a new tray of fries to the fan. Blowers agreed, and sent his intern to deliver a plate of fries to the man.[40]
+fans holding a sign requesting rally fries.]] Rally Fries are a baseball tradition started by Mariners broadcaster Mike Blowers in 2007. During a game against the Cincinnati Reds, a fan tried to catch a foul ball along the right-field line but in turn spilled his tray of french fries along the track. While chatting on the air and seeing the mishap, Blowers' partner, Dave Sims, suggested that he should send a new tray of fries to the fan. Blowers agreed, and sent his intern to deliver a plate of fries to the man.[40]
 
 At the Mariners' next game, fans made signs and boards asking Blowers for fries as well. Coincidentally, every time the fries were delivered, the Mariners seem to score or rally from a deficit, and thus the "Rally Fries" were created. This became so popular with the fans that signs were even seen when the Mariners were the visiting team, although on August 1, 2009, Blowers established that he only gives out fries at home games.[41]
 

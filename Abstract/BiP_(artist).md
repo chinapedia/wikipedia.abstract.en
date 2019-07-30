@@ -1,1 +1,0 @@
-BIP (Believe in People) is an anonymous street painter who is identified, from clues released on Twitter and by his intermediaries, to be a male Princeton graduate, former investment banker, and current artist.

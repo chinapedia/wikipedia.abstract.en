@@ -1,1 +1,0 @@
-Map_of_Pitcairn_Islands_2.png

@@ -1,1 +1,0 @@
-The NIGER DELTA GREENLAND JUSTICE MANDATE (NDGJM) is a militant group operating in Nigeria's Niger Delta region. The group was founded on August 2, 2016 in Delta State and is composed mainly of ethnic Urhobos, and a fairly large number of members belonging to the Isoko ethnic group.

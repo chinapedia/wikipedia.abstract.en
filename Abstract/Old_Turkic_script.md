@@ -1,1 +1,0 @@
-Gok_turk_Epigraph_Copy_in_Gazi_University_Ankara.jpg in Ankara, Turkey.]] Bilge_Khagan_inscription_lines_36-40_in_original_Old_Turkic_script.svg Location_of_Orkhon_valley.JPG

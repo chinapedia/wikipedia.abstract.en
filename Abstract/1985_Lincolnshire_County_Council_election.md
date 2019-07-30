@@ -1,1 +1,0 @@
-The 1985 LINCOLNSHIRE COUNTY COUNCIL ELECTION was held on Thursday, 2 May 1985. The whole council of 76 members was up for election and the election resulted in the Conservative Party retaining control of the council with a majority of 1, winning 39 seats.[1]

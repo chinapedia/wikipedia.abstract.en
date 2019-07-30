@@ -1,1 +1,0 @@
-_ERETMOCERA SCATOSPILA_ is a moth of the Scythrididae family. It was described by Philipp Christoph Zeller in 1852.[1] It is found in Botswana, Democratic Republic of Congo (Equateur, West Kasai, Bas Congo, Katanga, Orientale), Gambia, Ghana, Kenya, Namibia, Nigeria and South Africa (Limpopo, Gauteng, KwaZulu-Natal).

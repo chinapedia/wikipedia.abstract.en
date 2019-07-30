@@ -1,1 +1,0 @@
-The 1998 VCU RAMS MEN'S SOCCER TEAM represented Virginia Commonwealth University during the 1998 NCAA Division I men's soccer season. The Rams played in the Colonial Athletic Association for their fourth. It was the program's 21st season fielding a men's varsity college soccer program.

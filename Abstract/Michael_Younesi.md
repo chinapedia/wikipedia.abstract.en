@@ -1,1 +1,0 @@
-MICHAEL YOUNESI is a filmmaker, whose directing and producing work includes television, films and advertisements. He is perhaps best known as director and executive producer of the Emmy-nominated Netflix original series _Project Mc2_.[1][2] He also directed the award winning short film _Liberation_.[3] He is a graduate of the USC School of Cinematic Arts.[4][5][6][7][8]

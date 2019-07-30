@@ -1,1 +1,0 @@
-HUMANIST may refer to:

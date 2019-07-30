@@ -1,1 +1,0 @@
-The CONNECTICUT AVENUE LINE, served by ROUTES L1 AND L2, is a Metrobus bus route in Northwest Washington, D.C., United States. The L1 provides peak-direction rush hour service during weekdays, while the L2 operates seven days a week.[1]

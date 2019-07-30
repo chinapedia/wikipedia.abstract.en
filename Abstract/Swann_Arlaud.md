@@ -1,1 +1,0 @@
-SWANN ARLAUD (born 30 November 1981) is a French actor. He has appeared in films such as _Romantics Anonymous_ (2010), _Les Anarchistes_ (2015), _The Wakhan Front_ (2015) and _Baden Baden_ (2016).[1][2][3][4]

@@ -1,1 +1,0 @@
-KATHERINE MAINE (born 22 November 1997) is a Canadian professional racing cyclist, who currently rides for UCI Women's Team .[1] She won the 2018 Canadian National Road Race Championships in Saguenay, Quebec.[2]

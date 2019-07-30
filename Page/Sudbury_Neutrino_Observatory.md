@@ -1,4 +1,4 @@
-Sudbury_Neutrino_Observatory.artist_concept.jpg The SUDBURY NEUTRINO OBSERVATORY (SNO) was a neutrino observatory located 2100 m underground in Vale's Creighton Mine in Sudbury, Ontario, Canada. The detector was designed to detect solar neutrinos through their interactions with a large tank of heavy water.
+The SUDBURY NEUTRINO OBSERVATORY (SNO) was a neutrino observatory located 2100 m underground in Vale's Creighton Mine in Sudbury, Ontario, Canada. The detector was designed to detect solar neutrinos through their interactions with a large tank of heavy water.
 
 The detector was turned on in May 1999, and was turned off on 28 November 2006. The SNO collaboration was active for several years after that analyzing the data taken.
 
@@ -21,8 +21,6 @@ The experiment observed the light produced by relativistic electrons in the wate
 
 
 Detector description
-
-Sudbury_Neutrino_Observatory.detector_outside.jpg Sudbury_Neutrino_Observatory.detector_inside.jpg
 
 The SNO detector target consisted of of heavy water contained in a acrylic vessel. The detector cavity outside the vessel was filled with normal water to provide both buoyancy for the vessel and radiation shielding. The heavy water was viewed by approximately 9,600 photomultiplier tubes (PMTs) mounted on a geodesic sphere at a radius of about . The cavity housing the detector was the largest in the world at such a depth,[7] requiring a variety of high-performance rock bolting techniques to prevent rock bursts.
 

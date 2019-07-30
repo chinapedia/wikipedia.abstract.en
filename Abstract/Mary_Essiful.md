@@ -1,1 +1,0 @@
-'''Mary Essiful ''' (born 22 June 1993) is a Ghanaian footballer who plays as a midfielder for the Ghana women's national football team. She was part of the team at the 2014 African Women's Championship. On club level she played for Intellectuals Ladies in Ghana.[1]

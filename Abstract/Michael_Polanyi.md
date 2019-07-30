@@ -1,1 +1,0 @@
-MICHAEL POLANYI [1] (; ; 11 March 1891 – 22 February 1976) was a Hungarian-British polymath, who made important theoretical contributions to physical chemistry, economics, and philosophy. He argued that positivism supplies a false account of knowing, which if taken seriously undermines humanity's highest achievements.

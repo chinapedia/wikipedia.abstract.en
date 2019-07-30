@@ -1,1 +1,0 @@
-Mona Barthel and Laura Siegemund were the defending champions, but Barthel chose not to participate this year. Siegemund played alongside Antonia Lottner, but lost in the first round to Annika Beck and Xenia Knoll.

@@ -1,1 +1,0 @@
-The THEATERPREIS BERLIN is a German theatre award, created in 1988 by the Stiftung Preußische Seehandlung in Berlin. It is awarded annually at the Berliner Theatertreffen to a person in German-language theatre. The prize sum is 20,000 euro.[1]

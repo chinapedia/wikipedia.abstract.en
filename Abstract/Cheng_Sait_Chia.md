@@ -1,1 +1,0 @@
-CHENG SAIT CHIA (1940–1981) was a Chinese-Canadian poet whose work was only ever published posthumously. Her only published work is a 75-page book titled _Turned Clay_, released through Fiddlehead Poetry Books in 1981 after Chia's death. Her poetry has not been featured in any collections or anthologies thus far.[1]

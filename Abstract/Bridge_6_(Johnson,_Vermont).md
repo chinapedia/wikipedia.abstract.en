@@ -1,1 +1,0 @@
-The RAILROAD STREET BRIDGE is a historic Pratt through truss bridge, carrying Railroad Street across the Lamoille River in Johnson, Vermont. It was built in 1928, after the state's devastating 1927 floods, and is one of its few surviving Pratt through truss bridges. It was listed on the National Register of Historic Places in 2007 as BRIDGE 6.[1]

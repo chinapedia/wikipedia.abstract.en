@@ -1,1 +1,0 @@
-The LIBRARY OF CONGRESS CLASSIFICATION (LCC) is a system of library classification developed by the Library of Congress. It is used by most research and academic libraries in the U.S. and several other countries.[1]

@@ -1,1 +1,0 @@
-ERNEST HOWARD SHEPARD OBE, MC (10 December 1879 – 24 March 1976) was an English artist and book illustrator. He is known especially for illustrations of the anthropomorphic animal and soft toy characters in _The Wind in the Willows_ and _Winnie-the-Pooh_.

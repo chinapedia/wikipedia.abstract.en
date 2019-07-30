@@ -1,1 +1,0 @@
-The CELLO CONCERTO is a concerto for solo cello and orchestra by the American composer Ned Rorem. The work was commissioned by the Residentie Orchestra and the Kansas City Symphony for the cellist David Geringas. Its world premiere was given by Geringas and the Kansas City Symphony under the direction of Michael Stern on March 28, 2003.[1]

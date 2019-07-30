@@ -1,1 +1,0 @@
-During the 1956–57 English football season, Brentford competed in the Football League Third Division South. Despite topping the table early in the season, a poor run of form dropped the club to the lower reaches of mid-table by February 1957. A strong final two months of the season lifted the Bees to an 8th-place finish.

@@ -1,1 +1,0 @@
-Typewriter_–_Museu_de_la_Tècnica_de_l’Empordà_06.jpg

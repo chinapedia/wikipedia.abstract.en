@@ -1,1 +1,0 @@
-ALBERT ABDOULAYE N'DIAYE, born in French West Africa, served as the commissioner of the province of Éclaireurs de France of Togo and of French West Africa, became a senior official of the Confédération Sénégalaise du Scoutisme and served as the Vice-Chairman of the Africa Scout Committee in 1959.

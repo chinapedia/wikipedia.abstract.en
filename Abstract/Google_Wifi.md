@@ -1,1 +1,0 @@
-GOOGLE WIFI is a mesh-capable wireless router developed by Google. It was announced on October 4, 2016, and released in the United States on December 5, 2016. Further international rollout followed with the United Kingdom, Canada, France, Germany, Australia, Hong Kong, Singapore and Philippines.

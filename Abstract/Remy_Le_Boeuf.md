@@ -1,1 +1,0 @@
-REMY LE BOEUF (born August 3, 1986) is a jazz saxophonist, composer and multi-instrumentalist born in Santa Cruz, California. He co-leads the jazz group Le Boeuf Brothers, and has a successful solo career as a composer and sideman integrating jazz, classical, and indie-rock genres.[1] The _New York Times_ describes his music as “evocative”.[2]

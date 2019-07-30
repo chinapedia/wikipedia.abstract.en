@@ -1,1 +1,0 @@
-AASMA was an Indian pop group that formed in 2003, and has disbanded since. The band was composed of the winners of the first season of Indian version of the international television talent show Popstars, named Coke [V] Popstars, after its principal sponsors, Coca-Cola and music channel Channel [V].

@@ -1,1 +1,0 @@
-AGRARIANISM is a social philosophy or political philosophy which values rural society as superior to urban society and the independent farmer as superior to the paid worker, and sees farming as a way of life that can shape the ideal social values.[1] It stresses the superiority of a simpler rural life as opposed to the complexity of city life.

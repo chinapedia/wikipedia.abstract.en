@@ -1,4 +1,4 @@
-Cameo_of_Thomas_Reid_by_James_Tassie,_Hunterian_Museum,_Glasgow.jpg THOMAS REID (; 7 May (O.S. 26 April) 1710 – 7 October 1796) was a religiously trained Scottish philosopher. He was the founder of the Scottish School of Common Sense and played an integral role in the Scottish Enlightenment. In 1783 he was a joint founder of the Royal Society of Edinburgh. A contemporary of David Hume, Reid was also "Hume's earliest and fiercest critic".[1]
+THOMAS REID (; 7 May (O.S. 26 April) 1710 – 7 October 1796) was a religiously trained Scottish philosopher. He was the founder of the Scottish School of Common Sense and played an integral role in the Scottish Enlightenment. In 1783 he was a joint founder of the Royal Society of Edinburgh. A contemporary of David Hume, Reid was also "Hume's earliest and fiercest critic".[1]
 
 
 Life

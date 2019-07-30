@@ -5,8 +5,6 @@ The area has been wooded since the end of the Last Glacial Period (as attested b
 
 Management and conservation
 
-Sherwood_forest_park.JPG
-
 The Sherwood Forest Trust is a small charity that covers the ancient royal boundary and current national character area of Sherwood Forest.[2] Its aims are based on conservation, heritage and communities, but also include tourism and the economy.
 
 Nottinghamshire County Council and The Forestry Commission manage jointly the ancient remnant of forest north of the village of Edwinstowe, providing walks, trails and a host of other activities.[3]
@@ -21,8 +19,6 @@ Some portions of the forest retain many very old oaks, especially in the portion
 
 The River Idle, a tributary of the Trent, is formed in Sherwood Forest from the confluence of several minor streams.
 
-WinterSherwoodGlade.png
-
 
 Tourism
 
@@ -32,14 +28,12 @@ Each August the nature reserve hosts an annual, week-long Robin Hood Festival. T
 
 Throughout the year, visitors are attracted to the Sherwood Forest Art and Craft Centre, which is situated in the former Coach House and Stables of Edwinstowe Hall in the heart of the Forest.[12] The centre contains art studios and a cafe, and hosts special events, including craft demonstrations and exhibitions.
 
-Major_Oak.JPG
-
 
 Major Oak
 
 Sherwood Forest is home to the famous Major Oak, which, according to local folklore, was Robin Hood's principal hideout. The oak tree is between 800 and 1,000 years old and, since the Victorian era, its massive limbs have been partially supported by an elaborate system of scaffolding. In February 1998, a local company took cuttings from the Major Oak and began cultivating clones of the famous tree with the intention of sending saplings to be planted in major cities around the world.
 
-The Major Oak was featured on the 2005 BBC TV programme _Seven Natural Wonders_ as one of the natural wonders of the Midlands. Sherwood_Forest_visitor_centre_sign.jpg
+The Major Oak was featured on the 2005 BBC TV programme _Seven Natural Wonders_ as one of the natural wonders of the Midlands.
 
 
 Thynghowe

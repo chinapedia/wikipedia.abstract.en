@@ -1,1 +1,0 @@
-Flag_of_ural.svg The URAL REPUBLIC was an unrecognized subject of the Russian Federation that existed from July 1, 1993 to November 9, 1993 within the boundaries of Sverdlovsk Oblast region. It was formed as a result of a referendum held on April 12, 1993 by Eduard Rossel.[1]

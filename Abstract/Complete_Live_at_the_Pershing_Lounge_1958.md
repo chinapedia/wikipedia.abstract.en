@@ -1,1 +1,0 @@
-_COMPLETE LIVE AT THE PERSHING LOUNGE 1958_ is a live album by American jazz pianist Ahmad Jamal that with performances recorded at The Pershing Lounge in Chicago, Illinois, in 1958. Some of the performances were released on the albums _At the Pershing: But Not for Me_ and _At the Pershing, Vol. 2_.[1]

@@ -1,1 +1,0 @@
-ROUGEMONT – CHANTELOUP is a railway station located on the Île-de-France tramway Line 4 in the commune of Sevran. The station is situated between the neighborhood of Rougemont in Sevran and the industrial park of Chanteloup in Aulnay-sous-Bois.

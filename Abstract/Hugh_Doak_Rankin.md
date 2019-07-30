@@ -1,1 +1,0 @@
-EllenHughRankinCopp.tif Weird_Tales_October_1929.jpg HUGH DOAK RANKIN, born HUGH DEARBORN COPP (July 2, 1878— January 3, 1956) was an American artist who illustrated the science fiction magazine _Weird Tales_ in the 1920s and 1930s.

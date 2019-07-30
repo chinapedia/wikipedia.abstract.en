@@ -1,1 +1,0 @@
-Spartak}} SPARTAK (; ) is a village in Yasynuvata Raion (district) in Donetsk Oblast of eastern Ukraine, at about 20 km NNW from the centre of Donetsk city. Spartak borders from south-west with the Donetsk airfield.

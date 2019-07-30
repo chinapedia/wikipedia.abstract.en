@@ -1,1 +1,0 @@
-LUCAS MALVACINI (born 5 August 1987)[1] is a Brazilian model and theater and TV actor. He became known in 2013 for acting in the telenovela "Amor à Vida" of Rede Globo,[2][3][4][5] and for acting in "Vai Que Cola", a television sitcom from Multishow.[6]

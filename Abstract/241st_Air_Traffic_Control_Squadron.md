@@ -1,1 +1,0 @@
-The 241ST AIR TRAFFIC CONTROL SQUADRON (241 ATCS) is a unit of the Missouri Air National Guard, stationed at Rosecrans Air National Guard Base, St. Joseph, Missouri. If activated to federal service, the unit is gained by the United States Air Force Air Combat Command.

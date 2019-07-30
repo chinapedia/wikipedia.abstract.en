@@ -1,1 +1,0 @@
-CONTEXT-SENSITIVE is an adjective meaning "depending on context" or "depending on circumstances". It may refer to:

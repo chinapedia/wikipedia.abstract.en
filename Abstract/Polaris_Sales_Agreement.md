@@ -1,1 +1,0 @@
-The POLARIS SALES AGREEMENT was a treaty between the United States and the United Kingdom which began the UK Polaris programme. The agreement was signed on 6 April 1963. It formally arranged the terms and conditions under which the Polaris missile system was provided to the United Kingdom.

@@ -1,1 +1,0 @@
-MUHAMMED BAYIR (born 5 February 1989 in Mamak, Ankara) is a Turkish footballer who plays as a left-back for Osmanlıspor. Muhammed made his debut in professional football for Bugsaşspor, and was part of their youth academy. He transferred to Osmanlıspor in 2013. .

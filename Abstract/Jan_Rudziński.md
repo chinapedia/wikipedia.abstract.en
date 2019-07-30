@@ -1,1 +1,0 @@
-JAN RUDZIŃSKI (born 22 September 1982) is a Polish male badminton player. Rudziński started playing badminton when he was seven at the AZS Warszawa. He was a part of the Polish national team in 1998-2004. [1] In 2016, he became the runner-up of the Hatzor International tournament in men's doubles event.[2]

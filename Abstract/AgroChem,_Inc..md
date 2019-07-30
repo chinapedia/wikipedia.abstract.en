@@ -1,1 +1,0 @@
-AGROCHEM, INC. is a privately owned manufacturing company located in Saratoga Springs, NY,[1] that specializes in supplying chemicals and formulated products to dairy farms, including hoof care products, teat dips, and cleaning products. The company currently employs approximately 30 people and averages 10 – 20 million dollars in sales annually.[2]

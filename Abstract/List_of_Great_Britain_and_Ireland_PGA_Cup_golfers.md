@@ -1,1 +1,0 @@
-This is a list of all the golfers who have played in the PGA Cup for the Great Britain and Ireland team through 2017.[1][2] In 1990, 1992 and 1994 the event was also open to the golfers from continental Europe.

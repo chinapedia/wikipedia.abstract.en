@@ -1,1 +1,0 @@
-_BILHANA_ is a 1948 Indian Tamil-language historical romance film directed by B. N. Rao and produced by Mubarak Pictures. Based on the life of the Kashmiri poet of the same name, the film features K. R. Ramaswamy, A. R. Sakunthala, R. Balasaraswathi, 'Pulimoottai' Ramasami, M. Jayasree, S. M. Shaikappa, G. Sakunthala, M. Jaya and K. S. Angamuthu.[1]

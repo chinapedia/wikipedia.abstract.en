@@ -1,1 +1,0 @@
-ELIZABETH I (7 September 1533 – 24 March 1603)[1] was Queen of England and Ireland from 17 November 1558 until her death on 24 March 1603. Sometimes called THE VIRGIN QUEEN, GLORIANA or GOOD QUEEN BESS, Elizabeth was the last of the five monarchs of the House of Tudor.

@@ -1,1 +1,0 @@
-In the 20th and 21st centuries the Julian calendar is 13 days behind the Gregorian calendar, thus January 14 is sometimes celebrated as New Year's Day (Old New Year) by religious groups who use the Julian calendar.

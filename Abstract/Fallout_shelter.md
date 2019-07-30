@@ -1,1 +1,0 @@
-United_States_of_America_Fallout_shelter_sign.jpg

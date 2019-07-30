@@ -1,1 +1,0 @@
-In the ancient Sanskrit book, Rig Veda, SRBINDA is a mythical enemy of the God Indra. He is mentioned briefly as being slain in battle by Indra along with Anarsani, Pipru, and Ahisuva, after which he "let loose the floods". [1]

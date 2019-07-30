@@ -1,1 +1,0 @@
-_PRIOSPHENODON_ is an extinct Rhynchocephalian known from the Late Cretaceous of Argentina. It is believed to have been a fairly large herbivore, having a longer snout than modern tuatara, with teeth specialised for shearing plant matter.[1] Two species are known, _P. avelesi_ and _P. minimus_. The genus may be synonymous with _Kaikaifilusaurus_.[2]

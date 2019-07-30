@@ -1,1 +1,0 @@
-Edward_Fergusson_Taylor_grave_East_Barnet_Church.JPG New_Barnet_Literary_&_Debating_Society_Eisteddfod_certificate_1900.jpg held at Lytton Road Assembly Rooms in 1900.[1]]] EDWARD FERGUSSON TAYLOR ( – 21 March 1905) was an English temperance campaigner, estate agent, surveyor and property developer who was instrumental in the development of New Barnet in north London.

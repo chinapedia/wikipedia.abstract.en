@@ -1,1 +1,0 @@
-MICHAEL TOBIN (born 16 January 1964) is an English technology entrepreneur, author and philanthropist. He was CEO of FTSE 250 data centre operator. Further In 2014 he was awarded an OBE for his ‘Services to the Digital Economy' in The Queen's Birthday Honours List.[1]

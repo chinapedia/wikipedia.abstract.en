@@ -1,1 +1,0 @@
-WAZIRABAD–NAROWAL BRANCH LINE () is one of several branch lines in Pakistan, operated and maintained by Pakistan Railways. The line originally runs from Wazirabad Junction station to Narowal Junction station. The total length of this railway line is . There are 15 railway stations from Wazirabad Junction to Narowal Junction.[1]

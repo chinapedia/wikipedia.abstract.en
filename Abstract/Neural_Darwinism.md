@@ -1,1 +1,0 @@
-NEURAL DARWINISM, a large scale theory of brain function by Gerald Edelman, was initially published in 1978, in a book called _The Mindful Brain_ (MIT Press). It was extended and published in the 1987 book _Neural Darwinism – The Theory of Neuronal Group Selection_.

@@ -1,1 +1,0 @@
-ENDY SLEEP (also known as just Endy) is a Canadian-based, e-commerce company that sells sleep products online.[1][2] Endy primarily operates as an online storefront, with their main headquarters in Toronto.[3][4] Endy is Canada's largest direct online-only mattress store.[5]

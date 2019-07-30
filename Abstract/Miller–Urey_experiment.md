@@ -1,1 +1,0 @@
-MUexperiment.png

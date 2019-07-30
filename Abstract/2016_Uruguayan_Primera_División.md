@@ -1,1 +1,0 @@
-The 2016 LIGA PROFESIONAL DE PRIMERA DIVISIÓN SEASON, also known as the CAMPEONATO URUGUAYO ESPECIAL o CAMPEONATO TRANSICIÓN, was the 113th season of Uruguay's top-flight football league, and the 86th in which it is professional. Peñarol was the defending champion.

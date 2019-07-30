@@ -1,1 +1,0 @@
-RAJMUND ROMAN THIERRY POLAŃSKI (born 18 August 1933) is a French-Polish[1] film director, producer, writer, and actor. Since 1978, he has been a fugitive from the U.S. criminal justice system, having fled the country while awaiting sentencing in his sexual abuse case, in which he pleaded guilty to statutory rape.[2]

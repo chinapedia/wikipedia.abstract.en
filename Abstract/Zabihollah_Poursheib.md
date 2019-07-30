@@ -1,1 +1,0 @@
-ZABIHOLLAH POURSHAB (, born 18 July 1988[1] in Sirvan) more commonly known as ZABIHOLLAH POURSHEIB ()[2] is an Iranian karateka. Poursheib competed at the 2010 Asian Games at the 84 kg division and won the gold medal. He also won the bronze medal in 2016 World Karate Championships.

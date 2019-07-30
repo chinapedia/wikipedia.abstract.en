@@ -1,1 +1,0 @@
-ESPERANTUJO () or ESPERANTIO () is the community of speakers of the Esperanto and their culture, as well as the places and institutions where the language is used. The term is used "as if it were a country."[1]

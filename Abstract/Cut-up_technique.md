@@ -1,1 +1,0 @@
-The CUT-UP TECHNIQUE (or _découpé_ in French) is an aleatory literary technique in which a written text is cut up and rearranged to create a new text. The concept can be traced to at least the Dadaists of the 1920s, but was popularized in the late 1950s and early 1960s by writer William S. Burroughs, and has since been used in a wide variety of contexts.

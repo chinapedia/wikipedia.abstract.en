@@ -1,1 +1,0 @@
-CARL HENRY LINDNER III is an American businessman. He has served as the co-chief executive officer of American Financial Group since January 2005. He has also acted as chief executive officer and majority owner of FC Cincinnati since the club's founding in 2015. He is the son of Carl Lindner Jr. and a prominent member of the Lindner family.

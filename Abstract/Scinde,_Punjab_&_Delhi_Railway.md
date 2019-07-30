@@ -1,1 +1,0 @@
-The SCINDE, PUNJAB, DELHI RAILWAY was formed in 1870 from the incorporation of the Scinde Railway, Indus Steam Flotilla, Punjab Railway and Delhi Railway companies.[1] This was covered by the _Scinde Railway Company's Amalgamation Act_ of 1869.[2]

@@ -1,1 +1,0 @@
-ARNOLD ALOIS SCHWARZENEGGER (;[1] ; born July 30, 1947) is an American politician, actor, filmmaker, and former professional bodybuilder.[2] He served as the 38th Governor of California from 2003 to 2011.

@@ -1,1 +1,0 @@
-The BDO GOLD CUP [1] began in 1978 and was held in Stoke.[2] It was broadcast on BBC until 1982, with the 1983 tournament blacked out due to a technician's strike. It was then broadcast in 2008 on Setanta Sports in the UK, After a brief stint on the short-lived channel Wire TV (94-95). The event is currently staged at the Magna Centre, Rotherham, England.[3]

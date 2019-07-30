@@ -1,1 +1,0 @@
-JAMES ALAN MCPHERSON (September 16, 1943 – July 27, 2016) was an American essayist and short-story writer. He was the first African-American writer to win the Pulitzer Prize for Fiction, and was included among the first group of artists who received a MacArthur Fellowship. At the time of his death, McPherson was a professor emeritus of fiction at the Iowa Writers' Workshop.[1]

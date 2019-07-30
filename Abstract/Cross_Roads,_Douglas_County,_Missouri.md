@@ -1,1 +1,0 @@
-CROSS ROADS is an unincorporated community in Douglas County, Missouri.[1] Cross Roads is in the southwest corner of the county on Missouri Route DD west of Missouri Route 76.[2] It is located on the edge of the Mark Twain National Forest.[3]

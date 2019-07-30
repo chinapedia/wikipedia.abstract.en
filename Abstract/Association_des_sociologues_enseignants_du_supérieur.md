@@ -1,1 +1,0 @@
-L'ASSOCIATION DES SOCIOLOGUES ENSEIGNANTS DU SUPÉRIEUR (ASES) is a French association organised on January 11, 1989 by two French sociologists, Catherine and Pierre Paradeise Tripier, to ensure "the defense and promotion of sociology in higher education".[1] Its articles of association were published on May 26, 1989.

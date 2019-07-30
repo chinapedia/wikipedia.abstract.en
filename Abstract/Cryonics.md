@@ -1,1 +1,0 @@
-Cryo_surgery.jpg

@@ -1,1 +1,0 @@
-ED OU (born 1986) is a Canadian photojournalist currently represented by Reportage by Getty Images.[1] He has covered numerous stories in the Middle East, Central Asia, Eastern Europe, Africa, and the Americas.

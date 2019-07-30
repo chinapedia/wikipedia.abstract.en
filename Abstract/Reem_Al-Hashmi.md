@@ -1,1 +1,0 @@
-'''Reem Yusuf Masood Al Hashmi ''' (born 27 June 1987) is a Bahraini footballer who plays as a forward for the Bahrain women's national football team.[1] In 2014, she competed at the 2014 AFC Women's Asian Cup qualification where she scored two goals against Kyrgyzstan.[2][3]

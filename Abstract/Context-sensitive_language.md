@@ -1,1 +1,0 @@
-In formal language theory, a CONTEXT-SENSITIVE LANGUAGE is a language that can be defined by a context-sensitive grammar (and equivalently by a noncontracting grammar). Context-sensitive is one of the four types of grammars in the Chomsky hierarchy.

@@ -1,1 +1,0 @@
-Prof. Dr. MUHAMMAD AJMAL KHAN[1] was the first Vice-Chancellor of Islamia College University, Peshawar from 26 June 2008 to 25 June 2016.[2] He is also a cousin of Awami National Party chief Asfandyar Wali Khan.[3]

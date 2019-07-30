@@ -1,1 +1,0 @@
-EDWARD P. TIVNAN, S.J. (1882–1937) was president of Fordham University from 1919 until 1924.[1] Born in 1882 in Massachusetts,[2] he was thirty-seven when he was appointed, making him the youngest Jesuit priest to serve in that role in over three decades.[3]

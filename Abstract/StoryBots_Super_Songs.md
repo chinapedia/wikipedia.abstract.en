@@ -1,1 +1,0 @@
-_STORYBOTS SUPER SONGS_ is an American animated children's television series based on the characters from the StoryBots educational apps and videos. It was created and produced by JibJab Bros. Studios (now StoryBots Inc.) and premiered on Netflix on October 7, 2016.[1] Episodes have also been released in full monthly on StoryBots' official YouTube channel.[2]

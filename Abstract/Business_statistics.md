@@ -1,1 +1,0 @@
-"BUSINESS STATISTICS is the science of good decision making in the face of uncertainty and is used in many disciplines such as econometrics, auditing and production and operations, including services improvement and marketing research".[1]

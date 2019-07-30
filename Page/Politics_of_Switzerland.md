@@ -40,7 +40,7 @@ This "magic formula" has been repeatedly criticised: in the 1960s, for excluding
 
 Legislative branch
 
-Bundeshaus_Bern_2009,_Flooffy.jpg, in Bern, hosts the Federal Assembly and the Federal Council.]]
+, in Bern, hosts the Federal Assembly and the Federal Council.]]
 
 Switzerland has a bicameral parliament called the Federal Assembly, which is composed by:
 
@@ -71,7 +71,7 @@ Legislative branch
 
 Political conditions
 
-Swiss_party_politics_1985-2010_e.png based on their referendum voting recommendations, 1985-90 and 2010-14]] Switzerland has a stable government. Most voters support the government in its philosophy of armed neutrality underlying its foreign and defense policies. Domestic policy poses some major problems, to the point that many observers deem that the system is in crisis but the changing international environment has generated a significant reexamination of Swiss policy in key areas such as defense, neutrality, and immigration. Quadrennial national elections typically produce only marginal changes in party representation.
+based on their referendum voting recommendations, 1985-90 and 2010-14]] Switzerland has a stable government. Most voters support the government in its philosophy of armed neutrality underlying its foreign and defense policies. Domestic policy poses some major problems, to the point that many observers deem that the system is in crisis but the changing international environment has generated a significant reexamination of Swiss policy in key areas such as defense, neutrality, and immigration. Quadrennial national elections typically produce only marginal changes in party representation.
 
 In recent years, Switzerland has seen a gradual shift in the party landscape. The right-wing Swiss People's Party (SVP), traditionally the junior partner in the four-party coalition government, more than doubled its voting share from 11.0% in 1987 to 22.5% in 1999, rising to 28.9% in 2007, thus overtaking its three coalition partners. This shift in voting shares put a strain on the "magic formula", the power-broking agreement of the four coalition parties. From 1959 until 2004, the seven-seat cabinet had comprised 2 Free Democrats, 2 Christian Democrats, 2 Social Democrats, and 1 Swiss People's Party, but in 2004, the Swiss People's Party took one seat from the Christian Democrats. In 2008 the Conservative Democratic Party split from the SVP, taking both of their Federal Council seats with them. However, the SVP eventually retook both seats, in 2009 and 2015 respectively.[7]
 
@@ -91,7 +91,7 @@ Switzerland maintains diplomatic relations with almost all countries and histori
 
 Energy politics
 
-Beznau_-_emergency_switch.jpeg. In 2011, the federal authorities decided to gradually phase out nuclear power in Switzerland.]]
+. In 2011, the federal authorities decided to gradually phase out nuclear power in Switzerland.]]
 
 The energy generated in Switzerland comprises 55.2% hydroelectricity, 39.9% from nuclear power, about 4% from conventional sources and about 1% other.
 

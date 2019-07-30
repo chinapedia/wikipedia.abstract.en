@@ -1,1 +1,0 @@
-UNTERLAND (), meaning "lower land", is one of the two electoral districts of Liechtenstein.[1] The district's administrative seat is the town of Schellenberg, due to its historical existence as the Lordship of Schellenberg (). It has 10 seats in the Landtag.

@@ -1,1 +1,0 @@
-The NIEUWE WATERWEG ("New Waterway") is a ship canal in the Netherlands from het Scheur (a branch of the Rhine-Meuse-Scheldt delta) west of the town of Maassluis to the North Sea at Hook of Holland: the Maasmond, where the Nieuwe Waterweg connects to the Maasgeul. It is the artificial mouth of the river Rhine.

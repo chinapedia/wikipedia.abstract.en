@@ -1,1 +1,0 @@
-The 114TH LIGHT ANTI-AIRCRAFT REGIMENT (114th LAA Rgt), was an air defence unit of the British Army's Royal Artillery during World War II. It landed on D-Day and saw action throughout the campaign in North West Europe, defending the vital port of Antwerp against Parachute mines and V-1 flying bombs.

@@ -1,1 +1,0 @@
-US_$2_bill_obverse_series_2003_A.jpg. Rarely seen in circulation, but still in production and legal tender.]] Bohemia,_Joachimsthaler_1525_Electrotype_Copy._VF._Reverse..jpg and the name of Ludovicus, the Czech king (Louis II)]]

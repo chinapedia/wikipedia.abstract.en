@@ -1,1 +1,0 @@
-_THE CINCINNATI HERALD_ is an African-American newspaper published each Wednesday by Sesh Communications in Cincinnati, Ohio, United States. The _Herald_{{'}}s offices are located in the Avondale neighborhood. Sister publications include _The Dayton Defender_ and _SeshPrime Magazine_, a monthly magazine for African-American senior citizens.[1]

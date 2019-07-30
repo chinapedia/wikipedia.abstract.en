@@ -1,1 +1,0 @@
-ANDY RODGERS (March 14, 1922 – August 14, 2004)[1] was an American Delta blues harmonicist, guitarist, singer, and songwriter. A flamboyant character, commonly known as the MIDNIGHT COWBOY, Rodgers worked part-time as a musician for most of his lifetime. He recorded two albums in the 1990s.

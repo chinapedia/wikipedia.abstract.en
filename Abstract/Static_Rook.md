@@ -1,1 +1,0 @@
-STATIC ROOK (居飛車 _ibisha_) openings in shogi typically have the player's rook at its start position, which is the second file (on the 28 square) for Black and the eighth file (on the 82 square) for White.

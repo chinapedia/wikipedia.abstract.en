@@ -1,1 +1,0 @@
-ALEXANDER I OF EPIRUS (; c. 371 BC – 331 BC), also known as ALEXANDER MOLOSSUS (), was a king of Epirus (343/2–331 BC) of the Aeacid dynasty.[1][2] As the son of Neoptolemus I and brother of Olympias, Alexander I was an uncle of Alexander the Great. He was also an uncle of Pyrrhus of Epirus.

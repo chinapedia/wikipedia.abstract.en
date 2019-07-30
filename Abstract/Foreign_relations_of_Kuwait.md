@@ -1,1 +1,0 @@
-Since its independence in 1961, Kuwait maintained strong INTERNATIONAL RELATIONS with most countries, especially nations within the Arab world. Its vast oil reserves gives it a prominent voice in global economic forums and organizations like the OPEC. Kuwait is also a major ally of ASEAN, and a regional ally of China.

@@ -1,1 +1,0 @@
-NYSE AMERICAN, formerly known as the AMERICAN STOCK EXCHANGE (AMEX), and more recently as NYSE MKT, is an American stock exchange situated in New York City, New York. AMEX was previously a mutual organization, owned by its members. Until 1953, it was known as the NEW YORK CURB EXCHANGE.[1]

@@ -1,1 +1,0 @@
-GLOBAL INFRASTRUCTURE BASEL FOUNDATION (GIB) is an independent, not-for-profit foundation under Swiss law active in the field of sustainable urban infrastructure.[1] The CEO of GIB is Katharina Schneider-Roos.[2]

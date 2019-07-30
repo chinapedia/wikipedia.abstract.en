@@ -1,1 +1,0 @@
-MARGRET ELSE SCHLEIDT (born Margret Else Zimmer on July 20, 1928 in Duisburg, died March 13, 2012 in Andechs) was a German human ethologist. She worked at the Max-Planck-Institut für Verhaltensphysiologie, which has now become the Max-Planck Institute for Ornithology.

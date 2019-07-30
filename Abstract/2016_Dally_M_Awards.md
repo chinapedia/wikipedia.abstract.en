@@ -1,1 +1,0 @@
-The 2016 DALLY M AWARDS were presented on Wednesday 28 September 2016. They are the official annual awards of the National Rugby League and are named after Dally Messenger. Cooper Cronk and Jason Taumalolo became just the second joint winners of the Dally M Medal after both players tied with 26 votes apiece.

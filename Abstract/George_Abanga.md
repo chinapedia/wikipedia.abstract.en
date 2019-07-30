@@ -1,1 +1,0 @@
-GEORGE ABANGA, also known as KING GEORGE (August 4, 1976 – September 10, 2015), was a Ghanaian reporter for the radio station Success FM, in Accra, Brong-Ahafo Region, and for Peace FM, in Goaso, Greater Accra Region.[1][2][3] He was murdered in 2015.[4][5]

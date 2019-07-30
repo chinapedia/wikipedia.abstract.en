@@ -1,1 +1,0 @@
-ISAIAH 9 is the ninth chapter of the Book of Isaiah in the Hebrew Bible or the Old Testament of the Christian Bible. This book contains the prophecies attributed to the prophet Isaiah, and is one of the Books of the Prophets.

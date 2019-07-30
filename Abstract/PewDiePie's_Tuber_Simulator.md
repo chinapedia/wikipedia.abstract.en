@@ -1,1 +1,0 @@
-_PEWDIEPIE'S TUBER SIMULATOR_ is a freemium simulation mobile game developed by Outerminds Inc. and featuring YouTube personality PewDiePie, who voices himself.[1] The game's premise focuses on the player creating online videos for views and subscribers, the former of which they can use to purchase goods that can increase performance.[2]

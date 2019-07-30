@@ -1,1 +1,0 @@
-The 1907 TCU HORNED FROGS FOOTBALL TEAM represented Texas Christian University (TCU) in the 1907 college football season. The Horned Frogs finished the season 4–2–2 overall. The team was coached by Emory J. Hyde in his third and final year as head coach.

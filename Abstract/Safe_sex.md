@@ -1,1 +1,0 @@
-Condom_unrolled_durex.jpgs can be used to cover the penis (or fingers or other body parts) for safer sex when inserting into body cavities.]] Latex_Dental_Dam_far_(cropped).jpgs can be used to cover the vulva or anus when engaging in cunnilingus or anilingus, respectively, for safer sex.]] Female_condom.jpgs ("internal" condoms) can be used by receptive partners for safer sex.]]

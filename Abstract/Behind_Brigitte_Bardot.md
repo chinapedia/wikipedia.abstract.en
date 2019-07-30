@@ -1,1 +1,0 @@
-_BEHIND BRIGITTE BARDOT_ (subtitled _COOL SOUNDS FROM HER HOT SCENES_) is an album by composer, arranger and conductor Pete Rugolo featuring performances of tunes associated with the films of Brigitte Bardot recorded in late 1959 and first released on the Warner Bros. label.[1]

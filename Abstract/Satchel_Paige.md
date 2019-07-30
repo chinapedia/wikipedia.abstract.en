@@ -1,1 +1,0 @@
-LEROY ROBERT "SATCHEL" PAIGE (July 7, 1906 – June 8, 1982) was an American Negro league baseball and Major League Baseball (MLB) pitcher who is notable for his longevity in the game, and for attracting record crowds wherever he pitched.

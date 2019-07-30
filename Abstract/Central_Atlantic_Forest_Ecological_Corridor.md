@@ -1,1 +1,0 @@
-The CENTRAL ATLANTIC FOREST ECOLOGICAL CORRIDOR ( is an ecological corridor in the states of Espírito Santo and Bahia, Brazil. It promotes improvements to connectivity between fragments of Atlantic Forest in the region with the goal of maintaining genetic health among flora and fauna.

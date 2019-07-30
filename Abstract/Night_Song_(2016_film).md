@@ -1,1 +1,0 @@
-_NIGHT SONG_ () is a 2016 Franco-Canadian drama film written and directed by Raphaël Nadjari. It stars Géraldine Pailhas, Luc Picard, Felicia Shulman and Eléonore Lagacé. It won the Tobias Spencer Award at the Haifa International Film Festival.[1][2][3]

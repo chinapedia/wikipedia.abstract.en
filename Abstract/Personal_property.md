@@ -1,1 +1,0 @@
-PERSONAL PROPERTY is property that is movable.[1] In common law systems, PERSONAL PROPERTY may also be called CHATTELS or PERSONALTY. In civil law systems, personal property is often called MOVABLE PROPERTY or MOVABLES – any property that can be moved from one location to another.

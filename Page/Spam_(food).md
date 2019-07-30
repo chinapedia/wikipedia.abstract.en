@@ -5,7 +5,7 @@ By the early 1970s the name "spam" had become a genericized trademark used to de
 
 History
 
-Sliced_Spam.JPG Spam was introduced by Hormel on July 5, 1937.[7] The Oxford Encyclopedia of Food and Drink in America states that the product was intended to increase the sale of pork shoulder which was not a very popular cut.[8] Ken Daigneau, brother of a company executive, won a $100 prize that year in a competition to name the new item.[9] Hormel claims that the meaning of the name "is known by only a small circle of former Hormel Foods executives", but popular beliefs are that the name is an abbreviation of "spiced ham".[10][11] The difficulty of delivering fresh meat to the front during World War II saw Spam become a ubiquitous part of the U.S. soldier's diet. It became variously referred to as "ham that didn't pass its physical", "meatloaf without basic training",[12] and "Special Army Meat". Over 150 million pounds of Spam were purchased by the military before the war's end.[13]
+Spam was introduced by Hormel on July 5, 1937.[7] The Oxford Encyclopedia of Food and Drink in America states that the product was intended to increase the sale of pork shoulder which was not a very popular cut.[8] Ken Daigneau, brother of a company executive, won a $100 prize that year in a competition to name the new item.[9] Hormel claims that the meaning of the name "is known by only a small circle of former Hormel Foods executives", but popular beliefs are that the name is an abbreviation of "spiced ham".[10][11] The difficulty of delivering fresh meat to the front during World War II saw Spam become a ubiquitous part of the U.S. soldier's diet. It became variously referred to as "ham that didn't pass its physical", "meatloaf without basic training",[12] and "Special Army Meat". Over 150 million pounds of Spam were purchased by the military before the war's end.[13]
 
 During World War II and the occupations which followed, Spam was introduced into Guam, Hawaii, Okinawa, the Philippines, and other islands in the Pacific. Immediately absorbed into native diets, it has become a unique part of the history and effects of U.S. influence in the Pacific islands.[14]
 
@@ -26,7 +26,7 @@ In 1963, Spam was introduced to various private and public schools in South Flor
 
 Hawaii
 
-Spam_musubi_at_Ninja_Sushi.jpg is a popular snack and lunch food in Hawaii]] Spam is especially popular in the state of Hawaii, where residents have the highest per capita consumption in the United States. Its perception there is very different from on the mainland.[31] Hawaiians sometimes call it "Portagee Steak".[32]
+is a popular snack and lunch food in Hawaii]] Spam is especially popular in the state of Hawaii, where residents have the highest per capita consumption in the United States. Its perception there is very different from on the mainland.[31] Hawaiians sometimes call it "Portagee Steak".[32]
 
 A popular local dish in Hawaii is Spam musubi, where cooked Spam is placed atop rice and wrapped in a band of nori, a form of _onigiri_.[33] Varieties of Spam are found in Hawaii that are unavailable in other markets, including Honey Spam, Spam with Bacon, and Hot and Spicy Spam.[34]
 
@@ -54,13 +54,13 @@ Southeast Asia
 
 Philippines
 
-Spam_Meal.jpg", Spam with _sinangág_ (garlic fried rice) and eggs, is a common Filipino breakfast combination.[50]]] In the Philippines, Spam is a popular food item and seen as a cultural symbol. As a former US territory, Spam reached the islands similar to how it reached Hawaii and Guam: as a result of World War II rationing. Spam is commonly eaten with rice (usually garlic fried rice) and a sunny-side up egg for breakfast. It is prepared and used in a variety of ways, including being fried, served alongside condiments, or used in sandwiches. It has also been featured in numerous Filipino fusion cuisine dishes including Spam burgers, Spam spaghetti, Spam nuggets, and others.[51][52][53][54]
+", Spam with _sinangág_ (garlic fried rice) and eggs, is a common Filipino breakfast combination.[50]]] In the Philippines, Spam is a popular food item and seen as a cultural symbol. As a former US territory, Spam reached the islands similar to how it reached Hawaii and Guam: as a result of World War II rationing. Spam is commonly eaten with rice (usually garlic fried rice) and a sunny-side up egg for breakfast. It is prepared and used in a variety of ways, including being fried, served alongside condiments, or used in sandwiches. It has also been featured in numerous Filipino fusion cuisine dishes including Spam burgers, Spam spaghetti, Spam nuggets, and others.[51][52][53][54]
 
 The popularity of Spam in the Philippines transcends economic class, and Spam gift sets are even used as homecoming gifts. There are at least ten different varieties of Spam currently available in the country and an estimated 1.25 million kilos of the meat is sold every year in the Philippines.[55] During the rescue efforts after Typhoon Ondoy (Ketsana) in 2009, Hormel Foods donated over 30,000 pounds of Spam to the Philippine National Red Cross.[56]
 
 East Asia
 
-Spam_served_with_rice.jpg.]]
+.]]
 
 China
 
@@ -109,7 +109,7 @@ Spam is referred to in _Island of the Sequined Love Nun_ by Christopher Moore, w
 
 Spam celebrations
 
-SpamMuseumAustinMN2006-05-20.JPG in Austin, Minnesota]] Spam_Museum_Sign.JPG]]
+in Austin, Minnesota]] ]]
 
 Spam is celebrated in Austin, Minnesota, home to the Spam Museum. The museum tells the history of the Hormel company, the origin of Spam, and its place in world culture, including Hawaii where Spam is eaten daily by locals.
 
@@ -122,7 +122,7 @@ Spamarama was a yearly festival held around April Fool's Day in Austin, Texas. T
 
 Nutritional data
 
-Spam_2.jpg Spam_Can_Nutritional_Label.jpg The ingredients of Spam vary according to variety and market; those of variety "Spam Classic" are: pork, ham, salt, water, potato starch, sugar, and sodium nitrite.[87]
+The ingredients of Spam vary according to variety and market; those of variety "Spam Classic" are: pork, ham, salt, water, potato starch, sugar, and sodium nitrite.[87]
 
 +--------------------------------------------+
 | Net weight per package: 340 grams (12 oz.) |

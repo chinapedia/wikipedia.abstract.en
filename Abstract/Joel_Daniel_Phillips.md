@@ -1,1 +1,0 @@
-JOEL DANIEL PHILLIPS is an American artist best known for his realist life-size portraits, particularly of San Francisco, California residents that highlight disenfranchised segments of the population.[1][2]

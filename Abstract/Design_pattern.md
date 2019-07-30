@@ -1,1 +1,0 @@
-A DESIGN PATTERN is the re-usable form of a solution to a design problem. The idea was introduced by the architect Christopher Alexander[1] and has been adapted for various other disciplines, notably software engineering.[2]

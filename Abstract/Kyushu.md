@@ -1,1 +1,0 @@
-is the third largest island of Japan and most southwesterly of its four main islands.[1] Its alternative ancient names include , , and . The historical regional name referred to Kyushu and its surrounding islands.

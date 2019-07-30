@@ -1,1 +1,0 @@
-"DETAINED" is the sixth episode of the British science fiction television series _Class_. It was released online by BBC Three on 19 November 2016. The episode was written by the series' creator Patrick Ness and directed by Wayne Che Yip.

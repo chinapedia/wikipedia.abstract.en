@@ -1,1 +1,0 @@
-JESSE FREEMAN BOULDEN (1820-1899) was a Baptist pastor and politician in Chicago and Mississippi. He founded a number of churches, including Olivet Baptist Church in Chicago. He served in the Mississippi House of Representatives during the Reconstruction Era. He also helped manage the Senate campaigns of Hiram Rhodes Revels and Blanche Kelso Bruce.[1]

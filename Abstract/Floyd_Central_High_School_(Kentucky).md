@@ -1,1 +1,0 @@
-FLOYD CENTRAL HIGH SCHOOL (FCHS) is a secondary school located in Floyd County, Kentucky that opened in September 2017. The high school is a consolidation of Allen Central High School and South Floyd High School. The school mascot is Jaguars. School colors are Kentucky Teal, Black, and Gold.

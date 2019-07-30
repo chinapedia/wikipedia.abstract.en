@@ -1,1 +1,0 @@
-TIMOTHY WELLS ROSSITER (March 28, 1751 – August 27, 1845) was a physician and later an American Revolutionary War surgeon under General George Washington. Timothy Wells Rossiter was born March 28, 1751 in New London, Connecticut, and died at the age of 95 on August 27, 1845 in Hancock County, Sparta, Georgia.

@@ -1,1 +1,0 @@
-BORN LION are a Sydney band that formed in 2012.[1] Their _Final Words_ album was nominated for a 2015 ARIA Award for Best Hard Rock/Heavy Metal Album.[2] Their album _Celebrate the Lie_ was released in early 2018.[3]

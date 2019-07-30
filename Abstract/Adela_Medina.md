@@ -1,1 +1,0 @@
-'''Adela Medina ''' (born 3 November 1978) is an Argentine footballer who played as a defender for the Argentina women's national football team. She was part of the team at the 2003 FIFA Women's World Cup.[1]

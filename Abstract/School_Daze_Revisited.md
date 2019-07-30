@@ -1,1 +1,0 @@
-_SCHOOL DAZE REVISITED_ (also titled as _SCHOOL DAZE REVISITED...20 YEARS LATER_) is a studio album released on September 18, 2007[1] by the Washington, D.C.-based go-go band E.U. & Friends.[2][3] The album was dedicated to the Class of 1988.

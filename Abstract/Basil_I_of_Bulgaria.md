@@ -1,1 +1,0 @@
-BASIL () was the first Patriarch of the Bulgarian Orthodox Church after restoring Tarnovo Patriarchate. Basil of Bulgaria crowned younger brother Asen I and consecrated the church "St. Demetrius" in Tarnovo.[1]

@@ -1,1 +1,0 @@
-A SOAP OPERA is an ongoing drama serial on television or radio, featuring the lives of many characters and their familial, platonic and intimate relationships.[1] The term _soap opera_ originated from radio dramas being sponsored by soap manufacturers.[2]

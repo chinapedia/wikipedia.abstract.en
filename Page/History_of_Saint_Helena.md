@@ -30,8 +30,6 @@ The Dutch Republic formally made claim to St Helena in 1633, although there is 
 
 East India Company, 1658–1815
 
-Thornton,_St_Helena.jpg
-
 The idea for the English to make claim to the island was first made in a 1644 pamphlet by Richard Boothby. By 1649, the East India Company (EIC) ordered all homeward-bound vessels to wait for one another at St Helena and in 1656 onward the Company petitioned the government to send a man-of-war to convoy the fleet home from there. Having been granted a charter to govern the island by the Lord Protector of the Commonwealth Oliver Cromwell in 1657,[21] the following year the Company decided to fortify and colonise St Helena with planters. A fleet commanded by Captain John Dutton (first governor, 1659–1661) in the _Marmaduke_ arrived at St Helena in 1659. It is from this date that St Helena claims to be Britain's second oldest colony (after Bermuda). A fort, originally named the Castle of St John, was completed within a month and further houses were built further up the valley. It soon became obvious that the island could not be made self-sufficient and in early 1658, the East India Company ordered all homecoming ships to provide one ton of rice on their arrival at the island.
 
 With the restoration of the monarchy in 1660, the fort was renamed James Fort, the town Jamestown and the valley James Valley, all in honour of the Duke of York, later James II of England. The East India Company immediately sought a Royal Charter, possibly to give their occupation of St Helena legitimacy. This was issued in 1661 and gave the Company the sole right to fortify and colonise the island "_in such legal and reasonable manner the said Governor and Company should see fit_". Each planter was allocated one of 130 pieces of land, but the Company had great difficulty attracting new immigrants, the population falling to only 66, including 18 slaves, by 1670. John Dutton's successors as governor, Robert Stringer (1661–1670) and Richard Coney (1671–1672), repeatedly warned the Company of unrest amongst the inhabitants, Coney complaining the inhabitants were drunks and ne’er-do-wells. In 1672 Coney was seized by rebellious members of the island's council and shipped back to England. Coincidentally, the Company had already sent a replacement governor, Anthony Beale (1672–1673).
@@ -67,7 +65,7 @@ Governor Alexander Beatson (1808–1813) took action to reduce drunkenness by pr
 
 British rule 1815–1821, and Napoleon's exile
 
-Napoleon_sainthelene.jpg at Saint Helena.]] 16_Napoleons_exole_St_Helena_June1970.jpg, St Helena: site of Napoleon's captivity.]]
+at Saint Helena.]] , St Helena: site of Napoleon's captivity.]]
 
     _Main text: Napoleon I of France: Exile on Saint Helena_
 

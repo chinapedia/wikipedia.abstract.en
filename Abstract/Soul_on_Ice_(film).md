@@ -1,1 +1,0 @@
-_SOUL ON ICE: PAST, PRESENT, & FUTURE_ is a 2016 American documentary film directed, produced, and written by Damon Kwame Mason.[1][2] The film tells the story of the Coloured Hockey League and the history of Black players in ice hockey in the United States and Canada.[3][4][5][6][7]

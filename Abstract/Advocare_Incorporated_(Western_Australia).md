@@ -1,1 +1,0 @@
-ADVOCARE INCORPORATED is a Perth-based human rights organisation that provides support to older people and people with disabilities in Western Australia.[1] It is independent and not-for-profit and provides free information, education and advocacy services.[2][3][4]

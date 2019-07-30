@@ -1,1 +1,0 @@
-DO IT FOR DENMARK is a Danish media and advertising campaign designed to increase the birth rate of the nation. The campaign, launched by the Danish travel agency Spies Rejser, is envisioned as a way to stop the population decline present in Denmark. Following the implementation of the campaign in 2014, the Danish birth rate increased.[1][2][3][4]

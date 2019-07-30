@@ -1,1 +1,0 @@
-The ESTEVAN POWER DODGE CURLING CLASSIC (formerly the WEATHERFORD CURLING CLASSIC) is an annual bonspiel that was on the men's World Curling Tour from 2013 to 2016 and is now just a part of the Saskatchewan Curling Tour.[1] It is held annually in November at the Estevan Curling Club in Estevan, Saskatchewan.

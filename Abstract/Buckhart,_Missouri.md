@@ -1,1 +1,0 @@
-BUCKHART is an unincorporated community in Douglas County, Missouri.[1] The townsite is at an elevation of [2] located on Brush Creek east of Missouri Route 95 on State Route CC. It is south of Drury and northeast of Gentryville.[3]

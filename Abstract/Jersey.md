@@ -1,1 +1,0 @@
-JERSEY (, ; Jèrriais: _Jèrri_ ), officially the BAILIWICK OF JERSEY (; Jèrriais: _Bailliage dé Jèrri_), is a British Crown dependency[1] located near the coast of Normandy, France.[2] It is the second closest of the Channel Islands to France, after Alderney.

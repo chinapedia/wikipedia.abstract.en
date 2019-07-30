@@ -1,1 +1,0 @@
-The 2017 K LEAGUE CHALLENGE was the fifth season of the K League Challenge, the second tier South Korean professional league for association football clubs since its establishment in 2013. The top-ranked team and the winner of the promotion play-offs among three clubs ranked between 2nd and 4th got promoted to the K League 1 after the regular season ended.

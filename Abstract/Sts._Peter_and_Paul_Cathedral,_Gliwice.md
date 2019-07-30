@@ -1,1 +1,0 @@
-The STS. PETER AND PAUL CATHEDRAL [1] ( ) also called GLIWICE CATHEDRAL[2] is the name given to a Catholic church that serves as the cathedral of Gliwice,[3] in the central district of this city of Poland.[4]

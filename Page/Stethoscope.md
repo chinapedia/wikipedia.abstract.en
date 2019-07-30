@@ -1,5 +1,3 @@
-Stethoscope-2.png
-
 The STETHOSCOPE is an acoustic medical device for auscultation, or listening to the internal sounds of an animal or human body. It typically has a small disc-shaped resonator that is placed against the skin, and one or two tubes connected to two earpieces. A stethoscope can be used to listen to the sounds made by the heart, lungs or intestines, as well as blood flow in arteries and veins. In combination with a manual sphygmomanometer, it is commonly used when measuring blood pressure.
 
 Less commonly, "mechanic's stethoscopes", equipped with rod shaped chestpieces, are used to listen to internal sounds made by machines (for example, sounds and vibrations emitted by worn ball bearings), such as diagnosing a malfunctioning automobile engine by listening to the sounds of its internal parts. Stethoscopes can also be used to check scientific vacuum chambers for leaks, and for various other small-scale acoustic monitoring tasks.
@@ -9,11 +7,9 @@ A stethoscope that intensifies auscultatory sounds is called a PHONENDOSCOPE.
 
 History
 
-Laennecs_stethoscope,_c_1820._(9660576833).jpg)]]
+)]]
 
-Hörrohr_Stethoskop_Meyers_1890.jpg
-
-Toraube2.jpg-type stethoscope in ivory]]
+-type stethoscope in ivory]]
 
 The stethoscope was invented in France in 1816 by René Laennec at the Necker-Enfants Malades Hospital in Paris.[1][2][3] It consisted of a wooden tube and was monaural. Laennec invented the stethoscope because he was not comfortable placing his ear directly onto a woman's chest to listen to her heart.[4][5] He observed that a rolled piece of paper, placed between the patient's chest and his ear, could amplify heart sounds without requiring physical contact.[6] Laennec's device was similar to the common ear trumpet, a historical form of hearing aid; indeed, his invention was almost indistinguishable in structure and function from the trumpet, which was commonly called a "microphone". Laennec called his device the "stethoscope"[7] (_stetho-_ + _-scope_, "chest scope"), and he called its use "mediate auscultation", because it was auscultation with a tool intermediate between the patient's body and the physician's ear. (Today the word _auscultation_ denotes all such listening, mediate or not.) The first flexible stethoscope of any sort may have been a binaural instrument with articulated joints not very clearly described in 1829.[8] In 1840, Golding Bird described a stethoscope he had been using with a flexible tube. Bird was the first to publish a description of such a stethoscope but he noted in his paper the prior existence of an earlier design (which he thought was of little utility) which he described as the snake ear trumpet. Bird's stethoscope had a single earpiece.[9]
 
@@ -23,14 +19,12 @@ Somerville Scott Alison described his invention of the STETHOPHONE at the Royal 
 
 The medical historian Jacalyn Duffin has argued that the invention of the stethoscope marked a major step in the redefinition of disease from being a bundle of symptoms, to the current sense of a disease as a problem with an anatomical system even if there are no noticeable symptoms. This re-conceptualization occurred in part, Duffin argues, because prior to stethoscopes, there were no non-lethal instruments for exploring internal anatomy.[11]
 
-Rappaport and Sprague designed a new stethoscope in the 1940s, which became the standard by which other stethoscopes are measured, consisting of two sides, one of which is used for the respiratory system, the other for the cardiovascular system. The Rappaport-Sprague was later made by Hewlett-Packard. HP's medical products division was spun off as part of Agilent Technologies, Inc., where it became Agilent Healthcare. Agilent Healthcare was purchased by Philips which became Philips Medical Systems, before the walnut-boxed, $300, original Rappaport-Sprague stethoscope was finally abandoned ca. 2004, along with Philips' brand (manufactured by Andromed, of Montreal, Canada) electronic stethoscope model. The Rappaport-Sprague model stethoscope was heavy and short () with an antiquated appearance recognizable by their two large independent latex rubber tubes connecting an exposed leaf-spring-joined pair of opposing F-shaped chrome-plated brass binaural ear tubes with a dual-head chest piece. Early_flexible_stethoscopes.jpg Several other minor refinements were made to stethoscopes until, in the early 1960s, David Littmann, a Harvard Medical School professor, created a new stethoscope that was lighter than previous models and had improved acoustics.[12][13] In the late 1970s, 3M-Littmann introduced the tunable diaphragm: a very hard (G-10) glass-epoxy resin diaphragm member with an overmolded silicone flexible acoustic surround which permitted increased excursion of the diaphragm member in a Z-axis with respect to the plane of the sound collecting area.[14] The left shift to a lower resonant frequency increases the volume of some low frequency sounds due to the longer waves propagated by the increased excursion of the hard diaphragm member suspended in the concentric accountic surround. Conversely, restricting excursion of the diaphragm by pressing the stethoscope diaphragm surface firmly against the anatomical area overlying the physiological sounds of interest, the acoustic surround could also be used to dampen excursion of the diaphragm in response to "z"-axis pressure against a concentric fret. This raises the frequency bias by shortening the wavelength to auscultate a higher range of physiological sounds.
+Rappaport and Sprague designed a new stethoscope in the 1940s, which became the standard by which other stethoscopes are measured, consisting of two sides, one of which is used for the respiratory system, the other for the cardiovascular system. The Rappaport-Sprague was later made by Hewlett-Packard. HP's medical products division was spun off as part of Agilent Technologies, Inc., where it became Agilent Healthcare. Agilent Healthcare was purchased by Philips which became Philips Medical Systems, before the walnut-boxed, $300, original Rappaport-Sprague stethoscope was finally abandoned ca. 2004, along with Philips' brand (manufactured by Andromed, of Montreal, Canada) electronic stethoscope model. The Rappaport-Sprague model stethoscope was heavy and short () with an antiquated appearance recognizable by their two large independent latex rubber tubes connecting an exposed leaf-spring-joined pair of opposing F-shaped chrome-plated brass binaural ear tubes with a dual-head chest piece. Several other minor refinements were made to stethoscopes until, in the early 1960s, David Littmann, a Harvard Medical School professor, created a new stethoscope that was lighter than previous models and had improved acoustics.[12][13] In the late 1970s, 3M-Littmann introduced the tunable diaphragm: a very hard (G-10) glass-epoxy resin diaphragm member with an overmolded silicone flexible acoustic surround which permitted increased excursion of the diaphragm member in a Z-axis with respect to the plane of the sound collecting area.[14] The left shift to a lower resonant frequency increases the volume of some low frequency sounds due to the longer waves propagated by the increased excursion of the hard diaphragm member suspended in the concentric accountic surround. Conversely, restricting excursion of the diaphragm by pressing the stethoscope diaphragm surface firmly against the anatomical area overlying the physiological sounds of interest, the acoustic surround could also be used to dampen excursion of the diaphragm in response to "z"-axis pressure against a concentric fret. This raises the frequency bias by shortening the wavelength to auscultate a higher range of physiological sounds.
 
 In 1999, Richard Deslauriers patented the first external noise reducing stethoscope, the DRG Puretone. It featured two parallel lumens containing two steel coils which dissipated infiltrating noise as inaudible heat energy. The steel coil "insulation" added .30 lb to each stethoscope. In 2005, DRG's diagnostics division was acquired by TRIMLINE Medical Products.[15]
 
 
 Current practice
-
-Standardized-Patient-Program-examining-t_he-abdomen.jpg
 
 Stethoscopes are a symbol of healthcare professionals. Healthcare providers are often seen or depicted wearing a stethoscope around the neck. A 2012 research paper claimed that the stethoscope, when compared to other medical equipment, had the highest positive impact on the perceived trustworthiness of the practitioner seen with it.[16]
 
@@ -42,8 +36,6 @@ In general practice, traditional blood pressure measurement using a mechanical s
 Types
 
 Acoustic
-
-Stethoscope.svg Stethoscope_pink.JPG
 
 Acoustic stethoscopes operate on the transmission of sound from the chest piece, via air-filled hollow tubes, to the listener's ears. The chestpiece usually consists of two sides that can be placed against the patient for sensing sound: a diaphragm (plastic disc) or bell (hollow cup). If the diaphragm is placed on the patient, body sounds vibrate the diaphragm, creating acoustic pressure waves which travel up the tubing to the listener's ears. If the bell is placed on the patient, the vibrations of the skin directly produce acoustic pressure waves traveling up to the listener's ears. The bell transmits low frequency sounds, while the diaphragm transmits higher frequency sounds. To deliver the acoustic energy primarily to either the bell or diaphragm, the tube connecting into the chamber between bell and diaphragm is open on only one side and can rotate. The opening is visible when connected into the bell. Rotating the tube 180 degrees in the head connects it to the diaphragm. This two-sided stethoscope was invented by Rappaport and Sprague in the early part of the 20th century.
 
@@ -67,7 +59,7 @@ The first stethoscope that could work with a smartphone application was introduc
 
 Fetal
 
-Pinard_horn_Uganda_US_Army_nurse.jpg used by a U.S. Army Reserve nurse in Uganda]]
+used by a U.S. Army Reserve nurse in Uganda]]
 
 A _fetal stethoscope_ or _fetoscope_ is an acoustic stethoscope shaped like a listening trumpet. It is placed against the abdomen of a pregnant woman to listen to the heart sounds of the fetus.[25] The fetal stethoscope is also known as a Pinard horn after French obstetrician Adolphe Pinard (1844–1934).
 
@@ -77,7 +69,7 @@ A Doppler stethoscope is an electronic device that measures the Doppler effect o
 
 3D-printed
 
-StethoscopebyTarek.jpg A 3D-PRINTED STETHOSCOPE is an open-source medical device meant for auscultation and manufactured via means of 3D printing.[29] The 3D stethoscope was developed by Dr. Tarek Loubani and a team of medical and technology specialists. The 3D-stethoscope was developed as part of the Glia project, and its design is open source from the outset. The stethoscope gained widespread media coverage in Summer 2015.
+A 3D-PRINTED STETHOSCOPE is an open-source medical device meant for auscultation and manufactured via means of 3D printing.[29] The 3D stethoscope was developed by Dr. Tarek Loubani and a team of medical and technology specialists. The 3D-stethoscope was developed as part of the Glia project, and its design is open source from the outset. The stethoscope gained widespread media coverage in Summer 2015.
 
 The need for a 3D-stethoscope was borne out of a lack of stethoscopes and other vital medical equipment because of the blockade of the Gaza Strip, where Loubani, a Palestinian-Canadian, worked as an emergency physician during the 2012 conflict in Gaza. The 1960s-era _Littmann Cardiology 3_ stethoscope became the basis for the 3D-printed stethoscope developed by Loubani.[30]
 

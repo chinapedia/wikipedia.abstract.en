@@ -1,1 +1,0 @@
-_SHER MAMA_ (Punjabi: ) is 1983 Pakistan Punjabi language Action film, directed by Imtiaz Quresh and produced by Agha Imtiaz Ali Khan. The film stars actors Sultan Rahi, Mumtaz, Mustafa Qureshi and Iqbal Hassan. It was edited by Mohammad Ashiq Ali, Hujra Shah Muqeem.[1]

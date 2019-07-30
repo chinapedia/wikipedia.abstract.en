@@ -1,1 +1,0 @@
-GEORGE STRACHAN RAMSAY (18 October 1892 – 8 August 1918) was a Scottish professional football inside right who played in the Scottish League for Queen's Park, Rangers, Ayr United and Partick Thistle.[1]

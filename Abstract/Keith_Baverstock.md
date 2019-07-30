@@ -1,1 +1,0 @@
-Dr KEITH BAVERSTOCK is a former regional adviser for Radiation and Public Health, World Health Organization and current medical researcher and Docent in the Department of Environmental Science at the University of Eastern Finland.

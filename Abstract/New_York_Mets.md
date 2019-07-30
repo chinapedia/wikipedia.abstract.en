@@ -1,1 +1,0 @@
-The NEW YORK METS are an American professional baseball team based in the New York City borough of Queens. The Mets compete in Major League Baseball (MLB) as a member club of the National League (NL) East division. The Mets are one of two Major League clubs based in New York City; the other is the New York Yankees of the American League East.

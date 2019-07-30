@@ -1,4 +1,4 @@
-Combustion_reaction_of_methane.jpg reaction of methane.]] STOICHIOMETRY is the calculation of reactants and products in chemical reactions.
+reaction of methane.]] STOICHIOMETRY is the calculation of reactants and products in chemical reactions.
 
 Stoichiometry is founded on the law of conservation of mass where the total mass of the reactants equals the total mass of the products, leading to the insight that the relations among quantities of reactants and products typically form a ratio of positive integers. This means that if the amounts of the separate reactants are known, then the amount of the product can be calculated. Conversely, if one reactant has a known quantity and the quantity of the products can be empirically determined, then the amount of the other reactants can also be calculated.
 

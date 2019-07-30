@@ -1,1 +1,0 @@
-JOHN JERMYN (born 30 March 1982) is a former Ireland men's field hockey international. Between 2002 and 2018 Jermyn made 179 appearances and scored 93 goals for Ireland. He represented Ireland at the 2007 and 2011 Men's EuroHockey Nations Championships and at the 2016 Summer Olympics. Between 2012 and 2018 Jermyn held the record as Ireland's top goalscorer.

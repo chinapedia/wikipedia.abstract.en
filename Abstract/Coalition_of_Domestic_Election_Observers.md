@@ -1,1 +1,0 @@
-COALITION OF DOMESTIC ELECTION OBSERVERS (CODEO) is an independent and non-partisan organisation made up of civil society groups, faith-based organizations and professional organisations which observe elections in Ghana.[1]

@@ -1,1 +1,0 @@
-Lon_Las_Ogwen_(2)_-_geograph.org.uk_-_813245.jpg.]]LÔN LAS OGWEN is a cycle route in the National Cycle Network which runs south from the NCN 5 at Porth Penrhyn on the north coast of Wales to Llyn Ogwen in Snowdonia. Lôn Las Ogwen is Welsh for "Green Lane".

@@ -1,1 +1,0 @@
-Co., Ltd. was a Japanese publisher founded in 1971 and who filed for bankruptcy in 1999. Originally, it published learning reference books. The publisher is notable for its 1986 arcade game magazine . The representative was Hiroshi Kato. The company's capital was 10 million yen. Major subsidiaries were and .[1]

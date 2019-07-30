@@ -1,1 +1,0 @@
-The _COMPTES RENDUS DES SCÉANCES DE L'ACADÉMIE DES INSCRIPTIONS ET BELLES-LETTRES_ is an academic journal of history, philology, and archeology published by the Académie des Inscriptions et Belles-Lettres. It publishes articles in these fields as well as information on the life of the Academy and its various sessions.

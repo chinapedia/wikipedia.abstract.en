@@ -1,1 +1,0 @@
-The VENEZUELAN OLYMPIC COMMITTEE or COV ( - COV) is the National Olympic Committee representing Venezuelan athletes in the International Olympic Committee (IOC), the Pan American Games and the Central American and Caribbean Games. It is based in Caracas, Venezuela.

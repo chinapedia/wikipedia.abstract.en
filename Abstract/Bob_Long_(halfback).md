@@ -1,1 +1,0 @@
-ROBERT ALBERT "BOB" LONG (April 9, 1922 - August 2, 1961) was an American professional football halfback who spent one season in the National Football League with the Boston Yanks in 1947.[1] Long died on August 2, 1961 at the age of 39.[2]

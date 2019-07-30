@@ -1,1 +1,0 @@
-The NEWCASTLE STREET CIRCUIT is a temporary street circuit around the east end of Newcastle, New South Wales, Australia. The circuit hosts the Newcastle 500, the final round of the Supercars Championship.[1] The 14-turn, 2.652 kilometre circuit takes in Newcastle Beach and the foreshore around Nobbys Beach Reserve.[2]

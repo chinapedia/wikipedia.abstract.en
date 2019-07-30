@@ -1,1 +1,0 @@
-The 1874 ALABAMA GUBERNATORIAL ELECTION took place on November 3, 1874 in order to elect the Governor of Alabama. Incumbent Republican David P. Lewis unsuccessfully ran for reelection, losing to Democratic former U.S. Representative George S. Houston.

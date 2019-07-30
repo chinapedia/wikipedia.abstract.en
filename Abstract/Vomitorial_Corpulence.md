@@ -1,1 +1,0 @@
-VOMITORIAL CORPULENCE was a grindcore band that originated in Melbourne, Australia. The band was started by Paul Green.[1] The band's name comes from Revelation 3:15-16.[2] Vomitorial Corpulence is widely known as one of the first Christian grindcore band.[3][4][5]

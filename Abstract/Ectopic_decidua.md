@@ -1,1 +1,0 @@
-Decidual cells found outside inner lining of the uterus are called ECTOPIC DECIDUAL CELLS or ECTOPIC DECIDUA. This condition was first described in 1971 by Walker[1] and the name 'ectopic decidua' was coined by Tausig.[2] While ectopic decidua is most commonly seen during pregnancy, it rarely occurs in non-pregnant women, accompanied by bleeding and pain.

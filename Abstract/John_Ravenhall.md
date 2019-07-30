@@ -1,1 +1,0 @@
-JOHN GEORGE RAVENHALL (born ca. 1941) of Melbourne, Australia served as the Chief Commissioner of the Scout Association of Australia from 2003 to early 2009, a member of the Asia-Pacific Regional Scout Committee and a member of the World Training Committee and World Adult Resources Committee of the World Organization of the Scout Movement.

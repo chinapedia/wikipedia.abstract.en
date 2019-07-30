@@ -1,1 +1,0 @@
-_DIRTY 30_ is a 2016 comedy film starring YouTube personalities Mamrie Hart, Grace Helbig, and Hannah Hart. The film is directed by Andrew Bush, and produced by Michael Goldfine. The film was released on September 23, 2016.[1]

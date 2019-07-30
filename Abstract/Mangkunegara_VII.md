@@ -1,1 +1,0 @@
-Prince MANGKUNAGARA VII of a noble house of Solo was ruler of the Mangkunegaran Palace and lands in Surakarta in Central Java in Indonesia from 1916 to 1944, reigning during both World Wars. This first Scouting organization in Indonesia was established on the initiative of Sri Paduka Mangkunagara VII in 1916. Noto Soeroto served as his personal secretary.

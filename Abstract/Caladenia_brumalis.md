@@ -1,1 +1,0 @@
-_CALADENIA BRUMALIS_, commonly known as WINTER SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is endemic to South Australia. It has an erect, hairy leaf and usually a single white to pinkish flower with darker markings. It is only found in a few places due to habitat loss and is considered to be vulnerable.

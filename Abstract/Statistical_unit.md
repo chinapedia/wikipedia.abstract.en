@@ -1,1 +1,0 @@
-In statistics, a UNIT is one member of a set of entities being studied. It is the material source for the mathematical abstraction of a "random variable". Common examples of a unit would be a single person, animal, plant, manufactured item, or country that belongs to a larger collection of such entities being studied.

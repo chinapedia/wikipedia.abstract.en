@@ -1,1 +1,0 @@
-LATERANUS FAMILY or LATERANI were a prominent family of Ancient Rome. The founder of the family P. Sextius Lateranus, was the first plebeian to attain the rank of consul. They remained influential until the time of Constantine. Juvenal mentions their palace, and speaks of it as being of some magnificence, "regiæ ædes Lateranorum".

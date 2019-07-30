@@ -1,1 +1,0 @@
-ERNESTO GAUNA (29 November 1950, Buenos Aires, Argentina – 1 November 2016, Buenos Aires), known professionally as '''Pocho La Pantera '''(Spanish: POCHO THE PANTHER), was an Argentine master of ceremonies, actor, singer of Argentine cumbia,[1] and author of successes such as _El hijo de Cuca_ (1990),[2] _Me dicen la pantera_ (1991) and _El paso de la fiesta_ (2016).

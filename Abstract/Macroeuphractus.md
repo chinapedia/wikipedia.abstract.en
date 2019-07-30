@@ -1,1 +1,0 @@
-_MACROEUPHRACTUS_ is a genus of extinct armadillos from the Late Miocene to Late Pliocene of South America. The genus is noted for its large size, with _Macroeuphractus outesi_ being the largest non-pampathere or glyptodont armadillo discovered, as well as its specializations for carnivory, unique among all xenarthrans.[1]

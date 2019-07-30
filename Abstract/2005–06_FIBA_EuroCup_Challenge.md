@@ -1,1 +1,0 @@
-The 2005–06 FIBA EUROCUP CHALLENGE was the 4th edition of Europe's fourth-tier level transnational competition for men's professional basketball clubs.[1] This season, 24 teams participated. Russian team Ural Great Perm won the title, by beating Khimik in the double final.

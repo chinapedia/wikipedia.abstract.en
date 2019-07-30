@@ -1,1 +1,0 @@
-WES AGAR (born 5 February 1997) is an Australian cricketer. He is a fast bowler who has played for Australia's national youth team, and has played List A cricket for South Australia and Twenty20s for the Adelaide Strikers.

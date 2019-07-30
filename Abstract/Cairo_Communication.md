@@ -1,1 +1,0 @@
-CAIRO COMMUNICATION S.P.A. is an Italian media and publishing company based in Milan. The shares of the company float in Borsa Italiana. Urbano Cairo, via UT Communications, UT Belgium Holding, owned 50.101% stake of the company. In turn Cairo Communication owned 59.693% stake of fellow media company RCS MediaGroup, which was acquired in 2016.

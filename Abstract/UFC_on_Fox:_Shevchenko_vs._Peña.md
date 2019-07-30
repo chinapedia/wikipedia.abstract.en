@@ -1,1 +1,0 @@
-_UFC ON FOX: SHEVCHENKO VS. PEÑA_ (also known as _UFC ON FOX 23_) was a mixed martial arts event promoted by the Ultimate Fighting Championship held on January 28, 2017, at Pepsi Center in Denver, Colorado.[1]

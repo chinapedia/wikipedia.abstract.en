@@ -1,1 +1,0 @@
-Janab A.M.A. ZAMAN was an Indian politician and trade unionist. As of 1936 he served as councillor in the Calcutta Municipal Corporation.[1] He won the Hooghly labour seat in the 1936-1937 Bengal Legislative Assembly election.[2] At the time he belonged to the Congress Socialist Party, but he was known for shifting party affiliations frequently.[3]

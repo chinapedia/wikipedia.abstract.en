@@ -1,1 +1,0 @@
-ROBERT L BARRET (born October 26, 1940) is a professor, psychologist and writer in Charlotte, North Carolina. He taught at the University of North Carolina at Charlotte in the Department of Counseling for 29 years, retiring in 2008.

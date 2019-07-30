@@ -1,1 +1,0 @@
-HERMES (; ) is the god of trade, heraldry, merchants, commerce, roads, thieves, trickery, sports, travelers, and athletes in Ancient Greek religion and mythology; the son of Zeus and the Pleiad Maia, he was the second youngest of the Olympian gods (Dionysus being the youngest).

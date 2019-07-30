@@ -1,1 +1,0 @@
-SOIL RESOURCES DEVELOPMENT INSTITUTE or SRDI is an autonomous national research institute working as a statutory organization that carries out research on soil and surveys on soil quality to improve agriculture in Bangladesh and is located in Dhaka, Bangladesh.[1][2][3][4]

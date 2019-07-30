@@ -1,1 +1,0 @@
-CLARA AZURMENDI MORENO (born 4 May 1998) is a Spanish badminton player.[1] In 2015, she won the bronze medal at the Baku 2015 European Games in the women's singles event.[2] In 2016, she won her first international title at the Eurasia Bulgaria International.[3]

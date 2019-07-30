@@ -1,1 +1,0 @@
-FRANCESCO PANZIERI is an Italian visual effects artist. He is a member of the Visual Effects Society [1], the Academy of Television Arts & Sciences[2] and the Italian Visual Effects Association (_Associazione Effetti Visivi_).[3]

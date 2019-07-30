@@ -1,1 +1,0 @@
-_CALADENIA BREVISURA_, commonly known as the SHORT-SEPALLED SPIDER ORCHID, is a plant in the orchid family Orchidaceae and is endemic to the south-west of Western Australia. It is a common, small-flowered orchid with an erect, hairy leaf and a single greenish flower with red markings, on a flowering stem up to high. It is found between Ravensthorpe and Israelite Bay.

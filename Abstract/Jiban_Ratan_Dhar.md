@@ -1,1 +1,0 @@
-JIBAN RATAN DHAR (April 1889 – 19 January 1963) was an Indian politician.[1][2] He headed the municipality of Jessore during the Partition of India, represented the Bangaon constituency in the West Bengal Legislative Assembly twice and served as Minister for Jails and Health in the state government.

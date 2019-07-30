@@ -1,1 +1,0 @@
-LITTLE ANDAMAN GROUP is a group of islands of the Andaman Islands, which include all islands south of Duncan Passage. It belongs to the South Andaman administrative district, part of the Indian union territory of Andaman and Nicobar Islands.[1]

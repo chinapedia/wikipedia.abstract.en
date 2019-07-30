@@ -1,21 +1,19 @@
-Topographic_map_of_Saint_Helena-en.svg SAINT HELENA is an island in the South Atlantic Ocean, about midway between South America and Africa. St Helena has a land area of 122 square kilometres and is part of the territory of Saint Helena, Ascension and Tristan da Cunha which includes Ascension Island and the island group of Tristan da Cunha.
+SAINT HELENA is an island in the South Atlantic Ocean, about midway between South America and Africa. St Helena has a land area of 122 square kilometres and is part of the territory of Saint Helena, Ascension and Tristan da Cunha which includes Ascension Island and the island group of Tristan da Cunha.
 
 
 Physical geography
 
 Climate
 
-St-Helena-The_Barn.jpg The climate of Saint Helena island can be described as tropical, marine and mild, tempered by the Benguela Current and trade winds which blow almost continuously. Similarly, the climate of Tristan da Cunha is marine, mild and also tempered by trade winds, although the climate is temperate in nature. Ascension Island is warmer and wetter than St Helena.
+The climate of Saint Helena island can be described as tropical, marine and mild, tempered by the Benguela Current and trade winds which blow almost continuously. Similarly, the climate of Tristan da Cunha is marine, mild and also tempered by trade winds, although the climate is temperate in nature. Ascension Island is warmer and wetter than St Helena.
 
 Terrain
 
-Lot_and_Lot's_Wife_in_background.jpg Saint Helena has a rugged, volcanic terrain, with small scattered plateaus and plains, with the largest area of level ground on the island being Prosperous Bay Plain in the eastern arid area. The other islands of the group have a volcanic origin. The highest point on the island is Diana's Peak at 818 metres (2,684 ft), though Queen Mary's Peak on Tristan da Cunha is the highest in the British territory at 2,062 m.
+Saint Helena has a rugged, volcanic terrain, with small scattered plateaus and plains, with the largest area of level ground on the island being Prosperous Bay Plain in the eastern arid area. The other islands of the group have a volcanic origin. The highest point on the island is Diana's Peak at 818 metres (2,684 ft), though Queen Mary's Peak on Tristan da Cunha is the highest in the British territory at 2,062 m.
 
 A natural hazard on Tristan da Cunha is active volcanism, though this is not the case on St Helena itself.
 
 Geology
-
-Saint_Helena_Island.jpg
 
 St. Helena exists because of the St. Helena hotspot which began to produce basaltic lava about 145 million years ago when it was near the constructive plate margin of the Mid-Atlantic Ridge. The movement of the African Plate away from the hotspot has left the chain of the St. Helena seamounts, which may connect with the Cameroon Volcanic Line. St. Helena, the most south westerly point on the chain, is close to the plate margin, but the last volcanic eruptions occurred about 7 million years ago.
 

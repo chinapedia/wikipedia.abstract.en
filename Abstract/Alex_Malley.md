@@ -1,1 +1,0 @@
-ALEX MALLEY FCPA, is the former chief executive of CPA Australia. He was removed by the CPA board of directors in late June 2017 after months of controversy regarding his salary and the use of CPA funds for self-promotion on his book and tv program.[1][2]

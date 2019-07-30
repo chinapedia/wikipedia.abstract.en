@@ -1,1 +1,0 @@
-{{ infobox person | name = Hephzibah Beulah Dumville Bechly | birth_date = September 9, 1833 | birth_place = Lancashire, England | death_date = April 6, 1869 | death_place = Iowa, United States | spouse = Freiderich August Bechly | children = 2 | known_for = The Dumville Family Letters }}

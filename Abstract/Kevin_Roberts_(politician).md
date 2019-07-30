@@ -1,1 +1,0 @@
-KEVIN DALE ROBERTS (born January 16, 1966)[1] is an attorney who formerly served as a one-term member of the Texas House of Representatives for District 126 in Harris County.[2][3] He resides in Spring, Texas.

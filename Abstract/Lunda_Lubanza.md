@@ -1,1 +1,0 @@
-LUNDA LUBANZA traditional ceremony is celebrated by the Lunda people of senior Chief Ishindi during the month of August every year at Mukanda Nkunda in Zambezi district of the North-Western Province of Zambia.

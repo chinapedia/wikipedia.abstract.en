@@ -1,1 +1,0 @@
-_BEHIND YOUR SMILE_ () is a 2016 Taiwanese television series created and produced by Sanlih E-Television, starring Marcus Chang, Eugenie Liu, Sean Lee, Hongshi and Esther Yang.[1][2] Filming began on October 15, 2016 and wrapped up in March 15, 2017. It airs on TTV every Sunday at 10:00 pm starting November 13, 2016.

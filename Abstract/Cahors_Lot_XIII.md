@@ -1,1 +1,0 @@
-CAHORS LOT XIII are a French Rugby league club based in Cahors in the Lot department in the south of France. Founded in 1945 the club plays in the National Division 2 Aquitaine regional league. Home games are played at the impressive Stade Lucien Desprats.

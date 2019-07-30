@@ -1,1 +1,0 @@
-Lasercons.svg

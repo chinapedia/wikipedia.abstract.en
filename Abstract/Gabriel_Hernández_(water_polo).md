@@ -1,1 +1,0 @@
-'''Gabriel Hernández Paz ''' (born 2 January 1975) is a Spanish water polo coach[1] and former water polo player.[2] He was a member of the Spain men's national water polo team, playing as a driver. He was a part of the team at the 2000 Summer Olympics and 2004 Summer Olympics.[3] On club level he played for CN Atlètic-Barceloneta in Spain.

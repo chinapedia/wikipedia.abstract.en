@@ -1,1 +1,0 @@
-IGOR G. URSOV (January 21, 1927 – June 20, 2002) (Russian: _Игорь_ _Урсов_ ) was a Soviet and Russian tuberculosis specialist and organizer of public health who achieved tuberculosis control breakthroughs in Russia.

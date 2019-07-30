@@ -1,1 +1,0 @@
-The 518TH SUSTAINMENT BRIGADE is a sustainment brigade of the United States Army Reserve headquartered in Knightdale, North Carolina.[1] The unit, having completed a tour of duty as the Sustainment Brigade for Resolute Support Mission, transferred authority to 1st Cavalry Division Sustainment Brigade on 17 September 2016.[2]

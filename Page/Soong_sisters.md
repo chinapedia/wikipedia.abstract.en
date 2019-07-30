@@ -1,5 +1,3 @@
-Soong_sisters.jpg
-
 The SOONG SISTERS () were three Shanghainese (of Hainanese descent) Chinese women who were, along with their husbands, amongst China's most significant political figures of the early 20th century. They each played a major role in influencing their husbands, who, along with their own positions of power, ultimately changed the course of Chinese history.
 
 Their father was American-educated Methodist minister Charlie Soong, who made a fortune in banking and printing. Their mother was Ni Kwei-tseng (倪桂珍 _Ní Guìzhēn_), whose mother, Lady Xu, was a descendant of Ming dynasty mathematician and Jesuit convert Xu Guangqi.[1] All three sisters attended Wesleyan College in Macon, Georgia, United States.[2] Mei-ling, however, left Wesleyan and eventually graduated from Wellesley College in Massachusetts. Their three brothers were all high-ranking officials in the Republic of China government, one of whom was T. V. Soong.
@@ -7,11 +5,11 @@ Their father was American-educated Methodist minister Charlie Soong, who made a 
 
 History
 
-Soong_sisters_in_their_youth.jpg Throughout their lifetimes, each one of the sisters followed her own beliefs in terms of supporting the Kuomintang (KMT; Nationalists) or the Communists. In the 1930s, Soong Ai-ling and Mei-ling were the two richest women in China;[3] both of them supported the Nationalists.
+Throughout their lifetimes, each one of the sisters followed her own beliefs in terms of supporting the Kuomintang (KMT; Nationalists) or the Communists. In the 1930s, Soong Ai-ling and Mei-ling were the two richest women in China;[3] both of them supported the Nationalists.
 
 In 1937, when the Second Sino-Japanese war broke out, all three of them got together after a 10-year separation in an effort to unite the KMT and CPC against the Imperial Japanese army. Soong Ai-ling devoted herself to social work such as helping wounded soldiers, refugees and orphans. She donated five ambulances and 37 trucks to the army in Shanghai and the air force, along with 500 leather uniforms.[4]
 
-Soong_Sisters_visiting_Nationalist_soldiers.jpg soldiers]] When the Japanese occupied Nanjing and Wuhan, the three sisters moved to Hong Kong. In 1940, they returned to Chongqing and established the Chinese Industrial Cooperatives, which opened job opportunities for people through weaving, sewing and other crafts. The sisters frequently visited schools, hospitals, orphanages, air raid shelters and aided war torn communities along the way.[5] While both parties failed to unite at the most critical time in the 1940s, the sisters made a valiant effort in financing and assisting in all national activities.
+soldiers]] When the Japanese occupied Nanjing and Wuhan, the three sisters moved to Hong Kong. In 1940, they returned to Chongqing and established the Chinese Industrial Cooperatives, which opened job opportunities for people through weaving, sewing and other crafts. The sisters frequently visited schools, hospitals, orphanages, air raid shelters and aided war torn communities along the way.[5] While both parties failed to unite at the most critical time in the 1940s, the sisters made a valiant effort in financing and assisting in all national activities.
 
 
 Three sisters

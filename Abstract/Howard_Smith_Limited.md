@@ -1,1 +1,0 @@
-HOWARD SMITH LIMITED was an Australian industrial company. Founded in 1854 as a shipping company, it later diversified into coal mining, steel production, stevedoring, travel, railway rolling stock building, sugar production and retail. Its divisions began to be sold off in the 1990s with the remainder taken over by Wesfarmers in August 2001.

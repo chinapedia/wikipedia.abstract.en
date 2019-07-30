@@ -1,1 +1,0 @@
-The AMERICAN CAN COMPANY COMPLEX is an historic building complex located at 2127 Northwest 26th Avenue in Portland, Oregon, that was substantially completed in 1921. It was added to the National Register of Historic Places in 1996.[1][2]

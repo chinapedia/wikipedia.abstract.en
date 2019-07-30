@@ -1,1 +1,0 @@
-SIANNE NGAI is an American cultural theorist, literary critic, and feminist scholar. She was an Assistant Professor of English at Stanford University from 2000 to 2007, and an Associate Professor from 2011 to 2017. She joined the faculty of the University of Chicago in fall 2017. Ngai earned her B.A. from Brown University in 1993 and her Ph.D from Harvard in 2000.[1]

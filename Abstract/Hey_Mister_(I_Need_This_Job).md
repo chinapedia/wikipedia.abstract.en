@@ -1,1 +1,0 @@
-"HEY MISTER (I NEED THIS JOB)" is a song recorded by American country music group Shenandoah. It was released in August 1992 as the second single from the album _Long Time Comin'_. The song reached #28 on the _Billboard_ Hto Country Singles & Tracks chart.[1] The song was written by Kerry Chater and Renee Armand.

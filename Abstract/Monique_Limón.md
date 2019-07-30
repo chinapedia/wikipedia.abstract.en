@@ -1,1 +1,0 @@
-MONIQUE LIMÓN (born October 30, 1977) is an American politician currently serving in the California State Assembly. She is a Democrat representing the 37th Assembly District, encompassing over half of the County of Santa Barbara, as well as nearly a quarter of the County of Ventura.

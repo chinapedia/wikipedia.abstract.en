@@ -1,1 +1,0 @@
-ALEXANDER III (; 1845 1894) was the Emperor of Russia, King of Poland, and Grand Duke of Finland from until his death on . He was highly conservative and reversed some of the liberal reforms of his father, Alexander II. During Alexander's reign Russia fought no major wars, and he was therefore styled "THE PEACEMAKER" ().

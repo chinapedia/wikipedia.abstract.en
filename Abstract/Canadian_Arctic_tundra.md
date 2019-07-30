@@ -1,1 +1,0 @@
-The CANADIAN ARCTIC TUNDRA is a biogeographic designation for Northern Canada's terrain generally lying north of the tree line or boreal forest,[1][2][3] that corresponds with the Scandinavian Alpine tundra to the east and the Siberian Arctic tundra to the west inside the circumpolar tundra belt of the Northern Hemisphere.[4]

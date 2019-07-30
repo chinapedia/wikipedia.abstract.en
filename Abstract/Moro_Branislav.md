@@ -1,1 +1,0 @@
-MORO BRANISLAV (Serbian Cyrillic: Моро Бранислав; born 22 April 1957) is a Serbian volleyball coach who led the PSL Manila selection team at the 2016 FIVB Volleyball Women's Club World Championship.[1] He is the current head coach of the Chinese Taipei men's national volleyball team.[2]

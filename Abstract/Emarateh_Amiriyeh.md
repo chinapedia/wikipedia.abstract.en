@@ -1,1 +1,0 @@
-EMARATEH AMIRIYEH is an old building dating from the Ghajar period. It is located on Saheli street, Persian Gulf park, Kooti district, Bushire, Iran. It was listed as National works of Iran with record number 2319 on 9 May 1999.[1]

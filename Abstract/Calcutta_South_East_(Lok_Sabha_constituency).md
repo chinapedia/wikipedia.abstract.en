@@ -1,1 +1,0 @@
-CALCUTTA SOUTH EAST was a constituency of the Lok Sabha (Lower House of the Parliament of India), located in the city of Calcutta, West Bengal. It was used in the parliamentary election of 1951–1952 as well as in a 1953 by-election.[1][2] The constituency elected a single member of the Lok Sabha.[3] As of 1952, the constituency had 381,486 eligible voters.[4]

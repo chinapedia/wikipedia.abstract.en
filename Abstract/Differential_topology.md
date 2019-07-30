@@ -1,1 +1,0 @@
-In mathematics, DIFFERENTIAL TOPOLOGY is the field dealing with differentiable functions on differentiable manifolds. It is closely related to differential geometry and together they make up the geometric theory of differentiable manifolds.

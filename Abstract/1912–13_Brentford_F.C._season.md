@@ -1,1 +1,0 @@
-During the 1912–13 English football season, Brentford competed in the Southern League First Division. Two long losing runs led to the Bees' relegation to the Second Division on the final day of the season.

@@ -192,7 +192,7 @@ _Spawn: Blood and Salvation_
 
 _The Adventures of Spawn_
 
-Spawn&Batman.JPG edition. Art by Todd McFarlane.]]
+edition. Art by Todd McFarlane.]]
 
     At the San Diego Comic Con (SDCC) '06 it was announced that a new take on the Spawn mythos was in the works. This new Spawn story is known as _The Adventures of Spawn_ and as stated by Jon Goff, a moderator on the Spawn.com Message Board and McFarlane employee, it is a re-imagining of the Spawn story that is essentially a "What If?" universe that hearkens back to classic kid-friendly Saturday morning cartoons. The story takes place in a webcomic format and has been tied into the action figure world through McFarlane Toys' Spawn Series 30.
 

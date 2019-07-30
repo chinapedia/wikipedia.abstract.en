@@ -1,1 +1,0 @@
-DUKE POINT is a major ferry terminal owned and operated by BC Ferries that provides ferry service across the Strait of Georgia to Tsawwassen. Duke Point is the only major terminal in the BC Ferries system without a public transit connection.[1]

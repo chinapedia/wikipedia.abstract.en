@@ -1,1 +1,0 @@
-SUPER JUNIOR D&E ASIA TOUR 2015 -PRESENT- is the first Asia tour held by Super Junior-D&E to promote their first Korean studio album The Beat Goes On that was released last March under SM Entertainment. Kicks off in Taipei on June 6, going through 4 Asia cities including Taipei, Hong Kong, Shanghai and Bangkok for 5 performances.

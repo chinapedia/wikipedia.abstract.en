@@ -1,1 +1,0 @@
-The 2015 TASHKENT CHALLENGER was a professional tennis tournament played on hard courts. It was the eighth edition of the tournament which was part of the 2015 ATP Challenger Tour. The tournament took place in Tashkent, Uzbekistan between October 12-17, 2015.[1]

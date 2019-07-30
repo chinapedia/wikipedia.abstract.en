@@ -1,1 +1,0 @@
-Logo_OMT.png The MEXICAN TRANSLATORS ASSOCIATION (OMT) is a non-profit organization established in 1992 to promote professionalism in translating and interpreting. The current headquarters are at the Western Chapter, located in Guadalajara, Jalisco.

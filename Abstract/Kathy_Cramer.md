@@ -1,1 +1,0 @@
-KATHERINE J. CRAMER is an American political scientist. She is a professor in the political science department at the University of Wisconsin–Madison and director of the Morgridge Center for Public Service.[1]

@@ -1,1 +1,0 @@
-Sketches_in_Old_Liverpool_at_the_Royal_Liverpool_Jubilee_Exhibition,_The_Graphic_28_May_1887,_p._560.jpg'', 1887.]] The ROYAL JUBILEE EXHIBITION, LIVERPOOL, was held in Liverpool in 1887 on the occasion of the Golden Jubilee of Queen Victoria. It had a theme of the Arts of Peace and War.

@@ -1,1 +1,0 @@
-INSTITUTE OF WATER MODELING or IWM,[1] is a government owned-national research institute and think tank that carries out research, planning and technology transfer related to water management projects in Bangladesh and is located in Dhaka, Bangladesh.[2][3][4]

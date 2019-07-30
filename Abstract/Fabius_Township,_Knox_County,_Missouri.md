@@ -1,1 +1,0 @@
-FABIUS TOWNSHIP is an inactive township in the southeastern corner of Knox County, in the U.S. state of Missouri.[1] The inactive township of Jeddo is to the north, and the inactive township of Bourbon is to the west.

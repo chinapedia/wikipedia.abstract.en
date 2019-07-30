@@ -1,1 +1,0 @@
-_ACER TAGGARTI_ is an extinct maple species in the family Sapindaceae described from a number of fossil leaves and samaras. The species is known from Miocene sediments exposed in central Oregon, US. It is one of several extinct species belonging to the living section _Rubra_.

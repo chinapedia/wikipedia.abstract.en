@@ -2,8 +2,6 @@ A SPERMATOZOON (pronounced , alternate spelling SPERMATOZOÖN; plural SPERMATOZO
 
 Sperm cells contribute approximately half of the nuclear genetic information to the diploid offspring (excluding, in most cases, mitochondrial DNA). In mammals, the sex of the offspring is determined by the sperm cell: a spermatozoon bearing a X chromosome will lead to a female (XX) offspring, while one bearing a Y chromosome will lead to a male (XY) offspring. Sperm cells were first observed in Antonie van Leeuwenhoek's laboratory in 1677.[1]
 
-Human_sperm_under_microscope.webm
-
 
 Mammalian spermatozoon structure, function, and size
 
@@ -46,8 +44,6 @@ The blood-testis barrier, maintained by the tight junctions between the Sertoli 
 
 Spermatozoa in other organisms
 
-Plant_sperm.png
-
 Animals
 
 Fertilization relies on spermatozoa for most sexually reproductive animals.
@@ -74,7 +70,7 @@ Spermatozoa are produced in the seminiferous tubules of the testes in a process 
 
 Spermatozoa activation
 
-Acrosome_reaction_diagram_en.svg cell]] Approaching the egg cell is a rather complex, multistep process of chemotaxis guided by different chemical substances/stimuli on individual levels of phylogeny. One of the most significant, common signaling characters of the event is that a prototype of professional chemotaxis receptors, formyl peptide receptor (60,000 receptor/cell) as well as the activator ability of its ligand formyl Met-Leu-Phe have been demonstrated in the surface membrane even in the case of human sperms.[31] Mammalian sperm cells become even more active when they approach an egg cell in a process called SPERM ACTIVATION. Sperm activation has been shown to be caused by calcium ionophores _in vitro_, progesterone released by nearby cumulus cells and binding to ZP3 of the zona pellucida. The cumulus cells are embedded in a gel-like substance made primarily of hyaluronic acid, and developed in the ovary with the egg and support it as it grows.
+cell]] Approaching the egg cell is a rather complex, multistep process of chemotaxis guided by different chemical substances/stimuli on individual levels of phylogeny. One of the most significant, common signaling characters of the event is that a prototype of professional chemotaxis receptors, formyl peptide receptor (60,000 receptor/cell) as well as the activator ability of its ligand formyl Met-Leu-Phe have been demonstrated in the surface membrane even in the case of human sperms.[31] Mammalian sperm cells become even more active when they approach an egg cell in a process called SPERM ACTIVATION. Sperm activation has been shown to be caused by calcium ionophores _in vitro_, progesterone released by nearby cumulus cells and binding to ZP3 of the zona pellucida. The cumulus cells are embedded in a gel-like substance made primarily of hyaluronic acid, and developed in the ovary with the egg and support it as it grows.
 
 The initial change is called "hyperactivation", which causes a change in spermatozoa motility. They swim faster and their tail movements become more forceful and erratic.
 

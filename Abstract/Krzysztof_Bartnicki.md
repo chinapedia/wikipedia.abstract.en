@@ -1,1 +1,0 @@
-KRZYSZTOF BARTNICKI (born 1971) is a Polish translator, writer, musician/composer, lexicographer and Joyce scholar. His translations into English include poetry of Stanisław Dróżdż and Bolesław Leśmian. He is the author of several Polish-English dictionaries.

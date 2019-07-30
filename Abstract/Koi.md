@@ -1,1 +1,0 @@
-Koiinapond-swimming-fall-2011.ogv or more specifically _JINLI_ or , are colored varieties of Amur carp (_Cyprinus rubrofuscus_) that are kept for decorative purposes in outdoor koi ponds or water gardens.

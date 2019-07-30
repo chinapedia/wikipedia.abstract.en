@@ -1,1 +1,0 @@
-JAMES EPHRAIM LOVELOCK, (born 26 July 1919) is an independent scientist, environmentalist, and futurist. He is best known for proposing the Gaia hypothesis, which postulates that the Earth functions as a self-regulating system.[1]

@@ -1,1 +1,0 @@
-AERO BIKE also known as "Aerodynamic bike" is a type of road bike that uses aerodynamics principles in its operation.[1][2] The bike's geometrical makeup allows the hands and body position of the rider to change given the terrain, rider's preference, and race situation.[3][4]

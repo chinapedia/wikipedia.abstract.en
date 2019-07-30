@@ -1,5 +1,3 @@
-Saint_Kitts_and_Nevis,_administrative_divisions_-_en_-_monochrome.svg
-
 SAINT KITTS AND NEVIS is a twin island country with a total landmass of just . The island of St. Kitts, the larger of the two, is in size and is located at latitude 17.30 N, and longitude 62.80 W. Nevis is and located at latitude 17.10 N, longitude 62.35 W, approximately 3 km south-east of St. Kitts. The islands are about one-third of the way from Puerto Rico to Trinidad and Tobago. The islands are volcanic and mountainous.
 
 

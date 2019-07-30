@@ -1,1 +1,0 @@
-In mathematics, a DIRECTED SET (or a DIRECTED PREORDER or a FILTERED SET) is a nonempty set _A_ together with a reflexive and transitive binary relation ≤ (that is, a preorder), with the additional property that every pair of elements has an upper bound.[1] In other words, for any _a_ and _b_ in _A_ there must exist _c_ in _A_ with _a_ ≤ _c_ and _b_ ≤ _c_.

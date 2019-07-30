@@ -1,1 +1,0 @@
-RASHMI BANSAL is an Indian non-fiction writer, entrepreneur and a youth expert. As of 2017, she is the author of eight books on entrepreneurship.[1][2] Her first book, _Stay Hungry Stay Foolish_, traced the progress of 25 MBA entrepreneurs and sold over 500,000 copies, a record for books published in India.[3]Her books are published by _Westland_.

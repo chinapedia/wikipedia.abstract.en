@@ -1,1 +1,0 @@
-The 1953 BROWNLOW MEDAL was the 26th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Bill Hutchison of the Essendon Football Club won the medal by polling twenty-six votes during the 1953 VFL season.[2]

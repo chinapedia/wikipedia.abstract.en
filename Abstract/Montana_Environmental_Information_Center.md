@@ -1,1 +1,0 @@
-The MONTANA ENVIRONMENTAL INFORMATION CENTER is an environmental organization in the United States. It was founded in 1973 by Montanans to protect and restore Montana's natural environment. It functions as a non-profit environmental advocacy group.[1]

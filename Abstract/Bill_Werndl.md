@@ -1,1 +1,0 @@
-BILL WERNDL (born December 29, 1945) is a sports talk radio host, currently broadcasting from WCHE 1520 AM[1] and WBCB 1490 AM.[2] Bill Werndl has been broadcasting for over fifty years and was the first full-time sports producer in the Philadelphia market. He also teaches a class at Widener University.[3]

@@ -1,1 +1,0 @@
-_OI_ is an interjection used in various varieties of the English language, particularly British English, Australian English, New Zealand English, Canadian English, Irish English, Malaysian English, Singaporean English and South African English, as well as Hindi/Urdu, Portuguese and Japanese to get the attention of another person or to express surprise or disapproval.[1][2][3]

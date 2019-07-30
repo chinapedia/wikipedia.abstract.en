@@ -1,1 +1,0 @@
-XEFZ-AM is a radio station on 660 AM in Monterrey, Nuevo León. It is owned by Grupo Radio Alegría and carries a news/talk format known as ABC Radio, named for the newspaper of the same name in the state.

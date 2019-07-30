@@ -1,1 +1,0 @@
-DIANE GRIFFIN (born March 18, 1947) is a Canadian conservationist from Prince Edward Island. Griffin is a former provincial deputy minister of environmental resources and a recipient of the Governor General’s Conservation Award, the Queen Elizabeth II Diamond Jubilee Medal and the P.E.I. Environment award.[1] She also served as executive director of the Island Nature Trust.[2]

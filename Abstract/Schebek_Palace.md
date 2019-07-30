@@ -1,1 +1,0 @@
-SCHEBEK PALACE (), otherwise known as "The House of the Angel", is a neo-renaissance building located at Politických vězňů 7, čp. 936/II, in New Town, Prague 1. It is protected as a cultural monument in the Czech Republic. [1][2]

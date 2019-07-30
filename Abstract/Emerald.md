@@ -1,1 +1,0 @@
-EMERALD is a gemstone and a variety of the mineral beryl (Be₃Al₂(SiO₃)₆) colored green by trace amounts of chromium and sometimes vanadium.[1] Beryl has a hardness of 7.5–8 on the Mohs scale.[2] Most emeralds are highly included,[3] so their toughness (resistance to breakage) is classified as generally poor. Emerald is a cyclosilicate.

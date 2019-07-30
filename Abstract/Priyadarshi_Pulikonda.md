@@ -1,1 +1,0 @@
-PRIYADARSHI PULIKONDA (born 25 August 1989), known popularly as PRIYADARSHI, is a Telugu actor and comedian.[1] He rose to fame through his portrayal of Kaushik in the successful romantic-comedy 2016 entertainer _Pelli Choopulu_. [2]

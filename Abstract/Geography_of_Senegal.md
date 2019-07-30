@@ -1,1 +1,0 @@
-Sg-map.png Senegal_map_of_Köppen_climate_classification.svg LocationSenegal.svg SenegalOMC.png Senegal_Topography.png

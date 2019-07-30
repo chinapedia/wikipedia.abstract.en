@@ -1,1 +1,0 @@
-Radio_acoustic_ranging_graphic.jpg

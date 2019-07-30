@@ -1,1 +1,0 @@
-_BUNTY PULLS THE STRINGS_ is a lost[1] 1921 American silent comedy film directed by Reginald Barker and starring Leatrice Joy. It is based on a Broadway play by Graham Moffat.[2] On stage the part of Bunty was played and made famous by Molly Pearson. The film was produced and distributed by Goldwyn Pictures.[3][4]

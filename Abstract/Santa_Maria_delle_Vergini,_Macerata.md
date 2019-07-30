@@ -1,1 +1,0 @@
-SANTA MARIA DELLA VERGINI is a Renaissance-style, Roman Catholic church located at the intersection of Via Lattanzio Ventura, Via Galasso da Carpi, and Via Contrada di Santa Maria delle Virgini, southeast of the historic center of Macerata, region of Marche, Italy.

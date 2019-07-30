@@ -1,1 +1,0 @@
-VÁCLAV HOLEK (24 September 1886, Malé Nepodřice[1] – 13 November 1954, Brno) was a Czech firearm engineer. He is considered to be the most eminent weapons designer of the pre-war Czechoslovakia. He had applied for more than 75 patents during his active years.

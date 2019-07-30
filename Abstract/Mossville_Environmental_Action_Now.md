@@ -1,1 +1,0 @@
-MOSSVILLE ENVIRONMENTAL ACTION NOW has worked since the 1980s as environmental justice advocates to address the industrial toxins that pollute their community, Mossville, Louisiana.[1] The organization is significant for its role in advocating for people affected by pollution.[2]

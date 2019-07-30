@@ -24,7 +24,7 @@ Because the surface area _A_ of a sphere is 4_r_², the definition implies that 
 
 Other properties
 
-Steradian_cone_and_cap.svg If , it corresponds to the area of a spherical cap () (where _h_ stands for the "height" of the cap) and the relationship holds. Therefore, in this case, one steradian corresponds to the plane (i.e. radian) angle of the cross-section of a simple cone subtending the plane angle 2_θ_, with _θ_ given by:
+If , it corresponds to the area of a spherical cap () (where _h_ stands for the "height" of the cap) and the relationship holds. Therefore, in this case, one steradian corresponds to the plane (i.e. radian) angle of the cross-section of a simple cone subtending the plane angle 2_θ_, with _θ_ given by:
 
 $$\begin{align}
 \theta & = \arccos \left( \frac{r-h}{r} \right)\\

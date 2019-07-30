@@ -1,1 +1,0 @@
-_BRICE 3_ is a 2016 French comedy film directed by James Huth and starring Jean Dujardin, Clovis Cornillac, Bruno Salomone and Alban Lenoir. It is the sequel to the 2005 film _Brice de Nice_, despite its name suggesting it is the third installment in the franchise.[1][2]

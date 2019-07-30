@@ -1,1 +1,0 @@
-MANDY LIEU (born March 20, 1985) is a Malaysian-American model, actress, and TV show host based in Hong Kong.[1] She has appeared in Hong Kong television shows and movies such as _Horseplay_ and _To The Fore_.[2]

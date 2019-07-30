@@ -1,1 +1,0 @@
-Cannabis_plants_in_front_of_the_Dhaulagiri_summit.jpg

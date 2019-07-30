@@ -1,1 +1,0 @@
-CARROLL DESCHAMPS "CHAMP" HOOD (August 16, 1952 – November 3, 2001)[1] was an American singer and multi-instrumentalist. He was inducted into the Austin Music Memorial in 2011,[2] the Austin Chronicle’s Texas Music Hall of Fame in 2000, and was a five-time recipient of the Austin Best String Player Award.[3]

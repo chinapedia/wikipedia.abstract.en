@@ -1,1 +1,0 @@
-The FORCONI CUP, also called COUPE EDMOND FORCONI was an Organized in 1942 to 1962, open to all clubs affiliated to the League Algiers Football Association. Regional level as for all Algiers department, the competition to determine the qualified clubs in the area for the North African Cup, inter-regional competition.

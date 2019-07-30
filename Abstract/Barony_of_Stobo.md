@@ -1,1 +1,0 @@
-Stobo_Castle,_Scottish_Borders.JPG

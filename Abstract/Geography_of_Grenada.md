@@ -1,1 +1,0 @@
-GRENADA is a Caribbean island between the Caribbean Sea and Atlantic Ocean, north of Trinidad and Tobago. It is located at . There are no large inland bodies of water on the island, which consists entirely of the state of Grenada. The coastline is 121 km long. The island has 15 constituencies and speaks English. It is volcanic in origin and its topography is mountainous.

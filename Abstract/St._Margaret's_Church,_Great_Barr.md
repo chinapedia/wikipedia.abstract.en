@@ -1,1 +1,0 @@
-The CHURCH OF ST MARGARET (also known as ST MARGARET'S CHURCH), is the Anglican parish church of Great Barr and is located on Chapel Lane, Walsall, England. It is dedicated to Saint Margaret of Antioch.

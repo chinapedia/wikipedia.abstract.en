@@ -1,1 +1,0 @@
-| spouse = Berengaria of Navarre | father = Henry II of England | mother = Eleanor of Aquitaine | birth_date = 8 September 1157 | birth_place = Beaumont Palace, Oxford, England | death_date = 6 April 1199 (aged 41) | death_place = Châlus, Duchy of Aquitaine

@@ -1,1 +1,0 @@
-WHITCHURCH FOOTBALL CLUB was an English football club based in Whitchurch, Shropshire. They formed in October 1871[1] and dissolved in 1985.[2] They competed in the Welsh Cup, despite being English, and were runners-up in 1906 and 1907.[3][4]

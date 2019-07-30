@@ -1,1 +1,0 @@
-HENRY TEESDALE SMITH (22 December 1858 – 25 February 1921) was an Australian businessman and politician who was prominent at various times as a timber merchant, railway builder, and pastoralist. He served in the Legislative Assembly of Western Australia from 1901 to 1904.

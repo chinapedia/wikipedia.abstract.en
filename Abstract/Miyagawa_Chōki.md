@@ -1,1 +1,0 @@
-Miyagawa_Chōki_(17th_century)_Harimise_no_zu.jpg

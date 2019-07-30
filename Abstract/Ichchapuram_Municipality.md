@@ -1,1 +1,0 @@
-ICHCHAPURAM MUNICIPALITY is the local self government in Ichchapuram of the Indian state of Andhra Pradesh.[1] It is classified as a _3rd Grade Municipality_.[2] It constitutes total population of 36,493.

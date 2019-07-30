@@ -1,1 +1,0 @@
-LAINE MÄGI (born 2 February 1959)[1] is an Estonian stage, film and television actress, dancer and choreographer and dance pedagogue who began her career as a teenager. She is the founder of the Laine Mägi School of Dance, based in Pärnu.

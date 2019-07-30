@@ -1,1 +1,0 @@
-The 2016 GREAT SMOKY MOUNTAINS WILDFIRES were a complex of wildfires which began in late November 2016. Some of the towns most impacted were Pigeon Forge and Gatlinburg, both near Great Smoky Mountains National Park.[1] The fires claimed at least 14 lives,[2][3][4] injured 134,[5] and is one of the largest natural disasters in the history of Tennessee.[6][7][8][9][10][11]

@@ -1,1 +1,0 @@
-_PONDICHÉRY, DERNIER COMPTOIR DES INDES_ (original French title) ("Pondicherry, last trading post in India" in English, released as “Last Trading Post in India” ) is a 1997 French drama film set during Pondicherry's independence from France in 1954.[1]

@@ -1,1 +1,0 @@
-Rome,_a_view_of_the_river_Tiber_looking_south_with_the_Castel_Sant'Angelo_and_Saint_Peter's_Basilica_beyond_by_Rudolf_Wiegmann_1834.jpg; with views of

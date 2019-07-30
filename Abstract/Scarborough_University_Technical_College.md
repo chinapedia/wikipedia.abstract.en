@@ -1,1 +1,0 @@
-SCARBOROUGH UNIVERSITY TECHNICAL COLLEGE is a mixed University Technical College located in Scarborough, North Yorkshire, England. It opened in 2016 and caters for students aged 14–18 years.[1] It is located on Weaponness Coach Park, in a purpose built building.[2]

@@ -1,1 +1,0 @@
-Nagrobek_mjra_Arkadiusza_Protasiuka.jpg

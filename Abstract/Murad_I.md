@@ -1,1 +1,0 @@
-MURAD I (; (nicknamed _HÜDAVENDIGÂR_, from Persian: خداوندگار, _Khodāvandgār_, "the devotee of God" – but meaning "sovereign" in this context); 29 June 1326 – 15 June 1389) was the Ottoman Sultan from 1362 to 1389. He was a son of Orhan and the Valide Nilüfer Hatun.

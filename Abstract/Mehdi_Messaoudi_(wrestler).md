@@ -1,1 +1,0 @@
-MEHDI MESSAOUDI (born February 12, 1990) is a Moroccan Greco-Roman wrestler. He competed in the men's Greco-Roman 59 kg event at the 2016 Summer Olympics, in which he was eliminated in the round of 16 by Jesse Thielke.[1][2]

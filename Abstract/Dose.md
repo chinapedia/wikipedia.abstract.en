@@ -1,1 +1,0 @@
-DOSE means quantity (in units of energy/mass) in the fields of NUTRITION, MEDICINE, and TOXICOLOGY. DOSAGE is the rate of application of a dose, although in common and imprecise usage, the words are sometimes used synonyously.

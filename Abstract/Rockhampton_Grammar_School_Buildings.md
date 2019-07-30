@@ -1,1 +1,0 @@
-ROCKHAMPTON GRAMMAR SCHOOL BUILDINGS are a heritage-listed group private school buildings at Archer Street, The Range, Rockhampton, Rockhampton Region, Queensland, Australia. They were built from 1880 to 1951. It was added to the Queensland Heritage Register on 21 October 1992.[1]

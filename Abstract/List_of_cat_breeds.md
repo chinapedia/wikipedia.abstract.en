@@ -1,1 +1,0 @@
-The following LIST OF CAT BREEDS includes only domestic cat breeds and domestic × wild hybrids. The list includes established breeds recognized by various cat registries, new and experimental breeds, landraces being established as standardized breeds, distinct domestic populations not being actively developed and lapsed (extinct) breeds.

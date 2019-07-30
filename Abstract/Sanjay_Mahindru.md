@@ -1,1 +1,0 @@
-Rear Admiral SANJAY MAHINDRU is an Indian Navy Flag officer. He was appointed Flag Officer Commanding Maharashtra Naval Area on 17 Oct 2016.[1][2][3] As Flag Officer, he initiated a number of initiatives to improve lives of Veterans[4] and Naval Service persons.

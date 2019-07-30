@@ -1,1 +1,0 @@
-This page lists the winners and nominees for the _BILLBOARD_ MUSIC AWARD FOR TOP HOT 100 ARTIST. The award has been given out since 1992 and since its conception only Destiny's Child and Usher have won the award twice.

@@ -1,1 +1,0 @@
-Cow_lying_on_side.jpg

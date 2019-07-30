@@ -1,1 +1,0 @@
-"THE UNKNOWN" is the final episode of the American animated television miniseries _Over the Garden Wall_. It first aired on Cartoon Network on November 7, 2014.[1] The episode's story was supervised by Amalia Levari, Tom Herpich, and series creator Patrick McHale, while writing and storyboarding were managed by Herpich, Jim Campbell, and Natasha Allegri.

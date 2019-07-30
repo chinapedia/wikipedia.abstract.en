@@ -1,1 +1,0 @@
-VASSILIS CHRISTIDIS[1][2] (alternate spellings: Vasilis, Vasileos)[3][4] (; born July 10, 1998) is a Greek professional basketball player for Aris of the Greek Basket League. He is a 2.08 m (6'10")[5] tall power forward-center.[6]

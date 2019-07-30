@@ -1,1 +1,0 @@
-'''Monica Enlid ''' (born 24 April 1973) is a Norwegian footballer who played as a midfielder for the Norway women's national football team. She was part of the team at the UEFA Women's Euro 1995. On club level she played for Trondheims-Ørn in Norway.[1][2]

@@ -1,1 +1,0 @@
-MODERATE SOCIALISTS () or simply MODERATES PARTY (), was a political party in Qajari Persia and one of the two major parties of the constitutional period alongside its parliamentary rival Social Democratic Party–Democrat Party.[1]

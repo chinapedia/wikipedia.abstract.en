@@ -1,1 +1,0 @@
-ALLIED MOTION TECHNOLOGIES INC. (NASDAQ: AMOT) is a U.S. public corporation headquartered in New York, United States that produces precision and specialty motion control components and systems for commercial, industrial, aerospace and defense markets.[1][2]

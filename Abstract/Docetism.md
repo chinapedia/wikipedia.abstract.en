@@ -1,1 +1,0 @@
-In Christianity, DOCETISM (from the _dokeĩn_ "to seem", _dókēsis_ "apparition, phantom"[1][2]) is the doctrine that the phenomenon of Jesus, his historical and bodily existence, and above all the human form of Jesus, was mere semblance without any true reality.[3][4] Broadly it is taken as the belief that Jesus only seemed to be human, and that his human form was an illusion.

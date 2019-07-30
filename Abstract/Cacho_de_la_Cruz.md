@@ -1,1 +1,0 @@
-ARTURO DE LA CRUZ FELICIANI, better known for his stage name CACHO DE LA CRUZ (Buenos Aires, 8 May 1937) is an Argentine-born television presenter, humorist and entertainer who developed almost all his career in Uruguay.

@@ -1,4 +1,4 @@
-20111031-OCIO-RBN-2189_-_Flickr_-_USDAgov.jpg (USDA) Section 508 and Disability Awareness Program in Washington, DC, on Monday, October 31, 2011]]
+(USDA) Section 508 and Disability Awareness Program in Washington, DC, on Monday, October 31, 2011]]
 
 In 1998 the US Congress amended the Rehabilitation Act to require Federal agencies to make their electronic and information technology accessible to people with disabilities. SECTION 508 was enacted to eliminate barriers in information technology, to make available new opportunities for people with disabilities, and to encourage development of technologies that will help achieve these goals. The law applies to all Federal agencies when they develop, procure, maintain, or use electronic and information technology. Under Section 508 (), agencies must give employees with disabilities and members of the public access to information that is comparable to the access available to others.[1]
 

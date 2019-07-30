@@ -1,1 +1,0 @@
-NORTH MONTGOMERY COMMUNITY SCHOOL CORPORATION (NMCSC) or NORTH MONGOMERY SCHOOLS is a school district headquartered in unincorporated Montgomery County, Indiana, north of Crawfordsville.[1] The district serves some sections of northern Crawfordsville, Darlington, Linden, New Richmond, Waynetown, and Wingate.[2] It also serves the unincorporated area of Garfield.[3]

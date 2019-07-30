@@ -1,1 +1,0 @@
-SANT'AGOSTINO is a Roman Catholic church and former monastery located in the town limits of San Ginesio, province of Macerata, in the region of Marche, Italy. The complex for some years included an elementary school, and the church is presently a civic auditorium.

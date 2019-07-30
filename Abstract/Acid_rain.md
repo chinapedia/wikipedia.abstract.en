@@ -1,1 +1,0 @@
-Origins_of_acid_rain.svg Cloud_formation_from_refinery_in_Curacao.jpg.]]

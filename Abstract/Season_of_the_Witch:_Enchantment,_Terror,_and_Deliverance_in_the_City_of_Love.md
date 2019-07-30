@@ -1,1 +1,0 @@
-SEASON OF THE WITCH: ENCHANTMENT, TERROR, AND DELIVERANCE IN THE CITY OF LOVE is a history book by best-selling author David Talbot. The book captures the dark history of San Francisco from the 1960s to the early 1980s utilizing a “kaleidoscopic narrative” [1] and tells the story of how "the 1967 Summer of Love gave way to 20 or so winters of discontent." [2]

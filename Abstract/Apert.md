@@ -1,1 +1,0 @@
-The APERT is a forested mountain, , in the western Volcanic Eifel, a mountain range in the German state of Rhineland-Palatinate. It rises about two kilometres south of Büdesheim and is the highest point in the parish (_Gemarkung_).

@@ -1,1 +1,0 @@
-Sirwan_Barzani_in_the_Erbil_Stadion.jpg SIRWAN BARZANI (born. 11 March 1970, Sirwan Saber Mustafa)[1] is an Iraqi Kurdish businessman and military commander. He is a member of the Barzani Kurds Barzani family. He is the older brother of Saywan Barzani, the Iraqi diplomat, and Hasan Barzani who died in an air accident in October 2016.

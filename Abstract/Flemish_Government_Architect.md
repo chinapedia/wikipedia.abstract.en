@@ -1,1 +1,0 @@
-The role of FLEMISH GOVERNMENT ARCHITECT (VLAAMS BOUWMEESTER in Dutch) was established in 1998 under Minister-President of Flanders Van den Brande to develop Architectural Design Policy in Flanders, Belgium.

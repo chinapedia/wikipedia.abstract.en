@@ -1,1 +1,0 @@
-SANTA MARIA DELLA MISERICORDIA is a Roman Catholic church located on Via Santa Maria near Piazza Garibaldi in the historic center of the town of Correggio, province of Reggio Emilia, region of Emilia-Romagna, Italy. The church is presently deconsecrated and closed. Correggio6.jpg

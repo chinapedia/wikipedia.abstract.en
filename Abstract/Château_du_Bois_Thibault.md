@@ -1,1 +1,0 @@
-The CHÂTEAU DU BOIS THIBAULT is a 15th-century ruined castle in the commune of Lassay-les-Châteaux, Pays de la Loire, France. It was owned by the du Bellay family for nearly 300 years. It is a listed national historic monument of France.[1]

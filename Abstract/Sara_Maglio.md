@@ -1,1 +1,0 @@
-'''Sara Maglio ''' (born 17 March 1978) is a Canadian footballer who played as a forward for the Canada women's national football team. She was part of the team at the 1999 FIFA Women's World Cup.[1] Born in North Vancouver and raised in Coquitlam, BC, she attended Simon Fraser University.

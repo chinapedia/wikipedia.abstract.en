@@ -1,1 +1,0 @@
-The WOMEN'S ROAD RACE of the 2016 UCI Road World Championships took place in and around Doha, Qatar on 15 October 2016.[1] The course of the race was with the start and finish in Doha.[2] Lizzie Deignan was the defending champion, having won the world title in 2015.[3] Deignan was unable to defend her title, as she finished fourth in the bunch sprint finish.[4]

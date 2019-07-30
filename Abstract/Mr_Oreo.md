@@ -1,1 +1,0 @@
-"MR OREO" (also titled "MR ORIO") is a song recorded by Nigerian singer Iyanya. It was released on June 4, 2014, as the second single from Made Men Music Group's compilation album, _The Evolution_ (2014). The song later appeared on Iyanya's third studio album, _Applaudise_ (2015). The song was produced by Selebobo.

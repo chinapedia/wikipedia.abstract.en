@@ -7,7 +7,7 @@ South Korea is a highly developed country and the world's 11th largest economy b
 
 Etymology
 
-History_of_Korea-476.PNG, also known as _Koryŏ_, one of the Three Kingdoms of Korea]]
+, also known as _Koryŏ_, one of the Three Kingdoms of Korea]]
 
 The name _Korea_ derives from the name _Goryeo_. The name _Goryeo_ itself was first used by the ancient kingdom of Goguryeo in the 5th century as a shortened form of its name. The 10th-century kingdom of Goryeo succeeded Goguryeo,[36][37][38][39] and thus inherited its name, which was pronounced by the visiting Persian merchants as "Korea".[40] The modern spelling of Korea first appeared in the late 17th century in the travel writings of the Dutch East India Company's Hendrick Hamel.[41] Despite the coexistence of the spellings _Corea_ and _Korea_ in 19th century publications, some Koreans believe that Imperial Japan, around the time of the Japanese occupation, intentionally standardised the spelling on _Korea_, making Japan appear first alphabetically.[42][43][44]
 
@@ -50,13 +50,13 @@ The unification of the Three Kingdoms by Silla in 676 led to the North South Sta
 
 Unified Dynasties
 
-Changdeokgung_Garden_Pavillion_(1509046103).jpg, one of the Five Grand Palaces built during the Joseon Dynasty and another UNESCO World Heritage Site.]] In 936, the Later Three Kingdoms were united by Wang Geon, a descendant of Goguryeo nobility,[104] who established Goryeo as the successor state of Goguryeo.[105][106][107][108] Balhae had fallen to the Khitan Empire in 926, and a decade later the last crown prince of Balhae fled south to Goryeo, where he was warmly welcomed and included into the ruling family by Wang Geon, thus unifying the two successor nations of Goguryeo.[109] Like Silla, Goryeo was a highly cultural state, and invented the metal movable type printing press.[110][111][112][113][114][115][116] After defeating the Khitan Empire, which was the most powerful empire of its time,[117][118] in the Goryeo–Khitan War, Goryeo experienced a golden age that lasted a century, during which the Tripitaka Koreana was completed and there were great developments in printing and publishing, promoting learning and dispersing knowledge on philosophy, literature, religion, and science; by 1100, there were 12 universities that produced famous scholars and scientists.[119][120] However, the Mongol invasions in the 13th century greatly weakened the kingdom. Goryeo was never conquered by the Mongols, but exhausted after three decades of fighting, the Korean court sent its crown prince to the Yuan capital to swear allegiance to Kublai Khan, who accepted, and married one of his daughters to the Korean crown prince.[121] Henceforth, Goryeo continued to rule Korea, though as a tributary ally to the Mongols for the next 86 years. During this period, the two nations became intertwined as all subsequent Korean kings married Mongol princesses,[122] and the last empress of the Yuan dynasty was a Korean princess. In the mid-14th century, Goryeo drove out the Mongols to regain its northern territories, briefly conquered Liaoyang, and defeated invasions by the Red Turbans. However, in 1392, General Yi Seong-gye, who had been ordered to attack China, turned his army around and staged a coup.
+, one of the Five Grand Palaces built during the Joseon Dynasty and another UNESCO World Heritage Site.]] In 936, the Later Three Kingdoms were united by Wang Geon, a descendant of Goguryeo nobility,[104] who established Goryeo as the successor state of Goguryeo.[105][106][107][108] Balhae had fallen to the Khitan Empire in 926, and a decade later the last crown prince of Balhae fled south to Goryeo, where he was warmly welcomed and included into the ruling family by Wang Geon, thus unifying the two successor nations of Goguryeo.[109] Like Silla, Goryeo was a highly cultural state, and invented the metal movable type printing press.[110][111][112][113][114][115][116] After defeating the Khitan Empire, which was the most powerful empire of its time,[117][118] in the Goryeo–Khitan War, Goryeo experienced a golden age that lasted a century, during which the Tripitaka Koreana was completed and there were great developments in printing and publishing, promoting learning and dispersing knowledge on philosophy, literature, religion, and science; by 1100, there were 12 universities that produced famous scholars and scientists.[119][120] However, the Mongol invasions in the 13th century greatly weakened the kingdom. Goryeo was never conquered by the Mongols, but exhausted after three decades of fighting, the Korean court sent its crown prince to the Yuan capital to swear allegiance to Kublai Khan, who accepted, and married one of his daughters to the Korean crown prince.[121] Henceforth, Goryeo continued to rule Korea, though as a tributary ally to the Mongols for the next 86 years. During this period, the two nations became intertwined as all subsequent Korean kings married Mongol princesses,[122] and the last empress of the Yuan dynasty was a Korean princess. In the mid-14th century, Goryeo drove out the Mongols to regain its northern territories, briefly conquered Liaoyang, and defeated invasions by the Red Turbans. However, in 1392, General Yi Seong-gye, who had been ordered to attack China, turned his army around and staged a coup.
 
 Yi Seong-gye declared the new name of Korea as "Joseon" in reference to Gojoseon, and moved the capital to Hanseong (one of the old names of Seoul).[123] The first 200 years of the Joseon dynasty were marked by peace, and saw great advancements in science[124][125] and education,[126] as well as the creation of Hangul by Sejong the Great to promote literacy among the common people.[127] The prevailing ideology of the time was Neo-Confucianism, which was epitomized by the seonbi class: nobles who passed up positions of wealth and power to lead lives of study and integrity. Between 1592 and 1598, Toyotomi Hideyoshi launched invasions of Korea, but his advance was halted by Korean forces (most notably the Joseon Navy led by Admiral Yi Sun-sin and his renowned "turtle ship")[128][129][130][131][132] with assistance from Righteous Army militias formed by Korean civilians, and Ming dynasty Chinese troops. Through a series of successful battles of attrition, the Japanese forces were eventually forced to withdraw, and relations between all parties became normalized. However, the Manchus took advantage of Joseon's war-weakened state and invaded in 1627 and 1637, and then went on to conquer the destabilized Ming dynasty. After normalizing relations with the new Qing dynasty, Joseon experienced a nearly 200-year period of peace. Kings Yeongjo and Jeongjo particularly led a new renaissance of the Joseon dynasty during the 18th century.[133][134] In the 19th century, the royal in-law families gained control of the government, leading to mass corruption and weakening of the state, and severe poverty and peasant rebellions throughout the country. Furthermore, the Joseon government adopted a strict isolationist policy, earning the nickname "the hermit kingdom", but ultimately failed to protect itself against imperialism and was forced to open its borders. After the First Sino-Japanese War and the Russo-Japanese War, Korea was occupied by Japan (1910–45). At the end of World War II, the Japanese surrendered to Soviet and U.S. forces who occupied the northern and southern halves of Korea, respectively.
 
 Modern history
 
-War_Memorial_of_Korea_main_building.JPG, built in remembrance of the Korean War (1950–1953)]] South_Korea's_GDP_(PPP)_growth_from_1911_to_2008.png grew at an average of 10% annually, fueled by annual export growth of 20%,[135] in a period called the Miracle on the Han River]]
+, built in remembrance of the Korean War (1950–1953)]] grew at an average of 10% annually, fueled by annual export growth of 20%,[135] in a period called the Miracle on the Han River]]
 
 Despite the initial plan of a unified Korea in the 1943 Cairo Declaration, escalating Cold War antagonism between the Soviet Union and the United States eventually led to the establishment of separate governments, each with its own ideology, leading to the division of Korea into two political entities in 1948: North Korea and South Korea. In the South, Syngman Rhee, an opponent of communism, who had been backed and appointed by the United States as head of the provisional government, won the first presidential elections of the newly declared Republic of Korea in May. In the North, however, a former anti-Japanese guerrilla and communist activist, Kim Il-sung was appointed premier of the Democratic People's Republic of Korea in September.
 
@@ -68,7 +68,7 @@ On June 25, 1950, North Korea invaded South Korea, sparking the Korean War, the 
 
 Post-Korean War (1960–1990)
 
-Park_Chung_hee.jpg played a pivotal role in rapidly developing the South Korean economy through export-oriented industrialization]] In 1960, a student uprising (the "April 19 Revolution") led to the resignation of the autocratic President Syngman Rhee. This was followed by 13 months of political instability as South Korea was led by a weak and ineffectual government. This instability was broken by the May 16, 1961, coup led by General Park Chung-hee. As president Park oversaw a period of rapid export-led economic growth enforced by political repression.
+played a pivotal role in rapidly developing the South Korean economy through export-oriented industrialization]] In 1960, a student uprising (the "April 19 Revolution") led to the resignation of the autocratic President Syngman Rhee. This was followed by 13 months of political instability as South Korea was led by a weak and ineffectual government. This instability was broken by the May 16, 1961, coup led by General Park Chung-hee. As president Park oversaw a period of rapid export-led economic growth enforced by political repression.
 
 Park was heavily criticized as a ruthless military dictator, who in 1972 extended his rule by creating a new constitution, which gave the president sweeping (almost dictatorial) powers and permitted him to run for an unlimited number of six-year terms. The Korean economy developed significantly during Park's tenure. The government developed the nationwide expressway system, the Seoul subway system, and laid the foundation for economic development during his 17-year tenure, which ended with his assassination in 1979.
 
@@ -80,9 +80,9 @@ South Korea was formally invited to become a member of the United Nations in 199
 
 Contemporary South Korea
 
-Kim_Dae-jung_(Cropped).png, the 2000 Nobel Peace Prize recipient for advancing democracy and human rights in South Korea and East Asia and for reconciliation with North Korea, was sometimes called the "Nelson Mandela of Asia"[142]]] In June 2000, as part of president Kim Dae-jung's "Sunshine Policy" of engagement, a North–South summit took place in Pyongyang, the capital of North Korea. Later that year, Kim received the Nobel Peace Prize "for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular".[143] However, because of discontent among the population for fruitless approaches to the North under the previous administrations and, amid North Korean provocations, a conservative government was elected in 2007 led by President Lee Myung-bak, former mayor of Seoul. Meanwhile, South Korea and Japan jointly co-hosted the 2002 FIFA World Cup. However, South Korean and Japanese relations later soured because of conflicting claims of sovereignty over the Liancourt Rocks.
+, the 2000 Nobel Peace Prize recipient for advancing democracy and human rights in South Korea and East Asia and for reconciliation with North Korea, was sometimes called the "Nelson Mandela of Asia"[142]]] In June 2000, as part of president Kim Dae-jung's "Sunshine Policy" of engagement, a North–South summit took place in Pyongyang, the capital of North Korea. Later that year, Kim received the Nobel Peace Prize "for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular".[143] However, because of discontent among the population for fruitless approaches to the North under the previous administrations and, amid North Korean provocations, a conservative government was elected in 2007 led by President Lee Myung-bak, former mayor of Seoul. Meanwhile, South Korea and Japan jointly co-hosted the 2002 FIFA World Cup. However, South Korean and Japanese relations later soured because of conflicting claims of sovereignty over the Liancourt Rocks.
 
-2010_G-20_Seoul_summit.jpg during the 2010 Seoul summit]]
+during the 2010 Seoul summit]]
 
 In 2010, there was an escalation in attacks by North Korea. In March 2010 the South Korean warship ROKS Cheonan was sunk with the loss of 46 South Korean sailors, allegedly by a North Korean submarine. In November 2010 Yeonpyeong island was attacked by a significant North Korean artillery barrage, with 4 people losing their lives. The lack of a strong response to these attacks from both South Korea and the international community (the official UN report declined to explicitly name North Korea as the perpetrator for the Cheonan sinking) caused significant anger with the South Korean public.[144] South Korea saw another milestone in 2012 with the first ever female president Park Geun-hye elected and assuming office. Daughter of another former president, Park Chung-hee, she carried on a conservative brand of politics. President Park Geun-hye's administration was formally accused of corruption, bribery, and influence-peddling for the involvement of close friend Choi Soon-sil in state affairs. There followed a series of massive public demonstrations from November 2016[145] and she was removed from office.[146] After the fallout of President Park's impeachment and dismissal, new elections were held and Moon Jae-in of the Democratic party won the presidency, assuming office on 10 May 2017. His tenure so far has seen an improving political relationship with North Korea, some increasing divergence in the military alliance with the United States, and the successful hosting of the Winter Olympics in Pyeongchang.[147]
 
@@ -91,7 +91,7 @@ Geography, climate and environment
 
 Geography
 
-South_Korea_Topography.png of South Korea]]
+of South Korea]]
 
 South Korea occupies the southern portion of the Korean Peninsula, which extends some from the Asian mainland. This mountainous peninsula is flanked by the Yellow Sea to the west, and the Sea of Japan to the east. Its southern tip lies on the Korea Strait and the East China Sea.
 
@@ -113,7 +113,7 @@ Rainfall is concentrated in the summer months of June through September. The sou
 
 Environment
 
-Waterfall_on_Jeju_Island,_Korea.jpg is a UNESCO World Heritage Site and one of the New7Wonders of Nature]] Korea-Seoul-Cheonggyecheon-2008-01.jpg river is a modern public recreation space in downtown Seoul, South Korea]]
+is a UNESCO World Heritage Site and one of the New7Wonders of Nature]] river is a modern public recreation space in downtown Seoul, South Korea]]
 
 During the first 20 years of South Korea's growth surge, little effort was made to preserve the environment.[153] Unchecked industrialization and urban development have resulted in deforestation and the ongoing destruction of wetlands such as the Songdo Tidal Flat.[154] However, there have been recent efforts to balance these problems, including a government run five-year green growth project that aims to boost energy efficiency and green technology.[155]
 
@@ -128,18 +128,18 @@ South Korea is a member of the Antarctic-Environmental Protocol, Antarctic Treat
 
 Government
 
-+--------------------------+--------------------------------------------------------------------+
-| Moon_Jae-in_May_2017.jpg | South_Korean_Prime_Minister_Lee_-_2017_(36235112603)_(cropped).jpg |
-+--------------------------+--------------------------------------------------------------------+
-| Moon Jae-in              | Lee Nak-yeon                                                       |
-| 19th President           | 45th Prime Minister                                                |
-+--------------------------+--------------------------------------------------------------------+
++----------------+---------------------+
+|                |                     |
++----------------+---------------------+
+| Moon Jae-in    | Lee Nak-yeon        |
+| 19th President | 45th Prime Minister |
++----------------+---------------------+
 
 Under its current constitution the state is sometimes referred to as the Sixth Republic of South Korea. Like many democratic states,[167] South Korea has a government divided into three branches: executive, judicial, and legislative. The executive and legislative branches operate primarily at the national level, although various ministries in the executive branch also carry out local functions. Local governments are semi-autonomous, and contain executive and legislative bodies of their own. The judicial branch operates at both the national and local levels. South Korea is a constitutional democracy.
 
-Seoul-National.Assembly-01.jpg]] The South Korean government's structure is determined by the Constitution of the Republic of Korea. This document has been revised several times since its first promulgation in 1948 at independence. However, it has retained many broad characteristics and with the exception of the short-lived Second Republic of South Korea, the country has always had a presidential system with an independent chief executive.[168] The first direct election was also held in 1948. Although South Korea experienced a series of military dictatorships from the 1960s up until the 1980s, it has since developed into a successful liberal democracy. Today, the CIA World Factbook describes South Korea's democracy as a "fully functioning modern democracy".[169] South Korea is ranked 45th on the Corruption Perceptions Index (9th in the Asia-Pacific region), with a score of 57 out of 100.[170]
+]] The South Korean government's structure is determined by the Constitution of the Republic of Korea. This document has been revised several times since its first promulgation in 1948 at independence. However, it has retained many broad characteristics and with the exception of the short-lived Second Republic of South Korea, the country has always had a presidential system with an independent chief executive.[168] The first direct election was also held in 1948. Although South Korea experienced a series of military dictatorships from the 1960s up until the 1980s, it has since developed into a successful liberal democracy. Today, the CIA World Factbook describes South Korea's democracy as a "fully functioning modern democracy".[169] South Korea is ranked 45th on the Corruption Perceptions Index (9th in the Asia-Pacific region), with a score of 57 out of 100.[170]
 
-ROK_election_system_and_separation_of_powers_(en).svg and the election system of South Korea]]
+and the election system of South Korea]]
 
 
 Administrative divisions
@@ -197,7 +197,7 @@ The major administrative divisions in South Korea are eight PROVINCES, one SPECI
 
 Demographics
 
-Bevölkerungspyramide_Südkorea_2016.png In April 2016, South Korea's population was estimated to be around 50.8 million by National Statistical Office, with continuing decline of working age population and total fertility rate.[171][172] The country is noted for its population density, which was an estimated 505 per square kilometer in 2015,[173] more than 10 times the global average. Aside from micro-states and city-states, South Korea is the world's third most densely-populated country.[174] In practice the population density in much of South Korea is higher than the national one, as most of the country's land is uninhabitable due to being used for other purposes such as farming.[175] Most South Koreans live in urban areas, because of rapid migration from the countryside during the country's quick economic expansion in the 1970s, 1980s and 1990s.[176] The capital city of Seoul is also the country's largest city and chief industrial center. According to the 2005 census, Seoul had a population of inhabitants. The Seoul National Capital Area has inhabitants (about half of South Korea's entire population) making it the world's second largest metropolitan area. Other major cities include Busan (), Incheon (), Daegu (), Daejeon (), Gwangju () and Ulsan ().[177] Korea_Chuseok_31logo_(8046078268).jpg
+In April 2016, South Korea's population was estimated to be around 50.8 million by National Statistical Office, with continuing decline of working age population and total fertility rate.[171][172] The country is noted for its population density, which was an estimated 505 per square kilometer in 2015,[173] more than 10 times the global average. Aside from micro-states and city-states, South Korea is the world's third most densely-populated country.[174] In practice the population density in much of South Korea is higher than the national one, as most of the country's land is uninhabitable due to being used for other purposes such as farming.[175] Most South Koreans live in urban areas, because of rapid migration from the countryside during the country's quick economic expansion in the 1970s, 1980s and 1990s.[176] The capital city of Seoul is also the country's largest city and chief industrial center. According to the 2005 census, Seoul had a population of inhabitants. The Seoul National Capital Area has inhabitants (about half of South Korea's entire population) making it the world's second largest metropolitan area. Other major cities include Busan (), Incheon (), Daegu (), Daejeon (), Gwangju () and Ulsan ().[177]
 
 The population has also been shaped by international migration. After World War II and the division of the Korean Peninsula, about four million people from North Korea crossed the border to South Korea. This trend of net entry reversed over the next 40 years because of emigration, especially to North America through the United States and Canada. South Korea's total population in 1955 was ,[178] and has more than doubled, to 50 million, by 2010.[179]
 
@@ -209,7 +209,7 @@ South Korea's birthrate was the world's lowest in 2009.[187] If this continues, 
 
 Education
 
-SNU_gate.jpg is considered to be the most prestigious university in South Korea]]
+is considered to be the most prestigious university in South Korea]]
 
 A centralized administration in South Korea oversees the process for the education of children from kindergarten to the third and final year of high school. The school year is divided into two semesters, the first of which begins at the beginning of March and ends in mid-July, the second of which begins in late August and ends in mid-February. The schedules are not uniformly standardized and vary from school to school. Most South Korean middle schools and high schools have school uniforms, modeled on western-style uniforms. Boys' uniforms usually consist of trousers and white shirts, and girls wear skirts and white shirts (this only applies in middle schools and high schools). The country adopted a new educational program to increase the number of their foreign students through 2010. According to the Ministry of Education, Science and Technology, the number of scholarships for foreign students in South Korea would have (under the program) doubled by that time, and the number of foreign students would have reached 100,000.[198]
 
@@ -235,7 +235,7 @@ Religion
 
 According to the results of the census of 2015 more than half of the South Korean population (56.9%) declared themselves not affiliated with any religious organizations.[237] In a 2012 survey, 52% declared themselves "religious", 31% said they were "not religious" and 15% identified themselves as "convinced atheists".[238] Of the people who are affiliated with a religious organization, most are Christians and Buddhists. According to the 2015 census, 27.6% of the population were Christians (19.7% identified themselves as Protestants, 7.9% as Roman Catholics), and 15.5% were Buddhists.[239] Other religions include Islam (130,000 Muslims, mostly migrant workers from Pakistan and Bangladesh but including some 35,000 Korean Muslims,[240]) the homegrown sect of Wonbuddhism, and a variety of indigenous religions, including Cheondoism (a Confucianizing religion), Jeungsanism, Daejongism, Daesun Jinrihoe and others. Freedom of religion is guaranteed by the constitution, and there is no state religion.[241] Overall, between the 2005 and 2015 censuses there has been a slight decline of Christianity (down from 29% to 27.6%), a sharp decline of Buddhism (down from 22.8% to 15.5%), and a rise of the unaffiliated population (from 47.2% to 56.9%).[242]
 
-Christianity is South Korea's largest organized religion, accounting for more than half of all South Korean adherents of religious organizations. There are approximately 13.5 million Christians in South Korea today; about two thirds of them belonging to Protestant churches, and the rest to the Roman Catholic Church.[243] The number of Protestants has been stagnant throughout the 1990s and the 2000s, but increased to a peak level throughout the 2010s. Roman Catholics increased significantly between the 1980s and the 2000s, but declined throughout the 2010s.[244] Christianity, unlike in other East Asian countries, found fertile ground in Korea in the 18th century, and by the end of the 18th century it persuaded a large part of the population as the declining monarchy supported it and opened the country to widespread proselytism as part of a project of Westernization. The weakness of Korean Sindo, which, unlike Japanese Shinto and China's religious system, never developed into a national religion of high status,[245] combined with the impoverished state of Korean Buddhism (after 500 years of suppression at the hands of the Joseon state, by the 20th century it was virtually extinct) left a free hand to Christian churches. Christianity's similarity to native religious narratives has been studied as another factor that contributed to its success in the peninsula.[246] The Japanese colonization of the first half of the 20th century further strengthened the identification of Christianity with Korean nationalism, as the Japanese coopted native Korean Sindo into the Nipponic Imperial Shinto that they tried to establish in the peninsula.[247] Widespread Christianization of the Koreans took place during State Shinto,[248] after its abolition, and then in the independent South Korea as the newly established military government supported Christianity and tried to utterly oust native Sindo. KOCIS_Korea_YeonDeungHoe_20130511_05_(8733836165).jpg celebration in Seoul]]
+Christianity is South Korea's largest organized religion, accounting for more than half of all South Korean adherents of religious organizations. There are approximately 13.5 million Christians in South Korea today; about two thirds of them belonging to Protestant churches, and the rest to the Roman Catholic Church.[243] The number of Protestants has been stagnant throughout the 1990s and the 2000s, but increased to a peak level throughout the 2010s. Roman Catholics increased significantly between the 1980s and the 2000s, but declined throughout the 2010s.[244] Christianity, unlike in other East Asian countries, found fertile ground in Korea in the 18th century, and by the end of the 18th century it persuaded a large part of the population as the declining monarchy supported it and opened the country to widespread proselytism as part of a project of Westernization. The weakness of Korean Sindo, which, unlike Japanese Shinto and China's religious system, never developed into a national religion of high status,[245] combined with the impoverished state of Korean Buddhism (after 500 years of suppression at the hands of the Joseon state, by the 20th century it was virtually extinct) left a free hand to Christian churches. Christianity's similarity to native religious narratives has been studied as another factor that contributed to its success in the peninsula.[246] The Japanese colonization of the first half of the 20th century further strengthened the identification of Christianity with Korean nationalism, as the Japanese coopted native Korean Sindo into the Nipponic Imperial Shinto that they tried to establish in the peninsula.[247] Widespread Christianization of the Koreans took place during State Shinto,[248] after its abolition, and then in the independent South Korea as the newly established military government supported Christianity and tried to utterly oust native Sindo. celebration in Seoul]]
 
 Among Christian denominations, Presbyterianism is the largest. About nine million people belong to one of the hundred different Presbyterian churches; the biggest ones are the HapDong Presbyterian Church, TongHap Presbyterian Church, the Koshin Presbyterian Church. South Korea is also the second-largest missionary-sending nation, after the United States.[249]
 
@@ -254,7 +254,7 @@ Life expectancy has been rising rapidly and South Korea ranked 11th in the world
 
 Foreign relations
 
-Ban_Ki-Moon_Davos_2011_Cropped.jpg (2007–2016), Ban Ki-moon]]
+(2007–2016), Ban Ki-moon]]
 
 South Korea maintains diplomatic relations with more than 188 countries. The country has also been a member of the United Nations since 1991, when it became a member state at the same time as North Korea. On January 1, 2007, Former South Korean Foreign Minister Ban Ki-moon served as UN Secretary-General from 2007 to 2016. It has also developed links with the Association of Southeast Asian Nations as both a member of _ASEAN Plus three,_ a body of observers, and the East Asia Summit (EAS).
 
@@ -264,9 +264,9 @@ South Korea hosted the G-20 Summit in Seoul in November 2010, a year that saw So
 
 North Korea
 
-DMZ,_looking_at_South_(33139918525).jpg]] Both North and South Korea claim complete sovereignty over the entire peninsula and outlying islands.[257] Despite mutual animosity, reconciliation efforts have continued since the initial separation between North and South Korea. Political figures such as Kim Koo worked to reconcile the two governments even after the Korean War.[258] With longstanding animosity following the Korean War from 1950 to 1953, North Korea and South Korea signed an agreement to pursue peace.[259] On October 4, 2007, Roh Moo-Hyun and North Korean leader Kim Jong-il signed an eight-point agreement on issues of permanent peace, high-level talks, economic cooperation, renewal of train services, highway and air travel, and a joint Olympic cheering squad.[260]
+]] Both North and South Korea claim complete sovereignty over the entire peninsula and outlying islands.[257] Despite mutual animosity, reconciliation efforts have continued since the initial separation between North and South Korea. Political figures such as Kim Koo worked to reconcile the two governments even after the Korean War.[258] With longstanding animosity following the Korean War from 1950 to 1953, North Korea and South Korea signed an agreement to pursue peace.[259] On October 4, 2007, Roh Moo-Hyun and North Korean leader Kim Jong-il signed an eight-point agreement on issues of permanent peace, high-level talks, economic cooperation, renewal of train services, highway and air travel, and a joint Olympic cheering squad.[260]
 
-2018_inter-Korean_summit_01_(cropped).jpg and South Korean President Moon Jae-in shake hands inside the Peace House.]] Despite the Sunshine Policy and efforts at reconciliation, the progress was complicated by North Korean missile tests in 1993, 1998, 2006, 2009, and 2013. , relationships between North and South Korea were very tense; North Korea had been reported to have deployed missiles,[261] ended its former agreements with South Korea,[262] and threatened South Korea and the United States not to interfere with a satellite launch it had planned.[263] North and South Korea are still technically at war (having never signed a peace treaty after the Korean War) and share the world's most heavily fortified border.[264] On May 27, 2009, North Korean media declared that the Armistice is no longer valid because of the South Korean government's pledge to "definitely join" the Proliferation Security Initiative.[265] To further complicate and intensify strains between the two nations, the sinking of the South Korean warship Cheonan in March 2010, is affirmed by the South Korean government[266] to have been caused by a North Korean torpedo, which the North denies. President Lee Myung-bak declared in May 2010 that Seoul would cut all trade with North Korea as part of measures primarily aimed at striking back at North Korea diplomatically and financially, except for the joint Kaesong Industrial Project, and humanitarian aid.[267] North Korea initially threatened to sever all ties, to completely abrogate the previous pact of non-aggression, and to expel all South Koreans from a joint industrial zone in Kaesong, but backtracked on its threats and decided to continue its ties with South Korea. Despite the continuing ties, Kaesong industrial zone has seen a large decrease in investment and manpower as a result of this military conflict. In February 2016, the Kaesong complex was closed by Seoul in reaction to North Korea's launch of a rocket earlier in the month[268] unanimously condemned by the United Nations security council.[269] The 2017 election of President Moon Jae-in has seen a change in approach towards the North, and both sides used the South Korean held 2018 Winter Olympics as an opportunity for engagement,[270] with a very senior North Korean political delegation sent to the games, along with a reciprocal visit by senior South Korean cabinet members to the North soon afterwards.[271]
+and South Korean President Moon Jae-in shake hands inside the Peace House.]] Despite the Sunshine Policy and efforts at reconciliation, the progress was complicated by North Korean missile tests in 1993, 1998, 2006, 2009, and 2013. , relationships between North and South Korea were very tense; North Korea had been reported to have deployed missiles,[261] ended its former agreements with South Korea,[262] and threatened South Korea and the United States not to interfere with a satellite launch it had planned.[263] North and South Korea are still technically at war (having never signed a peace treaty after the Korean War) and share the world's most heavily fortified border.[264] On May 27, 2009, North Korean media declared that the Armistice is no longer valid because of the South Korean government's pledge to "definitely join" the Proliferation Security Initiative.[265] To further complicate and intensify strains between the two nations, the sinking of the South Korean warship Cheonan in March 2010, is affirmed by the South Korean government[266] to have been caused by a North Korean torpedo, which the North denies. President Lee Myung-bak declared in May 2010 that Seoul would cut all trade with North Korea as part of measures primarily aimed at striking back at North Korea diplomatically and financially, except for the joint Kaesong Industrial Project, and humanitarian aid.[267] North Korea initially threatened to sever all ties, to completely abrogate the previous pact of non-aggression, and to expel all South Koreans from a joint industrial zone in Kaesong, but backtracked on its threats and decided to continue its ties with South Korea. Despite the continuing ties, Kaesong industrial zone has seen a large decrease in investment and manpower as a result of this military conflict. In February 2016, the Kaesong complex was closed by Seoul in reaction to North Korea's launch of a rocket earlier in the month[268] unanimously condemned by the United Nations security council.[269] The 2017 election of President Moon Jae-in has seen a change in approach towards the North, and both sides used the South Korean held 2018 Winter Olympics as an opportunity for engagement,[270] with a very senior North Korean political delegation sent to the games, along with a reciprocal visit by senior South Korean cabinet members to the North soon afterwards.[271]
 
 China
 
@@ -278,7 +278,7 @@ The 2017 deployment of THAAD defence missiles by the United States military in S
 
 Japan
 
-Liancourt_walleye_view.jpg has become an issue known as the Liancourt Rocks dispute]]
+has become an issue known as the Liancourt Rocks dispute]]
 
 Korea and Japan have had difficult relations since ancient times, but also significant cultural exchange, with Korea acting as the gateway between Asia and Japan. Contemporary perceptions of Japan are still largely defined by Japan's 35 year colonization of Korea in the 20th century, which is generally regarded in South Korea as having been very negative. Japan is today South Korea's third largest trading partner, with 12% ($46 billion) of exports in 2016.[285]
 
@@ -294,7 +294,7 @@ The EU has been the single largest foreign investor in South Korea since 1962, a
 
 United States
 
-President_Donald_J._Trump_welcomes_President_Moon_Jae-in_of_the_Republic_of_Korea_to_the_White_House_(35520219101).jpg with U.S. President Donald Trump in the Rose Garden of the White House in Washington, D.C. on June 30, 2017]]
+with U.S. President Donald Trump in the Rose Garden of the White House in Washington, D.C. on June 30, 2017]]
 
 The close relationship began directly after World War II, when the United States temporarily administrated Korea for three years (mainly in the South, with the Soviet Union engaged in North Korea) after Japan. Upon the onset of the Korean War in 1950, U.S. forces were sent to defend against an invasion from North Korea of the South, and subsequently fought as the largest contributor of UN troops. The United States participation was critical for preventing the near defeat of the Republic of Korea by northern forces, as well as fighting back for the territory gains that define the South Korean nation today.
 
@@ -309,11 +309,11 @@ Unresolved tension with North Korea has prompted South Korea to allocate 2.6% of
 
 The South Korean military consists of the Army (ROKA), the Navy (ROKN), the Air Force (ROKAF), and the Marine Corps (ROKMC), and reserve forces.[306] Many of these forces are concentrated near the Korean Demilitarized Zone. All South Korean males are constitutionally required to serve in the military, typically 21 months. Previous exceptions for South Korean citizens of mixed race no longer apply since 2011.[307]
 
-US_Navy_100730-N-8539M-181_The_Republic_of_Korea_Navy_guided-missile_destroyer_ROKS_Sejong_the_Great_(DDG_991)_returns_to_Joint_Base_Pearl_Harbor-Hickam_after_participating_in_Rim_of_the_Pacific_(RIMPAC)_2010_exercises.jpg Sejong the Great, a _King Sejong the Great_ -class guided-missile destroyer built by Hyundai Heavy Industries]]
+Sejong the Great, a _King Sejong the Great_ -class guided-missile destroyer built by Hyundai Heavy Industries]]
 
 In addition to male conscription in South Korea's sovereign military, 1,800 Korean males are selected every year to serve 21 months in the KATUSA Program to further augment the United States Forces Korea (USFK).[308] In 2010, South Korea was spending ₩1.68 trillion in a cost-sharing agreement with the US to provide budgetary support to the US forces in Korea, on top of the ₩29.6 trillion budget for its own military.
 
-K2_black_panther3.jpg built by Hyundai Rotem]]
+built by Hyundai Rotem]]
 
 The South Korean army has 2,500 tanks in operation, including the K1A1 and K2 Black Panther, which form the backbone of the South Korean army's mechanized armor and infantry forces. A sizable arsenal of many artillery systems, including 1,700 self-propelled K55 and K9 Thunder howitzers and 680 helicopters and UAVs of numerous types, are assembled to provide additional fire, reconnaissance, and logistics support. South Korea's smaller but more advanced artillery force and wide range of airborne reconnaissance platforms are pivotal in the counter-battery suppression of North Korea's large artillery force, which operates more than 13,000 artillery systems deployed in various state of fortification and mobility.[309]
 
@@ -323,11 +323,11 @@ The South Korean air force operates 840 aircraft, making it world's ninth larges
 
 In May 2011, Korea Aerospace Industries Ltd., South Korea's largest plane maker, signed a $400 million deal to sell 16 T-50 Golden Eagle trainer jets to Indonesia, making South Korea the first country in Asia to export supersonic jets.[314]
 
-Light_Combat_FA-50_Fighting_Eagle.jpg FA-50, a supersonic combat aircraft developed by Korea Aerospace Industries]]
+FA-50, a supersonic combat aircraft developed by Korea Aerospace Industries]]
 
 From time to time, South Korea has sent its troops overseas to assist American forces. It has participated in most major conflicts that the United States has been involved in the past 50 years. South Korea dispatched 325,517 troops to fight alongside American, Australian, Filipino, New Zealand and South Vietnamese soldiers in the Vietnam War, with a peak strength of 50,000.[315] In 2004, South Korea sent 3,300 troops of the Zaytun Division to help re-building in northern Iraq, and was the third largest contributor in the coalition forces after only the US and Britain.[316] Beginning in 2001, South Korea had so far deployed 24,000 troops in the Middle East region to support the War on Terrorism. A further 1,800 were deployed since 2007 to reinforce UN peacekeeping forces in Lebanon.
 
-해군_독도함_(7438321572).jpg, the lead ship of the s built by Hanjin Heavy Industries]]
+, the lead ship of the s built by Hanjin Heavy Industries]]
 
 United States contingent
 
@@ -418,7 +418,7 @@ South Korea is the third highest ranked Asian country in the World Economic Foru
 
 Tourism
 
-Haeundae_Beach_in_Busan.jpg in Busan]] In 2016, 17 million foreign tourists visited South Korea[360][361] With rising tourist prospects, especially from foreign countries outside of Asia, the South Korean government has set a target of attracting 20 million foreign tourists a year by 2017.[362]
+in Busan]] In 2016, 17 million foreign tourists visited South Korea[360][361] With rising tourist prospects, especially from foreign countries outside of Asia, the South Korean government has set a target of attracting 20 million foreign tourists a year by 2017.[362]
 
 South Korean tourism is driven by many factors, including the popularity of South Korean pop music and television dramas, known as Korean Wave (Hallyu), throughout East Asia, traditional culture, cuisine and natural environment. The Hyundai Research Institute reported that the Korean Wave has a direct impact in encouraging direct foreign investment back into the country through demand for products, and the tourism industry.[363] Among Asian countries, China was the most receptive, investing 1.4 billion in South Korea, with much of the investment within its service sector, a sevenfold increase from 2001. According to an analysis by economist Han Sang-Wan, a 1 percent increase in the exports of Korean cultural content pushes consumer goods exports up 0.083 percent while a 1 percent increase in Korean pop content exports to a country produces a 0.019 percent bump in tourism.[364]
 
@@ -433,7 +433,7 @@ South Korea's old-age pension scheme covers individuals age 60 or older for the 
 
 Science and technology
 
-LG전자,_깜빡임_없는_55인치_3D_OLED_TV_공개(2).jpg TV made by Korean LG Display, the world's largest LCD and OLED maker]]
+TV made by Korean LG Display, the world's largest LCD and OLED maker]]
 
 Scientific and technological development in the South Korea at first did not occur largely because of more pressing matters such as the division of Korea and the Korean War that occurred right after its independence. It wasn't until the 1960s under the dictatorship of Park Chung-hee where South Korea's economy rapidly grew from industrialisation and the Chaebol corporations such as Samsung and LG. Ever since the industrialization of South Korea's economy, South Korea has placed its focus on technology-based corporations, which has been supported by infrastructure developments by the government. South Korean corporations Samsung and LG were ranked first and third largest mobile phone companies in the world in the first quarter of 2012, respectively.[381] An estimated 90% of South Koreans own a mobile phone.[382] Aside from placing/receiving calls and text messaging, mobile phones in the country are widely used for watching Digital Multimedia Broadcasting (DMB) or viewing websites.[383] Over one million DMB phones have been sold and the three major wireless communications providers SK Telecom, KT, and LG U+ provide coverage in all major cities and other areas. South Korea has the fastest Internet download speeds in the world, with an average download speed of 25.3 Mbit/s.[384]
 
@@ -447,7 +447,7 @@ In late September 2013, a computer-security competition jointly sponsored by the
 
 Aerospace engineering
 
-KSLV-1_Naro_Replica.jpg]]
+]]
 
 South Korea has sent up 10 satellites from 1992, all using foreign rockets and overseas launch pads, notably Arirang-1 in 1999, and Arirang-2 in 2006 as part of its space partnership with Russia.[391] Arirang-1 was lost in space in 2008, after nine years in service.[392]
 
@@ -459,7 +459,7 @@ South Korea's efforts to build an indigenous space launch vehicle is marred beca
 
 Robotics
 
-Einstein-Hubo.jpg, can make expressive gestures with its five separate fingers]]
+, can make expressive gestures with its five separate fingers]]
 
 Robotics has been included in the list of main national R&D projects in Korea since 2003.[402] In 2009, the government announced plans to build robot-themed parks in Incheon and Masan with a mix of public and private funding.[403]
 
@@ -478,7 +478,7 @@ The rapid growth of the industry has resulted in significant voids in regulation
 
 Culture
 
-Kayagumplayer2.jpg'']]
+'']]
 
 South Korea shares its traditional culture with North Korea, but the two Koreas have developed distinct contemporary forms of culture since the peninsula was divided in 1945. Historically, while the culture of Korea has been heavily influenced by that of neighboring China, it has nevertheless managed to develop a unique cultural identity that is distinct from its larger neighbor.[412] Its rich and vibrant culture left 19 UNESCO Intangible Cultural Heritages of Humanity, the third largest in the world, along with 12 World Heritage Sites. The South Korean Ministry of Culture, Sports and Tourism actively encourages the traditional arts, as well as modern forms, through funding and education programs.[413]
 
@@ -494,13 +494,13 @@ Post-war modern Korean art started to flourish in the 1960s and 1970s, when Sout
 
 Architecture
 
-Sungnyemun_Gate,_front,_2013.jpg]]
+]]
 
 Because of South Korea's tumultuous history, construction and destruction has been repeated endlessly, resulting in an interesting melange of architectural styles and designs.[421]
 
 Korean traditional architecture is characterized by its harmony with nature. Ancient architects adopted the bracket system characterized by thatched roofs and heated floors called _ondol_.[422] People of the upper classes built bigger houses with elegantly curved tiled roofs with lifting eaves. Traditional architecture can be seen in the palaces and temples, preserved old houses called _hanok_,[423] and special sites like Hahoe Folk Village, Yangdong Village of Gyeongju and Korean Folk Village. Traditional architecture may also be seen at the nine UNESCO World Heritage Sites in South Korea.[424]
 
-Daeungjeon_at_Bulguksa-Gyeongju-Korea-01.jpg, a UNESCO World Heritage Site]]
+, a UNESCO World Heritage Site]]
 
 Western architecture was first introduced to Korea at the end of the 19th century. Churches, offices for foreign legislation, schools and university buildings were built in new styles. With the annexation of Korea by Japan in 1910 the colonial regime intervened in Korea's architectural heritage, and Japanese-style modern architecture was imposed. The anti-Japanese sentiment, and the Korean War, led to the destruction of most buildings constructed during that time.[425]
 
@@ -508,7 +508,7 @@ Korean architecture entered a new phase of development during the post-Korean Wa
 
 Cuisine
 
-Korean.food-Bibimbap-02.jpg]]
+]]
 
 Korean cuisine, _hanguk yori_ (한국요리; 韓國料理), or _hansik_ (한식; 韓食), has evolved through centuries of social and political change. Ingredients and dishes vary by province. There are many significant regional dishes that have proliferated in different variations across the country in the present day. The Korean royal court cuisine once brought all of the unique regional specialties together for the royal family. Meals consumed both by the royal family and ordinary Korean citizens have been regulated by a unique culture of etiquette.
 
@@ -522,7 +522,7 @@ Korea is unique among Asian countries in its use of metal chopsticks. Metal chop
 
 Entertainment
 
-RAIN_2011_Shankbone.JPG, one of the most popular music artists in South Korea, found international fame by reaching a global audience through his music and films.]]
+, one of the most popular music artists in South Korea, found international fame by reaching a global audience through his music and films.]]
 
 In addition to domestic consumption, South Korea has a thriving entertainment industry where various facets of South Korean entertainment including television dramas, films, and popular music has generated significant financial revenues for the nation's economy. The cultural phenomenon known as _Hallyu_ or the "Korean Wave", has swept many countries across Asia making South Korea a major soft power as an exporter of popular culture and entertainment, rivaling Western nations such as the United States and the United Kingdom.[429]
 
@@ -538,25 +538,25 @@ There are many official public holidays in South Korea. Korean New Year's Day, o
 
 Sports
 
-View_from_COEX_Tower.jpg, Korea's largest integrated sports center]]
+, Korea's largest integrated sports center]]
 
 The martial art taekwondo originated in Korea. In the 1950s and 1960s, modern rules were standardized, with taekwondo becoming an official Olympic sport in 2000.[433] Other Korean martial arts include Taekkyon, hapkido, Tang Soo Do, Kuk Sool Won, kumdo and subak.[434]
 
 Football and baseball have traditionally been regarded as the most popular sports in Korea.[435] Recent polling indicates that a majority, 41% of South Korean sports fans continue to self-identify as football fans, with baseball ranked 2nd at 25% of respondents. However, the polling did not indicate the extent to which respondents follow both sports.[436] The national football team became the first team in the Asian Football Confederation to reach the FIFA World Cup semi-finals in the 2002 FIFA World Cup, jointly hosted by South Korea and Japan. The Korea Republic national team (as it is known) has qualified for every World Cup since Mexico 1986, and has broken out of the group stage twice: first in 2002, and again in 2010, when it was defeated by eventual semi-finalist Uruguay in the Round of 16. At the 2012 Summer Olympics, South Korea won the Bronze Medal for football.
 
-Busan_Sajik_Stadium_20080706.JPG in Busan. Baseball is one of the most popular sports in South Korea.]]
+in Busan. Baseball is one of the most popular sports in South Korea.]]
 
 Baseball was first introduced to Korea in 1905 and has since become increasingly popular, with some sources claiming it has surpassed football as the most popular sport in the country.[437][438][439] Recent years have been characterized by increasing attendance and ticket prices for professional baseball games.[440][441] The Korea Professional Baseball league, a 10-team circuit, was established in 1982. The South Korea national team finished third in the 2006 World Baseball Classic and second in the 2009 tournament. The team's 2009 final game against Japan was widely watched in Korea, with a large screen at Gwanghwamun crossing in Seoul broadcasting the game live.[442] In the 2008 Summer Olympics, South Korea won the gold medal in baseball.[443] Also in 1982, at the Baseball Worldcup, Korea won the gold medal. At the 2010 Asian Games, the Korean National Baseball team won the gold medal. Several Korean players have gone on to play in Major League Baseball.
 
 Basketball is a popular sport in the country as well. South Korea has traditionally had one of the top basketball teams in Asia and one of the continent's strongest basketball divisions. Seoul hosted the 1967 and 1995 Asian Basketball Championship. The Korea national basketball team has won a record number of 23 medals at the event to date.[444]
 
-Hapkido5.jpg South Korea hosted the Asian Games in 1986 (Seoul), 2002 (Busan) and 2014 (Incheon). It also hosted the Winter Universiade in 1997, the Asian Winter Games in 1999 and the Summer Universiade in 2003, 2015. In 1988, South Korea hosted the Summer Olympics in Seoul, coming fourth with 12 gold medals, 10 silver medals and 11 bronze medals. South Korea regularly performs well in archery, shooting, table tennis, badminton, short track speed skating, handball, hockey, freestyle wrestling, Greco-Roman wrestling, baseball, judo, taekwondo, speed skating, figure Skating, and weightlifting. The Seoul Olympic Museum is a museum in Seoul, South Korea, dedicated to the 1988 Summer Olympics. On July 6, 2011 Pyeongchang was chosen by the IOC to host the 2018 Winter Olympics.
+South Korea hosted the Asian Games in 1986 (Seoul), 2002 (Busan) and 2014 (Incheon). It also hosted the Winter Universiade in 1997, the Asian Winter Games in 1999 and the Summer Universiade in 2003, 2015. In 1988, South Korea hosted the Summer Olympics in Seoul, coming fourth with 12 gold medals, 10 silver medals and 11 bronze medals. South Korea regularly performs well in archery, shooting, table tennis, badminton, short track speed skating, handball, hockey, freestyle wrestling, Greco-Roman wrestling, baseball, judo, taekwondo, speed skating, figure Skating, and weightlifting. The Seoul Olympic Museum is a museum in Seoul, South Korea, dedicated to the 1988 Summer Olympics. On July 6, 2011 Pyeongchang was chosen by the IOC to host the 2018 Winter Olympics.
 
 South Korea has won more medals in the Winter Olympics than any other Asian country with a total of 45 medals (23 gold, 14 silver, and 8 bronze). At the 2010 Winter Olympics, South Korea ranked fifth in the overall medal rankings. South Korea is especially strong in short track speed skating. However, speed skating and figure skating are very popular, too, and ice hockey is an emerging sport with Anyang Halla winning their first ever Asia League Ice Hockey title in March 2010.[445]
 
 Seoul hosted a professional triathlon race, which is part of the International Triathlon Union (ITU) World Championship Series in May 2010.[446] In 2011, the South Korean city of Daegu hosted the 2011 IAAF World Championships in Athletics.[447]
 
-서울월드컵경기장.jpg in Seoul with a capacity of 66,704 seats]] In October 2010, South Korea hosted its first Formula One race at the Korea International Circuit in Yeongam, about south of Seoul.[448] The Korean Grand Prix was held from 2010 to 2013, but was not placed on the 2014 F1 calendar.[449]
+in Seoul with a capacity of 66,704 seats]] In October 2010, South Korea hosted its first Formula One race at the Korea International Circuit in Yeongam, about south of Seoul.[448] The Korean Grand Prix was held from 2010 to 2013, but was not placed on the 2014 F1 calendar.[449]
 
 Domestic horse racing events are also followed by South Koreans and Seoul Race Park in Gwacheon, Gyeonggi-do is located closest to Seoul out of the country's three tracks.[450]
 

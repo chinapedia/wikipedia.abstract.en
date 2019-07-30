@@ -1,1 +1,0 @@
-ACCRINGTON is a town in the Hyndburn borough of Lancashire, England. It lies about east of Blackburn, west of Burnley, east of Preston, north of Manchester city centre and is situated on the mostly culverted River Hyndburn. Commonly abbreviated by locals to "Accy",[1] the town has a population of 35,456 according to the 2011 census.[2]

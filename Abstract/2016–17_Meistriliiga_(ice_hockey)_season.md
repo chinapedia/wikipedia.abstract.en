@@ -1,1 +1,0 @@
-The 2016–17 MEISTRILIIGA SEASON was the 78th season of the Meistriliiga, the top level of ice hockey in Estonia.[1] The season began on 22 October 2016 and ended on 25 March 2017 with Narva PSK winning their 18th Estonian Championship trophy.[2]

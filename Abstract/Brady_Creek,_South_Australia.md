@@ -1,1 +1,0 @@
-BRADY CREEK is a rural locality in the Mid North region of South Australia, situated in the Regional Council of Goyder.[1] It was established in August 2000, when boundaries were formalised for the "long established local name" for the creek which it is centred on and named after. It is divided between the cadastral Hundreds of Apoinga and English.[2]

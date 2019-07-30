@@ -7,8 +7,8 @@ Geology
 
 Formation
 
-  -------------------------------- -----------------------
-  Surtseyan_Eruption-numbers.svg   1: Water vapour cloud
+  --------------------------- -----------------------
+                              1: Water vapour cloud
   2: Cypressoid ash jet
   3: Crater
   4: Water
@@ -17,7 +17,7 @@ Formation
   7: Magma conduit
   8: Magma chamber
   9: Dike
-  -------------------------------- -----------------------
+  --------------------------- -----------------------
 
   : SCHEME OF THE SURTSEYAN ERUPTION
 
@@ -26,8 +26,6 @@ The eruption was unexpected, and almost certainly began some days before it beca
 The first noticeable indications of volcanic activity were recorded at the seismic station in Kirkjubæjarklaustur, Iceland from 6 to 8 November, which detected weak tremors emanating from an epicentre approximately west-south-west at a distance of , the location of Surtsey. Another station in Reykjavík recorded even weaker tremors for ten hours on 12 November at an undetermined location, when seismic activity ceased until 21 November.[6] That same day, people in the coastal town of Vík away noticed a smell of hydrogen sulphide.[7] On 13 November, a fishing vessel in search of herring, equipped with sensitive thermometers, noted sea temperatures SW of the eruption center were higher than surrounding waters.[8]
 
 Eruption at the surface
-
-Surtsey_eruption_2.jpg
 
 At 07:15 UTC on 14 November 1963, the cook of _Ísleifur II_, a trawler sailing these same waters, spotted a rising column of dark smoke southwest of the boat. The captain thought it might have been a boat on fire, and ordered his crew to investigate. Instead, they encountered explosive eruptions giving off black columns of ash, indicating that a volcanic eruption had begun to penetrate the surface of the sea.[9] By 11:00 the same day, the eruption column had reached several kilometres in height. At first the eruptions took place at three separate vents along a northeast by southwest trending fissure, but by the afternoon the separate eruption columns had merged into one along the erupting fissure. Over the next week, explosions were continuous, and after just a few days the new island, formed mainly of scoria, measured over in length and had reached a height of .[10]
 
@@ -45,8 +43,6 @@ On 28 December 1963, submarine activity to the northeast of Surtsey caused the f
 
 Subsequent volcanic activity
 
-Surtsey_craters.jpg
-
 In 1965, the activity on the main island diminished, but at the end of May that year an eruption began at a vent off the northern shore. By 28 May, an island had appeared, and was named Syrtlingur (Little Surtsey). The new island was washed away during early June, but reappeared on 14 June. Eruptions at Syrtlingur were much smaller in scale than those that had built Surtsey, with the average rate of emission of volcanic materials being about a tenth of the rate at the main vent. Activity was short-lived, continuing until the beginning of October 1965, by which time the islet had an area of . Once the eruptions had ceased, wave erosion rapidly wore the island away, and it disappeared beneath the waves on 24 October.[16]
 
 During December 1965, more submarine activity occurred southwest of Surtsey, and another island was formed. It was named Jólnir, and over the following eight months it appeared and disappeared several times, as wave erosion and volcanic activity alternated in dominance. Activity at Jólnir was much weaker than the activity at the main vent, and even weaker than that seen at Syrtlingur, but the island eventually grew to a maximum size of in height, covering an area of , during July and early August 1966. Like Syrtlingur, though, after activity ceased on 8 August 1966, it was rapidly eroded, and dropped below sea level during October 1966.[17]
@@ -57,13 +53,11 @@ Since the end of the eruption, erosion has seen the island diminish in size. A l
 
 Recent development
 
-Surtsey_from_plane,_1999.jpg North_Spit_of_Surtsey_Jan_2009.jpg Following the end of the eruption, scientists established a grid of benchmarks against which they measured the change in the shape of the island. In the 20 years following the end of the eruption, measurements revealed that the island was steadily subsiding and had lost about one metre in height. The rate of subsidence was initially about per year but slowed to a year by the 1990s. It had several causes: settling of the loose tephra forming the bulk of the volcano, compaction of sea floor sediments underlying the island, and downward warping of the lithosphere due to the weight of the volcano.[22]
+Following the end of the eruption, scientists established a grid of benchmarks against which they measured the change in the shape of the island. In the 20 years following the end of the eruption, measurements revealed that the island was steadily subsiding and had lost about one metre in height. The rate of subsidence was initially about per year but slowed to a year by the 1990s. It had several causes: settling of the loose tephra forming the bulk of the volcano, compaction of sea floor sediments underlying the island, and downward warping of the lithosphere due to the weight of the volcano.[22]
 
 Volcanoes in the Vestmannaeyjar archipelago are typically monogenetic, and so the island is unlikely to be enlarged in the future by further eruptions. The heavy seas around the island have been eroding it ever since the island appeared, and since the end of the eruption almost half of its original area has been lost. The island currently loses about of its surface area each year.[23]
 
 Future
-
-Small_islands_in_the_Vestmannaeyjar_archipelago,_Iceland.jpg
 
 This island is unlikely to disappear entirely in the near future. The eroded area consisted mostly of loose tephra, easily washed away. Most of the remaining area is capped by hard lava flows, which are much more resistant to erosion. In addition, complex chemical reactions within the loose tephra within the island have gradually formed highly erosion resistant tuff material, in a process known as palagonitization. On Surtsey this process has happened quite rapidly, due to high temperatures not far below the surface.[24]
 
@@ -84,7 +78,7 @@ Mosses and lichens now cover much of the island. During the island's first 20 y
 
 Birds
 
-Puffin2.jpg nests were found on Surtsey in 2004]]
+nests were found on Surtsey in 2004]]
 
 The expansion of bird life on the island has both relied on and helped to advance the spread of plant life. Birds use the plants for nesting material, but also continue to assist in the spreading of seeds, and fertilize the soil with their guano.[35] Birds first began nesting on Surtsey three years after the eruptions ended, with fulmar and guillemot the first species to set up home. Twelve species are now regularly found on the island.[36]
 

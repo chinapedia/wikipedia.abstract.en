@@ -1,1 +1,0 @@
-RENEE POZNANSKI (born 26 April 1949 in Paris) is a French-born Israeli historian, specialist in the Holocaust, and the Jewish Resistance in France during the Second World War, who teaches at the Ben-Gurion University of the Negev, in Beersheba, in Israel.[1][2]

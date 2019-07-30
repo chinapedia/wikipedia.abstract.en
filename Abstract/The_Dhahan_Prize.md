@@ -1,1 +1,0 @@
-THE DHAHAN PRIZE is an annual prize awarded by Canada-India education society for excellence in Punjabi fiction. The prize is given to three books of fiction, written in either Gurmukhi or Shahmukhi script of Punjabi.[1] The prize is named after Canadian Punjabi businessman, Barj Singh Dhahan.[2]

@@ -1,1 +1,0 @@
-KEVIN HAYS (born 12 May 1994) is an American Rubik's Cube speedcuber. Recognized as an expert at solving big cubes (5x5, 6x6 and 7x7), he has won 6 world championship titles and set 21 world records across the three events. He has also set 47 North American records and won 21 US National titles.[1]

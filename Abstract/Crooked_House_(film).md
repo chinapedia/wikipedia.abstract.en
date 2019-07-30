@@ -1,1 +1,0 @@
-_CROOKED HOUSE_ is a British-American mystery film directed by Gilles Paquet-Brenner, based on Agatha Christie’s 1949 novel of the same name. The film stars Max Irons, Terence Stamp, Glenn Close, Gillian Anderson, and Stefanie Martini. Principal photography began in September 2016, and the film aired in the UK on Channel 5 on 17 December 2017.

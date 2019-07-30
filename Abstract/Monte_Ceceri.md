@@ -1,1 +1,0 @@
-_Montececeri,_veduta_verso_firenze_03.JPG MONTE CECERI is a hill near Fiesole, Tuscany. It is currently part of a nature reserve to the northeast of the city of Florence, within the Metropolitan City of Florence.

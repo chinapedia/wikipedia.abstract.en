@@ -1,1 +1,0 @@
-_LEAVE THE OFFICE EARLIER_ is a self-help book by Laura Stack focusing on time management. It was published in 2004 by Random House. The book explores ten key factors that improve results, lower stress, and save time in the workplace.

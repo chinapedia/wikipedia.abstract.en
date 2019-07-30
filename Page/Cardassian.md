@@ -1,4 +1,4 @@
-Guldukat.jpg (portrayed by Marc Alaimo), a prominent Cardassian character in _Star Trek: Deep Space Nine_.]]
+(portrayed by Marc Alaimo), a prominent Cardassian character in _Star Trek: Deep Space Nine_.]]
 
 The CARDASSIANS () are a fictional extraterrestrial species in the American science fiction franchise _Star Trek_. They were devised in 1991 for the series _Star Trek: The Next Generation_ before being used in the subsequent series _Star Trek: Deep Space Nine_ and _Star Trek: Voyager_.
 
@@ -12,8 +12,6 @@ History
 _Star Trek: The Next Generation_
 
 "The Wounded": 1991
-
-Cardassian_logo_plain.png
 
 The Cardassians were invented by the writers of _Star Trek: The Next Generation_ for the show's fourth season episode "The Wounded". The story was written by Stuart Charno, Sara Charno, and Cy Chermak, while the teleplay was written by Jeri Taylor. The episode was first screened in January 1991. The episode's script related that the Cardassian Union and the United Federation of Planets—of which Earth is a part—had been involved in skirmishes for many years but had signed a peace treaty. Its plot begins with the revelation that the USS _Phoenix_, a renegade Federation starship under the command of Captain Benjamin Maxwell (Bob Gunton), has begun attacking Cardassian targets, because Maxwell is convinced that the Cardassians are re-arming for a war against the Federation. The USS _Enterprise_-D is sent to stop the _Phoenix_, with the Cardassian Gul Macet (Marc Alaimo) coming aboard the _Enterprise_ to assist.
 
@@ -33,8 +31,6 @@ The Cardassians also appeared in the sixth season episode "The Chase", written b
 
 _Star Trek: Deep Space Nine_
 
-Marc_Alaimo_(2010).jpg
-
 Launching the new series, _Star Trek: Deep Space Nine_, was the pilot episode "Emissary", written by Rick Berman and Michael Pillar. For this episode, the writers focused in on the aftermath of the Cardassian departure from Bajor. The premise of the series revolves around the Federation taking control of Deep Space Nine, a Cardassian-built space station orbiting Bajor, at the request of the Bajoran provisional government. In "Emissary", the station's new Starfleet commander, Benjamin Sisko (Avery Brooks) is visited by the Cardassian who formerly served as prefect of Bajor, Gul Dukat (Alaimo). Alaimo had played a different Cardassian character in _The Next Generation_; he was brought in to replace the actor formerly cast as Dukat, whose performance had dissatisfied the creative team. Ira Behr recalled that "It was either Mike Piller or Rick Berman who finally said, 'Let's get Marc Alaimo,' who had done a bunch of _TNG_ episodes for them in the past. Marc came in and, of course, he _was_ Gul Dukat."
 
 Later in the season, the show's creative team included another Cardassian-themed episode, "Duet". Written by Lisa Rich and Jeanne Carrigan-Fauci as a bottle episode, it featured the arrest of a Cardassian believed to be guilty of war crimes against Bajor, Aamin Marritza (Harris Yulin), and the relationship he developed with the station's Bajoran second-in-command, Kira Nerys (Nana Visitor). The dialogue given to Marritza was an early example of what the writers came to call "Cardassian monologues": Behr stated that "Cardassians love to speak. Garak loves to speak, Enabran Tain loves to speak. Dukat loves to speak—very slowly—and certainly Marritza loves to speak."
@@ -42,7 +38,7 @@ Later in the season, the show's creative team included another Cardassian-themed
 
 In cosmology
 
-Star_Trek_(8413848603).jpger dressed as a Cardassian in a Starfleet uniform]]
+er dressed as a Cardassian in a Starfleet uniform]]
 
 In cosmology, the concept "Cardassian expansion" is a term used for a modification to the Friedmann equations. It is named after the fictional _Star Trek_ race by the original authors, Katherine Freese and Matthew Lewis.[2] In their 2002 paper (which has been cited more than 330 times[3]), a footnote on the "Cardassian term" states: "² The name Cardassian refers to a humanoid race in _Star Trek_ whose goal is to take over the universe, i.e., accelerated expansion. This race looks foreign to us and yet is made entirely of matter."
 

@@ -1,1 +1,0 @@
-Manuscript_Gylfi.jpg]]

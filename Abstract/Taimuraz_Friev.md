@@ -1,1 +1,0 @@
-TAIMURAZ RUSLANOVICH FRIEV (; born September 15, 1986 in Vladikavkaz) is a Russian freestyle wrestler of Ossetian desecent representeing Spain. He competed in the men's freestyle 74 kg event at the 2016 Summer Olympics, where he was eliminated in the Round of 32 by Liván López.[1][2]

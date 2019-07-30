@@ -1,1 +1,0 @@
-_ANGARELLA_ is an early palaeozoic genus of problematic fossils, long held to belong to the molluscs based on supposed similarities in its musculature to that of hyoliths (now known to be brachiopod relatives[1]) and mobergellids, but now considered to represent a brachiopod based on its calcitic mineralogy and paired symmetrical valves.[2]

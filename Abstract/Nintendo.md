@@ -1,1 +1,0 @@
-is a Japanese multinational consumer electronics and video game company headquartered in Kyoto. Nintendo is one of the world's largest video game companies by market capitalization, creating some of the best-known and top-selling video game franchises, such as _Mario_, _The Legend of Zelda_, and _Pokémon_.

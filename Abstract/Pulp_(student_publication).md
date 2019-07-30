@@ -1,1 +1,0 @@
-_PULP_ is the online student publication of the University of Sydney Union and was established in 2016. As a replacement for student magazine _BULL_ that was discontinued, _Pulp_ is now the second student-run publication at the University of Sydney alongside student newspaper Honi Soit.

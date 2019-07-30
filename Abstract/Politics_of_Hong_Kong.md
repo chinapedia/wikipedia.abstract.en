@@ -1,1 +1,0 @@
-The POLITICS OF HONG KONG takes place in a framework of a political system dominated by its quasi-constitutional document, the Hong Kong Basic Law, its own legislature, the Chief Executive as the head of government and of the Special Administrative Region and of a multi-party system. Executive power is exercised by the government.

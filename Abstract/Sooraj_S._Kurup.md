@@ -1,1 +1,0 @@
-SOORAJ S KURUP is an Indian composer and Actor who has composed for Malayalam films and Tamil films.He debuted as a feature film composer with the 2016 film _Valleem Thetti Pulleem Thetti_.[1][2]. He's famous for composing the song "Sita Kalyanam" in the Malayalam Movie "Solo" |Solo[3]

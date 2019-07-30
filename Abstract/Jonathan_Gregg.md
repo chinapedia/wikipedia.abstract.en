@@ -1,1 +1,0 @@
-JONATHAN GREGG (born January 26, 1955) is an American singer, songwriter, and multi-instrumentalist (pedal steel, guitar, and dobro). Based in New York City, he is the founder of Jonathan Gregg & the Lonesome Debonaires and The Combine, and co-leader of alt-country band The Linemen.[1]

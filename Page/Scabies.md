@@ -9,7 +9,7 @@ Scabies is one of the three most common skin disorders in children, along with r
 
 Signs and symptoms
 
-Sites_of_scabies.png The characteristic symptoms of a scabies infection include intense itching and superficial burrows.[39] The burrow tracks are often linear, to the point that a neat "line" of four or more closely placed and equally developed mosquito-like "bites" is almost diagnostic of the disease. Because the host develops the symptoms as a reaction to the mites' presence over time, typically a delay of four to six weeks occurs between the onset of infestation and the onset of itching. Similarly, symptoms often persist for one to several weeks after successful eradication of the mites. As noted, those re-exposed to scabies after successful treatment may exhibit symptoms of the new infestation in a much shorter period—as little as one to four days.[40]
+The characteristic symptoms of a scabies infection include intense itching and superficial burrows.[39] The burrow tracks are often linear, to the point that a neat "line" of four or more closely placed and equally developed mosquito-like "bites" is almost diagnostic of the disease. Because the host develops the symptoms as a reaction to the mites' presence over time, typically a delay of four to six weeks occurs between the onset of infestation and the onset of itching. Similarly, symptoms often persist for one to several weeks after successful eradication of the mites. As noted, those re-exposed to scabies after successful treatment may exhibit symptoms of the new infestation in a much shorter period—as little as one to four days.[40]
 
 Itching
 
@@ -27,7 +27,7 @@ File:Acarodermatitis Fuß.jpg|Scabies of the foot File:Acarodermatitis Arm.jpg|S
 
 Crusted scabies
 
-Norwegian_Scabies_in_Homeless_AIDS_Patient.jpg]]
+]]
 
 The elderly, disabled, and people with an impaired immune system, such as HIV, cancer, or those on immunosuppressive medications, are susceptible to crusted scabies (also called Norwegian scabies).[48][49][50] On those with weaker immune systems, the host becomes a more fertile breeding ground for the mites, which spread over the host's body, except the face. The mites in crusted scabies are not more virulent than in noncrusted scabies; however, they are much more numerous (up to two million). People with crusted scabies exhibit scaly rashes, slight itching, and thick crusts of skin that contain the large numbers of scabies mites. Due to being infected thus, persons with crusted scabies are more contagious to other persons.[51][52] Such areas make eradication of mites particularly difficult, as the crusts protect the mites from topical miticides/scabicides, necessitating prolonged treatment of these areas.
 
@@ -36,7 +36,7 @@ Cause
 
 Scabies mite
 
-Sarcoptes_scabiei.ogv'' mite]] Scabies_life_cycle.png In the 18th century, Italian biologists Giovanni Cosimo Bonomo and Diacinto Cestoni (1637–1718) described the mite now called _Sarcoptes scabiei_, variety _hominis_, as the cause of scabies. _Sarcoptes_ is a genus of skin parasites and part of the larger family of mites collectively known as scab mites. These organisms have eight legs as adults, and are placed in the same phylogenetic class (Arachnida) as spiders and ticks.
+'' mite]] In the 18th century, Italian biologists Giovanni Cosimo Bonomo and Diacinto Cestoni (1637–1718) described the mite now called _Sarcoptes scabiei_, variety _hominis_, as the cause of scabies. _Sarcoptes_ is a genus of skin parasites and part of the larger family of mites collectively known as scab mites. These organisms have eight legs as adults, and are placed in the same phylogenetic class (Arachnida) as spiders and ticks.
 
 _S. scabiei_ mites are under 0.5 mm in size, but are sometimes visible as pinpoints of white. Gravid females tunnel into the dead, outermost layer (stratum corneum) of a host's skin and deposit eggs in the shallow burrows. The eggs hatch into larvae in three to ten days. These young mites move about on the skin and molt into a "nymphal" stage, before maturing as adults, which live three to four weeks in the host's skin. Males roam on top of the skin, occasionally burrowing into the skin. In general, the total number of adult mites infesting a healthy hygienic person with noncrusted scabies is small, about 11 females in burrows, on average.[53]
 
@@ -58,7 +58,7 @@ Rates of scabies are negatively related to temperature and positively related to
 
 Diagnosis
 
-Sarcoptes_scabei_2.jpg of an itch mite (_S. scabiei_)]]
+of an itch mite (_S. scabiei_)]]
 
 Scabies may be diagnosed clinically in geographical areas where it is common when diffuse itching presents along with either lesions in two typical spots or itchiness is present in another household member.[63] The classical sign of scabies is the burrow made by a mite within the skin.[64] To detect the burrow, the suspected area is rubbed with ink from a fountain pen or a topical tetracycline solution, which glows under a special light. The skin is then wiped with an alcohol pad. If the person is infected with scabies, the characteristic zigzag or S pattern of the burrow will appear across the skin; however, interpreting this test may be difficult, as the burrows are scarce and may be obscured by scratch marks.[65] A definitive diagnosis is made by finding either the scabies mites or their eggs and fecal pellets.[66] Searches for these signs involve either scraping a suspected area, mounting the sample in potassium hydroxide and examining it under a microscope, or using dermoscopy to examine the skin directly.[67]
 
@@ -106,7 +106,7 @@ Scabies is one of the three most common skin disorders in children, along with t
 
 History
 
-Istituto_di_anatomia_patologica,_museo,_cere,_scabbia_norvegese_02.jpg Scabies has been observed in humans since ancient times. Archeological evidence from Egypt and the Middle East suggests scabies was present as early as 494 BC.[115][116] The first recorded reference to scabies is believed to be from the Bible – it may be a type of "leprosy" mentioned in Leviticus c. 1200 BC[117] or be mentioned among the curses of Deuteronomy 28.[118] In the fourth century BC, Aristotle reported on "lice" that "escape from little pimples if they are pricked" – a description consistent with scabies.[119]
+Scabies has been observed in humans since ancient times. Archeological evidence from Egypt and the Middle East suggests scabies was present as early as 494 BC.[115][116] The first recorded reference to scabies is believed to be from the Bible – it may be a type of "leprosy" mentioned in Leviticus c. 1200 BC[117] or be mentioned among the curses of Deuteronomy 28.[118] In the fourth century BC, Aristotle reported on "lice" that "escape from little pimples if they are pricked" – a description consistent with scabies.[119]
 
 The Roman encyclopedist and medical writer Aulus Cornelius Celsus (c. 25 BC – 50 AD) is credited with naming the disease "scabies" and describing its characteristic features.[120] The parasitic etiology of scabies was documented by the Italian physician Giovanni Cosimo Bonomo (1663–1696) in his 1687 letter, "Observations concerning the fleshworms of the human body".[121] Bonomo's description established scabies as one of the first human diseases with a well-understood cause.[122][123]
 
@@ -115,14 +115,14 @@ In Europe in the late 19th through mid-20th centuries, a sulfur-bearing ointment
 
 Society and culture
 
-Stefania_Lanza_and_her_soft_toy_Scabies_Mite.jpg worker Stefania Lanzia using a soft toy scabies mite to publicise the condition in a 2016 campaign]]
+worker Stefania Lanzia using a soft toy scabies mite to publicise the condition in a 2016 campaign]]
 
 The International Alliance for the Control of Scabies was started in 2012,[125][126][127] and brings together over 150 researchers, clinicians, and public-health experts from more than 15 different countries. It has managed to bring the global health implications of scabies to the attention of the World Health Organization.[128] Consequently, the WHO has included scabies on its official list of neglected tropical diseases and other neglected conditions.[129]
 
 
 Other animals
 
-Street_dog-Gianyar_Bali-2009.jpeg, Indonesia, suffers from sarcoptic mange.]]
+, Indonesia, suffers from sarcoptic mange.]]
 
 Scabies may occur in a number of domestic and wild animals; the mites that cause these infestations are of different subspecies from the one typically causing the human form.[130] These subspecies can infest animals that are not their usual hosts, but such infections do not last long.[131] Scabies-infected animals suffer severe itching and secondary skin infections. They often lose weight and become frail.[132]
 

@@ -15,7 +15,7 @@ In 2009, SAC's previous USAF MAJCOM role was reactivated and redesignated as the
 
 Background
 
-Sac194-patch.png.]] The Strategic Air Forces of the United States during World War II included General Carl Spaatz's European command, United States Strategic Air Forces in Europe (USSTAF), consisting of the 8AF and 15AF, and the United States Strategic Air Forces in the Pacific (USASTAF) and its Twentieth Air Force (20AF).
+.]] The Strategic Air Forces of the United States during World War II included General Carl Spaatz's European command, United States Strategic Air Forces in Europe (USSTAF), consisting of the 8AF and 15AF, and the United States Strategic Air Forces in the Pacific (USASTAF) and its Twentieth Air Force (20AF).
 
 The U.S. Army Air Forces' first mission in the Strategic Bombing Campaign in the European Theater during World War II included the VIII Bomber Command, which conducted the first European "heavy bomber" attack by the USAAF on 17 August 1942; the Ninth Air Force, which conducted the first Operation Crossbow "No-Ball" missions on 5 December 1943;[3] the Twelfth Air Force; and the Fifteenth Air Force, which executed bombing operations on 2 November 1943 during Operation Pointblank.
 
@@ -26,7 +26,7 @@ Planning to reorganize for a separate and independent postwar U.S. Air Force had
 
 Establishment and transfer to USAF
 
-Boeing_B-47B_rocket-assisted_take_off_on_April_15,_1954_061024-F-1234S-011.jpg executing a rocket-assisted take off (RATO) on April 15, 1954]]
+executing a rocket-assisted take off (RATO) on April 15, 1954]]
 
 Strategic Air Command bases}} STRATEGIC AIR COMMAND was originally established in the U.S. Army Air Forces on 21 March 1946, acquiring part of the personnel and facilities of the Continental Air Forces (CAF), the World War II command tasked with the air defense of the continental United States (CONUS). At the time, CAF headquarters was located at Bolling Field (later Bolling AFB) in the District of Columbia and SAC assumed occupancy of its headquarters facilities until relocating SAC headquarters (HQ SAC) to nearby Andrews Field (later Andrews AFB), Maryland as a tenant activity until assuming control of Andrews Field in October 1946.
 
@@ -151,7 +151,7 @@ SAC also often maintained a tenant presence at former SAC bases that the command
 -   Homestead AFB, Florida
 -   Travis AFB, California
 
-Kee_Bird_The_Day_It_Crashed_-_19_Feb_1947.png" made an emergency landing in Greenland after a secret 1947 mission.]] 11th_Bombardment_Wing_Convair_B-36J-5-CF_Peacemaker_52-2225.jpg Convair B-36J-5-CF Peacemaker, AF Ser. No. 52-2225, circa 1955, showing "Six turnin', four burnin'".]] B-52-castleafb-1957.jpg B-52Bs at Castle AFB after the 1957 fastest round-the-world flight.]]
+" made an emergency landing in Greenland after a secret 1947 mission.]] Convair B-36J-5-CF Peacemaker, AF Ser. No. 52-2225, circa 1955, showing "Six turnin', four burnin'".]] B-52Bs at Castle AFB after the 1957 fastest round-the-world flight.]]
 
 
 Run-up to Korea and start of the Cold War
@@ -188,7 +188,7 @@ On 15 March 1953, a 38th Strategic Reconnaissance Squadron RB-50 returned fire o
 
 The Cold War and massive retaliation
 
-Titan2_color_silo.jpg missile launching from Site 395-C, a test launch silo at Vandenberg AFB.]] SAC_logo_on_B-47.jpg in Pooler, Georgia]]
+missile launching from Site 395-C, a test launch silo at Vandenberg AFB.]] in Pooler, Georgia]]
 
 SAC's first jet strategic bomber was the swept-wing B-47[28] medium bomber, which first entered service in 1951 and became operational within SAC in 1953. The B-47 was a component of the October 1953 _New Look_ strategy, which articulated, in part, that: "_...to minimize the threat [29]...the major purpose of air defense was not to shoot down enemy bombers—it was to allow SAC ...to get into the air_[--and]'' not be destroyed on the ground_[--to allow]_ massive retaliation''.".[30]
 
@@ -213,7 +213,7 @@ Despite this investment in "hardened" headquarters and command and control facil
 
 In another organizational change during this time period, SAC's fighter escort wings were transferred to Tactical Air Command (TAC) during 1957 and 1958.[41] Finally, during January 1958's EXERCISE FIR FLY, SAC "faker" aircraft (twelve B-47s) simulated bombing strikes against metropolitan areas and military installations in the United States defended by Air Defense Command's 28th Air Division.[42]
 
-Missile_Combat_Crew_on_alert.jpg at Minot Air Force Base, North Dakota]] US_Air_Force_U-2_(2139646280).jpg aircraft in June 1957. ]]
+at Minot Air Force Base, North Dakota]] aircraft in June 1957. ]]
 
 
 Nuclear missiles, aircrew readiness, airborne alert, and strategic reconnaissance
@@ -240,11 +240,11 @@ On 3 February 1961, SAC's Boeing EC-135 Looking Glass, began operations[51] as t
 
 SAC's airborne alerts during this period also included Operation Chrome Dome for the bomber and tanker force. Although ostensibly a peacetime mission, Chrome Dome placed heavy demands on flight crews and five B-52 aircraft were lost to airborne mishaps during the operation's eight-year period.
 
-Boeing_EC-135_62-3579_Ellsworth.JPEG B-58_Hustler.jpg On 11 May 1961, SAC took delivery of its first B-58 Hustler supersonic medium bomber, assigning it to the 305th Bombardment Wing at Bunker Hill AFB. Optimized for high-altitude, high-speed penetration into Soviet territory prior to Soviet advancements in high-altitude surface-to-air missiles, the B-58 was expensive to operate and inefficient at lower altitudes. Its service in SAC would be comparatively short, eventually being replaced by the FB-111 by 1970.FB-111_Formation.jpg
+On 11 May 1961, SAC took delivery of its first B-58 Hustler supersonic medium bomber, assigning it to the 305th Bombardment Wing at Bunker Hill AFB. Optimized for high-altitude, high-speed penetration into Soviet territory prior to Soviet advancements in high-altitude surface-to-air missiles, the B-58 was expensive to operate and inefficient at lower altitudes. Its service in SAC would be comparatively short, eventually being replaced by the FB-111 by 1970.
 
 After an early 1961 development by SAC of a Radar Bomb Scoring (RBS) field kit for use in the U.S. Army's Nike surface-to-air missile systems,[52] SAC aircraft flew several mock penetrations into Air Defense Command sectors in the 1961 SAGE/Missile Master test program,[53] as well as the joint SAC-NORAD Sky Shield II exercise followed by Sky Shield III on 2 September 1962.[54]
 
-Boeing_B-52D-70-BO_(SN_56-0582)_is_refueled_by_Boeing_KC-135A-BN_(SN_55-3127)_061127-F-1234S-009.jpg B-52D_dropping_bombs.jpg In 1961, following the Berlin Crisis, President John F. Kennedy increased the number of SAC aircraft on alert to 50 percent and during periods of increased tensions SAC kept some B-52 airborne in the event of a surprise attack.[55]
+In 1961, following the Berlin Crisis, President John F. Kennedy increased the number of SAC aircraft on alert to 50 percent and during periods of increased tensions SAC kept some B-52 airborne in the event of a surprise attack.[55]
 
 In 1962, SAC gained full control of the various "Q Areas" developed by Sandia Laboratories for nuclear weapon storage adjacent to Loring AFB (Site E (Maine)/Caribou AFS), Ellsworth AFB (Site F (South Dakota)/Rushmore AFS), Fairchild AFB (Site G (Washington)/Deep Creek AFS), Travis AFB (Site H (California)/Fairfield AFS), and Westover AFB (Site I (Massachusetts)/Stony Brook AFS). These adjunct sites were subsequently converted to USAF-operated and maintained weapon storage areas (WSAs) in the same manner as WSAs on other SAC bases.
 
@@ -254,7 +254,7 @@ In October 1962, a SAC BRASS KNOB mission U-2 piloted by Major Richard S. Heyser
 
 Throughout the early 1960s, the Kennedy Administration, under the aegis of Secretary of Defense McNamara, cancelled numerous SAC modernization programs. This included the Mach 3 North American B-70 Valkyrie in 1961, the GAM-87 Skybolt missile in 1962, and the Rocky Mountain Deep Underground Support Center in 1963. The B-70's demise came due to its design as a high-altitude bomber with very limited low-altitude performance, making it vulnerable to rapid advances in Soviet high altitude surface-to-air missile defense systems. The following year, Skybolt, an air-launched ballistic missile, was cancelled following numerous test failures and the perceived greater reliability of land-based and submarine-based ballistic missile systems. Although initially entering service in 1957, SAC's 2nd-generation aerial refueling aircraft, the KC-135 Stratotanker, had reached sufficient inventory numbers to allow SAC to begin divestiture of its KC-97 Stratofreighter tankers, transferring them to SAC-gained Air Force Reserve and Air National Guard units. As the KC-135 became the primary aerial tanker in active service, SAC employed the aircraft for several non-stop B-52 and KC-135 flights around the world, demonstrating that SAC no longer needed to depend on REFLEX stations at air bases in Spain and Britain.)
 
-Lockheed_SR-71_Blackbird.jpgs & U-2s deployed to the Vietnam War and conducted "Lucky Dragon" surveillance along North Vietnam and China borders (later named "Trojan Horse", "Olympic Torch", "Senior Book", and "Giant Dragon"). ]]
+s & U-2s deployed to the Vietnam War and conducted "Lucky Dragon" surveillance along North Vietnam and China borders (later named "Trojan Horse", "Olympic Torch", "Senior Book", and "Giant Dragon"). ]]
 
 
 Vietnam War and latter half of the Cold War
@@ -311,8 +311,6 @@ With the Vietnam War draw-down following the Paris Peace Treaty in 1973, reduced
 -   Wright-Patterson AFB (tenant SAC presence departed and transferred to Beale AFB; base remained with AFLC, now AFMC)
 
 In 1973, the National Emergency Airborne Command Post, or NEACP, aircraft entered SAC's inventory. Consisting of four Boeing E-4 aircraft, these highly modified Boeing 747 airframes were assigned to the 55th Strategic Reconnaissance Wing at Offutt AFB and were forward deployed as necessary to support the National Command Authority.
-
-Strategic_Air_Command_Information_cover_1975.jpg
 
 By 1975, SAC's manned bomber strength included several hundred B-52D, B-52G, B-52H and FB-111A aircraft, and "...SAC's first major exercise in 23 years" was Exercise GLOBAL SHIELD 79.[69] As for the ICBM force, SAC reached a peak strength of 1000 Minuteman II and III and 54 Titan II ICBMs on active status before seeing reductions and retirements through a combination of obsolescing systems and various arms reduction treaties with the Soviet Union.[70]
 

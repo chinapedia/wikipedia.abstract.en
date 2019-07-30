@@ -1,1 +1,0 @@
-Amalarico-rey-visigodo.png

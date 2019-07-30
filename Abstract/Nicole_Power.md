@@ -1,1 +1,0 @@
-NICOLE POWER is a Canadian musical theatre and comedic actress. Power was born in Middle Cove, Newfoundland and Labrador, Canada and is a graduate of Sheridan College's Musical Theatre program and of Second City's conservatory and is a member of Soulpepper Theatre Academy.[1]

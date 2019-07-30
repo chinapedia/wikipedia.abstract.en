@@ -1,1 +1,0 @@
-J. ALEX HALDERMAN (born 1981) is professor of Computer Science and Engineering at the University of Michigan, where he is also director of the Center for Computer Security & Society. Halderman's research focuses on computer security and privacy, with an emphasis on problems that broadly impact society and public policy.

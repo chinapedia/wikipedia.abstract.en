@@ -1,1 +1,0 @@
-EDWARD STANLEY DIXON (26 May 1894 – 13 August 1979) was an English professional football wing half and inside right who played in the Football League for Hull City, Newcastle United and Blackburn Rovers.[1][2]

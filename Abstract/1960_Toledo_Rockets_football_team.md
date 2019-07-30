@@ -1,1 +1,0 @@
-The 1960 TOLEDO ROCKETS FOOTBALL TEAM was an American football team that represented the University of Toledo in the Mid-American Conference (MAC) during the 1960 college football season. In their first season under head coach Clive Rush, the Rockets compiled a 2–7 record (0–6 against MAC opponents) and finished in seventh place in the MAC.[1][2]

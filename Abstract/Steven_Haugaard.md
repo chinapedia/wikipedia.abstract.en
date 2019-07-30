@@ -1,1 +1,0 @@
-STEVEN HAUGAARD (born April 7, 1956) is an American politician. He has served as a Republican member for the 10th district in the South Dakota House of Representatives since 2015. He was elected Speaker of the House in 2019.

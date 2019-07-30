@@ -1,1 +1,0 @@
-JAN VAN TROYEN (1610 – 1670) was a Flemish engraver and etcher. He is mainly known for the work he did for David Teniers the Younger on the illustrations for the _Theatrum Pictorium_, an publication which gave an overview of the paintings in the collection of the Archduke Leopold Wilhelm.

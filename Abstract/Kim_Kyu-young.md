@@ -1,1 +1,0 @@
-KIM KYU-YOUNG (; 1937-25 November 2015)[1] served as the Director of the Korea Scout Association from 1982 to 1991 and Regional Director of the Asia-Pacific Region of the World Scout Bureau from 1990 to 2002.

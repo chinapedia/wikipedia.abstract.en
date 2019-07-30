@@ -1,1 +1,0 @@
-HENRY MARTYN TREMLETT (1833 – March 31, 1865) was a Boston merchant prior to serving four years' active duty during the American Civil War. Tremlett began as a captain in the 20th Massachusetts Volunteer Infantry Regiment from 1861 to 1862, then as a major in 1862, and eventually a lieutenant-colonel in 1864 commanding the 39th Massachusetts Volunteer Infantry Regiment.

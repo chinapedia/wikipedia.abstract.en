@@ -1,1 +1,0 @@
-MADRID CLUB DE FÚTBOL FEMENINO (; _Madrid Women's Football Club_) is a Spanish women's football club based in San Sebastián de los Reyes, Community of Madrid, that currently plays in Primera División.

@@ -1,1 +1,0 @@
-HASSAN MAHMOOD KHANDKER is a Bangladeshi police officer who served as the 26th Inspector General of Bangladesh Police from 31 August 2010 to 30 December 2014. He was the longest serving Inspector General in Bangladesh Police's history.[1]

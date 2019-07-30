@@ -1,1 +1,0 @@
-Major-General SIR WILLIAM ERNEST VICTOR ABRAHAM CBE FGS (21 August 1897 – 6 February 1980)[1] was a British Army officer who served in India and Burma during the Second World War. He was nicknamed 'WEVA'.[2]

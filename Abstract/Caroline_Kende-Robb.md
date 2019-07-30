@@ -1,1 +1,0 @@
-Caroline_Kende-Robb_2014_(cropped).jpg CAROLINE KENDE-ROBB (born May 23, 1963, Fleetwood, England) is the Secretary General of CARE International. Prior to joining CARE in August 2018, she was the Executive Director of the Africa Progress Panel, a foundation chaired by Kofi Annan, former Secretary General of the United Nations.

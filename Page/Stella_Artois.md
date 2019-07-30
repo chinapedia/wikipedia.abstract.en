@@ -18,7 +18,7 @@ In 2012, AB InBev reduced the alcohol content of their beers for the UK market, 
 
 Production
 
-Stella_Artois_brewery_Leuven.jpg]] Stella Artois is brewed in Belgium (in the plants at Leuven and Jupille) and the United Kingdom, as well as in other countries.[12] Much of the beer exported from Europe is produced at InBev's brewery in Belgium, and packaged in the Beck's Brewery in Bremen, Germany. Stella Artois is also brewed for the Australian market by Lion.[13] In the United States, Stella Artois is imported and distributed by Anheuser-Busch.[14] For the Hungarian market, Stella Artois is also brewed in Bőcs, Hungary, by Borsod Brewery, under licence from InBev.
+]] Stella Artois is brewed in Belgium (in the plants at Leuven and Jupille) and the United Kingdom, as well as in other countries.[12] Much of the beer exported from Europe is produced at InBev's brewery in Belgium, and packaged in the Beck's Brewery in Bremen, Germany. Stella Artois is also brewed for the Australian market by Lion.[13] In the United States, Stella Artois is imported and distributed by Anheuser-Busch.[14] For the Hungarian market, Stella Artois is also brewed in Bőcs, Hungary, by Borsod Brewery, under licence from InBev.
 
 Stella Artois is available on draught and in several packaged sizes: 250 ml bottle, 275 ml bottle, 284 ml bottle, 330 ml bottle, 330 ml can, 440 ml can, 500 ml can, 660 ml bottle, 700 ml bottle, 985 ml bottle, 1 litre bottle, pint-sized can known as "La Grande Bière" (568 ml) and 6 litre PerfectDraft keg.
 

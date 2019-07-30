@@ -1,1 +1,0 @@
-_REIS_ (Turkish: ) is a 2017 Turkish biographical film about Recep Tayyip Erdoğan, the incumbent President of Turkey. It was released shortly before the constitutional referendum which aimed for a transition to an executive presidency.

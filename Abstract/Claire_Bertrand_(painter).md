@@ -1,1 +1,0 @@
-Portrait_de_Claire_Bertrand.jpg CLAIRE BERTRAND-EISENSCHITZ, also known as CLAIRE BERTRAND was a French expressionist Artist, born in Sèvres (now in the Hauts-de-Seine) in 1890, and died in 1969.[1][2] She was the wife of the painter Willy Eisenschitz, also a French painter and draftsman.

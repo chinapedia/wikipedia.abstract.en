@@ -1,1 +1,0 @@
-MELILLA ( , ,[1][2] ; [3]) is a Spanish autonomous city located on the north coast of Africa, sharing a border with Morocco, with an area of . Melilla is one of two permanently inhabited Spanish cities in mainland Africa, the other being Ceuta. It was part of the Province of Málaga until 14 March 1995, when the city's Statute of Autonomy was passed.

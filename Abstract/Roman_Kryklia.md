@@ -1,1 +1,0 @@
-ROMAN KRYKLIA (born October 11, 1991)[1] is a Ukrainian kickboxer who competes in the heavyweight division. He signed with SUPERKOMBAT in 2015 after a successful run with the Tatneft Cup promotion. He is the 2015 Superkombat World Grand Prix runner-up.

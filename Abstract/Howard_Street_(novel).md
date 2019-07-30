@@ -1,1 +1,0 @@
-_HOWARD STREET_ is a 1968 novel by Nathan C. Heard.[1][2] Howard Street was first published in 1968[3] in hard copy by Dial Press. The paperback was published the same year by Signet Books. After the first publishing in 1968, over one million copies of the book were sold.[4] _Howard Street_ was Heard's first novel, and was published "shortly before he was released from jail."[5]

@@ -10,7 +10,7 @@ On 10 August 1863, he married Maria Christina Gerhard. Their daughter, (Stéphan
 
 Style
 
-Portrait_of_Stéphane_Mallarmé_(Manet).jpg, _Portrait of Stéphane Mallarmé,_ 1876]] Mallarmé's earlier work owes a great deal to the style of Charles Baudelaire who was recognised as the forerunner of literary Symbolism.[4] Mallarmé's later _fin de siècle_ style, on the other hand, anticipates many of the fusions between poetry and the other arts that were to blossom in the next century. Most of this later work explored the relationship between content and form, between the text and the arrangement of words and spaces on the page. This is particularly evident in his last major poem, _Un coup de dés jamais n'abolira le hasard_ ('A roll of the dice will never abolish chance') of 1897.
+, _Portrait of Stéphane Mallarmé,_ 1876]] Mallarmé's earlier work owes a great deal to the style of Charles Baudelaire who was recognised as the forerunner of literary Symbolism.[4] Mallarmé's later _fin de siècle_ style, on the other hand, anticipates many of the fusions between poetry and the other arts that were to blossom in the next century. Most of this later work explored the relationship between content and form, between the text and the arrangement of words and spaces on the page. This is particularly evident in his last major poem, _Un coup de dés jamais n'abolira le hasard_ ('A roll of the dice will never abolish chance') of 1897.
 
 Some consider Mallarmé one of the French poets most difficult to translate into English.[5] The difficulty is due in part to the complex, multilayered nature of much of his work, but also to the important role that the sound of the words, rather than their meaning, plays in his poetry. When recited in French, his poems allow alternative meanings which are not evident on reading the work on the page. For example, Mallarmé's _Sonnet en '-yx_' opens with the phrase _ses purs ongles_ ('her pure nails'), whose first syllables when spoken aloud sound very similar to the words _c'est pur son_ ('it's pure sound'). Indeed, the 'pure sound' aspect of his poetry has been the subject of musical analysis and has inspired musical compositions. These phonetic ambiguities are very difficult to reproduce in a translation which must be faithful to the meaning of the words.[6]
 
@@ -21,8 +21,6 @@ General poetry
 
 Mallarmé's poetry has been the inspiration for several musical pieces, notably Claude Debussy's _Prélude à l'après-midi d'un faune_ (1894), a free interpretation of Mallarmé's poem _L'après-midi d'un faune_ (1876), which creates powerful impressions by the use of striking but isolated phrases. Maurice Ravel set Mallarmé's poetry to music in _Trois poèmes de Mallarmé_ (1913). Other composers to use his poetry in song include Darius Milhaud (_Chansons bas de Stéphane Mallarmé_, 1917) and Pierre Boulez (_Pli selon pli_, 1957–62).
 
-Mallarmé_Pan_1887.jpg
-
 Man Ray's last film, entitled _Les Mystères du Château de Dé (The Mystery of the Chateau of Dice)_ (1929), was greatly influenced by Mallarmé's work, prominently featuring the line "A roll of the dice will never abolish chance".
 
 Mallarmé is referred to extensively in the latter section of Joris-Karl Huysmans' À rebours, where Des Esseintes describes his fervour-infused enthusiasm for the poet: "These were Mallarmé's masterpieces and also ranked among the masterpieces of prose poetry, for they combined a style so magnificently that in itself it was as soothing as a melancholy incantation, an intoxicating melody, with irresistibly suggestive thoughts, the soul-throbs of a sensitive artist whose quivering nerves vibrate with an intensity that fills you with a painful ecstasy." [p. 198, Robert Baldick translation]
@@ -31,7 +29,7 @@ The critic and translator Barbara Johnson has emphasized Mallarmé's influence o
 
 Un Coup de Dés
 
-Stephane_Mallarme.jpg It has been suggested that "much of Mallarmé's work influenced the conception of hypertext, with his purposeful use of blank space and careful placement of words on the page, allowing multiple non-linear readings of the text. This becomes very apparent in his work _Un coup de dés_."[8]
+It has been suggested that "much of Mallarmé's work influenced the conception of hypertext, with his purposeful use of blank space and careful placement of words on the page, allowing multiple non-linear readings of the text. This becomes very apparent in his work _Un coup de dés_."[8]
 
 On the publishing of "Un Coup de Dés" and its mishaps after the death of Mallarmé, consult the notes and commentary of Bertrand Marchal for his edition of the complete works of Mallarmé, Volume 1, Bibliothèque de la Pléiade, Gallimard 1998. To delve more deeply, consult "Igitur, Divagations, Un Coup de Dés," edited by Bertrand Marchal with a preface by Yves Bonnefoy, nfr Poésie/Gallimard.
 
@@ -114,7 +112,7 @@ Further reading
 
 External links
 
--   -   -   -   Stéphane Mallarmé, his work in audio version Speaker_Icon.svg
+-   -   -   -   Stéphane Mallarmé, his work in audio version
 -   Rendition of _Un coup de dés_ by Michael Maranda
 -   Eric Zboya offers a graphic translation of _Un coup de dés_
 

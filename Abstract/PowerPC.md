@@ -1,1 +1,0 @@
-IBM_PowerPC601_PPC601FD-080-2_top.jpg

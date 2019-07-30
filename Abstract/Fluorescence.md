@@ -1,1 +1,0 @@
-Fluorescent_minerals_hg.jpg light.]] Adaptive-Evolution-of-Eel-Fluorescent-Proteins-from-Fatty-Acid-Binding-Proteins-Produces-Bright-pone.0140972.g001.jpg Willemite_in_natural_and_ultraviolet_light.jpg and calcite in UV light]]

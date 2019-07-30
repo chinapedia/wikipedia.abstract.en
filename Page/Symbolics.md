@@ -1,13 +1,9 @@
-3600-front.jpg
-
 SYMBOLICS refers to two companies: now-defunct computer manufacturer SYMBOLICS, INC., and a privately held company that acquired the assets of the former company and continues to sell and maintain the Open Genera Lisp system and the Macsyma computer algebra system.[1]
 
 The symbolics.com domain was originally registered on March 15, 1985,[2] making it the first .com-domain in the world. In August 2009, it was sold to napkin.com (formerly XF.com) Investments.[3]
 
 
 History
-
-X-peek.gif
 
 Symbolics, Inc.[4] was a computer manufacturer headquartered in Cambridge, Massachusetts, and later in Concord, Massachusetts, with manufacturing facilities in Chatsworth, California (a suburban section of Los Angeles). Its first CEO, chairman, and founder was Russell Noftsker.[5] Symbolics designed and manufactured a line of Lisp machines, single-user computers optimized to run the Lisp programming language. Symbolics also made significant advances in software technology, and offered one of the premier software development environments of the 1980s and 1990s, now sold commercially as Open Genera for Tru64 UNIX on the HP Alpha. The Lisp Machine was the first commercially available "workstation" (although that word had not yet been coined).
 
@@ -29,7 +25,7 @@ Symbolics felt that they no longer had sufficient control over their product. At
 
 The 3600 series
 
-Symbolics3640_Modified.JPG Symbolics-3600-on.jpg Symbolics-3670-boards.jpg In 1983, a year later than planned, Symbolics introduced the 3600 family of Lisp machines. Code-named the "L-machine" internally, the 3600 family was an innovative new design, inspired by the CADR architecture but sharing few of its implementation details. The main processor had a 36-bit word (divided up as 4 or 8 bits of tags, and 32 bits of data or 28 bits of memory address). Memory words were 44 bits, the additional 8 bits being used for error-correcting code (ECC). The instruction set was that of a stack machine. The 3600 architecture provided 4,096 hardware registers, of which half were used as a cache for the top of the control stack; the rest were used by the microcode and time-critical routines of the operating system and Lisp run-time environment. Hardware support was provided for virtual memory, which was common for machines in its class, and for garbage collection, which was unique.
+In 1983, a year later than planned, Symbolics introduced the 3600 family of Lisp machines. Code-named the "L-machine" internally, the 3600 family was an innovative new design, inspired by the CADR architecture but sharing few of its implementation details. The main processor had a 36-bit word (divided up as 4 or 8 bits of tags, and 32 bits of data or 28 bits of memory address). Memory words were 44 bits, the additional 8 bits being used for error-correcting code (ECC). The instruction set was that of a stack machine. The 3600 architecture provided 4,096 hardware registers, of which half were used as a cache for the top of the control stack; the rest were used by the microcode and time-critical routines of the operating system and Lisp run-time environment. Hardware support was provided for virtual memory, which was common for machines in its class, and for garbage collection, which was unique.
 
 The original 3600 processor was a microprogrammed design like the CADR, and was built on several large circuit boards from standard TTL integrated circuits, both features being common for commercial computers in its class at the time. CPU clock speed varied depending on the particular instruction being executed, but was typically around 5 MHz. Many Lisp primitives could be executed in a single clock cycle. Disk I/O was handled by multitasking at the microcode level. A 68000 processor (known as the "Front-End Processor", or FEP) started the main computer up, and handled the slower peripherals during normal operation. An Ethernet interface was standard equipment, replacing the Chaosnet interface of the LM-2.
 
@@ -50,8 +46,6 @@ Later versions of the 3600 architecture were implemented on custom integrated ci
 
   : 36xx machines
 
-Symbolics-keyboard.jpg
-
 The various models of the 3600 family were popular for AI research and commercial applications throughout the 1980s. The AI commercialization boom of the 1980s led directly to Symbolics' success during the decade. Symbolics computers were widely believed to be the best platform available for developing AI software. The LM-2 used a Symbolics-branded version of the complex space-cadet keyboard,[7] while later models used a simplified version (at right), known simply as the .[8] The Symbolics keyboard featured the many modifier keys used in Zmacs, notably Control/Meta/Super/Hyper in a block, but did not feature the complex symbol set of the space-cadet keyboard.
 
 Also contributing to the 3600 series' success was a line of bit-mapped graphics color video interfaces, combined with extremely powerful animation software. Symbolics' Graphics Division, headquartered in Westwood, California, a stone's throw from the major Hollywood movie and television studios, made its S-Render and S-Paint software into industry leaders in the animation business.
@@ -60,7 +54,7 @@ Symbolics developed the first workstations capable of processing HDTV quality vi
 
 Symbolics' Graphics Division was sold to Nichimen Trading Company in the early 1990s, and the S-Graphics software suite (S-Paint, S-Geometry, S-Dynamics, S-Render) ported to Franz Allegro Common Lisp on SGI and PC computers running Windows NT. Today it is sold as Mirai by Izware LLC, and continues to be used in major motion pictures (most famously in New Line Cinema's _The Lord of the Rings_), video games, and military simulations.
 
-Symbolics-3600-ports.jpg Symbolic's 3600-series computers were also used as the first front end "controller" computers for the Connection Machine massively parallel computers manufactured by Thinking Machines Inc., another MIT spinoff based in Cambridge, Massachusetts. The Connection Machine ran a parallel variant of Lisp and, initially, was used primarily by the AI community, so the Symbolics Lisp machine was a particularly good fit as a front-end machine.
+Symbolic's 3600-series computers were also used as the first front end "controller" computers for the Connection Machine massively parallel computers manufactured by Thinking Machines Inc., another MIT spinoff based in Cambridge, Massachusetts. The Connection Machine ran a parallel variant of Lisp and, initially, was used primarily by the AI community, so the Symbolics Lisp machine was a particularly good fit as a front-end machine.
 
 For a long time, the operating system didn't have a name, but was finally named "Genera" around 1984. The system included a number of advanced dialects of Lisp. Its heritage was MACLISP on the PDP-10, but it included more data types, and multiple-inheritance object-oriented programming features. This Lisp dialect was called Lisp Machine Lisp at MIT. Symbolics used the name ZetaLisp. Symbolics later wrote new software in "Symbolics Common Lisp", its version of the Common Lisp standard.
 

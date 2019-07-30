@@ -59,7 +59,7 @@ Stretching lineations may be difficult to quantify, especially in highly stretch
 
 Stereographic projections
 
-StereoprojectStructuralgeol.jpg in structural geology using an example of a fault plane and a slickenside lineation observed within the fault plane.]]
+in structural geology using an example of a fault plane and a slickenside lineation observed within the fault plane.]]
 
 Stereographic projection is a method for analyzing the nature and orientation of deformation stresses, lithological units and penetrative fabrics wherein linear and planar features (structural strike and dip readings, typically taken using a compass clinometer) passing through an imagined sphere are plotted on a two-dimensional grid projection, facilitating more holistic analysis of a set of measurements.
 

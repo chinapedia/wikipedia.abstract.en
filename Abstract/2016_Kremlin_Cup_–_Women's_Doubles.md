@@ -1,1 +1,0 @@
-Daria Kasatkina and Elena Vesnina were the defending champions, but chose not to participate together this year. Vesnina played with Ekaterina Makarova, but lost to Daria Gavrilova and Kasatkina in the first round.

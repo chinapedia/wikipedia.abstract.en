@@ -23,7 +23,7 @@ Ten years after independence, Slovenia has made tremendous progress establishing
 
 On the international front, Slovenia has advanced rapidly toward integration into the Euro-Atlantic community of nations. Invited to begin accession negotiations with the European Union in November 1998, Slovenia has achieve two of its primary foreign policy goals: membership in the EU and NATO. Slovenia also participates in the Southeast Europe Cooperation Initiative (SECI).
 
-GovernmentPalace-Ljubljana.JPG in Ljubljana.]]
+in Ljubljana.]]
 
 Slovenia remains firmly committed to achieving NATO membership in a second round of enlargement. Slovenia has been an active participant in Partnership for Peace (PfP) and has sought to demonstrate its preparedness to take on the responsibilities and burdens of membership in the Alliance. The United States looks to Slovenia to play a productive role in continuing security efforts throughout the region. It has done much– contributing to the success of IFOR, SFOR, efforts in Albania, the Republic of Macedonia, Montenegro, Kosovo, and elsewhere– and has continued to expand actively its constructive regional engagement.
 

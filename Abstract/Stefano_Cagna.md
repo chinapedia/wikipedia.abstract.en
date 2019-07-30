@@ -1,1 +1,0 @@
-STEFANO CAGNA (Ormea, December 25, 1901 - August 1, 1940) was an Italian aviator, a Brigadier General of the Italian Royal Air Force, he fought in World War II and was decorated with the gold medal for valour in memory.

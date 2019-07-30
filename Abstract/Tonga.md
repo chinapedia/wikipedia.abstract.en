@@ -1,1 +1,0 @@
-TONGA (; Tongan: [1] _Puleʻanga Fakatuʻi ʻo Tonga_), officially the KINGDOM OF TONGA, is a Polynesian sovereign state and archipelago comprising 169 islands, of which 36 are inhabited.[2] The total surface area is about scattered over of the southern Pacific Ocean. The state has a population of 100,651 people, of whom 70% reside on the main island of Tongatapu.

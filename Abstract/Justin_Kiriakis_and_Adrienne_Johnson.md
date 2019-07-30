@@ -1,1 +1,0 @@
-JUSTIN KIRIAKIS and ADRIENNE JOHNSON KIRIAKIS are fictional characters and a supercouple on the American soap opera _Days of Our Lives_. Justin is portrayed by Wally Kurth and Adrienne is portrayed by Judi Evans. The couple was originally popular from 1987 to 1991. After remaining off-screen for more than 15 years, both characters have appeared on the show off and on since 2009.

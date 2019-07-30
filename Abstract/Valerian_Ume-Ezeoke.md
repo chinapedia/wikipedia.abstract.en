@@ -1,1 +1,0 @@
-VALERIAN UME-EZEOKE (born February 14, 1993) is a former American football center. He is now a graduate assistant for the UMass Minutemen football program. He played college football at New Mexico State University.

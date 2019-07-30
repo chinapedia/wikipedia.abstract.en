@@ -1,1 +1,0 @@
-AELIA GALLA PLACIDIA (388 – 27 November 450), daughter of the Roman emperor Theodosius I, was regent to Valentinian III from 423 until his majority in 437, and a major force in Roman politics for most of her life. She was queen consort to Ataulf, king of the Visigoths from 414 until his death in 415, and briefly empress consort to Constantius III in 421.

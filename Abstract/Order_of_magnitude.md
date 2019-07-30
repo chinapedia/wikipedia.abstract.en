@@ -1,1 +1,0 @@
-Orders_of_magnitude_(english_annotations).png An ORDER OF MAGNITUDE is an approximate measure of the number of digits that a number has in the commonly-used base-ten number system. It is equal to the whole number floor of logarithm (base 10). For example, the order of magnitude of 1500 is 3, because 1500 = 1.5 × 10³.

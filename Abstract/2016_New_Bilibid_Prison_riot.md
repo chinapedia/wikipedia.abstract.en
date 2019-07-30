@@ -1,1 +1,0 @@
-A riot in New Bilibid Prison in Muntinlupa, Philippines occurred on early morning of September 28, 2016, killing one inmate and wounding three other inmates—all of whom were convicted in an illegal drug trade—and one former police officer.

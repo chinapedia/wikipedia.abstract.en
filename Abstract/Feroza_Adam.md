@@ -1,1 +1,0 @@
-FEROZA ADAM (16 August 1961 – 9 August 1994) was a South African political activist, a publicist for the African National Congress and other organizations. She was elected to Parliament in 1994, shortly before she died in a car accident.

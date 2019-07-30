@@ -1,1 +1,0 @@
-BABU is a former Indian film actor who has appeared in leading roles. After making his debut in Bharathiraja's _En Uyir Thozhan_ (1990), the actor appeared in a few more Tamil films before being paralysed following a failed stunt sequence.

@@ -1,1 +1,0 @@
-"CERASELLA" is a 1959 Canzone Napoletana song composed by Enzo Bonagura, Danpa (Dante Pinzauti) and Eros Sciorilli. The song, with a double performance by Gloria Christian and Wilma De Angelis, was presented at the seventh edition of the Festival di Napoli and then got an immediate commercial success, peaking at sixth place on the Italian hit parade.[1]

@@ -1,1 +1,0 @@
-DWIKE MITCHELL (born IVORY MITCHELL JR.; February 14, 1930 – April 7, 2013) was an American piano player and teacher. He began his career as pianist for the Lionel Hampton Orchestra before joining Willie Ruff to form The Mitchell-Ruff Duo jazz group.[1]

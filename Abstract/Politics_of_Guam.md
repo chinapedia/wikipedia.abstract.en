@@ -1,1 +1,0 @@
-Guam is a presidential representative democracy, whereby the Governor is head of government, and of a multi-party system. Guam is an organized, unincorporated territory of the United States with policy relations between Guam and the US under the jurisdiction of the Office of Insular Affairs.

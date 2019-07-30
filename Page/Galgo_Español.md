@@ -3,13 +3,11 @@ The GALGO ESPAÑOL (_Spanish galgo_) or SPANISH SIGHTHOUND is an ancient breed o
 
 Description
 
-Galgo_Español_perfil_001.jpg
-
 Appearance
 
-Spanishgalgo.jpg Galgos are similar in appearance to Greyhounds, but are distinctly different in their conformation.[2] Galgos are higher in the rear than in the front, and have flatter muscling than a Greyhound, which is characteristic of endurance runners. They also tend to be smaller, lighter in build, have longer tails and have a very long, streamlined head that gives the impression of larger ears. Their chests are not as deep as a Greyhound's and should not reach the point of the elbow.[3]
+Galgos are similar in appearance to Greyhounds, but are distinctly different in their conformation.[2] Galgos are higher in the rear than in the front, and have flatter muscling than a Greyhound, which is characteristic of endurance runners. They also tend to be smaller, lighter in build, have longer tails and have a very long, streamlined head that gives the impression of larger ears. Their chests are not as deep as a Greyhound's and should not reach the point of the elbow.[3]
 
-Galgo_à_poil_dur.JPG Unlike Greyhounds, Galgos come in two coat types: smooth and rough. The rough coat can provide extra protection from skin injuries while running in the field. They come in a variety of colors and coat patterns. Main colors are "barcino" or "atigrado" (brindle), "negro" (black), "barquillo"(golden), "tostado" (toasted), "canela" (cinnamon), "amarillo" (yellow), "rojo" (red), "blanco" (white), "berrendo" (white with patches) or "pío" (any colour with white muzzle and forehead).
+Unlike Greyhounds, Galgos come in two coat types: smooth and rough. The rough coat can provide extra protection from skin injuries while running in the field. They come in a variety of colors and coat patterns. Main colors are "barcino" or "atigrado" (brindle), "negro" (black), "barquillo"(golden), "tostado" (toasted), "canela" (cinnamon), "amarillo" (yellow), "rojo" (red), "blanco" (white), "berrendo" (white with patches) or "pío" (any colour with white muzzle and forehead).
 
 Temperament
 
@@ -17,14 +15,14 @@ Galgos have a very similar nature to Greyhounds. They are calm, quiet, gentle an
 
 Health
 
-Galgo_español_running.jpg Like many other sighthounds, Galgos are a fairly healthy breed although they are sensitive to anaesthesia. As such, proper care should be taken by the owner to ensure that the attending veterinarian is aware of this issue. Although Galgos are big dogs, their history of selection as a working sighthound, their light weight, and their anatomy keep them safe from hip dysplasia. These dogs must run regularly to keep in perfect health, combined with their characteristic tendency to sleep all the rest of the day.
+Like many other sighthounds, Galgos are a fairly healthy breed although they are sensitive to anaesthesia. As such, proper care should be taken by the owner to ensure that the attending veterinarian is aware of this issue. Although Galgos are big dogs, their history of selection as a working sighthound, their light weight, and their anatomy keep them safe from hip dysplasia. These dogs must run regularly to keep in perfect health, combined with their characteristic tendency to sleep all the rest of the day.
 
 
 History
 
 The Galgo name is probably derived from the Latin "Canis Gallicus" or "Dog from Gaul". The Spanish word for all kinds of Greyhounds - including the Galgo - is "lebrel", which means "harrier" or "dog for chasing hares", since "liebre" is Spanish for hare. We can see the same derivative in the Italian "levriero" and the French "lévrier". The first written references to an ancient Celtic sighthound, the "vertragus", in the _Cynegeticus_ of Flavius Arrianus (Arrian), Roman proconsul of Baetica in the second century, may refer to the Galgo's antecedent.
 
-Denario_de_la_Gens_Postumia_(74-73_a.C.).jpg showing a vertragus type or grayhound-like dog]]
+showing a vertragus type or grayhound-like dog]]
 
 The author Arrian, during his personal experience in Spain, describes hare hunting in a manner almost identical to that used with the Galgo nowadays in Spain, adding that it was a general Celtic tradition not related to social class. He indicates that there were not only smooth haired types of the vertragus but also rough coated ones.
 
@@ -41,7 +39,7 @@ The great esteem in which the Galgo was held is evident by the many laws of the 
 
 The fact that this dog was a significant item in a noble's will, demonstrates the great value accorded it at the time.
 
-Fresco_soriano_con_galgos_de_la_ermita_mozárabe_de_San_Baudilio.jpg, province of Soria]]
+, province of Soria]]
 
 The mural paintings at the Hermitage of San Baudelio de Berlanga, in Soria, dating from the 12th century show a hunting scene with three Galgos apparently identical to the ones that we can see today.
 
@@ -56,8 +54,6 @@ In the Renaissance Martínez del Espinar writes in his book "Arte de Ballesterí
         "there is a large variety of ways to kill these animals". (the hares) "Nevertheless, I will tell of those that are used in Spain: they hunt them with Galgos, since here there are some extremely swift ones, although some hares are as swift as them, and sometimes do get away from them. But even having run and got scared today, these hares will come back to their homes tomorrow. They know the way back. They spend the night in some quiet place: a road, a hill, a stony field. In fact they are sometimes surprised in such places by the dogs; then they run away down to the plain, and the dogs try to chase them over the flat ground. They seem to fly".
 
 The Galgo appears to have developed first in the Castillian plains, both in the north (Valladolid, Zamora, Ávila Salamanca, Segovia, Soria, Burgos and Palencia) and the south (Toledo, Cuenca, Guadalajara, Madrid and Ciudad Real) of Castilla. And, afterwards, in more southern territories: La Mancha and Andalusia. It became the typical dog type of the Spanish interior, while the bloodhound plays the same role in the coast regions.
-
-Galgo_Español_en_los_campos_castellanos.jpg
 
 The Galgo appears not only in hunting books but also in common Spanish expressions, as well as in Literature. Maybe the most famous reference is the one contained in the opening sentence of "Don Quixote de La Mancha":
 
@@ -100,7 +96,7 @@ The Galgo was used for hunting, as well as for coursing the hare in the open fie
 
 Because of its specific conditions, Spain is probably the country where sighthounds are used in greater numbers for hunting and sports than any other,, and Galgos are commonly found in any of the towns and cities of the vast area of the Spanish plains. Galgo coursing competitions in Spain generate annually in the order of sixty million euros , a calculation which refers only to those aficionados which are members of the _galgueras_ societies. This lesser group of galgueros train annually between three thousand and four thousand Galgos for participation in the various Open Field Coursing Championships. This type of testing event, where each year the most characteristic athletic winner is rewarded, seems to show that the galgueros are retrieving the more authentic type of breed that was lost years ago.
 
-Galgo_Español_fotografía_blanco_y_negro_niños.jpg Crossbreeding of the Galgo with Greyhounds for a faster racing type has stopped and has now been eradicated for several reasons: On the one hand, this hunting activity, coursing, is evolving by leaps and bounds and becoming a true sport where the killing of the hare is secondary to the beauty of the course. The hybrid Galgo loses much of that beauty, and what is increasingly valued is the purity of the Galgo Español. On the other hand, the fact that the hare is protected more than ever against gun hunters, and it is increasingly hardier due to the selection of it having lost much of its natural cover due to the increase of plowed land and proliferation of roads, it promotes coursing with Galgos that have greater endurance.
+Crossbreeding of the Galgo with Greyhounds for a faster racing type has stopped and has now been eradicated for several reasons: On the one hand, this hunting activity, coursing, is evolving by leaps and bounds and becoming a true sport where the killing of the hare is secondary to the beauty of the course. The hybrid Galgo loses much of that beauty, and what is increasingly valued is the purity of the Galgo Español. On the other hand, the fact that the hare is protected more than ever against gun hunters, and it is increasingly hardier due to the selection of it having lost much of its natural cover due to the increase of plowed land and proliferation of roads, it promotes coursing with Galgos that have greater endurance.
 
 The particular characteristics of landscape topography have a major effect, resulting in those Galgos that win for generations of coursing in Andalusia, not having the same characteristics as Galgos that win for generations of coursing in Castile.
 
@@ -112,9 +108,9 @@ Further, outside Spain, in Chile (mainly in the Central Zone), this breed is use
 
 Galgos as pets
 
-Galgo_Español_en_la_arena.JPG Due to their primary role as hunting dogs in the Spanish countryside, the Spanish Galgos are sometimes treated barely better than commodities.[6][7] However, most people know that Galgos are mistreated and abused in their native Spain. Galgueros (breeders), as they are normally called, will often select puppies from a litter that show the most propensity for hunting or racing, while abandoning the rest in the streets. The puppies that do get selected often do not live very long lives, as the galgueros often consider the dog too old to hunt once it has achieved two or three years of age-often after hunting season ends, they are either abandoned, shot, or hanged.[8] For all these reasons, many associations in defense of the Galgo have appeared with the aim to save these dogs from a terrible fate, provide much needed rehabilitation, and adoptive homes, usually in the cities. Some associations will adopt them to other locations in Europe, including France, the UK, Germany, Belgium and the Netherlands.[9][10][11]
+Due to their primary role as hunting dogs in the Spanish countryside, the Spanish Galgos are sometimes treated barely better than commodities.[6][7] However, most people know that Galgos are mistreated and abused in their native Spain. Galgueros (breeders), as they are normally called, will often select puppies from a litter that show the most propensity for hunting or racing, while abandoning the rest in the streets. The puppies that do get selected often do not live very long lives, as the galgueros often consider the dog too old to hunt once it has achieved two or three years of age-often after hunting season ends, they are either abandoned, shot, or hanged.[8] For all these reasons, many associations in defense of the Galgo have appeared with the aim to save these dogs from a terrible fate, provide much needed rehabilitation, and adoptive homes, usually in the cities. Some associations will adopt them to other locations in Europe, including France, the UK, Germany, Belgium and the Netherlands.[9][10][11]
 
-Galga_Galguitos_Galguitas.jpg Because they tend to be quiet and docile, Galgos make very nice house pets. In Spain they have a well earned reputation as gentle dogs, with sweet temperaments and solid health. They tend to get along well with people and other dogs, and they can be well-behaved around cats if properly socialized. Outside of sunny Spain, they require a warm coat to keep them warm in cold winter weather: like all greyhound type breeds, they have little body fat and short coats, so extra warmth is preferred for colder climates.
+Because they tend to be quiet and docile, Galgos make very nice house pets. In Spain they have a well earned reputation as gentle dogs, with sweet temperaments and solid health. They tend to get along well with people and other dogs, and they can be well-behaved around cats if properly socialized. Outside of sunny Spain, they require a warm coat to keep them warm in cold winter weather: like all greyhound type breeds, they have little body fat and short coats, so extra warmth is preferred for colder climates.
 
 Galgos excel at performance activities like lure coursing and racing. They are eligible to compete in lure coursing events sanctioned by the American Sighthound Field Association, entered in the Limited class. They also make very nice show dogs and have enjoyed success in the European show ring, although they are not as well known in the American show world due to their rarity outside Europe.
 

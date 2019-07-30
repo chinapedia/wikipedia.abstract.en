@@ -1,1 +1,0 @@
-Transportation in Lebanon varies greatly in quality from the ultramodern Beirut International Airport to poor road conditions in many parts of the country. The Lebanese civil war between 1975 and 1990 and the 2006 Lebanon War with Israel severely damaged the country's infrastructure.

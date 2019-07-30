@@ -1,1 +1,0 @@
-CHASE FARRIS (born April 8, 1993) is an American football offensive guard who is a free agent. He played college football at Ohio State, and was signed by the Detroit Lions as an undrafted free agent in 2016.

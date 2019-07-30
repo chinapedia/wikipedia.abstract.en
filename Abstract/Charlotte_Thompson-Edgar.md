@@ -1,1 +1,0 @@
-Wing Commander CHARLOTTE JOANNE THOMPSON-EDGAR is a British nurse. She served as the United Kingdom's Officer Commanding Medical Emergency Response Teams in Afghanistan and in 2015, while holding the rank of Squadron Leader, was awarded an Associate of the Royal Red Cross (ARRC) for her services to the Princess Mary's Royal Air Force Nursing Service.[1][2]

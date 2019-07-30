@@ -1,1 +1,0 @@
-ERTAN ADATEPE (born 1 January 1938) is a retired Turkish footballer. He played in the striker position. Ertan made one appearance for the senior Turkey national football team, in a friendly 0-0 tie with Ethiopia.[1]

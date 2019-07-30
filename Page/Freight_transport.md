@@ -1,4 +1,4 @@
-Shipping_routes_red_black.png routes illustrates the relative density of commercial shipping in the world's oceans.]]
+routes illustrates the relative density of commercial shipping in the world's oceans.]]
 
 FREIGHT TRANSPORT is the physical process of transporting commodities and merchandise goods and cargo. The term SHIPPING originally referred to transport by sea but in American English, it has been extended to refer to transport by land or air (International English: "carriage") as well. "Logistics", a term borrowed from the military environment, is also used in the same sense.
 
@@ -28,7 +28,7 @@ For example, a shipper works together with both ground and air transportation to
 
 Terms of shipment
 
-Jawaharlal_Nehru_Trust_Port.jpg, Navi Mumbai, India.]]
+, Navi Mumbai, India.]]
 
 Common trading terms used in shipping goods internationally include:
 

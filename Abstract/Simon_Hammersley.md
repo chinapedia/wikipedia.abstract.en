@@ -1,1 +1,0 @@
-SIMON HAMMERSLEY (born 20 March 1993) is an English rugby union player who plays at fullback for Newcastle Falcons in the English Premiership. He has been nicknamed "Lord Hammer of Hammershire" by BT Sport commentator Nick Mullins.

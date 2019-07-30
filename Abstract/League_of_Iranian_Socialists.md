@@ -1,1 +1,0 @@
-LEAGUE OF SOCIALISTS OF THE NATIONAL MOVEMENT OF IRAN () or SOCIETY OF IRANIAN SOCIALISTS () was a socialist nationalist party in Iran.

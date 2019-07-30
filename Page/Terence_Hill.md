@@ -18,17 +18,17 @@ He was discovered by Italian filmmaker Dino Risi at a swimming meet at the age o
 
 Career as an adult
 
-Lo_chiamavano_Trinità.png in _They Call Me Trinity_]] At one time among Italy's highest-paid actors,[7] after 27 movies in Italy, Hill secured a major film role in Luchino Visconti's _The Leopard_ (_Il Gattopardo_, 1963).
+in _They Call Me Trinity_]] At one time among Italy's highest-paid actors,[7] after 27 movies in Italy, Hill secured a major film role in Luchino Visconti's _The Leopard_ (_Il Gattopardo_, 1963).
 
 In 1964, he returned to Germany and there appeared in a series of Heimatfilme, adventure and western films, based on novels by German author Karl May.[8]
 
 In 1967, he returned to Italy to act alongside Bud Spencer in Giuseppe Colizzi's Spaghetti Western _God Forgives... I Don't!_. The first film of the "Cat Stevens and Hutch Bessy" trilogy, it was followed by _Ace High_ and _Boot Hill_. His film _Django, Prepare a Coffin_ was shot in 1968, by director Ferdinando Baldi; it co-starred Horst Frank and George Eastman (and would be featured, much later, at the 64th Venice Film Festival, in 2007).[9] For these films, the actor adopted the stage name Terence Hill, a name made up by the film producers; he had to choose from a list of twenty names and picked the one with his mother's initials. There is a persistent rumour that he took his last name, "Hill", from his wife's maiden name, but this is incorrect, for it was Zwicklbauer.
 
-Altrimenti_ci_arrabbiamo.png'']]
+'']]
 
 By this time, Hill had formed a friendship with Spencer, and the pair made a large number of films together. Their Western, action and comedy films were successful not only in Italy, but also abroad. Many of these have alternate titles, depending upon the country and distributor. Possibly their most famous film is the 1971 western _They Call Me Trinity_ and the 1972 sequel _Trinity Is Still My Name_. Hill has stated in interviews that _My Name Is Nobody_ (1973), in which he co-starred with Henry Fonda,[10] is his personal favorite of all his films.[11] His first American film roles were in _Mr. Billion_ and _March or Die_ (both 1977), after which he divided his time between Italy and the United States.[12]
 
-Despite being fluent in Italian and English, Hill was usually dubbed by other actors in both languages. In the Italian versions of his films, his voice was provided by a variety of actors until the late 1960s, where he was primarily dubbed by Sergio Graziani; from 1970 to 1983, Hill was voiced by Pino Locchi, and by Michele Gammino from 1983 to 1996. For English dubs, Hill was dubbed by Lloyd Battista in six films, including the "Cat Stevens and Hutch Bessy" trilogy, while Roger Browne dubbed him in most of his early 1970s films (_They Call Me Trinity_ to _A Genius, Two Partners and a Dupe_); from _Mr. Billion_ onward, Hill dubbed his own English voice.[13][14] Terence_Hill_in_Dresden_(20.08.2018).jpg in August 2018]]
+Despite being fluent in Italian and English, Hill was usually dubbed by other actors in both languages. In the Italian versions of his films, his voice was provided by a variety of actors until the late 1960s, where he was primarily dubbed by Sergio Graziani; from 1970 to 1983, Hill was voiced by Pino Locchi, and by Michele Gammino from 1983 to 1996. For English dubs, Hill was dubbed by Lloyd Battista in six films, including the "Cat Stevens and Hutch Bessy" trilogy, while Roger Browne dubbed him in most of his early 1970s films (_They Call Me Trinity_ to _A Genius, Two Partners and a Dupe_); from _Mr. Billion_ onward, Hill dubbed his own English voice.[13][14] in August 2018]]
 
 
 Television

@@ -1,1 +1,0 @@
-_CIRCLE OF LOVE_ is the debut studio album by the American vocal group Sister Sledge[1], released on January 29, 1975 by Atco Records.[2] Featuring Kathy Sledge on vocals, the album includes the songs "Circle of Love (Caught in the Middle)" and "Love Don't Go Through No Changes on Me". The album was described as a mix of pop and soul in a 1975 _Billboard Magazine_ review.[3]

@@ -1,1 +1,0 @@
-PETER K. WINKLER (born 1943, Los Angeles, California) is an American composer and a musicologist specializing in the theory of popular music. His compositions include both concert works and music for the theater; many of his works involve a synthesis of popular and classical styles.[1]

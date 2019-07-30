@@ -1,1 +1,0 @@
-The GARRWA people, also known as GARAWA, are an Indigenous Australian people living in the Northern Territory whose traditional lands extended from east of the McArthur River at Borroloola to Doomadgee and the Nicholson River in Queensland.

@@ -1,1 +1,0 @@
-DANIEL CLEMENT DENNETT III (born March 28, 1942) is an American philosopher, writer, and cognitive scientist whose research centers on the philosophy of mind, philosophy of science, and philosophy of biology, particularly as those fields relate to evolutionary biology and cognitive science.[1]

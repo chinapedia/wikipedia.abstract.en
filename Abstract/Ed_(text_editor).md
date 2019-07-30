@@ -1,1 +1,0 @@
-(pronounced as distinct letters, )[1] is a line editor for Unix and Unix-like operating systems. It was one of the first parts of the Unix operating system that was developed, in August 1969.[2] It remains part of the POSIX and Open Group standards for Unix-based operating systems,[3] alongside the more sophisticated full-screen editor vi.

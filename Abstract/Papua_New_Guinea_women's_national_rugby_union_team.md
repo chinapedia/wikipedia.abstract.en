@@ -1,1 +1,0 @@
-The PAPUA NEW GUINEA NATIONAL RUGBY UNION TEAM represent Papua New Guinea in the sport of rugby union. Nicknamed the Palais, (Tok Pisin for 'lizard'), they played their first international in 2016. Papua New Guinea have not so far qualified for the 2017 Women's Rugby World Cup.

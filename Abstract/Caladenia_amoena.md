@@ -1,1 +1,0 @@
-_CALADENIA AMOENA_, commonly known as the CHARMING SPIDER ORCHID, is a plant in the orchid family, Orchidaceae, and is endemic to Victoria. It is a ground orchid which grows singly or in small groups, has a single dark green, hairy leaf and a single yellowish-green flower with red stripes. It is only known from a few sites and has been classified as Endangered.

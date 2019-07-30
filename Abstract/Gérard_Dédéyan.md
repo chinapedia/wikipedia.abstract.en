@@ -1,1 +1,0 @@
-GÉRARD DÉDÉYAN (4 February 1942, Nantes[1]) is a French professor of medieval history at the Paul Valéry University, Montpellier III, a member of the Armenian National Academy of Sciences[2] and associate member of the Collège de France. He studied Classical Armenian with .[3]

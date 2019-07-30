@@ -1,1 +1,0 @@
-The '''2017 Minnesota Twins season ''' was the 57th season for the franchise in the Twin Cities of Minnesota, their eighth season at Target Field and the 117th overall in the American League. The Twins began the season on April 3 at home against the Kansas City Royals and finished the year on October 1 at home against the Detroit Tigers.

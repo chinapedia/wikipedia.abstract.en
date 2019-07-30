@@ -1,1 +1,0 @@
-_INGENIOUS ANIMALS_ is a BBC nature documentary which aired on BBC One in September 2016.[1] The series ran for four episodes and looks at various aspects of animals and how they relate to each other and the environment.

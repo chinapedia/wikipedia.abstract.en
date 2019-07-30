@@ -1,1 +1,0 @@
-The 2017 BUFFALO BILLS SEASON was the franchise's 48th season in the National Football League, and the 58th overall, and third full season under the ownership of Terry and Kim Pegula. The season was the first under the leadership of general manager Brandon Beane and head coach Sean McDermott.

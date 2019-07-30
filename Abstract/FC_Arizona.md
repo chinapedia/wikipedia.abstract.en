@@ -1,1 +1,0 @@
-{{ infobox football club | clubname = FC Arizona | image = Fcarizonalogo.jpg | image_size = 150px | caption = | fullname = Football Club Arizona | TV = | shortname = | founded = | dissolved = | stadium = Mesa High School

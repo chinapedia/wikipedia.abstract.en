@@ -1,1 +1,0 @@
-MOHAMED HASSAD (, born November 17, 1952) is a Moroccan engineer and politician, formerly serving as Minister of the Interior in the government of Abdelilah Benkirane.[1] He later served as Minister of Education before being fired in 2017.[2]

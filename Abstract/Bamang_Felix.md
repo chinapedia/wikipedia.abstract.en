@@ -1,1 +1,0 @@
-BAMANG FELIX is an Indian politician from the state of Arunachal Pradesh.[1] Felix was elected unopposed from the Nyapin seat in the 2014 Arunachal Pradesh Legislative Assembly election, standing as a National Congress party (ncp candidate.[2][3][4][5][6]

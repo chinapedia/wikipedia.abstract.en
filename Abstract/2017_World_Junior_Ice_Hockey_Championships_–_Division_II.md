@@ -1,1 +1,0 @@
-THE 2017 IIHF ICE HOCKEY U20 WORLD CHAMPIONSHIP DIVISION II were the two international ice hockey tournaments organized by the International Ice Hockey Federation. Division II A was contested in Tallinn, Estonia and Division II B in Logroño, Spain. These tournaments represent the fourth and fifth tiers of the World Junior Ice Hockey Championships.

@@ -1,1 +1,0 @@
-_FORBIDDEN MEMORY_ is a documentary on the study of memory and the policy of genocide, shedding light to the events surrounding the Malisbong Massacre of 1974. The film is directed by Gutierrez "Teng" Mangansakan III. It was shown during the 12th Cinema One Originals festival last November 2016. [1]

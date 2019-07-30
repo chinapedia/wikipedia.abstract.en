@@ -1,1 +1,0 @@
-The PEASANT REBELLION OF SOROKINO, officially called the KULAK REBELLION OF SOROKINO by the Soviet Russian authorities, was a popular uprising against the Soviet policy of war communism in what is today Altai Krai and Kemerovo Oblast.

@@ -1,1 +1,0 @@
-_YOU ARE THE FATHER!_ is the second mixtape by Detroit underground rapper Fatt Father. It was released on January 10, 2008 also as a free download album to promote his debut solo self-titled record and his collaboration with Goon Sqwad fellow rapper and producer Trick-Trick.[1]

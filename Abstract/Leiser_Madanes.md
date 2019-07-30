@@ -1,1 +1,0 @@
-Leiser_Madanes.jpg

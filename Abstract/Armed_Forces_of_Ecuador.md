@@ -1,1 +1,0 @@
-The MILITARY OF ECUADOR is under civilian control. The commander-in-chief is the President of Ecuador, currently Lenin Moreno. The military of Ecuador has been involved in border disputes with Peru (Ecuadorian–Peruvian War, Paquisha War, Cenepa War), and has provided Military Observers and troops to the United Nations since 1948.

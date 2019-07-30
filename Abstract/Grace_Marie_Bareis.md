@@ -1,1 +1,0 @@
-GRACE MARIE BAREIS (December 19, 1875 – June 15, 1962) was an American mathematician and educator who became the first person to receive a doctorate degree in mathematics from Ohio State University. Bareis was an assistant professor at Ohio State University where she taught for 40 years until her eventual retirement in 1946.[1]

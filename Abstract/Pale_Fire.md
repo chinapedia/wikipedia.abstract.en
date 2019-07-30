@@ -1,1 +1,0 @@
-_PALE FIRE_ is a 1962 novel by Vladimir Nabokov. The novel is presented as a 999-line poem titled "Pale Fire", written by the fictional poet John Shade, with a foreword, lengthy commentary and index written by Shade's neighbor and academic colleague, Charles Kinbote. Together these elements form a narrative in which both fictional authors are central characters.

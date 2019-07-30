@@ -1,6 +1,6 @@
 This article is about the demographic features of the population of Eswatini, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
-Ssa_clem_48.jpg The majority of Eswatini's population is ethnic Swazi, mixed with a small number of Zulus and white Africans, predominantly of British and Afrikaner origin. This population also includes a small segment within it that is mixed with any number of these ancestries.
+The majority of Eswatini's population is ethnic Swazi, mixed with a small number of Zulus and white Africans, predominantly of British and Afrikaner origin. This population also includes a small segment within it that is mixed with any number of these ancestries.
 
 Traditionally Swazis have been subsistence farmers and herders, but most now work in the growing urban formal economy and in government. Some Swazis work in the mines in South Africa. Eswatini also received Portuguese settlers and black refugees from Mozambique. Christianity in Eswatini is sometimes mixed with traditional beliefs and practices. Most Swazis ascribe a special spiritual role to the Swazi Royal Family.
 
@@ -9,7 +9,7 @@ The country's official languages are Siswati (a language related to Zulu) and En
 
 Population
 
-Swaziland-demography.png, year 2005 ; Number of inhabitants in thousands.]] Eswatini's population is 1,467,152 according to the 2017 estimate from the CIA World Factbook. The 2007 Census put the nation's population at 912,229. This number is lower than the 1997 Census, which gave 929,718 residents. The small difference is believed to be the result of massive emigration of Swazis to South Africa in search of work.[1]
+, year 2005 ; Number of inhabitants in thousands.]] Eswatini's population is 1,467,152 according to the 2017 estimate from the CIA World Factbook. The 2007 Census put the nation's population at 912,229. This number is lower than the 1997 Census, which gave 929,718 residents. The small difference is believed to be the result of massive emigration of Swazis to South Africa in search of work.[1]
 
 According to the 2010 revision of the World Population Prospects the total population was 1,186,000 in 2010, compared to only 273,000 in 1950. The proportion of children below the age of 15 in 2010 was 38.4%, 58.2% was between 15 and 65 years of age, while 3.4% was 65 years or older .[2]
 
@@ -125,8 +125,6 @@ Median age
     _female:_ 21.9 years (2017 est.)
 
 Age structure
-
-Swazilandpop.svg
 
     _0-14 years:_ 34.41% (male 186,747 /female 187,412)
     _15-24 years:_ 19.31% (male 99,192 /female 110,770)

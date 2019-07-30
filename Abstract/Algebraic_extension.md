@@ -1,1 +1,0 @@
-In abstract algebra, a field extension _L_/_K_ is called ALGEBRAIC if every element of _L_ is algebraic over _K_, i.e. if every element of _L_ is a root of some non-zero polynomial with coefficients in _K_. Field extensions that are not algebraic, i.e. which contain transcendental elements, are called TRANSCENDENTAL.

@@ -1,1 +1,0 @@
-WINNIPEG is an unincorporated community in eastern Laclede County, in the Ozarks of south central Missouri.[1] The community is located above Nelson Creek, approximately three miles northeast of Missouri Route 32. Falcon and Nebo are to the west and southwest respectively. Missouri Route 17 and the southwestern corner of Fort Leonard Wood are about two miles to the east.[2]

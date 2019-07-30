@@ -1,1 +1,0 @@
-ROI HUNTER is an advanced Google and Facebook marketing platform for e-commerces and online services helping them to scale Facebook and Instagram ad performance. Company operates in CEE region from headquarters in Brno, Czech Republic, having representatives in Dubai for MENA and São Paulo for LATAM region [1]

@@ -1,1 +1,0 @@
-JEAN-PAUL BRISSON (1918–2006) was a French honorary professor of Latin language and civilisation at the Paris West University Nanterre La Défense. He devoted himself particularly to the social problems of antiquity, North Africa during Antiquity and classical poets.

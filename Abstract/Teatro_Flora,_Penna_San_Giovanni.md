@@ -1,1 +1,0 @@
-The FLORA THEATER is a small 18th-century performing arts theater located in the Palazzo dei Priori in center of the town of Penna San Giovanni, province of Macerata, region of Marche, Italy. Penna_SanGiovanni_Teatro_Flora2.jpg

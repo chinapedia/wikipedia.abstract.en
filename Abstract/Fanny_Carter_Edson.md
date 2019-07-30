@@ -1,1 +1,0 @@
-FANNY CARTER EDSON (October 5, 1887 – June 10, 1952) was an American petroleum geologist, She graduated from the University of Wisconsin in 1910 and returned to further specialize in Precambrian geology, earning her Master's degree in 1913.[1][2]

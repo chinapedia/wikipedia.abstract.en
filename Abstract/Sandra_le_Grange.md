@@ -1,1 +1,0 @@
-SANDRA LE GRANGE (born 5 July 1993) is a South African female badminton player.[1][2] In 2013, she won bronze medal at the African Badminton Championships in women's doubles event with her partner Elme de Villiers.[3]

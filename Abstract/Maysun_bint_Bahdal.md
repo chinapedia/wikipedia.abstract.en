@@ -1,1 +1,0 @@
-MAYSŪN BINT BAḤDAL (ميسون بنت بحدل, d. 700), is noted as a wife of Caliph Mu‘āwiya I, and as mother of his successor and son Caliph Yazīd ibn Mu‘āwiya. In this capacity, she had a significant role in the politics of the Umayyad Caliphate.

@@ -1,1 +1,0 @@
-'''Alejandra Velasco ''' (born 23 August 1985) is a Colombian footballer who played as a goalkeeper for the Colombia women's national football team. She was part of the team at the 2011 FIFA Women's World Cup.[1] At the club level, she played for Club Deportivo Gol Star in Colombia.[2]

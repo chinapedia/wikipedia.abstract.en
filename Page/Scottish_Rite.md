@@ -1,4 +1,4 @@
-Scottish_Rite_Double_Headed_Eagle.gif.
+.
 (_The symbol most commonly associated with the Scottish Rite_)]]
 
 The ANCIENT AND ACCEPTED SCOTTISH RITE OF FREEMASONRY (the Northern Masonic Jurisdiction in the United States often omits the _and_, while the English Constitution in the United Kingdom omits the _Scottish_), commonly known as simply the SCOTTISH RITE (or, in England and Australia, as the ROSE CROIX[1] although this is only one of its degrees), is one of several Rites of Freemasonry. A Rite is a progressive series of degrees conferred by various Masonic organizations or bodies, each of which operates under the control of its own central authority. In the Scottish Rite the central authority is called a Supreme Council.
@@ -7,8 +7,6 @@ The Scottish Rite is one of the appendant bodies of Freemasonry that a Master Ma
 
 
 History
-
-Bijou_fm_18eme.jpg
 
 Legend of Jacobite origins
 
@@ -85,7 +83,7 @@ Officially, the Supreme Council, 33°, N.M.J. dates itself from May 15, 1867. Th
 
 Albert Pike
 
-Morals_and_Dogma_eagle.jpg on the cover of _Morals and Dogma_.]] Born in Boston, Massachusetts on December 29, 1809, Albert Pike is asserted within the Southern Jurisdiction as the man most responsible for the growth and success of the Scottish Rite from an obscure Masonic Rite in the mid-19th century to the international fraternity that it became. Pike received the 4th through the 32nd Degrees in March 1853[29][30] from Albert Mackey, in Charleston, South Carolina, and was appointed Deputy Inspector for Arkansas that same year.
+on the cover of _Morals and Dogma_.]] Born in Boston, Massachusetts on December 29, 1809, Albert Pike is asserted within the Southern Jurisdiction as the man most responsible for the growth and success of the Scottish Rite from an obscure Masonic Rite in the mid-19th century to the international fraternity that it became. Pike received the 4th through the 32nd Degrees in March 1853[29][30] from Albert Mackey, in Charleston, South Carolina, and was appointed Deputy Inspector for Arkansas that same year.
 
 At this point, the degrees were in a rudimentary form, and often included only a brief history and legend of each degree, as well as other brief details which usually lacked a workable ritual for their conferral. In 1855, the Supreme Council appointed a committee to prepare and compile rituals for the 4th through the 32nd Degrees. That committee was composed of Albert G. Mackey, John H. Honour, William S. Rockwell, Claude P. Samory, and Albert Pike. Of these five committee members, Pike did all the work of the committee.
 
@@ -95,7 +93,7 @@ In March 1858, Pike was elected a member of the Supreme Council for the Southern
 
 Scottish Rite Grand Archivist and Grand Historian de Hoyos[32] created the following chart of Pike's ritual revisions:
 {|class="wikitable" style="text-align:center;" !width="50"|Degrees !width="225"|When Revised |- |1-3° |1872 |- |4-14° |1861, 1870, 1883 |- |15-16° |1861, 1870, 1882 |- |17-18° |1861, 1870 |- |19-30° |1867, 1879, 1883 |- |31-32° |1867, 1879, 1883 |- |33° |1857, 1867, 1868, 1880 (manuscripts only) |- |}
-Pike also wrote lectures about all the degrees, which were published in 1871 under the title _Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry_.[33] Scottish_rite_miami.jpg, United States in Miami's Lummus Park neighborhood]]
+Pike also wrote lectures about all the degrees, which were published in 1871 under the title _Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry_.[33] , United States in Miami's Lummus Park neighborhood]]
 
 Revisions after Pike
 
@@ -238,7 +236,7 @@ The Supreme Council of the Ancient and Accepted Scottish Rite of Romania was rec
 
 United Kingdom
 
-Structure_of_Masonic_appendant_bodies_in_England_and_Wales.jpg In England and Wales, whose Supreme Council was warranted by that of the Northern Jurisdiction of the USA (in 1845),[65] the Rite is known colloquially as the "Rose Croix" or more formally as "The Ancient and Accepted Rite for England and Wales and its Districts and Chapters Overseas" (continental European jurisdictions retain the "Écossais"). England and Wales are divided into Districts, which administer the Rose Croix Chapters within their District; many degrees are conferred in name only, and degrees beyond the 18° are conferred only by the Supreme Council itself.
+In England and Wales, whose Supreme Council was warranted by that of the Northern Jurisdiction of the USA (in 1845),[65] the Rite is known colloquially as the "Rose Croix" or more formally as "The Ancient and Accepted Rite for England and Wales and its Districts and Chapters Overseas" (continental European jurisdictions retain the "Écossais"). England and Wales are divided into Districts, which administer the Rose Croix Chapters within their District; many degrees are conferred in name only, and degrees beyond the 18° are conferred only by the Supreme Council itself.
 
 All candidates for membership must profess the Trinitarian Christian faith and have been Master masons for at least one year.[66]
 
@@ -248,14 +246,14 @@ In Scotland, candidates are perfected in the 18th degree, with the preceding deg
 
 United States
 
-Indianapolis_Scottish_Rite_Cathedral.jpg]]
+]]
 
 In the United States of America there are two Supreme Councils: one in Washington, D.C. (which controls the Southern Jurisdiction), and one in Lexington, Massachusetts (which controls the Northern Masonic Jurisdiction).[68] They each have particular characteristics that make them different.
 
-  --------------------------------------------------------------------------------------
-  US_Scottish_Rite_Southern_Jurisdiction_new.png states in the Southern Jurisdiction]]
-  US_Scottish_Rite_Northern_Jurisdiction_new.png states in the Northern Jurisdiction]]
-  --------------------------------------------------------------------------------------
+  ---------------------------------------
+  states in the Southern Jurisdiction]]
+  states in the Northern Jurisdiction]]
+  ---------------------------------------
 
 In the United States, members of the Scottish Rite can be elected to receive the 33° by the Supreme Council.[69] It is conferred on members who have made major contributions to society or to Masonry in general.
 
@@ -265,7 +263,7 @@ Based in Washington, D.C., the Southern Jurisdiction (often referred to as the "
 
 In the Southern Jurisdiction of the United States, the Supreme Council consists of no more than 33 members and is presided over by a Grand Commander. Other members of the Supreme Council are called "Sovereign Grand Inspectors General" (S.G.I.G.), and each is the head of the Rite in his respective Orient (or state). Other heads of the various Orients who are not members of the Supreme Council are called "Deputies of the Supreme Council". The Supreme Council of the Southern Jurisdiction meets every odd year during the month of August at the House of the Temple, Scottish Rite of Freemasonry Southern Jurisdiction Headquarters, in Washington, D.C. During this conference, closed meetings between the Grand Commander and the S.G.I.G.'s are held, and many members of the fraternity from all over the world attend the open ceremony on the 5th of 6 council meeting days.
 
-In the Southern Jurisdiction, a member who has been a 32° Scottish Rite Mason for 46 months or more is eligible to be elected to receive the "rank and decoration" of Knight Commander of the Court of Honour (K.C.C.H.) in recognition of outstanding service. After 46 months as a K.C.C.H. he is then eligible to be elected to the 33rd degree, upon approval of the Supreme Council and Grand Commander.[73] Miami_-_Lummus_Park_Historic_District_-_Scottish_Rite_Temple_-_Daniel_Di_Palma_Photography.jpg
+In the Southern Jurisdiction, a member who has been a 32° Scottish Rite Mason for 46 months or more is eligible to be elected to receive the "rank and decoration" of Knight Commander of the Court of Honour (K.C.C.H.) in recognition of outstanding service. After 46 months as a K.C.C.H. he is then eligible to be elected to the 33rd degree, upon approval of the Supreme Council and Grand Commander.[73]
 
 Northern Jurisdiction
 

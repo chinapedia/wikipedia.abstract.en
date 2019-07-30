@@ -1,1 +1,0 @@
-HAUWA ALI (died 1995) was a Nigerian writer known for her novels exploring the lives of Muslim women and raising questions about Islamic values and women's independence. Her best-known novel, _Destiny_, won the Delta prize for fiction.

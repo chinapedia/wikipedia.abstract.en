@@ -1,1 +1,0 @@
-    _Not to be confused with the Walter Cronkite Awards for Excellence in Television Political Journalism, which are administered by the Norman Lear Center of the USC Annenberg School for Communication and Journalism._

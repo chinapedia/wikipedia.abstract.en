@@ -9,7 +9,7 @@ The biblical accounts of Saul's life are found in the Books of Samuel:
 
 House of King Saul
 
-According to the Tanakh, Saul was the son of Kish, of the family of the Matrites, and a member of the tribe of Benjamin, one of the twelve Tribes of Israel. It appears that he came from Gibeah. Julius_Kronberg_David_och_Saul_1885.jpg.]]
+According to the Tanakh, Saul was the son of Kish, of the family of the Matrites, and a member of the tribe of Benjamin, one of the twelve Tribes of Israel. It appears that he came from Gibeah. .]]
 
 Saul married Ahinoam, daughter of Ahimaaz, with whom he sired four sons (Jonathan, Abinadab, Malchishua and Ish-bosheth) and two daughters (Merab and Michal).[2]
 
@@ -23,7 +23,7 @@ The only male descendant of Saul to survive was Mephibosheth, Jonathan's lame so
 
 Anointed as king
 
-400ox (Germany and France, 1817–1902)]] The First Book of Samuel gives three accounts of Saul's rise to the throne in three successive chapters:
+(Germany and France, 1817–1902)]] The First Book of Samuel gives three accounts of Saul's rise to the throne in three successive chapters:
 
 -   Saul is sent with a servant to look for his father's strayed donkeys. Leaving his home at Gibeah, they eventually arrive at the district of Zuph, at which point Saul suggests abandoning their search. Saul's servant tells him that they happen to be near the town of Ramah, where a famous _seer_ is located, and suggests that they should consult him first. The _seer_ (later identified by the text as Samuel) offers hospitality to Saul and later anoints him in private (1 Samuel 9).[4]
 -   A popular movement having arisen to establish a centralized monarchy like other nations, Samuel assembles the people at Mizpah in Benjamin to appoint a king, fulfilling his previous promise to do so (1 Samuel 8). Samuel organises the people by tribe and by clan. Using the Urim and Thummim,[5] he selects the tribe of Benjamin, from within the tribe selecting the clan of Matri, and from them selecting Saul. After having been chosen as monarch, Saul returns to his home in Gibeah, along with a number of followers (1 Samuel 10:17-24).[6] However, some of the people are openly unhappy with the selection of Saul.
@@ -43,7 +43,7 @@ In his continuing battles with Philistines, Saul instructs his armies, by a rash
 
 Rejection
 
-Witch_of_Endor._Dore_1866.jpg by Gustave Dore.]] Saul planned a military action against the Philistines. Samuel said that he would arrive in seven days to perform the requisite rites. When a week passed with no word of Samuel, and with the Israelites growing restless, Saul prepares for battle by offering sacrifices. Samuel arrives just as Saul is finishing sacrificing and reprimands Saul for not obeying his instructions.
+by Gustave Dore.]] Saul planned a military action against the Philistines. Samuel said that he would arrive in seven days to perform the requisite rites. When a week passed with no word of Samuel, and with the Israelites growing restless, Saul prepares for battle by offering sacrifices. Samuel arrives just as Saul is finishing sacrificing and reprimands Saul for not obeying his instructions.
 
 Later Samuel instructs Saul to make war on the Amalekites and to "utterly destroy" them,[15] in fulfilment of a mandate set out :
 
@@ -53,7 +53,7 @@ Having forewarned the Kenites who were living among the Amalekites to leave, Sau
 
 Saul and David
 
-Ernst_Josephson._-_David_och_Saul.JPG]] After Samuel tells Saul that God has rejected him as king, David, a son of Jesse, from the tribe of Judah, enters the story: from this point on Saul's story is largely the account of his increasingly troubled relationship with David.
+]] After Samuel tells Saul that God has rejected him as king, David, a son of Jesse, from the tribe of Judah, enters the story: from this point on Saul's story is largely the account of his increasingly troubled relationship with David.
 
 -   Samuel heads to Bethlehem, ostensibly to offer sacrifice and invited Jesse and his sons. Dining together, Jesse's sons are brought one by one to Samuel, each being rejected; at last, Jesse sends for David, the youngest, who is tending sheep. When brought to Samuel, David is anointed by him in front of his other brothers.
 -   In , Saul is troubled by an evil spirit sent by God.[16] He requests soothing music, and a servant recommends David the son of Jesse, who is renowned for his skills as a harpist and other talents:
@@ -71,7 +71,7 @@ implying that David is the greater warrior. Saul fears David's growing popularit
 
 Saul's son Jonathan and David become close friends. Jonathan recognizes David as the rightful king, and "made a covenant with David, because he loved him as his own soul."[19] Jonathan even gives David his military clothes, symbolizing David's position as successor to Saul.
 
-Jusepe_Leonardo_001.jpeg.]] On two occasions, Saul threw a spear at David as he played the harp for Saul. David becomes increasingly successful and Saul becomes increasingly resentful. Now Saul actively plots against David. Saul offered his other daughter, Michal in marriage to David. David initially rejects this offer also, claiming he is too poor. Saul offers to accept a bride price of 100 Philistine foreskins, intending that David die in the attempt. Instead, David obtains 200 foreskins and is consequently married to Michal. Jonathan arranges a short-lived reconciliation between Saul and David and for a while David served Saul "as in times past" () until "the distressing spirit from the Lord" re-appeared. Saul sends assassins in the night, but Michal helps him escape, tricking them by placing a household idol in his bed. David flees to Jonathan, who arranges a meeting with his father. While dining with Saul, Jonathan explains David's absence, saying he has been called away to his brothers. But Saul sees through the ruse and reprimands Jonathan for protecting David, warning him that his love of David will cost him the kingdom, furiously throwing a spear at him. The next day, Jonathan meets with David and tells him Saul's intent. The two friends say their goodbyes, and David flees into the countryside. Saul later marries Michal to another man.
+.]] On two occasions, Saul threw a spear at David as he played the harp for Saul. David becomes increasingly successful and Saul becomes increasingly resentful. Now Saul actively plots against David. Saul offered his other daughter, Michal in marriage to David. David initially rejects this offer also, claiming he is too poor. Saul offers to accept a bride price of 100 Philistine foreskins, intending that David die in the attempt. Instead, David obtains 200 foreskins and is consequently married to Michal. Jonathan arranges a short-lived reconciliation between Saul and David and for a while David served Saul "as in times past" () until "the distressing spirit from the Lord" re-appeared. Saul sends assassins in the night, but Michal helps him escape, tricking them by placing a household idol in his bed. David flees to Jonathan, who arranges a meeting with his father. While dining with Saul, Jonathan explains David's absence, saying he has been called away to his brothers. But Saul sees through the ruse and reprimands Jonathan for protecting David, warning him that his love of David will cost him the kingdom, furiously throwing a spear at him. The next day, Jonathan meets with David and tells him Saul's intent. The two friends say their goodbyes, and David flees into the countryside. Saul later marries Michal to another man.
 
 Saul is later informed by his head shepherd, Doeg the Edomite, that high priest Ahimelech assisted David, giving him the sword of Goliath, which had been kept at the temple at Nob. Doeg kills Ahimelech and eighty-five other priests and Saul orders the death of the entire population of Nob.
 
@@ -82,7 +82,7 @@ David had left Nob by this point and had amassed some 300 disaffected men includ
 
 Battle of Gilboa and the death of King Saul
 
-Bataille_de_Gelboé.jpg, the protagonists depicted anachronistically with 15th Century armour]] The Philistines make war again, assembling at Shunem, and Saul leads his army to face them at Mount Gilboa. Before the battle he goes to consult a medium or witch at Endor. The medium, unaware of his identity, reminds him that the king has made witchcraft a capital offence, but he assures her that Saul will not harm her. She conjures the spirit of the prophet Samuel, who before his death had prophesied that he would lose the kingdom. Samuel tells him that God has fully rejected him, will no longer hear his prayers, has given the kingdom to David and that the next day he will lose both the battle and his life. Saul collapses in fear, and the medium restores him with food in anticipation of the next day's battle.
+, the protagonists depicted anachronistically with 15th Century armour]] The Philistines make war again, assembling at Shunem, and Saul leads his army to face them at Mount Gilboa. Before the battle he goes to consult a medium or witch at Endor. The medium, unaware of his identity, reminds him that the king has made witchcraft a capital offence, but he assures her that Saul will not harm her. She conjures the spirit of the prophet Samuel, who before his death had prophesied that he would lose the kingdom. Samuel tells him that God has fully rejected him, will no longer hear his prayers, has given the kingdom to David and that the next day he will lose both the battle and his life. Saul collapses in fear, and the medium restores him with food in anticipation of the next day's battle.
 
 1 Samuel and 2 Samuel give conflicting accounts of Saul's death. In 1 Samuel, and in a parallel account in 1 Chronicles 10, as the defeated Israelites flee, Saul asks his armour bearer to kill him, but he refuses, and so Saul falls upon his own sword. In 2 Samuel, an Amalekite tells David he found Saul leaning on his spear after the battle and delivered the _coup de grâce_. David has the Amalekite put to death for accusing himself of killing the anointed king.
 

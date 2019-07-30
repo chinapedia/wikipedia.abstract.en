@@ -1,1 +1,0 @@
-CHOLUPICE () a village in the south of Prague and a cadastral subdivision of Prague 12. There are 18 streets and 165 addresses registered, and a population of around 600. The Outer Ring Road passes just south of the village, and to the south-west there is a recreational airport. The Cholupice Cemetery lies to the east.

@@ -1,1 +1,0 @@
-_WASTELAND 3_ is an upcoming role-playing video game developed by inXile Entertainment. It is a sequel to _Wasteland 2_ and it is set to be released for Microsoft Windows, macOS, Linux, PlayStation 4 and Xbox One in early 2020.

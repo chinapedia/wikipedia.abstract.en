@@ -1,1 +1,0 @@
-ʿUMAYR IBN AL-ḤUBĀB AL-SULAMĪ (died 689) was a chieftain of the Banu Sulaym tribe, an erstwhile Umayyad general and a main leader of the Qaysi tribes in the factional wars with the Banu Kalb and Taghlib.

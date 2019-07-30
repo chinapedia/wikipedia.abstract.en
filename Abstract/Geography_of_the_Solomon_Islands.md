@@ -1,1 +1,0 @@
-Solomon_Islands_1989.jpg

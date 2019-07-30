@@ -1,1 +1,0 @@
-RUPTURE: LIVING WITH MY BROKEN BRAIN is a 2012 United Kingdom documentary film created by former actress Maryam d'Abo, directed by Hugh Hudson and narrated by Nigel Havers. The film follows the experiences of d'Abo and others as they deal with the repercussions of various forms of brain damage.[1]

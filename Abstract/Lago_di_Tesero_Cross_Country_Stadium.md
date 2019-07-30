@@ -1,1 +1,0 @@
-The LAGO DI TÉSERO CROSS COUNTRY STADIUM (in italian: _Stadio del fondo di Lago di Tesero_) is a sport venue located in the village of Lago, in the municipality of Tésero (Fiemme Valley), in Trentino, northern Italy.[1] It will host cross-country skiing and nordic combined for the 2026 Winter Olympics.

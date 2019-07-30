@@ -1,1 +1,0 @@
-is the administrative centre of Farsund municipality in Vest-Agder county, Norway. The town is located near the mouth of the Lyngdalsfjorden, about east of the village of Vanse. The town has a population (2015) of 3,265 which gives the town a population density of .[1][2] Frelserens Church is the main church for the town.

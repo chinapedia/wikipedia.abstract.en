@@ -1,1 +1,0 @@
-Le PRIX ÈVE-DELACROIX is one of the prizes bestowed by the Académie française. The award which was established in 1977 by the Ève-Delacroix foundation[1] is intended "for the author of a work (essay or novel) combining literary qualities with the meaning of the dignity of man and the responsibilities of the writer".[2]

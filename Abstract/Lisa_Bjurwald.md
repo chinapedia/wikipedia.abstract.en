@@ -1,1 +1,0 @@
-LISA BJURWALD (born 24 December 1978) is a Swedish journalist and writer. She has worked for _Expo_ between 2006 and 2011, she was editorial writer for Svenska Dagbladet in 2007 and Dagens Nyheter between 2008 and 2009. She has also been a writer for Expressen newspaper. As of 2016 she is part-owner and Chairman of the Board for Medievärlden.

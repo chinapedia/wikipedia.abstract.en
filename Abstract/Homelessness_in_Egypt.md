@@ -1,1 +1,0 @@
-HOMELESSNESS IN EGYPT is a significant social issue affecting some 12 million people in the country. Egypt has over 1,200 areas designated for irregular dwellings that do not conform to standard building laws, allowing homeless people to build shacks and other shelters for themselves.[1]

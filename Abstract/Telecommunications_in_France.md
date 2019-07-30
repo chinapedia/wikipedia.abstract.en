@@ -1,1 +1,0 @@
-TELECOMMUNICATIONS IN FRANCE is highly developed. France is served by an extensive system of automatic telephone exchanges connected by modern networks of fiber-optic cable, coaxial cable, microwave radio relay, and a domestic satellite system; cellular telephone service is widely available, expanding rapidly, and includes roaming service to foreign countries.

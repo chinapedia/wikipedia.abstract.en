@@ -1,1 +1,0 @@
-_CHANGE WILL COME_ was recorded at Record Plant Studio in NYC where Elliott Murphy had recorded his first album Aquashow. Murphy worked with producer James A. Ball and featured special guest vocalist Shawn Colvin[1] and Jim Babjak of The Smithereens on 12 String Guitar.

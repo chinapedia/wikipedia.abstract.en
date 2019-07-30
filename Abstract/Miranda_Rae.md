@@ -1,1 +1,0 @@
-MIRANDA RAE (born UK) is a British radio DJ, best known for her pioneering show on Galaxy Radio & Radio 5, Ujima Radio, and Soul Train Radio.[1] She was the first full-time female radio presenter on UK radio.

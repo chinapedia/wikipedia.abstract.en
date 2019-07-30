@@ -1,1 +1,0 @@
-JENS HVASS (8. April 1898 - 23. February 1996) served as the Camp Chief of the 2nd World Scout Jamboree, held from August 9 to 17, 1924 at Ermelunden, Denmark, and was later a state forester and Divisional Scout Commissioner in Rold Skov, North Jutland,[1] where a jamboree-square can still be found near the Great Økssø.

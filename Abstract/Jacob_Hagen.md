@@ -1,1 +1,0 @@
-JACOB HAGEN (29 January 1809 – 24 January 1870) was a businessman involved in many business ventures in the colony of South Australia. He served in the Legislative Council from September 1843 to February 1851.

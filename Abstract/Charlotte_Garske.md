@@ -1,1 +1,0 @@
-CHARLOTTE "LOTTE" GARSKE (born CHARLOTTE SCHAEPE: 4 December 1906 - 16 December 1943) was a German political activist who resisted the country's Nazi Government. She was executed in Berlin on 16 December 1943.[1][2]

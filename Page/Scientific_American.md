@@ -25,8 +25,6 @@ From 1902 to 1911, _Scientific American_ supervised the publication of the _Ency
 
 First issue
 
-Scientific_American_-_Series_1_-_Volume_001_-_Issue_01.pdfSciAmer.gif
-
 It originally styled itself "The Advocate of Industry and Enterprise" and "Journal of Mechanical and other Improvements". On the front page of the first issue was the engraving of "Improved Rail-Road Cars". The masthead had a commentary as follows:
 
 The commentary under the illustration gives the flavor of its style at the time:
@@ -44,8 +42,6 @@ Editors
 -   Jonathan Piel, sixth editor June 1984 through August 1994
 -   John Rennie, seventh editor-in-chief, 1994–2009
 -   Mariette DiChristina, eighth editor-in-chief, appointed December 2009
-
-Scientific_American_Special_Navy_Supplement_-_1898.jpg
 
 
 Special issues

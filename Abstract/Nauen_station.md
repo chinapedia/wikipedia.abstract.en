@@ -1,1 +1,0 @@
-NAUEN STATION () is a railway station[1] in the town of Nauen, Brandenburg, Germany. The station lies on the Berlin–Hamburg railway and the train services are operated by Deutsche Bahn and Ostdeutsche Eisenbahn.

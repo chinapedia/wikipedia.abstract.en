@@ -13,7 +13,7 @@ Uses
 
 Medicine
 
-Salicylic_acid_pads.jpg pads soaked in salicylic acid can be used to chemically exfoliate skin]] Salicylic acid as a medication is used most commonly to help remove the outer layer of the skin.[9] As such, it is used to treat warts, psoriasis, acne, ringworm, dandruff, and ichthyosis.[10][11]
+pads soaked in salicylic acid can be used to chemically exfoliate skin]] Salicylic acid as a medication is used most commonly to help remove the outer layer of the skin.[9] As such, it is used to treat warts, psoriasis, acne, ringworm, dandruff, and ichthyosis.[10][11]
 
 Similar to other hydroxy acids, salicylic acid is a key ingredient in many skincare products for the treatment of seborrhoeic dermatitis, acne, psoriasis, calluses, corns, keratosis pilaris, acanthosis nigricans, ichthyosis and warts.[12]
 
@@ -60,14 +60,14 @@ Salicylic acid is biosynthesized from the amino acid phenylalanine. In _Arabidop
 
 Sodium salicylate is commercially prepared by treating sodium phenolate (the sodium salt of phenol) with carbon dioxide at high pressure (100 atm) and high temperature (390 K) – a method known as the Kolbe-Schmitt reaction. Acidification of the product with sulfuric acid gives salicylic acid:
 
-    Salicylic-Acid_General_Synthesis_V.2.svg
+
 
 It can also be prepared by the hydrolysis of aspirin (acetylsalicylic acid)[23] or methyl salicylate (oil of wintergreen) with a strong acid or base.
 
 
 History
 
-Thomé_Salix_alba_clean.jpg'') is a natural source of salicylic acid]]
+'') is a natural source of salicylic acid]]
 
 Hippocrates, Galen, Pliny the Elder and others knew that willow bark could ease pain and reduce fevers.[24] It was used in Europe and China to treat these conditions.[25] This remedy is mentioned in texts from ancient Egypt, Sumer and Assyria.[26] The Cherokee and other Native Americans use an infusion of the bark for fever and other medicinal purposes.[27]
 

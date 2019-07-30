@@ -1,1 +1,0 @@
-DAVIT ASKURAVA (; born 29 July 1990)[1] is a Georgian male track cyclist, representing Georgia at international competitions. He competed at the 2016 UEC European Track Championships in the 1 km time trial event.[2]

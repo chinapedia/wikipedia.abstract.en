@@ -1,1 +1,0 @@
-The SZCZECIN–ŚWINOUJŚCIE RAILWAY is a Polish 100-kilometre long railway line, that connects Szczecin with the port in Świnoujście. The railway is part of European TEN-T route E59 from Scandinavia to Vienna, Budapest and Prague. For this reason the classification of the PLK line is also in the "first-class" category.

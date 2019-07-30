@@ -1,1 +1,0 @@
-A PROVERB (from ) is a simple, concrete, traditional saying that expresses a truth based on common sense or experience. Proverbs are often metaphorical and use formulaic language. Collectively, they form a genre of folklore.

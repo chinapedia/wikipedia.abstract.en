@@ -1,1 +1,0 @@
-The BOOK OF EXODUS, the second book of the Torah and of the Bible, tells the founding myth of the Israelites' deliverance from slavery in Egypt through the hand of Yahweh their god, the revelations at biblical Mount Sinai, and the "divine indwelling" of God with Israel which follows.[1]

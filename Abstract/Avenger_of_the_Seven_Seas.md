@@ -1,1 +1,0 @@
-_AVENGER OF THE SEVEN SEAS_ (, ), also known as _THE EXECUTIONER OF THE SEAS_, is a 1962 Italian epic adventure film directed by Domenico Paolella and starring Richard Harrison and Michèle Mercier.[1]

@@ -1,1 +1,0 @@
-MOTORCYCLE SPORT is a broad field that encompasses all sporting aspects of motorcycling. The disciplines are not all races or timed-speed events, as several disciplines test a competitor's various riding skills.

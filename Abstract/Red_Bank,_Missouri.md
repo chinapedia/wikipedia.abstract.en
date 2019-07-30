@@ -1,1 +1,0 @@
-Red_Bank_store.jpg REDBANK (also spelled RED BANK) is an unincorporated community in western Douglas County, Missouri.[1] Redbank is located on Missouri State Route O at its junction with Route NN to the west. The community of Arden is to the north and Goodhope is to the south along Route O and Merritt lies to the southwest along Route T.[2]

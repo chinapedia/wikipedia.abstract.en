@@ -5,7 +5,7 @@ As well as the Telefónica brand, it also trades as Movistar, O2 and Vivo. The c
 
 History
 
-Telefonica_1984.png The company was created in Madrid in 1924 as COMPAÑÍA TELEFÓNICA NACIONAL DE ESPAÑA (CTNE) with ITT as one of its major shareholders.[4] Until the liberalisation of the telecom market in 1997,[5] Telefónica was the only telephone operator in Spain and still holds a dominant position (over 75% in 2000).[6] Since 1997, the Spanish government has privatized its interest in the company.
+The company was created in Madrid in 1924 as COMPAÑÍA TELEFÓNICA NACIONAL DE ESPAÑA (CTNE) with ITT as one of its major shareholders.[4] Until the liberalisation of the telecom market in 1997,[5] Telefónica was the only telephone operator in Spain and still holds a dominant position (over 75% in 2000).[6] Since 1997, the Spanish government has privatized its interest in the company.
 
 
 Ownership
@@ -21,7 +21,7 @@ Telefónica is a 100% listed company with more than 1.5 million direct sharehold
 
 Current operations
 
-A map highlighting Telefónica's global operations. Telefonica_Tower.jpg]]
+]]
 
 Europe
 

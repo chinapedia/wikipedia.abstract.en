@@ -1,1 +1,0 @@
-The GEORGE TOWN FESTIVAL is an annual cultural festival held within the city of George Town in Penang, Malaysia. The 16-day arts festival will take place from 13 - 28 July this year throughout the city.

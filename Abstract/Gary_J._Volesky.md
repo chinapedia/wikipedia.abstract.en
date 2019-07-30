@@ -1,1 +1,0 @@
-GARY J. VOLESKY (born September 7, 1961) is a United States Army lieutenant general who serves as commander of I Corps. He previously served as commander of the 101st Airborne Division and commander of the American ground forces in Iraq as part of Combined Joint Task Force – Operation Inherent Resolve.[1]

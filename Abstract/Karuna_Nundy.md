@@ -1,1 +1,0 @@
-KARUNA NUNDY is an Indian lawyer.[1][2][3] She was included by an _Economic Times_ jury in a list of 'Corporate India's Fastest Rising Women Leaders' which cited her as being 'famous in the corporate world for her expertise in commercial law'.[4][5]

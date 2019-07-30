@@ -1,1 +1,0 @@
-_COURTIN' WILDCATS_ is a 1929 comedy-western film directed by Jerome Storm and produced by and starring Hoot Gibson. It is based on the short story "Courtin' Calamity" by William Dudley Pelley. It was distributed through the Universal Pictures. The film was a hybrid type with part talking and part music/soundeffects sequences.[1][2]

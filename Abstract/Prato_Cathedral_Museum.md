@@ -1,1 +1,0 @@
-The CATHEDRAL MUSEUM OF PRATO, ITALY was founded in 1967 in a few rooms of the Bishop's residence and in 1976 grew to include items from both the Cathedral of Saint Stephen and the diocesan territory.

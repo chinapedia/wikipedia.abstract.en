@@ -1,1 +1,0 @@
-ORHAN GAZI (; ) (c. 1281 – March 1362) was the second bey of the nascent Ottoman Sultanate (then known as the Ottoman Beylik or Emirate) from 1323/4 to 1362. He was born in Söğüt, as the son of Osman Gazi and Malhun Hatun. His grandfather was Ertuğrul.

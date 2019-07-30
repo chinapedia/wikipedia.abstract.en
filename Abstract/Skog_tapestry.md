@@ -1,1 +1,0 @@
-Skogbonaden.jpg Eric_I_of_Denmark,_Magnus_III_of_Norway_&_Ingold_the_Elder_of_Sweden_(allegedly)_12th_century.jpg The SKOG TAPESTRY ( or _Skogtapeten_) is a medieval textile work of art which was discovered in Skog Church in Sweden in 1912. Its subject matter remains a matter of discussion. The tapestry is presently housed in the Swedish History Museum in Stockholm.

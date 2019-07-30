@@ -1,1 +1,0 @@
-DAVID HAUGHTON (born August 1, 1991) is an American professional basketball player for the Rethymno Cretan Kings of the Greek Basket League. He played college basketball for Sullivan County Community College and Purchase State. Haughton entered the 2014 NBA draft, but was not selected in the draft's two rounds.

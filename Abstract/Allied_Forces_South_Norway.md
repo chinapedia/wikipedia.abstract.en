@@ -1,1 +1,0 @@
-ALLIED FORCES SOUTH NORWAY (SONOR) was a NATO command tasked with the defense of Southern Norway. SONOR's area of responsibility included all of Norway with the adjacent sea territory excluding the three northernmost counties of Norway, which were under Allied Forces North Norway.

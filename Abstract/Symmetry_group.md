@@ -1,1 +1,0 @@
-Tetrahedral_group_2.svg is invariant under 12 distinct rotations, reflections excluded. These are illustrated here in the cycle graph format, along with the 180° edge (blue arrows) and 120° vertex (reddish arrows) rotations that permute the tetrahedron through the positions. The 12 rotations form the ROTATION (SYMMETRY) GROUP of the figure.]]

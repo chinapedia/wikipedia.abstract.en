@@ -1,1 +1,0 @@
-EMILIO DUHART HAROSTEGUY (1917, Temuco - January 2, 2006, Ustaritz, Labort)[1] was a Chilean architect, representative of modern architecture and considered to be one of the most relevant urbanists of the 20th century.[2]

@@ -1,1 +1,0 @@
-REGIONAL ELECTIONS were held in the Czech Republic to elect the Regional Councils of 13 regions (all except Prague) on 5–6 November 2004.[1][2] They were won by Civic Democratic Party (ODS), whilst the ruling Czech Social Democratic Party (ČSSD) was heavily defeated, finishing third.[3][4]

@@ -1,1 +1,0 @@
-KIMBERLEY JANE ELIZABETH KITCHING[1] (born 16 February 1970)[2] is an Australian politician and former lawyer and trade unionist. She has been a Senator for Victoria since October 2016, representing the Labor Party.

@@ -1,1 +1,0 @@
-NGUYỄN THỊ LỆ DUNG (born September 9, 1985) is a Vietnamese fencer. She competed at the 2016 Summer Olympics in the women's sabre event, in which she was eliminated in the round of 32 by Kim Ji-yeon.[1][2]

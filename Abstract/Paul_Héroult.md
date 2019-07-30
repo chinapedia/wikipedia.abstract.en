@@ -1,1 +1,0 @@
-Thury_harcourt_Heroult.jpg

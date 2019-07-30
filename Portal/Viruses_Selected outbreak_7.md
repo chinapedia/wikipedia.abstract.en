@@ -1,0 +1,5 @@
+Palm_civet_on_tree_(detail).jpg
+
+In the SEVERE ACUTE RESPIRATORY SYNDROME (SARS) OUTBREAK, the first cases of the newly emerged SARS coronavirus were reported in November 2002 from the Chinese Guangdong province. The virus soon spread across Asia, with China, Hong Kong, Taiwan and Singapore being the worst affected countries; a secondary outbreak occurred in Canada. Over 8,000 people were infected, with nearly 10% dying. Those over 50 years had a much higher mortality rate, approaching half. The outbreak was contained by July 2003.
+
+The immediate source of SARS coronavirus is likely to have been the masked palm civet (_Paguma larvata_), which was sold as food in Guangdong markets. The virus was also found in raccoon dogs, ferret badgers and domestic cats, and closely related coronaviruses have been isolated from bats, which probably form the natural reservoir. The rapid initial spread of the outbreak has been in part attributed to China's slow response to the early cases.

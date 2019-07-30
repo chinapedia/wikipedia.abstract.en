@@ -1,1 +1,0 @@
-PRICKETT–GROOMS FIELD, is a privately owned public use airport located 1 mile (2 km) northeast of the central business district of Sidnaw, Michigan, a community in Houghton County, Michigan, United States.[1]

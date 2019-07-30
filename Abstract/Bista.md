@@ -1,1 +1,0 @@
-BISTA () is a family name of people of Nepal belonging to Khas people[1] group under the caste Chhetri,[2][3] sub-groups of Kshatriya varna. They are Hindu with a local Masto deity. They speak Nepali language as mother tongue. In India Bista/Bistas are spelled as Bisht/Bishts or Bist/Bists and are titled as Rajputs. They are mostly found in Indian state of Uttarakhand.[4][5]

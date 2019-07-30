@@ -38,7 +38,7 @@ Distinct contrasts between the interior and the coastal areas of Turkey are mani
 
 Black Sea Region
 
-Uzungöl_lake_and_town.jpg near Trabzon]]
+near Trabzon]]
 
 The Black Sea region has a steep, rocky coast with rivers that cascade through the gorges of the coastal ranges. A few larger rivers, those cutting back through the Pontic Mountains (_Doğu Karadeniz Dağları_), have tributaries that flow in broad, elevated basins. Access inland from the coast is limited to a few narrow valleys because mountain ridges, with elevations of 1,525 to 1,800 meters in the west and 3,000 to 4,000 meters in the east in Kaçkar Mountains, form an almost unbroken wall separating the coast from the interior. The higher slopes facing northwest tend to be densely forested. Because of these natural conditions, the Black Sea coast historically has been isolated from Anatolia.
 
@@ -48,7 +48,7 @@ The North Anatolian Mountains in the north are an interrupted chain of folded hi
 
 Marmara Region
 
-View_of_Bursa_from_the_hills_of_Mount_Uludag.jpg from the hills near Mount Uludağ, the ancient Mysian Olympus]]
+from the hills near Mount Uludağ, the ancient Mysian Olympus]]
 
 The European portion of Turkey consists mainly of rolling plateau country well suited to agriculture. It receives about 520 millimeters of rainfall annually.
 
@@ -58,7 +58,7 @@ The most important valleys are the Kocaeli Valley, the Bursa Ovası (Bursa Basin
 
 Aegean Region
 
-Marmaris_TURKEY.JPG on the Turkish Riviera.]]
+on the Turkish Riviera.]]
 
 Located on the western side of Anatolia, the Aegean region has a fertile soil and a typically Mediterranean climate; with mild, wet winters and hot, dry summers. The broad, cultivated valley lowlands contain about half of the country's richest farmlands.
 
@@ -70,7 +70,7 @@ The region also has many important centers of tourism which are known both for t
 
 Mediterranean Region
 
-1362643.jpg near Antalya on the Turkish Riviera]]
+near Antalya on the Turkish Riviera]]
 
 Toward the east, the extensive Çukurova Plain (historically known as the Cilician Plain) around Adana, Turkey's fifth most populous city, consist largely of reclaimed flood lands. In general, rivers have not cut valleys to the sea in the western part of the region. Historically, movement inland from the western Mediterranean coast was difficult. East of Adana, much of the coastal plain has limestone features such as collapsed caverns and sinkholes. Between Adana and Antalya, the Taurus Mountains rise sharply from the coast to high elevations. Other than Adana, Antalya, and Mersin, the Mediterranean coast has few major cities, although it has numerous farming villages.
 
@@ -78,7 +78,7 @@ Paralleling the Mediterranean coast, the Taurus Mountains () are Turkey's second
 
 Central Anatolia Region
 
-Erciyes_Dagi.jpg near Kayseri]]
+near Kayseri]]
 
 Stretching inland from the Aegean coastal plain, the Central Anatolia Region occupies the area between the two zones of the folded mountains, extending east to the point where the two ranges converge. The plateau-like, semi-arid highlands of Anatolia are considered the heartland of the country. The region varies in elevation from 600 to 1,200 meters from west to east. The two largest basins on the plateau are the _Konya Ovası_ and the basin occupied by the large salt lake, Tuz Gölü. Both basins are characterized by inland drainage. Wooded areas are confined to the northwest and northeast of the plateau. Rain-fed cultivation is widespread, with wheat being the principal crop. Irrigated agriculture is restricted to the areas surrounding rivers and wherever sufficient underground water is available. Important irrigated crops include barley, corn, cotton, various fruits, grapes, opium poppies, sugar beets, roses, and tobacco. There also is extensive grazing throughout the plateau.
 
@@ -88,7 +88,7 @@ Frequently interspersed throughout the folded mountains, and also situated on th
 
 Eastern Anatolia Region
 
-MountArarat.jpg]]
+]]
 
 Eastern Anatolia, where the Pontic and Anti-Taurus mountain ranges converge, is rugged country with higher elevations, a more severe climate, and greater precipitation than are found on the Anatolian Plateau. The western part of the Eastern Anatolia Region is known as the Anti-Taurus, where the average elevation of mountain peaks exceed 3,000 meters; while the eastern part of the region was historically known as the Armenian Highland and includes Mount Ararat, the highest point in Turkey at 5,137 meters. Many of the East Anatolian peaks apparently are recently extinct volcanoes, to judge from extensive green lava flows. Turkey's largest lake, Lake Van, is situated in the mountains at an elevation of 1,546 meters. The headwaters of three major rivers arise in the Anti-Taurus: the east-flowing Aras, which pours into the Caspian Sea; the south-flowing Euphrates; and the south-flowing Tigris, which eventually joins the Euphrates in Iraq before emptying into the Persian Gulf. Several small streams that empty into the Black Sea or landlocked Lake Van also originate in these mountains.
 
@@ -101,21 +101,17 @@ Southeast Anatolia is south of the Anti-Taurus Mountains. It is a region of roll
 
 Geology
 
-Turkey_topo.jpg
-
 Turkey's varied landscapes are the product of a wide variety of tectonic processes that have shaped Anatolia over millions of years and continue today as evidenced by frequent earthquakes and occasional volcanic eruptions. Except for a relatively small portion of its territory along the Syrian border that is a continuation of the Arabian Platform, Turkey geologically is part of the great Alpide belt that extends from the Atlantic Ocean to the Himalaya Mountains. This belt was formed during the Paleogene Period, as the Arabian, African, and Indian continental plates began to collide with the Eurasian plate. This process is still at work today as the African Plate converges with the Eurasian Plate and the Anatolian Plate escapes towards the west and southwest along strike-slip faults. These are the North Anatolian Fault Zone, which forms the present day plate boundary of Eurasia near the Black Sea coast, and the East Anatolian Fault Zone, which forms part of the boundary of the North Arabian Plate in the southeast. As a result, Turkey lies on one of the world's seismically most active regions.
 
 However, many of the rocks exposed in Turkey were formed long before this process began. Turkey contains outcrops of Precambrian rocks, (more than 520 million years old; Bozkurt et al., 2000). The earliest geological history of Turkey is poorly understood, partly because of the problem of reconstructing how the region has been tectonically assembled by plate motions. Turkey can be thought of as a collage of different pieces (possibly terranes) of ancient continental and oceanic lithosphere stuck together by younger igneous, volcanic and sedimentary rocks.
 
-Istanbul_and_Bosporus_big.jpg and the Bosphorus]]
+and the Bosphorus]]
 
 During the Mesozoic era (about 250 to 66 million years ago) a large ocean (Tethys Ocean), floored by oceanic lithosphere existed in-between the supercontinents of Gondwana and Laurasia (which lay to the south and north respectively; Robertson & Dixon, 2006). This large oceanic plate was consumed at subduction zones (see subduction zone). At the subduction trenches the sedimentary rock layers that were deposited within the prehistoric Tethys Ocean buckled, were folded, faulted and tectonically mixed with huge blocks of crystalline basement rocks of the oceanic lithosphere. These blocks form a very complex mixture or mélange of rocks that include mainly serpentinite, basalt, dolerite and chert (e.g. Bergougnan, 1975). The Eurasian margin, now preserved in the Pontides (the Pontic Mountains along the Black Sea coast), is thought to have been geologically similar to the Western Pacific region today (e.g. Rice et al., 2006). Volcanic arcs (see volcanic arc) and backarc basins (see back-arc basin) formed and were emplaced onto Eurasia as ophiolites (see ophiolite) as they collided with microcontinents (literally relatively small plates of continental lithosphere; e.g. Ustaomer and Robertson, 1997). These microcontinents had been pulled away from the Gondwanan continent further south. Turkey is therefore made up from several different prehistorical microcontinents.
 
 During the Cenozoic folding, faulting and uplifting, accompanied by volcanic activity and intrusion of igneous rocks was related to major continental collision between the larger Arabian and Eurasian plates (e.g. Robertson & Dixon, 1984).
 
 Present-day earthquakes range from barely perceptible tremors to major movements measuring five or higher on the open-ended Richter scale. Turkey's most severe earthquake in the twentieth century occurred in Erzincan on the night of December 28–29, 1939; it devastated most of the city and caused an estimated 160,000 deaths. Earthquakes of moderate intensity often continue with sporadic aftershocks over periods of several days or even weeks. The most earthquake-prone part of Turkey is an arc-shaped region stretching from the general vicinity of Kocaeli to the area north of Lake Van on the border with Armenia and Georgia.
-
-slip-dist.png
 
 Turkey's terrain is structurally complex. A central massif composed of uplifted blocks and downfolded troughs, covered by recent deposits and giving the appearance of a plateau with rough terrain, is wedged between two folded mountain ranges that converge in the east. True lowlands are confined to the _Ergene Ovası_ (Ergene Plain) in Thrace, extending along rivers that discharge into the Aegean Sea or the Sea of Marmara, and to a few narrow coastal strips along the Black Sea and Mediterranean Sea coasts.
 
@@ -126,7 +122,7 @@ More than 80% of the land surface is rough, broken, and mountainous, and therefo
 
 Climate
 
-Koppen-Geiger_Map_TUR_present.svg of Turkey]] Turkey's diverse regions have different climates, with the weather system on the coasts contrasting with that prevailing in the interior. The Aegean and Mediterranean coasts have cool, rainy winters and hot, moderately dry summers. Annual precipitation in those areas varies from , depending on location. Generally, rainfall is less to the east. The Black Sea coast receives the greatest amount of precipitation and is the only region of Turkey that receives high precipitation throughout the year. The eastern part of that coast averages annually which is the highest precipitation in the country.
+of Turkey]] Turkey's diverse regions have different climates, with the weather system on the coasts contrasting with that prevailing in the interior. The Aegean and Mediterranean coasts have cool, rainy winters and hot, moderately dry summers. Annual precipitation in those areas varies from , depending on location. Generally, rainfall is less to the east. The Black Sea coast receives the greatest amount of precipitation and is the only region of Turkey that receives high precipitation throughout the year. The eastern part of that coast averages annually which is the highest precipitation in the country.
 
 image:Klima_ankara.png|Ankara image:Klima_antalya.png|Antalya image:Klima_istanbul.png|Istanbul File:Klima van-en.png|Van
 
@@ -176,9 +172,9 @@ Natural hazards
 
 Very severe earthquakes, especially on the North Anatolian Fault and East Anatolian Fault, occur along an arc extending from the Sea of Marmara in the west to Lake Van in the east. On August 17, 1999, a 7.4-magnitude earthquake struck northwestern Turkey, killing more than 17,000 and injuring 44,000.
 
-  -------------------------------------------- --------------------------------------------------------------------------------------
-  Map_of_earthquakes_in_Turkey_1900-2017.svg   Anatolian_Plate.png, the North Anatolian Fault and East Anatolian Fault in Turkey.]]
-  -------------------------------------------- --------------------------------------------------------------------------------------
+  -- -------------------------------------------------------------------
+     , the North Anatolian Fault and East Anatolian Fault in Turkey.]]
+  -- -------------------------------------------------------------------
 
 
 Environment

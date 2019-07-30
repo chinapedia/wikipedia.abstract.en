@@ -1,1 +1,0 @@
-Liqeni_i_Bovillës.jpg The BOVILLA RESERVOIR () is a 4.6 km² reservoir in Albania, approximately northeast of Tirana and southeast of Kruja, within Mount Dajt National Park. It provides most of the drinking water for Tirana.[1]

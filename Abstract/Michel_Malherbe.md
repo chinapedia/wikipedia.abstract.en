@@ -1,1 +1,0 @@
-MICHEL MALHERBE (born 1941) is a French translator and philosopher. A specialist of Anglo-Saxon empiricism, he has translated Bacon, Locke and Hume. He is director of the series "Analyse et philosophie" and "Bibliothèque des philosophies" by Vrin.

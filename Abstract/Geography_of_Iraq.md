@@ -1,1 +1,0 @@
-Iraq_2004_CIA_map.jpg Iraq_Topography.png

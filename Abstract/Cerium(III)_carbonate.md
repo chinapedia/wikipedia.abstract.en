@@ -1,1 +1,0 @@
-CERIUM(III) CARBONATE Ce₂(CO₃)₃, is the salt formed by cerium(III) cations and carbonate anions. Its pure form was not yet confirmed to exist in the nature, but Ce-bearing carbonates (mainly bastnäsite group) stand for an ore of cerium metal, along with monazite.

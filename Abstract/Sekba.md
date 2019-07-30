@@ -1,1 +1,0 @@
-SEKBA or sometimes called BEKTIM is a Chinese Indonesian pork offals[1] stewed in mild soy sauce-based soup. The stew tastes mildly sweet and salty, made from soy sauce, garlic, and Chinese herbs. It is a popular fare street food in Indonesian Chinatowns, such as Gloria alley, Glodok Chinatown in Jakarta, Indonesia.[2]

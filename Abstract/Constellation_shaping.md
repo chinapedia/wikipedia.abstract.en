@@ -1,1 +1,0 @@
-CONSTELLATION SHAPING is an energy efficiency enhancement scheme for digital signal modulation that improves upon the amplitude and phase-shift keying (APSK) and the conventional quadrature amplitude modulation (QAM)) modulation schemes by transmitting low-energy signals more frequently than high-energy ones.

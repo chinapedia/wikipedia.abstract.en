@@ -1,1 +1,0 @@
-PIA HALLSTRÖM (23 September 1961 – 11 October 2016) was a Swedish politician. A member of the Moderate Party, she was first elected to the Riksdag in 2010 and reelected in 2014. She died of breast cancer in 2016 at the age of 55.[1]

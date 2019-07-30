@@ -1,1 +1,0 @@
-SCANDINAVIAN NEW ZEALANDERS are New Zealand-born citizens whose origins are found in any of the Scandinavian countries (Denmark, Iceland, Norway, and Sweden), or people from any of these countries who live in New Zealand.

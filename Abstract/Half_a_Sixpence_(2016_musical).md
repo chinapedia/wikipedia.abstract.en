@@ -1,1 +1,0 @@
-_HALF A SIXPENCE_ is a musical based on the 1905 novel _Kipps_ by H. G. Wells and the original 1963 musical, with music by George Stiles and Anthony Drewe, and lyrics by Anthony Drewe and Heneker, featuring several of the original songs by Heneker, and book by Julian Fellowes.

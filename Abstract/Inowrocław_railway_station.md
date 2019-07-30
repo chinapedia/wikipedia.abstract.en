@@ -1,1 +1,0 @@
-INOWROCŁAW RAILWAY STATION is a railway station serving the town of Inowrocław, in the Kuyavian-Pomeranian Voivodeship, Poland. The station opened in 1872 and is located on the Chorzów–Tczew railway and Poznań–Skandawa railway. The train services are operated by PKP and Przewozy Regionalne.

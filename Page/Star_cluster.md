@@ -1,4 +1,4 @@
-M92_arp_750pix.jpg in the Hercules constellation.]]
+in the Hercules constellation.]]
 
 STAR CLUSTERS are very large groups of stars. Two types of star clusters can be distinguished: globular clusters are tight groups of hundreds to millions of old stars which are gravitationally bound, while open clusters, more loosely clustered groups of stars, generally contain fewer than a few hundred members, and are often very young. Open clusters become disrupted over time by the gravitational influence of giant molecular clouds as they move through the galaxy, but cluster members will continue to move in broadly the same direction through space even though they are no longer gravitationally bound; they are then known as a stellar association, sometimes also referred to as a _moving group_.
 
@@ -7,7 +7,7 @@ Star clusters visible to the naked eye include the Pleiades (M45), Hyades, and t
 
 Globular cluster
 
-New_Hubble_image_of_star_cluster_Messier_15.jpg photographed by HST.]]
+photographed by HST.]]
 
 Globular clusters are roughly spherical groupings of from 10,000 to several million stars packed into regions of from 10 to 30 light-years across. They commonly consist of very old Population II stars—just a few hundred million years younger than the universe itself—which are mostly yellow and red, with masses less than two solar masses.[1] Such stars predominate within clusters because hotter and more massive stars have exploded as supernovae, or evolved through planetary nebula phases to end as white dwarfs. Yet a few rare blue stars exist in globulars, thought to be formed by stellar mergers in their dense inner regions; these stars are known as blue stragglers.
 
@@ -26,7 +26,7 @@ Super star clusters are very large regions of recent star formation, and are tho
 
 Open clusters
 
-M45_filip.jpg, an open cluster dominated by hot blue stars surrounded by reflection nebulosity.]] Open clusters are very different from globular clusters. Unlike the spherically distributed globulars, they are confined to the galactic plane, and are almost always found within spiral arms. They are generally young objects, up to a few tens of millions of years old, with a few rare exceptions as old as a few billion years, such as Messier 67 (the closest and most observed old open cluster) for example.[4] They form from H II regions such as the Orion Nebula.
+, an open cluster dominated by hot blue stars surrounded by reflection nebulosity.]] Open clusters are very different from globular clusters. Unlike the spherically distributed globulars, they are confined to the galactic plane, and are almost always found within spiral arms. They are generally young objects, up to a few tens of millions of years old, with a few rare exceptions as old as a few billion years, such as Messier 67 (the closest and most observed old open cluster) for example.[4] They form from H II regions such as the Orion Nebula.
 
 Open clusters usually contain up to a few hundred members, within a region up to about 30 light-years across. Being much less densely populated than globular clusters, they are much less tightly gravitationally bound, and over time, are disrupted by the gravity of giant molecular clouds and other clusters. Close encounters between cluster members can also result in the ejection of stars, a process known as 'evaporation'.
 
@@ -36,7 +36,7 @@ Establishing precise distances to open clusters enables the calibration of the p
 
 Embedded clusters
 
-Chandra_X-ray_View_of_Orion.jpg light which penetrates the cloud.]] The_star_cluster_NGC_3572_and_its_dramatic_surroundings.jpg and its surroundings]]
+light which penetrates the cloud.]] and its surroundings]]
 
 Embedded clusters are groups of very young stars that are partially or fully encased in an Interstellar dust or gas which is often impervious to optical observations. Embedded clusters form in molecular clouds, when the clouds begin to collapse and form stars. There is often ongoing star formation in these clusters, so embedded clusters may be home to various types of young stellar objects including protostars and pre-main-sequence stars. An example of an embedded cluster is the Trapezium Cluster in the Orion Nebula. In ρ Ophiuchi cloud (L1688) core region there is an embedded cluster.[7]
 
@@ -47,7 +47,7 @@ The open clusters found in the Galaxy are former embedded clusters that were abl
 
 Intermediate forms
 
-A_Ten_Billion_Year_Stellar_Dance.jpg, its constituent stars span a volume of space with a diameter of more than a hundred light-years.]]
+, its constituent stars span a volume of space with a diameter of more than a hundred light-years.]]
 
 In 2005, astronomers discovered a new type of star cluster in the Andromeda Galaxy, which is, in several ways, very similar to globular clusters although less dense. No such clusters (which also known as _extended globular clusters_) are known in the Milky Way. The three discovered in Andromeda Galaxy are M31WFS C1[11] M31WFS C2, and M31WFS C3.
 
@@ -60,7 +60,7 @@ Another type of cluster are _faint fuzzies_ which so far have only been found in
 
 Astronomical significance of star clusters
 
-Artist's_impression_of_an_exoplanet_orbiting_a_star_in_the_cluster_Messier_67.jpg.[15] ]]
+.[15] ]]
 
 Stellar clusters are important in many areas of astronomy. Because the stars were all born at roughly the same time, the different properties of all the stars in a cluster are a function only of mass, and so stellar evolution theories rely on observations of open and globular clusters.
 

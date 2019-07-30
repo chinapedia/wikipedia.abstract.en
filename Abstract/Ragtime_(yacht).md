@@ -1,1 +1,0 @@
-Racing_Yacht_Ragtime_photo_D_Ramey_Logan.jpg RAGTIME was one of the world's fastest yachts in the 1970s. In 1973, Ragtime became famous for beating the favorite, Windward Passage by 4 minutes, 31 seconds, in the Transpacific Yacht Race from Los Angeles to Honolulu. It also competed successfully in the Sydney to Hobart yacht race[1][2]

@@ -1,1 +1,0 @@
-_LAMBS TO THE SLAUGHTER_ is a 1979 memoir by Australian cricketer Graham Yallop, ghost written by Rod Nicholson. Although it covers Yallop's career until that date, it focuses on the Australian summer of 1978-79 when Yallop led the Australian test team to a 5-1 defeat against England and a defeat against Pakistan.[1]

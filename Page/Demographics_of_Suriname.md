@@ -5,7 +5,7 @@ Most Surinamese people live in the narrow, northern coastal plain. The populatio
 
 Population
 
-Suriname_demography.png, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 215,000 in 1950. The proportion of children below the age of 15 in 2010 was 28.6%, 65% was between 15 and 65 years of age, while 6.5% was 65 years or older .[1] According to 2012 census, there were 270,629 males and 271,009 females in Suriname.[2]
+, year 2005 ; Number of inhabitants in thousands.]] According to the total population was in , compared to only 215,000 in 1950. The proportion of children below the age of 15 in 2010 was 28.6%, 65% was between 15 and 65 years of age, while 6.5% was 65 years or older .[1] According to 2012 census, there were 270,629 males and 271,009 females in Suriname.[2]
 
 +------+------------------+------------+------------+------------+
 |      | Total population | Proportion | Proportion | Proportion |

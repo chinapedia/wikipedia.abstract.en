@@ -1,1 +1,0 @@
-The SPACE POOP CHALLENGE is a 2016 contest sponsored by the American National Aeronautics and Space Administration (NASA) for new designs for space toilet systems for use in space suits.[1][2][3][4][5]

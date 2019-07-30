@@ -1,1 +1,0 @@
-TRAVIS PATRICK MCELROY (born November 8, 1983) is an American podcaster. He is known for his work on podcasts such as _My Brother, My Brother and Me_, _Shmanners_, _The Adventure Zone_, and _Can I Pet Your Dog?_.

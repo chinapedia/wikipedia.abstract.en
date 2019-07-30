@@ -1,1 +1,0 @@
-Box-from-acemhoyuk.jpg KarumKanis.svg ACEMHÖYÜK is an archaeological site in Turkey. The tell is located near the village of Yeşilova in Merkez district, Aksaray Province. The Bronze Age name for the place was probably Purušḫanda/Purušḫattum or . The site was an Assyrian trading colony, or Karum.

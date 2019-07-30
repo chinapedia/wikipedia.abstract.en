@@ -1,1 +1,0 @@
-CULL is an unincorporated community in eastern Howell County, in the U.S. state of Missouri.[1] The community is located on a county road south of U. S. Route 160 and about nine miles east of West Plains near the eastern border of the county. The community of Rover in Oregon County lies about two miles to the east.[2]

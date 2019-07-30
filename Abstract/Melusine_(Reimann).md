@@ -1,1 +1,0 @@
-_MELUSINE_ is a 1971 German-language opera by Aribert Reimann, on a libretto by Claus H. Henneberg after _Melusine_, a 1920 play in four acts by Yvan Goll which transposes the legendary water-spirit to Goll's time. The opera was written for the Schwetzingen Festival, where it premiered in 1971. It was recorded in 2010.

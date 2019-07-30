@@ -1,1 +1,0 @@
-The _GUIDE TO NORDIC BIBLIOGRAPHY_ is a major English-language guide to the literature of the Nordic countries published by the Nordic Council of Ministers in 1984.[1] Two supplements were issued, extending its range up to 1990.

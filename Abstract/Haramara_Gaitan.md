@@ -1,1 +1,0 @@
-HARAMARA GAITÁN FAUSTO (born 7 August 1996) is a Mexican badminton player.[1] She competed at the 2015 Pan American Games in Toronto, Canada.[2] Gaitan was the bronze medalist at the 2018 Pan Am Championships in the women' singles event.

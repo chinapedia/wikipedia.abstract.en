@@ -1,1 +1,0 @@
-META-ETHICS is the branch of ethics that seeks to understand the nature of ethical properties, statements, attitudes, and judgments. Meta-ethics is one of the three branches of ethics generally studied by philosophers, the others being normative ethics and applied ethics.

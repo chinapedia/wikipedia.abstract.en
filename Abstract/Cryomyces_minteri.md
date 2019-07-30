@@ -1,1 +1,0 @@
-_CRYOMYCES MINTERI_ is a fungus of uncertain placement in the class Dothideomycetes, division Ascomycota.[1] The rock-inhabiting fungus that was discovered in the McMurdo Dry Valleys located in Antarctica, on fragments of rock colonized by a local cryptoendolithic community.[2]

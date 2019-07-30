@@ -1,1 +1,0 @@
-_WE'RE ABOUT THE BUSINESS_ is a studio album released on April 24, 2007[1] by the Washington, D.C.-based go-go musician Chuck Brown. _We're About the Business_ was Chuck Brown's highest-charting album ever, which peaked on May 12, 2007 at #2 on the "Top R&B/Hip-Hop Albums" and #37 on the "Billboard Pop Albums".[2][3]

@@ -1,1 +1,0 @@
-Melting_icecubes.gif

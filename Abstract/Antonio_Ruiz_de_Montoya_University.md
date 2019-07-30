@@ -1,1 +1,0 @@
-ANTONIO RUIZ DE MONTOYA UNIVERSITY (_Universidad Antonio Ruiz de Montoya_ – UARM) is a private, non-profit university located in the city of Lima, Peru, in the district of Pueblo Libre. It was founded by the Society of Jesus on 4 July 2003.[1] It incorporated the School of Pedagogy, Philosophy, and Literature Antonio Ruiz de Montoya which had been founded in 1991.

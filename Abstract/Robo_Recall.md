@@ -1,1 +1,0 @@
-_ROBO RECALL_ is a virtual reality first-person shooter game developed and published by Epic Games for Microsoft Windows. The game uses the Oculus Rift virtual reality headset, and was released on March 1, 2017.[1] Players that activate their Oculus Touch virtual reality controllers with its software are able to download the game for free.[2]

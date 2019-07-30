@@ -1,1 +1,0 @@
-_BLAM! MACHINEHEAD_ (released in the US as _MACHINE HEAD_) is a shoot 'em up developed by Core Design and published by Virgin Interactive and Eidos Interactive, released for Sega Saturn, DOS and PlayStation in 1996.

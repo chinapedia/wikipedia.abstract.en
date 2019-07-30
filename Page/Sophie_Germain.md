@@ -19,7 +19,7 @@ Germain's parents did not at all approve of her sudden fascination with mathemat
 
 École Polytechnique
 
-Porton_antigua_sede_École_Polytechnique_Sainte_Geneviève.JPG In 1794, when Germain was 18, the École Polytechnique opened. As a woman, Germain was barred from attending, but the new system of education made the "lecture notes available to all who asked". The new method also required the students to "submit written observations". Germain obtained the lecture notes and began sending her work to Joseph Louis Lagrange, a faculty member. She used the name of a former student Monsieur Antoine-Auguste Le Blanc,[2] "fearing", as she later explained to Gauss, "the ridicule attached to a female scientist". When Lagrange saw the intelligence of M. Le Blanc, he requested a meeting, and thus Sophie was forced to disclose her true identity. Fortunately, Lagrange did not mind that Germain was a woman, and he became her mentor. He visited her in her home, giving her moral support.
+In 1794, when Germain was 18, the École Polytechnique opened. As a woman, Germain was barred from attending, but the new system of education made the "lecture notes available to all who asked". The new method also required the students to "submit written observations". Germain obtained the lecture notes and began sending her work to Joseph Louis Lagrange, a faculty member. She used the name of a former student Monsieur Antoine-Auguste Le Blanc,[2] "fearing", as she later explained to Gauss, "the ridicule attached to a female scientist". When Lagrange saw the intelligence of M. Le Blanc, he requested a meeting, and thus Sophie was forced to disclose her true identity. Fortunately, Lagrange did not mind that Germain was a woman, and he became her mentor. He visited her in her home, giving her moral support.
 
 
 Early work in number theory
@@ -30,7 +30,7 @@ Germain first became interested in number theory in 1798 when Adrien-Marie Legen
 
 Correspondence with Gauss
 
-Carl_Friedrich_Gauss.jpg Germain's interest in number theory was renewed when she read Carl Friedrich Gauss' monumental work . After three years of working through the exercises and trying her own proofs for some of the theorems, she wrote, again under the pseudonym of M. Le Blanc, to the author himself, who was one year younger than her. The first letter, dated 21 November 1804, discussed Gauss' and presented some of Germain's work on Fermat's Last Theorem. In the letter, Germain claimed to have proved the theorem for _n_ = _p_ − 1, where _p_ is a prime number of the form _p_ = 8_k_ + 7. However, her proof contained a weak assumption, and Gauss' reply did not comment on Germain's proof.
+Germain's interest in number theory was renewed when she read Carl Friedrich Gauss' monumental work . After three years of working through the exercises and trying her own proofs for some of the theorems, she wrote, again under the pseudonym of M. Le Blanc, to the author himself, who was one year younger than her. The first letter, dated 21 November 1804, discussed Gauss' and presented some of Germain's work on Fermat's Last Theorem. In the letter, Germain claimed to have proved the theorem for _n_ = _p_ − 1, where _p_ is a prime number of the form _p_ = 8_k_ + 7. However, her proof contained a weak assumption, and Gauss' reply did not comment on Germain's proof.
 
 Around 1807 (sources differ), during the Napoleonic wars, the French were occupying the German town of Braunschweig, where Gauss lived. Germain, concerned that he might suffer the fate of Archimedes, wrote to General Pernety, a family friend, requesting that he ensure Gauss' safety. General Pernety sent a chief of a battalion to meet with Gauss personally to see that he was safe. As it turned out, Gauss was fine, but he was confused by the mention of Sophie's name.
 
@@ -47,7 +47,7 @@ Work in elasticity
 
 Germain's first attempt for the Academy Prize
 
-Echladni.jpg When Germain's correspondence with Gauss ceased, she took interest in a contest sponsored by the Paris Academy of Sciences concerning Ernst Chladni's experiments with vibrating metal plates. The object of the competition, as stated by the Academy, was "to give the mathematical theory of the vibration of an elastic surface and to compare the theory to experimental evidence". Lagrange's comment that a solution to the problem would require the invention of a new branch of analysis deterred all but two contestants, Denis Poisson and Germain. Then Poisson was elected to the Academy, thus becoming a judge instead of a contestant, and leaving Germain as the only entrant to the competition.
+When Germain's correspondence with Gauss ceased, she took interest in a contest sponsored by the Paris Academy of Sciences concerning Ernst Chladni's experiments with vibrating metal plates. The object of the competition, as stated by the Academy, was "to give the mathematical theory of the vibration of an elastic surface and to compare the theory to experimental evidence". Lagrange's comment that a solution to the problem would require the invention of a new branch of analysis deterred all but two contestants, Denis Poisson and Germain. Then Poisson was elected to the Academy, thus becoming a judge instead of a contestant, and leaving Germain as the only entrant to the competition.
 
 In 1809 Germain began work. Legendre assisted by giving her equations, references, and current research. She submitted her paper early in the fall of 1811 and did not win the prize. The judging commission felt that "the true equations of the movement were not established", even though "the experiments presented ingenious results". Lagrange was able to use Germain's work to derive an equation that was "correct under special assumptions".
 
@@ -65,7 +65,7 @@ After winning the Academy contest, she was still not able to attend its sessions
 
 Later work in elasticity
 
-Germain_-_Récherches_sur_la_théorie_des_surfaces_élastiques,_1821_-_723413.tif Germain published her prize-winning essay at her own expense in 1821, mostly because she wanted to present her work in opposition to that of Poisson. In the essay she pointed out some of the errors in her method.
+Germain published her prize-winning essay at her own expense in 1821, mostly because she wanted to present her work in opposition to that of Poisson. In the essay she pointed out some of the errors in her method.
 
 In 1826 she submitted a revised version of her 1821 essay to the Academy. According to Andrea Del Centina, the revision included attempts to clarify her work by "introducing certain simplifying hypotheses". This put the Academy in an awkward position, as they felt the paper to be "inadequate and trivial", but they did not want to "treat her as a professional colleague, as they would any man, by simply rejecting the work". So Augustin-Louis Cauchy, who had been appointed to review her work, recommended her to publish it, and she followed his advice.
 
@@ -82,7 +82,7 @@ In the letter, Germain said that number theory was her preferred field and that 
 
 Her work on Fermat's Last Theorem
 
-Pierre_de_Fermat.jpg]] Fermat's Last Theorem can be divided into two cases. Case 1 involves all powers _p_ that do not divide any of _x_, _y_, or _z_. Case 2 includes all _p_ that divide at least one of _x_, _y_, or _z_. Germain proposed the following, commonly called "Sophie Germain's theorem":
+]] Fermat's Last Theorem can be divided into two cases. Case 1 involves all powers _p_ that do not divide any of _x_, _y_, or _z_. Case 2 includes all _p_ that divide at least one of _x_, _y_, or _z_. Germain proposed the following, commonly called "Sophie Germain's theorem":
 
   Let _p_ be an odd prime. If there exists an auxiliary prime _P_ = 2_Np_ + 1 (_N_ is any positive integer not divisible by 3) such that:
 
@@ -114,7 +114,7 @@ Honors
 
 Memorials
 
-Grave,_Sophie_Germain.jpg Germain's resting place in the Père Lachaise Cemetery in Paris is marked by a gravestone. At the centennial celebration of her life, a street and a girls' school were named after her, and a plaque was placed at the house where she died. The school houses a bust commissioned by the Paris City Council.
+Germain's resting place in the Père Lachaise Cemetery in Paris is marked by a gravestone. At the centennial celebration of her life, a street and a girls' school were named after her, and a plaque was placed at the house where she died. The school houses a bust commissioned by the Paris City Council.
 
 Honors in number theory
 

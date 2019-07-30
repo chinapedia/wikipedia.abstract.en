@@ -1,1 +1,0 @@
-_THARLE VILLAGE_, also referred to as _TARLE VILLAGE_, is a 2016 Indian Kannada comedy drama film written and directed by KM Raghu.[1] The film uses several actors from the 2015 Raam Reddy film _Thithi,_ Channegowda, Thammegowda, Abhishek H.N., and Singrigowda, but is otherwise unrelated to the film.[2]

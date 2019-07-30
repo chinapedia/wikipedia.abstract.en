@@ -32,7 +32,7 @@ Comic books
 
 In 1967, he began writing and illustrating full stories for various DC Comics titles, including _The Adventures of Jerry Lewis_, _Angel and the Ape_, _Inferior Five_, _Young Romance_, and for various horror anthologies.[16] He wrote or plotted stories that were illustrated by other artists. Aragonés helped create DC's Western series _Bat Lash_[17] and the humor title _Plop!_.[18] Aragonés broke with DC when the company began insisting on work-for-hire contracts; when Aragonés balked, an editor tore up Aragonés' paycheck in front of his face. He'd been trying obliquely to sell a comic book premise to DC or Marvel, but neither company would allow Aragonés to retain the copyright. "I didn't want anyone stealing the idea", said Aragonés, "and they weren't able to talk on a theoretical basis."
 
-Groo_cover_issue1.jpg'' vol. 2 #1 (March 1984)]]
+'' vol. 2 #1 (March 1984)]]
 
 Aragonés had created the humorous barbarian comic book _Groo the Wanderer_ with Mark Evanier in the late 1970s, but the character did not appear in print until 1982. Groo was so named because Aragonés sought a name which meant nothing in any language. Evanier's role originally was as something of a translator, as Aragonés was still somewhat shaky at expressing his ideas in English. Eventually the two began collaborating on story ideas, and there have been several Groo stories in which Evanier is credited as the sole writer. Aragonés has since become fluent in English. The other regular contributors to the comic book are letterer Stan Sakai (himself the creator/artist of Usagi Yojimbo), and colorist Tom Luth. As a creator-owned series, _Groo_ has survived the bankruptcy of a number of publishers, a fact which led to the industry joke that publishing the series was a precursor to a publisher's demise. The title was initially published by Pacific Comics, briefly by Eclipse Comics, then Marvel Comics under their since-discontinued Epic Comics imprint[19] which allowed creators to retain copyrights, then Image Comics, and currently Dark Horse Comics.[20]
 
@@ -78,7 +78,7 @@ In 2009, Aragonés told an interviewer, "I'm thinking and laughing all day long.
 
 Awards
 
-Sergio_Aragones_at_the_1982_San_Diego_Comic_Con.jpg).]]
+).]]
 
 Aragonés' work has won him numerous awards. He won Shazam Awards for Best Inker (Humor Division) in 1972 for his work on _Mad Magazine_ and for Best Humor Story in 1972 for "The Poster Plague" from _House of Mystery_ No. 202 with Steve Skeates.[26] Aragonés received an Inkpot Award in 1976.[27] He won the Harvey Award Special Award for Humor in 1990,[28] 1991,[29] 1992,[30] 1993,[31] 1995,[32] 1997,[33] 1998,[34] 1999,[35] and 2001.[36] He received the National Cartoonists Society Comic Book Award for 1986, their Humor Comic Book Award for 1973, 1974, and 1976, their Magazine and Book Illustration Award for 1989, their Special Features Award for 1977, their Gag Cartoon Award for 1983,[37] and their Reuben Award in 1996 for his work on _Mad_ and _Groo the Wanderer._ In 1985 he was awarded the Adamson Award for Best International Comic-Strip or Comic Book work in Sweden. In 1992 he became the first Mexican ever to win the Eisner Award for his work on _Groo the Wanderer_, along Mark Evanier. In 2003 he was awarded La Plumilla de Plata (The "Silver Inkpen") in Mexico. He won the Icon Award from Comic-Con International in 2016.[38]
 

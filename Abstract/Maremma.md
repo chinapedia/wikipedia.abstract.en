@@ -1,1 +1,0 @@
-Sunflowers_in_bloom_-_Maremma_Toscana_-_Italy_-_25_June_2005.jpg The MAREMMA (, ; from Latin , "maritime [land]") is a coastal area of western central Italy, bordering the Tyrrhenian Sea. It includes much of south-western Tuscany and part of northern Lazio. It was formerly mostly marshland, often malarial, but was drained by order of Fernando I de' Medici.

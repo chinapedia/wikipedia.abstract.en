@@ -1,1 +1,0 @@
-LAFORA DISEASE is a fatal autosomal recessive[1], genetic disorder characterized by the presence of inclusion bodies, known as Lafora bodies, within the cytoplasm of the cells in the heart, liver, muscle, and skin.[2] Lafora disease is also a neurodegenerative disease that causes impairment in the development of cerebral cortical neurons and is a glycogen metabolism disorder.[3]

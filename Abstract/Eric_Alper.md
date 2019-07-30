@@ -1,1 +1,0 @@
-ERIC ALPER is a Canadian music correspondent, blogger, radio host and former director of media relations at eOne Music Canada based in Toronto, Ontario.[1][2] Eric now runs a music public relations company _That Eric Alper_, and is the host of @ThatEricAlper show on SiriusXM.[3]

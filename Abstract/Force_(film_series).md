@@ -1,1 +1,0 @@
-_FORCE_ is a series of Indian action-thriller films, produced by Vipul Amrutlal Shah under the banner of Sunshine Pictures Pvt. Ltd. The first part directed by Nishikanth Kamath released in 2011[1][2] and the second part directed by Abhinay Deo released in 2016.[3][4][5][6] A third part of the series is currently in pre-production.[7]

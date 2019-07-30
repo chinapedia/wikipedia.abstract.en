@@ -1,1 +1,0 @@
-Hackmud_headshot_crop.png

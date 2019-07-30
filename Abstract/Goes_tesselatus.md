@@ -1,1 +1,0 @@
-The WHITE OAK BORER (_GOES TESSELATUS_) is a species of beetle in the family Cerambycidae. It was described by Haldeman in 1847, originally under the genus _Monohammus_. It is known from the United States.[1]

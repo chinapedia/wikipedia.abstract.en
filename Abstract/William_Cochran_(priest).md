@@ -1,1 +1,0 @@
-Rev_William_Cochran,_Windsor,_Nova_Scotia.png

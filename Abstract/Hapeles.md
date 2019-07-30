@@ -1,1 +1,0 @@
-_HAPELES_ ( – The Leveler) is a Hebrew-language daily newspaper published in Jerusalem. Like other Haredi newspapers, it is not published on Shabbat (the Jewish Sabbath), but instead is put out as an expanded weekend edition.

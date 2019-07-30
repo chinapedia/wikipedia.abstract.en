@@ -1,1 +1,0 @@
-The MONTGOMERY HOUSE is a historic travel accommodation on Vermont Route 118 in the center of Montgomery, Vermont. Built in 1803, it is one of the town's oldest buildings, and it served for many years as a social and civic center in the small community. It was listed on the National Register of Historic Places in 1992.[1]

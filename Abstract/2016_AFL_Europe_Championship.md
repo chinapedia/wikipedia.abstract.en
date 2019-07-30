@@ -1,1 +1,0 @@
-The 2016 AFL EUROPE CHAMPIONSHIP was an 18-a-side Australian rules football competition held in London, United Kingdom between European countries. This was the third AFL Europe Championship, run by AFL Europe. Matches were played at Motspur Park in London.[1] Contested between four national teams, the Championships were won by Great Britain.

@@ -1,1 +1,0 @@
-DON XZAVIAR JACKSON (born September 7, 1993) is an American professional gridiron football running back for the Calgary Stampeders of the Canadian Football League (CFL). He played college football at Nevada. Jackson was signed by the Green Bay Packers as an undrafted free agent in 2016.

@@ -1,1 +1,0 @@
-Craig_Haney.jpg CRAIG HANEY is an American social psychologist and a professor at the University of California, Santa Cruz, noted for his work on the study of capital punishment and the psychological impact of imprisonment and prison isolation since the 1970s.[1] He was a researcher on The Stanford Prison Experiment.

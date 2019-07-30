@@ -1,1 +1,0 @@
-CANDU_at_Qinshan.jpg Phase III units 1 and 2, located in Zhejiang China (30.436° N 120.958° E): Two CANDU 6 reactors, designed by Atomic Energy of Canada Limited (AECL), owned and operated by the Third Qinshan Nuclear Power Company Limited. Note that the installation is essentially two separate plants, inherent to the CANDU6 design.]]

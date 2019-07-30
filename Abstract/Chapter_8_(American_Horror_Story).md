@@ -1,1 +1,0 @@
-"CHAPTER 8" is the eighth episode of the sixth season of the anthology television series _American Horror Story_. It aired on November 2, 2016, on the cable network FX. The episode was written by Todd Kubrak and directed by Gwyneth Horder-Payton.

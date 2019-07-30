@@ -1,1 +1,0 @@
-HOWARD CARTER (9 May 18742 March 1939) was a British archaeologist and Egyptologist who became world-famous after discovering the intact tomb (designated KV62) of the 18th Dynasty Pharaoh, Tutankhamun (colloquially known as "King Tut" and "the boy king"), in November 1922.[1]

@@ -1,1 +1,0 @@
-ACTIVATOR APPLIANCE is an Orthodontics appliance that was developed by Viggo Andersen in 1908. This was one of the first functional appliances that was developed to correct functional jaw in the early 1900s. Activator appliance became the universal appliance that was used widely throughout Europe in the earlier part of the 20th century.[1]

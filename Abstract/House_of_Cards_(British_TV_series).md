@@ -1,1 +1,0 @@
-_HOUSE OF CARDS_ is a 1990 British political thriller television serial in four episodes, set after the end of Margaret Thatcher's tenure as Prime Minister of the United Kingdom. It was televised by the BBC from 18 November to 9 December 1990, to critical and popular acclaim.

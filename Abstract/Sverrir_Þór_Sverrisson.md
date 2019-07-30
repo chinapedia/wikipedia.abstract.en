@@ -1,1 +1,0 @@
-SVERRIR ÞÓR SVERRISSON (born 23 May 1975) is an Icelandic basketball coach and former player for the Icelandic national basketball team. He last coached Úrvalsdeild karla club Keflavík. He previously coached Keflavík women's team where he won the national championship in 2017.[1][2]

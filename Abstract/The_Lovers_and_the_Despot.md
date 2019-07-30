@@ -1,1 +1,0 @@
-_THE LOVERS AND THE DESPOT_ is a 2016 British documentary film written and directed by Robert Cannan and Ross Adam, about the 1978 abduction of South Korean actress Choi Eun-hee, and film director Shin Sang-ok, by Kim Jong-il of North Korea. It was pitched at Sheffield Doc/Fest's 2014 MeetMarket.

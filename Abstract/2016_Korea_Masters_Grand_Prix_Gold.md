@@ -1,1 +1,0 @@
-The 2016 KOREA MASTERS GRAND PRIX GOLD was the 21st Grand Prix badminton tournament of the 2016 BWF Grand Prix Gold and Grand Prix. The tournament was held at Seogwipo Olympic Memorial Civic Center[1] in Seogwipo in South Korea 6 – 11 December 2016 and had a total purse of $120,000.[2]

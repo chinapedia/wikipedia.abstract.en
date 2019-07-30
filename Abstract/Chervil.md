@@ -1,1 +1,0 @@
-CHERVIL (; _ANTHRISCUS CEREFOLIUM_), sometimes called FRENCH PARSLEY or GARDEN CHERVIL (to distinguish it from similar plants also called chervil), is a delicate annual herb related to parsley. It is commonly used to season mild-flavoured dishes and is a constituent of the French herb mixture .

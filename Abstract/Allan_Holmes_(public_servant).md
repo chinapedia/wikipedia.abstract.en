@@ -1,1 +1,0 @@
-ALLAN HOLMES (born 1954) is a former senior South Australian public servant. He holds several board positions in South Australia, including Presiding Member of the Coast Protection Board,[1] Deputy Presiding Member of the board of the Environment Protection Authority (SA) and member of the board of the Environment Institute at the University of Adelaide.[2]

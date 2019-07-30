@@ -1,1 +1,0 @@
-ALEXEY LEONIDOVICH PAJITNOV (born 14 March 1956) is a Russian video game designer and computer engineer who developed _Tetris_ while working for the Dorodnitsyn Computing Centre of the Soviet Academy of Sciences, a Soviet government-founded R&D center.

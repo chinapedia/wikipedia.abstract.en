@@ -1,1 +1,0 @@
-OBSTETRIC ANESTHESIA or OBSTETRIC ANESTHESIOLOGY, also known as OB-GYN ANESTHESIA or OB-GYN ANESTHESIOLOGY is a sub-specialty of anesthesiology that provides peripartum (time directly preceding, during or following childbirth)[1] pain relief (analgesia) for labor and anesthesia (suppress consciousness) for cesarean deliveries ('C-sections').[2]

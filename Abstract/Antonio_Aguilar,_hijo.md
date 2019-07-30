@@ -1,1 +1,0 @@
-JOSÉ JESÚS ANTONIO AGUILAR JIMÉNEZ (born 9 October 1960),[1] known as ANTONIO AGUILAR, HIJO (ANTONIO AGUILAR, JR.), is a Mexican singer and actor. He is the eldest son of singers and actors Antonio Aguilar and Flor Silvestre.

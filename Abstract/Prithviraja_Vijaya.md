@@ -1,1 +1,0 @@
-_PRITHVIRAJA VIJAYA_ (IAST: Pṛthvīrāja Vijaya, "Prithviraja's Victory") is an eulogistic Sanskrit epic poem on the life of the Indian Chahamana king Prithviraja III (better known as Prithviraj Chauhan in the vernacular folk legends). It is believed to have been composed around 1191-1192 CE by Jayanaka, a Kashmiri poet-historian in the court of Prithviraja.

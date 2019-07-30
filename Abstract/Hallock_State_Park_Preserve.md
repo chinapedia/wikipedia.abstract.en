@@ -1,1 +1,0 @@
-HALLOCK STATE PARK PRESERVE (formerly JAMESPORT STATE PARK)[1] is a state park and nature preserve located in the towns of Riverhead and Southold in Suffolk County, New York.[2][3] The park is situated on Long Island's north shore, with nearly of beachfront facing Long Island Sound.[4]

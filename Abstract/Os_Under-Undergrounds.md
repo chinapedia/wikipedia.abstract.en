@@ -1,1 +1,0 @@
-_OS UNDER-UNDERGROUNDS_ (English: _The Under-Undergrounds_) is a Brazilian flash animated series created by Hugo Oda and produced by Tortuga Studios. The first season premiered in Brazil on Nickelodeon on May 9, 2016.[1]

@@ -1,1 +1,0 @@
-The 2017 TAMPA BAY BUCCANEERS SEASON was the franchise's 42nd season in the National Football League, the 20th playing their home games at Raymond James Stadium and the second under head coach Dirk Koetter.

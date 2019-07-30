@@ -1,1 +1,0 @@
-HANS GERHARD CREUTZFELDT (June 2, 1885 – December 30, 1964) was a German neurologist and neuropathologist.[1] Although he is typically credited as the physician to first describe the Creutzfeldt–Jakob disease, this has been disputed.[2][3][4] He was born in Harburg upon Elbe and died in Munich.

@@ -1,1 +1,0 @@
-The SECRETARY-GENERAL TO THE PRESIDENT is the highest-ranking official in the Office of the President, Republic of China (Taiwan), and supervises the staff of the Office. The current Secretary-General is Chen Chu.

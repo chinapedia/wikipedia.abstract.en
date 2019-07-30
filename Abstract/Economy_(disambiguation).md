@@ -1,1 +1,0 @@
-An ECONOMY is an area of the production, distribution, or trade, and consumption of goods and services by different agents in a given geographical location in various countries

@@ -1,1 +1,0 @@
-PHILOSOPHICAL METHOD (or PHILOSOPHICAL METHODOLOGY) is the study of how to do philosophy. A common view among philosophers is that philosophy is distinguished by the ways that philosophers follow in addressing philosophical questions. There is not just one method that philosophers use to answer philosophical questions.

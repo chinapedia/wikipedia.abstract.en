@@ -13,7 +13,7 @@ New Zealand scientists have dated remains in Samoa to about 2900 years ago. Thes
 
 The origins of the Samoans are closely studied in modern research about Polynesia in various scientific disciplines such as genetics, linguistics and anthropology. Scientific research is ongoing, although a number of different theories exist; including one proposing that the Samoans originated from Austronesian predecessors during the terminal eastward Lapita expansion period from Southeast Asia and Melanesia between 2,500 and 1,500 BCE.[6]
 
-Intimate sociocultural and genetic ties were maintained between Samoa, Fiji, and Tonga, and the archaeological record supports oral tradition and native genealogies that indicate inter-island voyaging and intermarriage between pre-colonial Samoans, Fijians, and Tongans. Notable figures in Samoan history included the Tui Manu'a line and Queen Salamasina (15th century). Nafanua was a famous woman warrior who was deified in ancient Samoan religion. 3_Samoan_girls_making_ava_1909.jpg c. 1911.]] Urville-Apia-public.jpg
+Intimate sociocultural and genetic ties were maintained between Samoa, Fiji, and Tonga, and the archaeological record supports oral tradition and native genealogies that indicate inter-island voyaging and intermarriage between pre-colonial Samoans, Fijians, and Tongans. Notable figures in Samoan history included the Tui Manu'a line and Queen Salamasina (15th century). Nafanua was a famous woman warrior who was deified in ancient Samoan religion. c. 1911.]]
 
 Contact with Europeans began in the early 18th century. Jacob Roggeveen, a Dutchman, was the first known European to sight the Samoan islands in 1722. This visit was followed by French explorer Louis-Antoine de Bougainville, who named them the _Navigator Islands_ in 1768. Contact was limited before the 1830s, which is when English missionaries and traders began arriving.
 
@@ -23,19 +23,17 @@ Visits by American trading and whaling vessels were important in the early econo
 
 Christian missionary work in Samoa began in 1830 when John Williams of the London Missionary Society arrived in Sapapali'i from the Cook Islands and Tahiti.[8] According to Barbara A. West, "The Samoans were also known to engage in ‘headhunting', a ritual of war in which a warrior took the head of his slain opponent to give to his leader, thus proving his bravery."[9] However, Robert Louis Stevenson, who lived in Samoa from 1889 until his death in 1894, wrote in _A Footnote to History: Eight Years of Trouble in Samoa_, "… the Samoans are gentle people."[10]
 
-Lauaki_Namulauulu_Mamoe.jpg The Germans, in particular, began to show great commercial interest in the Samoan Islands, especially on the island of Upolu, where German firms monopolised copra and cocoa bean processing. The United States laid its own claim, based on commercial shipping interests in Pearl River in Hawaii and Pago Pago Bay in Eastern Samoa, and forced alliances, most conspicuously on the islands of Tutuila and Manu'a which became American Samoa.
+The Germans, in particular, began to show great commercial interest in the Samoan Islands, especially on the island of Upolu, where German firms monopolised copra and cocoa bean processing. The United States laid its own claim, based on commercial shipping interests in Pearl River in Hawaii and Pago Pago Bay in Eastern Samoa, and forced alliances, most conspicuously on the islands of Tutuila and Manu'a which became American Samoa.
 
 Britain also sent troops to protect British business enterprise, harbour rights, and consulate office. This was followed by an eight-year civil war, during which each of the three powers supplied arms, training and in some cases combat troops to the warring Samoan parties. The Samoan crisis came to a critical juncture in March 1889 when all three colonial contenders sent warships into Apia harbour, and a larger-scale war seemed imminent. A massive storm on 15 March 1889 damaged or destroyed the warships, ending the military conflict.[11]
 
-The Second Samoan Civil War reached a head in 1898 when Germany, the United Kingdom, and the United States were locked in dispute over who should control the Samoa Islands. The Siege of Apia occurred in March 1899. Samoan forces loyal to Prince Tanu were besieged by a larger force of Samoan rebels loyal to Mata'afa Iosefo. Supporting Prince Tanu were landing parties from four British and American warships. After several days of fighting, the Samoan rebels were finally defeated.[12] Samoan_Paramount_chief_Mataafa_Iosefa,_1896.jpg (1832–1912) paramount chief and rival for the kingship of Samoa]]
+The Second Samoan Civil War reached a head in 1898 when Germany, the United Kingdom, and the United States were locked in dispute over who should control the Samoa Islands. The Siege of Apia occurred in March 1899. Samoan forces loyal to Prince Tanu were besieged by a larger force of Samoan rebels loyal to Mata'afa Iosefo. Supporting Prince Tanu were landing parties from four British and American warships. After several days of fighting, the Samoan rebels were finally defeated.[12] (1832–1912) paramount chief and rival for the kingship of Samoa]]
 
 American and British warships shelled Apia on 15 March 1899, including the USS _Philadelphia_. Germany, the United Kingdom and the United States quickly resolved to end the hostilities and divided the island chain at the Tripartite Convention of 1899, signed at Washington on 2 December 1899 with ratifications exchanged on 16 February 1900.[13]
 
 The eastern island-group became a territory of the United States (the Tutuila Islands in 1900 and officially Manu'a in 1904) and was known as American Samoa. The western islands, by far the greater landmass, became German Samoa. The United Kingdom had vacated all claims in Samoa and in return received (1) termination of German rights in Tonga, (2) all of the Solomon Islands south of Bougainville, and (3) territorial alignments in West Africa.[14]
 
 German Samoa (1900–1914)
-
-Funeral_of_Tamesese.jpg
 
 The German Empire governed the western Samoan islands from 1900 to 1914. Wilhelm Solf was appointed the colony's first governor. In 1908, when the non-violent Mau a Pule resistance movement arose, Solf did not hesitate to banish the Mau leader Lauaki Namulau'ulu Mamoe to Saipan in the German Northern Mariana Islands.[15]
 
@@ -84,8 +82,6 @@ In June 2017, Parliament established an amendment to Article 1 of the Samoan Con
 
 Politics
 
-Samoa_-_Apia_Govt_buildings.jpg
-
 The 1960 constitution, which formally came into force with independence from New Zealand in 1962, builds on the British pattern of parliamentary democracy, modified to take account of Samoan customs.[44] The national modern Government of Samoa is referred to as the _Malo_.
 
 Fiame Mata'afa Faumuina Mulinu’u II, one of the four highest-ranking paramount chiefs in the country, became Samoa's first Prime Minister. Two other paramount chiefs at the time of independence were appointed joint heads of state for life. Tupua Tamasese Mea'ole died in 1963, leaving Malietoa Tanumafili II sole head of state until his death on 11 May 2007, upon which Samoa changed from a constitutional monarchy to a parliamentary republic _de facto_.[45] The next Head of State, Tuiatua Tupua Tamasese Efi, was elected by the legislature on 17 June 2007 for a fixed five-year term,[46] and was re-elected unopposed in July 2012. Tufuga Efi was succeeded by Va'aletoa Sualauvi II in 2017.
@@ -104,7 +100,7 @@ The capital village of each district administers and coordinates the affairs of 
 
 The eleven _itūmālō_ are identified to be:
 
-Samoa_districts_numbered2.png On UPOLU
+On UPOLU
 :1. Tuamasaga (Afega)¹
 
     2. A'ana (Leulumoega)
@@ -137,8 +133,6 @@ In June 2017, an Act was passed changing the country's constitution to include a
 
 Geography
 
-Samoa_Country_map.png Samoa_topography.png
-
 Samoa lies south of the equator, about halfway between Hawaii and New Zealand, in the Polynesian region of the Pacific Ocean. The total land area is 2,842 km² (1,097 sq mi),[53] consisting of the two large islands of Upolu and Savai'i (which together account for 99% of the total land area) and eight small islets.
 
 The islets are:[54]
@@ -164,9 +158,9 @@ Samoa forms part of the Samoan tropical moist forests ecoregion. Since human hab
 
 Economy
 
-Central_Bank_of_Samoa_(2009).jpg]]
+]]
 
-Colocasia_esculenta_dsc07801.jpg, a root crop, traditionally was Samoa's largest export, generating more than half of all export revenue in 1993. A fungal blight decimated the plants, and in each year since 1994 taro exports have accounted for less than 1% of export revenue.]]
+, a root crop, traditionally was Samoa's largest export, generating more than half of all export revenue in 1993. A fungal blight decimated the plants, and in each year since 1994 taro exports have accounted for less than 1% of export revenue.]]
 
 The United Nations has classified Samoa as an economically developing country since 2014.[60] In 2017, Samoa's gross domestic product in purchasing power parity was estimated to be $1.13 billion U.S. dollars, ranking 204th among all countries. The services sector accounted for 66% of GDP, followed by industry and agriculture at 23.6% and 10.4%, respectively.[61] The same year, the Samoan labour force was estimated at 50,700.[62]
 
@@ -188,8 +182,6 @@ Sixty percent of Samoa's electricity comes from renewable hydro, solar, and wind
 
 
 Demographics
-
-Samoa_Familie.JPG
 
 Samoa reported a population of 194,320 in its 2016 census.[67] About three-quarters of the population live on the main island of Upolu.[68]
 
@@ -223,7 +215,7 @@ Education in Samoa has proved to be effective as a 2012 UNESCO report stated tha
 
 Culture
 
-Samoa_upolu.jpg from Le Mafa Pass, east Upolu.]]
+from Le Mafa Pass, east Upolu.]]
 
 The fa'a Samoa, or traditional Samoan way, remains a strong force in Samoan life and politics. Despite centuries of European influence, Samoa maintains its historical customs, social and political systems, and language. Cultural customs such as the Samoa 'ava ceremony are significant and solemn rituals at important occasions including the bestowal of _matai_ chiefly titles. Items of great cultural value include the finely woven _'ie toga_.
 
@@ -241,7 +233,7 @@ File:Catholic church in Samoa-2.jpg|Roman Catholic Immaculate Conception of Mary
 
 Tattooing
 
-Samoan_Malu.jpg.]]
+.]]
 
 As with other Polynesian cultures (Hawaiian, Tahitian and Māori) with significant and unique tattoos, Samoans have two gender specific and culturally significant tattoos. For males, it is called the Pe'a and consists of intricate and geometrical patterns tattooed that cover areas from the knees up towards the ribs. A male who possesses such a tatau is called a soga'imiti. A Samoan girl or _teine_ is given a malu, which covers the area from just below her knees to her upper thighs.[77]
 
@@ -258,8 +250,6 @@ The arts organisation _Tautai_ is a collective of visual artists including Fatu 
 Director Sima Urale is an award-winning filmmaker. Urale's short film _O Tamaiti_ won the prestigious Best Short Film at the Venice Film Festival in 1996. Her first feature film _Apron Strings_ opened the 2008 NZ International Film Festival. The feature film _Siones Wedding_, co-written by Oscar Kightley, was financially successful following premieres in Auckland and Apia. The 2011 film The Orator was the first ever fully Samoan film, shot in Samoa in the Samoan language with a Samoan cast telling a uniquely Samoan story. Written and directed by Tusi Tamasese, it received much critical acclaim and attention at film festivals throughout the world.
 
 Sport
-
-Percy_Montgomery_against_Samoa.jpg
 
 The main sports played in Samoa are rugby union, Samoan cricket and netball. Rugby union is the national football code of Samoa. In Samoan villages, volleyball is also popular.
 

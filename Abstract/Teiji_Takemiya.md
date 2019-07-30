@@ -1,1 +1,0 @@
-(Los Angeles 1923-) was a _nisei_ Japanese American[1] served as the Deputy International Commissioner of the Scout Association of Japan, a member of the National Board of Trustees, and a member of the Asia-Pacific Scout Committee.

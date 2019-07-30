@@ -1,1 +1,0 @@
-Rochester_Castle_Keep_and_Bailey_0038stcp.JPG The GOVERNOR OF ROCHESTER CASTLE commanded the important castle at Rochester in Kent which dominated the Medway estuary and Watling Street. After being badly damaged during the Barons' Wars the castle was completely renovated by King Henry III and put under the control of a series of Governors responsible for its upkeep and security.

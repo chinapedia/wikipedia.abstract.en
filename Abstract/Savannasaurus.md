@@ -1,1 +1,0 @@
-_SAVANNASAURUS_ is a genus of titanosaurian sauropod dinosaur from the Late Cretaceous of Queensland, Australia, containing one species, _SAVANNASAURUS ELLIOTTORUM_, named in 2016 by Poropat _et al_.[1] The only known specimen was originally nicknamed "Wade".[2][3] The holotype is held on display at the Australian Age of Dinosaurs museum.

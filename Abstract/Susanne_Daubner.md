@@ -1,1 +1,0 @@
-SUSANNE DAUBNER (born 26 March 1962) is a German news and television presenter. She has been part of the _Tagesschau_ news team since 1999. Previously, Daubner had worked for Rundfunk der DDR, DT64 and Ostdeutscher Rundfunk Brandenburg.

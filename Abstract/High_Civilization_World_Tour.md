@@ -1,1 +1,0 @@
-HIGH CIVILIZATION WORLD TOUR is the tenth concert tour by the Bee Gees in support of their nineteenth studio album _High Civilization_. The tour began on May 25, 1991 in Kiel, Germany and ended on July 9, 1991 in Birmingham, England.

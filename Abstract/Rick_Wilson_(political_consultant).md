@@ -1,1 +1,0 @@
-FREDERICK GEORGE WILSON (born November 21, 1963)[1] is a Republican political strategist, media consultant and author based in Florida who has produced televised political commercials for governors, U.S. Senate candidates, super PACs, and corporations.[2]

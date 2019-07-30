@@ -1,1 +1,0 @@
-Mike_hannafin.jpg

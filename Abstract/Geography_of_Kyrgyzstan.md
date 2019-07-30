@@ -1,1 +1,0 @@
-KYRGYZSTAN is a landlocked nation in Central Asia, west of the People's Republic of China. Less than a seventh the size of Mongolia, at 199,951 square kilometers,[1] Kyrgyzstan is one of the smaller Central Asian states. The national territory extends about from east to west and from north to south.

@@ -1,1 +1,0 @@
-IZAK BENBASAT is a Turkish-Canadian professor and scientist, currently the Sauder Distinguished Professor of Information Systems and Professor of Management Information Systems at the University of British Columbia Sauder School of Business.[1] He is also a published author,[2] being largely cited as a researcher.[3]

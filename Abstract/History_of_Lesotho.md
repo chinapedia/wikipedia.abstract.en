@@ -1,1 +1,0 @@
-Flag_of_Lesotho.svg

@@ -1,1 +1,0 @@
-STÉPHANIE PELLETIER is a Canadian writer from Quebec, whose short story collection _Quand les guêpes se taisent_ won the Governor General's Award for French-language fiction at the 2013 Governor General's Awards.[1]

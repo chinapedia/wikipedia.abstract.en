@@ -1,1 +1,0 @@
-The PERSIANS are an Iranian ethnic group that make up over half the population of Iran.[1][2] They share a common cultural system and are native speakers of the Persian language,[3][4][5] as well as closely related languages.

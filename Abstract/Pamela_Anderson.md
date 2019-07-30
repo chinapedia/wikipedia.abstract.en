@@ -1,1 +1,0 @@
-PAMELA DENISE ANDERSON (born July 1, 1967)[1][2][3] is a Canadian-American actress, model and animal rights activist. Anderson is best known for her appearances in _Playboy_ magazine and for her work on the television series _Home Improvement_, _Baywatch_ and _V.I.P._.

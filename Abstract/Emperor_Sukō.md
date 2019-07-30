@@ -1,1 +1,0 @@
-(May 25, 1334 – January 31, 1398) was the third of Emperors of Northern Court during the Period of the Northern and Southern Courts in Japan. According to pre-Meiji scholars, his reign spanned the years from 1348 through 1351.[1]

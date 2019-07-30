@@ -1,1 +1,0 @@
-Fremantle_Technical_School_02.jpg Fremantle_Technical_School_foundation_stone.jpg Fremantle_Technical_School_01.jpg

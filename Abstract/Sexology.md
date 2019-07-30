@@ -1,1 +1,0 @@
-SEXOLOGY is the scientific study of human sexuality, including human sexual interests, behaviors, and functions.[1] The term _sexology_ does not generally refer to the non-scientific study of sexuality, such as political science or social criticism.[2][3]

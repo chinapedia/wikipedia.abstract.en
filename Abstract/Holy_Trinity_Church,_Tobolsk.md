@@ -1,1 +1,0 @@
-The HOLY TRINITY CHURCH[1] () is a Catholic church in the city of Tobolsk, Russia.[2][3] The church is part of Diocese of Novosibirsk. It is a protected historical monument of Gothic architecture. The church also offers public organ concerts.

@@ -1,1 +1,0 @@
-Slide_Rock_artists_01.jpg, Arizona, in 2006]] _EN PLEIN AIR_ (, French for outdoors, or _PLEIN AIR_ PAINTING) is the act of painting outdoors. This method contrasts with studio painting or academic rules that might create a predetermined look.

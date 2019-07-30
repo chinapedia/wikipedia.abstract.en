@@ -1,1 +1,0 @@
-FRANS JOZEF VAN DER HEIJDEN (20 March 1938 – 21 October 2016) was a Dutch politician. He served as member of the House of Representatives for the Christian Democratic Appeal between 1982 and 1998. Before his time in the House he was active in the municipal politics of Rotterdam and in the States of South Holland.

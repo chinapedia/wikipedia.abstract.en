@@ -1,1 +1,0 @@
-The FIBA EUROBASKET TOP SCORER is the FIBA Europe honor that is bestowed upon the leading scorer of each FIBA EuroBasket tournament. Radivoj Korać and Nikos Galis hold the scoring king record, finishing as the EuroBasket's top scorer on four occasions.

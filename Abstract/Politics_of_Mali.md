@@ -1,1 +1,0 @@
-Until the military coup of March 22, 2012[1][2] and a second military coup in December 2012[3] the POLITICS OF MALI took place in a framework of a semi-presidential representative democratic republic, whereby the President of Mali is head of state with a Presidentially appointed Prime Minister as the head of government, and of a multi-party system.

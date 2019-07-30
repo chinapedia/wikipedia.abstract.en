@@ -1,1 +1,0 @@
-Middletons_of_Rugeley_coach_69_(KPC_204P),_Showbus_2009_(2).jpg bodywork]] The BEDFORD Y SERIES was a family of single-decker bus and single-decker coach chassis manufactured by Bedford from 1970 to 1986, when Bedford ceased bus and truck production.

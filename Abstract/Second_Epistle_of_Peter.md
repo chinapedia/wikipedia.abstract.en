@@ -1,1 +1,0 @@
-The SECOND EPISTLE OF PETER, often referred to as SECOND PETER and written 2 PETER or in Roman numerals II PETER (especially in older references), is a book of the New Testament of the Bible, traditionally held to have been written by Saint Peter. Most critical biblical scholars have concluded Peter is not the author, considering the epistle pseudepigraphical.[1][2]

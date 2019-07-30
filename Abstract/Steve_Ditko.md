@@ -1,1 +1,0 @@
-STEPHEN JOHN DITKO[1] (; November 2, 1927 – c. June 29, 2018) was an American comics artist and writer best known as the artist and co-creator, with Stan Lee, of the Marvel Comics superheroes Spider-Man and Doctor Strange.

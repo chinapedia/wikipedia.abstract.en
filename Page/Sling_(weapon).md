@@ -1,5 +1,3 @@
-Weapon_Sling_1.jpg Weapon_Sling_2.jpg
-
 A SLING is a projectile weapon typically used to throw a blunt projectile such as a stone, clay, or lead "sling-bullet". It is also known as the SHEPHERD'S SLING. Someone who specialises in using slings is called a SLINGER.
 
 A sling has a small cradle or _pouch_ in the middle of two lengths of cord. The _sling stone_ is placed in the pouch. The middle finger or thumb is placed through a loop on the end of one cord, and a tab at the end of the other cord is placed between the thumb and forefinger. The sling is swung in an arc, and the tab released at a precise moment. This frees the projectile to fly to the target. The sling essentially works by extending the length of a human arm, thus allowing stones to be thrown much farther than they could be by hand.
@@ -25,8 +23,6 @@ The oldest known extant slings from the Old World were found in the tomb of Tuta
 
 Another Egyptian sling was excavated in El-Lahun in Al Fayyum Egypt in 1914 by William Matthew Flinders Petrie, and now resides in the Petrie Museum of Egyptian Archaeology—Petrie dated it to about 800 BC. It was found alongside an iron spearhead. The remains are broken into three sections. Although fragile, the construction is clear: it is made of bast fibre (almost certainly flax) twine; the cords are braided in a 10-strand elliptical sennit and the cradle seems to have been woven from the same lengths of twine used to form the cords.[4]
 
-Slingers_on_Trajan's_Column.JPG
-
 Ancient representations
 
 Representations of slingers can be found on artifacts from all over the ancient world, including Assyrian and Egyptian reliefs, the columns of Trajan[5] and Marcus Aurelius, on coins and on the Bayeux Tapestry.
@@ -35,7 +31,7 @@ The oldest representation of a slinger in art may be from Çatalhöyük, from ap
 
 Written history
 
-Sling_bullets_BM_GR1842.7-28.550_GR1851.5-7.11.jpg lead sling bullets with a winged thunderbolt molded on one side and the inscription "ΔΕΞΑΙ" (_Dexai_) meaning "take that" or "catch" on the other side, 4th century BC, from Athens, British Museum.[7]]]
+lead sling bullets with a winged thunderbolt molded on one side and the inscription "ΔΕΞΑΙ" (_Dexai_) meaning "take that" or "catch" on the other side, 4th century BC, from Athens, British Museum.[7]]]
 
 The sling is mentioned by Homer[8] and by other Greek authors. Xenophon in his history of the retreat of the Ten Thousand, 401 BC, relates that the Greeks suffered severely from the slingers in the army of Artaxerxes II of Persia, while they themselves had neither cavalry nor slingers, and were unable to reach the enemy with their arrows and javelins. This deficiency was rectified when a company of 200 Rhodians, who understood the use of leaden sling-bullets, was formed. They were able, says Xenophon, to project their missiles twice as far as the Persian slingers, who used large stones.[9]
 
@@ -60,7 +56,7 @@ The Bible provides a famous slinger account, the battle between David and Goliat
 
 Use of the sling is also mentioned in Second Kings 3:25, First Chronicles 12:2, and Second Chronicles 26:14 to further illustrate Israelite use.
 
-Balearic_Slinger.jpg, famous for the skill of its slingers.]]
+, famous for the skill of its slingers.]]
 
 Combat
 
@@ -88,7 +84,7 @@ Modern slings are begun by plaiting the cord for the finger loop in the center o
 
 Ammunition
 
-Sling_bullets_clay_and_stone.JPG Iron Age hill fort.]]
+Iron Age hill fort.]]
 
 The simplest projectile was a stone, preferably well-rounded. Suitable ammunition is frequently from a river. The size of the projectiles can vary dramatically, from pebbles massing no more than to fist-sized stones massing or more.
 
@@ -119,7 +115,7 @@ The Bayeux Tapestry of the 1070s portrays the use of slings in a hunting context
 
 The Americas
 
-Andean_sling_01.jpg hair]]
+hair]]
 
 The sling was known throughout the Americas.[22]
 
@@ -130,15 +126,13 @@ The sling was also used in the Americas for hunting and warfare. One notable use
 
 Variants
 
-Liber3.jpg traction trebuchet next to a staff slinger]]
+traction trebuchet next to a staff slinger]]
 
 Staff sling
 
 The STAFF SLING, also known as the STAVE SLING, _fustibalus_ (Latin), _fustibale_ (French), consists of a staff (a length of wood) with a short sling at one end. One cord of the sling is firmly attached to the stave and the other end has a loop that can slide off and release the projectile. Staff slings are extremely powerful because the stave can be made as long as two meters, creating a powerful lever. Ancient art shows slingers holding staff slings by one end, with the pocket behind them, and using both hands to throw the staves forward over their heads.
 
 The staff sling has a similar or superior range to the shepherd's sling, and can be as accurate in practiced hands. It is generally suited for heavier missiles and siege situations as staff slings can achieve very steep trajectories for slinging over obstacles such as castle walls. The staff itself can become a close combat weapon in a melee. The staff sling is able to throw heavy projectiles a much greater distance and at a higher arc than a hand sling. Staff slings were in use well into the age of gunpowder as grenade launchers, and were used in ship-to-ship combat to throw incendiaries.
-
-Friezen_vallen_de_toren_van_Damiate_aan.jpg
 
 Kestros
 
@@ -150,8 +144,6 @@ The traction trebuchet was a siege engine which uses the power of men pulling on
 
 
 Today
-
-Tibetan_Girl_Using_a_Sling.jpg Shepherd_boy_slinging_(LC-DIG-matpc-05262).jpg Stone_throwing_Nilin.webm
 
 Traditional slinging is still practiced as it always has been in the Balearic Islands, and competitions and leagues are common. In the rest of the world, the sling is primarily a hobby weapon, and a growing number of people make and practice with them. In recent years 'slingfests' have been held in Wyoming, USA, in September 2007 and in Staffordshire, England, in June 2008.
 

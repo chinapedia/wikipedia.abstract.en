@@ -1,1 +1,0 @@
-THOMAS WILLIAMS of Rushden Hall & Wanfield Lodge (c. 1794 – 2 December 1881) was a politician in the colony of South Australia, serving as a non-official acting member of the Legislative Council of South Australia from June 1843 to September 1843.

@@ -1,1 +1,0 @@
-A GIRL & A GUN WOMEN'S SHOOTING LEAGUE (AG & AG) is a women-only gun club introducing women and girls to pistol, rifle, and shotgun shooting.[1] The league is designed to "help ladies feel more comfortable when talking to instructors and handling a firearm."[2]

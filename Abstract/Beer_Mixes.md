@@ -1,1 +1,0 @@
-A beer mix usually refers to a beer-based drink which also includes one or more other taste components; the actual beer content is usually 40 to 70 per cent. The beer mix market is characterised by a wide range of products e.g. beer with cola, lemon, various lemonades, fruit juices etc.

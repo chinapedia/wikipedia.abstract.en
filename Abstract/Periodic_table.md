@@ -1,1 +1,0 @@
-Simple_Periodic_Table_Chart-en.svg

@@ -1,1 +1,0 @@
-Amy_Butcher_at_Powell's_Books.png AMY BUTCHER is an American writer and essayist. Her memoir, _Visiting Hours: A Memoir of Friendship and Murder_, was published in 2015. Her second book, _Mothertrucker,_ is forthcoming from Amazon Publishing literary press Little A Books in 2021.[1]

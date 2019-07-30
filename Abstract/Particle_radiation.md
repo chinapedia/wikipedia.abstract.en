@@ -1,1 +1,0 @@
-PARTICLE RADIATION is the radiation of energy by means of fast-moving subatomic particles. Particle radiation is referred to as a particle beam if the particles are all moving in the same direction, similar to a light beam.

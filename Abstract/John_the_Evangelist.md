@@ -1,1 +1,0 @@
-JOHN THE EVANGELIST (; ) is the name traditionally given to the author of the Gospel of John. Christians have traditionally identified him with John the Apostle, John of Patmos, or John the Presbyter,[1] although this has been disputed by modern scholars.[2]

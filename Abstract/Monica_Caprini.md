@@ -1,1 +1,0 @@
-'''Monica Caprini ''' (born 15 May 1974) is an Italian women's international footballer who plays as a defender. She is a member of the Italy women's national football team. She was part of the team at the UEFA Women's Euro 2001. On club level she plays for Ruco Line Lazio in Italy.[1]

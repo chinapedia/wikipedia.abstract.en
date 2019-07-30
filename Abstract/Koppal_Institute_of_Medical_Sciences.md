@@ -1,1 +1,0 @@
-KOPPAL INSTITUTE OF MEDICAL SCIENCES is a government medical college established in 2015 and is located in Koppal, Karnataka. The college accommodates 150 undergraduate MBBS seats but no postgraduate seats. The medical college and the medical courses are recognized by Medical Council of India.[1][2]

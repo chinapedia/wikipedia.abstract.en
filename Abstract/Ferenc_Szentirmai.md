@@ -1,1 +1,0 @@
-FERENC SZENTIRMAI (born 29 November 1983) is a Hungarian-born show jumping rider who has been representing Ukraine since 2010.[1][2] He competed at the 2016 Summer Olympics in Rio de Janeiro, Brazil, where he placed 13th team and was eliminated in the first round of the individual competition.

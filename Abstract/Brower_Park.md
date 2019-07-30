@@ -1,1 +1,0 @@
-BROWER PARK is a municipal park in Crown Heights, Brooklyn, New York City. It is located between Brooklyn Avenue to the west and Kingston Avenue to the east, and between St. Marks Avenue to the north and Park Place to the south. The T-shaped park encompasses roughly and shares a square block with the Brooklyn Children's Museum and P.S. 289 George V Brower.

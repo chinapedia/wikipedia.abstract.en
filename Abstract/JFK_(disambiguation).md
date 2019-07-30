@@ -1,1 +1,0 @@
-JFK are the initials by which John F. Kennedy (1917–1963), the 35th President of the United States, was often referred to.

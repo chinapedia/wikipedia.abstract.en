@@ -1,1 +1,0 @@
-XIANGMI LAKE() is man-made recreational lake located in Futian District, Shenzhen, Guangdong, China.[1][2][3] It covers a total surface area of and has a storage capacity of some of water. The lake provides landscape water and is used for flood and silt control, and recreational activities, such as boating, swimming, and fishing.[4]

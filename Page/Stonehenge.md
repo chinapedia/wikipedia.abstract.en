@@ -18,8 +18,6 @@ Despite being contemporary with true Neolithic henges and stone circles, Stonehe
 
 Early history
 
-Stonehenge_plan.jpg
-
 Mike Parker Pearson, leader of the Stonehenge Riverside Project based at Durrington Walls, noted that Stonehenge appears to have been associated with burial from the earliest period of its existence:
 
 Stonehenge evolved in several construction phases spanning at least 1500 years. There is evidence of large-scale construction on and around the monument that perhaps extends the landscape's time frame to 6500 years. Dating and understanding the various phases of activity is complicated by disturbance of the natural chalk by periglacial effects and animal burrowing, poor quality early excavation records, and a lack of accurate, scientifically verified dates. The modern phasing most generally agreed to by archaeologists is detailed below. Features mentioned in the text are numbered and shown on the plan, right.
@@ -32,7 +30,7 @@ Salisbury Plain was then still wooded, but 4,000 years later, during the earlier
 
 Stonehenge 1 (c. 3100 BC)
 
-Stonehenge_phase_one.jpg The first monument consisted of a circular bank and ditch enclosure made of Late Cretaceous (Santonian Age) Seaford Chalk, measuring about in diameter, with a large entrance to the north east and a smaller one to the south. It stood in open grassland on a slightly sloping spot.[25] The builders placed the bones of deer and oxen in the bottom of the ditch, as well as some worked flint tools. The bones were considerably older than the antler picks used to dig the ditch, and the people who buried them had looked after them for some time prior to burial. The ditch was continuous but had been dug in sections, like the ditches of the earlier causewayed enclosures in the area. The chalk dug from the ditch was piled up to form the bank. This first stage is dated to around 3100 BC, after which the ditch began to silt up naturally. Within the outer edge of the enclosed area is a circle of 56 pits, each about in diameter, known as the Aubrey holes after John Aubrey, the seventeenth-century antiquarian who was thought to have first identified them. The pits may have contained standing timbers creating a timber circle, although there is no excavated evidence of them. A recent excavation has suggested that the Aubrey Holes may have originally been used to erect a bluestone circle.[26] If this were the case, it would advance the earliest known stone structure at the monument by some 500 years. A small outer bank beyond the ditch could also date to this period.
+The first monument consisted of a circular bank and ditch enclosure made of Late Cretaceous (Santonian Age) Seaford Chalk, measuring about in diameter, with a large entrance to the north east and a smaller one to the south. It stood in open grassland on a slightly sloping spot.[25] The builders placed the bones of deer and oxen in the bottom of the ditch, as well as some worked flint tools. The bones were considerably older than the antler picks used to dig the ditch, and the people who buried them had looked after them for some time prior to burial. The ditch was continuous but had been dug in sections, like the ditches of the earlier causewayed enclosures in the area. The chalk dug from the ditch was piled up to form the bank. This first stage is dated to around 3100 BC, after which the ditch began to silt up naturally. Within the outer edge of the enclosed area is a circle of 56 pits, each about in diameter, known as the Aubrey holes after John Aubrey, the seventeenth-century antiquarian who was thought to have first identified them. The pits may have contained standing timbers creating a timber circle, although there is no excavated evidence of them. A recent excavation has suggested that the Aubrey Holes may have originally been used to erect a bluestone circle.[26] If this were the case, it would advance the earliest known stone structure at the monument by some 500 years. A small outer bank beyond the ditch could also date to this period.
 
 In 2013 a team of archaeologists, led by Mike Parker Pearson, excavated more than 50,000 cremated bone fragments, from 63 individuals, buried at Stonehenge.[27][28] These remains had originally been buried individually in the Aubrey holes, exhumed during a previous excavation conducted by William Hawley in 1920, been considered unimportant by him, and subsequently re-interred together in one hole, Aubrey Hole 7, in 1935.[29] Physical and chemical analysis of the remains has shown that the cremated were almost equally men and women, and included some children.[30][31] As there was evidence of the underlying chalk beneath the graves being crushed by substantial weight, the team concluded that the first bluestones brought from Wales were probably used as grave markers.[32][33] Radiocarbon dating of the remains has put the date of the site 500 years earlier than previously estimated, to around 3000 BC.[34][35] A 2018 study of the strontium content of the bones found that many of the individuals buried there around the time of construction had probably come from near the source of the bluestone in Wales and had not extensively lived in the area of Stonehenge before death.[36]
 
@@ -42,7 +40,7 @@ Evidence of the second phase is no longer visible. The number of postholes datin
 
 Stonehenge 3 I (c. 2600 BC)
 
-Stonehenge_dagger.jpg on the sarsen stones include ancient carvings of a dagger and an axe]]
+on the sarsen stones include ancient carvings of a dagger and an axe]]
 
 Archaeological excavation has indicated that around 2600 BC, the builders abandoned timber in favour of stone and dug two concentric arrays of holes (the Q and R Holes) in the centre of the site. These stone sockets are only partly known (hence on present evidence are sometimes described as forming 'crescents'); however, they could be the remains of a double ring. Again, there is little firm dating evidence for this phase. The holes held up to 80 standing stones (shown blue on the plan), only 43 of which can be traced today. It is generally accepted that the bluestones (some of which are made of dolerite, an igneous rock), were transported by the builders from the Preseli Hills, away in modern-day Pembrokeshire in Wales. Another theory is that they were brought much nearer to the site as glacial erratics by the Irish Sea Glacier[37] although there is no evidence of glacial deposition within southern central England.[38] A 2019 publication announced that evidence of Megalithic quarrying had been found at quarries in Wales identified as a source of Stonehenge's bluestone, indicating that the bluestone was quarried by human agency and not transported by glacial action.[39]
 
@@ -54,7 +52,7 @@ The Heelstone, a Tertiary sandstone, may also have been erected outside the nort
 
 Stonehenge 3 II (2600 BC to 2400 BC)
 
-Stone_Plan.jpg During the next major phase of activity, 30 enormous Oligocene-Miocene sarsen stones _(shown grey on the plan)_ were brought to the site. They may have come from a quarry around north of Stonehenge on the Marlborough Downs, or they may have been collected from a "litter" of sarsens on the chalk downs, closer to hand. The stones were dressed and fashioned with mortise and tenon joints before 30 were erected as a diameter circle of standing stones, with a ring of 30 lintel stones resting on top. The lintels were fitted to one another using another woodworking method, the tongue and groove joint. Each standing stone was around high, wide and weighed around 25 tons. Each had clearly been worked with the final visual effect in mind; the orthostats widen slightly towards the top in order that their perspective remains constant when viewed from the ground, while the lintel stones curve slightly to continue the circular appearance of the earlier monument.
+During the next major phase of activity, 30 enormous Oligocene-Miocene sarsen stones _(shown grey on the plan)_ were brought to the site. They may have come from a quarry around north of Stonehenge on the Marlborough Downs, or they may have been collected from a "litter" of sarsens on the chalk downs, closer to hand. The stones were dressed and fashioned with mortise and tenon joints before 30 were erected as a diameter circle of standing stones, with a ring of 30 lintel stones resting on top. The lintels were fitted to one another using another woodworking method, the tongue and groove joint. Each standing stone was around high, wide and weighed around 25 tons. Each had clearly been worked with the final visual effect in mind; the orthostats widen slightly towards the top in order that their perspective remains constant when viewed from the ground, while the lintel stones curve slightly to continue the circular appearance of the earlier monument.
 
 The inward-facing surfaces of the stones are smoother and more finely worked than the outer surfaces. The average thickness of the stones is and the average distance between them is . A total of 75 stones would have been needed to complete the circle (60 stones) and the trilithon horseshoe (15 stones). It was thought the ring might have been left incomplete, but an exceptionally dry summer in 2013 revealed patches of parched grass which may correspond to the location of removed sarsens.[43] The lintel stones are each around long, wide and thick. The tops of the lintels are above the ground.
 
@@ -76,7 +74,7 @@ Soon afterwards, the north eastern section of the Phase 3 IV bluestone circle wa
 
 After the monument (1600 BC on)
 
-Stonehenge_render.jpg The Y and Z Holes are the last known construction at Stonehenge, built about 1600 BC, and the last usage of it was probably during the Iron Age. Roman coins and medieval artefacts have all been found in or around the monument but it is unknown if the monument was in continuous use throughout British prehistory and beyond, or exactly how it would have been used. Notable is the massive Iron Age hillfort Vespasian's Camp built alongside the Avenue near the Avon. A decapitated seventh century Saxon man was excavated from Stonehenge in 1923.[48] The site was known to scholars during the Middle Ages and since then it has been studied and adopted by numerous groups.
+The Y and Z Holes are the last known construction at Stonehenge, built about 1600 BC, and the last usage of it was probably during the Iron Age. Roman coins and medieval artefacts have all been found in or around the monument but it is unknown if the monument was in continuous use throughout British prehistory and beyond, or exactly how it would have been used. Notable is the massive Iron Age hillfort Vespasian's Camp built alongside the Avenue near the Avon. A decapitated seventh century Saxon man was excavated from Stonehenge in 1923.[48] The site was known to scholars during the Middle Ages and since then it has been studied and adopted by numerous groups.
 
 
 Function and construction
@@ -98,8 +96,6 @@ Modern history
 
 Folklore
 
-Stonehenge_Heel_Stone_-_panoramio_(2).jpg
-
 "Heel Stone", "Friar’s Heel", or "Sun-Stone"
 
 The Heel Stone lies northeast of the sarsen circle, beside the end portion of Stonehenge Avenue.[65] It is a rough stone, above ground, leaning inwards towards the stone circle.[66] It has been known by many names in the past, including "Friar's Heel" and "Sun-stone".[67][68] At summer solstice an observer standing within the stone circle, looking northeast through the entrance, would see the Sun rise in the approximate direction of the heel stone, and the sun has often been photographed over it.
@@ -120,21 +116,19 @@ In another legend of Saxons and Britons, in 472, the invading king Hengist invit
 
 Sixteenth century to present
 
-Stonehenge_Lucas_de_Heere.jpgs by Lucas de Heere between 1573 and 1575]]
+s by Lucas de Heere between 1573 and 1575]]
 
 Stonehenge has changed ownership several times since King Henry VIII acquired Amesbury Abbey and its surrounding lands. In 1540 Henry gave the estate to the Earl of Hertford. It subsequently passed to Lord Carleton and then the Marquess of Queensberry. The Antrobus family of Cheshire bought the estate in 1824. During the First World War an aerodrome (Royal Flying Corps "No. 1 School of Aerial Navigation and Bomb Dropping")[75] was built on the downs just to the west of the circle and, in the dry valley at Stonehenge Bottom, a main road junction was built, along with several cottages and a cafe. The Antrobus family sold the site after their last heir was killed in the fighting in France. The auction by Knight Frank & Rutley estate agents in Salisbury was held on 21 September 1915 and included "Lot 15. Stonehenge with about 30 acres, 2 rods, 37 perches [12.44 ha] of adjoining downland."[76]
 
-Stonehenge_with_farm_carts,_c._1885.jpg
-
 Cecil Chubb bought the site for £6,600 and gave it to the nation three years later. Although it has been speculated that he purchased it at the suggestion of—or even as a present for—his wife, in fact he bought it on a whim, as he believed a local man should be the new owner.[77]
 
-Stonehengea117875.jpg marches past the site, winter 1914–15 (WW I); Background: Preservation work on stones, propped up by timbers]]
+marches past the site, winter 1914–15 (WW I); Background: Preservation work on stones, propped up by timbers]]
 
 In the late 1920s a nationwide appeal was launched to save Stonehenge from the encroachment of the modern buildings that had begun to rise around it.[78] By 1928 the land around the monument had been purchased with the appeal donations, and given to the National Trust to preserve. The buildings were removed (although the roads were not), and the land returned to agriculture. More recently the land has been part of a grassland reversion scheme, returning the surrounding fields to native chalk grassland.[79]
 
 Neopaganism
 
-Summer_Solstice_Sunrise_over_Stonehenge_2005.jpg, 21 June 2005]]
+, 21 June 2005]]
 
 During the twentieth century, Stonehenge began to revive as a place of religious significance, this time by adherents of Neopaganism and New Age beliefs, particularly the Neo-druids. The historian Ronald Hutton would later remark that "it was a great, and potentially uncomfortable, irony that modern Druids had arrived at Stonehenge just as archaeologists were evicting the ancient Druids from it."[80] The first such Neo-druidic group to make use of the megalithic monument was the Ancient Order of Druids, who performed a mass initiation ceremony there in August 1905, in which they admitted 259 new members into their organisation. This assembly was largely ridiculed in the press, who mocked the fact that the Neo-druids were dressed up in costumes consisting of white robes and fake beards.[81]
 
@@ -142,17 +136,17 @@ Between 1972 and 1984, Stonehenge was the site of the Stonehenge Free Festival. 
 
 Setting and access
 
-Stonehenge_cloudy_sunset.jpg When Stonehenge was first opened to the public it was possible to walk among and even climb on the stones, but the stones were roped off in 1977 as a result of serious erosion.[84] Visitors are no longer permitted to touch the stones, but are able to walk around the monument from a short distance away. English Heritage does, however, permit access during the summer and winter solstice, and the spring and autumn equinox. Additionally, visitors can make special bookings to access the stones throughout the year.[85]
+When Stonehenge was first opened to the public it was possible to walk among and even climb on the stones, but the stones were roped off in 1977 as a result of serious erosion.[84] Visitors are no longer permitted to touch the stones, but are able to walk around the monument from a short distance away. English Heritage does, however, permit access during the summer and winter solstice, and the spring and autumn equinox. Additionally, visitors can make special bookings to access the stones throughout the year.[85]
 
 The access situation and the proximity of the two roads has drawn widespread criticism, highlighted by a 2006 National Geographic survey. In the survey of conditions at 94 leading World Heritage Sites, 400 conservation and tourism experts ranked Stonehenge 75th in the list of destinations, declaring it to be "in moderate trouble".[86]
 
 As motorised traffic increased, the setting of the monument began to be affected by the proximity of the two roads on either side—the A344 to Shrewton on the north side, and the A303 to Winterbourne Stoke to the south. Plans to upgrade the A303 and close the A344 to restore the vista from the stones have been considered since the monument became a World Heritage Site. However, the controversy surrounding expensive re-routing of the roads has led to the scheme being cancelled on multiple occasions. On 6 December 2007, it was announced that extensive plans to build Stonehenge road tunnel under the landscape and create a permanent visitors' centre had been cancelled.[87]
 
-Stonehenge_visitors_centre.png On 13 May 2009, the government gave approval for a £25 million scheme to create a smaller visitors' centre and close the A344, although this was dependent on funding and local authority planning consent.[88] On 20 January 2010 Wiltshire Council granted planning permission for a centre to the west and English Heritage confirmed that funds to build it would be available, supported by a £10m grant from the Heritage Lottery Fund.[89] On 23 June 2013 the A344 was closed to begin the work of removing the section of road and replacing it with grass.[90][91] The centre, designed by Denton Corker Marshall, opened to the public on 18 December 2013.[92]
+On 13 May 2009, the government gave approval for a £25 million scheme to create a smaller visitors' centre and close the A344, although this was dependent on funding and local authority planning consent.[88] On 20 January 2010 Wiltshire Council granted planning permission for a centre to the west and English Heritage confirmed that funds to build it would be available, supported by a £10m grant from the Heritage Lottery Fund.[89] On 23 June 2013 the A344 was closed to begin the work of removing the section of road and replacing it with grass.[90][91] The centre, designed by Denton Corker Marshall, opened to the public on 18 December 2013.[92]
 
 Stonehenge Roundtable Access
 
-Stonehenge84.jpg]] The earlier rituals were complemented by the Stonehenge Free Festival, loosely organised by the Politantric Circle, held between 1972 and 1984, during which time the number of midsummer visitors had risen to around 30,000.[93] However, in 1985 the site was closed to festivalgoers by a High Court injunction.[94] A consequence of the end of the festival in 1985 was the violent confrontation between the police and New Age travellers that became known as the Battle of the Beanfield when police blockaded a convoy of travellers to prevent them from approaching Stonehenge. Beginning in 1985, the year of the Battle, no access was allowed into the stones at Stonehenge for any religious reason. This "exclusion-zone" policy continued for almost fifteen years: until just before the arrival of the twenty-first century, visitors were not allowed to go into the stones at times of religious significance, the winter and summer solstices, and the vernal and autumnal equinoxes.[95]
+]] The earlier rituals were complemented by the Stonehenge Free Festival, loosely organised by the Politantric Circle, held between 1972 and 1984, during which time the number of midsummer visitors had risen to around 30,000.[93] However, in 1985 the site was closed to festivalgoers by a High Court injunction.[94] A consequence of the end of the festival in 1985 was the violent confrontation between the police and New Age travellers that became known as the Battle of the Beanfield when police blockaded a convoy of travellers to prevent them from approaching Stonehenge. Beginning in 1985, the year of the Battle, no access was allowed into the stones at Stonehenge for any religious reason. This "exclusion-zone" policy continued for almost fifteen years: until just before the arrival of the twenty-first century, visitors were not allowed to go into the stones at times of religious significance, the winter and summer solstices, and the vernal and autumnal equinoxes.[95]
 
 However, following a European Court of Human Rights ruling obtained by campaigners such as Arthur Uther Pendragon, the restrictions were lifted.[96] The ruling recognizes that members of any genuine religion have a right to worship in their own church, and Stonehenge is a place of worship to Neo-Druids, Pagans and other "Earth based' or 'old' religions. The Roundtable meetings include members of the Wiltshire Police force, National Trust, English Heritage, Pagans, Druids, Spiritualists and others.
 
@@ -166,7 +160,7 @@ Archaeological research and restoration
 | caption = Post-World War I aerial photograph
 | width   = 200 | height = 150 | image-width = 250 | image-left = -20 | image-top = -10
 
-}} Stonehenge_-_Wiltonia_sive_Comitatus_Wiltoniensis;_Anglice_Wilshire_(Atlas_van_Loon).jpg ]]
+}} ]]
 
 1600–1900
 
@@ -175,8 +169,6 @@ Throughout recorded history, Stonehenge and its surrounding monuments have attra
 William Cunnington was the next to tackle the area in the early nineteenth century. He excavated some 24 barrows before digging in and around the stones and discovered charred wood, animal bones, pottery and urns. He also identified the hole in which the Slaughter Stone once stood. Richard Colt Hoare supported Cunnington's work and excavated some 379 barrows on Salisbury Plain including on some 200 in the area around the Stones, some excavated in conjunction with William Coxe. To alert future diggers to their work they were careful to leave initialled metal tokens in each barrow they opened. Cunnington's finds are displayed at the Wiltshire Museum. In 1877 Charles Darwin dabbled in archaeology at the stones, experimenting with the rate at which remains sink into the earth for his book _The Formation of Vegetable Mould Through the Action of Worms_.
 
 Stone 22 fell during a fierce storm on 31 December 1900.[100]
-
-stonehenge_1877.JPG Stonehenge_on_27.01.08.jpg Stone_Henge_1920_restoration_-_newspaperphoto.jpg
 
 1901–2000
 

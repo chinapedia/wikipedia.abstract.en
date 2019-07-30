@@ -1,1 +1,0 @@
-ALEXANDR RUDOLFOVICH ELKE (Александр Рудольфович Эльке, born 18 January 1971)[1] is a Kazakhstani water polo player. He was a member of the Kazakhstan men's national water polo team, playing as a centre back. He was a part of the team at the 2000 Summer Olympics and 2004 Summer Olympics.[2][3] On club level he played for Real Canoe NC in Spain.[4]

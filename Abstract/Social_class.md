@@ -1,1 +1,0 @@
-A SOCIAL CLASS is a set of subjectively defined concepts in the social sciences and political theory centered on models of social stratification in which people are grouped into a set of hierarchical social categories,[1] the most common being the upper, middle and lower classes.

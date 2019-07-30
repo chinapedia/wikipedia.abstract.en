@@ -1,1 +1,0 @@
-GILDUIN OF LE PUISET (d. between 1130 and 1135) was the son of Hugh I of Le Puiset and Alice of Monthléry, daughter of Guy I of Montlhéry. Monk at St. Martin-des-Champs, prior at Cluny Abbey, prior at Lurey-le-Bourg, abbot of St. Mary of the Valley of Jehosaphat.[1]

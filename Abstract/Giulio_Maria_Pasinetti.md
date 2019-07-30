@@ -1,1 +1,0 @@
-GIULIO MARIA PASINETTI is the Program Director of the Center on Molecular Integrative Neuroresilience[1] and is the Saunders Family Chair in Neurology at the Icahn School of Medicine at Mount Sinai (ISMMS) in New York City.[2] Pasinetti is a Professor of Neurology, Psychiatry, Neuroscience, and Geriatrics and Palliative Medicine at ISMMS.[3]

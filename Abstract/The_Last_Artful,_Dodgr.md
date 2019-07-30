@@ -1,1 +1,0 @@
-ALANA CHENEVERT (born May 26, 1987), better known by her stage name THE LAST ARTFUL, DODGR, is an American hip hop recording artist from Portland, Oregon.[1] She has been rapping and performing since 2011.[2] In 2016 she gained wider recognition and acclaim following her single "Squadron" released via EYRST.[3]

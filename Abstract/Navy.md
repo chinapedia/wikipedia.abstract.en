@@ -1,1 +1,0 @@
-Invincible_Armada.jpg fighting the English navy at the Battle of Gravelines in 1588]] Nicholas_Pocock_-_The_Battle_of_Copenhagen,_2_April_1801.jpg at the Battle of Copenhagen (1801)]] Indian_Navy_flotilla_of_Western_Fleet_escort_INS_Vikramaditya_(R33)_and_INS_Viraat_(R22)_in_the_Arabian_Sea.jpg escorts the aircraft carriers and through the Arabian Sea in 2014.]]

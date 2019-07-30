@@ -1,1 +1,0 @@
-The 28TH DIVISION () was created in February 1949 under _the Regulation of the Redesignations of All Organizations and Units of the Army_, issued by Central Military Commission on November 1, 1948,[1] basing on the 4th Brigade, 2nd Column of Zhongyuan Field Army.

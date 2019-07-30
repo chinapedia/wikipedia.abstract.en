@@ -1,1 +1,0 @@
-An ESBAT is a coven meeting at a time other than one of the Sabbats[1] within Wicca and other Wiccan-influenced forms of contemporary Paganism. Janet and Stewart Farrar describe esbats as an opportunity for a "love feast, healing work, psychic training and all."[2]

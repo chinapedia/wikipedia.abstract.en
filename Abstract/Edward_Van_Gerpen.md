@@ -1,1 +1,0 @@
-EDWARD E. VAN GERPEN (born March 23, 1938) is an American former politician. He has served as a Republican member in the South Dakota House of Representatives from 1985 to 1988, 1993 to 1996, and 2011 to 2012.[1][2]

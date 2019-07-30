@@ -1,1 +1,0 @@
-JOHN T. “JACK” SKELLY (June 1, 1927 – November 8, 2016) was a journalist who wrote for a number of news organizations focusing primarily on Latin America and served for a brief period in 1959 as Fidel Castro’s international press coordinator.

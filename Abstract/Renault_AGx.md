@@ -1,1 +1,0 @@
-The RENAULT AGX was a range of light/medium/heavy trucks produced by the French manufacturer Renault between 1937 and 1941. The range includes both conventional (AGC, AGT) and forward control (AGK, AGP, AGR, AGOD, AGLD) trucks.

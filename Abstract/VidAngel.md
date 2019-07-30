@@ -1,1 +1,0 @@
-|alt = |caption = |key_people = | current_status = Active }} VIDANGEL is an American streaming video company that allows the user to skip distasteful content based on user preferences regarding profanity, nudity, sexual situations, and graphic violence.

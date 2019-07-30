@@ -1,1 +1,0 @@
-KATE JACKSON (born 14 February 1972) is a Canadian herpetologist who specializes in the study of venomous snakes in Central Africa. She earned her PhD from Harvard in 2002. In her dissertation she concluded that a venom-delivery system evolved during the Miocene era, approximately 25 million years ago. And from there three separate, more sophisticated, apparatuses developed.[1]

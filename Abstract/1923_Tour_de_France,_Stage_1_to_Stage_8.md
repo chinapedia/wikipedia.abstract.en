@@ -1,1 +1,0 @@
-Tour_de_France_1922.png The 1923 Tour de France was the 17th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris with a flat stage on 24 June, and Stage 8 occurred on 8 July with a flat stage to Toulon. The race finished in Paris on 22 July.

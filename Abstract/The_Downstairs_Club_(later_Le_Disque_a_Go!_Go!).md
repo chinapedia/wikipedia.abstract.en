@@ -1,1 +1,0 @@
-THE DOWNSTAIRS CLUB was Bournemouth’s first full-time rock, rhythm and blues and jazz venue. It opened in 1961 and under its later name of Le Disque a Go! Go! Manfred Mann, The Who, Eric Clapton, Andy Summers, Georgie Fame, Zoot Money and many other musicians appeared there. In 2014 a blue plaque commemorating the club was unveiled outside the former premises.

@@ -1,1 +1,0 @@
-KENNETH WILLIAMS (born 17 February 1937) is a British-Canadian former swimmer. He competed in two events at the 1956 Summer Olympics for Great Britain.[1] Later, he would represent Canada at the Commonwealth Games.[2]

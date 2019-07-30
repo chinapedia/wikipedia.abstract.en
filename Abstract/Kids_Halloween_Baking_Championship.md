@@ -1,1 +1,0 @@
-_KIDS HALLOWEEN BAKING CHAMPIONSHIP_ is an American cooking competition television special that aired on Food Network on October 5, 2016.[1] Food Network chef Duff Goldman and actress Alison Sweeney served at the competition as judges.[2][3] The contestants were four child bakers who had previously competed on _Kids Baking Championship_.[4][5][6][7]

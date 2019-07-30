@@ -1,1 +1,0 @@
-SOLEDAD ESTORACH ESTERRI (6 February 1915, in Albatàrrec, Segrià, Spain – 14 March 1993, in Bordeaux, France) was a Catalan anarcha-feminist. She created the Institut Mujeres Libres and Casal de la Dona Treballadora.[1] She contributed to the papers _Tierra y Libertad_ and _Mujeres Libres_ as well as a book which was collectively written, _Mujeres Libres_.[2]

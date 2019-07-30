@@ -1,1 +1,0 @@
-Statistics, like all mathematical disciplines, does not infer valid conclusions from nothing. Inferring interesting conclusions about real statistical populations almost always requires some background assumptions. Those assumptions must be made carefully, because incorrect assumptions can generate wildly inaccurate conclusions.

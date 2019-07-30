@@ -1,1 +1,0 @@
-MAURICE GAFFNEY, S.C. (11 October 1916 – 3 November 2016)[1] was an Irish barrister, who at the time of his death at the age of 100, was the oldest practicing barrister in the Republic of Ireland.[2][3]

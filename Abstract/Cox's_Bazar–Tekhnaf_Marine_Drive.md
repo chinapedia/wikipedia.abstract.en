@@ -1,1 +1,0 @@
-COX’S BAZAR–TEKHNAF MARINE DRIVE is an 80-kilometre-long road from Cox’s Bazar to Teknaf along the Bay of Bengal and it is the world’s longest marine drive.[1] It was inaugurated on May 6, 2017 by Prime Minister Sheikh Hasina.[2]

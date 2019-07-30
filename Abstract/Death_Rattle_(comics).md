@@ -1,1 +1,0 @@
-_DEATH RATTLE_ was an American black-and-white horror anthology comic book series published in three volumes by Kitchen Sink Press in the 1970s, 1980s, and 1990s. _Death Rattle_ is not related to the Australian one-shot comic _Death Rattle_, published by Gredown in c. 1983.[1]

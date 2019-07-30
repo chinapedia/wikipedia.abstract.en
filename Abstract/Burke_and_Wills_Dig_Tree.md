@@ -1,1 +1,0 @@
-BURKE AND WILLS DIG TREE is a heritage-listed, blazed, eucalyptus tree at Nappa Merrie Station, Durham, Shire of Bulloo, Queensland, Australia. It was blazed on 21 April 1861. It was added to the Queensland Heritage Register on 28 February 2003.[1]

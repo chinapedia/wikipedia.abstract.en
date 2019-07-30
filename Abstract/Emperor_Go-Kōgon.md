@@ -1,1 +1,0 @@
-EMPEROR GO-KŌGON (後光厳天皇 _Go-Kōgon-tennō_) (23 March 1338 – 12 March 1374) was the 4TH of the Emperors of Northern Court during the Period of the Northern and Southern Courts. According to pre-Meiji scholars, his reign spanned the years from 1352 through 1371.[1]

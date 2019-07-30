@@ -1,1 +1,0 @@
-LONGANESI, also known as LONGANESI & C., is a publishing house based in Milan, Italy. It was founded in 1946 by Leo Longanesi and industrialist Giovanni Monti.[1] It initially got a large success thanks to some editorial series such as '' La buona società'' and _La gaia scienza_.[2]

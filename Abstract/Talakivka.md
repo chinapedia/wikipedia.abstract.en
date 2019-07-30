@@ -1,1 +1,0 @@
-TALAKIVKA (; ) is an urban-type settlement in Kalmius Raion of Mariupol city in Donetsk Oblast of eastern Ukraine, at 89.4 km SSW from the centre of Donetsk city, at a distance of 19 km north from the centre of Mariupol, on the right bank of the Kalmius river. Population: .

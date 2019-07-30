@@ -1,1 +1,0 @@
-REGIONAL ELECTIONS were held in the Czech Republic to elect the Regional Councils in 13 regions (all except Prague) on 17 and 18 October 2008.[1] The elections were won by the opposition Czech Social Democratic Party (ČSSD), which won in every region.[2]

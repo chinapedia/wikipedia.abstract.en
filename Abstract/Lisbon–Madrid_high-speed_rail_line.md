@@ -1,1 +1,0 @@
-LISBON–MADRID HIGH-SPEED RAIL LINE is a proposed high speed line between the Iberian capitals. It forms part of the Trans-European high-speed rail network, which in turn is one of a number of the European Union's Trans-European transport networks (TEN-T). It was defined by the COUNCIL DIRECTIVE 96/48/EC of 23 July 1996.[1]

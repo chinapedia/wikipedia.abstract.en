@@ -1,1 +1,0 @@
-SIR FREDERICK AUGUSTUS ABEL, 1ST BARONET GCVO, KCB, FRS (17 July 1827[1]6 September 1902) was an English chemist.

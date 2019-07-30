@@ -1,1 +1,0 @@
-Future_Combined_with_Science_Fiction_October_1941.jpg''. It appeared under Wollheim's "Martin Pearson" pseudonym and was illustrated by Hannes Bok.]] DONALD ALLEN WOLLHEIM (October 1, 1914 – November 2, 1990) was an American science fiction editor, publisher, writer, and fan. As an author, he published under his own name as well as under pseudonyms, including DAVID GRINNELL.[1]

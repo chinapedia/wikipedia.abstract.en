@@ -1,1 +1,0 @@
-RIJKENS is a Dutch surname. Among variant forms are _Rijk_, _Rijke_, _Rijken_, _Rijkes_ and _Rijks_, while the ij digraph in Dutch names is often replaced with a "y" abroad. These usually are patronymic surnames ("Rijk's son"), but occasionally may stem from _rijk_ meaning "rich" in Dutch.[1] People with these surnames include:

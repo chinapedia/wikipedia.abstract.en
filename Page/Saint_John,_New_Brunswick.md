@@ -7,8 +7,6 @@ French colonist Samuel de Champlain landed at Saint John Harbour on June 24, 160
 
 History
 
-Blason_ville_ca_Saint-Jean_(Nouveau-Brunswick).svg
-
 Predated by the Maritime Archaic Indian civilization, the northwestern coastal regions of the Bay of Fundy is believed to have been inhabited by the Passamaquoddy Nation several thousand years ago, while the Saint John River valley north of the bay became the domain of the Maliseet Nation. The Mi'kmaq also ventured into the territory and named the area ''Měnagwĕs'', which means "where they collect the dead seals."[7]
 
 Samuel de Champlain landed at Saint John Harbour in 1604, though he did not settle the area. The region was conquered by the British by the end of the Seven Years' War. After being incorporated as a city in 1785 with an influx of Loyalists from the northern of the former Thirteen Colonies and immigrants from Ireland, the city grew as a global hub for shipping and shipbuilding.[8] In 1851 the city cemented itself as a global shipbuilding hub when the , built from a Saint John yard, became the fastest in the world.[9]
@@ -17,7 +15,7 @@ However, the city would also struggle with its success. From 1840 to 1860 sectar
 
 Notable firsts
 
-Marcopoloclipper.jpg]] Blacksmith_Shop_Behind_Custom_House.jpg Saint_John_New_Brunswick_street_scape,_Germain_St..jpg North_End_Clarendon.jpg
+]]
 
 -   1785: Saint John becomes the first incorporated city in what would become Canada.[13]
 -   1785: First quarantine station in North America, Partridge Island, established by the city's charter.[14] In the early 19th century, it greeted sick and dying Irish immigrants arriving with inhospitable conditions.
@@ -41,17 +39,11 @@ Marcopoloclipper.jpg]] Blacksmith_Shop_Behind_Custom_House.jpg Saint_John_New_Br
 
 Geography and climate
 
-Saint_John,_NB,_Reversing_Falls,_low_tide.jpg
-
-Martellotower.jpg
-
 Physical geography
 
 Situated in the south-central portion of the province, along the north shore of the Bay of Fundy at the mouth of the Saint John River, the city is split by the south-flowing river and the east side is bordered on the north by the Kennebecasis River where it meets the Saint John River at Grand Bay. Saint John Harbour, where the two rivers meet the Bay of Fundy is a deep water port and ice-free all year long. Partridge Island is in the harbour.
 
 Stonehammer UNESCO Geopark, the first Geopark in North America, is centred around Saint John. The Geopark has been recognized by UNESCO as having exceptional geological significance. The park contains rock formations throughout the Saint John region ranging billions of years.
-
-St_Martins_NB_covered_bridge.jpg
 
 The Saint John River itself flows into the Bay of Fundy through a narrow gorge several hundred feet wide at the centre of the city. It contains a unique phenomenon called the Reversing Falls where the diurnal tides of the bay reverse the water flow of the river for several kilometres. A series of underwater ledges at the narrowest point of this gorge also create a series of rapids.
 
@@ -61,9 +53,7 @@ In Saint John the height difference from low to high tide is approximately 8 met
 
 Neighbourhoods
 
-SaintJohn1894.jpg Saint John is a city of neighbourhoods, with residents closely identifying with their particular area.
-
-King_Edward_VII_Memorial_Bandstand.JPG
+Saint John is a city of neighbourhoods, with residents closely identifying with their particular area.
 
 South (End) Central Peninsula—Uptown
 
@@ -80,8 +70,6 @@ Further north of the central part of the city, and northeast of the North End an
 The eastern area of the North End plays host to the city's largest park, and one of Canada's largest urban parks. Rockwood Park encompasses 890 hectares of upland Acadian mixed forest, many hills and several caves, as well as several freshwater lakes, with an extensive trail network, a golf course, and the Cherry Brook Zoo. The park was designed by Calvert Vaux in the mid-to-late 19th century. Mount Pleasant borders the park, and is generally seen as distinct from the traditionally poorer North End.
 
  East Side (Simonds/Loch Lomond)
-
-Church,_St._Johns.jpg
 
 To the east of the Courtney Bay / Forebay and south of New Brunswick Route 1 is the East Side, where the city has experienced its greatest suburban sprawl in recent decades with commercial retail centres and residential subdivisions. There has been significant and consistent commercial and retail development in the Westmorland Road-McAllister Drive-Consumer's Drive-Major's Brook Drive-Retail Drive corridor since the 1970s, including McAllister Place, the city's largest shopping mall, which opened in 1978, and with active year-to-year development since 1994. The city's airport is further east on the coastal plain among several lakes at the far eastern edge of the municipality. Far east side is Loch Lomond, including several urban neighbourhoods are found here, including Forest Hills, Champlain Heights, and Lakewood Heights. The malls were built by filling in Major's Brook (a tributary to Marsh Creek), making the area prone to flooding.
 
@@ -108,7 +96,7 @@ The highest temperature ever recorded in Saint John was on June 22, 1941,[28] Au
 
 Buildings and structures
 
-SaintJohnMarketExterior.jpg]] Saint_John,_NB,_historical_building_with_iron_staircase,_Germain_and_King_Sts..jpg
+]]
 
 -   Courtney Bay Smokestacks (each )
 -   Brunswick Square () 19-story office building with which was built in 1976. It is the largest office building in New Brunswick in terms of square footage and second in Atlantic Canada behind the Maritime Centre in Halifax.
@@ -269,7 +257,7 @@ In the October 9, 2007 Plebiscite, it was decided that as of the May 2008 quadre
 
 Economy
 
-Colsen_cove_park_009.jpg Old_Post_Office_Saint_John.JPG The sea has shaped Saint John, the only city on the Bay of Fundy. Saint John has a long history of shipbuilding at the city's dry dock, which is one of the largest in the world. Since 2003 shipbuilding has ended on the scale it once was, forcing the city to adopt a new economic strategy. The University of New Brunswick, the New Brunswick Museum and the New Brunswick Community College are important institutions, along with Radian6 and Horizon Health Network and many others, are a part of Saint John's fast-growing research and information-technology sectors. As the city moves away from its industrial past it now begins to capitalize on the growing sector of tourism, hosting over 1.5 million visitors a year and 200,000 cruise ship visitors a year, creating a renaissance in the city's historic downtown (locally known as uptown). Many small businesses have moved into Uptown and large scale waterfront developments are underway, such as the Fundy Quay (condo, hotel and office space), Saint John Law Courts, and the Three Sisters Harbourfront condos.
+The sea has shaped Saint John, the only city on the Bay of Fundy. Saint John has a long history of shipbuilding at the city's dry dock, which is one of the largest in the world. Since 2003 shipbuilding has ended on the scale it once was, forcing the city to adopt a new economic strategy. The University of New Brunswick, the New Brunswick Museum and the New Brunswick Community College are important institutions, along with Radian6 and Horizon Health Network and many others, are a part of Saint John's fast-growing research and information-technology sectors. As the city moves away from its industrial past it now begins to capitalize on the growing sector of tourism, hosting over 1.5 million visitors a year and 200,000 cruise ship visitors a year, creating a renaissance in the city's historic downtown (locally known as uptown). Many small businesses have moved into Uptown and large scale waterfront developments are underway, such as the Fundy Quay (condo, hotel and office space), Saint John Law Courts, and the Three Sisters Harbourfront condos.
 
 The arts and culture sector plays a large role in Saint John's economy. The Imperial Theatre is home to the highly acclaimed Saint John Theatre Company, and the Symphony New Brunswick and hosts a large collection of plays, concerts and other stage productions year-round. Harbour Station entertainment complex is home to the Saint John Sea Dogs of the QMJHL and the Saint John Riptide of the NBL.
 
@@ -311,8 +299,6 @@ The Saint John Street Railwaymen’s strike and riot of 1914
 
 The 1914 Saint John street railway strike (sometimes called the _Saint John street railwaymen's strike_)[47] was a strike by workers on the street railway system in the city which lasted from July 22–24, 1914, with rioting by Saint John inhabitants occurring on July 23 and 24. The strike was important for shattering the image of Saint John as a conservative town dominated primarily by ethnic and religious (rather than class) divisions, and highlighting tensions between railway industrialists and the local working population.
 
-1914_Saint_John_riot_aftermath.jpg
-
 The 1949 Canadian Seamen’s Union strike
 
 The 1949 Canadian Seamen’s Union (CSU) strike for many shows a striking bit of history in Canadian labour and is a story about anti-union shipping companies who had a clear disregard for the law. The companies demanded the removal from the contract of the hiring hall. This concession was totally unacceptable to the union as it would mean the end of the CSU. When the union discovered the shipping companies were signing back-door agreements with the Seafarer’s International Union (SIU) they had implemented strike action. With SIU crews operating the ships and the longshoremen handling the cargo, the CSU strike in Saint John was, for all intents and purposes, over. The union had been destroyed by a corrupt American union, led by gangster Hal Banks, who was supported by the American labour movement, the Canadian government and the Shipping Federation of Canada. The strike was now ineffective in Saint John, but the vibrations from the strike would be felt in the city for many years[48]
@@ -328,7 +314,7 @@ On May 12, 1994 at 4:30 pm, members of Local 691 of the Communications, Energy a
 
 Transportation
 
-Uptown_Saint_John,_from_Bridge.jpg June_2009_Saint_John_Transit_Bus.jpg bus in uptown.]]
+bus in uptown.]]
 
 Air service into Saint John is provided by the Saint John Airport/Aéroport de Saint-Jean, near Loch Lomond approximately 25 kilometres by road northeast of the city centre. Flights are offered by Sunwing Airlines (seasonal) and Air Canada. WestJet recently decided to withdraw from the Saint John Airport. Quebec-based PASCAN Aviation announced its expansion into Saint John in late 2012, with direct flights from Saint John to Quebec City, Newfoundland, and other destinations beginning in September 2012. Porter Airlines flies once daily from Saint John, to Ottawa and Toronto Island Airport.[51]
 
@@ -345,11 +331,9 @@ Culture
 
 The presence of Irish, British and French heritage is very apparent along with maritime traditions. Saint John's economy has long ties to the fisheries and shipbuilding, and is known for the Marco Polo as its flagship vessel. However, the city's economy has begun a transition from resource-based sectors and manufacturing to include a growing IT sector. The city has been a traditional hub for the arts, boasting many notable artists, actors and musicians, including Walter Pidgeon, Donald Sutherland, James Bohee, Louis B. Mayer, Fred Ross and Miller Brittain.
 
-Saint_John,_NB,_historical_Church_(Brennans)_St..jpg
-
 Saint John has a long history of brewers, such as Simeon Jones, The Olands, and James Ready. The city is now home to Moosehead Breweries, James Ready Brewing Co., Big Tide Brewing Co., Picaroon's and other craft brewers.
 
-Imperial_Theatre,_Saint_John(IMG_9955).JPG, a National Historic Site still hosting live performances.]] Fiddlehead_Saint_John.JPG sculpture at the Saint John Arts Centre in the city's uptown.]] Dance, music, and theatre ensembles in the city include:
+, a National Historic Site still hosting live performances.]] sculpture at the Saint John Arts Centre in the city's uptown.]] Dance, music, and theatre ensembles in the city include:
 
 -   Comhaltas Saint John Comhaltas Ceoltóirí Éireann was founded in Dublin, Ireland, in 1951. Its mandate is to promote traditional Irish music and culture, and there are more than 400 branches around the world. The Saint John branch of Comhaltas is the eastern-most chapter in Canada.
 -   JP Collins Celtic Festival is an Irish festival celebrating Saint John's Irish heritage. The festival is named for a young Irish doctor James Patrick Collins who worked on Partridge Island (Saint John County) quarantine station tending to sick Irish immigrants before he died there himself.
@@ -402,7 +386,7 @@ The following museums are also in Saint John:
 -   Saint John Floral Museum
 -   Saint John Police Museum
 
-Bank_of_New_Brunswick_Building_2.JPG building, Canada's first bank established by Royal Charter.]] National Historic Sites of Canada in Saint John include:
+building, Canada's first bank established by Royal Charter.]] National Historic Sites of Canada in Saint John include:
 
 -   Carleton Martello Tower
 -   Chipman Hill
@@ -429,7 +413,7 @@ Quality Block Party music festival hosts independent New Brunswick musicians in 
 
 Sport
 
-HarbourStation.jpg, New Brunswick's main indoor arena, which is home to city's Quebec Major Junior hockey team, Saint John Sea Dogs, and the Saint John Riptide of the National Basketball League of Canada]]
+, New Brunswick's main indoor arena, which is home to city's Quebec Major Junior hockey team, Saint John Sea Dogs, and the Saint John Riptide of the National Basketball League of Canada]]
 
 The following teams are based in Saint John:
 
@@ -459,7 +443,7 @@ Saint John is also home to Exhibition Park Raceway, a Harness Racing facility th
 
 Education
 
-Commons_unbsj_003.JPG In 1964, the University of New Brunswick created UNB Saint John in buildings throughout the uptown CBD. In 1968 UNBSJ opened a new campus in the city's Tucker Park neighbourhood. This campus has undergone expansion over the years and is the fastest growing component of the UNB system with many new buildings constructed between the 1970s-first decade of the 21st century. A trend in recent years has been a growth in the number of international students. The city also hosts a New Brunswick Community College campus in the East End of the city. There has also been a satellite campus of Dalhousie Medical School added within the UNBSJ campus in 2010, instructing 30 medical students each year.
+In 1964, the University of New Brunswick created UNB Saint John in buildings throughout the uptown CBD. In 1968 UNBSJ opened a new campus in the city's Tucker Park neighbourhood. This campus has undergone expansion over the years and is the fastest growing component of the UNB system with many new buildings constructed between the 1970s-first decade of the 21st century. A trend in recent years has been a growth in the number of international students. The city also hosts a New Brunswick Community College campus in the East End of the city. There has also been a satellite campus of Dalhousie Medical School added within the UNBSJ campus in 2010, instructing 30 medical students each year.
 
 In the fall of 2007, a report commissioned by the provincial government recommended UNBSJ and the NBCC be reformed and consolidated into a new polytechnic post-secondary institute. The proposal immediately came under heavy criticism and led to the organizing of several protests in the uptown area, citing the diminishment of UNB as a nationally accredited university, the reduction in accessibility to receive degrees - and these are only a couple of the reasons why the community was enraged by the recommendation. Support for keeping UNBSJ as it was, and expanding the university under its current structure, fell slightly below 90%. Seeing too much political capital would be lost, and several Saint John MPs were likely not to support the initiative if the policies recommended by the report were legislated, the government abandoned the commission's report and created an intra-provincial post-secondary commission.
 

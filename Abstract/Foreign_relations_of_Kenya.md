@@ -1,1 +1,0 @@
-Kenya maintains relations with various countries around the world. Its closest ties are with its fellow Swahili-speaking neighbors in the African Great Lakes region. Relations with Uganda and Tanzania are generally strong, as the three nations work toward economic and social integration through common membership in the East African Community.

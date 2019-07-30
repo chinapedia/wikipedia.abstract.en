@@ -1,1 +1,0 @@
-NAOMI WENDY CLIMER CBE FREng, FIET (born 18 December 1964) is a British engineer who has worked in broadcast, media and communications technology chiefly at the BBC and Sony Professional Solutions, and was the first female President of the Institution of Engineering and Technology (IET).[1][2][3]

@@ -1,1 +1,0 @@
-JOSÉ RAFAEL RUIZ APARICIO (born October 21, 1994) is a Venezuelan professional baseball pitcher for the Chicago White Sox of Major League Baseball (MLB). He previously played for the San Diego Padres.

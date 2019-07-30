@@ -1,1 +1,0 @@
-BRENT SANFORD (born December 23, 1971) is an American politician from the state of North Dakota. A member of the Republican Party, he is the 38th and current Lieutenant Governor of North Dakota and was the mayor of Watford City, North Dakota.[1]

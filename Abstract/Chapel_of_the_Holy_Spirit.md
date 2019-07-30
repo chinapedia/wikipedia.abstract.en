@@ -1,1 +1,0 @@
-The CHAPEL OF THE HOLY SPIRIT is a church in Rhode Island, United States. It is the first independent Catholic church in Providence, not under the authority of the Diocese of Providence. It is an LGBT inclusive church in the Catholic tradition.

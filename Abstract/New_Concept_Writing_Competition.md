@@ -1,1 +1,0 @@
-The NEW CONCEPT WRITING COMPETITION (新概念作文大赛) is a Chinese literary competition for young writers, who may submit work up to a maximum of 5000 Chinese characters. Many of the winners have gone on to have successful writing careers.[1][2]

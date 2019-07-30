@@ -1,1 +1,0 @@
-The CITRUS MUSEUM (), also known as SEOGWIPO CITRUS MUSEUM is a public museum which opened on Jeju, South Korea in 2005, dedicated to Jeju's speciality product, the local citrus.[1] It is managed and operated by Seogwipo city government. The museum displays items related to the history and culture of citrus and the citrus industry.[2]

@@ -1,1 +1,0 @@
-In economics, STAGFLATION, or recession-inflation, is a situation in which the inflation rate is high, the economic growth rate slows, and unemployment remains steadily high. It presents a dilemma for economic policy, since actions intended to lower inflation may exacerbate unemployment, and vice versa.

@@ -1,1 +1,0 @@
-ADOLPHE THOMEGEUX was a French fencer. He competed in the individual épée event at the 1900 Summer Olympics. In the first round he didn't qualify for the quarter finals.[1] His brother Pierre Thomegeux was also a fencer who competed in the individual épée event at the 1900 Summer Olympics.

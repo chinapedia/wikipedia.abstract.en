@@ -1,1 +1,0 @@
-XU RUI (born June 6, 1995) is a Chinese freestyle wrestler. She competed in the women's freestyle 63 kg event at the 2016 Summer Olympics, in which she was eliminated in the quarterfinals by Inna Trazhukova.[1][2]

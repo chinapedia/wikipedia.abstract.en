@@ -1,1 +1,0 @@
-_TUROK: RAGE WARS_ is an action video game developed by Bit Managers and published by Acclaim Entertainment for the Game Boy Color handheld console in 1999. Although the game is set in the same fictional universe as its Nintendo 64 counterpart, it is a different game. The game received generally favorable reviews from critics.

@@ -1,1 +1,0 @@
-Cardinal MAURICE PIAT (born 19 July 1941) is a Mauritian Roman Catholic prelate who has served as Bishop of Port Louis, Mauritius, since 1993; he is also a professed member of the Congregation of the Holy Spirit. Piat was ordained a priest in 1970 and made a bishop in 1991. Pope Francis made him a cardinal on 19 November 2016.

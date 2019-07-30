@@ -1,1 +1,0 @@
-HONG SOOK-JA () is a South Korean activist, politician and writer. She was appointed South Korea's first female diplomat and later became the first female presidential candidate to enter South Korea's first democratic elections in 1987.[1]

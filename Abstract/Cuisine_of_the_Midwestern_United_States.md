@@ -1,1 +1,0 @@
-MIDWESTERN CUISINE is a regional cuisine of the American Midwest. It draws its culinary roots most significantly from the cuisines of Central, Northern and Eastern Europe, and Native North America, and is influenced by regionally and locally grown foodstuffs[1] and cultural diversity.[2]

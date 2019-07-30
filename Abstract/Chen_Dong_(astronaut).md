@@ -1,1 +1,0 @@
-CHEN DONG (; born 12 December 1978) is a Chinese pilot and astronaut selected as part of the Shenzhou program. A fighter pilot in the People's Liberation Army Air Force, he was selected to be a CNSA astronaut in 2010.[1]

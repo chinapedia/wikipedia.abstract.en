@@ -7,7 +7,7 @@ The national government (_malo_) generally controls the legislative assembly as 
 
 Executive branch
 
-Samoa_government_building_2010.JPG housing administrative ministerial offices. On the roof is a modern version of a traditional oval Samoan ''_fale_.]] |O le Ao o le Malo |Va'aletoa Sualauvi II |Independent |21 July 2017 |- |Prime Minister |Tuilaepa Aiono Sailele Malielegaoi |Human Rights Protection Party |24 November 1998 |} The 1960 Constitution, which formally came into force with independence, is based on the British Westminster model of parliamentary democracy, modified to take account of Samoan customs. Two of Samoa's four highest ranking paramount chiefs (Tama a 'Aiga) at the time of independence were given lifetime appointments to jointly hold the office of head of state. Another paramount chief, Fiame Mata'afa Faumuina Mulinu'u II was elected into parliament and became the first Prime Minister of Samoa. Malietoa Tanumafili II held the post of Head of State alone since the death of his colleague, Tupua Tamasese Mea'ole, in 1963. Tanumafili died in May 2007 and his successor, Tupua Tamasese Tupuola Tufuga Efi was elected by the legislature for a five-year term in June 2007. At the time the Constitution was adopted it was anticipated that future Heads of State would be chosen from among the four Tama-a-Aiga 'royal' paramount chiefs. However, this is not required by the Constitution and for this reason Samoa can be considered a republic rather than a constitutional monarchy like the United Kingdom. Parliament (the Fono) can also amend the constitution through a simple majority of votes in the house.
+housing administrative ministerial offices. On the roof is a modern version of a traditional oval Samoan ''_fale_.]] |O le Ao o le Malo |Va'aletoa Sualauvi II |Independent |21 July 2017 |- |Prime Minister |Tuilaepa Aiono Sailele Malielegaoi |Human Rights Protection Party |24 November 1998 |} The 1960 Constitution, which formally came into force with independence, is based on the British Westminster model of parliamentary democracy, modified to take account of Samoan customs. Two of Samoa's four highest ranking paramount chiefs (Tama a 'Aiga) at the time of independence were given lifetime appointments to jointly hold the office of head of state. Another paramount chief, Fiame Mata'afa Faumuina Mulinu'u II was elected into parliament and became the first Prime Minister of Samoa. Malietoa Tanumafili II held the post of Head of State alone since the death of his colleague, Tupua Tamasese Mea'ole, in 1963. Tanumafili died in May 2007 and his successor, Tupua Tamasese Tupuola Tufuga Efi was elected by the legislature for a five-year term in June 2007. At the time the Constitution was adopted it was anticipated that future Heads of State would be chosen from among the four Tama-a-Aiga 'royal' paramount chiefs. However, this is not required by the Constitution and for this reason Samoa can be considered a republic rather than a constitutional monarchy like the United Kingdom. Parliament (the Fono) can also amend the constitution through a simple majority of votes in the house.
 
 System of government
 
@@ -42,7 +42,7 @@ Pre-Colonial
 
 Colonial Period
 
-Colonel_Robert_Ward_Tate,_NZ_Resident_Commissioner_of_Western_Samoa_and_retinue_at_Mulinu'u_ca_1919-1923.jpg, c. 1919-1923]]
+, c. 1919-1923]]
 
 -   1860 - 1889 Governed by _Matai_, directed by American, British and German consuls.
 -   1889 - 1899 governed conjointly by "Three Power Pact" signed in Berlin in 1899.

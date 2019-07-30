@@ -1,1 +1,0 @@
-UNIÓN DEPORTIVA LOGROÑÉS "B", also known as LOGROÑÉS PROMESAS, is the reserve team of UD Logroñés. It is based in Logroño, in the autonomous community of La Rioja. Founded in 2009 it currently plays in Tercera División – Group 16, holding home matches at _Estadio Las Gaunas_, with a capacity of 16,500 seats.

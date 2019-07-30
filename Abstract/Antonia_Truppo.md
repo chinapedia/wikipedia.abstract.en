@@ -1,1 +1,0 @@
-ANTONIA TRUPPO (born 14 February 1977) is an Italian actress. Truppo's television credits include _Per amore del mio popolo_, _Inspector De Luca_ and _Il segreto di Arianna_. Her film credits include _The Double Hour_, _Kryptonite!_, _They Call Me Jeeg_ and _Indivisible_.

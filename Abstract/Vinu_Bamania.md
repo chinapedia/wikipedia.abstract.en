@@ -1,1 +1,0 @@
-VINU BAMANIA (Gujarati: વિનુ બામણિયા) is a Gujarati language writer from Gujarat, India. _Ramu, Viramu Chhu_ (2011) is a collection of poems written by him. Currently, he serves as a sub-editor of Parivesh, a Gujarati language literary magazine.[1]

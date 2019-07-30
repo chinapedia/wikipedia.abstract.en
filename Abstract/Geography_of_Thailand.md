@@ -1,1 +1,0 @@
-Thailand_map_CIA.png Thailand_2002_CIA_map.jpg THAILAND's 514,30 square kilometers lie in the middle of mainland Southeast Asia. The nation's axial position influenced many aspects of Thailand's society and culture—it controls the only land route from Asia to Malaysia and Singapore.

@@ -1,1 +1,0 @@
-_BUDDY_ is a children's novel by American author M. H. Herlong about a family and a dog affected by Hurricane Katrina. It was first published in 2012 and won the award for William Allen White Children's Book Award in 2015 (Grades 6–8).[1]

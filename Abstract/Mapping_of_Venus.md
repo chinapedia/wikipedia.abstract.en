@@ -1,1 +1,0 @@
-Venus_Rotation_Movie.gif The MAPPING OF VENUS refers to the process and results of human description of the geological features of the planet Venus. It involves surface radar images of Venus, construction of geological maps, and the identification of stratigraphic units, volumes of rock with a similar age.

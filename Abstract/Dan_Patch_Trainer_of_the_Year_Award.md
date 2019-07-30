@@ -1,1 +1,0 @@
-The DAN PATCH TRAINER OF THE YEAR AWARD is an annual award created in 1985 by members of the United States Harness Writers Association (USHWA). The Association's website states that their members' determination is aided by input from the American Harness Racing Secretaries plus logistic expertise provided by the United States Trotting Association.[1]

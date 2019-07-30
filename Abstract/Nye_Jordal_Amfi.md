@@ -1,1 +1,0 @@
-JORDAL AMFI (often called NYE JORDAL AMFI) will be an indoor ice hockey arena, located in the Jordal district of Oslo, Norway. The 6,000-spectator arena will be part of the multi-sports complex Jordal Idrettspark and will serve as the home of GET-ligaen side Vålerenga Ishockey.

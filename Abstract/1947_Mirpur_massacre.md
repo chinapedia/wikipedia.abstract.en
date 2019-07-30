@@ -1,1 +1,0 @@
-The 1947 MIRPUR MASSACRE was the killing of thousands of Hindu and Sikh refugees in Mirpur of today's Azad Kashmir, by armed Pakistani tribesmen and soldiers during the First Kashmir War. It occurred on and after November 25.

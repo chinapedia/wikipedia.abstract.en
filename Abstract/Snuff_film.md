@@ -1,1 +1,0 @@
-A SNUFF FILM is a genre that purports to show scenes of actual homicide. The promotion of these films depends on sensational claims which are generally impossible to prove, and there are sophisticated techniques for simulating the appropriate special effects.

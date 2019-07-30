@@ -1,1 +1,0 @@
-A PACIFIST ORGANIZATION promotes the pacifist principle of renouncing war and violence for political ends. They are distinguished from organizations concerned only with removing nuclear weapons from war, though those organization may call for suspension of hostilities as well. Other organizations include those that deal with other concerns, but have a strong pacifist element.

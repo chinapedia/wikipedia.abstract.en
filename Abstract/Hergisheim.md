@@ -1,1 +1,0 @@
-Wildenvey_house.jpg HERGISHEIM is a house in Stavern, Norway. It is classified as an artist's home because the novelist Gisken Wildenvey (1895–1985) and her husband the poet Herman Wildenvey (1885–1959) lived in the house from 1927 onward.[1][2]

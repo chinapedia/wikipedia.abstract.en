@@ -1,1 +1,0 @@
-Christian_Bokelmann.jpg CHRISTIAN LUDWIG BOKELMANN (4 February 1844 in St.Jürgen, near Bremen – 14 May 1894 in Berlin) was a German genre painter in the Realistic and Naturalistic styles; associated with the Düsseldorfer Malerschule.

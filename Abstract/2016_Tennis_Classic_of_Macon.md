@@ -1,1 +1,0 @@
-The 2016 TENNIS CLASSIC OF MACON was a professional tennis tournament played on outdoor hard courts. It was the 4th edition of the tournament and part of the 2016 ITF Women's Circuit, offering a total of $50,000 in prize money. It took place in Macon, Georgia, United States, on 24–30 October 2016.

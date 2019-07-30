@@ -1,1 +1,0 @@
-PULAKESH BARUA is an Asom Gana Parishad politician from Assam. He was elected in Assam Legislative Assembly election in 1985 and 1991 from Barkhetry constituency and served Speaker Assam Legislative Assembly from January 9, 1986 to July 27, 1991.[1][2]

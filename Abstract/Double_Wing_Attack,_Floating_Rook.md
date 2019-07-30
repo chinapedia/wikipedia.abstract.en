@@ -1,1 +1,0 @@
-In shogi, FLOATING ROOK (浮き飛車 _ukibisha_) is a variation of the Double Wing Attack (相掛かり _aigakari_) opening in which Black's rook falls back to rank 6 (R-26) aiming to protect this rank and prevent White from exchanging pawns on the eighth file to get a pawn in hand.

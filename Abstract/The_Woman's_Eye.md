@@ -1,1 +1,0 @@
-THE WOMAN'S EYE PHOTOGRAPHY GROUP established to oppose the continuous cliché of male artist - female model in nude art history. They stand against this cliché by photographing male models for the first time in Turkey by breaking taboos.

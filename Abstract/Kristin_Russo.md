@@ -1,1 +1,0 @@
-KRISTIN RUSSO (born December 17, 1980) is an American speaker, personality, and LGBTQ activist. She is CEO and Editor-in-Chief of _Everyone Is Gay_[1] and _My Kid Is Gay_[2]_,_ organizations that provide advice, guidance, and education to LGBTQIA youth and their families, and is the co-author of _This Is a Book for Parents of Gay Kids_[3] (Chronicle, 2014).

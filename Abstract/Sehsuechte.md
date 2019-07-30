@@ -1,1 +1,0 @@
-_Sehsuechte_ (German: _SEHSÜCHTE_; neologism generated of the words _Sehnsucht_ (eng: _longing_) and _sehen_ (eng: _to view, to see_)) is an international student film festival with an over 60 years lasting tradition. It takes place annually in spring in Potsdam-Babelsberg, Germany.

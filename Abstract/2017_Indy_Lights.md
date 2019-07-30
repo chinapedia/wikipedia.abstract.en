@@ -1,1 +1,0 @@
-2017_Freedom_100_race_-_Matheus_Leist.jpg

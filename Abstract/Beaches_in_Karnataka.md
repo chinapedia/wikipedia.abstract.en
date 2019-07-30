@@ -1,1 +1,0 @@
-Kudle_beach_gokarna.jpg seen from north]]Panambur_Beach_Mangalore.jpg, Mangalore]]Karnataka's coastline called Karavali stretches between Mangalore in Dakshina Kannada district and Karwar in Uttara Kannada district. Bhatkal is the main centre with around eight beaches . The coastline of Karnataka is along the eastern shore of Arabian Sea.[1]

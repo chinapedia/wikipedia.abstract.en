@@ -1,1 +1,0 @@
--- implements template:IceHockeybox local p = {}

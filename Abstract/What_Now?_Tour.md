@@ -1,1 +1,0 @@
-The WHAT NOW? TOUR[1] was a comedy tour by American comedian Kevin Hart. The tour began in San Antonio at the AT&T Center on April 9, 2015, and concluded on August 7, 2016, in Columbus at the Columbus Civic Center.

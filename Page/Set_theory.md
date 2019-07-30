@@ -1,4 +1,4 @@
-Venn_A_intersect_B.svg illustrating the intersection of two sets.]] SET THEORY is a branch of mathematical logic that studies sets, which informally are collections of objects. Although any type of object can be collected into a set, set theory is applied most often to objects that are relevant to mathematics. The language of set theory can be used to define nearly all mathematical objects.
+illustrating the intersection of two sets.]] SET THEORY is a branch of mathematical logic that studies sets, which informally are collections of objects. Although any type of object can be collected into a set, set theory is applied most often to objects that are relevant to mathematics. The language of set theory can be used to define nearly all mathematical objects.
 
 The modern study of set theory was initiated by Georg Cantor and Richard Dedekind in the 1870s. After the discovery of paradoxes in naive set theory, such as Russell's paradox, numerous axiom systems were proposed in the early twentieth century, of which the Zermelo–Fraenkel axioms, with or without the axiom of choice, are the best-known.
 
@@ -7,7 +7,7 @@ Set theory is commonly employed as a foundational system for mathematics, partic
 
 History
 
-Georg_Cantor_1894.jpg.]] Mathematical topics typically emerge and evolve through interactions among many researchers. Set theory, however, was founded by a single paper in 1874 by Georg Cantor: "On a Property of the Collection of All Real Algebraic Numbers".[1][2]
+.]] Mathematical topics typically emerge and evolve through interactions among many researchers. Set theory, however, was founded by a single paper in 1874 by Georg Cantor: "On a Property of the Collection of All Real Algebraic Numbers".[1][2]
 
 Since the 5th century BC, beginning with Greek mathematician Zeno of Elea in the West and early Indian mathematicians in the East, mathematicians had struggled with the concept of infinity. Especially notable is the work of Bernard Bolzano in the first half of the 19th century.[3] Modern understanding of infinity began in 1870–1874 and was motivated by Cantor's work in real analysis.[4] An 1872 meeting between Cantor and Richard Dedekind influenced Cantor's thinking and culminated in Cantor's 1874 paper.
 
@@ -39,8 +39,6 @@ Some basic sets of central importance are the empty set (the unique set containi
 
 
 Some ontology
-
-Von_Neumann_Hierarchy.svg
 
 A set is pure if all of its members are sets, all members of its members are sets, and so on. For example, the set }} containing only the empty set is a nonempty pure set. In modern set theory, it is common to restrict attention to the VON NEUMANN UNIVERSE of pure sets, and many systems of axiomatic set theory are designed to axiomatize the pure sets only. There are many technical advantages to this restriction, and little generality is lost, because essentially all mathematical concepts can be modeled by pure sets. Sets in the von Neumann universe are organized into a cumulative hierarchy, based on how deeply their members, members of members, etc. are nested. Each set in this hierarchy is assigned (by transfinite recursion) an ordinal number α, known as its RANK. The rank of a pure set X is defined to be the least upper bound of all successors of ranks of members of X. For example, the empty set is assigned rank 0, while the set }} containing only the empty set is assigned rank 1. For each ordinal α, the set _V__(α) is defined to consist of all pure sets with rank less than α. The entire von Neumann universe is denoted _V_.
 

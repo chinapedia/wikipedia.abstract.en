@@ -1,1 +1,0 @@
-SURGAD (, .lit “Gods Fort”), is a hill fort located in a spur, fragmented from the Sahyadri ranges of Maharashtra. The fort is situated near Roha, next to the village of Gherasurgad in the Raigad district. This fort was an observation fort, which guarded the trade route along the Kundalika river from Sudhagad to Revdanda fort.

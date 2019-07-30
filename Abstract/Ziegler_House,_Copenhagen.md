@@ -1,1 +1,0 @@
-The ZIEGLER HOUSE (Danish: (Hofkonditor) Zieglers Gård), located at the corner of Nybrogade (No. 12) and Knabrostræde (No. 27), is an 18th-century Rococo-style, bourgeoisie townhouse overlooking Slotsholmens Kanal and Slotsholmen in central Copenhagen, Denmark. The building was designed by Philip de Lange and formerly also known as ENERETSGÅRDEN.

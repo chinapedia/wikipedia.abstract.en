@@ -1,1 +1,0 @@
-NUORO ( or less correctly ;[1] )[2] is a city and _comune_ (municipality) in central-eastern Sardinia, Italy, situated on the slopes of the Monte Ortobene. It is the capital of the province of Nuoro. With a population of 36,347 (2011),[3] it is the sixth-largest city in Sardinia.

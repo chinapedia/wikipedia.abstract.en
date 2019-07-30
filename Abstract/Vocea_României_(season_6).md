@@ -1,1 +1,0 @@
-The sixth season of the Romanian reality talent show _Vocea României_ premiered on September 9, 2016 on ProTV. Smiley, Loredana Groza, Tudor Chirilă and Marius Moga have all returned as judges, and Pavel Bartoș, as the presenter of the show. Lili Sandu replaced Oana Tache as the social media correspondent.[1]

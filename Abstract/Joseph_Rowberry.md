@@ -1,1 +1,0 @@
-JOSEPH NEON ROWBERRY (13 May 1895 – 13 November 1972) was an Australian trade unionist and politician who was a Labor Party member of the Legislative Assembly of Western Australia from 1958 to 1968, representing the seat of Warren.

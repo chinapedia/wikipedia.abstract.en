@@ -1,1 +1,0 @@
-TASH SULTANA (born 15 June 1995) is an Australian singer-songwriter and multi-instrumentalist,[1] described as a "one-person band".[2] Sultana's 2016 single "Jungle" was voted into third place in the Triple J Hottest 100, 2016; Sultana also had three songs voted into the Triple J Hottest 100, 2017.[3]

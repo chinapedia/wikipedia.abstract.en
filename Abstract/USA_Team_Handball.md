@@ -1,1 +1,0 @@
-USA TEAM HANDBALL is the governing body for handball in the United States. USA Team Handball is funded in part by the U.S. Olympic Committee.[1] Previously, the governing body was the United States Team Handball Federation[2], but was revoked of its governing duties by the United States Olympic Committee (USOC).

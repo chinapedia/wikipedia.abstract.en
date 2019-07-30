@@ -1,1 +1,0 @@
-The 2016–17 BIATHLON WORLD CUP – INDIVIDUAL WOMEN started on Wednesday 30 November, 2016 in Östersund and finished on Wednesday 15 February, 2017 at the World Championships in Hochfilzen. The defending titlist was Dorothea Wierer of Italy.

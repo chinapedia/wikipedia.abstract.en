@@ -5,7 +5,7 @@ Hippies, sometimes called flower children, were an eclectic group. Many were sus
 
 Early 1967
 
-Junction_of_Haight_and_Ashbury.jpg Inspired by the Beat Generation of authors of the 1950s, who had flourished in the North Beach area of San Francisco, those who gathered in Haight-Ashbury during 1967 allegedly rejected the conformist and materialist values of modern life; there was an emphasis on sharing and community.[4] The Diggers established a Free Store, and a Free Clinic where medical treatment was provided.[5]
+Inspired by the Beat Generation of authors of the 1950s, who had flourished in the North Beach area of San Francisco, those who gathered in Haight-Ashbury during 1967 allegedly rejected the conformist and materialist values of modern life; there was an emphasis on sharing and community.[4] The Diggers established a Free Store, and a Free Clinic where medical treatment was provided.[5]
 
 The prelude to the Summer of Love was a celebration known as the Human Be-In at Golden Gate Park on January 14, 1967,[6] which was produced and organized by artist Michael Bowen.[7][8][9]
 
@@ -23,8 +23,6 @@ The term "Summer of Love" originated with the formation of the Council for the S
 
 
 Popularization
-
-Mounted_policemen_watch_a_Vietnam_War_protest_march_in_San_Francisco,_April_1967.jpg
 
 The increasing numbers of youth traveling to the Haight-Ashbury district alarmed the San Francisco authorities, whose public warning was that they would keep hippies away. Adam Kneeman, a long-time resident of the Haight-Ashbury, recalls that the police did little to help the hordes of newcomers, much of which was done by residents of the area.[14]
 
@@ -87,7 +85,7 @@ Along with LSD, cannabis was also much used during this period. With the various
 
 Funeral and aftermath
 
-Death_of_hippie.jpg By the end of summer, many participants had left the scene to join the Back-to-the-land movement of the late '60s, to resume school studies, or simply to "get a job." Those remaining in the Haight wanted to commemorate the conclusion of the event. A mock funeral entitled "The Death of the Hippie" ceremony was staged on October 6, 1967, and organizer Mary Kasper explained the intended message:[39]
+By the end of summer, many participants had left the scene to join the Back-to-the-land movement of the late '60s, to resume school studies, or simply to "get a job." Those remaining in the Haight wanted to commemorate the conclusion of the event. A mock funeral entitled "The Death of the Hippie" ceremony was staged on October 6, 1967, and organizer Mary Kasper explained the intended message:[39]
 
 In New York, the rock musical drama _Hair_, which told the story of the hippie counterculture and sexual revolution of the 1960s, began Off-Broadway on October 17, 1967.[40]
 
@@ -104,7 +102,7 @@ During the summer of 2007, San Francisco celebrated the 40th anniversary of the 
 
 50th anniversary
 
-Summer_of_Love_50th,_Conservatory_of_Flowers_San_Francisco.jpg on June 21, 2017]]
+on June 21, 2017]]
 
 In 2016, 2b1 Multimedia and The Council of Light, once again, began the planning for the 50th Anniversary of the Summer of Love in Golden Gate Park in San Francisco, this was intended to be the most incredible gathering of Legendary Musicians and Speakers in a decade. By the beginning of 2017, the Council had gathered about 25 of the best poster artists in the country, many were poster artists from the 60’s, about 10 of them submitted their finished art, but it was never printed, the Council was also contacted by some of the most famous and legendary Bands and Musicians in the World, who wanted to be part of this historic event, all were waiting for the Date to be determined before a final commitment.[47] New rules enforced by the San Francisco Parks and Recreational Department (PRD) prohibited the council from holding a free event of the proposed size. There were many events planned for San Francisco in 2017, many of which were 50th Anniversary-themed. However, there was no free concert. The PRD later hosted an event originally called “Summer Solice Party,” but it was later renamed “50th Anniversary of the Summer of Love” two weeks before commencement. The event had less than 20,000 attendees from the local Bay-Area.
 

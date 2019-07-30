@@ -1,1 +1,0 @@
-Frederic_Remington_smoke_signal.jpg]] The SMOKE SIGNAL is one of the oldest forms of long-distance communication. It is a form of visual communication used over long distance. In general smoke signals are used to transmit news, signal danger, or gather people to a common area.

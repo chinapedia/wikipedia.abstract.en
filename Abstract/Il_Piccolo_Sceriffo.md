@@ -1,1 +1,0 @@
-_IL PICCOLO SCERIFFO_ (i.e. "The Little Sheriff") is an Italian comic book series created by writer Tristano Torelli in tandem with illustrator Camillo Zuffi and later developed by numerous authors. It originally run from 1948 until 1966.

@@ -1,1 +1,0 @@
-WILLIAM MCKENZIE HASTIE (7 January 1924 – 14 November 1995) was a Scottish amateur football left half who made over 280 appearances in the Scottish League for Queen's Park.[1][2] He represented Scotland at amateur level and made one friendly appearance for Great Britain.[3] After his retirement as a player, Hastie became a coach at Queen's Park.[4]

@@ -1,1 +1,0 @@
-_EVENING AT KUERNERS_ is a 1970 painting by the American artist Andrew Wyeth. It is one of Wyeth's paintings of the Kuerner Farm in Chadds Ford, Pennsylvania. The white farmhouse and a smaller outbuilding are depicted at sunset. In the foreground are also two leafless trees and a stream of water which runs from a nearby pool.

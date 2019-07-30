@@ -1,1 +1,0 @@
-The 1960 EUROPEAN NATIONS' CUP QUALIFYING PRELIMINARY ROUND was the first round of qualifying competition for 1960 European Nations' Cup. The tie was played over two legs, home and away, in April and May 1959 and was contested by the Republic of Ireland and Czechoslovakia, as they were randomly selected to play each other. The winner on aggregate would advance to the round of 16.

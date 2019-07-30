@@ -1,1 +1,0 @@
-The 1903 WORLD SERIES was the first modern World Series to be played in Major League Baseball. It matched the American League (AL) champion Boston Americans against the National League (NL) champion Pittsburgh Pirates in a best-of-nine series, with Boston prevailing five games to three, winning the last four.

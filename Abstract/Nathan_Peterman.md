@@ -1,1 +1,0 @@
-NATHAN MICHAEL PETERMAN (born May 4, 1994) is an American football quarterback for the Oakland Raiders of the National Football League (NFL). He played college football at Tennessee before transferring to Pittsburgh, and was drafted by the Buffalo Bills in the fifth round of the 2017 NFL Draft.

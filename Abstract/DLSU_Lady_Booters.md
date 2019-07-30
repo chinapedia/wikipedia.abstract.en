@@ -1,1 +1,0 @@
-The DE LA SALLE LADY BOOTERS are the varsity women's football team of the De La Salle University. They compete at the University Athletic Association of the Philippines (UAAP), as well as at the PFF Women's League, the top flight domestic women's football league in the Philippines.[1]

@@ -1,1 +1,0 @@
-The 2016–17 CHATTANOOGA MOCS WOMEN'S BASKETBALL TEAM represented the University of Tennessee at Chattanooga during the 2016–17 NCAA Division I women's basketball season. The Mocs, led by fourth-year head coach Jim Foster, play their home games at the McKenzie Arena and are members of the Southern Conference. The team was regular season and tournament champions at 21–10 (12–2).

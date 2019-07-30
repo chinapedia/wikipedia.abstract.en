@@ -1,1 +1,0 @@
-MOKAR is a Village located in Sasaram tehsil of Rohtas district in Bihar, India. It is situated 5 km away from Sasaram, which is both district & sub-district headquarter of Mokar village. As per 2009 stats, Mokar village is also a gram panchayat.

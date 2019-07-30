@@ -1,1 +1,0 @@
-JALEN JONES (born May 27, 1993) is an American professional basketball player who last played for Kirolbet Baskonia of the Liga ACB and the EuroLeague. He played college basketball for Southern Methodist and Texas A&M.

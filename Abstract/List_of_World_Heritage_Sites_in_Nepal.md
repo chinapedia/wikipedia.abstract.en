@@ -1,1 +1,0 @@
-The UNESCO (United Nations Educational, Scientific and Cultural Organization) has designated 4 World Heritage Sites in Nepal. The first sites from the Country Nepal were the Sagarmatha National Park and Kathmandu Valley.[1] In Nepal, there are 2 cultural and 2 natural mixed sites.[2] Additionally, there are 15 tentative sites proposed by Nepal in UNESCO.[3]

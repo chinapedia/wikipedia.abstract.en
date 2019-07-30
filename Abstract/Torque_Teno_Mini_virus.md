@@ -1,1 +1,0 @@
-TORQUE TENO MINI VIRUS (TTMV) belongs to the Betatorquevirus genus of the relatively new family, Anelloviridae. There are 12 species labelled Torque Teno mini virus 1-12.[1] TTMV is the type species of Betatorquevirus and is one of the three human anelloviruses (Torque Teno virus, Torque Teno midi virus, Torque Teno mini virus).

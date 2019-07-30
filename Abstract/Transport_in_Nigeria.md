@@ -1,1 +1,0 @@
-Asphalt_works.jpg

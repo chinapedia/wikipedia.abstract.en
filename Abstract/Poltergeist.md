@@ -1,1 +1,0 @@
-Poltergeist-Therese_Selles.jpg

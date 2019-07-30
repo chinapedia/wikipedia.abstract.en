@@ -1,1 +1,0 @@
-WIPERSOFT is an anti-spyware program developed by Wiper Software. It is designed to help users protect their computers from such threats as adware, browser hijackers, worms, and potentially unwanted programs (PUPs). Currently available only for Microsoft Windows.

@@ -1,1 +1,0 @@
-PETER MICHAEL MCCORMACK (April 22, 1919-January 28, 1988) was an American court officer and politician who served as sheriff of Norfolk County, Massachusetts from 1959 to 1960 and was a member of the Massachusetts Senate in 1959.

@@ -1,1 +1,0 @@
-EDLIN is a line editor, and the only text editor provided with early versions of IBM PC DOS[1] and MS-DOS. Although superseded in MS-DOS 5.0 and later by the full-screen edit command, and by Notepad in Microsoft Windows, it continues to be included in the 32-bit versions of current Microsoft operating systems.

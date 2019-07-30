@@ -1,1 +1,0 @@
-The JENS LAURITZEN HOUSE is a Neoclassical property at Nytorv 7 in the Old Town of Copenhagen, Denmark. Home to the Association of Folk High Schools in Denmark, the building is now also known as HØJSKOLERNES HUS (English: The House of Folk High Schools).

@@ -1,1 +1,0 @@
-_THE IRON THRONE_ is a fantasy novel by Simon Hawke, set in the world of the Birthright, and based on the _Dungeons & Dragons_ role-playing game. It is the first novel published for the setting. It was published in November, 1995.

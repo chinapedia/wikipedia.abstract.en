@@ -1,1 +1,0 @@
-MONTONEROS () was an Argentine leftist urban guerrilla group, active during the 1960s and 1970s. The name is an allusion to the 19th century cavalry militias, called Montoneras, who fought for the Partido Federal during the Argentine Civil Wars.

@@ -1,1 +1,0 @@
-The 1938 ALABAMA GUBERNATORIAL ELECTION took place on November 8, 1938, to elect the Governor of Alabama. Democratic incumbent Bibb Graves was term-limited, and could not seek a second consecutive term.

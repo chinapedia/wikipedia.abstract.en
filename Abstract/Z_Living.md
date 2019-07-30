@@ -1,1 +1,0 @@
-Z LIVING (formerly Veria Living) is an American digital cable and satellite television network that is owned by Indian company Essel Group. The channel's lifestyle programming focuses on health and wellness.

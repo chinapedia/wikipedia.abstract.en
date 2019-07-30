@@ -1,1 +1,0 @@
-_ANZIA FLAVOTENUIS_ is a species of lichenised ascomycetes of the genus _Anzia_ in the large family Parmeliaceae. It is endemic to Sri Lanka. The species is characterized by two layered medulla with yellow upper layer and white lower layer. Isidia brown-black tipped.[1]

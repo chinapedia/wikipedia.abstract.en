@@ -1,1 +1,0 @@
-ACHRAF HAKIMI MOUH (; born 4 November 1998), sometimes known simply as ACHRAF, is a professional footballer who plays for German club Borussia Dortmund, on loan from Real Madrid, and the Morocco national team. Mainly a right-back, he can also play as a left-back or central defender.[1]

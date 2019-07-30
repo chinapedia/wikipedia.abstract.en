@@ -1,1 +1,0 @@
-MARGARITO FLORES GARCÍA (February 22, 1899 — November 12, 1927) was a priest of the Roman Catholic Church and was canonized a saint in 2001. While operating in Chilpancingo-Chilapa as a priest, he was persecuted during anti-Catholicism begun during the Mexican revolution and died a martyr.

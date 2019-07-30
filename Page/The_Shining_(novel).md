@@ -20,7 +20,7 @@ The book's epilogue is set during the next summer. Hallorann, who has taken a ch
 
 Background
 
-Stanley_Hotel,_Estes_Park.jpg After writing _Carrie_ and _'Salem's Lot_, which are both set in small towns in King's native Maine, King was looking for a change of pace for the next book. "I wanted to spend a year away from Maine so that my next novel would have a different sort of background."[5] King opened an atlas of the US on the kitchen table and randomly pointed to a location, which turned out to be Boulder, Colorado.[6]
+After writing _Carrie_ and _'Salem's Lot_, which are both set in small towns in King's native Maine, King was looking for a change of pace for the next book. "I wanted to spend a year away from Maine so that my next novel would have a different sort of background."[5] King opened an atlas of the US on the kitchen table and randomly pointed to a location, which turned out to be Boulder, Colorado.[6]
 
 On October 30, 1974,[7] King and his wife Tabitha checked into The Stanley Hotel in nearby Estes Park, Colorado. They were the only two guests in the hotel that night. "When we arrived, they were just getting ready to close for the season, and we found ourselves the only guests in the place — with all those long, empty corridors".[8] They checked into room 217 which was said to be haunted. This is where room 217 comes from in the book.[9]
 

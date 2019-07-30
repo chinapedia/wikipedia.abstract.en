@@ -1,1 +1,0 @@
-JAYATA-SIMHA (IAST: Jayatasiṃha, r. c. 1193-1197 CE) was an Indian king belonging to the Naddula Chahamana dynasty. He ruled the area around Naddula (present-day Nadol in Rajasthan). He was probably defeated by the Ghurid general Qutb al-Din Aibak, and the Naddula kingdom disintegrated after his death.

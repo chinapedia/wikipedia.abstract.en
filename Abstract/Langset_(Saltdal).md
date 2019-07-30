@@ -1,1 +1,0 @@
-LANGSET ()[1] is a basic statistical unit in the sub-area of _Nedre Saltdal_ ('Lower Saltdal') in the municipality of Saltdal in Nordland county, Norway. The area is located north of Rognan and Saksenvik and south of Setså on the east side of Saltdal Fjord (_Saltdalsfjorden_). European route E6 and the Nordland Line pass through the area.[2][3]

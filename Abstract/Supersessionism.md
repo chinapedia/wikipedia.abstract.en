@@ -1,1 +1,0 @@
-PaulT.jpg was the first major figure in Christian history to hold that Jewish law is no longer valid.]] SUPERSESSIONISM, also called REPLACEMENT THEOLOGY or FULFILLMENT THEOLOGY, is a Christian doctrine which asserts that the New Covenant through Jesus Christ supersedes the Old Covenant, which was made exclusively with the Jewish people.

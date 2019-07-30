@@ -1,4 +1,4 @@
-Potassium-dichromate-sample.jpg has the bright orange color characteristic of the dichromate anion.]] In chemistry, a SALT is a chemical compound consisting of an assembly of cations and anions.[1] Salts are composed of related numbers of cations (positively charged ions) and anions (negative ions) so that the product is electrically neutral (without a net charge). These component ions can be inorganic, such as chloride (Cl^(−)), or organic, such as acetate (); and can be monatomic, such as fluoride (F^(−)), or polyatomic, such as sulfate ().
+has the bright orange color characteristic of the dichromate anion.]] In chemistry, a SALT is a chemical compound consisting of an assembly of cations and anions.[1] Salts are composed of related numbers of cations (positively charged ions) and anions (negative ions) so that the product is electrically neutral (without a net charge). These component ions can be inorganic, such as chloride (Cl^(−)), or organic, such as acetate (); and can be monatomic, such as fluoride (F^(−)), or polyatomic, such as sulfate ().
 
 
 Types of salts
@@ -8,7 +8,7 @@ Salts can be classified in a variety of ways. Salts that produce hydroxide ions 
 
 Properties
 
-ILfromOS.svg, an ionic liquid]]
+, an ionic liquid]]
 
 Color
 
@@ -42,7 +42,7 @@ Conductivity
 
 Salts are characteristically insulators. Molten salts or solutions of salts conduct electricity. For this reason, liquified (molten) salts and solutions containing dissolved salts (e.g., sodium chloride in water) are called electrolytes.
 
-SegStackEdgeOnHMTFCQ.jpg/TCNQ charge transfer salt.[3]]]
+/TCNQ charge transfer salt.[3]]]
 
 Melting point
 
@@ -88,7 +88,7 @@ Salts with varying number of hydrogen atoms, with respect to the parent acid, re
 
 Formation
 
-Lead(II)_sulfate.jpg Salts are formed by a chemical reaction between:
+Salts are formed by a chemical reaction between:
 
 -   A base and an acid, e.g., NH₃ + HCl → NH₄Cl
 -   A metal and an acid, e.g., Mg + H₂SO₄ → MgSO₄ + H₂

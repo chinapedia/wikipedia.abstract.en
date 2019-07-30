@@ -1,1 +1,0 @@
-McGowan_Institute_headquarters.jpg MCGOWAN INSTITUTE FOR REGENERATIVE MEDICINE is a medical research institute which is a partnership between the University of Pittsburgh and the University of Pittsburgh Medical Center and is located in Pittsburgh, Pennsylvania, United States.

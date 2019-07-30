@@ -1,1 +1,0 @@
-ERNEST ARTHUR OLIPHANT AULDJO JAMIESON FRIBA MID (1880–1937) was a Scottish architect operating in the early 20th century. He specialised in country houses, largely for wealthy family friends. From after the First World War he also got many commissions from local authorities for social housing, plus several commissions related to hospitals and asylums.

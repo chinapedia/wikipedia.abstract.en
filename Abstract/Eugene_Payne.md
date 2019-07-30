@@ -1,1 +1,0 @@
-EUGENE GRAY PAYNE (January 29, 1919 – October 14, 2010) was a political cartoonist and writer. He attended Syracuse University on an art scholarship. After college he served in the Army Air Corps as a weather scout.

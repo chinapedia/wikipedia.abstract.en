@@ -1,1 +1,0 @@
-KATIE QUAN is a Senior Fellow at the UC Berkeley Center for Labor Research and Education, a former Chair of the center, and a former labor organizer. In 1982 she was one of the organizers of the historic garment workers' strike in New York City's Chinatown.

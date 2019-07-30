@@ -1,4 +1,4 @@
-Sputtering_system.jpg]]
+]]
 
 In physics, SPUTTERING is a phenomenon in which microscopic particles of a solid material are ejected from its surface, after the material is itself bombarded by energetic particles of a plasma or gas.[1] It occurs naturally in outer space, and can be an unwelcome source of wear in precision components. However, the fact that it can be made to act on extremely fine layers of material is exploited in science and industry -- there, it is used to perform precise etching, carry out analytical techniques, and deposit thin film layers in the manufacture of optical coatings, semiconductor devices and nanotechnology products.
 
@@ -6,8 +6,6 @@ In physics, SPUTTERING is a phenomenon in which microscopic particles of a solid
 Physics
 
 When energetic ions collide with atoms of a target material, an exchange of momentum takes place between them.[2][3][4]
-
-Sputtering from a linear collision cascade. The thick line illustrates the position of the surface, and the thinner lines the ballistic movement paths of the atoms from beginning until they stop in the material. The purple circle is the incoming ion. Red, blue, green and yellow circles illustrate primary, secondary, tertiary and quaternary recoils, respectively. Two of the atoms happen to move out from the sample, i.e. they are sputtered.
 
 These ions, known as "incident ions", set off collision cascades in the target. Such cascades can take many paths; some recoil back toward the surface of the target. If a collision cascade reaches the surface of the target, and its remaining energy is greater than the target's surface binding energy, an atom will be ejected. This process is known as "sputtering". If the target is thin (on an atomic scale), the collision cascade can reach through to its back side; the atoms ejected in this fashion are said to escape the surface binding energy "in transmission".
 
@@ -33,7 +31,7 @@ The term _electronic sputtering_ can mean either sputtering induced by energetic
 
 Potential sputtering
 
-Sputterer.JPG In the case of multiple charged projectile ions a particular form of electronic sputtering can take place that has been termed _potential sputtering_.[11][12] In these cases the potential energy stored in multiply charged ions (i.e., the energy necessary to produce an ion of this charge state from its neutral atom) is liberated when the ions recombine during impact on a solid surface (formation of hollow atoms). This sputtering process is characterized by a strong dependence of the observed sputtering yields on the charge state of the impinging ion and can already take place at ion impact energies well below the physical sputtering threshold. Potential sputtering has only been observed for certain target species[13] and requires a minimum potential energy.[14]
+In the case of multiple charged projectile ions a particular form of electronic sputtering can take place that has been termed _potential sputtering_.[11][12] In these cases the potential energy stored in multiply charged ions (i.e., the energy necessary to produce an ion of this charge state from its neutral atom) is liberated when the ions recombine during impact on a solid surface (formation of hollow atoms). This sputtering process is characterized by a strong dependence of the observed sputtering yields on the charge state of the impinging ion and can already take place at ion impact energies well below the physical sputtering threshold. Potential sputtering has only been observed for certain target species[13] and requires a minimum potential energy.[14]
 
 
 Etching and chemical sputtering

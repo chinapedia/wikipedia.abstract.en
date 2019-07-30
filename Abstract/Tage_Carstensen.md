@@ -1,1 +1,0 @@
-TAGE CARSTENSEN was in charge of all international aspects of the 2nd World Scout Jamboree, held from August 9 to 17, 1924 at Ermelunden, Denmark.[1] He later served as a lawyer in Jutland, International Commissioner of Det Danske Spejderkorps, and founder of the Scout Blood Transfusion Service.

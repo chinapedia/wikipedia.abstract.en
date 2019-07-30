@@ -1,1 +1,0 @@
-The 2017 PDC PRO TOUR is a current series of non-televised darts tournaments organised by the Professional Darts Corporation (PDC). Players Championships, UK Open Qualifiers and European Tour events are the events that make up the Pro Tour. This year there are 40 PDC Pro Tour events being held – 22 Players Championships, six UK Open Qualifiers and 12 European Tour events.

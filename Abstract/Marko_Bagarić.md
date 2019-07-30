@@ -1,1 +1,0 @@
-MARKO BAGARIĆ (born 31 December 1985 in Bukovica, Croatia) is a Croatian-born Qatari handball player.[1] He competed on the Qatar national handball team at the 2016 Summer Olympics.[2] He currently plays for TuS Nettelstedt-Lübbecke.

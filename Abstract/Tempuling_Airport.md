@@ -1,1 +1,0 @@
-TEMPULING AIRPORT is a domestic airport located at Tembilahan, the capital of Indragiri Hilir Regency, Riau province, Indonesia. It serves Tembilahan and surrounding areas. It has some facilities like other airports. Currently, this airport only serves flights to and from Pekanbaru.[1] This airport is able to serve aircraft equivalent to BAe 146 and ATR 72.[2][3]

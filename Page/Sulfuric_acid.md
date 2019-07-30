@@ -80,7 +80,7 @@ Chemical properties
 
 Reaction with water and dehydrating property
 
-Sulphuric_acid_on_a_piece_of_towel.JPG 07._Дехидратациони_својства_на_концентрирана_сулфурна_киселина.webm, slow carbonification of the sucrose takes place. The reaction is accompanied by the evolution of gaseous products that contribute to the formation of the foamy carbon pillar that rises above the beaker.]] Because the hydration reaction of sulfuric acid is highly exothermic, dilution should always be performed by adding the acid to the water rather than the water to the acid.[19] Because the reaction is in an equilibrium that favors the rapid protonation of water, addition of acid to the water ensures that the _acid_ is the limiting reagent. This reaction is best thought of as the formation of hydronium ions:
+, slow carbonification of the sucrose takes place. The reaction is accompanied by the evolution of gaseous products that contribute to the formation of the foamy carbon pillar that rises above the beaker.]] Because the hydration reaction of sulfuric acid is highly exothermic, dilution should always be performed by adding the acid to the water rather than the water to the acid.[19] Because the reaction is in an equilibrium that favors the rapid protonation of water, addition of acid to the water ensures that the _acid_ is the limiting reagent. This reaction is best thought of as the formation of hydronium ions:
 
     + →  + _K__(a1) = (strong acid)
 
@@ -116,7 +116,7 @@ Sulfuric acid can also be used to displace weaker acids from their salts. Reacti
 
 Similarly, reacting sulfuric acid with potassium nitrate can be used to produce nitric acid and a precipitate of potassium bisulfate. When combined with nitric acid, sulfuric acid acts both as an acid and a dehydrating agent, forming the nitronium ion , which is important in nitration reactions involving electrophilic aromatic substitution. This type of reaction, where protonation occurs on an oxygen atom, is important in many organic chemistry reactions, such as Fischer esterification and dehydration of alcohols.
 
-Structure_of_protonated_sulfuric_acid.pngF in place of HF. (see text)]]
+F in place of HF. (see text)]]
 
 When allowed to react with superacids, sulfuric acid can act as a base and be protonated, forming the [H₃SO₄]⁺ ion. Salt of [H₃SO₄]⁺ have been prepared using the following reaction in liquid HF:
 
@@ -159,12 +159,12 @@ Electrophilic aromatic substitution
 
 Benzene undergoes electrophilic aromatic substitution with sulfuric acid to give the corresponding sulfonic acids:[25]
 
-    BenzeneSulfonation.png
+
 
 
 Occurrence
 
-Rio_tinto_river_CarolStoker_NASA_Ames_Research_Center.jpg with its highly acidic water]]
+with its highly acidic water]]
 
 Pure sulfuric acid is not encountered naturally on Earth in anhydrous form, due to its great affinity for water. Dilute sulfuric acid is a constituent of acid rain, which is formed by atmospheric oxidation of sulfur dioxide in the presence of water – i.e., oxidation of sulfurous acid. Sulfur dioxide is the main byproduct produced when sulfur-containing fuels such as coal or oil are burned.
 
@@ -294,7 +294,7 @@ In early to mid nineteenth century "vitriol" plants existed, among other places,
 
 Uses
 
-Sulfuric_acid_2000.png Sulfuric acid is a very important commodity chemical, and indeed, a nation's sulfuric acid production is a good indicator of its industrial strength.[32] World production in the year 2004 was about 180 million tonnes, with the following geographic distribution: Asia 35%, North America (including Mexico) 24%, Africa 11%, Western Europe 10%, Eastern Europe and Russia 10%, Australia and Oceania 7%, South America 7%.[33] Most of this amount (≈60%) is consumed for fertilizers, particularly superphosphates, ammonium phosphate and ammonium sulfates. About 20% is used in chemical industry for production of detergents, synthetic resins, dyestuffs, pharmaceuticals, petroleum catalysts, insecticides and antifreeze, as well as in various processes such as oil well acidicizing, aluminium reduction, paper sizing, water treatment. About 6% of uses are related to pigments and include paints, enamels, printing inks, coated fabrics and paper, and the rest is dispersed into a multitude of applications such as production of explosives, cellophane, acetate and viscose textiles, lubricants, non-ferrous metals, and batteries.[34]
+Sulfuric acid is a very important commodity chemical, and indeed, a nation's sulfuric acid production is a good indicator of its industrial strength.[32] World production in the year 2004 was about 180 million tonnes, with the following geographic distribution: Asia 35%, North America (including Mexico) 24%, Africa 11%, Western Europe 10%, Eastern Europe and Russia 10%, Australia and Oceania 7%, South America 7%.[33] Most of this amount (≈60%) is consumed for fertilizers, particularly superphosphates, ammonium phosphate and ammonium sulfates. About 20% is used in chemical industry for production of detergents, synthetic resins, dyestuffs, pharmaceuticals, petroleum catalysts, insecticides and antifreeze, as well as in various processes such as oil well acidicizing, aluminium reduction, paper sizing, water treatment. About 6% of uses are related to pigments and include paints, enamels, printing inks, coated fabrics and paper, and the rest is dispersed into a multitude of applications such as production of explosives, cellophane, acetate and viscose textiles, lubricants, non-ferrous metals, and batteries.[34]
 
 Industrial production of chemicals
 
@@ -336,7 +336,7 @@ Sulfuric acid is used for a variety of other purposes in the chemical industry. 
 
 Electrolyte
 
-Acidic_drain_cleaner_containing_sulfuric_acid_(sulphuric_acid).jpgs usually contain sulfuric acid at a high concentration which turns a piece of pH paper red and chars it instantly, demonstrating both the strong acidic nature and dehydrating property.]]
+s usually contain sulfuric acid at a high concentration which turns a piece of pH paper red and chars it instantly, demonstrating both the strong acidic nature and dehydrating property.]]
 
 Sulfuric acid acts as the electrolyte in lead–acid batteries (lead-acid accumulator):
 
@@ -348,7 +348,7 @@ At cathode:
 
     + 4 H⁺ + ^(2−) + 2 e^(−) ⇌  + 2 H₂O
 
-Acidic_drain_opener.JPG can be used to dissolve grease, hair and even tissue paper inside water pipes.]]
+can be used to dissolve grease, hair and even tissue paper inside water pipes.]]
 
 Overall:
 
@@ -361,7 +361,7 @@ Sulfuric acid at high concentrations is frequently the major ingredient in acidi
 
 History
 
-Dalton's-sulphuric-acid.jpg's 1808 sulfuric acid molecule shows a central sulfur atom bonded to three oxygen atoms, or sulfur trioxide, the anhydride of sulfuric acid.]] The study of vitriol, a category of glassy minerals from which the acid can be derived, began in ancient times. Sumerians had a list of types of vitriol that they classified according to the substances' color. Some of the earliest discussions on the origin and properties of vitriol is in the works of the Greek physician Dioscorides (first century AD) and the Roman naturalist Pliny the Elder (23–79 AD). Galen also discussed its medical use. Metallurgical uses for vitriolic substances were recorded in the Hellenistic alchemical works of Zosimos of Panopolis, in the treatise _Phisica et Mystica_, and the Leyden papyrus X.[37]
+'s 1808 sulfuric acid molecule shows a central sulfur atom bonded to three oxygen atoms, or sulfur trioxide, the anhydride of sulfuric acid.]] The study of vitriol, a category of glassy minerals from which the acid can be derived, began in ancient times. Sumerians had a list of types of vitriol that they classified according to the substances' color. Some of the earliest discussions on the origin and properties of vitriol is in the works of the Greek physician Dioscorides (first century AD) and the Roman naturalist Pliny the Elder (23–79 AD). Galen also discussed its medical use. Metallurgical uses for vitriolic substances were recorded in the Hellenistic alchemical works of Zosimos of Panopolis, in the treatise _Phisica et Mystica_, and the Leyden papyrus X.[37]
 
 Medieval Islamic era alchemists, Jābir ibn Hayyān (c. 721 – c. 815 AD, also known as Geber), Razi (865 – 925 AD), and Jamal Din al-Watwat (d. 1318, wrote the book _Mabāhij al-fikar wa-manāhij al-'ibar_), included vitriol in their mineral classification lists. Ibn Sina focused on its medical uses and different varieties of vitriol.[38] Muhammad ibn Zakariya al-Razi (854–925) is credited with being the first to produce sulfuric acid.[39][40]
 
@@ -380,9 +380,7 @@ Safety
 
 Laboratory hazards
 
-Sulfuric_acid_burning_tissue_paper.jpg Sulfuric_acid_98%_chemical_burn.jpg Sulfuric acid is capable of causing very severe burns, especially when it is at high concentrations. In common with other corrosive acids and alkali, it readily decomposes proteins and lipids through amide and ester hydrolysis upon contact with living tissues, such as skin and flesh. In addition, it exhibits a strong dehydrating property on carbohydrates, liberating extra heat and causing secondary thermal burns.[45][46] Accordingly, it rapidly attacks the cornea and can induce permanent blindness if splashed onto eyes. If ingested, it damages internal organs irreversibly and may even be fatal.[47] Protective equipment should hence always be used when handling it. Moreover, its strong oxidizing property makes it highly corrosive to many metals and may extend its destruction on other materials.[48] Because of such reasons, damage posed by sulfuric acid is potentially more severe than that by other comparable strong acids, such as hydrochloric acid and nitric acid.
-
-Hazard_C.svg Dangclass8.png
+Sulfuric acid is capable of causing very severe burns, especially when it is at high concentrations. In common with other corrosive acids and alkali, it readily decomposes proteins and lipids through amide and ester hydrolysis upon contact with living tissues, such as skin and flesh. In addition, it exhibits a strong dehydrating property on carbohydrates, liberating extra heat and causing secondary thermal burns.[45][46] Accordingly, it rapidly attacks the cornea and can induce permanent blindness if splashed onto eyes. If ingested, it damages internal organs irreversibly and may even be fatal.[47] Protective equipment should hence always be used when handling it. Moreover, its strong oxidizing property makes it highly corrosive to many metals and may extend its destruction on other materials.[48] Because of such reasons, damage posed by sulfuric acid is potentially more severe than that by other comparable strong acids, such as hydrochloric acid and nitric acid.
 
 Sulfuric acid must be stored carefully in containers made of nonreactive material (such as glass). Solutions equal to or stronger than 1.5 M are labeled "CORROSIVE", while solutions greater than 0.5 M but less than 1.5 M are labeled "IRRITANT". However, even the normal laboratory "dilute" grade (approximately 1 M, 10%) will char paper if left in contact for a sufficient time.
 

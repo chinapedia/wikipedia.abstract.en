@@ -1,4 +1,4 @@
-Holy_Matrimony.JPG.]]
+.]]
 
 A SPOUSE is a significant other in a marriage, civil union, or common-law marriage. The term is gender neutral, whereas a male spouse is a husband and a female spouse is a wife. Although a spouse is a form of significant other, the latter term also includes non-marital partners who play a social role similar to that of a spouse, but do not have rights and duties reserved by law to a spouse.
 

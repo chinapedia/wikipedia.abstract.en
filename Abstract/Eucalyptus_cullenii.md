@@ -1,1 +1,0 @@
-_EUCALYPTUS CULLENII_, commonly known as CULLEN'S IRONBARK,[1] is a species of small to medium-sized tree that is endemic in Queensland. It has thick, rough, deeply furrowed "ironbark", lance-shaped adult leaves, green to yellow flower buds in groups of seven, white flowers and hemispherical fruit.

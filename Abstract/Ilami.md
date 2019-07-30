@@ -1,1 +1,0 @@
-_ILAMI_ is a 2016 Indian Tamil period drama film directed by J. Julian Prakash, based on the backdrop of _Jallikattu_. It features Yuvan and Anu Krishna in the lead roles, with Akhil and Ravi Mariya in supporting roles, and Kishore in a guest appearance. _Ilami_ had a low profile theatrical release on 25 November 2016.

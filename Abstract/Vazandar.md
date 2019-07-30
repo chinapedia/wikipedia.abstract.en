@@ -1,1 +1,0 @@
-_VAZANDAR_ (Marathi: "वजनदार") is a 2016 Indian Marathi language slice of life film directed by Sachin Kundalkar and produced by Vidhi Kasliwal.[1][2] The film stars Sai Tamhankar and Priya Bapat in lead roles.[3][4] It was released on 11 November 2016.[5]

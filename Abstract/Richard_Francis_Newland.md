@@ -1,1 +1,0 @@
-RICHARD FRANCIS NEWLAND (died 1 August 1873) was a banker and politician in the colony of South Australia, appointed as an acting non-official member of the Legislative Council of South Australia, serving from January 1847 to July 1847.

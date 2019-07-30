@@ -1,1 +1,0 @@
-GONZALO CASTELLOT MADRAZO (February 20, 1922 – August 6, 2011) was a Mexican broadcaster, station owner and politician. He served three times in the Chamber of Deputies and was particularly involved in the development of broadcasting in the state of Colima.

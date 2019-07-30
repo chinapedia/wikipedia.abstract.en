@@ -1,1 +1,0 @@
-Metrohm_850.jpg Polarography_workplace.jpg

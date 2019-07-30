@@ -1,1 +1,0 @@
-PERCIFORMES, also called the Percomorpha or Acanthopteri, is an order or superorder of ray-finned fish. If considered a single order, they are the most numerous order of vertebrates, containing about 41% of all bony fish. Perciformes means "perch-like". This group comprises over 10,000 species found in almost all aquatic ecosystems.

@@ -1,1 +1,0 @@
-POPE LEO III (; 12 June 816) was Bishop of Rome and ruler of the Papal States from 26 December 795[1] to his death in 816. Protected by Charlemagne from his enemies in Rome, he subsequently strengthened Charlemagne's position by crowning him Holy Roman Emperor and "Augustus of the Romans".

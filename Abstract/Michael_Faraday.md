@@ -1,1 +1,0 @@
-Faraday_Laboratory_1870_Plate_RGNb10333198.05.tif

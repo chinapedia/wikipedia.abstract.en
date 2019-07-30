@@ -1,1 +1,0 @@
-The modern BULGARIAN PRESIDENCY was formed in 1990 after the fall of the Bulgarian People's Republic. After the completion of the second round of voting in the 2016 Bulgarian presidential election, Rumen Radev was elected on 13 November 2016.

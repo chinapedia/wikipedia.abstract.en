@@ -1,1 +1,0 @@
-INDIAN or INDIANS refers to people or things related to India, or to the indigenous people of the Americas, or Aboriginal Australians until the 19th century.

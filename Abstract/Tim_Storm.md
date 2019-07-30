@@ -1,1 +1,0 @@
-TIMOTHY SCOGGINS[1] (born February 18, 1965), better known by his ring name TIM STORM, is an American professional wrestler. He wrestles on the independent circuit and is a former NWA World Heavyweight Champion.

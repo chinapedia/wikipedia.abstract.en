@@ -1,1 +1,0 @@
-is a Japanese mathematician. He entered Kyoto University in 1949. After completing his undergraduate studies at Kyoto University, he received his Ph.D. in 1960 from Harvard while under the direction of Oscar Zariski.[1][2] He was awarded the Fields Medal in 1970.[3]

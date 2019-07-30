@@ -1,1 +1,0 @@
-KERMIT is a computer file transfer/management protocol and a set of communications software tools primarily used in the early years of personal computing in the 1980s. It provides a consistent approach to file transfer, terminal emulation, script programming, and character set conversion across many different computer hardware and operating system platforms.

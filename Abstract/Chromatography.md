@@ -1,1 +1,0 @@
-Chromatography_of_chlorophyll_-_Step_7.jpg

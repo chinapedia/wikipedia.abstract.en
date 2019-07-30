@@ -1,1 +1,0 @@
-Local_Group_and_nearest_galaxies.jpg (Andromeda Galaxy) and Milky Way, as well as other nearby galaxies.]] VLT_Shows_Milky_Way's_Neighbouring_Galaxies_Have_Different_History.jpg content (in logarithmic scale) in four dwarf neighbouring galaxies of the Milky Way]]

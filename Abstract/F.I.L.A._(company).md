@@ -1,1 +1,0 @@
-F.I.L.A. - FABBRICA ITALIANA LAPIS ED AFFINI S.P.A., or the F.I.L.A. GROUP, is an international supplier of art materials and related products, with subsidiaries and brands such as Daler-Rowney, Canson, Lyra and Maimeri.[1][2][3]

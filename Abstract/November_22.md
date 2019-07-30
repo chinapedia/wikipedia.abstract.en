@@ -1,1 +1,0 @@
-In the ancient astrology, it is the cusp day between Scorpio and Sagittarius. In some years it is Sagittarius, but others Scorpio.

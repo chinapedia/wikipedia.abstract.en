@@ -1,1 +1,0 @@
-In mathematics, the HAUSDORFF MAXIMAL PRINCIPLE is an alternate and earlier formulation of Zorn's lemma proved by Felix Hausdorff in 1914 (Moore 1982:168). It states that in any partially ordered set, every totally ordered subset is contained in a maximal totally ordered subset.

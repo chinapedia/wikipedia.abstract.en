@@ -11,7 +11,7 @@ In 784 the imperial secretary Patriarch Tarasius was appointed successor to the 
 
 Pope Adrian I was invited to participate, and gladly accepted, sending an archbishop and an abbot as his legates.
 
-Seventh_ecumenical_council_(Icon).jpg of the Seventh Ecumenical Council (17th century, Novodevichy Convent, Moscow).]] In 786, the council met in the Church of the Holy Apostles in Constantinople. However, soldiers in collusion with the opposition entered the church, and broke up the assembly.[4] As a result, the government resorted to a stratagem. Under the pretext of a campaign, the iconoclastic bodyguard was sent away from the capital – disarmed and disbanded.
+of the Seventh Ecumenical Council (17th century, Novodevichy Convent, Moscow).]] In 786, the council met in the Church of the Holy Apostles in Constantinople. However, soldiers in collusion with the opposition entered the church, and broke up the assembly.[4] As a result, the government resorted to a stratagem. Under the pretext of a campaign, the iconoclastic bodyguard was sent away from the capital – disarmed and disbanded.
 
 The council was again summoned to meet, this time in Nicaea, since Constantinople was still distrusted. The council assembled on September 24, 787 at the church of Hagia Sophia. It numbered about 350 members; 308 bishops or their representatives signed. Tarasius presided,[5] and seven sessions were held in Nicaea.[6]
 

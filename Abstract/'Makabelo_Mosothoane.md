@@ -1,1 +1,0 @@
-'MAKABELO PRISCILLA MOSOTHOANE (born 1952) is a Lesotho politician who served as the country's Minister for Education and Training from 2012 to 2015, in the government of Tom Thabane. She worked as a nurse and schoolteacher prior to entering politics, and was also president of the local branch of the Red Cross Society.

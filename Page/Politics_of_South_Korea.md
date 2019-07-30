@@ -1,4 +1,4 @@
-Politics of Korea|the article about the politics of the Democratic People's Republic of Korea|Politics of North Korea}} ROK_election_system_and_separation_of_powers_(en).svg and the election system of South Korea]]
+Politics of Korea|the article about the politics of the Democratic People's Republic of Korea|Politics of North Korea}} and the election system of South Korea]]
 
 The POLITICS OF THE REPUBLIC OF KOREA takes place in the framework of a presidential representative democratic republic, whereby the President is the head of state, and of a multi-party system. Executive power is exercised by the government. Legislative power is vested in both the government and the National Assembly. The Judiciary is independent of the executive and the legislature and comprises a Supreme Court, appellate courts and a Constitutional Court. Since 1948, the constitution has undergone five major revisions, each signifying a new republic. The current Sixth Republic began with the last major constitutional revision in 1987.
 
@@ -19,7 +19,7 @@ On 10 March 2017, Park Geun-hye became the first president to be removed by the 
 
 Legislative branch
 
-Seoul-National.Assembly-02.jpg in Seoul]] The National Assembly (, , _gukhoe_) has 300 members, elected for a four-year term, 253 members in single-seat constituencies and 47 members by proportional representation. The ruling Democratic Party of Korea is the largest party in the Assembly.
+in Seoul]] The National Assembly (, , _gukhoe_) has 300 members, elected for a four-year term, 253 members in single-seat constituencies and 47 members by proportional representation. The ruling Democratic Party of Korea is the largest party in the Assembly.
 
 Judicial branch
 
@@ -35,8 +35,6 @@ The main two political parties in South Korea are the liberal Democratic Party o
 Political nature
 
 South Korea's political history has always been prone to splits from and merges with other parties. One reason is that there is greater empathise around the 'politics of the person' and rather than party, therefore party loyalty is not strong when disagreements occur. The graph below illustrates the extent of the political volatility within the last 10 years alone. These splits were intensified after the 2016 South Korean political scandal.
-
-Graph_of_South_Korean_Political_Parties_(2005-2018).png
 
 Latest elections
 

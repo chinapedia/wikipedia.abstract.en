@@ -1,1 +1,0 @@
-WILLIAM ANTHONY (BILL) AUGUSTINE is the founder and former CEO of HealthLink Incorporated, an information technology consulting firm later acquired by IBM. He is considered a pioneer in the advancement and optimization of healthcare information systems.

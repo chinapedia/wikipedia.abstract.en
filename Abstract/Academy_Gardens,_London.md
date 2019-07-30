@@ -1,1 +1,0 @@
-Academy_Gardens,_London,_September_2016_10.jpg

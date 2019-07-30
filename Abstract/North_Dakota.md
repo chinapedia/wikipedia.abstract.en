@@ -1,1 +1,0 @@
-NORTH DAKOTA () is a U.S. state in the midwestern and northern regions of the United States. It is the nineteenth largest in area, the fourth smallest by population, and the fourth most sparsely populated state. North Dakota was admitted to the Union on November 2, 1889, along with its neighboring state, South Dakota. Its capital is Bismarck, and its largest city is Fargo.

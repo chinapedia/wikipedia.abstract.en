@@ -1,1 +1,0 @@
-In astrology, the day of the equinox is the first full day of the sign of Aries. It is also the traditional first day of the astrological year. In the 21st century, the equinox usually occurs on March 19 or 20; it occurred on March 21 only in 2003 and 2007. The next year in which the equinox occurs on March 21 will be 2102.

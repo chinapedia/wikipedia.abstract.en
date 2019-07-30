@@ -1,1 +1,0 @@
-RAYAPALA (IAST: Rāyapāla, r. c. 1132-1145 CE) was an Indian king belonging to the Naddula Chahamana dynasty. He ruled the area around Naddula (present-day Nadol in Rajasthan), before his relative Katukaraja seized the power.

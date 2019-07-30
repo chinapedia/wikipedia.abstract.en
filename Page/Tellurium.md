@@ -27,7 +27,7 @@ The atomic mass of tellurium (127.60 g·mol^(−1)) exceeds that of iodine (126
 
 Occurrence
 
-Tellurium.jpg, Mexico)]] Tellurium-89043.jpg (Vatukoula, Viti Levu, Fiji). Picture width 2 mm.]]
+, Mexico)]] (Vatukoula, Viti Levu, Fiji). Picture width 2 mm.]]
 
 With an abundance in the Earth's crust comparable to that of platinum (about 1 µg/kg), tellurium is one of the rarest stable solid elements.[12] In comparison, even the rarest of the stable lanthanides have crustal abundances of 500 µg/kg (see Abundance of the chemical elements).[13]
 
@@ -42,7 +42,7 @@ In the gold rush of 1893, miners in Kalgoorlie discarded a pyritic material as t
 
 History
 
-Martin_Heinrich_Klaproth.jpg named the new element and credited von Reichenstein with its discovery]]
+named the new element and credited von Reichenstein with its discovery]]
 
 Tellurium (Latin _tellus_ meaning "earth") was discovered in the 18th century in a gold ore from the mines in Kleinschlatten (today Zlatna), near today's city of Alba Iulia, Romania. This ore was known as "Faczebajer weißes blättriges Golderz" (white leafy gold ore from Faczebaja, German name of Facebánya, now Fața Băii in Alba County) or _antimonalischer Goldkies_ (antimonic gold pyrite), and according to Anton von Rupprecht, was _Spießglaskönig_ (_argent molybdique_), containing native antimony.[17][18] In 1782 Franz-Joseph Müller von Reichenstein, who was then serving as the Austrian chief inspector of mines in Transylvania, concluded that the ore did not contain antimony but was bismuth sulfide.[19] The following year, he reported that this was erroneous and that the ore contained mostly gold and an unknown metal very similar to antimony. After a thorough investigation that lasted three years and included more than fifty tests, Müller determined the specific gravity of the mineral and noted that when heated, the new metal gives off a white smoke with a radish-like odor; that it imparts a red color to sulfuric acid; and that when this solution is diluted with water, it has a black precipitate. Nevertheless, he was not able to identify this metal and gave it the names _aurum paradoxium_ (paradoxical gold) and _metallum problematicum_ (problem metal), because it did not exhibit the properties predicted for antimony.[20][21][22]
 
@@ -94,7 +94,7 @@ Fluorine forms two halides with tellurium: the mixed-valence and {{chem. In the 
 
 Oxocompounds
 
-TeO2powder.jpg Tellurium monoxide was first reported in 1883 as a black amorphous solid formed by the heat decomposition of in vacuum, disproportionating into tellurium dioxide, and elemental tellurium upon heating.[45][46] Since then, however, existence in the solid phase is doubted and in dispute, although it is known as a vapor fragment; the black solid may be merely an equimolar mixture of elemental tellurium and tellurium dioxide.[47]
+Tellurium monoxide was first reported in 1883 as a black amorphous solid formed by the heat decomposition of in vacuum, disproportionating into tellurium dioxide, and elemental tellurium upon heating.[45][46] Since then, however, existence in the solid phase is doubted and in dispute, although it is known as a vapor fragment; the black solid may be merely an equimolar mixture of elemental tellurium and tellurium dioxide.[47]
 
 Tellurium dioxide is formed by heating tellurium in air, where it burns with a blue flame.[48] Tellurium trioxide, β-, is obtained by thermal decomposition of . The other two forms of trioxide reported in the literature, the α- and γ- forms, were found not to be true oxides of tellurium in the +6 oxidation state, but a mixture of , and .[49] Tellurium also exhibits mixed-valence oxides, and .[50]
 
@@ -126,7 +126,7 @@ The largest consumer of tellurium is metallurgy in iron, stainless steel, copper
 
 Semiconductor and electronic industry uses
 
-NREL_Array.jpg photovoltaic array]] Tellurium is used in cadmium telluride (CdTe) solar panels. National Renewable Energy Laboratory lab tests of tellurium demonstrated some of the greatest efficiencies for solar cell electric power generators. Massive commercial production of CdTe solar panels by First Solar in recent years has significantly increased tellurium demand.[59][60][61] Replacing some of the cadmium in CdTe by zinc, producing (Cd,Zn)Te, produces a solid-state X-ray detector, providing an alternative to single-use film badges.[62]
+photovoltaic array]] Tellurium is used in cadmium telluride (CdTe) solar panels. National Renewable Energy Laboratory lab tests of tellurium demonstrated some of the greatest efficiencies for solar cell electric power generators. Massive commercial production of CdTe solar panels by First Solar in recent years has significantly increased tellurium demand.[59][60][61] Replacing some of the cadmium in CdTe by zinc, producing (Cd,Zn)Te, produces a solid-state X-ray detector, providing an alternative to single-use film badges.[62]
 
 Infrared sensitive semiconductor material is formed by alloying tellurium with cadmium and mercury to form mercury cadmium telluride.[63]
 

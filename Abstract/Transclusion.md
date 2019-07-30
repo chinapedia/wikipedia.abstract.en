@@ -1,1 +1,0 @@
-Transclusion_simple.svg

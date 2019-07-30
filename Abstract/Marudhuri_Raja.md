@@ -1,1 +1,0 @@
-MARUDHURI RAJA is a Telugu film writer, and director.[1] He worked as a dialogue writer for more than 200 films. He worked with noted Telugu film directors like E. V. V. Satyanarayana, S. V. Krishna Reddy, K. Raghavendra Rao. His elder brother M. V. S. Haranatha Rao is a film and stage writer. He also directed some films.

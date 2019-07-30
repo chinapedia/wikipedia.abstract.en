@@ -1,1 +1,0 @@
-AFONSO IV[1] (; 8 February 129128 May 1357), called THE BRAVE (), was King of Portugal from 1325 until his death. He was the only legitimate son of King Denis of Portugal by his wife Elizabeth of Aragon.

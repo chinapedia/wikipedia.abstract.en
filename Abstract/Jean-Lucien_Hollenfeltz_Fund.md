@@ -1,1 +1,0 @@
-The JEAN-LUCIEN HOLLENFELTZ COLLECTION consists of the private collection of physician, humanist, and scholarly musician Jean-Lucien Hollenfeltz, which is held by the Royal Conservatory of Brussels. The collection contains books and musical documents from Constanze Mozart (1762–1842) and her youngest son, Franz Xaver Wolfgang Mozart (1791–1844).

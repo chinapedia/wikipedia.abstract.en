@@ -1,1 +1,0 @@
-"GET THAT JIVE" is a song by Australian-New Zealand band Dragon released in March 1977 as the second single from the band's third studio album, _Sunshine_ (1977). "Get That Jive" peaking at No. 13 on the Australian Kent Music Report. [1]

@@ -1,1 +1,0 @@
-The 1919–20 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1919–20 men's college basketball season. The head coach was Walter Rothensies, coaching his first season with the Blue Devils. The team finished with an overall record of 10–4.[1]

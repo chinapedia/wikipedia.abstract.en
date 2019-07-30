@@ -1,1 +1,0 @@
-META PREUSS (born Meta Kroll: 18 January 1903 - 25 December 1981) was a German politician (KPD, SED). In November 1930 she was elected one of seven Communist Party members in the Parliament (_"Volkstag"_) in the quasi-independent Free City of Danzig.[1]

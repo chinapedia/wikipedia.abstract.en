@@ -1,1 +1,0 @@
-SAYYID ZAIN HAMID CHERUSEETHI THANGAL (Arabic : سيّد زين حامد بن اب الخير عبد الله , Malayalam: സയ്യിദ് സൈൻ ഹാമിദ് ചെറുസീതി തങ്ങൾ⁠⁠⁠⁠ ) was a Sufi leader born in the city of Tarim of Hadhramaut which was a part of Yemen in the year 1669 (C.E) (A.H. 1080).

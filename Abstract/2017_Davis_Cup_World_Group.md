@@ -1,1 +1,0 @@
-The WORLD GROUP was the highest level of Davis Cup competition in 2017. The first-round losers went into the Davis Cup World Group Play-offs, and the winners progressed to the quarterfinals and the World Group stage of the competition in 2018.

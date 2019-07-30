@@ -1,1 +1,0 @@
-Cuba has a planned economy dominated by state-run enterprises. The Cuban government owns and operates most industries and most of the labor force is employed by the state. Following the fall of the Soviet Union in 1991, the ruling Communist Party of Cuba encouraged the formation of worker co-operatives and self-employment.

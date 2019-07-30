@@ -26,8 +26,6 @@ Production
 
 Fresh spaghetti
 
-Pasta_machine_2.jpg
-
 At its simplest, spaghetti can be formed using no more than a rolling pin and a knife. A home pasta machine simplifies the rolling and makes the cutting more uniform. Fresh spaghetti would normally be cooked within hours of being formed. Commercial versions of 'fresh' spaghetti are manufactured.[12]
 
 Dried spaghetti
@@ -54,7 +52,7 @@ Serving
 
 Italian cuisine
 
-Spaghetti_carbonara_-_Trishhhh.jpg]]
+]]
 
 An emblem of Italian cuisine, spaghetti is frequently served with tomato sauce, which may contain various herbs (especially oregano and basil), olive oil, meat, or vegetables. Other spaghetti preparations include amatriciana or carbonara. Grated hard cheeses, such as Pecorino Romano, Parmesan and Grana Padano, are often sprinkled on top.
 
@@ -62,7 +60,7 @@ International cuisine
 
 In some countries, spaghetti is sold in cans/tins with sauce.
 
-In the United States, it is sometimes served with chili con carne. Unlike in Italy, in other countries spaghetti is often served with Bolognese sauce. Filipino_style_spaghetti.jpg with the characteristically sweet and meaty sauce]] In the Philippines, an immensely popular variant is the Filipino spaghetti, which is distinctively sweet with the tomato sauce sweetened with banana ketchup or sugar. It typically uses a large amount of _giniling_ (ground meat), sliced hotdogs, and cheese. The dish dates back to the period between the 1940s to the 1960s. During the American Commonwealth Period, a shortage of tomato supplies in the Second World War forced the development of the banana ketchup.[14][15][16] Spaghetti was introduced by the Americans and was tweaked to suit the local Filipino predilection for sweet dishes.[17]
+In the United States, it is sometimes served with chili con carne. Unlike in Italy, in other countries spaghetti is often served with Bolognese sauce. with the characteristically sweet and meaty sauce]] In the Philippines, an immensely popular variant is the Filipino spaghetti, which is distinctively sweet with the tomato sauce sweetened with banana ketchup or sugar. It typically uses a large amount of _giniling_ (ground meat), sliced hotdogs, and cheese. The dish dates back to the period between the 1940s to the 1960s. During the American Commonwealth Period, a shortage of tomato supplies in the Second World War forced the development of the banana ketchup.[14][15][16] Spaghetti was introduced by the Americans and was tweaked to suit the local Filipino predilection for sweet dishes.[17]
 
 _Sapaketti phat khi mao_ (Spaghetti fried drunken noodle style) is a popular dish in Thai cuisine.[18]
 

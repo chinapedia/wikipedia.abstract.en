@@ -1,1 +1,0 @@
-The YORK AND LANCASTER REGIMENT WAR MEMORIAL (or YORK AND LANCASTER MEMORIAL) is a war memorial to members of the York and Lancaster Regiment, in Weston Park, Sheffield, England. It was erected in the park in 1923 to commemorate the 8,814 members of the regiment who died in the First World War.[1][2][3] The original inscription (all in upper case) reads:[4]

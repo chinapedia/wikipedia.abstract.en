@@ -1,1 +1,0 @@
-_ALMOST NEVER_ is the tenth studio album by experimental music ensemble Biota, released in 1992 by ReR Megacorp.[1] The album focuses compositionally upon three electroacoustic suites for winds, strings, and processed acoustic/ethnic/antique instrumentation ("Burn Daylight" – "Circling These" – "Old Reason Road").

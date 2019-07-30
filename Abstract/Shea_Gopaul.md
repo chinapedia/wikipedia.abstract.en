@@ -1,1 +1,0 @@
-SHEA GOPAUL is the Founder and former Executive Director of the Global Apprenticeship Network, a coalition of companies and organizations addressing the skills mismatch and youth unemployment crisis since 2013.

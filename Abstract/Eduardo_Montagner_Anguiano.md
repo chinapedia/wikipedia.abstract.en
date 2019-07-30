@@ -1,1 +1,0 @@
-EDUARDO MONTAGNER ANGUIANO is a Chipilo Venetian writer, born in Chipilo, Puebla, Mexico, in an Italian immigrant family.[1] He studied linguistics and Spanish Language (_Letras hispánicas_) at Puebla Autonomous University. He is a translator, poet, novelist and protector[2] of minority languages in Mexico, principally a Chipileño language.[3]

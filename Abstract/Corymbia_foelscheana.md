@@ -1,1 +1,0 @@
-_CORYMBIA FOELSCHEANA_, commonly known as the FAN-LEAVED BLOODWOOD,[1] SMOOTH-BARKED BLOODWOOD or the BROAD-LEAVED BLOODWOOD, is a bloodwood native to the Northern Territory[2] and Western Australia.[3]

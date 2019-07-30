@@ -1,1 +1,0 @@
-STÉPHANE MALLARMÉ (;[1] ; 18 March 1842 – 9 September 1898), whose real name was ÉTIENNE MALLARMÉ, was a French poet and critic. He was a major French symbolist poet, and his work anticipated and inspired several revolutionary artistic schools of the early 20th century, such as Cubism, Futurism, Dadaism, and Surrealism.

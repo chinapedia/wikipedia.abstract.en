@@ -1,1 +1,0 @@
-CONCERTO FOR TIMPANI AND ORCHESTRA is a timpani concerto by Marcus Paus, written for the 250th anniversary of Bergen Philharmonic Orchestra. It was first performed by Bergen Philharmonic Orchestra conducted by Andrew Litton on 19 February 2015. The premiere was broadcast by NRK.[1][2]

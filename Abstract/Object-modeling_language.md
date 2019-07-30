@@ -1,1 +1,0 @@
-An OBJECT-MODELING LANGUAGE is a standardized set of symbols used to model a software system using an object-oriented framework. The symbols can be either informal or formal ranging from predefined graphical templates to formal object models defined by grammars and specifications.

@@ -1,1 +1,0 @@
-Griot-africa.jpg The _NYAMAKALA_, or _Nyamakalaw_, are the historic occupational castes among Islamic societies of West Africa, particularly among the Mandinka people.[1][2] The _Nyamakala_ are known as _NYAXAMALO_ among the Soninke people,[3][4] and _NYENYO_ among the Wolof people.[5] They are found throughout the Sahel region, from Mali and Senegal to Chad and Sudan.[6]

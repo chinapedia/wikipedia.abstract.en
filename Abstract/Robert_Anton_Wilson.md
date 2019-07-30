@@ -1,1 +1,0 @@
-ROBERT ANTON WILSON (born ROBERT EDWARD WILSON; January 18, 1932 – January 11, 2007) was an American author, novelist, essayist, editor, playwright, poet, futurist, and self-described agnostic mystic. Recognized by Discordianism as an Episkopos, Pope, and saint, Wilson helped publicize the group through his writings and interviews.

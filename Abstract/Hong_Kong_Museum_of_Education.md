@@ -1,1 +1,0 @@
-The HONG KONG MUSEUM OF EDUCATION (HKME) is a museum in Tai Po, New Territories, Hong Kong. The museum focuses on the history and development of education in the territory. The museum is located within the campus of the Education University of Hong Kong.[1]

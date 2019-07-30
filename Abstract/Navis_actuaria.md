@@ -1,1 +1,0 @@
-Full_scale_replica_of_a_transport_ship_used_by_the_Roman_navy_(navis_actuaria)_to_surveil_the_Rhine_border,_from_Mainz_(Type_Mainz_B),_Museum_für_Antike_Schiffahrt,_Mainz_(35113130505).jpg _NAVIS ACTUARIA_ (plural: naves actuariae) was a type of transport ship used by the Roman navy.

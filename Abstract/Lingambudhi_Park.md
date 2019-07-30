@@ -1,1 +1,0 @@
-Lingambudhi_Lake_when_filled.jpeg

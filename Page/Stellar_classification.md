@@ -1,5 +1,3 @@
-Dwarf_Stars.png
-
 In astronomy, STELLAR CLASSIFICATION is the classification of stars based on their spectral characteristics. Electromagnetic radiation from the star is analyzed by splitting it with a prism or diffraction grating into a spectrum exhibiting the rainbow of colors interspersed with spectral lines. Each line indicates a particular chemical element or molecule, with the line strength indicating the abundance of that element. The strengths of the different spectral lines vary mainly due to the temperature of the photosphere, although in some cases there are true abundance differences. The _spectral class_ of a star is a short code primarily summarizing the ionization state, giving an objective measure of the photosphere's temperature.
 
 Most stars are currently classified under the Morgan-Keenan (MK) system using the letters _O_, _B_, _A_, _F_, _G_, _K_, and _M_, a sequence from the hottest (_O_ type) to the coolest (_M_ type). Each letter class is then subdivided using a numeric digit with _0_ being hottest and _9_ being coolest (e.g. A8, A9, F0, and F1 form a sequence from hotter to cooler). The sequence has been expanded with classes for other stars and star-like objects that do not fit in the classical system, such as class _D_ for white dwarfs and classes _S_ and _C_ for carbon stars.
@@ -9,14 +7,10 @@ In the MK system, a luminosity class is added to the spectral class using Roman 
 
 Conventional color description
 
-TernaryColorTmap.PNG
-
 The conventional color description takes into account only the peak of the stellar spectrum. In actuality, however, stars radiate in all parts of the spectrum. Because all spectral colors combined appear white, the actual apparent colors the human eye would observe are far lighter than the conventional color descriptions would suggest. This characteristic of 'lightness' indicates that the simplified assignment of colors within the spectrum can be misleading. Excluding color-contrast illusions in dim light, there are no green, indigo, or violet stars. Red dwarfs are a deep shade of orange, and brown dwarfs do not literally appear brown, but hypothetically would appear dim grey to a nearby observer.
 
 
 Modern classification
-
-Morgan-Keenan_spectral_classification.png
 
 The modern classification system is known as the _Morgan–Keenan_ (MK) classification. Each star is assigned a spectral class from the older Harvard spectral classification and a luminosity class using Roman numerals as explained below, forming the star's spectral type.
 
@@ -45,7 +39,7 @@ The _Harvard system_ is a one-dimensional classification scheme by astronomer An
 | M     | 2,400–3,700 K               | orange red                          | light orange red               |                            | ≤                            | ≤                                | Very weak | 76.45%                  |
 +-------+-----------------------------+-------------------------------------+--------------------------------+----------------------------+------------------------------+----------------------------------+-----------+-------------------------+
 
-H-R_diagram.svg relates stellar classification with absolute magnitude, luminosity, and surface temperature.]]
+relates stellar classification with absolute magnitude, luminosity, and surface temperature.]]
 
 The spectral classes O through M, as well as other more specialized classes discussed later, are subdivided by Arabic numerals (0–9), where 0 denotes the hottest stars of a given class. For example, A0 denotes the hottest stars in class A and A9 denotes the coolest ones. Fractional numbers are allowed; for example, the star Mu Normae is classified as O9.7.[17] The Sun is classified as G2.[18]
 
@@ -57,7 +51,7 @@ Harvard astronomer Cecilia Payne then demonstrated that the _O-B-A-F-G-K-M_ spec
 
 Yerkes spectral classification
 
-Dwarf_star_spectra_(luminosity_class_V)_from_Pickles_1998.png |first=A. J. |last=Pickles |volume=110 |issue=749 |pages=863–878 |date=July 1998 |bibcode=1998PASP..110..863P |doi=10.1086/316197}} Several notable spectral lines are indicated. Hydrogen lines are strongest for types A and B, and the overall spectrum peaks at shorter wavelengths for hotter stars.]]
+|first=A. J. |last=Pickles |volume=110 |issue=749 |pages=863–878 |date=July 1998 |bibcode=1998PASP..110..863P |doi=10.1086/316197}} Several notable spectral lines are indicated. Hydrogen lines are strongest for types A and B, and the overall spectrum peaks at shorter wavelengths for hotter stars.]]
 
 The _Yerkes spectral classification_, also called the _MKK_ system from the authors' initials, is a system of stellar spectral classification introduced in 1943 by William Wilson Morgan, Philip C. Keenan, and Edith Kellman from Yerkes Observatory.[23] This two-dimensional (temperature and luminosity) classification scheme is based on spectral lines sensitive to stellar temperature and surface gravity, which is related to luminosity (whilst the _Harvard classification_ is based on just surface temperature). Later, in 1953, after some revisions of list of standard stars and classification criteria, the scheme was named the _Morgan–Keenan classification_, or _MK_,[24] and this system remains in use.
 
@@ -170,7 +164,7 @@ Additional nomenclature, in the form of lower-case letters, can follow the spect
 
 For example, 59 Cygni is listed as spectral type B1.5Vnne,[62] indicating a spectrum with the general classification B1.5V, as well as very broad absorption lines and certain emission lines.
 
-Star_spectra_by_Secchi.jpg)]]
+)]]
 
 
 History
@@ -234,7 +228,7 @@ A common mnemonic for remembering the order of the spectral type letters, from h
 
 Mount Wilson classes
 
-Ba_b_do8mag_c6_big.gif A luminosity classification known as the Mount Wilson system was used to distinguish between stars of different luminosities.[83][84][85] This notation system is still sometimes seen on modern spectra.[86]
+A luminosity classification known as the Mount Wilson system was used to distinguish between stars of different luminosities.[83][84][85] This notation system is still sometimes seen on modern spectra.[86]
 
   Class   Meaning
   ------- ------------
@@ -243,8 +237,6 @@ Ba_b_do8mag_c6_big.gif A luminosity classification known as the Mount Wilson sys
   sg      Subgiant
   g       Giant
   c       Supergiant
-
-Astro_4D_stars_proper_radial_g_b_8mag_big.gif
 
 
 Spectral types
@@ -265,8 +257,6 @@ This obscure terminology is a hold-over from an early 20th century model of ste
 
 Class O
 
-O5v-spectre.png
-
 O-type stars are very hot and extremely luminous, with most of their radiated output in the ultraviolet range. These are the rarest of all main-sequence stars. About 1 in 3,000,000 (0.00003%) of the main-sequence stars in the solar neighborhood are O-type stars.[89][90] Some of the most massive stars lie within this spectral class. O-type stars frequently have complicated surroundings that make measurement of their spectra difficult.
 
 O-type spectra formerly were defined by the ratio of the strength of the He II λ4541 relative to that of He I λ4471, where λ is the wavelength, measured in ångströms. Spectral type O7 was defined to be the point at which the two intensities are equal, with the He I line weakening towards earlier types. Type O3 was, by definition, the point at which said line disappears altogether, although it can be seen very faintly with modern technology. Due to this, the modern definition uses the ratio of the nitrogen line N IV λ4058 to N III λλ4634-40-42.[91]
@@ -282,7 +272,7 @@ SPECTRAL STANDARDS:[96]
 
 Class B
 
-A_Snapshot_of_the_Jewel_Box_cluster_with_the_ESO_VLT.jpg (Credit: ESO VLT)]] B-type stars are very luminous and blue. Their spectra have neutral helium lines, which are most prominent at the B2 subclass, and moderate hydrogen lines. As O- and B-type stars are so energetic, they only live for a relatively short time. Thus, due to the low probability of kinematic interaction during their lifetime, they are unable to stray far from the area in which they formed, apart from runaway stars.
+(Credit: ESO VLT)]] B-type stars are very luminous and blue. Their spectra have neutral helium lines, which are most prominent at the B2 subclass, and moderate hydrogen lines. As O- and B-type stars are so energetic, they only live for a relatively short time. Thus, due to the low probability of kinematic interaction during their lifetime, they are unable to stray far from the area in which they formed, apart from runaway stars.
 
 The transition from class O to class B was originally defined to be the point at which the He II λ4541 disappears. However, with modern equipment, the line is still apparent in the early B-type stars. Today for main-sequence stars, the B-class is instead defined by the intensity of the He I violet spectrum, with the maximum intensity corresponding to class B2. For supergiants, lines of silicon are used instead; the Si IV λ4089 and Si III λ4552 lines are indicative of early B. At mid B, the intensity of the latter relative to that of Si II λλ4128-30 is the defining characteristic, while for late B, it is the intensity of Mg II λ4481 relative to that of He I λ4471.[97]
 
@@ -304,8 +294,6 @@ SPECTRAL STANDARDS:[101]
 
 Class A
 
-Size_Vega.png
-
 A-type stars are among the more common naked eye stars, and are white or bluish-white. They have strong hydrogen lines, at a maximum by A0, and also lines of ionized metals (Fe II, Mg II, Si II) at a maximum at A5. The presence of Ca II lines is notably strengthening by this point. About 1 in 160 (0.625%) of the main-sequence stars in the solar neighborhood are A-type stars.[102][103][104]
 
 SPECTRAL STANDARDS:[105]
@@ -320,7 +308,7 @@ SPECTRAL STANDARDS:[105]
 
 Class F
 
-Canopus.jpg, an F-type supergiant and the second brightest star in the night sky]]F-type stars have strengthening spectral lines _H_ and _K_ of Ca II. Neutral metals (Fe I, Cr I) beginning to gain on ionized metal lines by late F. Their spectra are characterized by the weaker hydrogen lines and ionized metals. Their color is white. About 1 in 33 (3.03%) of the main-sequence stars in the solar neighborhood are F-type stars.[106][107]
+, an F-type supergiant and the second brightest star in the night sky]]F-type stars have strengthening spectral lines _H_ and _K_ of Ca II. Neutral metals (Fe I, Cr I) beginning to gain on ionized metal lines by late F. Their spectra are characterized by the weaker hydrogen lines and ionized metals. Their color is white. About 1 in 33 (3.03%) of the main-sequence stars in the solar neighborhood are F-type stars.[106][107]
 
 SPECTRAL STANDARDS:[108]
 
@@ -330,7 +318,7 @@ SPECTRAL STANDARDS:[108]
 
 Class G
 
-Sun920607.jpg, a G2 main-sequence star, with dark sunspots]] G-type stars, including the Sun[109] have prominent spectral lines _H_ and _K_ of Ca II, which are most pronounced at G2. They have even weaker hydrogen lines than F, but along with the ionized metals, they have neutral metals. There is a prominent spike in the G band of CH molecules. Class G main-sequence stars make up about 7.5%, nearly one in thirteen, of the main-sequence stars in the solar neighborhood.[110][111]
+, a G2 main-sequence star, with dark sunspots]] G-type stars, including the Sun[109] have prominent spectral lines _H_ and _K_ of Ca II, which are most pronounced at G2. They have even weaker hydrogen lines than F, but along with the ionized metals, they have neutral metals. There is a prominent spike in the G band of CH molecules. Class G main-sequence stars make up about 7.5%, nearly one in thirteen, of the main-sequence stars in the solar neighborhood.[110][111]
 
 Class G contains the "Yellow Evolutionary Void".[112] Supergiant stars often swing between O or B (blue) and K or M (red). While they do this, they do not stay for long in the yellow supergiant G class, as this is an extremely unstable place for a supergiant to be.
 
@@ -351,7 +339,7 @@ SPECTRAL STANDARDS:[113]
 
 Class K
 
-redgiants.svg, a K1.5 giant compared to the Sun and Antares]] K-type stars are orangish stars that are slightly cooler than the Sun. They make up about 12% of the main-sequence stars in the solar neighborhood.[114][115] There are also giant K-type stars, which range from hypergiants like RW Cephei, to giants and supergiants, such as Arcturus, whereas orange dwarfs, like Alpha Centauri B, are main-sequence stars.
+, a K1.5 giant compared to the Sun and Antares]] K-type stars are orangish stars that are slightly cooler than the Sun. They make up about 12% of the main-sequence stars in the solar neighborhood.[114][115] There are also giant K-type stars, which range from hypergiants like RW Cephei, to giants and supergiants, such as Arcturus, whereas orange dwarfs, like Alpha Centauri B, are main-sequence stars.
 
 They have extremely weak hydrogen lines, if those are present at all, and mostly neutral metals (Mn I, Fe I, Si I). By late K, molecular bands of titanium oxide become present. There is a suggestion that K-spectrum stars may potentially increase the chances of life developing on orbiting planets that are within the habitable zone.[116]
 
@@ -368,7 +356,7 @@ SPECTRAL STANDARDS:[117]
 
 Class M
 
-UY_Scuti_zoomed_in,_Rutherford_Observatory,_07_September_2014.jpeg, an M4 supergiant]] Class M stars are by far the most common. About 76% of the main-sequence stars in the solar neighborhood are class M stars.[118][119][120] However, class M main-sequence stars (red dwarfs) have such low luminosities that none are bright enough to be seen with the unaided eye, unless under exceptional conditions. The brightest known M-class main-sequence star is M0V Lacaille 8760, with magnitude 6.6 (the limiting magnitude for typical naked-eye visibility under good conditions is typically quoted as 6.5), and it is extremely unlikely that any brighter examples will be found.
+, an M4 supergiant]] Class M stars are by far the most common. About 76% of the main-sequence stars in the solar neighborhood are class M stars.[118][119][120] However, class M main-sequence stars (red dwarfs) have such low luminosities that none are bright enough to be seen with the unaided eye, unless under exceptional conditions. The brightest known M-class main-sequence star is M0V Lacaille 8760, with magnitude 6.6 (the limiting magnitude for typical naked-eye visibility under good conditions is typically quoted as 6.5), and it is extremely unlikely that any brighter examples will be found.
 
 Although most class M stars are red dwarfs, most of the largest ever supergiant stars in the Milky Way are M stars, such as VV Cephei, Antares and Betelgeuse, which are also class M. Furthermore, the larger, hotter brown dwarfs are late class M, usually in the range of M6.5 to M9.5.
 
@@ -388,13 +376,13 @@ A number of new spectral types have been taken into use from newly discovered ty
 
 Hot blue emission star classes
 
-Galactic_refurbishment.jpg, an emission-line galaxy where massive bright blue stars are formed[123]]]
+, an emission-line galaxy where massive bright blue stars are formed[123]]]
 
 Spectra of some very hot and bluish stars exhibit marked emission lines from carbon or nitrogen, or sometimes oxygen.
 
 Class W: Wolf–Rayet
 
-M1-67_&_WR124.png image of the nebula M1-67 and the Wolf–Rayet star WR 124 in the center]]
+image of the nebula M1-67 and the Wolf–Rayet star WR 124 in the center]]
 
 Once included as type O stars, the Wolf-Rayet stars of class W or WR are notable for spectra lacking hydrogen lines. Instead their spectra are dominated by broad emission lines of highly ionized helium, nitrogen, carbon and sometimes oxygen. They are thought to mostly be dying supergiants with their hydrogen layers blown away by stellar winds, thereby directly exposing their hot helium shells. Class W is further divided into subclasses according to the relative strength of nitrogen and carbon emission lines in their spectra (and outer layers).[124]
 
@@ -431,15 +419,11 @@ Brown dwarfs, whose energy comes from gravitational attraction alone, cool as th
 
 Class L
 
-L-dwarf-nasa-hurt.png
-
 Class L dwarfs get their designation because they are cooler than M stars and L is the remaining letter alphabetically closest to M. Some of these objects have masses large enough to support hydrogen fusion and are therefore stars, but most are of substellar mass and are therefore brown dwarfs. They are a very dark red in color and brightest in infrared. Their atmosphere is cool enough to allow metal hydrides and alkali metals to be prominent in their spectra.[139][140][141]
 
 Due to low surface gravity in giant stars, TiO- and VO-bearing condensates never form. Thus, L-type stars larger than dwarfs can never form in an isolated environment. However, it may be possible for these L-type supergiants to form through stellar collisions, an example of which is V838 Monocerotis while in the height of its luminous red nova eruption.
 
 Class T: methane dwarfs
-
-T-dwarf-nasa-hurt.png
 
 Class T dwarfs are cool brown dwarfs with surface temperatures between approximately . Their emission peaks in the infrared. Methane is prominent in their spectra.[142][143]
 
@@ -448,8 +432,6 @@ Classes T and L could be more common than all the other classes combined if rec
 Study of the number of proplyds (protoplanetary disks, clumps of gas in nebulae from which stars and planetary systems are formed) indicates that the number of stars in the galaxy should be several orders of magnitude higher than what was previously conjectured. It is theorized that these proplyds are in a race with each other. The first one to form will become a protostar, which are very violent objects and will disrupt other proplyds in the vicinity, stripping them of their gas. The victim proplyds will then probably go on to become main-sequence stars or brown dwarfs of the L and T classes, which are quite invisible to us.
 
 Class Y
-
-WISE_1828+2650_Brown_dwarf.jpg
 
 Brown dwarfs of spectral class Y are cooler than those of spectral class T and have qualitatively different spectra from them. A total of 17 objects have been placed in class Y as of August 2013.[144] Although such dwarfs have been modelled[145] and detected within forty light-years by the Wide-field Infrared Survey Explorer (WISE)[146][147][148][149][150] there is no well-defined spectral sequence yet and no prototypes. Nevertheless, several objects have been proposed as spectral classes Y0, Y1, and Y2.[151]
 
@@ -467,7 +449,7 @@ The giants among those stars are presumed to produce this carbon themselves, but
 
 Class C: carbon stars
 
-Curious_spiral_spotted_by_ALMA_around_red_giant_star_R_Sculptoris_(data_visualisation).jpg and its striking spiral structure]]
+and its striking spiral structure]]
 
 Originally classified as R and N stars, these are also known as _carbon stars_. These are red giants, near the end of their lives, in which there is an excess of carbon in the atmosphere. The old R and N classes ran parallel to the normal classification system from roughly mid G to late M. These have more recently been remapped into a unified carbon classifier C with N0 starting at roughly C6. Another subset of cool carbon stars are the C-J type stars, which are characterized by the strong presence of molecules of ¹³CN in addition to those of ¹²CN.[163] A few main-sequence carbon stars are known, but the overwhelming majority of known carbon stars are giants or supergiants. There are several subclasses:
 
@@ -481,7 +463,7 @@ Class S
 
 Class S stars form a continuum between class M stars and carbon stars. Those most similar to class M stars have strong ZrO absorption bands analogous to the TiO bands of class M stars, whereas those most similar to carbon stars have strong sodium D lines and weak C₂ bands.[164] Class S stars have excess amounts of zirconium and other elements produced by the s-process, and have more similar carbon and oxygen abundances than class M or carbon stars. Like carbon stars, nearly all known class S stars are asymptotic-giant-branch stars.
 
-The spectral type is formed by the letter S and a number between zero and ten. This number corresponds to the temperature of the star and approximately follows the temperature scale used for class M giants. The most common types are S3 to S5. The non-standard designation S10 has only been used for the star Chi Cygni when at an extreme minimum. Hertzsprung-Russel_StarData.png The basic classification is usually followed by an abundance indication, following one of several schemes: S2,5; S2/5; S2 Zr4 Ti2; or S2*5. A number following a comma is a scale between 1 and 9 based on the ratio of ZrO and TiO. A number following a slash is a more recent but less common scheme designed to represent the ratio of carbon to oxygen on a scale of 1 to 10, where a 0 would be an MS star. Intensities of zirconium and titanium may be indicated explicitly. Also occasionally seen is a number following an asterisk, which represents the strength of the ZrO bands on a scale from 1 to 5.
+The spectral type is formed by the letter S and a number between zero and ten. This number corresponds to the temperature of the star and approximately follows the temperature scale used for class M giants. The most common types are S3 to S5. The non-standard designation S10 has only been used for the star Chi Cygni when at an extreme minimum. The basic classification is usually followed by an abundance indication, following one of several schemes: S2,5; S2/5; S2 Zr4 Ti2; or S2*5. A number following a comma is a scale between 1 and 9 based on the ratio of ZrO and TiO. A number following a slash is a more recent but less common scheme designed to represent the ratio of carbon to oxygen on a scale of 1 to 10, where a 0 would be an MS star. Intensities of zirconium and titanium may be indicated explicitly. Also occasionally seen is a number following an asterisk, which represents the strength of the ZrO bands on a scale from 1 to 5.
 
 Classes MS and SC: intermediary carbon-related classes
 
@@ -489,7 +471,7 @@ In between the M and S classes, border cases are named MS stars. In a similar wa
 
 White dwarf classifications
 
-Sirius_A_and_B_Hubble_photo.jpg A and B (a white dwarf of type DA2) resolved by Hubble]]
+A and B (a white dwarf of type DA2) resolved by Hubble]]
 
 The class D (for Degenerate) is the modern classification used for white dwarfs – low-mass stars that are no longer undergoing nuclear fusion and have shrunk to planetary size, slowly cooling down. Class D is further divided into spectral types DA, DB, DC, DO, DQ, DX, and DZ. The letters are not related to the letters used in the classification of other stars, but instead indicate the composition of the white dwarf's visible outer layer or atmosphere.
 

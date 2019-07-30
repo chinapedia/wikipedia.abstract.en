@@ -1,4 +1,4 @@
-Gymnázium_Grösslingová.jpg, Slovakia (Gamča)]]
+, Slovakia (Gamča)]]
 
 SECONDARY EDUCATION covers two phases on the International Standard Classification of Education scale. Level 2 or LOWER SECONDARY EDUCATION (less common JUNIOR SECONDARY EDUCATION) is considered the second and final phase of basic education, and level 3 (UPPER) SECONDARY EDUCATION is the stage before tertiary education. Every country aims to provide basic education, but the systems and terminology remain unique to them. Secondary education typically takes place after six years of primary education and is followed by higher education, vocational education or employment. Like primary education, in most countries secondary education is compulsory, at least until the age of 16. Children typically enter the lower secondary phase around age 11. Compulsory education sometimes extends to age 19.
 
@@ -90,7 +90,7 @@ In 1972 the school leaving was raised to 16. The Education and Skills Act 2008, 
 
 Right to a secondary education
 
-Indian_schoolgirls.jpg in Delhi, 2016.]]
+in Delhi, 2016.]]
 
 The United Nations was strong in its commitment to education for all but fell into linguistic difficulty defining that right.
 

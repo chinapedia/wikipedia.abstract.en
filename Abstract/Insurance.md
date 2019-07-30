@@ -1,1 +1,0 @@
-Algemeene_Verzeekering-Maatschappij_Providentia.jpg

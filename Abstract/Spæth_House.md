@@ -1,1 +1,0 @@
-The SPÆTH HOUSE is a Rococo-style mansion in Helsingør, Denmark. It was built by the first sugar manugacfurer in Helsingør and served both as residence and warehouse. The building is listed and now houses a public music school for local youth.

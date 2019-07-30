@@ -1,1 +1,0 @@
-Patrik_Schumacher.jpg

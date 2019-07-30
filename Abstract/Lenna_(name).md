@@ -1,1 +1,0 @@
-LENNA is a female given name. It is the English and Estonian female form of the Old High German male name Leonhard containing the prefix levon ("lion") and the suffix hardu ("brave" or "hardy"). The name has come to mean "lion strength", "lion-strong", or "lion-hearted". It may also be from the Latin Leo ("lion").

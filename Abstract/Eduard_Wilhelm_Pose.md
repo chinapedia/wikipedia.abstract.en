@@ -1,1 +1,0 @@
-Wilhelm_Pose.jpg negative.]] Pose_Morgenbachtal.jpeg]] EDUARD WILHELM POSE (9 July 1812, Düsseldorf - 14 March 1878, Frankfurt am Main) was a German Romantic landscape painter; associated with the Düsseldorf school of painting.

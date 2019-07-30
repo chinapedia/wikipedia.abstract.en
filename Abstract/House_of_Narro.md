@@ -1,1 +1,0 @@
-The HOUSE OF NARRO is a _Spanish noble_ lineage originally from _Guipuzcoa_, _Basque Country_.[1] From there, it spread to various provinces and Spanish kingdoms, particularly to _Catalonia_, the current _Rioja_, _Avila_ (_Castile and Leon_) and _America_.[2]

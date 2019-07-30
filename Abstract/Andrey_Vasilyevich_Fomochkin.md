@@ -1,1 +1,0 @@
-ANDREY VASILYEVICH FOMOCHKIN (, ; born May 24, 1963) is a Belarusian retired athlete and sports official. He participated in the 1986 Soviet Spartakiad, winning a gold medal in the 4 × 400 m relay and a silver in the decathlon competitions.[1]

@@ -1,1 +1,0 @@
-Awaluddin,_Film_Varia_2.5_(May_1955),_p30.jpg AWALUDIN or AWALUDDIN (November 11, 1916 in Padang - February 24, 1980, in Jakarta) was an Indonesian actor, known for his roles from the 1950s-1970s. He was nominated for the Citra Award for Best Supporting Actor at the Indonesian Film Festival for his performance in the 1954 film _Lewat Djam Malam_.

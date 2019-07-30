@@ -1,1 +1,0 @@
-Contacting_surfaces.jpg

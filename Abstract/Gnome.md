@@ -1,1 +1,0 @@
-A GNOME [1] is a diminutive spirit in Renaissance magic and alchemy, first introduced by Paracelsus in the 16th century and later adopted by more recent authors including those of modern fantasy literature. Its characteristics have been reinterpreted to suit the needs of various story tellers, but it is typically said to be a small humanoid that lives underground.[2]

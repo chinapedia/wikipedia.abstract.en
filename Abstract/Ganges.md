@@ -1,1 +1,0 @@
-The GANGES ( ), or GANGA (), is a trans-boundary river of Asia which flows through India and Bangladesh. The river rises in the western Himalayas in the Indian state of Uttarakhand, and flows south and east through the Gangetic Plain of India and Bangladesh, eventually emptying into the Bay of Bengal.

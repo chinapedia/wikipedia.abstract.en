@@ -7,7 +7,7 @@ _Sushi_ is sometimes confused with _sashimi_, a related dish in Japanese cuisine
 
 History
 
-Hiroshige_Bowl_of_Sushi.jpg in Edo period]] Sushi originates in a Southeast Asian dish, known today as _narezushi_ ( – "salted fish"), stored in fermented rice for possibly months at a time. The lacto-fermentation of the rice prevented the fish from spoiling;[2] the rice would be discarded before consumption of the fish.[3] This early type of sushi became an important source of protein for its Japanese consumers. The term _sushi_ comes from an antiquated grammatical form no longer used in other contexts, and literally means "sour-tasting"; the overall dish has a sour and umami or savoury taste.[4] Narezushi still exists as a regional specialty, notably as _funa-zushi_ from Shiga Prefecture.[5] Osaka-style_sushi_-_RD_Kitchen_-_Sarah_Stierch.jpg Vinegar began to be added to the preparation of narezushi in the Muromachi period (1336–1573) for the sake of enhancing both taste and preservation. In addition to increasing the sourness of the rice, the vinegar significantly increased the dish's longevity, causing the fermentation process to be shortened and eventually abandoned. The primitive sushi would be further developed in Osaka, where over several centuries it became _oshi-zushi_ or "hako-zushi"; in this preparation, the seafood and rice were pressed into shape with wooden (typically bamboo) molds.
+in Edo period]] Sushi originates in a Southeast Asian dish, known today as _narezushi_ ( – "salted fish"), stored in fermented rice for possibly months at a time. The lacto-fermentation of the rice prevented the fish from spoiling;[2] the rice would be discarded before consumption of the fish.[3] This early type of sushi became an important source of protein for its Japanese consumers. The term _sushi_ comes from an antiquated grammatical form no longer used in other contexts, and literally means "sour-tasting"; the overall dish has a sour and umami or savoury taste.[4] Narezushi still exists as a regional specialty, notably as _funa-zushi_ from Shiga Prefecture.[5] Vinegar began to be added to the preparation of narezushi in the Muromachi period (1336–1573) for the sake of enhancing both taste and preservation. In addition to increasing the sourness of the rice, the vinegar significantly increased the dish's longevity, causing the fermentation process to be shortened and eventually abandoned. The primitive sushi would be further developed in Osaka, where over several centuries it became _oshi-zushi_ or "hako-zushi"; in this preparation, the seafood and rice were pressed into shape with wooden (typically bamboo) molds.
 
 It was not until the Edo period (1603–1868) that fresh fish was served over vinegared rice and nori. The particular style of today's _nigirizushi_ became popular in Edo (contemporary Tokyo) in the 1820s or 1830s. One common story of _nigirizushi_'s origins is of the chef Hanaya Yohei (1799–1858), who invented or perfected the technique in 1824 at his shop in Ryōgoku.[6] The dish was originally termed _Edomae zushi_ as it used freshly caught fish from the _Edo-mae_ (Edo or Tokyo Bay); the term _Edomae nigirizushi_ is still used today as a by-word for quality sushi, regardless of its ingredients' origins.[7][8]
 
@@ -16,21 +16,19 @@ The earliest written mention of sushi in English described in the _Oxford Englis
 
 Types
 
-Large_plate_of_sushis_-_panoramio.jpg The common ingredient in all types of sushi is vinegared _sushi rice_. Fillings, toppings, condiments, and preparation vary widely.[13]
+The common ingredient in all types of sushi is vinegared _sushi rice_. Fillings, toppings, condiments, and preparation vary widely.[13]
 
 Due to rendaku consonant mutation, _sushi_ is spelled with _zu_ instead of _su_ when a prefix is attached, as in _nigirizushi_.
 
 Chirashizushi
 
-Chirashi_zushi_by_Marshall_Astor_in_Gardena,_CA.jpg _Chirashizushi_ (, "scattered sushi", also referred to as _barazushi_) serves the rice in a bowl and tops it with a variety of raw fish and vegetable garnishes. It is commonly eaten because it is filling, fast and easy to make. It is eaten annually on Hinamatsuri in March.
+_Chirashizushi_ (, "scattered sushi", also referred to as _barazushi_) serves the rice in a bowl and tops it with a variety of raw fish and vegetable garnishes. It is commonly eaten because it is filling, fast and easy to make. It is eaten annually on Hinamatsuri in March.
 
 -   _Edomae chirashizushi_ (Edo-style scattered sushi) is served with uncooked ingredients in an artful arrangement.
 -   _Gomokuzushi_ (Kansai-style sushi) consists of cooked or uncooked ingredients mixed in the body of rice.
 -   _Sake-zushi_ (Kyushu-style sushi) uses rice wine over vinegar in preparing the rice, and is topped with shrimp, sea bream, octopus, shiitake mushrooms, bamboo shoots and shredded omelette.
 
 Inarizushi
-
-Kantofu_Inarizushi.jpg
 
 INARIZUSHI () is a pouch of fried tofu typically filled with sushi rice alone.
 
@@ -42,7 +40,7 @@ CONE SUSHI is a variant of _inarizushi_ originating in Hawaii that may include g
 
 Makizushi
 
-Vegetarian_Maki_Sushi_at_Suzuran_Japan_Foods_Trading.jpg Roll_maki.jpg 16_pieces_of_maki-zushi_with_wasabi_on_the_bottom_6.jpg.]] _MAKIZUSHI_ (, "rolled sushi"), _NORIMAKI_ (, "Nori roll") or _MAKIMONO_ (, "variety of rolls") is a cylindrical piece, formed with the help of a bamboo mat known as a _makisu_ (). _Makizushi_ is generally wrapped in nori (seaweed), but is occasionally wrapped in a thin omelette, soy paper, cucumber, or shiso (perilla) leaves. _Makizushi_ is usually cut into six or eight pieces, which constitutes a single roll order. Below are some common types of _makizushi_, but many other kinds exist.
+.]] _MAKIZUSHI_ (, "rolled sushi"), _NORIMAKI_ (, "Nori roll") or _MAKIMONO_ (, "variety of rolls") is a cylindrical piece, formed with the help of a bamboo mat known as a _makisu_ (). _Makizushi_ is generally wrapped in nori (seaweed), but is occasionally wrapped in a thin omelette, soy paper, cucumber, or shiso (perilla) leaves. _Makizushi_ is usually cut into six or eight pieces, which constitutes a single roll order. Below are some common types of _makizushi_, but many other kinds exist.
 
 _FUTOMAKI_ (, "thick, large or fat rolls") is a large cylindrical piece, usually with _nori_ on the outside.[19] A typical _futomaki_ is in diameter.[20] They are often made with two, three, or more fillings that are chosen for their complementary tastes and colors. During the evening of the Setsubun festival, it is traditional in the Kansai region to eat uncut futomaki in its cylindrical form, where it is called _ehō-maki_ (, lit. happy direction rolls).[21] By 2000 the custom had spread to all of Japan.[22] Futomaki are often vegetarian, and may utilize strips of cucumber, _kampyō_ gourd, _takenoko_ bamboo shoots, or lotus root. Strips of _tamagoyaki_ omelette, tiny fish roe, chopped tuna, and _oboro (food)_ whitefish flakes are typical non-vegetarian fillings.[23] Traditionally, the rice is lightly seasoned with salt and sesame oil/perilla oil. Popular protein ingredients are fish cakes, imitation crab meat, eggs, or seasoned beef rib-eye. Vegetables usually include cucumbers, spinach, carrot and (pickled radish). After the makizushi has been rolled and sliced, it is typically served with takuan.
 
@@ -50,19 +48,19 @@ Short grain white rice is usually used, although short-grain brown rice, like ol
 
 _HOSOMAKI_ (, "thin rolls") is a small cylindrical piece, with _nori_ on the outside. A typical _hosomaki_ has a diameter of about .[24] They generally contain only one filling, often tuna, cucumber, _kanpyō_, thinly sliced carrots, or, more recently, avocado. _Kappamaki_, () a kind of _Hosomaki_ filled with cucumber, is named after the Japanese legendary water imp fond of cucumbers called the kappa. Traditionally, _kappamaki_ is consumed to clear the palate between eating raw fish and other kinds of food, so that the flavors of the fish are distinct from the tastes of other foods. _Tekkamaki_ () is a kind of _hosomaki_ filled with raw tuna. Although it is believed that the word _tekka_, meaning "red hot iron", alludes to the color of the tuna flesh or salmon flesh, it actually originated as a quick snack to eat in gambling dens called _tekkaba_ (), much like the sandwich.[25][26] _Negitoromaki_ () is a kind of _hosomaki_ filled with scallion (_negi_) and chopped tuna (_toro_). Fatty tuna is often used in this style. _Tsunamayomaki_ () is a kind of _hosomaki_ filled with canned tuna tossed with mayonnaise.
 
-Futomaki_zushi_in_201902.jpg _EHŌMAKI_ (, "lucky direction roll") is a roll composed of seven ingredients considered to be lucky. Ehōmaki are often eaten on setsubun in Japan. The typical ingredients include kanpyō, egg, eel, and shiitake mushrooms. Ehōmaki often include other ingredients too. People usually eat the ehōmaki while facing the direction considered to be auspicious that year.[27]
+_EHŌMAKI_ (, "lucky direction roll") is a roll composed of seven ingredients considered to be lucky. Ehōmaki are often eaten on setsubun in Japan. The typical ingredients include kanpyō, egg, eel, and shiitake mushrooms. Ehōmaki often include other ingredients too. People usually eat the ehōmaki while facing the direction considered to be auspicious that year.[27]
 
 _TEMAKI_ (, "hand roll") is a large cone-shaped piece of _nori_ on the outside and the ingredients spilling out the wide end. A typical _temaki_ is about long, and is eaten with fingers because it is too awkward to pick it up with chopsticks. For optimal taste and texture, _temaki_ must be eaten quickly after being made because the _nori_ cone soon absorbs moisture from the filling and loses its crispness, making it somewhat difficult to bite through. For this reason, the _nori_ in pre-made or take-out temaki is sealed in plastic film which is removed immediately before eating.[28]
 
 Modern Narezushi
 
-Funazushi.jpg)]] _Narezushi_ (, "matured sushi") is a traditional form of fermented sushi. Skinned and gutted fish are stuffed with salt, placed in a wooden barrel, doused with salt again, then weighed down with a heavy tsukemonoishi (pickling stone). As days pass, water seeps out and is removed. After six months, this _sushi_ can be eaten, remaining edible for another six months or more.[29]
+)]] _Narezushi_ (, "matured sushi") is a traditional form of fermented sushi. Skinned and gutted fish are stuffed with salt, placed in a wooden barrel, doused with salt again, then weighed down with a heavy tsukemonoishi (pickling stone). As days pass, water seeps out and is removed. After six months, this _sushi_ can be eaten, remaining edible for another six months or more.[29]
 
 The most famous variety of _narezushi_ are the ones offered as a specialty dish of Shiga Prefecture,[30] particularly the _funa-zushi_ made from fish of the crucian carp genus, the authentic version of which calls for the use _nigorobuna_, a particular locally differentiated variety of wild goldfish endemic to Lake Biwa).[31]
 
 Nigirizushi
 
-Uni_gunkan-maki.jpg roe "gunkanmaki"]] _Nigirizushi_ (, "hand-pressed sushi") consists of an oblong mound of sushi rice that the chef presses between the palms of the hands to form an oval-shaped ball, and a topping (the _neta_) draped over the ball. It is usually served with a bit of _wasabi_; _neta_ are typically fish such as salmon, tuna or other seafood. Certain toppings are typically bound to the rice with a thin strip of _nori_, most commonly octopus (_tako_), freshwater eel (_unagi_), sea eel (_anago_), squid (_ika_), and sweet egg (_tamago_). One order of a given type of fish typically results in two pieces, while a sushi set (sampler dish) may contain only one piece of each topping.
+roe "gunkanmaki"]] _Nigirizushi_ (, "hand-pressed sushi") consists of an oblong mound of sushi rice that the chef presses between the palms of the hands to form an oval-shaped ball, and a topping (the _neta_) draped over the ball. It is usually served with a bit of _wasabi_; _neta_ are typically fish such as salmon, tuna or other seafood. Certain toppings are typically bound to the rice with a thin strip of _nori_, most commonly octopus (_tako_), freshwater eel (_unagi_), sea eel (_anago_), squid (_ika_), and sweet egg (_tamago_). One order of a given type of fish typically results in two pieces, while a sushi set (sampler dish) may contain only one piece of each topping.
 
 _Gunkanmaki_ (, "warship roll") is a special type of _nigirizushi_: an oval, hand-formed clump of sushi rice that has a strip of _nori_ wrapped around its perimeter to form a vessel that is filled with some soft, loose or fine-chopped ingredient that requires the confinement of _nori_ such as roe, _nattō_, oysters, _uni_ (sea urchin roe), corn with mayonnaise, scallops, and quail eggs. _Gunkan-maki_ was invented at the _Ginza Kyubey_ restaurant in 1941; its invention significantly expanded the repertoire of soft toppings used in sushi.[32][33]
 
@@ -70,16 +68,16 @@ _Temarizushi_ (, "ball sushi") is a sushi made by pressing rice and fish into a 
 
 Oshizushi
 
-Sasazushi.jpg , also known as , is a pressed sushi from the Kansai region, a favorite and specialty of Osaka. A block-shaped piece is formed using a wooden mold, called an _oshibako_. The chef lines the bottom of the _oshibako_ with the toppings, covers them with sushi rice, and then presses the lid of the mold down to create a compact, rectilinear block. The block is removed from the mold and then cut into bite-sized pieces. Particularly famous is (_battera_, pressed mackerel sushi) or (_saba zushi_).[34] In _oshizushi_, all the ingredients are either cooked or cured and raw fish is never used.[35]
+, also known as , is a pressed sushi from the Kansai region, a favorite and specialty of Osaka. A block-shaped piece is formed using a wooden mold, called an _oshibako_. The chef lines the bottom of the _oshibako_ with the toppings, covers them with sushi rice, and then presses the lid of the mold down to create a compact, rectilinear block. The block is removed from the mold and then cut into bite-sized pieces. Particularly famous is (_battera_, pressed mackerel sushi) or (_saba zushi_).[34] In _oshizushi_, all the ingredients are either cooked or cured and raw fish is never used.[35]
 
 
 Western-style sushi
 
-Norwegia_Roll_Salmon_Sushi.jpg as a sushi ingredient to Japan in the 1980s.[36]]] The increasing popularity of _sushi_ around the world has resulted in variations typically found in the Western world, but rarely in Japan. A notable exception to this is the use of salmon, which was introduced by a Norwegian businessman tasked with helping the Norwegian salmon industry in the 1980s.[37][38][39] Such creations to suit the Western palate were initially fueled by the invention of the California roll (a _norimaki_ with crab (later, imitation crab), cucumber, and avocado). A wide variety of popular rolls (_norimaki_ and _uramaki_) has evolved since. Norway roll is another variant of _uramakizushi_ filled with _tamago_ (omelette), imitation crab and cucumber, rolled with _shiso_ leaf and _nori_, topped with slices of Norwegian salmon, garnished with lemon and mayonnaise.[40]
+as a sushi ingredient to Japan in the 1980s.[36]]] The increasing popularity of _sushi_ around the world has resulted in variations typically found in the Western world, but rarely in Japan. A notable exception to this is the use of salmon, which was introduced by a Norwegian businessman tasked with helping the Norwegian salmon industry in the 1980s.[37][38][39] Such creations to suit the Western palate were initially fueled by the invention of the California roll (a _norimaki_ with crab (later, imitation crab), cucumber, and avocado). A wide variety of popular rolls (_norimaki_ and _uramaki_) has evolved since. Norway roll is another variant of _uramakizushi_ filled with _tamago_ (omelette), imitation crab and cucumber, rolled with _shiso_ leaf and _nori_, topped with slices of Norwegian salmon, garnished with lemon and mayonnaise.[40]
 
 Uramaki
 
-Western_Sushi.jpg _URAMAKI_ (, "inside-out roll") is a medium-sized cylindrical piece with two or more fillings, and was developed as a result of the creation of the California roll, as a method originally meant to hide the nori. _Uramaki_ differs from other _makimono_ because the rice is on the outside and the _nori_ inside. The filling is in the center surrounded by _nori_, then a layer of rice, and optionally an outer coating of some other ingredients such as roe or toasted sesame seeds. It can be made with different fillings, such as tuna, crab meat, avocado, mayonnaise, cucumber or carrots.
+_URAMAKI_ (, "inside-out roll") is a medium-sized cylindrical piece with two or more fillings, and was developed as a result of the creation of the California roll, as a method originally meant to hide the nori. _Uramaki_ differs from other _makimono_ because the rice is on the outside and the _nori_ inside. The filling is in the center surrounded by _nori_, then a layer of rice, and optionally an outer coating of some other ingredients such as roe or toasted sesame seeds. It can be made with different fillings, such as tuna, crab meat, avocado, mayonnaise, cucumber or carrots.
 
 Examples of variations include the rainbow roll (an inside-out topped with thinly sliced _maguro, hamachi, ebi, sake_ and avocado) and the caterpillar roll (an inside-out topped with thinly sliced avocado). Also commonly found is the "rock and roll" (an inside-out roll with barbecued freshwater eel and avocado with toasted sesame seeds on the outside).
 
@@ -87,7 +85,7 @@ In Japan, _uramaki_ is an uncommon type of _makimono_; because sushi is traditio
 
 American-style makizushi
 
-Shrimp_tempura_sushi.png _Futomaki_ is a more popular variation of sushi within the United States, and comes in variations that take their names from their places of origin. Other rolls may include a variety of ingredients, including chopped scallops, spicy tuna, beef or chicken teriyaki roll, okra, and assorted vegetables such as cucumber and avocado, and the tempura roll, where shrimp tempura is inside the roll or the entire roll is battered and fried tempura-style. In the Southern United States, many sushi restaurants prepare rolls using crawfish. Sometimes, rolls are made with brown rice or black rice, which appear in Japanese cuisine as well.
+_Futomaki_ is a more popular variation of sushi within the United States, and comes in variations that take their names from their places of origin. Other rolls may include a variety of ingredients, including chopped scallops, spicy tuna, beef or chicken teriyaki roll, okra, and assorted vegetables such as cucumber and avocado, and the tempura roll, where shrimp tempura is inside the roll or the entire roll is battered and fried tempura-style. In the Southern United States, many sushi restaurants prepare rolls using crawfish. Sometimes, rolls are made with brown rice or black rice, which appear in Japanese cuisine as well.
 
 Per Food and Drug Administration regulations, raw fish served in the United States must be frozen prior to serving in order to kill parasites.[42] Because of this and the relative difficulty of acquiring fresh seafood compared to Japan, raw seafood (e.g., sashimi) is not as prevalent a component in American-style sushi.
 
@@ -115,7 +113,7 @@ Since rolls are often made to-order it is not unusual for the customer to specif
 
 Ingredients
 
-Making_Sushi.webmhd.webm Sushichef.jpg, Japan]] All sushi has a base of specially prepared rice, complemented with other ingredients.
+, Japan]] All sushi has a base of specially prepared rice, complemented with other ingredients.
 
 Sushi-meshi
 
@@ -127,7 +125,7 @@ There are regional variations in sushi rice and individual chefs have their indi
 
 Nori
 
-Nori.jpg.]] The black seaweed wrappers used in _makimono_ are called _nori_ (海苔). _Nori_ is a type of algae, traditionally cultivated in the harbors of Japan. Originally, algae was scraped from dock pilings, rolled out into thin, edible sheets, and dried in the sun, in a process similar to making rice paper.[60] Today, the commercial product is farmed, processed, toasted, packaged, and sold in sheets.
+.]] The black seaweed wrappers used in _makimono_ are called _nori_ (海苔). _Nori_ is a type of algae, traditionally cultivated in the harbors of Japan. Originally, algae was scraped from dock pilings, rolled out into thin, edible sheets, and dried in the sun, in a process similar to making rice paper.[60] Today, the commercial product is farmed, processed, toasted, packaged, and sold in sheets.
 
 The size of a _nori_ sheet influences the size of _makimono_. A full-size sheet produces _futomaki_, and a half produces _hosomaki_ and _temaki_. To produce _gunkan_ and some other _makimono_, an appropriately-sized piece of _nori_ is cut from a whole sheet.
 
@@ -137,7 +135,7 @@ When making _fukusazushi_, a paper-thin omelette may replace a sheet of _nori_ a
 
 Gu
 
-Wagyu_sushi_01.jpg Whole-eel.jpg Fried-shrimp.jpg Datemaki.JPG]] The ingredients used inside sushi are called _gu_, and are, typically, varieties of fish.[62] For culinary, sanitary, and aesthetic reasons, the minimum quality and freshness of fish to be eaten raw must be superior to that of fish which is to be cooked. Sushi chefs are trained to recognize important attributes, including smell, color, firmness, and freedom from parasites that may go undetected in commercial inspection. Commonly used fish are tuna (_maguro, shiro-maguro_), Japanese amberjack, yellowtail (_hamachi_), snapper (_kurodai_), mackerel (_saba_), and salmon (_sake_). The most valued sushi ingredient is _toro,_ the fatty cut of the fish.[63] This comes in a variety of _ōtoro_ (often from the bluefin species of tuna) and _chūtoro_, meaning "middle toro", implying that it is halfway into the fattiness between _toro_ and the regular cut. _Aburi_ style refers to _nigiri_ sushi where the fish is partially grilled (topside) and partially raw. Most nigiri sushi will have completely raw toppings, called _neta_.[64]
+]] The ingredients used inside sushi are called _gu_, and are, typically, varieties of fish.[62] For culinary, sanitary, and aesthetic reasons, the minimum quality and freshness of fish to be eaten raw must be superior to that of fish which is to be cooked. Sushi chefs are trained to recognize important attributes, including smell, color, firmness, and freedom from parasites that may go undetected in commercial inspection. Commonly used fish are tuna (_maguro, shiro-maguro_), Japanese amberjack, yellowtail (_hamachi_), snapper (_kurodai_), mackerel (_saba_), and salmon (_sake_). The most valued sushi ingredient is _toro,_ the fatty cut of the fish.[63] This comes in a variety of _ōtoro_ (often from the bluefin species of tuna) and _chūtoro_, meaning "middle toro", implying that it is halfway into the fattiness between _toro_ and the regular cut. _Aburi_ style refers to _nigiri_ sushi where the fish is partially grilled (topside) and partially raw. Most nigiri sushi will have completely raw toppings, called _neta_.[64]
 
 Other seafoods such as squid (_ika_), eel (_anago_ and _unagi_), pike conger (_hamo_), octopus (_tako_), shrimp (_ebi_ and _amaebi_), clam (_mirugai_, _aoyagi_ and _akagai_), fish roe (_ikura_, _masago_, _kazunoko_ and _tobiko_), sea urchin (_uni_), crab (_kani_), and various kinds of shellfish (abalone, prawn, scallop) are the most popular seafoods in sushi. Oysters, however, are less common, as the taste is not thought to go well with the rice. _Kani kama_, or imitation crab stick, is commonly substituted for real crab, most notably in California rolls.[65]
 
@@ -160,7 +158,7 @@ When closely arranged on a tray, different pieces are often separated by green s
 
 Nutrition
 
-Sushi_Bento_in_Aeon_Mall_BSD_City_Indonesia_1.jpg The main ingredients of traditional Japanese sushi, raw fish and rice, are naturally low in fat, high in protein, carbohydrates (the rice only), vitamins, and minerals, as are _gari_ and _nori_. Other vegetables wrapped within the sushi also offer various vitamins and minerals. Many of the seafood ingredients also contain omega-3 fatty acids, which have a variety of health benefits.[71] The omega-3 fatty acids found in fish has certain beneficial property, especially on cardiovascular health, natural anti-inflammatory compounds, and play a role in brain function.[72]
+The main ingredients of traditional Japanese sushi, raw fish and rice, are naturally low in fat, high in protein, carbohydrates (the rice only), vitamins, and minerals, as are _gari_ and _nori_. Other vegetables wrapped within the sushi also offer various vitamins and minerals. Many of the seafood ingredients also contain omega-3 fatty acids, which have a variety of health benefits.[71] The omega-3 fatty acids found in fish has certain beneficial property, especially on cardiovascular health, natural anti-inflammatory compounds, and play a role in brain function.[72]
 
 Generally sushi is not a particularly fattening food. However, rice in sushi contains a fair amount of carbohydrates, plus the addition of other ingredients such as mayonnaise added into sushi rolls might increase the caloric content.[73] Sushi also has a relatively high sodium content, especially contributed from _shoyu_ soy sauce seasoning.[74]
 
@@ -189,11 +187,9 @@ Sustainable sushi is sushi made from fished or farmed sources that can be mainta
 
 Presentation
 
-Sushi_Kanagawa_Japan_(2013).JPG
-
 Traditionally, sushi is served on minimalist Japanese-style, geometric, mono- or duo-tone wood or lacquer plates, in keeping with the aesthetic qualities of this cuisine.
 
-Many sushi restaurants offer fixed-price sets, selected by the chef from the catch of the day. These are often graded as _shō-chiku-bai_ (), _shō/matsu_ (, pine), _chiku/take_ (, bamboo) and _bai/ume_ (, plum), with _matsu_ the most expensive and '' ume'' the cheapest. Sushi restaurants will often have private booth dining, where guests are asked to remove their shoes, leaving them outside the room; However, most sushi bars offer diners a casual experience with an open dining room concept. Meet-_Sushi.jpg Sushi may be served _kaiten zushi_ (sushi train) style. Color-coded plates of sushi are placed on a conveyor belt; as the belt passes, customers choose as they please. After finishing, the bill is tallied by counting how many plates of each color have been taken. Newer _kaiten zushi_ restaurants use barcodes or RFID tags embedded in the dishes to manage elapsed time after the item was prepared.[89]
+Many sushi restaurants offer fixed-price sets, selected by the chef from the catch of the day. These are often graded as _shō-chiku-bai_ (), _shō/matsu_ (, pine), _chiku/take_ (, bamboo) and _bai/ume_ (, plum), with _matsu_ the most expensive and '' ume'' the cheapest. Sushi restaurants will often have private booth dining, where guests are asked to remove their shoes, leaving them outside the room; However, most sushi bars offer diners a casual experience with an open dining room concept. Sushi may be served _kaiten zushi_ (sushi train) style. Color-coded plates of sushi are placed on a conveyor belt; as the belt passes, customers choose as they please. After finishing, the bill is tallied by counting how many plates of each color have been taken. Newer _kaiten zushi_ restaurants use barcodes or RFID tags embedded in the dishes to manage elapsed time after the item was prepared.[89]
 
 
 Glossary

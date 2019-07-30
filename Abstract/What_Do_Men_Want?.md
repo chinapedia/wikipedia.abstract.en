@@ -1,1 +1,0 @@
-_What_Do_Men_Want_(1921)_-_1.jpg _WHAT DO MEN WANT?_ is a 1921 American silent drama film written, produced, and directed by Lois Weber and starring her muse Claire Windsor.[1][2] Surviving reels were released on DVD and Blu-ray in 2018.[3]

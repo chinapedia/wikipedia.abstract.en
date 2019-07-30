@@ -1,1 +1,0 @@
-Commutative_diagram_for_morphism.svg

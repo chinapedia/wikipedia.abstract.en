@@ -1,1 +1,0 @@
-XINWEN ZHU (; born 1982 in Sichuan, China) is a professor of mathematics at the California Institute of Technology. His work deals primarily with geometric representation theory and in particular the Langlands program, tying number theory to algebraic geometry and quantum physics.[1][2]

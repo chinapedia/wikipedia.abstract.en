@@ -1,1 +1,0 @@
-THE SAUDI INVESTMENT BANK (SAIB) (Arabic: البنك السعودي للاستثمار) was established as a Saudi joint stock, pursuant to Royal Decree No. M/31 of 25 Jumada al-Thani, 1396H (corresponding to June 23, 1976) in the Kingdom of Saudi Arabia.[1] The bank started operations in March 1977.

@@ -1,4 +1,4 @@
-Wiki_slope_in_2d.svg In mathematics, the SLOPE or GRADIENT of a line is a number that describes both the _direction_ and the _steepness_ of the line.[1] Slope is often denoted by the letter _m_; there is no clear answer to the question why the letter _m_ is used for slope, but its earliest use in English appears in O'Brien (1844)[2] who wrote the equation of a straight line as and it can also be found in Todhunter (1888)[3] who wrote it as "_y_ = _mx_ + _c_".[4]
+In mathematics, the SLOPE or GRADIENT of a line is a number that describes both the _direction_ and the _steepness_ of the line.[1] Slope is often denoted by the letter _m_; there is no clear answer to the question why the letter _m_ is used for slope, but its earliest use in English appears in O'Brien (1844)[2] who wrote the equation of a straight line as and it can also be found in Todhunter (1888)[3] who wrote it as "_y_ = _mx_ + _c_".[4]
 
 Slope is calculated by finding the ratio of the "vertical change" to the "horizontal change" between (any) two distinct points on a line. Sometimes the ratio is expressed as a quotient ("rise over run"), giving the same number for every two distinct points on the same line. A line that is decreasing has a negative "rise". The line may be practical - as set by a road surveyor, or in a diagram that models a road or a roof either as a description or as a plan.
 
@@ -28,7 +28,7 @@ This generalization of the concept of slope allows very complex constructions to
 
 Definition
 
-Slope_of_lines_illustrated.jpg Gradient_of_a_line_in_coordinates_from_-12x+2_to_+12x+2.gif The slope of a line in the plane containing the _x_ and _y_ axes is generally represented by the letter _m_, and is defined as the change in the _y_ coordinate divided by the corresponding change in the _x_ coordinate, between two distinct points on the line. This is described by the following equation:
+The slope of a line in the plane containing the _x_ and _y_ axes is generally represented by the letter _m_, and is defined as the change in the _y_ coordinate divided by the corresponding change in the _x_ coordinate, between two distinct points on the line. This is described by the following equation:
 
 $$m = \frac{\Delta y}{\Delta x} = \frac{\text{vertical} \, \text{change} }{\text{horizontal} \, \text{change} }= \frac{\text{rise}}{\text{run}}.$$
 (The Greek letter _delta_, Δ, is commonly used in mathematics to mean "difference" or "change".)
@@ -135,7 +135,7 @@ File:Nederlands verkeersbord J6.svg|Slope warning sign in the Netherlands File:Z
 
 Calculus
 
-Tangent_function_animation.gif is the slope of a line that is tangent to the curve at that point. Note: the derivative at the point A is positive where green and dash-dot, negative where red and dashed, and zero where black and solid.]] The concept of a slope is central to differential calculus. For non-linear functions, the rate of change varies along the curve. The derivative of the function at a point is the slope of the line tangent to the curve at the point, and is thus equal to the rate of change of the function at that point.
+is the slope of a line that is tangent to the curve at that point. Note: the derivative at the point A is positive where green and dash-dot, negative where red and dashed, and zero where black and solid.]] The concept of a slope is central to differential calculus. For non-linear functions, the rate of change varies along the curve. The derivative of the function at a point is the slope of the line tangent to the curve at the point, and is thus equal to the rate of change of the function at that point.
 
 If we let Δ_x_ and Δ_y_ be the distances (along the _x_ and _y_ axes, respectively) between two points on a curve, then the slope given by the above definition,
 

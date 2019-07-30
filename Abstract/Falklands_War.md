@@ -1,1 +1,0 @@
-The FALKLANDS WAR () was a 10-week undeclared war between Argentina and the United Kingdom in 1982 over two British dependent territories in the South Atlantic: the Falkland Islands and its territorial dependency, the South Georgia and the South Sandwich Islands.

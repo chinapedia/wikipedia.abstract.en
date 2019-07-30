@@ -1,1 +1,0 @@
-Kuradi_sild.jpg]] Kuradisild_sügisõhtul.JPG KURADISILD (_Devil's Bridge_; originally ALEKSANDRI SILD, German: _Alexander Brücke_, _Alexander's Bridge_) is a dark concrete bridge located on Toome Hill in Tartu, Estonia, built to commemorate the 300th anniversary of the Romanov Dynasty in 1913.

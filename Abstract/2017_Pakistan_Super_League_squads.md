@@ -1,1 +1,0 @@
-This is a LIST OF SQUADS FOR THE FIVE FRANCHISES WHICH WILL COMPETE IN THE 2017 PAKISTAN SUPER LEAGUE.[1] Initial squads were finalised after the 2017 Pakistan Super League players draft in October 2016.

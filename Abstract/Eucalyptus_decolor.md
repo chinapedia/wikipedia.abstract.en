@@ -1,1 +1,0 @@
-_EUCALYPTUS DECOLOR_ is a species of small to medium-sized tree that is endemic in Queensland. It has rough, hard, fissured "ironbark", lance-shaped to curved adult leaves that are distinctly paler on the lower surface, flower buds in groups of seven, white flowers and hemispherical to cup-shaped fruit.

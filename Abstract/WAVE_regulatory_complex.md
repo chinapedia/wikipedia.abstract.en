@@ -1,1 +1,0 @@
-The WAVE REGULATORY COMPLEX (WRC) is a five-subunit protein complex in the Wiskott-Aldrich syndrome protein (WASP) family involved in the formation of the actin cytoskeleton through interaction with the Arp2/3 complex. The holocomplex comprises WAVE1 (also known as WASF1), CYFIP1, ABI2, Nap1 and HSPC300 in its canonical form, or orthologues of these.[1] WAVERegulatoryComplex.png

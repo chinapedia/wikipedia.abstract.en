@@ -1,1 +1,0 @@
-Rabbi LOUIS GINZBERG (, _Levy Gintzburg_, November 28, 1873 – November 11, 1953) was a Talmudist and leading figure in the Conservative Movement of Judaism of the twentieth century. He was born on November 28, 1873, in Kaunas, Vilna Governorate (then called _Kovno_); he died on November 11, 1953, in New York City.

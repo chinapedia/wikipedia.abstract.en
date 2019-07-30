@@ -1,1 +1,0 @@
-_LUCIFER'S PALACE_ () — Polish opera in 4 acts by Karol Kurpiński. Libretto was written by Alojzy Żółkowski, based on Joseph-Marie Loaisel de Tréogate's play _Le château du diable_ published in 1792 (another adaptation of this was _Des Teufels Lustschloss_ by August von Kotzebue from 1801). The opera was staged for the first time on 9 November 1811 in Warsaw.[1]

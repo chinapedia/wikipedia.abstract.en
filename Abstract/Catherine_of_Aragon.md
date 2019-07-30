@@ -1,1 +1,0 @@
-CATHERINE OF ARAGON (; 16 December 1485 – 7 January 1536) was Queen of England from June 1509 until May 1533 as the first wife of King Henry VIII; she was previously Princess of Wales as the wife of Henry's elder brother Arthur.

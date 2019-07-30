@@ -1,1 +1,0 @@
-ACHILLEION is a proposed residential complex in Colombo, Sri Lanka. Upon completion, the complex is planned to consist of two twin skyscrapers of 50 floors each, connected by two skybridges; one at the centre of the towers and the other at the top, functioning as a helipad. The 2016 land value on which the Achilleion towers will be built is .[1]

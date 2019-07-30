@@ -1,1 +1,0 @@
-The '''Armand Bayou Archeological District '''is a historical district located near Houston, Texas listed on the National Register of Historic Places.[1] The district is part of the Armand Bayou Watershed which is located in southeast Harris County, encompassing portions of the cities of Houston, Pasadena, Deer Park, La Porte and Taylor Lake Village.[2]

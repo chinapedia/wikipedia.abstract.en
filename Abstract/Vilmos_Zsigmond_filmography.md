@@ -1,1 +1,0 @@
-Vilmos_Zsigmond.jpg

@@ -1,1 +1,0 @@
-The GOVERNOR OF ENTRE RÍOS is a citizen of the Entre Ríos Province, in Argentina, holding the office of governor for the corresponding period. The governor is elected alongside a vice-governor. Currently the governor of Entre Ríos is Gustavo Bordet.[1]

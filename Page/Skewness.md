@@ -1,5 +1,3 @@
-SkewedDistribution.png
-
 In probability theory and statistics, SKEWNESS is a measure of the asymmetry of the probability distribution of a real-valued random variable about its mean. The skewness value can be positive or negative, or undefined.
 
 For a unimodal distribution, negative skew commonly indicates that the _tail_ is on the left side of the distribution, and positive skew indicates that the tail is on the right. In cases where one tail is long but the other tail is fat, skewness does not obey a simple rule. For example, a zero value means that the tails on both sides of the mean balance out overall; this is the case for a symmetric distribution, but can also be true for an asymmetric distribution where one tail is long and thin, and the other is short but fat.
@@ -11,8 +9,6 @@ Consider the two distributions in the figure just below. Within each graph, the 
 
 1.  __: The left tail is longer; the mass of the distribution is concentrated on the right of the figure. The distribution is said to be _left-skewed_, _left-tailed_, or _skewed to the left_, despite the fact that the curve itself appears to be skewed or leaning to the right; _left_ instead refers to the left tail being drawn out and, often, the mean being skewed to the left of a typical center of the data. A left-skewed distribution usually appears as a _right-leaning_ curve.[1]
 2.  __: The right tail is longer; the mass of the distribution is concentrated on the left of the figure. The distribution is said to be _right-skewed_, _right-tailed_, or _skewed to the right_, _despite_ the fact that the curve itself appears to be skewed or leaning to the left; _right_ instead refers to the right tail being drawn out and, often, the mean being skewed to the right of a typical center of the data. A right-skewed distribution usually appears as a _left-leaning_ curve.[2]
-
-Image:Negative and positive skew diagrams (English).svg
 
 Skewness in a data series may sometimes be observed not only graphically but by simple inspection of the values. For instance, consider the numeric sequence (49, 50, 51), whose values are evenly distributed around a central value of 50. We can transform this sequence into a negatively skewed distribution by adding a value far below the mean, e.g. (40, 49, 50, 51). Similarly, we can make the sequence positively skewed by adding a value far above the mean, e.g. (49, 50, 51, 60).
 
@@ -133,7 +129,7 @@ D'Agostino's K-squared test is a goodness-of-fit normality test based on sample 
 
 Other measures of skewness
 
-Comparison_mean_median_mode.svg, median and mode of two log-normal distributions with different skewnesses.]]
+, median and mode of two log-normal distributions with different skewnesses.]]
 
 Other measures of skewness have been used, including simpler calculations suggested by Karl Pearson[17] (not to be confused with Pearson's moment coefficient of skewness, see above). These other measures are:
 

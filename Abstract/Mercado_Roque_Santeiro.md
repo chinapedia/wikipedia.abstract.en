@@ -1,1 +1,0 @@
-THE MERCADO ROQUE SANTEIRO (_Portuguese: Roque Santeiro Market_''') '''was an open-air marketplace in the district of Sambizanga, in the city of Luanda, the capital of Angola.[1] It opened in 1991 with the official name of _Mercado Popular da Boavista;_ it was named Roque Santeiro after the Brazilian telenovela of same name, aired at the time on Angolan television.[2][3]

@@ -1,1 +1,0 @@
-Custom-House-St-Matthews-Church.jpg ST MATTHEW'S CHURCH, CUSTOM HOUSE was a Church of England church on Ethel Road in the Victoria Docks area of West Ham. It is named after its district, Custom House.

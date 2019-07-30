@@ -1,1 +1,0 @@
-In mathematics and computer science, MUTUAL RECURSION is a form of recursion where two mathematical or computational objects, such as functions or data types, are defined in terms of each other.[1] Mutual recursion is very common in functional programming and in some problem domains, such as recursive descent parsers, where the data types are naturally mutually recursive.

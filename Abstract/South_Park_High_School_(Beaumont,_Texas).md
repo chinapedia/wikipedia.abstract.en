@@ -1,1 +1,0 @@
-SOUTH PARK HIGH SCHOOL was a senior high school in the South Park neighborhood of Beaumont, Texas, originally in the South Park Independent School District. In 1986 it was merged into West Brook Senior High School and the building became South Park Middle School.

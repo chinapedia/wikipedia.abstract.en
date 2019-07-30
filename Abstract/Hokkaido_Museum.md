@@ -1,1 +1,0 @@
-opened in Sapporo, Hokkaidō, Japan in 2015. Located within Nopporo Shinrin Kōen Prefectural Natural Park, the permanent exhibition is dedicated to the nature, history, and culture of Hokkaido. Also known as , the museum integrates and replaces the , which opened in 1971, and the , which opened in 1994.[1][2][3]

@@ -1,1 +1,0 @@
-CANNABIS IN FINLAND is illegal. The 50th chapter of the Criminal Code criminalises all dealings with illegal narcotics, including the production, import, transport, sale, possession and use of cannabis.[1][2]

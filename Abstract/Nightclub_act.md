@@ -1,1 +1,0 @@
-Frances_Langford_circa_1946.JPG Martin_and_Lewis_Toast_of_the_Town.jpg Susan_Hayward_-_1947_-_Smash.jpg as an alcoholic nightclub singer in _Smash Up_ (1947)]] Bordens_and_Lucy2.JPG on the set with Lucille Ball prior to the filming of their episode, "Tennessee Bound".]]

@@ -1,1 +1,0 @@
-SPRINGTIME LETHARGY refers to a state of fatigue, lowered energy, or depression, associated with the onset of spring. Such a state may be caused by a normal reaction to warmer temperatures, or it may have a medical basis, such as allergies or "reverse" seasonal affective disorder.[1] In many regions, there is a springtime peak in suicide rates.

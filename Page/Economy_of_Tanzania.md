@@ -114,7 +114,7 @@ The following table shows the main economic indicators in 1980–2017. Inflation
 
 Agriculture
 
-Farmers_in_Igunga,_Tanzania.jpg The Tanzanian economy is heavily based on agriculture, which accounts for 24.5 percent of gross domestic product,[6] provides 85 percent of exports,[7] and accounts for half of the employed workforce;[8] The agricultural sector grew 4.3 percent in 2012, less than half of the Millennium Development Goal target of 10.8 percent.[9] 16.4 percent of the land is arable,[10] with 2.4 percent of the land planted with permanent crops.[11]
+The Tanzanian economy is heavily based on agriculture, which accounts for 24.5 percent of gross domestic product,[6] provides 85 percent of exports,[7] and accounts for half of the employed workforce;[8] The agricultural sector grew 4.3 percent in 2012, less than half of the Millennium Development Goal target of 10.8 percent.[9] 16.4 percent of the land is arable,[10] with 2.4 percent of the land planted with permanent crops.[11]
 
 This strong dependence on agriculture, makes Tanzania's economy highly vulnerable to weather shocks and fluctuating commodity prices. 76% of Tanzania's population subsist thanks to agriculture and, due to the lack of knowledge and infrastructure to develop and implement some kind of agricultural technology, any droughts, floods, or temperature shocks can severely damage the living standards of those people and create huge increases in unemployment, hunger, and malnutrition rates, as well as, in really severe case, mortality rates due to starvation.[12]
 
@@ -144,7 +144,7 @@ Other minerals exploited in Tanzania include;
 
 Modern gold mining in Tanzania started in the German colonial period, beginning with gold discoveries near Lake Victoria in 1894. The first gold mine in what was then Tanganyika, the Sekenke Gold Mine, began operation in 1909, and gold mining in Tanzania experienced a boom between 1930 and World War II. By 1967, gold production in the country had dropped to insignificance but was revived in the mid-1970s, when the gold price rose once more. In the late 1990s, foreign mining companies started investing in the exploration and development of gold deposits in Tanzania, leading to the opening of a number of new mines, like the Golden Pride mine, which opened in 1999 as the first modern gold mine in the country, or the Buzwagi mine, which opened in 2009.[20][21]
 
-Buzwagi_Goldmine_06.JPG.]]
+.]]
 
 Nickel reserves amounting to 290,000 tonnes were discovered in October 2012 by Ngwena Company Limited, a subsidiary of the Australian mining company IMX Resources. An initial investment of around USD $38 million has been made since exploration began in 2006, and nickel should start being mined at the end of 2015.[22]
 
@@ -158,7 +158,7 @@ The government-owned Tanzania Electric Supply Company Limited (TANESCO) dominate
 
 Natural gas
 
-Songo_Songo_Gas_Plant.jpg Gas Plant]]
+Gas Plant]]
 
 According to PFC Energy, 25 to 30 trillion cubic feet of recoverable natural gas resources have been discovered in Tanzania since 2010.[39] The value of natural gas actually produced in 2013 was US $52.2 million, a 42.7 percent increase over 2012.[40]
 
@@ -172,8 +172,6 @@ New exploration on more frontier blocks, however, will likely be slowed as oil a
 
 
 External trade and investment
-
-2006Tanzanian_exports.PNG
 
 Tanzania's history of political stability has encouraged foreign direct investment. The government has committed itself to improve the investment climate including redrawing tax codes, floating the exchange rate, licensing foreign banks, and creating an investment promotion center to cut red tape. Tanzania has mineral resources and a largely untapped tourism sector, which might make it a viable market for foreign investment.
 

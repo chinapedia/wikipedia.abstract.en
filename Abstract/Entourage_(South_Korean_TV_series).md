@@ -1,1 +1,0 @@
-_ENTOURAGE_ () is a South Korean television series starring Cho Jin-woong, Seo Kang-joon, Lee Kwang-soo, Park Jung-min and Lee Dong-hwi. It is a black comedy drama about life in the entertainment industry, based on the American drama series of the same name. It started airing on cable network tvN from November 4, 2016, and finished airing December 24, 2016.[1][2]

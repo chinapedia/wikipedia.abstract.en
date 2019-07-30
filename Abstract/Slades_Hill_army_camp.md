@@ -1,1 +1,0 @@
-Slades_Hill_army_camp_map.jpg Buildings_at_Hog_Hill_gun_emplacement.jpg Store_at_Hog_Hill_gun_emplacement_17.jpg SLADES HILL ARMY CAMP was a Second World War British Army camp and anti-aircraft battery in Slades Hill, Enfield, London, that formed part of London's defences against attack by German bombers.

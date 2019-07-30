@@ -1,1 +1,0 @@
-This article a list of PROGRESSO DA LUNDA SUL players. Progresso da Lunda Sul is an Angolan association football (soccer) club based in Saurimo, and plays at the Estádio das Mangueiras. The club was established in 2002.

@@ -1,1 +1,0 @@
-_Mauricio_Pozo_2015.jpg MAURICIO POZO CRESPO (born January 18, 1959)[1] is an Ecuadorian politician, banker and economist from Quito, Ecuador. He is currently a vice-presidential candidate alongside Cynthia Viteri in the Ecuadorian 2017 general election.[2][3]

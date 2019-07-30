@@ -1,1 +1,0 @@
-JOHN GOLDUP DAVIES (8 January 1914 – 11 August 1989) was a British swimmer. He competed in the men's 200 metre breaststroke at the 1948 Summer Olympics.[1] He died in Wellington, was cremated, and was buried at Makara Cemetery.[2][3]

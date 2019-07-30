@@ -1,1 +1,0 @@
-The 2017 INTERNATIONAL GT OPEN SEASON was the twelfth season of the International GT Open, the grand tourer-style sports car racing founded in 2006 by the Spanish GT Sport Organización. It began on 29 April at Autódromo do Estoril and finished on 29 October, at Barcelona after seven double-header meetings.

@@ -1,1 +1,0 @@
-The NIGEL MANSELL SUNSEEKER INTERNATIONAL CLASSIC was a men's professional golf tournament on the European Seniors Tour from 2003 to 2005. It was staged at Woodbury Park Golf Club, Woodbury, Devon, England. Total prize money was £150,000 with the winner receiving £22,500.

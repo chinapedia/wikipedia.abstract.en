@@ -1,1 +1,0 @@
-The SANTA MARIA DELLA CASTELLARETTA is a Renaissance-style, Roman Catholic church located on the road to San Paolo di Jesi, just outside of the town of Staffolo, province of Ancona, region of Marche, Italy.

@@ -1,1 +1,0 @@
-PRACTICAL JOKE (foaled April 15, 2014 in Kentucky) is a retired multiple Grade I-winning American Thoroughbred racehorse whose wins included the Hopeful, Champagne and H. Allen Jerkens Memorial Stakes.

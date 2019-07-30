@@ -1,4 +1,4 @@
-TrafficInBangkok.jpg, Bangkok.]] Tuk_tuk_1.jpgs are one mode of public transport in Bangkok and other cities in Thailand.]]
+, Bangkok.]] s are one mode of public transport in Bangkok and other cities in Thailand.]]
 
 TRANSPORT IN THAILAND is varied and chaotic, with no one dominant means of transport. For long distance travel, bus transport dominates. Low-speed rail travel has long been a rural long-distance transport mechanism, though plans are underway to expand services with high-speed rail lines extending to several major regions of Thailand. Road transportation is the primary form of freight transport across the country.
 
@@ -13,7 +13,7 @@ Areas with navigable waterways often have boats or boat service, and many innova
 
 Rail transport
 
-Hua_Lamphong_Railway_Station.JPG.]] SRT_Oha14_103_20151106.jpg at Hua Lamphong Railway Station]]
+.]] at Hua Lamphong Railway Station]]
 
 The State Railway of Thailand (SRT) operates all of Thailand's national rail lines. Bangkok Railway Station (Hua Lamphong Station) is the main terminus of all routes. Phahonyothin and ICD Lat Krabang are the main freight terminals.
 
@@ -27,7 +27,7 @@ Rail transport in Bangkok includes long-distance services, and some daily commut
 
 Rail rapid transit systems
 
-Bangkok_Skytrain_exterior.JPG.]] BangkokMetro_SiLomStation.jpg.]]
+.]] .]]
 
 Bangkok Metropolitan Region
 
@@ -81,7 +81,7 @@ There are fundamentally two types of long-distance buses in Thailand:
 
 Public bus service in Bangkok
 
-Hino_510.jpg In Bangkok, the Bangkok Mass Transit Authority or BMTA, is the main operator of public transit buses within the Greater Bangkok area. The Bangkok Mass Transit Authority offers bus and van routes throughout the city and its suburban provinces. Many bus routes in Bangkok are served by several private companies, sometimes duplicating those from BMTA. Examples include orange minibuses, and cream-blue buses. The buses have the BMTA symbol on them, mostly seen below the driver's side window. These often follow slightly different routings from the main big BMTA bus or do not run along the whole route.
+In Bangkok, the Bangkok Mass Transit Authority or BMTA, is the main operator of public transit buses within the Greater Bangkok area. The Bangkok Mass Transit Authority offers bus and van routes throughout the city and its suburban provinces. Many bus routes in Bangkok are served by several private companies, sometimes duplicating those from BMTA. Examples include orange minibuses, and cream-blue buses. The buses have the BMTA symbol on them, mostly seen below the driver's side window. These often follow slightly different routings from the main big BMTA bus or do not run along the whole route.
 
 BMTA currently operates bus routes in Bangkok and its metropolitan area namely Nonthaburi, Pathum Thani, Samut Prakan, Samut Sakhon and Nakhon Pathom.
 
@@ -89,13 +89,11 @@ Local buses and Bangkok city buses come in various sizes, types, and prices, fro
 
 Bus rapid transit system in Bangkok
 
-Bangkok_BRT_2277.JPG
-
 The Bangkok BRT is a bus rapid transit system in Bangkok. Of five routes that were originally planned, only one line has been operating since 2010. The route has twelve stations in the centre of the road that give at-grade access to the right-hand side of the buses. Both terminals connect to the Silom Line of the BTS Skytrain; at Chong Nonsi (S3) and Talat Phlu (S10). The buses used are all Sunlong SLK6125CNG buses. The flat fare is five baht.
 
 Highway network
 
-Thai_expressway_system_overview_map.png The Thai highway network links every part of Thailand. Most highways are in good state of repair, greatly enhancing safety and speed. The four-lane highways often have overhead concrete pedestrian crossings interspersed about every 250 meters in populated areas. There are few on and off ramps on eight-lane highways, most highways are separated by medians with breakage for U-turns, except on major roads where ramp style U-turns predominate.
+The Thai highway network links every part of Thailand. Most highways are in good state of repair, greatly enhancing safety and speed. The four-lane highways often have overhead concrete pedestrian crossings interspersed about every 250 meters in populated areas. There are few on and off ramps on eight-lane highways, most highways are separated by medians with breakage for U-turns, except on major roads where ramp style U-turns predominate.
 
 A number of undivided two-lane highways have been converted into divided four-lane highways. A Bangkok - Chon Buri motorway (Route 7) now links to the new airport and Eastern Seaboard.
 
@@ -124,7 +122,7 @@ Air transport
 
 Airports
 
-As of 2012, Thailand had 103 airports with 63 paved runways, in addition to 6 heliports. The busiest airport in the county is Bangkok's Suvarnabhumi Airport.thai_airways_b747-400_hs-tgj_arp.jpg of the national carrier Thai Airways.]] Suvarnabhumi_Airport_inside.jpg, Thailand.]]
+As of 2012, Thailand had 103 airports with 63 paved runways, in addition to 6 heliports. The busiest airport in the county is Bangkok's Suvarnabhumi Airport. of the national carrier Thai Airways.]] , Thailand.]]
 
 MAJOR INTERNATIONAL AIRPORTS
 
@@ -147,7 +145,7 @@ The national carrier of Thailand is Thai Airways International, founded in 1959.
 
 Water transport
 
-Damnoensaduak97.jpg in Ratchaburi Province]]As of 2011 there were 3,999 km of principal waterways, of which 3,701 km had navigable depths of 0.9 m or more throughout the year. There are numerous minor waterways navigable by shallow-draft native craft, such as long-tailed boats.
+in Ratchaburi Province]]As of 2011 there were 3,999 km of principal waterways, of which 3,701 km had navigable depths of 0.9 m or more throughout the year. There are numerous minor waterways navigable by shallow-draft native craft, such as long-tailed boats.
 
 River and canal transport
 

@@ -1,1 +1,0 @@
-SAFE SEMANTICS is a computer hardware consistency model. It describes one type of guarantee that a data register provides when it is shared by several processors in a parallel computer or in a network of computers working together.

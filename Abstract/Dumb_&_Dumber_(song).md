@@ -1,1 +1,0 @@
-"DUMB & DUMBER" is the first Japanese song by South Korean boy group iKon. The single was released by YGEX on September 9, 2016. The single has three B-side songs, "#WYD" and "Sinosijak (Remix)" with a new song "Love Me".[1]

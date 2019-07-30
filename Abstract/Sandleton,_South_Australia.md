@@ -1,1 +1,0 @@
-SANDLETON is a locality and former town in South Australia. It is located on the plains on the eastern side of the Mount Lofty Ranges. The current boundaries for the locality were created in 2003 for the long-established name of the area.[1]

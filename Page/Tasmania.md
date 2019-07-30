@@ -1,4 +1,4 @@
-Tasmania.A2005320.2355.250m.jpg TASMANIA (;[1] abbreviated as TAS, nicknamed TASSIE) is an island state of Australia. It is located to the south of the Australian mainland, separated by Bass Strait. The state encompasses the main island of Tasmania, the 26th-largest island in the world, and the surrounding 334 islands.[2] The state has a population of around 531,500[3] . Just over forty percent of the population resides in the Greater Hobart precinct, which forms the metropolitan area of the state capital and largest city, Hobart.[4]
+TASMANIA (;[1] abbreviated as TAS, nicknamed TASSIE) is an island state of Australia. It is located to the south of the Australian mainland, separated by Bass Strait. The state encompasses the main island of Tasmania, the 26th-largest island in the world, and the surrounding 334 islands.[2] The state has a population of around 531,500[3] . Just over forty percent of the population resides in the Greater Hobart precinct, which forms the metropolitan area of the state capital and largest city, Hobart.[4]
 
 Tasmania's area is , of which the main island covers .[5] It is promoted as a natural state, and protected areas of Tasmania cover about 42% of its land area, which includes national parks and World Heritage Sites.[6] Tasmania was the founding place of the first environmental political party in the world.[7]
 
@@ -20,7 +20,7 @@ History
 
 Physical history
 
-Tessellated_Pavement_Sunrise_Landscape.jpg, a rare rock formation on the Tasman Peninsula]] Autumn-in-Tasmania.jpg on the Derwent River in Tasmania]] The island was adjoined to the mainland of Australia until the end of the last glacial period about 10,000 years ago. Much of the island is composed of Jurassic dolerite intrusions (the upwelling of magma) through other rock types, sometimes forming large columnar joints. Tasmania has the world's largest areas of dolerite, with many distinctive mountains and cliffs formed from this rock type. The central plateau and the southeast portions of the island are mostly dolerites. Mount Wellington above Hobart is a good example, showing distinct columns known as the Organ Pipes.
+, a rare rock formation on the Tasman Peninsula]] on the Derwent River in Tasmania]] The island was adjoined to the mainland of Australia until the end of the last glacial period about 10,000 years ago. Much of the island is composed of Jurassic dolerite intrusions (the upwelling of magma) through other rock types, sometimes forming large columnar joints. Tasmania has the world's largest areas of dolerite, with many distinctive mountains and cliffs formed from this rock type. The central plateau and the southeast portions of the island are mostly dolerites. Mount Wellington above Hobart is a good example, showing distinct columns known as the Organ Pipes.
 
 In the southern midlands as far south as Hobart, the dolerite is underlaid by sandstone and similar sedimentary stones. In the southwest, Precambrian quartzites were formed from very ancient sea sediments and form strikingly sharp ridges and ranges, such as Federation Peak or Frenchmans Cap.
 
@@ -34,9 +34,9 @@ Evidence indicates the presence of Aborigines in Tasmania about 42,000 years ag
 
 European arrival and governance
 
-Thevenot_-_Hollandia_Nova_detecta_1644.png (1620?–1692): _Map of New Holland_ from 1644, based on a map by the Dutch cartographer Joan Blaeu.]] The first reported sighting of Tasmania by a European was on 24 November 1642 by Dutch explorer Abel Tasman, who landed at today's Blackman Bay. More than a century later, in 1772, a French expedition led by Marc-Joseph Marion du Fresne landed at (nearby but different) Blackmans Bay, and the following year Tobias Furneaux became the first Englishman to land in Tasmania when he arrived at Adventure Bay, which he named after his ship HMS _Adventure_. Captain James Cook also landed at Adventure Bay in 1777. Matthew Flinders and George Bass sailed through Bass Strait in 1798–99, determining for the first time that Tasmania was an island.[19]
+(1620?–1692): _Map of New Holland_ from 1644, based on a map by the Dutch cartographer Joan Blaeu.]] The first reported sighting of Tasmania by a European was on 24 November 1642 by Dutch explorer Abel Tasman, who landed at today's Blackman Bay. More than a century later, in 1772, a French expedition led by Marc-Joseph Marion du Fresne landed at (nearby but different) Blackmans Bay, and the following year Tobias Furneaux became the first Englishman to land in Tasmania when he arrived at Adventure Bay, which he named after his ship HMS _Adventure_. Captain James Cook also landed at Adventure Bay in 1777. Matthew Flinders and George Bass sailed through Bass Strait in 1798–99, determining for the first time that Tasmania was an island.[19]
 
-John_Glover_-_Mount_Wellington_and_Hobart_Town_from_Kangaroo_Point_-_Google_Art_Project.jpg and Hobart from Kangaroo Point, c. 1834]]
+and Hobart from Kangaroo Point, c. 1834]]
 
 Sealers and whalers based themselves on Tasmania's islands from 1798,[20] and in August 1803 New South Wales Governor Philip King sent Lieutenant John Bowen to establish a small military outpost on the eastern shore of the Derwent River in order to forestall any claims to the island by French explorers who had been exploring the southern Australian coastline. Bowen, who led a party of 49, including 21 male and three female convicts, named the camp Risdon.[21][22] Several months later a second settlement was established by Captain David Collins, with 308 convicts, to the south in Sullivans Cove on the western side of the Derwent, where fresh water was more plentiful. The latter settlement became known as Hobart Town or Hobarton, later shortened to Hobart, after the British Colonial Secretary of the time, Lord Hobart. The settlement at Risdon was later abandoned. Left on their own without further supplies, the Sullivans Cove settlement suffered severe food shortages and by 1806 its inhabitants were starving, with many resorting to scraping seaweed off rocks and scavenging washed-up whale blubber from the shore to survive.[23]
 
@@ -48,7 +48,7 @@ Tensions between Tasmania's black and white inhabitants rose, partly driven by i
 
 Violence began to spiral rapidly from the mid-1820s in what became known as the "Black War". While black inhabitants were driven to desperation by dwindling food supplies as well as anger at the prevalence of abductions of women and girls, whites carried out attacks as a means of exacting revenge and suppressing the native threat. Van Diemen's Land had an enormous gender imbalance, with male colonists outnumbering females six to one in 1822—and 16 to one among the convict population. Historian Nicholas Clements has suggested the "voracious appetite" for native women was the most important trigger for the explosion of violence from the late 1820s.[31]
 
-Truganini_and_last_4_tasmanian_aborigines.jpg c. 1860s. Truganini, for many years claimed to be the last full-blood Aboriginal to survive, is seated at far right.]] From 1825 to 1828 the number of native attacks more than doubled each year, raising panic among settlers. Over the summer of 1826–7 clans from the Big River, Oyster Bay and North Midlands nations speared stock-keepers on farms and made it clear that they wanted the settlers and their sheep and cattle to move from their kangaroo hunting grounds. Settlers responded vigorously, resulting in many mass-killings. In November 1826 Governor George Arthur issued a government notice declaring that colonists were free to kill Aborigines when they attacked settlers or their property and in the following eight months more than 200 Aborigines were killed in the Settled Districts in reprisal for the deaths of 15 colonists. After another eight months the death toll had risen to 43 colonists and probably 350 Aboriginals.[32] Almost 300 British troops were sent into the Settled Districts, and in November 1828 Arthur declared martial law, giving soldiers the right to shoot on sight any Aboriginal in the Settled Districts. Martial law would remain in force for more than three years, the longest period of martial law in Australian history.[33][34]
+c. 1860s. Truganini, for many years claimed to be the last full-blood Aboriginal to survive, is seated at far right.]] From 1825 to 1828 the number of native attacks more than doubled each year, raising panic among settlers. Over the summer of 1826–7 clans from the Big River, Oyster Bay and North Midlands nations speared stock-keepers on farms and made it clear that they wanted the settlers and their sheep and cattle to move from their kangaroo hunting grounds. Settlers responded vigorously, resulting in many mass-killings. In November 1826 Governor George Arthur issued a government notice declaring that colonists were free to kill Aborigines when they attacked settlers or their property and in the following eight months more than 200 Aborigines were killed in the Settled Districts in reprisal for the deaths of 15 colonists. After another eight months the death toll had risen to 43 colonists and probably 350 Aboriginals.[32] Almost 300 British troops were sent into the Settled Districts, and in November 1828 Arthur declared martial law, giving soldiers the right to shoot on sight any Aboriginal in the Settled Districts. Martial law would remain in force for more than three years, the longest period of martial law in Australian history.[33][34]
 
 In November 1830 Arthur organised the so-called "Black Line", ordering every able-bodied male colonist to assemble at one of seven designated places in the Settled Districts to join a massive drive to sweep Aboriginals out of the region and on to the Tasman Peninsula. The campaign failed and was abandoned seven weeks later, but by then Tasmania's Aboriginal population had fallen to about 300.
 
@@ -60,7 +60,7 @@ Proclamation as a separate colony
 
 Van Diemen's Land—which thus far had existed as a territory within the colony of New South Wales—was proclaimed a separate colony, with its own judicial establishment and Legislative Council, on 3 December 1825. Transportation to the island ceased in 1853 and the colony was renamed Tasmania in 1856, partly to differentiate the burgeoning society of free settlers from the island's convict past.[41]
 
-Convict_labourers_in_Australia_in_the_early_20th_century.jpg ploughing team breaking up new ground at the farm at Port Arthur.]]The Legislative Council of Van Diemen's Land drafted a new constitution which it passed in 1854. The following year the Privy Council approved the colony changing its name from "Van Diemen's Land" to "Tasmania", and in 1856 the newly elected bicameral parliament sat for the first time, establishing Tasmania as a self-governing colony of the British Empire.
+ploughing team breaking up new ground at the farm at Port Arthur.]]The Legislative Council of Van Diemen's Land drafted a new constitution which it passed in 1854. The following year the Privy Council approved the colony changing its name from "Van Diemen's Land" to "Tasmania", and in 1856 the newly elected bicameral parliament sat for the first time, establishing Tasmania as a self-governing colony of the British Empire.
 
 The colony suffered from economic fluctuations, but for the most part was prosperous, experiencing steady growth. With few external threats and strong trade links with the Empire, Tasmania enjoyed many fruitful periods in the late 19th century, becoming a world-centre of shipbuilding. It raised a local defence force that eventually played a significant role in the Second Boer War in South Africa, and Tasmanian soldiers in that conflict won the first two Victoria Crosses awarded to Australians.
 
@@ -85,7 +85,7 @@ In January 2011 philanthropist David Walsh opened the Museum of Old and New Art 
 
 Geography
 
-Topography_of_Tasmania.jpg North_Coast_of_Tasmania.jpg Tasmania's landmass of is located directly in the pathway of the notorious "Roaring Forties" wind that encircles the globe. To its north, it is separated from mainland Australia by Bass Strait. Tasmania is the only Australian state that is not located on the Australian mainland. About 2,500 kilometres (1,600 mi) south of Tasmania island lies Antarctica. Depending on which borders of the oceans are used, the island can be said to be either surrounded by the Southern Ocean, or to have the Pacific on its east and the Indian to its west. Still other definitions of the ocean boundaries would have Tasmania with the Great Australian Bight to the west, and the Tasman Sea to the east. It lies at similar latitudes to the South Island of New Zealand, and parts of Patagonia in South America.
+Tasmania's landmass of is located directly in the pathway of the notorious "Roaring Forties" wind that encircles the globe. To its north, it is separated from mainland Australia by Bass Strait. Tasmania is the only Australian state that is not located on the Australian mainland. About 2,500 kilometres (1,600 mi) south of Tasmania island lies Antarctica. Depending on which borders of the oceans are used, the island can be said to be either surrounded by the Southern Ocean, or to have the Pacific on its east and the Indian to its west. Still other definitions of the ocean boundaries would have Tasmania with the Great Australian Bight to the west, and the Tasman Sea to the east. It lies at similar latitudes to the South Island of New Zealand, and parts of Patagonia in South America.
 
 The most mountainous region is the Central Highlands area, which covers most of the central western parts of the state. The Midlands located in the central east, is fairly flat, and is predominantly used for agriculture, although farming activity is scattered throughout the state. Tasmania's tallest mountain is Mount Ossa at .[43][44] Much of Tasmania is still densely forested, with the Southwest National Park and neighbouring areas holding some of the last temperate rain forests in the Southern Hemisphere. The Tarkine, containing Savage River National Park located in the island's far north west, is the largest temperate rainforest area in Australia covering about .[45] With its rugged topography, Tasmania has a great number of rivers. Several of Tasmania's largest rivers have been dammed at some point to provide hydroelectricity. Many rivers begin in the Central Highlands and flow out to the coast. Tasmania's major population centres are mainly situated around estuaries (some of which are named rivers).
 
@@ -101,7 +101,7 @@ The age-old question about Tasmania's insularity – 'Is Van Diemen's Land a pen
 
 Climate
 
-Knyvet_Falls,_Tasmania.jpg Blick_ueber_Great_Oyster_Bay_zur_Freycinet_Peninsula.jpg and Great Oyster Bay with the Freycinet Peninsula in the distance]]
+and Great Oyster Bay with the Freycinet Peninsula in the distance]]
 
 Tasmania has a relatively cool temperate climate compared to the rest of Australia with four distinct seasons.[52] Summer is from December to February when the average maximum sea temperature is and inland areas around Launceston reach . Other inland areas are much cooler, with Liawenee, located on the Central Plateau, one of the coldest places in Australia, ranging between and in February. Autumn is from March to May, with mostly settled weather, as summer patterns gradually take on the shape of winter patterns.[53] The winter months are from June to August, and are generally the wettest and coldest months in the state, with most high lying areas receiving considerable snowfall. Winter maximums are on average along coastal areas and on the central plateau, as a result of a series of cold fronts from the Southern Ocean. Inland areas receive regular freezes throughout the winter months.[54] Spring is from September to November, and is an unsettled season of transition, where winter weather patterns begin to take the shape of summer patterns, although snowfall is still common up until October. Spring is generally the windiest time of the year with afternoon sea breezes starting to take effect on the coast.
 
@@ -114,7 +114,7 @@ Tasmania has a relatively cool temperate climate compared to the rest of Austral
 
 Soils
 
-Apple_orchard_in_Tasmania.jpg Despite the presence of some Quaternary glaciation, Tasmania's soils are not more fertile than those of mainland Australia, largely because most are severely leached and the areas with driest climates (least leaching) were unaffected by glaciation or alluvia derived therefrom. Most soils on the Bass Strait Islands, the east coast and western Tasmania are very infertile spodosols or psamments, with some even less fertile "lateritic podzolic soils" in the latter region. Most of these lands are thus not used for agriculture, but there is much productive forestry—which remains one of the state's major industries.
+Despite the presence of some Quaternary glaciation, Tasmania's soils are not more fertile than those of mainland Australia, largely because most are severely leached and the areas with driest climates (least leaching) were unaffected by glaciation or alluvia derived therefrom. Most soils on the Bass Strait Islands, the east coast and western Tasmania are very infertile spodosols or psamments, with some even less fertile "lateritic podzolic soils" in the latter region. Most of these lands are thus not used for agriculture, but there is much productive forestry—which remains one of the state's major industries.
 
 On the north coast, apart from some relatively fertile alluvial soils used for fruit-growing, there are also deep red, easily workable soils known as "krasnozems" ("red land"). These soils are highly acidic and fix phosphate very effectively, but their extremely favourable physical properties make them extensively used for dairying, beef cattle and fodder crops.
 
@@ -124,7 +124,7 @@ Tasmania became known as the "Apple Isle" because for many years it was one of t
 
 Ecology
 
-Hellyer_Gorge,_Tasmania.jpgs in Hellyer Gorge, to the northeast of Savage River National Park]] Tasmanian_Devil_resting.jpgs are nocturnal, they like to rest in the sun. Scarring from fighting is visible next to this devil's left eye.]]
+s in Hellyer Gorge, to the northeast of Savage River National Park]] s are nocturnal, they like to rest in the sun. Scarring from fighting is visible next to this devil's left eye.]]
 
 Geographically and genetically isolated, Tasmania is known for its unique flora and fauna.
 
@@ -139,7 +139,7 @@ The island of Tasmania was home to the thylacine, a marsupial which resembled a 
 
 Demography
 
-Hobart_moonrise_from_Mt_Wellington.jpg, seen here from Mount Wellington, is Tasmania's most populous city and comprises a large portion of the state's population.]] ABS-3101.0-AustralianDemographicStatistics-EstimatedResidentPopulationStatesTerritories-EstimatedResidentPopulation-Persons-Tasmania-A2060848V.svg
+, seen here from Mount Wellington, is Tasmania's most populous city and comprises a large portion of the state's population.]]
 
 Tasmania's population is more homogeneous than that of other states of Australia, with many of British descent.[62] Approximately 65% of its residents are descendants of an estimated 10,000 "founding families" from the mid-19th century.
 
@@ -190,7 +190,7 @@ At the 2016 census, the most commonly nominated religions were 'No Religion' (37
 
 Government
 
-CG-ParliamentHouseHobart.jpg]]
+]]
 
 The form of the government of Tasmania is prescribed in its constitution, which dates from 1856, although it has been amended many times since then. Since 1901, Tasmania has been a state of the Commonwealth of Australia, and the Australian Constitution regulates its relationship with the Commonwealth and prescribes which powers each level of government is allowed.
 
@@ -234,7 +234,7 @@ As with the House of Assembly, Tasmania's local government elections use a syste
 
 Economy
 
-WesternTasmania1865.jpg and South West Tasmania with natural resources on 1865 map]] Tasmanian_salmon_on_a_pea_and_corn_fritter.jpg.]]
+and South West Tasmania with natural resources on 1865 map]] .]]
 
 Traditionally, Tasmania's main industries have been mining (including copper, zinc, tin, and iron), agriculture, forestry, and tourism. In the 1940s and 1950s, a hydro-industrialisation initiative was embodied in the state by Hydro Tasmania. These all have had varying fortunes over the last century and more, involved in ebbs and flows of population moving in and away dependent upon the specific requirements of the dominant industries of the time. The state also has a large number of food exporting sectors, including but not limited to seafood (such as Atlantic salmon, abalone and crayfish).
 
@@ -267,7 +267,7 @@ Tasmania has five broadcast television stations which produce local content incl
 
 Music and performing arts
 
-Princess_Theatre_at_night,_Launceston.JPG and Earl Arts Centre, Launceston]]Tasmania has a varied musical scene, ranging from the Tasmanian Symphony Orchestra whose home is the Federation Concert Hall, to a substantial number of small bands, orchestras, string quintets, saxophone ensembles and individual artists who perform at a variety of venues around the state. Tasmania is also home to a vibrant community of composers including Constantine Koukias, Maria Grenfell and Don Kay, who is the patron of the Tasmanian Composers Collective,[102] the representative body for composers in Tasmania. Tasmania is also home to one of Australia's leading new music institutions, IHOS Music Theatre and Opera and gospel choirs, the Southern Gospel Choir. Prominent Australian metal bands Psycroptic and Striborg hail from Tasmania.[103] Noir-rock band The Paradise Motel and 1980s power-pop band The Innocents[104] are also citizens. The first season of the television series _The Mole_ was filmed and based mainly in Tasmania, with the final elimination taking place in Port Arthur gaol.
+and Earl Arts Centre, Launceston]]Tasmania has a varied musical scene, ranging from the Tasmanian Symphony Orchestra whose home is the Federation Concert Hall, to a substantial number of small bands, orchestras, string quintets, saxophone ensembles and individual artists who perform at a variety of venues around the state. Tasmania is also home to a vibrant community of composers including Constantine Koukias, Maria Grenfell and Don Kay, who is the patron of the Tasmanian Composers Collective,[102] the representative body for composers in Tasmania. Tasmania is also home to one of Australia's leading new music institutions, IHOS Music Theatre and Opera and gospel choirs, the Southern Gospel Choir. Prominent Australian metal bands Psycroptic and Striborg hail from Tasmania.[103] Noir-rock band The Paradise Motel and 1980s power-pop band The Innocents[104] are also citizens. The first season of the television series _The Mole_ was filmed and based mainly in Tasmania, with the final elimination taking place in Port Arthur gaol.
 
 Tasmanian cinema
 
@@ -280,7 +280,7 @@ The biennial _Tasmanian Living Artists' Week_ is a ten-day statewide festival fo
 
 Transport
 
-HobartAirportTerminal.jpg.]]
+.]]
 
 Air
 
@@ -292,7 +292,7 @@ Tasmania – Hobart in particular – serves as Australia's chief sea link to An
 
 Road
 
-Bridgewater_Bridge,_Tasmania.jpg Within the state, the primary form of transport is by road. Since the 1980s, many of the state's highways have undergone regular upgrades. These include the Hobart Southern Outlet, Launceston Southern Outlet, Bass Highway reconstruction, and the Huon Highway. Public transport is provided by Metro Tasmania bus services, regular taxis and Hobart only[107] UBER ride-share services within urban areas, with Redline Coaches, Tassielink Transit and Callows Coaches providing bus service between population centres.
+Within the state, the primary form of transport is by road. Since the 1980s, many of the state's highways have undergone regular upgrades. These include the Hobart Southern Outlet, Launceston Southern Outlet, Bass Highway reconstruction, and the Huon Highway. Public transport is provided by Metro Tasmania bus services, regular taxis and Hobart only[107] UBER ride-share services within urban areas, with Redline Coaches, Tassielink Transit and Callows Coaches providing bus service between population centres.
 
 Rail
 
@@ -300,7 +300,7 @@ Rail transport in Tasmania consists of narrow-gauge lines to all four major popu
 
 Shipping
 
-Spirit_of_Tasmania_Port_Melbourne.jpg'' links the island with mainland Australia.]]
+'' links the island with mainland Australia.]]
 
 The port of Hobart is the second deepest natural port in the world, second to only Rio de Janeiro in Brazil. There is a substantial amount of commercial and recreational shipping within the harbour, and the port hosts approximately 120 cruise ships during the warmer half of the year, and there are occasional visits from military vessels.
 
@@ -311,7 +311,7 @@ Burnie and Devonport on the northwest coast host ports and several other coastal
 
 Sport
 
-One-day_Cricket_Australia_vs_England,_Bellerive_Oval,_January_2011_(2).jpg at night, during the one-day cricket Australia vs England.]]
+at night, during the one-day cricket Australia vs England.]]
 
 Sport is an important pastime in Tasmania, and the state has produced several famous sportsmen and women and also hosted several major sporting events. The Tasmanian Tigers cricket team represents the state successfully (for example the Sheffield Shield in 2007, 2011 and 2013) and plays its home games at the Bellerive Oval in Hobart; which is also the home ground for the Hobart Hurricanes in the Big Bash League. In addition, Bellerive Oval regularly hosts international cricket matches. Famous Tasmanian cricketers include David Boon and former Australian captain Ricky Ponting.
 

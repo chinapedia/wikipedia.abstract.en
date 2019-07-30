@@ -1,1 +1,0 @@
-LAKE MATARO is an ancient lake in the Andes. It formed over the northern Altiplano at an altitude of and extended over the central Altiplano. It is one of the ancient lakes of the Altiplano like Lake Minchin, Lake Ballivian and Lake Cabana. It existed between 2.8 and 1.8 million years ago.

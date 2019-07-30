@@ -1,1 +1,0 @@
-DANIEL MENDEZ is an American music recording professional who has worked for over 20 years as a producer, engineer, and mixer. In 2011, he founded the music production, publishing, and licensing company, Head Above Water.

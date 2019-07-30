@@ -1,5 +1,3 @@
-Iced_Tea_from_flickr.jpg
-
 SWEET TEA is a popular style of iced tea commonly consumed in the United States,[1][2] but especially common in the Southern United States. Sweet tea is most commonly made by adding sugar or simple syrup to black tea either while the tea is brewing or still hot, although artificial sweeteners are also frequently used. Sweet tea is almost always served ice cold. It may sometimes be flavored, most commonly with lemon[3] but also with peach, raspberry, or mint.[4] The drink is sometimes tempered with baking soda to reduce its acidity.[5]
 
 Sweet tea is regarded as an important regional staple item in the cuisine of the Southern United States.[6] The availability of sweet tea in restaurants and other establishments is popularly used as an indicator to gauge whether or not an area can be considered part of the South.[7][8][9] Although sweet tea may be brewed with a lower sugar and calorie content than most fruit juices and sodas, it is not unusual to find sweet tea with a sugar level as high as 22 brix (percent weight sucrose in water) -- twice that of Coca-Cola.[10][11][12][13][14]

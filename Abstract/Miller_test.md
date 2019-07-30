@@ -1,1 +1,0 @@
-The MILLER TEST, also called the THREE-PRONG OBSCENITY TEST, is the United States Supreme Court's test for determining whether speech or expression can be labeled obscene, in which case it is not protected by the First Amendment to the United States Constitution and can be prohibited.[1]

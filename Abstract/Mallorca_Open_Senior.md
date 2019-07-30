@@ -1,1 +1,0 @@
-The MALLORCA OPEN SENIOR was a men's golf tournament on the European Senior Tour. In 2009 the tournament was called the SON GUAL MALLORCA SENIOR OPEN and was held at Son Gual Golf, Palma, Mallorca while in 2012 it was played at Pula Golf, Son Servera, Mallorca, Spain. In 2012 the prize fund was €200,000.

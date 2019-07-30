@@ -1,1 +1,0 @@
-AUSDROID, formerly known as ANDROID AUSTRALIA, is a site containing news about smartphones, smart accessories and personal technology. The site started writing about just the Android operating system, but has expanded to a broader personal technology coverage. The site is produced by Ausdroid Media Pty Ltd[1].

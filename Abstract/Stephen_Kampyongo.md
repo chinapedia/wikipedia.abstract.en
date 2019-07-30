@@ -1,1 +1,0 @@
-STEPHEN KAMPYONGO (born 12 June 1972) is a Zambian politician who is currently the Minister of Home Affairs of Zambia since September 2016.[1] He was the Minister of Local Government and Housing in the first cabinet of Edgar Lungu after his election in 2015 following the death of Micahel Sata.[2]

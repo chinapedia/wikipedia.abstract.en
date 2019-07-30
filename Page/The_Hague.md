@@ -16,7 +16,7 @@ History
 
 Early history
 
-Joust_on_the_Hofvijver,_by_Dutch_School_of_the_17th_century.jpg at the Hofvijver, 1625]] Beest_Street_in_The_Hague.jpg in Warsaw]]
+at the Hofvijver, 1625]] in Warsaw]]
 
 Little is known about the origin of The Hague. There are no contemporary documents describing it, and later sources are often of dubious reliability. What is certain is that The Hague was founded by the last counts of the House of Holland. Floris IV already owned two residences in the area, but presumably purchased a third court situated by the present-day Hofvijver in 1229, previously owned by a woman called Meilendis. Presumably, Floris IV intended to rebuild the court into a large castle, but he died in a tournament in 1234, before anything was built.[6] His son and successor William II lived in the court, and after he was elected King of the Romans in 1248, he promptly returned to The Hague, and had builders turn the court into a "royal palace" (_regale palacium_), which would later be called the Binnenhof ("Inner Court"). He died in 1256 before this palace was completed but parts of it were finished during the reign of his son Floris V, of which the Ridderzaal ("Knights' Hall"), still intact, is the most prominent.[7][8] It is still used for political events, such as the annual speech from the throne by the Dutch monarch. From the 13th century onward, the counts of Holland used The Hague as their administrative center and residence when in Holland.
 
@@ -28,7 +28,7 @@ At the beginning of the Eighty Years' War, the absence of city walls proved disa
 
 Modern history
 
-Den_Haag_-_Stadhuis_1900.jpg of The Hague around 1900]] Only in 1806, when the Kingdom of Holland was a puppet state of the First French Empire, was the settlement granted city rights by Louis Bonaparte.[13] After the Napoleonic Wars, modern-day Belgium and the Netherlands were combined in the United Kingdom of the Netherlands to form a buffer against France. As a compromise, Brussels and Amsterdam alternated as capital every two years, with the government remaining in The Hague. After the separation of Belgium in 1830, Amsterdam remained the capital of the Netherlands, while the government was situated in The Hague. When the government started to play a more prominent role in Dutch society after 1850, The Hague quickly expanded. Many streets were specifically built for the large number of civil servants employed in the country's government and for the Dutchmen who were retiring from the administration of the Netherlands East Indies. The growing city annexed the rural municipality of Loosduinen partly in 1903 and completely in 1923.[14]
+of The Hague around 1900]] Only in 1806, when the Kingdom of Holland was a puppet state of the First French Empire, was the settlement granted city rights by Louis Bonaparte.[13] After the Napoleonic Wars, modern-day Belgium and the Netherlands were combined in the United Kingdom of the Netherlands to form a buffer against France. As a compromise, Brussels and Amsterdam alternated as capital every two years, with the government remaining in The Hague. After the separation of Belgium in 1830, Amsterdam remained the capital of the Netherlands, while the government was situated in The Hague. When the government started to play a more prominent role in Dutch society after 1850, The Hague quickly expanded. Many streets were specifically built for the large number of civil servants employed in the country's government and for the Dutchmen who were retiring from the administration of the Netherlands East Indies. The growing city annexed the rural municipality of Loosduinen partly in 1903 and completely in 1923.[14]
 
 The city sustained heavy damage during World War II. Many Jews were killed during the German occupation. Additionally, the Atlantic Wall was built through the city, causing a large quarter to be torn down by the Nazi occupants. On 3 March 1945, the Royal Air Force mistakenly bombed the Bezuidenhout quarter. The target was an installation of V-2 rockets in the nearby Haagse Bos park, but because of navigational errors, the bombs fell on a heavily populated and historic part of the city.[15] The bombardment wreaked widespread destruction in the area[16] and caused 511 fatalities.[17]
 
@@ -36,8 +36,6 @@ After the war, The Hague became at one time the largest building site in Europe.
 
 
 Geography
-
-DenHaag-plaats-OpenTopo.jpg Haagse_wijken.PNG
 
 The Hague is the largest Dutch city on the North Sea in the Netherlands and forms the centre of a conurbation called Haaglanden. Westland and Wateringen lie to the south, Rijswijk, Delft and the Rotterdam conurbation (called _Stadsregio Rotterdam_ or _Rijnmond_) to the southeast, Pijnacker-Nootdorp and Zoetermeer to the east, Leidschendam-Voorburg, Voorschoten and the Leiden conurbation to the northeast and Wassenaar to the north.
 
@@ -64,7 +62,7 @@ Cityscape
 
 City life concentrates around the Hofvijver and the Binnenhof, where the States General of the Netherlands are located. Because of its history, the historical inner city of The Hague differs in various aspects from the nearby smaller cities of Leiden and Delft. It does not have a cramped inner city, bordered by canals and walls. Instead, it has some small streets in the town centre that may be dated from the late Middle Ages and several spacious streets boasting large and luxurious 18th-century residences built for diplomats and affluent Dutch families. It has a large church dating from the 15th century, an impressive City Hall (built as such) from the 16th century, several large 17th-century palaces, a 17th-century Protestant church built in what was then a modern style, and many important 18th-century buildings.
 
-Hofvijver29042007.jpg and the buildings housing the States General of the Netherlands]] The_Hague_Hoftoren.jpg (left) and the Ministry of Health, Welfare and Sport (right)]] The city is becoming more student friendly with the introduction of a new campus in 2012 of Leiden University as well as Leiden University College The Hague, which was established in 2010. The Royal Conservatory of The Hague and the Royal Academy of Art are also located there, as well as The Hague University, a vocational university and a branch of The Open University of the Netherlands. The city has many civil servants and diplomats[19] . In fact, the number and variety of foreign residents (especially the expatriates) make the city quite culturally diverse, with many foreign pubs, shops and cultural events.
+and the buildings housing the States General of the Netherlands]] (left) and the Ministry of Health, Welfare and Sport (right)]] The city is becoming more student friendly with the introduction of a new campus in 2012 of Leiden University as well as Leiden University College The Hague, which was established in 2010. The Royal Conservatory of The Hague and the Royal Academy of Art are also located there, as well as The Hague University, a vocational university and a branch of The Open University of the Netherlands. The city has many civil servants and diplomats[19] . In fact, the number and variety of foreign residents (especially the expatriates) make the city quite culturally diverse, with many foreign pubs, shops and cultural events.
 
 The Hague is the largest Dutch city on the North Sea and includes two distinct beach resorts. The main beach resort Scheveningen, in the northwestern part of the city is a popular destination for tourists as well as for inhabitants. With 10 million visitors a year, it is the most popular beach town in the Benelux area. Kijkduin, in the south west, is The Hague's other beach resort. It is significantly smaller and attracts mainly local residents.
 
@@ -107,7 +105,7 @@ Politics
 
 Municipal government
 
-Municipality_Den_Haag.jpg As of the 2018 municipal election, The Hague's municipal council contains fifteen parties, most notably the local Group de Mos (9 seats), the VVD (7 seats), D66 (6 seats) and GroenLinks (5 seats).[27]
+As of the 2018 municipal election, The Hague's municipal council contains fifteen parties, most notably the local Group de Mos (9 seats), the VVD (7 seats), D66 (6 seats) and GroenLinks (5 seats).[27]
 
 !style="background-color:#E9E9E9" align=center colspan=2|Party !style="background-color:#E9E9E9" align=right|Seats |- |bgcolor="#008f51" width=2| |align=left|Group de Mos – Heart for The Hague|| |- |align=left|People's Party for Freedom and Democracy|| |- |align=left|Democrats 66|| |- |align=left|GroenLinks|| |- |align=left|Christian Democratic Appeal|| |- |align=left|Labour Party|| |- |bgcolor="#fcda00" width=3| |align=left|The Hague City Party|| |- |align=left|Party for the Animals|| |- |align=left|Party for Freedom|| |- |bgcolor="#91bd1e" width=2| |align=left|Islam Democrats|| |- |align=left|Christian Union-Reformed Political Party|| |- |align=left|Socialist Party|| |- |align=left|50PLUS|| |- |bgcolor="#76b729" width=2| |align=left|NIDA|| |- |bgcolor="#478f3a" width=2| |align=left|Party of Unity|| |}
 
@@ -115,7 +113,7 @@ Since 2018, the municipal executive has comprised Group de Mos, VVD, D66 and Gro
 
 International politics
 
-International_Court_of_Justice.jpg]] International_Criminal_Court_Headquarters,_Netherlands.jpg]] Ministry_of_Justice,_Affairs_and_Security_in_Den_Haag.jpg The Hague is home to many different international judicial bodies, such as the International Court of Justice (ICJ), the International Criminal Court (ICC), and the International Residual Mechanism for Criminal Tribunals (IRMCT). The Hague is the fourth major centre for the United Nations, after New York, Geneva and Vienna.[29]
+]] ]] The Hague is home to many different international judicial bodies, such as the International Court of Justice (ICJ), the International Criminal Court (ICC), and the International Residual Mechanism for Criminal Tribunals (IRMCT). The Hague is the fourth major centre for the United Nations, after New York, Geneva and Vienna.[29]
 
 The foundation of The Hague as an "international city of peace and justice" started at the end of the 19th century, when the first global Conference of peace took place in The Hague on Tobias Asser's initiative, with then a second one a few years later. A direct result of these meetings was the establishment of the world's first organisation for the settlement of international disputes: the Permanent Court of Arbitration (PCA). Shortly thereafter the Scottish-American millionaire Andrew Carnegie made the necessary funds available to build the Peace Palace to house the PCA. After the establishment of the League of Nations, The Hague became the seat of the Permanent Court of International Justice, which was replaced by the UN's International Court of Justice after World War II. The establishments of the Iran–United States Claims Tribunal (1981), the International Criminal Tribunal for the former Yugoslavia (1993) and the International Criminal Court (2002) in the city further consolidated its role as a centre for international legal arbitration. Most recently, on 1 March 2009, the Special Tribunal for Lebanon, a U.N. tribunal to investigate and prosecute suspects in the 2005 assassination of Lebanese Prime Minister Rafik Hariri, opened in the former headquarters of the Netherlands General Intelligence Agency in Leidschendam, a town within the greater area of The Hague.
 
@@ -153,7 +151,7 @@ The Hague is twinned with Palembang, Indonesia; Juigalpa, Nicaragua; Nazareth, I
 
 Economy
 
-RandstadRail_Den_Haag_netkous.jpg, with the modern tram viaduct called the __ ("Fishnet stocking")]] The Hague has a service-oriented economy. Professional life in the city is dominated by the large number of civil servants and diplomats working in the city; , 26% of the jobs in The Hague are those offered by the Dutch government or the international institutions. Large employers in this sector include the ministries of Defence, Justice, Housing, Spatial Planning and the Environment, Foreign Affairs, the Interior and Transport, Public Works and Water Management.
+, with the modern tram viaduct called the __ ("Fishnet stocking")]] The Hague has a service-oriented economy. Professional life in the city is dominated by the large number of civil servants and diplomats working in the city; , 26% of the jobs in The Hague are those offered by the Dutch government or the international institutions. Large employers in this sector include the ministries of Defence, Justice, Housing, Spatial Planning and the Environment, Foreign Affairs, the Interior and Transport, Public Works and Water Management.
 
 Several large international businesses have their headquarters in The Hague, including Royal Dutch Shell, the world's fifth largest company in terms of revenue.[32] Other significant companies headquartered in The Hague include Aegon, APM Terminals, Damco, NIBC Bank, Chicago Bridge & Iron Company and PostNL. The city is also host to the regional headquarters of Siemens, T-Mobile, AT&T, Huawei, Kuwait Petroleum Corporation, Saudi Aramco and Total S.A.. There has never been any large-scale industrial activity in The Hague, with the possible exception of the fishing activities of the harbour in Scheveningen. Many of the city's logistical and minor-industrial services are located in the Binckhorst in the Laak district, which contains many sizeable warehouses.
 
@@ -162,7 +160,7 @@ Tourism is an important sector in The Hague. The city is the Dutch second bigges
 
 Culture
 
-2009-04-23_Den_Haag_Binnenhof.JPG inside the Binnenhof, the political centre of the Netherlands]] Plein_1813.JPG Noordeinde_Palace.jpg]] Den_Haag,_Grote_Kerk_foto2_2010-03-07_15.31.JPG]]
+inside the Binnenhof, the political centre of the Netherlands]] ]] ]]
 
 The Hague originated around the 13th-century Binnenhof, and this is still considered the cultural centre of the city. Night life centres around the three main squares in the city centre. The _Plein_ (literally "Square") is taken by several large sidewalk cafés where often politicians may be spotted. The _Grote Markt_ (literally "Great Market") is completely strewn with chairs and tables, summer or winter. The Buitenhof (literally "Outer Court", located just outside the Binnenhof) contains a six screen Pathé cinema and a handful of bars and restaurants in the immediate vicinity. Adjacent to the Buitenhof is De Passage, the country's first covered shopping mall. Dating from the late 19th century, it contains many expensive and speciality shops. One of the country's largest music venues, Paard van Troje, can be found in the centre of The Hague. Another popular music venue in The Hague is Muziekcafé de Paap.
 
@@ -212,7 +210,7 @@ Notable people
 
 Transport
 
-Lijn2_Citadis4036_25042012.jpg, April 2012]]
+, April 2012]]
 
 Air
 
@@ -220,7 +218,7 @@ The Hague shares an airport with Rotterdam. It can be reached from Central Stati
 
 Rail
 
-Den_Haag_Centraal.jpg There are two main railway stations in The Hague: Hollands Spoor (HS) and Centraal Station (CS), only away from each other. Because these two stations were built and exploited by two different railway companies in the 19th century, east-west lines terminate at Centraal Station, whereas north-south lines run through Hollands Spoor. Centraal Station does, however, now offer good connections with the rest of the country, with direct services to most major cities, for instance Amsterdam, Rotterdam and Utrecht.
+There are two main railway stations in The Hague: Hollands Spoor (HS) and Centraal Station (CS), only away from each other. Because these two stations were built and exploited by two different railway companies in the 19th century, east-west lines terminate at Centraal Station, whereas north-south lines run through Hollands Spoor. Centraal Station does, however, now offer good connections with the rest of the country, with direct services to most major cities, for instance Amsterdam, Rotterdam and Utrecht.
 
 Other destinations include Leiden, Haarlem, Zwolle, Groningen, Leeuwarden, Amersfoort, Enschede, Breda, Tilburg and Eindhoven. There is an international service to Antwerp and Brussels.
 

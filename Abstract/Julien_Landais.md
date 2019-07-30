@@ -1,1 +1,0 @@
-PIERRE-ALEXANDRE THOMAS JULIEN LANDAIS (born August 6, 1981) is a film director, actor, producer[1] and model, best known for _The Aspern Papers_, his feature film adaptation of Henry James' novel starring Jonathan Rhys-Meyers,[2] Vanessa Redgrave [3] and Joely Richardson.[4]

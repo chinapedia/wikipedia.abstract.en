@@ -1,1 +1,0 @@
-Placide_Nicod.jpg PLACIDE NICOD (29 January 1876, in Bottens – 1 August 1953, in Évian-les-Bains) was a Swiss orthopedic surgeon. He was considered to be the top French-speaking Swiss orthopedist of his time.[1]

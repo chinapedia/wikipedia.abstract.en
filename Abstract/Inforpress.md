@@ -1,1 +1,0 @@
-INFORPRESS - CAPEVERDEAN NEWS AGENCY (Portuguese: Inforpress - Agência Cabo-verdiana de Notícias) is the official news agency of Cape Verde. It is headquartered in the capital city of Praia. Its current head is Jacqueline Elisa Barreto de Carvalho which she became on October 2017.[1]

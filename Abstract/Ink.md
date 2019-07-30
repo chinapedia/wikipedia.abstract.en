@@ -1,1 +1,0 @@
-Füller-tinte_hg.jpg]] קלף,_נוצה_ודיו.jpg INK is a liquid or paste that contains pigments or dyes and is used to color a surface to produce an image, text, or design. Ink is used for drawing or writing with a pen, brush, or quill. Thicker inks, in paste form, are used extensively in letterpress and lithographic printing.

@@ -1,1 +1,0 @@
-The Zahur Ahmed Chowdhury Stadium, abbreviately known as the ZAC Stadium is located in Chittagong, is a sports ground in Bangladesh that has hosted international cricket matches along with provincial games.[1] The venue is the home of both the men's and women's national teams and domestically Chittagong Vikings. It has a capacity of 22,000 spectators for international matches.[2]

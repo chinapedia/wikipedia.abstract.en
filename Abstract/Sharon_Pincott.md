@@ -1,1 +1,0 @@
-SHARON PINCOTT is an Australian author and specialist in the field of African elephant behavior. She has studied the social structure and population dynamics of a single clan of wild elephants extensively and is an advocate for ending ivory trade and promoting conservation.

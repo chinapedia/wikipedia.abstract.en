@@ -1,1 +1,0 @@
-THOMAS CHARLES WILLIS PULLINGER CBE OBE OBK JP (1867 – July 1945) was an English automobile engineer. He began his career working with bicycles before the first cars were built. After working for Sunbeam and Humber, he helped expand the Scottish works of Arrol-Johnston, where he developed structured apprenticeship programmes and an engineering college for women.

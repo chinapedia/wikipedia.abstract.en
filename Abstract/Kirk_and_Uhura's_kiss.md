@@ -1,1 +1,0 @@
-Plato's_Stepchildren_kiss.jpg In the "Plato's Stepchildren" episode of _Star Trek: The Original Series_, first broadcast November 22, 1968, Uhura and Captain Kirk kiss. The episode is popularly cited as the first example of a scripted interracial kiss on United States television,[1][2][3] although other previous instances have since come to light.

@@ -1,1 +1,0 @@
-The LEFERRIERE HOUSE is a historic house at 171-173 Intervale Avenue in Burlington, Vermont. Built about 1888 as worker housing in the city's Old North End, it is architecturally a distinctive vernacular interpretation of Queen Anne architecture. It was listed on the National Register of Historic Places in 2008 as the LEFARRIERE HOUSE.[1]

@@ -1,1 +1,0 @@
-MALIBU MOON (Foaled February 23, 1997) is a Thoroughbred stallion bred in Kentucky.[1] Retired young to stud following a racing injury as a two-year-old, Malibu Moon has since sired multiple grade I stakes winners, two Eclipse Award winners, and is the sire of Orb, winner of the 2013 Kentucky Derby.

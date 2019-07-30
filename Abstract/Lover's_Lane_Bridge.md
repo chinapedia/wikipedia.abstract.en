@@ -1,1 +1,0 @@
-The LOVER'S LANE BRIDGE is a historic bridge spanning the Dog River in Berlin, Vermont. Built in 1915, it is a rare early 20th-century example of a Warren pony truss bridge. It was listed on the National Register of Historic Places in 2006 as BRIDGE NO. 27.[1]

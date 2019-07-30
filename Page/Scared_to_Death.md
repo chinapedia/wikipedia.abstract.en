@@ -3,7 +3,7 @@ _SCARED TO DEATH_ is a 1947 thriller Gothic film directed by Christy Cabanne and
 
 Plot
 
-Béla_Lugosi-Angelo_Rossitto_in_Scared_to_Death.jpg and Rossitto]] The film opens with the disclosure by morgue examiners that a beautiful woman has literally died of fright. The plot reveals how she reached the fatal stage of terror.
+and Rossitto]] The film opens with the disclosure by morgue examiners that a beautiful woman has literally died of fright. The plot reveals how she reached the fatal stage of terror.
 
 The woman is married to the son of a doctor, the proprietor of a private sanatorium, where she is under unwilling treatment. Both the son and the doctor indicate they want the marriage dissolved. Arriving at the scene is a mysterious personage (Bela Lugosi) identified as the doctor's cousin who had been a stage magician in Europe. He is accompanied by a threatening dwarf (Angelo Rossitto).
 

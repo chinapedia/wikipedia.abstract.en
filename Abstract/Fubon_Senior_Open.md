@@ -1,1 +1,0 @@
-The FUBON SENIOR OPEN was a men's golf tournament on the European Senior Tour. The tournament was held from 2011 to 2013 at Miramar Golf Country Club, north-west of New Taipei City, Taiwan. The event was co-sanctioned with the Senior PGA of Taiwan. In 2013 the prize fund was $450,000.

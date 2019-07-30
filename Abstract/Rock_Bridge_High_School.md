@@ -1,1 +1,0 @@
-ROCK BRIDGE HIGH SCHOOL is a public high school located in southern Columbia, Missouri. The school serves grades 9 through 12 and is one of four High Schools in Columbia Public Schools. It is located next to the Columbia Career Center. The mascot is the Bruin Bear.

@@ -1,1 +1,0 @@
-The ECONOMY OF THE SOCIALIST REPUBLIC OF ROMANIA was centrally planned similar to the one of the Soviet Union. Most of the means of production (including all large and medium enterprises) were owned by the state, which established production plans as part of the Five-Year Plans.

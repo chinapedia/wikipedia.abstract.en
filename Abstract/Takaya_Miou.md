@@ -1,1 +1,0 @@
-Image_from_Ribs_of_the_Sky;_Cooper's_Bad_Boys_by_Takaya_Miou.jpg

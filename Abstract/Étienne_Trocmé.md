@@ -1,1 +1,0 @@
-ÉTIENNE TROCMÉ (8 November 1924 – 12 August 2002) is a French historian of the birth of Christianity. A New Testament and Christianity of the 1st century scholar, Trocmé is the author of _Jésus de Nazareth_ (1972) and _Enfance du christianisme_ (1997).

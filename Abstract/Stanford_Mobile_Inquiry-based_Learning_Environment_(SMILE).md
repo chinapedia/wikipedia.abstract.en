@@ -1,1 +1,0 @@
-Students_using_SMILE_in_Ghana.jpg

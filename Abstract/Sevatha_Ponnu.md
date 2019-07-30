@@ -1,1 +1,0 @@
-_SEVATHA PONNU_ (English: Fair Girl) is a 1994 Tamil drama film, directed by A. Chandrakumar. The film features Saravanan and Ahana in the lead roles, with S. S. Chandran, Srividya, Vadivelu, Vasu Vikram, Venniradai Moorthy and Shanmugasundaram playing supporting roles. The film, produced by R. Dhanapalan, had musical score by Deva and was released on 16 June 1994.[1][2][3]

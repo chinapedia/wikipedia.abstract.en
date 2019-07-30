@@ -1,1 +1,0 @@
-_THE CLIMATE MONOLOGUES_ is an episodic one-woman play, created and performed by Sharon Abreu. Inspired by The Vagina Monologues, _The Climate Monologues_ consists of a series of monologues and original songs from the point of view of people affected by and working to prevent climate change.

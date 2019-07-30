@@ -1,1 +1,0 @@
-The MEXICAN TETRA or BLIND CAVE FISH (_Astyanax mexicanus_) is a freshwater fish of the family Characidae of the order Characiformes.[1][2] The type species of its genus, it is native to the Nearctic ecozone, originating in the lower Rio Grande and the Neueces and Pecos Rivers in Texas, as well as the central and eastern parts of Mexico.[3]

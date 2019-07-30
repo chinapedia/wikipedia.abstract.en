@@ -1,1 +1,0 @@
-Rozcestník_Sedlo_pod_Dvoračkami,_modrá_a_zelená.jpg

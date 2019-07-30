@@ -1,1 +1,0 @@
-THE THANKS-GIVING FOUNDATION is a non-profit organization based in Dallas, Texas. It was founded in 1964 and is the chief operator of Thanks-Giving Square, providing resources so that citizens from diverse backgrounds can use thanksgiving and gratitude as ways to heal divisions and enhance mutual understanding.

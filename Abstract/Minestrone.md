@@ -1,1 +1,0 @@
-Minestrone_soup.jpg

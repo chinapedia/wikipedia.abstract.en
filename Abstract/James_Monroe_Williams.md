@@ -1,1 +1,0 @@
-JAMES MONROE WILLIAMS (September 12, 1833 – February 15, 1907) was an American lawyer, soldier, and merchant. He served both as a cavalry and as an infantry officer in the Union Army within the Trans-Mississippi Theater during the American Civil War, and was breveted a brigadier general near the end of the conflict.

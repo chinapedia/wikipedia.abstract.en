@@ -1,1 +1,0 @@
-SKIF PARAGLIDING is a Ukrainian aircraft manufacturer founded by Sergei Rozhko in 1993 and based in Feodosia. The company specializes in the design and manufacture of paragliders in the form of ready-to-fly aircraft and also runs a paragliding flight training school.[1]

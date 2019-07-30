@@ -1,1 +1,0 @@
-WŁOCŁAWEK RAILWAY STATION is a railway station serving the town of Włocławek, in the Kuyavian-Pomeranian Voivodeship, Poland. The station is located on the Kutno–Piła railway. The train services are operated by PKP and Przewozy Regionalne.

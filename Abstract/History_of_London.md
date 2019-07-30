@@ -1,1 +1,0 @@
-The history of London, the capital city of England and the United Kingdom, extends over 2000 years. In that time, it has become one of the world's most significant financial and cultural capital cities. It has withstood plague, devastating fire, civil war, aerial bombardment, terrorist attacks, and riots.

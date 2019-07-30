@@ -1,1 +1,0 @@
-JEAN-MARIE ALÉOKOL MABIEMÉ is a Cameroonian political figure and disability sports administrator. He served as the Secretary of State to the Minister of Defense, and was appointed as a Cameroonian senator.

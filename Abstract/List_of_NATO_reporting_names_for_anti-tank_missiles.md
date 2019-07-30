@@ -1,1 +1,0 @@
-NATO reporting name for AT series anti-tank guided missiles, with Soviet designations:

@@ -1,1 +1,0 @@
-JØRGEN GULDBORG-RASMUSSEN served as the President of the Fællesrådet for Danmarks Drengespejdere Danish Scout Council, as well as a member of the National Board of the Danish Scout and Guide Association.[1]

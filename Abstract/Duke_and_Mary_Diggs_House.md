@@ -1,1 +1,0 @@
-DUKE AND MARY DIGGS HOUSE is a historic home located at Boonville, Cooper County, Missouri. It was built about 1869, and is a one-story, central hall plan, vernacular brick dwelling. It rests on rough cut stone foundation laid in regular courses and has a gable roof.[1]

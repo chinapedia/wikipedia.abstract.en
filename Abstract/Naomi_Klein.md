@@ -1,1 +1,0 @@
-NAOMI KLEIN (born May 8, 1970) is a Canadian author, social activist, and filmmaker known for her political analyses and criticism of corporate globalization and of capitalism.[1] On a three-year appointment from September 2018, she is the Gloria Steinem Chair in Media, Culture, and Feminist Studies at Rutgers University.[2][3]

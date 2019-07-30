@@ -1,1 +1,0 @@
-The 1957 MIAMI REDSKINS FOOTBALL TEAM was an American football team that represented Miami University in the Mid-American Conference (MAC) during the 1957 college football season. In its second season under head coach John Pont, Miami compiled a 6–3 record (5–0 against MAC opponents), won the MAC championship, and outscored all opponents by a combined total of 163 to 137.[1]

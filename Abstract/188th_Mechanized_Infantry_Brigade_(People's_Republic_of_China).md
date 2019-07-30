@@ -1,1 +1,0 @@
-The 188TH DIVISION () was created in January 1949 under _the Regulation of the Redesignations of All Organizations and Units of the Army_, issued by Central Military Commission on November 1, 1948,[1] basing on the 8th Brigade, 3rd Column of the Jinchaji Military Region. Its history can be traced to the Hebei Guerrilla Army, formed in December 1937.

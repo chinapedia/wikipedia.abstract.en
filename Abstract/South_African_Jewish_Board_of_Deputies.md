@@ -1,1 +1,0 @@
-The SOUTH AFRICAN JEWISH BOARD OF DEPUTIES is an organisation formed in 1912 from the merger of the Board for the Transvaal and the Board for the Cape.[1] It serves as the central representative institution of most of the country's Hebrew congregations, Jewish societies, and institutions.[2]

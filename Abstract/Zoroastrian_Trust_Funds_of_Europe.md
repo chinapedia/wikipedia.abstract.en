@@ -1,1 +1,0 @@
-THE ZOROASTRIAN TRUST FUNDS OF EUROPE (ZTFE) is a religious, cultural and social organisation for Zoroastrians residing in Europe, namely the United Kingdom. It was founded on 31 October 1861[1] by Muncherjee Hormusji Cama and Dadabhai Naoroji.[2]

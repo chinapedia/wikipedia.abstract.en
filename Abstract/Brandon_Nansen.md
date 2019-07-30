@@ -1,1 +1,0 @@
-BRANDON NANSEN (born 3 November 1993) is a New Zealand rugby union player who currently plays as a lock or loose forward for the Dragons in Newport, Wales. Previously Nansen represented North Harbour in New Zealand's provincial rugby tournament and the Blues in Super Rugby. He plays internationally for the Samoa national rugby union team.

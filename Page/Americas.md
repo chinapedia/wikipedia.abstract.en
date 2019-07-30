@@ -1,4 +1,4 @@
-N&SAmerica-pol.jpg political map of the Americas in Lambert azimuthal equal-area projection]]
+political map of the Americas in Lambert azimuthal equal-area projection]]
 
 The AMERICAS (also collectively called AMERICA; , , Spanish and Portuguese: _América_) comprise the totality of the continents of North and South America.[1][2][3] Together, they make up most of the land in Earth's western hemisphere and comprise the New World.
 
@@ -17,7 +17,7 @@ The Americas are home to over a billion inhabitants, two-thirds of which reside 
 
 Etymology and naming
 
-Amerigo_Vespucci_(with_turban).jpg.[7]]]
+.[7]]]
 
 The name America was first recorded in 1507. Christie's auction house says a two-dimensional globe created by Martin Waldseemüller was the earliest recorded use of the term.[8] The name was also used (together with the related term _Amerigen_) in the _Cosmographiae Introductio_, apparently written by Matthias Ringmann, in reference to South America.[9] It was applied to both North and South America by Gerardus Mercator in 1538. America derives from _Americus_, the Latin version of Italian explorer Amerigo Vespucci's first name. The feminine form _America_ accorded with the feminine names of Asia, Africa, and Europa.[10]
 
@@ -32,15 +32,15 @@ History
 
 Settlement
 
-Spreading_homo_sapiens_la.svg based on the Out of Africa theory.[23]]] The first inhabitants migrated into the Americas from Asia. Habitation sites are known in Alaska and the Yukon from at least 20,000 years ago, with suggested ages of up to 40,000 years.[24][25][26] Beyond that, the specifics of the Paleo-Indian migration to and throughout the Americas, including the dates and routes traveled, are subject to ongoing research and discussion.[27] Widespread habitation of the Americas occurred during the late glacial maximum, from 16,000 to 13,000 years ago.[28][29]
+based on the Out of Africa theory.[23]]] The first inhabitants migrated into the Americas from Asia. Habitation sites are known in Alaska and the Yukon from at least 20,000 years ago, with suggested ages of up to 40,000 years.[24][25][26] Beyond that, the specifics of the Paleo-Indian migration to and throughout the Americas, including the dates and routes traveled, are subject to ongoing research and discussion.[27] Widespread habitation of the Americas occurred during the late glacial maximum, from 16,000 to 13,000 years ago.[28][29]
 
-Palazzo_Ferreria_statue_4_America.jpeg, in Valletta, Malta]] The traditional theory has been that these early migrants moved into the Beringia land bridge between eastern Siberia and present-day Alaska around 40,000–17,000 years ago,[30] when sea levels were significantly lowered during the Quaternary glaciation.[31][32] These people are believed to have followed herds of now-extinct pleistocene megafauna along _ice-free corridors_ that stretched between the Laurentide and Cordilleran ice sheets.[33] Another route proposed is that, either on foot or using primitive boats, they migrated down the Pacific coast to South America.[34] Evidence of the latter would since have been covered by a sea level rise of hundreds of meters following the last ice age.[35] Both routes may have been taken, although the genetic evidences suggests a single founding population.[36] The micro-satellite diversity and distributions specific to South American Indigenous people indicates that certain populations have been isolated since the initial colonization of the region.[37]
+, in Valletta, Malta]] The traditional theory has been that these early migrants moved into the Beringia land bridge between eastern Siberia and present-day Alaska around 40,000–17,000 years ago,[30] when sea levels were significantly lowered during the Quaternary glaciation.[31][32] These people are believed to have followed herds of now-extinct pleistocene megafauna along _ice-free corridors_ that stretched between the Laurentide and Cordilleran ice sheets.[33] Another route proposed is that, either on foot or using primitive boats, they migrated down the Pacific coast to South America.[34] Evidence of the latter would since have been covered by a sea level rise of hundreds of meters following the last ice age.[35] Both routes may have been taken, although the genetic evidences suggests a single founding population.[36] The micro-satellite diversity and distributions specific to South American Indigenous people indicates that certain populations have been isolated since the initial colonization of the region.[37]
 
 A second migration occurred after the initial peopling of the Americas;[38] Na Dene speakers found predominantly in North American groups at varying genetic rates with the highest frequency found among the Athabaskans at 42% derive from this second wave.[39] Linguists and biologists have reached a similar conclusion based on analysis of Amerindian language groups and ABO blood group system distributions.[40][41][42][43] Then the people of the Arctic small tool tradition a broad cultural entity that developed along the Alaska Peninsula, around Bristol Bay, and on the eastern shores of the Bering Strait around 2,500 BCE (4,500 years ago) moved into North America.[44] The Arctic small tool tradition, a Paleo-Eskimo culture branched off into two cultural variants, including the Pre-Dorset, and the Independence traditions of Greenland.[45] The descendants of the Pre-Dorset cultural group, the Dorset culture was displaced by the final migrants from the Bering sea coast line the ancestors of modern Inuit, the Thule people by 1000 Common Era (CE).[46] Around the same time as the Inuit migrated into Greenland, Viking settlers began arriving in Greenland in 982 and Vinland shortly thereafter, establishing a settlement at L'Anse aux Meadows, near the northernmost tip of Newfoundland.[47] The Viking settlers quickly abandoned Vinland, and disappeared from Greenland by 1500.[48]
 
 Pre-Columbian era
 
-Parkin_Mounds_Aerial_HRoe_2016.jpg, a Mississippian site in Arkansas, circa 1539]]
+, a Mississippian site in Arkansas, circa 1539]]
 
 The pre-Columbian era incorporates all period subdivisions in the history and prehistory of the Americas before the appearance of significant European influences on the American continents, spanning the time of the original settlement in the Upper Paleolithic to European colonization during the Early Modern period. The term _Pre-Columbian_ is used especially often in the context of the great indigenous civilizations of the Americas, such as those of Mesoamerica (the Olmec, the Toltec, the Teotihuacano, the Zapotec, the Mixtec, the Aztec, and the Maya) and the Andes (Inca, Moche, Muisca, Cañaris).
 
@@ -48,11 +48,11 @@ Many pre-Columbian civilizations established characteristics and hallmarks which
 
 European colonization
 
-Landing_of_Columbus_(2).jpg leads expedition to the New World, 1492.]]
+leads expedition to the New World, 1492.]]
 
 Although there had been previous trans-oceanic contact, large-scale European colonization of the Americas began with the first voyage of Christopher Columbus in 1492. The first Spanish settlement in the Americas was La Isabela in northern Hispaniola. This town was abandoned shortly after in favor of Santo Domingo de Guzmán, founded in 1496, the oldest American city of European foundation. This was the base from which the Spanish monarchy administered its new colonies and their expansion. Santo Domingo was subject to frequent raids by English and French pirates. On the continent, Panama City on the Pacific coast of Central America, founded on August 15, 1519, played an important role, being the base for the Spanish conquest of South America. The spread of new diseases brought by Europeans and Africans killed many of the inhabitants of North America and South America,[50][51] with a general population crash of Native Americans occurring in the mid-16th century, often well ahead of European contact.[52] European immigrants were often part of state-sponsored attempts to found colonies in the Americas. Migration continued as people moved to the Americas fleeing religious persecution or seeking economic opportunities. Millions of individuals were forcibly transported to the Americas as slaves, prisoners or indentured servants.
 
-Americas_independence_map.PNG or parts of countries with a capital outside the Americas.]]
+or parts of countries with a capital outside the Americas.]]
 
 Decolonization of the Americas began with the American Revolution and the Haitian Revolution in the late 1700s. This was followed by numerous Latin American wars of independence in the early 1800s. Between 1811 and 1825, Paraguay, Argentina, Chile, Gran Colombia, the United Provinces of Central America, Mexico, Brazil, Peru, and Bolivia gained independence from Spain and Portugal in armed revolutions. After the Dominican Republic won independence from Haiti, it was re-annexed by Spain in 1861, but reclaimed its independence in 1865 at the conclusion of the Dominican Restoration War. The last violent episode of decolonization was the Cuban War of Independence which became the Spanish–American War, which resulted in the independence of Cuba in 1898, and the transfer of sovereignty over Puerto Rico from Spain to the United States.
 
@@ -62,8 +62,6 @@ The remaining European colonies in the Caribbean began to achieve peaceful indep
 
 
 Geography
-
-Earth-DSCOVR-20150706-IFV.jpg
 
 Extent
 
@@ -77,7 +75,7 @@ South America broke off from the west of the supercontinent Gondwana around 135�
 
 Topography
 
-Aconcagua_13.JPG, in Argentina, is the highest peak in the Americas]]
+, in Argentina, is the highest peak in the Americas]]
 
 The geography of the western Americas is dominated by the American cordillera, with the Andes running along the west coast of South America[60] and the Rocky Mountains and other North American Cordillera ranges running along the western side of North America.[61] The Appalachian Mountains run along the east coast of North America from Alabama to Newfoundland.[62] North of the Appalachians, the Arctic Cordillera runs along the eastern coast of Canada.[63]
 
@@ -360,8 +358,6 @@ Other faiths include Buddhism; Hinduism; Sikhism; Bahá'í Faith; a wide variety
 : RELIGIOUS DEMOGRAPHICS ACCORDING TO 2010 CENSUSES/ESTIMATES IN EACH COUNTRY
 
 Languages
-
-Languages_of_the_American_Continent.png
 
 Various languages are spoken in the Americas. Some are of European origin, others are spoken by indigenous peoples or are the mixture of various languages like the different creoles.[155]
 

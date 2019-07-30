@@ -31,8 +31,6 @@ Hydrogen bonding patterns in secondary structures may be significantly distorted
 
 DSSP classification
 
-SegmentLengths.dist.png
-
 The Dictionary of Protein Secondary Structure, in short DSSP, is commonly used to describe the protein secondary structure with single letter codes. The secondary structure is assigned based on hydrogen bonding patterns as those initially proposed by Pauling et al. in 1951 (before any protein structure had ever been experimentally determined). There are eight types of secondary structure that DSSP defines:
 
 -   G = 3-turn helix (3₁₀ helix). Min length 3 residues.

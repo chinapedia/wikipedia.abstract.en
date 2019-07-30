@@ -1,1 +1,0 @@
-The CHRISTIAN COUNTERCULT MOVEMENT or the CHRISTIAN ANTI-CULT MOVEMENT is a social movement among certain Protestant evangelical and fundamentalist[1] and other Christian ministries ("discernment ministries"[2]) and individual activists who oppose religious sects which they consider "cults".[3]

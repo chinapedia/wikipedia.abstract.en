@@ -1,1 +1,0 @@
-1968 COPPA DELLE ALPI shows the results of the 1968 tournament that was held mainly in Switzerland in the preseason 1968/69. The Coppa delle Alpi (translated as _Cup of the Alps_) was a football tournament, jointly organized by the Italian national league and the Swiss League as a pre-season event.

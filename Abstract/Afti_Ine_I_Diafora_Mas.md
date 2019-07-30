@@ -1,1 +1,0 @@
-_AFTI INE I DIAFORA MAS_ (Greek: _Αυτή είναι η διαφορά μας_, English: _This is our difference_) is the eleventh studio album by Greek singer Despina Vandi. The album released under the label Heaven Music on October 6, 2016.

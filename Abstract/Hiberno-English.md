@@ -1,1 +1,0 @@
-HIBERNO-ENGLISH (from Latin _Hibernia_: "Ireland") or IRISH ENGLISH[1] is the set of English dialects natively written and spoken within the island of Ireland (including both the Republic of Ireland and Northern Ireland).[2]

@@ -1,1 +1,0 @@
-_SURYODAYAM_ (English : Sunrise) is a 1999 Tamil action film directed by L. V. Aadhavan. The film features Vijayashanti and Rahman in the lead roles, with Vijayakumar, Anusha, Nizhalgal Ravi, Viswajith, Hariraj, Charle and Kumaresan playing supporting roles. The film, produced by Kiran JhunJhunwala, had musical score by Gnani and was released on 7 October 1999.[1][2][3][4]

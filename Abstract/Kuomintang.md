@@ -1,1 +1,0 @@
-The KUOMINTANG OF CHINA[1][2] (,[3] KMT), also spelled as GUOMINDANG and often alternatively translated as the NATIONALIST PARTY OF CHINA (NPC) or the CHINESE NATIONALIST PARTY (CNP),[4] is a major political party in the Republic of China based in Taipei that was founded in 1911. The KMT is currently an opposition political party in the Legislative Yuan.

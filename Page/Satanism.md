@@ -1,4 +1,4 @@
-Pentagram4.svg circumscribed by a circle (a pentacle) is often used to represent Satanism]] SATANISM is a group of ideological and philosophical beliefs based on Satan. Contemporary religious practice of Satanism began with the founding of the Church of Satan in 1966, although a few historical precedents exist. Prior to the public practice, Satanism existed primarily as an accusation by various Christian groups toward perceived ideological opponents, rather than a self-identity. Satanism, and the concept of Satan, has also been used by artists and entertainers for symbolic expression.
+circumscribed by a circle (a pentacle) is often used to represent Satanism]] SATANISM is a group of ideological and philosophical beliefs based on Satan. Contemporary religious practice of Satanism began with the founding of the Church of Satan in 1966, although a few historical precedents exist. Prior to the public practice, Satanism existed primarily as an accusation by various Christian groups toward perceived ideological opponents, rather than a self-identity. Satanism, and the concept of Satan, has also been used by artists and entertainers for symbolic expression.
 
 Accusations that various groups have been practicing Satanism have been made throughout much of Christian history. During the Middle Ages, the Inquisition attached to the Roman Catholic Church alleged that various heretical Christian sects and groups, such as the Knights Templar and the Cathars, performed secret Satanic rituals. In the subsequent Early Modern period, belief in a widespread Satanic conspiracy of witches resulted in mass trials of alleged witches across Europe and the North American colonies. Accusations that Satanic conspiracies were active, and behind events such as Protestantism (and conversely, the Protestant claim that the Pope was the Antichrist) and the French Revolution continued to be made in Christendom during the eighteenth to the twentieth century. The idea of a vast Satanic conspiracy reached new heights with the influential Taxil hoax of France in the 1890s, which claimed that Freemasonry worshiped Satan, Lucifer, and Baphomet in their rituals. In the 1980s and 1990s, the Satanic ritual abuse hysteria spread through the United States and United Kingdom, amid fears that groups of Satanists were regularly sexually abusing and murdering children in their rites. In most of these cases, there is no corroborating evidence that any of those accused of Satanism were actually practitioners of a Satanic religion or guilty of the allegations leveled at them.
 
@@ -9,7 +9,7 @@ Contemporary religious Satanism is predominantly an American phenomenon, the ide
 
 Definition
 
-Michael_Pacher_004.jpg and the Devil'', by Michael Pacher.]]
+and the Devil'', by Michael Pacher.]]
 
 In their study of Satanism, the religious studies scholars Asbjørn Dyrendal, James R. Lewis, and Jesper Aa. Petersen stated that the term _Satanism_ "has a history of being a designation made by people against those whom they dislike; it is a term used for 'othering'". The concept of Satanism is an invention of Christianity, for it relies upon the figure of Satan, a character deriving from Christian mythology.
 
@@ -30,7 +30,7 @@ Another contributing factor to the idea of Satanism is the concept that there is
 
 Medieval and Early Modern Christendom
 
-Praetorius_Blocksberg.jpg _Blocksbergs Verrichtung_ (1668) showing many traditional features of the medieval Witches' Sabbath]]
+_Blocksbergs Verrichtung_ (1668) showing many traditional features of the medieval Witches' Sabbath]]
 
 As Christianity expanded throughout the Middle East, North Africa, and Europe, it came into contact with a variety of other religions, which it regarded as "pagan". Christian theologians claimed that the gods and goddesses venerated by these "pagans" were not genuine divinities, but were actually demons. However, they did not believe that "pagans" were deliberately devil-worshippers, instead claiming that they were simply misguided. In Christian iconography, the Devil and demons were given the physical traits of figures from Classical mythology such as the god Pan, fauns, and satyrs.
 
@@ -38,7 +38,7 @@ Those Christian groups regarded as heretics by the Roman Catholic Church were tr
 
 Within Christian thought, the idea developed that certain individuals could make a pact with Satan. This may have emerged after observing that pacts with gods and goddesses played a role in various pre-Christian belief systems, or that such pacts were also made as part of the Christian cult of saints. Another possibility is that it derives from a misunderstanding of Augustine of Hippo's condemnation of augury in his _On the Christian Doctrine_, written in the late fourth century. Here, he stated that people who consulted augurs were entering "_quasi pacts_" (covenants) with demons. The idea of the diabolical pact made with demons was popularised across Europe in the story of Faust, likely based in part on the real life Johann Georg Faust.
 
-CompendiumMaleficarumEngraving15.jpg's _Compendium Maleficarum_ (1608).]]
+'s _Compendium Maleficarum_ (1608).]]
 
 As the late medieval gave way to the early modern period, European Christendom experienced a schism between the established Roman Catholic Church and the breakaway Protestant movement. In the ensuing Reformation and Counter-Reformation, both Catholics and Protestants accused each other of deliberately being in league with Satan. It was in this context that the terms "Satanist" and "Satanism" emerged.
 
@@ -50,7 +50,7 @@ In seventeenth-century Sweden, a number of highway robbers and other outlaws liv
 
 During the eighteenth century, gentleman's social clubs became increasingly prominent in Britain and Ireland, among the most secretive of which were the Hellfire Clubs, which were first reported in the 1720s. The most famous of these groups was the Order of the Knights of Saints Francis, which was founded circa 1750 by the aristocrat Sir Francis Dashwood and which assembled first at his estate at West Wycombe and later in Medmenham Abbey. A number of contemporary press sources portrayed these as gatherings of atheist rakes where Christianity was mocked and toasts were made to the Devil. Beyond these sensationalist accounts, which may not be accurate portrayals of actual events, little is known about the activities of the Hellfire Clubs. Introvigne suggested that they may have engaged in a form of "playful Satanism" in which Satan was invoked "to show a daring contempt for conventional morality" by individuals who neither believed in his literal existence nor wanted to pay homage to him.
 
-SamaelLilithGoatPentagram.png, and is commonly referred to as the Sabbatic Goat.]]
+, and is commonly referred to as the Sabbatic Goat.]]
 
 The French Revolution of 1789 dealt a blow to the hegemony of the Roman Catholic Church in parts of Europe, and soon a number of Catholic authors began making claims that it had been masterminded by a conspiratorial group of Satanists. Among the first to do so was French Catholic priest Jean-Baptiste Fiard, who publicly claimed that a wide range of individuals, from the Jacobins to tarot card readers, were part of a Satanic conspiracy. Fiard's ideas were furthered by Alexis-Vincent-Charles Berbiguier, who devoted a lengthy book to this conspiracy theory; he claimed that Satanists had supernatural powers allowing them to curse people and to shapeshift into both cats and fleas. Although most of his contemporaries regarded Berbiguier as mad, his ideas gained credence among many occultists, including Stanislas de Guaita, a Cabalist who used them for the basis of his book, _The Temple of Satan_.
 
@@ -73,7 +73,7 @@ Artistic Satanism
 
 Literary Satanism
 
-GustaveDoreParadiseLostSatanProfile.jpg'', as illustrated by Gustave Doré]]
+'', as illustrated by Gustave Doré]]
 
 From the late seventeenth through to the nineteenth century, the character of Satan was increasingly rendered unimportant in Western philosophy and ignored in Christian theology, while in folklore he came to be seen as a foolish rather than a menacing figure. The development of new values in the Age of Enlightenment—in particular those of reason and individualism—contributed to a shift in how many Europeans viewed Satan. In this context, a number of individuals took Satan out of the traditional Christian narrative and reread and reinterpreted him in light of their own time and their own interests, in turn generating new and different portraits of Satan.
 
@@ -88,8 +88,6 @@ Radical left-wing political ideas had been spread by the American Revolution of 
 Metal and rock music
 
 During the 1960s and 1970s, several rock bands—namely the American Coven and the British Black Widow—employed the imagery of Satanism and witchcraft in their work. References to Satan also appeared in the work of those rock bands which were pioneering the heavy metal genre in Britain during the 1970s. Black Sabbath for instance made mention of Satan in their lyrics, although several of the band's members were practicing Christians and other lyrics affirmed the power of the Christian God over Satan. In the 1980s, greater use of Satanic imagery was made by heavy metal bands like Slayer, Kreator, Sodom, and Destruction. Bands active in the subgenre of death metal—among them Deicide, Morbid Angel, and Entombed—also adopted Satanic imagery, combining it with other morbid and dark imagery, such as that of zombies and serial killers.
-
-Tuska_20130628_-_King_Diamond_-_32.jpg
 
 Satanism would come to be more closely associated with the subgenre of black metal, in which it was foregrounded over the other themes that had been used in death metal. A number of black metal performers incorporated self-injury into their act, framing this as a manifestation of Satanic devotion. The first black metal band, Venom, proclaimed themselves to be Satanists, although this was more an act of provocation than an expression of genuine devotion to the Devil. Satanic themes were also used by the black metal bands Bathory and Hellhammer. However, the first black metal act to more seriously adopt Satanism was Mercyful Fate, whose vocalist, King Diamond, joined the Church of Satan. More often than not musicians associating themselves with black metal say they do not believe in legitimate Satanic ideology and often profess to being atheists, agnostics, or religious skeptics.[6]
 
@@ -106,7 +104,7 @@ Dyrendal, Lewis, and Petersen argued that the groups within the Satanic milieu c
 
 Forerunners and early forms
 
-Baphomet.png's Sabbatic Goat (known as The Goat of Mendes or Baphomet) has become one of the most common symbols of Satanism.]]
+'s Sabbatic Goat (known as The Goat of Mendes or Baphomet) has become one of the most common symbols of Satanism.]]
 
 The first person to promote a Satanic philosophy was the Pole Stanislaw Przybyszewski, who promoted a Social Darwinian ideology.
 
@@ -115,8 +113,6 @@ The use of the term "Lucifer" was also taken up by the French ceremonial magicia
 Levi was not the only occultist who wanted to use the term "Lucifer" without adopting the term "Satan" in a similar way. The early Theosophical Society held to the view that "Lucifer" was a force that aided humanity's awakening to its own spiritual nature. In keeping with this view, the Society began production of a journal titled _Lucifer_.
 
 "Satan" was also used within the esoteric system propounded by the Danish occultist Carl William Hansen, who used the pen name "Ben Kadosh". Hansen was involved in a variety of esoteric groups, including Martinism, Freemasonry, and the Ordo Templi Orientis, drawing on ideas from various groups to establish his own philosophy. In one pamphlet, he provided a "Luciferian" interpretation of Freemasonry. Kadosh's work left little influence outside of Denmark.
-
-Aleister_Crowley.jpg
 
 Both during his life and after it, the British occultist Aleister Crowley has been widely described as a Satanist, usually by detractors. Crowley stated he did not consider himself a Satanist, nor did he worship Satan, as he did not accept the Christian world view in which Satan was believed to exist. He nevertheless used imagery considered satanic, for instance by describing himself as "the Beast 666" and referring to the Whore of Babylon in his work, while in later life he sent "Antichristmas cards" to his friends. Dyrendel, Lewis, and Petersen noted that despite the fact that Crowley was not a Satanist, he "in many ways embodies the pre-Satanist esoteric discourse on Satan and Satanism through his lifestyle and his philosophy", with his "image and thought" becoming an "important influence" on the later development of religious Satanism.
 
@@ -132,7 +128,7 @@ Rationalistic Satanism
 
 LaVeyan Satanism and the Church of Satan
 
-Baphosimb.svg Anton LaVey, who has been referred to as "The Father of Satanism",[7] synthesized his religion through the establishment of the Church of Satan in 1966 and the publication of _The Satanic Bible_ in 1969. LaVey's teachings promoted "indulgence", "vital existence", "undefiled wisdom", "kindness to those who deserve it", "responsibility to the responsible" and an "eye for an eye" code of ethics, while shunning "abstinence" based on guilt, "spirituality", "unconditional love", "pacifism", "equality", "herd mentality" and "scapegoating". In LaVey's view, the Satanist is a carnal, physical and pragmatic being—and enjoyment of physical existence and an undiluted view of this-worldly truth are promoted as the core values of Satanism, propagating a naturalistic worldview that sees mankind as animals existing in an amoral universe.
+Anton LaVey, who has been referred to as "The Father of Satanism",[7] synthesized his religion through the establishment of the Church of Satan in 1966 and the publication of _The Satanic Bible_ in 1969. LaVey's teachings promoted "indulgence", "vital existence", "undefiled wisdom", "kindness to those who deserve it", "responsibility to the responsible" and an "eye for an eye" code of ethics, while shunning "abstinence" based on guilt, "spirituality", "unconditional love", "pacifism", "equality", "herd mentality" and "scapegoating". In LaVey's view, the Satanist is a carnal, physical and pragmatic being—and enjoyment of physical existence and an undiluted view of this-worldly truth are promoted as the core values of Satanism, propagating a naturalistic worldview that sees mankind as animals existing in an amoral universe.
 
 LaVey believed that the ideal Satanist should be individualistic and non-conformist, rejecting what he called the "colorless existence" that mainstream society sought to impose on those living within it. He praised the human ego for encouraging an individual's pride, self-respect, and self-realization and accordingly believed in satisfying the ego's desires. He expressed the view that self-indulgence was a desirable trait, and that hate and aggression were not wrong or undesirable emotions but that they were necessary and advantageous for survival. Accordingly, he praised the seven deadly sins as virtues which were beneficial for the individual. The anthropologist Jean La Fontaine highlighted an article that appeared in _The Black Flame_, in which one writer described "a true Satanic society" as one in which the population consists of "free-spirited, well-armed, fully-conscious, self-disciplined individuals, who will neither need nor tolerate any external entity 'protecting' them or telling them what they can and cannot do."
 
@@ -162,11 +158,9 @@ Theistic Satanism (also known as traditional Satanism, Spiritual Satanism or Dev
 
 Luciferianism
 
-Sigil_of_Lucifer.svg Luciferianism can be understood best as a belief system or intellectual creed that venerates the essential and inherent characteristics that are affixed and commonly given to Lucifer. Luciferianism is often identified as an auxiliary creed or movement of Satanism, due to the common identification of Lucifer with Satan. Some Luciferians accept this identification and/or consider Lucifer as the "light bearer" and illuminated aspect of Satan, giving them the name of Satanists and the right to bear the title. Others reject it, giving the argument that Lucifer is a more positive and easy-going ideal than Satan. They are inspired by the ancient myths of Egypt, Rome and Greece, Gnosticism and traditional Western occultism.
+Luciferianism can be understood best as a belief system or intellectual creed that venerates the essential and inherent characteristics that are affixed and commonly given to Lucifer. Luciferianism is often identified as an auxiliary creed or movement of Satanism, due to the common identification of Lucifer with Satan. Some Luciferians accept this identification and/or consider Lucifer as the "light bearer" and illuminated aspect of Satan, giving them the name of Satanists and the right to bear the title. Others reject it, giving the argument that Lucifer is a more positive and easy-going ideal than Satan. They are inspired by the ancient myths of Egypt, Rome and Greece, Gnosticism and traditional Western occultism.
 
 Order of Nine Angles
-
-Ona.svg
 
 According to the group's own claims, the Order of Nine Angles was established in Shropshire, Western England during the late 1960s, when a Grand Mistress united a number of ancient pagan groups active in the area. This account states that when the Order's Grand Mistress migrated to Australia, a man known as "Anton Long" took over as the new Grand Master. From 1976 onward he authored an array of texts for the tradition, codifying and extending its teachings, mythos, and structure. Various academics have argued that Long is the pseudonym of British neo-Nazi activist David Myatt, an allegation that Myatt has denied. The ONA arose to public attention in the early 1980s, spreading its message through magazine articles over the following two decades. In 2000, it established a presence on the internet, later adopting social media to promote its message.
 
@@ -183,8 +177,6 @@ The Temple presents the view that the name _Satan_ was originally a corruption o
 In 2005 Petersen noted that academic estimates for the Temple's membership varied from between 300 and 500, and Granholm suggested that in 2007 the Temple contained circa 200 members.
 
 Reactive Satanism
-
-Richard_Ramirez_1984_mug_shot.jpg
 
 Dyrendal, Lewis, and Petersen used the term "reactive Satanism" to describe one form of modern religious Satanism. They described this as an adolescent and anti-social means of rebelling in a Christian society, by which an individual transgresses cultural boundaries. They believed that there were two tendencies within reactive Satanism: one, "Satanic tourism", was characterised by the brief period of time in which an individual was involved, while the other, the "Satanic quest", was typified by a longer and deeper involvement.
 

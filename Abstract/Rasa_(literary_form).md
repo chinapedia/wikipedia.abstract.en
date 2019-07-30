@@ -1,1 +1,0 @@
-_RASA_ () or _RASO_ is a certain didactic literary form in Apabhramsa. It is a genre of poetry in Old Gujarati language popular during early period of Gujarati literature. Sometimes the term is used interchangeably with _Prabandha_ of medieval literature.

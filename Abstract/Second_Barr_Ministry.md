@@ -1,1 +1,0 @@
-The SECOND BARR MINISTRY is the thirteenth ministry of the Government of the Australian Capital Territory, and is led by Labor Chief Minister Andrew Barr and his deputy Yvette Berry. It was appointed on 31 October 2016.[1]

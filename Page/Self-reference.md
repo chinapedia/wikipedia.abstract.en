@@ -1,4 +1,4 @@
-ouroboros.png, a dragon that continually consumes itself, denotes self-reference.[1]]]
+, a dragon that continually consumes itself, denotes self-reference.[1]]]
 
 SELF-REFERENCE occurs in natural or formal languages when a sentence, idea or formula refers to itself. The reference may be expressed either directly—through some intermediate sentence or formula—or by means of some encoding. In philosophy, it also refers to the ability of a subject to speak of or refer to itself, that is, to have the kind of thought expressed by the first person nominative singular pronoun "I" in English.
 

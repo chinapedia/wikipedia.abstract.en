@@ -1,1 +1,0 @@
-Tour_de_France_1934.png The 1934 Tour de France was the 28th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris with a flat stage on 3 July, and Stage 13 occurred on 17 July with a flat stage from Marseille. The race finished in Paris on 29 July.

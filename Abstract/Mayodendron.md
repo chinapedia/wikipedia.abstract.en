@@ -1,1 +1,0 @@
-_MAYODENDRON_ is a monotypic genus in the flowering plant family Bignoniaceae. The single species it contains, _MAYODENDRON IGNEUM_, is native to southern China, India, Laos, Myanmar, and Vietnam.[1] It is sometimes included within _Radermachera_.[2]

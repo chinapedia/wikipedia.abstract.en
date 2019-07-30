@@ -1,1 +1,0 @@
-IMANI PERRY (born September 5, 1972, in Birmingham, Alabama, United States) is an American interdisciplinary scholar of race, law, literature, and African-American culture. She is currently the Hughes-Rogers Professor of African American Studies at Princeton University.

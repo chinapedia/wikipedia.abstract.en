@@ -1,1 +1,0 @@
-GERVASE PAGANELL inherited the feudal barony of Dudley (which included Dudley Castle) around the year 1150. However, after rebelling against King Henry II, his castle was demolished. Gervase founded the Cluniac Priory of St James in Dudley and probably founded the Church of St Thomas in Dudley. He died in 1194.

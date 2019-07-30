@@ -1,1 +1,0 @@
-_THE GIFT OF CHRISTMAS_ is a 2007 Christmas album by country pop singer Juice Newton. It was originally released by OJM Records on November 14, 2007.[1] The album was Newton's last collaboration with Otha Young, her professional partner of over 30 years. Young died of cancer in 2009.[2]

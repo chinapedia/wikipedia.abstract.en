@@ -1,1 +1,0 @@
-The_Twilight_Zone_Lili_Darvas_Billy_Mumy_1961.jpg in episode of _The Twilight Zone_, "Long Distance Call" (1961) ]] LILI DARVAS (April 10, 1902 – July 22, 1974) was a Hungarian actress noted for her stage work in Europe and the United States and, later in her career, in films and on television.[1][2]

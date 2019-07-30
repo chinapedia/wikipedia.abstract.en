@@ -1,1 +1,0 @@
-JOHN BRICKELL (born May 24, 1781) was an early settler of Franklin County, Ohio who was abducted by the Lenape Tribe in 1791. For four years, Brickell lived among the Lenape tribe. Brickell was released as a result of the Treaty of Greenville in August 1795. A monument in Columbus, Ohio marks the location of Brickell's cabin.[1][2][3]

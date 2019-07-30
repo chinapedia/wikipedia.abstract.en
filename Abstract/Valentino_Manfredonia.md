@@ -1,1 +1,0 @@
-VALENTINO MANFREDONIA (born 29 September 1989) is an Italian boxer. He competed at the 2016 Summer Olympics in the men's light heavyweight event, in which he was eliminated in the first round by Mikhail Dauhaliavets of Belarus.[1][2]

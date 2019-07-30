@@ -1,1 +1,0 @@
-Mileve_Hippo_Thagaste_in_Numidia.JPG, _Atlas Antiquus_, H. Kiepert, 1869]]THIBILIS (a.k.a. Tibilis) was a Roman and Byzantine era town in what was Numidia but is today northeast Algeria. The site has extensive Roman and Byzantine ruins.

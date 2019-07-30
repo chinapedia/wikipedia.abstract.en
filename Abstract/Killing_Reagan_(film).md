@@ -1,1 +1,0 @@
-_KILLING REAGAN_ is a 2016 American television drama film directed by Rod Lurie and written by Eric Simonson. It is based on the 2015 book of the same name by Bill O'Reilly and Martin Dugard. The film stars Tim Matheson, Cynthia Nixon, Joe Chrest, Joel Murray, Kyle S. More, and Michael H. Cole. The film premiered on October 16, 2016, on the National Geographic Channel.[1]

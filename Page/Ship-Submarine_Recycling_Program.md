@@ -3,8 +3,6 @@ The SHIP/SUBMARINE RECYCLING PROGRAM (SRP) is the process that the United States
 
 Program overview
 
-USS_Virginia_(CGN-38)_in_dry_dock_for_nuclear_core_removal.jpg
-
 Defueling and decommissioning
 
 Before SRP can begin, the vessel's nuclear fuel must be removed, and defueling usually coincides with decommissioning. Until the fuel is removed, the vessel is referred to as "USS _Name_," but afterward the "USS" is dropped and it is referred to as "ex-_Name_." Reusable equipment is removed at the same time as the fuel.

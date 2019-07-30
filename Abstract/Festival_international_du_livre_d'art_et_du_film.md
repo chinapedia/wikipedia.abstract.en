@@ -1,1 +1,0 @@
-The '''International Art Books and Films Festival ''' (in French, FESTIVAL INTERNATIONAL DU LIVRE D'ART ET DU FILM) or FILAF, is an international festival about artbooks and films which takes place annually in Perpignan (South of France) since 2011. Its goal is to promote and award the best books and films about art produced each year in the world.

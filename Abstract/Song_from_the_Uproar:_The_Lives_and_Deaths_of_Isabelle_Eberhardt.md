@@ -1,1 +1,0 @@
-_SONG FROM THE UPROAR: THE LIVES AND DEATHS OF ISABELLE EBERHARDT_ is an opera in one act by Missy Mazzoli with a libretto by Royce Vavrek and Mazzoli. It is inspired by the life of Swiss explorer and writer Isabelle Eberhardt.

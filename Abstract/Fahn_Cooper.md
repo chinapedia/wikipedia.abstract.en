@@ -1,1 +1,0 @@
-FAHN COOPER (born April 30, 1993) is an American football offensive tackle who is currently an free agent. He played college football at Ole Miss and was drafted by the San Francisco 49ers in the fifth round of the 2016 NFL Draft.[1]

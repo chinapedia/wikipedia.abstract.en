@@ -1,5 +1,3 @@
-Kaliningradsky_peninsula_EN.svg
-
 SAMBIA (, _Sambiysky poluostrov_, literally the Sambiysky Peninsula;) or SAMLAND[1] (, _Zemlandsky poluostrov_, literally the Zemlandsky Peninsula) or KALININGRAD PENINSULA (official name, , _Kaliningradsky poluostrov_) is a peninsula in the Kaliningrad Oblast of Russia, on the southeastern shore of the Baltic Sea. The peninsula is bounded by the Curonian Lagoon (to the north-east), the Vistula Lagoon (on the southwest), the Pregel River (on the south), and the Deyma River (on the east). As Samland is surrounded on all sides by water, it is technically an island. Prior to 1945 it formed an important part of East Prussia.
 
 
@@ -10,7 +8,7 @@ Sambia is named after the Sambians, an extinct tribe of Old Prussians. _Samland_
 
 History
 
-Map_of_East_Prussia_1648.jpg, ca. 1648.]] Sambia was originally sparsely populated by the Sambians. The German Teutonic Knights conquered the region during the 13th century and the Bishopric of Samland became, along with Bishopric of Pomesania, Bishopric of Ermland, and Bishopric of Culm, one of the four dioceses of Prussia in 1243. Settlers from the Holy Roman Empire began colonizing the region, and the Sambian Prussians gradually became assimilated. The peninsula was the last area in which the Old Prussian language was spoken before becoming extinct at the beginning of the 18th century.
+, ca. 1648.]] Sambia was originally sparsely populated by the Sambians. The German Teutonic Knights conquered the region during the 13th century and the Bishopric of Samland became, along with Bishopric of Pomesania, Bishopric of Ermland, and Bishopric of Culm, one of the four dioceses of Prussia in 1243. Settlers from the Holy Roman Empire began colonizing the region, and the Sambian Prussians gradually became assimilated. The peninsula was the last area in which the Old Prussian language was spoken before becoming extinct at the beginning of the 18th century.
 
 The peninsula became part of the Duchy of Prussia when Albert of Brandenburg-Ansbach, the 37th Grand Master, secularized the Monastic State of the Teutonic Knights in 1525. The Margraviate of Brandenburg inherited the duchy in 1618, and its Hohenzollern ruler proclaimed the Kingdom of Prussia in 1701. Sambia became part of the Province of East Prussia in 1773. (The Kingdom of Prussia completed the unification of Germany by setting up the German Empire in 1871.) After World War I Sambia formed part of the East Prussian province of Weimar Germany.
 
@@ -20,7 +18,7 @@ The Soviet Union gradually repopulated the Kaliningrad Oblast, including Sambia,
 
 Kursenieki
 
-Curonians_kursenieki_in_1649.png While today the Kursenieki, also known as Kuršininkai are a nearly extinct Baltic ethnic group living along the Curonian Spit, in 1649 Kuršininkai settlement spanned from Memel (Klaipėda) to Danzig (Gdańsk), including the coastline of the Sambian Peninsula. The Kuršininkai were eventually assimilated by the Germans, except along the Curonian Spit where some still live. The Kuršininkai were considered Latvians until after World War I when Latvia gained independence from the Russian Empire, a consideration based on linguistic arguments. This was the rationale for Latvian claims over the Curonian Spit, Memel, and other territories of East Prussia which would be later dropped.
+While today the Kursenieki, also known as Kuršininkai are a nearly extinct Baltic ethnic group living along the Curonian Spit, in 1649 Kuršininkai settlement spanned from Memel (Klaipėda) to Danzig (Gdańsk), including the coastline of the Sambian Peninsula. The Kuršininkai were eventually assimilated by the Germans, except along the Curonian Spit where some still live. The Kuršininkai were considered Latvians until after World War I when Latvia gained independence from the Russian Empire, a consideration based on linguistic arguments. This was the rationale for Latvian claims over the Curonian Spit, Memel, and other territories of East Prussia which would be later dropped.
 
 
 Geography and geology

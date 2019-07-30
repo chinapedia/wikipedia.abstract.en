@@ -1,1 +1,0 @@
-'''Hong Myong-gum ''' (born 10 July 1986) is a North Korean footballer who plays as a defender for the North Korea women's national football team. She was part of the team at the 2007 FIFA Women's World Cup. At the club level, she plays for Amrokgang in North Korea.[1]

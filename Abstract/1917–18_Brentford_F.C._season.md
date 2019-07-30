@@ -1,1 +1,0 @@
-During the 1917–18 English football season, Brentford competed in the London Combination, due to the cessation of competitive football for the duration of the First World War. In a patchy season, the Bees finished in mid-table.

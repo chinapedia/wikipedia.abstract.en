@@ -1,1 +1,0 @@
-Magnetopause.jpg

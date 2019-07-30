@@ -14,7 +14,7 @@ There was an Iron Age settlement known as Verulamium,[4] Verlamion, or Verlamio,
 
 Roman
 
-StAlbansRomanWall-PS01.JPG The Roman city of Verulamium, the second-largest town in Roman Britain after Londinium, developed from the Celtic settlement[8] and was granted the rank of _municipium_ around AD 50, meaning that its citizens had what were known as "Latin Rights", a lesser citizenship status than a _colonia_ possessed. It grew to a significant town, and as such received the attentions of Boudica of the Iceni in 61, when Verulamium was sacked and burnt on her orders:[9]excavations preceding the museum's new entrance done in 1996-7 within the centre of the Roman town gave archaeologists the chance to date a black ash layer to 60-65 ad, thus confirming the Roman written record. It grew steadily; by the early 3rd century, it covered an area of about , behind a deep ditch and wall. Verulamium contained a forum, basilica and a theatre, much of which were damaged during two fires, one in 155 and the other in around 250. These were repaired and continued in use in the 4th century. The theatre was disused by the end of the 4th. One of the few extant Roman inscriptions in Britain is found on the remnants of the forum (see Verulamium Forum inscription). The town was rebuilt in stone rather than timber at least twice over the next 150 years. Occupation by the Romans ended between 400 and 450.
+The Roman city of Verulamium, the second-largest town in Roman Britain after Londinium, developed from the Celtic settlement[8] and was granted the rank of _municipium_ around AD 50, meaning that its citizens had what were known as "Latin Rights", a lesser citizenship status than a _colonia_ possessed. It grew to a significant town, and as such received the attentions of Boudica of the Iceni in 61, when Verulamium was sacked and burnt on her orders:[9]excavations preceding the museum's new entrance done in 1996-7 within the centre of the Roman town gave archaeologists the chance to date a black ash layer to 60-65 ad, thus confirming the Roman written record. It grew steadily; by the early 3rd century, it covered an area of about , behind a deep ditch and wall. Verulamium contained a forum, basilica and a theatre, much of which were damaged during two fires, one in 155 and the other in around 250. These were repaired and continued in use in the 4th century. The theatre was disused by the end of the 4th. One of the few extant Roman inscriptions in Britain is found on the remnants of the forum (see Verulamium Forum inscription). The town was rebuilt in stone rather than timber at least twice over the next 150 years. Occupation by the Romans ended between 400 and 450.
 
 The body of St Alban was probably buried outside the city walls in a Roman cemetery near the present cathedral. His hillside grave became a place of pilgrimage. Recent investigation has uncovered a basilica there, indicating the oldest continuous site of Christian worship in Great Britain. In 429 Germanus of Auxerre visited the church and subsequently promoted the cult of St Alban.[10][11][12][13][14]
 
@@ -28,7 +28,7 @@ St Albans Abbey and the associated Anglo-Saxon settlement were founded on the hi
 
 Medieval
 
-George_Street,_St_Albans.jpg The medieval town grew on the hill to the east of Wæclingacaester where the Benedictine Abbey of St Albans was founded by Ulsinus in 793.[18] There is some evidence that the original site was higher up the hill than the present building, which was begun in 1077. St Albans Abbey was the principal abbey medieval in England. The scribe Matthew vickers lived there and the first draft of Magna Carta was drawn up there. It became a parish church after the dissolution of the Benedictine abbey in 1539 and was made a cathedral in 1877.
+The medieval town grew on the hill to the east of Wæclingacaester where the Benedictine Abbey of St Albans was founded by Ulsinus in 793.[18] There is some evidence that the original site was higher up the hill than the present building, which was begun in 1077. St Albans Abbey was the principal abbey medieval in England. The scribe Matthew vickers lived there and the first draft of Magna Carta was drawn up there. It became a parish church after the dissolution of the Benedictine abbey in 1539 and was made a cathedral in 1877.
 
 St Albans School was founded in AD 948. Matthew Paris was educated there and it is the only school in the English-speaking world to have educated a Pope (Adrian IV). Now a public school it has, since 1871, occupied a site to the west of the Abbey and includes the 14th-century Abbey Gateway. One of its buildings was a hat factory, a link with the city's industrial past.
 
@@ -42,7 +42,7 @@ A street market on Wednesdays and Saturdays, founded by Abbot Ulsinus, still flo
 
 Modern
 
-Stalbanshighstreet1807_cropped640.jpg on top of the city's Clock Tower]]
+on top of the city's Clock Tower]]
 
 Before the 20th century St Albans was a rural market town, a Christian pilgrimage site, and the first coaching stop of the route to and from London, accounting for its numerous old inns. Victorian St Albans was small and had little industry. Its population grew more slowly than London, 8–9% per decade between 1801 and 1861, compared to the 31% per decade growth of London in the same period. The railway arrived relatively late, in 1858. In 1869 the extension of the city boundaries was opposed by the Earl of Verulam and many of the townsfolk, but there was rapid expansion and much building at the end of the century, and between 1891 and 1901 the population grew by 37%.[22]
 
@@ -65,7 +65,7 @@ In 1898 the parish of St Albans absorbed St Michael Urban, St Peter Urban and Sa
 
 Present
 
-StAlbans-PSX1.JPG: French Row (to the left), Market Place (to the right), St Peter's Street and the tower of St Peter's Church (centre)]] The borough was abolished on 1 April 1974 and St Albans became part of the new, larger City and District of St Albans. City status was transferred to the entire district by letters patent dated 9 July 1974.[27] Local government services are now provided by Hertfordshire County Council (strategic services), St Albans City and District Council and eight local parish councils (limited local services). Within the town, the Ashley, Batchwood, Clarence, Cunningham, Marshalswick South, St Peters, Sopwell and Verulam wards have no parish councils, but since June 2013 a City Neighbourhood Committee has had comparable responsibilities for small parks, playgrounds, open spaces, war memorials, allotments and public conveniences within those wards.[28][29]
+: French Row (to the left), Market Place (to the right), St Peter's Street and the tower of St Peter's Church (centre)]] The borough was abolished on 1 April 1974 and St Albans became part of the new, larger City and District of St Albans. City status was transferred to the entire district by letters patent dated 9 July 1974.[27] Local government services are now provided by Hertfordshire County Council (strategic services), St Albans City and District Council and eight local parish councils (limited local services). Within the town, the Ashley, Batchwood, Clarence, Cunningham, Marshalswick South, St Peters, Sopwell and Verulam wards have no parish councils, but since June 2013 a City Neighbourhood Committee has had comparable responsibilities for small parks, playgrounds, open spaces, war memorials, allotments and public conveniences within those wards.[28][29]
 
 Parliamentary representation
 
@@ -116,11 +116,11 @@ St Albans Abbey station is the terminus of a single-track branch line from Watfo
 
 Culture and media
 
-St_Albans_-_St_Michael's_Church.jpg]] St Albans has a thriving cultural life, with regular concerts and theatre productions held at venues including Trestle Arts Base,[33] St Albans Abbey, Maltings Arts Theatre,[34] the Alban Arena, the Abbey Theatre,[35] St Peter's Church and St Saviour's Church, given by numerous organisations including St Albans Bach Choir,[36] St Albans Cathedral Choir, St Albans Abbey Girls' Choir, St Albans Symphony Orchestra,[37] St Albans Chamber Choir,[38] St Albans Chamber Opera,[39] The Company of Ten,[40] St Albans Choral Society,[41] and St Albans Organ Theatre.[42] St Albans is also home to Trestle Theatre Company,[43] who have been creating professional, innovative and inspirational physical storytelling theatre since 1981. Originally known for their work with masks, Trestle collaborates with UK and international artists to unify movement, music and text into a compelling theatrical experience. The Sandpit Theatre is a theatre attached to Sandringham School which hosts a wide variety of plays throughout the year, mainly performances put on by the pupils of Sandringham School. The school also hosts Best Theatre Arts,[44] a part-time theatre school for children aged 4 to 16.
+]] St Albans has a thriving cultural life, with regular concerts and theatre productions held at venues including Trestle Arts Base,[33] St Albans Abbey, Maltings Arts Theatre,[34] the Alban Arena, the Abbey Theatre,[35] St Peter's Church and St Saviour's Church, given by numerous organisations including St Albans Bach Choir,[36] St Albans Cathedral Choir, St Albans Abbey Girls' Choir, St Albans Symphony Orchestra,[37] St Albans Chamber Choir,[38] St Albans Chamber Opera,[39] The Company of Ten,[40] St Albans Choral Society,[41] and St Albans Organ Theatre.[42] St Albans is also home to Trestle Theatre Company,[43] who have been creating professional, innovative and inspirational physical storytelling theatre since 1981. Originally known for their work with masks, Trestle collaborates with UK and international artists to unify movement, music and text into a compelling theatrical experience. The Sandpit Theatre is a theatre attached to Sandringham School which hosts a wide variety of plays throughout the year, mainly performances put on by the pupils of Sandringham School. The school also hosts Best Theatre Arts,[44] a part-time theatre school for children aged 4 to 16.
 
 The Odyssey Cinema (formerly the Odeon) on London Road is an independent, arthouse cinema that was restored and re-opened in 2014. Originally opened in 1931, it stands on the site of the Alpha Picture House, Hertfordshire's first cinema, which was opened in 1908 by film-making pioneer Arthur Melbourne-Cooper.[45][46]
 
-The_Maltings_Shopping_Centre_(Panorama).jpg in St Albans]] The St Albans Museum service runs two museums: Verulamium Museum, which tells the story of everyday life in Roman Britain using objects from the excavations of the important Roman Town; and the Museum of St Albans, which focuses on the history of the town and of Saint Alban.[47] The Watercress nature reserve is by the River Ver and is run by the Watercress Wildlife Association.[48]
+in St Albans]] The St Albans Museum service runs two museums: Verulamium Museum, which tells the story of everyday life in Roman Britain using objects from the excavations of the important Roman Town; and the Museum of St Albans, which focuses on the history of the town and of Saint Alban.[47] The Watercress nature reserve is by the River Ver and is run by the Watercress Wildlife Association.[48]
 
 St Albans Museums and Galleries Trust, in partnership with St Albans Museums and the University of Hertfordshire, have launched a project, "Renaissance: St Albans", to convert the old town hall into a museum and art gallery, combining the university's Margaret Harvey Gallery and the Museum of St Albans, which have closed in anticipation of the move. The cost of the project is £7.75m, of which (at February 2016) £6.3m has been raised.[49]
 
@@ -137,7 +137,7 @@ In December 2007, Sport England published a survey which revealed that residents
 
 Cricket
 
-Clarence Park also plays host to St Albans Cricket Club.[51] The club currently runs four Saturday sides, playing in the Saracens Hertfordshire Cricket League and also two Sunday sides in the Chess Valley Cricket League. In 2008 the club's 1st XI won the Hertfordshire League Title. In the previous two seasons, the first XI came 5th (2011) and 4th (2012) in division one. Cricket_Pavilion,_Clarence_Park_-_geograph.org.uk_-_121356.jpg at Clarence Park]]
+Clarence Park also plays host to St Albans Cricket Club.[51] The club currently runs four Saturday sides, playing in the Saracens Hertfordshire Cricket League and also two Sunday sides in the Chess Valley Cricket League. In 2008 the club's 1st XI won the Hertfordshire League Title. In the previous two seasons, the first XI came 5th (2011) and 4th (2012) in division one. at Clarence Park]]
 
 Football
 
@@ -174,7 +174,7 @@ St Albans was once home to Samuel Ryder, the founder of the Ryder Cup. He ran a 
 
 Education
 
-20040409-003-abbey-gateway.jpg]] St Albans has many state primary and secondary schools, and a number of independent schools.
+]] St Albans has many state primary and secondary schools, and a number of independent schools.
 
 The law school of the University of Hertfordshire used to be based in Hatfield Road in St Albans until it moved to the university's De Havilland campus in Hatfield in 2011. Hertfordshire County Council purchased the site. The interior of the former law school building has since been refurbished and now forms part of Alban City School, a state-funded Free School for primary aged children, which started taking reception class children in September 2012.
 

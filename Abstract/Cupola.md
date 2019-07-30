@@ -1,1 +1,0 @@
-In architecture, a CUPOLA is a relatively small, most often dome-like, tall structure on top of a building.[1] Often used to provide a lookout or to admit light and air, it usually crowns a larger roof or dome.[2][3]

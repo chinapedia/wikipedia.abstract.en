@@ -1,1 +1,0 @@
-_CHIRP_ is a Canadian animated children's television series created by J.J. Johnson. The series is based on the Canadian children's magazine _Chirp_. It was previewed on Kids' CBC on March 6, 2015, and premiered on April 20.[1]

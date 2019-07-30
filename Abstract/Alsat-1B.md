@@ -1,1 +1,0 @@
-ALSAT-1B is an Algerian satellite operated by the Agence Spatiale Algerienne for agricultural and disaster monitoring.[1][2] The contract for the mission was signed in July 2014. The satellite is based on the SSTL-100 bus. The satellite weighs and carries an earth imaging payload with panchromatic imager and multispectral cameras.[3][4]

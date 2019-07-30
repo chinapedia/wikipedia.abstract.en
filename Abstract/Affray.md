@@ -1,1 +1,0 @@
-Street_fight.jpg

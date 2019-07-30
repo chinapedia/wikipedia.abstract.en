@@ -1,1 +1,0 @@
-The CRAZY CLOCK GAME, or simply just called _Crazy Clock_, is a 1964 board game published by Pavilion Games, a trademark of Toys "R" Us, and Ideal Toy Company. It was released a year after Mouse Trap.

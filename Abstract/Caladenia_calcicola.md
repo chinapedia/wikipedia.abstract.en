@@ -1,1 +1,0 @@
-_CALADENIA CALCICOLA_, commonly known as the BATS RIDGES SPIDER ORCHID,[1] is a plant in the orchid family Orchidaceae and is endemic to a small area near the Victoria - South Australia border. It is a ground orchid with a single hairy leaf and one or two glossy, pale yellow flowers with maroon markings.

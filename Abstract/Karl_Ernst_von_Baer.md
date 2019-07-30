@@ -1,1 +1,0 @@
-Baer_Edle_von_Huthorn_wappen.jpg

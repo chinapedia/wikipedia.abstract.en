@@ -1,1 +1,0 @@
-ROSS ELS (born August 14, 1965) is an American football coach who is currently the inside linebackers coach for the Colorado Buffaloes football team. He previously was the defensive coordinator for the Purdue Boilermakers football team and the linebackers coach for the Nebraska.

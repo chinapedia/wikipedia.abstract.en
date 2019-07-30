@@ -1,1 +1,0 @@
-ROBERT K. CORBIN (born November 17, 1928) is an American lawyer and politician from the state of Arizona who formerly served as Attorney General of Arizona. He later served as president of the National Rifle Association from 1992 until 1993.[1]

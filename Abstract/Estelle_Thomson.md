@@ -1,1 +1,0 @@
-Banksia_collina,_illustration_by_Estelle_Thomson,_1929.jpg, illustrated by Estelle Thomson, 1929]] ESTELLE THOMSON (née COMRIE-SMITH) (1894 – 6 September 1953) was an Australian naturalist and botanical artist. She authored a number of books, compiled a weekly newspaper column, and gave talks on the radio about Australian wildflowers.

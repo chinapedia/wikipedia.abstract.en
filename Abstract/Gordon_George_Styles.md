@@ -1,1 +1,0 @@
-GORDON GEORGE STYLES (born 1964) is a British engineer and entrepreneur.[1][2] He is the founder and president of Star Rapid, an international provider of rapid prototyping and low-volume manufacturing services.

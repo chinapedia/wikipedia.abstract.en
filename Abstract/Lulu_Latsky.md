@@ -1,1 +1,0 @@
-Lulu_Latsky_S.Africa.jpg LULU LATSKY (22 October 1901 – 8 November 1980) was a South African writer and zoologist, and the first woman to earn a doctorate in science in South Africa. She wrote about 70 books including many that were written for children and based on her knowledge of zoology.

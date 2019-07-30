@@ -1,1 +1,0 @@
-DEGALDORUWA RAJA MAHA VIHARA () is an ancient Buddhist rock temple, situated in Amunugama, Kandy, Sri Lanka. It is famous for its Kandyan Era Frescoes.[1][2] The cave itself was said to have been excavated out of a rock which rises to a height of approximately ,[3] and shelters the shrine room and entrance chamber.

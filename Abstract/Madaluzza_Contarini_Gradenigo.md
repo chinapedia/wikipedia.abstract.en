@@ -1,1 +1,0 @@
-MADDALENA "MADALUZZA" CONTARINI GRADENIGO (fl. 1779), was a Venetian aristocrat. She was known for the scandals surrounding her notorious love affairs, which brought her in conflict with the Venetian Inquisition and exemplified its opposition to the informal changes in women's positions in 18th-century Republic of Venice.[1]

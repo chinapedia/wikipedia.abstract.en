@@ -1,1 +1,0 @@
-_HERE COMES MOTHER GOOSE_ is a children's picture book by Iona Opie. It is a collection of 56 Mother Goose nursery rhymes, chosen by Opie and is the second such collaboration between her and illustrator Rosemary Wells.

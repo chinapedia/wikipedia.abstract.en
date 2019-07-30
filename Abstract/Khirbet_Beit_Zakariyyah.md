@@ -1,1 +1,0 @@
-Zechariah}} KHIRBET BEIT ZAKARIYYAH (variants: BEIT ZAKARIYYAH, KHIRBET ZAKARIAH, BEIT SKÂRIA) is a small Palestinian village in the West Bank. It is located in between the larger Israeli settlements of Alon Shevut and Rosh Tzurim in the Gush Etzion region. Administratively, it is associated with Artas, Bethlehem.

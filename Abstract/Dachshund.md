@@ -1,1 +1,0 @@
-The DACHSHUND ( or [1][2][3])(German: "badger dog"), also known as the SAUSAGE DOG or WIENER DOG is a short-legged, long-bodied, hound-type dog breed. They may be smooth-haired, wire-haired, or long-haired.

@@ -1,1 +1,0 @@
-The SHELBURNE VILLAGE HISTORIC DISTRICT encompasses the central portion of the main village of Shelburne, Vermont. Centered on the junction of United States Route 7 with Harbor and Falls Roads, the district's architecture traces the town's history from the 18th to early 20th century. It was listed on the National Register of Historic Places in 1990.[1]

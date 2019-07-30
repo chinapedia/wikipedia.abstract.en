@@ -1,1 +1,0 @@
-PRINCE HYPERMART is a Cebu-based retail store chain in the Philippines with branches in Luzon, Visayas and Mindanao. It is owned by Robert L. Go, the President of the Philippine Retailers Association.[1][2][3]

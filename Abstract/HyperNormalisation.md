@@ -1,1 +1,0 @@
-_HYPERNORMALISATION_ is a 2016 BBC documentary by British filmmaker Adam Curtis. It argues that governments, financiers, and technological utopians have, since the 1970s, given up on the complex "real world" and built a simpler "fake world" run by corporations and kept stable by politicians. The film was released on 16 October 2016 on the BBC iPlayer.[1]

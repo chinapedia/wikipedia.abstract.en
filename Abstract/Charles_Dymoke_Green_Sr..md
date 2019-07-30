@@ -1,1 +1,0 @@
-CHARLES DYMOKE GREEN SENIOR (England 1873-1954) was an early leader of the Scout Association, District Commissioner at Saint Albans from at least 1912 to 1948, and a personal friend of Robert Baden-Powell.

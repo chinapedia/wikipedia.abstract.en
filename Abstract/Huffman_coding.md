@@ -1,1 +1,0 @@
-Huffman_tree_2.svg

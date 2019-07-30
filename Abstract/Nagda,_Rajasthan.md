@@ -1,1 +1,0 @@
-Nagda-06-Sas_Bahu-2018-gje.jpg NAGDA is a village in Udaipur district of Rajasthan state in India.[1] It was once a prominent city in the early Mewar state. Today it is known primarily for the remains of the Sahastra Bahu Temples.

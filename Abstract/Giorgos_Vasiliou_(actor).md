@@ -1,1 +1,0 @@
-GIORGOS VASILOU (Greek: ΓΙΏΡΓΟΣ ΒΑΣΙΛΕΊΟΥ; 21 June 1950 – 1 November 2016) was a Greek theatre, film, and television actor. He was also a deputy in the Second Piraeus Region with the New Democracy party from 2004 to 2007 and honorary president of the Charity Department of Cooperative Savings in Larnaca, Cyprus.

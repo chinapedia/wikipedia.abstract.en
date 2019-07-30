@@ -1,1 +1,0 @@
-SIGMUND FREUD ( ;[1] ; born SIGISMUND SCHLOMO FREUD; 6 May 1856 – 23 September 1939) was an Austrian neurologist and the founder of psychoanalysis, a clinical method for treating psychopathology through dialogue between a patient and a psychoanalyst.[2]

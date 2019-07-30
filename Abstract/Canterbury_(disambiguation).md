@@ -1,1 +1,0 @@
-CANTERBURY is a city located in the county of Kent in southeast England. It may also refer to:

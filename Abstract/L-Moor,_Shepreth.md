@@ -1,1 +1,0 @@
-L-MOOR, SHEPRETH is a 6.6 hectare biological Site of Special Scientific Interest in Shepreth in Cambridgeshire.[1][2] It is managed by the Wildlife Trust for Bedfordshire, Cambridgeshire and Northamptonshire.[3]

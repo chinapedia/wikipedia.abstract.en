@@ -1,1 +1,0 @@
-ABIANT LYCURGUS is a Dutch professional volleyball club based in Groningen, Netherlands. They currently compete in the top flight of Dutch volleyball, the Eredivisie, and are the current reigning champions.

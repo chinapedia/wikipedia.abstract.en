@@ -1,1 +1,0 @@
-Edward_coke.jpg

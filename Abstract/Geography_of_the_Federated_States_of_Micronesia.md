@@ -1,1 +1,0 @@
-Map_of_the_Federated_States_of_Micronesia_CIA.jpg''' in the Caroline Islands Archipelago.]] GEOGRAPHY OF THE FEDERATED STATES OF MICRONESIA (FSM), a country located in the western Pacific Ocean, and in the Micronesia cultural and ecological sub-region of Oceania.

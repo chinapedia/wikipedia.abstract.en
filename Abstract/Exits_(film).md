@@ -1,1 +1,0 @@
-_EXITS_ is a 1979 Australian drama-documentary directed by Paul Davies on the effect of the 1975 dismissal of the Labour Government of Gough Whitlam on a handful of characters wandering around Melbourne.[1] It is the earlier of two treatments of the event along with _Home on the Range_ (1982) before _The Dismissal_ (1983).[2]

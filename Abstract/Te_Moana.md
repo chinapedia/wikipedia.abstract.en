@@ -1,1 +1,0 @@
-TE MOANA is a locality in the Canterbury Region of the South Island of New Zealand. It is located about west of Geraldine and boarded by Gapes Valley and Pleasant Valley to the south and Four Peaks to the north. The south branch of the Hae Hae Te Moana River runs through the area.

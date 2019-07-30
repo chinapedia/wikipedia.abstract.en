@@ -1,1 +1,0 @@
-ALUN 'SBARDUN' HUWS (26 September 1948 – 15 December 2014) was a Welsh musician and songwriter, known mainly for founding 1970s folk band Y Tebot Piws. He was known in the music world as Sbardun.[1] He worked exclusively in Welsh and only gave one English language interview to the music press.[2]

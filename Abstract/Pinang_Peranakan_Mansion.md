@@ -1,1 +1,0 @@
-The PINANG PERANAKAN MANSION () in George Town, Penang, Malaysia, is a museum dedicated to Penang's Peranakan heritage. The museum itself is housed within a distinctive green-hued mansion at Church Street, George Town, which once served as the residence and office of a 19th-century Chinese tycoon, Chung Keng Quee.[1]

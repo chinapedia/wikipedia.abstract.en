@@ -1,1 +1,0 @@
-The European route E01 in the United Kingdom is a series of roads, part of the International E-road network running completely in the province of Northern Ireland from Larne, by the capital Belfast to the Irish border at Newry. Eventually the route goes to the Republic of Ireland, Spain and Portugal.

@@ -1,1 +1,0 @@
-SPINNING BEES were 18th-century public events where women in the American Colonies produced homespun cloth to help the colonists reduce their dependence on British goods. They emerged in the decade prior to the American Revolution as a way for women to protest British policies and taxation.

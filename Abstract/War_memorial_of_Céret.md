@@ -1,1 +1,0 @@
-THE WAR MEMORIAL OF CÉRET is a World War I memorial in France, located in Céret (Pyrénées-Orientales). The sculpture for the memorial was made from 1919 to 1920 by Aristide Maillol and the memorial itself was inaugurated in 1922. It was declared a national monument in 1994.[1]

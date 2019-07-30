@@ -1,1 +1,0 @@
-_ZOMBIE SPRING BREAKERS_ (previously _IBIZA UNDEAD_[1]) is a 2016 horror film written and directed by Andy Edwards. Premiered at London's FrightFest Film Festival in August 2016, the film stars Cara Theobold, Matt King and Alex Zane.

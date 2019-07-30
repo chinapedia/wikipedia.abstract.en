@@ -1,1 +1,0 @@
-PANTA RADOSAVLJEVIĆ-DUNAVSKI or VOJVODA DUNAVSKI (Belgrade, 28 August 1876 - Nuremberg, 1941) was a Serbian army officer and Chetnik commander in Old Serbia and Macedonia during the beginning of the 20th century. He was also a writer.

@@ -1,1 +1,0 @@
-The EFFECT OF SOCIAL MEDIA ON ADOLESCENTS has been studied increasingly as social media have become more prevalent. By using social media, adolescents can develop issues associated with mental health, but positive effects are also present. Morse_Telegraph_1837.jpg

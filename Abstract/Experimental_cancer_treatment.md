@@ -1,1 +1,0 @@
-EXPERIMENTAL CANCER TREATMENTS are non-medical therapies intended to treat cancer by improving on, supplementing or replacing conventional methods (surgery, chemotherapy, radiation, and immunotherapy). Experimental cancer treatments cannot make medical claims. The term experimental cancer treatment could thus be substituted for "non FDA approved cancer treatment."

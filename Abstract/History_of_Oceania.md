@@ -1,1 +1,0 @@
-1852_Bocage_Map_of_Australia_and_Polynesia_-_Geographicus_-_Oceanie-bocage-1852.jpg upright=1.2 The HISTORY OF OCEANIA includes the history of Australia, New Zealand, Papua New Guinea, Fiji and other Pacific island nations.

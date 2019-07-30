@@ -1,1 +1,0 @@
-Corymbia_setosa_shoot.jpg Corymbia_setosa_bark.jpg

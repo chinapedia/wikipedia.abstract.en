@@ -1,1 +1,0 @@
-_THE LIFE OF THE PARTY_ is a 1934 British comedy film directed by Ralph Dawson and starring Jerry Verno, Betty Astell and Eric Fawcett. It was made by Warner Brothers as a quota quickie at Teddington Studios.[1]

@@ -1,1 +1,0 @@
-The GLENEAGLES HOTEL FOURSOMES TOURNAMENT was a pro-am golf tournament played at the Gleneagles Hotel, Auchterarder, Perthshire, Scotland. The event was held annually from 1953 to 1966. From 1953 to 1957 it was called the GLENEAGLES-SAXONE FOURSOMES TOURNAMENT. Saxone was a Scottish footwear manufacturer.

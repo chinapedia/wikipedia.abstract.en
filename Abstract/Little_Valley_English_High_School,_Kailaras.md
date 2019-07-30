@@ -1,1 +1,0 @@
-LITTLE VALLEY ENGLISH HIGH SCHOOL (LVEHS) is a public school runs under the Shri Harnarayan Shiksha Evem Seva Samiti in Kailaras, Dist. Morena, Madhya Pradesh, India. It is a co-educational English-Medium High School.

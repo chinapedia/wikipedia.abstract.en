@@ -1,1 +1,0 @@
-GURSHARANJOT SINGH RANDHAWA, is an Indian singer, songwriter and music composer associated with Punjabi, Bhangra, Indi-pop and Bollywood music.[1][2][3] He is known for songs like "Lahore", "Patola", "High Rated Gabru", "Daaru Wargi", "Raat Kamal Hai", "Suit", "Ban Ja Rani", "Made in India", "Ishare Tere", "Tere Te", "Fashion", "Downtown" and "Slowly Slowly".[4][5][6][7]

@@ -1,1 +1,0 @@
-Koppen-Geiger_Map_CIV_present.svg Ivory_Coast_Topography.png

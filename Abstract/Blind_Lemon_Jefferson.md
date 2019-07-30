@@ -1,1 +1,0 @@
-LEMON HENRY "BLIND LEMON" JEFFERSON (September 24, 1893 – December 19, 1929)[1] was an American blues and gospel singer-songwriter and musician. He was one of the most popular blues singers of the 1920s and has been called the "Father of the Texas Blues".[2]

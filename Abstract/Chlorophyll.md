@@ -1,1 +1,0 @@
-CHLOROPHYLL (also CHLOROPHYL) is any of several related green pigments found in the mesosomes of cyanobacteria, as well as in the chloroplasts of algae and plants.[1] Its name is derived from the Greek words , ("green") and , ("leaf").[2] Chlorophyll is essential in photosynthesis, allowing plants to absorb energy from light.

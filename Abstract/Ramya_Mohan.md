@@ -1,1 +1,0 @@
-Dr RAMYA MOHAN is a British doctor, psychiatrist, educator, musician and an artist[1] of Indian descent. She studied at Bangalore Medical College (BMC) in Bangalore, India and later worked as a senior consultant in the UK for the National Health Service.[2]

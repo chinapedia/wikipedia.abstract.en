@@ -1,1 +1,0 @@
-The LIGA FEMENINA PROFESIONAL DE FÚTBOL COLOMBIANO (COLOMBIAN PROFESSIONAL WOMEN'S FOOTBALL LEAGUE) or LIGA ÁGUILA FEMENINA (sponsored name) is the top level women's football league in Colombia. The first season was held in 2017, with 18 teams taking part. The champion qualifies to the Copa Libertadores Femenina.[1]

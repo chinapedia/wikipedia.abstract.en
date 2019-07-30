@@ -1,1 +1,0 @@
-JONATHAN EDWARDS (born December 25, 1944), known as JOHN EDWARDS,[1] is an American soul singer who had a moderately successful solo career before becoming lead singer of The Spinners between 1977 and 2000.

@@ -1,1 +1,0 @@
-The MANTIQUEIRA MOSAIC () is a protected area mosaic that contains conservation units in the states of Rio de Janeiro, São Paulo and Minas Gerais, Brazil. The conservation units are of different types and are managed at the federal, state or municipal level. The mosaic provides a level of integrated and coordinated management.

@@ -1,1 +1,0 @@
-TOR MAGNE GLIDJE (born 27 September 1977) is a Norwegian guitarist in Extol, Ganglion and Longing, a.k.a. Lengsel, where he is also the lead singer. He was also a part of Benea Reach. He is now playing in the band Mantric. Tor Magne is married to Henriette Akerholdt, who has drummed for Umbrella and The Loch Ness Mouse.

@@ -1,1 +1,0 @@
-Mangalore_Tourist_Map.png The city of Mangalore is often proclaimed as the gateway to Karnataka[1] and lies nestled between the blue waters of the Arabian Sea and the green, towering hills of the Western Ghats. The 184 square km city is spread out over the backwaters of the two rivers, Netravati and Gurpura.

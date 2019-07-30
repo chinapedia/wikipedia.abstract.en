@@ -1,1 +1,0 @@
-JESSIE BOSWELL (March 10, 1881 – September 22, 1956) was an English painter, active mainly in her adoptive Piedmont, known as being one of the painters of the _Gruppo dei Sei Pittore_ (1929–1931) in that city.

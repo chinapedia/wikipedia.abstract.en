@@ -1,1 +1,0 @@
-Nori_for_Sushi_micro_photo_200x.jpg is the Japanese name for edible seaweed (a "sea vegetable") species of the red algae genus _Pyropia_, including _P. yezoensis_ and _P. tenera_. It has a strong and distinctive flavor. It is used chiefly in Japanese cuisine as an ingredient to wrap rolls of sushi or _onigiri_, in which case the term refers to the dried sheets.

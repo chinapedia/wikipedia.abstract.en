@@ -1,1 +1,0 @@
-IVAN IVANOVYCH ZUBKOV (; November 1, 1973 – January 20, 2015) was a Ukrainian Airmobile Forces senior lieutenant and a posthumous Hero of Ukraine. He fought in the War in Donbass as a fire support officer and was killed during the Second Battle of Donetsk Airport. Zubkov was posthumously awarded the title Hero of Ukraine and the Order of the Gold Star on June 9, 2015.

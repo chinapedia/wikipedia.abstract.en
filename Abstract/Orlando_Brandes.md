@@ -1,1 +1,0 @@
-ORLANDO BRANDES (born 13 April 1944) is a Brazilian prelate of the Catholic Church who has served as the Archbishop of Aparecida since 2017. He was Bishop of Joinville from 1994 to 2006 and Archbishop of Londrina from 2006 to 2016.

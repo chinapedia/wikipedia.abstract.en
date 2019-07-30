@@ -1,1 +1,0 @@
-AUSTIN TAM-GEORGE is an academic who served as the Rivers State Commissioner of Information and Communications from 21 December 2015 to 23 June 2017 when he voluntarily resigned from his post in Governor Wike's Cabinet. Before his appointment, Tam-George was the Executive Director of the Institute of Communication and Corporate Studies.[1]

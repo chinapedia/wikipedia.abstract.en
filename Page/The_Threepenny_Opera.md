@@ -25,8 +25,6 @@ Music
 
 Weill's score shows influence of jazz and German dance-music of the time. The orchestration involves a small ensemble with a good deal of doubling-up on instruments (in the original performances, for example, some 7 players covered a total of 23 instrumental parts, though modern performances typically use a few more players).
 
-Dreigroschenoper_program_notes_1928.png
-
 
 Premieres
 
@@ -138,7 +136,7 @@ Macheath asks everyone for forgiveness ("Grave Inscription"). Then a sudden and 
 
 Musical numbers
 
-Tpojennysings.jpg' 1982 Baltimore production]]
+' 1982 Baltimore production]]
 
 Prelude
 

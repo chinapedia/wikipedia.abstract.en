@@ -1,1 +1,0 @@
-1896_Baltimore_Orioles.jpg, 1896]] Conner-prairie-baseball.jpg game, played by 1886 rules. Vintage games are live contests that seek to portray the authenticity of the early game. (The term "reenactment" is a common misnomer; games are contested and not meant to recreate a specific historical event.)]]

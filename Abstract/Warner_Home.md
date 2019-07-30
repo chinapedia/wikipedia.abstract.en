@@ -1,1 +1,0 @@
-The WARNER HOME is a historic orphanage building at 133 High Street in the city of St. Albans, Vermont. It was built in 1902, and was one of the region's major orphanages. It was converted to conventional residential use in 1987, and was listed on the National Register of Historic Places for its social significance and fine Colonial Revival architecture in 1988.[1]

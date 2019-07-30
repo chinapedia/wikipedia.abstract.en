@@ -1,1 +1,0 @@
-Hans_von_Hayek_Verschneites_Wehr_in_Dachau.jpg at Dachau]] Hans_von_Hayek_Flusslandschaft_auf_Sumatra.jpg]] HANS VON HAYEK (19 December 1869, Vienna - 17 January 1940, Munich) was an Austrian-born German Impressionist painter.

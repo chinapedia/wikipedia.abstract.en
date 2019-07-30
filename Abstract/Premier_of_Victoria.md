@@ -1,1 +1,0 @@
-The PREMIER OF VICTORIA is the head of government in the Australian state of Victoria. The Premier is appointed by the governor of Victoria, and is the leader of the political party able to secure a majority in the Legislative Assembly.[1]

@@ -1,1 +1,0 @@
-PROTOCOL TO THE 1979 CONVENTION ON LONG-RANGE TRANSBOUNDARY AIR POLLUTION CONCERNING THE CONTROL OF EMISSIONS OF NITROGEN OXIDES OR THEIR TRANSBOUNDARY FLUXES, opened for signature on 31 October 1988 and entered into force on 14 February 1991, was to provide for the control or reduction of nitrogen oxides and their transboundary fluxes. It was concluded in Sofia, Bulgaria.

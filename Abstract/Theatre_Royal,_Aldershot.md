@@ -1,1 +1,0 @@
-Theatre_Royal_Aldershot_1945.jpg The THEATRE ROYAL was a theatre in Aldershot in Hampshire which opened in 1891 and was demolished in 1959. The teenage Charlie Chaplin appeared there in 1904 and the actor James Mason is believed to have made his stage début at the theatre in 1931.[1]

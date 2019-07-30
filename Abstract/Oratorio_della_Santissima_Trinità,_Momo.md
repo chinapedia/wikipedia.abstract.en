@@ -1,1 +1,0 @@
-The ORATORIO DELLA SANTISSIMA TRINITÀ, or ORATORY OF THE HOLY TRINITY, is a Romanesque, Roman Catholic church located about two kilometers north of the town of Momo, on the west bank of the strada regionale 229, in province of Novara, Piedmont, Italy. Momo_Chiesa_SS_Trinità.JPG

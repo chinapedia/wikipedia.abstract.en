@@ -1,1 +1,0 @@
-The CALIFORNIA DEPARTMENT OF TRANSPORTATION (CALTRANS) is an executive department of the US state of California. The department is part of the cabinet-level California State Transportation Agency (CalSTA). Caltrans is headquartered in Sacramento.[1]

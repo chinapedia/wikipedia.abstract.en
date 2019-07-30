@@ -1,1 +1,0 @@
-The 2003 PALMER CUP was held on July 10–11, 2003 on the Cassique Course, Kiawah Island Club, Kiawah Island, South Carolina. Europe won 14 to 10.[1] This was the first Palmer Cup in which qualification was extended to the whole of Europe.

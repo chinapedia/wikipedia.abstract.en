@@ -1,1 +1,0 @@
-LEV DAVIDOVICH BRONSTEIN ( – 21 August 1940), better known as LEON TROTSKY (),[1] was a Russian revolutionary, Marxist theorist, and Soviet politician whose particular strain of Marxist thought is known as Trotskyism.

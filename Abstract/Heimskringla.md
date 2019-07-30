@@ -1,1 +1,0 @@
-_HEIMSKRINGLA_ () is the best known of the Old Norse kings' sagas. It was written in Old Norse in Iceland by the poet and historian Snorri Sturluson (1178/79–1241) 1230. The name _Heimskringla_ was first used in the 17th century, derived from the first two words of one of the manuscripts (_kringla heimsins_, "the circle of the world").

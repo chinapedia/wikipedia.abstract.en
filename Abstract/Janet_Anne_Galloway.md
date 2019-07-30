@@ -1,1 +1,0 @@
-Janet_Anne_Galloway.jpg JANET ANNE GALLOWAY (1841–1909) was an advocate for higher education for women in Scotland, supporter of the Glasgow Association for the Higher Education of Women and secretary of Queen Margaret College.

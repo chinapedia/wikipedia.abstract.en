@@ -1,1 +1,0 @@
-The 2017 AFF FUTSAL CHAMPIONSHIP will be the 14th edition of the tournament. The tournament will be second AFF Futsal Championship to be held in 2017, with the first one originally meant to be hosted in 2016 to be held in early 2017 .

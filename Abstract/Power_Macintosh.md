@@ -1,1 +1,0 @@
-Apple_Power_Macintosh_G5_Late_2005_02.jpg, the last model of the series.]] The POWER MACINTOSH, later POWER MAC, is a family of personal computers designed, manufactured, and sold by Apple Computer, Inc. as part of its Macintosh brand from March 1994 until August 2006.

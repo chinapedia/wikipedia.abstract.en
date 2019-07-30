@@ -1,1 +1,0 @@
-KR is the ISO 3166-1 alpha-2 and WMO country code for South Korea

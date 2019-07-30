@@ -1,1 +1,0 @@
-SCHEME is a programming language that supports multiple paradigms, including functional and imperative programming.[1] It is one of the three main dialects of Lisp, alongside Common Lisp and Clojure. Unlike Common Lisp, Scheme follows a minimalist design philosophy, specifying a small standard core with powerful tools for language extension.

@@ -2,7 +2,7 @@ The meaning of SPIRITUALITY has developed and expanded over time, and various co
 
 Traditionally, spirituality referred to a religious process of re-formation which "aims to recover the original shape of man", oriented at "the image of God" as exemplified by the founders and sacred texts of the religions of the world. The term was used within early Christianity to refer to a life oriented toward the Holy Spirit and broadened during late medieval times to include mental aspects of life.
 
-In modern times, the term both spread to other religious traditions and broadened to refer to a wider range of experience, including a range of esoteric traditions and religious traditions. Modern usages tend to refer to a subjective experience of a sacred dimension and the "deepest values and meanings by which people live", often in a context separate from organized religious institutions, such as a belief in a supernatural (beyond the known and observable) realm, personal growth, a quest for an ultimate or sacred meaning, religious experience, or an encounter with one's own "inner dimension". Benozzo_Gozzoli_004a.jpg nurtured contemplative spirituality]] Gandhara_Buddha_(tnm).jpeg with a halo, 1st–2nd century AD (or earlier), Greco-Buddhist art of Gandhara.]]
+In modern times, the term both spread to other religious traditions and broadened to refer to a wider range of experience, including a range of esoteric traditions and religious traditions. Modern usages tend to refer to a subjective experience of a sacred dimension and the "deepest values and meanings by which people live", often in a context separate from organized religious institutions, such as a belief in a supernatural (beyond the known and observable) realm, personal growth, a quest for an ultimate or sacred meaning, religious experience, or an encounter with one's own "inner dimension". nurtured contemplative spirituality]] with a halo, 1st–2nd century AD (or earlier), Greco-Buddhist art of Gandhara.]]
 
 
 Etymology
@@ -80,7 +80,7 @@ The Musar movement is a Jewish spiritual movement that has focused on developing
 
 Christianity
 
-Risen_Christ_appears_to_Mary.jpg Catholic spirituality is the spiritual practice of living out a personal act of faith (_fides qua creditur_) following the acceptance of faith (_fides quae creditur_). Although all Catholics are expected to pray together at Mass, there are many different forms of spirituality and private prayer which have developed over the centuries. Each of the major religious orders of the Catholic Church and other lay groupings have their own unique spirituality – its own way of approaching God in prayer and in living out the Gospel.
+Catholic spirituality is the spiritual practice of living out a personal act of faith (_fides qua creditur_) following the acceptance of faith (_fides quae creditur_). Although all Catholics are expected to pray together at Mass, there are many different forms of spirituality and private prayer which have developed over the centuries. Each of the major religious orders of the Catholic Church and other lay groupings have their own unique spirituality – its own way of approaching God in prayer and in living out the Gospel.
 
 Christian mysticism refers to the development of mystical practices and theory within Christianity. It has often been connected to mystical theology, especially in the Catholic and Eastern Orthodox traditions. The attributes and means by which Christian mysticism is studied and practiced are varied and range from ecstatic visions of the soul's mystical union with God to simple prayerful contemplation of Holy Scripture (i.e., _Lectio Divina_).
 
@@ -158,7 +158,7 @@ Different schools of Hinduism encourage different spiritual practices. In Tantri
 
 Sikhism
 
-Raja_Fateh_Singh_Ahluwalia_of_Kapurthala.jpg Raja]]
+Raja]]
 
 Sikhism considers spiritual life and secular life to be intertwined:[52] "In the Sikh Weltanschauung...the temporal world is part of the Infinite Reality and partakes of its characteristics."[53] Guru Nanak described living an "active, creative, and practical life" of "truthfulness, fidelity, self-control and purity" as being higher than a purely contemplative life.[54]
 

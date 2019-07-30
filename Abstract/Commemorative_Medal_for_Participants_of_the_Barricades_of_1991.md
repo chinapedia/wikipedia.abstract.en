@@ -1,1 +1,0 @@
-The COMMEMORATIVE MEDAL FOR PARTICIPANTS OF THE BARRICADES OF 1991 () is a Latvian state award given to people who participated in or supported the actions of those who took part in the defense of Latvia against forces loyal to the Soviet Union during the confrontation in 1991 known as The Barricades.

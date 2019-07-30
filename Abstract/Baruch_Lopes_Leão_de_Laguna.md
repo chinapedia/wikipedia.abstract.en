@@ -1,1 +1,0 @@
-Foto-baruch-lopez-de-leao-laguna.jpg BARUCH LOPES LEÃO DE LAGUNA (16 February 1864, Amsterdam - 19 November 1943, Auschwitz) was a Dutch painter of Portuguese-Jewish ancestry; associated with the Laren School. He is known primarily for portraits, genre scenes and still-lifes of flowers.

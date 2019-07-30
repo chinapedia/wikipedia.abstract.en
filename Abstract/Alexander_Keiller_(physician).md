@@ -1,1 +1,0 @@
-30_Northumberland_Street,_Edinburgh.jpg The_grave_of_Alexander_Keiller,_Warriston_Cemetery.jpg ALEXANDER KEILLER FRSE LLD (1811 – 26 September 1892) was a Scottish physician and gynaecologist who served as President of the Royal College of Physicians of Edinburgh 1875–77.

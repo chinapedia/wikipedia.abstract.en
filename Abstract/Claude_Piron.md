@@ -1,1 +1,0 @@
-CLAUDE PIRON (26 February 1931 – 22 January 2008), also known by the pseudonym JOHÁN VALANO, was a Swiss psychologist, Esperantist, translator, and writer. He worked as a translator for the United Nations from 1956 to 1961 and then for the World Health Organization.

@@ -39,7 +39,7 @@ Foreign aid to Syria in 1997 totaled an estimated US$199 million. The World Bank
 
 External trade and investment
 
-2006Syrian_exports.PNG Despite the mitigation of the severe drought that plagued the region in the late 1990s and the recovery of energy export revenues, Syria's economy faces serious challenges. With almost 60% of its population under the age of 20, unemployment higher than the current 9% is a real possibility unless sustained and strong economic growth takes off.
+Despite the mitigation of the severe drought that plagued the region in the late 1990s and the recovery of energy export revenues, Syria's economy faces serious challenges. With almost 60% of its population under the age of 20, unemployment higher than the current 9% is a real possibility unless sustained and strong economic growth takes off.
 
 Commerce has always been important to the Syrian economy, which benefited from the country's strategic location along major east-west trade routes. Syrian cities boast both traditional industries such as weaving and dried-fruit packing and modern heavy industry. Given the policies adopted from the 1960s through the late 1980s, Syria refused to join the "global economy". In late 2001, however, Syria submitted a request to the World Trade Organization (WTO) to begin the accession process. Syria had been an original contracting party of the former General Agreement on Tariffs and Trade but withdrew in 1951 because of Israel's joining. Major elements of current Syrian trade rules would have to change in order to be consistent with the WTO. In March 2007, Syria signed an Association Agreement with the European Union that would encourage both sides to negotiate a free trade agreement before 2010.
 
@@ -58,7 +58,7 @@ Sectors of the economy
 
 Agriculture
 
-Olive_groves_in_Syria.jpg.]] Agriculture is a high priority in Syria's economic development plans, as the government seeks to achieve food self-sufficiency, increase export earnings, and halt rural out-migration.[37] Thanks to sustained capital investment, infrastructure development, subsidies of inputs, and price supports, Syria has gone from a net importer of many agricultural products to an exporter of cotton, fruits, vegetables, and other foodstuffs. One of the prime reasons for this turnaround has been the government's investment in huge irrigation systems in northern and northeastern Syria.[38] The agriculture sector, as of 2009, employs about 17% of the labor force and generates about 21% of the gross domestic product,[39][40] of which livestock accounted for 16% and fruit and grains for more than 40%.[41]
+.]] Agriculture is a high priority in Syria's economic development plans, as the government seeks to achieve food self-sufficiency, increase export earnings, and halt rural out-migration.[37] Thanks to sustained capital investment, infrastructure development, subsidies of inputs, and price supports, Syria has gone from a net importer of many agricultural products to an exporter of cotton, fruits, vegetables, and other foodstuffs. One of the prime reasons for this turnaround has been the government's investment in huge irrigation systems in northern and northeastern Syria.[38] The agriculture sector, as of 2009, employs about 17% of the labor force and generates about 21% of the gross domestic product,[39][40] of which livestock accounted for 16% and fruit and grains for more than 40%.[41]
 
 In 2015, Syria's main exports included spice seeds ($83.2 million), apples and pears ($53.2 million).[42]
 
@@ -100,7 +100,7 @@ Services accounted for 60.4% of gross domestic product (GDP) in 2017[70] and emp
 
 Banking and finance
 
-BankSharqAndBlueTower.jpg in Damascus]]
+in Damascus]]
 
 Since the start of the Syrian Civil War in 2011, there has been a capital flight to nearby countries. Syria has been subject to sanctions by US, Canada, EU, Arab League and Turkey because of the civil war.[73][74][75] The currency of Syria is the Syrian pound (SYP). The pound's exchange rate has deteriorated significantly, falling from 47 SYP for US$1 in March 2011 to 515 SYP for US$1 in July 2017.
 

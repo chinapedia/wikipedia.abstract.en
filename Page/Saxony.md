@@ -11,7 +11,7 @@ Geography
 
 Administration
 
-Saxony is divided into 10 districts: Landkreise_Sachsen_2012.svg
+Saxony is divided into 10 districts:
 
   1. Bautzen (BZ)
   2. Erzgebirgskreis (ERZ)
@@ -36,7 +36,7 @@ The Erzgebirgskreis district includes the Ore Mountains, and the Sächsische Sch
 
 Rivers
 
-Sachsen2.gif There are numerous rivers in Saxony. The Elbe is the most dominant one. Oder and Neiße define the border between Saxony and Poland. Other rivers include the Mulde and the Weiße Elster.
+There are numerous rivers in Saxony. The Elbe is the most dominant one. Oder and Neiße define the border between Saxony and Poland. Other rivers include the Mulde and the Weiße Elster.
 
 Largest cities
 
@@ -134,7 +134,7 @@ Parts of Saxony were possibly under the control of the Germanic King Marobod dur
 
 Duchy of Saxony
 
-Heinrich_der_Löwe_und_Mathilde_von_England.jpg (with his wife Matilda of England, Duchess of Saxony) is crowned as Duke of Saxony]]
+(with his wife Matilda of England, Duchess of Saxony) is crowned as Duke of Saxony]]
 
 The first medieval DUCHY OF SAXONY was a late Early Middle Ages "Carolingian stem duchy", which emerged around the start of the 8th century AD and grew to include the greater part of Northern Germany, what are now the modern German states of Bremen, Hamburg, Lower Saxony, North Rhine-Westphalia, Schleswig-Holstein and Saxony-Anhalt. The Saxons converted to Christianity during this period.
 
@@ -150,7 +150,7 @@ However, Sigismund, King of the Romans, had already granted Margrave Frederick I
 
 Foundation of the second Saxon state
 
-Dresden_Fuerstenzug_2.jpg, as depicted on a frieze on the outside wall of Dresden palace]] Schloss_Moritzburg_Winter_JM.jpg north of Dresden]] Dresden._Zwinger_&_Sophienkirche._-_Detroit_Publishing_Co.jpg in Dresden, 1895]] Saxony-Wittenberg, in modern Saxony-Anhalt, became subject to the margravate of Meissen, ruled by the Wettin dynasty in 1423. This established a new and powerful state, occupying large portions of the present Free State of Saxony, Thuringia, Saxony-Anhalt and Bavaria (Coburg and its environs). Although the centre of this state was far to the southeast of the former Saxony, it came to be referred to as UPPER SAXONY and then simply SAXONY, while the former Saxon territories were now known as LOWER SAXONY.
+, as depicted on a frieze on the outside wall of Dresden palace]] north of Dresden]] in Dresden, 1895]] Saxony-Wittenberg, in modern Saxony-Anhalt, became subject to the margravate of Meissen, ruled by the Wettin dynasty in 1423. This established a new and powerful state, occupying large portions of the present Free State of Saxony, Thuringia, Saxony-Anhalt and Bavaria (Coburg and its environs). Although the centre of this state was far to the southeast of the former Saxony, it came to be referred to as UPPER SAXONY and then simply SAXONY, while the former Saxon territories were now known as LOWER SAXONY.
 
 In 1485, Saxony was split. A collateral line of the Wettin princes received what later became Thuringia and founded several small states there (see _Ernestine duchies_). The remaining Saxon state became still more powerful and was known in the 18th century for its cultural achievements, although it was politically weaker than Prussia and Austria, states which oppressed Saxony from the north and south, respectively.
 
@@ -170,7 +170,7 @@ In 1854 Frederick Augustus II's brother, King John of Saxony, succeeded to the t
 
 20th century
 
-Fotothek_df_ps_0000010_Blick_vom_Rathausturm.jpg. After World War II, over 90 percent of the city centre was destroyed.]] Universität_Leipzig_-_Paulinum_–_Aula_und_Universitätskirche_St._Pauli_(Juli_2012).JPG]] After King Frederick Augustus III of Saxony abdicated on 13 November 1918, Saxony, remaining a constituent state of Germany (Weimar Republic), became the Free State of Saxony under a new constitution enacted on 1 November 1920. In October 1923 the federal government under Chancellor Gustav Stresemann overthrew the legally elected SPD-Communist coalition government of Saxony. The state retained its name and borders during the Nazi era as a (Gau Saxony), but lost its quasi-autonomous status and its parliamentary democracy.
+. After World War II, over 90 percent of the city centre was destroyed.]] ]] After King Frederick Augustus III of Saxony abdicated on 13 November 1918, Saxony, remaining a constituent state of Germany (Weimar Republic), became the Free State of Saxony under a new constitution enacted on 1 November 1920. In October 1923 the federal government under Chancellor Gustav Stresemann overthrew the legally elected SPD-Communist coalition government of Saxony. The state retained its name and borders during the Nazi era as a (Gau Saxony), but lost its quasi-autonomous status and its parliamentary democracy.
 
 As World War II drew to its end, U.S. troops under General George Patton occupied the western part of Saxony in April 1945, while Soviet troops occupied the eastern part. That summer, the entire state was handed over to Soviet forces as agreed in the London Protocol of September 1944. Britain, the US, and the USSR then negotiated Germany's future at the Potsdam Conference. Under the Potsdam Agreement, all German territory East of the Oder-Neisse line was annexed by Poland and the Soviet Union, and, unlike in the aftermath of World War I, the annexing powers were allowed to expel the inhabitants. During the following three years, Poland and Czechoslovakia forcibly expelled German-speaking people from their territories, and some of these expellees came to Saxony. Only a small area of Saxony lying east of the Neisse River and centred around the town of Reichenau (now called Bogatynia), was annexed by Poland. The Soviet Military Administration in Germany (SVAG) merged that very small part of the Prussian province of Lower Silesia that remained in Germany with Saxony.
 
@@ -201,7 +201,7 @@ After World War II, Saxony was incorporated into East Germany which pursued a po
 
 Languages
 
-Bautzen_Ortschild.jpg / Budyšin in German and Upper Sorbian; many place names in eastern Saxony are derived from Sorbian.]]
+/ Budyšin in German and Upper Sorbian; many place names in eastern Saxony are derived from Sorbian.]]
 
 The most common patois spoken in Saxony are combined in the group of "Thuringian and Upper Saxon dialects". Due to the inexact use of the term "Saxon dialects" in colloquial language, the Upper Saxon attribute has been added to distinguish it from Old Saxon and Low Saxon. Other German dialects spoken in Saxony are the dialects of the Erzgebirge (Ore Mountains), which have been affected by Upper Saxon dialects, and the dialects of the Vogtland, which are more affected by the East Franconian languages.
 
@@ -214,8 +214,6 @@ Saxony has four large universities and five _Fachhochschulen_ or Universities of
 
 Geography
 
-Sachsen.gif
-
 
 Tourism
 
@@ -226,11 +224,11 @@ File:Dresden-nightpanorama-dri.jpg%7CDresden is one of the most visited cities i
 
 Politics
 
-Michael_Kretschmer-v2_Pawel-Sosnowski_-_Querformat_(cropped).jpg A Minister President heads the government of Saxony. Michael Kretschmer has been Minister President since 13 December 2017. See List of Ministers-President of Saxony for a full listing.
+A Minister President heads the government of Saxony. Michael Kretschmer has been Minister President since 13 December 2017. See List of Ministers-President of Saxony for a full listing.
 
 2014 state election
 
-< 2009  Flag_of_Saxony.svg  NEXT > |- !style="background-color:#E9E9E9" align=left colspan="2" rowspan="2" width=400 |Party !style="background-color:#E9E9E9" align=center colspan="3" |Popular vote !style="background-color:#E9E9E9" align=center colspan="3" |Seats |- !style="background-color:#E9E9E9" align=right width=60|Votes !style="background-color:#E9E9E9" align=right width=40|% !style="background-color:#E9E9E9" align=right width=50|+/– !style="background-color:#E9E9E9" align=right width=30|Seats !style="background-color:#E9E9E9" align=right width=30|+/– |-
+< 2009    NEXT > |- !style="background-color:#E9E9E9" align=left colspan="2" rowspan="2" width=400 |Party !style="background-color:#E9E9E9" align=center colspan="3" |Popular vote !style="background-color:#E9E9E9" align=center colspan="3" |Seats |- !style="background-color:#E9E9E9" align=right width=60|Votes !style="background-color:#E9E9E9" align=right width=40|% !style="background-color:#E9E9E9" align=right width=50|+/– !style="background-color:#E9E9E9" align=right width=30|Seats !style="background-color:#E9E9E9" align=right width=30|+/– |-
 
 _Christlich Demokratische Union Deutschlands_ – CDU|| 645,344 || 39.4 || 0.8 || 59 || 1 |-
 _Die Linke_|| 309,568 || 18.9 || 1.7 || 27 || 2 |-

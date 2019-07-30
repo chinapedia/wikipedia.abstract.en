@@ -1,1 +1,0 @@
-The 1972 BROWNLOW MEDAL was the 45th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Len Thompson of the Collingwood Football Club won the medal by polling twenty-five votes during the 1972 VFL season.[2]

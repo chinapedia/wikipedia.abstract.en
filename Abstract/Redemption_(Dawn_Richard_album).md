@@ -1,1 +1,0 @@
-_REDEMPTION_, the physical edition is labeled _REDEMPTIONHEART_, is the fourth studio album by American singer Dawn Richard, which was released on November 18, 2016, by Local Action / Our Dawn Entertainment.

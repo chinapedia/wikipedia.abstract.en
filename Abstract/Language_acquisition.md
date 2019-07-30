@@ -1,1 +1,0 @@
-LANGUAGE ACQUISITION is the process by which humans acquire the capacity to perceive and comprehend language (in other words, gain the ability to be aware of language and to understand it), as well as to produce and use words and sentences to communicate.

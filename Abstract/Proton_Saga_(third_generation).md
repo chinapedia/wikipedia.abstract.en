@@ -1,1 +1,0 @@
-The THIRD GENERATION PROTON SAGA, codenamed P2-13A is an A-segment saloon engineered by Malaysian automobile manufacturer Proton. It was launched on 28 September 2016 as the successor to the second generation Proton Saga.

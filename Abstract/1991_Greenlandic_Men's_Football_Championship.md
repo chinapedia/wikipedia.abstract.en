@@ -1,1 +1,0 @@
-The 1991 GREENLANDIC MEN'S FOOTBALL CHAMPIONSHIP was the 21st edition of the Greenlandic Men's Football Championship. The final round was held in Sisimiut. It was won by Kissaviarsuk-33 for the sixth time in its history.[1]

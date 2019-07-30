@@ -1,1 +1,0 @@
-Grave_of_Sara_Carter_Bayes_and_children_at_Mount_Vernon_United_Methodist_Church_at_Maces_Springs,_Virginia_now_Hiltons,_Virginia.jpg in Hiltons, Virginia]] JOSEPH DOUGHERTY "JOE" CARTER (February 27, 1927 – March 2, 2005) was a member of the Carter Family, an American country/folk music group.

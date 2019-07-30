@@ -1,1 +1,0 @@
-YSGOL GYFUN ABERAERON is a bilingual comprehensive school for pupils aged between 11 and 18 years.[1] The school is situated in the town of Aberaeron in Ceredigion, Wales. The school had 612 pupils on roll in 2015.[2]

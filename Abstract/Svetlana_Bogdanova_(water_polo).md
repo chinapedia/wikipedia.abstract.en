@@ -1,1 +1,0 @@
-'''Svetlana Viktorovna Bogdanova ''' (Светлана Викторовна Богданова, born 3 October 1976) is a Russian female water polo player. She was a member of the Russia women's national water polo team, playing as a driver.

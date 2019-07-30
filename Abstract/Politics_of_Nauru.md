@@ -1,1 +1,0 @@
-Nauru_Government.jpg

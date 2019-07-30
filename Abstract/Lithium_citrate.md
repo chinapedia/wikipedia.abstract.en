@@ -1,1 +1,0 @@
-LITHIUM CITRATE (Li₃C₆H₅O₇) is a chemical compound of lithium and citrate that is used as a mood stabilizer in psychiatric treatment of manic states and bipolar disorder[1][2]. There is extensive pharmacology of lithium, the active component of this salt.

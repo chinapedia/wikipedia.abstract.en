@@ -1,1 +1,0 @@
-RENATO "SONNY" LEVI RDI (9 September 1926 – 12 November 2016) was an English, (of Italian heritage), boat designer known for creating powerboats for the Aga Khan, the Shah of Iran, and Richard Branson.

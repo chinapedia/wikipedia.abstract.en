@@ -1,1 +1,0 @@
-County_Hall,_Taunton.jpg COUNTY HALL in Taunton, Somerset is the seat of Somerset County Council. It is a large complex in the municipal neo-Georgian style designed by E. Vincent Harris and listed at Grade II.[1]

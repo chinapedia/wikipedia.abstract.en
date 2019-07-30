@@ -1,1 +1,0 @@
-_MARTHA PEAKE: A NOVEL OF THE REVOLUTION_ is a 2000 novel by the British author Patrick McGrath.[1] It tells the story of the grotesquely crippled Harry Peake and his daughter Martha, their involvement with the mysterious anatomist Lord Drogo, the tragic events that separate them, and the subsequent flight of Martha to America at the dawning of the Revolution.[2]

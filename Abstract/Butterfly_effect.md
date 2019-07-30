@@ -1,1 +1,0 @@
-Lorenz_attractor_yb.svg for values ρ=28, σ = 10, β = 8/3. The butterfly effect or sensitive dependence on initial conditions is the property of a dynamical system that, starting from any of various arbitrarily close alternative initial conditions on the attractor, the iterated points will become arbitrarily spread out from each other.]]

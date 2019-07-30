@@ -1,1 +1,0 @@
-The 1998 WORLD POLO CHAMPIONSHIP was played in Santa Barbara, California, United States during August 1998 and was won by Argentina. This event brought together six teams from around the world in the Santa Barbara Polo & Racquet Club and San Diego Polo Club.

@@ -1,1 +1,0 @@
-IRA GERSHWIN (born ISRAEL GERSHOWITZ, December 6, 1896 – August 17, 1983) was an American lyricist who collaborated with his younger brother, composer George Gershwin, to create some of the most memorable songs of the 20th Century.[1]

@@ -13,8 +13,6 @@ The original Segway models featured three speed settings: , with faster turning,
 
 In August 2006 Segway discontinued all previous models and introduced the i2 and x2 products which were steered by leaning the handlebars to the right or left,[15] had a maximum speed of from a pair of Brushless DC electric motor with regenerative braking and a range of up to , depending on terrain, riding style and state of the batteries.[16] Recharging took 8–10 hours. The i2 and x2 also introduced the wireless InfoKey which could show mileage and a trip odometer, as well as put the Segway into Security mode, which locked the wheels and set off an alarm if it was moved, and could also be used to turn on the PT from up to away.[17]
 
-Segway_Polizei_4.jpg
-
 Versions of the product prior to 2011 included (in order of release):[18]
 
 -   Segway i167 (2001 reveal, 2002 shipped)
@@ -59,7 +57,7 @@ Usage
 
     _See also_: Personal transporter#International regulation
 
-FlorenceSegwayTour.jpg, Italy]] In 2011 the Segway i2 was being marketed to the emergency medical services community.[30] The special police forces trained to protect the public during the 2008 Summer Olympics used the Segway for mobility.[31]
+, Italy]] In 2011 the Segway i2 was being marketed to the emergency medical services community.[30] The special police forces trained to protect the public during the 2008 Summer Olympics used the Segway for mobility.[31]
 
 The Segway miniPro is also available to be used as the mobility section of a robot.[32]
 

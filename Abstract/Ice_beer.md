@@ -1,1 +1,0 @@
-ICE BEER is a Canadian term for pale lager beer which have undergone some degree of fractional freezing during production. These brands generally have higher alcohol content than typical beer and generally have a low price relative to their alcohol content.[1]

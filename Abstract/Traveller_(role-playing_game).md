@@ -1,1 +1,0 @@
-_TRAVELLER_ is a science fiction role-playing game, first published in 1977 by Game Designers' Workshop. Marc W. Miller designed _Traveller_ with help from Frank Chadwick, John Harshman, and Loren K. Wiseman.[1]

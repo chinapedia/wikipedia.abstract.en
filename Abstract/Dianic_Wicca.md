@@ -1,1 +1,0 @@
-DIANIC WICCA, also known as DIANIC WITCHCRAFT,[1] is a neopagan religion female-centered goddess ritual and tradition. While some adherents identify as Wiccan, it differs from most traditions of Wicca in that only goddesses are honored (whereas most Wiccan traditions honor both female and male deities).[2][3]

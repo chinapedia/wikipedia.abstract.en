@@ -1,1 +1,0 @@
-Lubeck_Trave.jpg LÜBECK (, ) is a city in Schleswig-Holstein, northern Germany, and one of the major ports of Germany. On the river Trave, it was the leading city of the Hanseatic League, and because of its extensive Brick Gothic architecture, it is listed by UNESCO as a World Heritage Site. In 2015, it had a population of 218,523.

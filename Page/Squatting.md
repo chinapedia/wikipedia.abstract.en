@@ -1,5 +1,3 @@
-CircleN.svg
-
 SQUATTING is the action of occupying an abandoned or unoccupied area of land or a building, usually residential, that the SQUATTER does not own, rent or otherwise have lawful permission to use.
 
 Author Robert Neuwirth suggested in 2004 that there were one billion squatters globally.[1] Yet, according to Kesia Reeve, "squatting is largely absent from policy and academic debate and is rarely conceptualised, as a problem, as a symptom, or as a social or housing movement."[2]
@@ -73,8 +71,6 @@ In Thailand, although evictions have reduced their visibility or numbers in urba
 
 India
 
-Street_dwellers_in_Mumbai.jpeg
-
 In Mumbai, there are an estimated 10 to 12 million inhabitants, and six million of them are squatters. The squatters live in a variety of ways. Some possess two- or three-story homes built out of brick and concrete which they have inhabited for years. Geeta Nagar is a squatter village based beside the Indian Navy compound at Colaba. Squatter Colony in Malad East has existed since 1962, and now, people living there pay a rent to the city council of 100 rupees a month. Dharavi is a community of one million squatters. The stores and factories situated there are mainly illegal and so are unregulated, but it is suggested that they do over $1 million in business every day.[20]
 
 Other squatters are pavement dwellers, with very few possessions.
@@ -106,7 +102,7 @@ Atopya[29] was squatted in Ankara in June 2014 by anarchists, who claimed it was
 
 Europe
 
-Graffiti_con_simbolo_okupa_malaga.jpg, Spain]] Chien-Rouge-p1020706.jpg, a squat held in the old hospital]]
+, Spain]] , a squat held in the old hospital]]
 
 In many European countries, there are squatted houses used as residences and also larger squatted projects where people pursue social and cultural activities. An examples of the latter is a former military barracks called Metelkova in Slovenia.
 
@@ -122,13 +118,13 @@ Starting from December 2012, Greek Police initiated extensive raids in a number 
 
 Squatting in Moldova started with Centro 73 in Chişinău in September 2010. This project was evicted soon after.[41]
 
-Rozbrat_rowerownia.jpg]] The oldest squat in Poland, Rozbrat, was created in 1994 in Poznań. There are also squats in Białystok, Gdańsk, Gliwice, Warsaw and Wrocław.[42]
+]] The oldest squat in Poland, Rozbrat, was created in 1994 in Poznań. There are also squats in Białystok, Gdańsk, Gliwice, Warsaw and Wrocław.[42]
 
 Geneva in Switzerland had 160 buildings illegally occupied and more than 2,000 squatters, in the middle of the 1990s.[43] The RHINO (_Retour des Habitants dans les Immeubles Non-Occupés,_ in English: _Return of Inhabitants to Non-Occupied Buildings_) was a 19-year-long squat in Geneva. It occupied two buildings on the Boulevard des Philosophes, a few blocks away from the main campus of the University of Geneva. The RHINO organisation often faced legal troubles, and Geneva police evicted the inhabitants on July 23, 2007.[44] There were large riots in Zürich when the Binz occupation was evicted in 2013. The squatters moved to another building.[45]
 
 Germany
 
-Raeumung_Topf_und_Soehne-09.jpg squat, 16 April 2009]] In the 1970s, squatting in West German cities led to "a self-confident urban counterculture with its own infrastructure of newspapers, self-managed collectives and housing cooperatives, feminist groups, and so on, which was prepared to intervene in local and broader politics".[46] The Autonomen movement protected squats against eviction and participated in radical direct action.
+squat, 16 April 2009]] In the 1970s, squatting in West German cities led to "a self-confident urban counterculture with its own infrastructure of newspapers, self-managed collectives and housing cooperatives, feminist groups, and so on, which was prepared to intervene in local and broader politics".[46] The Autonomen movement protected squats against eviction and participated in radical direct action.
 
 After the German reunification, many buildings were vacated due to the demise of former state-run enterprises and migration to the western parts of Germany, some of which were then occupied by squatters. In Berlin, the now-legalised squats are in desirable areas such as Mitte and Prenzlauer Berg. Before the reunification, squats in Berlin were mostly located in former West Berlin's borough of Kreuzberg. The squats were mainly for residential and social use. Squatting became known by the term _instandbesetzen_, from _instandsetzen_ ("renovating") and _besetzen_ ("occupying").[47]
 
@@ -139,8 +135,6 @@ Despite being illegal, squats exist in many of the larger cities. Examples are A
 Squatting can also take place for campaigning purposes, such as the Anatopia project, which protested against a Mercedes-Benz test track.
 
 Iceland
-
-Reykjavik_Squat,_Iceland_(3446319888).jpg
 
 In Reykjavík, the capital of Iceland, there is a small tradition of squatting. In 1919, anarchists occupied a building and were quickly evicted.[49]
 
@@ -168,7 +162,7 @@ Since 2015 the building which once housed Neary's Hotel on Parnell St in Dublin'
 
 Italy
 
-Squatting_Graffiti_in_Rome.jpg In Italy, squatting has no legal basis, but there are many squats used as social centres. The first occupations of abandoned buildings began in 1968 with the left-wing movements Lotta Continua and Potere Operaio. Out of the breakup of these two movements was born Autonomia Operaia, which was composed of a Marxist–Leninist and Maoist wing and also an anarchist and more libertarian one. These squats had Marxist-Leninist (but also Stalinist and Maoist) ideals and came from the left wing of Autonomia. The militants of the Italian armed struggle (the New Red Brigades) were connected to these squats.[71] There are many left-wing self-organised occupied projects across Italy such as Cascina Torchiera in Milan and Forte Prenestino in Rome.
+In Italy, squatting has no legal basis, but there are many squats used as social centres. The first occupations of abandoned buildings began in 1968 with the left-wing movements Lotta Continua and Potere Operaio. Out of the breakup of these two movements was born Autonomia Operaia, which was composed of a Marxist–Leninist and Maoist wing and also an anarchist and more libertarian one. These squats had Marxist-Leninist (but also Stalinist and Maoist) ideals and came from the left wing of Autonomia. The militants of the Italian armed struggle (the New Red Brigades) were connected to these squats.[71] There are many left-wing self-organised occupied projects across Italy such as Cascina Torchiera in Milan and Forte Prenestino in Rome.
 
 Bussana Vecchia is a ghost town in Liguria which was abandoned in 1887 following an earthquake and subsequently squatted in the 1960s.
 
@@ -176,13 +170,11 @@ There are also far-right social centres such as CasaPound.
 
 Netherlands
 
-Squattingban.svg
-
 The Dutch use the term _krakers_ to refer to people who squat houses with the aim of living in them (as opposed to people who break into buildings for the purpose of vandalism or theft).[72] Squatting was criminalised in 2010.
 
 There are still many residential squats in Dutch cities. There are also some squats in the countryside such as a squatted village called Ruigoord near Amsterdam. Fort Pannerden (a military fort built in 1869) was occupied in 2000 by people concerned about the state of the building. It was evicted on November 8, 2006, by a massive police operation which used military machinery and cost one million euros.[73] The squatters then re-squatted the fort on November 26 and have since made a deal with the local council which owns the fort.[74][75] The deal states that the squatters will receive a large piece of land near the fort to start a community in the rural area in between the city of Nijmegen and Arnhem. In exchange, the fort was handed over to local authorities, who will turn it into a museum, with help provided by the squatters that used to live in Fort Pannerden.
 
-Het_Poortgebouw_(west).jpg in Rotterdam.]]
+in Rotterdam.]]
 
 In the past, squats sometimes went through a process of legalisation. This is the case with the Poortgebouw in Rotterdam, which was squatted in 1980. In 1982, the inhabitants agreed to pay rent to the city council.[76] The ORKZ (:nl:Oude Rooms Katholieke Ziekenhuis) in Groningen, squatted in 1979, is an old Roman Catholic hospital, which was declared legal in the 1980s. In Amsterdam, OCCII, OT301 and Vrankrijk are examples of legalised spaces. The Grote Broek in Nijmegen was squatted in 1984 and legalised in the 2000s. The Vrijplaats Koppenhinksteeg in Leiden was occupied in 1968 and eventually evicted in 2010. There are also squats which refuse to legalise such as Anarres in Dordrecht (evicted in 2009), De Blauwe Aanslag in The Hague (evicted 2003), Het Slaakhuis (evicted) in Rotterdam, ADM (evicted) in Amsterdam and the Landbouwbelang and Villa Vendex in Maastricht.
 
@@ -200,7 +192,7 @@ Squatting of empty lots with shanty towns became popular in Spain in the 1960s a
 
 Okupa
 
-ParcGuellOkupas.jpg, overlooking Barcelona – the _Bloques Fantasmas_ close to kasa de la Muntanya]] Feminist_squat_in_spain.jpg A feminist squat in Madrid.]] Related to the anarchist movement, _okupas_ support the ideal of workers' self-management and create social centers, such as Patio Maravillas in Madrid, which carry out various grassroots activities. The _okupa_ movement represents a highly politicized form of squatting, so much so that participants often claim they live in squats as a form of political protest first and foremost.[88] The movement is involved in various other social struggles, including the alter-globalization movement. In 1996, during José María Aznar's presidency, the first specific legislation against squatting was passed and became the prelude to many squat evictions. In the barrio of Lavapiés in Madrid, the Eskalera Karakola was a feminist self-managed squat, which was active from 1996 to 2005 and participated in the nextGENDERation network.[89] Other examples are the Escuela Popular de Prosperidad (La Prospe) o Minuesa.
+, overlooking Barcelona – the _Bloques Fantasmas_ close to kasa de la Muntanya]] A feminist squat in Madrid.]] Related to the anarchist movement, _okupas_ support the ideal of workers' self-management and create social centers, such as Patio Maravillas in Madrid, which carry out various grassroots activities. The _okupa_ movement represents a highly politicized form of squatting, so much so that participants often claim they live in squats as a form of political protest first and foremost.[88] The movement is involved in various other social struggles, including the alter-globalization movement. In 1996, during José María Aznar's presidency, the first specific legislation against squatting was passed and became the prelude to many squat evictions. In the barrio of Lavapiés in Madrid, the Eskalera Karakola was a feminist self-managed squat, which was active from 1996 to 2005 and participated in the nextGENDERation network.[89] Other examples are the Escuela Popular de Prosperidad (La Prospe) o Minuesa.
 
 As of 2007, there were approximately 200 occupied houses in Barcelona. At least 45 of these, as Infousurpa, a collective event calendar, mentions, are used as social and cultural centers – so-called "open houses".[90] A number of popular rock groups have come out of this kind of venue, such as Sin Dios, Extremoduro, Kolumna Durruti, Refugio and Platero y Tú in Madrid and Ojos de Brujo and Gadjo in Barcelona. In 2014, the unsuccessful attempts to evict the long-running social center of Can Vies provoked major riots.[91] Another long-running squat is Can Masdeu.
 
@@ -214,7 +206,7 @@ File:occupied house in barcelona 1.jpg|_Kasa de la Muntanya_, Barcelona-Vallcarc
 
 United Kingdom
 
-London_Social_Centre_Russell_Square_squat_1_20060329.jpg]]
+]]
 
 England
 
@@ -274,7 +266,7 @@ In Chile the correct term used for the squatting is the similar term used in Spa
 
 Brazil
 
-RiodeJaneiro-Favela.jpg In Brazil, some of the squatter communities are called favelas, and a famous example is Rocinha in Rio de Janeiro, estimated to be home of 100,000 people. Favelas are mostly inhabited by the poorest strata, and usually lack much infrastructure and public services, but in some cases, already have reached the structure needed for a city. They are equivalent to slums or shanty towns, and typically occupy unused land (instead of unused or abandoned buildings). There were 25 million people living in favelas all over Brazil, as of 2004.[127]
+In Brazil, some of the squatter communities are called favelas, and a famous example is Rocinha in Rio de Janeiro, estimated to be home of 100,000 people. Favelas are mostly inhabited by the poorest strata, and usually lack much infrastructure and public services, but in some cases, already have reached the structure needed for a city. They are equivalent to slums or shanty towns, and typically occupy unused land (instead of unused or abandoned buildings). There were 25 million people living in favelas all over Brazil, as of 2004.[127]
 
 In São Paulo the largest favela is Heliópolis, with over 200,000 inhabitants. However, its occupied area has been officially recognized as a regular neighborhood of the city. There are also a number of squatter buildings in the inner city, the most famous of which was a 22-story building called Prestes Maia, whose inhabitants were finally evicted by the police in 2007 after a long conflict with the city administration. Inspired both by this movement and increasing property speculation and gentrification, various occupations in buildings and unoccupied areas in big cities, led by groups such as the Homeless Workers' Movement (MTST) or Downtown Roofless Movement (MSTC).[128]
 

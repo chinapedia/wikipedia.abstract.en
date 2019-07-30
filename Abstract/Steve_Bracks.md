@@ -1,1 +1,0 @@
-STEPHEN PHILLIP BRACKS AC (born 15 October 1954) is a former Australian politician and the 44th Premier of Victoria. He first won the electoral district of Williamstown in 1994 for the Labor Party and was party leader and premier from 1999 to 2007.

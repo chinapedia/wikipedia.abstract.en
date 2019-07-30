@@ -1,1 +1,0 @@
-FERAL AUDIO was an independent podcast network and production company. Founded in 2012 as a podcasting collective by Dustin Marshall with the support of Starburns Industries, Feral Audio LLC was formed in January 2016 as a partnership between Dustin Marshall, Jason Smith, Dan Harmon, and Starburns Industries.

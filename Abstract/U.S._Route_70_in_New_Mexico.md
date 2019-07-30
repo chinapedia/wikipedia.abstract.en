@@ -1,1 +1,0 @@
-U.S. ROUTE 70 (US 70) is a part of the U.S. Highway System that travels from Globe, Arizona, east to Atlantic, North Carolina. In the U.S. state of New Mexico, US 70 extends from the Arizona state line south of Virden and ends at the Texas state line in Texico.

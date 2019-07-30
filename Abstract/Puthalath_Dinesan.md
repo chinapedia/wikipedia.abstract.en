@@ -1,1 +1,0 @@
-PUTHALATH DINESAN (born 31 December 1969) is an Indian politician from Kerala who is current Political Secretary to Chief minister of Kerala Pinarayi Vijayan. He is a member of the Communist Party of India(Marxist) Kerala State committee.[1]

@@ -1,1 +1,0 @@
-ROBERT FREDERICK "FRED" HERBERT (1887 – June 8, 1955) was a Canadian-born jockey, sometimes given the sobriquet "Brusher". From a riding career that lasted fifty years until he retired in 1947, his first big race win came aboard Donau in the 1910 Kentucky Derby.[1] [2]

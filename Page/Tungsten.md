@@ -49,8 +49,6 @@ The name "tungsten" (from the Swedish _tung sten_, "heavy stone") is used in Eng
 
 Occurrence
 
-Wolframite_from_Portugal.jpg
-
 Tungsten is found mainly in the minerals wolframite (iron–manganese tungstate (Fe,Mn)WO₄, which is a solid solution of the two minerals ferberite FeWO₄, and hübnerite MnWO₄) and scheelite (calcium tungstate (CaWO₄). Other tungsten minerals range in their level of abundance from moderate to very rare, and have almost no economical value.
 
 
@@ -71,7 +69,7 @@ Organotungsten compounds are numerous and also span a range of oxidation states.
 
 Production
 
-A_full_trolly_coming_from_one_of_the_galleries_(27072015764).jpg forms an important part of the country's economy.]]
+forms an important part of the country's economy.]]
 
 The world's reserves of tungsten are 3,200,000 tonnes; they are mostly located in China (1,800,000 t), Canada (290,000 t),[49] Russia (160,000 t), Vietnam (95,000 t) and Bolivia. As of 2017, China, Vietnam and Russia are the leading suppliers with 79,000, 7,200 and 3,100 tonnes, respectively. Canada had ceased production in late 2015 due the closure of its sole tungsten mine. Meanwhile Vietnam had significantly increased its output in the 2010s, owing to the major optimization of its domestic refining operations, and overtook Russia and Bolivia.[50]
 
@@ -96,7 +94,7 @@ Tungsten is not traded as a futures contract and cannot be tracked on exchanges 
 
 Applications
 
-Tungsten_filament_in_halogen_lamp.JPG]] Tungsten_ring-cropbright.jpg ring (jewelry)]] Approximately half of the tungsten is consumed for the production of hard materials – namely tungsten carbide – with the remaining major use being in alloys and steels. Less than 10% is used in other chemical compounds.[59] Because of the high ductile-brittle transition temperature of tungsten, its products are conventionally manufactured through powder metallurgy, spark plasma sintering, chemical vapor deposition, hot isostatic pressing, and thermoplastic routes. A more flexible manufacturing alternative is selective laser melting, which allows creating complex three-dimensional shapes.[60]
+]] ring (jewelry)]] Approximately half of the tungsten is consumed for the production of hard materials – namely tungsten carbide – with the remaining major use being in alloys and steels. Less than 10% is used in other chemical compounds.[59] Because of the high ductile-brittle transition temperature of tungsten, its products are conventionally manufactured through powder metallurgy, spark plasma sintering, chemical vapor deposition, hot isostatic pressing, and thermoplastic routes. A more flexible manufacturing alternative is selective laser melting, which allows creating complex three-dimensional shapes.[60]
 
 Hard materials
 
@@ -140,7 +138,7 @@ Gold-plated tungsten is available commercially from China (the main source of tu
 
 Electronics
 
-Because it retains its strength at high temperatures and has a high melting point, elemental tungsten is used in many high-temperature applications,[89] such as light bulb, cathode-ray tube, and vacuum tube filaments, heating elements, and rocket engine nozzles.[90] Its high melting point also makes tungsten suitable for aerospace and high-temperature uses such as electrical, heating, and welding applications, notably in the gas tungsten arc welding process (also called tungsten inert gas (TIG) welding). TIG_torch_breakdown.JPG torch]]
+Because it retains its strength at high temperatures and has a high melting point, elemental tungsten is used in many high-temperature applications,[89] such as light bulb, cathode-ray tube, and vacuum tube filaments, heating elements, and rocket engine nozzles.[90] Its high melting point also makes tungsten suitable for aerospace and high-temperature uses such as electrical, heating, and welding applications, notably in the gas tungsten arc welding process (also called tungsten inert gas (TIG) welding). torch]]
 
 Because of its conductive properties and relative chemical inertness, tungsten is also used in electrodes, and in the emitter tips in electron-beam instruments that use field emission guns, such as electron microscopes. In electronics, tungsten is used as an interconnect material in integrated circuits, between the silicon dioxide dielectric material and the transistors. It is used in metallic films, which replace the wiring used in conventional electronics with a coat of tungsten (or molybdenum) on silicon.[91]
 

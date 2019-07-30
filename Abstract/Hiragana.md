@@ -1,1 +1,0 @@
-is a Japanese syllabary, one component of the Japanese writing system, along with _katakana_, _kanji_, and in some cases _rōmaji_ (Latin script). It is a phonetic lettering system. The word _hiragana_ literally means "ordinary" or "simple" kana ("simple" originally as contrasted with kanji).[1][2]

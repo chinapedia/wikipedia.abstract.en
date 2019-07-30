@@ -1,1 +1,0 @@
-Tara_Hernandez_on_theCUBE.jpg

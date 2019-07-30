@@ -1,1 +1,0 @@
-PAULINE NG (born 1 December 1985) is a Singaporean entrepreneur who founded Porcelain, a successful skincare business in 2009. In June 2016, she was the youngest winner of the inaugural Teochew Entrepreneur Award in 2016 presented by DPM Tharman Shamugaratnam, after being selected as one of the BBC's "30 under 30" women in November 2015.[1][2]

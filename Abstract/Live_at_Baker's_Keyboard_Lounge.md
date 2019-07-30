@@ -1,1 +1,0 @@
-_LIVE AT BAKER'S KEYBOARD LOUNGE_ is a live album by saxophonist James Carter with guests David Murray, Johnny Griffin and Franz Jackson recorded at Baker's Keyboard Lounge in 2001, and released on the Warner Bros. label in 2004.[1]

@@ -1,1 +1,0 @@
-MUA PEOPLE (Mualgal) alternatively the Moa, are an indigenous Australian Torres Strait Island people based on Moa(Banks Island). According to Alfred Cort Haddon their lifestyle, culture, myths and kinship networks overlapped closely with those of the Kaurareg on neighbouring Muralag.

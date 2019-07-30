@@ -1,1 +1,0 @@
-OAK GROVE HIGH SCHOOL is a public high school in Midway, North Carolina, which opened in August 2017. The school is a part of the Davidson County Schools system, and is to help with the overcrowded Ledford Senior and North Davidson High Schools.

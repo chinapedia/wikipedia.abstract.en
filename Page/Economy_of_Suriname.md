@@ -3,7 +3,7 @@ Suriname was ranked the 124th safest investment destination in the world in the 
 
 Bauxite
 
-En_explore_explore_tree_map_hs_export_sur_all_show_2012.png The backbone of the ECONOMY OF SURINAME is the export of aluminium oxide (alumina) and small amounts of aluminium produced from bauxite mined in the country. In 1999, the aluminium smelter at Paranam was closed[2] and mining at Onverdacht ceased; however, alumina exports accounted for 72% of Suriname's estimated export earnings of US$496.6 million in 2001. Suriname's bauxite deposits have been among the world's richest.
+The backbone of the ECONOMY OF SURINAME is the export of aluminium oxide (alumina) and small amounts of aluminium produced from bauxite mined in the country. In 1999, the aluminium smelter at Paranam was closed[2] and mining at Onverdacht ceased; however, alumina exports accounted for 72% of Suriname's estimated export earnings of US$496.6 million in 2001. Suriname's bauxite deposits have been among the world's richest.
 
 Inexpensive power costs are Suriname's big advantage in the energy-intensive alumina and aluminium business. In the 1960s, the Aluminum Company of America (Alcoa) built the US$150-million Afobaka Dam[3] for the production of hydroelectric energy. This created the Brokopondo Reservoir a 1,560 km² lake, one of the largest artificial lakes in the world.
 

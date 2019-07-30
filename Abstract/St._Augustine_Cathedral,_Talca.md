@@ -1,1 +1,0 @@
-The ST. AUGUSTINE CATHEDRAL[1] () Also TALCA CATHEDRAL[2] is a cathedral of the Catholic church in Chile dedicated to St. Augustine. It is located in the Plaza de Armas de Talca, and is the seat of the bishop of the Diocese of Talca in Chile.[3]

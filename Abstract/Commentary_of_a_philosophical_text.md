@@ -1,1 +1,0 @@
-The COMMENTARY OF A PHILOSOPHICAL TEXT is the analysis of a philosophical text that is undertaken from different angles and points of view, and that enables the study of its nature and characteristics.[1]

@@ -31,7 +31,7 @@ For the original, together with Schneider's commentary on its misrepresentation,
 
 Honors
 
-Lovejoy,_Silva,_and_Schneider.jpg and Marina Silva]]
+and Marina Silva]]
 
 -   1991 AAAS Award for Public Understanding of Science and Technology.[11]
 -   1992 MacArthur Fellow "Genius Award".

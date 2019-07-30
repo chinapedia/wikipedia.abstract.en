@@ -1,1 +1,0 @@
-STEPHEN BRUCE FOWDY (September 16, 1915 – January 23, 1995) was an American professional basketball player.[1][2] He played in the National Basketball League in one game for the Hammond Ciesar All-Americans, yet failed to register a single statistic.[3]

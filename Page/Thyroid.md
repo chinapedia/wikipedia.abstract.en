@@ -7,7 +7,7 @@ The thyroid may be affected by several diseases. Hyperthyroidism occurs when the
 
 Structure
 
-Illu08_thyroid.jpg and tracheal cartilages, and consists of two lobes. This image shows a variant thyroid with a pyramidal lobe emerging from the middle of the thyroid.|alt=Image showing the thyroid gland surrounding the cricoid cartilage]] The thyroid gland is a butterfly-shaped organ that sits at the front of the neck. It is composed of two lobes, left and right, connected by a narrow isthmus. The thyroid weighs 25 grams in adults, with each lobe being about 5 cm long, 3 cm wide and 2 cm thick, and the isthmus about 1.25 cm in height and width. The gland is usually larger in women, and increases in size in pregnancy.
+and tracheal cartilages, and consists of two lobes. This image shows a variant thyroid with a pyramidal lobe emerging from the middle of the thyroid.|alt=Image showing the thyroid gland surrounding the cricoid cartilage]] The thyroid gland is a butterfly-shaped organ that sits at the front of the neck. It is composed of two lobes, left and right, connected by a narrow isthmus. The thyroid weighs 25 grams in adults, with each lobe being about 5 cm long, 3 cm wide and 2 cm thick, and the isthmus about 1.25 cm in height and width. The gland is usually larger in women, and increases in size in pregnancy.
 
 The thyroid sits near the front of the neck, lying against and around the front of the larynx and trachea. The thyroid cartilage and cricoid cartilage lie just above the gland, below the Adam's apple. The isthmus extends from the second to third rings of the trachea, with the uppermost part of the lobes extending to the thyroid cartilage, and the lowermost around the fourth to sixth tracheal rings. The thyroid gland is covered by a thin fibrous capsule, which has an inner and an outer layer. The outer layer is continuous with the pretracheal fascia, attaching the gland to the cricoid and thyroid cartilages, via a thickening of the fascia to form the posterior suspensory ligament of thyroid gland also known as Berry's ligament. This causes the thyroid to move up and down with swallowing. The inner layer extrudes into the gland and forms the septae that divides the thyroid tissue into microscopic lobules. Typically four parathyroid glands, two on each side, lie on each side between the two layers of the capsule, at the back of the thyroid lobes.
 
@@ -21,7 +21,7 @@ Lymphatic drainage frequently passes the prelaryngeal lymph nodes (located just 
 
 Variation
 
-Sobo_1906_444.png There are many variants in the size and shape of the thyroid gland, and in the position of the embedded parathyroid glands.
+There are many variants in the size and shape of the thyroid gland, and in the position of the embedded parathyroid glands.
 
 Sometimes there is a third lobe present called the _pyramidal lobe_. When present, this lobe often stretches up the hyoid bone from the thyroid isthmus and may be one to several divided lobes. The presence of this lobe ranges in reported studies from 18.3%[5] to 44.6%.[6] It was shown to more often arise from the left side and occasionally separated.[7] The pyramidal lobe is also known as Lalouette's pyramid.[8] The pyramidal lobe is a remnant of the thyroglossal duct which usually wastes away during the thyroid gland's descent. Small accessory thyroid glands may in fact occur anywhere along the thyroglossal duct, from the foramen cecum of the tongue to the position of the thyroid in the adult. A small horn at the back of the thyroid lobes, usually close to the recurrent laryngeal nerve and the inferior thyroid artery, is called Zuckerkandl's tubercle.[9]
 
@@ -29,7 +29,7 @@ Other variants include a levator muscle of thyroid gland, connecting the isthmus
 
 Microanatomy
 
-Thyroid-histology.jpg cells]] At the microscopic level, there are three primary features of the thyroid—follicles, follicular cells, and parafollicular cells, first discovered by Geoffery Websterson in 1664.[10]
+cells]] At the microscopic level, there are three primary features of the thyroid—follicles, follicular cells, and parafollicular cells, first discovered by Geoffery Websterson in 1664.[10]
 
 Follicles
 
@@ -46,7 +46,7 @@ Scattered among follicular cells and in spaces between the spherical follicles a
 
 Development
 
-Gray42.png In the development of the embryo, at 3–4 weeks gestational age, the thyroid gland appears as an epithelial proliferation in the floor of the pharynx at the base of the tongue between the tuberculum impar and the copula linguae. The copula soon becomes covered over by the hypopharyngeal eminence [14] at a point later indicated by the foramen cecum. The thyroid then descends in front of the pharyngeal gut as a bilobed diverticulum through the thyroglossal duct. Over the next few weeks, it migrates to the base of the neck, passing in front of the hyoid bone. During migration, the thyroid remains connected to the tongue by a narrow canal, the thyroglossal duct. At the end of the fifth week the thyroglossal duct degenerates and the detached thyroid continues on to its final position over the following two weeks.[15]
+In the development of the embryo, at 3–4 weeks gestational age, the thyroid gland appears as an epithelial proliferation in the floor of the pharynx at the base of the tongue between the tuberculum impar and the copula linguae. The copula soon becomes covered over by the hypopharyngeal eminence [14] at a point later indicated by the foramen cecum. The thyroid then descends in front of the pharyngeal gut as a bilobed diverticulum through the thyroglossal duct. Over the next few weeks, it migrates to the base of the neck, passing in front of the hyoid bone. During migration, the thyroid remains connected to the tongue by a narrow canal, the thyroglossal duct. At the end of the fifth week the thyroglossal duct degenerates and the detached thyroid continues on to its final position over the following two weeks.[15]
 
 The fetal hypothalamus and pituitary start to secrete thyrotropin-releasing hormone (TRH) and thyroid-stimulating hormone (TSH). TSH is first measurable at 11 weeks. By 18–20 weeks, the production of thyroxine (T₄) reaches a clinically significant and self-sufficient level.[16] Fetal triiodothyronine (T₃) remains low, less than 15 ng/dL until 30 weeks, and increases to 50 ng/dL at full-term.[17] The fetus needs to be self-sufficient in thyroid hormones in order to guard against neurodevelopmental disorders that would arise from maternal hypothyroidism.[18] The presence of sufficient iodine is essential for healthy neurodevelopment.[19]
 
@@ -57,7 +57,7 @@ Aberrations in prenatal development can result in various forms of thyroid dysge
 
 Function
 
-Thyroid_system.svgs T₃ and T₄ have a number of metabolic, cardiovascular and developmental effects on the body. The production is stimulated by release of thyroid stimulating hormone (TSH), which in turn depends on release of thyrotropin releasing hormone (TRH). Every downstream hormone has negative feedback and decreases the level of the hormone that stimulates its release.|alt=Diagram explaining the relationship between the thyroid hormones T3 and T4, thyroid stimulating hormone (TSH), and thyrotropin releasing hormone (TRH)]]
+s T₃ and T₄ have a number of metabolic, cardiovascular and developmental effects on the body. The production is stimulated by release of thyroid stimulating hormone (TSH), which in turn depends on release of thyrotropin releasing hormone (TRH). Every downstream hormone has negative feedback and decreases the level of the hormone that stimulates its release.|alt=Diagram explaining the relationship between the thyroid hormones T3 and T4, thyroid stimulating hormone (TSH), and thyrotropin releasing hormone (TRH)]]
 
 Thyroid hormones
 
@@ -74,7 +74,7 @@ Thyroid hormones act by crossing the cell membrane and binding to intracellular 
 
 Hormone production
 
-Thyroid_hormone_synthesis.pngs, as seen on an individual thyroid follicular cell:[23]
+s, as seen on an individual thyroid follicular cell:[23]
 - Thyroglobulin is synthesized in the rough endoplasmic reticulum and follows the secretory pathway to enter the colloid in the lumen of the thyroid follicle by exocytosis.
 - Meanwhile, a sodium-iodide (Na/I) symporter pumps iodide (I^(−)) actively into the cell, which previously has crossed the endothelium by largely unknown mechanisms.
 - This iodide enters the follicular lumen from the cytoplasm by the transporter pendrin, in a purportedly passive manner.
@@ -166,7 +166,7 @@ Another disorder is that of thyroid dysgenesis which can result in various prese
 
 Iodine
 
-The_thyroid_gland_in_health_and_disease_(1917)_(14780980651).jpg, associated with a lack of iodine.[49]]] Iodine deficiency, most common in inland and mountainous areas, can predispose to goitre – if widespread, known as endemic goitre. Pregnant women deficient of iodine can give birth to infants with thyroid hormone deficiency.[50] The use of iodised salt used to add iodine to the diet[51] has eliminated endemic cretinism in most developed countries,[52] and over 120 countries have made the iodination of salt mandatory.[53]
+, associated with a lack of iodine.[49]]] Iodine deficiency, most common in inland and mountainous areas, can predispose to goitre – if widespread, known as endemic goitre. Pregnant women deficient of iodine can give birth to infants with thyroid hormone deficiency.[50] The use of iodised salt used to add iodine to the diet[51] has eliminated endemic cretinism in most developed countries,[52] and over 120 countries have made the iodination of salt mandatory.[53]
 
 Because the thyroid concentrates iodine, it also concentrates the various radioactive isotopes of iodine produced by nuclear fission. In the event of large accidental releases of such material into the environment, the uptake of radioactive iodine isotopes by the thyroid can, in theory, be blocked by saturating the uptake mechanism with a large surplus of non-radioactive iodine, taken in the form of potassium iodide tablets. One consequence of the Chernobyl disaster was an increase in thyroid cancers in children in the years following the accident.[54]
 
@@ -197,7 +197,7 @@ Computed tomography of the thyroid plays an important role in the evaluation of 
 
 History
 
-Thespiae_431-424_BC.jpg after the ancient Greek shield of a similar pronunciation. Shown is an example, as engraved on an obol dating from 431–424 BCE.]] The presence and diseases of the thyroid have been noted and treated for thousands of years, although the gland itself has only been described and named since the renaissance.[66] In 1600 BCE burnt sponge and seaweed were used within China for the treatment of goitres, a practice which has developed in many parts of the world.[67][68] In Ayurvedic medicine, the book Sushruta Samhita written about 1400 BCE describes hyperthyroidism, hypothyroidism and goitre.[69] Aristotle and Xenophon in the fifth century BCE describe cases of Grave's disease, which receives its name over two millennia later owing to descriptions provided by Robert James Graves in 1834,[70] Hippocrates and Plato in the fourth century BCE provided some of the first descriptions of the gland itself, proposing its function as a salivary gland.[71] Pliny the Elder in the first century BCE referred to epidemics of goitre in the Alps and proposed treatment with burnt seaweed,[72] a practice also referred to by Galen in the second century, referred to burnt sponge for the treatment of goitre.[73] The Chinese pharmacology text Shennong_Ben_Cao_Jing, written ca. 200-250, also refers to goitre.[74][75]
+after the ancient Greek shield of a similar pronunciation. Shown is an example, as engraved on an obol dating from 431–424 BCE.]] The presence and diseases of the thyroid have been noted and treated for thousands of years, although the gland itself has only been described and named since the renaissance.[66] In 1600 BCE burnt sponge and seaweed were used within China for the treatment of goitres, a practice which has developed in many parts of the world.[67][68] In Ayurvedic medicine, the book Sushruta Samhita written about 1400 BCE describes hyperthyroidism, hypothyroidism and goitre.[69] Aristotle and Xenophon in the fifth century BCE describe cases of Grave's disease, which receives its name over two millennia later owing to descriptions provided by Robert James Graves in 1834,[70] Hippocrates and Plato in the fourth century BCE provided some of the first descriptions of the gland itself, proposing its function as a salivary gland.[71] Pliny the Elder in the first century BCE referred to epidemics of goitre in the Alps and proposed treatment with burnt seaweed,[72] a practice also referred to by Galen in the second century, referred to burnt sponge for the treatment of goitre.[73] The Chinese pharmacology text Shennong_Ben_Cao_Jing, written ca. 200-250, also refers to goitre.[74][75]
 
 In 1500 polymath Leonardo da Vinci provides the first illustration of the thyroid.[76] In 1543 Anatomist Andreas Vesalius gave the first anatomic description and illustration of the gland.[77] In 1656 the thyroid received its name, by the anatomist Thomas Wharton.[78] The gland was named thyroid, meaning shield, as its shape resembled the shields commonly used in Ancient Greece.[79] The English name _thyroid gland_[80] is derived from the medical Latin used by Wharton – _glandula thyreoidea_.[81] _Glandula_ means _gland_ in Latin,[82] and _thyreoidea_ can be traced back to the Ancient Greek word θυρεοειδής, meaning _shield-like_/_shield-shaped_.[83]
 
@@ -210,7 +210,7 @@ Numerous authors described cretinism, myxoedema their relationship with the thyr
 
 Other animals
 
-The_thyroid_gland_in_health_and_disease_(1917)_(14780977681).jpg]] The thyroid gland is found in all vertebrates. In fish, it is usually located below the gills and is not always divided into distinct lobes. However, in some teleosts, patches of thyroid tissue are found elsewhere in the body, associated with the kidneys, spleen, heart, or eyes.[103]
+]] The thyroid gland is found in all vertebrates. In fish, it is usually located below the gills and is not always divided into distinct lobes. However, in some teleosts, patches of thyroid tissue are found elsewhere in the body, associated with the kidneys, spleen, heart, or eyes.[103]
 
 In tetrapods, the thyroid is always found somewhere in the neck region. In most tetrapod species, there are two paired thyroid glands – that is, the right and left lobes are not joined together. However, there is only ever a single thyroid gland in most mammals, and the shape found in humans is common to many other species.[104]
 

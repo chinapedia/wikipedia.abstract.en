@@ -1,4 +1,4 @@
-Ski.jpg A SKI is a narrow strip of semi-rigid material worn underfoot to glide over snow. Substantially longer than wide and characteristically employed in pairs, skis are attached to ski boots with ski bindings, with either a free, lockable, or partially secured heel. For climbing slopes, ski skins (originally made of seal fur, but now made of synthetic materials) can be attached at the base of the ski.
+A SKI is a narrow strip of semi-rigid material worn underfoot to glide over snow. Substantially longer than wide and characteristically employed in pairs, skis are attached to ski boots with ski bindings, with either a free, lockable, or partially secured heel. For climbing slopes, ski skins (originally made of seal fur, but now made of synthetic materials) can be attached at the base of the ski.
 
 Originally intended as an aid to travel over snow, they are now mainly used recreationally in the sport of skiing.
 
@@ -20,7 +20,7 @@ Nordic ski technology was adapted during the early 20th century to enable skiers
 
 Asymmetrical skis
 
-Vorstellung_der_sämtlichen_Königl._Dänischen_Armee_-_no-nb_digibok_2007092512003-122.jpg army in the 18th Century, long ski for the right leg, also shown in profile (far left).[14]]] This type of ski was used at least in northern Finland and Sweden until the 1930s.[15] On one leg, the skier wore a long straight non-arching ski for sliding, and on the other a shorter ski for kicking. The bottom of the short ski was either plain or covered with animal skin to aid this use, while the long ski supporting the weight of the skier was treated with animal fat in similar manner to modern ski waxing. Early record of this type of skis survives in works of Olaus Magnus.[16] He associates them to Sami people and gives Sami names of _savek_ and _golos_ for the plain and skinned short ski.
+army in the 18th Century, long ski for the right leg, also shown in profile (far left).[14]]] This type of ski was used at least in northern Finland and Sweden until the 1930s.[15] On one leg, the skier wore a long straight non-arching ski for sliding, and on the other a shorter ski for kicking. The bottom of the short ski was either plain or covered with animal skin to aid this use, while the long ski supporting the weight of the skier was treated with animal fat in similar manner to modern ski waxing. Early record of this type of skis survives in works of Olaus Magnus.[16] He associates them to Sami people and gives Sami names of _savek_ and _golos_ for the plain and skinned short ski.
 
 Finnish names for these are _lyly_ and _kalhu_ for long and short ski.[17]
 
@@ -30,7 +30,7 @@ The seal hunters at the Gulf of Bothnia had developed a special long ski to snea
 
 Modern skis
 
-Wilhelm_Pohl_Ski_003.JPG and bamboo poles]] Cross-country_equipment--Skate_and_Classic.jpg Around 1850, artisans in Telemark, Norway, invented the cambered ski. This ski arches up in the middle, under the binding, which distributes the skier's weight more evenly across the length of the ski. Earlier plank-style skis had to be thick enough not to bow downward and sink in the snow under the skier’s weight. This new design made it possible to build a thinner, lighter ski, that flexed more easily to absorb the shock of bumps, and that maneuvered and ran faster and more easily.[19] The design also included a sidecut that narrowed the ski underfoot while the tip and tail remained wider. This enabled the ski to flex and turn more easily.[20]
+and bamboo poles]] Around 1850, artisans in Telemark, Norway, invented the cambered ski. This ski arches up in the middle, under the binding, which distributes the skier's weight more evenly across the length of the ski. Earlier plank-style skis had to be thick enough not to bow downward and sink in the snow under the skier’s weight. This new design made it possible to build a thinner, lighter ski, that flexed more easily to absorb the shock of bumps, and that maneuvered and ran faster and more easily.[19] The design also included a sidecut that narrowed the ski underfoot while the tip and tail remained wider. This enabled the ski to flex and turn more easily.[20]
 
 Skis traditionally were hand-carved out of a single piece of hardwood such as Hickory, Birch or Ash. These woods were used because of their density and ability to handle speed and shock-resistance factors associated with ski racing. Because of Europe’s dwindling forests, the ability to find quality plank hardwood became difficult, which led to the invention of the laminated ski.[21] Beginning in 1891, skimakers in Norway began laminating two or more layers of wood together to make lighter cross country running skis. These evolved into the multi-laminated high-performance skis of the mid-1930s.[22]
 
@@ -54,7 +54,7 @@ Skis have evolved from being constructed from solid wood to using a variety of m
 
 Laminate or sandwich
 
-Half_cap_design.jpg Laminated skis are built in layers. Materials such as fiberglass, steel, aluminum alloy, or plastic are layered and compressed above and below the core.[34] Laminated construction is the most widely used manufacturing process in the ski industry today. The first successful laminate ski, and arguably the first modern ski was the Head Standard, introduced in 1950, which sandwiched aluminum alloy around a plywood core.
+Laminated skis are built in layers. Materials such as fiberglass, steel, aluminum alloy, or plastic are layered and compressed above and below the core.[34] Laminated construction is the most widely used manufacturing process in the ski industry today. The first successful laminate ski, and arguably the first modern ski was the Head Standard, introduced in 1950, which sandwiched aluminum alloy around a plywood core.
 
 Torsion box
 
@@ -76,12 +76,6 @@ Notable manufacturers
 
 
 Types
-
-Four groups of different ski types, from left to right:
-1. Non-sidecut: cross-country, telemark and mountaineering
-2. Parabolic
-3. Twin-tip
-4. Powder
 
 In the history of skiing many types of skis have been developed, designed for different needs, of which the following is a selection.
 

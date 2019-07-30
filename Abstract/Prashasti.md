@@ -1,1 +1,0 @@
-Ashoka_Rock_Edict_at_Junagadh.jpg contains an early Prashasti, by Western Satrap ruler Rudradaman I, circa 150 CE.]] _PRASHASTI_ (IAST: Praśasti, Sanskrit for "praise") inscriptions are euologistic inscriptions issued by Indian rulers from 1st millennium CE onwards. Written in form of poetry or ornate prose, the _prashastis_ were generally composed by the court poets.[1]

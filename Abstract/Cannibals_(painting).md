@@ -1,1 +1,0 @@
-_CANNIBALS_ is a 2005 painting by the Norwegian kitsch painter Odd Nerdrum. It depicts three men in a barren landscape, devouring the remains of a fourth man whose spine, rib cage and head lie on the ground before them.

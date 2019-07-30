@@ -1,1 +1,0 @@
-Riproduzione_di_termometro_"a_ranocchietta"_ad_acquarzente_-_Museo_scienza_tecnologia_Milano_02014.jpg

@@ -1,1 +1,0 @@
-AKM SAMSUZZOHA (1924 – 20 February 1987)[1] was a Bangladesh Awami League politician. He was a Member of Parliament from Narayanganj constituency. He received the Independence Day Award in 2011 posthumously from the Government of Bangladesh.[2]

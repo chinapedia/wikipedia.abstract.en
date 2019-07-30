@@ -5,7 +5,7 @@ Also known in more dated English as SLESWICK-HOLSATIA, the region is called __ i
 
 History
 
-AreasSettlementSchleswig-HolsteinText.png Limes.saxoniae.wmt.png'' border between the Saxons and the Obotrites, established about 810 in present-day Schleswig-Holstein]] KielerInnenFoerdeLuftaufnahme.jpg is the state's capital and largest city.]] Lubeck_panorama.JPG was the centre of the Hanse, and its city centre is a World Heritage Site today. Lübeck is the birthplace of the author Thomas Mann.]] Luftaufnahmen_Nordseekueste_2013-09_by-RaBoe_072.jpg]] Rape-fieldSH.jpg field in Schleswig-Holstein — agriculture continues to play an important role in parts of the state.]] 13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg).]]
+'' border between the Saxons and the Obotrites, established about 810 in present-day Schleswig-Holstein]] is the state's capital and largest city.]] was the centre of the Hanse, and its city centre is a World Heritage Site today. Lübeck is the birthplace of the author Thomas Mann.]] ]] field in Schleswig-Holstein — agriculture continues to play an important role in parts of the state.]] ).]]
 
 The term "Holstein" derives from Old Saxon _Holseta Land,_ (_Holz_ and _Holt_ mean wood in modern Standardised German and in literary English, respectively). Originally, it referred to the central of the three Saxon tribes north of the River Elbe: _Tedmarsgoi_ (Dithmarschen), Holstein and _Sturmarii_ (Stormarn). The area of the tribe of the Holsts was between the Stör River and Hamburg, and after Christianization, their main church was in Schenefeld. Saxon Holstein became a part of the Holy Roman Empire after Charlemagne's Saxon campaigns in the late eighth century. Since 811, the northern frontier of Holstein (and thus the Empire) was marked by the River Eider.
 
@@ -33,7 +33,7 @@ Plebiscite in 1920
 
 Following the defeat of Germany in World War I, the Allied powers arranged a plebiscite in northern and central Schleswig. The plebiscite was conducted under the auspices of an international commission which designated two voting zones to cover the northern and south-central parts of Schleswig. Steps were taken to also create a third zone covering a southern area, but zone III was cancelled again and never voted, as the Danish government asked the commission not to expand the plebiscite to this area.
 
-In zone I covering Northern Schleswig (10 February 1920), 75% voted for reunification with Denmark and 25% voted for Germany. In zone II covering central Schleswig (14 March 1920), the results were reversed; 80% voted for Germany and just 20% for Denmark. Only minor areas on the island of Föhr showed a Danish majority, and the rest of the Danish vote was primarily in the town of Flensburg.[2] Abstimmung-schleswig-1920.png
+In zone I covering Northern Schleswig (10 February 1920), 75% voted for reunification with Denmark and 25% voted for Germany. In zone II covering central Schleswig (14 March 1920), the results were reversed; 80% voted for Germany and just 20% for Denmark. Only minor areas on the island of Föhr showed a Danish majority, and the rest of the Danish vote was primarily in the town of Flensburg.[2]
 
   ----------------------------------------------- -------------- -------------- ------------- -------------
   ELECTORATE                                      GERMAN NAME    DANISH NAME    FOR GERMANY   FOR DENMARK
@@ -82,8 +82,6 @@ Because of the forced migrations of Germans between 1944 and 1950, the populatio
 
 Geography
 
-Schleswig-Holstein.png
-
 Schleswig-Holstein lies on the base of Jutland Peninsula between the North Sea and the Baltic Sea. Strictly speaking, "Schleswig" refers to the German Southern Schleswig ( or _Landesteil Schleswig_, ), whereas Northern Schleswig is in Denmark (South Jutland County, Region of Southern Denmark). The state of Schleswig-Holstein further consists of Holstein, as well as Lauenburg and the formerly independent city of Lübeck.
 
 Schleswig-Holstein borders Denmark (Southern Denmark) to the north, the North Sea to the west, the Baltic Sea to the east, and the German states of Lower Saxony, Hamburg, and Mecklenburg-Vorpommern to the south.
@@ -93,8 +91,6 @@ In the western part of the state, the lowlands have virtually no hills. The Nort
 The Baltic Sea coast in the east of Schleswig-Holstein is marked by bays, fjords, and cliff lines. Rolling hills (the highest elevation is the Bungsberg at ) and many lakes are found, especially in the eastern part of Holstein called the Holstein Switzerland and the former Duchy of Lauenburg (_Herzogtum Lauenburg_). Fehmarn is the only island off the eastern coast. The longest river besides the Elbe is the Eider; the most important waterway is the Kiel Canal which connects the North Sea and Baltic Sea.
 
 Administration
-
-Schleswig-Holstein_Kreise_(nummeriert).svg
 
 Schleswig-Holstein is divided into 11 _Kreise_ (districts):
 
@@ -170,7 +166,7 @@ Largest groups of foreign residents by 31 December 2018
 
 Culture
 
-Rote_Grütze_mit_Vanillesoße.JPG served in Schleswig-Holstein with milk or custard]] Schleswig-Holstein combines Danish and German aspects of culture. The castles and manors in the countryside are the best example for this tradition; some dishes like Rødgrød (, literal English "red grits" or "red groats") are also shared, as well as surnames such as Hansen.
+served in Schleswig-Holstein with milk or custard]] Schleswig-Holstein combines Danish and German aspects of culture. The castles and manors in the countryside are the best example for this tradition; some dishes like Rødgrød (, literal English "red grits" or "red groats") are also shared, as well as surnames such as Hansen.
 
 The most important festivals are the Kiel Week, Schleswig-Holstein Musik Festival, an annual classic music festival all over the state, and the Lübeck Nordic Film Days, an annual film festival for movies from Scandinavian countries, held in Lübeck.
 
@@ -192,7 +188,7 @@ The old city of Lübeck is a UNESCO World Heritage Site.
 
 Languages
 
-Helgoland_Hummerbuden_21955.JPG island in the North Sea]] Danish, German, Low German and North Frisian are the official languages of the state.[8]
+island in the North Sea]] Danish, German, Low German and North Frisian are the official languages of the state.[8]
 
 Historically, Low German (in Holstein and the South of Schleswig), Danish (in Schleswig), and North Frisian (in North Frisia in Western Schleswig) were spoken. During the language change in the 19th century some Danish and North Frisian dialects in Southern Schleswig were replaced by German.[9][10] [11]
 

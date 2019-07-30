@@ -1,1 +1,0 @@
-JOE DENHAM is a Canadian poet and fiction writer.[1] He is most noted for his 2016 collection _Regeneration Machine_, which won the Canadian Authors Association Award for Poetry[2] and was shortlisted for the Governor General's Award for English-language poetry at the 2016 Governor General's Awards.[3]

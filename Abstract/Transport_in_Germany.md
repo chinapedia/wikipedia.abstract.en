@@ -1,1 +1,0 @@
-Aerial_View_of_Frankfurt_Airport_1.jpg, the fourth-busiest Airport in Europe]] Leipzig-Hauptbahnhof-overview.jpg, the world's largest railway station by floor area]] As a densely populated country in a central location in Europe and with a developed economy, Germany has a dense and modern transport infrastructure.

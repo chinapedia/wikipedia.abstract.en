@@ -1,1 +1,0 @@
-'''Diana Ankomah ''' (born 19 September 1989) is a Ghanaian international footballer who plays as a forward who plays for the Ghana women's national football team. She was part of the team at the 2014 African Women's Championship. On club level she played for Police Accra in Ghana.[1]

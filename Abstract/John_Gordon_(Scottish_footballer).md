@@ -1,1 +1,0 @@
-JOHN GORDON (12 January 1886 – 1971) was a Scottish professional football centre half who played in the Scottish League for Hibernian, Leith Athletic, St Bernard's and Forfar Athletic.[1] He also played in the Southern League for Brentford and Coventry City.[2]

@@ -1,1 +1,0 @@
-The CATHEDRAL BASILICA OF THE ASSUMPTION OF THE BLESSED VIRGIN MARY[1] ( ) also called KIELCE CATHEDRAL is the name given to a Catholic church that has the status of cathedral and basilica and is located in the city of Kielce[2] in Poland.[3][4] It is located in the "Castle Hill" in the heart of the city, next to the Palace of the Bishops of Kraków, also a famous landmark.

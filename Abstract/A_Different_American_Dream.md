@@ -1,1 +1,0 @@
-_A DIFFERENT AMERICAN DREAM_ is a 2016 American documentary film by Simon Brook and Jane I. Wells. It was produced by 3 Generations and Brook Productions. In 2016, the film was selected for a number of festivals, including the Thessaloniki International Film Festival, the Margaret Mead Film Festival and the Reykjavík International Film Festival.[1]

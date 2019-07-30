@@ -1,1 +1,0 @@
-THE SLEEP ROOM was a 1998 Canadian television movie about experiments on Canadian mental patients that were carried out in the 1950s and 1960s by Donald Ewan Cameron and funded by the CIA's MK Ultra program. It originally aired as a miniseries and is based on the book _In The Sleep Room: The Story of CIA Brainwashing Experiments in Canada_ by Anne Collins.

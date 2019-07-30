@@ -1,1 +1,0 @@
-The ARY FILM AWARD FOR INTERNATIONAL ICON OF THE YEAR is one of the ARY Film Awards of Honorary presented annually by the ARY Digital Network and Entertainment Channel to actors (Male or Female) working outside Pakistan.

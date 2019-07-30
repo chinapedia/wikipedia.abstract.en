@@ -11,7 +11,7 @@ In 1969, Sears, Roebuck & Co. was the largest retailer in the world, with about 
 
 After selection of the latter site, permits to vacate Quincy Street were obtained.[10] Attorneys from the Arnstein firm, headed by Andrew Adsit, began buying the properties parcel by parcel.[11] Sears purchased 15 old buildings from 100 owners and paid $2.7 million to the City of Chicago for the portion of Quincy Street the project absorbed.[12]
 
-Sears, which needed of office space for its planned consolidation and predicted growth, commissioned architects Skidmore, Owings & Merrill (SOM). Their team of architect Bruce Graham and structural engineer Fazlur Rahman Khan designed the building as nine square "tubes" (each essentially a separate building), clustered in a 3×3 matrix forming a square base with sides.[13] All nine tubes would rise up to the 50th floor of the building, where the northwest and southeast tubes terminate. The northeast and southwest tubes reach the 66th floor; the north, east, and south tubes end at the 90th. The remaining west and center tubes reach 108 floors. Sears_Willis_Tower.jpg The Sears Tower was the first building to use this innovative design. It was both structurally efficient and economic: at 1,450 feet, it provided more space and rose higher than the Empire State Building and cost much less per unit area.[14] The system would prove highly influential in skyscraper construction and has been used in most supertall buildings since, including the world's current tallest building, the Burj Khalifa.[15][16] To honor Khan's contributions, the Structural Engineers Association of Illinois commissioned a sculpture of him[17] for the lobby of the Willis Tower. FR_khan_sculputure_at_Sears_tower.jpg at the Willis Tower]]
+Sears, which needed of office space for its planned consolidation and predicted growth, commissioned architects Skidmore, Owings & Merrill (SOM). Their team of architect Bruce Graham and structural engineer Fazlur Rahman Khan designed the building as nine square "tubes" (each essentially a separate building), clustered in a 3×3 matrix forming a square base with sides.[13] All nine tubes would rise up to the 50th floor of the building, where the northwest and southeast tubes terminate. The northeast and southwest tubes reach the 66th floor; the north, east, and south tubes end at the 90th. The remaining west and center tubes reach 108 floors. The Sears Tower was the first building to use this innovative design. It was both structurally efficient and economic: at 1,450 feet, it provided more space and rose higher than the Empire State Building and cost much less per unit area.[14] The system would prove highly influential in skyscraper construction and has been used in most supertall buildings since, including the world's current tallest building, the Burj Khalifa.[15][16] To honor Khan's contributions, the Structural Engineers Association of Illinois commissioned a sculpture of him[17] for the lobby of the Willis Tower. at the Willis Tower]]
 
 Sears decided to focus their initial occupancy on housing their merchandise group, renting out the remaining space to other tenants until needed. The latter floor areas had to be designed to a smaller footprint with a high window-space to floor-space ratio to be attractive to prospective lessees. Smaller floorplates required a taller structure to yield sufficient square footage. Skidmore architects proposed a tower with large, floors in the lower part of the building with gradually tapered floorplates in a series of setbacks, which would give the tower its distinctive look.
 
@@ -61,7 +61,7 @@ In January 2009, a major renovation of the Skydeck was begun, including the inst
 
 Height
 
-Dubai-CN-Sears-towers.svg, Dubai; CN Tower, Toronto; Willis Tower, Chicago|alt=]] The Willis Tower remains the second tallest building in the Americas (after One World Trade Center) and the Western Hemisphere. With a pinnacle height of , it is the third-tallest freestanding structure in the Americas, shorter than Toronto's CN Tower. It is the eighth-tallest freestanding structure in the world by pinnacle height.
+, Dubai; CN Tower, Toronto; Willis Tower, Chicago|alt=]] The Willis Tower remains the second tallest building in the Americas (after One World Trade Center) and the Western Hemisphere. With a pinnacle height of , it is the third-tallest freestanding structure in the Americas, shorter than Toronto's CN Tower. It is the eighth-tallest freestanding structure in the world by pinnacle height.
 
 At tall, including decorative spires, the Petronas Twin Towers in Kuala Lumpur, Malaysia, controversially claimed to be the tallest building in the world in 1998. In the ensuing controversy, four categories of "tallest building" were created.[54] Of these, Petronas was the tallest in the category of height to the top of architectural elements, meaning spires but not antennas.
 
@@ -83,8 +83,6 @@ In August 1999, French urban climber Alain "Spiderman" Robert, using only his ba
 
 
 Naming rights
-
-Willis_Tower.jpg
 
 Although Sears sold the tower in 1994 and had completely vacated it by 1995, the company retained the naming rights to the building through 2003. The new owners were rebuffed in renaming deals with CDW Corp in 2005 and the U.S. Olympic Committee in 2008. London-based insurance broker Willis Group Holdings, Ltd. leased more than of space on three floors in 2009. A Willis spokesman said the naming rights were obtained as part of the negotiations at no cost to Willis[61][62][63] and the building was renamed Willis Tower on July 16, 2009.[64]
 
@@ -161,7 +159,7 @@ Television stations
 
 Cultural depictions
 
-Willis_Tower_Chinatown.jpg]]
+]]
 
 Film and television
 

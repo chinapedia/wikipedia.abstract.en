@@ -1,1 +1,0 @@
-JUSTIN TINUCCI is an American actor, musician and professional indoor skydiver who is best known for his roles on _Incredible Crew_ as a recurring guest star, _iCarly_, _Big Love_, _Trophy Wife_ and the Netflix show _Lady Dynamite_ where he plays Jason. He will appear in an upcoming Sony Pictures Home Entertainment film[1] called _Devil's Whisper_ in 2017.[2][3]

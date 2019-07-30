@@ -1,1 +1,0 @@
-CHINA GUARDIAN AUCTIONS CO. LTD., or simply CHINA GUARDIAN (), is a mainland Chinese auction house that specialises in the auction of Chinese artwork of all types.[1][2][3] It is particularly known for its sale of Chinese calligraphy and ink paintings.[4][5]

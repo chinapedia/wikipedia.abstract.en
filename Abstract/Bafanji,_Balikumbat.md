@@ -1,1 +1,0 @@
-BAFANJI is one of the five villages of Balikumbat subdivision and one of the thirteen villages of Ngo-Ketunjia department in Cameroon. Bafanji is one of five Mangeh villages without a defined boundary.

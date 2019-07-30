@@ -1,1 +1,0 @@
-HIGHWAY 241 (AR 241, ARK. 241, and HWY. 241) is a north–south state highway in Monroe County. The route of begins at US Highway 49 (US 79) and Highway 39 and runs west and north to Highway 302. The route is maintained by the Arkansas State Highway and Transportation Department (AHTD).

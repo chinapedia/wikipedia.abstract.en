@@ -1,1 +1,0 @@
-SwazilandOMC.png LocationEswatini.svg

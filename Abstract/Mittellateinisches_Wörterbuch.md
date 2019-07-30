@@ -1,1 +1,0 @@
-_MITTELLATEINISCHES WÖRTERBUCH_ (MLW, _Mittellateinisches Wörterbuch bis zum ausgehenden 13. Jahrhundert_) is a project for the edition of a comprehensive Medieval Latin dictionary, organised by a committee of the Bavarian Academy of Sciences and Humanities and published with C. H. Beck.[1]

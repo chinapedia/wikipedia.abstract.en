@@ -1,1 +1,0 @@
-WILLIAM E. HOLMES (January 22, 1856 – February 14, 1931) was a Baptist minister and educator and president of Central City College in Macon, Georgia for 25 years. Before his term at Central City, he was a professor at the Atlanta Baptist Institute. He was also secretary of the board at Spelman College.

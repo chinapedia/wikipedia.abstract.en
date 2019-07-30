@@ -1,1 +1,0 @@
-O1 is the first studio album by Hiroyuki Sawano's vocal project SAWANOHIROYUKI[NZK]. It was released on September 9, 2015 on SME Records. o1 was preceded by the singles "A/Z", "aLIEz", "&Z", "X.U." and "scaPEGoat".[1][2]

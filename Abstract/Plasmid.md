@@ -1,1 +1,0 @@
-plasmid_(english).svg

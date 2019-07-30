@@ -1,6 +1,6 @@
 In mathematics, a function _f_ from a set _X_ to a set _Y_ is SURJECTIVE (or ONTO), or a SURJECTION, if for every element _y_ in the codomain _Y_ of _f_ there is at least one element _x_ in the domain _X_ of _f_ such that _f_(_x_) = _y_. It is not required that _x_ be unique; the function _f_ may map one or more elements of _X_ to the same element of _Y_.
 
-Surjection.svg _X_ to codomain _Y_. The function is surjective because every point in the codomain is the value of _f_(_x_) for at least one point _x_ in the domain.]]
+_X_ to codomain _Y_. The function is surjective because every point in the codomain is the value of _f_(_x_) for at least one point _x_ in the domain.]]
 
 The term _surjective_ and the related terms _injective_ and _bijective_ were introduced by Nicolas Bourbaki,[1] a group of mainly French 20th-century mathematicians who under this pseudonym wrote a series of books presenting an exposition of modern advanced mathematics, beginning in 1935. The French word _sur_ means _over_ or _above_ and relates to the fact that the image of the domain of a surjective function completely covers the function's codomain.
 
@@ -21,7 +21,7 @@ Symbolically,
 
 Examples
 
-Codomain2.SVG _X_ to codomain _Y_. The smaller oval inside _Y_ is the image (also called range) of _f_. This function is NOT surjective, because the image does not fill the whole codomain. In other words, _Y_ is colored in a two-step process: First, for every _x_ in _X_, the point _f_(_x_) is colored yellow; Second, all the rest of the points in _Y_, that are not yellow, are colored blue. The function _f_ is surjective only if there are no blue points.]] For any set _X_, the identity function id_(_X_) on _X_ is surjective.
+_X_ to codomain _Y_. The smaller oval inside _Y_ is the image (also called range) of _f_. This function is NOT surjective, because the image does not fill the whole codomain. In other words, _Y_ is colored in a two-step process: First, for every _x_ in _X_, the point _f_(_x_) is colored yellow; Second, all the rest of the points in _Y_, that are not yellow, are colored blue. The function _f_ is surjective only if there are no blue points.]] For any set _X_, the identity function id_(_X_) on _X_ is surjective.
 
 The function defined by _f_(_n_) = _n_ MOD 2 (that is, even integers are mapped to 0 and odd integers to 1) is surjective.
 
@@ -36,10 +36,6 @@ The natural logarithm function is a surjective and even bijective mapping from t
 The projection from a cartesian product to one of its factors is surjective unless the other factor is empty.
 
 In a 3D video game, vectors are projected onto a 2D flat screen by means of a surjective function.
-
-Surjective_function.svg
-
-Non-surjective_function2.svg
 
 {{-}}
 

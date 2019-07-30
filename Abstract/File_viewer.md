@@ -1,1 +1,0 @@
-A FILE VIEWER is an application software that presents the data stored in a computer file in a human-friendly form. The file contents are generally displayed on the screen, or they may be printed. Also, they may be read aloud using speech synthesis.

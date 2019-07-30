@@ -1,1 +1,0 @@
-_The Real Housewives of Dallas_ is an American reality television series that premiered April 11, 2016,[1][2] on Bravo. It chronicles the lives of six women; Cary Deuber, Kameron Westcott, D'Andra Simmons, Stephanie Hollman, LeeAnne Locken, and Brandi Redmond, in and around Dallas as they socialize, work on their careers and spend time with their families.

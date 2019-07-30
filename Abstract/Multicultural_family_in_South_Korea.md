@@ -1,1 +1,0 @@
-A MULTICULTURAL FAMILY IN SOUTH KOREA is a family that made up of people without a background in Korean culture. As the number of multicultural families increased in Korean society, the number of children in multicultural families also increased. New policies have been created to respond to the problems faced by children of multicultural families.

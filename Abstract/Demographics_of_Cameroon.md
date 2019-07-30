@@ -1,1 +1,0 @@
-Tikar_family.jpg

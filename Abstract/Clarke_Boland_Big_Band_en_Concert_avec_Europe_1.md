@@ -1,1 +1,0 @@
-_CLARKE BOLAND BIG BAND EN CONCERT AVEC EUROPE 1_ is a live album by the Kenny Clarke/Francy Boland Big Band featuring a performance recorded in Paris in 1969, originally broadcast on Europe 1 and released on the Tréma label in 1992.[1][2][3]

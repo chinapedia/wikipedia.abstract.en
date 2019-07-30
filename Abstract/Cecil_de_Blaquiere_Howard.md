@@ -1,1 +1,0 @@
-CECIL DE BLAQUIERE HOWARD, sometimes CECIL HOWARD, (April 2, 1888 - September 5, 1956), born in Clifton, Welland County, Ontario, Canada (today Niagara Falls) was an American painter and sculptor.[1][2]

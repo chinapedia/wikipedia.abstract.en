@@ -1,1 +1,0 @@
-In mathematics, a PRODUCT is the result of multiplying, or an expression that identifies factors to be multiplied. Thus, for instance, 6 is the product of 2 and 3 (the result of multiplication), and x ⋅ (2 + x) is the product of x and (2 + x) (indicating that the two factors should be multiplied together).

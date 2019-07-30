@@ -1,1 +1,0 @@
-The BLACKMAGIC CINEMA CAMERA (often simply the CINEMA CAMERA or BMDCC) is a digital movie camera developed and manufactured by Blackmagic Design and released on September 4, 2012. It is part of the Cinema Camera family of digital movie cameras and shoots 2.5K video in RAW, Apple ProRes, CinemaDNG and Avid DNxHD formats.

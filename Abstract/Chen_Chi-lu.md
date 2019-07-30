@@ -1,1 +1,0 @@
-CHEN CHI-LU (; 27 April 1923 – 6 October 2014) was a Taiwanese politician, historian and anthropologist. He was the first Minister of the Council for Cultural Affairs, taking office in 1981 and serving until 1988.

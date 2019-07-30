@@ -1,1 +1,0 @@
-''' Nalvinha ''' (born 14 July 1965) is a Brazilian footballer who played as a forward for the Brazil women's national football team. She was part of the team at the 1991 FIFA Women's World Cup and 1995 FIFA Women's World Cup.[1]

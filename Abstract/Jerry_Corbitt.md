@@ -1,1 +1,0 @@
-_' Jerry Corbitt_' (born JERRY BYRON CORBITT; January 7, 1943 – March 8, 2014) was an American guitarist, harmonica player, singer, songwriter, and record producer. He is best known as a founding member and guitarist of the rock band the Youngbloods.

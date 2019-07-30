@@ -1,1 +1,0 @@
-RODNEY SAINT-ÉLOI is a Haitian-Canadian poet.[1] He is a two-time nominee for the Governor General's Award for French-language poetry, at the 2013 Governor General's Awards for _Jacques Roche, je t'écris cette lettre_[2] and at the 2016 Governor General's Awards for _Je suis la fille du baobab brûlé_.[3]

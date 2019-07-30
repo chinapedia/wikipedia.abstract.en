@@ -1,1 +1,0 @@
-The SOUTHERN POVERTY LAW CENTER (SPLC) is an American nonprofit legal advocacy organization specializing in civil rights and public interest litigation. Based in Montgomery, Alabama, it is known for its successful legal cases against white supremacist groups, its classification of hate groups and other extremist organizations, and for promoting tolerance education programs.[1][2]

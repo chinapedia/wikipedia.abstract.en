@@ -1,1 +1,0 @@
-The 1981 HUMBERSIDE COUNTY COUNCIL ELECTION was held on Thursday, 7 May. Following boundary changes to the county's electoral divisions, the whole council of 75 members was up for election. The Labour Party regained control of the council from the Conservative Party, winning 42 seats.[1]

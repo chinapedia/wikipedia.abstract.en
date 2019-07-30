@@ -1,1 +1,0 @@
-In a religious context, SIN is an act of transgression against divine law.[1] In Islamic ethics, Muslims see sin as anything that goes against the commands of Allah (God). Judaism regards the violation of any of the 613 commandments as a sin. In Jainism, sin refers to anything that harms the possibility of the _jiva_ (being) to attain _moksha_ (supreme emancipation).

@@ -1,1 +1,0 @@
-The RIO DOS FRADES WILDLIFE REFUGE () is a wildlife refuge in the state of Bahia, Brazil. It protects the land around the mouth of the Frades River. There is pressure, or opportunity, to develop the reserve for tourism.

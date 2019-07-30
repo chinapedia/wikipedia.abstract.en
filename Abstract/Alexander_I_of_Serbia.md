@@ -1,1 +1,0 @@
-ALEXANDER I or ALEKSANDAR OBRENOVIĆ (; 14 August 187611 June 1903) was king of Serbia from 1889 to 1903 when he and his wife, Draga Mašin, were assassinated by a group of Royal Serbian Army officers,[1] led by Captain Dragutin Dimitrijević.

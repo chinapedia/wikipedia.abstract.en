@@ -1,1 +1,0 @@
-PÁDRAIG BRENNAN (born 25 December 1978) is an Irish former Gaelic football selector and retired player. His league and championship career with the Kildare senior team spanned nine seasons from 1997 until 2006.[1]

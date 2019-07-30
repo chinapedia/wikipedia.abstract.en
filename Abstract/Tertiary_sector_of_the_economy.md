@@ -1,1 +1,0 @@
-Product’s_lifecycle.jpg The TERTIARY SECTOR or SERVICE SECTOR is the third of the three economic sectors of the three-sector theory. The others are the secondary sector (approximately the same as manufacturing), and the primary sector (raw materials).

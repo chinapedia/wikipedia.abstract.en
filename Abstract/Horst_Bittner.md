@@ -1,1 +1,0 @@
-HORST BITTNER (14 June 1927 – 16 April 2013) was an East German politician (SED) and diplomat. Between 1965 and 1974 he served as the East German ambassador to the Soviet Union in succession to Rudolf Dölling.[1][2]

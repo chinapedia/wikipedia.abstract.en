@@ -1,1 +1,0 @@
-ST. LOUIS COLLEGE (Portuguese: _Colégio São Luís_), is a Brazilian Catholic school located in the city of São Paulo. It was founded by the Jesuits in 1867. The school has classes from kindergarten through high school.

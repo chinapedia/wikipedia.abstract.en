@@ -1,1 +1,0 @@
-FRANCESCA THOMPSON, O.S.F. (born April 29, 1932) is an African American member of the Sisters of St. Francis of Oldenburg, Indiana.[1][2] She was a leading academic in the field of theater and African-American studies.

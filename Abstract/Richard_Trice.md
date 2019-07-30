@@ -1,1 +1,0 @@
-RICHARD TRICE (November 16, 1917 – April 6, 2000) was an American blues guitarist, singer and songwriter.[1][2] He released two singles. He lived most of his life in his native North Carolina and played in its regional blues style, often referred to as Piedmont blues, East Coast blues, or more generally country blues.[3]

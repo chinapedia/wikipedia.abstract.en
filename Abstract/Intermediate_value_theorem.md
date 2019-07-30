@@ -1,1 +1,0 @@
-Illustration_for_the_intermediate_value_theorem.svg In mathematical analysis, the INTERMEDIATE VALUE THEOREM states that if a continuous function, _f_, with an interval, [_a_, _b_], as its domain, takes values _f_(_a_) and _f_(_b_) at each end of the interval, then it also takes any value between _f_(_a_) and _f_(_b_) at some point within the interval.

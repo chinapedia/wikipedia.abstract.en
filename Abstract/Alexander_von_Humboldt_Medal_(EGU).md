@@ -1,1 +1,0 @@
-The ALEXANDER VON HUMBOLDT MEDAL is awarded annually by the European Geosciences Union to scientists "who have performed research in developing regions for the benefit of people and society through which they have achieved exceptional international standing in geosciences and planetary and space sciences, defined in their widest senses".[1]

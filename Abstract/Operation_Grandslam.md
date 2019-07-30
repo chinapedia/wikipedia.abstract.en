@@ -1,1 +1,0 @@
-OPERATION GRANDSLAM was an offensive undertaken by United Nations peacekeeping forces from 28 December 1962 to 15 January 1963 against the gendarmerie of the State of Katanga, a secessionist state rebelling against the Republic of the Congo in central Africa. The Katangese forces were decisively defeated and Katanga was forcibly reintegrated into the Congo.

@@ -39,7 +39,7 @@ Schechter was an early advocate of Zionism. He was the chairman of the committee
 
 Legacy
 
-Hermann_Struck_Grafik_JMBerlin_GDR_98_1_19.jpg]] Schechter's name is synonymous with the findings of the Cairo Geniza. He placed the JTSA on an institutional footing strong enough to endure for over a century. He became identified as the foremost personality of Conservative Judaism and is regarded as its founder. A network of Conservative Jewish day schools is named in his honor, as well as a summer camp in Olympia, Washington. There are several dozen Solomon Schechter Day Schools across the United States and Canada.
+]] Schechter's name is synonymous with the findings of the Cairo Geniza. He placed the JTSA on an institutional footing strong enough to endure for over a century. He became identified as the foremost personality of Conservative Judaism and is regarded as its founder. A network of Conservative Jewish day schools is named in his honor, as well as a summer camp in Olympia, Washington. There are several dozen Solomon Schechter Day Schools across the United States and Canada.
 
 
 Bibliography

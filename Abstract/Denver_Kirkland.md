@@ -1,1 +1,0 @@
-DENVER KIRKLAND (born March 6, 1994) is an American football offensive guard for the Oakland Raiders of the National Football League (NFL). He played college football at Arkansas and was signed by the Raiders as an undrafted free agent in 2016.

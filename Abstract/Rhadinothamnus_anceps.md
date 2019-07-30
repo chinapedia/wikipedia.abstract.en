@@ -1,1 +1,0 @@
-Rhadinothamnus_anceps_foliage.jpg Rhadinothamnus_anceps_habit.jpg

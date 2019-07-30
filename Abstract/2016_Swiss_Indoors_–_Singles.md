@@ -1,1 +1,0 @@
-Roger Federer, the seven time winner and defending champion, did not participate due to injury. It would be the first time since 2005 that he would not play in the final. Federer had played in ten consecutive finals from 2006–2015.

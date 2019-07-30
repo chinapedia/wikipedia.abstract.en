@@ -1,1 +1,0 @@
-CYBELE RECORDS is a German record label based in Düsseldorf, specializing in classical music, namely contemporary music.[1] Founded in 1994, their motto is "Klassik der Zukunft" (Classics of the future), focused on contemporary composers and advanced recording technologies such as Super Audio CD and surround sound.

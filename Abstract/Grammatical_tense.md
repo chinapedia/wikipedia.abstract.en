@@ -1,1 +1,0 @@
-In grammar, TENSE is a category that expresses time reference with reference to the moment of speaking.[1][2] Tenses are usually manifested by the use of specific forms of verbs, particularly in their conjugation patterns.

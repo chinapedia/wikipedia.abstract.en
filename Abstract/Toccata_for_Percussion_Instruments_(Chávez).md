@@ -1,1 +1,0 @@
-The TOCCATA FOR PERCUSSION INSTRUMENTS (1942), was written by the twentieth-century Mexican composer Carlos Chávez. It is among his most popular compositions.[1] The composition is written for six musicians playing a number of percussion instruments.

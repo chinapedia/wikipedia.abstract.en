@@ -1,1 +1,0 @@
-The AMBASSADOR OF IRELAND TO SPAIN is the head of the Embassy of Ireland, Madrid, and the official representative of the Government of Ireland to the Government of Spain. The official title is AMBASSADOR OF IRELAND TO THE KINGDOM OF SPAIN.

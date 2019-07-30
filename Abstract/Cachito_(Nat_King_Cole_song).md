@@ -1,1 +1,0 @@
-"CACHITO" is song composed by Mexican songwriter and lyricist Consuelo Velázquez, popularized in a 1958 recording by Nat King Cole.[1] Cole included the track as first track on the Capitol Records EP _Cole Español_, and Capitol released "Cachito" as a single in Spain and Latin America.

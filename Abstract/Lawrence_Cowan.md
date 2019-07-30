@@ -1,1 +1,0 @@
-LAWRENCE OSCAR COWAN (September 18, 1858July 20, 1933) was an American judge, state legislator, city official, businessman, and miner in the Arizona Territory and state in the late 19th and early 20th centuries.

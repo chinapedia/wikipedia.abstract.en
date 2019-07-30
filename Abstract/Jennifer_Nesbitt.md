@@ -1,1 +1,0 @@
-Jennifer_Nesbitt_2017.jpg JENNIFER NESBITT (born 24 January 1995), also known as JENNY NESBITT, is a British long-distance runner.[1][2] She represented Wales in the 10000m at the 2018 Commonwealth Games.[3]

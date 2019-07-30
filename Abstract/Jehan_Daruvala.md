@@ -1,1 +1,0 @@
-JEHAN DARUVALA (born 1 October 1998) is an Indian racing driver, currently competing in the FIA Formula 3 Championship with Prema Powerteam. He is a protégé of the Force India F1 team, after being one of three winners of a 'One in a Billion hunt' organized by the team in 2011.[1]

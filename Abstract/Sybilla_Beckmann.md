@@ -1,1 +1,0 @@
-SYBILLA BECKMANN is a 2011 Josiah Meigs Distinguished Teaching Professor of Mathematics at the University of Georgia and is a previous recipient of the Association for Women in Mathematics Louise Hay Award.

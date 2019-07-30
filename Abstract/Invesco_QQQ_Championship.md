@@ -1,1 +1,0 @@
-The INVESCO QQQ CHAMPIONSHIP is a new professional golf tournament in California on the PGA Tour Champions, to be played at Sherwood Country Club in Lake Sherwood, California. The inaugural edition in October 2016 featured a 72-player field competing for a $2 million purse, and was a no-cut 54-hole event.

@@ -1,1 +1,0 @@
-_LEUCOPOGON AFFINIS_, commonly known as LANCE BEARD-HEATH and formerly known as _Leucopogon lanceolatus_ is a flowering plant in the heath family Ericaceae and is endemic to eastern Australia, including Tasmania and South Australia. It is an erect shrub with spikes of small white flowers in early spring, followed by orange-red fruit.

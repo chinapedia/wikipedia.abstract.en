@@ -1,1 +1,0 @@
-_THIS IS A JOURNEY...INTO TIME_ is a live album released in 1993 by the Washington, D.C.-based go-go band Chuck Brown & the Soul Searchers.[1][2] The album consists go-go renditions of classic jazz and swing songs performed with a go-go beat.[3][4]

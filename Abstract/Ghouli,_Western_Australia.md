@@ -1,1 +1,0 @@
-GHOULI, WESTERN AUSTRALIA (also spelled GHOOLI) was the location of NUMBER 6 PUMPING STATION[1] on the Goldfields Water Supply Scheme,[2] and is the location of the current pumping station number 14 on the pipeline.

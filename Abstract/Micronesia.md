@@ -1,1 +1,0 @@
-Pohnpei_of_Micronesia.jpg Oceania_UN_Geoscheme_-_Map_of_Micronesia.svg

@@ -1,1 +1,0 @@
-The 1957 BROWNLOW MEDAL was the 30th year the award was presented to the player adjudged the fairest and best player during the Victorian Football League (VFL) home and away season.[1] Brian Gleeson of the St Kilda Football Club won the medal by polling twenty-four votes during the 1957 VFL season.[2]

@@ -1,1 +1,0 @@
-SUTHAM PHANTHUSAK (, , 28 August 1947 – 18 May 2016) was a Thai businessman. He was an early contributor to the development of Pattaya, where he established the transgender cabaret _Tiffany's Show_ and the Woodlands Hotel & Resort.

@@ -1,1 +1,0 @@
-THE FAINTING CLUB is a members-only supper club for women, founded in 2014 by artist Zoe Crosher. Described as an "old boys' club, for girls", it celebrates and draws creative women from multiple disciplines—artists, writers, filmmakers, chefs, musicians—and welcomes any and all like-minded souls.[1]

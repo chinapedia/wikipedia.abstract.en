@@ -1,1 +1,0 @@
-ROBERT NEWTON CALVERT (9 March 1945 – 14 August 1988)[1] was a South African-born, English writer, poet, and musician. He is principally known for his role as lyricist and member of the space rock band Hawkwind.[2]

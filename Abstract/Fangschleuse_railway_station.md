@@ -1,1 +1,0 @@
-FANGSCHLEUSE RAILWAY STATION is a railway station serving Grünheide (Mark), in the State of Brandenburg, Germany. The station is located on the Berlin–Wrocław railway. The train services are operated by Deutsche Bahn.

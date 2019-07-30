@@ -1,1 +1,0 @@
-D.W. (FRITZ) NORRIS (February 2, 1876 – October 5, 1949), aka David Windsor “Fritz” Norris Jr. was an American newspaper publisher and businessman. He was born in Chicago, Ill. He graduated from Grinnell College in 1892.[1][2][3]

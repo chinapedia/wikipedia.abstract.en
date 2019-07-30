@@ -1,1 +1,0 @@
-EDMONIA "MONA" CAESAR CLAYTON HINTON (1919–2008) was an educator, music contractor, and bookkeeper, as well as a business partner and advisor for her husband, the bassist and photographer Milt Hinton.

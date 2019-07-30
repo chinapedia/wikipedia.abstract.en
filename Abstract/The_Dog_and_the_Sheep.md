@@ -1,1 +1,0 @@
-Steinhowel_dog_and_sheep.jpg

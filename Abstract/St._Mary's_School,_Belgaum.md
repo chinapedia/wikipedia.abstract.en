@@ -1,1 +1,0 @@
-ST. MARY'S HIGH SCHOOL is a co-educational school located in the Cantonment area in Belagavi, near the Head Post Office of Belagavi, India[1][2] and is regulated and supervised by Karnataka Secondary Education Examination Board. It was founded in 1851 and is celebrating its 165th jubilee in 2016. Near by educational institutions are Islamiya College and B K Model High School.

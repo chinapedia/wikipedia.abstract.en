@@ -1,1 +1,0 @@
-'''Caroline Knutsen ''' (born 21 November 1983) is a retired Norwegian footballer who played as a goalkeeper for the Norway women's national football team. She was part of the team at the UEFA Women's Euro 2009 and the 2011 FIFA Women's World Cup.[1] On club level she played for Asker, Vålerenga and Røa in Norway.[2]

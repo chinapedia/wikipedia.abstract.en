@@ -1,1 +1,0 @@
-The 2016–17 EGYPTIAN SECOND DIVISION (also known as DMC LEAGUE for sponsorship reasons) was the 37th edition of the Egyptian Second Division, the top Egyptian semi-professional level for football clubs, since its establishment in 1977. The season began on 17 October 2016 and concluded on 21 May 2017. Fixtures for the 2016–17 season were announced on 26 September 2016.[1]

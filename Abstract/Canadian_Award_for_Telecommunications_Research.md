@@ -1,1 +1,0 @@
-The CANADIAN AWARD FOR TELECOMMUNICATIONS RESEARCH (CATR) recognizes distinguished contributions made by an individual in Canada to research in the field of telecommunications.[1] The CATR is normally awarded biennially.

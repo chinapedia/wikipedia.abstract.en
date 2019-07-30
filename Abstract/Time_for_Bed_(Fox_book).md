@@ -1,1 +1,0 @@
-_TIME FOR BED_ is a 1993 Children's picture book by Mem Fox. It is about various baby animals getting ready for bed with gentle encouragement from their parents; finally a human mother tucks in her child.

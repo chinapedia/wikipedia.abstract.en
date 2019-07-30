@@ -1,1 +1,0 @@
-LYCOS, INC., is a web search engine and web portal established in 1994, spun out of Carnegie Mellon University. Lycos also encompasses a network of email, webhosting, social networking, and entertainment websites. The company is based in Waltham, Massachusetts, and is currently a subsidiary of Kakao.

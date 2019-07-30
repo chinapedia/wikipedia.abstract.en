@@ -1,1 +1,0 @@
-The PRINCIPAL STAFF OFFICER, abbreviated as PSO, is the head of the Armed Forces Division in Bangladesh. It is currently held by a three-star rank lieutenant general. The current PSO Lt. General Md Mahfuzur Rahman was appointed in February 2016.[1][2]

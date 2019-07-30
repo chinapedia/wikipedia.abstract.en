@@ -1,1 +1,0 @@
-SAM THOMSON (born 23 January 1994) is a Scottish rugby union player. He currently plays in Australia for the Warringah Rats in the Shute Shield, and NSW Country Eagles in the NRC. His usual position is at lock.

@@ -1,1 +1,0 @@
-KATIE MEHNERT is an American entrepreneur, business author, and speaker who is the Founder and Chief Executive Officer of Pink Petro, a global social media platform created for women professionals in the energy industry.[1][2][3][4][5]

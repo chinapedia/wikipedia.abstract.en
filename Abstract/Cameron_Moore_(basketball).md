@@ -1,1 +1,0 @@
-CAMERON MOORE (November 12, 1990 – October 4, 2016) was an American professional basketball player. Standing at , he played at the power forward and center positions. He played college basketball at the University of Alabama at Birmingham.

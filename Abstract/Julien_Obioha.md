@@ -1,1 +1,0 @@
-JULIEN OBIOHA (born July 7, 1994) is an American football defensive end who is currently a free agent. He played college football at Texas A&M, and signed with the New York Jets as an undrafted free agent in 2016.

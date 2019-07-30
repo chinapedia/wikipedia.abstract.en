@@ -1,1 +1,0 @@
-I ANTI-AIRCRAFT CORPS (I AA Corps) was a high-level formation of Britain's Anti-Aircraft Command from 1940 to 1942. It defended Southern England and Wales during the Blitz and the middle years of World War II.

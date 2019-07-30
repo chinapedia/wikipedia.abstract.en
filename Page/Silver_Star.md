@@ -1,4 +1,4 @@
-Mullen_Awards_Silver_Star_to_Capt._Ambrosia.JPG Captain Gregory Ambrosia receiving the Silver Star from Navy Admiral Michael Mullen, Chairman of the Joint Chiefs of Staff.]]
+Captain Gregory Ambrosia receiving the Silver Star from Navy Admiral Michael Mullen, Chairman of the Joint Chiefs of Staff.]]
 
 The SILVER STAR MEDAL is the United States Armed Forces's third-highest personal decoration for valor in combat. The Silver Star Medal is awarded primarily to members of the United States Armed Forces for gallantry in action against an enemy of the United States.
 
@@ -39,7 +39,7 @@ Second and subsequent awards of the Silver Star Medal are denoted by bronze or s
 
 Recipients
 
-Cheney_Presents_Silver_Star_to_Spc._Monica_Brown.jpg Specialist Monica Lin Brown receives the Silver Star from then-Vice President Dick Cheney, 2008.]] The Department of Defense does not keep extensive records for the Silver Star Medal. Independent groups estimate that between 100,000 and 150,000 SSMs have been awarded since the decoration was established.[12] Colonel David Hackworth who was awarded ten SSMs while serving in the Army during the Korean War and Vietnam War, is likely to be the person awarded the most SSMs.[13] Donald H. Russell, a civilian Vought F4U Corsair technical support engineer attached to a Marine Corps fighter wing, received the SSM for his actions aboard after the carrier was attacked by a Japanese dive bomber in March 1945.[14]
+Specialist Monica Lin Brown receives the Silver Star from then-Vice President Dick Cheney, 2008.]] The Department of Defense does not keep extensive records for the Silver Star Medal. Independent groups estimate that between 100,000 and 150,000 SSMs have been awarded since the decoration was established.[12] Colonel David Hackworth who was awarded ten SSMs while serving in the Army during the Korean War and Vietnam War, is likely to be the person awarded the most SSMs.[13] Donald H. Russell, a civilian Vought F4U Corsair technical support engineer attached to a Marine Corps fighter wing, received the SSM for his actions aboard after the carrier was attacked by a Japanese dive bomber in March 1945.[14]
 
 Female recipients
 

@@ -1,1 +1,0 @@
-SAMUEL OGEH (born 1968), also known as SAM OGEH is a state-level politician in Nigeria. He is a member of the Rivers State People's Democratic Party. He was elected as Member of the House of Assembly for the constituency of Emohua in the 2016 rerun election. He defeated APC candidate Chidi Lloyd by a majority of 8,208 votes.[1]

@@ -1,1 +1,0 @@
-EUGENE CURRAN KELLY (August 23, 1912 – February 2, 1996) was an American dancer, actor of film, stage, and television, singer, film director, producer, and choreographer. He was known for his energetic and athletic dancing style, his good looks, and the likable characters that he played on screen.

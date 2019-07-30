@@ -1,1 +1,0 @@
-İSKENDER KEBAP is one of the most well-known dishes of northwestern Turkey. It takes its name from its inventor, İskender Efendi (Master Alexander), who lived in Bursa in the late 19th century Ottoman Empire.

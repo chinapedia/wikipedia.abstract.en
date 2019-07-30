@@ -1,1 +1,0 @@
-_ZIERIA MONTANA_ is a plant in the citrus family Rutaceae and is endemic to a small area in south-east Queensland. It is a shrub with rough, ridged branches, leaves composed of three leaflets and groups of white, four-petalled flowers in spring and early summer.

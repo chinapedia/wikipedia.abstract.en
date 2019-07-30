@@ -1,1 +1,0 @@
-WYCK GODFREY is an American film and television producer best known for producing _The Twilight Saga_ series and _The Maze Runner_ series. He was also partner of production company Temple Hill Entertainment with his friend Marty Bowen, which they founded in 2006. In 2017, he was named President of Paramount Motion Pictures Group.[1]

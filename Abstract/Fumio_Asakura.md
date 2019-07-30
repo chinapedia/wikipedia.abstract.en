@@ -1,1 +1,0 @@
-was a Western-style Japanese sculptor, known as the father of modern Japanese sculpture and referred to as the "Rodin of Japan".[1] He was a prolific artist, and his work spanned the Meiji, Taishō, and Shōwa periods of Japanese history.[2]

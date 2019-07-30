@@ -1,1 +1,0 @@
-PETER STEINBERG (born 16 May 1971) is an American rugby union coach and former player. He is the current head coach of the United States.[1] He has previously coached the Penn State Rugby.[2] He was born in Cambridge, United Kingdom. Peter_Steinberg.jpg

@@ -1,4 +1,4 @@
-USS Enterprise}} USS_Enterprise_(NCC-1701),_ENT1231.jpg series.]] Enterprise_Forward.jpg_.]] Enterprise_NX-01.jpg_.]]
+USS Enterprise}} series.]] _.]] _.]]
 
 _ENTERPRISE_ or USS ''ENTERPRISE'' (often referred to as the "STARSHIP _ENTERPRISE_") is the name of several fictional spacecraft, some of which are the main craft and setting for various television series and films in the _Star Trek_ science fiction franchise. The most notable were Captain James T. Kirk's from the original 1960s television series, and Captain Jean-Luc Picard's from _Star Trek: The Next Generation_.
 
@@ -7,14 +7,14 @@ Depiction
 
 Pre-Federation era
 
-Two spacecraft with the name _Enterprise_ predate the United Federation of Planets in _Star Trek_{{'}}s fictional timeline. USS_Enterprise_(XCV_330).jpg REGISTRY: USS _Enterprise_ (XCV 330)
+Two spacecraft with the name _Enterprise_ predate the United Federation of Planets in _Star Trek_{{'}}s fictional timeline. REGISTRY: USS _Enterprise_ (XCV 330)
 CLASS: _Declaration_
 SERVICE: circa 2130s
 CAPTAIN: Unknown
 
 This USS _Enterprise_ (XCV 330) appears in _Star Trek: The Motion Picture_ (1979) among a series of illustrations depicting ships named _Enterprise_. It also appears as a model in _Star Trek Into Darkness_ (2013), together with models of the _Wright Flyer_, a V-2 rocket, a Bell X-1, a Vostok-3KA capsule, a Space Shuttle orbiter, and some _Star Trek_ universe starships. The 1979 _Star Trek Spaceflight Chronology_ describes this "first interstellar liner" as a _Declaration_-class ship launched in 2123.[1] Its length is given as , and it has a capacity of 100 crew and 850 passengers.[2] The _Star Trek Maps_ by New Eye Photography Editors, also published in 1979, listed this ship as a fusion drive probe that was Earth's first attempt to explore another star system. _The Making of Star Trek: The Motion Picture_, published in 1980, describes the ship as "the very first starship U.S.S. _Enterprise_".[3] A painting of this ship hangs on the wall of Earth's 602 Club in flashbacks that appeared in the _Star Trek: Enterprise_ episode "First Flight" (2003).
 
-enterprise_NX-01.jpg REGISTRY: _Enterprise_ (NX-01)
+REGISTRY: _Enterprise_ (NX-01)
 CLASS: NX
 SERVICE: 2151–2161 (10 years)
 CAPTAIN: Jonathan Archer (Scott Bakula)
@@ -29,7 +29,7 @@ _The Original Series_ era
 
 Three ships named USS _Enterprise_ are featured in the original _Star Trek_ television series and the first through seventh _Star Trek_ films.
 
-USS_Enterprise_(NCC-1701),_ENT1231.jpg REGISTRY:
+REGISTRY:
 CLASS: _Constitution_[6]
 SERVICE: 2245–2285 (40 years)
 CAPTAINS: Robert April (James Doohan [voice]), Christopher Pike (Jeffrey Hunter, Sean Kenney, Anson Mount), James T. Kirk (William Shatner), Willard Decker (Stephen Collins), Spock (Leonard Nimoy).
@@ -39,11 +39,11 @@ Details of the ship's appearance differed prior to the time period of the origin
 
 Reception
 
-In 2018, Io9/Gizmodo ranked the fictional spacecraft design shown in this television series, the Enterprise, as the number one best version of starship _Enterprise_ of the _Star Trek_ franchise.[11] They felt that the original design was still superior to almost a dozen different later versions.[12] USS_Enterprise_(NCC-1701-A).jpg REGISTRY:
+In 2018, Io9/Gizmodo ranked the fictional spacecraft design shown in this television series, the Enterprise, as the number one best version of starship _Enterprise_ of the _Star Trek_ franchise.[11] They felt that the original design was still superior to almost a dozen different later versions.[12] REGISTRY:
 CLASS: _Constitution_-class refit[13][14]
 SERVICE: 2286–2293 (7 years)
 CAPTAINS: James T. Kirk (William Shatner)
-This ship first appears at the conclusion of _Star Trek IV: The Voyage Home_ (1986) and is the main setting in the subsequent _Star Trek_ movies which use the original crew. The ship is ordered decommissioned at the end of _Star Trek VI: The Undiscovered Country_.[15] Non-canon information concerning this ship includes paperwork included with the model kit, which indicated the ship was mothballed at the Memory Alpha ship museum, and the Shatnerverse novel _The Ashes of Eden_ (1996), which depicted _Enterprise_-A's removal from the mothball fleet before being destroyed defending the planet Chal. USS_Enterprise-B_in_drydock.jpg REGISTRY: USS _Enterprise_ (NCC-1701-B)
+This ship first appears at the conclusion of _Star Trek IV: The Voyage Home_ (1986) and is the main setting in the subsequent _Star Trek_ movies which use the original crew. The ship is ordered decommissioned at the end of _Star Trek VI: The Undiscovered Country_.[15] Non-canon information concerning this ship includes paperwork included with the model kit, which indicated the ship was mothballed at the Memory Alpha ship museum, and the Shatnerverse novel _The Ashes of Eden_ (1996), which depicted _Enterprise_-A's removal from the mothball fleet before being destroyed defending the planet Chal. REGISTRY: USS _Enterprise_ (NCC-1701-B)
 CLASS: _Excelsior_-class refit[16]
 SERVICE: 2293–2329 (36 years)
 CAPTAINS: John Harriman (Alan Ruck)
@@ -53,19 +53,19 @@ _The Next Generation_ era
 
 Three ships named _Enterprise_ are featured in _Star Trek: The Next Generation_ and four _TNG_-era films.
 
-STYestEnterprise.jpg REGISTRY: USS _Enterprise_ (NCC-1701-C)
+REGISTRY: USS _Enterprise_ (NCC-1701-C)
 CLASS: _Ambassador_
 SERVICE: 2332[19] – 2344 (12 Years)
 CAPTAINS: Rachel Garrett (Tricia O'Neil)
 This ship appears in the _Next Generation_ episode "Yesterday's Enterprise" (1990).[20] It was destroyed attempting to defend the Klingon outpost Narendra III from Romulan attack.[21] Survivors included Tasha Yar (Denise Crosby), whose alternate timeline version from "Yesterday's _Enterprise_" travels with the ship back in time to the battle over Narendra III.[22] The actions of the _Enterprise_-C's crew became a catalyst for the alliance between the Federation and the Klingon Empire.[23]
 
-Enterprise_Forward.jpg REGISTRY:
+REGISTRY:
 CLASS: _Galaxy_
 SERVICE: 2363–2371 (8 Years)
 CAPTAINS: Jean-Luc Picard (Patrick Stewart), William T. Riker (Jonathan Frakes), Edward Jellico (Ronny Cox)
 The main setting of _Star Trek: The Next Generation_ (1987–1994).[24] During _Star Trek Generations_, _Enterprise_ was lost in 2371 after an attack by the Duras sisters' renegade Klingon Bird-of-Prey which caused extensive damage, leading to a warp core breach. Although the saucer section was safely separated before the breach, the shock wave from the exploding engineering hull threw it out of control, and caused it to crash-land beyond recovery on Veridian III.[25] The ship also appears in the first _Deep Space Nine_ episode "Emissary" and the final _Enterprise_ episode "These Are the Voyages..."
 
-USS_Enterprise_E_First_Contact.jpg REGISTRY:
+REGISTRY:
 CLASS: _Sovereign_
 SERVICE: 2372 –
 CAPTAIN: Jean-Luc Picard (Patrick Stewart)
@@ -75,21 +75,19 @@ Future and/or Alternate timelines
 
 Alternate future
 
-EnterpiseDALtTIME.jpg REGISTRY: USS _Enterprise_ (NCC-1701-D)
+REGISTRY: USS _Enterprise_ (NCC-1701-D)
 CLASS: _Galaxy_ refit
 SERVICE: circa 2395
 CAPTAIN: Full Admiral William T. Riker (Jonathan Frakes)
 In "All Good Things...", the final episode of _Star Trek: The Next Generation_, _Enterprise_-D was shown in an alternate future where it had not crashed during the events of _Star Trek Generations_, and instead had been made Admiral William T. Riker's personal flagship. The ship has a third nacelle (making it capable of at least Warp 13), cloaking ability, a spinal phaser lance, and large phaser cannons on the saucer section. In 2018, CBR notes Admiral Riker's future Enterprise 1701-D version as one of the powerful starships of the _Star Trek_ science fiction universe.[26]
 
-EnterpriseJ.jpg REGISTRY: USS _Enterprise_ (NCC-1701-J)
+REGISTRY: USS _Enterprise_ (NCC-1701-J)
 ''' Class: ''' Universe
 SERVICE: 26th century
 CAPTAIN(S): Dax
 The "Azati Prime" episode of _Star Trek: Enterprise_ involves time travel and features a scene in which _Enterprise_-J appears. _Enterprise_-J operates in a possible timeline during the 26th century. In this timeline, _Enterprise_-J participated in the Battle of Procyon V, a climactic battle in which the Federation successfully drove the invasive trans-dimensional beings known as the Sphere Builders back into their own realm. The ship's crew included a descendant of the Xindi scientist Degra.[27]
 
 Games
-
-NCC-1701-F
 
 REGISTRY: USS _Enterprise_ (NCC-1701-F)
 ''' Class: ''' _Odyssey_
@@ -115,7 +113,7 @@ A Mirror Universe _Enterprise_ appears in the original _Star Trek_ episode "Mirr
 
 Reboot (_Kelvin_ Timeline) films
 
-The 2009 _Star Trek_ film takes place in a new reality created when the Romulan character Nero traveled through time via an artificial black hole. Newoldenterprise.jpg REGISTRY:
+The 2009 _Star Trek_ film takes place in a new reality created when the Romulan character Nero traveled through time via an artificial black hole. REGISTRY:
 SERVICE: 2258–2263 (5 Years)
 CAPTAINS: Christopher Pike (Bruce Greenwood), James T. Kirk (Chris Pine)
 
@@ -146,7 +144,7 @@ In Gene Roddenberry's original _Star Trek_ pitch, the starship is described as a
 
 Redesign for _Star Trek: Planet of the Titans_
 
-Phase_II_Enterprise.jpg's redesigned _Enterprise_ from _Star Trek: Planet of the Titans_]] In 1976, before _Star Trek: The Motion Picture_, Paramount had planned a _Star Trek_ film to have been named _Star Trek: Planet of the Titans_. Early in the production, Ralph McQuarrie had been hired to redesign the _Enterprise_. The major feature of the redesign was to replace the cigar-shaped secondary hull with a larger, triangle-shaped "delta wing" section. McQuarrie's design was discarded in favor of keeping the general shape of the _Enterprise_ intact for the redesign unveiled in _Star Trek: The Motion Picture_.
+'s redesigned _Enterprise_ from _Star Trek: Planet of the Titans_]] In 1976, before _Star Trek: The Motion Picture_, Paramount had planned a _Star Trek_ film to have been named _Star Trek: Planet of the Titans_. Early in the production, Ralph McQuarrie had been hired to redesign the _Enterprise_. The major feature of the redesign was to replace the cigar-shaped secondary hull with a larger, triangle-shaped "delta wing" section. McQuarrie's design was discarded in favor of keeping the general shape of the _Enterprise_ intact for the redesign unveiled in _Star Trek: The Motion Picture_.
 
 Three decades later, the McQuarrie design for the _Enterprise_ was adopted as the basis for the design of the USS _Discovery_ in _Star Trek: Discovery_, a 2017 series that takes place ten years earlier than the original _Star Trek_.[41]
 

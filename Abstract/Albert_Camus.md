@@ -1,1 +1,0 @@
-ALBERT CAMUS (; ; 7 November 1913 – 4 January 1960) was a French philosopher, author, and journalist. He won the Nobel Prize in Literature at the age of 44 in 1957, the second youngest recipient in history.

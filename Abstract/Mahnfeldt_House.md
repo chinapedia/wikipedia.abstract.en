@@ -1,1 +1,0 @@
-The MAHNFELDT HOUSE (Danish: Mahnfeldts Gård) is a listed property fronting the Nyhavn canal in Copenhagen, Denmark. It takes its name after the company E. Mahnfeldt, which was based at the site from 1852 to 1942.

@@ -1,1 +1,0 @@
-EMMA WHITE (born August 23, 1997) is an American professional racing cyclist, who currently rides for UCI Women's Team .[1] She is a three-time national junior cyclo-cross champion[2] and won a bronze medal in the 2015 U23 national cyclo-cross championships.[3]

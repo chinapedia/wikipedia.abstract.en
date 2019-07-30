@@ -1,1 +1,0 @@
-FIORELLA NEGRO (born 26 May 1938) is an Italian former competitive figure skater. She represented Italy at the 1956 Winter Olympics in Cortina d'Ampezzo.[1][2] She also appeared at three European and three World Championships. Her best result, 7th, came at the 1955 European Championships in Budapest, Hungary.

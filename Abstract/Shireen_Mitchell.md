@@ -1,1 +1,0 @@
-SHIREEN MITCHELL is an American entrepreneur, author, technology analyst and diversity strategist. She founded Digital Sisters/Sistas, Inc.,[1] the first organization dedicated to bringing women and girls of color online and Stop Online Violence Against Women (SOVAW),[2] a project that addresses laws and policies to provide protections for women while online.

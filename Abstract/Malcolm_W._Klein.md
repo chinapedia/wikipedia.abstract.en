@@ -1,1 +1,0 @@
-MALCOLM KLEIN (born September 4, 1930) is a criminologist, researcher, theorist, retired professor of Sociology at the University of Southern California, and the author of his book _The American Street Gang_. In addition, he continued to publish eighteen other books and more than fifty articles that are based on his research on gangs.

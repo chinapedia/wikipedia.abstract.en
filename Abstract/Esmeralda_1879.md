@@ -1,1 +1,0 @@
-La Esmeralda, 1879 is a Chilean film about the naval Battle of Iquique, which took place on May 21, 1879 in the harbor of this coastal town in the Tarapacá Region. Directed by Elijah Llanos, it was released in 2010 after four years of recordings (2005-2009).

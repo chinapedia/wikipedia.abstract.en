@@ -1,1 +1,0 @@
-BUNSOM MARTIN (, , 19 September 1922 – 9 June 2008) was a Thai medical doctor and university professor who pioneered the establishment of physical education in Thailand. He served as Minister of Education, Minister of Public Health, and President of Chiang Mai University.

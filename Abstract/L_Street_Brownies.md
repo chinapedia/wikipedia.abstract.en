@@ -1,1 +1,0 @@
-L_Street_Brownies,_1913.jpg The L STREET BROWNIES are a polar bear club based in South Boston, Massachusetts. Organized in 1902, it is one of the oldest such clubs in the United States. Although the Brownies swim year round, they are best known for their annual New Year's Day plunge in Dorchester Bay.

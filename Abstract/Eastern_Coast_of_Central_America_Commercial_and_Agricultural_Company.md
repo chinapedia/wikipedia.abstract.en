@@ -1,1 +1,0 @@
-The EASTERN COAST OF CENTRAL AMERICA COMMERCIAL AND AGRICULTURAL COMPANY was a failed British venture of the 1830s to exploit logging and promote colonisation in a region of what is now northern Guatemala.

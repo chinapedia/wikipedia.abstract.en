@@ -1,1 +1,0 @@
-_AQUILEGIA_ (common names: GRANNY'S BONNET[1], COLUMBINE) is a genus of about 60–70 species[2] of perennial plants that are found in meadows, woodlands, and at higher altitudes throughout the Northern Hemisphere, known for the spurred petals [3] of their flowers.

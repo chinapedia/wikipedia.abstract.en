@@ -1,1 +1,0 @@
-'''Oliver "Oli" Wood ''' (born 26 November 1995) is a British cyclist who rides for the WIGGINS team.[1] He has represented Great Britain at international competitions in track cycling winning bronze medals at the 2016 UEC European Track Championships in the team pursuit[2] and at the 2018 UEC European Track Championships in the madison.[3]

@@ -1,1 +1,0 @@
-ILLUMINATED MANNEQUINS are a home decor piece that were popular in the 1970s and 1980s in the United States. Although niche items of decor, their less known style was a symbol in 70s fashion and home furnishing.

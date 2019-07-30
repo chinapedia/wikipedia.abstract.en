@@ -1,1 +1,0 @@
-MIHIRA SIRITHILAKA, (born May 28, 1980 as මිහිර සිරිතිලක [Sinhala]) is an actor in Sri Lankan cinema.[1] As a drama and comedy actor, he has starred in plays, teledramas and cinema. As well as being an actor, Sirithilaka is also known as a screenplay writer.[2]

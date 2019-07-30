@@ -1,1 +1,0 @@
-SOON-YI PREVIN (; born 8 October 1970) is the adopted daughter of actress Mia Farrow and musician André Previn, and the wife of filmmaker Woody Allen. Previn is notable for her relationship with Allen, who was Mia Farrow's romantic partner before becoming involved with Previn. Previn's relationship with Allen became national news in 1992.

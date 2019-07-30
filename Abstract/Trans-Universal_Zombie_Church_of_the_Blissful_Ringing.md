@@ -1,1 +1,0 @@
-Zombi.png The TRANS-UNIVERSAL ZOMBIE CHURCH OF THE BLISSFUL RINGING () is a contemporary religion in Slovenia, founded in March 2013 and registered in the national registry of religious communities in 2014.[1] As of late 2014, the church had over 10,000 members, making it the fifth largest religion in Slovenia.[2][3]

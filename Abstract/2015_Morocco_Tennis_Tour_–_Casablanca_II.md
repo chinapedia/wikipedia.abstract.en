@@ -1,1 +1,0 @@
-The 2015 MOROCCO TENNIS TOUR – CASABLANCA II was a professional tennis tournament played on clay courts. It was the first edition of the tournament which was part of the 2015 ATP Challenger Tour. It took place in Casablanca, Morocco between 12 and 17 October 2015.

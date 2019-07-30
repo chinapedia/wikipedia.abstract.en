@@ -1,1 +1,0 @@
-Hansen{{·}} Haberler{{·}} Slichter{{·}} Chamberlin{{·}} Baumol{{·}} Leontief{{·}}Knight | influenced = Samuelson{{·}} Metzler{{·}} Galbraith{{·}} Bergson{{·}} Musgrave{{·}} Goodwin{{·}} Krugman{{·}} Griffith-Jones{{·}} Kaul{{·}} Wolff | contributions = Portfolio theory

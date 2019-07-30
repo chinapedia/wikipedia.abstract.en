@@ -1,1 +1,0 @@
-The 2017 TOURING CAR ENDURANCE SERIES POWERED BY HANKOOK will be the second season of the Touring Car Endurance Series (TCES). Creventic is the organiser and promoter of the series. The races will be contested with touring cars.

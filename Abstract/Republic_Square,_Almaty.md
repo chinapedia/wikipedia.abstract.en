@@ -1,1 +1,0 @@
-REPUBLIC SQUARE (, _Respýblıka Alańy_; , _Ploshchad' Respubliki_) is the main square in Almaty, Kazakhstan. It is used for public events. The former presidential palace, now used as municipal offices, is on its south side.[1]

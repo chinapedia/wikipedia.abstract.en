@@ -1,1 +1,0 @@
-The attitudes toward lesbian, gay, bisexual and transgender (LGBT) people and their experiences in the Muslim world have been influenced by its religious, legal, social, political and cultural history.

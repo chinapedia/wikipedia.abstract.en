@@ -1,1 +1,0 @@
-Jim_Jones_(Jim_Jones_&_The_Righteous_Mind)_-_Festival_Relache,_Bordeaux_(2015-05-26_16.51.58_by_Patrice_CALATAYU).jpg JIM JONES AND THE RIGHTEOUS MIND are an English rock band, formed in November 2014 by Jim Jones and Gavin Jay following the break-up of The Jim Jones Revue. The current line-up also features multi-instrumentalist Mal Troon and keyboard player Matt Millership.

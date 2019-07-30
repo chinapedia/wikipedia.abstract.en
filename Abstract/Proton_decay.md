@@ -1,1 +1,0 @@
-Proton_decay.svgs, weak hypercharges, and color charges for particles in the Georgi–Glashow model. Here, a proton, consisting of two up quarks and a down, decays into a pion, consisting of an up and anti-up, and a positron, via an X boson with electric charge −⁴_/_₃.]]

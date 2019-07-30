@@ -1,1 +1,0 @@
-The 1941 WELLINGTON CITY MAYORAL ELECTION was part of the New Zealand local elections held that same year. In 1941, elections were held for the Mayor of Wellington and fifteen city councillors plus seats on the Wellington Hospital Board and Wellington Harbour Board. The polling was conducted using the standard first-past-the-post electoral method.

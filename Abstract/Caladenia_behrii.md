@@ -1,1 +1,0 @@
-_CALADENIA BEHRII_, commonly known as PINK-LIPPED SPIDER ORCHID is a plant in the orchid family Orchidaceae and is endemic to South Australia. It has a single narrow, hairy leaf and one or two creamy-white flowers with pink tips in early spring.

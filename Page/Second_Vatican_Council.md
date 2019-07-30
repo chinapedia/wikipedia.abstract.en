@@ -15,7 +15,7 @@ Pope John XXIII, however, gave notice of his intention to convene the Council on
 
 Chronology
 
-Second_Vatican_Council_by_Lothar_Wolleh_005.jpg candles, suspended on high chandeliers.]]
+candles, suspended on high chandeliers.]]
 
 Preparation
 
@@ -25,7 +25,7 @@ He had tested the idea only ten days before with one of them, his Cardinal Secre
 
 Actual preparations for the Council took more than two years, and included work from 10 specialised commissions, people for mass media and Christian Unity, and a Central Commission for overall coordination. These groups, composed mostly of members of the Roman Curia, produced 987 proposed constituting sessions, making it the largest gathering in any council in church history. (This compares to Vatican I, where 737 attended, mostly from Europe.)[19] Attendance varied in later sessions from 2,100 to over 2,300. In addition, a varying number of _periti_ () were available for theological consultation—a group that turned out to have a major influence as the council went forward. Seventeen Orthodox Churches and Protestant denominations sent observers. More than three dozen representatives of other Christian communities were present at the opening session, and the number grew to nearly 100 by the end of the 4th Council Sessions.
 
-Missa_tridentina_002.jpg celebrating Tridentine Mass, the form of the Mass prevalent before the Council, during the elevation of the chalice after the consecration.]]
+celebrating Tridentine Mass, the form of the Mass prevalent before the Council, during the elevation of the chalice after the consecration.]]
 
 Opening
 
@@ -37,7 +37,7 @@ Pope John XXIII opened the Council on 11 October 1962 in a public session and re
 
 Commissions
 
-Jerusalem_(5564340698).jpg'' became the common posture and gesture practised after the council. Note that the priest faces the congregation, while the vestments and religious artwork are less intense and ornate.]] The bishops met to discuss the membership of the commissions, along with other issues, both in national and regional groups, as well as in gatherings that were more informal. The _schemata_ (Latin for drafts) from the preparatory sessions were thrown out, and new ones were created. When the council met on 16 October 1962, a new slate of commission members was presented and approved by the Council.[23] One important change was a significant increase in membership from Central and Northern Europe, instead of countries such as Spain or Italy. More than 100 bishops from Africa, Asia, and Latin America were Dutch or Belgian and tended to associate with the bishops from those countries. These groups were led by Cardinals Bernardus Johannes Alfrink of the Netherlands and Leo Suenens of Belgium.[24]
+'' became the common posture and gesture practised after the council. Note that the priest faces the congregation, while the vestments and religious artwork are less intense and ornate.]] The bishops met to discuss the membership of the commissions, along with other issues, both in national and regional groups, as well as in gatherings that were more informal. The _schemata_ (Latin for drafts) from the preparatory sessions were thrown out, and new ones were created. When the council met on 16 October 1962, a new slate of commission members was presented and approved by the Council.[23] One important change was a significant increase in membership from Central and Northern Europe, instead of countries such as Spain or Italy. More than 100 bishops from Africa, Asia, and Latin America were Dutch or Belgian and tended to associate with the bishops from those countries. These groups were led by Cardinals Bernardus Johannes Alfrink of the Netherlands and Leo Suenens of Belgium.[24]
 
 Eleven commissions and three secretariats were established, with their respective presidents:[25][26][27][28][29]
 
@@ -73,7 +73,7 @@ Pope Paul's opening address on 29 September 1963 stressed the pastoral nature of
 
 During this period, the bishops approved the constitution on the liturgy, _Sacrosanctum Concilium_, and the decree on social communication, _Inter mirifica_. Work went forward with the schemata on the Church, bishops and dioceses, and ecumenism. On 8 November 1963, Josef Frings criticized the Holy Office, and drew an articulate and impassioned defense by its Secretary, Alfredo Ottaviani. This exchange is often considered the most dramatic of the council (Cardinal Frings' theological adviser was the young Joseph Ratzinger, who would later as a Cardinal head the same department of the Holy See, and from 2005–13 reign as Pope Benedict XVI). The second period ended on 4 December.
 
-Second_Vatican_Council_by_Lothar_Wolleh_001.jpg presiding over the introductory ingress of the Council, flanked by Cardinal Alfredo Ottaviani (left), Cardinal Camerlengo Benedetto Aloisi Masella and Monsignor Enrico Dante (future Cardinal), Papal Master of Ceremonies (right), and two Papal gentlemen.]]
+presiding over the introductory ingress of the Council, flanked by Cardinal Alfredo Ottaviani (left), Cardinal Camerlengo Benedetto Aloisi Masella and Monsignor Enrico Dante (future Cardinal), Papal Master of Ceremonies (right), and two Papal gentlemen.]]
 
 Third period: 1964
 
@@ -111,7 +111,7 @@ A major event of the final days of the council was the act of Pope Paul and Orth
 
 Key content and issues
 
-SemanaSantaSevillaAguas2.jpg of the Virgin Mary (not to be confused with Good Friday which commemorates the crucifixion of Jesus) as unnecessary repetition before Palm Sunday is an example of changes in the Liturgical Calendar after the council. The Virgin of Hope of Macarena, in her imperial regalia, Spain.]]
+of the Virgin Mary (not to be confused with Good Friday which commemorates the crucifixion of Jesus) as unnecessary repetition before Palm Sunday is an example of changes in the Liturgical Calendar after the council. The Virgin of Hope of Macarena, in her imperial regalia, Spain.]]
 
 Liturgy
 
@@ -135,7 +135,7 @@ In his plan for the new millennium, _Novo millennio ineunte_, John Paul II said 
 
 Scripture and divine revelation
 
-Lectio_divina.jpg rather than relying solely on devotional writings, booklets and the lives of the Catholic saints.]] The council sought to revive the central role of Scripture in the theological and devotional life of the Church, building upon the work of earlier popes in crafting a modern approach to Scriptural analysis and interpretation. A new approach to interpretation was approved by the bishops. The Church was to continue to provide versions of the Bible in the "mother tongues" of the faithful, and both clergy and laity were to continue to make Bible study a central part of their lives. This affirmed the importance of Sacred Scripture as attested by Providentissimus Deus by Pope Leo XIII and the writings of the Saints, Doctors, and Popes throughout Church history but also approved historically conditioned interpretation of Scripture as presented in Pius XII's 1943 encyclical _Divino afflante Spiritu_.
+rather than relying solely on devotional writings, booklets and the lives of the Catholic saints.]] The council sought to revive the central role of Scripture in the theological and devotional life of the Church, building upon the work of earlier popes in crafting a modern approach to Scriptural analysis and interpretation. A new approach to interpretation was approved by the bishops. The Church was to continue to provide versions of the Bible in the "mother tongues" of the faithful, and both clergy and laity were to continue to make Bible study a central part of their lives. This affirmed the importance of Sacred Scripture as attested by Providentissimus Deus by Pope Leo XIII and the writings of the Saints, Doctors, and Popes throughout Church history but also approved historically conditioned interpretation of Scripture as presented in Pius XII's 1943 encyclical _Divino afflante Spiritu_.
 
 Bishops
 
@@ -144,7 +144,7 @@ The role of the bishops was brought into renewed prominence, especially when see
 
 Objections to the council
 
-Missale_Romanum_Pustet.jpg reprint from its 1884 edition]] The questioning of the nature of and even validity of the Second Vatican Council continues to be a contending point of rejection and conflict among various religious communities, some of which are not in communion with the Roman Catholic Church.[50] In particular, two schools of thought may be discerned:
+reprint from its 1884 edition]] The questioning of the nature of and even validity of the Second Vatican Council continues to be a contending point of rejection and conflict among various religious communities, some of which are not in communion with the Roman Catholic Church.[50] In particular, two schools of thought may be discerned:
 
 -   Various Traditionalist Catholics, who claim that the modernising reforms that resulted both directly or indirectly from the council consequently brought detrimental effects, heretical acts, and indifference to the customs, beliefs, and pious practices of the Church before 1962. In addition, they say there is a doctrinal contradiction between the council and earlier papal statements regarding faith, morals and doctrine declared prior to the council itself.[51] Furthermore, they claim that the council decentralised the previous notion of the Catholic Church's supremacy over other religions while demoralising its longstanding pious practices of religiosity. They assert that, since there were no dogmatic proclamations defined within the documents of the council, such documents are not infallible and therefore not canonically binding for faithful Roman Catholics, most notably when such concilliar documents give way, as they say, to the loose implementation of longstanding Catholic doctrines that were previously sanctioned and upheld by former Popes prior to 1962. In light of this, most Traditionalist Catholics often exclusively adhere to the 1917 Code of Canon Law.
 -   Sedevacantists go beyond this in asserting that after breaking with Catholic tradition and espousing heresy, present and future popes cannot legitimately claim the papacy, and therefore it remains vacant, until another papal claimant formally abandons the Vatican II council and re-establishes former traditional norms (prior to 1962).
@@ -154,7 +154,7 @@ The most recent edition of the 1983 Code of Canon Law states that Catholics may 
 
 Legacy
 
-Bishop_ring_for_Second_Vatican_Council_participants_02.tif Bundesarchiv_Bild_121-0320,_Krakau,_Gefängnis_Montelupich,_Klosterschwester.jpg, worn by a Polish nun habit in 1939, was later abandoned in 1964 after the sweeping aesthetic changes brought by the Second Vatican Council.]] In addition to general spiritual guidance, the Second Vatican Council produced very specific recommendations, such as in the document _Gaudium et Spes_: "Any act of war aimed indiscriminately at the destruction of entire cities of extensive areas along with their population is a crime against God and man himself. It merits unequivocal and unhesitating condemnation."[53]
+, worn by a Polish nun habit in 1939, was later abandoned in 1964 after the sweeping aesthetic changes brought by the Second Vatican Council.]] In addition to general spiritual guidance, the Second Vatican Council produced very specific recommendations, such as in the document _Gaudium et Spes_: "Any act of war aimed indiscriminately at the destruction of entire cities of extensive areas along with their population is a crime against God and man himself. It merits unequivocal and unhesitating condemnation."[53]
 
 By "the spirit of Vatican II" is often meant promoting teachings and intentions attributed to the Second Vatican Council in ways not limited to literal readings of its documents, spoken of as the "letter" of the Council[54][55] (cf. Saint Paul's phrase, "the letter kills, but the Spirit gives life").[56]
 

@@ -1,1 +1,0 @@
-Europe_to_South_American_in_3_Days_Poster_(19482266291).jpg

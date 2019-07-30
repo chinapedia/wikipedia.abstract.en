@@ -1,1 +1,0 @@
-ALEXANDRA OLAYA-CASTRO is a Colombian theoretical physicist, currently a Professor in the Department of Physics and Astronomy at University College London. She is also the Vice-Dean (Equality, Diversity and Inclusion) for the Mathematical and Physical science Faculty.[1]

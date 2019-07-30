@@ -1,1 +1,0 @@
-_GAMMA WORLD_ is a science fantasy role-playing game, originally designed by James M. Ward and Gary Jaquet, and first published by TSR in 1978. It borrowed heavily from Ward's earlier product, _Metamorphosis Alpha_.[1]

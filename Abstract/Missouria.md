@@ -1,1 +1,0 @@
-The MISSOURIA or MISSOURI (in their own language, NIÚACHI, also spelled NIUTACHI) are a Native American tribe that originated in the Great Lakes region of United States before European contact.[1] The tribe belongs to the Chiwere division of the Siouan language family, together with the Iowa and Otoe.

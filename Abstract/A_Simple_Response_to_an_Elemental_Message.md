@@ -1,1 +1,0 @@
-A SIMPLE RESPONSE TO AN ELEMENTAL MESSAGE (ASREM) was an Interstellar Radio Message (IRM) consisting primarily of 3775 worldwide responses to this initiative's posed question; "_How will our present, environmental interactions shape the future?_" This transmission also features a smaller 'Honorary Mention' text archive and a series of images of Earth.

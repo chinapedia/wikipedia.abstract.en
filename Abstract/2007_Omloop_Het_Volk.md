@@ -1,1 +1,0 @@
-The 62nd edition of OMLOOP HET VOLK cycling event was held on 3 March 2007. The race was won by Italian rider Filippo Pozzato in a five-man sprint before Juan Antonio Flecha and Tom Boonen.[1] It was ranked a 1.HC event of the 2006–07 UCI Europe Tour. The edition marked the last time the race finished in Lokeren before it moved back to Ghent.

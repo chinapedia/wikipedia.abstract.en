@@ -1,1 +1,0 @@
-Niger_Army_322nd_Parachute_Regiment.jpg

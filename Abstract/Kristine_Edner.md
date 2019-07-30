@@ -1,1 +1,0 @@
-KRISTINE EDNER WÆHLER (born 8 November 1976 in Røa) is a retired Norwegian footballer who played as a midfielder for the Norway women's national football team. She was part of the team at the 2003 FIFA Women's World Cup. On club level she played for Røa IL in Norway.[1]

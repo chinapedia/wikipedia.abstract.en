@@ -1,1 +1,0 @@
-K. PURUSHOTHAMA KURUP or K. P. KURUP is a politician and present municipal chairman of Paravur municipality in Kollam district, India.[1] He is an active politician and CPI(M)'s Chathannoor area committee secretary. Now he is in his third turn as the municipal chairman of Paravur.[2] He had also represented the opposition leader position in Paravur many times.[3]

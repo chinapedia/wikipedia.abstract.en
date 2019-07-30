@@ -1,1 +1,0 @@
-PERGAMON ( or ), PERGAMOS [1] or PERGAMUM () ( or ), was a rich and powerful ancient Greek city in Aeolis. It is located from the modern coastline of the Aegean Sea on a promontory on the north side of the river Caicus (modern-day Bakırçay) and northwest of the modern city of Bergama, Turkey.

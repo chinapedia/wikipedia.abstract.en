@@ -1,1 +1,0 @@
-New_smyril_11.56.jpg, with the new vessel Smyril on the left]] The Faroe Islands is served by an internal transport system based on roads, ferries, and helicopters. As of the 1970s, the majority of the population centres of the Faroe Islands have been joined to a single road network, connected by bridges and tunnels.

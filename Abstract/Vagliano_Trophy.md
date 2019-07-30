@@ -1,1 +1,0 @@
-Valiano_Trophy_French_team_1913.jpg The VAGLIANO TROPHY is a biennial women's amateur golf tournament. It is co-organised by the R&A and the European Golf Association and is contested by teams representing "Great Britain and Ireland" and the "Continent of Europe". It is played in odd-numbered years; the Curtis Cup being played in even-numbered years.

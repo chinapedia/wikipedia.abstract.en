@@ -1,1 +1,0 @@
-BAJWAT (Punjabi, ) is located in the Sialkot district (32°62 N and 74°60 E) and Narowal district of Punjab province in Pakistan. It comprises 84 villages, with a population of 110,000 according to 2018 Servoy.

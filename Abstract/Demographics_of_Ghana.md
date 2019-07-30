@@ -1,1 +1,0 @@
-The DEMOGRAPHY OF GHANA describes the condition and overview of Ghana's population. This article is about the demographic features of the population of Ghana, including population density, ethnicity, education level, health of the populace, religious affiliations and other aspects of the population.

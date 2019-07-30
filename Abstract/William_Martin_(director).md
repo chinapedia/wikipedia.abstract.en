@@ -1,1 +1,0 @@
-WILLIAM (BILL) MARTIN was an American theatre director, playwright, and acting coach. His credits include Tony Award nominated rock opera _The Lieutenant._ He received a Drama Desk Award nomination for “Best Director.

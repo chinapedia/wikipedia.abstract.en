@@ -1,1 +1,0 @@
-AMMONIUS GRAMMATICUS (; ) was a 4th-century Egyptian priest who, after the destruction of the pagan temple at Alexandria (389), fled to Constantinople, where he became the tutor of the ecclesiastical historian Socrates.[1]

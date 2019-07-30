@@ -1,1 +1,0 @@
-_RIKTHA_ is a 2017 Indian Kannada comedy horror film directed by debutante Amruth Kumar and produced by G. Arun Kumar.[1] The film features Sanchari Vijay donning four different roles: a child, a lover, a drunkard and a comedian.[2] Vagdevi Advika and Ramya Varshini also feature in the lead roles. The film's music is composed by Rocky Sonu and the cinematography is by Muralidhar.

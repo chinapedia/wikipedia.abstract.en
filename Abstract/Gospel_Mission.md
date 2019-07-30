@@ -1,1 +1,0 @@
-_GOSPEL MISSION_ is an album by American jazz trumpeter, composer and arranger Shorty Rogers, issued by Capitol Records in 1963.[1] It would be the last album released under Roger's leadership for two decades when he focussed on arrangements for film and TV.

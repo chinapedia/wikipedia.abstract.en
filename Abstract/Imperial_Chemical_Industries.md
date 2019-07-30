@@ -1,1 +1,0 @@
-IMPERIAL CHEMICAL INDUSTRIES (ICI) was a British chemical company and was, for much of its history, the largest manufacturer in Britain.[1] It was formed by the merger of leading British chemical companies in 1926. Its headquarters were at Millbank in London, and it was a constituent of the FT 30 and later the FTSE 100 indices.

@@ -1,1 +1,0 @@
-MURRAY MCLACHLAN (born 19 January 1941) is a South African former swimmer. He competed in two events at the 1960 Summer Olympics. At the 1958 British Empire and Commonwealth Games McLachlan competed in the 110 yards freestyle not progressing past the heats.[1]

@@ -1,1 +1,0 @@
-VASILISA FORBES (born Moscow, 1992) is a film director and visual artist, known predominantly for the War on Diesel [1] billboard series and WAX [2][3] film and visual art series. Vasilisa started her career in photography for _Super Super Magazine_ before moving on to direct music videos[4] and short films.

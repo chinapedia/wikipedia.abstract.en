@@ -1,1 +1,0 @@
-The INTERNATIONAL DAY FOR THE UNIVERSAL ACCESS TO INFORMATION (commonly called the ACCESS TO INFORMATION DAY) is an international day of recognition designated by the UNESCO General Conference to be held on 28 September. The day was inaugurated in November 2015 and was first held on 28 September 2016.

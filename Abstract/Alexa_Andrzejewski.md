@@ -1,1 +1,0 @@
-ALEXA ANDRZEJEWSKI is an American user experience designer and entrepreneur. She is best known as the co-founder and CEO of Foodspotting, an app that allows users to socially share their food photographs. She was named to _Inc._'s 2011 list of "30 Under 30" and to _Forbes_' 2012 "30 Under 30: Food and Wine" list.

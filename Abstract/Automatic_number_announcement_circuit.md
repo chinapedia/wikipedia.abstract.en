@@ -1,1 +1,0 @@
-An AUTOMATIC NUMBER ANNOUNCEMENT CIRCUIT (ANAC) is a component of a central office of a telephone company that provides a service to installation and service technicians to determine the telephone number of a line. The facility has a telephone number that may be called to listen to an automatic announcement that includes the caller's telephone number.

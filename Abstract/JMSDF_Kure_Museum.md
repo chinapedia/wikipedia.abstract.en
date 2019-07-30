@@ -1,1 +1,0 @@
-The JAPAN MARITIME SELF DEFENCE FORCE KURE MUSEUM () is a Japanese military museum located in Kure, Hiroshima. It is also known as the "Iron Whale Museum" () after its main exhibit, JMSDF's diesel-electric submarine _Akishio_ (decommissioned in 2004).

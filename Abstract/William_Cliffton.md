@@ -1,1 +1,0 @@
-WILLIAM CLIFFTON (1771 – December 1799) was a Philadelphian poet and pamphleteer. He is the only identified member of the Anchor Club.[1] He is considered part of the "transitive state" of American poetry.[2]

@@ -1,1 +1,0 @@
-K-2SO (also referred to as K2 or KAY-TUESSO) is a droid character in the _Star Wars_ franchise, first appearing in the 2016 film _Rogue One_. He is a CGI character voiced and performed through motion capture by Alan Tudyk. In the film, K-2SO is a KX-series security droid originally created by the Empire.

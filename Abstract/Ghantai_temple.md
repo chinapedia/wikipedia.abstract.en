@@ -1,1 +1,0 @@
-The GHANTAI TEMPLE, also known as the Ghanti temple, is a ruined Jain temple in the Khajuraho town of Madhya Pradesh, India. Similar in style to the Parshvanatha temple, it was dedicated to the Jain tirthankara Rishabhanatha (also known as Adinatha). This temple is part of UNESCO World Heritage Site along with other temples in Khajuraho Group of Monuments.

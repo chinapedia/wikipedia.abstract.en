@@ -1,1 +1,0 @@
-HABIBUR RAHMAN (born 18 July 1987) is a Bangladeshi first-class cricketer who plays for Rajshahi Division.[1] He made his Twenty20 (T20) debut on 21 November 2016 playing for Comilla Victorians in the 2016–17 Bangladesh Premier League.[2]

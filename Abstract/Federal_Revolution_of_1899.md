@@ -1,1 +1,0 @@
-FEDERAL REVOLUTION of 1899 in Bolivia is a name of a brief civil war of 1898-99 that ended 15 year long political domination by the Conservative Party and brought to power the Liberal Party which held it until 1920. Besides the change in the ruling party, revolution brought about the change of Bolivia's capital from Sucre to La Paz.

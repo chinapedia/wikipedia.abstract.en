@@ -1,1 +1,0 @@
-_WOMAN WITH A SUITCASE_ () is a 2016 South Korean television series starring Choi Ji-woo, Joo Jin-mo, Jeon Hye-bin and Lee Joon. It aired on MBC every Monday and Tuesday at 22:00 (KST) from September 26 to November 15, 2016 for 16 episodes.[1][2]

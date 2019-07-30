@@ -1,1 +1,0 @@
-Bust_of_Johan_Hendrik_van_Dale_by_Pieter_Puype_in_1924.jpg JOHAN HENDRIK VAN DALE (15 February 1828 - 19 May 1872) was a Dutch teacher, archivist, and lexicographer. He created _Van Dale's Great Dictionary of the Dutch Language_ (); first published in 1874, after his death. It was, and in its subsequent editions remains, the leading dictionary of the Dutch language.[1][2]

@@ -1,1 +1,0 @@
-Throughout history, forms of art have gone through periodic abrupt changes called ARTISTIC REVOLUTIONS. Movements have come to an end to be replaced by a new movement markedly different in striking ways. See also cultural movements.

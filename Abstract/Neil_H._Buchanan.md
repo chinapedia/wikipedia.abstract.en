@@ -1,1 +1,0 @@
-_Neil Harold Buchanan_' is an American economist, legal scholar, and professor. He is currently a Professor of Law at The George Washington University Law School in Washington, D.C., specializing in tax policy and tax law.[1][2]

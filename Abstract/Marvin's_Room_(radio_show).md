@@ -1,1 +1,0 @@
-_MARVIN'S ROOM_ is a Canadian radio program, which airs on CBC Music.[1] Hosted by Amanda Parris, the program explores the genre of rhythm and blues, incorporating both historical and contemporary music in the genre.[2]

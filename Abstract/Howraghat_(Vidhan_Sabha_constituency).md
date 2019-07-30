@@ -1,1 +1,0 @@
-HOWRAGHAT (VIDHAN SABHA CONSTITUENCY) is one of the 126 constituencies of the Assam Legislative Assembly in India. Howraghat forms a part of the Autonomous District Lok Sabha constituency. This seat is reserved for the Scheduled Tribes (ST).

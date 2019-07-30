@@ -1,1 +1,0 @@
-US-MarshallPlanAid-Logo.svg

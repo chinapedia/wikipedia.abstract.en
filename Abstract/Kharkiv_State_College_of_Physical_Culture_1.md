@@ -1,1 +1,0 @@
-KHARKIV STATE COLLEGE OF PHYSICAL CULTURE 1 () is a sports college in Kharkiv and is subordinated to the Ministry of Education and Science of Ukraine. Note that in Kharkiv are two colleges of Physical Culture, one belongs to the Kharkiv Oblast, another is administered directly by the Government of Ukraine through the Ministry of Sports.

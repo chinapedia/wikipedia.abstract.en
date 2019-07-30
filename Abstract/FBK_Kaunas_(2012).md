@@ -1,1 +1,0 @@
-FUTBOLO BENDRUOMENES KLUBAS KAUNAS, commonly known as F.B.K. KAUNAS, was a Lithuanian football club from the city of Kaunas. It was founded in 2012 following the winding-up of FBK Kaunas by the fans who wanted to maintain the legacy and name of FBK Kaunas.[1]

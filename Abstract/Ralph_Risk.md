@@ -1,1 +1,0 @@
-RALPH RISK CBE, MC and Bar (28 July 1891 – 24 May 1961) was a Scottish solicitor, lawyer and president of the Law Society of Scotland.[1] He also briefly played as an outside forward in the Scottish League for Queen's Park and was later the president of the club between 1935 and 1938.[2][3]

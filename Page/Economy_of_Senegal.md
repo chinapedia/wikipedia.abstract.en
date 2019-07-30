@@ -1,4 +1,4 @@
-Dakar-BCEAO1.jpg, Dakar.]] Air_Senegal_International_B737_6V-AHU.jpg.]] Sucrerie_richard_toll2.jpg.]] Saly_Senegal1.JPG.]] Senegal_Touba_Pneu_Thies_800x600.jpg, are financed through the Mouride Islamic brotherhood.]] SénégalParis.jpg Senegal_retour_de_peche_a_Soumbedioun_800x600.jpg PhosphateSenegal.jpg surface mine in western Senegal, near Taïba.]]
+, Dakar.]] .]] .]] .]] , are financed through the Mouride Islamic brotherhood.]] surface mine in western Senegal, near Taïba.]]
 
 Predominantly rural, and with limited natural resources, the ECONOMY OF SENEGAL gains most of its foreign exchange from fish, phosphates, groundnuts, tourism, and services. The agricultural sector of Senegal is highly vulnerable to variations in rainfall and changes in world commodity prices. The former capital of French West Africa, is also home to banks and other institutions which serve all of Francophone West Africa, and is a hub for shipping and transport in the region.
 
@@ -61,8 +61,6 @@ Regional and international economic groupings
 
 
 Statistics[3]
-
-2006Senegalese_exports.PNG
 
 ;GDP (purchasing power parity)
 

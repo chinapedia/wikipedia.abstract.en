@@ -1,1 +1,0 @@
-PARVEEN AZAM ALI (born 4 April 1979) is a British nurse of Pakistani origin who works as a senior lecturer at the University of Sheffield. She is an associate editor of _Nursing Open_[1], a contributor to The Conversation (website)[2] and a presenter on LinkFM. She was a founding member of The Lancet Commission on Nursing.[3]

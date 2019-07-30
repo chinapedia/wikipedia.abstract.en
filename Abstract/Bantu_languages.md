@@ -1,1 +1,0 @@
-The BANTU LANGUAGES (English: , Proto-Bantu: *bantʊ̀) technically the NARROW BANTU LANGUAGES, as opposed to "Wide Bantu", a loosely defined categorisation which includes other "Bantoid" languages, are a large family of languages spoken by the Bantu peoples throughout Sub-Saharan Africa.

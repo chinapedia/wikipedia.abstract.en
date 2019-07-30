@@ -1,1 +1,0 @@
-PAWEŁ PIETRYJA (born 2 June 1992) is a Polish badminton player.[1][2] He competed at the 2015 European Games in Baku, Azerbaijan.[3] In 2016, he won two titles at the Hellas Open in the men's doubles event partnered with Milosz Bochat and in the mixed doubles event with Aneta Wojtkowska.[4]

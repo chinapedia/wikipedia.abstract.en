@@ -1,1 +1,0 @@
-Two human polls made up the 2016–17 NCAA DIVISION I MEN'S ICE HOCKEY RANKINGS, the USCHO.com/CBS College Sports poll and the USA Today/USA Hockey Magazine poll. As the 2016–17 season progresses, rankings are updated weekly.

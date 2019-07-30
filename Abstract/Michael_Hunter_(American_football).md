@@ -1,1 +1,0 @@
-MICHAEL DEWAYNE HUNTER JR. (born April 19, 1993) is an American football cornerback who is currently a free agent. He played college football at Indiana prior to transferring to Oklahoma State. He was signed by the New York Giants as an undrafted free agent after the 2016 NFL Draft.

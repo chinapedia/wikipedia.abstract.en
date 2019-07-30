@@ -1,1 +1,0 @@
-The UK Independence Party is a political party in the United Kingdom. The front bench team is divided into departmental sub-units, the principal ones being the economy, foreign policy and immigration. Sometimes the front bench team consists of more than just the principal positions.

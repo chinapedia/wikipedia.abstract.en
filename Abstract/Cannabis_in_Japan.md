@@ -1,1 +1,0 @@
-CANNABIS IN JAPAN has been illegal since 1948. Use and possession are punishable by up to five years' imprisonment and a fine. Cultivation, sale, and transport are punishable by up to 7 to 10 years' imprisonment and a fine.[1]

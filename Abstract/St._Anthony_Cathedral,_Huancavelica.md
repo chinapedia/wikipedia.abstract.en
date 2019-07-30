@@ -1,1 +1,0 @@
-The ST. ANTHONY CATHEDRAL[1] () Also HUANCAVELICA CATHEDRAL[2] Is the main Catholic temple in Huancavelica, a city in the South American country of Peru.[3] Its construction was realized between the 16th and 17th centuries and was initially built by the "Tonsurados". The predominant architectural style is the churrigueresco baroque.

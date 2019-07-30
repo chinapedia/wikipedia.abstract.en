@@ -1,1 +1,0 @@
-AfghanTurk.PNG.]]

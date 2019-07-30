@@ -1,1 +1,0 @@
-"THE THOUSAND-AND-SECOND TALE OF SCHEHERAZADE" is a short-story by American author Edgar Allan Poe (1809–1849). It was published in the February 1845 issue of _Godey's Lady's Book_ and was intended as a partly humorous sequel to the celebrated collection of Middle Eastern tales _One Thousand and One Nights_.[1]

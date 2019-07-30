@@ -1,1 +1,0 @@
-HERBERT ALEXANDER "HARRY" MCCULLOCH MM (23 June 1893 – 13 March 1971) was an Australian trade unionist and politician who was a Labor Party member of the Legislative Assembly of Western Australia from 1949 to 1956, representing the seat of Hannans.

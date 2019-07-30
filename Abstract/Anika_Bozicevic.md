@@ -1,1 +1,0 @@
-'''Anika Bozicevic ''' (born 8 November 1972) is a Swedish footballer who played as a forward for the Sweden women's national football team. She was part of the team at the 1995 FIFA Women's World Cup. On club level she played for Malmö in Sweden. She is of Croatian heritage.[1]

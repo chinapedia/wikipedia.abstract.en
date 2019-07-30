@@ -1,1 +1,0 @@
-Cimabue_-_Maestà_di_Santa_Trinita_-_Google_Art_Project.jpg'', 1280–1285, Uffizi Gallery, Florence.]] CIMABUE (,[1][2] , – 1302),[3] also known as CENNI DI PEPO[4] or CENNI DI PEPI,[5] was an Italian painter and designer of mosaics from Florence.

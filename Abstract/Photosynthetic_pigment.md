@@ -1,1 +1,0 @@
-A PHOTOSYNTHETIC PIGMENT (ACCESSORY PIGMENT; CHLOROPLAST PIGMENT; ANTENNA PIGMENT) is a pigment that is present in chloroplasts or photosynthetic bacteria and captures the light energy necessary for photosynthesis.

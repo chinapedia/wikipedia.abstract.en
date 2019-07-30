@@ -1,1 +1,0 @@
-SANTIAGO GRASSI (born September 25, 1996) is an Argentine swimmer. He competed at the 2016 Summer Olympics in the men's 100 metre butterfly; his time of 52.56 seconds in the heats did not qualify him for the semifinals.[1][2] He won the silver medal in the men's 100 metre butterfly event at the 2015 Pan American Games.[3]

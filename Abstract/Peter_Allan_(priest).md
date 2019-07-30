@@ -1,1 +1,0 @@
-PETER GEORGE ALLAN (born 1950) is a British Anglican priest and monk. Since 2011, he has been principal of the College of the Resurrection, an Anglo-Catholic theological college in Mirfield, West Yorkshire, England.

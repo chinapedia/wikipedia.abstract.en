@@ -1,1 +1,0 @@
-The Italian constitutional referendum took place on 4 December 2016. OPINION POLLING FOR THE ITALIAN CONSTITUTIONAL REFERENDUM was ongoing in the months between the announcement of a referendum and the referendum polling day.

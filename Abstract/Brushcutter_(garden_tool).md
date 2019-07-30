@@ -1,1 +1,0 @@
-240v_brushcutter.jpg

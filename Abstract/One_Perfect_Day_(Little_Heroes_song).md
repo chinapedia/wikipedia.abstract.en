@@ -1,1 +1,0 @@
-"ONE PERFECT DAY" is a song written by Roger Hart-Wells and recorded by his Australian band, Little Heroes. It was released in March 1982 as the lead single from their second studio album, _Play by Numbers_ (1982). The single entered the Australian Kent Music Report Singles Chart in April 1982 and peaked at No. 12.

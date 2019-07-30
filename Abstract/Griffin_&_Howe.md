@@ -1,1 +1,0 @@
-Griffin-&-Howe-Custom-Sporter-Riflejpg.gif GRIFFIN & HOWE, INC. is an American firearms manufacturer headquartered in Andover, New Jersey. Founded in 1923 by Seymour Griffin, a New York City cabinetmaker, and James V. Howe, foreman of the machine shop at the Frankford Arsenal in Pennsylvania.

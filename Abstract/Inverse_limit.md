@@ -1,1 +1,0 @@
-In mathematics, the INVERSE LIMIT (also called the PROJECTIVE LIMIT) is a construction that allows one to "glue together" several related objects, the precise manner of the gluing process being specified by morphisms between the objects. Inverse limits can be defined in any category, and they are a special case of the concept of a limit in category theory.

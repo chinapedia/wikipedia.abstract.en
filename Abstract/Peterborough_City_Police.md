@@ -1,1 +1,0 @@
-The Peterborough City/Borough Police force was responsible for law enforcement in Peterborough, England, from 16 June 1874 to 1 April 1947, at which point it was merged with the Liberty of Peterborough Constabulary to form the Peterborough Combined Police. [1]

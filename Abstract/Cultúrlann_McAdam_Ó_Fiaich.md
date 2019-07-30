@@ -1,1 +1,0 @@
-CULTÚRLANN MCADAM Ó FIAICH (AN CHULTÚRLANN) is an Irish language cultural centre in The Gaeltacht Quarter and is located on the Falls Road, Belfast. Opened in 1991, the centre underwent renovation in 2010 and was opened the following year by Irish President Mary McAleese.

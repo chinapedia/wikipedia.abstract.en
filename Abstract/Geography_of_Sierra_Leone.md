@@ -1,1 +1,0 @@
-UNsierraleone.PNG Koppen-Geiger_Map_SLE_present.svg LocationSierraLeone.svg

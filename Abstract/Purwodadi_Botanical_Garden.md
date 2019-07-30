@@ -1,1 +1,0 @@
-PURWODADI BOTANICAL GARDEN is a research centre in Purwodadi, Pasuruan, East Java, Indonesia. It has an area of and more than 10,000 types of trees and many plant collections. Callus cultures of _Agave amaniensis_ by Setia Dewi were taken in 1988.[1]

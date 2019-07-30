@@ -1,1 +1,0 @@
-'''Justina Banda ''' (born 1 February 1992) is a Zambian footballer who plays as a midfielder for the Zambia women's national football team. She was part of the team at the 2014 African Women's Championship.[1] On club level she played for Olympic Centre in Zambia.[2]

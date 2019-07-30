@@ -1,1 +1,0 @@
-The 1950 CTA STREETCAR CRASH, also known as the GREEN HORNET STREETCAR DISASTER, occurred on May 25, 1950, when a Chicago Transit Authority streetcar collided with a gasoline truck.[1] The resulting explosion killed 34 people and injured 50 others, remaining one of the most deadly public transit disasters in Chicago history.

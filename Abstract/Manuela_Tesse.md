@@ -1,1 +1,0 @@
-'''Manuela Tesse ''' (born 28 February 1976 in Sassari) is an Italian footballer who played as a midfielder for the Italy women's national football team. She was part of the team at the UEFA Women's Euro 1997, 1999 FIFA Women's World Cup and UEFA Women's Euro 2001.[1]

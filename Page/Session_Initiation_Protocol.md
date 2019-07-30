@@ -55,15 +55,11 @@ A redirect server is a user agent server that generates 3xx (redirection) respon
 
 Registrar
 
-SIP-registration-flow.png
-
 A registrar is a SIP endpoint that provides a location service. It accepts REGISTER requests, recording the address and other parameters from the user agent. For subsequent requests it provides an essential means to locate possible communication peers on the network. The location service links one or more IP addresses to the SIP URI of the registering agent. Multiple user agents may register for the same URI, with the result that all registered user agents receive the calls to the URI.
 
 SIP registrars are logical elements, and are often co-located with SIP proxies. To improve network scalability, location services may instead be located with a redirect server.
 
 Session border controller
-
-SIP-B2BUA-call-flow.png
 
 Session border controllers serve as middle boxes between user agents and SIP servers for various types of functions, including network topology hiding and assistance in NAT traversal.
 
@@ -129,8 +125,6 @@ Responses are sent by the user agent server indicating the result of a received 
 
 
 Transactions
-
-SIP_signaling.png
 
 SIP defines a transaction mechanism to control the exchanges between participants and deliver messages reliably. A transaction is a state of a session, which is controlled by various timers. Client transactions send requests and server transactions respond to those requests with one or more responses. The responses may include provisional responses with a response code in the form _1xx_, and one or multiple final responses (2xx – 6xx).
 

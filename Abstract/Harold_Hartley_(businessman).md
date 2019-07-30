@@ -1,1 +1,0 @@
-HAROLD THOMAS HARTLEY (28 October 1851 – 29 September 1943) was an English journalist, publisher, mineral water manufacturer, and professional organiser of exhibitions. He was closely associated with Joseph Lyons and the early development of the J. Lyons & Co. catering company. He was also a noted art collector and bibliophile.

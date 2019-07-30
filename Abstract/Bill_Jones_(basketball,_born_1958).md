@@ -1,1 +1,0 @@
-WILLIAM LAWRENCE "BILL" JONES (born September 26, 1958) is a retired American basketball player who played the majority of his professional career in Australia's National Basketball League from 1985 until 1992.

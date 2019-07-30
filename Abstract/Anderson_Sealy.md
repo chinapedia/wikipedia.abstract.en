@@ -1,1 +1,0 @@
-ANDERSON WENDLE LEANDRO SEALY (born 10 July 1982) is a former Barbadian cricketer who represented West Indies B and the Combined Campuses and Colleges in West Indian domestic cricket. He played as a left-arm orthodox bowler.

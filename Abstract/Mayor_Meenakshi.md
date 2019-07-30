@@ -1,1 +1,0 @@
-_MAYOR MEENAKSHI_ is a 1976 Tamil film, directed by Madurai Thirumaran. The film story was written by Suki Subramaniyam. Music was by M. S. Viswanathan. It stars K. R. Vijaya playing titular role, with Jaishankar, V. K. Ramasamy and Cho. Vijayakumar and Sripriya were in cameo appearances.[1]

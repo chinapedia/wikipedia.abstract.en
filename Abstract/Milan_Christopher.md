@@ -1,1 +1,0 @@
-MILAN CHRISTOPHER (born Feb 28, 1984; sometimes known as MILAN CHRISTOPHER GORDY) is an American rapper, actor, model, and businessman.[1] He is best known for his supporting role on VH1's _Love & Hip Hop: Hollywood_, and his single "When I Go", protesting the bullying of LGBT youth.

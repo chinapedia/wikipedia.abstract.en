@@ -1,1 +1,0 @@
-GILBERT ROBERT LOUIS LESAGE (19 May 1910 – 7 November 1989) was a Quaker charity worker and philanthropist who helped refugees before the Second World War and was responsible clandestinely for saving the lives of many Jews in southern France while working as the head of the Social Department for Aliens under the Vichy regime.

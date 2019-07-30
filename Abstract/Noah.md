@@ -1,1 +1,0 @@
-In Abrahamic religions, NOAH ( )[1][2] was the tenth and last of the pre-Flood patriarchs. His story is contained in the Hebrew Bible, in the Book of Genesis, chapters 5–9. The Genesis flood narrative is among the best-known stories of the Bible. Noah is also portrayed as "the first tiller of the soil" and the inventor of wine.

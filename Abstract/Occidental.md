@@ -1,1 +1,0 @@
-OCCIDENTAL may refer to:

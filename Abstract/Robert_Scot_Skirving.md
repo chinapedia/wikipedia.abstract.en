@@ -1,1 +1,0 @@
-ROBERT SCOT SKIRVING (1859 – 1956) was a Scots-born physician and surgeon who grew to eminence in Australia. The University of Sydney named the SCOT SKIRVING PRIZE (for Medicine and Surgery) in his honour.[1]

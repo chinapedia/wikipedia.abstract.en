@@ -1,1 +1,0 @@
-Othello_and_Desdemona_Act_V_Scene_II.tif

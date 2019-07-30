@@ -1,1 +1,0 @@
-SIMONE ARRIGONI (born in Rome, Italy, on 4 September 1973) is an Italian free-diver. He holds multiple free-diving world records. He is an ActionAid Ambassador and Honorary Member of the Centro Studi Cetacei, a non-profit Italian association that is concerned with the study and rescue of marine mammals and reptiles since 1986.[1]

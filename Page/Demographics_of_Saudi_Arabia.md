@@ -27,7 +27,7 @@
 
 }}
 
-Saudi-Arabia-demography.png, year 2005 ; Number of inhabitants in thousands.]] The Kingdom of Saudi Arabia is the second largest state in the Arab world, with a reported population of 33,413,660 as of 2018.[6] A significant percentage of the nation's inhabitants are immigrants seeking economic opportunity, making up 37% of the total Saudi population.[7] Saudi Arabia has experienced a population explosion in the last 40 years,[8] and continues to grow at a rate of 1.63% per year.[9]
+, year 2005 ; Number of inhabitants in thousands.]] The Kingdom of Saudi Arabia is the second largest state in the Arab world, with a reported population of 33,413,660 as of 2018.[6] A significant percentage of the nation's inhabitants are immigrants seeking economic opportunity, making up 37% of the total Saudi population.[7] Saudi Arabia has experienced a population explosion in the last 40 years,[8] and continues to grow at a rate of 1.63% per year.[9]
 
 Until the 1960s, most of the population was nomadic or seminomadic; due to rapid economic and urban growth, more than 95% of the population is now settled. 80% of Saudis live in ten major urban centers—Riyadh, Jeddah, Mecca, Medina, Hofuf, Ta'if, Khobar, Yanbu, Dhahran, Dammam. [10] Some cities and oases have densities of more than 1,000 people per square kilometer (2,600/mile²). Saudi Arabia's population is characterized by rapid growth, far more men than women, and a large cohort of youths.
 
@@ -71,7 +71,7 @@ at birth: 1.05 male(s)/female
 65 years and over: 1.05 male(s)/female
 
 (male 4,348,227 /female 4,170,944)
-Bevölkerungspyramide_Saudi_Arabien_2016.pngAccording to the CIA World Factbook the population of Saudi Arabia has a large young population ages 0–19 years and an increasing middle-age population ages 20–35 years.[17] With a growing population reaching adulthood, global economists and the Saudi government have become concerned that there are more Saudis seeking jobs than are available.[18] The nation has also seen a rise in the its older population as life expectancy has risen throughout the last 40 years.[19]
+According to the CIA World Factbook the population of Saudi Arabia has a large young population ages 0–19 years and an increasing middle-age population ages 20–35 years.[17] With a growing population reaching adulthood, global economists and the Saudi government have become concerned that there are more Saudis seeking jobs than are available.[18] The nation has also seen a rise in the its older population as life expectancy has risen throughout the last 40 years.[19]
 
 Life Expectancy At Birth
 

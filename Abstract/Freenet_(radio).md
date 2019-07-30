@@ -1,1 +1,0 @@
-FREENET is a personal mobile radio network in Germany. It was originally introduced in 1996 as a product name of Motorola and uses part of the frequency spectrum of the former B-Netz carphone network.

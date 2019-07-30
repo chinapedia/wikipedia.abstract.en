@@ -1,1 +1,0 @@
-ALFRED EDWIN BRAIN (February 4, 1860 in Turnham Green, London – October 25, 1929 in London), was an English player of the French horn. He was the founder of a great school of English horn playing. His grandson Dennis Brain was to become perhaps the most famous horn player of all time.

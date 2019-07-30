@@ -1,1 +1,0 @@
-_INSIDE THE FACTORY_ is a television series produced by Voltage TV for BBC. Each episode explores how a specific product is made inside a factory. The series is presented by Gregg Wallace and Cherry Healey, with historian Ruth Goodman providing a look at how products came to exist as we know them today.

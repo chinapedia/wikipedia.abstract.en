@@ -1,1 +1,0 @@
-_PACIFIC MARINE REVIEW_ was an American monthly magazine published from 1904 to 1950 dedicated to marine and shipping news. The magazine aimed to cover marine affairs in Seattle, Portland, Tacoma, Vancouver, Victoria, San Francisco and other ports on the North Pacific Ocean impartially, without preference for any particular port.

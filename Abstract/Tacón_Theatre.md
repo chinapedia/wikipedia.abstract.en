@@ -1,1 +1,0 @@
-Teatro_Tacon_in_1853_Map_of_Havana,_Cuba.jpg The TEATRO TACÓN was a theatre in Havana, Cuba, opened in 1838. Its auditorium contained 2,750 seats.[1] It was built by .[2] In 1847 Bottesini's opera _Cristoforo Colombo_ premiered at the theatre.[3] By 1855 so many attended events that the city issued parking regulations for carriages on performance nights.[4]

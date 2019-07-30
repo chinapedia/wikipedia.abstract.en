@@ -1,1 +1,0 @@
-The EPITAPH OF SAMUEL () is an Ancient Greek limestone tombstone slab epitaph inscription which was discovered in 1934, in the monastic cemetery of the Byzantine period, at the YMCA area in Jerusalem.[1][2]

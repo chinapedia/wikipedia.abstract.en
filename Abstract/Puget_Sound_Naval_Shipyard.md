@@ -1,1 +1,0 @@
-PUGET SOUND NAVAL SHIPYARD, officially PUGET SOUND NAVAL SHIPYARD AND INTERMEDIATE MAINTENANCE FACILITY (PSNS & IMF), is a United States Navy shipyard covering 179 acres (0.7 km²) on Puget Sound at Bremerton, Washington in uninterrupted use since its establishment in 1891; it has also been known as NAVY YARD PUGET SOUND and BREMERTON NAVY YARD.

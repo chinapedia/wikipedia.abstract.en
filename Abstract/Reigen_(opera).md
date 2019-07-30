@@ -1,1 +1,0 @@
-_REIGEN_ (German 'Round Dance') is a German-language opera in ten scenes by Philippe Boesmans to a libretto by Luc Bondy after Arthur Schnitzler's play _La Ronde_ (1897). The opera was premiered at La Monnaie, Brussels in 1993.[1]

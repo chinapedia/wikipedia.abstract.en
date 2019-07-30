@@ -1,1 +1,0 @@
-SAVOY (;[1] ; ; ; ; ) is a cultural-historical region between Western and Central Europe. It comprises roughly the territory of the Western Alps between Lake Geneva in the north and Dauphiné in the south.

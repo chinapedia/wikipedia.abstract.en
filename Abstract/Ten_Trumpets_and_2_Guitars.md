@@ -1,1 +1,0 @@
-_TEN TRUMPETS AND 2 GUITARS_ is an album by composer, arranger and conductor Pete Rugolo featuring performances recorded in 1961 and first released on the Mercury label as part of its audiophile Perfect Presence Sound Series.[1][2][3][4]

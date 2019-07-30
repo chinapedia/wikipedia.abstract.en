@@ -1,1 +1,0 @@
-_KATE - THE TAMING OF THE SHREW_ [_Kate – La bisbetica domata_] is a 2004 stop-motion-musical adaptation film of Shakespeare's _The Taming of the Shrew_, directed by Roberto Lione.[1] The film, which uses a stop motion animation based on paper cut-out figures that Lione called "papermotion", claims to be Italy's first feature-length stop-motion animation film.

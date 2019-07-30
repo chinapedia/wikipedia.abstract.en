@@ -1,1 +1,0 @@
-EARL(E) BRADFORD AVERY (February 4, 1894 – November 6, 1977) was a driver and trainer of standardbred racehorses who was inducted into both the Canadian and United States Harness Racing Halls of Fame.[1][2]

@@ -1,1 +1,0 @@
-ERAN HADAS is an Israeli poet, software developer, new media artist and the author of seven books. Hadas also creates hypermedia poetry and develops software based poetry generators. Among his collaborative projects is a headset that generates poems from EEG brain waves,[1] and a documentarian robot that interviews people about what it means to be human.[2]

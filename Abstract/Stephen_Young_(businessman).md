@@ -1,1 +1,0 @@
-STEPHEN GARETH YOUNG (born May 1955)[1] is a British businessman. He has been the chief executive (CEO) of Meggitt plc, a British engineering business specialising in aerospace equipment, since May 2013.

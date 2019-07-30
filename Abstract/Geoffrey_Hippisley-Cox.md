@@ -1,1 +1,0 @@
-Sir_Edward_Geoffrey_Hippisley-Cox.jpg.]] Colonel SIR EDWARD GEOFFREY HIPPISLEY-COX, (29 August 1884 – 24 February 1954)[1] was a British Army officer who was honorary colonel of the Queen's Westminsters.[2] He was also a parliamentary agent.[3]

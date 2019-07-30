@@ -1,1 +1,0 @@
-Konopí.JPG Cannafest_2014_(15743632911).jpg CANNABIS IN THE CZECH REPUBLIC is illegal for recreational use, but personal possession has been decriminalized since 1 January 2010 and medical cannabis has been legal since 1 April 2013.[1][2]

@@ -1,1 +1,0 @@
-_UPIN & IPIN JENG JENG JENG!_ is a 2016 Malaysian live-action/animation film. The film is produced by Les' Copaque Production in partnership with KRU Studios and released in Malaysian cinemas beginning 24 November 2016.[1]

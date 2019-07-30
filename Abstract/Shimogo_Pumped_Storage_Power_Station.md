@@ -1,1 +1,0 @@
-The is a large pumped-storage hydroelectric power plant in Shimogō, Minamiaizu, Fukushima Prefecture, Japan. With an installed capacity of , the system is one of the largest pumped-storage power stations in Japan.

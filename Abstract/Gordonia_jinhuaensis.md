@@ -1,1 +1,0 @@
-_GORDONIA JINHUAENSIS_ is a Gram-positive, aerobic, rod-shaped and non-motile bacterium from the genus of Gordonia which has been isolated from pharmaceutical wastewater from Jinhua in China.[1][2][3][4]

@@ -1,1 +1,0 @@
-YSK 757 KARIMUN or YAYASAN SEPAKBOLA KARIMUN 757 was an Indonesian football club based in Karimun Regency, Riau Islands, and nicknamed "The Captains". They used to play in the Liga Nusantara. The club was merged with PS Bintang Jaya Asahan in 2017 to form 757 Kepri Jaya F.C.[1]

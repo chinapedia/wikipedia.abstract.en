@@ -1,1 +1,0 @@
-JARRAD DAVIS (born November 16, 1994) is an American football linebacker for the Detroit Lions of the National Football League (NFL). He played college football at Florida and was drafted by the Lions in the first round of the 2017 NFL Draft.

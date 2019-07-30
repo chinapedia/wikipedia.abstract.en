@@ -1,1 +1,0 @@
-BUMI THOMAS is a British-Nigerian jazz-folk-soul singer-songwriter and guitarist. She was born in Glasgow, Scotland, but grew up in Nigeria. Now London-based, and frequently found performing in smaller venues around the city, in November 2014 she released her debut EP, _Feather Pearl_.

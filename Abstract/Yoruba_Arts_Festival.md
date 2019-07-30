@@ -1,1 +1,0 @@
-The Yoruba Arts festival was created in 2009 as an annual festival to celebrate the rich, vibrant and colorful arts and culture of the Yoruba's in London UK. It held its first event in 2010 in Clissold Park Hackney London where it has been resident since its inception.

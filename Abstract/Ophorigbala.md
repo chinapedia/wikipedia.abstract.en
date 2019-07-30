@@ -1,1 +1,0 @@
-OPHORIGBALA is a town in Ughievwen Clan, Ughelli South LGA of Delta State, Nigeria. Located on the right bank of River Forcados. Ophorigbala shares boundaries with Otutuama, Esaba, Ighwreogun communities and Gbekebo Community on the over-side of the Forcados river.

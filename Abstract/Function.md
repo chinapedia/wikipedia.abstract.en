@@ -1,1 +1,0 @@
-FUNCTION or FUNCTIONALITY may refer to:

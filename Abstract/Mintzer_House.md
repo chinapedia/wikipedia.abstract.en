@@ -1,1 +1,0 @@
-The MINTZER HOUSE is a historic house at 175-177 Intervale Avenue in Burlington, Vermont. Built as a single-family home about 1898, it is well-preserved example of vernacular Colonial Revival architecture built as worker housing. Now a duplex, it was listed on the National Register of Historic Places in 2008.[1]

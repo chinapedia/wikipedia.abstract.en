@@ -1,1 +1,0 @@
-_AWAKE_ is the first extended play (EP) by South Korean boy group KNK. It contains six songs and two instrumental tracks, including the lead single, "Back Again". All tracks from the EP was personally written, composed and arranged by Kim Tae-joo who also produced hit songs like Beast's "Good Luck", "12:30" and more.

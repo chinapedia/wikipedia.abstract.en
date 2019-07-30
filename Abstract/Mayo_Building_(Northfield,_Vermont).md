@@ -1,1 +1,0 @@
-The MAYO BUILDING is a historic commercial building at Main and East Streets in downtown Northfield, Vermont. Built in 1902, it is a prominent and imposing example of Classical Revival architecture. It was listed on the National Register of Historic Places in 1983.[1]

@@ -1,1 +1,0 @@
-Sohn-Emigrant.jpg PAUL EDUARD RICHARD SOHN (11 November 1834, Düsseldorf - 1912, Düsseldorf) was a German genre painter. His father was Karl Ferdinand Sohn and his brother was Karl Rudolf Sohn; both also artists.

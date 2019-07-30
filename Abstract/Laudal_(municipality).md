@@ -1,1 +1,0 @@
-LAUDAL is a former municipality in Vest-Agder county, Norway. The municipality existed from 1899 until 1964. The administrative centre of the municipality was the village of Laudal where Laudal Church is located. The municipality encompassed the central part of what is now the municipality of Marnardal.[1]

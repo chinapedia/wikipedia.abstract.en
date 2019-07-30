@@ -1,1 +1,0 @@
-_ROSHMIA_ _(film)_ (Arabic: روشميا) is a feature-length documentary by Salim Abu Jabal.[1] A story of an elderly Palestinian refugee couple in a final standoff with the Israeli authorities to maintain their lifestyle in Roshmia, the last natural valley in Haifa.[2]

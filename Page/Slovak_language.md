@@ -453,7 +453,7 @@ Hungarians and Slovaks have had a language interaction ever since the settlement
 
 Dialects
 
-Vojvodina_slovak_map.png There are many Slovak dialects, which are divided into the following four basic groups:
+There are many Slovak dialects, which are divided into the following four basic groups:
 
 -   Eastern Slovak dialects (in Spiš, Šariš, Zemplín and Abov)
 -   Central Slovak dialects (in Liptov, Orava, Turiec, Tekov, Hont, Novohrad, Gemer and the historic Zvolen county)

@@ -1,1 +1,0 @@
-QUANTUM CHEMISTRY is a branch of chemistry whose primary focus is the application of quantum mechanics in physical models and experiments of chemical systems. It is also called molecular quantum mechanics.

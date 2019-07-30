@@ -1,4 +1,4 @@
-Снайпер_Герой_Советского_Союза_Василий_Зайцев_объясняет_новичкам_предстоящую_задачу._Сталинград._Декабрь_1942_г.jpg, left, and Soviet snipers equipped with Mosin–Nagant M1891/30 during the Battle of Stalingrad in December 1942.]] IDF-Barak-338-rifle-001.jpg which consists of a sniper rifle (here Barak HTR 2000 chambered in 0.338 Lapua Magnum), telescopic sight (Leupold Mark IV x10), and additional optics.]]
+, left, and Soviet snipers equipped with Mosin–Nagant M1891/30 during the Battle of Stalingrad in December 1942.]] which consists of a sniper rifle (here Barak HTR 2000 chambered in 0.338 Lapua Magnum), telescopic sight (Leupold Mark IV x10), and additional optics.]]
 
 A SNIPER is a military/paramilitary marksman who operates to maintain effective visual contact with and engage enemy targets from concealed positions or at distances exceeding the target's detection capabilities.[1] Snipers generally have specialized training and are equipped with high-precision rifles and high-magnification optics, and often feed information back to their units or command headquarters.
 
@@ -14,7 +14,7 @@ A somewhat older term is "sharp shooter", a calque of 18th-century German _Schar
 
 Modern warfare
 
-50_cal_sniper_rifle.jpg Barrett_M82A1.jpg sniper using a Barrett M82]]
+sniper using a Barrett M82]]
 
 Military doctrine
 
@@ -30,7 +30,7 @@ The German doctrine of largely independent snipers and emphasis on concealment, 
 
 Sniper teams
 
-061019-A-7603F-151.jpg Provincial Reconstruction Team (PRT)]]
+Provincial Reconstruction Team (PRT)]]
 
 Sniper rifles are classified as crew-served, as the term is used in the United States military. A SNIPER TEAM (or SNIPER CELL) consists of a combination of one or more _shooters_ with force protection elements and support personnel: such as a _spotter_ or a _flanker_. Within the Table of Organization and Equipment for both the United States Army and the U.S. Marine Corps, the operator of the weapon has an assistant trained to fulfill multiple roles, in addition to being sniper-qualified in the operation of the weapon. [15]
 
@@ -40,15 +40,15 @@ The spotter detects, observes, and assigns targets and watches for the results o
 
 Law enforcement applications
 
-YAMAM-sniper-0020.jpg (Israel's counter-terrorism unit) sniper shooting with suppressed Barrett MRAD sniper rifles]] Law enforcement snipers, commonly called police snipers, and military snipers differ in many ways, including their areas of operation and tactics. A police sharpshooter is part of a police operation and usually takes part in relatively short missions. Police forces typically deploy such sharpshooters in hostage scenarios. This differs from a military sniper, who operates as part of a larger army, engaged in warfare. Sometimes as part of a SWAT team, police snipers are deployed alongside negotiators and an assault team trained for close quarters combat. As policemen, they are trained to shoot only as a last resort, when there is a direct threat to life; the police sharpshooter has a well-known rule: "Be prepared to take a life to save a life."[17] Police snipers typically operate at much shorter ranges than military snipers, generally under and sometimes even less than . Both types of snipers do make difficult shots under pressure, and often perform one-shot kills. Secret_Service_on_White_House_roof.jpg]]
+(Israel's counter-terrorism unit) sniper shooting with suppressed Barrett MRAD sniper rifles]] Law enforcement snipers, commonly called police snipers, and military snipers differ in many ways, including their areas of operation and tactics. A police sharpshooter is part of a police operation and usually takes part in relatively short missions. Police forces typically deploy such sharpshooters in hostage scenarios. This differs from a military sniper, who operates as part of a larger army, engaged in warfare. Sometimes as part of a SWAT team, police snipers are deployed alongside negotiators and an assault team trained for close quarters combat. As policemen, they are trained to shoot only as a last resort, when there is a direct threat to life; the police sharpshooter has a well-known rule: "Be prepared to take a life to save a life."[17] Police snipers typically operate at much shorter ranges than military snipers, generally under and sometimes even less than . Both types of snipers do make difficult shots under pressure, and often perform one-shot kills. ]]
 
-Police units that are unequipped for tactical operations may rely on a specialized SWAT team, which may have a dedicated sniper.[18] Some police sniper operations begin with military assistance.[19] Police snipers placed in vantage points, such as high buildings, can provide security for events.[20] In one high-profile incident, Mike Plumb, a SWAT sniper in Columbus, Ohio, prevented a suicide by shooting a revolver out of the individual's hand, leaving him unharmed.[21] USCG_TACLET_Airborne_Use_of_Force.jpg marksman uses an M107 from a helicopter.]]
+Police units that are unequipped for tactical operations may rely on a specialized SWAT team, which may have a dedicated sniper.[18] Some police sniper operations begin with military assistance.[19] Police snipers placed in vantage points, such as high buildings, can provide security for events.[20] In one high-profile incident, Mike Plumb, a SWAT sniper in Columbus, Ohio, prevented a suicide by shooting a revolver out of the individual's hand, leaving him unharmed.[21] marksman uses an M107 from a helicopter.]]
 
 The need for specialized training for police sharpshooters was made apparent in 1972 during the Munich massacre when the German police could not deploy specialized personnel or equipment during the standoff at the airport in the closing phase of the crisis, and consequently all of the Israeli hostages were killed. While the German army did have snipers in 1972, the use of army snipers in the scenario was impossible due to the German constitution's explicit prohibition of the use of the military in domestic matters. This lack of trained snipers who could be used in civilian roles was later addressed with the founding of the specialized police counter-terrorist unit GSG 9.
 
 Longest recorded sniper kill
 
-British_Army_Sniper_MOD_45154902.jpg The longest confirmed sniper kill in combat was achieved by an undisclosed member of the Canadian JTF2 special forces in June 2017 at a distance of .[22]
+The longest confirmed sniper kill in combat was achieved by an undisclosed member of the Canadian JTF2 special forces in June 2017 at a distance of .[22]
 
 The previous record holder was Craig Harrison, a Corporal of Horse (CoH) in the Blues and Royals RHG/D of the British Army. In November 2009, Harrison struck two Taliban machine gunners consecutively south of Musa Qala in Helmand Province in Afghanistan at a range of or 1.54 miles using a L115A3 Long Range Rifle.[23][24] The QTU Lapua external ballistics software,[25] using continuous doppler drag coefficient (C_(d)) data provided by Lapua,[26] predicts that such shots traveling would likely have struck their targets after nearly 6.0 seconds of flight time, having lost 93% of their kinetic energy, retaining of their original velocity, and having dropped or 2.8° from the original bore line. Due to the extreme distances and travel time involved, even a light cross-breeze of would have diverted such shots off target, which would have required compensation.
 
@@ -67,7 +67,7 @@ upright=1.3, an early 19th-century rifle, much more accurate than a smoothbore m
 
 1801-1900-
 
-Whitworth_rifle.jpg, a single-shot muzzle-loaded long-range rifle designed by Sir Joseph Whitworth.]] The Whitworth rifle was arguably the first long-range sniper rifle in the world.[35] A muzzleloader designed by Sir Joseph Whitworth, a prominent British engineer, it used polygonal rifling instead, which meant that the projectile did not have to bite into grooves as was done with conventional rifling. The Whitworth rifle was far more accurate than the Pattern 1853 Enfield, which had shown some weaknesses during the recent Crimean War. At trials in 1857 which tested the accuracy and range of both weapons, Whitworth's design outperformed the Enfield at a rate of about three to one. The Whitworth rifle was capable of hitting the target at a range of 2,000 yards, whereas the Enfield could only manage it at 1,400 yards.[36]
+, a single-shot muzzle-loaded long-range rifle designed by Sir Joseph Whitworth.]] The Whitworth rifle was arguably the first long-range sniper rifle in the world.[35] A muzzleloader designed by Sir Joseph Whitworth, a prominent British engineer, it used polygonal rifling instead, which meant that the projectile did not have to bite into grooves as was done with conventional rifling. The Whitworth rifle was far more accurate than the Pattern 1853 Enfield, which had shown some weaknesses during the recent Crimean War. At trials in 1857 which tested the accuracy and range of both weapons, Whitworth's design outperformed the Enfield at a rate of about three to one. The Whitworth rifle was capable of hitting the target at a range of 2,000 yards, whereas the Enfield could only manage it at 1,400 yards.[36]
 
 During the Crimean War, the first optical sights were designed to fit onto rifles. Much of this pioneering work was the brainchild of Colonel D. Davidson, using optical sights produced by Chance Brothers of Birmingham. This allowed a marksman to observe and target objects more accurately at a greater distance than ever before.[37] The telescopic sight, or scope, was originally fixed and could not be adjusted, which therefore limited its range.
 
@@ -75,7 +75,7 @@ Despite its success at the trials, the rifle was not adopted by the British Army
 
 Second Boer War
 
-Burnham_in_africa_close_up.jpg in Africa]] During the Boer War the latest breech-loading rifled guns with magazines and smokeless powder were used by both sides. The British were equipped with the Lee–Metford rifle, while the Boers had received the latest Mauser rifles from Germany. In the open terrain of South Africa the marksmen were a crucial component to the outcome of the battle.
+in Africa]] During the Boer War the latest breech-loading rifled guns with magazines and smokeless powder were used by both sides. The British were equipped with the Lee–Metford rifle, while the Boers had received the latest Mauser rifles from Germany. In the open terrain of South Africa the marksmen were a crucial component to the outcome of the battle.
 
 The first British sniper unit began life as the Lovat Scouts, a Scottish Highland regiment formed in 1899, that earned high praise during the Second Boer War (1899–1902).[43] The unit was formed by Lord Lovat and reported to an American, Major Frederick Russell Burnham, the British Army Chief of Scouts under Lord Roberts. Burnham fittingly described these scouts as "half wolf and half jackrabbit.".[44] Just like their Boer scout opponents, these scouts were well practised in the arts of marksmanship, field craft, map reading, observation, and military tactics.[45] They were skilled woodsmen and practitioners of discretion: "He who shoots and runs away, lives to shoot another day." They were also the first known military unit to wear a ghillie suit.[46] Hesketh Hesketh-Prichard said of them that "keener men never lived",[47] and that "Burnham was the greatest scout of our time."[48] Burnham distinguished himself in wars in South Africa, Rhodesia, and in Arizona fighting the Apaches, and his definitive work, _Scouting on Two Continents,_ provides a dramatic and enlightening picture of what a sniper was at the time and how he operated.[49]
 
@@ -83,9 +83,7 @@ After the war, this regiment went on to formally become the first official snipe
 
 World War I
 
-Periscope_rifle_Gallipoli_1915.jpg in 1915. The spotter beside him is helping to find targets with his own periscope.]] During World War I, snipers appeared as deadly sharpshooters in the trenches. At the start of the war, only Imperial Germany had troops that were issued scoped sniper rifles. Although sharpshooters existed on all sides, the Germans specially equipped some of their soldiers with scoped rifles that could pick off enemy soldiers showing their heads out of their trench.[51] At first the French and British believed such hits to be coincidental hits, until the German scoped rifles were discovered.[52] During World War I, the German army received a reputation for the deadliness and efficiency of its snipers, partly because of the high-quality lenses that German industry could manufacture.[53]
-
-Spotting_the_Enemy_Sniper.jpg
+in 1915. The spotter beside him is helping to find targets with his own periscope.]] During World War I, snipers appeared as deadly sharpshooters in the trenches. At the start of the war, only Imperial Germany had troops that were issued scoped sniper rifles. Although sharpshooters existed on all sides, the Germans specially equipped some of their soldiers with scoped rifles that could pick off enemy soldiers showing their heads out of their trench.[51] At first the French and British believed such hits to be coincidental hits, until the German scoped rifles were discovered.[52] During World War I, the German army received a reputation for the deadliness and efficiency of its snipers, partly because of the high-quality lenses that German industry could manufacture.[53]
 
 Soon the British army began to train their own snipers in specialized sniper schools. Major Hesketh Hesketh-Prichard was given formal permission to begin sniper training in 1915, and founded the First Army School of Sniping, Observation, and Scouting at Linghem in France in 1916.[54] Starting with a first class of only six, in time he was able to lecture to large numbers of soldiers from different Allied nations, proudly proclaiming in a letter that his school was turning out snipers at three times the rate of any such other school in the world.[55]
 
@@ -97,7 +95,7 @@ The main sniper rifles used during the First World War were the German Mauser Ge
 
 World War II
 
-Pav-Stamp.jpg in a stamp in 1944.]]
+in a stamp in 1944.]]
 
 During the interbellum, most nations dropped their specialized sniper units, notably the Germans. Effectiveness and dangers of snipers once again came to the fore during the Spanish Civil War. The only nation that had specially trained sniper units during the 1930s was the Soviet Union. Soviet snipers were trained in their skills as marksmen, in using the terrain to hide themselves from the enemy and the ability to work alongside regular forces. This made the Soviet sniper training focus more on "normal" combat situations than those of other nations.
 
@@ -105,7 +103,7 @@ Snipers reappeared as important factors on the battlefield from the first campai
 
 During the Winter War, Finnish snipers took a heavy toll of the invading Soviet army. Simo Häyhä is credited with 505 confirmed kills,[65][66] most with the Finnish version of the iron-sighted bolt-action Mosin–Nagant.
 
-Bundesarchiv_Bild_169-0526,_Russland,_Scharfschütze_in_Stellung.jpg, Soviet Union (1942)]]
+, Soviet Union (1942)]]
 
 One of the best known battles involving snipers, and the battle that made the Germans reinstate their specialized sniper training, was the Battle of Stalingrad. Their defensive position inside a city filled with rubble meant that Soviet snipers were able to inflict significant casualties on the Wehrmacht troops. Because of the nature of fighting in city rubble, snipers were very hard to spot and seriously dented the morale of the German attackers. The best known of these snipers was probably Vasily Zaytsev, featured in the novel _War of the Rats_ and the subsequent film _Enemy At The Gates_.
 
@@ -113,7 +111,7 @@ German _Scharfschützen_ were prepared before the war, equipped with Karabiner 9
 
 A total of 428,335 individuals received Red Army sniper training, including Soviet and non-Soviet partisans, with 9,534 receiving the sniping 'higher qualification'. During World War ІІ, two six-month training courses for women alone trained nearly 55,000 snipers, of which more than two thousand later served in the army.[69] On average there was at least one sniper in an infantry platoon and one in every reconnaissance platoon, including in tank and even artillery units. Some used the PTRD anti-tank rifle with an adapted scope as an early example of an anti-materiel rifle.
 
-Pte._L._V._Hughes,_Canadian_Military,_WW2.jpg.]]
+.]]
 
 In the United States Armed Forces, sniper training was only very elementary and was mainly concerned with being able to hit targets over long distances. Snipers were required to be able to hit a body over 400 meters away, and a head over 200 meters away. There was almost no instruction in blending into the environment. Sniper training varied from place to place, resulting in wide variation in the qualities of snipers. The main reason the US did not extend sniper training beyond long-range shooting was the limited deployment of US soldiers until the Normandy Invasion. During the campaigns in North Africa and Italy, most fighting occurred in arid and mountainous regions where the potential for concealment was limited, in contrast to Western and Central Europe.
 
@@ -121,7 +119,7 @@ The U.S. Army's lack of familiarity with sniping tactics proved disastrous in No
 
 Those tactics were also a consequence of changes in German enlistment. After several years of war and heavy losses on the Eastern Front, the German army was forced to rely more heavily on enlisting teenage soldiers. Due to lack of training in more complex group tactics, and thanks to rifle training provided by the Hitlerjugend, those soldiers were often used as autonomous left-behind snipers. While an experienced sniper would take a few lethal shots and retreat to a safer position, those young boys, due both to a disregard for their own safety and to lack of tactical experience would frequently remain in a concealed position and fight until they ran out of ammunition or were killed or wounded. While this tactic generally ended in the demise of the sniper, giving rise to the nickname "Suicide Boys" that was given to those soldiers, this irrational behavior proved quite disruptive to the Allied forces' progress. After World War II, many elements of German sniper training and doctrine were copied by other countries.[72]
 
-Roza_Shanina.jpg (a Soviet sniper) in 1944, holding a 1891/30 Mosin–Nagant with the 3.5x PU scope.]]
+(a Soviet sniper) in 1944, holding a 1891/30 Mosin–Nagant with the 3.5x PU scope.]]
 
 In the Pacific War, the Empire of Japan trained snipers. In the jungles of Asia and the Pacific Islands, snipers posed a serious threat to U.S., British, and Commonwealth troops. Japanese snipers were specially trained to use the environment to conceal themselves. Japanese snipers used foliage on their uniforms and dug well-concealed hide-outs that were often connected with small trenches. There was no need for long range accuracy because most combat in the jungle took place within a few hundred meters. Japanese snipers were known for their patience and ability to remain hidden for long periods. They almost never left their carefully camouflaged hiding spots. This meant that whenever a sniper was in the area, the location of the sniper could be determined after the sniper had fired a few shots. The Allies used their own snipers in the Pacific, notably the U.S. Marines, who used M1903 Springfield rifles.
 
@@ -130,7 +128,7 @@ Common sniper rifles used during the Second World War include: the Soviet M1891/
 
 Training
 
-כאן_צלפים_צלף_בלי_מאתר_לא_באמת_שווה_משהו_-_פרק_2_1-26_screenshot_01.png Rackandchamber.jpg.]]
+.]]
 
 Military sniper training aims to teach a high degree of proficiency in camouflage and concealment, stalking, observation and map reading as well as precision marksmanship under various operational conditions. Trainees typically shoot thousands of rounds over a number of weeks, while learning these core skills.
 
@@ -138,7 +136,7 @@ Snipers are trained to squeeze the trigger straight back with the ball of their 
 
 Accuracy
 
-Royal_Marines_snipers_displaying_their_L115A1_rifles.jpg sniper displaying his L115A1 rifle resting on three-legged shooting sticks]]
+sniper displaying his L115A1 rifle resting on three-legged shooting sticks]]
 
 The key to sniping is accuracy, which applies to both the weapon and the shooter. The weapon should be able to consistently place shots within tight tolerances.[78] The sniper in turn must utilize the weapon to accurately place shots under varying conditions.[79]
 
@@ -165,7 +163,7 @@ Range and accuracy vary depending on the cartridge and specific ammunition types
 
 U.S. military
 
-Barrets_training.webm and AR-50]] Servicemen volunteer for the rigorous sniper training and are accepted on the basis of their aptitude, physical ability, marksmanship, patience and mental stability. Military snipers may be further trained as forward air controllers (FACs) to direct air strikes or forward observers (FOs) to direct artillery or mortar fire.
+and AR-50]] Servicemen volunteer for the rigorous sniper training and are accepted on the basis of their aptitude, physical ability, marksmanship, patience and mental stability. Military snipers may be further trained as forward air controllers (FACs) to direct air strikes or forward observers (FOs) to direct artillery or mortar fire.
 
 Russian Army
 
@@ -175,8 +173,6 @@ The method of sniper deployment, according to the Ministry of Defence, is likely
 
 
 Targeting, tactics and techniques
-
-Flickr_-_DVIDSHUB_-_24_MEU_Deployment_2012_(Image_11_of_21).jpg U.S._Army_Sgt._Chuck_Riegel,_left,_assigned_to_the_1st_Battalion,_501st_Parachute_Infantry_Regiment,_4th_Infantry_Brigade_Combat_Team,_25th_Infantry_Division,_U.S._Army_Alaska,_engages_a_target_with_an_M107_140307-F-LX370-566.jpg
 
 Range finding
 
@@ -198,7 +194,7 @@ For moving targets, the point-of-aim is ahead of the target in the direction of 
 
 Hide sites and hiding techniques
 
-Camouflaged-sniper.jpg to remain hidden in grassland terrain]]
+to remain hidden in grassland terrain]]
 
 The term "hide site" refers to a covered and concealed position from which a sniper and his team can conduct surveillance or fire at targets. A good hide conceals and camouflages the sniper effectively, provides cover from enemy fire and allows a wide view of the surrounding area.
 
@@ -216,7 +212,7 @@ In a high-risk or hostage-taking situation where a suspect is imminently threate
 
 Target acquisition
 
-Marine_sniper_ghillie_suit.JPG sniper wearing a ghillie suit.]]
+sniper wearing a ghillie suit.]]
 
 Snipers are trained for the detection, identification, and location of a targeted soldier in sufficient detail to permit the effective employment of lethal and non-lethal means. Since most kills in modern warfare are by crew-served weapons, reconnaissance is one of the most effective uses of snipers. They use their aerobic conditioning, infiltration skills and excellent long-distance observation equipment (optical scopes) and tactics to approach and observe the enemy. In this role, their rules of engagement typically let them shoot at high-value targets of opportunity, such as enemy officers.
 
@@ -234,7 +230,7 @@ As sniper rifles are often extremely powerful and consequently loud, it is commo
 
 Psychological warfare
 
-USMC_Sniper_M24.jpg with an M24 Sniper Weapon System in 2004.]] Due to the surprise nature of sniper fire, high lethality of aimed shots and frustration at the inability to locate and counterattack snipers, sniper tactics have a significant negative effect on morale. Extensive use of sniper tactics can be used to induce constant stress and fear in opposing forces, making them afraid to move about or leave cover. In many ways, the psychological impact imposed by snipers is quite similar to those of landmines, booby-traps, and IEDs (constant threat, high "per event" lethality, inability to strike back).[103][104][105]
+with an M24 Sniper Weapon System in 2004.]] Due to the surprise nature of sniper fire, high lethality of aimed shots and frustration at the inability to locate and counterattack snipers, sniper tactics have a significant negative effect on morale. Extensive use of sniper tactics can be used to induce constant stress and fear in opposing forces, making them afraid to move about or leave cover. In many ways, the psychological impact imposed by snipers is quite similar to those of landmines, booby-traps, and IEDs (constant threat, high "per event" lethality, inability to strike back).[103][104][105]
 
 Historically, captured snipers are often summarily executed. This happened during World War I,[106] and World War II,[107] for example the second Biscari Massacre when 36 suspected snipers were lined up and shot on 14 July 1943.
 
@@ -261,7 +257,7 @@ The use of canine units had been very successful, especially during the Vietnam 
 
 Irregular and asymmetric warfare
 
-Georgian_sniper_during_South_Ossetia_war.jpg (2004)]]
+(2004)]]
 
 The use of sniping (in the sense of shooting at relatively long range from a concealed position) to murder came to public attention in a number of sensational U.S. criminal cases, including the Austin sniper incident of 1966 (Charles Whitman), the John F. Kennedy assassination (Lee Harvey Oswald), and the Beltway sniper attacks of late 2002 (Lee Boyd Malvo). However, these incidents usually do not involve the range or skill of military snipers; in all three cases the perpetrators had U.S. military training, but in other specialties. News reports will often (inaccurately) use the term sniper to describe anyone shooting with a rifle at another person.[113]
 
@@ -273,7 +269,7 @@ Snipers are less likely to be treated mercifully than non-snipers if captured by
 
 War in Iraq
 
-In 2003, the U.S.-led multinational coalition composed of primarily U.S. and UK troops occupied Iraq and attempted to establish a new government in the country. However, shortly after the initial invasion, violence against coalition forces and among various sectarian groups led to asymmetric warfare with the Iraqi insurgency and civil war between many Sunni and Shia Iraqis. Bundeswehr_sniper_team_in_position.jpg sniper team in position, Kunduz Province, Afghanistan]] Through to November 2005 the Army had attributed 28 of 2,100 U.S. deaths to enemy snipers.[120] In 2006, it was claimed that one insurgent sniper, "Juba", had shot up to 37 American soldiers.[121]
+In 2003, the U.S.-led multinational coalition composed of primarily U.S. and UK troops occupied Iraq and attempted to establish a new government in the country. However, shortly after the initial invasion, violence against coalition forces and among various sectarian groups led to asymmetric warfare with the Iraqi insurgency and civil war between many Sunni and Shia Iraqis. sniper team in position, Kunduz Province, Afghanistan]] Through to November 2005 the Army had attributed 28 of 2,100 U.S. deaths to enemy snipers.[120] In 2006, it was claimed that one insurgent sniper, "Juba", had shot up to 37 American soldiers.[121]
 
 Training materials obtained by U.S. intelligence had among its tips for shooting U.S. troops, "Killing doctors and chaplains is suggested as a means of psychological warfare.", suggesting that those casualties would demoralize entire units.[122][123]
 
@@ -290,7 +286,7 @@ Sniper activity was reported during the Arab Spring civil unrest in Libya in 201
 
 Notable military marksmen and snipers
 
-Sergeant_H.A._Marshall_of_the_Sniper_Section,_The_Calgary_Highlanders.jpg of The Calgary Highlanders. Canadian snipers in the Second World War were trained scouts. Specialized equipment includes Lee–Enfield No. 4 Mk I(T) rifle and scope combination and a camouflaged Denison smock. PAC Photo, by Ken Bell (September 1944).]]
+of The Calgary Highlanders. Canadian snipers in the Second World War were trained scouts. Specialized equipment includes Lee–Enfield No. 4 Mk I(T) rifle and scope combination and a camouflaged Denison smock. PAC Photo, by Ken Bell (September 1944).]]
 
 Even before firearms were available, soldiers such as archers were specially trained as elite marksmen.
 
@@ -314,7 +310,7 @@ Even before firearms were available, soldiers such as archers were specially tra
 
 20th century
 
-Carlos_Hathcock_DM-SD-98-02324.JPG, nicknamed "White Feather" by the North Vietnamese Army (NVA), was a legendary USMC sniper with a service record of 93 confirmed kills.]]
+, nicknamed "White Feather" by the North Vietnamese Army (NVA), was a legendary USMC sniper with a service record of 93 confirmed kills.]]
 
 -   Billy Sing (World War I) – An Australian sniper with at least 150 confirmed kills during the Gallipoli Campaign; he may have had close to 300 kills in total at Gallipoli,[141] and went on to fight at the Western Front.
 -   Francis Pegahmagabow (World War I) – Native Canadian sniper credited with 378 kills, and an unknown number of unconfirmed kills. He only took credit for kills when they were verified by an officer.[142]

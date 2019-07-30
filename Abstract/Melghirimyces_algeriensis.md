@@ -1,1 +1,0 @@
-_MELGHIRIMYCES ALGERIENSIS_ is a Gram-positive, halotolerant, thermotolerant and aerobic bacterium from the genus of Melghirimyces which has been isolated from the salt lake Chott Melrhir in Algeria.[1][2][3][4]

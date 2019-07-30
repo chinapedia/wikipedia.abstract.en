@@ -14,11 +14,11 @@ In many Polynesian languages, including Tongan, the word _tonga_ comes from ''fa
 
 History
 
-Tasman-dagboek-a.jpg in Tongatapu, 1643; drawing by Isaack Gilsemans ]] NL-HaNA_1.11.01.01_121_0051_Scheepsjournaal_Abel_Tasman_35.jpg An Austronesian-speaking group linked to the archaeological construct known as the Lapita cultural complex reached and inhabited Tonga around 1500–1000 BC.[7] Scholars have much debated the exact dates of the initial settlement of Tonga, but thorium dating confirms that the first settlers came to the oldest town, Nukuleka, by 888 BC, ± 8 years.[8] Not much is known before European contact because of the lack of a writing system, but oral history has survived and been recorded after the arrival of the Europeans.
+in Tongatapu, 1643; drawing by Isaack Gilsemans ]] An Austronesian-speaking group linked to the archaeological construct known as the Lapita cultural complex reached and inhabited Tonga around 1500–1000 BC.[7] Scholars have much debated the exact dates of the initial settlement of Tonga, but thorium dating confirms that the first settlers came to the oldest town, Nukuleka, by 888 BC, ± 8 years.[8] Not much is known before European contact because of the lack of a writing system, but oral history has survived and been recorded after the arrival of the Europeans.
 
 By the 12th century, Tongans and the Tongan paramount chief, the Tuʻi Tonga, had a reputation across the central Pacific—from Niue, Samoa, Rotuma, Wallis & Futuna, New Caledonia to Tikopia—leading some historians to speak of a Tuʻi Tonga Empire. In the 15th century and again in the 17th, civil war erupted.
 
-William_Mariner_(1791-1853)_crop.jpg was a teenage English sailor adopted into a royal Tongan family.]] The Tongan people first encountered Europeans in 1616 when the Dutch vessel _Eendracht_, captained by Willem Schouten, made a short visit to trade. Later came other Dutch explorers, including Jacob Le Maire (who called on the northern island of Niuatoputapu); and in 1643 Abel Tasman (who visited Tongatapu and Haʻapai). Later noteworthy European visitors included James Cook (Royal Navy) in 1773, 1774, and 1777; Spanish Navy explorers Francisco Mourelle de la Rúa in 1781 and Alessandro Malaspina in 1793; the first London missionaries in 1797; and the Wesleyan Methodist Reverend Walter Lawry in 1822.
+was a teenage English sailor adopted into a royal Tongan family.]] The Tongan people first encountered Europeans in 1616 when the Dutch vessel _Eendracht_, captained by Willem Schouten, made a short visit to trade. Later came other Dutch explorers, including Jacob Le Maire (who called on the northern island of Niuatoputapu); and in 1643 Abel Tasman (who visited Tongatapu and Haʻapai). Later noteworthy European visitors included James Cook (Royal Navy) in 1773, 1774, and 1777; Spanish Navy explorers Francisco Mourelle de la Rúa in 1781 and Alessandro Malaspina in 1793; the first London missionaries in 1797; and the Wesleyan Methodist Reverend Walter Lawry in 1822.
 
 Whaling vessels were among the earliest regular western visitors. The first on record is the _Ann & Hope_ which was reported among the islands of Tonga in June 1799.[9] The last known whaling visitor was the _Albatross_ in 1899. They came for water, food and wood. The islands most regularly visited were Ata, 'Eua, Ha'apai, Tongatapu and Vava'u. Sometimes men from the islands were recruited to serve as crewmen on these vessels.
 
@@ -37,9 +37,9 @@ As part of cost-cutting measures across the British Foreign Service, the British
 
 Politics
 
-King_George,_of_the_Friendly_Islands_(1852,_p.1,_IX)_-_Copy.jpg Tonga is a constitutional monarchy. Reverence for the monarch replaces that held in earlier centuries for the sacred paramount chief, the Tuʻi Tonga. Criticism of the monarch is held to be contrary to Tongan culture and etiquette. King Tupou VI (a descendant of the first monarch), his family, powerful nobles and a growing non-royal elite caste live in much wealth, with the rest of the country living in relative poverty. The effects of this disparity are mitigated by education, medicine, and land tenure.
+Tonga is a constitutional monarchy. Reverence for the monarch replaces that held in earlier centuries for the sacred paramount chief, the Tuʻi Tonga. Criticism of the monarch is held to be contrary to Tongan culture and etiquette. King Tupou VI (a descendant of the first monarch), his family, powerful nobles and a growing non-royal elite caste live in much wealth, with the rest of the country living in relative poverty. The effects of this disparity are mitigated by education, medicine, and land tenure.
 
-Tonga provides for its citizens a free and mandatory education for all, secondary education with only nominal fees, and foreign-funded scholarships for post-secondary education. George_Tupou_I,_c._1880s.jpg, King of Tonga (1845–1893)]] The pro-democracy movement in Tonga promotes reforms, including better representation in the Parliament for the majority of commoners, and better accountability in matters of state. An overthrow of the monarchy is not part of the movement and the institution of monarchy continues to hold popular support, even while reforms are advocated. Until recently, the governance issue was generally ignored by the leaders of other countries, but major aid donors and neighbours New Zealand and Australia are now expressing concerns about some Tongan government actions.
+Tonga provides for its citizens a free and mandatory education for all, secondary education with only nominal fees, and foreign-funded scholarships for post-secondary education. , King of Tonga (1845–1893)]] The pro-democracy movement in Tonga promotes reforms, including better representation in the Parliament for the majority of commoners, and better accountability in matters of state. An overthrow of the monarchy is not part of the movement and the institution of monarchy continues to hold popular support, even while reforms are advocated. Until recently, the governance issue was generally ignored by the leaders of other countries, but major aid donors and neighbours New Zealand and Australia are now expressing concerns about some Tongan government actions.
 
 Following the precedents of Queen Sālote and the counsel of numerous international advisors, the government of Tonga under King Tāufaʻāhau Tupou IV (reigned 1965–2006) monetised the economy, internationalised the medical and education system, and enabled access by commoners to increasing forms of material wealth (houses, cars, and other commodities), education, and overseas travel.
 
@@ -47,7 +47,7 @@ Tongans have universal access to a national health care system. The Constitution
 
 Political culture
 
-Kingtupou.jpg during his coronation on 4 July 2015]] The previous king, Tāufaʻāhau Tupou IV, and his government made some problematic economic decisions and were accused of wasting millions of dollars on unwise investments. The problems have mostly been driven by attempts to increase national revenue through a variety of schemes: considering making Tonga a nuclear waste disposal site (an idea floated in the mid 1990s by the current crown prince);[14] and selling Tongan Protected Persons Passports (which eventually forced Tonga to naturalise the purchasers, sparking ethnicity-based concerns within Tonga).[15]
+during his coronation on 4 July 2015]] The previous king, Tāufaʻāhau Tupou IV, and his government made some problematic economic decisions and were accused of wasting millions of dollars on unwise investments. The problems have mostly been driven by attempts to increase national revenue through a variety of schemes: considering making Tonga a nuclear waste disposal site (an idea floated in the mid 1990s by the current crown prince);[14] and selling Tongan Protected Persons Passports (which eventually forced Tonga to naturalise the purchasers, sparking ethnicity-based concerns within Tonga).[15]
 
 Schemes also included the registering of foreign ships (which proved to be engaged in illegal activities, including shipments for al-Qaeda);[16] claiming geo-orbital satellite slots (the revenue from which seems to belong to the Princess Royal, not the state);[17] holding a long-term charter on an unusable Boeing 757 that was sidelined in Auckland Airport, leading to the collapse of Royal Tongan Airlines;[18] and approving a factory for exporting cigarettes to China (against the advice of Tongan medical officials, and decades of health promotion messaging).[19]
 
@@ -55,7 +55,7 @@ The king proved vulnerable to speculators with big promises and lost reportedly 
 
 In mid-2003, the government passed a radical constitutional amendment to "Tonganize" the press, by licensing and limiting freedom of the press, so as to protect the image of the monarchy. The amendment was defended by the government and by royalists on the basis of traditional cultural values. Licensure criteria include 80% ownership by Tongans living in the country. , those papers denied licenses under the new act included the _Taimi ʻo Tonga_ (_Tongan Times_), the _Keleʻa,_ and the _Matangi Tonga_—while those permitted licenses were uniformly church-based or pro-government.
 
-Royal_Palace,_Nuku'alofa.jpg]] The bill was opposed in the form of a several-thousand-strong protest march in the capital, a call by the Tuʻi Pelehake (a prince, nephew of the king and elected member of parliament) for Australia and other nations to pressure the Tongan government to democratise the electoral system, and a legal writ calling for a judicial investigation of the bill. The latter was supported by some 160 signatures, including seven of the nine elected, "People's Representatives".
+]] The bill was opposed in the form of a several-thousand-strong protest march in the capital, a call by the Tuʻi Pelehake (a prince, nephew of the king and elected member of parliament) for Australia and other nations to pressure the Tongan government to democratise the electoral system, and a legal writ calling for a judicial investigation of the bill. The latter was supported by some 160 signatures, including seven of the nine elected, "People's Representatives".
 
 The then Crown Prince Tupoutoʻa and Pilolevu, the Princess Royal, remained generally silent on the issue. In total, the changes threatened to destabilise the polity, fragment support for the status quo, and place further pressure on the monarchy.
 
@@ -65,7 +65,7 @@ Prime Minister Prince ʻAhoʻeitu ʻUnuakiʻotonga Tukuʻaho (Lavaka Ata ʻUluk�
 
 On 5 July 2006, a driver in Menlo Park, California, caused the deaths of Prince Tuʻipelehake ʻUluvalu, his wife, and their driver. Tuʻipelehake, 55, was the co-chairman of the constitutional reform commission, and a nephew of the King.
 
-Looters.jpg The public expected some changes when George Tupou V succeeded his father in September 2006. On 16 November 2006, rioting broke out in the capital city of Nukuʻalofa when it seemed that the parliament would adjourn for the year without having made any advances in increasing democracy in government. Pro-democracy activists burned and looted shops, offices, and government buildings. As a result, more than 60% of the downtown area was destroyed, and as many as 6 people died.[22] The disturbances were ended by action from Tongan Security Forces and troops from New Zealand-led Joint Task Force.[23]
+The public expected some changes when George Tupou V succeeded his father in September 2006. On 16 November 2006, rioting broke out in the capital city of Nukuʻalofa when it seemed that the parliament would adjourn for the year without having made any advances in increasing democracy in government. Pro-democracy activists burned and looted shops, offices, and government buildings. As a result, more than 60% of the downtown area was destroyed, and as many as 6 people died.[22] The disturbances were ended by action from Tongan Security Forces and troops from New Zealand-led Joint Task Force.[23]
 
 On 29 July 2008, the Palace announced that King George Tupou V would relinquish much of his power and would surrender his role in day-to-day governmental affairs to the Prime Minister. The royal chamberlain said that this was being done to prepare the monarchy for 2010, when most of the first parliament would be elected, and added: "The Sovereign of the only Polynesian kingdom... is voluntarily surrendering his powers to meet the democratic aspirations of many of his people." The previous week, the government said the king had sold state assets that had contributed so much of the royal family's wealth.[24]
 
@@ -92,8 +92,6 @@ Tonga is sub-divided into five administrative divisions: ʻEua, Haʻapai, Niuas,
 
 Geography
 
-Tonga_sm04.gif
-
 Located in Oceania, Tonga is an archipelago in the South Pacific Ocean, directly south of Samoa and about two-thirds of the way from Hawaii to New Zealand. Its 169 islands, 36 of them inhabited,[32] are divided into three main groups – Vava'u, Ha'apai, and Tongatapu – and cover an -long north-south line.
 
 The largest island, Tongatapu, on which the capital city of Nukuʻalofa is located, covers . Geologically the Tongan islands are of two types: most have a limestone base formed from uplifted coral formations; others consist of limestone overlaying a volcanic base.
@@ -109,7 +107,7 @@ In Tonga, dating back to Tongan legend, flying bats are considered sacred and ar
 
 Economy
 
-Coin_tonga.JPG Nuku_Island_Vava'u.jpg]] Majestic_Whale_Encounters8_-_pic_by_Brandon_Cole_(15799763491).jpgs of Tonga]]
+]] s of Tonga]]
 
 Tonga's economy is characterised by a large non-monetary sector and a heavy dependence on remittances from the half of the country's population who live abroad (chiefly in Australia, New Zealand and the United States). The royal family and the nobles dominate and largely own the monetary sector of the economy – particularly the telecommunications and satellite services. Tonga was named the sixth most corrupt country in the world by Forbes magazine in 2008.[37]
 
@@ -150,8 +148,6 @@ With the assistance of IRENA, Tonga has developed the 2010–2020 Tonga Energy R
 
 Demographics
 
-Tonga_demography.png
-
 Over 70% of the inhabitants live on its main island, Tongatapu. Although an increasing number of Tongans have moved into the only urban and commercial centre, Nukuʻalofa, where European and indigenous cultural and living patterns have blended, village life and kinship ties remain influential throughout the country. Despite emigration, Tonga grew in population from about 32,000 in the 1930s to more than 90,000 by 1976.[52]
 
 Ethnic groups
@@ -164,7 +160,7 @@ The Tongan language is the official language, along with English. Tongan, a Poly
 
 Religion
 
-Saione.jpg]]
+]]
 
 Tonga does not have an official state religion.[56] The Constitution of Tonga (Revised 1998) provides for freedom of religion.[57]
 
@@ -192,11 +188,11 @@ Tongans enjoy a relatively high level of education, with a 98.9% literacy rate,[
 
 Culture
 
-Faikava.jpg]]
+]]
 
 Humans have lived in Tonga for nearly 3,000 years, since settlement in late Lapita times. Before the arrival of European explorers in the late 17th and early 18th centuries, Tongans had frequent contacts with their nearest oceanic neighbours, Fiji and Niue. In the 19th century, with the arrival of Western traders and missionaries, Tongan culture changed, especially in religion. , almost 98 percent of residents profess Christianity. The people discarded some old beliefs and habits and adopted others.
 
-Ula_fu.jpg dance]]
+dance]]
 
 Contemporary Tongans often have strong ties to overseas lands. Many Tongans have emigrated to Australia, New Zealand, or the United States to seek employment and a higher standard of living. The United States is the preferred destination for Tongan emigrants, and as of 2000 there were 36,840 Tongans living in the US.[63] More than 8,000 Tongans live in Australia.[64] The Tongan diaspora retains close ties to relatives at home, and a significant portion of Tonga's income derives from remittances to family members (often aged) who prefer to remain in Tonga.
 

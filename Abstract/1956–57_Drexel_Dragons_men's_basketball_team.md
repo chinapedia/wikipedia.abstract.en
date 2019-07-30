@@ -1,1 +1,0 @@
-The 1956–57 DREXEL DRAGONS MEN'S BASKETBALL TEAM represented Drexel Institute of Technology during the 1956–57 men's basketball season. The Dragons, led by 5th year head coach Samuel Cozen, played their home games at Sayre High School and were members of the College–Southern division of the Middle Atlantic Conferences (MAC).

@@ -1,1 +1,0 @@
-_KJÆRLIGHET OG VENNSKAP_ is a 1941 Norwegian film directed by Leif Sinding and starring Sonja Wigert, Georg Løkkeberg, and Per Aabel. The film was produced at A/S Merkur-Film and features music by Jolly Kramer-Johansen.[1]

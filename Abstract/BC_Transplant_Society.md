@@ -1,1 +1,0 @@
-BC TRANSPLANT SOCIETY (BCTS) founded in 1985 is now an agency of Provincial Health Services Authority (PHSA) in the Canadian province of British Columbia that registers consent to be donors of organs for Organ transplantation.

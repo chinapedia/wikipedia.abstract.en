@@ -1,1 +1,0 @@
-The 2017 UNITED STATES FEDERAL BUDGET is the United States federal budget for fiscal year 2017, which lasted from October 1, 2016 to September 30, 2017. President Barack Obama submitted a budget proposal to the 114th Congress on February 9, 2016. The 2017 fiscal year overlaps the end of the Obama administration and the beginning of the Trump administration.

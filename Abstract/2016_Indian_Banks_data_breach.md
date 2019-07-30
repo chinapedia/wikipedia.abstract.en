@@ -1,1 +1,0 @@
-2016 INDIAN BANKS DATA BREACH was reported in October 2016. It was estimated 3.2 million debit cards were compromised. Major Indian banks- SBI, HDFC Bank, ICICI, YES Bank and Axis Bank were among the worst hit.[1] Many users reported unauthorised use of their cards in locations in China.

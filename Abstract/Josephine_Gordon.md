@@ -1,1 +1,0 @@
-JOSEPHINE GORDON (born 16 May 1993)[1] is a British jockey who competes in Flat racing. In 2016 Gordon won the British flat racing Champion Apprentice title, becoming only the third female jockey to win that title after Hayley Turner and Amy Ryan.

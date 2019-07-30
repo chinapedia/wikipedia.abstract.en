@@ -1,1 +1,0 @@
-The INTERNATIONAL ACADEMY FOR SYSTEMS AND CYBERNETIC SCIENCES (IASCYS) is an honor society initially created by the International Federation for Systems Research (IFSR). The academy identifies outstanding scientists in systems and cybernetics and elects them as academicians.[1] The members of the Academy conduct workshops and speak at conferences[2] about advances in the field.

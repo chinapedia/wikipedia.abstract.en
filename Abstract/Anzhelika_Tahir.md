@@ -1,1 +1,0 @@
-ANZHELIKA RUBLEVSKA TAHIR (; born 5 January 1994) is a Pakistani-Ukrainian model and Lollywood actress.[1] She was the winner of Miss Pakistan World 2015[2] and was sent to Miss Earth 2016 to represent Pakistan.[3][4] In 2016, she entered the Pakistani film industry.[5]

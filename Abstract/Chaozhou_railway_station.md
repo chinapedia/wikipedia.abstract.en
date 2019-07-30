@@ -1,1 +1,0 @@
-Chaozhou_Station-platform_20150901.jpg

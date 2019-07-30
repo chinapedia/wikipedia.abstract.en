@@ -1,1 +1,0 @@
-The BRITISH VIRGIN ISLANDS (abbreviated BVI)[1], officially simply the VIRGIN ISLANDS,[2] are a British Overseas Territory in the Caribbean, to the east of Puerto Rico and the US Virgin Islands and north-west of Anguilla. The islands are geographically part of the Virgin Islands archipelago and are located in the Leeward Islands of the Lesser Antilles.

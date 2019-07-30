@@ -5,7 +5,7 @@ A TACO (, , ) is a traditional Mexican dish consisting of a corn or wheat tortil
 
 Etymology
 
-Taco_ingredients.jpg The origins of the taco are not precisely known, and etymologies for the culinary usage of the word are generally theoretical.[1] According to the Real Academia Española, publisher of _Diccionario de la Lengua Española_, the word _taco_ describes a typical Mexican dish of a maize tortilla folded around food.[2] This meaning of the Spanish word "taco" is a Mexican innovation, but in other dialects "taco" is used to mean "wedge; wad, plug; billiard cue; blowpipe; ramrod; short, stocky person; [or] short, thick piece of wood." In this non-culinary usage, the word "taco" has cognates in other European languages, including the French word "tache" and the English word "tack (nail)."
+The origins of the taco are not precisely known, and etymologies for the culinary usage of the word are generally theoretical.[1] According to the Real Academia Española, publisher of _Diccionario de la Lengua Española_, the word _taco_ describes a typical Mexican dish of a maize tortilla folded around food.[2] This meaning of the Spanish word "taco" is a Mexican innovation, but in other dialects "taco" is used to mean "wedge; wad, plug; billiard cue; blowpipe; ramrod; short, stocky person; [or] short, thick piece of wood." In this non-culinary usage, the word "taco" has cognates in other European languages, including the French word "tache" and the English word "tack (nail)."
 
 According to one etymological theory, the culinary meaning of "taco" derives from its "plug" meaning as employed among Mexican silver miners, who used explosive charges in plug form consisting of a paper wrapper and gunpowder filling.[3]
 
@@ -19,7 +19,7 @@ The taco predates the arrival of the Spanish in Mexico. There is anthropological
 
 Traditional tacos
 
-There are many traditional varieties of tacos: 01_Tacos_al_Pastor.jpg made with adobada meat.]]
+There are many traditional varieties of tacos: made with adobada meat.]]
 
 -   TACOS AL PASTOR/DE ADOBADA ("shepherd style") are made of thin pork steaks seasoned with adobo seasoning, then skewered and overlapped on one another on a vertical rotisserie cooked and flame-broiled as it spins.[9][10]
 -   TACOS DE ASADOR ("spit" or "grill" tacos) may be composed of any of the following: _carne asada tacos_; _TACOS DE TRIPITA_ ("tripe tacos"), grilled until crisp; and, _chorizo asado_ (traditional Spanish-style sausage). Each type is served on two overlapped small tortillas and sometimes garnished with guacamole, salsa, onions, and cilantro (coriander leaf). Also, prepared on the grill is a sandwiched taco called _mulita_ ("little mule") made with meat served between two tortillas and garnished with Oaxaca style cheese. _"Mulita"_ is used to describe these types of sandwiched tacos in the Northern States of Mexico while they are known as Gringa in the Mexican south and are prepared using wheat flour tortillas. Tacos may also be served with salsa.[11][12]
@@ -28,7 +28,7 @@ There are many traditional varieties of tacos: 01_Tacos_al_Pastor.jpg made with 
 -   TACOS DE CAZO (literally "bucket tacos") for which a metal bowl filled with lard is typically used as a deep-fryer. Meats for these types of tacos typically include _Tripa_ ("tripe", usually from a pig instead of a cow, and can also refer to the intestines); _Suadero_ (tender beef cuts), _Carnitas_ and _Buche_ (Literally, _"crop"_, as in _bird's crop_; or the esophagus of any animal.[18])[19][20]
 -   TACOS DE LENGUA (beef tongue tacos),[21] which are cooked in water with onions, garlic, and bay leaves for several hours until tender and soft, then sliced and sautéed in a small amount of oil. "It is said that unless a taqueria offers tacos de lengua, it is not a real taqueria."[22]
 
-Tacos_de_Pescado.jpg]]
+]]
 
 -   TACOS DE PESCADO ("fish tacos") originated in Baja California in Mexico, where they consist of grilled or fried fish, lettuce or cabbage, pico de gallo, and a sour cream or citrus/mayonnaise sauce, all placed on top of a corn or flour tortilla. In the United States, they were first popularized by the Rubio's fast-food chain, and remain most popular in California, Colorado, and Washington. In California, they are often found at street vendors, and a regional variation is to serve them with cabbage and coleslaw dressing on top.[23][24]
 -   TACOS DORADOS (fried tacos; literally, "golden tacos") called _FLAUTA_S ("flute", because of the shape), or taquitos, for which the tortillas are filled with pre-cooked shredded chicken, beef or _barbacoa_, rolled into an elongated cylinder and deep-fried until crisp. They are sometimes cooked in a microwave oven or broiled.[25][26]
@@ -52,8 +52,6 @@ Soft-shell tacos
 Traditionally, soft-shelled tacos referred to corn tortillas that were cooked to a softer state than a hard taco - usually by grilling or steaming. More recently, the term has come to include flour tortilla based tacos mostly from large manufacturers and restaurant chains. In this context, _soft tacos_ are tacos made with wheat flour tortillas and filled with the same ingredients as a hard taco.[35]
 
 Breakfast taco
-
-Breakfast_tacos.jpg
 
 The breakfast taco, found in Tex-Mex cuisine, is a soft corn or flour tortilla filled with meat, eggs, or cheese, and can also contain other ingredients.[36] Some have claimed that Austin, Texas is the home of the breakfast taco.[37] However, food writer and _OC Weekly_ editor Gustavo Arellano responded that such a statement reflects a common trend of "whitewashed" foodways reporting, noting that predominantly Hispanic San Antonio, Texas "never had to brag about its breakfast taco love—folks there just call it 'breakfast'{{-"}}.[38]
 

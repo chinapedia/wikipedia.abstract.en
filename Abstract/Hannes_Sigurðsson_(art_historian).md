@@ -1,1 +1,0 @@
-Hannes_Sigurðsson.png

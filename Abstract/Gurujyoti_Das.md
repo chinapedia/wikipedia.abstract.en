@@ -1,1 +1,0 @@
-GURUJYOTI DAS is an Indian politician who has served as MLA from the Mangaldai constituency in Assam. He has been elected in Assam Legislative Assembly election in 2016 from Mangaldoi constituency.[1][2][3][4]

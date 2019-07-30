@@ -1,1 +1,0 @@
-Telecommunications in Curaçao.

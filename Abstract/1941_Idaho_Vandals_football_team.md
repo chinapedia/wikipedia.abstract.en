@@ -1,1 +1,0 @@
-The 1941 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1941 college football season. The Vandals were led by first-year head coach Francis Schmidt,[1] and were members of the Pacific Coast Conference. Home games were played on campus in Moscow at Neale Stadium, with one game in Boise at Public School Field.

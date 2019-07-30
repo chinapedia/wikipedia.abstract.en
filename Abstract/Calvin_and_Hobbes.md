@@ -1,1 +1,0 @@
-_CALVIN AND HOBBES_ is a daily comic strip by American cartoonist Bill Watterson that was syndicated from November 18, 1985 to December 31, 1995. Commonly cited as "the last great newspaper comic",[1][2][3] _Calvin and Hobbes_ has enjoyed broad and enduring popularity, influence, and academic interest.

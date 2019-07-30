@@ -1,1 +1,0 @@
-GILDA KIRKPATRICK (born 1973)[1] is an Iranian-born New Zealand author, creative director and televion personality. She starred as a main housewife on _The Real Housewives of Auckland_, which aired on Bravo.[2] She was also the first contestant to be eliminated off Dancing With The Stars New Zealand in 2018.[3][4][5]

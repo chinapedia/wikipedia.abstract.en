@@ -1,1 +1,0 @@
-_SARMAYA_ Punjabi film () is a 1990 Pakistani action film. Directed by Idrees Khan, written and produced by Mazhar Hussian, Nasir Adeeb. The film starring Sultan Rahi, Javed Sheikh, Neeli, Humayun Qureshi.Film Editor Mohammad Ashiq Ali[1][2]

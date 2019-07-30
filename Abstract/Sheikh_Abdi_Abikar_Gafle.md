@@ -1,1 +1,0 @@
-SHEIKH ABDI ABIKAR GĀFLE or also more famously known as GĀFLE (Somali: Sheekh Cabdi Abiikar "Gaafle"). A famous Bimaal ma’allin (teacher-sheikh) and warrior born in ‘Armadobe village in 1852. He was also a prominent figure in the Bimāl Revolt against the Italians. He met his end in 1922.[1]

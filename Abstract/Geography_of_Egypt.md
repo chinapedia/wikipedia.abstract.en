@@ -1,1 +1,0 @@
-LocationEgypt.svg

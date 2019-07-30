@@ -1,1 +1,0 @@
-ELSE WINKLER VON RÖDER (ROEDER) BOSTELMANN (1882-1961), a German-born American artist, joined the New York Zoological Society (now the Wildlife Conservation Society) in 1929 to paint marine life during William Beebe's bathysphere oceanographic expeditions at Bermuda's Nonsuch Island (1930-1934).[1][2]

@@ -1,1 +1,0 @@
-_A BETTER MASTER_ (German: _EIN BESSERER HERR_) is a 1928 German silent comedy film directed by Gustav Ucicky and starring Leo Peukert, Lydia Potechina and Willi Forst.[1] It is based upon the play by Walter Hasenclever.

@@ -1,1 +1,0 @@
-ALGORITHMS FOR CALCULATING VARIANCE play a major role in computational statistics. A key difficulty in the design of good algorithms for this problem is that formulas for the variance may involve sums of squares, which can lead to numerical instability as well as to arithmetic overflow when dealing with large values.

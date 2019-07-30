@@ -1,6 +1,6 @@
 STRUCTURAL BIOLOGY is a branch of molecular biology, biochemistry, and biophysics concerned with the molecular structure of biological macromolecules (especially proteins, made up of amino acids, RNA or DNA, made up of nucleotides, membranes, made up of lipids) how they acquire the structures they have, and how alterations in their structures affect their function.[1] This subject is of great interest to biologists because macromolecules carry out most of the functions of cells, and it is only by coiling into specific three-dimensional shapes that they are able to perform these functions. This architecture, the "tertiary structure" of molecules, depends in a complicated way on each molecule's basic composition, or "primary structure."
 
-Hemoglobin_t-r_state_ani.gif, the oxygen transporting protein found in red blood cells]]
+, the oxygen transporting protein found in red blood cells]]
 
 Biomolecules are too small to see in detail even with the most advanced light microscopes. The methods that structural biologists use to determine their structures generally involve measurements on vast numbers of identical molecules at the same time. These methods include:
 
@@ -19,7 +19,7 @@ Most often researchers use them to study the "native states" of macromolecules. 
 
 A third approach that structural biologists take to understanding structure is bioinformatics to look for patterns among the diverse sequences that give rise to particular shapes. Researchers often can deduce aspects of the structure of integral membrane proteins based on the membrane topology predicted by hydrophobicity analysis. See protein structure prediction.
 
-Protein_structure_examples.png(PDB)|alt=]] In the past few years it has become possible for highly accurate physical molecular models to complement the _in silico_ study of biological structures. Examples of these models can be found in the Protein Data Bank.
+(PDB)|alt=]] In the past few years it has become possible for highly accurate physical molecular models to complement the _in silico_ study of biological structures. Examples of these models can be found in the Protein Data Bank.
 
 
 See also

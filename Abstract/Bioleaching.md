@@ -1,1 +1,0 @@
-BIOLEACHING is the extraction of metals from their ores through the use of living organisms. This is much cleaner than the traditional heap leaching using cyanide.[1] Bioleaching is one of several applications within biohydrometallurgy and several methods are used to recover copper, zinc, lead, arsenic, antimony, nickel, molybdenum, gold, silver, and cobalt.

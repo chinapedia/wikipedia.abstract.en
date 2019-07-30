@@ -1,1 +1,0 @@
-Frankfurt_Opera_Quarter_-_Opernviertel_-_Opernquartier.png The OPERA QUARTER ( or _Opernquartier_) is an area in the western part of the Innenstadt (Inner City) district of Frankfurt, Germany. It is named for the Old Opera and comprises the old opera's immediate neighbourhood in the Innenstadt district.

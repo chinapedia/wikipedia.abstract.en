@@ -1,1 +1,0 @@
-The FOUNDER'S PIE CALCULATOR is a tool for distributing shares when starting a business venture. It was first described in an article by Frank Demmler, who is an Adjunct Teaching Professor of Entrepreneurship at Carnegie Mellon University.[1][2]

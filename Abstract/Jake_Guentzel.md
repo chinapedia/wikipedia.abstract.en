@@ -1,1 +1,0 @@
-JAKE GUENTZEL (born October 6, 1994) is an American professional ice hockey forward currently playing for the Pittsburgh Penguins of the National Hockey League (NHL).[1] He was drafted by the Pittsburgh Penguins in the third round, 77th overall, in the 2013 NHL Entry Draft. Guentzel has won the Stanley Cup with the Pittsburgh Penguins in 2017.

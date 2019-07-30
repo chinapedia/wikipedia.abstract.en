@@ -1,1 +1,0 @@
-RADISSON BLU HOTEL (), is a 5-star superior luxury hotel in Yerevan, Armenia. It is operated by Radisson Hotels under the Radisson Blu brand. The hotel was originally opened in 2005 as the GOLDEN PALACE YEREVAN. However, the hotel had been entirely renovated and expanded between 2014 and 2016. It was eventually reopened in July 2016 as the RADISSON BLU HOTEL, YEREVAN.[1]

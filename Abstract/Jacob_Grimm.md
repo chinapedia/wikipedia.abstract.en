@@ -1,1 +1,0 @@
-JACOB LUDWIG KARL GRIMM (4 January 1785 – 20 September 1863), also known as LUDWIG KARL, was a German philologist, jurist, and mythologist. He is known as the discoverer of Grimm's law of linguistics, the co-author of the monumental _Deutsches Wörterbuch_, the author of _Deutsche Mythologie_, and the editor of _Grimm's Fairy Tales_. He was the elder of the Brothers Grimm.

@@ -1,1 +1,0 @@
-In number theory, an ARITHMETIC, ARITHMETICAL, or NUMBER-THEORETIC FUNCTION[1][2] is for most authors[3][4][5] any function _f_(_n_) whose domain is the positive integers and whose range is a subset of the complex numbers. Hardy & Wright include in their definition the requirement that an arithmetical function "expresses some arithmetical property of _n_".[6]

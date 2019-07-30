@@ -1,1 +1,0 @@
-Johrdan_staircase.jpg]] KONSTANTIN ANDREYEVICH UKHTOMSKY (Russian: Константин Андреевич Ухтомский; (c.1818 - 1879/81, Saint Petersburg?) was a Russian painter and architect, known for his interior portraits. His father was the master copper engraver, .

@@ -1,1 +1,0 @@
-The MEN'S COXLESS PAIR (M2-) competition at the 1984 Summer Olympics took place at Lake Casitas in Ventura County, California, United States. It was held from 30 July to 5 August and the outcome was wide open due to the Eastern Bloc boycott and thus the absence of the dominating team from East Germany. The event was won by the team from Romania.[1]

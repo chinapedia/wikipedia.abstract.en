@@ -1,1 +1,0 @@
-SETH KAPER-DALE is an American Protestant pastor and activist. He has been co-pastor at the Reformed Church of Highland Park (RCHP) in New Jersey since 2001. Before coming to RCHP, he spent time in both Ecuador and India.[1] He was the Green Party candidate in the New Jersey gubernatorial election, 2017.[2][3][4][5] He won 9,849, or 0.47%, of votes cast. [6]

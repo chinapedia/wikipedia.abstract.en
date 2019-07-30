@@ -1,1 +1,0 @@
-JOSÉ SANTIAGO RODRÍGUEZ ZORRILLA (30 December 1752 – 5 April 1832) was the 21st bishop of Santiago, Chile,[1] known for his fervent support of the Spanish government during the Chilean War of Independence.

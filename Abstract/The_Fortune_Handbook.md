@@ -1,1 +1,0 @@
-_THE FORTUNE HANDBOOK_ () is a 2017 Singaporean Chinese New Year-themed comedy film directed by Kelvin Sng and starring Christopher Lee, Mark Lee and Li Nanxing. It was released in cinemas on January 26, 2017,[1][2] and is one of two films distributed by mm2 Entertainment during the Chinese New Year period in 2017, the other being _Take 2_.

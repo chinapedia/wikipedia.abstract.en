@@ -1,1 +1,0 @@
-_ELVIS DURAN'S ARTIST OF THE MONTH_ is a regular feature since 2013 by American radio broadcaster Elvis Duran in which he chooses an upcoming solo singer, and at times duos and groups, to spotlight them each month as "Artist(s) of the Month". In certain months, two different artists may be featured during the same month.

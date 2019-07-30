@@ -1,1 +1,0 @@
-Ivy_Baldwin.jpg

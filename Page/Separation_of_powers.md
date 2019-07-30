@@ -19,7 +19,7 @@ In this way, Calvin and his followers resisted political absolutism and furthere
 
 Montesquieu's separation of powers system
 
-Montesquieu_1.png]] The term "tripartite system" is commonly ascribed to French Enlightenment political philosopher Baron de Montesquieu, although he did not use such a term. In reality he referred to "distribution" of powers. In _The Spirit of the Laws_ (1748), Montesquieu described the various forms of distribution of political power among a legislature, an executive, and a judiciary. Montesquieu's approach was to present and defend a form of government which was not excessively centralized in all its powers to a single monarch or similar ruler, form of government known then as "aristocracy". He based this model on the Constitution of the Roman Republic and the British constitutional system. Montesquieu took the view that the Roman Republic had powers separated so that no one could usurp complete power.[8][9][10] In the British constitutional system, Montesquieu discerned a separation of powers among the monarch, Parliament, and the courts of law.
+]] The term "tripartite system" is commonly ascribed to French Enlightenment political philosopher Baron de Montesquieu, although he did not use such a term. In reality he referred to "distribution" of powers. In _The Spirit of the Laws_ (1748), Montesquieu described the various forms of distribution of political power among a legislature, an executive, and a judiciary. Montesquieu's approach was to present and defend a form of government which was not excessively centralized in all its powers to a single monarch or similar ruler, form of government known then as "aristocracy". He based this model on the Constitution of the Roman Republic and the British constitutional system. Montesquieu took the view that the Roman Republic had powers separated so that no one could usurp complete power.[8][9][10] In the British constitutional system, Montesquieu discerned a separation of powers among the monarch, Parliament, and the courts of law.
 
 Montesquieu argues that each Power should only exercise its own functions, it was quite explicit here:
 
@@ -82,7 +82,7 @@ Australia does not maintain a strict separation between the legislative and exec
 
 Austria
 
-Hans_Kelsen1.jpg was the principal author of the tripartite Constitution of Austria.]]
+was the principal author of the tripartite Constitution of Austria.]]
 
 The Constitution of Austria was originally written by Hans Kelsen, the prominent constitutional scholar in Europe at that time. Kelsen was to serve as a part of the judicial court of review for Austria as part of its tripartite government.
 
@@ -208,7 +208,7 @@ The British legal systems are based on common law traditions, which require:
 
 United States
 
-Washington_Constitutional_Convention_1787.jpg at Constitutional Convention of 1787, signing of U.S. Constitution]] Justice_Antonin_Scalia_on_Separation_of_Powers_and_Checks_and_Balances.webm Justice Antonin Scalia testified before the Senate Judiciary Committee about separation of powers and checks and balances of the U.S. Government]]
+at Constitutional Convention of 1787, signing of U.S. Constitution]] Justice Antonin Scalia testified before the Senate Judiciary Committee about separation of powers and checks and balances of the U.S. Government]]
 
 Separation of powers was first established in the United States Constitution, the founding fathers included features of many new concepts, including hard-learned historical lessons about the checks and balances of power. Similar concepts were also prominent in the state governments of the United States. As colonies of Great Britain, the founding fathers considered that the American states had suffered an abuse of the broad power of parliamentarism and monarchy. As a remedy, the US Constitution limits the powers of the federal government through various means, in particular, the three branches of the federal government are divided by exercising different functions, and the executive and legislative powers are separated in origin by separate elections and the judiciary is kept independent, each branch controls the actions of others and balances its powers in some way.
 

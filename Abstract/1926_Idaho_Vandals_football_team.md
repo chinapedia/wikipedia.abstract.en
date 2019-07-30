@@ -1,1 +1,0 @@
-The 1926 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1926 college football season. The Vandals were led by first-year head coach Charles Erb and were in their fifth season in the Pacific Coast Conference. Home games were played on campus in Moscow at MacLean Field.

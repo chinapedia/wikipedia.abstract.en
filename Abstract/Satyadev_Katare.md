@@ -1,1 +1,0 @@
-SATYADEV KATARE was an Indian politician, and the former MLA for Ater (Vidhan Sabha constituency) as well as the leader of the opposition in the Madhya Pradesh Legislative Assembly. Katare died on 20 October 2016 in Mumbai, Maharashtra.[1][2][3][4]

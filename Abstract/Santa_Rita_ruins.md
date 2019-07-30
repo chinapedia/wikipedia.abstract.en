@@ -1,1 +1,0 @@
-SANTA RITA RUINS is a Maya ruin and an archaeological reserve on the outskirts of Corozal, Belize.[1] Historical evidence suggests that it was probably the ancient and important Maya city known as CHETUMAL.[2][3]

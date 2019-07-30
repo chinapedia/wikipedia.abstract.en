@@ -1,1 +1,0 @@
-The "Miss Universe Malaysia 2010" also referred to as The Next MISS UNIVERSE MALAYSIA 2010 is the 46th edition of the Miss Universe Malaysia pageant which was held at the Royale Chulan Hotel, Kuala Lumpur on May 16, 2010 where the reigning winner Joannabelle Ng of Sabah crowned her successor Nadine Thomas from Selangor at the end of the event.[1]

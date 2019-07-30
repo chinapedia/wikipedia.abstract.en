@@ -1,1 +1,0 @@
-Lei_Niho_Palaoa_(Neck_Ornament),_19th_century,_Carved_sperm_whale_tooth,_braided_human_hair,_olona_cordage.jpg]]

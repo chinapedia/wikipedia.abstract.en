@@ -1,1 +1,0 @@
-ROBERT SAMUEL DECOSTA HIGGINS is an American surgeon known for his expertise in heart–lung transplants. He is the William Stewart Halsted Professor of Surgery at the Johns Hopkins School of Medicine,[1] and is the first African-American Director of the Department of Surgery at Johns Hopkins.[2][3]

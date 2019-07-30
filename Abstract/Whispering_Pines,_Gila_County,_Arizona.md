@@ -1,1 +1,0 @@
-WHISPERING PINES is a census-designated place (CDP) in Gila County, Arizona, United States. It is one of two locations in Arizona with this name, the other being a populated place in Greenlee County. The population was 148 at the 2010 United States Census.[1]

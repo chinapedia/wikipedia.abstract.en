@@ -1,1 +1,0 @@
-_WOODSTOCK JAZZ FESTIVAL 1_ is an album by pianist Chick Corea, with saxophonist Lee Konitz, or drummer Jack DeJohnette and bassist Miroslav Vitous recorded at the Woodstock Jazz Festival celebrating Creative Music Studio's 10th Anniversary in Woodstock, NY in 1981 and released on the Douglas Music label in 1997.[1][2]

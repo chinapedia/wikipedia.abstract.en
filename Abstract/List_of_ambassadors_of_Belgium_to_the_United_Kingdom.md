@@ -1,1 +1,0 @@
-This is a list of AMBASSADORS FROM BELGIUM TO THE UNITED KINGDOM, who head the Embassy of Belgium, London. Formally, they are the AMBASSADOR OF HIS MAJESTY THE KING OF THE BELGIANS TO THE COURT OF ST. JAMES'S.

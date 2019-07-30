@@ -1,1 +1,0 @@
-LYNETTE R. MUIR, or LYNN MUIR (1930 - 2 July 2007) was reader in the Department of French Language and Literature at the University of Leeds. She was described as "one of the foremost European scholars in the fields of medieval French drama and Arthurian romance."[1]

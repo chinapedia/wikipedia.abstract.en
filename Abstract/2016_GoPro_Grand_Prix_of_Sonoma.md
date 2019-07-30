@@ -1,1 +1,0 @@
-The 2016 GOPRO GRAND PRIX OF SONOMA was the 16th and final round of the 2016 IndyCar Series season. The race was contested on September 18, 2016, on the IndyCar layout of Sonoma Raceway in Sonoma, California. It marked the 12th time that the series had visited the circuit. For the second year in a row, the event served as the season finale for the IndyCar Series.

@@ -1,7 +1,6 @@
-Symmetric_group_4;_Cayley_graph_4,9.svg of the symmetric group S₄]] Symmetric_group_3;_Cayley_table;_matrices.svg of the symmetric group S₃
+of the symmetric group S₄]] of the symmetric group S₃
 (multiplication table of permutation matrices)
 These are the positions of the six matrices:
-Symmetric_group_3;_Cayley_table;_positions.svg
 Some matrices are not arranged symmetrically to the main diagonal - thus the symmetric group is not abelian.]]
 
 In abstract algebra, the SYMMETRIC GROUP defined over any set is the group whose elements are all the bijections from the set to itself, and whose group operation is the composition of functions. In particular, the finite symmetric group S_(_N_) defined over a finite set of _n_ symbols consists of the permutation operations that can be performed on the _n_ symbols.[1] Since there are _n_! (_n_ factorial) possible permutation operations that can be performed on a tuple composed of _n_ symbols, it follows that the number of elements (the order) of the symmetric group S_(_n_) is _n_!.

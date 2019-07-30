@@ -1,1 +1,0 @@
-_H_ () is a 1973 novel by French novelist Philippe Sollers. The novel was distinguished by its lack of punctuation, similar to Sollers' novels _Lois_ and _Paradis_. The book was published in English translation in 2015. Critic Roland Champagne describes _H_ as the "culmination" of the "breakdown in traditional writing for Sollers," a period that began with Sollers' novel _Lois_.

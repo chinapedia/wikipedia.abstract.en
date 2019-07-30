@@ -1,1 +1,0 @@
-The DETROIT LIONS are a professional American football team based in Detroit, Michigan. The Lions compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) North division. The team plays its home games at Ford Field in Downtown Detroit.

@@ -1,1 +1,0 @@
-Bertha_Egnos_South_African_musician.jpg BERTHA EGNOS (1 January 1913 – 2 July 2003) was a South African musician, director, and composer in musical theatre, best known as the co-creator and director of _Ipi Tombi_.

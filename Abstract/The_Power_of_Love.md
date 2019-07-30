@@ -1,1 +1,0 @@
-THE POWER OF LOVE or POWER OF LOVE may refer to:

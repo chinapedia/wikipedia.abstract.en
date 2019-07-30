@@ -1,1 +1,0 @@
-The JEAN COCTEAU CINEMA is a historic movie theater located in Santa Fe, New Mexico, United States. It is owned by American author George R. R. Martin. In addition to films, the cinema hosts author talks and book-signings, along with a small display of signed books for sale; burlesque, magic and variety shows; art exhibitions and concerts.[1]

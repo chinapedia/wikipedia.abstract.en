@@ -1,1 +1,0 @@
-_COLD OF KALANDAR_ () is a 2015 Turkish drama film directed by Mustafa Kara. It was selected as the Turkish entry for the Best Foreign Language Film at the 89th Academy Awards but it was not nominated.[1][2]

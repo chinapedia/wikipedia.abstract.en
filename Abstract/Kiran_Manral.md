@@ -1,1 +1,0 @@
-KIRAN MANRAL (born 1971) is a popular Indian author and blogger. Based in Mumbai, she published her first novel _The Reluctant Detective_ in 2011.[1][2] _Karmic Kids_ (2015) her first non-fiction work, is an introduction to parenting based on her own experience of raising a son.[3] Manral is also the founder of India Helps, a network of volunteers who assist disaster victims.[4]

@@ -1,1 +1,0 @@
-JOHN HOLLOWAY (19 February 1943 - 12 March 2013) was an Australian public servant and diplomat and an advisor to the Cambodian Government. Over his career he played a key role in the Cambodian peace process, including during his time as Australian Ambassador to Cambodia from 1992 to 1994.[1][2][3][4][5]

@@ -1,1 +1,0 @@
-The GUNPOWDER PLOT of 1605, in earlier centuries often called the GUNPOWDER TREASON PLOT or the JESUIT TREASON, was a failed assassination attempt against King James I by a group of provincial English Catholics led by Robert Catesby.

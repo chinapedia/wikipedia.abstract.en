@@ -1,1 +1,0 @@
-BRAHIM ZNIBER (1920–2016) was a Moroccan businessman. Through Diana Holding, he was the founder and the owner of Celliers de Meknès, the largest wine producer in Morocco, and owned 85% of the country's wine production. From the 1970s onward, he expanded into fruit and poultry production, and Coca-Cola bottling plants.

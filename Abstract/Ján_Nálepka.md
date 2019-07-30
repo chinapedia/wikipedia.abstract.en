@@ -1,1 +1,0 @@
-JÁN NÁLEPKA (20 September 1912 in Smižany, Austria-Hungary – 16 November 1943 in Ovruch, German-occupied Ukrainian SSR, Soviet Union) was a Slovak captain who organized and led an anti-fascist Slovak partisan detachment in the Soviet Union during World War II.

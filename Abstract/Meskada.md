@@ -1,1 +1,0 @@
-MESKADA is a 2010 American crime drama written and directed by Josh Sternfeld and starring Nick Stahl and Rachel Nichols as police detectives assigned to investigate a home invasion in which a young boy is murdered in the commission of the crime.

@@ -1,1 +1,0 @@
-LAURENCE PERCY FARRAR L'ESTRANGE OBE was a British diplomat.

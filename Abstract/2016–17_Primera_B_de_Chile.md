@@ -1,1 +1,0 @@
-The 2016–17 PRIMERA B DE CHILE, known as the 2016–17 CAMPEONATO LOTO for sponsorship purposes, was the 63rd season of Chile's second-flight football. The competition began on July 31, 2016 and ended on April 30, 2017.

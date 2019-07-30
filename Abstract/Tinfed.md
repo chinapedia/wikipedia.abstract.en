@@ -1,1 +1,0 @@
-TINFED were an alternative rock group started in Sacramento. The final line-up consisted of vocalist/instrumentalist Rey Osburn, guitarist Eric Stenman, drummer Matt McCord, and bassist Rick Verrett. They released three studio albums: _Synaptic Hardware_ (1993), _Hypersonic Hyperphonic_ (1996) and _Tried + True_ (2000).

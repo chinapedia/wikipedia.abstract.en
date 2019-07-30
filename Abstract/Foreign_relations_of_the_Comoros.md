@@ -1,1 +1,0 @@
-In November 1975, Comoros became the 143rd member of the United Nations. The new nation was defined as consisting of the entire archipelago, despite the fact that France maintains control over Mayotte.

@@ -1,1 +1,0 @@
-"THE FUNNIEST JOKE IN THE WORLD" (also "JOKE WARFARE" and "KILLER JOKE") is a _Monty Python_ comedy sketch. The premise of the sketch is that the joke is so funny that anyone who reads or hears it promptly dies from laughter.

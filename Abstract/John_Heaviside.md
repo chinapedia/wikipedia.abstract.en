@@ -1,1 +1,0 @@
-JOHN HEAVISIDE (born 7 October 1943) is an English former amateur footballer who played in the Football League as a left back for Darlington. He also played non-league football for Bishops Middleham and Spennymoor United.[1]

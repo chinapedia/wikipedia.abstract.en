@@ -1,1 +1,0 @@
-The LAO PEOPLE'S ARMED FORCES (LPAF) is the name of the armed forces of the Lao People's Democratic Republic and the institution of the Lao People's Revolutionary Party, who are charged with protecting the country.

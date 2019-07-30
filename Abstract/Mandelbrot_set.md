@@ -1,1 +1,0 @@
-Mandel_zoom_00_mandelbrot_set.jpg

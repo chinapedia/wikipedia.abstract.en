@@ -1,16 +1,16 @@
-Tajikistan_pol01.jpg Most of rugged Tajikistan's transportation system was built during the Soviet era, and since that time the system has deteriorated badly because of insufficient investment and maintenance. In 2013, Tajikistan, like many of the other Central Asian countries, was experiencing major development in its transportation sector. Beginning in 2005, a series of major transportation projects were begun. The first such project, the Anzob Tunnel, was inaugurated in 2006, providing a year-round road link from Dushanbe to northern Tajikistan.
+Most of rugged Tajikistan's transportation system was built during the Soviet era, and since that time the system has deteriorated badly because of insufficient investment and maintenance. In 2013, Tajikistan, like many of the other Central Asian countries, was experiencing major development in its transportation sector. Beginning in 2005, a series of major transportation projects were begun. The first such project, the Anzob Tunnel, was inaugurated in 2006, providing a year-round road link from Dushanbe to northern Tajikistan.
 
 
 Airports
 
-Dushanbe_Airport_(DYU).jpg In 2009 Tajikistan had 26 airports,[1] 18 of which had paved runways, of which two had runways longer than 3,000 meters.[2] Tajikistan has two domestic airlines (Tajik Air and Somon Air) and is also serviced by foreign air companies (mainly Russian). The country's main airport is Dushanbe International Airport which, as of May 2014, had regularly scheduled flights to such major cities as Almaty, Baku, Bishkek, Delhi, Dubai, Frankfurt, Istanbul, Kabul, Moscow, Saint Petersburg, Sharjah, Tehran, and Ürümqi amongst others.
+In 2009 Tajikistan had 26 airports,[1] 18 of which had paved runways, of which two had runways longer than 3,000 meters.[2] Tajikistan has two domestic airlines (Tajik Air and Somon Air) and is also serviced by foreign air companies (mainly Russian). The country's main airport is Dushanbe International Airport which, as of May 2014, had regularly scheduled flights to such major cities as Almaty, Baku, Bishkek, Delhi, Dubai, Frankfurt, Istanbul, Kabul, Moscow, Saint Petersburg, Sharjah, Tehran, and Ürümqi amongst others.
 
 No flights connect Dushanbe with Tashkent. The next largest airports behind Dushanbe are at Khujand and Kulob.[3] As of 2007 air transport was said to be unreliable.[4]
 
 
 Railways
 
-Duschanbe_Bahnhof.jpg]] The railroad system totals only of track,[5] all of it broad gauge. The principle segments are in the southwestern region and connect the capital with the industrial areas of the Gissar and Vakhsh valleys and with Uzbekistan, Turkmenistan, Kazakhstan and Russia.[6] In 2000 a new line, the Qurghonteppa – Kulyab railway, was completed and connected the Kulyab District with the central area of the country.[7] Passenger transit through Tajikistan has been hindered by periodic failures of Tajik Railways to pay transit tariffs and by safety issues.[8] Most international freight traffic is carried by train.[9]
+]] The railroad system totals only of track,[5] all of it broad gauge. The principle segments are in the southwestern region and connect the capital with the industrial areas of the Gissar and Vakhsh valleys and with Uzbekistan, Turkmenistan, Kazakhstan and Russia.[6] In 2000 a new line, the Qurghonteppa – Kulyab railway, was completed and connected the Kulyab District with the central area of the country.[7] Passenger transit through Tajikistan has been hindered by periodic failures of Tajik Railways to pay transit tariffs and by safety issues.[8] Most international freight traffic is carried by train.[9]
 
 It is hoped that a 2009 agreement between the heads of state of Pakistan, Tajikistan, and Afghanistan will modernize parts of Tajikistan's rail system to allow more trade between Central Asian countries.[10]
 
@@ -19,7 +19,7 @@ Stations served
 
 Highways
 
-Pamir_Highway_Route.jpg 1229_chineseBridge1.jpg The total length of roads in the country is 27,800 kilometers, nearly all of which were built before 1991. Automobiles account for more than 90% of the total volume of passenger transportation and more than 80% of domestic freight transportation.[11]
+The total length of roads in the country is 27,800 kilometers, nearly all of which were built before 1991. Automobiles account for more than 90% of the total volume of passenger transportation and more than 80% of domestic freight transportation.[11]
 
 As of 2014 many highway and tunnel construction projects were underway or recently completed. Major projects include rehabilitation of the Dushanbe – Chanak (Uzbek border), Dushanbe – Kulma (Chinese border), Kurgan-Tube – Nizhny Pyanj (Afghan border) highways and construction of tunnels under the mountain passes of Anzob, Shakhristan, Shar-Shar[12] and Chormazak.[13] These were supported by international donor countries.[14][15] China has invested approximately $720 million for infrastructure improvements in Tajikistan, including the rebuilding, widening and improvement of the road between Dushanbe and Khujand which as of August 2007 is proceeding using equipment, labor, and oversight from China.[16]
 

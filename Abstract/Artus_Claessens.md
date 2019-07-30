@@ -1,1 +1,0 @@
-Artus_Claessens_-_Large_banquet_still_life_with_lobster,_fruits,_wine_glasses,_porcelain_and_pewter_plates,_birds,_monkey,_squirrel_and_cat.jpg

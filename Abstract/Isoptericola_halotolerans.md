@@ -1,1 +1,0 @@
-_ISOPTERICOLA HALOTOLERANS_ is a Gram-positive, moderately halophilic and non-motile bacterium from the genus of _Isoptericola_ which has been isolated from soil from the Qinghai Province in China.[1][2][3][4][5][6]

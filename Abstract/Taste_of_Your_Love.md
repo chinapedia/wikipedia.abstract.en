@@ -1,1 +1,0 @@
-"TASTE OF YOUR LOVE" is a 1989 single released by the Washington, D.C.-based go-go band Experience Unlimited.[1][2] The song was released as the second single from their 1989 album _Livin' Large_.[3] The single peaked at #4 on Billboard's "Hot R&B/Hip-Hop songs" chart, on September 16, 1989.[4]

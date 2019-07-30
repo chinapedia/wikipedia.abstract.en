@@ -1,1 +1,0 @@
-JANE WRIGHT (born 1954 in Ontario, Canada) is an entomologist who discovered the dung beetle _Neochara wrightee_ (named after her) while working for the Entomology division of Commonwealth Scientific and Industrial Research Organization (CSIRO) researching predatory dung beetles in Africa.

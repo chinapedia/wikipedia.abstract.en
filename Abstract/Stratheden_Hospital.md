@@ -1,1 +1,0 @@
-STRATHEDEN HOSPITAL is currently a small community hospital in Cupar, Fife which was originally called Fife and Kinross District Asylum. Its name was changed to Stratheden Hospital in 1948. It was a centre of excellence in Child and Family Psychiatry from the 1960s. In the 21st century, it caters for psychiatric health.[1][2] It is managed by NHS Fife.

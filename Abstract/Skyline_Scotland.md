@@ -1,1 +1,0 @@
-SKYLINE SCOTLAND is a set of four annual skyrunning races which take place on consecutive days in the mountains around Kinlochleven in Lochaber. The races are the Mamores VK, the Ring of Steall Skyrace, the Ben Nevis Ultra and the Glen Coe Skyline.[1]

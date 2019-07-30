@@ -1,1 +1,0 @@
-CHOLESTEROL (from the Ancient Greek _chole-_ (bile) and _stereos_ (solid), followed by the chemical suffix _-ol_ for an alcohol) is an organic molecule. It is a sterol (or modified steroid),[1] a type of lipid. Cholesterol is biosynthesized by all animal cells and is an essential structural component of animal cell membranes.

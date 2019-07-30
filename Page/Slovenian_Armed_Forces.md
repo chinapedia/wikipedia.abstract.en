@@ -3,7 +3,7 @@ The SLOVENIAN ARMED FORCES or SLOVENIAN ARMY (; SAF/SV) are the armed forces of 
 
 History
 
-URN_NBN_SI_IMG-E18TCZUR.jpg, 1919]] The military history of Slovenia spans less than a hundred years. Following the disintegration of the Austrian-Hungarian Empire at the end of World War I, the Duchy of Styria was divided between the newly established states of German Austria and the State of Slovenes, Croats and Serbs. Rudolf Maister, a Slovene major of the former Austro-Hungarian Army, occupied the town of Maribor in November 1918 and claimed it to the State of Slovenes, Croats and Serbs. After a short fight with German Austrian provisional units, the current border was established, which mostly followed the ethnic-linguistic division between Slovenes and ethnic Germans in Styria.
+, 1919]] The military history of Slovenia spans less than a hundred years. Following the disintegration of the Austrian-Hungarian Empire at the end of World War I, the Duchy of Styria was divided between the newly established states of German Austria and the State of Slovenes, Croats and Serbs. Rudolf Maister, a Slovene major of the former Austro-Hungarian Army, occupied the town of Maribor in November 1918 and claimed it to the State of Slovenes, Croats and Serbs. After a short fight with German Austrian provisional units, the current border was established, which mostly followed the ethnic-linguistic division between Slovenes and ethnic Germans in Styria.
 
 The current Slovenian Armed Forces are descended from the Slovenian Territorial Defence (_Teritorialna Obramba Republike Slovenije_; or _Slovene TO_), formed in 1991 by fusion of Territorial Defence (formed in 1968 as a paramilitary complement to the regular army of the former Yugoslav within the territory of Slovenia) with secret alternative command structure, known as the Manoeuvre Structures of National Protection (Manevrska struktura narodne zaščite, or MSNZ), which was an existing but antiquated institution, (unique to Slovenia), intended to enable the republic to form an ad hoc defence structure, akin to a Home Guard. It was of negligible importance prior to 1990, with antiquated weapons and few members.
 
@@ -12,7 +12,7 @@ When Slovenia declared independence at the onset of the Yugoslav Wars in 1991, t
 
 Current status
 
-ASIV_Slovenia_18_(24556573455).jpg assault rifle]]
+assault rifle]]
 
 After 1993, the Slovenian Armed Forces had relied on mandatory military service, with conscripts receiving 6–7 months of training. In 2003, the Slovenian Government abolished conscription and as of July 2004, the Slovenian Armed Forces had been almost completely reorganised into a professional army now based on volunteers. Currently there are approximately 7,300 active troops and approximately 1,500 in reserve, reduced from 55,000 personnel during conscription.
 
@@ -20,8 +20,6 @@ A major reorganization of the Slovenian Armed Forces is currently underway[1] wi
 
 
 NATO membership
-
-Slokfor.jpg
 
 As part of the former Socialist Federal Republic of Yugoslavia, Slovenia was never a member of the Warsaw Pact. Today, the foreign policy priority of NATO membership drives Slovenia's defense reorganization. Once many countries lifted the arms embargo on Slovenia in 1996, the country embarked on a military procurement program to bolster its status as a NATO candidate and to aid its transformation into a mobile force. Active in the SFOR deployment in Bosnia and Herzegovina, Slovenia is also a charter member of Partnership for Peace and a regular participant in PfP exercises. The United States provides bilateral military assistance to Slovenia, including through the International Military Education and Training (IMET) program, the State Partnership Program (aligned with Colorado), and the EUCOM Joint Contact Team Program.
 
@@ -41,8 +39,6 @@ The Slovenian Armed Forces are organized as single-branch armed forces with the 
 -   voluntary recruits (basic training)
 
 Order of Battle
-
-Slovenia_Army_2013.png
 
 -   GENERAL STAFF OF THE SLOVENIAN ARMED FORCES, in Ljubljana
     -   Military Orchestra

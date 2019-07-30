@@ -1,1 +1,0 @@
-_MONOPOLY_ is a Sega Master System video game based on the board game _Monopoly_, released in 1988. Developed by American studio Nexa Corporation and published by Sega itself, this title was one of many inspired by the property. According to Game Freaks 365, the game was "one of the first real boardgames that was programmed" into a video game.[1]

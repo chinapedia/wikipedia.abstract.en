@@ -1,1 +1,0 @@
-was a Japanese businessman from the early Shōwa period (1920s–1970s). The chief of Nippon Keidanren in 1968,[1] he served as President of the Sapporo Olympic Organizing Committee,[2] and served as Chairman of the National Board of the Boy Scouts of Japan.[3]

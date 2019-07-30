@@ -1,1 +1,0 @@
-HAMAR is a town in Hamar Municipality in Hedmark county, Norway. It is part of the traditional region of Hedmarken. The administrative centre of the municipality is the town of Hamar. The municipality of Hamar was separated from Vang as a town and municipality of its own in 1849. Vang was merged back into Hamar on 1 January 1992.

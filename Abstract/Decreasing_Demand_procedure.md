@@ -1,1 +1,0 @@
-The DECREASING DEMAND PROCEDURE is a procedure for fair item assignment. It yields a Pareto-efficient division that maximizes the rank of the agent with the lowest rank. This corresponds to the Rawlsian justice criterion of taking care of the worst-off agent.

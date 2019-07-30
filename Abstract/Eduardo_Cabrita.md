@@ -1,1 +1,0 @@
-EDUARDO ARMÉNIO DO NASCIMENTO CABRITA (26 September 1961, in Barreiro) is a Portuguese legal professional and politician, acting as Minister Assistant in the cabinet of Prime Minister António Costa since 26 November 2015. He was a member of parliament from 2002 to 2015, before taking office as minister in the Government.[1][2][3][4]

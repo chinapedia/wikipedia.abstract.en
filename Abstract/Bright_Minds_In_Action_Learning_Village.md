@@ -1,1 +1,0 @@
-BRIGHT MINDS IN ACTION LEARNING VILLAGE (commonly known as BMA) is a private school in the Philippines located in Daanbantayan, Cebu. It was founded in 2003, by Epifania Arriola Villegas, Ed.D alongside with husband Engr. Antolin Ygot Villegas, Sr.

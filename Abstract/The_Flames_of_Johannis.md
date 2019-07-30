@@ -1,1 +1,0 @@
-_THE FLAMES OF JOHANNIS_ is a lost[1] 1916 silent film drama directed by Edgar Lewis and starring Nance O'Neil. It was written by O'Neil's husband Alfred Hickman and produced by the Lubin Manufacturing Company.[2]

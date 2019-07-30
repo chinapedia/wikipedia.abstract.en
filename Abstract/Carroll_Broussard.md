@@ -1,1 +1,0 @@
-CARROLL BROUSSARD was an American basketball player known for his college career at Texas A&M University between 1959 and 1962. Broussard was a three-time Southwest Conference Player of the Year,[1] three-time first-team all-SWC selection, three-time All-American, and was later honored as one of the Southeastern Conference's Legends of Basketball.[2][3]

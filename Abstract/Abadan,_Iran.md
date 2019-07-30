@@ -1,1 +1,0 @@
-ABADAN ( _Ābādān_, ) is a city and capital of Abadan County, Khuzestan Province which is located in the southwest of Iran. It lies on Abadan Island ( long, 3–19 km or 2–12 miles wide), the island is bounded in the west by the Arvand waterway and to the east by the Bahmanshir outlet of the Karun River (the Arvand Rood), from the Persian Gulf,[1] near the Iran–Iraq border.

@@ -1,1 +1,0 @@
-The WOMEN'S 800M athletics events for the 2016 Summer Paralympics take place at the Estádio Olímpico João Havelange from September 16 to September 17, 2016. A total of three events were contested over this distance for three different classifications.

@@ -1,1 +1,0 @@
-HORACE J. BRYANT, JR. (June 29, 1909 – April 13, 1983) was an African American civil rights activist, banking commissioner, and politician from New Jersey. As Commissioner of Banking and Insurance under Governor Richard J. Hughes, he was the first African American to serve in a State Cabinet position in the New Jersey government.

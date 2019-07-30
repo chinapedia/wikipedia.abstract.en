@@ -1,1 +1,0 @@
-CRRC GROUP CORPORATION, known as CRRC GROUP, is a Chinese state-owned holding company, direct parent company of CRRC and 32 other subsidiaries; if including second-tier subsidiaries, the holding company is the head of 112 legal entities (as in 2016).

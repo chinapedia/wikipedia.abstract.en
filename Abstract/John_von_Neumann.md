@@ -1,1 +1,0 @@
-JOHN VON NEUMANN (; , ; December 28, 1903 – February 8, 1957) was a Hungarian-American mathematician, physicist, computer scientist, and polymath. Von Neumann was generally regarded as the foremost mathematician of his time and said to be "the last representative of the great mathematicians"; a genius who was comfortable integrating both pure and applied sciences.

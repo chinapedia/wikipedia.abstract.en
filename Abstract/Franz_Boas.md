@@ -1,1 +1,0 @@
-FRANZ URI BOAS (1858–1942) was a German-born American[1] anthropologist and a pioneer of modern anthropology who has been called the "Father of American Anthropology".[2][3] His work is associated with the movement of anthropological historicism.[4]

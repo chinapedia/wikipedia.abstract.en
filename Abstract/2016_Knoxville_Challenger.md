@@ -1,1 +1,0 @@
-The 2016 KNOXVILLE CHALLENGER was a professional tennis tournament played on indoor hard courts. It was the thirteenth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Knoxville, United States between 6 and 13 November 2016.

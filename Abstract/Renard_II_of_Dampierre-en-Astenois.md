@@ -1,1 +1,0 @@
-Champagne_in_the_12th_century.jpg RENARD II, also spelled REYNALD, RAYNALD, RAINARD or RENAUD (born 1170s, died 1234), was the count, or lord, of Dampierre-le-Château in the Astenois. His lordship lay partly within the Holy Roman Empire, but he was also a direct vassal of the Count of Champagne.

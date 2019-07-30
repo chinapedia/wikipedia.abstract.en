@@ -1,1 +1,0 @@
-UNIVERSITY COLLEGE VENLO, often referred to as UCV, is a bachelor programme offered at the satellite location of Maastricht University, Campus Venlo. It welcomed its first students in September 2015. UCV was ranked second at the national Elsevier ranking 2016 of all university colleges in the Netherlands.

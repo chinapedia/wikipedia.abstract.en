@@ -1,1 +1,0 @@
-The SELDEN ROLL is a 16th century Mexican manuscript painted roll from the Coixtlahuaca region, incorporating both Mixtec and Aztec elements, probably recording myths of the origin and migration of divine ancestors.

@@ -1,1 +1,0 @@
-{{ infobox person | name = Virendra Rathore | image | nationality = Indian | ethnicity = | years_active = 1996-present | other_names = VIRENDRA RATHORE (born 1973) is a Bollywood film producer, who founded a film production house under the banner of JoinFilms Productions

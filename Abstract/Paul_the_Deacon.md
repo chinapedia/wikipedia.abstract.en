@@ -1,1 +1,0 @@
-PaulusDiaconus_Plut.65.35.jpg Plut. 65.35 fol. 34r)]] PAUL THE DEACON ( 720s 13 April 799 AD), also known as _Paulus Diaconus_, _Warnefridus, Barnefridus, Winfridus_ and sometimes suffixed _Cassinensis_ (i.e. "of Monte Cassino"), was a Benedictine monk, scribe, and historian of the Lombards.

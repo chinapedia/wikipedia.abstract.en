@@ -1,1 +1,0 @@
-_Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg]] The DECLARATION OF THE RIGHTS OF MAN AND OF THE CITIZEN (), set by France's National Constituent Assembly in 1789, is a human civil rights document from the French Revolution.[1]

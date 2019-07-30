@@ -1,1 +1,0 @@
-MARNIX KAPPERS (8 September 1943 – 10 October 2016) was a Dutch cabaret artist and actor, best known for his roles on _De Familie Knots_ (1980), _Zonder Ernst_ (1992), and _Heerlijk duurt het langst_ (1998).

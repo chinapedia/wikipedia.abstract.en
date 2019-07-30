@@ -1,1 +1,0 @@
-POPE SIXTUS II (died 6 August 258) was the Pope or Bishop of Rome from 31 August 257 until his death on 6 August 258. He was martyred along with seven deacons, including Lawrence of Rome during the persecution of the Catholic Church by Emperor Valerian.[1]

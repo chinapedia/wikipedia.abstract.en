@@ -1,1 +1,0 @@
-The RED-TAILED MONKEY, also known as the BLACK-CHEEKED WHITE-NOSED MONKEY, RED-TAILED GUENON, REDTAIL MONKEY, or SCHMIDT'S GUENON (_Cercopithecus ascanius_) is a species of primate in the family Cercopithecidae.

@@ -1,1 +1,0 @@
-ROBERT GRAY (born September 6, 1971) is an American former politician. He served in the South Dakota Senate from 2005 to 2012.[1][2] From 2007 to 2012, he served as President pro tempore of the Senate.[3]

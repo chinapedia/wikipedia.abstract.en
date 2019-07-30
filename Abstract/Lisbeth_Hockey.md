@@ -1,1 +1,0 @@
-LISBETH HOCKEY (17 October 1918 – 16 June 2004) was an Austrian-born British nurse and researcher. She was the first director of the Nursing Research Unit in Edinburgh. She was awarded a PhD for research in nursing, one of the first people to do so.

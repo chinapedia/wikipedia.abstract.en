@@ -1,4 +1,4 @@
-TVA_phosphate_smelting_furnace.jpg chemical plant (1942)]]
+chemical plant (1942)]]
 
 SMELTING is a process of applying heat to ore in order to extract a base metal. It is a form of extractive metallurgy. It is used to extract many metals from their ores, including silver, iron, copper, and other base metals. Smelting uses heat and a chemical reducing agent to decompose the ore, driving off other elements as gases or slag and leaving the metal base behind. The reducing agent is commonly a source of carbon, such as coke—or, in earlier times, charcoal.[1]
 
@@ -62,7 +62,7 @@ Copper–tin bronzes, harder and more durable, were developed around 3200 BC, a
 
 How smiths learned to produce copper/tin bronzes is unknown. The first such bronzes may have been a lucky accident from tin-contaminated copper ores. However, by 2000 BC, people were mining tin on purpose to produce bronze—which is amazing given that tin is a semi-rare metal, and even a rich cassiterite ore only has 5% tin. Also, it takes special skills (or special instruments) to find it and locate richer lodes. However early peoples learned about tin, they understood how to use it to make bronze by 2000 BC.
 
-The discovery of copper and bronze manufacture had a significant impact on the history of the Old World. Metals were hard enough to make weapons that were heavier, stronger, and more resistant to impact damage than wood, bone, or stone equivalents. For several millennia, bronze was the material of choice for weapons such as swords, daggers, battle axes, and spear and arrow points, as well as protective gear such as shields, helmets, greaves (metal shin guards), and other body armor. Bronze also supplanted stone, wood, and organic materials in tools and household utensils—such as chisels, saws, adzes, nails, blade shears, knives, sewing needles and pins, jugs, cooking pots and cauldrons, mirrors, and horse harnesses. Tin and copper also contributed to the establishment of trade networks that spanned large areas of Europe and Asia, and had a major effect on the distribution of wealth among individuals and nations. Tiangong_Kaiwu_Tripod_Casting.jpg, published in 1637.]]
+The discovery of copper and bronze manufacture had a significant impact on the history of the Old World. Metals were hard enough to make weapons that were heavier, stronger, and more resistant to impact damage than wood, bone, or stone equivalents. For several millennia, bronze was the material of choice for weapons such as swords, daggers, battle axes, and spear and arrow points, as well as protective gear such as shields, helmets, greaves (metal shin guards), and other body armor. Bronze also supplanted stone, wood, and organic materials in tools and household utensils—such as chisels, saws, adzes, nails, blade shears, knives, sewing needles and pins, jugs, cooking pots and cauldrons, mirrors, and horse harnesses. Tin and copper also contributed to the establishment of trade networks that spanned large areas of Europe and Asia, and had a major effect on the distribution of wealth among individuals and nations. , published in 1637.]]
 
 Early iron smelting
 
@@ -79,7 +79,7 @@ From the medieval period, an indirect process began to replace direct reduction 
 
 Base metals
 
-Cowles_furnace-2.jpg of Ohio in Stoke-upon-Trent England, late 1880s. British Aluminium used the process of Paul Héroult about this time.[13]]]
+of Ohio in Stoke-upon-Trent England, late 1880s. British Aluminium used the process of Paul Héroult about this time.[13]]]
 
 The ores of base metals are often sulfides. In recent centuries, reverberatory furnaces have been used to keep the charge being smelted separate from the fuel. Traditionally, they were used for the first step of smelting: forming two liquids, one an oxide slag containing most of the impurities, and the other a sulfide matte containing the valuable metal sulfide and some impurities. Such "reverb" furnaces are today about 40 meters long, 3 meters high and 10 meters wide. Fuel is burned at one end to melt the dry sulfide concentrates (usually after partial roasting) which are fed through openings in the roof of the furnace. The slag floats over the heavier matte and is removed and discarded or recycled. The sulfide matte is then sent to the converter. The precise details of the process vary from one furnace to another depending on the mineralogy of the orebody.
 

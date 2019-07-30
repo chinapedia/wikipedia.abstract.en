@@ -1,1 +1,0 @@
-BRISBANE GRAMMAR SCHOOL BUILDINGS are a heritage-listed group of private school buildings of Brisbane Grammar School, 24 Gregory Terrace, Spring Hill, City of Brisbane, Queensland, Australia. They were added to the Queensland Heritage Register on 21 August 1992.[1]

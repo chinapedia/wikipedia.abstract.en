@@ -1,1 +1,0 @@
-| name | director | producer | writer | starring | music | cinematography = | editing = | distributor = | released | runtime = | country = India | language = Hindi _ISHAARA_ (इशारा) is a 1964 film featuring Joy Mukherjee, Vyjayanthimala, Prathima Devi[1] and the actor Pran.[2]

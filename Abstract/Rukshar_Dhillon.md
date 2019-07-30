@@ -1,1 +1,0 @@
-RUKSHAR DHILLON is an Indian film Actress who started her career in the South Industry [1]. She is now set to make her Bollywood  debut[2] with RSVP dance franchise film titled  _Bhangra Paa Le_ opposite Sunny Kaushal[3] .

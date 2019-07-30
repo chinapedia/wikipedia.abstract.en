@@ -14,21 +14,19 @@ Sanctioned racing
 
 Professional racing
 
-12_Ty_Dillon_TA2_2014_TransAm_Road_America.jpg
-
 The SCCA dropped its amateur policy in 1962 and began sanctioning professional racing.[7] In 1963, the United States Road Racing Championship was formed. In 1966 the Canadian-American Challenge Cup (Can-Am) was created for Group 7 open-top sportscars. The Trans-Am Series for pony cars also began in 1966. Today, Trans-Am uses GT-1 class regulations, giving amateur drivers a chance to race professionally. A professional series for open-wheel racing cars was introduced in 1967 as the SCCA Grand Prix Championship.[8] This series was then held under various names through to the 1976 SCCA/USAC Formula 5000 Championship.
 
 Current SCCA-sanctioned series include Trans Am, the Pirelli World Challenge for GT and touring cars, the Global MX-5 Cup, F2000 Championship Series, F1600 Championship Series and the Atlantic Championship Series. SCCA Pro Racing has also sanctioned professional series for some amateur classes such as Spec Racer Ford Pro and Formula Enterprises Pro. SCCA Pro Racing also sanctioned the Volkswagen Jetta TDI Cup during its time.
 
 Club Racing
 
-2013_SCCA_National_Championship_Runoffs_B_Spec_winner_Charlie_James.jpg The Club Racing program is a road racing division where drivers race on either dedicated race tracks or on temporary street circuits.[9] Competitors require either a regional or a national racing license. Both modified production cars (ranging from lightly modified cars with only extra safety equipment to heavily modified cars that retain only the basic shape of the original vehicle) and designed-from-scratch "formula" and "sports racer" cars can be used in Club Racing. Most of the participants in the Club Racing program are unpaid amateurs, but some go on to professional racing careers. The club is also the source for race workers in all specialties.
+The Club Racing program is a road racing division where drivers race on either dedicated race tracks or on temporary street circuits.[9] Competitors require either a regional or a national racing license. Both modified production cars (ranging from lightly modified cars with only extra safety equipment to heavily modified cars that retain only the basic shape of the original vehicle) and designed-from-scratch "formula" and "sports racer" cars can be used in Club Racing. Most of the participants in the Club Racing program are unpaid amateurs, but some go on to professional racing careers. The club is also the source for race workers in all specialties.
 
 The annual national championship for Club Racing is called the SCCA National Championship Runoffs and has been held at Riverside International Raceway (1964, 1966, 1968), Daytona International Speedway (1965, 1967, 1969, 2015), Road Atlanta (1970–1993), Mid-Ohio Sports Car Course (1994–2005, 2016), Heartland Park Topeka (2006–2008), Road America (2009-2013, 2020), Mazda Raceway Laguna Seca (2014), and Indianapolis Motor Speedway (2017). In 2018, the Runoffs will go back west to Sonoma Raceway. In 2019, the race will be held at Virginia International Raceway a track where the race has never been held. It was announced on June 15, 2018 that the Runoffs would go back to Road America in the year 2020. On May 25th 2019, the weekend of the 2019 Indianapolis 500, SCCA announced they will be returning to Indianapolis Motor Speedway in 2021. [10] The current SCCA record holder is Jerry Hansen, (former owner of Brainerd International Raceway), with twenty-seven national championships.[11]
 
 SCCA Majors formula group classes
 
-FormulaVee2010SCCARunnoffsWinner17RickShields.jpg The eight classes of the formula group are Formula Atlantic (FA), Formula 1000 (FB), Formula SCCA (FE), Formula Continental (FC), Formula Mazda (FM), Formula F (FF), Formula 500 (F500) and Formula Vee (FV)
+The eight classes of the formula group are Formula Atlantic (FA), Formula 1000 (FB), Formula SCCA (FE), Formula Continental (FC), Formula Mazda (FM), Formula F (FF), Formula 500 (F500) and Formula Vee (FV)
 
 Autocross
 
@@ -38,7 +36,7 @@ Competitions are held at the regional, divisional, and national levels. Each div
 
 Rallying
 
-Rim_Of_The_World_Rally,_2004,_Super_Special_Stage6.jpg The SCCA sanctions "RallyCross" events, similar to autocross, but on a non-paved course.[14] SCCA ProRally was a national performance rally series similar to the World Rally Championship. At the end of the 2004 season SCCA dropped ProRally and ClubRally. A new organization, Rally America, picked up both series starting in 2005.
+The SCCA sanctions "RallyCross" events, similar to autocross, but on a non-paved course.[14] SCCA ProRally was a national performance rally series similar to the World Rally Championship. At the end of the 2004 season SCCA dropped ProRally and ClubRally. A new organization, Rally America, picked up both series starting in 2005.
 
 Road rallies are run on open, public roads.[15] These are not races in the sense of speed, but of precision and navigation. The object is to drive on time, arriving at checkpoints with the proper amount of elapsed time from the previous checkpoint. Competitors do not know where the checkpoints are.
 

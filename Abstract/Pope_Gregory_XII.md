@@ -1,1 +1,0 @@
-POPE GREGORY XII (; or 1327 – 18 October 1417), born ANGELO CORRARO, CORARIO,[1] or CORRER,[2] was Pope of the Catholic Church from 30 November 1406 to 4 July 1415 when he was forced to resign to end the Western Schism. He succeeded Pope Innocent VII and in turn was succeeded by Pope Martin V.

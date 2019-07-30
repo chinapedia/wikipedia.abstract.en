@@ -1,1 +1,0 @@
-Slingshot_(weapon).png

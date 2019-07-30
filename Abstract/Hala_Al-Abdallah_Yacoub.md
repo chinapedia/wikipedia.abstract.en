@@ -1,1 +1,0 @@
-HALA ALABDALLA (born 1956 in Hama) is a Syrian cinematographer and director. She currently lives in Paris[1] producing movies. She is known for _Je suis celle qui porte les fleurs vers sa tombe_, I Am She who Brings the Flowers to her Grave,[2] _Comme si nous attrapions un cobra_, As If We Were Catching a Cobra,[3] and Besieged Like Me[4] (2016)[5]

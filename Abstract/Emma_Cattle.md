@@ -1,1 +1,0 @@
-EMMA CATTLE (born 1988 in Luton)[1] is a British Paralympian competing in S10 events. She competed at the 2008 Summer Paralympics. Cattle trains at Luton swimming club.[2] She attended Barnfield College.[3]

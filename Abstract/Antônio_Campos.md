@@ -1,1 +1,0 @@
-ANTÔNIO CAMPOS (born August 24, 1983)[1] is an American film director, screenwriter and film producer. He is most known for directing _Afterschool_ (2008), _Simon Killer_ (2012) and _Christine_ (2016).

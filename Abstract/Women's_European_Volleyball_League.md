@@ -1,1 +1,0 @@
-The WOMEN'S EUROPEAN VOLLEYBALL LEAGUE is a continental volleyball competition for senior women's national volleyball teams of Europe, organized by the European Volleyball Confederation (CEV). Created in 2009, the competition served as a qualifying tournament for the FIVB World Grand Prix (until 2017) and to its successor the FIVB Nations League since 2018.

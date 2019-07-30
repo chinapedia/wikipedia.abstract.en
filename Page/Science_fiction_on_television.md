@@ -1,4 +1,4 @@
-Al_Hodge_Don_Hastings_Captain_Video.JPG'' which aired from 1949 to 1955]]
+'' which aired from 1949 to 1955]]
 
 Science fiction first appeared in television programming in the late 1930s, during what is called the Golden Age of Science Fiction. Special effects and other production techniques allow creators to present a living visual image of an imaginary world not limited by the constraints of reality.
 
@@ -13,7 +13,7 @@ By the late 1990s, improved technology and more training and cross-training with
 
 Special effects
 
-Magicam-patent.png'', the Magicam, a servo controlled dolly along with a secondary periscope camera filming a model background, was designed by Douglas Trumbull. However, the system did not work reliably and blue screen effects were used.[1] ]]
+'', the Magicam, a servo controlled dolly along with a secondary periscope camera filming a model background, was designed by Douglas Trumbull. However, the system did not work reliably and blue screen effects were used.[1] ]]
 
 Special effects (or "SPFX") have been an essential tool throughout the history of science fiction on television: small explosives to simulate the effects of various rayguns, squibs of blood and gruesome prosthetics to simulate the monsters and victims in horror series, and the wire-flying entrances and exits of George Reeves as Superman.
 
@@ -31,7 +31,7 @@ Models of characters are puppets. Gerry Anderson created a series of shows using
 
 Animation
 
-Kuha2053108.JPG'' were used to decorate this train car.]] As animation is completely free of the constraints of gravity, momentum, and physical reality, it is an ideal technique for science fiction and fantasy on television. In a sense, virtually all animated series allow characters and objects to perform in unrealistic ways, so they are almost all considered to fit within the broadest category of speculative fiction (in the context of awards, criticism, marketing, etc.) The artistic affinity of animation to comic books has led to a large amount of superhero-themed animation, much of this adapted from comics series, while the impossible characters and settings allowed in animation made this a preferred medium for both fantasy and for series aimed at young audiences.
+'' were used to decorate this train car.]] As animation is completely free of the constraints of gravity, momentum, and physical reality, it is an ideal technique for science fiction and fantasy on television. In a sense, virtually all animated series allow characters and objects to perform in unrealistic ways, so they are almost all considered to fit within the broadest category of speculative fiction (in the context of awards, criticism, marketing, etc.) The artistic affinity of animation to comic books has led to a large amount of superhero-themed animation, much of this adapted from comics series, while the impossible characters and settings allowed in animation made this a preferred medium for both fantasy and for series aimed at young audiences.
 
 Originally, animation was all hand-drawn by artists, though in the 1980s, beginning with _Captain Power_, computers began to automate the task of creating repeated images; by the 1990s, hand-drawn animation became defunct.
 
@@ -53,7 +53,7 @@ The perception, more than the reality, of science fiction series being cancelled
 
 Media fandom
 
-Star_Trek_Federation_Officers.jpg'']] One of the earliest forms of media fandom was Star Trek fandom. Fans of the series became known to each other through the science fiction fandom. In 1968, NBC decided to cancel _Star Trek_. Bjo Trimble wrote letters to contacts in the National Fantasy Fan Foundation, asking people to organize their local friends to write to the network to demand the show remain on the air. Network executives were overwhelmed by an unprecedented wave of correspondence, and they kept the show on the air. Although the series continued to receive low ratings and was canceled a year later, the enduring popularity of the series resulted in Paramount creating a set of movies, and then a new series _Star Trek: The Next Generation_, which by the early 1990s had become one of the most popular dramas on American television.
+'']] One of the earliest forms of media fandom was Star Trek fandom. Fans of the series became known to each other through the science fiction fandom. In 1968, NBC decided to cancel _Star Trek_. Bjo Trimble wrote letters to contacts in the National Fantasy Fan Foundation, asking people to organize their local friends to write to the network to demand the show remain on the air. Network executives were overwhelmed by an unprecedented wave of correspondence, and they kept the show on the air. Although the series continued to receive low ratings and was canceled a year later, the enduring popularity of the series resulted in Paramount creating a set of movies, and then a new series _Star Trek: The Next Generation_, which by the early 1990s had become one of the most popular dramas on American television.
 
 _Star Trek_ fans continued to grow in number, and first began organizing conventions in the 1970s. No other show attracted a large organized following until the 1990s, when _Babylon 5_ attracted both _Star Trek_ fans and a large number of literary SF fans who previously had not been involved in media fandom. Other series began to attract a growing number of followers. The British series, _Doctor Who_, has similarly attracted a devoted following.
 

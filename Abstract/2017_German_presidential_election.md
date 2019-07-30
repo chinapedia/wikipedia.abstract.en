@@ -1,1 +1,0 @@
-The 2017 GERMAN PRESIDENTIAL ELECTION (officially the 16TH FEDERAL CONVENTION) was held on 12 February 2017 to elect the 12th President of Germany. Incumbent President Joachim Gauck announced on 6 June 2016 that he would not stand for re-election, citing his advancing age.[1]

@@ -1,1 +1,0 @@
-TRANSPORTATION IN ECUADOR uses six transportation methods to transport passengers and freight (more specifically, oil). They are aviation, highways, pipelines, ports and harbors, railways, and waterways

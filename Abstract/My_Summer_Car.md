@@ -1,1 +1,0 @@
-_MY SUMMER CAR_ is an open world[1] survival game[2] in development by Finnish developer Johannes Rojola of Amistech. It was released on Steam's Early Access program on October 24, 2016 and is expected to be out of Early Access around 2019.

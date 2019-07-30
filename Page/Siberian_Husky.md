@@ -18,13 +18,13 @@ Description
 
 Coat
 
-Siberian_Husky_sable.jpg A Siberian Husky's coat is thicker than that of most other dog breeds which is called a double coat,[10] It has two layers: a dense undercoat and a longer topcoat of short, straight guard hairs.[11] It protects the dogs effectively against harsh Arctic winters, and also reflects heat in the summer. It is able to withstand temperatures as low as . The undercoat is often absent during shedding. Their thick coats require weekly grooming.[12]
+A Siberian Husky's coat is thicker than that of most other dog breeds which is called a double coat,[10] It has two layers: a dense undercoat and a longer topcoat of short, straight guard hairs.[11] It protects the dogs effectively against harsh Arctic winters, and also reflects heat in the summer. It is able to withstand temperatures as low as . The undercoat is often absent during shedding. Their thick coats require weekly grooming.[12]
 
 Siberian Huskies come in a variety of colors and patterns, usually with white paws and legs, facial markings, and tail tip. The most common coats are black and white, then less common copper-red and white, grey and white, pure white, and the rare "agouti" coat, though many individuals have blondish or piebald spotting. Striking masks, spectacles, and other facial markings occur in wide variety. Merle coat patterns are not allowed. The American Kennel Club allows all coat colors from black to pure white.[13]
 
 Eyes
 
-Siberian_Husky_copper_bi-eye.jpg]] Siberian_Husky_with_Blue_Eyes.jpg JAA_3538-2.jpg The American Kennel Club describes the Siberian Husky's eyes as "an almond shape, moderately spaced and set slightly obliquely." The AKC breed standard is that eyes may be brown, blue or black; one of each or Particoloured are acceptable (complete is heterochromia). These eye-color combinations are considered acceptable by the American Kennel Club.[14] The parti-color does not affect the vision of the dog.
+]] The American Kennel Club describes the Siberian Husky's eyes as "an almond shape, moderately spaced and set slightly obliquely." The AKC breed standard is that eyes may be brown, blue or black; one of each or Particoloured are acceptable (complete is heterochromia). These eye-color combinations are considered acceptable by the American Kennel Club.[14] The parti-color does not affect the vision of the dog.
 
 Nose
 
@@ -32,7 +32,7 @@ Show-quality dogs are preferred to have neither pointed nor square noses. The no
 
 Tail
 
-Huskynose.jpg Siberian Husky tails are heavily furred; these dogs will often curl up with their tails over their faces and noses in order to provide additional warmth. As pictured, when curled up to sleep the Siberian Husky will cover its nose for warmth, often referred to as the "Siberian Swirl". The tail should be expressive, held low when the dog is relaxed, and curved upward in a "sickle" shape when excited or interested in something.[17]
+Siberian Husky tails are heavily furred; these dogs will often curl up with their tails over their faces and noses in order to provide additional warmth. As pictured, when curled up to sleep the Siberian Husky will cover its nose for warmth, often referred to as the "Siberian Swirl". The tail should be expressive, held low when the dog is relaxed, and curved upward in a "sickle" shape when excited or interested in something.[17]
 
 Size
 
@@ -68,7 +68,7 @@ The Siberian Husky, Samoyed, and Alaskan Malamute are all breeds directly descen
 
 Dogs from the Anadyr River and surrounding regions were imported into Alaska from 1908 (and for the next two decades) during the gold rush for use as sled dogs, especially in the "All-Alaska Sweepstakes,"[43] a 408-mile (657-km) distance dog sled race from Nome, to Candle, and back. Smaller, faster and more enduring than the 100- to 120-pound (45- to 54-kg) freighting dogs then in general use, they immediately dominated the Nome Sweepstakes. Leonhard Seppala, the foremost breeder of Siberian Huskies of the time, participated in competitions from 1909 to the mid-1920s.[44]
 
-Gunnar_Kaasen_with_Balto.jpg and Balto]]
+and Balto]]
 
 On February 3, 1925, Gunnar Kaasen was first in the 1925 serum run to Nome to deliver diphtheria serum from Nenana, over 600 miles to Nome. This was a group effort by several sled-dog teams and mushers, with the longest (91 miles or 146 km) and most dangerous segment of the run covered by Leonhard Seppala. The event is also loosely depicted in the 1995 animated film _Balto_, as the name of Gunnar Kaasen's lead dog in his sled team was Balto, although unlike the real dog, Balto the character was portrayed as half wolf in the film. In honor of this lead dog, a bronze statue was erected at Central Park in New York City. The plaque upon it is inscribed,
 
@@ -85,7 +85,7 @@ In 1960, the US Army undertook a project to construct an under the ice facility 
 
 In popular culture
 
-Balto.jpg (by Frederick Roth)]]
+(by Frederick Roth)]]
 
 -   The bronze statue of Balto that has been displayed in New York City’s Central Park since 1925 is one of its enduringly popular features.[54]
 -   The television series _Games of Thrones_ caused a huge uptick in demand for Siberian Huskies as pets, followed by a steep increase of their numbers at public shelters. Even though the animal actors were _not_ Siberian Huskies, people were acquiring Siberian Huskies because they looked similar to the fictional direwolf characters depicted in the show.[55] Two of the show's stars pleaded with the public to stop acquiring the dogs without first researching the breed.[56]

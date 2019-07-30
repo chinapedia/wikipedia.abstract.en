@@ -1,1 +1,0 @@
-Grand_Opera_House,_Pueblo,_Colorado_crop.jpg The PUEBLO OPERA HOUSE (also known as the GRAND OPERA HOUSE) was a theater built in Pueblo, Colorado, and opened in 1890. The building was completely destroyed by a fire in 1922.

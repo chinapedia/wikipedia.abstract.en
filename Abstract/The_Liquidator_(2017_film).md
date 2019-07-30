@@ -1,1 +1,0 @@
-_THE LIQUIDATOR_ () is a Chinese suspense crime film directed by Xu Jizhou and starring Deng Chao, Ethan Juan and Cecilia Liu. It is based on the novel _Evil Minds: City Light_ written by Lei Mi.[1][2][3][4] The film was released in China on December 22, 2017.[5]

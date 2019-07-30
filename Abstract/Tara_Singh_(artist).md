@@ -1,1 +1,0 @@
-TARA SINGH (5 May 1931 – 18 September 2016) was a Noted sculptor from Punjab, India. He was the recipient of a number of awards, including the Punjab Rattan Award, the Baba Farid Award and the Sobha Singh Memorial Award.[1]

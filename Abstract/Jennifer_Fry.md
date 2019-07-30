@@ -1,1 +1,0 @@
-JENNIFER FRY (born 24 March 1989) is a South African badminton player.[1][2] She was a 2015 All-Africa Games gold medalist in the mixed doubles event, also won the silver medal in the mixed team event.[3][4] In 2017, she claimed two gold medals at the 2017 African Championships, won the title in the women's and mixed doubles event.[5]

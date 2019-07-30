@@ -1,1 +1,0 @@
-KALLUMALA SAMARAM (Stone Necklace Protest) is an agitation or social revolution by Pulayar community that took place at Perinad and nearby villages such as Cherumoodu, Kanjavely etc. in, Kollam district on October 24, 1915.

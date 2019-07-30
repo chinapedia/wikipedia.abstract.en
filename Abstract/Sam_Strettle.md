@@ -1,1 +1,0 @@
-SAMUEL STRETTLE (2 February 1886 – 1926) was an English professional football full back who made over 120 appearances in the Midland League for Chesterfield Town.[1] He most notably played for Everton in the Football League.[2][3]

@@ -1,1 +1,0 @@
-Fouco-tarantella.jpg SOFIA FUOCO (16 January 1830, Milan, the Kingdom of Lombardy–Venetia — 16 June 1916, Carate Urio, the Province of Como) — Italian ballerina. Was born as MARIA BRAMBILLA; her stage name, _Fuoco_ (the mother's family name, given because there was more than one "Maria Brambilla" at the dance school)[1][2] means ″Fire″ in Italian.

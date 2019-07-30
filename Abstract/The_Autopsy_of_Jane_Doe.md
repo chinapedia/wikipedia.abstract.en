@@ -1,1 +1,0 @@
-_THE AUTOPSY OF JANE DOE_ is a 2016 supernatural horror film directed by André Øvredal. It stars Emile Hirsch and Brian Cox as father-and-son coroners who experience supernatural phenomena while examining the body of an unidentified woman (hence named JANE DOE) (played by Olwen Kelly). It is Øvredal's first English-language film.

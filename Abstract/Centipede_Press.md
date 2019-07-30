@@ -1,1 +1,0 @@
-CENTIPEDE PRESS is an American independent book and periodical publisher focusing on horror, weird tales, crime narratives, science fiction, gothic novels, fantasy art, and studies of literature, music and film. Its earliest imprints were Cocytus Press and Millipede Press.

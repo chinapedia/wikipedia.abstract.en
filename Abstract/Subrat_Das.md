@@ -1,1 +1,0 @@
-SUBRAT DAS (born 1 May 1963) is an Indian cricket umpire. Das has umpired 3 Women's One Day International cricket matches,[1] 1 Women's Twenty20 International match,[2] 61 first-class matches,[3] 56 List A matches[4] and 36 Twenty20 matches[5] .

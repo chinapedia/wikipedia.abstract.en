@@ -16,11 +16,9 @@ Origins
 
 The first known mention of the game was in the book __ by the Chinese Ming-dynasty writer ( 1600), who wrote that the game dated back to the time of the Chinese Han dynasty (206 BC – 220 AD).[7] In the book, the game was called _shoushiling_. Li Rihua's book _Note of Liuyanzhai_ also mentions this game, calling it _shǒushìlìng_ (t. 手勢令; s. 手势令), _huōzhǐtou_ (t. 豁指頭; s. 豁指头), or _huáquán_ (豁拳).
 
-Mushi-ken_(虫拳),_Japanese_rock-paper-scissors_variant,_from_the_Kensarae_sumai_zue_(1809).jpg game (1809). From left to right: slug (namekuji), frog (kawazu) and snake (hebi).]] Throughout Japanese history there are frequent references to _sansukumi-ken_, meaning _ken_ (fist) games where "the three who are afraid of one another" (i.e. A beats B, B beats C, and C beats A).[8] This type of game originated in China before being imported to Japan and subsequently also becoming popular among the Japanese.[9]
+game (1809). From left to right: slug (namekuji), frog (kawazu) and snake (hebi).]] Throughout Japanese history there are frequent references to _sansukumi-ken_, meaning _ken_ (fist) games where "the three who are afraid of one another" (i.e. A beats B, B beats C, and C beats A).[8] This type of game originated in China before being imported to Japan and subsequently also becoming popular among the Japanese.[9]
 
 The earliest Japanese _sansukumi-ken_ game was known as _mushi-ken_ (虫拳), which was imported directly from China.[10][11] In _mushi-ken_ the "frog" (represented by the thumb) is superseded by the "slug" (represented by the little finger), which, in turn is superseded by the "snake" (represented by the index finger), which is superseded by the "frog".[12] Although this game was imported from China the Japanese version differs in the animals represented. In adopting the game, the original Chinese characters for the poisonous centipede (蜈蜙) were apparently confused with the characters for the slug (蛞蝓).[13] The most popular _sansukumi-ken_ game in Japan was _kitsune-ken_ (狐拳). In the game, a supernatural fox called a kitsune (狐) defeats the village head, the village head (庄屋) defeats the hunter, and the hunter (猟師) defeats the fox. _Kitsune-ken_, unlike _mushi-ken_ or rock–paper–scissors, is played by making gestures with both hands.[14]
-
-Kitsune-ken_(狐拳),_Japanese_rock-paper-scissors_variant,_from_the_Genyoku_sui_bento_(1774).jpg
 
 Today, the best-known _sansukumi-ken_ is called ,[15] which is a variation of the Chinese games introduced in the 17th century.[16] _Jan-ken_ uses the rock, paper, and scissors signs[17] and is the game that the modern version of rock–paper–scissors derives from directly.[18] Hand-games using gestures to represent the three conflicting elements of rock, paper, and scissors have been most common since the modern version of the game was created in the late 19th century, between the Edo and Meiji periods.[19]
 
@@ -37,7 +35,7 @@ A 1932 _New York Times_ article on the Tokyo rush hour describes the rules of th
 
 Strategies
 
-Roshambo-Laos.jpg Roshambo-Myanmar.jpg It is impossible to gain an advantage over a truly random opponent. However, by exploiting the psychological weaknesses of inherently non-random opponents, it is possible to gain a significant advantage.[32][33] Indeed, human players tend to be non-random.[34][35] As a result, there have been programming competitions for algorithms that play rock–paper–scissors.[36][37][38]
+It is impossible to gain an advantage over a truly random opponent. However, by exploiting the psychological weaknesses of inherently non-random opponents, it is possible to gain a significant advantage.[32][33] Indeed, human players tend to be non-random.[34][35] As a result, there have been programming competitions for algorithms that play rock–paper–scissors.[36][37][38]
 
 During tournaments, players often prepare their sequence of three gestures prior to the tournament's commencement.[39][40] Some tournament players employ tactics to confuse or trick the other player into making an illegal move, resulting in a loss. One such tactic is to shout the name of one move before throwing another, in order to misdirect and confuse their opponent.
 
@@ -60,7 +58,7 @@ The public release of this judicial order was seemingly intended to shame the re
 
 Auction house selection
 
-Les_Grands_Arbres_au_Jas_de_Bouffan,_par_Paul_Cézanne,_Yorck.jpg _Large Trees Under the Jas de Bouffan_ sold for $11,776,000 at Christie's in 2005.[52]]] In 2005, when Takashi Hashiyama, CEO of Japanese television equipment manufacturer Maspro Denkoh, decided to auction off the collection of Impressionist paintings owned by his corporation, including works by Paul Cézanne, Pablo Picasso, and Vincent van Gogh, he contacted two leading auction houses, Christie's International and Sotheby's Holdings, seeking their proposals on how they would bring the collection to the market as well as how they would maximize the profits from the sale. Both firms made elaborate proposals, but neither was persuasive enough to earn Hashiyama's approval. Unwilling to split up the collection into separate auctions, Hashiyama asked the firms to decide between themselves who would hold the auction, which included Cézanne's _Large Trees Under the Jas de Bouffan_, worth $12–16 million.
+_Large Trees Under the Jas de Bouffan_ sold for $11,776,000 at Christie's in 2005.[52]]] In 2005, when Takashi Hashiyama, CEO of Japanese television equipment manufacturer Maspro Denkoh, decided to auction off the collection of Impressionist paintings owned by his corporation, including works by Paul Cézanne, Pablo Picasso, and Vincent van Gogh, he contacted two leading auction houses, Christie's International and Sotheby's Holdings, seeking their proposals on how they would bring the collection to the market as well as how they would maximize the profits from the sale. Both firms made elaborate proposals, but neither was persuasive enough to earn Hashiyama's approval. Unwilling to split up the collection into separate auctions, Hashiyama asked the firms to decide between themselves who would hold the auction, which included Cézanne's _Large Trees Under the Jas de Bouffan_, worth $12–16 million.
 
 The houses were unable to reach a decision. Hashiyama told the two firms to play rock–paper–scissors to decide who would get the rights to the auction, explaining that "it probably looks strange to others, but I believe this is the best way to decide between two things which are equally good".
 
@@ -104,7 +102,7 @@ In televised robot competition "BattleBots", relations between "lifters, which h
 
 Tournaments
 
-rps2010_2.jpg Various competitive rock–paper–scissors tournaments have been organised by different groups.
+Various competitive rock–paper–scissors tournaments have been organised by different groups.
 
 World Rock Paper Scissors Society
 
@@ -165,7 +163,7 @@ Jackpot En Poy is a game segment of the Philippines' longest running midday show
 
 Variations
 
-Geisha_Playing_the_Hand-Game_Kitsune-ken_(狐拳),_a_Japanese_rock-paper-scissors_variant,_by_Kikukawa_Eizan_(菊川英山).jpg that shows geisha playing kitsune-ken, a Japanese rock-paper-scissors variant (1820)]] Players have developed numerous cultural and personal variations on the game, from simply playing the same game with different objects, to expanding into more weapons and rules, to giving their own name to the game in their national language.
+that shows geisha playing kitsune-ken, a Japanese rock-paper-scissors variant (1820)]] Players have developed numerous cultural and personal variations on the game, from simply playing the same game with different objects, to expanding into more weapons and rules, to giving their own name to the game in their national language.
 
 Adapted rules
 

@@ -1,1 +1,0 @@
-NINA S. OLDS (July 25, 1903 – April 3, 1978)[1] was a socialite known for her three marriages, to Eugene Vidal, Hugh D. Auchincloss, and Robert Olds, as well as her children, authors Gore Vidal and Nina Auchincloss.[2]

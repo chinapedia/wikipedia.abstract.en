@@ -1,1 +1,0 @@
-PAIGE PIERCE, from Plano, Texas, is the number one ranked and rated female professional disc golfer in the world. She is a four-time World Champion, and has been consistently ranked in the top four professional women between 2011 and 2018. In 2018 she achieved the highest player rating a woman has ever had at 978. [1]

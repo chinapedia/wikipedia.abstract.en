@@ -40,7 +40,7 @@ Although the 6600 and 7600 had been huge successes in the end, both projects had
 
 Cray Research
 
-Seymour_Cray.jpg]] The split was fairly amicable, and when he started Cray Research in a new laboratory on the same Chippewa property a year later, Norris invested $250,000 in start-up money.[22] Like CDC's organization, Cray R&D was based in Chippewa Falls and business headquarters were in Minneapolis. Unlike CDC, Cray's manufacturing was also in Chippewa Falls.
+]] The split was fairly amicable, and when he started Cray Research in a new laboratory on the same Chippewa property a year later, Norris invested $250,000 in start-up money.[22] Like CDC's organization, Cray R&D was based in Chippewa Falls and business headquarters were in Minneapolis. Unlike CDC, Cray's manufacturing was also in Chippewa Falls.
 
 At first there was some question as to what exactly the new company should do. It did not seem that there would be any way for them to afford to develop a new computer, given that the now-large CDC had been unable to support more than one. When the President in charge of financing traveled to Wall Street to look for seed money, he was surprised to find that Cray's reputation was very well known. Far from struggling for some role to play in the market, the financial world was more than willing to provide Cray with all the money they would need to develop a new machine.
 

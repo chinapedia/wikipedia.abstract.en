@@ -1,1 +1,0 @@
-JANG HAN-BYUL (born 4 July 1990) is an Australian singer and television personality who appeared on the _Code: Secret Room_ and _Society Game_.[1] He is the former lead vocalist of LEDApple and made his official debut with mini-album _CODA_ on November 2011.

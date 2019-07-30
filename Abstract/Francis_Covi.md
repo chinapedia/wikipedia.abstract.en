@@ -1,1 +1,0 @@
-Covi_francis_marius_mensan.jpg

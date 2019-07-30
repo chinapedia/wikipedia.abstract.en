@@ -1,1 +1,0 @@
-001_Tacos_de_carnitas,_carne_asada_y_al_pastor.jpg Mole_in_Puebla.JPG'', which has dozens of varieties across the Republic (mole poblano pictured), is seen as a symbol of _Mexicanidad_[1] and is considered Mexico's national dish.[2]]]

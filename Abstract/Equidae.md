@@ -1,1 +1,0 @@
-EQUIDAE (sometimes known as the HORSE FAMILY) is the taxonomic family of horses and related animals, including the extant horses, donkeys, and zebras, and many other species known only from fossils. All extant species are in the genus _Equus_. Equidae belongs to the order Perissodactyla, which includes the extant tapirs and rhinoceros, and several extinct families.

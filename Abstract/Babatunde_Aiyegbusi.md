@@ -1,1 +1,0 @@
-BABATUNDE ŁUKASZ AIYEGBUSI (born 26 May 1988) is a Polish professional wrestler and former American football player currently signed with WWE, where he is performing in their developmental territory NXT. He previously played for a number of teams in the Polish American Football League, and had a stint with the Minnesota Vikings during the 2015 preseason.[1]

@@ -1,1 +1,0 @@
-NEW GERMANY NATURE RESERVE is a protected area of coastal grassland and forest overlooking the suburb of New Germany outside of Pinetown, Durban, South Africa.[1] The reserve consists of a nature park featuring a walk-through aviary and snake display, and grasslands to the south of the park which can be explored by foot.[2]

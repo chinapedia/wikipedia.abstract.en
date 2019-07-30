@@ -1,1 +1,0 @@
-MILTON SHUMBA (born 19 October 2000) is a Zimbabwean cricketer.[1] He made his Twenty20 debut for Zimbabwe against Eastern Province in the 2016 Africa T20 Cup on 30 September 2016.[2] Prior to his T20 debut, he was part of Zimbabwe's squad for the 2016 Under-19 Cricket World Cup.[3]

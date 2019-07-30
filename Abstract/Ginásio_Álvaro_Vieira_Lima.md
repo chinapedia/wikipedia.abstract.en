@@ -1,1 +1,0 @@
-GINÁSIO ÁLVARO VIEIRA LIMA is an indoor arena that is located in Rio de Janeiro, Brazil. The arena has a seating capacity of 2,000 people for volleyball matches, and 3,000 people basketball games. The arena is often referred to as either GINÁSIO DO TIJUCA, or GINÁSIO DO TÊNIS CLUBE, in reference to the neighborhood that it's located in, and to its owner.[1]

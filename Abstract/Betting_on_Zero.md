@@ -1,1 +1,0 @@
-_BETTING ON ZERO_ is a 2016 American documentary directed by Ted Braun. It investigates the allegation that Herbalife is a pyramid scheme, and follows Bill Ackman's short investment in Herbalife, which is ostensibly a billion-dollar bet that the company will soon collapse.

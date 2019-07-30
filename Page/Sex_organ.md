@@ -1,4 +1,4 @@
-CharaV3.jpg _Chara_ are the male antheridia (red) and female archegonia (brown).]] A SEX ORGAN (or REPRODUCTIVE ORGAN) is any part of an animal's body that is involved in sexual reproduction. The reproductive organs together constitute the reproductive system. The testis in the male, and the ovary in the female, are called the _primary sex organs_.[1] The external sex organs – the GENITALS or GENITALIA, visible at birth in both sexes, and the internal sex organs are called the secondary sex organs.[2]
+_Chara_ are the male antheridia (red) and female archegonia (brown).]] A SEX ORGAN (or REPRODUCTIVE ORGAN) is any part of an animal's body that is involved in sexual reproduction. The reproductive organs together constitute the reproductive system. The testis in the male, and the ovary in the female, are called the _primary sex organs_.[1] The external sex organs – the GENITALS or GENITALIA, visible at birth in both sexes, and the internal sex organs are called the secondary sex organs.[2]
 
 Mosses, ferns, and some similar plants have gametangia for reproductive organs, which are part of the gametophyte.[3] The flowers of flowering plants produce pollen and egg cells, but the sex organs themselves are inside the gametophytes within the pollen and the ovule.[4] Coniferous plants likewise produce their sexually reproductive structures within the gametophytes contained within the cones and pollen. The cones and pollen are not themselves sexual organs.
 
@@ -36,14 +36,12 @@ In mammals, sex organs include:
 | -   Seminal vesicles      |     -   Hymen                                 |
 | -   Testicles             |     -   Clitoris                              |
 |                           |         -   Clitoral frenulum                 |
-| ShortForeskin.jpg)]]      |         -   Clitoral glans (glans clitoridis) |
+| )]]                       |         -   Clitoral glans (glans clitoridis) |
 |                           |         -   Clitoral hood                     |
 |                           |     -   Labia                                 |
 |                           |         -   Labia majora                      |
 |                           |         -   Labia minora                      |
 |                           |             -   Frenulum of labia minora      |
-|                           |                                               |
-|                           | Vulva_with_tiny_labia_minora.jpg              |
 +---------------------------+-----------------------------------------------+
 
 Development
@@ -65,7 +63,7 @@ In many other animals a single posterior orifice, called the cloaca, serves as t
 
 Insects
 
-Female_genitalia_Lepidoptera.jpg]] The organs concerned with insect mating and the deposition of eggs are known collectively as the external genitalia, although they may be largely internal; their components are very diverse in form.
+]] The organs concerned with insect mating and the deposition of eggs are known collectively as the external genitalia, although they may be largely internal; their components are very diverse in form.
 
 Slugs and snails
 

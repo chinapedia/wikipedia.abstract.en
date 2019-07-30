@@ -1,1 +1,0 @@
-Honoring_Ceremony.jpg

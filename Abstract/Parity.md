@@ -1,1 +1,0 @@
-PARITY may refer to:

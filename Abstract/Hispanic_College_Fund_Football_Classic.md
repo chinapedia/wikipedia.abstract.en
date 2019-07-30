@@ -1,1 +1,0 @@
-The HISPANIC COLLEGE FUND FOOTBALL CLASSIC was a college football kickoff game played from 2000–2002 at various sites. In three years, the game was contested by teams in six states and was played in three different locations.

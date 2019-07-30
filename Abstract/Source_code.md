@@ -1,1 +1,0 @@
-Hello_world_c.svg source code example, a procedural programming language. The resulting program prints "hello, world" on the computer screen. This first known "Hello world" snippet from the seminal book _The C Programming Language_ originates from Brian Kernighan in the Bell Laboratories in 1974.[1] ]]

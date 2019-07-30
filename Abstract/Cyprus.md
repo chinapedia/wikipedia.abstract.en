@@ -1,1 +1,0 @@
-CYPRUS (; ; ), officially the REPUBLIC OF CYPRUS (, ; , ), is an island country in the Eastern Mediterranean and the third largest[1] and third most populous[2] island in the Mediterranean, located south of Turkey, west of Syria and Lebanon, northwest of Israel and Palestine, north of Egypt, and southeast of Greece.

@@ -1,1 +1,0 @@
-EDWARD WILLIAM PARRY JR. (January 29, 1918 – February 23, 2016) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Eagles and Detroit Gems. In three total NBL seasons, he averaged 5.6 points per game.[3]

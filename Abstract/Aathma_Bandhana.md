@@ -1,1 +1,0 @@
-_AATHMA BANDHANA_ is a 1992 Indian Kannada horror drama film directed by Srikanth Nahata [1] and produced by M. Rajagopal. The film features Shashikumar, Jayapradha and Vaishnavi in the lead roles.[2]

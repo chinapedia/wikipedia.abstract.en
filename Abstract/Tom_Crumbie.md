@@ -1,1 +1,0 @@
-THOMAS HENRY CRUMBIE (1 February 1868 – 13 March 1928) was a player and administrator for Leicester Tigers in rugby union. He has been described as a visionary and ahead of his time, his reforms and developments in the 1920s still setting the club up for its success in the 1990s.[1]

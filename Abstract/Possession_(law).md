@@ -1,1 +1,0 @@
-In law, POSSESSION is the control a person's intentional exercises toward a thing. In all cases, to possess something, a person must have an intention to possess it. A person may be in possession of some property (although possession does not always imply ownership). Like ownership, the possession of anything is commonly regulated by country under property law.

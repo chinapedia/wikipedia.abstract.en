@@ -1,1 +1,0 @@
-KFFP-LP (90.3 FM, "Freeform Portland") is a low-power listener supported Independent radio station in Portland, Oregon.[1] It broadcasts live programming at 90.3 FM 24 hours a day, seven days a week. It first began broadcasting live in April 2016.[2]

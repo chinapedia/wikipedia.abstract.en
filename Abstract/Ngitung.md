@@ -1,1 +1,0 @@
-NGITUNG was the fifth regent of Poso Regency, Central Sulawesi, Indonesia; who ruled from 1960 to 1962. He was also have military background. He succeeded A. Wahab, who act as acting regent during vacancy.[1]

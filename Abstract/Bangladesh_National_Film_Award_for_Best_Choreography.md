@@ -1,1 +1,0 @@
-The BANGLADESH NATIONAL FILM AWARD FOR BEST CHOREOGRAPHY () is one of the highest film awards in Bangladesh. Since 1992, the awards have been given in the category of best choreography. The first award winner was AMIR HOSSAIN BABU. He and MASUM BABUL has won most awards in this category (2 each).

@@ -1,1 +1,0 @@
-In mathematics, especially in category theory and homotopy theory, a GROUPOID (less often BRANDT GROUPOID or VIRTUAL GROUP) generalises the notion of group in several equivalent ways. A groupoid can be seen as a:

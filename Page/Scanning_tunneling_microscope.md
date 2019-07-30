@@ -1,15 +1,13 @@
-Atomic_resolution_Au100.JPG (100) surface]] Silicium-atomes.png carbide (SiC). Image obtained using an STM.]] Chiraltube.png]]
+(100) surface]] carbide (SiC). Image obtained using an STM.]] ]]
 
 A SCANNING TUNNELING MICROSCOPE (STM) is an instrument for imaging surfaces at the atomic level. Its development in 1981 earned its inventors, Gerd Binnig and Heinrich Rohrer (at IBM Zürich), the Nobel Prize in Physics in 1986.[1][2] For an STM, good resolution is considered to be 0.1 nm lateral resolution and 0.01 nm (10 pm) depth resolution.[3] With this resolution, individual atoms within materials are routinely imaged and manipulated. The STM can be used not only in ultra-high vacuum but also in air, water, and various other liquid or gas ambients, and at temperatures ranging from near zero kelvin to over 1000 °C.[4][5]
 
 STM is based on the concept of quantum tunneling. When a conducting tip is brought very near to the surface to be examined, a bias (voltage difference) applied between the two can allow electrons to tunnel through the vacuum between them. The resulting _tunneling current_ is a function of tip position, applied voltage, and the local density of states (LDOS) of the sample.[6] Information is acquired by monitoring the current as the tip's position scans across the surface, and is usually displayed in image form. STM can be a challenging technique, as it requires extremely clean and stable surfaces, sharp tips, excellent vibration control, and sophisticated electronics, but nonetheless many hobbyists have built their own.[7]
 
-Scanning_Tunneling_Microscope.ogv
-
 
 Procedure
 
-Stmsample.jpg tip.]]
+tip.]]
 
 First, a voltage bias is applied and the tip is brought close to the sample by coarse sample-to-tip control, which is turned off when the tip and sample are sufficiently close. At close range, fine control of the tip in all three dimensions when near the sample is typically piezoelectric, maintaining tip-sample separation W typically in the 4-7 Å (0.4-0.7 nm) range, which is the equilibrium position between attractive (3<W<10Å) and repulsive (W<3Å) interactions.[8] In this situation, the voltage bias will cause electrons to tunnel between the tip and sample, creating a current that can be measured. Once tunneling is established, the tip's bias and position with respect to the sample can be varied (with the details of this variation depending on the experiment) and data are obtained from the resulting changes in current.
 
@@ -22,7 +20,7 @@ Framerates of at least 25 Hz enable so called video-rate STM.[16][17] Framerate
 
 Instrumentation
 
-ScanningTunnelingMicroscope_schematic.png The components of an STM include scanning tip, piezoelectric controlled height and x,y scanner, coarse sample-to-tip control, vibration isolation system, and computer.[20]
+The components of an STM include scanning tip, piezoelectric controlled height and x,y scanner, coarse sample-to-tip control, vibration isolation system, and computer.[20]
 
 The resolution of an image is limited by the radius of curvature of the scanning tip of the STM. Additionally, image artifacts can occur if the tip has two tips at the end rather than a single atom; this leads to “double-tip imaging,” a situation in which both tips contribute to the tunneling.[21] Therefore, it has been essential to develop processes for consistently obtaining sharp, usable tips. Recently, carbon nanotubes have been used in this instance.[22]
 
@@ -35,7 +33,7 @@ Maintaining the tip position with respect to the sample, scanning the sample and
 
 Other STM related studies
 
-Cens_nanomanipulation3d_Trixler.jpg organic semiconductor monolayer (here: PTCDA molecules) on graphite, in which the logo of the Center for NanoScience (CeNS), LMU has been written.]] Graphite_ambient_STM.jpg surface at an atomic level obtained by an STM.]] Many other microscopy techniques have been developed based upon STM. These include photon scanning microscopy (PSTM), which uses an optical tip to tunnel photons;[31] scanning tunneling potentiometry (STP), which measures electric potential across a surface;[32] spin polarized scanning tunneling microscopy (SPSTM), which uses a ferromagnetic tip to tunnel spin-polarized electrons into a magnetic sample,[33] multi-tip scanning tunneling microscopy which enables electrical measurements to be performed at the nanoscale, and atomic force microscopy (AFM), in which the force caused by interaction between the tip and sample is measured.
+organic semiconductor monolayer (here: PTCDA molecules) on graphite, in which the logo of the Center for NanoScience (CeNS), LMU has been written.]] surface at an atomic level obtained by an STM.]] Many other microscopy techniques have been developed based upon STM. These include photon scanning microscopy (PSTM), which uses an optical tip to tunnel photons;[31] scanning tunneling potentiometry (STP), which measures electric potential across a surface;[32] spin polarized scanning tunneling microscopy (SPSTM), which uses a ferromagnetic tip to tunnel spin-polarized electrons into a magnetic sample,[33] multi-tip scanning tunneling microscopy which enables electrical measurements to be performed at the nanoscale, and atomic force microscopy (AFM), in which the force caused by interaction between the tip and sample is measured.
 
 Other STM methods involve manipulating the tip in order to change the topography of the sample. This is attractive for several reasons. Firstly the STM has an atomically precise positioning system which allows very accurate atomic scale manipulation. Furthermore, after the surface is modified by the tip, it is a simple matter to then image with the same tip, without changing the instrument. IBM researchers developed a way to manipulate xenon atoms adsorbed on a nickel surface.[34] This technique has been used to create electron "corrals" with a small number of adsorbed atoms, which allows the STM to be used to observe electron Friedel oscillations on the surface of the material. Aside from modifying the actual sample surface, one can also use the STM to tunnel electrons into a layer of electron beam photoresist on a sample, in order to do lithography. This has the advantage of offering more control of the exposure than traditional electron beam lithography. Another practical application of STM is atomic deposition of metals (gold, silver, tungsten, etc.) with any desired (pre-programmed) pattern, which can be used as contacts to nanodevices or as nanodevices themselves.
 
@@ -46,7 +44,7 @@ Recently groups have found they can use the STM tip to rotate individual bonds w
 
 Principle of operation
 
-Scanning_Tunnelling_Microscope_made_by_W.A._Technology_of_Cambridge_in_1986_(9669013645).jpg Tunneling is a functioning concept that arises from quantum mechanics. Classically, an object hitting an impenetrable barrier will not pass through. In contrast, objects with a very small mass, such as the electron, have wavelike characteristics which permit such an event, referred to as tunneling.
+Tunneling is a functioning concept that arises from quantum mechanics. Classically, an object hitting an impenetrable barrier will not pass through. In contrast, objects with a very small mass, such as the electron, have wavelike characteristics which permit such an event, referred to as tunneling.
 
 Electrons behave as beams of energy, and in the presence of a potential _U_(_z_), assuming 1-dimensional case, the energy levels _ψ_(n)_(_z_) of the electrons are given by solutions to Schrödinger’s equation,
 
@@ -74,8 +72,6 @@ _P_ ∝ |_ψ__(_n_)(0)|²_e_^( − 2_κ__W_)
 .[41]
 
 If the bias is small, we can let _U_ − _E_ ≈ _φM_ in the expression for _κ_, where _φM_, the work function, gives the minimum energy needed to bring an electron from an occupied level, the highest of which is at the Fermi level (for metals at _T_=0 kelvins), to vacuum level. When a small bias _V_ is applied to the system, only electronic states very near the Fermi level, within _eV_ (a product of electron charge and voltage, not to be confused here with electronvolt unit), are excited.[42] These excited electrons can tunnel across the barrier. In other words, tunneling occurs mainly with electrons of energies near the Fermi level.
-
-STM_at_the_London_Centre_for_Nanotechnology.jpg
 
 However, tunneling does require that there be an empty level of the same energy as the electron for the electron to tunnel into on the other side of the barrier. It is because of this restriction that the tunneling current can be related to the density of available or filled states in the sample. The current due to an applied voltage _V_ (assume tunneling occurs sample to tip) depends on two factors: 1) the number of electrons between _E__(f) and _eV_ in the sample, and 2) the number among them which have corresponding free states to tunnel into on the other side of the barrier at the tip.[43] The higher the density of available states the greater the tunneling current. When _V_ is positive, electrons in the tip tunnel into empty states in the sample; for a negative bias, electrons tunnel out of occupied states in the sample into the tip.[44]
 

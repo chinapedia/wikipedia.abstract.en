@@ -1,1 +1,0 @@
-Stefan_Jakobielski,_polish_archaeologist,_nubiologist.jpg

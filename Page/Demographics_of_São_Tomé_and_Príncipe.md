@@ -17,8 +17,6 @@ In the 1970s, there were two significant population movements—the exodus of mo
 
 Population
 
-São_Tomé_and_Príncipe.png
-
 According to the total population was in , compared to only 60,000 in 1950. The proportion of children below the age of 15 in 2010 was 40.3%, 55.8% was between 15 and 65 years of age, while 3.9% was 65 years or older .[2]
 
          Total population   Population aged 0–14 (%)   Population aged 15–64 (%)   Population aged 65+ (%)
@@ -134,8 +132,6 @@ Population
     204,454 (July 2018 est.)
 
 Age structure
-
-Sao_Tome_and_Principepop.svg
 
     _0-14 years:_ 41.2% (male 42,825 /female 41,403)
     _15-24 years:_ 21.01% (male 21,767 /female 21,188)

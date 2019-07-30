@@ -1,1 +1,0 @@
-The EXPANSION OF THE NATIONAL BASKETBALL ASSOCIATION has happened several times in the league's history since it began play in 1946. Some of the most recent examples of the expansion of the NBA are the Charlotte Hornets in 1988, Miami Heat in 1989, Vancouver Grizzlies in 1995 (who later relocated to Memphis in 2001), and New Orleans Pelicans in 2002.[1]

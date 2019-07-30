@@ -1,1 +1,0 @@
-_WEDDING GROUP_ is a 1936 British drama film directed by Alex Bryce and Campbell Gullan and starring Fay Compton, Patric Knowles and Barbara Greene. It was made at Wembley Studios as a quota quickie.[1] The film was released in the US under the title _Wrath of Jealousy_.[2]

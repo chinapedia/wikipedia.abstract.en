@@ -1,1 +1,0 @@
-LEIF ERIK FORBERG (born September 29, 1950) is a Norwegian television presenter with a long career in both TV and radio. Forberg has served as a presenter for NRK, TVNorge, TV3, P4, and Kanal24. In the 1990s he was known as the presenter for the program _Casino_ on TVNorge and _Komplottet_ on TV3.[1]

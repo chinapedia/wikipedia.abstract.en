@@ -1,1 +1,0 @@
-CHAMELEON COLD-BREW is an American coffee company based in Austin, Texas. It is known for its cold brew coffee and is credited as the first fair trade and organic cold brew company in the United States. In 2014, Chameleon Cold-Brew was given the _Best Coffee_ award by BevNET.

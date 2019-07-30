@@ -1,1 +1,0 @@
-_THE SWARM_ is a 2016 science fiction novel by Orson Scott Card and Aaron Johnston, and the first book of the Second Formic Wars trilogy of novels in the Ender's Game series. It was released on August 2, 2016.[1]

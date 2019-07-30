@@ -1,1 +1,0 @@
-_COMMONWEALTH V. WELANSKY_, Supreme Court of Massachusetts, 55 N.E.2d 902 (1944), is a criminal case about the Cocoanut Grove fire that illustrates principles of negligent homicide and reckless homicide in the case where there is not an affirmative act, but a failure to act (omission) when there is a duty of care.[1]

@@ -1,1 +1,0 @@
-_MARRUBIUM VULGARE_ (WHITE HOREHOUND or COMMON HOREHOUND) is a flowering plant in the mint family (Lamiaceae), native to Europe, northern Africa, and southwestern and central Asia. It is also widely naturalized in many places, including most of North and South America.

@@ -1,1 +1,0 @@
-This day marks the approximate midpoint of winter in the Northern Hemisphere and of summer in the Southern Hemisphere (starting the season at the December solstice).

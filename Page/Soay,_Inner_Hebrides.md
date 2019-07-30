@@ -8,7 +8,7 @@ Soay lies to the west of Loch Scavaig on the south-west coast of Skye, from whic
 
 History
 
-Soaybaskingsharkfisheries.jpg]] The name derives from Old Norse _Sauða-ey_ meaning _Sheep Island_. Camas nan Gall (G: _Bay of Foreigners_) is probably named after the Norse invaders, after whom the Hebrides (_Na h-Innse Gall_) are also named.
+]] The name derives from Old Norse _Sauða-ey_ meaning _Sheep Island_. Camas nan Gall (G: _Bay of Foreigners_) is probably named after the Norse invaders, after whom the Hebrides (_Na h-Innse Gall_) are also named.
 
 The population peaked at 158 in 1851, following eviction of crofters from Skye in the Highland Clearances.[2]
 

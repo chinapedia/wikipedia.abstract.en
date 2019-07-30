@@ -1,1 +1,0 @@
-TED BARELA is an American Republican politician formerly serving in the New Mexico Senate.[1] He was appointed by Governor Susana Martinez in 2015 to replace Phil Griego, who resigned. Barela previously served as mayor of Estancia, New Mexico, from 2008 until 2013.[2]

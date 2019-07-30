@@ -1,1 +1,0 @@
-ANNE BARLOW is a curator and director in the field of international contemporary art, and is currently Artistic Director of Tate St Ives.[1][2] There she directs the artistic vision and programme for Tate St Ives, including temporary exhibitions, collection displays, artist residencies, new commissions, and a learning and research programme.

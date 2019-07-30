@@ -1,1 +1,0 @@
-Gametophyte2.png.]]

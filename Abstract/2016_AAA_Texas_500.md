@@ -1,1 +1,0 @@
-The 2016 AAA TEXAS 500 was a NASCAR Sprint Cup Series race held on November 6, 2016, at Texas Motor Speedway in Fort Worth, Texas. Contested over 334 laps on the 1.5 mile (2.4 km) intermediate quad-oval, it was the 34th race of the 2016 NASCAR Sprint Cup Series season, eighth race of the Chase and second race of the Round of 8.

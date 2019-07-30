@@ -1,1 +1,0 @@
-TIEN CHIU-CHIN (; born 27 May 1954) is a Taiwanese politician. She served in the Legislative Yuan from 2005 to 2016, and later that year became the Deputy Minister of the Overseas Community Affairs Council.

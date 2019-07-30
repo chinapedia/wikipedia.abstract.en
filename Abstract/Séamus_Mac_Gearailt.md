@@ -1,1 +1,0 @@
-SÉAMUS MAC GEARAILT (born 1945), sometimes referred to as SÉAMUS FITZGERALD, is an Irish retired Gaelic football trainer, coach, selector and former player. His league and championship career with the Kerry senior team spanned twelve seasons from 1963 to 1974.[1]

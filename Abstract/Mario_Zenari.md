@@ -1,1 +1,0 @@
-MARIO ZENARI (born 5 January 1946) is an Italian prelate of the Catholic Church who has been a cardinal since 2016. He has served his entire ecclesiastical career in the diplomatic service of the Holy See, holding senior positions beginning in 1999. He has been Apostolic Nuncio to Syria since 30 December 2008. He was nuncio to Sri Lanka from 2004 to 2008.

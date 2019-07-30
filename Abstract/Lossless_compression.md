@@ -1,1 +1,0 @@
-LOSSLESS COMPRESSION is a class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data. By contrast, lossy compression permits reconstruction only of an approximation of the original data, though usually with improved compression rates (and therefore reduced media sizes).

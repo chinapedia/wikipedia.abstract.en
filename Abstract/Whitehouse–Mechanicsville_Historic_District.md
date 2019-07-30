@@ -1,1 +1,0 @@
-The WHITEHOUSE–MECHANICSVILLE HISTORIC DISTRICT is a historic district located along old New Jersey Route 28, Mill, Lamington and School Roads in Whitehouse and Mechanicsville, unincorporated communities in Readington Township, Hunterdon County, New Jersey. The district was added to the National Register of Historic Places on March 17, 2015.[1][2]

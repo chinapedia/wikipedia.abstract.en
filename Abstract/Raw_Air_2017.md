@@ -1,1 +1,0 @@
-The RAW AIR 2017 was the first edition of Raw Air, a ten-day tournament for men in ski jumping and ski flying held in Norway between 10–19 March 2017. It was part of the 2016–17 FIS Ski Jumping World Cup season. Fatih Arda İpcioğlu represented his country in qualifications of Lillehammer as first Turkish ski jumper in history of the World Cup competitions.

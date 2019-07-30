@@ -1,4 +1,4 @@
-Leitner_system_alternative.svg, correctly answered cards are advanced to the next, less frequent box, while incorrectly answered cards return to the first box for more aggressive review and repetition.]]
+, correctly answered cards are advanced to the next, less frequent box, while incorrectly answered cards return to the first box for more aggressive review and repetition.]]
 
 SPACED REPETITION is an evidence-based learning technique performed with flashcards that incorporates increasing time intervals between each review of learned material in order to exploit the psychological spacing effect. Newly introduced and more difficult flashcards are shown more frequently while older and less difficult flashcards are shown less frequently. The use of spaced repetition has been shown to increase rate of learning.[1]
 
@@ -33,7 +33,7 @@ The intervals published in Pimsleur's paper were: 5 seconds, 25 seconds, 2 minut
 
 Software
 
-Anki_2.0.22_KDE4.en.story-ru-en.smallwindow.png Most spaced repetition software (SRS) programs are modeled after the manual style of learning with physical flashcards: items to memorize are entered into the program as question-answer pairs. When a pair is due to be reviewed, the question is displayed on screen, and the user must attempt to answer. After answering, the user manually reveals the answer and then tells the program (subjectively) how difficult answering was. The program schedules pairs based on spaced repetition algorithms. Without a computer program, the user has to schedule physical flashcards; this is time-intensive and limits users to simple algorithms like the Leitner system.[11]
+Most spaced repetition software (SRS) programs are modeled after the manual style of learning with physical flashcards: items to memorize are entered into the program as question-answer pairs. When a pair is due to be reviewed, the question is displayed on screen, and the user must attempt to answer. After answering, the user manually reveals the answer and then tells the program (subjectively) how difficult answering was. The program schedules pairs based on spaced repetition algorithms. Without a computer program, the user has to schedule physical flashcards; this is time-intensive and limits users to simple algorithms like the Leitner system.[11]
 
 Further refinements with regard to software:
 

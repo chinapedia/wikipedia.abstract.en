@@ -1,1 +1,0 @@
-ABATEMENT refers generally to a lessening, diminution, reduction, or moderation; specifically, it may refer to:

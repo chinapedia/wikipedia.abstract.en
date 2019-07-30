@@ -1,1 +1,0 @@
-CHINESE CHECKERS (US and Canadian spelling) or CHINESE CHEQUERS (UK spelling)[1] is a strategy board game of German origin (named "Sternhalma") which can be played by two, three, four, or six people, playing individually or with partners.[2] The game is a modern and simplified variation of the game Halma.[3]

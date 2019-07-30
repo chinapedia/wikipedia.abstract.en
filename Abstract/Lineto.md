@@ -1,1 +1,0 @@
-LINETO is a Swiss type foundry founded by Cornel Windlin and Stephan Müller in 1993.[1] In 1998, Lineto launched a website to distribute their fonts digitally. In 2007, Jürg Lehni joined the venture.[2][3]

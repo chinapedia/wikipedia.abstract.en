@@ -1,1 +1,0 @@
-Jokowi_berpidato_Aksi_2_Desember.jpg Joko Widodo addressing protesters at the December 2016 rally.]] The 2016–17 JAKARTA PROTESTS, branded AKSI BELA ISLAM (_Action for Defending Islam_) by the protesters, are series of Islamist protests against Governor of Jakarta Basuki Tjahaja Purnama, who was accused of committing blasphemy of the Quran.

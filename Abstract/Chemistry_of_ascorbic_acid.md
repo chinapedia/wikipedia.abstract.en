@@ -1,1 +1,0 @@
-ASCORBIC ACID is an organic compound with formula , originally called HEXURONIC ACID. It is a white solid, but impure samples can appear yellowish. It dissolves well in water to give mildly acidic solutions. It is a mild reducing agent.

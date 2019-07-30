@@ -1,1 +1,0 @@
-ELIZABETH LAHILAHI NAPUAIKAUMAKANI ROGERS WEBB (April 12, 1862 – January 2, 1949) was the last lady-in-waiting and companion of Queen Liliuokalani from 1914 to 1917 during the final years of her life. She also worked as a guide for the Bernice Pauahi Bishop Museum.

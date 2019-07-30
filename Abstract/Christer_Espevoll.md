@@ -1,1 +1,0 @@
-CHRISTER ESPEVOLL (born October 18, 1977) is a Norwegian guitarist that has been active since 1993.[1] He has performed with notable acts such as Extol and Benea Reach. Christer's brother is Peter Espevoll.[2]

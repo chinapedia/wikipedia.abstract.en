@@ -1,1 +1,0 @@
-KI HUI-HYEON (born June 16, 1995), better known by the mononym HUIHYUN and former stage name CATHY, is a South Korean singer and rapper. She is best known as a member of the South Korean girl group DIA.

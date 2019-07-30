@@ -1,1 +1,0 @@
-JOSEPHINE CHU (; born 16 December 1950) is a Taiwanese former politician. She served in the Legislative Yuan from 1996 to 2002. Chu and Hsu Hsin-liang formed an independent ticket in the 2000 presidential election, finishing third.

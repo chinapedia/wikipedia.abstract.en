@@ -1,1 +1,0 @@
-Charcoal_Kilns,_California.JPG kilns, California]] Indian_brick_kiln.jpg Hop_kiln.png kiln]] Farnham_Pottery,_Wrecclesham_-_bottle_kiln.jpg, Wrecclesham, Surrey with the preserved bottle kiln on the right of photo]] CatenaryKilnConstruction06025.JPG kiln under construction]] CarKiln5951.JPG

@@ -1,1 +1,0 @@
-_ALL FOR BELIEVING_ is the second extended play (EP) by Australian indie pop singer songwriter, Missy Higgins. It was released exclusively in the USA in January 2005 as an introduction. Her debut studio album, _The Sound of White_ was released in the US on 7 June 2005.[1]

@@ -1,1 +1,0 @@
-_TVOJE LICE ZVUČI POZNATO_ is the Croatian version of _Your Face Sounds Familiar_. The third season started on September 25, 2016.[1] There are four judges in season three, Goran Navojec (actor), Sandra Bagarić (opera singer), Tomo in der Mühlen (music producer & DJ) and different guest judges in every episode.

@@ -1,1 +1,0 @@
-In phonology, MINIMAL PAIRS are pairs of words or phrases in a particular language, spoken or signed, that differ in only one phonological element, such as a phoneme, toneme or chroneme,[1] and have distinct meanings. They are used to demonstrate that two phones are two separate phonemes in the language.

@@ -1,1 +1,0 @@
-This is a partial list of viral music videos, that gained rapid attention on the Internet. Like Internet memes, viewership of such videos tend to grow rapidly and become more widespread because the instant communication facilitates word of mouth.

@@ -1,1 +1,0 @@
-IROSH SOHAN SITHIJA SAMARASOORIYA (born 3 March 1991) is a Sri Lankan cricketer.[1] He made his first-class debut for Moors Sports Club in the 2010–11 Premier Trophy on 18 February 2011.[2] In 2017, he played for North West Warriors in the 2017 Inter-Provincial Cup.[3]

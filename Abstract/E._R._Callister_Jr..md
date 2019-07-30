@@ -1,1 +1,0 @@
-EDWARD RICHARD CALLISTER JR. (September 30, 1916 – October 28, 1980)[1] was an American lawyer and politician who served as the Attorney General of Utah from 1953 to 1959,[2] and was an Associate Justice of the Supreme Court of Utah from 1959 to 1975, serving as Chief Justice of the Supreme Court of Utah from 1971 to 1975.

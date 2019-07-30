@@ -1,1 +1,0 @@
-BILLY JOE OWENS JR. (born December 2, 1965) is a former American football safety in the National Football League (NFL) for the Dallas Cowboys. He also played in the Arena Football League for the Orlando Predators, Charlotte Rage, Connecticut Coyotes and Portland Forest Dragons. He played college football at the University of Pittsburgh.

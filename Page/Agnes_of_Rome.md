@@ -13,7 +13,7 @@ According to tradition, Agnes was a member of the Roman nobility, born in AD 291
 
 A beautiful young girl from a wealthy family, Agnes had many suitors of high rank, and the young men, slighted by her resolute devotion to religious purity, submitted her name to the authorities as a follower of Christianity.[5]
 
-The Prefect Sempronius condemned Agnes to be dragged naked through the streets to a brothel. In one account, as she prayed, her hair grew and covered her body.[6] It was also said that all of the men that attempted to rape her were immediately struck blind. The son of the prefect was struck dead but revived after she prayed for him, causing her release. There commenced a trial from which Sempronius recused himself, allowing another figure to preside and sentence St. Agnes to death. She was led out and bound to a stake, but the bundle of wood would not burn, or the flames parted away from her, whereupon the officer in charge of the troops drew his sword and beheaded her, or, in some other texts, stabbed her in the throat. It is also said that her blood poured to the stadium floor where other Christians soaked it up with cloths. Agnes_&_Procopius.jpg in the British Museum.]]
+The Prefect Sempronius condemned Agnes to be dragged naked through the streets to a brothel. In one account, as she prayed, her hair grew and covered her body.[6] It was also said that all of the men that attempted to rape her were immediately struck blind. The son of the prefect was struck dead but revived after she prayed for him, causing her release. There commenced a trial from which Sempronius recused himself, allowing another figure to preside and sentence St. Agnes to death. She was led out and bound to a stake, but the bundle of wood would not burn, or the flames parted away from her, whereupon the officer in charge of the troops drew his sword and beheaded her, or, in some other texts, stabbed her in the throat. It is also said that her blood poured to the stadium floor where other Christians soaked it up with cloths. in the British Museum.]]
 
 Agnes was buried beside the Via Nomentana in Rome.[7] A few days after her death, her foster-sister, Emerentiana, was found praying by her tomb; she claimed to be the daughter of Agnes' wet nurse, and was stoned to death after refusing to leave the place and reprimanding the pagans for killing her foster-sister. Emerentiana was also later canonised. The daughter of Constantine I, Saint Constance, was said to have been cured of leprosy after praying at Agnes' tomb. She and Emerentiana appear in the scenes from the life of Agnes on the 14th-century Royal Gold Cup in the British Museum.
 
@@ -38,7 +38,7 @@ Because of the legend around her martyrdom, she is patron saint of those seeking
 
 Agnes is also the patron saint of young girls. Folk custom called for them to practise rituals on Saint Agnes' Eve (20–21 January) with a view to discovering their future husbands. This superstition has been immortalised in John Keats's poem, "The Eve of Saint Agnes".[13]
 
-Fr_Guarino_Santa_Inés_1650.jpg, 1650.]]
+, 1650.]]
 
 Iconography
 
@@ -46,7 +46,7 @@ Since the Middle Ages, Agnes has traditionally been depicted as a young girl in 
 
 Churches
 
-Skull_Saint_Agnes.JPG church in Rome]]
+church in Rome]]
 
 -   Basilica of St James and St Agnes, Nysa, Poland
 -   St Agnes Cathedral, Rockville Centre, New York

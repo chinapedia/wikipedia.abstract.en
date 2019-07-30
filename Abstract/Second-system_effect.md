@@ -1,1 +1,0 @@
-__NOTOC__ The SECOND-SYSTEM EFFECT (also known as SECOND-SYSTEM SYNDROME) is the tendency of small, elegant, and successful systems, to be succeeded by over-engineered, bloated systems, due to inflated expectations and overconfidence.[1]

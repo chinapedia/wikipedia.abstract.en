@@ -1,1 +1,0 @@
-GUSTAV RADBRUCH (21 November 1878 – 23 November 1949) was a German legal scholar and politician. He served as Minister of Justice of Germany during the early Weimar period. Radbruch is also regarded as one of the most influential legal philosophers of the 20th century.

@@ -1,1 +1,0 @@
-The 2016–17 NBB SEASON was the 9th season of the Novo Basquete Brasil, the Brazilian basketball league.[1] Once again this tournament was organized entirely by the Liga Nacional de Basquete (LNB). The NBB also qualified teams for international tournaments such as Liga Sudamericana and FIBA Americas League.

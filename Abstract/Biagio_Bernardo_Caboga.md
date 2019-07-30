@@ -1,1 +1,0 @@
-Biagiocaboga.jpg

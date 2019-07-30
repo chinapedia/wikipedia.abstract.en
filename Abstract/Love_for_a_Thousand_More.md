@@ -1,1 +1,0 @@
-_LOVE FOR A THOUSAND MORE_ () is a South Korea web series starring Kang Seung-yoon and Hwang Seung-eon. The drama is aired every Monday, Wednesday and Friday at 11:00 (KST) starting from December 5, 2016 till December 23, 2016 on Naver TV Cast (South Korea), YG Entertainment's YouTube Channel (International) and Miaopai (China).[1][2][3][4]

@@ -1,1 +1,0 @@
-The 2016 INTERSTATE 10 TOUR BUS CRASH was a vehicle accident that occurred on Interstate 10 (I-10) in California on October 23, 2016, when a tour bus collided with the back of a semi-trailer truck. The accident killed 13 and injured 31 others.

@@ -1,1 +1,0 @@
-_FIGHTER OF THE DESTINY_ (Chinese: 择天记) is a 2017 Chinese television series adapted from the novel[1] of the same name by Mao Ni. It stars Lu Han, Guli Nazha, Janice Wu and Zeng Shunxi. The series aired on Hunan TV from 17 April to 1 June 2017.[2]

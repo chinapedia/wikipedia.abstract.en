@@ -1,1 +1,0 @@
-The 32ND CURTIS CUP MATCH was played on August 3 and 4, 2002 at Fox Chapel Golf Club near Pittsburgh, Pennsylvania. The United States won 11 to 7.[1] Carol Semple Thompson made her 12th and final appearance, having first played in 1974.

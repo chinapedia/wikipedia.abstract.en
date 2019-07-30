@@ -1,1 +1,0 @@
-WANG TZU-WEI (Chinese: 王子維; born 27 February 1995) is a Taiwanese badminton player.[1] He won his first international title at the 2014 New Zealand Open tournament.[2] In 2016, he also won the Grand Prix title at the Dutch Open.[3]

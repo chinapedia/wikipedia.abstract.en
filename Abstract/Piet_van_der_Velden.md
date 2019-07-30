@@ -1,1 +1,0 @@
-PIETER "PIET" VAN DER VELDEN (5 September 1899 - 2 April 1975) was a Dutch male water polo player. He was a member of the Netherlands men's national water polo team. He was a part of the team at the 1920 Summer Olympics.[1]

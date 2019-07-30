@@ -1,1 +1,0 @@
-_DISENCHANTED_ is an upcoming American romantic fantasy film produced by Walt Disney Pictures, and written by J. David Stem and David N. Weiss. It is a sequel to the 2007 film _Enchanted_ and will feature Amy Adams reprising her role from that film.

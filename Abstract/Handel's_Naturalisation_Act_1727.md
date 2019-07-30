@@ -1,1 +1,0 @@
-AN ACT FOR NATURALIZING LOUIS SEKEYHAYE, GEORGE FREDERICK HANDEL, AND OTHERS (13 Geo. I),[1] later given the short title of HANDEL'S NATURALISATION ACT 1727,[2] was a 1727 Act of the Parliament of Great Britain with the intent of naturalising and granting British citizenship to German-born composer George Frideric Handel and other foreign citizens.

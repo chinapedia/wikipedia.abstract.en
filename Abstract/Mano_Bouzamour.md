@@ -1,1 +1,0 @@
-Feest_der_Letteren-_2015-1-4.jpg MANO BOUZAMOUR (born 1991 in Amsterdam) is a Dutch novelist and columnist. He scored a stunning success with his first novel, _De belofte van Pisa_ (The Promise of Pisa), in which he described his childhood and youth as the son of immigrants in the Netherlands.

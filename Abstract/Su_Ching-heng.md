@@ -1,1 +1,0 @@
-SU CHING-HENG (; born 10 November 1992) is a Taiwanese badminton player.[1] Teamed-up with Liao Min-chun in the men's doubles, they won the International Challenge title at the 2016 Welsh International tournament.[2] In 2017, they also won Orleans, and Finnish Open tournament.[3][4]

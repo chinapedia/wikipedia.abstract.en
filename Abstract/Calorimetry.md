@@ -1,1 +1,0 @@
-upright=1.2 and Pierre-Simon Laplace, to determine the heat involved in various chemical changes; calculations which were based on Joseph Black’s prior discovery of latent heat. These experiments mark the foundation of thermochemistry.]] Snellen_human_calorimeter,_uOttawa.jpg Indirect_calorimetry_laboratory_with_canopy_hood.jpg

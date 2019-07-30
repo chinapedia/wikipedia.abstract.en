@@ -1,1 +1,0 @@
-The 2016–17 FIRST WOMEN'S BASKETBALL LEAGUE OF SERBIA is the 11th season of the First Women's Basketball League of Serbia, the highest professional basketball league in Serbia. It is also 73rd national championship played by Serbian clubs inclusive of nation's previous incarnations as Yugoslavia and Serbia and Montenegro.

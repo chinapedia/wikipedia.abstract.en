@@ -1,1 +1,0 @@
-ARNULF OF CARINTHIA ( 850 – December 8, 899) was the duke of Carinthia who overthrew his uncle, Emperor Charles the Fat, became the Carolingian king of East Francia[1] from 887, the disputed King of Italy from 894 and the disputed Holy Roman Emperor from February 22, 896 until his death at Regensburg, Bavaria.

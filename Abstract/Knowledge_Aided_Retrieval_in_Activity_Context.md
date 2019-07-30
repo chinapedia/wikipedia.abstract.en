@@ -1,1 +1,0 @@
-KNOWLEDGE AIDED RETRIEVAL IN ACTIVITY CONTEXT (KARNAC) is a system being developed in the United States for use in profiling different categories of terrorist attacks to determine the components of possible future terrorist incidents.

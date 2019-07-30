@@ -1,1 +1,0 @@
-The 2017 SOMALIA PRESIDENTIAL ELECTION was held in Somalia on 8 February. Members of parliament elected in the autumn-2016 parliamentary election elected former Prime Minister Mohamed Abdullahi Mohamed to the post of President of Somalia for a four-year term.

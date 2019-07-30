@@ -1,1 +1,0 @@
-ANSE-ROUGE AIRPORT is an airstrip northwest of Anse-Rouge, a coastal town in the department of Artibonite, Haiti. Google Earth Historical Imagery shows the airstrip was constructed sometime between June 2000 and September 2003.

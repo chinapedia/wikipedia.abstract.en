@@ -1,1 +1,0 @@
-UEBERT ANGEL (formerly known as UEBERT MUDZANIRE,[1] or UEBERT ANGEL MUDZANIRE,[2] born 6 September 1978) is the founder of Spirit Embassy, a Pentecostal ministry in United Kingdom. [3] [4][5] The church was founded in 2007 as "Spirit Embassy" and in October 2015 it rebranded its name to "Good News Church", retaining "Spirit Embassy" as a term for Angel's overall ministry.[6][7]

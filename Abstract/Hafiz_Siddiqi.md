@@ -1,1 +1,0 @@
-HAFIZ G. A. SIDDIQI (1931 – 22 May 2018)[1][2] was a Bangladeshi academic. He served as the vice-chancellor of North South University and the director of Institute of Business Administration, University of Dhaka.

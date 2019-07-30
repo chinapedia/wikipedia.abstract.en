@@ -1,1 +1,0 @@
-JEONJU STATION(, ) is a railway station of Jeolla Line, located in Deokjin-gu, Jeonju, South Korea. KTX, ITX-Saemaeul, Mugunghwa-ho, S-Train stops at this station. Jeonju Station's feature is station built as Hanok style.

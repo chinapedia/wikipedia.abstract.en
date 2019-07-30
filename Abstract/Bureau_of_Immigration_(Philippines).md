@@ -1,1 +1,0 @@
-The BUREAU OF IMMIGRATION (), also known between 1972 and 1987 as the BUREAU OF IMMIGRATION AND DEPORTATION, is the immigration regulatory and control body of the Philippines. It was established by the Philippine Immigration Act in 1940, although a predecessor agency had existed as part of the Bureau of Customs since 1899.

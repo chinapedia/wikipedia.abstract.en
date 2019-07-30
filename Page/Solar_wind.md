@@ -1,4 +1,4 @@
-Solar_wind_Speed_interplanetary_magnetic_field.jpg' observations of solar wind speed as a function of helio latitude during solar minimum. Slow wind (≈400 km/s) is confined to the equatorial regions, while fast wind (≈750 km/s) is seen over the poles.[1] Red/blue colors show inward/outward polarities of the heliospheric magnetic field.]] The SOLAR WIND is a stream of charged particles released from the upper atmosphere of the Sun, called the corona. This plasma mostly consists of electrons, protons and alpha particles with kinetic energy between 0.5 and 10 keV. Embedded within the solar-wind plasma is the interplanetary magnetic field.[2] The solar wind varies in density, temperature and speed over time and over solar latitude and longitude. Its particles can escape the Sun's gravity because of their high energy resulting from the high temperature of the corona, which in turn is a result of the coronal magnetic field.
+' observations of solar wind speed as a function of helio latitude during solar minimum. Slow wind (≈400 km/s) is confined to the equatorial regions, while fast wind (≈750 km/s) is seen over the poles.[1] Red/blue colors show inward/outward polarities of the heliospheric magnetic field.]] The SOLAR WIND is a stream of charged particles released from the upper atmosphere of the Sun, called the corona. This plasma mostly consists of electrons, protons and alpha particles with kinetic energy between 0.5 and 10 keV. Embedded within the solar-wind plasma is the interplanetary magnetic field.[2] The solar wind varies in density, temperature and speed over time and over solar latitude and longitude. Its particles can escape the Sun's gravity because of their high energy resulting from the high temperature of the corona, which in turn is a result of the coronal magnetic field.
 
 At a distance of more than a few solar radii from the Sun, the solar wind is supersonic and reaches speeds of 250 to 750 kilometers per second.[3] The flow of the solar wind is no longer supersonic at the termination shock. The _Voyager 2_ spacecraft crossed the shock more than five times between 30 August and 10 December 2007.[4] _Voyager 2_ crossed the shock about a billion kilometers closer to the Sun than the 13.5-billion-kilometer distance where _Voyager 1_ came upon the termination shock.[5][6] The spacecraft moved outward through the termination shock into the heliosheath and onward toward the interstellar medium. Other related phenomena include the aurora (northern and southern lights), the plasma tails of comets that always point away from the Sun, and geomagnetic storms that can change the direction of magnetic field lines.
 
@@ -7,7 +7,7 @@ History
 
 The existence of particles flowing outward from the Sun to the Earth was first suggested by British astronomer Richard C. Carrington. In 1859, Carrington and Richard Hodgson independently made the first observation of what would later be called a solar flare. This is a sudden, localised increase in brightness on the solar disc, which is now known[7] to often occur in conjunction with an episodic ejection of material and magnetic flux from the Sun's atmosphere, known as a coronal mass ejection. On the following day, a geomagnetic storm was observed, and Carrington suspected that there might be a connection, which is now attributed to the arrival of the coronal mass ejection in near-Earth space and its subsequent interaction with the Earth's magnetosphere. George FitzGerald later suggested that matter was being regularly accelerated away from the Sun and was reaching the Earth after several days.[8]
 
-Birkeland-anode-globe-fig259.jpgs were created in a terrella, a magnetised anode globe in an evacuated chamber.]]
+s were created in a terrella, a magnetised anode globe in an evacuated chamber.]]
 
 In 1910 British astrophysicist Arthur Eddington essentially suggested the existence of the solar wind, without naming it, in a footnote to an article on Comet Morehouse.[9] The idea never fully caught on even though Eddington had also made a similar suggestion at a Royal Institution address the previous year. In the latter case, he postulated that the ejected material consisted of electrons while in his study of Comet Morehouse he supposed them to be ions.[10]
 
@@ -72,17 +72,15 @@ CMEs are not the only cause of space weather. Different patches on the Sun are k
 
 Solar System effects
 
-Heliospheric-current-sheet.gif results from the influence of the Sun's rotating magnetic field on the plasma in the solar wind]]
+results from the influence of the Sun's rotating magnetic field on the plasma in the solar wind]]
 
 Over the Sun's lifetime, the interaction of its surface layers with the escaping solar wind has significantly decreased its surface rotation rate.[45] The wind is considered responsible for comets' tails, along with the Sun's radiation.[46] The solar wind contributes to fluctuations in celestial radio waves observed on the Earth, through an effect called interplanetary scintillation.[47]
 
 Magnetospheres
 
-Structure_of_the_magnetosphere-en.svg. The solar wind flows from left to right.]]
+. The solar wind flows from left to right.]]
 
 Where the solar wind intersects with a planet that has a well-developed magnetic field (such as Earth, Jupiter or Saturn), the particles are deflected by the Lorentz force. This region, known as the magnetosphere, causes the particles to travel around the planet rather than bombarding the atmosphere or surface. The magnetosphere is roughly shaped like a hemisphere on the side facing the Sun, then is drawn out in a long wake on the opposite side. The boundary of this region is called the magnetopause, and some of the particles are able to penetrate the magnetosphere through this region by partial reconnection of the magnetic field lines.[48]
-
-Solar_Wind_and_Earth's_magnetic_field.png
 
 The solar wind is responsible for the overall shape of Earth's magnetosphere. Fluctuations in its speed, density, direction, and entrained magnetic field strongly affect Earth's local space environment. For example, the levels of ionizing radiation and radio interference can vary by factors of hundreds to thousands; and the shape and location of the magnetopause and bow shock wave upstream of it can change by several Earth radii, exposing geosynchronous satellites to the direct solar wind. These phenomena are collectively called space weather.
 
@@ -102,7 +100,7 @@ Although Mars is larger than Mercury and four times farther from the Sun, it is 
 
 Moons and planetary surfaces
 
-Aldrin_Next_to_Solar_Wind_Experiment_-_GPN-2000-001211.jpg experiment]]
+experiment]]
 
 Mercury, the nearest planet to the Sun, bears the full brunt of the solar wind, and since its atmosphere is vestigial and transient, its surface is bathed in radiation.
 

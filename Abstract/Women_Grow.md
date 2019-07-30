@@ -1,1 +1,0 @@
-WOMEN GROW is an organization founded in 2014 in Denver, Colorado focused on female leadership in the cannabis industry.[1] The organization's primary goal is to turn legal cannabis into the first female-led, billion dollar industry.[2]

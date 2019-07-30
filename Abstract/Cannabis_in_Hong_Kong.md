@@ -1,1 +1,0 @@
-CANNABIS IN HONG KONG is illegal. The possession, sale, transportation, and cultivation of cannabis is prohibited under the Dangerous Drug Ordinance[1] (Chapter 134 of the Law of Hong Kong), which was put into effect in 1969.[2]

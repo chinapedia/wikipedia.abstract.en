@@ -1,1 +1,0 @@
-SEBASTIÁN OBANDO GIRALDO known professionally as SEBASTIÁN YATRA (born October 15, 1994) is a Colombian singer and songwriter. He rose to prominence in Latin America in 2016 when he released the hit "Traicionera".[1]

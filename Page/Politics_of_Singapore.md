@@ -61,7 +61,7 @@ Similar to the Speech from the Throne given by the heads of state in other parli
 
 Cabinet
 
-Lee_Hsien_Loong_2004-11-21.jpg, Prime Minister of Singapore]] The cabinet forms the executive of the government and it is answerable to parliament. It consist of sitting members of parliament and is headed by a prime minister, the head of government. The current prime minister is Lee Hsien Loong.
+, Prime Minister of Singapore]] The cabinet forms the executive of the government and it is answerable to parliament. It consist of sitting members of parliament and is headed by a prime minister, the head of government. The current prime minister is Lee Hsien Loong.
 
 Neither the prime minister nor members of the cabinet are elected by parliament. The prime minister is appointed by the president, then Cabinet members, also known as ministers, are appointed by the president on the advice of the prime minister.[35]
 
@@ -74,7 +74,7 @@ Legislative
 
 Parliament
 
-Parliament_House_Singapore.jpg]]
+]]
 
 The unicameral Singaporean parliament is the legislature in Singapore with the president as its head.[37] Before independence in 1965, it was known as the Legislative Assembly. It currently consists of 87 members of parliament. The maximum term of any one parliament is five years, after which a general election must be held within three months of the dissolution of parliament.
 

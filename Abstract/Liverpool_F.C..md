@@ -1,1 +1,0 @@
-LIVERPOOL FOOTBALL CLUB is a professional football club in Liverpool, England, that competes in the Premier League, the top tier of English football. The club has won 6 European Cups, more than any other English club, 3 UEFA Cups, 3 UEFA Super Cups, 18 League titles, 7 FA Cups, a record 8 League Cups, 15 FA Community Shields and 1 Football League Super Cup.

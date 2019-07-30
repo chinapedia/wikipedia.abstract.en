@@ -1,1 +1,0 @@
-LAURENCE DE GRANDHOMME (22 November 1956 – 13 December 2017) was a Zimbabwean cricketer.[1][2] He played sixteen first-class and eight List A matches for Zimbabwe between 1979 and 1989.[3] His son Colin plays international cricket for New Zealand.[4]

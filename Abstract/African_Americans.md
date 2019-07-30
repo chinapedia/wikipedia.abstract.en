@@ -1,1 +1,0 @@
-AFRICAN AMERICANS (also referred to as BLACK AMERICANS or AFRO-AMERICANS)[1] are an ethnic group of Americans with total or partial ancestry from any of the black racial groups of Africa.[2][3] The term typically refers to descendants of enslaved black people who are from the United States.[4][5][6]

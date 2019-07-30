@@ -1,1 +1,0 @@
-In the run up to the 2016 parliamentary elections in the Serbia, various organisations carried out opinion polling to gauge voting intention in Serbia. Results of such polls are displayed in this article.

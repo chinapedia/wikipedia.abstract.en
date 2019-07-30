@@ -1,1 +1,0 @@
-_PALS FIRST_ is a lost[1][2] 1926 American silent drama film produced and directed by Edwin Carewe. It stars Dolores del Río and Lloyd Hughes. Edwin Carewe directed the earlier 1918 version also called _Pals First_.[3]

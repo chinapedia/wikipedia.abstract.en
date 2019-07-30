@@ -1,1 +1,0 @@
-_AN HOUR BEFORE DAWN_ is a lost[1] 1913 silent film detective drama directed by J. Searle Dawley and starring Laura Sawyer and House Peters. It was the fifth of six "Kate Kirby's Cases" detective stories made in 1913, the second produced by the Famous Players Film Company after Dawley and Sawyer left Edison for Famous Players.[2]

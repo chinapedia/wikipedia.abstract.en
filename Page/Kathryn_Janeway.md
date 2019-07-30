@@ -3,7 +3,7 @@ KATHRYN JANEWAY is a fictional character in the _Star Trek_ franchise. As the ca
 
 Casting
 
-janeway_original.jpg as Nicole Janeway]] The character was originally named Elizabeth Janeway, after the noted writer of the same name. However, after Geneviève Bujold was cast, she requested the character to be renamed "Nicole Janeway". Bujold, whose experience was mainly in feature films, was unprepared for the schedule demanded by the television series, was unwilling to do news interviews, and dropped out on the second day of filming for the pilot episode "Caretaker".[1] Kate Mulgrew, who had previously auditioned for the role, was brought in. She suggested that the name to be changed to "Kathryn", to which the producers agreed.[2] Actresses Erin Gray and Chelsea Field also auditioned for the role.[3] Field's husband Scott Bakula would later play Captain Jonathan Archer in _Star Trek: Enterprise_.
+as Nicole Janeway]] The character was originally named Elizabeth Janeway, after the noted writer of the same name. However, after Geneviève Bujold was cast, she requested the character to be renamed "Nicole Janeway". Bujold, whose experience was mainly in feature films, was unprepared for the schedule demanded by the television series, was unwilling to do news interviews, and dropped out on the second day of filming for the pilot episode "Caretaker".[1] Kate Mulgrew, who had previously auditioned for the role, was brought in. She suggested that the name to be changed to "Kathryn", to which the producers agreed.[2] Actresses Erin Gray and Chelsea Field also auditioned for the role.[3] Field's husband Scott Bakula would later play Captain Jonathan Archer in _Star Trek: Enterprise_.
 
 
 Fictional character biography

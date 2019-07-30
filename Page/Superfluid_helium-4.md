@@ -7,8 +7,6 @@ In the 1950s, Hall and Vinen performed experiments establishing the existence of
 
 Properties
 
-Phase_diagram_of_4He_01.svg Heat_capacity_of_4He_01.jpg Normal_and_superfluid_density_01.jpg
-
 Figure 1 is the phase diagram of ⁴He.[9] It is a pressure-temperature (p-T) diagram indicating the solid and liquid regions separated by the melting curve (between the liquid and solid state) and the liquid and gas region, separated by the vapor-pressure line. This latter ends in the critical point where the difference between gas and liquid disappears. The diagram shows the remarkable property that ⁴He is liquid even at absolute zero. ⁴He is only solid at pressures above 25 bar.
 
 Figure 1 also shows the λ-line. This is the line that separates two fluid regions in the phase diagram indicated by He-I and He-II. In the He-I region the helium behaves like a normal fluid; in the He-II region the helium is superfluid.
@@ -19,9 +17,7 @@ Below the lambda line the liquid can be described by the so-called two-fluid mod
 
 It is possible to create density waves of the normal component (and hence of the superfluid component since ρ_(n) + ρ_(s) = constant) which are similar to ordinary sound waves. This effect is called second sound. Due to the temperature dependence of ρ_(n) (figure 3) these waves in ρ_(n) are also temperature waves.
 
-helium-II-creep.svg also covers the interior of the larger container; if it were not sealed, the helium II would creep out and escape.]]
-
-Liquid_helium_Rollin_film.jpg
+also covers the interior of the larger container; if it were not sealed, the helium II would creep out and escape.]]
 
 
 Film flow
@@ -43,8 +39,6 @@ In this expression μ is the molar chemical potential, _g_ the gravitational acc
 
 In classical mechanics the force is often the gradient of a potential energy. Eq.  shows that, in the case of the superfluid component, the force contains a term due to the gradient of the chemical potential. This is the origin of the remarkable properties of He-II such as the fountain effect.
 
-Integration_path_in_pT_diagram_01.jpg Demo_fountain_pressure_01.jpg Helium_fountain_01.jpg
-
 
 Fountain pressure
 
@@ -59,7 +53,7 @@ So far Eq. has only mathematical meaning, but in special experimental arrangemen
 0 = _p__(_r_) − _p__(_f__r_).
 This means that the pressure in the right vessel is equal to the fountain pressure at _T__(r).
 
-In an experiment, arranged as in figure 8, a fountain can be created. The fountain effect is used to drive the circulation of ³He in dilution refrigerators.[19][20] Counterflow_heat_exchange_01.jpg
+In an experiment, arranged as in figure 8, a fountain can be created. The fountain effect is used to drive the circulation of ³He in dilution refrigerators.[19][20]
 
 
 Heat transport

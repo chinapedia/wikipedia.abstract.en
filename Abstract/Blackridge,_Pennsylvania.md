@@ -1,1 +1,0 @@
-BLACKRIDGE is a community in eastern Allegheny County and is a suburb of Pittsburgh, Pennsylvania. This community consists of about 650 private homes built in 1920-1949, Blackridge Estates was and remains one of the area's largest residential communities.

@@ -1,1 +1,0 @@
-GORAN BREGOVIĆ (born 22 March 1950) is a Yugoslav recording artist. He is one of the most internationally known modern musicians and composers of the Balkans, and is one of the few former Yugoslav musicians who has performed at major international venues such as Carnegie Hall, Royal Albert Hall and L'Olympia.

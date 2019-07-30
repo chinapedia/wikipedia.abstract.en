@@ -26,7 +26,7 @@ In a letter to the editor, Ira Glaser, former head of the ACLU, claimed that non
 
 Domestic response
 
-Bush_phone_9-11.jpg and Mayor Rudolph Giuliani in a televised telephone conversation.]]
+and Mayor Rudolph Giuliani in a televised telephone conversation.]]
 
 Immediately after opening the hunt on Osama bin Laden, President Bush also visited the Islamic Center of Washington and asked the public to view Arabs and Muslims living in the United States as American patriots.[8]
 
@@ -45,7 +45,7 @@ Investigations
 
 Collapse of the World Trade Center
 
-World_Trade_Center_9-11_Attacks_Illustration_with_Vertical_Impact_Locations.svg.]] WTC-remnant_highres.jpg 911report_cover_HIGHRES.png
+.]]
 
 A federal technical building and fire safety investigation of the collapses of the Twin Towers was conducted by the United States Department of Commerce's National Institute of Standards and Technology (NIST). The goals of this investigation, completed on April 6, 2005, were to investigate the building construction, the materials used, and the technical conditions that contributed to the outcome of the WTC disaster. The investigation was to serve as the basis for:
 

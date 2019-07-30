@@ -1,1 +1,0 @@
-The EGAN ESTATES RAILWAY, also known as the MCCAULEY CENTRAL RAILWAY, was a private logging railway in central Ontario, Canada. It ran northwest off the Ottawa, Arnprior and Parry Sound Railway (OA&PS) from a junction about northwest of the town of Madawaska. The line originally ran about to McCauley Lake, but was later extended another into the bush near Kitty Lake.

@@ -1,1 +1,0 @@
-TATYANA MIKHAILOVNA OF RUSSIA (; 5 January 1636 – 23 August 1706) was a Russian Tsarevna. She was heavily involved with the politics of the Romanov court during the reigns of her brother Alexis and the regency of her niece Sophia.

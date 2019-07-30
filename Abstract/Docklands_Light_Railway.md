@@ -1,1 +1,0 @@
-The DOCKLANDS LIGHT RAILWAY (DLR) is an automated light metro system opened in 1987 to serve the redeveloped Docklands area of East London, England.[1][2] It reaches north to Stratford, south to Lewisham across the River Thames, west to and in the City of London financial district, and east to Beckton, London City Airport, and to Woolwich Arsenal south of the river.

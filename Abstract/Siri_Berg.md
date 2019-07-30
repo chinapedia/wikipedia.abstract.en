@@ -1,1 +1,0 @@
-SIRI BERG is a Swedish-born American abstract artist and teacher. Berg's work is included in the permanent collection of the Guggenheim Museum in New York, as well as the National Museum of American Jewish History, and Coca-Cola.[1]

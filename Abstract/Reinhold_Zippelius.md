@@ -1,1 +1,0 @@
-REINHOLD ZIPPELIUS (born 19 May 1928) is a German jurist and law scholar. Now retired, he was formerly the professor of the Philosophy of law and Public law at the University of Erlangen-Nuremberg.[1][2]

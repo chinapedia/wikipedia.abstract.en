@@ -1,5 +1,3 @@
-Fort_Duvernette_and_Young's_Island_from_Calliaqua,_St._Vincent_1890s.jpg
-
 
 Pre-colonial history
 
@@ -10,14 +8,14 @@ By the time Christopher Columbus passed near St. Vincent on his third voyage in 
 
 Early European contacts
 
-1632_Cardona_Descripcion_Indias_(33).jpg, ca. 1614.]] Columbus and the Spanish conquistadors largely ignored St. Vincent and the smaller Grenadine islands nearby, but focused instead on the pursuit of gold and silver in Central and South America. They did embark on slaving expeditions in and around St. Vincent following royal sanction in 1511, driving the Carib inhabitants to the rugged interior, but the Spanish made no attempt to settle the island.[2]
+, ca. 1614.]] Columbus and the Spanish conquistadors largely ignored St. Vincent and the smaller Grenadine islands nearby, but focused instead on the pursuit of gold and silver in Central and South America. They did embark on slaving expeditions in and around St. Vincent following royal sanction in 1511, driving the Carib inhabitants to the rugged interior, but the Spanish made no attempt to settle the island.[2]
 
 Carib Indians aggressively prevented European settlement on St. Vincent until the 18th century. African slaves, whether shipwrecked or escaped from St. Lucia or Grenada and seeking refuge in St. Vincent, intermarried with the Caribs and became known as "black Caribs". Now those of mixed African-Carib ancestry are known as _Garifuna_. Established date is around 1511, over 444 years later.
 
 
 French and British colonisation and the Carib Wars
 
-ByresSaintVincent.jpg.]]
+.]]
 
 The first Europeans to occupy St. Vincent were the French. However, following a series of wars and peace treaties, the islands were eventually ceded to the British. While the English were the first to lay claim to St. Vincent in 1627, the French (centered on the island of Martinique) would be the first European settlers on the island when they established their first colony at Barrouallie on the Leeward side of St. Vincent in 1719.[3] The French settlers cultivated coffee, tobacco, indigo, corn, and sugar on plantations worked by African slaves.
 
@@ -42,7 +40,7 @@ File:SaintVincent Carib Treaty Negotiation 1773.jpg|Depiction of treaty negotiat
 
 Self-rule and independence
 
-Flag_of_Saint_Vincent_and_the_Grenadines_(1985).png St. Vincent was granted associate statehood status on October 27, 1969, giving it complete control over its internal affairs. Following a referendum in 1979, St. Vincent and the Grenadines became the last of the Windward Islands to gain independence on 27 October 1979.
+St. Vincent was granted associate statehood status on October 27, 1969, giving it complete control over its internal affairs. Following a referendum in 1979, St. Vincent and the Grenadines became the last of the Windward Islands to gain independence on 27 October 1979.
 
 Natural disasters have plagued the country throughout the 20th century. In 1902, Soufrière volcano erupted, killing 2,000 people. Much farmland was damaged, and the economy deteriorated. In April 1979, La Soufrière erupted again. Although no one was killed, thousands had to be evacuated, and there was extensive agricultural damage.
 

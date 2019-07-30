@@ -1,1 +1,0 @@
-"KEVIN" TSE WING KIN (born 19 January 1979) is a Hong Kong-born Macanese racing driver currently competing in the TCR International Series and TCR Asia Series. Having previously competed in the Asian Le Mans Series, Clio Cup China Series and Lamborghini Super Trofeo Asia amongst others.

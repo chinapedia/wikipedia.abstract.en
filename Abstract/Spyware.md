@@ -1,1 +1,0 @@
-SPYWARE is software that aims to gather information about a person or organization, sometimes without their knowledge, that may send such information to another entity without the consumer's consent, that asserts control over a device without the consumer's knowledge, or it may send such information to another entity with the consumer's consent, through cookies.[1]

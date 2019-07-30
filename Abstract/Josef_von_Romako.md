@@ -1,1 +1,0 @@
-JOSEF RITTER VON ROMAKO (1828 – 5 June 1882) was an Austro-Hungarian naval designer in the 19th century. He was responsible for designing most of the ironclad warships of the Austro-Hungarian Navy, from the first vessels of the in the early 1860s to , built in the late 1870s and early 1880s. He was also responsible for designing the s.

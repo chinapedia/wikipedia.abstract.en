@@ -1,1 +1,0 @@
-A MOOD STABILIZER is a psychiatric pharmaceutical drug used to treat mood disorders characterized by intense and sustained mood shifts, such as bipolar disorder type I or type II and schizoaffective disorder.

@@ -1,1 +1,0 @@
-The ATLANTA DIVISION is a railroad division operated by CSX Transportation in the U.S. states of Alabama, Georgia, Kentucky, Louisiana, Mississippi, South Carolina, Florida & Tennessee. The ATLANTA DIVISION has 18 subdivisions.[1]

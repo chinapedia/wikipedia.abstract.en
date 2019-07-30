@@ -9,7 +9,7 @@ The territory of Savoy was annexed to France in 1792 under the French First Repu
 
 Geography
 
-Les_Saisies.jpg, as seen from Mont Bisanne.]]
+, as seen from Mont Bisanne.]]
 
 In modern France, Savoy is part of the Auvergne-Rhône-Alpes region. Following its annexation to France in 1860, the territory of Savoy was divided administratively into two separate departments, Savoie and Haute-Savoie.
 
@@ -33,7 +33,7 @@ The region was occupied by the Allobroges, a Gaulish people[3] that the Roman Re
 
 Early and High Middle Ages
 
-Italy_1494.svg By the 8th century, the territory that would later become known as Savoy was part of Francia, and at the division of Francia at the Treaty of Verdun in 843, it became part of the short-lived kingdom of Middle Francia. After only 12 years, at the death of Lothair I in 855, Middle Francia was divided into Lotharingia north of the Alps, Italy south of the Alps, and the parts of Burgundy in the Western Alps, inherited by Charles of Provence. This latter territory comprised what would become known as Savoy and Provence.
+By the 8th century, the territory that would later become known as Savoy was part of Francia, and at the division of Francia at the Treaty of Verdun in 843, it became part of the short-lived kingdom of Middle Francia. After only 12 years, at the death of Lothair I in 855, Middle Francia was divided into Lotharingia north of the Alps, Italy south of the Alps, and the parts of Burgundy in the Western Alps, inherited by Charles of Provence. This latter territory comprised what would become known as Savoy and Provence.
 
 From the 10th to 14th century, parts of what would ultimately become Savoy remained within the Kingdom of Arles. Beginning in the 11th century, the gradual rise to power of the House of Savoy is reflected in the increasing territory of their County of Savoy between 1003 and 1416.
 
@@ -41,15 +41,13 @@ The County of Savoy was detached _de jure_ from the Kingdom of Arles by Charles 
 
 Duchy of Savoy
 
-Savoy2.png On 19 February 1416 Sigismund, Holy Roman Emperor, made the County of Savoy an independent duchy, with Amadeus VIII as the first duke. Straddling the Alps, Savoy lay within two competing spheres of influence, a French sphere and a North Italian one. At the time of the Renaissance, Savoy showed only modest development.[6] Its towns were few and small.[7] Savoy derived its subsistence from agriculture.[8] The geographic location of Savoy was also of military importance.[9] During the interminable wars between France and Spain over the control of northern Italy, Savoy was important to France because it provided access to Italy.[10] Savoy was important to Spain because it served as a buffer between France and the Spanish held lands in Italy.[11] In 1563 Emmanuel Philibert moved the capital from Chambéry to Turin, which was less vulnerable to French interference.[12]
+On 19 February 1416 Sigismund, Holy Roman Emperor, made the County of Savoy an independent duchy, with Amadeus VIII as the first duke. Straddling the Alps, Savoy lay within two competing spheres of influence, a French sphere and a North Italian one. At the time of the Renaissance, Savoy showed only modest development.[6] Its towns were few and small.[7] Savoy derived its subsistence from agriculture.[8] The geographic location of Savoy was also of military importance.[9] During the interminable wars between France and Spain over the control of northern Italy, Savoy was important to France because it provided access to Italy.[10] Savoy was important to Spain because it served as a buffer between France and the Spanish held lands in Italy.[11] In 1563 Emmanuel Philibert moved the capital from Chambéry to Turin, which was less vulnerable to French interference.[12]
 
 Vaud was annexed by Bern in 1536, and Savoy officially ceded Vaud to Bern in the Treaty of Lausanne of 30 October 1564.
 
 In 1714, as a consequence of the War of the Spanish Succession, Savoy was technically subsumed into the Kingdom of Sicily, then (after that island was traded to Austria for Sardinia) the Kingdom of Sardinia from 1720. While the heads of the House of Savoy were known as the Kings of Sardinia, Turin remained their capital.
 
 French Revolutionary Wars
-
-Italy_1796.svg
 
 Savoy was occupied by French revolutionary forces between 1792 and 1815. The region was first added to the département of Mont-Blanc, then in 1798 was divided between the départements of Mont-Blanc and Léman (French name of Lake Geneva.) [13] In 1801, Savoy officially left the Holy Roman Empire.[14] On 13 September 1793 the combined forces of Savoy, Piedmont and Aosta Valley fought against and lost to the occupying French forces at the Battle of Méribel (Sallanches). Two-thirds of Savoy was restored to the Kingdom of Sardinia in the First Restoration of 1814 following Napoleon's abdication; approximately one-third of Savoy, including the two most important cities of Chambéry and Annecy, remained in France. Following Napoleon's brief return to power during the Hundred Days and subsequent defeat at Waterloo, the remaining one-third of Savoy was restored to the Kingdom of Sardinia at the Congress of Vienna to strengthen Sardinia as a buffer state on France's southeastern border.
 

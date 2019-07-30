@@ -1,1 +1,0 @@
-DENAG was a 5th-century Sasanian queen (_banbishn_). She was the wife of the king (_shah_) Yazdegerd II (). Her origins are unknown, though given that her name had previously been used by Sasanian princesses, Denag may have been born a member of the royal family.

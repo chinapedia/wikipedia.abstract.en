@@ -1,1 +1,0 @@
-QUID, INC. is a private software and services company, specializing in text-based data analysis. Quid software can read millions of documents (e.g. news articles, blog posts, company profiles, and patents) and offers insight by organizing that content visually.[1]

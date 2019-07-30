@@ -49,7 +49,7 @@ The 2007 constitution, following Thaksin's ousting, was particularly designed to
 
 Government of Thailand
 
-Thai_Parliament_House.JPG.]] According to the now defunct 2007 constitution, the three major independent authorities holding the balance of power are executive, legislative, and judicial.
+.]] According to the now defunct 2007 constitution, the three major independent authorities holding the balance of power are executive, legislative, and judicial.
 
 Although the King has little direct power under the constitution and Thailand categorizes itself as a constitutional monarchy, the king is more than a symbol of national identity and unity. The present monarch has a great deal of popular respect and moral authority, which has been used to intervene in political crises and influence the course of the government.
 
@@ -200,7 +200,7 @@ On 26 November 2008, the Asian Human Rights Commission (AHRC) issued a statement
 
 2009–2010 protests and crackdowns
 
-2010_09_19_red_shirt_protest_bkk_09.JPG, Red Shirts, protest in 2010]] Abhisit's rise to power was controversial and opposed from the beginning. In April 2009, anti-government protesters, known as "red shirts", began a demonstration aimed at the resignation of the prime minister and fresh elections. The major site of the demonstration was Bangkok. From 8 April, the demonstrators spread their activities to significant locations such as major intersections. Streets were blocked and barricaded. The demonstration took place at the same time as the ASEAN summit in Pattaya. Demonstrators moved there to protest, aiming at disrupting the summit. Protesters stormed the site of the summit, causing its cancellation.
+, Red Shirts, protest in 2010]] Abhisit's rise to power was controversial and opposed from the beginning. In April 2009, anti-government protesters, known as "red shirts", began a demonstration aimed at the resignation of the prime minister and fresh elections. The major site of the demonstration was Bangkok. From 8 April, the demonstrators spread their activities to significant locations such as major intersections. Streets were blocked and barricaded. The demonstration took place at the same time as the ASEAN summit in Pattaya. Demonstrators moved there to protest, aiming at disrupting the summit. Protesters stormed the site of the summit, causing its cancellation.
 
 In Bangkok, the protest became fiercer because of the arrest of the leaders of the Pattaya protest. Protesters blocked the entrances of the Criminal Court, calling for the release of their leaders. Prime Minister Abhisit, at The Ministry of Interior, declared a state of emergency. Protesters blocked the entrance of the ministry, to seize the premier and other ministers. However, the premier escaped. The government began to deploy anti-riot troops. Armored vehicles were deployed in downtown Bangkok. Anti-riot actions took place in the early morning of the next day. Anti-riot troops, armed with shields, batons, and M-16s with live ammo, started dispersing and shooting protesters on Bangkok's streets.
 

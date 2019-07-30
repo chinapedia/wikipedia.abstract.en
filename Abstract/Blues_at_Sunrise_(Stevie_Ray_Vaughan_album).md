@@ -1,1 +1,0 @@
-_BLUES AT SUNRISE_ is an album by Stevie Ray Vaughan and Double Trouble, released on April 4, 2000.[1] Released a decade after his death, the album features ten previously unreleased songs from Vaughan.

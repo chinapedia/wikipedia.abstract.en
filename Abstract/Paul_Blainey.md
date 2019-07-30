@@ -1,1 +1,0 @@
-PAUL BLAINEY is an investigator and core faculty member at the Broad Institute in Boston, Massachusetts, and assistant professor of biological engineering at MIT.[1] He is recognized for his work in single cell genomics.

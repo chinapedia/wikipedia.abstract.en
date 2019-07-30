@@ -1,1 +1,0 @@
-HARRIE SMOLDERS (born 10 May 1980) is a Dutch Olympic show jumping rider.[1][2] He competed at the 2016 Summer Olympics in Rio de Janeiro, Brazil, where he placed 7th in the team and 27th in the individual competition.

@@ -1,1 +1,0 @@
-MILDRED CLINTON (November 2, 1914 – December 18, 2010) was an American actress.[1] Clinton had a supporting part in _Serpico_ (1973), and starred in the 1976 horror film _Alice, Sweet Alice_. In her later career she frequently collaborated with director Spike Lee, appearing in small parts in his films _Crooklyn_ (1994), _Summer of Sam_ (1999), and _Bamboozled_ (2000).

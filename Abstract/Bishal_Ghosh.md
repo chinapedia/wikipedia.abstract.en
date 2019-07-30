@@ -1,1 +1,0 @@
-BISHAL GHOSH (born 27 April 1996) is an Indian cricketer.[1] He made his first-class debut for Tripura in the 2014–15 Ranji Trophy on 7 December 2014.[2] He made his Twenty20 debut for Tripura in the 2016–17 Inter State Twenty-20 Tournament on 29 January 2017.[3] He made his List A debut for Tripura in the 2016–17 Vijay Hazare Trophy on 25 February 2017.[4]

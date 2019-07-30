@@ -1,1 +1,0 @@
-Government employees in the United States includes the United States federal civil service, employees of the state governments of the United States, and employees of local government in the United States.

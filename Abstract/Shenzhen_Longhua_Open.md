@@ -1,1 +1,0 @@
-The SHENZHEN LONGHUA OPEN is a tournament for professional female and male tennis players played on outdoor hard courts. The event is classified as a $100,000 ITF Women's Circuit tournament and a $75,000+H ATP Challenger Tour tournament, and has been held in Shenzhen, China, since 2016.

@@ -1,1 +1,0 @@
-_AN ODD ENTRANCES_ is the eighteenth studio album by the American garage rock band Thee Oh Sees, released on 18 November 2016 by Castle Face Records. The album was recorded during the same sessions as the band's previous album, _A Weird Exits_, released three months previously.[1]

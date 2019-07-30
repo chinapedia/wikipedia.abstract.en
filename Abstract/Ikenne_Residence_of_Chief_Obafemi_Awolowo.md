@@ -1,1 +1,0 @@
-THE IKENNE RESIDENCE OF CHIEF OBAFEMI AWOLOWO represents the hometown of the late Chief Obafemi Awolowo. The structure is located in Ikenne, Ogun state, south west Nigeria. The remains of Obafemi and Hannah Idowu Dideolu Awolowo(HID) were buried in this compound.[1][2][3]

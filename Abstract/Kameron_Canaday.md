@@ -1,1 +1,0 @@
-KAMERON CANADAY (born August 20, 1993) is an American football long snapper for the Pittsburgh Steelers of the National Football League (NFL). He played college football at Portland State and signed with the Arizona Cardinals as an undrafted free agent in 2016.

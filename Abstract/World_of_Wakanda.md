@@ -1,1 +1,0 @@
-_WORLD OF WAKANDA_ is a comic book title and a spin-off from the Marvel Comics' Black Panther title.[1][2] The series is written by Roxane Gay and poet Yona Harvey, the first two black women to author a series for Marvel.[3] Alitha E. Martinez and Afua Richardson draw the series.

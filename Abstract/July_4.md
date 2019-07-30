@@ -1,1 +1,0 @@
-The Aphelion, the point in the year when the Earth is farthest from the Sun, occurs around this date.

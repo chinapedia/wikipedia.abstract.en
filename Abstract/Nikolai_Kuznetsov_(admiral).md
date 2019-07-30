@@ -1,1 +1,0 @@
-NIKOLAY GERASIMOVICH KUZNETSOV (; July 24, 1904 – December 6, 1974) was a Soviet naval officer who achieved the rank of Admiral of the Fleet of the Soviet Union and served as People's Commissar of the Navy during the Second World War. The Russian aircraft carrier is named in his honor.

@@ -1,1 +1,0 @@
-SUMATITAI SUKLIKAR (24 December1923 –22 February 2011) was a member of Maharashtra Legislative Assembly in India.[1] She was a leader of Bharatiya Janata Party, and was from Nagpur, Vidarbha.[2] She died on 22 February 2011 due to old age.

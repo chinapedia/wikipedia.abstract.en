@@ -1,1 +1,0 @@
-_ASPERGILLUS CLAVATUS_ is a species of fungus in the genus _Aspergillus_ with conidia dimensions 3–4.5 x 2.5–4.5 μm. It is found in soil and animal manure. The fungus was first described scientifically in 1834 by the French mycologist John Baptiste Henri Joseph Desmazières.[1]

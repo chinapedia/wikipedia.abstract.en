@@ -1,1 +1,0 @@
-Eero_snellman.jpg

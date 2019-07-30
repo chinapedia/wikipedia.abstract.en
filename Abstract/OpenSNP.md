@@ -1,1 +1,0 @@
-Released in September 2011, OPENSNP is an open source website where users can share their genetic information.[1] Users upload their genes, including gender, age, eye color, medical history, Fitbit data. With a focus on user patient-led research (PLR), there is potential to redefine the way health research is conducted.

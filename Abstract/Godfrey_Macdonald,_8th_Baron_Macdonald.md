@@ -1,1 +1,0 @@
-Godfrey_James_Macdonald_8th_Baron_Macdonald_bronze_bust_by_sculptor_Laurence_Broderick.jpg.]] GODFREY JAMES MACDONALD, 8th Baron Macdonald of Slate (born 28 November 1947), is a Scottish nobleman, landowner and head of Clan Donald.

@@ -1,1 +1,0 @@
-Experimental_Southwell_Plot.png The SOUTHWELL PLOT is a graphical method of determining experimentally a structure's critical load, without needing to subject the structure to near-critical loads.[1] The technique can be used for nondestructive testing of any structural elements that may fail by buckling.[2]

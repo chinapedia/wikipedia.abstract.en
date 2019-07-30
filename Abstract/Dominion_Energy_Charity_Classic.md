@@ -1,1 +1,0 @@
-The DOMINION ENERGY CHARITY CLASSIC is a professional golf tournament in Virginia on the PGA Tour Champions, played at Country Club of Virginia in Richmond, Virginia. The inaugural edition was in November 2016. The event features a 72-player field competing for a $2 million purse, and is a no-cut 54-hole event.

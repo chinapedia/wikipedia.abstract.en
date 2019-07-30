@@ -1,1 +1,0 @@
-_VARMINTS_ is the debut studio album by the British composer and electronica musician Anna Meredith, released on 4 March 2016 on Moshi Moshi. Released to widespread critical acclaim, the album won Scottish Album of the Year Award in 2016.[1]

@@ -1,1 +1,0 @@
-_ALIENS!_ is a themed anthology of science fiction short works edited by American writers Gardner Dozois and Jack Dann, the first in a series of themed anthologies. It was first published in paperback by Pocket Books in April 1980.[1] Subsequent volumes in the series were published by Ace Books.

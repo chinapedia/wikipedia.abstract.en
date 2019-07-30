@@ -1,1 +1,0 @@
-The BURKINA FASO ARMED FORCES (French: Forces armées du Burkina Faso) is the term used for the national military of Burkina Faso. The service branches of the armed forces include its Army, Air Force, National Gendarmerie and People's Militia. Being a landlocked country, Burkina Faso has no navy.

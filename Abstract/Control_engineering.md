@@ -1,1 +1,0 @@
-Space_Shuttle_Columbia_launching.jpg]] CONTROL ENGINEERING or CONTROL SYSTEMS ENGINEERING is an engineering discipline that applies automatic control theory to design systems with desired behaviors in control environments.[1] The discipline of controls overlaps and is usually taught along with electrical engineering at many institutions around the world.[2]

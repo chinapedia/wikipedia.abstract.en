@@ -1,1 +1,0 @@
-CARLOS ALZUGARAI was one of the pioneers of Cuban Scouting. In 1914, the first Scout groups in Cuba were founded, and Carlos Alzugarai, Miguel Ángel Quevedo, Jules Loustalot and others wrote up the statutes and began Scout activities.[1]

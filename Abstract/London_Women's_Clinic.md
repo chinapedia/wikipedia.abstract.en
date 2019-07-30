@@ -1,1 +1,0 @@
-London_Women's_Clinic_Harley_Street.jpg THE LONDON WOMEN'S CLINIC is a private healthcare centre situated in London's Harley Street.[1] Owned by Dr Kamal Ahuja, and founded in 1992,[2] the centre has a reputation for helping single women and lesbian couples conceive.[3] The clinic is closely associated with the London Sperm Bank and the London Egg Bank.[4]

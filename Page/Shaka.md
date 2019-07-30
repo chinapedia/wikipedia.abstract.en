@@ -16,7 +16,7 @@ In the initial years, Shaka had neither the influence nor reputation to compel a
 
 Expansion of power and conflict with Zwide
 
-Shaka's_Empire_map.svg. The rise of the Zulu Empire under Shaka forced other chiefdoms and clans to flee across a wide area of southern Africa. Clans fleeing the Zulu war zone included the Soshangane, Zwangendaba, Ndebele, Hlubi, Ngwane, and the Mfengu. A number of clans were caught between the Zulu Empire and advancing Voortrekkers and British Empire such as the Xhosa .]] Shaka_of_Zululand_statue_2015_London_(1).JPG in London, England.]] Zuluwarriorbp.jpg
+. The rise of the Zulu Empire under Shaka forced other chiefdoms and clans to flee across a wide area of southern Africa. Clans fleeing the Zulu war zone included the Soshangane, Zwangendaba, Ndebele, Hlubi, Ngwane, and the Mfengu. A number of clans were caught between the Zulu Empire and advancing Voortrekkers and British Empire such as the Xhosa .]] in London, England.]]
 
 As Shaka became more respected by his people, he was able to spread his ideas with greater ease. Because of his background as a soldier, Shaka taught the Zulus that the most effective way of becoming powerful quickly was by conquering and controlling other tribes. His teachings greatly influenced the social outlook of the Zulu people. The Zulu tribe soon developed a warrior outlook, which Shaka turned to his advantage.
 
@@ -41,8 +41,6 @@ Shaka's half-brother Dingane assumed power and embarked on an extensive purge of
 
 
 Social and military revolution
-
-Zuluchargegutt.jpg
 
 Some older histories have doubted the military and social innovations customarily attributed to Shaka, denying them outright, or attributing them variously to European influences. More modern researchers argue that such explanations fall short, and that the general Zulu culture, which included other tribes and clans, contained a number of practices that Shaka could have drawn on to fulfill his objectives, whether in raiding, conquest or hegemony. Some of these practices are shown below.
 
@@ -84,7 +82,7 @@ The hosts were generally partitioned into three levels: regiments, corps of seve
 
 Shakan methods versus European technology
 
-Zuluattackgutt.jpg as ineffective against the quick encirclements of charging spearmen. Though it ultimately failed against more modern rifle and artillery fire in 1879, this practice proved partially successful at Isandlwana.]]
+as ineffective against the quick encirclements of charging spearmen. Though it ultimately failed against more modern rifle and artillery fire in 1879, this practice proved partially successful at Isandlwana.]]
 
 The expanding Zulu power inevitably clashed with European hegemony in the decades after Shaka's death. In fact, European travellers to Shaka's kingdom demonstrated advanced technology such as firearms and writing, but the Zulu monarch was less than convinced. There was no need to record messages, he held, since his messengers stood under penalty of death should they bear inaccurate tidings. As for firearms, Shaka acknowledged their utility as missile weapons after seeing muzzle-loaders demonstrated, but he argued that in the time a gunman took to reload, he would be swamped by charging spear-wielding warriors.
 
@@ -108,8 +106,6 @@ Shaka's triumphs did not succeed in obliterating or diminishing the memories of 
 Scholarship studies
 
 Biographical sources
-
-Zuluisandoob3.jpg
 
 Scholarship in recent years has revised views of the sources on Shaka's reign. The earliest are two eyewitness accounts written by European adventurer-traders who met Shaka during the last four years of his reign. Nathaniel Isaacs published his _Travels and Adventures in Eastern Africa_ in 1836, creating a picture of Shaka as a degenerate and pathological monster, which survives in modified forms to this day. Isaacs was aided in this by Henry Francis Fynn, whose diary (actually a rewritten collage of various papers) was edited by James Stuart only in 1950.
 
@@ -162,8 +158,6 @@ There is an anecdote that Shaka joked with one of his friends, Magaye, that he c
 
 
 In Zulu culture
-
-Zulumustersm.jpg
 
 The figure of Shaka still sparks interest among not only the contemporary Zulu but many worldwide who have encountered the tribe and its history. The current tendency appears to be to lionise him; popular film and other media have certainly contributed to his appeal. Certain aspects of traditional Zulu culture still revere the dead monarch, as the typical praise song below attests. The praise song is one of the most widely used poetic forms in Africa, applying not only to spirits but to men, animals, plants and even towns.[3]
 

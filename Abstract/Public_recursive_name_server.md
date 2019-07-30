@@ -1,1 +1,0 @@
-A PUBLIC RECURSIVE NAME SERVER (also called PUBLIC DNS RESOLVER) is a name server service that networked computers may use for query to DNS, the decentralized Internet naming system, in place of or in addition to name servers operated by the Internet service provider to which the devices are connected. Reasons for using these services include:

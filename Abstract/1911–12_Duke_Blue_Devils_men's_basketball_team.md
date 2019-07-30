@@ -1,1 +1,0 @@
-The 1911–12 DUKE BLUE DEVILS MEN'S BASKETBALL TEAM represented Duke University during the 1911–12 men's college basketball season. The head coach was Wilbur Wade Card, coaching his seventh season with the Blue Devils. The team finished with an overall record of 6–1.[1]

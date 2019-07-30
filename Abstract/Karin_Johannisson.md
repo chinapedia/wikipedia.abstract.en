@@ -1,1 +1,0 @@
-KARIN JOHANNISSON (11 October 1944 – November 2016) was a Swedish idea historian who was Professor of the History of Science and Ideas at Uppsala University.[1] She was a member of the Royal Swedish Academy of Sciences.

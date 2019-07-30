@@ -1,1 +1,0 @@
-_SILVER SKIES BLUE_ is an album by Judy Collins and Ari Hest. It earned them a Grammy Award nomination for Best Folk Album, Hest's first and Collins' first nomination in 40 years.[1] Of the albums 12 tracks, 8 were co-written by Collins and Hest although all tracks bar one were co-written by either Collins or Hest in collaboration with other songwriters.

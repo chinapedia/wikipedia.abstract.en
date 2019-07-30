@@ -1,1 +1,0 @@
-IKEJA ELECTRIC Plc is the largest Nigerian power distribution company. It is based in Ikeja, capital of the state of Lagos. The company emerged on November 1, 2013 following the handover of the defunct Power Holding Company of Nigeria (PHCN) to NEDC/KEPCO Consortium under the privatization scheme of the Federal Government of Nigeria.[1]

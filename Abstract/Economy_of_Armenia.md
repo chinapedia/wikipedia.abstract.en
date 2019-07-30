@@ -1,1 +1,0 @@
-The ECONOMY OF ARMENIA grew by 5.2% in 2018 and reached a nominal GDP of approximately $12.4 billion per annum, while per capita GDP grew by 7.9% and reached $4,186 (from $3,880 in 2017).[1] Its GDP grew 40.7% between 2012 and 2018, and key banking indicators like assets and credit exposures almost doubled.[2]

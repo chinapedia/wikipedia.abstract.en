@@ -1,1 +1,0 @@
-SALMAN AL-AZAMI is a British-Bangladeshi author and academic at Liverpool Hope University, where he is a seniorlecturer in English language. He obtained his BA, MA, and PhD at Aligarh Muslim University in India.[1]

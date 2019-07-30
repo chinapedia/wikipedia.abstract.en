@@ -1,1 +1,0 @@
-LUIS CABALLERO HOLGUÍN (27 August 1943 – 19 June 1995), born in Bogotá was a Colombian painter, watercolourist, pastellist and lithographer.[1] Caballero is known for depicting masculine figures, and his works often include both erotic and violent imagery.

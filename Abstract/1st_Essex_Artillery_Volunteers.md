@@ -1,1 +1,0 @@
-The 1ST ESSEX ARTILLERY VOLUNTEERS were formed in 1860 as a response to a French invasion threat. They became part of the Territorial Force in 1908 and served during the First and Second World Wars until amalgamated in 1956.

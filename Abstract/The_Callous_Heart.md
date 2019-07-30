@@ -1,1 +1,0 @@
-_THE CALLOUS HEART_ is the second extended play (EP) by English horror punk band Creeper. Recorded with producer Neil Kennedy at The Ranch Production House in Southampton, it was originally released in the UK on 18 September 2015 as the band's first release since signing with major label Roadrunner Records in June 2015. The EP was later issued internationally on 15 January 2016.

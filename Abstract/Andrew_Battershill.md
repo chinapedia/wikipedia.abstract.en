@@ -1,1 +1,0 @@
-ANDREW BATTERSHILL is a Canadian writer,[1] whose debut novel _Pillow_ was a longlisted nominee for the Scotiabank Giller Prize[2] and the Sunburst Award,[3] and a finalist for the Kobo Emerging Writer Prize, in 2016.

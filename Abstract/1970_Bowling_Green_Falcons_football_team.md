@@ -1,1 +1,0 @@
-The 1970 BOWLING GREEN FALCONS FOOTBALL TEAM was an American football team that represented Bowling Green University in the Mid-American Conference (MAC) during the 1970 college football season. In their third season under head coach Don Nehlen, the Falcons compiled a 2–6–1 record (1–4 against MAC opponents) and outscored their opponents by a combined total of 178 to 118.[1]

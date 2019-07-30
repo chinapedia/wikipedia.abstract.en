@@ -23,7 +23,7 @@ In 1882–1883, a German expedition for the first International Polar Year was s
 
 20th and 21st centuries
 
-Grytviken_church.jpg]]
+]]
 
 South Georgia became a base for whaling beginning in the 20th century, until whaling ended in the 1960s. A Norwegian, Carl Anton Larsen, established the first land-based whaling station and first permanent habitation at Grytviken in 1904. It operated through his Argentine Fishing Company, which settled in Grytviken.[8][9] The station operated until 1965. Whaling stations operated under leases granted by the Governor of the Falkland Islands. The seven stations, all on the north coast with its sheltered harbours, were, from the west to east:
 
@@ -37,13 +37,11 @@ South Georgia became a base for whaling beginning in the 20th century, until wha
 
 The whaling stations' tryworks were unpleasant and dangerous places to work. One was called "a charnel house boiling wholesale in Vaseline" by an early 20th-century visitor. Tim Flannery wrote that its "putrid vapors [resembled] the pong of bad fish, manure, and a tanning works mixed together", and noted one bizarre peril: "A rotting whale could fill with gas to bursting, ejecting a fetus the size of a motor vehicle with sufficient force to kill a man."[10]
 
-PanoramaOfSouthGeorgia.jpg during the Imperial Trans-Antarctic Expedition]] With the end of the whaling industry, the stations were abandoned. Apart from a few preserved buildings such as the South Georgia Museum and Norwegian Lutheran Church at Grytviken, only their decaying remains survive. From 1905, the Argentine Meteorological Office cooperated in maintaining a meteorological observatory at Grytviken under the British lease requirements of the whaling station until these changed in 1949.
+during the Imperial Trans-Antarctic Expedition]] With the end of the whaling industry, the stations were abandoned. Apart from a few preserved buildings such as the South Georgia Museum and Norwegian Lutheran Church at Grytviken, only their decaying remains survive. From 1905, the Argentine Meteorological Office cooperated in maintaining a meteorological observatory at Grytviken under the British lease requirements of the whaling station until these changed in 1949.
 
 In 1908, the United Kingdom issued further letters patent that established constitutional arrangements for its possessions in the South Atlantic. The letters covered South Georgia, the South Orkneys, the South Shetlands, the South Sandwich Islands, and Graham Land. The claim was extended in 1917 to include a sector of Antarctica reaching to the South Pole. In 1909, an administrative centre and residence were established at King Edward Point on South Georgia, near the whaling station of Grytviken. A permanent local British administration and resident magistrate exercised effective possession, enforcement of British law, and regulation of all economic, scientific, and other activities in the territory, which was then governed as the Falkland Islands Dependencies. In about 1912, what is according to some accounts the largest whale ever caught, a blue whale of , was landed at Grytviken.[11][12]
 
 In April 1916, Ernest Shackleton's Imperial Trans-Antarctic Expedition became stranded on Elephant Island, some southwest of South Georgia. Shackleton and five companions set out in a small boat to summon help, and on 10 May, after an epic voyage, they landed at King Haakon Bay on South Georgia's south coast. While three stayed at the coast, Shackleton and the two others, Tom Crean and Frank Worsley, went on to cover over the spine of the mountainous island to reach help at Stromness whaling station. The remaining 22 members of the expedition, who had stayed on Elephant Island, were subsequently rescued. In January 1922, during a later expedition, Shackleton died on board ship while moored in King Edward Cove, South Georgia. He is buried at Grytviken. The ashes of another noted Antarctic explorer, Frank Wild, who had been Shackleton's second-in-command on the Imperial Trans-Antarctic Expedition, were interred next to Shackleton in 2011.
-
-SG-Settlements.png
 
 Argentina claimed South Georgia in 1927.[13] During the Second World War, the Royal Navy deployed an armed merchant vessel to patrol South Georgian and Antarctic waters against German raiders, along with two four-inch shore guns (still present) protecting Cumberland Bay and Stromness Bay, which were manned by volunteers from among the Norwegian whalers. The base at King Edward Point was expanded as a research facility in 1949/1950 by the British Antarctic Survey, which until 1962 was called the Falkland Islands Dependencies Survey.
 
@@ -62,8 +60,6 @@ On 10 February 2008, a 6.5 magnitude earthquake had its epicentre south-southeas
 
 Geography
 
-South_Georgia_and_South_Sandwich_Islands.png
-
 South Georgia and the South Sandwich Islands are a collection of islands in the South Atlantic Ocean. Most of the islands, rising steeply from the sea, are rugged and mountainous. At higher elevations, the islands are permanently covered with ice and snow.
 
 South Georgia group
@@ -72,7 +68,7 @@ The South Georgia group lies about east-southeast of the Falkland Islands, at 54
 
 Islands within the South Georgia group
 
-1989_Grytvikken_hg.jpg]] South Georgia Island lies at and has an area of . It is mountainous and largely barren. Eleven peaks rise to over high, their slopes furrowed with deep gorges filled with glaciers; the largest is Fortuna Glacier. The highest peak is Mount Paget in the Allardyce Range at .
+]] South Georgia Island lies at and has an area of . It is mountainous and largely barren. Eleven peaks rise to over high, their slopes furrowed with deep gorges filled with glaciers; the largest is Fortuna Glacier. The highest peak is Mount Paget in the Allardyce Range at .
 
 Geologically, the island consists of gneiss and argillaceous schists with occasional tufts and other sedimentary layers from which fossils have been recovered.[19] The island is a fragment of some greater land-mass now vanished and was probably a former extension of the Andean system.
 
@@ -98,7 +94,7 @@ These remote rocks are also considered part of the South Georgia group:
 
 South Sandwich Islands
 
-Montagu_Island_Satellite_Photograph.jpg The South Sandwich Islands () comprise 11 mostly volcanic islands (excluding tiny satellite islands and offshore rocks), with some active volcanoes. They form an island arc running north-south in the region 56°18'–59°27'S, 26°23'–28°08'W, between about southeast of South Georgia.
+The South Sandwich Islands () comprise 11 mostly volcanic islands (excluding tiny satellite islands and offshore rocks), with some active volcanoes. They form an island arc running north-south in the region 56°18'–59°27'S, 26°23'–28°08'W, between about southeast of South Georgia.
 
 The northernmost of the South Sandwich Islands form the Traversay Islands and Candlemas Islands groups, while the southernmost make up Southern Thule. The three largest islandsSaunders, Montagu, and Bristollie between the two. The Islands' highest point is Mount Belinda () on Montagu Island.
 
@@ -159,7 +155,7 @@ Extreme points
 
 Climate
 
-SouthGeorgiaIsland-EO.JPG Wave_Clouds_from_South_Sandwich_Islands.jpg in clouds.]] Royal_Bay_and_South_Georgia_Island.jpg The climate is classified as polar, and the weather is highly variable and harsh; making a tundra (ET) in Köppen climate classification. Typical daily maximum temperatures in South Georgia at sea level are around in winter (August) and in summer (January). Winter minimum temperatures are typically about and rarely dip below . Annual precipitation in South Georgia is about , much of which falls as sleet or snow, which is possible the entire year. Inland, the snow line in summer is at an altitude of about .
+in clouds.]] The climate is classified as polar, and the weather is highly variable and harsh; making a tundra (ET) in Köppen climate classification. Typical daily maximum temperatures in South Georgia at sea level are around in winter (August) and in summer (January). Winter minimum temperatures are typically about and rarely dip below . Annual precipitation in South Georgia is about , much of which falls as sleet or snow, which is possible the entire year. Inland, the snow line in summer is at an altitude of about .
 
 Westerly winds blow throughout the year interspersed with periods of calm—indeed, in 1963, 25% of winds were in the calm category at King Edward point, and the mean wind speed of around is around half that of the Falkland Islands. This gives the eastern side of South Georgia (leeward side) a more pleasant climate than the exposed western side. The prevailing weather conditions generally make the islands difficult to approach by ship, though the north coast of South Georgia has several large bays which provide good anchorage.
 
@@ -201,7 +197,7 @@ Charter yacht visits usually begin in the Falkland Islands, last between four an
 
 Postage stamps
 
-Stamp_South_Georgia_1963_4d.jpg was issued in 1963.]] A large source of income from abroad also comes from the issue of South Georgia and the South Sandwich Islands postage stamps which are produced in the UK.
+was issued in 1963.]] A large source of income from abroad also comes from the issue of South Georgia and the South Sandwich Islands postage stamps which are produced in the UK.
 
 A reasonable issue policy (few sets of stamps are issued each year) along with attractive subject matter (especially whales) makes them popular with topical stamp collectors.
 
@@ -218,9 +214,9 @@ The Internet country code top-level domain (ccTLD) for South Georgia and the Sou
 
 Flora and fauna
 
-  -------------------------------------------- ----------------------------------------------------------------------------------------------------- ----------------------------------------------------------
-  Giant_petrel.jpg on South Georgia Island]]   King_Penguins_at_Salisbury_Plain_(5719368307).jpgs (_Aptenodytes patagonicus_) on Salisbury Plain]]   King_penguins_on_South_Georgia_Island.jpg Island, 1996]]
-  -------------------------------------------- ----------------------------------------------------------------------------------------------------- ----------------------------------------------------------
+  --------------------------- ---------------------------------------------------- ----------------
+  on South Georgia Island]]   s (_Aptenodytes patagonicus_) on Salisbury Plain]]   Island, 1996]]
+  --------------------------- ---------------------------------------------------- ----------------
 
 Plants
 
@@ -244,14 +240,14 @@ Marine ecosystem
 
 The seas around South Georgia have a high level of biodiversity. In a recent study (2009–2011), South Georgia has been discovered to contain one of the highest levels of biodiversity among all the ecosystems on Earth.[48] In respect to species, marine inhabitants endemic to this ecosystem outnumber and (in respect to biodiversity) surpass well-known regions such as the Galápagos or Ecuador.[49] The marine ecosystem is thought to be vulnerable because its low temperatures mean that it can repair itself only very slowly.[50] On 23 February 2012, to protect marine biodiversity, the territory's government created the South Georgia and the South Sandwich Islands Marine Protected Areacomprising .[51][52][53]
 
-  -------------------------------------------- ------------------------------------------------------------- ------------------------------------------
-  Wonder_albat.jpg at South Georgia Island]]   Antarctic_Pearlwort.jpg at St. Andrews Bay, South Georgia]]   South_Georgia_Photo_by_Sascha_Grabow.jpg
-  -------------------------------------------- ------------------------------------------------------------- ------------------------------------------
+  --------------------------- ------------------------------------- --
+  at South Georgia Island]]   at St. Andrews Bay, South Georgia]]
+  --------------------------- ------------------------------------- --
 
 
 Military
 
-Royal_Navy_Antarctic_Patrol_Ship_HMS_Protector_MOD_45153156.jpg After the Falklands War in 1982, a full-time British military presence was maintained at King Edward Point on South Georgia. This was scaled down during the 1990s until the last detachment left South Georgia in March 2001, after a new station had been built and occupied by the British Antarctic Survey.[54]
+After the Falklands War in 1982, a full-time British military presence was maintained at King Edward Point on South Georgia. This was scaled down during the 1990s until the last detachment left South Georgia in March 2001, after a new station had been built and occupied by the British Antarctic Survey.[54]
 
 The main British military facility in the region is at RAF Mount Pleasant and the adjacent Mare Harbour naval base on East Falkland, and three Remote Radar Heads on the Falklands: RRH Mount Kent, RRH Byron Heights and RRH Mount Alice. A handful of British naval vessels patrol the region, visiting South Georgia a few times each year and sometimes deploying small infantry patrols. Flights by RAF C-130 Hercules and Vickers VC10 (replaced by Voyager) aircraft also occasionally patrol the territory.
 

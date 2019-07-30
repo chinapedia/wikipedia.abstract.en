@@ -1,1 +1,0 @@
-GOVINDA-RAJA (r. c. 809-836 CE ), also known as GUVAKA I, was an Indian king from the Shakambhari Chahamana dynasty. He ruled parts of present-day Rajasthan in north-western India as a vassal of the Gurjara-Pratihara emperor Nagabhata II.

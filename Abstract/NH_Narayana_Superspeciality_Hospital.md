@@ -1,1 +1,0 @@
-NH NARAYANA SUPERSPECIALITY HOSPITAL (formerly known as _WEST BANK HEALTH AND WELLNESS INSTITUTE_) is a hospital in Howrah, West Bengal.[1] Its sister hospital is the Westbank hospital that was acquired by the Narayana Health group, headed by renowned cardiac surgeon Dr. Devi Prasad Shetty in the year 2014.[2]

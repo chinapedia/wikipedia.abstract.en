@@ -1,1 +1,0 @@
-HUTCHINSON'S FACIES is a facial appearance involving drooping eyelids and immobile eyes in external ophthalmoplegia. This sign is associated with neurosyphilis.[1][2][3] It is named in honour of the English physician Jonathan Hutchinson (1828–1913).

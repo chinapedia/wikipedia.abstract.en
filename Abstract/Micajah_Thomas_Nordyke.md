@@ -1,1 +1,0 @@
-MICAJAH THOMAS NORDYKE (March 9, 1847 – May 15, 1919) was a noted painter and member of the Richmond Group. Nordyke was a student of Frank Duveneck at the Cincinnati Academy of Art and a student at Earlham College, 1865-66. He also served as Richmond City Clerk.[1]

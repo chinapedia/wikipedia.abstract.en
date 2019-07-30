@@ -1,1 +1,0 @@
-WOOLSBARROW HILLFORT is a hillfort on Bloxworth Heath in the district of Purbeck in the county of Dorset, England. It dates to the period from the Late Bronze Age to the Early Iron Age (8th–5th centuries BC) and is classed as an ancient monument.[1] Despite the hillfort only being at an altitude of it is said to "dominate the surrounding heathland."[2]

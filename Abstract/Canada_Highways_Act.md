@@ -1,1 +1,0 @@
-The _CANADA HIGHWAYS ACT_ (the Act) was a 1919 Act of the Dominion Parliament of Canada. The Act established a fund to support the construction of provincial highways as part of the post-World War I reconstruction program of Robert Borden's Union government.

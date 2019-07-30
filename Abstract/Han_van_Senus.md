@@ -1,1 +1,0 @@
-ANTONIE HENDRIKUS CATHARINUS "HAN" VAN SENUS (10 October 1900 - 9 December 1976) was a Dutch male water polo player. He was a member of the Netherlands men's national water polo team. He competed with the team at the 1924 Summer Olympics and 1928 Summer Olympics.[1]

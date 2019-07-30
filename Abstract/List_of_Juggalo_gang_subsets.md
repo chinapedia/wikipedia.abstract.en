@@ -1,1 +1,0 @@
-The following LIST OF JUGGALO GANG SUBSETS is relative to the size of juggalo gang culture and juggalo gangs - in relation to the music subculture of the same name. The culture of Juggalo gangs differs depending on their regional alliances with other gangs, racial makeup, and ethnic identity.

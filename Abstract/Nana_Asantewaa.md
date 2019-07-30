@@ -1,1 +1,0 @@
-'''Nana Asantewaa ''' (born 28 December 1993) is a Ghanaian footballer who plays as a goalkeeper for the Ghana women's national football team. She was part of the team at the 2014 African Women's Championship. At the club level, she played for Police Accra in Ghana.[1]

@@ -180,7 +180,7 @@ Political themes
 
 Technologies
 
-Star_Wars_Celebration_2015_-_21-B_(17833422890).jpg]]
+]]
 
 -   Artificial gravity
 -   Artificial intelligence

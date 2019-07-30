@@ -1,1 +1,0 @@
-VASILY DMITRIEVICH MYACHIN (; 17 December 191814 March 1980) was a Soviet Army colonel and a Hero of the Soviet Union. Myachin was awarded the title Hero of the Soviet Union for his leadership of a battalion during the Berlin Offensive. Postwar, Myachin continued to serve in the army, retiring in 1978, after which he worked as an air traffic controller.

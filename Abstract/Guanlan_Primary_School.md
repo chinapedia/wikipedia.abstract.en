@@ -1,1 +1,0 @@
-GUANLAN PRIMARY SCHOOL , Pinyin: Guānlán Xiǎoxué, is a Primary School in Chuansha County, Pudong New Area, Shanghai, China. It consists of 5 grades each with at least 8 classes. In 2014 the enrolled grade was divided into 10 classes.

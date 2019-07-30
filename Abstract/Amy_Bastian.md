@@ -1,1 +1,0 @@
-AMY JO BASTIAN (born 23 July 1968) is an American neuroscientist, who has made important contributions to the neuroscience of sensorimotor control.[1] From 2011 she has been a Professor of Neuroscience at Johns Hopkins University.[2] In 2015 Bastian was appointed Chief Science Officer at the Kennedy Krieger Institute[3]

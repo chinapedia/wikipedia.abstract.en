@@ -1,1 +1,0 @@
-The MONASTERY OF ENNISNAG ( and meaning "_the Island or Islet of the Crane or Heron_") was an early Irish Christian monastery, and later a medieval prebendal church, located at Ennisnag, in County Kilkenny, Ireland. The medieval monastery and church are no longer extant. From the ruins, St Peter's church, of Protestant denomination, was established in the early 19th century.

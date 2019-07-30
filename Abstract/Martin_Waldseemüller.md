@@ -1,1 +1,0 @@
-MARTIN WALDSEEMÜLLER (Latinized as MARTINUS ILACOMYLUS, ILACOMILUS or HYLACOMYLUS; c. 1470 – 16 March 1520) was a German cartographer.

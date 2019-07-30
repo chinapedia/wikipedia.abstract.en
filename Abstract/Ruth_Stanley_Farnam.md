@@ -1,1 +1,0 @@
-RUTH STANLEY FARNAM (September 11, 1873 — December 7, 1956) was an American nurse, soldier and writer. She is the only American woman known to have served as a soldier in the Serbian army during World War I.[1]

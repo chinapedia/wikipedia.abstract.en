@@ -1,1 +1,0 @@
-PETER GORDON BLYTH BUCHANAN (born 14 December 1938) is a retired Scottish amateur football centre forward who made over 200 appearances in the Scottish League for Queen's Park.[1][2] He later served on the club's committee and as president.[3] He is Scotland's joint-top scorer at amateur level and made two 1964 Summer Olympic qualifying appearances for Great Britain.[4]

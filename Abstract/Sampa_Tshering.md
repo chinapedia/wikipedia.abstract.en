@@ -1,1 +1,0 @@
-SAMPA TSHERING is a Bhutanese international footballer. He made his official debut in their 2019 AFC Asian Cup qualifying match second leg against Bangladesh, coming on as a substitute in the 57th minute, replacing Dorji[1]

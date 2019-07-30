@@ -1,1 +1,0 @@
-The POZNAŃ MAYORAL SHELTER was built in the late 1950s[1] and early 1960s[2][3] to provide protection for the mayor of Poznań and other high-ranking municipal officials in the event of a nuclear war[4] but has since been put out of commission, becoming a branch of the Wielkopolska Museum of the Fight for Independence in Poznań.[5][6]

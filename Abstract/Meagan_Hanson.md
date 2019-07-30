@@ -1,1 +1,0 @@
-MEAGAN HANSON is an attorney and former Georgia State Representative from Brookhaven, Georgia.[1] A member of the Republican Party, she defeated Democratic Party incumbent Taylor Bennett, in November 2016. Hanson represents House district 80, which includes most of Brookhaven, along with portions of the adjacent cities of Sandy Springs and Chamblee.

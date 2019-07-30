@@ -1,1 +1,0 @@
-VLADIMIR IGOREVICH GUREVICH (Russian: Владимир Игоревич Гуревич) is a prominent scientist, inventor and author in the field of Electrical Engineering with 15 books,[1] more than 200 journal papers[2] and over 100 patents[3] on the topic of relays.

@@ -1,1 +1,0 @@
-PETER MCCABE (born 5 March 1992) is an Irish rugby union player. He plays as a prop. McCabe most recently played professionally for Irish provincial side Connacht in the Pro14. He previously played for his native province of Munster. In addition to playing at professional level, McCabe has represented Cork city club Dolphin in club rugby.[1]

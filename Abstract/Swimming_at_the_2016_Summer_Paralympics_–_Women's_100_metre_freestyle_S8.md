@@ -1,1 +1,0 @@
-The WOMEN'S 100 METRE FREESTYLE S8 event at the 2016 Paralympic Games took place on 11 September 2016, at the Olympic Aquatics Stadium. Two heats were held, with seven swimmers in each. The swimmers with the eight fastest times advanced to the final, which was won by Australia's Maddison Elliott.

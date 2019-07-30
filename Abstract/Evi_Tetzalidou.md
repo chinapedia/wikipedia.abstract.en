@@ -1,1 +1,0 @@
-'''Evdokia Tetzalidou ''' (born 21 February 1990) is a Greek female retired[1][2] water polo player, who played as a centre back for Olympiacos and Ethnikos in Greece. As a player of Olympiacos, Tetzalidou won the 2014–15 LEN Euro League Women,[3] the 2015 Women's LEN Super Cup[4] and the 2014 Women's LEN Trophy.[5] She's also won the 2010 Women's LEN Trophy with Ethnikos.[6]

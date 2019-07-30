@@ -1,1 +1,0 @@
-"ZET 'M OP!" is a single by the Dutch three-piece girl group Lisa, Amy & Shelley. It was released in the Netherlands as a digital download in May 2008, the second single from their first album _300%_ (2008). The song peaked at number 60 on the Dutch Singles Chart.

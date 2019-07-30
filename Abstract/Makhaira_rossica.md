@@ -1,1 +1,0 @@
-_MAKHAIRA ROSSICA_ is an extinct genus and species of a marine reptile belonging to the family Pliosauridae. It lived during the Cretaceous period (Hauterivian epoch, about 130 million years ago), and its fossils have been found in Russia.[1]

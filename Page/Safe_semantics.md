@@ -10,10 +10,10 @@ Safe register has been implemented in many distributed systems.
 
 Description
 
-Safe semantics are defined for a variable with a single writer but multiple readers (SWMR). A SWMR register is safe if each read operation satisfies these properties:Safe_register-no_overalapping.jpg
+Safe semantics are defined for a variable with a single writer but multiple readers (SWMR). A SWMR register is safe if each read operation satisfies these properties:
 
 1.  A read operation not concurrent with any write operation returns the value written by the latest write operation.
-2.  A read operation that is concurrent with a write operation may return any value within the register's allowed range of values (for example, 0,1,2,...). Safe_register-overallping.jpg
+2.  A read operation that is concurrent with a write operation may return any value within the register's allowed range of values (for example, 0,1,2,...).
 
 In particular, given concurrency of a read and a write operation, the read can return a value that has not been written by a write. The return value need only belong to the register domain.
 
@@ -51,13 +51,11 @@ A server (_si_) that wants to enter a server system broadcasts an inquiry messag
 
 Read
 
-The read algorithm is a basic version of join. The difference is the broadcast mechanism used by the read operation. A client (_cw_) broadcasts a message to the system and once a server receives the inquiry, it sends a reply message to the client. Once the client receives enough replies (n-f-j) it stops sending an inquiry.centre
+The read algorithm is a basic version of join. The difference is the broadcast mechanism used by the read operation. A client (_cw_) broadcasts a message to the system and once a server receives the inquiry, it sends a reply message to the client. Once the client receives enough replies (n-f-j) it stops sending an inquiry.
 
 Write
 
 Client (_cw_) sends an inquiry into the system in different rounds and waits until it receives two acknowledgment. (_sn_ =sequence number)
-
-Write_operation.jpg Write2.jpg
 
 The reason for receiving two acknowledgments is to avoid danger in a system. When a process sends an acknowledgement (_ack_), it may die after one millisecond.Therefore, no confirmation is received by the client.
 
@@ -69,7 +67,7 @@ were _B_ is the number of Byzantine failures.
 
 Proof : Red region indicates (Qw∩Qr)\B and the blue region indicates Qr∩B. From the assumption, the size of each quorum is n-f-j, so the red region has n-3f-2j active servers. Therefore
 
-n − 3f − 2J > f −  −  > n > 4f + 2J −  −  > nis strictly greater than f. Validity.jpg
+n − 3f − 2J > f −  −  > n > 4f + 2J −  −  > nis strictly greater than f.
 
 
 Notes

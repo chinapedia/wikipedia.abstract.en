@@ -1,1 +1,0 @@
-_GHOURI EXPRESS_ () is a passenger train operated daily by Pakistan Railways between Lahore and Faisalabad.[1] The trip takes approximately 2 hours, 10 minutes to cover a published distance of , traveling along a stretch of the Karachi–Peshawar Railway Line, Shahdara Bagh–Sangla Hill Branch Line and Khanewal–Wazirabad Branch Line.

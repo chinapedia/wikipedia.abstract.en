@@ -1,1 +1,0 @@
-The MORSE THEATER operated in the East Rogers Park neighborhood of Chicago from 1912 until 1930. Since then, it has operated as the Co-Ed Theater, a synagogue, a cobbler, a jazz club, and most recently in 2010, it reopened as the MAYNE STAGE.

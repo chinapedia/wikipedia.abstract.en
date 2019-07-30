@@ -1,4 +1,4 @@
-Michelsonmorley-boxplot.svg of the Michelson–Morley experiment, showing several summary statistics.]]
+of the Michelson–Morley experiment, showing several summary statistics.]]
 
 In descriptive statistics, SUMMARY STATISTICS are used to summarize a set of observations, in order to communicate the largest amount of information as simply as possible. Statisticians commonly try to describe the observations in
 

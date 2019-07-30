@@ -1,1 +1,0 @@
-_THE BOSTON TEA PARTY_ is a 1908 silent film directed by Edwin S. Porter, and produced and distributed by Edison Studios. The film is a fictionalized depiction of the events of the Boston Tea Party.[1] It was the film debut of actor Charles Stanton Ogle.[2]

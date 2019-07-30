@@ -1,1 +1,0 @@
-MEGA is a unit prefix in metric systems of units denoting a factor of one million (10⁶ or {{gaps). It has the unit symbol M. It was confirmed for use in the International System of Units (SI) in 1960. _Mega_ comes from .[1]

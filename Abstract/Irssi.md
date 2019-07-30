@@ -1,1 +1,0 @@
-IRSSI ( (audio)) is an IRC client program for Linux, FreeBSD, macOS and Microsoft Windows. It was originally written by Timo Sirainen, and released under the terms of the GNU General Public License in January 1999.[1]

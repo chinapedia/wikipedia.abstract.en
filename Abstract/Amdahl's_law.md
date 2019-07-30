@@ -1,1 +1,0 @@
-  AmdahlsLaw.svg

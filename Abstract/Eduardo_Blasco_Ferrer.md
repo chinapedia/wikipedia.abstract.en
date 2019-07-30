@@ -1,1 +1,0 @@
-EDUARDO BLASCO FERRER (Barcelona, 1956 – Bastia, 12 January 2017) was a Spanish-Italian linguist and a professor at the University of Cagliari, Sardinia.[1] He is best known as the author of several studies about the Paleo-Sardinian and Sardinian language.[2]

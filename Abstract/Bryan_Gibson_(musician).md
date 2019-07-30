@@ -1,1 +1,0 @@
-BRYAN GIBSON (born Bryan Frederick Gibson; December 31, 1980) is an American producer, composer, and multi-instrumentalist, best known as the cellist, pianist, and mandolinist, accompanying Chris Cornell [1] on the "Higher Truth" world tour. He is also known as the founder, songwriter, and lead guitarist for the rock band I Nine.[2]

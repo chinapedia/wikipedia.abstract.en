@@ -1,1 +1,0 @@
-Kalkitoxin.jpg KALKITOXIN, a lipopeptide derived from the cyanobacterium _Lyngbya majuscula_, induces NMDA receptor mediated neuronal necrosis, blocks voltage-dependent sodium channels, and induces cellular hypoxia by inhibiting the electron transport chain (ETC) complex 1.

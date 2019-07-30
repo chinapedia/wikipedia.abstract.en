@@ -45,7 +45,7 @@ Rules variations
 
 Scoring
 
-Same_GNOME_704.png Most versions of the game give (n − k)² points for removing n tiles at once, where k = 1 or 2, depending on the implementation. For instance, _Insane Game_ for Texas Instruments calculators uses (n − 1)²; Ikuo Hirohata's implementation uses the formula n² − 3n + 4. The _Bubble Breaker_ implementation for Windows Mobile uses the n(n − 1) formula. The 2001 version released by Jeff Reno uses the formula n(n − 2).
+Most versions of the game give (n − k)² points for removing n tiles at once, where k = 1 or 2, depending on the implementation. For instance, _Insane Game_ for Texas Instruments calculators uses (n − 1)²; Ikuo Hirohata's implementation uses the formula n² − 3n + 4. The _Bubble Breaker_ implementation for Windows Mobile uses the n(n − 1) formula. The 2001 version released by Jeff Reno uses the formula n(n − 2).
 
 Some versions also offer a large bonus for removing all blocks from the screen, or leaving no more than a certain number of blocks. Others reduce the final score based on the number of blocks remaining at the end of the game. Some game versions award bonus points for clearing the field quickly, encouraging faster play. The faster the player finishes the level, the bigger the bonus. Still others offer combination, or _chain_, bonuses for clearing the same color of blocks two or more times in succession.
 
@@ -68,7 +68,7 @@ In games without a goal score, like _Bonkers for iPhone_ and SameGameBros for iP
 
 Visuals
 
-SameGame.jpg Blocks typically appear as colored squares, circles, or spheres. Some variations use gradient shading to give the illusion of dimensionality. Other tile themes, or _skins_, include animals, hearts, stars, faces, Lego blocks, and jelly bears. Designs may follow a theme, such as Christmas or monochrome. Most games have only one skin, but others allow choosing from multiple skins.
+Blocks typically appear as colored squares, circles, or spheres. Some variations use gradient shading to give the illusion of dimensionality. Other tile themes, or _skins_, include animals, hearts, stars, faces, Lego blocks, and jelly bears. Designs may follow a theme, such as Christmas or monochrome. Most games have only one skin, but others allow choosing from multiple skins.
 
 There is a special visual aspect in some versions; instead of separate blocks, games like _iDrops_ and _SameGameManiak_ feature bordered areas for adjacent blocks of the same color. Some have elaborate tile graphics, featuring pictures or patterns inside the tile, like _KSame_ and _Same GNOME_.
 

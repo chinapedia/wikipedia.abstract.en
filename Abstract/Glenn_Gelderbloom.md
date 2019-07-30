@@ -1,1 +1,0 @@
-GLENN KENNETH GELDERBLOOM (born 11 December 1969)[1] is a South African former professional rugby union centre who played in two Heineken Cup finals for Leicester Tigers in 2001 and 2002. Gelderbloom played 74 games between 2000 and 2004 for Leicester during which time he played in two Premiership title winning campaigns.

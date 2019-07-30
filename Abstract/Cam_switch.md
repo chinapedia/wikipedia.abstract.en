@@ -1,1 +1,0 @@
-Werkschakelaar.jpg CAM SWITCHES are mainly used within the low voltage range. On a shaft, switching cams are made of abrasion-resistant conductive material. By rotating the shaft, the contacts are opened or closed by the cams. Often, a plurality of cams are seated on a shaft, which simultaneously switch or switch several pairs of contacts.[1]

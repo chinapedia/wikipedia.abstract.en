@@ -1,1 +1,0 @@
-STEPPING STONE EDUCATIONAL CENTRE is a private school for boys and girls located in the neighbourhood of D-line in Port Harcourt, Rivers State. It offers pre-elementary, elementary, junior high school and senior high school level education.[1]

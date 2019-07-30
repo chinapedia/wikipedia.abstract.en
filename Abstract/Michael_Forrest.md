@@ -1,1 +1,0 @@
-MICHAEL FORREST (July 1932 – 21 December 2004) was a Welsh television actor. He appeared in many British television series and films, which include _Sir Francis Drake_, _Z-Cars_, _Danger Man_, _The Saint_, _The Avengers_, _UFO_, _The Rivals of Sherlock Holmes_, _Doomwatch_, _Who Dares Wins_, _Armour of God_ and others.

@@ -1,1 +1,0 @@
-A NATURALISTIC PLANNED LANGUAGE is a constructed language specifically devised to reproduce the commonalities in morphology and vocabulary from a group of closely related languages, usually with the idea that such a language will be relatively easier to use passively -- in many cases, without prior study -- by speakers of one or more languages in the group.

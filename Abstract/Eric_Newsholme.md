@@ -1,1 +1,0 @@
-ERIC ARTHUR NEWSHOLME (19 May 1935 - 17 March 2011)[1] was a biochemist who specialised in human metabolism. He was a Fellow of Merton College, Oxford from 1973 until his retirement in 1995, and published a number of seminal textbooks and research papers.[2]

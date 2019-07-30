@@ -1,1 +1,0 @@
-The 2016 MILITARY BOWL was a postseason college football bowl game, played at Navy–Marine Corps Memorial Stadium in Annapolis, Maryland, on December 27, 2016.[1] The ninth edition of the Military Bowl featured the American Athletic Conference champion Temple Owls versus the Wake Forest Demon Deacons of Atlantic Coast Conference.[2]

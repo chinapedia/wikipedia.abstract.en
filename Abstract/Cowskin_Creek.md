@@ -1,1 +1,0 @@
-COWSKIN CREEK is a stream in northwest Douglas and extreme southeastern Webster counties of Missouri.[1] Cowskin has its headwaters in southeast Webster County west of Cedar Gap and is a tributary to Beaver Creek which it joins just west of the Arno store. The stream is bridged by Missouri Route 14 just east of the junction with Missouri Route K.[2]

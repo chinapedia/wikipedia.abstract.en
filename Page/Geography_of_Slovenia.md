@@ -4,8 +4,6 @@ The term "Karst" originated in southwestern Slovenia's Karst Plateau (), a limes
 
 On the Pannonian plain to the East and Northeast, toward the Croatian and Hungarian borders, the landscape is essentially flat. However, the majority of Slovenian terrain is hilly or mountainous, with around 90% of the surface 200 meters or more above sea level.
 
-General_map_of_slovenia.svg
-
 
 Location
 
@@ -14,7 +12,7 @@ Slovenia's location is where southeastern and Central Europe meet, where the Eas
 
 Geographic coordinates
 
-Blejsko_jezero.jpg]] Extreme geographical points of Slovenia:
+]] Extreme geographical points of Slovenia:
 
 -   North: , Municipality of Šalovci,
 -   South: , Municipality of Črnomelj,
@@ -31,7 +29,7 @@ Since 2016, the geodetic system of Slovenia with the elevation benchmark of 0 m 
 
 Area
 
-Triglav.jpg Peak]]
+Peak]]
 
 -   TOTAL: 20,273 km²
 -   LAND: 20,151 km²
@@ -59,7 +57,7 @@ Regions
 
 Historical regions
 
-Slo_regions_marked3.png The traditional Slovenian regions, based on the former division of Slovenia into the four Habsburg crown lands of (Carniola, Carinthia, Styria, and the Littoral) and their parts, are:
+The traditional Slovenian regions, based on the former division of Slovenia into the four Habsburg crown lands of (Carniola, Carinthia, Styria, and the Littoral) and their parts, are:
 
 -   Upper Carniola (_Gorenjska_) (denoted on the map by U.C.)
 -   Styria (_Štajerska_) (S)
@@ -77,7 +75,7 @@ Slovenian Littoral has no natural island, but there is a plan on building an art
 
 Climate
 
-Slovenia_Köppen.svg types of Slovenia]] Humid subtropical climate (Cfa) on the coast, oceanic climate (Cfb) in most of Slovenia, continental climate with mild to hot summers and cold winters (Dfb) in the plateaus and mountains on the north, subpolar (Dfc) and tundra (ET) climate above the treeline on the highest mountain peaks. Precipitation is high away from the coast, with the spring being particularly prone to rainfall. Slovenia's Alps have frequent snowfalls during the winter.[6] [7]
+types of Slovenia]] Humid subtropical climate (Cfa) on the coast, oceanic climate (Cfb) in most of Slovenia, continental climate with mild to hot summers and cold winters (Dfb) in the plateaus and mountains on the north, subpolar (Dfc) and tundra (ET) climate above the treeline on the highest mountain peaks. Precipitation is high away from the coast, with the spring being particularly prone to rainfall. Slovenia's Alps have frequent snowfalls during the winter.[6] [7]
 
 
 Terrain

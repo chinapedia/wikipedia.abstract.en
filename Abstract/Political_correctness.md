@@ -1,1 +1,0 @@
-The term POLITICAL CORRECTNESS (adjectivally: POLITICALLY CORRECT; commonly abbreviated PC) is used to describe language, policies, or measures that are intended to avoid offense or disadvantage to members of particular groups in society.For definitions, see:

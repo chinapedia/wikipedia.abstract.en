@@ -19,7 +19,7 @@ Organization and recognition
 
 For about 20 years, the Adventist movement consisted of a small, loosely knit group of people who came from many churches and whose primary means of connection and interaction was through James White's periodical _The Advent Review and Sabbath Herald_. They embraced the doctrines of the Sabbath, the heavenly sanctuary interpretation of Daniel 8:14, conditional immortality, and the expectation of Christ's premillennial return. Among its most prominent figures were Joseph Bates, James White, and Ellen G. White. Ellen White came to occupy a particularly central role; her many visions and spiritual leadership convinced her fellow Adventists that she possessed the gift of prophecy.
 
-Takoma_Park_Seventh-day_Adventist_Church.JPG.]] The church was formally established in Battle Creek, Michigan, on May 21, 1863, with a membership of 3,500.[14] The denominational headquarters were later moved from Battle Creek to Takoma Park, Maryland, where they remained until 1989. The General Conference headquarters then moved to its current location in Silver Spring, Maryland.
+.]] The church was formally established in Battle Creek, Michigan, on May 21, 1863, with a membership of 3,500.[14] The denominational headquarters were later moved from Battle Creek to Takoma Park, Maryland, where they remained until 1989. The General Conference headquarters then moved to its current location in Silver Spring, Maryland.
 
 The denomination in the 1870s turned to missionary work and revivals, tripling its membership to 16,000 by 1880 and establishing a presence beyond North America during the late 19th century. Rapid growth continued, with 75,000 members in 1901. By this time the denomination operated two colleges, a medical school, a dozen academies, 27 hospitals, and 13 publishing houses. By 1945, the church reported 210,000 members in the US and Canada, and 360,000 elsewhere; the budget was $29 million and enrollment in church schools was 140,000.[15]
 
@@ -84,7 +84,7 @@ Since the 1860s when the church began, wholeness and health have been an emphasi
 
 The church discourages its members from consuming alcoholic beverages, tobacco or illegal drugs (compare Christianity and alcohol). In addition, some Adventists avoid coffee, tea, cola, and other beverages that contain caffeine.
 
-San_health_food.jpg products for sale]] The pioneers of the Adventist Church had much to do with the common acceptance of breakfast cereals into the Western diet, and the "modern commercial concept of cereal food" originated among Adventists.[47] John Harvey Kellogg was one of the early founders of Adventist health work. His development of breakfast cereals as a health food led to the founding of Kellogg's by his brother William. In both Australia and New Zealand, the church-owned Sanitarium Health and Wellbeing Company is a leading manufacturer of health and vegetarian-related products, most prominently Weet-Bix.
+products for sale]] The pioneers of the Adventist Church had much to do with the common acceptance of breakfast cereals into the Western diet, and the "modern commercial concept of cereal food" originated among Adventists.[47] John Harvey Kellogg was one of the early founders of Adventist health work. His development of breakfast cereals as a health food led to the founding of Kellogg's by his brother William. In both Australia and New Zealand, the church-owned Sanitarium Health and Wellbeing Company is a leading manufacturer of health and vegetarian-related products, most prominently Weet-Bix.
 
 Research funded by the U.S. National Institutes of Health has shown that the average Adventist in California lives 4 to 10 years longer than the average Californian. The research, as cited by the cover story of the November 2005 issue of _National Geographic_, asserts that Adventists live longer because they do not smoke or drink alcohol, have a day of rest every week, and maintain a healthy, low-fat vegetarian diet that is rich in nuts and beans.[48][49] The cohesiveness of Adventists' social networks has also been put forward as an explanation for their extended lifespan.[50] Since Dan Buettner's 2005 _National Geographic_ story about Adventist longevity, his book, _The Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest_, named Loma Linda, California a "Blue Zone" because of the large concentration of Seventh-day Adventists. He cites the Adventist emphasis on health, diet, and Sabbath-keeping as primary factors for Adventist longevity.[51][52]
 
@@ -132,14 +132,12 @@ After a person enters 9th grade, he or she is eligible to join Teen Leadership T
 
 Youth camps
 
-Lake_Whitney_from_Lake_Whitney_Ranch.jpg Seventh-day Adventist camp]]
+Seventh-day Adventist camp]]
 
 The Seventh-day Adventist Church operates youth camps all over North America and many other parts of the world. Each camp varies in the activities they offer but most have archery, swimming, horses, arts and crafts, nature, high ropes challenge course, and many other common camp activities. In addition to regular camps some have specialty camps, or RAD camps, which vary in their activities such as a week of nature nuggets, surfing, waterskiing/wakeboarding, rock climbing, golf, skateboarding, whitewater rafting, mountain biking, cycling, or basketball.
 
 
 Organization
-
-Loma_Linda_University_Church_01.jpg
 
 Structure and polity
 
@@ -156,7 +154,7 @@ Tithes collected from church members are not used directly by the local churches
 
 The Church Manual[76] gives provisions for each level of government to create educational, healthcare, publishing, and other institutions that are seen within the call of the Great Commission.
 
-DSCN2842_campionchurch_e_600.jpg]]
+]]
 
 Church officers and clergy
 
@@ -170,7 +168,7 @@ Although the church has no written policy forbidding the ordination of women, it
 
 Membership
 
-Ratio_of_Seventh_Day_Adventist_membership_to_world_population..svg Seventh-day_Adventists_per_million_inhabitants_by_Country.svg The primary prerequisite for membership in the Adventist church is baptism by immersion. This, according to the church manual, should occur only after the candidate has undergone proper instruction on what the church believes.[80]
+The primary prerequisite for membership in the Adventist church is baptism by immersion. This, according to the church manual, should occur only after the candidate has undergone proper instruction on what the church believes.[80]
 
 As of December 31, 2016, the church has 20,008,779 baptized members.[81] Between 2005 and 2015, around half a million people per year have joined the Adventist church, through baptisms and professions of faith.[82][83] The church is one of the world's fastest-growing organizations, primarily from membership increases in developing nations. Today, less than 7% of the world membership reside in the United States, with large numbers in Africa as well as Central and South America. Depending on how the data was measured, it is reported that church membership reached 1 million between 1955 and 1961, and grew to five million in 1986. At the turn of the 21st century the church had over 10 million members, which grew to over 14 million in 2005, 16 million in 2009, and 19 million in 2015.[84] It is reported that today over 25 million people worship weekly in Seventh-day Adventist churches worldwide.[85] The church operates in 202 out of 230 countries and areas recognized by the United Nations,[86] making it "probably the most widespread Protestant denomination".[87]
 
@@ -189,13 +187,13 @@ The Geoscience Research Institute, based at Loma Linda University, was founded i
 
 Adventist mission
 
-Mozambique_baptism1.JPG.]]
+.]]
 
 Started in the late 19th century, Adventist mission work today reaches people in over 200 countries and territories.[91] Adventist mission workers seek to preach the gospel, promote health through hospitals and clinics, run development projects to improve living standards, and provide relief in times of calamity.[92]
 
 Missionary outreach of the Seventh-day Adventist Church is aimed not only at non-Christians but also at Christians from other denominations. Adventists believe that Christ has called his followers in the Great Commission to reach the whole world. Adventists are cautious, however, to ensure that evangelism does not impede or intrude on the basic rights of the individual. Religious liberty is a stance that the Adventist Church supports and promotes.[93]
 
-Andrews_University.jpg, the flagship higher education center of the Adventist church]]
+, the flagship higher education center of the Adventist church]]
 
 Education
 
@@ -205,7 +203,7 @@ The largest (in terms of population) Seventh-day Adventist university in the wor
 
 Health
 
-Adventists run a large number of hospitals and health-related institutions. Their largest medical school and hospital in North America is Loma Linda University and its attached Medical Center. Throughout the world, the church runs a wide network of hospitals, clinics, lifestyle centers, and sanitariums. These play a role in the church's health message and worldwide missions outreach.[97] LLU_Medical_Center.jpg]]
+Adventists run a large number of hospitals and health-related institutions. Their largest medical school and hospital in North America is Loma Linda University and its attached Medical Center. Throughout the world, the church runs a wide network of hospitals, clinics, lifestyle centers, and sanitariums. These play a role in the church's health message and worldwide missions outreach.[97] ]]
 
 Adventist Health System is the largest not-for-profit multi-institutional Protestant healthcare system in the United States. It is sponsored by the Seventh-day Adventist Church and cares for over 4 million patients yearly.
 
@@ -221,7 +219,7 @@ For over 120 years, The Adventist church has actively promoted freedom of religi
 
 Media
 
-Hope-logo.jpg logo]] Adventists have long been proponents of media-based ministries. Traditional Adventist evangelistic efforts consisted of street missions and the distribution of tracts such as _The Present Truth_, which was published by James White as early as 1849. Until J. N. Andrews was sent to Switzerland in 1874, Adventist global efforts consisted entirely of the posting of tracts such as White's to various locations.
+logo]] Adventists have long been proponents of media-based ministries. Traditional Adventist evangelistic efforts consisted of street missions and the distribution of tracts such as _The Present Truth_, which was published by James White as early as 1849. Until J. N. Andrews was sent to Switzerland in 1874, Adventist global efforts consisted entirely of the posting of tracts such as White's to various locations.
 
 In the last century, these efforts have also made use of emerging media such as radio and television. The first of these was H. M. S. Richards' radio show _Voice of Prophecy_, which was initially broadcast in Los Angeles in 1929. Since then, Adventists have been on the forefront of media evangelism; _It Is Written_, founded by George Vandeman, was the first religious program to air on color television and the first major Christian ministry to utilize satellite uplink technology. Today the _Hope Channel_, the official television network of the church, operates 8 international channels broadcasting 24 hours a day on cable, satellite, and the Web.[102]
 
@@ -235,7 +233,7 @@ In 2016, the Church released the film _Tell the World_.[106]
 
 Publishing
 
-Review_and_herald_1868.jpg The Adventist Church owns and operates many publishing companies around the world. Two of the largest are the Pacific Press and Review and Herald publishing associations, both located in the United States. The _Review and Herald_ is headquartered in Hagerstown, Maryland.[107]
+The Adventist Church owns and operates many publishing companies around the world. Two of the largest are the Pacific Press and Review and Herald publishing associations, both located in the United States. The _Review and Herald_ is headquartered in Hagerstown, Maryland.[107]
 
 The official church magazine is the _Adventist Review_, which has a North American focus. It has a sister magazine (_Adventist World_), which has an international perspective. Another major magazine published by the church is the bimonthly _Liberty_ magazine, which addresses issues pertaining to religious freedom.
 
@@ -262,7 +260,7 @@ Later on, Martin planned to write a new book on Seventh-day Adventism, with the 
 
 Ellen G. White and her status
 
-Egw1899.jpg Ellen G. White's status as a modern-day prophet has also been criticized. In the _Questions on Doctrine_ era, evangelicals expressed concern about Adventism's understanding of the relationship of White's writings to the inspired canon of Scripture.[120] The Adventist fundamental beliefs maintain that "the Bible is the standard by which all teaching and experience must be tested."[121]
+Ellen G. White's status as a modern-day prophet has also been criticized. In the _Questions on Doctrine_ era, evangelicals expressed concern about Adventism's understanding of the relationship of White's writings to the inspired canon of Scripture.[120] The Adventist fundamental beliefs maintain that "the Bible is the standard by which all teaching and experience must be tested."[121]
 
 A common criticism of Ellen White, widely popularized by Walter T. Rea, Ronald Numbers and others, is the claim of plagiarism from other authors.[122][123][124] An independent lawyer specializing in plagiarism, Vincent L. Ramik, was engaged to undertake a study of Ellen G. White's writings during the early 1980s, and concluded that they were "conclusively unplagiaristic".[125] When the plagiarism charge ignited a significant debate during the late 1970s and early 1980s, the Adventist General Conference commissioned a major study by Dr. Fred Veltman. The ensuing project became known as the {{"'}}Life of Christ' Research Project". The results are available at the General Conference Archives.[126] Dr. Roger W. Coon,[127] David J. Conklin,[128] Dr. Denis Fortin,[129][130] King and Morgan,[131] and Morgan,[132] among others, undertook the refutation of the accusations of plagiarism. At the conclusion of his report, Ramik states:
 

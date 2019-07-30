@@ -1,1 +1,0 @@
-Amethystemadagascar2.jpg quartz]] Crystalline_polycrystalline_amorphous2.svg has atoms in a near-perfect periodic arrangement; a polycrystal is composed of many microscopic crystals (called "crystallites" or "grains"); and an amorphous solid (such as glass) has no periodic arrangement even microscopically.]]

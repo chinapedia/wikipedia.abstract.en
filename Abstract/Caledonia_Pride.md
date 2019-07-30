@@ -1,1 +1,0 @@
-CALEDONIA PRIDE are a Scottish women's basketball team based in Edinburgh. They are the first women's professional basketball team in Scotland, competing in the Women's British Basketball League (WBBL) since September 2016.

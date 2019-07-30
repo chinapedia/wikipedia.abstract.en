@@ -1,1 +1,0 @@
-NOLAN SEEGERT (born 11 July 1992) is a German pair skater. With his skating partner, Minerva Fabienne Hase, he has won eleven international medals, including bronze at two ISU Challenger Series events, and competed at four ISU Championships.

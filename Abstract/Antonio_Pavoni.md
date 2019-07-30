@@ -1,1 +1,0 @@
-Blessed ANTONIO PAVONI (c. 1325 - 9 April 1374) was an Italian Roman Catholic priest and a professed member from the Order of Preachers.[1] He served as an inquisitor-general for Pope Urban V in combatting Waldensians in the Lombard region but the Waldensians succeeded in killing him in an ambush as he presided over a sermon just after Easter in 1374.[2]

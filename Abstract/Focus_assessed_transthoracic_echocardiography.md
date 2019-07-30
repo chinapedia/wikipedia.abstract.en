@@ -1,1 +1,0 @@
-FOCUS ASSESSED TRANSTHORACIC ECHOCARDIOGRAPHY (or FATE) is a type of transthoracic echocardiogram, or sonogram of the heart, often performed by non-cardiologist. The protocol has been used since 1989 and has four projections; subcostal four-chamber, apical four-chamber, parasternal long axis and parasternal short axis.

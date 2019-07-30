@@ -1,1 +1,0 @@
-IGNACIO SOLANO CABELLO (born 17 June 1977) is a Spanish biologist, landscaper and expert on biological interactions. He is recognized for the creation of (and holds the patent for) Vertical Ecosystems, an innovative concept in the design and construction of green walls .[1]

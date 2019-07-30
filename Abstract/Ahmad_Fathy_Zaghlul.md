@@ -1,1 +1,0 @@
-AHMAD FATHY ZAGHLUL (1863–1914) was an Egyptian nationalist lawyer and politician. The brother of Saad Zaghloul, Fathy Zahlul studied law in Paris and wrote several law texts. He had several administrative and government posts, and at one point was Deputy Minister of Justice.

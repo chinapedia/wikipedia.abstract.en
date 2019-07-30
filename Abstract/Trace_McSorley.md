@@ -1,1 +1,0 @@
-RICHARD THOMAS "TRACE" MCSORLEY III (born August 23, 1995) is an American football quarterback for the Baltimore Ravens of the National Football League (NFL). He played college football at Penn State.[1]

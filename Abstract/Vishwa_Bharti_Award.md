@@ -1,1 +1,0 @@
-'''Vishwa Bharti Award ''' is the highest award of the Indian state of Uttar Pradesh Sanskrit Sansthan in Lucknow. It is awarded to leading contributors in the field of literature in Sanskrit, Pali and Prakrat.

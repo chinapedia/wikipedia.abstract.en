@@ -1,1 +1,0 @@
-The INAUGURATION OF EZENWO NYESOM WIKE as the 6th Governor of Rivers State took place on Friday, 29 May 2015 at the Liberation Stadium in Elekahia, Port Harcourt.[1] The ceremony marked the beginning of the first four-year term of Ezenwo Nyesom Wike as Governor and Ipalibo Banigo as Deputy Governor.[2]

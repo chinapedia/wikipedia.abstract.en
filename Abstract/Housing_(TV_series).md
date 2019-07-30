@@ -1,1 +1,0 @@
-HOUSING(Chinese: 安居), is a highly popular 2016 Chinese TV series produced by Shandong Television Media Group.The TV series, based on the events of shantytown renewal in Beiliang, Baotou, Inner Mongolia autonomous region, has brought the project back into the limelight.[1]

@@ -1,1 +1,0 @@
-WILLIAM ALEXANDER HEWITT (August 9, 1914 – May 16, 1998) was the former chairman of Deere & Company of Moline, Illinois, and the last of the Deere Family to run the company.[1] He served as United States Ambassador to Jamaica from 1982–1985.

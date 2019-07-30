@@ -1,1 +1,0 @@
-_THE ART PEPPER QUARTET_ is an album by saxophonist Art Pepper featuring sessions from 1956 recorded for the Tampa label.[1][2] The album was rereleased on CD on Original Jazz Classics with bonus tracks in 1994.

@@ -1,4 +1,4 @@
-Sphere_wireframe_10deg_6r.svg of a sphere]] A SPHERE (from Greek —, "globe, ball"[1]) is a perfectly round geometrical object in three-dimensional space that is the surface of a completely round ball (viz., analogous to the circular objects in two dimensions, where a "circle" circumscribes its "disk").
+of a sphere]] A SPHERE (from Greek —, "globe, ball"[1]) is a perfectly round geometrical object in three-dimensional space that is the surface of a completely round ball (viz., analogous to the circular objects in two dimensions, where a "circle" circumscribes its "disk").
 
 Like a circle in a two-dimensional space, a sphere is defined mathematically as the set of points that are all at the same distance from a given point, but in a three-dimensional space.[2] This distance is the radius of the ball, which is made up from all points with a distance less than (or, for a closed ball, less than _or equal to_) from the given point, which is the center of the mathematical ball. These are also referred to as the radius and center of the sphere, respectively. The longest straight line segment through the ball, connecting two points of the sphere, passes through the center and its length is thus twice the radius; it is a diameter of both the sphere and its ball.
 
@@ -6,8 +6,6 @@ While outside mathematics the terms "sphere" and "ball" are sometimes used inter
 
 
 Equations in three-dimensional space
-
-Sphere_and_Ball.png
 
 In analytic geometry, a sphere with center and radius is the locus of all points such that
 
@@ -42,8 +40,6 @@ A sphere can also be constructed as the surface formed by rotating a circle abou
 
 
 Enclosed volume
-
-Esfera_Arquímedes0.svg
 
 In three dimensions, the volume inside a sphere (that is, the volume of a ball, but classically referred to as the volume of a sphere) is
 

@@ -1,1 +1,0 @@
-JACOB NEUSNER (July 28, 1932 – October 8, 2016)[1] was an American academic scholar of Judaism. He was named as one of the most published authors in history, having written or edited more than 900 books.[2][3][4]

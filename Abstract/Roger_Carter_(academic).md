@@ -1,1 +1,0 @@
-ROGER COLENSO CARTER (March 23, 1922 – February 10, 2009)[1] was a practising lawyer, law professor and Dean of the University of Saskatchewan College of Law. He is particularly notable for his contribution to enhanced access to legal education by aboriginal students.[2]

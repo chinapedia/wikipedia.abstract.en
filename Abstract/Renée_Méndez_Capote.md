@@ -1,1 +1,0 @@
-RENÉE MÉNDEZ CAPOTE Y CHAPLE (12 November 1901 – 14 May 1989), also known by the pseudonyms IO-SAN, BERENGUELA, and SUZANNE, was a Cuban writer, essayist, journalist, translator, suffragist, and feminist activist.[1][2][3][4] She worked in children's literature, short stories, essays, and biographies.[5]

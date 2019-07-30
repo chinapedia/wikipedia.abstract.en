@@ -1,1 +1,0 @@
-HEALTHE, the creator of Eyesafe, is an American technology company. Its products are designed to minimize the risks of visual impairment, insomnia, and other health problems associated with blue light produced by digital devices.[1]

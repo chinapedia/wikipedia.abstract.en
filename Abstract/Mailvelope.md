@@ -1,1 +1,0 @@
-MAILVELOPE is a free software for end-to-end encryption of email traffic inside of a web browser (Firefox or Chromium) that integrates itself into existing webmail applications ("email websites"). It can be used to encrypt and sign electronic messages, including attached files, without the use of a separate, native email client (like Thunderbird) using the OpenPGP standard.

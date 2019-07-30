@@ -1,1 +1,0 @@
-ILIR ALLIU (born 14 March 1973) is a former footballer who played for KF Tirana, Teuta Durrës, Flamurtari Vlorë, KF Elbasani as well as the Albania national team. He became the director of Sopoti Librazhd in March 2004 following his retirement but has since left the role.[1][2]

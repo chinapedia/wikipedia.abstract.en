@@ -1,1 +1,0 @@
-FOREIGN RELATIONS OF AFGHANISTAN are handled by the nation's Ministry of Foreign Affairs, which is headed by Salahuddin Rabbani. He answers to, and receives guidance from, the President of Afghanistan, Ashraf Ghani.

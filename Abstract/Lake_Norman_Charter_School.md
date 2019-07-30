@@ -1,1 +1,0 @@
-LAKE NORMAN CHARTER SCHOOL is a public charter school in Huntersville, North Carolina. Founded in 1998, it is one of the oldest and largest charter schools in the state. The high school and middle school are on adjacent campuses near downtown Huntersville. The school has brought together a diverse variety of students who are admitted through a non-weighted lottery system.

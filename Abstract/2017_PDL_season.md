@@ -1,1 +1,0 @@
-The 2017 USL PREMIER DEVELOPMENT LEAGUE SEASON is the 23rd season of the PDL. The Michigan Bucks entered the season as the defending champions, but their title defense campaign ended with a loss in the Central Conference semi-finals. On August 5, 2017, the Charlotte Eagles won their first PDL championship by defeating the Thunder Bay Chill 2-1.

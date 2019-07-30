@@ -1,1 +1,0 @@
-The ATARI 5200 SUPERSYSTEM, commonly known as the ATARI 5200, is a home video game console that was introduced in 1982 by Atari Inc. as a higher-end complementary console for the popular Atari 2600.[1] The 5200 was created to compete with the Intellivision, but wound up more directly competing with the ColecoVision shortly after its release.[2]

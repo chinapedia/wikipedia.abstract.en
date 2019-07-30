@@ -1,1 +1,0 @@
-The 1989 GREENLANDIC MEN'S FOOTBALL CHAMPIONSHIP was the 19th edition of the Greenlandic Men's Football Championship. The final round was held in Qaqortoq. It was won by Kagssagssuk Maniitsoq for the first time in its history.[1]

@@ -1,1 +1,0 @@
-In graph theory, the GIRTH of a graph is the length of a shortest cycle contained in the graph.[1] If the graph does not contain any cycles (i.e. it's an acyclic graph), its girth is defined to be infinity.[2] For example, a 4-cycle (square) has girth 4. A grid has girth 4 as well, and a triangular mesh has girth 3. A graph with girth four or more is triangle-free.

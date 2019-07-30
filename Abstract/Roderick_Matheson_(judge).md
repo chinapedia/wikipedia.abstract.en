@@ -1,1 +1,0 @@
-RODERICK (ROD) MATHESON was a Judge of the Supreme Court of South Australia from 9 August 1979 to 4 August 1998. One of his famous cases was that of James Miller for multiple murders known as the Truro murders.

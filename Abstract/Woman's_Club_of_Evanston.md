@@ -1,1 +1,0 @@
-The WOMAN'S CLUB OF EVANSTON is a historic house in Evanston, Illinois and is the headquarters for the social club of the same name. It is located at 1702 Chicago Avenue. On November 9, 2006, the clubhouse was added to the National Register of Historic Places.[1][2]

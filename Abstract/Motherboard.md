@@ -1,1 +1,0 @@
-_Acer_E360_Socket_939_motherboard_by_Foxconn.svg desktop personal computer, showing the typical components and interfaces that are found on a motherboard. This model was made by Foxconn in 2007 and follows the microATX layout (known as the "form factor") usually employed for desktop computers. It is designed to work with AMD's Athlon 64 processor]] Intel_D945GCPE_Board.JPG

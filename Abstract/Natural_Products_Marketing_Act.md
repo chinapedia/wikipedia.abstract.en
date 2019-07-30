@@ -1,1 +1,0 @@
-The NATURAL PRODUCTS MARKETING ACT was passed by the government of R.B. Bennett in 1934. It was the subject of an appeal to the Judicial Committee of the Privy Council, which delivered its judgment on 28 January 1937,[1] along with the repudiations of three labour statutes[2] and the Employment and Social Insurance Act, all passed by Bennett.[3]

@@ -1,1 +1,0 @@
-ANGEL LOUSTALOT was one of the pioneers of Cuban Scouting. In 1914, the first Scout groups in Cuba were founded, and Jules Loustalot, Miguel Ángel Quevedo, Carlos Alzugarai and others wrote up the statutes and began Scout activities.[1]

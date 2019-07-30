@@ -1,1 +1,0 @@
-Lanco}} LANCO, stylized as LANCO,[1] is an American country music band consisting of Brandon Lancaster (lead vocals), Chandler Baldwin (bass guitar), Jared Hampton (keyboards), Tripp Howell (drums), and Eric Steedly (guitar). The band is signed to Arista Nashville.[2] The band's name is short for Lancaster and Company.[3]

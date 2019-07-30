@@ -1,4 +1,4 @@
-Transistorer_(croped).jpg, TO-126, TO-92, SOT-23.]]
+, TO-126, TO-92, SOT-23.]]
 
 A TRANSISTOR is a semiconductor device used to amplify or switch electronic signals and electrical power. It is composed of semiconductor material usually with at least three terminals for connection to an external circuit. A voltage or current applied to one pair of the transistor's terminals controls the current through another pair of terminals. Because the controlled (output) power can be higher than the controlling (input) power, a transistor can amplify a signal. Today, some transistors are packaged individually, but many more are found embedded in integrated circuits.
 
@@ -9,23 +9,17 @@ Most transistors are made from very pure silicon or germanium, but certain other
 
 History
 
-Replica-of-first-transistor.jpg
-
 The thermionic triode, a vacuum tube invented in 1907, enabled amplified radio technology and long-distance telephony. The triode, however, was a fragile device that consumed a substantial amount of power. In 1909 physicist William Eccles discovered the crystal diode oscillator.[10] Physicist Julius Edgar Lilienfeld filed a patent for a field-effect transistor (FET) in Canada in 1925,[11] which was intended to be a solid-state replacement for the triode.[12][13] Lilienfeld also filed identical patents in the United States in 1926[14] and 1928.[15][16] However, Lilienfeld did not publish any research articles about his devices nor did his patents cite any specific examples of a working prototype. Because the production of high-quality semiconductor materials was still decades away, Lilienfeld's solid-state amplifier ideas would not have found practical use in the 1920s and 1930s, even if such a device had been built.[17] In 1934, German inventor Oskar Heil patented a similar device in Europe.[18]
 
-Bardeen_Shockley_Brattain_1948.JPG, William Shockley and Walter Brattain at Bell Labs, 1948]]
+, William Shockley and Walter Brattain at Bell Labs, 1948]]
 
 From November 17, 1947, to December 23, 1947, John Bardeen and Walter Brattain at AT&T's Bell Labs in Murray Hill, New Jersey, performed experiments and observed that when two gold point contacts were applied to a crystal of germanium, a signal was produced with the output power greater than the input.[19] Solid State Physics Group leader William Shockley saw the potential in this, and over the next few months worked to greatly expand the knowledge of semiconductors. The term _transistor_ was coined by John R. Pierce as a contraction of the term _transresistance_.[20][21][22] According to Lillian Hoddeson and Vicki Daitch, authors of a biography of John Bardeen, Shockley had proposed that Bell Labs' first patent for a transistor should be based on the field-effect and that he be named as the inventor. Having unearthed Lilienfeld’s patents that went into obscurity years earlier, lawyers at Bell Labs advised against Shockley's proposal because the idea of a field-effect transistor that used an electric field as a "grid" was not new. Instead, what Bardeen, Brattain, and Shockley invented in 1947 was the first point-contact transistor.[23] In acknowledgement of this accomplishment, Shockley, Bardeen, and Brattain were jointly awarded the 1956 Nobel Prize in Physics "for their researches on semiconductors and their discovery of the transistor effect".[24][25]
-
-Herbert_F._Mataré_1950.png
 
 In 1948, the point-contact transistor was independently invented by German physicists Herbert Mataré and Heinrich Welker while working at the _Compagnie des Freins et Signaux_, a Westinghouse subsidiary located in Paris. Mataré had previous experience in developing crystal rectifiers from silicon and germanium in the German radar effort during World War II. Using this knowledge, he began researching the phenomenon of "interference" in 1947. By June 1948, witnessing currents flowing through point-contacts, Mataré produced consistent results using samples of germanium produced by Welker, similar to what Bardeen and Brattain had accomplished earlier in December 1947. Realizing that Bell Labs' scientists had already invented the transistor before them, the company rushed to get its "transistron" into production for amplified use in France's telephone network.[26]
 
 Shockley's research team initially attempted to build a field-effect transistor (FET), by trying to modulate the conductivity of a semiconductor, but was unsuccessful, mainly due to problems with their materials, copper compounds and germanium. In the course of trying to understand the mysterious reasons behind their failure to build a working FET, this led them to inventing the bipolar point-contact transistor instead.[27]
 
 The first bipolar junction transistors were invented by Bell Labs' William Shockley, which applied for patent (2,569,347) on June 26, 1948. On April 12, 1950, Bell Labs chemists Gordon Teal and Morgan Sparks had successfully produced a working bipolar NPN junction amplifying germanium transistor. Bell Labs had announced the discovery of this new "sandwich" transistor in a press release on July 4, 1951.[28][29]
-
-Philco_Surface_Barrier_transistor=1953.jpg
 
 The first high-frequency transistor was the surface-barrier germanium transistor developed by Philco in 1953, capable of operating up to .[30] These were made by etching depressions into an N-type germanium base from both sides with jets of Indium(III) sulfate until it was a few ten-thousandths of an inch thick. Indium electroplated into the depressions formed the collector and emitter.[31][32]
 
@@ -44,7 +38,7 @@ CMOS (complementary MOS) was invented by Chih-Tang Sah and Frank Wanlass at Fair
 
 Importance
 
-Darlington_transistor_MJ1000.jpg opened up so the actual transistor chip (the small square) can be seen inside. A Darlington transistor is effectively two transistors on the same chip. One transistor is much larger than the other, but both are large in comparison to transistors in large-scale integration because this particular example is intended for power applications.]]
+opened up so the actual transistor chip (the small square) can be seen inside. A Darlington transistor is effectively two transistors on the same chip. One transistor is much larger than the other, but both are large in comparison to transistors in large-scale integration because this particular example is intended for power applications.]]
 
 The transistor is the key active component in practically all modern electronics. Many consider it to be one of the greatest inventions of the 20th century.[61] Its importance in today's society rests on its ability to be mass-produced using a highly automated process (semiconductor device fabrication) that achieves astonishingly low per-transistor costs. The invention of the first transistor at Bell Labs was named an IEEE Milestone in 2009.[62]
 
@@ -57,8 +51,6 @@ The transistor's low cost, flexibility, and reliability have made it a ubiquitou
 
 Simplified operation
 
-Transistor_Simple_Circuit_Diagram_with_NPN_Labels.svg
-
 The essential usefulness of a transistor comes from its ability to use a small signal applied between one pair of its terminals to control a much larger signal at another pair of terminals. This property is called gain. It can produce a stronger output signal, a voltage or current, which is proportional to a weaker input signal; that is, it can act as an amplifier. Alternatively, the transistor can be used to turn current on or off in a circuit as an electrically controlled switch, where the amount of current is determined by other circuit elements.
 
 There are two types of transistors, which have slight differences in how they are used in a circuit. A _bipolar transistor_ has terminals labeled BASE, COLLECTOR, and EMITTER. A small current at the base terminal (that is, flowing between the base and the emitter) can control or switch a much larger current between the collector and emitter terminals. For a _field-effect transistor_, the terminals are labeled GATE, SOURCE, and DRAIN, and a voltage at the gate can control a current between source and drain.
@@ -66,8 +58,6 @@ There are two types of transistors, which have slight differences in how they ar
 The image represents a typical bipolar transistor in a circuit. Charge will flow between emitter and collector terminals depending on the current in the base. Because internally the base and emitter connections behave like a semiconductor diode, a voltage drop develops between base and emitter while the base current exists. The amount of this voltage depends on the material the transistor is made from, and is referred to as _V__(BE).
 
 Transistor as a switch
-
-Transistor_as_switch.svg
 
 Transistors are commonly used in digital circuits as electronic switches which can be either in an "on" or "off" state, both for high-power applications such as switched-mode power supplies and for low-power applications such as logic gates. Important parameters for this application include the current switched, the voltage handled, and the switching speed, characterised by the rise and fall times.
 
@@ -78,8 +68,6 @@ Providing sufficient base drive current is a key problem in the use of bipolar t
 In a switching circuit, the idea is to simulate, as near as possible, the ideal switch having the properties of open circuit when off, short circuit when on, and an instantaneous transition between the two states. Parameters are chosen such that the "off" output is limited to leakage currents too small to affect connected circuitry; the resistance of the transistor in the "on" state is too small to affect circuitry; and the transition between the two states is fast enough not to have a detrimental effect.
 
 Transistor as an amplifier
-
-NPN_common_emitter_AC.svg
 
 The common-emitter amplifier is designed so that a small change in voltage (_V__(in)) changes the small current through the base of the transistor; the transistor's current amplification combined with the properties of the circuit means that small swings in _V__(in) produce large changes in _V__(out).
 
@@ -119,9 +107,9 @@ Transistors have the following limitations:
 
 Types
 
-|- style="text-align:center;" |BJT_PNP_symbol.svg||PNP||JFET_P-Channel_Labelled.svg||P-channel |- style="text-align:center;" |BJT_NPN_symbol.svg||NPN||JFET_N-Channel_Labelled.svg||N-channel |- style="text-align:center;" |BJT||||JFET||
+|- style="text-align:center;" |||PNP||||P-channel |- style="text-align:center;" |||NPN||||N-channel |- style="text-align:center;" |BJT||||JFET||
 
-|- style="text-align:center;" |JFET_P-Channel_Labelled.svg||IGFET_P-Ch_Enh_Labelled.svg||IGFET_P-Ch_Enh_Labelled_simplified.svg||IGFET_P-Ch_Dep_Labelled.svg||P-channel |- style="text-align:center;" |JFET_N-Channel_Labelled.svg||IGFET_N-Ch_Enh_Labelled.svg||IGFET_N-Ch_Enh_Labelled_simplified.svg||IGFET_N-Ch_Dep_Labelled.svg||N-channel |- style="text-align:center;" |JFET||colspan="2"|MOSFET enh||MOSFET dep
+|- style="text-align:center;" |||||||||P-channel |- style="text-align:center;" |||||||||N-channel |- style="text-align:center;" |JFET||colspan="2"|MOSFET enh||MOSFET dep
 
 Transistors are categorized by
 
@@ -150,7 +138,7 @@ Bipolar transistors can be made to conduct by exposure to light, because absorpt
 
 Field-effect transistor (FET)
 
-Threshold_formation_nowatermark.gif and its Id-Vg curve. At first, when no gate voltage is applied. There is no inversion electron in the channel, the device is OFF. As gate voltage increase, inversion electron density in the channel increase, current increase, the device turns on.]]
+and its Id-Vg curve. At first, when no gate voltage is applied. There is no inversion electron in the channel, the device is OFF. As gate voltage increase, inversion electron density in the channel increase, current increase, the device turns on.]]
 
 The _field-effect transistor_, sometimes called a _unipolar transistor_, uses either electrons (in _n-channel FET_) or holes (in _p-channel FET_) for conduction. The four terminals of the FET are named _source_, _gate_, _drain_, and _body_ (_substrate_). On most FETs, the body is connected to the source inside the package, and this will be assumed for the following description.
 
@@ -170,7 +158,7 @@ The bipolar junction transistor (BJT) was the most commonly used transistor in t
 
 Other transistor types
 
-Transistor_on_portuguese_pavement.jpg in the University of Aveiro.]]
+in the University of Aveiro.]]
 
 -   bipolar junction transistor (BJT):
     -   heterojunction bipolar transistor, up to several hundred GHz, common in modern ultrafast and RF circuits;
@@ -319,7 +307,7 @@ AL–SI JUNCTION refers to the high-speed (aluminum–silicon) metal–semicondu
 
 Packaging
 
-Transbauformen.jpg Kt315b.jpgb transistors]]
+b transistors]]
 
 Discrete transistors can be individually packaged transistors or unpackaged transistor chips (dice).
 

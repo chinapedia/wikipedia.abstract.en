@@ -1,1 +1,0 @@
-ANDREW JACKSON AIKENS, SR. (1828–1909) was an American newspaper publisher and editor who was associated for more than half a century with _The Evening Wisconsin,_ a daily newspaper published in the city of Milwaukee.

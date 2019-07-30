@@ -1,1 +1,0 @@
-The QOLTUQ NAGARA(ARMPIT DRUM) (, , ) is a folk drum with double head that is played on one side with the bare hands. It is used in Armenia, Turkey, Iranian Azerbaijanis, Azerbaijan[1] Georgia and other Caucasus regions. It has different names, according to the territory in which it is played. This membranophone is different from the dhol and nagara of India.

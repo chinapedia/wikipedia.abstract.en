@@ -1,1 +1,0 @@
-LEE SUNG-HYUN (이성현, born 1972), also known as MOWG, (), is a composer of primarily film scores. Mowg has won Best Music awards for films, including _I Saw the Devil_ (2010), _Masquerade_ (2012), _Hwayi: A Monster Boy_ (2013), and _Dongju: The Portrait of a Poet_ (2016).[1][2][3]

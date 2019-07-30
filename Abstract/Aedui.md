@@ -1,1 +1,0 @@
-The AEDUI, HAEDUI, or HEDUI () were a Gallic people of Gallia Lugdunensis, who inhabited the country between the Arar (Saône) and Liger (Loire), in today's France. Their territory thus included the greater part of the modern departments of Saône-et-Loire, Côte-d'Or and Nièvre. This cites:

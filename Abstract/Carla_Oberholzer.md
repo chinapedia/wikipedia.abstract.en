@@ -1,1 +1,0 @@
-CARLA OBERHOLZER (born 14 January 1987) is a South African professional racing cyclist.[1] She rode in the women's road race at the 2016 UCI Road World Championships.[2][3] She currently represent Demacon Ladies Cycle Team while racing in South Africa and the Bizkaia Durango Ladies Team while racing in Europe.[4]

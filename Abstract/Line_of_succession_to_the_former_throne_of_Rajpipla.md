@@ -1,1 +1,0 @@
-The LINE OF SUCCESSION TO THE FORMER THRONE OF RAJPIPLA, one of the principal Indian salute states, was by male primogeniture. Ruled by the Gohil Rajput clan, the former Rajpipla State is now a constituent part of the Indian state of Gujarat.[1]

@@ -1,1 +1,0 @@
-Bolbitis_heudelotii.jpeg Aquatic plants are used to give the freshwater aquarium a natural appearance, oxygenate the water, absorb ammonia, and provide habitat for fish, especially fry (babies) and for invertebrates. Some aquarium fish and invertebrates also eat live plants. Hobbyists use aquatic plants for aquascaping, of several aesthetic styles.

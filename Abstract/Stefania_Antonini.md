@@ -1,1 +1,0 @@
-'''Stefania Antonini ''' (born 10 October 1970) is an Italian former footballer who played as a goalkeeper for the Italy women's national football team. She was the national team's first choice goalkeeper at the 1991 FIFA Women's World Cup.[1] At club level she collected five women's Serie A winner's medals and three Coppa Italia winner's medals.

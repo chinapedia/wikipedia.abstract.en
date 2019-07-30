@@ -1,1 +1,0 @@
-AZAPA FORMATION () is a geological formation in northern Chile made up of gravels of fluvial origin. It is conformably overlain by Oxaya Formation.[1] Azapa Formation is deformed by the Oxaya anticline.[2]

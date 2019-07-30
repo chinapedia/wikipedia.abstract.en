@@ -1,1 +1,0 @@
-KAROLINA WIGURA (born 1 October 1980 in Warsaw) is a sociologist, historian of ideas and journalist. She is the Head of the Political Section of Kultura Liberalna (Liberal Culture), one of Poland's leading weekly magazines. She is also an assistant professor at Warsaw University's Institute of Sociology.

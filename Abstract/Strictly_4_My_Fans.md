@@ -1,1 +1,0 @@
-_STRICTLY 4 MY FANS_ is the fourth mixtape by American rapper G Herbo. It was released on November 24, 2016.[1] Unlike his other mixtapes that were made for free download, this one was up for purchase

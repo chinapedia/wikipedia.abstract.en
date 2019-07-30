@@ -1,1 +1,0 @@
-The ROBARGE-DESAUTELS APARTMENT HOUSE is a historic multi-unit residence at 54 North Champlain Street in Burlington, Vermont. Built about 1900, it is a well-preserved example of a Queen Anne style apartment house. It was listed on the National Register of Historic Places in 2014.[1]

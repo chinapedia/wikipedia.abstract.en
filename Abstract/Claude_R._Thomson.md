@@ -1,1 +1,0 @@
-CLAUDE R. THOMSON, Q.C., LL.D. (1933–2010), was a Canadian lawyer in Toronto, Ontario. He was a well-known courtroom lawyer, and also a pioneer of alternative dispute resolution in Canada, including mediation and arbitration. He served as the president of the Canadian Bar Association and the International Bar Association.

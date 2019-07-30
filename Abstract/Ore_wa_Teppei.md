@@ -1,1 +1,0 @@
-is a manga written and illustrated by Tetsuya Chiba. It ran in _Weekly Shonen Magazine_ for nearly eight years and received an anime adaptation in 1977. The series received the Kodansha Cultural Children's Award (not to be confused with the Kodansha Manga Award) in 1976.[1]

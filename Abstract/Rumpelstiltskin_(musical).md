@@ -1,1 +1,0 @@
-RUMPELSTILTSKIN is a musical based on the Brother's Grimm Fairytale of the same name, featuring a score by Broadway composer / music director Steve Marzullo,[1] lyrics by Amelia DeMayo, and book by Deb Roberts. This adaptation differs slightly from its source material but honors the story.[2] _Rumpelstiltskin_ is currently unavailable for licensing.

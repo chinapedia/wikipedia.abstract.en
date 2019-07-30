@@ -1,1 +1,0 @@
-Hamburg-logo.svg Hamburg_by_Sentinel-2.jpg HAMBURG (; ; officially the FREE AND HANSEATIC CITY OF HAMBURG; ; Low German/Low Saxon: _Friee un Hansestadt Hamborg_)[1] is the second-largest city in Germany with a population of over 1.8 million, after the capital Berlin.

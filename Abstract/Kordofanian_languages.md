@@ -1,1 +1,0 @@
-The KORDOFANIAN LANGUAGES are a geographic grouping of five language groups spoken in the Nuba Mountains of the Kurdufan, Sudan: Talodi–Heiban languages, Lafofa languages, Rashad languages, Katla languages and Kadu languages. The first four groups are branches of the Niger–Congo family, whereas Kadu is now widely seen as a branch of the Nilo-Saharan family.

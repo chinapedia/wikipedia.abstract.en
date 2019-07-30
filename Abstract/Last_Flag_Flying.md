@@ -1,1 +1,0 @@
-_LAST FLAG FLYING_ is a 2017 American drama film directed by Richard Linklater with a screenplay by Linklater and Darryl Ponicsan, based upon the latter's 2005 novel of the same name. It stars Steve Carell, Bryan Cranston, and Laurence Fishburne as three Vietnam War veterans who reunite after one of their sons is killed in the Iraq War.

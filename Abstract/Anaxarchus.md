@@ -1,1 +1,0 @@
-ANAXARCHUS (; ; ) was a Greek philosopher of the school of Democritus. Together with Pyrrho, he accompanied Alexander the Great into Asia. The reports of his philosophical views suggest that he was a forerunner of Pyrrhonism.

@@ -1,1 +1,0 @@
-CHRISTOPHER "CHRIS" ATKIN (born 7 February 1993) is an English professional rugby league footballer who plays as a or for Hull Kingston Rovers in the Super League. He has previously played for the Swinton Lions.[1][2]

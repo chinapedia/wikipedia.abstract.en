@@ -1,1 +1,0 @@
-_IXALERPETON_ (meaning "leaping reptile") is a genus of small, bipedal dinosauromorphs in the lagerpetid family, containing one species, _I. POLESINENSIS_. It lived in the Late Triassic of Brazil alongside the sauropodomorph dinosaur _Buriolestes_.[1]

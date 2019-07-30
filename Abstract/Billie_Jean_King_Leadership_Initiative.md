@@ -1,1 +1,0 @@
-The BILLIE JEAN KING LEADERSHIP INITIATIVE (BJKLI) is a leadership and diversity Nonprofit organization, founded by Billie Jean King in 2014. The BJKLI was created to address the critical issues required to achieve inclusive leadership that will lead to significant changes in how women and men operate in the world.[1]

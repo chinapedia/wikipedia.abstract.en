@@ -1,1 +1,0 @@
-Hafezrede.png

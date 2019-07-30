@@ -1,1 +1,0 @@
-Fadela_dziria_couleur.jpg FADHÉLA DZIRIA, officially FADHÉLA MADANI BENT EL-MAHDI (25 Jun 1917 – 6 October 1970) was an Algerian singer in the Hawzi style of Andalusian classical music. Her first name is also seen as _Fadila_, _Fadhila_, or _Fadela_, and her chosen last name as _Dziriya_. _Dziria_ means _Algerian_--so she was, professionally, "Fadhéla the Algerian".

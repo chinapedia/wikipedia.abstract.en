@@ -1,1 +1,0 @@
-HELEN ISIBOR-EPEGA (Helen Parker-Jayne Isibor), also THE VENUS BUSHFIRES, (born 1981)[1] is a Nigerian opera singer, songwriter, composer and performance artist, who has written the world's first opera in Pidgin English. Inspired by Wagner's _Parsifal_, her _Song Queen: A Pidgin Opera_ was presented in London in July 2015.[2][3]

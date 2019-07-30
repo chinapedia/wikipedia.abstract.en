@@ -1,1 +1,0 @@
-KHARESMA RAVICHANDRAN (born 2000) is a British playback singer. She did her 1st public performance at the age of 4 for British heart foundation singing "We are one" from Lion King Musical. She is a professionally trained western vocalist and began her playback singing career in 2014.

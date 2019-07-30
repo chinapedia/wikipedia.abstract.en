@@ -1,1 +1,0 @@
-QUENTON D. DECOSEY JR. (born August 8, 1994) is an American professional basketball player for the Salt Lake City Stars of the NBA G League. He played for Temple University men's basketball for four years before turning professional in 2016.

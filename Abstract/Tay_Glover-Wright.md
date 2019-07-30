@@ -1,1 +1,0 @@
-DEVONTA MONTRELL "TAY" GLOVER-WRIGHT (born June 28, 1992) is a Canadian football cornerback. He played college football at Highland, Eastern Arizona and Utah State. He has also been a member of the Atlanta Falcons, Green Bay Packers, Indianapolis Colts, Philadelphia Eagles and New York Giants.

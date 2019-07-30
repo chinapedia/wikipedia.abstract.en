@@ -15,7 +15,7 @@ The NWOBHM came to dominate the heavy metal scene of the early-mid-1980s. It was
 
 Other metal influences
 
-Motorhead-03.jpg Motörhead is often credited as the first band to play speed metal.[3] Some of speed metal's earlier influences include Black Sabbath's "Children of the Grave", Budgie's "Breadfan" and Queen's "Stone Cold Crazy" (the latter two were eventually covered by the thrash metal band Metallica),[4] as well as certain Deep Purple songs such as "Speed King", "Fireball" and "Highway Star". The latter was called "early speed metal" by Robb Reiner of speed metal band Anvil.[5]
+Motörhead is often credited as the first band to play speed metal.[3] Some of speed metal's earlier influences include Black Sabbath's "Children of the Grave", Budgie's "Breadfan" and Queen's "Stone Cold Crazy" (the latter two were eventually covered by the thrash metal band Metallica),[4] as well as certain Deep Purple songs such as "Speed King", "Fireball" and "Highway Star". The latter was called "early speed metal" by Robb Reiner of speed metal band Anvil.[5]
 
 
 History

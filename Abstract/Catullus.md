@@ -1,1 +1,0 @@
-Catull_Sirmione.jpg.[1]]] GAIUS VALERIUS CATULLUS (; ; c. 84 – c. 54 BCE) was a Latin poet of the late Roman Republic who wrote chiefly in the neoteric style of poetry, which is about personal life rather than classical heroes. His surviving works are still read widely and continue to influence poetry and other forms of art.

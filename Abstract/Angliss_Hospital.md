@@ -1,1 +1,0 @@
-ANGLISS HOSPITAL is a public hospital in Upper Ferntree Gully, Victoria, Australia, located on the corner of Albert Street and Talaskia Road.[1] The hospital is a member of the Eastern Health network, and is located near a number of medical facilities that support the hospital, such as Angliss House and Chandler House.[2]

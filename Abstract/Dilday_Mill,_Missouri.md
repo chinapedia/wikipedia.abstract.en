@@ -1,1 +1,0 @@
-DILDAY MILL is an unincorporated community in southeastern Dade County, in the U.S. state of Missouri.[1] The mill was located on a sharp bend on the west bank of Turnback Creek just south of what is now Missouri Route K between Pennsboro to the west and Everton to the east.[2][3]

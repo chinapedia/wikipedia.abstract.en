@@ -1,1 +1,0 @@
-The UNDERCUT PROCEDURE is a procedure for fair item assignment between two people. It provably finds a complete envy-free item assignment whenever such assignment exists. It was presented by Brams and Kilgour and Klamler[1] and simplified and extended by Aziz.[2]

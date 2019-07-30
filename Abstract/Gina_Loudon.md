@@ -1,1 +1,0 @@
-GINA LOUDON, known as DR. GINA, is a conservative media personality.[1] She is on the Trump campaign's media advisory board, is the co-chair of Women for Trump[2], is a member at Mar-a-Lago and is the current face of Citizen Voters Inc.[3]

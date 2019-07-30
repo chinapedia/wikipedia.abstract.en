@@ -1,1 +1,0 @@
-Cosimo_Allesandro_Collini.jpg Pterodactylus_holotype_Collini_1784.jpg COSIMO ALESSANDRO COLLINI (Florence 14 October 1727-Mannheim, 21 March 1806) was an Italian historian and Voltaire's secretary from 1752 to 1756.

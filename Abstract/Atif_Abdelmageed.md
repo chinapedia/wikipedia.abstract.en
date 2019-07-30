@@ -1,1 +1,0 @@
-Dr. ATIF ABDELMAGEED ABDELRAHMAN AHMED from Khartoum, Sudan (; born June 7) serves as Executive Director of the Arab Regional Scout Office of the World Scout Bureau. In 2006, he was named Director of the Arab Region.[1][2]

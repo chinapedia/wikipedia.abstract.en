@@ -23,7 +23,7 @@ The Saint has many partners, though none last throughout the series. For the fir
 
 They have an easy, non-binding relationship, as Templar is shown flirting with other women from time to time. However, his heart remains true to Holm in the early books, culminating in his considering marriage in the novella _The Melancholy Journey of Mr. Teal,_ only to have Holm say she had no interest in marrying. Holm disappeared in the late 1940s, and according to Barer's history of _The Saint,_ Charteris refused to allow Templar a steady girlfriend, or Holm to return. (However, according to the Saintly Bible website, Charteris did write a film story that would have seen Templar encountering a son he had had with Holm.) Holm's final appearance as a character was in the short stories "Iris," "Lida," and "Luella," contained within the 1948 collection _Saint Errant;_ the next direct reference to her does not appear in print until the 1983 novel _Salvage for the Saint._
 
-Another recurring character, Scotland Yard Inspector Claud Eustace Teal, could be found attempting to put The Saint behind bars, although in some books they work in partnership. In _The Saint in New York,_ Teal's American counterpart, NYPD Inspector John Henry Fernack, was introduced, and he would become, like Teal, an Inspector Lestrade-like foil and pseudo-nemesis in a number of books, notably the American-based World War II novels of the 1940s. SaintGetaway.jpg, starring Roger Moore.]]
+Another recurring character, Scotland Yard Inspector Claud Eustace Teal, could be found attempting to put The Saint behind bars, although in some books they work in partnership. In _The Saint in New York,_ Teal's American counterpart, NYPD Inspector John Henry Fernack, was introduced, and he would become, like Teal, an Inspector Lestrade-like foil and pseudo-nemesis in a number of books, notably the American-based World War II novels of the 1940s. , starring Roger Moore.]]
 
 The Saint had a band of compatriots, including Roger Conway, Norman Kent, Archie Sheridan, Richard "Dicky" Tremayne (a name that appeared in the 1990s TV series, _Twin Peaks_), Peter Quentin, Monty Hayward, and his ex-military valet, Orace.
 
@@ -36,7 +36,7 @@ Templar also on occasion would break the fourth wall in an almost metafictional 
 
 Publishing history
 
-King-of-the-Beggars-ad.jpg'' in May 1947, "The King of the Beggars" was collected in _Call for the Saint_ (1948)]] The origins of The Saint can be found in early works by Charteris, some of which predated the first Saint novel, 1928's _Meet the Tiger_, or were written after it but before Charteris committed to writing a Saint series. Burl Barer reveals that an obscure early work, _Daredevil_, not only featured a heroic lead who shared "Saintly" traits (down to driving the same brand of automobile) but also shared his adventures with Inspector Claud Eustace Teal—a character later a regular in Saint books. Barer writes that several early Saint stories were rewritten from non-Saint stories, including the novel _She Was a Lady_, which appeared in magazine form featuring a different lead character.
+'' in May 1947, "The King of the Beggars" was collected in _Call for the Saint_ (1948)]] The origins of The Saint can be found in early works by Charteris, some of which predated the first Saint novel, 1928's _Meet the Tiger_, or were written after it but before Charteris committed to writing a Saint series. Burl Barer reveals that an obscure early work, _Daredevil_, not only featured a heroic lead who shared "Saintly" traits (down to driving the same brand of automobile) but also shared his adventures with Inspector Claud Eustace Teal—a character later a regular in Saint books. Barer writes that several early Saint stories were rewritten from non-Saint stories, including the novel _She Was a Lady_, which appeared in magazine form featuring a different lead character.
 
 Charteris utilized three formats for delivering his stories. Besides full-length novels, he wrote novellas for the most part published in magazines and later in volumes of two or three stories. He also wrote short stories featuring the character, again mostly for magazines and later compiled into omnibus editions. In later years these short stories carried a common theme, such as the women Templar meets or exotic places he visits. With the exception of _Meet the Tiger_, chapter titles of Templar novels usually contain a descriptive phrase describing the events of the chapter; for example, Chapter Four of _Knight Templar_ is titled "How Simon Templar dozed in the Green Park and discovered a new use for toothpaste".
 
@@ -74,7 +74,7 @@ The film was a success and seven more films followed in quick succession. George
 
 In 1953, British Hammer Film Productions produced _The Saint's Return_ (known as "The Saint's Girl Friday" in the United States), for which Hayward returned to the role. This was followed by an unsuccessful French production in 1960.
 
-Roger_Moore_The_Saint_1969.JPG as _The Saint_]]
+as _The Saint_]]
 
 In the mid-1980s, the _National Enquirer_ and other newspapers reported that Moore was planning to produce a movie based on _The Saint_ with Pierce Brosnan as Templar, but it was never made. (Ironically Brosnan was to be Moore's successor as James Bond, after Timothy Dalton left the role.) In 1989, six movies were made by Taffner starring Simon Dutton. These were syndicated in the United States as part of a series of films titled _Mystery Wheel of Adventure,_ while in the United Kingdom they were shown as a series on ITV.
 
@@ -156,7 +156,7 @@ In Sweden, The Saint had a long-running comic book published from 1966 to 1985 u
 
 A new American comic book series was launched by Moonstone in the summer of 2012, but it never went beyond a single promotional issue "zero".[19]
 
-SaintMagazine.jpg, here erroneously credited as the creator of _The Man from U.N.C.L.E._]]
+, here erroneously credited as the creator of _The Man from U.N.C.L.E._]]
 
 
 In magazines
@@ -474,7 +474,7 @@ According to the Saintly Bible website, at one time Leslie Charteris biographer 
 
 In popular culture
 
-Sainticonpilot.jpg In the 2003 BBC documentary series _Heroes and Weapons of World War II" titled "The Man Who Designed the Spitfire_ (Episode 2) at approximately 18 minutes in the film an RAF pilot is seen at rest in his dispersal hut with a large 'The Saint' stick man logo on his flying gear (see image at right). He is perhaps showing some personal identification with Simon Templar's own war against Germany in the novella 'Arizona'.[23]
+In the 2003 BBC documentary series _Heroes and Weapons of World War II" titled "The Man Who Designed the Spitfire_ (Episode 2) at approximately 18 minutes in the film an RAF pilot is seen at rest in his dispersal hut with a large 'The Saint' stick man logo on his flying gear (see image at right). He is perhaps showing some personal identification with Simon Templar's own war against Germany in the novella 'Arizona'.[23]
 
 In 1980 English punk band Splodgenessabounds released a single "Simon Templer" (misspelling intentional). It reached number 7 in the UK charts. The song appears mocking of the TV character, concluding “I think Simon’s a bit of a bore/Ian Ogilvy and Podgy Moore.” [24]
 

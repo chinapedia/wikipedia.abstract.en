@@ -18,7 +18,7 @@ An economic reform plan was announced in 1989 and began implementing a 3-year ec
 
 Infrastructure
 
-Khartoum.jpg Sudan has a developed infrastructure comparable to most of Sub-Saharan Africa and many projects are taking place to develop it even further all across the country. Some parts of the country are better off—mainly in the northern states—due to oil productions and the wealth gained from it. The telephone system in Sudan is well equipped by regional standards, and is maintained by modern standards. One of Sudan's greatest projects was the Merowe Dam.
+Sudan has a developed infrastructure comparable to most of Sub-Saharan Africa and many projects are taking place to develop it even further all across the country. Some parts of the country are better off—mainly in the northern states—due to oil productions and the wealth gained from it. The telephone system in Sudan is well equipped by regional standards, and is maintained by modern standards. One of Sudan's greatest projects was the Merowe Dam.
 
 Khartoum was rewarded the Arab Capital of Culture in 2005. Modern buildings in Khartoum are on the rise due to the economic growth. However, since South Sudan independence a number of projects have been postponed due to economic recession after losing 75% of the oil. Transit fees of south Sudan will likely cut the loss greatly and the government economic emergency plan will end in 2015 bringing the economy back on track and after that, the economy will start developing rapidly with construction booms.
 
@@ -30,19 +30,19 @@ In 2010, Sudan's first medium scale shopping mall opened, located in the souther
 
 Railways
 
-PortSudan_Post_Office.jpg Sudan has 4,725 kilometers of narrow-gauge, single-track railroads that serve the northern and central portions of the country. The main line runs from Wadi Halfa on the Egyptian border to Khartoum and southwest to Al Ubayyid via Sannar and Kusti, with extensions to Nyala in Southern Darfur and Wau in Bahr al Ghazal.
+Sudan has 4,725 kilometers of narrow-gauge, single-track railroads that serve the northern and central portions of the country. The main line runs from Wadi Halfa on the Egyptian border to Khartoum and southwest to Al Ubayyid via Sannar and Kusti, with extensions to Nyala in Southern Darfur and Wau in Bahr al Ghazal.
 
 Other lines connect Atbarah and Sannar with Port Sudan, and Sannar with Ad Damazin. A 1,400-kilometer line serves the al Gezira cotton-growing region. A modest effort to upgrade rail transport is currently underway to reverse decades of neglect and declining efficiency. Service on some lines may be interrupted during the rainy season.
 
 
 Tourism
 
-Nubian20pyramids.jpg Sudan is one of the largest Arab nations. It is rich in history dating back to the period of Sudanese Nubia and Ancient Egypt. There are many pyramids all over Sudan, attracting many tourists from Syria, Egypt, Morocco, Jordan and other Arab countries, as well as tourists from Western nations. Sudan was voted the 8th most popular Arab nation to visit by the Council of Arab Economic Unity. Sudan also has many modern hotels including the five star Corinthia Hotel Khartoum in Khartoum. The government of Sudan also pledge $1 billion a year to increase the tourist industry.
+Sudan is one of the largest Arab nations. It is rich in history dating back to the period of Sudanese Nubia and Ancient Egypt. There are many pyramids all over Sudan, attracting many tourists from Syria, Egypt, Morocco, Jordan and other Arab countries, as well as tourists from Western nations. Sudan was voted the 8th most popular Arab nation to visit by the Council of Arab Economic Unity. Sudan also has many modern hotels including the five star Corinthia Hotel Khartoum in Khartoum. The government of Sudan also pledge $1 billion a year to increase the tourist industry.
 
 
 Agriculture
 
-Sudanese_man_preparing_land_by_traditional_way.jpg Primary resources are agricultural, including cotton, peanuts, gum arabic, and sesame seeds. Although the country is trying to diversify its cash crops, cotton and peanuts remain its major agricultural exports. Grain sorghum (dura) is the principal food crop, and wheat is grown for domestic consumption.Sesame seeds and peanuts are cultivated for domestic consumption and increasingly for export.
+Primary resources are agricultural, including cotton, peanuts, gum arabic, and sesame seeds. Although the country is trying to diversify its cash crops, cotton and peanuts remain its major agricultural exports. Grain sorghum (dura) is the principal food crop, and wheat is grown for domestic consumption.Sesame seeds and peanuts are cultivated for domestic consumption and increasingly for export.
 
 Three main agricultural sub-sectors are active in Sudan: pastoral livestock, cropping and fish production.[2] Livestock production has vast potential, and many animals, particularly cows, sheep, and camels, are exported to Saudi Arabia and other Arab countries. However, Sudan remains a net importer of food. Problems of investment finance, production and transportation remain the greatest constraints to a more dynamic agricultural economy. A major problem which has been growing for decades is the continual loss of open lands previously used for animal grazing to mechanized drylands and irrigated farming. [3]
 
@@ -65,8 +65,6 @@ More than 70% of Sudan’s hydropower comes from the Roseires Dam on the Blue Ni
 
 Petroleum
 
-Sudan_Export_Treemap.png
-
 Extensive petroleum exploration first began in Sudan in the mid-1970s. Significant finds were made in the Upper Nile region and commercial quantities of oil began to be exported in October 2000, reducing Sudan’s outflow of foreign exchange for imported petroleum products. Today, oil is an important export industry in Sudan. Estimates suggest that oil accounts for between 70% and 90% of Sudan's total exports. The primary importers of Sudanese oil are Japan, China, South Korea, Indonesia, and India.[8][9]
 
 Most of Sudan's oil reserves are located in the Muglad and Melut rift basins in the south of the country.[10] Oil fields in the south, such as those at Heglig and in the South Sudanese state of Unity, formerly part of Sudanese territory, are linked to the country's refineries via pipelines. The two largest oil pipelines are the Greater Nile Oil Pipeline, which travels 1,600 kilometres from the Unity oil field to Port Sudan on the Red Sea via Khartoum, and the PetroDar pipeline, which extends 1,380 kilometres from the Palogue oil field in the Melut Basin to Port Sudan.[11][12]
@@ -77,8 +75,6 @@ Sudan crude oil output is predicted to peak in 2008, although current revenue le
 
 
 Gold
-
-2006Sudanese_exports.PNG
 
 In September 2012, Sudanese President Omar al-Bashir opened the country’s first gold refinery and it is speculated to be one of the largest such constructions in Africa.[15] The refinery will produce more than 328 tonnes of gold annually. Economic analysts say that the refinery is part of government’s strategy to make up for lost oil revenue after the South Sudan split of 2011.[16]
 

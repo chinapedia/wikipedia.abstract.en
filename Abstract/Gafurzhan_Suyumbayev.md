@@ -1,1 +1,0 @@
-GAFURZHAN SABIRZHONOVICH SUYUMBAYEV (Kazakh: Гафуржан Сабыржанұлы Сүйімбаев; Russian: Гафуржан Сабиржонович Суюмбаев; born 19 August 1990) is a Kazakh football player who plays for FC Kairat[1] as a defender, and representing the Kazakh national football team.

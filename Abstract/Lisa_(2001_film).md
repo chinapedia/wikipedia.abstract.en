@@ -1,1 +1,0 @@
-_LISA_ is a 2001 French-Swiss romantic drama war film directed by Pierre Grimblat based on the novel _Théâtre dans la nuit_ by Patrick Cauvin,[1][2] starring Jeanne Moreau, Marion Cotillard, Benoît Magimel and Sagamore Stévenin.[3]

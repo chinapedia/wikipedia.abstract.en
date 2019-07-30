@@ -1,1 +1,0 @@
-SMUKFEST (aka SKANDERBORG FESTIVAL) is an annual music festival, held during the second weekend of August in Denmark. Its location, in a beech forest in the vicinity of Skanderborg, has given rise to the slogan "Denmarks' Most Beautiful Festival" (Danish: _Danmarks Smukkeste Festival_).

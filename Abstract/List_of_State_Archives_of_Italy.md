@@ -1,1 +1,0 @@
-The consists of numerous repositories located in the capital city of each of the provinces of Italy, along with several additional local sub-branches ("sezione"). It is overseen by a central office which is part of the Ministry of Cultural Heritage and Activities and Tourism in Rome. The following list is arranged by administrative macroregion and region.

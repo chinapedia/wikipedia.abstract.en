@@ -1,1 +1,0 @@
-DOROTHY PARKER (née ROTHSCHILD; August 22, 1893 – June 7, 1967) was an American poet, writer, critic, and satirist based in New York; she was best known for her wit, wisecracks, and eye for 20th-century urban foibles.

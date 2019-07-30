@@ -1,1 +1,0 @@
-NORMAN OHLER (born 1970) is a German _New York Times_ bestselling author, novelist and screenwriter, best known for his book _Blitzed: Drugs in Nazi Germany_, which has been published in over 25 languages.[1][2][3]

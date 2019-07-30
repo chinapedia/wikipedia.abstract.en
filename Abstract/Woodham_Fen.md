@@ -1,1 +1,0 @@
-WOODHAM FEN is an 8.1 hectare nature reserve in South Woodham Ferrers in Essex. It is managed by the Essex Wildlife Trust.[1] It is part of the Crouch and Roach Estuaries Site of Special Scientific Interest.[2][3]

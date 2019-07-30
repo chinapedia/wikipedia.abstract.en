@@ -1,1 +1,0 @@
-BOB TRULUCK (born July 28, 1949) is an American crime and noir novelist.[1] In 1999, Truluck won the St. Martin's Press/Private Eye Writers of America Award for Best First Private Eye Novel.[2][3] In 2001, he received the Shamus Award for Best First Private Investigator Novel.[4] He has also been nominated for a Barry Award and 2 Anthony Awards.[5][6][7]

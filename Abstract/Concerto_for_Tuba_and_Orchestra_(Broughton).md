@@ -1,1 +1,0 @@
-Bruce Broughton originally wrote the TUBA CONCERTO as a sonata for tuba and 24 orchestral winds in 1987. He later rewrote it for tuba and piano accompaniment. In 2003, Broughton reworked the sonata into a concerto so that it could be performed by a full orchestra. The tuba concerto was originally written for Tommy Johnson.

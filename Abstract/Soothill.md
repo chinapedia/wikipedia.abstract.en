@@ -1,1 +1,0 @@
-Ribbon_development,_Soothill_Lane,_Soothill_-_geograph.org.uk_-_1597649.jpg SOOTHILL is a small village in the town of Batley, West Yorkshire, England. Soothill is northeast from the town of Dewsbury and directly north of Hanging Heaton.[1] The name derives from the Old English "sot" and means a place where wood was burnt.[2]

@@ -1,1 +1,0 @@
-Boeing_YB-17_Maiden_Flight.jpg are members of a group of WASPS who have been trained to ferry the B-17 Flying Fortresses. Circa 1944.|alt=These four female pilots leaving their ship at the four engine school at Lockbourne are members of a group of WASPS who have been trained to ferry the B-17 Flying Fortresses. Circa 1944.|350x350px]]

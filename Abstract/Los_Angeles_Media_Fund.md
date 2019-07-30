@@ -1,1 +1,0 @@
-LOS ANGELES MEDIA FUND (better known as LAMF) is an American independent entertainment company founded in September 2014 by Jeffery Soros and Simon Horsman, specializing in film production and finance.

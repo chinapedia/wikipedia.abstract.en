@@ -1,1 +1,0 @@
-UDAY MAITRA is an Indian organic chemist and a professor in the department of organic chemistry at the Indian Institute of Science.[1][2] He is known for his studies on molecular tools and supramolecular assemblies.[3] He is a recipient of the Shanti Swarup Bhatnagar Prize for Science and Technology, one of the highest Indian science awards.[4]

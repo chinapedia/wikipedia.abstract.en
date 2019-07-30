@@ -1,1 +1,0 @@
-_THE UPSIDE OF IRRATIONALITY: THE UNEXPECTED BENEFITS OF DEFYING LOGIC_ [1] is a book published in 2010 by behavioral economist Dan Ariely. This is Ariely's second published book, after he authored _Predictably Irrational_: The Hidden Forces That Shape Our Decisions''.

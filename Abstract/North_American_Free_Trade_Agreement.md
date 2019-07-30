@@ -1,1 +1,0 @@
-RCEP_GDP.png

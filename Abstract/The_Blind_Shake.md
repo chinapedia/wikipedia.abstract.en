@@ -1,1 +1,0 @@
-The Blind Shake are an American punk rock band formed in Minneapolis by brothers Jim (vocals/guitar) and Mike Blaha (vocals/guitar), with Dave Roper on drums.[1] They have released four albums and featured as a backing band for a number of artists, including John Reis and Michael Yonkers.[2]

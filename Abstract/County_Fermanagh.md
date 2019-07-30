@@ -1,1 +1,0 @@
-COUNTY FERMANAGH ( ; ) is one of the thirty-two counties of Ireland and one of the six counties of Northern Ireland. The county covers an area of 1,691 km² (653 sq mi) and has a population of 61,805 as of 2011.[1] Enniskillen is the county town and largest in both size and population.

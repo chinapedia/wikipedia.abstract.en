@@ -1,1 +1,0 @@
-The TORNEO NACIONAL DE CLUBES 2016 (2016 Clubs National Tournament) was the 41st edition of the main clubs handball tournament organised by the Confederación Argentina de Handball, it was held between 04–08 October at the city of Comodoro Rivadavia.[1]

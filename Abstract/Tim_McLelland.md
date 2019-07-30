@@ -1,1 +1,0 @@
-TIM MCLELLAND (formerly TIM LAMING; 8 August 1962, in Sheffield – 6 November 2015) was a British aviation author, photographer and journalist. Self-taught with no formal qualifications, he went on to create over 40 different titles, which covered many different subjects.

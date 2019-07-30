@@ -1,1 +1,0 @@
-The PANASONIC LEICA DG VARIO-ELMAR 100–400 MM 4.0-6.3 lens is a digital compact telephoto zoom lens for Micro Four Thirds system cameras. It is a varifocal lens branded with the German label Leica, but manufactured by Panasonic in Japan.

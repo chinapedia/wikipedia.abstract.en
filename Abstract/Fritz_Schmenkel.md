@@ -1,1 +1,0 @@
-Fritz_Paul_Schmenkel.jpg FRITZ PAUL SCHMENKEL (14 February 1916 in Warsow bei Stettin, German Empire – 22 February 1944 in Minsk, German-occupied Byelorussian SSR, Soviet Union) was a German communist and resistance fighter against Nazism, who fought with the Soviet partisans in Belarus during the Great Patriotic War.

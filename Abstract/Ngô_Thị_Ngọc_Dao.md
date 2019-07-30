@@ -1,1 +1,0 @@
-NGÔ THỊ NGỌC DAO (, 1421 - 1496)[1] posthumous name QUANG-THỤC TRINH-HUỆ KHIÊM-TIẾT HÒA-XUNG NHƠN-THÁNH DOWAGER EMPRESS (光淑禎惠謙節和沖仁聖皇太后), was a queen consort of Later Lê dynasty and mother of the Vietnamese emperor Lê Thánh Tông.

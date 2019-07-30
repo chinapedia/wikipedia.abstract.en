@@ -1,1 +1,0 @@
--   PLEIADES, or SEVEN SISTERS, a star cluster named for PLEIADES (GREEK MYTHOLOGY), the seven sisters who are companions of Artemis in Greek mythology

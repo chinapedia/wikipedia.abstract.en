@@ -1,1 +1,0 @@
-Pirjo_Mäkelä.jpg received the prize in 1980.]] Riitta_Hari.jpg received the prize in 2001.]] Prof_Kai_Simons_2014_(cropped).jpg received the prize in 2003.]] The MATTI ÄYRÄPÄÄ PRIZE () is a Finnish prize in medicine awarded by The Finnish Medical Society Duodecim since 1969. It is named after the dentist Matti Äyräpää, who was Duodecim's first chairman.[1]

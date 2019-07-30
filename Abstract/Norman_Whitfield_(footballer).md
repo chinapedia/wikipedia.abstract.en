@@ -1,1 +1,0 @@
-NORMAN WHITFIELD (3 April 1896 – 14 November 1962) was an English professional football inside left who played in the Football League for Chesterfield and Leicester City.[1][2][3] He later captained Nuneaton Town in non-league football.

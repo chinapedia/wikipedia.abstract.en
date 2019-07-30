@@ -1,4 +1,4 @@
-Slo_world_GNI_percapita.PNG:
+:
 ]]
 
 Slovenia is a developed country that enjoys a high level of prosperity and stability as well as above average GDP per capita by purchase power parity at 83% of the EU28 average in 2015, which is the same as in 2014 and 2 percentage points higher than in 2013.[1] Nominal GDP in 2018 is 42.534 mio EUR, nominal GDP per capita (GDP/pc) in 2018 is EUR 21,267. The highest GDP/pc is in central Slovenia, where capital city Ljubljana is located, which is part of the Western Slovenia statistical region, which has a higher GDP/pc than eastern Slovenia.[2]

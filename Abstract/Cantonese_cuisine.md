@@ -1,1 +1,0 @@
-Cuisines_of_China.png

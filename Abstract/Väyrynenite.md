@@ -1,1 +1,0 @@
-VÄYRYNENITE is a rare phosphate mineral with formula MnBe(PO₄)(OH,F).[1] It was first described in 1954 for an occurrence in Viitaniemi, Erajarvi, Finland and named for mineralogist Heikki Allan Väyrynen of Helsinki, Finland.[2]

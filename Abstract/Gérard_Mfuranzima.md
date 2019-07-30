@@ -1,1 +1,0 @@
-GÉRARD MFURANZIMA (born 31 August 1962 in Mugende in nowadays Karuzi Province), is a Burundian who, from 2011 to 2015, was the Burindian representative for the Association of European Parliamentarians with Africa (AWEPA).

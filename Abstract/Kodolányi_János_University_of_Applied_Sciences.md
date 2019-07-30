@@ -1,1 +1,0 @@
-The KODOLÁNYI JÁNOS UNIVERSITY OF APPLIED SCIENCES (Hungarian: _Kodolányi János Főiskola_) is a higher education institution in Hungary, having its main campus in Székesfehérvár, but also has regional campuses in Budapest, Siófok and Orosháza, with an additional campus in Austria. Its Hungarian abbreviation is KJF.

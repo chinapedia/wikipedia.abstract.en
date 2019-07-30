@@ -1,1 +1,0 @@
-Stig Andersson}}

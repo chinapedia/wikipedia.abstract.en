@@ -1,1 +1,0 @@
-Emigrants_Leave_Ireland_by_Henry_Doyle_1868.jpg

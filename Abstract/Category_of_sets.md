@@ -1,1 +1,0 @@
-In the mathematical field of category theory, the CATEGORY OF SETS, denoted as SET, is the category whose objects are sets. The arrows or morphisms between sets _A_ and _B_ are the total functions from _A_ to _B_, and the composition of morphisms is the composition of functions.

@@ -1,1 +1,0 @@
-KHORĀSĀNĪ STYLE (Persian: _sabk-i Khorāsānī_ 'the style of Khurāsān', also known as _sabk-i Turkistānī_ 'the style of Turkistan', also transliterated _Khurāsānī_) was a movement in Persian poetry associated with the court of the Ghaznavids, associated with Greater Khorasan (now divided between Iran, Afghanistan, and Uzbekistan).

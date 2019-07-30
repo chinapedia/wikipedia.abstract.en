@@ -1,1 +1,0 @@
-_NIDHOGG 2_ is a fighting game and sequel to _Nidhogg_ by indie developer Messhof. It was released for Microsoft Windows, macOS and PlayStation 4 in 2017. A Nintendo Switch version was released in November 2018. The game received generally positive reviews from critics upon release.

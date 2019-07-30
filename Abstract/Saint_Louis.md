@@ -1,1 +1,0 @@
-SAINT LOUIS, SAINT-LOUIS or ST. LOUIS may refer to a number of things, the great majority named after SAINT LOUIS IX (1214–1270), a King of France and Catholic saint, and including the American city of ST. LOUIS.

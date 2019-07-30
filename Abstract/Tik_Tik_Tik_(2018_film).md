@@ -1,1 +1,0 @@
-_TIK TIK TIK_ is a 2018 Indian Tamil-language science fiction film written and directed by Shakti Soundar Rajan.[1][2] The film features Jayam Ravi, Nivetha Pethuraj, and Aaron Aziz in the lead roles.[3][4][5] The film is inspired by _Armageddon_ (1998), directed by Michael Bay.[6][7][8][9]The film was released on 22 June 2018.

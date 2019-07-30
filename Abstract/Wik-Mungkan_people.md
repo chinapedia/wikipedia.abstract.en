@@ -1,1 +1,0 @@
-The WIK-MUNGKAN people were the largest branch of the Wik people, an Indigenous Australian group of tribes, speaking several different languages, who traditionally ranged over an extensive area of the western Cape York Peninsula in northern Queensland.

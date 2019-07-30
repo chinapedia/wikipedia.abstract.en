@@ -1,1 +1,0 @@
-The TREATY OF ST. LOUIS is the name of a series of treaties signed between the United States and various Native American tribes from 1804 through 1824. The fourteen treaties were all signed in the St. Louis, Missouri area.

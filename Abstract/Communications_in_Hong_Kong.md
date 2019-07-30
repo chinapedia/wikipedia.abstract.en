@@ -1,1 +1,0 @@
-COMMUNICATIONS IN HONG KONG includes a wide-ranging and sophisticated network of radio, television, telephone, Internet, and related online services, reflecting Hong Kong's thriving commerce and international importance.

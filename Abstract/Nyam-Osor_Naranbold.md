@@ -1,1 +1,0 @@
-NYAM-OSORYN NARANBOLD (; born 22 February 1992) is a Mongolian footballer who plays as a forward for Mongolian Premier League club Athletic 220 and the Mongolian national team.[1] With eight international goals, he is tied for first place on Mongolia’s all-time scorers list.[2]

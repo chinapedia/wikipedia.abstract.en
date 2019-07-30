@@ -1,4 +1,4 @@
-Supply-and-demand.svg at each price (demand D). The diagram shows a positive shift in demand from D₁ to D₂, resulting in an increase in price (P) and quantity sold (Q) of the product.]]
+at each price (demand D). The diagram shows a positive shift in demand from D₁ to D₂, resulting in an increase in price (P) and quantity sold (Q) of the product.]]
 
 In microeconomics, SUPPLY AND DEMAND is an economic model of price determination in a market. It postulates that, holding all else equal, in a competitive market, the unit price for a particular good, or other traded item such as labor or liquid financial assets, will vary until it settles at a point where the quantity demanded (at the current price) will equal the quantity supplied (at the current price), resulting in an economic equilibrium for price and quantity transacted.
 
@@ -49,8 +49,6 @@ The determinants of demand are:
 
 
 Microeconomics
-
-Fig5_Supply_and_demand_curves.jpg
 
 Equilibrium
 
@@ -108,7 +106,7 @@ History
 
 The 256th couplet of Tirukkural, which was composed at least 2000 years ago, says that "if people do not consume a product or service, then there will not be anybody to supply that product or service for the sake of price".[10]
 
-According to Hamid S. Hosseini, the power of supply and demand was understood to some extent by several early Muslim scholars, such as fourteenth-century Syrian scholar Ibn Taymiyyah, who wrote: "If desire for goods increases while its availability decreases, its price rises. On the other hand, if availability of the good increases and the desire for it decreases, the price comes down."[11] AdamSmith.jpg John Locke's 1691 work _Some Considerations on the Consequences of the Lowering of Interest and the Raising of the Value of Money_.[12] includes an early and clear description of supply and demand and their relationship. In this description demand is rent: “The price of any commodity rises or falls by the proportion of the number of buyer and sellers” and “that which regulates the price... [of goods] is nothing else but their quantity in proportion to their rent.”
+According to Hamid S. Hosseini, the power of supply and demand was understood to some extent by several early Muslim scholars, such as fourteenth-century Syrian scholar Ibn Taymiyyah, who wrote: "If desire for goods increases while its availability decreases, its price rises. On the other hand, if availability of the good increases and the desire for it decreases, the price comes down."[11] John Locke's 1691 work _Some Considerations on the Consequences of the Lowering of Interest and the Raising of the Value of Money_.[12] includes an early and clear description of supply and demand and their relationship. In this description demand is rent: “The price of any commodity rises or falls by the proportion of the number of buyer and sellers” and “that which regulates the price... [of goods] is nothing else but their quantity in proportion to their rent.”
 
 The phrase "supply and demand" was first used by James Denham-Steuart in his _Inquiry into the Principles of Political Economy_, published in 1767. Adam Smith used the phrase in his 1776 book _The Wealth of Nations_, and David Ricardo titled one chapter of his 1817 work _Principles of Political Economy and Taxation_ "On the Influence of Demand and Supply on Price".[13] Thomas Robert Malthus used the phrase "supply and demand" twenty times in the second edition of the _Essay on Population_ in 1803.[14]
 

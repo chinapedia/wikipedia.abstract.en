@@ -1,1 +1,0 @@
-This is a complete list, in alphabetical order, of cricketers who played for Nottingham Cricket Club in first-class cricket matches. Nottingham played a total of 15 first-class matches, 13 of them between 1826 and 1834 and two in 1848 after the establishment of Nottinghamshire County Cricket Club in 1841.

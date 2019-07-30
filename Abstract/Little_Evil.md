@@ -1,1 +1,0 @@
-_LITTLE EVIL_ is a 2017 American comedy horror film written and directed by Eli Craig. It stars Adam Scott, Evangeline Lilly, Owen Atlas, Bridget Everett, Kyle Bornheimer, Chris D'Elia, Donald Faison, Carla Gallo, Tyler Labine, Brad Williams, Clancy Brown, and Sally Field. It was released by Netflix on September 1, 2017.

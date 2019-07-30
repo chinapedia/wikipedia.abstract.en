@@ -1,1 +1,0 @@
-_ERETMOCERA FUSCIPENNIS_ is a moth of the Scythrididae family. It was described by Philipp Christoph Zeller in 1852. It is found in the Democratic Republic of the Congo (Katanga), Gambia, Madagascar, Sierra Leone, South Africa (KwaZulu-Natal), Tanzania (Zanzibar) and Zimbabwe.[1][2]

@@ -1,1 +1,0 @@
-RAYMOND FREDERICK WATTERS (born 1928) is a New Zealand geographer.[1] He has conducted interdisciplinary studies and projects for UN agencies, British Overseas Development Administration, NZ Aid and governments of a number of developing countries including Solomon Islands, Kiribati, Tuvalu, Mexico, Venezuela, Peru and Papua New Guinea.

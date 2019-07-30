@@ -1,1 +1,0 @@
-_JUSTICE LEAGUE ACTION_ is an American animated television series based on the DC Comics superhero team of the same name. The series debuted on Cartoon Network UK[1] on November 26, 2016[2][3] and in the United States on Cartoon Network on December 16, 2016.[4]

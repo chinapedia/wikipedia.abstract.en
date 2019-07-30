@@ -1,1 +1,0 @@
-Sembradio.jpg]] CANNABIS IN MEXICO is technically illegal but the law prohibiting its use was declared unconstitutional by the Supreme Court of Mexico on October 31, 2018. The effect of the ruling is that the law was generally made unenforceable and that the government of Mexico must act to formally legalize cannabis within a period of 90 days.

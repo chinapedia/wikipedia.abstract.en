@@ -1,4 +1,4 @@
-Set-top_Box,_2013.png Neelix set-top box manufactured in 2012. It allows simultaneous access to television broadcast and internet applications]]
+Neelix set-top box manufactured in 2012. It allows simultaneous access to television broadcast and internet applications]]
 
 A SET-TOP BOX (STB) or SET-TOP UNIT (STU) (one type also colloquially known as a cable box) is an information appliance device that generally contains a TV-tuner input and displays output to a television set and an external source of signal, turning the source signal into content in a form that can then be displayed on the television screen or other display device. They are used in cable television, satellite television, and over-the-air television systems, as well as other uses.
 
@@ -7,7 +7,7 @@ According to the Los Angeles Times, the cost to a cable provider for a set-top b
 
 TV signal sources
 
-Sat-Receiver_Palcom_DSL-350.jpg demodulation tuner is on the bottom left, and a Fujitsu MPEG decoder CPU is in the center of the board. The power supply is on the right.]] The signal source might be an Ethernet cable, a satellite dish, a coaxial cable (see cable television), a telephone line (including DSL connections), broadband over power lines (BPL), or even an ordinary VHF or UHF antenna. Content, in this context, could mean any or all of video, audio, Internet web pages, interactive video games, or other possibilities. Satellite and microwave-based services also require specific external receiver hardware, so the use of set-top boxes of various formats has never completely disappeared. Set-top boxes can also enhance source signal quality.
+demodulation tuner is on the bottom left, and a Fujitsu MPEG decoder CPU is in the center of the board. The power supply is on the right.]] The signal source might be an Ethernet cable, a satellite dish, a coaxial cable (see cable television), a telephone line (including DSL connections), broadband over power lines (BPL), or even an ordinary VHF or UHF antenna. Content, in this context, could mean any or all of video, audio, Internet web pages, interactive video games, or other possibilities. Satellite and microwave-based services also require specific external receiver hardware, so the use of set-top boxes of various formats has never completely disappeared. Set-top boxes can also enhance source signal quality.
 
 UHF converter
 
@@ -35,7 +35,7 @@ Professional set-top boxes are referred to as IRDs or integrated receiver/decode
 
 Hybrid box
 
-Lenovo_A30_Internet_TV_Set_Top_Box_-_Front_with_Remote_(6639767915).jpg Hybrid set-top boxes, such as those used for Smart TV programming, enable viewers to access multiple TV delivery methods (including terrestrial, cable, internet, and satellite); like IPTV boxes, they include video on demand, time-shifting TV, Internet applications, video telephony, surveillance, gaming, shopping, TV-centric electronic program guides, and e-government. By integrating varying delivery streams, hybrids (sometimes known as "TV-centric"[2]) enable pay-TV operators more flexible application deployment, which decreases the cost of launching new services, increases speed to market, and limits disruption for consumers.[3]
+Hybrid set-top boxes, such as those used for Smart TV programming, enable viewers to access multiple TV delivery methods (including terrestrial, cable, internet, and satellite); like IPTV boxes, they include video on demand, time-shifting TV, Internet applications, video telephony, surveillance, gaming, shopping, TV-centric electronic program guides, and e-government. By integrating varying delivery streams, hybrids (sometimes known as "TV-centric"[2]) enable pay-TV operators more flexible application deployment, which decreases the cost of launching new services, increases speed to market, and limits disruption for consumers.[3]
 
 As examples, Hybrid Broadcast Broadband TV (HbbTV) set-top boxes allow traditional TV broadcasts, whether from terrestrial (DTT), satellite, or cable providers, to be brought together with video delivered over the Internet and personal multimedia content. Advanced Digital Broadcast (ADB) launched its first hybrid DTT/IPTV set-top box in 2005,[4] which provided Telefónica with the digital TV platform for its Movistar TV service by the end of that year.[5] In 2009, ADB provided Europe's first three-way hybrid digital TV platform to Polish digital satellite operator n, which enables subscribers to view integrated content whether delivered via satellite, terrestrial, or internet.[6]
 
@@ -86,7 +86,7 @@ As complexity and potential programming faults of the set-top box increase,[9] s
 
 Firmware update features
 
-Set-top_box_firmware_being_updated.jpg Almost all modern set-top boxes feature automatic firmware update processes. The firmware update is typically provided by the service provider.
+Almost all modern set-top boxes feature automatic firmware update processes. The firmware update is typically provided by the service provider.
 
 
 Ambiguities in the definition
@@ -101,7 +101,7 @@ Europe
 
 In Europe, a set-top box does not necessarily contain a tuner of its own. A box connected to a television (or VCR) SCART connector is fed with the baseband television signal from the set's tuner, and can have the television display the returned processed signal instead.
 
-Pace_DC757X_cable_box_mod.jpg DC757X Set top box]] This SCART feature had been used for connection to analogue decoding equipment by pay TV operators in Europe, and in the past was used for connection to teletext equipment before the decoders became built-in. The outgoing signal could be of the same nature as the incoming signal, or RGB component video, or even an "insert" over the original signal, due to the "fast switching" feature of SCART.
+DC757X Set top box]] This SCART feature had been used for connection to analogue decoding equipment by pay TV operators in Europe, and in the past was used for connection to teletext equipment before the decoders became built-in. The outgoing signal could be of the same nature as the incoming signal, or RGB component video, or even an "insert" over the original signal, due to the "fast switching" feature of SCART.
 
 In case of analogue pay-TV, this approach avoided the need for a second remote control. The use of digital television signals in more modern pay-TV schemes requires that decoding take place before the digital-to-analogue conversion step, rendering the video outputs of an analogue SCART connector no longer suitable for interconnection to decryption hardware. Standards such as DVB's Common Interface and ATSC's CableCARD therefore use a PCMCIA-like card inserted as part of the digital signal path as their alternative to a tuner-equipped set-top box.
 

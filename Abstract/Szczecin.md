@@ -1,1 +1,0 @@
-SZCZECIN (; , ; known also by other alternative names) is the capital and largest city of the West Pomeranian Voivodeship in Poland. Located near the Baltic Sea and the German border, it is a major seaport and Poland's seventh-largest city. As of December 2018, the population was 402,465.[1]

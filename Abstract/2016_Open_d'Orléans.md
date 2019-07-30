@@ -1,1 +1,0 @@
-The 2016 OPEN D'ORLÉANS was a professional tennis tournament played on indoor hard courts. It was the twelfth edition of the tournament which was part of the 2016 ATP Challenger Tour. It took place in Orléans, France between 26 September and 2 October 2016.

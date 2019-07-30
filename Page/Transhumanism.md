@@ -21,7 +21,7 @@ The late 19th to early 20th century movement known as Russian cosmism also incor
 
 Early transhumanist thinking
 
-Hux-Oxon-72.jpg, the biologist who popularised the term _transhumanism_ in an influential 1957 essay.]] Fundamental ideas of transhumanism were first advanced in 1923 by the British geneticist J. B. S. Haldane in his essay _Daedalus: Science and the Future_, which predicted that great benefits would come from the application of advanced sciences to human biology—and that every such advance would first appear to someone as blasphemy or perversion, "indecent and unnatural". In particular, he was interested in the development of the science of eugenics, ectogenesis (creating and sustaining life in an artificial environment), and the application of genetics to improve human characteristics, such as health and intelligence.
+, the biologist who popularised the term _transhumanism_ in an influential 1957 essay.]] Fundamental ideas of transhumanism were first advanced in 1923 by the British geneticist J. B. S. Haldane in his essay _Daedalus: Science and the Future_, which predicted that great benefits would come from the application of advanced sciences to human biology—and that every such advance would first appear to someone as blasphemy or perversion, "indecent and unnatural". In particular, he was interested in the development of the science of eugenics, ectogenesis (creating and sustaining life in an artificial environment), and the application of genetics to improve human characteristics, such as health and intelligence.
 
 His article inspired academic and popular interest. J. D. Bernal, a crystallographer at Cambridge, wrote _The World, the Flesh and the Devil_ in 1929, in which he speculated on the prospects of space colonization and radical changes to human bodies and intelligence through bionic implants and cognitive enhancement.[20] These ideas have been common transhumanist themes ever since.[21]
 
@@ -69,8 +69,6 @@ As an alternative, humanist philosopher Dwight Gilbert Jones has proposed a rene
 The philosophy of transhumanism is closely related to technoself studies, an interdisciplinary domain of scholarly research dealing with all aspects of human identity in a technological society and focusing on the changing nature of relationships between humans and technology.[63]
 
 Aims
-
-PPTCountdowntoSingularityLog.jpg
 
 While many transhumanist theorists and advocates seek to apply reason, science and technology for the purposes of reducing poverty, disease, disability and malnutrition around the globe,[64] transhumanism is distinctive in its particular focus on the applications of technologies to the improvement of human bodies at the individual level. Many transhumanists actively assess the potential for future technologies and innovative social systems to improve the quality of all life, while seeking to make the material reality of the human condition fulfill the promise of legal and political equality by eliminating congenital mental and physical barriers.
 
@@ -174,7 +172,7 @@ Nick Bostrom responds that the desire to regain youth, specifically, and transce
 
 Loss of human identity
 
-Amish_vs_modern_transportation.jpg are a religious group probably most known for their avoidance of certain modern technologies. Transhumanists draw a parallel by arguing that in the near-future there will probably be "humanish", people who choose to "stay human" by not adopting human enhancement technologies. They believe their choice must be respected and protected.[142]]]
+are a religious group probably most known for their avoidance of certain modern technologies. Transhumanists draw a parallel by arguing that in the near-future there will probably be "humanish", people who choose to "stay human" by not adopting human enhancement technologies. They believe their choice must be respected and protected.[142]]]
 
 In his 2003 book _Enough: Staying Human in an Engineered Age_, environmental ethicist Bill McKibben argued at length against many of the technologies that are postulated or supported by transhumanists, including germinal choice technology, nanomedicine and life extension strategies. He claims that it would be morally wrong for humans to tamper with fundamental aspects of themselves (or their children) in an attempt to overcome universal human limitations, such as vulnerability to aging, maximum life span and biological constraints on physical and cognitive ability. Attempts to "improve" themselves through such manipulation would remove limitations that provide a necessary context for the experience of meaningful human choice. He claims that human lives would no longer seem meaningful in a world where such limitations could be overcome technologically. Even the goal of using germinal choice technology for clearly therapeutic purposes should be relinquished, since it would inevitably produce temptations to tamper with such things as cognitive capacities. He argues that it is possible for societies to benefit from renouncing particular technologies, using as examples Ming China, Tokugawa Japan and the contemporary Amish.[143]
 

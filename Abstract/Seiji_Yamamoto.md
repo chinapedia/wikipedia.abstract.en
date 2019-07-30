@@ -1,1 +1,0 @@
-is a Japanese chef, who holds three Michelin stars at his restaurant Nihonryori RyuGin. His restaurant has been named in The World's 50 Best Restaurants, while he has placed fifth in _Le Chef_{{'}}s list of the best chefs in the world.

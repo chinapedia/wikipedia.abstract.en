@@ -1,1 +1,0 @@
-Route_of_the_1996_Tour_de_France.png The 1996 Tour de France was the 83rd edition of Tour de France, one of cycling's Grand Tours. The Tour began in 's-Hertogenbosch in the Netherlands with a prologue individual time trial on 29 June and Stage 10 occurred on 9 July with a hilly stage to Gap. The race finished on the Champs-Élysées in Paris on 21 July.

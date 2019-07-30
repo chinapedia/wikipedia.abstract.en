@@ -1,1 +1,0 @@
-KIDS CLUB is a former American children's programming block that aired on TBN from May 22, 1993 to December 17, 2005. The block was aimed at children between the ages of 2 and 12 years, and offered a mix of children's religious and family-oriented programming.

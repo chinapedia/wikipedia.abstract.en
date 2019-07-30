@@ -1,1 +1,0 @@
-BRIAN ANTHONY BOITANO (born October 22, 1963)[1] is an American figure skater from Sunnyvale, California. He is the 1988 Olympic champion, the 1986 and 1988 World Champion, and the 1985–1988 U.S. National Champion. He turned professional following the 1988 season. He returned to competition in 1993 and competed at the 1994 Winter Olympics, where he placed sixth.

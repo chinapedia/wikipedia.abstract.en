@@ -1,1 +1,0 @@
-The MATANGESHVARA TEMPLE (IAST: Matangeśvara Mandir) is a Shiva temple in the Khajuraho town of Madhya Pradesh, India. It is located among the Western group of temples. Among the Chandela-era monuments of Khajuraho, it is the only Hindu temple that is still actively used for worship.

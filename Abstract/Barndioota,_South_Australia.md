@@ -1,1 +1,0 @@
-BARNDIOOTA is a locality and former town in the southern Flinders Ranges west of Hawker. The bounded locality of Barndioota which corresponds to the cadastral HUNDRED OF BARNDIOOTA, also includes the former town of Hookina and the site of the ceased Government Town of Barndioota which was surveyed in 1883 and declared ceased to exist in 1929.[1][2]

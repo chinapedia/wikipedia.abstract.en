@@ -1,1 +1,0 @@
-_GOLD KEY: ALLIANCE_ is a comic book limited series published by Dynamite Entertainment, which ran from April 6 to August 17, 2016.[1][2][3] The series featured five Gold Key Comics characters: Magnus, Mighty Samson, Solar, Doctor Spektor and Turok.[4]

@@ -1,1 +1,0 @@
-SUDHINDRANATH KUMAR (died 1984) was an Indian politician, belonging to the Revolutionary Communist Party of India. He served as general secretary of the party 1960–1984, represented Howrah Central constituency in the West Bengal Legislative Assembly and served as Food Minister of the state in 1969 and 1977–1982.

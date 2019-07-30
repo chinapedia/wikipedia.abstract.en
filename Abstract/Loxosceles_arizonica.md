@@ -1,1 +1,0 @@
-_LOXOSCELES ARIZONICA_, known as the ARIZONA BROWN SPIDER,[1] is a species of spider in the family Sicariidae.[2] Field studies suggest that ants are its major prey, especially ants of the genera _Novomessor_ and _Camponotus_.[3]

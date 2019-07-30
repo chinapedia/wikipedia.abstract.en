@@ -1,1 +1,0 @@
-A magic lantern is an early type of image projector, an ancestor of the modern slide projector.

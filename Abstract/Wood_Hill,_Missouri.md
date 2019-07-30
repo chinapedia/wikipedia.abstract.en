@@ -1,1 +1,0 @@
-WOOD HILL is an unincorporated community in Dallas County, in the U.S. state of Missouri.[1] The community is located on Missouri Route 64, approximately 1.5 miles east of Pumpkin Center and Missouri Route 73. Buffalo is seven miles south-southwest. The headwaters of the Little Niangua River arise just east of the location.[2]

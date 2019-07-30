@@ -1,1 +1,0 @@
-_10 TROMBONES LIKE 2 PIANOS_ is an album by composer, arranger and conductor Pete Rugolo featuring performances recorded in 1960 and first released on the Mercury label as part of its audiophile Perfect Presence Sound Series.[1][2][3][4]

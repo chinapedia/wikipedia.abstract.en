@@ -1,1 +1,0 @@
-The MANGALA are an Indigenous Australian people of Western Australia. The Mangala people traditionally lived in the north-western area of the Great Sandy Desert, west of the Karajarri people, east of the Walmajarri, with the Juwaliny and Yulparija to the south. At present many Mangala people live in Jarlmadangah and Bidyadanga.

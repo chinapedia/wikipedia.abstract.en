@@ -1,1 +1,0 @@
-CENTRO RECREATIVO E CULTURAL DA QUINTA DOS LOMBOS is a sports club based in the village of Quinta dos Lombos, Portugal. The futsal team of Quinta dos Lombos plays in the Portuguese Futsal First Division.

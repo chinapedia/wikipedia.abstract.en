@@ -1,1 +1,0 @@
-MOSELEY’S ON THE CHARLES, located on the banks of the Charles River in Dedham, Massachusetts, is the oldest continuous-running ballroom in the country.[1][2] Founded in 1905 by Elisha Moseley,[3] it originally functioned as a summer canoe house in addition to the ballroom.[4]

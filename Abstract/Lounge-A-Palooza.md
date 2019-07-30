@@ -1,1 +1,0 @@
-_LOUNGE-A-PALOOZA_ is a compilation album issued in 1997 by Hollywood Records. Released to capitalize on the 1990s lounge music revival, it features cover versions of songs, including classic lounge hits performed by contemporary artists and 1990s hits covered by lounge singers.[1]

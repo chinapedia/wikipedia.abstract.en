@@ -1,1 +1,0 @@
-JAHIĆ is a Bosnian patronymic surname[1][2] formed by adding the Slavic diminutive suffix _-ić_ to the Bosnian rendition _Jahja_ of the common male Muslim name Yahya,[3] the Arabic version of the name John (thus roughly corresponding to the English surnames Johnson, Jones etc.) and may refer to:

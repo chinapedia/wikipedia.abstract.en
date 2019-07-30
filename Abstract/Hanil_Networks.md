@@ -1,1 +1,0 @@
-HANIL NETWORKS CO.,LTD is a IT company headquartered in Seoul, South Korea, and a member of Hanil Cement Group. Established in 1998, it engages in network service, contact Center solution, System & Security and ERP.

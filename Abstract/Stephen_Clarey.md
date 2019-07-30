@@ -1,1 +1,0 @@
-STEPHEN S. CLAREY (born 9 July 1940) is a retired United States Navy rear admiral (lower half) who commanded the U.S. Maritime Prepositioning Force during Operation Desert Shield and the Pacific Fleet/5th Marine Expeditionary Brigade Amphibious Task Force during Operation Desert Storm. He retired from the Navy in August 1992 after thirty years of service.

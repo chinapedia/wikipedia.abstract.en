@@ -1,1 +1,0 @@
-CARLOS MANUEL ROSARIO, (1922 – February 1, 1987) was a Puerto Rican activist who served as the executive director of the Spanish Community Advisory Committee. He was a founder of the Latino Festival in Washington, DC and founded the Program of English Instruction for Latin Americans (PEILA).[1]

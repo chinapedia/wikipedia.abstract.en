@@ -1,1 +1,0 @@
-In mathematics, a "helping theorem" or LEMMA (plural LEMMAS or LEMMATA) is a proven proposition which is used as a stepping stone to a larger result rather than as a statement of interest by itself.[1] The word derives from the Ancient Greek λῆμμα ("anything which is received, such as a gift, profit, or a bribe").

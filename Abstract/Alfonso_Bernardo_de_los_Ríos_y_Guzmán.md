@@ -1,1 +1,0 @@
-ALFONSO BERNARDO DE LOS RÍOS Y GUZMÁN, O.SS.T. (1626 – 5 October 1692) was a Roman Catholic prelate who served as Archbishop of Granada (1677–1692), Bishop of Ciudad Rodrigo (1671–1677), and Bishop of Santiago de Cuba (1668–1669).[1][2]

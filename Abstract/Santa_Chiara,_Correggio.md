@@ -1,1 +1,0 @@
-SANTA CHIARA is a Baroque-style, Roman Catholic church and convent located on Piazzetta delle Suore in the town of Correggio, province of Reggio Emilia, region of Emilia-Romagna, Italy. The Clarissan convent adjacent to the church is still active.

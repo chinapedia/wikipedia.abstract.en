@@ -1,1 +1,0 @@
-TESLA GROHMANN AUTOMATION GMBH (formerly GROHMANN ENGINEERING GMBH) is a German engineering company based in Prüm in the state of Rhineland-Palatinate. The company operates a development center in Neutraubling, as well as support offices in Chandler, Arizona, and Shanghai.[1] The company was founded in 1963 by Klaus Grohman and acquired by Tesla, Inc. in January 2017.

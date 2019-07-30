@@ -1,1 +1,0 @@
-The QUEEN CITY PACE was a Canadian harness race for three-year-old Standardbred pacers run each year at Greenwood Raceway in Toronto, Ontario. The Queen City Pace was run from 1964 through 1983 after which it was replaced by the North America Cup.[1]

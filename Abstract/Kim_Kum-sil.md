@@ -1,1 +1,0 @@
-KIM KUM-SIL (born 24 December 1970) is a North Korean politician and former women's international footballer; she played as a midfielder. She was a member of the North Korea women's national football team. She was part of the team at the 1999 FIFA Women's World Cup.[1]

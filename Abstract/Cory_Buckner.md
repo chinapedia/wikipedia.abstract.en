@@ -1,1 +1,0 @@
-CORY BUCKNER is an American architect. Buckner's focus has been on restoration architecture. She received a B.F.A. from the Chouinard Art Institute and a M.Arch. from the University of California, Los Angeles.

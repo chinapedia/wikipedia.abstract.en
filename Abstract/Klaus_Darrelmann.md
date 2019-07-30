@@ -1,1 +1,0 @@
-KLAUS DARRELMANN (full name: Klaus große Darrelmann) is a Germany-based location manager,[1] who received the 2015 Location Managers Guild of America (now Location Managers Guild International) Award for his work on The Grand Budapest Hotel in the category "Outstanding Locations in a Period Film".[2][3][4]

@@ -1,1 +1,0 @@
-'''Diego Peña ''' is a Colombian male track cyclist, representing Colombia at international competitions. He won the silver medal at the 2016 Pan American Track Cycling Championships in the 1 km time trial.[1]

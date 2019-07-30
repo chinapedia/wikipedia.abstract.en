@@ -1,1 +1,0 @@
-The following table includes players who have captained the United States men's national soccer team (featuring all caps, goals and assists or goalkeeper wins and shutouts) from January 24, 1998, through the July 7, 2019, game with Mexico. Values come from U.S. Soccer Federation Media Guide.

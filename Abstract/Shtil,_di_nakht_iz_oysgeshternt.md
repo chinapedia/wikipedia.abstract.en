@@ -1,1 +1,0 @@
-"SHTIL, DI NAKHT IZ OYSGESHTERNT"[1] (_Quiet, the Night is Full of Stars_)[2] or "PARTISANER LID" (_Partisan Song_)[3] is a Yiddish song written in summer 1942 by Hirsh Glick, a young Jewish inmate of the Vilna Ghetto.[4] It is set to a Russian folk melody.[5]

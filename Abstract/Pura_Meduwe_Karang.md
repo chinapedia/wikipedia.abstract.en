@@ -1,1 +1,0 @@
-Bali_Pura_Medewe_Karang.jpg PURA MEDUWE KARANG or PURA MADUWE KARANG is a Balinese temple located in Kubutambahan, around 12 km east of Singaraja in Buleleng Regency, northern Bali. It is considered as one of the principle temples of Bali, due to its size. Pura Meduwe Karang is noted for its statues and flowery style of decoration characteristic of North Bali.

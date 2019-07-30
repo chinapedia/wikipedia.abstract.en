@@ -1,1 +1,0 @@
-MOTHER MUSHROOM (born 1979 in Khánh Hòa, Vietnam) is the pen name of the Vietnamese blogger and dissident, NGUYỄN NGỌC NHƯ QUỲNH.[1] Mushroom or Nấm in Vietnamese is the name of her daughter. She first used the pen name in her popular blog ''Mẹ Nấm'.

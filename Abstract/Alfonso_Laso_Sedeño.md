@@ -1,1 +1,0 @@
-ALFONSO LASO SEDEÑO (died 1607) was a Roman Catholic prelate who served as Archbishop (Personal Title) of Mallorca (1604–1607),[1] Archbishop of Cagliari (1596–1604),[2][3] and Bishop of Gaeta (1587–1596).[4]

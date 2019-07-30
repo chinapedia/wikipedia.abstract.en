@@ -1,1 +1,0 @@
-_PARACHUTES_ is the second album by guitarist and singer-songwriter Frank Iero and the first one with his backup band THE PATIENCE. It was released on October 28, 2016 via Vagrant Records with exclusive license to Hassle Records for the UK release. In February 2017, the band supported Taking Back Sunday on their tour of the UK.[1]

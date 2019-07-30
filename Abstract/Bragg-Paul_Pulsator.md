@@ -1,1 +1,0 @@
-The BRAGG-PAUL PULSATOR, also known as the BRAGG-PAUL RESPIRATOR, was a non-invasive medical ventilator invented by William Henry Bragg and designed by Robert W. Paul in 1933 for patients unable to breathe for themselves due to illness.[1]

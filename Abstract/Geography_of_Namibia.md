@@ -1,1 +1,0 @@
-LocationNamibia.svg NamibiaDetailFinal.jpg Namibia_Topography.png

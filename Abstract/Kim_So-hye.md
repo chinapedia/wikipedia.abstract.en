@@ -1,1 +1,0 @@
-KIM SO-HYE (born July 19, 1999) is a South Korean actress and singer signed under S&P Entertainment. She is best known for finishing fifth in Mnet's K-pop girl group survival show _Produce 101_ and for being a member of girl group I.O.I, and her roles in _Poetry Story_, _Kang Deok-soon's Love History_, and _Best Chicken_.

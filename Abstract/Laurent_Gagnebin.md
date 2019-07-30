@@ -1,1 +1,0 @@
-LAURENT GAGNEBIN is a philosopher and Protestant theologian born in Lausanne in 1939. He has been pastor of the Reformed Church of France in Paris in the Liberal Prostestant congregations of the Oratory of the Louvre and the from 1963 to 1981 and professor of practical theology at the Protestant Faculty of Theology in Paris.

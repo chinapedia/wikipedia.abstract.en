@@ -1,4 +1,4 @@
-HST-SM4.jpeg, one of the Great Observatories]]
+, one of the Great Observatories]]
 
 A SPACE TELESCOPE or SPACE OBSERVATORY is an instrument located in outer space to observe distant planets, galaxies and other astronomical objects. Space telescopes avoid the filtering of ultraviolet frequencies, X-rays and gamma rays; the distortion (scintillation) of electromagnetic radiation; as well as light pollution which are encountered by ground-based observatories.[1]
 
@@ -9,8 +9,6 @@ Space telescopes are distinct from other imaging satellites pointed toward Earth
 
 History
 
-Spitzer,_Hubble_and_XMM-Newton.tif
-
 Wilhelm Beer and Johann Heinrich Mädler in 1837 discussed the advantages of an observatory on the Moon.[2] In 1946, American theoretical astrophysicist Lyman Spitzer proposed a telescope in space, 11 years before the Soviet Union launched the first satellite, _Sputnik 1_.[3] Spitzer's proposal called for a large telescope that would not be hindered by Earth's atmosphere. After lobbying in the 1960s and 70s for such a system to be built, Spitzer's vision ultimately materialized into the Hubble Space Telescope, which was launched on April 24, 1990 by the Space Shuttle _Discovery_ (STS-31).[4][5]
 
 
@@ -18,7 +16,7 @@ Advantages
 
 Performing astronomy from ground-based observatories on Earth is limited by the filtering and distortion of electromagnetic radiation (scintillation or twinkling) due to the atmosphere. Some terrestrial telescopes can reduce atmospheric effects with adaptive optics. A telescope orbiting Earth outside the atmosphere is subject neither to twinkling nor to light pollution from artificial light sources on Earth. As a result, the angular resolution of space telescopes is often much smaller than a ground-based telescope with a similar aperture.
 
-Ill-2_O3.jpg Space-based astronomy is even more important for frequency ranges which are outside the optical window and the radio window, the only two wavelength ranges of the electromagnetic spectrum that are not severely attenuated by the atmosphere. For example, X-ray astronomy is nearly impossible when done from Earth, and has reached its current importance in astronomy only due to orbiting X-ray telescopes such as the Chandra observatory and the XMM-Newton observatory. Infrared and ultraviolet are also largely blocked.
+Space-based astronomy is even more important for frequency ranges which are outside the optical window and the radio window, the only two wavelength ranges of the electromagnetic spectrum that are not severely attenuated by the atmosphere. For example, X-ray astronomy is nearly impossible when done from Earth, and has reached its current importance in astronomy only due to orbiting X-ray telescopes such as the Chandra observatory and the XMM-Newton observatory. Infrared and ultraviolet are also largely blocked.
 
 
 Disadvantages

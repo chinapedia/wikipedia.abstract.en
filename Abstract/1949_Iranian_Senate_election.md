@@ -1,1 +1,0 @@
-The first ELECTIONS FOR THE SENATE OF IRAN were held in two-round system with the primary stage beginning in late August 1949 [Šahrīvar 1328 SH].[1] The elections aroused little enthusiasm in the country; voting was restricted to the literate citizens.[2] In Tehran, only 15,280 votes were cast.[3]

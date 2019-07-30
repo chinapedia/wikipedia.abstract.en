@@ -1,1 +1,0 @@
-MUHAMMAD RAZA KHAN (Urdu:محمد رضا خان) is a former Federal Secretary, Ministry of Law, Justice and Human Rights and a retired Chief Justice of Peshawar High Court. He was born in District Mansehra, Khyber Pakhtunkhwa on 8 August 1946.

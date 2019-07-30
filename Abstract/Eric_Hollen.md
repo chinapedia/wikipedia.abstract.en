@@ -1,1 +1,0 @@
-ERIC HOLLEN (born October 2, 1965) is an American Paralympic pistol shooter who won five world cup medals between 2009 and 2011. In 2010 and 2011 he was voted USA Shooting Paralympic Athlete of the Year. In 2012 he became the first American pistol shooter to qualify for Paralympics; at the 2012 London Games he placed 14th in the 10 m and 23rd in the 50 m events.[1]

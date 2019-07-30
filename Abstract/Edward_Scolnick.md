@@ -1,1 +1,0 @@
-EDWARD SCOLNICK is a core investigator at the Broad Institute, the former founding director of the Stanley Center for Psychiatric Research at Broad Institute, and former head of research and development at Merck Research Laboratories.

@@ -1,1 +1,0 @@
-_MUDDULA KODUKU_ (English: LOVING SON) is a 1979 Telugu Romance film, produced and directed by V. B. Rajendra Prasad[1] under his Jagapathi Art Pictures banner.[2] It stars Akkineni Nageswara Rao, Sridevi, Jayasudha and has music composed by K. V. Mahadevan.[3][4]

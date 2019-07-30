@@ -1,1 +1,0 @@
-The 2016–17 BRITISH BASKETBALL LEAGUE SEASON was the 30th campaign of the British Basketball League since the league's establishment in 1987. The season featured 12 teams from across England and Scotland. The season started on September 23, 2016 and ended on May 14, 2017.[1]

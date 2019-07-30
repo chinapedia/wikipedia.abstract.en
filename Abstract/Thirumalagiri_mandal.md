@@ -1,1 +1,0 @@
-THIRUMALAGIRI MANDAL is one of the 23 mandals in Suryapet district of the Indian state of Telangana.[1] It is under the administration of Suryapet revenue division with its headquarters at Thirumalagiri. It is bounded by Nagaram mandal towards South, Thungathurthy mandal towards East, Yadadri district towards West, Jangaon district towards North.

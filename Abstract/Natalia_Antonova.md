@@ -1,1 +1,0 @@
-'''Natalia Antonova ''' (born ) is a Russian female track cyclist, representing Russia at international competitions. She won the bronze medal at the 2016–17 UCI Track Cycling World Cup, Round 1 in Glasgow in the team sprint.[1][2]

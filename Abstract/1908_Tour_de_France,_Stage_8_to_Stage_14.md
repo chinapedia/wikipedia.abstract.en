@@ -1,1 +1,0 @@
-Tour_de_France_1907_map-fr.svg The 1908 Tour de France was the 6th edition of Tour de France, one of cycling's Grand Tours. The Tour began in Paris on 13 July and Stage 8 occurred on 27 July with a flat stage from Nîmes. The race finished in Paris on 9 August.

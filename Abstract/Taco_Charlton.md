@@ -1,1 +1,0 @@
-'''Vidauntae "Taco" Charlton ''' (born November 7, 1994) is an American football defensive end for the Dallas Cowboys of the National Football League (NFL). He played college football at Michigan, and was drafted by the Cowboys in the first round of the 2017 NFL Draft.

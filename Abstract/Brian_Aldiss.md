@@ -1,1 +1,0 @@
-BRIAN WILSON ALDISS, OBE (; 18 August 1925 – 19 August 2017) was an English writer and anthology-editor, best known for science fiction novels and short stories. His byline reads either BRIAN W. ALDISS or simply BRIAN ALDISS, except for occasional pseudonyms during the mid-1960s.

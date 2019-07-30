@@ -1,1 +1,0 @@
-Mítin_CU-20_agost.jpg 14_primera_conferència_de_premsa_després_de_la_masacre_del_2_d'octubre,_5_d'octubre_de_1968.jpg

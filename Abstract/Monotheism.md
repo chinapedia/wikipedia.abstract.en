@@ -1,1 +1,0 @@
-MONOTHEISM is the belief in one god.[1][2][3][4] A narrower definition of monotheism is the belief in the existence of only one god that created the world, is all-powerful and intervenes in the world.[5][6][7]

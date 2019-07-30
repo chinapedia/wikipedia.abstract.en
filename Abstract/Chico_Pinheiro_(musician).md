@@ -1,1 +1,0 @@
-CHICO PINHEIRO is a guitarist, composer, and arranger from Brazil. He has played with other guitarists including Anthony Wilson, Julian Lage and Steve Cardenas.[1] He is a leading figure of modern jazz in Brazil.[2]

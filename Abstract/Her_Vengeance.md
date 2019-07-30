@@ -1,1 +1,0 @@
-_HER VENGEANCE_ is a 1988 Hong Kong film directed by Lam Nai-Choi and starring Pauline Wong. It is a remake of the 1973 rape and revenge film _Kiss of Death_ with elements taken from the 1978 American film _I Spit On Your Grave_.[1]

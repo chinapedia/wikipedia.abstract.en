@@ -1,1 +1,0 @@
-A MOUSSE (French 'foam' ) is a soft prepared food that incorporates air bubbles to give it a light and airy texture. It can range from light and fluffy to creamy and thick, depending on preparation techniques. A mousse may be sweet or savory.[1]

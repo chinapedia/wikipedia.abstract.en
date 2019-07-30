@@ -1,1 +1,0 @@
-The is an electric multiple unit (EMU) train type operated by the private railway operator Semboku Rapid Railway in Japan on _Semboku Liner_ limited express services between and in Osaka Prefecture since 27 January 2017.

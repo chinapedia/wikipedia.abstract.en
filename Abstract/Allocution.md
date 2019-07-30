@@ -1,1 +1,0 @@
-An ALLOCUTION, or ALLOCUTUS, is a formal statement made to the court by the defendant who has been found guilty prior to being sentenced. It is part of the criminal procedure in some jurisdictions using common law.

@@ -1,1 +1,0 @@
-NARAYANA MULTISPECIALITY HOSPITAL, AHMEDABAD is a tertiary care hospital in Ahmedabad, Gujarat, India, which treats patients in Gujarat and southern Rajasthan. The hospital is a part of Narayana Health group, (formerly known as Narayana Hrudyalaya Private Limited) headquartered in Bengaluru, which was founded in 2012 by cardiac surgeon Dr. Devi Prasad Shetty in 2001.[1][2]

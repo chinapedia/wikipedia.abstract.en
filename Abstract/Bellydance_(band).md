@@ -1,1 +1,0 @@
-BELLYDANCE were an Australian dance, funk band originally known as BELLYDANCE DISCO, which formed in 1987. Mainstays were Ted Cavanagh on guitar, Tony Hughes on vocals and Scott Saunders (also in Directions in Groove) on keyboards. Their debut album, _One Blood_ (1993), was nominated at the ARIA Music Awards of 1994 for Best Pop Release.

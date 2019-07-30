@@ -1,1 +1,0 @@
-_LAKEERAN_ is a 2016 Punjabi film produced by Wonderland Amusement Parks Pvt. Ltd. It stars Harman Virk and Yuvika Chaudhary in lead roles with Gurinder Rai, Shivendra Mahal, B.N. Sharma and Nirmal Rishi in pivotal roles.[1]

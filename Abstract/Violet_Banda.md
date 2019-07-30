@@ -1,1 +1,0 @@
-VIOLET BANDA (born 1991 or 1992) is a reporter and children’s rights activist from Malawi.[1] Through her weekly radio appearances, she has drawn the attention of the Malawian public and government to the problems afflicting children in her country, including abuse, rape, forced marriage, and discrimination based on HIV status.[2][3]

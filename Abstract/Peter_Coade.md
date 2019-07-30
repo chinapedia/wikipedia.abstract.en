@@ -1,1 +1,0 @@
-PETER COADE (born February 14, 1942) is a Canadian broadcast meteorologist. In 2013 he was certified by the _Guinness Book of World Records_ as having had the longest career of any weather forecaster.

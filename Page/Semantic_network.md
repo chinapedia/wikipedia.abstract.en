@@ -7,7 +7,7 @@ Semantic networks are used in natural language processing applications such as s
 
 History
 
-Semantic_Net.svg "Semantic Nets" were first invented for computers by Richard H. Richens of the Cambridge Language Research Unit in 1956 as an "interlingua" for machine translation of natural languages.[4]
+"Semantic Nets" were first invented for computers by Richard H. Richens of the Cambridge Language Research Unit in 1956 as an "interlingua" for machine translation of natural languages.[4]
 
 They were independently developed by Robert F. Simmons,[5] Sheldon Klein, Karen McConologue, M. Ross Quillian[6] and others at System Development Corporation in the early 1960s as part of the SYNTHEX project. It later featured prominently in the work of Allan M. Collins and Quillian (e.g., Collins and Quillian;[7][8] Collins and Loftus[9] Quillian[10][11][12][13]). Later in 2006, Hermann Helbig fully described MultiNet.[14]
 

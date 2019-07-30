@@ -1,1 +1,0 @@
-ÉDOUARD MANET (; ; ; 23 January 1832 – 30 April 1883) was a French modernist painter. He was one of the first 19th-century artists to paint modern life, and a pivotal figure in the transition from Realism to Impressionism.

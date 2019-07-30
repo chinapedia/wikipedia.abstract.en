@@ -1,1 +1,0 @@
-The 2013 GCC FUTSAL CUP[1] () was the first edition of the biennial Futsal competition. It took place in Qatar in 2013. The competition was originally scheduled to be hosted in the city of Bahrain, but was moved to Bahrain in October 2012 to ensure that they could suitably host the competition in the 2 edition.

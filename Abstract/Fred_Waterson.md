@@ -1,1 +1,0 @@
-FREDERICK WATERSON (1877 – 12 October 1918) was an English professional football right half who made over 160 appearances in the Football League for Burton Swifts and Burton United.[1] After his retirement as a player, he served Doncaster Rovers as assistant trainer.[2]

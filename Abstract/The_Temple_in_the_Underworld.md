@@ -1,1 +1,0 @@
-_THE TEMPLE IN THE UNDERWORLD_ is the third studio album by Czech black metal band Root, released in December 1992 through Monitor. This marked the end of their early raw black metal sound, and was also their last release with guitarist Daniel "Mr. D.A.N." Janáček. It was re-issued under CD format by Monitor with two bonus tracks.

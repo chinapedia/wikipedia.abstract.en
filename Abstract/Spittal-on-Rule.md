@@ -1,1 +1,0 @@
-SPITTAL-ON-RULE is a farm in the council area of Scottish Borders in Scotland. As the name suggests it is situated on the river Rule Water, and the Spittal-on-Rule bridge crosses the Rule. More specifically, it lies where Rule Water meets the River Teviot.

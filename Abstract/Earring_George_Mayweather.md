@@ -1,1 +1,0 @@
-EARRING GEORGE MAYWEATHER (September 27, 1927 – February 12, 1995)[1] was an American electric blues and Chicago blues harmonica player, songwriter and singer. He recorded only one solo album, but he played the harmonica on recordings by J. B. Hutto and Eddie Taylor.

@@ -1,1 +1,0 @@
-Helicopters, NATO/ASCC names:

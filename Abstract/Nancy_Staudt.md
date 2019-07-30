@@ -1,1 +1,0 @@
-NANCY CHRISTINE STAUDT (August 4, 1963)[1] is the dean of the Washington University in St. Louis School of Law and the Howard and Caroline Cayne Professor of Law. She is a scholar in tax, tax policy, and empirical legal studies.[2]

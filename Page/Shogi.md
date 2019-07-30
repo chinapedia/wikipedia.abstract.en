@@ -7,8 +7,6 @@ The earliest predecessor of the game, chaturanga, originated in India in the 6th
 
 Equipment
 
-Shogi_Ban_Koma.jpg
-
 Two players face each other across a board composed of rectangles in a grid of 9 _ranks_ (rows) by 9 _files_ (columns) yielding an 81 square board. In Japanese they are called _Sente_ (first player) and _Gote_ (second player), but in English are conventionally referred to as Black and White, with Black the first player. The board is nearly always rectangular, and the rectangles are undifferentiated by marking or color. Pairs of dots mark the players' promotion zones.[3]
 
 Each player has a set of 20 flat wedge-shaped pentagonal pieces of slightly different sizes. Except for the kings, opposing pieces are undifferentiated by marking or color. Pieces face _forward_ by having the pointed side of each piece oriented toward the opponent's side – this shows who controls the piece during play. The pieces from largest (most important) to smallest (least important) are:
@@ -28,48 +26,48 @@ Each piece has its name written on its surface in the form of two _kanji_ (Chine
 
 Following is a table of the pieces with their Japanese representations and English equivalents. The abbreviations are used for game notation and often when referring to the pieces in speech in Japanese.
 
-Shogi_Koma_Ryoko.jpg DifferentStyleKoma.jpg problem. White has pawns on 13, 24, 34; king on 23; and a promoted rook on 29. Black has a bishop on 44, a pawn on 17, a lance on 19, and a rook, two golds, and a silver in hand.]] Shogi-Set-08_cropRotate.jpg Shogi-Set-12.JPG)]]
+problem. White has pawns on 13, 24, 34; king on 23; and a promoted rook on 29. Black has a bishop on 44, a pawn on 17, a lance on 19, and a rook, two golds, and a silver in hand.]] )]]
 
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| English name                                | Image                   | Kanji | Rōmaji             | Meaning          | Abbreviations | Betza notation     |
-+=============================================+=========================+=======+====================+==================+===============+====================+
-| King                                        | Shogi_osho(svg).svg     |       | _ōshō_             | king general     | K             |                    |
-| (higher ranked player or reigning champion) |                         |       |                    |                  |               |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| King                                        | Shogi_gyokusho(svg).svg |       | _gyokushō_         | jeweled general  | K             |                    |
-| (lower ranked player or challenger)         |                         |       |                    |                  |               |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Rook                                        | Shogi_hisha(svg).svg    |       | _hisha_            | flying chariot   | R             |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Promoted rook                               | Shogi_ryuo(svg).svg     |       | _ryūō_             | dragon king      | +R            | or                 |
-| ("Dragon")                                  |                         |       |                    |                  |               |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Bishop                                      | shogi_kakugyo.png       |       | _kakugyō_          | angle mover      | B             |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Promoted bishop                             | shogi_ryuma.png         |       | _ryūma_ or _ryume_ | dragon horse     | +B            |                    |
-| ("Horse")                                   |                         |       |                    |                  |               |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Gold general                                | shogi_kinsho.png        | 金將  | _kinshō_           | gold general     | G             | 金                 |
-| ("Gold")                                    |                         |       |                    |                  |               |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Silver general                              | shogi_ginsho.png        |       | _ginshō_           | silver general   | S             |                    |
-| ("Silver")                                  |                         |       |                    |                  |               |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Promoted silver                             | shogi_narigin.png       |       | _narigin_          | promoted silver  | +S            |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Knight                                      | shogi_keima.png         |       | _keima_            | cassia horse     | N             |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Promoted knight                             | shogi_narikei.png       |       | _narikei_          | promoted cassia  | +N            | or{{ lang|ja|今)}} |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Lance                                       | shogi_kyosha.png        |       | _kyōsha_           | incense chariot  | L             |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Promoted lance                              | shogi_narikyo.png       |       | _narikyō_          | promoted incense | +L            | or                 |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Pawn                                        | shogi_fuhyo.png         |       | _fuhyō_            | foot soldier     | P             |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
-| Promoted pawn                               | shogi_tokin.png         |       | _tokin_            | reaches gold     | +P            | or{{ lang|ja|个)}} |
-| ("tokin")                                   |                         |       |                    |                  |               |                    |
-+---------------------------------------------+-------------------------+-------+--------------------+------------------+---------------+--------------------+
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| English name                                | Image | Kanji | Rōmaji             | Meaning          | Abbreviations | Betza notation     |
++=============================================+=======+=======+====================+==================+===============+====================+
+| King                                        |       |       | _ōshō_             | king general     | K             |                    |
+| (higher ranked player or reigning champion) |       |       |                    |                  |               |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| King                                        |       |       | _gyokushō_         | jeweled general  | K             |                    |
+| (lower ranked player or challenger)         |       |       |                    |                  |               |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Rook                                        |       |       | _hisha_            | flying chariot   | R             |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Promoted rook                               |       |       | _ryūō_             | dragon king      | +R            | or                 |
+| ("Dragon")                                  |       |       |                    |                  |               |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Bishop                                      |       |       | _kakugyō_          | angle mover      | B             |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Promoted bishop                             |       |       | _ryūma_ or _ryume_ | dragon horse     | +B            |                    |
+| ("Horse")                                   |       |       |                    |                  |               |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Gold general                                |       | 金將  | _kinshō_           | gold general     | G             | 金                 |
+| ("Gold")                                    |       |       |                    |                  |               |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Silver general                              |       |       | _ginshō_           | silver general   | S             |                    |
+| ("Silver")                                  |       |       |                    |                  |               |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Promoted silver                             |       |       | _narigin_          | promoted silver  | +S            |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Knight                                      |       |       | _keima_            | cassia horse     | N             |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Promoted knight                             |       |       | _narikei_          | promoted cassia  | +N            | or{{ lang|ja|今)}} |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Lance                                       |       |       | _kyōsha_           | incense chariot  | L             |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Promoted lance                              |       |       | _narikyō_          | promoted incense | +L            | or                 |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Pawn                                        |       |       | _fuhyō_            | foot soldier     | P             |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
+| Promoted pawn                               |       |       | _tokin_            | reaches gold     | +P            | or{{ lang|ja|个)}} |
+| ("tokin")                                   |       |       |                    |                  |               |                    |
++---------------------------------------------+-------+-------+--------------------+------------------+---------------+--------------------+
 
 English speakers sometimes refer to promoted bishops as _horses_ and promoted rooks as _dragons_, after their Japanese names, and generally use the Japanese term _tokin_ for promoted pawns. Silver generals and gold generals are commonly referred to simply as _silvers_ and _golds_.
 
@@ -79,8 +77,6 @@ The suggestion that the Japanese characters have deterred Western players from l
 
 
 Setup and gameplay
-
-Shogiban.png
 
 Each player sets up friendly pieces facing forward (toward the opponent).
 
@@ -157,8 +153,6 @@ Traditionally, the order of placing the pieces on the board is determined. There
         7.  rook
         8.  pawns (starting from center file, then alternating left to right one file at a time)
 
-Furigoma.jpg
-
 A _furigoma_ 振り駒 'piece toss' is used to decide who moves first. One of the players tosses five pawns. If the number of tokins (promoted pawns, と) facing up is higher than unpromoted pawns (歩), then the player who tossed the pawns plays _gote_ 後手 'white' (that is, getting the second move).[5] Among amateur tournaments, the higher-ranked player or defending champion performs the piece toss. In professional games, the furigoma is done on the behalf of the higher-ranked player/champion by the timekeeper who kneels by the side of the higher-ranked player and tosses the pawn pieces onto a silk cloth. In friendly amateur games, a player will ask the opponent to toss the pawns out of politeness. Otherwise, the person who tosses the pawns can be determined by Rock–paper–scissors.[6]
 
 After the piece toss _furigoma,_ the game proceeds. If multiple games are played, then players alternate turns for who goes first in subsequent games. (The terms "Black" and "White" are used to differentiate sides although there is no difference in the color of the pieces.) For each turn, a player may either move a piece that is currently on the board (and potentially promote it, capture an opposing piece, or both) or else drop a piece that has been previously captured onto a square of the board. These options are explained below.
@@ -178,105 +172,105 @@ Most shogi pieces can move only to an adjacent square. A few may move across the
 
 The lance, bishop, and rook are _ranging_ pieces: They can move any number of squares along a straight line limited only by intervening pieces and the edge of the board. If an opposing piece intervenes, it may be captured by removing it from the board and replacing it with the moving piece. If a friendly piece intervenes, the moving piece must stop short of that square; if the friendly piece is adjacent, the moving piece may not move in that direction at all.
 
-+------------------+---------------------------+
-| Shogi_king.jpg   | +---+---+---+---+---+     |
-|                  | |   |   |   |   |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   | ○ | ○ | ○ |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   | ○ |   | ○ |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   | ○ | ○ | ○ |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   |   |   |   |   |     |
-|                  | +---+---+---+---+---+     |
-+------------------+---------------------------+
-| Shogi_bishop.jpg | +----+----+---+----+----+ |
-|                  | | ＼ |    |   |    | ／ | |
-|                  | +----+----+---+----+----+ |
-|                  | |    | ＼ |   | ／ |    | |
-|                  | +----+----+---+----+----+ |
-|                  | |    |    |   |    |    | |
-|                  | +----+----+---+----+----+ |
-|                  | |    | ／ |   | ＼ |    | |
-|                  | +----+----+---+----+----+ |
-|                  | | ／ |    |   |    | ＼ | |
-|                  | +----+----+---+----+----+ |
-+------------------+---------------------------+
-| Shogi_silver.jpg | +---+---+---+---+---+     |
-|                  | |   |   |   |   |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   | ○ | ○ | ○ |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   |   |   |   |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   | ○ |   | ○ |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   |   |   |   |   |     |
-|                  | +---+---+---+---+---+     |
-+------------------+---------------------------+
-| Shogi_lance.jpg  | +---+---+---+---+---+     |
-|                  | |   |   | │ |   |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   |   | │ |   |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   |   |   |   |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   |   |   |   |   |     |
-|                  | +---+---+---+---+---+     |
-|                  | |   |   |   |   |   |     |
-|                  | +---+---+---+---+---+     |
-+------------------+---------------------------+
++--+---------------------------+
+|  | +---+---+---+---+---+     |
+|  | |   |   |   |   |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   | ○ | ○ | ○ |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   | ○ |   | ○ |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   | ○ | ○ | ○ |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   |   |   |   |   |     |
+|  | +---+---+---+---+---+     |
++--+---------------------------+
+|  | +----+----+---+----+----+ |
+|  | | ＼ |    |   |    | ／ | |
+|  | +----+----+---+----+----+ |
+|  | |    | ＼ |   | ／ |    | |
+|  | +----+----+---+----+----+ |
+|  | |    |    |   |    |    | |
+|  | +----+----+---+----+----+ |
+|  | |    | ／ |   | ＼ |    | |
+|  | +----+----+---+----+----+ |
+|  | | ／ |    |   |    | ＼ | |
+|  | +----+----+---+----+----+ |
++--+---------------------------+
+|  | +---+---+---+---+---+     |
+|  | |   |   |   |   |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   | ○ | ○ | ○ |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   |   |   |   |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   | ○ |   | ○ |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   |   |   |   |   |     |
+|  | +---+---+---+---+---+     |
++--+---------------------------+
+|  | +---+---+---+---+---+     |
+|  | |   |   | │ |   |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   |   | │ |   |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   |   |   |   |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   |   |   |   |   |     |
+|  | +---+---+---+---+---+     |
+|  | |   |   |   |   |   |     |
+|  | +---+---+---+---+---+     |
++--+---------------------------+
 
-+------------------+-----------------------+
-| Shogi_rook.jpg   | +---+---+---+---+---+ |
-|                  | |   |   | │ |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   | │ |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | | ─ | ─ |   | ─ | ─ | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   | | |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   | | |   |   | |
-|                  | +---+---+---+---+---+ |
-+------------------+-----------------------+
-| Shogi_gold.jpg   | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   | ○ | ○ | ○ |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   | ○ |   | ○ |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   | ○ |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-+------------------+-----------------------+
-| Shogi_knight.jpg | +---+---+---+---+---+ |
-|                  | |   | ☆ |   | ☆ |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-+------------------+-----------------------+
-| Shogi_pawn.jpg   | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   | ○ |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-|                  | |   |   |   |   |   | |
-|                  | +---+---+---+---+---+ |
-+------------------+-----------------------+
++--+-----------------------+
+|  | +---+---+---+---+---+ |
+|  | |   |   | │ |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   | │ |   |   | |
+|  | +---+---+---+---+---+ |
+|  | | ─ | ─ |   | ─ | ─ | |
+|  | +---+---+---+---+---+ |
+|  | |   |   | | |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   | | |   |   | |
+|  | +---+---+---+---+---+ |
++--+-----------------------+
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   | ○ | ○ | ○ |   | |
+|  | +---+---+---+---+---+ |
+|  | |   | ○ |   | ○ |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   | ○ |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
++--+-----------------------+
+|  | +---+---+---+---+---+ |
+|  | |   | ☆ |   | ☆ |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
++--+-----------------------+
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   | ○ |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
+|  | |   |   |   |   |   | |
+|  | +---+---+---+---+---+ |
++--+-----------------------+
 
   ----------
   NOTATION
@@ -326,7 +320,7 @@ Promoting a piece changes the way it moves. The various pieces promote as follow
 
 When captured, a piece loses its promoted status. Otherwise promotion is permanent.
 
-A PROMOTED ROOK ("dragon king", 龍王 _ryūō_) moves as a rook and as a king. Alternate forms: 龍, 竜. Shogi_rook_p.jpg
+A PROMOTED ROOK ("dragon king", 龍王 _ryūō_) moves as a rook and as a king. Alternate forms: 龍, 竜.
 
 +---+---+---+---+---+
 |   |   | │ |   |   |
@@ -340,7 +334,7 @@ A PROMOTED ROOK ("dragon king", 龍王 _ryūō_) moves as a rook and as a king. 
 |   |   | │ |   |   |
 +---+---+---+---+---+
 
-A PROMOTED BISHOP ("dragon horse", 龍馬 _ryūma_) moves as a bishop and as a king. Alternate form: 馬. Shogi_bishop_p.jpg
+A PROMOTED BISHOP ("dragon horse", 龍馬 _ryūma_) moves as a bishop and as a king. Alternate form: 馬.
 
 +----+----+---+----+----+
 | ＼ |    |   |    | ／ |
@@ -354,7 +348,7 @@ A PROMOTED BISHOP ("dragon horse", 龍馬 _ryūma_) moves as a bishop and as a k
 | ／ |    |   |    | ＼ |
 +----+----+---+----+----+
 
-A PROMOTED SILVER (成銀 _narigin_) moves the same as a gold general. Alternate forms: 全, cursive 金. Shogi_silver_p.jpg
+A PROMOTED SILVER (成銀 _narigin_) moves the same as a gold general. Alternate forms: 全, cursive 金.
 
 +---+---+---+---+---+
 |   |   |   |   |   |
@@ -368,7 +362,7 @@ A PROMOTED SILVER (成銀 _narigin_) moves the same as a gold general. Alternate
 |   |   |   |   |   |
 +---+---+---+---+---+
 
-A PROMOTED KNIGHT (成桂 _narikei_) moves the same as a gold general. Alternate forms: 圭, 今, cursive 金. Shogi_knight_p.jpg
+A PROMOTED KNIGHT (成桂 _narikei_) moves the same as a gold general. Alternate forms: 圭, 今, cursive 金.
 
 +---+---+---+---+---+
 |   |   |   |   |   |
@@ -382,7 +376,7 @@ A PROMOTED KNIGHT (成桂 _narikei_) moves the same as a gold general. Alternate
 |   |   |   |   |   |
 +---+---+---+---+---+
 
-A PROMOTED LANCE (成香 _narikyō_) moves the same as a gold general. Alternate forms: 杏, 仝, cursive 金. Shogi_lance_p.jpg
+A PROMOTED LANCE (成香 _narikyō_) moves the same as a gold general. Alternate forms: 杏, 仝, cursive 金.
 
 +---+---+---+---+---+
 |   |   |   |   |   |
@@ -396,7 +390,7 @@ A PROMOTED LANCE (成香 _narikyō_) moves the same as a gold general. Alternate
 |   |   |   |   |   |
 +---+---+---+---+---+
 
-A PROMOTED PAWN (と金 _tokin_) moves the same as a gold general. Alternate forms: と, 个. Shogi_pawn_p.jpg
+A PROMOTED PAWN (と金 _tokin_) moves the same as a gold general. Alternate forms: と, 个.
 
 +---+---+---+---+---+
 |   |   |   |   |   |
@@ -411,8 +405,6 @@ A PROMOTED PAWN (と金 _tokin_) moves the same as a gold general. Alternate for
 +---+---+---+---+---+
 
 Drops
-
-Shogi_S09_3.jpg Shogi_S09_1.jpg
 
 Captured pieces are retained IN HAND and can be brought back into play under the capturing player's control. The Japanese term for _piece(s) in hand_ is either 持ち駒 _mochigoma_ or 手駒 _tegoma._ On any turn, instead of moving a piece on the board, a player may select a piece in hand and place it – unpromoted side up and facing the opposing side – on any empty square. The piece is then one of that player's active pieces on the board and can be moved accordingly. This is called _dropping_ the piece, or simply, a _drop_. A drop counts as a complete move.
 
@@ -533,8 +525,6 @@ Shogi has a handicap system (like go) in which games between players of disparat
 
 Notation
 
-ISF6_final.jpg
-
 There are two common systems used to notate piece movements in shogi game records. One is used in Japanese language texts while a second was created for western players by George Hodges and Glyndon Townhill in the English language. This system was updated by Hosking to be closer to the Japanese standard (two numerals). Other systems are used to notate shogi board positions. Unlike chess, the origin (11 square) is at the top right of a printed position rather than the bottom left.
 
 In western piece movement notation, the format is the piece initial followed by the type of movement and finally the file and rank where the piece moved to. The piece initials are K (King), R (Rook), B (Bishop), G (Gold), S (Silver), N (Knight), L (Lance), and P (Pawn). Simple movement is indicated with -, captures with X, and piece drops with *. The files are indicated with numerals 1–9. The older Hodges standard used letters a-i for ranks, and the newer Hosking standard also uses numerals 1-9 for the ranks. Thus, RX24 indicates 'rook captures on 24'. Promoted pieces are notated with + prefixed to the piece initial (e.g. +RX24). Piece promotion is also indicated with + (e.g. S-21+) while unpromotion is indicated with = (e.g. S-21=). Piece ambiguity is resolved by notating which square a piece is moving from (e.g. N65-53+ means 'knight from 65 moves to 53 and promotes').
@@ -555,7 +545,7 @@ In the adjacent diagram, Black has chosen a Ranging Rook position (specifically 
 
 Etiquette
 
-Playingshogiinuenopark-april11-2014.jpg, 2014]]
+, 2014]]
 
 Shogi players are expected to follow etiquette in addition to rules explicitly described. Commonly accepted etiquette include following:
 
@@ -578,8 +568,6 @@ Professional players are required to follow several ritualistic etiquette prescr
 
 History
 
-Brooklyn_Museum_-_Two_Boys_Playing_Shogi_with_a_Third_Observer.jpg Shogi_playing_japan_0001.jpg Masuda_Kozo.JPG
-
 From _The Chess Variant Pages_:[31]
 
 It is not clear when chess was brought to Japan. The earliest generally accepted mention of shogi is (1058–1064) by Fujiwara Akihira. The oldest archaeological evidence is a group of 16 shogi pieces excavated from the grounds of Kōfuku-ji in Nara Prefecture. As it was physically associated with a wooden tablet written on in the sixth year of Tenki (1058), the pieces are thought to date from that period. These simple pieces were cut from a writing plaque in the same five-sided shape as modern pieces, with the names of the pieces written on them.
@@ -601,7 +589,7 @@ After the Second World War, SCAP (occupational government mainly led by US) trie
 
 Tournament play
 
-WOSC-2013.jpg]]
+]]
 
 There are two organizations for shogi professional players in Japan: the JSA, and the , or LPSA. The JSA is the primary organization for men and women's professional shogi[34] while the LPSA is a group of women professionals who broke away from the JSA in 2007 to establish their own independent organization.[35] Both organize tournaments for their members and have reached an agreement to cooperate with each other to promote shogi through events and other activities.[36] Top professional players are fairly well-paid from tournament earnings. In 2016, the highest tournament earners were Yoshiharu Habu and Akira Watanabe who earned ¥91,500,000 and ¥73,900,000. (The tenth highest earner, Kouichi Fukaura, won ¥18,490,000.)[37]
 
@@ -612,8 +600,6 @@ The JSA is the only body which can organize tournaments for professionals, e.g.,
 Since the 1990s, shogi has grown in popularity outside Japan, particularly in the People's Republic of China, and especially in Shanghai. The January 2006 edition of stated that there were 120,000 shogi players in Shanghai. The spread of the game to countries where Chinese characters are not in common use, however, has been slower.
 
 Shogi in Europe
-
-Shogi_nidan.JPG
 
 In Europe there are currently (November 2017) over 1,200 active players.[39]
 
@@ -646,9 +632,9 @@ Hundreds of video games were released exclusively in Japan for several consoles.
 
 Culture
 
-左馬.gif The backwards _uma_ (shogi horse symbol) is often featured on merchandise (such as on large decorative shogi piece sculptures, keychains, and other keepsakes) available for sale in Tendō. It is also serves as a symbol of good luck. (Cf. Rabbit's foot.) There are multiple theories on its origin. One is that _uma_ (うま ) spelled in the Japanese syllabary backwards is まう _mau_ (舞う), which means _(to) dance_ and dancing horses are a good luck omen.[49]
+The backwards _uma_ (shogi horse symbol) is often featured on merchandise (such as on large decorative shogi piece sculptures, keychains, and other keepsakes) available for sale in Tendō. It is also serves as a symbol of good luck. (Cf. Rabbit's foot.) There are multiple theories on its origin. One is that _uma_ (うま ) spelled in the Japanese syllabary backwards is まう _mau_ (舞う), which means _(to) dance_ and dancing horses are a good luck omen.[49]
 
-Ningen_shogi_himeji.jpg]] Tendo_station_and_shogi_museum.jpg (top)]]
+]] (top)]]
 
 In popular culture
 

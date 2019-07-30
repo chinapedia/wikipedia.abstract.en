@@ -1,1 +1,0 @@
-The 2012 WORLD OUTDOOR BOWLS CHAMPIONSHIP - WOMEN'S TRIPLES [1] was held at the Lockleys Bowling Club in Adelaide, Australia. Some of the qualifying Rounds were held at the nearby Holdfast Bowling Club in Glenelg North.[2]

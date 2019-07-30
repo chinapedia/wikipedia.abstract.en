@@ -1,1 +1,0 @@
-The WORLD CUP is a gold trophy that is awarded to the winners of the FIFA World Cup association football tournament. Since the advent of the World Cup in 1930, two trophies have been used: the JULES RIMET TROPHY from 1930 to 1970, and the FIFA WORLD CUP TROPHY from 1974 to the present day.

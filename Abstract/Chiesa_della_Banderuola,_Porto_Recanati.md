@@ -1,1 +1,0 @@
-Banderuola.jpg The CHIESETTA DELLA BANDERUOLA (Little church of the windvane) is a small, Roman Catholic Marian shrine chapel within the town limits of Porto Recanati, province of Macerata, region of Marche, Italy.

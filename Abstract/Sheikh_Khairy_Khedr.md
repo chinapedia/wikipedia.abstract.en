@@ -1,1 +1,0 @@
-SHEIKH KHAIRY KHEDR (? – October 2014) was the Commander and founder of the Yazidi militia Malik Al-Tawus Troop, which later became the Sinjar Resistance Units. He was born in Siba Sheikh Khidir (Jazeera).

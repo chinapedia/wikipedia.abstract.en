@@ -1,1 +1,0 @@
-NATIONAL HIGHWAY 48 (NH 48) is a National Highway of India that starts at Delhi and terminates at Chennai and goes through Jaipur, Udaipur, Ahmedabad, Surat, Mumbai, Pune, Tumakuru, Bangalore and Vellore traversing through six states of India.[1] It has a total length of 2807 km (1744 miles).[2]

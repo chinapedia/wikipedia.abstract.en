@@ -1,1 +1,0 @@
-_NEOCALANUS_ is a genus of marine copepods.[1] They are a dominant component of the open water ecosystems of the northern Pacific Ocean.[2] _Neocalanus_ are large copepods, reaching body lengths (i.e., prosome length) of more than in _Neocalanus plumchrus_.[3]

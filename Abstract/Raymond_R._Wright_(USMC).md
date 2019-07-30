@@ -1,1 +1,0 @@
-RAYMOND RACE WRIGHT (February 5, 1892 – February 19, 1964) was an officer of the United States Marine Corps with the rank of major general, who served as Paymaster General of the Marine Corps during World War II.

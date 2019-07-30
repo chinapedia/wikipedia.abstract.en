@@ -1,1 +1,0 @@
-The COPA DE LA REINA DE BALONCESTO 2017 was the 55th edition of the Spanish Queen's Basketball Cup. It is managed by the Spanish Basketball Federation – FEB and was held between February 10 and 12, 2017.

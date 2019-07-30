@@ -1,1 +1,0 @@
-Asymmetricwave2.png In particle physics, a FERMION is a particle that follows Fermi–Dirac statistics. These particles obey the Pauli exclusion principle. Fermions include all quarks and leptons, as well as all composite particles made of an odd number of these, such as all baryons and many atoms and nuclei. Fermions differ from bosons, which obey Bose–Einstein statistics.

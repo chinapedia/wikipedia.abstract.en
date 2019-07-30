@@ -1,1 +1,0 @@
-_HARD QUIZ_ is an Australian television comedy quiz show, which premiered on ABC on 19 October 2016.[1][2] Hosted by Tom Gleeson, the show is a spin-off of his "Hard Chat" segment on the satirical television news program _The Weekly with Charlie Pickering_.

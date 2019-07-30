@@ -1,1 +1,0 @@
-THEO is a Ukrainian fashion brand based in Kiev, launched in 2014 by THEO DEKAN (stylist, musician,[1] artist,[2] photographer, columnist, showman,[3] hairdresser[4] and designer[5]) in partnership with OKSANA DENIS.[6]

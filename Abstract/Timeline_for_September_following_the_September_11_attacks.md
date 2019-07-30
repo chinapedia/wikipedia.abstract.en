@@ -1,1 +1,0 @@
-This article summarizes the events in the remaining days of September 2001 following the September 11 attacks which relate to the attacks. All times, except where otherwise noted, are in Eastern Daylight Time (EDT), or UTC−04:00.

@@ -1,1 +1,0 @@
-The 2016–17 EHF CHALLENGE CUP was the 20th edition of the European Handball Federation's third-tier competition for men's handball clubs, which was won by Sporting CP running from 19 November 2016 to 27 May 2017.

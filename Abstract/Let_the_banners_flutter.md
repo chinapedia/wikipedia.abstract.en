@@ -1,1 +1,0 @@
-LET THE BANNERS FLUTTER (German: Weit laßt die Fahnen wehen) is a German song written by composer Gustav Schulten (30 January 1897 - 1945) in 1917, and published nationally in Germany in the year 1941.[1] Though the song was primarily about Landsknecht, during World War II and for a short time afterwards, it was loosely associated with Nazi Germany.[2]

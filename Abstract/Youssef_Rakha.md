@@ -1,1 +1,0 @@
-YOUSSEF RAKHA (Arabic: يوسف رخا; born on 12 June 1976 in Cairo, Egypt) is an Egyptian writer. His work explores language and identity in the context of Cairo, and reflects connections with the Arab-Islamic canon and world literature. He has worked in many genres in both Arabic and English, and is known for his essays and poems as well as his novels.

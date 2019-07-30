@@ -1,1 +1,0 @@
-_ACIDIHALOBACTER PROSPERUS_ is a halotolerant and acidophile bacterium from the genus of Acidihalobacter which has been isolated from geothermally heated sea sediments from a Vulcano in Italy.[1][2][3]

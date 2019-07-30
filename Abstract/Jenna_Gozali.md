@@ -1,1 +1,0 @@
-JENNA GOZALI (born 24 March 1990) is a former Indonesian badminton player from the PB Djarum club.[1][2] Gozali now bearing the United States flag in the international tournament as a Bay Badminton Center player.[3]

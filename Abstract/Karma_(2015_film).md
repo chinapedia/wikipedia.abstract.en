@@ -1,1 +1,0 @@
-_KARMA_ () is a 2015 Thai horror-drama film directed by Kanittha Kwanyu.[1] It was selected as the Thai entry for the Best Foreign Language Film at the 89th Academy Awards but it was not nominated.[2][3][4]

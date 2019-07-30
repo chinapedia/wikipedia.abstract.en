@@ -1,1 +1,0 @@
-The CASA SERENA OPEN was a men's golf tournament on the European Senior Tour. The tournament was held from 2008 to 2011 and was played at Casa Serena Golf, Vidice, near Kutná Hora in the Czech Republic. From 2008 to 2010 the prize money totalled €600,000 but was reduced to €400,000 in 2011.

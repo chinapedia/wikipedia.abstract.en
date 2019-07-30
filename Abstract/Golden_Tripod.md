@@ -1,1 +1,0 @@
-The GOLDEN TRIPOD AWARD () is the highest honor in Taiwan’s publishing industry. It was launched in 1976, and was sponsored by the Government Information Office until 2012, when the Ministry of Culture began awarding the prize. The award ceremony was first televised in 1982.[1]

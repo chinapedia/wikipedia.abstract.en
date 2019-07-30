@@ -1,1 +1,0 @@
-In information theory, the GRAPH ENTROPY is a measure of the information rate achievable by communicating symbols over a channel in which certain pairs of values may be confused.[1] This measure, first introduced by Körner in the 1970s,[2][3] has since also proven itself useful in other settings, including combinatorics.[4]

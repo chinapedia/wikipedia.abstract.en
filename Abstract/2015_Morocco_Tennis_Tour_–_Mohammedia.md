@@ -1,1 +1,0 @@
-The 2015 MOROCCO TENNIS TOUR – MOHAMMEDIA was a professional tennis tournament played on clay courts. It was the second edition of the tournament which was part of the 2015 ATP Challenger Tour. It took place in Mohammedia, Morocco between 5 and 10 October 2015.

@@ -1,1 +1,0 @@
-Bristol_ward_map_(1999_to_2016).png This is a LIST OF COUNCIL WARDS IN BRISTOL BY POPULATION based on the results of the 2011 census. The next United Kingdom census will take place in 2021. In 2011, there were 35 ward subdivisions in Bristol, shown in the table below.

@@ -1,1 +1,0 @@
-EMILIA ALINA VUC (born 4 October 1993) is a Romanian freestyle wrestler. She competed in the women's freestyle 48 kg event at the 2016 Summer Olympics, in which she was eliminated in the round of 16 by Vinesh Phogat.[1][2]

@@ -1,1 +1,0 @@
-The PAKISTAN EASTERN RAILWAY (, Bengali: ) was one of two divisions of Pakistan Railways which operated between 1961 and 1971. The company was headquartered in Chittagong.[1] With the emergence of Bangladesh, it became Bangladesh Railway.[2]

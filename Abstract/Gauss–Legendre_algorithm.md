@@ -1,1 +1,0 @@
-The GAUSS–LEGENDRE ALGORITHM is an algorithm to compute the digits of . It is notable for being rapidly convergent, with only 25 iterations producing 45 million correct digits of . However, the drawback is that it is computer memory-intensive and therefore sometimes Machin-like formulas are used instead.

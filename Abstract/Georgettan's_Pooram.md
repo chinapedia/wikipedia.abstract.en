@@ -1,1 +1,0 @@
-_GEORGETTAN'S POORAM_ (_Georgettan's Festival_) is a 2017 Indian Malayalam film directed by K. Biju, starring Dileep in lead role. The screenplay is written by Y. V. Rajesh based on a story by Biju. It is produced by Arun Gosh and Bijoy Chandran under the banner of Shivani Entertainments and Chand V Creations. Principal photography began in October 2017 in Thrissur.[1]

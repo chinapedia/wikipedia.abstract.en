@@ -1,1 +1,0 @@
-HANNAH VIVIAN-BYRNE, known professionally as HANNAH GRACE (born 4 June 1993) is a Welsh singer-songwriter from Bridgend. [1] Hannah’s artist career began in 2013 after she joined Gabrielle Aplin on her 2013 English Rain album tour. [2]

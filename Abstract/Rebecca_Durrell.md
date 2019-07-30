@@ -1,1 +1,0 @@
-REBECCA DURRELL (née DIXON; born 25 August 1988) is a British professional racing cyclist who rides for .[1] During the 2017 Matrix Fitness Grand Prix series Durrell won the final round in Stevenage and the overall individual crown.[2]

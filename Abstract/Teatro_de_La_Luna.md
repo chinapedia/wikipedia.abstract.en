@@ -1,1 +1,0 @@
-TEATRO DE LA LUNA is an Arlington County, Virginia Theater founded in 1991 that aims to preserve Hispanic heritage. It houses events including: the International Festivals of Hispanic Theater, Latino film festivals and Immigration films festivals.[1]

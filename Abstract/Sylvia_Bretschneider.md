@@ -1,1 +1,0 @@
-SYLVIA BRETSCHNEIDER (14 November 1960 – 28 April 2019) was a German teacher, education administrator and politician (SPD). She was a member of the Landtag of Mecklenburg-Vorpommern from 1994, and became speaker of the state parliament in 2002.

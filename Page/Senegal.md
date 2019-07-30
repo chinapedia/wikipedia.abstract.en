@@ -33,7 +33,7 @@ Colonial era
 
 In the mid-15th century, the Portuguese landed on the Senegal coastline, followed by traders representing other countries, including the French.[13] Various European powers—Portugal, the Netherlands, and Great Britain—competed for trade in the area from the 15th century onward. In 1677, France gained control of what had become a minor departure point in the Atlantic slave trade—the island of Gorée next to modern Dakar, used as a base to purchase slaves from the warring chiefdoms on the mainland.[14][15]
 
-Marchands_d'esclaves_de_Gorée-Jacques_Grasset_de_Saint-Sauveur_mg_8526.jpg, 18th century]] European missionaries introduced Christianity to Senegal and the Casamance in the 19th century. It was only in the 1850s that the French began to expand onto the Senegalese mainland after they abolished slavery and began promoting an abolitionist doctrine,[16] adding native kingdoms like the Waalo, Cayor, Baol, and Jolof Empire. French colonists progressively invaded and took over all the kingdoms except Sine and Saloum under Governor Louis Faidherbe.[17][18] Yoro Dyao was in command of the canton of Foss-Galodjina and was set over Wâlo (Ouâlo) by Louis Faidherbe,[19] where he served as a chief from 1861 to 1914.[20] Senegalese resistance to the French expansion and curtailing of their lucrative slave trade was led in part by Lat-Dior, Damel of Cayor, and Maad a Sinig Kumba Ndoffene Famak Joof, the Maad a Sinig of Sine, resulting in the Battle of Logandème.
+, 18th century]] European missionaries introduced Christianity to Senegal and the Casamance in the 19th century. It was only in the 1850s that the French began to expand onto the Senegalese mainland after they abolished slavery and began promoting an abolitionist doctrine,[16] adding native kingdoms like the Waalo, Cayor, Baol, and Jolof Empire. French colonists progressively invaded and took over all the kingdoms except Sine and Saloum under Governor Louis Faidherbe.[17][18] Yoro Dyao was in command of the canton of Foss-Galodjina and was set over Wâlo (Ouâlo) by Louis Faidherbe,[19] where he served as a chief from 1861 to 1914.[20] Senegalese resistance to the French expansion and curtailing of their lucrative slave trade was led in part by Lat-Dior, Damel of Cayor, and Maad a Sinig Kumba Ndoffene Famak Joof, the Maad a Sinig of Sine, resulting in the Battle of Logandème.
 
 Independence (1960)
 
@@ -41,7 +41,7 @@ On 4 April 1959 Senegal and the French Sudan merged to form the Mali Federation,
 
 Léopold Sédar Senghor was Senegal's first president in September 1960. Senghor was a very well-read man, educated in France. He was a poet and philosopher who personally drafted the Senegalese national anthem, "Pincez tous vos koras, frappez les balafons". Pro-African, he advocated a brand of African socialism.[21]
 
-Colonial_Saint_Louis.jpg c. 1900. Europeans and Africans on the Rue Lebon.]] In 1980, President Senghor decided to retire from politics. The next year, he transferred power in 1981 to his hand-picked successor, Abdou Diouf. Former prime minister Mamadou Dia, who was Senghor's rival, ran for election in 1983 against Diouf, but lost. Senghor moved to France, where he died at the age of 96.
+c. 1900. Europeans and Africans on the Rue Lebon.]] In 1980, President Senghor decided to retire from politics. The next year, he transferred power in 1981 to his hand-picked successor, Abdou Diouf. Former prime minister Mamadou Dia, who was Senghor's rival, ran for election in 1983 against Diouf, but lost. Senghor moved to France, where he died at the age of 96.
 
 In the 1980s, Boubacar Lam discovered Senegalese oral history that was initially compiled by the Tuculor noble, Yoro Dyâo, not long after World War I, which documented migrations into West Africa from the Nile Valley; ethnic groups, from the Senegal River to the Niger Delta, retained traditions of having an eastern origin.[22]
 
@@ -54,7 +54,7 @@ In the presidential election of 1999, opposition leader Abdoulaye Wade defeated 
 
 Politics
 
-Macky_Sall_-_2008.jpg, President of Senegal (2012–present)]] Abdoulaye_Wade_in_16-05-2007.jpg, President of Senegal (2000–2012)]]
+, President of Senegal (2012–present)]] , President of Senegal (2000–2012)]]
 
 Senegal is a republic with a presidency; the president is elected every five years as of 2001, previously being seven years, by adult voters. The first president, Léopold Sédar Senghor, was a poet and writer, and was the first African elected to the _Académie française_. Senegal's second president, Abdou Diouf, later served as general secretary of the _Organisation de la Francophonie_. The third president was Abdoulaye Wade, a lawyer. The current president is Macky Sall, elected in March 2012.
 
@@ -73,8 +73,6 @@ The 2012 presidential election was controversial due to President Wade's candida
 On 19 September 2012, lawmakers voted to do away with the Senate to save an estimated $15 million.[29]
 
 Administrative divisions
-
-Senegal,_administrative_divisions_in_colour_2.svg
 
 Senegal is subdivided into 14 regions,[30] each administered by a _Conseil Régional_ (Regional Council) elected by population weight at the _Arrondissement_ level. The country is further subdivided by 45 _Départements_, 113 _Arrondissements_ (neither of which have administrative function) and by _Collectivités Locales_, which elect administrative officers.[31]
 
@@ -105,7 +103,7 @@ Senegal is part of the Economic Community of West African States (ECOWAS). Integ
 
 Military
 
-Landmine_warning_sign_near_Ziguinchor,_Senegal.jpg between separatist rebels and the central government.]] The Senegalese armed forces consist of about 19,000 personnel in the army, air force, navy, and gendarmerie. The Senegalese military force receives most of its training, equipment, and support from France and the United States. Germany also provides support but on a smaller scale.
+between separatist rebels and the central government.]] The Senegalese armed forces consist of about 19,000 personnel in the army, air force, navy, and gendarmerie. The Senegalese military force receives most of its training, equipment, and support from France and the United States. Germany also provides support but on a smaller scale.
 
 Military noninterference in political affairs has contributed to Senegal's stability since independence. Senegal has participated in many international and regional peacekeeping missions. Most recently, in 2000, Senegal sent a battalion to the Democratic Republic of Congo to participate in MONUC, the United Nations peacekeeping mission, and agreed to deploy a United States-trained battalion to Sierra Leone to participate in UNAMSIL, another UN peacekeeping mission.
 
@@ -122,7 +120,7 @@ Homosexuality is illegal in Senegal.[36] According to 2013 survey by the Pew Res
 
 Geography
 
-Senegal_map_of_Köppen_climate_classification.svg Casamance_landscape.jpg]] Senegal is located on the west of the African continent. It lies between latitudes 12° and 17°N, and longitudes 11° and 18°W.
+]] Senegal is located on the west of the African continent. It lies between latitudes 12° and 17°N, and longitudes 11° and 18°W.
 
 Senegal is externally bounded by the Atlantic Ocean to the west, Mauritania to the north, Mali to the east, and Guinea and Guinea-Bissau to the south; internally it almost completely surrounds The Gambia, namely on the north, east and south, except for Gambia's short Atlantic coastline.
 
@@ -132,7 +130,7 @@ The Cape Verde islands lie some off the Senegalese coast, but Cap-Vert ("Cape Gr
 
 Climate
 
-Ngor_Beach.jpg ]] Senegal has a tropical climate with pleasant heat throughout the year with well-defined dry and humid seasons that result from northeast winter winds and southwest summer winds. The dry season (December to April) is dominated by hot, dry, harmattan wind.[40] Dakar's annual rainfall of about occurs between June and October when maximum temperatures average and minimums ; December to February maximum temperatures average and minimums .[41]
+]] Senegal has a tropical climate with pleasant heat throughout the year with well-defined dry and humid seasons that result from northeast winter winds and southwest summer winds. The dry season (December to April) is dominated by hot, dry, harmattan wind.[40] Dakar's annual rainfall of about occurs between June and October when maximum temperatures average and minimums ; December to February maximum temperatures average and minimums .[41]
 
 Interior temperatures are higher than along the coast (for example, average daily temperatures in Kaolack and Tambacounda for May are and respectively, compared to Dakar's ),[42] and rainfall increases substantially farther south, exceeding annually in some areas.
 
@@ -144,13 +142,11 @@ Environment
 
 Economy
 
-Senegal_Export_Treemap.png
-
 After its economy contracted by 2.1% in 1993, Senegal instituted a major economic reform program with the support of international donors. This reform began with a 50 percent devaluation of the country's currency (the CFA franc). Government price controls and subsidies were also dismantled. As a result, Senegal's inflation went down, investment went up, and the gross domestic product rose approximately 5% a year between 1995 and 2001.[43]
 
 The main industries include food processing, mining, cement, artificial fertilizer, chemicals, textiles, refining imported petroleum, and tourism. Exports include fish, chemicals, cotton, fabrics, groundnuts, and calcium phosphate. The principal foreign market is India with 26.7% of exports (as of 1998). Other foreign markets include the United States, Italy and the United Kingdom.
 
-20130513-DSC_8564_(8750149526).jpg Senegal has a exclusive fishing zone that has been regularly breached in recent years (). It has been estimated that the country's fishermen lose 300,000 tonnes of fish each year to illegal fishing. The Senegalese government have tried to control the illegal fishing which is conducted by fishing trawlers, some of which are registered in Russia, Mauritania, Belize and Ukraine. In January 2014, a Russian trawler, _Oleg Naydenov_, was seized by Senegalese authorities close to the maritime border with Guinea-Bissau.[44]
+Senegal has a exclusive fishing zone that has been regularly breached in recent years (). It has been estimated that the country's fishermen lose 300,000 tonnes of fish each year to illegal fishing. The Senegalese government have tried to control the illegal fishing which is conducted by fishing trawlers, some of which are registered in Russia, Mauritania, Belize and Ukraine. In January 2014, a Russian trawler, _Oleg Naydenov_, was seized by Senegalese authorities close to the maritime border with Guinea-Bissau.[44]
 
 As a member of the West African Economic and Monetary Union (WAEMU), Senegal is working toward greater regional integration with a unified external tariff. Senegal is also a member of the Organization for the Harmonization of Business Law in Africa.[45]
 
@@ -160,8 +156,6 @@ Senegal is a major recipient of international development assistance. Donors inc
 
 
 Demographics
-
-Senegal-demography2004.gif SG_popgraph_2016.png
 
 Senegal has a population of around {{#expr:/1e6 round 1}} million, about 42 percent of whom live in rural areas. Density in these areas varies from about in the west-central region to in the arid eastern section.
 
@@ -179,7 +173,7 @@ French is the official language, spoken at least by all those who enjoyed severa
 
 Most people also speak their own ethnic language while, especially in Dakar, Wolof is the lingua franca.[57] Pulaar is spoken by the Fulas and Toucouleur. The Serer language is widely spoken by both Serers and non-Serers (including President Sall, whose wife is Serer); so are the Cangin languages, whose speakers are ethnically Serers. Jola languages are widely spoken in the Casamance. Overall Senegal is home to around 39 distinct languages. Several have the legal status of "national languages": Balanta-Ganja, Hassaniya Arabic, Jola-Fonyi, Mandinka, Mandjak, Mankanya, Noon (Serer-Noon), Pulaar, Serer, Soninke, and Wolof.
 
-Portuguese Creole, locally known as Portuguese, is a prominent minority language in Ziguinchor, regional capital of the Casamance, spoken by local Portuguese creoles and immigrants from Guinea-Bissau. The local Cape Verdean community speak a similar Portuguese creole, Cape Verdean Creole, and standard Portuguese. Portuguese was introduced in Senegal's secondary education in 1961 in Dakar by the country's first president, Léopold Sédar Senghor. It is currently available in most of Senegal and in higher education. It is especially prevalent in Casamance as it relates with the local cultural identity.[58] Dakar_Roofs_-_Beach_&_Ocean_(5651584098).jpg
+Portuguese Creole, locally known as Portuguese, is a prominent minority language in Ziguinchor, regional capital of the Casamance, spoken by local Portuguese creoles and immigrants from Guinea-Bissau. The local Cape Verdean community speak a similar Portuguese creole, Cape Verdean Creole, and standard Portuguese. Portuguese was introduced in Senegal's secondary education in 1961 in Dakar by the country's first president, Léopold Sédar Senghor. It is currently available in most of Senegal and in higher education. It is especially prevalent in Casamance as it relates with the local cultural identity.[58]
 
 While French is the sole official language, a rising Senegalese linguistic nationalist movement supports the integration of Wolof, the common vernacular language of the country, into the national constitution.[59]
 
@@ -193,7 +187,7 @@ Religion
 
 Senegal is a secular state,[62] although Islam is the predominant religion in the country, practiced by approximately 95.9% of the country's population; the Christian community, at 4.1% of the population, are mostly Roman Catholics but there are also diverse Protestant denominations. One percent has animist beliefs, particularly in the southeastern region of the country.[63] Some Serer people follow the Serer religion.[64][65]
 
-Touba_moschee.jpg; home of the Mouride Sufi brotherhood, it is also one of the finest examples of Islamic architecture in Africa.]] Dakar_cathedrale.jpg Cathedral]] A majority of the Muslims in Senegal are Sunni of the Maliki madhhab with Sufi influences. Islamic communities in Senegal are generally organized around one of several Islamic Sufi orders or brotherhoods, headed by a _khalif_ (_xaliifa_ in Wolof, from Arabic _khalīfa_), who is usually a direct descendant of the group's founder. The two largest and most prominent Sufi orders in Senegal are the Tijaniyya, whose largest sub-groups are based in the cities of Tivaouane and Kaolack, and the Murīdiyya (Murid), based in the city of Touba. 27% are nondenominational Muslims.[66]
+; home of the Mouride Sufi brotherhood, it is also one of the finest examples of Islamic architecture in Africa.]] Cathedral]] A majority of the Muslims in Senegal are Sunni of the Maliki madhhab with Sufi influences. Islamic communities in Senegal are generally organized around one of several Islamic Sufi orders or brotherhoods, headed by a _khalif_ (_xaliifa_ in Wolof, from Arabic _khalīfa_), who is usually a direct descendant of the group's founder. The two largest and most prominent Sufi orders in Senegal are the Tijaniyya, whose largest sub-groups are based in the cities of Tivaouane and Kaolack, and the Murīdiyya (Murid), based in the city of Touba. 27% are nondenominational Muslims.[66]
 
 The Halpulaar (Pulaar-speakers), composed of Fula people, a widespread group found along the Sahel from Chad to Senegal, and _Toucouleurs_, represent 23.8 percent of the population.[67] Historically, they were the first to become Muslim. Many of the _Toucouleurs_, or sedentary Halpulaar of the Senegal River Valley in the north, converted to Islam around a millennium ago and later contributed to Islam's propagation throughout Senegal. Success was gained among the Wolofs, but repulsed by the Serers.
 
@@ -215,7 +209,7 @@ Life expectancy by birth is estimated to 57.5 years.[76] Public expenditure on h
 
 Education
 
-Senegal_students.jpg Articles 21 and 22 of the Constitution adopted in January 2001 guarantee access to education for all children.[84] Education is compulsory and free up to the age of 16.[85] The Ministry of Labor has indicated that the public school system is unable to cope with the number of children that must enroll each year.[86]
+Articles 21 and 22 of the Constitution adopted in January 2001 guarantee access to education for all children.[84] Education is compulsory and free up to the age of 16.[85] The Ministry of Labor has indicated that the public school system is unable to cope with the number of children that must enroll each year.[86]
 
 Illiteracy is high, particularly among women.[87] The net primary enrollment rate was 69 percent in 2005. Public expenditure on education was 5.4 percent of the 2002–2005 GDP.
 
@@ -234,7 +228,7 @@ Popular fresh juices are made from bissap, ginger, _buy_ (pronounced 'buoy', whi
 
 Music
 
-Solo_cissokho_DSC_0448.JPG player from Senegal]] Senegal is known across Africa for its musical heritage, due to the popularity of mbalax, which originated from the Serer percussive tradition especially the Njuup, it has been popularized by Youssou N'Dour, Omar Pene and others. Sabar drumming is especially popular. The sabar is mostly used in special celebrations like weddings. Another instrument, the tama, is used in more ethnic groups. Other popular international renowned Senegalese musicians are Ismael Lô, Cheikh Lô, Orchestra Baobab, Baaba Maal, Akon Thione Seck, Viviane, Fallou Dieng Titi and Pape Diouf.
+player from Senegal]] Senegal is known across Africa for its musical heritage, due to the popularity of mbalax, which originated from the Serer percussive tradition especially the Njuup, it has been popularized by Youssou N'Dour, Omar Pene and others. Sabar drumming is especially popular. The sabar is mostly used in special celebrations like weddings. Another instrument, the tama, is used in more ethnic groups. Other popular international renowned Senegalese musicians are Ismael Lô, Cheikh Lô, Orchestra Baobab, Baaba Maal, Akon Thione Seck, Viviane, Fallou Dieng Titi and Pape Diouf.
 
 Cinema
 
@@ -246,7 +240,7 @@ Hospitality, in theory, is given such importance in Senegalese culture that it i
 
 Sport
 
-MurPeint-ElHadjDiouf-Dakar-Sénégal.jpg in Dakar]] Senegalese play many sports. Wrestling and football are the most popular sports in the country. Senegal will host the 2022 Summer Youth Olympics in Dakar, making Senegal the first African country to host the Olympics.[92][93]
+in Dakar]] Senegalese play many sports. Wrestling and football are the most popular sports in the country. Senegal will host the 2022 Summer Youth Olympics in Dakar, making Senegal the first African country to host the Olympics.[92][93]
 
 Wrestling
 
@@ -254,7 +248,7 @@ Wrestling is Senegal's most popular sport[94] and has become a national obsessio
 
 Football
 
-Senegal_fans_Russia_2018.jpg in Russia]] Football is a popular sport in Senegal. In 2002, the team finished as runners-up at the Africa Cup of Nations and became one of only three African teams to ever reach the quarter-finals of the FIFA World Cup, defeating holders France in their first game. Popular players of Senegal include El Hadji Diouf, Khalilou Fadiga, Henri Camara, Papa Bouba Diop, Salif Diao, Kalidou Koulibaly, Ferdinand Coly, and Sadio Mané all of whom played in Europe. Senegal also qualified for the 2018 FIFA World Cup in Russia, playing in Group H alongside Japan, Colombia and Poland.
+in Russia]] Football is a popular sport in Senegal. In 2002, the team finished as runners-up at the Africa Cup of Nations and became one of only three African teams to ever reach the quarter-finals of the FIFA World Cup, defeating holders France in their first game. Popular players of Senegal include El Hadji Diouf, Khalilou Fadiga, Henri Camara, Papa Bouba Diop, Salif Diao, Kalidou Koulibaly, Ferdinand Coly, and Sadio Mané all of whom played in Europe. Senegal also qualified for the 2018 FIFA World Cup in Russia, playing in Group H alongside Japan, Colombia and Poland.
 
 Basketball
 

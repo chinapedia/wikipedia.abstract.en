@@ -1,1 +1,0 @@
-JACOB WEINER (born ROBERT MILTON WEINER; 1947 in Brooklyn, New York) is an American plant ecologist at the University of Copenhagen. Weiner has made contributions to several areas of plant ecology, including competition, allocation, allometry and application of ecological knowledge to agricultural production.

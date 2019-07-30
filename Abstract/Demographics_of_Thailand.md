@@ -1,1 +1,0 @@
-The DEMOGRAPHICS OF THAILAND paint a statistical portrait of the national population. It includes such measures as population density and distribution, ethnicity, educational levels, public health metrics, fertility, economic status, religious affiliation, and other national characteristics.

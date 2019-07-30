@@ -1,1 +1,0 @@
-Arbenuoch,_resistance_Ethiopian_1935_at_1941.jpg The _ARBEGNOCH_ (Amharic for "Patriots") were Ethiopian resistance fighters in Italian East Africa from 1936 until 1941. They were known to the Italians as _shifta_.

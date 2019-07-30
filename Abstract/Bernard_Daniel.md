@@ -1,1 +1,0 @@
-BERNARD DANIEL (born 11 August 1992) is a Vanuatuan footballer who plays[1] as a forward for Erakor Golden Star in the Port Vila Premier League. He made his debut for the national team on November 7, 2015 in their 1–1 draw with Fiji.[2]

@@ -1,1 +1,0 @@
-The CHINESE LAUNDRY building (also called Hop Lee Chong Laundry) is a historic structure located at 527 4th Avenue in the Gaslamp Quarter, San Diego, in the U.S. state of California. It was built in 1923.[1]

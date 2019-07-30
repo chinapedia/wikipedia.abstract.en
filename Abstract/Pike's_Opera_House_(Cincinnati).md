@@ -1,1 +1,0 @@
-PIKE'S OPERA HOUSE was a theater in Cincinnati owned by distiller and entrepreneur Samuel Napthali Pike (1822–1872).[1] Located on Fourth Street between Vine and Walnut streets, it was the first home of the Cincinnati Symphony Orchestra.

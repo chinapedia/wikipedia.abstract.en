@@ -1,1 +1,0 @@
-"THE DAMNED" is the third episode in the twentieth season of the American animated television series _South Park_. The 270th episode of the series overall, it originally aired on Comedy Central in the United States on September 28, 2016.

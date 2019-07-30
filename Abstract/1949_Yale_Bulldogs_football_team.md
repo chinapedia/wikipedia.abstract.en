@@ -1,1 +1,0 @@
-The 1949 YALE BULLDOGS FOOTBALL TEAM represented Yale University in the 1949 college football season. The Bulldogs were led by second year head coach Herman Hickman, played their home games at the Yale Bowl and finished the season with a 4–4 record.[1][2] The team was captained by Levi Jackson, the first African American honored with the position.

@@ -1,1 +1,0 @@
-KARNATAKA STATE HIGHWAY 57, commonly referred to as KA SH 57, is a normal state highway that runs north through many districts in the state of Karnataka. This state highway touches numerous cities and villages Viz.Shimoga, Chikmagalur, Hassan and K R Nagar. The total length of the highway is 662 km.[1]

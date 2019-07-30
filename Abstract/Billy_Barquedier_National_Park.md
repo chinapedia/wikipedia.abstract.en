@@ -1,1 +1,0 @@
-The BILLY BARQUEDIER NATIONAL PARK is a national park in Belize, located between 16.5–19 miles on the Hummingbird Highway in Stann Creek District, south of Belize City. It is located between the Mullins River and Stann Creek watersheds.

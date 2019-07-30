@@ -1,1 +1,0 @@
-LAND'S END[1] ( or _Pedn an Wlas_)[2] is a headland and holiday complex in western Cornwall, England, UK. It is the most westerly point of mainland Cornwall and England, situated within the Penwith peninsula about west-south-west of Penzance at the western end of the A30 road.[3] To the east of it is the English Channel, and to the west the Celtic Sea.

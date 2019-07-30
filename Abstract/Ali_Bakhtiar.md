@@ -1,1 +1,0 @@
-ALI BAKHTIAR (), born in 1973, is an Iranian politician who is currently representative of Golpayegan and Khvansar (electoral district) in the Parliament of Iran. He is a member of Legal and Judicial Commission.[1]

@@ -1,1 +1,0 @@
-_CULTURA POLÍTICA_ was a Portuguese-language[1] magazine dealing with political and cultural issues based in Rio de Janeiro, Brazil. The magazine was one of the cultural apparatuses developed by the Estado Novo to diffuse the official ideology to the whole Brazilian society.[2] It was in circulation between 1941 and 1945.[3]

@@ -1,1 +1,0 @@
-JAMES HOLMES HUTCHISON (born 16 April 1912 – died 27 December 1987) was a Scottish paediatrician and Samson Gemmell Professor of Child Heath at Glasgow University from 1961 to 1977. From 1977 onwards he was Professor of Child Health at the University of Hong Kong. Friends knew him as JIM HUTCHISON.

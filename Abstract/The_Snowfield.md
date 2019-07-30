@@ -1,1 +1,0 @@
-_THE SNOWFIELD_ is a 2011 action and experimental narrative video game, developed as a student project by the Singapore-MIT Gambit Game Lab, and set in World War I. The game is set on the aftermath of a great battle, with the player controlling a weakened soldier in the middle of a storm.

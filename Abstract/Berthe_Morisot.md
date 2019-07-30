@@ -1,1 +1,0 @@
-BERTHE MARIE PAULINE MORISOT (; January 14, 1841 – March 2, 1895) was a painter and a member of the circle of painters in Paris who became known as the Impressionists. She was described by Gustave Geffroy in 1894 as one of "les trois grandes dames" of Impressionism alongside Marie Bracquemond and Mary Cassatt.[1]

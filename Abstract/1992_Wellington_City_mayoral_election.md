@@ -1,1 +1,0 @@
-The 1992 WELLINGTON CITY MAYORAL ELECTION was part of the held that same year. In 1992, elections were held for the Mayor of Wellington plus other local government roles including 21 councillors. The polling was conducted using the standard first-past-the-post electoral method.

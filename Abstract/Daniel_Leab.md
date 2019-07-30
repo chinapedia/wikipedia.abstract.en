@@ -1,1 +1,0 @@
-DANIEL JOSEPH LEAB (August 29, 1936 – November 15, 2016) was an American historian of 20th-century history, particularly the history of American labor unions. He was also long-time editor of three journals and magazines.[1][2][3][4][5]

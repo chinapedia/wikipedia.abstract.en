@@ -17,7 +17,7 @@ Mass transit
 
 New York City Subway
 
-Cortlandt_St_station_demolished.jpg IRT station, which was directly below the World Trade Center, after the September 11 attacks]]
+IRT station, which was directly below the World Trade Center, after the September 11 attacks]]
 
 The tracks and station under the WTC were shut down within minutes of the first plane crash. All remaining New York City Subway service was suspended from 10:20am to 12:48pm.[5] Immediately after the attacks and more so after the collapses of the Twin Towers, many trains running in Lower Manhattan lost power and had to be evacuated through the tunnels. Some trains had power but the signals did not, requiring special operating procedures to ensure safety.
 

@@ -1,1 +1,0 @@
-DAVID JAMES LATTER JR. (January 5, 1922 – October 28, 2000) was an American professional basketball player.[1][2] He played in the National Basketball League for the Detroit Gems and Detroit Vagabond Kings and averaged 7.6 points per game.[3] He also played minor league baseball in the New York Yankees farm system.[4]

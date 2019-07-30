@@ -1,1 +1,0 @@
-The ATLANTIC FOREST BIOSPHERE RESERVE, or MATA ATLÂNTICA BIOSPHERE RESERVE (MABR, ) is a biosphere reserve covering remnants of the Atlantic Forest in Brazil, including fully protected and sustainable use conservation units and buffer zones. It is the largest such reserve in the world.

@@ -1,1 +1,0 @@
-_THE COLDEST WINTER IN PEKING_ is a 1981 Taiwanese drama film directed by Pai Ching-jui, set in the Chinese capital Peking (Beijing) during the Cultural Revolution. Like most propaganda films released during Taiwan's White Terror period, the film is strongly anti-communist and was banned not only in mainland China but also in British Hong Kong.[1]

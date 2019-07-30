@@ -1,1 +1,0 @@
-ANDREW APPLETON (born 18 June 1982) is an English motorcycle racer who competes in grasstrack,[1] longtrack and speedway. His biggest honour to date was his success in the European Grasstrack Championship in 2010.

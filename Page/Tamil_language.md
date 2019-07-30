@@ -16,15 +16,13 @@ The closest major relative of Tamil is Malayalam; the two began diverging around
 
 History
 
-Tamil_inscriptions.jpg
-
 According to linguists like Bhadriraju Krishnamurti, Tamil, as a Dravidian language, descends from Proto-Dravidian, a proto-language. Linguistic reconstruction suggests that Proto-Dravidian was spoken around the third millennium BC, possibly in the region around the lower Godavari river basin in peninsular India. The material evidence suggests that the speakers of Proto-Dravidian were of the culture associated with the Neolithic complexes of South India.[29] The earliest epigraphic attestations of Tamil are generally taken to have been written from the 2nd century BC.[30]
 
 Among Indian languages, Tamil has the most ancient non-Sanskritic Indian literature.[31] Scholars categorise the attested history of the language into three periods: Old Tamil (300 BC–AD 700), Middle Tamil (700–1600) and Modern Tamil (1600–present).[32] In November 2007, an excavation at Quseir-al-Qadim revealed Egyptian pottery dating back to first century BC with ancient Tamil Brahmi inscriptions.[33] John Guy states that Tamil was the lingua franca for early maritime traders from India.[34]
 
 Legend
 
-Mangulam_inscription.jpg Tamil Brahmi inscription in Mangulam, Madurai district, Tamil Nadu dated to Tamil Sangam period c. 400 BC to c. 200 AD.]] Tamil_Inscriptions.jpg Tamil Brahmi inscription in Mangulam, Madurai district, Tamil Nadu dated to Tamil Sangam period c. 400 BC to c. 200 AD.]] Satavahana_Bilingual_Coin.jpg script in the reverse side of the bilingual silver coin of king Vashishtiputra Sātakarni (c. AD 160) of Deccan. REV: Ujjain/Sātavāhana symbol, crescented six-arch chaitya hill and river with Tamil Brahmi script[35][36][37][38] OBV: Bust of king; Prakrit legend in the Brahmi script]]
+Tamil Brahmi inscription in Mangulam, Madurai district, Tamil Nadu dated to Tamil Sangam period c. 400 BC to c. 200 AD.]] Tamil Brahmi inscription in Mangulam, Madurai district, Tamil Nadu dated to Tamil Sangam period c. 400 BC to c. 200 AD.]] script in the reverse side of the bilingual silver coin of king Vashishtiputra Sātakarni (c. AD 160) of Deccan. REV: Ujjain/Sātavāhana symbol, crescented six-arch chaitya hill and river with Tamil Brahmi script[35][36][37][38] OBV: Bust of king; Prakrit legend in the Brahmi script]]
 
 According to Hindu legend, Tamil or in personification form Tamil Thāi (Mother Tamil) was created by Lord Shiva. Murugan, revered as the Tamil God, along with sage Agastya, brought it to the people.[39]
 
@@ -40,7 +38,7 @@ Old Tamil is the period of the Tamil language spanning the 3rd century BC to the
 
 Middle Tamil
 
-Tanjavur_Tamil_Inscription2.jpg in stone during Chola period c.1000 AD at Brahadeeswara temple in Thanjavur, Tamil Nadu.]] The evolution of Old Tamil into Middle Tamil, which is generally taken to have been completed by the 8th century,[48] was characterised by a number of phonological and grammatical changes. In phonological terms, the most important shifts were the virtual disappearance of the aytam (ஃ), an old phoneme,[49] the coalescence of the alveolar and dental nasals,[50] and the transformation of the alveolar plosive into a rhotic.[51] In grammar, the most important change was the emergence of the present tense. The present tense evolved out of the verb __ (), meaning "to be possible" or "to befall". In Old Tamil, this verb was used as an aspect marker to indicate that an action was micro-durative, non-sustained or non-lasting, usually in combination with a time marker such as __ (). In Middle Tamil, this usage evolved into a present tense marker – __ () – which combined the old aspect and time markers.[52]
+in stone during Chola period c.1000 AD at Brahadeeswara temple in Thanjavur, Tamil Nadu.]] The evolution of Old Tamil into Middle Tamil, which is generally taken to have been completed by the 8th century,[48] was characterised by a number of phonological and grammatical changes. In phonological terms, the most important shifts were the virtual disappearance of the aytam (ஃ), an old phoneme,[49] the coalescence of the alveolar and dental nasals,[50] and the transformation of the alveolar plosive into a rhotic.[51] In grammar, the most important change was the emergence of the present tense. The present tense evolved out of the verb __ (), meaning "to be possible" or "to befall". In Old Tamil, this verb was used as an aspect marker to indicate that an action was micro-durative, non-sustained or non-lasting, usually in combination with a time marker such as __ (). In Middle Tamil, this usage evolved into a present tense marker – __ () – which combined the old aspect and time markers.[52]
 
 Modern Tamil
 
@@ -67,7 +65,7 @@ In addition, with the creation in October 2004 of a legal status for classical l
 
 Dialects
 
-Jambai_Tamil_Brahmi.jpg near Tirukkoyilur in Villupuram district, Tamil Nadu dated to the early Tamil Sangam age (c. 400 BC).]]
+near Tirukkoyilur in Villupuram district, Tamil Nadu dated to the early Tamil Sangam age (c. 400 BC).]]
 
 Region-specific variations
 
@@ -87,7 +85,7 @@ In modern times, __ is generally used in formal writing and speech. For instance
 
 Writing system
 
-History_of_Tamil_script.jpg near the top to the current Tamil script at bottom.]] Tirukkural_manuscript.jpg palm leaf manuscript.]] After Tamil Brahmi fell out of use, Tamil was written using a script called [[Vatteluttu_alphabet| əvərgəɭ nijaːjatːəijum mənətt͡ʃaːʈt͡ʃijəijum ijərpəɳbaːgə pet̺rəʋərgəɭ {{!}} əvərgəɭ oruʋəruɖənoruʋər sagoːdəɾə uɳərʋɨ paːŋgil nəɖən̪d̪ʉkoɭɭəl veːɳɖum {{!}}}} GLOSS:
+near the top to the current Tamil script at bottom.]] palm leaf manuscript.]] After Tamil Brahmi fell out of use, Tamil was written using a script called [[Vatteluttu_alphabet| əvərgəɭ nijaːjatːəijum mənətt͡ʃaːʈt͡ʃijəijum ijərpəɳbaːgə pet̺rəʋərgəɭ {{!}} əvərgəɭ oruʋəruɖənoruʋər sagoːdəɾə uɳərʋɨ paːŋgil nəɖən̪d̪ʉkoɭɭəl veːɳɖum {{!}}}} GLOSS:
 
     SECTION 1: Human beings all-of-them freely are born. They rights-in-and dignities-in-and equal-ones. They law-and conscience-and intrinsically possessed-ones. They among-one-another brotherly feeling share-in act must.
 

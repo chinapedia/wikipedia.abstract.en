@@ -1,1 +1,0 @@
-Mrs_Louisa_Daniell_Aldershot_1870.jpg

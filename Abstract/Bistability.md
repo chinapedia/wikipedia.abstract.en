@@ -1,1 +1,0 @@
-Bistability.svg

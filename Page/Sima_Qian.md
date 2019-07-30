@@ -18,7 +18,7 @@ After his travels, Sima was chosen to be a Palace Attendant in the government, w
 
 The Li Ling affair
 
-Sima_Qian.png In 99 BC, Sima Qian became embroiled in the Li Ling affair, where Li Ling and Li Guangli, two military officers who led a campaign against the Xiongnu in the north, were defeated and taken captive. Emperor Wu attributed the defeat to Li Ling, with all government officials subsequently condemning him for it. Sima was the only person to defend Li Ling, who had never been his friend but whom he respected. Emperor Wu interpreted Sima's defence of Li as an attack on his brother-in-law, Li Guangli, who had also fought against the Xiongnu without much success, and sentenced Sima to death. At that time, execution could be commuted either by money or castration. Since Sima did not have enough money to atone his "crime", he chose the latter and was then thrown into prison, where he endured three years. He described his pain thus: "When you see the jailer you abjectly touch the ground with your forehead. At the mere sight of his underlings you are seized with terror ... Such ignominy can never be wiped away." Sima called his castration "the worst of all punishments".
+In 99 BC, Sima Qian became embroiled in the Li Ling affair, where Li Ling and Li Guangli, two military officers who led a campaign against the Xiongnu in the north, were defeated and taken captive. Emperor Wu attributed the defeat to Li Ling, with all government officials subsequently condemning him for it. Sima was the only person to defend Li Ling, who had never been his friend but whom he respected. Emperor Wu interpreted Sima's defence of Li as an attack on his brother-in-law, Li Guangli, who had also fought against the Xiongnu without much success, and sentenced Sima to death. At that time, execution could be commuted either by money or castration. Since Sima did not have enough money to atone his "crime", he chose the latter and was then thrown into prison, where he endured three years. He described his pain thus: "When you see the jailer you abjectly touch the ground with your forehead. At the mere sight of his underlings you are seized with terror ... Such ignominy can never be wiped away." Sima called his castration "the worst of all punishments".
 
 In 96 BC, on his release from prison, Sima chose to live on as a palace eunuch to complete his histories, rather than commit suicide as was expected of a gentleman-scholar who had been disgraced with castration.[5] As Sima Qian himself explained in his _Letter to Ren An_:
 
@@ -32,8 +32,6 @@ The early 20th century scholar Wang Guowei stated that there are no reliable rec
 
 
 _Records of the Grand Historian_
-
-Shiji.jpg
 
 Format
 

@@ -1,1 +1,0 @@
-ANETA WOJTKOWSKA (born 9 March 1991) is a Polish badminton player.[1][2] She won her first National Championships title in 2013 partnered with her sister Agnieszka Wojtkowska.[3] She competed at the 2015 European Games in Baku, Azerbaijan.[4]

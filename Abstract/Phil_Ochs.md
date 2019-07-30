@@ -1,1 +1,0 @@
-PHILIP DAVID OCHS (; December 19, 1940 – April 9, 1976) was an American protest singer (or, as he preferred, a topical singer) and songwriter who was known for his sharp wit, sardonic humor, earnest humanism, political activism, insightful and alliterative lyrics, and distinctive voice. He wrote hundreds of songs in the 1960s and 1970s and released eight albums.

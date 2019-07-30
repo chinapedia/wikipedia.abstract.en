@@ -1,1 +1,0 @@
-WERNER BOHNE (1895-1940) was a German cinematographer of the Weimar and Nazi eras.[1] He was killed in 1940, while working on a propaganda documentary during a battle as part of the invasion of Norway.

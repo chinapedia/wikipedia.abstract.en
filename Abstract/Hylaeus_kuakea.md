@@ -1,1 +1,0 @@
-_HYLAEUS KUAKEA_ is a species of bee, also known by the common name HAWAIIAN YELLOW-FACED BEE.[1] It is endemic to Hawaii and known from only two populations.[2] In September 2016, _H. kuakea_ and six other Hawaiian _Hylaeus_ species[3] were listed for protection under the United States Endangered Species Act. This marked a first listing for any bee species in the US.[4]

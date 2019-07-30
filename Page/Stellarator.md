@@ -1,6 +1,6 @@
-W7X-Spulen_Plasma_blau_gelb.jpg experiment:
+experiment:
 
-A series of magnet coils (blue) surrounds the plasma (yellow). A magnetic field line is highlighted in green on the yellow plasma surface. ]] Stellarator_Wendelstein_7-X_Planar-Spulen_Vermessung.jpg in Greifswald, Germany. Coils are prepared for the experimental stellarator.]] HSX_picture.jpg stellarator]]
+A series of magnet coils (blue) surrounds the plasma (yellow). A magnetic field line is highlighted in green on the yellow plasma surface. ]] in Greifswald, Germany. Coils are prepared for the experimental stellarator.]] stellarator]]
 
 A STELLARATOR is a plasma device that relies primarily on external magnets to confine a plasma. In the future, scientists researching magnetic confinement fusion aim to use stellarator devices as a vessel for nuclear fusion reactions. The name refers to the possibility of harnessing the power source of the stars, including the sun.[1] It is one of the earliest fusion power devices, along with the z-pinch and magnetic mirror.
 
@@ -150,7 +150,7 @@ Heating by neutral particles: A neutral particle beam injector makes ions and ac
 
 Configurations
 
-Magnetic_field_stellarator.png Several different configurations of stellarator exist, including:
+Several different configurations of stellarator exist, including:
 
 Spatial stellarator: The original figure-8 design that used geometry to produce the rotational transform of the magnetic fields.
 Classical stellarator: A toroidal or racetrack-shaped design with separate helical coils on either end to produce the rotation.

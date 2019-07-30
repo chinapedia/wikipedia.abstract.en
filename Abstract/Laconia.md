@@ -1,1 +1,0 @@
-LACONIA (, _Lakonía_, ) is a region of Greece in the southeastern part of the Peloponnese peninsula. Its administrative capital is Sparta. The word _laconic_ is derived from the name of the region by analogy—to speak in a concise way, as the Spartans were reputed by the Athenians to do.

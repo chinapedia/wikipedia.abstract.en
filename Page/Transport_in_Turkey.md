@@ -5,7 +5,7 @@ Rail transport
 
 Rail network
 
-Rail_transport_map_of_Turkey.png The TCDD - Türkiye Devlet Demir Yolları (Turkish State Railways) possess 10,984 km of gauge, of which 2,336 km are electrified (2005).[1]
+The TCDD - Türkiye Devlet Demir Yolları (Turkish State Railways) possess 10,984 km of gauge, of which 2,336 km are electrified (2005).[1]
 
 There are daily regular passenger trains all through the network.[2] TCDD has started an investment program of building 5.000 km high-speed lines until 2023. By February 2014, three high speed train routes are running. Ankara-Eskişehir, Ankara-Konya and Eskişehir-Konya.
 
@@ -19,7 +19,7 @@ Because of works connected with the Marmaray and Istanbul-Ankara high speed line
 
 Urban rail
 
-Kayseray.JPG]] After almost 30 years without any trams, Turkey is experiencing a revival in trams. Established in 1992, the tram system of Istanbul earned the best large-scale tram management award in 2005. Another award-winning tram network belongs to Eskişehir, (EsTram) a city with a new tram system opened in 2004. Several other cities are planning or constructing tram lines, usually with modern low-floow trams.
+]] After almost 30 years without any trams, Turkey is experiencing a revival in trams. Established in 1992, the tram system of Istanbul earned the best large-scale tram management award in 2005. Another award-winning tram network belongs to Eskişehir, (EsTram) a city with a new tram system opened in 2004. Several other cities are planning or constructing tram lines, usually with modern low-floow trams.
 
 By 2014, there have been 12 cities in Turkey using railroads for transportation.
 
@@ -52,7 +52,7 @@ Road transport is responsible for almost a fifth of Turkey's greenhouse gas emis
 
 Road network
 
-OtoyolMap.svg There are two types of intercity roads in Turkey:
+There are two types of intercity roads in Turkey:
 
 - The first is the historical and free road network called State roads (_Devlet Yolları_) that are completely under the responsibility of the General Directorate of Highways except for urban sections (like the sections falling within the inner part of ring roads of Ankara, Istanbul or İzmir. Even if they mostly possess dual carriageways and interchanges, they also have some traffic lights and intersections.
 
@@ -68,7 +68,7 @@ As of 2010, there are 155 tunnels (total length 99.5 km) and 6447 bridges (tota
 
 Public road transport
 
-ASTI_BUS_STATION_OTOGAR_ANKARA_TURKEY_OCT_2011_(6309979935).jpg intercity bus station]] There are numerous private bus companies providing connections between cities in Turkey. For local trips to villages there are dolmuşes, small vans that seat about twenty passengers. As of 2010, number of road vehicles is around 15 million. The number of vehicles by type and use is as follows.[9]
+intercity bus station]] There are numerous private bus companies providing connections between cities in Turkey. For local trips to villages there are dolmuşes, small vans that seat about twenty passengers. As of 2010, number of road vehicles is around 15 million. The number of vehicles by type and use is as follows.[9]
 
 -   Car 7,544,871
 -   Minibus 386,973
@@ -106,11 +106,11 @@ In 2013 Turkey had the tenth largest passenger air market in the world with 74,3
 
 Airlines
 
-Boeing_737-9F2ER,_Turkish_Airlines_JP7362771.jpg, the flag carrier of Turkey]]
+, the flag carrier of Turkey]]
 
 Airports
 
-Ataturk_Airport_Karakas-1.jpg Total number of Airports in Turkey: 117 (2007)
+Total number of Airports in Turkey: 117 (2007)
 
 AIRPORTS - WITH PAVED RUNWAYS
 _total:_ 88

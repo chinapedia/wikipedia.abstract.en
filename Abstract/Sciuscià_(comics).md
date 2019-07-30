@@ -1,1 +1,0 @@
-_SCIUSCIÀ_ is an Italian comic book series created by publisher and writer Tristano Torelli in tandem with illustrator Ferdinando Tacconi and also later developed by Gianna Arguissola and Renzo Barbieri as writers and Franco Paludetti and Gianluigi Coppola as artists. It originally run from 1949 until 1956.

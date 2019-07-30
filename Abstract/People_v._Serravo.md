@@ -1,1 +1,0 @@
-_PEOPLE V. SERRAVO_, Supreme Court of Colorado, 823 P2d 128 (1992), is a criminal case involving the meaning of "wrong" in the expression "incapable of distinguishing right from wrong", as it appears in the M'Naghten rule for the insanity defense.[1][2][3]

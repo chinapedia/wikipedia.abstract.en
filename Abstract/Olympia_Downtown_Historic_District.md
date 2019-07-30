@@ -1,1 +1,0 @@
-The OLYMPIA DOWNTOWN HISTORIC DISTRICT is a historic district located in Olympia, Washington, the state's capital. The district, listed on the National Register of Historic Places since 2004, covers 17 blocks in downtown Olympia and includes 51 contributing properties.

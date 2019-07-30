@@ -1,1 +1,0 @@
-_SAHAJ PAATHER GAPPO'' () (_'') is a Bengali film directed by Manas Mukul Pal and produced by Avijit Saha. The film depicts the story of two brothers, Chhotu and Gopal from a poor family of a Bengal village. The film is based on the short story by famous writer Bibhutibhushan Bandyopadhyay.

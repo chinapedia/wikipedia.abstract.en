@@ -1,1 +1,0 @@
-North_elevation._Oblique_view_to_southeast._-_Passaic_River_Bridge,_Spanning_Passaic_River_on_U.S._Route_46,_Paterson,_Passaic_County,_NJ_HAER_NJ,16-PAT,37-5.tif

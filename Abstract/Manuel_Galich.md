@@ -1,1 +1,0 @@
-Manuel_Francisco.jpg

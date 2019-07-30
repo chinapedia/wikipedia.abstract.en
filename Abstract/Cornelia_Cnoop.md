@@ -1,1 +1,0 @@
-CORNELIA CNOOP or CNOPP (born 1450) was a Netherlandish miniature painter. A painting attributed to her hand was exhibited in 1902 in Bruges during the _Exposition des primitifs flamands à Bruges_, in the Provinciaal Hof as catalog number 130.[1]

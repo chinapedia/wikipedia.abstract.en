@@ -1,1 +1,0 @@
-_STUDIO ILLEGALE_ (literally "Illegal study") is a 2013 Italian comedy film co-written and directed by Umberto Carteni and starring Fabio Volo. It is based on a novel with the same name by Federico Baccomo.[1][2][3]

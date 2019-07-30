@@ -1,1 +1,0 @@
-SOKUN NISA (; born May 1, 1983) is a popular singer in Cambodia. In 2003, she started her career as a singer with Rasmey Steung Sangke Production. Currently she is a singer under Rasmey Hang Meas Production.

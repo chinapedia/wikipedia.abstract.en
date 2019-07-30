@@ -1,1 +1,0 @@
-FALDELA WILLIAMS (1952 – 25 May 2014) was a South African cook and cookbook writer whose books inspired generations of cooks after her to preserve the culinary heritage of South Africa's Cape Malay people.

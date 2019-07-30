@@ -1,1 +1,0 @@
-COLETTE PICARD (_née_ Durand) (1913 – 11 October 1999, Versailles) was a French archaeologist and historian. As curator of the archaeological site of Carthage, she led excavations on the hill of Byrsa in 1947.[1]

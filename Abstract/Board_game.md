@@ -1,1 +1,0 @@
-US_Navy_110713-N-NT881-124_Personnel_Specialist_2nd_Class_James_Vail,_left,_and_Boatswain's_Mate_2nd_Class_Nathaniel_Eaton_play_board_games_with_ch.jpg'' is licensed in 103 countries and printed in 37 languages.]] Men_Playing_Board_Games.jpg

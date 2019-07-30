@@ -1,1 +1,0 @@
-Thompson-and-his-gun.jpg holding a Thompson M1921]] A SUBMACHINE GUN (SMG) is a magazine-fed, automatic carbine designed to fire pistol cartridges. The term "submachine gun" was coined by John T. Thompson, the inventor of the Thompson submachine gun.[1]

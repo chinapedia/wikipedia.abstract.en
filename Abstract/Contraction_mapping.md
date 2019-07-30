@@ -1,1 +1,0 @@
-In mathematics, a CONTRACTION MAPPING, or CONTRACTION or CONTRACTOR, on a metric space _(M,d)_ is a function _f_ from _M_ to itself, with the property that there is some nonnegative real number 0 ≤ k < 1 such that for all _x_ and _y_ in _M_,

@@ -1,1 +1,0 @@
-_CHARYBDIS NATATOR_, the RIDGED SWIMMING CRAB, WRINKLED SWIMMING CRAB or ROCK CRAB, is a widespread Indo-Pacific species of swimming crab from the genus _Charybdis_ . It gets its name from the ridges on the dorsal surface of the carapace. It is a crab species which is of minor importance in fisheries.

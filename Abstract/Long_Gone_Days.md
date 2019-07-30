@@ -1,1 +1,0 @@
-_LONG GONE DAYS_ is a dystopian role-playing video game for Windows, OSX and Linux, being developed by BURA. The original demo was written, developed, and illustrated by Camila Gormaz. It features the first hour of the story, and was released for Windows and OSX on May 13, 2016.[1] The game was released on March 28, 2018.[2]

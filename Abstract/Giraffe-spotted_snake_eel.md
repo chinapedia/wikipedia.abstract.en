@@ -1,1 +1,0 @@
-_CHAULIGENION CAMELOPARDALIS_, also known as the GIRAFFE-SPOTTED SNAKE EEL, is a species of fish in the family Ophichthidae found in the Pacific Ocean. This species occurs at the west of Okinawa in the East China Sea. This species is the only known member of its genus.[1]

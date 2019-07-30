@@ -1,4 +1,4 @@
-The DEMOGRAPHICS OF TURKMENISTAN is about the demographic features of the population of Turkmenistan, including population growth, population density, ethnicity, education level, health, economic status, religious affiliations, and other aspects of the population. The ethnic majority in Turkmenistan call themselves Turkmen. Population_of_Turkmenistan.PNG
+The DEMOGRAPHICS OF TURKMENISTAN is about the demographic features of the population of Turkmenistan, including population growth, population density, ethnicity, education level, health, economic status, religious affiliations, and other aspects of the population. The ethnic majority in Turkmenistan call themselves Turkmen.
 
 
 Demographic trends
@@ -187,7 +187,7 @@ Some famous Azerbaijanis from Turkmenistan are: the chief of Baku City Executive
 
 CIA World Factbook demographic statistics
 
-Bevölkerungspyramide_Turkmenistan_2016.png The following demographic statistics are from the CIA World Factbook as of September 2018, unless otherwise indicated.[11]
+The following demographic statistics are from the CIA World Factbook as of September 2018, unless otherwise indicated.[11]
 
 Language
 

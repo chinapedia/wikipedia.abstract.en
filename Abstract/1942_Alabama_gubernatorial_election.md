@@ -1,1 +1,0 @@
-The 1942 ALABAMA GUBERNATORIAL ELECTION took place on November 3, 1942, to elect the Governor of Alabama. Incumbent Democrat Frank M. Dixon was term limited, and could not seek a second consecutive term.

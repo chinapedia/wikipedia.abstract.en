@@ -1,1 +1,0 @@
-_CALLBOYS_ is a 2016 Belgian TV series produced by Woestijnvis for the Flemish channel VIER. The series stars Matteo Simoni, Rik Verheye, Stef Aerts and Bart Hollanders. It was directed by Jan Eelen. The series revolves around the (mis)adventures of three male prostitutes and their secretary.

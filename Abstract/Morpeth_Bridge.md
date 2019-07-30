@@ -1,1 +1,0 @@
-MORPETH BRIDGE is a heritage-listed road bridge over the Hunter River at Morpeth, City of Maitland, New South Wales, Australia. It was designed by Percy Allan and built from 1896 to 1898 by Samuel McGill. It is also known as Morpeth Bridge over the Hunter River. The property is owned by Roads and Maritime Services (New South Wales Government).[1]

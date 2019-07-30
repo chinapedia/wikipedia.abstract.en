@@ -1,1 +1,0 @@
-The MOTOROLA 68000 ("'sixty-eight-thousand'"; also called the M68K or MOTOROLA 68K, "_sixty-eight-kay_") is a 16/32-bit CISC microprocessor, introduced in 1979 by Motorola Semiconductor Products Sector.

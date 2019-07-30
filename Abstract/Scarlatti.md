@@ -1,1 +1,0 @@
-SCARLATTI is an Italian surname. Notable people with this surname include:

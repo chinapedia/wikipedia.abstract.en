@@ -1,1 +1,0 @@
-Carole_Souter.jpg

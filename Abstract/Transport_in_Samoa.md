@@ -1,1 +1,0 @@
-Typical_bus_in_Apia,_Samoa,_2009.jpg Samoa_coastal_road.jpg

@@ -1,1 +1,0 @@
-ANNE CARROLL (June 1940 – 15 November 2018)[1][2] was a British actress and director. In the 2011 New Year Honours, Carroll received an MBE "for services to community theatre in Barnes", as she had run the youth theatre group, Barnes Theatre Company in Barnes, London for two decades.[3] Carroll was the founder of the OSO Arts Centre (Old Sorting Office) arts venue in Barnes.[4]

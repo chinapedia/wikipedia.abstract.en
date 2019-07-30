@@ -1,1 +1,0 @@
-JUAN DE NOVA ISLAND (French: _Île Juan da Nova_ (official), _Île Juan de Nova_ (local)), also known as SAINT-CHRISTOPHE, is a French tropical island in the narrowest part of the Mozambique Channel, about one-third of the way between Madagascar and Mozambique. It is a low, flat island, in size.

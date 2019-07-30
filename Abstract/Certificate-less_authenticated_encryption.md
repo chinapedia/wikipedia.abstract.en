@@ -1,1 +1,0 @@
-CERTIFICATE-LESS AUTHENTICATED ENCRYPTION (CLAE) adds authentication to ID-based encryption. It is an asymmetric encryption algorithm that can exchange secrets between any two entities without the need to (centrally) administer keys.[1][2][3]

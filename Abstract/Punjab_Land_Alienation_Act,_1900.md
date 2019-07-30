@@ -1,1 +1,0 @@
-The PUNJAB LAND ALIENATION ACT OF 1900 was a piece of legislation introduced by the British Raj with the aim of limiting the transfer of land ownership in Punjab Province. It created a an "agricultural tribes" category, the membership of which was almost compulsory to buy or sell land.[1][2]

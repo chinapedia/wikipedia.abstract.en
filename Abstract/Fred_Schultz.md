@@ -1,1 +1,0 @@
-FRED SCHULTZ is an Australian-based designer and entrepreneur in the Tiny house movement. Born in America, Schultz, also an artist and former chemist, moved to Australia in 2001 and designs his houses using the 3D modeling computer program SketchUp.[1]

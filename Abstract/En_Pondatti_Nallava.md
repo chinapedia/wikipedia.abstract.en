@@ -1,1 +1,0 @@
-_EN PONDATTI NALLAVA_ (English: My wife is kind) is a 1995 Tamil drama film directed by Senthilnathan. The film features Napoleon and Kushboo in the lead roles, with Senthil, Vadivelu, Janagaraj, Y. G. Mahendra, Kovai Sarala, Sathyapriya and Jayamala playing supporting roles. The film, produced by S. Giri, had musical score by Deva and was released on 14 April 1995.[1][2][3]

@@ -1,1 +1,0 @@
-Eight undertrial prisoners of Bhopal Central Jail were killed in a encounter on 31 October 2016.[1] They had allegedly escaped from the high security prison in the wee hours of the night.[2] The prisoners were suspected terrorists of the Students' Islamic Movement of India.[3]

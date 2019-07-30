@@ -1,1 +1,0 @@
-The TWISTER SISTER RIBOZYME (TS) is an RNA structure that catalyzes its own cleavage at a specific site. In other words, it is a self-cleaving ribozyme. The twister sister ribozyme was discovered by a bioinformatics strategy [1] as an RNA Associated with Genes Associated with Twister and Hammerhead ribozymes, or RAGATH.

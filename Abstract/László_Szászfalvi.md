@@ -1,1 +1,0 @@
-LÁSZLÓ SZÁSZFALVI (born 11 January 1961)[1] is a Hungarian Calvinist pastor, theologian and politician, Member of Parliament since 1998. He served as Secretary of State for Churches, Minorities and Civil Affairs between 2010 and 2012. He also served as mayor of Csurgó from 1990 to 2003 and from 2006 to 2010.[2]

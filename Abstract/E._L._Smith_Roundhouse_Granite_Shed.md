@@ -1,1 +1,0 @@
-The E.L. SMITH ROUNDHOUSE GRANITE SHED is a historic granite shed at 23 Burnham Street in the city of Barre, Vermont. Built in 1889, it is the only known surviving example of a circular granite cutting shed in the United States. It was listed on the National Register of Historic Places in 2011.[1]

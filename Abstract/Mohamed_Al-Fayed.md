@@ -1,1 +1,0 @@
-MOHAMED AL-FAYED (; ; born Mohamed Fayed on 27 January 1929) is an Egyptian businessman. Fayed's business interests include ownership of Hôtel Ritz Paris and formerly Harrods Department Store, Knightsbridge. Al-Fayed sold his ownership of Fulham F.C. to Shahid Khan in 2013.[1]

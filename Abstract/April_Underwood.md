@@ -1,1 +1,0 @@
-APRIL UNDERWOOD was the Chief Product Officer at Slack. Before joining Slack, she held positions at Twitter, Google, and WeatherBill. She is a co-founder of #Angels, an investment group for female-founded companies.

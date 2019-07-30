@@ -5,7 +5,7 @@ The Sentinels played a large role in the 1990s _X-Men_ animated series and have 
 
 Publication history
 
-The_X-Men_(Uncanny_X-Men)-vol.1-14_(November_1965).jpg'' #14 (November 1965). Art by Jack Kirby.]] Created by Stan Lee and Jack Kirby, they first appeared in _The X-Men_ #14 (November 1965).
+'' #14 (November 1965). Art by Jack Kirby.]] Created by Stan Lee and Jack Kirby, they first appeared in _The X-Men_ #14 (November 1965).
 
 Sentinels are programmed to locate mutants and capture or kill them. Though several types of Sentinels have been introduced, the typical Sentinel is three stories tall, is capable of flight, projects energy blasts, and can detect mutants.
 
@@ -21,7 +21,7 @@ Some Sentinel variants have the ability to learn from their experiences, develop
 
 Types of Sentinels
 
-Sentinels.PNG'' vol. 3, #1 (July 2004). Art by John Cassaday.]] There are different types of Sentinels that appear in the comics:
+'' vol. 3, #1 (July 2004). Art by John Cassaday.]] There are different types of Sentinels that appear in the comics:
 
 -   MARK I and MASTER MOLD - Created by Bolivar Trask. First appeared in _X-Men_ (vol. 1) #14. Bolivar Trask sacrificed himself to destroy the Master Mold.
 -   MARK II - Created by Larry Trask. This model was capable of adapting to and counteracting superpowers almost instantly. First appeared in _X-Men_ (vol. 1) #57.
@@ -43,8 +43,6 @@ Sentinels.PNG'' vol. 3, #1 (July 2004). Art by John Cassaday.]] There are differ
 -   STARK SENTINELS - The Stark Sentinels debuted during the _AXIS_ storyline. Under the influence of the Red Skull (who also had erased from him any memory of their construction), Tony Stark created a model of Sentinels based on the knowledge of different super heroes he acquired after the _Civil War_ storyline. When Red Skull became the Red Onslaught, and the Avengers arrived to Genosha to stop him, he deployed the Stark Sentinels.[4]
 
 Related mutant-hunting creations
-
-Sentinel_X-Men_Schism_Vol_1_1.png
 
 -   TRI-SENTINEL - A combination of three fairly standard Sentinels bonded together by Loki, and defeated by Spider-Man at the peak of his cosmic (Captain Universe) powers. Later revived by The Life Foundation, only to be destroyed again by Spider-Man and Nova. Mendel Stromm later obtained another one from the bunker of the bankrupt Life Foundation and was later approached by a mysterious benefactor who prepared to give him a Master Mold that specializes in creating Tri-Sentinels.
 -   SOVIET SENTINELS - Created by the Soviet Union and later purchased by Cuban government officials.''[5]
@@ -139,7 +137,7 @@ Sentinels have appeared as major antagonists in almost every video game to featu
 -   A robot resembling a Sentinel also appears in both the arcade and SNES versions of _Captain America and the Avengers_. In the game, it is not called a 'Sentinel', but instead, is referred to simply as 'Robot'.
 -   In _X-Men 2: Clone Wars_, in the second level (the first level after the title screen), Sentinels appear in the background, as the level is set in a high-tech factory that produces Sentinels.
 
-Xm-coa.png'' in the 1994's arcade game _X-Men: Children of the Atom_.]]
+'' in the 1994's arcade game _X-Men: Children of the Atom_.]]
 
 -   A non-standard 10' tall Sentinel is a playable character in _X-Men: Children of the Atom_.
 -   In _Marvel vs. Capcom 2: New Age of Heroes_, the same Sentinel from _X-Men: Children of the Atom_ makes another appearance as a playable character. It was also featured as a secret partner assist in _Marvel vs. Capcom: Clash of Super Heroes_.

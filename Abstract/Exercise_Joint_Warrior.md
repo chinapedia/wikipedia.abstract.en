@@ -1,1 +1,0 @@
-EXERCISE JOINT WARRIOR is a major semiannual multi-national military exercise which takes place in the United Kingdom, predominately in north west Scotland. It is the successor of the NEPTUNE WARRIOR exercises and JOINT MARITIME COURSE.

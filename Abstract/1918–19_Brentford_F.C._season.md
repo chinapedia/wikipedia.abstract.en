@@ -1,1 +1,0 @@
-During the 1918–19 English football season, Brentford competed in the London Combination, due to the cessation of competitive football for the duration of the First World War. Buoyed by larger crowds after the Armistice, Brentford finished the season as champions of the London Combination.

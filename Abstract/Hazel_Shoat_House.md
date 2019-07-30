@@ -1,1 +1,0 @@
-HAZEL SHOAT HOUSE is a historic home located at Grandin, Carter County, Missouri. It was built between 1888 and 1909 by the Missouri Lumber and Mining Company. It is a 1 1/2-story, vernacular frame dwelling with an enclosed, gable roofed front porch and large wing in back. The roof is gabled, and the walls are sided with weatherboard.[1]

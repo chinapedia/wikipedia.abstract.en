@@ -1,1 +1,0 @@
-The SEPTEMBER 11 ATTACKS TIMELINE is a chronological list of all the major events leading up to, during, and immediately following the terrorist attacks on New York and Washington that day. The timeline starts with the completion of the first World Trade Center tower in 1970 through the first anniversary of the attacks in 2002.

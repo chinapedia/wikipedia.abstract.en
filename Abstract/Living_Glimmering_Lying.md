@@ -1,1 +1,0 @@
-_LIVING GLIMMERING LYING_ () is a 1994 book by the German writer Botho Strauß. It consists of literary vignettes about alienated people in post-reunification Berlin. The book was published in English in 1999, translated by Roslyn Theobald.[1]

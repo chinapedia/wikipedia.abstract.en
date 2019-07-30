@@ -1,1 +1,0 @@
-KIM COBB (born 1974) is an American climate scientist. She is a professor in the School of Earth and Atmospheric Sciences at the Georgia Institute of Technology, and a Georgia Power Faculty Scholar. She is particularly interested in oceanography, geochemistry and paleoclimate modelling.

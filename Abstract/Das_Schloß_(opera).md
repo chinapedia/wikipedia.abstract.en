@@ -1,1 +1,0 @@
-_DAS SCHLOSS_ (_The Castle_, literally: The palace) is a 1992 German-language opera by Aribert Reimann. He wrote his own libretto based on Kafka's novel and its dramatization by Max Brod. It premiered on 2 September 1992 at the Deutsche Oper Berlin, staged by Willy Decker and conducted by Michael Boder.

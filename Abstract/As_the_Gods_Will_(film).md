@@ -1,1 +1,0 @@
-is a 2014 Japanese black comedy supernatural horror film directed by Takashi Miike. It is based on the first arc of the manga series of the same name by Muneyuki Kaneshiro and Akeji Fujimura. Funimation will release the film in the United States.[1]

@@ -1,1 +1,0 @@
-_IN SUCH GOOD COMPANY: ELEVEN YEARS OF LAUGHTER, MAYHEM, AND FUN IN THE SANDBOX_ is a 2016 memoir by Carol Burnett, which, in its audio form, earned Burnett a Grammy Award for Best Spoken Word Album.[1] The memoir tells the behind-the-scenes story of _The Carol Burnett Show_.

@@ -1,1 +1,0 @@
-INFLTR (stylised as infltr), the conflation of "infinite filters" [1] is an image editing app for Apple iOS devices. The first version of the mobile app was launched in August 2015 as an alternative to the standard iOS camera app.

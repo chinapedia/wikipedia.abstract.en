@@ -1,1 +1,0 @@
-'''Thomalina Adams ''' (born 6 July 1993 in Lüderitz) is a Namibian women's international footballer who plays as a midfielder. She is a member of the Namibia women's national football team. She was part of the team at the 2014 African Women's Championship. On club level she played for VfL Bochum in Germany.[1][2]

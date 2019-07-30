@@ -1,1 +1,0 @@
-CONTINUUM MECHANICS is a branch of mechanics that deals with the mechanical behavior of materials modeled as a continuous mass rather than as discrete particles. The French mathematician Augustin-Louis Cauchy was the first to formulate such models in the 19th century.

@@ -9,7 +9,7 @@ Characteristics
 
 Physical properties
 
-Selenium_trigonal.jpg Selenium forms several allotropes that interconvert with temperature changes, depending somewhat on the rate of temperature change. When prepared in chemical reactions, selenium is usually an amorphous, brick-red powder. When rapidly melted, it forms the black, vitreous form, usually sold commercially as beads.[2] The structure of black selenium is irregular and complex and consists of polymeric rings with up to 1000 atoms per ring. Black Se is a brittle, lustrous solid that is slightly soluble in CS₂. Upon heating, it softens at 50 °C and converts to gray selenium at 180 °C; the transformation temperature is reduced by presence of halogens and amines.[3]
+Selenium forms several allotropes that interconvert with temperature changes, depending somewhat on the rate of temperature change. When prepared in chemical reactions, selenium is usually an amorphous, brick-red powder. When rapidly melted, it forms the black, vitreous form, usually sold commercially as beads.[2] The structure of black selenium is irregular and complex and consists of polymeric rings with up to 1000 atoms per ring. Black Se is a brittle, lustrous solid that is slightly soluble in CS₂. Upon heating, it softens at 50 °C and converts to gray selenium at 180 °C; the transformation temperature is reduced by presence of halogens and amines.[3]
 
 The red α, β, and γ forms are produced from solutions of black selenium by varying the evaporation rate of the solvent (usually CS₂). They all have relatively low, monoclinic crystal symmetries and contain nearly identical puckered Se₈ rings with different arrangements, as in sulfur. The packing is most dense in the α form. In the Se₈ rings, the Se-Se distance is 233.5 pm and Se-Se-Se angle is 105.7°. Other selenium allotropes may contain Se₆ or Se₇ rings.[4]
 
@@ -54,7 +54,7 @@ Selenium forms two oxides: selenium dioxide (SeO₂) and selenium trioxide (SeO�
 
     Se₈ + 8 O₂ → 8 SeO₂
 
-Selenium-dioxide-chain-3D-balls.png It is a polymeric solid that forms monomeric SeO₂ molecules in the gas phase. It dissolves in water to form selenous acid, H₂SeO₃. Selenous acid can also be made directly by oxidizing elemental selenium with nitric acid:[16]
+It is a polymeric solid that forms monomeric SeO₂ molecules in the gas phase. It dissolves in water to form selenous acid, H₂SeO₃. Selenous acid can also be made directly by oxidizing elemental selenium with nitric acid:[16]
 
     3 Se + 4 HNO₃ + H₂O → 3 H₂SeO₃ + 4 NO
 
@@ -145,8 +145,6 @@ Signs and symptoms of selenosis include a garlic odor on the breath, gastrointes
 On 19 April 2009, 21 polo ponies died shortly before a match in the United States Polo Open. Three days later, a pharmacy released a statement explaining that the horses had received an incorrect dose of one of the ingredients used in a vitamin/mineral supplement compound that had been incorrectly prepared by a compounding pharmacy. Analysis of blood levels of inorganic compounds in the supplement indicated the selenium concentrations were 10 to 15 times higher than normal in the blood samples, and 15 to 20 times higher than normal in the liver samples. Selenium was later confirmed to be the toxic factor.[63]
 
 Selenium poisoning of water systems may result whenever new agricultural runoff courses through normally dry, undeveloped lands. This process leaches natural soluble selenium compounds (such as selenates) into the water, which may then be concentrated in new "wetlands" as the water evaporates. Selenium pollution of waterways also occurs when selenium is leached from coal flue ash, mining and metal smelting, crude oil processing, and landfill.[64] The resultant high selenium levels in waterways were found to cause congenital disorders in oviparous species, including wetland birds[65] and fish.[66] Elevated dietary methylmercury levels can amplify the harm of selenium toxicity in oviparous species.[67][68]
-
-Se_dose-response_curve_for_juvenile_salmon_mortality_-_percent_scale.jpg
 
 In fish and other wildlife, selenium is necessary for life, but toxic in high doses. For salmon, the optimal concentration of selenium is about 1 microgram selenium per gram of whole body weight. Much below that level, young salmon die from deficiency;[69] much above, they die from toxic excess.[70]
 

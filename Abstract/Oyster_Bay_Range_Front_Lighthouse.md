@@ -1,1 +1,0 @@
-The OYSTER BAY RANGE FRONT LIGHTHOUSE is located on the coast of Dar es salaam, Tanzania in Oyster Bay. The lighthouse works in conjunction with the Oyster Bay Rear Range Lighthouse to warn ships away from the cliffs at the Msasani peninsula.[1][2]

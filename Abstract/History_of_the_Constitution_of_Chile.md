@@ -1,1 +1,0 @@
-The HISTORY OF THE CONSTITUTION OF CHILE dates from 1811. There were 10 constitutional texts and a draft for a federal organization in 1826. Its common elements are the unitary form of state and presidentialism as a form of government.

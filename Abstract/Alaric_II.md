@@ -1,1 +1,0 @@
-Anneau_sigillaire_Alaric_II.jpg

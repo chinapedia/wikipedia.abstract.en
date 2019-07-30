@@ -1,1 +1,0 @@
-Wfm_cape_breton_island_pseudocolour.jpg

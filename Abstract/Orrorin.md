@@ -1,1 +1,0 @@
-_ORRORIN TUGENENSIS_ is a postulated early species of Homininae, estimated at and discovered in 2000. It is not confirmed how _Orrorin_ is related to modern humans. Its discovery was an argument against the hypothesis that australopithecines are human ancestors, as much as it still remains the most prevalent hypothesis of human evolution as of 2012.[1]

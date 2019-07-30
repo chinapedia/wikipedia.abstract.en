@@ -13,7 +13,7 @@ In the _Star Trek: The Animated Series_ episode "The Survivor", McCoy mentions h
 
 Reboot film series
 
-Leonard_"Bones"_McCoy_(from_Star_Trek_2009).JPG as McCoy in _Star Trek_ (2009)]] In the 2009 _Star Trek_ film, which takes place in an alternate, parallel reality,[24] McCoy and Kirk become friends at Starfleet Academy, which McCoy joins after a divorce that he says "left [him] nothing but [his] bones." This line, improvised by Urban,[25] explains how McCoy earned the nickname _Bones_. McCoy later helps get Kirk posted aboard the USS _Enterprise_. He later becomes the chief medical officer after Doctor Puri is killed during an attack by Nero. McCoy remains aboard to see the _Enterprise_ defeat Nero and his crew, with Kirk becoming the commanding officer of the ship.
+as McCoy in _Star Trek_ (2009)]] In the 2009 _Star Trek_ film, which takes place in an alternate, parallel reality,[24] McCoy and Kirk become friends at Starfleet Academy, which McCoy joins after a divorce that he says "left [him] nothing but [his] bones." This line, improvised by Urban,[25] explains how McCoy earned the nickname _Bones_. McCoy later helps get Kirk posted aboard the USS _Enterprise_. He later becomes the chief medical officer after Doctor Puri is killed during an attack by Nero. McCoy remains aboard to see the _Enterprise_ defeat Nero and his crew, with Kirk becoming the commanding officer of the ship.
 
 _The Guardian_ called Urban's portrayal of McCoy in the 2009 film an "unqualified success",[26] and _The New York Times_ called the character "wild-eyed and funny".[27] Slate.com said Urban came closer than the other actors to impersonating a character's original depiction.[28]
 

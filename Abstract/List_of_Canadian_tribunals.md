@@ -1,1 +1,0 @@
-This is a LIST OF TRIBUNALS IN CANADA. A tribunal, generally, is any person or institution with authority to judge, adjudicate on, or determine claims or disputes—whether or not it is called a tribunal in its title.[1]

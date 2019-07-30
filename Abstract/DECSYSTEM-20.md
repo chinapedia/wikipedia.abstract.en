@@ -1,1 +1,0 @@
-DECsystem_2020_Logo.jpeg DECSYSTEM-20_KL-10_(1974).jpg]] DECSYSTEM-2020_KS-10_(1979).jpg

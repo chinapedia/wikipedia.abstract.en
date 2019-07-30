@@ -1,1 +1,0 @@
-AHWAZ RAILWAY STATION (_Persian:_ايستگاه راه آهن اهواز, _Istgah-e Rah Ahan-e Ahvaz_) is located in Ahvaz, Khuzestan Province. The station is owned by IRI Railway. This is older one of the two railway stations in the city of Ahvaz, with the other one being Karun railway station.

@@ -1,1 +1,0 @@
-The CO-CATHEDRAL OF ST. PETER [1] () also called SPLIT CO-CATHEDRAL Is a Catholic temple located in Split, in the southern part of the European country of Croatia,[2] which serves as the co-cathedral of the archdiocese of Split-Makarska.

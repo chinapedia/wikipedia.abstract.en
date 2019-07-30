@@ -1,1 +1,0 @@
-EULER'S FORMULA, named after Leonhard Euler, is a mathematical formula in complex analysis that establishes the fundamental relationship between the trigonometric functions and the complex exponential function. Euler's formula states that for any real number :

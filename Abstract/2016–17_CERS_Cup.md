@@ -1,1 +1,0 @@
-The 2016–17 CERS CUP is the 37th season of the CERS Cup, Europe's second club roller hockey competition organized by CERH. Thirty teams from eight national associations qualified for the competition as a result of their respective national league placing in the previous season.[1] Barcelos won the title for the second consecutive season.

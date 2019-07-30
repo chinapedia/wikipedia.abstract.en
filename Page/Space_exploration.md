@@ -1,4 +1,4 @@
-PIA00128_Moon_(18_Image_Mosaic).jpg]]
+]]
 
 SPACE EXPLORATION is the discovery and exploration of celestial structures in outer space by developing and growing space technology. While the study of space is carried out mainly by astronomers with telescopes, the physical exploration of space is conducted both by unmanned robotic space probes and human spaceflight.
 
@@ -15,7 +15,7 @@ From the 1990s onwards, private interests began promoting space tourism and then
 
 History of exploration
 
-1000px-Atmosphere_layers-en.PNG Timeline_of_Solar_System_exploration.jpg.]] Bumper8_launch-GPN-2000-000613.jpg is launched from Cape Canaveral, Florida. The Bumper was a two-stage rocket consisting of a Post-War V-2 topped by a WAC Corporal rocket. It could reach then-record altitudes of almost 400 km. Launched by General Electric Company, this Bumper was used primarily for testing rocket systems and for research on the upper atmosphere. They carried small payloads that allowed them to measure attributes including air temperature and cosmic ray impacts.]]
+.]] is launched from Cape Canaveral, Florida. The Bumper was a two-stage rocket consisting of a Post-War V-2 topped by a WAC Corporal rocket. It could reach then-record altitudes of almost 400 km. Launched by General Electric Company, this Bumper was used primarily for testing rocket systems and for research on the upper atmosphere. They carried small payloads that allowed them to measure attributes including air temperature and cosmic ray impacts.]]
 
 Telescope
 
@@ -23,7 +23,7 @@ The first telescope was invented in 1608 in the Netherlands by an eyeglass maker
 
 First outer space flights
 
-Sputnik_asm.jpg'', the first artificial satellite orbited Earth at in 1957, and was soon followed by _Sputnik 2_. See First satellite by country (Replica Pictured) ]] Apollo_CSM_lunar_orbit.jpg Moon-apollo17-schmitt_boulder.jpg astronaut Harrison Schmitt standing next to a boulder at Taurus-Littrow. ]]
+'', the first artificial satellite orbited Earth at in 1957, and was soon followed by _Sputnik 2_. See First satellite by country (Replica Pictured) ]] astronaut Harrison Schmitt standing next to a boulder at Taurus-Littrow. ]]
 
 The first successful orbital launch was of the Soviet uncrewed _Sputnik 1_ ("Satellite 1") mission on 4 October 1957. The satellite weighed about , and is believed to have orbited Earth at a height of about . It had two radio transmitters (20 and 40 MHz), which emitted "beeps" that could be heard by radios around the globe. Analysis of the radio signals was used to gather information about the electron density of the ionosphere, while temperature and pressure data was encoded in the duration of radio beeps. The results indicated that the satellite was not punctured by a meteoroid. _Sputnik 1_ was launched by an R-7 rocket. It burned up upon re-entry on 3 January 1958.
 
@@ -86,21 +86,21 @@ Although the Sun will probably not be physically explored at all, the study of t
 
 Mercury
 
-Mercury_as_Never_Seen_Before.jpg'' image of Mercury (2013)]] MESSENGER_EN0108828359M.png Mercury remains the least explored of the Terrestrial planets. As of May 2013, the Mariner 10 and _MESSENGER_ missions have been the only missions that have made close observations of Mercury. _MESSENGER_ entered orbit around Mercury in March 2011, to further investigate the observations made by Mariner 10 in 1975 (Munsell, 2006b). A third mission to Mercury, scheduled to arrive in 2025, BepiColombo is to include two probes. BepiColombo is a joint mission between Japan and the European Space Agency. _MESSENGER_ and BepiColombo are intended to gather complementary data to help scientists understand many of the mysteries discovered by Mariner 10's flybys.
+'' image of Mercury (2013)]] Mercury remains the least explored of the Terrestrial planets. As of May 2013, the Mariner 10 and _MESSENGER_ missions have been the only missions that have made close observations of Mercury. _MESSENGER_ entered orbit around Mercury in March 2011, to further investigate the observations made by Mariner 10 in 1975 (Munsell, 2006b). A third mission to Mercury, scheduled to arrive in 2025, BepiColombo is to include two probes. BepiColombo is a joint mission between Japan and the European Space Agency. _MESSENGER_ and BepiColombo are intended to gather complementary data to help scientists understand many of the mysteries discovered by Mariner 10's flybys.
 
 Flights to other planets within the Solar System are accomplished at a cost in energy, which is described by the net change in velocity of the spacecraft, or delta-v. Due to the relatively high delta-v to reach Mercury and its proximity to the Sun, it is difficult to explore and orbits around it are rather unstable.
 
 Venus
 
-Venus-real_color.jpg image of Venus (1974)]]
+image of Venus (1974)]]
 
 Venus was the first target of interplanetary flyby and lander missions and, despite one of the most hostile surface environments in the Solar System, has had more landers sent to it (nearly all from the Soviet Union) than any other planet in the Solar System. The first flyby was the 1961 Venera 1, though the 1962 Mariner 2 was the first flyby to successfully return data. Mariner 2 has been followed by several other flybys by multiple space agencies often as part of missions using a Venus flyby to provide a gravitational assist en route to other celestial bodies. In 1967 Venera 4 became the first probe to enter and directly examine the atmosphere of Venus. In 1970, Venera 7 became the first successful lander to reach the surface of Venus and by 1985 it had been followed by eight additional successful Soviet Venus landers which provided images and other direct surface data. Starting in 1975 with the Soviet orbiter Venera 9 some ten successful orbiter missions have been sent to Venus, including later missions which were able to map the surface of Venus using radar to pierce the obscuring atmosphere.
 
 Earth
 
-TIROS-1-Earth.png. (1960)]]
+. (1960)]]
 
-The_Earth_seen_from_Apollo_17.jpg'' Earth picture taken during Apollo 17 (1972)]]
+'' Earth picture taken during Apollo 17 (1972)]]
 
 Space exploration has been used as a tool to understand Earth as a celestial object in its own right. Orbital missions can provide data for Earth that can be difficult or impossible to obtain from a purely ground-based point of reference.
 
@@ -108,7 +108,7 @@ For example, the existence of the Van Allen radiation belts was unknown until th
 
 The Moon
 
-FullMoon2010.jpg (2010)|left|130x130px]] Apollo_16_LM_Orion.jpg LEM Orion, the Lunar Roving Vehicle and astronaut John Young (1972)]] The Moon was the first celestial body to be the object of space exploration. It holds the distinctions of being the first remote celestial object to be flown by, orbited, and landed upon by spacecraft, and the only remote celestial object ever to be visited by humans.
+(2010)|left|130x130px]] LEM Orion, the Lunar Roving Vehicle and astronaut John Young (1972)]] The Moon was the first celestial body to be the object of space exploration. It holds the distinctions of being the first remote celestial object to be flown by, orbited, and landed upon by spacecraft, and the only remote celestial object ever to be visited by humans.
 
 In 1959 the Soviets obtained the first images of the far side of the Moon, never previously visible to humans. The U.S. exploration of the Moon began with the Ranger 4 impactor in 1962. Starting in 1966 the Soviets successfully deployed a number of landers to the Moon which were able to obtain data directly from the Moon's surface; just four months later, _Surveyor 1_ marked the debut of a successful series of U.S. landers. The Soviet uncrewed missions culminated in the Lunokhod program in the early 1970s, which included the first uncrewed rovers and also successfully brought lunar soil samples to Earth for study. This marked the first (and to date the only) automated return of extraterrestrial soil samples to Earth. Uncrewed exploration of the Moon continues with various nations periodically deploying lunar orbiters, and in 2008 the Indian Moon Impact Probe.
 
@@ -116,19 +116,19 @@ Crewed exploration of the Moon began in 1968 with the Apollo 8 mission that succ
 
 Mars
 
-Mars_23_aug_2003_hubble.jpg (2003)]]
+(2003)]]
 
-Spirit_rover_tracks.jpg (2004)]] The exploration of Mars has been an important part of the space exploration programs of the Soviet Union (later Russia), the United States, Europe, Japan and India. Dozens of robotic spacecraft, including orbiters, landers, and rovers, have been launched toward Mars since the 1960s. These missions were aimed at gathering data about current conditions and answering questions about the history of Mars. The questions raised by the scientific community are expected to not only give a better appreciation of the red planet but also yield further insight into the past, and possible future, of Earth.
+(2004)]] The exploration of Mars has been an important part of the space exploration programs of the Soviet Union (later Russia), the United States, Europe, Japan and India. Dozens of robotic spacecraft, including orbiters, landers, and rovers, have been launched toward Mars since the 1960s. These missions were aimed at gathering data about current conditions and answering questions about the history of Mars. The questions raised by the scientific community are expected to not only give a better appreciation of the red planet but also yield further insight into the past, and possible future, of Earth.
 
 The exploration of Mars has come at a considerable financial cost with roughly two-thirds of all spacecraft destined for Mars failing before completing their missions, with some failing before they even began. Such a high failure rate can be attributed to the complexity and large number of variables involved in an interplanetary journey, and has led researchers to jokingly speak of _The Great Galactic Ghoul_[27] which subsists on a diet of Mars probes. This phenomenon is also informally known as the "Mars Curse".[28] In contrast to overall high failure rates in the exploration of Mars, India has become the first country to achieve success of its maiden attempt. India's Mars Orbiter Mission (MOM)[29][30][31] is one of the least expensive interplanetary missions ever undertaken with an approximate total cost of 450 Crore ().[32][33] The first mission to Mars by any Arab country has been taken up by the United Arab Emirates. Called the Emirates Mars Mission, it is scheduled for launch in 2020. The uncrewed exploratory probe has been named "Hope Probe" and will be sent to Mars to study its atmosphere in detail.[34]
 
 Phobos
 
-Phobos_colour_2008.jpg (2008)|left|125x125px]] The Russian space mission Fobos-Grunt, which launched on 9 November 2011 experienced a failure leaving it stranded in low Earth orbit.[35] It was to begin exploration of the Phobos and Martian circumterrestrial orbit, and study whether the moons of Mars, or at least Phobos, could be a "trans-shipment point" for spaceships traveling to Mars.[36]
+(2008)|left|125x125px]] The Russian space mission Fobos-Grunt, which launched on 9 November 2011 experienced a failure leaving it stranded in low Earth orbit.[35] It was to begin exploration of the Phobos and Martian circumterrestrial orbit, and study whether the moons of Mars, or at least Phobos, could be a "trans-shipment point" for spaceships traveling to Mars.[36]
 
 Jupiter
 
-Jupiter_and_its_shrunken_Great_Red_Spot.jpg (2014).|left|125x125px]]The exploration of Jupiter has consisted solely of a number of automated NASA spacecraft visiting the planet since 1973. A large majority of the missions have been "flybys", in which detailed observations are taken without the probe landing or entering orbit; such as in Pioneer and Voyager programs. The _Galileo_ and _Juno_ spacecraft are the only spacecraft to have entered the planet's orbit. As Jupiter is believed to have only a relatively small rocky core and no real solid surface, a landing mission is precluded.
+(2014).|left|125x125px]]The exploration of Jupiter has consisted solely of a number of automated NASA spacecraft visiting the planet since 1973. A large majority of the missions have been "flybys", in which detailed observations are taken without the probe landing or entering orbit; such as in Pioneer and Voyager programs. The _Galileo_ and _Juno_ spacecraft are the only spacecraft to have entered the planet's orbit. As Jupiter is believed to have only a relatively small rocky core and no real solid surface, a landing mission is precluded.
 
 Reaching Jupiter from Earth requires a delta-v of 9.2 km/s,[37] which is comparable to the 9.7 km/s delta-v needed to reach low Earth orbit.[38] Fortunately, gravity assists through planetary flybys can be used to reduce the energy required at launch to reach Jupiter, albeit at the cost of a significantly longer flight duration.[39]
 
@@ -136,19 +136,19 @@ Jupiter has 79 known moons, many of which have relatively little known informati
 
 Saturn
 
-Ringworld_Waiting.jpg (2004)''|left|180x180px]] Titan_Saturn_Moon.jpg, as seen in false colour, created from a mosaic of images taken by _Cassini_ (2013)]] Saturn has been explored only through uncrewed spacecraft launched by NASA, including one mission (_Cassini–Huygens_) planned and executed in cooperation with other space agencies. These missions consist of flybys in 1979 by _Pioneer 11_, in 1980 by _Voyager 1_, in 1982 by _Voyager 2_ and an orbital mission by the _Cassini_ spacecraft, which lasted from 2004 until 2017.
+(2004)''|left|180x180px]] , as seen in false colour, created from a mosaic of images taken by _Cassini_ (2013)]] Saturn has been explored only through uncrewed spacecraft launched by NASA, including one mission (_Cassini–Huygens_) planned and executed in cooperation with other space agencies. These missions consist of flybys in 1979 by _Pioneer 11_, in 1980 by _Voyager 1_, in 1982 by _Voyager 2_ and an orbital mission by the _Cassini_ spacecraft, which lasted from 2004 until 2017.
 
 Saturn has at least 62 known moons, although the exact number is debatable since Saturn's rings are made up of vast numbers of independently orbiting objects of varying sizes. The largest of the moons is Titan, which holds the distinction of being the only moon in the Solar System with an atmosphere denser and thicker than that of Earth. Titan holds the distinction of being the only object in the Outer Solar System that has been explored with a lander, the _Huygens_ probe deployed by the _Cassini_ spacecraft.
 
 Uranus
 
-Uranus.jpg as imaged by _Voyager 2 (1986)_|left|125x125px]] The exploration of Uranus has been entirely through the _Voyager 2_ spacecraft, with no other visits currently planned. Given its axial tilt of 97.77°, with its polar regions exposed to sunlight or darkness for long periods, scientists were not sure what to expect at Uranus. The closest approach to Uranus occurred on 24 January 1986. _Voyager 2_ studied the planet's unique atmosphere and magnetosphere. _Voyager 2_ also examined its ring system and the moons of Uranus including all five of the previously known moons, while discovering an additional ten previously unknown moons.
+as imaged by _Voyager 2 (1986)_|left|125x125px]] The exploration of Uranus has been entirely through the _Voyager 2_ spacecraft, with no other visits currently planned. Given its axial tilt of 97.77°, with its polar regions exposed to sunlight or darkness for long periods, scientists were not sure what to expect at Uranus. The closest approach to Uranus occurred on 24 January 1986. _Voyager 2_ studied the planet's unique atmosphere and magnetosphere. _Voyager 2_ also examined its ring system and the moons of Uranus including all five of the previously known moons, while discovering an additional ten previously unknown moons.
 
 Images of Uranus proved to have a very uniform appearance, with no evidence of the dramatic storms or atmospheric banding evident on Jupiter and Saturn. Great effort was required to even identify a few clouds in the images of the planet. The magnetosphere of Uranus, however, proved to be unique, being profoundly affected by the planet's unusual axial tilt. In contrast to the bland appearance of Uranus itself, striking images were obtained of the Moons of Uranus, including evidence that Miranda had been unusually geologically active.
 
 Neptune
 
-Neptune_Full.jpg taken by _Voyager 2 (1989)_]]Triton_moon_mosaic_Voyager_2_(large).jpg as imaged by _Voyager 2 (1989)_]]
+taken by _Voyager 2 (1989)_]] as imaged by _Voyager 2 (1989)_]]
 
 The exploration of Neptune began with the 25 August 1989 _Voyager 2_ flyby, the sole visit to the system as of 2014. The possibility of a Neptune Orbiter has been discussed, but no other missions have been given serious thought.
 
@@ -156,13 +156,13 @@ Although the extremely uniform appearance of Uranus during _Voyager 2_{{'}}s vis
 
 Other objects in the Solar System
 
-Nh-pluto-in-true-color_2x_JPEG-edit-frame.jpg'' image of Pluto (2015)]]Charon_in_Color_(HQ).jpg'' image of Charon (2015)]] The dwarf planet Pluto presents significant challenges for spacecraft because of its great distance from Earth (requiring high velocity for reasonable trip times) and small mass (making capture into orbit very difficult at present). _Voyager 1_ could have visited Pluto, but controllers opted instead for a close flyby of Saturn's moon Titan, resulting in a trajectory incompatible with a Pluto flyby. _Voyager 2_ never had a plausible trajectory for reaching Pluto.[42]
+'' image of Pluto (2015)]]'' image of Charon (2015)]] The dwarf planet Pluto presents significant challenges for spacecraft because of its great distance from Earth (requiring high velocity for reasonable trip times) and small mass (making capture into orbit very difficult at present). _Voyager 1_ could have visited Pluto, but controllers opted instead for a close flyby of Saturn's moon Titan, resulting in a trajectory incompatible with a Pluto flyby. _Voyager 2_ never had a plausible trajectory for reaching Pluto.[42]
 
 Pluto continues to be of great interest, despite its reclassification as the lead and nearest member of a new and growing class of distant icy bodies of intermediate size (and also the first member of the important subclass, defined by orbit and known as "plutinos"). After an intense political battle, a mission to Pluto dubbed _New Horizons_ was granted funding from the United States government in 2003.[43] _New Horizons_ was launched successfully on 19 January 2006. In early 2007 the craft made use of a gravity assist from Jupiter. Its closest approach to Pluto was on 14 July 2015; scientific observations of Pluto began five months prior to closest approach and continued for 16 days after the encounter.
 
 Asteroids and comets
 
-495296main_epoxi-1-full_full.jpg (2010)]] Dawn-image-070911.jpg, imaged by the _Dawn_ spacecraft (2011)]] Until the advent of space travel, objects in the asteroid belt were merely pinpricks of light in even the largest telescopes, their shapes and terrain remaining a mystery. Several asteroids have now been visited by probes, the first of which was _Galileo_, which flew past two: 951 Gaspra in 1991, followed by 243 Ida in 1993. Both of these lay near enough to _Galileo_'s planned trajectory to Jupiter that they could be visited at acceptable cost. The first landing on an asteroid was performed by the _NEAR Shoemaker_ probe in 2000, following an orbital survey of the object. The dwarf planet Ceres and the asteroid 4 Vesta, two of the three largest asteroids, were visited by NASA's _Dawn_ spacecraft, launched in 2007.
+(2010)]] , imaged by the _Dawn_ spacecraft (2011)]] Until the advent of space travel, objects in the asteroid belt were merely pinpricks of light in even the largest telescopes, their shapes and terrain remaining a mystery. Several asteroids have now been visited by probes, the first of which was _Galileo_, which flew past two: 951 Gaspra in 1991, followed by 243 Ida in 1993. Both of these lay near enough to _Galileo_'s planned trajectory to Jupiter that they could be visited at acceptable cost. The first landing on an asteroid was performed by the _NEAR Shoemaker_ probe in 2000, following an orbital survey of the object. The dwarf planet Ceres and the asteroid 4 Vesta, two of the three largest asteroids, were visited by NASA's _Dawn_ spacecraft, launched in 2007.
 
 Although many comets have been studied from Earth sometimes with centuries-worth of observations, only a few comets have been closely visited. In 1985, the _International Cometary Explorer_ conducted the first comet fly-by (21P/Giacobini-Zinner) before joining the Halley Armada studying the famous comet. The _Deep Impact_ probe smashed into 9P/Tempel to learn more about its structure and composition and the _Stardust_ mission returned samples of another comet's tail. The _Philae_ lander successfully landed on Comet Churyumov–Gerasimenko in 2014 as part of the broader _Rosetta_ mission.
 
@@ -170,20 +170,20 @@ _Hayabusa_ was a robotic spacecraft developed by the Japan Aerospace Exploration
 
 Deep space exploration
 
-Hubble_ultra_deep_field_high_rez_edit1.jpg includes galaxies of various ages, sizes, shapes, and colors. The smallest, reddest galaxies, are some of the most distant galaxies to have been imaged by an optical telescope.]]
+includes galaxies of various ages, sizes, shapes, and colors. The smallest, reddest galaxies, are some of the most distant galaxies to have been imaged by an optical telescope.]]
 
 Deep space exploration is the branch of astronomy, astronautics and space technology that is involved with the exploration of distant regions of outer space.[44] Physical exploration of space is conducted both by human spaceflights (deep-space astronautics) and by robotic spacecraft.
 
 Some of the best candidates for future deep space engine technologies include anti-matter, nuclear power and beamed propulsion.[45] The latter, beamed propulsion, appears to be the best candidate for deep space exploration presently available, since it uses known physics and known technology that is being developed for other purposes.[46]
 
-  ------------------------------------------------------------------------- ------------------------------------------- -------------------- --
-  Crab_Nebula_NGC_1952_(composite_from_Chandra,_Hubble_and_Spitzer).jpg]]   EmissionNebula_NGC6357.jpg and NGC 6357]]   Messier51_sRGB.jpg
-  ------------------------------------------------------------------------- ------------------------------------------- -------------------- --
+  ---- ---------------- -- --
+  ]]   and NGC 6357]]
+  ---- ---------------- -- --
 
 
 Future of space exploration
 
-Innovative_Interstellar_Explorer_interstellar_space_probe_.jpg Rocket_launch_from_Saturn_moon.jpg Sls_block1_on-pad_sunrisesmall.jpg concept art]]
+concept art]]
 
 Breakthrough Starshot
 
@@ -222,7 +222,7 @@ An article in science magazine _Nature_ suggested the use of asteroids as a gate
 
 Rationales
 
-Aldrin_Apollo_11_original.jpg had a personal Communion service when he first arrived on the surface of the Moon.]] The research that is conducted by national space exploration agencies, such as NASA and Roscosmos, is one of the reasons supporters cite to justify government expenses. Economic analyses of the NASA programs often showed ongoing economic benefits (such as NASA spin-offs), generating many times the revenue of the cost of the program.[56] It is also argued that space exploration would lead to the extraction of resources on other planets and especially asteroids, which contain billions of dollars that worth of minerals and metals. Such expeditions could generate a lot of revenue.[57] In addition, it has been argued that space exploration programs help inspire youth to study in science and engineering.[58] Space exploration also gives scientists the ability to perform experiments in other settings and expand humanity's knowledge.[59]
+had a personal Communion service when he first arrived on the surface of the Moon.]] The research that is conducted by national space exploration agencies, such as NASA and Roscosmos, is one of the reasons supporters cite to justify government expenses. Economic analyses of the NASA programs often showed ongoing economic benefits (such as NASA spin-offs), generating many times the revenue of the cost of the program.[56] It is also argued that space exploration would lead to the extraction of resources on other planets and especially asteroids, which contain billions of dollars that worth of minerals and metals. Such expeditions could generate a lot of revenue.[57] In addition, it has been argued that space exploration programs help inspire youth to study in science and engineering.[58] Space exploration also gives scientists the ability to perform experiments in other settings and expand humanity's knowledge.[59]
 
 Another claim is that space exploration is a necessity to mankind and that staying on Earth will lead to extinction. Some of the reasons are lack of natural resources, comets, nuclear war, and worldwide epidemic. Stephen Hawking, renowned British theoretical physicist, said that "I don't think the human race will survive the next thousand years, unless we spread into space. There are too many accidents that can befall life on a single planet. But I'm an optimist. We will reach out to the stars."[60] Arthur C. Clarke (1950) presented a summary of motivations for the human exploration of space in his non-fiction semi-technical monograph _Interplanetary Flight_.[61] He argued that humanity's choice is essentially between expansion off Earth into space, versus cultural (and eventually biological) stagnation and death. Some analysts have even argued for creating an International Bank, exclusively to support deep space exploration.[62][63]
 
@@ -233,7 +233,7 @@ Overall, the public remains largely supportive of both crewed and uncrewed space
 
 Topics
 
-Delta-Vs_for_inner_Solar_System.svg in km/s for various orbital maneuvers]]
+in km/s for various orbital maneuvers]]
 
 Spaceflight
 
@@ -259,7 +259,7 @@ Astrobiology is the interdisciplinary study of life in the universe, combining a
 
 Living in space
 
-S122e008264.jpg's Columbus Module at the International Space Station, launched into space on the US Space Shuttle mission STS-122 in 2008]] Bernal_sphere_interior.jpg]] Space colonization, also called space settlement and space humanization, would be the permanent autonomous (self-sufficient) human habitation of locations outside Earth, especially of natural satellites or planets such as the Moon or Mars, using significant amounts of in-situ resource utilization.
+'s Columbus Module at the International Space Station, launched into space on the US Space Shuttle mission STS-122 in 2008]] ]] Space colonization, also called space settlement and space humanization, would be the permanent autonomous (self-sufficient) human habitation of locations outside Earth, especially of natural satellites or planets such as the Moon or Mars, using significant amounts of in-situ resource utilization.
 
 To date, the longest human occupation of space is the International Space Station which has been in continuous use for . Valeri Polyakov's record single spaceflight of almost 438 days aboard the Mir space station has not been surpassed. Long-term stays in space reveal issues with bone and muscle loss in low gravity, immune system suppression, and radiation exposure.
 
@@ -270,9 +270,9 @@ Beyond the technical factors that could make living in space more widespread, it
 
 See also
 
-Io_Tupan_Patera.jpg on Io
+on Io
 
-]] Ganymede,_moon_of_Jupiter,_NASA.jpg]]
+]] ]]
 
 -   Discovery and exploration of the Solar System
 -   In-space propulsion technologies

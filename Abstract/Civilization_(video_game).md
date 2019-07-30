@@ -1,1 +1,0 @@
-_SID MEIER'S CIVILIZATION_ is a turn-based strategy 4X video game created by Sid Meier and Bruce Shelley for MicroProse in 1991.[1][2] The game's objective is to "Build an empire to stand the test of time": it begins in 4000 BC and the players attempt to expand and develop their empires through the ages from the ancient era until modern and near-future times.

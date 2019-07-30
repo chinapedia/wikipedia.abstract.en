@@ -1,1 +1,0 @@
-OPTATUS OF THAMUGADI was, from 388 to 398, a donatist bishop in the city of Thamugadi (Timgad) in the Roman province of Numidia.[1][2][3] He was an important subject in the anti-donatistic polemic of Augustine,[4] who was at that time a bishop in Hippo Regius and who called him evil.[5]

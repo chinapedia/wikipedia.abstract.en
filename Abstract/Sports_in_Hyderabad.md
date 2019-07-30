@@ -1,1 +1,0 @@
-Grand_Stand_Malakpet_1880.jpg, c. 1880's]] The most popular sports played in Hyderabad are cricket and association football.[1] At the professional level, the city has hosted national and international sporting events.

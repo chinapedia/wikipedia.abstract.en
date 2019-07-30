@@ -1,1 +1,0 @@
-In mathematics, a LIE GROUP (pronounced "Lee") is a group that is also a differentiable manifold, with the property that the group operations are smooth. Lie groups are named after Norwegian mathematician Sophus Lie, who laid the foundations of the theory of continuous transformation groups.

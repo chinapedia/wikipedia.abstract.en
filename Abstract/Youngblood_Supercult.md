@@ -1,1 +1,0 @@
-Youngblood_Supercult.jpg

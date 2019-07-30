@@ -1,1 +1,0 @@
-MADHURANAGAR RAILWAY STATION (station code:MDUN[1]), is an Indian railway station and a satellite station of Vijayawada in Andhra Pradesh.[2] It is situated on Duvvada–Vijayawada section of Vijayawada railway division in South Coast Railway zone.[3]

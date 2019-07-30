@@ -1,1 +1,0 @@
-FUSHUN SPECIAL STEEL CO., LTD. (FSSS) is a Chinese steel maker based in Fushun, Liaoning Province. State enterprise Dongbei Special Steel was the largest shareholder of the company. The rest of the shares float in Shanghai Stock Exchange.

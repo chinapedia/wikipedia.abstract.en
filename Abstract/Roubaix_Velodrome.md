@@ -1,1 +1,0 @@
-The ROUBAIX VELODROME (officially VÉLODROME ANDRÉ-PÉTRIEUX) is a velodrome in Roubaix, Nord, France. It was opened in 1936 and has hosted the finish of the one-day "monument classic" cycling race Paris–Roubaix since 1943.[1][2]

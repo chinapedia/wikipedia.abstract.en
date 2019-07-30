@@ -1,1 +1,0 @@
-_ROSMARINUS OFFICINALIS_, commonly known as ROSEMARY, is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region.[1]

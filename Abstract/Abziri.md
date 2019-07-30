@@ -1,1 +1,0 @@
-ABZIRI also known variously as ABZIRITANUS and ABDIRITANUS was a Roman and Byzantine era _oppidum_ (town) in Africa Proconsularis, Roman North Africa. The town is tentatively identified with ruins near Oudna, in Cartagine, Tunisia.[1]

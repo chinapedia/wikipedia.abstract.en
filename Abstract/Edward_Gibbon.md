@@ -1,1 +1,0 @@
-EDWARD GIBBON FRS (; 8 May 1737[1][2]16 January 1794) was an English historian, writer and Member of Parliament. His most important work, _The History of the Decline and Fall of the Roman Empire_, was published in six volumes between 1776 and 1788 and is known for the quality and irony of its prose, its use of primary sources, and its polemical criticism of organised religion.[3]

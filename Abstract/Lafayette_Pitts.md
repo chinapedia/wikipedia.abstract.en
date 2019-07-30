@@ -1,1 +1,0 @@
-LAFAYETTE E. PITTS (born September 24, 1992) is an American football cornerback for the Buffalo Bills of the National Football League (NFL). He played college football at Pittsburgh, and was signed by the Miami Dolphins as an undrafted free agent in 2016.

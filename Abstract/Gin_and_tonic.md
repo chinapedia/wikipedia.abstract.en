@@ -1,1 +1,0 @@
-A GIN AND TONIC is a highball cocktail made with gin and tonic water poured over ice. The ratio of gin to tonic varies according to taste, strength of the gin, other drink mixers being added, etc., with most recipes calling for between a 1:1 to 1:3 ratio. It is usually garnished with a slice or wedge of lime.

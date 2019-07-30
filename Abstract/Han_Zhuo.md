@@ -1,1 +1,0 @@
-HAN ZHUO was a mythical Chinese hero who usurped Houyi as leader of a people near the Xia in prehistoric China. He and his sons appear in a number of Chinese legends and there are various conflicting accounts of how he died.

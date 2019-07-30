@@ -1,1 +1,0 @@
-_LA DULCE ENEMIGA_ (_The Sweet Enemy_) is a 1957 Mexican drama film, directed by Tito Davison. The film received four nominations and won two Ariel Awards in 1958, for Best Director for Davison and Best Actress for Silvia Pinal.[1] The screenplay is adapted by Tulio Demicheli, Ulyses Petit de Murat and Davison from the novel _L´ennemie_ by André-Paul Antoine.

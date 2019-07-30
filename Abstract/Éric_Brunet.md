@@ -1,1 +1,0 @@
-ÉRIC BRUNET (born 22 July 1964) is a French author, political commentator and radio host best known for his support of right-wing policies. He has often supported the political agenda of President Nicolas Sarkozy and later criticised the views of François Hollande.

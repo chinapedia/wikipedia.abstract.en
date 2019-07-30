@@ -1,1 +1,0 @@
-_ALOE ANGELICA_ (Wylliespoort Aloe) is a species of aloe endemic to the Soutpansberg and Blouberg mountains in the Northern Province of South Africa. It is a large, single-stemmed plant, 3–4 meters in height, with green, succulent leaves, bent backward, and red-budded flowers in compact bunches on much-branched racemes, turning yellow as they flower.

@@ -1,1 +1,0 @@
-_BLIZZARD! THE STORM THAT CHANGED AMERICA_ is a 2000 Children's history book by Jim Murphy. It is about the Blizzard of 1888 that hit the north-east of North America, and concentrates on New York City.

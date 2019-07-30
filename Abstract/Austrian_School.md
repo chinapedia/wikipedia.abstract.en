@@ -1,1 +1,0 @@
-The AUSTRIAN SCHOOL is a heterodox[1][2][3] school of economic thought that is based on methodological individualism—the concept that social phenomena result exclusively from the motivations and actions of individuals.[4][5][6]

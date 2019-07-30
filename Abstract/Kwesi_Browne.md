@@ -1,1 +1,0 @@
-'''Kwesi Browne ''' (born ) is a Trinidad and Tobago male track cyclist, representing Trinidad and Tobago at international competitions. He won the bronze medal in the keirin at the 2014 Central American and Caribbean Games and also at the 2016 Pan American Track Cycling Championships.[1]

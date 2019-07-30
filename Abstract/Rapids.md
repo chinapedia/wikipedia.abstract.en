@@ -1,1 +1,0 @@
-Rapids_before_the_Rhine_Falls.jpg]] Violent_water_below_Niagara_Falls.jpg]] RapidsonMississippiRiverOntario.jpg in Pakenham, Ontario, Canada.]] RAPIDS are sections of a river where the river bed has a relatively steep gradient, causing an increase in water velocity and turbulence.

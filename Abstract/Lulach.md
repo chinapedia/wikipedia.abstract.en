@@ -1,1 +1,0 @@
-LULACH MAC GILLE COEMGÁIN (Modern Gaelic: _Lughlagh mac Gille Chomghain_,[1] known in English simply as LULACH, and nicknamed TAIRBITH, "the Unfortunate"[2] and FATUUS, "the Simple-minded" or "the Foolish";[3] before 1033 – 17 March 1058) was King of Scots between 15 August 1057 and 17 March 1058.

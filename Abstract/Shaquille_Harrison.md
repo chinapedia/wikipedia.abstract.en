@@ -1,1 +1,0 @@
-SHAQUILLE HARRISON (born October 6, 1993) is an American professional basketball player for the Chicago Bulls of the National Basketball Association (NBA). Harrison played college basketball at Tulsa.

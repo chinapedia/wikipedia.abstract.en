@@ -1,1 +1,0 @@
-ØYSLEBØ is a former municipality in Vest-Agder county, Norway. The municipality existed from 1899 until its dissolution in 1964. The administrative centre was the village of Øyslebø where Øyslebø Church is located. Øyslebø municipality roughly corresponds to the southern part of the present-day municipality of Marnardal.[1]

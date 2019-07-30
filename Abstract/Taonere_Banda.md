@@ -1,1 +1,0 @@
-TAONERE BANDA (born 5 June 1996) is a middle-distance para-sport athlete from Malawi who competes mainly in middle-distance events in the T13 category.[1] In 2016 Banda became the first athlete to represent Malawi at a Paralympic Games when she was selected to compete at the 2016 Summer Paralympics in Rio de Janeiro.

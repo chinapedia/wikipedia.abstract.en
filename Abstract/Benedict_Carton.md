@@ -1,1 +1,0 @@
-BENEDICT CARTON is the Robert T. Hawkes Professor of History at George Mason University. He is a specialist in the history of Southern Africa and the author of _Blood from Your Children: Colonial Origins of Generational Conflict in South Africa_ (University of Virginia Press, 2000; ).

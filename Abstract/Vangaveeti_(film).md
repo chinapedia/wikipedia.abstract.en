@@ -1,1 +1,0 @@
-_VANGAVEETI_ is a 2016 Indian Telugu-language biographical action film[1] written and directed by Ram Gopal Varma.[2][3] The film is based on the life of politician Vangaveeti Mohana Ranga, and his elder brother Vangaveeti Radha Krishna and their altercation with communist dominated Vijayawada of the 1970s-80s in Andhra Pradesh.[4][5][6][7][8]

@@ -1,1 +1,0 @@
-_' Thomas Bradley Hogarth_' known as TOM HOGARTH (16 February 1878 – 12 July 1960)[1] was a rugby union forward who played for Leicester Tigers, Hartlepool Rovers, West Hartlepool, Durham City and once for England.

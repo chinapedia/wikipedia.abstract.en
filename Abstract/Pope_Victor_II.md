@@ -1,1 +1,0 @@
-POPE VICTOR II (c. 1018 – 28 July 1057), born GEBHARD, COUNT OF CALW, TOLLENSTEIN, AND , was Pope from 13 April 1055 until his death in 1057.[1] He was also known as Gebhard Of Dollnstein-hirschberg.[2] Gebhard was one of a series of German reform popes.

@@ -1,1 +1,0 @@
-_RED FACTION_ is a first-person shooter video game developed by Volition and published by THQ for PlayStation 2 and Microsoft Windows in 2001, and Macintosh platforms in 2002. A version for the Nokia N-Gage was developed by Monkeystone Games, and the Mobile version was developed by Blue Beck. The game was inspired by several works of contemporary science fiction.

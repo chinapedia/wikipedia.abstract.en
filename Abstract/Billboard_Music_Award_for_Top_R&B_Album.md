@@ -1,1 +1,0 @@
-This page lists the winners and nominees for the _BILLBOARD_ MUSIC AWARD FOR TOP R&B ALBUM. This category was one of the first created and has been given out since the award's conception in 1990. Only three artists have won this award twice: Beyoncé, Whitney Houston and Usher.

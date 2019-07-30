@@ -1,1 +1,0 @@
-Hradcany2.jpg

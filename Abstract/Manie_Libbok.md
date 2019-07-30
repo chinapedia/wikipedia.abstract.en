@@ -1,1 +1,0 @@
-IMMANUEL LIBBOK (born 15 July 1997) is a South African rugby union player for the in Super Rugby and the in the Currie Cup.[1] He is a utility back that can play as a fullback, fly-half, winger or centre.

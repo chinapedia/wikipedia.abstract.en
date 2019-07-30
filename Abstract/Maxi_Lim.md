@@ -1,1 +1,0 @@
-LIM JUN LIANG (, born March 12, 1987), also known as MAXI LIM, is a Singaporean actor. Lim is best known for playing the comical and eager-to-please "Wayang King" in hit local movie _Ah Boys to Men_ series.[1][2]

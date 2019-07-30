@@ -1,1 +1,0 @@
-The BILINEAR TRANSFORM (also known as TUSTIN'S METHOD) is used in digital signal processing and discrete-time control theory to transform continuous-time system representations to discrete-time and vice versa.

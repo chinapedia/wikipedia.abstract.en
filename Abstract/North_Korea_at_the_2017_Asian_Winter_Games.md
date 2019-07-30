@@ -1,1 +1,0 @@
-The PEOPLE'S DEMOCRATIC REPUBLIC OF KOREA (North Korea) competed in the 2017 ASIAN WINTER GAMES in Sapporo and Obihiro, Japan from February 19 to 26.[1][2] The country is competed in one sport (skating) and two disciplines: figure skating and short track speed skating.[3][4][5] The North Korean team will consist of seven athletes.[6][7][8]

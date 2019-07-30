@@ -1,1 +1,0 @@
-Asma_Mansour_2.jpg ASMA MANSOUR is a Tunisian entrepreneur and women's activist who in 2011 co-founded the Tunisian Center for Social Entrepreneurship.[1] As a result, she was selected as one of the BBC's 100 Women in 2014.[2] In June 2016, she was placed third among 42 African innovators selected by the online business magazine _Ventures Africa_.[3][4]

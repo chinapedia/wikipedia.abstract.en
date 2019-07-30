@@ -1,1 +1,0 @@
-JAMES SOWERBY (1815–1834) was a British botanical artist and mycologist, son of James De Carle Sowerby, grandson of James Sowerby.[1][2] He published the small book _The Mushroom and Champignon Illustrated: Compared With, and Distinguished From, the Poisonous Fungi that Resemble Them_.[3]

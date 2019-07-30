@@ -1,1 +1,0 @@
-AminoAcidball.svg

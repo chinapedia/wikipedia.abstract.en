@@ -1,1 +1,0 @@
-JANICE WALSH (born 17 December 1961) is an Irish former cricketer. She played fourteen Women's One Day International matches for Ireland women's cricket team.[1][2] She was part of Ireland's squad for the 1988 Women's Cricket World Cup.[3]

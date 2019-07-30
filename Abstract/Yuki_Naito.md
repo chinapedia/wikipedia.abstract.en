@@ -1,1 +1,0 @@
-is a Japanese tennis player. Naito has been ranked as high as world number 844 in singles and 258 in doubles by the Women's Tennis Association (WTA). In November 2016, she won the doubles tournament at the Ando Securities Open in Tokyo, partnering Rika Fujiwara. The pair defended their title the following year.

@@ -1,1 +1,0 @@
-FEDERICA D'ASTOLFO (born 27 October 1966) is an Italian former international footballer who played as a midfielder. She played for Italy at the 1991 FIFA Women's World Cup and 1999 FIFA Women's World Cup.[1]

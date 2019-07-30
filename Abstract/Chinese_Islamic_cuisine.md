@@ -1,1 +1,0 @@
-5838-Linxia-City-Tuanjie-Lu-halal-bakery.jpg CUISINE OF CHINESE MUSLIMS (, Dungan: Чыңжән цаы or , Dungan: Ҳуэйзў цаы) is the cuisine of the Hui (ethnic Chinese Muslims) and other Muslims living in China such as Dongxiang, Salar, Uyghurs, and Bonan as well as Dungans of Central Asia.

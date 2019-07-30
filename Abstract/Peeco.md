@@ -1,1 +1,0 @@
-[1] is a Japanese _tarento_, fashion critic, journalist, and chanson singer. His younger identical twin brother is film critic Osugi, they both came out gay during their debut and took his advantage as a _tarento_ and commentator.

@@ -1,1 +1,0 @@
-_SAMO_ (English: Only) is the debut studio album by the Croatian singer-songwriter Nina Kraljić. It was released on 30 September 2016 in Croatia, through Universal Music Austria. The album includes the singles "Zaljuljali smo svijet" and her Eurovision Song Contest 2016 entry, "Lighthouse".

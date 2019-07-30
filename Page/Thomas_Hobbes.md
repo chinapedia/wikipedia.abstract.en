@@ -17,7 +17,7 @@ Although he associated with literary figures like Ben Jonson and briefly worked 
 
 In Paris (1630–1637)
 
-Thomas_Hobbes.jpeg Hobbes soon found work as a tutor to Gervase Clifton, the son of Sir Gervase Clifton, 1st Baronet mostly spent in Paris until 1631. Thereafter, he again found work with the Cavendish family, tutoring William Cavendish, 3rd Earl of Devonshire, the eldest son of his previous pupil. Over the next seven years, as well as tutoring, he expanded his own knowledge of philosophy, awakening in him curiosity over key philosophic debates. He visited Florence in 1636 and was later a regular debater in philosophic groups in Paris, held together by Marin Mersenne.
+Hobbes soon found work as a tutor to Gervase Clifton, the son of Sir Gervase Clifton, 1st Baronet mostly spent in Paris until 1631. Thereafter, he again found work with the Cavendish family, tutoring William Cavendish, 3rd Earl of Devonshire, the eldest son of his previous pupil. Over the next seven years, as well as tutoring, he expanded his own knowledge of philosophy, awakening in him curiosity over key philosophic debates. He visited Florence in 1636 and was later a regular debater in philosophic groups in Paris, held together by Marin Mersenne.
 
 Hobbes's first area of study was an interest in the physical doctrine of motion and physical momentum. Despite his interest in this phenomenon, he disdained experimental work as in physics. He went on to conceive the system of thought to the elaboration of which he would devote his life. His scheme was first to work out, in a separate treatise, a systematic doctrine of body, showing how physical phenomena were universally explicable in terms of motion, at least as motion or mechanical action was then understood. He then singled out Man from the realm of Nature and plants. Then, in another treatise, he showed what specific bodily motions were involved in the production of the peculiar phenomena of sensation, knowledge, affections and passions whereby Man came into relation with Man. Finally, he considered, in his crowning treatise, how Men were moved to enter into society, and argued how this must be regulated if Men were not to fall back into "brutishness and misery". Thus he proposed to unite the separate phenomena of Body, Man, and the State.
 
@@ -34,8 +34,6 @@ Civil war period (1642–1651)
 The English Civil War began in 1642,[19] and when the royalist cause began to decline in mid-1644,[20] some of the king's supporters fled to Europe.[21] Many came to Paris and were known to Hobbes. This revitalised Hobbes's political interests and the _De Cive_ was republished and more widely distributed. The printing began in 1646 by Samuel de Sorbiere through the Elsevier press in Amsterdam with a new preface and some new notes in reply to objections.
 
 In 1647, Hobbes took up a position as mathematical instructor to the young Charles, Prince of Wales,[22] who had come to Paris from Jersey around July. This engagement lasted until 1648 when Charles went to Holland.
-
-Hobbes_de_cive.jpg
 
 The company of the exiled royalists led Hobbes to produce _Leviathan_, which set forth his theory of civil government in relation to the political crisis resulting from the war. Hobbes compared the State to a monster (leviathan) composed of men, created under pressure of human needs and dissolved by civil strife due to human passions. The work closed with a general "Review and Conclusion", in response to the war, which answered the question: Does a subject have the right to change allegiance when a former sovereign's power to protect is irrevocably lost?
 
@@ -57,7 +55,7 @@ His final works were an autobiography in Latin verse in 1672, and a translation 
 
 Death
 
-Tomb_of_Thomas_Hobbes_-_geograph.org.uk_-_1592556.jpg in Derbyshire]]
+in Derbyshire]]
 
 In October 1679 Hobbes suffered a bladder disorder, and then a paralytic stroke, from which he died on 4 December 1679, aged 91.[26] His last words were said to have been "A great leap in the dark", uttered in his final conscious moments.[27] His body was interred in St John the Baptist's Church, Ault Hucknall, in Derbyshire.[28]
 
@@ -67,8 +65,6 @@ Political thought
 Hobbes, influenced by contemporary scientific ideas, had intended for his political theory to be a quasi-geometrical system, in which the conclusions followed inevitably from the premises.[29] The main practical conclusion of Hobbes' political theory is that state or society can not be secure unless at the disposal of an absolute sovereign. From this follows the view that no individual can hold rights of property against the sovereign, and that the sovereign may therefore may take the goods of its subjects without their consent. This particular view owes its significance to it being first developed in the 1630s when Charles I had sought to raise revenues without the consent of Parliament, and therefore of his subjects.[30]
 
 _Leviathan_
-
-Leviathan_by_Thomas_Hobbes.jpg
 
 In _Leviathan_, Hobbes set out his doctrine of the foundation of states and legitimate governments and creating an objective science of morality. Much of the book is occupied with demonstrating the necessity of a strong central authority to avoid the evil of discord and civil war.
 

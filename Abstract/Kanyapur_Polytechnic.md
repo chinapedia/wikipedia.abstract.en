@@ -1,1 +1,0 @@
-KANYAPUR POLYTECHNIC is a technical school located in the city of Asansol, Paschim Bardhaman district, West Bengal, India. It is affiliated with the West Bengal State Council of Technical Education (WBSCTE),[1] and approved by the All India Council For Technical Education (AICTE) and provides diploma level technical education to its students.

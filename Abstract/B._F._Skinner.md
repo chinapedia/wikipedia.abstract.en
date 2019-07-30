@@ -1,1 +1,0 @@
-BURRHUS FREDERIC SKINNER (March 20, 1904 – August 18, 1990), commonly known as B. F. SKINNER, was an American psychologist, behaviorist, author, inventor, and social philosopher.[1][2][3][4] He was the Edgar Pierce Professor of Psychology at Harvard University from 1958 until his retirement in 1974.[5]

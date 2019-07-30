@@ -1,1 +1,0 @@
-Trimyristin-3D-vdW.png, molecule. Note the three fatty acid chains attached to the central glycerol portion of the molecule.|alt=A space-filling model of an unsaturated triglyceride.]] Fat_composition_in_foods.png

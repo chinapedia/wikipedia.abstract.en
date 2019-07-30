@@ -1,1 +1,0 @@
-DENHA or the SEASON OF EPIPHANY is the second liturgical season in the East Syriac Rite. Weeks of Epiphany begins on the Sunday closer to the feast of Epiphany and runs to the beginning of Great Fast.

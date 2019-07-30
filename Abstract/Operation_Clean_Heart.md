@@ -1,1 +1,0 @@
-OPERATION CLEAN HEART was an anti crime operation carried out by Bangladesh Army, Bangladesh Navy, Bangladesh Rifles, Bangladesh Police and Bangladesh Ansar members in Bangladesh.[1] The operation was carried out during the Bangladesh Nationalist Party government under Prime Minister Khaleda Zia.[2]

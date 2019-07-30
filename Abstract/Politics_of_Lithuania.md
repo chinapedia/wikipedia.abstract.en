@@ -1,1 +1,0 @@
-POLITICS OF LITHUANIA takes place in a framework of a unitary semi-presidential representative democratic republic,[1][2][3][4] whereby the President of Lithuania is the head of state and the Prime Minister of Lithuania is the head of government, and of a multi-party system.

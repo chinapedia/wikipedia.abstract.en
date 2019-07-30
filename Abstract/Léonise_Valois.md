@@ -1,1 +1,0 @@
-LÉONISE VALOIS (October 11, 1868 – May 20, 1936) was a Canadian poet and journalist. She was a pioneer in Canadian women's journalism and was the first French Canadian woman to publish a collection of poetry.[1]

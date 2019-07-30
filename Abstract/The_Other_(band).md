@@ -1,1 +1,0 @@
-The_Other_Rockharz_2018_17.jpg The_Other_Rockharz_2018_15.jpg THE OTHER (or THEOTHER) is a German horror punk band formed in Köln in 2002.[1] The band's music style blends elements of punk rock and heavy metal,[2] with lyrics and stage costumes inspired by horror fiction and films. Although most of their material is in English, they also write and perform songs in German.

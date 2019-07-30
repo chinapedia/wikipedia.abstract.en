@@ -1,1 +1,0 @@
-TREVOR ROACH (born March 6, 1992) is a former American football linebacker of the National Football League (NFL). He played college football at Nebraska. Roach was signed by the Cincinnati Bengals an undrafted free agent in 2015.

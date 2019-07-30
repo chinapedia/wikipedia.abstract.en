@@ -1,1 +1,0 @@
-The RIVER SHERFORD, also frequently called the SHERFORD RIVER, is one of the four main rivers flowing into Poole Harbour in the county of Dorset, England. It is about 12 kilometres long[1] and drains over the tertiary beds near the harbour.[2]

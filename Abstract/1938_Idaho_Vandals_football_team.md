@@ -1,1 +1,0 @@
-The 1938 IDAHO VANDALS FOOTBALL TEAM represented the University of Idaho in the 1938 college football season. The Vandals were led by fourth-year head coach Ted Bank and were members of the Pacific Coast Conference. Home games were played on campus in Moscow at Neale Stadium.

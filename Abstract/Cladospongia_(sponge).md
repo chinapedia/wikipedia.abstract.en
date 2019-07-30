@@ -1,1 +1,0 @@
-_CLADOSPONGIA_ is an extinct genus of sponges in the family Preperonidellidae from the Silurian. The species _C. alaskensis_ is from the Heceta Limestone Formation, on Prince of Wales Island, Southeastern Alaska.

@@ -43,7 +43,7 @@ Construction milestones
 
 Service
 
-The_Shuttle_Enterprise_-_GPN-2000-001363.jpg, the _Star Trek_ cast (with the exception of William Shatner) and NASA administrators attending _Enterprise_{{'s}} rollout ceremony]] Construction began on _Enterprise_ on June 4, 1974.[15] Designated OV-101, it was originally planned to be named _Constitution_ and unveiled on Constitution Day, September 17, 1976. Fans of _Star Trek_ asked US President Gerald Ford, through a letter-writing campaign, to name the orbiter after the television show's fictional starship, USS _Enterprise_. White House advisors cited "hundreds of thousands of letters" from Trekkies, "one of the most dedicated constituencies in the country", as a reason for giving the shuttle the name. Although Ford did not publicly mention the campaign, the president said that he was "partial to the name" _Enterprise_, and directed NASA officials to change the name.[16][17][18]
+, the _Star Trek_ cast (with the exception of William Shatner) and NASA administrators attending _Enterprise_{{'s}} rollout ceremony]] Construction began on _Enterprise_ on June 4, 1974.[15] Designated OV-101, it was originally planned to be named _Constitution_ and unveiled on Constitution Day, September 17, 1976. Fans of _Star Trek_ asked US President Gerald Ford, through a letter-writing campaign, to name the orbiter after the television show's fictional starship, USS _Enterprise_. White House advisors cited "hundreds of thousands of letters" from Trekkies, "one of the most dedicated constituencies in the country", as a reason for giving the shuttle the name. Although Ford did not publicly mention the campaign, the president said that he was "partial to the name" _Enterprise_, and directed NASA officials to change the name.[16][17][18]
 
 In mid-1976 the orbiter was used for ground vibration tests, allowing engineers to compare data from an actual flight vehicle with theoretical models.[19]
 
@@ -51,7 +51,7 @@ On September 17, 1976, _Enterprise_ was rolled out of Rockwell's plant at Palmda
 
 Approach and landing tests (ALT)
 
-Enterprise_free_flight.jpg HaiseandFullertonEnterprise.jpg and Gordon Fullerton (wearing oxygen mask) in _Enterprise_{{'s}} cockpit, 1977.]] On January 31, 1977, _Enterprise_ was taken by road to Dryden Flight Research Center at Edwards Air Force Base to begin operational testing.[21][22]
+and Gordon Fullerton (wearing oxygen mask) in _Enterprise_{{'s}} cockpit, 1977.]] On January 31, 1977, _Enterprise_ was taken by road to Dryden Flight Research Center at Edwards Air Force Base to begin operational testing.[21][22]
 
 While at NASA Dryden _Enterprise_ was used by NASA for a variety of ground and flight tests intended to validate aspects of the shuttle program.[23] The initial nine-month testing period was referred to by the acronym ALT, for "Approach and Landing Test".[24][25] These tests included a maiden "flight" on February 18, 1977, atop a Boeing 747 Shuttle Carrier Aircraft (SCA) to measure structural loads and ground handling and braking characteristics of the mated system. Ground tests of all orbiter subsystems were carried out to verify functionality prior to atmospheric flight.[26]
 
@@ -59,7 +59,7 @@ The mated _Enterprise_/SCA combination was then subjected to five test flights w
 
 On August 12, 1977, _Enterprise_ flew on its own for the first time.[28] _Enterprise_ underwent four more free flights where the craft separated from the SCA and was landed under astronaut control. These tests verified the flight characteristics of the orbiter design and were carried out under several aerodynamic and weight configurations.[29] The first three flights were flown with a tailcone placed at the end of _Enterprise_{{'s}} aft fuselage, which reduced drag and turbulence when mated to the SCA. The final two flights saw the tailcone removed and mockup main engines installed. On the fifth and final glider flight, pilot-induced oscillation problems were revealed, which had to be addressed before the first orbital launch occurred.[30]
 
-Enterprise_lifted.jpg to undergo dynamic testing in launch configuration.]]
+to undergo dynamic testing in launch configuration.]]
 
 Mated Vertical Ground Vibration Test (MGVT)
 
@@ -79,7 +79,7 @@ Planned orbital missions[33]
 
 Preparation for STS-1
 
-Enterprise_KSC_1979.jpg Following the MGVT program and with the decision to not use _Enterprise_ for orbital missions, it was ferried on April 10, 1979, to KSC. By June 1979, it was again mated with an external tank and solid rocket boosters (known as a boilerplate configuration) and tested in a launch configuration at Kennedy Space Center Launch Pad 39A for a series of fit checks of the facilities there.[34]
+Following the MGVT program and with the decision to not use _Enterprise_ for orbital missions, it was ferried on April 10, 1979, to KSC. By June 1979, it was again mated with an external tank and solid rocket boosters (known as a boilerplate configuration) and tested in a launch configuration at Kennedy Space Center Launch Pad 39A for a series of fit checks of the facilities there.[34]
 
 Retirement
 
@@ -91,13 +91,13 @@ After the _Challenger_ disaster, NASA considered using _Enterprise_ as a replace
 
 Post-_Columbia_
 
-Enterprise_wing_panel.jpg In 2003 after the breakup of during re-entry, the _Columbia_ Accident Investigation Board conducted tests at Southwest Research Institute, which used an air cannon to shoot foam blocks of similar size, mass and speed to that which struck _Columbia_ at a test structure which mechanically replicated the orbiter wing leading edge. They removed a section of fiberglass leading edge from _Enterprise_{{'s}} wing to perform analysis of the material and attached it to the test structure, then shot a foam block at it.[38] While the leading edge was not broken as a result of the test, which took place on May 29, 2003, the impact was enough to permanently deform a seal and leave a thin gap long.[39][40][41] Since the strength of the reinforced carbon–carbon (RCC) on _Columbia_ is "substantially weaker and less flexible" than the test section from _Enterprise_, this result suggested that the RCC would have been shattered.[42] A section of RCC leading edge from _Discovery_ was tested on June 6, to determine the effects of the foam on a similarly aged leading edge, resulting in a crack on panel 6 and cracking on a "T"-shaped seal between panels 6 and 7.[43][44] On July 7, using a leading edge from _Atlantis_ and focused on panel 8 with refined parameters stemming from the _Columbia_ accident investigation, a second test created a ragged hole approximately in the RCC structure.[45][46] The tests clearly demonstrated that a foam impact of the type _Columbia_ sustained could seriously breach the protective RCC panels on the wing leading edge.[47]
+In 2003 after the breakup of during re-entry, the _Columbia_ Accident Investigation Board conducted tests at Southwest Research Institute, which used an air cannon to shoot foam blocks of similar size, mass and speed to that which struck _Columbia_ at a test structure which mechanically replicated the orbiter wing leading edge. They removed a section of fiberglass leading edge from _Enterprise_{{'s}} wing to perform analysis of the material and attached it to the test structure, then shot a foam block at it.[38] While the leading edge was not broken as a result of the test, which took place on May 29, 2003, the impact was enough to permanently deform a seal and leave a thin gap long.[39][40][41] Since the strength of the reinforced carbon–carbon (RCC) on _Columbia_ is "substantially weaker and less flexible" than the test section from _Enterprise_, this result suggested that the RCC would have been shattered.[42] A section of RCC leading edge from _Discovery_ was tested on June 6, to determine the effects of the foam on a similarly aged leading edge, resulting in a crack on panel 6 and cracking on a "T"-shaped seal between panels 6 and 7.[43][44] On July 7, using a leading edge from _Atlantis_ and focused on panel 8 with refined parameters stemming from the _Columbia_ accident investigation, a second test created a ragged hole approximately in the RCC structure.[45][46] The tests clearly demonstrated that a foam impact of the type _Columbia_ sustained could seriously breach the protective RCC panels on the wing leading edge.[47]
 
 The board determined that the probable cause of the accident was that the foam impact caused a breach of a reinforced carbon-carbon panel along the leading edge of _Columbia_{{'s}} left wing, allowing hot gases generated during re-entry to enter the wing and cause structural collapse. This caused _Columbia_ to tumble out of control, breaking up with the loss of the entire crew.[48]
 
 Museum exhibit
 
-Space_shuttle_enterprise.jpgs, ICBMs, and ABM equipment at the Steven F. Udvar-Hazy Center.]]
+s, ICBMs, and ABM equipment at the Steven F. Udvar-Hazy Center.]]
 
 Washington, D.C.
 
@@ -105,7 +105,7 @@ From 1985 to 2003,[49] _Enterprise_ was stored at the Smithsonian's hangar at Wa
 
 New York
 
-Space_Shuttle_Enterprise_delivered_to_the_Intrepid_Museum.jpg Enterprise_nicked_tail_Sandy_jeh.jpg On December 12, 2011, ownership of _Enterprise_ was officially transferred to the Intrepid Sea, Air & Space Museum in New York City.[53][54][55] In preparation for the anticipated relocation, engineers evaluated the vehicle in early 2010 and determined that it was safe to fly on the Shuttle Carrier Aircraft once again.[56] At approximately 13:40 UTC on April 27, 2012, _Enterprise_ took off from Dulles International Airport en route to a fly-by over the Hudson River, New York's JFK International Airport, the Statue of Liberty, the George Washington and Verrazano-Narrows Bridges, and several other landmarks in the city, in an approximately 45-minute "final tour". At 15:23 UTC, _Enterprise_ touched down at JFK International Airport.[57][58]
+On December 12, 2011, ownership of _Enterprise_ was officially transferred to the Intrepid Sea, Air & Space Museum in New York City.[53][54][55] In preparation for the anticipated relocation, engineers evaluated the vehicle in early 2010 and determined that it was safe to fly on the Shuttle Carrier Aircraft once again.[56] At approximately 13:40 UTC on April 27, 2012, _Enterprise_ took off from Dulles International Airport en route to a fly-by over the Hudson River, New York's JFK International Airport, the Statue of Liberty, the George Washington and Verrazano-Narrows Bridges, and several other landmarks in the city, in an approximately 45-minute "final tour". At 15:23 UTC, _Enterprise_ touched down at JFK International Airport.[57][58]
 
 The mobile Mate-Demate Device and cranes were transported from Dulles to the ramp at JFK and the shuttle was removed from the SCA overnight on May 12, 2012, placed on a specially designed flat bed trailer and returned to Hangar 12.[59] On June 3 a Weeks Marine barge took _Enterprise_ to Jersey City. The Shuttle sustained cosmetic damage to a wingtip when a gust of wind blew the barge towards a piling.[60] It was hoisted June 6 onto the Intrepid Museum in Manhattan.[61]
 

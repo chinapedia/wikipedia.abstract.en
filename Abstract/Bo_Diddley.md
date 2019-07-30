@@ -1,1 +1,0 @@
-ELLAS MCDANIEL (born ELLAS OTHA BATES, December 30, 1928 – June 2, 2008), known as BO DIDDLEY, was an American singer, guitarist, songwriter and music producer who played a key role in the transition from the blues to rock and roll. He influenced many artists, including Elvis Presley,[1] the Beatles, the Rolling Stones,[2] and the Clash.[3]

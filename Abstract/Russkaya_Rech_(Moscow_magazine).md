@@ -1,1 +1,0 @@
-_RUSSKAYA RECH_ (, Russian Speech) was a Russian fortnightly literary and political magazine which was launched in Moscow on 1 January 1861 by the writer and journalist Evgenya Tur who went on to become also its editor.

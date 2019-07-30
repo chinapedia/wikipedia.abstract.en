@@ -1,1 +1,0 @@
-CHARLES W. HEDGES (March 27, 1901–December 18, 1978) was an American politician who served as a member of the Quincy, Massachusetts city council, Massachusetts House of Representatives, Massachusetts Senate, and was sheriff of Norfolk County, Massachusetts from 1961 to 1975.

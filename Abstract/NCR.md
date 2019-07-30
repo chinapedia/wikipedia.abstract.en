@@ -1,1 +1,0 @@
-NCR may refer to:

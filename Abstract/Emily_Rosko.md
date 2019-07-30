@@ -1,1 +1,0 @@
-Emily_Rosko.jpg EMILY ROSKO (born 1979) is an American poet and is on the faculty of the College of Charleston. She is the author of _Raw Goods Inventory_ (2006) and _Prop Rockery_ (2012) poetry collections, both of which have won awards.[1][2][3]

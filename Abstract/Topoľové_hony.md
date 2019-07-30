@@ -1,1 +1,0 @@
-TOPOĽOVÉ HONY is a nature reserve in the Podunajské Biskupice district of Bratislava, Slovakia. The nature reserve covers an area of 60.06 ha on the left shore of the Danube. It has a protection level of 5 under the Slovak nature protection system. The nature reserve is part of the Dunajské luhy Protected Landscape Area.[1]

@@ -106,7 +106,7 @@ To prepare for the scene in which Neo wakes up in a pod, Reeves lost 15 pounds a
 
 Visual effects
 
-The_Matrix_Bullet_Time_Effect.ogv" effect was created for the film. A scene would be computer modeled to decide the positioning of the physical cameras. The actor then provided their performance in a chroma key setup, while the cameras were fired in rapid succession, with fractions of a second delay between each shot. The result was combined with CGI backgrounds to create the final effect at (0:33).|alt=Video sample of the film]]
+" effect was created for the film. A scene would be computer modeled to decide the positioning of the physical cameras. The actor then provided their performance in a chroma key setup, while the cameras were fired in rapid succession, with fractions of a second delay between each shot. The result was combined with CGI backgrounds to create the final effect at (0:33).|alt=Video sample of the film]]
 
 The film is known for popularizing a visual effect[80] known as "bullet time", which allows a shot to progress in slow-motion while the camera appears to move through the scene at normal speed.[81] Bullet time has been described as "a visual analogy for privileged moments of consciousness within the Matrix",[82] and throughout the film, the effect is used to illustrate characters' exertion of control over time and space.[83] The Wachowskis first imagined an action sequence that slowed time while the camera pivoted rapidly around the subjects, and proposed the effect in their screenplay for the film. When John Gaeta read the script, he pleaded with an effects producer at Mass.Illusion to let him work on the project, and created a prototype that led to him becoming the film's visual effects supervisor.[84]
 

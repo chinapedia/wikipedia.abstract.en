@@ -1,1 +1,0 @@
-PO KONG VILLAGE ROAD PARK () is a sports ground located in Diamond Hill, Hong Kong. The footprint of the park covers 9 hectares and contains various amenities including football pitches, a 1 km cycling track, an amphitheatre and a car park.

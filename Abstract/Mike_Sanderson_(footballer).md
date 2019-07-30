@@ -1,1 +1,0 @@
-MICHAEL SANDERSON (born 26 October 1966) is a former football midfielder who played in the Football League for Darlington on a non-contract basis. He began his career as a trainee with Hartlepool United, and also played non-league football for Billingham Town[1] and Guisborough Town.[2]

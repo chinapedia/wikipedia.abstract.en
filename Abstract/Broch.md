@@ -1,1 +1,0 @@
-Dun_Carloway.jpg broch, Lewis, Scotland]] A BROCH () is an Iron Age drystone hollow-walled structure found in Scotland. Brochs belong to the classification "complex atlantic roundhouse" devised by Scottish archaeologists in the 1980s. Their origin is a matter of some controversy.

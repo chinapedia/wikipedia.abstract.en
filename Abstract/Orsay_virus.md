@@ -1,1 +1,0 @@
-The ORSAY VIRUS is a positive-sense single-stranded RNA virus that infects _Caenorhabditis elegans_ nematode. It resembles nodaviruses (family _Nodaviridae_), but has yet to be formally classified.[1]

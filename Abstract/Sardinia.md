@@ -1,1 +1,0 @@
-SARDINIA ( ; ; or ; ; ; ; ) is the second-largest island in the Mediterranean Sea (after Sicily and before Cyprus). It is located west of the Italian Peninsula and to the immediate south of the French island of Corsica.

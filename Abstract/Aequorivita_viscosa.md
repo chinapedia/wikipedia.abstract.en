@@ -1,1 +1,0 @@
-_AEQUORIVITA VISCOSA_ is a Gram-negative, short rod-shaped, aerobic and non-spore-forming bacterium from the genus of Aequorivita which has been isolated from seaweed from the intertidal zone from the East China Sea near Zhoushan in China.[1][2][3][4]

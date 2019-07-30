@@ -1,1 +1,0 @@
-NELLY UZONNA EDITH UCHENDU, MON. (1950 April 12, 2005), was a Nigerian singer, composer and performer.[1] Revered for modernizing traditional Igbo folk music, Uchendu rose to prominence upon the release of her 1976 song "Love Nwatinti" which earned her the "Lady with the Golden Voice" sobriquet. She released 6 LP recordings during her career.[2][3]

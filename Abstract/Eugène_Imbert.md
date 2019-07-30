@@ -1,1 +1,0 @@
-EUGÈNE ALPHONSE MONET DE MAUBOIS, CALLED IMBERT, known in the world of the song in his time under the pseudonym EUGÈNE IMBERT, was a 19th-century French poet, chansonnier, goguettier and historiographer of the goguettes and songs.

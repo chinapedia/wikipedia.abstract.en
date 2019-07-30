@@ -1,1 +1,0 @@
-_U-KA SAEGUSA IN DB 1ST ~KIMI TO YAKUSOKU SHITA YASASHII ANO BASHO MADE~_ is the first studio album by Japanese pop-rock band U-ka Saegusa in dB. The album was released on November 19,2003 under Giza Studio label.

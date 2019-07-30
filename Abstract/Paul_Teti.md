@@ -1,1 +1,0 @@
-PAUL TETI (born February 5, 1977) is an American rower. He competed at the 2004 Summer Olympics in Athens, where he placed 9th in the men's lightweight coxless four with the American team. Teti was born in Upper Darby, Pennsylvania.[1]

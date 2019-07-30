@@ -1,1 +1,0 @@
-JO SUNG-JIN (Hangul: 조성진) (born November 2, 1979), better known by his stage name SKULL (Hangul: 스컬) is a South Korean reggae singer, prior member of Stony Skunk and member of Skull & Haha.[1] He is well known for his song "Love Inside" which became very popular in Jamaica.[2]

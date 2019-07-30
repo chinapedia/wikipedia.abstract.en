@@ -1,1 +1,0 @@
-LAMON DEZJON ARCHEY (; born April 9, 1981)[1][2] is an American model and actor best known for his recurring role as Mason Wilder on _The Young and the Restless_. In 2017, Archey joined the cast of _Days of Our Lives_ in the role of Eli Grant.

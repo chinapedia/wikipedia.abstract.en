@@ -7,8 +7,6 @@ Tarragon grows to tall, with slender branched stems. The leaves are lanceolate, 
 
 Cultivation
 
-Dried_Taragon.JPG
-
 French tarragon is the variety used for cooking in the kitchen[7] and is not grown from seed, as the flowers are sterile; instead it is propagated by root division.
 
 Russian tarragon (_A. dracunculoides_ L.) can be grown from seed but is much weaker in flavor when compared to the French variety.[8] However, Russian tarragon is a far more hardy and vigorous plant, spreading at the roots and growing over a meter tall. This tarragon actually prefers poor soils and happily tolerates drought and neglect. It is not as strongly aromatic and flavorsome as its French cousin, but it produces many more leaves from early spring onwards that are mild and good in salads and cooked food. Russian tarragon loses what flavor it has as it ages and is widely considered useless as a culinary herb, though it is sometimes used in crafts. The young stems in early spring can be cooked as an asparagus substitute. Horticulturists recommend that Russian tarragon be grown indoors from seed and planted out in the summer. The spreading plants can be divided easily.

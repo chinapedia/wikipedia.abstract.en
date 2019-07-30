@@ -1,1 +1,0 @@
-RYAN GARY CORNS (born August 9, 1990) is a former international cricketer who represented the U.S. national team between 2011 and 2013. He is an all-rounder who bats right-handed and bowls left-arm orthodox spin.

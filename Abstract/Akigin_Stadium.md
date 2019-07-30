@@ -1,1 +1,0 @@
-for their sponsor the Akita Bank,[1] is a football stadium in Akita, Akita Prefecture, Japan. The stadium has a capacity of 4,992 and has been the home ground of J3 League club Blaublitz Akita since 2013. It was formerly known as AKITA YABASE PLAYING FIELD. Since September 2014 it has been called AKIGIN STADIUM for the naming rights by Akita Bank.

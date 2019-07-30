@@ -1,1 +1,0 @@
-CREUTZFELDT–JAKOB DISEASE (CJD), also known as CLASSIC CREUTZFELDT–JAKOB DISEASE, is a fatal degenerative brain disorder.[1][2] Early symptoms include memory problems, behavioral changes, poor coordination, and visual disturbances.[3] Later dementia, involuntary movements, blindness, weakness, and coma occur.[4] About 70% of people die within a year of diagnosis.[5]

@@ -9,7 +9,7 @@ While large portions of the Old Testament are missing, it is assumed that the co
 
 Description
 
-Codex_Sinaiticus-small.jpg 11:2 in Codex Sinaiticus]] The codex consists of parchment, originally in double sheets, which may have measured about 40 by 70 cm. The whole codex consists, with a few exceptions, of quires of eight leaves, a format popular throughout the Middle Ages.[8] Each line of the text has some twelve to fourteen Greek uncial letters, arranged in four columns (48 lines per column) with carefully chosen line breaks and slightly ragged right edges.[9] When opened, the eight columns thus presented to the reader have much the same appearance as the succession of columns in a papyrus roll.[10] The poetical books of the Old Testament are written stichometrically, in only two columns per page. The codex has almost 4,000,000 uncial letters.[11]
+11:2 in Codex Sinaiticus]] The codex consists of parchment, originally in double sheets, which may have measured about 40 by 70 cm. The whole codex consists, with a few exceptions, of quires of eight leaves, a format popular throughout the Middle Ages.[8] Each line of the text has some twelve to fourteen Greek uncial letters, arranged in four columns (48 lines per column) with carefully chosen line breaks and slightly ragged right edges.[9] When opened, the eight columns thus presented to the reader have much the same appearance as the succession of columns in a papyrus roll.[10] The poetical books of the Old Testament are written stichometrically, in only two columns per page. The codex has almost 4,000,000 uncial letters.[11]
 
 The work was written in _scriptio continua_ with neither breathings nor polytonic accents.[12] Occasional points and a few ligatures are used, though _nomina sacra_ with overlines are employed throughout. Some words usually abbreviated in other manuscripts (such as πατηρ and δαυειδ), are in this codex written in both full and abbreviated forms. The following nomina sacra are written in abbreviated forms: ΘΣ ΚΣ ΙΣ ΧΣ ΠΝΑ ΠΝΙΚΟΣ ΥΣ ΑΝΟΣ ΟΥΟΣ ΔΑΔ ΙΛΗΜ ΙΣΡΛ ΜΗΡ ΠΗΡ ΣΩΡ.[13]
 
@@ -56,7 +56,7 @@ The text of the Old Testament contains the following passages:[22][23]
 
 :* 1 Maccabees–4 Maccabees
 
-Adulterae.JPG The text of the New Testament lacks several passages:[24]
+The text of the New Testament lacks several passages:[24]
 
     Omitted verses
     -   Gospel of Matthew 12:47, 16:2b-3, 17:21, 18:11, 23:14, 24:35;
@@ -65,8 +65,6 @@ Adulterae.JPG The text of the New Testament lacks several passages:[24]
     -   Gospel of John 5:4, Pericope adulterae (7:53–8:11) (see Image "John 7:53–8:11"), 16:15, 19:20, 20:5b-6, 21:25
     -   Acts of the Apostles 8:37; 15:34; 24:7; 28:29;[25]
     -   Epistle to the Romans 16:24
-
-Codex_Sinaiticus_Matthew_6,4-32.JPG
 
     Omitted phrases
     -   Matthew 5:44 εὐλογεῖτε τοὺς καταρωμένους ὑμᾶς, καλῶς ποιεῖτε τοῖς μισοῦσιν ὑμᾶς (_bless those who curse you, do good to those who hate you_);[26]
@@ -82,7 +80,7 @@ Codex_Sinaiticus_Matthew_6,4-32.JPG
 
 :* John 4:9 – ου γαρ συνχρωνται Ιουδαιοι Σαμαριταις (_Jews have no dealings with Samaritans_), it is one of so-called Western non-interpolations; omission is supported by D, a, b, d, e, j, cop^(fay), it was supplemented by the first corrector (before leaving scriptorium);[35]
 
-Some passages were excluded by the correctors: Codex_Sinaiticus_John_21,7.JPG
+Some passages were excluded by the correctors:
 
 :* Matthew 24:36 – phrase ουδε ο υιος (_nor the Son_) the first corrector marked as doubtful, but the second corrector (b) removed the mark.[36]
 
@@ -109,8 +107,6 @@ Matthew 27:49 (see John 19:34)
     In Matthew 27:49 the codex contains added text: ἄλλος δὲ λαβὼν λόγχην ἔνυξεν αὐτοῦ τὴν πλευράν, καὶ ἐξῆλθεν ὕδορ καὶ αἷμα (_the other took a spear and pierced His side, and immediately came out water and blood_). This reading was derived from John 19:34 and occurs in other manuscripts of the Alexandrian text-type.[45]
 
 Unique and other textual variants
-
-Codex_Sinaiticus_Paralipomenon_9,27-10,11.JPG
 
 Matthew 7:22 – It has additional word πολλα (_numerous_): "and cast out NUMEROUS demons in your name?". It is not supported by any other manuscript.[46]
 
@@ -154,7 +150,7 @@ Text-type and relationship to other manuscripts
 
 For most of the New Testament, _Codex Sinaiticus_ is in general agreement with _Codex Vaticanus Graecus 1209_ and _Codex Ephraemi Rescriptus_, attesting the Alexandrian text-type. A notable example of an agreement between the Sinaiticus and Vaticanus texts is that they both omit the word εικη ('without cause', 'without reason', 'in vain') from Matthew 5:22 "_But I say unto you, That whosoever is angry with his brother WITHOUT A CAUSE shall be in danger of the judgement_".[62]
 
-Codex_sinaticus.jpg.[63]]] In John 1:1–8:38 _Codex Sinaiticus_ differs from Vaticanus and all other Alexandrian manuscripts. It is in closer agreement with _Codex Bezae_ in support of the Western text-type. For example, in John 1:4 Sinaiticus and Codex Bezae are the only Greek manuscripts with textual variant ἐν αὐτῷ ζωὴ ἐστίν (_in him is life_) instead of ἐν αὐτῷ ζωὴ ᾓν (_in him was life_). This variant is supported by Vetus Latina and some Sahidic manuscripts. This portion has a large number of corrections.[64] There are a number of differences between Sinaiticus and Vaticanus; Hoskier enumerated 3036 differences:
+.[63]]] In John 1:1–8:38 _Codex Sinaiticus_ differs from Vaticanus and all other Alexandrian manuscripts. It is in closer agreement with _Codex Bezae_ in support of the Western text-type. For example, in John 1:4 Sinaiticus and Codex Bezae are the only Greek manuscripts with textual variant ἐν αὐτῷ ζωὴ ἐστίν (_in him is life_) instead of ἐν αὐτῷ ζωὴ ᾓν (_in him was life_). This variant is supported by Vetus Latina and some Sahidic manuscripts. This portion has a large number of corrections.[64] There are a number of differences between Sinaiticus and Vaticanus; Hoskier enumerated 3036 differences:
 
 
 
@@ -213,8 +209,6 @@ Modern analysis identifies at least three scribes:
 
 Scribe B was a poor speller, and scribe A was not very much better; the best scribe was D.[88] Metzger states: "scribe A had made some unusually serious mistakes".[89] Scribes A and B more often used _nomina sacra_ in contracted forms (ΠΝΕΥΜΑ contracted in all occurrences, ΚΥΡΙΟΣ contracted except in 2 occurrences), scribe D more often used forms uncontracted.[90] D distinguished between sacral and nonsacral using of ΚΥΡΙΟΣ.[91] His errors are the substitution of ΕΙ for Ι, and Ι for ΕΙ in medial positions, both equally common. Otherwise substitution of Ι for initial ΕΙ is unknown, and final ΕΙ is only replaced in word ΙΣΧΥΕΙ, confusing of Ε and ΑΙ is very rare.[92] In the Book of Psalms this scribe has 35 times ΔΑΥΕΙΔ instead of ΔΑΥΙΔ, while scribe A normally uses an abbreviated form ΔΑΔ.[93] Scribe A's was a "worse type of phonetic error". Confusion of Ε and ΑΙ occurs in all contexts.[94] Milne and Skeat characterised scribe B as "careless and illiterate".[95] The work of the original scribe is designated by the siglum א*.[96]
 
-Caesarea_Maritima_BW_2010-09-23_09-26-26_stitch.jpg
-
 A paleographical study at the British Museum in 1938 found that the text had undergone several corrections. The first corrections were done by several scribes before the manuscript left the scriptorium.[97] Readings which they introduced are designated by the siglum א^(a).[98] Milne and Skeat have observed that the superscription to 1 Maccabees was made by scribe D, while the text was written by scribe A.[99] Scribe D corrects his own work and that of scribe A, but scribe A limits himself to correcting his own work.[100] In the 6th or 7th century, many alterations were made (א^(b)) – according to a colophon at the end of the book of Esdras and Esther the source of these alterations was "a very ancient manuscript that had been corrected by the hand of the holy martyr Pamphylus" (martyred in 309). If this is so, material beginning with 1 Samuel to the end of Esther is Origen's copy of the Hexapla. From this colophon, the correction is concluded to have been made in Caesarea Maritima in the 6th or 7th centuries.[101] The pervasive iotacism, especially of the diphthong, remains uncorrected.[102]
 
 Discovery
@@ -227,11 +221,11 @@ The Codex may have been seen in 1761 by the Italian traveller, Vitaliano Donati,
 
 The "Bible on beautiful vellum" may be the Codex Sinaiticus, and the gold evangelistarium is likely Lectionary 300 on the Gregory-Aland list.[104]
 
-Tischendorf_um_1870.jpg German Biblical scholar Constantin von Tischendorf wrote about his visit to the monastery in _Reise in den Orient_ in 1846 (translated as _Travels in the East_ in 1847), without mentioning the manuscript. Later, in 1860, in his writings about the Sinaiticus discovery, Tischendorf wrote a narrative about the monastery and the manuscript that spanned from 1844 to 1859. He wrote that in 1844, during his first visit to the Saint Catherine's Monastery, he saw some leaves of parchment in a waste-basket. They were "rubbish which was to be destroyed by burning it in the ovens of the monastery",[105] although this is firmly denied by the Monastery. After examination he realized that they were part of the Septuagint, written in an early Greek uncial script. He retrieved from the basket 129 leaves in Greek which he identified as coming from a manuscript of the Septuagint. He asked if he might keep them, but at this point the attitude of the monks changed. They realized how valuable these old leaves were, and Tischendorf was permitted to take only one-third of the whole, i.e. 43 leaves. These leaves contained portions of 1 Chronicles, Jeremiah, Nehemiah, and Esther. After his return they were deposited in the Leipzig University Library, where they remain. In 1846 Tischendorf published their contents, naming them the 'Codex Friderico-Augustanus' (in honor of Frederick Augustus and keeping secret the source of the leaves).[106] Other portions of the same codex remained in the monastery, containing all of Isaiah and 1 and 4 Maccabees.[107]
+German Biblical scholar Constantin von Tischendorf wrote about his visit to the monastery in _Reise in den Orient_ in 1846 (translated as _Travels in the East_ in 1847), without mentioning the manuscript. Later, in 1860, in his writings about the Sinaiticus discovery, Tischendorf wrote a narrative about the monastery and the manuscript that spanned from 1844 to 1859. He wrote that in 1844, during his first visit to the Saint Catherine's Monastery, he saw some leaves of parchment in a waste-basket. They were "rubbish which was to be destroyed by burning it in the ovens of the monastery",[105] although this is firmly denied by the Monastery. After examination he realized that they were part of the Septuagint, written in an early Greek uncial script. He retrieved from the basket 129 leaves in Greek which he identified as coming from a manuscript of the Septuagint. He asked if he might keep them, but at this point the attitude of the monks changed. They realized how valuable these old leaves were, and Tischendorf was permitted to take only one-third of the whole, i.e. 43 leaves. These leaves contained portions of 1 Chronicles, Jeremiah, Nehemiah, and Esther. After his return they were deposited in the Leipzig University Library, where they remain. In 1846 Tischendorf published their contents, naming them the 'Codex Friderico-Augustanus' (in honor of Frederick Augustus and keeping secret the source of the leaves).[106] Other portions of the same codex remained in the monastery, containing all of Isaiah and 1 and 4 Maccabees.[107]
 
 In 1845, Archimandrite Porphyrius Uspensky (1804–1885), at that time head of the Russian Ecclesiastical Mission in Jerusalem and subsequently Bishop of Chigirin, visited the monastery and the codex was shown to him, together with leaves which Tischendorf had not seen.[108] In 1846, Captain C. K. MacDonald visited Mount Sinai, saw the codex, and bought two codices (495 and 496) from the monastery.[109]
 
-AlexII.JPG]] In 1853, Tischendorf revisited the Saint Catherine's Monastery to get the remaining 86 folios, but without success. Returning in 1859, this time under the patronage of Tsar Alexander II of Russia, he was shown the _Codex Sinaiticus_. He would later claim to have found it discarded in a rubbish bin. (This story may have been a fabrication, or the manuscripts in question may have been unrelated to _Codex Sinaiticus_: Rev. J. Silvester Davies in 1863 quoted "a monk of Sinai who... stated that according to the librarian of the monastery the whole of Codex Sinaiticus had been in the library for many years and was marked in the ancient catalogues... Is it likely... that a manuscript known in the library catalogue would have been jettisoned in the rubbish basket." Indeed, it has been noted that the leaves were in "suspiciously good condition" for something found in the trash.[110]) Tischendorf had been sent to search for manuscripts by Russia's Tsar Alexander II, who was convinced there were still manuscripts to be found at the Sinai monastery.[111] The text of this part of the codex was published by Tischendorf in 1862:
+]] In 1853, Tischendorf revisited the Saint Catherine's Monastery to get the remaining 86 folios, but without success. Returning in 1859, this time under the patronage of Tsar Alexander II of Russia, he was shown the _Codex Sinaiticus_. He would later claim to have found it discarded in a rubbish bin. (This story may have been a fabrication, or the manuscripts in question may have been unrelated to _Codex Sinaiticus_: Rev. J. Silvester Davies in 1863 quoted "a monk of Sinai who... stated that according to the librarian of the monastery the whole of Codex Sinaiticus had been in the library for many years and was marked in the ancient catalogues... Is it likely... that a manuscript known in the library catalogue would have been jettisoned in the rubbish basket." Indeed, it has been noted that the leaves were in "suspiciously good condition" for something found in the trash.[110]) Tischendorf had been sent to search for manuscripts by Russia's Tsar Alexander II, who was convinced there were still manuscripts to be found at the Sinai monastery.[111] The text of this part of the codex was published by Tischendorf in 1862:
 
 -   Konstantin von Tischendorf: _Bibliorum codex Sinaiticus Petropolitanus._ Giesecke & Devrient, Leipzig 1862.
 
@@ -244,11 +238,11 @@ This work has been digitised in full and all four volumes may be consulted onlin
 
 The complete publication of the codex was made by Kirsopp Lake in 1911 (New Testament), and in 1922 (Old Testament). It was the full-sized black and white facsimile of the manuscript, "made from negatives taken from St. Petersburg by my wife and myself in the summer of 1908".[113]
 
-The story of how Tischendorf found the manuscript, which contained most of the Old Testament and all of the New Testament, has all the interest of a romance. Tischendorf reached the monastery on 31 January; but his inquiries appeared to be fruitless. On 4 February, he had resolved to return home without having gained his object: Sinai_litografia.jpg
+The story of how Tischendorf found the manuscript, which contained most of the Old Testament and all of the New Testament, has all the interest of a romance. Tischendorf reached the monastery on 31 January; but his inquiries appeared to be fruitless. On 4 February, he had resolved to return home without having gained his object:
 
   On the afternoon of this day I was taking a walk with the steward of the convent in the neighbourhood, and as we returned, towards sunset, he begged me to take some refreshment with him in his cell. Scarcely had he entered the room, when, resuming our former subject of conversation, he said: "And I, too, have read a Septuagint" – i.e. a copy of the Greek translation made by the Seventy. And so saying, he took down from the corner of the room a bulky kind of volume, wrapped up in a red cloth, and laid it before me. I unrolled the cover, and discovered, to my great surprise, not only those very fragments which, fifteen years before, I had taken out of the basket, but also other parts of the Old Testament, the New Testament complete, and, in addition, the Epistle of Barnabas and a part of the Shepherd of Hermas.[114]
 
-Chappel_of_bush_litografia.jpg After some negotiations, he obtained possession of this precious fragment. James Bentley gives an account of how this came about, prefacing it with the comment, "Tischendorf therefore now embarked on the remarkable piece of duplicity which was to occupy him for the next decade, which involved the careful suppression of facts and the systematic denigration of the monks of Mount Sinai."[115] He conveyed it to Tsar Alexander II, who appreciated its importance and had it published as nearly as possible in facsimile, so as to exhibit correctly the ancient handwriting. In 1869 the Tsar sent the monastery 7,000 rubles and the monastery of Mount Tabor 2,000 rubles by way of compensation.[116][117] The document in Russian formalising this was published in 2007 in Russia and has since been translated.[118]
+After some negotiations, he obtained possession of this precious fragment. James Bentley gives an account of how this came about, prefacing it with the comment, "Tischendorf therefore now embarked on the remarkable piece of duplicity which was to occupy him for the next decade, which involved the careful suppression of facts and the systematic denigration of the monks of Mount Sinai."[115] He conveyed it to Tsar Alexander II, who appreciated its importance and had it published as nearly as possible in facsimile, so as to exhibit correctly the ancient handwriting. In 1869 the Tsar sent the monastery 7,000 rubles and the monastery of Mount Tabor 2,000 rubles by way of compensation.[116][117] The document in Russian formalising this was published in 2007 in Russia and has since been translated.[118]
 
 Regarding Tischendorf's role in the transfer to Saint Petersburg, there are several views. The codex is currently regarded by the monastery as having been stolen. This view is hotly contested by several scholars in Europe. Kirsopp Lake wrote:
 
@@ -257,8 +251,6 @@ Regarding Tischendorf's role in the transfer to Saint Petersburg, there are seve
 In a more neutral spirit, New Testament scholar Bruce Metzger writes:
 
   Certain aspects of the negotiations leading to the transfer of the codex to the Tsar's possession are open to an interpretation that reflects adversely on Tischendorf's candour and good faith with the monks at Saint Catherine's Monastery. For a recent account intended to exculpate him of blame, see Erhard Lauch's article 'Nichts gegen Tischendorf' in _Bekenntnis zur Kirche: Festgabe für Ernst Sommerlath zum 70. Geburtstag_ (Berlin, c. 1961); for an account that includes a hitherto unknown receipt given by Tischendorf to the authorities at the monastery promising to return the manuscript from Saint Petersburg 'to the Holy Confraternity of Sinai at its earliest request'.[120][121]
-
-St_Catherines_From_Sinai.JPG
 
 Simonides
 
@@ -272,7 +264,7 @@ Recent history
 
 In the early 20th century Vladimir Beneshevich (1874–1938) discovered parts of three more leaves of the codex in the bindings of other manuscripts in the library of Mount Sinai. Beneshevich went on three occasions to the monastery (1907, 1908, 1911) but does not tell when or from which book these were recovered. These leaves were also acquired for St. Petersburg, where they remain.[129][130]
 
-Russian_National_Library_building.jpg For many decades, the Codex was preserved in the Russian National Library. In 1933, the Soviet Union sold the codex to the British Museum (after 1973 British Library) for £100,000 raised by public subscription (worth £ in ).[131] After coming to Britain it was examined by Skeat and Milne using an ultra-violet lamp.[132]
+For many decades, the Codex was preserved in the Russian National Library. In 1933, the Soviet Union sold the codex to the British Museum (after 1973 British Library) for £100,000 raised by public subscription (worth £ in ).[131] After coming to Britain it was examined by Skeat and Milne using an ultra-violet lamp.[132]
 
 In May 1975, during restoration work, the monks of Saint Catherine's Monastery discovered a room beneath the St. George Chapel which contained many parchment fragments. Kurt Aland and his team from the Institute for New Testament Textual Research were the first scholars who were invited to analyse, examine and photograph these new fragments of the New Testament in 1982.[133] Among these fragments were twelve complete leaves from the _Sinaiticus_, 11 leaves of the Pentateuch and 1 leaf of the Shepherd of Hermas.[134] Together with these leaves 67 Greek Manuscripts of New Testament have been found (uncials 0278 – 0296 and some minuscules).[135]
 
@@ -287,7 +279,7 @@ Prior to 1 September 2009, the University of the Arts London PhD student, Nikola
 
 Present location
 
-british_library_london.jpg The codex is now split into four unequal portions: 347 leaves in the British Library in London (199 of the Old Testament, 148 of the New Testament), 12 leaves and 14 fragments in the Saint Catherine's Monastery, 43 leaves in the Leipzig University Library, and fragments of 3 leaves in the Russian National Library in Saint Petersburg.[146]
+The codex is now split into four unequal portions: 347 leaves in the British Library in London (199 of the Old Testament, 148 of the New Testament), 12 leaves and 14 fragments in the Saint Catherine's Monastery, 43 leaves in the Leipzig University Library, and fragments of 3 leaves in the Russian National Library in Saint Petersburg.[146]
 
 Saint Catherine's Monastery still maintains the importance of a letter, handwritten in 1844 with an original signature of Tischendorf confirming that he borrowed those leaves.[147] However, recently published documents, including a deed of gift dated 11 September 1868 and signed by Archbishop Kallistratos and the monks of the monastery, indicate that the manuscript was acquired entirely legitimately.[148] This deed, which agrees with a report by Kurt Aland on the matter, has now been published. Unfortunately this development is not widely known in the English-speaking world, as only German- and Russian-language media reported on it in 2009. Doubts as to the legality of the gift arose because when Tischendorf originally removed the manuscript from Saint Catherine's Monastery in September 1859, the monastery was without an archbishop, so that even though the intention to present the manuscript to the Tsar had been expressed, no legal gift could be made at the time. Resolution of the matter was delayed through the turbulent reign of Archbishop Cyril (consecrated 7 December 1859, deposed 24 August 1866), and the situation only formalised after the restoration of peace.[149]
 

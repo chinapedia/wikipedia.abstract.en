@@ -1,1 +1,0 @@
-The DEERHAVEN SUBDIVISION is a railroad line owned by CSX Transportation in Florida. The line runs from Burnett's Lake to Gainesville for a total of 12.8 miles. At its north end it continues south from the Brooker Subdivision and at its south end the track comes to an end.[1][2]

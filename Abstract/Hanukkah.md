@@ -1,1 +1,0 @@
-Chanukkah2007_pic_(1)c.JPG HANUKKAH ( ; __, Tiberian: __, usually spelled , pronounced in Modern Hebrew, or in Yiddish; a transliteration also romanized as CHANUKAH or ḤANUKAH) is a Jewish festival commemorating the rededication of the Second Temple in Jerusalem at the time of the Maccabean Revolt against the Seleucid Empire. It is also known as the FESTIVAL OF LIGHTS (, __).

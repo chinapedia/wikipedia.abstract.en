@@ -1,1 +1,0 @@
-The BATTLE OF ABU KRU (also known as the BATTLE OF GUBAT) was part of the British Sudan campaigns. It was fought on 19 January 1885, two days after the Battle of Abu Klea, between the British and the Mahdists. The British force under General Sir Herbert Stewart numbered 1,200 while a large number of Mahdists, probably around 13-14,000 were in pursuit.

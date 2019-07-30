@@ -1,1 +1,0 @@
-WEBTORRENT is a peer-to-peer (P2P) streaming torrent client written completely in JavaScript by Feross Aboukhadijeh (who also created YouTube Instant) and the team at WebTorrent and on GitHub, for use in web browsers, as well as a WebTorrent Desktop stand alone version able to bridge WebTorrent and BitTorrent serverless networks.

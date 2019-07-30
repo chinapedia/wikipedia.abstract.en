@@ -1,1 +1,0 @@
-StephenChanock2014.jpg

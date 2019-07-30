@@ -1,1 +1,0 @@
-TIDDY BROOK MEADOWS,(sometimes called TIDDYBROOK MEADOWS) is a settlement in Devon. It lies south of Whitchurch and just east of Tavistock, and sits on the banks of the river Tiddy Brook,[1] which flows into the River Tavy. Most of the settlement was built in the late 2000s.

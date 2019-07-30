@@ -1,1 +1,0 @@
-The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg, Norway; Algirdas Butkevičius, Lithuania; Laimdota Straujuma, Latvia; Sigmundur Davíð Gunnlaugsson, Iceland; Alexander Stubb, Finland; Anne Sulling, Estonia (trade minister); Helle Thorning-Schmidt, Denmark; Stefan Löfven, Sweden.]]

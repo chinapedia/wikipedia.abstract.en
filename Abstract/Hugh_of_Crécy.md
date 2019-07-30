@@ -1,1 +1,0 @@
-HUGH OF CRÉCY (died 31 July 1147), son of Guy II the Red of Rochefort and his wife Adelais de Crécy. Seigneur de Gournay. Seneschal of France under Robert the Pious, 1106-1107. Very little is known about Hugh other than he assassinated his cousin Milo II of Montlhéry.

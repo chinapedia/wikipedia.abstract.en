@@ -1,1 +1,0 @@
-smoking_pipe_rack.jpg Adventures_with_Sherlock_Holmes_TD_Gallery_Jan_5-Mar_10,_2012.jpg smoking a pipe. This color painting by Sidney Paget first appeared in the September, 1914 number of _Strand Magazine_ to illustrate the first installment of "The Valley of Fear".]]

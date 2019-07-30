@@ -1,1 +1,0 @@
-The MEN'S EUROPEAN VOLLEYBALL LEAGUE is a continental volleyball competition senior men's national volleyball teams of Europe, organized by the European Volleyball Confederation (CEV). Created in 2004, the competition serves as a qualifying tournament for the FIVB World League (until 2017) and to its successor the FIVB Nations League since 2018.

@@ -1,1 +1,0 @@
-CHRISTOPH HELMCHEN is a German neurologist at University of Lübeck[1] and Ig Nobel Prize winner of 2016 in medicine.[2] Helmchen and colleagues, have discovered that if anyone has an itch on the left side of his body, he can relieve it by looking into a mirror and scratching the right side of his body (and vice versa).[3]

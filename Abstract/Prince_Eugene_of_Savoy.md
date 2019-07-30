@@ -1,1 +1,0 @@
-Prince EUGENE OF SAVOY–CARIGNANO (, , ; 18 October 1663 – 21 April 1736) was a general of the Imperial Army and statesman of the Holy Roman Empire and the Archduchy of Austria and one of the most successful military commanders in modern European history, rising to the highest offices of state at the Imperial court in Vienna.

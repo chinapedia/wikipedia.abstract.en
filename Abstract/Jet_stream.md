@@ -1,1 +1,0 @@
-Aerial_Superhighway.ogv Straalstroom.jpg

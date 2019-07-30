@@ -1,1 +1,0 @@
-NOTTINGHAM EASTCROFT is a stabling point located in Nottingham, Nottinghamshire, England. The carriage sidings are located near Nottingham station and are situated alongside the former Midland Railway line to Lincoln.

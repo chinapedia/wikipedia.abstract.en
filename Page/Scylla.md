@@ -1,4 +1,4 @@
-Scylla_Louvre_CA1341.jpg tail and dog heads sprouting from her body. Detail from a red-figure bell-crater in the Louvre, 450–425 BCE. This form of Scylla was prevalent in ancient depictions, though very different from the description in Homer, where she is land-based and more dragon-like.]]
+tail and dog heads sprouting from her body. Detail from a red-figure bell-crater in the Louvre, 450–425 BCE. This form of Scylla was prevalent in ancient depictions, though very different from the description in Homer, where she is land-based and more dragon-like.]]
 
 In Greek mythology, SCYLLA[1] ( ; , , _Skylla_) was a legendary monster that lived on one side of a narrow channel of water, opposite her counterpart Charybdis. The two sides of the strait were within an arrow's range of each other—so close that sailors attempting to avoid Charybdis would pass dangerously close to Scylla and vice versa.
 
@@ -9,7 +9,7 @@ The strait where Scylla dwelled has been associated with the Strait of Messina b
 
 Parentage
 
-Denarius_Sextus_Pompeius-Scilla.jpg minted by Sextus Pompeius|alt=|left]]
+minted by Sextus Pompeius|alt=|left]]
 
 The parentage of Scylla varies according to author.[3] Homer, Ovid, Apollodorus, Servius, and a scholiast on Plato, all name Crataeis as the mother of Scylla.[4] Neither Homer nor Ovid mentions a father, but Apollodorus says that the father was either Trienus (Triton?) or Phorcus (a variant of Phorkys),[5] similarly the Plato scholiast, perhaps following Apollodorus, gives the father as Tyrrhenus or Phorcus,[6] while Eustathius on Homer, _Odyssey_ 12.85, gives the father as Triton.
 
@@ -20,7 +20,7 @@ Perhaps trying to reconcile these conflicting accounts, Apollonius of Rhodes say
 
 Mythology
 
-Castello_scilla.jpg, which is said to be the home of Scylla]]According to John Tzetzes[12] and Servius' commentary on the _Aeneid_,[13] Scylla was a beautiful naiad who was claimed by Poseidon, but the jealous Nereid Amphitrite turned her into a terrible monster by poisoning the water of the spring where Scylla would bathe.
+, which is said to be the home of Scylla]]According to John Tzetzes[12] and Servius' commentary on the _Aeneid_,[13] Scylla was a beautiful naiad who was claimed by Poseidon, but the jealous Nereid Amphitrite turned her into a terrible monster by poisoning the water of the spring where Scylla would bathe.
 
 A similar story is found in Hyginus,[14] according to whom Scylla was loved by Glaucus, but Glaucus himself was also loved by the goddess sorceress Circe. While Scylla was bathing in the sea, the jealous Circe poured a baleful potion into the sea water which caused Scylla to transform into a frightful monster with four eyes and six long snaky necks equipped with grisly heads, each of which contained three rows of sharp shark's teeth. Her body consisted of 12 tentacle-like legs and a cat's tail, while six dog's heads ringed her waist. In this form, she attacked the ships of passing sailors, seizing one of the crew with each of her heads.
 
@@ -40,7 +40,7 @@ In Homer's _Odyssey_ XII, Odysseus is advised by Circe to sail closer to Scylla,
 
 Ovid's _Metamorphoses_
 
-Bartholomäus_Spranger_006.jpg (c.1581)]]
+(c.1581)]]
 
 According to Ovid,[18] the fisherman-turned-sea god Glaucus falls in love with the beautiful Scylla, but she is repulsed by his piscine form and flees to a promontory where he cannot follow. When Glaucus goes to Circe to request a love potion that will win Scylla's affections, the enchantress herself becomes enamored with him. Meeting with no success, Circe becomes hatefully jealous of her rival and therefore prepares a vial of poison and pours it into the sea pool where Scylla regularly bathed, transforming her into a thing of terror even to herself.
 
@@ -62,7 +62,7 @@ In James Joyce's _Ulysses_, paralleling the _Odyssey_, the "Scylla and Charybdis
 
 Paintings
 
-Joseph_Mallord_William_Turner,_‘Glaucus_and_Scylla’,_1841.jpg's painting of Scylla fleeing inland from the advances of Glaucus (1841)]]
+'s painting of Scylla fleeing inland from the advances of Glaucus (1841)]]
 
 At the Carolingian abbey of Corvey in Westphalia, a unique ninth-century wall painting depicts, among other things, Odysseus' fight with Scylla,[21] an illustration not noted elsewhere in medieval arts.[22]
 

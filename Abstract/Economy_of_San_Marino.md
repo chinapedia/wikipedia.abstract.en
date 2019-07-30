@@ -1,1 +1,0 @@
-THE ECONOMY OF SAN MARINO is focused around industries such as banking, wearing apparel, including fabrics, electronics, ceramics, tiles, furniture, paints, and spirits/wines. In addition, San Marino sells collectible postage stamps to philatelists. The main agricultural products are wine and cheeses.

@@ -1,1 +1,0 @@
-PATRIMONY may refer to:

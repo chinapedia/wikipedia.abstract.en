@@ -1,1 +1,0 @@
-Hydrolysis.png can go both ways.)]] HYDROLYSIS (; ) is any chemical reaction in which a molecule of water ruptures one or more chemical bonds. The term is used broadly for substitution, elimination, and fragmentation reactions in which water is the nucleophile.[1]

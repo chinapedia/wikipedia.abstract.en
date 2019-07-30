@@ -1,1 +1,0 @@
-Diplôme_de_Louis_VI_de_1111_1_-_Archives_Nationales_-_AE-II-1608.jpg HUGH III, SEIGNEUR OF LE PUISET (French: _Hugues III du Puiset_) (d. 1132 in Palestine), son of Éverard III, Seigneur of Puiset and Viscount of Chartres, and Adelaide, Countess of Corbeil. Count of Corbel.

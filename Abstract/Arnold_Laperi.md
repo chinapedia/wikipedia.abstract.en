@@ -1,1 +1,0 @@
-ARNOLD LAPERI (born 31 August 1991 in Tirana) is an Albanian-American professional basketball player who last played for the Palm Beach Pelicans of the Central Basketball Development League (CBDL).[1]

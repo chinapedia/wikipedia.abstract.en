@@ -1,1 +1,0 @@
-ZHANGZHOU TAN CO. LTD. trading as TAN CO. is a food company based in Zhangzhou, Fujian province, China. The company started functioning in 1994, as a comprehensive service provider, especially dedicating to the development & research for canned foodstuff, brand building, the sharing of export information, resources reassignment.[1]

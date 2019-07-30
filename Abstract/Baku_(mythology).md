@@ -1,1 +1,0 @@
-Baku_by_Katsushika_Hokusai.jpg.]] are Japanese supernatural beings that devour dreams and nightmares. According to legend, they were created by the spare pieces that were left over when the gods finished creating all other animals. They have a long history in Japanese folklore and art, and more recently have appeared in Japanese anime and manga.

@@ -1,1 +1,0 @@
-OKAMATAPATI is a settlement in the Otjozondjupa Region of Namibia, situated south of Grootfontein and north of Otjinene.[1] The name _Okamatapati_ is derived from _Omutapati_, the Otjiherero name for the Mouse-eared combretum, a shrub that is common in the area.[2]

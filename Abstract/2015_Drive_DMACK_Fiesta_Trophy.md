@@ -1,1 +1,0 @@
-The 2015 DRIVE DMACK FIESTA TROPHY was the second season of the Drive DMACK Fiesta Trophy, an auto racing championship recognized by the Fédération Internationale de l'Automobile, running in support of the World Rally Championship. It uses Ford Fiesta R2s.

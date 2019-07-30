@@ -1,1 +1,0 @@
-MANGANESE is a chemical element with the symbol MN and atomic number 25. It is not found as a free element in nature; it is often found in minerals in combination with iron. Manganese is a transition metal with important industrial alloy uses, particularly in stainless steels.

@@ -1,1 +1,0 @@
-_QUARTET (COVENTRY) 1985_ is a live album by composer and saxophonist Anthony Braxton recorded in England in 1985, first released in heavily edited and unauthorized form on the West Wind label and later reissued in full and authorized form on the Leo label as a double CD in 1993.[1][2][3]

@@ -1,1 +1,0 @@
-This is a list of some of the cattle breeds considered in Austria to be wholly or partly of Austrian origin. Some may have complex or obscure histories, so inclusion here does not necessarily imply that a breed is predominantly or exclusively Austrian.[1]

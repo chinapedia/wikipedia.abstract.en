@@ -1,5 +1,3 @@
-St_Lucia_map.png
-
 SAINT LUCIA is one of many small land masses composing the insular group known as the Windward Islands. Unlike large limestone areas such as Florida, Cuba, and the Yucatan Peninsula, or the Bahamas, which is a small island group composed of coral and sand, St. Lucia is a typical Windward Island formation of volcanic rock that came into existence long after much of the region had already been formed.
 
 St. Lucia's physical features are notable. Dominated by high peaks and rain forests in the interior, the island is known for the twin peaks of Gros Piton and Petit Piton on the southwestern coast, its soft sandy beaches, and its magnificent natural harbors. Mount Gimie, the highest peak, is located in the central mountain range and rises to above sea level, a contrast that is also evident in the abrupt climatic transition from coastal to inland areas. The steep terrain also accentuates the many rivers that flow from central St. Lucia to the Caribbean. Fertile land holdings, which support banana farming, are scattered throughout the island.
@@ -49,8 +47,6 @@ Extreme Points
 -   _lowest point:_ Caribbean Sea 0 m
 -   _highest point:_ Mount Gimie 950 m
 
-sulfur_spring_st_lucia.JPG
-
 Natural resources
 
 Forests, sandy beaches minerals (pumice), mineral springs, geothermal potential.
@@ -73,8 +69,6 @@ St Lucia has a number of small islands located around its coast; for a full list
 Political map
 
 Quarters
-
-Sainte-Lucie_-_districts_numérotés.png
 
 The island of Saint Lucia is divided into 11 quarters:
 

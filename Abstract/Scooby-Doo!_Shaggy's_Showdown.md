@@ -1,1 +1,0 @@
-_SCOOBY-DOO! SHAGGY'S SHOWDOWN_ is a 2017 direct-to-DVD animated comedy mystery film, and the twenty-eighth entry in the direct-to-video series of Scooby-Doo films. It was released digitally on January 31, 2017[1][2][3] and was released on DVD on February 14, 2017.[4]

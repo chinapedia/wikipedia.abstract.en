@@ -1,1 +1,0 @@
-The 1995 ALL-WESTERN ATHLETIC CONFERENCE FOOTBALL TEAM consists of American football players chosen for their All-Western Athletic Conference ("WAC") teams for the 1995 NCAA Division I-A football season. Five teams dominated the 1995 All-WAC first team as follows:

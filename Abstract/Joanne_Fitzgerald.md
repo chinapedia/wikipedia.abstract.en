@@ -1,1 +1,0 @@
-JOANNE FITZGERALD was a Canadian artist, illustrator and writer. Twice-shortlisted for the Canadian Governor General's Award for Children's Illustration, her book _Dr. Kiss Says Yes_ won the award in 1991.

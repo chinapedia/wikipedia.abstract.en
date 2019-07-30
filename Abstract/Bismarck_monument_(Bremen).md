@@ -1,1 +1,0 @@
-The BISMARCK MONUMENT outside the cathedral in Bremen is a bronze figure of the former Chancellor, riding a horse. It was created in 1910, twelve years after Bismarck's death. The commission was entrusted to Adolf von Hildebrand in 1904. Since 1973 the monument has enjoyed protected status.[1]

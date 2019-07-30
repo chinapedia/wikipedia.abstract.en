@@ -1,1 +1,0 @@
-The ST. JOHN CHRYSOSTOM CHURCH[1] () It is a Catholic church in Novokuznetsk in Russia.[2] This church, dedicated to St. John Chrysostom has the distinction of hosting two parishes, one of Latin or Roman rite Byzantine rite and the other formed by the Greco-Roman parish of the Uniate. His Catholic pastor serves both rites.

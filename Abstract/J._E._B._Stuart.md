@@ -1,1 +1,0 @@
-border |image_size=225px |caption= |nickname= "Jeb", "Beauty",[1] "Knight of the Golden Spurs",[2] "J.E.B." |birth_name= James Ewell Brown Stuart |birth_place= Patrick County, Virginia |death_place= Richmond, Virginia |placeofburial= Hollywood Cemetery |placeofburial_label= |allegiance=

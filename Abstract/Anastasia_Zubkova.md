@@ -1,1 +1,0 @@
-ANASTASIYA VIKTOROVNA ZUBKOVA (Анастасия Викторовна Зубкова, born 3 February 1980) is a Russian female water polo player. She was a member of the Russia women's national water polo team. She was a part of the team at the 2004 Summer Olympics.[1] On club level she played for Uralochka Zlatoust in Russia.

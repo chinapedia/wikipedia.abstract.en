@@ -1,1 +1,0 @@
-The COMPREHENSIVE ADDICTION AND RECOVERY ACT (CARA) was signed into law by President Obama on July 22, 2016. The bill was introduced by Senator Sheldon Whitehouse and Representative Jim Sensenbrenner as the first major federal addiction act in 40 years.[1][2]

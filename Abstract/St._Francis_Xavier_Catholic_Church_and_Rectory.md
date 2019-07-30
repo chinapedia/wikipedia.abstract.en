@@ -1,1 +1,0 @@
-ST. FRANCIS XAVIER CATHOLIC CHURCH is a parish of the Roman Catholic Church located at Taos, Cole County, Missouri, United States, in the Diocese of Jefferson City. It is noted for its historic parish church and rectory.

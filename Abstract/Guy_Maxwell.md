@@ -1,1 +1,0 @@
-GUY MAXWELL (Seneca adopted name, TA-CE-WA.YA.SE; 15 July 1770, Ireland - 23 Feb 1814) was an Irish-born American pioneer. He was the first Internal Revenue Officer of the Elmira, New York region, and served as sheriff of Tioga County, Pennsylvania. He was the father and founder of the Maxwell family.

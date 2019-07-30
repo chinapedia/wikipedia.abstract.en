@@ -9,7 +9,7 @@ Air traffic is routed through several international and regional airports, the l
 
 Rail transport and AVE transport
 
-Spain-Railways.png Spanish railways date from 1848. The total route length in 2017[2] was 14,781 km (8,791 km electrified)
+Spanish railways date from 1848. The total route length in 2017[2] was 14,781 km (8,791 km electrified)
 
 -   _Iberian gauge_ (): 11,333 km (6,538 km electrified at 3 kV DC)
 -   _Standard gauge_ (): 2,571 km (all electrified at 25 kV AC)
@@ -21,8 +21,6 @@ Most railways are operated by RENFE; narrow gauge lines are operated by FEVE and
 A high-speed rail line (AVE) between Madrid and Seville was completed in 1992. In 2003, high-speed service was inaugurated on a new line from Madrid to Lleida and extended to Barcelona in 2008. The same year, lines from Madrid to Valladolid and from Córdoba to Málaga were inaugurated. In 2010, AVE line Madrid-Cuenca-Valencia was inaugurated.[3][4]
 
 Cities with metro/light rail systems
-
-Madrid_-_Estación_Concha_Espina_-_20060910.jpg Ferrocarril_urbano_en_España.svg
 
 -   Alicante (Alicante Tram)
 -   Barcelona (Barcelona Metro/Tram)
@@ -85,7 +83,7 @@ AVE´S PROJECT IN THE FUTURE:
 
 Road system
 
-Matrícula_automovilística_España_2000_7137_CHW.jpg design.]] Autovia_de_la_Meseta.jpg.]]
+design.]] .]]
 
 -   _Total:_ 681,298 km (2008)
 
@@ -159,7 +157,7 @@ Airports – with paved runways
 
 Main airports are Madrid, Barcelona, Palma de Mallorca, Málaga, Gran Canaria, Alicante and Tenerife South.
 
-iberia.a321-200.ec-jgs.arp.jpg of Spanish airline Iberia]]
+of Spanish airline Iberia]]
 
 Airports – with unpaved runways
 

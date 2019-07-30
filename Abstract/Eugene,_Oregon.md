@@ -1,1 +1,0 @@
-EUGENE ( ) is a city in the U.S. state of Oregon, in the Pacific Northwest. It is at the southern end of the verdant Willamette Valley, near the confluence of the McKenzie and Willamette Rivers, about east of the Oregon Coast.[1]

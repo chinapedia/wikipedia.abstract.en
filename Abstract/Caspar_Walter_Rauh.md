@@ -1,1 +1,0 @@
-CASPAR WALTER RAUH (13 October 1912 in Würzburg – 7 October 1983 in Kulmbach) was a German graphic artist, illustrator and painter during the post-war period. He is an important representative of the movement known as Fantastic Realism.

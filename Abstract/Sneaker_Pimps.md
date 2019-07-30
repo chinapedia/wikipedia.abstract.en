@@ -1,1 +1,0 @@
-SNEAKER PIMPS are a British trip hop band formed in Hartlepool, England, in 1994. They are best known for their first album, _Becoming X_ (1996), and the singles "6 Underground" and "Spin Spin Sugar". They took their name from an article the Beastie Boys published in their _Grand Royal_ magazine about a man they hired to track down classic sneakers.

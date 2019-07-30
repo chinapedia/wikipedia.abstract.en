@@ -1,1 +1,0 @@
-PSG ESPORTS is a French professional esports organization founded in 2016, and based in the city of Paris in France. The club is the esports department of Paris Saint-Germain Football Club. PSG Esports was officially formed on 20 October 2016 by Paris Saint-Germain president Nasser Al-Khelaifi during a press conference held at the Parc des Princes in Paris.[1]

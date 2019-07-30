@@ -1,4 +1,4 @@
-Amylose2.svg molecule]] Amylopektin_Sessel.svg molecule]] STARCH or AMYLUM is a polymeric carbohydrate consisting of a large number of glucose units joined by glycosidic bonds. This polysaccharide is produced by most green plants as energy storage. It is the most common carbohydrate in human diets and is contained in large amounts in staple foods like potatoes, wheat, maize (corn), rice, and cassava.
+molecule]] molecule]] STARCH or AMYLUM is a polymeric carbohydrate consisting of a large number of glucose units joined by glycosidic bonds. This polysaccharide is produced by most green plants as energy storage. It is the most common carbohydrate in human diets and is contained in large amounts in staple foods like potatoes, wheat, maize (corn), rice, and cassava.
 
 Pure starch is a white, tasteless and odorless powder that is insoluble in cold water or alcohol. It consists of two types of molecules: the linear and helical amylose and the branched amylopectin. Depending on the plant, starch generally contains 20 to 25% amylose and 75 to 80% amylopectin by weight.[1] Glycogen, the glucose store of animals, is a more highly branched version of amylopectin.
 
@@ -59,7 +59,7 @@ Properties
 
 Structure
 
-Stärkemehl_800_fach_Polfilter.jpg]] Rice_starch_-_microscopy.jpg starch seen on light microscope. Characteristic for the rice starch is that starch granules have an angular outline and some of them are attached to each other and form larger granules]]
+]] starch seen on light microscope. Characteristic for the rice starch is that starch granules have an angular outline and some of them are attached to each other and form larger granules]]
 
 While amylose was thought to be completely unbranched, it is now known that some of its molecules contain a few branch points.[30] Amylose is a much smaller molecule than amylopectin. About one quarter of the mass of starch granules in plants consist of amylose, although there are about 150 times more amylose than amylopectin molecules.
 
@@ -88,8 +88,6 @@ Dextrinization
 If starch is subjected to dry heat, it breaks down to form dextrins, also called "pyrodextrins" in this context. This break down process is known as dextrinization. (Pyro)dextrins are mainly yellow to brown in color and dextrinization is partially responsible for the browning of toasted bread.[36]
 
 Chemical tests
-
-Wheat_starch_granules.JPG
 
 A triiodide (I₃^(−)) solution formed by mixing iodine and iodide (usually from potassium iodide) is used to test for starch; a dark blue color indicates the presence of starch. The details of this reaction are not fully known, but recent scientific work using single crystal x-ray crystallography and comparative Raman spectroscopy suggests that the final starch-iodine structure is similar to an infinite polyiodide chain like one found in a pyrroloperylene-iodine complex.[37] The strength of the resulting blue color depends on the amount of amylose present. Waxy starches with little or no amylose present will color red. Benedict's test and Fehling's test is also done to indicate the presence of starch.
 
@@ -170,8 +168,6 @@ Resistant starch is starch that escapes digestion in the small intestine of heal
 
 
 Industrial applications
-
-AdhesivesForHouseUse006.jpg
 
 Papermaking
 

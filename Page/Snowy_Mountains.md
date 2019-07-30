@@ -7,7 +7,7 @@ The Alpine Way and Snowy Mountains Highway are the major roads through the Snowy
 
 History
 
-Kiandra_carnival_1900_Charles_Kerry.jpeg began in the goldrush town of Kiandra around 1861.]]
+began in the goldrush town of Kiandra around 1861.]]
 
 The mountain range is thought to have had Aboriginal occupation for 20,000 years. Large scale intertribal gatherings were held in the High Country during summer for collective feasting on the Bogong moth. This practice continued until around 1865.[2]
 
@@ -21,11 +21,11 @@ Recreational skiing began at Kiandra in the 1860s and experienced a boom in the 
 
 Skiing
 
-Jagungal.jpg]]
+]]
 
 The discovery of gold at Kiandra (elevation ), in 1859, briefly enticed a population of thousands above the snowline and saw the introduction of recreational skiing to the Snowy Mountains around 1861.[5] The Kiandra Goldrush was short-lived, but the township remained a service centre for recreational and survival skiing for over a century. Australia's first T-Bar was installed at Kiandra in 1957, but the ski facilities were finally shifted up the hill to Selwyn Snowfields in 1978.[6] Steeper slopes and more reliable snows lie further to the south and in the 20th Century, the focus of recreational skiing in New South Wales shifted southward, to the Mount Kosciuszko region.[7]
 
-The Kosciuszko Chalet was built at Charlotte Pass in 1930, giving relatively comfortable access to Australia's highest terrain.[8] In 1964, Australia briefly boasted the "World's Longest Chairlift", designed to carry skiers from the Thredbo Valley to Charlotte Pass, but technical difficulties soon closed the facility.[9][10] At , Charlotte Pass has the highest village base elevation of any Australia ski resort and can only be accessed via over-snow transport in winter.[11] The growing number of ski enthusiasts heading to Charlotte Pass led to the establishment of a cafe at Smiggin Holes around 1939, where horse-drawn sleighs would deliver skiers to begin the arduous ski to the Kosciusko Chalet.[12] It was the construction of the vast Snowy Mountains Hydro-Electric Scheme from 1949 that really opened up the Snowy Mountains for large scale development of a ski industry and led to the establishment of Thredbo and Perisher as leading Australian resorts.[13][14] The Construction of Guthega Dam brought skiers to the isolated Guthega district and a rope tow was installed there in 1957.[15] Charlotte_Pass_Village_in_August.jpg Skifields up by Kosciusko's side were also established during this period, though their existence is now little realised. The Australian Alpine Club was founded in 1950 by Charles Anton. Huts were constructed in the "Backcountry" close to Mount Kosciusko, including Kunama Hut, which opened for the 1953 season. A rope tow was installed on Mount Northcote at the site and opened in 1954. The site proved excellent for speed skiing, but the hut was destroyed in an avalanche, which also killed one person, in 1956.[16]
+The Kosciuszko Chalet was built at Charlotte Pass in 1930, giving relatively comfortable access to Australia's highest terrain.[8] In 1964, Australia briefly boasted the "World's Longest Chairlift", designed to carry skiers from the Thredbo Valley to Charlotte Pass, but technical difficulties soon closed the facility.[9][10] At , Charlotte Pass has the highest village base elevation of any Australia ski resort and can only be accessed via over-snow transport in winter.[11] The growing number of ski enthusiasts heading to Charlotte Pass led to the establishment of a cafe at Smiggin Holes around 1939, where horse-drawn sleighs would deliver skiers to begin the arduous ski to the Kosciusko Chalet.[12] It was the construction of the vast Snowy Mountains Hydro-Electric Scheme from 1949 that really opened up the Snowy Mountains for large scale development of a ski industry and led to the establishment of Thredbo and Perisher as leading Australian resorts.[13][14] The Construction of Guthega Dam brought skiers to the isolated Guthega district and a rope tow was installed there in 1957.[15] Skifields up by Kosciusko's side were also established during this period, though their existence is now little realised. The Australian Alpine Club was founded in 1950 by Charles Anton. Huts were constructed in the "Backcountry" close to Mount Kosciusko, including Kunama Hut, which opened for the 1953 season. A rope tow was installed on Mount Northcote at the site and opened in 1954. The site proved excellent for speed skiing, but the hut was destroyed in an avalanche, which also killed one person, in 1956.[16]
 
 Anton also recognised the potential of the Thredbo Valley for construction of a major resort and village, with good vertical terrain. Construction began in 1957.[17] Today, Thredbo has 14 ski-lifts and possesses Australia's longest ski resort run, the 5.9 km from Karel's T-Bar to Friday Flat; Australia's greatest vertical drop of 672 m; and the highest lifted point in Australia at 2037 m.[18][19]
 
@@ -33,11 +33,9 @@ The last establishment of a major skifield in NSW came with the development of M
 
 Snowy Mountains Scheme
 
-Snowy-Mountains-System_(de).png
-
 The Snowy Mountains also feed the Murrumbidgee and Murray rivers from the Tooma River, Whites River and Yarrangobilly River. The range is perhaps best known for the Snowy Mountains Scheme, a project to dam the Snowy River, providing both water for irrigation and hydroelectricity.
 
-The project began in 1949 employing 100,000 men, two-thirds of whom came from thirty other countries during the post-World War II years. Socially this project symbolises a period during which Australia became an ethnic "melting pot" of the twentieth century but which also changed Australia's character and increased its appreciation for a wide range of cultural diversity. Tumut3GeneratingStation.jpg The Scheme built several temporary towns for its construction workers, several of which have become permanent: Cabramurra (the highest town in Australia); and Khancoban. Additionally, the economy of Cooma has been sustained by the Scheme. Townships at Adaminaby, Jindabyne and Talbingo were inundated by the construction of Lakes Eucumbene, Jindabyne and Talbingo.[23][24] Improved vehicular access to the High Country enabled ski-resort villages to be constructed at Thredbo and Guthega in the 1950s by ex-Snowy Scheme workers who realised the potential for expansion of the Australian ski industry.[25]
+The project began in 1949 employing 100,000 men, two-thirds of whom came from thirty other countries during the post-World War II years. Socially this project symbolises a period during which Australia became an ethnic "melting pot" of the twentieth century but which also changed Australia's character and increased its appreciation for a wide range of cultural diversity. The Scheme built several temporary towns for its construction workers, several of which have become permanent: Cabramurra (the highest town in Australia); and Khancoban. Additionally, the economy of Cooma has been sustained by the Scheme. Townships at Adaminaby, Jindabyne and Talbingo were inundated by the construction of Lakes Eucumbene, Jindabyne and Talbingo.[23][24] Improved vehicular access to the High Country enabled ski-resort villages to be constructed at Thredbo and Guthega in the 1950s by ex-Snowy Scheme workers who realised the potential for expansion of the Australian ski industry.[25]
 
 By 1974, of underground tunnels and of aqueducts connected the sixteen dams, seven power stations (two underground), and one pumping station.[26] The American Society of Civil Engineers has rated the Snowy Scheme as "a world-class civil engineering project".
 
@@ -48,11 +46,11 @@ Geography
 
 Climate
 
-Mount_Kosciuszko_from_the_Snowy_River.jpg from the Snowy River.]] The higher regions of the park experience an alpine climate which is unusual on mainland Australia. However, only the peaks of the main range are subject to consistent heavy winter snow. The climate station at Charlotte Pass recorded Australia's lowest temperature of -23.0 °C on 28 June 1994.[27]
+from the Snowy River.]] The higher regions of the park experience an alpine climate which is unusual on mainland Australia. However, only the peaks of the main range are subject to consistent heavy winter snow. The climate station at Charlotte Pass recorded Australia's lowest temperature of -23.0 °C on 28 June 1994.[27]
 
 Glacial lakes
 
-AU_Kosciuszko_L_Cootapatamba.jpg in the characteristically U-shaped glacial valley, Kosciuszko National Park.]]
+in the characteristically U-shaped glacial valley, Kosciuszko National Park.]]
 
 Part of the mountains known as Main Range contains mainland Australia's five glacial lakes.[28] The largest of these lakes is Blue Lake, one of the headwaters of the Snowy River. The other four glacial lakes are Lake Albina, Lake Cootapatamba, Club Lake and Headley Tarn.
 
@@ -64,8 +62,6 @@ There is evidence of periglacial activity in the area. Solifluction appears to h
 
 
 Ecology
-
-Snow_Gum_on_the_Dead_Horse_Gap_Walk.jpg
 
 The Snowy Mountains cover a variety of climatic regions which support several distinct ecosystems. The alpine area above the tree line is one of the most fragile and covers the smallest area. This area is a patchwork of alpine heaths, herbfields, feldmarks, bogs and fens. The windswept feldmark ecotope is endemic to the alpine region, and covers a mere . It is most vulnerable to the wandering footsteps of unmindful tourists.
 
@@ -81,7 +77,7 @@ The high country is dominated by alpine woodlands, characterised by the snow gum
 
 Snowy Mountain Bushfires
 
-In summer 2003, the Australian Alps experienced their largest bushfires for over 60 years with an estimated 1.73 million hectares burning. The bushfires burnt across Victoria, New South Wales (NSW) and the Australian Capital Territory (ACT) during a drought that ranks as one of the worst in 103 years of official Australian weather records[33]. Fires are a natural feature of the park's ecosystem, but it will take some time for the region to return to its pre-2003 condition. 2003_Bushfires_aftermath_near_Anglers_Rest.jpg showing the burnt out hillsides alongside the Omeo Highway, near Anglers Rest, Victoria, Australia.]] In November 2004, a committee "The Snowy Mountains Bushfire Recovery Taskforce" was set up by the NSW State Premier's Department to help residents in the region recover from the fires. The Taskforce commissioned Louise Darmody from Sound Memories to produce a documentary involving 26 people from the Snowy Mountains to talk about their experiences[34].The interviewees included farmers, school children, volunteers and employees from the NSW Rural Fire Service and National Park Snowy Hydro[35].
+In summer 2003, the Australian Alps experienced their largest bushfires for over 60 years with an estimated 1.73 million hectares burning. The bushfires burnt across Victoria, New South Wales (NSW) and the Australian Capital Territory (ACT) during a drought that ranks as one of the worst in 103 years of official Australian weather records[33]. Fires are a natural feature of the park's ecosystem, but it will take some time for the region to return to its pre-2003 condition. showing the burnt out hillsides alongside the Omeo Highway, near Anglers Rest, Victoria, Australia.]] In November 2004, a committee "The Snowy Mountains Bushfire Recovery Taskforce" was set up by the NSW State Premier's Department to help residents in the region recover from the fires. The Taskforce commissioned Louise Darmody from Sound Memories to produce a documentary involving 26 people from the Snowy Mountains to talk about their experiences[34].The interviewees included farmers, school children, volunteers and employees from the NSW Rural Fire Service and National Park Snowy Hydro[35].
 
 
 See also

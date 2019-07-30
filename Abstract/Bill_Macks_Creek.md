@@ -1,1 +1,0 @@
-BILL MACKS CREEK is a stream in Douglas County, Missouri.[1] The stream headwaters lie just east of Basher and the junction of Missouri Route 76 with Missouri Route U. The stream flows east-southeast to its confluence with Bryant Creek.[2]

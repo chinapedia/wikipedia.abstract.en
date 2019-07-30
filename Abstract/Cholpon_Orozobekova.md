@@ -1,1 +1,0 @@
-Cholpon_Orozobekova.jpg

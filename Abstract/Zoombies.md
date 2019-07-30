@@ -1,1 +1,0 @@
-_ZOOMBIES_ is a 2016 American made-for-television science fiction action horror film directed by Glenn R. Miller and written by Scotty Mullen. The story follows a small staff and some visitors of a to-be-opened zoo affected by a mysterious virus which turns the animals into meat-seeking aggressive zombies.

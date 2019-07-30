@@ -1,1 +1,0 @@
-require('Module:No globals')

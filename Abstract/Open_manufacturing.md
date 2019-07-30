@@ -1,1 +1,0 @@
-OPEN MANUFACTURING, also known as OPEN PRODUCTION, MAKER MANUFACTURING, and with the slogan "Design Global, Manufacture Local" is a new model of socioeconomic production in which physical objects are produced in an open, collaborative and distributed manner[1] [2] and based on open design and open source principles.

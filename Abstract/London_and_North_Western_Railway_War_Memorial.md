@@ -1,1 +1,0 @@
-The LONDON AND NORTH WESTERN RAILWAY WAR MEMORIAL is a First World War memorial outside Euston railway station in central London, England. The memorial was designed by Reginald Wynn Owen, architect to the London and North Western Railway (LNWR) and commemorates employees of the LNWR who were killed in the First World War. The memorial is today a grade II* listed building.[1]

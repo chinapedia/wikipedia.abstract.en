@@ -1,1 +1,0 @@
-AYODELE CASEL (born June 5)[1] is an American actress, tap dancer and choreographer. Raised in Puerto Rico, she derived inspiration for her tap style from salsa music. While in college, she studied with Baakari Wilder and Charles Goddertz. She became the first, and remains the only, woman to be a member of Savion Glover's Not Your Ordinary Tappers.

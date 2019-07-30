@@ -1,1 +1,0 @@
-ULULANI LEWAI PELEIŌHŌLANI BAKER (1858 – October 5, 1902) was a Hawaiian high chiefess and the last Governess of the island of Hawaii from 1886 to 1888. During her tenure, she was given the honorific Her Excellency, the Governess of Hawaii.[1]

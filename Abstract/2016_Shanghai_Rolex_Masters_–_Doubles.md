@@ -1,1 +1,0 @@
-Raven Klaasen and Marcelo Melo were the defending champions, but decided not to participate together. Klaasen teamed up with Rajeev Ram, but they lost to Jo-Wilfried Tsonga and Nenad Zimonjić in the second round. Melo played alongside Łukasz Kubot, but they lost to Pablo Cuevas and Marcel Granollers in the second round.

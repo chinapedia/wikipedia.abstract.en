@@ -1,1 +1,0 @@
-The LIBERAL PARTY OF AUSTRALIA is a major centre-right political party in Australia, one of the two major parties in Australian politics, along with the centre-left Australian Labor Party (ALP). It was founded in 1944 as the successor to the United Australia Party (UAP).[1]

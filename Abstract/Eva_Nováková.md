@@ -1,1 +1,0 @@
-EVA NOVÁKOVÁ (born 18 January 1938) is a Czech politician. Having served in the Federal Assembly of Czechoslovakia, she went on to serve in the Chamber of Deputies of the Parliament of the Czech Republic before representing Kroměříž as a senator from 1996 to 1998.[1]

@@ -1,1 +1,0 @@
-KNUD JOHAN VICTOR RASMUSSEN (; 7 June 1879 – 21 December 1933) was a Greenlandic–Danish polar explorer and anthropologist. He has been called the "father of Eskimology"[1] and was the first European to cross the Northwest Passage via dog sled.[2] He remains well known in Greenland, Denmark and among Canadian Inuit.[3]

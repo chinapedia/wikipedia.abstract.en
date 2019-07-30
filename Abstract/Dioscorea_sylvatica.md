@@ -1,1 +1,0 @@
-_DIOSCOREA SYLVATICA_ ("FOREST ELEPHANTS FOOT") is a species of a twining tuberous vine that is native to Africa. It is common and widespread in forest and thicket, throughout the summer rainfall areas of East and Southern Africa.

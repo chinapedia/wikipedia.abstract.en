@@ -1,1 +1,0 @@
-MOS TECHNOLOGY, INC. ("MOS" being short for Metal Oxide Semiconductor, stylized as ⦀●≡), also known as CSG (COMMODORE SEMICONDUCTOR GROUP), was a semiconductor design and fabrication company based in Norristown, Pennsylvania, in the United States. It is most famous for its 6502 microprocessor and various designs for Commodore International's range of home computers.

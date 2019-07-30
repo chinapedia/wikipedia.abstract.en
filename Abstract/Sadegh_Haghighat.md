@@ -1,1 +1,0 @@
-Seyed SADEGH HAGHIGHAT has graduated in Political Thought from TM University in Tehran, and studied at the Islamic Seminaries from 1981 to 2004. Currently, he is a full professor at, and the head of, the department of political science at Mofid University in Qom. He has participated in several international academic conferences.

@@ -1,1 +1,0 @@
-_LUKE CAGE (ORIGINAL SOUNDTRACK ALBUM)_ is the soundtrack album to the 2016 first season of the web television series _Luke Cage_, featuring music composed by Adrian Younge and Ali Shaheed Muhammad. The soundtrack was released on October 7, 2016, digitally and with a vinyl release by Mondo.

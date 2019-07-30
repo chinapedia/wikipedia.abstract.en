@@ -1,1 +1,0 @@
-The VÄNEKO is an endangered Swedish breed of dairy cattle. It is named for the village of Väne-Ryr in the landskap of Västergötland, in western Sweden. It is a traditional domestic Swedish breed, and derives from a group of cattle discovered in the 1990s, at a time when all traditional Swedish horned cattle were thought to have disappeared.

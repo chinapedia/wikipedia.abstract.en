@@ -1,1 +1,0 @@
-CRISTINA ALESCI is a CNN and CNNMoney correspondent based out of the network’s New York bureau.[1] She covers breaking news for the network as well as financial fraud and controversies facing major companies. Her investigative series focuses on public policy issues of the 2016 election cycle, food production, and documenting the early struggles of successful leaders.[2]

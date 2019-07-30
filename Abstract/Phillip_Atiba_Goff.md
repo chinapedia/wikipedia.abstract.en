@@ -1,1 +1,0 @@
-PHILLIP ATIBA GOFF is an African-American psychologist known for researching the relationship between race and policing in the United States.[1] He was appointed the inaugural Franklin A. Thomas Professor in Policing Equity at the John Jay College of Criminal Justice in 2016, the college's first endowed professorship.

@@ -1,1 +1,0 @@
-The HITTITES () were an Anatolian people who played an important role in establishing an empire centered on Hattusa in north-central Anatolia around 1600 BC. This empire reached its height during the mid-14th century BC under Suppiluliuma I, when it encompassed an area that included most of Anatolia as well as parts of the northern Levant and Upper Mesopotamia.

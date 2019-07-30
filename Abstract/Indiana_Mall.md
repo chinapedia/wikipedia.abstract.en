@@ -1,1 +1,0 @@
-INDIANA MALL is a one-level indoor regional mall located in Indiana, Pennsylvania. It has of retail space, and has over 50 stores. It is located on the western edge of town near the intersection of Oakland Ave (PA 286) and Indian Springs Road (US 422 Business).

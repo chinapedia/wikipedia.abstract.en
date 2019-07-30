@@ -5,8 +5,6 @@ Undergraduate and graduate programs at SFU operate on a year-round, three-semest
 
 History
 
-Sfu_1967.jpg Gordon_m_shrum.jpg
-
 Founding
 
 Simon Fraser University was founded upon the recommendation of a 1962 report entitled _Higher Education in British Columbia and a Plan for the Future_, by John B. Macdonald. He recommended the creation of a new university in the Lower Mainland and the British Columbia Legislature gave formal assent on March 1, 1963 for the establishment of the university in Burnaby.[7] The university was named after Simon Fraser, a North West Company fur trader and explorer. The original name of the school was Fraser University, but was changed because the initials "FU" evoked the profane phrase "fuck you".[8][9] In May of the same year, Gordon M. Shrum was appointed as the university's first chancellor. From a variety of sites that were offered, Shrum recommended to the provincial government that the summit of Burnaby Mountain, 365 meters above sea level, be chosen for the new university. Architects Arthur Erickson and Geoffrey Massey won a competition to design the university, and construction began in the spring of 1964. The campus faces northwest over Burrard Inlet. Eighteen months later, on September 9, 1965, the university began its first semester[10] with 2,500 students.
@@ -57,7 +55,7 @@ SFU also offers non-credit programs and courses to adult students. , SFU Continu
 
 Staff unions
 
-Sfu-maggie-benson.jpg Teaching assistants, tutor markers, sessional instructors, and language instructors at SFU are unionized. The union, the Teaching Support Staff Union (TSSU), is independent. Faculty and lecturers are members of the Faculty Association. Staff are members of the Canadian Union of Public Employees (CUPE), the Administrative and Professional Staff Association (APSA), or Polyparty. A few positions at the university such as some in Human Resources and senior administrative positions fall outside of the five associations or unions above.
+Teaching assistants, tutor markers, sessional instructors, and language instructors at SFU are unionized. The union, the Teaching Support Staff Union (TSSU), is independent. Faculty and lecturers are members of the Faculty Association. Staff are members of the Canadian Union of Public Employees (CUPE), the Administrative and Professional Staff Association (APSA), or Polyparty. A few positions at the university such as some in Human Resources and senior administrative positions fall outside of the five associations or unions above.
 
 Under the current president, Andrew Petter, SFU's administration has incurred a number of grievances and bad faith bargaining judgments.[25][26][27] During their most recent rounds of bargaining, both the TSSU and CUPE local 3338 resorted to job action, and the BC Labour Relations Board found SFU's administration to be bargaining in bad faith with the CUPE local.[28] Conflicts since then include unpaid wages (in Fall 2013, 18% of TSSU members reported that they were not paid on the first payday; by the term's third payday, some members still had not received their wages),[29] and a health plan, redundant with the provincial health plan available to all international students after their first three months in-province and costing double a prior plan's cost, in which international students are automatically enrolled.[30]
 
@@ -78,7 +76,7 @@ SFU also works with other universities and agencies to operate joint research fa
 
 Campuses
 
-SFU_Aerial.jpg Simon Fraser University has three campuses, each located in different parts of Greater Vancouver. SFU's original campus is located in Burnaby, atop Burnaby Mountain. The Vancouver campus consists of multiple buildings in downtown Vancouver and the Surrey campus is located inside Central City Shopping Centre.
+Simon Fraser University has three campuses, each located in different parts of Greater Vancouver. SFU's original campus is located in Burnaby, atop Burnaby Mountain. The Vancouver campus consists of multiple buildings in downtown Vancouver and the Surrey campus is located inside Central City Shopping Centre.
 
 The downtown campus has expanded to include several other buildings in recent years, including the Segal Graduate School of Business. In September 2010, SFU Contemporary Arts[43] moved into the Woodward's redevelopment, known as the Goldcorp Centre for the Arts.
 
@@ -86,7 +84,7 @@ SFU's three campuses are all accessible by public transit. The Vancouver campus 
 
 Burnaby campus
 
-Simon-fraser-university-night.jpg SFU_AQ_Gardens.jpg Sfu-academic-quadrangle-hall.jpg Blusson_Hall.jpg TASC1.jpg The main campus is located atop Burnaby Mountain, at an elevation of 365 metres, overlooking the Burrard inlet to the north. All major departments in the university are housed at the Burnaby campus. The library on the main campus is called the W. A. C. Bennett Library, named after the Social Credit Premier of B.C. who established it. The campus also has two gym-complexes, named the Lorne-Davies Complex and Chancellor's Gym. An international-sized swimming pool is located within the Lorne-Davies Complex. Since the relocation of the School of Contemporary Arts to the Woodward's location, the Burnaby campus production theatre has been vacant. Located within the heart of the campus is the Museum of Archaeology and Ethnology and three art galleries. The campus has been awarded numerous architectural awards over the years, including the Gold Medal for Lieutenant-Governor 2009 Awards in Architecture and the 2007 Royal Architectural Institute of Canada's Prix du XXe siècle.[44][45]
+The main campus is located atop Burnaby Mountain, at an elevation of 365 metres, overlooking the Burrard inlet to the north. All major departments in the university are housed at the Burnaby campus. The library on the main campus is called the W. A. C. Bennett Library, named after the Social Credit Premier of B.C. who established it. The campus also has two gym-complexes, named the Lorne-Davies Complex and Chancellor's Gym. An international-sized swimming pool is located within the Lorne-Davies Complex. Since the relocation of the School of Contemporary Arts to the Woodward's location, the Burnaby campus production theatre has been vacant. Located within the heart of the campus is the Museum of Archaeology and Ethnology and three art galleries. The campus has been awarded numerous architectural awards over the years, including the Gold Medal for Lieutenant-Governor 2009 Awards in Architecture and the 2007 Royal Architectural Institute of Canada's Prix du XXe siècle.[44][45]
 
 The Burnaby campus is composed of a vast complex of interconnected buildings spanning across of land on Burnaby Mountain, from the eastern end of the campus to the western side, where the UniverCity urban village is located. The campus consists of the following buildings:
 
@@ -154,7 +152,7 @@ Vancouver campus
 
 The Vancouver campus was launched in the 1980s with a store-front classroom. It was the first urban university classroom in British Columbia. A significant portion of funding for the building of the campus came from the private sector. The Vancouver campus has four buildings spread across the downtown core: SFU Harbour Centre, the Morris J Wosk Centre for Dialogue, the Segal Graduate School of Business and SFU Contemporary Arts at the restored Woodward's Building. The original campus building at Harbour Centre, a rebuilt heritage department store, officially opened on May 5, 1989. Today, the entire campus serves more than 70,000 people annually. Approximately 10,000 are graduate and undergraduate students enrolled in courses and degree programs based downtown. The Belzberg Library[61] is based at the Vancouver campus.
 
-In September 2010, SFU Contemporary Arts relocated to the historic Woodward's district in downtown Vancouver known as the Goldcorp Centre for the Arts. The SFU facility is part of the Woodward's revitalization project. The new facility accommodates the increasing enrollment of students in the programme and new cultural facilities, including the Fei and Milton Wong Experimental theatre, screening rooms, sound studios, and art galleries. Morris_J._Wosk_Centre_for_Dialogue_02.JPG
+In September 2010, SFU Contemporary Arts relocated to the historic Woodward's district in downtown Vancouver known as the Goldcorp Centre for the Arts. The SFU facility is part of the Woodward's revitalization project. The new facility accommodates the increasing enrollment of students in the programme and new cultural facilities, including the Fei and Milton Wong Experimental theatre, screening rooms, sound studios, and art galleries.
 
 
 Student life and athletics
@@ -188,7 +186,7 @@ Co-ed Professional Fraternities:
 
 Athletics
 
-SFU_McFog_vectorized.png The university's varsity sports teams are called the Simon Fraser Clan, and the mascot is a Scottish Terrier named McFogg the Dog. In sports and other competitions, there tends to be a strong rivalry between SFU and The University of British Columbia.
+The university's varsity sports teams are called the Simon Fraser Clan, and the mascot is a Scottish Terrier named McFogg the Dog. In sports and other competitions, there tends to be a strong rivalry between SFU and The University of British Columbia.
 
 The Clan is the first and currently the only athletic program from outside of the United States that competes in the National Collegiate Athletic Association (NCAA).[65] Before joining the NCAA, the Clan used to compete in both the Canadian Interuniversity Sports (CIS, now U Sports) and the National Association of Intercollegiate Athletics (NAIA). In total, SFU has 15 varsity sport teams and 300 athletes. All varsity teams compete for their respective NCAA national championships, except for the Women's Wrestling team who competes for the Women's College Wrestling Association's national championship.
 
@@ -205,7 +203,7 @@ The University is governed in accordance with the British Columbia _University A
 
 Convocation
 
-The convocation is composed of all faculty members, senators, and graduates (degree holders, including honorary alumni) of the university. Its main function is to elect the 4 convocation senators. Convocation ceremonies are held twice annually to confer degrees (including honorary degrees) as well as award diplomas and certificates. Carole_Taylor_2011.jpg
+The convocation is composed of all faculty members, senators, and graduates (degree holders, including honorary alumni) of the university. Its main function is to elect the 4 convocation senators. Convocation ceremonies are held twice annually to confer degrees (including honorary degrees) as well as award diplomas and certificates.
 
 Board of governors
 
@@ -271,7 +269,7 @@ Alumni
 
 Terry Fox
 
-Terry_fox_statue.jpg in the Academic Quadrangle gardens]] Terry Fox was a notable alumnus of SFU. Diagnosed with bone cancer, which resulted in the amputation of his leg, the 18-year-old kinesiology major set out to run across Canada in the Marathon of Hope to raise funding and awareness about cancer. As a result of Terry Fox's legacy, running for charitable causes is now integrated within communities worldwide. He also inspired friend Rick Hansen's Man in Motion world tour by wheelchair. In 2001, SFU conferred an honorary degree to Betty Fox, mother of Terry Fox and Honorary Chair of the Terry Fox Foundation.
+in the Academic Quadrangle gardens]] Terry Fox was a notable alumnus of SFU. Diagnosed with bone cancer, which resulted in the amputation of his leg, the 18-year-old kinesiology major set out to run across Canada in the Marathon of Hope to raise funding and awareness about cancer. As a result of Terry Fox's legacy, running for charitable causes is now integrated within communities worldwide. He also inspired friend Rick Hansen's Man in Motion world tour by wheelchair. In 2001, SFU conferred an honorary degree to Betty Fox, mother of Terry Fox and Honorary Chair of the Terry Fox Foundation.
 
 Notable alumni
 
@@ -344,7 +342,7 @@ RHODES SCHOLARS
 
 Appearances in popular culture
 
-Library-SFU-Burnaby-British-Columbia-Canada-02A.jpg Due to the contemporary Brutalist architecture of the Burnaby Mountain campus, many buildings, including the WAC Bennett Library and Academic Quadrangle have been used for location shots in a variety of films and television programmes over the years.[95]
+Due to the contemporary Brutalist architecture of the Burnaby Mountain campus, many buildings, including the WAC Bennett Library and Academic Quadrangle have been used for location shots in a variety of films and television programmes over the years.[95]
 
 In film
 

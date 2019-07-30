@@ -1,1 +1,0 @@
-A SLOW FIRE is a term used in library and information science to describe paper embrittlement resulting from acid decay. The term is taken from the title of Terry Sanders' 1987 film _Slow Fires: On the preservation of the human record._

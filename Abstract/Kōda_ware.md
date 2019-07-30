@@ -1,1 +1,0 @@
-Flask-shaped_Vase,_Yatsushiro_ware,_Edo_period,_18th_century,_chrysanthemum_design_in_inlay_-_Tokyo_National_Museum_-_DSC05288.JPG Squared_Sake_Bottle_(tokkuri)_with_Floral_Designs_LACMA_M.2007.226.24.jpg is a type of Japanese pottery traditionally from Yatsushiro, Kumamoto prefecture. It is also known as .

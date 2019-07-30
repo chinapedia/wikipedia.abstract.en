@@ -1,1 +1,0 @@
-Patriarch Constantine of Constantinople}}

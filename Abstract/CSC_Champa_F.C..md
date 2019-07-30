@@ -1,1 +1,0 @@
-_' CSC Champa Football Club_' (Laosຊີເອັສຊີ ຈຳປາ) is a professional football club, based in Pakse, Laos, that plays in the Lao Premier League, the highest division in Laotian football. The club plays its home matches at the Champasak Stadium, which holds 12,000 people.

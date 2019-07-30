@@ -25,15 +25,13 @@ The Ontong Java Plateau has an area of about , and the province was at least 50%
 
 Massive explosive eruptions
 
-HotspotsSRP_update2013.JPG
-
 Volcanic eruptions are classified using the Volcanic Explosivity Index, or VEI. It is a logarithmic scale, which means that an increase of one in VEI number is equivalent to a tenfold increase in volume of erupted material. VEI 7 or VEI 8 eruptions are so powerful that they often form circular calderas rather than cones because the downward withdrawal of magma causes the overlying rock mass to collapse into the empty magma chamber beneath it.
 
-Toba_overview.jpg, the site of a VEI 8 eruption c. 75,000 years ago.]]
+, the site of a VEI 8 eruption c. 75,000 years ago.]]
 
 Known super eruptions
 
-Long_Valley_Caldera_cross_section.svg.]]
+.]]
 
 VEI 8
 

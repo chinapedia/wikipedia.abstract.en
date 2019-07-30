@@ -1,1 +1,0 @@
-CALRETICULIN also known as CALREGULIN, CRP55, CABP3, CALSEQUESTRIN-LIKE PROTEIN, and ENDOPLASMIC RETICULUM RESIDENT PROTEIN 60 (ERp60) is a protein that in humans is encoded by the _CALR_ gene.[1][2]

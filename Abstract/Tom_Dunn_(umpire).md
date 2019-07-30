@@ -1,1 +1,0 @@
-THOMAS PATRICK "TOM" DUNN (March 15, 1900 – January 20, 1976) was a professional baseball umpire who worked in the National League from 1939 to 1946. Dunn umpired 1146 regular season Major League Baseball (MLB) games in his 8-year career. He also umpired in the 1944 World Series and the 1943 All-Star Game.[1]

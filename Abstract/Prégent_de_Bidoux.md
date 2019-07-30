@@ -1,1 +1,0 @@
-PRÉGENT DE BIDOUX (c 1468 - 1528) was a French admiral, his name is also spelled Pregeant de Bidoux in some sources and he was also known as Peri Joan or Perrianni (a folk pronunciation of Prester John)

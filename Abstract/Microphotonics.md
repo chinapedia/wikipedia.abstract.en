@@ -1,1 +1,0 @@
-MICROPHOTONICS is a branch of technology that deals with directing light on a microscopic scale and is used in optical networking. Particularly, it refers to the branch of technology that deals with wafer-level integrated devices and systems that emit, transmit, detect, and process light along with other forms of radiant energy with photon as the quantum unit.[1]

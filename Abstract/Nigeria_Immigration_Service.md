@@ -1,1 +1,0 @@
-The NIGERIA IMMIGRATION SERVICE (NIS) was extracted from the Nigeria Police Force (NPF) in August, 1958. It was at that time referred to as the Immigration Department and headed by the Chief Federal Immigration Officer (CFIO).

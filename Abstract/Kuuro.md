@@ -1,1 +1,0 @@
-KUURO (stylised KUURO) is an electronic music duo consisting of Dutch producer Jordin Post and American DJ Luke Shipstad.[1][2][3][4] The duo revealed themselves as the producers behind the name in May 2017 during an episode of Monstercat's _Call of the Wild_ radio program.[5]

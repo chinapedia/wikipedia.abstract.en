@@ -7,7 +7,7 @@ It is the most active volcanic centre in the South Aegean Volcanic Arc, though w
 
 Names
 
-Fira_town.jpg, main town of Santorini]]
+, main town of Santorini]]
 
 Santorini was named by the Latin Empire in the thirteenth century, and is a reference to Saint Irene, from the name of the old cathedral in the village of Perissa – the name Santorini is a contraction of the name Santa Irini.[5] Before then, it was known as Kallístē (Καλλίστη, _"the most beautiful one"_), Strongýlē (, _"the circular one"_),[6] or Thēra. The name _Thera_ was revived in the nineteenth century as the official name of the island and its main city, but the colloquial name _Santorini_ is still in popular use.
 
@@ -20,7 +20,7 @@ Oia is now called a (community), within the municipality of Thera, and it consis
 
 The municipality of Thera includes an additional 12 local subdivisions on Santorini island: Akrotiri, Emporio, Episkopis Gonia, Exo Gonia, Imerovigli, Karterados, Megalohori, Mesaria, Pyrgos Kallistis, Thera (the seat of the municipality), Vothon, and Vourvoulos.[10]
 
-Santorini_Landsat.jpg. The large island to the east is Thera, with Aspronisi and Therasia making up the rest of the caldera ring, clockwise. In the centre is the larger Nea Kameni and the smaller Palea Kameni.]]
+. The large island to the east is Thera, with Aspronisi and Therasia making up the rest of the caldera ring, clockwise. In the centre is the larger Nea Kameni and the smaller Palea Kameni.]]
 
 
 Economy
@@ -40,13 +40,13 @@ Volcanism
 
 Volcanism on Santorini is due to the Hellenic Trench subduction zone southwest of Crete. The oceanic crust of the northern margin of the African Plate is being subducted under Greece and the Aegean Sea, which is thinned continental crust. The subduction compels the formation of the Hellenic arc, which includes Santorini and other volcanic centres, such as Methana, Milos, and Kos.[11]
 
-Santorini_3D_version_1.gif aerial spinning view of Santorini island]]
+aerial spinning view of Santorini island]]
 
-Santorini_NeaKameni_tango7174.jpg The island is the result of repeated sequences of shield volcano construction followed by caldera collapse.[12] The inner coast around the caldera is a sheer precipice of more than drop at its highest, and exhibits the various layers of solidified lava on top of each other, and the main towns perched on the crest. The ground then slopes outwards and downwards towards the outer perimeter, and the outer beaches are smooth and shallow. Beach sand colour depends on which geological layer is exposed; there are beaches with sand or pebbles made of solidified lava of various colours: such as the Red Beach, the Black Beach and the White Beach. The water at the darker coloured beaches is significantly warmer because the lava acts as a heat absorber.
+The island is the result of repeated sequences of shield volcano construction followed by caldera collapse.[12] The inner coast around the caldera is a sheer precipice of more than drop at its highest, and exhibits the various layers of solidified lava on top of each other, and the main towns perched on the crest. The ground then slopes outwards and downwards towards the outer perimeter, and the outer beaches are smooth and shallow. Beach sand colour depends on which geological layer is exposed; there are beaches with sand or pebbles made of solidified lava of various colours: such as the Red Beach, the Black Beach and the White Beach. The water at the darker coloured beaches is significantly warmer because the lava acts as a heat absorber.
 
 The area of Santorini incorporates a group of islands created by volcanoes, spanning across Thera, Thirasia, Aspronisi, Palea, and Nea Kameni.
 
-Viewing_Fira_from_Nea_Kameni.JPG volcanic Island]]
+volcanic Island]]
 
 Santorini has erupted many times, with varying degrees of explosivity. There have been at least twelve large explosive eruptions, of which at least four were caldera-forming.[13] The most famous eruption is the Minoan eruption, detailed below. Eruptive products range from basalt all the way to rhyolite, and the rhyolitic products are associated with the most explosive eruptions.
 
@@ -54,15 +54,13 @@ The earliest eruptions, many of which were submarine, were on the Akrotiri Penin
 
 Over the past 360,000 years there have been two major cycles, each culminating with two caldera-forming eruptions. The cycles end when the magma evolves to a rhyolitic composition, causing the most explosive eruptions. In between the caldera-forming eruptions are a series of sub-cycles. Lava flows and small explosive eruptions build up cones, which are thought to impede the flow of magma to the surface.[15] This allows the formation of large magma chambers, in which the magma can evolve to more silicic compositions. Once this happens, a large explosive eruption destroys the cone. The Kameni islands in the centre of the lagoon are the most recent example of a cone built by this volcano, with much of them hidden beneath the water.
 
-ISS017-E-5037_lrg.jpg
-
 Minoan eruption
 
 The devastating volcanic eruption of Thera has become the most famous single event in the Aegean before the fall of Troy. It may have been one of the largest volcanic eruptions on Earth in the last few thousand years, with an estimated VEI (volcanic explosivity index) of 6 according to the last studies published in 2006, confirming the prior values. The violent eruption was centred on a small island just north of the existing island of Nea Kameni in the centre of the caldera; the caldera itself was formed several hundred thousand years ago by the collapse of the centre of a circular island, caused by the emptying of the magma chamber during an eruption. It has been filled several times by ignimbrite since then, and the process repeated itself, most recently 21,000 years ago. The northern part of the caldera was refilled by the volcano, then collapsed once more during the Minoan eruption. Before the Minoan eruption, the caldera formed a nearly continuous ring with the only entrance between the tiny island of Aspronisi and Thera; the eruption destroyed the sections of the ring between Aspronisi and Therasia, and between Therasia and Thera, creating two new channels.
 
 On Santorini, a deposit of white tephra thrown from the eruption is found lying up to thick, overlying the soil marking the ground level before the eruption, and forming a layer divided into three fairly distinct bands indicating different phases of the eruption. Archaeological discoveries in 2006 by a team of international scientists revealed that the Santorini event was much more massive than previously thought; it expelled of magma and rock into the Earth's atmosphere, compared to previous estimates of only in 1991,[16][17] producing an estimated of tephra. Only the Mount Tambora volcanic eruption of 1815, the 181 AD eruption of Lake Taupo, and possibly Baekdu Mountain's 969 AD eruption have released more material into the atmosphere during the past 5,000 years.
 
-SantoriniPartialPano.jpg, taken from Oia.
+, taken from Oia.
 
 ]]
 
@@ -96,7 +94,7 @@ History
 
 Minoan Akrotiri
 
-Fresque_du_printemps,_Akrotiri,_Grèce.jpg from the Bronze Age, Akrotiri]] Saffron_gatherersSantorini-3.jpg-gatherers"]]
+from the Bronze Age, Akrotiri]] -gatherers"]]
 
 Excavations starting in 1967 at the Akrotiri site under the late Professor Spyridon Marinatos have made Thera the best-known Minoan site outside of Crete, homeland of the culture. The island was not known as Thera at this time. Only the southern tip of a large town has been uncovered, yet it has revealed complexes of multi-level buildings, streets, and squares with remains of walls standing as high as eight metres, all entombed in the solidified ash of the famous eruption of Thera. The site was not a palace-complex as found in Crete, but neither was it a conglomeration of merchants' warehousing, as its excellent masonry and fine wall-paintings show. A loom-workshop suggests organized textile weaving for export. This Bronze Age civilization thrived between 3000 and 2000 BC, reaching its peak in the period between 2000 and 1630 BC.[32]
 
@@ -112,15 +110,13 @@ The oldest signs of human settlement are Late Neolithic (4th millennium BC or ea
 
 Dating of the Bronze Age eruption
 
-Stoa_Basilica.jpg Santorini_-_Grecia_-_Vista_Aerea_del_promontorio_di_Ancient_Thira_-_agosto_2018.jpg
-
 The Minoan eruption provides a fixed point for the chronology of the second millennium BC in the Aegean, because evidence of the eruption occurs throughout the region and the site itself contains material culture from outside. The eruption occurred during the "Late Minoan IA" period at Crete and the "Late Cycladic I" period in the surrounding islands.
 
 Archaeological evidence, based on the established chronology of Bronze Age Mediterranean cultures, dates the eruption to around 1500 BC.[34] These dates, however, conflict with radiocarbon dating which indicates that the eruption occurred at about 1645–1600 BC.[35] For those, and other, reasons, the date of the eruption is disputed. For discussion, see Minoan eruption#Eruption dating.
 
 Ancient period
 
-Cultural_Centre_Megaro_Gyzi_04.jpg]] Skaros_Rock.jpg, originally the location of medieval fortifications]] Oia-Santorini-Greece.jpg is considered the oldest settlement on the island.]] Episkopi_Gonias_(2797558143).jpg]] GR-santorini-pyrgos.jpg village]] Santorini_pyrgos_kastellkirche_160707.jpg village]]
+]] , originally the location of medieval fortifications]] is considered the oldest settlement on the island.]] ]] village]] village]]
 
 Santorini remained unoccupied throughout the rest of the Bronze Age, during which time the Greeks took over Crete. At Knossos, in a LMIIIA context (14th century BC), seven Linear B texts while calling upon "all the gods" make sure to grant primacy to an elsewhere-unattested entity called _qe-ra-si-ja_ and, once, _qe-ra-si-jo_. If the endings _-ia[s]_ and _-ios_ represent an ethnic suffix, then this means "The One From Qeras[os]". If the initial consonant were aspirated, then *Qhera- would have become "Thera-" in later Greek. "Therasia" and its ethnikon "Therasios" are both attested in later Greek; and, since _-sos_ was itself a genitive suffix in the Aegean Sprachbund, *Qeras[os] could also shrink to *Qera. An alternate view takes _qe-ra-si-ja_ and _qe-ra-si-jo_ as proof of androgyny, and applies this name by similar arguments to the legendary seer, Tiresias, but these views are not mutually exclusive. If _qe-ra-si-ja_ was an ethnikon first, then in following him/her/it the Cretans also feared whence it came.[36]
 
@@ -151,17 +147,13 @@ Tourism
 
 The 1956 Amorgos earthquake resulted in the demolition of many buildings in the north of Santorini, leading to the desertion of many of its villages. The expansion of tourism has resulted in the growth of the economy and population. The major settlements include Fira (Phira), Oia, Emporio, Kamari, Perissa, Imerovigli, Pyrgos, and Therasia. Akrotiri is a major archaeological site, with ruins from the Minoan era. Santorini's primary industry is tourism, particularly in the summer months. In 2007, the cruise ship _MS Sea Diamond_ ran aground and sank inside the caldera. The island's pumice quarries have been closed since 1986, in order to preserve the caldera. Santorini was ranked the world's top island for many magazines and travel sites, including the _Travel+Leisure Magazine_,[46] the _BBC_,[47] as well as the _US News_.[48] An estimated 2 million tourists visit annually.[49]
 
-Santorini-20070808-058248-panorama-small.jpg
-
 Aridity
-
-Firostefani.jpg Streets_of_Firostefani,_Santorini_island_(Thira),_Greece-2.jpg
 
 Santorini has no rivers, and water is scarce. Until the early 1990s locals filled water cisterns from the rain that fell on roofs and courts, from small springs, and with imported assistance from other areas of Greece. In recent years a desalination plant has provided running, yet non-potable, water to most houses. Since rain is rare on the island from mid-spring till mid-autumn, many plants depend on the scant moisture provided by the common, early morning fog condensing on the ground as dew.
 
 Agriculture
 
-Fava_(3711746562).jpg]]
+]]
 
 Because of its unique ecology and climate, and especially its volcanic ash soil, Santorini is home to unique and prized produce. Santorini tomatoes are renowned; they are cherry tomatoes that are extremely tasty and sweet, and with an intensely red, staining colour. Santorini "fava" is a purée made of the hulled, then sun-dried, then boiled legume Lathyrus clymenum – _not_ from the yellow split pea as in the rest of Greece. The white eggplants of Santorini are very sweet, with very few seeds, and can be eaten raw. The _katsoúni_ is a unique local variety of large cucumber which, if left unpicked when green, turn yellow and acquire a sweet taste almost indistinguishable from that of melon.[50] Capers with their unique flavor are used in Greek salads and other local dishes.
 
@@ -183,7 +175,7 @@ The island remains the home of a small, but flourishing, wine industry, based on
 
 The viticultural pride of the island is the sweet and strong _Vinsanto_ (), a dessert wine made from the best sun-dried _Assyrtiko_, _Athiri_, and _Aidani_ grapes, and undergoing long barrel aging (up to twenty or twenty-five years for the top _cuvées_). It matures to a sweet, dark amber-orange, unctuous dessert wine that has achieved worldwide fame, possessing the standard Assyrtiko aromas of citrus and minerals, layered with overtones of nuts, raisins, figs, honey and tea.
 
-Santorini,_Oia_windmill.jpg Houses_on_the_caldera,_Santorini.jpg]] Imerovigli_02.jpg, example of Cycladic architecture]]
+]] , example of Cycladic architecture]]
 
 White wines from the island are extremely dry with a strong, citrus scent and mineral and iodide salt aromas contributed by the ashy volcanic soil, whereas barrel aging gives to some of the white wines a slight frankincense aroma, much like Vinsanto. It is not easy to be a winegrower in Santorini; the hot and dry conditions give the soil a very low productivity. The yield per acre is only 10 to 20% of the yields that are common in France or California. The island's wines are standardised and protected by the "Vinsanto" and "Santorini" OPAP designations of origin.[54]
 
@@ -206,8 +198,6 @@ Notable people
 
 Transport
 
-Santorini_cruise_ships_in_caldera.jpg
-
 Land
 
 Bus services link Fira to most parts of the island.[57]
@@ -215,8 +205,6 @@ Bus services link Fira to most parts of the island.[57]
 Ports
 
 Santorini has two ports: Athinios (Ferry Port) and Skala (Old Port).[58] Cruise ships anchor off Skala and passengers are transferred by local boatmen to shore at Skala where Fira is accessed by cable car, on foot or by donkey.[59] Tour boats depart from Skala for Nea Kameni and other Santorini destinations.[60]
-
-Santorini_Airport.JPG
 
 Airport
 

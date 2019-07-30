@@ -1,1 +1,0 @@
-CIP_priority_diagram.png

@@ -1,1 +1,0 @@
-NASA-MaldenIsland.jpg

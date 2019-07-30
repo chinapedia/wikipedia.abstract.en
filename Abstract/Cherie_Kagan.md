@@ -1,1 +1,0 @@
-CHERIE R. KAGAN (b. 1969, Manhasset, New York) is the Stephen J. Angello Professor of Electrical and Systems Engineering, Professor of Materials Science and Engineering, and Professor of Chemistry at the University of Pennsylvania. Kagan is an Associate Editor of _ACS Nano_ and serves on the editorial boards of _Nano Letters_ and _NanoToday_.

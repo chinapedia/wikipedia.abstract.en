@@ -1,1 +1,0 @@
-HUGO CANCIO (born 1964) is a Cuban-born American businessman and political activist. He is the founder and chief executive officer of Fuego Enterprises, a diversified holding company active in media and entertainment, telecommunications, travel, and real estate both in Cuba and the United States.

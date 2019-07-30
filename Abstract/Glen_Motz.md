@@ -1,1 +1,0 @@
-GLEN MOTZ (born 1958) is a Canadian politician, who was elected to the House of Commons of Canada in a by-election on October 24, 2016.[1] He represents the electoral district of Medicine Hat—Cardston—Warner as a member of the Conservative Party of Canada.[2]

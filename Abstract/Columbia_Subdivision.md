@@ -1,1 +1,0 @@
-The COLUMBIA SUBDIVISION is a railroad line owned by CSX Transportation in South Carolina and Georgia. The line runs along CSX's S Line from Columbia, South Carolina to Savannah, Georgia for a total of 137.9 miles. At its north end it continues south from the Hamlet Subdivision and at its south end it continues south as the Savannah Subdivision of the Jacksonville Division.[1][2]

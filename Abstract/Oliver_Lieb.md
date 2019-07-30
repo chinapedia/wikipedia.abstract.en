@@ -1,1 +1,0 @@
-OLIVER LIEB (born 1969 in Frankfurt, Germany) is a German electronic music producer and DJ. Lieb is known to have more than a dozen aliases with over 200 productions and remixes in various electronic genres such as trance, house, and techno.[1] He has also produced tracks for other artists.

@@ -1,1 +1,0 @@
-The ST. MARY OF THE ANGELS CATHEDRAL[1] () also LOS ÁNGELES CATHEDRAL[2] Is a cathedral church of Catholic worship, home of the Roman Catholic Diocese of Santa María de Los Ángeles in Chile.[3] It is located in the center of the city, opposite the _Plaza de Armas_.

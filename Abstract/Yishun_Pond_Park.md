@@ -1,1 +1,0 @@
-YISHUN POND PARK (or YISHUN POND) is an urban park located at Yishun, Singapore. It is situated along Yishun Central in front of Khoo Teck Puat Hospital and connects the residential areas to Yishun MRT station and Northpoint Shopping Centre.

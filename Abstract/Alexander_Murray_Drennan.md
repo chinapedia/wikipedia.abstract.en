@@ -1,1 +1,0 @@
-Professor ALEXANDER MURRAY DRENNAN FRSE FRCPE (4 January 1884 – 29 February 1984) was a Scottish pathologist. In the First World War he promoted the widespread use of Edinburgh University Solution (sold under the brand name of EUSOL).[1]

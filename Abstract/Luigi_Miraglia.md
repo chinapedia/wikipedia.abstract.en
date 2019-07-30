@@ -1,1 +1,0 @@
-LUIGI MIRAGLIA (Latin: Aloisius Miraglia) is an Italian latinist and classicist. He is a proponent of Hans Ørberg's natural method of language learning and the founder of the Accademia Vivarium Novum.

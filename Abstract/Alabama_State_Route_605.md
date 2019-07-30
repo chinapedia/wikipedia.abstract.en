@@ -1,1 +1,0 @@
-STATE ROUTE 605 (SR 605) is a state highway in Houston and Dale counties in the southeastern part of the U.S. state of Alabama. The southern terminus of the highway is at an intersection with U.S. Route 231 (US 231) south of Madrid. The northern terminus of the route is at another intersection with US 231 in Midland City.

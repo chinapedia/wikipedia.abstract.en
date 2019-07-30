@@ -1,1 +1,0 @@
-GÁBOR DOMOKOS (born 12 November 1961) is a Hungarian mathematician and engineer. He is best known for his 2006 discovery of gömböc, a class of three-dimensional (3D) convex bodies that have one stable and one unstable point of balance. Their shape helped to relate the body structure of some tortoises and their ability to recover after being placed upside down.

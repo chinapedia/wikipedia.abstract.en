@@ -1,1 +1,0 @@
-BRIAN HARNETTY (born May 10, 1973) is an American composer, sound artist, and writer. His work brings together sound archives, performance, ecology, and place, and is focused on local and regional issues of the midwest and Appalachia.[1]

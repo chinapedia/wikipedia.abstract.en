@@ -1,1 +1,0 @@
-The WOMEN'S ROAD TIME TRIAL cycling events at the 2016 SUMMER PARALYMPICS took place on September 17 at Flamengo Park, Pontal. Seven events took place over thirteen classifications. Four of these events, spanning multiple classifications were 'factored' events, with final times adjusted in line with classification to ensure fairness.

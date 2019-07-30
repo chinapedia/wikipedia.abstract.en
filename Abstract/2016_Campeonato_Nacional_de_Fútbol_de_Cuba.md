@@ -1,1 +1,0 @@
-{{ infobox football league season | image = | caption = | competition = Campeonato Nacional | season = 2016 | winners = Villa Clara | relegated = | continentalcup1 = CFU Club Championship | continentalcup1 qualifiers = Villa Clara

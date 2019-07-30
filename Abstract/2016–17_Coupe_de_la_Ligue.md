@@ -1,1 +1,0 @@
-The 2016–17 COUPE DE LA LIGUE was the 23rd French league cup competition. The competition was organized by the Ligue de Football Professionnel and was open to the 44 professional clubs in France that are managed by the organization.

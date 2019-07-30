@@ -1,1 +1,0 @@
-JOCELYN I DE COURTENAY (1034-after 1069), son of Athon, Châtelain de Châteaurenard, Seigneur de Courtenay. Very little is known about his life other than his two marriages. He first married Hildegarde de Château-Landon, daughter of Geoffrey II, Count of Gâtinais, and Ermengarde of Anjou (daughter of Fulk III, Count of Anjou). Joscelin and Hildegarde had one daughter:

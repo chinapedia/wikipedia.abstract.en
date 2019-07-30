@@ -1,1 +1,0 @@
-ROBERTO BURIONI (born 10 December 1962) is an Italian scientist, Professor of Microbiology and Virology at the Vita-Salute San Raffaele University, Milan, active in the field of research related to human monoclonal antibodies against infectious pathogens.[1]

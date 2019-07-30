@@ -1,1 +1,0 @@
-LUIS ARMANDO MONTOYA NAVARRO (born 8 December 2000) is a Mexican badminton player.[1] He was part of the Mexican team that won the gold medal at the 2018 Central American and Caribbean Games in Barranquilla, Colombia.[2]

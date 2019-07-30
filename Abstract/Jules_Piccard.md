@@ -1,1 +1,0 @@
-JULES PICCARD, also known as JULIUS PICCARD (20 September 1840, in Lausanne – 11 April 1933, in Lausanne) was a Swiss chemist. He was the father of twins Auguste Piccard (1884–1962) and Jean Felix Piccard (1884–1963), both renowned balloonists.

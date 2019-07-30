@@ -1,1 +1,0 @@
-_THE COMEBACK_ is a 2015 Filipino independent comedy film. It was nominated for Best Film, Best Actress, and Best Director in the 2015 Cinema One Originals Film Festival, but failed to win any awards.[1]

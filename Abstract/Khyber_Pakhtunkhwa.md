@@ -1,1 +1,0 @@
-KHYBER PAKHTUNKHWA (often abbreviated KP; ; ),[1] formerly known as NORTH-WEST FRONTIER PROVINCE, is one of the four administrative provinces of Pakistan, located in the northwestern region of the country along the international border with Afghanistan.

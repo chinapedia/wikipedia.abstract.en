@@ -1,1 +1,0 @@
-The WOMEN'S 50 METRE BACKSTROKE swimming events for the 2016 Summer Paralympics take place at the Rio Olympic Stadium from 10 to 16 September. A total of four events were contested for four different classifications.

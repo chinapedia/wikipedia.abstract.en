@@ -1,1 +1,0 @@
-_BLUEPRINT FOR A MASSACRE_ (, or _Agente Z 55: Secreto atómico_), also known as _AGENT Z-55: ATOMIC SECRET_, is a 1967 Italian-Spanish Eurospy film co-written and directed by Roberto Bianchi Montero and starring Germán Cobos.[1]

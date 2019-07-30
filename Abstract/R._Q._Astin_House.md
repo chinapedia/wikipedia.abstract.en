@@ -1,1 +1,0 @@
-The ASTIN MANSION is a historic house located at 506 W. 26th Street, Bryan, Texas, USA. It was built in 1924 and designed in the English Georgian Revival style. It has been listed on the National Register of Historic Places since September 25, 1987.[1][2]

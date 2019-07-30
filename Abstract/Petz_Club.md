@@ -1,1 +1,0 @@
-_PETZ CLUB_ (fully known as _PETZ CLUB, SOS ANIMAUX DISPARUS_[1]) is a French/Monegasque animated children's television series created by Dominique Amouyal and Hadrien Soulez Larivière. The series debuted on France 5's Zouzous block on June 30, 2014.[2]

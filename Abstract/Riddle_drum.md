@@ -1,1 +1,0 @@
-Riddle_Sieve_2.jpg

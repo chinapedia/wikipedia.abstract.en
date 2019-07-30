@@ -1,1 +1,0 @@
-DANGOTE INDUSTRIES TANZANIA Limited is a Tanzanian cement company, a subsidiary of Dangote Cement.[1] Dangote Cement operates a 3.0Mta plant in Mtwara, Southern Tanzania and is the largest cement factory in the country.[2]

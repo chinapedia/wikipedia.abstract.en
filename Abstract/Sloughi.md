@@ -1,1 +1,0 @@
-The SLOUGHI [1] (Berber language: _OṢKAY_ or _OCCAY_) is a North African breed of dog, specifically a member of the sighthound family. It is found mainly in Morocco, which is responsible for the standard, and may be found in smaller numbers elsewhere in North Africa.[2]

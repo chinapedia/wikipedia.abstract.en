@@ -1,1 +1,0 @@
-NIGU_transmision_line_near_Te_Kauwhata.JPG is a natural monopoly. Due to large fixed costs and a small market size, one seller can serve the entire market at the downward-sloping section of its average cost curve.]]

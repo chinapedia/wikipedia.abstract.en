@@ -1,1 +1,0 @@
-_NIGHT'S TIGHTROPE_, known in Japan as , is a Japanese film directed by Yukiko Mishima, based on author Kanae Minato's novel of the same name.[1] The theme song was written and performed specifically for the film by the rock band Glim Spanky at the request of Mishima.[2]

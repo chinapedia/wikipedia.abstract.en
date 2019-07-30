@@ -1,1 +1,0 @@
-Rewa_Kantha_Agency_with_all_Princely_States_Gujarat_during_British_India_1811-1937_with_labels.svg, British India|400px]] SANJELI (Hindi Name संजेली) is a Hindu former petty princely state, located in the present Gujarat state in western India.

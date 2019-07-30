@@ -1,1 +1,0 @@
-The 2017 SOUTHLAND CONFERENCE WOMEN'S BASKETBALL TOURNAMENT, a part of the 2016–17 NCAA Division I women's basketball season, took place March 9–12, 2017 at the Merrell Center in Katy, Texas. The winner of the tournament, the Central Arkansas Sugar Bears, received the Southland Conference's automatic bid to the 2017 NCAA Tournament.

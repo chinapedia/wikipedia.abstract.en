@@ -1,1 +1,0 @@
-PHILIPPE-ERNEST LEGRAND (2 September 1866[1] – 1 July 1953[2]) was a French Hellenist. An historian, philologist, archaeologist, epigrapher, his great work was the translation and editing of Histories (Herodotus), published in the Collection Budé, which is still a reference.

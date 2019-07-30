@@ -1,1 +1,0 @@
-Route_of_the_1995_Tour_de_France.png The 1995 Tour de France was the 82nd edition of Tour de France, one of cycling's Grand Tours. The Tour began in Saint-Brieuc with a prologue individual time trial on 1 July and Stage 11 occurred on 13 July with a hilly stage from Le Bourg-d'Oisans. The race finished on the Champs-Élysées in Paris on 23 July.

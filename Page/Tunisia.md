@@ -20,9 +20,9 @@ History
 
 Antiquity
 
-Dougga_Thugga-130240.jpg World Heritage Site.]] Farming methods reached the Nile Valley from the Fertile Crescent region about 5000 BC, and spread to the Maghreb by about 4000 BC. Agricultural communities in the humid coastal plains of central Tunisia then were ancestors of today's Berber tribes.
+World Heritage Site.]] Farming methods reached the Nile Valley from the Fertile Crescent region about 5000 BC, and spread to the Maghreb by about 4000 BC. Agricultural communities in the humid coastal plains of central Tunisia then were ancestors of today's Berber tribes.
 
-It was believed in ancient times that Africa was originally populated by Gaetulians and Libyans, both nomadic peoples. According to the Roman historian Sallust, the demigod Hercules died in Spain and his polyglot eastern army was left to settle the land, with some migrating to Africa. Persians went to the West and intermarried with the Gaetulians and became the Numidians. The Medes settled and were known as Mauri, later Moors.[18] Carthage_Holdings.png-held territory before the first First Punic War]] The Numidians and Moors belonged to the race from which the Berbers are descended. The translated meaning of Numidian is Nomad and indeed the people were semi-nomadic until the reign of Masinissa of the Massyli tribe.[19][20][21]
+It was believed in ancient times that Africa was originally populated by Gaetulians and Libyans, both nomadic peoples. According to the Roman historian Sallust, the demigod Hercules died in Spain and his polyglot eastern army was left to settle the land, with some migrating to Africa. Persians went to the West and intermarried with the Gaetulians and became the Numidians. The Medes settled and were known as Mauri, later Moors.[18] -held territory before the first First Punic War]] The Numidians and Moors belonged to the race from which the Berbers are descended. The translated meaning of Numidian is Nomad and indeed the people were semi-nomadic until the reign of Masinissa of the Massyli tribe.[19][20][21]
 
 At the beginning of recorded history, Tunisia was inhabited by Berber tribes. Its coast was settled by Phoenicians starting as early as the 12th century BC (Bizerte, Utica). The city of Carthage was founded in the 9th century BC by Phoenicians. Legend says that Dido from Tyre, now in modern-day Lebanon, founded the city in 814 BC, as retold by the Greek writer Timaeus of Tauromenium. The settlers of Carthage brought their culture and religion from Phoenicia, now present-day Lebanon and adjacent areas.[22]
 
@@ -32,11 +32,11 @@ A Carthaginian invasion of Italy led by Hannibal during the Second Punic War, on
 
 Following the Battle of Carthage which began in 149 BC during the Third Punic War, Carthage was conquered by Rome in 146 BC.[24] Following its conquest, the Romans renamed Carthage to Africa, incorporating it as a province.
 
-Archaeological_Site_of_Carthage-130238.jpg]]
+]]
 
 During the Roman period, the area of what is now Tunisia enjoyed a huge development. The economy, mainly during the Empire, boomed: the prosperity of the area depended on agriculture. Called the _Granary of the Empire_, the area of actual Tunisia and coastal Tripolitania, according to one estimate, produced one million tons of cereals each year, one-quarter of which was exported to the Empire. Additional crops included beans, figs, grapes, and other fruits.
 
-By the 2nd century, olive oil rivaled cereals as an export item. In addition to the cultivations and the capture and transporting of exotic wild animals from the western mountains, the principal production and exports included the textiles, marble, wine, timber, livestock, pottery such as African Red Slip, and wool. Amphitheatre_El_Jem(js)1.jpg, built during the first half of the 3rd century AD]]
+By the 2nd century, olive oil rivaled cereals as an export item. In addition to the cultivations and the capture and transporting of exotic wild animals from the western mountains, the principal production and exports included the textiles, marble, wine, timber, livestock, pottery such as African Red Slip, and wool. , built during the first half of the 3rd century AD]]
 
 There was even a huge production of mosaics and ceramics, exported mainly to Italy, in the central area of El Djem (where there was the second biggest amphitheater in the Roman Empire).
 
@@ -44,7 +44,7 @@ Berber bishop Donatus Magnus was the founder of a Christian group known as the D
 
 Middle Ages
 
-Great_Mosque_of_Kairouan,_flat_roof_and_domes.jpg. Founded in 670, it dates in its present form largely from the Aghlabid period (9th century). It is the oldest mosque in the Maghreb.]] Sometime between the second half of the 7th century and the early part of the 8th century, Arab Muslim conquest occurred in the region. They founded the first Islamic city in Northwest Africa, Kairouan. It was there in 670 AD that the Mosque of Uqba, or the Great Mosque of Kairouan, was constructed.[27] This mosque is the oldest and most prestigious sanctuary in the Muslim West with the oldest standing minaret in the world;[28] it is also considered a masterpiece of Islamic art and architecture.[29]
+. Founded in 670, it dates in its present form largely from the Aghlabid period (9th century). It is the oldest mosque in the Maghreb.]] Sometime between the second half of the 7th century and the early part of the 8th century, Arab Muslim conquest occurred in the region. They founded the first Islamic city in Northwest Africa, Kairouan. It was there in 670 AD that the Mosque of Uqba, or the Great Mosque of Kairouan, was constructed.[27] This mosque is the oldest and most prestigious sanctuary in the Muslim West with the oldest standing minaret in the world;[28] it is also considered a masterpiece of Islamic art and architecture.[29]
 
 Tunis was taken in 695, re-taken by the Byzantine Eastern Romans in 697, but lost finally in 698. The transition from a Latin-speaking Christian Berber society to a Muslim and mostly Arabic-speaking society took over 400 years (the equivalent process in Egypt and the Fertile Crescent took 600 years) and resulted in the final disappearance of Christianity and Latin in the 12th or 13th centuries. The majority of the population were not Muslim until quite late in the 9th century; a vast majority were during the 10th. Also, some Tunisian Christians emigrated; some richer members of society did so after the conquest in 698 and others were welcomed by Norman rulers to Sicily or Italy in the 11th and 12th centuries – the logical destination because of the 1200 year close connection between the two regions.[30]
 
@@ -62,11 +62,11 @@ Ottoman Tunisia
 
 In the last years of the Hafsid dynasty, Spain seized many of the coastal cities, but these were recovered by the Ottoman Empire.
 
-Siège_de_Tunis_1535.JPG by Charles V and liberation of Christian galley slaves in 1535]] The first Ottoman conquest of Tunis took place in 1534 under the command of Barbarossa Hayreddin Pasha, the younger brother of Oruç Reis, who was the Kapudan Pasha of the Ottoman Fleet during the reign of Suleiman the Magnificent. However, it wasn't until the final Ottoman reconquest of Tunis from Spain in 1574 under Kapudan Pasha Uluç Ali Reis that the Ottomans permanently acquired the former Hafsid Tunisia, retaining it until the French conquest of Tunisia in 1881.
+by Charles V and liberation of Christian galley slaves in 1535]] The first Ottoman conquest of Tunis took place in 1534 under the command of Barbarossa Hayreddin Pasha, the younger brother of Oruç Reis, who was the Kapudan Pasha of the Ottoman Fleet during the reign of Suleiman the Magnificent. However, it wasn't until the final Ottoman reconquest of Tunis from Spain in 1574 under Kapudan Pasha Uluç Ali Reis that the Ottomans permanently acquired the former Hafsid Tunisia, retaining it until the French conquest of Tunisia in 1881.
 
 Initially under Turkish rule from Algiers, soon the Ottoman Porte appointed directly for Tunis a governor called the Pasha supported by janissary forces. Before long, however, Tunisia became in effect an autonomous province, under the local Bey. Under its Turkish governors, the Beys, Tunisia attained virtual independence. The Hussein dynasty of Beys, established in 1705, lasted until 1957.[47] This evolution of status was from time to time challenged without success by Algiers. During this era the governing councils controlling Tunisia remained largely composed of a foreign elite who continued to conduct state business in the Turkish language.
 
-Attacks on European shipping were made by corsairs, primarily from Algiers, but also from Tunis and Tripoli, yet after a long period of declining raids the growing power of the European states finally forced its termination. Under the Ottoman Empire, the boundaries of Tunisia contracted; it lost territory to the west (Constantine) and to the east (Tripoli). Tunis_Bab_Souika_1899.jpg of Tunis, 1899.]]
+Attacks on European shipping were made by corsairs, primarily from Algiers, but also from Tunis and Tripoli, yet after a long period of declining raids the growing power of the European states finally forced its termination. Under the Ottoman Empire, the boundaries of Tunisia contracted; it lost territory to the west (Constantine) and to the east (Tripoli). of Tunis, 1899.]]
 
 The plague epidemics ravaged Tunisia in 1784–1785, 1796–1797 and 1818–1820.[48]
 
@@ -74,7 +74,7 @@ In the 19th century, the rulers of Tunisia became aware of the ongoing efforts a
 
 French Tunisia (1881–1956)
 
-A_Churchill_tank_and_other_vehicles_parade_through_Tunis,_8_May_1943._NA2880.jpg In 1869, Tunisia declared itself bankrupt and an international financial commission took control over its economy. In 1881, using the pretext of a Tunisian incursion into Algeria, the French invaded with an army of about 36,000 and forced the Bey to agree to the terms of the 1881 Treaty of Bardo (Al Qasr as Sa'id).[50] With this treaty, Tunisia was officially made a French protectorate, over the objections of Italy. Under French colonization, European settlements in the country were actively encouraged; the number of French colonists grew from 34,000 in 1906 to 144,000 in 1945. In 1910 there were 105,000 Italians in Tunisia.[51]
+In 1869, Tunisia declared itself bankrupt and an international financial commission took control over its economy. In 1881, using the pretext of a Tunisian incursion into Algeria, the French invaded with an army of about 36,000 and forced the Bey to agree to the terms of the 1881 Treaty of Bardo (Al Qasr as Sa'id).[50] With this treaty, Tunisia was officially made a French protectorate, over the objections of Italy. Under French colonization, European settlements in the country were actively encouraged; the number of French colonists grew from 34,000 in 1906 to 144,000 in 1945. In 1910 there were 105,000 Italians in Tunisia.[51]
 
 During World War II, French Tunisia was ruled by the collaborationist Vichy government located in Metropolitan France. The antisemitic Statute on Jews enacted by the Vichy was also implemented in Vichy Northwest Africa and overseas French territories. Thus, the persecution, and murder of the Jews from 1940 to 1943 was part of the Shoah in France.
 
@@ -92,7 +92,7 @@ Independent human rights groups, such as Amnesty International, Freedom House, a
 
 Post-revolution (since 2011)
 
-Tunisia_Unrest_-_VOA_-_Tunis_14_Jan_2011_(2).jpg.]] The Tunisian Revolution[71][72] was an intensive campaign of civil resistance that was precipitated by high unemployment, food inflation, corruption,[73] a lack of freedom of speech and other political freedoms[74] and poor living conditions. Labour unions were said to be an integral part of the protests.[75] The protests inspired the Arab Spring, a wave of similar actions throughout the Arab world.
+.]] The Tunisian Revolution[71][72] was an intensive campaign of civil resistance that was precipitated by high unemployment, food inflation, corruption,[73] a lack of freedom of speech and other political freedoms[74] and poor living conditions. Labour unions were said to be an integral part of the protests.[75] The protests inspired the Arab Spring, a wave of similar actions throughout the Arab world.
 
 The catalyst for mass demonstrations was the death of Mohamed Bouazizi, a 26-year-old Tunisian street vendor, who set himself afire on 17 December 2010 in protest at the confiscation of his wares and the humiliation inflicted on him by a municipal official named Faida Hamdy. Anger and violence intensified following Bouazizi's death on 4 January 2011, ultimately leading longtime President Zine El Abidine Ben Ali to resign and flee the country on 14 January 2011, after 23 years in power.[76]
 
@@ -111,7 +111,7 @@ The Tunisian National Dialogue Quartet won the 2015 Nobel Peace Prize for its wo
 
 Geography
 
-Koppen-Geiger_Map_TUN_present.svg in Tunisia. The climate is Mediterranean towards the coast in the north, while most of the country is desert.]] Téboursouk.jpg]] Tunisia is situated on the Mediterranean coast of Northwest Africa, midway between the Atlantic Ocean and the Nile Delta. It is bordered by Algeria on the west and southwest and Libya on the south east. It lies between latitudes 30° and 38°N, and longitudes 7° and 12°E. An abrupt southward turn of the Mediterranean coast in northern Tunisia gives the country two distinctive Mediterranean coasts, west-east in the north, and north-south in the east.
+in Tunisia. The climate is Mediterranean towards the coast in the north, while most of the country is desert.]] ]] Tunisia is situated on the Mediterranean coast of Northwest Africa, midway between the Atlantic Ocean and the Nile Delta. It is bordered by Algeria on the west and southwest and Libya on the south east. It lies between latitudes 30° and 38°N, and longitudes 7° and 12°E. An abrupt southward turn of the Mediterranean coast in northern Tunisia gives the country two distinctive Mediterranean coasts, west-east in the north, and north-south in the east.
 
 Though it is relatively small in size, Tunisia has great environmental diversity due to its north-south extent. Its east-west extent is limited. Differences in Tunisia, like the rest of the Maghreb, are largely north-south environmental differences defined by sharply decreasing rainfall southward from any point. The Dorsal, the eastern extension of the Atlas Mountains, runs across Tunisia in a northeasterly direction from the Algerian border in the west to the Cape Bon peninsula in the east. North of the Dorsal is the Tell, a region characterized by low, rolling hills and plains, again an extension of mountains to the west in Algeria. In the Khroumerie, the northwestern corner of the Tunisian Tell, elevations reach and snow occurs in winter.
 
@@ -126,12 +126,12 @@ Tunisia's climate is Mediterranean in the north, with mild rainy winters and hot
 
 Politics
 
-+----------------------------------+---------------------------+
-| Béji_Caïd_Essebsi_2015-05-20.jpg | PM_Youssef_Chahed.png     |
-+----------------------------------+---------------------------+
-| Beji Caid Essebsi                | Youssef Chahed            |
-| President since 2014             | Prime Minister since 2016 |
-+----------------------------------+---------------------------+
++----------------------+---------------------------+
+|                      |                           |
++----------------------+---------------------------+
+| Beji Caid Essebsi    | Youssef Chahed            |
+| President since 2014 | Prime Minister since 2016 |
++----------------------+---------------------------+
 
 Tunisia is a representative democracy and a republic with a president serving as head of state, prime minister as head of government, a unicameral parliament, and a civil law court system. The Constitution of Tunisia, adopted 26 January 2014, guarantees rights for women and states that the President's religion "shall be Islam". In October 2014 Tunisia held its first elections under the new constitution following the Arab Spring.[90] Tunisia (#69 worldwide) is the only democracy in North Africa.[91]
 
@@ -159,7 +159,7 @@ In 2017, Tunisia became the first Arab country to outlaw domestic violence again
 
 Military
 
-Tunisian_soldiers.jpg , Tunisia had an army of 27,000 personnel equipped with 84 main battle tanks and 48 light tanks. The navy had 4,800 personnel operating 25 patrol boats and 6 other craft. The Tunisian Air Force has 154 aircraft and 4 UAVs. Paramilitary forces consisted of a 12,000-member national guard.[113] Tunisia's military spending was 1.6% of GDP . The army is responsible for national defence and also internal security. Tunisia has participated in peacekeeping efforts in the DROC and Ethiopia/Eritrea.[114] United Nations peacekeeping deployments for the Tunisian armed forces have been in Cambodia (UNTAC), Namibia (UNTAG), Somalia, Rwanda, Burundi, Western Sahara (MINURSO) and the 1960s mission in the Congo, ONUC.
+, Tunisia had an army of 27,000 personnel equipped with 84 main battle tanks and 48 light tanks. The navy had 4,800 personnel operating 25 patrol boats and 6 other craft. The Tunisian Air Force has 154 aircraft and 4 UAVs. Paramilitary forces consisted of a 12,000-member national guard.[113] Tunisia's military spending was 1.6% of GDP . The army is responsible for national defence and also internal security. Tunisia has participated in peacekeeping efforts in the DROC and Ethiopia/Eritrea.[114] United Nations peacekeeping deployments for the Tunisian armed forces have been in Cambodia (UNTAC), Namibia (UNTAG), Somalia, Rwanda, Burundi, Western Sahara (MINURSO) and the 1960s mission in the Congo, ONUC.
 
 The military has historically played a professional, apolitical role in defending the country from external threats. Since January 2011 and at the direction of the executive branch, the military has taken on increasing responsibility for domestic security and humanitarian crisis response.[115]
 
@@ -169,8 +169,6 @@ Tunisia is subdivided into 24 governorates (_Wilaya_), which are further divided
 
 
 Economy
-
-Tunisia_Export_Treemap.png
 
 Tunisia is an export-oriented country in the process of liberalizing and privatizing an economy that, while averaging 5% GDP growth since the early 1990s, has suffered from corruption benefiting politically connected elites.[118] Tunisia's Penal Code criminalises several forms of corruption, including active and passive bribery, abuse of office, extortion and conflicts of interest, but the anti-corruption framework is not effectively enforced.[119] However, according to the Corruption Perceptions Index published annually by Transparency International, Tunisia was ranked the least corrupt North-African-country in 2016, with a score of 41. Tunisia has a diverse economy, ranging from agriculture, mining, manufacturing, and petroleum products, to tourism. In 2008 it had a GDP of US$41 billion (official exchange rates), or $82 billion (purchasing power parity).[120]
 
@@ -190,7 +188,7 @@ On 29 and 30 November 2016, Tunisia held an investment conference Tunisia2020 to
 
 Tourism
 
-Sidi_Bou_Said_09.jpg: a major tourist destination]] Dougga_Thugga-130243.jpg in 1997.]]
+: a major tourist destination]] in 1997.]]
 
 Among Tunisia's tourist attractions are its cosmopolitan capital city of Tunis, the ancient ruins of Carthage, the Muslim and Jewish quarters of Jerba, and coastal resorts outside of Monastir. According to The New York Times, Tunisia is "known for its golden beaches, sunny weather and affordable luxuries". [131]
 
@@ -225,7 +223,7 @@ The rate of non-revenue water is the lowest in the region at 21% in 2012.[144]
 
 Demographics
 
-Bevölkerungspyramide_Tunesien_2016.png Arabs_leaving_mosque,_Tunis,_Tunisia-LCCN2001699400.jpg World_Book_Day_in_Tunisia_2012.jpg According to the CIA, as of 2017, Tunisia has a population of 11,403,800 inhabitants.[145] The government has supported a successful family planning program that has reduced the population growth rate to just over 1% per annum, contributing to Tunisia's economic and social stability.[146]
+According to the CIA, as of 2017, Tunisia has a population of 11,403,800 inhabitants.[145] The government has supported a successful family planning program that has reduced the population growth rate to just over 1% per annum, contributing to Tunisia's economic and social stability.[146]
 
 Ethnic groups
 
@@ -253,7 +251,7 @@ Major cities
 
 Religion
 
-Mosquée_Zitouna_Kassus-2.jpg in Tunis.]] The majority of Tunisia's population (around 98%) are Muslims while about 2% follow Christianity and Judaism or other religions.[169] The bulk of Tunisians belong to the Maliki School of Sunni Islam and their mosques are easily recognizable by square minarets. However, the Turks brought with them the teaching of the Hanafi School during the Ottoman rule, which still survives among the Turkish descended families today, and their mosques traditionally have octagonal minarets.[170] Sunnis form the majority with non-denominational Muslims being the second largest group of Muslims,[171] followed by Ibadite Amazighs.[172][173]
+in Tunis.]] The majority of Tunisia's population (around 98%) are Muslims while about 2% follow Christianity and Judaism or other religions.[169] The bulk of Tunisians belong to the Maliki School of Sunni Islam and their mosques are easily recognizable by square minarets. However, the Turks brought with them the teaching of the Hanafi School during the Ottoman rule, which still survives among the Turkish descended families today, and their mosques traditionally have octagonal minarets.[170] Sunnis form the majority with non-denominational Muslims being the second largest group of Muslims,[171] followed by Ibadite Amazighs.[172][173]
 
 Tunisia has a sizable Christian community of around over 25,000 adherents, mainly Catholics (22,000) and to a lesser degree Protestants. Berber Christians continued to live in some Nefzaoua villages up until the early 15th century[174] and the community of Tunisian Christians existed in the town of Tozeur up to the 18th century.[175] International Religious Freedom Report for 2007 estimates thousands of Tunisian Muslims have converted to Christianity.[176][177] Judaism is the country's third largest religion with 900 members. One-third of the Jewish population lives in and around the capital. The remainder lives on the island of Djerba with 39 synagogues where the Jewish community dates back 2,500 years, on Sfax and Hammam-Lif.[178]
 
@@ -271,7 +269,7 @@ In 2017 a handful of men were arrested for eating in public during Ramadan; they
 
 Education
 
-Collège_Sadiki-Kassus.jpg in Tunis.]] UIS_Literacy_Rate_Tunisia_population_plus15_1985_2015.png The total adult literacy rate in 2008 was 78%[188] and this rate goes up to 97.3% when considering only people from 15 to 24 years old.[189] Education is given a high priority and accounts for 6% of GNP. A basic education for children between the ages of 6 and 16 has been compulsory since 1991. Tunisia ranked 17th in the category of "quality of the [higher] educational system" and 21st in the category of "quality of primary education" in The Global Competitiveness Report 2008-9, released by The World Economic Forum.[190]
+in Tunis.]] The total adult literacy rate in 2008 was 78%[188] and this rate goes up to 97.3% when considering only people from 15 to 24 years old.[189] Education is given a high priority and accounts for 6% of GNP. A basic education for children between the ages of 6 and 16 has been compulsory since 1991. Tunisia ranked 17th in the category of "quality of the [higher] educational system" and 21st in the category of "quality of primary education" in The Global Competitiveness Report 2008-9, released by The World Economic Forum.[190]
 
 While children generally acquire Tunisian Arabic at home, when they enter school at age 6, they are taught to read and write in Standard Arabic. From the age of 7, they are taught French while English is introduced at the age of 8.
 
@@ -284,11 +282,11 @@ In 2010, spending on healthcare accounted for 3.37% of the country's GDP. In 200
 
 Culture
 
-Cité_de_la_culture,_Tunis_27_décembre_2014.jpg The culture of Tunisia is mixed due to its long established history of outside influence from people ‒ such as Phoenicians, Romans, Vandals, Byzantines, Arabs, Turks, Italians, Spaniards, and the French ‒ who all left their mark on the country.
+The culture of Tunisia is mixed due to its long established history of outside influence from people ‒ such as Phoenicians, Romans, Vandals, Byzantines, Arabs, Turks, Italians, Spaniards, and the French ‒ who all left their mark on the country.
 
 Painting
 
-Ariana_par_Catania.jpg The birth of Tunisian contemporary painting is strongly linked to the School of Tunis, established by a group of artists from Tunisia united by the desire to incorporate native themes and rejecting the influence of Orientalist colonial painting. It was founded in 1949 and brings together French and Tunisian Muslims, Christians and Jews. Pierre Boucherle was its main instigator, along with Yahia Turki, Abdelaziz Gorgi, Moses Levy, Ammar Farhat, and Jules Lellouche. Given its doctrine, some members have therefore turned to the sources of aesthetic Arab-Muslim art: such as miniature Islamic architecture, etc. Expressionist paintings by Amara Debbache, Jellal Ben Abdallah, and Ali Ben Salem are recognized while abstract art captures the imagination of painters like Edgar Naccache, Nello Levy, and Hedi Turki.[195]
+The birth of Tunisian contemporary painting is strongly linked to the School of Tunis, established by a group of artists from Tunisia united by the desire to incorporate native themes and rejecting the influence of Orientalist colonial painting. It was founded in 1949 and brings together French and Tunisian Muslims, Christians and Jews. Pierre Boucherle was its main instigator, along with Yahia Turki, Abdelaziz Gorgi, Moses Levy, Ammar Farhat, and Jules Lellouche. Given its doctrine, some members have therefore turned to the sources of aesthetic Arab-Muslim art: such as miniature Islamic architecture, etc. Expressionist paintings by Amara Debbache, Jellal Ben Abdallah, and Ali Ben Salem are recognized while abstract art captures the imagination of painters like Edgar Naccache, Nello Levy, and Hedi Turki.[195]
 
 After independence in 1956, the art movement in Tunisia was propelled by the dynamics of nation building and by artists serving the state. A Ministry of Culture was established, under the leadership of ministers such as Habib Boularès who oversaw art and education and power.[196] Artists gained international recognition such as Hatem El Mekki or Zoubeir Turki and influenced a generation of new young painters. Sadok Gmech draws his inspiration from national wealth while Moncef Ben Amor turns to fantasy. In another development, Youssef Rekik reused the technique of painting on glass and founded Nja Mahdaoui calligraphy with its mystical dimension.[197]
 
@@ -298,7 +296,7 @@ A new exposition opened in an old monarchal palace in Bardo dubbed the "awakenin
 
 Literature
 
-Abdelwahab_Meddeb_-_Comédie_du_Livre_2011_-_Montpellier_-_P1150907.jpg, a Tunisian French-language poet and novelist.]] Tunisian literature exists in two forms: Arabic and French. Arabic literature dates back to the 7th century with the arrival of Arab civilization in the region. It is more important in both volume and value than French literature, introduced during the French protectorate from 1881.[201]
+, a Tunisian French-language poet and novelist.]] Tunisian literature exists in two forms: Arabic and French. Arabic literature dates back to the 7th century with the arrival of Arab civilization in the region. It is more important in both volume and value than French literature, introduced during the French protectorate from 1881.[201]
 
 Among the literary figures include Ali Douagi, who has produced more than 150 radio stories, over 500 poems and folk songs and nearly 15 plays,[202] Khraief Bashir, an Arabic novelist who published many notable books in the 1930s and which caused a scandal because the dialogues were written in Tunisian dialect,[203] and others such as Moncef Ghachem, Mohamed Salah Ben Mrad, or Mahmoud Messadi.
 
@@ -312,7 +310,7 @@ In 2014 Tunisian American creative nonfiction scribe and translator Med-Ali Mekk
 
 Music
 
-Zied_Gharsa_et_la_Rachidia.jpg Saliha_-_Ya_laymi_azin.ogg At the beginning of the 20th century, musical activity was dominated by the liturgical repertoire associated with different religious brotherhoods and secular repertoire which consisted of instrumental pieces and songs in different Andalusian forms and styles of origins, essentially borrowing characteristics of musical language. In 1930 "The Rachidia" was founded well known thanks to artists from the Jewish community. The founding in 1934 of a musical school helped revive Arab Andalusian music largely to a social and cultural revival led by the elite of the time who became aware of the risks of loss of the musical heritage and which they believed threatened the foundations of Tunisian national identity. The institution did not take long to assemble a group of musicians, poets, scholars. The creation of Radio Tunis in 1938 allowed musicians a greater opportunity to disseminate their works.
+At the beginning of the 20th century, musical activity was dominated by the liturgical repertoire associated with different religious brotherhoods and secular repertoire which consisted of instrumental pieces and songs in different Andalusian forms and styles of origins, essentially borrowing characteristics of musical language. In 1930 "The Rachidia" was founded well known thanks to artists from the Jewish community. The founding in 1934 of a musical school helped revive Arab Andalusian music largely to a social and cultural revival led by the elite of the time who became aware of the risks of loss of the musical heritage and which they believed threatened the foundations of Tunisian national identity. The institution did not take long to assemble a group of musicians, poets, scholars. The creation of Radio Tunis in 1938 allowed musicians a greater opportunity to disseminate their works.
 
 Notable Tunisian musicians include Saber Rebaï, Dhafer Youssef, Belgacem Bouguenna, Sonia M'barek, Latifa, Salah El Mahdi, Anouar Brahem, Emel Mathlouthi and Lotfi Bouchnak.
 
@@ -324,7 +322,7 @@ In 2007, some 245 newspapers and magazines (compared to only 91 in 1987) are 90%
 
 Sports
 
-CA_-_Radès.jpg Football is the most popular sport in Tunisia. The Tunisia national football team, also known as "The Eagles of Carthage," won the 2004 African Cup of Nations (ACN), which was held in Tunisia.[213][214] They also represented Africa in the 2005 FIFA Cup of Confederations, which was held in Germany, but they could not go beyond the first round.
+Football is the most popular sport in Tunisia. The Tunisia national football team, also known as "The Eagles of Carthage," won the 2004 African Cup of Nations (ACN), which was held in Tunisia.[213][214] They also represented Africa in the 2005 FIFA Cup of Confederations, which was held in Germany, but they could not go beyond the first round.
 
 The premier football league is the "Tunisian Ligue Professionnelle 1". The main clubs are Espérance Sportive de Tunis, Étoile Sportive du Sahel, Club Africain, Club Sportif Sfaxien and EGS Gafsa.
 

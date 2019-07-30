@@ -1,1 +1,0 @@
-TRANSPORTATION SYSTEM IN INDIA consists of transport by land, water and air. Public transport remains the primary mode of transport for most Indian citizens, and India's public transport systems are among the most heavily used in the world.[1]

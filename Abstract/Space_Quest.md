@@ -1,1 +1,0 @@
-Space_Quest_logo.gif

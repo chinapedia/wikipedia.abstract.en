@@ -1,1 +1,0 @@
-BRENNAN WILLIAM SCARLETT (born July 31, 1993) is an American football outside linebacker for the Houston Texans of the National Football League (NFL). He played college football at both California and Stanford. He was signed by the Texans as an undrafted free agent in 2016.[1]

@@ -1,1 +1,0 @@
-ERNEST GARY GYGAX ( ; July 27, 1938 – March 4, 2008)[1] was an American game designer and author best known for co-creating the pioneering role-playing game _Dungeons & Dragons_ (_D&D_) with Dave Arneson.

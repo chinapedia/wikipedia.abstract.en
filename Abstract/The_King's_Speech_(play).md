@@ -1,1 +1,0 @@
-_THE KING'S SPEECH_ is a 2012 play written by David Seidler and based on the 2010 Academy Award-winning film of the same name. The play was staged at the Wyndham's Theatre on London's West End and opened on March 27th, 2012 and closed on May 12th, 2012.[1]

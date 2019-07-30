@@ -1,1 +1,0 @@
-Office_Block_Addalaichenai_MMV.jpg ADDALAICHENAI CENTRAL COLLEGEor ADDALAICHENAI MADYA MAHA VIDYALAYA is a NATIONAL SCHOOL situated in Ampara District, Addalaichenai. Which was founded on 1912 and has produced number of intellectuals, leaders, sportsmen and artists.

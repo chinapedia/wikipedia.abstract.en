@@ -1,1 +1,0 @@
-The _NORTHAMPTON MERCURY_ was an English newspaper founded in 1720. Published in Northampton, it was sold throughout the midlands, as far west as Worcester and as far east as Cambridge.[1] When it ceased publication in 2015, it was the oldest continuously published newspaper in the U.K.

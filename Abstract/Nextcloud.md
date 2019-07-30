@@ -1,1 +1,0 @@
-border | caption = File list in Nextcloud 14.0 -->| screenshot = Nextcloud 15.0.2 Screenshot.png | screenshot alt = Nextcloud 15.0.2 (Browser view) | developer = Nextcloud GmbH.,[1] Community | programming language = PHP, JavaScript | operating system = SERVER: Linux

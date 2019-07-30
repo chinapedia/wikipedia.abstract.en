@@ -1,4 +1,4 @@
-Components_stress_tensor.svg in the basis (E₁, E₂, E₃): $\mathbf{T} = \begin{bmatrix}\mathbf{T}^{(\mathbf{e}_1)} \mathbf{T}^{(\mathbf{e}_2)} \mathbf{T}^{(\mathbf{e}_3)} \end{bmatrix},$ or
+in the basis (E₁, E₂, E₃): $\mathbf{T} = \begin{bmatrix}\mathbf{T}^{(\mathbf{e}_1)} \mathbf{T}^{(\mathbf{e}_2)} \mathbf{T}^{(\mathbf{e}_3)} \end{bmatrix},$ or
 $\mathbf{T}  = \begin{bmatrix} \sigma_{11} & \sigma_{12} & \sigma_{13} \\ \sigma_{21} & \sigma_{22} & \sigma_{23} \\ \sigma_{31} & \sigma_{32} & \sigma_{33} \end{bmatrix}.$
 The columns are the respective stress vectors that act in the center of the cube, regarding to planes orthogonal to E₁, E₂, and E₃. When V is given in this basis, the product of the two tensors, T ⋅ V, performed as matrix multiplication, yields the stress vector T^((V)) in that point, which has its shear part in the plane orthogonal to V.]]
 

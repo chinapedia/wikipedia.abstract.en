@@ -1,1 +1,0 @@
-FRABRISHOUS AND SARAH A. THOMAS HOUSE is a historic home located at Salisbury, Chariton County, Missouri. It was built in 1873, and is a two-story, Italianate style frame dwelling. It sits on a brick and concrete block foundation. It has a 1 1/2-story rear addition and two-story cross-gable wing.[1]

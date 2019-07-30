@@ -1,1 +1,0 @@
-The Reverend MARMADUKE FOTHERGILL (1652 – 1731) was a Yorkshire clergyman, a scholar of Christian liturgy and collector of books.[1][2][3] His donated collection is held as the Fothergill Collection at York Minster Library.[4] It includes some titles which were previously in the library of John Price (Pricaeus).[5]

@@ -1,1 +1,0 @@
-The COUNTRY LIBERAL PARTY (CLP), officially the COUNTRY LIBERALS (NORTHERN TERRITORY),[1][2] is a liberal conservative[3] political party in Australia founded in 1974, which operates solely in the Northern Territory.[4]

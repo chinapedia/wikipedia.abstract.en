@@ -1,1 +1,0 @@
-PATRICK ANDREW WENTWORTH HOPE-JOHNSTONE, 11TH EARL OF ANNANDALE AND HARTFELL (born 19 April 1941), is a Scottish peer. He succeeded his father as chief of Clan Johnstone in 1983, and his claim to an earldom was recognized three years later. A member of Lloyd's of London from 1976 until 2004, he has been involved in local government and charitable endeavors in Dumfries.

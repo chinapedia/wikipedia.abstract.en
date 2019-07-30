@@ -1,1 +1,0 @@
-BIG MEMORY computers are machines with a large amount of RAM (random-access memory) memory. The computers are required for databases, graph analytics, or more generally, data science and big data.[1] Some database systems are designed to run mostly in memory, rarely if ever retrieving data from disk or flash memory. See list of in-memory databases.

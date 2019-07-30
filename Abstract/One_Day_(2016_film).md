@@ -1,1 +1,0 @@
-_ONE DAY_ (, RTGS: Fanday…Fan Kun Khae Wan Diaw) is a 2016 Thai romance drama film directed by Banjong Pisanthanakun, and starring Chantavit Dhanasevi and Nittha Jirayungyurn. It tells the story of a man who risks everything to be with his dream girl for just one day by pretending to be her boyfriend after she suffers temporary memory loss.[1][2]

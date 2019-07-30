@@ -1,1 +1,0 @@
-'''Laura Cosme ''' (born 5 March 1992) is a Colombian footballer who plays as a forward for the Colombia women's national football team. She was part of the team at the 2015 FIFA Women's World Cup. On club level she plays for CD Palmiranas in Colombia.[1]

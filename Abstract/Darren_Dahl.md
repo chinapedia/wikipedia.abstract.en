@@ -1,1 +1,0 @@
-DARREN DAHL is a Canadian business economist, currently the BC Innovation Council Professor and Associate Dean and Director of the Robert H. Lee Graduate School, Sauder School of Business, University of British Columbia (UBC),[1] and also a published author.[2][3] At UBC, he was formerly the Fred H. Siller Professor in Applied Market Research.[4]

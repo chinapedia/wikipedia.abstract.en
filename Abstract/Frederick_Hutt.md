@@ -1,1 +1,0 @@
-Prof FREDERICK BRUCE HUTT HFRSE (29 August 1897–6 September 1991) was a Canadian zoologist and geneticist in the 20th century. His book Animal Genetics has 31 published editions from 1964 to 1981 and is translated into six languages.

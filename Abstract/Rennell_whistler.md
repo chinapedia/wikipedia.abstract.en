@@ -1,1 +1,0 @@
-The RENNELL WHISTLER (_Pachycephala feminina_) is a species of bird in the family Pachycephalidae, which is endemic to the Rennell Island in the Solomon Islands. It was split from the Bismarck whistler by the IOC in 2016.[1]

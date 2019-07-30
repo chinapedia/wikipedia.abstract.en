@@ -1,1 +1,0 @@
-A CONSTRUCTIONAL SYSTEM or a CONSTITUTION SYSTEM is a system of objects or concepts of a certain domain in which all objects or concepts of that domain can be logically constructed from a proper subset of those objects or concepts, called the _basis_ of the system. [1]

@@ -1,1 +1,0 @@
-SirThomasRichardsonCrop.jpg The 3RD PARLIAMENT OF KING JAMES I was summoned by King James I of England on 13 November 1620 and first assembled on 30 January 1621. The elected speaker was Sir Thomas Richardson, the Member of Parliament for St Albans.

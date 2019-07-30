@@ -1,1 +1,0 @@
-LI JUNSHENG (born January 19??) is a Chinese swimmer from Beihai, Guangxi. He was diagnosed with cerebral palsy when he was one year old, which caused palsy of his lower limbs. At the 2016 Summer Paralympics won the gold medal in Men's 100m Breaststroke SB4, defeating Daniel Dias, who was swimming for Brazil, the hosting country.[1]

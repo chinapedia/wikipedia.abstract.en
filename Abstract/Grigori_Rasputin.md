@@ -1,1 +1,0 @@
-GRIGORI YEFIMOVICH RASPUTIN (;[1] ;  – ) was a Russian mystic and self-proclaimed holy man who befriended the family of Tsar Nicholas II, the last monarch of Russia, and gained considerable influence in late imperial Russia.

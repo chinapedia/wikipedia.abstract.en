@@ -1,1 +1,0 @@
-_WAITING, STILL_ is the third extended play by South Korean singer Kyuhyun, a member of Super Junior. It was released on November 10, 2016, by Label SJ, S.M. Entertainment and distributed by KT Music. The album contains with seven tracks, including the lead singles, "Blah Blah" and "Still".[1]

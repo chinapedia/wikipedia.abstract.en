@@ -1,1 +1,0 @@
-CYRIL ALMEIDA is a Pakistani Journalist who serves as the assistant editor and columnist for _Dawn_.[1] Born and raised in Karachi, Almeida received his B.A from LUMS and studied jurisprudence as a Rhodes Scholar at Oxford.[2][3][4]

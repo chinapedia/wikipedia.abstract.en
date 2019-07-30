@@ -1,1 +1,0 @@
-Escalda_en_Fitz_Roy,_Chaltén_-_Argentina.jpg, Argentina.]] Valkyrie_(The_Roaches).jpg in Staffordshire, England.]] Rope_Climbing.jpg event, at Lyon's Part-Dieu shopping centre.]] Eisklettern_kl_engstligenfall.jpg using ice axes and crampons.]]

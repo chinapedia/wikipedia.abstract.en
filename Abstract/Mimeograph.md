@@ -1,1 +1,0 @@
-Mimeograph.svg

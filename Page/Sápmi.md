@@ -1,12 +1,6 @@
 +--------------------------------------------------------------------------------------------------------------------------------------+
-| Sami_flag.svg                                                                                                                        |
 |                                                                                                                                      |
-| Flag_of_Norway.svg                                                                                                                   |
-| Flag_of_Sweden.svg                                                                                                                   |
-| Flag_of_Finland.svg                                                                                                                  |
-| Flag_of_Russia.svg                                                                                                                   |
 +--------------------------------------------------------------------------------------------------------------------------------------+
-| LocationSapmi.png                                                                                                                    |
 | Location of Sápmi in Europe                                                                                                          |
 +--------------------------------------------------------------------------------------------------------------------------------------+
 | National anthem                                                                                                                      |
@@ -92,8 +86,6 @@ Finally, Sápmi may also be sub-divided into cultural regions according to the s
 
 Languages
 
-Corrected_sami_map_4.PNG
-
 Sámi languages
 
 The Saamic languages are the region's main minority languages and also its original languages. They belong to the Uralic language family, and are most closely related to the Finnic languages. Many Sami languages are mutually unintelligible, but the languages originally formed a dialect continuum stretching southwest-northeast, so that a message could hypothetically be passed between Sami speakers from one end to the other and be understood by all. Today, however, many of the languages are moribund and thus there are "gaps" in the original continuum.
@@ -152,7 +144,7 @@ Norway, Finland and Sweden all have Sami Parliaments that to varying degrees are
 
 Sami Parliaments
 
-Samediggi03.jpg Every Norwegian citizen registered as a Sami has the right to vote in the elections for the Sami Parliament of Norway. Elections are held every four years by direct vote from seven constituencies covering all of Norway (six of which are in Sápmi), and run parallel to the general Norwegian parliamentary elections. This is the Sami Parliament with the most influence over any part of Sápmi, as it is involved in the autonomy established by the Finnmark Act.The parliament is situated in Kárášjohka and its current President is Aili Keskitalo from the Norwegian Sami Association.
+Every Norwegian citizen registered as a Sami has the right to vote in the elections for the Sami Parliament of Norway. Elections are held every four years by direct vote from seven constituencies covering all of Norway (six of which are in Sápmi), and run parallel to the general Norwegian parliamentary elections. This is the Sami Parliament with the most influence over any part of Sápmi, as it is involved in the autonomy established by the Finnmark Act.The parliament is situated in Kárášjohka and its current President is Aili Keskitalo from the Norwegian Sami Association.
 
 The Sami Parliament of Sweden, situated in Kiruna (Northern Sami: _Giron_), is elected by a general vote where all registered Sami citizens of Sweden may attend. The current President is Lars-Anders Baer.
 

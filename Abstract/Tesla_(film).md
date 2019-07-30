@@ -1,1 +1,0 @@
-_TESLA_ is a 2016 American documentary film about Nikola Tesla.[1] The film is directed by David Grubin and distributed on the PBS network.[2] It premiered on October 18, 2016 as part of the _American Experience_ series during the 28th season.

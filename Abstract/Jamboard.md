@@ -1,1 +1,0 @@
-JAMBOARD is an interactive whiteboard developed by Google, as part of the G Suite family. It was officially announced on 25 October 2016. It has a 55" 4K touchscreen display, and will have compatibility for online collaboration through cross-platform support. The display can also be mounted onto a wall or be configured into a stand.

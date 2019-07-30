@@ -1,1 +1,0 @@
-WILLIAM I, COUNT OF EU (978-after 1057), illegitimate son of Richard I, Duke of Normandy. Count of Eu and Count of Hiémois. William succeeded his nephew, Gilbert, as Count of Eu and Hiémois after his murder in 1040.

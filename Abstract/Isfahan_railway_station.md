@@ -1,1 +1,0 @@
-ISFAHAN RAILWAY STATION (_Persian:_ايستگاه راه آهن اصفهان, _Istgah-e Rah Ahan-e Isfahan_) is located in Isfahan, Isfahan Province, the third largest city and second largest metropolitan area of Iran. The station is owned by IRI Railway and currently has two tri-weekly services, one to Mashhad and one to Bandarabbas.

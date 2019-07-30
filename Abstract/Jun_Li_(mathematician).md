@@ -1,1 +1,0 @@
-JUN LI () is a Chinese mathematician who is currently a Professor of Mathematics at Stanford University.[1] He focuses primarily on moduli problems in algebraic geometry and their applications to mathematical physics, geometry and topology. He received his Ph.D. from Harvard University in 1989, under the supervision of Shing-Tung Yau.[2]

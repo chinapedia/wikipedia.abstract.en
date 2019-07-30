@@ -12,7 +12,7 @@ The railroad network experienced improvements in the 1980s with electrification 
 
 Railroad
 
-KTX-I.jpg The largest railway operator is Korail. Railway network is managed by Korea Rail Network Authority.
+The largest railway operator is Korail. Railway network is managed by Korea Rail Network Authority.
 
 Korea Train Express began service in April 2004, as Korea's first high-speed service. Intercity services are provided by ITX-Saemaeul and Mugunghwa-ho. ITX-Saemaeul generally stops less than Mugunghwa-ho. They stop in all stations and seat reservation is not available. On routes where KTX operates, air travel significantly declined with less passengers choosing to fly and airlines offering fewer flights.
 
@@ -36,11 +36,11 @@ Buses
 
 Regional services
 
-Gyeongbu_Expressway_Bus_Only_Lane.JPG in South Korea.]] Virtually all towns in South Korea of all sizes are served by regional bus service. Regional routes are classified as _gosok bus_ (고속버스, "high speed" express bus) or _sioe bus_ (시외버스, "suburban" intercity bus) with gosok buses operating over the longer distances and making the fewest (if any) stops en route. Shioe buses typically operate over shorter distances, are somewhat slower, and make more stops.
+in South Korea.]] Virtually all towns in South Korea of all sizes are served by regional bus service. Regional routes are classified as _gosok bus_ (고속버스, "high speed" express bus) or _sioe bus_ (시외버스, "suburban" intercity bus) with gosok buses operating over the longer distances and making the fewest (if any) stops en route. Shioe buses typically operate over shorter distances, are somewhat slower, and make more stops.
 
 Local services
 
-Seoul_Bus_Route_7017.jpg Within cities and towns, two types of city bus operate in general: _jwaseok_ (좌석, "coach") and _dosihyeong_ (도시형, "city type") or _ipseok_ (입석, "standing"). Both types of bus often serve the same routes, make the same (or fewer) stops and operate on similar frequencies, but jwaseok buses are more expensive and offer comfortable seating, while doshihyeong buses are cheaper and have fewer and less comfortable seats. Many small cities and towns do not have jwaseok buses and their buses are officially called _nongeochon_ (농어촌, "rural area" bus).
+Within cities and towns, two types of city bus operate in general: _jwaseok_ (좌석, "coach") and _dosihyeong_ (도시형, "city type") or _ipseok_ (입석, "standing"). Both types of bus often serve the same routes, make the same (or fewer) stops and operate on similar frequencies, but jwaseok buses are more expensive and offer comfortable seating, while doshihyeong buses are cheaper and have fewer and less comfortable seats. Many small cities and towns do not have jwaseok buses and their buses are officially called _nongeochon_ (농어촌, "rural area" bus).
 
 Some cities have their own bus classifying systems.
 
@@ -61,7 +61,7 @@ Some cities have their own bus classifying systems.
 
 Other services
 
-Bus_Station_Incheon_Airport.JPG bus station]]
+bus station]]
 
 Incheon International Airport is served by an extensive network of high-speed buses from all parts of the country.
 
@@ -70,15 +70,13 @@ Beginning in the late 1990s, many department stores operated their own small net
 
 Roads
 
-Map_of_South_Korea_Expressway.PNG
-
 Highways in South Korea are classified as freeways (expressways/motorways), national roads and various classifications below the national level. Almost all freeways are toll highways and most of the expressways are built, maintained and operated by Korea Expressway Corporation (KEC).
 
 The freeway network serves most parts of South Korea. Tolls are collected using an electronic toll collection system. KEC also operates service amenities (dining and service facilities) en route.
 
 There are also several privately financed toll roads. Nonsan-Cheonan Expressway, Daegu-Busan Expressway, Incheon International Airport Expressway, Seoul-Chuncheon Expressway and parts of the Seoul Ring Expressway are wholly privately funded and operated BOT concessions. Donghae Expressway was built in cooperation between KEC and the National Pension Service.
 
-NoojiJCT_IncheonInternationalAirportExpressWay.jpg]]
+]]
 
 Total length of the South Korean road network was 86,989 km in 1998. Of this, 1,996 km was expressways and 12,447 km national roads. By 2009, combined length of the expressways had reached approximately 3,000 km, it mostly equal to the whole area of South Korea
 
@@ -95,7 +93,7 @@ There are 1,609 km of navigable waterways in South Korea, though use is restric
 
 Ferries
 
-Korea_Busan_Pusan_International_Ferry_Terminal.JPG The southern and westerns coasts of the country are dotted with small islands which are served by ferries. In addition, the larger offshore Jeju and Ulleung Islands are also served by ferry. Major centres for ferry service include Incheon, Mokpo, Pohang and Busan, as well as China and Japan.
+The southern and westerns coasts of the country are dotted with small islands which are served by ferries. In addition, the larger offshore Jeju and Ulleung Islands are also served by ferry. Major centres for ferry service include Incheon, Mokpo, Pohang and Busan, as well as China and Japan.
 
 Ports and harbours
 

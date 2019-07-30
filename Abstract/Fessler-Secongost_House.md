@@ -1,1 +1,0 @@
-FESSLER-SECONGOST HOUSE is a historic home located at Boonville, Cooper County, Missouri. It was built about 1862, and is a 1 1/2-story, two-thirds-plan, vernacular Gothic Revival style brick dwelling. It has steeply pitched cross-gable roof with bracketed eaves and a rear ell.[1]

@@ -1,5 +1,3 @@
-Shuttlecocks_Yonex_Aerosensa_20.jpg ShuttlecockPhoto.jpg
-
 A SHUTTLECOCK (also called a BIRD or BIRDIE) is a high-drag projectile used in the sport of badminton. It has an open conical shape formed by feathers (or a synthetic alternative) embedded into a rounded cork (or rubber) base. The shuttlecock's shape makes it extremely aerodynamically stable. Regardless of initial orientation, it will turn to fly cork first, and remain in the cork-first orientation.
 
 

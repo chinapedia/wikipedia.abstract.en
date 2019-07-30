@@ -1,1 +1,0 @@
-ROLLEE N. MCGILL (December 29, 1931 – October 11, 2000)[1] was an American R&B singer and saxophonist. He had an R&B chart hit in 1955 with "There Goes That Train", and played the saxophone solo on the Silhouettes' 1957 US number one hit "Get a Job".

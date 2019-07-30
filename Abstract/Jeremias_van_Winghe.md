@@ -1,1 +1,0 @@
-Jeremias_van_Winghe_-_A_roemer_on_a_silver-gilt_bekerschroef,_sweetmeats_in_a_silver_tazza,_langoustines_on_a_plate.jpg JEREMIAS VAN WINGHE[1][2] (Brussels. 1578 – Frankfurt am Main, 1645) was a Flemish painter known for his portraits, genre scenes, kitchen scenes and still life paintings. After training in Brussels and Amsterdam, he was mainly active in Frankfurt am Main.

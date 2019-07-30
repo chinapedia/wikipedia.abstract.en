@@ -11,8 +11,6 @@ _E_₂ − _E_₁ = ℏ_ω_,
 
 where ℏ is the reduced Planck constant. Note: ℏω = hν, where h is the Planck constant and ν is the linear frequency. The phase of the photon in spontaneous emission is random as is the direction in which the photon propagates. This is not true for stimulated emission. An energy level diagram illustrating the process of spontaneous emission is shown below:
 
-Image:Spontaneousemission.png
-
 If the number of light sources in the excited state at time t is given by N(t), the rate at which N decays is:
 
 $$\frac{\partial N(t)}{\partial t} = -A_{21} N(t),$$

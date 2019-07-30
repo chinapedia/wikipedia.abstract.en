@@ -1,1 +1,0 @@
-The 2016–17 CSA PROVINCIAL ONE-DAY CHALLENGE was a List A cricket competition that took place in South Africa from 9 October 2016 to 2 April 2017.[1][2] The competition was played between the thirteen South African provincial teams and Namibia. The tournament was played in parallel with the 2016–17 Sunfoil 3-Day Cup, a first-class competition which featured the same teams.

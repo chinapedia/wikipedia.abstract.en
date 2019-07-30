@@ -1,1 +1,0 @@
-NICK & YOU is a 2-hour children's block that airs on the Vietnamese TV channel, You TV (Hanoicab 2). The block first launched on September 15, 2016.[1] The channel features TV shows from the children's TV channel, Nickelodeon, and all of its programs are dubbed into Vietnamese.

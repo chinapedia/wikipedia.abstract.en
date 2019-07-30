@@ -1,1 +1,0 @@
-HENA MAES-JELINEK (1929-2008) was a Czech-born Belgian literary scholar. She has been called "one of the founding mothers of the study of Commonwealth Literature and, later, Postcolonial studies in Europe",Peterson, Kirsten Holst, [Available at:http://ro.uow.edu.au/kunapipi/vol30/iss2/3

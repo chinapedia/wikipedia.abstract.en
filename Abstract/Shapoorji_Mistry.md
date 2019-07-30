@@ -1,1 +1,0 @@
-SHAPOORJI MISTRY was an Indian businessman, and the founder of the Shapoorji Pallonji Group. He was the father of Pallonji Mistry. Shapoorji Mistry's grandson Cyrus Mistry was the Chairman of Tata Sons. The Shapoorji Pallonji group is one of India's leading industrial conglomerate and a major construction company.

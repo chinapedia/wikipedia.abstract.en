@@ -1,1 +1,0 @@
-NINE CHOUCROUN, born FORTUNÉE SCHECROUN (October 6, 1896 – December 10, 1978) was a French biochemist. She was director of research at the Institut de biologie physico-chimique in Paris. She developed, _inter alia_, the electrophoresis.[1]

@@ -1,1 +1,0 @@
-LYUDMILA IVANOVNA GAVRILOVA () is a Soviet and Russian film and stage actress, lecturer of acting Boris Shchukin Theatre Institute, a leading informational and educational channel _Nastroyeniye_ on TV Tsentr channel. Honored Artist of Russia (2007).[1]

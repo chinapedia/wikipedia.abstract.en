@@ -1,9 +1,9 @@
-Sierra_Leone_Road.jpg to Kailahun District.]] There are a number of systems of TRANSPORT IN SIERRA LEONE, a country in West Africa, which possess road, rail, air and water infrastructure, including a network of highways and several airports.
+to Kailahun District.]] There are a number of systems of TRANSPORT IN SIERRA LEONE, a country in West Africa, which possess road, rail, air and water infrastructure, including a network of highways and several airports.
 
 
 Railways
 
-Railways_in_Sierra_Leone.svg There are 84 kilometres (52 mi) of railway in Sierra Leone, of which all is of a narrow gauge. Sierra Leone no longer has any common carrier railroads, as the gauge Sierra Leone Government Railway from Freetown through Bo to Kenema and Daru with a branch to Makeni closed in 1974. The country does not share rail links with adjacent countries, Guinea and Liberia.
+There are 84 kilometres (52 mi) of railway in Sierra Leone, of which all is of a narrow gauge. Sierra Leone no longer has any common carrier railroads, as the gauge Sierra Leone Government Railway from Freetown through Bo to Kenema and Daru with a branch to Makeni closed in 1974. The country does not share rail links with adjacent countries, Guinea and Liberia.
 
 The existing railroad is private and operated from 1933 until 1975 by the Sierra Leone Development Company's iron ore mines at Marampa, 66 km (41 mi) east-northeast of the port at Pepel. It is now used on a limited basis. Tecsbacos, the mining company, is reported in 2006 to have problems of theft and obstruction in operating the railway.[1]
 

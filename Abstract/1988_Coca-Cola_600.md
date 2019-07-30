@@ -1,1 +1,0 @@
-The 1988 COCA-COLA 600, the 29th running of the event, was a NASCAR Winston Cup Series race held on May 29, 1988 at Charlotte Motor Speedway in Charlotte, North Carolina. Contested over 400 laps on the 1.5 mile (2.4 km) speedway, it was the 10th race of the 1988 NASCAR Winston Cup Series season. Darrell Waltrip of Hendrick Motorsports won the race.

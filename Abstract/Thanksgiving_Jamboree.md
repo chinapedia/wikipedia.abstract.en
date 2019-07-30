@@ -1,1 +1,0 @@
-"THANKSGIVING JAMBOREE" is the seventh episode of the eighth season of the American sitcom _Modern Family_. It aired on November 16, 2016 on American Broadcasting Company (ABC). The episode is directed by Steven Levitan and written by Jon Pollack and Chuck Tatham.

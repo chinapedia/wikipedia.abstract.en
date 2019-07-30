@@ -1,1 +1,0 @@
-The NEXT NEW ZEALAND GENERAL ELECTION will be held after the currently elected 52nd New Zealand Parliament is dissolved or expires. The current Parliament was elected on Saturday, 23 September 2017. The last possible date for the next general election to be held is Saturday, 21 November 2020.

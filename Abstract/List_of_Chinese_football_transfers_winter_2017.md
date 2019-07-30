@@ -1,1 +1,0 @@
-This is a LIST OF CHINESE FOOTBALL TRANSFERS FOR THE 2017 SEASON WINTER TRANSFER WINDOW. Super League and League One transfer windows were opened on 1 January 2017 and closed on 28 February 2017.[1] League Two transfer window was opened on 1 March 2017 and closed on 15 March 2017.[2]

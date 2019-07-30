@@ -1,1 +1,0 @@
-The 1991 FIBA EUROPE UNDER-16 CHAMPIONSHIP FOR WOMEN (known at that time as 1991 EUROPEAN CHAMPIONSHIP FOR CADETTES) was the ninth edition of the FIBA Europe Under-16 Championship for Women. 12 teams featured in the competition, held in Estarreja, Travassô e Óis da Ribeira and Anadia, Portugal, from 20 to 28 July 1991.

@@ -1,1 +1,0 @@
-OTHMAR STEINBAUER (6 November 1895 – 5 September 1962) was an Austrian composer and music theorist. He progressed developments in twelve-tone composition (__). His own teachers included Joseph Marx, Anton von Webern, Arnold Schönberg and Josef Matthias Hauer.[1][2][3]

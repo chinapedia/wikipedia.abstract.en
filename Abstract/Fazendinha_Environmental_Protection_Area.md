@@ -1,1 +1,0 @@
-The FAZENDINHA ENVIRONMENTAL PROTECTION AREA () is an environmental protection area in the state of Amapá, Brazil. There has been ongoing conflict between the residents and the state agency responsible for preserving the environment and developing the ecotourism potential.

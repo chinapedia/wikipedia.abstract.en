@@ -1,1 +1,0 @@
-The KILL SCREEN FESTIVAL (often simply known as KILL SCREEN FEST; formerly TWO5SIX) is an annual video game developer conference inaugurated on 11 May 2013 in New York City by the print and online magazine _Kill Screen_. The annual conference focuses on video games, art and culture and features speakers from both the entertainment and video game industry.
