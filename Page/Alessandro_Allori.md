@@ -1,6 +1,6 @@
 ALESSANDRO DI CRISTOFANO DI LORENZO DEL BRONZINO ALLORI (Florence, 31 May 153522 September 1607) was an Italian portrait painter of the late Mannerist Florentine school.
 
-Alessandro_Allori_-_Bianca_Capello_(Dallas_Museum).jpg]]
+]]
 
 In 1540, after the death of his father, he was brought up and trained in art by a close friend, often referred to as his 'uncle', the mannerist painter Agnolo Bronzino, whose name he sometimes assumed in his pictures.[1] In some ways, Allori is the last of the line of prominent Florentine painters, of generally undiluted Tuscan artistic heritage: Andrea del Sarto worked with Fra Bartolomeo (as well as Leonardo da Vinci), Pontormo briefly worked under Andrea, and trained Bronzino, who trained Allori. Subsequent generations in the city would be strongly influenced by the tide of Baroque styles pre-eminent in other parts of Italy.
 
@@ -12,8 +12,6 @@ He was the father of the painter Cristofano Allori (1577–1621).
 
 
 Main works
-
-Alessandro_Allori_002.jpg
 
 -   _Portrait of a Young Man_ (1561; Ashmolean Museum, Oxford)
 -   _Christ and the Samaritan Woman_ (Altarpiece, 1575, Santa Maria Novella, now Prato)

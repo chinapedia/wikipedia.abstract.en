@@ -12,7 +12,7 @@ The 26th General Conference on Weights and Measures (CGPM) redefined the candela
 
 Explanation
 
-Linear_visible_spectrum.svg The frequency chosen is in the visible spectrum near green, corresponding to a wavelength of about 555 nanometres. The human eye, when adapted for bright conditions, is most sensitive near this frequency. At other frequencies, more radiant intensity is required to achieve the same luminous intensity, according to the frequency response of the human eye. The luminous intensity for light of a particular wavelength _λ_ is given by
+The frequency chosen is in the visible spectrum near green, corresponding to a wavelength of about 555 nanometres. The human eye, when adapted for bright conditions, is most sensitive near this frequency. At other frequencies, more radiant intensity is required to achieve the same luminous intensity, according to the frequency response of the human eye. The luminous intensity for light of a particular wavelength _λ_ is given by
 
 $$I_\mathrm{v}(\lambda)= 683.002\ \mathrm{lm/W} \cdot \overline{y}(\lambda) \cdot I_\mathrm{e}(\lambda) ,$$
 where _I__(v)(_λ_) is the luminous intensity, _I__(e)(_λ_) is the radiant intensity and $\textstyle \overline{y}(\lambda)$ is the photopic luminosity function. If more than one wavelength is present (as is usually the case), one must integrate over the spectrum of wavelengths to get the total luminous intensity.

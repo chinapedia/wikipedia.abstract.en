@@ -19,7 +19,7 @@ Under CEO Arnold Greenberg, the company entered the video game console business 
 
 Coleco continued to do well in electronics. The company transitioned next into handheld electronic games, a market popularized by Mattel. An early hit was Electronic Quarterback. Coleco produced two very popular lines of games, the "head to head" series of two player sports games, (Football, Baseball, Basketball, Soccer, Hockey) and the Mini-Arcade series of licensed video arcade titles such as _Donkey Kong_ and _Ms. Pac-Man_. A third line of educational handhelds was also produced and included the Electronic Learning Machine, Lil Genius, Digits, and a trivia game called Quiz Wiz.[8] Launched in 1982, their first four tabletop Mini-Arcades, for _Pac-Man_, _Galaxian_, _Donkey Kong_, and _Frogger_, sold approximately three million units within a year.[9] Among these, 1.5 million units were sold for _Pac-Man_ alone.[10][11] In 1983, it released three more Mini-Arcades: for _Ms. Pac-Man_, _Donkey Kong Junior_, and _Zaxxon_.[12]
 
-ColecoVision-wController-L.jpg video game console]]
+video game console]]
 
 Coleco returned to the video game console market in 1982 with the launch of the ColecoVision.[13] While the system was quite popular, selling 500,000 units over two years,[14] Coleco hedged its bet on video games by introducing a line of ROM cartridges for the Atari 2600 and Intellivision. It also introduced the Coleco Gemini, a clone of the popular Atari 2600.
 

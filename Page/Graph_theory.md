@@ -1,4 +1,4 @@
-6n-graf.svg of a graph.]]
+of a graph.]]
 
 In mathematics, GRAPH THEORY is the study of _graphs_, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of _vertices_ (also called _nodes_ or _points_) which are connected by _edges_ (also called _links_ or _lines_). A distinction is made between UNDIRECTED GRAPHS, where edges link two vertices symmetrically, and DIRECTED GRAPHS, where edges link two vertices asymmetrically; see Graph (discrete mathematics) for more detailed definitions and for other variations in the types of graph that are commonly considered. Graphs are one of the prime objects of study in discrete mathematics.
 
@@ -10,8 +10,6 @@ Definitions
 Definitions in graph theory vary. The following are some of the more basic ways of defining graphs and related mathematical structures.
 
 Graph
-
-Undirected.svg
 
 In one restricted but very common sense of the term,[1] a GRAPH is an ordered pair comprising:
 
@@ -40,8 +38,6 @@ The edges of an undirected simple graph permitting loops _G_ induce a symmetric 
 
 Directed graph
 
-Directed.svg
-
 A DIRECTED GRAPH or DIGRAPH is a graph in which edges have orientations.
 
 In one restricted but very common sense of the term, a DIRECTED GRAPH is an ordered pair comprising:
@@ -68,8 +64,6 @@ The edges of a directed simple graph permitting loops _G_ is a homogeneous relat
 
 Applications
 
-Wikipedia_multilingual_network_graph_July_2013.svg
-
 Graphs can be used to model many types of relations and processes in physical, biological,[3][4] social and information systems. Many practical problems can be represented by graphs. Emphasizing their application to real-world systems, the term _network_ is sometimes defined to mean a graph in which attributes (e.g. names) are associated with the vertices and edges, and the subject that expresses and understands the real-world systems as a network is called network science.
 
 Computer science
@@ -86,7 +80,7 @@ Graph theory is also used to study molecules in chemistry and physics. In conden
 
 Social sciences
 
-Moreno_Sociogram_2nd_Grade.png Sociogram (1953).[10]]] Graph theory is also widely used in sociology as a way, for example, to measure actors' prestige or to explore rumor spreading, notably through the use of social network analysis software. Under the umbrella of social networks are many different types of graphs.[11] Acquaintanceship and friendship graphs describe whether people know each other. Influence graphs model whether certain people can influence the behavior of others. Finally, collaboration graphs model whether two people work together in a particular way, such as acting in a movie together.
+Sociogram (1953).[10]]] Graph theory is also widely used in sociology as a way, for example, to measure actors' prestige or to explore rumor spreading, notably through the use of social network analysis software. Under the umbrella of social networks are many different types of graphs.[11] Acquaintanceship and friendship graphs describe whether people know each other. Influence graphs model whether certain people can influence the behavior of others. Finally, collaboration graphs model whether two people work together in a particular way, such as acting in a movie together.
 
 Biology
 
@@ -105,7 +99,7 @@ A graph structure can be extended by assigning a weight to each edge of the grap
 
 History
 
-Konigsberg_bridges.png The paper written by Leonhard Euler on the Seven Bridges of Königsberg and published in 1736 is regarded as the first paper in the history of graph theory.[13] This paper, as well as the one written by Vandermonde on the _knight problem,_ carried on with the _analysis situs_ initiated by Leibniz. Euler's formula relating the number of edges, vertices, and faces of a convex polyhedron was studied and generalized by Cauchy[14] and L'Huilier,[15] and represents the beginning of the branch of mathematics known as topology.
+The paper written by Leonhard Euler on the Seven Bridges of Königsberg and published in 1736 is regarded as the first paper in the history of graph theory.[13] This paper, as well as the one written by Vandermonde on the _knight problem,_ carried on with the _analysis situs_ initiated by Leibniz. Euler's formula relating the number of edges, vertices, and faces of a convex polyhedron was studied and generalized by Cauchy[14] and L'Huilier,[15] and represents the beginning of the branch of mathematics known as topology.
 
 More than one century after Euler's paper on the bridges of Königsberg and while Listing was introducing the concept of topology, Cayley was led by an interest in particular analytical forms arising from differential calculus to study a particular class of graphs, the _trees_.[16] This study had many implications for theoretical chemistry. The techniques he used mainly concern the enumeration of graphs with particular properties. Enumerative graph theory then arose from the results of Cayley and the fundamental results published by Pólya between 1935 and 1937. These were generalized by De Bruijn in 1959. Cayley linked his results on trees with contemporary studies of chemical composition.[17] The fusion of ideas from mathematics with those from chemistry began what has become part of the standard terminology of graph theory.
 

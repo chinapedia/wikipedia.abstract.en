@@ -46,7 +46,7 @@ Defenders of this view, such as Ronald Fung, disagree with both parts of Lightfo
 
 Outline
 
-PaulT.jpg's depiction of "Saint Paul Writing His Epistles", 16th century (Blaffer Foundation Collection, Houston, Texas). Lightfoot notes with respect to verse 6:11 that at this point "the apostle takes the pen from his amanuensis, and the concluding paragraph is written with his own hand".[28]]]The citation here is based on the content of the gospel. Alternative outlines have been introduced based on the rhetorical form of the letter.[29]
+'s depiction of "Saint Paul Writing His Epistles", 16th century (Blaffer Foundation Collection, Houston, Texas). Lightfoot notes with respect to verse 6:11 that at this point "the apostle takes the pen from his amanuensis, and the concluding paragraph is written with his own hand".[28]]]The citation here is based on the content of the gospel. Alternative outlines have been introduced based on the rhetorical form of the letter.[29]
 
 Galatians
 

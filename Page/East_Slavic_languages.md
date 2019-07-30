@@ -5,8 +5,6 @@ The East Slavic languages descend from a common predecessor, the language of the
 
 Classification
 
-East_Slavic_Languages_Tree_en.png
-
 
 Differentiation
 

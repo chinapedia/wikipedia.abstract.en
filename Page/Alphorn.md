@@ -1,4 +1,4 @@
-Bardentreffen_2009_2169.jpg) playing the alphorn at the Bardentreffen festival in Nuremberg 2009.]]
+) playing the alphorn at the Bardentreffen festival in Nuremberg 2009.]]
 
 The ALPHORN or ALPENHORN or ALPINE HORN is a labrophone, consisting of a straight several-meter-long wooden natural horn of conical bore, with a wooden cup-shaped mouthpiece. It is used by mountain dwellers in the Swiss Alps, Austrian Alps, Bavarian Alps in Germany, French Alps, and elsewhere. Similar wooden horns were used for communication in most mountainous regions of Europe, from the Alps to the Carpathians. Alphorns are today used as musical instruments.
 
@@ -12,22 +12,20 @@ For a long time, scholars believed that the alphorn had been derived from the Ro
 
 Construction and qualities
 
-Alphorn_player_in_Wallis.jpg
-
 The alphorn is carved from solid softwood, generally spruce but sometimes pine. In former times the alphorn maker would find a tree bent at the base in the shape of an alphorn, but modern makers piece the wood together at the base. A cup-shaped mouthpiece carved out of a block of hard wood is added and the instrument is complete.
 
 An alphorn made at Rigi-Kulm, Schwyz, and now in the Victoria and Albert Museum, measures in length and has a straight tube. The Swiss alphorn varies in shape according to the locality, being curved near the bell in the Bernese Oberland. Michael Praetorius mentions an alphorn-like instrument under the name of Hölzern Trummet (wooden trumpet) in _Syntagma Musicum_ (Wittenberg, 1615–1619; Pl. VIII).[1]
 
-The alphorn has no lateral openings and therefore gives the pure natural harmonic series of the open pipe.[2] The notes of the natural harmonic series overlap, but do not exactly correspond, to notes found in the familiar chromatic scale in standard Western equal temperament. Most prominently within the alphorn's range, the 7th and 11th harmonics are particularly noticeable, because they fall between adjacent notes in the chromatic scale. Harmonic_Series.png
+The alphorn has no lateral openings and therefore gives the pure natural harmonic series of the open pipe.[2] The notes of the natural harmonic series overlap, but do not exactly correspond, to notes found in the familiar chromatic scale in standard Western equal temperament. Most prominently within the alphorn's range, the 7th and 11th harmonics are particularly noticeable, because they fall between adjacent notes in the chromatic scale.
 
 Accomplished alphornists often command a range of nearly three octaves, consisting of the 2nd through the 16th notes of the harmonic series. The availability of the higher tones is due in part to the relatively small diameter of the bore of the mouthpiece and tubing in relation to the overall length of the horn.
 
-Alphorn-MJ.jpg The well-known "Ranz des Vaches" (score; audio) is a traditional Swiss melody often heard on the alphorn. The song describes the time of bringing the cows to the high country at cheese making time. Rossini introduced the "Ranz des Vaches" into his masterpiece _William Tell,_ along with many other delightful melodies scattered throughout the opera in vocal and instrumental parts that are well-suited to the alphorn. Brahms wrote to Clara Schumann that the inspiration for the dramatic entry of the horn in the introduction to the last movement of his First Symphony was an alphorn melody he heard while vacationing in the Rigi area of Switzerland.
+The well-known "Ranz des Vaches" (score; audio) is a traditional Swiss melody often heard on the alphorn. The song describes the time of bringing the cows to the high country at cheese making time. Rossini introduced the "Ranz des Vaches" into his masterpiece _William Tell,_ along with many other delightful melodies scattered throughout the opera in vocal and instrumental parts that are well-suited to the alphorn. Brahms wrote to Clara Schumann that the inspiration for the dramatic entry of the horn in the introduction to the last movement of his First Symphony was an alphorn melody he heard while vacationing in the Rigi area of Switzerland.
 
 
 Music for alphorn
 
-Fanfare_27BCA_01.JPG of the French Chasseurs Alpins uses Alphorns.]] Among music composed for the alphorn:
+of the French Chasseurs Alpins uses Alphorns.]] Among music composed for the alphorn:
 
 -   "Concerto Grosso No. 1" (2013) for four alphorns and orchestra by Georg Friedrich Haas[3][4]
 -   _Sinfonia Pastorella for Alphorn and String Orchestra_ (1755) by Leopold Mozart

@@ -20,8 +20,6 @@ In 1983 Spectravideo announced the SV-603 ColecoVision Video Game Adapter for it
 
 Hardware
 
-ColecoVision-Controller-FR.jpg
-
 The main console unit consists of a 14×8×2-inch rectangular plastic case that houses the motherboard, with a cartridge slot on the right side and connectors for the external power supply and RF jack at the rear. The controllers connect into plugs in a recessed area on the top of the unit.
 
 The design of the controllers is similar to that of Mattel's Intellivision—the controller is rectangular and consists of a numeric keypad and a set of side buttons. In place of the circular control disc below the keypad, the Coleco controller has a short, 1.5-inch joystick. The keypad is designed to accept a thin plastic overlay that maps the keys for a particular game. Each ColecoVision console shipped with two controllers.
@@ -30,7 +28,7 @@ All first-party cartridges and most third-party software titles feature a 12-sec
 
 Technical specifications
 
-ColecoVision-Open-FL.jpg ColecoVision-Motherboard-Top.jpg CPU, which is commonly used in arcade games.]]
+CPU, which is commonly used in arcade games.]]
 
 -   CPU: NEC version of Zilog Z80A @ 3.58 MHz (See chip U1, marked NEC D780C-1 in circuit board picture)
 -   Video processor: Texas Instruments TMS9928A (40-pin DIP located under the heat sink)
@@ -51,11 +49,7 @@ From its introduction, Coleco touted the ColecoVision's hardware expandability b
 
 Released
 
-ColecoVision-ExpMod1-Attached.jpg
-
 1.  EXPANSION MODULE #1 makes the ColecoVision compatible with the industry-leading Atari 2600, with some exceptions.[22] Functionally, this gave the ColecoVision the largest software library of any console of its day. The expansion module prompted legal action from Atari. Coleco and Atari settled out of court with Coleco becoming licensed under Atari's patents. The royalty based license also applied to Coleco's Gemini game system, which was a clone of the 2600, but with combined joystick/paddle controllers.[23]
-
-ColecoVision-Expansion2.jpg
 
 1.  EXPANSION MODULE #2 is a driving controller (steering wheel / gas pedal) that came packaged with a port of the arcade game _Turbo_. The gas pedal is merely a simple on/off switch, so many gamers used the second ColecoVision controller as a gear shift for more precise speed control.[24] Although Coleco called the driving controller an expansion module, it actually plugs into the controller port, not the _Expansion Module Interface_.[25] The driving controller is also compatible with the games _Destructor_, _Bump 'n' Jump_, _Pitstop_, and _The Dukes of Hazzard_.
 2.  EXPANSION MODULE #3 converts the ColecoVision into a full-fledged computer known as the Adam, complete with keyboard, digital data pack (DDP) cassette drives and printer.

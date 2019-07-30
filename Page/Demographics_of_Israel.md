@@ -117,7 +117,7 @@ Fertility rates between secular and religious Jewish groups also differ signific
 
 Arabs
 
-Map_of_Arabic_speaking_localities_in_Israel.png Arab citizens of Israel are those Arab residents of Mandatory Palestine, who remained within Israel's borders following the 1948 Arab–Israeli War, and the establishment of the state of Israel. It is including those born within the state borders subsequent to this time, as well as those who had left during the establishment of the state (or their descendants), who have since re-entered by means accepted as lawful residence by the Israeli state (primarily family reunifications).
+Arab citizens of Israel are those Arab residents of Mandatory Palestine, who remained within Israel's borders following the 1948 Arab–Israeli War, and the establishment of the state of Israel. It is including those born within the state borders subsequent to this time, as well as those who had left during the establishment of the state (or their descendants), who have since re-entered by means accepted as lawful residence by the Israeli state (primarily family reunifications).
 
 In 2013, the official number of Arab residents in Israel was 1,658,000 people, representing 21% of Israel’s population.[26] This figure includes 209,000 Arabs (14% of the Israeli Arab population) in East Jerusalem, also counted in the Palestinian statistics, although 98 percent of East Jerusalem Palestinians have either Israeli residency or Israeli citizenship.[27]
 
@@ -169,11 +169,11 @@ About 4,000 Armenians reside in Israel mostly in Jerusalem (including in the Arm
 
 Circassians
 
-Circassians_in_Israel.Jpg]] In Israel, there are also a few thousand Circassians, living mostly in Kfar Kama (2,000) and Reyhaniye (1,000).[39] These two villages were a part of a greater group of Circassian villages around the Golan Heights. The Circassians in Israel enjoy, like Druzes, a _status aparte_. Male Circassians (at their leader's request) are mandated for military service, while females are not.
+]] In Israel, there are also a few thousand Circassians, living mostly in Kfar Kama (2,000) and Reyhaniye (1,000).[39] These two villages were a part of a greater group of Circassian villages around the Golan Heights. The Circassians in Israel enjoy, like Druzes, a _status aparte_. Male Circassians (at their leader's request) are mandated for military service, while females are not.
 
 People from post-Soviet states
 
-Russophone_shop_in_Haifa.jpg shop in Haifa]] Ethnic Russians, Ukrainians, and Belorussians, immigrants from the former Soviet Union, who were eligible to emigrate due to having, or being married to somebody who has, at least one Jewish grandparent and thus qualified for Israeli citizenship under the revised Law of Return. A number of these immigrants also belong to various ethnic groups from the Former Soviet Union such as Armenians, Georgians, Azeris, Uzbeks, Moldovans, Tatars, among others. Some of them, having a Jewish father or grandfather, identify as Jews, but being non-Jewish by Orthodox Halakha (religious law), they are not recognized formally as Jews by state. Most of them are in the mainstream of Israel culture and are called "expanded Jewish population". In addition, a certain number of former Soviet citizens, primarily women of Russian and Ukrainian ethnicity, emigrated to Israel, after marrying Muslim or Christian Arab citizens of Israel, who went to study in the former Soviet Union in the 1970s and 1980s.
+shop in Haifa]] Ethnic Russians, Ukrainians, and Belorussians, immigrants from the former Soviet Union, who were eligible to emigrate due to having, or being married to somebody who has, at least one Jewish grandparent and thus qualified for Israeli citizenship under the revised Law of Return. A number of these immigrants also belong to various ethnic groups from the Former Soviet Union such as Armenians, Georgians, Azeris, Uzbeks, Moldovans, Tatars, among others. Some of them, having a Jewish father or grandfather, identify as Jews, but being non-Jewish by Orthodox Halakha (religious law), they are not recognized formally as Jews by state. Most of them are in the mainstream of Israel culture and are called "expanded Jewish population". In addition, a certain number of former Soviet citizens, primarily women of Russian and Ukrainian ethnicity, emigrated to Israel, after marrying Muslim or Christian Arab citizens of Israel, who went to study in the former Soviet Union in the 1970s and 1980s.
 
 Finns
 
@@ -199,7 +199,7 @@ Non-citizens
 
 African migrants
 
-Meeting_between_Sudanese_refugees_and_Israeli_students.jpg The number and status of African migrants in Israel is disputed and controversial, but it is estimated that at least 70,000 refugees mainly from Eritrea, Sudan, South Sudan, Ethiopia, and the Ivory Coast reside and work in Israel. A count in late 2011 published in Ynet pointed out the number only in Tel Aviv is 40,000, which represents 10 percent of the city's population. The vast majority is living at the southern parts of the city. There is a significant population in the southern Israeli cities of Eilat, Arad, and Beersheba.
+The number and status of African migrants in Israel is disputed and controversial, but it is estimated that at least 70,000 refugees mainly from Eritrea, Sudan, South Sudan, Ethiopia, and the Ivory Coast reside and work in Israel. A count in late 2011 published in Ynet pointed out the number only in Tel Aviv is 40,000, which represents 10 percent of the city's population. The vast majority is living at the southern parts of the city. There is a significant population in the southern Israeli cities of Eilat, Arad, and Beersheba.
 
 Foreign workers
 
@@ -212,7 +212,7 @@ Approximately 100–200 refugees from Bosnia, Kosovo, Iraqi Kurdistan, and North
 
 Languages
 
-Masada_road_sign.jpg Due to its immigrant nature, Israel is one of the most multicultural and multilingual societies in the world. Hebrew is the official language of the country, and Arabic is given special status, while English and Russian are the two most widely spoken non-official languages. A certain degree of English is spoken widely, and is the language of choice for many Israeli businesses. Courses of Hebrew and English language are mandatory in the Israeli school system, and most schools offer either Arabic, French, Spanish, German, Italian, or Russian.
+Due to its immigrant nature, Israel is one of the most multicultural and multilingual societies in the world. Hebrew is the official language of the country, and Arabic is given special status, while English and Russian are the two most widely spoken non-official languages. A certain degree of English is spoken widely, and is the language of choice for many Israeli businesses. Courses of Hebrew and English language are mandatory in the Israeli school system, and most schools offer either Arabic, French, Spanish, German, Italian, or Russian.
 
 
 Religion
@@ -277,7 +277,7 @@ _Note:_ includes over 200,000 Israelis and 250,000 Arabs in East Jerusalem, abou
 
 Age structure
 
-Israelpop.svg that shows the age of the population by sex in 2014]] Total:
+that shows the age of the population by sex in 2014]] Total:
 
 -   0–14 years: 28.0%
 -   15–64 years: 62.1%
@@ -500,7 +500,7 @@ According to the Israel Central Bureau of Statistics, as of 2005, 650,000 Israel
 
 Density
 
-Israel_population_density_2014.png, sub-district and geographical area]] Geographic deployment:
+, sub-district and geographical area]] Geographic deployment:
 
 -   Central District: 24% (1,649,800)
 -   Tel Aviv District: 17% (1,190,000)
@@ -618,7 +618,7 @@ Age 15 and over can read and write (2011 estimate):[92]
 -   Male: 98.7%
 -   Female: 96.8%
 
-TFR_vs_PPP_2015.png vs. GDP (PPP) per capita of each country, including Israel, 2015.[93][94]]]
+vs. GDP (PPP) per capita of each country, including Israel, 2015.[93][94]]]
 
 
 Future projections

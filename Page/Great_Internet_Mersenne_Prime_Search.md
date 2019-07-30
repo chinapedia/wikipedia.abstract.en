@@ -1,5 +1,3 @@
-GIMPS_logo.png
-
 The GREAT INTERNET MERSENNE PRIME SEARCH (GIMPS) is a collaborative project of volunteers who use freely available software to search for Mersenne prime numbers.
 
 The GIMPS project was founded by George Woltman in 1996, who also wrote the software Prime95 and MPrime for the project. Scott Kurowski wrote the PrimeNet Internet server that supports the research to demonstrate Entropia-distributed computing software, a company he founded in 1997. GIMPS is registered as Mersenne Research, Inc. Kurowski is Executive Vice President and board director of Mersenne Research Inc. GIMPS is said to be one of the first large scale distributed computing projects over the Internet for research purposes.[1]

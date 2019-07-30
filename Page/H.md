@@ -3,13 +3,12 @@ H (named _aitch_ or, regionally, _haitch_ , plural _aitches_) [1][2] is the eigh
 
 History
 
-+----------------------+-----------------------+--------------------+---------------------------------------------------+--------------------+----------------------+
-| Egyptian hieroglyph  | Old Semitic           | Phoenician         | Greek                                             | Etruscan           | Latin                |
-| fence                |                       | _heth_             | _heta_                                            | H |                | H                    |
-+======================+=======================+====================+===================================================+====================+======================+
-| N24                  | Proto-semiticH-01.svg | PhoenicianH-01.svg | PhoenicianH-01.svgGreek_Eta_2-bars.svg            | PhoenicianH-01.svg | Greek_uncial_Eta.svg |
-|                      |                       |                    | Greek_Eta_square-2-bars.svgGreek_Eta_diagonal.svg |                    |                      |
-+----------------------+-----------------------+--------------------+---------------------------------------------------+--------------------+----------------------+
++----------------------+-------------+------------+--------+----------+-------+
+| Egyptian hieroglyph  | Old Semitic | Phoenician | Greek  | Etruscan | Latin |
+| fence                |             | _heth_     | _heta_ | H |      | H     |
++======================+=============+============+========+==========+=======+
+| N24                  |             |            |        |          |       |
++----------------------+-------------+------------+--------+----------+-------+
 
 The original Semitic letter Heth most likely represented the voiceless pharyngeal fricative (). The form of the letter probably stood for a fence or posts.
 

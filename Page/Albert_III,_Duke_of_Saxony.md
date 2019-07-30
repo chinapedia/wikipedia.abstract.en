@@ -3,7 +3,7 @@ ALBERT III () (27 January 144312 September 1500) was a Duke of Saxony. He was ni
 
 Biography
 
-Dresden_Fürstenzug_086.JPG, Dresden, Germany]] Albert was born in Grimma as the third and youngest son (but fifth child in order of birth) of Frederick II the Gentle, Elector of Saxony, and Margarete of Austria, sister of Frederick III, Holy Roman Emperor. Later, he was a member of the Order of the Golden Fleece.
+, Dresden, Germany]] Albert was born in Grimma as the third and youngest son (but fifth child in order of birth) of Frederick II the Gentle, Elector of Saxony, and Margarete of Austria, sister of Frederick III, Holy Roman Emperor. Later, he was a member of the Order of the Golden Fleece.
 
 After escaping from the hands of Kunz von Kaufungen, who had abducted him together with his brother Ernest, he spent some time at the court of the emperor Frederick III in Vienna. Endnote: See
 

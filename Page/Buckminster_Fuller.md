@@ -5,8 +5,6 @@ Fuller was the second World President of Mensa from 1974 to 1983.[2][3]
 
 Life and work
 
-BuckminsterFuller_cropped.jpg
-
 Fuller was born on July 12, 1895, in Milton, Massachusetts, the son of Richard Buckminster Fuller and Caroline Wolcott Andrews, and grand-nephew of Margaret Fuller, an American journalist, critic, and women's rights advocate associated with the American transcendentalism movement. The unusual middle name, Buckminster, was an ancestral family name. As a child, Richard Buckminster Fuller tried numerous variations of his name. He used to sign his name differently each year in the guest register of his family summer vacation home at Bear Island, Maine. He finally settled on R. Buckminster Fuller.[4]
 
 Fuller spent much of his youth on Bear Island, in Penobscot Bay off the coast of Maine. He attended Froebelian Kindergarten. He disagreed with the way geometry was taught in school, being unable to experience for himself that a chalk dot on the blackboard represented an "empty" mathematical point, or that a line could stretch off to infinity. To him these were illogical, and led to his work on synergetics. He often made items from materials he found in the woods, and sometimes made his own tools. He experimented with designing a new apparatus for human propulsion of small boats. By age 12, he had invented a 'push pull' system for propelling a rowboat by use of an inverted umbrella connected to the transom with a simple oar lock which allowed the user to face forward to point the boat toward its destination. Later in life, Fuller took exception to the term "invention".
@@ -47,13 +45,11 @@ Fuller's first "continuous tension – discontinuous compression" geodesic dome 
 
 Dymaxion Chronofile
 
-Dynamaxion_1933.jpg
-
 For half of a century, Fuller developed many ideas, designs and inventions, particularly regarding practical, inexpensive shelter and transportation. He documented his life, philosophy and ideas scrupulously by a daily diary (later called the _Dymaxion Chronofile_), and by twenty-eight publications. Fuller financed some of his experiments with inherited funds, sometimes augmented by funds invested by his collaborators, one example being the Dymaxion car project.
 
 World stage
 
-Biosphère_Montréal.jpg by Buckminster Fuller, 1967.]] Preserved_R_Buckminster_Fuller_and_Anne_Hewlitt_Dome_Home.jpg in Carbondale.]]
+by Buckminster Fuller, 1967.]] in Carbondale.]]
 
 International recognition began with the success of huge geodesic domes during the 1950s. Fuller lectured at North Carolina State University in Raleigh in 1949, where he met James Fitzgibbon, who would become a close friend and colleague. Fitzgibbon was director of Geodesics, Inc. and Synergetics, Inc. the first licensees to design geodesic domes. Thomas C. Howard was lead designer, architect and engineer for both companies. Richard Lewontin, a new faculty member in population genetics at North Carolina State University, provided Fuller with computer calculations for the lengths of the domes' edges.[30]
 
@@ -75,7 +71,7 @@ Fuller's last filmed interview took place on April 3, 1983, in which he presente
 
 Death
 
-Bucky_TRIMTAB.jpg).]]
+).]]
 
 Fuller died on July 1, 1983, 11 days before his 88th birthday. During the period leading up to his death, his wife had been lying comatose in a Los Angeles hospital , dying of cancer. It was while visiting her there that he exclaimed, at a certain point: "She is squeezing my hand!" He then stood up, suffered a heart attack, and died an hour later, at age 87. His wife of 66 years died 36 hours later. They are buried in Mount Auburn Cemetery in Cambridge, Massachusetts.
 
@@ -99,8 +95,6 @@ He had become a guru of the design, architecture, and 'alternative' communities,
 
 Major design projects
 
-Géode_V_3_1.gif
-
 The geodesic dome
 
 Fuller was most famous for his lattice shell structures – geodesic domes, which have been used as parts of military radar stations, civic buildings, environmental protest camps and exhibition attractions. An examination of the geodesic design by Walther Bauersfeld for the Zeiss-Planetarium, built some 28 years prior to Fuller's work, reveals that Fuller's Geodesic Dome patent (U.S. 2,682,235; awarded in 1954) is the same design as Bauersfeld's.[54]
@@ -109,7 +103,7 @@ Their construction is based on extending some basic principles to build simple "
 
 Transportation
 
-Dymaxion_car_photo.jpg shown entering the car, carrying coat.]]
+shown entering the car, carrying coat.]]
 
 The Dymaxion car was a vehicle designed by Fuller, featured prominently at Chicago's 1933-1934 Century of Progress World's Fair.[56] During the Great Depression, Fuller formed the _Dymaxion Corporation_ and built three prototypes with noted naval architect Starling Burgess and a team of 27 workmen — using donated money as well as a family inheritance.[57][58]
 
@@ -125,7 +119,7 @@ Despite courting the interest of important figures from the auto industry, Fulle
 
 Housing
 
-Dymaxion_house.jpg.]]
+.]]
 
 Fuller's energy-efficient and inexpensive Dymaxion house garnered much interest, but only two prototypes were ever produced. Here the term "Dymaxion" is used in effect to signify a "radically strong and light tensegrity structure". One of Fuller's Dymaxion Houses is on display as a permanent exhibit at the Henry Ford Museum in Dearborn, Michigan. Designed and developed during the mid-1940s, this prototype is a round structure (not a dome), shaped something like the flattened "bell" of certain jellyfish. It has several innovative features, including revolving dresser drawers, and a fine-mist shower that reduces water consumption. According to Fuller biographer Steve Crooks, the house was designed to be delivered in two cylindrical packages, with interior color panels available at local dealers. A circular structure at the top of the house was designed to rotate around a central mast to use natural winds for cooling and air circulation.
 
@@ -206,7 +200,7 @@ His concepts and buildings include:
 
 Influence and legacy
 
-Buckminsterfullerene_animated.gif is a type of fullerene with the formula C₆₀. The names are homages to Buckminster Fuller, whose geodesic domes they resemble.]]
+is a type of fullerene with the formula C₆₀. The names are homages to Buckminster Fuller, whose geodesic domes they resemble.]]
 
 Among the many people who were influenced by Buckminster Fuller are: Constance Abernathy,[113] Ruth Asawa,[114] J. Baldwin,[115][116] Michael Ben-Eli,[117] Pierre Cabrol,[118] John Cage, Joseph Clinton,[119] Peter Floyd,[120] Medard Gabel,[121] Michael Hays,[122], Ted Nelson,[123] David Johnston,[124] Peter Jon Pearce,[125] Shoji Sadao,[126] Edwin Schlossberg,[127] Kenneth Snelson,[128][129][130] Robert Anton Wilson[131] and Stewart Brand.[132]
 

@@ -9,7 +9,7 @@ An Ashes series is traditionally of five Tests, hosted in turn by England and Au
 
 1882 origins
 
-Ranji_1897_page_143_F._R._Spofforth,_the_demon_bowler.jpg, "The Demon Bowler", was instrumental in Australia's 1882 victory over England with 14 wickets for 90.]] The first Test match between England and Australia was played in Melbourne, Australia, in 1877, though the Ashes legend started later, after the ninth Test, played in 1882. On their tour of England that year the Australians played just one Test, at the Oval in London. It was a low-scoring affair on a difficult wicket.[5] Australia made a mere 63 runs in its first innings, and England, led by A. N. Hornby, took a 38-run lead with a total of 101. In its second innings, Australia, boosted by a spectacular 55 runs off 60 deliveries from Hugh Massie, managed 122, which left England only 85 runs to win. The Australians were greatly demoralised by the manner of their second-innings collapse, but fast bowler Fred Spofforth, spurred on by the gamesmanship of his opponents, in particular W. G. Grace, refused to give in. "This thing can be done," he declared. Spofforth went on to devastate the English batting, taking his final four wickets for only two runs to leave England just eight runs short of victory.
+, "The Demon Bowler", was instrumental in Australia's 1882 victory over England with 14 wickets for 90.]] The first Test match between England and Australia was played in Melbourne, Australia, in 1877, though the Ashes legend started later, after the ninth Test, played in 1882. On their tour of England that year the Australians played just one Test, at the Oval in London. It was a low-scoring affair on a difficult wicket.[5] Australia made a mere 63 runs in its first innings, and England, led by A. N. Hornby, took a 38-run lead with a total of 101. In its second innings, Australia, boosted by a spectacular 55 runs off 60 deliveries from Hugh Massie, managed 122, which left England only 85 runs to win. The Australians were greatly demoralised by the manner of their second-innings collapse, but fast bowler Fred Spofforth, spurred on by the gamesmanship of his opponents, in particular W. G. Grace, refused to give in. "This thing can be done," he declared. Spofforth went on to devastate the English batting, taking his final four wickets for only two runs to leave England just eight runs short of victory.
 
 When Ted Peate, England's last batsman, came to the crease, his side needed just ten runs to win, but Peate managed only two before he was bowled by Harry Boyle. An astonished Oval crowd fell silent, struggling to believe that England could possibly have lost to a colony on home soil. When it finally sank in, the crowd swarmed onto the field, cheering loudly and chairing Boyle and Spofforth to the pavilion.
 
@@ -21,7 +21,7 @@ The momentous defeat was widely recorded in the British press, which praised the
 
 On 31 August, in the Charles Alcock-edited magazine _Cricket: A Weekly Record of The Game_, there appeared a mock obituary:
 
-DeathofEnglishCricket.jpg'']] On 2 September a more celebrated mock obituary, written by Reginald Shirley Brooks, appeared in _The Sporting Times_. It read:
+'']] On 2 September a more celebrated mock obituary, written by Reginald Shirley Brooks, appeared in _The Sporting Times_. It read:
 
 Ivo Bligh promised that on 1882–83 tour of Australia, he would, as England's captain, "recover those Ashes". He spoke of them several times over the course of the tour, and the Australian media quickly caught on. The three-match series resulted in a two-one win to England, notwithstanding a fourth match, won by the Australians, whose status remains a matter of ardent dispute.
 
@@ -32,7 +32,7 @@ The true and global revitalisation of interest in the concept dates from 1903, w
 
 Urn
 
-Ashes_Urn_1921.jpg, from _The Illustrated London News_, 1921]] Rupertswood_mansion_side_angle_shot.jpg outside Melbourne, where the urn was presented to Bligh]] As it took many years for the name "the Ashes" to be given to ongoing series between England and Australia, there was no concept of there being a representation of the ashes being presented to the winners. As late as 1925 the following verse appeared in _The Cricketers Annual_:
+, from _The Illustrated London News_, 1921]] outside Melbourne, where the urn was presented to Bligh]] As it took many years for the name "the Ashes" to be given to ongoing series between England and Australia, there was no concept of there being a representation of the ashes being presented to the winners. As late as 1925 the following verse appeared in _The Cricketers Annual_:
 
   So here's to Chapman, Hendren and Hobbs, Gilligan, Woolley and Hearne May they bring back to the Motherland, The ashes which have no urn!
 
@@ -50,7 +50,7 @@ He made a similar statement in 1926. The report of this statement in the Brisban
 
 The contents of the urn are also problematic; they were variously reported to be the remains of a stump, bail or the outer casing of a ball, but in 1998 Darnley's 82-year-old daughter-in-law said they were the remains of her mother-in-law's veil, casting a further layer of doubt on the matter. However, during the tour of Australia in 2006/7, the MCC official accompanying the urn said the veil legend had been discounted, and it was now "95% certain" that the urn contains the ashes of a cricket bail. Speaking on Channel Nine TV on 25 November 2006, he said x-rays of the urn had shown the pedestal and handles were cracked, and repair work had to be carried out. The urn is made of terracotta and is about tall and may originally have been a perfume jar.
 
-Ashes_song.jpg'', the fourth verse of which is pasted onto the urn]] A label containing a six-line verse is pasted on the urn. This is the fourth verse of a song-lyric published in the _Melbourne Punch_ on 1 February 1883:
+'', the fourth verse of which is pasted onto the urn]] A label containing a six-line verse is pasted on the urn. This is the fourth verse of a song-lyric published in the _Melbourne Punch_ on 1 February 1883:
 
   When Ivo goes back with the urn, the urn; Studds, Steel, Read and Tylecote return, return; The welkin will ring loud, The great crowd will feel proud, Seeing Barlow and Bates with the urn, the urn; And the rest coming home with the urn.
 
@@ -75,7 +75,7 @@ Series and matches
 
 Quest to "recover those ashes"
 
-Ivo_Bligh_Vanity_Fair_7_April_1904.jpg Later in 1882, following the famous Australian victory at The Oval, Bligh led an England team to Australia, as he said, to "recover those ashes". Publicity surrounding the series was intense, and it was at some time during this series that the Ashes urn was crafted. Australia won the First Test by nine wickets, but in the next two England were victorious. At the end of the Third Test, England were generally considered to have "won back the Ashes" 2–1. A fourth match was played, against a "United Australian XI", which was arguably stronger than the Australian sides that had competed in the previous three matches; this game, however, is not generally considered part of the 1882–83 series. It "is" counted as a Test, but as a standalone. This match ended in a victory for Australia.
+Later in 1882, following the famous Australian victory at The Oval, Bligh led an England team to Australia, as he said, to "recover those ashes". Publicity surrounding the series was intense, and it was at some time during this series that the Ashes urn was crafted. Australia won the First Test by nine wickets, but in the next two England were victorious. At the end of the Third Test, England were generally considered to have "won back the Ashes" 2–1. A fourth match was played, against a "United Australian XI", which was arguably stronger than the Australian sides that had competed in the previous three matches; this game, however, is not generally considered part of the 1882–83 series. It "is" counted as a Test, but as a standalone. This match ended in a victory for Australia.
 
 1884 to 1896
 
@@ -111,7 +111,7 @@ After the war, Australia took firm control of both the Ashes and world cricket. 
 
 The ruthless and belligerent Armstrong led his team back to England in 1921 where his men lost only two games late in the tour to narrowly miss out of being the first team to complete a tour of England without defeat.
 
-Herbert_Sutcliffe_1924.jpg sweeps Arthur Mailey during the first Ashes Test in Sydney, 1924.]] England won only one Test out of 15 from the end of the war until 1925.[19][20]
+sweeps Arthur Mailey during the first Ashes Test in Sydney, 1924.]] England won only one Test out of 15 from the end of the war until 1925.[19][20]
 
 In a rain-hit series in 1926, England managed to eke out a 1–0 victory with a win in the final Test at The Oval. Because the series was at stake, the match was to be "timeless", i.e., played to a finish. Australia had a narrow first innings lead of 22. Jack Hobbs and Herbert Sutcliffe took the score to 49–0 at the end of the second day, a lead of 27. Heavy rain fell overnight, and next day the pitch soon developed into a traditional sticky wicket. England seemed doomed to be bowled out cheaply and to lose the match. In spite of the very difficult batting conditions, however, Hobbs and Sutcliffe took their partnership to 172 before Hobbs was out for exactly 100. Sutcliffe went on to make 161 and England won the game comfortably.[21] Australian captain Herbie Collins was stripped of all captaincy positions down to club level, and some accused him of throwing the match.
 
@@ -125,7 +125,7 @@ Bradman fulfilled his promise in the 1930 series when he scored 974 runs at 139.
 
 Australia had one of the strongest batting line-ups ever in the early 1930s, with Bradman, Archie Jackson, Stan McCabe, Bill Woodfull and Bill Ponsford. It was the prospect of bowling at this line-up that caused England's 1932–33 captain Douglas Jardine to adopt the tactic of fast leg theory, better known as Bodyline.
 
-4th_Test_Woodfull.jpg evades a ball from Harold Larwood with Bodyline field settings.]]
+evades a ball from Harold Larwood with Bodyline field settings.]]
 
 Jardine instructed his fast bowlers, most notably Harold Larwood and Bill Voce, to bowl at the bodies of the Australian batsmen, with the goal of forcing them to defend their bodies with their bats, thus providing easy catches to a stacked leg-side field. Jardine insisted that the tactic was legitimate and called it "leg theory" but it was widely disparaged by its opponents, who dubbed it "Bodyline" (from "on the line of the body"). Although England decisively won the Ashes 4–1, Bodyline caused such a furore in Australia that diplomats had to intervene to prevent serious harm to Anglo-Australian relations, and the MCC eventually changed the Laws of cricket to curtail the number of leg side fielders.
 
@@ -163,7 +163,7 @@ The tide finally turned in 1953 when England won the final Test at The Oval to t
 
 1954 to 1971
 
-Peter_May.jpg driving Bill Johnston on his way to a century at Sydney.]] In 1954–55, Australia's batsmen had no answer to the pace of Frank Tyson and Statham. After winning the First Test by an innings after being controversially sent in by Hutton, Australia lost its way and England took a hat-trick of victories to win the series 3–1.[29]
+driving Bill Johnston on his way to a century at Sydney.]] In 1954–55, Australia's batsmen had no answer to the pace of Frank Tyson and Statham. After winning the First Test by an innings after being controversially sent in by Hutton, Australia lost its way and England took a hat-trick of victories to win the series 3–1.[29]
 
 A dramatic series in 1956 saw a record that will probably never be beaten: off-spinner Jim Laker's monumental effort at Old Trafford when he bowled 68 of 191 overs to take 19 out of 20 possible Australian wickets in the Fourth Test.[30] It was Australia's second consecutive innings defeat in a wet summer, and the hosts were in strong positions in the two drawn Tests, in which half the playing time was washed out. Bradman rated the team that won the series 2–1 as England's best ever.
 
@@ -197,7 +197,7 @@ Despite suffering heavy defeats against the West Indies during the 1980s, Englan
 
 1989 to 2003
 
-MCG99.jpg Boxing Day Test 1998]] The Australian team of 1989 was comparable to the great Australian teams of the past, and resoundingly defeated England 4–0.[41] Well led by Allan Border, the team included the young cricketers Mark Taylor, Merv Hughes, David Boon, Ian Healy and Steve Waugh, who were all to prove long-serving and successful Ashes competitors. England, now led once again by David Gower, suffered from injuries and poor form. During the Fourth Test news broke that prominent England players had agreed to take part in a "rebel tour" of South Africa the following winter; three of them (Tim Robinson, Neil Foster and John Emburey) were playing in the match, and were subsequently dropped from the England side.[42]
+Boxing Day Test 1998]] The Australian team of 1989 was comparable to the great Australian teams of the past, and resoundingly defeated England 4–0.[41] Well led by Allan Border, the team included the young cricketers Mark Taylor, Merv Hughes, David Boon, Ian Healy and Steve Waugh, who were all to prove long-serving and successful Ashes competitors. England, now led once again by David Gower, suffered from injuries and poor form. During the Fourth Test news broke that prominent England players had agreed to take part in a "rebel tour" of South Africa the following winter; three of them (Tim Robinson, Neil Foster and John Emburey) were playing in the match, and were subsequently dropped from the England side.[42]
 
 Australia reached a cricketing peak in the 1990s and early 2000s, coupled with a general decline in England's fortunes. After re-establishing its credibility in 1989, Australia underlined its superiority with victories in the 1990–91, 1993, 1994–95, 1997, 1998–99, 2001 and 2002–03 series, all by convincing margins.
 
@@ -207,13 +207,13 @@ Australia's record between 1989 and 2005 had a significant impact on the statist
 
 2005 to 2015
 
-Trent_Bridge,_Flintoff_century,_26_Aug_2005.jpg reaches 100 at Trent Bridge in 2005]] England was undefeated in Test matches through the 2004 calendar year. This elevated them to second in the ICC Test Championship. Hopes that the 2005 Ashes series would be closely fought proved well-founded, the series remaining undecided as the closing session of the final Test began. Experienced journalists including Richie Benaud rated the series as the most exciting in living memory. It has been compared with the great series of the distant past, such as 1894–95 and 1902.[46]
+reaches 100 at Trent Bridge in 2005]] England was undefeated in Test matches through the 2004 calendar year. This elevated them to second in the ICC Test Championship. Hopes that the 2005 Ashes series would be closely fought proved well-founded, the series remaining undecided as the closing session of the final Test began. Experienced journalists including Richie Benaud rated the series as the most exciting in living memory. It has been compared with the great series of the distant past, such as 1894–95 and 1902.[46]
 
 The First Test at Lord's was convincingly won by Australia, but in the remaining four matches the teams were evenly matched and England fought back to win the Second Test by 2 runs, the smallest winning margin in Ashes history, and the second-smallest in all Tests. The rain-affected Third Test ended with the last two Australian batsmen holding out for a draw; and England won the Fourth Test by three wickets after forcing Australia to follow-on for the first time in 191 Tests being a period of 17 years. A draw in the final Test gave England victory in an Ashes series for the first time in 18 years and their first Ashes victory at home since 1985.
 
 Australia regained the Ashes on its home turf in the 2006–07 series with a convincing 5–0 victory, only the second time an Ashes series has been won by that margin. Glenn McGrath, Shane Warne and Justin Langer retired from Test cricket after that series, while Damien Martyn retired during the series.[47]
 
-Ashes_2010-11_Sydney_Test_final_wicket.jpg bowls Michael Beer to complete England's 3–1 Ashes victory on 7 January 2011]]
+bowls Michael Beer to complete England's 3–1 Ashes victory on 7 January 2011]]
 
 The 2009 series began with a tense draw in the First Test at SWALEC Stadium in Cardiff, with England's last-wicket batsmen James Anderson and Monty Panesar surviving 69 balls. England then achieved its first Ashes win at Lord's since 1934 to go 1–0 up. After a rain-affected draw at Edgbaston, the fourth match at Headingley was convincingly won by Australia by an innings and 80 runs to level the series. Finally, England won the Fifth Test at The Oval by a margin of 197 runs to regain the Ashes. Andrew Flintoff retired from Test cricket soon afterwards.
 
@@ -225,7 +225,7 @@ In the Fourth Test, England won the toss and batted first, putting on 238 runs, 
 
 The final Test was drawn. On the fourth day no play was possible due to rain, but on the final day after an aggressive Australian declaration, England came close to achieving its first 4–0 victory in an Ashes series. Play was abandoned, owing to bad light, denying a thrilling finish to the large crowd of spectators. There was media criticism of the new ICC rules requiring umpires to stop play when failing light was measured at a specified level.[51]
 
-Australia_won_the_Ashes_5-0.jpg In the second of two Ashes series held in 2013 (the series ended in 2014), this time hosted by Australia, the home team won the series five test matches to nil. This was the third time Australia has completed a clean sweep (or "whitewash") in Ashes history, a feat never matched by England. All six Australian specialist batsmen scored more runs than any Englishman with 10 centuries among them, with only debutant Ben Stokes scoring a century for England. Mitchell Johnson took 37 English wickets at 13.97 and Ryan Harris 22 wickets at 19.31 in the 5-Test series.[52] Only Stuart Broad and all-rounder Stokes bowled effectively for England, with their spinner Graeme Swann retiring due to a chronic elbow injury after the decisive Third Test.
+In the second of two Ashes series held in 2013 (the series ended in 2014), this time hosted by Australia, the home team won the series five test matches to nil. This was the third time Australia has completed a clean sweep (or "whitewash") in Ashes history, a feat never matched by England. All six Australian specialist batsmen scored more runs than any Englishman with 10 centuries among them, with only debutant Ben Stokes scoring a century for England. Mitchell Johnson took 37 English wickets at 13.97 and Ryan Harris 22 wickets at 19.31 in the 5-Test series.[52] Only Stuart Broad and all-rounder Stokes bowled effectively for England, with their spinner Graeme Swann retiring due to a chronic elbow injury after the decisive Third Test.
 
 Australia came into the 2015 Ashes series in England as favourites to retain the Ashes. Although England won the first Test in Cardiff, Australia won comfortably in the second Test at Lords. In the next two Tests, the Australian batsmen struggled, being bowled out for 136 in the first innings at Edgbaston, with England proceeding to win by eight wickets. This was followed by Australia being bowled out for 60 as Stuart Broad took five wickets and finished the spell with 8 for 15 in the first innings at Trent Bridge, the quickest – in terms of balls faced – a team has been bowled out in the first innings of a Test match. With victory by an innings and 78 runs on the morning of the third day of the Fourth Test, England regained the Ashes.
 
@@ -272,7 +272,7 @@ In England and Wales, the grounds used are: Old Trafford in Manchester (1884), T
 
 Cultural references
 
-The_Ashes_Urn_Replica_(2016).jpg]]
+]]
 
 The popularity and reputation of the cricket series has led to other sports or games, and/or their followers, using the name "Ashes" for contests between England and Australia. The best-known and longest-running of these events is the rugby league rivalry between Great Britain and Australia (see rugby league "Ashes"). Use of the name "Ashes" was suggested by the Australian team when rugby league matches between the two countries commenced in 1908. Other examples included the television game shows _Gladiators_ and _Sale of the Century_, both of which broadcast special editions containing contestants from the Australian and English versions of the shows competing against each other.
 

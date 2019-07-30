@@ -43,7 +43,7 @@ Welding
 
 Approximately 20% of acetylene is supplied by the industrial gases industry for oxyacetylene gas welding and cutting due to the high temperature of the flame. Combustion of acetylene with oxygen produces a flame of over , releasing 11.8 kJ/g. Oxyacetylene is the hottest burning common fuel gas.[22] Acetylene is the third-hottest natural chemical flame after dicyanoacetylene's and cyanogen at . Oxy-acetylene welding was a popular welding process in previous decades. The development and advantages of arc-based welding processes have made oxy-fuel welding nearly extinct for many applications. Acetylene usage for welding has dropped significantly. On the other hand, oxy-acetylene welding _equipment_ is quite versatile – not only because the torch is preferred for some sorts of iron or steel welding (as in certain artistic applications), but also because it lends itself easily to brazing, braze-welding, metal heating (for annealing or tempering, bending or forming), the loosening of corroded nuts and bolts, and other applications. Bell Canada cable-repair technicians still use portable acetylene-fuelled torch kits as a soldering tool for sealing lead sleeve splices in manholes and in some aerial locations. Oxyacetylene welding may also be used in areas where electricity is not readily accessible. As well, oxy-fuel cutting is still popular, and oxy-acetylene cutting is used in many metal fabrication shops. For use in welding and cutting, the working pressures must be controlled by a regulator, since above , if subjected to a shockwave (caused, for example, by a flashback), acetylene decomposes explosively into hydrogen and carbon.[23]
 
-Laskarbit.jpg]]
+]]
 
 Portable lighting
 
@@ -81,7 +81,7 @@ Vinylation: hydration, hydrohalogenation, and related reactions
 
 In VINYLATION reactions, H-X compounds add across the triple bond. Alcohols and phenols add to acetylene to give vinyl ethers. Thiols give vinyl thioethers. Similarly, vinylpyrrolidone and vinylcarbazole are produced industrially by vinylation of 2-pyrrolidone and carbazole.[38][39]
 
-    Reppe-chemnistry-vinylization.png
+
 
 The hydration of acetylene is a vinylation reaction, but the resulting vinyl alcohol isomerizes to acetaldehyde. The reaction is catalyzed by mercury salts. This reaction once was the dominant technology for acetaldehyde production, but it has been displaced by the Wacker process, which affords acetaldehyde by oxidation of ethylene, a cheaper feedstock. A similar situation applies to the conversion of acetylene to the valuable vinyl chloride by hydrochlorination vs the oxychlorination of ethylene.
 
@@ -89,14 +89,14 @@ Addition to formaldehyde
 
 Acetylene adds to ketones and aldehydes in the presence of base catalysts. With carbonyl groups to give α-ethynyl alcohols in ethynylation reactions:[40] Formaldehyde gives sequentially propargyl alcohol and butynediol. 1,4-Butynediol is produced industrially in this way from formaldehyde and acetylene.[41]
 
-    Reppe-chemistry-endiol-V1.svg
+
 
 Carbonylation
 
 Walter Reppe discovered that in the presence of catalysts, acetylene react to give a wide range of industrially significant chemicals.[42][43][44]
 
-    Reppe-chemistry-carbonmonoxide-01.png
-    Reppe-chemistry-carbonmonoxide-02.png
+
+
 
 With carbon monoxide, acetylene reacts to give acrylic acid, or acrylic esters, which can be used to produce acrylic glass:[45]
 
@@ -104,8 +104,8 @@ Organometallic chemistry
 
 Acetylene and its derivatives (2-butyne, diphenylacetylene, etc) form complexes with transition metals. Its bonding to the metal is somewhat similar to that of ethylene complexes. These complexes are intermediates in many catalytic reactions such as alkyne trimerisation to benzene, tetramerization to cyclooctatetraene,[46] and carbonylation to hydroquinone:[47]
 
-    Reppe-chemistry-benzene.png
-    Reppe-chemistry-cyclooctatetraene.png
+
+
     Fe(CO)₅ + 4 C₂H₂ + 2 H₂O → 2 C₆H₄(OH)₂ + FeCO₃ at basic conditions( 50-, 20-).
 
 In the presence of certain transition metals, alkynes undergo alkyne metathesis.

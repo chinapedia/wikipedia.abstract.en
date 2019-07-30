@@ -1,4 +1,4 @@
-Calibrated_Carbon_14_dates_for_Çatalhöyük_as_of_2013.jpg ÇATALHÖYÜK (; also _Çatal Höyük_ and _Çatal Hüyük_; from Turkish _çatal_ "fork" + _höyük_ "tumulus") was a very large Neolithic and Chalcolithic proto-city settlement in southern Anatolia, which existed from approximately 7500 BC to 5700 BC, and flourished around 7000 BC.[1] In July 2012, it was inscribed as a UNESCO World Heritage Site.[2]
+ÇATALHÖYÜK (; also _Çatal Höyük_ and _Çatal Hüyük_; from Turkish _çatal_ "fork" + _höyük_ "tumulus") was a very large Neolithic and Chalcolithic proto-city settlement in southern Anatolia, which existed from approximately 7500 BC to 5700 BC, and flourished around 7000 BC.[1] In July 2012, it was inscribed as a UNESCO World Heritage Site.[2]
 
 Çatalhöyük is located overlooking the Konya Plain, southeast of the present-day city of Konya (ancient Iconium) in Turkey, approximately 140 km (87 mi) from the twin-coned volcano of Mount Hasan. The eastern settlement forms a mound which would have risen about 20 m (66 ft) above the plain at the time of the latest Neolithic occupation. There is also a smaller settlement mound to the west and a Byzantine settlement a few hundred meters to the east. The prehistoric mound settlements were abandoned before the Bronze Age. A channel of the Çarşamba River once flowed between the two mounds, and the settlement was built on alluvial clay which may have been favorable for early agriculture.
 
@@ -11,8 +11,6 @@ Mellaart was banned from Turkey for his involvement in the Dorak affair in which
 
 
 Culture
-
-Catal_Hüyük_Restoration_B.jpg Catal_Hüyük_EL.JPG Çatalhöyük_excavations_..jpg Çatalhöyük_trench.jpg Çatalhöyük_2006_IMG_2225_(207467760).jpg
 
 Çatalhöyük was composed entirely of domestic buildings, with no obvious public buildings. While some of the larger ones have rather ornate murals, the purpose of some rooms remains unclear.[18]
 
@@ -31,7 +29,7 @@ File:Catal Hüyük 10.JPG|Excavations at the southern area of the site File:Cata
 
 Religion
 
-AnkaraMuseumCatal.jpg]] Mural_from_Çatalhöyük_excavated_by_James_Mellaart_showing_neolithic_hunters_attacking_an_aurochs_(Bos_primigenius)..jpg Detail_of_the_mural_showing_the_hind_part_of_the_aurochs,_a_deer_and_hunters..jpg Museum_of_Anatolian_Civilizations_1320512_nevit.jpg]] Museum_of_Anatolian_Civilizations_1320259_nevit.jpg flanked by two felines, lionesses]]
+]] ]] flanked by two felines, lionesses]]
 
 A striking feature of Çatalhöyük are its female figurines. Mellaart, the original excavator, argued that these well-formed, carefully made figurines, carved and molded from marble, blue and brown limestone, schist, calcite, basalt, alabaster, and clay, represented a female deity. Although a male deity existed as well, "statues of a female deity far outnumber those of the male deity, who moreover, does not appear to be represented at all after Level VI".[32] To date, eighteen levels have been identified. These artfully-hewn figurines were found primarily in areas Mellaart believed to be shrines. The stately goddess seated on a throne flanked by two lionesses (_illustration_) was found in a grain bin, which Mellaart suggests might have been a means of ensuring the harvest or protecting the food supply.[33] In later cultures, similar depictions are seen of Cybele, a mountain goddess.
 
@@ -43,7 +41,7 @@ In a report in September 2009 on the discovery of around 2000 figurines Hodder i
 
   Çatalhöyük was excavated in the 1960s in a methodical way, but not using the full range of natural science techniques that are available to us today. Sir James Mellaart who excavated the site in the 1960s came up with all sorts of ideas about the way the site was organized and how it was lived in and so on ... We’ve now started working there since the mid 1990s and come up with very different ideas about the site. One of the most obvious examples of that is that Çatalhöyük is perhaps best known for the idea of the mother goddess. But our work more recently has tended to show that in fact there is very little evidence of a mother goddess and very little evidence of some sort of female-based matriarchy. That's just one of the many myths that the modern scientific work is undermining.[37]
 
-Fertile_crescent_Neolithic_B_circa_7500_BC.jpg, circa 7500 BC, with main sites. Çatalhöyük was one of the foremost sites of the Pre-Pottery Neolithic period. The area of Mesopotamia proper was not yet settled by humans.]] Professor Lynn Meskell explained that while the original excavations had found only 200 figures, the new excavations had uncovered 2,000 figurines of which most were animals, with less than 5% of the figurines women.[38]
+, circa 7500 BC, with main sites. Çatalhöyük was one of the foremost sites of the Pre-Pottery Neolithic period. The area of Mesopotamia proper was not yet settled by humans.]] Professor Lynn Meskell explained that while the original excavations had found only 200 figures, the new excavations had uncovered 2,000 figurines of which most were animals, with less than 5% of the figurines women.[38]
 
 Estonian folklorist Uku Masing has suggested as early as in 1976, that Çatalhöyük was probably a hunting and gathering religion and the Mother Goddess figurine did not represent a female deity. He implied that perhaps a longer period of time was needed in order to develop symbols for agricultural rites.[39] His theory was developed in the paper "Some remarks on the mythology of the people of Catal Hüyük".[40]
 

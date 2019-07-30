@@ -3,7 +3,7 @@ For Soviet transportation, see Transport in the Soviet Union.
 
 Railways
 
-Georgian_Railway_Network.svg Stadler_KISS_for_Georgian_Railways_(cropped).jpg GRS «Eurasia» passenger train]]
+GRS «Eurasia» passenger train]]
 _total:_ 1,683 km in common carrier service; does not include industrial lines
 _broad gauge:_ 1,583 km of gauge (1993)
 _narrow gauge:_ 100 km of gauge.
@@ -37,23 +37,23 @@ Towns served by rail
 
 Highways
 
-The road network in Georgia consists of 1,603 kilometers of main or international highways that are considered to be in good condition and some 18,821 kilometers of secondary and local roads that are, generally, in poor condition.[3] Only 7,854 km out of over 20,000 km of Georgian roads are paved.[4] E_Road_in_GEO.svg Georgian_highway.jpg]]
+The road network in Georgia consists of 1,603 kilometers of main or international highways that are considered to be in good condition and some 18,821 kilometers of secondary and local roads that are, generally, in poor condition.[3] Only 7,854 km out of over 20,000 km of Georgian roads are paved.[4] ]]
 
-  Number       E Route                                                  name                                      Length (km)   Notes
-  ------------ -------------------------------------------------------- ----------------------------------------- ------------- -------
-  S1-GE.svg    Tabliczka_E60.svg Tabliczka_E97.svg Tabliczka_E117.svg   Tbilisi - Senaki - Leselidze              552
-  S2-GE.svg    Tabliczka_E60.svg Tabliczka_E70.svg                      Senaki - Poti - Sarpi                     119
-  S3-GE.svg    Tabliczka_E117.svg                                       Mtskheta - Stepantsminda - Larsi          139
-  S4-GE.svg    Tabliczka_E60.svg Tabliczka_E117.svg                     Tbilisi - Red Bridge                      57
-  S5-GE.svg                                                             Tbilisi – Bakurtsikhe – Lagodekhi         160
-  S6-GE.svg    Tabliczka_E117.svg                                       Ponichala – Marneuli – Guguti             98
-  S7-GE.svg    Tabliczka_E001.svg                                       Marneuli – Sadakhlo                       34
-  S8-GE.svg    Tabliczka_E691.svg                                       Khashuri – Akhaltsikhe – Vale             97
-  S9-GE.svg    Tabliczka_E60.svg Tabliczka_E117.svg                     Tbilisi Bypass                            49
-  S10-GE.svg                                                            Gori – Tskhinvali – Gupta – Java – Roki   92,5
-  S11-GE.svg   Tabliczka_E691.svg                                       Akhaltsikhe – Ninotsminda                 112
-  S12-GE.svg   Tabliczka_E692.svg                                       Samtredia - Lanchkhuti - Grigoleti        57
-  S13-GE.svg                                                            Akhalkalaki - Kartsakhi                   36,5
+  Number   E Route   name                                      Length (km)   Notes
+  -------- --------- ----------------------------------------- ------------- -------
+                     Tbilisi - Senaki - Leselidze              552
+                     Senaki - Poti - Sarpi                     119
+                     Mtskheta - Stepantsminda - Larsi          139
+                     Tbilisi - Red Bridge                      57
+                     Tbilisi – Bakurtsikhe – Lagodekhi         160
+                     Ponichala – Marneuli – Guguti             98
+                     Marneuli – Sadakhlo                       34
+                     Khashuri – Akhaltsikhe – Vale             97
+                     Tbilisi Bypass                            49
+                     Gori – Tskhinvali – Gupta – Java – Roki   92,5
+                     Akhaltsikhe – Ninotsminda                 112
+                     Samtredia - Lanchkhuti - Grigoleti        57
+                     Akhalkalaki - Kartsakhi                   36,5
 
   : MAIN ROADS
 
@@ -79,8 +79,6 @@ _ships by type:_ cargo ship 10, chemical tanker 1, petroleum tanker 6 (1999 est.
 
 
 Airports
-
-Tbilisi_airport_1.jpg Batumi_Airport_(full_view).jpg
 
 28 (1994 est.) In February 2007 a brand new, modern and fully equipped international Airport was inaugurated in Tbilisi.
 

@@ -7,7 +7,7 @@ While the book is relatively short, it includes lament (1.8–16; 7.8–10), the
 
 Setting
 
-Sennacherib_sling.jpg warriors armed with slings from the palace of Sennacherib, 7th century BCE]] Chapter 1:1[9] identifies the prophet as "Micah of Moresheth" (a town in southern Judah), and states that he lived during the reigns of Yehotam, Ahaz and Hezekiah, roughly 750–700 BC.[10]
+warriors armed with slings from the palace of Sennacherib, 7th century BCE]] Chapter 1:1[9] identifies the prophet as "Micah of Moresheth" (a town in southern Judah), and states that he lived during the reigns of Yehotam, Ahaz and Hezekiah, roughly 750–700 BC.[10]
 
 This corresponds to the period when, after a long period of peace, Israel, Judah, and the other nations of the region came under increasing pressure from the aggressive and rapidly expanding Neo-Assyrian empire. Between 734 and 727 Tiglath-Pileser III of Assyria conducted almost annual campaigns in Palestine, reducing the Kingdom of Israel, the Kingdom of Judah and the Philistine cities to vassalage, receiving tribute from Ammon, Moab and Edom, and absorbing Damascus (the Kingdom of Aram) into the Empire.[11] On Tiglath-Pileser's death Israel rebelled, resulting in an Assyrian counter-attack and the destruction of the capital, Samaria, in 721 after a three-year siege.[12] Micah 1:2–7 draws on this event: Samaria, says the prophet, has been destroyed by God because of its crimes of idolatry, oppression of the poor, and misuse of power.[13] The Assyrian attacks on Israel (the northern kingdom) led to an influx of refugees into Judah, which would have increased social stresses, while at the same time the authorities in Jerusalem had to invest huge amounts in tribute and defense.[14]
 
@@ -23,7 +23,7 @@ The prophecy was not fulfilled in Micah's time, but a hundred years later when J
 
 Content
 
-JudeanImpalement_Roaf185.jpgns by Assyrian soldiers (Neo-Assyrian relief)]]
+ns by Assyrian soldiers (Neo-Assyrian relief)]]
 
 Structure
 

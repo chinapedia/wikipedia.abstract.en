@@ -1,5 +1,3 @@
-Henrymayhew.png
-
 HENRY MAYHEW (25 November 1812 – 25 July 1887) was an English social researcher, journalist, playwright and advocate of reform. He was one of the co-founders of the satirical and humorous magazine _Punch_ in 1841, and was the magazine's joint-editor, with Mark Lemon, in its early days. He is also known for his work as a social researcher, publishing an extensive series of newspaper articles in the _Morning Chronicle_ that was later compiled into the book series _London Labour and the London Poor_ (1851), a groundbreaking and influential survey of the city's poor.
 
 
@@ -15,7 +13,7 @@ In 1835 Mayhew found himself in a state of debt and, along with a fellow writer,
 
 _Punch_ magazine
 
-Punch.jpg was co founded by Mayhew in 1841.]] On 17 July 1841 Mayhew cofounded Punch magazine. At its founding the magazine was jointly edited by Mayhew and Mark Lemon. The two men hired a group of writers and also illustrators to aid them. These included Douglas Jerrold, Angus Reach, John Leech, Richard Doyle and Shirley Brooks. Initially it was subtitled _The London Charivari_, this being a reference to a satirical humour magazine published in France under the title _Le Charivari_ (a work read often whilst Mayhew was in Paris). Reflecting their satiric and humorous intent, the two editors took for their name and masthead the anarchic glove puppet Mr. Punch.
+was co founded by Mayhew in 1841.]] On 17 July 1841 Mayhew cofounded Punch magazine. At its founding the magazine was jointly edited by Mayhew and Mark Lemon. The two men hired a group of writers and also illustrators to aid them. These included Douglas Jerrold, Angus Reach, John Leech, Richard Doyle and Shirley Brooks. Initially it was subtitled _The London Charivari_, this being a reference to a satirical humour magazine published in France under the title _Le Charivari_ (a work read often whilst Mayhew was in Paris). Reflecting their satiric and humorous intent, the two editors took for their name and masthead the anarchic glove puppet Mr. Punch.
 
 _Punch_ was an unexpected success, selling about 6,000 copies a week in the early years. However, sales of as many as 10,000 issues a week were required to cover all costs of the magazine. In December 1842, the magazine was sold to Bradbury and Evans; Mayhew resigned as joint editor,[5] and he continued at the magazine as "suggestor in chief" with Mark Lemon reappointed as editor. Mayhew eventually severed his connection with the magazine, writing his last article in February 1845. His brother Horace stayed on the board of Punch until his own death.
 

@@ -15,11 +15,11 @@ Age of Industrialization
 
 The Industrial Revolution in Germany got underway approximately a century later than in England, France, and Belgium, partly because Germany only became a unified country in 1871.[20]
 
-Borsig_1847.jpg in 1847.]] Karl_Benz_Automobile.jpg with his wife, Bertha Benz, in a Benz Viktoria, model 1894.]] The establishment of the Deutscher Zollverein (German Customs Union) in 1834 and the expansion of railway systems were the main drivers of Germany's industrial development and political union. From 1834, tariff barriers between increasing numbers of the Kleindeutschland German states were eliminated. In 1835 the first German railway linked the Franconian cities of Nuremberg and Fürth - it proved so successful that the decade of the 1840s saw "railway mania" in all the German states. Between 1845 and 1870, 5,000 more miles of rail had been built and in 1850 Germany was building its own locomotives. Over time, other German states joined the customs union and started linking their railroads, which began to connect the corners of Germany together. The growth of free trade and of a rail system across Germany intensified economic development which opened up new markets for local products, created a pool of middle managers, increased the demand for engineers, architects and skilled machinists, and stimulated investments in coal and iron.[21]
+in 1847.]] with his wife, Bertha Benz, in a Benz Viktoria, model 1894.]] The establishment of the Deutscher Zollverein (German Customs Union) in 1834 and the expansion of railway systems were the main drivers of Germany's industrial development and political union. From 1834, tariff barriers between increasing numbers of the Kleindeutschland German states were eliminated. In 1835 the first German railway linked the Franconian cities of Nuremberg and Fürth - it proved so successful that the decade of the 1840s saw "railway mania" in all the German states. Between 1845 and 1870, 5,000 more miles of rail had been built and in 1850 Germany was building its own locomotives. Over time, other German states joined the customs union and started linking their railroads, which began to connect the corners of Germany together. The growth of free trade and of a rail system across Germany intensified economic development which opened up new markets for local products, created a pool of middle managers, increased the demand for engineers, architects and skilled machinists, and stimulated investments in coal and iron.[21]
 
 Another factor which propelled German industry forward was the unification of the monetary system, made possible in part by political unification. The Deutsche Mark, a new monetary coinage system backed by gold, was introduced in 1871. However, this system did not fully come into use as silver coins retained their value until 1907.[22]
 
-4a15881u.tif's SS _Auguste Viktoria_ in 1890.]]
+'s SS _Auguste Viktoria_ in 1890.]]
 
 The victory of Prussia and her allies over Napoleon III of France in the Franco-Prussian War of 1870-1871 marked the end of French hegemony in Europe and resulted in the proclamation of the German Empire in 1871. The establishment of the empire inherently presented Europe with the reality of a new populous and industrializing polity possessing a considerable, and undeniably increasing, economic and diplomatic presence. The influence of French economic principles produced important institutional reforms in Germany, including the abolition of feudal restrictions on the sale of large landed estates, the reduction of the power of the guilds in the cities, and the introduction of a new, more efficient commercial law. Nonetheless, political decisions about the economy of the empire were still largely controlled by a coalition of "rye and iron", that is the Prussian Junker landowners of the east and the Ruhr heavy industry of the west.[23]
 
@@ -30,8 +30,6 @@ By 1900 Germany surpassed Britain and the United States in steel production. The
 The rapid advance to industrial maturity led to a drastic shift in Germany's economic situation – from a rural economy into a major exporter of finished goods. The ratio of finished product to total exports jumped from 38% in 1872 to 63% in 1912. By 1913 Germany had come to dominate all the European markets. By 1914 Germany had become one of the biggest exporters in the world.[26]
 
 Weimar Republic and Third Reich
-
-BSPDRWeltkriseEngl.PNG
 
 The Nazis rose to power while unemployment was very high,[27] but achieved full employment later thanks to massive public works programs such as the Reichsbahn, Reichspost and the Reichsautobahn projects.[28] In 1935 rearmament in contravention of the Treaty of Versailles added to the economy.[29]
 
@@ -45,7 +43,7 @@ Eventually, the Nazi party developed strong relationships with big business[35] 
 
 West Germany
 
-1000000th_beatle.jpg was an icon of West German reconstruction.]] Beginning with the replacement of the Reichsmark with the Deutsche Mark as legal tender, a lasting period of low inflation and rapid industrial growth was overseen by the government led by German Chancellor Konrad Adenauer and his minister of economics, Ludwig Erhard, raising West Germany from total wartime devastation to one of the most developed nations in modern Europe.
+was an icon of West German reconstruction.]] Beginning with the replacement of the Reichsmark with the Deutsche Mark as legal tender, a lasting period of low inflation and rapid industrial growth was overseen by the government led by German Chancellor Konrad Adenauer and his minister of economics, Ludwig Erhard, raising West Germany from total wartime devastation to one of the most developed nations in modern Europe.
 
 In 1953 it was decided that Germany was to repay $1.1 billion of the aid it had received. The last repayment was made in June 1971.
 
@@ -61,8 +59,6 @@ In 1976 the average annual GDP growth was roughly 5.9%.[40]
 
 Federal Republic
 
-Containershipxinshanghai.jpg
-
 The German economy practically stagnated in the beginning of the 2000s. The worst growth figures were achieved in 2002 (+1.4%), in 2003 (+1.0%) and in 2005 (+1.4%).[41] Unemployment was also chronically high.[42] Due to these problems, together with Germany's aging population, the welfare system came under considerable strain. This led the government to push through a wide-ranging program of belt-tightening reforms, Agenda 2010, including the labour market reforms known as Hartz I - IV.[43]
 
 In the later part of the first decade of 2000 the world economy experienced high growth, from which Germany as a leading exporter also profited. Some credit the Hartz reforms with achieving high growth and declining unemployment but others contend that they resulted in a massive decrease in standards of living, and that its effects are limited and temporary.[44]
@@ -76,7 +72,7 @@ Through 2012, Germany's economy continued to be stronger relative to local neigh
 
 Data
 
-Labour_productivity_levels_in_Europe._OECD,_2015.png level of Germany. OECD, 2017[57]]] As of December 2017, the unemployment rate was at 5.5 percent.[58]GNIdistributionFRG.png]]
+level of Germany. OECD, 2017[57]]] As of December 2017, the unemployment rate was at 5.5 percent.[58]]]
 
 , the unemployment rate was 4.8 percent.[59]
 
@@ -126,7 +122,7 @@ From 1991 to 2010, 40,301 mergers and acquisitions with an involvement of German
 
 Berlin (Economy of Berlin) developed an international Startup ecosystem and became a leading location for venture capital funded firms in the European Union.[65]
 
-Wolfsburg,_Volkswagenwerk_--_2009_--_0822.jpg headquarters in Wolfsburg]] The list includes the largest German companies by revenue in 2011:
+headquarters in Wolfsburg]] The list includes the largest German companies by revenue in 2011:
 
 +----------+---------------------+-----------------------+--------+-----------+----------+-----------+
 | Rank[66] | Name                | Headquarters          | Ticker | Revenue   | Profit   | Employees |
@@ -184,7 +180,7 @@ Here is a list of the top 10 deals (ranked by value) that include a German compa
 
 Economic region
 
-<!--EU2019-->BlueEurozone_2019.svg (dark blue), and of the EU single market. ]]
+(dark blue), and of the EU single market. ]]
 
 Germany as a federation is a polycentric country and does not have a single economic center. The stock exchange is located in Frankfurt am Main, the largest Media company (Bertelsmann SE & Co. KGaA) is headquartered in Gütersloh; the largest car manufacturers are in Wolfsburg (Volkswagen), Stuttgart (Mercedes-Benz and Porsche), and Munich (Audi and BMW).[68]
 
@@ -197,8 +193,6 @@ The economy of Bayern and Baden-Württemberg, the states with the lowest number 
 With the reunification on 3 October 1990, Germany began the major task of reconciling the economic systems of the two former republics. Interventionist economic planning ensured gradual development in eastern Germany up to the level of former West Germany, but the standard of living and annual income remains significantly higher in western German states.[71] The modernisation and integration of the eastern German economy continues to be a long-term process scheduled to last until the year 2019, with annual transfers from west to east amounting to roughly $80 billion. The overall unemployment rate has consistently fallen since 2005 and reached a 20-year low in 2012. The country in July 2014 began legislating to introduce a federally mandated minimum wage which would come into effect on 1 January 2015.[72]
 
 German states
-
-German_states_by_nominal_GRP_in_2017.png
 
 +--------+------+------------------------+----------+--------------------+
 | States | Rank | GRP (in billions EUR€) | Share of | Comparable economy |
@@ -243,7 +237,7 @@ German_states_by_nominal_GRP_in_2017.png
 
 Wealth
 
-Hasso_Plattner.JPG]]
+]]
 
 The following top 10 list of German billionaires is based on an annual assessment of wealth and assets compiled and published by _Forbes_ magazine on 1 March 2016.[73]
 
@@ -274,8 +268,6 @@ Wolfsburg is the city in Germany with the country's highest per capita GDP, at $
 
 Sectors
 
-2006German_exports.PNG
-
 Germany has a social market economy characterised by a highly qualified labor force, a developed infrastructure, a large capital stock, a low level of corruption,[75] and a high level of innovation.[76] It has the largest national economy in Europe, the fourth largest by nominal GDP in the world, and ranked fifth by GDP (PPP) in 2015.
 
 The service sector contributes around 70% of the total GDP, industry 29.1%, and agriculture 0.9%.[77]
@@ -286,7 +278,7 @@ In 2010 agriculture, forestry, and mining accounted for only 0.9% of Germany's g
 
 Despite the country's high level of industrialization, almost one-third of its territory is covered by forest.[79] The forestry industry provides for about two-thirds of domestic consumption of wood and wood products, so Germany is a net importer of these items.
 
-Garzweiler.strip.mine.jpg lignite at Tagebau Garzweiler near Grevenbroich, Germany.]]
+lignite at Tagebau Garzweiler near Grevenbroich, Germany.]]
 
 The German soil is relatively poor in raw materials. Only lignite (brown coal) and potash salt (Kalisalz) are available in significant quantities. However, the former GDR's Wismut mining company produced a total of 230,400 tonnes of uranium between 1947 and 1990 and made East Germany the fourth largest producer of uranium ore worldwide (largest in USSR's sphere of control) at the time. Oil, natural gas and other resources are, for the most part, imported from other countries.[80]
 
@@ -298,7 +290,7 @@ Lignite is extracted in the extreme western and eastern parts of the country, ma
 
 Industry
 
-BASF1.jpg in Ludwigshafen.]]
+in Ludwigshafen.]]
 
 Industry and construction accounted for 30.7% of gross domestic product in 2017, and employed 24.2% of the workforce.[84] Germany excels in the production of automobiles, machinery, electrical equipment and chemicals. With the manufacture of 5.2 million vehicles in 2009, Germany was the world's fourth largest producer and largest exporter of automobiles. German automotive companies enjoy an extremely strong position in the so-called premium segment, with a combined world market share of about 90%.
 
@@ -326,7 +318,7 @@ Energy
 
 Germany is the world's fifth largest consumer of energy, and two-thirds of its primary energy was imported in 2002. In the same year, Germany was Europe's largest consumer of electricity, totaling 512.9 terawatt-hours. Government policy promotes energy conservation and the development of renewable energy sources, such as solar, wind, biomass, hydroelectric, and geothermal energy. As a result of energy-saving measures, energy efficiency has been improving since the beginning of the 1970s. The government has set the goal of meeting half the country's energy demands from renewable sources by 2050.
 
-Windgermany.JPG and third-largest wind power capacity in the world is installed in Germany.]]
+and third-largest wind power capacity in the world is installed in Germany.]]
 
 In 2000, the red-green coalition under Chancellor Schröder and the German nuclear power industry agreed to phase out all nuclear power plants by 2021.[100] The conservative coalition under Chancellor Merkel reversed this decision in January 2010, electing to keep plants open. The nuclear disaster of the Japanese nuclear plant Fukushima in March 2011 however, changed the political climate fundamentally: Older nuclear plants have been shut down. And a general phase out until 2020 or 2022 is now probable. Renewable energy yet still plays a more modest role in energy consumption, though German solar and windpower industries play a leading role worldwide.
 
@@ -338,7 +330,7 @@ Germany's network of natural gas pipelines, on the other hand, is dense and well
 
 Transport
 
-IC3_NIederlande_in_Frankfurt_249-dLd.jpg trainset in Frankfurt]]
+trainset in Frankfurt]]
 
 With its central position in Europe, Germany is an important transportation hub. This is reflected in its dense and modern transportation networks. The extensive motorway (Autobahn) network that ranks worldwide third largest in its total length and features a lack of blanket speed limits on the majority of routes.[105]
 
@@ -349,7 +341,7 @@ The largest German airports are the Frankfurt International Airport and the Muni
 
 Technology
 
-Fächertextur.jpg visualized by a polarizing microscope. Germany is a pioneer research center for nanotechnology and materials engineering.[108]]]
+visualized by a polarizing microscope. Germany is a pioneer research center for nanotechnology and materials engineering.[108]]]
 
 Germany's achievements in sciences have been significant, and research and development efforts form an integral part of the economy.[109]
 

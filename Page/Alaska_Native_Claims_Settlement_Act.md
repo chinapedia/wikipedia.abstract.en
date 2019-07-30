@@ -5,7 +5,7 @@ The settlement established Alaska Native claims to the land by transferring titl
 
 Background
 
-Cliff_Groh.jpg When Alaska became a state in 1959, section 4 of the Alaska Statehood Act provided that any existing Alaska Native land claims would be unaffected by statehood and held in status quo.[7][8] Yet while section 4 of the act preserved Native land claims until later settlement, section 6 allowed for the state government to claim lands deemed vacant.[9] Section 6 granted the state of Alaska the right to select lands then in the hands of the federal government, with the exception of Native territory. As a result, nearly from the public domain would eventually be transferred to the state.[10][11] The state government also attempted to acquire lands under section 6 of the Statehood Act that were subject to Native claims under section 4, and that were currently occupied and used by Alaska Natives.[12] The federal Bureau of Land Management began to process the Alaska government's selections without taking into account the Native claims and without informing the affected Native groups.[13]
+When Alaska became a state in 1959, section 4 of the Alaska Statehood Act provided that any existing Alaska Native land claims would be unaffected by statehood and held in status quo.[7][8] Yet while section 4 of the act preserved Native land claims until later settlement, section 6 allowed for the state government to claim lands deemed vacant.[9] Section 6 granted the state of Alaska the right to select lands then in the hands of the federal government, with the exception of Native territory. As a result, nearly from the public domain would eventually be transferred to the state.[10][11] The state government also attempted to acquire lands under section 6 of the Statehood Act that were subject to Native claims under section 4, and that were currently occupied and used by Alaska Natives.[12] The federal Bureau of Land Management began to process the Alaska government's selections without taking into account the Native claims and without informing the affected Native groups.[13]
 
 It was against this backdrop that the original language for a land claims settlement was developed.[14]
 
@@ -69,7 +69,7 @@ Selected provisions of ANCSA
 
 Alaska Native regional corporations
 
-ANCSA_Regional_Corporations_Map.jpg The following thirteen regional corporations were created under ANCSA:
+The following thirteen regional corporations were created under ANCSA:
 
 -   Ahtna, Incorporated
 -   The Aleut Corporation

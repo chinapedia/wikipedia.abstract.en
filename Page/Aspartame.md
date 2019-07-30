@@ -91,8 +91,6 @@ Chemistry
 
 Aspartame is a methyl ester of the dipeptide of the natural amino acids L-aspartic acid and L-phenylalanine. Under strongly acidic or alkaline conditions, aspartame may generate methanol by hydrolysis. Under more severe conditions, the peptide bonds are also hydrolyzed, resulting in free amino acids.[105]
 
-Beta_aspartame.png
-
 While known aspects of synthesis are covered by patents, many details are proprietary.[106] Two approaches to synthesis are used commercially. In the chemical synthesis, the two carboxyl groups of aspartic acid are joined into an anhydride, and the amino group is protected with as the formamide, by treatment of aspartic acid with a mixture of formic acid and acetic anhydride.[107] Phenylalanine is converted to its methyl ester and combined with the _N_-formyl aspartic anhydride; then the protecting group is removed from aspartic nitrogen by acid hydrolysis. The drawback of this technique is that a byproduct, the bitter-tasting β-form, is produced when the wrong carboxyl group from aspartic acid anhydride links to phenylalanine, with desired and undesired isomer forming in a 4:1 ratio.[108] A process using an enzyme from _Bacillus thermoproteolyticus_ to catalyze the condensation of the chemically altered amino acids will produce high yields without the β-form byproduct. A variant of this method, which has not been used commercially, uses unmodified aspartic acid, but produces low yields. Methods for directly producing aspartyl-phenylalanine by enzymatic means, followed by chemical methylation, have also been tried, but not scaled for industrial production.[109]
 
 

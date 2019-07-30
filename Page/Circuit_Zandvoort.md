@@ -5,7 +5,7 @@ History
 
 1930s to mid 1980s
 
-Vlak_na_de_start,_Brabham,_Moss,_Surtees,_Taylor,_Hermann,_Bestanddeelnr_912-5054.jpg]]
+]]
 
 There were plans for races at Zandvoort before World War II: the first street race was held on 3 June 1939. However, a permanent race track was not constructed until after the war, using communications roads built by the occupying German army. Contrary to popular belief John Hugenholtz cannot be credited with the design of the Zandvoort track, although he was involved as the chairman of the Nederlandse Automobiel Ren Club (Dutch Auto Racing Club) before becoming the first track director in 1949.[1] Instead, it was 1927 Le Mans winner, S. C. H. "Sammy" Davis who was brought in as a track design advisor in July 1946[2] although the layout was partly dictated by the existing roads.
 
@@ -17,14 +17,12 @@ To solve a number of problems that had made it impossible to develop and upgrade
 
 In 1995, CPZ (_Circuit Park Zandvoort_) got the "A Status" of the Government of the Netherlands and began building an international Grand Prix Circuit. This project was finished in 2001 when, after the track was redesigned to a long circuit and a new pits building was realized (by HPG, the development company of John Hugenholtz jr, son of the former director), a new grandstand was situated along the long straight. One of the major events that is held at the circuit, along with DTM and A1GP, is the RTL Masters of Formula 3, where Formula Three cars of several national racing series compete with each other (originally called Marlboro Masters, before tobacco advertising ban). A noise restriction order was responsible for this event moving to the Belgian Circuit Zolder for 2007 and 2008. However, the race returned to its historical home in 2009.[4]
 
-DTM_Zandvoort,_2013_(10075032383).jpg race in Zandvoort]] Circuit Park Zandvoort played host to the first race in the 2006/07 season of A1 Grand Prix from 29 September–1 October 2006. On 21 August 2008, the official A1GP site reported that the 2008/09 season's first race has moved from the Mugello Circuit, Italy to Zandvoort on the 4–5 October 2008 due to the delay in the building the new chassis for the new race cars. The Dutch round moved to TT Circuit Assen in 2010.[5] A1GP bankrupted before its fifth season and the Dutch round was replaced with Superleague Formula.
+race in Zandvoort]] Circuit Park Zandvoort played host to the first race in the 2006/07 season of A1 Grand Prix from 29 September–1 October 2006. On 21 August 2008, the official A1GP site reported that the 2008/09 season's first race has moved from the Mugello Circuit, Italy to Zandvoort on the 4–5 October 2008 due to the delay in the building the new chassis for the new race cars. The Dutch round moved to TT Circuit Assen in 2010.[5] A1GP bankrupted before its fifth season and the Dutch round was replaced with Superleague Formula.
 
-Circuit_Zandvoort_motorsport_race_track_in_the_Netherlands_(46940292845).jpg In November 2018 media brought the news that the Formula One racing organisation has invited the owners of the Zandvoort race track to make a concrete proposal to stage a Grand Prix race in 2020.[6] In March 2019, it was confirmed that a letter of intent had been signed between Zandvoort and Formula One Management to stage the Dutch Grand Prix, but that it was dependent on private funding being secured to cover hosting the race. A deadline of March 31 2019 was set for a final decision to be made.[7] On 14 May 2019 it was confirmed that Zandvoort would host the Dutch Grand Prix for 2020 and beyond for a duration of at least three years, with the option to host another two in the future.[8] An exact date and schedule alignment is still to be determined.[9] The Municipality of Zandvoort will pay four million Euros which will be used so the circuit itself can undergo various changes, such as slight alterations to the Gerlach and Hugenholz corners, to bring it up to date with F1 standards. The infrastructure around the circuit is set to be improved as well, most of the money will be used to improve the accessability to the track.[10][11]
+In November 2018 media brought the news that the Formula One racing organisation has invited the owners of the Zandvoort race track to make a concrete proposal to stage a Grand Prix race in 2020.[6] In March 2019, it was confirmed that a letter of intent had been signed between Zandvoort and Formula One Management to stage the Dutch Grand Prix, but that it was dependent on private funding being secured to cover hosting the race. A deadline of March 31 2019 was set for a final decision to be made.[7] On 14 May 2019 it was confirmed that Zandvoort would host the Dutch Grand Prix for 2020 and beyond for a duration of at least three years, with the option to host another two in the future.[8] An exact date and schedule alignment is still to be determined.[9] The Municipality of Zandvoort will pay four million Euros which will be used so the circuit itself can undergo various changes, such as slight alterations to the Gerlach and Hugenholz corners, to bring it up to date with F1 standards. The infrastructure around the circuit is set to be improved as well, most of the money will be used to improve the accessability to the track.[10][11]
 
 
 The circuit
-
-Circuit_Park_Zandvoort_from_air_2016-08-24.jpg Circuit_Zandvoort_1.png
 
 The circuit gained popularity because of its fast, sweeping corners such as Scheivlak as well as the "Tarzanbocht" (Tarzan corner) hairpin at the end of the start/finish straight. Tarzanbocht is the most famous corner in the circuit. Since there is a camber in the corner, it provides excellent overtaking opportunities. It is possible to pass around the outside as well as the easier inside lane.[12] This corner is reportedly named after a local character who had earned the nickname of Tarzan and only wanted to give up his vegetable garden in the dunes if the track's designers named a nearby corner after him. On the other hand, many different stories about Tarzan Corner are known.
 
@@ -53,8 +51,6 @@ The corners are named as follows (the numbers correspond to the map in this sect
 
 The elevation difference is .
 
-Circuit_Park_Zandvoort.jpg
-
 ]]
 
 
@@ -80,8 +76,6 @@ In the history of the circuit, several fatal accidents have occurred.
 
 
 Cycling and Running competitions
-
-Wielerkampioenschap_amateurs_te_Zandvoort,_Bestanddeelnr_911-3475.jpg
 
 In August 1959 a 26th World Championships Road Race (men) was held here. André Darrigade of France won the race, Tom Simpson (Britain) was 4th.[16] Since 2008, the course has been used as the venue for the Runner's World Zandvoort Circuit Run, a 5-kilometre road running competition.[17] The 2010 edition of the race attracted Lornah Kiplagat, a multiple world champion, who won the ladies 5 km race.[18]
 

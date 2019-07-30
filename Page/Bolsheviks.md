@@ -1,4 +1,4 @@
-Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_(Bolsheviks).jpg meeting: sitting (from left) are Enukidze, Kalinin, Bukharin, Tomsky, Lashevich, Kamenev, Preobrazhensky, Serebryakov, Lenin and Rykov]]
+meeting: sitting (from left) are Enukidze, Kalinin, Bukharin, Tomsky, Lashevich, Kamenev, Preobrazhensky, Serebryakov, Lenin and Rykov]]
 
 The BOLSHEVIKS, also known in English as the BOLSHEVISTS,[1] were a faction founded by Vladimir Lenin and Alexander Bogdanov that split from the Menshevik faction of the Marxist Russian Social Democratic Labour Party (RSDLP), a revolutionary socialist political party formed in 1898, at its Second Party Congress in 1903.[2]
 
@@ -7,7 +7,7 @@ After forming their own party in 1912, the bolsheviks took power in Russia in No
 
 History of the split
 
-Kustodiev_The_Bolshevik.jpg, 1920]]
+, 1920]]
 
 Lenin's ideology in _What Is to Be Done?_
 
@@ -69,13 +69,13 @@ Lenin was firmly opposed to any re-unification, but was outvoted within the Bols
 
 Forming a separate party (1912)
 
-Trotsky,_Lenin,_Kamenev_(1919).jpg, Vladimir Lenin and Lev Kamenev]]
+, Vladimir Lenin and Lev Kamenev]]
 
 The factions permanently broke relations in January 1912 after the Bolsheviks organised a Bolsheviks-only Prague Party Conference and formally expelled Mensheviks and recallists from the party. As a result, they ceased to be a faction in the RSDLP and instead declared themselves an independent party, called Russian Social Democratic Labour Party (Bolsheviks) – or RSDLP(b). Unofficially, the party has been referred to as the Bolshevik Party. Throughout the 20th century, the party adopted a number of different names. In 1918, RSDLP(b) became All-Russian Communist Party (Bolsheviks) and remained so until 1925. From 1925–1952, the name was All-Union Communist Party (Bolsheviks) and from 1952–1991 Communist Party of the Soviet Union.
 
 As the party split became permanent, further divisions became evident. One of the most notable differences was how each faction decided to fund its revolution. The Mensheviks decided to fund their revolution through membership dues while Lenin often resorted to more drastic measures since he required a higher budget. One of the common methods the Bolsheviks used was committing bank robberies, one of which, in 1907, resulted in the party getting over 250,000 roubles, which is the equivalent of about $125,000. Bolsheviks were in constant need of money because Lenin practised his beliefs, expressed in his writings, that revolutions must be led by individuals who devote their entire lives to the cause. As compensation, he awarded them with salaries for their sacrifice and dedication. This measure was taken to help ensure that the revolutionists stayed focused on their duties and motivated them to perform their jobs. Lenin also used the party money to print and copy pamphlets which were distributed in cities and at political rallies, in an attempt to expand their operations. Both factions got funds through donations from wealthy supporters.
 
-Russian_Constituent_Assembly_Election_1917.png took place in November 1917 in which the Bolsheviks came second with 23.9% of the vote and dissolved the Assembly in January 1918[19]]]
+took place in November 1917 in which the Bolsheviks came second with 23.9% of the vote and dissolved the Assembly in January 1918[19]]]
 
 Further differences in party agendas became evident as the beginning of World War I loomed near. Joseph Stalin was especially eager for the start of the war, hoping that it would turn into a war between classes or essentially a Russian Civil War. This desire for war was fuelled by Lenin's vision that the workers and peasants would resist joining the war effort and therefore be more compelled to join the socialist movement. Through the increase in support, Russia would then be forced to withdraw from the Allied powers in order to resolve her internal conflict. Unfortunately for the Bolsheviks, Lenin's assumptions were incorrect. Despite his and the party's attempts to push for a civil war through involvement in two conferences in 1915 and 1916 in Switzerland, the Bolsheviks were in the minority in calling for a ceasefire by the Russian Army in World War I.
 
@@ -87,8 +87,6 @@ In 1918, the party renamed itself the Russian Communist Party (Bolsheviks) at Le
 
 
 Derogatory usage of "Bolshevik"
-
-Nieder_mit_dem_Bolschewismus._Bolschewismus_bringt_Krieg_und_Verderben,_Hunger_und_Tod_LCCN2004665807.jpg
 
 "Bolo" was a derogatory expression for Bolsheviks used by British service personnel in the North Russian Expeditionary Force which intervened against the Red Army during the Russian Civil War.[21] Adolf Hitler, Joseph Goebbels and other Nazi leaders used it in reference to the worldwide political movement coordinated by the Comintern.[22] During the days of the Cold War in the United Kingdom, labour union leaders and other leftists were sometimes derisively described as "Bolshies". The usage is roughly equivalent to the term "commie", "Red", or "pinko" in the United States during the same period. The term "Bolshie" later became a slang term for anyone who was rebellious, aggressive, or truculent.[23]
 

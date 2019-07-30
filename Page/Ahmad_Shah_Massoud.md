@@ -32,7 +32,7 @@ Believing that an uprising against the Soviet-backed communists would be support
 
 Resistance against the Soviet Union (1979–1989)
 
-Afghanistan_insurgency_1985.png. Shura-e Nazar (Massoud's alliance) comprised many Jamiat positions but also those of other groups.]]
+. Shura-e Nazar (Massoud's alliance) comprised many Jamiat positions but also those of other groups.]]
 
 Following the 1979 Soviet invasion and occupation of Afghanistan, Massoud devised a strategic plan for expelling the invaders and overthrowing the communist regime. The first task was to establish a popularly based resistance force that had the loyalty of the people. The second phase was "active defense" of the Panjshir stronghold, while carrying out asymmetric warfare. In the third phase, the "strategic offensive", Massoud's forces would gain control of large parts of Northern Afghanistan. The fourth phase was the "general application" of Massoud's principles to the whole country, and the defeat of the Afghan communist government.
 
@@ -152,15 +152,13 @@ Massoud and Rabbani meanwhile kept working on an internal Afghan peace process�
 
 Resistance against the Taliban (1996–2001)
 
-1996afghan_(1).png (green), Taliban (yellow)]]
+(green), Taliban (yellow)]]
 
 United Front against the Taliban
 
 Ahmad Shah Massoud created the United Front (Northern Alliance) against the Taliban advance. The United Front included forces and leaders from different political backgrounds as well as from all ethnicities of Afghanistan. From the Taliban conquest in 1996 until November 2001, the United Front controlled territory in which roughly 30% of Afghanistan's population was living, in provinces such as Badakhshan, Kapisa, Takhar and parts of Parwan, Kunar, Nuristan, Laghman, Samangan, Kunduz, Ghōr and Bamyan.
 
 Meanwhile, the Taliban imposed their repressive regime in the parts of Afghanistan under their control.[150] Hundreds of thousands of people fled to Northern Alliance territory, Pakistan and Iran.[151] Massoud's soldiers held some 1,200 Taliban prisoners in the Panjshir Valley, 122 of them foreign Muslims who had come to Afghanistan to fight a jihad.[152] In 1998, after the defeat of Abdul Rashid Dostum's faction in Mazar-i-Sharif, Ahmad Shah Massoud remained the only main leader of the United Front in Afghanistan and the only leader who was able to defend vast parts of his area against the Taliban. Most major leaders including the Islamic State's President Burhanuddin Rabbani, Abdul Rashid Dostum, and others, were living in exile. During this time, commentators remarked that "The only thing standing in the way of future Taliban massacres is Ahmad Shah Massoud."[153][154]
-
-Guerre_en_Afghanistan_(octobre_2001).PNG
 
 Massoud stated that the Taliban repeatedly offered him a position of power to make him stop his resistance. He declined, declaring the differences between their ideology and his own pro-democratic outlook on society to be insurmountable.[155]
 
@@ -170,7 +168,7 @@ In early 2001, the United Front employed a new strategy of local military pressu
 
 Cross-factional negotiations
 
-Massoud_and_Qadir_2.PNG (left) in November 2000]]
+(left) in November 2000]]
 
 From 1999 onwards, a renewed process was set into motion by the Tajik Ahmad Shah Massoud and the Pashtun Abdul Haq to unite all the ethnicities of Afghanistan. Massoud united the Tajiks, Hazara and Uzbeks as well as several Pashtun commanders under his United Front. Besides meeting with Pashtun tribal leaders and acting as a point of reference, Abdul Haq received increasing numbers of Pashtun Taliban themselves who were secretly approaching him.[162] Some commanders who had worked for the Taliban military apparatus agreed to the plan to topple the Taliban regime[163] as the Taliban lost support even among the Pashtuns. Senior diplomat and Afghanistan expert Peter Tomsen wrote that _"[t]he 'Lion of Kabul' [Abdul Haq] and the 'Lion of Panjshir' [Ahmad Shah Massoud] would make a formidable anti-Taliban team if they combined forces. Haq, Massoud, and Karzai, Afghanistan's three leading moderates, could transcend the Pashtun—non-Pashtun, north-south divide."_[164] Steve Coll referred to this plan as a "grand Pashtun-Tajik alliance".[165] The senior Hazara and Uzbek leaders took part in the process just like later Afghan president Hamid Karzai. They agreed to work under the banner of the exiled Afghan king Zahir Shah in Rome.
 
@@ -217,7 +215,7 @@ In April 2001, the president of the European Parliament, Nicole Fontaine (who ca
 
 Assassination
 
-Massoud_Memorial.jpg honouring Massoud's resistance at his tomb and memorial in September 2010]]
+honouring Massoud's resistance at his tomb and memorial in September 2010]]
 
 Massoud, then aged 48, was the target of an assassination plot at Khwājah Bahā ud Dīn (Khvājeh Bahāuḏḏīn[191]), in Takhar Province in northeastern Afghanistan on September 9, 2001.[192][193] The attackers' names were alternately given as Dahmane Abd al-Sattar, husband of Malika El Aroud, and Bouraoui el-Ouaer; or 34-year-old Karim Touzani and 26-year-old Kacem Bakkali.[194]
 
@@ -242,7 +240,7 @@ Legacy
 
 National Hero of Afghanistan
 
-Tomb_site_of_Ahmad_Shah_Massoud_in_Panjshir.jpg Massoud_poster_in_Kabul.jpg Massoud_cirkle_-_panoramio.jpg Massoud was the only chief Afghan leader who never left Afghanistan in the fight against the Soviet Union and later in the fight against the Taliban Emirate.[205] In the areas under his direct control, such as Panjshir, some parts of Parwan and Takhar, Massoud established democratic institutions. One refugee who cramped his family of 27 into an old jeep to flee from the Taliban to the area of Massoud described Massoud's territory in 1997 as "the last tolerant corner of Afghanistan".[206]
+Massoud was the only chief Afghan leader who never left Afghanistan in the fight against the Soviet Union and later in the fight against the Taliban Emirate.[205] In the areas under his direct control, such as Panjshir, some parts of Parwan and Takhar, Massoud established democratic institutions. One refugee who cramped his family of 27 into an old jeep to flee from the Taliban to the area of Massoud described Massoud's territory in 1997 as "the last tolerant corner of Afghanistan".[206]
 
 -   In 2001, the Afghan Interim Government under president Hamid Karzai officially awarded Massoud the title of "Hero of the Afghan Nation".[207][208] One analyst in 2004 said:
 
@@ -270,7 +268,7 @@ The _Wall Street Journal_ referred to Massoud as "The Afghan Who Won the Cold Wa
 
 Views on Pakistan and potential al-Qaeda attacks
 
-Russian_Veterans_visiting_Masoud’s_Tomb_(2009).jpg (center,) standing by Massoud's Tomb, commemorating his memory (2009)]] Although Pakistan were supporting the mujahideen groups during the Soviet-Afghan War, Ahmad Shah Massoud increasingly distrusted the Pakistanis and eventually kept his distance from them.[214] In a 1999 interview, Massoud says "They [Pakistan] are trying to turn us into a colony. Without them there would be no war".[215]
+(center,) standing by Massoud's Tomb, commemorating his memory (2009)]] Although Pakistan were supporting the mujahideen groups during the Soviet-Afghan War, Ahmad Shah Massoud increasingly distrusted the Pakistanis and eventually kept his distance from them.[214] In a 1999 interview, Massoud says "They [Pakistan] are trying to turn us into a colony. Without them there would be no war".[215]
 
 In the spring 2001, Ahmad Shah Massoud addressed the European Parliament in Brussels, saying that Pakistan was behind the situation in Afghanistan.[216] He also said that he believed that, without the support of Pakistan, Osama bin Laden, and Saudi Arabia, the Taliban would not be able to sustain their military campaign for up to a year. He said the Afghan population was ready to rise against them.[217] Addressing the United States specifically, he warned that should the U.S. not work for peace in Afghanistan and put pressure on Pakistan to cease their support to the Taliban, the problems of Afghanistan would soon become the problems of the U.S. and the world.[218][219]
 

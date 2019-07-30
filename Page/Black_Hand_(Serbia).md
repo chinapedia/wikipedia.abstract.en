@@ -7,7 +7,7 @@ Background
 
 Apis' conspiracy group and the May Coup
 
- Black_Hand_Members.jpg
+ 
 
 In August 1901, a group of lower officers headed by captain Dragutin Dimitrijević "Apis" established a conspiracy group (called the BLACK HAND in literature), against the dynasty.[5] The first meeting was held on 6 September 1901. In attendance were captains Radomir Aranđelović, Milan F. Petrović, and Dragutin Dimitrijević, as well as lieutenants Antonije Antić, Dragutin Dulić, Milan Marinković, and Nikodije Popović. They made a plan to kill the royal couple—King Alexander I Obrenović and Queen Draga. Captain Apis personally led the group of Army officers who killed the royal couple in the Old Palace at Belgrade on the night of 28/29 May 1903 (Old Style).
 
@@ -17,9 +17,6 @@ On 8 October 1908, just two days after Austria annexed Bosnia and Herzegovina, s
 
 
 Establishment
-
-Ritual_cross_the_Black_Hand.jpg
-Signatures_of_Black_Hand_members.jpg
 
 The UNIFICATION OR DEATH was established in the beginning of May 1911,[7] the original constitution of the organization being signed on 9 May.[8] Ljuba Čupa, Bogdan Radenković and Vojislav Tankosić wrote the constitution of the organization.[9] The constitution was modeled after similar German secret nationalist associations and the Italian Carbonari.[10] The organization was mentioned in the Serbian parliament as the "Black Hand" in late 1911.[11]
 

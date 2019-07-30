@@ -1,4 +1,4 @@
-Didgeridu_and_clap_sticks.jpg players performing at Nightcliff, Northern Territory]] The DIDGERIDOO (; also known as a DIDJERIDU) is a primitive musical instrument of wind instrument type. The didgeridoo was developed by Indigenous Australians of northern Australia, likely within the last 1,500 years and is now in limited use around the world. It is a wooden trumpet "drone pipe" classified by Musicologists as a brass aerophone.[1]
+players performing at Nightcliff, Northern Territory]] The DIDGERIDOO (; also known as a DIDJERIDU) is a primitive musical instrument of wind instrument type. The didgeridoo was developed by Indigenous Australians of northern Australia, likely within the last 1,500 years and is now in limited use around the world. It is a wooden trumpet "drone pipe" classified by Musicologists as a brass aerophone.[1]
 
 A modern didgeridoo is usually cylindrical or conical, and can measure anywhere from long. Most are around long. Generally, the longer the instrument, the lower its pitch or key. However, flared instruments play a higher pitch than unflared instruments of the same length.
 
@@ -58,7 +58,7 @@ There are numerous other, regional names for the didgeridoo. The following are s
 
 Construction
 
-Didgeridoo_Embout1.jpg Traditional didgeridoos are usually made from hardwoods, especially the various eucalyptus species that are endemic to northern and central Australia.[13] Generally the main trunk of the tree is harvested, though a substantial branch may be used instead. Traditional didgeridoo makers seek suitably hollow live trees in areas with obvious termite activity. Termites attack these living eucalyptus trees, removing only the dead heartwood of the tree, as the living sapwood contains a chemical that repels the insects.[14] Various techniques are employed to find trees with a suitable hollow, including knowledge of landscape and termite activity patterns, and a kind of tap or knock test, in which the bark of the tree is peeled back, and a fingernail or the blunt end of a tool, such as an axe, is knocked against the wood to determine if the hollow produces the right resonance.[15] Once a suitably hollow tree is found, it is cut down and cleaned out, the bark is taken off, the ends trimmed, and the exterior is shaped; this results in a finished instrument. A rim of beeswax may be applied to the mouthpiece end.
+Traditional didgeridoos are usually made from hardwoods, especially the various eucalyptus species that are endemic to northern and central Australia.[13] Generally the main trunk of the tree is harvested, though a substantial branch may be used instead. Traditional didgeridoo makers seek suitably hollow live trees in areas with obvious termite activity. Termites attack these living eucalyptus trees, removing only the dead heartwood of the tree, as the living sapwood contains a chemical that repels the insects.[14] Various techniques are employed to find trees with a suitable hollow, including knowledge of landscape and termite activity patterns, and a kind of tap or knock test, in which the bark of the tree is peeled back, and a fingernail or the blunt end of a tool, such as an axe, is knocked against the wood to determine if the hollow produces the right resonance.[15] Once a suitably hollow tree is found, it is cut down and cleaned out, the bark is taken off, the ends trimmed, and the exterior is shaped; this results in a finished instrument. A rim of beeswax may be applied to the mouthpiece end.
 
 Non-traditional didgeridoos can be made from native or non-native hard woods (typically split, hollowed and rejoined), glass, fiberglass, metal, agave, clay, hemp (in the form of a bioplastic named zelfo), PVC piping and carbon fibre. These typically have an upper inside diameter of around 1.25" down to a bell end of anywhere between two and eight inches and have a length corresponding to the desired key. The end of the pipe can be shaped and smoothed to create a comfortable mouthpiece or an added mouthpiece can be made of any shaped and smoothed material such as rubber, rubber stopper with a hole or beeswax.
 
@@ -71,14 +71,12 @@ Didgeridoos can be painted by their maker or a dedicated artist using traditiona
 
 Playing the didgeridoo
 
-Didgeridoo_(Imagicity_1070).jpg The didgeridoo is played with continuously vibrating lips to produce the drone while using a special breathing technique called circular breathing. This requires breathing in through the nose whilst simultaneously expelling stored air out of the mouth using the tongue and cheeks. By use of this technique, a skilled player can replenish the air in their lungs, and with practice can sustain a note for as long as desired. Recordings exist of modern didgeridoo players playing continuously for more than 40 minutes; Mark Atkins on _Didgeridoo Concerto_ (1994) plays for over 50 minutes continuously.
+The didgeridoo is played with continuously vibrating lips to produce the drone while using a special breathing technique called circular breathing. This requires breathing in through the nose whilst simultaneously expelling stored air out of the mouth using the tongue and cheeks. By use of this technique, a skilled player can replenish the air in their lungs, and with practice can sustain a note for as long as desired. Recordings exist of modern didgeridoo players playing continuously for more than 40 minutes; Mark Atkins on _Didgeridoo Concerto_ (1994) plays for over 50 minutes continuously.
 
 The didgeridoo functions "...as an aural kaleidoscope of timbres"[18] and that "the extremely difficult virtuoso techniques developed by expert performers find no parallel elsewhere."[19]
 
 
 Physics and operation
-
-Didgeridoo_street_player-2.jpg
 
 A termite-bored didgeridoo has an irregular shape that, overall, usually increases in diameter towards the lower end. This shape means that its resonances occur at frequencies that are not harmonically spaced in frequency. This contrasts with the harmonic spacing of the resonances in a cylindrical plastic pipe, whose resonant frequencies fall in the ratio 1:3:5 etc. The second resonance of a didgeridoo (the note sounded by overblowing) is usually around an 11th higher than the fundamental frequency (a frequency ratio somewhat less than 3:1).
 
@@ -110,7 +108,7 @@ Kate Bush made extensive use of the didgeridoo (played by Australian musician Ro
 
 Cultural significance
 
-Australia_Aboriginal_Culture_009.jpg Reticulated_Didjeridoo_2015.jpg Traditionally, the didgeridoo was played as an accompaniment to ceremonial dancing and singing and for solo or recreational purposes. For Aboriginal peoples of northern Australia, the didgeridoo is still used to accompany singers and dancers in cultural ceremonies. Today, most Didgeridoo playing is recreational but it has become an important commercial activity in tourism and a more limited professional activity in music performances and recordings.
+Traditionally, the didgeridoo was played as an accompaniment to ceremonial dancing and singing and for solo or recreational purposes. For Aboriginal peoples of northern Australia, the didgeridoo is still used to accompany singers and dancers in cultural ceremonies. Today, most Didgeridoo playing is recreational but it has become an important commercial activity in tourism and a more limited professional activity in music performances and recordings.
 
 Pair sticks, sometimes called _clapsticks_ or _bilma_, establish the beat for the songs during ceremonies. The rhythm of the didgeridoo and the beat of the clapsticks are precise, and these patterns have been handed down for many generations. In the Wangga genre, the song-man starts with vocals and then introduces _blima_ to the accompaniment of didgeridoo.[21]
 

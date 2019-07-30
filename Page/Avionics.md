@@ -1,4 +1,4 @@
-Cessna501_radar.JPG.]] Republic_F-105B_with_avionics_layout_060831-F-1234S-046.jpg with avionics laid out]]
+.]] with avionics laid out]]
 
 AVIONICS are the electronic systems used on aircraft, artificial satellites, and spacecraft. Avionic systems include communications, navigation, the display and management of multiple systems, and the hundreds of systems that are fitted to aircraft to perform individual functions. These can be as simple as a searchlight for a police helicopter or as complicated as the tactical system for an airborne early warning platform. The term _avionics_ is a portmanteau of the words _aviation_ and _electronics_.
 
@@ -43,7 +43,7 @@ Air navigation is the determination of position and direction on or above the su
 
 Monitoring
 
-Airbus_A380_cockpit.jpg The first hints of glass cockpits emerged in the 1970s when flight-worthy cathode ray tube (CRT) screens began to replace electromechanical displays, gauges and instruments. A "glass" cockpit refers to the use of computer monitors instead of gauges and other analog displays. Aircraft were getting progressively more displays, dials and information dashboards that eventually competed for space and pilot attention. In the 1970s, the average aircraft had more than 100 cockpit instruments and controls.[9]
+The first hints of glass cockpits emerged in the 1970s when flight-worthy cathode ray tube (CRT) screens began to replace electromechanical displays, gauges and instruments. A "glass" cockpit refers to the use of computer monitors instead of gauges and other analog displays. Aircraft were getting progressively more displays, dials and information dashboards that eventually competed for space and pilot attention. In the 1970s, the average aircraft had more than 100 cockpit instruments and controls.[9]
 
 Glass cockpits started to come into being with the Gulfstream G‑IV private jet in 1985. One of the key challenges in glass cockpits is to balance how much control is automated and how much the pilot should do manually. Generally they try to automate flight operations while keeping the pilot constantly informed.[10]
 

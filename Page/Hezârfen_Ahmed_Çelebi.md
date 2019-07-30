@@ -17,7 +17,7 @@ Evliyâ Çelebi's account of the exploits of Hezârfen Ahmet Çelebi is only thr
 
 Site details
 
-Hezârfen_Ahmed_Çelebi_Glider_Flight_Path.png district in Europe to the Üsküdar district on the Asian side of Istanbul]] Measurements of the alleged launch height and flight distance are as follows:
+district in Europe to the Üsküdar district on the Asian side of Istanbul]] Measurements of the alleged launch height and flight distance are as follows:
 
 -   The Galata Tower sits above sea level[2], the peak of its conical dome above ground level[3] and above sea level.
 -   Doğancılar square is about above sea level.

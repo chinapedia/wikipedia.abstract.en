@@ -18,7 +18,7 @@ The temple created by the Rhoecus sculptors and architects was destroyed between
 
 Earlier sanctuaries, whose dedication to Hera is less certain, were of the Mycenaean type called "house sanctuaries".[12] Samos excavations have revealed votive offerings, many of them late 8th and 7th centuries BCE, which show that Hera at Samos was not merely a local Greek goddess of the Aegean: the museum there contains figures of gods and suppliants and other votive offerings from Armenia, Babylon, Iran, Assyria, Egypt, testimony to the reputation which this sanctuary of Hera enjoyed and to the large influx of pilgrims. Compared to this mighty goddess, who also possessed the earliest temple at Olympia and two of the great fifth and sixth century temples of Paestum, the termagant of Homer and the myths is an "almost... comic figure", according to Burkert.[13]
 
-Temple_of_Hera_-_Agrigento_-_Italy_2015.JPG, Magna Graecia.]] Though greatest and earliest free-standing temple to Hera was the Heraion of Samos, in the Greek mainland Hera was especially worshipped as "Argive Hera" (_Hera Argeia_) at her sanctuary that stood between the former Mycenaean city-states of Argos and Mycenae,[14][15] where the festivals in her honor called _Heraia_ were celebrated. "The three cities I love best," the ox-eyed Queen of Heaven declares in the _Iliad_, book iv, "are Argos, Sparta and Mycenae of the broad streets." There were also temples to Hera in Olympia, Corinth, Tiryns, Perachora and the sacred island of Delos. In Magna Graecia, two Doric temples to Hera were constructed at Paestum, about 550 BCE and about 450 BCE. One of them, long called the _Temple of Poseidon_ was identified in the 1950s as a second temple there of Hera.[16]
+, Magna Graecia.]] Though greatest and earliest free-standing temple to Hera was the Heraion of Samos, in the Greek mainland Hera was especially worshipped as "Argive Hera" (_Hera Argeia_) at her sanctuary that stood between the former Mycenaean city-states of Argos and Mycenae,[14][15] where the festivals in her honor called _Heraia_ were celebrated. "The three cities I love best," the ox-eyed Queen of Heaven declares in the _Iliad_, book iv, "are Argos, Sparta and Mycenae of the broad streets." There were also temples to Hera in Olympia, Corinth, Tiryns, Perachora and the sacred island of Delos. In Magna Graecia, two Doric temples to Hera were constructed at Paestum, about 550 BCE and about 450 BCE. One of them, long called the _Temple of Poseidon_ was identified in the 1950s as a second temple there of Hera.[16]
 
 In Euboea, the festival of the Great Daedala, sacred to Hera, was celebrated on a sixty-year cycle.
 
@@ -32,7 +32,7 @@ According to Homeric Hymn III to Delian Apollo, Hera detained Eileithyia to prev
 
 The Homeric Hymn to Pythian Apollo makes the monster Typhaon the offspring of archaic Hera in her Minoan form, produced out of herself, like a monstrous version of Hephaestus, and whelped in a cave in Cilicia.[20] She gave the creature to Python to raise.
 
-Hera_Barberini_Chiaramonti_Inv1210.jpg" type, from the Museo Chiaramonti]]
+" type, from the Museo Chiaramonti]]
 
 In the Temple of Hera, Olympia, Hera's seated cult figure was older than the warrior figure of Zeus that accompanied it. Homer expressed her relationship with Zeus delicately in the _Iliad_, in which she declares to Zeus, "I am Cronus' eldest daughter, and am honourable not on this ground only, but also because I am your wife, and you are king of the gods."[21]
 
@@ -105,19 +105,19 @@ Stories involving Hera
 
 Heracles
 
-Herakles_strangling_snakes_Louvre_G192.jpg strangling the snakes sent by Hera, Attic red-figured stamnos, ca. 480–470 BCE. From Vulci, Etruria.]]
+strangling the snakes sent by Hera, Attic red-figured stamnos, ca. 480–470 BCE. From Vulci, Etruria.]]
 
 Hera is the stepmother and enemy of Heracles. The name Heracles means "Glory of Hera". There are three alternative stories about the birth of Heracles and Hera's role in preventing it. In Homer's _Iliad_, when Alcmene was about to give birth to Heracles, Zeus announced to all the gods that on that day a child by Zeus himself, would be born and rule all those around him. Hera, after requesting Zeus to swear an oath to that effect, descended from Olympus to Argos and made the wife of Sthenelus (son of Perseus) give birth to Eurystheus after only seven months, while at the same time preventing Alcmene from delivering Heracles. This resulted in the fulfilment of Zeus's oath in that it was Eurystheus rather than Heracles.[61] In an alternative version mentioned in Ovid's _Metamorphoses_, when Alcmene was pregnant with Zeus' child, Hera tried to prevent the birth from occurring by having Eileithyia (the Greek equivalent of Lucina) tie Alcmene's legs in knots. Her attempt was foiled when Galanthis frightened Eileithyia while she was tying Alcmene's legs and Heracles was born. Hera thus punishes Galanthis by turning her into a weasel.[62][63] In Pausanias' recounting, Hera sent witches (as they were called by the Thebans) to hinder Alcmene's delivery of Heracles. The witches were successful in preventing the birth until Historis, daughter of Tiresias, thought of a trick to deceive the witches. Like Galanthis, Historis announced that Alcmene had delivered her child; having been deceived, the witches went away, allowing Alcmene to give birth.[64]
 
 Hera's wrath against Zeus' son continues and while Heracles is still an infant, Hera sends two serpents to kill him as he lay in his cot. Heracles throttles the snakes with his bare hands and was found by his nurse playing with their limp bodies as if they were a child's toy.[65]
 
-Jacopo_Tintoretto_-_The_Origin_of_the_Milky_Way_-_Google_Art_Project.jpg.]] One account of the origin of the Milky Way is that Zeus had tricked Hera into nursing the infant Heracles: discovering who he was, she pulled him from her breast, and a spurt of her milk formed the smear across the sky that can be seen to this day.[66] Unlike any Greeks, the Etruscans instead pictured a full-grown bearded Heracles at Hera's breast: this may refer to his adoption by her when he became an Immortal. He had previously wounded her severely in the breast.
+.]] One account of the origin of the Milky Way is that Zeus had tricked Hera into nursing the infant Heracles: discovering who he was, she pulled him from her breast, and a spurt of her milk formed the smear across the sky that can be seen to this day.[66] Unlike any Greeks, the Etruscans instead pictured a full-grown bearded Heracles at Hera's breast: this may refer to his adoption by her when he became an Immortal. He had previously wounded her severely in the breast.
 
 When Heracles reached adulthood, Hera drove him mad, which led him to murder his family and this later led to him undertaking his famous labours. Hera assigned Heracles to labour for King Eurystheus at Mycenae. She attempted to make almost each of Heracles' twelve labours more difficult. When he fought the Lernaean Hydra, she sent a crab to bite at his feet in the hopes of distracting him. Later Hera stirred up the Amazons against him when he was on one of his quests. When Heracles took the cattle of Geryon, he shot Hera in the right breast with a triple-barbed arrow: the wound was incurable and left her in constant pain, as Dione tells Aphrodite in the _Iliad_, Book V. Afterwards, Hera sent a gadfly to bite the cattle, irritate them and scatter them. Hera then sent a flood which raised the water level of a river so much that Heracles could not ford the river with the cattle. He piled stones into the river to make the water shallower. When he finally reached the court of Eurystheus, the cattle were sacrificed to Hera.
 
 Eurystheus also wanted to sacrifice the Cretan Bull to Hera. She refused the sacrifice because it reflected glory on Heracles. The bull was released and wandered to Marathon, becoming known as the Marathonian Bull.
 
-Some myths state that in the end, Heracles befriended Hera by saving her from Porphyrion, a giant who tried to rape her during the Gigantomachy, and that she even gave her daughter Hebe as his bride. Whatever myth-making served to account for an archaic representation of Heracles as "Hera's man" it was thought suitable for the builders of the Heraion at Paestum to depict the exploits of Heracles in bas-reliefs.[67]Hera_Staatliche_Antikensammlungen_2685_full.jpg of an Attic white-ground _kylix_ from Vulci, ca. 470 BC]]
+Some myths state that in the end, Heracles befriended Hera by saving her from Porphyrion, a giant who tried to rape her during the Gigantomachy, and that she even gave her daughter Hebe as his bride. Whatever myth-making served to account for an archaic representation of Heracles as "Hera's man" it was thought suitable for the builders of the Heraion at Paestum to depict the exploits of Heracles in bas-reliefs.[67] of an Attic white-ground _kylix_ from Vulci, ca. 470 BC]]
 
 Leto and the Twins: Apollo and Artemis
 
@@ -127,7 +127,7 @@ Either way, Artemis was born first and then assisted with the birth of Apollo.[7
 
 Later, Tityos attempted to rape Leto at the behest of Hera. He was slain by Artemis and Apollo.
 
-This account of the birth of Apollo and Artemis is contradicted by Hesiod in Theogony, as the twins are born prior to Zeus’ marriage to Hera.[73]Figino.jpg with Zeus'' by Giovanni Ambrogio Figino.]]
+This account of the birth of Apollo and Artemis is contradicted by Hesiod in Theogony, as the twins are born prior to Zeus’ marriage to Hera.[73] with Zeus'' by Giovanni Ambrogio Figino.]]
 
 Io and Argus
 
@@ -137,7 +137,7 @@ Once Io was given to Hera, she tied her to a tree and sent her servant Argus to 
 
 Judgment of Paris
 
-Mengs,_Urteil_des_Paris.jpg depicting the event. Hera is the goddess in the center, wearing the crown. _Das Urteil des Paris_ by Anton Raphael Mengs, ca. 1757]]
+depicting the event. Hera is the goddess in the center, wearing the crown. _Das Urteil des Paris_ by Anton Raphael Mengs, ca. 1757]]
 
 A prophecy stated that a son of the sea-nymph Thetis, with whom Zeus fell in love after gazing upon her in the oceans off the Greek coast, would become greater than his father.[77] Possibly for this reasons,[78] Thetis was betrothed to an elderly human king, Peleus son of Aeacus, either upon Zeus' orders,[79] or because she wished to please Hera, who had raised her.[80] All the gods and goddesses as well as various mortals were invited to the marriage of Peleus and Thetis (the eventual parents of Achilles) and brought many gifts.[81] Only Eris, goddess of discord, was not invited and was stopped at the door by Hermes, on Zeus' order. She was annoyed at this, so she threw from the door a gift of her own:[82] a golden apple inscribed with the word καλλίστῃ (kallistēi, "To the fairest").[83] Aphrodite, Hera, and Athena all claimed to be the fairest, and thus the rightful owner of the apple.
 
@@ -149,7 +149,7 @@ Hera plays a substantial role in _The Iliad_, appearing in a number of books thr
 
 In book 5, Hera and Athena plot to harm Ares, who had been seen by Diomedes in assisting the Trojans. Diomedes called for his soldiers to fall back slowly. Hera, Ares' mother, saw Ares' interference and asked Zeus, Ares' father, for permission to drive Ares away from the battlefield. Hera encouraged Diomedes to attack Ares and he threw his spear at the god. Athena drove the spear into Ares' body, and he bellowed in pain and fled to Mt. Olympus, forcing the Trojans to fall back.[85]
 
-James_Barry_001.jpg, 1773 (City Art Galleries, Sheffield.)]]
+, 1773 (City Art Galleries, Sheffield.)]]
 
 In book 8, Hera tries to persuade Poseidon to disobey Zeus and help the Achaean army. He refuses, saying he doesn’t want to go against Zeus. Determined to intervene in the war, Hera and Athena head to the battlefield. However, seeing the two flee, Zeus sent Iris to intercept them and make them return to Mt. Olympus or face grave consequences. After prolonged fighting, Hera sees Poseidon aiding the Greeks and giving them motivation to keep fighting.
 
@@ -159,7 +159,7 @@ In book 21, Hera continues her interference with the battle as she tells Hephaes
 
 Minor stories
 
-Hera_Prometheus_Cdm_Paris_542.jpg, tondo of a 5th-century BCE cup from Vulci, Etruria]]
+, tondo of a 5th-century BCE cup from Vulci, Etruria]]
 
 Echo
 

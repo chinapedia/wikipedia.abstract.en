@@ -1,4 +1,4 @@
-Michael_Foskett_&_Nika_Vlasenko_2.JPG BALLROOM DANCE is a set of partner dances, which are enjoyed both socially and competitively around the world. Because of its performance and entertainment aspects, ballroom dance is also widely enjoyed on stage, film, and television.
+BALLROOM DANCE is a set of partner dances, which are enjoyed both socially and competitively around the world. Because of its performance and entertainment aspects, ballroom dance is also widely enjoyed on stage, film, and television.
 
 _Ballroom dance_ may refer, at its widest definition, to almost any type of partner dancing as recreation. However, with the emergence of dancesport in modern times, the term has become narrower in scope and traditionally refers to the five International Standard and five International Latin style dances (see dance categories below). The two styles, while differing in technique, rhythm and costumes, exemplify core elements of ballroom dancing such as control and cohesiveness. Developed in England,[1] the two styles are now regulated by the World Dance Council (WDC) and the World DanceSport Federation (WDSF). In the United States, two additional variations are popular: _American Smooth_ and _American Rhythm_, which combine elements of the Standard and Latin styles with influences from other dance traditions.
 
@@ -7,7 +7,7 @@ There are also a number of historical dances, and local or national dances, whic
 
 Definitions and history
 
-Galliard.jpg, Italy, 15th century]] The term 'ballroom dancing' is derived from the word _ball_ which in turn originates from the Latin word _ballare_ which means 'to dance' (a ball-room being a large room specially designed for such dances). In times past, ballroom dancing was social dancing for the privileged, leaving folk dancing for the lower classes. These boundaries have since become blurred. The definition of ballroom dance also depends on the era: balls have featured popular dances of the day such as the Minuet, Quadrille, Polonaise, Polka, Mazurka, and others, which are now considered to be historical dances.
+, Italy, 15th century]] The term 'ballroom dancing' is derived from the word _ball_ which in turn originates from the Latin word _ballare_ which means 'to dance' (a ball-room being a large room specially designed for such dances). In times past, ballroom dancing was social dancing for the privileged, leaving folk dancing for the lower classes. These boundaries have since become blurred. The definition of ballroom dance also depends on the era: balls have featured popular dances of the day such as the Minuet, Quadrille, Polonaise, Polka, Mazurka, and others, which are now considered to be historical dances.
 
 Early modern period
 
@@ -19,7 +19,7 @@ Toward the later half of the 16th century, Louis XIV founded his 'Académie Roya
 
 19th century
 
-Vernon_and_Irene_Castle2.jpg, early ballroom dance pioneers, c. 1910–18]] The waltz with its modern hold took root in England in about 1812; in 1819 Carl Maria von Weber wrote _Invitation to the Dance_, which marked the adoption of the waltz form into the sphere of absolute music. The dance was initially met with tremendous opposition due to the semblance of impropriety associated with the closed hold, though the stance gradually softened.[5] In the 1840s several new dances made their appearance in the ballroom, including the polka, mazurka, and the Schottische. In the meantime a strong tendency emerged to drop all 'decorative' steps such as _entrechats_ and _ronds de jambes_ that had found a place in the Quadrilles and other dances.
+, early ballroom dance pioneers, c. 1910–18]] The waltz with its modern hold took root in England in about 1812; in 1819 Carl Maria von Weber wrote _Invitation to the Dance_, which marked the adoption of the waltz form into the sphere of absolute music. The dance was initially met with tremendous opposition due to the semblance of impropriety associated with the closed hold, though the stance gradually softened.[5] In the 1840s several new dances made their appearance in the ballroom, including the polka, mazurka, and the Schottische. In the meantime a strong tendency emerged to drop all 'decorative' steps such as _entrechats_ and _ronds de jambes_ that had found a place in the Quadrilles and other dances.
 
 Early 20th century
 
@@ -32,7 +32,7 @@ Later, in the 1930s, the on-screen dance pairing of Fred Astaire and Ginger Roge
 
 Competitive dancing
 
-Ballroom_dance_competition_cha_cha_3.jpg at a junior Latin dance competition in the Czech Republic]]
+at a junior Latin dance competition in the Czech Republic]]
 
 Competitions, sometimes referred to as dancesport, range from world championships, regulated by the World Dance Council (WDC), to less advanced dancers at various proficiency levels. Most competitions are divided into professional and amateur, though in the USA pro-am competitions typically accompany professional competitions.[10] The International Olympic Committee now recognizes competitive ballroom dance.[11] It has recognized another body, the World DanceSport Federation (WDSF), as the sole representative body for dancesport in the Olympic Games. However, it seems doubtful that dance will be included in the Olympic Games, especially in light of efforts to reduce the number of participating sports.
 
@@ -46,7 +46,7 @@ Formation dance is another style of competitive dance recognized by the WDSF. In
 
 Elements of competition
 
-MIT_2006_Latin_Intermediate.jpg ballroom dance competition. A judge stands in the foreground.]]
+ballroom dance competition. A judge stands in the foreground.]]
 
 In competitive ballroom, dancers are judged by diverse criteria such as poise, the hold or frame, posture, musicality and expression, timing, body alignment and shape, floor craft, foot and leg action, and presentation. Judging in a performance-oriented sport is inevitably subjective in nature, and controversy and complaints by competitors over judging placements are not uncommon. The scorekeepers—called scrutineers—will tally the total number recalls accumulated by each couple through each round until the finals when the Skating system is used to place each couple by ordinals, typically 1–6, though the number of couples in the final may vary. Sometimes, up to 8 couples may be present on the floor during the finals.
 
@@ -59,7 +59,7 @@ Medal evaluations for amateurs enable dancers' individual abilities to be recogn
 
 Collegiate ballroom
 
-Colligate_ballroom.jpg There is a part of the ballroom world dedicated to college students. These chapters are typically clubs or teams that have an interest in ballroom dancing. Teams hold fundraisers, social events, and ballroom dance lessons. Ballroom dance teams' goals are to have fun and learn to dance well. There is a strong focus on finding a compatible dance partner and bonding with teammates. There is also a competitive side to collegiate ballroom - collegiate teams often hold competitions and invite other teams to participate.[15] These competitions are often run with many of the same rules are regular amateur competitions as outlined above, but are usually organized entirely by collegiate teams. Examples include the MIT Open Ballroom Dance Competition, Purdue Ballroom Classic, Cardinal Classic, Berkeley Classic, and Harvard Invitational.
+There is a part of the ballroom world dedicated to college students. These chapters are typically clubs or teams that have an interest in ballroom dancing. Teams hold fundraisers, social events, and ballroom dance lessons. Ballroom dance teams' goals are to have fun and learn to dance well. There is a strong focus on finding a compatible dance partner and bonding with teammates. There is also a competitive side to collegiate ballroom - collegiate teams often hold competitions and invite other teams to participate.[15] These competitions are often run with many of the same rules are regular amateur competitions as outlined above, but are usually organized entirely by collegiate teams. Examples include the MIT Open Ballroom Dance Competition, Purdue Ballroom Classic, Cardinal Classic, Berkeley Classic, and Harvard Invitational.
 
 
 Dances
@@ -79,7 +79,7 @@ Latin/Rhythm dances are commonly danced to contemporary Latin American music and
 
 Competitive dances
 
-Tango_ballroom_standard.png in 2006. The couple, dancing for the US, came third in the Professional World Championship 2009.]]
+in 2006. The couple, dancing for the US, came third in the Professional World Championship 2009.]]
 
 Standard/Smooth
 

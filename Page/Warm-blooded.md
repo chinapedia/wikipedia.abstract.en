@@ -1,4 +1,4 @@
-wiki_snake_eats_mouse.jpg WARM-BLOODED animal species can maintain a body temperature higher than their environment. In particular, homeothermic species maintain a stable body temperature by regulating metabolic processes. The only known living homeotherms are birds and mammals, though ichthyosaurs, plesiosaurs and non-avian dinosaurs are believed to have been homeotherms. Other species have various degrees of thermoregulation.
+WARM-BLOODED animal species can maintain a body temperature higher than their environment. In particular, homeothermic species maintain a stable body temperature by regulating metabolic processes. The only known living homeotherms are birds and mammals, though ichthyosaurs, plesiosaurs and non-avian dinosaurs are believed to have been homeotherms. Other species have various degrees of thermoregulation.
 
 Animal body temperature control varies by species, so the terms "warm-blooded" and "cold-blooded" (though still in everyday use) suggest a false idea of there being only two categories of body temperature control, and are no longer used scientifically.
 

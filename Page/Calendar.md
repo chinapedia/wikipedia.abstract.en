@@ -1,4 +1,4 @@
-Calendar_(part_of_a_set)_MET_DP-13486-011.jpg, height: 20.3 cm, Metropolitan Museum of Art (New York City)]] A CALENDAR is a system of organizing days for social, religious, commercial or administrative purposes. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system. A calendar is also a physical record (often paper) of such a system. A calendar can also mean a list of planned events, such as a court calendar or a partly or fully chronological list of documents, such as a calendar of wills.
+, height: 20.3 cm, Metropolitan Museum of Art (New York City)]] A CALENDAR is a system of organizing days for social, religious, commercial or administrative purposes. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system. A calendar is also a physical record (often paper) of such a system. A calendar can also mean a list of planned events, such as a court calendar or a partly or fully chronological list of documents, such as a calendar of wills.
 
 Periods in a calendar (such as years and months) are usually, though not necessarily, synchronised with the cycle of the sun or the moon. The most common type of pre-modern calendar was the lunisolar calendar, a lunar calendar that occasionally adds one intercalary month to remain synchronised with the solar year over the long term.
 
@@ -7,7 +7,7 @@ The term _calendar_ is taken from _calendae_, the term for the first day of the 
 
 History
 
-Equinozio_da_Pizzo_Vento,tramonto_fondachelli_fantina,_sicilia.JPG seen from the astronomic calendar of Pizzo Vento at Fondachelli Fantina, Sicily]]
+seen from the astronomic calendar of Pizzo Vento at Fondachelli Fantina, Sicily]]
 
 The course of the sun and the moon are the most salient natural, regularly recurring events useful for timekeeping, thus in pre-modern societies worldwide lunation and the year were most commonly used as time units. Nevertheless, the Roman calendar contained remnants of a very ancient pre-Etruscan 10-month solar year.[2] The first recorded physical calendars, dependent on the development of writing in the Ancient Near East, are the Bronze Age Egyptian and Sumerian calendars.[3]
 
@@ -46,7 +46,7 @@ Calendars with two levels of cycles:
 -   year, month, and day – most systems, including the Gregorian calendar (and its very similar predecessor, the Julian calendar), the Islamic calendar, the Solar Hijri calendar and the Hebrew calendar
 -   year, week, and weekday – e.g., the ISO week date
 
-Cycles can be synchronized with periodic phenomena: Sun_and_Moon_Nuremberg_chronicle.jpg and Moon, Schedel's Nuremberg Chronicle, 1493]]
+Cycles can be synchronized with periodic phenomena: and Moon, Schedel's Nuremberg Chronicle, 1493]]
 
 -   Lunar calendars are synchronized to the motion of the Moon (lunar phases); an example is the Islamic calendar.
 -   Solar calendars are based on perceived seasonal changes synchronized to the apparent motion of the Sun; an example is the Persian calendar.
@@ -83,7 +83,7 @@ Other calendar types
 
 Arithmetic and astronomical calendars
 
-JudischerKalender-1831_ubt.jpeg, 5591 (1831)]]
+, 5591 (1831)]]
 
 An _astronomical calendar_ is based on ongoing observation; examples are the religious Islamic calendar and the old religious Jewish calendar in the time of the Second Temple. Such a calendar is also referred to as an _observation-based_ calendar. The advantage of such a calendar is that it is perfectly and perpetually accurate. The disadvantage is that working out when a particular date would occur is difficult.
 
@@ -114,7 +114,7 @@ The calendar epoch used by the Gregorian calendar is inherited from the medieval
 
 Religious calendars
 
-Hindu_calendar_1871-72.jpg (_pancanga_) for the year 1871/2 from Rajasthan (Library of Congress, Asian Division)]] The most important use of pre-modern calendars is keeping track of the liturgical year and the observation of religious feast days.
+(_pancanga_) for the year 1871/2 from Rajasthan (Library of Congress, Asian Division)]] The most important use of pre-modern calendars is keeping track of the liturgical year and the observation of religious feast days.
 
 While the Gregorian calendar is itself historically motivated in relation to the calculation of the Easter date, it is now in worldwide secular use as the _de facto_ standard. Alongside the use of the Gregorian calendar for secular matters, there remain a number of calendars in use for religious purposes.
 
@@ -140,7 +140,7 @@ The Iranian (Persian) calendar is used in Iran and some parts of Afghanistan. Th
 
 Fiscal calendars
 
-Pieter_Brueghel_the_Younger_(or_workshop)_The_Payment_of_the_Tithes_Bonhams.jpg or workshop]]
+or workshop]]
 
 A fiscal calendar generally means the accounting year of a government or a business. It is used for budgeting, keeping accounts and taxation. It is a set of 12 months that may start at any date in a year. The US government's fiscal year starts on 1 October and ends on 30 September. The government of India's fiscal year starts on 1 April and ends on 31 March. Small traditional businesses in India start the fiscal year on Diwali festival and end the day before the next year's Diwali festival.
 
@@ -148,8 +148,6 @@ In accounting (and particularly accounting software), a fiscal calendar (such as
 
 
 Formats
-
-Petaluma_and_Santa_Rosa_Railroad_Co._Calendar.jpg
 
 The term _calendar_ applies not only to a given scheme of timekeeping but also to a specific record or device displaying such a scheme, for example an appointment book in the form of a pocket calendar (or personal organizer), desktop calendar, a wall calendar, etc.
 

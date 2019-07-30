@@ -1,4 +1,4 @@
-Ham_(4).jpg Schinken-gekocht.jpg HAM is pork from a leg cut that has been preserved by wet or dry curing, with or without smoking.[1] As a processed meat, the term "ham" includes both whole cuts of meat and ones that have been mechanically formed.
+HAM is pork from a leg cut that has been preserved by wet or dry curing, with or without smoking.[1] As a processed meat, the term "ham" includes both whole cuts of meat and ones that have been mechanically formed.
 
 Ham is made around the world, including a number of regional specialties, such as Westphalian ham and some varieties of Spanish _jamón_. In addition, numerous ham products have specific geographical naming protection, such as Prosciutto di Parma and Prosciutto Toscano in Europe, and Smithfield ham in the US.
 
@@ -20,7 +20,7 @@ Ham is produced by curing raw pork by salting, also known as dry curing, or brin
 
 Dry-cured
 
-ProsciuttoSeaSalt.JPG Traditional dry cure hams may use only salt as the curative agent, such as with San Daniele or Parma hams, although this is comparatively rare.[8] This process involves cleaning the raw meat, covering it in salt while it is gradually pressed draining all the blood. Specific herbs and spices may be used to add flavour during this step. The hams are then washed and hung in a dark, temperature-regulated place until dry. It is then hung to air for another period of time.
+Traditional dry cure hams may use only salt as the curative agent, such as with San Daniele or Parma hams, although this is comparatively rare.[8] This process involves cleaning the raw meat, covering it in salt while it is gradually pressed draining all the blood. Specific herbs and spices may be used to add flavour during this step. The hams are then washed and hung in a dark, temperature-regulated place until dry. It is then hung to air for another period of time.
 
 The duration of the curing process varies by the type of ham, with, for example, Serrano ham curing in 9–12 months, Parma hams taking more than 12 months, and Iberian ham taking up to 2 years to reach the desired flavour characteristics.[9] Some dry cured hams, such as the Jinhua ham, take approximately 8 to 10 months to complete.[10]
 
@@ -52,7 +52,7 @@ Whole fresh pork leg can be labeled as _fresh ham_ in the United States.
 
 Protected designations
 
-Making_Jambon_de_Bayonne--Step_4.jpg, Béarn, Pyrénées-Atlantiques]] A number of hams worldwide have some level of protection of their unique characteristics, usually relating to their method of preservation or location of production or processing. Dependent on jurisdiction, rules may prevent any other product being sold with the particular appellation, such as through the European protected geographical indication. {{-}}
+, Béarn, Pyrénées-Atlantiques]] A number of hams worldwide have some level of protection of their unique characteristics, usually relating to their method of preservation or location of production or processing. Dependent on jurisdiction, rules may prevent any other product being sold with the particular appellation, such as through the European protected geographical indication. {{-}}
 
 Belgium
 
@@ -135,7 +135,7 @@ United States
 
 Uses
 
-850_food.JPG Ham is typically used in its sliced form, often as a filling for sandwiches and similar foods, such as in the ham sandwich and ham and cheese sandwich. Other variations include toasted sandwiches such as the croque-monsieur and the Cubano. It is also a popular topping for pizza in the United States.
+Ham is typically used in its sliced form, often as a filling for sandwiches and similar foods, such as in the ham sandwich and ham and cheese sandwich. Other variations include toasted sandwiches such as the croque-monsieur and the Cubano. It is also a popular topping for pizza in the United States.
 
 In the United Kingdom, a pork leg cut, either whole or sliced, that has been cured but requires additional cooking is known as gammon. Gammons were traditional cured before being cut from a side of pork along with bacon. When cooked, gammon is ham. Such roasts are a traditional part of British Christmas dinners.
 

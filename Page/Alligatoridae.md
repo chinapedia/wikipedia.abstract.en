@@ -3,7 +3,7 @@ The family ALLIGATORIDAE of crocodylians includes alligators and caimans.
 
 Phylogeny
 
-Alligator_prenasalis.JPG'' fossil]] The superfamily Alligatoroidea includes all crocodilians (fossil and extant) that are more closely related to the American alligator than to either the Nile crocodile or the gharial.[1]
+'' fossil]] The superfamily Alligatoroidea includes all crocodilians (fossil and extant) that are more closely related to the American alligator than to either the Nile crocodile or the gharial.[1]
 
 Members of this superfamily first arose in the late Cretaceous. _Leidyosuchus_ of Alberta is the earliest known genus. Fossil alligatoroids have been found throughout Eurasia as land bridges across both the North Atlantic and the Bering Strait have connected North America to Eurasia during the Cretaceous, Paleogene, and Neogene periods. Alligators and caimans split in North America during the late Cretaceous and the latter reached South America by the Paleogene, before the closure of the Isthmus of Panama during the Neogene period. The Chinese alligator likely descended from a lineage that crossed the Bering land bridge during the Neogene. The modern American alligator is well represented in the fossil record of the Pleistocene.[2] The alligator's full mitochondrial genome was sequenced in the 1990s and it suggests the animal evolved at a rate similar to mammals and greater than birds and most cold-blooded vertebrates.[3] The full genome, published in 2014, suggests that the alligator evolved much more slowly than mammals and birds.[4]
 
@@ -29,7 +29,7 @@ Alligators differ from crocodiles principally in having wider and shorter heads,
 
 Taxonomy
 
-Crocnest.JPG, Florida, United States]] Alligator_olseni.jpg Alligator_prenasalis.JPG
+, Florida, United States]]
 
 -   SUPERFAMILY ALLIGATOROIDEA
     -   FAMILY ALLIGATORIDAE

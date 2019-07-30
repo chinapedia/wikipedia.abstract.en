@@ -18,7 +18,7 @@ Midway through his undergraduate years at Oregon State University, near the end 
 
 Career and accomplishments
 
-SRI_Computer_Mouse.jpg, as designed by Bill English from Engelbart's sketches.[10]]]
+, as designed by Bill English from Engelbart's sketches.[10]]]
 
 Guiding philosophy
 
@@ -39,7 +39,7 @@ Engelbart took a position at SRI International (known then as Stanford Research 
 
 This led to funding from DARPA to launch his work. Engelbart recruited a research team in his new Augmentation Research Center (ARC, the lab he founded at SRI). Engelbart embedded a set of organizing principles in his lab, which he termed "bootstrapping strategy". He designed the strategy to accelerate the rate of innovation of his lab.[22][23][24][25]
 
-The ARC became the driving force behind the design and development of the oN-Line System (NLS). He and his team developed computer interface elements such as bitmapped screens, the mouse, hypertext, collaborative tools, and precursors to the graphical user interface.[26] He conceived and developed many of his user interface ideas in the mid-1960s, long before the personal computer revolution, at a time when most computers were inaccessible to individuals who could only use computers through intermediaries (see batch processing), and when software tended to be written for vertical applications in proprietary systems. Apple_Macintosh_Plus_mouse.jpg mice, 1986]]
+The ARC became the driving force behind the design and development of the oN-Line System (NLS). He and his team developed computer interface elements such as bitmapped screens, the mouse, hypertext, collaborative tools, and precursors to the graphical user interface.[26] He conceived and developed many of his user interface ideas in the mid-1960s, long before the personal computer revolution, at a time when most computers were inaccessible to individuals who could only use computers through intermediaries (see batch processing), and when software tended to be written for vertical applications in proprietary systems. mice, 1986]]
 
 Engelbart applied for a patent in 1967 and received it in 1970, for the wooden shell with two metal wheels (computer mouse – ), which he had developed with Bill English, his lead engineer, sometime before 1965.[27][28] In the patent application it is described as an "X-Y position indicator for a display system". Engelbart later revealed that it was nicknamed the "mouse" because the tail came out the end. His group also called the on-screen cursor a "bug", but this term was not widely adopted.[29]
 

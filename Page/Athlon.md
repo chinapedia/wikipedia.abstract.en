@@ -20,8 +20,6 @@ The Athlon architecture also used the EV6 bus licensed from DEC as its main syst
 
 General architecture
 
-Athlon_arch.png
-
 Internally, the Athlon is a fully seventh generation x86 processor, the first of its kind. Like the AMD K5 and K6, the Athlon dynamically buffers internal micro-instructions at runtime resulting from parallel x86 instruction decoding. The CPU is an out-of-order design, again like previous post-5x86 AMD CPUs. The Athlon utilizes the Alpha 21264's EV6 bus architecture with double data rate (DDR) technology. This means that at 100 MHz, the Athlon front side bus actually transfers at a rate similar to a 200 MHz single data rate bus (referred to as 200 MT/s), which was superior to the method used on Intel's Pentium III (with SDR bus speeds of 100 MHz and 133 MHz).
 
 AMD designed the CPU with more robust x86 instruction decoding capabilities than that of K6, to enhance its ability to keep more data in-flight at once. The Athlon's three decoders could potentially decode three x86 instructions to six microinstructions per clock, although this was somewhat unlikely in real-world use.[4] The critical branch predictor unit, essential to keeping the pipeline busy, was enhanced compared to what was on board the K6. Deeper pipelining with more stages allowed higher clock speeds to be attained.[5] Whereas the AMD K6-III+ topped out at 570 MHz due to its short pipeline, even when built on the 180 nm process, the Athlon was capable of clocking much higher.
@@ -33,8 +31,6 @@ The 3DNow! floating point SIMD technology, again present, received some revision
 The Athlon's CPU cache consisted of the typical two levels. Athlon was the first x86 processor with a 128 kB[10] split level 1 cache; a 2-way associative cache separated into 2×64 kB for data and instructions (a concept from Harvard architecture).[11] This cache was double the size of K6's already large 2×32 kB cache, and quadruple the size of Pentium II and III's 2×16 kB L1 cache. The initial Athlon (Slot A, later called Athlon Classic) used 512 kB of level 2 cache separate from the CPU, on the processor cartridge board, running at 50% to 33% of core speed. This was done because the 250 nm manufacturing process was too large to allow for on-die cache while maintaining cost-effective die size. Later Athlon CPUs, afforded greater transistor budgets by smaller 180 nm and 130 nm process nodes, moved to on-die L2 cache at full CPU clock speed.
 
 Athlon "Classic"
-
-Argonathlon.jpg Amd_athlon_classic.jpg Slot-A_Athlon.jpg
 
 The AMD Athlon processor launched on June 23, 1999, with general availability by August '99.[12] It launched at 500 MHz and was, on average, 10% faster than the Pentium III at the same clock for Business applications, and even faster (~20%) for gaming workloads.[13]
 
@@ -61,8 +57,6 @@ Specifications
 
 Thunderbird (T-Bird)
 
-KL_AMD_Athlon_XP_Thunderbird.jpg Athlon_Tbird_900_slot_A.jpg AMD_Athlon_Pencil_Trick.jpg
-
 The second generation Athlon, the _Thunderbird_, debuted on June 5, 2000. This version of the Athlon shipped in a more traditional pin-grid array (PGA) format that plugged into a socket ("Socket A") on the motherboard (it also shipped in the slot A package). It was sold at speeds ranging from 600 MHz to 1.4 GHz (Athlon Classics using the Slot A package could clock up to 1 GHz). The major difference, however, was cache design. Just as Intel had done when they replaced the old Katmai-based Pentium III with the much faster Coppermine-based Pentium III, AMD replaced the 512 kB external reduced-speed cache of the Athlon Classic with 256 kB of on-chip, full-speed exclusive cache. As a general rule, more cache improves performance, but faster cache improves it further still.[19]
 
 AMD changed cache design significantly with the Thunderbird core. With the older Athlon CPUs, the CPU caching was of an inclusive design where data from the L1 is duplicated in the L2 cache. Thunderbird moved to an exclusive design where the L1 cache's contents are not duplicated in the L2. This increases total cache size of the processor and effectively makes caching behave as if there is a very large L1 cache with a slower region (the L2) and a very fast region (the L1).[20] Because of Athlon's very large L1 cache and the exclusive design, which turns the L2 cache into basically a "victim cache", the need for high L2 performance and size was lessened. AMD kept the 64-bit L2 cache data bus from the older Athlons, as a result, and allowed it to have a relatively high latency. A simpler L2 cache reduced the possibility of the L2 cache causing clock scaling and yield issues. Still, instead of the 2-way associative scheme used in older Athlons, Thunderbird did move to a more efficient 16-way associative layout.[21]
@@ -88,11 +82,7 @@ Specifications
 
 Athlon XP/MP
 
-AMD_Athlon_XP_Logo.jpg
-
 Palomino
-
-KL_AMD_Athlon_XP_Palomino.jpg
 
 AMD released the third-generation Athlon, code-named "Palomino", on October 9, 2001 as the _Athlon XP_. The "XP" suffix is interpreted to mean _extended performance_ and also as an unofficial reference to Microsoft Windows XP.[22] The _Athlon XP_ was marketed using a PR system, which compared its relative performance to an Athlon utilizing the earlier "Thunderbird" core. _Athlon XP_ launched at speeds between 1.33 GHz (PR1500+) and 1.53 GHz (PR1800+), giving AMD the x86 performance lead with the 1800+ model. Less than a month later, it enhanced that lead with the release of the 1600 MHz 1900+,[23] and subsequent 1.67 GHz Athlon XP 2000+ in January 2002.
 
@@ -118,8 +108,6 @@ Specifications
     -   Athlon MP: 1000–1733 MHz
 
 Thoroughbred (T-Bred)
-
-KL_AMD_Athlon_XP_Thoroughbred.jpg
 
 The fourth-generation Athlon _Thoroughbred_ was released on June 10, 2002 at 1.8 GHz (Athlon XP PR2200+). The "Thoroughbred" core marked AMD's first production 130 nm silicon, resulting in a significant reduction in die size compared to its 180 nm predecessor.
 
@@ -147,8 +135,6 @@ Specifications
     -   166 MHz FSB: 2083–2250 MHz (2600+ to 2800+)
 
 Barton and Thorton
-
-KL_AMD_Athlon_XP_Barton.jpg
 
 Fifth-generation Athlon _Barton_-core processors released in early 2003 with PR of 2500+, 2600+, 2800+, 3000+, and 3200+. While not operating at higher clock rates than _Thoroughbred_-core processors, they were marked with higher PR by featuring an increased 512 kB L2 cache; later models additionally supported an increased 200 MHz (400 MT/s) front side bus.[32] The _Thorton_ core was a later variant of the _Barton_ with half of the L2 cache disabled, and thus was functionally identical to the _Thoroughbred-B_ core. The name _Thorton_ is a portmanteau of _Thoroughbred_ and _Barton_.
 
@@ -188,8 +174,6 @@ _Thorton (130 nm)_
     -   200 MHz FSB: 2200 MHz (3100+)
 
 Mobile Athlon XP
-
-Athlon_XPM_2400l.jpg
 
 A Mobile Athlon XPs (_Athlon XP-M_) using a given core is physically identical to the equivalent desktop Athlon XPs counterpart, only differing by the configuration used to achieve a given performance level. Processors are usually binned and selected to become a mobile processor by their ability run a given processor speed while supplied with a lower (than desktop) voltage. This results in lower power consumption, longer battery life, and reduced heat over using a normal desktop part. Additionally Mobile XPs feature not being multiplier-locked and generally higher-rated maximum operating temperatures, requirements intended for better operation within the tight thermal constraints within a notebook PC—but also making them attractive for overclocking.
 

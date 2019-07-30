@@ -5,7 +5,7 @@ Economists
 
 A
 
-Edith_abbott.jpg]] ThomasAttwood.jpg]] Sir_Willim_Ashley.jpg]] Dr._Bhimrao_Ambedkar.jpg]] George_Akerlof.jpg]] Kenneth_Arrow,_Stanford_University.jpg]] ALLAIS_PN_Maurice-24x30-2001b.jpg]] Aumann-1080b.jpg]]
+]] ]] ]] ]] ]] ]] ]] ]]
 
 -   Edith Abbott (1876–1957), American economist, social worker, educator, and author
 -   Daron Acemoglu (b. 1967), Turkish-born American economist, Professor at Massachusetts Institute of Technology and winner of the 2005 John Bates Clark Medal
@@ -57,7 +57,7 @@ Edith_abbott.jpg]] ThomasAttwood.jpg]] Sir_Willim_Ashley.jpg]] Dr._Bhimrao_Ambed
 
 B
 
-Jean_Bodin.jpg]] Bastiat.jpg]] 1Bawerk.png]] GaryBecker-May24-2008.jpg]] Fischer_Black.JPG]] James_Buchanan_by_Atlas_network.jpg]] Ben_Bernanke_official_portrait.jpg]] Walter_block-teaching.jpg]] Fdb4_2010.jpg]] Oliver_Blanchard,_IMF_98BlanchardWEO1_lg.jpg]] Willem_Buiter_1984.jpg]] Ali_Babacan_-_World_Economic_Forum_Annual_Meeting_2012_crop.jpg]]
+]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]] ]]
 
 -   Ali Babacan (1967–), Turkish economic minister
 -   Roger Babson (1875–1967), American business theorist
@@ -152,9 +152,9 @@ Jean_Bodin.jpg]] Bastiat.jpg]] 1Bawerk.png]] GaryBecker-May24-2008.jpg]] Fischer
 
 C
 
-Thomas_Chalmers_-_Project_Gutenberg_13103.jpg]] Henrycharlescarey.jpg]] John_Bates_Clark.jpg]] Cassel.gif]] JohnCommons.jpg]]
+]] ]] ]] ]] ]]
 
-Attilio_Celant_01.JPG]] Agustin_Carstens.jpg]] Ha-Joon_Chang_profile.jpg]]
+]] ]] ]]
 
 -   Ricardo J. Caballero (b. 1959), Chilean macroeconomist, holds the Ford International chair of economics at MIT
 -   Vince Cable (b. 1943), British economist
@@ -229,7 +229,7 @@ Attilio_Celant_01.JPG]] Agustin_Carstens.jpg]] Ha-Joon_Chang_profile.jpg]]
 
 D
 
-Debreu,_Gérard_(1921-2004).jpeg]] Demsetzatgmu.jpg]] Partha_Dasgupta_-_Trento_2013_02.JPG]] Professor_Huw_Dixon.jpg]] Avinash_Dixit.JPG]] Brad_DeLong_201010.jpg]]
+]] ]] ]] ]] ]] ]]
 
 -   Uri Dadush
 -   Hugh Dalton
@@ -268,7 +268,7 @@ Debreu,_Gérard_(1921-2004).jpeg]] Demsetzatgmu.jpg]] Partha_Dasgupta_-_Trento_2
 
 E
 
-Engels.jpg]] Robert_F._Engle.jpg]] thumb]]
+]] ]] thumb]]
 
 -   Francis Ysidro Edgeworth
 -   Sebastian Edwards
@@ -288,7 +288,7 @@ Engels.jpg]] Robert_F._Engle.jpg]] thumb]]
 
 F
 
-WilliamFleetwood.jpg]] Irvingfisher.jpg]] Portrait_of_Milton_Friedman.jpg]] Jason_Furman_2011.jpg]] Robert_William_Fogel.jpg]]
+]] ]] ]] ]] ]]
 
 -   Marc Faber
 -   Armin Falk
@@ -337,9 +337,9 @@ WilliamFleetwood.jpg]] Irvingfisher.jpg]] Portrait_of_Milton_Friedman.jpg]] Jaso
 
 G
 
-Gide,_Charles.jpg]] Henry_George.jpg]] John_Kenneth_Galbraith.jpg]]
+]] ]] ]]
 
-Edward_L._Glaeser_at_FT_Goldman_Sachs_Business_Book_of_the_Year_Award_2011.jpg]] Ian_Goldin_World_Economic_Forum_2013.jpg]]
+]] ]]
 
 -   Xavier Gabaix
 -   Yegor Gaidar
@@ -403,7 +403,7 @@ Edward_L._Glaeser_at_FT_Goldman_Sachs_Business_Book_of_the_Year_Award_2011.jpg]]
 
 H
 
-Painting_of_David_Hume.jpg]] Friedrich_Hayek_portrait.jpg]] Eli_Heckscher.jpg]] Trygve_Haavelmo.jpg]] James_Heckman.jpg]] Glenn_Hubbard_portrait.jpg]] 2018-04-28_1403_Tom_Humphrey_January_25_2014_at_RRRC_Banquet.png]]
+]] ]] ]] ]] ]] ]] ]]
 
 -   Trygve Haavelmo
 -   Gottfried Haberler
@@ -476,7 +476,7 @@ I
 
 J
 
-Picture_of_jevons.jpg]]
+]]
 
 -   Matthew O. Jackson
 -   Tim Jackson
@@ -499,7 +499,7 @@ Picture_of_jevons.jpg]]
 
 K
 
-Ibn_Khaldoun-Kassus.jpg]] Keynes_1933.jpg]] Nicholas_Kaldor.jpg]] Daniel_KAHNEMAN.jpg]] Kydland.jpg]] Anne_O._Krueger_(2004).jpg]]
+]] ]] ]] ]] ]] ]]
 
 -   Daniel Kahneman
 -   Ehud Kalai
@@ -565,7 +565,7 @@ Ibn_Khaldoun-Kassus.jpg]] Keynes_1933.jpg]] Nicholas_Kaldor.jpg]] Daniel_KAHNEMA
 
 L
 
-John_Law-Casimir_Balthazar_mg_8450.jpg]] Lyndon_LaRouche.jpg]] Abba_Lerner.jpg]] Oskar_Lange_20-65.jpg]] Rosa_Luxemburg.jpg]] JohnLott.jpg]]
+]] ]] ]] ]] ]] ]]
 
 -   Ludwig Lachmann
 -   Arthur Laffer
@@ -627,7 +627,7 @@ John_Law-Casimir_Balthazar_mg_8450.jpg]] Lyndon_LaRouche.jpg]] Abba_Lerner.jpg]]
 
 M
 
-Thomas_Malthus.jpg]] PSM_V03_D380_John_Stuart_Mill.jpg]] Alfred_Marshall.jpg]] Karl_Marx.jpg]] Ludwig_von_Mises.jpg]] Gunnar_Myrdal_-_Sveriges_styresmän.jpg]] Myerson_roger_b_print.jpg]] Dale_Mortensen_2.jpg]] Xavier_Sala-i-Martin.jpg]] Dambisa_Moyo_2013_BlackRock.jpg]]
+]] ]] ]] ]] ]] ]] ]] ]] ]] ]]
 
 -   Gloria Macapagal-Arroyo
 -   Donald MacDougall
@@ -730,7 +730,7 @@ Thomas_Malthus.jpg]] PSM_V03_D380_John_Stuart_Mill.jpg]] Alfred_Marshall.jpg]] K
 
 N
 
-Dudley_North.jpg]] John_Forbes_Nash,_Jr._by_Peter_Badge.jpg]]
+]] ]]
 
 -   John Forbes Nash
 -   Richard Nelson
@@ -751,7 +751,7 @@ Dudley_North.jpg]] John_Forbes_Nash,_Jr._by_Peter_Badge.jpg]]
 
 O
 
-Portrait_of_Robert_Owen.png]] Bertil_Ohlin.jpg]] Nobel_Prize_2009-Press_Conference_KVA-30.jpg]]
+]] ]] ]]
 
 -   William Oakland
 -   Maurice Obstfeld
@@ -772,7 +772,7 @@ Portrait_of_Robert_Owen.png]] Bertil_Ohlin.jpg]] Nobel_Prize_2009-Press_Conferen
 
 P
 
-V_R_Panchamukhi.jpg]] Perez-Capdevila.jpg]] Vilfredo_Pareto_1870s2.jpg]] A.C._Pigou.jpg]] Piketty_in_Cambridge_3_crop.jpg]] Edward_C._Prescott.jpg]] Christina_paxson.jpg]]
+]] ]] ]] ]] ]] ]] ]]
 
 -   Krishna Palepu
 -   Giancarlo Pallavicini
@@ -834,7 +834,7 @@ V_R_Panchamukhi.jpg]] Perez-Capdevila.jpg]] Vilfredo_Pareto_1870s2.jpg]] A.C._Pi
 
 Q
 
-François_Quesnay.jpg]]
+]]
 
 -   Guy Quaden
 -   Danny Quah
@@ -843,7 +843,7 @@ François_Quesnay.jpg]]
 
 R
 
-Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg]] Joan_Robinson_Ramsey_Muspratt.jpg]] MurrayBW.jpg]] Christina_Romer_official_portrait_small.jpg]] Matthew_Rabin_2008.jpg]]
+]] ]] ]] ]] ]]
 
 -   Matthew Rabin
 -   Roy Radner
@@ -905,9 +905,9 @@ Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg]] Joan_Robinson_Ramsey_Muspratt
 
 S
 
-Jean-baptiste_Say.jpg]] Nobel_Prize_2011-Press_Conference_KVA-DSC_7770.jpg]] AdamSmith.jpg]] Joseph_Schumpeter_ekonomialaria.jpg]] Anna_Schwartz_by_David_Shankbone.jpg]]
+]] ]] ]] ]] ]]
 
-Paul_Samuelson.jpg]] Robert_Solow_by_Olaf_Storbeck.jpg]] Joseph_E._Stiglitz_-_cropped.jpg]] A_Michael_Spence.jpg]] MarkSkousen.jpg]] Hans_Werner_Sinn.png]] Robert_Shiller_-_World_Economic_Forum_Annual_Meeting_2012.jpg]] Lawrence_Summers_2012.jpg]] Dr._D._Shina_-.JPG]]
+]] ]] ]] ]] ]] ]] ]] ]] ]]
 
 -   Fabrizio Saccomanni
 -   Alexander Sachs
@@ -1039,7 +1039,7 @@ Paul_Samuelson.jpg]] Robert_Solow_by_Olaf_Storbeck.jpg]] Joseph_E._Stiglitz_-_cr
 
 T
 
-Anne_Robert_Jacques_Turgot.jpg]] Frank_William_Taussig_by_Pach_Brothers.jpg]] Jan_Tinbergen_1982.jpg]] Gordon_tullock.jpg]]
+]] ]] ]] ]]
 
 -   Alex Tabarrok
 -   Guido Tabellini
@@ -1090,7 +1090,7 @@ U
 
 V
 
-Veblen3a.jpg]] Paulvolcker.jpg]]
+]] ]]
 
 -   Natacha Valla
 -   Alexander Van der Bellen
@@ -1114,7 +1114,7 @@ Veblen3a.jpg]] Paulvolcker.jpg]]
 
 W
 
-Lwalras.jpg]] Max_Weber_1894.jpg]] Wicksell.jpg]] Marilyn_Waring.jpg]] MartinWolf2011ByDaphneBorowski.png]]
+]] ]] ]] ]] ]]
 
 -   Romain Wacziarg
 -   Sushil Wadhwani
@@ -1171,13 +1171,13 @@ Lwalras.jpg]] Max_Weber_1894.jpg]] Wicksell.jpg]] Marilyn_Waring.jpg]] MartinWol
 
 X
 
-xenophon.jpg]]
+]]
 
 -   Xenophon (c. 430–354 BCE), Ancient Greek, author of _Oeconomicus_
 
 Y
 
-Janet_yellen.jpg]] Muhammad_Yunus_-_World_Economic_Forum_Annual_Meeting_2012.jpg]]
+]] ]]
 
 -   Basil Yamey
 -   Janet Yellen

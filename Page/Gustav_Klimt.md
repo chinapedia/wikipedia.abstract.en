@@ -7,7 +7,7 @@ Life and work
 
 Early life
 
-Gustav_Klimt_in_1887.jpg Egon_Schiele_-_Gustav_Klimt_im_blauen_Malerkittel_-_1913.jpeg, 1913]]
+, 1913]]
 
 Gustav Klimt was born in Baumgarten, near Vienna in Austria-Hungary, the second of seven children—three boys and four girls. His mother, Anna Klimt (_née_ Finster), had an unrealized ambition to be a musical performer. His father, Ernst Klimt the Elder, formerly from Bohemia, was a gold engraver. All three of their sons displayed artistic talent early on. Klimt's younger brothers were Ernst Klimt and Georg Klimt.
 
@@ -19,7 +19,7 @@ During this period Klimt fathered at least fourteen children.[5]
 
 Vienna secession years
 
-Gustav_Klimt_014.jpg'', at Secession Building, Vienna (1902)]] Klimt became one of the founding members and president of the _Wiener Sezession_ (Vienna Secession) in 1897 and of the group's periodical, _Ver Sacrum_ ("Sacred Spring"). He remained with the Secession until 1908. The goals of the group were to provide exhibitions for unconventional young artists, to bring the works of the best foreign artists to Vienna, and to publish its own magazine to showcase the work of members. The group declared no manifesto and did not set out to encourage any particular style—Naturalists, Realists, and Symbolists all coexisted. The government supported their efforts and gave them a lease on public land to erect an exhibition hall. The group's symbol was Pallas Athena, the Greek goddess of just causes, wisdom, and the arts—of whom Klimt painted his radical version in 1898.[6] Gustav_Klimt,_Judith_II.jpg In 1894, Klimt was commissioned to create three paintings to decorate the ceiling of the Great Hall of the University of Vienna. Not completed until the turn of the century, his three paintings, _Philosophy_, _Medicine_, and _Jurisprudence_ were criticized for their radical themes and material, and were called "pornographic". Klimt had transformed traditional allegory and symbolism into a new language that was more overtly sexual and hence more disturbing to some. The public outcry came from all quarters—political, aesthetic and religious. As a result, the paintings _(seen in gallery below)_ were not displayed on the ceiling of the Great Hall. This would be the last public commission accepted by the artist.
+'', at Secession Building, Vienna (1902)]] Klimt became one of the founding members and president of the _Wiener Sezession_ (Vienna Secession) in 1897 and of the group's periodical, _Ver Sacrum_ ("Sacred Spring"). He remained with the Secession until 1908. The goals of the group were to provide exhibitions for unconventional young artists, to bring the works of the best foreign artists to Vienna, and to publish its own magazine to showcase the work of members. The group declared no manifesto and did not set out to encourage any particular style—Naturalists, Realists, and Symbolists all coexisted. The government supported their efforts and gave them a lease on public land to erect an exhibition hall. The group's symbol was Pallas Athena, the Greek goddess of just causes, wisdom, and the arts—of whom Klimt painted his radical version in 1898.[6] In 1894, Klimt was commissioned to create three paintings to decorate the ceiling of the Great Hall of the University of Vienna. Not completed until the turn of the century, his three paintings, _Philosophy_, _Medicine_, and _Jurisprudence_ were criticized for their radical themes and material, and were called "pornographic". Klimt had transformed traditional allegory and symbolism into a new language that was more overtly sexual and hence more disturbing to some. The public outcry came from all quarters—political, aesthetic and religious. As a result, the paintings _(seen in gallery below)_ were not displayed on the ceiling of the Great Hall. This would be the last public commission accepted by the artist.
 
 All three paintings were destroyed when retreating German forces burned Schloss Immendorf in May 1945.[7][8]
 
@@ -33,7 +33,7 @@ Klimt's Attersee paintings are of sufficient number and quality as to merit sepa
 
 Golden phase and critical success
 
-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg'' 1907–08, oil on canvas, Österreichische Galerie Belvedere, Vienna]]
+'' 1907–08, oil on canvas, Österreichische Galerie Belvedere, Vienna]]
 
 Klimt's 'Golden Phase' was marked by positive critical reaction and financial success. Many of his paintings from this period included gold leaf. Klimt had previously used gold in his _Pallas Athene_ (1898) and _Judith I_ (1901), although the works most popularly associated with this period are the _Portrait of Adele Bloch-Bauer I_ (1907) and _The Kiss_ (1907–08).
 
@@ -49,7 +49,7 @@ In 1901 Hermann Bahr wrote, in his _Speech on Klimt_: "Just as only a lover can 
 
 Later life and posthumous success
 
-Gustav_Klimt,_1907,_Adele_Bloch-Bauer_I,_Neue_Galerie_New_York.jpg'' (1907), which sold for a record $135 million in 2006, Neue Galerie, New York]]
+'' (1907), which sold for a record $135 million in 2006, Neue Galerie, New York]]
 
 In 1911 his painting _Death and Life_ received first prize in the world exhibitions in Rome. In 1915 Anna, his mother, died. Klimt died three years later in Vienna on February 6, 1918, having suffered a stroke and pneumonia due to the worldwide influenza epidemic of that year.[15][16][17] He was buried at the Hietzinger Cemetery in Hietzing, Vienna. Numerous paintings by him were left unfinished.
 
@@ -64,11 +64,11 @@ The city of Vienna, Austria had many special exhibitions commemorating the 150th
 
 Folios
 
-Gustav_Klimt,_1907,_Farm_Garden_with_Sunflowers,_Österreichische_Galerie_Belvedere.jpg[29]]]
+[29]]]
 
 Gustav Klimt: _Das Werk_
 
-Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg in Brussels.]] The only folio set produced in Klimt's lifetime, _Das Werk Gustav Klimts_, was published initially by H. O. Miethke (of Gallerie Miethke, Klimt's exclusive gallery in Vienna) from 1908 to 1914 in an edition of 300, supervised personally by the artist. The first thirty-five editions (I-XXXV) each included an original drawing by Klimt, and the next thirty-five editions (XXXVI-LXX) each with a facsimile signature on the title page.[30] Fifty images depicting Klimt's most important paintings (1893–1913) were reproduced using collotype lithography and mounted on a heavy, cream-colored wove paper with deckled edges. Thirty-one of the images (ten of which are multicolored) are printed on _Chine-collé_. The remaining nineteen are high quality halftones prints. Each piece was marked with a unique signet—designed by Klimt—which was impressed into the wove paper in gold metallic ink. The prints were issued in groups of ten to subscribers, in unbound black paper folders embossed with Klimt's name. Because of the delicate nature of collotype lithography, as well as the necessity for multicolored prints (a feat difficult to reproduce with collotypes), and Klimt's own desire for perfection, the series that was published in mid-1908 was not completed until 1914.
+in Brussels.]] The only folio set produced in Klimt's lifetime, _Das Werk Gustav Klimts_, was published initially by H. O. Miethke (of Gallerie Miethke, Klimt's exclusive gallery in Vienna) from 1908 to 1914 in an edition of 300, supervised personally by the artist. The first thirty-five editions (I-XXXV) each included an original drawing by Klimt, and the next thirty-five editions (XXXVI-LXX) each with a facsimile signature on the title page.[30] Fifty images depicting Klimt's most important paintings (1893–1913) were reproduced using collotype lithography and mounted on a heavy, cream-colored wove paper with deckled edges. Thirty-one of the images (ten of which are multicolored) are printed on _Chine-collé_. The remaining nineteen are high quality halftones prints. Each piece was marked with a unique signet—designed by Klimt—which was impressed into the wove paper in gold metallic ink. The prints were issued in groups of ten to subscribers, in unbound black paper folders embossed with Klimt's name. Because of the delicate nature of collotype lithography, as well as the necessity for multicolored prints (a feat difficult to reproduce with collotypes), and Klimt's own desire for perfection, the series that was published in mid-1908 was not completed until 1914.
 
 Each of the fifty prints was categorized among five themes:
 
@@ -108,8 +108,6 @@ GUGG Two Female Nudes Standing.jpg|_Two Female Nudes Standing_, c. 1900, Solomon
 
 
 Selected works
-
-Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg Klimt_-_Oberösterreichisches_Bauernhaus.jpeg Klimt_-_Bildnis_Sonja_Knips.jpeg
 
 -   Klimt University of Vienna Ceiling Paintings
 -   _Palais Stoclet_ mosaic in Brussels
@@ -204,7 +202,7 @@ Legacy
 
 Visual art
 
-Gustav_Klimt_-_Beech_Grove_I_-_Google_Art_Project.jpg According to the writer Frank Whitford: "Klimt of course, is an important artist—he's a very _popular_ artist—but in terms of the history of art, he's a very unimportant artist. Although he sums up so much in his work, about the society in which he found himself—in art historical terms his effect was negligible. So he's an artist really in a cul-de-sac."[38] Klimt's work had a strong influence on the paintings of Egon Schiele, with whom he would collaborate to found the _Kunsthalle_ (Hall of Art) in 1917, to try to keep local artists from going abroad. Artists who reinterpreted Klimt's work include Slovak artist Rudolf Fila.
+According to the writer Frank Whitford: "Klimt of course, is an important artist—he's a very _popular_ artist—but in terms of the history of art, he's a very unimportant artist. Although he sums up so much in his work, about the society in which he found himself—in art historical terms his effect was negligible. So he's an artist really in a cul-de-sac."[38] Klimt's work had a strong influence on the paintings of Egon Schiele, with whom he would collaborate to found the _Kunsthalle_ (Hall of Art) in 1917, to try to keep local artists from going abroad. Artists who reinterpreted Klimt's work include Slovak artist Rudolf Fila.
 
 Cultural influence
 

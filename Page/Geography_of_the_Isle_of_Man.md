@@ -3,7 +3,7 @@ The ISLE OF MAN is an island in the Irish Sea, between Great Britain and Ireland
 
 Dimensions
 
-Isle_of_Man_by_Sentinel-2.jpg AREA:
+AREA:
 
 _Land:_
 _Water:_ (100 ha)
@@ -32,7 +32,7 @@ Temperatures remain fairly cool, with the recorded maximum being at Ronaldsway.
 
 Terrain
 
-Isle_of_Man_Terrain_-_Snaefell_Mountain_View_-_kingsley_-_24-JUN-09.jpg, the island's highest peak.]] The island's terrain is varied. There are two mountainous areas divided by a central valley which runs between Douglas and Peel. The highest point in the Isle of Man, Snaefell, is in the northern area and reaches above sea level. The northern end of the island is a flat plain, consisting of glacial tills and marine sediments. To the south the island is more hilly, with distinct valleys. There is no land below sea level.
+, the island's highest peak.]] The island's terrain is varied. There are two mountainous areas divided by a central valley which runs between Douglas and Peel. The highest point in the Isle of Man, Snaefell, is in the northern area and reaches above sea level. The northern end of the island is a flat plain, consisting of glacial tills and marine sediments. To the south the island is more hilly, with distinct valleys. There is no land below sea level.
 
 
 Land use
@@ -57,8 +57,6 @@ UNESCO Biosphere Reserves
 -   The entire territory of the Isle of Man, including all land, sea, freshwater, airspace and seabed is a UNESCO Biosphere Reserve
 
 Ramsar sites
-
-Snaefell.jpg
 
 -   Ballaugh Curraghs (2006, ). Shares an identical boundary to the Ballaugh Curraghs ASSI.
 

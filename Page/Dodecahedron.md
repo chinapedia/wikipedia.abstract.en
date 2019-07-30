@@ -1,13 +1,10 @@
   I_(h), order 120
-  -----------------------------------
+  -------------------
   Regular-
-  Dodecahedron.png
   T_(h), order 24
   Pyritohedron
-  Pyritohedron.png
   D_(4h), order 16
   Rhombo-hexagonal-
-  Rhombo-hexagonal_dodecahedron.png
 
   : Common dodecahedra
 
@@ -22,10 +19,9 @@ The convex regular dodecahedron is one of the five regular Platonic solids and c
 
 The dual polyhedron is the regular icosahedron {3, 5}, having five equilateral triangles around each vertex.
 
-+-----------------------------+----------------------------------+------------------------+----------------------------------+
-| Dodecahedron.png            | Small_stellated_dodecahedron.png | Great_dodecahedron.png | Great_stellated_dodecahedron.png |
-| Convex regular dodecahedron | Small stellated dodecahedron     | Great dodecahedron     | Great stellated dodecahedron     |
-+-----------------------------+----------------------------------+------------------------+----------------------------------+
++-----------------------------+------------------------------+--------------------+------------------------------+
+| Convex regular dodecahedron | Small stellated dodecahedron | Great dodecahedron | Great stellated dodecahedron |
++-----------------------------+------------------------------+--------------------+------------------------------+
 
 : Four kinds of regular dodecahedra
 
@@ -41,7 +37,6 @@ Pyritohedron
 +--------------------------------------------------------------------------------------------+
 | Pyritohedron                                                                               |
 +============================================================================================+
-| Polyhedron_pyritohedron_transparent_max.png                                                |
 | A pyritohedron has 30 edges: 6 corresponding to cube faces, and 24 touching cube vertices. |
 +--------------------------------------------------------------------------------------------+
 | Face polygon                                                                               |
@@ -63,7 +58,6 @@ Pyritohedron
 | Properties                                                                                 |
 +--------------------------------------------------------------------------------------------+
 | Net                                                                                        |
-| Pyritohedron_flat.png                                                                      |
 +--------------------------------------------------------------------------------------------+
 
 A PYRITOHEDRON is a dodecahedron with pyritohedral (T_(h)) symmetry. Like the regular dodecahedron, it has twelve identical pentagonal faces, with three meeting in each of the 20 vertices (see figure).[1] However, the pentagons are not constrained to be regular, and the underlying atomic arrangement has no true fivefold symmetry axes. Its 30 edges are divided into two sets – containing 24 and 6 edges of the same length. The only axes of rotational symmetry are three mutually perpendicular twofold axes and four threefold axes.
@@ -78,14 +72,13 @@ Crystal pyrite
 
 Its name comes from one of the two common crystal habits shown by pyrite, the other one being the cube.
 
-+-------------------+---------------------+
-| Pyriteespagne.jpg | Pyrite-193871.jpg   |
-| Cubic pyrite      | Pyritohedral pyrite |
-+-------------------+---------------------+
++--------------+---------------------+
+| Cubic pyrite | Pyritohedral pyrite |
++--------------+---------------------+
 
 Cartesian coordinates
 
-Pyritohedron_animation.gif The coordinates of the eight vertices of the original cube are:
+The coordinates of the eight vertices of the original cube are:
 
     (±1, ±1, ±1)
 
@@ -97,10 +90,9 @@ The coordinates of the 12 vertices of the cross-edges are:
 
 where _h_ is the height of the wedge-shaped "roof" above the faces of the cube. When _h_ = 1, the six cross-edges degenerate to points and a rhombic dodecahedron is formed. When _h_ = 0, the cross-edges are absorbed in the facets of the cube, and the pyritohedron reduces to a cube. When _h_ = , the multiplicative inverse of the golden ratio, the result is a regular dodecahedron. When _h_ = , the conjugate of this value, the result is a regular great stellated dodecahedron.
 
-Compound_pyritohedron_and_dual.png
 ]]A reflected pyritohedron is made by swapping the nonzero coordinates above. The two pyritohedra can be superimposed to give the compound of two dodecahedra. The image to the left shows the case where the pyritohedra are convex regular dodecahedra.
 
-Irregular_dodecahedron.png]]
+]]
 
 Geometric freedom
 
@@ -113,7 +105,6 @@ The _endo-dodecahedron_ can tessellate space with the convex regular dodecahedro
 +==========================================================================+=======================================+=====================================================================+==========================================================================================================+=========================================================================+===========================================================================================+============================================+
 | _h_ = −                                                                  | _h_ = -1                              | _h_ =                                                               | _h_ = 0                                                                                                  | _h_ =                                                                   | _h_ = 1                                                                                   | _h_ =                                      |
 +--------------------------------------------------------------------------+---------------------------------------+---------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+--------------------------------------------+
-| Great_stellated_dodecahedron.png                                         | Degenerate-pyritohedron.png           | Concave_pyritohedral_dodecahedron.png                               | Pyritohedron_cube.png                                                                                    | Dodecahedron.png                                                        | Rhombicdodecahedron.jpg                                                                   | exo-dodecahedron.png                       |
 | Regular star, great stellated dodecahedron, with regular pentagram faces | Degenerate, 12 vertices in the center | The concave equilateral dodecahedron, called a _endo-dodecahedron_. | A cube can be divided into a pyritohedron by bisecting all the edges, and faces in alternate directions. | A regular dodecahedron is an intermediate case with equal edge lengths. | A rhombic dodecahedron is a degenerate case with the 6 crossedges reduced to length zero. | Self-intersecting equilateral dodecahedron |
 +--------------------------------------------------------------------------+---------------------------------------+---------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+--------------------------------------------+
 
@@ -125,7 +116,7 @@ Tetartoid
 | Tetartoid                          |
 | Tetragonal pentagonal dodecahedron |
 +====================================+
-| Tetartoid.png                      |
+|                                    |
 +------------------------------------+
 | Face polygon                       |
 +------------------------------------+
@@ -142,13 +133,12 @@ Tetartoid
 | Properties                         |
 +------------------------------------+
 
-Tetartoid-25.gif A TETARTOID (also TETRAGONAL PENTAGONAL DODECAHEDRON, PENTAGON-TRITETRAHEDRON, and TETRAHEDRIC PENTAGON DODECAHEDRON) is a dodecahedron with chiral tetrahedral symmetry (T). Like the regular dodecahedron, it has twelve identical pentagonal faces, with three meeting in each of the 20 vertices. However, the pentagons are not regular and the figure has no fivefold symmetry axes.
+A TETARTOID (also TETRAGONAL PENTAGONAL DODECAHEDRON, PENTAGON-TRITETRAHEDRON, and TETRAHEDRIC PENTAGON DODECAHEDRON) is a dodecahedron with chiral tetrahedral symmetry (T). Like the regular dodecahedron, it has twelve identical pentagonal faces, with three meeting in each of the 20 vertices. However, the pentagons are not regular and the figure has no fivefold symmetry axes.
 
 Although regular dodecahedra do not exist in crystals, the tetartoid form does. The name tetartoid comes from the Greek root for one-fourth because it has one fourth of full octahedral symmetry, and half of pyritohedral symmetry.[2] The mineral cobaltite can have this symmetry form.[3]
 
   cobaltite
-  -----------------
-  Koboltglans.jpg
+  -----------
 
 Its topology can be as a cube with square faces bisected into 2 rectangles like the pyritohedron, and then the bisection lines are slanted retaining 3-fold rotation at the 8 corners.
 
@@ -171,12 +161,12 @@ Variations
 
 It can be seen as a tetrahedron, with edges divided into 3 segments, along with a center point of each triangular face. In Conway polyhedron notation it can be seen as gT, a gyro tetrahedron.
 
-    Tetartoid_cubic.pngTetartoid_tetrahedral.png
 
-  ------------------- ------------------- ------------------- ------------------------
-  Dodecahedron.png    Tetartoid-010.png   Tetartoid-020.png   Tetartoid-040.png
-  Tetartoid-060.png   Tetartoid-080.png   Tetartoid-095.png   Triakistetrahedron.jpg
-  ------------------- ------------------- ------------------- ------------------------
+
+  -- -- -- --
+
+
+  -- -- -- --
 
   : Example tetartoid variations
 
@@ -184,12 +174,12 @@ Dual of triangular gyrobianticupola
 
 A lower symmetry form of the regular dodecahedron can be constructed as the dual of a polyhedra constructed from two triangular anticupola connected base-to-base, called a _triangular gyrobianticupola._ It has D_(3d) symmetry, order 12. It has 2 sets of 3 identical pentagons on the top and bottom, connected 6 pentagons around the sides which alternate upwards and downwards. This form has a hexagonal cross-section and identical copies can be connected as a partial hexagonal honeycomb, but all vertices will not match.
 
-    Dual_triangular_gyrobianticupola.png
+
 
 
 Rhombic dodecahedron
 
-Rhombicdodecahedron.jpg The _rhombic dodecahedron_ is a zonohedron with twelve rhombic faces and octahedral symmetry. It is dual to the quasiregular cuboctahedron (an Archimedean solid) and occurs in nature as a crystal form. The rhombic dodecahedron packs together to fill space.
+The _rhombic dodecahedron_ is a zonohedron with twelve rhombic faces and octahedral symmetry. It is dual to the quasiregular cuboctahedron (an Archimedean solid) and occurs in nature as a crystal form. The rhombic dodecahedron packs together to fill space.
 
 The _rhombic dodecahedron_ can be seen as a degenerate pyritohedron where the 6 special edges have been reduced to zero length, reducing the pentagons into rhombic faces.
 

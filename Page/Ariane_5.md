@@ -17,7 +17,7 @@ Vehicle description
 
 Cryogenic main stage
 
-SNECMA_Vulcain_II.jpg|150px]] Ariane 5's cryogenic H173 main stage (H158 for Ariane 5 G, G+, and GS) is called the EPC (_Étage Principal Cryotechnique_—Cryotechnic Main Stage). It consists of a large tank 30.5 metres high with two compartments, one for liquid oxygen and one for liquid hydrogen, and a Vulcain 2 engine at the base with a vacuum thrust of . The H173 EPC weighs about 189 tonnes, including 175 tonnes of propellant.[4] After the main cryogenic stage runs out of fuel, it re-enters the atmosphere for an ocean splashdown.
+|150px]] Ariane 5's cryogenic H173 main stage (H158 for Ariane 5 G, G+, and GS) is called the EPC (_Étage Principal Cryotechnique_—Cryotechnic Main Stage). It consists of a large tank 30.5 metres high with two compartments, one for liquid oxygen and one for liquid hydrogen, and a Vulcain 2 engine at the base with a vacuum thrust of . The H173 EPC weighs about 189 tonnes, including 175 tonnes of propellant.[4] After the main cryogenic stage runs out of fuel, it re-enters the atmosphere for an ocean splashdown.
 
 Solid boosters
 
@@ -29,7 +29,7 @@ In February 2000 the suspected nose cone of an Ariane 5 booster washed ashore on
 
 Second stage
 
-Ariane_5_EPS_Upper_Stage.jpg The second stage is on top of the main stage and below the payload. The Ariane 5 G used the EPS (_Étage à Propergols Stockables_—Storable Propellant Stage), which is fueled by monomethylhydrazine (MMH) and nitrogen tetroxide. It also has 10 tonnes of storable propellants. The EPS was improved for use on the Ariane 5 G+, GS, and ES. Ariane 5 ECA uses the ESC (_Étage Supérieur Cryotechnique_—Cryogenic Upper Stage), which is fueled by liquid hydrogen and liquid oxygen.
+The second stage is on top of the main stage and below the payload. The Ariane 5 G used the EPS (_Étage à Propergols Stockables_—Storable Propellant Stage), which is fueled by monomethylhydrazine (MMH) and nitrogen tetroxide. It also has 10 tonnes of storable propellants. The EPS was improved for use on the Ariane 5 G+, GS, and ES. Ariane 5 ECA uses the ESC (_Étage Supérieur Cryotechnique_—Cryogenic Upper Stage), which is fueled by liquid hydrogen and liquid oxygen.
 
 The EPS upper stage is capable of multiple ignitions, first demonstrated during flight V26 which was launched on 5 October 2007. This was purely to test the engine, and occurred after the payloads had been deployed. The first operational use of restart capability as part of a mission came on 9 March 2008, when two burns were made to deploy the first Automated Transfer Vehicle into a circular parking orbit, followed by a third burn after ATV deployment to de-orbit the stage. This procedure was repeated for all subsequent ATV flights.
 
@@ -63,8 +63,6 @@ Total launch price of an Ariane 5—which can transport up to two satellites to 
 
 Future developments
 
-Belgian_components_for_the_Ariane_5_rocket.jpg
-
 Ariane 5 ME
 
 The Ariane 5 ME (Mid-life Evolution) was in development until 2015 and seen as a stopgap between / and the new Ariane 6. With first flight planned for 2018, it would have become ESA's principal launcher until the arrival of the new Ariane 6 version.
@@ -96,7 +94,7 @@ Development is projected to cost €4 billion. Its first test launch is set for 
 
 Notable launches
 
-Ariane_5_10_2007.ogv]]
+]]
 
 Ariane 5's first test flight (Ariane 5 Flight 501) on 4 June 1996 failed, with the rocket self-destructing 37 seconds after launch because of a malfunction in the control software.[37] A data conversion from 64-bit floating point value to 16-bit signed integer value to be stored in a variable representing horizontal bias caused a processor trap (operand error)[38] because the floating point value was too large to be represented by a 16-bit signed integer. The software was originally written for the Ariane 4 where efficiency considerations (the computer running the software had an 80% maximum workload requirement[39]) led to four variables being protected with a handler while three others, including the horizontal bias variable, were left unprotected because it was thought that they were "physically limited or that there was a large margin of safety".[40] The software, written in Ada, was included in the Ariane 5 through the reuse of an entire Ariane 4 subsystem despite the fact that the particular software containing the bug, which was just a part of the subsystem, was not required by the Ariane 5 because it has a different preparation sequence[41] than the Ariane 4.
 

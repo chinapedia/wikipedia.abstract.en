@@ -18,7 +18,7 @@ Subsequently, British scholars used either Evans's "Copper Age" or the term "Ene
 
 Near East
 
-TimnaChalcolithicMine.JPG, Negev Desert, Israel]]
+, Negev Desert, Israel]]
 
 The emergence of metallurgy may have occurred first in the Fertile Crescent. The earliest use of lead is documented here from the late Neolithic settlement of Yarim Tepe in Iraq,
 
@@ -37,7 +37,7 @@ An archaeological site in Serbia contains the oldest securely dated evidence of 
 
 In Serbia, a copper axe was found at Prokuplje, which indicates use of metal in Europe by 7,500 years ago (5500 BC), many years earlier than previously believed.[15] Knowledge of the use of copper was far more widespread than the metal itself. The European Battle Axe culture used stone axes modeled on copper axes, even with moulding carved in the stone.[16] Ötzi the Iceman, who was found in the Ötztal Alps in 1991 and whose remains were dated to about 3300 BC, was found with a Mondsee copper axe.
 
-Los_Millares_recreacion_cuadro.jpg, Iberia]]
+, Iberia]]
 
 Examples of Chalcolithic cultures in Europe include Vila Nova de São Pedro and Los Millares on the Iberian Peninsula.[17] Pottery of the Beaker people has been found at both sites, dating to several centuries after copper-working began there. The Beaker culture appears to have spread copper and bronze technologies in Europe, along with Indo-European languages.[18] In Britain, copper was used between the 25th and 22nd centuries BC, but some archaeologists do not recognise a British Chalcolithic because production and use was on a small scale.[19]
 

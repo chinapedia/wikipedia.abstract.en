@@ -1,4 +1,4 @@
-Pause}} Key_break.jpg The BREAK KEY of a computer keyboard refers to breaking a telegraph circuit and originated with 19th century practice. In modern usage, the key has no well-defined purpose, but while this is the case, it can be used by software for miscellaneous tasks, such as to switch between multiple login sessions, to terminate a program, or to interrupt a modem connection.
+Pause}} The BREAK KEY of a computer keyboard refers to breaking a telegraph circuit and originated with 19th century practice. In modern usage, the key has no well-defined purpose, but while this is the case, it can be used by software for miscellaneous tasks, such as to switch between multiple login sessions, to terminate a program, or to interrupt a modem connection.
 
 Because the break function is usually combined with the pause function on one key since the introduction of the IBM Model M 101-key keyboard in 1985, the Break key is also called the PAUSE KEY. It can be used to pause some computer games.
 

@@ -9,7 +9,7 @@ Epictetus was born c. 55 A.D.,[2][3] presumably at Hierapolis, Phrygia.[4] The n
 
 Early in life, Epictetus acquired a passion for philosophy and, with the permission of his wealthy owner, he studied Stoic philosophy under Musonius Rufus,[8] which allowed him to rise in respectability as he grew more educated.[9] Somehow, he became crippled. Origen stated that his leg was deliberately broken by his master.[10] Simplicius stated that he had been lame from childhood.[11]
 
-Nicopolis_nymphaeum.jpg Epictetus obtained his freedom sometime after the death of Nero in 68 A.D.,[12] and he began to teach philosophy in Rome. About 93 A.D. Emperor Domitian banished all philosophers from the city,[13] and Epictetus went to Nicopolis in Epirus, Greece, where he founded a philosophical school.[14]
+Epictetus obtained his freedom sometime after the death of Nero in 68 A.D.,[12] and he began to teach philosophy in Rome. About 93 A.D. Emperor Domitian banished all philosophers from the city,[13] and Epictetus went to Nicopolis in Epirus, Greece, where he founded a philosophical school.[14]
 
 His most famous pupil, Arrian, studied under him when a young man (c. 108 A.D.) and claimed to have written the famous _Discourses_ from his lecture notes, which he argued should be considered comparable to the Socratic literature.[15] Arrian describes Epictetus as being a powerful speaker who could "induce his listener to feel just what Epictetus wanted him to feel."[16] Many eminent figures sought conversations with him.[17] Emperor Hadrian was friendly with him,[18] and may have listened to him speak at his school in Nicopolis.[19][20]
 
@@ -18,7 +18,7 @@ He lived a life of great simplicity, with few possessions.[21] He lived alone fo
 
 Thought
 
-Epictetus.png No writings by Epictetus are known. His discourses were transcribed and compiled by his pupil Arrian (author of the _Anabasis Alexandri_).[27] The main work is _The Discourses_, four books of which have been preserved (out of the original eight).[28] Arrian also compiled a popular digest, entitled the _Enchiridion_, or _Handbook._ In a preface to the _Discourses_ that is addressed to Lucius Gellius, Arrian states that "whatever I heard him say I used to write down, word for word, as best I could, endeavouring to preserve it as a memorial, for my own future use, of his way of thinking and the frankness of his speech."[29]
+No writings by Epictetus are known. His discourses were transcribed and compiled by his pupil Arrian (author of the _Anabasis Alexandri_).[27] The main work is _The Discourses_, four books of which have been preserved (out of the original eight).[28] Arrian also compiled a popular digest, entitled the _Enchiridion_, or _Handbook._ In a preface to the _Discourses_ that is addressed to Lucius Gellius, Arrian states that "whatever I heard him say I used to write down, word for word, as best I could, endeavouring to preserve it as a memorial, for my own future use, of his way of thinking and the frankness of his speech."[29]
 
 Epictetus maintains that the foundation of all philosophy is self-knowledge, that is, the conviction of our ignorance and gullibility ought to be the first subject of our study.[30] Logic provides valid reasoning and certainty in judgment, but it is subordinate to practical needs.[31] The first and most necessary part of philosophy concerns the application of doctrine, for example, that people should not lie. The second concerns reasons, e.g. why people should not lie. While the third, lastly, examines and establishes the reasons.[32] This is the logical part, which finds reasons, shows what is a reason, and that a given reason is a correct one.[33] This last part is necessary, but only on account of the second, which again is rendered necessary by the first.[34]
 
@@ -71,7 +71,7 @@ Influence
 
 Military
 
-US_Navy_050706-N-0000X-002_Medal_of_Honor_awarded_to_Rear_Admiral_James_B._Stockdale.jpg receiving the Medal of Honor from American president Gerald Ford; Stockdale was able to retain his sanity during capture by relying on the philosophy of Epictetus]]
+receiving the Medal of Honor from American president Gerald Ford; Stockdale was able to retain his sanity during capture by relying on the philosophy of Epictetus]]
 
 James Stockdale
 

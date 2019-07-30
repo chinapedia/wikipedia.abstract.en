@@ -32,7 +32,7 @@ In 1975, he became a full professor of Chemistry. This coincided with laboratory
 
 Discovery of buckminsterfullerene
 
-C60_Image_for_Cover_cropped_3.png In 1985, on the basis of the Sussex studies and the stellar discoveries, laboratory experiments (with co-workers James R. Heath, Sean C. O'Brien, Yuan Liu, Robert Curl and Richard Smalley at Rice University) which simulated the chemical reactions in the atmospheres of the red giant stars demonstrated that stable C₆₀ molecules could form spontaneously from a condensing carbon vapour. The co-investigators directed lasers at graphite and examined the results.[25][26][27] The C₆₀ molecule is a molecule with the same symmetry pattern as a football, consisting of 12 pentagons and 20 hexagons of carbon atoms.[28] Kroto named the molecule buckminsterfullerene, after Buckminster Fuller who had conceived of the geodesic domes, as the dome concept had provided a clue to the likely structure of the new species.[29]
+In 1985, on the basis of the Sussex studies and the stellar discoveries, laboratory experiments (with co-workers James R. Heath, Sean C. O'Brien, Yuan Liu, Robert Curl and Richard Smalley at Rice University) which simulated the chemical reactions in the atmospheres of the red giant stars demonstrated that stable C₆₀ molecules could form spontaneously from a condensing carbon vapour. The co-investigators directed lasers at graphite and examined the results.[25][26][27] The C₆₀ molecule is a molecule with the same symmetry pattern as a football, consisting of 12 pentagons and 20 hexagons of carbon atoms.[28] Kroto named the molecule buckminsterfullerene, after Buckminster Fuller who had conceived of the geodesic domes, as the dome concept had provided a clue to the likely structure of the new species.[29]
 
 In 1985, the C₆₀ discovery caused Kroto to shift the focus of his research from spectroscopy in order to probe the consequences of the C₆₀ structural concept (and prove it correct) and to exploit the implications for chemistry and material science.[30][31]
 
@@ -44,7 +44,7 @@ In 2004, Kroto left the University of Sussex to take up a new position as Franci
 
 Educational outreach and public service
 
-In 1995, he jointly set up the Vega Science Trust, a UK educational charity that created high quality science films including lectures and interviews with Nobel Laureates, discussion programmes, careers and teaching resources for TV and Internet Broadcast. Vega produced over 280 programmes, that streamed for free from the Vega website which acted as a TV science channel. The trust closed in 2012.[45] Sir_Harold_Kroto_at_CSICON_2011.JPG 2011]]
+In 1995, he jointly set up the Vega Science Trust, a UK educational charity that created high quality science films including lectures and interviews with Nobel Laureates, discussion programmes, careers and teaching resources for TV and Internet Broadcast. Vega produced over 280 programmes, that streamed for free from the Vega website which acted as a TV science channel. The trust closed in 2012.[45] 2011]]
 
 In 2009, Kroto spearheaded the development of a second science education initiative, Geoset.[46] Short for the Global Educational Outreach for Science, Engineering and Technology, GEOSET is an ever-growing online cache of recorded teaching modules that are freely downloadable to educators and the public. The program aims to increase knowledge of the sciences by creating a global repository of educational videos and presentations from leading universities and institutions.[47]
 

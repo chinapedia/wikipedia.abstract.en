@@ -11,7 +11,7 @@ Signs and symptoms
 
 Genital disease
 
-SOA-Chlamydia-trachomatis-female.jpg in a female from chlamydia infection characterized by mucopurulent cervical discharge, redness, and inflammation.]] SOA-Chlamydia-trachomatis-male.jpg.]]
+in a female from chlamydia infection characterized by mucopurulent cervical discharge, redness, and inflammation.]] .]]
 
 Women
 
@@ -27,7 +27,7 @@ In men, those with a chlamydial infection show symptoms of infectious inflammati
 
 Eye disease
 
-SOA-conjunctivitis.jpg Chlamydia conjunctivitis or trachoma was once the most important cause of blindness worldwide, but its role diminished from 15% of blindness cases by trachoma in 1995 to 3.6% in 2002.[36][37] The infection can be spread from eye to eye by fingers, shared towels or cloths, coughing and sneezing and eye-seeking flies.[38] Newborns can also develop chlamydia eye infection through childbirth (see below). Using the SAFE strategy (acronym for surgery for in-growing or in-turned lashes, antibiotics, facial cleanliness, and environmental improvements), the World Health Organization aims for the global elimination of trachoma by 2020 (GET 2020 initiative).[39][40]
+Chlamydia conjunctivitis or trachoma was once the most important cause of blindness worldwide, but its role diminished from 15% of blindness cases by trachoma in 1995 to 3.6% in 2002.[36][37] The infection can be spread from eye to eye by fingers, shared towels or cloths, coughing and sneezing and eye-seeking flies.[38] Newborns can also develop chlamydia eye infection through childbirth (see below). Using the SAFE strategy (acronym for surgery for in-growing or in-turned lashes, antibiotics, facial cleanliness, and environmental improvements), the World Health Organization aims for the global elimination of trachoma by 2020 (GET 2020 initiative).[39][40]
 
 Joints
 
@@ -58,7 +58,7 @@ There is debate as to whether persistence has relevance. Some believe that persi
 
 Diagnosis
 
-ChlamydiaTrachomatisEinschlusskörperchen.jpg.]] The diagnosis of genital chlamydial infections evolved rapidly from the 1990s through 2006. Nucleic acid amplification tests (NAAT), such as polymerase chain reaction (PCR), transcription mediated amplification (TMA), and the DNA strand displacement amplification (SDA) now are the mainstays. NAAT for chlamydia may be performed on swab specimens sampled from the cervix (women) or urethra (men), on self-collected vaginal swabs, or on voided urine.[49] NAAT has been estimated to have a sensitivity of approximately 90% and a specificity of approximately 99%, regardless of sampling from a cervical swab or by urine specimen.[50] In women seeking an STI clinic and a urine test is negative, a subsequent cervical swab has been estimated to be positive in approximately 2% of the time.[51]
+.]] The diagnosis of genital chlamydial infections evolved rapidly from the 1990s through 2006. Nucleic acid amplification tests (NAAT), such as polymerase chain reaction (PCR), transcription mediated amplification (TMA), and the DNA strand displacement amplification (SDA) now are the mainstays. NAAT for chlamydia may be performed on swab specimens sampled from the cervix (women) or urethra (men), on self-collected vaginal swabs, or on voided urine.[49] NAAT has been estimated to have a sensitivity of approximately 90% and a specificity of approximately 99%, regardless of sampling from a cervical swab or by urine specimen.[50] In women seeking an STI clinic and a urine test is negative, a subsequent cervical swab has been estimated to be positive in approximately 2% of the time.[51]
 
 At present, the NAATs have regulatory approval only for testing urogenital specimens, although rapidly evolving research indicates that they may give reliable results on rectal specimens.
 
@@ -93,7 +93,7 @@ Following treatment people should be tested again after three months to check fo
 
 Epidemiology
 
-Chlamydia_world_map_-_DALY_-_WHO2004.svg (DALY) for chlamydia per 100,000 inhabitants in 2004.[68] ]] Globally, as of 2015, sexually transmitted chlamydia affects approximately 61 million people.[69] It is more common in women (3.8%) than men (2.5%).[70] In 2015 it resulted in about 200 deaths.[71]
+(DALY) for chlamydia per 100,000 inhabitants in 2004.[68] ]] Globally, as of 2015, sexually transmitted chlamydia affects approximately 61 million people.[69] It is more common in women (3.8%) than men (2.5%).[70] In 2015 it resulted in about 200 deaths.[71]
 
 In the United States about 1.6 million cases were reported in 2016.[72] The CDC estimates that if one includes unreported cases there are about 2.9 million each year.[73] It affects around 2% of young people.[74] Chlamydial infection is the most common bacterial sexually transmitted infection in the UK.[75]
 

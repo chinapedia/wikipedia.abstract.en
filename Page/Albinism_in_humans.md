@@ -5,7 +5,7 @@ Albinism results from inheritance of recessive gene alleles and is known to affe
 
 Signs and symptoms
 
-Albinistic_girl_papua_new_guinea.jpg]]There are two principal types of albinism: oculocutaneous, affecting the eyes, skin and hair, and ocular affecting the eyes only.
+]]There are two principal types of albinism: oculocutaneous, affecting the eyes, skin and hair, and ocular affecting the eyes only.
 
 There are different types of oculocutaneous albinism depending on which gene has undergone mutation. With some there is no pigment at all. The other end of the spectrum of albinism is "a form of albinism called rufous oculocutaneous albinism, which usually affects dark-skinned people".[4]
 
@@ -19,7 +19,7 @@ Those with albinism are generally as healthy as the rest of the population (but 
 
 Visual problems
 
-Mali_Salif_Keita2_400.jpgan Mandinka singer Salif Keita with albinism]] Development of the optical system is highly dependent on the presence of melanin. For this reason, the reduction or absence of this pigment in people with albinism may lead to:
+an Mandinka singer Salif Keita with albinism]] Development of the optical system is highly dependent on the presence of melanin. For this reason, the reduction or absence of this pigment in people with albinism may lead to:
 
 -   Misrouting of the retinogeniculate projections, resulting in abnormal decussation (crossing) of optic nerve fibres[8]
 -   Photophobia and decreased visual acuity due to light scattering within the eye (ocular straylight)[9][10] Photophobia is specifically when light enters the eye, unrestricted—with full force. It is painful and causes extreme sensitivity to light.[11]

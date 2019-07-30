@@ -19,14 +19,12 @@ Histograms are sometimes confused with bar charts. A histogram is used for conti
 
 Etymology
 
-Black_cherry_tree_histogram.svg trees.]] The etymology of the word _histogram_ is uncertain. Sometimes it is said to be derived from the Ancient Greek (_histos_) – "anything set upright" (as the masts of a ship, the bar of a loom, or the vertical bars of a histogram); and (_gramma_) – "drawing, record, writing". It is also said that Karl Pearson, who introduced the term in 1891, derived the name from "historical diagram".[8]
+trees.]] The etymology of the word _histogram_ is uncertain. Sometimes it is said to be derived from the Ancient Greek (_histos_) – "anything set upright" (as the masts of a ship, the bar of a loom, or the vertical bars of a histogram); and (_gramma_) – "drawing, record, writing". It is also said that Karl Pearson, who introduced the term in 1891, derived the name from "historical diagram".[8]
 
 
 Examples
 
 This is the data for the histogram to the right, using 500 items:
-
-Example_histogram.png
 
   Bin           Count
   ------------- -------
@@ -49,8 +47,6 @@ Tips-histogram1.png|Tips using a $1 bin width, skewed right, unimodal Tips-histo
 
 The U.S. Census Bureau found that there were 124 million people who work outside of their homes.[9] Using their data on the time occupied by travel to work, the table below shows the absolute number of people who responded with travel times "at least 30 but less than 35 minutes" is higher than the numbers for the categories above and below it. This is likely due to people rounding their reported journey time. The problem of reporting values as somewhat arbitrarily rounded numbers is a common phenomenon when collecting data from people.
 
-Travel_time_histogram_total_n_Stata.png
-
     {| class="wikitable" style="text-align:center"
 
 |+Data by absolute numbers |- ! Interval !! Width !! Quantity !! Quantity/width |- | 0 || 5 || 4180 || 836 |- | 5 || 5 || 13687 || 2737 |- | 10 || 5 || 18618 || 3723 |- | 15 || 5 || 19634 || 3926 |- | 20 || 5 || 17981 || 3596 |- | 25 || 5 || 7190 || 1438 |- | 30 || 5 || 16369 || 3273 |- | 35 || 5 || 3212 || 642 |- | 40 || 5 || 4122 || 824 |- | 45 || 15 || 9200 || 613 |- | 60 || 30 || 6461 || 215 |- | 90 || 60 || 3435 || 57 |}
@@ -68,7 +64,7 @@ In other words, a histogram represents a frequency distribution by means of rect
 
 Mathematical definition
 
-Cumulative_vs_normal_histogram.svg In a more general mathematical sense, a histogram is a function _m__(_i_) that counts the number of observations that fall into each of the disjoint categories (known as _bins_), whereas the graph of a histogram is merely one way to represent a histogram. Thus, if we let _n_ be the total number of observations and _k_ be the total number of bins, the histogram _m__(_i_) meets the following conditions:
+In a more general mathematical sense, a histogram is a function _m__(_i_) that counts the number of observations that fall into each of the disjoint categories (known as _bins_), whereas the graph of a histogram is merely one way to represent a histogram. Thus, if we let _n_ be the total number of observations and _k_ be the total number of bins, the histogram _m__(_i_) meets the following conditions:
 
     $n = \sum_{i=1}^k{m_i}.$
 
@@ -170,7 +166,7 @@ Remark
 
 A good reason why the number of bins should be proportional to n^(1/3) is the following: suppose that the data are obtained as n independent realizations of a bounded probability distribution with smooth density. Then the histogram remains equally "rugged" as n tends to infinity. If s is the "width" of the distribution (e. g., the standard deviation or the inter-quartile range), then the number of units in a bin (the frequency) is of order nh/s and the _relative_ standard error is of order $\sqrt{s/(n h)}$. Comparing to the next bin, the relative change of the frequency is of order h/s provided that the derivative of the density is non-zero. These two are of the same order if h is of order s/n^(1/3), so that k is of order n^(1/3). This simple cubic root choice can also be applied to bins with non-constant width.
 
-Gumbel_distribtion.png [27]]]
+[27]]]
 
 
 Applications

@@ -5,7 +5,7 @@ The five brightest stars are all reddish in hue. Shading the others at apparent 
 
 History
 
-BayerUran1661apuschamtri.jpg's 1603 _Uranometria_, showing the constellations Apus, Chamaeleon, Musca (as "Apis", the Bee), and Triangulum Australe, as well as the South celestial pole.|alt=A black line drawing on faded brownish paper depicting a stylized bird with no feet and a triangle superimposed on some stars]]
+'s 1603 _Uranometria_, showing the constellations Apus, Chamaeleon, Musca (as "Apis", the Bee), and Triangulum Australe, as well as the South celestial pole.|alt=A black line drawing on faded brownish paper depicting a stylized bird with no feet and a triangle superimposed on some stars]]
 
 Apus was one of twelve constellations published by Petrus Plancius from the observations of Pieter Dirkszoon Keyser and Frederick de Houtman who had sailed on the first Dutch trading expedition, known as the _Eerste Schipvaart_, to the East Indies. It first appeared on a 35-cm (14 in) diameter celestial globe published in 1598 in Amsterdam by Plancius with Jodocus Hondius.[1] De Houtman included it in his southern star catalogue in 1603 under the Dutch name _De Paradijs Voghel_, "The Bird of Paradise",[2][3] and Plancius called the constellation _Paradysvogel Apis Indica_; the first word is Dutch for "bird of paradise". _Apis_ (Latin for "bee") is assumed to have been a typographical error for _avis_ ("bird").[4]
 
@@ -35,7 +35,7 @@ Two star systems have had exoplanets discovered by doppler spectroscopy, and the
 
 Deep-sky objects
 
-Potw1431a.jpg IC 4499 taken by Hubble Space Telescope.[56]|alt=A spherical shaped group of a multitude of stars]]
+IC 4499 taken by Hubble Space Telescope.[56]|alt=A spherical shaped group of a multitude of stars]]
 
 The Milky Way covers much of the constellation's area.[57] Of the deep-sky objects in Apus, there are two prominent globular clusters—NGC 6101 and IC 4499—and a large faint nebula that covers several degrees east of Beta and Gamma Apodis.[58] NGC 6101 is a globular cluster of apparent magnitude 9.2 located around 50,000 light-years distant from Earth,[59] which is around 160 light-years across. Around 13 billion years old, it contains a high concentration of massive bright stars known as blue stragglers, thought to be the result of two stars merging.[60] IC 4499 is a loose globular cluster in the medium-far galactic halo;[61] its apparent magnitude is 10.6.[62]
 

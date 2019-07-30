@@ -3,11 +3,11 @@ ABBOTSFORD is a historic country house in the Scottish Borders, near Melrose, on
 
 Description
 
-Abbotsford_by_Henry_Fox_Talbot.jpg, 1844]] The nucleus of the estate was a small farm of , called Cartleyhole, nicknamed Clarty (i.e., muddy) Hole, and was bought by Scott on the lapse of his lease (1811) of the neighbouring house of Ashestiel.
+, 1844]] The nucleus of the estate was a small farm of , called Cartleyhole, nicknamed Clarty (i.e., muddy) Hole, and was bought by Scott on the lapse of his lease (1811) of the neighbouring house of Ashestiel.
 
 He first built a small villa and named it Abbotsford, creating the name from a ford nearby where previously abbots of Melrose Abbey used to cross the river. Scott then built additions to the house and made it into a mansion, building into the walls many sculptured stones from ruined castles and abbeys of Scotland. In it he gathered a large library, a collection of ancient furniture, arms and armour, and other relics and curiosities, especially connected with Scottish history, notably the Celtic Torrs Pony-cap and Horns and the Woodwrae Stone, all now in the Museum of Scotland.[3][4]
 
-The last and principal acquisition was that of Toftfield (afterwards named Huntlyburn), purchased in 1817. The new house was then begun and completed in 1824. Abbotsford.House.ground.plan.jpg Abbotsford_House_Study_Room.jpg The general ground-plan is a parallelogram, with irregular outlines, one side overlooking the Tweed; and the style is mainly the Scottish Baronial. The estate is recognized as a highly influential creation for the Scottish Baronial style with themes from Abbotsford being reflected across many buildings in the Scottish Borders.[5] The manor as a whole appears as a "castle-in-miniature," with small towers and imitation battlements decorating the house and garden walls.[6] Into various parts of the fabric were built relics and curiosities from historical structures, such as the doorway of the old Tolbooth in Edinburgh. Scott collected many of these curiosities to be built into the walls of the South Garden, which previously hosted a colonnade of gothic arches along the garden walls. Along the path of the former colonnade sits the remains of Edinburgh's 15th century Mercat Cross and several examples of classical sculpture.[7]
+The last and principal acquisition was that of Toftfield (afterwards named Huntlyburn), purchased in 1817. The new house was then begun and completed in 1824. The general ground-plan is a parallelogram, with irregular outlines, one side overlooking the Tweed; and the style is mainly the Scottish Baronial. The estate is recognized as a highly influential creation for the Scottish Baronial style with themes from Abbotsford being reflected across many buildings in the Scottish Borders.[5] The manor as a whole appears as a "castle-in-miniature," with small towers and imitation battlements decorating the house and garden walls.[6] Into various parts of the fabric were built relics and curiosities from historical structures, such as the doorway of the old Tolbooth in Edinburgh. Scott collected many of these curiosities to be built into the walls of the South Garden, which previously hosted a colonnade of gothic arches along the garden walls. Along the path of the former colonnade sits the remains of Edinburgh's 15th century Mercat Cross and several examples of classical sculpture.[7]
 
 The estate and its neo-Medieval features nod towards Scott's desire for a historical feel, but the writer ensured that the house would provide all the comforts of modern living. As a result, Scott used the space as a proving-ground for new technologies. The house was outfitted with early gas lighting and pneumatic bells connecting residents with servants elsewhere in the house.[8]
 
@@ -15,7 +15,7 @@ Scott had only enjoyed his residence one year when (1825) he met with that rever
 
 Scott's only son Walter did not live to enjoy the property, having died on his way from India in 1847. Among subsequent possessors were Scott's son-in-law, John Gibson Lockhart, J. R. Hope Scott, QC, and his daughter (Scott's great-granddaughter), the Hon. Mrs Maxwell Scott.
 
-Abbotsford_Aug2009_01.jpg The house was opened to the public in 1833, but continued to be occupied by Scott's descendants until 2004. The last of his direct descendants to hold the Lairdship of Abbotsford was his great-great-great-granddaughter Dame Jean Maxwell-Scott (8 June 1923 – 5 May 2004). She inherited it from her elder sister Patricia Maxwell-Scott in 1998. The sisters turned the house into one of Scotland's premier tourist attractions, after they had to rely on paying visitors to afford the upkeep of the house. It had electricity installed only in 1962.
+The house was opened to the public in 1833, but continued to be occupied by Scott's descendants until 2004. The last of his direct descendants to hold the Lairdship of Abbotsford was his great-great-great-granddaughter Dame Jean Maxwell-Scott (8 June 1923 – 5 May 2004). She inherited it from her elder sister Patricia Maxwell-Scott in 1998. The sisters turned the house into one of Scotland's premier tourist attractions, after they had to rely on paying visitors to afford the upkeep of the house. It had electricity installed only in 1962.
 
 Dame Jean was at one time a lady-in-waiting to Princess Alice, Duchess of Gloucester, patron of the Dandie Dinmont Club, a breed of dog named after one of Sir Walter Scott's characters; and a horse trainer, one of whose horses, Sir Wattie, ridden by Ian Stark, won two silver medals at the 1988 Summer Olympics.
 
@@ -33,8 +33,6 @@ Abbotsford gave its name to the Abbotsford Club, founded by William Barclay Turn
 In 2012, a new Visitor Centre opened at Abbotsford which houses a small exhibition, gift shop and Ochiltree's Dining, a café/restaurant with views over the house and grounds.
 
 In 2014 it won the European Union Prize for Cultural Heritage / Europa Nostra Award for its recent conservation project.[11][12]
-
-Visitors_Centre,_Abbotsford.jpg
 
 
 See also

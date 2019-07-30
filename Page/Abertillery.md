@@ -9,14 +9,14 @@ According to the 2001 Census and information gathered by The Welsh Language Boar
 
 Town centre
 
-BW_Pontlottyn.JPG" department store]] Abertillery's traditional-style town centre mainly developed in the late 19th century and as such has some interesting Victorian architecture. Spread over 4 main streets the town in its heyday had two department stores and a covered Victorian arcade linking two of the main shopping areas. These were all included in a Blaenau Gwent Borough Council remodelling and modernisation project using European Union funding in a £13 million programme spread over a 5-year period ending in 2015.[4]
+" department store]] Abertillery's traditional-style town centre mainly developed in the late 19th century and as such has some interesting Victorian architecture. Spread over 4 main streets the town in its heyday had two department stores and a covered Victorian arcade linking two of the main shopping areas. These were all included in a Blaenau Gwent Borough Council remodelling and modernisation project using European Union funding in a £13 million programme spread over a 5-year period ending in 2015.[4]
 
 The project included a new multi-storey car park, a revamp of public areas and the town's Metropole Theatre.[5] This RICS award-winning building provides state of the art production, exhibition, conference and meeting facilities as well as housing Abertillery museum. In March 2014 Prince Edward, the Earl of Wessex, officiated at the launch of Jubilee Square, a public facility in the town centre next to St Michael's Church.[6]
 
 
 Coal mining
 
-Towering.JPG Major industry came to the area in 1843 when the locality's first deep coal mine was sunk at Tir Nicholas Farm, Cwmtillery. The town developed rapidly thereafter and played a major part in the South Wales coalfield. Its population rose steeply, being 10,846 in the 1891 census and 21,945 ten years later. The population peaked just short of 40,000[7] around the beginning of the 1930s. Eventually there were six deep coal mines, numerous small coal levels, a tin works, brick works, iron foundry and light engineering businesses in the area. Just one of the coal mines, Cwmtillery, produced over 32 million tons of coal in its lifetime and at its height employed 2760 men and boys.[8]
+Major industry came to the area in 1843 when the locality's first deep coal mine was sunk at Tir Nicholas Farm, Cwmtillery. The town developed rapidly thereafter and played a major part in the South Wales coalfield. Its population rose steeply, being 10,846 in the 1891 census and 21,945 ten years later. The population peaked just short of 40,000[7] around the beginning of the 1930s. Eventually there were six deep coal mines, numerous small coal levels, a tin works, brick works, iron foundry and light engineering businesses in the area. Just one of the coal mines, Cwmtillery, produced over 32 million tons of coal in its lifetime and at its height employed 2760 men and boys.[8]
 
 In 1960 an underground explosion at Six Bells Colliery resulted in the loss of life of 45 local miners. Fifty years later the archbishop of Canterbury Rowan Williams officiated at the launch of the _Guardian_ mining memorial. This artistically acclaimed monument standing at 20m tall overlooks Parc Arael Griffin, the now reclaimed and landscaped former colliery site. The adjoining Ty Ebbw Fach visitor centre provides conference facilities, a restaurant and a "mining valley" experience room. Not long after the disaster the renowned artist L. S. Lowry visited the area and recorded the scene. The resultant landscape painting now hangs in the Museum of Wales in Cardiff.[9]
 
@@ -25,7 +25,7 @@ The coal mines remained the predominant economic emphasis until the general run 
 
 Abertillery Conurbation
 
-Abertillery_from_NW_20100728.jpg Away from the town centre, the often steep sided nature of the landscape, imposes its own demands on development. Whilst this sounds limiting it has helped provide the almost amphitheatre nature of Abertillery Park, often described as one of the most attractive rugby grounds in world rugby.[10]
+Away from the town centre, the often steep sided nature of the landscape, imposes its own demands on development. Whilst this sounds limiting it has helped provide the almost amphitheatre nature of Abertillery Park, often described as one of the most attractive rugby grounds in world rugby.[10]
 
 The street plan and housing stock flow uninterrupted from Cwmtillery in the north to Six Bells in the south, forming the town that is Abertillery. Prior to 1974 local government was provided by Abertillery Urban District Council (AUDC).[11] Its area included the small neighbouring villages of Aberbeeg, Llanhilleth and Brynithel. Historical data relating to Abertillery occasionally refers to this AUDC area meaning that it can be difficult to compare like with like. For example, the 2014 population for the wider conurbation area is around 20,000 rather than the 11,000 often quoted for Abertillery itself.
 
@@ -87,7 +87,7 @@ Sport, leisure and tourism
 
 Abertillery Town cricket club and Abertillery Blaenau Gwent RFC formed in the 1880s. Both have their playing headquarters at "the Park" one of the most picturesque sporting complexes in the UK.
 
-Climb_to_1900ft.JPG The town supports two local Saturday football teams: Abertillery Bluebirds and Abertillery Excelsiors. There are numerous other sports activities running on an organized basis such as bowls, badminton, squash etc.
+The town supports two local Saturday football teams: Abertillery Bluebirds and Abertillery Excelsiors. There are numerous other sports activities running on an organized basis such as bowls, badminton, squash etc.
 
 The surrounding landscape provides hill walking opportunities and walker led groups are thriving in the area. One example is Ebbw Fach Trekkers walking group.
 
@@ -109,7 +109,7 @@ International relations
 
 Abertillery is twinned with:
 
--   Flag_of_France.svg Royat, France[18]
+-   Royat, France[18]
 
 
 See also

@@ -7,7 +7,7 @@ History
 
 Internal operations
 
-Ghana_Armed_Forces_(Ghana_Regiment)_War_Flag.jpg of the Ghana Regiment Operation Burma Campaign in the South-East Asian Theatre of World War II.]]
+of the Ghana Regiment Operation Burma Campaign in the South-East Asian Theatre of World War II.]]
 
 The Ghana Armed Forces (GAF) were formed in 1957. Major General Stephen Otu is appointed GAF Chief of Defence Staff in September 1961. From 1966, the GAF was extensively involved in politics, mounting several coups. Kwame Nkrumah had become Ghana's first Prime Minister when the country became independent in 1957. As Nkrumah's rule wore on, he began to take actions which disquieted the leadership of the armed forces, including the creation and expansion of the President's Own Guard Regiment (POGR).[3]
 
@@ -25,7 +25,7 @@ File:Ghana Armed Forces – Military Sergeant Soldier.jpg|A Ghana Armed Forces (
 
 GAF external operations
 
-Ghanaian_ECOMOG_troops_embarking_USAF_C-130E.jpg soldiers boarding a C-130 Hercules at Kotoka International Airport to take part in an Economic Community of West African States Monitoring Group mission in Liberia.]] Since the GAF (Ghana Armed Forces) first external operation in the military operation Congo (ONUC) in the early 1960s,[9] then the GAF training of Rhodesian guerrillas,[10] followed by the GAF have taken up their positions on the thin blue line between war and peace, amidst genocide and civil war in the successive decades. GAF external operations within Europe has been significantly to the Balkans including the Kosovo war with the GAF external operations within Africa including the Rwandan genocide (UNAMIR) which in his book _Shake Hands with the Devil_, Canadian Forces commander Romeo Dallaire gave the GA (Ghana Army) soldiers high praise for their work during the civil and conflict,[11] and Liberia civil war paving way for the Accra Comprehensive Peace Agreement among others.[12] GAF external operations within Asia have included Iran and Iraq in the Iran–Iraq War,[13] Kuwait and Lebanon civil war among others.[14][15]
+soldiers boarding a C-130 Hercules at Kotoka International Airport to take part in an Economic Community of West African States Monitoring Group mission in Liberia.]] Since the GAF (Ghana Armed Forces) first external operation in the military operation Congo (ONUC) in the early 1960s,[9] then the GAF training of Rhodesian guerrillas,[10] followed by the GAF have taken up their positions on the thin blue line between war and peace, amidst genocide and civil war in the successive decades. GAF external operations within Europe has been significantly to the Balkans including the Kosovo war with the GAF external operations within Africa including the Rwandan genocide (UNAMIR) which in his book _Shake Hands with the Devil_, Canadian Forces commander Romeo Dallaire gave the GA (Ghana Army) soldiers high praise for their work during the civil and conflict,[11] and Liberia civil war paving way for the Accra Comprehensive Peace Agreement among others.[12] GAF external operations within Asia have included Iran and Iraq in the Iran–Iraq War,[13] Kuwait and Lebanon civil war among others.[14][15]
 
 GAF (Ghana Armed Forces) external operation and military operation presence was proudly advertised in the operations of Cambodia−UNTAC.[16] A total of 3,359 GA (Ghana Army) soldiers and 283 GMP (Ghana Military Police) military police personnel from GAF (Ghana Armed Forces) operated in UNTAC laying to rest the chronic military confusion in Cambodia.[17] The UNTAC operation lasted two years, 1992−1993.[18] After a long running Cambodia civil war ignited by external interventions, a resolution was accepted by the four warring fractional parties.[19]
 
@@ -34,7 +34,7 @@ Operation UNTAC was the GAF largest external operation since the GAF first exter
 
 Ghana Army
 
-Ghana's_50th_Independence_Anniversary.jpg]] The Ghana Army (GA) is structured as follows:
+]] The Ghana Army (GA) is structured as follows:
 
 -   The Northern Command with headquarters in Kumasi and the Southern Command with headquarters in Accra. In March 2000 these two commands were formed after a restructuring.[23] Previously there were three brigades: 1st Infantry Brigade (HQ in Teshie), 2nd Infantry Brigade (HQ in Kumasi) and Support Services Brigade (HQ in Burma Camp).
 -   6 Infantry Battalions of the Ghana Regiment. 3rd Battalion of Infantry, 4th Battalion of Infantry and 6th Battalion of Infantry in the Northern Command, 1st Battalion of Infantry, 2nd Battalion of Infantry and 5th Battalion of Infantry in the Southern Command.
@@ -52,7 +52,7 @@ Ghana's armed forces relies on a mix of technology. Modern M16s, AK-47s, Type 56
 
 GAF Peacekeeping Operations
 
-UN_Peacekeepers_Kigali.jpg, Rwanda in a Volkswagen Iltis.]] GAF (Ghana Armed Forces) is free to commit a large proportion of its armed forces to international peacekeeping operations. Such operations are mainly conducted in Africa, while large Ghanaian armed forces are frequently posted across the world as elements of United Nations peacekeeping forces. The United Nations has often relied on Ghanaian armed forces to conduct peacekeeping operations, in countries as diverse as Afghanistan, Iraq, Kosovo, Georgia, Nepal, Cambodia and Lebanon.[24] Currently, Ghanaian armed forces are posted to United Nations peacekeeping missions as follows:[25]
+, Rwanda in a Volkswagen Iltis.]] GAF (Ghana Armed Forces) is free to commit a large proportion of its armed forces to international peacekeeping operations. Such operations are mainly conducted in Africa, while large Ghanaian armed forces are frequently posted across the world as elements of United Nations peacekeeping forces. The United Nations has often relied on Ghanaian armed forces to conduct peacekeeping operations, in countries as diverse as Afghanistan, Iraq, Kosovo, Georgia, Nepal, Cambodia and Lebanon.[24] Currently, Ghanaian armed forces are posted to United Nations peacekeeping missions as follows:[25]
 
 -   MONUC (Democratic Republic of Congo) − 464
 -   UNMIL (Liberia) − 852
@@ -78,7 +78,7 @@ GAF Business
 
 GAF Military private bank
 
-GAF_(Ghana_Armed_Forces)_FSM_Major_CWO_−_Dickson_Owusu.jpg) of the Ghana Armed Forces CWO (Chief Warrant Officer) Dickson Owusu.]] The GAF (Ghana Armed Forces), in addition to owning its own arms industry weapons and military technology and equipment manufacturer (DIHOC − Defence Industries Holding Company), operates its own private bank. The GAF military private bank is cited at Burma Camp and serves the GAF military personnels and their GAF civilian counterparts.[31]
+) of the Ghana Armed Forces CWO (Chief Warrant Officer) Dickson Owusu.]] The GAF (Ghana Armed Forces), in addition to owning its own arms industry weapons and military technology and equipment manufacturer (DIHOC − Defence Industries Holding Company), operates its own private bank. The GAF military private bank is cited at Burma Camp and serves the GAF military personnels and their GAF civilian counterparts.[31]
 
 GAF Military hospitals
 
@@ -89,7 +89,7 @@ The Divisions and Departments (the units) are developed and joined according to 
 
 GAF Military schools
 
-Ahimota_Cadet_Corps.jpgs from the |Achimota Senior High School Army Cadet Corps]] The GAF (Ghana Army) operates the GAF Cadet Corps for GAF Cadets whom go on to Military Education and Training and Recruit Training graduation from the GAF Military Academy for Army Recruit and Seaman Recruit prior to enlistment into the Military Branches of the GAF (Ghana Armed Forces):
+s from the |Achimota Senior High School Army Cadet Corps]] The GAF (Ghana Army) operates the GAF Cadet Corps for GAF Cadets whom go on to Military Education and Training and Recruit Training graduation from the GAF Military Academy for Army Recruit and Seaman Recruit prior to enlistment into the Military Branches of the GAF (Ghana Armed Forces):
 
 -   Ghana Military Academy (GAF Military Academy)
 -   GAF Cadet Corps)
@@ -100,7 +100,6 @@ Defence budget
 
   --------------------------------------------------------------------------
   Ghana Military–industrial complex and Defense industry budgetary history
-  Ghana_Defence_budget_percentage_growth.jpg
   Ghana Armed Forces Defense budget percentage growth rate
   --------------------------------------------------------------------------
 

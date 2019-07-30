@@ -1,4 +1,4 @@
-Maluku_Islands_en.png]] Banda_Islands_en.png
+]]
 
 The BANDA ISLANDS () are a volcanic group of ten small volcanic islands in the Banda Sea, about south of Seram Island and about east of Java, and constitute an administrative district (_kecamatan_) within the Central Maluku Regency in the Indonesian province of Maluku. The main town and administrative centre is Bandanaira, located on the island of the same name. They rise out of deep ocean and have a total land area of approximately . They had a population of 18,544 at the 2010 Census.[1] Until the mid-19th century the Banda Islands were the world's only source of the spices nutmeg and mace, produced from the nutmeg tree. The islands are also popular destinations for scuba diving and snorkeling.
 
@@ -23,7 +23,7 @@ Unlike other eastern Indonesian islands, such as Ambon, Solor, Ternate and Morot
 
 Dutch Control
 
-Fort_Nassau_1646.jpg in 1646]]
+in 1646]]
 
 The Dutch followed the Portuguese to Banda but were to have a much more dominating and lasting presence. Dutch-Bandanese relations were mutually resentful from the outset, with Holland's first merchants complaining of Bandanese reneging on agreed deliveries and price, and cheating on quantity and quality. For the Bandanese, on the other hand, although they welcomed another competitor purchaser for their spices, the items of trade offered by the Dutch—heavy woolens, and damasks, unwanted manufactured goods, for example—were usually unsuitable in comparison to traditional trade products. The Javanese, Arab and Indian, and Portuguese traders for example brought indispensable items along with steel knives, copper, medicines and prized Chinese porcelain.
 
@@ -33,15 +33,13 @@ Until the early seventeenth century the Bandas were ruled by a group of leading 
 
 In April 1609, Admiral Pieter Willemsz. Verhoeff arrived at Banda Neira with a request by Maurice, Prince of Orange to build a fort on the island (the eventual Fort Nassau). The Bandanese were not excited about this idea. On 22 May, before building of the fort had started, the _orang kaya_ called a meeting with the Dutch admiral, purportedly to negotiate prices. Instead, they led Verhoeff and two high-ranked men into an ambush and decapitated them and subsequently killed 46 of the Dutch visitors. Jan Pietersz Coen, who was a lower-ranked merchant on the expedition, managed to escape, but the traumatic event likely influenced his future attitude towards the Bandanese.[11]
 
-Fort_Belgica_1824.jpg
-
 English-Dutch rivalry
 
 While Portuguese and Spanish activity in the region had weakened, the English had built fortified trading posts on tiny Ai and Run islands, ten to twenty kilometres from the main Banda Islands. With the English paying higher prices, they were significantly undermining Dutch aims for a monopoly. As Anglo-Dutch tensions increased in 1611 the Dutch built the larger and more strategic Fort Belgica above Fort Nassau.
 
 In 1615, the Dutch invaded Ai with 900 men whereupon the English retreated to Run where they regrouped. Japanese mercenaries served in the Dutch forces.[12][13][14] That same night, the English launched a surprise counter-attack on Ai, retaking the island and killing 200 Dutchmen. A year later, a much stronger Dutch force attacked Ai. This time the defenders were able to hold off the attack with cannon fire, but after a month of siege they ran out of ammunition. The Dutch slaughtered the defenders, and afterwards strengthened the fort, renaming it 'Fort Revenge'.
 
-COLLECTIE_TROPENMUSEUM_Militairen_bij_het_standbeeld_van_Koning_Willem_III_op_Banda_TMnr_10018594.jpg, representing Dutch dominance on Banda.]]
+, representing Dutch dominance on Banda.]]
 
 Massacre of the Bandanese
 
@@ -56,8 +54,6 @@ The population of the Banda Islands prior to Dutch conquest is generally estimat
 Whereas up until this point the Dutch presence had been simply as traders, that was sometimes treaty-based, the Banda conquest marked the start of the first overt colonial rule in Indonesia, albeit under the auspices of the VOC.
 
 VOC Monopoly
-
-Banda_Neira_1724.jpg
 
 Having nearly eradicated the islands' native population, Coen divided the productive land of approximately half a million nutmeg trees into sixty-eight 1.2-hectare _perken_. These land parcels were then handed to Dutch planters known as _perkeniers_ of which 34 were on Lontar, 31 on Ai and 3 on Neira. With few Bandanese left to work them, slaves from elsewhere were brought in.[37] Now enjoying control of the nutmeg production, the VOC paid the _perkeniers_ 1/122nd of the Dutch market price for nutmeg; however, the _perkeniers_ still profited immensely building substantial villas with opulent imported European decorations.
 
@@ -80,7 +76,7 @@ In the late 1990s, violence between Christians and Muslims and between indigenou
 
 Geography
 
-There are seven inhabited islands and several that are uninhabited. The inhabited islands are: BandaVolcano.JPG in the Banda Islands]] Banda-0039.jpg (Banda Besar).]] Main group:
+There are seven inhabited islands and several that are uninhabited. The inhabited islands are: in the Banda Islands]] (Banda Besar).]] Main group:
 
 -   Banda Neira, or Naira, the island with the administrative capital and a small airfield (as well as accommodation for visitors). Present on Banda Neira is Fort Belgica, one of the largest remaining Dutch forts that are still intact in Indonesia.
 -   Banda Api, an active volcano (Gunung Api) with a peak of about 650 m

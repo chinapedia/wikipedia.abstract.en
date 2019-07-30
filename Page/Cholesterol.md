@@ -36,23 +36,19 @@ Biosynthesis
 
 All animal cells manufacture cholesterol, for both membrane structure and other uses, with relative production rates varying by cell type and organ function. About 80% of total daily cholesterol production occurs in the liver and the intestines;[23] other sites of higher synthesis rates include adrenal glands, and reproductive organs.
 
-Synthesis within the body starts with the mevalonate pathway where two molecules of acetyl CoA condense to form acetoacetyl-CoA. This is followed by a second condensation between acetyl CoA and acetoacetyl-CoA to form 3-hydroxy-3-methylglutaryl CoA (HMG-CoA).[24] Condensation_of_Acetyl-CoA_to_HMG-CoA.gif
+Synthesis within the body starts with the mevalonate pathway where two molecules of acetyl CoA condense to form acetoacetyl-CoA. This is followed by a second condensation between acetyl CoA and acetoacetyl-CoA to form 3-hydroxy-3-methylglutaryl CoA (HMG-CoA).[24]
 
 This molecule is then reduced to mevalonate by the enzyme HMG-CoA reductase. Production of mevalonate is the rate-limiting and irreversible step in cholesterol synthesis and is the site of action for statins (a class of cholesterol lowering drugs).
 
-Melavonic_Acid_Synthesis.gif Mevalonate is finally converted to isopentenyl pyrophosphate (IPP) through two phosphorylation steps and one decarboxylation step that requires ATP.
-
-Melavonate_pathway_to_IPP.gif
+Mevalonate is finally converted to isopentenyl pyrophosphate (IPP) through two phosphorylation steps and one decarboxylation step that requires ATP.
 
 Three molecules of isopentenyl pyrophosphate condense to form farnesyl pyrophosphate through the action of geranyl transferase.
 
-Cation_formation_from_DMAPP.gif Formation_of_farnesyl_pyrophosphate.gif
-
-Two molecules of farnesyl pyrophosphate then condense to form squalene by the action of squalene synthase in the endoplasmic reticulum.[25] Squalene_Synthesis.gif Squalene_Synthesis_2.gif
+Two molecules of farnesyl pyrophosphate then condense to form squalene by the action of squalene synthase in the endoplasmic reticulum.[25]
 
 Oxidosqualene cyclase then cyclizes squalene to form lanosterol. Finally, lanosterol is converted to cholesterol through a 19-step process.[26][27]
 
-Flavinoid_Mechanism.gif Oxidosqualene.gif Lanosterol_formation.gif The final 19 steps to cholesterol contain NADPH and oxygen to help oxidize methyl groups for removal of carbons, mutases to move alkene groups, and NADH to help reduce ketones. Cholesterol_Synthesis_19_step.gif Cholesterol_Synthesis_12.gif
+The final 19 steps to cholesterol contain NADPH and oxygen to help oxidize methyl groups for removal of carbons, mutases to move alkene groups, and NADH to help reduce ketones.
 
 Konrad Bloch and Feodor Lynen shared the Nobel Prize in Physiology or Medicine in 1964 for their discoveries concerning some of the mechanisms and methods of regulation of cholesterol and fatty acid metabolism.[28]
 
@@ -66,7 +62,7 @@ Cholesterol synthesis can also be turned off when cholesterol levels are high. H
 
 Plasma transport and regulation of absorption
 
-MetabolismoLipidiE.png As an isolated molecule, cholesterol is only minimally soluble in water, or hydrophilic. Because of it this, it dissolves in blood at exceedingly small concentrations. To be transported effectively, cholesterol is instead packaged within lipoproteins, complex discoidal particles with exterior amphiphilic proteins and lipids, whose outward-facing surfaces are water-soluble and inward-facing surfaces are lipid-soluble. This allows it to travel through the blood via emulsification. Unbound cholesterol, being amphipathic, is transported in the monolayer surface of the lipoprotein particle along with phospholipids and proteins. Cholesterol esters bound to fatty acid, on the other hand, are transported within the fatty hydrophilic core of the lipoprotein, along with triglyceride.[32]
+As an isolated molecule, cholesterol is only minimally soluble in water, or hydrophilic. Because of it this, it dissolves in blood at exceedingly small concentrations. To be transported effectively, cholesterol is instead packaged within lipoproteins, complex discoidal particles with exterior amphiphilic proteins and lipids, whose outward-facing surfaces are water-soluble and inward-facing surfaces are lipid-soluble. This allows it to travel through the blood via emulsification. Unbound cholesterol, being amphipathic, is transported in the monolayer surface of the lipoprotein particle along with phospholipids and proteins. Cholesterol esters bound to fatty acid, on the other hand, are transported within the fatty hydrophilic core of the lipoprotein, along with triglyceride.[32]
 
 There are several types of lipoproteins in the blood. In order of increasing density, they are chylomicrons, very-low-density lipoprotein (VLDL), intermediate-density lipoprotein (IDL), low-density lipoprotein (LDL), and high-density lipoprotein (HDL). Lower protein/lipid ratios make for less dense lipoproteins. Cholesterol within different lipoproteins is identical, although some is carried as its native "free" alcohol form (the cholesterol-OH group facing the water surrounding the particles), while others as fatty acyl esters, known also as cholesterol esters, within the particles.[33]
 
@@ -113,7 +109,7 @@ Clinical significance
 
 Hypercholesterolemia
 
-ColesterolemiaMortalitaE.png According to the lipid hypothesis, elevated levels of cholesterol in the blood lead to atherosclerosis which may increase the risk of heart attack, stroke, and peripheral vascular disease. Since higher blood LDL – especially higher LDL concentrations and smaller LDL particle size – contributes to this process more than the cholesterol content of the HDL particles,[80] LDL particles are often termed "bad cholesterol". High concentrations of functional HDL, which can remove cholesterol from cells and atheromas, offer protection and are commonly referred to as "good cholesterol". These balances are mostly genetically determined, but can be changed by body composition, medications, diet,[81] and other factors.[82] A 2007 study demonstrated that blood total cholesterol levels have an exponential effect on cardiovascular and total mortality, with the association more pronounced in younger subjects. Because cardiovascular disease is relatively rare in the younger population, the impact of high cholesterol on health is larger in older people.[83]
+According to the lipid hypothesis, elevated levels of cholesterol in the blood lead to atherosclerosis which may increase the risk of heart attack, stroke, and peripheral vascular disease. Since higher blood LDL – especially higher LDL concentrations and smaller LDL particle size – contributes to this process more than the cholesterol content of the HDL particles,[80] LDL particles are often termed "bad cholesterol". High concentrations of functional HDL, which can remove cholesterol from cells and atheromas, offer protection and are commonly referred to as "good cholesterol". These balances are mostly genetically determined, but can be changed by body composition, medications, diet,[81] and other factors.[82] A 2007 study demonstrated that blood total cholesterol levels have an exponential effect on cardiovascular and total mortality, with the association more pronounced in younger subjects. Because cardiovascular disease is relatively rare in the younger population, the impact of high cholesterol on health is larger in older people.[83]
 
 Elevated levels of the lipoprotein fractions, LDL, IDL and VLDL, rather than the total cholesterol level, correlate with the extent and progress of atherosclerosis.[84] Conversely, the total cholesterol can be within normal limits, yet be made up primarily of small LDL and small HDL particles, under which conditions atheroma growth rates are high. A _post hoc_ analysis of the IDEAL and the EPIC prospective studies found an association between high levels of HDL cholesterol (adjusted for apolipoprotein A-I and apolipoprotein B) and increased risk of cardiovascular disease, casting doubt on the cardioprotective role of "good cholesterol".[85][86]
 
@@ -132,7 +128,7 @@ The 1987 report of National Cholesterol Education Program, Adult Treatment Panel
 
 More current testing methods determine LDL ("bad") and HDL ("good") cholesterol separately, allowing cholesterol analysis to be more nuanced. The desirable LDL level is considered to be less than 130 mg/dL (2.6 mmol/L),[101] although a newer upper limit of 70 mg/dL (1.8 mmol/L) can be considered in higher-risk individuals based on some of the above-mentioned trials. A ratio of total cholesterol to HDL—another useful measure—of far less than 5:1 is thought to be healthier.
 
-Blood_values_sorted_by_mass_and_molar_concentration.png, showing usual, as well as optimal, levels of HDL, LDL and total cholesterol in mass and molar concentrations, is found in orange color at right, that is, among the blood constituents with the highest concentration.]]
+, showing usual, as well as optimal, levels of HDL, LDL and total cholesterol in mass and molar concentrations, is found in orange color at right, that is, among the blood constituents with the highest concentration.]]
 
 Total cholesterol is defined as the sum of HDL, LDL, and VLDL. Usually, only the total, HDL, and triglycerides are measured. For cost reasons, the VLDL is usually estimated as one-fifth of the triglycerides and the LDL is estimated using the Friedewald formula (or a variant): estimated LDL = [total cholesterol] − [total HDL] − [estimated VLDL]. VLDL can be calculated by dividing total triglycerides by five. Direct LDL measures are used when triglycerides exceed 400 mg/dL. The estimated VLDL and LDL have more error when triglycerides are above 400 mg/dL.[102]
 
@@ -166,8 +162,6 @@ Some cholesterol derivatives (among other simple cholesteric lipids) are known t
 Stereoisomers
 
 Cholesterol has 256 stereoisomers that arise from its 8 stereocenters, although only two of the stereoisomers are of biochemical significance (_nat_-cholesterol and _ent_-cholesterol, for _natural_ and _enantiomer_, respectively),[113][114] and only one occurs naturally (_nat_-cholesterol).
-
-Nat-cholesterol_and_ent-cholesterol.jpg
 
 
 See also

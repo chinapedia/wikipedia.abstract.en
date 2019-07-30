@@ -1,4 +1,4 @@
-Methane-3D-balls.png of the methane molecule, CH₄. Methane is part of a homologous series known as the alkanes, which contain single bonds only.]] In organic chemistry, a HYDROCARBON is an organic compound consisting entirely of hydrogen and carbon.[1] Hydrocarbons are examples of group 14 hydrides. Hydrocarbons, from which, one hydrogen atom has been removed are functional groups called HYDROCARBYLS.[2] Because carbon has 4 electrons in its outermost shell (and because each covalent bond requires a donation of 1 electron, per atom, to the bond) carbon has exactly four bonds to make, and is only stable if all 4 of these bonds are used. Aromatic hydrocarbons (arenes), alkanes, cycloalkanes and alkyne-based compounds are different types of hydrocarbons.
+of the methane molecule, CH₄. Methane is part of a homologous series known as the alkanes, which contain single bonds only.]] In organic chemistry, a HYDROCARBON is an organic compound consisting entirely of hydrogen and carbon.[1] Hydrocarbons are examples of group 14 hydrides. Hydrocarbons, from which, one hydrogen atom has been removed are functional groups called HYDROCARBYLS.[2] Because carbon has 4 electrons in its outermost shell (and because each covalent bond requires a donation of 1 electron, per atom, to the bond) carbon has exactly four bonds to make, and is only stable if all 4 of these bonds are used. Aromatic hydrocarbons (arenes), alkanes, cycloalkanes and alkyne-based compounds are different types of hydrocarbons.
 
 Most hydrocarbons found on Earth naturally occur in crude oil, where decomposed organic matter provides an abundance of carbon and hydrogen which, when bonded, can catenate to form seemingly limitless chains.[3][4]
 
@@ -62,7 +62,7 @@ Simple hydrocarbons and their variations
 
 Usage
 
-ShellMartinez-refi.jpg are one way hydrocarbons are processed for use. Crude oil is processed in several stages to form desired hydrocarbons, used as fuel and in other products.]] 2018-05-04_(303)_Tank_wagon_33_80_7920_362-0_with_hydrocarbon_gas_at_Bahnhof_Enns.jpg Hydrocarbons are a primary energy source for current civilizations. The predominant use of hydrocarbons is as a combustible fuel source. In their solid form, hydrocarbons take the form of asphalt (bitumen).
+are one way hydrocarbons are processed for use. Crude oil is processed in several stages to form desired hydrocarbons, used as fuel and in other products.]] Hydrocarbons are a primary energy source for current civilizations. The predominant use of hydrocarbons is as a combustible fuel source. In their solid form, hydrocarbons take the form of asphalt (bitumen).
 
 Mixtures of volatile hydrocarbons are now used in preference to the chlorofluorocarbons as a propellant for aerosol sprays, due to chlorofluorocarbons' impact on the ozone layer.
 
@@ -128,7 +128,7 @@ Hydrocarbons can also be burned with elemental fluorine, resulting in carbon tet
 
 Petroleum
 
-Korna_natural_oil_seep_1.JPG, Slovakia]]
+, Slovakia]]
 
 Extracted hydrocarbons in a liquid form are referred to as petroleum (literally "rock oil" - petrol for short) or mineral oil, whereas hydrocarbons in a gaseous form are referred to as natural gas. Petroleum and natural gas are found in the Earth's subsurface with the tools of petroleum geology and are a significant source of fuel and raw materials for the production of organic chemicals.
 

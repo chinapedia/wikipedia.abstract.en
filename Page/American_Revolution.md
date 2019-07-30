@@ -11,7 +11,7 @@ Among the significant results of the revolution was the creation of the United S
 
 Origin
 
-Map_of_territorial_growth_1775.svg, the Thirteen Colonies on the Atlantic coast, and the Indian Reserve as defined by the Royal Proclamation of 1763. The border between the red and pink areas represents the 1763 "Proclamation line", while the orange area represents the Spanish claim.]]
+, the Thirteen Colonies on the Atlantic coast, and the Indian Reserve as defined by the Royal Proclamation of 1763. The border between the red and pink areas represents the 1763 "Proclamation line", while the orange area represents the Spanish claim.]]
 
 1651–1748: Early seeds
 
@@ -21,15 +21,13 @@ In the 1680s, King Charles II determined to bring the New England colonies under
 
 Subsequent English governments continued in their efforts to tax certain goods, passing acts regulating the trade of wool,[16] hats,[17] and molasses.[18] The Molasses Act of 1733 in particular was egregious to the colonists, as a significant part of colonial trade relied on the product. The taxes severely damaged the New England economy, and the taxes were rarely paid, resulting in a surge of smuggling, bribery, and intimidation of customs officials.[19] Colonial wars fought in America were often the source of considerable tension. The British captured the fortress of Louisbourg during the War of the Austrian Succession, but then ceded it back to France in 1748. New England colonists resented their losses of lives, as well as the effort and expenditure involved in subduing the fortress, only to have it returned to their erstwhile enemy.[20]
 
-Thumb Historians typically begin their histories of the American Revolution with the British coalition victory in the Seven Years' War in 1763. The North American theater of the Seven Years' War is commonly known as the French and Indian War in the United States; it removed France as a major player in North American affairs and led to the territory of New France being ceded to Great Britain. Lawrence Henry Gipson writes:
+Historians typically begin their histories of the American Revolution with the British coalition victory in the Seven Years' War in 1763. The North American theater of the Seven Years' War is commonly known as the French and Indian War in the United States; it removed France as a major player in North American affairs and led to the territory of New France being ceded to Great Britain. Lawrence Henry Gipson writes:
 
 The Royal Proclamation of 1763 may also have played a role in the separation of the Thirteen Colonies from England, as colonists wanted to continue migrating west to lands awarded by the Crown for their wartime service. The Proclamation, however, cut them off. The lands west of Quebec and west of a line running along the crest of the Allegheny Mountains became Indian territory, barred to settlement for two years.
 
 The colonists protested, and the boundary line was adjusted in a series of treaties with the Indians. In 1768, Indians agreed to the Treaty of Fort Stanwix and the Treaty of Hard Labour, followed in 1770 by the Treaty of Lochaber. The treaties opened most of Kentucky and West Virginia to colonial settlement. The new map was drawn up at the Treaty of Fort Stanwix in 1768 which moved the line much farther to the west, from the green line to the red line on the map at right.[21]
 
 1764–1766: Taxes imposed and withdrawn
-
-Parliament_Stamp_Act1765.jpg
 
 In 1764, Parliament passed the Currency Act to restrain the use of paper money, fearing that otherwise the colonists might evade debt payments.[22] Parliament also passed the Sugar Act, imposing customs duties on a number of articles. That same year, Prime Minister George Grenville proposed direct taxes on the colonies to raise revenue, but he delayed action to see whether the colonies would propose some way to raise the revenue themselves.[23] Parliament finally passed the Stamp Act in March 1765 which imposed direct taxes on the colonies for the first time. All official documents, newspapers, almanacs, and pamphlets were required to have the stamps—even decks of playing cards.
 
@@ -43,7 +41,7 @@ In London, the Rockingham government came to power (July 1765) and Parliament de
 
 1767–1773: Townshend Acts and the Tea Act
 
-Gaspee_Affair.jpg''
+''
 
 ]]
 
@@ -55,7 +53,7 @@ On March 5, 1770, a large crowd gathered around a group of British soldiers. The
 
 A new ministry under Lord North came to power in 1770, and Parliament withdrew all taxes except the tax on tea, giving up its efforts to raise revenue while maintaining the right to tax. This temporarily resolved the crisis, and the boycott of British goods largely ceased, with only the more radical patriots such as Samuel Adams continuing to agitate.
 
-Boston_Tea_Party_Currier_colored.jpg by Nathaniel Currier was entitled _The Destruction of Tea at Boston Harbor_; the phrase "Boston Tea Party" had not yet become standard.[38]
+by Nathaniel Currier was entitled _The Destruction of Tea at Boston Harbor_; the phrase "Boston Tea Party" had not yet become standard.[38]
 
 ]]
 
@@ -71,7 +69,7 @@ Meanwhile, Parliament passed the Tea Act to lower the price of taxed tea exporte
 
 1774–1775: Intolerable Acts and the Quebec Act
 
-The_able_doctor,_or_America_swallowing_the_bitter_draught_(NYPL_Hades-248165-425086).jpg'', copied by Paul Revere of Boston. Prime Minister Lord North, author of the Boston Port Act, forces the Intolerable Acts down the throat of America, whose arms are restrained by Lord Chief Justice Mansfield, while Lord Sandwich pins down her feet and peers up her robes. Behind them, Mother Britannia weeps helplessly, while France and Spain look on.
+'', copied by Paul Revere of Boston. Prime Minister Lord North, author of the Boston Port Act, forces the Intolerable Acts down the throat of America, whose arms are restrained by Lord Chief Justice Mansfield, while Lord Sandwich pins down her feet and peers up her robes. Behind them, Mother Britannia weeps helplessly, while France and Spain look on.
 
 ]]
 
@@ -82,7 +80,7 @@ In response, Massachusetts patriots issued the Suffolk Resolves and formed an al
 
 Military hostilities begin
 
-Benjamin_Franklin_-_Join_or_Die.jpg'' by Benjamin Franklin was recycled to encourage the former colonies to unite against British rule.
+'' by Benjamin Franklin was recycled to encourage the former colonies to unite against British rule.
 
 ]]
 
@@ -121,7 +119,7 @@ The radical provisions of Pennsylvania's constitution lasted only 14 years. In 1
 
 Independence and Union
 
-Johannes_Adam_Simon_Oertel_Pulling_Down_the_Statue_of_King_George_III,_N.Y.C._ca._1859.jpg, _Pulling Down the Statue of King George III, N.Y.C._, ca. 1859]]
+, _Pulling Down the Statue of King George III, N.Y.C._, ca. 1859]]
 
 In April 1776, the North Carolina Provincial Congress issued the Halifax Resolves explicitly authorizing its delegates to vote for independence.[55] By June, nine Provincial Congresses were ready for independence; one by one, the last four fell into line: Pennsylvania, Delaware, Maryland, and New York. Richard Henry Lee was instructed by the Virginia legislature to propose independence, and he did so on June 7, 1776. On June 11, a committee was created to draft a document explaining the justifications for separation from Britain. After securing enough votes for passage, independence was voted for on July 2.
 
@@ -132,7 +130,7 @@ The Second Continental Congress approved the "Articles of Confederation" for rat
 
 Defending the Revolution
 
-Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg's famous 1851 depiction of _Washington Crossing the Delaware_]]
+'s famous 1851 depiction of _Washington Crossing the Delaware_]]
 
 British return: 1776–1777
 
@@ -154,7 +152,7 @@ American alliances after 1778
 
 The capture of a British army at Saratoga encouraged the French to formally enter the war in support of Congress, and Benjamin Franklin negotiated a permanent military alliance in early 1778; France thus became the first foreign nation to officially recognize the Declaration of Independence. On February 6, 1778, the United States and France signed the Treaty of Amity and Commerce and the Treaty of Alliance.[69] William Pitt spoke out in Parliament urging Britain to make peace in America and to unite with America against France, while British politicians who had sympathized with colonial grievances now turned against the Americans for allying with Britain's rival and enemy.[70]
 
-The Spanish and the Dutch became allies of the French in 1779 and 1780 respectively, forcing the British to fight a global war without major allies and requiring it to slip through a combined blockade of the Atlantic. Britain began to view the American war for independence as merely one front in a wider war,[71] and the British chose to withdraw troops from America to reinforce the sugar-producing Caribbean colonies, which were more lucrative to British investors. British commander Sir Henry Clinton evacuated Philadelphia and returned to New York City. General Washington intercepted him in the Battle of Monmouth Court House, the last major battle fought in the north. After an inconclusive engagement, the British retreated to New York City. The northern war subsequently became a stalemate, as the focus of attention shifted to the smaller southern theater.[72] Us_unabhaengigkeitskrieg.jpg troops hired out to the British by their German sovereigns
+The Spanish and the Dutch became allies of the French in 1779 and 1780 respectively, forcing the British to fight a global war without major allies and requiring it to slip through a combined blockade of the Atlantic. Britain began to view the American war for independence as merely one front in a wider war,[71] and the British chose to withdraw troops from America to reinforce the sugar-producing Caribbean colonies, which were more lucrative to British investors. British commander Sir Henry Clinton evacuated Philadelphia and returned to New York City. General Washington intercepted him in the Battle of Monmouth Court House, the last major battle fought in the north. After an inconclusive engagement, the British retreated to New York City. The northern war subsequently became a stalemate, as the focus of attention shifted to the smaller southern theater.[72] troops hired out to the British by their German sovereigns
 
 ]]
 
@@ -166,7 +164,7 @@ Beginning in late December 1778, they captured Savannah and controlled the Georg
 
 Surrender at Yorktown (1781)
 
-John_Trumbull_-_The_Surrender_of_Lord_Cornwallis_at_Yorktown,_October_19,_1781_-_1832.4_-_Yale_University_Art_Gallery.jpg'' by John Trumbull
+'' by John Trumbull
 
 The siege of Yorktown ended with the surrender of a second British army, marking effective British defeat.
 
@@ -185,7 +183,7 @@ Washington did not know whether the British might reopen hostilities after Yorkt
 
 Paris peace treaty
 
-Treaty_of_Paris_by_Benjamin_West_1783.jpg included John Jay, John Adams, Benjamin Franklin, Henry Laurens, and William Temple Franklin. Here they are depicted by Benjamin West in his _American Commissioners of the Preliminary Peace Agreement with Great Britain_. The British delegation refused to pose and the painting was never completed.]] During negotiations in Paris, the American delegation discovered that France supported American independence but no territorial gains, hoping to confine the new nation to the area east of the Appalachian Mountains. The Americans opened direct secret negotiations with London, cutting out the French. British Prime Minister Lord Shelburne was in full charge of the British negotiations, and he saw a chance to make the United States a valuable economic partner.[86] The US obtained all the land east of the Mississippi River, south of Canada, and north of Florida. It gained fishing rights off Canadian coasts, and agreed to allow British merchants and Loyalists to recover their property. Prime Minister Shelburne foresaw highly profitable two-way trade between Britain and the rapidly growing United States, which did come to pass. The blockade was lifted and all British interference had been driven out, and American merchants were free to trade with any nation anywhere in the world.[87]
+included John Jay, John Adams, Benjamin Franklin, Henry Laurens, and William Temple Franklin. Here they are depicted by Benjamin West in his _American Commissioners of the Preliminary Peace Agreement with Great Britain_. The British delegation refused to pose and the painting was never completed.]] During negotiations in Paris, the American delegation discovered that France supported American independence but no territorial gains, hoping to confine the new nation to the area east of the Appalachian Mountains. The Americans opened direct secret negotiations with London, cutting out the French. British Prime Minister Lord Shelburne was in full charge of the British negotiations, and he saw a chance to make the United States a valuable economic partner.[86] The US obtained all the land east of the Mississippi River, south of Canada, and north of Florida. It gained fishing rights off Canadian coasts, and agreed to allow British merchants and Loyalists to recover their property. Prime Minister Shelburne foresaw highly profitable two-way trade between Britain and the rapidly growing United States, which did come to pass. The blockade was lifted and all British interference had been driven out, and American merchants were free to trade with any nation anywhere in the world.[87]
 
 The British largely abandoned their American Indian allies, who were not a party to this treaty and did not recognize it until they were defeated militarily by the United States. However, the British did sell them munitions and maintain forts in American territory until the Jay Treaty of 1795.[88]
 
@@ -196,7 +194,7 @@ Finance
 
 Britain's war against the Americans, the French, and the Spanish cost about £100 million, and the Treasury borrowed 40-percent of the money that it needed.[94] Heavy spending brought France to the verge of bankruptcy and revolution, while the British had relatively little difficulty financing their war, keeping their suppliers and soldiers paid, and hiring tens of thousands of German soldiers.[95] Britain had a sophisticated financial system based on the wealth of thousands of landowners who supported the government, together with banks and financiers in London. The British tax system collected about 12 percent of the GDP in taxes during the 1770s.[96]
 
-Robert_Morris_statue.jpg, Independence National Historical Park ]] In sharp contrast, Congress and the American states had no end of difficulty financing the war.[97] In 1775, there was at most 12 million dollars in gold in the colonies, not nearly enough to cover current transactions, let alone finance a major war. The British made the situation much worse by imposing a tight blockade on every American port, which cut off almost all imports and exports. One partial solution was to rely on volunteer support from militiamen and donations from patriotic citizens.[98][99] Another was to delay actual payments, pay soldiers and suppliers in depreciated currency, and promise that it would be made good after the war. Indeed, the soldiers and officers were given land grants in 1783 to cover the wages that they had earned but had not been paid during the war. The national government did not have a strong leader in financial matters until 1781, when Robert Morris was named Superintendent of Finance of the United States.[100] Morris used a French loan in 1782 to set up the private Bank of North America to finance the war. He reduced the civil list, saved money by using competitive bidding for contracts, tightened accounting procedures, and demanded the national government's full share of money and supplies from the individual states.[101]
+, Independence National Historical Park ]] In sharp contrast, Congress and the American states had no end of difficulty financing the war.[97] In 1775, there was at most 12 million dollars in gold in the colonies, not nearly enough to cover current transactions, let alone finance a major war. The British made the situation much worse by imposing a tight blockade on every American port, which cut off almost all imports and exports. One partial solution was to rely on volunteer support from militiamen and donations from patriotic citizens.[98][99] Another was to delay actual payments, pay soldiers and suppliers in depreciated currency, and promise that it would be made good after the war. Indeed, the soldiers and officers were given land grants in 1783 to cover the wages that they had earned but had not been paid during the war. The national government did not have a strong leader in financial matters until 1781, when Robert Morris was named Superintendent of Finance of the United States.[100] Morris used a French loan in 1782 to set up the private Bank of North America to finance the war. He reduced the civil list, saved money by using competitive bidding for contracts, tightened accounting procedures, and demanded the national government's full share of money and supplies from the individual states.[101]
 
 Congress used four main methods to cover the cost of the war, which cost about 66 million dollars in specie (gold and silver).[102] Congress made issues of paper money in 1775–1780 and in 1780–81. The first issue amounted to 242 million dollars. This paper money would supposedly be redeemed for state taxes, but the holders were eventually paid off in 1791 at the rate of one cent on the dollar. By 1780, the paper money was "not worth a Continental", as people said.[103] The skyrocketing inflation was a hardship on the few people who had fixed incomes, but 90 percent of the people were farmers and were not directly affected by it. Debtors benefited by paying off their debts with depreciated paper. The greatest burden was borne by the soldiers of the Continental Army whose wages were usually in arrears and declined in value every month, weakening their morale and adding to the hardships of their families.[104]
 
@@ -230,7 +228,7 @@ The American Enlightenment was a critical precursor of the American Revolution. 
 
 Liberalism
 
-J_S_Copley_-_Samuel_Adams.jpg, Samuel Adams points at the Massachusetts Charter which he viewed as a constitution that protected the people's rights.[115]
+, Samuel Adams points at the Massachusetts Charter which he viewed as a constitution that protected the people's rights.[115]
 
 ]] John Locke's (1632–1704) ideas on liberty influenced the political thinking behind the revolution, especially through his indirect influence on English writers such as John Trenchard, Thomas Gordon, and Benjamin Hoadly, whose political ideas in turn had a strong influence on the American Patriots.[116] Locke is often referred to as "the philosopher of the American Revolution" due to his work in the Social Contract and Natural Rights theories that underpinned the Revolution's political ideology.[117] Locke's Two Treatises of Government published in 1689 was especially influential. He argued that all humans were created equally free, and governments therefore needed the "consent of the governed".[118] In late eighteenth-century America, belief was still widespread in "equality by creation" and "rights by creation".[119]
 
@@ -244,7 +242,7 @@ The Founding Fathers were strong advocates of republican values, particularly Sa
 
 "Republican motherhood" became the ideal for American women, exemplified by Abigail Adams and Mercy Otis Warren; the first duty of the republican woman was to instill republican values in her children and to avoid luxury and ostentation.[126]
 
-commonsense.jpg's pamphlet _Common Sense_, published in 1776
+'s pamphlet _Common Sense_, published in 1776
 
 ]] Thomas Paine published his pamphlet _Common Sense_ in January 1776, after the Revolution had started. It was widely distributed and often read aloud in taverns, contributing significantly to spreading the ideas of republicanism and liberalism together, bolstering enthusiasm for separation from Great Britain and encouraging recruitment for the Continental Army.[127] Paine offered a solution for Americans who were alarmed by the threat of tyranny.[128]
 
@@ -276,7 +274,7 @@ According to historian Robert Calhoon, 40– to 45-percent of the white populati
 
 Loyalists
 
-Mobbing_the_Tories_-_Project_Gutenberg_eText_16960.jpg The consensus of scholars is that about 15– to 20-percent of the white population remained loyal to the British Crown.[162] Those who actively supported the king were known at the time as "Loyalists", "Tories", or "King's men". The Loyalists never controlled territory unless the British Army occupied it. They were typically older, less willing to break with old loyalties, and often connected to the Church of England; they included many established merchants with strong business connections throughout the Empire, as well as royal officials such as Thomas Hutchinson of Boston.[163] There were 500 to 1,000 black loyalists, slaves who escaped to British lines and joined the British army. Most died of disease, but Britain took the survivors to Canada as free men.
+The consensus of scholars is that about 15– to 20-percent of the white population remained loyal to the British Crown.[162] Those who actively supported the king were known at the time as "Loyalists", "Tories", or "King's men". The Loyalists never controlled territory unless the British Army occupied it. They were typically older, less willing to break with old loyalties, and often connected to the Church of England; they included many established merchants with strong business connections throughout the Empire, as well as royal officials such as Thomas Hutchinson of Boston.[163] There were 500 to 1,000 black loyalists, slaves who escaped to British lines and joined the British army. Most died of disease, but Britain took the survivors to Canada as free men.
 
 The revolution could divide families, such as William Franklin, son of Benjamin Franklin and royal governor of the Province of New Jersey who remained loyal to the Crown throughout the war. He and his father never spoke again.[164] Recent immigrants who had not been fully Americanized were also inclined to support the King, such as Flora MacDonald who was a Scottish settler in the back country.[165]
 
@@ -288,8 +286,6 @@ A minority of uncertain size tried to stay neutral in the war. Most kept a low p
 
 Role of women
 
-Abigail_Adams.jpg
-
 ]]
 
 Women contributed to the American Revolution in many ways and were involved on both sides. Formal politics did not include women, but ordinary domestic behaviors became charged with political significance as Patriot women confronted a war which permeated all aspects of political, civil, and domestic life. They participated by boycotting British goods, spying on the British, following armies as they marched, washing, cooking, and tending for soldiers, delivering secret messages, and even fighting disguised as men in a few cases, such as Deborah Samson. Mercy Otis Warren held meetings in her house and cleverly attacked Loyalists with her creative plays and histories.[170] Above all, women continued the agricultural work at home to feed their families and the armies. They maintained their families during their husbands' absences and sometimes after their deaths.[171]
@@ -299,7 +295,7 @@ American women were integral to the success of the boycott of British goods,[172
 
 Other participants
 
-Erkenning_onafhankelijkheid_Verenigde_Staten_foto2.JPG in 1782 to celebrate The Netherlands' recognition of the United States as an independent nation, one of three coins minted for him; all three are in the coin collection of the Teylers Museum]]
+in 1782 to celebrate The Netherlands' recognition of the United States as an independent nation, one of three coins minted for him; all three are in the coin collection of the Teylers Museum]]
 
 France and Spain
 
@@ -323,7 +319,7 @@ The British did not give up their forts until 1796 in the eastern Midwest, stret
 
 Black Americans
 
-Crispus_Attucks.jpg was an iconic patriot; he was fatally shot by British soldiers in the Boston Massacre of 1770 and is thus considered the first American killed in the Revolution]] Free blacks in the North and South fought on both sides of the Revolution, but most fought for the Patriots. Gary Nash reports that there were about 9,000 black Patriots, counting the Continental Army and Navy, state militia units, privateers, wagoneers in the Army, servants to officers, and spies.[187] Ray Raphael notes that thousands did join the Loyalist cause, but "a far larger number, free as well as slave, tried to further their interests by siding with the patriots."[188] Crispus Attucks was shot dead by British soldiers in the Boston Massacre in 1770 and is considered the first American casualty of the Revolutionary War.
+was an iconic patriot; he was fatally shot by British soldiers in the Boston Massacre of 1770 and is thus considered the first American killed in the Revolution]] Free blacks in the North and South fought on both sides of the Revolution, but most fought for the Patriots. Gary Nash reports that there were about 9,000 black Patriots, counting the Continental Army and Navy, state militia units, privateers, wagoneers in the Army, servants to officers, and spies.[187] Ray Raphael notes that thousands did join the Loyalist cause, but "a far larger number, free as well as slave, tried to further their interests by siding with the patriots."[188] Crispus Attucks was shot dead by British soldiers in the Boston Massacre in 1770 and is considered the first American casualty of the Revolutionary War.
 
 Many black slaves sided with the Loyalists. Tens of thousands in the South used the turmoil of war to escape, and the southern plantation economies of South Carolina and Georgia were disrupted in particular. During the Revolution, the British tried to turn slavery against the Americans.[189] Historian David Brion Davis explains the difficulties with a policy of wholesale arming of the slaves:
 
@@ -356,7 +352,7 @@ Inspiring all colonies
 
 After the Revolution, genuinely democratic politics became possible in the former colonies.[209] The rights of the people were incorporated into state constitutions. Concepts of liberty, individual rights, equality among men and hostility toward corruption became incorporated as core values of liberal republicanism. The greatest challenge to the old order in Europe was the challenge to inherited political power and the democratic idea that government rests on the consent of the governed. The example of the first successful revolution against a European empire, and the first successful establishment of a republican form of democratically elected government, provided a model for many other colonial peoples who realized that they too could break away and become self-governing nations with directly elected representative government.[210]
 
-Benjamin_Franklin_by_Jean-Baptiste_Greuze.jpg]] The Dutch Republic, also at war with Britain, was the next country to sign a treaty with the United States, on October 8, 1782.[211] On April 3, 1783, Ambassador Extraordinary Gustaf Philip Creutz, representing King Gustav III of Sweden, and Benjamin Franklin, signed a Treaty of Amity and Commerce with the U.S.[212]
+]] The Dutch Republic, also at war with Britain, was the next country to sign a treaty with the United States, on October 8, 1782.[211] On April 3, 1783, Ambassador Extraordinary Gustaf Philip Creutz, representing King Gustav III of Sweden, and Benjamin Franklin, signed a Treaty of Amity and Commerce with the U.S.[212]
 
 The American Revolution was the first wave of the Atlantic Revolutions: the French Revolution, the Haitian Revolution, and the Latin American wars of independence. Aftershocks reached Ireland in the Irish Rebellion of 1798, in the Polish–Lithuanian Commonwealth, and in the Netherlands.[213][214]
 
@@ -386,7 +382,7 @@ While no southern state abolished slavery, for a period individual owners could 
 
 Commemorations
 
-American_revolution_bicentennial.svg logo]] The American Revolution has a central place in the American memory[224] as the story of the nation's founding. It is covered in the schools, memorialized by a national holiday, and commemorated in innumerable monuments. George Washington's estate at Mount Vernon was one of the first national pilgrimages for tourists and attracted 10,000 visitors a year by the 1850s.[225]
+logo]] The American Revolution has a central place in the American memory[224] as the story of the nation's founding. It is covered in the schools, memorialized by a national holiday, and commemorated in innumerable monuments. George Washington's estate at Mount Vernon was one of the first national pilgrimages for tourists and attracted 10,000 visitors a year by the 1850s.[225]
 
 The Revolution became a matter of contention in the 1850s in the debates leading to the American Civil War (1861–65), as spokesmen of both the Northern United States and the Southern United States claimed that their region was the true custodian of the legacy of 1776.[226] The United States Bicentennial in 1976 came a year after the American withdrawal from the Vietnam War, and speakers stressed the themes of renewal and rebirth based on a restoration of traditional values.[227]
 

@@ -1,11 +1,11 @@
-Indigo_skeletal.svg, the blue coloration of blue jeans. Once extracted from plants, indigo dye is almost exclusively synthesized industrially.[1]]] Conner-prairie-yarn-drying.jpg living history museum.]] A DYE is a coloured substance that chemically bonds to the substrate to which it is being applied, this distinguishes dyes from pigments which do not chemically bind to the material they colour. The dye is generally applied in an aqueous solution, and may require a mordant to improve the fastness of the dye on the fiber.[2]
+, the blue coloration of blue jeans. Once extracted from plants, indigo dye is almost exclusively synthesized industrially.[1]]] living history museum.]] A DYE is a coloured substance that chemically bonds to the substrate to which it is being applied, this distinguishes dyes from pigments which do not chemically bind to the material they colour. The dye is generally applied in an aqueous solution, and may require a mordant to improve the fastness of the dye on the fiber.[2]
 
 Both dyes and pigments are colored, because they absorb only some wavelengths of visible light. Dyes are usually soluble in water whereas pigments are insoluble. Some dyes can be rendered insoluble with the addition of salt to produce a lake pigment.
 
 
 Natural vs synthetic
 
-Dyeing_British_Library_Royal_MS_15.E.iii,_f._269_1482.jpg]] The majority of natural dyes are derived from plant sources: roots, berries, bark, leaves, wood, fungi and lichens.[3] Most dyes are synthetic, i.e., are man-made from petrochemicals. Other than pigmentation, they have a range of applications including organic dye lasers,[4] optical media (CD-R) and camera sensors (color filter array).
+]] The majority of natural dyes are derived from plant sources: roots, berries, bark, leaves, wood, fungi and lichens.[3] Most dyes are synthetic, i.e., are man-made from petrochemicals. Other than pigmentation, they have a range of applications including organic dye lasers,[4] optical media (CD-R) and camera sensors (color filter array).
 
 
 History
@@ -16,7 +16,7 @@ Dyed flax fibers have been found in the Republic of Georgia in a prehistoric cav
 
 The first synthetic dye, mauve, was discovered serendipitously by William Henry Perkin in 1856.[9][10] The discovery of mauveine started a surge in synthetic dyes and in organic chemistry in general. Other aniline dyes followed, such as fuchsine, safranine, and induline. Many thousands of synthetic dyes have since been prepared.[11][12][13] The discovery of mauve also led to developments within immunology and chemotherapy. In 1891 Paul Ehrlich discovered that certain cells or organisms took up certain dyes selectively. He then reasoned that a sufficiently large dose could be injected to kill pathogenic microorganisms, if the dye did not affect other cells. Erlich went on to use a compound to target syphillis, the first time a chemical was used in order to selectively kill bacteria in the body, he also used methylene blue to target the plasmodium responsible for malaria.[14]
 
-Blick_in_Farbstoffsammlung_01.JPG]]
+]]
 
 
 Chemistry
@@ -26,7 +26,7 @@ The colour of a dye is dependent upon the ability of the substance to absorb lig
 
 Types
 
-RITdye.JPG]] Hårfärgning_-_2007.jpg dyeing her hair.]] Dyes are classified according to their solubility and chemical properties.[16]
+]] dyeing her hair.]] Dyes are classified according to their solubility and chemical properties.[16]
 
 ACID DYES are water-soluble anionic dyes that are applied to fibers such as silk, wool, nylon and modified acrylic fibers using neutral to acid dye baths. Attachment to the fiber is attributed, at least partly, to salt formation between anionic groups in the dyes and cationic groups in the fiber. Acid dyes are not substantive to cellulosic fibers. Most synthetic food colors fall in this category. Examples of acid dye are Alizarine Pure Blue B, Acid red 88, etc.
 

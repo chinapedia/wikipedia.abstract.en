@@ -1,4 +1,4 @@
-Gdynia_Dworzec_Morski.jpg Sea_Towers_Skwer.jpg on the left, Sea Towers on the right]]
+on the left, Sea Towers on the right]]
 
 GDYNIA (, 1939-1945 _Gotenhafen_; ) is a city in the Pomeranian Voivodeship of Poland and a seaport of Gdańsk Bay on the south coast of the Baltic Sea. Located in Kashubia in Eastern Pomerania, Gdynia has a population of 246,309 making it the twelfth-largest city in Poland and the second-largest in the voivodeship after Gdańsk.[1] It is part of a conurbation with the spa town of Sopot, the city of Gdańsk and suburban communities, which together form a metropolitan area called the Tricity (_Trójmiasto_), with a population of over a million people.
 
@@ -13,7 +13,7 @@ Gdynia hosts the Gdynia Film Festival, the main Polish film festival, and was th
 
 History
 
-Muzeum_Miasta_Gdyni_01.jpg The area of the later city of Gdynia shared its history with Pomerelia (Eastern Pomerania); in prehistoric times it was the center of Oksywie culture; it was later populated by Slavs with some Baltic Prussian influences.
+The area of the later city of Gdynia shared its history with Pomerelia (Eastern Pomerania); in prehistoric times it was the center of Oksywie culture; it was later populated by Slavs with some Baltic Prussian influences.
 
 -   Late 10th century: Pomerelia was united with Poland.[4]
 -   During the reign of Mieszko II Pomerelia seceded from Poland and became independent.
@@ -42,7 +42,7 @@ The decision to build a major seaport at Gdynia village was made by the Polish g
 
 Construction of Gdynia seaport started in 1921[10] but, because of financial difficulties, it was conducted slowly and with interruptions. It was accelerated after the Sejm (Polish parliament) passed the _Gdynia Seaport Construction Act_ on 23 September 1922. By 1923 a 550-metre pier, of a wooden tide breaker, and a small harbour had been constructed. Ceremonial inauguration of Gdynia as a temporary military port and fishers' shelter took place on 23 April 1923. The first major seagoing ship arrived on 13 August 1923.
 
-Gdynia_stefan_zeromski_house.JPG in Orłowo]]
+in Orłowo]]
 
 To speed up the construction works, the Polish government in November 1924 signed a contract with the French-Polish Consortium for Gdynia Seaport Construction. By the end of 1925, they had built a small seven-metre-deep harbour, the south pier, part of the north pier, a railway, and had ordered the trans-shipment equipment. The works were going more slowly than expected, however. They accelerated only after May 1926, because of an increase in Polish exports by sea, economic prosperity, the outbreak of the German–Polish trade war which reverted most Polish international trade to sea routes, and thanks to the personal engagement of Eugeniusz Kwiatkowski, Polish Minister of Industry and Trade (also responsible for construction of Centralny Okręg Przemysłowy). By the end of 1930 docks, piers, breakwaters, and many auxiliary and industrial installations were constructed (such as depots, trans-shipment equipment, and a rice processing factory) or started (such as a large cold store).
 
@@ -61,7 +61,7 @@ File:Plac Kaszubski, Gdynia1.jpg|_Plac Kaszubski_ - one of the main squares in t
 
 Gdynia during World War II (1939–1945)
 
-Blyskawica_l_d.jpg]] Dworzec_Gdynia_Główna_z_pl._Konst._(2).JPG The city and seaport were occupied in September 1939 by German troops and renamed _Gotenhafen_ after the Goths, an ancient Germanic tribe, who had lived in the area. Some 50,000 Polish citizens, who after 1920 had been brought into the area by the Polish government after the decision to enlarge the harbour was made, were expelled to the General Government. Kashubians who were suspected to support the Polish cause, particularly those with higher education, were arrested and executed. The main place of execution was Piaśnica (Groß Plaßnitz), where about 12,000 were executed. The German gauleiter Albert Forster considered Kashubians of "low value" and did not support any attempts to create a Kashubian nationality. Some Kashubians organized anti-Nazi resistance groups, "Gryf Kaszubski" (later "Gryf Pomorski"), and the exiled "Zwiazek Pomorski" in Great Britain.
+]] The city and seaport were occupied in September 1939 by German troops and renamed _Gotenhafen_ after the Goths, an ancient Germanic tribe, who had lived in the area. Some 50,000 Polish citizens, who after 1920 had been brought into the area by the Polish government after the decision to enlarge the harbour was made, were expelled to the General Government. Kashubians who were suspected to support the Polish cause, particularly those with higher education, were arrested and executed. The main place of execution was Piaśnica (Groß Plaßnitz), where about 12,000 were executed. The German gauleiter Albert Forster considered Kashubians of "low value" and did not support any attempts to create a Kashubian nationality. Some Kashubians organized anti-Nazi resistance groups, "Gryf Kaszubski" (later "Gryf Pomorski"), and the exiled "Zwiazek Pomorski" in Great Britain.
 
 The harbour was transformed into a German naval base. The shipyard was expanded in 1940 and became a branch of the Kiel shipyard (_Deutsche Werke Kiel A.G._). Gotenhafen became an important base, due to its being relatively distant from the war theater, and many German large ships—battleships and heavy cruisers—were anchored there. During 1942, Dr Joseph Goebbels authorized relocation of to Gotenhafen Harbour as a stand-in for during filming of the German-produced movie _Titanic_, directed by Herbert Selpin.
 
@@ -126,7 +126,7 @@ _Osiedles_: Bernadowo, Brzozowa Góra, Chwarzno, Dąbrówka, Demptowo, Dębowa G
 
 Sights and tourist attractions
 
-Gdynia,_Kościół_św._Michała_Archanioła_-_fotopolska.eu_(344483).jpg Gdynia_pier.JPG Gdynia_fountains.JPG Gdynia is a relatively modern city.[13] Its architecture includes the 13th century St. Michael the Archangel's Church in Oksywie, the oldest building in Gdynia, and the 17th century neo-Gothic manor house located on Folwarczna Street in Orłowo. The city also holds many examples of early 20th-century architecture, especially monumentalism and early functionalism, and modernism.[14] A good example of modernism is PLO building situated at 10 Lutego Street.
+Gdynia is a relatively modern city.[13] Its architecture includes the 13th century St. Michael the Archangel's Church in Oksywie, the oldest building in Gdynia, and the 17th century neo-Gothic manor house located on Folwarczna Street in Orłowo. The city also holds many examples of early 20th-century architecture, especially monumentalism and early functionalism, and modernism.[14] A good example of modernism is PLO building situated at 10 Lutego Street.
 
 The surrounding hills and the coastline attract many nature lovers. A leisure pier and a cliff-like coastline in Kępa Redłowska, as well as the surrounding Nature Reserve, are also popular locations. In the harbour, there are two anchored museum ships, the destroyer and the tall ship frigate _Dar Pomorza_.[15] A -long promenade leads from the marina in the city centre, to the beach in Redłowo.[16]
 
@@ -151,7 +151,7 @@ Gdynia is sometimes called "Polish Roswell" due to the alleged UFO crash on Janu
 
 Notable people
 
-2018_-_Pol’and’Rock_Festival_-_Jacek_Fedorowicz_05.jpg, 2018]] Senyszyn,_Joanna-2405.jpg, 2018]]
+, 2018]] , 2018]]
 
 -   Stanisław Baranowski (1935–1978) a Polish glaciologist, undertook scientific expeditions to Spitsbergen and Antarctica.
 -   Karol Olgierd Borchardt (1905–1986) a Polish writer and captain of the Polish Merchant Marine
@@ -181,7 +181,7 @@ Notable people
 
 Sport
 
-Jans_Ignacik_RG16_(1)_(27369353346).jpg, 2016]] 20160814_Basketball_ÖBV_Vier-Nationen-Turnier_4428.jpg, 2016]]
+, 2016]] , 2016]]
 
 -   Jörg Berger (1944–2010), German soccer player, trainer
 -   Adelajda Mroske (1944–1975) a Polish speed skater, she competed in four events at the 1964 Winter Olympics
@@ -218,7 +218,7 @@ Fictional characters
 
 Sports
 
-Stadion_GOSiR.jpg]] Red_Bull_Air_Race_Gdynia_-_2014.JPG SPORT TEAMS
+]] SPORT TEAMS
 
 -   Arka Gdynia – men's football team (Polish Cup winner 1979 and 2017, Polish SupeCup winner in 2017 and in 2018 Currently plays in the first division of Polish football, the Ekstraklasa)
 -   Bałtyk Gdynia – men's football team, currently playing in Polish 4rd division
@@ -236,7 +236,7 @@ International events
 
 Economy and infrastructure
 
-Stocznia_gdynia.jpg]] NOTABLE COMPANIES THAT HAVE THEIR HEADQUARTERS OR REGIONAL OFFICES IN GDYNIA:
+]] NOTABLE COMPANIES THAT HAVE THEIR HEADQUARTERS OR REGIONAL OFFICES IN GDYNIA:
 
 -   PROKOM SA – the largest Polish I.T. company
 -   C. Hartwig Gdynia SA – one of the largest Polish freight forwarders
@@ -253,7 +253,7 @@ FORMER:
 
 Transport
 
-Basen-portowy-gdynia.jpg]] 160222-SA133-029-Gdynia-0.jpg of the Tricity Fast Urban Railways (SKM) departing from Gdynia]]
+]] of the Tricity Fast Urban Railways (SKM) departing from Gdynia]]
 
 Port of Gdynia
 
@@ -276,7 +276,7 @@ The principal station in Gdynia is Gdynia Główna railway station, and Gdynia h
 
 Education
 
-Gdynia-_Dom_Żeglarza_Polskiego_(4).JPG There are currently 8 universities and institutions of higher education based in Gdynia. Many students from Gdynia attend also universities located in the Tricity.
+There are currently 8 universities and institutions of higher education based in Gdynia. Many students from Gdynia attend also universities located in the Tricity.
 
 -   State-owned:
     -   Gdynia Maritime University

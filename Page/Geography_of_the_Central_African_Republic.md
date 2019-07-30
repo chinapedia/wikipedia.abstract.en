@@ -1,4 +1,4 @@
-Un-central-african-republic.png]] LocationCentralAfricanRepublic.svg
+]]
 
 The Central African Republic is a landlocked nation within the interior of the African continent. It is bordered by the countries of Cameroon, Chad, Sudan, South Sudan, the Democratic Republic of the Congo and the Republic of the Congo. Much of the country consists of flat, or rolling plateau savanna, about above sea level. In the northeast are the Fertit Hills, and there are scattered hills in the southwestern part of the country. To the northwest are the Karre Mountains (also known as Yade Massif), a granite plateau with an altitude of .
 
@@ -15,8 +15,6 @@ The climate of the C.A.R. is generally tropical. The northern areas are subject 
 
 
 Notes
-
-Koppen-Geiger_Map_CAF_present.svg Satellite_map_of_the_Central_African_Republic.png Central_African_Republic_Topography.png
 
 LOCATION: Central Africa, north of Democratic Republic of the Congo
 

@@ -10,7 +10,7 @@ Although the Portuguese arrived on Cameroon's doorstep in the 16th century, mala
 
 Colonization
 
-German_building_at_Ambam.jpg, today used as a school]] CAMEROON OVER TIME Bundesarchiv_Bild_163-051,_Kamerun,_Weihnachten_am_Mungo.jpg in Kamerun]]
+, today used as a school]] in Kamerun]]
 
     _Further information: German Kamerun, French Cameroun, British Cameroons_
 
@@ -43,7 +43,7 @@ On 12 November 1958, having accorded French Cameroon total internal autonomy and
 
 British Cameroon
 
-Cameroon_boundary_changes.PNG}} ]] The area of present-day Cameroon was claimed by Germany as a protectorate during the "Scramble for Africa" at the end of the 19th century. The German Empire named the territory Kamerun.
+}} ]] The area of present-day Cameroon was claimed by Germany as a protectorate during the "Scramble for Africa" at the end of the 19th century. The German Empire named the territory Kamerun.
 
 League of Nations Mandate
 
@@ -62,7 +62,7 @@ Northern Cameroons became the Sardauna Province of Northern Nigeria[16] on 31 Ma
 
 Cameroon after independence
 
-Flag_of_Cameroon_(1961-1975).svg Monument_Reunification.jpg in Yaoundé]]
+in Yaoundé]]
 
 French Cameroon achieved independence on January 1, 1960 as LA REPUBLIQUE DU CAMEROUN. After Guinea, it was the second of France's colonies in Sub-Saharan Africa to become independent. On 21 February 1960, the new nation held a constitutional referendum. On 5 May 1960, Ahmadou Ahidjo became president. On 11 February 1961, a plebiscite organised by the United Nations was held in the British controlled part of Cameroon (British Northern and British Southern Cameroons). The pleibiscite was to choose between free association with an independent Nigerian state or re-unification with the independent Republic of Cameroun. On 12 February 1961,the results of the plebiscite were released and British Northern Cameroons attached itself to Nigeria, while the southern part voted for reunification with the Republic Of Cameroon. To negotiate the terms of this union, the Foumban Conference was held on 16–21 July 1961. John Ngu Foncha, the leader of the Kamerun National Democratic Party . The British Southern Cameroons was to be referred to as West Cameroon and the French part as East Cameroon. Buea became the capital of the now West Cameroon while Yaounde doubled as the federal capital and East Cameroon. Ahidjo accepted the federation, thinking it was a step towards a unitary state. On 14 August 1961, the federal constitution was adopted, with Ahidjo as president. Foncha became the prime minister of west Cameroon and vice president of the Federal Republic of Cameroon. On 1 September 1966 the Cameroon National Union (CNU) was created by the union of political parties of East and West Cameroon. Most decisions about West Cameroon were taken without consultation, which led to widespread feelings amongst the West Cameroonian public that although they voted for reunification, what they were getting is absorption or domination".[17]
 

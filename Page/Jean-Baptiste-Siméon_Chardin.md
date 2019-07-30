@@ -1,4 +1,4 @@
-Chardin_pastel_selfportrait.jpg, Musée du Louvre, Paris]]
+, Musée du Louvre, Paris]]
 
 JEAN-BAPTISTE-SIMÉON CHARDIN (; November 2, 1699 – December 6, 1779[1]) was an 18th-century French painter. He is considered a master of still life,[2] and is also noted for his genre paintings which depict kitchen maids, children, and domestic activities. Carefully balanced composition, soft diffusion of light, and granular impasto characterize his work.
 
@@ -9,13 +9,13 @@ Chardin was born in Paris, the son of a cabinetmaker, and rarely left the city. 
 
 Chardin entered into a marriage contract with Marguerite Saintard in 1723, whom he did not marry until 1731.[4] He served apprenticeships with the history painters Pierre-Jacques Cazes and Noël-Nicolas Coypel, and in 1724 became a master in the Académie de Saint-Luc.
 
-Jean-Baptiste_Siméon_Chardin_007.jpg'', 1728, Musée du Louvre, Paris]]
+'', 1728, Musée du Louvre, Paris]]
 
 According to one nineteenth-century writer, at a time when it was hard for unknown painters to come to the attention of the Royal Academy, he first found notice by displaying a painting at the "small Corpus Christi" (held eight days after the regular one) on the Place Dauphine (by the Pont Neuf). Van Loo, passing by in 1720, bought it and later assisted the young painter.[5]
 
 Upon presentation of _The Ray_ in 1728, he was admitted to the Académie Royale de Peinture et de Sculpture. The following year he ceded his position in the Académie de Saint-Luc. He made a modest living by "produc[ing] paintings in the various genres at whatever price his customers chose to pay him",[6] and by such work as the restoration of the frescoes at the Galerie François I at Fontainebleau in 1731.[7] In November 1731 his son Jean-Pierre was baptized, and a daughter, Marguerite-Agnès, was baptized in 1733. In 1735 his wife Marguerite died, and within two years Marguerite-Agnès had died as well.[8]
 
-Jean_Siméon_Chardin_-_Retrato_de_Auguste_Gabriel_Godefroy.jpg'', c. 1735, oil on canvas, São Paulo Museum of Art]]
+'', c. 1735, oil on canvas, São Paulo Museum of Art]]
 
 Beginning in 1737 Chardin exhibited regularly at the Salon. He would prove to be a "dedicated academician",[9] regularly attending meetings for fifty years, and functioning successively as counsellor, treasurer, and secretary, overseeing in 1761 the installation of Salon exhibitions.[10]
 
@@ -28,15 +28,13 @@ In 1772 Chardin's son, also a painter, drowned in Venice, a probable suicide.[16
 
 Work
 
-Jean-Baptiste_Siméon_Chardin_017.jpg'', ca. 1738, Alte Pinakothek]]
+'', ca. 1738, Alte Pinakothek]]
 
 Chardin worked very slowly and painted only slightly more than 200 pictures (about four a year) in total.[17]
 
-Chardin's work had little in common with the Rococo painting that dominated French art in the 18th century. At a time when history painting was considered the supreme classification for public art, Chardin's subjects of choice were viewed as minor categories.[18] He favored simple yet beautifully textured still lifes, and sensitively handled domestic interiors and genre paintings. Simple, even stark, paintings of common household items (_Still Life with a Smoker's Box_) and an uncanny ability to portray children's innocence in an unsentimental manner (_Boy with a Top_ [right]) nevertheless found an appreciative audience in his time, and account for his timeless appeal. Jean-Siméon_Chardin,_Boy_Building_a_House_of_Cards,_1735_at_Waddesdon_Manor.jpg]] Largely self-taught, Chardin was greatly influenced by the realism and subject matter of the 17th-century Low Country masters. Despite his unconventional portrayal of the ascendant bourgeoisie, early support came from patrons in the French aristocracy, including Louis XV. Though his popularity rested initially on paintings of animals and fruit, by the 1730s he introduced kitchen utensils into his work (_The Copper Cistern_, ca. 1735, Louvre). Soon figures populated his scenes as well, supposedly in response to a portrait painter who challenged him to take up the genre.[19] _Woman Sealing a Letter_ (ca. 1733), which may have been his first attempt,[20] was followed by half-length compositions of children saying grace, as in _Le Bénédicité_, and kitchen maids in moments of reflection. These humble scenes deal with simple, everyday activities, yet they also have functioned as a source of documentary information about a level of French society not hitherto considered a worthy subject for painting.[21] The pictures are noteworthy for their formal structure and pictorial harmony.[22] Chardin said about painting, "Who said one paints with colors? One _employs_ colors, but one paints with _feeling_." [23]
+Chardin's work had little in common with the Rococo painting that dominated French art in the 18th century. At a time when history painting was considered the supreme classification for public art, Chardin's subjects of choice were viewed as minor categories.[18] He favored simple yet beautifully textured still lifes, and sensitively handled domestic interiors and genre paintings. Simple, even stark, paintings of common household items (_Still Life with a Smoker's Box_) and an uncanny ability to portray children's innocence in an unsentimental manner (_Boy with a Top_ [right]) nevertheless found an appreciative audience in his time, and account for his timeless appeal. ]] Largely self-taught, Chardin was greatly influenced by the realism and subject matter of the 17th-century Low Country masters. Despite his unconventional portrayal of the ascendant bourgeoisie, early support came from patrons in the French aristocracy, including Louis XV. Though his popularity rested initially on paintings of animals and fruit, by the 1730s he introduced kitchen utensils into his work (_The Copper Cistern_, ca. 1735, Louvre). Soon figures populated his scenes as well, supposedly in response to a portrait painter who challenged him to take up the genre.[19] _Woman Sealing a Letter_ (ca. 1733), which may have been his first attempt,[20] was followed by half-length compositions of children saying grace, as in _Le Bénédicité_, and kitchen maids in moments of reflection. These humble scenes deal with simple, everyday activities, yet they also have functioned as a source of documentary information about a level of French society not hitherto considered a worthy subject for painting.[21] The pictures are noteworthy for their formal structure and pictorial harmony.[22] Chardin said about painting, "Who said one paints with colors? One _employs_ colors, but one paints with _feeling_." [23]
 
 A child playing was a favourite subject of Chardin. He depicted an adolescent building a house of cards on at least four occasions. The version at Waddesdon Manor is the most elaborate. Scenes such as these derived from 17th-century Netherlandish vanitas works, which bore messages about the transitory nature of human life and the worthlessness of material ambitions, but Chardin's also display a delight in the ephemeral phases of childhood for their own sake.[24]
-
-Jean-Baptiste_Siméon_Chardin_029.jpg
 
 Chardin frequently painted replicas of his compositions—especially his genre paintings, nearly all of which exist in multiple versions which in many cases are virtually indistinguishable.[25] Beginning with _The Governess_ (1739, in the National Gallery of Canada, Ottawa), Chardin shifted his attention from working-class subjects to slightly more spacious scenes of bourgeois life.[26]
 
@@ -45,7 +43,7 @@ In 1756 Chardin returned to the subject of the still life. In the 1770s his eyes
 
 Influence
 
-Souvenir_MET_DP169562.jpg Chardin's influence on the art of the modern era was wide-ranging, and has been well-documented.[29] Édouard Manet's half-length _Boy Blowing Bubbles_ and the still lifes of Paul Cézanne are equally indebted to their predecessor.[30] He was one of Henri Matisse's most admired painters; as an art student Matisse made copies of four Chardin paintings in the Louvre.[31] Chaim Soutine's still lifes looked to Chardin for inspiration, as did the paintings of Georges Braque, and later, Giorgio Morandi.[32] In 1999 Lucian Freud painted and etched several copies after _The Young Schoolmistress_ (National Gallery, London).[33]
+Chardin's influence on the art of the modern era was wide-ranging, and has been well-documented.[29] Édouard Manet's half-length _Boy Blowing Bubbles_ and the still lifes of Paul Cézanne are equally indebted to their predecessor.[30] He was one of Henri Matisse's most admired painters; as an art student Matisse made copies of four Chardin paintings in the Louvre.[31] Chaim Soutine's still lifes looked to Chardin for inspiration, as did the paintings of Georges Braque, and later, Giorgio Morandi.[32] In 1999 Lucian Freud painted and etched several copies after _The Young Schoolmistress_ (National Gallery, London).[33]
 
 Marcel Proust, in the chapter "How to open your eyes?" from _In Search of Lost Time_ (_À la recherche du temps perdu_), describes a melancholic young man sitting at his simple breakfast table. The only comfort he finds is in the imaginary ideas of beauty depicted in the great masterpieces of the Louvre, materializing fancy palaces, rich princes, and the like. The author tells the young man to follow him to another section of the Louvre where the pictures of Jean-Baptiste Chardin are. There he would see the beauty in still life at home and in everyday activities like peeling turnips.
 

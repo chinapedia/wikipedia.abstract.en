@@ -5,7 +5,7 @@ The families of Cyprinodontiformes can be divided into three groups: viviparous 
 
 Description
 
-Fundulopanchax_scheeli.png'', a killifish of the family Aplocheilidae.]] Some members of this order are notable for inhabiting extreme environments, such as saline or very warm waters, water of poor quality, rain water pools devoid of minerals and made acidic by decaying vegetation, or isolated situations where no other types of fish occur.
+'', a killifish of the family Aplocheilidae.]] Some members of this order are notable for inhabiting extreme environments, such as saline or very warm waters, water of poor quality, rain water pools devoid of minerals and made acidic by decaying vegetation, or isolated situations where no other types of fish occur.
 
 They are typically carnivores, and often live near the surface, where the oxygen-rich water compensates for environmental disadvantages. Scheel (1968) observed the gut contents were invariably ants, others have reported insects, worms and aquatic crustaceans. Aquarium specimens are invariably seen eating protozoans from the water column and the surfaces of leaves, however these are not apparent as stomach contents. North American "pupfish" eat plant material as well and some have adapted to a diet very high in algae to the point where one, the American Flag Fish is well known to eat algae especially thread algae in the aquarium, despite being in a family of fishes that do not generally consume any plant material. Although even this is a slight misnomer and killifish derive from some foods the carotenoids and other chemicals required to make these pigments which come from pollen grains from on the surface of and in the gut of insects they eat from the surface of the water, simulated in culture by the use of special color enhancing foods that contain them similar the same case with red factor canaries.
 
@@ -14,7 +14,7 @@ They are small to medium-sized fish, with small mouths, large eyes, a single dor
 
 Systematics
 
-Guppy-male.jpg, a live-bearer of the Poeciliidae]] CYPRINODONTIFORMES
+, a live-bearer of the Poeciliidae]] CYPRINODONTIFORMES
 
 -   Suborder Aplocheiloidei (all oviparous)
     -   Family Aplocheilidae – African, Asian and South American killifishes [4]

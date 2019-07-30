@@ -67,7 +67,7 @@ Pentavalent ammonia is known as λ⁵-amine, or more commonly, ammonium hydride.
 
 Ammonia as a ligand
 
-Tetraamminediaquacopper(II)-3D-balls.png of the tetraamminediaquacopper(II) cation, [Cu(NH₃)₄(H₂O)₂]²⁺]] Ammonia can act as a ligand in transition metal complexes. It is a pure σ-donor, in the middle of the spectrochemical series, and shows intermediate hard-soft behaviour. For historical reasons, ammonia is named AMMINE in the nomenclature of coordination compounds. Some notable ammine complexes include tetraamminediaquacopper(II) ([Cu(NH₃)₄(H₂O)₂]²⁺), a dark blue complex formed by adding ammonia to a solution of copper(II) salts. Tetraamminediaquacopper(II) hydroxide is known as Schweizer's reagent, and has the remarkable ability to dissolve cellulose. Diamminesilver(I) ([Ag(NH₃)₂]⁺) is the active species in Tollens' reagent. Formation of this complex can also help to distinguish between precipitates of the different silver halides: silver chloride (AgCl) is soluble in dilute (2M) ammonia solution, silver bromide (AgBr) is only soluble in concentrated ammonia solution, whereas silver iodide (AgI) is insoluble in aqueous ammonia.
+of the tetraamminediaquacopper(II) cation, [Cu(NH₃)₄(H₂O)₂]²⁺]] Ammonia can act as a ligand in transition metal complexes. It is a pure σ-donor, in the middle of the spectrochemical series, and shows intermediate hard-soft behaviour. For historical reasons, ammonia is named AMMINE in the nomenclature of coordination compounds. Some notable ammine complexes include tetraamminediaquacopper(II) ([Cu(NH₃)₄(H₂O)₂]²⁺), a dark blue complex formed by adding ammonia to a solution of copper(II) salts. Tetraamminediaquacopper(II) hydroxide is known as Schweizer's reagent, and has the remarkable ability to dissolve cellulose. Diamminesilver(I) ([Ag(NH₃)₂]⁺) is the active species in Tollens' reagent. Formation of this complex can also help to distinguish between precipitates of the different silver halides: silver chloride (AgCl) is soluble in dilute (2M) ammonia solution, silver bromide (AgBr) is only soluble in concentrated ammonia solution, whereas silver iodide (AgI) is insoluble in aqueous ammonia.
 
 Ammine complexes of chromium(III) were known in the late 19th century, and formed the basis of Alfred Werner's revolutionary theory on the structure of coordination compounds. Werner noted only two isomers (_fac_- and _mer_-) of the complex [CrCl₃(NH₃)₃] could be formed, and concluded the ligands must be arranged around the metal ion at the vertices of an octahedron. This proposal has since been confirmed by X-ray crystallography.
 
@@ -91,7 +91,7 @@ Ammoniacal nitrogen (NH₃-N) is a measure commonly used for testing the quantit
 
 History
 
-Ammoniak_Reaktor_BASF.jpg in Ludwigshafen and was re-erected on the premises of the University of Karlsruhe in Germany.]] The ancient Greek historian Herodotus mentioned that there were outcrops of salt in an area of Libya that was inhabited by a people called the "Ammonians" (now: the Siwa oasis in northwestern Egypt, where salt lakes still exist).[21]The land of the Ammonians is mentioned elsewhere in Herodotus' _History_ and in Pausanias' _Description of Greece_:
+in Ludwigshafen and was re-erected on the premises of the University of Karlsruhe in Germany.]] The ancient Greek historian Herodotus mentioned that there were outcrops of salt in an area of Libya that was inhabited by a people called the "Ammonians" (now: the Siwa oasis in northwestern Egypt, where salt lakes still exist).[21]The land of the Ammonians is mentioned elsewhere in Herodotus' _History_ and in Pausanias' _Description of Greece_:
 
 -   Herodotus with George Rawlinson, trans., _The History of Herodotus_ (New York, New York: Tandy-Thomas Co., 1909), vol. 1, Book 2, § 42, p. 245, vol. 2, Book 3, § 25, p. 73, and vol. 2, Book 3, § 26, p. 74.
 -   Pausanias with W.H.S. Jones, trans., _Description of Greece_ (London, England: William Heinemann Ltd., 1979), vol. 2, Book 3, Ch. 18, § 3, pp. 109 and 111 and vol. 4, Book 9, Ch. 16, § 1, p. 239. The Greek geographer Strabo also mentioned the salt from this region. However, the ancient authors Dioscorides, Apicius, Arrian, Synesius, and Aëtius of Amida described this salt as forming clear crystals that could be used for cooking and that were essentially rock salt.[22] _Hammoniacus sal_ appears in the writings of Pliny,[23] although it is not known whether the term is identical with the more modern sal ammoniac (ammonium chloride).[24]Pliny also mentioned that when some samples of what was purported to be _natron_ (Latin: _nitrum_, impure sodium carbonate) were treated with lime (calcium carbonate) and water, the _natron_ would emit a pungent smell, which some authors have interpreted as signifying that the _natron_ either was ammonium chloride or was contaminated with it. See:
@@ -176,7 +176,7 @@ Ammonia may be used to mitigate gaseous spills of phosgene.[54]
 
 As a fuel
 
-AmmoniacalGasEngineStreetcarARWaud.jpeg drawn by Alfred Waud in 1871.]] x-15.jpg aircraft used ammonia as one component fuel of its rocket engine ]] The raw energy density of liquid ammonia is 11.5 MJ/L,[55] which is about a third that of diesel. There is the opportunity to convert ammonia back to hydrogen, where it can be used to power hydrogen fuel cells or directly within high-temperature fuel cells.[56] The conversion of ammonia to hydrogen via the sodium-amide process,[57] either for combustion or as fuel for a proton exchange membrane fuel cell,[58] is possible. Conversion to hydrogen would allow the storage of hydrogen at nearly 18 wt% compared to ≈5% for gaseous hydrogen under pressure.
+drawn by Alfred Waud in 1871.]] aircraft used ammonia as one component fuel of its rocket engine ]] The raw energy density of liquid ammonia is 11.5 MJ/L,[55] which is about a third that of diesel. There is the opportunity to convert ammonia back to hydrogen, where it can be used to power hydrogen fuel cells or directly within high-temperature fuel cells.[56] The conversion of ammonia to hydrogen via the sodium-amide process,[57] either for combustion or as fuel for a proton exchange membrane fuel cell,[58] is possible. Conversion to hydrogen would allow the storage of hydrogen at nearly 18 wt% compared to ≈5% for gaseous hydrogen under pressure.
 
 Ammonia engines or ammonia motors, using ammonia as a working fluid, have been proposed and occasionally used.[59] The principle is similar to that used in a fireless locomotive, but with ammonia as the working fluid, instead of steam or compressed air. Ammonia engines were used experimentally in the 19th century by Goldsworthy Gurney in the UK and the St. Charles Avenue Streetcar line in New Orleans in the 1870s and 1880s,[60] and during World War II ammonia was used to power buses in Belgium.[61]
 
@@ -192,7 +192,7 @@ Rocket engines have also been fueled by ammonia. The Reaction Motors XLR99 rocke
 
 As a stimulant
 
-Meth_ammonia_tank_Otley_iowa.JPG sign on tank of anhydrous ammonia, Otley, Iowa. Anhydrous ammonia is a common farm fertilizer that is also a critical ingredient in making methamphetamine. In 2005, Iowa used grant money to give out thousands of locks to prevent criminals from getting into the tanks.[72]]] Ammonia, as the vapor released by smelling salts, has found significant use as a respiratory stimulant. Ammonia is commonly used in the illegal manufacture of methamphetamine through a Birch reduction.[73] The Birch method of making methamphetamine is dangerous because the alkali metal and liquid ammonia are both extremely reactive, and the temperature of liquid ammonia makes it susceptible to explosive boiling when reactants are added.[74]
+sign on tank of anhydrous ammonia, Otley, Iowa. Anhydrous ammonia is a common farm fertilizer that is also a critical ingredient in making methamphetamine. In 2005, Iowa used grant money to give out thousands of locks to prevent criminals from getting into the tanks.[72]]] Ammonia, as the vapor released by smelling salts, has found significant use as a respiratory stimulant. Ammonia is commonly used in the illegal manufacture of methamphetamine through a Birch reduction.[73] The Birch method of making methamphetamine is dangerous because the alkali metal and liquid ammonia are both extremely reactive, and the temperature of liquid ammonia makes it susceptible to explosive boiling when reactants are added.[74]
 
 Textile
 
@@ -219,7 +219,7 @@ Small-scale, intermittent production of ammonia, for local agricultural use, may
 
 Safety precautions
 
-Ammiakoprovod_NS.jpg (roughly 2400 km long)[78], running from the TogliattiAzot plant in Russia to Odessa in Ukraine.]] The U.S. Occupational Safety and Health Administration (OSHA) has set a 15-minute exposure limit for gaseous ammonia of 35 ppm by volume in the environmental air and an 8-hour exposure limit of 25 ppm by volume.[79] The National Institute for Occupational Safety and Health (NIOSH) recently reduced the IDLH (Immediately Dangerous to Life and Health, the level to which a healthy worker can be exposed for 30 minutes without suffering irreversible health effects) from 500 to 300 based on recent more conservative interpretations of original research in 1943. Other organizations have varying exposure levels. U.S. Navy Standards [U.S. Bureau of Ships 1962] maximum allowable concentrations (MACs): continuous exposure (60 days): 25 ppm / 1 hour: 400 ppm.[80] Ammonia vapour has a sharp, irritating, pungent odour that acts as a warning of potentially dangerous exposure. The average odour threshold is 5 ppm, well below any danger or damage. Exposure to very high concentrations of gaseous ammonia can result in lung damage and death.[81] Although ammonia is regulated in the United States as a non-flammable gas, it still meets the definition of a material that is toxic by inhalation and requires a hazardous safety permit when transported in quantities greater than 13,248 L (3,500 gallons).[82] Household products containing ammonia (e.g. Windex) should never be used in conjunction with products containing bleach, as the resulting chemical reaction produces highly toxic fumes.[83]
+(roughly 2400 km long)[78], running from the TogliattiAzot plant in Russia to Odessa in Ukraine.]] The U.S. Occupational Safety and Health Administration (OSHA) has set a 15-minute exposure limit for gaseous ammonia of 35 ppm by volume in the environmental air and an 8-hour exposure limit of 25 ppm by volume.[79] The National Institute for Occupational Safety and Health (NIOSH) recently reduced the IDLH (Immediately Dangerous to Life and Health, the level to which a healthy worker can be exposed for 30 minutes without suffering irreversible health effects) from 500 to 300 based on recent more conservative interpretations of original research in 1943. Other organizations have varying exposure levels. U.S. Navy Standards [U.S. Bureau of Ships 1962] maximum allowable concentrations (MACs): continuous exposure (60 days): 25 ppm / 1 hour: 400 ppm.[80] Ammonia vapour has a sharp, irritating, pungent odour that acts as a warning of potentially dangerous exposure. The average odour threshold is 5 ppm, well below any danger or damage. Exposure to very high concentrations of gaseous ammonia can result in lung damage and death.[81] Although ammonia is regulated in the United States as a non-flammable gas, it still meets the definition of a material that is toxic by inhalation and requires a hazardous safety permit when transported in quantities greater than 13,248 L (3,500 gallons).[82] Household products containing ammonia (e.g. Windex) should never be used in conjunction with products containing bleach, as the resulting chemical reaction produces highly toxic fumes.[83]
 
 Liquid ammonia is dangerous because it is hygroscopic and because it can freeze flesh. See for more information.
 
@@ -249,7 +249,7 @@ Solutions of ammonia (5–10% by weight) are used as household cleaners, particu
 
 Laboratory use of ammonia solutions
 
-Hydrochloric_acid_ammonia.jpg The hazards of ammonia solutions depend on the concentration: "dilute" ammonia solutions are usually 5–10% by weight (<5.62 mol/L); "concentrated" solutions are usually prepared at >25% by weight. A 25% (by weight) solution has a density of 0.907 g/cm³, and a solution that has a lower density will be more concentrated. The European Union classification of ammonia solutions is given in the table.
+The hazards of ammonia solutions depend on the concentration: "dilute" ammonia solutions are usually 5–10% by weight (<5.62 mol/L); "concentrated" solutions are usually prepared at >25% by weight. A 25% (by weight) solution has a density of 0.907 g/cm³, and a solution that has a lower density will be more concentrated. The European Union classification of ammonia solutions is given in the table.
 
 +-----------------+------------------+-------------------+----------------+-----------+
 | Concentration   | Molarity         | Concentration     | Classification | R-phrases |
@@ -275,7 +275,7 @@ Ammonia reacts violently with the halogens. Nitrogen triiodide, a primary high e
 
 Synthesis and production
 
-Production_of_ammonia.svg Ammonia is one of the most produced inorganic chemicals, with global production reported at 176 million tonnes in 2014.[97] China accounted for 32.6% of that, followed by Russia at 8.1%, India at 7.6%, and the United States at 6.4%.[98]
+Ammonia is one of the most produced inorganic chemicals, with global production reported at 176 million tonnes in 2014.[97] China accounted for 32.6% of that, followed by Russia at 8.1%, India at 7.6%, and the United States at 6.4%.[98]
 
 Before the start of World War I, most ammonia was obtained by the dry distillation[99] of nitrogenous vegetable and animal waste products, including camel dung, where it was distilled by the reduction of nitrous acid and nitrites with hydrogen; in addition, it was produced by the distillation of coal, and also by the decomposition of ammonium salts by alkaline hydroxides[100] such as quicklime:[101]
 
@@ -332,8 +332,6 @@ The range of thermodynamic stability of liquid ammonia solutions is very narrow,
 
 Ammonia's role in biological systems and human disease
 
-Symptoms_of_hyperammonemia.svg
-
 Ammonia is both a metabolic waste and a metabolic input throughout the biosphere. It is an important source of nitrogen for living systems. Although atmospheric nitrogen abounds (more than 75%), few living creatures are capable of using this atmospheric nitrogen in its diatomic form, N₂ gas. Therefore, nitrogen fixation is required for the synthesis of amino acids, which are the building blocks of protein. Some plants rely on ammonia and other nitrogenous wastes incorporated into the soil by decaying matter. Others, such as nitrogen-fixing legumes, benefit from symbiotic relationships with rhizobia that create ammonia from atmospheric nitrogen.[112]
 
 Biosynthesis
@@ -355,7 +353,7 @@ Ammonium ions are a toxic waste product of metabolism in animals. In fish and aq
 
 In astronomy
 
-Jupiter.jpg of the outer gas planets such as Jupiter (0.026% ammonia) and Saturn (0.012% ammonia).]] Ammonia has been detected in the atmospheres of the gas giant planets, including Jupiter, along with other gases like methane, hydrogen, and helium. The interior of Saturn may include frozen crystals of ammonia.[117] It is naturally found on Deimos and Phobos – the two moons of Mars.
+of the outer gas planets such as Jupiter (0.026% ammonia) and Saturn (0.012% ammonia).]] Ammonia has been detected in the atmospheres of the gas giant planets, including Jupiter, along with other gases like methane, hydrogen, and helium. The interior of Saturn may include frozen crystals of ammonia.[117] It is naturally found on Deimos and Phobos – the two moons of Mars.
 
 Interstellar space
 
@@ -369,7 +367,7 @@ The study of interstellar ammonia has been important to a number of areas of res
 
 Interstellar formation mechanisms
 
-Diamminesilver(I)-3D-balls.png The interstellar abundance for ammonia has been measured for a variety of environments. The [NH₃]/[H₂] ratio has been estimated to range from 10^(−7) in small dark clouds[121] up to 10^(−5) in the dense core of the Orion Molecular Cloud Complex.[122] Although a total of 18 total production routes have been proposed,[123] the principal formation mechanism for interstellar NH₃ is the reaction:
+The interstellar abundance for ammonia has been measured for a variety of environments. The [NH₃]/[H₂] ratio has been estimated to range from 10^(−7) in small dark clouds[121] up to 10^(−5) in the dense core of the Orion Molecular Cloud Complex.[122] Although a total of 18 total production routes have been proposed,[123] the principal formation mechanism for interstellar NH₃ is the reaction:
 
 The rate constant, _k_, of this reaction depends on the temperature of the environment, with a value of 5.2×10^(−6) at 10 K.[124] The rate constant was calculated from the formula . For the primary formation reaction, and . Assuming an NH₄⁺ abundance of 3×10^(−7) and an electron abundance of 10^(−7) typical of molecular clouds, the formation will proceed at a rate of in a molecular cloud of total density .[125]
 

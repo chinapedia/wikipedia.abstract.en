@@ -54,7 +54,7 @@ In terms of the 2012 Environmental Performance Index ranking, Costa Rica is 5th 
 
 Tourism
 
-Cataract_on_the_Rio_Savegre.jpg is key in Costa Rica's tourism industry. Shown Savegre River, Talamanca.]] With a $1.92-billion-a-year tourism industry, Costa Rica was the most visited nation in the Central American region, with 2.42 million foreign visitors in 2013.[51] By 2016, 2.6 million tourists visited Costa Rica. The Tourism Board estimates that this sector's spending in the country represented over US$3.4 billion, or about 5.8% of the GDP.[52] The World Travel & Tourism Council's estimates indicate a direct contribution to the 2016 GDP of 5.1% and 110,000 direct jobs in Costa Rica; the total number of jobs indirectly supported by tourism was 271,000.[53]
+is key in Costa Rica's tourism industry. Shown Savegre River, Talamanca.]] With a $1.92-billion-a-year tourism industry, Costa Rica was the most visited nation in the Central American region, with 2.42 million foreign visitors in 2013.[51] By 2016, 2.6 million tourists visited Costa Rica. The Tourism Board estimates that this sector's spending in the country represented over US$3.4 billion, or about 5.8% of the GDP.[52] The World Travel & Tourism Council's estimates indicate a direct contribution to the 2016 GDP of 5.1% and 110,000 direct jobs in Costa Rica; the total number of jobs indirectly supported by tourism was 271,000.[53]
 
 Ecotourism is extremely popular with the many tourists visiting the extensive national parks and protected areas around the country. Costa Rica was a pioneer in this type of tourism and the country is recognized as one of the few with real ecotourism.[54] Other important market segments are adventure, sun and beaches. Most of the tourists come from the U.S. and Canada (46%), and the EU (16%),[55] the prime market travelers in the world, which translates into a relatively high expenditure per tourist of $1000 per trip.
 
@@ -78,9 +78,7 @@ The combined export value of forest products and textiles in 2013 did not exceed
 
 Exports, jobs, and energy
 
-Tree_map_export_2009_Costa_Rica.jpeg
-
-Intel_Costa_12_2007_SJO_105b.jpg microprocessor facility in Costa Rica is responsible for 25% of exports and 4.9% of Costa Rica's GDP.]] Mere decades ago, Costa Rica was known principally as a producer of bananas and coffee. Even though bananas, pineapple, sugar, coffee, lumber, wood products and beef are still important exports, in recent times medical instruments,[68] electronics, pharmaceuticals, financial outsourcing, software development, and ecotourism are now the prime exports. High levels of education and fluency in English among its residents make the country an attractive investing location.[69]
+microprocessor facility in Costa Rica is responsible for 25% of exports and 4.9% of Costa Rica's GDP.]] Mere decades ago, Costa Rica was known principally as a producer of bananas and coffee. Even though bananas, pineapple, sugar, coffee, lumber, wood products and beef are still important exports, in recent times medical instruments,[68] electronics, pharmaceuticals, financial outsourcing, software development, and ecotourism are now the prime exports. High levels of education and fluency in English among its residents make the country an attractive investing location.[69]
 
 In 2015 the following were the major export products (US$): Medical Instruments ($2B), Bananas ($1.24B), Tropical Fruits ($1.22B), Integrated Circuits ($841M) and Orthopedic Appliances ($555M). The total exports in 2015 were US$12.6 billion, down from $18.9B in 2010; bananas and medical instruments were the two largest sectors. Total imports in 2015 were $15B, up from $13.8B in 2010; this resulted in a trade deficit.[70]
 
@@ -114,8 +112,6 @@ More recently, Costa Rica reached 40th place in 2015, with a score of 55 on the 
 
 Foreign trade
 
-Costa_Rica_Free_Trade_Agreements.png
-
 Costa Rica has sought to widen its economic and trade ties, both within and outside the region. Costa Rica signed a bilateral trade agreement with Mexico in 1994, which was later amended to cover a wider range of products. Costa Rica joined other Central American countries, plus the Dominican Republic, in establishing a Trade and Investment Council with the United States in March 1998, which later became the Dominican Republic–Central America Free Trade Agreement. Costa Rica has bilateral free trade agreements with the following countries and blocs which took effect on (see date):
 
 -   Canada (November 1, 2002)[102]
@@ -147,7 +143,7 @@ The following table shows the main economic indicators in 1980–2017.[111]
 
 [TABLE]
 
-Poas_crater.jpg is one of Costa Rica's main tourist attractions.]]
+is one of Costa Rica's main tourist attractions.]]
 
 GDP: US$61.5 billion (2017 estimate)
 

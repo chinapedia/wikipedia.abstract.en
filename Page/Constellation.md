@@ -1,8 +1,6 @@
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   ----------------------------------                                                                                                                                                                                         |
-|   Orion_constellation_Hevelius.jpg                                                                                                                                                                                           |
-|   Orion_IAU.svgOrionCC.jpg                                                                                                                                                                                                   |
-|   ----------------------------------                                                                                                                                                                                         |
+|   --                                                                                                                                                                                                                         |
+|   --                                                                                                                                                                                                                         |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | -   Top: Baroque drawing of the constellation Orion from Johannes Hevelius{{'}} Celestial catalogue, showing the stars as they would appear to an observer looking down upon the imaginary celestial sphere from the outside |
 | -   Bottom: Contemporary map of Orion from the IAU and photography of the night sky                                                                                                                                          |
@@ -36,7 +34,7 @@ The earliest evidence for the humankind's identification of constellations comes
 
 Ancient Near East
 
-Babylonian_tablet_recording_Halley's_comet.jpg in 164 BC.]]
+in 164 BC.]]
 
 The oldest Babylonian star catalogues of stars and constellations date back to the beginning in the Middle Bronze Age, most notably the _Three Stars Each_ texts and the _MUL.APIN_, an expanded and revised version based on more accurate observation from around 1000 BC. However, the numerous Sumerian names in these catalogues suggest that they built on older, but otherwise unattested, Sumerian traditions of the Early Bronze Age.[20]
 
@@ -46,13 +44,13 @@ Biblical scholar E. W. Bullinger interpreted some of the creatures mentioned in 
 
 Classical antiquity
 
-Senenmut.jpg There is only limited information on ancient Greek constellations, with some fragmentary evidence being found in the _Works and Days_ of the Greek poet Hesiod, who mentioned the "heavenly bodies".[26] Greek astronomy essentially adopted the older Babylonian system in the Hellenistic era, first introduced to Greece by Eudoxus of Cnidus in the 4th century BC. The original work of Eudoxus is lost, but it survives as a versification by Aratus, dating to the 3rd century BC. The most complete existing works dealing with the mythical origins of the constellations are by the Hellenistic writer termed pseudo-Eratosthenes and an early Roman writer styled pseudo-Hyginus. The basis of Western astronomy as taught during Late Antiquity and until the Early Modern period is the _Almagest_ by Ptolemy, written in the 2nd century.
+There is only limited information on ancient Greek constellations, with some fragmentary evidence being found in the _Works and Days_ of the Greek poet Hesiod, who mentioned the "heavenly bodies".[26] Greek astronomy essentially adopted the older Babylonian system in the Hellenistic era, first introduced to Greece by Eudoxus of Cnidus in the 4th century BC. The original work of Eudoxus is lost, but it survives as a versification by Aratus, dating to the 3rd century BC. The most complete existing works dealing with the mythical origins of the constellations are by the Hellenistic writer termed pseudo-Eratosthenes and an early Roman writer styled pseudo-Hyginus. The basis of Western astronomy as taught during Late Antiquity and until the Early Modern period is the _Almagest_ by Ptolemy, written in the 2nd century.
 
 In the Ptolemaic Kingdom, native Egyptian tradition of anthropomorphic figures representing the planets, stars, and various constellations.[27] Some of these were combined with Greek and Babylonian astronomical systems culminating in the Zodiac of Dendera, but it remains unclear when this occurred, but most were placed during the Roman period between 2nd to 4th centuries AD. The oldest known depiction of the zodiac showing all the now familiar constellations, along with some original Egyptian constellations, decans, and planets.[28][29] Ptolemy's _Almagest_ remained the standard definition of constellations in the medieval period both in Europe and in Islamic astronomy.
 
 Ancient China
 
-Su_Song_Star_Map_1.JPG with a cylindrical projection (Su Song)]]
+with a cylindrical projection (Su Song)]]
 
 Ancient China had a long tradition of observing celestial phenomena.[30] Nonspecific Chinese star names, later categorized in the twenty-eight mansions, have been found on oracle bones from Anyang, dating back to the middle Shang dynasty. These constellations are some of the most important observations of Chinese sky, attested from the 5th century BC. Parallels to the earliest Babylonian (Sumerian) star catalogues suggest that the ancient Chinese system did not arise independently.[31]
 
@@ -73,7 +71,7 @@ The 1603 star atlas "Uranometria" of Johann Bayer assigned stars to individual c
 
 Origin of the southern constellations
 
-Southern_Celestial_Map_of_Mestre_João_Faras.gif (1 May 1500).]] Planisphæri_cœleste.jpg from the golden age of Netherlandish cartography, by the Dutch cartographer Frederik de Wit.]]
+(1 May 1500).]] from the golden age of Netherlandish cartography, by the Dutch cartographer Frederik de Wit.]]
 
 The southern sky, below about −65° declination, was only partially catalogued by ancient Babylonians, Egyptian, Greeks, Chinese, and Persian astronomers of the north. Knowledge that northern and southern star patterns differed goes back to Classical writers, who describe, for example, the African circumnavigation expedition commissioned by Egyptian Pharaoh Necho II in c. 600 BC and those of Hanno the Navigator in c. 500 BC. However, much of this history was lost with the Destruction of the Library of Alexandria.
 
@@ -136,8 +134,6 @@ Mythology, lore, history, and archaeoastronomy
 -   -
 
 Atlases and celestial maps
-
-Celestial_map,_signs_of_the_Zodiac_and_lunar_mansions..JPG
 
 _General & Nonspecialized – Entire Celestial Heavens_:
 

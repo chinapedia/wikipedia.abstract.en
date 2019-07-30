@@ -5,8 +5,6 @@ Adrastea is one of the few moons in the Solar System known to orbit its planet i
 
 Discovery and observations
 
-Adrastée_FDS_20630.png
-
 Adrastea was discovered by David C. Jewitt and G. Edward Danielson in _Voyager 2_ probe photographs taken on July 8, 1979, and received the designation . Although it appeared only as a dot, it was the first moon to be discovered by an interplanetary spacecraft. Soon after its discovery, two other of the inner moons of Jupiter (Thebe and Metis) were observed in the images taken a few months earlier by _Voyager 1_. The _Galileo_ spacecraft was able to determine the moon's shape in 1998, but the images remain poor. In 1983, Adrastea was officially named after the Greek nymph Adrastea, the daughter of Zeus and his lover Ananke.
 
 Although the _Juno_ orbiter, which arrived at Jupiter in 2016, has a camera called JunoCam, it is almost entirely focused on observations of Jupiter itself. However, if all goes well should be able to capture some limited images of the Jupiter moons Metis and Adrastea.[1]

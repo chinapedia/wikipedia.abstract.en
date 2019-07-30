@@ -17,8 +17,6 @@ Cast
 
 Production
 
-sonofG.jpg
-
 For the second _Godzilla_ film in a row, Toho produced an island themed adventure with a smaller budget than most of their monster films from this time period. While the a-list crew of talent was hired to work on that year's _King Kong Escapes_, (Ishirō Honda, Eiji Tsuburaya, and Akira Ifukube), the second string crew of cheaper talent was once again tapped to work on this project as they had done with _Ebirah, Horror of the Deep_. This included Jun Fukuda (director), Sadamasa Arikawa (special effects), and Masaru Sato (composer). This was the first film where Arikawa was officially listed as the director of Special Effects, although he did receive some supervision from Tsuburaya when he was available.
 
 Toho wanted to create a baby Godzilla to appeal to the "date crowd" (a genre of films that were very popular among young couples during this time period), with the idea that girls would like a "cute" baby monster.[1] For the idea behind Minilla, Fukuda stated, "We wanted to take a new approach, so we gave Godzilla a child. We thought it would be a little strange if we gave Godzilla a daughter, so instead we gave him a son". Fukuda also wanted to portray the monsters almost as people[2] in regards to the father-son relationship between Godzilla and Minilla, as Fukuda stated "We focused on the relationship between Godzilla and his son throughout the course of _Son of Godzilla_.

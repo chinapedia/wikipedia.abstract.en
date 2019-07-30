@@ -33,7 +33,7 @@ The primary purpose of the Council is to act as one of two vetoing bodies of the
 
 Legislative procedure
 
-Ordinary_legislative_procedure_majorityrules.svg The EU's legislative authority is divided between the Council, the Parliament and the Commission. As the relationships and powers of these institutions have developed, various legislative procedures have been created for adopting laws.[20] In early times, the _avis facultatif_ maxim was: "The Commission proposes, and the Council disposes";[21] but now the vast majority of laws are now subject to the ordinary legislative procedure, which works on the principle that consent from both the Council and Parliament are required before a law may be adopted.[22]
+The EU's legislative authority is divided between the Council, the Parliament and the Commission. As the relationships and powers of these institutions have developed, various legislative procedures have been created for adopting laws.[20] In early times, the _avis facultatif_ maxim was: "The Commission proposes, and the Council disposes";[21] but now the vast majority of laws are now subject to the ordinary legislative procedure, which works on the principle that consent from both the Council and Parliament are required before a law may be adopted.[22]
 
 Under this procedure, the Commission presents a proposal to Parliament and the Council. Following its first reading the Parliament may propose amendments. If the Council accepts these amendments then the legislation is approved. If it does not then it adopts a "common position" and submits that new version to the Parliament. At its second reading, if the Parliament approves the text or does not act, the text is adopted, otherwise the Parliament may propose further amendments to the Council's proposal. It may be rejected out right by an absolute majority of MEPs. If the Council still does not approve the Parliament's position, then the text is taken to a "Conciliation Committee" composed of the Council members plus an equal number of MEPs. If a Committee manages to adopt a joint text, it then has to be approved in a third reading by both the Council and Parliament or the proposal is abandoned.[23]
 
@@ -69,7 +69,7 @@ Each council configuration deals with a different functional area, for example a
 General Affairs (GAC): General affairs co-ordinates the work of the Council, prepares for European Council meetings and deals with issues crossing various council formations.
 Foreign Affairs (FAC): Chaired by the High Representative, rather than the Presidency, it manages the CFSP, CSDP, trade and development co-operation. It sometimes meets in a DEFENCE CONFIGURATION.[42]
 
-European_Council_(38185339475).jpg, seen here, has been the seat of the Council.]]
+, seen here, has been the seat of the Council.]]
 
 Economic and Financial Affairs (Ecofin): Composed of economics and finance ministers of the member states. It includes budgetary and eurozone matters via an informal group composed only of eurozone member ministers.[43]
 Agriculture and Fisheries (Agrifish): Composed of the agriculture and fisheries ministers of the member states. It considers matters concerning the Common Agricultural Policy, the Common Fisheries Policy, forestry, organic farming, food and feed safety, seeds, pesticides, and fisheries.[44]

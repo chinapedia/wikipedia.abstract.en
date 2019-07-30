@@ -51,8 +51,6 @@ Climate:
 Rivers:
     Significant rivers include the Jimani River, Río Yaque del Norte, Río Jamao del Norte, Río Isabela and the Ozama River
 
-hispaniola_lrg.jpg
-
 Terrain:
     Rugged highlands and mountains with fertile valleys interspersed
 
@@ -113,7 +111,7 @@ Geography - note:
 
 Climate
 
-Dominican_Republic_Köppen.svg of the Dominican Republic]] The country is a tropical, maritime nation. Conditions are ameliorated in many areas by elevation and by the northeast trade winds, which blow steadily from the Atlantic all year long. The annual mean temperature is ; regional mean temperatures range from in the heart of the Cordillera Central (Constanza) to as high as in arid regions. Temperatures rarely rise above , and freezing temperatures only occur in winter in the highest mountains. The average temperature in Santo Domingo in January is , and in July.
+of the Dominican Republic]] The country is a tropical, maritime nation. Conditions are ameliorated in many areas by elevation and by the northeast trade winds, which blow steadily from the Atlantic all year long. The annual mean temperature is ; regional mean temperatures range from in the heart of the Cordillera Central (Constanza) to as high as in arid regions. Temperatures rarely rise above , and freezing temperatures only occur in winter in the highest mountains. The average temperature in Santo Domingo in January is , and in July.
 
 The rain season for the northern coast is from November to January. For the rest of the country, the rain season is from May to November. The average annual rainfall is , with extremes of or more in the mountainous northeast (the windward side of the island) and in the southwestern valleys. The western valleys, along the Haitian border, remain relatively dry, with less than of annual precipitation, due to the rain shadow effect caused by the central and northern mountain ranges. The northwestern and southeastern extremes of the country are also arid.
 
@@ -131,7 +129,7 @@ There are several smaller islands and cays that are part of the Dominican territ
 
 Relief
 
-Cordillera_Central,_RD.JPG The Dominican Republic is a country with many mountains, and the highest peaks of the West Indies are found here. The chains of mountains show a direction northwest-southeast, except in the Southern peninsula (in Haiti) where they have a direction west–east. The mountains are separated by valleys with the same general direction.
+The Dominican Republic is a country with many mountains, and the highest peaks of the West Indies are found here. The chains of mountains show a direction northwest-southeast, except in the Southern peninsula (in Haiti) where they have a direction west–east. The mountains are separated by valleys with the same general direction.
 
 From north to south, the mountain ranges and valleys are:[13]
 
@@ -143,8 +141,6 @@ From north to south, the mountain ranges and valleys are:[13]
 -   The _Hoya de Enriquillo_ or _Neiba Valley_ is a remarkable valley, with a west–east direction, of low altitude (on average 50 m with some points below sea level) and with a great salt lake: the _Enriquillo Lake_.
 -   The _Sierra de Bahoruco_, called _Massif de la Selle_ in Haiti. This southern group of mountains have a geology very different from the rest of the island.
 -   _Llano Costero del Caribe_ (in English, "Caribbean Coastal Plain") is in the southeast of the island (and of the Dominican Republic). It is a large prairie east of Santo Domingo.
-
-Beach_Barahona_2001.jpg
 
 
 Rivers and lakes

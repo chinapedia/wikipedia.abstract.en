@@ -1,9 +1,9 @@
-Flag_of_South_Africa.svg]] This is a LIST OF NOTABLE SOUTH AFRICANS who are the subjects of Wikipedia articles.
+]] This is a LIST OF NOTABLE SOUTH AFRICANS who are the subjects of Wikipedia articles.
 
 
 Academics
 
-Hofmeyr.jpg]]
+]]
 
 Academics
 
@@ -72,7 +72,7 @@ Writers
 
 Authors
 
-J.M._Coetzee.JPG]] Nadine_Gordimer_01.JPG]]
+]] ]]
 
 -   Lady Anne Barnard, travel writer and artist (1750–1825)
 -   Herman Charles Bosman, author (1905–1951)
@@ -114,7 +114,7 @@ Editors
 
 Poets
 
-See also: South African poets and Afrikaans language poets Serote.jpg
+See also: South African poets and Afrikaans language poets
 
 -   Roy Campbell, poet (1901–1957)
 -   Sheila Cussons, poet (1922–2004)
@@ -135,8 +135,6 @@ See also: South African poets and Afrikaans language poets Serote.jpg
 
 Journalists
 
-Sol_Plaatje_002.jpg
-
 -   Jani Allan, journalist and radio personality (born 1953)
 -   George Claassen, journalist
 -   John Charles Daly, television journalist, executive and game show host (1914–1991)
@@ -154,7 +152,7 @@ Sol_Plaatje_002.jpg
 
 Artists
 
-Dave-Matthews-VA.jpg]]
+]]
 
 Performing artists
 
@@ -267,8 +265,6 @@ Singers, musicians and composers
 -   Yolandi Visser, rapper, performance artist, band member of Die Antwoord
 -   Kevin Volans, classical composer
 
-Tanit_Phoenix,_South_African_supermodel_and_actress_07.jpg
-
 Models, socialites and media personalities
 
 -   Jani Allan, radio personality, journalist (born 1953)
@@ -304,8 +300,6 @@ Cartoonists
 -   Zapiro, cartoonist (born 1958)
 
 Painters
-
-Portrait_of_Thomas_Baines.jpg
 
 -   Thomas Baines, colonial painter and explorer (1820–1875)
 -   Leon Botha, painter and disc jockey (1985–2011)
@@ -347,8 +341,6 @@ Performance Artists
 -   Tracey Rose (born 1974)
 
 Architects
-
-Herbert_Baker00.jpg
 
 -   Herbert Baker (1862–1946)
 -   Gerard Moerdijk (1890–1958)
@@ -419,7 +411,7 @@ Political
 
 Activists and trade unionists
 
-Albertina_Sisulu.jpg]]
+]]
 
 -   Zackie Achmat, AIDS activist (born 1962)
 -   Neil Aggett, political activist and trade unionist (c. 1953–1982)
@@ -526,7 +518,7 @@ See also: Dutch Cape governors, British Cape governors, Natal governors and Gove
 
 Leaders and politicians
 
-Patricia_de_Lille.jpg]] AbbaEban1951.jpg]] Winnie_Mandela00.jpg]]
+]] ]] ]]
 
 -   Ken Andrew, politician (born 1943)
 -   Kader Asmal, an activist, politician and professor of human rights (1934–2011)
@@ -568,7 +560,7 @@ Patricia_de_Lille.jpg]] AbbaEban1951.jpg]] Winnie_Mandela00.jpg]]
 
 Prime Ministers and Presidents
 
-Frederik_de_Klerk_with_Nelson_Mandela_-_World_Economic_Forum_Annual_Meeting_Davos_1992.jpg and Nelson Mandela]] SthAfrica.ThaboMbeki.01.jpg]]
+and Nelson Mandela]] ]]
 
 -   Jacobus Boshoff, 2nd President of the Orange Free State (1808–1881)
 -   Louis Botha, Boer commander-in-chief and 1st Prime Minister of South Africa (1862–1919)
@@ -626,7 +618,7 @@ Homelands leaders
 
 Royalty
 
-Dinizulu.jpg]] Mzilikazi~detail.jpg]] Adam_kok_III.jpg]]
+]] ]] ]]
 
 -   Cetshwayo kaMpande, 4th Zulu king (1826–1884)
 -   Cyprian Bhekuzulu kaSolomon, 7th Zulu king (1924–1945)
@@ -689,7 +681,7 @@ Atheists
 
 Prelates, clerics and evangelists
 
-DesmondTutuDec10.jpg]]
+]]
 
 -   William Anderson, missionary (1769–1852)
 -   Nicholas Bhengu, evangelist and founder of Assemblies of God (1909-1986)
@@ -726,8 +718,6 @@ Conservationists
 
 
 Travelers, adventurers and pioneers
-
-James_Edward_Alexander00.jpg
 
 -   Alexander Biggar, colonial pioneer (1781–1838)
 -   William John Burchell, naturalist traveler (1781–1863)

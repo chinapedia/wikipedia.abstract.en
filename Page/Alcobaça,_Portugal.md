@@ -1,5 +1,3 @@
-Alcobaca_-_Front.jpg Alcobaca_fountain_hires.jpg Alcobaça_Praça_da_República.jpg
-
 ALCOBAÇA () is a city and a municipality in Oeste Subregion, region Centro in Portugal, formerly included in the Estremadura Province. The city grew along the valleys of the rivers Alcoa and Baça, from which it derives its name. The municipality population in 2011 was 56,693,[1] in an area of 408.14 km².[2] The city proper has a population of 15,800 inhabitants.[3]
 
 The city of Alcobaça became notable after the first king of Portugal, Afonso Henriques, decided to build a church to commemorate the Conquest of Santarém from the Moors in 1147. The church later evolved into the Monastery of Alcobaça, one of the most magnificent gothic monuments in the country. In the church are the tombs of Pedro I of Portugal and his murdered mistress Inês de Castro. Over the centuries this monastery played an important role in shaping Portuguese culture.

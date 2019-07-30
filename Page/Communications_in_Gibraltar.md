@@ -5,7 +5,7 @@ Telecommunications
 
 History
 
-Telex1.jpg The first submarine telegraph cable started its operation in Gibraltar in 1870.[1] Gibraltar was a landing point of the long-range submarine cable that from Porthcurno, in the United Kingdom ran to Lisbon, Gibraltar, Malta, Alexandria, Suez, Aden, Bombay, over land to the east coast of India, then on to Penang, Malacca, Singapore, Batavia (current Jakarta), to finally reach Darwin, Australia. It was the first direct link between Australia and Great Britain.[2] The company that laid the first part of the cable took the name of Falmouth, Gibraltar and Malta Telegraph Company and had been founded in 1869.[3] This company later operated as the Eastern Telegraph Company from Mount Pleasant in Gibraltar and eventually became Cable & Wireless.
+The first submarine telegraph cable started its operation in Gibraltar in 1870.[1] Gibraltar was a landing point of the long-range submarine cable that from Porthcurno, in the United Kingdom ran to Lisbon, Gibraltar, Malta, Alexandria, Suez, Aden, Bombay, over land to the east coast of India, then on to Penang, Malacca, Singapore, Batavia (current Jakarta), to finally reach Darwin, Australia. It was the first direct link between Australia and Great Britain.[2] The company that laid the first part of the cable took the name of Falmouth, Gibraltar and Malta Telegraph Company and had been founded in 1869.[3] This company later operated as the Eastern Telegraph Company from Mount Pleasant in Gibraltar and eventually became Cable & Wireless.
 
 The first telephones were introduced to Gibraltar in 1886 by a private company which was later taken over by the colonial authorities. The first wireless message was transmitted to Gibraltar in 1903.[4] Since 1926, the telephone service was operated by the City Council.[5] An automatic exchange was installed in the last floor of the City Hall.[6] On 4 April 1927, following an agreement signed between the Compañía Telefónica Nacional de España, the Spanish incumbent telecommunications operator, and the Gibraltar City Council, direct communications between Spain and Gibraltar were established.[7]
 
@@ -122,7 +122,7 @@ In 2013, GIBFIBRESPEED LTD, trading under A.J. SHERIFF ELECTRICAL LTD, obtained 
 
 Printed media
 
-Gibraltar_Chronicle_printers.jpg'' is the world's second oldest English language newspaper to have been in print continuously.]]
+'' is the world's second oldest English language newspaper to have been in print continuously.]]
 
 Newspapers
 

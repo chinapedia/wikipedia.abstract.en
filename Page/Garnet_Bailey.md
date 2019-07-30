@@ -17,7 +17,7 @@ At the time of his death, he was the Los Angeles Kings' director of pro scouting
 
 Death and legacy
 
-12.6.11GarnetBaileyPanelS-3ByLuigiNovi1.jpg's South Pool, along with those of other passengers of Flight 175]] Bailey died when the plane in which he was traveling, United Airlines Flight 175, was hijacked and deliberately crashed into the South Tower of the World Trade Center in New York City during the September 11 attacks. Bailey and amateur scout Mark Bavis were traveling from Boston to Los Angeles when the flight was hijacked. They had been in Manchester visiting the Los Angeles Kings' AHL affiliate, the Monarchs.[2]
+'s South Pool, along with those of other passengers of Flight 175]] Bailey died when the plane in which he was traveling, United Airlines Flight 175, was hijacked and deliberately crashed into the South Tower of the World Trade Center in New York City during the September 11 attacks. Bailey and amateur scout Mark Bavis were traveling from Boston to Los Angeles when the flight was hijacked. They had been in Manchester visiting the Los Angeles Kings' AHL affiliate, the Monarchs.[2]
 
 Bailey and Bavis are mentioned in the Boston-based Dropkick Murphys song "Your Spirit's Alive." Denis Leary wore a Bailey memorial T-shirt as the character Tommy Gavin in the season 1 episode "Immortal" and the fourth-season episode "Pussified" in the TV series _Rescue Me_. In his memory, the Los Angeles Kings named their new mascot "Bailey".[3][4][5]
 

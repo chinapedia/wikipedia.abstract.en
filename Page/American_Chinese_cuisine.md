@@ -20,9 +20,9 @@ American Chinese food builds from styles and food habits brought from the southe
 
 Among the common differences is to treat vegetables as a side dish or garnish, while traditional cuisines of China emphasize vegetables. This can be seen in the use of carrots and tomatoes. Cuisine in China makes frequent use of Asian leaf vegetables like bok choy and kai-lan and puts a greater emphasis on fresh meat and seafood.[15]
 
-Chinese_buffet2.jpg buffet restaurant in the United States]] Stir frying, pan frying, and deep frying tend to be the most common Chinese cooking techniques used in American Chinese cuisine, which are all easily done using a wok (a Chinese frying pan with bowl-like features and which accommodates very high temperatures). The food also has a reputation for high levels of MSG to enhance the flavor. Market forces and customer demand have encouraged many restaurants to offer "MSG Free" or "No MSG" menus, or to omit this ingredient on request.[16]
+buffet restaurant in the United States]] Stir frying, pan frying, and deep frying tend to be the most common Chinese cooking techniques used in American Chinese cuisine, which are all easily done using a wok (a Chinese frying pan with bowl-like features and which accommodates very high temperatures). The food also has a reputation for high levels of MSG to enhance the flavor. Market forces and customer demand have encouraged many restaurants to offer "MSG Free" or "No MSG" menus, or to omit this ingredient on request.[16]
 
-FriedWonton.jpg.]] American Chinese cuisine makes use of ingredients not native to and very rarely used in China. One such example is the common use of Western broccoli () instead of Chinese broccoli (Gai-lan, ) in American Chinese cuisine. Occasionally, Western broccoli is also referred to as __ in Cantonese () in order not to confuse the two styles of broccoli. Among Chinese speakers, however, it is typically understood that one is referring to the leafy vegetable unless otherwise specified.
+.]] American Chinese cuisine makes use of ingredients not native to and very rarely used in China. One such example is the common use of Western broccoli () instead of Chinese broccoli (Gai-lan, ) in American Chinese cuisine. Occasionally, Western broccoli is also referred to as __ in Cantonese () in order not to confuse the two styles of broccoli. Among Chinese speakers, however, it is typically understood that one is referring to the leafy vegetable unless otherwise specified.
 
 This is also the case with the words for carrot (_luo buo_ or _lo baak,_ or _hong luo buo_, _hong_ meaning "red") and onion (_yang cong_). _Lo baak_, in Cantonese, refers to a large, pungent white radish. The orange Western carrot is known in some areas of China as "foreign radish" (or more properly _hung lo baak_ in Cantonese, _hung_ meaning "red"). When the word for onion, _cong_, is used, it is understood that one is referring to "green onions" (otherwise known to English-speakers as "scallions" or "spring onions"). The larger, many-layered onion bulb common in the United States is called _yang cong_. This translates as "foreign onion". These names make it evident that the American broccoli, carrot, and onion are not indigenous to China, and therefore are less common in the traditional cuisines of China.
 
@@ -32,7 +32,7 @@ Salads containing raw or uncooked ingredients are rare in traditional Chinese cu
 
 Ming Tsai, the owner of the Blue Ginger restaurant in Wellesley, Massachusetts, and host of PBS culinary show _Simply Ming_, said that American Chinese restaurants typically try to have food representing 3-5 regions of China at one time, have chop suey, or have "fried vegetables and some protein in a thick sauce", "eight different sweet and sour dishes", or "a whole page of 20 different chow meins or fried rice dishes". Tsai said "Chinese-American cuisine is 'dumbed-down' Chinese food. It's adapted... to be blander, thicker and sweeter for the American public".[18]
 
-Most American Chinese establishments cater to non-Chinese customers with menus written in English or containing pictures. If separate Chinese-language menus are available, they typically feature items such as liver, chicken feet, or other meat dishes that might deter American customers. In Chinatown, Manhattan, the restaurants were known for having a "phantom" menu with food preferred by ethnic Chinese, but believed to be disliked by non-Chinese Americans.[19] Chopsueywithrice.jpg]] Fortune_cookie.jpg
+Most American Chinese establishments cater to non-Chinese customers with menus written in English or containing pictures. If separate Chinese-language menus are available, they typically feature items such as liver, chicken feet, or other meat dishes that might deter American customers. In Chinatown, Manhattan, the restaurants were known for having a "phantom" menu with food preferred by ethnic Chinese, but believed to be disliked by non-Chinese Americans.[19] ]]
 
 
 Dishes
@@ -48,7 +48,7 @@ Dishes that often appear on American Chinese restaurant menus include:
 -   Chop suey – connotes "assorted pieces" in Chinese. It is usually a mix of vegetables and meat in a brown sauce but can also be served in a white sauce.
 -   Crab rangoon – fried wonton skins stuffed with (usually) artificial crab meat (surimi) and cream cheese.
 
-Wonton_Strips.jpg are commonly served complimentary along with duck sauce and hot mustard]]
+are commonly served complimentary along with duck sauce and hot mustard]]
 
 -   Fortune cookie – invented in California as a Westernized version of the Japanese omikuji senbei,[20] fortune cookies have become sweetened and found their way to many American Chinese restaurants.
 -   Royal beef – deep-fried sliced beef, doused in a wine sauce and often served with steamed broccoli.
@@ -67,8 +67,6 @@ Authentic restaurants with Chinese-language menus may offer "yellow-hair chicken
 Dau Miu () is a Chinese vegetable that has become popular since the early 1990s, and now not only appears on English-language menus, usually as "pea shoots", but is often served by upscale non-Asian restaurants as well. Originally it was only available during a few months of the year, but it is now grown in greenhouses and is available year-round.
 
 North American versions found in China
-
-Egg_foo_young.JPG Beef_with_broccoli.JPG
 
 -   Cashew chicken – Stir fried tender chicken pieces with cashews.
 -   Chow mein – literally means "stir-fried noodles". Chow mein consists of fried crispy noodles with bits of meat and vegetables. It can come with chicken, pork, shrimp or beef.
@@ -132,7 +130,7 @@ Other regional American Chinese dishes
 
 American Chinese chain restaurants
 
-Typical_Panda_Meal.jpg meal: Kung Pao chicken, orange chicken, chow mein and steamed vegetables]]
+meal: Kung Pao chicken, orange chicken, chow mein and steamed vegetables]]
 
 -   China Coast – Closed in 1995; owned by General Mills Corporation, formerly 52 locations throughout the United States
 -   Chinese Gourmet Express – throughout the United States

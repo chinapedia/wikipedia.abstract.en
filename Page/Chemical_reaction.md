@@ -1,4 +1,4 @@
-ThermiteReaction.jpg reaction using iron(III) oxide. The sparks flying outwards are globules of molten iron trailing smoke in their wake.]]
+reaction using iron(III) oxide. The sparks flying outwards are globules of molten iron trailing smoke in their wake.]]
 
 A CHEMICAL REACTION is a process that leads to the chemical transformation of one set of chemical substances to another.[1] Classically, chemical reactions encompass changes that only involve the positions of electrons in the forming and breaking of chemical bonds between atoms, with no change to the nuclei (no change to the elements present), and can often be described by a chemical equation. Nuclear chemistry is a sub-discipline of chemistry that involves the chemical reactions of unstable and radioactive elements where both electronic and nuclear changes can occur.
 
@@ -15,7 +15,7 @@ The general concept of a chemical reaction has been extended to reactions betwee
 
 History
 
-Antoine_lavoisier_color.jpg developed the theory of combustion as a chemical reaction with oxygen.]]
+developed the theory of combustion as a chemical reaction with oxygen.]]
 
 Chemical reactions such as combustion in fire, fermentation and the reduction of ores to metals were known since antiquity. Initial theories of transformation of materials were developed by Greek philosophers, such as the Four-Element Theory of Empedocles stating that any substance is composed of the four basic elements – fire, water, air and earth. In the Middle Ages, chemical transformations were studied by Alchemists. They attempted, in particular, to convert lead into gold, for which purpose they used reactions of lead and lead-copper alloys with sulfur.[2]
 
@@ -30,20 +30,20 @@ Regarding the organic chemistry, it was long believed that compounds obtained fr
 
 Equations
 
-Combustion_reaction_of_methane.jpg gas on the reactants side and before the water on the products side in order for, as per the law of conservation of mass, the quantity of each element does not change during the reaction]]
+gas on the reactants side and before the water on the products side in order for, as per the law of conservation of mass, the quantity of each element does not change during the reaction]]
 
 Chemical equations are used to graphically illustrate chemical reactions. They consist of chemical or structural formulas of the reactants on the left and those of the products on the right. They are separated by an arrow (→) which indicates the direction and type of the reaction; the arrow is read as the word "yields".[7] The tip of the arrow points in the direction in which the reaction proceeds. A double arrow () pointing in opposite directions is used for equilibrium reactions. Equations should be balanced according to the stoichiometry, the number of atoms of each species should be the same on both sides of the equation. This is achieved by scaling the number of involved molecules (A, B, C and D in a schematic example below) by the appropriate integers _a, b, c_ and _d_.[8]
 
     \mathit a A{} + \mathit b B -> \mathit c C{} + \mathit d D
 
-More elaborate reactions are represented by reaction schemes, which in addition to starting materials and products show important intermediates or transition states. Also, some relatively minor additions to the reaction can be indicated above the reaction arrow; examples of such additions are water, heat, illumination, a catalyst, etc. Similarly, some minor products can be placed below the arrow, often with a minus sign. Baeyer-Villiger-Oxidation-V1.svg of ketones to esters with a peroxycarboxylic acid]] Retrosynthetic analysis can be applied to design a complex synthesis reaction. Here the analysis starts from the products, for example by splitting selected chemical bonds, to arrive at plausible initial reagents. A special arrow (⇒) is used in retro reactions.[9]
+More elaborate reactions are represented by reaction schemes, which in addition to starting materials and products show important intermediates or transition states. Also, some relatively minor additions to the reaction can be indicated above the reaction arrow; examples of such additions are water, heat, illumination, a catalyst, etc. Similarly, some minor products can be placed below the arrow, often with a minus sign. of ketones to esters with a peroxycarboxylic acid]] Retrosynthetic analysis can be applied to design a complex synthesis reaction. Here the analysis starts from the products, for example by splitting selected chemical bonds, to arrive at plausible initial reagents. A special arrow (⇒) is used in retro reactions.[9]
 
 
 Elementary reactions
 
 The elementary reaction is the smallest division into which a chemical reaction can be decomposed, it has no intermediate products.[10] Most experimentally observed reactions are built up from many elementary reactions that occur in parallel or sequentially. The actual sequence of the individual elementary reactions is known as reaction mechanism. An elementary reaction involves a few molecules, usually one or two, because of the low probability for several molecules to meet at a certain time.[11]
 
-Azobenzene_isomerization_de.svg, induced by light (hν) or heat (Δ)]] The most important elementary reactions are unimolecular and bimolecular reactions. Only one molecule is involved in a unimolecular reaction; it is transformed by an isomerization or a dissociation into one or more other molecules. Such reactions require the addition of energy in the form of heat or light. A typical example of a unimolecular reaction is the cis–trans isomerization, in which the cis-form of a compound converts to the trans-form or vice versa.[12]
+, induced by light (hν) or heat (Δ)]] The most important elementary reactions are unimolecular and bimolecular reactions. Only one molecule is involved in a unimolecular reaction; it is transformed by an isomerization or a dissociation into one or more other molecules. Such reactions require the addition of energy in the form of heat or light. A typical example of a unimolecular reaction is the cis–trans isomerization, in which the cis-form of a compound converts to the trans-form or vice versa.[12]
 
 In a typical dissociation reaction, a bond in a molecule splits (RUPTURES) resulting in two molecular fragments. The splitting can be homolytic or heterolytic. In the first case, the bond is divided so that each product retains an electron and becomes a neutral radical. In the second case, both electrons of the chemical bond remain with one of the products, resulting in charged ions. Dissociation plays an important role in triggering chain reactions, such as hydrogen–oxygen or polymerization reactions.
 
@@ -132,8 +132,6 @@ Reaction types
 
 Four basic types
 
-Chemical_reactions.svg
-
 Synthesis
 
 In a synthesis reaction, two or more simple substances combine to form a more complex substance. These reactions are in the general form:
@@ -180,7 +178,7 @@ Another example of a double displacement reaction is the reaction of lead(II) ni
 
 Oxidation and reduction
 
-redox_reaction.png Common-salt.jpg is formed through the redox reaction of sodium metal and chlorine gas]]
+is formed through the redox reaction of sodium metal and chlorine gas]]
 
 Redox reactions can be understood in terms of transfer of electrons from one involved species (reducing agent) to another (oxidizing agent). In this process, the former species is _oxidized_ and the latter is _reduced_. Though sufficient for many purposes, these descriptions are not precisely correct. Oxidation is better defined as an increase in oxidation state, and reduction as a decrease in oxidation state. In practice, the transfer of electrons will always change the oxidation state, but there are many reactions that are classed as "redox" even though no electron transfer occurs (such as those involving covalent bonds).[25][26]
 
@@ -198,7 +196,7 @@ An important class of redox reactions are the electrochemical reactions, where e
 
 Complexation
 
-Ferrocene-from-xtal-3D-balls.png – an iron atom sandwiched between two C₅H₅ ligands]] In complexation reactions, several ligands react with a metal atom to form a coordination complex. This is achieved by providing lone pairs of the ligand into empty orbitals of the metal atom and forming dipolar bonds. The ligands are Lewis bases, they can be both ions and neutral molecules, such as carbon monoxide, ammonia or water. The number of ligands that react with a central metal atom can be found using the 18-electron rule, saying that the valence shells of a transition metal will collectively accommodate 18 electrons, whereas the symmetry of the resulting complex can be predicted with the crystal field theory and ligand field theory. Complexation reactions also include ligand exchange, in which one or more ligands are replaced by another, and redox processes which change the oxidation state of the central metal atom.[29]
+– an iron atom sandwiched between two C₅H₅ ligands]] In complexation reactions, several ligands react with a metal atom to form a coordination complex. This is achieved by providing lone pairs of the ligand into empty orbitals of the metal atom and forming dipolar bonds. The ligands are Lewis bases, they can be both ions and neutral molecules, such as carbon monoxide, ammonia or water. The number of ligands that react with a central metal atom can be found using the 18-electron rule, saying that the valence shells of a transition metal will collectively accommodate 18 electrons, whereas the symmetry of the resulting complex can be predicted with the crystal field theory and ligand field theory. Complexation reactions also include ligand exchange, in which one or more ligands are replaced by another, and redox processes which change the oxidation state of the central metal atom.[29]
 
 Acid-base reactions
 
@@ -216,7 +214,7 @@ Acid-base reactions can have different definitions depending on the acid-base co
 
 Precipitation
 
-Chemical_precipitation_diagram.svg Precipitation is the formation of a solid in a solution or inside another solid during a chemical reaction. It usually takes place when the concentration of dissolved ions exceeds the solubility limit[31] and forms an insoluble salt. This process can be assisted by adding a precipitating agent or by removal of the solvent. Rapid precipitation results in an amorphous or microcrystalline residue and slow process can yield single crystals. The latter can also be obtained by recrystallization from microcrystalline salts.[32]
+Precipitation is the formation of a solid in a solution or inside another solid during a chemical reaction. It usually takes place when the concentration of dissolved ions exceeds the solubility limit[31] and forms an insoluble salt. This process can be assisted by adding a precipitating agent or by removal of the solvent. Rapid precipitation results in an amorphous or microcrystalline residue and slow process can yield single crystals. The latter can also be obtained by recrystallization from microcrystalline salts.[32]
 
 Solid-state reactions
 
@@ -228,14 +226,14 @@ Reaction can take place at the solid|gas interface, surfaces at very low pressur
 
 Photochemical reactions
 
-Paterno-Buchi_reaction.svg, a photoexcited carbonyl group is added to an unexcited olefin, yielding an oxetane.]] In photochemical reactions, atoms and molecules absorb energy (photons) of the illumination light and convert into an excited state. They can then release this energy by breaking chemical bonds, thereby producing radicals. Photochemical reactions include hydrogen–oxygen reactions, radical polymerization, chain reactions and rearrangement reactions.[36]
+, a photoexcited carbonyl group is added to an unexcited olefin, yielding an oxetane.]] In photochemical reactions, atoms and molecules absorb energy (photons) of the illumination light and convert into an excited state. They can then release this energy by breaking chemical bonds, thereby producing radicals. Photochemical reactions include hydrogen–oxygen reactions, radical polymerization, chain reactions and rearrangement reactions.[36]
 
 Many important processes involve photochemistry. The premier example is photosynthesis, in which most plants use solar energy to convert carbon dioxide and water into glucose, disposing of oxygen as a side-product. Humans rely on photochemistry for the formation of vitamin D, and vision is initiated by a photochemical reaction of rhodopsin.[37] In fireflies, an enzyme in the abdomen catalyzes a reaction that results in bioluminescence.[38] Many significant photochemical reactions, such as ozone formation, occur in the Earth atmosphere and constitute atmospheric chemistry.
 
 
 Catalysis
 
-Activation_energy.svg Pot_catalytique_vue_de_la_structure.jpgs in order to maximize their surface area. This exhaust converter is from a Peugeot 106 S2 1100]]
+s in order to maximize their surface area. This exhaust converter is from a Peugeot 106 S2 1100]]
 
 In catalysis, the reaction does not proceed directly, but through reaction with a third substance known as catalyst. Although the catalyst takes part in the reaction, it is returned to its original state by the end of the reaction and so is not consumed. However, it can be inhibited, deactivated or destroyed by secondary processes. Catalysts can be used in a different phase (heterogeneous) or in the same phase (homogeneous) as the reactants. In heterogeneous catalysis, typical secondary processes include coking where the catalyst becomes covered by polymeric side products. Additionally, heterogeneous catalysts can dissolve into the solution in a solid–liquid system or evaporate in a solid–gas system. Catalysts can only speed up the reaction – chemicals that slow down the reaction are called inhibitors.[39][40] Substances that increase the activity of catalysts are called promoters, and substances that deactivate catalysts are called catalytic poisons. With a catalyst, a reaction which is kinetically inhibited by a high activation energy can take place in circumvention of this activation energy.
 
@@ -258,7 +256,7 @@ In the S_(N)2 mechanism, the nucleophile forms a transition state with the attac
 
 Electrophilic substitution is the counterpart of the nucleophilic substitution in that the attacking atom or molecule, an electrophile, has low electron density and thus a positive charge. Typical electrophiles are the carbon atom of carbonyl groups, carbocations or sulfur or nitronium cations. This reaction takes place almost exclusively in aromatic hydrocarbons, where it is called electrophilic aromatic substitution. The electrophile attack results in the so-called σ-complex, a transition state in which the aromatic system is abolished. Then, the leaving group, usually a proton, is split off and the aromaticity is restored. An alternative to aromatic substitution is electrophilic aliphatic substitution. It is similar to the nucleophilic aliphatic substitution and also has two major types, S_(E)1 and S_(E)2[46]
 
-Electrophilic_aromatic_substitution.svg In the third type of substitution reaction, radical substitution, the attacking particle is a radical.[47] This process usually takes the form of a chain reaction, for example in the reaction of alkanes with halogens. In the first step, light or heat disintegrates the halogen-containing molecules producing the radicals. Then the reaction proceeds as an avalanche until two radicals meet and recombine.[48]
+In the third type of substitution reaction, radical substitution, the attacking particle is a radical.[47] This process usually takes the form of a chain reaction, for example in the reaction of alkanes with halogens. In the first step, light or heat disintegrates the halogen-containing molecules producing the radicals. Then the reaction proceeds as an avalanche until two radicals meet and recombine.[48]
 
 :;X. + R-H -> X-H + R.
 
@@ -272,25 +270,19 @@ Addition and elimination
 
 The addition and its counterpart, the elimination, are reactions which change the number of substituents on the carbon atom, and form or cleave multiple bonds. Double and triple bonds can be produced by eliminating a suitable leaving group. Similar to the nucleophilic substitution, there are several possible reaction mechanisms which are named after the respective reaction order. In the E1 mechanism, the leaving group is ejected first, forming a carbocation. The next step, formation of the double bond, takes place with elimination of a proton (deprotonation). The leaving order is reversed in the E1cb mechanism, that is the proton is split off first. This mechanism requires participation of a base.[49] Because of the similar conditions, both reactions in the E1 or E1cb elimination always compete with the S_(N)1 substitution.[50]
 
-E2-mechanism.svg
-
 The E2 mechanism also requires a base, but there the attack of the base and the elimination of the leaving group proceed simultaneously and produce no ionic intermediate. In contrast to the E1 eliminations, different stereochemical configurations are possible for the reaction product in the E2 mechanism, because the attack of the base preferentially occurs in the anti-position with respect to the leaving group. Because of the similar conditions and reagents, the E2 elimination is always in competition with the S_(N)2-substitution.[51]
 
-HBr-Addition.png The counterpart of elimination is the addition where double or triple bonds are converted into single bonds. Similar to the substitution reactions, there are several types of additions distinguished by the type of the attacking particle. For example, in the electrophilic addition of hydrogen bromide, an electrophile (proton) attacks the double bond forming a carbocation, which then reacts with the nucleophile (bromine). The carbocation can be formed on either side of the double bond depending on the groups attached to its ends, and the preferred configuration can be predicted with the Markovnikov's rule.[52] This rule states that "In the heterolytic addition of a polar molecule to an alkene or alkyne, the more electronegative (nucleophilic) atom (or part) of the polar molecule becomes attached to the carbon atom bearing the smaller number of hydrogen atoms."[53]
+The counterpart of elimination is the addition where double or triple bonds are converted into single bonds. Similar to the substitution reactions, there are several types of additions distinguished by the type of the attacking particle. For example, in the electrophilic addition of hydrogen bromide, an electrophile (proton) attacks the double bond forming a carbocation, which then reacts with the nucleophile (bromine). The carbocation can be formed on either side of the double bond depending on the groups attached to its ends, and the preferred configuration can be predicted with the Markovnikov's rule.[52] This rule states that "In the heterolytic addition of a polar molecule to an alkene or alkyne, the more electronegative (nucleophilic) atom (or part) of the polar molecule becomes attached to the carbon atom bearing the smaller number of hydrogen atoms."[53]
 
 If the addition of a functional group takes place at the less substituted carbon atom of the double bond, then the electrophilic substitution with acids is not possible. In this case, one has to use the hydroboration–oxidation reaction, where in the first step, the boron atom acts as electrophile and adds to the less substituted carbon atom. At the second step, the nucleophilic hydroperoxide or halogen anion attacks the boron atom.[54]
 
 While the addition to the electron-rich alkenes and alkynes is mainly electrophilic, the nucleophilic addition plays an important role for the carbon-heteroatom multiple bonds, and especially its most important representative, the carbonyl group. This process is often associated with an elimination, so that after the reaction the carbonyl group is present again. It is therefore called addition-elimination reaction and may occur in carboxylic acid derivatives such as chlorides, esters or anhydrides. This reaction is often catalyzed by acids or bases, where the acids increase by the electrophilicity of the carbonyl group by binding to the oxygen atom, whereas the bases enhance the nucleophilicity of the attacking nucleophile.[55]
-
-H-Add-El.Mechanismus.PNG
 
 Nucleophilic addition of a carbanion or another nucleophile to the double bond of an alpha, beta unsaturated carbonyl compound can proceed via the Michael reaction, which belongs to the larger class of conjugate additions. This is one of the most useful methods for the mild formation of C–C bonds.[56][57][58]
 
 Some additions which can not be executed with nucleophiles and electrophiles, can be succeeded with free radicals. As with the free-radical substitution, the radical addition proceeds as a chain reaction, and such reactions are the basis of the free-radical polymerization.[59]
 
 Other organic reaction mechanisms
-
-Cope_Rearrangement_Scheme.png
 
 In a rearrangement reaction, the carbon skeleton of a molecule is rearranged to give a structural isomer of the original molecule. These include hydride shift reactions such as the Wagner-Meerwein rearrangement, where a hydrogen, alkyl or aryl group migrates from one carbon to a neighboring carbon. Most rearrangements are associated with the breaking and formation of new carbon-carbon bonds. Other examples are sigmatropic reaction such as the Cope rearrangement.[60]
 
@@ -301,14 +293,14 @@ Whether a certain cycloaddition would proceed depends on the electronic orbitals
 
 Biochemical reactions
 
-Induced_fit_diagram.svg Biochemical reactions are mainly controlled by enzymes. These proteins can specifically catalyze a single reaction, so that reactions can be controlled very precisely. The reaction takes place in the active site, a small part of the enzyme which is usually found in a cleft or pocket lined by amino acid residues, and the rest of the enzyme is used mainly for stabilization. The catalytic action of enzymes relies on several mechanisms including the molecular shape ("induced fit"), bond strain, proximity and orientation of molecules relative to the enzyme, proton donation or withdrawal (acid/base catalysis), electrostatic interactions and many others.[64]
+Biochemical reactions are mainly controlled by enzymes. These proteins can specifically catalyze a single reaction, so that reactions can be controlled very precisely. The reaction takes place in the active site, a small part of the enzyme which is usually found in a cleft or pocket lined by amino acid residues, and the rest of the enzyme is used mainly for stabilization. The catalytic action of enzymes relies on several mechanisms including the molecular shape ("induced fit"), bond strain, proximity and orientation of molecules relative to the enzyme, proton donation or withdrawal (acid/base catalysis), electrostatic interactions and many others.[64]
 
 The biochemical reactions that occur in living organisms are collectively known as metabolism. Among the most important of its mechanisms is the anabolism, in which different DNA and enzyme-controlled processes result in the production of large molecules such as proteins and carbohydrates from smaller units.[65] Bioenergetics studies the sources of energy for such reactions. An important energy source is glucose, which can be produced by plants via photosynthesis or assimilated from food. All organisms use this energy to produce adenosine triphosphate (ATP), which can then be used to energize other reactions.
 
 
 Applications
 
-Velp-thermitewelding-1.jpg Chemical reactions are central to chemical engineering where they are used for the synthesis of new compounds from natural raw materials such as petroleum and mineral ores. It is essential to make the reaction as efficient as possible, maximizing the yield and minimizing the amount of reagents, energy inputs and waste. Catalysts are especially helpful for reducing the energy required for the reaction and increasing its reaction rate.[66][67]
+Chemical reactions are central to chemical engineering where they are used for the synthesis of new compounds from natural raw materials such as petroleum and mineral ores. It is essential to make the reaction as efficient as possible, maximizing the yield and minimizing the amount of reagents, energy inputs and waste. Catalysts are especially helpful for reducing the energy required for the reaction and increasing its reaction rate.[66][67]
 
 Some specific reactions have their niche applications. For example, the thermite reaction is used to generate light and heat in pyrotechnics and welding. Although it is less controllable than the more conventional oxy-fuel welding, arc welding and flash welding, it requires much less equipment and is still used to mend rails, especially in remote areas.[68]
 

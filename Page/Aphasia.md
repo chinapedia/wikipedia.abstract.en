@@ -49,8 +49,6 @@ Subcortical
 
 Causes
 
-Aphasia.png
-
 Aphasia is most often caused by stroke, but any disease or damage to the parts of the brain that control language can cause aphasia. Some of these can include brain tumors, traumatic brain injury, and progressive neurological disorders.[11] In rare cases, aphasia may also result from herpesviral encephalitis.[12] The herpes simplex virus affects the frontal and temporal lobes, subcortical structures, and the hippocampal tissue, which can trigger aphasia.[13] In acute disorders, such as head injury or stroke, aphasia usually develops quickly. When caused by brain tumor, infection, or dementia, it develops more slowly.[14][15]
 
 Substantial damage to tissue anywhere within the region shown in blue on the figure below can potentially result in aphasia.[16] Aphasia can also sometimes be caused by damage to subcortical structures deep within the left hemisphere, including the thalamus, the internal and external capsules, and the caudate nucleus of the basal ganglia.[17][18] The area and extent of brain damage or atrophy will determine the type of aphasia and its symptoms.[19][20] A very small number of people can experience aphasia after damage to the right hemisphere only. It has been suggested that these individuals may have had an unusual brain organization prior to their illness or injury, with perhaps greater overall reliance on the right hemisphere for language skills than in the general population.[21][22]
@@ -93,7 +91,7 @@ Boston classification
 
 Classical-localizationist approaches
 
-BrocasAreaSmall.png Localizationist approaches aim to classify the aphasias according to their major presenting characteristics and the regions of the brain that most probably gave rise to them.[46][47] Inspired by the early work of nineteenth-century neurologists Paul Broca and Carl Wernicke, these approaches identify two major subtypes of aphasia and several more minor subtypes:
+Localizationist approaches aim to classify the aphasias according to their major presenting characteristics and the regions of the brain that most probably gave rise to them.[46][47] Inspired by the early work of nineteenth-century neurologists Paul Broca and Carl Wernicke, these approaches identify two major subtypes of aphasia and several more minor subtypes:
 
 -   Expressive aphasia (also known as "motor aphasia" or "Broca's aphasia"), which is characterized by halted, fragmented, effortful speech, but well-preserved comprehension _relative to expression_. Damage is typically in the anterior portion of the left hemisphere,[48] most notably Broca's area. Individuals with Broca's aphasia often have right-sided weakness or paralysis of the arm and leg, because the left frontal lobe is also important for body movement, particularly on the right side.
 -   Receptive aphasia (also known as "sensory aphasia" or "Wernicke's aphasia"), which is characterized by fluent speech, but marked difficulties understanding words and sentences. Although fluent, the speech may lack in key substantive words (nouns, verbs, adjectives), and may contain incorrect words or even nonsense words. This subtype has been associated with damage to the posterior left temporal cortex, most notably Wernicke's area. These individuals usually have no body weakness, because their brain injury is not near the parts of the brain that control movement.

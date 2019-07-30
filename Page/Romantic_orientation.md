@@ -26,7 +26,7 @@ Although asexuality is included in the LGBTQ+ community, there is yet inclusion 
 
 Aromanticism
 
-Aromantic_Pride_Flag.svg One of the attributes of aromantics is that, despite feeling little or no romantic attraction, they can still enjoy sex.[12] Aromantics are not necessarily incapable of feeling love. For example, they may still feel familial love, or the type of platonic love that is expressed between friends.[13] Some aromantics may claim that they are able to appreciate the type of love or romance that exists in popular culture, such as in movies, romantic books or songs, but only vicariously, and that they do not intuitively experience these feelings themselves.[14][15]
+One of the attributes of aromantics is that, despite feeling little or no romantic attraction, they can still enjoy sex.[12] Aromantics are not necessarily incapable of feeling love. For example, they may still feel familial love, or the type of platonic love that is expressed between friends.[13] Some aromantics may claim that they are able to appreciate the type of love or romance that exists in popular culture, such as in movies, romantic books or songs, but only vicariously, and that they do not intuitively experience these feelings themselves.[14][15]
 
 Some publications have argued that there is an underrepresentation of asexuals and aromantics in media[16] and in research,[17] and that they are often misunderstood.[18] Aromantics sometimes face stigma and are stereotyped with labels such as being heartless, callous or deluded.[19][20] Amatonormativity, a concept that elevates romantic relationships over non-romantic relationships, has been said to be damaging to aromantics.[21] Representation of aromantics in the media is increasing.[22]
 

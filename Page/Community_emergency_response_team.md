@@ -17,8 +17,6 @@ As people are trained and agree to join the community emergency response effort,
 
 A TEEN COMMUNITY EMERGENCY RESPONSE TEAM (TEEN CERT), or STUDENT EMERGENCY RESPONSE TEAM (SERT), can be formed from any group of teens.[1] A Teen CERT can be formed as a school club, service organization, Venturing Crew, Explorer Post, or the training can be added to a school's graduation curriculum. Some CERTs form a club or service corporation, and recruit volunteers to perform training on behalf of the sponsoring agency. This reduces the financial and human resource burden on the sponsoring agency.
 
-FEMA_-_7756_-_Photograph_by_Jocelyn_Augustino_taken_on_03-10-2003_in_Maryland.jpg
-
 When not responding to disasters or large emergencies, CERTs may
 
 -   raise funds for emergency response equipment in their community;
@@ -37,8 +35,6 @@ A team may self-activate (self-deploy) when their own neighborhood is affected b
 
 Teams in neighborhoods not affected by disaster may be deployed or activated by the sponsoring agency. The sponsoring agency may communicate with neighborhood CERT leaders through an organic communication team. In some areas the communications may be by amateur radio, FRS, GMRS or MURS radio, dedicated telephone or fire-alarm networks. In other areas, relays of bicycle-equipped runners can effectively carry messages between the teams and the local emergency operations center.
 
-FEMA_-_7746_-_Photograph_by_Jocelyn_Augustino_taken_on_03-10-2003_in_Maryland.jpg
-
 The sponsoring agency may activate and dispatch teams in order to gather or respond to intelligence about an incident. Teams may be dispatched to affected neighborhoods, or organized to support operations. CERT members may augment support staff at an Incident Command Post or Emergency Operations Center. Additional teams may also be created to guard a morgue, locate supplies and food, convey messages to and from other CERTs and local authorities, and other duties on an as-needed basis as identified by the team leader.
 
 In the short term, CERTs perform data gathering, especially to locate mass-casualties requiring professional response, or situations requiring professional rescues, simple fire-fighting tasks (for example, small fires, turning off gas), light search and rescue, damage evaluation of structures, triage and first aid. In the longer term, CERTs may assist in the evacuation of residents, or assist with setting up a neighborhood shelter.
@@ -56,8 +52,6 @@ The Federal Emergency Management Agency (FEMA) recommends that the standard, ten
 -   SEARCH AND RESCUE TEAM (2). Work under the supervision of the Team Leader, searching for and providing rescue of victims as is prudent under the conditions; when not accomplishing their primary mission, assist the Fire Suppression Team, assist in the triage or treatment area as needed; other duties as assigned; communicate with Team Leader.
 -   MEDICAL TRIAGE TEAM (2). Work under the supervision of the Team Leader, providing START triage for victims found at the scene; marking victims with category of injury per the standard operating procedures; when not accomplishing their primary mission, assist the Fire Suppression Team if needed, assist the Search and Rescue Team if needed, assist in the Medical Triage Area if needed, assist in the Treatment Area if needed, other duties as assigned; communicate with Team Leader.
 
-Springfield_CERT_Truck_(1708475192).jpg
-
 -   MEDICAL TREATMENT TEAM (2). Work under the supervision of the Team Leader, providing medical treatment to victims within the scope of their training. This task is normally accomplished in the Treatment Area, however, it may take place in the affected area as well. When not accomplishing their primary mission, assist the Fire Suppression Team as needed, assist the Medical Triage Team as needed; other duties as assigned; communicate with the Team Leader.
 
 Because every CERT member in a community receives the same core instruction, any team member has the training necessary to assume any of these roles. This is important during a disaster response because not all members of a regular team may be available to respond. Hasty teams may be formed by whichever members are responding at the time. Additionally, members may need to adjust team roles due to stress, fatigue, injury, or other circumstances.
@@ -65,7 +59,7 @@ Because every CERT member in a community receives the same core instruction, any
 
 Training
 
-Feb_5_2017_CERT_C.jpg Feb_5_2017_CERT_D.jpg While state and local jurisdictions will implement training in the manner that best suits the community, FEMA's National CERT Program has an established curriculum. Jurisdictions may augment the training, but are strongly encouraged to deliver the entire core content. The CERT core curriculum for the basic course is composed of the following nine units (time is instructional hours):[3]
+While state and local jurisdictions will implement training in the manner that best suits the community, FEMA's National CERT Program has an established curriculum. Jurisdictions may augment the training, but are strongly encouraged to deliver the entire core content. The CERT core curriculum for the basic course is composed of the following nine units (time is instructional hours):[3]
 
 -   UNIT 1: DISASTER PREPAREDNESS (2.5 hrs). Topics include (in part) identifying local disaster threats, disaster impact, mitigation and preparedness concepts, and an overview of Citizen Corps and CERT. Hands on skills include team-building exercises, and shutting off utilities.
 -   UNIT 2: FIRE SAFETY (2.5 hrs). Students learn about fire chemistry, mitigation practices, hazardous materials identification, suppression options, and are introduced to the concept of size-up. Hands-on skills include using a fire extinguisher to suppress a live flame, and wearing basic protective gear. Firefighting standpipes as well as unconventional firefighting methods are also covered.
@@ -79,8 +73,6 @@ Feb_5_2017_CERT_C.jpg Feb_5_2017_CERT_D.jpg While state and local jurisdictions 
 
 CERT training emphasizes safely "doing the most good for the most people as quickly as possible" when responding to a disaster. For this reason, cardiopulmonary resuscitation (CPR) training is not included in the core curriculum, as it is time and responder intensive in a mass-casualty incident. However, many jurisdictions encourage or require CERT members to obtain CPR training. Many CERT programs provide or encourage members to take additional first aid training. Some CERT members may also take training to become a certified first responder or emergency medical technician.
 
-Cert_ecc_(7643874586).jpg
-
 Many CERT programs also provide training in amateur radio operation, shelter operations, flood response, community relations, mass care, the incident command system (ICS), and the National Incident Management System (NIMS).
 
 Each unit of CERT training is ideally delivered by professional responders or other experts in the field addressed by the unit. This is done to help build unity between CERT members and responders, keep the attention of students, and help the professional response organizations be comfortable with the training which CERT members receive.
@@ -90,8 +82,6 @@ Each course of instruction is ideally facilitated by one or more instructors cer
 CERT training is provided free to interested members of the community, and is delivered in a group classroom setting. People may complete the training without obligation to join a CERT. Citizen Corps grant funds can be used to print and provide each student with a printed manual. Some sponsoring agencies use Citizen Corps grant funds to purchase disaster response tool kits. These kits are offered as an incentive to join a CERT, and must be returned to the sponsoring agency when members resign from CERT.
 
 Some sponsoring agencies require a criminal background-check of all trainees before allowing them to participate on a CERT. For example, the city of Albuquerque, New Mexico require all volunteers to pass a background check,[4] while the city of Austin, Texas does not require a background check to take part in training classes but requires members to undergo a background check in order to receive a CERT badge and directly assist first responders during an activation of the Emergency Operations Center.[5] However, most programs do not require a criminal background check in order to participate.
-
-FEMA_-_7743_-_Photograph_by_Jocelyn_Augustino_taken_on_03-10-2003_in_Maryland.jpg
 
 The CERT curriculum (including the Train-the-Trainer and Program Manager courses) was updated during the last half of 2017 to reflect feedback from instructors across the nation. The update is in final review, and is scheduled for release during 2018.
 

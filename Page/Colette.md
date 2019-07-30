@@ -9,7 +9,7 @@ Sidonie-Gabrielle Colette was born on January 28, 1873, to war hero and tax coll
 
 Early years, 1873–1912
 
-Colette_and_Mathilde_“Missy”_de_Morny.jpg In 1893, Colette married Henry Gauthier-Villars (1859 – 1931), a well-known author and publisher who used the pen name "Willy",[1] and her first four novels – the four Claudine stories: _Claudine à l'école_ (1900), _Claudine à Paris_ (1901), _Claudine en ménage_ (1902), and _Claudine s'en va_ (1903) – appeared under his name. (The four are published in English as _Claudine at School_, _Claudine in Paris_, _Claudine Married_, and _Claudine and Annie_). The novels chart the coming of age and young adulthood of their titular heroine, Claudine, from an unconventional fifteen-year-old in a Burgundian village to a doyenne of the literary salons of turn-of-the-century Paris. The story they tell is semi-autobiographical – most strikingly, Claudine, unlike Colette, is motherless.
+In 1893, Colette married Henry Gauthier-Villars (1859 – 1931), a well-known author and publisher who used the pen name "Willy",[1] and her first four novels – the four Claudine stories: _Claudine à l'école_ (1900), _Claudine à Paris_ (1901), _Claudine en ménage_ (1902), and _Claudine s'en va_ (1903) – appeared under his name. (The four are published in English as _Claudine at School_, _Claudine in Paris_, _Claudine Married_, and _Claudine and Annie_). The novels chart the coming of age and young adulthood of their titular heroine, Claudine, from an unconventional fifteen-year-old in a Burgundian village to a doyenne of the literary salons of turn-of-the-century Paris. The story they tell is semi-autobiographical – most strikingly, Claudine, unlike Colette, is motherless.
 
 Willy, fourteen years older than his wife and one of the most notorious libertines in Paris, introduced Colette into avant-garde intellectual and artistic circles, engaged in sexual affairs, and encouraged Colette's lesbian alliances. It was he who chose the titillating subject matter of the Claudine novels: "the secondary myth of Sappho... the girls' school or convent ruled by a seductive female teacher". Colette later said that she would never have become a writer if it had not been for Willy. Nevertheless, when Colette wished to have her name associated with her work as it became widely known, Willy resisted and "locked her in her room until she produced enough pages to suit him."[2]
 
@@ -19,7 +19,7 @@ In 1912, Colette married Henry de Jouvenel, the editor of _Le Matin_. A daughter
 
 Writing career, 1920–1954
 
-Jacques_Humbert_-_Colette.jpg]]
+]]
 
 In 1920 Colette published _Chéri_, portraying love between an older woman and a much younger man. Chéri is the lover of Léa, a wealthy courtesan; Léa is devastated when Chéri marries a girl his own age, and delighted when he returns to her, but after one final night together she sends him away again.
 
@@ -45,7 +45,7 @@ On her death on August 3, 1954, she was refused a religious funeral by the Catho
 
 Legacy
 
-perelachaise-Colette-p1000342.jpg.]] Colette was elected to the Belgian Royal Academy (1935), the Académie Goncourt (1945, and President in 1949), and a Chevalier (1920) and Grand Officer (1953) of the Légion d'honneur.
+.]] Colette was elected to the Belgian Royal Academy (1935), the Académie Goncourt (1945, and President in 1949), and a Chevalier (1920) and Grand Officer (1953) of the Légion d'honneur.
 
 Colette's numerous biographers have proposed widely differing interpretations of her life and work over the decades.[7] Initially considered a limited if talented novelist (despite the outspoken admiration in her lifetime of figures such as André Gide and Henry de Montherlant), she has been increasingly recognised as an important voice in women's writing. Just before Colette's death, Katherine Anne Porter wrote in the _New York Times_ that Colette "is the greatest living French writer of fiction; and that she was while Gide and Proust still lived."[8]
 

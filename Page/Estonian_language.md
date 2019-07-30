@@ -14,7 +14,7 @@ History
 
 The two different historical Estonian languages (sometimes considered dialects), the North and South Estonian languages, are based on the ancestors of modern Estonians' migration into the territory of Estonia in at least two different waves, both groups speaking considerably different Finnic vernaculars.[3] Modern standard Estonian has evolved on the basis of the dialects of Northern Estonia.
 
-EstonianGrammar1637.jpg published in Reval in 1637 by Heinrich Stahl]] The oldest written records of the Finnic languages of Estonia date from the 13th century. _Originates Livoniae_ in Chronicle of Henry of Livonia contains Estonian place names, words and fragments of sentences.
+published in Reval in 1637 by Heinrich Stahl]] The oldest written records of the Finnic languages of Estonia date from the 13th century. _Originates Livoniae_ in Chronicle of Henry of Livonia contains Estonian place names, words and fragments of sentences.
 
 Estonian literature
 
@@ -61,7 +61,7 @@ The return of Soviet immigrants to their countries of origin has brought the pro
 
 Dialects
 
-Wastne_Võro_keeli_A_B_D_raamat.jpg written by Johann Hurt: "Wastne Võro keeli ABD raamat"]] The Estonian dialects[16][17] are divided into two groups – the northern and southern dialects, historically associated with the cities of Tallinn in the north and Tartu in the south, in addition to a distinct _kirderanniku_ dialect, Northeastern coastal Estonian.
+written by Johann Hurt: "Wastne Võro keeli ABD raamat"]] The Estonian dialects[16][17] are divided into two groups – the northern and southern dialects, historically associated with the cities of Tallinn in the north and Tartu in the south, in addition to a distinct _kirderanniku_ dialect, Northeastern coastal Estonian.
 
 The northern group consists of the _keskmurre_ or central dialect that is also the basis for the standard language, the _läänemurre_ or western dialect, roughly corresponding to Lääne County and Pärnu County, the _saarte murre_ (islands') dialect of Saaremaa and Hiiumaa and the _idamurre_ or eastern dialect on the northwestern shore of Lake Peipus.
 

@@ -36,7 +36,7 @@ In January 1993, Lara scored 277 versus Australia in Sydney. This, his maiden Te
 
 Lara holds several world records for high scoring. He has the highest individual score in both first-class cricket (501 not out for Warwickshire against Durham in 1994) and Test cricket (400 not out for the West Indies against England in 2004). Lara amassed his world record 501 in 474 minutes off only 427 balls. He hit 308 in boundaries (10 sixes and 62 fours). His partners were Roger Twose (115 partnership – 2nd wicket), Trevor Penney (314 – 3rd), Paul Smith (51 – 4th) and Keith Piper (322 unbroken – 5th). Earlier in that season Lara scored six centuries in seven innings while playing for Warwickshire.
 
-BrianLaraUkexpatCropped.jpg at Kensington Oval, Bridgetown, Barbados, in 2002.]]
+at Kensington Oval, Bridgetown, Barbados, in 2002.]]
 
 He is the only man to have reclaimed the Test record score, having scored 375 against England in 1994, a record that stood until Matthew Hayden's 380 against Zimbabwe in 2003. His 400 not out also made him the second player (after Donald Bradman) to score two Test triple-centuries, and the second (after Bill Ponsford) to score two first-class quadruple-centuries. He has scored nine double centuries in Test cricket, third after Bradman's twelve and Kumar Sangakkara's eleven. As a captain, he scored five double centuries, which is the highest by any one who is in charge. In 1995 Lara in the Test match away series against England, scored 3 hundreds in Three consecutive Matches which earned him the Man of the Series award. The Test Series was eventually drawn 2–2. He also held the record for the highest total number of runs in a Test career, after overtaking Allan Border in an innings of 226 played at Adelaide Oval, Australia in November 2005. This was later broken by Sachin Tendulkar of India on 17 October 2008 whilst playing against Australia at Mohali in the 2nd Test of the Border-Gavaskar Trophy 2008.
 
@@ -52,7 +52,7 @@ In March 2005, Lara declined selection for the West Indies team because of a dis
 
 Lara returned to the team for the second Test (and scored a huge first innings score of 196), but in the process lost his captaincy indefinitely to the newly appointed Shivnarine Chanderpaul. In the next Test, against the same opponents, he scored a 176 in the first innings. After a one-day series against South Africa, he scored his first Test century against the visiting Pakistanis in the first Test at Kensington Oval, Bridgetown, Barbados which the West Indies eventually won.
 
-Brian_Lara_lap_of_honour.jpg.]] For his performances in 2005, he was named in the World Test XI by ICC [32].
+.]] For his performances in 2005, he was named in the World Test XI by ICC [32].
 
 On 26 April 2006 Lara was reappointed the captain of the West Indies cricket team for the third time. This followed the resignation of Shivnarine Chanderpaul, who had been captain for thirteen months – in which the West Indies won just one of the 14 Test matches they had competed. In May 2006, Lara led the West Indies to successful One-Day series victories against Zimbabwe and India. Lara's team played Australia in the finals of the DLF Cup and the ICC Champions Trophy where they finished runners up in both finals.
 
@@ -87,7 +87,7 @@ On 18 November 2016, Brian Lara signed with Newcastle C&S D5’s side The Bennet
 
 Personal life
 
-Barack_Obama_&_Brian_Lara_in_Port_of_Spain_4-19-09_(cropped).JPG and Lara during the US President's tour of Trinidad and Tobago in 2009. Obama had asked to meet Lara, whom he described as the "Michael Jordan of cricket".[54]]]Lara has dated former Durham County Cricket Club receptionist and British lingerie model Lynnsey Ward.[55]
+and Lara during the US President's tour of Trinidad and Tobago in 2009. Obama had asked to meet Lara, whom he described as the "Michael Jordan of cricket".[54]]]Lara has dated former Durham County Cricket Club receptionist and British lingerie model Lynnsey Ward.[55]
 
 His father died in 1989 of a heart attack and his mother died in 2002 of cancer.[56]
 
@@ -107,8 +107,6 @@ Brian Lara is also a golf player. He has participated in golfing tournaments thr
 
 
 Records
-
-Brian_Lara_Graph.png
 
 -   Lara struck 277 runs against Australia in Sydney, his MAIDEN TEST CENTURY, the fourth highest maiden Test century by any batsman,[62] the highest individual score in all Tests between the two teams and the fourth-highest century ever recorded against Australia by any Test batsman.
 -   He became the FIRST MAN TO SCORE SEVEN CENTURIES IN EIGHT FIRST-CLASS INNINGS, the first being the record 375 against England and the last being the record 501 not out against Durham.

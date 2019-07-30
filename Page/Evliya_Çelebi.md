@@ -16,7 +16,7 @@ Travels
 
 Mostar
 
-Mostar_Old_Town_Panorama.jpg in Mostar]] Evliya Çelebi visited the town of Mostar, then in Ottoman Bosnia and Herzegovina. He wrote that the name _Mostar_ means "bridge-keeper", in reference to the town's celebrated bridge, 28 meters long and 20 meters high. Çelebi wrote that it "is like a rainbow arch soaring up to the skies, extending from one cliff to the other. ...I, a poor and miserable slave of Allah, have passed through 16 countries, but I have never seen such a high bridge. It is thrown from rock to rock as high as the sky."[7]
+in Mostar]] Evliya Çelebi visited the town of Mostar, then in Ottoman Bosnia and Herzegovina. He wrote that the name _Mostar_ means "bridge-keeper", in reference to the town's celebrated bridge, 28 meters long and 20 meters high. Çelebi wrote that it "is like a rainbow arch soaring up to the skies, extending from one cliff to the other. ...I, a poor and miserable slave of Allah, have passed through 16 countries, but I have never seen such a high bridge. It is thrown from rock to rock as high as the sky."[7]
 
 Kosovo
 
@@ -79,7 +79,7 @@ In the 10 volumes of his _Seyahatname_, he describes the following journeys:
 
 In popular culture
 
-Evlija_Čelebija_(Evliya_Çelebi)_street_in_Skopje.jpg _İstanbul Kanatlarımın Altında_ (_Istanbul Under My Wings_, 1996) is a film about the lives of legendary aviator brothers Hezârfen Ahmed Çelebi and Lagâri Hasan Çelebi, and the Ottoman society in the early 17th century, during the reign of Murad IV, as witnessed and narrated by Evliya Çelebi.
+_İstanbul Kanatlarımın Altında_ (_Istanbul Under My Wings_, 1996) is a film about the lives of legendary aviator brothers Hezârfen Ahmed Çelebi and Lagâri Hasan Çelebi, and the Ottoman society in the early 17th century, during the reign of Murad IV, as witnessed and narrated by Evliya Çelebi.
 
 Çelebi appears in Orhan Pamuk's novel _The White Castle_, and is featured in _The Adventures of Captain Bathory_ (Dobrodružstvá kapitána Báthoryho) novels by Slovak writer Juraj Červenák.
 

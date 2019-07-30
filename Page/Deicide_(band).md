@@ -5,7 +5,7 @@ History
 
 Early days as Amon/Carnage (1987–1989)
 
-Deicide_band_017.jpg is one of the two constant members of Deicide.]] Deicide was formed in Tampa, Florida on July 21, 1987, after guitarist Brian Hoffman called Glen Benton, replying to an advertisement the latter had placed in a local music magazine. Hoffman and his brother, along with drummer Steve Asheim, had previously played together as the band "Carnage", which was in need of a bassist and vocalist.[4] Carnage played cover songs by Slayer, Exodus, Celtic Frost and Dark Angel.[5]
+is one of the two constant members of Deicide.]] Deicide was formed in Tampa, Florida on July 21, 1987, after guitarist Brian Hoffman called Glen Benton, replying to an advertisement the latter had placed in a local music magazine. Hoffman and his brother, along with drummer Steve Asheim, had previously played together as the band "Carnage", which was in need of a bassist and vocalist.[4] Carnage played cover songs by Slayer, Exodus, Celtic Frost and Dark Angel.[5]
 
 The new band, called Amon, consisted of Benton (bass and vocals), Hoffman, Hoffman's brother Eric (guitars) and Steve Asheim (drums).[6] Within a month, they had recorded the _Feasting the Beast_ 8-track demo in Benton's garage and had started playing the occasional gig in the Tampa area. [7] In 1989, Amon recorded their second demo, _Sacrificial_, at Morrisound with producer Scott Burns.
 
@@ -13,7 +13,7 @@ Malevolent Creation guitarist Phil Fasciana recalls an early Carnage show: "It w
 
 As Deicide (1989–2004)
 
-Deicide_band_016.jpg is one of the two constant members of Deicide.]] Benton reportedly stormed into Roadrunner Records' A&R man Monte Conner's office and presented him with the demo, saying, "Sign us, you fucking asshole!" The next day contracts were issued to the band.[9] In 1989 the band's name was changed to Deicide at the request of Roadrunner Records.
+is one of the two constant members of Deicide.]] Benton reportedly stormed into Roadrunner Records' A&R man Monte Conner's office and presented him with the demo, saying, "Sign us, you fucking asshole!" The next day contracts were issued to the band.[9] In 1989 the band's name was changed to Deicide at the request of Roadrunner Records.
 
 Deicide then released their self-titled debut album, also produced by Scott Burns at Morrisound, in 1990. Their debut featured re-recorded versions of all six of the _Sacrificial_ tunes that had secured them their record deal.
 
@@ -21,7 +21,7 @@ Both the Hoffman brothers tended to play technical solos at fast speeds and with
 
 Post-Hoffman brothers period (2004–present)
 
-Deicide_band_010.jpg joined Deicide in 2004, replacing the Hoffman brothers, and remained as a member of the band until 2016.]] Shortly after, the guitar roles were then filled by ex-Cannibal Corpse guitarist Jack Owen, and Vital Remains guitarist Dave Suzuki. Following the tour, Suzuki was replaced by Ralph Santolla, formerly of Death, Iced Earth and Sebastian Bach. Santolla stated he is a Catholic and this has received a small amount of shock and ridicule from some metal fans. In spite of this, Deicide's eighth studio album _The Stench of Redemption_ album received rave reviews.[11][12][13][14]
+joined Deicide in 2004, replacing the Hoffman brothers, and remained as a member of the band until 2016.]] Shortly after, the guitar roles were then filled by ex-Cannibal Corpse guitarist Jack Owen, and Vital Remains guitarist Dave Suzuki. Following the tour, Suzuki was replaced by Ralph Santolla, formerly of Death, Iced Earth and Sebastian Bach. Santolla stated he is a Catholic and this has received a small amount of shock and ridicule from some metal fans. In spite of this, Deicide's eighth studio album _The Stench of Redemption_ album received rave reviews.[11][12][13][14]
 
 In January 2007, Benton left the European tour and returned home to the United States as a result of legal issues at home. Asheim announced that Seth van Loo, from opening act Severe Torture, and Garbaty "Yaha", from the Polish death metal band Dissenter, would be replacing Glen Benton starting on January 9 in the Netherlands, until Benton could rejoin the tour. Benton rejoined in Paris on January 13.[15][16] On May 24, 2007, it was announced Ralph Santolla had left Deicide.[17] Subsequently, he joined Florida's Obituary and appears on their album _Xecutioner's Return_ as well as the tour. Then on July 20, 2007, guitarist Jack Owen (ex-Cannibal Corpse) announced that Deicide is "on hiatus" and he has joined Ohio based death/thrash combo Estuary for touring purposes.[18] The band did a Balkan tour, dubbed "Balkans AssassiNation Tour", in October 2007 alongside Krisiun, Incantation and Inactive Messiah.
 
@@ -42,7 +42,7 @@ On June 6, 2018, former guitarist Ralph Santolla died due to complications follo
 
 Controversy
 
-down right Deicide has received considerable controversy relating to their albums and lyrics, which include vehement anti-Christian themes, such as "Death to Jesus", "Fuck Your God", "Kill the Christian", "Behead the Prophet" and "Scars of the Crucifix", among others. Drummer Asheim said, "The whole point of Satanic music is to blaspheme against the Church", "I don't believe in or worship a devil. Life is short enough without having to waste it doing this whole organised praying, hoping, wishing-type thing on some superior being".[31]
+Deicide has received considerable controversy relating to their albums and lyrics, which include vehement anti-Christian themes, such as "Death to Jesus", "Fuck Your God", "Kill the Christian", "Behead the Prophet" and "Scars of the Crucifix", among others. Drummer Asheim said, "The whole point of Satanic music is to blaspheme against the Church", "I don't believe in or worship a devil. Life is short enough without having to waste it doing this whole organised praying, hoping, wishing-type thing on some superior being".[31]
 
 Most of the controversy surrounded frontman Benton for a rash of shocking interviews and wild statements. Benton has repeatedly branded an inverted cross into his forehead on at least 12 different occasions.[32] During an interview with _NME_ magazine, he shot and killed a squirrel with a pellet gun to prevent any further damage to his electrical system in the attic at the location the interview was held. This act garnered negative attention from critics and some animal rights activists. Benton had professed beliefs in theistic Satanism during Deicide's early years, claimed to slaughter rodents for fun, and that he held beliefs in demonic possession and that he was possessed.[33] Such statements had eventually been concluded as tongue-in-cheek and little more than sensationalism by band members questioned alternatively.[34] Additionally, Benton claimed in the early 1990s that he would commit suicide at the age of 33 to "mirror" a lifespan opposite that of Jesus Christ. However, he passed that age in 2000 and did not commit suicide, rebutting in 2006 that these statements had been "asinine remarks" and that "only cowards and losers" choose to kill themselves.[35]
 

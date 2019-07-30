@@ -9,7 +9,7 @@ History
 
 Early years
 
-England_1893.jpg at Richmond in 1893]] The England national football team is the joint-oldest in the world; it was formed at the same time as Scotland. A representative match between England and Scotland was played on 5 March 1870, having been organised by the Football Association. A return fixture was organised by representatives of Scottish football teams on 30 November 1872. This match, played at Hamilton Crescent in Scotland, is viewed as the first official international football match, because the two teams were independently selected and operated, rather than being the work of a single football association.[3] Over the next 40 years, England played exclusively with the other three Home Nations—Scotland, Wales and Ireland—in the British Home Championship.
+at Richmond in 1893]] The England national football team is the joint-oldest in the world; it was formed at the same time as Scotland. A representative match between England and Scotland was played on 5 March 1870, having been organised by the Football Association. A return fixture was organised by representatives of Scottish football teams on 30 November 1872. This match, played at Hamilton Crescent in Scotland, is viewed as the first official international football match, because the two teams were independently selected and operated, rather than being the work of a single football association.[3] Over the next 40 years, England played exclusively with the other three Home Nations—Scotland, Wales and Ireland—in the British Home Championship.
 
 At first, England had no permanent home stadium. They joined FIFA in 1906 and played their first ever games against countries other than the Home Nations on a tour of Central Europe in 1908. Wembley Stadium was opened in 1923 and became their home ground. The relationship between England and FIFA became strained, and this resulted in their departure from FIFA in 1928, before they rejoined in 1946. As a result, they did not compete in a World Cup until 1950, in which they were beaten in a 1–0 defeat by the United States, failing to get past the first round in one of the most embarrassing defeats in the team's history.[4]
 
@@ -17,7 +17,7 @@ Their first defeat on home soil to a foreign team was a 0–2 loss to the Republ
 
 Walter Winterbottom and Alf Ramsey
 
-The_Queen_presents_the_1966_World_Cup_to_England_Captain,_Bobby_Moore._(7936243534).jpg presenting England captain Bobby Moore with the Jules Rimet trophy following England's 4–2 victory over West Germany in the 1966 World Cup final]] Although Walter Winterbottom was appointed as England's first ever full-time manager in 1946, the team was still picked by a committee until Alf Ramsey took over in 1963. The 1966 FIFA World Cup was hosted in England and Ramsey guided England to victory with a 4–2 win against West Germany after extra time in the final, during which Geoff Hurst scored a hat-trick. In UEFA Euro 1968, the team reached the semi-finals for the first time, being eliminated by Yugoslavia.
+presenting England captain Bobby Moore with the Jules Rimet trophy following England's 4–2 victory over West Germany in the 1966 World Cup final]] Although Walter Winterbottom was appointed as England's first ever full-time manager in 1946, the team was still picked by a committee until Alf Ramsey took over in 1963. The 1966 FIFA World Cup was hosted in England and Ramsey guided England to victory with a 4–2 win against West Germany after extra time in the final, during which Geoff Hurst scored a hat-trick. In UEFA Euro 1968, the team reached the semi-finals for the first time, being eliminated by Yugoslavia.
 
 England qualified for the 1970 FIFA World Cup in Mexico as reigning champions, and reached the quarter-finals, where they were knocked out by West Germany. England had been 2–0 up, but were eventually beaten 3–2 after extra time. They failed in qualification for the 1974 FIFA World Cup, leading to Ramsey's dismissal.
 
@@ -39,7 +39,7 @@ Venables' successor, Glenn Hoddle, similarly left the job for non-footballing re
 
 Sven-Göran Eriksson, Steve McClaren and Fabio Capello
 
-England_team.jpg]] Sven-Göran Eriksson took charge between 2001 and 2006, and was the team's first non-English manager. He guided England to the quarter-finals of the 2002 FIFA World Cup, UEFA Euro 2004 and the 2006 FIFA World Cup. England lost only five competitive matches during his tenure, and England rose to number four in the world ranking under his guidance. Eriksson's contract was extended by the FA by two years, to include UEFA Euro 2008, but was terminated by them after the 2006 World Cup.
+]] Sven-Göran Eriksson took charge between 2001 and 2006, and was the team's first non-English manager. He guided England to the quarter-finals of the 2002 FIFA World Cup, UEFA Euro 2004 and the 2006 FIFA World Cup. England lost only five competitive matches during his tenure, and England rose to number four in the world ranking under his guidance. Eriksson's contract was extended by the FA by two years, to include UEFA Euro 2008, but was terminated by them after the 2006 World Cup.
 
 Steve McClaren was then appointed as head coach, but after failing to qualify for Euro 2008 was sacked on 22 November 2007. The following month, he was replaced by a second foreign manager, Italian Fabio Capello, whose experience included spells at Juventus and Real Madrid. England won all but one of their qualifying games for the 2010 FIFA World Cup, but at the tournament itself, England drew their opening two games; this led to questions about the team's spirit, tactics and ability to handle pressure.[8] They progressed to the next round, however, where they were beaten 4–1 by Germany, their heaviest defeat in a World Cup finals tournament match. In February 2012, Capello resigned from his role as England manager, following a disagreement with the FA over their request to remove John Terry from team captaincy after accusations of racial abuse concerning the player.[9]
 
@@ -47,14 +47,14 @@ Roy Hodgson, Sam Allardyce and Gareth Southgate
 
 In May 2012, Roy Hodgson was announced as the new manager, just six weeks before UEFA Euro 2012.[10] England managed to finish top of their group, but exited the Championships in the quarter-finals via a penalty shoot-out, against Italy.[11] In the 2014 FIFA World Cup, England were eliminated at the group stage for the first time since the 1958 World Cup, and the first time at a major tournament since Euro 2000.[12] England qualified unbeaten for UEFA Euro 2016,[13] but were ultimately eliminated in the Round of 16, losing 2–1 to Iceland.[14] Hodgson resigned as manager immediately,[15] and just under a month later was replaced by Sam Allardyce.[16] After only 67 days Allardyce resigned from his managerial post by mutual agreement, after alleged breach of rules of the FA, making him the shortest serving permanent England manager.[17]
 
-England_line-up_before_game_v_Belgium.jpg, 28 June 2018]] Gareth Southgate, then the coach of the England under-21 team, was put in temporary charge of the national team until November of that year,[18] before being given the position on a permanent basis.[19] Under Southgate, England qualified for the 2018 FIFA World Cup[20] and came second in their group at the tournament.[21][22] They defeated Colombia on penalties in the first knock-out round,[23][24] and then beat Sweden 2–0 in the quarter-final to reach only their third World Cup semi-final.[25][26] In the semi-final, they were beaten 2–1 in extra time by Croatia[27][28][29] and then were beaten by Belgium for a second time, 2–0, in the third place match.[30] England striker Harry Kane finished the tournament as top scorer with six goals.
+, 28 June 2018]] Gareth Southgate, then the coach of the England under-21 team, was put in temporary charge of the national team until November of that year,[18] before being given the position on a permanent basis.[19] Under Southgate, England qualified for the 2018 FIFA World Cup[20] and came second in their group at the tournament.[21][22] They defeated Colombia on penalties in the first knock-out round,[23][24] and then beat Sweden 2–0 in the quarter-final to reach only their third World Cup semi-final.[25][26] In the semi-final, they were beaten 2–1 in extra time by Croatia[27][28][29] and then were beaten by Belgium for a second time, 2–0, in the third place match.[30] England striker Harry Kane finished the tournament as top scorer with six goals.
 
 
 Team image
 
 Colours
 
-Eng1966_football_shirt.jpeg]] England's traditional home colours are white shirts, navy blue shorts and white or black socks. The team has periodically worn an all-white kit.
+]] England's traditional home colours are white shirts, navy blue shorts and white or black socks. The team has periodically worn an all-white kit.
 
 Although England's first away kits were blue, England's traditional away colours are red shirts, white shorts and red socks. In 1996, England's away kit was changed to grey shirts, shorts and socks. This kit was only worn three times, including against Germany in the semi-final of Euro 1996 but the deviation from the traditional red was unpopular with supporters and the England away kit remained red until 2011, when a navy blue away kit was introduced. The away kit is also sometimes worn during home matches, when a new edition has been released to promote it.
 
@@ -98,7 +98,7 @@ Kit deals
 
 Home stadium
 
-Wembley_enggermatch.jpg during a friendly match between England and Germany]] For the first 50 years of their existence, England played their home matches all around the country. They initially used cricket grounds before later moving on to football clubs' stadiums. The original Empire Stadium was built in Wembley, London, for the British Empire Exhibition.
+during a friendly match between England and Germany]] For the first 50 years of their existence, England played their home matches all around the country. They initially used cricket grounds before later moving on to football clubs' stadiums. The original Empire Stadium was built in Wembley, London, for the British Empire Exhibition.
 
 England played their first match at the stadium in 1924 against Scotland and for the next 27 years Wembley was used as a venue for matches against Scotland only. The stadium later became known simply as Wembley Stadium and it became England's permanent home stadium during the 1950s. In October 2000, the stadium closed its doors, ending with a defeat.
 
@@ -156,7 +156,7 @@ Most capped players
 
 _Updated 9 June 2019._
 
-Shilton.png Players with an equal number of caps are ranked in chronological order of reaching the milestone.
+Players with an equal number of caps are ranked in chronological order of reaching the milestone.
 
   #               Name             Career      Caps   Goals   Position
   --------------- ---------------- ----------- ------ ------- ----------
@@ -184,8 +184,6 @@ Shilton.png Players with an equal number of caps are ranked in chronological ord
 Top goalscorers
 
 _Updated 9 June 2019._
-
-Wayne_Rooney_Euro_2012_vs_Italy.jpg
 
   #                Name                    Career      Goals   Caps   Position   Average
   ---------------- ----------------------- ----------- ------- ------ ---------- ---------
@@ -384,7 +382,7 @@ Minor tournaments
 
 Honours and achievements
 
-ENG-FRG_1966-07-30.svg Major:
+Major:
 
 -   FIFA WORLD CUP
     -   Champions: 1966

@@ -1,4 +1,4 @@
-Black_Powder_Close_Up.jpg firearms and in FFFg granulation size. U.S. quarter (diameter 24 mm) for comparison.]]
+firearms and in FFFg granulation size. U.S. quarter (diameter 24 mm) for comparison.]]
 
 GUNPOWDER, also known as BLACK POWDER to distinguish it from modern smokeless powder, is the earliest known chemical explosive. It consists of a mixture of sulfur (S), charcoal (C), and potassium nitrate (saltpeter, KNO₃). The sulfur and charcoal act as fuels while the saltpeter is an oxidizer. Because of its incendiary properties and the amount of heat and gas volume that it generates, gunpowder has been widely used as a propellant in firearms, artillery, rockets, and fireworks, and as a blasting powder in quarrying, mining, and road building.
 
@@ -13,7 +13,7 @@ Gunpowder was widely used to fill fused artillery shells (and used in mining and
 
 History of gunpowder
 
-Chinese_Gunpowder_Formula.JPG'' of 1044 AD.]] Huolongjing_bomb.jpg'' c. 1350.]] てつはう（震天雷）.JPG), excavated from the Takashima shipwreck, October 2011, dated to the Mongol invasions of Japan (1274–1281 AD).]]
+'' of 1044 AD.]] '' c. 1350.]] ), excavated from the Takashima shipwreck, October 2011, dated to the Mongol invasions of Japan (1274–1281 AD).]]
 
 China
 
@@ -31,7 +31,7 @@ File:Manual Fire Arrow.jpg|An arrow strapped with gunpowder ready to be shot fro
 
 Middle East
 
-Ibn_Ghanims_gun.jpg cannon from the book _Al-izz wal rifa'a_.]]
+cannon from the book _Al-izz wal rifa'a_.]]
 
 The Muslims acquired knowledge of gunpowder some time between 1240 and 1280, by which point the Syrian Hasan al-Rammah had written, in Arabic, recipes for gunpowder, instructions for the purification of saltpeter, and descriptions of gunpowder incendiaries. It is implied by al-Rammah's usage of "terms that suggested he derived his knowledge from Chinese sources" and his references to saltpeter as "Chinese snow" ( __), fireworks as "Chinese flowers" and rockets as "Chinese arrows" that knowledge of gunpowder arrived from China. However, because al-Rammah attributes his material to "his father and forefathers", al-Hassan argues that gunpowder became prevalent in Syria and Egypt by "the end of the twelfth century or the beginning of the thirteenth".[4] In Persia saltpeter was known as "Chinese salt" () _namak-i chīnī_) or "salt from Chinese salt marshes" ( __).
 
@@ -49,9 +49,9 @@ The state-controlled manufacture of gunpowder by the Ottoman Empire through earl
 
 Mainland Europe
 
-De_uitvinding_van_het_buskruit,_anoniem,_Museum_Plantin-Moretus,_PK_OPB_0186_004.jpg (PK.OPB.0168.004)]]
+(PK.OPB.0168.004)]]
 
-EarlyCannonDeNobilitatibusSapientiiEtPrudentiisRegumManuscriptWalterdeMilemete1326.jpg, 1326.]] Büchsenmeysterei_1531_CHF.jpg De_la_pirotechnia_1540_Title_Page_AQ1_(1).jpg J._C._Stövesandt_1748_Deutliche_Anweisung_zur_Feuerwerkerey.jpg
+, 1326.]]
 
 The earliest Western accounts of gunpowder appear in texts written by English philosopher Roger Bacon in the 13th century. Several sources mention Chinese firearms and gunpowder weapons being deployed by the Mongols against European forces at the Battle of Mohi in 1241.[15][16] Professor Kenneth Warren Chase credits the Mongols for introducing into Europe gunpowder and its associated weaponry. However, there is no clear route of transmission, and while the Mongols are often pointed to as the likeliest vector, Timothy May points out that "there is no concrete evidence that the Mongols used gunpowder weapons on a regular basis outside of China."[17] However, Timothy May also points out "However... the Mongols used the gunpowder weapon in their wars against the Jin, the Song and in their invasions of Japan."[18]
 
@@ -95,7 +95,7 @@ This left the sole United Kingdom gunpowder factory at ICI Nobel's Ardeer site i
 
 India
 
-Rocket_warfare.jpg began to annex the territories of the Sultanate of Mysore, during the Second Anglo-Mysore War. The British battalion was defeated during the Battle of Guntur, by the forces of Hyder Ali, who effectively utilized Mysorean rockets and rocket artillery against the closely massed British forces.]] Meister_der_Shâh-Jahân-Nâma-Memoiren_001.jpg Shah Jahan, hunting deer using a matchlock]]
+began to annex the territories of the Sultanate of Mysore, during the Second Anglo-Mysore War. The British battalion was defeated during the Battle of Guntur, by the forces of Hyder Ali, who effectively utilized Mysorean rockets and rocket artillery against the closely massed British forces.]] Shah Jahan, hunting deer using a matchlock]]
 
 Gunpowder and gunpowder weapons were transmitted to India through the Mongol invasions of India.[30][31] The Mongols were defeated by Alauddin Khalji of the Delhi Sultanate, and some of the Mongol soldiers remained in northern India after their conversion to Islam.[32] It was written in the _Tarikh-i Firishta_ (1606–1607) that Nasir ud din Mahmud the ruler of the Delhi Sultanate presented the envoy of the Mongol ruler Hulegu Khan with a dazzling pyrotechnics display upon his arrival in Delhi in 1258. Nasir ud din Mahmud tried to express his strength as a ruler and tried to ward off any Mongol attempt similar to the Siege of Baghdad (1258).[33] Firearms known as _top-o-tufak_ also existed in many Muslim kingdoms in India by as early as 1366.[34] From then on the employment of gunpowder warfare in India was prevalent, with events such as the "Siege of Belgaum" in 1473 by Sultan Muhammad Shah Bahmani.[35]
 
@@ -117,7 +117,7 @@ Saltpeter harvesting was recorded by Dutch and German travelers as being common 
 
 Historiography
 
-Pháo_thủ.jpg]] On the origins of gunpowder technology, historian Tonio Andrade remarked, "Scholars today overwhelmingly concur that the gun was invented in China." Gunpowder and the gun are widely believed by historians to have originated from China because there is a large body of evidence that documents the evolution of the gun from the Chinese fire lance to a metal gun and the evolution of gunpowder from a medicine to an incendiary and an explosive, whereas similar records do not exist in Europe. As Andrade explains, the large amount of variation in gunpowder recipes in China relative to Europe is "evidence of experimentation in China, where gunpowder was at first used as an incendiary and only later became an explosive and a propellant... in contrast, formulas in Europe diverged only very slightly from the ideal proportions for use as an explosive and a propellant, suggesting that gunpowder was introduced as a mature technology."
+]] On the origins of gunpowder technology, historian Tonio Andrade remarked, "Scholars today overwhelmingly concur that the gun was invented in China." Gunpowder and the gun are widely believed by historians to have originated from China because there is a large body of evidence that documents the evolution of the gun from the Chinese fire lance to a metal gun and the evolution of gunpowder from a medicine to an incendiary and an explosive, whereas similar records do not exist in Europe. As Andrade explains, the large amount of variation in gunpowder recipes in China relative to Europe is "evidence of experimentation in China, where gunpowder was at first used as an incendiary and only later became an explosive and a propellant... in contrast, formulas in Europe diverged only very slightly from the ideal proportions for use as an explosive and a propellant, suggesting that gunpowder was introduced as a mature technology."
 
 However, the history of gunpowder is not without controversy. A major problem confronting the study of early gunpowder history is ready access to sources close to the events described. Often the first records potentially describing use of gunpowder in warfare were written several centuries after the fact, and may well have been colored by the contemporary experiences of the chronicler. Translation difficulties have led to errors or loose interpretations bordering on artistic licence. Ambiguous language can make it difficult to distinguish gunpowder weapons from similar technologies that do not rely on gunpowder. A commonly cited example is a report of the Battle of Mohi in Eastern Europe that mentions a "long lance" sending forth "evil-smelling vapors and smoke", which has been variously interpreted by different historians as the "first-gas attack upon European soil" using gunpowder, "the first use of cannon in Europe", or merely a "toxic gas" with no evidence of gunpowder. It is difficult to accurately translate original Chinese alchemical texts, which tend to explain phenomena through metaphor, into modern scientific language with rigidly defined terminology in English. Early texts potentially mentioning gunpowder are sometimes marked by a linguistic process where semantic change occurred. For instance, the Arabic word _naft_ transitioned from denoting naphtha to denoting gunpowder, and the Chinese word _pào_ changed in meaning from catapult to referring to a cannon. This has led to arguments on the exact origins of gunpowder based on etymological foundations. Science and technology historian Bert S. Hall makes the observation that, "It goes without saying, however, that historians bent on special pleading, or simply with axes of their own to grind, can find rich material in these terminological thickets."
 
@@ -126,7 +126,7 @@ Another major area of contention in modern studies of the history of gunpowder i
 
 Manufacturing technology
 
-Hagley_Mill_Equipment.jpg]] Irvinepowderhouse2.JPG. Irvine, North Ayrshire, Scotland]] Martello_Tower_barrels.jpg in Point Pleasant Park]] Barout_khaneh_near_Tehran_by_Eugène_Flandin.jpg near Tehran, Persia. Gunpowder was extensively used in the Naderian Wars.]]
+]] . Irvine, North Ayrshire, Scotland]] in Point Pleasant Park]] near Tehran, Persia. Gunpowder was extensively used in the Naderian Wars.]]
 
 For the most powerful black powder, meal powder, a wood charcoal, is used. The best wood for the purpose is Pacific willow,[50] but others such as alder or buckthorn can be used. In Great Britain between the 15th and 19th centuries charcoal from alder buckthorn was greatly prized for gunpowder manufacture; cottonwood was used by the American Confederate States. The ingredients are reduced in particle size and mixed as intimately as possible. Originally, this was with a mortar-and-pestle or a similarly operating stamping-mill, using copper, bronze or other non-sparking materials, until supplanted by the rotating ball mill principle with non-sparking bronze or lead. Historically, a marble or limestone edge runner mill, running on a limestone bed, was used in Great Britain; however, by the mid 19th century this had changed to either an iron-shod stone wheel or a cast iron wheel running on an iron bed.[51] The mix was dampened with alcohol or water during grinding to prevent accidental ignition. This also helps the extremely soluble saltpeter to mix into the microscopic nooks and crannies of the very high surface-area charcoal.
 
@@ -198,7 +198,7 @@ Lesmok powder was a product developed by DuPont in 1911,[77] one of several semi
 
 Sulfur-free gunpowder
 
-Burst_muzzle_loader_barrel.jpg The development of smokeless powders, such as cordite, in the late 19th century created the need for a spark-sensitive priming charge, such as gunpowder. However, the sulfur content of traditional gunpowders caused corrosion problems with Cordite Mk I and this led to the introduction of a range of sulfur-free gunpowders, of varying grain sizes. They typically contain 70.5 parts of saltpeter and 29.5 parts of charcoal. Like black powder, they were produced in different grain sizes. In the United Kingdom, the finest grain was known as _sulfur-free mealed powder_ (_SMP_). Coarser grains were numbered as sulfur-free gunpowder (SFG n): 'SFG 12', 'SFG 20', 'SFG 40' and 'SFG 90', for example; where the number represents the smallest BSS sieve mesh size, which retained no grains.
+The development of smokeless powders, such as cordite, in the late 19th century created the need for a spark-sensitive priming charge, such as gunpowder. However, the sulfur content of traditional gunpowders caused corrosion problems with Cordite Mk I and this led to the introduction of a range of sulfur-free gunpowders, of varying grain sizes. They typically contain 70.5 parts of saltpeter and 29.5 parts of charcoal. Like black powder, they were produced in different grain sizes. In the United Kingdom, the finest grain was known as _sulfur-free mealed powder_ (_SMP_). Coarser grains were numbered as sulfur-free gunpowder (SFG n): 'SFG 12', 'SFG 20', 'SFG 40' and 'SFG 90', for example; where the number represents the smallest BSS sieve mesh size, which retained no grains.
 
 Sulfur's main role in gunpowder is to decrease the ignition temperature. A sample reaction for sulfur-free gunpowder would be
 

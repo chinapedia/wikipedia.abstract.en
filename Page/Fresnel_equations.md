@@ -1,5 +1,3 @@
-Partial_transmittance.gif
-
 The FRESNEL EQUATIONS (or FRESNEL COEFFICIENTS) describe the reflection and transmission of light (or electromagnetic radiation in general) when incident on an interface between different optical media. They were deduced by Augustin-Jean Fresnel () who was the first to understand that light is a transverse wave, even though no one realized that the "vibrations" of the wave were electric and magnetic fields. For the first time, polarization could be understood quantitatively, as Fresnel's equations correctly predicted the differing behaviour of waves of the _s_ and _p_ polarizations incident upon a material interface.
 
 
@@ -20,7 +18,7 @@ Although the reflectivity and transmission are dependent on polarization, at nor
 
 Power (intensity) reflection and transmission coefficients
 
-Fresnel1.svg Fresnel_power_air-to-glass.svg Fresnel_power_glass-to-air.svg In the diagram on the right, an incident plane wave in the direction of the ray IO strikes the interface between two media of refractive indices _n_₁ and _n_₂ at point O. Part of the wave is reflected in the direction OR, and part refracted in the direction OT. The angles that the incident, reflected and refracted rays make to the normal of the interface are given as _θ__(i), _θ__(r) and _θ__(t), respectively.
+In the diagram on the right, an incident plane wave in the direction of the ray IO strikes the interface between two media of refractive indices _n_₁ and _n_₂ at point O. Part of the wave is reflected in the direction OR, and part refracted in the direction OT. The angles that the incident, reflected and refracted rays make to the normal of the interface are given as _θ__(i), _θ__(r) and _θ__(t), respectively.
 
 The relationship between these angles is given by the law of reflection:
 
@@ -101,7 +99,7 @@ When light travelling in a denser medium strikes the surface of a less dense med
 
 Amplitude reflection and transmission coefficients
 
-The above _practical_ equations relating powers (which could be measured with a photometer for instance) are derived from the actual Fresnel equations which solve the physical problem in terms of electric and magnetic field amplitudes. Those underlying equations supply generally complex-valued ratios of those amplitudes and may take several different forms, depending on formalisms used. The amplitude coefficients are usually represented by lower case _r_ and _t_ (whereas the power coefficients are capitalized). Fresnel_amplitudes_air-to-glass.svg Fresnel_amplitudes_glass-to-air.svg
+The above _practical_ equations relating powers (which could be measured with a photometer for instance) are derived from the actual Fresnel equations which solve the physical problem in terms of electric and magnetic field amplitudes. Those underlying equations supply generally complex-valued ratios of those amplitudes and may take several different forms, depending on formalisms used. The amplitude coefficients are usually represented by lower case _r_ and _t_ (whereas the power coefficients are capitalized).
 
 In the following, the reflection coefficient is the ratio of the reflected wave's complex electric field amplitude to that of the incident wave. The transmission coefficient is the ratio of the transmitted wave's electric field amplitude to that of the incident wave. We require separate formulae for the _s_ and _p_ polarizations. In each case we assume an incident plane wave at an angle of incidence θ_(i) on a plane interface, reflected at an angle θ_(r), and with a transmitted wave at an angle θ_(t), corresponding to the above figure. Note that in the cases of an interface into an absorbing material (where _n_ is complex) or total internal reflection, the angle of transmission might not evaluate to a real number.
 
@@ -230,8 +228,6 @@ $$n=\sqrt{\mu_{\text{rel}}\epsilon_{\text{rel}}}\,$$
 Taking the reciprocal of (), we find that the intrinsic _impedance_ is $Z=\sqrt{\mu/\epsilon}$.  In a vacuum this takes the value $Z_0=\sqrt{\mu_0/\epsilon_0}\,\approx 377\,\Omega\,,$ known as the impedance of free space. By division, $Z/Z_0=\sqrt{\mu_{\text{rel}}/\epsilon_{\text{rel}}}$. For a _non-magnetic_ medium, this becomes $Z=Z_0\big/\!\sqrt{\epsilon_{\text{rel}}}=Z_0/n.$
 
 The wave vectors
-
-Wave_vectors_n1_to_n2.svg
 
 In Cartesian coordinates , let the region have refractive index intrinsic admittance etc., and let the region have refractive index intrinsic admittance etc. Then the plane is the interface, and the axis is normal to the interface (see diagram). Let and (in bold roman type) be the unit vectors in the and directions, respectively. Let the plane of incidence be the plane (the plane of the page), with the angle of incidence measured from towards . Let the angle of refraction, measured in the same sense, be where the subscript stands for _transmitted_ (reserving for _reflected_).
 

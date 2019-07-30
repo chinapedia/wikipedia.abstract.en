@@ -1,7 +1,6 @@
 +---------------------------------+
 | Set of regular right bipyramids |
 +=================================+
-| Hexagonale_bipiramide.png       |
 | (Example hexagonal form)        |
 +---------------------------------+
 | Coxeter diagram                 |
@@ -27,7 +26,7 @@
 | Net                             |
 +---------------------------------+
 
-bipiramide5.jpgs and elastics. An extra axial straw is added which doesn't exist in the simple polyhedron]] An _n_-gonal BIPYRAMID or DIPYRAMID is a polyhedron formed by joining an _n_-gonal pyramid and its mirror image base-to-base. An _n_-gonal bipyramid has 2_n_ triangle faces, 3_n_ edges, and 2 + _n_ vertices.
+s and elastics. An extra axial straw is added which doesn't exist in the simple polyhedron]] An _n_-gonal BIPYRAMID or DIPYRAMID is a polyhedron formed by joining an _n_-gonal pyramid and its mirror image base-to-base. An _n_-gonal bipyramid has 2_n_ triangle faces, 3_n_ edges, and 2 + _n_ vertices.
 
 The referenced _n_-gon in the name of the bipyramids is not an external face but an internal one, existing on the primary symmetry plane which connects the two pyramid halves.
 
@@ -38,7 +37,7 @@ A RIGHT BIPYRAMID has two points above and below the centroid of its base. Nonri
 
 A CONCAVE BIPYRAMID has a concave interior polygon.
 
-    Concave_quadrilateral_bipyramid.png
+
 
 The face-transitive regular bipyramids are the dual polyhedra of the uniform prisms and will generally have isosceles triangle faces.
 
@@ -60,12 +59,12 @@ Equilateral triangle bipyramids
 
 Only three kinds of bipyramids can have all edges of the same length (which implies that all faces are equilateral triangles, and thus the bipyramid is a deltahedron): the triangular, tetragonal, and pentagonal bipyramids. The tetragonal bipyramid with identical edges, or regular octahedron, counts among the Platonic solids, while the triangular and pentagonal bipyramids with identical edges count among the Johnson solids (J₁₂ and J₁₃).
 
-+--------------------------+------------------+--------------------------+
-| Triangular_dipyramid.png | octahedron.svg   | Pentagonal_dipyramid.png |
-+--------------------------+------------------+--------------------------+
-| Triangular bipyramid     | Square bipyramid | Pentagonal bipyramid     |
-|                          | (Octahedron)     |                          |
-+--------------------------+------------------+--------------------------+
++----------------------+------------------+----------------------+
+|                      |                  |                      |
++----------------------+------------------+----------------------+
+| Triangular bipyramid | Square bipyramid | Pentagonal bipyramid |
+|                      | (Octahedron)     |                      |
++----------------------+------------------+----------------------+
 
 
 Kaleidoscopic symmetry
@@ -74,9 +73,9 @@ If the base is regular and the line through the apexes intersects the base at it
 
 The digonal faces of a spherical 2_n_-bipyramid represents the fundamental domains of dihedral symmetry in three dimensions: D_(_n_h), [_n_,2], (*_n_22), order 4_n_. The reflection domains can be shown as alternately colored triangles as mirror images.
 
-  D_(1h)                             D_(2h)                            D_(3h)                               D_(4h)                               D_(5h)                               D_(6h)                                 ...
-  ---------------------------------- --------------------------------- ------------------------------------ ------------------------------------ ------------------------------------ -------------------------------------- -----
-  Spherical_digonal_bipyramid2.svg   Spherical_square_bipyramid2.svg   Spherical_hexagonal_bipyramid2.png   Spherical_octagonal_bipyramid2.png   Spherical_decagonal_bipyramid2.png   Spherical_dodecagonal_bipyramid2.png
+  D_(1h)   D_(2h)   D_(3h)   D_(4h)   D_(5h)   D_(6h)   ...
+  -------- -------- -------- -------- -------- -------- -----
+
 
 
 Right regular bipyramids
@@ -85,9 +84,9 @@ Asymmetric right bipyramids
 
 An ASYMMETRIC RIGHT BIPYRAMID joins two unequal height pyramids. An _inverted_ form can also have both pyramids on the same side. A regular _n_-gonal asymmetry right pyramid has symmetry C_(_n_)v, order 2_n_. The dual polyhedron of an asymmetric bipyramid is a frustum.
 
-  Asymmetric                           Inverted
-  ------------------------------------ ---------------------------------------------
-  Asymmetric_hexagonal_bipyramid.png   Inverted_asymmetric_hexagonal_bipyramid.png
+  Asymmetric   Inverted
+  ------------ ----------
+
 
   : Example hexagonal forms
 
@@ -104,9 +103,9 @@ The second has symmetry D_(_n_), [2,_n_], (*_nn_2), order 2_n_.
 
 The smallest scalenohedron has 8 faces and is topologically identical to the regular octahedron. The second type is a _rhombic bipyramid_. The first type has 6 vertices can be represented as (0,0,±1), (±1,0,_z_), (0,±1,−_z_), where _z_ is a parameter between 0 and 1, creating a regular octahedron at _z_ = 0, and becoming a disphenoid with merged coplanar faces at _z_ = 1. For _z_ > 1, it becomes concave.
 
-  _z_ = 0.1                _z_ = 0.25                _z_ = 0.5                _z_ = 0.95                _z_ = 1.5
-  ------------------------ ------------------------- ------------------------ ------------------------- ------------------------
-  4-scalenohedron-01.png   4-scalenohedron-025.png   4-scalenohedron-05.png   4-scalenohedron-095.png   4-scalenohedron-15.png
+  _z_ = 0.1   _z_ = 0.25   _z_ = 0.5   _z_ = 0.95   _z_ = 1.5
+  ----------- ------------ ----------- ------------ -----------
+
 
   : 4-scalenohedron geometric variations
 
@@ -119,9 +118,9 @@ Self-intersecting bipyramids exist with a star polygon central figure, defined b
 
 isohedral even-sided stars can also be made with zig-zag offplane vertices, in-out isotoxal forms, or both, like this {8/3} form:
 
-  Regular             Zig-zag regular            Isotoxal                  Zig-zag isotoxal
-  ------------------- -------------------------- ------------------------- --------------------------------
-  8-3_dipyramid.png   8-3-bipyramid_zigzag.png   8-3-bipyramid-inout.png   8-3-dipyramid_zigzag_inout.png
+  Regular   Zig-zag regular   Isotoxal   Zig-zag isotoxal
+  --------- ----------------- ---------- ------------------
+
 
 
 4-polytopes with bipyramid cells

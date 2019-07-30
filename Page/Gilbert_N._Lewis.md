@@ -45,7 +45,7 @@ At Harvard, Lewis also wrote a theoretical paper on the thermodynamics of blackb
 
 Valence theory
 
-Lewis-cubic-notes.jpgs''' (as drawn in 1902)]]
+s''' (as drawn in 1902)]]
 
 About 1902 Lewis started to use unpublished drawings of cubical atoms in his lecture notes, in which the corners of the cube represented possible electron positions. Lewis later cited these notes in his classic 1916 paper on chemical bonding, as being the first expression of his ideas.
 

@@ -7,7 +7,7 @@ In the final decade of his life, Nansen devoted himself primarily to the League 
 
 Family background and childhood
 
-Nansen-aged4.jpg The Nansen family originated in Denmark. Hans Nansen (1598–1667), a trader, was an early explorer of the White Sea region of the Arctic Ocean. In later life he settled in Copenhagen, becoming the city's _borgmester_ in 1654. Later generations of the family lived in Copenhagen until the mid-18th century, when Ancher Antoni Nansen moved to Norway (then in a union with Denmark). His son, Hans Leierdahl Nansen (1764–1821), was a magistrate first in the Trondheim district, later in Jæren. After Norway's separation from Denmark in 1814, he entered national political life as the representative for Stavanger in the first Storting, and became a strong advocate of union with Sweden. After suffering a paralytic stroke in 1821 Hans Leierdahl Nansen died, leaving a four-year-old son, Baldur Fridtjof Nansen, the explorer's father.[2]
+The Nansen family originated in Denmark. Hans Nansen (1598–1667), a trader, was an early explorer of the White Sea region of the Arctic Ocean. In later life he settled in Copenhagen, becoming the city's _borgmester_ in 1654. Later generations of the family lived in Copenhagen until the mid-18th century, when Ancher Antoni Nansen moved to Norway (then in a union with Denmark). His son, Hans Leierdahl Nansen (1764–1821), was a magistrate first in the Trondheim district, later in Jæren. After Norway's separation from Denmark in 1814, he entered national political life as the representative for Stavanger in the first Storting, and became a strong advocate of union with Sweden. After suffering a paralytic stroke in 1821 Hans Leierdahl Nansen died, leaving a four-year-old son, Baldur Fridtjof Nansen, the explorer's father.[2]
 
 Baldur was a lawyer without ambitions for public life, who became Reporter to the Supreme Court of Norway. He married twice, the second time to Adelaide Johanne Thekla Isidore Bølling Wedel-Jarlsberg from Bærum, a niece of Herman Wedel-Jarlsberg who had helped frame the Norwegian constitution of 1814 and was later the Swedish king's Norwegian Viceroy.[3] Baldur and Adelaide settled at Store Frøen, an estate at Aker, a few kilometres north of Norway's capital city, Christiania (since renamed Oslo). The couple had three children; the first died in infancy, the second, born 10 October 1861, was Fridtjof Nansen.[4][5]
 
@@ -18,7 +18,7 @@ At school, Nansen worked adequately without showing any particular aptitude.[9] 
 
 Student and adventurer
 
-Fridtjof_Nansen_1880.jpg (1880, age 19)]] In 1880 Nansen passed his university entrance examination, the _examen artium_. He decided to study zoology, claiming later that he chose the subject because he thought it offered the chance of a life in the open air. He began his studies at the Royal Frederick University in Christiania early in 1881.[13]
+(1880, age 19)]] In 1880 Nansen passed his university entrance examination, the _examen artium_. He decided to study zoology, claiming later that he chose the subject because he thought it offered the chance of a life in the open air. He began his studies at the Royal Frederick University in Christiania early in 1881.[13]
 
 Early in 1882 Nansen took "...the first fatal step that led me astray from the quiet life of science."[14] Professor Robert Collett of the university's zoology department proposed that Nansen take a sea voyage, to study Arctic zoology at first hand. Nansen was enthusiastic, and made arrangements through a recent acquaintance, Captain Axel Krefting, commander of the sealer _Viking_. The voyage began on 11 March 1882 and extended over the following five months. In the weeks before sealing started, Nansen was able to concentrate on scientific studies.[15] From water samples he showed that, contrary to previous assumption, sea ice forms on the surface of the water rather than below. His readings also demonstrated that the Gulf Stream flows beneath a cold layer of surface water.[16] Through the spring and early summer _Viking_ roamed between Greenland and Spitsbergen in search of seal herds. Nansen became an expert marksman, and on one day proudly recorded that his team had shot 200 seal. In July, _Viking_ became trapped in the ice close to an unexplored section of the Greenland coast; Nansen longed to go ashore, but this was impossible.[17] However, he began to develop the idea that the Greenland icecap might be explored, or even crossed.[18] On 17 July the ship broke free from the ice, and early in August was back in Norwegian waters.[19]
 
@@ -29,7 +29,7 @@ Crossing of Greenland
 
 Planning
 
-A_E_Nordenskiold.jpg icecap]] The idea of an expedition across the Greenland icecap grew in Nansen's mind throughout his Bergen years. In 1887, after the submission of his doctoral thesis, he finally began organising this project. Before then, the two most significant penetrations of the Greenland interior had been those of Adolf Erik Nordenskiöld in 1883, and Robert Peary in 1886. Both had set out from Disko Bay on the western coast, and had travelled about eastward before turning back.[23] By contrast, Nansen proposed to travel from east to west, ending rather than beginning his trek at Disko Bay. A party setting out from the inhabited west coast would, he reasoned, have to make a return trip, as no ship could be certain of reaching the dangerous east coast and picking them up.[24] By starting from the east—assuming that a landing could be made there—Nansen's would be a one-way journey towards a populated area. The party would have no line of retreat to a safe base; the only way to go would be forward, a situation that fitted Nansen's philosophy completely.[25]
+icecap]] The idea of an expedition across the Greenland icecap grew in Nansen's mind throughout his Bergen years. In 1887, after the submission of his doctoral thesis, he finally began organising this project. Before then, the two most significant penetrations of the Greenland interior had been those of Adolf Erik Nordenskiöld in 1883, and Robert Peary in 1886. Both had set out from Disko Bay on the western coast, and had travelled about eastward before turning back.[23] By contrast, Nansen proposed to travel from east to west, ending rather than beginning his trek at Disko Bay. A party setting out from the inhabited west coast would, he reasoned, have to make a return trip, as no ship could be certain of reaching the dangerous east coast and picking them up.[24] By starting from the east—assuming that a landing could be made there—Nansen's would be a one-way journey towards a populated area. The party would have no line of retreat to a safe base; the only way to go would be forward, a situation that fitted Nansen's philosophy completely.[25]
 
 Nansen rejected the complex organisation and heavy manpower of other Arctic ventures, and instead planned his expedition for a small party of six. Supplies would be manhauled on specially designed lightweight sledges. Much of the equipment, including sleeping bags, clothing and cooking stoves, also needed to be designed from scratch.[26] These plans received a generally poor reception in the press;[27] one critic had no doubt that "if [the] scheme be attempted in its present form ... the chances are ten to one that he will ... uselessly throw his own and perhaps others' lives away".[28] The Norwegian parliament refused to provide financial support, believing that such a potentially risky undertaking should not be encouraged. The project was eventually launched with a donation from a Danish businessman, Augustin Gamél; the rest came mainly from small contributions from Nansen's countrymen, through a fundraising effort organised by students at the university.[29]
 
@@ -37,7 +37,7 @@ Despite the adverse publicity, Nansen received numerous applications from would-
 
 Expedition
 
-Nansen_Greenland_Crossing_Map.png to Christianhaab}}]]
+to Christianhaab}}]]
 
 The sealer _Jason_ picked up Nansen's party on 3 June 1888 from the Icelandic port of Ísafjörður. They sighted the Greenland coast a week later, but thick pack ice hindered progress. With the coast still away, Nansen decided to launch the small boats. They were within sight of Sermilik Fjord on 17 July; Nansen believed it would offer a route up the icecap.[33]
 
@@ -49,7 +49,7 @@ The party reached Umivik Bay on 11 August, after covering . Nansen decided they 
 
 Over the next few days, the party struggled to ascend. The inland ice had a treacherous surface with many hidden crevasses and the weather was bad. Progress stopped for three days because of violent storms and continuous rain one time.[39] The last ship was due to leave Christianhaab by mid-September. They would not be able to reach it in time, Nansen concluded on 26 August. He ordered a change of course due west, towards Godthaab; a shorter journey by at least . The rest of the party, according to Nansen, "hailed the change of plan with acclamation."[40]
 
-NansenBoatsGreenland.png They continued climbing until 11 September and reached a height of above sea level. Temperatures on the icecap summit of the icecap dropped to at night. From then on the downward slope made travelling easier. Yet, the terrain was rugged and the weather remained hostile.[41] Progress was slow: fresh snowfalls made dragging the sledges like pulling them through sand.
+They continued climbing until 11 September and reached a height of above sea level. Temperatures on the icecap summit of the icecap dropped to at night. From then on the downward slope made travelling easier. Yet, the terrain was rugged and the weather remained hostile.[41] Progress was slow: fresh snowfalls made dragging the sledges like pulling them through sand.
 
 On 26 September, they battled their way down the edge of a fjord westward towards Godthaab. Sverdrup constructed a makeshift boat out of parts of the sledges, willows, and their tent. Three days later, Nansen and Sverdrup began the last stage of the journey; rowing down the fjord.[42]
 
@@ -60,7 +60,7 @@ The rest of the team arrived in Godthaab on 12 October. Nansen soon learned no s
 
 Interlude and marriage
 
-FridtjofNansenEvaSars1889.jpg _Hvidbjørnen_ reached Copenhagen on 21 May 1889. News of the crossing had preceded its arrival, and Nansen and his companions were feted as heroes. This welcome, however, was dwarfed by the reception in Christiania a week later, when crowds of between thirty and forty thousand—a third of the city's population—thronged the streets as the party made its way to the first of a series of receptions. The interest and enthusiasm generated by the expedition's achievement led directly to the formation that year of the Norwegian Geographical Society.[47]
+_Hvidbjørnen_ reached Copenhagen on 21 May 1889. News of the crossing had preceded its arrival, and Nansen and his companions were feted as heroes. This welcome, however, was dwarfed by the reception in Christiania a week later, when crowds of between thirty and forty thousand—a third of the city's population—thronged the streets as the party made its way to the first of a series of receptions. The interest and enthusiasm generated by the expedition's achievement led directly to the formation that year of the Norwegian Geographical Society.[47]
 
 Nansen accepted the position of curator of the Royal Frederick University's zoology collection, a post which carried a salary but involved no duties; the university was satisfied by the association with the explorer's name.[48] Nansen's main task in the following weeks was writing his account of the expedition, but he found time late in June to visit London, where he met the Prince of Wales (the future Edward VII), and addressed a meeting of the Royal Geographical Society (RGS).[49]
 
@@ -73,7 +73,7 @@ _Fram_ expedition
 
 Planning
 
-No-nb_bldsa_1a012_(cropped).jpg Nansen first began to consider the possibility of reaching the North Pole after reading meteorologist Henrik Mohn's theory on polar drift in 1884. Artefacts found on the coast of Greenland were identified to have come from the _Jeannette_ expedition. In June 1881, was crushed and sunk off the Siberian coast—the opposite side of the Arctic Ocean. Mohn surmised the location of the artefacts indicated the existence of an ocean current from east to west, all the way across the polar sea and possibly over the pole itself.[55]
+Nansen first began to consider the possibility of reaching the North Pole after reading meteorologist Henrik Mohn's theory on polar drift in 1884. Artefacts found on the coast of Greenland were identified to have come from the _Jeannette_ expedition. In June 1881, was crushed and sunk off the Siberian coast—the opposite side of the Arctic Ocean. Mohn surmised the location of the artefacts indicated the existence of an ocean current from east to west, all the way across the polar sea and possibly over the pole itself.[55]
 
 The idea remained fixated in Nansen's mind for the next couple of years.[56] He developed a detailed plan for a polar venture after his triumphant return from Greenland. He made his idea public in February 1890, at a meeting of the newly-formed Norwegian Geographical Society. Previous expeditions, he argued, approached the North Pole from the west and failed because they were working against the prevailing east-west current; the secret was to work with the current.
 
@@ -91,8 +91,6 @@ Nansen selected a party of twelve from thousands of applicants. Otto Sverdrup, w
 
 Into the ice
 
-Nansen_Fram_Map.png
-
 _Fram_ left Christiania on 24 June 1893, cheered on by thousands of well-wishers.[70] After a slow journey around the coast, the final port of call was Vardø, in the far north-east of Norway.[71] _Fram_ left Vardø on 21 July, following the North-East Passage route pioneered by Nordenskiöld in 1878–1879, along the northern coast of Siberia. Progress was impeded by fog and ice conditions in the mainly uncharted seas.[72]
 
 The crew also experienced the dead water phenomenon, where a ship's forward progress is impeded by friction caused by a layer of fresh water lying on top of heavier salt water.[73] Nevertheless, Cape Chelyuskin, the most northerly point of the Eurasian continental mass, was passed on 10 September.
@@ -107,7 +105,7 @@ The crew spent the rest of the winter of 1894 preparing clothing and equipment f
 
 Dash for the pole
 
-Nansen_Johansen_depart_14_March_1895.jpg's polar trek, 14 March 1895]] With the ship's latitude at 84°4′N and after two false starts,[82] Nansen and Johansen began their journey on 14 March 1895.[83] Nansen allowed 50 days to cover the to the pole, an average daily journey of . After a week of travel, a sextant observation indicated they averaged per day, which put them ahead of schedule.[84] However, uneven surfaces made skiing more difficult, and their speeds slowed. They also realised they were marching against a southerly drift, and that distances travelled did not necessarily equate to distance progressed.[85]
+'s polar trek, 14 March 1895]] With the ship's latitude at 84°4′N and after two false starts,[82] Nansen and Johansen began their journey on 14 March 1895.[83] Nansen allowed 50 days to cover the to the pole, an average daily journey of . After a week of travel, a sextant observation indicated they averaged per day, which put them ahead of schedule.[84] However, uneven surfaces made skiing more difficult, and their speeds slowed. They also realised they were marching against a southerly drift, and that distances travelled did not necessarily equate to distance progressed.[85]
 
 On 3 April, Nansen began to doubt whether the pole was attainable. Unless their speed improved, their food would not last them to the pole and back to Franz Josef Land.[86] He confided in his diary: "I have become more and more convinced we ought to turn before time."[87] Four days later, after making camp, he observed the way ahead was "... a veritable chaos of iceblocks stretching as far as the horizon." Nansen recorded their latitude as 86°13′6″N—almost three degrees beyond the previous record—and decided to turn around and head back south.[88]
 
@@ -115,7 +113,7 @@ Retreat
 
 At first Nansen and Johansen made good progress south, but suffered a serious setback on 13 April, when in his eagerness to break camp, he had forgotten to wind both of their chronometers, which made it impossible to calculate their longitude and accurately navigate to Franz Josef Land. They restarted the watches based on Nansen's guess they were at 86°E. From then on were uncertain of their true position.[89] The tracks of an Arctic fox were observed towards the end of April. It was the first trace of a living creature other than their dogs since they left _Fram_.[90] They soon saw bear tracks and by the end of May saw evidence of nearby seals, gulls and whales.
 
-WinterHutFJL.jpg]] On 31 May, Nansen calculated they were only from Cape Fligely, Franz Josef Land's northernmost point.[91] Travel conditions worsened as increasingly warmer weather caused the ice to break up. On 22 June, the pair decided to rest on a stable ice floe while they repaired their equipment and gathered strength for the next stage of their journey. They remained on the floe for a month.[92]
+]] On 31 May, Nansen calculated they were only from Cape Fligely, Franz Josef Land's northernmost point.[91] Travel conditions worsened as increasingly warmer weather caused the ice to break up. On 22 June, the pair decided to rest on a stable ice floe while they repaired their equipment and gathered strength for the next stage of their journey. They remained on the floe for a month.[92]
 
 The day after leaving this camp, Nansen recorded: "At last the marvel has come to pass—land, land, and after we had almost given up our belief in it!"[93] Whether this still-distant land was Franz Josef Land or a new discovery they did not know—they had only a rough sketch map to guide them. The edge of the pack ice was reached on 6 August and they shot the last of their dogs—the weakest of which they killed regularly to feed the others since 24 April. The two kayaks were lashed together, a sail was raised, and they made for the land.[94]
 
@@ -127,7 +125,7 @@ On 17 June, during a stop for repairs after the kayaks had been attacked by a wa
 
 Johansen was picked up and the pair were taken to Cape Flora where, during the following weeks, they recuperated from their ordeal. Nansen later wrote that he could "still scarcely grasp" their sudden change of fortune;[101] had it not been for the walrus attack that caused the delay, the two parties might have been unaware of each other's existence.[102]
 
-CapeFloraMeeting.jpg, 17 June 1896]] On 7 August, Nansen and Johansen boarded Jackson's supply ship _Windward_, and sailed for Vardø where they arrived on the 13th. They were greeted by Hans Mohn, the originator of the polar drift theory, who was in the town by chance.[103] The world was quickly informed by telegram of Nansen's safe return,[104] but as yet there was no news of _Fram_.
+, 17 June 1896]] On 7 August, Nansen and Johansen boarded Jackson's supply ship _Windward_, and sailed for Vardø where they arrived on the 13th. They were greeted by Hans Mohn, the originator of the polar drift theory, who was in the town by chance.[103] The world was quickly informed by telegram of Nansen's safe return,[104] but as yet there was no news of _Fram_.
 
 Taking the weekly mail steamer south, Nansen and Johansen reached Hammerfest on 18 August, where they learned that _Fram_ had been sighted. She had emerged from the ice north and west of Spitsbergen, as Nansen had predicted, and was now on her way to Tromsø. She had not passed over the pole, nor exceeded Nansen's northern mark.[105] Without delay Nansen and Johansen sailed for Tromsø, where they were reunited with their comrades.[106]
 
@@ -144,7 +142,7 @@ During the 20 years following his return from the Arctic, Nansen devoted most of
 
 In 1900, Nansen became director of the Christiania-based International Laboratory for North Sea Research, and helped found the International Council for the Exploration of the Sea.[113] Through his connection with the latter body, in the summer of 1900 Nansen embarked on his first visit to Arctic waters since the _Fram_ expedition, a cruise to Iceland and Jan Mayen Land on the oceanographic research vessel _Michael Sars_, named after Eva's father.[114] Shortly after his return he learned that his Farthest North record had been passed, by members of the Duke of the Abruzzi's Italian expedition. They had reached 86°34′N on 24 April 1900, in an attempt to reach the North Pole from Franz Josef Land.[115] Nansen received the news philosophically: "What is the value of having goals for their own sake? They all vanish ... it is merely a question of time."[116]
 
-Polhøgda.jpg at Polhøgda]]
+at Polhøgda]]
 
 Nansen was now considered an oracle by all would-be explorers of the north and south polar regions. Abruzzi had consulted him, as had the Belgian Adrien de Gerlache, each of whom took expeditions to the Antarctic.[117] Although Nansen refused to meet his own countryman and fellow-explorer Carsten Borchgrevink (whom he considered a fraud),[118] he gave advice to Robert Falcon Scott on polar equipment and transport, prior to the 1901–04 _Discovery_ expedition. At one point Nansen seriously considered leading a South Pole expedition himself, and asked Colin Archer to design two ships. However, these plans remained on the drawing board.[119]
 
@@ -154,7 +152,7 @@ The house was ready for occupation by April 1902; Nansen called it _Polhøgda_ (
 
 Politician and diplomat
 
-Oscar_II_of_Sweden_painted_by_Oscar_Björck.jpg, last king of the union of Sweden and Norway. He remained Sweden's king after Norway's independence in 1905.]]
+, last king of the union of Sweden and Norway. He remained Sweden's king after Norway's independence in 1905.]]
 
 The union between Norway and Sweden, imposed by the Great Powers in 1814, had been under considerable strain through the 1890s, the chief issue in question being Norway's rights to its own consular service.[123] Nansen, although not by inclination a politician, had spoken out on the issue on several occasions in defence of Norway's interests.[124] It seemed, early in the 20th century that agreement between the two countries might be possible, but hopes were dashed when negotiations broke down in February 1905. The Norwegian government fell, and was replaced by one led by Christian Michelsen, whose programme was one of separation from Sweden.[125]
 
@@ -166,7 +164,7 @@ In April 1906 Nansen was appointed Norway's first Minister in London.[132] His m
 
 Oceanographer and traveller
 
-Ekman_water_bottle.jpg was used to sample seawater temperature at specific depths]] After a period of mourning, Nansen returned to London. He had been persuaded by his government to rescind his resignation until after King Edward's state visit to Norway in April 1908. His formal retirement from the diplomatic service was dated 1 May 1908, the same day on which his university professorship was changed from zoology to oceanography. This new designation reflected the general character of Nansen's more recent scientific interests.[137]
+was used to sample seawater temperature at specific depths]] After a period of mourning, Nansen returned to London. He had been persuaded by his government to rescind his resignation until after King Edward's state visit to Norway in April 1908. His formal retirement from the diplomatic service was dated 1 May 1908, the same day on which his university professorship was changed from zoology to oceanography. This new designation reflected the general character of Nansen's more recent scientific interests.[137]
 
 In 1905, he had supplied the Swedish physicist Walfrid Ekman with the data which established the principle in oceanography known as the Ekman spiral. Based on Nansen's observations of ocean currents recorded during the _Fram_ expedition, Ekman concluded that the effect of wind on the sea's surface produced currents which "formed something like a spiral staircase, down towards the depths".[138]
 
@@ -184,7 +182,7 @@ Statesman and humanitarian
 
 League of Nations
 
-No-nb_bldsa_5c006.jpg, himself becoming a delegate]] On the outbreak of war in 1914, Norway declared its neutrality, alongside Sweden and Denmark. Nansen was appointed as the president of the Norwegian Union of Defence, but had few official duties, and continued with his professional work as far as circumstances permitted.[154] As the war progressed, the loss of Norway's overseas trade led to acute shortages of food in the country, which became critical in April 1917, when the United States entered the war and placed extra restrictions on international trade. Nansen was dispatched to Washington by the Norwegian government; after months of discussion, he secured food and other supplies in return for the introduction of a rationing system. When his government hesitated over the deal, he signed the agreement on his own initiative.[155]
+, himself becoming a delegate]] On the outbreak of war in 1914, Norway declared its neutrality, alongside Sweden and Denmark. Nansen was appointed as the president of the Norwegian Union of Defence, but had few official duties, and continued with his professional work as far as circumstances permitted.[154] As the war progressed, the loss of Norway's overseas trade led to acute shortages of food in the country, which became critical in April 1917, when the United States entered the war and placed extra restrictions on international trade. Nansen was dispatched to Washington by the Norwegian government; after months of discussion, he secured food and other supplies in return for the introduction of a rationing system. When his government hesitated over the deal, he signed the agreement on his own initiative.[155]
 
 Within a few months of the war's end in November 1918, a draft agreement had been accepted by the Paris Peace Conference to create a League of Nations, as a means of resolving disputes between nations by peaceful means.[156] The foundation of the League at this time was providential as far as Nansen was concerned, giving him a new outlet for his restless energy.[157] He became president of the Norwegian League of Nations Society, and although the Scandinavian nations with their traditions of neutrality initially held themselves aloof, his advocacy helped to ensure that Norway became a full member of the League in 1920, and he became one of its three delegates to the League's General Assembly.[158]
 
@@ -194,11 +192,11 @@ Nansen continued this work for a further two years until, in his final report to
 
 Russian famine
 
-Fridtjof_Nansen,_Les_deux_étapes_de_la_faim_(1922)_(cropped).jpg Even before this work was complete, Nansen was involved in a further humanitarian effort. On 1 September 1921, prompted by the British delegate Philip Noel-Baker, he accepted the post of the League's High Commissioner for Refugees.[162][163] His main brief was the resettlement of around two million Russian refugees displaced by the upheavals of the Russian Revolution.
+Even before this work was complete, Nansen was involved in a further humanitarian effort. On 1 September 1921, prompted by the British delegate Philip Noel-Baker, he accepted the post of the League's High Commissioner for Refugees.[162][163] His main brief was the resettlement of around two million Russian refugees displaced by the upheavals of the Russian Revolution.
 
 At the same time he tried to tackle the urgent problem of famine in Russia; following a widespread failure of crops around 30 million people were threatened with starvation and death. Despite Nansen's pleas on behalf of the starving, Russia's revolutionary government was feared and distrusted internationally, and the League was reluctant to come to its peoples' aid.[164] Nansen had to rely largely on fundraising from private organisations, and his efforts met with limited success.[165] Later he was to express himself bitterly on the matter:
 
-Nansenpass.jpg A major problem impeding Nansen's work on behalf of refugees was that most of them lacked documentary proof of identity or nationality. Without legal status in their country of refuge, their lack of papers meant they were unable to go anywhere else. To overcome this, Nansen devised a document that became known as the "Nansen passport", a form of identity for stateless persons that was in time recognised by more than 50 governments, and which allowed refugees to cross borders legally. Although the passport was created initially for refugees from Russia, it was extended to cover other groups.[166]
+A major problem impeding Nansen's work on behalf of refugees was that most of them lacked documentary proof of identity or nationality. Without legal status in their country of refuge, their lack of papers meant they were unable to go anywhere else. To overcome this, Nansen devised a document that became known as the "Nansen passport", a form of identity for stateless persons that was in time recognised by more than 50 governments, and which allowed refugees to cross borders legally. Although the passport was created initially for refugees from Russia, it was extended to cover other groups.[166]
 
 While attending the Conference of Lausanne in November 1922, Nansen learned that he had been awarded the Nobel Peace Prize for 1922. The citation referred to "his work for the repatriation of the prisoners of war, his work for the Russian refugees, his work to bring succour to the millions of Russians afflicted by famine, and finally his present work for the refugees in Asia Minor and Thrace".[167] Nansen donated the prize money to international relief efforts.[168]
 
@@ -208,7 +206,7 @@ After the Greco-Turkish War of 1919–1922, Nansen travelled to Istanbul to nego
 
 Armenian genocide
 
-No-nb_bldsa_6d141.jpg From 1925 onwards, Nansen devoted much time trying to help Armenian refugees, victims of Armenian genocide at the hands of the Ottoman Empire during the First World War and further ill-treatment thereafter.[172] His goal was the establishment of a national home for these refugees, within the borders of Soviet Armenia. His main assistant in this endeavour was Vidkun Quisling, the future Nazi collaborator and head of a Norwegian puppet government during the Second World War.[173]
+From 1925 onwards, Nansen devoted much time trying to help Armenian refugees, victims of Armenian genocide at the hands of the Ottoman Empire during the First World War and further ill-treatment thereafter.[172] His goal was the establishment of a national home for these refugees, within the borders of Soviet Armenia. His main assistant in this endeavour was Vidkun Quisling, the future Nazi collaborator and head of a Norwegian puppet government during the Second World War.[173]
 
 After visiting the region, Nansen presented the Assembly with a modest plan for the irrigation of on which 15,000 refugees could be settled.[174] The plan ultimately failed, because even with Nansen's unremitting advocacy the money to finance the scheme was not forthcoming. Despite this failure, his reputation among the Armenian people remains high.[175]
 
@@ -219,7 +217,7 @@ Within the League's Assembly, Nansen spoke out on many issues besides those rela
 
 Later life
 
-Bundesarchiv_Bild_102-09772,_Fridjof_Nansen_(cropped).jpg On 17 January 1919 Nansen married Sigrun Munthe, a long-time friend with whom he had had a love affair in 1905, while Eva was still alive. The marriage was resented by the Nansen children, and proved unhappy; an acquaintance writing of them in the 1920s said Nansen appeared unbearably miserable and Sigrun steeped in hate.[182]
+On 17 January 1919 Nansen married Sigrun Munthe, a long-time friend with whom he had had a love affair in 1905, while Eva was still alive. The marriage was resented by the Nansen children, and proved unhappy; an acquaintance writing of them in the 1920s said Nansen appeared unbearably miserable and Sigrun steeped in hate.[182]
 
 Nansen's League of Nations commitments through the 1920s meant that he was mostly absent from Norway, and was able to devote little time to scientific work. Nevertheless, he continued to publish occasional papers.[183] He entertained the hope that he might travel to the North Pole by airship, but could not raise sufficient funding.[184] In any event he was forestalled in this ambition by Amundsen, who flew over the pole in Umberto Nobile's airship _Norge_ in May 1926.[185] Two years later Nansen broadcast a memorial oration to Amundsen, who had disappeared in the Arctic while organising a rescue party for Nobile whose airship had crashed during a second polar voyage. Nansen said of Amundsen: "He found an unknown grave under the clear sky of the icy world, with the whirring of the wings of eternity through space."[186]
 
@@ -238,7 +236,7 @@ Nansen was a close friend of a clergyman named Wilhelm. Nansen himself was an at
 
 Death and legacy
 
-MountFridtjofNansenAntarctica.jpg in Antarctica, named and photographed by Roald Amundsen]] Nansen died of a heart attack on 13 May 1930. He was given a non-religious state funeral before cremation, after which his ashes were laid under a tree at Polhøgda. Nansen's daughter Liv recorded that there were no speeches, just music: Schubert's _Death and the Maiden_, which Eva used to sing.[196]
+in Antarctica, named and photographed by Roald Amundsen]] Nansen died of a heart attack on 13 May 1930. He was given a non-religious state funeral before cremation, after which his ashes were laid under a tree at Polhøgda. Nansen's daughter Liv recorded that there were no speeches, just music: Schubert's _Death and the Maiden_, which Eva used to sing.[196]
 
 In his lifetime and thereafter, Nansen received honours and recognition from many countries.[197] Among the many tributes paid to him subsequently was that of Lord Robert Cecil, a fellow League of Nations delegate, who spoke of the range of Nansen's work, done with no regard for his own interests or health: "Every good cause had his support. He was a fearless peacemaker, a friend of justice, an advocate always for the weak and suffering."[198]
 

@@ -9,21 +9,19 @@ Composition and setting
 
 Textual history
 
-P._Chester_Beatty_I,_folio_13-14,_recto.jpg, a 3rd-century AD Greek papyrus of the Gospel of Luke]]
+, a 3rd-century AD Greek papyrus of the Gospel of Luke]]
 
 Autographs (original copies) of Luke and the other Gospels have not been preserved, as is typical for ancient documents; the texts that survive are third-generation copies, with no two completely identical. The earliest witnesses (the technical term for written manuscripts) for Luke's gospel fall into two "families" with considerable differences between them, the Western and the Alexandrian, and the dominant view is that the Western text represents a process of deliberate revision, as the variations seem to form specific patterns. The fragment is often cited as the oldest witness. It has been dated from the late 2nd century, although this dating is disputed. The oldest complete texts are the 4th century Codex Sinaiticus and Vaticanus, both from the Alexandrian family; Codex Bezae, a 5th- or 6th-century Western text-type manuscript that contains Luke in Greek and Latin versions on facing pages, appears to have descended from an offshoot of the main manuscript tradition, departing from more familiar readings at many points. Codex Bezae shows comprehensively the differences between the versions which show no core theological significance.
 
 Luke–Acts: unity, authorship and date
 
-Codex_Macedoniensis,_subscriptio_to_Luke.jpg The gospel of Luke and the Acts of the Apostles make up a two-volume work which scholars call Luke–Acts. Together they account for 27.5% of the New Testament, the largest contribution by a single author, providing the framework for both the Church's liturgical calendar and the historical outline into which later generations have fitted their idea of the story of Jesus.
+The gospel of Luke and the Acts of the Apostles make up a two-volume work which scholars call Luke–Acts. Together they account for 27.5% of the New Testament, the largest contribution by a single author, providing the framework for both the Church's liturgical calendar and the historical outline into which later generations have fitted their idea of the story of Jesus.
 
 The author is not named in either volume. According to a Church tradition dating from the 2nd century he was the Luke named as a companion of Paul in three of the letters attributed to Paul himself, but "a critical consensus emphasizes the countless contradictions between the account in Acts and the authentic Pauline letters (Theissen and Merz 1998, p.32)." An example can be seen by comparing Acts' accounts of Paul's conversion (Acts 9:1–31, 22:6–21, and 26:9–23) with Paul's own statement that he remained unknown to Christians in Judea after that event (Galatians 1:17–24). Luke admired Paul, but his theology was significantly different from Paul's on key points and he does not (in Acts) represent Paul's views accurately. He was educated, a man of means, probably urban, and someone who respected manual work, although not a worker himself; this is significant, because more high-brow writers of the time looked down on the artisans and small business-people who made up the early church of Paul and were presumably Luke's audience.
 
 The eclipse of the traditional attribution to Luke the companion of Paul has meant that an early date for the gospel is now rarely put forward. Some experts date the composition of the combined work to around 80–90 AD, although some others suggest 90–110, and there is textual evidence (the conflicts between Western and Alexandrian manuscript families) that Luke–Acts was still being substantially revised well into the 2nd century.
 
 Genre, models and sources
-
-Relationship_between_synoptic_gospels-en.svg
 
 Luke–Acts is a religio-political history of the Founder of the church and his successors, in both deeds and words. The author describes his book as a "narrative" (_diegesis_), rather than as a gospel, and implicitly criticises his predecessors for not giving their readers the speeches of Jesus and the Apostles, as such speeches were the mark of a "full" report, the vehicle through which ancient historians conveyed the meaning of their narratives. He seems to have taken as his model the works of two respected Classical authors, Dionysius of Halicarnassus, who wrote a history of Rome, and the Jewish historian Josephus, author of a history of the Jews. All three authors anchor the histories of their respective peoples by dating the births of the founders (Romulus, Moses, and Jesus) and narrate the stories of the founders' births from God, so that they are sons of God. Each founder taught authoritatively, appeared to witnesses after death, and ascended to heaven. Crucial aspects of the teaching of all three concerned the relationship between rich and poor and the question of whether "foreigners" were to be received into the people.
 
@@ -80,7 +78,7 @@ _The acts of the apostles_
 
 Theology
 
-Representation_of_the_Sower's_parable.JPEG)]]
+)]]
 
 Luke's "salvation history"
 
@@ -90,7 +88,7 @@ Christology
 
 Luke's understanding of Jesus – his Christology – is central to his theology. One approach to this is through the titles Luke gives to Jesus: these include, but are not limited to, Christ (Messiah), Lord, Son of God, and Son of Man. Another is by reading Luke in the context of similar Greco-Roman divine saviour figures (Roman emperors are an example), references which would have made clear to Luke's readers that Jesus was the greatest of all saviours. A third is to approach Luke through his use of the Old Testament, those passages from Jewish scripture which he cites to establish that Jesus is the promised Messiah. While much of this is familiar, much also is missing: for example, Luke makes no clear reference to Christ's pre-existence or to the Christian's union with Christ, and makes relatively little reference to the concept of atonement: perhaps he felt no need to mention these ideas, or disagreed with them, or possibly he was simply unaware of them.
 
-Bartolomé_Esteban_Perez_Murillo_023.jpg)]] Even what Luke does say about Christ is ambiguous or even contradictory. For example, according to Luke 2:11 Jesus was the Christ at his birth, but in he becomes Christ at the resurrection, while in Acts 3:20 it seems his messiahship is active only at the parousia, the "second coming"; similarly, in Luke 2:11 he is the Saviour from birth, but in he is made Saviour at the resurrection; and he is born the Son of God in , but becomes the Son of God at the resurrection according to . Many of these differences may be due to scribal error, but others were deliberate alterations to doctrinally unacceptable passages, or the introduction by scribes of "proofs" for their favourite theological tenets. An important example of such deliberate alterations is found in Luke's account of the baptism of Jesus, where virtually all the earliest witnesses have God saying, "This day I have begotten you." (Luke has taken the words of God from Psalm 2, an ancient royal adoption formula in which the king of Israel was recognised as God's elect). This reading is theologically difficult, as it implies that God is now conferring status on Jesus that he did not previously hold. It is unlikely, therefore, that the more common reading of (God says to Jesus, "You are my beloved son, with you I am well pleased") is original.
+)]] Even what Luke does say about Christ is ambiguous or even contradictory. For example, according to Luke 2:11 Jesus was the Christ at his birth, but in he becomes Christ at the resurrection, while in Acts 3:20 it seems his messiahship is active only at the parousia, the "second coming"; similarly, in Luke 2:11 he is the Saviour from birth, but in he is made Saviour at the resurrection; and he is born the Son of God in , but becomes the Son of God at the resurrection according to . Many of these differences may be due to scribal error, but others were deliberate alterations to doctrinally unacceptable passages, or the introduction by scribes of "proofs" for their favourite theological tenets. An important example of such deliberate alterations is found in Luke's account of the baptism of Jesus, where virtually all the earliest witnesses have God saying, "This day I have begotten you." (Luke has taken the words of God from Psalm 2, an ancient royal adoption formula in which the king of Israel was recognised as God's elect). This reading is theologically difficult, as it implies that God is now conferring status on Jesus that he did not previously hold. It is unlikely, therefore, that the more common reading of (God says to Jesus, "You are my beloved son, with you I am well pleased") is original.
 
 The Holy Spirit, the Christian community, and the kingdom of God
 
@@ -103,7 +101,7 @@ Luke needed to define the position of Christians in relation to two political an
 
 Comparison with other writings
 
-1602-3_Caravaggio,Supper_at_Emmaus_National_Gallery,_London.jpg'' (1601), Caravaggio, National Gallery.]]
+'' (1601), Caravaggio, National Gallery.]]
 
 The gospels of Matthew, Mark and Luke share so much in common that they are called the Synoptics, as they frequently cover the same events in similar and sometimes identical language. The majority opinion among scholars is that Mark was the earliest of the three (about 70 AD) and that Matthew and Luke both used this work and the "sayings gospel" known as Q as their basic sources. Luke has both expanded Mark and refined his grammar and syntax, as Mark's Greek writing is less elegant. Some passages from Mark he has eliminated entirely, notably most of chapters 6 and 7, which he apparently felt reflected poorly on the disciples and painted Jesus too much like a magician. Despite this, he follows Mark's narrative more faithfully than does Matthew.
 

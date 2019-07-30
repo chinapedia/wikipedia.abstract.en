@@ -11,13 +11,13 @@ The name "curl" was first suggested by James Clerk Maxwell in 1871[1] but the co
 
 Definition
 
-Curl.svg _A_N̂}}.]]
+_A_N̂}}.]]
 
 The curl of a vector field , denoted by , or , or , at a point is defined in terms of its projection onto various lines through the point. If is any unit vector, the projection of the curl of onto is defined to be the limiting value of a closed line integral in a plane orthogonal to divided by the area enclosed, as the path of integration is contracted around the point.
 
 The curl operator maps continuously differentiable functions to continuous functions , and more generally, it maps [[Smooth_function| \ \overset{\underset{\mathrm{def}}{}}{=} \lim_{A \to 0}\left( \frac{1}{|A|}\oint_C \mathbf{F} \cdot d\mathbf{r}\right)
 
-where is a line integral along the boundary of the area in question, and is the magnitude of the area. This equation defines the projection of the curl of onto , where is the normal vector to the surface bounded by ; and is defined via the right-hand rule (see diagram).Right_hand_rule_simple.png.
+where is a line integral along the boundary of the area in question, and is the magnitude of the area. This equation defines the projection of the curl of onto , where is the normal vector to the surface bounded by ; and is defined via the right-hand rule (see diagram)..
 
 The above formula means that the curl of a vector field is defined as the infinitesimal area density of the _circulation_ of that field. To this definition fit naturally
 
@@ -96,8 +96,6 @@ F_(_x_) = _y_, F_(_y_) =  − _x_, F_(_z_) = 0.
 
 Its corresponding plot:
 
-Uniform_curl.svg
-
 Upon visual inspection, the field can be described as "rotating". If a stationary object were to be placed in the field with the vectors representing a linear force, the object would rotate clockwise.
 
 Calculating the curl:
@@ -108,8 +106,6 @@ The resulting vector field describing the curl would be uniformly going in the n
 
 The plot describing the curl of :
 
-Curl_of_uniform_curl.png
-
 Example 2
 
 Take the vector field:
@@ -117,8 +113,6 @@ Take the vector field:
 F(_x_, _y_, _z_) =  − _x_²Ŷ.
 
 Its corresponding plot:
-
-Nonuniform_curl.svg
 
 Upon initial inspection, curl existing in this graph would not be obvious. However, taking the object in the previous example, and placing it anywhere on the line 3}}, the force exerted on the right side would be slightly greater than the force exerted on the left, causing it to rotate clockwise. Using the right-hand rule, it can be predicted that the resulting curl would be straight in the negative direction. Inversely, if placed on −3}}, the object would rotate counterclockwise and the right-hand rule would result in a positive direction.
 
@@ -129,8 +123,6 @@ $${\nabla} \times \mathbf{F} =0\boldsymbol{\hat{x}}+0\boldsymbol{\hat{y}}+ {\fra
 As predicted, the curl points in the negative direction when is positive and vice versa. In this field, the intensity of rotation would be greater as the object moves away from the plane 0}}.
 
 The plot describing the curl of :
-
-Curl_of_nonuniform_curl.png
 
 Identities
 

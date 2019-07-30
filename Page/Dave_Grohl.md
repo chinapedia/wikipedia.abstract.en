@@ -18,7 +18,7 @@ Career
 
 Scream (1986–1990)
 
-Dave_Grohl_1989.jpg At the age of 17, Grohl auditioned with local DC favorites Scream to fill the vacancy left by the departure of drummer Kent Stax. In order to be considered for the position, Grohl lied about his age, claiming he was 20.[24] To Grohl's surprise, the band asked him to join. Grohl dropped out of high school in his junior year; he said, "I was 17 and extremely anxious to see the world, so I did it."[25] Over the next four years, Grohl toured extensively with the band, recording a couple of live albums (their show of May 4, 1990 in Alzey, Germany being released by Tobby Holzinger as _Your Choice Live Series Vol.10_) and two studio albums, _No More Censorship_ and _Fumble_, on which Grohl penned and sang vocals on the song "Gods Look Down".
+At the age of 17, Grohl auditioned with local DC favorites Scream to fill the vacancy left by the departure of drummer Kent Stax. In order to be considered for the position, Grohl lied about his age, claiming he was 20.[24] To Grohl's surprise, the band asked him to join. Grohl dropped out of high school in his junior year; he said, "I was 17 and extremely anxious to see the world, so I did it."[25] Over the next four years, Grohl toured extensively with the band, recording a couple of live albums (their show of May 4, 1990 in Alzey, Germany being released by Tobby Holzinger as _Your Choice Live Series Vol.10_) and two studio albums, _No More Censorship_ and _Fumble_, on which Grohl penned and sang vocals on the song "Gods Look Down".
 
 While playing in Scream, Grohl became a fan of Melvins and eventually befriended the band. During a 1990 tour stop on the West Coast, Melvins' Buzz Osborne took a couple of his friends, Kurt Cobain and Krist Novoselic, to see the band.[26]
 
@@ -54,7 +54,7 @@ In the midst of the initial sessions for Foo Fighters' second album, tension eme
 
 Speaking in 2011 about the tension surrounding the departure of Goldsmith, Grohl explained that "there were a lot of reasons it didn't work out, but there was also a part of [him] that was like, you know, [he doesn't] know if [he's] finished playing the drums yet". He also stated that he wished he had "handled things differently".[42]
 
-Dave_Grohl_in_London.jpg The effort was released in May 1997 as the band's second album, _The Colour and the Shape_, which eventually cemented Foo Fighters as a staple of rock radio. The album spawned several hits, including "Everlong", "My Hero", and "Monkey Wrench". Just prior to the album's release, former Alanis Morissette drummer Taylor Hawkins joined the band on drums. The following September, Smear (a close friend of Jennifer Youngblood) left the band,[43] citing a need to settle down following a lifetime of touring. Smear was subsequently replaced by Grohl's former Scream bandmate Franz Stahl. Stahl was kicked out of the band prior to recording of Foo Fighters' third album[44] and was replaced by touring guitarist Chris Shiflett, who later became a full-fledged member during the recording of _One by One_.
+The effort was released in May 1997 as the band's second album, _The Colour and the Shape_, which eventually cemented Foo Fighters as a staple of rock radio. The album spawned several hits, including "Everlong", "My Hero", and "Monkey Wrench". Just prior to the album's release, former Alanis Morissette drummer Taylor Hawkins joined the band on drums. The following September, Smear (a close friend of Jennifer Youngblood) left the band,[43] citing a need to settle down following a lifetime of touring. Smear was subsequently replaced by Grohl's former Scream bandmate Franz Stahl. Stahl was kicked out of the band prior to recording of Foo Fighters' third album[44] and was replaced by touring guitarist Chris Shiflett, who later became a full-fledged member during the recording of _One by One_.
 
 Grohl's life of non-stop touring and travel continued with Foo Fighters' popularity. During his infrequent pauses he lived in Seattle and Los Angeles before returning to Alexandria, Virginia. It was there that he turned his basement into a recording studio where the 1999 album _There Is Nothing Left to Lose_ was recorded.[45] It was recorded following the departure from Capitol and their former president Gary Gersh. Grohl described the recording experience as "intoxicating at times" because the band members were left completely to their own devices. He added, "One of the advantages of finishing the record before we had a new label was that it was purely our creation. It was complete and not open to outside tampering."[46]
 
@@ -66,7 +66,7 @@ On November 23, 2002, Grohl achieved a historical milestone by replacing himself
 
 Grohl and Foo Fighters released their fifth album _In Your Honor_ on June 14, 2005. Prior to starting work on the album, the band spent almost a year relocating Grohl's home-based Virginia studio to a brand new facility, dubbed Studio 606, located in a warehouse near Los Angeles. Featuring collaborations with John Paul Jones of Led Zeppelin, Josh Homme of Queens of the Stone Age and Norah Jones, the album was a departure from previous efforts, and included one rock and one acoustic disc.
 
-Foo_Fighters_2009.jpg Foo Fighters' sixth studio album _Echoes, Silence, Patience & Grace_ was released on September 25, 2007. It was recorded during a three-month period between March 2007 and June 2007, and its release was preceded by the first single "The Pretender" on September 17. The second single, "Long Road to Ruin", was released on December 3, 2007, followed by the third single, "Let It Die", June 24, 2008.
+Foo Fighters' sixth studio album _Echoes, Silence, Patience & Grace_ was released on September 25, 2007. It was recorded during a three-month period between March 2007 and June 2007, and its release was preceded by the first single "The Pretender" on September 17. The second single, "Long Road to Ruin", was released on December 3, 2007, followed by the third single, "Let It Die", June 24, 2008.
 
 On November 3, 2009, Foo Fighters released their first _Greatest Hits_ collection, consisting of 16 tracks including a previously unreleased acoustic version of "Everlong" and two new tracks "Wheels" and "Word Forward" which were produced by Nevermind's producer Butch Vig. Grohl has been quoted saying the _Greatest Hits_ is too early and "... can look like an obituary". He does not feel they have written their best hits yet.[51]
 
@@ -78,7 +78,7 @@ On May 19, 2012, the Foo Fighters appeared with Mick Jagger on _Saturday Night L
 
 On November 10, 2014, the Foo Fighters released their eighth studio album, "Sonic Highways".
 
-Foo_Fighters_Fenway_Park_2015_(cropped).jpg in July 2015]]
+in July 2015]]
 
 On June 12, 2015, while playing a show in Gothenburg, Sweden, Grohl fell off the stage, breaking his leg. He left temporarily and returned with a cast to finish the concert.[56] Afterward, the band cancelled the remainder of its European tour. To avoid having to cancel the band's upcoming North American tour, Grohl designed a large "elevated throne" which would allow him to perform on stage with a broken leg. The throne was unveiled at a concert of July 4, where Grohl used the stage's video screens to show the crowd video of him falling from the stage in Gothenburg as well as X-rays of his broken leg.[57] Beginning with the show of July 4, the Foo Fighters began selling new tour merchandise rebranding the band's North American tour as the _Broken Leg Tour_.[58] Grohl later lent his throne to Axl Rose of Guns N' Roses after Rose suffered a similar injury on April 1, 2016, the band's first show with Slash and Duff McKagan in nearly 20 years.
 
@@ -95,7 +95,7 @@ In 1993, Grohl was recruited to help recreate the music of The Beatles' early ye
 
 Later in 1994, Grohl played drums on two tracks for Mike Watt's _Ball-Hog or Tugboat?_. In early 1995, Grohl and Foo Fighters played their first US tour opening for Watt and helped make up Watt's supporting band. Nicknamed the "Ringspiel" tour, Watt's band featured Grohl and William Goldsmith on drums, Eddie Vedder and Pat Smear on guitar, and Watt on bass.
 
-DaveGrohlphoto.jpg During the early 2000s, Grohl spent time in his basement studio writing and recording a number of songs for a metal project. Over the span of several years, he recruited his favorite metal vocalists from the 1980s, including Lemmy of Motörhead, Conrad "Cronos" Lant from Venom, King Diamond, Scott Weinrich, Snake of Voivod and Max Cavalera of Sepultura, to perform the vocals for the songs. The project was released in 2004 under the nickname Probot.[63][64]
+During the early 2000s, Grohl spent time in his basement studio writing and recording a number of songs for a metal project. Over the span of several years, he recruited his favorite metal vocalists from the 1980s, including Lemmy of Motörhead, Conrad "Cronos" Lant from Venom, King Diamond, Scott Weinrich, Snake of Voivod and Max Cavalera of Sepultura, to perform the vocals for the songs. The project was released in 2004 under the nickname Probot.[63][64]
 
 Also in 2003, Grohl stepped behind the kit to perform on Killing Joke's second self-titled album.[65] The move surprised some Nirvana fans, given that Nirvana had been accused of stealing the opening riff of "Come as You Are" from Killing Joke's 1984 song "Eighties".[66] However, the controversy failed to create a lasting rift between the bands. Foo Fighters covered Killing Joke's "Requiem" during the late 1990s, and were even joined by Killing Joke singer Jaz Coleman for a performance of the song at a show in New Zealand in 2003.[67] Also in 2003, at the 45th Annual Grammy Awards, Grohl performed in an ad-hoc supergroup with Bruce Springsteen, Elvis Costello, and Steven Van Zandt for a performance in tribute of then-recently deceased singer/guitarist Joe Strummer.[68] Grohl and Tyler were there and performed to induct the band Rush to the Rock n Roll hall of fame.
 
@@ -105,7 +105,7 @@ In June 2008, Grohl was Paul McCartney's special guest for a concert at the Anfi
 
 Grohl played drums on the tracks "Run with the Wolves" and "Stand Up" on The Prodigy's[77] 2009 album _Invaders Must Die_.
 
-Dave-Grohl_drums.jpg In July 2009, it was revealed that Grohl was recording with Josh Homme and John Paul Jones as Them Crooked Vultures.[78] The trio performed their first show together on August 9, 2009, at Metro in Chicago.[79] The band played their first UK gig on August 26, 2009, with a surprise appearance at Brixton Academy in London, supporting the Arctic Monkeys. The band released their debut album Them Crooked Vultures on November 16, 2009 in the UK and November 17, 2009 in the US.
+In July 2009, it was revealed that Grohl was recording with Josh Homme and John Paul Jones as Them Crooked Vultures.[78] The trio performed their first show together on August 9, 2009, at Metro in Chicago.[79] The band played their first UK gig on August 26, 2009, with a surprise appearance at Brixton Academy in London, supporting the Arctic Monkeys. The band released their debut album Them Crooked Vultures on November 16, 2009 in the UK and November 17, 2009 in the US.
 
 On February 6, 2010, Grohl performed with his band Them Crooked Vultures the songs "Mind Eraser, No Chaser" and "New Fang" as musical guests on _Saturday Night Live._ Grohl appeared as a middle-aged punk rock drummer reuniting the group "Crisis of Conformity" (fronted by Fred Armisen) after 25 years in a skit later on in the episode.[80]
 
@@ -127,7 +127,7 @@ In February 2013, Grohl filled in as host of _Chelsea Lately_ for a week. Guests
 
 Grohl delivered a keynote speech at the 2013 South by Southwest conference in Austin Texas, U.S. on the morning of March 14. Lasting just under an hour, the speech covered Grohl's musical life from his youth through to his role with the Foo Fighters and emphasized the importance of each individual's voice, regardless of who the individual is: "There is no right or wrong—there is only your voice... What matters most is that it's your voice. Cherish it. Respect it. Nurture it. Challenge it. Respect it". Grohl also admitted during the speech that Psy's "Gangnam Style" was one of his favorite songs of "the past decade". He also referenced Edgar Winter's instrumental "Frankenstein" as being the song that made him want to become a musician.[93]
 
-Dave_Grohl_-_Concert_for_Valor_in_Washington,_D.C._Nov._11,_2014.jpg in Washington, D.C., 2014]] On November 6, 2013, Dave Grohl played drums at the 2013 CMA Awards replacing drummer Chris Fryar for Country Music band Zac Brown Band. The band debuted their new song "Day for the Dead".[94] Grohl also produced Zac Brown Band's EP The Grohl Sessions, Vol. 1.[95]
+in Washington, D.C., 2014]] On November 6, 2013, Dave Grohl played drums at the 2013 CMA Awards replacing drummer Chris Fryar for Country Music band Zac Brown Band. The band debuted their new song "Day for the Dead".[94] Grohl also produced Zac Brown Band's EP The Grohl Sessions, Vol. 1.[95]
 
 Grohl also featured on drums for new indie hip-hop band RDGLDGRN. He worked with them closely on their EP. The group asked fellow Northern Virginia native Dave Grohl, who was filming his Sound City documentary, to drum on "I Love Lamp". Grohl agreed and played drums for the entire record, with the exception of "Million Fans", which features a sampled breakbeat.
 
@@ -156,14 +156,14 @@ Cal Jam 18 was held October 5–6, 2018 in San Bernardino, California which feat
 
 Equipment
 
-Foo_Fighters_-_Rock_am_Ring_2018-5601.jpg Dave Grohl plays a large number of guitars, but his two primary guitars are both based on the Gibson ES-335. His primary recording guitar is an original cherry red Gibson Trini Lopez Standard that he bought in the early 1990s because he liked the look of the diamond-shaped holes. His primary stage guitar is his signature model Pelham Blue Gibson DG-335, which was designed by Gibson based on the Trini Lopez Standard specs, but in a different color and with a stop tailpiece instead of the Trini Lopez's trapeze tailpiece. He also has another signature guitar called the "Memphis Dave Grohl ES-335" in silver finish that is otherwise similar to the DG-335. His primary acoustic guitar is a black Elvis Presley model Gibson Dove.[110]
+Dave Grohl plays a large number of guitars, but his two primary guitars are both based on the Gibson ES-335. His primary recording guitar is an original cherry red Gibson Trini Lopez Standard that he bought in the early 1990s because he liked the look of the diamond-shaped holes. His primary stage guitar is his signature model Pelham Blue Gibson DG-335, which was designed by Gibson based on the Trini Lopez Standard specs, but in a different color and with a stop tailpiece instead of the Trini Lopez's trapeze tailpiece. He also has another signature guitar called the "Memphis Dave Grohl ES-335" in silver finish that is otherwise similar to the DG-335. His primary acoustic guitar is a black Elvis Presley model Gibson Dove.[110]
 
 Dave's drum kit, as designed by Drum Workshop, features five different sized toms ranging from 5x8 inches to 16x18 inches, a 19-inch crash cymbal, two 20-inch crash cymbals, an 18-inch China cymbal, a 24-inch ride cymbal, and a standard kick drum, snare drum, and hi-hat.[111]
 
 
 Personal life
 
-Dave_Grohl_-_july_2008_2.jpg Grohl married Jennifer Leigh Youngblood (born November 6, 1971), a photographer from Grosse Pointe, Michigan, in 1994 and later divorced in 1997 after separating in December 1996.[112] On August 2, 2003, he married Jordyn Blum. Together, they have three daughters: Violet Maye (born April 15, 2006), Harper Willow (born April 17, 2009), and Ophelia Saint (born August 1, 2014).[113]
+Grohl married Jennifer Leigh Youngblood (born November 6, 1971), a photographer from Grosse Pointe, Michigan, in 1994 and later divorced in 1997 after separating in December 1996.[112] On August 2, 2003, he married Jordyn Blum. Together, they have three daughters: Violet Maye (born April 15, 2006), Harper Willow (born April 17, 2009), and Ophelia Saint (born August 1, 2014).[113]
 
 In 2012, Grohl was estimated to be the third wealthiest drummer in the world, behind Ringo Starr and Phil Collins, with a fortune of $260 million.[114]
 
@@ -183,7 +183,7 @@ Honors
 
 In August 2009, Grohl was given the key to the city of Warren, Ohio and performed the songs "Everlong", "Times Like These", and "My Hero". A roadway in downtown Warren named "David Grohl Alley" has been dedicated to him with murals by local artists.[126][127]
 
-The_Concert_for_Valor_2014_(16062194626).jpg Dave Grohl's hometown of Warren, Ohio unveiled gigantic drumsticks in 2012 to honor him. According to _The Hollywood Reporter_, the massive pair broke the Guinness World Record.[128] The record-breaking drumsticks were shown to the public for the first time on July 7 during a concert at the Warren Amphitheater.[129]
+Dave Grohl's hometown of Warren, Ohio unveiled gigantic drumsticks in 2012 to honor him. According to _The Hollywood Reporter_, the massive pair broke the Guinness World Record.[128] The record-breaking drumsticks were shown to the public for the first time on July 7 during a concert at the Warren Amphitheater.[129]
 
 On November 11, 2014, Grohl joined Bruce Springsteen and Zac Brown on stage at the Concert for Valor in Washington, D.C. to support U.S. troops and veterans.[130]
 

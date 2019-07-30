@@ -7,19 +7,19 @@ Algarotti was born in Venice as the son of a rich merchant. His father and uncle
 
 In the meantime Algarotti had made acquaintance with Antiochus Kantemir, a Moldavian diplomat, poet and composer.[4] He was invited to visit Russia for the wedding of Duke Anthony Ulrich of Brunswick.[5] In 1739 he left with Lord Baltimore from Sheerness to Newcastle upon Tyne. Because of a heavy storm the ship sheltered in Harlingen. Algarotti was discovering "this new city".[6] Returning from Saint Petersburg, they visited Frederick the Great in Rheinsberg. Algarotti had obligations in England and came back the year after. Then Algarotti went together with Frederick to Königsberg where he was crowned.
 
-The_Chocolate_Girl_by_Jean-Étienne_Liotard.jpg by Liotard was sold in 1745 by Algarotti to Dresden.[7]]]
+by Liotard was sold in 1745 by Algarotti to Dresden.[7]]]
 
 Frederick, who was impressed with this walking encyclopedia, made him and his brother Bonomo Prussian counts in 1740. Algarotti accompanied Frederick to Bayreuth, Kehl, Strasbourg and Moyland Castle where they met with Voltaire, who was taking baths in Kleve for his health.[8] In 1741 Algarotti went to Turin as his diplomat. Frederick had offered him a salary, but Algarotti refused. First, he went to Dresden and Venice, where he bought 21 paintings, a few by Jean-Étienne Liotard and Giovanni Battista Tiepolo for the court of Augustus III of Poland.[9][10] Algarotti did not succeed in inducing the Kingdom of Sardinia to launch a treacherous attack upon Austria.[11]
 
 Algarotti and the other arts
 
-Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg by Giovanni Paolo Pannini, ordered by and belonging to the art collection of Algarotti[12]]]
+by Giovanni Paolo Pannini, ordered by and belonging to the art collection of Algarotti[12]]]
 
 Algarotti's choice of works reflects the encyclopedic interests of the Neoclassic era; he was uninterested in developing a single unitary stylistic collection, he envisioned a modern museum, a catalog of styles from across the ages. For contemporary commissions, he wrote up a list for paintings he recommended commissioning, including to ask of history paintings from Tiepolo, Pittoni, and Piazzetta; scenes with animals from Castiglione, and veduta with ruins from Pannini. He wanted_"suggetti graziosi e leggeri"_ from Balestra, Boucher, and Donato Creti.[13] Other artist he protected were Giuseppe Nogari, Bernardo Bellotto, and Francesco Pavona.
 
 In 1747 Algarotti went back to Potsdam and became court chamberlain, but left to visit the archeological diggings at Herculaneum.[14] In 1749 he moved to Berlin. Algarotti was involved in finishing the architectural designs of Georg Wenzeslaus von Knobelsdorff who had fallen ill. In February 1753, after several years residing in Prussia, he returned to Italy, living most of the time in Bologna. In 1759 Algarotti was involved in a new opera-style in the city of Parma. He influencing Guillaume du Tillot and the Duke of Parma.
 
-Adolph-von-Menzel-Tafelrunde2.jpg in the Marble Hall, with Fredrik II. (the Great) of Prussia, Voltaire, d'Argens, La Mettrie, James Keith, George Keith, Friedrich Rudolf von Rothenburg, Christoph Ludwig von Stille, and Algarotti. The painting was lost in 1945.]]
+in the Marble Hall, with Fredrik II. (the Great) of Prussia, Voltaire, d'Argens, La Mettrie, James Keith, George Keith, Friedrich Rudolf von Rothenburg, Christoph Ludwig von Stille, and Algarotti. The painting was lost in 1945.]]
 
 Algarotti's _Essay on the Opera_ (1755) was a major influence on the librettist Carlo Innocenzo Frugoni and the composer Tommaso Traetta, and in the development of Gluck's reformist ideology.[15] Algarotti proposed a heavily simplified model of _opera seria_, with the drama pre-eminent, instead of the music, ballet or staging. The drama itself should "delight the eyes and ears, to rouse up and to affect the hearts of an audience, without the risk of sinning against reason or common sense". Algarotti's ideas influenced both Gluck and his librettist Calzabigi, writing their Orfeo ed Euridice.[16]
 
@@ -27,8 +27,6 @@ In 1762 Algarotti moved to Pisa, where he died of tuberculosis. Frederick the Gr
 
 
 Works
-
-Algarotti,_Francesco_-_Saggi,_1963_-_BEIC_1729548.djvu
 
 -   Bibliography and Inventory of all known letters at Algarotti Briefdatenbank der Universitätsbibliothek Trier
 -   Correspondence with Frederick the Great at Digitale Ausgabe der Universitätsbibliothek Trier

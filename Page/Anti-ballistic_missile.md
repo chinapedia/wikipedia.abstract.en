@@ -1,9 +1,9 @@
-OBV_GBI_1.jpg of the United States' Ground-Based Midcourse Defense system, loaded into a silo at Fort Greely, Alaska, in July 2004]] An ANTI-BALLISTIC MISSILE (ABM) is a surface-to-air missile designed to counter ballistic missiles (see missile defense). Ballistic missiles are used to deliver nuclear, chemical, biological, or conventional warheads in a ballistic flight trajectory. The term "anti-ballistic missile" is a generic term conveying a system designed to intercept and destroy any type of ballistic threat; however, it is commonly used for systems specifically designed to counter intercontinental ballistic missiles (ICBMs).
+of the United States' Ground-Based Midcourse Defense system, loaded into a silo at Fort Greely, Alaska, in July 2004]] An ANTI-BALLISTIC MISSILE (ABM) is a surface-to-air missile designed to counter ballistic missiles (see missile defense). Ballistic missiles are used to deliver nuclear, chemical, biological, or conventional warheads in a ballistic flight trajectory. The term "anti-ballistic missile" is a generic term conveying a system designed to intercept and destroy any type of ballistic threat; however, it is commonly used for systems specifically designed to counter intercontinental ballistic missiles (ICBMs).
 
 
 Current counter-ICBM systems
 
-Arrow-3_Jan-03-2013_(c).jpg]] There are only three systems in the world that can intercept ICBMs. Besides them, some smaller systems exist (tactical ABMs) that generally cannot intercept intercontinental strategic missiles, even if within range—an incoming ICBM simply moves too fast for these systems.
+]] There are only three systems in the world that can intercept ICBMs. Besides them, some smaller systems exist (tactical ABMs) that generally cannot intercept intercontinental strategic missiles, even if within range—an incoming ICBM simply moves too fast for these systems.
 
 -   The Russian A-135 anti-ballistic missile system is used for the defense of Moscow. It became operational in 1995 and was preceded by the A-35 anti-ballistic missile system. The system uses Gorgon and Gazelle missiles with nuclear warheads to intercept incoming ICBMs.
 -   The U.S. Ground-Based Midcourse Defense System (GMD), formerly known as National Missile Defense (NMD), was first tested in 1997 and had its first successful intercept test in 1999. Instead of using an explosive charge, it launches a hit-to-kill kinetic projectile to intercept an ICBM. The current GMD system is intended to shield the United States mainland against a limited nuclear attack by a rogue state such as North Korea. GMD does not have the ability to protect against an all-out nuclear attack from Russia, as there are currently 44 ground-based interceptors deployed against crossing projectiles headed toward the homeland. (This does not include the THAAD, or Aegis, or Patriot defenses against directly incoming projectiles.)
@@ -65,11 +65,11 @@ Rumored midcourse missiles:
 
 France, Italy and United Kingdom
 
-HMS_Daring-1.jpg Type 45 destroyers, and French Navy and Italian Navy _Horizon_ and _FREMM_ frigates operate Aster 30 missiles]] Italy and France have developed a missile family called Aster (Aster 15 and Aster 30). Aster 30 is capable of ballistic missile defense. On 18 October 2010, France announced a successful tactical ABM test of the Aster 30 missile[36] and on 1 December 2011 a successful interception of a Black Sparrow ballistic target missile.[37][38] Royal Navy Type 45 destroyers and French Navy and Italian Navy _Horizon_ -class frigates, and _FREMM_ -class frigates are armed with PAAMS, using Aster 15 and Aster 30 missiles. It is in developing another version, the Aster 30 block II, which can destroy ballistic missiles at a maximum range of 3000 km. It will have a Kill Vehicle warhead.[39]
+Type 45 destroyers, and French Navy and Italian Navy _Horizon_ and _FREMM_ frigates operate Aster 30 missiles]] Italy and France have developed a missile family called Aster (Aster 15 and Aster 30). Aster 30 is capable of ballistic missile defense. On 18 October 2010, France announced a successful tactical ABM test of the Aster 30 missile[36] and on 1 December 2011 a successful interception of a Black Sparrow ballistic target missile.[37][38] Royal Navy Type 45 destroyers and French Navy and Italian Navy _Horizon_ -class frigates, and _FREMM_ -class frigates are armed with PAAMS, using Aster 15 and Aster 30 missiles. It is in developing another version, the Aster 30 block II, which can destroy ballistic missiles at a maximum range of 3000 km. It will have a Kill Vehicle warhead.[39]
 
 India
 
-AAD_Test_Crop.jpg (AAD) interceptor missile]]
+(AAD) interceptor missile]]
 
 India has an active ABM development effort using indigenously developed and integrated radars, and indigenous missiles.[40] In November 2006, India successfully conducted the PADE (Prithvi Air Defence Exercise) in which an anti-ballistic missile, called the Prithvi Air Defence (PAD), an _exo-atmospheric_ (outside the atmosphere) interceptor system, intercepted a Prithvi-II ballistic missile. The PAD missile has the secondary stage of the Prithvi missile and can reach altitude of . During the test, the target missile was intercepted at a altitude.[41] India became the fourth nation in the world after United States, Russia, and Israel to acquire such a capability and the third nation to acquire it using in-house research and development.[42] On 6 December 2007, the Advanced Air Defence (AAD) missile system was tested successfully.[43] This missile is an Endo-atmospheric interceptor with an altitude of . In 2009, reports emerged of a new missile named the PDV. The DRDO is developing a new Prithvi interceptor missile code-named PDV. The PDV is designed to take out the target missile at altitudes above .[44] The first PDV was successfully test fired on 27 April 2014.[45] According to scientist V K Saraswat of DRDO, the missiles will work in tandem to ensure a hit probability of 99.8 percent.[46] On 15 May 2016 India successfully launched advanced Defence interceptor missile named Ashvin interceptor missile from Abdul Kalam Island from Odisha coast.[47] India has structured a 5-layer missile shield for Delhi as of 9 June 2019:[48]
 
@@ -85,7 +85,7 @@ Anti-ballistic missile systems
 
 Arrow 2
 
-Arrow2_96aug.jpg The Arrow project was begun after the U.S. and Israel agreed to co-fund it on 6 May 1986.[49]
+The Arrow project was begun after the U.S. and Israel agreed to co-fund it on 6 May 1986.[49]
 
 The Arrow ABM system was designed and constructed in Israel with financial support by the United States by a multibillion-dollar development program called "Minhelet Homa" (Wall Administration) with the participation of companies like Israel Military Industries, Tadiran and Israel Aerospace Industries.
 
@@ -93,7 +93,7 @@ During 1998 the Israeli military conducted a successful test of their Arrow miss
 
 Arrow 3
 
-AST-15-001.jpg in testing.]] The Arrow 3 system is capable of exo-atmosphere interception of ballistic missiles, including of ICBMs.[51] It also acts as an anti-satellite weapon.
+in testing.]] The Arrow 3 system is capable of exo-atmosphere interception of ballistic missiles, including of ICBMs.[51] It also acts as an anti-satellite weapon.
 
 Lieutenant General Patrick J. O'Reilly, Director of the US Missile Defense Agency, said: "The design of Arrow 3 promises to be an extremely capable system, more advanced than what we have ever attempted in the U.S. with our programs."
 
@@ -101,15 +101,15 @@ On December 10, 2015 Arrow 3 scored its first intercept in a complex test design
 
 David’s sling
 
-Dec.,_2015_-_David%27s_Sling_Weapons_System_Stunner_Missile_successfully_completed_a_series_of_tests_(3).jpg, designed to intercept tactical ballistic missiles]] David's Sling (Hebrew: קלע דוד), also sometimes called Magic Wand (Hebrew: שרביט קסמים), is an Israel Defense Forces military system being jointly developed by the Israeli defense contractor Rafael Advanced Defense Systems and the American defense contractor Raytheon, designed to intercept tactical ballistic missiles, as well as medium- to long-range rockets and slower-flying cruise missiles, such as those possessed by Hezbollah, fired at ranges from 40 km to 300 km. It is designed with the aim of intercepting the newest generation of tactical ballistic missiles, such as Iskander.
+, designed to intercept tactical ballistic missiles]] David's Sling (Hebrew: קלע דוד), also sometimes called Magic Wand (Hebrew: שרביט קסמים), is an Israel Defense Forces military system being jointly developed by the Israeli defense contractor Rafael Advanced Defense Systems and the American defense contractor Raytheon, designed to intercept tactical ballistic missiles, as well as medium- to long-range rockets and slower-flying cruise missiles, such as those possessed by Hezbollah, fired at ranges from 40 km to 300 km. It is designed with the aim of intercepting the newest generation of tactical ballistic missiles, such as Iskander.
 
 Japan
 
-SM3_from_JDS_Kongo.jpg JDS _Kongō_ (DDG-173) firing a Standard Missile 3 anti-ballistic missile.]] Since 1998, when North Korea launched a Taepodong-1 missile over northern Japan, the Japanese have been jointly developing a new surface-to-air interceptor known as the Patriot Advanced Capability 3 (PAC-3) with the US. So far tests have been successful, and there are planned 11 locations that the PAC-3 will be installed. A military spokesman[54] said that tests had been done on two sites, one of them a business park in central Tokyo, and Ichigaya – a site not far from the Imperial Palace. Along with the PAC-3, Japan has installed a US-developed ship-based anti-ballistic missile system, which was tested successfully on 18 December 2007. The missile was launched from a Japanese warship, in partnership with the U.S. Missile Defense Agency and destroyed a mock target launched from the coast.
+JDS _Kongō_ (DDG-173) firing a Standard Missile 3 anti-ballistic missile.]] Since 1998, when North Korea launched a Taepodong-1 missile over northern Japan, the Japanese have been jointly developing a new surface-to-air interceptor known as the Patriot Advanced Capability 3 (PAC-3) with the US. So far tests have been successful, and there are planned 11 locations that the PAC-3 will be installed. A military spokesman[54] said that tests had been done on two sites, one of them a business park in central Tokyo, and Ichigaya – a site not far from the Imperial Palace. Along with the PAC-3, Japan has installed a US-developed ship-based anti-ballistic missile system, which was tested successfully on 18 December 2007. The missile was launched from a Japanese warship, in partnership with the U.S. Missile Defense Agency and destroyed a mock target launched from the coast.
 
 Soviet Union/Russian Federation
 
-S-300PMU2_complex.jpg vehicles. From left to right: 64N6E2 detection radar, 54K6E2 command post and 5P85 TEL.]] The Moscow ABM defense system was designed with the aim of being able to intercept the ICBM warheads aimed at Moscow and other important industrial regions, and is based on:
+vehicles. From left to right: 64N6E2 detection radar, 54K6E2 command post and 5P85 TEL.]] The Moscow ABM defense system was designed with the aim of being able to intercept the ICBM warheads aimed at Moscow and other important industrial regions, and is based on:
 
 -   A-35 Aldan
     -   ABM-1 Galosh / 5V61[55][56] (decommissioned)[57]
@@ -130,7 +130,7 @@ Apart from the main Moscow deployment, Russia has striven actively for intristic
 
 United States
 
-Standard_Missile_III_SM-3_RIM-161_test_launch_04017005.jpg RIM-161 Standard Missile 3 anti-ballistic missile.]] In several tests, the U.S. military have demonstrated the feasibility of destroying long and short range ballistic missiles. Combat effectiveness of newer systems against 1950s tactical ballistic missiles seems very high, as the MIM-104 Patriot (PAC-1 and PAC-2) had a 100% success rate in Operation Iraqi Freedom.[63]
+RIM-161 Standard Missile 3 anti-ballistic missile.]] In several tests, the U.S. military have demonstrated the feasibility of destroying long and short range ballistic missiles. Combat effectiveness of newer systems against 1950s tactical ballistic missiles seems very high, as the MIM-104 Patriot (PAC-1 and PAC-2) had a 100% success rate in Operation Iraqi Freedom.[63]
 
 The U.S. Navy Aegis combat system uses RIM-161 Standard Missile 3, which hit a target going faster than ICBM warheads.[64]
 
@@ -151,7 +151,7 @@ History
 
 1940s and 1950s
 
-Wizard_missile_concept.jpg missile]] NIKE_Zeus.jpg Nike Zeus missile, the first ABM system to enter widespread testing.]] The idea of destroying rockets before they can hit their target dates from the first use of modern missiles in warfare, the German V-1 and V-2 program of World War II.
+missile]] Nike Zeus missile, the first ABM system to enter widespread testing.]] The idea of destroying rockets before they can hit their target dates from the first use of modern missiles in warfare, the German V-1 and V-2 program of World War II.
 
 British fighters destroyed some V-1 "buzz bombs" in flight, although concentrated barrages of heavy anti-aircraft artillery had greater success. Under the lend-lease program, 200 US 90 mm AA guns with SCR-584 radars and Western Electric/Bell Labs computers were sent to the UK. These demonstrated a 95% success rate against V-1s that flew into their range.[80]
 
@@ -171,7 +171,7 @@ Other countries were also involved in early ABM research. A more advanced projec
 
 Soviet Union
 
-V-1000_ABM_prototype.svg The Soviet military had requested funding for ABM research as early as 1953, but were only given the go-ahead to begin deployment of such a system on 17 August 1956. Their test system, known simply as System A, was based on the V-1000 missile, which was similar to the early US efforts. The first successful test interception was carried out on 24 November 1960, and the first with a live warhead on 4 March 1961. In this test, a dummy warhead was released by a R-12 ballistic missile launched from the Kapustin Yar,[84] and intercepted by a V-1000 launched from Sary-Shagan. The dummy warhead was destroyed by the impact of 16,000 tungsten-carbide spherical impactors 140 seconds after launch, at an altitude of .[85]
+The Soviet military had requested funding for ABM research as early as 1953, but were only given the go-ahead to begin deployment of such a system on 17 August 1956. Their test system, known simply as System A, was based on the V-1000 missile, which was similar to the early US efforts. The first successful test interception was carried out on 24 November 1960, and the first with a live warhead on 4 March 1961. In this test, a dummy warhead was released by a R-12 ballistic missile launched from the Kapustin Yar,[84] and intercepted by a V-1000 launched from Sary-Shagan. The dummy warhead was destroyed by the impact of 16,000 tungsten-carbide spherical impactors 140 seconds after launch, at an altitude of .[85]
 
 The V-1000 missile system was nonetheless considered not reliable enough and abandoned in favour of nuclear-armed ABMs. A much larger missile, the Fakel 5V61 (known in the west as Galosh), was developed to carry the larger warhead and carry it much further from the launch site. Further development continued, and the A-35 anti-ballistic missile system, designed to protect Moscow, became operational in 1971. A-35 was designed for exoatmospheric interceptions, and would have been highly susceptible to a well-arranged attack using multiple warheads and radar black-out techniques.
 
@@ -193,7 +193,7 @@ When this proved infeasible for economic reasons, a much smaller deployment usin
 
 Defense against MIRVs
 
-Peacekeeper-missile-testing.jpg re-entry vehicles, all eight shot from only one missile. Each line represents the path of a warhead which, were it live, would detonate with the explosive power of twenty-five Hiroshima-style weapons.]] ABM systems were developed initially to counter single warheads launched from large Intercontinental ballistic missiles (ICBMs). The economics seemed simple enough; since rocket costs increase rapidly with size, the price of the ICBM launching a large warhead should always be greater than the much smaller interceptor missile needed to destroy it. In an arms race the defense would always win.
+re-entry vehicles, all eight shot from only one missile. Each line represents the path of a warhead which, were it live, would detonate with the explosive power of twenty-five Hiroshima-style weapons.]] ABM systems were developed initially to counter single warheads launched from large Intercontinental ballistic missiles (ICBMs). The economics seemed simple enough; since rocket costs increase rapidly with size, the price of the ICBM launching a large warhead should always be greater than the much smaller interceptor missile needed to destroy it. In an arms race the defense would always win.
 
 In practice, the price of the interceptor missile was considerable, due to its sophistication. The system had to be guided all the way to an interception, which demanded guidance and control systems that worked within and outside the atmosphere. The Nike Zeus was expected to cost about $1 million, about the same as an ICBM. However, due to their relatively short ranges, an ABM missile would be needed to counter an ICBM wherever it might be aimed. That implies that dozens of interceptors are needed for every ICBM. This led to intense debates about the "cost-exchange ratio" between interceptors and warheads.
 
@@ -227,7 +227,7 @@ Testing ABM technology continued during the 1990s with mixed success. After the 
 
 A new version of the Hawk missile was tested during the early to mid-1990s and by the end of 1998 the majority of US Marine Corps Hawk systems were modified to support basic theater anti-ballistic missile capabilities.[89] MIM-23 Hawk missile is not operational in the U.S. service since 2002, but is used by many other countries.
 
-Navy_Theater_Ballistic_Missile_Defense.JPG used by the U.S. Navy]] Soon after the Gulf war, the Aegis combat system was expanded to include ABM capabilities. The Standard missile system was also enhanced and tested for ballistic missile interception. During the late 1990s, SM-2 block IVA missiles were tested in a theater ballistic missile defense function.[90] Standard Missile 3 (SM-3) systems have also been tested for an ABM role. In 2008, an SM-3 missile launched from a _Ticonderoga_-class cruiser, the USS Lake Erie, successfully intercepted a non-functioning satellite.[91][92]
+used by the U.S. Navy]] Soon after the Gulf war, the Aegis combat system was expanded to include ABM capabilities. The Standard missile system was also enhanced and tested for ballistic missile interception. During the late 1990s, SM-2 block IVA missiles were tested in a theater ballistic missile defense function.[90] Standard Missile 3 (SM-3) systems have also been tested for an ABM role. In 2008, an SM-3 missile launched from a _Ticonderoga_-class cruiser, the USS Lake Erie, successfully intercepted a non-functioning satellite.[91][92]
 
 From 1992 to 2000, a demonstration system for the US Army Terminal High Altitude Area Defense was deployed at White Sands Missile Range. Tests were conducted on a regular basis and resulted in early failures, but successful intercepts occurred from 1999 onward. Full fielding of the first THAAD battery began in 2009.[93]
 

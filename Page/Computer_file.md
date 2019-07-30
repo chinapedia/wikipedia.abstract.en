@@ -9,7 +9,7 @@ Typically, files are organised in a file system, which keeps track of where the 
 
 Etymology
 
-PunchCardDecks.agr.jpg file]] BRL61-IBM_305_RAMAC.jpeg of an IBM 305 system]]
+file]] of an IBM 305 system]]
 
 The word "file" derives from the Latin _filum_ ("a thread").[1]
 
@@ -62,7 +62,7 @@ In Unix-like systems, user space programs do not operate directly, at a low leve
 
 Identifying and organizing
 
-FileFolders.svg In modern computer systems, files are typically accessed using names (filenames). In some operating systems, the name is associated with the file itself. In others, the file is anonymous, and is pointed to by links that have names. In the latter case, a user can identify the name of the link with the file itself, but this is a false analogue, especially where there exists more than one link to the same file.
+In modern computer systems, files are typically accessed using names (filenames). In some operating systems, the name is associated with the file itself. In others, the file is anonymous, and is pointed to by links that have names. In the latter case, a user can identify the name of the link with the file itself, but this is a false analogue, especially where there exists more than one link to the same file.
 
 Files (or links to files) can be located in directories. However, more generally, a directory can contain either a list of files or a list of links to files. Within this definition, it is of paramount importance that the term "file" includes directories. This permits the existence of directory hierarchies, i.e., directories containing sub-directories. A name that refers to a file within a directory must be typically unique. In other words, there must be no identical names within a directory. However, in some operating systems, a name may include a specification of type that means a directory can contain an identical name for more than one type of object such as a directory and a file.
 

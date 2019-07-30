@@ -1,4 +1,4 @@
-Epimenides-poet.jpg"]] The EPIMENIDES PARADOX reveals a problem with self-reference in logic.
+"]] The EPIMENIDES PARADOX reveals a problem with self-reference in logic.
 
 It is named after the Cretan philosopher Epimenides of Knossos (alive circa 600 BC) who is credited with the original statement.
 

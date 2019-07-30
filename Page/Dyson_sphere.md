@@ -1,5 +1,3 @@
-Freeman_Dyson.jpg
-
 A DYSON SPHERE is a hypothetical megastructure that completely encompasses a star and captures a large percentage of its power output. The concept is a thought experiment that attempts to explain how a spacefaring civilization would meet its energy requirements once those requirements exceed what can be generated from the home planet's resources alone. Only a tiny fraction of a star's energy emissions reach the surface of any orbiting planet. Building structures encircling a star would enable a civilization to harvest far more energy.
 
 The first contemporary description of the structure was by Olaf Stapledon in his science fiction novel _Star Maker_ (1937), in which he described "every solar system... surrounded by a gauze of light traps, which focused the escaping solar energy for intelligent use."[1] The concept was later popularized by Freeman Dyson in his 1960 paper "Search for Artificial Stellar Sources of Infrared Radiation".[2] Dyson speculated that such structures would be the logical consequence of the escalating energy needs of a technological civilization and would be a necessity for its long-term survival. He proposed that searching for such structures could lead to the detection of advanced, intelligent extraterrestrial life. Different types of Dyson spheres and their energy-harvesting ability would correspond to levels of technological advancement on the Kardashev scale.
@@ -25,7 +23,7 @@ In fictional accounts, the Dyson-sphere concept is often interpreted as an artif
 
 Dyson swarm
 
-Dyson_Ring.PNG in radius, collectors are 1.0 km in diameter (10 Gm or ≈25 times the Earth–Moon distance), spaced 3 degrees from center to center around the orbital circle.]] Dyson_Swarm.png. Rings are rotated 15 degrees relative to one another, around a common axis of rotation.]]
+in radius, collectors are 1.0 km in diameter (10 Gm or ≈25 times the Earth–Moon distance), spaced 3 degrees from center to center around the orbital circle.]] . Rings are rotated 15 degrees relative to one another, around a common axis of rotation.]]
 
 The variant closest to Dyson's original conception is the "Dyson swarm". It consists of a large number of independent constructs (usually solar power satellites and space habitats) orbiting in a dense formation around the star. This construction approach has advantages: components could be sized appropriately, and it can be constructed incrementally.[11] Various forms of wireless energy transfer could be used to transfer energy between swarm components and a planet.
 
@@ -35,7 +33,7 @@ As noted below, such a cloud of collectors would alter the light emitted by the 
 
 Dyson bubble
 
-Dyson_Bubble.pngs around a star, in a non-orbital pattern. As long as a satellite has an unobstructed line-of-sight to its star, it can hover at any point in space near its star. This relatively simple arrangement is only one of an infinite number of possible statite configurations, and is meant as a contrast for a Dyson swarm only. Statites are pictured as the same size as the collectors pictured above, and arranged at a uniform 1 AU distance from the star. ]]
+s around a star, in a non-orbital pattern. As long as a satellite has an unobstructed line-of-sight to its star, it can hover at any point in space near its star. This relatively simple arrangement is only one of an infinite number of possible statite configurations, and is meant as a contrast for a Dyson swarm only. Statites are pictured as the same size as the collectors pictured above, and arranged at a uniform 1 AU distance from the star. ]]
 
 A second type of Dyson sphere is the "Dyson bubble". It would be similar to a Dyson swarm, composed of many independent constructs and likewise could be constructed incrementally.
 
@@ -53,7 +51,7 @@ In theory, if enough satellites were created and deployed around their star, the
 
 Dyson shell
 
-Dyson_Sphere_Diagram-en.svg]] The variant of the Dyson sphere most often depicted in fiction is the "Dyson shell": a uniform solid shell of matter around the star.[24] Such a structure would completely alter the emissions of the central star, and would intercept 100% of the star's energy output. Such a structure would also provide an immense surface that many envision would be used for habitation, if the surface could be made habitable.
+]] The variant of the Dyson sphere most often depicted in fiction is the "Dyson shell": a uniform solid shell of matter around the star.[24] Such a structure would completely alter the emissions of the central star, and would intercept 100% of the star's energy output. Such a structure would also provide an immense surface that many envision would be used for habitation, if the surface could be made habitable.
 
 A spherical shell Dyson sphere in the Solar System with a radius of one astronomical unit, so that the interior surface would receive the same amount of sunlight as Earth does per unit solid angle, would have a surface area of approximately , or about 550 million times the surface area of Earth. This would intercept the full 384.6 yottawatts (3.846 × 10²⁶ watts)[25] of the Sun's output. Non-shell designs would intercept less, but the shell variant represents the maximum possible energy captured for the Solar System at this point of the Sun's evolution.[26] This is approximately 33 trillion times the power consumption of humanity in 1998, which was 12 terawatts.[27]
 

@@ -26,8 +26,6 @@ NICRA intended, despite the ban, to hold another anti-internment march in Derry 
 
 Events of the day
 
-Rossville_flats,_Bogside_-_geograph.org.uk_-_1306695.jpg
-
 The protesters planned on marching from Bishop's Field, in the Creggan housing estate, to the Guildhall, in the city centre, where they would hold a rally. The march set off at about 2:45pm. There were 10,000–15,000 people on the march, with many joining along its route.[35] Lord Widgery, in his now discredited tribunal,[36][37][38][39] said that there were only 3,000 to 5,000.[40]
 
 The march made its way along William Street but, as it neared the city centre, its path was blocked by British Army barriers. The organisers redirected the march down Rossville Street, intending to hold the rally at Free Derry Corner instead. However, some broke off from the march and began throwing stones at soldiers manning the barriers. The soldiers fired rubber bullets, CS gas and water cannon.[41] Such clashes between soldiers and youths were common, and observers reported that the rioting was not intense.[42]
@@ -52,7 +50,7 @@ Some of those shot were given first aid by civilian volunteers, either on the sc
 
 Casualties
 
-Murder_victims_of_Bloody_Sunday.jpg by the Bogside Artists depicting all who were killed by the British Army on the day]] In all, 28 people were shot by the paratroopers; 13 died on the day and another died of his injuries four months later. The dead were killed in four main areas: the rubble barricade across Rossville Street, the courtyard car park of Rossville Flats (on the north side of the flats), the courtyard car park of Glenfada Park, and the forecourt of Rossville Flats (on the south side of the flats).[58]
+by the Bogside Artists depicting all who were killed by the British Army on the day]] In all, 28 people were shot by the paratroopers; 13 died on the day and another died of his injuries four months later. The dead were killed in four main areas: the rubble barricade across Rossville Street, the courtyard car park of Rossville Flats (on the north side of the flats), the courtyard car park of Glenfada Park, and the forecourt of Rossville Flats (on the south side of the flats).[58]
 
 All of the soldiers responsible insisted that they had shot at, and hit, gunmen or bomb-throwers. No soldier said he missed his target and hit someone else by mistake. The Saville Report concluded that all of those shot were unarmed and that none were posing a serious threat. It also concluded that none of the soldiers fired in response to attacks, or threatened attacks, by gunmen or bomb-throwers. No warnings were given before soldiers opened fire.[59]
 
@@ -70,8 +68,6 @@ The casualties are listed in the order in which they were killed.
 -   GERARD 'GERRY' MCKINNEY, age 35. Shot in the chest at Abbey Park. A soldier, identified as 'Private G', ran through an alleyway from Glenfada Park and shot him from a few yards away. Witnesses said that when he saw the soldier, McKinney stopped and held up his arms, shouting "Don't shoot! Don't shoot!", before being shot. The bullet apparently went through his body and struck Gerard Donaghy behind him.[80]
 -   GERARD 'GERRY' DONAGHY, age 17. Shot in the stomach at Abbey Park while standing behind Gerard McKinney. Both were apparently struck by the same bullet. Bystanders brought Donaghy to a nearby house. A doctor examined him, and his pockets were searched for identification. Two bystanders then attempted to drive Donaghy to hospital, but the car was stopped at an Army checkpoint. They were ordered to leave the car and a soldier drove it to a Regimental Aid Post, where an Army medical officer pronounced Donaghy dead. Shortly after, soldiers found four nail bombs in his pockets. The civilians who searched him, the soldier who drove him to the Army post, and the Army medical officer, all said that they did not see any bombs. This led to claims that soldiers planted the bombs on Donaghy to justify the killings. Donaghy was a member of Fianna Éireann, an IRA-linked republican youth movement.[81] Paddy Ward, a police informer,[82] told the Saville Inquiry he gave two nail bombs to Donaghy several hours before he was shot.[83] The Inquiry concluded that the bombs were probably in Donaghy's pockets when he was shot; but that he was not about to throw a bomb when he was shot, and was not shot because he had bombs. "He was shot while trying to escape from the soldiers".[84]
 
-Patrick_Doherty_Belt.jpg
-
 -   PATRICK DOHERTY, age 31. Shot from behind while attempting to crawl to safety in the forecourt of Rossville Flats. The Saville Inquiry concluded that he was shot by 'Soldier F', who came out of Glenfada Park.[85] Doherty was photographed, moments before and after he died, by French journalist Gilles Peress. Despite testimony from 'Soldier F' that he had shot a man holding a pistol, Widgery acknowledged that the photographs show Doherty was unarmed, and that forensic tests on his hands for gunshot residue proved negative.[86][87]
 -   BERNARD 'BARNEY' MCGUIGAN, age 41. Shot in the back of the head when he walked out from cover to help Patrick Doherty. He had been waving a white handkerchief to indicate his peaceful intentions.[88][89] The Saville Inquiry concluded that he was shot by 'Soldier F'.[90]
 -   JOHN JOHNSTON, age 59. Shot in the leg and left shoulder on William Street 15 minutes before the rest of the shooting started.[91][92] Johnston was not on the march, but on his way to visit a friend in Glenfada Park.[93] He died on 16 June 1972; his death has been attributed to the injuries he received on the day. He was the only one not to die immediately or soon after being shot.[94]
@@ -86,8 +82,6 @@ On 2 February 1972, the day that 12 of those killed were buried, there was a gen
 In the days following Bloody Sunday, Bernadette Devlin, the independent Irish nationalist Member of Parliament for Mid Ulster, expressed anger at what she perceived as British government attempts to stifle accounts being reported about the shootings. Having witnessed the events firsthand, she was infuriated that Speaker Selwyn Lloyd consistently denied her the chance to speak in Parliament about the shootings, although parliamentary convention decreed that any MP witnessing an incident under discussion would be granted an opportunity to speak about it in Parliament.[101][102] Devlin slapped Reginald Maudling, the Secretary of State for the Home Department in the Conservative government, when he made a statement to Parliament that the British Army had fired only in self-defence.[103] She was temporarily suspended from Parliament as a result.[104]
 
 An inquest into the deaths was held in August 1973. The city's coroner, Hubert O'Neill, a retired British Army major, issued a statement at the completion of the inquest.[105] He declared:
-
-Free_Derry_Bloody_Sunday_memorial_march.jpg
 
 Several months after Bloody Sunday, the 1st Battalion Parachute Regiment—again under Lt Col Derek Wilford—were involved in another controversial shooting incident. On 7 September, 1 Para raided houses and the headquarters of the Ulster Defence Association (UDA) in the Protestant Shankill area of Belfast. Two Protestant civilians were shot dead and others wounded by the paratroopers, who claimed they were returning fire at loyalist gunmen. This sparked angry demonstrations by local Protestants, and the UDA declared: "Never has Ulster witnessed such licensed sadists and such blatant liars as the 1st Paras. These gun-happy louts must be removed from the streets". A unit of the British Army's Ulster Defence Regiment refused to carry out duties until 1 Para was withdrawn from the Shankill.[106]
 
@@ -107,7 +101,7 @@ Although there were many IRA men—both Official and Provisional—at the protes
 
 Saville Inquiry
 
-Guildhall,_Derry,_August_2010.JPG, home to the Inquiry]]
+, home to the Inquiry]]
 
 Although British prime minister John Major rejected John Hume's requests for a public inquiry into the killings, his successor, Tony Blair, decided to start one. A second commission of inquiry, chaired by Lord Saville, was established in January 1998 to re-examine Bloody Sunday.[118] The other judges were John Toohey QC, a former Justice of the High Court of Australia who had worked on Aboriginal issues (he replaced New Zealander Sir Edward Somers QC, who retired from the Inquiry in 2000 for personal reasons), and Mr Justice William Hoyt QC, former Chief Justice of New Brunswick and a member of the Canadian Judicial Council. The hearings were concluded in November 2004, and the report was published 15 June 2010.[119] The Saville Inquiry was a more comprehensive study than the Widgery Tribunal, interviewing a wide range of witnesses, including local residents, soldiers, journalists and politicians. Lord Saville declined to comment on the Widgery report and made the point that the Saville Inquiry was a judicial inquiry into Bloody Sunday, not the Widgery Tribunal.[120]
 
@@ -117,7 +111,7 @@ Many observers allege that the Ministry of Defence acted in a way to impede the 
 
 By the time the inquiry had retired to write up its findings, it had interviewed over 900 witnesses, over seven years, making it the biggest investigation in British legal history.[127] The cost of this process has drawn criticism; as of the publication of the Saville Report being .[128]
 
-Bloody_Sunday_Banner_and_Crosses.jpg The inquiry was expected to report in late 2009 but was delayed until after the general election on 6 May 2010.[129]
+The inquiry was expected to report in late 2009 but was delayed until after the general election on 6 May 2010.[129]
 
 The report of the inquiry[130] was published on 15 June 2010. The report concluded, "The firing by soldiers of 1 PARA on Bloody Sunday caused the deaths of 13 people and injury to a similar number, none of whom was posing a threat of causing death or serious injury."[131] Saville stated that British paratroopers "lost control", fatally shooting fleeing civilians and those who tried to aid civilians who had been shot by the British soldiers.[132] The report stated that British soldiers had concocted lies in their attempt to hide their acts.[133] Saville stated that the civilians had not been warned by the British soldiers that they intended to shoot.[134] The report states, contrary to previous assertions, that no stones and no petrol bombs were thrown by civilians before British soldiers shot at them, and that the civilians were not posing any threat.[135]
 
@@ -146,7 +140,7 @@ The Public Prosecution Service for Northern Ireland (PPS) announced in March 201
 
 Impact on Northern Ireland divisions
 
-Bloody_Sunday_memorial.jpg]] Harold Wilson, then the Leader of the Opposition in the House of Commons, reiterated his belief that a united Ireland was the only possible solution to Northern Ireland's Troubles.[152] William Craig, then Stormont Home Affairs Minister, suggested that the west bank of Derry should be ceded to the Republic of Ireland.[153]
+]] Harold Wilson, then the Leader of the Opposition in the House of Commons, reiterated his belief that a united Ireland was the only possible solution to Northern Ireland's Troubles.[152] William Craig, then Stormont Home Affairs Minister, suggested that the west bank of Derry should be ceded to the Republic of Ireland.[153]
 
 When it was deployed on duty in Northern Ireland, the British Army was welcomed by Roman Catholics as a neutral force there to protect them from Protestant mobs, the RUC and the B-Specials.[154] After Bloody Sunday many Catholics turned on the British army, seeing it no longer as their protector but as their enemy. Young nationalists became increasingly attracted to violent republican groups. With the Official IRA and Official Sinn Féin having moved away from mainstream Irish republicanism towards Marxism, the Provisional IRA began to win the support of newly radicalised, disaffected young people.[155]
 
@@ -156,7 +150,7 @@ In his speech to the House of Commons on the Inquiry, British prime minister Dav
 
 A survey conducted by Angus Reid Public Opinion in June 2010 found that 61 per cent of Britons and 70 per cent of Northern Irish agreed with Cameron's apology for the Bloody Sunday events.[159]
 
-Stephen Pollard, solicitor representing several of the soldiers, said on 15 June 2010 that Saville had cherry-picked the evidence and did not have justification for his findings.[160] Parachute_Regiment_Flag_Ballymena.jpg]]
+Stephen Pollard, solicitor representing several of the soldiers, said on 15 June 2010 that Saville had cherry-picked the evidence and did not have justification for his findings.[160] ]]
 
 In 2012 an actively serving British army soldier from Belfast was charged with inciting hatred by a surviving relative of the deceased, due to their online use of social media to promote sectarian slogans about the killings while featuring banners of the Parachute Regiment logo.[161]
 
@@ -165,7 +159,7 @@ In January 2013, shortly before the annual Bloody Sunday remembrance march, two 
 
 Artistic reaction
 
-Bloody_Sunday_Belfast_Murals.jpg Paul McCartney (who is of Irish descent)[166] recorded the first song in response only two days after the incident. The single, entitled "Give Ireland Back to the Irish", expressed his views on the matter. This song was one of few McCartney released with Wings to be banned by the BBC.[167]
+Paul McCartney (who is of Irish descent)[166] recorded the first song in response only two days after the incident. The single, entitled "Give Ireland Back to the Irish", expressed his views on the matter. This song was one of few McCartney released with Wings to be banned by the BBC.[167]
 
 The 1972 John Lennon album _Some Time in New York City_ features a song entitled "Sunday Bloody Sunday", inspired by the incident, as well as the song "The Luck of the Irish", which dealt more with the Irish conflict in general. Lennon, who was of Irish descent, also spoke at a protest in New York in support of the victims and families of Bloody Sunday.[168]
 

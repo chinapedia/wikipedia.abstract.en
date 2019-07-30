@@ -1,4 +1,4 @@
-Low_Temperature_Oxidation_Catalyst.jpeg that utilizes a low-temperature oxidation catalyst to convert carbon monoxide to less toxic carbon dioxide at room temperature. It can also remove formaldehyde from the air.]]
+that utilizes a low-temperature oxidation catalyst to convert carbon monoxide to less toxic carbon dioxide at room temperature. It can also remove formaldehyde from the air.]]
 
 CATALYSIS () is the process of increasing the rate of a chemical reaction by adding a substance known as a CATALYST[1] (), which is not consumed in the catalyzed reaction and can continue to act repeatedly. Because of this, only very small amounts of catalyst are required to alter the reaction rate in principle.[2]
 
@@ -54,7 +54,7 @@ As an example of a detailed mechanism at the microscopic level, in 2008 Danish r
 
 Reaction energetics
 
-CatalysisScheme.png Catalysts work by providing an (alternative) mechanism involving a different transition state and lower activation energy. Consequently, more molecular collisions have the energy needed to reach the transition state. Hence, catalysts can enable reactions that would otherwise be blocked or slowed by a kinetic barrier. The catalyst may increase reaction rate or selectivity, or enable the reaction at lower temperatures. This effect can be illustrated with an energy profile diagram.
+Catalysts work by providing an (alternative) mechanism involving a different transition state and lower activation energy. Consequently, more molecular collisions have the energy needed to reach the transition state. Hence, catalysts can enable reactions that would otherwise be blocked or slowed by a kinetic barrier. The catalyst may increase reaction rate or selectivity, or enable the reaction at lower temperatures. This effect can be illustrated with an energy profile diagram.
 
 In the catalyzed elementary reaction, catalysts do NOT change the extent of a reaction: they have NO effect on the chemical equilibrium of a reaction because the rate of both the forward and the reverse reaction are both affected (see also thermodynamics). The second law of thermodynamics describes why a catalyst does not change the chemical equilibrium of a reaction. Suppose there was such a catalyst that shifted an equilibrium. Introducing the catalyst to the system would result in a reaction to move to the new equilibrium, producing energy. Production of energy is a necessary result since reactions are spontaneous only if Gibbs free energy is produced, and if there is no energy barrier, there is no need for a catalyst. Then, removing the catalyst would also result in reaction, producing energy; i.e. the addition and its reverse process, removal, would both produce energy. Thus, a catalyst that could change the equilibrium would be a perpetual motion machine, a contradiction to the laws of thermodynamics.[13] Thus, catalyst DOES NOT alter the equilibrium constant. (A catalyst can however change the equilibrium concentrations by reacting in a subsequent step. It is then consumed as the reaction proceeds, and thus it is also a reactant. Illustrative is the base-catalysed hydrolysis of esters, where the produced carboxylic acid immediately reacts with the base catalyst and thus the reaction equilibrium is shifted towards hydrolysis.)
 
@@ -77,7 +77,7 @@ Catalysts can be heterogeneous or homogeneous, depending on whether a catalyst e
 
 Heterogeneous catalysts
 
-Zeolite-ZSM-5-vdW.png ZSM-5 is exploited in catalysts used in refineries]] Ceolite_nax.JPG Heterogeneous catalysts act in a different phase than the reactants. Most heterogeneous catalysts are solids that act on substrates in a liquid or gaseous reaction mixture. Diverse mechanisms for reactions on surfaces are known, depending on how the adsorption takes place (Langmuir-Hinshelwood, Eley-Rideal, and Mars-van Krevelen).[14] The total surface area of solid has an important effect on the reaction rate. The smaller the catalyst particle size, the larger the surface area for a given mass of particles.
+ZSM-5 is exploited in catalysts used in refineries]] Heterogeneous catalysts act in a different phase than the reactants. Most heterogeneous catalysts are solids that act on substrates in a liquid or gaseous reaction mixture. Diverse mechanisms for reactions on surfaces are known, depending on how the adsorption takes place (Langmuir-Hinshelwood, Eley-Rideal, and Mars-van Krevelen).[14] The total surface area of solid has an important effect on the reaction rate. The smaller the catalyst particle size, the larger the surface area for a given mass of particles.
 
 A heterogeneous catalyst has ACTIVE SITES, which are the atoms or crystal faces where the reaction actually occurs. Depending on the mechanism, the active site may be either a planar exposed metal surface, a crystal edge with imperfect metal valence or a complicated combination of the two. Thus, not only most of the volume, but also most of the surface of a heterogeneous catalyst may be catalytically inactive. Finding out the nature of the active site requires technically challenging research. Thus, empirical research for finding out new metal combinations for catalysis continues.
 
@@ -128,7 +128,7 @@ A real example is the hydrolysis of an ester such as aspirin to a carboxylic aci
 
 Significance
 
-Verbrennung_eines_Zuckerwürfels.png, Right: burning cube sugar with ash as catalyst]] TiCrPt_micropump3.webm (via catalytic decomposition), forming a micropump.[20]]]
+, Right: burning cube sugar with ash as catalyst]] (via catalytic decomposition), forming a micropump.[20]]]
 
 Estimates are that 90% of all commercially produced chemical products involve catalysts at some stage in the process of their manufacture.[21] In 2005, catalytic processes generated about $900 billion in products worldwide.[22] Catalysis is so pervasive that subareas are not readily classified. Some areas of particular concentration are surveyed below.
 

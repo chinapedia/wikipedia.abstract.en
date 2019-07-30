@@ -15,7 +15,7 @@ In 2001, Berber became a constitutional national language of Algeria, and in 201
 
 Terminology
 
-Tamazightchelha.ogg (Chelha).]] The term _Berber_ has been used in Europe since at least the 17th century and is still used today. It was borrowed from Latin _barbari_. The Latin word is also found in the Arabic designation for these populations, البربر (_al-Barbar_); see Names of the Berber people.
+(Chelha).]] The term _Berber_ has been used in Europe since at least the 17th century and is still used today. It was borrowed from Latin _barbari_. The Latin word is also found in the Arabic designation for these populations, البربر (_al-Barbar_); see Names of the Berber people.
 
 Etymologically, the Berber root _M-Z-Ɣ_ (_Mazigh_) (singular noun: _Amazigh_, feminine: _Tamazight_) means "free man", "noble man", or "defender". The feminine _Tamazight_ traditionally referred specifically to the Riffian and Central Atlas Tamazight languages. Many Berber linguists prefer to consider the term _Tamazight_ as a pure Berber word to be used only in Berber text while using the European word "Berber/_Berbero_/_Berbère_" in European texts to follow the traditions of European writings about the Berbers. European languages distinguish between the words "Berber" and "barbarian", while Arabic has the same word _al-Barbari_ for both meanings.
 
@@ -35,7 +35,7 @@ Roger Blench has suggested that Proto-Berber speakers had spread from the Nile R
 
 Orthography
 
-Prehistory-draa16.jpg inscriptions in Zagora, Morocco]] Various orthographies have been used to transcribe the Berber languages. In antiquity, the Libyco-Berber script (Tifinagh) was utilised to write Berber. Early uses of the script have been found on rock art and in various sepulchres. Among these are the 1,500 year old monumental tomb of the Tuareg matriarch Tin Hinan, where vestiges of a Tifinagh inscription have been found on one of its walls.[20]
+inscriptions in Zagora, Morocco]] Various orthographies have been used to transcribe the Berber languages. In antiquity, the Libyco-Berber script (Tifinagh) was utilised to write Berber. Early uses of the script have been found on rock art and in various sepulchres. Among these are the 1,500 year old monumental tomb of the Tuareg matriarch Tin Hinan, where vestiges of a Tifinagh inscription have been found on one of its walls.[20]
 
 Following the spread of Islam, some Berber scholars also utilised the Arabic script.[21] There are now three writing systems in use for Berber languages: Tifinagh, the Arabic script, and the Berber Latin alphabet.[22]
 
@@ -96,8 +96,6 @@ The exact population of Berber speakers is hard to ascertain, since most North A
 
     _Few census figures are available; all countries (Algeria and Morocco included) do not count Berber languages. The 1972 Niger census reported Tuareg, with other languages, at 127,000 speakers. Population shifts in location and number, effects of urbanization and education in other languages, etc., make estimates difficult. In 1952, André Basset (LLB.4) estimated the number of Berberophones at 5,500,000. Between 1968 and 1978 estimates ranged from eight to thirteen million (as reported by Galand, LELB 56, pp. 107, 123–25); Voegelin and Voegelin (1977, p. 297) call eight million a conservative estimate. In 2006, Salem Chaker estimated that the Berberophone populations of Kabylie and the three Moroccan groups numbered more than one million each; and that in Algeria, 9,650,000, or one out of five Algerians, speak a Berber language (Chaker 1984, pp. 8–9)._[31]
 
-Percent_of_Berber_speakers_in_Morocco_by_census_2004.png Berber_dialects_in_Morocco.PNG
-
 -   MOROCCO: In 1952, André Basset ("La langue berbère", _Handbook of African Languages_, Part I, Oxford) estimated that a "small majority" of Morocco's population spoke Berber. The 1960 census claimed that 34 percent of Moroccans spoke Berber, including bi-, tri- and quadrilingual people. In 2000, Karl Prasse cited "more than a third" in an interview conducted by Brahim Karada at Tawalt.com. A 2007 estimate put the number of Amazigh speakers in Morocco at 7.5 million.[32] According to Ethnologue (by deduction from its Moroccan Arabic figures), the Berber-speaking population should be estimated at 35 percent or around 10.5 million speakers.[33] However, the figures it gives for individual languages only add up to 7.5 million, divided into three languages:
     -   Riffian: 3 million[34]
     -   Shilha: 8 million[35]
@@ -111,9 +109,9 @@ Moroccan linguist Mohamed Chafik claims that 80 percent of Moroccans are Berbers
 
 The division of Moroccan Berber languages into three groups, as used by Ethnologue, is common in linguistic publications, but is significantly complicated by the presence of local differences: Shilha is subdivided into Shilha of the Draa River valley, Tasusit (the language of the Souss) and several other mountain languages. Moreover, linguistic boundaries are blurred, such that certain languages cannot accurately be described as either Central Morocco Tamazight (spoken in the central and eastern Atlas area) or Shilha.
 
--   ALGERIA: In 1906, the total population speaking Berber languages in Algeria (excluding the thinly populated Sahara region) was estimated at 1,305,730 out of 4,447,149, i.e. 29 percent. Aires_linguistiques_du_nord-est_algérien.svg and Shawiya languages in the central-eastern part of Algeria]](Doutté & Gautier, _Enquête sur la dispersion de la langue berbère en Algérie, faite par l'ordre de M. le Gouverneur Général_, Alger 1913.) The 1911 census, however, found 1,084,702 speakers out of 4,740,526, i.e. 23 percent; Doutté & Gautier suggest that this was the result of a serious undercounting of Shawiya in areas of widespread bilingualism. A trend was noted for Berber groups surrounded by Arabic (as in the city of Blida) to adopt Arabic, while Arabic speakers surrounded by Berber (as in Sikh ou Meddour near the city of Tizi Ouzou) tended to adopt Berber. In 1952, André Basset estimated that about a third of Algeria's population spoke Berber. According to historian Charles-Robert Ageron in 1886, Algeria had around 1.2 million Berber speakers and 1.1 million Arab speakers. The Algerian census of 1966 found 2,297,997 out of 12,096,347 Algerians, or 19 percent, to speak "Berber". In 1980, Salem Chaker estimated that "in Algeria, 3,650,000, or one out of five Algerians, speak a Berber language" (Chaker 1984, pp. 8–9). According to Ethnologue,[39] more recent estimates include 14 percent (corresponding to the total figures it gives for each Berber language added together, 4 million) and (by deduction from its Algerian Arabic figures) 29 percent (Hunter 1996). Most of these are accounted for by three languages (percentages based on historical population data from appropriate dates):[40]
+-   ALGERIA: In 1906, the total population speaking Berber languages in Algeria (excluding the thinly populated Sahara region) was estimated at 1,305,730 out of 4,447,149, i.e. 29 percent. and Shawiya languages in the central-eastern part of Algeria]](Doutté & Gautier, _Enquête sur la dispersion de la langue berbère en Algérie, faite par l'ordre de M. le Gouverneur Général_, Alger 1913.) The 1911 census, however, found 1,084,702 speakers out of 4,740,526, i.e. 23 percent; Doutté & Gautier suggest that this was the result of a serious undercounting of Shawiya in areas of widespread bilingualism. A trend was noted for Berber groups surrounded by Arabic (as in the city of Blida) to adopt Arabic, while Arabic speakers surrounded by Berber (as in Sikh ou Meddour near the city of Tizi Ouzou) tended to adopt Berber. In 1952, André Basset estimated that about a third of Algeria's population spoke Berber. According to historian Charles-Robert Ageron in 1886, Algeria had around 1.2 million Berber speakers and 1.1 million Arab speakers. The Algerian census of 1966 found 2,297,997 out of 12,096,347 Algerians, or 19 percent, to speak "Berber". In 1980, Salem Chaker estimated that "in Algeria, 3,650,000, or one out of five Algerians, speak a Berber language" (Chaker 1984, pp. 8–9). According to Ethnologue,[39] more recent estimates include 14 percent (corresponding to the total figures it gives for each Berber language added together, 4 million) and (by deduction from its Algerian Arabic figures) 29 percent (Hunter 1996). Most of these are accounted for by three languages (percentages based on historical population data from appropriate dates):[40]
 
-Berbères_en_Algérie_occidentale.svg in the central-western part of Algeria]]
+in the central-western part of Algeria]]
 
 :* Kabyle: 2,540,000 or 9 percent (Ethnologue, 1995); 6,000,000 or 20 percent (Ethnologue, 1998). Mainly in Algiers, Béjaïa, Tizi Ouzou, Bouïra, Sétif and Boumerdès.
 
@@ -158,7 +156,7 @@ Thus, the total number of speakers of Berber languages in the Maghreb proper app
 
 Grammar
 
-Qanun_At_Ali_u_Herzun.jpg manuscript from the 18th century]]
+manuscript from the 18th century]]
 
 Nouns
 
@@ -255,7 +253,7 @@ Berber pronouns show gender distinction in the second- and third-persons, but in
 
 Subclassification
 
-Berber-map.png:Northern Berber: Tuareg:Eastern Berber: ]] A listing of the other Berber languages is complicated by their closeness; there is little distinction between language and dialect. The primary difficulty of subclassification, however, lies in the eastern Berber languages, where there is little agreement. Otherwise there is consensus on the outlines of the family:
+:Northern Berber: Tuareg:Eastern Berber: ]] A listing of the other Berber languages is complicated by their closeness; there is little distinction between language and dialect. The primary difficulty of subclassification, however, lies in the eastern Berber languages, where there is little agreement. Otherwise there is consensus on the outlines of the family:
 
 -   Eastern Berber (scope debated)
 -   Northern Berber

@@ -1,4 +1,4 @@
-aya-cooking.jpg region of Peru]]
+region of Peru]]
 
 AYAHUASCA (, ) or AYAGUASCA[1] (in Hispanicized spellings) from Quechua AYAWASKA[2] (_aya_: soul, _waska:_ vine), or YAGÉ (), is an entheogenic brew made out of _Banisteriopsis caapi_ vine and other ingredients.[3] The brew is used as a traditional spiritual medicine in ceremonies among the indigenous peoples of the Amazon basin and is known by a number of different names (see below).[4]
 
@@ -7,7 +7,7 @@ _B. caapi_ contains several alkaloids that act as monoamine oxidase inhibitors (
 
 Nomenclature
 
-Ayahuasca_prep.JPG Ayahuasca is known by many names throughout Northern South America and Brazil.
+Ayahuasca is known by many names throughout Northern South America and Brazil.
 
 _Ayahuasca_ is the hispanicized spelling of a word in the Quechua languages, which are spoken in the Andean states of Ecuador, Bolivia, Peru, and Colombia. Speakers of Quechua languages or of the Aymara language may prefer the spelling _ayawaska_. This word refers both to the liana _Banisteriopsis caapi_, and to the brew prepared from it. In the Quechua languages, _aya_ means "spirit, soul", "corpse, dead body", and _waska_ means "rope" and "woody vine", "liana".[6] The word _ayahuasca_ has been variously translated as "liana of the soul", "liana of the dead", and "spirit liana".[7]
 
@@ -40,8 +40,6 @@ The actual preparation of the brew takes several hours, often taking place over 
 
 Traditional usage
 
-Ayahuasca_preparation.JPG
-
 Ayahuasca is used largely as a treasured sacrament. People who work with ayahuasca in non-traditional contexts often align themselves with the philosophies and cosmologies associated with ayahuasca shamanism, as practiced among indigenous peoples like the Urarina of the Peruvian Amazon.[27] While non-native users know of the spiritual applications of ayahuasca, a less well-known traditional usage focuses on the medicinal properties of ayahuasca. When used for its medicinal purposes, ayahuasca affects the human consciousness for less than six hours, beginning half an hour after consumption and peaking after two hours. In some cases, individuals experience significant psychological stress during the experience. Ayahuasca also has cardiovascular effects, moderately increasing heart rate and diastolic blood pressure. It is for this reason that extreme caution should be taken with those who may be at risk of heart disease.[28]
 
 The psychedelic effects of ayahuasca include visual and auditory stimulation, the mixing of sensory modalities, and psychological introspection that may lead to great elation, fear, or illumination. Its purgative properties are important (known as _la purga_ or "the purge"). The intense vomiting and occasional diarrhea it induces can clear the body of worms and other tropical parasites,[29] and harmala alkaloids themselves have been shown to be anthelmintic.[30] Thus, this action is twofold; a direct action on the parasites by these harmala alkaloids (particularly harmine in ayahuasca) works to kill the parasites, and parasites are expelled through the increased intestinal motility caused by these alkaloids.
@@ -58,7 +56,7 @@ The shamans lead the ceremonial consumption of the ayahuasca beverage,[35] in a 
 
 Traditional brew
 
-aya-preparation.jpg region of Ecuador]] Ayahuasca_and_chacruna_cocinando.jpg Traditional ayahuasca brews are usually made with _Banisteriopsis caapi_ as an MAOI, while dimethyltryptamine sources and other admixtures vary from region to region. There are several varieties of caapi, often known as different "colors", with varying effects, potencies, and uses.
+region of Ecuador]] Traditional ayahuasca brews are usually made with _Banisteriopsis caapi_ as an MAOI, while dimethyltryptamine sources and other admixtures vary from region to region. There are several varieties of caapi, often known as different "colors", with varying effects, potencies, and uses.
 
 DMT admixtures:
 
@@ -94,7 +92,7 @@ In the late 20th century, the practice of ayahuasca drinking began spreading to 
 
 Ayahuasca analogues
 
-Syrian_Rue_Seeds.jpg seeds can be used to provide an MAOI]] In modern Europe and North America, ayahuasca analogs are often prepared using non-traditional plants which contain the same alkaloids. For example, seeds of the Syrian rue plant can be used as a substitute for the ayahuasca vine, and the DMT-rich _Mimosa hostilis_ is used in place of _chacruna_. Australia has several indigenous plants which are popular among modern ayahuasqueros there, such as various DMT-rich species of _Acacia_.
+seeds can be used to provide an MAOI]] In modern Europe and North America, ayahuasca analogs are often prepared using non-traditional plants which contain the same alkaloids. For example, seeds of the Syrian rue plant can be used as a substitute for the ayahuasca vine, and the DMT-rich _Mimosa hostilis_ is used in place of _chacruna_. Australia has several indigenous plants which are popular among modern ayahuasqueros there, such as various DMT-rich species of _Acacia_.
 
 The name "ayahuasca" specifically refers to a botanical decoction that contains _Banisteriopsis caapi_. A synthetic version, known as pharmahuasca, is a combination of an appropriate MAOI and typically DMT. In this usage, the DMT is generally considered the main psychoactive active ingredient, while the MAOI merely preserves the psychoactivity of orally ingested DMT, which would otherwise be destroyed in the gut before it could be absorbed in the body. In contrast, traditionally among Amazonian tribes, the _B. Caapi_ vine is considered to be the "spirit" of ayahuasca, the gatekeeper, and guide to the otherworldly realms.[50]
 
@@ -115,7 +113,7 @@ MAOI admixtures:
 
 Chemistry and pharmacology
 
-Harmine_structure.svg]] Harmaline_structure.svg]] Tetrahydroharmine_structure.svg]] Harmala alkaloids are MAO-inhibiting _beta_-carbolines. The three most studied harmala alkaloids in the _B. caapi_ vine are harmine, harmaline and tetrahydroharmine. Harmine and harmaline are selective and reversible inhibitors of monoamine oxidase A (MAO-A), while tetrahydroharmine is a weak serotonin reuptake inhibitor (SRI).[52]
+]] ]] ]] Harmala alkaloids are MAO-inhibiting _beta_-carbolines. The three most studied harmala alkaloids in the _B. caapi_ vine are harmine, harmaline and tetrahydroharmine. Harmine and harmaline are selective and reversible inhibitors of monoamine oxidase A (MAO-A), while tetrahydroharmine is a weak serotonin reuptake inhibitor (SRI).[52]
 
 This inhibition of MAO-A allows DMT to diffuse unmetabolized past the membranes in the stomach and small intestine, and eventually cross the blood–brain barrier (which, by itself, requires no MAO-A inhibition) to activate receptor sites in the brain. Without RIMAs or the non-selective, nonreversible monoamine oxidase inhibition by drugs like phenelzine and tranylcypromine, DMT would be oxidized (and thus rendered biologically inactive) by monoamine oxidase enzymes in the digestive tract.[53]
 

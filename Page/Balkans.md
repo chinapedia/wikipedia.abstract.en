@@ -53,7 +53,7 @@ Definitions and boundaries
 
 Balkan Peninsula
 
-Balkan_topo_en.jpg–Vipava–Krka–Sava–Danube border.]] Balkan_peninsula_line.jpg
+–Vipava–Krka–Sava–Danube border.]]
 
 The Balkan Peninsula is bounded by the Adriatic Sea to the west, the Mediterranean Sea (including the Ionian and Aegean seas) and the Marmara Sea to the south and the Black Sea to the east. Its northern boundary is often given as the Danube, Sava and Kupa Rivers.[43] The Balkan Peninsula has a combined area of about (slightly smaller than Spain). It is more or less identical to the region known as Southeastern Europe.[44][45][46]
 
@@ -103,7 +103,7 @@ The term Southeastern Europe is also used for the region, with various definitio
 
 Western Balkans
 
-Western_Balkans.PNG, Bosnia and Herzegovina, Croatia, Montenegro, North Macedonia and Serbia. The partially recognized Kosovo is also demarcated. Croatia joined the EU in 2013.]]
+, Bosnia and Herzegovina, Croatia, Montenegro, North Macedonia and Serbia. The partially recognized Kosovo is also demarcated. Croatia joined the EU in 2013.]]
 
 _Western Balkans_ is a political neologism coined to refer to Albania and the territory of the former Yugoslavia, except Slovenia, since the early 1990s. The region of the _Western Balkan_, a coinage exclusively used in Pan-European parlance, roughly corresponds to the Dinaric Alps territory.
 
@@ -119,7 +119,7 @@ Croatian geographers and academics are highly critical of inclusion of Croatia w
 
 Nature and natural resources
 
-Todorini_kukli_north.jpg. Its highest peak is Botev at a height of 2,376 m.]] Marichin_cirkus_IMG_1452.jpg, the highest mountain in the Balkans which reaches 2925 m]] Голубачка_тврђава.jpg in Serbia, guarding the Danubian frontier of the Balkans]]
+. Its highest peak is Botev at a height of 2,376 m.]] , the highest mountain in the Balkans which reaches 2925 m]] in Serbia, guarding the Danubian frontier of the Balkans]]
 
 Most of the area is covered by mountain ranges running from the northwest to southeast. The main ranges are the Balkan mountains (Stara Planina in Bulgarian language), running from the Black Sea coast in Bulgaria to the border with Serbia, the Rilo-Rhodope massif in southern Bulgaria, northern Greece and southeastern North Macedonia, the Dinaric Alps in Bosnia and Herzegovina, Croatia and Montenegro, the Šar massif which spreads from Albania to North Macedonia, and the Pindus range, spanning from southern Albania into central Greece and the Albanian Alps. The highest mountain of the region is Rila in Bulgaria, with Musala at 2925 m, Mount Olympus in Greece, being second at 2917 m and Vihren in Bulgaria being the third at 2914 m. The karst field or polje is a common feature of the landscape.
 
@@ -136,7 +136,7 @@ Metal ores are more usual than other raw materials. Iron ore is rare, but in som
 
 History and geopolitical significance
 
-Bgiusca_Jirecek_Line.jpg]] Appolonia_Albania.jpg ruins near Fier, Albania.]] Gamzigrad_-_Felix_Romuliana_(by_Pudelek)_7.JPG, UNESCO, Serbia.]]
+]] ruins near Fier, Albania.]] , UNESCO, Serbia.]]
 
 Antiquity
 
@@ -150,17 +150,17 @@ Early modern period
 
 By the end of the 16th-century, the Ottoman Empire had become the controlling force in the region after expanding from Anatolia through Thrace to the Balkans. Many people in the Balkans place their greatest folk heroes in the era of either the onslaught or the retreat of the Ottoman Empire.[86] As examples, for Greeks, Constantine XI Palaiologos and Kolokotronis; and for Serbs, Miloš Obilić and Tzar Lazar; for Montenegrins, Đurađ I Balšić and Ivan Crnojević; for Albanians, George Kastrioti Skanderbeg; for ethnic Macedonians, Nikola Karev[87] and Goce Delčev;[88] for Bulgarians, Vasil Levski, Georgi Sava Rakovski and Hristo Botev and for Croats, Nikola Šubić Zrinjski.
 
-Balkans_Animation_1800-2008.gif Hagia_Sophia_81.JPG, an Eastern Orthodox Christian cathedral built in the 6th-century in Constantinople (present-day Istanbul, Turkey), later an imperial mosque, and now a museum.]] In the past several centuries, because of the frequent Ottoman wars in Europe fought in and around the Balkans and the comparative Ottoman isolation from the mainstream of economic advance (reflecting the shift of Europe's commercial and political centre of gravity towards the Atlantic), the Balkans has been the least developed part of Europe. According to Halil İnalcık, "The population of the Balkans, according to one estimate, fell from a high of 8 million in the late 16th-century to only 3 million by the mid-eighteenth. This estimate is based on Ottoman documentary evidence."[89]
+, an Eastern Orthodox Christian cathedral built in the 6th-century in Constantinople (present-day Istanbul, Turkey), later an imperial mosque, and now a museum.]] In the past several centuries, because of the frequent Ottoman wars in Europe fought in and around the Balkans and the comparative Ottoman isolation from the mainstream of economic advance (reflecting the shift of Europe's commercial and political centre of gravity towards the Atlantic), the Balkans has been the least developed part of Europe. According to Halil İnalcık, "The population of the Balkans, according to one estimate, fell from a high of 8 million in the late 16th-century to only 3 million by the mid-eighteenth. This estimate is based on Ottoman documentary evidence."[89]
 
 Most of the Balkan nation-states emerged during the 19th and early 20th centuries as they gained independence from the Ottoman Empire or the Austro-Hungarian empire: Greece in 1821, Serbia, Montenegro in 1878, Romania in 1881, Bulgaria in 1908 and Albania in 1912.
 
 Recent history
 
-Tsarevets.JPG, a medieval stronghold in the former capital of the Bulgarian Empire — Veliko Tarnovo.]] Ohrid_Lake.jpg and the Ohrid Lake in North Macedonia. The lake and town were declared a World Heritage Site by UNESCO in 1980.]]
+, a medieval stronghold in the former capital of the Bulgarian Empire — Veliko Tarnovo.]] and the Ohrid Lake in North Macedonia. The lake and town were declared a World Heritage Site by UNESCO in 1980.]]
 
 World Wars
 
-Austrians_executing_Serbs_1917.JPG lost about 850,000 people during the war, a quarter of its pre-war population.[90]]] In 1912–1913 the First Balkan War broke out when the nation-states of Bulgaria, Serbia, Greece and Montenegro united in an alliance against the Ottoman Empire. As a result of the war, almost all remaining European territories of the Ottoman Empire were captured and partitioned among the allies. Ensuing events also led to the creation of an independent Albanian state. Bulgaria insisted on its status quo territorial integrity, divided and shared by the Great Powers next to the Russo-Turkish War (1877–78) in other boundaries and on the pre-war Bulgarian-Serbian agreement. Bulgaria was provoked by the backstage deals between its former allies, Serbia and Greece, on the allocation of the spoils at the end of the First Balkan War. At the time, Bulgaria was fighting at the main Thracian Front. Bulgaria marks the beginning of Second Balkan War when it attacked them. The Serbs and the Greeks repulsed single attacks, but when the Greek army invaded Bulgaria together with an unprovoked Romanian intervention in the back, Bulgaria collapsed. The Ottoman Empire used the opportunity to recapture Eastern Thrace, establishing its new western borders that still stand today as part of modern Turkey.
+lost about 850,000 people during the war, a quarter of its pre-war population.[90]]] In 1912–1913 the First Balkan War broke out when the nation-states of Bulgaria, Serbia, Greece and Montenegro united in an alliance against the Ottoman Empire. As a result of the war, almost all remaining European territories of the Ottoman Empire were captured and partitioned among the allies. Ensuing events also led to the creation of an independent Albanian state. Bulgaria insisted on its status quo territorial integrity, divided and shared by the Great Powers next to the Russo-Turkish War (1877–78) in other boundaries and on the pre-war Bulgarian-Serbian agreement. Bulgaria was provoked by the backstage deals between its former allies, Serbia and Greece, on the allocation of the spoils at the end of the First Balkan War. At the time, Bulgaria was fighting at the main Thracian Front. Bulgaria marks the beginning of Second Balkan War when it attacked them. The Serbs and the Greeks repulsed single attacks, but when the Greek army invaded Bulgaria together with an unprovoked Romanian intervention in the back, Bulgaria collapsed. The Ottoman Empire used the opportunity to recapture Eastern Thrace, establishing its new western borders that still stand today as part of modern Turkey.
 
 The First World War was sparked in the Balkans in 1914 when members of Young Bosnia, a revolutionary organization with predominantly Serb and pro-Yugoslav members, assassinated the Austro-Hungarian heir Archduke Franz Ferdinand of Austria in Bosnia and Herzegovina's capital, Sarajevo. That caused a war between Austria-Hungary and Serbia, which—through the existing chains of alliances—led to the First World War. The Ottoman Empire soon joined the Central Powers becoming one of the three empires participating in that alliance. The next year Bulgaria joined the Central Powers attacking Serbia, which was successfully fighting Austro-Hungary to the north for a year. That led to Serbia's defeat and the intervention of the Entente in the Balkans which sent an expeditionary force to establish a new front, the third one of that war, which soon also became static. The participation of Greece in the war three years later, in 1918, on the part of the Entente finally altered the balance between the opponents leading to the collapse of the common German-Bulgarian front there, which caused the exit of Bulgaria from the war, and in turn the collapse of the Austro-Hungarian Empire, ending the First World War.[91]
 
@@ -199,7 +199,7 @@ All other countries have expressed a desire to join the EU or NATO at some point
 
 Politics and economy
 
-Oia,_Santorini_HDR_sunset.jpg in Greece. Tourism is an important part of the Greek economy.]] Dubrovnik_june_2011..JPG in Croatia, UNESCO's World Heritage since 1979]] Drvengrad.jpg (also known as Mećavnik or Küstendorf), an ethno village in Serbia and home to the annual Kusturica film festival]]
+in Greece. Tourism is an important part of the Greek economy.]] in Croatia, UNESCO's World Heritage since 1979]] (also known as Mećavnik or Küstendorf), an ethno village in Serbia and home to the annual Kusturica film festival]]
 
 Currently all of the states are republics, but until World War II all countries were monarchies. Most of the republics are parliamentary, excluding Romania and Bosnia which are semi-presidential. All the states have open market economies, most of which are in the upper-middle income range ($4,000 – $12,000 p.c.), except Croatia, Romania, Greece and Slovenia that have high income economies (over $12,000 p.c.), and are classified with very high HDI, along with Bulgaria, in contrast to the remaining states, which are classified with high HDI. The states from the former Eastern Bloc that formerly had planned economy system and Turkey mark gradual economic growth each year, only the economy of Greece drops for 2012 and meanwhile it was expected to grow in 2013. The Gross domestic product (Purchasing power parity) per capita is highest in Slovenia (over $36,000), followed by Greece (over $30,000), Croatia, Bulgaria and Romania (over $23,000), Turkey, Montenegro, Serbia, North Macedonia ($10,000 – $15,000) and Bosnia, Albania and Kosovo (below $10,000).[102] The Gini coefficient, which indicates the level of difference by monetary welfare of the layers, is on the second level at the highest monetary equality in Albania, Bulgaria and Serbia, on the third level in Greece, Montenegro and Romania, on the fourth level in North Macedonia, on the fifth level in Turkey, and the most unequal by Gini coefficient is Bosnia at the eighth level which is the penultimate level and one of the highest in the world. The unemployment is lowest in Romania and Bulgaria (below 6%), followed by Turkey, Albania (10 – 15%), Greece (15 – 20%), Montenegro, Serbia, Bosnia (20 – 30%), North Macedonia (over 30%) and Kosovo (over 40%).
 
@@ -218,7 +218,7 @@ Currently all of the states are republics, but until World War II all countries 
     -   Territories using the Euro without authorization by the EU: Kosovo and Montenegro
     -   Territories using national currencies and are candidates for the Eurozone: Bulgaria (lev), Croatia (kuna), Romania (leu)
     -   Territories using national currencies: Albania (lek), Bosnia and Herzegovina (convertible mark), North Macedonia (denar), Serbia (dinar) and Turkey (lira).
--   On military criteria the divisions are as follows:Camp_bondsteel_kosovo.jpg, the main base of the United States Army under KFOR command in Kosovo]]
+-   On military criteria the divisions are as follows:, the main base of the United States Army under KFOR command in Kosovo]]
     -   Member territories of NATO: Albania, Bulgaria, Croatia, Greece, Montenegro, Romania, Slovenia and Turkey
     -   Member territories of the Partnership for Peace with Individual Partnership Action Plan and Membership Action Plan for joining NATO: Bosnia and Herzegovina and North Macedonia
     -   Member territories of the Partnership for Peace: Serbia
@@ -229,10 +229,10 @@ Currently all of the states are republics, but until World War II all countries 
 
 Regional organizations
 
-  ------------------------------------------------------------------------ ----------------------------
-  Southeast_European_Cooperation_Process_Map.svg (SEECP) member states]]   SP_for_SEE_members.png ]]
-  SECI_members.png (SECI) ]]                                               BSEC_members.png (BSEC) ]]
-  ------------------------------------------------------------------------ ----------------------------
+  ------------------------- -----------
+  (SEECP) member states]]   ]]
+  (SECI) ]]                 (BSEC) ]]
+  ------------------------- -----------
 
 See also the Black Sea regional organizations
 
@@ -276,9 +276,9 @@ The region is inhabited by Albanians, Aromanians, Bulgarians, Bosniaks, Croats, 
 
 Religion
 
-AtlBalkrelig.jpg The region is a meeting point of Orthodox Christianity, Islam and Roman Catholic Christianity.[108] Eastern Orthodoxy is the majority religion in both the Balkan peninsula and the Balkan region. A variety of different traditions of each faith are practiced, with each of the Eastern Orthodox countries having its own national church. A part of the population in the Balkans defines itself as irreligious.
+The region is a meeting point of Orthodox Christianity, Islam and Roman Catholic Christianity.[108] Eastern Orthodoxy is the majority religion in both the Balkan peninsula and the Balkan region. A variety of different traditions of each faith are practiced, with each of the Eastern Orthodox countries having its own national church. A part of the population in the Balkans defines itself as irreligious.
 
-Albania_confessional_map_with_regions_circa_1900.PNG]]
+]]
 
   Territories in which the principal religion is Eastern Orthodoxy (with national churches in parentheses)[109]   Religious minorities of these territories[110]
   --------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------
@@ -301,8 +301,6 @@ Albania_confessional_map_with_regions_circa_1900.PNG]]
 The Jewish communities of the Balkans were some of the oldest in Europe and date back to ancient times. These communities were Sephardi Jews, except in Transylvania, Croatia and Slovenia, where the Jewish communities were mainly Ashkenazi Jews. In Bosnia and Herzegovina, the small and close-knit Jewish community is 90% Sephardic, and Ladino is still spoken among the elderly. The Sephardi Jewish cemetery in Sarajevo has tombstones of a unique shape and inscribed in ancient Ladino.[115] Sephardi Jews used to have a large presence in the city of Thessaloniki, and by 1900, some 80,000, or more than half of the population, were Jews.[116] The Jewish communities in the Balkans suffered immensely during World War II, and the vast majority were killed during the Holocaust. An exception were the Bulgarian Jews, most of whom were saved by Boris III of Bulgaria, who resisted Adolf Hitler, opposing their deportation to Nazi concentration camps. Almost all of the few survivors have emigrated to the (then) newly founded state of Israel and elsewhere. Almost no Balkan country today has a significant Jewish minority.
 
 Languages
-
-Ernst-Ravenstein-Balkans-Ethnic-Map-1880.jpg
 
 The Balkan region today is a very diverse ethno-linguistic region, being home to multiple Slavic and Romance languages, as well as Albanian, Greek, Turkish, and others. Romani is spoken by a large portion of the Romanis living throughout the Balkan countries. Throughout history many other ethnic groups with their own languages lived in the area, among them Thracians, Illyrians, Romans, Celts and various Germanic tribes. All of the aforementioned languages from the present and from the past belong to the wider Indo-European language family, with the exception of the Turkic languages (e.g., Turkish and Gagauz).
 

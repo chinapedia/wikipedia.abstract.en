@@ -1,4 +1,4 @@
-Baptism-of-Christ-xx-Francesco-Alban.JPG's _The Baptism of Christ,_ when Jesus became one with God according to Adoptionism ]]
+'s _The Baptism of Christ,_ when Jesus became one with God according to Adoptionism ]]
 
 ADOPTIONISM, also called dynamic monarchianism, is a Christian nontrinitarian theological doctrine which holds that Jesus was adopted as the Son of God at his baptism, his resurrection, or his ascension.
 

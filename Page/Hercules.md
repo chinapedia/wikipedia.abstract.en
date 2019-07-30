@@ -5,7 +5,7 @@ The Romans adapted the Greek hero's iconography and myths for their literature a
 
 Labours
 
-Antonio_del_Pollaiolo_-_Ercole_e_l'Idra_e_Ercole_e_Anteo_-_Google_Art_Project.jpg'' (ca. 1475) by Antonio del Pollaiuolo; the hero wears his characteristic lionskin and wields a club]] Heracles_and_the_Erymantian_boar.jpg, by J.M. Félix Magdalena (b. 1941)]] Herakles_strangling_snakes_Louvre_G192.jpg) strangling the snakes sent by the goddess Hera (a woman protects Iphikles on the right); detail from an Attic red-figured _stamnos_ from Vulci, Etruria, Italy, ca. 480–470 BC]]
+'' (ca. 1475) by Antonio del Pollaiuolo; the hero wears his characteristic lionskin and wields a club]] , by J.M. Félix Magdalena (b. 1941)]] ) strangling the snakes sent by the goddess Hera (a woman protects Iphikles on the right); detail from an Attic red-figured _stamnos_ from Vulci, Etruria, Italy, ca. 480–470 BC]]
 
 Hercules is known for his many adventures, which took him to the far reaches of the Greco-Roman world. One cycle of these adventures became canonical as the "Twelve Labours", but the list has variations. One traditional order of the labours is found in the _Bibliotheca_ as follows:[2]
 
@@ -31,7 +31,7 @@ File:Hercules killing Cacus at his Cave.jpg|Killing a fire-breathing Cacus (Seba
 
 Roman era
 
-Herakles_snake_Musei_Capitolini_MC247.jpg sent to kill him in his cradle (Roman marble, 2nd century CE, in the Capitoline Museums of Rome, Italy).]]
+sent to kill him in his cradle (Roman marble, 2nd century CE, in the Capitoline Museums of Rome, Italy).]]
 
 The Latin name _Hercules_ was borrowed through Etruscan, where it is represented variously as Heracle, Hercle, and other forms. Hercules was a favorite subject for Etruscan art, and appears often on bronze mirrors. The Etruscan form _Herceler_ derives from the Greek _Heracles_ via syncope. A mild oath invoking Hercules (_Hercule!_ or _Mehercle!_) was a common interjection in Classical Latin.[3]
 
@@ -39,7 +39,7 @@ Hercules had a number of myths that were distinctly Roman. One of these is Hercu
 
 Germanic association
 
-Hall_of_the_Augustals.jpg depicting Heracles and Achelous from Greco-Roman mythology, 1st century AD.]]
+depicting Heracles and Achelous from Greco-Roman mythology, 1st century AD.]]
 
 Tacitus records a special affinity of the Germanic peoples for Hercules. In chapter 3 of his _Germania_, Tacitus states:
 
@@ -52,7 +52,7 @@ In the 5th to 7th centuries, during the Migration Period, the amulet is theorize
 
 Medieval mythography
 
-Histoires_de_Troyes_-_Nemeian_Lion.jpg in the 15th-century _Histoires de Troyes_]]
+in the 15th-century _Histoires de Troyes_]]
 
 After the Roman Empire became Christianized, mythological narratives were often reinterpreted as allegory, influenced by the philosophy of late antiquity. In the 4th century, Servius had described Hercules' return from the underworld as representing his ability to overcome earthly desires and vices, or the earth itself as a consumer of bodies.[6] In medieval mythography, Hercules was one of the heroes seen as a strong role model who demonstrated both valor and wisdom, while the monsters he battles were regarded as moral obstacles.[7] One glossator noted that when Hercules became a constellation, he showed that strength was necessary to gain entrance to Heaven.[8]
 
@@ -61,7 +61,7 @@ Medieval mythography was written almost entirely in Latin, and original Greek te
 
 Renaissance mythography
 
-Henry_IV_en_Herculeus_terrassant_l_Hydre_de_Lerne_cad_La_ligue_Catholique_Atelier_Toussaint_Dubreuil_circa_1600.jpg depicted as Hercules vanquishing the Lernaean Hydra (i.e. the Catholic League), by Toussaint Dubreuil, circa 1600]]
+depicted as Hercules vanquishing the Lernaean Hydra (i.e. the Catholic League), by Toussaint Dubreuil, circa 1600]]
 
 The Renaissance and the invention of the printing press brought a renewed interest in and publication of Greek literature. Renaissance mythography drew more extensively on the Greek tradition of Heracles, typically under the Romanized name Hercules, or the alternate name Alcides. In a chapter of his book _Mythologiae_ (1567), the influential mythographer Natale Conti collected and summarized an extensive range of myths concerning the birth, adventures, and death of the hero under his Roman name Hercules. Conti begins his lengthy chapter on Hercules with an overview description that continues the moralizing impulse of the Middle Ages:
 

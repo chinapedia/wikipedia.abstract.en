@@ -14,11 +14,9 @@ The indigenous name of the island, before its conquest in the 15th century, was 
 
 History
 
-Blick_auf_Morro_Jable.jpg
-
 Precolonial history
 
-Cantón_de_Maxorata.jpg The first settlers of Fuerteventura are believed to have come from North Africa. The word _Mahorero_ (_Majorero_) or _Maho_ is still used today to describe the people of Fuerteventura and is derived from the ancient word 'mahos', a type of goatskin shoe worn by these original inhabitants. They lived in caves and semi-subterranean dwellings, some of which have been excavated, revealing remnants of early tools and pottery. In antiquity, the island was known o.a. as _Planaria_, in reference to the flatness of most of its terrain.
+The first settlers of Fuerteventura are believed to have come from North Africa. The word _Mahorero_ (_Majorero_) or _Maho_ is still used today to describe the people of Fuerteventura and is derived from the ancient word 'mahos', a type of goatskin shoe worn by these original inhabitants. They lived in caves and semi-subterranean dwellings, some of which have been excavated, revealing remnants of early tools and pottery. In antiquity, the island was known o.a. as _Planaria_, in reference to the flatness of most of its terrain.
 
 Phoenician settlers landed in Fuerteventura and Lanzarote.
 
@@ -26,7 +24,7 @@ Several Spanish and Portuguese expeditions to the islands were organized around 
 
 The conquest
 
-The island's conquest began in earnest in 1402, commanded by French knights and crusaders Jean de Béthencourt and Gadifer de la Salle.[7] They arrived with only 63 sailors out of the original 283, as many had deserted along the way. After arriving and settling in Lanzarote, the invaders made some first excursions to the neighboring islands. In 1404, Bethencourt and Gadifer founded Betancuria, on the West coast, the first settlement on the island. After numerous difficulties, Gadifer took charge of the invasion, while Bethencourt returned to Spain to seek the recognition and support of the Castilian king. Iglesia_Betancuria.JPG.]]
+The island's conquest began in earnest in 1402, commanded by French knights and crusaders Jean de Béthencourt and Gadifer de la Salle.[7] They arrived with only 63 sailors out of the original 283, as many had deserted along the way. After arriving and settling in Lanzarote, the invaders made some first excursions to the neighboring islands. In 1404, Bethencourt and Gadifer founded Betancuria, on the West coast, the first settlement on the island. After numerous difficulties, Gadifer took charge of the invasion, while Bethencourt returned to Spain to seek the recognition and support of the Castilian king. .]]
 
 In 1405, de Béthencourt completed his conquest of the island, establishing its capital in Betancuria (Puerto Rosario took over the mantle as island capital in 1835).
 
@@ -44,7 +42,7 @@ The island's garrison was officially instated in 1708. Its colonel assumed the t
 
 To the present
 
-Flag_of_Fuerteventura.svg In 1852, a free trade zone was extended by Isabella II to the Canary Islands. Military island rule, which began in 1708, was finally dissolved in 1859, and Puerto de Cabras (now Puerto del Rosario) became the new capital. Caleta_de_Fuste.jpg
+In 1852, a free trade zone was extended by Isabella II to the Canary Islands. Military island rule, which began in 1708, was finally dissolved in 1859, and Puerto de Cabras (now Puerto del Rosario) became the new capital.
 
 The Canary Islands obtained self-governance in 1912. In 1927, Fuerteventura and Lanzarote became part of the province of Gran Canaria. The seat of the island's government (_cabildo insular_) is located in Puerto del Rosario. A total of 74,983 people lived on the island in 2003.
 
@@ -91,19 +89,19 @@ Fuerteventura is the oldest island in the Canary Islands dating back 20 million 
 
 Beaches
 
-Fuerteventura_kueste2_750px.jpg.]] Fuerteventura was chosen among 500 European destinations by the Quality Coast International Certification Program of the European Coastal and Marine Union as one of the most attractive tourist destinations for visitors interested in cultural heritage, environment and sustainability.[18]
+.]] Fuerteventura was chosen among 500 European destinations by the Quality Coast International Certification Program of the European Coastal and Marine Union as one of the most attractive tourist destinations for visitors interested in cultural heritage, environment and sustainability.[18]
 
 Climate
 
-shoreline.jpg forests on the islands of El Hierro, La Gomera and La Palma which are exposed to the Gulf Stream. ]]
+forests on the islands of El Hierro, La Gomera and La Palma which are exposed to the Gulf Stream. ]]
 
 The climate on Fuerteventura is pleasant throughout the year. The island is hence referred to as _the island of eternal spring_. The sea regulates air temperature, diverting hot Sahara winds away from the island. The island's name in English translates as "strong fortune" or "strong wind", the Spanish word for wind being _viento_. During the winter months, temperatures average a high of and a low of around , whereas during the summer a mean high of and a low of can be expected. Precipitation is about per year, most of which falls in autumn and winter. December is the month with highest rainfall.
 
-A sandstorm known as the Calima (similar to the Sirocco wind, which blows to the North of the Sahara, to Europe) may blow from the Sahara Desert to the Northwest, and can cause high temperatures, low visibility and drying air. Temperatures during this phenomenon rise temporarily by approximately 10 degrees Celsius. The wind brings in fine red dust, The fine white sand is not blown in from Sahara, It is made up of dead coral reef and local seabed upheaval. visibility can drop to between or even lower and can even bring African locusts to the island. xerophytic_brassica.jpg'' on Fuerteventura. It is pollinated by _Amegilla cavifrons_.]] Euphorbia_regis-jubae.jpg''.]]
+A sandstorm known as the Calima (similar to the Sirocco wind, which blows to the North of the Sahara, to Europe) may blow from the Sahara Desert to the Northwest, and can cause high temperatures, low visibility and drying air. Temperatures during this phenomenon rise temporarily by approximately 10 degrees Celsius. The wind brings in fine red dust, The fine white sand is not blown in from Sahara, It is made up of dead coral reef and local seabed upheaval. visibility can drop to between or even lower and can even bring African locusts to the island. '' on Fuerteventura. It is pollinated by _Amegilla cavifrons_.]] ''.]]
 
 Wildlife
 
-Delta_dimiatipenne.jpg The island is home to one of the two surviving populations of the threatened Canarian Egyptian vulture. It is also inhabited by many wild dogs and cats. On the barren, rocky land there are Barbary ground squirrels and geckos. Fuerteventura also hosts several migratory and nesting birds. The island has significant populations of the collared dove, common swifts and several finch species especially in the vicinity of holiday developments.
+The island is home to one of the two surviving populations of the threatened Canarian Egyptian vulture. It is also inhabited by many wild dogs and cats. On the barren, rocky land there are Barbary ground squirrels and geckos. Fuerteventura also hosts several migratory and nesting birds. The island has significant populations of the collared dove, common swifts and several finch species especially in the vicinity of holiday developments.
 
 Despite its arid climate, the island is also home to a surprisingly large insect fauna. Butterflies which commonly occur on the island include the clouded yellow (_Colias hyale_) and the bath white (_Pontia daplidice_) which feeds on xerophytic cruciferae. The island is also home to the monarch butterfly (_Danaus plexippus_) and its close African relative _Danaus chrysippus_. Around holiday developments such as Caleta de Fuste, water is relatively abundant, and dragonfly species including the blue emperor (_Anax imperator_) and the scarlet darter (_Crocothemis erythraea_) can be found. The island's sand dunes and shoreline are home to a number of bee and wasp species including the large eumenid caterpillar hunting wasp, _Delta dimidiatipenne_ and the blue banded bee, (_Amegilla canifrons_).
 
@@ -119,7 +117,7 @@ File:Chlamydotis undulata fuertaventurae 3.jpg|_Chlamydotis undulata fuertaventu
 
 Demographics
 
-MVC-024S.JPG).]]
+).]]
 
 Population
 
@@ -166,7 +164,7 @@ The councils, formed as part of the Councils Act of 1912, administer the Canary 
 
 Municipalities
 
-Fue19.JPG.]] The island is divided into six municipalities with their respective city councils which form part of the FECAM (Federation of Canarian Municipalities). They are governed by the basic legislation of the local regime and their respective organic rules. The populations of the municipalities are as follows:
+.]] The island is divided into six municipalities with their respective city councils which form part of the FECAM (Federation of Canarian Municipalities). They are governed by the basic legislation of the local regime and their respective organic rules. The populations of the municipalities are as follows:
 
 +--------------------+------------+------------+------------+------------+
 | Name               | Area       | Population | Population | Population |
@@ -199,7 +197,7 @@ In 2009, Fuerteventura recorded the highest EU regional unemployment rate at a N
 
 Tourism
 
-Fuerteventura_kueste3_750px.jpg The first tourist hotel was built in 1965 followed by the construction of Fuerteventura Airport at El Matorral, heralding the dawn of a new era for the island. Fuerteventura, with its 3,000 sunshine hours a year, was placed firmly on the world stage as a major European holiday destination.[33] While having fully developed tourist facilities, the island has not experienced the overdevelopment found on some other islands. Nonetheless, it remains a destination for predominantly but not exclusively European tourists.[34]
+The first tourist hotel was built in 1965 followed by the construction of Fuerteventura Airport at El Matorral, heralding the dawn of a new era for the island. Fuerteventura, with its 3,000 sunshine hours a year, was placed firmly on the world stage as a major European holiday destination.[33] While having fully developed tourist facilities, the island has not experienced the overdevelopment found on some other islands. Nonetheless, it remains a destination for predominantly but not exclusively European tourists.[34]
 
 The summer Trade Winds and winter swells of the Atlantic make this a year-round surfers' paradise, with more exposed areas on the north and west shores such as Corralejo and El Cotillo proving most popular. Wind surfing takes places at locations around the island. Sailors, scuba divers and big-game fishermen are all drawn to these clear blue Atlantic waters where whales, dolphins, marlin and turtles are all common sights. With many hills present throughout the Island, hikers are also attracted to this Island.[35]
 
@@ -212,11 +210,11 @@ Art and culture
 
 Traditional holidays
 
-Gala_reina_2000_Fuerteventura.jpg.]] Virgen_de_la_Peña,_Vega_del_Río_Palmas_Betancuria_Fuerteventura.jpg.]] Like the rest of the Canaries, Carnival is traditionally one of the biggest festivals celebrated on the island. It is celebrated in different ways in all the towns during February and March. These festivities have a different theme each year. They include activities such as parades and galas to choose the carnival king.
+.]] .]] Like the rest of the Canaries, Carnival is traditionally one of the biggest festivals celebrated on the island. It is celebrated in different ways in all the towns during February and March. These festivities have a different theme each year. They include activities such as parades and galas to choose the carnival king.
 
 Concerts and festivals
 
-King_Africa_in_Puerto_del_Rosario.jpg in Puerto del Rosario in 2000.]] There are many concerts and festivals held in the auditoriums, such as the Festival of Canarian Music. They are also held in smaller venues across the island, featuring bands such as Estopa, Van Gogh's Ear, and King Afrhica.
+in Puerto del Rosario in 2000.]] There are many concerts and festivals held in the auditoriums, such as the Festival of Canarian Music. They are also held in smaller venues across the island, featuring bands such as Estopa, Van Gogh's Ear, and King Afrhica.
 
 -   Lebrancho Rock: in 2004, the Town Hall of Puerto del Rosario started this initiative for the growing number of local bands who had been performing in the area for years but had not had the chance to play at the same event.
 -   Fuertemusica: like Lebrancho Rock, this festival aims to encourage the local or emerging groups. It started in the same year. This festival is mainly for groups that are already known in the music world. It takes place in El Cotillo.
@@ -226,7 +224,7 @@ Festival Internacional de Cometas/International Kite Festival is held on the sec
 
 Auditoriums
 
-Ensayos_de_la_Compañía_Nacional_de_Danza_2_en_Fuerteventura.jpg Auditorium on 25 July 2000.]] Fuerteventura has three auditoriums. These are used for all types of performing art. They are also used for non-artistic purposes, such as conferences, charity galas and political meetings.
+Auditorium on 25 July 2000.]] Fuerteventura has three auditoriums. These are used for all types of performing art. They are also used for non-artistic purposes, such as conferences, charity galas and political meetings.
 
 -   The Isle of Fuerteventura Auditorium
 -   Gran Tarajal Auditorium
@@ -238,7 +236,7 @@ The Central Library of the Island is located in Antigua's city centre, in the pu
 
 Museums and exhibition spaces
 
-Mvc-545s.jpg.]] The island has several museums with different themes and plenty of exhibition spaces, both public and private. These include:
+.]] The island has several museums with different themes and plenty of exhibition spaces, both public and private. These include:
 
 -   The Antigua Windmill Craft Centre
 -   The Salt Museum
@@ -251,14 +249,12 @@ In addition to the museums, the capital Puerto del Rosario has an open-air sculp
 
 Main sights
 
-Sites of interest include Corralejo and El Jable to the north which are made up of fine sand dunes whilst the south is filled with long beaches and remote bays. The constant winds blowing onto the beaches provide a paradise for windsurfing. Surfing is common on the west and north coasts where there are large waves. Windsurfing is common around Corralejo and Playas de Sotavento and wave sailing (windsurfing on the waves) on the coast along the northern half of the island. El Cotillo is a small fishing village in the north-west of the Island famous for a very long beach to the south of the village and few very calm beaches to the north. The northern beaches frequented by snorkeling enthusiasts and sun worshippers alike are referred to as lakes by the locals. Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg'' (SS _America_) seen in July 2004 from land side.]] At Cofete on the western side of Jandía a remote and imposing house - Villa Winter - looks out to sea across wide beaches. It was reputedly built by a Mr Winter on land given by Generalisimo Franco.
+Sites of interest include Corralejo and El Jable to the north which are made up of fine sand dunes whilst the south is filled with long beaches and remote bays. The constant winds blowing onto the beaches provide a paradise for windsurfing. Surfing is common on the west and north coasts where there are large waves. Windsurfing is common around Corralejo and Playas de Sotavento and wave sailing (windsurfing on the waves) on the coast along the northern half of the island. El Cotillo is a small fishing village in the north-west of the Island famous for a very long beach to the south of the village and few very calm beaches to the north. The northern beaches frequented by snorkeling enthusiasts and sun worshippers alike are referred to as lakes by the locals. '' (SS _America_) seen in July 2004 from land side.]] At Cofete on the western side of Jandía a remote and imposing house - Villa Winter - looks out to sea across wide beaches. It was reputedly built by a Mr Winter on land given by Generalisimo Franco.
 
 For a time, the beaches were home to a popular accidental attraction. On 18 January 1994 the United States Lines ocean liner SS _American Star_ (former _America_, USS _West Point_, _Australis_) was beached in Playa de Garcey during a severe storm. Within a year, she broke in two and later lost her stern. By 2007 the rest of the severely deteriorated ship had collapsed onto her port side, gradually keeling over further and almost completely submerged. By 2008-2012, most of the remains finally slipped below the surface.
 
 
 Food
-
-Fuerteventura_kaeserei.jpg
 
 The cuisine is fairly basic due to the customs and climate conditions. They share this simplicity with the other Canary islands, and similarly to them, they use a large quantity of fish. They also use whatever they can grow in the near-barren land. This includes papas arrugadas, a dish of wrinkled potatoes usually served with mojo, which is a hot pepper sauce or with puchero canario, a meat stew.
 
@@ -289,7 +285,7 @@ The island also has a school wrestling league organized by the council and a pro
 
 Juego del Palo
 
-Exhibición_de_Palo_Canario_en_Pozo_Negro_Fuerteventura.jpg) on 23 September 2000]] Juego del Palo is a Canarian martial art which literally translates as _game of the stick_. It is played by two players both armed with sticks. They aim to defeat each other without making contact with their opponent's body. The origin of this game is unclear. All we know is that it is based on a method of combat used by the precolonial Canarian people.
+) on 23 September 2000]] Juego del Palo is a Canarian martial art which literally translates as _game of the stick_. It is played by two players both armed with sticks. They aim to defeat each other without making contact with their opponent's body. The origin of this game is unclear. All we know is that it is based on a method of combat used by the precolonial Canarian people.
 
 Fuerteventura has the following Palo clubs:[40]
 
@@ -310,7 +306,7 @@ The sea and climate conditions make the island the perfect place for a huge vari
 
 Surfing, windsurfing and kitesurfing
 
-Corralejo_Fuerteventura.jpg Many types of surfing are popular on the island, including traditional surfing, windsurfing (where the board is propelled by a sail) and most recently kitesurfing. The island has many schools and courses dedicated to teaching these sports.
+Many types of surfing are popular on the island, including traditional surfing, windsurfing (where the board is propelled by a sail) and most recently kitesurfing. The island has many schools and courses dedicated to teaching these sports.
 
 The sports where Fuerteventura has the most impact internationally are windsurfing and kitesurfing, mainly due to the International Windsurfing and Kiteboarding Championship. This has run since 1985 and is held at Playas de Sotavento in Pájara municipality. Many important wind and kitesurfing figures compete in this championship, such as the several-times world windsurfing champion Björn Dunkerbeck and Gisela Pulido, the very young kiteboarding champion from Tarifa.
 
@@ -328,7 +324,7 @@ There are many swimming pools on the island but the most obvious place to swim i
 
 Sailing
 
-Caleta_de_Fustes_puerto_deportivo_Fuerteventura.jpg)]] The island holds competitions involving different types of boat, such as the lateen and the Optimist. An interesting event is the Tour of Fuerteventura by Kayak, which is organised as a series of stages rather than a competition, and is an easy way to explore the island.
+)]] The island holds competitions involving different types of boat, such as the lateen and the Optimist. An interesting event is the Tour of Fuerteventura by Kayak, which is organised as a series of stages rather than a competition, and is an easy way to explore the island.
 
 Fishing
 
@@ -347,7 +343,7 @@ The resort Playitas on the south coast is since around 2008 equipped with a swim
 
 People
 
-Descubrimiento_estatua_Manuel_Velázquez_Cabrera.jpg in honour of Manuel Velázquez Cabrera on 08 November 2001.]]
+in honour of Manuel Velázquez Cabrera on 08 November 2001.]]
 
 -   Manuel Velázquez Cabrera: born in Tiscamanita in 1863, the politician and lawyer who created the island's council.
 -   Juan Ismael: the painter, cartoonist and poet born in La Oliva in 1907, considered one of the great Canarian surrealists.

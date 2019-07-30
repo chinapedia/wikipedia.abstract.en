@@ -1,4 +1,4 @@
-MG42-Display.jpg type general-purpose machine guns in both bipod and tripod configurations]]
+type general-purpose machine guns in both bipod and tripod configurations]]
 
 A GENERAL-PURPOSE MACHINE GUN (GPMG) is an air-cooled, fully automatic weapon that can be adapted to light machine gun and medium machine gun roles.[1] A GPMG weapon will typically feature a quick-change barrel, configuration for mounting on bipods, tripods, and vehicles as infantry support weapons, and calibered to fire full-powered rifle cartridges such as the 7.62×51mm NATO, 7.62×54mmR, 7.5×54mm French, 7.5×55mm Swiss, and 7.92×57mm Mauser.[2]
 

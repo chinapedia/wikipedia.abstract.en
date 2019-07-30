@@ -1,4 +1,4 @@
-Guinea-Bissau_demography.png This article is about the demographic features of the population of Guinea-Bissau, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+This article is about the demographic features of the population of Guinea-Bissau, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population.
 
 
 Ethnic groups
@@ -102,8 +102,6 @@ Population
     1,596,677 (July 2011 est.)
 
 Age structure
-
-Guinea-Bissaupop.svg
 
     _0-14 years:_ 43.55% (male 400,666 /female 397,704)
     _15-24 years:_ 20.23% (male 181,286 /female 189,515)

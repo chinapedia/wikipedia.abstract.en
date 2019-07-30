@@ -1,5 +1,3 @@
-Congo_Transport_Map.PNG
-
 Ground TRANSPORT IN THE DEMOCRATIC REPUBLIC OF CONGO (DRC) has always been difficult. The terrain and climate of the Congo Basin present serious barriers to road and rail construction, and the distances are enormous across this vast country. Furthermore, chronic economic mismanagement and internal conflict has led to serious under-investment over many years.
 
 On the other hand, the DRC has thousands of kilometres of navigable waterways, and traditionally water transport has been the dominant means of moving around approximately two-thirds of the country.
@@ -39,7 +37,7 @@ The China Railway Seventh Group Co. Ltd will be in charge of the contract, under
 
 Railways
 
-First_train_in_Kindu,_DRC.jpg arriving in Kindu on newly refurbished line]]
+arriving in Kindu on newly refurbished line]]
 
 
 Highways
@@ -57,7 +55,7 @@ The two principal highways are:
 
 Inventory
 
-Torday_Congo_Expedition_03.jpg and Idiofa.]] The total road network in 2005, according to the UNJLC, consisted of:
+and Idiofa.]] The total road network in 2005, according to the UNJLC, consisted of:
 
 -   _paved:_ 2,250 km
 -   _unpaved:_ 15,000 km

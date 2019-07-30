@@ -1,5 +1,3 @@
-Commutative_diagram_for_morphism.svg
-
 CATEGORY THEORY[1] formalizes mathematical structure and its concepts in terms of a labeled directed graph called a _category_, whose nodes are called _objects_, and whose labelled directed edges are called _arrows_ (or morphisms). A category has two basic properties: the ability to compose the arrows associatively, and the existence of an identity arrow for each object. The language of category theory has been used to formalize concepts of other high-level abstractions such as sets, rings, and groups. Informally, category theory is a general theory of functions.
 
 Several terms used in category theory, including the term "morphism", are used differently from their uses in the rest of mathematics. In category theory, morphisms obey conditions specific to category theory itself.
@@ -118,8 +116,6 @@ Natural transformations
 A _natural transformation_ is a relation between two functors. Functors often describe "natural constructions" and natural transformations then describe "natural homomorphisms" between two such constructions. Sometimes two quite different constructions yield "the same" result; this is expressed by a natural isomorphism between the two functors.
 
 If _F_ and _G_ are (covariant) functors between the categories _C_ and _D_, then a natural transformation η from _F_ to _G_ associates to every object _X_ in _C_ a morphism in _D_ such that for every morphism in _C_, we have ; this means that the following diagram is commutative:
-
-Natural_transformation.svg
 
 The two functors _F_ and _G_ are called _naturally isomorphic_ if there exists a natural transformation from _F_ to _G_ such that η_(_X_) is an isomorphism for every object _X_ in _C_.
 

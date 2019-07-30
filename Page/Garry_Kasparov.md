@@ -17,7 +17,7 @@ Kasparov is a frequent critic of U.S. professor emeritus of Russian studies Step
 
 Early career
 
-Kasparov-2.jpg Kasparov was born Garik Kimovich Weinstein (Russian: Гарик Вайнштейн) in Baku, Azerbaijan SSR (now Azerbaijan), Soviet Union. His father, Kim Moiseyevich Weinstein, was Russian-Jewish, and his mother, Klara Shagenovna Kasparova, was Armenian.[18][19][20][21] Kasparov has described himself as a "self-appointed Christian", although "very indifferent"[22] and identifies as Russian.[23][24]
+Kasparov was born Garik Kimovich Weinstein (Russian: Гарик Вайнштейн) in Baku, Azerbaijan SSR (now Azerbaijan), Soviet Union. His father, Kim Moiseyevich Weinstein, was Russian-Jewish, and his mother, Klara Shagenovna Kasparova, was Armenian.[18][19][20][21] Kasparov has described himself as a "self-appointed Christian", although "very indifferent"[22] and identifies as Russian.[23][24]
 
 Kasparov first began the serious study of chess after he came across a chess problem set up by his parents and proposed a solution.[25] His father died of leukemia when Garry was seven years old.[26] At the age of twelve, Garry, upon request of mother Klara and consent of the family, adopted Klara's surname Kasparov, which was done to avoid possible antisemitic tensions, which were common in the USSR at the time.[27][28]
 
@@ -32,7 +32,7 @@ Kasparov rose quickly through the World Chess Federation rankings. Starting with
 
 Towards the top
 
-Garry_Kasparov_1980_Dortmund.jpg As a teenager, Kasparov tied for first place in the USSR Chess Championship in 1981–82. His first win in a superclass-level international tournament was scored at Bugojno, Yugoslavia in 1982. He earned a place in the 1982 Moscow Interzonal tournament, which he won, to qualify for the Candidates Tournament.[32] At age 19, he was the youngest Candidate since Bobby Fischer, who was 15 when he qualified in 1958. At this stage, he was already the No. 2-rated player in the world, trailing only World Chess Champion Anatoly Karpov on the January 1983 list.
+As a teenager, Kasparov tied for first place in the USSR Chess Championship in 1981–82. His first win in a superclass-level international tournament was scored at Bugojno, Yugoslavia in 1982. He earned a place in the 1982 Moscow Interzonal tournament, which he won, to qualify for the Candidates Tournament.[32] At age 19, he was the youngest Candidate since Bobby Fischer, who was 15 when he qualified in 1958. At this stage, he was already the No. 2-rated player in the world, trailing only World Chess Champion Anatoly Karpov on the January 1983 list.
 
 Kasparov's first (quarter-final) Candidates match was against Alexander Beliavsky, whom he defeated 6–3 (four wins, one loss).[33] Politics threatened Kasparov's semi-final against Viktor Korchnoi, which was scheduled to be played in Pasadena, California. Korchnoi had defected from the Soviet Union in 1976, and was at that time the strongest active non-Soviet player. Various political maneuvers prevented Kasparov from playing Korchnoi, and Kasparov forfeited the match. This was resolved by Korchnoi allowing the match to be replayed in London, along with the previously scheduled match between Vasily Smyslov and Zoltán Ribli. The Kasparov-Korchnoi match was put together on short notice by Raymond Keene. Kasparov lost the first game but won the match 7–4 (four wins, one loss).
 
@@ -54,7 +54,7 @@ The match became the first, and so far only, world championship match to be aban
 
 World Champion
 
-Kasparov-1.jpg The second Karpov-Kasparov match in 1985 was organized in Moscow as the best of 24 games where the first player to win 12½ points would claim the World Champion title. The scores from the terminated match would not carry over; however, in the event of a 12–12 draw, the title would remain with Karpov. On 9 November 1985, Kasparov secured the title by a score of 13–11, winning the 24th game with Black, using a Sicilian defense. He was 22 years old at the time, making him the youngest ever World Champion,[35] and breaking the record held by Mikhail Tal for over 20 years.[36] Kasparov's win as Black in the 16th game has been recognized as one of the all-time masterpieces in chess history.
+The second Karpov-Kasparov match in 1985 was organized in Moscow as the best of 24 games where the first player to win 12½ points would claim the World Champion title. The scores from the terminated match would not carry over; however, in the event of a 12–12 draw, the title would remain with Karpov. On 9 November 1985, Kasparov secured the title by a score of 13–11, winning the 24th game with Black, using a Sicilian defense. He was 22 years old at the time, making him the youngest ever World Champion,[35] and breaking the record held by Mikhail Tal for over 20 years.[36] Kasparov's win as Black in the 16th game has been recognized as one of the all-time masterpieces in chess history.
 
 As part of the arrangements following the aborted 1984 match, Karpov had been granted (in the event of his defeat) a right to rematch. Another match took place in 1986, hosted jointly in London and Leningrad, with each city hosting 12 games. At one point in the match, Kasparov opened a three-point lead and looked well on his way to a decisive match victory. But Karpov fought back by winning three consecutive games to level the score late in the match. At this point, Kasparov dismissed one of his seconds, grandmaster Evgeny Vladimirov, accusing him of selling his opening preparation to the Karpov team (as described in Kasparov's autobiography _Unlimited Challenge_, chapter Stab in the Back). Kasparov scored one more win and kept his title by a final score of 12½–11½.
 
@@ -65,11 +65,11 @@ A fifth match between Kasparov and Karpov was held in New York and Lyon in 1990,
 
 Break with and ejection from FIDE
 
-Kasparov-10.jpg in a publicity photo on top of the World Trade Center in New York]] With the World Champion title in hand, Kasparov began opposing FIDE. Beginning in 1986, he created the Grandmasters Association (GMA), an organization to represent professional chess players and give them more say in FIDE's activities. Kasparov assumed a leadership role. GMA's major achievement was in organizing a series of six World Cup tournaments for the world's top players. A somewhat uneasy relationship developed with FIDE, and a sort of truce was brokered by Bessel Kok, a Dutch businessman.
+in a publicity photo on top of the World Trade Center in New York]] With the World Champion title in hand, Kasparov began opposing FIDE. Beginning in 1986, he created the Grandmasters Association (GMA), an organization to represent professional chess players and give them more say in FIDE's activities. Kasparov assumed a leadership role. GMA's major achievement was in organizing a series of six World Cup tournaments for the world's top players. A somewhat uneasy relationship developed with FIDE, and a sort of truce was brokered by Bessel Kok, a Dutch businessman.
 
 This stand-off lasted until 1993, by which time a new challenger had qualified through the Candidates cycle for Kasparov's next World Championship defense: Nigel Short, a British grandmaster who had defeated Anatoly Karpov in a qualifying match, and then Jan Timman in the finals held in early 1993. After a confusing and compressed bidding process produced lower financial estimates than expected,[37] the world champion and his challenger decided to play outside FIDE's jurisdiction, under another organization created by Kasparov called the Professional Chess Association (PCA). At this point, a great fracture occurred in the lineage of the FIDE World Championship. In an interview in 2007, Kasparov called the break with FIDE the worst mistake of his career, as it hurt the game in the long run.[38]
 
-Kasparov and Short were ejected from FIDE, and played their well-sponsored match in London. Kasparov won convincingly by a score of 12½–7½. The match considerably raised the profile of chess in the UK, with an unprecedented level of coverage on Channel 4. Meanwhile, FIDE organized a World Championship match between Jan Timman (the defeated Candidates finalist) and former World Champion Karpov (a defeated Candidates semi-finalist), which Karpov won. Kasparov-44.jpg in 2000]] FIDE removed Kasparov and Short from the FIDE rating lists. Until this happened, there was a parallel rating list presented by PCA which featured all world top players, regardless of their relation to FIDE. There were now two World Champions: PCA champion Kasparov, and FIDE champion Karpov. The title remained split for 13 years.
+Kasparov and Short were ejected from FIDE, and played their well-sponsored match in London. Kasparov won convincingly by a score of 12½–7½. The match considerably raised the profile of chess in the UK, with an unprecedented level of coverage on Channel 4. Meanwhile, FIDE organized a World Championship match between Jan Timman (the defeated Candidates finalist) and former World Champion Karpov (a defeated Candidates semi-finalist), which Karpov won. in 2000]] FIDE removed Kasparov and Short from the FIDE rating lists. Until this happened, there was a parallel rating list presented by PCA which featured all world top players, regardless of their relation to FIDE. There were now two World Champions: PCA champion Kasparov, and FIDE champion Karpov. The title remained split for 13 years.
 
 Kasparov defended his title in a 1995 match against Viswanathan Anand at the World Trade Center in New York City. Kasparov won the match by four wins to one, with thirteen draws. It was the last World Championship to be held under the auspices of the PCA, which collapsed when Intel, one of its major backers, withdrew its sponsorship.
 
@@ -80,7 +80,7 @@ During this period, Kasparov was approached by Oakham School in the United Kingd
 
 Losing the title and aftermath
 
-Kasparov-11.jpg in the Botvinnik Memorial match in Moscow, 2001]] The Kasparov-Kramnik match took place in London during the latter half of 2000. Kramnik had been a student of Kasparov's at the famous Botvinnik/Kasparov chess school in Russia, and had served on Kasparov's team for the 1995 match against Viswanathan Anand.
+in the Botvinnik Memorial match in Moscow, 2001]] The Kasparov-Kramnik match took place in London during the latter half of 2000. Kramnik had been a student of Kasparov's at the famous Botvinnik/Kasparov chess school in Russia, and had served on Kasparov's team for the 1995 match against Viswanathan Anand.
 
 The better-prepared Kramnik won game 2 against Kasparov's Grünfeld Defence and achieved winning positions in Games 4 and 6, although Kasparov held the draw in both games. Kasparov made a critical error in Game 10 with the Nimzo-Indian Defence, which Kramnik exploited to win in 25 moves. As White, Kasparov could not crack the passive but solid Berlin Defence in the Ruy Lopez, and Kramnik successfully drew all his games as Black. Kramnik won the match 8½–6½. Kasparov became the first player to lose a world championship match without winning a game since Emanuel Lasker's loss to José Raúl Capablanca in 1921.
 
@@ -109,7 +109,7 @@ Kasparov actively coached Magnus Carlsen for approximately one year beginning in
 
 In May 2010 he played 30 games simultaneously, winning each one, against players at Tel Aviv University in Israel.[53] In the same month it was revealed that Kasparov had aided Viswanathan Anand in preparation for the World Chess Championship 2010 against challenger Veselin Topalov. Anand won the match 6½–5½ to retain the title.[54]
 
-Garry_Kasparov_(23954609358).jpg In January 2011, Kasparov began training the U.S. grandmaster Hikaru Nakamura. The first of several training sessions was held in New York just prior to Nakamura's participation in the Tata Steel Chess tournament in Wijk aan Zee, the Netherlands.[55] In December 2011, it was announced that the cooperation had come to an end.[56]
+In January 2011, Kasparov began training the U.S. grandmaster Hikaru Nakamura. The first of several training sessions was held in New York just prior to Nakamura's participation in the Tata Steel Chess tournament in Wijk aan Zee, the Netherlands.[55] In December 2011, it was announced that the cooperation had come to an end.[56]
 
 Kasparov played two blitz exhibition matches in the autumn of 2011. The first was in September against French grandmaster Maxime Vachier-Lagrave, in Clichy (France), which Kasparov won 1½–½. The second was a longer match consisting of eight blitz games played on 9 October, against English grandmaster Nigel Short. Kasparov won again by a score of 4½–3½.
 
@@ -158,7 +158,7 @@ Kasparov was instrumental in setting up The Other Russia, a coalition which oppo
 
 On 10 April 2005, Kasparov was in Moscow at a promotional event when he was struck over the head with a chessboard he had just signed. The assailant was reported to have said "I admired you as a chess player, but you gave that up for politics" immediately before the attack.[86] Kasparov has been the subject of a number of other episodes since, including police brutality and alleged harassment from the Russian secret service.[87][88]
 
-MarchNesoglas09juneSpB1.jpg in Saint Petersburg on 9 June 2007]] Kasparov helped organize the Saint Petersburg Dissenters' March on 3 March 2007 and The March of the Dissenters on 24 March 2007, both involving several thousand people rallying against Putin and Saint Petersburg Governor Valentina Matviyenko's policies.[89][90]
+in Saint Petersburg on 9 June 2007]] Kasparov helped organize the Saint Petersburg Dissenters' March on 3 March 2007 and The March of the Dissenters on 24 March 2007, both involving several thousand people rallying against Putin and Saint Petersburg Governor Valentina Matviyenko's policies.[89][90]
 
 On 14 April 2007, Kasparov led a pro-democracy demonstration in Moscow. Soon after the demonstration's start, however, over 9,000 police descended on the group and seized almost everyone. Kasparov, who was briefly arrested by the Moscow police, was warned by the prosecution office on the eve of the march that anyone participating risked being detained. He was held for some 10 hours and then fined and released.[91] He was later summoned by the FSB for violations of Russian anti-extremism laws.[92]
 
@@ -231,7 +231,7 @@ Kasparov's style of play has been compared by many to Alekhine's.[141][142] Kasp
 
 Olympiads and other major team events
 
-Garry_Kasparov_1980_Malta.jpg Kasparov played in a total of eight Chess Olympiads. He represented the Soviet Union four times and Russia four times, following the breakup of the Soviet Union in 1991. In his 1980 Olympiad debut, he became, at age 17, the youngest player to represent the Soviet Union or Russia at that level, a record which was broken by Vladimir Kramnik in 1992. In 82 games, he has scored (+50−3=29), for 78.7% and won a total of 19 medals, including team gold medals all eight times he competed. For the 1994 Moscow Olympiad, he had a significant organizational role, in helping to put together the event on short notice, after Thessaloniki canceled its offer to host, a few weeks before the scheduled dates. Kasparov's detailed Olympiad record[148] follows:
+Kasparov played in a total of eight Chess Olympiads. He represented the Soviet Union four times and Russia four times, following the breakup of the Soviet Union in 1991. In his 1980 Olympiad debut, he became, at age 17, the youngest player to represent the Soviet Union or Russia at that level, a record which was broken by Vladimir Kramnik in 1992. In 82 games, he has scored (+50−3=29), for 78.7% and won a total of 19 medals, including team gold medals all eight times he competed. For the 1994 Moscow Olympiad, he had a significant organizational role, in helping to put together the event on short notice, after Thessaloniki canceled its offer to host, a few weeks before the scheduled dates. Kasparov's detailed Olympiad record[148] follows:
 
 -   Valletta 1980, USSR 2nd reserve, 9½/12 (+8−1=3), team gold, board bronze;
 -   Lucerne 1982, USSR 2nd board, 8½/11 (+6−0=5), team gold, board bronze;
@@ -307,7 +307,7 @@ After the loss, Kasparov said that he sometimes saw deep intelligence and creati
 
 Kasparov's loss to Deep Blue inspired the creation of the game Arimaa.[165]
 
-Kasparov-18.jpg.]] In January 2003, he engaged in a six-game classical time control match with a $1 million prize fund which was billed as the FIDE "Man vs. Machine" World Championship, against Deep Junior.[166] The engine evaluated three million positions per second.[167] After one win each and three draws, it was all up to the final game. After reaching a decent position Kasparov offered a draw, which was soon accepted by the Deep Junior team. Asked why he offered the draw, Kasparov said he feared making a blunder.[168] Originally planned as an annual event, the match was not repeated.
+.]] In January 2003, he engaged in a six-game classical time control match with a $1 million prize fund which was billed as the FIDE "Man vs. Machine" World Championship, against Deep Junior.[166] The engine evaluated three million positions per second.[167] After one win each and three draws, it was all up to the final game. After reaching a decent position Kasparov offered a draw, which was soon accepted by the Deep Junior team. Asked why he offered the draw, Kasparov said he feared making a blunder.[168] Originally planned as an annual event, the match was not repeated.
 
 Deep Junior was the first machine to beat Kasparov with black and at a standard time control.[169]
 
@@ -344,7 +344,7 @@ In October 2015, Kasparov published a book titled Winter Is Coming: Why Vladimir
 
 Historical revision
 
-Fomenko_-_Roman_Empire_parallelism.jpg uses statistical analysis to identify anachronisms in historical records, such as this claimed parallelism between reign-lengths in dynasties of the Kingdom of Judah (10th–6th centuries BC) and the Eastern Roman Empire (4th – 7th centuries AD).]]
+uses statistical analysis to identify anachronisms in historical records, such as this claimed parallelism between reign-lengths in dynasties of the Kingdom of Judah (10th–6th centuries BC) and the Eastern Roman Empire (4th – 7th centuries AD).]]
 
 Kasparov believes that the conventional history of civilization is radically incorrect. Specifically, he believes that the history of ancient civilizations is based on misdatings of events and achievements that actually occurred in the medieval period. He has cited several aspects of ancient history that he says are likely to be anachronisms.[177][178]
 

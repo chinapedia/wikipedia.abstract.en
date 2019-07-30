@@ -10,11 +10,11 @@ His Christian name was Jacobus. "Cão" was a nickname meaning "dog", which means
 
 Explorer
 
-Portuguese_discoveries_diogo_cao.jpg He was the first European known to sight and enter the Congo River and to explore the West African coast between Cape St. Catherine in Gabon and Cape Cross, almost from the equator to Walvis Bay in Namibia.[3]
+He was the first European known to sight and enter the Congo River and to explore the West African coast between Cape St. Catherine in Gabon and Cape Cross, almost from the equator to Walvis Bay in Namibia.[3]
 
 First voyage
 
-Caopillar.JPG bearing the arms of Portugal erected by Cão at Cape St. Mary]] When King John II of Portugal restarted the work of Henry the Navigator, he sent out Cão (probably around midsummer 1482) to explore the African coast south of the equator. Diego Cão filled his ship with stone pillars surmounted by the cross of the Order of Christ and engraved with the Portuguese royal arms (padrãos), with the plan to erect one in every new place he would discover.[4]
+bearing the arms of Portugal erected by Cão at Cape St. Mary]] When King John II of Portugal restarted the work of Henry the Navigator, he sent out Cão (probably around midsummer 1482) to explore the African coast south of the equator. Diego Cão filled his ship with stone pillars surmounted by the cross of the Order of Christ and engraved with the Portuguese royal arms (padrãos), with the plan to erect one in every new place he would discover.[4]
 
 On his way, he stopped in the newly-built Elmina Castle to stock up.[5] However, the Flemish merchant Eustache de la Fosse recalled encountering Diogo Cão in Elmina in 1480 (and not 1482).[6]
 
@@ -22,11 +22,11 @@ He discovered the mouth and estuary of the Congo, probably in August 1482 and ma
 
 He also ascended the great river for a short distance, and commenced modest commerce with the natives of the Bakongo kingdom. He was told that their King lived farther upriver. He sent 4 men to meet the King, kept four natives to serve as ambassadors of Kongo in Portugal, and sailed back down the river to the Atlantic.[7] Cão then coasted down along the present Angola (Portuguese West Africa), and erected a second padrão, probably marking the termination of this voyage, at Cape Saint Mary (the Monte Negro of these first visitors).[8]
 
-The first padrão erected at the mouth of the Congo River, the S. Jorge, has been taken by an English ship that sunk, according to indigenous rumors (the base is still there). The second one, the St. Agostinho, still stands today, but misses its cross on top.[9] Armas_Diogo_Cão.jpg He returned to Lisbon by 8 April 1484 (on his return he discovered the Island of Annobón), where John II ennobled him, promoting him from esquire to a knight of his household, and granted him an annuity (10000 reais) and a coat of arms where two padrões are represented. The King also asked him to sail back to Kongo to repatriate the 4 men he left behind.[10][11][12]
+The first padrão erected at the mouth of the Congo River, the S. Jorge, has been taken by an English ship that sunk, according to indigenous rumors (the base is still there). The second one, the St. Agostinho, still stands today, but misses its cross on top.[9] He returned to Lisbon by 8 April 1484 (on his return he discovered the Island of Annobón), where John II ennobled him, promoting him from esquire to a knight of his household, and granted him an annuity (10000 reais) and a coat of arms where two padrões are represented. The King also asked him to sail back to Kongo to repatriate the 4 men he left behind.[10][11][12]
 
 Second voyage
 
-Matadi,_Congo,_pedra_de_Ielala,_Diogo_Cão.jpg That Cão, on his second voyage of 1484–1486, was accompanied by Martin Behaim (as alleged on the latter's Nuremberg globe of 1492) is very doubtful. But it is known that the explorer revisited the Congo and erected two more padrãos on land beyond his previous voyage. The first was at Cabo Negro, Angola, the second at Cape Cross. The Cape Cross pillar probably marked the end of his progress southward, some 1,400 kilometers.[13] Diogo Cão also embarked the 4 indigenous ambassadors, that he had promised not to keep for more than fifteen moons. Other reports state that those ambassadors were not on Cão's ship.[14]
+That Cão, on his second voyage of 1484–1486, was accompanied by Martin Behaim (as alleged on the latter's Nuremberg globe of 1492) is very doubtful. But it is known that the explorer revisited the Congo and erected two more padrãos on land beyond his previous voyage. The first was at Cabo Negro, Angola, the second at Cape Cross. The Cape Cross pillar probably marked the end of his progress southward, some 1,400 kilometers.[13] Diogo Cão also embarked the 4 indigenous ambassadors, that he had promised not to keep for more than fifteen moons. Other reports state that those ambassadors were not on Cão's ship.[14]
 
 Cão ascended the Kongo River (which he thought led towards the realm of Prester John), up to the neighborhood of the site of Matadi. There, in October or November 1485, near the falls of Ielala, he left an inscription engraved on the stone which testifies of its passage and that of his men: _Aqui chegaram os navios do esclarecido rei D.João II de Portugal - Diogo Cão, Pero Anes, Pero da Costa._ ("Here reached the ships of the enlightned king John II of Portugal – Diogo Cão, Pero Anes, Pero da Costa").
 

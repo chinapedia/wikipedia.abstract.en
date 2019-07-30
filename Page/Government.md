@@ -102,7 +102,7 @@ Historically, most political systems originated as socioeconomic ideologies. Exp
 
 Maps
 
-Forms_of_government.svg. ---- ]] EIU_Democracy_Index_2017.svg by the Economist Intelligence Unit, 2017.[38]
+. ---- ]] by the Economist Intelligence Unit, 2017.[38]
 
 ------------------------------------------------------------------------
 
@@ -112,9 +112,9 @@ FLAWED DEMOCRACIES
 
 HYBRID REGIMES
 
-AUTHORITARIAN REGIMES ]] World_administrative_levels.png
+AUTHORITARIAN REGIMES ]]
 
-Map_of_unitary_and_federal_states.svgs (BLUE).
+s (BLUE).
 
 ------------------------------------------------------------------------
 

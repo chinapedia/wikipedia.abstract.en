@@ -1,5 +1,3 @@
-AminoAcidball.svg
-
 AMINO ACIDS are organic compounds containing amine (-NH₂) and carboxyl (-COOH) functional groups, along with a side chain (R group) specific to each amino acid.[1][2][3] The key elements of an amino acid are carbon (C), hydrogen (H), oxygen (O), and nitrogen (N), although other elements are found in the side chains of certain amino acids. About 500 naturally occurring amino acids are known (though only 20 appear in the genetic code) and can be classified in many ways.[4] They can be classified according to the core structural functional groups' locations as alpha- (α-), beta- (β-), gamma- (γ-) or delta- (δ-) amino acids; other categories relate to polarity, pH level, and side chain group type (aliphatic, acyclic, aromatic, containing hydroxyl or sulfur, etc.). In the form of proteins, amino acid residues form the second-largest component (water is the largest) of human muscles and other tissues.[5] Beyond their role as residues in proteins, amino acids participate in a number of processes such as neurotransmitter transport and biosynthesis.
 
 In biochemistry, amino acids having both the amine and the carboxylic acid groups attached to the first (alpha-) carbon atom have particular importance. They are known as 2-, ALPHA-, or Α-AMINO ACIDS (generic formula H₂NCHRCOOH in most cases,[6] where R is an organic substituent known as a "side chain");[7] often the term "amino acid" is used to refer specifically to these. They include the 22 proteinogenic ("protein-building") amino acids,[8][9][10] which combine into peptide chains ("polypeptides") to form the building-blocks of a vast array of proteins.[11] These are all L-stereoisomers ("left-handed" isomers), although a few D-amino acids ("right-handed") occur in bacterial envelopes, as a neuromodulator (D-serine), and in some antibiotics.[12]
@@ -22,7 +20,7 @@ The unity of the chemical category was recognized by Wurtz in 1865, but he gave 
 
 General structure
 
-Amino_Acids.svg found in eukaryotes, grouped according to their side chains' pK_(a) values and charges carried at physiological pH (7.4)]]
+found in eukaryotes, grouped according to their side chains' pK_(a) values and charges carried at physiological pH (7.4)]]
 
 In the structure shown at the top of the page, R represents a side chain specific to each amino acid. The carbon atom next to the carboxyl group (which is therefore numbered 2 in the carbon chain starting from that functional group) is called the α–carbon. Amino acids containing an amino group bonded directly to the alpha carbon are referred to as _alpha amino acids_.[35] These include amino acids such as proline which contain secondary amines, which used to be often referred to as "imino acids".[36][37][38]
 
@@ -32,7 +30,7 @@ The alpha amino acids are the most common form found in nature, but only when oc
 
 Side chains
 
-Lysine_fisher_structure_and_3d_ball.svg with carbon atoms labeled by position]]
+with carbon atoms labeled by position]]
 
 In amino acids that have a carbon chain attached to the α–carbon (such as lysine, shown to the right) the carbons are labeled in order as α, β, γ, δ, and so on.[45] In some amino acids, the amine group is attached to the β or γ-carbon, and these are therefore referred to as _beta_ or _gamma amino acids_.
 
@@ -42,13 +40,13 @@ The phrase "branched-chain amino acids" or BCAA refers to the amino acids having
 
 Zwitterions
 
-Amino_acid_zwitterions.svg The α-carboxylic acid group of amino acids is a weak acid, meaning that it releases a hydron (such as a proton) at moderate pH values. In other words, carboxylic acid groups (−CO₂H) can be deprotonated to become negatively charged carboxylates (−CO₂^(−) ). The negatively charged carboxylate ion predominates at pH values greater than the pKa of the carboxylic acid group (typically around 2.2 for the 20 common amino acids; see the table of amino acid structures above). In a complementary fashion, the α-amine of amino acids is a weak base, meaning that it accepts a proton at moderate pH values. In other words, α-amino groups (NH₂−) can be protonated to become positively charged α-ammonium groups (⁺H₃N−). The positively charged α-ammonium group predominates at pH values less than the pKa of the α-ammonium group (mean for the 20 common α-amino acids is about 9.4).
+The α-carboxylic acid group of amino acids is a weak acid, meaning that it releases a hydron (such as a proton) at moderate pH values. In other words, carboxylic acid groups (−CO₂H) can be deprotonated to become negatively charged carboxylates (−CO₂^(−) ). The negatively charged carboxylate ion predominates at pH values greater than the pKa of the carboxylic acid group (typically around 2.2 for the 20 common amino acids; see the table of amino acid structures above). In a complementary fashion, the α-amine of amino acids is a weak base, meaning that it accepts a proton at moderate pH values. In other words, α-amino groups (NH₂−) can be protonated to become positively charged α-ammonium groups (⁺H₃N−). The positively charged α-ammonium group predominates at pH values less than the pKa of the α-ammonium group (mean for the 20 common α-amino acids is about 9.4).
 
 Because all amino acids contain amine and carboxylic acid functional groups, they share amphiprotic properties.[51] Below pH 2.2, the predominant form will have a neutral carboxylic acid group and a positive α-ammonium ion (net charge +1), and above pH 9.4, a negative carboxylate and neutral α-amino group (net charge −1). At a pH between 2.2 and 9.4, an amino acid typically contains both a negative carboxylate and a positive α-ammonium group, as shown in structure (2) on the right and exhibits a net zero charge. This molecular state is known as a zwitterion, from the German __ meaning "hermaphrodite" or "hybrid".[52] The fully neutral form (structure (1) on the left) is a very minor species in aqueous solution throughout the pH range (less than 1 part in 10⁷). Altogether, amino acids exist as zwitterions in the solid phase and crystallize with salt-like properties unlike typical organic acids or amines.
 
 Isoelectric point
 
-Amino_Acid_Titration_Curves_By_Side_Chain.pngs of twenty proteinogenic amino acids grouped by side chain category]]
+s of twenty proteinogenic amino acids grouped by side chain category]]
 
 The variation in titration curves when the amino acids can be grouped by category. With the exception of tyrosine, using titration to distinguish among hydrophobic amino acids is problematic.
 
@@ -82,8 +80,6 @@ The 20 amino acids that are encoded directly by the codons of the universal gene
 The two non-standard proteinogenic amino acids are selenocysteine (present in many non-eukaryotes as well as most eukaryotes, but not coded directly by DNA) and pyrrolysine (found only in some archaea and one bacterium). The incorporation of these non-standard amino acids is rare. For example, 25 human proteins include selenocysteine (Sec) in their primary structure,[67] and the structurally characterized enzymes (selenoenzymes) employ Sec as the catalytic moiety in their active sites.[68] Pyrrolysine and selenocysteine are encoded via variant codons. For example, selenocysteine is encoded by stop codon and SECIS element.[69][70][71]
 
 In human nutrition
-
-Amino_acids_in_food_and_blood.png
 
 When taken up into the human body from the diet, the 20 standard amino acids either are used to synthesize proteins, other biomolecules, or are oxidized to urea and carbon dioxide as a source of energy.[72] The oxidation pathway starts with the removal of the amino group by a transaminase; the amino group is then fed into the urea cycle. The other product of transamidation is a keto acid that enters the citric acid cycle.[73] Glucogenic amino acids can also be converted into glucose, through gluconeogenesis.[74] Of the 20 standard amino acids, nine (His, Ile, Leu, Lys, Met, Phe, Thr, Trp and Val) are called essential amino acids because the human body cannot synthesize them from other compounds at the level needed for normal growth, so they must be obtained from food.[75][76][77] In addition, cysteine, taurine, tyrosine, and arginine are considered semiessential amino-acids in children (though taurine is not technically an amino acid), because the metabolic pathways that synthesize these amino acids are not fully developed.[78][79] The amounts required also depend on the age and health of the individual, so it is hard to make general statements about the dietary requirement for some amino acids. Dietary exposure to the non-standard amino acid BMAA has been linked to human neurodegenerative diseases, including ALS.[80][81] {{multiple image
 
@@ -146,8 +142,6 @@ Amino acids are under development as components of a range of biodegradable poly
 
 Synthesis
 
-Strecker_amino_acid_synthesis_scheme.svg
-
 Chemical synthesis
 
 The commercial production of amino acids usually relies on mutant bacteria that overproduce individual amino acids using glucose as a carbon source. Some amino acids are produced by enzymatic conversions of synthetic intermediates. 2-Aminothiazoline-4-carboxylic acid is an intermediate in one industrial synthesis of L-cysteine for example. Aspartic acid is produced by the addition of ammonia to fumarate using a lyase.[114]
@@ -167,7 +161,7 @@ Amino acids undergo the reactions expected of the constituent functional groups.
 
 Peptide bond formation
 
-Peptidformationball.svg'' through a _peptide bond_|alt=Two amino acids are shown next to each other. One loses a hydrogen and oxygen from its carboxyl group (COOH) and the other loses a hydrogen from its amino group (NH2). This reaction produces a molecule of water (H2O) and two amino acids joined by a peptide bond (-CO-NH-). The two joined amino acids are called a dipeptide.]]
+'' through a _peptide bond_|alt=Two amino acids are shown next to each other. One loses a hydrogen and oxygen from its carboxyl group (COOH) and the other loses a hydrogen from its amino group (NH2). This reaction produces a molecule of water (H2O) and two amino acids joined by a peptide bond (-CO-NH-). The two joined amino acids are called a dipeptide.]]
 
 As both the amine and carboxylic acid groups of amino acids can react to form amide bonds, one amino acid molecule can react with another and become joined through an amide linkage. This polymerization of amino acids is what creates proteins. This condensation reaction yields the newly formed peptide bond and a molecule of water. In cells, this reaction does not occur directly; instead, the amino acid is first activated by attachment to a transfer RNA molecule through an ester bond. This aminoacyl-tRNA is produced in an ATP-dependent reaction carried out by an aminoacyl tRNA synthetase.[122] This aminoacyl-tRNA is then a substrate for the ribosome, which catalyzes the attack of the amino group of the elongating protein chain on the ester bond.[123] As a result of this mechanism, all proteins made by ribosomes are synthesized starting at their N-terminus and moving toward their C-terminus.
 
@@ -179,25 +173,22 @@ The combination of functional groups allow amino acids to be effective polydenta
 
 Catabolism
 
-Catabolism of proteinogenic amino acids. Amino acids can be classified according to the properties of their main products as either of the following:[129]
-* _Glucogenic_, with the products having the ability to form glucose by gluconeogenesis
-* _Ketogenic_, with the products not having the ability to form glucose. These products may still be used for ketogenesis or lipid synthesis.
-* Amino acids catabolized into both glucogenic and ketogenic products. Amino acids must first pass out of organelles and cells into blood circulation via amino acid transporters, since the amine and carboxylic acid groups are typically ionized. Degradation of an amino acid, occurring in the liver and kidneys, often involves deamination by moving its amino group to alpha-ketoglutarate, forming glutamate. This process involves transaminases, often the same as those used in amination during synthesis. In many vertebrates, the amino group is then removed through the urea cycle and is excreted in the form of urea. However, amino acid degradation can produce uric acid or ammonia instead. For example, serine dehydratase converts serine to pyruvate and ammonia.[130] After removal of one or more amino groups, the remainder of the molecule can sometimes be used to synthesize new amino acids, or it can be used for energy by entering glycolysis or the citric acid cycle, as detailed in image at right.
+Amino acids must first pass out of organelles and cells into blood circulation via amino acid transporters, since the amine and carboxylic acid groups are typically ionized. Degradation of an amino acid, occurring in the liver and kidneys, often involves deamination by moving its amino group to alpha-ketoglutarate, forming glutamate. This process involves transaminases, often the same as those used in amination during synthesis. In many vertebrates, the amino group is then removed through the urea cycle and is excreted in the form of urea. However, amino acid degradation can produce uric acid or ammonia instead. For example, serine dehydratase converts serine to pyruvate and ammonia.[129] After removal of one or more amino groups, the remainder of the molecule can sometimes be used to synthesize new amino acids, or it can be used for energy by entering glycolysis or the citric acid cycle, as detailed in image at right.
 
 Complexation
 
-Amino acids are bidentate ligands, forming transition metal amino acid complexes.[131]
+Amino acids are bidentate ligands, forming transition metal amino acid complexes.[130]
 
-    420 px
+
 
 
 Physicochemical properties of amino acids
 
-The 20 amino acids encoded directly by the genetic code can be divided into several groups based on their properties. Important factors are charge, hydrophilicity or hydrophobicity, size, and functional groups.[132] These properties are important for protein structure and protein–protein interactions. The water-soluble proteins tend to have their hydrophobic residues (Leu, Ile, Val, Phe, and Trp) buried in the middle of the protein, whereas hydrophilic side chains are exposed to the aqueous solvent. (Note that in biochemistry, a residue refers to a specific monomer within the polymeric chain of a polysaccharide, protein or nucleic acid.) The integral membrane proteins tend to have outer rings of exposed hydrophobic amino acids that anchor them into the lipid bilayer. In the case part-way between these two extremes, some peripheral membrane proteins have a patch of hydrophobic amino acids on their surface that locks onto the membrane. In similar fashion, proteins that have to bind to positively charged molecules have surfaces rich with negatively charged amino acids like glutamate and aspartate, while proteins binding to negatively charged molecules have surfaces rich with positively charged chains like lysine and arginine. There are different hydrophobicity scales of amino acid residues.[133]
+The 20 amino acids encoded directly by the genetic code can be divided into several groups based on their properties. Important factors are charge, hydrophilicity or hydrophobicity, size, and functional groups.[131] These properties are important for protein structure and protein–protein interactions. The water-soluble proteins tend to have their hydrophobic residues (Leu, Ile, Val, Phe, and Trp) buried in the middle of the protein, whereas hydrophilic side chains are exposed to the aqueous solvent. (Note that in biochemistry, a residue refers to a specific monomer within the polymeric chain of a polysaccharide, protein or nucleic acid.) The integral membrane proteins tend to have outer rings of exposed hydrophobic amino acids that anchor them into the lipid bilayer. In the case part-way between these two extremes, some peripheral membrane proteins have a patch of hydrophobic amino acids on their surface that locks onto the membrane. In similar fashion, proteins that have to bind to positively charged molecules have surfaces rich with negatively charged amino acids like glutamate and aspartate, while proteins binding to negatively charged molecules have surfaces rich with positively charged chains like lysine and arginine. There are different hydrophobicity scales of amino acid residues.[132]
 
 Some amino acids have special properties such as cysteine, that can form covalent disulfide bonds to other cysteine residues, proline that forms a cycle to the polypeptide backbone, and glycine that is more flexible than other amino acids.
 
-Many proteins undergo a range of posttranslational modifications, when additional chemical groups are attached to the amino acids in proteins. Some modifications can produce hydrophobic lipoproteins,[134] or hydrophilic glycoproteins.[135] These type of modification allow the reversible targeting of a protein to a membrane. For example, the addition and removal of the fatty acid palmitic acid to cysteine residues in some signaling proteins causes the proteins to attach and then detach from cell membranes.[136]
+Many proteins undergo a range of posttranslational modifications, when additional chemical groups are attached to the amino acids in proteins. Some modifications can produce hydrophobic lipoproteins,[133] or hydrophilic glycoproteins.[134] These type of modification allow the reversible targeting of a protein to a membrane. For example, the addition and removal of the fatty acid palmitic acid to cysteine residues in some signaling proteins causes the proteins to attach and then detach from cell membranes.[135]
 
 Table of standard amino acid abbreviations and properties
 
@@ -210,7 +201,7 @@ Two additional amino acids are in some species coded for by codons that are usua
   Selenocysteine              Sec        U          168.064
   Pyrrolysine                 Pyl        O          255.313
 
-In addition to the specific amino acid codes, placeholders are used in cases where chemical or crystallographic analysis of a peptide or protein cannot conclusively determine the identity of a residue. They are also used to summarise conserved protein sequence motifs. The use of single letters to indicate sets of similar residues is similar to the use of abbreviation codes for degenerate bases.[137][138]
+In addition to the specific amino acid codes, placeholders are used in cases where chemical or crystallographic analysis of a peptide or protein cannot conclusively determine the identity of a residue. They are also used to summarise conserved protein sequence motifs. The use of single letters to indicate sets of similar residues is similar to the use of abbreviation codes for degenerate bases.[136][137]
 
   Ambiguous amino acids         3-letter   1-letter   Amino Acids Included        Codons Included
   ----------------------------- ---------- ---------- --------------------------- -----------------------------------------------------------------------------------------------------
@@ -228,7 +219,7 @@ In addition to the specific amino acid codes, placeholders are used in cases whe
 
 UNK is sometimes used instead of XAA, but is less standard.
 
-In addition, many non-standard amino acids have a specific code. For example, several peptide drugs, such as Bortezomib and MG132, are artificially synthesized and retain their protecting groups, which have specific codes. Bortezomib is Pyz-Phe-boroLeu, and MG132 is Z-Leu-Leu-Leu-al. To aid in the analysis of protein structure, photo-reactive amino acid analogs are available. These include photoleucine (PLEU) and photomethionine (PMET).[139]
+In addition, many non-standard amino acids have a specific code. For example, several peptide drugs, such as Bortezomib and MG132, are artificially synthesized and retain their protecting groups, which have specific codes. Bortezomib is Pyz-Phe-boroLeu, and MG132 is Z-Leu-Leu-Leu-al. To aid in the analysis of protein structure, photo-reactive amino acid analogs are available. These include photoleucine (PLEU) and photomethionine (PMET).[138]
 
 
 See also
@@ -516,7 +507,7 @@ Amino_acids Category:Nitrogen cycle Category:Zwitterions
 
 [128]
 
-[129] Stipanuk, M. H. (2006). Biochemical, physiological, & molecular aspects of human nutrition (2 ed.): Saunders Elsevier.
+[129]
 
 [130]
 
@@ -535,5 +526,3 @@ Amino_acids Category:Nitrogen cycle Category:Zwitterions
 [137]
 
 [138]
-
-[139]

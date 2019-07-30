@@ -1,4 +1,4 @@
-Alicha_1.jpg'' and several kinds of _wat_ (stew) is typical of Ethiopian cuisine.]] LocationEthiopia.svg]]
+'' and several kinds of _wat_ (stew) is typical of Ethiopian cuisine.]] ]]
 
 ETHIOPIAN CUISINE () characteristically consists of vegetable and often very spicy meat dishes. This is usually in the form of _wat,_ a thick stew, served atop _injera_, a large sourdough flatbread,[1] which is about in diameter and made out of fermented teff flour.[2] Ethiopians eat most of the time with their right hands, using pieces of _injera_ to pick up bites of entrées and side dishes.[3].
 
@@ -7,7 +7,7 @@ The Ethiopian Orthodox Tewahedo Church prescribes a number of fasting periods (_
 
 Overview
 
-Kita_herb_bread.jpg A typical dish consists of injera accompanied by a spicy stew, which frequently includes beef, lamb, vegetables and various types of legumes, such as lentils. Gurage cuisine also makes use of the false banana plant (_enset_, Ge'ez: እንሰት _inset_), a type of ensete. The plant is pulverized and fermented to make a bread-like food called _qocho_ or _kocho_ (Ge'ez: ቆጮ _ḳōč̣ō_), which is eaten with kitfo.[5] The root of this plant may be powdered and prepared as a hot drink called _bulla_ (Ge'ez: ቡላ _būlā_), which is often given to those who are tired or ill. Another typical Gurage preparation is coffee with butter (_kebbeh_). _Kita_ herb bread is also baked.
+A typical dish consists of injera accompanied by a spicy stew, which frequently includes beef, lamb, vegetables and various types of legumes, such as lentils. Gurage cuisine also makes use of the false banana plant (_enset_, Ge'ez: እንሰት _inset_), a type of ensete. The plant is pulverized and fermented to make a bread-like food called _qocho_ or _kocho_ (Ge'ez: ቆጮ _ḳōč̣ō_), which is eaten with kitfo.[5] The root of this plant may be powdered and prepared as a hot drink called _bulla_ (Ge'ez: ቡላ _būlā_), which is often given to those who are tired or ill. Another typical Gurage preparation is coffee with butter (_kebbeh_). _Kita_ herb bread is also baked.
 
 Pasta is frequently available throughout Ethiopia, including rural areas.[6] Coffee is also a large part of Ethiopian culture and cuisine. After every meal, a coffee ceremony is enacted and coffee is served.
 
@@ -19,7 +19,7 @@ Ethiopian Orthodox Christians, Jews and Muslims avoid eating pork or shellfish, 
 
 Traditional ingredients
 
-BerbereOtherIngredients.JPG or radhuni, korarima, nigella and fenugreek (clockwise, from top) are used with chilis and salt to make _berbere_, a basic ingredient in many Ethiopian dishes.]] _Berbere_, a combination of powdered chili pepper and other spices (somewhat analogous to Southwestern American chili powder), is an important ingredient used in many dishes. Also essential is _niter kibbeh_, a clarified butter infused with ginger, garlic, and several spices.[7][8]
+or radhuni, korarima, nigella and fenugreek (clockwise, from top) are used with chilis and salt to make _berbere_, a basic ingredient in many Ethiopian dishes.]] _Berbere_, a combination of powdered chili pepper and other spices (somewhat analogous to Southwestern American chili powder), is an important ingredient used in many dishes. Also essential is _niter kibbeh_, a clarified butter infused with ginger, garlic, and several spices.[7][8]
 
 _Mitmita_ (, ) is a powdered seasoning mix used in Ethiopian cuisine. It is orange-red in color and contains ground birdseye chili peppers (piri piri), cardamom seed, cloves and salt.[9] It occasionally has other spices including cinnamon, cumin and ginger.
 
@@ -30,7 +30,7 @@ Dishes
 
 Wat
 
-Ethiopian_food.jpg]] _Wat_ begins with a large amount of chopped red onion, which is simmered or sauteed in a pot. Once the onions have softened, _niter kebbeh_ (or, in the case of vegan dishes, vegetable oil) is added. Following this, _berbere_ is added to make a spicy _keiy wat_ or _keyyih tsebhi_. Turmeric is used instead of _berbere_ for a milder _alicha wat_ or both spices are omitted when making vegetable stews, such as atkilt wat. Meat such as beef (_ሥጋ_,[11] _səga_), chicken (_ዶሮ_,[12] _doro_ or _derho_), fish (_ዓሣ_,[13] _asa_), goat or lamb (_በግ_,[14] _beg_ or _beggi_) is also added. Legumes such as split peas (_ክክ_,[15] _kək_ or _kikki_) and lentils (_ምስር_,[16] _məsər_ or _birsin_); or vegetables such as potatoes (_ድንች_,[17] _Dənəch_), carrots and chard (ቆስጣ) are also used instead in vegan dishes.
+]] _Wat_ begins with a large amount of chopped red onion, which is simmered or sauteed in a pot. Once the onions have softened, _niter kebbeh_ (or, in the case of vegan dishes, vegetable oil) is added. Following this, _berbere_ is added to make a spicy _keiy wat_ or _keyyih tsebhi_. Turmeric is used instead of _berbere_ for a milder _alicha wat_ or both spices are omitted when making vegetable stews, such as atkilt wat. Meat such as beef (_ሥጋ_,[11] _səga_), chicken (_ዶሮ_,[12] _doro_ or _derho_), fish (_ዓሣ_,[13] _asa_), goat or lamb (_በግ_,[14] _beg_ or _beggi_) is also added. Legumes such as split peas (_ክክ_,[15] _kək_ or _kikki_) and lentils (_ምስር_,[16] _məsər_ or _birsin_); or vegetables such as potatoes (_ድንች_,[17] _Dənəch_), carrots and chard (ቆስጣ) are also used instead in vegan dishes.
 
 Each variation is named by appending the main ingredient to the type of wat (e.g. _kek alicha wat_). However, the word _keiy_ is usually not necessary, as the spicy variety is assumed when it is omitted (e.g. _doro wat_). The term _atkilt wat_ is sometimes used to refer to all vegetable dishes, but a more specific name can also be used (as in _dinich'na caroht wat_, which translates to "potatoes and carrots stew"; but notice the word "atkilt" is usually omitted when using the more specific term).
 
@@ -46,7 +46,7 @@ Kinche (Qinch’e) is a very common Ethiopian breakfast, its equivalent of oatme
 
 Oromo dishes
 
-Tibs_in_Yod_Abyssinia.jpg]]
+]]
 
 -   WAADII – also known as _tibs_; specially seasoned
 -   ANCHOTTE – a common dish in the western part of Oromia (Wallaga)
@@ -62,7 +62,7 @@ Gurage dishes
 
 Kitfo
 
-Kitfo.jpg served rare]] Another distinctively Ethiopian dish is _kitfo_ (frequently spelled _ketfo_). It consists of raw (or rare) beef mince marinated in _mitmita_ (Ge'ez: ሚጥሚጣ _mīṭmīṭā_ a very spicy chili powder similar to the _berbere_) and _niter kibbeh_. _Gored gored_ is very similar to _kitfo_, but uses cubed rather than ground beef.
+served rare]] Another distinctively Ethiopian dish is _kitfo_ (frequently spelled _ketfo_). It consists of raw (or rare) beef mince marinated in _mitmita_ (Ge'ez: ሚጥሚጣ _mīṭmīṭā_ a very spicy chili powder similar to the _berbere_) and _niter kibbeh_. _Gored gored_ is very similar to _kitfo_, but uses cubed rather than ground beef.
 
 Ayibe
 
@@ -74,7 +74,7 @@ _Gomen kitfo_ is another typical Gurage dish. Collard greens (ጎመን _gōmen_
 
 Breakfast
 
-Kitcha_fit_fit.png, or chechebsa, made with kitcha (unleavened bread), niter kibbeh (seasoned clarified butter) and berbere (spice), is a typical breakfast food.]] _Fit-fit_ or _fir-fir_ is a common breakfast dish. It is made from shredded _injera_ or _kitcha_ stir-fried with spices or wat. Another popular breakfast food is _fatira_. The delicacy consists of a large fried pancake made with flour, often with a layer of egg. It is eaten with honey. _Chechebsa_ (or _kita firfir_) resembles a pancake covered with _berbere_ and _niter kibbeh_, or other spices, and may be eaten with a spoon. _Genfo_ is a kind of porridge, which is another common breakfast dish. It is usually served in a large bowl with a dug-out made in the middle of the genfo and filled with spiced _niter kibbeh_. A variation of _ful_, a fava bean stew with condiments, served with baked rolls instead of _injera_, is also common for breakfast.
+, or chechebsa, made with kitcha (unleavened bread), niter kibbeh (seasoned clarified butter) and berbere (spice), is a typical breakfast food.]] _Fit-fit_ or _fir-fir_ is a common breakfast dish. It is made from shredded _injera_ or _kitcha_ stir-fried with spices or wat. Another popular breakfast food is _fatira_. The delicacy consists of a large fried pancake made with flour, often with a layer of egg. It is eaten with honey. _Chechebsa_ (or _kita firfir_) resembles a pancake covered with _berbere_ and _niter kibbeh_, or other spices, and may be eaten with a spoon. _Genfo_ is a kind of porridge, which is another common breakfast dish. It is usually served in a large bowl with a dug-out made in the middle of the genfo and filled with spiced _niter kibbeh_. A variation of _ful_, a fava bean stew with condiments, served with baked rolls instead of _injera_, is also common for breakfast.
 
 
 Snacks
@@ -123,7 +123,7 @@ Borde is famous in the southern Ethiopia regions.[26]
 
 Manufactured drinks
 
-Just like the rest of the world Ethiopians also enjoy several locally manufactured beers,wine and non alcoholic products like Coca Cola and other similar products.Ethiopian_Coca_Cola_bottle.JPG bottle in Ethiopia, with the distinct logo in the Ethiopic script]] Ambo Mineral Water or _Ambo wuha_ is a bottled carbonated mineral water, sourced from the springs in Ambo Senkele near the town of Ambo.[27][28]
+Just like the rest of the world Ethiopians also enjoy several locally manufactured beers,wine and non alcoholic products like Coca Cola and other similar products. bottle in Ethiopia, with the distinct logo in the Ethiopic script]] Ambo Mineral Water or _Ambo wuha_ is a bottled carbonated mineral water, sourced from the springs in Ambo Senkele near the town of Ambo.[27][28]
 
 Non-alcoholic brews (hot drinks)
 
@@ -133,7 +133,7 @@ _Atmet_ is a barley and oat-flour based drink that is cooked with water, sugar a
 
 Coffee
 
-Ethcofcerm.jpg]] According to some sources, drinking of coffee (_buna_) is likely to have originated in Ethiopia.[29] A key national beverage, it is an important part of local commerce.[30]
+]] According to some sources, drinking of coffee (_buna_) is likely to have originated in Ethiopia.[29] A key national beverage, it is an important part of local commerce.[30]
 
 The coffee ceremony is the traditional serving of coffee, usually after a big meal. It often involves the use of a _jebena_ (ጀበና), a clay coffee pot in which the coffee is boiled. The preparer roasts the coffee beans in front of guests, then walks around wafting the smoke throughout the room so participants may sample the scent of coffee. Then the preparer grinds the coffee beans in a traditional tool called a _mokecha_. The coffee is put into the jebena, boiled with water, and then served in small cups called _si'ni_. Coffee is usually served with sugar, but is also served with salt in many parts of Ethiopia. In some parts of the country, _niter kibbeh_ is added instead of sugar or salt.
 

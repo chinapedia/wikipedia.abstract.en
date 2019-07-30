@@ -5,14 +5,14 @@ The term EQUID refers to any member of this family, including any equine.
 
 Evolution
 
-Extinct_horses.jpg'', _Neohipparion_, _Eohippus_, _Equus scotti_ and _Hypohippus_]] The oldest known fossils assigned to Equidae date from the early Eocene, 54 million years ago. They used to be assigned to the genus _Hyracotherium_, but the type species of that genus now is regarded to be not a member of this family. The other species have been split off into different genera. These early Equidae were fox-sized animals with three toes on the hind feet, and four on the front feet. They were herbivorous browsers on relatively soft plants, and already adapted for running. The complexity of their brains suggest that they already were alert and intelligent animals.[1] Later species reduced the number of toes, and developed teeth more suited for grinding up grasses and other tough plant food.
+'', _Neohipparion_, _Eohippus_, _Equus scotti_ and _Hypohippus_]] The oldest known fossils assigned to Equidae date from the early Eocene, 54 million years ago. They used to be assigned to the genus _Hyracotherium_, but the type species of that genus now is regarded to be not a member of this family. The other species have been split off into different genera. These early Equidae were fox-sized animals with three toes on the hind feet, and four on the front feet. They were herbivorous browsers on relatively soft plants, and already adapted for running. The complexity of their brains suggest that they already were alert and intelligent animals.[1] Later species reduced the number of toes, and developed teeth more suited for grinding up grasses and other tough plant food.
 
 The family became relatively diverse during the Miocene, with many new species appearing. By this time, equids were more truly horse-like, having developed the typical body shape of the modern animals.[2] Many of these species bore the main weight of their bodies on their central, third, toe, with the others becoming reduced, and barely touching the ground, if at all. The sole surviving genus, _Equus_, had evolved by the early Pleistocene, and spread rapidly through the world.[3]
 
 
 Classification
 
-Equine_evolution.jpg F_John_Series_2_Protorohippus_card_5.jpg Hipparion3.jpg Equus_przewalskii_Le_Villaret_02_2006-07-20.jpg)]]
+)]]
 
 -   ORDER _PERISSODACTYLA_ (In addition to Equidae, Perissodactyla includes four species of tapir in a single genus, as well as five living species (belonging to four genera) of rhinoceros.) † indicates extinct taxa.
     -   Family EQUIDAE

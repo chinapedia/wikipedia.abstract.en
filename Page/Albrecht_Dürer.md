@@ -1,6 +1,6 @@
 ALBRECHT DÜRER (;[1] ;[2][3][4] 21 May 1471 – 6 April 1528)[5] sometimes spelt in English as DURER or DUERER, without umlaut, was a painter, printmaker, and theorist of the German Renaissance. Born in Nuremberg, Dürer established his reputation and influence across Europe when he was still in his twenties due to his high-quality woodcut prints. He was in communication with the major Italian artists of his time, including Raphael, Giovanni Bellini and Leonardo da Vinci, and from 1512 he was patronized by Emperor Maximilian I. Dürer is commemorated by both the Lutheran and Episcopal Churches.
 
-Albrecht_Dürer_-_1500_self-portrait_(High_resolution_and_detail).jpg (1500)]]
+(1500)]]
 
 Dürer's vast body of work includes engravings, his preferred technique in his later prints, altarpieces, portraits and self-portraits, watercolours and books. The woodcuts, such as the _Apocalypse_ series (1498), are more Gothic than the rest of his work. His well-known engravings include the _Knight, Death and the Devil_ (1513), _Saint Jerome in his Study_ (1514) and _Melencolia I_ (1514), which has been the subject of extensive analysis and interpretation. His watercolours also mark him as one of the first European landscape artists, while his ambitious woodcuts revolutionized the potential of that medium.
 
@@ -11,11 +11,11 @@ Biography
 
 Early life (1471–1490)
 
-Self-portrait_at_13_by_Albrecht_Dürer.jpg silverpoint drawing by the thirteen-year-old Dürer, 1484]]
+silverpoint drawing by the thirteen-year-old Dürer, 1484]]
 
 Dürer was born on 21 May 1471, third child and second son of his parents, who had at least fourteen and possibly as many as eighteen children. His father, Albrecht Dürer the Elder (originally Albrecht Ajtósi), was a successful goldsmith who in 1455 had moved to Nuremberg from , near Gyula in Hungary.[6] One of Albrecht's brothers, Hans Dürer, was also a painter and trained under him. Another of Albrecht's brothers, Endres Dürer, took over their father's business and was a master goldsmith.[7] The German name "Dürer" is a translation from the Hungarian, "Ajtósi".[8] Initially, it was "Türer", meaning doormaker, which is "ajtós" in Hungarian (from "ajtó", meaning door). A door is featured in the coat-of-arms the family acquired. Albrecht Dürer the Younger later changed "Türer", his father's diction of the family's surname, to "Dürer", to adapt to the local Nuremberg dialect. Dürer the Elder married Barbara Holper, daughter of his master when he himself qualified as a master in 1467.[9]
 
-Coat_of_Arms_of_Albrecht_Dürer_MET_DP816462.jpg, which featured a door as a pun on his name, as well as the winged bust of a Moor]]
+, which featured a door as a pun on his name, as well as the winged bust of a Moor]]
 
 Dürer's godfather was Anton Koberger, who left goldsmithing to become a printer and publisher in the year of Dürer's birth, and became the most successful publisher in Germany, eventually owning twenty-four printing-presses and built a number of offices in Germany and abroad. Koberger's most famous publication was the _Nuremberg Chronicle_, published in 1493 in German and Latin editions. It contained an unprecedented 1,809 woodcut illustrations (albeit with many repeated uses of the same block) by the Wolgemut workshop. Dürer may have worked on some of these, as the work on the project began while he was with Wolgemut.[10]
 
@@ -23,7 +23,7 @@ Because Dürer left autobiographical writings and became very famous by his mid-
 
 _Wanderjahre_ and marriage (1490–1494)
 
-Albrecht-self.jpg'' (1493) by Albrecht Dürer, oil, originally on vellum (Louvre, Paris)]]
+'' (1493) by Albrecht Dürer, oil, originally on vellum (Louvre, Paris)]]
 
 After completing his apprenticeship, Dürer followed the common German custom of taking _Wanderjahre_—in effect gap years—in which the apprentice learned skills from artists in other areas; Dürer was to spend about four years away. He left in 1490, possibly to work under Martin Schongauer, the leading engraver of Northern Europe, but who died shortly before Dürer's arrival at Colmar in 1492. It is unclear where Dürer travelled in the intervening period, though it is likely that he went to Frankfurt and the Netherlands. In Colmar, Dürer was welcomed by Schongauer's brothers, the goldsmiths Caspar and Paul and the painter Ludwig. In 1493 Dürer went to Strasbourg, where he would have experienced the sculpture of Nikolaus Gerhaert. Dürer's first painted self-portrait (now in the Louvre) was painted at this time, probably to be sent back to his fiancée in Nuremberg.[12]
 
@@ -31,27 +31,25 @@ In early 1492 Dürer travelled to Basel to stay with another brother of Martin S
 
 First journey to Italy (1494–1495)
 
-Agnes_Duerer_1494.jpg
-
 Within three months of his marriage, Dürer left for Italy, alone, perhaps stimulated by an outbreak of plague in Nuremberg. He made watercolour sketches as he traveled over the Alps. Some have survived and others may be deduced from accurate landscapes of real places in his later work, for example his engraving _Nemesis_.
 
 In Italy, he went to Venice to study its more advanced artistic world.[16] Through Wolgemut's tutelage, Dürer had learned how to make prints in drypoint and design woodcuts in the German style, based on the works of Martin Schongauer and the Housebook Master.[17] He also would have had access to some Italian works in Germany, but the two visits he made to Italy had an enormous influence on him. He wrote that Giovanni Bellini was the oldest and still the best of the artists in Venice. His drawings and engravings show the influence of others, notably Antonio Pollaiuolo, with his interest in the proportions of the body; Lorenzo di Credi; and Andrea Mantegna, whose work he produced copies of while training.[18] Dürer probably also visited Padua and Mantua on this trip.[19]
 
 Return to Nuremberg (1495–1505)
 
-Albrecht_Dürer_-_Melencolia_I_-_Google_Art_Project_(427760).jpg'' (1514), engraving]]
+'' (1514), engraving]]
 
 On his return to Nuremberg in 1495, Dürer opened his own workshop (being married was a requirement for this). Over the next five years his style increasingly integrated Italian influences into underlying Northern forms. Arguably his best works in the first years of the workshop were his woodcut prints, mostly religious, but including secular scenes such as _The Men's Bath House_ (ca. 1496). These were larger and more finely cut than the great majority of German woodcuts hitherto, and far more complex and balanced in composition.
 
 It is now thought unlikely that Dürer cut any of the woodblocks himself; this task would have been performed by a specialist craftsman. However, his training in Wolgemut's studio, which made many carved and painted altarpieces and both designed and cut woodblocks for woodcut, evidently gave him great understanding of what the technique could be made to produce, and how to work with block cutters. Dürer either drew his design directly onto the woodblock itself, or glued a paper drawing to the block. Either way, his drawings were destroyed during the cutting of the block.
 
-Albrecht_Dürer_-_Portrait_of_Oswolt_Krel_-_WGA6934.jpg (Lake Constance), participating in the South German medieval trade corporation Große Ravensburger Handelsgesellschaft, 1499.]]
+(Lake Constance), participating in the South German medieval trade corporation Große Ravensburger Handelsgesellschaft, 1499.]]
 
 His famous series of sixteen great designs for the _Apocalypse[20]_ is dated 1498, as is his engraving of'' St. Michael Fighting the Dragon''. He made the first seven scenes of the _Great Passion_ in the same year, and a little later, a series of eleven on the Holy Family and saints. The _Seven Sorrows Polyptych_, commissioned by Frederick III of Saxony in 1496, was executed by Dürer and his assistants c. 1500. In 1502, Dürer's father died. Around 1503–1505 Dürer produced the first 17 of a set illustrating the _Life of the Virgin_, which he did not finish for some years. Neither these nor the _Great Passion_ were published as sets until several years later, but prints were sold individually in considerable numbers.[21]
 
 During the same period Dürer trained himself in the difficult art of using the burin to make engravings. It is possible he had begun learning this skill during his early training with his father, as it was also an essential skill of the goldsmith. In 1496 he executed the _Prodigal Son_, which the Italian Renaissance art historian Giorgio Vasari singled out for praise some decades later, noting its Germanic quality. He was soon producing some spectacular and original images, notably _Nemesis_ (1502), _The Sea Monster_ (1498), and _Saint Eustace_ (c. 1501), with a highly detailed landscape background and animals. His landscapes of this period, such as _Pond in the Woods_ and _Willow Mill_, are quite different from his earlier watercolours. There is a much greater emphasis on capturing atmosphere, rather than depicting topography. He made a number of Madonnas, single religious figures, and small scenes with comic peasant figures. Prints are highly portable and these works made Dürer famous throughout the main artistic centres of Europe within a very few years.[22]
 
-Albrecht_Dürer_Betende_Hände.jpg'', pen-and-ink drawing (c. 1508)]]
+'', pen-and-ink drawing (c. 1508)]]
 
 The Venetian artist Jacopo de' Barbari, whom Dürer had met in Venice, visited Nuremberg in 1500, and Dürer said that he learned much about the new developments in perspective, anatomy, and proportion from him. De' Barbari was unwilling to explain everything he knew, so Dürer began his own studies, which would become a lifelong preoccupation. A series of extant drawings show Dürer's experiments in human proportion, leading to the famous engraving of _Adam and Eve_ (1504), which shows his subtlety while using the burin in the texturing of flesh surfaces.[23] This is the only existing engraving signed with his full name.
 
@@ -59,13 +57,13 @@ Dürer created large numbers of preparatory drawings, especially for his paintin
 
 Second journey to Italy (1505–1507)
 
-Albrecht_Dürer_-_Jesus_among_the_Doctors_-_Google_Art_Project.jpg'' (1506), Thyssen-Bornemisza Museum]]
+'' (1506), Thyssen-Bornemisza Museum]]
 
 In Italy, he returned to painting, at first producing a series of works executed in tempera on linen. These include portraits and altarpieces, notably, the Paumgartner altarpiece and the _Adoration of the Magi_. In early 1506, he returned to Venice and stayed there until the spring of 1507.[24] By this time Dürer's engravings had attained great popularity and were being copied. In Venice he was given a valuable commission from the emigrant German community for the church of San Bartolomeo. This was the altar-piece known as the _Adoration of the Virgin_ or the _Feast of Rose Garlands_. It includes portraits of members of Venice's German community, but shows a strong Italian influence. It was subsequently acquired by the Emperor Rudolf II and taken to Prague. Other paintings Dürer produced in Venice include _The Virgin and Child with the Goldfinch_, _Christ among the Doctors_ (supposedly produced in a mere five days), and a number of smaller works.
 
 Nuremberg and the masterworks (1507–1520)
 
-Albrecht_Dürer,_Adam_and_Eve,_1504,_Engraving.jpg Albrecht_Dürer_-_Adam_and_Eve_(Prado)_2.jpg'', 1507, Museo del Prado]]
+'', 1507, Museo del Prado]]
 
 Despite the regard in which he was held by the Venetians, Dürer returned to Nuremberg by mid-1507, remaining in Germany until 1520. His reputation had spread throughout Europe and he was on friendly terms and in communication with most of the major artists including Raphael, Giovanni Bellini and—mainly through Lorenzo di Credi—Leonardo da Vinci.
 
@@ -77,15 +75,13 @@ In 1515, he created his _woodcut of a Rhinoceros_ which had arrived in Lisbon fr
 
 Patronage of Maximilian I
 
-Albrecht_Dürer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg
-
 From 1512, Maximilian I became Dürer's major patron. His commissions included _The Triumphal Arch_, a vast work printed from 192 separate blocks, the symbolism of which is partly informed by Pirckheimer's translation of Horapollo's _Hieroglyphica_. The design program and explanations were devised by Johannes Stabius, the architectural design by the master builder and court-painter Jörg Kölderer and the woodcutting itself by Hieronymous Andreae, with Dürer as designer-in-chief. _The Arch_ was followed by _The Triumphal Procession_, the program of which was worked out in 1512 by Marx Treitz-Saurwein and includes woodcuts by Albrecht Altdorfer and Hans Springinklee, as well as Dürer.
 
 Dürer worked with pen on the marginal images for an edition of the Emperor's printed Prayer-Book; these were quite unknown until facsimiles were published in 1808 as part of the first book published in lithography. Dürer's work on the book was halted for an unknown reason, and the decoration was continued by artists including Lucas Cranach the Elder and Hans Baldung. Dürer also made several portraits of the Emperor, including one shortly before Maximilian's death in 1519.
 
 Journey to the Netherlands (1520–1521)
 
-Bezoek_van_Albrecht_Dürer_in_Antwerpen_in_1520,_Henri_Leys,_1855,_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen,_2198.jpg, 1855, Royal Museum of Fine Arts Antwerp, 2198]] Maximilian's death came at a time when Dürer was concerned he was losing "my sight and freedom of hand" (perhaps caused by arthritis) and increasingly affected by the writings of Martin Luther.[29] In July 1520 Dürer made his fourth and last major journey, to renew the Imperial pension Maximilian had given him and to secure the patronage of the new emperor, Charles V, who was to be crowned at Aachen. Dürer journeyed with his wife and her maid via the Rhine to Cologne and then to Antwerp, where he was well received and produced numerous drawings in silverpoint, chalk and charcoal. In addition to going to the coronation, he made excursions to Cologne (where he admired the painting of Stefan Lochner), Nijmegen, 's-Hertogenbosch, Bruges (where he saw Michelangelo's Madonna of Bruges), Ghent (where he admired van Eyck's altarpiece), and Zeeland.
+, 1855, Royal Museum of Fine Arts Antwerp, 2198]] Maximilian's death came at a time when Dürer was concerned he was losing "my sight and freedom of hand" (perhaps caused by arthritis) and increasingly affected by the writings of Martin Luther.[29] In July 1520 Dürer made his fourth and last major journey, to renew the Imperial pension Maximilian had given him and to secure the patronage of the new emperor, Charles V, who was to be crowned at Aachen. Dürer journeyed with his wife and her maid via the Rhine to Cologne and then to Antwerp, where he was well received and produced numerous drawings in silverpoint, chalk and charcoal. In addition to going to the coronation, he made excursions to Cologne (where he admired the painting of Stefan Lochner), Nijmegen, 's-Hertogenbosch, Bruges (where he saw Michelangelo's Madonna of Bruges), Ghent (where he admired van Eyck's altarpiece), and Zeeland.
 
 Dürer took a large stock of prints with him and wrote in his diary to whom he gave, exchanged or sold them, and for how much. This provides rare information of the monetary value placed on prints at this time. Unlike paintings, their sale was very rarely documented.[30] While providing valuable documentary evidence, Dürer's Netherlandish diary also reveals that the trip was not a profitable one. For example, Dürer offered his last portrait of Maximilian to his daughter, Margaret of Austria, but eventually traded the picture for some white cloth after Margaret disliked the portrait and declined to accept it. During this trip he also met Bernard van Orley, Jan Provoost, Gerard Horenbout, Jean Mone, Joachim Patinir and Tommaso Vincidor, though he did not, it seems, meet Quentin Matsys.[31]
 
@@ -95,13 +91,9 @@ Having secured his pension, Dürer finally returned home in July 1521, having ca
 
 Final years in Nuremberg (1521–1528)
 
-Salvator_Mundi,_by_Albrecht_Dürer,_MET.jpg
-
 On his return to Nuremberg, Dürer worked on a number of grand projects with religious themes, including a crucifixion scene and a Sacra conversazione, though neither was completed.[35] This may have been due in part to his declining health, but perhaps also because of the time he gave to the preparation of his theoretical works on geometry and perspective, the proportions of men and horses, and fortification.
 
 However, one consequence of this shift in emphasis was that during the last years of his life, Dürer produced comparatively little as an artist. In painting, there was only a portrait of Hieronymus Holtzschuher, a _Madonna and Child_ (1526), ''Salvator Mundi '' (1526), and two panels showing St. John with St. Peter in background and St. Paul with St. Mark in the background. This last great work, the Four Apostles, was given by Dürer to the City of Nuremberg—although he was given 100 guilders in return.[36]
-
-Dürer_Salvator_Mundi_detail.jpg
 
 As for engravings, Dürer's work was restricted to portraits and illustrations for his treatise. The portraits include Cardinal-Elector Albert of Mainz; Frederick the Wise, elector of Saxony; the humanist scholar Willibald Pirckheimer; Philipp Melanchthon, and Erasmus of Rotterdam. For those of the Cardinal, Melanchthon, and Dürer's final major work, a drawn portrait of the Nuremberg patrician Ulrich Starck, Dürer depicted the sitters in profile, perhaps reflecting a more mathematical approach.
 
@@ -111,18 +103,16 @@ Dürer died in Nuremberg at the age of 56, leaving an estate valued at 6,874 flo
 
 Dürer and the Reformation
 
-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg in Nuremberg]]
+in Nuremberg]]
 
 Dürer's writings suggest that he may have been sympathetic to Martin Luther's ideas, though it is unclear if he ever left the Catholic Church. Dürer wrote of his desire to draw Luther in his diary in 1520: "And God help me that I may go to Dr. Martin Luther; thus I intend to make a portrait of him with great care and engrave him on a copper plate to create a lasting memorial of the Christian man who helped me overcome so many difficulties."[41] In a letter to Nicholas Kratzer in 1524, Dürer wrote "because of our Christian faith we have to stand in scorn and danger, for we are reviled and called heretics". Most tellingly, Pirckheimer wrote in a letter to Johann Tscherte in 1530: "I confess that in the beginning I believed in Luther, like our Albert of blessed memory ... but as anyone can see, the situation has become worse." Dürer may even have contributed to the Nuremberg City Council's mandating Lutheran sermons and services in March 1525. Notably, Dürer had contacts with various reformers, such as Zwingli, Andreas Karlstadt, Melanchthon, Erasmus and Cornelius Grapheus from whom Dürer received Luther's _Babylonian Captivity_ in 1520.[42] From 1525, however, "the year that saw the peak and collapse of the Peasants' War, the artist can be seen to distance himself somewhat from the [Lutheran] movement...."[43]
-
-Landscape_with_a_Large_Cannon_MET_MM7867.jpg
 
 Dürer's later works have also been claimed to show Protestant sympathies. For example, his woodcut of _The Last Supper_ of 1523 has often been understood to have an evangelical theme, focussing as it does on Christ espousing the Gospel, as well the inclusion of the Eucharistic cup, an expression of Protestant utraquism,[44] although this interpretation has been questioned.[45] The delaying of the engraving of St Philip, completed in 1523 but not distributed until 1526, may have been due to Dürer's uneasiness with images of Saints; even if Dürer was not an iconoclast, in his last years he evaluated and questioned the role of art in religion.[46]
 
 
 Legacy and influence
 
-Albrecht_Dürer_-_Adoration_of_the_Trinity_(Landauer_Altar)_-_Google_Art_Project.jpg Albrecht_Dürer_-_Feast_of_Rose_Garlands_-_Google_Art_Project.jpg'' (1506)]] Albrecht_Dürer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg, Florence]]
+'' (1506)]] , Florence]]
 
 Dürer exerted a huge influence on the artists of succeeding generations, especially in printmaking, the medium through which his contemporaries mostly experienced his art, as his paintings were predominantly in private collections located in only a few cities. His success in spreading his reputation across Europe through prints was undoubtedly an inspiration for major artists such as Raphael, Titian, and Parmigianino, all of whom collaborated with printmakers in order to promote and distribute their work.
 
@@ -150,8 +140,6 @@ In architecture Dürer cites Vitruvius but elaborates his own classical designs 
 In all these, Dürer shows the objects as nets. Finally, Dürer discusses the Delian Problem and moves on to the 'construzione legittima', a method of depicting a cube in two dimensions through linear perspective. It was in Bologna that Dürer was taught (possibly by Luca Pacioli or Bramante) the principles of linear perspective, and evidently became familiar with the 'costruzione legittima' in a written description of these principles found only, at this time, in the unpublished treatise of Piero della Francesca. He was also familiar with the 'abbreviated construction' as described by Alberti and the geometrical construction of shadows, a technique of Leonardo da Vinci. Although Dürer made no innovations in these areas, he is notable as the first Northern European to treat matters of visual representation in a scientific way, and with understanding of Euclidean principles. In addition to these geometrical constructions, Dürer discusses in this last book of _Underweysung der Messung_ an assortment of mechanisms for drawing in perspective from models and provides woodcut illustrations of these methods that are often reproduced in discussions of perspective.
 
 _Four Books on Human Proportion_
-
-Dürer_-_Vier_Bücher_von_menschlicher_Proportion_ita.,_1594_-_168613_Illustrazione_3v.jpg
 
 Dürer's work on human proportions is called the _Four Books on Human Proportion_ (_Vier Bücher von Menschlicher Proportion_) of 1528.[52] The first book was mainly composed by 1512/13 and completed by 1523, showing five differently constructed types of both male and female figures, all parts of the body expressed in fractions of the total height. Dürer based these constructions on both Vitruvius and empirical observations of "two to three hundred living persons",[53] in his own words. The second book includes eight further types, broken down not into fractions but an Albertian system, which Dürer probably learned from Francesco di Giorgio's 'De harmonica mundi totius' of 1525. In the third book, Dürer gives principles by which the proportions of the figures can be modified, including the mathematical simulation of convex and concave mirrors; here Dürer also deals with human physiognomy. The fourth book is devoted to the theory of movement.
 

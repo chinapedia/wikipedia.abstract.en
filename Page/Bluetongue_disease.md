@@ -3,7 +3,7 @@ BLUETONGUE DISEASE is a noncontagious, insect-borne, viral disease of ruminants,
 
 Signs
 
-FCO-brebis.jpg Bluetongue_in_Captive_Yak.gif infected with _Bluetongue virus_. Tongue is swollen, cyanotic, and protruding from the mouth.]] In sheep, BTV causes an acute disease with high morbidity and mortality. BTV also infects goats, cattle and other domestic animals as well as wild ruminants (for example, blesbuck, white-tailed deer, elk, and pronghorn antelope).[2]
+infected with _Bluetongue virus_. Tongue is swollen, cyanotic, and protruding from the mouth.]] In sheep, BTV causes an acute disease with high morbidity and mortality. BTV also infects goats, cattle and other domestic animals as well as wild ruminants (for example, blesbuck, white-tailed deer, elk, and pronghorn antelope).[2]
 
 Major signs are high fever, excessive salivation, swelling of the face and tongue and cyanosis of the tongue. Swelling of the lips and tongue gives the tongue its typical blue appearance, though this sign is confined to a minority of the animals. Nasal signs may be prominent, with nasal discharge and stertorous respiration.
 
@@ -27,7 +27,7 @@ The two outer capsid proteins, VP2 and VP5, mediate attachment and penetration o
 
 Epidemiology
 
-Map_of_molecular_epidemiology_of_bluetongue_virus_in_Europe.gif Bluetongue has been observed in Australia, the US, Africa, the Middle East, Asia, and Europe. An outline of the transmission cycle of BTV is illustrated in article Parasitic flies of domestic animals.
+Bluetongue has been observed in Australia, the US, Africa, the Middle East, Asia, and Europe. An outline of the transmission cycle of BTV is illustrated in article Parasitic flies of domestic animals.
 
 Its occurrence is seasonal in the affected Mediterranean countries, subsiding when temperatures drop and hard frosts kill the adult midge vectors.[12] Viral survival and vector longevity is seen during milder winters.[13] A significant contribution to the northward spread of bluetongue disease has been the ability of _C. obsoletus_ and _C.pulicaris_ to acquire and transmit the pathogen, both of which are spread widely throughout Europe. This is in contrast to the original _C.imicola_ vector, which is limited to North Africa and the Mediterranean. The relatively recent novel vector has facilitated a far more rapid spread than the simple expansion of habitats north through global warming.
 

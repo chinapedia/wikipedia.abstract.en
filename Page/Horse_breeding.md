@@ -1,4 +1,4 @@
-horses.london.750pix.jpg HORSE BREEDING is reproduction in horses, and particularly the human-directed process of selective breeding of animals, particularly purebred horses of a given breed. Planned matings can be used to produce specifically desired characteristics in domesticated horses. Furthermore, modern breeding management and technologies can increase the rate of conception, a healthy pregnancy, and successful foaling.
+HORSE BREEDING is reproduction in horses, and particularly the human-directed process of selective breeding of animals, particularly purebred horses of a given breed. Planned matings can be used to produce specifically desired characteristics in domesticated horses. Furthermore, modern breeding management and technologies can increase the rate of conception, a healthy pregnancy, and successful foaling.
 
 
 Terminology
@@ -17,8 +17,6 @@ Thoroughbreds and Arabians are also classified through the "distaff" or direct f
 
 
 Estrous cycle of the mare
-
-Astutus_2.jpg
 
 The estrous cycle (also spelled oestrous) controls when a mare is sexually receptive toward a stallion, and helps to physically prepare the mare for conception. It generally occurs during the spring and summer months, although some mares may be sexually receptive into the late fall, and is controlled by the photoperiod (length of the day), the cycle first triggered when the days begin to lengthen. The estrous cycle lasts about 19–22 days, with the average being 21 days. As the days shorten, the mare returns to a period when she is not sexually receptive, known as anestrus. Anestrus – occurring in the majority of, but not all, mares – prevents the mare from conceiving in the winter months, as that would result in her foaling during the harshest part of the year, a time when it would be most difficult for the foal to survive.
 
@@ -75,8 +73,6 @@ During the first several months of pregnancy, the nutritional requirements do no
 
 Foaling
 
-Baby_gives_birth_to_Tia.jpg
-
 Mares due to foal are usually separated from other horses, both for the benefit of the mare and the safety of the soon-to-be-delivered foal. In addition, separation allows the mare to be monitored more closely by humans for any problems that may occur while giving birth. In the northern hemisphere, a special foaling stall that is large and clutter free is frequently used, particularly by major breeding farms. Originally, this was due in part to a need for protection from the harsh winter climate present when mares foal early in the year, but even in moderate climates, such as Florida, foaling stalls are still common because they allow closer monitoring of mares. Smaller breeders often use a small pen with a large shed for foaling, or they may remove a wall between two box stalls in a small barn to make a large stall. In the milder climates seen in much of the southern hemisphere, most mares foal outside, often in a paddock[20][21] built specifically for foaling, especially on the larger stud farms.[22] Many stud farms worldwide employ technology to alert human managers when the mare is about to foal, including webcams, closed-circuit television, or assorted types of devices that alert a handler via a remote alarm when a mare lies down in a position to foal.
 
 On the other hand, some breeders, particularly those in remote areas or with extremely large numbers of horses, may allow mares to foal out in a field amongst a herd, but may also see higher rates of foal and mare mortality in doing so.
@@ -89,7 +85,7 @@ After birth, a foal's navel is dipped in antiseptic to prevent infection. The fo
 
 Foal care
 
-Finnhorse_mare_with_foal.jpg Foals develop rapidly, and within a few hours a wild foal can travel with the herd. In domestic breeding, the foal and dam are usually separated from the herd for a while, but within a few weeks are typically pastured with the other horses. A foal will begin to eat hay, grass and grain alongside the mare at about 4 weeks old; by 10–12 weeks the foal requires more nutrition than the mare's milk can supply. Foals are typically weaned at 4–8 months of age, although in the wild a foal may nurse for a year.
+Foals develop rapidly, and within a few hours a wild foal can travel with the herd. In domestic breeding, the foal and dam are usually separated from the herd for a while, but within a few weeks are typically pastured with the other horses. A foal will begin to eat hay, grass and grain alongside the mare at about 4 weeks old; by 10–12 weeks the foal requires more nutrition than the mare's milk can supply. Foals are typically weaned at 4–8 months of age, although in the wild a foal may nurse for a year.
 
 
 How breeds develop
@@ -172,7 +168,7 @@ Therefore, a mare owner must consider their reasons for breeding, asking hard qu
 
 Choosing breeding stock
 
-Totilas.jpg with a proven competition record is one criterion for being a suitable sire.]] The stallion should be chosen to complement the mare, with the goal of producing a foal that has the best qualities of both animals, yet avoids having the weaker qualities of either parent. Generally, the stallion should have proven himself in the discipline or sport the mare owner wishes for the "career" of the ensuing foal. Mares should also have a competition record showing that they also have suitable traits, though this does not happen as often.
+with a proven competition record is one criterion for being a suitable sire.]] The stallion should be chosen to complement the mare, with the goal of producing a foal that has the best qualities of both animals, yet avoids having the weaker qualities of either parent. Generally, the stallion should have proven himself in the discipline or sport the mare owner wishes for the "career" of the ensuing foal. Mares should also have a competition record showing that they also have suitable traits, though this does not happen as often.
 
 Some breeders consider the quality of the sire to be more important than the quality of the dam. However, other breeders maintain that the mare is the most important parent. Because stallions can produce far more offspring than mares, a single stallion can have a greater overall impact on a breed. However, the mare may have a greater influence on an individual foal because its physical characteristics influence the developing foal in the womb and the foal also learns habits from its dam when young. Foals may also learn the "language of intimidation and submission" from their dam, and this imprinting may affect the foal's status and rank within the herd.[25][26] Many times, a mature horse will achieve status in a herd similar to that of its dam; the offspring of dominant mares become dominant themselves.
 
@@ -208,7 +204,7 @@ To help decrease the risk of financial loss should the mare die or abort the foa
 
 Covering the mare
 
-Künstliche_Vagina.jpg, used to collect semen]] There are two general ways to "cover" or breed the mare:
+, used to collect semen]] There are two general ways to "cover" or breed the mare:
 
 -   LIVE COVER: the mare is brought to the stallion's residence and is covered "live" in the breeding shed. She may also be turned out in a pasture with the stallion for several days to breed naturally ('pasture bred'). The former situation is often preferred, as it provides a more controlled environment, allowing the breeder to ensure that the mare was covered, and places the handlers in a position to remove the horses from one another should one attempt to kick or bite the other.
 -   ARTIFICIAL INSEMINATION (AI): the mare is inseminated by a veterinarian or an equine reproduction manager, using either fresh, cooled or frozen semen.
@@ -243,7 +239,7 @@ A stallion is usually trained to mount a phantom (or dummy) mare, although a liv
 
 Advanced reproductive techniques
 
-Andrew_Thornton.jpg industry does not allow AI or embryo transplant.]]
+industry does not allow AI or embryo transplant.]]
 
 Often an owner does not want to take a valuable competition mare out of training to carry a foal. This presents a problem, as the mare will usually be quite old by the time she is retired from her competitive career, at which time it is more difficult to impregnate her. Other times, a mare may have physical problems that prevent or discourage breeding. However, there are now several options for breeding these mares. These options also allow a mare to produce multiple foals each breeding season, instead of the usual one. Therefore, mares may have an even greater value for breeding.
 

@@ -1,4 +1,4 @@
-The_Gunpowder_Plot_Conspirators,_1605_from_NPG.jpg, a secret plan devised in 1605 to blow up the Parliament of the United Kingdom.]]
+, a secret plan devised in 1605 to blow up the Parliament of the United Kingdom.]]
 
 A CONSPIRACY is a secret plan or agreement between persons (called CONSPIRERS or CONSPIRATORS) for an unlawful or harmful purpose, such as murder or treason, especially with political motivation,[1] while keeping their agreement secret from the public or from other people affected by it. In a political sense, conspiracy refers to a group of people united in the goal of usurping, altering or overthrowing an established political power. Depending on the circumstances, a conspiracy may also be a crime, or a civil wrong.[2] The term generally implies wrongdoing or illegality on the part of the conspirators, as people would not need to conspire to engage in activities that were lawful and ethical, or to which no one would object.
 

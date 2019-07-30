@@ -5,7 +5,7 @@ Biography
 
 Doppler was born in Salzburg (today Austria) in 1803. After completing high school, Doppler studied philosophy in Salzburg and mathematics and physics at the Imperial–Royal Polytechnic Institute (now TU Wien), where he became an assistant in 1829. In 1835 he began work at the Prague Polytechnic (now Czech Technical University in Prague), where he received an appointment in 1841.
 
-Doppler's_Birth_House.jpg, just next door to where Mozart's family had lived. A Doppler research-and memorial society is now housed there.[2]]] Christan_Doppler_österreichischer_Physiker.jpg in which Doppler lived from 1843 to 1847]]
+, just next door to where Mozart's family had lived. A Doppler research-and memorial society is now housed there.[2]]] in which Doppler lived from 1843 to 1847]]
 
 One year later, at the age of 38, Doppler gave a lecture to the Royal Bohemian Society of Sciences and subsequently published his most notable work, "Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels" _(On the coloured light of the binary stars and some other stars of the heavens)_. There is a facsimile edition with an English translation by Alec Eden.[3] In this work, Doppler postulated his principle (later coined the Doppler effect) that the observed frequency of a wave depends on the relative speed of the source and the observer, and he later tried to use this concept for explaining the colour of binary stars.
 

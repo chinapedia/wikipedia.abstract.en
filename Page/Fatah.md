@@ -14,7 +14,7 @@ History
 
 Establishment
 
-Yasser-arafat-1999.jpg was the main founder of Fatah and led the movement until his death in 2004.]] The Fatah movement, which espoused a Palestinian nationalist ideology in which Palestinian Arabs would be liberated by their own actions, was founded in 1959 by members of the Palestinian diasporamore specifically, principally by professionals working in the Persian Gulf States who had studied in Cairo or Beirut and had been refugees in Gaza. The founders included Yasser Arafat, then head of the General Union of Palestinian Students (GUPS) at Cairo University; Salah Khalaf; Khalil al-Wazir; and Khaled Yashruti, then GUPS head in Beirut.[11]
+was the main founder of Fatah and led the movement until his death in 2004.]] The Fatah movement, which espoused a Palestinian nationalist ideology in which Palestinian Arabs would be liberated by their own actions, was founded in 1959 by members of the Palestinian diasporamore specifically, principally by professionals working in the Persian Gulf States who had studied in Cairo or Beirut and had been refugees in Gaza. The founders included Yasser Arafat, then head of the General Union of Palestinian Students (GUPS) at Cairo University; Salah Khalaf; Khalil al-Wazir; and Khaled Yashruti, then GUPS head in Beirut.[11]
 
 1967–93
 

@@ -1,4 +1,4 @@
-Milk_glass.jpg.]] Milkproducts_v2.svg DAIRY PRODUCTS, MILK PRODUCTS or _LACTICINIA_[1] are a type of food produced from or containing the milk of mammals. They are primarily produced from mammals such as cattle, water buffaloes, goats, sheep, camels and humans. Dairy products include food items such as yogurt, cheese and butter.[2][3] A facility that produces dairy products is known as a dairy, or dairy factory.[4] Dairy products are consumed worldwide, with the exception of most of East and Southeast Asia and parts of central Africa.[5]
+.]] DAIRY PRODUCTS, MILK PRODUCTS or _LACTICINIA_[1] are a type of food produced from or containing the milk of mammals. They are primarily produced from mammals such as cattle, water buffaloes, goats, sheep, camels and humans. Dairy products include food items such as yogurt, cheese and butter.[2][3] A facility that produces dairy products is known as a dairy, or dairy factory.[4] Dairy products are consumed worldwide, with the exception of most of East and Southeast Asia and parts of central Africa.[5]
 
 
 Types of dairy product
@@ -6,7 +6,7 @@ Types of dairy product
 
 Milk
 
-Dairy_Farm_at_Dalkeith_-_geograph.org.uk_-_85941.jpg]] Dairy_Belle_3_products.jpg Pccmilkjf.JPG)]] Sealed_Milk.jpg Milk is produced after optional homogenization or pasteurization, in several grades after standardization of the fat level, and possible addition of the bacteria _Streptococcus lactis_ and _Leuconostoc citrovorum._ Milk can be broken down into several different categories based on type of product produced, including cream, butter, cheese, infant formula, and yogurt.
+]] )]] Milk is produced after optional homogenization or pasteurization, in several grades after standardization of the fat level, and possible addition of the bacteria _Streptococcus lactis_ and _Leuconostoc citrovorum._ Milk can be broken down into several different categories based on type of product produced, including cream, butter, cheese, infant formula, and yogurt.
 
 Milk varies in fat content. Skim milk is milk with zero fat, while whole milk products contain fat.
 
@@ -41,8 +41,6 @@ Custard
 -   _Vla_
 
 Ice cream
-
-Bowl_~_Ice_cream.jpg
 
 -   Ice cream, slowly frozen cream, milk, flavors and emulsifying additives (dairy ice cream)
 -   Gelato, slowly frozen milk and water, lesser fat than ice cream

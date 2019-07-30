@@ -21,7 +21,7 @@ After the death of John Sigismund, the Diet of Transylvania elected Christopher'
 
 Reign
 
-Partium1570.PNG in 1570]]
+in 1570]]
 
 Stephen Báthory was elected King of Poland on 15 December 1575. He adopted the title of Prince of Transylvania and made Christopher voivode on 14 January 1576. An Ottoman delegation confirmed Christopher's appointment at the Diet in Gyulafehérvár (now Alba Iulia in Romania) in July. The sultan's charter (or _ahidnâme_) sent to Christopher emphasized that he should keep the peace along the frontiers. Stephen set up a separate chancellery in Kraków to keep an eye on the administration of Transylvania. The head of the new chancellery, Márton Berzeviczy, and Christopher cooperated closely.
 

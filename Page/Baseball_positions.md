@@ -1,4 +1,4 @@
-BASEBALL is a bat-and-ball game played between two opposing teams who take turns batting and fielding. Within the game there are positions in which each player can play in. Baseball_positions.svg There are nine FIELDING POSITIONS in baseball. Each position conventionally has an associated number, which is used to score putouts:
+BASEBALL is a bat-and-ball game played between two opposing teams who take turns batting and fielding. Within the game there are positions in which each player can play in. There are nine FIELDING POSITIONS in baseball. Each position conventionally has an associated number, which is used to score putouts:
 
 1 (pitcher), 2 (catcher), 3 (first baseman), 4 (second baseman), 5 (third baseman), 6 (shortstop), 7 (left fielder), 8 (center fielder), and 9 (right fielder).[1]
 

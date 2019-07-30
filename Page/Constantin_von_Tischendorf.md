@@ -17,8 +17,6 @@ Tischendorf pursued a constant course of editorial labours, mainly on the New Te
 
 Life
 
-Codex_Sinaiticus_Petropolitanus_(title).JPG
-
 Tischendorf was born in Lengenfeld, Saxony, near Plauen, the son of a physician. Beginning in 1834, he spent his scholarly career at the University of Leipzig where he was mainly influenced by JGB Winer, and he began to take special interest in New Testament criticism. Winer's influence gave him the desire to use the oldest manuscripts in order to compile the text of the New Testament as close to the original as possible.[6] In 1838 he took the degree of Doctor of Philosophy, then became master at a school near Leipzig.
 
 After a journey through southern Germany and Switzerland, and a visit to Strassburg, he returned to Leipzig, and set to work upon a critical study of the New Testament text. In 1840 he qualified as university lecturer in theology with a dissertation on the recensions of the New Testament text – the main part of which reappeared the following year in the prolegomena to his first edition of the Greek New Testament. His critical apparatus included variant readings from earlier scholars – Elsevier, Georg Christian Knapp, Johann Martin Augustin Scholz, and as recent as Karl Lachmann – whereby his researches were emboldened to depart from the received text as used in churches.
@@ -64,7 +62,7 @@ He died in Leipzig.
 
 Works
 
-Codex_Ephraemi_Mt_26,52-69.JPG His _magnum opus_ was the "Critical Edition of the New Testament."
+His _magnum opus_ was the "Critical Edition of the New Testament."
 
 The great edition, of which the text and apparatus appeared in 1869 and 1872, was called by himself _editio viii_; but this number is raised to twenty or twenty-one, if mere reprints from stereotype plates and the minor editions of his great critical texts are included; posthumous prints bring the total to forty-one. Four main recensions of Tischendorf's text may be distinguished, dating respectively from his editions of 1841, 1849, 1859 (ed. vii), and 1869–72 (ed. viii). The edition of 1849 may be regarded as historically the most important, from the mass of new critical material it used; that of 1859 is distinguished from Tischendorf's other editions by coming nearer to the received text; in the eighth edition, the testimony of the Sinaitic manuscript received great (probably too great) weight. The readings of the Vatican manuscript were given with more exactness and certainty than had been possible in the earlier editions, and the editor had also the advantage of using the published labours of his colleague and friend Samuel Prideaux Tregelles.
 

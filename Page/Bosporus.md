@@ -1,4 +1,4 @@
-Turkish_Strait_disambig.svg (yellow) and the Sea of Marmara.]] Istanbul_and_Bosporus_big.jpg in April 2004. The body of water at the top is the Black Sea, the one at the bottom is the Marmara Sea, and the Bosporus is the winding waterway that connects the two. The western banks of the Bosporus constitute the geographic starting point of the European continent, while the banks to the east are the geographic beginnings of the continent of Asia. The city of Istanbul is visible along both banks.]] Bosphorus_aerial_view.jpg (bottom), looking south (top) toward the Marmara, with the city center of Istanbul visible along the strait's hilly banks.]]
+(yellow) and the Sea of Marmara.]] in April 2004. The body of water at the top is the Black Sea, the one at the bottom is the Marmara Sea, and the Bosporus is the winding waterway that connects the two. The western banks of the Bosporus constitute the geographic starting point of the European continent, while the banks to the east are the geographic beginnings of the continent of Asia. The city of Istanbul is visible along both banks.]] (bottom), looking south (top) toward the Marmara, with the city center of Istanbul visible along the strait's hilly banks.]]
 
 The BOSPORUS () or BOSPHORUS (;[1] Ancient Greek: Βόσπορος _Bosporos_ ; also known as THE STRAIT OF ISTANBUL; ) is a narrow, natural strait and an internationally significant waterway located in northwestern Turkey. It forms part of the continental boundary between Europe and Asia, and divides Turkey by separating Anatolia from Thrace. The world's narrowest strait used for international navigation, the Bosporus connects the Black Sea with the Sea of Marmara, and, by extension via the Dardanelles, the Aegean and Mediterranean seas.
 
@@ -63,7 +63,7 @@ As part of the only passage between the Black Sea and the Mediterranean, the Bos
 
 Ancient Greek, Persian, Roman and Byzantine eras (pre-1453)
 
-Map_of_Constantinople_(1422)_by_Florentine_cartographer_Cristoforo_Buondelmonte.jpg), designed in 1422 by Florentine cartographer Cristoforo Buondelmonti. This is the oldest surviving map of the city, and the only surviving map which predates the Turkish conquest of 1453. The Bosporus is visible along the right hand side of the map, wrapping vertically around the historic city.]]
+), designed in 1422 by Florentine cartographer Cristoforo Buondelmonti. This is the oldest surviving map of the city, and the only surviving map which predates the Turkish conquest of 1453. The Bosporus is visible along the right hand side of the map, wrapping vertically around the historic city.]]
 
 The strategic importance of the Bosporus dates back millennia. The Greek city-state of Athens in the 5th century BC, which was dependent on grain imports from Scythia, maintained critical alliances with cities which controlled the straits, such as the Megarian colony Byzantium.
 
@@ -75,7 +75,7 @@ The strategic significance of the strait was one of the factors in the decision 
 
 Ottoman era (1453–1922)
 
-Allum_Bosphorus.jpg. The castles are Rumelihisarı and Anadoluhisarı, respectively. The original is a watercolor available in the online collection of the Victoria and Albert Museum.[20] ]]
+. The castles are Rumelihisarı and Anadoluhisarı, respectively. The original is a watercolor available in the online collection of the Victoria and Albert Museum.[20] ]]
 
 On 29 May 1453, the then-emergent Ottoman Empire conquered the city of Constantinople following a lengthy campaign wherein the Ottomans constructed fortifications on each side of the strait, the Anadoluhisarı (1393) and the Rumelihisarı (1451), in preparation for not only the primary battle but to assert long-term control over the Bosporus and surrounding waterways. The final 53-day campaign, which resulted in Ottoman victory, constituted an important turn in world history. Together with Christopher Columbus's first voyage to the Americas in 1492, the 1453 conquest of Constantinople is commonly noted as among the events that brought an end to the Middle Ages and marked the transition to the Renaissance and the Age of Discovery.
 
@@ -100,7 +100,7 @@ During the early 21st century, the Turkish Straits have become particularly impo
 
 Crossings
 
-Bosphorus_Bridge-1.jpg, the first to be built across the Bosphorus, completed in 1973]] IMO_9544891_Abis_Belfast_(01).jpg, the second crossing built in 1988, as seen from the Rumelian Castle on the Bosphorus]] Yavuz_Sultan_Selim_Bridge_IMG_3137c.jpg, the third and most recent crossing, in September 2016. The bridge was opened on 26 August 2016.]]
+, the first to be built across the Bosphorus, completed in 1973]] , the second crossing built in 1988, as seen from the Rumelian Castle on the Bosphorus]] , the third and most recent crossing, in September 2016. The bridge was opened on 26 August 2016.]]
 
 Maritime
 

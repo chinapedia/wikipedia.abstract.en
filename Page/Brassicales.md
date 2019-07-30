@@ -21,7 +21,7 @@ The order typically contains the following families:[3]
 
 Under the Cronquist system, the Brassicales were called the Capparales, and included among the "Dilleniidae". The only families included were the Brassicaceae and Capparaceae (treated as separate families), the Tovariaceae, Resedaceae, and Moringaceae. Other taxa now included here were placed in various other orders.
 
-Cleome_(Spider_Flower)_in_Gavi.jpg'']]
+'']]
 
 The families Capparaceae and Brassicaceae are closely related. One group, consisting of _Cleome_ and related genera, was traditionally included in the Capparaceae but doing so results in a paraphyletic Capparaceae.[5] Therefore, this group is generally now either included in the Brassicaceae or as its own family, Cleomaceae.[6][7]
 

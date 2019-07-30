@@ -3,11 +3,11 @@ The DUMBARTON BRIDGE is the southernmost of the highway bridges across San Franc
 
 History and engineering features
 
-DumbartonBr.jpgThe bridge has never been officially named, but its commonly used name comes from Dumbarton Point, named in 1876 after Dumbarton, Scotland. Built originally to provide a shortcut for traffic originating in San Mateo and Santa Clara counties, the bridge served industrial and residential areas on both sides. The earlier bridge opened on January 17, 1927, and was the first vehicular bridge to cross San Francisco Bay. A portion of this old drawbridge remains as a fishing pier on the east side of the Bay. The original bridge was built with private capital and then purchased by the state for $2.5 million in 1951.
+The bridge has never been officially named, but its commonly used name comes from Dumbarton Point, named in 1876 after Dumbarton, Scotland. Built originally to provide a shortcut for traffic originating in San Mateo and Santa Clara counties, the bridge served industrial and residential areas on both sides. The earlier bridge opened on January 17, 1927, and was the first vehicular bridge to cross San Francisco Bay. A portion of this old drawbridge remains as a fishing pier on the east side of the Bay. The original bridge was built with private capital and then purchased by the state for $2.5 million in 1951.
 
 Its age and the two-lane undivided roadway and lift-span led to a replacement bridge being built to the north. This bridge opened in October 1982 as a four-lane, high-level structure. The structure was re-striped to accommodate six lanes on October 18, 1989, in response to the temporary closing of the San Francisco–Oakland Bay Bridge due to the Loma Prieta earthquake, and the permanent widening of the approaches was completed by July 2003.[3] The cost of the complete replacement project was $200 million. The current bridge includes a two-way bicycle and separate pedestrian path on the south-facing side. A center span provides of vertical clearance for shipping. The approach spans on both sides of the Bay are of pre-stressed lightweight concrete girders supporting a lightweight concrete deck. The center spans are twin steel trapezoidal girders which also support a lightweight concrete deck.
 
-The center span of the original bridge was demolished in a controlled explosion in September 1984. Dumbarton_Bridge_CA_from_the_air.JPG
+The center span of the original bridge was demolished in a controlled explosion in September 1984.
 
 
 Roadway connections
@@ -57,7 +57,7 @@ In June 2018, Bay Area voters approved Regional Measure 3 to further raise the t
 
 Dumbarton Rail Bridge
 
-Dumbarton_Bridge1.jpg Just to the south of the car bridge lies the DUMBARTON RAIL BRIDGE. Built in 1910, the rail bridge has been unused since 1982 and its western approach collapsed in a fire in 1998.[14] When the bridge was in use, boaters would signal the operator, who would start a diesel engine and rotate the bridge to the open position on a large gear. The bridge is now left in the open position as shown. There are plans for a new rail bridge and rehabilitation of the rail line to serve a commuter rail service to connect Union City, Fremont, and Newark to various Peninsula destinations.[15] A successful March 2004 regional transportation ballot measure included funding to rehabilitate the rail bridge for the commuter rail service, but in October 2008 the Metropolitan Transportation Commission transferred $91 million from this project to the BART Warm Springs Extension Project in Fremont .[16]
+Just to the south of the car bridge lies the DUMBARTON RAIL BRIDGE. Built in 1910, the rail bridge has been unused since 1982 and its western approach collapsed in a fire in 1998.[14] When the bridge was in use, boaters would signal the operator, who would start a diesel engine and rotate the bridge to the open position on a large gear. The bridge is now left in the open position as shown. There are plans for a new rail bridge and rehabilitation of the rail line to serve a commuter rail service to connect Union City, Fremont, and Newark to various Peninsula destinations.[15] A successful March 2004 regional transportation ballot measure included funding to rehabilitate the rail bridge for the commuter rail service, but in October 2008 the Metropolitan Transportation Commission transferred $91 million from this project to the BART Warm Springs Extension Project in Fremont .[16]
 
 
 Hetch Hetchy Aqueduct

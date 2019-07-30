@@ -20,11 +20,11 @@ Mythology
 
 Birth
 
-Apollo_Artemis_Brygos_Louvre_G151.jpg (potter, signed), Briseis Painter, Tondo of an Attic red-figure cup, ca. 470 BC, Louvre.]]
+(potter, signed), Briseis Painter, Tondo of an Attic red-figure cup, ca. 470 BC, Louvre.]]
 
-Artemis_Apollo_Louvre_Myr199.jpg, dating to approximately 25 BC]]
+, dating to approximately 25 BC]]
 
-Artemis_Kephisodotos_Musei_Capitolini_MC1123.jpg (Musei Capitolini), Rome.]]
+(Musei Capitolini), Rome.]]
 
 Various conflicting accounts are given in Classical Greek mythology regarding the birth of Artemis and Apollo, her twin brother. However, in terms of parentage, all accounts agree that she was the daughter of Zeus and Leto and that she was the twin sister of Apollo.
 
@@ -77,7 +77,7 @@ According to the standard modern text on the work, Lamar Ronald Lacey's _The Myt
 
 Adonis
 
-Giuseppe-Mazzuoli-The-Death-of-Adonis-hermitag.jpg, 1709. Hermitage Museum, Saint Petersburg, Russia.]] In some versions of the story of Adonis, Artemis sent a wild boar to kill Adonis as punishment for his hubristic boast that he was a better hunter than her.
+, 1709. Hermitage Museum, Saint Petersburg, Russia.]] In some versions of the story of Adonis, Artemis sent a wild boar to kill Adonis as punishment for his hubristic boast that he was a better hunter than her.
 
 In other versions, Artemis killed Adonis for revenge. In later myths, Adonis had been related as a favorite of Aphrodite, and Aphrodite was responsible for the death of Hippolytus, who had been a favorite of Artemis. Therefore, Artemis killed Adonis to avenge Hippolytus’s death.
 
@@ -95,7 +95,7 @@ The twin sons of Poseidon and Iphidemia, Otos and Ephialtes, grew enormously at 
 
 Callisto
 
-Tizian_015.jpg'', c. 1556-1559, by Titian. Scottish National Gallery, Edinburgh]]
+'', c. 1556-1559, by Titian. Scottish National Gallery, Edinburgh]]
 
 Callisto was the daughter of Lycaon, King of Arcadia and also was one of Artemis's hunting attendants. As a companion of Artemis, she took a vow of chastity. Zeus appeared to her disguised as Artemis, or in some stories Apollo gained her confidence and took advantage of her or, according to Ovid, raped her. As a result of this encounter, she conceived a son, Arcas.
 
@@ -115,7 +115,7 @@ Chione was a princess of Pokis. She was beloved by two gods, Hermes and Apollo, 
 
 Atalanta, Oeneus and the Meleagrids
 
-Artemis_libation_Louvre_CA599.jpg Artemis saved the infant Atalanta from dying of exposure after her father abandoned her. She sent a female bear to suckle the baby, who was then raised by hunters. In some stories, Artemis later sent a bear to hurt Atalanta because others claimed Atalanta was a superior hunter.
+Artemis saved the infant Atalanta from dying of exposure after her father abandoned her. She sent a female bear to suckle the baby, who was then raised by hunters. In some stories, Artemis later sent a bear to hurt Atalanta because others claimed Atalanta was a superior hunter.
 
 Among other adventures, Atalanta participated in the hunt for the Calydonian Boar, which Artemis had sent to destroy Calydon because King Oeneus had forgotten her at the harvest sacrifices. In the hunt, Atalanta drew the first blood and was awarded the prize of the skin. She hung it in a sacred grove at Tegea as a dedication to Artemis.
 
@@ -140,7 +140,7 @@ Aeneas was helped by Artemis, Leto, and Apollo. Apollo found him wounded by Diom
 
 Worship
 
-Jerash_Temple_of_Artemis.jpg, built during the reign of Antoninus Pius.]]
+, built during the reign of Antoninus Pius.]]
 
 Artemis, the goddess of forests and hills, was worshipped throughout ancient Greece.[40] Her best known cults were on the island of Delos (her birthplace), in Attica at Brauron and Mounikhia (near Piraeus), and in Sparta. She was often depicted in paintings and statues in a forest setting, carrying a bow and arrows and accompanied by a deer.
 
@@ -156,7 +156,7 @@ During the Classical period in Athens, she was identified with Hekate. Artemis a
 
 Epithets
 
-Artemis_found_in_Pompeii.jpg, reconstructed using analysis of trace pigments - imitation of Greek statues of the sixth century BC (part of Gods in Color)]]
+, reconstructed using analysis of trace pigments - imitation of Greek statues of the sixth century BC (part of Gods in Color)]]
 
 As AEGINAEA, she was worshipped in Sparta; the name means either huntress of chamois, or the wielder of the javelin ().[45][46] Also in Sparta, Artemis _Lygodesma_ was worshipped. This epithet means "willow-bound" from the Gr. _lygos_ (λυγός, willow) and _desmos_ (δεσμός, bond). The willow tree appears in several ancient Greek myths and rituals.[47]
 
@@ -178,7 +178,7 @@ Pausanias at the Description of Greece writes that near Pyrrhichus there was a s
 
 Festivals
 
-Brauron-2.jpg.]]
+.]]
 
 Artemis was born on the sixth day, which made it sacred for her.
 
@@ -209,7 +209,7 @@ Despite her virginity, both modern scholars and ancient commentaries have linked
 
 As the Lady of Ephesus
 
-Statue_of_Artemis_Ephesus.jpg)]]
+)]]
 
 At Ephesus in Ionia, Turkey, her temple became one of the Seven Wonders of the World. It was probably the best known center of her worship except for Delos. There the Lady whom the Ionians associated with Artemis through _interpretatio graeca_ was worshipped primarily as a mother goddess, akin to the Phrygian goddess Cybele, in an ancient sanctuary where her cult image depicted the "Lady of Ephesus" adorned with multiple large beads. Excavation at the site of the _Artemision_ in 1987–88 identified a multitude of tear-shaped amber beads that had been hung on the original wooden statue (_xoanon_), and these were probably carried over into later sculpted copies.[65] In Acts of the Apostles, Ephesian metalsmiths who felt threatened by Saint Paul's preaching of Christianity, jealously rioted in her defense, shouting "Great is Artemis of the Ephesians!"[66] Of the 121 columns of her temple, only one composite, made up of fragments, still stands as a marker of the temple's location.
 
@@ -217,9 +217,9 @@ Symbols
 
 -   BOW AND ARROW
 
-Ac_artemisephesus.jpg at Ephesus.]]
+at Ephesus.]]
 
-Didrachme_de_Ionie.jpg, Ionia, representing the goddess Artemis]] Silver_tetradrachm_of_Indo-Greek_king_Artemidoros.jpg king Artemidoros (whose name means "gift of Artemis"), c. 85 BC, featuring Artemis with a drawn bow and a quiver on her back on the reverse of the coin]]
+, Ionia, representing the goddess Artemis]] king Artemidoros (whose name means "gift of Artemis"), c. 85 BC, featuring Artemis with a drawn bow and a quiver on her back on the reverse of the coin]]
 
 According to the Homeric Hymn to Artemis, she had golden bow and arrows, as her epithet was KHRYSELAKATOS ("of the Golden Shaft") and IOKHEIRA ("showered by arrows"). The arrows of Artemis could also bring sudden death and disease to girls and women. Artemis got her bow and arrow for the first time from The Kyklopes, as the one she asked from her father. The bow of Artemis also became the witness of Callisto's oath of her virginity. In later cult, the bow became the symbol of waxing moon.[67]
 
@@ -260,7 +260,7 @@ Hawks were the favored birds of many of the gods, Artemis included.
 
 In art
 
-Bust_of_the_goddess_of_Issa,_Vis_Museum,_Croatia.JPG bronze head of a goddess wearing a lunate crown, found at Issa (Vis, Croatia).]]
+bronze head of a goddess wearing a lunate crown, found at Issa (Vis, Croatia).]]
 
 The oldest representations of Artemis in Greek Archaic art portray her as Potnia Theron ("Queen of the Beasts"): a winged goddess holding a stag and leopard in her hands, or sometimes a leopard and a lion. This winged Artemis lingered in ex-votos as Artemis Orthia, with a sanctuary close by Sparta.
 

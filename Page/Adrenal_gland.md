@@ -15,7 +15,7 @@ Each adrenal gland has two distinct parts, each with a unique function, the oute
 
 Adrenal Cortex
 
-Adrenal_cortex_labelled.jpg, showing its different layers. From the surface to the center: zona glomerulosa, zona fasciculata, zona reticularis, medulla. In the medulla, the central adrenomedullary vein is visible.]]
+, showing its different layers. From the surface to the center: zona glomerulosa, zona fasciculata, zona reticularis, medulla. In the medulla, the central adrenomedullary vein is visible.]]
 
 The adrenal cortex is the outermost layer of the adrenal gland. Within the cortex are three layers, called "zones". When viewed under a microscope each layer has a distinct appearance, and each has a different function.[17] The adrenal cortex is devoted to production of hormones, namely aldosterone, cortisol, and androgens.[18]
 
@@ -63,8 +63,6 @@ The adrenal glands may not develop at all, or may be fused in the midline behind
 
 Function
 
-1818_The_Adrenal_Glands.jpg
-
 The adrenal gland secretes a number of different hormones which are metabolised by enzymes either within the gland or in other parts of the body. These hormones are involved in a number of essential biological functions.[39]
 
 Corticosteroids
@@ -86,7 +84,7 @@ The adrenal gland secretes a basal level of cortisol but can also produce bursts
 
 Formation
 
-Adrenal_Steroids_Pathways.svg All corticosteroid hormones share cholesterol as a common precursor. Therefore, the first step in steroidogenesis is cholesterol uptake or synthesis. Cells that produce steroid hormones can acquire cholesterol through two paths. The main source is through dietary cholesterol transported via the blood as cholesterol esters within low density lipoproteins (LDL). LDL enters the cells through receptor-mediated endocytosis. The other source of cholesterol is synthesis in the cell's endoplasmic reticulum. Synthesis can compensate when LDL levels are abnormally low.[50] In the lysosome, cholesterol esters are converted to free cholesterol, which is then used for steroidogenesis or stored in the cell.[51]
+All corticosteroid hormones share cholesterol as a common precursor. Therefore, the first step in steroidogenesis is cholesterol uptake or synthesis. Cells that produce steroid hormones can acquire cholesterol through two paths. The main source is through dietary cholesterol transported via the blood as cholesterol esters within low density lipoproteins (LDL). LDL enters the cells through receptor-mediated endocytosis. The other source of cholesterol is synthesis in the cell's endoplasmic reticulum. Synthesis can compensate when LDL levels are abnormally low.[50] In the lysosome, cholesterol esters are converted to free cholesterol, which is then used for steroidogenesis or stored in the cell.[51]
 
 The initial part of conversion of cholesterol into steroid hormones involves a number of enzymes of the cytochrome P450 family that are located in the inner membrane of mitochondria. Transport of cholesterol from the outer to the inner membrane is facilitated by steroidogenic acute regulatory protein and is the rate-limiting step of steroid synthesis.[52]
 
@@ -94,7 +92,7 @@ The layers of the adrenal gland differ by function, with each layer having disti
 
 Regulation
 
-ACTH_Negative_Feedback.svg]] Glucocorticoids are under the regulatory influence of the hypothalamus-pituitary-adrenal (HPA) axis. Glucocorticoid synthesis is stimulated by adrenocorticotropic hormone (ACTH), a hormone released into the bloodstream by the anterior pituitary. In turn, production of ACTH is stimulated by the presence of corticotropin-releasing hormone (CRH), which is released by neurons of the hypothalamus. ACTH acts on the adrenal cells first by increasing the levels of StAR within the cells, and then of all steroidogenic P450 enzymes. The HPA axis is an example of a negative feedback system, in which cortisol itself acts as a direct inhibitor of both CRH and ACTH synthesis. The HPA axis also interacts with the immune system through increased secretion of ACTH at the presence of certain molecules of the inflammatory response.[56]
+]] Glucocorticoids are under the regulatory influence of the hypothalamus-pituitary-adrenal (HPA) axis. Glucocorticoid synthesis is stimulated by adrenocorticotropic hormone (ACTH), a hormone released into the bloodstream by the anterior pituitary. In turn, production of ACTH is stimulated by the presence of corticotropin-releasing hormone (CRH), which is released by neurons of the hypothalamus. ACTH acts on the adrenal cells first by increasing the levels of StAR within the cells, and then of all steroidogenic P450 enzymes. The HPA axis is an example of a negative feedback system, in which cortisol itself acts as a direct inhibitor of both CRH and ACTH synthesis. The HPA axis also interacts with the immune system through increased secretion of ACTH at the presence of certain molecules of the inflammatory response.[56]
 
 Mineralocorticoid secretion is regulated mainly by the renin–angiotensin–aldosterone system (RAAS), the concentration of potassium, and to a lesser extent the concentration of ACTH.[57] Sensors of blood pressure in the juxtaglomerular apparatus of the kidneys release the enzyme renin into the blood, which starts a cascade of reactions that lead to formation of angiotensin II. Angiotensin receptors in cells of the zona glomerulosa recognize the substance, and upon binding they stimulate the release of aldosterone.[58]
 
@@ -157,7 +155,7 @@ Adrenal insufficiency (the deficiency of glucocorticoids) occurs in about 5 in 1
 
 Addison's disease
 
-T._Addison;_On...supra-renal_capsules_Wellcome_L0018484.jpg in Addison's disease]] Addison's disease refers to primary hypoadrenalism, which is a deficiency in glucocorticoid and mineralocorticoid production by the adrenal gland. In the Western world, Addison's disease is most commonly an autoimmune condition, in which the body produces antibodies against cells of the adrenal cortex. Worldwide, the disease is more frequently caused by infection, especially from tuberculosis. A distinctive feature of Addison's disease is hyperpigmentation of the skin, which presents with other nonspecific symptoms such as fatigue.[86]
+in Addison's disease]] Addison's disease refers to primary hypoadrenalism, which is a deficiency in glucocorticoid and mineralocorticoid production by the adrenal gland. In the Western world, Addison's disease is most commonly an autoimmune condition, in which the body produces antibodies against cells of the adrenal cortex. Worldwide, the disease is more frequently caused by infection, especially from tuberculosis. A distinctive feature of Addison's disease is hyperpigmentation of the skin, which presents with other nonspecific symptoms such as fatigue.[86]
 
 A complication seen in untreated Addison's disease and other types of primary adrenal insufficiency is the adrenal crisis, a medical emergency in which low glucocorticoid and mineralocorticoid levels result in hypovolemic shock and symptoms such as vomiting and fever. An adrenal crisis can progressively lead to stupor and coma.[87] The management of adrenal crises includes the application of hydrocortisone injections.[88]
 

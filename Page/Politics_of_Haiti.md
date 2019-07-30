@@ -12,7 +12,7 @@ Yvon Neptune was appointed Prime Minister on March 4, 2002, but following the ov
 
 Summary
 
-Haitians_voting_in_the_2006_elections.jpeg In 2011, singer Michel Martelly was elected the president of Haiti and sworn into office after René Préval completed his term. His regime is rated by some as free and by some as authoritarian.[5] He is expected to complete his term in 2016. In 2013, Haiti ranked #8 in the Fragile States Index[6]
+In 2011, singer Michel Martelly was elected the president of Haiti and sworn into office after René Préval completed his term. His regime is rated by some as free and by some as authoritarian.[5] He is expected to complete his term in 2016. In 2013, Haiti ranked #8 in the Fragile States Index[6]
 
 An election had been held, awaiting for runoff. The election was censured by the Haitian public and Medias as "not-free" and "controlled". According to an exit poll conducted by Haitian Sentinel, only 6% of the voters voted for Jovenel Moïse.[7] The other presidential runoff candidate, Jude Célestin, expressed his disapproval towards the lack of transparency of the CEP, _Conseil Electoral Provisoire_, Provisional Electoral Council. 30 other candidates commented the election as controlled disregarding public trust.[8]
 

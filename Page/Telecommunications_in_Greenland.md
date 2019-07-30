@@ -5,8 +5,6 @@ Greenland has, by law, only one service provider for telecommunications and the 
 
 Radio and television
 
-KNR_-_Greenlandic_Broadcasting_Corporation,_Nuuk,_Greenland.jpg
-
 Television in Greenland began in the 1960s.
 
 Privately owned transmitters were created to receive TV from Canada, Iceland, and Denmark. This can date as far back when television was introduced to Greenland in the 1960s. It was possible to receive TV from Canada with a normal household TV antenna, but color transmissions were NTSC and signals were in very bad quality and however in some circumstances, television transmissions were not available at all due to factors such as weather conditions or time of day, even for the people who owned private transmitters. Greenland did not have any local TV service until 1982.

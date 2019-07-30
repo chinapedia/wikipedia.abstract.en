@@ -176,8 +176,6 @@ Withdrawal effects may also occur when switching a person from one antipsychotic
 
 List of agents
 
-Chlorpromazine.svg Haloperidol.svg Quetiapine.svg
-
 Clinically used antipsychotic medications are listed below by drug group. Trade names appear in parentheses. A 2013 review has stated that the division of antipsychotics into first and second generation is perhaps not accurate.[123]
 
 Notes:
@@ -623,7 +621,7 @@ Comparison of medications
 
 History
 
-Thorazine_advert.jpg) from the 1950s, reflecting the perceptions of psychosis, including the now-discredited perception of a tendency towards violence, from the time when antipsychotics were discovered[169]]]
+) from the 1950s, reflecting the perceptions of psychosis, including the now-discredited perception of a tendency towards violence, from the time when antipsychotics were discovered[169]]]
 
 The original antipsychotic drugs were happened upon largely by chance and then tested for their effectiveness. The first, chlorpromazine, was developed as a surgical anesthetic. It was first used on psychiatric patients because of its powerful calming effect; at the time it was regarded as a non-permanent "pharmacological lobotomy".[170] Lobotomy at the time was used to treat many behavioral disorders, including psychosis, although its effect was to markedly reduce behavior and mental functioning of all types. However, chlorpromazine proved to reduce the effects of psychosis in a more effective and specific manner than lobotomy, even though it was known to be capable of causing severe sedation. The underlying neurochemistry involved has since been studied in detail, and subsequent antipsychotic drugs have been discovered by an approach that incorporates this sort of information.
 

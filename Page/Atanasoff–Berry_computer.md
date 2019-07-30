@@ -1,5 +1,3 @@
-Atanasoff-Berry_Computer_at_Durhum_Center.jpg
-
 The ATANASOFF–BERRY COMPUTER (ABC) was the first automatic electronic digital computer, an early electronic digital computing device that has remained somewhat obscure. The ABC's priority is debated among historians of computer technology, because it was neither programmable, nor Turing-complete.[1]
 
 Conceived in 1937, the machine was built by Iowa State College mathematics and physics professor John Vincent Atanasoff with the help of graduate student Clifford Berry. It was designed only to solve systems of linear equations and was successfully tested in 1942. However, its intermediate result storage mechanism, a paper card writer/reader, was not perfected, and when John Vincent Atanasoff left Iowa State College for World War II assignments, work on the machine was discontinued.[2] The ABC pioneered important elements of modern computing, including binary arithmetic and electronic switching elements, but its special-purpose nature and lack of a changeable, stored program distinguish it from modern computers. The computer was designated an IEEE Milestone in 1990.[3]
@@ -9,15 +7,13 @@ Atanasoff and Berry's computer work was not widely known until it was rediscover
 
 Design and construction
 
-Atanasoff_Berry_Computer.gif
-
 According to Atanasoff's account, several key principles of the Atanasoff–Berry Computer were conceived in a sudden insight after a long nighttime drive to Rock Island, Illinois, during the winter of 1937–38. The ABC innovations included electronic computation, binary arithmetic, parallel processing, regenerative capacitor memory, and a separation of memory and computing functions.[8] The mechanical and logic design was worked out by Atanasoff over the next year. A grant application to build a proof of concept prototype was submitted in March 1939 to the Agronomy department which was also interested in speeding up computation for economic and research analysis. $5,000 of further funding () to complete the machine came from the nonprofit Research Corporation of New York City.
 
 The ABC was built by Atanasoff and Berry in the basement of the physics building at Iowa State College during 1939–42. The initial funds were released in September, and the 11-tube prototype was first demonstrated in October 1939. A December demonstration prompted a grant for construction of the full-scale machine.[9][10] The ABC was built and tested over the next two years. A January 15, 1941 story in the _Des Moines Register_ announced the ABC as "an electrical computing machine" with more than 300 vacuum tubes that would "compute complicated algebraic equations" (but gave no precise technical description of the computer). The system weighed more than . It contained approximately of wire, 280 dual-triode vacuum tubes, 31 thyratrons, and was about the size of a desk.
 
 It was not a Turing complete computer, which distinguishes it from more general machines, like contemporary Konrad Zuse's Z3 (1941), or later machines like the 1946 ENIAC, the 1949 EDVAC, the University of Manchester designs, or Alan Turing's post-War design of ACE at NPL and elsewhere. Nor did it implement the stored program architecture that made practical fully general-purpose, reprogrammable computers.
 
-Atanasoff-Berry_add-subtract_module.agr.jpg The machine was, however, the first to implement three critical ideas that are still part of every modern computer:
+The machine was, however, the first to implement three critical ideas that are still part of every modern computer:
 
 1.  Using binary digits to represent all numbers and data
 2.  Performing all calculations using electronics rather than wheels, ratchets, or mechanical switches

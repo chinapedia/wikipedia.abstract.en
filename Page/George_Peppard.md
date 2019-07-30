@@ -1,4 +1,4 @@
-George_Peppard_Linda_Evans_Banacek_1974.JPG and Peppard in TV's _Banacek_ (1974) ]] GEORGE PEPPARD JR. (; October 1, 1928 – May 8, 1994) was an American film and television actor.
+and Peppard in TV's _Banacek_ (1974) ]] GEORGE PEPPARD JR. (; October 1, 1928 – May 8, 1994) was an American film and television actor.
 
 Peppard secured a major role when he starred alongside Audrey Hepburn in _Breakfast at Tiffany's_ (1961),[1] and later portrayed a character based on Howard Hughes in _The Carpetbaggers_ (1964). On television, he played the title role of millionaire insurance investigator and sleuth Thomas Banacek in the early-1970s mystery series _Banacek_. He played Col. John "Hannibal" Smith, the cigar-smoking leader of a renegade commando squad, in the hit 1980s action show _The A-Team_.[2]
 
@@ -34,7 +34,7 @@ Peppard's next film for MGM was _The Subterraneans_, an adaptation of the novel 
 
 Stardom
 
-George_Peppard_a_Breakfast_at_Tiffany's.jpg'' (1961)]] His good looks, elegant manner and superior acting skills landed Peppard his most famous film role as Paul Varjak in _Breakfast at Tiffany's_ with Audrey Hepburn, based on a story by Truman Capote. This 1961 role boosted him briefly to a major film star.
+'' (1961)]] His good looks, elegant manner and superior acting skills landed Peppard his most famous film role as Paul Varjak in _Breakfast at Tiffany's_ with Audrey Hepburn, based on a story by Truman Capote. This 1961 role boosted him briefly to a major film star.
 
 That year a newspaper article dubbed him "the next big thing". Peppard said he had turned down two TV series and was focused on being a film star. His contract with MGM was for two pictures a year, allowing for one outside film and six TV appearances a year, plus the right to star in a play every second year.[13]
 

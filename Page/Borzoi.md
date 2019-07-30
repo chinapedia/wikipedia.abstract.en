@@ -7,8 +7,6 @@ The most commonly used plural form is the regular formation _borzois_, which is 
 
 Description
 
-Medalowy_borgoj.jpg
-
 Appearance
 
 Borzois are large Russian sighthounds that resemble some central Asian breeds such as the Afghan hound, Saluki, and the Kyrgyz Taigan. Borzois can generally be described as "long-haired greyhounds". Borzois come in virtually any colour.[4] The borzoi coat is silky and flat, often wavy or slightly curly. The long top-coat is quite flat, with varying degrees of waviness or curling. The soft undercoat thickens during winter or in cold climates, but is shed in hot weather to prevent overheating. In its texture and distribution over the body, the borzoi coat is unique. There should be a frill on its neck, as well as feathering on its hindquarters and tail.[5]
@@ -18,8 +16,6 @@ Borzoi males frequently weigh more than . Males stand at least at the shoulder, 
 File:Borzoi black female.png|A black borzoi File:Three Borzoi.jpg|White borzois File:Rjaska v. Kaluga.jpg|Black and white Borzoi File:Borzoi 600.jpg|White with brown coated Borzoi
 
 Temperament
-
-Borzoi_portrait_Flickr.jpg Borzoj_bieg_licencyjny_19.09.09_2p.jpg Kidai.jpg
 
 The borzoi is an athletic and independent breed of dog. Most borzois are fairly quiet, barking on rare occasions. They do not have strong territorial drives and cannot be relied on to raise the alarm upon sighting a human intruder. The borzoi requires patient, experienced handling.[6] They are gentle and highly sensitive dogs with a natural respect for humans, and as adults they are decorative couch potatoes with remarkably gracious house manners. Borzois do not generally display dominance or aggression towards people, but can turn aggressive if handled roughly. Typically, they are rather reserved with strangers but affectionate with people they know well. Their sensitivity to invasion of their personal space can make them nervous around children unless they are brought up with them. Borzois adapt well to suburban life, provided they have a spacious yard and regular opportunities for free exercise.
 
@@ -36,8 +32,6 @@ Borzois can be raised very successfully to live with cats and other small animal
 
 Health
 
-Borzoi-2ym-body.png
-
 Stated life expectancy is 10 to 12 years.[12][13] Median lifespan based on a UK Kennel Club survey is 9 years 1 month. 1 in 5 died of old age, at an average of 10 to 11.5 years. The longest lived dog lived to 14 years 3 months.[14] Dogs that are physically fit and vigorous in their youth through middle age are more vigorous and healthy as elderly dogs, all other factors being equal. In the UK, cancer and cardiac problems seem to be the most frequent causes of premature death.[15]
 
 Like its native relative the Hortaya Borzaya, the borzoi is relatively sound breed. OCD, hip and elbow dysplasia have remained almost unknown, as were congenital eye and heart diseases before the 1970s. However, in some countries modern breeding practices have introduced a few problems.
@@ -46,14 +40,14 @@ As with other very deep-chested breeds, gastric dilatation volvulus (also known 
 
 Less common are cardiac problems including cardiomyopathy and cardiac arrhythmia disorders. A controversy exists as to the presence of progressive retinal atrophy in the breed. A condition identified as borzoi retinopathy is seen in some individuals, usually active dogs, which differs from progressive retinal atrophy in several ways. First, it is unilateral, and rarely seen in animals less than three years of age; second, a clear-cut pattern of inheritance has not been demonstrated; and finally, most affected individuals do not go blind.
 
-Borzoi-2ym-head.png Correct nutrition during puppyhood is also debatable for borzois. These dogs naturally experience enormous growth surges in the first year or two of their lives. It is now widely accepted that forcing even faster growth by feeding a highly concentrated, high-energy diet is dangerous for skeletal development, causing unsoundness and increased tendency to joint problems and injury. Being built primarily for speed, borzois do not carry large amounts of body fat or muscle, and therefore have a rather different physiology to other dogs of similar size (such as the Newfoundland, St. Bernard, or Alaskan Malamute). Laboratory-formulated diets designed for a generic "large" or "giant" breed are unlikely to take the needs of the big sighthounds into account.
+Correct nutrition during puppyhood is also debatable for borzois. These dogs naturally experience enormous growth surges in the first year or two of their lives. It is now widely accepted that forcing even faster growth by feeding a highly concentrated, high-energy diet is dangerous for skeletal development, causing unsoundness and increased tendency to joint problems and injury. Being built primarily for speed, borzois do not carry large amounts of body fat or muscle, and therefore have a rather different physiology to other dogs of similar size (such as the Newfoundland, St. Bernard, or Alaskan Malamute). Laboratory-formulated diets designed for a generic "large" or "giant" breed are unlikely to take the needs of the big sighthounds into account.
 
 The issues involved in raw feeding may be particularly relevant to tall, streamlined breeds such as the borzoi.The Hortaya Borzaya, a very close relative, is traditionally raised on a meager diet of oats and table scraps. The Hortaya is also said to be intolerant of highly concentrated kibble feeds. A lean body weight in itself is nothing to be concerned about, and force-feeding of healthy young borzoi is definitely not recommended.
 
 
 History
 
-1879_Borzoi_Flock.jpg Tikhmenev_(1904)_Wolf_hunt_with_borzois.jpg Sarah_Bernhardt_Clairin_Henderson.jpg, depicted with borzoi, by Georges Clairin, French painter]]
+, depicted with borzoi, by Georges Clairin, French painter]]
 
 The Borzoi originated in 17^(th) Century Russia by crossing Arabian greyhounds with a thick-coated breed.[17]
 
@@ -76,8 +70,6 @@ Exports of borzois to other countries were extremely rare during the Soviet era.
 
 Notable borzois
 
-Borzoi portrait
-
 -   The borzoi is the symbol of Alfred A. Knopf publishing house.
 -   _Tasha_, a female borzoi belonging to the noted vet Buster Lloyd-Jones (founder of Denes natural pet foods), was born in the UK during the Second World War and is the pedigree ancestor of most British borzoi bloodlines.[20]
 -   _Ben_ was the white male borzoi, beloved of Edward J. Smith, Captain of the Titanic. There exists a photo of the Captain and his dog outside his cabin on the ship. The dog was not, however, on the maiden voyage.
@@ -85,8 +77,6 @@ Borzoi portrait
 
 
 In popular culture
-
-Pjatak_v._Smetanka.jpg Borzoi_female.jpg
 
 -   Leo Tolstoy's 1869 novel _War and Peace_ contains an extensive wolf hunting scene with borzois in book 7, chapters 3 to 6.[21]
 -   F. Scott Fitzgerald's second novel, _The Beautiful and Damned_ (1922), contains a scene in which Gloria compares Anthony to a Russian wolfhound. Anthony decides to take this as a compliment: "Anthony remembered that they were white and always looked unnaturally hungry. But then they were usually photographed with dukes and princesses, so he was properly flattered."[22]

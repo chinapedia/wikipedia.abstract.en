@@ -31,8 +31,6 @@ In 2015, a study was published about zebrafishes' capacity for episodic memory. 
 
 Reproduction
 
-Zebrafish_Developmental_Stages.tiff
-
 The approximate generation time for _Danio rerio_ is three months. A male must be present for ovulation and spawning to occur. Females are able to spawn at intervals of two to three days, laying hundreds of eggs in each clutch. Upon release, embryonic development begins; absent sperm, growth stops after the first few cell divisions. Fertilized eggs almost immediately become transparent, a characteristic that makes _D. rerio_ a convenient research model species.[44]
 
 The zebrafish embryo develops rapidly, with precursors to all major organs appearing within 36 hours of fertilization. The embryo begins as a yolk with a single enormous cell on top (see image, 0 h panel), which divides into two (0.75 h panel) and continues dividing until there are thousands of small cells (3.25 h panel). The cells then migrate down the sides of the yolk (8 h panel) and begin forming a head and tail (16 h panel). The tail then grows and separates from the body (24 h panel). The yolk shrinks over time because the fish uses it for food as it matures during the first few days (72 h panel). After a few months, the adult fish reaches reproductive maturity (bottom panel).
@@ -102,7 +100,7 @@ Hybrids between different _Danio_ species may be fertile: for example, between _
 
 Scientific research
 
-Zfishchroma.jpgs, shown here mediating background adaptation, are widely studied by scientists.]] Zebrafish_embryos.png.[56] A wild-type embryo (top) is shown for comparison. The mutant lacks black pigment in its melanocytes because it is unable to synthesize melanin properly.]]
+s, shown here mediating background adaptation, are widely studied by scientists.]] .[56] A wild-type embryo (top) is shown for comparison. The mutant lacks black pigment in its melanocytes because it is unable to synthesize melanin properly.]]
 
 _D. rerio_ is a common and useful scientific model organism for studies of vertebrate development and gene function. Its use as a laboratory animal was pioneered by the American molecular biologist George Streisinger and his colleagues at the University of Oregon in the 1970s and 1980s; Streisinger's zebrafish clones were among the earliest successful vertebrate clones created.[57] Its importance has been consolidated by successful large-scale forward genetic screens (commonly referred to as the Tübingen/Boston screens). The fish has a dedicated online database of genetic, genomic, and developmental information, the Zebrafish Information Network (ZFIN). The Zebrafish International Resource Center (ZIRC) is a genetic resource repository with 29,250 alleles available for distribution to the research community. _D. rerio_ is also one of the few fish species to have been sent into space.
 
@@ -167,7 +165,7 @@ When close relatives mate, progeny may exhibit the detrimental effects of inbree
 
 Drug discovery and development
 
-Zebrafish_Make_a_Splash_in_FDA_Research_(8614532586).jpg on neurological development]]
+on neurological development]]
 
 The zebrafish and zebrafish larva is a suitable model organism for drug discovery and development. As a vertebrate with 70% genetic homology with humans,[108] it can be predictive of human health and disease, while its small size and fast development facilitates experiments on a larger and quicker scale than with more traditional in vivo studies, including the development of higher-throughput, automated investigative tools.[109][110] As demonstrated through ongoing research programmes, the zebrafish model enables researchers not only to identify genes that might underlie human disease, but also to develop novel therapeutic agents in drug discovery programmes.[111] Zebrafish embryos have proven to be a rapid, cost-efficient, and reliable teratology assay model.[112]
 
@@ -208,7 +206,7 @@ As the immune system is relatively conserved between zebrafish and humans, many 
 
 Repairing retinal damage
 
-Development_of_the_retina.tif Another notable characteristic of the zebrafish is that it possesses four types of cone cell, with ultraviolet-sensitive cells supplementing the red, green and blue cone cell subtypes found in humans. Zebrafish can thus observe a very wide spectrum of colours. The species is also studied to better understand the development of the retina; in particular, how the cone cells of the retina become arranged into the so-called 'cone mosaic'. Zebrafish, in addition to certain other teleost fish, are particularly noted for having extreme precision of cone cell arrangement.[144]
+Another notable characteristic of the zebrafish is that it possesses four types of cone cell, with ultraviolet-sensitive cells supplementing the red, green and blue cone cell subtypes found in humans. Zebrafish can thus observe a very wide spectrum of colours. The species is also studied to better understand the development of the retina; in particular, how the cone cells of the retina become arranged into the so-called 'cone mosaic'. Zebrafish, in addition to certain other teleost fish, are particularly noted for having extreme precision of cone cell arrangement.[144]
 
 This study of the zebrafish's retinal characteristics has also extrapolated into medical enquiry. In 2007, researchers at University College London grew a type of zebrafish adult stem cell found in the eyes of fish and mammals that develops into neurons in the retina. These could be injected into the eye to treat diseases that damage retinal neurons—nearly every disease of the eye, including macular degeneration, glaucoma, and diabetes-related blindness. The researchers studied Müller glial cells in the eyes of humans aged from 18 months to 91 years, and were able to develop them into all types of retinal neurons. They were also able to grow them easily in the lab. The stem cells successfully migrated into diseased rats' retinas, and took on the characteristics of the surrounding neurons. The team stated that they intended to develop the same approach in humans.[145]
 

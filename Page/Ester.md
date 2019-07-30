@@ -1,4 +1,4 @@
-Ester-general.svg or aryl group. R can also be a hydrogen atom.]] In chemistry, an ESTER is a chemical compound derived from an acid (organic or inorganic) in which at least one –OH (hydroxyl) group is replaced by an –O–alkyl (alkoxy) group.[1] Usually, esters are derived from a carboxylic acid and an alcohol. Glycerides, which are fatty acid esters of glycerol, are important esters in biology, being one of the main classes of lipids, and making up the bulk of animal fats and vegetable oils. Esters with low molecular weight are commonly used as fragrances and found in essential oils and pheromones. Phosphoesters form the backbone of DNA molecules. Nitrate esters, such as nitroglycerin, are known for their explosive properties, while polyesters are important plastics, with monomers linked by ester moieties. Esters usually have a sweet smell and are considered high-quality solvents for a broad array of plastics, plasticizers, resins, and lacquers.[2] They are also one of the largest classes of synthetic lubricants on the commercial market.[3]
+or aryl group. R can also be a hydrogen atom.]] In chemistry, an ESTER is a chemical compound derived from an acid (organic or inorganic) in which at least one –OH (hydroxyl) group is replaced by an –O–alkyl (alkoxy) group.[1] Usually, esters are derived from a carboxylic acid and an alcohol. Glycerides, which are fatty acid esters of glycerol, are important esters in biology, being one of the main classes of lipids, and making up the bulk of animal fats and vegetable oils. Esters with low molecular weight are commonly used as fragrances and found in essential oils and pheromones. Phosphoesters form the backbone of DNA molecules. Nitrate esters, such as nitroglycerin, are known for their explosive properties, while polyesters are important plastics, with monomers linked by ester moieties. Esters usually have a sweet smell and are considered high-quality solvents for a broad array of plastics, plasticizers, resins, and lacquers.[2] They are also one of the largest classes of synthetic lubricants on the commercial market.[3]
 
 
 Nomenclature
@@ -24,7 +24,7 @@ IUPAC nomenclature
 
 Ester names are derived from the parent alcohol and the parent acid, where the latter may be organic or inorganic. Esters derived from the simplest carboxylic acids are commonly named according to the more traditional, so-called "trivial names" e.g. as formate, acetate, propionate, and butyrate, as opposed to the IUPAC nomenclature methanoate, ethanoate, propanoate and butanoate. Esters derived from more complex carboxylic acids are, on the other hand, more frequently named using the systematic IUPAC name, based on the name for the acid followed by the suffix _-oate_. For example, the ester hexyl octanoate, also known under the trivial name hexyl caprylate, has the formula CH₃(CH₂)₆CO₂(CH₂)₅CH₃.
 
-EtOAcImp.png group (yellow) derived from a carboxylic acid]]
+group (yellow) derived from a carboxylic acid]]
 
 The chemical formulas of organic esters usually take the form RCO₂R′, where R and R′ are the hydrocarbon parts of the carboxylic acid and the alcohol, respectively. For example, butyl acetate (systematically butyl ethanoate), derived from butanol and acetic acid (systematically ethanoic acid) would be written CH₃CO₂C₄H₉. Alternative presentations are common including BuOAc and CH₃COOC₄H₉.
 
@@ -36,7 +36,7 @@ An uncommon class of organic esters are the orthoesters, which have the formula 
 
 Inorganic esters
 
-Phosphate_Group.svg Esters can also be derived from an inorganic acid and an alcohol. Thus, the nomenclature extends to inorganic oxo acids and their corresponding esters: phosphoric acid and phosphate esters/organophosphates, sulfuric acid and sulfate esters/organosulfates, nitric acid and nitrate, and boric acid and borates. For example, triphenyl phosphate is the ester derived from phosphoric acid and phenol. Organic carbonates are derived from carbonic acid; for example, ethylene carbonate is derived from carbonic acid and ethylene glycol.
+Esters can also be derived from an inorganic acid and an alcohol. Thus, the nomenclature extends to inorganic oxo acids and their corresponding esters: phosphoric acid and phosphate esters/organophosphates, sulfuric acid and sulfate esters/organosulfates, nitric acid and nitrate, and boric acid and borates. For example, triphenyl phosphate is the ester derived from phosphoric acid and phenol. Organic carbonates are derived from carbonic acid; for example, ethylene carbonate is derived from carbonic acid and ethylene glycol.
 
 So far an alcohol and inorganic acid are linked via oxygen atoms. The definition of inorganic acid ester that feature inorganic chemical elements links between alcohols and the inorganic acid – the phosphorus atom linking to three alkoxy functional groups in organophosphate – can be extended to the same elements in various combinations of covalent bonds between carbons and the central inorganic atom and carbon–oxygen bonds to central inorganic atoms. For example, phosphorus features three carbon–oxygen–phosphorus bonds and one phosphorus–oxygen _double bond_ in organophosphates, three carbon–oxygen–phosphorus bonds and no phosphorus–oxygen double bonds in phosphite esters or organophosphites, two carbon–oxygen–phosphorus bonds, no phosphorus–oxygen double bonds but one phosphorus–carbon bond in phosphonites, one carbon–oxygen–phosphorus bonds, no phosphorus–oxygen double bonds but two phosphorus–carbon bonds in phosphinites.
 
@@ -51,7 +51,7 @@ Esters contain a carbonyl center, which gives rise to 120° C–C–O and O–C�
 
 Many esters have the potential for conformational isomerism, but they tend to adopt an _s_-cis (or Z) conformation rather than the _s_-trans (or E) alternative, due to a combination of hyperconjugation and dipole minimization effects. The preference for the Z conformation is influenced by the nature of the substituents and solvent, if present.[6][7] Lactones with small rings are restricted to the _s_-trans (i.e. E) conformation due to their cyclic structure.
 
-Ester_conformers.png PhCO2MeStructure.png, distances in picometers.[8]]]
+, distances in picometers.[8]]]
 
 
 Physical properties and characterization
@@ -67,7 +67,7 @@ Applications and occurrence
 
 Esters are widespread in nature and are widely used in industry. In nature, fats are in general triesters derived from glycerol and fatty acids.[10] Esters are responsible for the aroma of many fruits, including apples, durians, pears, bananas, pineapples, and strawberries.[11] Several billion kilograms of polyesters are produced industrially annually, important products being polyethylene terephthalate, acrylate esters, and cellulose acetate.[12]
 
-    Triglyceride_unsaturated_Structural_Formulae_V2.svg) derived of LINOLEIC ACID, ALPHA-LINOLENIC ACID, and OLEIC ACID.]]
+    ) derived of LINOLEIC ACID, ALPHA-LINOLENIC ACID, and OLEIC ACID.]]
 
 
 Preparation
@@ -88,7 +88,7 @@ The equilibrium constant for such reactions is about 5 for typical esters, e.g.,
 
 Reagents are known that drive the dehydration of mixtures of alcohols and carboxylic acids. One example is the Steglich esterification, which is a method of forming esters under mild conditions. The method is popular in peptide synthesis, where the substrates are sensitive to harsh conditions like high heat. DCC (dicyclohexylcarbodiimide) is used to activate the carboxylic acid to further reaction. 4-Dimethylaminopyridine (DMAP) is used as an acyl-transfer catalyst.[14]
 
-    Steglich-1.svg
+
 
 Another method for the dehydration of mixtures of alcohols and carboxylic acids is the Mitsunobu reaction:
 
@@ -179,7 +179,7 @@ Hydrolysis and saponification
 
 Esterification is a reversible reaction. Esters undergo hydrolysis under acid and basic conditions. Under acidic conditions, the reaction is the reverse reaction of the Fischer esterification. Under basic conditions, hydroxide acts as a nucleophile, while an alkoxide is the leaving group. This reaction, saponification, is the basis of soap making.
 
-    Ester_hydrolysis.png
+
 
 The alkoxide group may also be displaced by stronger nucleophiles such as ammonia or primary or secondary amines to give amides: (ammonolysis reaction)
 
@@ -225,54 +225,54 @@ List of ester odorants
 
 Many esters have distinctive fruit-like odors, and many occur naturally in the essential oils of plants. This has also led to their common use in artificial flavorings and fragrances which aim to mimic those odors.
 
-  Ester name                               Formula                           Odor or occurrence
-  ---------------------------------------- --------------------------------- --------------------------------------------------------------------
-  Allyl hexanoate                          Prop-2-enyl_hexanoate.svg         pineapple
-  Benzyl acetate                           Benzyl_acetate-structure.svg      pear, strawberry, jasmine
-  Bornyl acetate                           Bornyl_acetate.svg                pine
-  Butyl acetate                            Butylacetat.svg                   apple, honey
-  Butyl butyrate                           Butyl_butyrate2.svg               pineapple
-  Butyl propanoate                                                           pear drops
-  Ethyl acetate                            Ethyl_acetate2.svg                nail polish remover, model paint, model airplane glue
-  Ethyl benzoate                           Ethyl_benzoate_svg.svg            sweet, wintergreen, fruity, medicinal, cherry, grape
-  Ethyl butyrate                           Ethyl_butyrate2.svg               banana, pineapple, strawberry
-  Ethyl hexanoate                          Ethyl-hexanoate.svg               pineapple, waxy-green banana
-  Ethyl cinnamate                          Ethyl-cinnamate.svg               cinnamon
-  Ethyl formate                            Ethyl-formate.svg                 lemon, rum, strawberry
-  Ethyl heptanoate                         Ethyl-heptanoate.svg              apricot, cherry, grape, raspberry
-  Ethyl isovalerate                        Ethyl_isovalerate_structure.svg   apple
-  Ethyl lactate                            Ethyl_lactate.svg                 butter, cream
-  Ethyl nonanoate                          Ethyl-nonanoate.svg               grape
-  Ethyl pentanoate                         Ethyl_valerate.svg                apple
-  Geranyl acetate                          Geranyl-acetate.svg               geranium
-  Geranyl butyrate                         Geranyl_butyrate.svg              cherry
-  Geranyl pentanoate                       Geranyl_pentanoate.svg            apple
-  Isobutyl acetate                         Isobutyl-acetate.svg              cherry, raspberry, strawberry
-  Isobutyl formate                         Isobutyl_formate.svg              raspberry
-  Isoamyl acetate                          Isoamyl_acetate.svg               pear, banana (flavoring in Pear drops)
-  Isopropyl acetate                        Isopropyl_acetate.svg             fruity
-  Linalyl acetate                          Linalyl_acetate.svg               lavender, sage
-  Linalyl butyrate                         Linalyl_butyrate.svg              peach
-  Linalyl formate                          Linalyl_formate.svg               apple, peach
-  Methyl acetate                           Methyl-acetate.svg                glue
-  Methyl anthranilate                      Methyl_anthranilate.svg           grape, jasmine
-  Methyl benzoate                          Methyl_benzoate.svg               fruity, ylang ylang, feijoa
-  Methyl butyrate (methyl butanoate)       Buttersauremethylester.svg        pineapple, apple, strawberry
-  Methyl cinnamate                         methyl_cinnamate.svg              strawberry
-  Methyl pentanoate (methyl valerate)      Methyl_pentanoate.svg             flowery
-  Methyl phenylacetate                     Methyl_phenylacetate.svg          honey
-  Methyl salicylate (oil of wintergreen)   Methyl_salicylate.svg             Modern root beer, wintergreen, Germolene and Ralgex ointments (UK)
-  Nonyl caprylate                          Nonyl_caprylate.svg               orange
-  Octyl acetate                            Octyl_acetate.svg                 fruity-orange
-  Octyl butyrate                           Octyl_butyrate.svg                parsnip
-  Amyl acetate (pentyl acetate)            Amyl_acetate.svg                  apple, banana
-  Pentyl butyrate (amyl butyrate)          Pentyl_butyrate.svg               apricot, pear, pineapple
-  Pentyl hexanoate (amyl caproate)         Pentyl_hexanoate.svg              apple, pineapple
-  Pentyl pentanoate (amyl valerate)        Pentyl_pentanoate.svg             apple
-  Propyl acetate                           Propyl_acetate.svg                pear
-  Propyl hexanoate                         Propyl-hexanoate.svg              blackberry, pineapple, cheese, wine
-  Propyl isobutyrate                       Propyl_isobutyrate.svg            rum
-  Terpenyl butyrate                        Terpenyl_butyrate.svg             | cherry
+  Ester name                               Formula   Odor or occurrence
+  ---------------------------------------- --------- --------------------------------------------------------------------
+  Allyl hexanoate                                    pineapple
+  Benzyl acetate                                     pear, strawberry, jasmine
+  Bornyl acetate                                     pine
+  Butyl acetate                                      apple, honey
+  Butyl butyrate                                     pineapple
+  Butyl propanoate                                   pear drops
+  Ethyl acetate                                      nail polish remover, model paint, model airplane glue
+  Ethyl benzoate                                     sweet, wintergreen, fruity, medicinal, cherry, grape
+  Ethyl butyrate                                     banana, pineapple, strawberry
+  Ethyl hexanoate                                    pineapple, waxy-green banana
+  Ethyl cinnamate                                    cinnamon
+  Ethyl formate                                      lemon, rum, strawberry
+  Ethyl heptanoate                                   apricot, cherry, grape, raspberry
+  Ethyl isovalerate                                  apple
+  Ethyl lactate                                      butter, cream
+  Ethyl nonanoate                                    grape
+  Ethyl pentanoate                                   apple
+  Geranyl acetate                                    geranium
+  Geranyl butyrate                                   cherry
+  Geranyl pentanoate                                 apple
+  Isobutyl acetate                                   cherry, raspberry, strawberry
+  Isobutyl formate                                   raspberry
+  Isoamyl acetate                                    pear, banana (flavoring in Pear drops)
+  Isopropyl acetate                                  fruity
+  Linalyl acetate                                    lavender, sage
+  Linalyl butyrate                                   peach
+  Linalyl formate                                    apple, peach
+  Methyl acetate                                     glue
+  Methyl anthranilate                                grape, jasmine
+  Methyl benzoate                                    fruity, ylang ylang, feijoa
+  Methyl butyrate (methyl butanoate)                 pineapple, apple, strawberry
+  Methyl cinnamate                                   strawberry
+  Methyl pentanoate (methyl valerate)                flowery
+  Methyl phenylacetate                               honey
+  Methyl salicylate (oil of wintergreen)             Modern root beer, wintergreen, Germolene and Ralgex ointments (UK)
+  Nonyl caprylate                                    orange
+  Octyl acetate                                      fruity-orange
+  Octyl butyrate                                     parsnip
+  Amyl acetate (pentyl acetate)                      apple, banana
+  Pentyl butyrate (amyl butyrate)                    apricot, pear, pineapple
+  Pentyl hexanoate (amyl caproate)                   apple, pineapple
+  Pentyl pentanoate (amyl valerate)                  apple
+  Propyl acetate                                     pear
+  Propyl hexanoate                                   blackberry, pineapple, cheese, wine
+  Propyl isobutyrate                                 rum
+  Terpenyl butyrate                                  | cherry
 
 
 See also

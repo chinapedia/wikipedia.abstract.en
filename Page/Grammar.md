@@ -31,7 +31,7 @@ From the latter part of the 18th century, grammar came to be understood as a sub
 
  Theoretical frameworks
 
-Parse_tree_1.jpg, whereby the sentence is divided into a noun phrase and a verb phrase.]] Frameworks of grammar, which attempt to give a precise scientific theory of the syntax rules of grammar and their function, have been developed in theoretical linguistics. Most mainstream frameworks are based on the conception of an innate "universal grammar", an idea developed by Noam Chomsky. The most prominent theories are:
+, whereby the sentence is divided into a noun phrase and a verb phrase.]] Frameworks of grammar, which attempt to give a precise scientific theory of the syntax rules of grammar and their function, have been developed in theoretical linguistics. Most mainstream frameworks are based on the conception of an innate "universal grammar", an idea developed by Noam Chomsky. The most prominent theories are:
 
 -   Generative grammar: algorithmic constituency aka "phrase structure" relation (Noam Chomsky 1950)
     -   Transformational grammar (1960s)

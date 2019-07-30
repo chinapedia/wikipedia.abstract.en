@@ -5,8 +5,6 @@ Description
 
 When a Guru Meditation is displayed, the options are to reboot by pressing the left mouse button, or to invoke ROMWack by pressing the right mouse button. (ROMWack is a minimalist debugger built into the operating system which is accessible by connecting a 9600 bit/s terminal to the serial port.)
 
-Guru_meditation.gif GuruMeditationErrorinDSOrganize_01.jpg
-
 The alert itself appears as a black rectangular box located in the upper portion of the screen. Its border and text are red for a normal Guru Meditation, or green/yellow for a Recoverable Alert, another kind of Guru Meditation. The screen goes black, and the power and disk-activity LEDs may blink immediately before the alert appears. In AmigaOS 1.x, programmed in ROMs known as Kickstart 1.1, 1.2 and 1.3, the errors are always red. In AmigaOS 2.x and 3.x, recoverable alerts are yellow, except for some very early versions of 2.x where they were green.
 
 Dead-end alerts are always red and terminal in all OS versions except in a rare series of events, as in when a deprecated Kickstart (example: 1.1) program conditionally boots from disk on a more advanced Kickstart 3.x ROM Amiga running in compatibility mode (therefore eschewing the on-disk OS) and crashes with a red Guru Meditation but subsequently restores itself by pressing the left mouse button, the newer Kickstart recognizing an inadvised low level chipset call for the older ROM directly poking the hardware, and addressing it.

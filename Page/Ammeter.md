@@ -1,4 +1,4 @@
-Amperemeter_hg.jpg Galvanometer_diagram.svg Ammeter_from_New_York_Terminal_Service_Plant,_250_West_Thirty-first_Street_351263pv.jpg Terminal Service Plant in New York City]] Zero-Center_Ammeter.JPG AmmeterPC.jpg PC.]] An AMMETER (from AMpere METER) is a measuring instrument used to measure the current in a circuit. Electric currents are measured in amperes (A), hence the name. Instruments used to measure smaller currents, in the milliampere or microampere range, are designated as _milliammeters_ or _microammeters_. Early ammeters were laboratory instruments which relied on the Earth's magnetic field for operation. By the late 19th century, improved instruments were designed which could be mounted in any position and allowed accurate measurements in electric power systems. It is generally represented by letter 'A' in a circle.
+Terminal Service Plant in New York City]] PC.]] An AMMETER (from AMpere METER) is a measuring instrument used to measure the current in a circuit. Electric currents are measured in amperes (A), hence the name. Instruments used to measure smaller currents, in the milliampere or microampere range, are designated as _milliammeters_ or _microammeters_. Early ammeters were laboratory instruments which relied on the Earth's magnetic field for operation. By the late 19th century, improved instruments were designed which could be mounted in any position and allowed accurate measurements in electric power systems. It is generally represented by letter 'A' in a circle.
 
 
 History
@@ -42,7 +42,7 @@ Digital ammeter designs use a shunt resistor to produce a calibrated voltage pro
 
 Integrating
 
-DC_Electric_Meter.JPG There is also a range of devices referred to as integrating ammeters.[11][12] In these ammeters the current is summed over time, giving as a result the product of current and time; which is proportional to the electrical charge transferred with that current. These can be used for metering energy (the charge needs to be multiplied by the voltage to give energy) or for estimating the charge of a battery or capacitor.
+There is also a range of devices referred to as integrating ammeters.[11][12] In these ammeters the current is summed over time, giving as a result the product of current and time; which is proportional to the electrical charge transferred with that current. These can be used for metering energy (the charge needs to be multiplied by the voltage to give energy) or for estimating the charge of a battery or capacitor.
 
 
 Picoammeter
@@ -58,7 +58,7 @@ The majority of ammeters are either connected in series with the circuit carryin
 
 Ordinary Weston-type meter movements can measure only milliamperes at most, because the springs and practical coils can carry only limited currents. To measure larger currents, a resistor called a _shunt_ is placed in parallel with the meter. The resistances of shunts is in the integer to fractional milliohm range. Nearly all of the current flows through the shunt, and only a small fraction flows through the meter. This allows the meter to measure large currents. Traditionally, the meter used with a shunt has a full-scale deflection (FSD) of , so shunts are typically designed to produce a voltage drop of when carrying their full rated current.
 
-Ayrton-shunt.jpg To make a multi-range ammeter, a selector switch can be used to connect one of a number of shunts across the meter. It must be a make-before-break switch to avoid damaging current surges through the meter movement when switching ranges.
+To make a multi-range ammeter, a selector switch can be used to connect one of a number of shunts across the meter. It must be a make-before-break switch to avoid damaging current surges through the meter movement when switching ranges.
 
 A better arrangement is the Ayrton shunt or universal shunt, invented by William E. Ayrton, which does not require a make-before-break switch. It also avoids any inaccuracy because of contact resistance. In the figure, assuming for example, a movement with a full-scale voltage of 50 mV and desired current ranges of 10 mA, 100 mA, and 1 A, the resistance values would be: R1=4.5 ohms, R2=0.45 ohm, R3=0.05 ohm. And if the movement resistance is 1000 ohms, for example, R1 must be adjusted to 4.525 ohms.
 

@@ -1,4 +1,4 @@
-Rifugi_Monte_Ortobene_018.JPG, the main urban center in Barbagia]] Sardegna_Barbaria.png
+, the main urban center in Barbagia]]
 
 BARBAGIA ( or ) is a mountain area of inner Sardinia. It is a natural region mostly contained in the province of Nuoro and located alongside the Gennargentu massif.
 

@@ -36,7 +36,7 @@ Its use as a primary unit for trade in the United Kingdom ceased to be permitted
 
 Equivalence to other units of area
 
-Acre_superimposed_over_football_fields.svg field (green) and Association football/soccer pitch (blue).]] 1 international acre is equal to the following metric units:
+field (green) and Association football/soccer pitch (blue).]] 1 international acre is equal to the following metric units:
 
 -   0.40468564224 hectare (A square with 100 m sides has an area of 1 hectare.)
 -   4,046.8564224 square metres

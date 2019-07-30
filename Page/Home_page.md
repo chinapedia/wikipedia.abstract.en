@@ -1,4 +1,4 @@
-2019_Screenshot_of_English_Wikipedia_homepage.png, as of April 2019]] A HOME PAGE or a START PAGE is the initial or main web page of a website or a browser. The initial page of a website is sometimes called MAIN PAGE as well.
+, as of April 2019]] A HOME PAGE or a START PAGE is the initial or main web page of a website or a browser. The initial page of a website is sometimes called MAIN PAGE as well.
 
 
 Website home page

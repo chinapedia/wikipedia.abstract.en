@@ -1,5 +1,3 @@
-Botswana_map_of_Köppen_climate_classification.svg Botswana_Topography.png
-
 BOTSWANA is a landlocked country located in Southern Africa, north of South Africa. Botswana occupies an area of , of which are land. Botswana has land boundaries of combined length , of which the constituent boundaries are shared with Namibia, for ; South Africa ; Zimbabwe, and Zambia, . Much of the population of Botswana is concentrated in the eastern part of the country.
 
 Sunshine totals are high all year round although winter is the sunniest period. The whole country is windy and dusty during the dry season.[1]

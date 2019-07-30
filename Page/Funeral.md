@@ -7,7 +7,7 @@ The word _funeral_ comes from the Latin _funus_, which had a variety of meanings
 
 Overview
 
-Peasant_Funeral.jpg of Connemara, Ireland'', 1870]]
+of Connemara, Ireland'', 1870]]
 
 Funeral rites are as old as human culture itself, pre-dating modern _Homo sapiens_ and dated to at least 300,000 years ago.[4] For example, in the Shanidar Cave in Iraq, in Pontnewydd Cave in Wales and at other sites across Europe and the Near East,[5] archaeologists have discovered Neanderthal skeletons with a characteristic layer of flower pollen. This deliberate burial and reverence given to the dead has been interpreted as suggesting that Neanderthals had religious beliefs,[6] although the evidence is not unequivocal – while the dead were apparently buried deliberately, burrowing rodents could have introduced the flowers.[7]
 
@@ -26,7 +26,7 @@ A Buddhist funeral marks the transition from one life to the next for the deceas
 
 Christian
 
-Mar_Varghese_Payyappilly_Palakkappilly_Funeral.jpgn Syro-Malabar Eastern Catholic Venerable Varghese Payyappilly Palakkappilly on 6 October 1929.]]
+n Syro-Malabar Eastern Catholic Venerable Varghese Payyappilly Palakkappilly on 6 October 1929.]]
 
 Christian burials typically occur on consecrated ground. Burial, rather than a destructive process such as cremation, was the traditional practice amongst Christians, because of the belief in the resurrection of the body. Cremations later came into widespread use, although some denominations forbid them. The US Conference of Catholic Bishops said "The Church earnestly recommends that the pious custom of burying the bodies of the deceased be observed; nevertheless, the Church does not prohibit cremation unless it was chosen for reasons contrary to Christian doctrine" (canon 1176.3).[12]
 
@@ -38,7 +38,7 @@ Antyesti, literally "last rites or last sacrifice", refers to the rite-of-passag
 
 A dead adult Hindu is cremated, while a dead child is typically buried.[17][18] The rite of passage is said to be performed in harmony with the sacred premise that the microcosm of all living beings is a reflection of a macrocosm of the universe.[19] The soul (Atman, Brahman) is believed to be the immortal essence that is released at the _Antyeshti_ ritual, but both the body and the universe are vehicles and transitory in various schools of Hinduism. They consist of five elements: air, water, fire, earth and space.[20] The last rite of passage returns the body to the five elements and origins.[21][22] The roots of this belief are found in the Vedas, for example in the hymns of Rigveda in section 10.16, as follows,
 
-Bagamati_cremation.jpg. The samskara above shows the body wrapped in saffron red on a pyre.]]
+. The samskara above shows the body wrapped in saffron red on a pyre.]]
 
 The final rites of a burial, in case of untimely death of a child, is rooted in Rig Veda's section 10.18, where the hymns mourn the death of the child, praying to deity Mrityu to "neither harm our girls nor our boys", and pleads the earth to cover, protect the deceased child as a soft wool.[23]
 
@@ -46,7 +46,7 @@ Among Hindus, the dead body is usually cremated within a day of death. The body 
 
 Islamic
 
-Algeria_1779_Antique_Hand_Col_Print._Algerine_Funeral.jpgn funerals]] FUNERALS IN ISLAM (called Janazah in Arabic) follow fairly specific rites. In all cases, however, sharia (Islamic religious law) calls for burial of the body, preceded by a simple ritual involving bathing and shrouding the body, followed by salat (prayer).
+n funerals]] FUNERALS IN ISLAM (called Janazah in Arabic) follow fairly specific rites. In all cases, however, sharia (Islamic religious law) calls for burial of the body, preceded by a simple ritual involving bathing and shrouding the body, followed by salat (prayer).
 
 Burial rituals should normally take place as soon as possible and include:
 
@@ -99,7 +99,7 @@ Classical antiquity
 
 Ancient Greece
 
-Gela_Painter_-_Black-Figure_"Pinax"_(Plaque)_-_Walters_48225.jpg, latter 6th century BC)]]
+, latter 6th century BC)]]
 
 The Greek word for funeral – _kēdeía_ (κηδεία) – derives from the verb _kēdomai_ (κήδομαι), that means attend to, take care of someone. Derivative words are also _kēdemón_ (κηδεμών, "guardian") and _kēdemonía_ (κηδεμονία, "guardianship"). From the Cycladic civilization in 3000BC until the Hypo-Mycenaean era in 1200–1100 BC the main practice of burial is interment. The cremation of the dead that appears around the 11th century BC constitutes a new practice of burial and is probably an influence from the East. Until the Christian era, when interment becomes again the only burial practice, both cremation and interment had been practiced depending on the area.[40]
 
@@ -109,13 +109,13 @@ _Próthesis_ is the deposition of the body of the deceased on the funereal bed a
 
 _Ekphorá_ is the process of transport of the mortal remains of the deceased from his residence to the church, nowadays, and afterward to the place of burial. The procession in the ancient times, according to the law, should have passed silently through the streets of the city. Usually certain favourite objects of the deceased were placed in the coffin in order to "go along with him." In certain regions, coins to pay Charon, who ferries the dead to the underworld, are also placed inside the casket. A last kiss is given to the beloved dead by the family before the coffin is closed.
 
-2011_Enterrement_de_Jacquotte.jpg on marble]] The Roman orator Cicero[42] describes the habit of planting flowers around the tomb as an effort to guarantee the repose of the deceased and the purification of the ground, a custom that is maintained until today. After the ceremony, the mourners return to the house of the deceased for the _perídeipnon_, the dinner after the burial. According to archaeological findings–traces of ash, bones of animals, shards of crockery, dishes and basins–the dinner during the classical era was also organized at the burial spot. Taking into consideration the written sources, however, the dinner could also be served in the houses.[43]
+on marble]] The Roman orator Cicero[42] describes the habit of planting flowers around the tomb as an effort to guarantee the repose of the deceased and the purification of the ground, a custom that is maintained until today. After the ceremony, the mourners return to the house of the deceased for the _perídeipnon_, the dinner after the burial. According to archaeological findings–traces of ash, bones of animals, shards of crockery, dishes and basins–the dinner during the classical era was also organized at the burial spot. Taking into consideration the written sources, however, the dinner could also be served in the houses.[43]
 
 Two days after the burial, a ceremony called "the thirds" was held. Eight days after the burial the relatives and the friends of the deceased assembled at the burial spot, where "the ninths" would take place, a custom still kept. In addition to this, in the modern era, memorial services take place 40 days, 3 months, 6 months, 9 months, 1 year after the death and from then on every year on the anniversary of the death. The relatives of the deceased, for an unspecified length of time that depends on them, are in mourning, during which women wear black clothes and men a black armband.
 
 Ancient Rome
 
-Sepolcro_degli_Scipioni_001_Entrata.jpg, in use from the 3rd century BC to the 1st century AD]] In ancient Rome, the eldest surviving male of the household, the _pater familias_, was summoned to the death-bed, where he attempted to catch and inhale the last breath of the decedent.
+, in use from the 3rd century BC to the 1st century AD]] In ancient Rome, the eldest surviving male of the household, the _pater familias_, was summoned to the death-bed, where he attempted to catch and inhale the last breath of the decedent.
 
 Funerals of the socially prominent usually were undertaken by professional undertakers called _libitinarii_. No direct description has been passed down of Roman funeral rites. These rites usually included a public procession to the tomb or pyre where the body was to be cremated. The surviving relations bore masks bearing the images of the family's deceased ancestors. The right to carry the masks in public eventually was restricted to families prominent enough to have held _curule magistracies_. Mimes, dancers, and musicians hired by the undertakers, and professional female mourners, took part in these processions. Less well-to-do Romans could join benevolent funerary societies (_collegia funeraticia_) that undertook these rites on their behalf.
 
@@ -131,7 +131,7 @@ The Romans commonly built tombs for themselves during their lifetime. Hence thes
 
 North American funerals
 
-Within the United States and Canada, in most cultural groups and regions, the funeral rituals can be divided into three parts: visitation, funeral, and the burial service. South_Korea_funeral_motorcade.jpg.]]
+Within the United States and Canada, in most cultural groups and regions, the funeral rituals can be divided into three parts: visitation, funeral, and the burial service. .]]
 
 Visitation
 
@@ -141,7 +141,7 @@ The most commonly prescribed aspects of this gathering are that the attendees si
 
 The viewing is either "open casket", in which the embalmed body of the deceased has been clothed and treated with cosmetics for display; or "closed casket", in which the coffin is closed. The coffin may be closed if the body was too badly damaged because of an accident or fire or other trauma, deformed from illness, if someone in the group is emotionally unable to cope with viewing the corpse, or if the deceased did not wish to be viewed. In cases such as these, a picture of the deceased, usually a formal photo, is placed atop the casket.
 
-Tombstone_of_Yossele_the_Holy_Miser.jpg. According to Jewish bereavement tradition, the dozens of stones on his tombstone mark respect for the Holy Miser.]] However, this step is foreign to Judaism; Jewish funerals are held soon after death (preferably within a day or two, unless more time is needed for relatives to come), and the corpse is never displayed. Torah law forbids embalming.[44] Traditionally flowers (and music) are not sent to a grieving Jewish family as it is a reminder of the life that is now lost. The Jewish shiva tradition discourages family members from cooking, so food is brought by friends and neighbors.[45] (_See also Jewish bereavement._)
+. According to Jewish bereavement tradition, the dozens of stones on his tombstone mark respect for the Holy Miser.]] However, this step is foreign to Judaism; Jewish funerals are held soon after death (preferably within a day or two, unless more time is needed for relatives to come), and the corpse is never displayed. Torah law forbids embalming.[44] Traditionally flowers (and music) are not sent to a grieving Jewish family as it is a reminder of the life that is now lost. The Jewish shiva tradition discourages family members from cooking, so food is brought by friends and neighbors.[45] (_See also Jewish bereavement._)
 
 The decedent's closest friends and relatives who are unable to attend frequently send flowers to the viewing, with the exception of a Jewish funeral,[46] where flowers would not be appropriate (donations are often given to a charity instead).
 
@@ -153,7 +153,7 @@ A visitation is often held the evening before the day of the funeral. However, w
 
 Funeral
 
-Flower-arrangement-funeral-white.jpg)]] A memorial service, often called a funeral, is often officiated by clergy from the decedent's, or bereaved's, church or religion. A funeral may take place at either a funeral home, church, or crematorium or cemetery chapel. A funeral is held according to the family's choosing, which may be a few days after the time of death, allowing family members to attend the service. This type of memorial service is most common for Christians, and Roman Catholics call it a mass when Eucharist (communion) is offered, the casket is closed and a priest says prayers and blessings. A Roman Catholic funeral must take place in a parish church (usually that of the deceased, or that of the family grave, or a parish to which the deceased had special links). Sometimes family members or friends of the dead will say something. If the funeral service takes place in the funeral home (mostly it takes place in the funeral home's chapel) it can be directed by a clergy (mostly for Protestant churches and sometimes for Catholic churches) or hosted by a very close family member most common a parent. In some traditions if this service takes place in a funeral home it is the same if it would take place in a church. These services if taking place in a funeral home consists of prayers, blessings and eulogies from the family.
+)]] A memorial service, often called a funeral, is often officiated by clergy from the decedent's, or bereaved's, church or religion. A funeral may take place at either a funeral home, church, or crematorium or cemetery chapel. A funeral is held according to the family's choosing, which may be a few days after the time of death, allowing family members to attend the service. This type of memorial service is most common for Christians, and Roman Catholics call it a mass when Eucharist (communion) is offered, the casket is closed and a priest says prayers and blessings. A Roman Catholic funeral must take place in a parish church (usually that of the deceased, or that of the family grave, or a parish to which the deceased had special links). Sometimes family members or friends of the dead will say something. If the funeral service takes place in the funeral home (mostly it takes place in the funeral home's chapel) it can be directed by a clergy (mostly for Protestant churches and sometimes for Catholic churches) or hosted by a very close family member most common a parent. In some traditions if this service takes place in a funeral home it is the same if it would take place in a church. These services if taking place in a funeral home consists of prayers, blessings and eulogies from the family.
 
 The _open-casket service_ (which is common in North America) allows mourners to have a final opportunity to view the deceased and say good-bye. There is an order of precedence when approaching the casket at this stage that usually starts with the immediate family (siblings, parents, spouse, children); followed by other mourners, after which the immediate family may file past again, so they are the last to view their loved one before the coffin is closed. This opportunity can take place immediately before the service begins, or at the very end of the service.[48] A Roman Catholic funeral must be closed-casket, and relatives are expected to attend the few days before the service.
 
@@ -161,7 +161,7 @@ Open casket funerals and visitations are very rare in some countries, such as th
 
 The deceased is usually transported from the funeral home to a church in a hearse, a specialized vehicle designed to carry casketed remains. The deceased is often transported in a procession (also called a funeral cortège), with the hearse, funeral service vehicles, and private automobiles traveling in a procession to the church or other location where the services will be held. In a number of jurisdictions, special laws cover funeral processions – such as requiring most other vehicles to give right-of-way to a funeral procession. Funeral service vehicles may be equipped with light bars and special flashers to increase their visibility on the roads. They may also all have their headlights on, to identify which vehicles are part of the cortege, although the practice also has roots in ancient Roman customs.[49] After the funeral service, if the deceased is to be buried the funeral procession will proceed to a cemetery if not already there. If the deceased is to be cremated, the funeral procession may then proceed to the crematorium.
 
-Beethoven_Funerals.jpg's funeral as depicted by Franz Xaver Stöber.]] Religious funeral services commonly include prayers, readings from a sacred text, hymns (sung either by the attendees or a hired vocalist) and words of comfort by the clergy. Frequently, a relative or close friend will be asked to give a eulogy, which details happy memories and accomplishments rather than criticism. Sometimes the eulogy is delivered by clergy. Church bells may also be tolled both before and after the service.
+'s funeral as depicted by Franz Xaver Stöber.]] Religious funeral services commonly include prayers, readings from a sacred text, hymns (sung either by the attendees or a hired vocalist) and words of comfort by the clergy. Frequently, a relative or close friend will be asked to give a eulogy, which details happy memories and accomplishments rather than criticism. Sometimes the eulogy is delivered by clergy. Church bells may also be tolled both before and after the service.
 
 In some religious denominations, for example, Roman Catholic, and Anglican, eulogies from loved ones are somewhat discouraged during this service. In such cases, the eulogy is only done by a member of the clergy. This tradition is giving way to eulogies read by family members or friends. In these religions the coffin is traditionally closed at the end of the wake and is not re-opened for the funeral service.
 
@@ -171,7 +171,7 @@ Funeral customs vary from country to country. In the United States, any type of 
 
 Burial service
 
-Millais_-_Das_Tal_der_Stille.jpg – The Vale of Rest]]
+– The Vale of Rest]]
 
 At a religious burial service, conducted at the side of the grave, tomb, mausoleum or cremation, the body of the decedent is buried or cremated at the conclusion.
 
@@ -183,7 +183,7 @@ In many religious traditions, pallbearers, usually males who are relatives or fr
 
 Most religions expect coffins to be kept closed during the burial ceremony. In Eastern Orthodox funerals, the coffins are reopened just before burial to allow mourners to look at the deceased one last time and give their final farewells. Greek funerals are an exception as the coffin is open during the whole procedure unless the state of the body does not allow it.
 
-Medieval_Royal_Funeral007.jpg depiction of a royal body being laid in a coffin.]] Morticians may ensure that all jewelry, including wristwatch, that were displayed at the wake are in the casket before it is buried or entombed. Custom requires that everything goes into the ground; however this is not true for Jewish services. Jewish tradition stipulates that nothing of value is buried with the deceased.
+depiction of a royal body being laid in a coffin.]] Morticians may ensure that all jewelry, including wristwatch, that were displayed at the wake are in the casket before it is buried or entombed. Custom requires that everything goes into the ground; however this is not true for Jewish services. Jewish tradition stipulates that nothing of value is buried with the deceased.
 
 In the case of cremation such items are usually removed before the body goes into the furnace. Pacemakers are removed prior to cremation – if left in they could explode.
 
@@ -193,7 +193,7 @@ The family of the deceased may wish to have only a very small, private service, 
 
 Memorial services
 
-BrochureMemorialSvcWilliamMcKinleyInsidePagesNashuaNH09191901.jpg on September 19, 1901, shortly after his assassination.]]
+on September 19, 1901, shortly after his assassination.]]
 
 A memorial service, or a commemoration is one given for the deceased when the body is not present. The service takes place _after_ cremation or burial at sea, after donation of the body to an academic or research institution, or after the ashes have been scattered. It is also significant when the person is missing and presumed dead, or known to be deceased though the body is not recoverable. These services often take place at a funeral home; however, they can be held in a home, school, workplace, church or other location of some significance. A memorial service may include speeches (eulogies), prayers, poems, or songs to commemorate the deceased. Pictures of the deceased and flowers are usually placed where the coffin would normally be placed.
 
@@ -250,7 +250,7 @@ Originating in New Orleans, Louisiana, U.S., alongside the emergence of jazz mus
 
 Green
 
-Toda_green_funeral1871.jpg green funeral.]]
+green funeral.]]
 
 The terms "green burial" and "natural burial", used interchangeably, apply to ceremonies that aim to return the body with the earth with little to no use of artificial, non-biodegradable materials. As a concept, the idea of uniting an individual with the natural world after he or she dies appears as old as human death itself, being widespread before the rise of the funeral industry. Holding environmentally-friendly ceremonies as a modern concept first attracted widespread attention in the 1990s. In terms of North America, the opening of the first explicitly "green" burial cemetery in the U.S. took place in the state of South Carolina. However, the Green Burial Council, which came into being in 2005, has based its operations out of California. The instition works to officially certifies burial practices for funeral homes and cemeteries, making sure that appropriate materials are used.[65]
 
@@ -272,7 +272,7 @@ Civil funerals are an alternative to religious or humanist ceremonies in the UK.
 
 Police/fire services
 
-Stairway2heaven.jpg funeral]] Funerals specifically for fallen members of fire or police services are common in United States and Canada. These funerals involve honour guards from police forces and/or fire services from across the country and sometimes from overseas.[81] A parade of officers often precedes or follows the hearse carrying the fallen comrade.[82]
+funeral]] Funerals specifically for fallen members of fire or police services are common in United States and Canada. These funerals involve honour guards from police forces and/or fire services from across the country and sometimes from overseas.[81] A parade of officers often precedes or follows the hearse carrying the fallen comrade.[82]
 
 Masonic
 
@@ -283,7 +283,7 @@ There is no single Masonic funeral service. Some Grand Lodges (it is a worldwide
 
 Asian funerals
 
-Bundesarchiv_Bild_137-009055,_Leichenzug_in_Peking.jpg, 1900]] Korean_Funeral_Armband.png
+, 1900]]
 
 In most East Asian, South Asian and many Southeast Asian cultures, the wearing of white is symbolic of death. In these societies, white or off-white robes are traditionally worn to symbolize that someone has died and can be seen worn among relatives of the deceased during a funeral ceremony. In Chinese culture, red is strictly forbidden as it is a traditionally symbolic color of happiness. Exceptions are sometimes made if the deceased has reached an advanced age such as 85, in which case the funeral is considered a celebration, where wearing white with some red is acceptable. Contemporary Western influence however has meant that dark-colored or black attire is now often also acceptable for mourners to wear (particularly for those outside the family). In such cases, mourners wearing dark colors at times may also wear a white or off-white armband or white robe.
 
@@ -291,7 +291,7 @@ Contemporary South Korean funerals typically mix western culture with traditiona
 
 In Japan
 
-Sudangee_(last_offices)_shaving_the_head_of_the_dead_in_Japan-J._M._W._Silver.jpg Most Japanese funerals are conducted with Buddhist and/or Shinto rites.[85] Many ritually bestow a new name on the deceased; funerary names typically use obsolete or archaic kanji and words, to avoid the likelihood of the name being used in ordinary speech or writing. The new names are typically chosen by a Buddhist priest, after consulting the family of the deceased. Most Japanese are cremated.
+Most Japanese funerals are conducted with Buddhist and/or Shinto rites.[85] Many ritually bestow a new name on the deceased; funerary names typically use obsolete or archaic kanji and words, to avoid the likelihood of the name being used in ordinary speech or writing. The new names are typically chosen by a Buddhist priest, after consulting the family of the deceased. Most Japanese are cremated.
 
 Religious thought among the Japanese people is generally a blend of Shintō and Buddhist beliefs. In modern practice, specific rites concerning an individual's passage through life are generally ascribed to one of these two faiths. Funerals and follow-up memorial services fall under the purview of Buddhist ritual, and 90% Japanese funerals are conducted in a Buddhist manner. Aside from the religious aspect, a Japanese funeral usually includes a wake, the cremation of the deceased, and inclusion within the family grave. Follow-up services are then performed by a Buddhist priest on specific anniversaries after death.
 
@@ -305,9 +305,9 @@ Most if not all present-day Filipinos, like their ancestors, believe in some for
 
 In Korea
 
-Korean.cuisine-Yukgaejang-01.jpg In Korea, funerals are typically held for three days and different things are done in each day.
+In Korea, funerals are typically held for three days and different things are done in each day.
 
-The first day: on the day a person dies, the body is moved to a funeral hall. They prepare clothes for the body and put them into a chapel of rest. Then food is prepared for the deceased. It is made up of three bowls of rice and three kinds of Korean side dishes. Also, there has to be three coins and three straw shoes. This can be cancelled if the family of the dead person have a particular religion.[94] Soju_in_korean_restaurant.JPG On the second day the funeral director washes the body and shrouding is done. Then, a family member of the dead person puts uncooked rice in the mouth of the body. This step does not have to be done if the family has a certain religion. After putting the rice in the mouth, the body is moved into a coffin. Family members, including close relatives, of the dead person will wear mourning clothing. Typically, mourning for a woman includes Korean traditional clothes, Hanbok, and mourning for man includes a suit. The color has to be black. The ritual ceremony begins when they are done with changing clothes and preparing foods for the dead person. The ritual ceremony is different depending on their religion. After the ritual ceremony family members will start to greet guests.[95]
+The first day: on the day a person dies, the body is moved to a funeral hall. They prepare clothes for the body and put them into a chapel of rest. Then food is prepared for the deceased. It is made up of three bowls of rice and three kinds of Korean side dishes. Also, there has to be three coins and three straw shoes. This can be cancelled if the family of the dead person have a particular religion.[94] On the second day the funeral director washes the body and shrouding is done. Then, a family member of the dead person puts uncooked rice in the mouth of the body. This step does not have to be done if the family has a certain religion. After putting the rice in the mouth, the body is moved into a coffin. Family members, including close relatives, of the dead person will wear mourning clothing. Typically, mourning for a woman includes Korean traditional clothes, Hanbok, and mourning for man includes a suit. The color has to be black. The ritual ceremony begins when they are done with changing clothes and preparing foods for the dead person. The ritual ceremony is different depending on their religion. After the ritual ceremony family members will start to greet guests.[95]
 
 On the third day, the family decides whether to bury the body in the ground or cremate the body. If they decide to bury the body in the ground, three people from the family sprinkle dirt on the coffin three times. In case of cremation, there are no specific things to be done like ground burial. The only thing needed is a jar to place burned bones in and a place to keep the jar.
 
@@ -332,8 +332,6 @@ Many services are also held in the Vietnamese burial practices. One is held befo
 
 African funerals
 
-The_corpse_is_dressed_and_carried_by_a_blacksmith._Kapsiki.jpg
-
 Ancient Egypt
 
 West African
@@ -355,8 +353,6 @@ China
 
 Tomb of Emperor Qin Shi Huangdi
 
-Terra_Cotta_army.jpg
-
 The first emperor of the Qin dynasty, Qin Shi Huang’s mausoleum is located in the Lintong District of Xi’an, Shaanxi Province. Qin Shi Huang's tomb is one of the World Heritage sites in China. Its remarkable feature and size have been known as one of the most important historical sites in China.[112] Qin Shi Huang is the first emperor who united China for the first time. The mausoleum was built in 247 BC after he became the emperor of Qin Dynasty.
 
 Ancient Chinese mausoleums have unique characteristics compared to other cultures. Ancient Chinese thought that the soul remains even after death, (immortal soul) regarded funeral practices as an important tradition.[113] From their long history, the construction of mausoleums has developed over time, creating monumental and massive ancient emperor's tomb.
@@ -364,8 +360,6 @@ Ancient Chinese mausoleums have unique characteristics compared to other culture
 Archeologists have found more than 8,000 life-sized figures resembling an army surrounding the emperor's tomb.[114] The primary purpose of the placement of Terracotta Army is to protect the emperor's tomb. The figures were composed of clay and fragments of pottery. The Terracotta Army resembles the soldiers, horses, government officials, and even musicians. All of the figures were made so acutely and delicately. The arrangement and the weapons they are carrying resembled entirely to the real weapons at that time. Furthermore, their facial features weren't identical, but with unique features and details.
 
 Imperial Tombs of the Ming and Qing Dynasties
-
-Ming_Dynasty_Tomb.jpg
 
 The Imperial Tombs of Ming and Qing Dynasties are included as World Heritage Sites. The three Imperial Tombs of Qin Dynasty were additionally inscribed in 2000 and 2003.[115] The three tombs were all built in the 17th century. The tombs have been constructed to praise the emperors of Qing Dynasty and their ancestors. In tradition, Chinese have followed the Feng Shui to build and decorate the interior. All of the tombs are strictly made followed by the Feng Shui theory. Harmony between the architecture and the surrounding topographical structure were seen as an integral part of nature. According to the Feng Shi theory, to build a tomb, there must be a mountain on the northern side and low land on the south. In the west and east, a river must be located.
 
@@ -408,8 +402,6 @@ It is also possible to donate organs and tissue after death, for treating the si
 
 
 See also
-
-Vögleins_Begräbnis.jpg
 
 -   Dead bell
 -   Funerary art

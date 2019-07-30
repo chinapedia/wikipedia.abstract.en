@@ -1,4 +1,4 @@
-Delaunay_circumcircles_vectorial.svg In mathematics and computational geometry, a DELAUNAY TRIANGULATION (also known as a DELONE TRIANGULATION) for a given set P of discrete points in a plane is a triangulation DT(P) such that no point in P is inside the circumcircle of any triangle in DT(P). Delaunay triangulations maximize the minimum angle of all the angles of the triangles in the triangulation; they tend to avoid sliver triangles. The triangulation is named after Boris Delaunay for his work on this topic from 1934.[1]
+In mathematics and computational geometry, a DELAUNAY TRIANGULATION (also known as a DELONE TRIANGULATION) for a given set P of discrete points in a plane is a triangulation DT(P) such that no point in P is inside the circumcircle of any triangle in DT(P). Delaunay triangulations maximize the minimum angle of all the angles of the triangles in the triangulation; they tend to avoid sliver triangles. The triangulation is named after Boris Delaunay for his work on this topic from 1934.[1]
 
 For a set of points on the same line there is no Delaunay triangulation (the notion of triangulation is degenerate for this case). For four or more points on the same circle (e.g., the vertices of a rectangle) the Delaunay triangulation is not unique: each of the two possible triangulations that split the quadrangle into two triangles satisfies the "Delaunay condition", i.e., the requirement that the circumcircles of all triangles have empty interiors.
 
@@ -23,8 +23,6 @@ The problem of finding the Delaunay triangulation of a set of points in _d_-dime
 
 
 Properties
-
-_Example_steps_in_Delauney_triangularization.png Delaunay_triangulation_does_not_minimize_edge_length.gif
 
 Let _n_ be the number of points and _d_ the number of dimensions.
 
@@ -55,7 +53,7 @@ This operation is called a _flip_, and can be generalised to three and higher di
 
 Algorithms
 
-Point_inside_circle_-_Delaunay_condition_broken_-_Labelled.svg Many algorithms for computing Delaunay triangulations rely on fast operations for detecting when a point is within a triangle's circumcircle and an efficient data structure for storing triangles and edges. In two dimensions, one way to detect if point _D_ lies in the circumcircle of _A_, _B_, _C_ is to evaluate the determinant:[9]
+Many algorithms for computing Delaunay triangulations rely on fast operations for detecting when a point is within a triangle's circumcircle and an efficient data structure for storing triangles and edges. In two dimensions, one way to detect if point _D_ lies in the circumcircle of _A_, _B_, _C_ is to evaluate the determinant:[9]
 
 
 
@@ -107,7 +105,7 @@ For modelling terrain or other objects given a set of sample points, the Delauna
 
 Delaunay triangulations can be used to determine the density or intensity of points samplings by means of the Delaunay tessellation field estimator (DTFE).
 
-Delaunay_Triangulation_(100_Points).svg Delaunay triangulations are often used to build meshes for space-discretised solvers such as the finite element method and the finite volume method of physics simulation, because of the angle guarantee and because fast triangulation algorithms have been developed. Typically, the domain to be meshed is specified as a coarse simplicial complex; for the mesh to be numerically stable, it must be refined, for instance by using Ruppert's algorithm.
+Delaunay triangulations are often used to build meshes for space-discretised solvers such as the finite element method and the finite volume method of physics simulation, because of the angle guarantee and because fast triangulation algorithms have been developed. Typically, the domain to be meshed is specified as a coarse simplicial complex; for the mesh to be numerically stable, it must be refined, for instance by using Ruppert's algorithm.
 
 The increasing popularity of finite element method and boundary element method techniques increases the incentive to improve automatic meshing algorithms. However, all of these algorithms can create distorted and even unusable grid elements. Fortunately, several techniques exist which can take an existing mesh and improve its quality. For example, smoothing (also referred to as mesh refinement) is one such method, which repositions nodal locations so as to minimize element distortion. The stretched grid method allows the generation of pseudo-regular meshes that meet the Delaunay criteria easily and quickly in a one-step solution.
 

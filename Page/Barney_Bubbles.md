@@ -1,4 +1,4 @@
-Hit_Me_With_Your_Rhythm_Stick.JPG' "Hit Me with Your Rhythm Stick" designed by Barney Bubbles]]
+' "Hit Me with Your Rhythm Stick" designed by Barney Bubbles]]
 
 BARNEY BUBBLES (born COLIN FULCHER; 30 July 1942 – 14 November 1983) was an English graphic artist whose work encompassed graphic design and music video direction. Bubbles, who also sketched and painted privately, is best known for his distinctive contribution to the design practices associated with the British independent music scene of the 1970s and 1980s. His record sleeves, laden with symbols and riddles, were his most recognisable output.
 
@@ -28,7 +28,7 @@ With Wills, Bubbles undertook freelance design commissions, including a redesign
 
 Teenburger Designs
 
-Brinsleyschwarzeponymous.jpg's _Brinsley Schwarz_ (1970) designed by Barney Bubbles]]
+'s _Brinsley Schwarz_ (1970) designed by Barney Bubbles]]
 
 Early in 1969, Bubbles took the lease on a three-storey building at 307 Portobello Road in Notting Hill Gate, West London. He converted the ground-floor space into a graphic art studio, which he named Teenburger Designs. With a business association established with two entrepreneurs, Edward Molton and Stephen Warwick, and with John Muggeridge from Conran serving briefly as an assistant, he set about working primarily for the music industry. His first record sleeve design was for Quintessence's LP _In Blissful Company_ (1969). The gatefold sleeve design uses illustrations by Gopala on the front and back, and contains a monochrome glued-in booklet inside.
 
@@ -38,7 +38,7 @@ Following the closure of Teenburger in 1970 as a result of the disappearance of 
 
 Hawkwind (and other 1970s rock)
 
-In_Search_of_Space_-_Hawkwind.jpg's _In Search of Space_ designed by Barney Bubbles]]
+'s _In Search of Space_ designed by Barney Bubbles]]
 
 While he was working at Friends, Bubbles formed an association with Hawkwind and became responsible for a run of their album sleeves, including _In Search of Space_, _Doremi Fasol Latido_ and _Space Ritual_. Bubbles engaged in many aspects of the group's visual identity, titling releases and designing posters, adverts, stage decoration and performance plans, some of which were adorned with mystical and mock-Teutonic insignia. In 1972 Bubbles produced the triple LP package _Glastonbury Fayre_. This comprised a six-panel fold-out card sleeve, two poster inserts, a booklet and a cut-out and build miniature pyramid, housed in a clear vinyl bag (with two sleeve variations and three label variations).
 
@@ -48,7 +48,7 @@ In 1976 his design relationship with Hawkwind came to an end. It was rekindled o
 
 Stiff, Radar and F Beat (and other punk and new wave)
 
-Carlenecest.jpg's _C'est C Bon_ designed by Barney Bubbles]] Barney Bubbles joined Stiff Records as designer and art director early in 1977. With the label's co-founder Jake Riviera he generated a body of creative work that helped to secure Stiff's reputation as an exciting new independent label. Bubbles created sleeves for bands including the Damned, Elvis Costello, Ian Dury and Wreckless Eric. Often these were accompanied by quirky logos such as the face logo for Blockhead, advertisements and promotional items. The marketing of Elvis Costello's _My Aim Is True_ included advertisements in three UK music papers from which a poster of Costello could be constructed, and the first 1,000 pressings contained an insert headed _Help Us Hype Elvis_, which, if completed and returned to Stiff, ensured that a friend would receive a free copy.
+'s _C'est C Bon_ designed by Barney Bubbles]] Barney Bubbles joined Stiff Records as designer and art director early in 1977. With the label's co-founder Jake Riviera he generated a body of creative work that helped to secure Stiff's reputation as an exciting new independent label. Bubbles created sleeves for bands including the Damned, Elvis Costello, Ian Dury and Wreckless Eric. Often these were accompanied by quirky logos such as the face logo for Blockhead, advertisements and promotional items. The marketing of Elvis Costello's _My Aim Is True_ included advertisements in three UK music papers from which a poster of Costello could be constructed, and the first 1,000 pressings contained an insert headed _Help Us Hype Elvis_, which, if completed and returned to Stiff, ensured that a friend would receive a free copy.
 
 When Riviera left Stiff in late 1977, Bubbles joined him at his new label Radar Records and later at Riviera's F-Beat Records. At these labels, Bubbles created more designs for Elvis Costello, as well as other artists such as Nick Lowe, Carlene Carter and Clive Langer & The Boxes.
 
@@ -67,7 +67,7 @@ Barney Bubbles directed several videos, including the Specials' "Ghost Town", Sq
 
 _NME_
 
-Bubbles' logo for the _NME_|thumb|right In 1979, riding on the reputation of his work for Stiff, Bubbles was engaged by the venerable UK music newspaper _New Musical Express_ to spearhead a complete overhaul of its decades-old brand. Bubbles' redesign incorporated elements of Pop art and 1920's Soviet poster art into a "sleek, forward-looking" graphic format.[6] His restyling included a fresh logo with "clean, stencilled, military-style lettering", which heralded the title's change from _New Musical Express_ to _NME_.[7][8]
+In 1979, riding on the reputation of his work for Stiff, Bubbles was engaged by the venerable UK music newspaper _New Musical Express_ to spearhead a complete overhaul of its decades-old brand. Bubbles' redesign incorporated elements of Pop art and 1920's Soviet poster art into a "sleek, forward-looking" graphic format.[6] His restyling included a fresh logo with "clean, stencilled, military-style lettering", which heralded the title's change from _New Musical Express_ to _NME_.[7][8]
 
 Other work
 

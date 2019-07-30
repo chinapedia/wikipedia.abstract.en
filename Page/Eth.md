@@ -1,4 +1,4 @@
-Latin_letter_Ð.svg and Times New Roman]]
+and Times New Roman]]
 
 ETH (, uppercase: Ð, lowercase: Ð; also spelled EDH or EÐ) is a letter used in Old English, Middle English, Icelandic, Faroese (in which it is called _edd_), Elfdalian, and Vietnamese. It was also used in Scandinavia during the Middle Ages but was subsequently replaced with _dh_ and later _d_. It is often transliterated as _d_. The lowercase version has been adopted to represent a voiced dental fricative in the International Phonetic Alphabet.
 
@@ -8,7 +8,7 @@ Unlike the runic letter þ, ð is a modified Roman letter. ð was not found in t
 
 The lowercase version has retained the curved shape of a medieval scribe's _d_, which _d_ itself in general has not. _ð_ was used throughout the Anglo-Saxon era but gradually fell out of use in Middle English, practically disappearing altogether by 1300;[4] _þ_ survived longer, ultimately being replaced by the digraph _th_.
 
-Icelandic_handwriting.JPG}}'', __ and __. Also visible is a thorn in the word __.]]
+}}'', __ and __. Also visible is a thorn in the word __.]]
 
 In Icelandic, _ð_ represents a voiced dental fricative , which is the same as the _th_ in English _THat_, but it never appears as the first letter of a word, where _þ_ is used in its stead. The name of the letter is pronounced in isolation (and before words beginning with a voiceless consonant) as and therefore with a voiceless rather than voiced fricative.
 

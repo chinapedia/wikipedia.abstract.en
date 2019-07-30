@@ -9,7 +9,7 @@ Characteristics
 
 Physical properties
 
-Erbium(III)chloride_sunlight.jpg A trivalent element, pure erbium metal is malleable (or easily shaped), soft yet stable in air, and does not oxidize as quickly as some other rare-earth metals. Its salts are rose-colored, and the element has characteristic sharp absorption spectra bands in visible light, ultraviolet, and near infrared. Otherwise it looks much like the other rare earths. Its sesquioxide is called erbia. Erbium's properties are to a degree dictated by the kind and amount of impurities present. Erbium does not play any known biological role, but is thought to be able to stimulate metabolism.[1]
+A trivalent element, pure erbium metal is malleable (or easily shaped), soft yet stable in air, and does not oxidize as quickly as some other rare-earth metals. Its salts are rose-colored, and the element has characteristic sharp absorption spectra bands in visible light, ultraviolet, and near infrared. Otherwise it looks much like the other rare earths. Its sesquioxide is called erbia. Erbium's properties are to a degree dictated by the kind and amount of impurities present. Erbium does not play any known biological role, but is thought to be able to stimulate metabolism.[1]
 
 Erbium is ferromagnetic below 19 K, antiferromagnetic between 19 and 80 K and paramagnetic above 80 K.[2]
 
@@ -52,7 +52,7 @@ Erbia and terbia, however, were confused at this time. A spectroscopist mistaken
 
 Occurrence
 
-MonaziteUSGOV.jpg The concentration of erbium in the Earth crust is about 2.8 mg/kg and in the sea water 0.9 ng/L.[11] This concentration is enough to make erbium about 45th in elemental abundance in the Earth's crust.
+The concentration of erbium in the Earth crust is about 2.8 mg/kg and in the sea water 0.9 ng/L.[11] This concentration is enough to make erbium about 45th in elemental abundance in the Earth's crust.
 
 Like other rare earths, this element is never found as a free element in nature but is found bound in monazite sand ores. It has historically been very difficult and expensive to separate rare earths from each other in their ores but ion-exchange chromatography methods[12] developed in the late 20th century have greatly brought down the cost of production of all rare-earth metals and their chemical compounds.
 
@@ -66,7 +66,7 @@ Crushed minerals are attacked by hydrochloric or sulfuric acid that transforms i
 
 Applications
 
-Erbium-glass.jpg Erbium's everyday uses are varied. It is commonly used as a photographic filter, and because of its resilience it is useful as a metallurgical additive. Other uses:
+Erbium's everyday uses are varied. It is commonly used as a photographic filter, and because of its resilience it is useful as a metallurgical additive. Other uses:
 
 -   Used in nuclear technology in neutron-absorbing control rods.[15][16]
 -   When added to vanadium as an alloy, erbium lowers hardness and improves workability.[17]

@@ -7,7 +7,7 @@ History
 
 In ancient Greek mythology, Ara was identified as the altar where the gods first made offerings and formed an alliance before defeating the Titans. One of the southernmost constellations depicted by Ptolemy,[1] it had been recorded by Aratus in 270 BC as lying close to the horizon, and the Almagest portrays stars as far south as Gamma Arae. Professor of astronomy Bradley Schaefer has proposed that ancient observers must have been able to see as far south as Zeta Arae to define a pattern that looked like an altar.[2]
 
-Ara_Bode.jpg's illustration of Ara, from his _Uranographia_ (1801)]] In illustrations, Ara is usually depicted as an altar with its smoke 'rising' southward. However, depictions of Ara often vary in their details. In the early days of printing, a 1482 woodcut of Gaius Julius Hyginus's classic _Poeticon Astronomicon_ depicts the altar as surrounded by demons.[3] Johann Bayer in 1603 depicted Ara as an altar with burning incense; the flames rise southward as in most atlases. Hyginus also depicted Ara as an altar with burning incense, though his Ara featured devils on either side of the flames. However, Willem Blaeu, a Dutch uranographer active in the 16th and 17th centuries, drew Ara as an altar designed for sacrifice, with a burning animal offering. Unlike most depictions, the smoke from Blaeu's Ara rises northward, represented by Alpha Arae.
+'s illustration of Ara, from his _Uranographia_ (1801)]] In illustrations, Ara is usually depicted as an altar with its smoke 'rising' southward. However, depictions of Ara often vary in their details. In the early days of printing, a 1482 woodcut of Gaius Julius Hyginus's classic _Poeticon Astronomicon_ depicts the altar as surrounded by demons.[3] Johann Bayer in 1603 depicted Ara as an altar with burning incense; the flames rise southward as in most atlases. Hyginus also depicted Ara as an altar with burning incense, though his Ara featured devils on either side of the flames. However, Willem Blaeu, a Dutch uranographer active in the 16th and 17th centuries, drew Ara as an altar designed for sacrifice, with a burning animal offering. Unlike most depictions, the smoke from Blaeu's Ara rises northward, represented by Alpha Arae.
 
 Equivalents
 
@@ -22,8 +22,6 @@ Covering 237.1 square degrees and hence 0.575% of the sky, Ara ranks 63rd of the
 
 
 Features
-
-Constellation_Ara.jpg
 
 Stars
 

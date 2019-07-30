@@ -1,4 +1,4 @@
-ZSU-23-4-Camp-Pendleton.jpg in California. The ZSU-23 is the canonical modern SPAAG system.]] An ANTI-AIRCRAFT VEHICLE, also known as a SELF-PROPELLED ANTI-AIRCRAFT GUN (SPAAG) or SELF-PROPELLED AIR DEFENSE SYSTEM (SPAD), is a mobile vehicle with a dedicated anti-aircraft capability. The Russian equivalent of _SPAAG_ is _ZSU_, for _zenitnaya samokhodnaya ustanovka_, ("anti-aircraft self-propelled mount").
+in California. The ZSU-23 is the canonical modern SPAAG system.]] An ANTI-AIRCRAFT VEHICLE, also known as a SELF-PROPELLED ANTI-AIRCRAFT GUN (SPAAG) or SELF-PROPELLED AIR DEFENSE SYSTEM (SPAD), is a mobile vehicle with a dedicated anti-aircraft capability. The Russian equivalent of _SPAAG_ is _ZSU_, for _zenitnaya samokhodnaya ustanovka_, ("anti-aircraft self-propelled mount").
 
 Specific weapon systems used include machine guns, autocannons, larger guns, or missiles, and some mount both guns and longer-ranged missiles (e.g. the Pantsir-S1). Platforms used include both trucks and heavier combat vehicles such as APCs and tanks, which add protection from aircraft, artillery, and small arms fire for front line deployment.
 
@@ -6,8 +6,6 @@ Anti-aircraft guns are usually mounted in a quickly-traversing turret with a hig
 
 
 History
-
-3inch20cwtAAgunPeerlessLorryWWI.jpg
 
 World War I
 
@@ -25,7 +23,7 @@ Among early pre-war pioneers of self-propelled AA guns were the Germans. By the 
 
 World War II
 
-Wirbelwind_CFB_Borden_2.jpg quadmount on a Panzer IV chassis.]] Larger guns followed on larger trucks, but these mountings generally required off-truck setup in order to unlimber the stabilizing legs these guns needed. One exception to this rule was the Italian Cannone da 90/53 which was highly effective when mounted on trucks, a fit known as the "_autocannoni da 90/53_". The 90/53 was a feared weapon, notably in the anti-tank role, but only a few hundred had been produced by the time of the armistice in 1943.
+quadmount on a Panzer IV chassis.]] Larger guns followed on larger trucks, but these mountings generally required off-truck setup in order to unlimber the stabilizing legs these guns needed. One exception to this rule was the Italian Cannone da 90/53 which was highly effective when mounted on trucks, a fit known as the "_autocannoni da 90/53_". The 90/53 was a feared weapon, notably in the anti-tank role, but only a few hundred had been produced by the time of the armistice in 1943.
 
 Other nations tended to work on truck chassis. Starting in 1941, the British developed the "en portee" method of mounting an anti-tank gun (initially a 2 pounder) on a truck. This was to prevent the weapon from being damaged by long-distance towing across rough, stony deserts, and it was intended only to be a carrying method, with the gun unloaded for firing. However, crews tended to fire their weapons from their vehicles for the mobility this method provided, with consequent casualties.[1] This undoubtedly inspired their Morris C9/B (officially the "Carrier, SP, 4x4, 40 mm AA"), a Bofors 40 mm AA gun mounted on a chassis derived from the Morris "Quad" Field Artillery Tractor truck.[2] Similar types, based on 3-ton lorries, were produced in Britain, Canada and Australia, and together formed the most numerous self-propelled AA guns in British service.[3]
 
@@ -39,7 +37,7 @@ The British developed their own SPAAGs throughout the war mounting multiple mach
 
 Cold War and later
 
-Brno,_Řečkovice,_transportér_Praga_V33_II.JPG developed in the late 1950s.]] Gepard_1a2_overview.jpg, combining radars, fire control and two 35 mm guns in a new turret mounted on a surplus Leopard chassis.]] 2008_Moscow_Victory_Day_Parade_-_9K22_Tunguska.jpg mounts both missiles and cannons.]]The introduction of jet engines and the subsequent rough doubling of aircraft speeds greatly reduced the effectiveness of the SPAAG against attack aircraft. A typical SPAAG round might have a muzzle velocity on the order of and might take as long as two to three seconds to reach a target at its maximum range. An aircraft flying at is moving at a rate of about . This means the aircraft will have moved hundreds of meters during the flight time of the shells, greatly complicating the aiming problem to the point where close passes were essentially impossible to aim using manual gunsights. This speed also allowed the aircraft to rapidly fly out of range of the guns; even if the aircraft passes directly over the SPAAG, it would be within its firing radius for under 30 seconds.
+developed in the late 1950s.]] , combining radars, fire control and two 35 mm guns in a new turret mounted on a surplus Leopard chassis.]] mounts both missiles and cannons.]]The introduction of jet engines and the subsequent rough doubling of aircraft speeds greatly reduced the effectiveness of the SPAAG against attack aircraft. A typical SPAAG round might have a muzzle velocity on the order of and might take as long as two to three seconds to reach a target at its maximum range. An aircraft flying at is moving at a rate of about . This means the aircraft will have moved hundreds of meters during the flight time of the shells, greatly complicating the aiming problem to the point where close passes were essentially impossible to aim using manual gunsights. This speed also allowed the aircraft to rapidly fly out of range of the guns; even if the aircraft passes directly over the SPAAG, it would be within its firing radius for under 30 seconds.
 
 SPAAG development continued through the early 1950s with ever-larger guns, improving the range and allowing the engagement to take place at longer distances where the crossing angle was smaller and aiming was easier. Examples including the 40 mm U.S. M42 Duster and the 57 mm Soviet ZSU-57-2. However, both were essentially obsolete before they entered service, and found employment solely in the ground-support role. The M42 was introduced to the Vietnam War to counter an expected North Vietnamese air offensive, but when this failed to materialize it was used as an effective direct-fire weapon. The ZSU-57 found similar use in the Yugoslav Wars, where its high-angle fire was useful in the mountainous terrain.
 

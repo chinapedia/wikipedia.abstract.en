@@ -15,7 +15,7 @@ In their first year as a combined club the Lions made the finals, finishing in e
 
 Triple premiership success: 2001–2003
 
-MichaelVoss.jpg captained Brisbane to three successive premierships]] As the Brisbane Lions, the club won its first AFL premiership in the 2001 AFL Grand Final, defeating Essendon 15.18 (108) to 12.10 (82).[1] Lions utility player Shaun Hart won the Norm Smith Medal as best on ground in the Grand Final.[2]
+captained Brisbane to three successive premierships]] As the Brisbane Lions, the club won its first AFL premiership in the 2001 AFL Grand Final, defeating Essendon 15.18 (108) to 12.10 (82).[1] Lions utility player Shaun Hart won the Norm Smith Medal as best on ground in the Grand Final.[2]
 
 In 2002, the Lions won back-to-back premierships when they defeated Collingwood 9.12 (66) to 10.15 (75) in the 2002 AFL Grand Final in cold and wet conditions at the Melbourne Cricket Ground. Early in the contest the Lions lost both ruckman Beau McDonald and utility player Martin Pike (who had already had nine possessions in the first quarter) to injury and had to complete the match with a limited bench.
 
@@ -25,7 +25,7 @@ The 2004 season saw Brisbane remain in the top portion of the ladder for most of
 
 Rebuild 2005–2008
 
-Traininghard.jpg The Lions began the 2006 season optimistically, but injuries again plagued the club, whose players recorded an AFL record total of 200 matches lost to injury for the season.
+The Lions began the 2006 season optimistically, but injuries again plagued the club, whose players recorded an AFL record total of 200 matches lost to injury for the season.
 
 The Brisbane Lions finished runner up in the 2007 NAB Cup and then went on to create history by being the first team in the history of the AFL to have five co-captains. That year, the Lions failed to make the finals for a third successive year in 2007.
 
@@ -33,7 +33,7 @@ The Lions began the 2008 NAB Cup shakily, losing to Essendon by 27 points. The t
 
 Michael Voss: 2009–2013
 
-FevolaBrisbane.JPG became the first player to be traded the year after winning the Coleman Medal. He originally came from Carlton.]] The Lions made a good start in the 2009 NAB Cup under new senior coach Michael Voss by registering a 9-point win over St Kilda. However this was followed by a series of losses in the pre-season to Essendon, Melbourne and Richmond. Their season ended with a 51-point loss to the Western Bulldogs.
+became the first player to be traded the year after winning the Coleman Medal. He originally came from Carlton.]] The Lions made a good start in the 2009 NAB Cup under new senior coach Michael Voss by registering a 9-point win over St Kilda. However this was followed by a series of losses in the pre-season to Essendon, Melbourne and Richmond. Their season ended with a 51-point loss to the Western Bulldogs.
 
 The 2009/2010 off-season was dominated by the arrival of Brendan Fevola from Carlton, and the hype was focused on Fevola and Jonathan Brown in the sense that the Lions could capitalise on their strong 2009 season. Indeed, the Lions won their first four matches of the 2010 season to be top of the ladder after four rounds, but they would only win three more games after that to crash to a lowly finish by season's end. One of those wins however, was against eventual premiers .
 
@@ -108,7 +108,7 @@ The three types of guernseys prominently worn are:
 
 Mascot
 
-Lions_mascot.jpg As of 2016 the lions new mascot 'Roy' was introduced. The Lion's Mascot Manor representative and club mascot is Bernie "Gabba" Vegas, a caricature of a lion dressed in Brisbane Lions jumper, sunglasses, wide lapels, and flares, designed to resemble Elvis Presley.
+As of 2016 the lions new mascot 'Roy' was introduced. The Lion's Mascot Manor representative and club mascot is Bernie "Gabba" Vegas, a caricature of a lion dressed in Brisbane Lions jumper, sunglasses, wide lapels, and flares, designed to resemble Elvis Presley.
 
 Song
 

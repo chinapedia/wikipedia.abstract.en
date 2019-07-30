@@ -1,6 +1,6 @@
 A BLIZZARD is a severe snowstorm characterized by strong sustained winds of at least and lasting for a prolonged period of time—typically three hours or more. A ground blizzard is a weather condition where snow is not falling but loose snow on the ground is lifted and blown by strong winds. Blizzards can have an immense size and usually stretch to hundreds or thousands of kilometres.
 
-Tochal_sport_complex_16.jpg, Tehran and involved skiers.]]
+, Tehran and involved skiers.]]
 
 
 Definition and etymology
@@ -11,14 +11,14 @@ While severe cold and large amounts of drifting snow may accompany blizzards, th
 
 A severe blizzard has winds over , near zero visibility, and temperatures of or lower.[3] In Antarctica, blizzards are associated with winds spilling over the edge of the ice plateau at an average velocity of .[4]
 
-Ground blizzard refers to a weather condition where loose snow or ice on the ground is lifted and blown by strong winds. The primary difference between a ground blizzard as opposed to a regular blizzard is that in a ground blizzard no precipitation is produced at the time, but rather all the precipitation is already present in the form of snow or ice at the surface. Old_farm_at_Overtown_in_deep_snow_in_1963.jpg, Lancashire, England, January 1963]] The Australia Bureau of Meteorology describes a blizzard as, "Violent and very cold wind which is laden with snow, some part, at least, of which has been raised from snow covered ground." [5]
+Ground blizzard refers to a weather condition where loose snow or ice on the ground is lifted and blown by strong winds. The primary difference between a ground blizzard as opposed to a regular blizzard is that in a ground blizzard no precipitation is produced at the time, but rather all the precipitation is already present in the form of snow or ice at the surface. , Lancashire, England, January 1963]] The Australia Bureau of Meteorology describes a blizzard as, "Violent and very cold wind which is laden with snow, some part, at least, of which has been raised from snow covered ground." [5]
 
 The _Oxford English Dictionary_ concludes the term _blizzard_ is likely onomatopoeic, derived from the same sense as _blow, blast, blister, and bluster_; the first recorded use of it for weather dates to 1829, when it was defined as a "violent blow". It achieved its modern definition by 1859, when it was in use in the western United States. The term became common in the press during the harsh winter of 1880–81.[6]
 
 
 United States storm systems
 
-Duluth_blizzard,_December_2007.jpg blizzard, March 2007]] Blizzard2_-_NOAA.jpg
+blizzard, March 2007]]
 
 In the United States, storm systems powerful enough to cause blizzards usually form when the jet stream dips far to the south, allowing cold, dry polar air from the north to clash with warm, humid air moving up from the south.[7][8]
 
@@ -26,13 +26,11 @@ When cold, moist air from the Pacific Ocean moves eastward to the Rocky Mountain
 
 Another storm system occurs when a cold core low over the Hudson Bay area in Canada is displaced southward over southeastern Canada, the Great Lakes, and New England. When the rapidly moving cold front collides with warmer air coming north from the Gulf of Mexico, strong surface winds, significant cold air advection, and extensive wintry precipitation occur.
 
-Nearwhiteoutinminnesota.JPG, on March 1, 2007. Note the unclear horizon near the center.]]
+, on March 1, 2007. Note the unclear horizon near the center.]]
 
 Low pressure systems moving out of the Rocky Mountains onto the Great Plains, a broad expanse of flat land, much of it covered in prairie, steppe and grassland, can cause thunderstorms and rain to the south and heavy snows and strong winds to the north. With few trees or other obstructions to reduce wind and blowing, this part of the country is particularly vulnerable to blizzards with very low temperatures and whiteout conditions. In a true whiteout there is no visible horizon. People can become lost in their own front yards, when the door is only away, and they would have to feel their way back. Motorists have to stop their cars where they are, as the road is impossible to see.
 
 Nor'easter blizzards
-
-TotallyFreeImages_com-281074-Standard-preview.jpg
 
 A nor'easter is a macro-scale storm that occurs off the New England and Atlantic Canada coastlines. It gets its name from the direction the wind is coming from. The usage of the term in North America comes from the wind associated with many different types of storms some of which can form in the North Atlantic Ocean and some of which form as far south as the Gulf of Mexico. The term is most often used in the coastal areas of New England and Atlantic Canada. This type of storm has characteristics similar to a hurricane. More specifically it describes a low-pressure area whose center of rotation is just off the coast and whose leading winds in the left-forward quadrant rotate onto land from the northeast. High storm waves may sink ships at sea and cause coastal flooding and beach erosion. Notable nor'easters include The Great Blizzard of 1888, one of the worst blizzards in U.S. history. It dropped of snow and had sustained winds of more than that produced snowdrifts in excess of . Railroads were shut down and people were confined to their houses for up to a week. It killed 400 people, mostly in New York.[9]
 
@@ -45,8 +43,6 @@ The 1972 Iran Blizzard, which caused 4,000 reported deaths, was the deadliest bl
 
 The Snow Winter of 1880–1881
 
-Train_stuck_in_snow.jpg
-
 The winter of 1880–1881 is widely considered the most severe winter ever known in parts of the United States. Many children—and their parents—learned of "The Snow Winter" through the children's book _The Long Winter_ by Laura Ingalls Wilder, in which the author tells of her family's efforts to survive. The snow arrived in October 1880 and blizzard followed blizzard throughout the winter and into March 1881, leaving many areas snowbound throughout the entire winter. Accurate details in Wilder's novel include the blizzards' frequency and the deep cold, the Chicago and North Western Railway stopping trains until the spring thaw because the snow made the tracks impassable, the near-starvation of the townspeople, and the courage of her future husband Almanzo and another man, who ventured out on the open prairie in search of a cache of wheat that no one was even sure existed.
 
 The October blizzard brought snowfalls so deep that two-story homes had snow up to the second floor windows. No one was prepared for the deep snow so early in the season and farmers all over the region were caught before their crops had even been harvested, their grain milled, or with their fuel supplies for the winter in place. By January the train service was almost entirely suspended from the region. Railroads hired scores of men to dig out the tracks but it was a wasted effort: As soon as they had finished shoveling a stretch of line, a new storm arrived, filling up the line and leaving their work useless.
@@ -57,7 +53,7 @@ When the snow finally melted in late spring of 1881, huge sections of the plains
 
 The Storm of the Century
 
-1993_Storm_of_the_Century_Asheville,_North_Carolina_snowfall.jpg]]
+]]
 
 The Storm of the Century, also known as the Great Blizzard of 1993, was a large cyclonic storm that formed over the Gulf of Mexico on March 12, 1993, and dissipated in the North Atlantic Ocean on March 15. It is unique for its intensity, massive size and wide-reaching effect. At its height, the storm stretched from Canada towards Central America, but its main impact was on the United States and Cuba. The cyclone moved through the Gulf of Mexico, and then through the Eastern United States before moving into Canada. Areas as far south as northern Alabama and Georgia received a dusting of snow and areas such as Birmingham, Alabama, received up to [14] with hurricane-force wind gusts and record low barometric pressures. Between Louisiana and Cuba, hurricane-force winds produced high storm surges across northwestern Florida, which along with scattered tornadoes killed dozens of people. In the United States, the storm was responsible for the loss of electric power to over 10 million customers. It is purported to have been directly experienced by nearly 40 percent of the country's population at that time. A total of 310 people, including 10 from Cuba, perished during this storm. The storm cost $6 to $10 billion in damages.
 

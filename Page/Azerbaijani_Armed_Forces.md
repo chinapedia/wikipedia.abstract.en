@@ -24,19 +24,19 @@ History of the Azerbaijani military
 
 Azerbaijan Democratic Republic
 
-Two_Azerbaijani_soldiers_1919.png (1919)]] The history of the modern Azerbaijan army dates back to Azerbaijan Democratic Republic in 1918, when the Armed Forces of Azerbaijan Republic were created on 26 June 1918. First _de facto_ Minister of Defense of ADR was Dr. Khosrov bey Sultanov. When the Ministry was formally established Gen. Samedbey Mehmandarov became the minister, and then Lt-Gen. Ali-Agha Shikhlinski his deputy. Chiefs of Staff of ADR Army were Lt-Gen. Maciej Sulkiewicz (March 1919 – 10 December 1919) and Maj-Gen. Abdulhamid bey Gaitabashi (10 December 1919 – April 1920).[18][19]
+(1919)]] The history of the modern Azerbaijan army dates back to Azerbaijan Democratic Republic in 1918, when the Armed Forces of Azerbaijan Republic were created on 26 June 1918. First _de facto_ Minister of Defense of ADR was Dr. Khosrov bey Sultanov. When the Ministry was formally established Gen. Samedbey Mehmandarov became the minister, and then Lt-Gen. Ali-Agha Shikhlinski his deputy. Chiefs of Staff of ADR Army were Lt-Gen. Maciej Sulkiewicz (March 1919 – 10 December 1919) and Maj-Gen. Abdulhamid bey Gaitabashi (10 December 1919 – April 1920).[18][19]
 
-The Red Army invaded Azerbaijan on 28 April 1920. Although the bulk of the newly formed Azerbaijani army was engaged in putting down an Armenian revolt that had just broken out in Karabakh, the Azeris did not surrender their brief independence of 1918–20 quickly or easily. As many as 20,000 of the total 30,000 soldiers died resisting what was effectively a Russian reconquest.[20] The national Army of Azerbaijan was abolished by the Bolshevik government, 15 of the 21 army generals were executed by the Bolsheviks.[21] Army_of_Azerbaijan_in_1918.jpg in 1918.]]
+The Red Army invaded Azerbaijan on 28 April 1920. Although the bulk of the newly formed Azerbaijani army was engaged in putting down an Armenian revolt that had just broken out in Karabakh, the Azeris did not surrender their brief independence of 1918–20 quickly or easily. As many as 20,000 of the total 30,000 soldiers died resisting what was effectively a Russian reconquest.[20] The national Army of Azerbaijan was abolished by the Bolshevik government, 15 of the 21 army generals were executed by the Bolsheviks.[21] in 1918.]]
 
 World War II
 
-Парад_1960_г._6_рота.jpg during a parade in Baku in 1960.]] During World War II, Azerbaijan played a crucial role in the strategic energy policy of Soviet Union. Much of the Soviet Union's oil on the Eastern Front was supplied by Baku. By a decree of the Supreme Soviet of the USSR in February 1942, the commitment of more than 500 workers and employees of the oil industry of Azerbaijan was recognised with orders and medals. Operation Edelweiss carried out by the German Wehrmacht targeted Baku because of the importance of its oil fields to the USSR.[22] Some 800,000 Azerbaijanis fought within the ranks of the Soviet Army of which 400,000 died. Azeri national formations of the Red Army included the 223rd, 227th, 396th, 402nd, and 416th Rifle Divisions. Azeri Major-General Hazi Aslanov was awarded a second Hero of the Soviet Union after a long post-war fight for recognition of his accomplishments.
+during a parade in Baku in 1960.]] During World War II, Azerbaijan played a crucial role in the strategic energy policy of Soviet Union. Much of the Soviet Union's oil on the Eastern Front was supplied by Baku. By a decree of the Supreme Soviet of the USSR in February 1942, the commitment of more than 500 workers and employees of the oil industry of Azerbaijan was recognised with orders and medals. Operation Edelweiss carried out by the German Wehrmacht targeted Baku because of the importance of its oil fields to the USSR.[22] Some 800,000 Azerbaijanis fought within the ranks of the Soviet Army of which 400,000 died. Azeri national formations of the Red Army included the 223rd, 227th, 396th, 402nd, and 416th Rifle Divisions. Azeri Major-General Hazi Aslanov was awarded a second Hero of the Soviet Union after a long post-war fight for recognition of his accomplishments.
 
 Dissolution of the Soviet armed forces
 
 During the Cold War, Azerbaijan had been the deployment area of units of the Soviet 4th Army whose principle formations in 1988 included four motor rifle divisions (23rd Guards, 60th, 75th, and 295th).[23] The 75th Motor Rifle Division was isolated in Nakhichevan. The 4th Army also included missile and air defense brigades and artillery and rocket regiments. The 75th Division's stores and equipment were apparently transferred to the Nakhichevan authorities.[24] Azerbaijan also hosted the 49th Arsenal of the Soviet Main Agency of Missiles and Artillery, which contained over 7,000 train-car loads of ammunition to the excess of one billion units.
 
-The first president of Azerbaijan, Ayaz Mutallibov, did not wish to build an independent army, wanting to rely instead largely on Soviet troops. Even when the Parliament decided that an army should be formed in September 1991, disagreements between the government and the opposition Azerbaijani Popular Front Party impeded creation of a unified force.[25] Around this time, the first unit of the new army was formed on the basis of the 18–110 military unit of mechanized infantry of the Soviet Ground Forces (probably part of the 4th Army) located in Shikhov, south of Baku.[26] At the time of the parliamentary decision, Lieutenant-General Valeh Barshadli became the first Minister of Defense of Azerbaijan, from 5 September to 11 December 1991.[27] Later from May to 4 September 1992 he served as Chief of General Staff of Azerbaijani Armed Forces. Рота_почетного_караула_на_параде,_1966_г.jpg In summer 1992, the nascent Defense Ministry received a resolution by the Azerbaijani president on the takeover of units and formations in Azerbaijani territory. It then forwarded an ultimatum to Moscow demanding control over vehicles and armaments of the 135th and 139th Motor Rifle Regiments of the 295th Motor Rifle Division.[28] In July 1992, Azerbaijan ratified the Treaty on Conventional Armed Forces in Europe (CFE), which establishes comprehensive limits on key categories of conventional military equipment. Azerbaijan approved the CFE flank agreement in May 1997.
+The first president of Azerbaijan, Ayaz Mutallibov, did not wish to build an independent army, wanting to rely instead largely on Soviet troops. Even when the Parliament decided that an army should be formed in September 1991, disagreements between the government and the opposition Azerbaijani Popular Front Party impeded creation of a unified force.[25] Around this time, the first unit of the new army was formed on the basis of the 18–110 military unit of mechanized infantry of the Soviet Ground Forces (probably part of the 4th Army) located in Shikhov, south of Baku.[26] At the time of the parliamentary decision, Lieutenant-General Valeh Barshadli became the first Minister of Defense of Azerbaijan, from 5 September to 11 December 1991.[27] Later from May to 4 September 1992 he served as Chief of General Staff of Azerbaijani Armed Forces. In summer 1992, the nascent Defense Ministry received a resolution by the Azerbaijani president on the takeover of units and formations in Azerbaijani territory. It then forwarded an ultimatum to Moscow demanding control over vehicles and armaments of the 135th and 139th Motor Rifle Regiments of the 295th Motor Rifle Division.[28] In July 1992, Azerbaijan ratified the Treaty on Conventional Armed Forces in Europe (CFE), which establishes comprehensive limits on key categories of conventional military equipment. Azerbaijan approved the CFE flank agreement in May 1997.
 
 The transfer of the property of the 4th Army (except for part of the property of the 366th Motor Rifle Regiment of the 23rd Guards Motor Rifle Division captured by Armenian armed formations in 1992 during the regiment's withdrawal from Stepanakert) and the 49th arsenal was completed in 1992. Thus, by the end of 1992, Azerbaijan received arms and military hardware sufficient for approximately four motor rifle divisions with prescribed army units. It also inherited naval ships. There are also reports that 50 combat aircraft from the disbanded 19th Army of the Soviet Air Defence Forces came under Azeri control.
 
@@ -76,13 +76,13 @@ After Lt Gen Barshadli became Chief of General Staff, subsequent defense ministe
 
 Land forces
 
-Azeri_"Smerch",_parade_in_Baku,_2013.JPG The Azerbaijani Land Forces number 85,000 strong, according to UK Advanced Research and Assessment Group estimates.[35] The 2,500 men of the National Guard are also part of the ground forces. In addition, there are 300,000 former service personnel who have had military service in the last 15 years.[36] Other paramilitary agencies consist of Interior Ministry Internal Troops of Azerbaijan, 12,000 strong, and the land component of the State Border Service, 5,000 strong.[37]
+The Azerbaijani Land Forces number 85,000 strong, according to UK Advanced Research and Assessment Group estimates.[35] The 2,500 men of the National Guard are also part of the ground forces. In addition, there are 300,000 former service personnel who have had military service in the last 15 years.[36] Other paramilitary agencies consist of Interior Ministry Internal Troops of Azerbaijan, 12,000 strong, and the land component of the State Border Service, 5,000 strong.[37]
 
 Azerbaijan has signed numerous contracts to strengthen its armed forces and to train its military with Turkey's assistance. Over the last 15 years, Azerbaijan has been preparing its military for possible action against Armenian forces in Nagorno-Karabakh.
 
 Organization
 
-Azerbaijan_Army_2007_OrBat.png Order of Battle]] The Land Forces consist of five army corps:[38]
+Order of Battle]] The Land Forces consist of five army corps:[38]
 
 -   1st Army Corps also known as Evlax Army Corps (concentrated near Ganja)
 -   2nd Army Corps also known as Pirekeshkul Army Corps (concentrated against Armenian controlled territories and part is deployed on the Azerbaijan-Iranian border)
@@ -113,7 +113,7 @@ The Air Force has L-29 and L-39 advanced training aircraft in store. The Azerbai
 
 Air defense
 
-Military_parade_in_Baku_on_an_Army_Day32.jpg Azerbaijan has missile and radar systems intended to defend Azeri airspace. There are at least 2 divisions of S-300PMU2.[49] Thereby the country has one of the most capable SAM surface-to-air missile system in the region.[50][51] Azerbaijan also operates two S-200 (SA-5 GAMMON) batteries near Baku and Mingachevir; the S-300PMU-2 represents a logical replacement for these systems offering coverage of the majority of the nation.[52] The country also has about 100 NATO designated SA-2 Guideline (original name S-75), SA-3 Goa (S-125 Pechora-2M), and the SA-5 Gammon (S-200) are in static installations.[53] These may be around Baku and the central part to cover the whole Azeri aerospace.
+Azerbaijan has missile and radar systems intended to defend Azeri airspace. There are at least 2 divisions of S-300PMU2.[49] Thereby the country has one of the most capable SAM surface-to-air missile system in the region.[50][51] Azerbaijan also operates two S-200 (SA-5 GAMMON) batteries near Baku and Mingachevir; the S-300PMU-2 represents a logical replacement for these systems offering coverage of the majority of the nation.[52] The country also has about 100 NATO designated SA-2 Guideline (original name S-75), SA-3 Goa (S-125 Pechora-2M), and the SA-5 Gammon (S-200) are in static installations.[53] These may be around Baku and the central part to cover the whole Azeri aerospace.
 
 However, August 2011 investigations shows that after purchase of S-300 surface-to-air missiles, the largest apparent gap in Azerbaijan's air defense system may have been filled.[54]
 
@@ -136,12 +136,12 @@ In May 2011, President of the State Oil Company of Azerbaijan Republic Rovnag Ab
 
 Special forces
 
-Special_forces_azerbaijan.png The Naval Intelligence of Azerbaijan maintains the 641st Special Warfare Naval Unit. The special forces were trained by the U.S. Navy SEALs[65] Unit 641 has several midget submarines such as Triton-1M and Triton 2 at their disposal as well as underwater tool motion for individual divers. The special unit is composed of 3 reconnaissance groups, 2 groups for mountainous warfare and one diving group. Obligatory training includes parachute jumping day and night, on land and on water.[66][67]
+The Naval Intelligence of Azerbaijan maintains the 641st Special Warfare Naval Unit. The special forces were trained by the U.S. Navy SEALs[65] Unit 641 has several midget submarines such as Triton-1M and Triton 2 at their disposal as well as underwater tool motion for individual divers. The special unit is composed of 3 reconnaissance groups, 2 groups for mountainous warfare and one diving group. Obligatory training includes parachute jumping day and night, on land and on water.[66][67]
 
 
 Defense industry
 
-Parad_878.jpg'' is a South African MRAP manufactured under license in Azerbaijan.[68]]]
+'' is a South African MRAP manufactured under license in Azerbaijan.[68]]]
 
 The Ministry of Defence Industry of Azerbaijan directs domestic military supplies for Azerbaijan. It was established in 2005. The Defence Industries Ministry subsumed the State Department for Military Industry and for Armaments and the Military Science Center, each of which was formerly a separate agency within the Azerbaijani Defense Ministry.
 
@@ -160,7 +160,7 @@ In early 2008, reports indicated that an agreement with Turkey had been signed w
 
 Educational system
 
-Ilham_Aliyev_attended_the_parade_11.jpg of the Azerbaijan Higher Military Academy.]] Military_Parade.jpg The military education system in Azerbaijan contributes to the strength of the armed forces by ensuring the loyalty of cadets to security and defense of the Republic of Azerbaijan. The purpose of these military institutions is to train soldiers, officers, and non-commissioned officers to have independent and creative thinking and commitment to the Azerbaijani people and the government. military education in the Azerbaijani Armed Forces have been described as either being Secondary education, Further education, or Higher education.[76]
+of the Azerbaijan Higher Military Academy.]] The military education system in Azerbaijan contributes to the strength of the armed forces by ensuring the loyalty of cadets to security and defense of the Republic of Azerbaijan. The purpose of these military institutions is to train soldiers, officers, and non-commissioned officers to have independent and creative thinking and commitment to the Azerbaijani people and the government. military education in the Azerbaijani Armed Forces have been described as either being Secondary education, Further education, or Higher education.[76]
 
 List of military institutions
 
@@ -184,7 +184,7 @@ Azerbaijan cooperates with about 60 countries in the military-technical sphere a
 
 Turkey
 
-1paradaze.jpg.]] In December 2009 an agreement on military assistance was signed by Turkey and Azerbaijan. The agreement envisions Ankara's supplying Azerbaijan with weapons, military equipment and, if necessary, soldiers in case war with Armenia over Karabakh resumes.[78]
+.]] In December 2009 an agreement on military assistance was signed by Turkey and Azerbaijan. The agreement envisions Ankara's supplying Azerbaijan with weapons, military equipment and, if necessary, soldiers in case war with Armenia over Karabakh resumes.[78]
 
 Turkey has provided Azerbaijan with infantry weapons, tactical vehicles (jeeps, trucks, etc.) professional training, military organization, technology transfer, licensed military hardware production and other services. Due to help from Turkish specialists and instructors, thousands of Azerbaijani officers have been trained to western standards.[79]
 
@@ -207,7 +207,7 @@ In May 2011, Azerbaijan had discussed the purchase of long-range rockets from tw
 
 United States
 
-Nasosnaya_Air_Base.jpg in Azerbaijan, Gen. Tom Hobbins, U.S. Air Forces in Europe commander, and Chief Master Sgt. Gary Coleman, USAFE command chief, Lt. Col. Elmar Hüseynov]] Section 907 of the United States Freedom Support Act bans any kind of direct United States aid to the Azerbaijani government. Since a waiver was made in 2001 there has been extensive U.S. military cooperation with Azerbaijan. This has included Special Forces and naval aid, consultations with United States European Command, and linkages through the U.S. National Guard State Partnership Program.
+in Azerbaijan, Gen. Tom Hobbins, U.S. Air Forces in Europe commander, and Chief Master Sgt. Gary Coleman, USAFE command chief, Lt. Col. Elmar Hüseynov]] Section 907 of the United States Freedom Support Act bans any kind of direct United States aid to the Azerbaijani government. Since a waiver was made in 2001 there has been extensive U.S. military cooperation with Azerbaijan. This has included Special Forces and naval aid, consultations with United States European Command, and linkages through the U.S. National Guard State Partnership Program.
 
 On 19 May 2006, Azerbaijani Defense Minister Safar Abiyev and the then commander of United States Air Forces in Europe General Tom Hobbins met in Baku to discuss military cooperation. He said the objective of his visit was to become familiar with the state of Azerbaijani armed forces.[84] Hobbins pointed to the progress made in the NATO-Azerbaijan relations, saying that the successful implementation of the NATO Partnership for Peace program in Azerbaijan has brought the country even closer to the alliance. He said that the two countries' air forces will expand cooperation.[85]
 
@@ -229,7 +229,7 @@ Both countries treat a nuclear I.R. Iran as security threat.
 
 NATO
 
-Azerbaijani_soldiers_in_Iraq_11.jpg]] The North Atlantic Treaty Organization (NATO) and Azerbaijan actively cooperate on defence institutional reforms and have developed practical cooperation in many other areas. Azerbaijan's Individual Partnership Action Plan (IPAP) and its Partnership for Peace (PfP) linkages lay out the programme of cooperation between Azerbaijan and NATO.
+]] The North Atlantic Treaty Organization (NATO) and Azerbaijan actively cooperate on defence institutional reforms and have developed practical cooperation in many other areas. Azerbaijan's Individual Partnership Action Plan (IPAP) and its Partnership for Peace (PfP) linkages lay out the programme of cooperation between Azerbaijan and NATO.
 
 The Azerbaijani government has however delayed implementing IPAP-recommended reforms, however, in part at least because no decision had been taken to seek NATO membership. This is because Azerbaijan's foreign policy 'seeks to balance interests with the U.S., EU, Russia and Iran.'[93]
 

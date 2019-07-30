@@ -11,7 +11,7 @@ As of March 2011 Finland maintains diplomatic relations with all UN member state
 
 History
 
-Relander_and_Čakste.jpg Jānis Čakste and President of Finland Lauri Kristian Relander during Relander's 1926 official visit to Latvia. In the background, the Foreign Minister of Finland Eemil Nestor Setälä to the right.]] After independence from Russia in 1917, the Finnish Civil War, including interventions by Imperial Germany and Soviet Russia, and failure of the Communist revolution, resulted in the official ban on Communism, and strengthening relations with Western countries. Overt alliance with Germany was not possible due to the result of the First World War, but in general the period of 1918 to 1939 was characterised by economic growth and increasing integration to the Western world economy. Relations with Soviet Russia from 1918 to 1939 were icy; voluntary expeditions to Russia called heimosodat ended only in 1922, four years after the conclusion of the Finnish Civil War. However, attempts to establish military alliances were unsuccessful. Thus, when the Winter War broke out, Finland was left alone to resist the Soviet attack. Later, during the Continuation War, Finland declared "co-belligerency" with Nazi Germany, and allowed Northern Finland to be used as a German attack base. The peace settlement in 1944 with the Soviet Union led to the Lapland War in 1945, where Finland fought Germans in northern Finland.
+Jānis Čakste and President of Finland Lauri Kristian Relander during Relander's 1926 official visit to Latvia. In the background, the Foreign Minister of Finland Eemil Nestor Setälä to the right.]] After independence from Russia in 1917, the Finnish Civil War, including interventions by Imperial Germany and Soviet Russia, and failure of the Communist revolution, resulted in the official ban on Communism, and strengthening relations with Western countries. Overt alliance with Germany was not possible due to the result of the First World War, but in general the period of 1918 to 1939 was characterised by economic growth and increasing integration to the Western world economy. Relations with Soviet Russia from 1918 to 1939 were icy; voluntary expeditions to Russia called heimosodat ended only in 1922, four years after the conclusion of the Finnish Civil War. However, attempts to establish military alliances were unsuccessful. Thus, when the Winter War broke out, Finland was left alone to resist the Soviet attack. Later, during the Continuation War, Finland declared "co-belligerency" with Nazi Germany, and allowed Northern Finland to be used as a German attack base. The peace settlement in 1944 with the Soviet Union led to the Lapland War in 1945, where Finland fought Germans in northern Finland.
 
 From the end of the Continuation War with the Soviet Union in 1944 until 1991, the policy was to avoid superpower conflicts and to build mutual confidence with the Western powers and the Soviet Union. Although the country was culturally, socially, and politically Western, Finns realised they had to live in peace with the USSR and take no action that might be interpreted as a security threat. The dissolution of the Soviet Union in 1991 opened up dramatic new possibilities for Finland and has resulted in the Finns actively seeking greater participation in Western political and economic structures. The popular support for the strictly self-defensive doctrine remains.
 
@@ -995,7 +995,7 @@ International organization participation
 -   Australia Group
 -   BIS
 -   CBSS
--   WCO_bilingual_white_background.jpg CCC
+-   CCC
 -   CE
 -   CERN
 -   EAPC
@@ -1003,25 +1003,25 @@ International organization participation
 -   ECE
 -   EIB
 -   ESA
--   -   FAO_logo.svg FAO
+-   -   FAO
 -   G-9
 -   IADB
 
--   Flag_of_IAEA.svg IAEA
--   IDB_logo.gif IBRD
--   Flag_of_IAEA.svg ICAO
+-   IAEA
+-   IBRD
+-   ICAO
 -   ICC
--   International_Criminal_Court_logo.svg ICC
--   Emblem_of_the_ICRC.svg ICRM
+-   ICC
+-   ICRM
 -   IDA
 -   IEA
 -   IFAD
 -   IFC
--   Emblem_of_the_IFRC.svg IFRCS
+-   IFRCS
 -   IHO
--   Flag_of_ILO.svg ILO
+-   ILO
 -   IMF
--   Flag_of_the_International_Maritime_Organization.svg IMO
+-   IMO
 -   ITUC
 -   Interpol
 -
@@ -1031,18 +1031,18 @@ International organization participation
 -   ITU
 -   MINURSO
 -   NAM (guest)
--   Flag_of_the_Nordic_Council.svg NC
+-   NC
 -   NEA
--   NordicInvestmentBank-NIB.png NIB
+-   NIB
 -   NSG
--   Flag_of_the_Organization_of_American_States.svg Organization of American States (observer)
+-   Organization of American States (observer)
 -   OECD
 -   OPCW
--   OSCE_logo.svg OSCE
--   Logo_of_the_Permanent_Court_of_Arbitration,_The_Hague.png PCA
+-   OSCE
+-   PCA
 -   PFP
 -   -   UNCTAD
--   Flag_of_UNESCO.svg UNESCO
+-   UNESCO
 -   UNHCR
 
 -   UNIDO
@@ -1056,12 +1056,12 @@ International organization participation
 -   UNOMIG
 -   UNTAET
 -   UNTSO
--   Flag_of_UPU.svg UPU
--   Flag_of_the_Western_European_Union.svg WEU (observer)
+-   UPU
+-   WEU (observer)
 -   WFTU
--   Flag_of_WHO.svg WHO
+-   WHO
 -   WIPO
--   Flag_of_the_World_Meteorological_Organization.svg WMO
+-   WMO
 -   WTrO
 -   Zangger Committee
 

@@ -1,4 +1,4 @@
-Bifnordennomenclature.jpg. The Norden bombsight was a highly sophisticated optical/mechanical analog computer used by the United States Army Air Force during World War II, the Korean War, and the Vietnam War to aid the pilot of a bomber aircraft in dropping bombs accurately.]] PACE-TR-10_analog_computer_-_National_Cryptologic_Museum_-_DSC07908.JPG An ANALOG COMPUTER or ANALOGUE COMPUTER is a type of computer that uses the continuously changeable aspects of physical phenomena such as electrical, mechanical, or hydraulic quantities to model the problem being solved. In contrast, digital computers represent varying quantities symbolically, as their numerical values change. As an analog computer does not use discrete values, but rather continuous values, processes cannot be reliably repeated with exact equivalence, as they can with Turing machines. Unlike machines used for digital signal processing, analog computers do not suffer from the discrete error caused by quantization noise. Instead, results from analog computers are subject to continuous error caused by electronic noise.
+. The Norden bombsight was a highly sophisticated optical/mechanical analog computer used by the United States Army Air Force during World War II, the Korean War, and the Vietnam War to aid the pilot of a bomber aircraft in dropping bombs accurately.]] An ANALOG COMPUTER or ANALOGUE COMPUTER is a type of computer that uses the continuously changeable aspects of physical phenomena such as electrical, mechanical, or hydraulic quantities to model the problem being solved. In contrast, digital computers represent varying quantities symbolically, as their numerical values change. As an analog computer does not use discrete values, but rather continuous values, processes cannot be reliably repeated with exact equivalence, as they can with Turing machines. Unlike machines used for digital signal processing, analog computers do not suffer from the discrete error caused by quantization noise. Instead, results from analog computers are subject to continuous error caused by electronic noise.
 
 Analog computers were widely used in scientific and industrial applications where digital computers of the time lacked sufficient performance. Analog computers can have a very wide range of complexity. Slide rules and nomograms are the simplest, while naval gunfire control computers and large hybrid digital/analog computers were among the most complicated.[1] Systems for process control and protective relays used analog computation to perform control and protective functions.
 
@@ -20,7 +20,7 @@ This is a list of examples of early computation devices which are considered to 
 
 The south-pointing chariot, invented in ancient China during the first millennium BC, can be considered the earliest analog computer. It was a mechanical-geared wheeled vehicle used to discern the southern cardinal direction.
 
-NAMA_Machine_d'Anticythère_1.jpg, dating between 150 and 100 BC, was an early analog computer.]] The Antikythera mechanism was an orrery and is claimed to be an early mechanical analog computer, according to Derek J. de Solla Price.[3] It was designed to calculate astronomical positions. It was discovered in 1901 in the Antikythera wreck off the Greek island of Antikythera, between Kythera and Crete, and has been dated to _circa_ 100 BC during the Hellenistic period of Greece. Devices of a level of complexity comparable to that of the Antikythera mechanism would not reappear until a thousand years later.
+, dating between 150 and 100 BC, was an early analog computer.]] The Antikythera mechanism was an orrery and is claimed to be an early mechanical analog computer, according to Derek J. de Solla Price.[3] It was designed to calculate astronomical positions. It was discovered in 1901 in the Antikythera wreck off the Greek island of Antikythera, between Kythera and Crete, and has been dated to _circa_ 100 BC during the Hellenistic period of Greece. Devices of a level of complexity comparable to that of the Antikythera mechanism would not reappear until a thousand years later.
 
 Many mechanical aids to calculation and measurement were constructed for astronomical and navigation use. The planisphere was a star chart invented by Abū Rayḥān al-Bīrūnī in the early 11th century.[4] The astrolabe was invented in the Hellenistic world in either the 1st or 2nd centuries BC and is often attributed to Hipparchus. A combination of the planisphere and dioptra, the astrolabe was effectively an analog computer capable of working out several different kinds of problems in spherical astronomy. An astrolabe incorporating a mechanical calendar computer[5][6] and gear-wheels was invented by Abi Bakr of Isfahan, Persia in 1235.[7] Abū Rayhān al-Bīrūnī invented the first mechanical geared lunisolar calendar astrolabe,[8] an early fixed-wired knowledge processing machine[9] with a gear train and gear-wheels,[10] _circa_ 1000 AD. The castle clock, a hydropowered mechanical astronomical clock invented by Al-Jazari in 1206, was the first programmable analog computer.[11][12][13]
 
@@ -28,7 +28,7 @@ The sector, a calculating instrument used for solving problems in proportion, tr
 
 The planimeter was a manual instrument to calculate the area of a closed figure by tracing over it with a mechanical linkage.
 
-Sliderule_2005.png The slide rule was invented around 1620–1630, shortly after the publication of the concept of the logarithm. It is a hand-operated analog computer for doing multiplication and division. As slide rule development progressed, added scales provided reciprocals, squares and square roots, cubes and cube roots, as well as transcendental functions such as logarithms and exponentials, circular and hyperbolic trigonometry and other functions. Aviation is one of the few fields where slide rules are still in widespread use, particularly for solving time–distance problems in light aircraft.
+The slide rule was invented around 1620–1630, shortly after the publication of the concept of the logarithm. It is a hand-operated analog computer for doing multiplication and division. As slide rule development progressed, added scales provided reciprocals, squares and square roots, cubes and cube roots, as well as transcendental functions such as logarithms and exponentials, circular and hyperbolic trigonometry and other functions. Aviation is one of the few fields where slide rules are still in widespread use, particularly for solving time–distance problems in light aircraft.
 
 Mathematician and engineer Giovanni Plana devised a Perpetual Calendar machine which, though a system of pulleys and cylinders and over, could predict the perpetual calendar for every year from 0 AD to 4000 AD, keeping track of leap years and varying day length.
 
@@ -38,7 +38,7 @@ The differential analyser, a mechanical analog computer designed to solve differ
 
 Modern era
 
-Analog_Computing_Machine_GPN-2000-000354.jpg circa 1949.]] Heathkit_Analog_Computer.jpg The Dumaresq was a mechanical calculating device invented around 1902 by Lieutenant John Dumaresq of the Royal Navy. It was an analog computer which related vital variables of the fire control problem to the movement of one's own ship and that of a target ship. It was often used with other devices, such as a Vickers range clock to generate range and deflection data so the gun sights of the ship could be continuously set. A number of versions of the Dumaresq were produced of increasing complexity as development proceeded.
+circa 1949.]] The Dumaresq was a mechanical calculating device invented around 1902 by Lieutenant John Dumaresq of the Royal Navy. It was an analog computer which related vital variables of the fire control problem to the movement of one's own ship and that of a target ship. It was often used with other devices, such as a Vickers range clock to generate range and deflection data so the gun sights of the ship could be continuously set. A number of versions of the Dumaresq were produced of increasing complexity as development proceeded.
 
 By 1912 Arthur Pollen had developed an electrically driven mechanical analog computer for fire-control systems, based on the differential analyser. It was used by the Imperial Russian Navy in World War I.
 
@@ -61,7 +61,7 @@ In industrial process control, thousands of analog loop controllers were used to
 
 Electronic analog computers
 
-AKAT-1.JPG]]
+]]
 
 The similarity between linear mechanical components, such as springs and dashpots (viscous-fluid dampers), and electrical components, such as capacitors, inductors, and resistors is striking in terms of mathematics. They can be modeled using equations of the same form.
 
@@ -175,7 +175,7 @@ Any physical process which models some computation can be interpreted as an anal
 
 Components
 
-NewmarkAnalogueComputer.jpgs and is currently housed at the Cambridge Museum of Technology.]]
+s and is currently housed at the Cambridge Museum of Technology.]]
 
 Analog computers often have a complicated framework, but they have, at their core, a set of key components which perform the calculations, which the operator manipulates through the computer's framework.
 
@@ -223,7 +223,7 @@ With the development of very-large-scale integration (VLSI) technology, Yannis T
 
 Practical examples
 
-X-15_Analog_computer.jpg simulator analog computer]] These are examples of analog computers that have been constructed or practically used:
+simulator analog computer]] These are examples of analog computers that have been constructed or practically used:
 
 -   Boeing B-29 Superfortress Central Fire Control System
 -   Deltar

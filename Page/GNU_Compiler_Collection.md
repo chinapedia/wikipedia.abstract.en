@@ -28,7 +28,7 @@ GCC has been ported to a wide variety of instruction set architectures, and is w
 
 Design
 
-Linux_kernel_interfaces.svg, like e.g. the Linux Standard Base aims to procure, the compiler version is important.]]
+, like e.g. the Linux Standard Base aims to procure, the compiler version is important.]]
 
 GCC's external interface follows Unix conventions. Users invoke a language-specific driver program (gcc for C, g++ for C++, etc.), which interprets command arguments, calls the actual compiler, runs the assembler on the output, and then optionally runs the linker to produce a complete executable binary.
 

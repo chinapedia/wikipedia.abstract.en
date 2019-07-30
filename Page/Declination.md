@@ -1,7 +1,5 @@
 In astronomy, DECLINATION (abbreviated DEC; symbol _Δ_) is one of the two angles that locate a point on the celestial sphere in the equatorial coordinate system, the other being hour angle. Declination's angle is measured north or south of the celestial equator, along the hour circle passing through the point in question.[1]
 
-Right ascension and DECLINATION as seen on the inside of the celestial sphere. The primary direction of the system is the vernal equinox, the ascending node of the ecliptic (red) on the celestial equator (blue). Declination is measured northward or southward from the celestial equator, along the hour circle passing through the point in question.
-
 The root of the word _declination_ (Latin, _declinatio_) means "a bending away" or "a bending down". It comes from the same root as the words _incline_ ("bend toward") and _recline_ ("bend backward").[2]
 
 In some 18th and 19th century astronomical texts, declination is given as _North Pole Distance_ (N.P.D.), which is equivalent to 90 - (declination). For instance an object marked as declination -5 would have a NPD of 95, and a declination of -90 (the south celestial pole) would have a NPD of 180.
@@ -22,7 +20,7 @@ The sign is customarily included whether positive or negative.
 
 Effects of precession
 
-Ra_and_dec_on_celestial_sphere.png (blue) and DECLINATION (green) as seen from outside the celestial sphere.]]
+(blue) and DECLINATION (green) as seen from outside the celestial sphere.]]
 
 The Earth's axis rotates slowly westward about the poles of the ecliptic, completing one circuit in about 26,000 years. This effect, known as precession, causes the coordinates of stationary celestial objects to change continuously, if rather slowly. Therefore, equatorial coordinates (including declination) are inherently relative to the year of their observation, and astronomers specify them with reference to a particular year, known as an epoch. Coordinates from different epochs must be mathematically rotated to match each other, or to match a standard epoch.[4]
 
@@ -61,7 +59,7 @@ Neglecting atmospheric refraction, declination is always 0° at east and west po
 
 Non-circumpolar stars are visible only during certain days or seasons of the year.
 
-Stars_and_dec.png (green) and is positive northward (towards the top), negative southward (towards the bottom). The lines of declination (green) divide the sky into small circles, here 15° apart.]]
+(green) and is positive northward (towards the top), negative southward (towards the bottom). The lines of declination (green) divide the sky into small circles, here 15° apart.]]
 
 
 Sun

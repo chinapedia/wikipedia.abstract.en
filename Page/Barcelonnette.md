@@ -51,7 +51,7 @@ Barcelonnette was the seat of the District of Barcelonnette from 1790 to 1800.
 
 Modern history
 
-Barcelonnette-Villas_mexicaines-IMG_1240.JPG In December 1851, the town was home to a movement of republican resistance towards Napoleon III's coup. Though only a minority of the population, the movement rebelled on Sunday 7 December, the day after the news of the coup arrived. Town officials and gendarmes were disarmed and placed in the maison d'arrêt. A committee of public health was created on 8 December; on 9 December the inhabitants of Jausiers and its surroundings formed a colony under the direction of general councillor Brès, and Mayor Signoret of Saint-Paul-sur-Ubaye. This was stopped, however, on 10 December before it could reach Barcelonnette, as the priest of the subprefecture had intervened. On 11 December, several officials escaped and found refuge in L'Argentière in Piedmont. The arrival of troops on 16 December put a final end to the republican resistance without bloodshed, and 57 insurgents were tried; 38 were condemned to deportation (though several were pardoned in April).
+In December 1851, the town was home to a movement of republican resistance towards Napoleon III's coup. Though only a minority of the population, the movement rebelled on Sunday 7 December, the day after the news of the coup arrived. Town officials and gendarmes were disarmed and placed in the maison d'arrêt. A committee of public health was created on 8 December; on 9 December the inhabitants of Jausiers and its surroundings formed a colony under the direction of general councillor Brès, and Mayor Signoret of Saint-Paul-sur-Ubaye. This was stopped, however, on 10 December before it could reach Barcelonnette, as the priest of the subprefecture had intervened. On 11 December, several officials escaped and found refuge in L'Argentière in Piedmont. The arrival of troops on 16 December put a final end to the republican resistance without bloodshed, and 57 insurgents were tried; 38 were condemned to deportation (though several were pardoned in April).
 
 Between 1850 and 1950, Barcelonnette was the source of a wave of emigration to Mexico. Among these emigrants was Jean Baptiste Ebrard, founder of the Liverpool department store chain in Mexico; Marcelo Ebrard, the head of government of Mexico City from 2006 to 2012, is also descended from them. On the edges of Barcelonnette and Jausiers there are several houses and villas of colonial style (known as _maisons mexicaines_), constructed by emigrants to Mexico who returned to France between 1870 and 1930. A plaque in the town commemorates the deaths of ten Mexican citizens who returned to Barcelonnette to fight in the First World War.
 
@@ -70,7 +70,7 @@ As a result of its relief and geographic situation, the Ubaye Valley has an "abu
 
 Climate
 
-Barcelonnette-hiver.jpg The Ubaye Valley has an alpine climate and winters are harsh as a result of the altitude,[38] but there are only light winds as a result of the relief.[39] There are on average almost 300 days of sun and 700 mm of rain per year.[40]
+The Ubaye Valley has an alpine climate and winters are harsh as a result of the altitude,[38] but there are only light winds as a result of the relief.[39] There are on average almost 300 days of sun and 700 mm of rain per year.[40]
 
 Hazards
 
@@ -81,7 +81,7 @@ The town has been subject to several orders of natural disaster: floods and muds
 
 Architecture
 
-Mai_70_drapeau_chasseurs_0001.jpg'' in front of the Barcelonnette town hall in May 1970]]
+'' in front of the Barcelonnette town hall in May 1970]]
 
 -   The town hall was constructed in the 1930s after the destruction of the Saint Maurice chapel in July 1934.[47] Its pediment was originally from the old Dominican convent and was identified in 1988.[48] No houses in the town date from before the 17th century, the town having been rebuilt after the fire of 1628. The old hospital in the town dates from 1717.[49]
 -   The old gendarmerie on Place Manuel was originally constructed to house the subprefecture in 1825 in a neoclassical style, and its façade occupies one entire side of the square. Place Manuel was named after the Restoration politician Jacques-Antoine Manuel; the fountain in the centre of the square contains his image sculpted by David d'Angers.[50]

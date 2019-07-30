@@ -9,14 +9,14 @@ Austrians nevertheless remember Charles as a hero of the French Revolutionary an
 
 Youth and early career
 
-Charles,_Archduke_of_Austria_-_Lawrence_1819.jpg Charles was born in Florence, Tuscany. His father, then Grand Duke of Tuscany, generously permitted Charles's childless aunt Archduchess Marie Christine of Austria and her husband Albert of Saxe-Teschen to adopt and raise the boy in Vienna. Charles spent his youth in Tuscany, at Vienna and in the Austrian Netherlands, where he began his career of military service in the wars of the French Revolution. He commanded a brigade at the Battle of Jemappes (1792), and in the campaign of 1793 distinguished himself at the Action of Aldenhoven and the Battle of Neerwinden. In this year he became Governor of the Habsburg Netherlands, an office he lost with the occupation of the Low Countries by the French revolutionaries in 1794. The year he became Governor he also received the army rank of Lieutenant Field Marshal. Shortly thereafter another promotion saw him made _Feldzeugmeister_ (equivalent of Lieutenant General). In the remainder of the war in the Low Countries he held high commands, and was present at the Battle of Fleurus (1794).
+Charles was born in Florence, Tuscany. His father, then Grand Duke of Tuscany, generously permitted Charles's childless aunt Archduchess Marie Christine of Austria and her husband Albert of Saxe-Teschen to adopt and raise the boy in Vienna. Charles spent his youth in Tuscany, at Vienna and in the Austrian Netherlands, where he began his career of military service in the wars of the French Revolution. He commanded a brigade at the Battle of Jemappes (1792), and in the campaign of 1793 distinguished himself at the Action of Aldenhoven and the Battle of Neerwinden. In this year he became Governor of the Habsburg Netherlands, an office he lost with the occupation of the Low Countries by the French revolutionaries in 1794. The year he became Governor he also received the army rank of Lieutenant Field Marshal. Shortly thereafter another promotion saw him made _Feldzeugmeister_ (equivalent of Lieutenant General). In the remainder of the war in the Low Countries he held high commands, and was present at the Battle of Fleurus (1794).
 
 In 1795 he served on the Rhine, and in the following year, he was entrusted with chief control of all the Austrian forces on that river. His conduct of the operations against Jourdan and Moreau in 1796 marked him out at once as one of the greatest generals in Europe. At first, falling back carefully and avoiding a decision, he finally marched away, leaving a mere screen in front of Moreau. Falling upon Jourdan, he beat him in the battles of Amberg (August) and Würzburg (September), and drove him over the Rhine with great loss. He then turned upon Moreau's army, which he defeated and forced out of Germany (Battle of Emmendingen, October).
 
 
 Napoleonic Wars
 
-Johann_Peter_Krafft_003.jpg (21–22 May 1809).]]
+(21–22 May 1809).]]
 
 In 1797 he was sent to arrest the victorious march of General Bonaparte in Italy, and he conducted the retreat of the over-matched Austrians with the highest skill. In the campaign of 1799 he once more opposed Jourdan, whom he defeated in the battles of Ostrach and Stockach, following up his success by invading Switzerland and defeating Masséna in the First Battle of Zurich, after which he re-entered Germany and drove the French once more over the Rhine.[2]
 
@@ -30,8 +30,6 @@ Its initial successes were neutralized by the reverses of Abensberg, Landshut an
 
 
 Later life
-
-Karl_AustriaTeschen_Henriette_NassauWeilburg.jpg
 
 When Austria joined the ranks of the allies during the War of the Sixth Coalition, Charles was not given a command and the post of commander-in-chief of the allied Grand Army of Bohemia went to the Prince of Schwarzenberg. Charles spent the rest of his life in retirement, except for a short time in 1815 when he was military governor of the Fortress Mainz. In 1822 he succeeded to the duchy of Saxe-Teschen.
 
@@ -48,11 +46,11 @@ Assessment of his achievements
 
 The caution which the archduke preached so earnestly in his strategic works, he displayed in practice only when the situation seemed to demand it, though his education certainly prejudiced him in favor of the defensive at all costs. He was at the same time capable of forming and executing the most daring offensive strategy, and his tactical skill in the handling of troops, whether in wide turning movements, as at Würzburg and Zürich, or in masses, as at Aspern and Wagram, was certainly equal to that of any leader of his time, with only a few exceptions.
 
-Archduke_Charles_at_Battle_of_Ostrach.JPG According to the _Encyclopædia Britannica_ Eleventh Edition, his campaign of 1796 is considered almost faultless. That he sustained defeat in 1809 was due in part to the great numerical superiority of the French and their allies, and in part to the condition of his newly reorganized troops. His six weeks' inaction after the victory of Aspern is, however, open to unfavorable criticism. As a military writer, his position in the evolution of the art of war is very important, and his doctrines had naturally the greatest weight. Nevertheless, they cannot but be considered antiquated even in 1806. Caution and the importance of strategic points are the chief features of his system. The rigidity of his geographical strategy may be gathered from the prescription that "this principle is never to be departed from."
+According to the _Encyclopædia Britannica_ Eleventh Edition, his campaign of 1796 is considered almost faultless. That he sustained defeat in 1809 was due in part to the great numerical superiority of the French and their allies, and in part to the condition of his newly reorganized troops. His six weeks' inaction after the victory of Aspern is, however, open to unfavorable criticism. As a military writer, his position in the evolution of the art of war is very important, and his doctrines had naturally the greatest weight. Nevertheless, they cannot but be considered antiquated even in 1806. Caution and the importance of strategic points are the chief features of his system. The rigidity of his geographical strategy may be gathered from the prescription that "this principle is never to be departed from."
 
 Again and again he repeated the advice that nothing should be hazarded unless one's army is completely secure, a rule which he himself neglected with such brilliant results in 1796. Strategic points, he says, not the defeat of the enemy's army, decide the fate of one's own country, and must constantly remain the general's main concern, a maxim which was never more remarkably disproved than in the war of 1809. The editor of the archduke's work is able to make but a feeble defense against Clausewitz's reproach that Charles attached more value to ground than to the annihilation of the foe. In his tactical writings the same spirit is conspicuous. His reserve in battle is designed to "cover a retreat."
 
-Archduke_Charles_Statue.jpg in Vienna]]
+in Vienna]]
 
 The baneful influence of these antiquated principles was clearly shown in the maintenance of Königgrätz-Josefstadt in 1866 as a strategic point, which was preferred to the defeat of the separated Prussian armies, and in the strange plans produced in Vienna for the campaign of 1859, and in the almost unintelligible Battle of Montebello in the same year. The theory and the practice of Archduke Charles form one of the most curious contrasts in military history. In the one he is unreal, in the other he displayed, along with the greatest skill, a vivid activity which made him for long the most formidable opponent of Napoleon.
 

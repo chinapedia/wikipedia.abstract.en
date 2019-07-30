@@ -18,7 +18,7 @@ At the end of the book, Harriet finally accepts Wimsey's proposal of marriage.
 
 Principal characters
 
-Somerville_College,_Oxford_-_Library2.JPG, the inspiration for the fictional Shrewsbury College and Sayers' _alma mater_]]
+, the inspiration for the fictional Shrewsbury College and Sayers' _alma mater_]]
 
 -   Harriet Vane – protagonist, a mystery writer
 -   Lord Peter Wimsey – protagonist, an aristocratic amateur detective

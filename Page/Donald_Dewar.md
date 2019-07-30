@@ -48,7 +48,7 @@ At the 1997 general election, he became MP for Glasgow Anniesland, which was mos
 
 First Minister of Scotland
 
-Her_Majesty_Queen_Elizabeth_II_at_the_opening_of_the_Scottish_Parliament.jpg and Presiding Officer David Steel (right) at the opening of the Scottish Parliament, July 1999]] In January 1998, he confirmed that he would stand for a seat in the Scottish Parliament.[6] The first elections to the Scottish Parliament were held on 6 May 1999, with Dewar leading the Scottish Labour Party against their main opponents, the Scottish National Party led by Alex Salmond.
+and Presiding Officer David Steel (right) at the opening of the Scottish Parliament, July 1999]] In January 1998, he confirmed that he would stand for a seat in the Scottish Parliament.[6] The first elections to the Scottish Parliament were held on 6 May 1999, with Dewar leading the Scottish Labour Party against their main opponents, the Scottish National Party led by Alex Salmond.
 
 He was elected as the Member of the Scottish Parliament (MSP) for Glasgow Anniesland, having the unusual distinction of being both an MP and MSP for the same constituency. Although Scottish Labour won more seats than any other party, they did not have a majority in Parliament to allow them to form an Executive without the help of a smaller party. A deal was agreed with the Scottish Liberal Democrats to form a coalition, with Dewar agreeing to their demand for the abolition of up front tuition fees for university students.[7]
 
@@ -58,7 +58,7 @@ On 16 June, Dewar set out the legislative programme for the Executive which incl
 
 Death and funeral
 
-Wfm_donald_dewar_statue.jpg In April 2000, Dewar was admitted to hospital for tests on his heart, following a previous test where a minor irregularity was discovered.[10] In May 2000, he had surgery to repair a leaking heart valve, and was forced to take a three-month break from Parliament, with Deputy First Minister Jim Wallace taking over as Acting First Minister.[11] He returned to work on 14 August 2000.[12]
+In April 2000, Dewar was admitted to hospital for tests on his heart, following a previous test where a minor irregularity was discovered.[10] In May 2000, he had surgery to repair a leaking heart valve, and was forced to take a three-month break from Parliament, with Deputy First Minister Jim Wallace taking over as Acting First Minister.[11] He returned to work on 14 August 2000.[12]
 
 Dewar dealt with the 2000 exam results fiasco and the lorry drivers' strike, and attended the Labour Party conference in Brighton, but at the end of September he told the historian Tom Devine in Dublin that if there was no surge of the energy of old, he would have to reappraise the situation within a few months.[13]
 
@@ -70,7 +70,7 @@ Dewar's funeral service was held at Glasgow Cathedral, amid scenes of mourning u
 
 Controversies
 
-Kelvingrove_Art_Gallery_and_MuseumDSCF0239_01.JPG in the Kelvingrove Art Gallery and Museum, Glasgow]] One of the first scandals to hit the new Scottish Parliament occurred when allegations that the lobbying arm of public relations company Beattie Media had privileged access to ministers were published, prompting Dewar to ask the standards committee to investigate the reports.[14] The Minister for Finance, Jack McConnell, was called to appear before the standards committee during the investigation although he was later cleared of any wrongdoing and the committee declared there was no evidence he had been influenced from lobbying by Beattie Media.[15]
+in the Kelvingrove Art Gallery and Museum, Glasgow]] One of the first scandals to hit the new Scottish Parliament occurred when allegations that the lobbying arm of public relations company Beattie Media had privileged access to ministers were published, prompting Dewar to ask the standards committee to investigate the reports.[14] The Minister for Finance, Jack McConnell, was called to appear before the standards committee during the investigation although he was later cleared of any wrongdoing and the committee declared there was no evidence he had been influenced from lobbying by Beattie Media.[15]
 
 Dewar also threatened to sack any minister or aide who briefed the media against another member of the Scottish Executive, following public rows between Jack McConnell and the Minister of Health and Community Care, Susan Deacon over the budget allocated to health .[16]
 

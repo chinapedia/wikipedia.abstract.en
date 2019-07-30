@@ -12,9 +12,9 @@ Chihuly began experimenting with glassblowing in 1965, and in 1966 he received a
 
 Career
 
-Chihuly_at_Kew_Gardens_043.jpg In 1971, with the support of John Hauberg and Anne Gould Hauberg, Chihuly cofounded the Pilchuck Glass School near Stanwood, Washington. Chihuly also founded the HillTop Artists program in Tacoma, Washington at Jason Lee Middle School and Wilson High School.
+In 1971, with the support of John Hauberg and Anne Gould Hauberg, Chihuly cofounded the Pilchuck Glass School near Stanwood, Washington. Chihuly also founded the HillTop Artists program in Tacoma, Washington at Jason Lee Middle School and Wilson High School.
 
-In 1976, while Chihuly was in England, he was involved in a head-on car accident during which he was propelled through the windshield.[14] His face was severely cut by glass and he was blinded in his left eye. After recovering, he continued to blow glass until he dislocated his right shoulder in 1979 while bodysurfing. No longer able to hold the glass blowing pipe, he hired others to do the work. Chihuly explained the change in a 2006 interview, saying "Once I stepped back, I liked the view," and pointed out that it allowed him to see the work from more perspectives and enabled him to anticipate problems earlier. Chihuly describes his role as "more choreographer than dancer, more supervisor than participant, more director than actor." _San Diego Union-Tribune_ reporter Erin Glass wrote that she "wonders at the vision of not just the artist Chihuly, but the very successful entrepreneur Chihuly, whose estimated sales by 2004 was reported by _The Seattle Times_ as $29 million."[15] Chihuly and his team of artists were the subjects of the documentary _._ They were also featured in the documentary _Chihuly in the Hotshop,_ syndicated to public television stations by American Public Television starting on November 1, 2008.[16] Chihuly_Garden_and_Glass_(Seattle).jpg
+In 1976, while Chihuly was in England, he was involved in a head-on car accident during which he was propelled through the windshield.[14] His face was severely cut by glass and he was blinded in his left eye. After recovering, he continued to blow glass until he dislocated his right shoulder in 1979 while bodysurfing. No longer able to hold the glass blowing pipe, he hired others to do the work. Chihuly explained the change in a 2006 interview, saying "Once I stepped back, I liked the view," and pointed out that it allowed him to see the work from more perspectives and enabled him to anticipate problems earlier. Chihuly describes his role as "more choreographer than dancer, more supervisor than participant, more director than actor." _San Diego Union-Tribune_ reporter Erin Glass wrote that she "wonders at the vision of not just the artist Chihuly, but the very successful entrepreneur Chihuly, whose estimated sales by 2004 was reported by _The Seattle Times_ as $29 million."[15] Chihuly and his team of artists were the subjects of the documentary _._ They were also featured in the documentary _Chihuly in the Hotshop,_ syndicated to public television stations by American Public Television starting on November 1, 2008.[16]
 
 2006 lawsuit
 
@@ -23,7 +23,7 @@ In 2006, Chihuly filed a lawsuit against his former longtime employee, glassblow
 
 Works
 
-glass.sculpture.kewgardens.london.arp.jpg]] Chihuly_P8040009.JPG 1999–2000]] Regina Hackett, a _Seattle Post-Intelligencer_ art critic, provided a chronology of Chihuly's work during the 1970s, 1980s, and 1990s:
+]] 1999–2000]] Regina Hackett, a _Seattle Post-Intelligencer_ art critic, provided a chronology of Chihuly's work during the 1970s, 1980s, and 1990s:
 
 -   1975: Navajo Blanket Series, in which patterns of Navajo blankets were painted onto glass
 -   1977: Northwest Coast Basket Series, baskets inspired by Northwest coast Indian baskets he had seen as a child

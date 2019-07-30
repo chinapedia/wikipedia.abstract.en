@@ -20,7 +20,7 @@ When World War II broke out in 1939, Oxford University Press moved its offices f
 
 Personal life
 
-Grave_of_Charles_Williams_at_Holywell.jpg in Oxford]]
+in Oxford]]
 
 In 1917 Williams married his first sweetheart, Florence Conway, following a long courtship during which he presented her with a sonnet sequence that would later become his first published book of poetry, _The Silver Stair_.[14][15] Their son Michael was born in 1922.
 

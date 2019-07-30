@@ -1,16 +1,16 @@
-Eritrean_Airlines_Boeing_767-300ER_E3-AAO_FCO_2005-6-7.png Boeing 767-366/ER aircraft. The national carrier is based in Asmara.]] TRANSPORT IN ERITREA includes highways, airports and seaports, in addition to various forms of public and private vehicular, maritime and aerial transportation.
+Boeing 767-366/ER aircraft. The national carrier is based in Asmara.]] TRANSPORT IN ERITREA includes highways, airports and seaports, in addition to various forms of public and private vehicular, maritime and aerial transportation.
 
 
 Railways
 
-Ansaldo_442_steam_locomotive_in_Eritrea.JPGAs of 1999, there was a total of 317 kilometres of (narrow gauge) rail line in Eritrea. The railway links Agordat and Asmara with the port of Massawa; however, it was nonoperational since 1978 except for about a 5 kilometre stretch that was reopened in Massawa in 1994. Rehabilitation of the remainder and of the rolling stock has occurred in recent years. By 2003, the line had been restored from Massawa all the way through to Asmara.
+As of 1999, there was a total of 317 kilometres of (narrow gauge) rail line in Eritrea. The railway links Agordat and Asmara with the port of Massawa; however, it was nonoperational since 1978 except for about a 5 kilometre stretch that was reopened in Massawa in 1994. Rehabilitation of the remainder and of the rolling stock has occurred in recent years. By 2003, the line had been restored from Massawa all the way through to Asmara.
 
 There are no rail links with adjacent countries.
 
 
 Highways
 
-Rly_line_Massawa-Asmara_04.JPG and Embatkalla.]] The Eritrean highway system is named according to the road classification. The three levels of classification are: primary (P), secondary (S), and tertiary (T). The lowest level road is tertiary and serves local interests. Typically they are improved earth roads which are occasionally paved. During the wet seasons these roads typically become impassable. The next higher level road is a secondary road and typically is a single-layered asphalt road that connects district capitals together and those to the regional capitals. Roads that are considered primary roads are those that are fully asphalted (throughout their entire length) and in general they carry traffic between all the major towns in Eritrea.
+and Embatkalla.]] The Eritrean highway system is named according to the road classification. The three levels of classification are: primary (P), secondary (S), and tertiary (T). The lowest level road is tertiary and serves local interests. Typically they are improved earth roads which are occasionally paved. During the wet seasons these roads typically become impassable. The next higher level road is a secondary road and typically is a single-layered asphalt road that connects district capitals together and those to the regional capitals. Roads that are considered primary roads are those that are fully asphalted (throughout their entire length) and in general they carry traffic between all the major towns in Eritrea.
 
 +-------+-------------+--------------------+--------------------------+-----------+
 | Title | Start point | Intermediate point | End point                | Road type |
@@ -44,7 +44,7 @@ _unpaved:_ 3,136 km (1996 est.)
 
 Seaports and harbours
 
-Massawa_harbour.JPG harbor/port was created by the Italians[2]. ]]
+harbor/port was created by the Italians[2]. ]]
 
 Red Sea
 
@@ -66,7 +66,7 @@ There are three international airports, one in the capital, Asmara International
 
 Airports - with paved runways
 
-Nasair_Eritrea_Boeing_737-200-1.jpg Eritrea Boeing 737-200 aircraft at the Asmara International Airport.]]
+Eritrea Boeing 737-200 aircraft at the Asmara International Airport.]]
 
 +---------+----------------------+
 | Name    | Length of the runway |

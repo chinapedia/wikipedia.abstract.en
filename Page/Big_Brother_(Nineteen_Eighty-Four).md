@@ -16,7 +16,7 @@ Appearance inside the novel
 
 Existence
 
-Telescreen.png In the novel, it is never made clear whether Big Brother is or had been a real person, or is a fictional personification of the Party, similar to Britannia and Uncle Sam. Big Brother is described as appearing on posters and telescreens as a man in his mid-40s. In Party propaganda, Big Brother is presented as one of the founders of the Party.
+In the novel, it is never made clear whether Big Brother is or had been a real person, or is a fictional personification of the Party, similar to Britannia and Uncle Sam. Big Brother is described as appearing on posters and telescreens as a man in his mid-40s. In Party propaganda, Big Brother is presented as one of the founders of the Party.
 
 At one point, Winston Smith, the protagonist of Orwell's novel, tries "to remember in what year he had first heard mention of Big Brother. He thought it must have been at some time in the sixties, but it was impossible to be certain. In the Party histories, Big Brother figured as the leader and guardian of the Revolution since its very earliest days. His exploits had been gradually pushed backwards in time until already they extended into the fabulous world of the forties and the thirties, when the capitalists in their strange cylindrical hats still rode through the streets of London".
 
@@ -37,7 +37,7 @@ Criticism and use as metaphor
 
 Since the publication of _Nineteen Eighty-Four_, the phrase "Big Brother" has come into common use to describe any prying or overly-controlling authority figure and attempts by government to increase surveillance. Big Brother and other Orwellian imagery are often referenced in the joke known as the Russian reversal.
 
-Plaza_George_Orwell,_Barcelona..jpg in George Orwell Square in Barcelona, Spain]] Iain Moncreiffe and Don Pottinger jokingly mentioned in their 1956 book _Blood Royal_ the sentence: "Without Little Father need for Big Brother", referring to the Russian Revolution and the Soviet Union.[3]
+in George Orwell Square in Barcelona, Spain]] Iain Moncreiffe and Don Pottinger jokingly mentioned in their 1956 book _Blood Royal_ the sentence: "Without Little Father need for Big Brother", referring to the Russian Revolution and the Soviet Union.[3]
 
 The worldwide reality television show _Big Brother_ is based on the novel's concept of people being under constant surveillance. In 2000, after the United States version of the CBS program _Big Brother_ premiered, the Estate of George Orwell sued CBS and its production company Orwell Productions, Inc. in federal court in Chicago for copyright and trademark infringement. The case was _Estate of Orwell v. CBS_, 00-c-5034 (ND Ill). On the eve of trial, the case settled worldwide to the parties' "mutual satisfaction", but the amount that CBS paid to the Orwell Estate was not disclosed. CBS had not asked the Estate for permission. Under current laws, the novel will remain under copyright protection until 2020 in the European Union and until 2044 in the United States.
 

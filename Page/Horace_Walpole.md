@@ -9,7 +9,7 @@ He was the son of the first British Prime Minister, Sir Robert Walpole. As Horac
 
 Early life: 1717–1739
 
-Horace_Walpole_(1735)_-_Jonathan_Richardson_the_Elder_(Casa-Museu_Medeiros_e_Almeida).png, 1735.]]
+, 1735.]]
 
 Walpole was born in London, the youngest son of British Prime Minister Sir Robert Walpole and his wife Catherine. Like his father, he received early education in Bexley;[4] he was also educated at Eton College and King's College, Cambridge.[5]
 
@@ -24,7 +24,7 @@ Walpole's father secured for him three sinecures which afforded him an income: i
 
 Grand Tour: 1739–1741
 
-Horace_Walpole_by_Rosalba_Carriera.jpg, _circa_ 1741.]] Walpole went on the Grand Tour with Gray, but as Walpole recalled in later life: "We had not got to Calais before Gray was dissatisfied, for I was a boy, and he, though infinitely more a man, was not enough to make allowances".[20] They left Dover on 29 March and arrived at Calais later that day. They then travelled through Boulogne, Amiens and Saint-Denis, arriving at Paris on 4 April. Here they met many aristocratic Englishmen.[21] In early June they left Paris for Rheims, then in September going to Dijon, Lyons, Dauphiné, Savoy, Aix-les-Bains, Geneva, and then back to Lyons.
+, _circa_ 1741.]] Walpole went on the Grand Tour with Gray, but as Walpole recalled in later life: "We had not got to Calais before Gray was dissatisfied, for I was a boy, and he, though infinitely more a man, was not enough to make allowances".[20] They left Dover on 29 March and arrived at Calais later that day. They then travelled through Boulogne, Amiens and Saint-Denis, arriving at Paris on 4 April. Here they met many aristocratic Englishmen.[21] In early June they left Paris for Rheims, then in September going to Dijon, Lyons, Dauphiné, Savoy, Aix-les-Bains, Geneva, and then back to Lyons.
 
 In October they left for Italy, arriving in Turin in November, then going to Genoa, Piacenza, Parma, Reggio, Modena, Bologna, and in December arriving at Florence. Here he struck up a friendship with Horace Mann, an assistant to the British Minister at the Court of Tuscany.[22] In Florence he also wrote _Epistle from Florence to Thomas Ashton, Esq., Tutor to the Earl of Plymouth_, a mixture of Whig history and Middleton's teachings.[23] In February 1740 Walpole and Gray left for Rome with the intention of witnessing the papal conclave upon the death of Pope Clement XII (which they never did see).[24] Walpole wanted to attend fashionable parties and Gray wanted to visit all the antiquities. At social occasions in Rome he saw the Old Pretender James Francis Edward Stuart and his two sons, Charles Edward Stuart and Henry Stuart, although there is no record of them conversing.[25]
 
@@ -48,14 +48,14 @@ In late 1745 Walpole and Gray resumed their friendship.[35] Also that year the J
 
 Strawberry Hill
 
-Strawberry_Hill_House_from_garden_in_2012_after_restoration.jpg ]]
+]]
 
 Walpole's lasting architectural creation is Strawberry Hill, the home he built in Twickenham, south west of London, which at the time overlooked the Thames. Here he revived the Gothic style many decades before his Victorian successors. This fanciful neo-Gothic concoction began a new architectural trend.[37]
 
 
 Later parliamentary career: 1754–1768
 
-Horace_Walpole_by_John_Giles_Eccardt.jpg, _circa_ 1755.]]
+, _circa_ 1755.]]
 
 Walpole was a member of parliament for one of the many rotten boroughs, Castle Rising, consisting in underlying freeholds in four villages near Kings Lynn, Norfolk, from 1754 until 1757. At his home he hung a copy of the warrant for the execution of Charles I with the inscription "Major Charta" and wrote of "the least bad of all murders, that of a King".[38] In 1756 he wrote:
 
@@ -79,7 +79,7 @@ Without a seat in Parliament, Walpole recognised his limitations as to political
 
 Last years: 1788–1797
 
-Oldhorry.jpg, _circa_ 1795]] Walpole was horrified by the French Revolution and commended Edmund Burke's _Reflections on the Revolution in France_: "Every page shows how sincerely he is in earnest—a wondrous merit in a political pamphlet—All other party writers _act_ zeal for the public, but it never seems to flow from the heart".[48] He admired the purple passage in the book on Marie Antoinette: "I know the tirade on the Queen of France is condemned and yet I must avow I admire it much. It paints her exactly as she appeared to me the first time I saw her when Dauphiness. She...shot through the room like an aerial being, all brightness and grace and without seeming to touch earth".[49]
+, _circa_ 1795]] Walpole was horrified by the French Revolution and commended Edmund Burke's _Reflections on the Revolution in France_: "Every page shows how sincerely he is in earnest—a wondrous merit in a political pamphlet—All other party writers _act_ zeal for the public, but it never seems to flow from the heart".[48] He admired the purple passage in the book on Marie Antoinette: "I know the tirade on the Queen of France is condemned and yet I must avow I admire it much. It paints her exactly as she appeared to me the first time I saw her when Dauphiness. She...shot through the room like an aerial being, all brightness and grace and without seeming to touch earth".[49]
 
 After he heard of the execution of King Louis XVI he wrote to Lady Ossory on 29 January 1793:
 
@@ -96,7 +96,7 @@ In 1764, not using his own press, he anonymously published his Gothic novel, _Th
 
 From 1762 on, Walpole published his _Anecdotes of Painting in England_, based on George Vertue's manuscript notes. His memoirs of the Georgian social and political scene, though heavily biased, are a useful primary source for historians.
 
-George_Montagu_Eccardt_Peterborough.JPG after Jean-Baptiste van Loo (_c_. 1713–1780)
+after Jean-Baptiste van Loo (_c_. 1713–1780)
 Peterborough Museum and Art Gallery
 A close friend and correspondent of Horace Walpole]]
 

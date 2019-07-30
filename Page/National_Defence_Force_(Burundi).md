@@ -27,7 +27,7 @@ In the aftermath of the coup and the later disputed election, armed forces chief
 
 Equipment
 
-Burundi_troops_CAR.jpg.]]
+.]]
 
 Infantry Small Arms
 
@@ -40,8 +40,6 @@ Infantry Small Arms
 +-------------+--------+-----------------------------+
 | PKM         | /Other | General Purpose Machine Gun |
 +-------------+--------+-----------------------------+
-
-Flickr_-_DVIDSHUB_-_Blending_(Image_18_of_32).jpg
 
 Anti-tank weapons
 

@@ -20,7 +20,7 @@ After 1922 Cheka groups underwent the first of a series of reorganizations; howe
 
 Creation
 
-Menzhinsky_V_1921-2.jpg of VCheKa (left to right) Yakov Peters, Józef Unszlicht, Abram Belenky (standing), Felix Dzerzhinsky, Vyacheslav Menzhinsky, 1921]]
+of VCheKa (left to right) Yakov Peters, Józef Unszlicht, Abram Belenky (standing), Felix Dzerzhinsky, Vyacheslav Menzhinsky, 1921]]
 
 In the first month and half after the October Revolution (1917), the duty of "extinguishing the resistance of exploiters" was assigned to the Petrograd Military Revolutionary Committee (or PVRK). It represented a temporary body working under directives of the Council of People's Commissars (Sovnarkom) and Central Committee of RDSRP(b). The VRK created new bodies of government, organized food delivery to cities and the Army, requisitioned products from _bourgeoisie_, and sent its emissaries and agitators into provinces. One of its most important functions was the security of _revolutionary order_, and the fight against _counterrevolutionary_ activity (see: Anti-Soviet agitation).
 
@@ -28,7 +28,7 @@ On December 1, 1917, the All-Russian Central Executive Committee (VTsIK or TsIK)
 
 On December 7, 1917, all invited except Zhydelev and Vasilevsky gathered in the Smolny Institute to discuss the competence and structure of the commission to combat counterrevolution and sabotage. The obligations of the commission were: "to liquidate to the root all of the counterrevolutionary and sabotage activities and all attempts to them in all of Russia, to hand over counter-revolutionaries and saboteurs to the revolutionary tribunals, develop measures to combat them and relentlessly apply them in real world applications. The commission should only conduct a preliminary investigation". The commission should also observe the press and counterrevolutionary parties, sabotaging officials and other criminals.
 
-Sankt_Petersburg-Regierungssitz_Smolny.jpg, the seat of the Soviet government, 1917]]
+, the seat of the Soviet government, 1917]]
 
 Three sections were created: informational, organizational, and a unit to combat counter-revolution and sabotage. Upon the end of the meeting, Dzerzhinsky reported to the Sovnarkom with the requested information. The commission was allowed to apply such measures of repression as 'confiscation, deprivation of ration cards, publication of lists of enemies of the people etc.'".[15] That day, Sovnarkom officially confirmed the creation of VCheKa. The commission was created not under the VTsIK as was previously anticipated, but rather under the Council of the People's Commissars.[16]
 
@@ -38,11 +38,7 @@ In January 1918, a subsection of the anti-counterrevolutionary effort was create
 
 First months
 
-Vladimir_Bonch-Bruyevich_1919.jpg
-
 In the first months of its existence, VCheKa consisted of only 40 officials. It commanded a team of soldiers, the Sveaborgesky regiment, as well as a group of Red Guardsmen. On January 14, 1918, Sovnarkom ordered Dzerzhinsky to organize teams of "energetic and ideological" sailors to combat speculation. By the spring of 1918, the commission had several teams: in addition to the Sveaborge team, it had an intelligence team, a team of sailors, and a strike team. Through the winter of 1917–1918, all activities of VCheKa were centralized mainly in the city of Petrograd. It was one of several other commissions in the country which fought against counterrevolution, speculation, banditry, and other activities perceived as crimes. Other organizations included: the Bureau of Military Commissars, and an Army-Navy investigatory commission to attack the counterrevolutionary element in the Red Army, plus the Central Requisite and Unloading Commission to fight speculation. The investigation of counterrevolutionary or major criminal offenses was conducted by the Investigatory Commission of Revtribunal. The functions of VCheKa were closely intertwined with the Commission of V. D. Bonch-Bruyevich, which beside the fight against wine pogroms was engaged in the investigation of most major political offenses (see: Bonch-Bruyevich Commission).
-
-Petrovskiy_Grigoriy.jpg
 
 All results of its activities, VCheKa had either to transfer to the Investigatory Commission of Revtribunal, or to dismiss. The control of the commission's activity was provided by the People's Commissariat for Justice (Narkomjust, at that time headed by Isidor Steinberg) and Internal Affairs (NKVD, at that time headed by Grigory Petrovsky). Although the VCheKa was officially an independent organization from the NKVD, its chief members such as Dzerzhinsky, Latsis, Unszlicht, and Uritsky (all main chekists), since November 1917 composed the collegiate of NKVD headed by Petrovsky. In November 1918, Petrovsky was appointed as head of the All-Ukrainian Central Military Revolutionary Committee during VCheKa's expansion to provinces and front-lines. At the time of political competition between Bolsheviks and SRs (January 1918), Left SRs attempted to curb the rights of VCheKa and establish through the Narkomiust their control over its work. Having failed in attempts to subordinate the VCheKa to Narkomiust, the Left SRs tried to gain control of the Extraordinary Commission in a different way: they requested that the Central Committee of the party was granted the right to directly enter their representatives into the VCheKa. Sovnarkom recognized the desirability of including five representatives of the Left Socialist-Revolutionary faction of VTsIK. Left SRs were granted the post of a companion (deputy) chairman of VCheKa. However, Sovnarkom, in which the majority belonged to the representatives of RSDLP(b) retained the right to approve members of the collegium of the VCheKa.
 
@@ -60,7 +56,7 @@ In the autumn of 1918, as consolidation of the political situation of the republ
 
 Other types of Cheka
 
-1988_CPA_6011.jpg on a Soviet postage stamp.]]
+on a Soviet postage stamp.]]
 
 On August 3, a VCheKa section for combating counterrevolution, speculation and sabotage on railways was created. On August 7, 1918, Sovnarkom adopted a decree on the organization of the railway section at VCheKa. Combating counterrevolution, speculation, and malfeasance on railroads was passed under the jurisdiction of the railway section of VCheKa and local Cheka. In August 1918, railway sections were formed under the Gubcheks. Formally, they were part of the non-resident sections, but in fact constituted a separate division, largely autonomous in their activities. The gubernatorial and oblast-type Chekas retained in relationship to the transportation sections only control and investigative functions.
 

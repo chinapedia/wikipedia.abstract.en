@@ -7,7 +7,7 @@ Emperor
 
 Early reign
 
-Jean-Paul_Laurens_-_The_Byzantine_Emperor_Honorius_-_1880.jpg (1880). Honorius became _Augustus_ on 23 January 393, at the age of eight.]]
+(1880). Honorius became _Augustus_ on 23 January 393, at the age of eight.]]
 
 After holding the consulate at the age of two, Honorius was declared _Augustus_ by his father Theodosius I, and thus co-ruler, on 23 January 393 after the death of Valentinian II and the usurpation of Eugenius.[2] When Theodosius died, in January 395, Honorius and Arcadius divided the Empire, so that Honorius became Western Roman Emperor at the age of ten.[3]
 
@@ -17,7 +17,7 @@ At first Honorius based his capital in Milan, but when the Visigoths under King 
 
 Stilicho and the defence of Italy
 
-DN_Honorio_Florentissimo.jpg]] Honorius' reign was plagued by almost constant barbarian incursions into Gaul, Italy and Hispania. At the same time, a host of usurpers rose up due to the apparent inability of the Emperor to see to the Empire's defences.
+]] Honorius' reign was plagued by almost constant barbarian incursions into Gaul, Italy and Hispania. At the same time, a host of usurpers rose up due to the apparent inability of the Emperor to see to the Empire's defences.
 
 The first crisis faced by Honorius was a revolt led by Gildo, the _Comes Africae_ and _Magister utriusque militiae per Africam_, in Northern Africa, which lasted for two years (397–398).[10] It was eventually subdued by Stilicho, under the local command of Mascezel, the brother of Gildo.[11]
 
@@ -37,7 +37,7 @@ In 409, Alaric returned to Italy to claim more gold and land to settle in, as fe
 
 Constantius and the erosion of the Western Empire
 
-ChristianPendantMaria398-407.JPG, daughter of Stilicho, and wife of Honorius. Musée du Louvre. The pendant reads, around a central cross (clockwise):
+, daughter of Stilicho, and wife of Honorius. Musée du Louvre. The pendant reads, around a central cross (clockwise):
 HONORI
 MARIA
 SERHNA
@@ -64,7 +64,7 @@ The mausoleum of Honorius was located on the Vatican Hill. In the 8th century it
 
 Sack of Rome
 
-John_William_Waterhouse_-_The_Favorites_of_the_Emperor_Honorius_-_1883.jpg, 1883]]
+, 1883]]
 
 The most notable event of his reign was the assault and Sack of Rome on 24 August 410 by the Visigoths under Alaric.
 
@@ -77,7 +77,7 @@ The year 410 also saw Honorius reply to a British plea for assistance against lo
 
 Judgements on Honorius
 
-Solidus_Honorius_402_76001657.jpg of emperor Honorius minted at Ravenna]] In his _History of the Wars_, Procopius mentions a story (which Gibbon disbelieved) where, on hearing the news that Rome had "perished", Honorius was initially shocked; thinking the news was in reference to a favorite chicken he had named "Roma".
+of emperor Honorius minted at Ravenna]] In his _History of the Wars_, Procopius mentions a story (which Gibbon disbelieved) where, on hearing the news that Rome had "perished", Honorius was initially shocked; thinking the news was in reference to a favorite chicken he had named "Roma".
 
   "At that time they say that the Emperor Honorius in Ravenna received the message from one of the eunuchs, evidently a keeper of the poultry, that Rome had perished. And he cried out and said, 'And yet it has just eaten from my hands!' For he had a very large cock, Rome by name; and the eunuch comprehending his words said that it was the city of Rome which had perished at the hands of Alaric, and the emperor with a sigh of relief answered quickly: 'But I thought that my fowl Rome had perished.' So great, they say, was the folly with which this emperor was possessed."
 

@@ -5,7 +5,7 @@ Its main goal is to protect public health and safety through the control and pre
 
 History
 
-CDC_HDR_I.jpg, as seen from Emory University]] CDC's Roybal campus in Atlanta, Georgia Arlen Specter Headquarters and Emergency Operations Center Tom Harkin Global Communications Center Preparing_to_enter_Ebola_treatment_unit.jpg staff preparing to enter an Ebola treatment unit in Liberia, August 2014]] The Communicable Disease Center was founded July 1, 1946, as the successor to the World War II Malaria Control in War Areas program[4] of the Office of National Defense Malaria Control Activities.[5]
+, as seen from Emory University]] staff preparing to enter an Ebola treatment unit in Liberia, August 2014]] The Communicable Disease Center was founded July 1, 1946, as the successor to the World War II Malaria Control in War Areas program[4] of the Office of National Defense Malaria Control Activities.[5]
 
 Preceding its founding, organizations with global influence in malaria control were the Malaria Commission of the League of Nations and the Rockefeller Foundation.[6] The Rockefeller Foundation greatly supported malaria control,[7] sought to have the governments take over some of its efforts, and collaborated with the agency.[8]
 
@@ -91,7 +91,7 @@ The CDC also operates the Public Health Associate Program (PHAP), a two-year pai
 
 Leadership
 
-David_J._Sencer.png.]] The Director of CDC is a Senior Executive Service position[36] that may be filled either by a career employee, or as a political appointment that does not require Senate confirmation, with the latter method typically being used. The director serves at the pleasure of the President and may be fired at any time.[37][38][39] The CDC director concurrently serves as the Administrator of the Agency for Toxic Substances and Disease Registry.[40]
+.]] The Director of CDC is a Senior Executive Service position[36] that may be filled either by a career employee, or as a political appointment that does not require Senate confirmation, with the latter method typically being used. The director serves at the pleasure of the President and may be fired at any time.[37][38][39] The CDC director concurrently serves as the Administrator of the Agency for Toxic Substances and Disease Registry.[40]
 
 Sixteen directors have served the CDC or its predecessor agencies.[41][42]
 
@@ -127,7 +127,7 @@ Datasets and survey systems
 
 Areas of focus
 
-Smallpox_eradication_team.jpg as part of the CDC's smallpox eradication team in 1966.]]
+as part of the CDC's smallpox eradication team in 1966.]]
 
 Communicable diseases
 

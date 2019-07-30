@@ -18,7 +18,7 @@ As a result of the Conference, a permanent organization was formed and statutes 
 
 Functions
 
-International_Hydrographic_Organization_countries.PNG The IHO develops hydrographic and nautical charting standards. These standards are subsequently adopted and, , used by its 90 member countries and others in their surveys, nautical charts, and publications. The almost universal use of the IHO standards means that the products and services provided by the world's national hydrographic and oceanographic offices are consistent and recognisable by all seafarers and for other users. Much has been done in the field of standardisation since the IHO was founded.
+The IHO develops hydrographic and nautical charting standards. These standards are subsequently adopted and, , used by its 90 member countries and others in their surveys, nautical charts, and publications. The almost universal use of the IHO standards means that the products and services provided by the world's national hydrographic and oceanographic offices are consistent and recognisable by all seafarers and for other users. Much has been done in the field of standardisation since the IHO was founded.
 
 The IHO has encouraged the formation of Regional Hydrographic Commissions (RHCs). Each RHC coordinates the national surveying and charting activities of countries within each region and acts as a forum to address other matters of common hydrographic interest. The 15 RHCs plus the IHO Hydrographic Commission on Antarctica effectively cover the world. The IHO, in partnership with the Intergovernmental Oceanographic Commission, directs the General Bathymetric Chart of the Oceans programme.
 

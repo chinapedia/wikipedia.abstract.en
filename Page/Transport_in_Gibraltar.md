@@ -5,7 +5,7 @@ Road
 
 Private transport
 
-Gibraltar-LookLeft-right-hand_traffic.jpg.]] GBZ_international_vehicle_registration_oval.png Gibraltar-plate.jpg, featuring the country identifier under the European flag.]] Gibraltar has of highways, all of which are paved. It has one of the highest levels of per capita car ownership in the world, with as many motor vehicles as people. Unlike the United Kingdom, along with the British Overseas Territories, traffic in Gibraltar drives on the right, as it shares a land border with Spain. Traffic formerly drove on the left; the change to driving on the right was made at 5.00 a.m. on 16 June 1929.[1]
+.]] , featuring the country identifier under the European flag.]] Gibraltar has of highways, all of which are paved. It has one of the highest levels of per capita car ownership in the world, with as many motor vehicles as people. Unlike the United Kingdom, along with the British Overseas Territories, traffic in Gibraltar drives on the right, as it shares a land border with Spain. Traffic formerly drove on the left; the change to driving on the right was made at 5.00 a.m. on 16 June 1929.[1]
 
 Older roads in Gibraltar, primarily in the city centre, are fairly narrow with a typical speed limit of . Gibraltar has ten fuelling stations, and fuel prices are lower than in neighbouring Spain. Some people from Spain even enter Gibraltar for the sole purpose of filling their cars' fuel tanks.
 
@@ -15,7 +15,7 @@ The two highways in Spain leading in the vicinity are the A-383 which ends in La
 
 Public transport
 
-Gibraltar_Bus_Company_Route_4.jpg, Sandy Bay.]] Open-top_bus_in_Gibraltar_2005.jpg on discontinued route 10 (now Service 5).]] There are a total of 8 different bus routes in Gibraltar. There are two companies who provide stage-carriage bus services in Gibraltar: Gibraltar Bus Company Limited and Calypso Transport Limited. The Gibraltar Bus Company is 100% owned by the Government of Gibraltar and operates all but one of the services. Calypso Transport operates the other, linking the city centre with the airport and the Frontier with Spain.
+, Sandy Bay.]] on discontinued route 10 (now Service 5).]] There are a total of 8 different bus routes in Gibraltar. There are two companies who provide stage-carriage bus services in Gibraltar: Gibraltar Bus Company Limited and Calypso Transport Limited. The Gibraltar Bus Company is 100% owned by the Government of Gibraltar and operates all but one of the services. Calypso Transport operates the other, linking the city centre with the airport and the Frontier with Spain.
 
 The Gibraltar Bus Company operates Services 1, 2, 3, 4, 7, 8 & 9 with its distinct fleet of modern, blue buses. The company has a total of 21 vehicles in its bus fleet, 18 of which are the Dennis Dart low-floor midibus with Caetano Nimbus bodies and featuring 28 seats and 3 Mercedes-Benz Sprinter minibuses with Unvi bodies and catering for 15 seated passengers. The Darts entered service the day the company was officially formed, Saturday 10 April 2004, when it took over the operation of private company Rock City Services Limited, who had been unwilling to invest in its fleet. The trio of Sprinters entered service during November 2010 and operate Service 1 to the Moorish Castle Estate in the Upper Town area of the city. This route is well worth travelling in order to see how narrow and winding the roads are in this part of town. The latest timetable is dated 1 September 2012.
 
@@ -23,15 +23,13 @@ Calypso Transport Ltd operates Service 5 between the Frontier (the land border w
 
 Bus Fares - Both Operators' Services [2]
 
-Gibraltar_Bus_Company_timetable_2018.jpg
-
               Single   All Day Pass.
   ----------- -------- ---------------
   Adult       £1.80    £2.50
   Pensioner   £1.00    £1.50
   Child       £1.50    £2.00
 
-Calypso Transport Ltd uses a fleet of red double-decker buses. Gibraltar_bus_routes.png
+Calypso Transport Ltd uses a fleet of red double-decker buses.
 
 Route 5 buses operate every 15 minutes Monday to Saturdays, and every 20 minutes on Sundays [3], this is a shuttle between Reclamation Road (British Steps) near John Macintosh Square and the Frontier/Airport terminus via the Market Place bus station Grand Casemates Square.
 
@@ -61,7 +59,7 @@ Ferries by _FRS_ running twice a week from Gibraltar to Tanger-Med port provide 
 
 Sea
 
-Gibraltar_navy.jpg.]] Aurora_gib.jpg at the Western Arm of the North Mole.]] Being a peninsula, the sea has long been vital to Gibraltar's transport links. The Royal Navy Dockyard was formerly Gibraltar's major employer. There is still a harbour on the west side of the territory. The Gibraltar-registered merchant marine consists of 26 ships of 1000 tonnes and above. There is an irregular direct regular fast ferry service to Tanger-Med port, Morocco but many passengers now travel from Algeciras or Tarifa due to a more regular service being present at those ports.
+.]] at the Western Arm of the North Mole.]] Being a peninsula, the sea has long been vital to Gibraltar's transport links. The Royal Navy Dockyard was formerly Gibraltar's major employer. There is still a harbour on the west side of the territory. The Gibraltar-registered merchant marine consists of 26 ships of 1000 tonnes and above. There is an irregular direct regular fast ferry service to Tanger-Med port, Morocco but many passengers now travel from Algeciras or Tarifa due to a more regular service being present at those ports.
 
 The ferry between Gibraltar and Algeciras, which existed until 1969, when communications with Spain were severed by the Spanish dictator Francisco Franco, was reopened on 16 December 2009, served by the Spanish company Transcoma,[10] which used a catamaran, _Punta Europa Segundo_ in memory of the original ferry that served the cross-Bay route in the 1960s. The maritime operations of Transcoma were taken over by Grupo Medex on 10 November 2010, which announced a higher-capacity new ship for 2011.[11]
 
@@ -74,7 +72,7 @@ One of the first seaplanes (Wight Seaplane) to come to Gibraltar was during worl
 
 In 1931 the seaplane Saro Windhover Captained by Edgar Percival for GB Airways was the first of regular passenger flights from Gibraltar to Morocco. If there was a Levant (wind), then the seaplane would land on an aerodrome in Morocco instead of Tangier harbour.
 
-Gibraltar_Airport_Main_Highway.jpg]] Work began in 1939 to build what is today Gibraltar Airport and is the territory's only airport. It is situated very close to the border with Spain. Winston Churchill Avenue the road which runs from the Gibraltar–Spain border, crosses the runway, requiring the road to be closed each time an aircraft lands or takes off. Scheduled civilian passenger flights are operated by EasyJet, British Airways and Royal Air Maroc.
+]] Work began in 1939 to build what is today Gibraltar Airport and is the territory's only airport. It is situated very close to the border with Spain. Winston Churchill Avenue the road which runs from the Gibraltar–Spain border, crosses the runway, requiring the road to be closed each time an aircraft lands or takes off. Scheduled civilian passenger flights are operated by EasyJet, British Airways and Royal Air Maroc.
 
 Following an agreement signed in Córdoba between the Governments of the United Kingdom, Spain and Gibraltar in September 2006, the use of Gibraltar Airport by both Gibraltarian and Spanish services was agreed. Gibraltar Airport will be adapted to have an entrance from Spain (as well as Gibraltar), in a similar manner to Basel and Geneva airports (which are also adjacent to borders).
 
@@ -87,7 +85,7 @@ Flights are available from Gibraltar to London Heathrow, London Gatwick, London 
 
 Cable car
 
-Gibraltar_Cable_Car_2.jpg A cable car runs from just south of the city centre to the Ape's Den and the Top of the Rock, which despite its name is actually the second highest peak of the Rock.
+A cable car runs from just south of the city centre to the Ape's Den and the Top of the Rock, which despite its name is actually the second highest peak of the Rock.
 
 
 Dispute with Spain

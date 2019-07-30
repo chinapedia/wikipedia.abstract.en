@@ -68,7 +68,7 @@ Subphyla
 
 Craniata (Vertebrata)
 
-Pacific_hagfish_Myxine.jpg ]]
+]]
 
 Craniates, one of the three subdivisions of chordates, all have distinct skulls. They include the hagfish, which have no vertebrae. Michael J. Benton commented that "craniates are characterized by their heads, just as chordates, or possibly all deuterostomes, are by their tails".[11]
 
@@ -78,13 +78,11 @@ The position of lampreys is ambiguous. They have complete braincases and rudimen
 
 Tunicata(Urochordata)
 
-BU_Bio.jpg
-
 Most tunicates appear as adults in two major forms, known as "sea squirts" and salps, both of which are soft-bodied filter-feeders that lack the standard features of chordates. Sea squirts are sessile and consist mainly of water pumps and filter-feeding apparatus;[19] salps float in mid-water, feeding on plankton, and have a two-generation cycle in which one generation is solitary and the next forms chain-like colonies.[20] However, all tunicate larvae have the standard chordate features, including long, tadpole-like tails; they also have rudimentary brains, light sensors and tilt sensors.[21] The third main group of tunicates, Appendicularia (also known as Larvacea), retain tadpole-like shapes and active swimming all their lives, and were for a long time regarded as larvae of sea squirts or salps.[22] The etymology of the term Urochorda(ta) (Balfour 1881) is from the ancient Greek οὐρά (oura, "tail") + Latin chorda ("cord"), because the notochord is only found in the tail.[23] The term TUNICATA (Lamarck 1816) is recognised as having precedence and is now more commonly used.[24]
 
 Cephalochordata: Lancelets
 
-Branchiostoma_lanceolatum.jpg]]
+]]
 
 Cephalochordates are small, "vaguely fish-shaped" animals that lack brains, clearly defined heads and specialized sense organs.[25] These burrowing filter-feeders compose the earliest-branching chordate sub-phylum.[26][27][28]
 
@@ -93,7 +91,7 @@ Phylogeny
 
 Overview
 
-Haikouichthys4.png'', from about in China, may be the earliest known fish.[29]]]
+'', from about in China, may be the earliest known fish.[29]]]
 
 There is still much ongoing differential (DNA sequence based) comparison research that is trying to separate out the simplest forms of chordates. As some lineages of the 90% of species that lack a backbone or notochord might have lost these structures over time, this complicates the classification of chordates. Some chordate lineages may only be found by DNA analysis, when there is no physical trace of any chordate-like structures.[30]
 
@@ -109,7 +107,7 @@ While this has been well known since the 19th century, an insistence on only mon
 
 The majority of animals more complex than jellyfish and other Cnidarians are split into two groups, the protostomes and deuterostomes, the latter of which contains chordates.[33] It seems very likely the _Kimberella_ was a member of the protostomes.[34][35] If so, this means the protostome and deuterostome lineages must have split some time before _Kimberella_ appeared—at least , and hence well before the start of the Cambrian .[36] The Ediacaran fossil _Ernietta_, from about , may represent a deuterostome animal.[37]
 
-BlueWhaleSkeleton.jpg, the world's largest animal, outside the Long Marine Laboratory at the University of California, Santa Cruz]] Peregrine_Falcon_12.jpg, the world's fastest animal]] Fossils of one major deuterostome group, the echinoderms (whose modern members include starfish, sea urchins and crinoids), are quite common from the start of the Cambrian, .[38] The Mid Cambrian fossil _Rhabdotubus johanssoni_ has been interpreted as a pterobranch hemichordate.[39] Opinions differ about whether the Chengjiang fauna fossil _Yunnanozoon_, from the earlier Cambrian, was a hemichordate or chordate.[40][41] Another fossil, _Haikouella lanceolata_, also from the Chengjiang fauna, is interpreted as a chordate and possibly a craniate, as it shows signs of a heart, arteries, gill filaments, a tail, a neural chord with a brain at the front end, and possibly eyes—although it also had short tentacles round its mouth.[42] _Haikouichthys_ and _Myllokunmingia_, also from the Chengjiang fauna, are regarded as fish.[43][44] _Pikaia_, discovered much earlier (1911) but from the Mid Cambrian Burgess Shale (505 Ma), is also regarded as a primitive chordate.[45] On the other hand, fossils of early chordates are very rare, since invertebrate chordates have no bones or teeth, and only one has been reported for the rest of the Cambrian.[46]
+, the world's largest animal, outside the Long Marine Laboratory at the University of California, Santa Cruz]] , the world's fastest animal]] Fossils of one major deuterostome group, the echinoderms (whose modern members include starfish, sea urchins and crinoids), are quite common from the start of the Cambrian, .[38] The Mid Cambrian fossil _Rhabdotubus johanssoni_ has been interpreted as a pterobranch hemichordate.[39] Opinions differ about whether the Chengjiang fauna fossil _Yunnanozoon_, from the earlier Cambrian, was a hemichordate or chordate.[40][41] Another fossil, _Haikouella lanceolata_, also from the Chengjiang fauna, is interpreted as a chordate and possibly a craniate, as it shows signs of a heart, arteries, gill filaments, a tail, a neural chord with a brain at the front end, and possibly eyes—although it also had short tentacles round its mouth.[42] _Haikouichthys_ and _Myllokunmingia_, also from the Chengjiang fauna, are regarded as fish.[43][44] _Pikaia_, discovered much earlier (1911) but from the Mid Cambrian Burgess Shale (505 Ma), is also regarded as a primitive chordate.[45] On the other hand, fossils of early chordates are very rare, since invertebrate chordates have no bones or teeth, and only one has been reported for the rest of the Cambrian.[46]
 
 The evolutionary relationships between the chordate groups and between chordates as a whole and their closest deuterostome relatives have been debated since 1890. Studies based on anatomical, embryological, and paleontological data have produced different "family trees". Some closely linked chordates and hemichordates, but that idea is now rejected.[47] Combining such analyses with data from a small set of ribosome RNA genes eliminated some older ideas, but opened up the possibility that tunicates (urochordates) are "basal deuterostomes", surviving members of the group from which echinoderms, hemichordates and chordates evolved.[48] Some researchers believe that, within the chordates, craniates are most closely related to cephalochordates, but there are also reasons for regarding tunicates (urochordates) as craniates' closest relatives.[49][50]
 
@@ -124,8 +122,6 @@ Phylogenetic tree of the Chordate phylum. Lines show probable evolutionary relat
 
 Closest nonchordate relatives
 
-Enteropneusta.png
-
 Hemichordates
 
 Hemichordates ("half chordates") have some features similar to those of chordates: branchial openings that open into the pharynx and look rather like gill slits; stomochords, similar in composition to notochords, but running in a circle round the "collar", which is ahead of the mouth; and a dorsal nerve cord—but also a smaller ventral nerve cord.
@@ -134,7 +130,7 @@ There are two living groups of hemichordates. The solitary enteropneusts, common
 
 Echinoderms
 
-Red-knobbed.starfish.arp.jpg'' is an example of Asterozoan Echinoderm.|right]] Echinoderms differ from chordates and their other relatives in three conspicuous ways: they possess bilateral symmetry only as larvae - in adulthood they have radial symmetry, meaning that their body pattern is shaped like a wheel; they have tube feet; and their bodies are supported by skeletons made of calcite, a material not used by chordates. Their hard, calcified shells keep their bodies well protected from the environment, and these skeletons enclose their bodies, but are also covered by thin skins. The feet are powered by another unique feature of echinoderms, a water vascular system of canals that also functions as a "lung" and surrounded by muscles that act as pumps. Crinoids look rather like flowers, and use their feather-like arms to filter food particles out of the water; most live anchored to rocks, but a few can move very slowly. Other echinoderms are mobile and take a variety of body shapes, for example starfish, sea urchins and sea cucumbers.[60]
+'' is an example of Asterozoan Echinoderm.|right]] Echinoderms differ from chordates and their other relatives in three conspicuous ways: they possess bilateral symmetry only as larvae - in adulthood they have radial symmetry, meaning that their body pattern is shaped like a wheel; they have tube feet; and their bodies are supported by skeletons made of calcite, a material not used by chordates. Their hard, calcified shells keep their bodies well protected from the environment, and these skeletons enclose their bodies, but are also covered by thin skins. The feet are powered by another unique feature of echinoderms, a water vascular system of canals that also functions as a "lung" and surrounded by muscles that act as pumps. Crinoids look rather like flowers, and use their feather-like arms to filter food particles out of the water; most live anchored to rocks, but a few can move very slowly. Other echinoderms are mobile and take a variety of body shapes, for example starfish, sea urchins and sea cucumbers.[60]
 
 
 History of name

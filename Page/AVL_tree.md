@@ -1,5 +1,3 @@
-AVL_Tree_Example.gif AVL-tree-wBalance_K.svg
-
 In computer science, an AVL TREE (named after inventors Adelson-Velsky and Landis) is a self-balancing binary search tree. It was the first such data structure to be invented.[1] In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Lookup, insertion, and deletion all take time in both the average and worst cases, where n is the number of nodes in the tree prior to the operation. Insertions and deletions may require the tree to be rebalanced by one or more tree rotations.
 
 The AVL tree is named after its two Soviet inventors, Georgy Adelson-Velsky and Evgenii Landis, who published it in their 1962 paper "An algorithm for the organization of information".[2]
@@ -317,8 +315,6 @@ The result of the left rotation is shown in the lower half of the figure. Three 
 
 As the figure shows, before an insertion, the leaf layer was at level h+1, temporarily at level h+2 and after the rotation again at level h+1. In case of a deletion, the leaf layer was at level h+2, where it is again, when t₂₃ and t₄ were of same height. Otherwise the leaf layer reaches level h+1, so that the height of the rotated tree decreases.
 
-AVL-simple-left_K.svg
-
 Code snippet of a simple left rotation
 
   --------- ----------------------------------------
@@ -354,8 +350,6 @@ Figure 5 shows a Right Left situation. In its upper third, node X has two child 
 The result of the first, the right, rotation is shown in the middle third of the figure. (With respect to the balance factors, this rotation is not of the same kind as the other AVL single rotations, because the height difference between Y and t₄ is only 1.) The result of the final left rotation is shown in the lower third of the figure. Five links (thick edges in figure 5) and three balance factors are to be updated.
 
 As the figure shows, before an insertion, the leaf layer was at level h+1, temporarily at level h+2 and after the double rotation again at level h+1. In case of a deletion, the leaf layer was at level h+2 and after the double rotation it is at level h+1, so that the height of the rotated tree decreases.
-
-AVL-double-rl_K.svg
 
 Code snippet of a right-left double rotation
 

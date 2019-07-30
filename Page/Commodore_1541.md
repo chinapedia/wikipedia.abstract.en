@@ -1,5 +1,3 @@
-Commodore-64-1541-Floppy-Drive-04.jpg
-
 The COMMODORE 1541 (also known as the CBM 1541 and VIC-1541) is a floppy disk drive which was made by Commodore International for the Commodore 64 (C64), Commodore's most popular home computer. The best-known floppy disk drive for the C64, the 1541 is a single-sided 170-kilobyte drive for 5¼" disks. The 1541 directly followed the Commodore 1540 (meant for the VIC-20).
 
 The disk drive uses group coded recording (GCR) and contains a MOS Technology 6502 microprocessor, doubling as a disk controller and on-board disk operating system processor. The number of sectors per track varies from 17 to 21 (an early implementation of zone bit recording). The drive's built-in disk operating system is CBM DOS 2.6.
@@ -17,11 +15,7 @@ The early (1982 to 1983) 1541s have a spring-eject mechanism (Alps drive), and t
 
 Versions and third-party clones
 
-Commodore_1541_white.jpg
-
 All but the very earliest non-II model 1541s can use either the Alps or Newtronics mechanism. Visually, the first models, of the _VIC-1541_ denomination, have an off-white color like the VIC-20 and VIC-1540. Then, to match the look of the C64, CBM changed the drive's color to brown-beige and the name to _Commodore 1541_.
-
-C64-IMG_5372.jpg
 
 The 1541's numerous shortcomings opened a market for a number of third-party clones of the disk drive, a situation that continued for the lifetime of the C64. Well-known clones are the _Oceanic OC-118_ a.k.a. _Excelerator+_, the MSD Super Disk single and dual drives, the _Enhancer 2000_, the _Indus GT_, and _CMD_ 's _FD-2000_ and _FD-4000_. Nevertheless, the 1541 became the first disk drive to see widespread use in the home and Commodore sold millions of the units.
 

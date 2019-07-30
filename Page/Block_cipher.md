@@ -47,8 +47,6 @@ Given one of the standard iterated block cipher design schemes, it is fairly eas
 
 Substitution–permutation networks
 
-SubstitutionPermutationNetwork2.png
-
 One important type of iterated block cipher known as a _substitution–permutation network (SPN)_ takes a block of the plaintext and the key as inputs, and applies several alternating rounds consisting of a substitution stage followed by a permutation stage—to produce each block of ciphertext output.[8] The non-linear substitution stage mixes the key bits with those of the plaintext, creating Shannon's _confusion_. The linear permutation stage then dissipates redundancies, creating _diffusion_.[9][10]
 
 A _substitution box (S-box)_ substitutes a small block of input bits with another block of output bits. This substitution must be one-to-one, to ensure invertibility (hence decryption). A secure S-box will have the property that changing one input bit will change about half of the output bits on average, exhibiting what is known as the avalanche effect—i.e. it has the property that each output bit will depend on every input bit.[11]
@@ -61,7 +59,7 @@ Decryption is done by simply reversing the process (using the inverses of the S-
 
 Feistel ciphers
 
-Feistel_cipher_diagram_en.svgs'']] In a _Feistel cipher_, the block of plain text to be encrypted is split into two equal-sized halves. The round function is applied to one half, using a subkey, and then the output is XORed with the other half. The two halves are then swapped.
+s'']] In a _Feistel cipher_, the block of plain text to be encrypted is split into two equal-sized halves. The round function is applied to one half, using a subkey, and then the output is XORed with the other half. The two halves are then swapped.
 
 Let ${\rm F}$ be the round function and let K₀, K₁, …, K_(n) be the sub-keys for the rounds 0, 1, …, n respectively.
 
@@ -91,7 +89,7 @@ One advantage of the Feistel model compared to a substitution–permutation netw
 
 Lai–Massey ciphers
 
-Lai_Massey_scheme_diagram_en.svg.]]
+.]]
 
 The Lai–Massey scheme offers security properties similar to those of the Feistel structure. It also shares its advantage that the round function F does not have to be invertible. Another similarity is that is also splits the input block into two equal pieces. However, the round function is applied to the difference between the two, and the result is then added to both half blocks.
 
@@ -132,7 +130,7 @@ Other operations often used in block ciphers include data-dependent rotations as
 
 Modes of operation
 
-Tux_ecb.jpg (ECB) mode encoding.]] A block cipher by itself allows encryption only of a single data block of the cipher's block length. For a variable-length message, the data must first be partitioned into separate cipher blocks. In the simplest case, known as the Electronic Codebook (ECB) mode, a message is first split into separate blocks of the cipher's block size (possibly extending the last block with padding bits), and then each block is encrypted and decrypted independently. However, such a naive method is generally insecure because equal plaintext blocks will always generate equal ciphertext blocks (for the same key), so patterns in the plaintext message become evident in the ciphertext output.
+(ECB) mode encoding.]] A block cipher by itself allows encryption only of a single data block of the cipher's block length. For a variable-length message, the data must first be partitioned into separate cipher blocks. In the simplest case, known as the Electronic Codebook (ECB) mode, a message is first split into separate blocks of the cipher's block size (possibly extending the last block with padding bits), and then each block is encrypted and decrypted independently. However, such a naive method is generally insecure because equal plaintext blocks will always generate equal ciphertext blocks (for the same key), so patterns in the plaintext message become evident in the ciphertext output.
 
 To overcome this limitation, several so called block cipher modes of operation have been designed[14] and specified in national recommendations such as NIST 800-38A[15] and BSI TR-02102[16] and international standards such as ISO/IEC 10116.[17] The general concept is to use randomization of the plaintext data based on an additional input value, frequently called an initialization vector, to create what is termed probabilistic encryption. In the popular cipher block chaining (CBC) mode, for encryption to be secure the initialization vector passed along with the plaintext message must be a random or pseudo-random value, which is added in an exclusive-or manner to the first plaintext block before it is being encrypted. The resultant ciphertext block is then used as the new initialization vector for the next plaintext block. In the cipher feedback (CFB) mode, which emulates a self-synchronizing stream cipher, the initialization vector is first encrypted and then added to the plaintext block. The output feedback (OFB) mode repeatedly encrypts the initialization vector to create a key stream for the emulation of a synchronous stream cipher. The newer counter (CTR) mode similarly creates a key stream, but has the advantage of only needing unique and not (pseudo-)random values as initialization vectors; the needed randomness is derived internally by using the initialization vector as a block counter and encrypting this counter for each block.[18]
 
@@ -164,7 +162,7 @@ _Integral cryptanalysis_ is a cryptanalytic attack that is particularly applicab
 
 Other techniques
 
-Attaque_boomerang.png enabled differential cryptanalysis techniques to be applied to many ciphers that had previously been deemed secure against differential attacks]] In addition to linear and differential cryptanalysis, there is a growing catalog of attacks: truncated differential cryptanalysis, partial differential cryptanalysis, integral cryptanalysis, which encompasses square and integral attacks, slide attacks, boomerang attacks, the XSL attack, impossible differential cryptanalysis and algebraic attacks. For a new block cipher design to have any credibility, it must demonstrate evidence of security against known attacks.
+enabled differential cryptanalysis techniques to be applied to many ciphers that had previously been deemed secure against differential attacks]] In addition to linear and differential cryptanalysis, there is a growing catalog of attacks: truncated differential cryptanalysis, partial differential cryptanalysis, integral cryptanalysis, which encompasses square and integral attacks, slide attacks, boomerang attacks, the XSL attack, impossible differential cryptanalysis and algebraic attacks. For a new block cipher design to have any credibility, it must demonstrate evidence of security against known attacks.
 
 
 Provable security
@@ -227,7 +225,7 @@ The designers analysed IDEA to measure its strength against differential cryptan
 
 RC5
 
-RC5_InfoBox_Diagram.svg RC5 is a block cipher designed by Ronald Rivest in 1994 which, unlike many other ciphers, has a variable block size (32, 64 or 128 bits), key size (0 to 2040 bits) and number of rounds (0 to 255). The original suggested choice of parameters were a block size of 64 bits, a 128-bit key and 12 rounds.
+RC5 is a block cipher designed by Ronald Rivest in 1994 which, unlike many other ciphers, has a variable block size (32, 64 or 128 bits), key size (0 to 2040 bits) and number of rounds (0 to 255). The original suggested choice of parameters were a block size of 64 bits, a 128-bit key and 12 rounds.
 
 A key feature of RC5 is the use of data-dependent rotations; one of the goals of RC5 was to prompt the study and evaluation of such operations as a cryptographic primitive. RC5 also consists of a number of modular additions and XORs. The general structure of the algorithm is a Feistel-like network. The encryption and decryption routines can be specified in a few lines of code. The key schedule, however, is more complex, expanding the key using an essentially one-way function with the binary expansions of both e and the golden ratio as sources of "nothing up my sleeve numbers". The tantalising simplicity of the algorithm together with the novelty of the data-dependent rotations has made RC5 an attractive object of study for cryptanalysts.
 

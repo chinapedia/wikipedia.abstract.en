@@ -59,7 +59,7 @@ Some scholars today believe the document was written to prevent apostasy.[36] So
 
 The book could be argued to affirm special creation. It affirms that God by His Son, Jesus Christ, made the worlds. "God... hath in these last days spoken unto us by his Son... by whom also he made the worlds". The epistle also emphasizes the importance of faith. "Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear".
 
-Bloch-SermonOnTheMount.jpg believe that Jesus is the mediator of the New Covenant. His famous sermon from a hill representing Mount Zion is considered by many Christian scholars to be the antitype[38] of the proclamation of the Old Covenant by Moses from Mount Sinai.]]
+believe that Jesus is the mediator of the New Covenant. His famous sermon from a hill representing Mount Zion is considered by many Christian scholars to be the antitype[38] of the proclamation of the Old Covenant by Moses from Mount Sinai.]]
 
 
 Style

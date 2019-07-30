@@ -5,7 +5,7 @@ History
 
 Origin
 
-Petermccormick.jpg "Advance Australia Fair" was composed in the late 19th century by Peter Dodds McCormick under the pen-name "Amicus" (which means "friend" in Latin). It was first performed by Andrew Fairfax at a function of the Highland Society of New South Wales in Sydney on 30 November 1878. The song quickly gained popularity and an amended version was sung by a choir of around 10,000 at the inauguration of the Commonwealth of Australia on 1 January 1901. In 1907 the Australian Government awarded McCormick £100 for his composition.[1]
+"Advance Australia Fair" was composed in the late 19th century by Peter Dodds McCormick under the pen-name "Amicus" (which means "friend" in Latin). It was first performed by Andrew Fairfax at a function of the Highland Society of New South Wales in Sydney on 30 November 1878. The song quickly gained popularity and an amended version was sung by a choir of around 10,000 at the inauguration of the Commonwealth of Australia on 1 January 1901. In 1907 the Australian Government awarded McCormick £100 for his composition.[1]
 
 In a letter to R.B. Fuller dated 1 August 1913, McCormick described the circumstances that inspired him to write "Advance Australia Fair":
 

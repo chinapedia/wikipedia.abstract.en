@@ -17,7 +17,7 @@ The drumming is usually fast and relies on double-bass and blast beats to mainta
 
 Black metal songs often stray from conventional song structure and often lack clear verse-chorus sections. Instead, many black metal songs contain lengthy and repetitive instrumental sections. The Greek style—established by Rotting Christ, Necromantia and Varathron[20]—has more traditional heavy metal[21] and death metal[22] traits than Norwegian black metal.
 
-Gorgoroth_I.jpg to express his Satanist beliefs.[23]]]
+to express his Satanist beliefs.[23]]]
 
 Vocals and lyrics
 
@@ -26,8 +26,6 @@ Traditional black metal bands tend to favor raspy, high-pitched vocals which inc
 Black metal lyrics typically attack Christianity and the other institutional religions,[27] often using apocalyptic language. Satanic lyrics are common,[28] and many see them as essential to black metal. For Satanist black metal artists, "Black metal songs are meant to be like Calvinist sermons; deadly serious attempts to unite the true believers". Misanthropy, global catastrophe, war, death, destruction and rebirth are also common themes.[29] Another topic often found in black metal lyrics is that of the wild and extreme aspects and phenomena of the natural world, particularly the wilderness, forests, mountains, winter, storms, and blizzards.[30] Black metal also has a fascination with the distant past. Many bands write about the mythology and folklore[31] of their homelands and promote a revival of pre-Christian, pagan traditions. A significant number of bands write lyrics only in their native language and a few (e.g. Arckanum) have lyrics in archaic languages. Some doom metal-influenced artists' lyrics focus on depression, nihilism, introspection, self-harm and suicide.[32][33][34]
 
 Imagery and performances
-
-Hindvir_Gaulhammer_Fest_111008_01_C.jpg
 
 Many bands choose not to play live.[35][36] Many of those who do play live maintain that their performances "are not for entertainment or spectacle. Sincerity, authenticity and extremity are valued above all else". Some bands consider their concerts to be rituals and often make use of stage props and theatrics. Bands such as Mayhem and Gorgoroth are noted for their controversial shows, which have featured impaled animal heads, mock crucifixions, medieval weaponry and band members doused in animal blood.[37] A few vocalists, such as Dead, Maniac and Kvarforth, are known for cutting themselves while singing onstage.
 
@@ -54,7 +52,7 @@ The use of corpse paint in the black metal imagery was mainly influenced by the 
 
 First wave
 
-Venom_live_at_hellfest.jpg'', inspired the name of the genre]]
+'', inspired the name of the genre]]
 
 The first wave of black metal refers to those bands during the 1980s who influenced the black metal sound and formed a prototype for the genre. They were often speed metal or thrash metal bands.[60][61]
 
@@ -72,15 +70,13 @@ In 1990 and 1991, Northern European metal acts began to release music influenced
 
 Second wave
 
-Immortal_Getaway_Rock_Festival.jpg |last=Marsicano |first=Dan |deadurl=yes |archiveurl=https://web.archive.org/web/20100602232143/http://heavymetal.about.com/od/immortal/p/immortal.htm |archivedate=2 June 2010 }}]]
+|last=Marsicano |first=Dan |deadurl=yes |archiveurl=https://web.archive.org/web/20100602232143/http://heavymetal.about.com/od/immortal/p/immortal.htm |archivedate=2 June 2010 }}]]
 
 The second wave of black metal began in the early 1990s and was spearheaded by the Norwegian black metal scene. During , a number of Norwegian artists began performing and releasing a new kind of black metal music; this included Mayhem, Darkthrone, Burzum, Immortal, Emperor, Satyricon, Enslaved, Thorns, Carpathian Forest and Gorgoroth. They developed the style of their 1980s forebears into a distinct genre. This was partly thanks to a new kind of guitar playing developed by Snorre 'Blackthorn' Ruch of Stigma Diabolicum/Thorns and Øystein 'Euronymous' Aarseth of Mayhem.[91][92] Fenriz of Darkthrone described it as being "derived from Bathory"[93] and noted that "those kinds of riffs became the new order for a lot of bands in the '90s".[94]
 
 The wearing of corpse paint became standard, and was a way for many black metal artists to distinguish themselves from other metal bands of the era.[95] The scene also had an ideology and ethos. Artists were bitterly opposed to Christianity and presented themselves as misanthropic Devil worshippers who wanted to spread terror, hatred and evil. They professed to be serious in their views and vowed to act on them. Ihsahn of Emperor said that they sought to "create fear among people" and "be in opposition to society". The scene was exclusive and created boundaries around itself, incorporating only those who were "true" and attempting to expel all "poseurs". Some members of the scene were responsible for a spate of church burnings and murder, which eventually drew attention to it and led to a number of artists being imprisoned.
 
 Helvete and Deathlike Silence
-
-Helvete_Oslo_-_black_metal_graffiti.jpg
 
 During May–June 1991, Euronymous of Mayhem opened an independent record shop named _Helvete_ (Norwegian for _hell_) in Oslo. It quickly became the focal point of Norway's emerging black metal scene and a meeting place for many of its musicians; especially the members of Mayhem, Burzum, Emperor and Thorns.[96] Jon 'Metalion' Kristiansen, writer of the fanzine _Slayer_, said that the opening of Helvete was "the creation of the whole Norwegian black metal scene". In its basement, Euronymous founded an independent record label named Deathlike Silence Productions. With the rising popularity of his band and others like it, the underground success of Euronymous's label is often credited for encouraging other record labels, who had previously shunned black metal acts, to then reconsider and release their material.
 
@@ -94,7 +90,7 @@ Two other members of the early Norwegian scene would later die by suicide: Erik 
 
 Church burnings
 
-Bergen,_Fantoft2.jpg ]]
+]]
 
 In 1992, members of the Norwegian black metal scene began a wave of arson attacks on Christian churches. By 1996, there had been at least 50 such attacks in Norway.[110] Some of the buildings were hundreds of years old and seen as important historical landmarks. The first to be burnt down was Norway's Fantoft stave church. Police believe Varg Vikernes of Burzum was responsible.[111] The cover of Burzum's EP _Aske_ ("ashes") is a photograph of the destroyed church. In May 1994, Vikernes was found guilty for burning down Holmenkollen Chapel, Skjold Church and Åsane Church.[112] To coincide with the release of Mayhem's _De Mysteriis Dom Sathanas_, Vikernes and Euronymous had also allegedly plotted to bomb Nidaros Cathedral, which appears on the album cover. The musicians Faust, Samoth, (both of Emperor) and Jørn Inge Tunsberg (of Hades Almighty)[113] were also convicted for church arsons. Members of the Swedish scene started to burn churches in 1993.
 
@@ -110,11 +106,11 @@ Vikernes was arrested on 19 August 1993, in Bergen. Many other members of the sc
 
 Outside Norway
 
-Enthroned_201107_Paris_07.jpg is a black metal band from Belgium]]
+is a black metal band from Belgium]]
 
 Black metal scenes also emerged on the European mainland during the early 1990s, inspired by the Norwegian scene or the older bands, or both. In Poland, a scene was spearheaded by Graveland and Behemoth. In France, a close-knit group of musicians known as Les Légions Noires emerged; this included artists such as Mütiilation, Vlad Tepes, Belketre and Torgeist. In Belgium, there were acts such as Ancient Rites and Enthroned. Bands such as Black Funeral, Grand Belial's Key and Judas Iscariot emerged during this time in the United States. Black Funeral, from Houston, formed in 1993, was associated with black magic and Satanism.[131]
 
-Cradle_of_Filth_2005.jpg in 2005]]
+in 2005]]
 
 A notable black metal group in England was Cradle of Filth, who released three demos in a black/death metal style with symphonic flourishes, followed by a studio album, which featured a then-unusual hybrid style of black and gothic metal. The band then abandoned black metal for gothic metal,[132] becoming one of the most successful extreme metal bands to date. John Serba of AllMusic commented that their first album "made waves in the early black metal scene, putting Cradle of Filth on the tips of metalheads' tongues, whether in praise of the band's brazen attempts to break the black metal mold or in derision for its 'commercialization' of an underground phenomenon that was proud of its grimy heritage".[133] Some black metal fans did not consider Cradle of Filth to be black metal. When asked if he considers Cradle of Filth a black metal band, vocalist Dani Filth said he considers them black metal in terms of philosophy and atmosphere, but not in other ways. Another English band called Necropolis never released any music, but "began a desecratory assault against churches and cemeteries in their area" and "almost caused Black Metal to be banned in Britain as a result". Dayal Patterson says successful acts like Cradle of Filth "provoked an even greater extremity [of negative opinion] from the underground" scene due to concerns about "selling out".[134]
 
@@ -122,7 +118,7 @@ The controversy surrounding Absurd drew attention to the German black metal scen
 
 After the second wave
 
-DimmuBorgirTuska2005.jpg}}]]
+}}]]
 
 In the beginning of the second wave, the different scenes developed their own styles; as Alan 'Nemtheanga' Averill says, "you had the Greek sound and the Finnish sound, and the Norwegian sound".[140] By the mid-1990s, the style of the Norwegian scene was being adopted by bands worldwide, and in 1998, _Kerrang!_ journalist Malcolm Dome said that "black metal as we know it in 1998 owes more to Norway and to Scandinavia than any other particular country".[141] Newer black metal bands also began raising their production quality and introducing additional instruments such as synthesizers and even full-symphony orchestras. By the late 1990s, the underground concluded that several of the Norwegian pioneers—like Emperor,[142][143] Immortal,[144][145] Dimmu Borgir,[146] Ancient,[147][148] Covenant/The Kovenant,[149] and Satyricon[150]—had commercialized[151][152] or sold out to the mainstream and "big bastard labels".[153] Dayal Patterson states that successful acts like Dimmu Borgir "provoked and even greater extremity [of negative opinion] from the underground" regarding the view that these bands had "sold out".[154]
 
@@ -130,7 +126,7 @@ After Euronymous's death, "some bands went more towards the Viking metal and epi
 
 The Swedish band Shining, founded in 1996, began writing music almost exclusively about depression and suicide, musically inspired by Strid and by Burzum's albums _Hvis lyset tar oss_ and _Filosofem_.[161] Vocalist Niklas Kvarforth wanted to "force feed" his listeners "with self-destructive and suicidal imagery and lyrics".[162] In the beginning he used the term "suicidal black metal" for his music.[163][164] However, he stopped using the term in 2001 because it had begun to be used by a slew of other bands, who he felt had misinterpreted his vision[165][166] and were using the music as a kind of therapy[167][168] rather than a weapon against the listener as Kvarforth intended.[169] He said that he "wouldn't call Shining a black metal band" and called the "suicidal black metal" term a "foolish idea".[170]
 
-Watain3.jpg singer Erik Danielsson in torn clothes and covered with blood]] According to Erik Danielsson, when his band Watain formed in 1998 there were very few bands who took black metal as seriously as the early Norwegian scene had.[171] A newer generation of Swedish Satanic bands like Watain and Ondskapt, supposedly inspired by Ofermod,[172][173] the new band of Nefandus member Belfagor, put this scene "into a new light". Kvarforth said, "It seems like people actually [got] afraid again".[174] "The current Swedish black metal scene has a particularly ambitious and articulate understanding of mysticism and its validity to black metal. Many Swedish black metal bands, most notably Watain and Dissection, are [or were] affiliated with the Temple of the Black Light, or Misanthropic Luciferian Order […] a Theistic, Gnostic, Satanic organization based in Sweden". Upon his release in 2004, Jon Nödtveidt restarted Dissection with new members who he felt were able to "stand behind and live up to the demands of Dissection's Satanic concept".[175] He started calling Dissection "the sonic propaganda unit of the MLO"[176][177] and released a third full-length album, _Reinkaos_. The lyrics contain magical formulae from the _Liber Azerate_ and are based on the organization's teachings.[178] After the album's release and a few concerts, Nödtveidt said that he had "reached the limitations of music as a tool for expressing what I want to express, for myself and the handful of others that I care about" and disbanded Dissection[179] before dying by suicide.[180]
+singer Erik Danielsson in torn clothes and covered with blood]] According to Erik Danielsson, when his band Watain formed in 1998 there were very few bands who took black metal as seriously as the early Norwegian scene had.[171] A newer generation of Swedish Satanic bands like Watain and Ondskapt, supposedly inspired by Ofermod,[172][173] the new band of Nefandus member Belfagor, put this scene "into a new light". Kvarforth said, "It seems like people actually [got] afraid again".[174] "The current Swedish black metal scene has a particularly ambitious and articulate understanding of mysticism and its validity to black metal. Many Swedish black metal bands, most notably Watain and Dissection, are [or were] affiliated with the Temple of the Black Light, or Misanthropic Luciferian Order […] a Theistic, Gnostic, Satanic organization based in Sweden". Upon his release in 2004, Jon Nödtveidt restarted Dissection with new members who he felt were able to "stand behind and live up to the demands of Dissection's Satanic concept".[175] He started calling Dissection "the sonic propaganda unit of the MLO"[176][177] and released a third full-length album, _Reinkaos_. The lyrics contain magical formulae from the _Liber Azerate_ and are based on the organization's teachings.[178] After the album's release and a few concerts, Nödtveidt said that he had "reached the limitations of music as a tool for expressing what I want to express, for myself and the handful of others that I care about" and disbanded Dissection[179] before dying by suicide.[180]
 
 A part of the underground scene adopted a Jungian interpretation of the church burnings and other acts of the early scene as the re-emergence of ancient archetypes, which Kadmon of Allerseelen and the authors of _Lords of Chaos_ had implied in their writings.[181] They mixed this interpretation with Paganism and Nationalism.[182] Varg Vikernes was seen as "an ideological messiah" by some,[183] although Vikernes had disassociated himself from black metal[184] and his neo-Nazism had nothing to do with that subculture. This led to the rise of National Socialist black metal (NSBM), which Hendrik Möbus of Absurd calls "the logical conclusion" of the Norwegian black metal "movement".[185] Other parts of the scene oppose NSBM as it is "indelibly linked with Asá Trŭ and opposed to Satanism", or look upon Nazism "with vague skepticism and indifference". Members of the NSBM scene, among others, see the Norwegian bands as poseurs whose "ideology is cheap", although they still respect Vikernes and Burzum, whom Grand Belial's Key vocalist Richard Mills called "the only Norwegian band that remains unapologetic and literally convicted of his beliefs".[186]
 
@@ -222,7 +218,7 @@ Symphonic black metal is a style of black metal that incorporates symphonic and 
 
 Ideology
 
-Taake_Hellfest_2009_8_NB.jpg vocalist Hoest—the inverted Christian cross is often used by black-metallers to signify their opposition to Christianity]]
+vocalist Hoest—the inverted Christian cross is often used by black-metallers to signify their opposition to Christianity]]
 
 Unlike other metal genres, black metal is associated with an ideology and ethos. It is fiercely opposed to Christianity[429] and the other main institutional religions, Islam and Judaism. Many black metal bands are Satanists and see Satanism as a key part of black metal. Others advocate ethnic Paganism, "often coupled with nationalism", although the early Pagan bands did not call themselves 'black metal'.[430][431][432]
 
@@ -232,11 +228,9 @@ In his master's thesis, Benjamin Hedge Olson wrote that some artists can be seen
 
 Satanism
 
-Pentagram4.svg is commonly used by bands in the genre]]
+is commonly used by bands in the genre]]
 
 Black metal was originally a term for extreme metal bands with Satanic lyrics and imagery. However, most of the 'first wave' bands (including Venom, who coined the term 'black metal') were not Satanists and rather used Satanic themes to provoke controversy or gain attention. One of the few exceptions was Mercyful Fate singer and Church of Satan member King Diamond, whom Michael Moynihan calls "one of the only performers of the '80s Satanic metal who was more than just a poseur using a devilish image for shock value".
-
-Gorgoroth_by_Christian_Misje.jpg
 
 In the early 1990s, many Norwegian black-metallers presented themselves as genuine Devil worshippers. Mayhem's Euronymous was the key figure behind this. They attacked the Church of Satan for its "freedom and life-loving" views;[444] the theistic Satanism they espoused was an inversion of Christianity. Benjamin Hedge Olson wrote that they "transform[ed] Venom's quasi-Satanic stage theatrics into a form of cultural expression unique from other forms of metal or Satanism" and "abandoned the mundane identities and ambitions of other forms of metal in favor of religious and ideological fanaticism". Some prominent scene members—such as Euronymous and Faust[445][446]—stated that only bands who are Satanists can be called 'black metal'. Bands with a Norwegian style, but without Satanic lyrics, tended to use other names for their music.[447][448][449] This view is still held by many artists—such as Infernus,[450] Arioch,[451] Nornagest and Erik Danielsson.[452] Some bands, like the reformed Dissection[453][454] and Watain,[455] insist that all members must be of the same Satanic belief, whereas Michael Ford of Black Funeral[456] and MkM of Antaeus[457] believe black metal must be Satanic but not all band members need to be Satanists. Others—such as Jan Axel Blomberg,[458] Sigurd Wongraven[459] and Eric Horner[460]—believe that black metal does not need to be Satanic. An article in Metalion's _Slayer_ fanzine attacked musicians that "care more about their guitars than the actual essence onto which the whole concept was and is based upon", and insisted that "the music itself doesn't come as the first priority".[461] Bands with a similar style but with Pagan lyrics tend to be referred to as 'Pagan Metal' by many 'purist' black-metallers.[462]
 
@@ -258,7 +252,7 @@ Red and Anarchist black metal (also known as RABM or Anarchist black metal)[489]
 
 Unblack metal
 
-Lars_Stokstad_&_Thor_Georg_Buer_EoR2011.jpg.]]
+.]]
 
 'Unblack metal' (or 'Christian black metal') promotes Christianity through its lyrics and imagery.[503] The first unblack metal record, _Hellig Usvart_ (1994) by Australian artist Horde, was a provocative parody of Norwegian black metal. It sparked controversy, and death threats were issued against Horde. Norwegian Christian band Antestor adopted a black metal style in the late 1990s.
 

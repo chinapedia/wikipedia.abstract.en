@@ -1,4 +1,4 @@
-Dimona01.jpg DIMONA () is an Israeli city in the Negev desert, to the south of Beersheba and west of the Dead Sea above the Arava valley in the Southern District of Israel. In its population was . The Shimon Peres Negev Nuclear Research Center, colloquially known as the _Dimona Reactor_, is located southeast of the city.
+DIMONA () is an Israeli city in the Negev desert, to the south of Beersheba and west of the Dead Sea above the Arava valley in the Southern District of Israel. In its population was . The Shimon Peres Negev Nuclear Research Center, colloquially known as the _Dimona Reactor_, is located southeast of the city.
 
 
 Etymology
@@ -7,8 +7,6 @@ The city's name is derived from a biblical town, mentioned in Joshua 15:21-22.
 
 
 History
-
-PikiWiki_Israel_4566_Dimona_renewal.JPG
 
 Dimona was one of the development towns created in the 1950s under the leadership of Israel's first Prime Minister, David Ben-Gurion. Dimona itself was conceived in 1953. The location chosen was close to the Dead Sea Works. It was established in 1955. The first residents were Jewish immigrants from North Africa, with an initial 36 families being the first to settle there. Its population in 1955 was about 300. The North African immigrants also constructed the city's houses.
 
@@ -36,12 +34,12 @@ Average annual precipitation is about , mostly during the winter.[6]
 
 Transportation
 
-Dimona_Railway_Station.JPG In the early 1950s, an extension to Dimona and south was constructed from the Railway to Beersheba, designed for freight traffic. A passenger service began in 2005, after pressure from Dimona's municipality. Dimona Railway Station is located in the southwestern part of the city. The main bus terminal is the Dimona Central Bus Station, with lines to Beersheba, Tel Aviv, Eilat, and nearby towns.
+In the early 1950s, an extension to Dimona and south was constructed from the Railway to Beersheba, designed for freight traffic. A passenger service began in 2005, after pressure from Dimona's municipality. Dimona Railway Station is located in the southwestern part of the city. The main bus terminal is the Dimona Central Bus Station, with lines to Beersheba, Tel Aviv, Eilat, and nearby towns.
 
 
 Notable residents
 
-Yossibenayounch.jpg]]
+]]
 
 -   Lucy Aharish, news presenter, reporter, television host
 -   Jacques Amir (1933–2011), Knesset member

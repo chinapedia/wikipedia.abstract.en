@@ -15,7 +15,7 @@ On November 6, 1869, the United States witnessed its first intercollegiate footb
 
 Beginning of organized cheer
 
-JCampbell.jpg cheerleader Johnny Campbell]] Organized cheerleading started as an all-male activity.[7] As early as 1877, Princeton University had a "Princeton Cheer", documented in the February 22, 1877, March 12, 1880, and November 4, 1881, issues of _The Daily Princetonian_.[8][9][10] This cheer was yelled from the stands by students attending games, as well as by the athletes themselves. The cheer, "Hurrah! Hurrah! Hurrah! Tiger! S-s-s-t! Boom! A-h-h-h!" remains in use with slight modifications today, where it is now referred to as the "Locomotive".[11]
+cheerleader Johnny Campbell]] Organized cheerleading started as an all-male activity.[7] As early as 1877, Princeton University had a "Princeton Cheer", documented in the February 22, 1877, March 12, 1880, and November 4, 1881, issues of _The Daily Princetonian_.[8][9][10] This cheer was yelled from the stands by students attending games, as well as by the athletes themselves. The cheer, "Hurrah! Hurrah! Hurrah! Tiger! S-s-s-t! Boom! A-h-h-h!" remains in use with slight modifications today, where it is now referred to as the "Locomotive".[11]
 
 Princeton class of 1882 graduate Thomas Peebles moved to Minnesota in 1884. He transplanted the idea of organized crowds cheering at football games to the University of Minnesota.[12][13] The term "Cheer Leader" had been used as early as 1897, with Princeton's football officials having named three students as _Cheer Leaders:_ Thomas, Easton, and Guerin from Princeton's classes of 1897, 1898, and 1899, respectively, on October 26, 1897. These students would cheer for the team also at football practices, and special cheering sections were designated in the stands for the games themselves for both the home and visiting teams.[14][15]
 
@@ -23,7 +23,7 @@ It was not until 1898 that University of Minnesota student Johnny Campbell direc
 
 November 2, 1898 is the official birth date of organized cheerleading. Soon after, the University of Minnesota organized a "yell leader" squad of six male students, who still use Campbell's original cheer today.[16] In 1903, the first cheerleading fraternity, Gamma Sigma, was founded.[17]
 
-Early_women_cheerleaders_at_UW_Madison_(2246608893).jpg in 1948]]
+in 1948]]
 
 Female participation
 
@@ -39,13 +39,13 @@ In 1948, Lawrence "Herkie" Herkimer, of Dallas, Texas, a former cheerleader at S
 
 Professional cheerleading
 
-Dallas_Cowboy_Cheerleaders_-_CGN-25.jpeg (1983) performing in the USO show "America and Her Music" on the deck of the nuclear-powered guided missile cruiser ]]
+(1983) performing in the USO show "America and Her Music" on the deck of the nuclear-powered guided missile cruiser ]]
 
 In the 1950s, the formation of professional cheerleading started. The first recorded cheer squad in National Football League (NFL) history was for the Baltimore Colts.[35][36] Professional cheerleaders put a new perspective on American cheerleading. Women were selected for two reasons: visual sex appeal, and the ability to dance. Women were exclusively chosen because men were the targeted marketing group.[37] The Dallas Cowboys Cheerleaders soon gained the spotlight with their revealing outfits and sophisticated dance moves, debuting in the 1972–1973 season, but were first widely seen in Super Bowl X (1976). These pro squads of the 1970s established cheerleaders as "American icons of wholesome sex appeal."[38] By 1981, a total of seventeen Nation Football League teams had their own cheerleaders. The only teams without NFL cheerleaders at this time were New Orleans, New York, Detroit, Cleveland, Denver, Minnesota, Pittsburg, San Francisco, and San Diego. Professional cheerleading eventually spread to soccer and basketball teams as well.[39]
 
 Advancements and traditions of cheerleading
 
-Defense.gov_News_Photo_041203-D-2987S-025.jpg Donald Rumsfeld posing with U.S. Army cheerleaders, 2004.]] The 1980s saw the beginning of modern cheerleading, adding difficult stunt sequences and gymnastics into routines. All-star teams popped up, and with them, the creation of the United States All-Star Federation (USASF). ESPN first broadcast the National High School Cheerleading Competition nationwide in 1983. Cheerleading organizations such as the American Association of Cheerleading Coaches and Advisors (AACCA), founded in 1987, started applying universal safety standards to decrease the number of injuries and prevent dangerous stunts, pyramids, and tumbling passes from being included in the cheerleading routines.[40] In 2003, the National Council for Spirit Safety and Education (NCSSE) was formed to offer safety training for youth, school, all-star, and college coaches. The NCAA requires college cheer coaches to successfully complete a nationally recognized safety-training program. The NCSSE or AACCA certification programs are both recognized by the NCAA.
+Donald Rumsfeld posing with U.S. Army cheerleaders, 2004.]] The 1980s saw the beginning of modern cheerleading, adding difficult stunt sequences and gymnastics into routines. All-star teams popped up, and with them, the creation of the United States All-Star Federation (USASF). ESPN first broadcast the National High School Cheerleading Competition nationwide in 1983. Cheerleading organizations such as the American Association of Cheerleading Coaches and Advisors (AACCA), founded in 1987, started applying universal safety standards to decrease the number of injuries and prevent dangerous stunts, pyramids, and tumbling passes from being included in the cheerleading routines.[40] In 2003, the National Council for Spirit Safety and Education (NCSSE) was formed to offer safety training for youth, school, all-star, and college coaches. The NCAA requires college cheer coaches to successfully complete a nationally recognized safety-training program. The NCSSE or AACCA certification programs are both recognized by the NCAA.
 
 Even with its athletic and competitive development, cheerleading at the school level has retained its ties to its spirit leading traditions. Cheerleaders are quite often seen as ambassadors for their schools, and leaders among the student body. At the college level, cheerleaders are often invited to help at university fundraisers and events.[41]
 
@@ -62,8 +62,6 @@ Cheerleading may seem like a light-hearted activity to some, but injuries that c
 
 Types of teams in the United States today
 
-University_of_Memphis_Coed_Cheerleaders.jpg
-
 School-sponsored
 
 Most American middle schools, high schools, and colleges have organized cheerleading squads. Many colleges offer cheerleading scholarships for students. A cheerleading team may compete locally, regionally, or nationally, as well as cheer for sporting events and encourage audience participation. Cheerleading is quickly becoming a year-round activity, starting with tryouts during the spring semester of the preceding school year. Teams may attend organized summer cheerleading camps and practices to improve skills and create routines for competition.
@@ -74,17 +72,17 @@ The tryout process can sometimes take place over a multiple day period. The chee
 
 Middle school
 
-LaBelle_Middle_School_Cheerleaders_Banner.jpg cheerleaders displayed in the school cafeteria]] Middle school cheerleading evolved shortly after high school squads were created. In middle school, cheerleading squads serve the same purpose, and follow the same rules as high school squads. Squads cheer for basketball teams, football teams, and other sports teams in their school. Squads also perform at pep rallies and compete against other local schools from the area. Cheerleading in middle school sometimes can be a two-season activity: fall and winter. However, many middle school cheer squads will go year-round like high school squads. Middle school cheerleaders use the same cheerleading movements as their older counterparts, yet they perform less extreme stunts. These stunts range from preps, thigh stands, and extensions, to harder one-legged stunts.
+cheerleaders displayed in the school cafeteria]] Middle school cheerleading evolved shortly after high school squads were created. In middle school, cheerleading squads serve the same purpose, and follow the same rules as high school squads. Squads cheer for basketball teams, football teams, and other sports teams in their school. Squads also perform at pep rallies and compete against other local schools from the area. Cheerleading in middle school sometimes can be a two-season activity: fall and winter. However, many middle school cheer squads will go year-round like high school squads. Middle school cheerleaders use the same cheerleading movements as their older counterparts, yet they perform less extreme stunts. These stunts range from preps, thigh stands, and extensions, to harder one-legged stunts.
 
 High school
 
-Mercer_Island_High_School_Cheerleaders.jpg In high school, there are usually two squads per school: varsity and a junior varsity. High school cheerleading contains aspects of school spirit as well as competition. These squads have become part of a year-round cycle. Starting with tryouts in the spring, year-round practice, cheering on teams in the fall and winter, and participating in cheerleading competitions. Most squads practice at least three days a week for about two hours each practice during the summer. Many teams also attend separate tumbling sessions outside of practice. During the school year, cheerleading is usually practiced five- to six-days-a-week. During competition season, it often becomes seven days with practice twice a day sometimes. The school spirit aspect of cheerleading involves cheering, supporting, and "pumping up" the crowd at football games, basketball games, and even at wrestling meets. Along with this, they perform at pep rallies, and bring school spirit to other students. In May 2009, the National Federation of State High School Associations released the results of their first true high school participation study. They estimated that the number of high school cheerleaders from public high schools is around 394,700.[44]
+In high school, there are usually two squads per school: varsity and a junior varsity. High school cheerleading contains aspects of school spirit as well as competition. These squads have become part of a year-round cycle. Starting with tryouts in the spring, year-round practice, cheering on teams in the fall and winter, and participating in cheerleading competitions. Most squads practice at least three days a week for about two hours each practice during the summer. Many teams also attend separate tumbling sessions outside of practice. During the school year, cheerleading is usually practiced five- to six-days-a-week. During competition season, it often becomes seven days with practice twice a day sometimes. The school spirit aspect of cheerleading involves cheering, supporting, and "pumping up" the crowd at football games, basketball games, and even at wrestling meets. Along with this, they perform at pep rallies, and bring school spirit to other students. In May 2009, the National Federation of State High School Associations released the results of their first true high school participation study. They estimated that the number of high school cheerleaders from public high schools is around 394,700.[44]
 
 There are different cheerleading organizations that put on competitions; some of the major ones include state and regional competitions. Many high schools will often host cheerleading competitions, bringing in IHSA judges. The regional competitions are qualifiers for national competitions, such as the UCA (Universal Cheerleaders Association) in Orlando, Florida every year.[45] The competition aspect of cheerleading can be very enduring; styles and rules change every year, making it important and difficult to find the newest and hottest routines.[46] Most teams have a professional choreographer that choreographs their routine in order to ensure they are not breaking rules or regulations. For a list of rules, visit AACCA (American Association of Cheerleading Coaches and Administrators). All high school coaches are required to attend an IHSA rules meeting at the beginning of the season. This ensures their knowledge of changed rules and their compliance with these rules.
 
 College
 
-Flick-Gator_Cheerleaders.jpg perform a high splits pyramid during a Gators college football game]]
+perform a high splits pyramid during a Gators college football game]]
 
 Most American universities have a cheerleading squad to cheer for football, basketball, volleyball, and soccer. Most college squads tend to be large coed although in recent years; all-girl and small coed college squads have increased rapidly.
 
@@ -94,7 +92,7 @@ Not only do college cheerleaders cheer on the other sports at their university, 
 
 Youth league/athletic association
 
-YouthCheerleadingPompons.jpg. Youth cheer—high school ages and younger—make up the vast majority of cheerleaders and cheer teams.]]
+. Youth cheer—high school ages and younger—make up the vast majority of cheerleaders and cheer teams.]]
 
 Organizations that sponsor youth cheer teams usually sponsor either youth league football or basketball teams as well. This allows for the two, under the same sponsor, to be intermingled. Both teams have the same mascot name and the cheerleaders will perform at their football or basketball games. Examples of such sponsors include Pop Warner and Pasco Police Athletic League (PPAL). The YMCA (Young Men's Christian Association) is also a well-known sponsor for youth cheerleading leagues.[47]
 
@@ -103,8 +101,6 @@ All-star
 During the early 1980s, cheerleading squads not associated with a school or sports leagues, whose main objective was competition, began to emerge. The first organization to call themselves all-stars and go to competitions were the Q94 Rockers from Richmond, Virginia, founded in 1982.[48] All-star teams competing prior to 1987 were placed into the same divisions as teams that represented schools and sports leagues. In 1986, the National Cheerleaders Association (NCA) addressed this situation by creating a separate division for teams lacking a sponsoring school or athletic association, calling it the All-Star Division and debuting it at their 1987 competitions. As the popularity of this type of team grew, more and more of them were formed, attending competitions sponsored by many different organizations and companies, each using its own set of rules, regulations, and divisions. This situation became a concern to gym owners because the inconsistencies caused coaches to keep their routines in a constant state of flux, detracting from time that could be better utilized for developing skills and providing personal attention to their athletes. More importantly, because the various companies were constantly vying for a competitive edge, safety standards had become more and more lax. In some cases, unqualified coaches and inexperienced squads were attempting dangerous stunts as a result of these expanded sets of rules.[49]
 
 The USASF was formed in 2003 by the competition companies to act as the national governing body for all star cheerleading and to create a standard set of rules and judging standards to be followed by all competitions sanctioned by the Federation, ultimately leading to the Cheerleading Worlds. The USASF hosted the first Cheerleading Worlds on April 24, 2004.[50] In 2009, the first All-Level Worlds was held. It included teams from all levels, with each winner continuing to the online championships, where teams from across the nation competed to win the Worlds Title. At the same time, cheerleading coaches from all over the country organized themselves for the same rule making purpose, calling themselves the National All Star Cheerleading Coaches Congress (NACCC). In 2005, the NACCC was absorbed by the USASF to become their rule making body.[51] In late 2006, the USASF facilitated the creation of the International All-Star Federation (IASF).
-
-ScaleCheer.jpg
 
 , all-star cheerleading as sanctioned by the USASF involves a squad of 6–36 females and/or males. All-star differs from sideline cheerleading because all-star focuses on performing , while sideline cheers for others sport such as football or basketball. All-star is competitive teams that perform a routine for the purpose of entertainment against other teams, typically in the same divisions, to try to win.[52] The squad prepares year-round for many different competition appearances, but they actually perform only for up to 2½ minutes during their team's routines. The numbers of competitions a team participates in varies from team to team, but generally, most teams tend to participate in eight to twelve competitions a year. These competitions include locals, which are normally taken place in school gymnasiums or local venues, nationals, hosted in big venues all around the U.S. with national champions, and the Cheerleading Worlds, taken place at Disney World in Orlando, Florida. During a competition routine, a squad performs carefully choreographed stunting, tumbling, jumping, and dancing to their own custom music. Teams create their routines to an eight-count system and apply that to the music so that the team members execute the elements with precise timing and synchronization.
 
@@ -118,7 +114,7 @@ If a team places high enough at selected USASF/IASF sanctioned national competit
 
 Professional
 
-Pro_Bowl_2006_cheerleaders.jpg to represent their team.]]
+to represent their team.]]
 
 Professional cheerleaders and dancers cheer for sports such as football, basketball, baseball, wrestling, or hockey. There are only a small handful of professional cheerleading leagues around the world; some professional leagues include the NBA Cheerleading League, the NFL Cheerleading League, the CFL Cheerleading League, the MLS Cheerleading League, the MLB Cheerleading League, and the NHL Ice Dancers. Although professional cheerleading leagues exist in multiple countries, there are no Olympic teams.[55]
 
@@ -127,7 +123,7 @@ In addition to cheering at games and competing, professional cheerleaders also, 
 
 Associations, federations, and organizations
 
-03272012Borreguitas_conadeip15.JPG, called "Borreguitas" at the Monterrey Institute of Technology and Higher Education, Mexico City.]] AMERICHEER:[57] Americheer was founded in 1987 by Elizabeth Rossetti. It is the parent company to Ameridance and Eastern Cheer and Dance Association. In 2005, Americheer became one of the founding members of the NLCC. This means that Americheer events offer bids to The U.S. Finals: The Final Destination. AmeriCheer InterNational Championship competition is held every March at the Walt Disney World Resort in Orlando, Florida.
+, called "Borreguitas" at the Monterrey Institute of Technology and Higher Education, Mexico City.]] AMERICHEER:[57] Americheer was founded in 1987 by Elizabeth Rossetti. It is the parent company to Ameridance and Eastern Cheer and Dance Association. In 2005, Americheer became one of the founding members of the NLCC. This means that Americheer events offer bids to The U.S. Finals: The Final Destination. AmeriCheer InterNational Championship competition is held every March at the Walt Disney World Resort in Orlando, Florida.
 
 INTERNATIONAL CHEER UNION (ICU):[58] Established on April 26, 2004, the ICU is recognized by the SportAccord as the world governing body of cheerleading and the authority on all matters with relation to it. Including participation from its 105-member national federations reaching 3.5 million athletes globally, the ICU continues to serve as the unified voice for those dedicated to cheerleading's positive development around the world.
 
@@ -157,8 +153,6 @@ CHEERLEADING WORLD CHAMPIONSHIPS (CWC):[66] Organised by the IFC. The IFC is a n
 ICU WORLD CHAMPIONSHIPS:[68] The International Cheer Union currently encompasses 105 National Federations from countries across the globe. Every year, the ICU host the World Cheerleading Championship. Unlike the USASF Worlds, this competition uses Level 6/ Collegiate style rules. Countries assemble and send only one team to represent them.
 
 NATIONAL CHEERLEADING CHAMPIONSHIPS (NCC):[69] The NCC is the annual IFC-sanctioned national cheerleading competition in Indonesia organised by the Indonesian Cheerleading Community (ICC).[70] Since NCC 2010, the event is now open to international competition, representing a significant step forward for the ICC. Teams from many countries such as Japan, Thailand, the Philippines, and Singapore participated in the ground breaking event.
-
-FinalDestinationLogo.JPG
 
 NLCC FINAL DESTINATION:[71] Nation's Leading Cheer Companies is a multi brand company, partnered with other companies such as: Americheer/Ameridance, American Cheer & Dance Academy, Eastern Cheer & Dance Association, and Spirit Unlimited. Every year, starting in 2006, the NLCC hosts The US Finals: The Final Destination of Cheerleading and Dance. Every team that attends must qualify and receive a bid at a partner company's competition. In May 2008, the NLCC and The JAM Brands announced a partnership to produce The U.S. Finals - Final Destination. There are nine Final Destination locations across the country. After the regional events, videos of all the teams that competed are sent to a new panel of judges and rescored to rank teams against those against whom they may never have had a chance to compete.
 
@@ -236,7 +230,7 @@ Nintendo has released a pair of video games in Japan for the Nintendo DS, _Osu! 
 
 Cheerleading in Canada
 
-School._West_Hill_High_School_Cheer_Leaders_BAnQ_P48S1P09553.jpg in 1943]] Cheerleading in Canada is rising in popularity among the youth in co-curricular programs. Cheerleading has grown from the sidelines to a competitive activity throughout the world and in particular Canada. Cheerleading has a few streams in Canadian sports culture. It is available at the middle-school, high-school, collegiate, and best known for all-star. There are multiple regional, provincial, and national championship opportunities for all athletes participating in cheerleading. Canada does not have provincial teams, just a national program referred to as CCU or Team Canada. Their first year as a national team was in 2009 when they represented Canada at the International Cheer Union World Cheerleading Championships International Cheer Union (ICU).[106]
+in 1943]] Cheerleading in Canada is rising in popularity among the youth in co-curricular programs. Cheerleading has grown from the sidelines to a competitive activity throughout the world and in particular Canada. Cheerleading has a few streams in Canadian sports culture. It is available at the middle-school, high-school, collegiate, and best known for all-star. There are multiple regional, provincial, and national championship opportunities for all athletes participating in cheerleading. Canada does not have provincial teams, just a national program referred to as CCU or Team Canada. Their first year as a national team was in 2009 when they represented Canada at the International Cheer Union World Cheerleading Championships International Cheer Union (ICU).[106]
 
 Canada as a competition
 

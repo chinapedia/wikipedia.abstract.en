@@ -1,4 +1,4 @@
-Kepler-Bruno.jpg's 1617–1621 _Epitome Astronomiae Copernicanae_, showing the Earth as belonging to just one of any number of similar stars.]] In physical cosmology, the COPERNICAN PRINCIPLE states that humans, on the Earth or in the Solar System, are not privileged observers of the universe.[1]
+'s 1617–1621 _Epitome Astronomiae Copernicanae_, showing the Earth as belonging to just one of any number of similar stars.]] In physical cosmology, the COPERNICAN PRINCIPLE states that humans, on the Earth or in the Solar System, are not privileged observers of the universe.[1]
 
 Named for Copernican heliocentrism, it is a working assumption that arises from a modified cosmological extension of Copernicus's argument of a moving Earth.[2] In some sense, it is equivalent to the mediocrity principle.
 

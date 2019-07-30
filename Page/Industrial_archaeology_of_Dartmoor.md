@@ -1,15 +1,15 @@
-Huntingdon_wheelpit2.jpg The INDUSTRIAL ARCHAEOLOGY OF DARTMOOR covers a number of the industries which have, over the ages, taken place on Dartmoor, and the remaining evidence surrounding them. Currently only three industries are economically significant, yet all three will inevitably leave their own traces on the moor: china clay mining, farming and tourism.
+The INDUSTRIAL ARCHAEOLOGY OF DARTMOOR covers a number of the industries which have, over the ages, taken place on Dartmoor, and the remaining evidence surrounding them. Currently only three industries are economically significant, yet all three will inevitably leave their own traces on the moor: china clay mining, farming and tourism.
 
 A good general guide to the commercial activities on Dartmoor at the end of the 19th century is William Crossing's _The Dartmoor Worker_.
 
 
 Mining
 
-050715_101_uk_dev_betsy.jpg In former times, lead, silver, tin and copper were mined extensively on Dartmoor. The most obvious evidence of mining to the casual visitor to Dartmoor are the remains of the old engine-house at Wheal Betsy which is alongside the A386 road between Tavistock and Okehampton. The word _Wheal_ has a particular meaning in Devon and Cornwall being either a tin or a copper mine, however in the case of Wheal Betsy it was principally lead and silver which were mined.
+In former times, lead, silver, tin and copper were mined extensively on Dartmoor. The most obvious evidence of mining to the casual visitor to Dartmoor are the remains of the old engine-house at Wheal Betsy which is alongside the A386 road between Tavistock and Okehampton. The word _Wheal_ has a particular meaning in Devon and Cornwall being either a tin or a copper mine, however in the case of Wheal Betsy it was principally lead and silver which were mined.
 
 Once widely practised by many miners across the moor, by the early 1900s only a few tinners remained, and mining had almost completely ceased twenty years later. Some of the more significant mines were Eylesbarrow, Knock Mine, Vitifer Mine and Hexworthy Mine. The last active mine in the Dartmoor area was Great Rock Mine, which shut down in 1969.[1]
 
-050715_043_uk_dev_quarry.jpg]]
+]]
 
 
 Quarrying
@@ -23,7 +23,7 @@ The extensive quarries at Foggintor provided granite for the construction of Lon
 
 Gunpowder factory
 
-Powdermills_incorporating_mill01.jpg In 1844 a factory for making gunpowder was built on the open moor, not far from Postbridge. Gunpowder was needed for the tin mines and granite quarries then in operation on the moor. The buildings were widely spaced from one another for safety and the mechanical power for grinding ("incorporating") the powder was derived from waterwheels driven by a leat.
+In 1844 a factory for making gunpowder was built on the open moor, not far from Postbridge. Gunpowder was needed for the tin mines and granite quarries then in operation on the moor. The buildings were widely spaced from one another for safety and the mechanical power for grinding ("incorporating") the powder was derived from waterwheels driven by a leat.
 
 Now known as "Powdermills" or "Powder Mills", there are extensive remains of this factory still visible. Two chimneys still stand and the walls of the two sturdily-built incorporating mills with central waterwheels survive well: they were built with substantial walls but flimsy roofs so that in the event of an explosion, the force of the blast would be directed safely upwards. The ruins of a number of ancillary buildings also survive. A proving mortar—a type of small cannon used to gauge the strength of the gunpowder—used by the factory still lies by the side of the road to the nearby pottery.[5]
 

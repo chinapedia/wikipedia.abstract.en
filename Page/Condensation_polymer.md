@@ -1,4 +1,4 @@
-PET.svg is a common condensation polymer.]]
+is a common condensation polymer.]]
 
 CONDENSATION POLYMERS are any kind of polymers formed through a condensation reaction—where molecules join together—_losing_ small molecules as byproducts such as water or methanol. Condensation polymers are formed by polycondensation, when the polymer is formed by condensation reactions between species of all degrees of polymerization, or by condensative chain polymerization, when the polymer is formed by sequential addition (by condensation reaction) of monomers to an active site in a chain reaction. The main alternative forms of polymerization are chain polymerization and polyaddition, both of which give addition polymers.
 
@@ -14,7 +14,7 @@ One important class of condensation polymers are polyamides.[3] They arise from 
 When prepared from diamines and dicarboxylic acids, e.g. the production of nylon 66, the polymerization produces two molecules of water per repeat unit:
 
     n H₂N-X-NH₂ + n HO₂C-Y-CO₂H → [HN-X-NHC(O)-Y-C(O)]_(n) + 2n H₂O
-    Condensation_polymerization_diacid_diamine.svg
+
 
 
 Polyesters
@@ -23,7 +23,7 @@ One important class of condensation polymers are polyesters.[4] They arise from 
 
     n HO-X-OH + n HO₂C-Y-CO₂H → [O-X-O₂C-Y-C(O)]_(n) + (3n-2) H₂O
 
-Poly-(R)-3-hydroxybutyrat.svg, a naturally-occurring polymer.]]
+, a naturally-occurring polymer.]]
 
 
 Safety and environmental considerations

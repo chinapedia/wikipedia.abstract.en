@@ -1,4 +1,4 @@
-Paris_-_Bibl._Mazarine_-_ms._0924,_f_150v.jpg above this 13th-century illuminated manuscript translates "twelve articles of faith set out by twelve apostles".]]
+above this 13th-century illuminated manuscript translates "twelve articles of faith set out by twelve apostles".]]
 
 The APOSTLES' CREED (Latin: _Symbolum Apostolorum_ or _Symbolum Apostolicum_), sometimes titled the APOSTOLIC CREED or the SYMBOL OF THE APOSTLES, is an early statement of Christian belief—a creed or "symbol". It is widely used by a number of Christian denominations for both liturgical and catechetical purposes, most visibly by liturgical Churches of Western tradition, including the Catholic Church, Lutheranism and Anglicanism. It is also used by Presbyterians, Moravians, Methodists and Congregationalists.
 
@@ -15,7 +15,7 @@ The word _Symbolum_, standing alone, appears around the middle of the third cent
 
 The title _Symbolum Apostolicum_ (Symbol or Creed of the Apostles) appears for the first time in a letter, probably written by Ambrose, from a Council in Milan to Pope Siricius in about AD 390 "Let them give credit to the Creed of the Apostles, which the Roman Church has always kept and preserved undefiled".[4][5] But what existed at that time was not what is now known as the Apostles' Creed but a shorter statement of belief that, for instance, did not include the phrase "maker of heaven and earth", a phrase that may have been inserted only in the 7th century.[6]
 
-Somme_le_Roy_f.10v.png The account of the origin of this creed, the forerunner and principal source of the Apostles' Creed,[7] as having been jointly created by the Apostles under the inspiration of the Holy Spirit, with each of the twelve contributing one of the articles, was already current at that time.[8]
+The account of the origin of this creed, the forerunner and principal source of the Apostles' Creed,[7] as having been jointly created by the Apostles under the inspiration of the Holy Spirit, with each of the twelve contributing one of the articles, was already current at that time.[8]
 
 The earlier text evolved from simpler texts based on ,[9] part of the Great Commission, and it has been argued that this earlier text was already in written form by the late 2nd century (c. 180).[10][11][12]
 
@@ -84,8 +84,6 @@ The Greek text is "not normally used in Greek and Eastern Orthodox churches".[26
 English translations
 
 Ecumenical (interdenominational) versions
-
-First_Four_Articles_of_the_Creed_tapestry.jpg
 
 International Consultation on English Texts (ICET)
 

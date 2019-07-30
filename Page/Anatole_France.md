@@ -10,15 +10,13 @@ The son of a bookseller, France, a bibliophile,[2] spent most of his life around
 
 Literary career
 
-France began his literary career as a poet and a journalist. In 1869, _Le Parnasse Contemporain_ published one of his poems, "". In 1875, he sat on the committee in charge of the third _Parnasse Contemporain_ compilation. As a journalist, from 1867, he wrote many articles and notices. He became known with the novel __ (1881). Its protagonist, skeptical old scholar Sylvester Bonnard, embodied France's own personality. The novel was praised for its elegant prose and won him a prize from the Académie française. Anatole_France_house,_Villa_Said.jpg
+France began his literary career as a poet and a journalist. In 1869, _Le Parnasse Contemporain_ published one of his poems, "". In 1875, he sat on the committee in charge of the third _Parnasse Contemporain_ compilation. As a journalist, from 1867, he wrote many articles and notices. He became known with the novel __ (1881). Its protagonist, skeptical old scholar Sylvester Bonnard, embodied France's own personality. The novel was praised for its elegant prose and won him a prize from the Académie française.
 
 In __ (1893) France ridiculed belief in the occult; and in __ (1893), France captured the atmosphere of the __. He was elected to the Académie française in 1896.
 
 France took a part in the Dreyfus affair. He signed Émile Zola's manifesto supporting Alfred Dreyfus, a Jewish army officer who had been falsely convicted of espionage. France wrote about the affair in his 1901 novel _Monsieur Bergeret_.
 
 France's later works include _L'Île des Pingouins_ (_Penguin Island_, 1908) which satirizes human nature by depicting the transformation of penguins into humans – after the birds have been baptized by mistake by the almost-blind Abbot Mael. It is a satirical history of France, starting in Medieval times, going on to the author's own time with special attention to the Dreyfus affair and concluding with a dystopian future. __ (_The Gods Are Athirst_, 1912) is a novel, set in Paris during the French Revolution, about a true-believing follower of Maximilien Robespierre and his contribution to the bloody events of the Reign of Terror of 1793–94. It is a wake-up call against political and ideological fanaticism and explores various other philosophical approaches to the events of the time. _La Revolte des Anges_ (_Revolt of the Angels_, 1914) is often considered Anatole France's most profound and ironic novel. Loosely based on the Christian understanding of the War in Heaven, it tells the story of Arcade, the guardian angel of Maurice d'Esparvieu. Bored because Bishop d'Esparvieu is sinless, Arcade begins reading the bishop's books on theology and becomes an atheist. He moves to Paris, meets a woman, falls in love, and loses his virginity causing his wings to fall off, joins the revolutionary movement of fallen angels, and meets the Devil, who realizes that if he overthrew God, he would become just like God. Arcade realizes that replacing God with another is meaningless unless "in ourselves and in ourselves alone we attack and destroy Ialdabaoth." "Ialdabaoth", according to France, is God's secret name and means "the child who wanders".
-
-Anatole_France_1921.jpg
 
 He was awarded the Nobel Prize in 1921. He died in 1924 and is buried in the Neuilly-sur-Seine community cemetery near Paris.
 
@@ -43,7 +41,7 @@ Works
 
 Poetry
 
-Anatole_France,_Vanity_Fair,_1909-08-11.jpg for _Vanity Fair_, 1909]] Anatole_France_-_Nos_enfants.pdf (1900)]]
+for _Vanity Fair_, 1909]] (1900)]]
 
 -   "Les Légions de Varus", poem published in 1867 in the _Gazette rimée_.
 -   _Poèmes dorés_ (1873)
@@ -118,7 +116,7 @@ External links
 
 -   -   -   -   -   "Anatole France, Nobel Prize Winner" by Herbert S. Gorman, _The New York Times_, 20 November 1921
 -   Correspondence with architect Jean-Paul Oury at Syracuse University
--   -   Anatole France, his work in audio version Speaker_Icon.svg
+-   -   Anatole France, his work in audio version
 -
 
 Category:1844 births Category:1924 deaths Category:Writers from Paris Category:French bibliophiles Category:Collège Stanislas de Paris alumni Category:French fantasy writers Category:French Nobel laureates Category:19th-century French poets Category:French satirists Category:Members of the Académie française Category:Nobel laureates in Literature Category:People associated with the Dreyfus affair Category:Pseudonymous writers Category:19th-century French novelists Category:20th-century French novelists Category:French socialists Category:French male poets Category:French male novelists Category:19th-century male writers Category:French historical novelists

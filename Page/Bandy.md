@@ -1,4 +1,4 @@
-Damebandy.jpg in Lappeenranta]] Bandy_pictogram.svg
+in Lappeenranta]]
 
 BANDY is a team winter sport played on ice, in which skaters use sticks to direct a ball into the opposing team's goal.[1]
 
@@ -46,7 +46,7 @@ Both bandy and ice hockey were played in Europe during the 20th century, especia
 
 Names of the sport
 
-Stamps_of_Kazakhstan,_2014-043.jpg]] The sport's English name comes from the verb "to bandy", from the Middle French _bander_ ("to strike back and forth"), and originally referred to a 17th-century Irish game similar to field hockey. The curved stick was also called a "bandy".[24] The etymological connection to the similarly named Welsh hockey game of bando is not clear.
+]] The sport's English name comes from the verb "to bandy", from the Middle French _bander_ ("to strike back and forth"), and originally referred to a 17th-century Irish game similar to field hockey. The curved stick was also called a "bandy".[24] The etymological connection to the similarly named Welsh hockey game of bando is not clear.
 
 An old name for bandy is _hockey on the ice_; in the first rule books from England at the turn of the Century 1900, the sport is literally called "bandy or hockey on the ice".[25] Since the mid-20th century the term bandy is usually preferred to prevent confusion with ice hockey.
 
@@ -55,7 +55,7 @@ The sport is known as bandy in many languages though there are a few notable exc
 
 Games
 
-Sollentunavallen_Helenelund-AIK.JPG and AIK at Sollentunavallen in Sweden in 2006]] Bandy is played on ice, using a single round ball. Two teams of 11 players each compete to get the ball into the other team's goal using sticks, thereby scoring a goal.[29]
+and AIK at Sollentunavallen in Sweden in 2006]] Bandy is played on ice, using a single round ball. Two teams of 11 players each compete to get the ball into the other team's goal using sticks, thereby scoring a goal.[29]
 
 The game is designed to be played on a rectangle of ice the same size as a football field. Bandy also has other rules that are similar to football. Each team has 11 players, one of whom is a goalkeeper. The offside rule is also employed.[30] A goal cannot be scored from a goal throw, but unlike football, a goal can be scored from a stroke-in or a corner stroke.[31] All free strokes are "direct" and allow a goal to be scored without another player touching the ball.
 
@@ -72,13 +72,13 @@ Rules
 
 Overview
 
-Hammarby_vs_GAIS_2012-02-11_(14).jpg There are eighteen rules in official play, designed to apply to all levels of bandy, although certain modifications for groups such as juniors, veterans or women are permitted. The rules are often framed in broad terms, which allow flexibility in their application depending on the nature of the game.[36]
+There are eighteen rules in official play, designed to apply to all levels of bandy, although certain modifications for groups such as juniors, veterans or women are permitted. The rules are often framed in broad terms, which allow flexibility in their application depending on the nature of the game.[36]
 
 The Bandy Playing Rules can be found on the official website of the Federation of International Bandy,[37] and are overseen by the Rules and Referee Committee.
 
 Players and officials
 
-3-4-3.jpg Emil_Paulin_Ström_2012b.jpg Each team consists of a maximum of 11 players (excluding substitutes), one of whom must be the goalkeeper. A team of fewer than eight players may not start a game. Goalkeepers are the only players allowed to play the ball with their hands or arms, and they are only allowed to do so within the penalty area in front of their own goal.[38]
+Each team consists of a maximum of 11 players (excluding substitutes), one of whom must be the goalkeeper. A team of fewer than eight players may not start a game. Goalkeepers are the only players allowed to play the ball with their hands or arms, and they are only allowed to do so within the penalty area in front of their own goal.[38]
 
 Though there are a variety of positions in which the outfield (non-goalkeeper) players are strategically placed by a coach, these positions are not defined or required by the rules of the game.[39]
 
@@ -90,7 +90,7 @@ A game is officiated by a referee, the authority and enforcer of the rules, whos
 
 Equipment
 
-Bandybollar.jpg to far right]] The basic equipment players are required to wear includes a pair of Bandy skates, a helmet, a mouth guard and, in the case of the goalkeeper, a face guard.
+to far right]] The basic equipment players are required to wear includes a pair of Bandy skates, a helmet, a mouth guard and, in the case of the goalkeeper, a face guard.
 
 The teams must wear uniforms that make it easy to distinguish the two teams. The goal keeper wears distinct colours to single him out from his or her teammates, just as in football. The skates, sticks and any tape on the stick must be of another colour than the bandy ball, which shall be orange or cerise.[42]
 
@@ -98,11 +98,9 @@ In addition to the aforementioned, various protections are used to protect knees
 
 The bandy stick;
 
-Bandystick.gif The stick used in bandy is an essential part of the sport. It should be made of an approved material such as wood or a similar material and should not contain any metal or sharp parts which can hurt the surrounding players. Sticks are crooked and are available in five angles, where 1 has the smallest bend and 5 has the most. Bend 4 is the most common size in professional bandy. The bandy stick should not have similar colours to the ball, such as orange or pink; it should be no longer than , and no wider than .[43]
+The stick used in bandy is an essential part of the sport. It should be made of an approved material such as wood or a similar material and should not contain any metal or sharp parts which can hurt the surrounding players. Sticks are crooked and are available in five angles, where 1 has the smallest bend and 5 has the most. Bend 4 is the most common size in professional bandy. The bandy stick should not have similar colours to the ball, such as orange or pink; it should be no longer than , and no wider than .[43]
 
 Field
-
-Bandy_pitch_metric.svg Swedish_bandyplayer.JPG
 
 A bandy field is by , a total of , or about the same size as a football pitch and considerably larger than an ice hockey rink. Along the sidelines a high border (vant, sarg, wand, wall) is placed to prevent the ball from leaving the ice. It should not be attached to the ice, to glide upon collisions, and should end away from the corners.
 
@@ -158,7 +156,7 @@ International
 
 International federation
 
-BandyCountries.png members as of May 2017]]
+members as of May 2017]]
 
 The Federation of International Bandy (FIB) has had 33 members at most. Currently, 27 members are a part.[52] Formed in 1955, the name was changed from _International Bandy Federation_ in 2001 after the International Olympic Committee approved it as a so-called "recognized sport"; the abbreviation "IBF" was already used by another recognized sports federation. In 2004, FIB was fully accepted by IOC.
 
@@ -166,7 +164,7 @@ FIB is now a member of Association of IOC Recognised International Sports Federa
 
 World Championships
 
-2012bandy_russia-sweden1.jpg in the World Championships 2012]] BandyCountriesWC2017.png and 2017. Blue means Division A countries, red Division B countries as of the 2017 tournament and green the other FIB members. Latvia, which was relegated from Division A in 2016, made a late cancellation in 2017.]]
+in the World Championships 2012]] and 2017. Blue means Division A countries, red Division B countries as of the 2017 tournament and green the other FIB members. Latvia, which was relegated from Division A in 2016, made a late cancellation in 2017.]]
 
 The Bandy World Championship for men is arranged by the FIB and was first held in 1957. It was held every two years starting in 1961, and every year since 2003. Currently the record number of countries participating in the World Championships is twenty (2019). Since the number of countries playing bandy is not large, every country which can set up a team is welcome to take part in the World Championship. The quality of the teams varies; however, with only six nations, Sweden, the Soviet Union, Russia, Finland, Norway, and Kazakhstan, having won medals (allowing for the fact that Russia's team took over from the Soviet Union in 1993). Finland won the 2004 world championship in Västerås, Sweden, while all other championships have been won by Sweden, the Soviet Union and Russia.
 
@@ -186,13 +184,13 @@ Compared with the seven Winter Olympic sports, bandy's popularity across the glo
 
 Asian Winter Games
 
-Bandy_in_Medeu_Kazakhstan.JPG at Medeu between Kazakhstan and Mongolia]] At the 2011 Asian Winter Games, open to members of the Olympic Council of Asia, men's bandy was included for the first time. Three teams contested the inaugural competition, and Kazakhstan won the gold medal. President Nursultan Nazarbayev attended the final.[59][60]
+at Medeu between Kazakhstan and Mongolia]] At the 2011 Asian Winter Games, open to members of the Olympic Council of Asia, men's bandy was included for the first time. Three teams contested the inaugural competition, and Kazakhstan won the gold medal. President Nursultan Nazarbayev attended the final.[59][60]
 
 There was no bandy competition at the 2017 Asian Winter Games in Japan.
 
 Winter Universiade
 
-Bandy_2019_Universiade.svg programme]] Bandy made its debut at the Winter Universiade during the 2019 Games. Originally a six team tournament for men and a four team tournament for women were planned to be held.[61] However, later China withdrew from the men's tournament and was supposed be replaced by Belarus.[62] Since that did not happen either, participating teams among women were Russia, Sweden, Norway and USA, while among men Russia, Sweden, Norway, Finland and Kazakhstan.
+programme]] Bandy made its debut at the Winter Universiade during the 2019 Games. Originally a six team tournament for men and a four team tournament for women were planned to be held.[61] However, later China withdrew from the men's tournament and was supposed be replaced by Belarus.[62] Since that did not happen either, participating teams among women were Russia, Sweden, Norway and USA, while among men Russia, Sweden, Norway, Finland and Kazakhstan.
 
 There is a chance for participation also in 2023. In fact International University Sports Federation expects it to happen.[63]
 
@@ -216,7 +214,7 @@ The China Bandy Federation was set up in 2014 and China has since then participa
 
 England
 
-Team_England_Bandy_1913.jpg Bury_Fen.JPG The first recorded games of bandy on ice took place in The Fens during the great frost of 1813–1814, although it is probable that the game had been played there in the previous century. Bury Fen Bandy Club[67][68] from Bluntisham-cum-Earith, near St Ives, was the most successful team, remaining unbeaten until the winter of 1890–1891. Charles G Tebbutt of the Bury Fen bandy club was responsible for the first published rules of bandy in 1882, and also for introducing the game into the Netherlands and Sweden, as well as elsewhere in England where it became popular with cricket, rowing and hockey clubs. Tebbutt's home-made bandy stick can be seen in the Norris Museum in St Ives.
+The first recorded games of bandy on ice took place in The Fens during the great frost of 1813–1814, although it is probable that the game had been played there in the previous century. Bury Fen Bandy Club[67][68] from Bluntisham-cum-Earith, near St Ives, was the most successful team, remaining unbeaten until the winter of 1890–1891. Charles G Tebbutt of the Bury Fen bandy club was responsible for the first published rules of bandy in 1882, and also for introducing the game into the Netherlands and Sweden, as well as elsewhere in England where it became popular with cricket, rowing and hockey clubs. Tebbutt's home-made bandy stick can be seen in the Norris Museum in St Ives.
 
 The first Ice Hockey Varsity Matches between Oxford University and Cambridge University were played to bandy rules, even if it was called hockey on ice at the time.
 
@@ -230,7 +228,7 @@ Bandy was played in Estonia in the 1910s to 1930s and the country had a national
 
 Finland
 
-Hänninhauta_2014.JPG Bandy was introduced to Finland from Russia in the 1890s. Finland has been playing bandy friendlies against Sweden and Estonia since its independence in 1917.
+Bandy was introduced to Finland from Russia in the 1890s. Finland has been playing bandy friendlies against Sweden and Estonia since its independence in 1917.
 
 The first Finnish national championships were held in 1908 and was the first national Finnish championship held in any team sport. National champions have been named every year except for three years in the first half of the 20th Century when Finland was at war. The top national league is called Bandyliiga and is semi-professional. The best players often go fully professional by being recruited by clubs in Sweden or Russia.[72]
 
@@ -238,11 +236,11 @@ Finland was an original member of the Federation of International Bandy and is t
 
 Germany
 
-Eishockey_Leipzig_1909.jpg Bandy was played in Germany in the early 20th century, including by Crown Prince Wilhelm,[73] but the interest died out in favour of ice hockey. Leipziger Sportclub had the best team and was also last to give bandy up. The sport was reintroduced in the 2010s, with the German Bandy Association being founded in 2013. A national rink bandy championship has been played every year since the winter of 2014/15.[74]
+Bandy was played in Germany in the early 20th century, including by Crown Prince Wilhelm,[73] but the interest died out in favour of ice hockey. Leipziger Sportclub had the best team and was also last to give bandy up. The sport was reintroduced in the 2010s, with the German Bandy Association being founded in 2013. A national rink bandy championship has been played every year since the winter of 2014/15.[74]
 
 Kazakhstan
 
-Rauan Isaliyev, captain of the Kazakhstan national bandy team|thumb Bandy has a long history in many parts of the country and it used to be one of the most popular sports in Soviet times. However, after independence it suffered a rapid decline in popularity and only remained in Oral (often called by the Russian name, Uralsk), where the country's only professional club Akzhaiyk is located. They are competing in the Russian second tier division, the Supreme League. Recently bandy has started to gain popularity again outside of Oral, most notably in Petropavl[75] and Khromtau. Those were for example the three Kazakh cities which at the Youth-17 World Championship 2016 had players in the team.[76] The capital Nur-Sultan has hosted national youth championships in rink bandy.[77] as well as championships in traditional eleven-a-side bandy.[78] The former capital Almaty has in recent years hosted both the Asian Winter Games (with bandy on the program) as well as the Bandy World Championship in which Kazakhstan finished 3rd. Plans are made to reinvigorate the bandy section of the club Dynamo Almaty, who won the Soviet Championships in 1977 and 1990 as well as the European Cup in 1978. The Asian Bandy Federation also has its headquarters in Almaty. Since a few years the state is supporting bandy. Medeu in Almaty is the only arena with artificial ice. A second arena in Almaty was built for the World Championship 2012, but it was taken down afterwards. Stadion Yunost in Oral[79] was supposed to get artificial ice for the 2017-18 season.[80] It got delayed but in 2018 it was officially ready for use.[81]
+Bandy has a long history in many parts of the country and it used to be one of the most popular sports in Soviet times. However, after independence it suffered a rapid decline in popularity and only remained in Oral (often called by the Russian name, Uralsk), where the country's only professional club Akzhaiyk is located. They are competing in the Russian second tier division, the Supreme League. Recently bandy has started to gain popularity again outside of Oral, most notably in Petropavl[75] and Khromtau. Those were for example the three Kazakh cities which at the Youth-17 World Championship 2016 had players in the team.[76] The capital Nur-Sultan has hosted national youth championships in rink bandy.[77] as well as championships in traditional eleven-a-side bandy.[78] The former capital Almaty has in recent years hosted both the Asian Winter Games (with bandy on the program) as well as the Bandy World Championship in which Kazakhstan finished 3rd. Plans are made to reinvigorate the bandy section of the club Dynamo Almaty, who won the Soviet Championships in 1977 and 1990 as well as the European Cup in 1978. The Asian Bandy Federation also has its headquarters in Almaty. Since a few years the state is supporting bandy. Medeu in Almaty is the only arena with artificial ice. A second arena in Almaty was built for the World Championship 2012, but it was taken down afterwards. Stadion Yunost in Oral[79] was supposed to get artificial ice for the 2017-18 season.[80] It got delayed but in 2018 it was officially ready for use.[81]
 
 Mongolia
 
@@ -250,11 +248,11 @@ The national team took a silver medal at the 2011 Asian Winter Games, which led 
 
 Netherlands
 
-Pim_Mulier.jpg introduced bandy to the Netherlands.]] Bandy was introduced to the Netherlands in the 1890s by Pim Mulier and the sport became popular. However, in the 1920s, the interest turned to ice hockey, but in contrast to other countries in central and western Europe, the sport has been continuously played in the Netherlands and since the 1970s, the country has become a member of FIB and games have been more formalised again.[85] The national team started to compete at the WCS in 1991. However, without a proper venue, only rink bandy is played within the country. The national governing body is the Bandy Bond Nederland.[86]
+introduced bandy to the Netherlands.]] Bandy was introduced to the Netherlands in the 1890s by Pim Mulier and the sport became popular. However, in the 1920s, the interest turned to ice hockey, but in contrast to other countries in central and western Europe, the sport has been continuously played in the Netherlands and since the 1970s, the country has become a member of FIB and games have been more formalised again.[85] The national team started to compete at the WCS in 1991. However, without a proper venue, only rink bandy is played within the country. The national governing body is the Bandy Bond Nederland.[86]
 
 Norway
 
-Bandy_Frigg_Mjøndalen_Bislett_OB.Ø47_0181.jpg beating Frigg Oslo 3–1 in the national bandy final of 1947]] Norges_damelandslag_i_bandy_2006.jpg celebrating the bronze medal in WCS 2006]] Bandy was introduced to Norway in the 1910s. The Swedes contributed largely, and clubs sprang up around the capital of Oslo. Oslo, including neighbouring towns, is still today the region where bandy enjoys most popularity in Norway.
+beating Frigg Oslo 3–1 in the national bandy final of 1947]] celebrating the bronze medal in WCS 2006]] Bandy was introduced to Norway in the 1910s. The Swedes contributed largely, and clubs sprang up around the capital of Oslo. Oslo, including neighbouring towns, is still today the region where bandy enjoys most popularity in Norway.
 
 In 1912 the Norwegians played their first National Championship, which was played annually up to 1940. During WWII, illegal bandy was played in hidden places in forests, on ponds and lakes. In 1943, −44 and −45, illegal championships were held. In 1946 legal play resumed and still goes on. After WWII the number of teams rose, as well as attendance which regularly were in the thousands, but mild winters in the 1970s and 80s shrunk the league, and in 2003 only five clubs (teams) fought out the 1st division with low attendance numbers and little media coverage.
 
@@ -262,7 +260,7 @@ In recent years, the number of artificially frozen pitches have increased in Nor
 
 Russia
 
-Stadium_Trud_Arkhangelsk.jpg in Arkhangelsk]] In Russia bandy is known as hockey with a ball or simply Russian hockey. A similar game became popular among the Russian nobility in the early 1700s, with the imperial court of Peter the Great playing a predecessor of modern bandy on Saint Petersburg's frozen Neva river. Russians played this game using ordinary footwear, with sticks made out of juniper wood, only later were skates introduced. It was only in the second half of the 19th century that bandy became popular among the masses throughout the Russian Empire. Traditionally the Russians used a longer skate blade than other nations, giving them the advantage of skating faster. However, they would find it more difficult to turn quickly. A bandy skate has a longer blade than a hockey skate, and the "Russian skate" is even longer.
+in Arkhangelsk]] In Russia bandy is known as hockey with a ball or simply Russian hockey. A similar game became popular among the Russian nobility in the early 1700s, with the imperial court of Peter the Great playing a predecessor of modern bandy on Saint Petersburg's frozen Neva river. Russians played this game using ordinary footwear, with sticks made out of juniper wood, only later were skates introduced. It was only in the second half of the 19th century that bandy became popular among the masses throughout the Russian Empire. Traditionally the Russians used a longer skate blade than other nations, giving them the advantage of skating faster. However, they would find it more difficult to turn quickly. A bandy skate has a longer blade than a hockey skate, and the "Russian skate" is even longer.
 
 When the Federation of International Bandy was formed in 1955, with the Soviet Union as one of its founding members, the Russians largely adopted the international rules of the game developed in England in the 19th century, with one notable exception. The other countries adopted the border.
 
@@ -274,7 +272,7 @@ After the victory in the 2016 World Championship, the fourth in a row, President
 
 Sweden
 
-Clarence_von_rosen.jpg introduced bandy to Sweden]] Bandyfinal2010_hammarby_celebration.jpg in Uppsala, Sweden]] Bandy was introduced to Sweden in 1895. The Swedish royal family, noblemen and diplomats were the first players. Swedish championships for men have been played annually since 1907. In the 1920s students played the game and it became a largely middle class sport. After Slottsbrons IF won the Swedish championship in 1934 it became popular amongst workers in the smaller industrial towns and villages. Bandy remains the main sport in many of these places.
+introduced bandy to Sweden]] in Uppsala, Sweden]] Bandy was introduced to Sweden in 1895. The Swedish royal family, noblemen and diplomats were the first players. Swedish championships for men have been played annually since 1907. In the 1920s students played the game and it became a largely middle class sport. After Slottsbrons IF won the Swedish championship in 1934 it became popular amongst workers in the smaller industrial towns and villages. Bandy remains the main sport in many of these places.
 
 Bandy in Sweden is famous for its "culture" – both playing bandy and being a spectator requires great fortitude and dedication. A "" is the classic accessory for spectating – it is typically made of brown leather, well worn and contains a warm drink in a thermos and/or a bottle of liquor.[92] Bandy is most often played at outdoor arenas during winter time, so the need for spectators to carry flasks or thermoses of 'warming' liquid like glögg is a natural effect.
 

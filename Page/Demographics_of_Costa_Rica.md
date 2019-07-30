@@ -10,8 +10,6 @@ The indigenous population today numbers about 60,000 (just over 1% of the popula
 
 Costa Rica's emigration is the smallest in the Caribbean Basin and is among the smallest in the Americas. By 2015 about just 133,185 (2.77%) of the country's people live in another country as immigrants. The main destination countries are the United States (85,924), Nicaragua (10,772), Panama (7,760), Canada (5,039), Spain (3,339), Mexico (2,464), Germany (1,891), Italy (1,508), Guatemala (1,162) and Venezuela (1,127).[7]
 
-Costa_Rica_demography.png
-
 
 Population and ancestry
 
@@ -25,7 +23,7 @@ In 2011, there were over 104,000 Native American or indigenous inhabitants, repr
 
 The population includes European Costa Ricans (of European ancestry), primarily of Spanish descent,[12] with significant numbers of Italian, German, English, Dutch, French, Irish, Portuguese, and Polish families, as well a sizable Jewish community. The majority of the Afro-Costa Ricans are Creole English-speaking descendants of 19th century black Jamaican immigrant workers.
 
-Niños_costarricenses.JPG The 2011 census classified 83.6% of the population as white or Mestizo; the latter are persons of combined European and Amerindian descent. The Mulatto segment (mix of white and black) represented 6.7% and indigenous people made up 2.4% of the population.[13] Native and European mixed blood populations are far less than in other Latin American countries. Exceptions are Guanacaste, where almost half the population is visibly mestizo, a legacy of the more pervasive unions between Spanish colonists and Chorotega Amerindians through several generations, and Limón, where the vast majority of the Afro-Costa Rican community lives.
+The 2011 census classified 83.6% of the population as white or Mestizo; the latter are persons of combined European and Amerindian descent. The Mulatto segment (mix of white and black) represented 6.7% and indigenous people made up 2.4% of the population.[13] Native and European mixed blood populations are far less than in other Latin American countries. Exceptions are Guanacaste, where almost half the population is visibly mestizo, a legacy of the more pervasive unions between Spanish colonists and Chorotega Amerindians through several generations, and Limón, where the vast majority of the Afro-Costa Rican community lives.
 
   Province                           Province population   City           City population
   ---------------------------------- --------------------- -------------- -----------------
@@ -252,7 +250,7 @@ Article 75 of the Costa Rican Constitution states that the "Catholic, Apostolic,
 
 Demographic statistics
 
-Basilica_los_Angeles,_Spring_2006.jpg, Costa Rica.]] Demographic statistics according to the World Population Review in 2019.[55]
+, Costa Rica.]] Demographic statistics according to the World Population Review in 2019.[55]
 
 -   One birth every 8 minutes
 -   One death every 21 minutes
@@ -277,8 +275,6 @@ Ethnic groups
 -   Unspecified 2.2% (2011 est.)
 
 Age structure
-
-Costa_Ricapop.svg
 
     _0-14 years:_ 22.43% (male 572,172 /female 546,464)
     _15-24 years:_ 15.94% (male 405,515 /female 389,433)

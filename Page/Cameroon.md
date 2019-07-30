@@ -15,7 +15,7 @@ Portuguese sailors reached the coast in 1472. They noted an abundance of the gho
 
 1800s
 
-Shumom-text.jpg is a writing system developed by King Njoya in the late 19th century]]
+is a writing system developed by King Njoya in the late 19th century]]
 
 In the early 19th century, Modibo Adama led Fulani soldiers on a jihad in the north against non-Muslim and partially Muslim peoples and established the Adamawa Emirate. Settled peoples who fled the Fulani caused a major redistribution of population.
 
@@ -31,13 +31,13 @@ France outlawed the pro-independence political party, the Union des Populations 
 
 Independence (1960)
 
-Ahmadou_Ahidjo.jpg ruled from 1960 until 1982.]]
+ruled from 1960 until 1982.]]
 
 On 1 January 1960, French Cameroun gained independence from France under President Ahmadou Ahidjo. On 1 October 1961, the formerly British Southern Cameroons gained independence voted by vote of the UN General Assembly and joined with French Cameroun to form the Federal Republic of Cameroon. Ahidjo used the ongoing war with the UPC to concentrate power in the presidency, continuing with this even after the suppression of the UPC in 1971.[22]
 
 His political party, the Cameroon National Union (CNU), became the sole legal political party on 1 September 1966 and on 20 May 1972, a referendum was passed to abolish the federal system of government in favour of a United Republic of Cameroon, headed from Yaoundé.[23] This day is now the country's National Day, a public holiday.[24] Ahidjo pursued an economic policy of planned liberalism, prioritising cash crops and petroleum development. The government used oil money to create a national cash reserve, pay farmers, and finance major development projects; however, many initiatives failed when Ahidjo appointed unqualified allies to direct them.[25]
 
-Paul_Biya_2014.png has ruled the country since 1982]]
+has ruled the country since 1982]]
 
 Ahidjo stepped down on 4 November 1982 and left power to his constitutional successor, Paul Biya. However, Ahidjo remained in control of the CNU and tried to run the country from behind the scenes until Biya and his allies pressured him into resigning. Biya began his administration by moving toward a more democratic government, but a failed coup d'état nudged him toward the leadership style of his predecessor.[26]
 
@@ -56,8 +56,6 @@ Since November 2016, protesters from the predominantly English-speaking Northwes
 
 Politics and government
 
-YaoundeUnityPalace.png
-
 The President of Cameroon is elected and creates policy, administers government agencies, commands the armed forces, negotiates and ratifies treaties, and declares a state of emergency.[40] The president appoints government officials at all levels, from the prime minister (considered the official head of government), to the provincial governors and divisional officers.[41] The president is selected by popular vote every seven years.[42] There have been 2 presidents since the independence of Cameroon.
 
 The National Assembly makes legislation. The body consists of 180 members who are elected for five-year terms and meet three times per year.[43] Laws are passed on a majority vote. Rarely has the assembly changed or blocked legislation proposed by the president.[44]
@@ -70,7 +68,7 @@ Political culture
 
 Cameroon is viewed as rife with corruption at all levels of government. In 1997, Cameroon established anti-corruption bureaus in 29 ministries, but only 25% became operational,[53] and in 2012, Transparency International placed Cameroon at number 144 on a list of 176 countries ranked from least to most corrupt.[54] On 18 January 2006, Biya initiated an anti-corruption drive under the direction of the National Anti-Corruption Observatory.[55] There are several high corruption risk areas in Cameroon, for instance, customs, public health sector and public procurement.[56] Unfortunately, the corruption has gotten worse, regardless of the existing anti-corruption bureaus, as Transparency International ranked Cameroon 153 on a list of 180 countries in 2017.[57]
 
-Statue_d'un_chef_coutumier_à_Bana.jpg, West Region.]]
+, West Region.]]
 
 President Biya's Cameroon People's Democratic Movement (CPDM) was the only legal political party until December 1990. Numerous regional political groups have since formed. The primary opposition is the Social Democratic Front (SDF), based largely in the Anglophone region of the country and headed by John Fru Ndi.[58]
 
@@ -88,7 +86,7 @@ Same-sex sexual acts are banned by section 347-1 of the penal code with a penalt
 
 Foreign relations
 
-Paul_Biya_with_Obamas_2014.jpg with U.S. President Barack Obama in 2014]]
+with U.S. President Barack Obama in 2014]]
 
 Cameroon is a member of both the Commonwealth of Nations and La Francophonie.
 
@@ -100,8 +98,6 @@ In July 2019, UN ambassadors of 37 countries, including Cameroon, have signed a 
 
 Administrative divisions
 
-Provinces_of_Cameroon_EN.svg
-
 The constitution divides Cameroon into 10 semi-autonomous regions, each under the administration of an elected Regional Council. Each region is headed by a presidentially appointed governor.[86]
 
 These leaders are charged with implementing the will of the president, reporting on the general mood and conditions of the regions, administering the civil service, keeping the peace, and overseeing the heads of the smaller administrative units. Governors have broad powers: they may order propaganda in their area and call in the army, gendarmes, and police.[87] All local government officials are employees of the central government's Ministry of Territorial Administration, from which local governments also get most of their budgets.[88]
@@ -112,8 +108,6 @@ The three northernmost regions are the Far North (), North (), and Adamawa (). D
 
 
 Education and health
-
-Cameroonian_school_children_gather_around_U.S._Army_Master_Sgt._John_Reid,_center,_for_a_group_photo_near_Douala,_Cameroon,_March_19,_2014,_during_Central_Accord_14_140319-A-PP104-039.jpg
 
 In 2013, the total adult literacy rate of Cameroon was estimated to be 71.3%. Among youths age 15–24 the literacy rate was 85.4% for males and 76.4% for females.[91] Most children have access to state-run schools that are cheaper than private and religious facilities.[92] The educational system is a mixture of British and French precedents[93] with most instruction in English or French.[94]
 
@@ -130,21 +124,19 @@ Breast ironing, a traditional practice that is prevalent in Cameroon, may affect
 
 Geography
 
-Koppen-Geiger_Map_CMR_present.svg
-
-Rhumsiki_Peak.jpg dot the landscape near Rhumsiki, Far North Region.]]
+dot the landscape near Rhumsiki, Far North Region.]]
 
 At , Cameroon is the world's 53rd-largest country.[119] It is slightly larger than the nation of Sweden and the state of California; Cameroon is comparable in size to Papua New Guinea. The country is located in Central and West Africa, known as the hinge of Africa, on the Bight of Bonny, part of the Gulf of Guinea and the Atlantic Ocean.[120] Cameroon lies between latitudes 1° and 13°N, and longitudes 8° and 17°E. Cameroon controls 12 nautical miles of the Atlantic Ocean.
 
 Tourist literature describes Cameroon as "Africa in miniature" because it exhibits all major climates and vegetation of the continent: coast, desert, mountains, rainforest, and savanna.[121] The country's neighbours are Nigeria and the Atlantic Ocean to the west; Chad to the northeast; the Central African Republic to the east; and Equatorial Guinea, Gabon and the Republic of the Congo to the south.[122]
 
-Elephants_around_tree_in_Waza,_Cameroon.jpg.]]
+.]]
 
 Cameroon is divided into five major geographic zones distinguished by dominant physical, climatic, and vegetative features. The coastal plain extends inland from the Gulf of Guinea[123] and has an average elevation of .[124] Exceedingly hot and humid with a short dry season, this belt is densely forested and includes some of the wettest places on earth, part of the Cross-Sanaga-Bioko coastal forests.[125][126]
 
 The South Cameroon Plateau rises from the coastal plain to an average elevation of .[127] Equatorial rainforest dominates this region, although its alternation between wet and dry seasons makes it is less humid than the coast. This area is part of the Atlantic Equatorial coastal forests ecoregion.[128]
 
-Hills_near_Ngaoundal.jpg in Cameroon's Adamawa Region.]]
+in Cameroon's Adamawa Region.]]
 
 An irregular chain of mountains, hills, and plateaus known as the Cameroon range extends from Mount Cameroon on the coast—Cameroon's highest point at [129]—almost to Lake Chad at Cameroon's northern border at 13°05'N. This region has a mild climate, particularly on the Western High Plateau, although rainfall is high. Its soils are among Cameroon's most fertile, especially around volcanic Mount Cameroon.[130] Volcanism here has created crater lakes. On 21 August 1986, one of these, Lake Nyos, belched carbon dioxide and killed between 1,700 and 2,000 people.[131] This area has been delineated by the World Wildlife Fund as the Cameroonian Highlands forests ecoregion.[132]
 
@@ -155,11 +147,11 @@ Cameroon has four patterns of drainage. In the south, the principal rivers are t
 
 Economy and infrastructure
 
-Douala.JPG]]
+]]
 
-Limbe1.png]]
+]]
 
-YaoundeSportPalace.png Sport palace]]
+Sport palace]]
 
 Cameroon's per-capita GDP (Purchasing power parity) was estimated as US$2,300 in 2008,[139] one of the ten highest in sub-Saharan Africa.[140] Major export markets include France, Italy, South Korea, Spain, and the United Kingdom.[141] Cameroon is aiming to become an emerging country by 2035.
 
@@ -169,7 +161,7 @@ Unemployment was estimated at 4.4% in 2014,[146] and about a third of the popula
 
 Cameroon's natural resources are very well suited to agriculture and arboriculture. An estimated 70% of the population farms, and agriculture comprised an estimated 19.8% of GDP in 2009.[150] Most agriculture is done at the subsistence scale by local farmers using simple tools. They sell their surplus produce, and some maintain separate fields for commercial use. Urban centres are particularly reliant on peasant agriculture for their foodstuffs. Soils and climate on the coast encourage extensive commercial cultivation of bananas, cocoa, oil palms, rubber, and tea. Inland on the South Cameroon Plateau, cash crops include coffee, sugar, and tobacco. Coffee is a major cash crop in the western highlands, and in the north, natural conditions favour crops such as cotton, groundnuts, and rice. Reliance on agricultural exports makes Cameroon vulnerable to shifts in their prices.[151]
 
-Fulani_herd_in_the_dust.jpg herder drives his cattle in northern Cameroon.]]
+herder drives his cattle in northern Cameroon.]]
 
 Livestock are raised throughout the country.[152] Fishing employs 5,000 people and provides over 100,000 tons of seafood each year.[153][154] Bushmeat, long a staple food for rural Cameroonians, is today a delicacy in the country's urban centres. The commercial bushmeat trade has now surpassed deforestation as the main threat to wildlife in Cameroon.[155][156]
 
@@ -210,7 +202,7 @@ Cameroon's population is almost evenly divided between urban and rural dwellers.
 
 According to the World Health Organization, the fertility rate was 4.8 in 2013 with a population growth rate of 2.56%.[184]
 
-People from the overpopulated western highlands and the underdeveloped north are moving to the coastal plantation zone and urban centres for employment.[185] Smaller movements are occurring as workers seek employment in lumber mills and plantations in the south and east.[186] Although the national sex ratio is relatively even, these out-migrants are primarily males, which leads to unbalanced ratios in some regions.[187] Maison_obus.jpg, in the Far North Region, are made of earth and grass.]]
+People from the overpopulated western highlands and the underdeveloped north are moving to the coastal plantation zone and urban centres for employment.[185] Smaller movements are occurring as workers seek employment in lumber mills and plantations in the south and east.[186] Although the national sex ratio is relatively even, these out-migrants are primarily males, which leads to unbalanced ratios in some regions.[187] , in the Far North Region, are made of earth and grass.]]
 
 Both monogamous and polygamous marriage are practised, and the average Cameroonian family is large and extended.[188] In the north, women tend to the home, and men herd cattle or work as farmers. In the south, women grow the family's food, and men provide meat and grow cash crops. Cameroonian society is male-dominated, and violence and discrimination against women is common.[189][190][191]
 
@@ -253,8 +245,6 @@ Media
 
 Music and dance
 
-Baka_dancers_June_2006.jpg
-
 Music and dance are an integral part of Cameroonian ceremonies, festivals, social gatherings, and storytelling.[223][224] Traditional dances are highly choreographed and separate men and women or forbid participation by one sex altogether.[225] The goals of dances range from pure entertainment to religious devotion.[226] Traditionally, music is transmitted orally. In a typical performance, a chorus of singers echoes a soloist.[227]
 
 Musical accompaniment may be as simple as clapping hands and stomping feet,[228] but traditional instruments include bells worn by dancers, clappers, drums and talking drums, flutes, horns, rattles, scrapers, stringed instruments, whistles, and xylophones; the exact combination varies with ethnic group and region. Some performers sing complete songs by themselves, accompanied by a harplike instrument.[229][230]
@@ -265,7 +255,7 @@ The two most popular styles of music are makossa and bikutsi. Makossa developed 
 
 Cuisine
 
-Woman_weaving_baskets_near_Lake_Ossa.jpg, Littoral Region. Cameroonians practise such handicrafts throughout the country.]]
+, Littoral Region. Cameroonians practise such handicrafts throughout the country.]]
 
 Cuisine varies by region, but a large, one-course, evening meal is common throughout the country. A typical dish is based on cocoyams, maize, cassava (manioc), millet, plantains, potatoes, rice, or yams, often pounded into dough-like fufu. This is served with a sauce, soup, or stew made from greens, groundnuts, palm oil, or other ingredients.[235] Meat and fish are popular but expensive additions, with chicken often reserved for special occasions.[236] Dishes are often quite hot, spiced with salt, red pepper sauce, and Maggi.[237][238][239]
 
@@ -287,7 +277,7 @@ Shortly after independence, filmmakers such as Jean-Paul Ngassa and Thérèse Si
 
 Sports
 
-Cameroon_vs_Germany_2003.jpg faces Germany at Zentralstadion in Leipzig, 17 November 2004.]]
+faces Germany at Zentralstadion in Leipzig, 17 November 2004.]]
 
 National policy strongly advocates sport in all forms. Traditional sports include canoe racing and wrestling, and several hundred runners participate in the Mount Cameroon Race of Hope each year.[254] Cameroon is one of the few tropical countries to have competed in the Winter Olympics.
 

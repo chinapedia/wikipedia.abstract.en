@@ -37,7 +37,7 @@ The 100th Air Assault Brigade of the Russian Airborne Troops was based in the ci
 
 Sites
 
-Abakan-02.JPG in Abakan]] Cathedral_in_Abakan.jpg
+in Abakan]]
 
 Abakan's sites of interest include:
 

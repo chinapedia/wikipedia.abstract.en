@@ -14,7 +14,7 @@ As head of state, Queen Elizabeth II is represented in Antigua and Barbuda by a 
 
 Legislative branch
 
-Parliament_of_Antigua_and_Barbuda.JPG Antigua and Barbuda elects on national level a legislature. Parliament has two chambers. The House of Representatives has 19 members, 17 members elected for a five-year term in single-seat constituencies, 2 ex-officio member (President and Speaker). The Senate has 17 appointed members. The prime minister is the leader of the majority party in the House and conducts affairs of state with the cabinet. The prime minister and the cabinet are responsible to the Parliament. Elections must be held at least every five years but may be called by the prime minister at any time.
+Antigua and Barbuda elects on national level a legislature. Parliament has two chambers. The House of Representatives has 19 members, 17 members elected for a five-year term in single-seat constituencies, 2 ex-officio member (President and Speaker). The Senate has 17 appointed members. The prime minister is the leader of the majority party in the House and conducts affairs of state with the cabinet. The prime minister and the cabinet are responsible to the Parliament. Elections must be held at least every five years but may be called by the prime minister at any time.
 
 There are special legislative provisions to account for Barbuda's low population relative to that of Antigua. Barbuda is guaranteed one member of the House of Representatives and two members of the Senate. In addition, there is a Barbuda Council to govern the internal affairs of the island.
 

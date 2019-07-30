@@ -3,11 +3,11 @@ BAMBERG (,[1] also ,[2][3] ) is a town in Upper Franconia, Germany, on the river
 
 History
 
-Dankaerts-Historis-9331.tif in Danckerts, _Historis_, 1632.]] During the post-Roman centuries of Germanic migration and settlement, the region afterwards included in the Diocese of Bamberg was inhabited for the most part by Slavs. The town, first mentioned in 902, grew up by the castle __ which gave its name to the Babenberg family. On their extinction it passed to the Saxon house.[4] The area was Christianized chiefly by the monks of the Benedictine Fulda Abbey, and the land was under the spiritual authority of the Diocese of Würzburg.
+in Danckerts, _Historis_, 1632.]] During the post-Roman centuries of Germanic migration and settlement, the region afterwards included in the Diocese of Bamberg was inhabited for the most part by Slavs. The town, first mentioned in 902, grew up by the castle __ which gave its name to the Babenberg family. On their extinction it passed to the Saxon house.[4] The area was Christianized chiefly by the monks of the Benedictine Fulda Abbey, and the land was under the spiritual authority of the Diocese of Würzburg.
 
 In 1007, Holy Roman Emperor Henry II made Bamberg a family inheritance, the seat of a separate diocese. The Emperor's purpose in this was to make the Diocese of Würzburg less unwieldy in size and to give Christianity a firmer footing in the districts of Franconia, east of Bamberg. In 1008, after long negotiations with the Bishops of Würzburg and Eichstätt, who were to cede portions of their dioceses, the boundaries of the new diocese were defined, and Pope John XVIII granted the papal confirmation in the same year. Henry II ordered the building of a new cathedral, which was consecrated 6 May 1012. The church was enriched with gifts from the pope, and Henry had it dedicated in honor of him. In 1017 Henry also founded Michaelsberg Abbey on the Michaelsberg ("Mount St. Michael"), near Bamberg, a Benedictine abbey for the training of the clergy. The emperor and his wife Kunigunde gave large temporal possessions to the new diocese, and it received many privileges out of which grew the secular power of the bishop. Pope Benedict VIII visited Bamberg in 1020[5] to meet Henry II for discussions concerning the Holy Roman Empire. While he was here he placed the diocese in direct dependence on the Holy See. He also personally consecrated some of Bamberg's churches. For a short time Bamberg was the centre of the Holy Roman Empire. Henry and Kunigunde were both buried in the cathedral.
 
-Nuremberg_chronicles_-_BAMBERGA.png'', 1493]] Bamberger_Dom_BW_6.JPG]] Bamberg-Schlenkerla1-Asio.JPG, one of Bamberg's breweries and taverns.]] Bamberg-AlteHofhaltung2-Asio.JPG From the middle of the 13th century onward the bishops were princes of the Empire[6] and ruled Bamberg, overseeing the construction of monumental buildings. In 1248 and 1260 the see obtained large portions of the estates of the Counts of Meran, partly through purchase and partly through the appropriation of extinguished fiefs. The old Bishopric of Bamberg was composed of an unbroken territory extending from Schlüsselfeld in a northeasterly direction to the Franconian Forest, and possessed in addition estates in the Duchies of Carinthia and Salzburg, in the Nordgau (the present Upper Palatinate), in Thuringia, and on the Danube. By the changes resulting from the Reformation, the territory of this see was reduced nearly one half in extent. Since 1279 the coat of arms of the city of Bamberg is known in form of a seal.
+'', 1493]] ]] , one of Bamberg's breweries and taverns.]] From the middle of the 13th century onward the bishops were princes of the Empire[6] and ruled Bamberg, overseeing the construction of monumental buildings. In 1248 and 1260 the see obtained large portions of the estates of the Counts of Meran, partly through purchase and partly through the appropriation of extinguished fiefs. The old Bishopric of Bamberg was composed of an unbroken territory extending from Schlüsselfeld in a northeasterly direction to the Franconian Forest, and possessed in addition estates in the Duchies of Carinthia and Salzburg, in the Nordgau (the present Upper Palatinate), in Thuringia, and on the Danube. By the changes resulting from the Reformation, the territory of this see was reduced nearly one half in extent. Since 1279 the coat of arms of the city of Bamberg is known in form of a seal.
 
 The witch trials of the 17th century claimed about one thousand victims in Bamberg, reaching a climax between 1626 and 1631, under the rule of Prince-Bishop Johann Georg II Fuchs von Dornheim.[7] The famous _Drudenhaus_ (witch prison), built in 1627, is no longer standing today; however, detailed accounts of some cases, such as that of Johannes Junius, remain.[8]
 
@@ -72,7 +72,7 @@ In 2013 (latest data available) the GDP per inhabitant was €56,723. This place
 
 Attractions
 
-Bamberger_Reiter_BW_2.JPG, a local symbol.]] Bamberg-StMichael1-Asio.JPG]] Bamberg_BW_2013-06-19_17-17-19.JPG
+, a local symbol.]] ]]
 
 The old town of Bamberg is listed as a UNESCO World Heritage Site, primarily because of its authentic medieval appearance. The town established a documentation centre in 2005 to support World Heritage activities. Some of the main sights are:
 
@@ -97,7 +97,7 @@ The __ (New Residence) (1698–1704) was initially occupied by the prince-bishop
 
 :
 
-AltenburgEingang.jpg]]
+]]
 
 The is located on the highest of Bamberg's seven hills. It was mentioned for the first time in 1109.[16] Between 1251 and 1553 it was the residence of Bamberg's bishops. Destroyed in 1553 by Albert Alcibiades, Margrave of Brandenburg-Kulmbach, it was used, after scanty repairs, only as a prison, and increasingly decayed.
 
@@ -154,7 +154,7 @@ Most international tourists who travel by plane arrive at Frankfurt Internationa
 
 Water transport
 
-Bamberg-Liebherr-crane-4295172.jpg Both the Rhine-Main-Danube Canal and its predecessor, the Ludwig Canal, begin near Bamberg. The Ludwig Canal was opened in 1846 but closed in 1950 after damage during the second world war. With the completion of the Rhine-Main-Danube Canal in 1992, uninterrupted water transport was again made possible between the North Sea and the Black Sea.
+Both the Rhine-Main-Danube Canal and its predecessor, the Ludwig Canal, begin near Bamberg. The Ludwig Canal was opened in 1846 but closed in 1950 after damage during the second world war. With the completion of the Rhine-Main-Danube Canal in 1992, uninterrupted water transport was again made possible between the North Sea and the Black Sea.
 
 Local public transport
 
@@ -207,8 +207,6 @@ Bamberg is twinned with:
 
 Notable people
 
-Louis-Alexandre_Berthier.png
-
 A-K
 
 -   Annette von Aretin (1920–2006), first television announcer of the Bayerischer Rundfunk
@@ -251,8 +249,6 @@ A-K
 -   Paul Lautensack (1478–1558), painter and organist
 
 L-Z
-
-Marschalk_von_Ostheim.jpg
 
 -   Paul Maar, (born 1937), German writer and illustrator
 -   Emil Marschalk von Ostheim (1841–1903), historian and collector

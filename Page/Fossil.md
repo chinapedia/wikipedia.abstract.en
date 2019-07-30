@@ -4,7 +4,7 @@ Paleontology is the study of fossils: their age, method of formation, and evolut
 
 There are many processes that lead to fossilization, including permineralization, casts and molds, authigenic mineralization, replacement and recrystallization, adpression, carbonization, and bioimmuration.
 
-Seymouria_Fossil.jpg (extinct)]]
+(extinct)]]
 
 Fossils vary in size from one-micrometre (1 µm) bacteria[8] to dinosaurs and trees, many meters long and weighing many tons. A fossil normally preserves only a portion of the deceased organism, usually that portion that was partially mineralized during life, such as the bones and teeth of vertebrates, or the chitinous or calcareous exoskeletons of invertebrates. Fossils may also consist of the marks left behind by the organism while it was alive, such as animal tracks or feces (coprolites). These types of fossil are called trace fossils or _ichnofossils_, as opposed to _body fossils_. Some fossils are biochemical and are called _chemofossils_ or biosignatures.
 
@@ -15,11 +15,11 @@ The process of fossilization varies according to tissue type and external condit
 
 Permineralization
 
-Permian_Silicified_Sclerobionts.JPG Permineralization is a process of fossilization that occurs when an organism is buried. The empty spaces within an organism (spaces filled with liquid or gas during life) become filled with mineral-rich groundwater. Minerals precipitate from the groundwater, occupying the empty spaces. This process can occur in very small spaces, such as within the cell wall of a plant cell. Small scale permineralization can produce very detailed fossils. For permineralization to occur, the organism must become covered by sediment soon after death, otherwise decay commences. The degree to which the remains are decayed when covered determines the later details of the fossil. Some fossils consist only of skeletal remains or teeth; other fossils contain traces of skin, feathers or even soft tissues. This is a form of diagenesis.
+Permineralization is a process of fossilization that occurs when an organism is buried. The empty spaces within an organism (spaces filled with liquid or gas during life) become filled with mineral-rich groundwater. Minerals precipitate from the groundwater, occupying the empty spaces. This process can occur in very small spaces, such as within the cell wall of a plant cell. Small scale permineralization can produce very detailed fossils. For permineralization to occur, the organism must become covered by sediment soon after death, otherwise decay commences. The degree to which the remains are decayed when covered determines the later details of the fossil. Some fossils consist only of skeletal remains or teeth; other fossils contain traces of skin, feathers or even soft tissues. This is a form of diagenesis.
 
 Casts and molds
 
-Aviculopecten_subcardiformis01.JPG from the Logan Formation, Lower Carboniferous, Ohio]] In some cases, the original remains of the organism completely dissolve or are otherwise destroyed. The remaining organism-shaped hole in the rock is called an _external mold_. If this hole is later filled with other minerals, it is a _cast_. An endocast, or _internal mold_, is formed when sediments or minerals fill the internal cavity of an organism, such as the inside of a bivalve or snail or the hollow of a skull.
+from the Logan Formation, Lower Carboniferous, Ohio]] In some cases, the original remains of the organism completely dissolve or are otherwise destroyed. The remaining organism-shaped hole in the rock is called an _external mold_. If this hole is later filled with other minerals, it is a _cast_. An endocast, or _internal mold_, is formed when sediments or minerals fill the internal cavity of an organism, such as the inside of a bivalve or snail or the hollow of a skull.
 
 Authigenic mineralization
 
@@ -27,7 +27,7 @@ This is a special form of cast and mold formation. If the chemistry is right, th
 
 Replacement and recrystallization
 
-MatmorScleractinian.JPGn coral (aragonite to calcite) from the Jurassic of southern Israel]] Replacement occurs when the shell, bone or other tissue is replaced with another mineral. In some cases mineral replacement of the original shell occurs so gradually and at such fine scales that microstructural features are preserved despite the total loss of original material. A shell is said to be _recrystallized_ when the original skeletal compounds are still present but in a different crystal form, as from aragonite to calcite.
+n coral (aragonite to calcite) from the Jurassic of southern Israel]] Replacement occurs when the shell, bone or other tissue is replaced with another mineral. In some cases mineral replacement of the original shell occurs so gradually and at such fine scales that microstructural features are preserved despite the total loss of original material. A shell is said to be _recrystallized_ when the original skeletal compounds are still present but in a different crystal form, as from aragonite to calcite.
 
 Adpression (compression-impression)
 
@@ -43,7 +43,7 @@ Carbonaceous films are thin coatings which consist predominantly of the chemical
 
 Bioimmuration
 
-Catellocaula.jpg Bioimmuration occurs when a skeletal organism overgrows or otherwise subsumes another organism, preserving the latter, or an impression of it, within the skeleton.[16] Usually it is a sessile skeletal organism, such as a bryozoan or an oyster, which grows along a substrate, covering other sessile sclerobionts. Sometimes the bioimmured organism is soft-bodied and is then preserved in negative relief as a kind of external mold. There are also cases where an organism settles on top of a living skeletal organism that grows upwards, preserving the settler in its skeleton. Bioimmuration is known in the fossil record from the Ordovician[17] to the Recent.[18]
+Bioimmuration occurs when a skeletal organism overgrows or otherwise subsumes another organism, preserving the latter, or an impression of it, within the skeleton.[16] Usually it is a sessile skeletal organism, such as a bryozoan or an oyster, which grows along a substrate, covering other sessile sclerobionts. Sometimes the bioimmured organism is soft-bodied and is then preserved in negative relief as a kind of external mold. There are also cases where an organism settles on top of a living skeletal organism that grows upwards, preserving the settler in its skeleton. Bioimmuration is known in the fossil record from the Ordovician[17] to the Recent.[18]
 
 
 Dating
@@ -60,7 +60,7 @@ It is also possible to estimate how long ago two living clades diverged, in othe
 
 Limitations
 
-Fossil_record_gaps_20131028.pdf Organisms are only rarely preserved as fossils in the best of circumstances, and only a fraction of such fossils have been discovered. This is illustrated by the fact that the number of species known through the fossil record is less than 5% of the number of known living species, suggesting that the number of species known through fossils must be far less than 1% of all the species that have ever lived.[28] Because of the specialized and rare circumstances required for a biological structure to fossilize, only a small percentage of life-forms can be expected to be represented in discoveries, and each discovery represents only a snapshot of the process of evolution. The transition itself can only be illustrated and corroborated by transitional fossils, which will never demonstrate an exact half-way point.[29]
+Organisms are only rarely preserved as fossils in the best of circumstances, and only a fraction of such fossils have been discovered. This is illustrated by the fact that the number of species known through the fossil record is less than 5% of the number of known living species, suggesting that the number of species known through fossils must be far less than 1% of all the species that have ever lived.[28] Because of the specialized and rare circumstances required for a biological structure to fossilize, only a small percentage of life-forms can be expected to be represented in discoveries, and each discovery represents only a snapshot of the process of evolution. The transition itself can only be illustrated and corroborated by transitional fossils, which will never demonstrate an exact half-way point.[29]
 
 The fossil record is strongly biased toward organisms with hard-parts, leaving most groups of soft-bodied organisms with little to no role.[30] It is replete with the mollusks, the vertebrates, the echinoderms, the brachiopods and some groups of arthropods.[31]
 
@@ -73,7 +73,7 @@ Fossil sites with exceptional preservation—sometimes including preserved soft 
 
 Stromatolites
 
-Stromatolites_Cochabamba.jpgs from Bolivia, South America]]
+s from Bolivia, South America]]
 
 Stromatolites are layered accretionary structures formed in shallow water by the trapping, binding and cementation of sedimentary grains by biofilms of microorganisms, especially cyanobacteria.[32] Stromatolites provide some of the most ancient fossil records of life on Earth, dating back more than 3.5 billion years ago.[33]
 
@@ -94,8 +94,6 @@ Types
 
 Index
 
-Index_fossils.gif
-
 Index fossils (also known as guide fossils, indicator fossils or zone fossils) are fossils used to define and identify geologic periods (or faunal stages). They work on the premise that, although different sediments may look different depending on the conditions under which they were deposited, they may include the remains of the same species of fossil. The shorter the species' time range, the more precisely different sediments can be correlated, and so rapidly evolving species' fossils are particularly valuable. The best index fossils are common, easy to identify at species level and have a broad distribution—otherwise the likelihood of finding and recognizing one in the two sediments is poor.
 
 Trace
@@ -110,19 +108,17 @@ A _transitional fossil_ is any fossilized remains of a life form that exhibits t
 
 Microfossils
 
-Microfossils.JPG
-
 Microfossil is a descriptive term applied to fossilized plants and animals whose size is just at or below the level at which the fossil can be analyzed by the naked eye. A commonly applied cutoff point between "micro" and "macro" fossils is 1 mm. Microfossils may either be complete (or near-complete) organisms in themselves (such as the marine plankters foraminifera and coccolithophores) or component parts (such as small teeth or spores) of larger animals or plants. Microfossils are of critical importance as a reservoir of paleoclimate information, and are also commonly used by biostratigraphers to assist in the correlation of rock units.
 
 Resin
 
-Leptofoenus_pittfieldae_(male)_rotated.JPG'' trapped in Dominican amber, from 20 to 16 million years ago. It is known only from this specimen.]]
+'' trapped in Dominican amber, from 20 to 16 million years ago. It is known only from this specimen.]]
 
 Fossil resin (colloquially called amber) is a natural polymer found in many types of strata throughout the world, even the Arctic. The oldest fossil resin dates to the Triassic, though most dates to the Cenozoic. The excretion of the resin by certain plants is thought to be an evolutionary adaptation for protection from insects and to seal wounds. Fossil resin often contains other fossils called inclusions that were captured by the sticky resin. These include bacteria, fungi, other plants, and animals. Animal inclusions are usually small invertebrates, predominantly arthropods such as insects and spiders, and only extremely rarely a vertebrate such as a small lizard. Preservation of inclusions can be exquisite, including small fragments of DNA.
 
 Derived, or reworked
 
-CentrumSideView.jpg plesiosaur vertebral centrum found in the Lower Cretaceous Faringdon Sponge Gravels in Faringdon, England. An example of a _remanié_ fossil.]]
+plesiosaur vertebral centrum found in the Lower Cretaceous Faringdon Sponge Gravels in Faringdon, England. An example of a _remanié_ fossil.]]
 
 A _derived_, _reworked_ or _remanié fossil_ is a fossil found in rock that accumulated significantly later than when the fossilized animal or plant died.[52] Reworked fossils are created by erosion exhuming (freeing) fossils from the rock formation in which they were originally deposited and their redeposition in an younger sedimentary deposit.
 
@@ -132,7 +128,7 @@ Fossil wood is wood that is preserved in the fossil record. Wood is usually the 
 
 Subfossil
 
-Dodo-Skeleton_Natural_History_Museum_London_England.jpg skeleton]] The term subfossil can be used to refer to remains, such as bones, nests, or defecations, whose fossilization process is not complete, either because the length of time since the animal involved was living is too short (less than 10,000 years) or because the conditions in which the remains were buried were not optimal for fossilization. Subfossils are often found in caves or other shelters where they can be preserved for thousands of years.[55] The main importance of subfossil vs. fossil remains is that the former contain organic material, which can be used for radiocarbon dating or extraction and sequencing of DNA, protein, or other biomolecules. Additionally, isotope ratios can provide much information about the ecological conditions under which extinct animals lived. Subfossils are useful for studying the evolutionary history of an environment and can be important to studies in paleoclimatology.
+skeleton]] The term subfossil can be used to refer to remains, such as bones, nests, or defecations, whose fossilization process is not complete, either because the length of time since the animal involved was living is too short (less than 10,000 years) or because the conditions in which the remains were buried were not optimal for fossilization. Subfossils are often found in caves or other shelters where they can be preserved for thousands of years.[55] The main importance of subfossil vs. fossil remains is that the former contain organic material, which can be used for radiocarbon dating or extraction and sequencing of DNA, protein, or other biomolecules. Additionally, isotope ratios can provide much information about the ecological conditions under which extinct animals lived. Subfossils are useful for studying the evolutionary history of an environment and can be important to studies in paleoclimatology.
 
 Subfossils are often found in depositionary environments, such as lake sediments, oceanic sediments, and soils. Once deposited, physical and chemical weathering can alter the state of preservation.
 
@@ -150,7 +146,7 @@ On 24 January 2014, NASA reported that current studies by the _Curiosity_ and _O
 
 Pseudofossils
 
-Dendrites01.jpg, Germany; scale in mm]]
+, Germany; scale in mm]]
 
 _Pseudofossils_ are visual patterns in rocks that are produced by geologic processes rather than biologic processes. They can easily be mistaken for real fossils. Some pseudofossils, such as dendrites, are formed by naturally occurring fissures in the rock that get filled up by percolating minerals. Other types of pseudofossils are kidney ore (round shapes in iron ore) and moss agates, which look like moss or plant leaves. Concretions, spherical or ovoid-shaped nodules found in some sedimentary strata, were once thought to be dinosaur eggs, and are often mistaken for fossils as well.
 
@@ -185,7 +181,7 @@ In 1027, the Persian Avicenna explained fossils' stoniness in _The Book of Heali
 
 From the 13th century to the present day, scholars pointed out that the fossil skulls of Deinotherium giganteum, found in Crete and Greece, resemble cyclops skulls, and are quite possibly the origin of that Greek myth.[77][78]
 
-Micraster_coranguinum.4_-_Cretacico_superior.JPG era sea urchin, Micraster, were used in medieval times as both shepherd's crowns to protect houses, and as painted fairy loaves by bakers to bring luck to their bread-making.]] In Norse mythology, echinoderm shells (the round five-part button left over from a sea urchin) were associated with the god Thor, not only being incorporated in thunderstones, representations of Thor's hammer and subsequent hammer-shaped crosses as Christianity was adopted, but also kept in houses to garner Thor's protection.[79]
+era sea urchin, Micraster, were used in medieval times as both shepherd's crowns to protect houses, and as painted fairy loaves by bakers to bring luck to their bread-making.]] In Norse mythology, echinoderm shells (the round five-part button left over from a sea urchin) were associated with the god Thor, not only being incorporated in thunderstones, representations of Thor's hammer and subsequent hammer-shaped crosses as Christianity was adopted, but also kept in houses to garner Thor's protection.[79]
 
 These grew into the shepherd's crowns of English folklore, used for decoration and as good luck charms, placed by the doorway of homes and churches.[80] In Suffolk, a different species was used as a good-luck charm by bakers, who referred to them as fairy loaves, associating them with the similarly shaped loaves of bread they baked.[81][82]
 
@@ -193,7 +189,7 @@ Early modern explanations
 
 More scientific views of fossils emerged during the Renaissance. Leonardo da Vinci concurred with Aristotle's view that fossils were the remains of ancient life.[83] For example, da Vinci noticed discrepancies with the biblical flood narrative as an explanation for fossil origins:
 
-Rozprawa_o_přewratech_kůry_zemnj,_Ichthyosaurus_and_Plesiosaurus.jpg'' and _Plesiosaurus_ from the 1834 Czech edition of Cuvier's _Discours sur les revolutions de la surface du globe_]]
+'' and _Plesiosaurus_ from the 1834 Czech edition of Cuvier's _Discours sur les revolutions de la surface du globe_]]
 
 In 1666, Nicholas Steno examined a shark, and made the association of its teeth with the "tongue stones" of ancient Greco-Roman mythology, concluding that those were not in fact the tongues of venomous snakes, but the teeth of some long-extinct species of shark.[84]
 
@@ -223,9 +219,9 @@ Modern era
 
 Paleontology has joined with evolutionary biology to share the interdisciplinary task of outlining the tree of life, which inevitably leads backwards in time to Precambrian microscopic life when cell structure and functions evolved. Earth's deep time in the Proterozoic and deeper still in the Archean is only "recounted by microscopic fossils and subtle chemical signals."[89] Molecular biologists, using phylogenetics, can compare protein amino acid or nucleotide sequence homology (i.e., similarity) to evaluate taxonomy and evolutionary distances among organisms, with limited statistical confidence. The study of fossils, on the other hand, can more specifically pinpoint when and in what organism a mutation first appeared. Phylogenetics and paleontology work together in the clarification of science's still dim view of the appearance of life and its evolution.[90]
 
-Eldredgeops-rana-crassituberculata.jpg trilobite _Eldredgeops rana crassituberculata_. The genus is named after Niles Eldredge.]]
+trilobite _Eldredgeops rana crassituberculata_. The genus is named after Niles Eldredge.]]
 
-Isocrinus_nicoleti_Encrinite_Mt_Carmel.jpg columnals (_Isocrinus nicoleti_) from the Middle Jurassic Carmel Formation at Mount Carmel Junction, Utah]]
+columnals (_Isocrinus nicoleti_) from the Middle Jurassic Carmel Formation at Mount Carmel Junction, Utah]]
 
 Niles Eldredge's study of the _Phacops_ trilobite genus supported the hypothesis that modifications to the arrangement of the trilobite's eye lenses proceeded by fits and starts over millions of years during the Devonian.[91] Eldredge's interpretation of the _Phacops_ fossil record was that the aftermaths of the lens changes, but not the rapidly occurring evolutionary process, were fossilized. This and other data led Stephen Jay Gould and Niles Eldredge to publish their seminal paper on punctuated equilibrium in 1971.
 

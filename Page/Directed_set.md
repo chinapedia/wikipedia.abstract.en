@@ -31,8 +31,6 @@ Examples of directed sets include:
 
 Contrast with semilattices
 
-Directed_set,_but_no_join_semi-lattice.png
-
 Directed sets are a more general concept than (join) semilattices: every join semilattice is a directed set, as the join or least upper bound of two elements is the desired _c_. The converse does not hold however, witness the directed set {1000,0001,1101,1011,1111} ordered bitwise (e.g. 1000 ≤ 1011 holds, but 0001 ≤ 1000 does not, since in the last bit 1 > 0), where {1000,0001} has three upper bounds but no _least_ upper bound, cf. picture. (Also note that without 1111, the set is not directed.)
 
 

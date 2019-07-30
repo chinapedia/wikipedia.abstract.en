@@ -1,4 +1,4 @@
-yokaichi01.jpg Giant Kite Festival is held every May in Higashiomi, Shiga, Japan.[1]]] Kitesflying.jpg Lachender_Drachen_in_Sternform.JPG. This sparless, ram-air inflated kite, has a complex bridle formed of many strings attached to the face of the wing.]]
+Giant Kite Festival is held every May in Higashiomi, Shiga, Japan.[1]]] . This sparless, ram-air inflated kite, has a complex bridle formed of many strings attached to the face of the wing.]]
 
 A KITE is a tethered heavier-than-air craft with wing surfaces that react against the air to create lift and drag. A kite consists of wings, tethers and anchors. Kites often have a bridle and tail to guide the face of the kite so the wind can lift it.[2] Some kite designs don’t need a bridle; box kites can have a single attachment point. A kite may have fixed or moving anchors that can balance the kite. One technical definition is that a kite is “a collection of tether-coupled wing sets“.[3]
 
@@ -13,17 +13,17 @@ Kites have a long and varied history and many different types are flown individu
 
 History
 
-Fier_Drake_(1634_kite_woodcut).png'' in which the kite is titled _How to make fire Drakes_]]
+'' in which the kite is titled _How to make fire Drakes_]]
 
 Kites were invented in Asia, though their exact origin can only be speculated. Many early sources point to China.[12] In China, materials ideal for kite building were readily available including silk fabric for sail material; fine, high-tensile-strength silk for flying line; and resilient bamboo for a strong, lightweight framework.
 
 The kite has been claimed as the invention of the 5th-century BC Chinese philosophers Mozi (also Mo Di, or Mo Ti) and Lu Ban (also Gongshu Ban, or Kungshu Phan). By 549 AD paper kites were certainly being flown, as it was recorded that in that year a paper kite was used as a message for a rescue mission. Ancient and medieval Chinese sources describe kites being used for measuring distances, testing the wind, lifting men, signaling, and communication for military operations. The earliest known Chinese kites were flat (not bowed) and often rectangular. Later, tailless kites incorporated a stabilizing bowline. Kites were decorated with mythological motifs and legendary figures; some were fitted with strings and whistles to make musical sounds while flying.[13][14][15]
 
-Kite_Flying_by_Suzuki_Harunobu_(鈴木_春信).jpg, 1766 (Metropolitan Museum of Art)]] Image_taken_from_page_64_of_'Travels_in_India,_including_Sinde_and_the_Punjab;_..._translated_from_the_German,_by_H._E._Lloyd'_(11024411234).jpg After its introduction into India, the kite further evolved into the fighter kite, known as the patang in India, where thousands are flown every year on festivals such as Makar Sankranti.[16]
+, 1766 (Metropolitan Museum of Art)]] After its introduction into India, the kite further evolved into the fighter kite, known as the patang in India, where thousands are flown every year on festivals such as Makar Sankranti.[16]
 
 Kites were known throughout Polynesia, as far as New Zealand, with the assumption being that the knowledge diffused from China along with the people. Anthropomorphic kites made from cloth and wood were used in religious ceremonies to send prayers to the gods.[17] Polynesian kite traditions are used by anthropologists to get an idea of early "primitive" Asian traditions that are believed to have at one time existed in Asia.[18]
 
-Kinderspiele_1828_Drachensteigen.jpg]] Chinese_dragon_kite_(Berkeley,_California_-_2000).jpg, kite festival in 2000]] Morro_Bay_Kite_Festival,_26_April_2014.jpg Kite Festival 2014]]
+]] , kite festival in 2000]] Kite Festival 2014]]
 
 Kites were late to arrive in Europe, although windsock-like banners were known and used by the Romans. Stories of kites were first brought to Europe by Marco Polo towards the end of the 13th century, and kites were brought back by sailors from Japan and Malaysia in the 16th and 17th centuries.[19][20] Konrad Kyeser described dragon kites in _Bellifortis_ about 1400 AD.[21] Although kites were initially regarded as mere curiosities, by the 18th and 19th centuries they were being used as vehicles for scientific research.[22]
 
@@ -40,7 +40,7 @@ Kites are now mostly used for recreation. Lightweight synthetic materials (ripst
 
 Materials
 
-Sparless_Styrofoam_kite_in_flight.jpg kites]]
+kites]]
 
 Designs often emulate flying insects, birds, and other beasts, both real and mythical. The finest Chinese kites are made from split bamboo (usually golden bamboo), covered with silk, and hand painted. On larger kites, clever hinges and latches allow the kite to be disassembled and compactly folded for storage or transport. Cheaper mass-produced kites are often made from printed polyester rather than silk.
 
@@ -67,8 +67,6 @@ Walter de Milemete's 1326 _De nobilitatibus, sapientiis, et prudentiis regum_ tr
 
 Kites were also used by Admiral Yi of the Joseon Dynasty (13921910) of Korea. During the Japanese invasions of Korea (1592–1598), Admiral Yi commanded his navy using kites. His kites had specific markings directing his fleet to perform various orders.[30]
 
-Cody_manlifter.jpg
-
 In the modern era the British Army used kites to haul human lookouts into the air for observation purposes, using the kites developed by Samuel Franklin Cody. Barrage kites were used to protect shipping during the Second World War.[31][32] Kites were also used for anti-aircraft target practice.[33] Kites and kytoons were used for lofting communications antenna.[34] Submarines lofted observers in rotary kites.[35]
 
 Palestinians from the Gaza Strip have flown firebomb kites over the Israel–Gaza barrier, setting fires on the Israeli side of the border,[36][37][38][39] hundreds of dunams of Israeli crop fields were burned by firebomb kites launched from Gaza, with an estimated economic loss of several millions of shekels.[40]
@@ -85,7 +83,7 @@ Kites can be used to carry light effects such as lightsticks or battery powered 
 
 Kite traction
 
-Kite333.JPG]]
+]]
 
 Kites can be used to pull people and vehicles downwind. Efficient foil-type kites such as power kites can also be used to sail upwind under the same principles as used by other sailing craft, provided that lateral forces on the ground or in the water are redirected as with the keels, center boards, wheels and ice blades of traditional sailing craft. In the last two decades several kite sailing sports have become popular, such as kite buggying, kite landboarding, kite boating and kite surfing. Snow kiting has also become popular in recent years.
 
@@ -128,7 +126,7 @@ File:Malaysiakite.jpg%7CMaking a traditional _Wau jala budi_ kite in Malaysia. T
 
 Europe
 
-Bermuda_Kite_01.jpg]] In Greece and Cyprus, flying kites is a tradition for Clean Monday, the first day of Lent. In the British Overseas Territory of Bermuda, traditional Bermuda kites are made and flown at Easter, to symbolise Christ's ascent. Bermuda kites hold the world records for altitude and duration. In Fuerteventura a kite festival is usually held on the weekend nearest to 8 November lasting for 3 days.
+]] In Greece and Cyprus, flying kites is a tradition for Clean Monday, the first day of Lent. In the British Overseas Territory of Bermuda, traditional Bermuda kites are made and flown at Easter, to symbolise Christ's ascent. Bermuda kites hold the world records for altitude and duration. In Fuerteventura a kite festival is usually held on the weekend nearest to 8 November lasting for 3 days.
 
 Polynesia
 
@@ -151,7 +149,7 @@ The exact origins of the practice of kite flying (exclusively) at Easter are unc
 
 World records
 
-Worlds_Largest_Kite_-_Aloft_-_Taken_in_2004.jpg. The size when flat is , . While flying it becomes a little smaller (about ) due to curvature of the edges when inflated.]]
+. The size when flat is , . While flying it becomes a little smaller (about ) due to curvature of the edges when inflated.]]
 
 There are many world records involving kites.[56]
 
@@ -171,7 +169,7 @@ In popular culture
 
 General safety issues
 
-Man_flying_kite.jpg, a good location for flying as winds travelling across the sea contain few up or down draughts which cause kites to fly erratically]]
+, a good location for flying as winds travelling across the sea contain few up or down draughts which cause kites to fly erratically]]
 
 There are safety issues involved in kite-flying. Kite lines can strike and tangle on electrical power lines, causing power blackouts and running the risk of electrocuting the kite flier. Wet kite lines or wire can act as a conductor for static electricity and lightning when the weather is stormy. Kites with large surface area or powerful lift can lift kite fliers off the ground or drag them into other objects. In urban areas there is usually a ceiling on how high a kite can be flown, to prevent the kite and line infringing on the airspace of helicopters and light aircraft. It is also possible for fighter kites to kill people, as happened in India when three spectators were killed in separate incidents during Independence Day, August, 2016—precipitating a ban on certain types of enhanced line.
 

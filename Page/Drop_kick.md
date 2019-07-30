@@ -5,7 +5,7 @@ Drop kicks are most importantly used as a method of restarting play and scoring 
 
 Rugby
 
-Pat_O'Dea.jpg]]
+]]
 
 Drop kick technique
 
@@ -36,11 +36,9 @@ American and Canadian (gridiron) football
 
 In both American and Canadian football, one method of scoring a field goal or extra point is by drop-kicking the football through the goal.
 
-Zach_Curlin.png drop kicking.]]
+drop kicking.]]
 
 It contrasts with the punt, wherein the player kicks the ball without letting it hit the ground first; and the place kick, wherein the player kicks a stationary ball off the ground: "from placement". A drop kick is significantly more difficult; as Jim Thorpe once explained, "I regard the place kick as almost two to one safer than the drop kick in attempting a goal from the field."[4]
-
-Brickleydropkick.png
 
 The drop kick was often used in early football as a surprise tactic. The ball would be snapped or lateraled to a back, who would fake a run or pass, but then would kick the field goal instead. This method of scoring worked well in the 1920s and early 1930s, when the football was rounder at the ends (similar to a modern rugby ball). Early football stars such as Charles Brickley, Frank Hudson, Jim Thorpe, Paddy Driscoll, and Al Bloodgood were skilled drop-kickers; Driscoll in 1925 and Bloodgood in 1926 hold a tied NFL record of four drop kicked field goals in a single game.[5] Driscoll's 55 yard drop kick in 1924 stood as the unofficial record for field goal range[6] until Bert Rechichar kicked a 56-yard field goal (by placekick) in 1953.
 
@@ -50,7 +48,7 @@ NFL
 
 Before the NFL–AFL merger, the last successful drop kick in the NFL was executed by Scooter McLean of the Chicago Bears in their 37–9 victory over the New York Giants on December 21, 1941, in the NFL Championship game at Chicago's Wrigley Field. Though it was not part of the NFL at the time, the All-America Football Conference saw its last drop kick November 28, 1948, when Joe Vetrano of the San Francisco 49ers drop kicked an extra point after a muffed snap against the Cleveland Browns.[8]
 
-Eddie_Mahan.jpg preparing to drop kick.]] As of 2019, the only successful drop kick in the NFL since the 1940s was by Doug Flutie, the backup quarterback of the New England Patriots, against the Miami Dolphins on January 1, 2006, for an extra point after a touchdown. Flutie had estimated "an 80 percent chance" of making the drop kick,[9] which was called to give Flutie, 43 at the time, the opportunity to make a historic kick in his final NFL game; the drop kick was his last play in the NFL. After the game, New England coach Bill Belichick said, "I think Doug deserves it,"[10] and Flutie said, "I just thanked him for the opportunity."[11]
+preparing to drop kick.]] As of 2019, the only successful drop kick in the NFL since the 1940s was by Doug Flutie, the backup quarterback of the New England Patriots, against the Miami Dolphins on January 1, 2006, for an extra point after a touchdown. Flutie had estimated "an 80 percent chance" of making the drop kick,[9] which was called to give Flutie, 43 at the time, the opportunity to make a historic kick in his final NFL game; the drop kick was his last play in the NFL. After the game, New England coach Bill Belichick said, "I think Doug deserves it,"[10] and Flutie said, "I just thanked him for the opportunity."[11]
 
 Dallas Cowboys punter Mat McBriar attempted a maneuver similar to a drop kick during the 2010 Thanksgiving Day game after a botched punt attempt, but the ball bounced several times before the kick and the sequence of events is officially recorded as a fumble, followed by an illegal kick, with the fumble being recovered by the New Orleans Saints 29 yards downfield from the spot of the kick. The Saints declined the illegal kick penalty.[12][13]
 

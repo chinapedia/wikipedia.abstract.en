@@ -1,4 +1,4 @@
-TiC-xtal-3D-vdW.png.]] In chemistry, a CARBIDE is a compound composed of carbon and a less electronegative element. Carbides can be generally classified by the chemical bonds type as follows: (i) salt-like, (ii) covalent compounds, (iii) interstitial compounds, and (iv) "intermediate" transition metal carbides. Examples include calcium carbide (CaC₂), silicon carbide (SiC), tungsten carbide (WC; often called, simply, _carbide_ when referring to machine tooling), and cementite (Fe₃C),[1] each used in key industrial applications. The naming of ionic carbides is not systematic.
+.]] In chemistry, a CARBIDE is a compound composed of carbon and a less electronegative element. Carbides can be generally classified by the chemical bonds type as follows: (i) salt-like, (ii) covalent compounds, (iii) interstitial compounds, and (iv) "intermediate" transition metal carbides. Examples include calcium carbide (CaC₂), silicon carbide (SiC), tungsten carbide (WC; often called, simply, _carbide_ when referring to machine tooling), and cementite (Fe₃C),[1] each used in key industrial applications. The naming of ionic carbides is not systematic.
 
 
 Salt-like (saline) carbides
@@ -15,7 +15,7 @@ Note that methanide in this context is a trivial historical name. According to t
 
 Acetylides
 
-Carbid.jpg.]] Several carbides are assumed to be salts of the acetylide anion C₂^(2–) (also called percarbide), which has a triple bond between the two carbon atoms. Alkali metals, alkaline earth metals, and lanthanoid metals form acetylides, e.g., sodium carbide Na₂C₂, calcium carbide CaC₂, and LaC₂.[7] Lanthanides also form carbides (sesquicarbides, see below) with formula M₂C₃. Metals from group 11 also tend to form acetylides, such as copper(I) acetylide and silver acetylide. Carbides of the actinide elements, which have stoichiometry MC₂ and M₂C₃, are also described as salt-like derivatives of .
+.]] Several carbides are assumed to be salts of the acetylide anion C₂^(2–) (also called percarbide), which has a triple bond between the two carbon atoms. Alkali metals, alkaline earth metals, and lanthanoid metals form acetylides, e.g., sodium carbide Na₂C₂, calcium carbide CaC₂, and LaC₂.[7] Lanthanides also form carbides (sesquicarbides, see below) with formula M₂C₃. Metals from group 11 also tend to form acetylides, such as copper(I) acetylide and silver acetylide. Carbides of the actinide elements, which have stoichiometry MC₂ and M₂C₃, are also described as salt-like derivatives of .
 
 The C-C triple bond length ranges from 119.2 pm in CaC₂ (similar to ethyne), to 130.3 pm in LaC₂ and 134 pm in UC₂. The bonding in LaC₂ has been described in terms of La^(III) with the extra electron delocalised into the antibonding orbital on , explaining the metallic conduction.[8]
 
@@ -31,7 +31,7 @@ The carbides of silicon and boron are described as "covalent carbides", although
 
 Interstitial carbides
 
-Tungsten_carbide.jpg end mills.]] The carbides of the group 4, 5 and 6 transition metals (with the exception of chromium) are often described as interstitial compounds.[12] These carbides have metallic properties and are refractory. Some exhibit a range of stoichiometries, e.g. titanium carbide, TiC. Titanium carbide and tungsten carbide are important industrially and are used to coat metals in cutting tools.[13]
+end mills.]] The carbides of the group 4, 5 and 6 transition metals (with the exception of chromium) are often described as interstitial compounds.[12] These carbides have metallic properties and are refractory. Some exhibit a range of stoichiometries, e.g. titanium carbide, TiC. Titanium carbide and tungsten carbide are important industrially and are used to coat metals in cutting tools.[13]
 
 The long-held view is that the carbon atoms fit into octahedral interstices in a close-packed metal lattice when the metal atom radius is greater than approximately 135 pm:[14]
 
@@ -74,7 +74,7 @@ In these carbides, the transition metal ion is smaller than the critical 135 pm,
 
 Molecular carbides
 
-Au6C(PPh3)6.png Metal complexes containing C are known as metal carbido complexes. Most common are carbon-centered octahedral clusters, such as [Au₆C(PPh₃)₆]²⁺ and [Fe₆C(CO)₆]^(2−). Similar species are known for the metal carbonyls and the early metal halides. A few terminal carbides have been isolated, e.g., CRuCl₂(P(C₆H₁₁)₃)₂.
+Metal complexes containing C are known as metal carbido complexes. Most common are carbon-centered octahedral clusters, such as [Au₆C(PPh₃)₆]²⁺ and [Fe₆C(CO)₆]^(2−). Similar species are known for the metal carbonyls and the early metal halides. A few terminal carbides have been isolated, e.g., CRuCl₂(P(C₆H₁₁)₃)₂.
 
 Metallocarbohedrynes (or "met-cars") are stable clusters with the general formula where M is a transition metal (Ti, Zr, V, etc.).
 

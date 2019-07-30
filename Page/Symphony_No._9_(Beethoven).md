@@ -7,8 +7,6 @@ In 2001, Beethoven's original, hand-written manuscript of the score, held by the
 
 History
 
-Beethoven.jpg
-
 Composition
 
 The Philharmonic Society of London originally commissioned the symphony in 1817.[8] The main composition work was done between autumn 1822 and the completion of the autograph in February 1824.[9] The symphony emerged from other pieces by Beethoven that, while completed works in their own right, are also in some sense "sketches" (rough outlines) for the future symphony. The Choral Fantasy Opus. 80 (1808), basically a piano concerto movement, brings in a choir and vocal soloists near the end for the climax. The vocal forces sing a theme first played instrumentally, and this theme is reminiscent of the corresponding theme in the Ninth Symphony (for a detailed comparison, see Choral Fantasy).
@@ -19,7 +17,7 @@ Premiere
 
 Although his major works had primarily been premiered in Vienna, Beethoven was keen to have his latest composition performed in Berlin as soon as possible after finishing it, as he thought that musical taste in Vienna had become dominated by Italian composers such as Rossini.[12] When his friends and financiers heard this, they urged him to premiere the symphony in Vienna in the form of a petition signed by a number of prominent Viennese music patrons and performers.[13]
 
-Kärntnertortheater_1830.jpg in 1830]]
+in 1830]]
 
 Beethoven was flattered by the adoration of Vienna, so the Ninth Symphony was premiered on 7 May 1824 in the Theater am Kärntnertor in Vienna along with the overture _The Consecration of the House_ () and three parts of the _Missa solemnis_ (the Kyrie, Credo, and Agnus Dei). This was the composer's first onstage appearance in 12 years; the hall was packed with an eager audience and a number of musicians.[14]
 
@@ -27,7 +25,7 @@ The premiere of Symphony No. 9 involved the largest orchestra ever assembled by 
 
 The soprano and alto parts were sung by two famous young singers: Henriette Sontag and Caroline Unger. German soprano Henriette Sontag was 18 years old when Beethoven personally recruited her to perform in the premiere of the Ninth.[17][18] Also personally recruited by Beethoven, 20-year-old contralto Caroline Unger, a native of Vienna, had gained critical praise in 1821 appearing in Rossini's _Tancredi_. After performing in Beethoven's 1824 premiere, Unger then found fame in Italy and Paris. Italian composers Donizetti and Bellini were known to have written roles specifically for her voice.[19] Anton Haizinger and Joseph Seipelt sang the tenor and bass parts, respectively.
 
-CarolineUngher.jpg, who sang the contralto part at the first performance and is credited with turning Beethoven to face the applauding audience.]]
+, who sang the contralto part at the first performance and is credited with turning Beethoven to face the applauding audience.]]
 
 Although the performance was officially directed by Michael Umlauf, the theatre's Kapellmeister, Beethoven shared the stage with him. However, two years earlier, Umlauf had watched as the composer's attempt to conduct a dress rehearsal of his opera _Fidelio_ ended in disaster. So this time, he instructed the singers and musicians to ignore the almost totally deaf Beethoven. At the beginning of every part, Beethoven, who sat by the stage, gave the tempos. He was turning the pages of his score and beating time for an orchestra he could not hear.
 

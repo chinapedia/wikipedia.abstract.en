@@ -35,8 +35,6 @@ While Hong Kong retains the common law system, the Standing Committee of the Nat
 
 Major political issues in recent years
 
-HKmarch1_13_2008pic3.jpg
-
 Right of Abode
 
 On 29 January 1999, the Court of Final Appeal, the highest judicial authority in Hong Kong interpreted several Articles of the Basic Law, in such a way that the Government estimated would allow 1.6 million Mainland China immigrants to enter Hong Kong within ten years. This caused widespread concerns among the public on the social and economic consequences.
@@ -68,8 +66,6 @@ On 12 March 2005, the Chief Executive, Tung Chee-hwa, resigned. Immediately afte
 The Standing Committee of the National People's Congress exercised its right to interpret the Basic Law, and affirmed that the successor would only serve the remainder of the term. Many in Hong Kong saw this as having an adverse impact on one country, two systems, as the Central People's Government interpret the Basic Law to serve its need, that is, a two-year probation for Tsang, instead of a five-year term.
 
 Political reform package
-
-Hong_kong_protest_2005_0001.jpg
 
 On 4 December 2005, people in Hong Kong demonstrated against Sir Donald Tsang's proposed reform package, before a vote on 21 December. According to the organisers,[10] an estimated 250,000 turned out into the streets. The police supplied a figure of 63,000, and Michael de Golyer of Baptist University estimated between 70,000 and 100,000.[11]
 
@@ -126,7 +122,7 @@ On 15 June 2019, Chief Executive Carrie Lam decided to indefinitely suspend the 
 
 Other political issues since 1997
 
-HK_Victoria_Park_Cable_TV_HK_RTHK_Free_Ching_Cheong.JPG" poster]]
+" poster]]
 
 +------+-------------------------------------------------------------------------------------------------------------------+
 | Year | Event                                                                                                             |

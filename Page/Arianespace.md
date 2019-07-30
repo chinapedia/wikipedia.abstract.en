@@ -16,7 +16,7 @@ On 21 January 2019, ArianeGroup and Arianespace announced that it had signed a o
 
 Company and infrastructure
 
-250px-Arianespace_logo_svg.png Arianespace "is the marketing and sales organization for the European space industry and various component suppliers."[16]
+Arianespace "is the marketing and sales organization for the European space industry and various component suppliers."[16]
 
 The primary shareholders of Arianespace are its suppliers, in various European nations.[17] Arianespace had 24 shareholders in 2008,[18] 21 in 2014,[19] and just 17 .[20]
 
@@ -121,7 +121,7 @@ By November 2014, SpaceX had "already begun to take market share"[31] from Arian
 
 Launch vehicles
 
-Arianespace_mockups_(37108595462).jpg Currently Arianespace operates 3 launch vehicles, including two versions of Ariane 5:
+Currently Arianespace operates 3 launch vehicles, including two versions of Ariane 5:
 
 +--------------+--------------------------------+----------------+
 | Name         | Payload to LEO (including SSO) | Payload to GTO |

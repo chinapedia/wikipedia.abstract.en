@@ -12,10 +12,8 @@ The earliest certain ancestor of "A" is aleph (also written 'aleph), the first l
 By 1600 BC, the Phoenician alphabet letter had a linear form that served as the base for some later forms. Its name is thought to have corresponded closely to the Paleo-Hebrew or Arabic aleph.
 
 +----------------+-----------------+------------------------+
-| Blackletter A  | Uncial A        | Another Capital A      |
 | Blackletter A  | Uncial A        | Another Blackletter A  |
 +----------------+-----------------+------------------------+
-| 64 px          | 64 px           | 64 px                  |
 | Modern Roman A | Modern Italic A | Modern script A        |
 +----------------+-----------------+------------------------+
 
@@ -25,9 +23,9 @@ The Etruscans brought the Greek alphabet to their civilization in the Italian Pe
 
 Typographic variants
 
-A-small_glyphs.svg of the lowercase letter A.]] During Roman times, there were many variant forms of the letter "A". First was the monumental or lapidary style, which was used when inscribing on stone or other "permanent" media. There was also a cursive style used for everyday or utilitarian writing, which was done on more perishable surfaces. Due to the "perishable" nature of these surfaces, there are not as many examples of this style as there are of the monumental, but there are still many surviving examples of different types of cursive, such as majuscule cursive, minuscule cursive, and semicursive minuscule. Variants also existed that were intermediate between the monumental and cursive styles. The known variants include the early semi-uncial, the uncial, and the later semi-uncial.[5]
+of the lowercase letter A.]] During Roman times, there were many variant forms of the letter "A". First was the monumental or lapidary style, which was used when inscribing on stone or other "permanent" media. There was also a cursive style used for everyday or utilitarian writing, which was done on more perishable surfaces. Due to the "perishable" nature of these surfaces, there are not as many examples of this style as there are of the monumental, but there are still many surviving examples of different types of cursive, such as majuscule cursive, minuscule cursive, and semicursive minuscule. Variants also existed that were intermediate between the monumental and cursive styles. The known variants include the early semi-uncial, the uncial, and the later semi-uncial.[5]
 
-LowercaseA.svg include a double-storey A and single-storey Ɑ.]]At the end of the Roman Empire (5th century AD), several variants of the cursive minuscule developed through Western Europe. Among these were the semicursive minuscule of Italy, the Merovingian script in France, the Visigothic script in Spain, and the Insular or Anglo-Irish semi-uncial or Anglo-Saxon majuscule of Great Britain. By the 9th century, the Caroline script, which was very similar to the present-day form, was the principal form used in book-making, before the advent of the printing press. This form was derived through a combining of prior forms.[6]
+include a double-storey A and single-storey Ɑ.]]At the end of the Roman Empire (5th century AD), several variants of the cursive minuscule developed through Western Europe. Among these were the semicursive minuscule of Italy, the Merovingian script in France, the Visigothic script in Spain, and the Insular or Anglo-Irish semi-uncial or Anglo-Saxon majuscule of Great Britain. By the 9th century, the Caroline script, which was very similar to the present-day form, was the principal form used in book-making, before the advent of the printing press. This form was derived through a combining of prior forms.[6]
 
 15th-century Italy saw the formation of the two main variants that are known today. These variants, the _Italic_ and _Roman_ forms, were derived from the Caroline Script version. The Italic form, also called _script a,_ is used in most current handwriting and consists of a circle and vertical stroke. This slowly developed from the fifth-century form resembling the Greek letter tau in the hands of medieval Irish and English writers.[7] The Roman form is used in most printed material; it consists of a small loop with an arc over it ("a").[8] Both derive from the majuscule (capital) form. In Greek handwriting, it was common to join the left leg and horizontal stroke into a single loop, as demonstrated by the uncial version shown. Many fonts then made the right leg vertical. In some of these, the serif that began the right leg stroke developed into an arc, resulting in the printed form, while in others it was dropped, resulting in the modern handwritten form.
 
@@ -35,8 +33,6 @@ Italic type is commonly used to mark emphasis or more generally to distinguish o
 
 
 Use in writing systems
-
-Pronunciation_of_the_name_of_the_letter_⟨a⟩_in_European_languages.png
 
 English
 

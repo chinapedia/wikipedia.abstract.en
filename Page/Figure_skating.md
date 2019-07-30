@@ -33,18 +33,16 @@ The sport is also associated with show business. Major competitions generally co
 
 Terminology
 
-NSAPINY9_EXTR.jpg The term "professional" in skating refers not to skill level but competitive status. Figure skaters competing at the highest levels of international competition are not "professional" skaters. They are sometimes referred to as amateurs,[7] though some earn money. Professional skaters include those who have lost their ISU eligibility and those who perform only in shows. They may include former Olympic and World champions who have ended their competitive career as well as skaters with little or no international competitive experience.
+The term "professional" in skating refers not to skill level but competitive status. Figure skaters competing at the highest levels of international competition are not "professional" skaters. They are sometimes referred to as amateurs,[7] though some earn money. Professional skaters include those who have lost their ISU eligibility and those who perform only in shows. They may include former Olympic and World champions who have ended their competitive career as well as skaters with little or no international competitive experience.
 
 In languages other than English, Japanese, Korean, Chinese, Italian, Polish and Russian, figure skating is usually referred to by a name that translates as "artistic skating."
 
 
 Figure skates
 
-Figure-skates-2.jpg
-
 The most visible difference in relation to ice hockey skates is that figure skates have a set of large, jagged teeth called _toe picks_ on the front part of the blade. These are used primarily in jumping and should not be used for stroking or spins. If used during a spin, the toe pick will cause the skater to lose momentum, or move away from the center of the spin. Blades are mounted to the sole and heel of the boot with screws. Typically, high-level figure skaters are professionally fitted for their boots and blades at a reputable skate shop. Professionals are also employed to sharpen blades to individual requirements.[8]
 
-Bundesarchiv_Bild_183-79630-0003,_Bodo_Bockenauer.jpg Blades are about 3/16 inch () thick. When viewed from the side, the blade of a figure skate is not flat, but curved slightly, forming an arc of a circle with a radius of . This curvature is referred to as the _rocker_ of the blade. The "sweet spot" is the part of the blade on which all spins are rotated; this is usually located near the stanchion of the blade, below the ball of the foot.[9] The blade is also "hollow ground"; a groove on the bottom of the blade creates two distinct edges, inside and outside. The INSIDE EDGE of the blade is on the side closest to the skater; the OUTSIDE EDGE of the blade is on the side farthest from the skater. In figure skating, it is always desirable to skate on only one edge of the blade. Skating on both at the same time (which is referred to as a _flat_) may result in lower skating skills scores. The apparently effortless power and glide across the ice exhibited by elite figure skaters fundamentally derives from efficient use of the edges to generate speed.
+Blades are about 3/16 inch () thick. When viewed from the side, the blade of a figure skate is not flat, but curved slightly, forming an arc of a circle with a radius of . This curvature is referred to as the _rocker_ of the blade. The "sweet spot" is the part of the blade on which all spins are rotated; this is usually located near the stanchion of the blade, below the ball of the foot.[9] The blade is also "hollow ground"; a groove on the bottom of the blade creates two distinct edges, inside and outside. The INSIDE EDGE of the blade is on the side closest to the skater; the OUTSIDE EDGE of the blade is on the side farthest from the skater. In figure skating, it is always desirable to skate on only one edge of the blade. Skating on both at the same time (which is referred to as a _flat_) may result in lower skating skills scores. The apparently effortless power and glide across the ice exhibited by elite figure skaters fundamentally derives from efficient use of the edges to generate speed.
 
 Ice dancers' blades are about an inch shorter in the rear than those used by skaters in other disciplines, to accommodate the intricate footwork and close partnering in dance. Dancers' blades also have a smaller toe pick as they do not require the large toe pick used for jumping in the other disciplines. Hard plastic _skate guards_ are used when the skater must walk in his or her skates when not on the ice, to protect the blade from dirt or material on the ground that may dull the blade. Soft blade covers called _soakers_ are used to absorb condensation and protect the blades from rust when the skates are not being worn. In competition, skaters are allowed three minutes to make repairs to their skates.
 
@@ -74,7 +72,7 @@ The four disciplines of men's singles, ladies' singles, pair skating and ice dan
 
 Other disciplines
 
-Marigold_IceUnity.jpg Haydenettes2013-01.jpg, 26-time U.S. national synchro champions]]
+, 26-time U.S. national synchro champions]]
 
 -   SYNCHRONIZED SKATING, formerly known as "precision skating", is for mixed-gender groups of between twelve and twenty figure skaters. This discipline resembles a group form of ice dance, with additional emphasis on precise formations of the group as a whole and complex transitions between formations. The basic formations include wheels, blocks, lines, circles, and intersections. The close formations, and the need for the team to stay in unison, add to the difficulty of the footwork performed by the skaters in these elements. A formal proposal for inclusion in the Olympics was submitted by the ISU to the International Olympic Committee (IOC) in September 2014.[21]
 -   ICE THEATRE, also known as "Theatre on Ice" (or "Ballet on Ice" in Europe), is a form of group skating that is less structured than synchronized skating and allows the use of theatrical costuming and props.
@@ -109,7 +107,7 @@ Jumps
 | A                  |
 +--------------------+
 
-Figure_Skating.webmhd.webm Jumps involve the skater leaping into the air and rotating rapidly to land after completing one or more rotations. There are many types of jumps, identified by the way the skater takes off and lands, as well as by the number of rotations that are completed.
+Jumps involve the skater leaping into the air and rotating rapidly to land after completing one or more rotations. There are many types of jumps, identified by the way the skater takes off and lands, as well as by the number of rotations that are completed.
 
 Each jump receives a score according to its base value and grade of execution (GOE).[25] Quality of execution, technique, height, speed, flow and ice coverage are considered by the judges. An _under-rotated_ jump (indicated by < ) is "missing rotation of more than ¼, but less than ½ revolution" and receives 70% of the base value. A _downgraded_ jump (indicated by <<) is "missing rotation of ½ revolution or more". A downgraded triple is treated as a double jump, while a downgraded double is treated as a single jump.
 
@@ -137,7 +135,7 @@ All of the above descriptions assume a counter-clockwise direction of rotation, 
 
 Edge jumps
 
-Axel_Paulsen_jump_without_text.svg Edge jumps use no toe assist, and include (in order of score value):
+Edge jumps use no toe assist, and include (in order of score value):
 
 1.  Salchow – the skater takes off backwards from the inside edge of the left (or right) foot, allowing the edge to come round, the opposite leg helps to launch the jump into the air.
 2.  Loop (also known as a Rittberger jump) – the skater takes off backwards from the outside edge of the right (or left) foot.
@@ -178,7 +176,7 @@ File:Yukina Ota 2003 NHK Trophy 2.jpg|Camel spin File:2011 Figure Skating WC Tom
 
 Lifts
 
-Maria_Mukhortova_and_Maxim_Trankov_at_2010_European_Championships_(3).jpg Lifts are a required element in pair skating and ice dance.
+Lifts are a required element in pair skating and ice dance.
 
 Pair lifts
 
@@ -244,7 +242,7 @@ The World Figure Sport Society, based in Lake Placid, NY, hosts an annual World 
 
 Competition format and scoring
 
-2012_WFSC_06d_452_Maylin_Hausch_Daniel_Wende.JPG Takahiko_Kozuka_with_Nobuo_Sato_kiss_&_cry_2008-2009_GPF.jpg waits for his marks with coach Nobuo Sato in the "Kiss and cry" area]] The ISU is the governing body for international competitions in figure skating, including the World Championships and the figure skating events at the Winter Olympic Games. Medals are awarded for overall results; the standard medals are gold for first place, silver for second, and bronze for third place. U.S. Figure Skating also awards pewter medals for fourth-place finishers in national events. Additionally, at the World, European, Four Continents, and World Junior Championships, the ISU awards _small medals_ for segment results (short and free program). A medal is generally attributed to only one country, even if a partnership is composed of skaters with different nationalities. A notable exception was the pair skating partnership between Ludowika Eilers and Walter Jakobsson; their 1910–11 medals were attributed to both Germany and Finland.[36] Beyond the early 20th century, no skaters have been allowed to represent two countries in the same competition.
+waits for his marks with coach Nobuo Sato in the "Kiss and cry" area]] The ISU is the governing body for international competitions in figure skating, including the World Championships and the figure skating events at the Winter Olympic Games. Medals are awarded for overall results; the standard medals are gold for first place, silver for second, and bronze for third place. U.S. Figure Skating also awards pewter medals for fourth-place finishers in national events. Additionally, at the World, European, Four Continents, and World Junior Championships, the ISU awards _small medals_ for segment results (short and free program). A medal is generally attributed to only one country, even if a partnership is composed of skaters with different nationalities. A notable exception was the pair skating partnership between Ludowika Eilers and Walter Jakobsson; their 1910–11 medals were attributed to both Germany and Finland.[36] Beyond the early 20th century, no skaters have been allowed to represent two countries in the same competition.
 
 In singles and pairs figure skating competition, competitors perform two programs: the short program, in which they complete a set of required elements consisting of jumps, spins and steps; and the free skate, also known as the _long program_, in which they have a slightly wider choice of elements. Under both the 6.0 system and the ISU Judging System, the judges consider the "complete package" when evaluating performances, i.e. the best jumper is not always placed first if the judges consider the difference in jumping execution to be outweighed by another skater's speed, spins, presentation, etc.[37][38]
 
@@ -305,8 +303,6 @@ Skaters and couples also have PERSONAL BEST (PB) scores, i.e. the highest scores
 
 
 Music and clothing
-
-2012_WFSC_04d_575_Tessa_Virtue_Scott_Moir.JPG
 
 Music
 
@@ -372,11 +368,11 @@ Figure skaters occasionally have positive doping results but it is not common.[1
 
 History
 
-Jackson_Haines2.jpg, considered to be the father of modern figure skating.]] Although people have been ice skating for centuries, figure skating in its current form originated in the mid-19th century. _A Treatise on Skating_ (1772) by Englishman Robert Jones, is the first known account of figure skating. Competitions were then held in the "English style" of skating, which was stiff and formal and bore very little resemblance to modern figure skating. Before the changes in figure skating techniques, there were a limited number of moves that could be performed. This was true in the mid-1800s but was later changed by American skater Jackson Haines, who was considered to be the "father of modern figure skating". He introduced a new style of skating in the mid-1860s, incorporating free and expressive techniques, which became known as the "international style." Although popular in Europe, Haines' international style of skating was not widely adopted in the United States until long after his death.[137]
+, considered to be the father of modern figure skating.]] Although people have been ice skating for centuries, figure skating in its current form originated in the mid-19th century. _A Treatise on Skating_ (1772) by Englishman Robert Jones, is the first known account of figure skating. Competitions were then held in the "English style" of skating, which was stiff and formal and bore very little resemblance to modern figure skating. Before the changes in figure skating techniques, there were a limited number of moves that could be performed. This was true in the mid-1800s but was later changed by American skater Jackson Haines, who was considered to be the "father of modern figure skating". He introduced a new style of skating in the mid-1860s, incorporating free and expressive techniques, which became known as the "international style." Although popular in Europe, Haines' international style of skating was not widely adopted in the United States until long after his death.[137]
 
 Early 1900s
 
-Special_figures_by_Panin.svg by Nikolai Panin at the 1908 Olympics ]]
+by Nikolai Panin at the 1908 Olympics ]]
 
 The ISU was founded in 1892. The first European Championships were held in 1891, and the first World Championships were held in 1896 and won by Gilbert Fuchs. Only men competed in these events. In 1902, a woman, Madge Syers, entered the World competition for the first time, finishing second. The ISU quickly banned women from competing against men, but established a separate competition for "ladies" in 1906. Pair skating was introduced at the 1908 World Championships, where the title was won by Anna Hübler and Heinrich Burger. Figure skating was the first winter sport introduced to the Olympics; its Olympic debut came at the 1908 Summer Olympics.[138][139]
 
@@ -388,7 +384,7 @@ After World War II
 
 Skating competitions were again interrupted for several years by World War II. After the war, with many European rinks in ruins, skaters from the United States and Canada began to dominate international competitions and to introduce technical innovations to the sport. Dick Button, 1948 and 1952 Olympic Champion, was the first skater to perform the double axel and triple loop jumps, as well as the flying camel spin.
 
-The World Figure Skating Championships did not include ice dance until 1952.[141] In its early years, ice dance was dominated by British skaters, and until 1960 the world title was won every year by a British couple, beginning with Jean Westwood and Lawrence Demmy.[142] Bundesarchiv_Bild_183-G0313-0017-001,_Ludmilla_Beloussowa,_Oleg_Protopopow.jpg and Oleg Protopopov in 1968]] On February 15, 1961, the entire U.S. figure skating team and their coaches were killed in the crash of Sabena Flight 548 in Brussels, Belgium en route to the World Championships in Prague. This tragedy sent the U.S. skating program into a period of rebuilding.
+The World Figure Skating Championships did not include ice dance until 1952.[141] In its early years, ice dance was dominated by British skaters, and until 1960 the world title was won every year by a British couple, beginning with Jean Westwood and Lawrence Demmy.[142] and Oleg Protopopov in 1968]] On February 15, 1961, the entire U.S. figure skating team and their coaches were killed in the crash of Sabena Flight 548 in Brussels, Belgium en route to the World Championships in Prague. This tragedy sent the U.S. skating program into a period of rebuilding.
 
 Meanwhile, the Soviet Union rose to become a dominant force in the sport, especially in the disciplines of pair skating and ice dance. At every Winter Olympics from 1964 until 2006, a Soviet or Russian pair won gold in pair skating, in what is often considered to be one of the longest winning streaks in modern sports history.[143][144][145] The 1967 World Championships was the last event held on an outdoor rink.[146]
 
@@ -411,7 +407,7 @@ Four skating has mostly disappeared while synchronized skating, singles/pair ska
 
 In popular culture
 
-Jayne_Torvill_and_Christopher_Dean_-_Dancing_on_Ice_2011.jpg on _Dancing on Ice_]] In 1937, Sonja Henie appeared in the film _Thin Ice_. Figure skating has been the focus of several later Hollywood films, including _The Cutting Edge_ (and its sequels, _The Cutting Edge: Going for the Gold_, _The Cutting Edge: Chasing the Dream_ and _The Cutting Edge: Fire and Ice_), _Ice Princess_, _Ice Castles_, _Ice Angel_, _Go Figure_, _Blades of Glory_, and _I, Tonya_. Olympic champion Brian Boitano was parodied in _South Park: Bigger, Longer & Uncut_ in the song "What Would Brian Boitano Do?".
+on _Dancing on Ice_]] In 1937, Sonja Henie appeared in the film _Thin Ice_. Figure skating has been the focus of several later Hollywood films, including _The Cutting Edge_ (and its sequels, _The Cutting Edge: Going for the Gold_, _The Cutting Edge: Chasing the Dream_ and _The Cutting Edge: Fire and Ice_), _Ice Princess_, _Ice Castles_, _Ice Angel_, _Go Figure_, _Blades of Glory_, and _I, Tonya_. Olympic champion Brian Boitano was parodied in _South Park: Bigger, Longer & Uncut_ in the song "What Would Brian Boitano Do?".
 
 In 2006, _Dancing on Ice_ began broadcasting in the UK. The show involves celebrities and their professional partners figure skating in front of a panel of judges. The judges have included British Olympic gold medalists Torvill and Dean and double Olympic champion Katarina Witt. The show has since been exported to eight other countries around the world.
 

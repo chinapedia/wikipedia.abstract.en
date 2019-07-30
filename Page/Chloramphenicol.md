@@ -114,7 +114,7 @@ Chloramphenicol is available as a generic worldwide under many brandnames[58] an
 
 Formulations
 
-Sample_of_Chloramphenicol.jpg Chloramphenicol is available as a capsule or as a liquid. In some countries, it is sold as chloramphenicol palmitate ester (CPE). CPE is inactive, and is hydrolysed to active chloramphenicol in the small intestine. No difference in bioavailability is noted between chloramphenicol and CPE.
+Chloramphenicol is available as a capsule or as a liquid. In some countries, it is sold as chloramphenicol palmitate ester (CPE). CPE is inactive, and is hydrolysed to active chloramphenicol in the small intestine. No difference in bioavailability is noted between chloramphenicol and CPE.
 
 Manufacture of oral chloramphenicol in the U.S. stopped in 1991, because the vast majority of chloramphenicol-associated cases of aplastic anaemia are associated with the oral preparation. No oral formulation of chloramphenicol is now available in the U.S.
 

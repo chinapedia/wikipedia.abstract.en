@@ -23,8 +23,6 @@ Indonesia has a long list of print media, in the form of newspapers and magazine
 
 Telephone
 
-Switchboard_operators,_Wanita_di_Indonesia_p98_(Ministry_of_Information).jpg
-
 -   Telephones - main lines in use: 9.99 million (2004)
 -   Telephones - mobile cellular: At the end of 2010, the mobile cellular penetration rate was 67 percent (22 percent at end of 2006).[1] CDMA use is declining in favour of GSM.[2]
 -   Telephone system: domestic service fair, international service good
@@ -32,8 +30,6 @@ Switchboard_operators,_Wanita_di_Indonesia_p98_(Ministry_of_Information).jpg
     -   international: satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean)
 
 Radio
-
-Jakarta_youths_on_radio,_Wanita_di_Indonesia_p70_(Ministry_of_Information).jpg
 
 -   Radio broadcast stations: AM 678, FM 43, shortwave 82 (1998)
 -   Radios: 31.5 million (1997)

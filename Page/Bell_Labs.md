@@ -15,7 +15,7 @@ It focused on the analysis, recording, and transmission of sound. Bell used his 
 
 In 1893, Bell constructed a new building close by at 1537 35th Street N.W., specifically to house the lab.[7] This building was declared a National Historic Landmark in 1972.[8][9][10]
 
-After the invention of the telephone, Bell maintained a relatively distant role with the Bell System as a whole, but continued to pursue his own personal research interests.[11]Volta_Laboratory_and_Bureau_nw22.jpg
+After the invention of the telephone, Bell maintained a relatively distant role with the Bell System as a whole, but continued to pursue his own personal research interests.[11]
 
 Early antecedent
 
@@ -31,7 +31,7 @@ In 1884, the American Bell Telephone Company created the Mechanical Department f
 
 Formal organization and location changes
 
-Bell_Laboratories_West_Street.jpg In 1896, Western Electric bought property at 463 West Street to station their manufacturers and engineers who had been supplying AT&T with their product. This included everything from telephones, telephone exchange switches, and transmission equipment.
+In 1896, Western Electric bought property at 463 West Street to station their manufacturers and engineers who had been supplying AT&T with their product. This included everything from telephones, telephone exchange switches, and transmission equipment.
 
 In 1925, Bell Laboratories was developed to better consolidate the research activities of the Bell System. Ownership was evenly split between Western Electric and AT&T. Throughout the next decade the AT&T Research and Development branch moved into West Street.
 
@@ -43,14 +43,14 @@ Among the later Bell Laboratories locations in New Jersey were Holmdel, Crawford
 
 The largest grouping of people in the company was in Illinois, at Naperville-Lisle, in the Chicago area, which had the largest concentration of employees (about 11,000) prior to 2001. There also were groups of employees in Indianapolis, Indiana; Columbus, Ohio; North Andover, Massachusetts; Allentown, Pennsylvania; Reading, Pennsylvania; and Breinigsville, Pennsylvania; Burlington, North Carolina (1950s–1970s, moved to Greensboro 1980s) and Westminster, Colorado. Since 2001, many of the former locations have been scaled down or closed.
 
-Bell_Labs_Holmdel.jpg. Located in New Jersey, about 20 miles south of New York.]]
+. Located in New Jersey, about 20 miles south of New York.]]
 
 The Holmdel site, a 1.9 million square foot structure set on 473 acres, was closed in 2007. The mirrored-glass building was designed by Eero Saarinen. In August 2013, Somerset Development bought the building, intending to redevelop it into a mixed commercial and residential project. A 2012 article expressed doubt on the success of the newly named Bell Works site[18] however several large tenants had announced plans to move in through 2016 and 2017 [19][20]
 
 
 Discoveries and developments
 
-Bell_Laboratories_logo.svg Bell Laboratories was, and is, regarded by many as the premier research facility of its type, developing a wide range of revolutionary technologies, including radio astronomy, the transistor, the laser, information theory, the operating system Unix, the programming languages C and C++, solar cells, the CCD, floating-gate MOSFET, and a whole host of optical, wireless and wired communications technologies and systems.
+Bell Laboratories was, and is, regarded by many as the premier research facility of its type, developing a wide range of revolutionary technologies, including radio astronomy, the transistor, the laser, information theory, the operating system Unix, the programming languages C and C++, solar cells, the CCD, floating-gate MOSFET, and a whole host of optical, wireless and wired communications technologies and systems.
 
 1920s
 
@@ -62,13 +62,13 @@ In 1927, a Bell team headed by Herbert E. Ives successfully transmitted long-dis
 
 1930s
 
-Green_Banks_-_Jansky_Antena.jpg at Bell Telephone Laboratories in 1932]]
+at Bell Telephone Laboratories in 1932]]
 
 In 1931, a foundation for radio astronomy was laid by Karl Jansky during his work investigating the origins of static on long-distance shortwave communications. He discovered that radio waves were being emitted from the center of the galaxy. In 1931 and 1932, experimental high fidelity, long playing, and even stereophonic recordings were made by the labs of the Philadelphia Orchestra, conducted by Leopold Stokowski.[22] In 1933, stereo signals were transmitted live from Philadelphia to Washington, D.C. In 1937, the vocoder, an electronic speech compression device, or codec, and the Voder, the first electronic speech synthesizer, were developed and demonstrated by Homer Dudley, the Voder being demonstrated at the 1939 New York World's Fair. Bell researcher Clinton Davisson shared the Nobel Prize in Physics with George Paget Thomson for the discovery of electron diffraction, which helped lay the foundation for solid-state electronics.
 
 1940s
 
-Replica-of-first-transistor.jpg, a point-contact germanium device, was invented at Bell Laboratories in 1947. This image shows a replica.]]
+, a point-contact germanium device, was invented at Bell Laboratories in 1947. This image shows a replica.]]
 
 In the early 1940s, the photovoltaic cell was developed by Russell Ohl. In 1943, Bell developed SIGSALY, the first digital scrambled speech transmission system, used by the Allies in World War II. The British wartime codebreaker Alan Turing visited the labs at this time, working on speech encryption and meeting Claude Shannon.[23]
 
@@ -97,11 +97,9 @@ The 1950s also saw developmental activity based upon information theory. The cen
 
 1960s
 
-Nobel_Prize_2009-Press_Conference_KVA-19.jpg In December 1960, Ali Javan and his associates William Bennett and Donald Heriot successfully operated the first gas laser, the first continuous-light laser, operating at an unprecedented accuracy and color purity. Also in 1960, Dawon Kahng and Martin Atalla invented the metal oxide semiconductor field-effect transistor (MOSFET); the MOSFET has achieved electronic hegemony and sustains the large-scale integrated circuits (LSIs) underlying today's information society. In 1962, the electret microphone was invented by Gerhard M. Sessler and James Edward Maceo West. Also in 1962, John R. Pierce's vision of communications satellites was realized by the launch of Telstar. In 1964, the Carbon dioxide laser was invented by Kumar Patel. In 1965, Penzias and Wilson discovered the cosmic microwave background, for which they were awarded the Nobel Prize in Physics in 1978. Frank W. Sinden, Edward E. Zajac, Kenneth C. Knowlton, and A. Michael Noll made computer-animated movies during the early to mid-1960s. Ken C. Knowlton invented the computer animation language BEFLIX. The first digital computer art was created in 1962 by Noll. In 1966, Orthogonal frequency-division multiplexing (OFDM), a key technology in wireless services, was developed and patented by R. W. Chang. In 1968, Molecular beam epitaxy was developed by J.R. Arthur and A.Y. Cho; molecular beam epitaxy allows semiconductor chips and laser matrices to be manufactured one atomic layer at a time. In 1969, Dennis Ritchie and Ken Thompson created the computer operating system UNIX for the support of telecommunication switching systems as well as general purpose computing. From 1969 to 1971, Aaron Marcus, the first graphic designer involved with computer graphics, researched, designed, and programmed a prototype interactive page-layout system for the Picturephone. In 1969, the charge-coupled device (CCD) was invented by Willard Boyle and George E. Smith, for which they were awarded the Nobel Prize in Physics in 2009. In the 1960s, the New York City site was sold and became the Westbeth Artists Community complex.
+In December 1960, Ali Javan and his associates William Bennett and Donald Heriot successfully operated the first gas laser, the first continuous-light laser, operating at an unprecedented accuracy and color purity. Also in 1960, Dawon Kahng and Martin Atalla invented the metal oxide semiconductor field-effect transistor (MOSFET); the MOSFET has achieved electronic hegemony and sustains the large-scale integrated circuits (LSIs) underlying today's information society. In 1962, the electret microphone was invented by Gerhard M. Sessler and James Edward Maceo West. Also in 1962, John R. Pierce's vision of communications satellites was realized by the launch of Telstar. In 1964, the Carbon dioxide laser was invented by Kumar Patel. In 1965, Penzias and Wilson discovered the cosmic microwave background, for which they were awarded the Nobel Prize in Physics in 1978. Frank W. Sinden, Edward E. Zajac, Kenneth C. Knowlton, and A. Michael Noll made computer-animated movies during the early to mid-1960s. Ken C. Knowlton invented the computer animation language BEFLIX. The first digital computer art was created in 1962 by Noll. In 1966, Orthogonal frequency-division multiplexing (OFDM), a key technology in wireless services, was developed and patented by R. W. Chang. In 1968, Molecular beam epitaxy was developed by J.R. Arthur and A.Y. Cho; molecular beam epitaxy allows semiconductor chips and laser matrices to be manufactured one atomic layer at a time. In 1969, Dennis Ritchie and Ken Thompson created the computer operating system UNIX for the support of telecommunication switching systems as well as general purpose computing. From 1969 to 1971, Aaron Marcus, the first graphic designer involved with computer graphics, researched, designed, and programmed a prototype interactive page-layout system for the Picturephone. In 1969, the charge-coupled device (CCD) was invented by Willard Boyle and George E. Smith, for which they were awarded the Nobel Prize in Physics in 2009. In the 1960s, the New York City site was sold and became the Westbeth Artists Community complex.
 
 1970s
-
-The_C_Programming_Language_logo.svg
 
 The 1970s and 1980s saw more and more computer-related inventions at the Bell Laboratories as part of the personal computing revolution. In 1972, Dennis Ritchie developed the compiled programming language C as a replacement for the interpreted language B which was then used in a worse is better rewrite of UNIX. Also, the language AWK was designed and implemented by Alfred Aho, Peter Weinberger, and Brian Kernighan of Bell Laboratories. In 1972, Marc Rochkind invented the Source Code Control System.
 
@@ -111,8 +109,6 @@ The 1970s also saw a major central office technology evolve from crossbar electr
 
 1980s
 
-Bell_Labs_logo,_1984-1995.png
-
 In 1980, the TDMA and CDMA digital cellular telephone technology was patented. In 1982, Fractional quantum Hall effect was discovered by Horst Störmer and former Bell Laboratories researchers Robert B. Laughlin and Daniel C. Tsui; they consequently won a Nobel Prize in 1998 for the discovery. In 1985,[35] the programming language C++ had its first commercial release.[36] Bjarne Stroustrup started developing C++ at Bell Laboratories in 1979 as an extension to the original C language.[37]
 
 In 1984, the first photoconductive antennas for picosecond electromagnetic radiation were demonstrated by Auston and others. This type of antenna became an important component in terahertz time-domain spectroscopy. In 1984, Karmarkar's algorithm for linear programming was developed by mathematician Narendra Karmarkar. Also in 1984, a divestiture agreement signed in 1982 with the American Federal government forced the break-up of AT&T: Bellcore (now Telcordia Technologies) was split off from Bell Laboratories to provide the same R&D functions for the newly created local exchange carriers. AT&T also was limited to using the Bell trademark only in association with Bell Laboratories. _Bell Telephone Laboratories, Inc._ became a wholly owned company of the new AT&T Technologies unit, the former Western Electric. The 5ESS Switch was developed during this transition. In 1985, laser cooling was used to slow and manipulate atoms by Steven Chu and team. In 1985, the modeling language _A Mathematical Programming Language_ AMPL was developed by Robert Fourer, David M. Gay and Brian Kernighan at Bell Laboratories. Also in 1985, Bell Laboratories was awarded the National Medal of Technology "For contribution over decades to modern communication systems". During the 1980s, the operating system _Plan 9 from Bell Labs_ was developed extending the UNIX model. Also, the Radiodrum, an electronic music instrument played in three space dimensions was invented. In 1988, TAT-8 became the first transatlantic fiber-optic cable. Bell Labs in Freehold, NJ developed the 1.3-micron fiber, cable, splicing, laser detector, and 280 Mbit/s repeater for 40,000 telephone-call capacity.
@@ -121,8 +117,6 @@ Arthur Ashkin invented optical tweezers that grab particles, atoms, viruses and 
 
 1990s
 
-Lucent_Technologies_logo.svg
-
 In 1991, the 56K modem technology was patented by Nuri Dağdeviren and his team. In 1994, the quantum cascade laser was invented by Federico Capasso, Alfred Cho, Jerome Faist and their collaborators. Also in 1994, Peter Shor devised his quantum factorization algorithm. In 1996, SCALPEL electron lithography, which prints features atoms wide on microchips, was invented by Lloyd Harriott and his team. The operating system Inferno, an update of Plan 9, was created by Dennis Ritchie with others, using the then-new concurrent programming language Limbo. A high performance database engine (Dali) was developed which became DataBlitz in its product form.[39]
 
 In 1996, AT&T spun off Bell Laboratories, along with most of its equipment manufacturing business, into a new company named Lucent Technologies. AT&T retained a small number of researchers who made up the staff of the newly created AT&T Labs.
@@ -130,8 +124,6 @@ In 1996, AT&T spun off Bell Laboratories, along with most of its equipment manuf
 In 1997, the smallest then-practical transistor (60 nanometers, 182 atoms wide) was built. In 1998, the first optical router was invented.
 
 2000s
-
-Alcatel_Lucent_Logo.svg
 
 2000 was an active year for the Laboratories, in which DNA machine prototypes were developed; progressive geometry compression algorithm made widespread 3-D communication practical; the first electrically powered organic laser invented; a large-scale map of cosmic dark matter was compiled, and the F-15 (material), an organic material that makes plastic transistors possible, was invented.
 
@@ -153,7 +145,7 @@ In 2009, Willard Boyle and George Smith were awarded the Nobel Prize in Physics 
 
 2010s
 
-Nokia_Bell_Labs_sign.jpg Gee Rittenhouse, former Head of Research, returned from his position as Chief Operating Officer of Alcatel-Lucent's Software, Services, and Solutions business in February 2013, to become the 12th President of Bell Labs.[44]
+Gee Rittenhouse, former Head of Research, returned from his position as Chief Operating Officer of Alcatel-Lucent's Software, Services, and Solutions business in February 2013, to become the 12th President of Bell Labs.[44]
 
 On 4 November 2013, Alcatel-Lucent announced the appointment of Marcus Weldon as President of Bell Labs. His stated charter was to return Bell Labs to the forefront of innovation in Information and communications technology by focusing on solving the key industry challenges, as was the case in the great Bell Labs innovation eras in the past.[45]
 
@@ -207,68 +199,68 @@ The Turing Award has been won four times by Bell Labs researchers.
 
 Notable alumni
 
-                                                            Alumni                   Notes
-  --------------------------------------------------------- ------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Arno_Penzias.jpg                                          Arno Allan Penzias       Discovered background radiation, with Robert W. Wilson, originating from the Big Bang and won the Nobel Prize in 1978 for the discovery.
-                                                            Arthur Ashkin            Has been considered as the father of the topical field of optical tweezers, for which he was awarded the Nobel Prize in Physics 2018.
-                                                            Bishnu Atal              Developed new speech processing and encoding algorithms, including fundamental work on linear prediction of speech and the development of code-excited linear prediction (CELP) speech encoding, the basis for all speech communication codecs in mobile and Internet voice communications.
-  BjarneStroustrup.jpg                                      Bjarne Stroustrup        Was the head of Bell Labs Large-scale Programming Research department, from its creation until late 2002 and created the C++ programming language.
-  Brian_Kernighan_in_2012_at_Bell_Labs_2.jpg                Brian Kernighan          Helped create Unix, AWK, AMPL, and The C Programming Language (book)
-                                                            Claire F. Gmachl         Developed novel designs for solid-state lasers leading to advances in the development of quantum cascade lasers.
-  ClaudeShannon_MFO3807.jpg                                 Claude Shannon           Founded information theory with the publishing of A Mathematical Theory of Communication in 1948. He is perhaps equally well known for founding both digital computer and digital circuit design theory in 1937, when, as a 21-year-old master's degree student at the Massachusetts Institute of Technology (MIT), he wrote his thesis demonstrating that electrical applications of Boolean algebra could construct any logical, numerical relationship.[63] Shannon contributed to the field of cryptanalysis for national defense during World War II, including his basic work on codebreaking and secure telecommunications. For two months early in 1943, Shannon came into contact with the leading British cryptanalyst and mathematician Alan Turing. Shannon and Turing met at teatime in the cafeteria.[64] Turing showed Shannon his 1936 paper that defined what is now known as the "Universal Turing machine";[65][66] this impressed Shannon, as many of its ideas complemented his own.
-  Clinton_Davisson.jpg                                      Clinton Davisson         Davisson and Lester Germer performed an experiment showing that electrons were diffracted at the surface of a crystal of nickel. This celebrated Davisson-Germer experiment confirmed the de Broglie hypothesis that particles of matter have a wave-like nature, which is a central tenet of quantum mechanics. Their observation of diffraction allowed the first measurement of a wavelength for electrons. He shared the Nobel Prize in 1937 with George Paget Thomson, who independently discovered electron diffraction at about the same time as Davisson.
-                                                            Corinna Cortes           Head of Google Research, New York.
-  Daniel_Chee_Tsui.jpg                                      Daniel Tsui              Along with Robert Laughlin and Horst Störmer discovered new form of quantum fluid.
-  Stanford2010DavidMiller.png                               David A. B. Miller
-  Dennis_Ritchie_2011.jpg                                   Dennis Ritchie           Created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system.
-                                                            Donald Cox               Received the IEEE Alexander Graham Bell Medal (1993)
-                                                            Elizabeth Bailey         Worked in technical programming at Bell Laboratories from 1960 to 1972, before transferring to the economic research section from 1972 to 1977.
-                                                            Eric Betzig              An American physicist who worked to develop the field of fluorescence microscopy and photoactivated localization microscopy. He was awarded the 2014 Nobel Prize in Chemistry for "the development of super-resolved fluorescence microscopy" along with Stefan Hell and fellow Cornell alumnus William E. Moerner.
-  Eric_Schmidt_at_the_37th_G8_Summit_in_Deauville_037.jpg   Eric Schmidt             Did a complete re-write with Mike Lesk of Lex, a program to generate lexical analysers for the Unix computer operating system.
-                                                            Erna Schneider Hoover    Invented the computerized telephone switching method.
-                                                            Esther M. Conwell        Studied effects of high electric fields on electron transport in semiconductors, member of the National Academy of Engineering, National Academy of Sciences, and the American Academy of Arts and Sciences.
-                                                            Evelyn Hu                Pioneer in the fabrication of nanoscale electronic and photonic devices.
-  Nobel_Prize_2009-Press_Conference_KVA-27.jpg              George E. Smith          Led research into novel lasers and semiconductor devices. During his tenure, Smith was awarded dozens of patents and eventually headed the VLSI device department. George E. Smith shared the 2009 Nobel Prize in Physics with Willard Boyle for "the invention of an imaging semiconductor circuit—the CCD sensor, which has become an electronic eye in almost all areas of photography".[67]
-                                                            Gil Amelio               Amelio was on the team that demonstrated the first working charge-coupled device (CCD). Worked at Fairchild Semiconductor, and the semiconductor division of Rockwell International but is best remembered as a CEO of National Semiconductor and Apple Inc.
-                                                            Harvey Fletcher          "father of stereophonic sound". As Director of Research at Bell Labs, he oversaw research in electrical sound recording, including more than 100 stereo recordings with conductor Leopold Stokowski in 1931–1932.[68][69]
-  Horst_Störmer.jpg                                         Horst Ludwig Störmer     Along with Robert Laughlin and Daniel Tsui discovered new form of quantum fluid.
-  Hopcrofg.jpg                                              John Hopcroft            Received the Turing Award jointly with Robert Tarjan in 1986 for fundamental achievements in the design and analysis of algorithms and data structures.
-  Ingrid_Daubechies_(2005).jpg                              Ingrid Daubechies        Developed the orthogonal Daubechies wavelet and the biorthogonal Cohen–Daubechies–Feauveau wavelet. She is best known for her work with wavelets in image compression and digital cinema.
-                                                            Jessie MacWilliams       Developed the MacWilliams identities in coding theory.
-                                                            John Mashey              Worked on the PWB/UNIX operating system at Bell Labs from 1973 to 1983, authoring the PWB shell, also known as the "Mashey Shell".[70]
-                                                            John M. Chambers         Developed the statistical programming language S which is the forerunner to R.
-  Bardeen.jpg                                               John Bardeen             With William Shockley and Walter Brattain, the three scientists invented the point-contact transistor in 1947 and were jointly awarded the 1956 Nobel Prize in Physics.
-  2015-03-19_Jon_Hall_by_Olaf_Kosinsky-4.jpg                Jon Hall                 Executive Director of Linux International,[71]
-  Ken_Thompson_and_Dennis_Ritchie.jpg                       Ken Thompson             designed and implemented the original Unix operating system. He also invented the B programming language, the direct predecessor to the C programming language, and was one of the creators and early developers of the Plan 9 operating systems. Since 2006, Thompson has worked at Google, where he co-invented the Go programming language.
-                                                            Laurie Spiegel           Electronic musician and engineer known for developing the algorithmic composition software Music Mouse.
-                                                            Margaret H. Wright       Pioneer in numerical computing and mathematical optimization, head of the Scientific Computing Research Department and Bell Labs Fellow, president of the Society for Industrial and Applied Mathematics.
-                                                            Max Mathews              wrote MUSIC, the first widely used program for sound generation, in 1957.
-                                                            Narendra Karmarkar       Developed Karmarkar's algorithm.
-                                                            Osamu Fujimura           Japanese physicist, phonetician and linguist, recognized as one of the pioneers of speech science. Invented the C/D model of speech articulation.
-  Persi_Diaconis_2010.jpg                                   Persi Diaconis           Known for tackling mathematical problems involving randomness and randomization, such as coin flipping and shuffling playing cards.
-  Andersonphoto.jpg                                         Philip Warren Anderson   In 1977 Anderson was awarded the Nobel Prize in Physics for his investigations into the electronic structure of magnetic and disordered systems, which allowed for the development of electronic switching and memory devices in computers.
-                                                            Phyllis Fox              Co-wrote the DYNAMO simulation programming language, principal author of the first LISP manual, and developed the PORT Mathematical Subroutine Library.
-                                                            Richard Hamming          Created a family of mathematical error-correcting code, which are called Hamming codes. Programmed one of the earliest computers, the IBM 650, and with Ruth A. Weiss developed the L2 programming language, one of the earliest computer languages, in 1956.
-  Robert_Laughlin,_Stanford_University.jpg                  Robert Laughlin          Along with Horst Störmer and Daniel Tsui discovered new form of quantum fluid.
-  Rob-pike-oscon.jpg                                        Rob Pike                 A member of the Unix team and was involved in the creation of the Plan 9 and Inferno operating systems, as well as the Limbo programming language. Co-authored the books The Unix Programming Environment and The Practice of Programming with Brian Kernighan. Co-created the UTF-8 character encoding standard with Ken Thompson, the Blit graphical terminal with Bart Locanthi Jr. and the sam and acme text editors. Pike has worked at Google, where he co-created the Go and Sawzall programming languages.
-  Bob_Tarjan.jpg                                            Robert Tarjan            Received the Turing Award jointly with John Hopcroft in 1986 for fundamental achievements in the design and analysis of algorithms and data structures.
-  Wilson_penzias200.jpg                                     Robert W. Wilson         Discovered background radiation, with Arno Allan Penzias, originating from the Big Bang and won the Nobel Prize in 1978 for that.
-  Steve_Bourne_at_SDWest2005.hires.jpg                      Steve Bourne             Created the Bourne shell, the adb debugger and authored the book The Unix System. He also served as president of the Association for Computing Machinery (ACM) (2000-2002), was made a fellow of the ACM (2005), received the ACM Presidential Award (2008) and the Outstanding Contribution to ACM Award (2017).
-  Professor_Steven_Chu_ForMemRS_headshot.jpg                Steven Chu               known for his research at Bell Labs and Stanford University in cooling and trapping of atoms with laser light, which won him the Nobel Prize in Physics in 1997, along with his scientific colleagues Claude Cohen-Tannoudji and William Daniel Phillips.[72]
-                                                            Steven Cundiff           Was instrumental in the development of the first frequency comb that led to one half of the 2005 Nobel prize.[73] Also made significant contributions to the ultrafast dynamics of semiconductor nanostructures, including the 2014 discovery of the dropleton quasi-particle.[74]
-                                                            Stuart Feldman           Creator of the computer software program make for UNIX systems. He was also an author of the first Fortran 77 compiler, and he was part of the original group at Bell Labs that created the Unix operating system.[75]
-  TrevorHastiePic.jpg                                       Trevor Hastie            Known for his contributions to applied statistics, especially in the field of machine learning, data mining, and bioinformatics.
-                                                            Zhenan Bao               Development of the first all plastic transistor, or organic field-effect transistors which allows for its use in electronic paper.[76]
-  Brattain.jpg                                              Walter Houser Brattain   With fellow scientists John Bardeen and William Shockley, invented the point-contact transistor in December, 1947.[77] They shared the 1956 Nobel Prize in Physics for their invention.
-  Nobel_Prize_2009-Press_Conference_KVA-23.jpg              Willard Boyle            share the 2009 Nobel Prize in Physics with George E. Smith for "the invention of an imaging semiconductor circuit—the CCD sensor, which has become an electronic eye in almost all areas of photography".
-                                                            William B. Snow          made major contributions to acoustics from 1923–1940. Fellow of the Audio Engineering Society (AES), received its Gold Medal Award in 1968.
-  William_Shockley,_Stanford_University.jpg                 William Shockley         With John Bardeen and Walter Brattain, the three scientists invented the point-contact transistor in 1947 and were jointly awarded the 1956 Nobel Prize in Physics.
-                                                            Yann LeCun               Recognized as a founding father of convolutional neural networks and for work on optical character recognition and computer vision. He received the Turing Award in 2018 with Geoffrey Hinton and Yoshua Bengio for their work in deep learning.
-                                                            Yoshua Bengio            He received the Turing Award in 2018 with Geoffrey Hinton and Yann LeCun for their work in deep learning.
-  Edward_Lawry_Norton.jpg                                   Edward Lawry Norton      Famous for the Norton's theorem.
-                                                            Maurice Karnaugh         Famous for the Karnaugh map.
-                                                            Warren P. Mason          Founder of distributed element circuits, inventor of the GT quartz crystal, and many discoveries and inventions in ultrasonics and acoustics.
-                                                            Sharon Haynie            Developed DuPont's bio-3G product line and adhesives to close wounds.
+     Alumni                   Notes
+  -- ------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     Arno Allan Penzias       Discovered background radiation, with Robert W. Wilson, originating from the Big Bang and won the Nobel Prize in 1978 for the discovery.
+     Arthur Ashkin            Has been considered as the father of the topical field of optical tweezers, for which he was awarded the Nobel Prize in Physics 2018.
+     Bishnu Atal              Developed new speech processing and encoding algorithms, including fundamental work on linear prediction of speech and the development of code-excited linear prediction (CELP) speech encoding, the basis for all speech communication codecs in mobile and Internet voice communications.
+     Bjarne Stroustrup        Was the head of Bell Labs Large-scale Programming Research department, from its creation until late 2002 and created the C++ programming language.
+     Brian Kernighan          Helped create Unix, AWK, AMPL, and The C Programming Language (book)
+     Claire F. Gmachl         Developed novel designs for solid-state lasers leading to advances in the development of quantum cascade lasers.
+     Claude Shannon           Founded information theory with the publishing of A Mathematical Theory of Communication in 1948. He is perhaps equally well known for founding both digital computer and digital circuit design theory in 1937, when, as a 21-year-old master's degree student at the Massachusetts Institute of Technology (MIT), he wrote his thesis demonstrating that electrical applications of Boolean algebra could construct any logical, numerical relationship.[63] Shannon contributed to the field of cryptanalysis for national defense during World War II, including his basic work on codebreaking and secure telecommunications. For two months early in 1943, Shannon came into contact with the leading British cryptanalyst and mathematician Alan Turing. Shannon and Turing met at teatime in the cafeteria.[64] Turing showed Shannon his 1936 paper that defined what is now known as the "Universal Turing machine";[65][66] this impressed Shannon, as many of its ideas complemented his own.
+     Clinton Davisson         Davisson and Lester Germer performed an experiment showing that electrons were diffracted at the surface of a crystal of nickel. This celebrated Davisson-Germer experiment confirmed the de Broglie hypothesis that particles of matter have a wave-like nature, which is a central tenet of quantum mechanics. Their observation of diffraction allowed the first measurement of a wavelength for electrons. He shared the Nobel Prize in 1937 with George Paget Thomson, who independently discovered electron diffraction at about the same time as Davisson.
+     Corinna Cortes           Head of Google Research, New York.
+     Daniel Tsui              Along with Robert Laughlin and Horst Störmer discovered new form of quantum fluid.
+     David A. B. Miller
+     Dennis Ritchie           Created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system.
+     Donald Cox               Received the IEEE Alexander Graham Bell Medal (1993)
+     Elizabeth Bailey         Worked in technical programming at Bell Laboratories from 1960 to 1972, before transferring to the economic research section from 1972 to 1977.
+     Eric Betzig              An American physicist who worked to develop the field of fluorescence microscopy and photoactivated localization microscopy. He was awarded the 2014 Nobel Prize in Chemistry for "the development of super-resolved fluorescence microscopy" along with Stefan Hell and fellow Cornell alumnus William E. Moerner.
+     Eric Schmidt             Did a complete re-write with Mike Lesk of Lex, a program to generate lexical analysers for the Unix computer operating system.
+     Erna Schneider Hoover    Invented the computerized telephone switching method.
+     Esther M. Conwell        Studied effects of high electric fields on electron transport in semiconductors, member of the National Academy of Engineering, National Academy of Sciences, and the American Academy of Arts and Sciences.
+     Evelyn Hu                Pioneer in the fabrication of nanoscale electronic and photonic devices.
+     George E. Smith          Led research into novel lasers and semiconductor devices. During his tenure, Smith was awarded dozens of patents and eventually headed the VLSI device department. George E. Smith shared the 2009 Nobel Prize in Physics with Willard Boyle for "the invention of an imaging semiconductor circuit—the CCD sensor, which has become an electronic eye in almost all areas of photography".[67]
+     Gil Amelio               Amelio was on the team that demonstrated the first working charge-coupled device (CCD). Worked at Fairchild Semiconductor, and the semiconductor division of Rockwell International but is best remembered as a CEO of National Semiconductor and Apple Inc.
+     Harvey Fletcher          "father of stereophonic sound". As Director of Research at Bell Labs, he oversaw research in electrical sound recording, including more than 100 stereo recordings with conductor Leopold Stokowski in 1931–1932.[68][69]
+     Horst Ludwig Störmer     Along with Robert Laughlin and Daniel Tsui discovered new form of quantum fluid.
+     John Hopcroft            Received the Turing Award jointly with Robert Tarjan in 1986 for fundamental achievements in the design and analysis of algorithms and data structures.
+     Ingrid Daubechies        Developed the orthogonal Daubechies wavelet and the biorthogonal Cohen–Daubechies–Feauveau wavelet. She is best known for her work with wavelets in image compression and digital cinema.
+     Jessie MacWilliams       Developed the MacWilliams identities in coding theory.
+     John Mashey              Worked on the PWB/UNIX operating system at Bell Labs from 1973 to 1983, authoring the PWB shell, also known as the "Mashey Shell".[70]
+     John M. Chambers         Developed the statistical programming language S which is the forerunner to R.
+     John Bardeen             With William Shockley and Walter Brattain, the three scientists invented the point-contact transistor in 1947 and were jointly awarded the 1956 Nobel Prize in Physics.
+     Jon Hall                 Executive Director of Linux International,[71]
+     Ken Thompson             designed and implemented the original Unix operating system. He also invented the B programming language, the direct predecessor to the C programming language, and was one of the creators and early developers of the Plan 9 operating systems. Since 2006, Thompson has worked at Google, where he co-invented the Go programming language.
+     Laurie Spiegel           Electronic musician and engineer known for developing the algorithmic composition software Music Mouse.
+     Margaret H. Wright       Pioneer in numerical computing and mathematical optimization, head of the Scientific Computing Research Department and Bell Labs Fellow, president of the Society for Industrial and Applied Mathematics.
+     Max Mathews              wrote MUSIC, the first widely used program for sound generation, in 1957.
+     Narendra Karmarkar       Developed Karmarkar's algorithm.
+     Osamu Fujimura           Japanese physicist, phonetician and linguist, recognized as one of the pioneers of speech science. Invented the C/D model of speech articulation.
+     Persi Diaconis           Known for tackling mathematical problems involving randomness and randomization, such as coin flipping and shuffling playing cards.
+     Philip Warren Anderson   In 1977 Anderson was awarded the Nobel Prize in Physics for his investigations into the electronic structure of magnetic and disordered systems, which allowed for the development of electronic switching and memory devices in computers.
+     Phyllis Fox              Co-wrote the DYNAMO simulation programming language, principal author of the first LISP manual, and developed the PORT Mathematical Subroutine Library.
+     Richard Hamming          Created a family of mathematical error-correcting code, which are called Hamming codes. Programmed one of the earliest computers, the IBM 650, and with Ruth A. Weiss developed the L2 programming language, one of the earliest computer languages, in 1956.
+     Robert Laughlin          Along with Horst Störmer and Daniel Tsui discovered new form of quantum fluid.
+     Rob Pike                 A member of the Unix team and was involved in the creation of the Plan 9 and Inferno operating systems, as well as the Limbo programming language. Co-authored the books The Unix Programming Environment and The Practice of Programming with Brian Kernighan. Co-created the UTF-8 character encoding standard with Ken Thompson, the Blit graphical terminal with Bart Locanthi Jr. and the sam and acme text editors. Pike has worked at Google, where he co-created the Go and Sawzall programming languages.
+     Robert Tarjan            Received the Turing Award jointly with John Hopcroft in 1986 for fundamental achievements in the design and analysis of algorithms and data structures.
+     Robert W. Wilson         Discovered background radiation, with Arno Allan Penzias, originating from the Big Bang and won the Nobel Prize in 1978 for that.
+     Steve Bourne             Created the Bourne shell, the adb debugger and authored the book The Unix System. He also served as president of the Association for Computing Machinery (ACM) (2000-2002), was made a fellow of the ACM (2005), received the ACM Presidential Award (2008) and the Outstanding Contribution to ACM Award (2017).
+     Steven Chu               known for his research at Bell Labs and Stanford University in cooling and trapping of atoms with laser light, which won him the Nobel Prize in Physics in 1997, along with his scientific colleagues Claude Cohen-Tannoudji and William Daniel Phillips.[72]
+     Steven Cundiff           Was instrumental in the development of the first frequency comb that led to one half of the 2005 Nobel prize.[73] Also made significant contributions to the ultrafast dynamics of semiconductor nanostructures, including the 2014 discovery of the dropleton quasi-particle.[74]
+     Stuart Feldman           Creator of the computer software program make for UNIX systems. He was also an author of the first Fortran 77 compiler, and he was part of the original group at Bell Labs that created the Unix operating system.[75]
+     Trevor Hastie            Known for his contributions to applied statistics, especially in the field of machine learning, data mining, and bioinformatics.
+     Zhenan Bao               Development of the first all plastic transistor, or organic field-effect transistors which allows for its use in electronic paper.[76]
+     Walter Houser Brattain   With fellow scientists John Bardeen and William Shockley, invented the point-contact transistor in December, 1947.[77] They shared the 1956 Nobel Prize in Physics for their invention.
+     Willard Boyle            share the 2009 Nobel Prize in Physics with George E. Smith for "the invention of an imaging semiconductor circuit—the CCD sensor, which has become an electronic eye in almost all areas of photography".
+     William B. Snow          made major contributions to acoustics from 1923–1940. Fellow of the Audio Engineering Society (AES), received its Gold Medal Award in 1968.
+     William Shockley         With John Bardeen and Walter Brattain, the three scientists invented the point-contact transistor in 1947 and were jointly awarded the 1956 Nobel Prize in Physics.
+     Yann LeCun               Recognized as a founding father of convolutional neural networks and for work on optical character recognition and computer vision. He received the Turing Award in 2018 with Geoffrey Hinton and Yoshua Bengio for their work in deep learning.
+     Yoshua Bengio            He received the Turing Award in 2018 with Geoffrey Hinton and Yann LeCun for their work in deep learning.
+     Edward Lawry Norton      Famous for the Norton's theorem.
+     Maurice Karnaugh         Famous for the Karnaugh map.
+     Warren P. Mason          Founder of distributed element circuits, inventor of the GT quartz crystal, and many discoveries and inventions in ultrasonics and acoustics.
+     Sharon Haynie            Developed DuPont's bio-3G product line and adhesives to close wounds.
 
 -   __ Nobel Prize[78]
 -   __ Turing Award[79]

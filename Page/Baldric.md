@@ -1,4 +1,4 @@
-BandRegalBaldric.png AdamclisiMetope.jpg A BALDRIC (also BALDRICK, BAWDRICK, BAULDRICK as well as other rare or obsolete variations) is a belt worn over one shoulder that is typically used to carry a weapon (usually a sword) or other implement such as a bugle or drum.[1][2] The word may also refer to any belt in general, but this usage is poetic or archaic.
+A BALDRIC (also BALDRICK, BAWDRICK, BAULDRICK as well as other rare or obsolete variations) is a belt worn over one shoulder that is typically used to carry a weapon (usually a sword) or other implement such as a bugle or drum.[1][2] The word may also refer to any belt in general, but this usage is poetic or archaic.
 
 
 History
@@ -13,7 +13,7 @@ During ancient Roman times the BALTEUS (plural _baltei_) was a type of baldric c
 
 Today
 
-Many non-military or paramilitary organisations include baldrics as part of ceremonial dress. The Knights of Columbus 4th Degree Colour Corps uses a baldric as part of their uniform;[4][5] it supports a ceremonial sword. IlliniDrumline_postgame_concert_060916.jpg The University of Illinois Marching Illini wore two baldrics as a part of their uniform until 2009, with one over each shoulder. They crossed in the front and back and were buttoned onto the jacket beneath a cape and epaulets. Today, the current Marching Illini wears one baldric with two sides: ILLINI is on one side and the traditional orange and white baldric from the previous uniform.
+Many non-military or paramilitary organisations include baldrics as part of ceremonial dress. The Knights of Columbus 4th Degree Colour Corps uses a baldric as part of their uniform;[4][5] it supports a ceremonial sword. The University of Illinois Marching Illini wore two baldrics as a part of their uniform until 2009, with one over each shoulder. They crossed in the front and back and were buttoned onto the jacket beneath a cape and epaulets. Today, the current Marching Illini wears one baldric with two sides: ILLINI is on one side and the traditional orange and white baldric from the previous uniform.
 
 A crossed pair of baldrics is often worn as part of uniform of Morris dance sides; different colours of baldric help to distinguish different sides.
 

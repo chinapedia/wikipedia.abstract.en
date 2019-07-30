@@ -1,4 +1,4 @@
-McMillan_as_Harkonnen.jpg as Vladimir Harkonnen in _Dune_ (1984)]]
+as Vladimir Harkonnen in _Dune_ (1984)]]
 
 The BARON VLADIMIR HARKONNEN is a fictional character from the _Dune_ franchise created by Frank Herbert. He is primarily featured in the 1965 novel _Dune_ and is also a prominent character in the _Prelude to Dune_ prequel trilogy (1999–2001) by Brian Herbert and Kevin J. Anderson. The character is brought back as a ghola in the Herbert/Anderson sequels which conclude the original series, _Hunters of Dune_ (2006) and _Sandworms of Dune_ (2007).
 
@@ -48,7 +48,7 @@ In _Hunters of Dune_ (2006), the continuation of the original series by Brian He
 
 In adaptations
 
-McNeice_as_Harkonnen_(2000).jpg as Vladimir Harkonnen in the _Dune_ miniseries (2000)]]
+as Vladimir Harkonnen in the _Dune_ miniseries (2000)]]
 
 1984 film
 

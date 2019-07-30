@@ -1,7 +1,7 @@
 +----------------------------+
 | Set of uniform antiprisms  |
 +============================+
-| Hexagonal_antiprism.png    |
+|                            |
 +----------------------------+
 | Type                       |
 +----------------------------+
@@ -45,10 +45,9 @@ The dual polyhedra of the antiprisms are the trapezohedra. Their existence was d
 
 Schlegel diagrams
 
-+---------------+--------------------------------+------------------------------------+-----------------------------------+--------------------------------+-----------------------------------+
-| 3-cube_t2.svg | Square_antiprismatic_graph.png | Pentagonal_antiprismatic_graph.png | Hexagonal_antiprismatic_graph.png | Heptagonal_antiprism_graph.png | Octagonal_antiprismatic_graph.png |
-| A3            | A4                             | A5                                 | A6                                | A7                             | A8                                |
-+---------------+--------------------------------+------------------------------------+-----------------------------------+--------------------------------+-----------------------------------+
++----+----+----+----+----+----+
+| A3 | A4 | A5 | A6 | A7 | A8 |
++----+----+----+----+----+----+
 
 
 Cartesian coordinates
@@ -78,15 +77,12 @@ Related polyhedra
 There are an infinite set of truncated antiprisms, including a lower-symmetry form of the truncated octahedron (truncated triangular antiprism). These can be alternated to create snub antiprisms, two of which are Johnson solids, and the _snub triangular antiprism_ is a lower symmetry form of the icosahedron.
 
   Antiprisms
-  ---------------------------------
-  Digonal_antiprism.png
+  ----------------------
   s{2,4}
   Truncated antiprisms
-  Truncated_digonal_antiprism.png
   ts{2,4}
   Snub antiprisms
   J₈₄
-  Snub_digonal_antiprism.png
   ss{2,4}
 
 
@@ -101,15 +97,13 @@ The rotation group is D_(_n_) of order 2_n_, except in the case of a tetrahedron
 
 Star antiprism
 
-+----------------------------+------------------------------------+
-| Pentagrammic_antiprism.png | Pentagrammic_crossed_antiprism.png |
-| 5/2-antiprism              | 5/3-antiprism                      |
-+----------------------------+------------------------------------+
-| Antiprism_9-2.png          | Antiprism_9-4.png                  |
-| 9/2-antiprism              | 9/4-antiprism                      |
-+----------------------------+------------------------------------+
++---------------+---------------+
+| 5/2-antiprism | 5/3-antiprism |
++---------------+---------------+
+| 9/2-antiprism | 9/4-antiprism |
++---------------+---------------+
 
-Antiprisms.pdf Uniform star antiprisms are named by their star polygon bases, {_p_/_q_}, and exist in prograde and retrograde (crossed) solutions. Crossed forms have intersecting vertex figures, and are denoted by inverted fractions, _p_/(_p_ - _q_) instead of _p_/_q_, e.g. 5/3 instead of 5/2.
+Uniform star antiprisms are named by their star polygon bases, {_p_/_q_}, and exist in prograde and retrograde (crossed) solutions. Crossed forms have intersecting vertex figures, and are denoted by inverted fractions, _p_/(_p_ - _q_) instead of _p_/_q_, e.g. 5/3 instead of 5/2.
 
 In the retrograde forms but not in the prograde forms, the triangles joining the star bases intersect the axis of rotational symmetry.
 

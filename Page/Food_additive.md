@@ -1,4 +1,4 @@
-Lecithin-Formulierungen.jpg lecithin – powder, two different concentration liquids, granular and powder lecithin]]
+lecithin – powder, two different concentration liquids, granular and powder lecithin]]
 
 FOOD ADDITIVES are substances added to food to preserve flavor or enhance its taste, appearance, or other qualities. Some additives have been used for centuries; for example, preserving food by pickling (with vinegar), salting, as with bacon, preserving sweets or using sulfur dioxide as with wines. With the advent of processed foods in the second half of the twentieth century, many more additives have been introduced, of both natural and artificial origin. Food additives also include substances that may be introduced to food indirectly (called "indirect additives") in the manufacturing process, through packaging, or during storage or transport.[1][2]
 

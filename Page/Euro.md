@@ -15,7 +15,7 @@ The name _euro_ was officially adopted on 16 December 1995 in Madrid.[12] The eu
 
 Administration
 
-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_13.jpg has its seat in Frankfurt, Germany, and is in charge of the monetary policy of the eurozone.]]
+has its seat in Frankfurt, Germany, and is in charge of the monetary policy of the eurozone.]]
 
 The euro is managed and administered by the Frankfurt-based European Central Bank (ECB) and the Eurosystem (composed of the central banks of the eurozone countries). As an independent central bank, the ECB has sole authority to set monetary policy. The Eurosystem participates in the printing, minting and distribution of notes and coins in all member states, and the operation of the eurozone payment systems.
 
@@ -31,13 +31,13 @@ Characteristics
 
 Coins and banknotes
 
-Euro_coins_and_banknotes.jpg and banknotes of various denominations]] Second_serie_5,_10,_20,_50_Euro_banknotes.jpg from the Europa series]]
+and banknotes of various denominations]] from the Europa series]]
 
 The euro is divided into 100 cents (also referred to as _euro cents_, especially when distinguishing them from other currencies, and referred to as such on the common side of all cent coins). In Community legislative acts the plural forms of _euro_ and _cent_ are spelled without the _s_, notwithstanding normal English usage.[20][21] Otherwise, normal English plurals are used,[22] with many local variations such as _centime_ in France.
 
 All circulating coins have a _common side_ showing the denomination or value, and a map in the background. Due to the linguistic plurality in the European Union, the Latin alphabet version of _euro_ is used (as opposed to the less common Greek or Cyrillic) and Arabic numerals (other text is used on national sides in national languages, but other text on the common side is avoided). For the denominations except the 1-, 2- and 5-cent coins, the map only showed the 15 member states which were members when the euro was introduced. Beginning in 2007 or 2008 (depending on the country) the old map is being replaced by a map of Europe also showing countries outside the Union like Norway, Ukraine, Belarus, Russia or Turkey. The 1-, 2- and 5-cent coins, however, keep their old design, showing a geographical map of Europe with the 15 member states of 2002 raised somewhat above the rest of the map. All common sides were designed by Luc Luycx. The coins also have a _national side_ showing an image specifically chosen by the country that issued the coin. Euro coins from any member state may be freely used in any nation that has adopted the euro.
 
-New_finnish_2013_5_euro.png and the bottom half shows the back side.]] EUR_10_obverse_(2014_issue).png from the new Europa series written in Latin (EURO) and Greek (ΕΥΡΩ) alphabets, but also in the Cyrillic (ЕВРО) alphabet, as a result of Bulgaria joining the European Union in 2007.]] The_Europa_series_100_€_obverse_side.jpg (and for new 50 and 200 notes) features the acronyms of the name of the European Central Bank in ten linguistic variants, covering all official languages of the EU28.]]
+and the bottom half shows the back side.]] from the new Europa series written in Latin (EURO) and Greek (ΕΥΡΩ) alphabets, but also in the Cyrillic (ЕВРО) alphabet, as a result of Bulgaria joining the European Union in 2007.]] (and for new 50 and 200 notes) features the acronyms of the name of the European Central Bank in ten linguistic variants, covering all official languages of the EU28.]]
 
 The coins are issued in denominations of €2, €1, 50c, 20c, 10c, 5c, 2c, and 1c. To avoid the use of the two smallest coins, some cash transactions are rounded to the nearest five cents in the Netherlands and Ireland[23][24] (by voluntary agreement) and in Finland (by law).[25] This practice is discouraged by the Commission, as is the practice of certain shops of refusing to accept high-value euro notes.[26]
 
@@ -50,8 +50,6 @@ Payments clearing, electronic funds transfer
 Capital within the EU may be transferred in any amount from one country to another. All intra-EU transfers in euro are treated as domestic transactions and bear the corresponding domestic transfer costs.[30] This includes all member states of the EU, even those outside the eurozone providing the transactions are carried out in euro.[31] Credit/debit card charging and ATM withdrawals within the eurozone are also treated as domestic transactions; however paper-based payment orders, like cheques, have not been standardised so these are still domestic-based. The ECB has also set up a clearing system, TARGET, for large euro transactions.[32]
 
 Currency sign
-
-Euro_logo_plus_character.png
 
 A special euro currency sign (€) was designed after a public survey had narrowed the original ten proposals down to two. The European Commission then chose the design created by the Belgian Alain Billiet. Of the symbol, the EC stated[33]
 
@@ -77,8 +75,6 @@ The currency was introduced in non-physical form (traveller's cheques, electroni
 The changeover period during which the former currencies' notes and coins were exchanged for those of the euro lasted about two months, until 28 February 2002. The official date on which the national currencies ceased to be legal tender varied from member state to member state. The earliest date was in Germany, where the mark officially ceased to be legal tender on 31 December 2001, though the exchange period lasted for two months more. Even after the old currencies ceased to be legal tender, they continued to be accepted by national central banks for periods ranging from several years to indefinitely (the latter for Austria, Germany, Ireland, Estonia and Latvia in banknotes and coins, and for Belgium, Luxembourg, Slovenia and Slovakia in banknotes only). The earliest coins to become non-convertible were the Portuguese escudos, which ceased to have monetary value after 31 December 2002, although banknotes remain exchangeable until 2022.
 
 Eurozone crisis
-
-Government_surplus_or_deficit_(EU-USA-UK).png
 
 Following the U.S. financial crisis in 2008, fears of a sovereign debt crisis developed in 2009 among investors concerning some European states, with the situation becoming particularly tense in early 2010.[41][42] Greece was most acutely affected, but fellow Eurozone members Cyprus, Ireland, Italy, Portugal, and Spain were also significantly affected.[43][44] All these countries utilized EU funds except Italy, which is a major donor to the EFSF.[45] To be included in the eurozone, countries had to fulfil certain convergence criteria, but the meaningfulness of such criteria was diminished by the fact it was not enforced with the same level of strictness among countries.[46]
 
@@ -172,8 +168,6 @@ The introduction of the euro seems to have had a strong effect on European finan
 
 Effect on interest rates
 
-Long-term_interest_rates_of_eurozone_countries_since_1993.png
-
 As of January 2014, and since the introduction of the euro, interest rates of most member countries (particularly those with a weak currency) have decreased. Some of these countries had the most serious sovereign financing problems.
 
 The effect of declining interest rates, combined with excess liquidity continually provided by the ECB, made it easier for banks within the countries in which interest rates fell the most, and their linked sovereigns, to borrow significant amounts (above the 3% of GDP budget deficit imposed on the eurozone initially) and significantly inflate their public and private debt levels.[92] Following the financial crisis of 2007–2008, governments in these countries found it necessary to bail out or nationalise their privately held banks to prevent systemic failure of the banking system when underlying hard or financial asset values were found to be grossly inflated and sometimes so near worthless there was no liquid market for them.[93] This further increased the already high levels of public debt to a level the markets began to consider unsustainable, via increasing government bond interest rates, producing the ongoing European sovereign-debt crisis.
@@ -202,7 +196,7 @@ The euro is the second-most widely held reserve currency after the U.S. dollar. 
 
 Linguistic issues
 
-EUR_5_obverse_(2013_issue).png from the new Europa series written in Latin (EURO) and Greek (ΕΥΡΩ) alphabets, but also in the Cyrillic (ЕВРО) alphabet, as a result of Bulgaria joining the European Union in 2007.]]
+from the new Europa series written in Latin (EURO) and Greek (ΕΥΡΩ) alphabets, but also in the Cyrillic (ЕВРО) alphabet, as a result of Bulgaria joining the European Union in 2007.]]
 
 The formal titles of the currency are _euro_ for the major unit and _cent_ for the minor (one-hundredth) unit and for official use in most eurozone languages; according to the ECB, all languages should use the same spelling for the nominative singular.[103] This may contradict normal rules for word formation in some languages, e.g., those in which there is no _eu_ diphthong. Bulgaria has negotiated an exception; _euro_ in the Bulgarian Cyrillic alphabet is spelled as eвро (_evro_) and not eуро (_euro_) in all official documents.[104] In the Greek script the term ευρώ (evró) is used; the Greek "cent" coins are denominated in λεπτό/ά (leptó/á). Official practice for English-language EU legislation is to use the words euro and cent as both singular and plural,[105] although the European Commission's Directorate-General for Translation states that the plural forms _euros_ and _cents_ should be used in English.[106]
 

@@ -17,7 +17,7 @@ As of May 2015, MV Mwongozo, a passenger and cargo ferry, connects Bujumbura wit
 
 Airports and air services
 
-Bujumbura_International_Airport.jpg Burundi possesses eight airports, of which one has paved runways, whose length exceeds 3,047m. Bujumbura International Airport is the country's primary airport and the country's only airport with a paved runway. There are also a number of helicopter landing strips.[5]
+Burundi possesses eight airports, of which one has paved runways, whose length exceeds 3,047m. Bujumbura International Airport is the country's primary airport and the country's only airport with a paved runway. There are also a number of helicopter landing strips.[5]
 
 As of May 2015 the airlines serving Burundi are: Brussels Airlines, Ethiopian Airlines, flydubai, Kenya Airways and RwandAir. Kigali is the city with the most daily departures.
 

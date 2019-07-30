@@ -1,6 +1,6 @@
     _For various examples of cuisine, see List of German dishes._
 
-German_Bratwürste.jpg, one of the most popular foods in Germany]] KaDeWe_Deli.JPG in Berlin, one of the largest delicatessen markets in Europe]]
+, one of the most popular foods in Germany]] in Berlin, one of the largest delicatessen markets in Europe]]
 
 The CUISINE OF GERMANY has evolved as a national cuisine through centuries of social and political change with variations from region to region.
 
@@ -13,17 +13,17 @@ Hot foods
 
 Meat
 
-Sächsischer_Sauerbraten.jpg with potato dumplings (Klöße)]]
+with potato dumplings (Klöße)]]
 
 The average annual meat consumption is per person. The most common varieties are pork, poultry and beef. Other varieties of meat are widely available, but do not play an important role. Source: Statista.com, 2017[5]
 
 Meat is usually braised; fried dishes also exist, but these recipes usually originate from France and Austria. Several cooking methods used to soften tough cuts have evolved into national specialties, including _Sauerbraten_ (sour roast), involving marinating beef, horse meat or venison in a vinegar or wine vinegar mixture over several days.
 
-Currywurst-1.jpg]] A long tradition of sausage-making exists in Germany; more than 1,500 different types of sausage () are made.[6][7][8][9] Most _Wurst_ is made with natural casings of pork, sheep or lamb intestines. Among the most popular and most common are _Bratwurst_, usually made of ground pork and spices, the _Wiener_ (Viennese), which may be pork or beef and is smoked and fully cooked in a water bath, and _Blutwurst_ (blood sausage) or _Schwarzwurst_ (black sausage) made from blood (often of pigs or geese). Thousands of types of cold cuts also are available which are also called "Wurst" in German. There are many regional specialties, such as the _Münchner Weißwurst_ (Munich white sausage) popular in Bavaria or the _Currywurst_ (depending on region, either a steamed pork sausage or a version of the _Bratwurst_, sliced and spiced with curry ketchup) popular in the metropolitan areas of Berlin, Hamburg and the Ruhr Area. Strict regulations governing what may and may not be put into them have been in force in Germany since the 13th century. In the market ordinance of Landshut in 1236, it was set down that only top-quality meat could be made into sausages.[10]
+]] A long tradition of sausage-making exists in Germany; more than 1,500 different types of sausage () are made.[6][7][8][9] Most _Wurst_ is made with natural casings of pork, sheep or lamb intestines. Among the most popular and most common are _Bratwurst_, usually made of ground pork and spices, the _Wiener_ (Viennese), which may be pork or beef and is smoked and fully cooked in a water bath, and _Blutwurst_ (blood sausage) or _Schwarzwurst_ (black sausage) made from blood (often of pigs or geese). Thousands of types of cold cuts also are available which are also called "Wurst" in German. There are many regional specialties, such as the _Münchner Weißwurst_ (Munich white sausage) popular in Bavaria or the _Currywurst_ (depending on region, either a steamed pork sausage or a version of the _Bratwurst_, sliced and spiced with curry ketchup) popular in the metropolitan areas of Berlin, Hamburg and the Ruhr Area. Strict regulations governing what may and may not be put into them have been in force in Germany since the 13th century. In the market ordinance of Landshut in 1236, it was set down that only top-quality meat could be made into sausages.[10]
 
 Fish
 
-Geräucherte_Sprotten.JPG]]
+]]
 
 Of salt water fish, Alaska pollock is the most common.[11] Popular freshwater fish on the German menu are trout, pike, carp, and European perch also are listed frequently.[12] Seafood traditionally was restricted to the northern coastal areas, except for pickled herring, which often served in a Fischbrötchen, as _Rollmops_ (a pickled herring fillet rolled into a cylindrical shape around a piece of pickled gherkin or onion), or _Brathering_ (fried, marinated herring).
 
@@ -33,7 +33,7 @@ Fish fingers, known as Fischstäbchen (lit.: "fish sticklets"),[15] are a popula
 
 Vegetables
 
-Spargel_sauce_hollandaise.jpg and potatoes]]
+and potatoes]]
 
 Vegetables are often used in stews or vegetable soups, but are also served as side dishes. Carrots,[16] cauliflower,[17][18] turnips,[19] spinach,[20] peas,[21] beans, broccoli and many types of cabbage are very common.[22][23] Fried onions are a common addition to many meat dishes throughout the country. Circa 1900, carrots were sometimes roasted in water, with the broth used in place of coffee.[24]
 
@@ -41,8 +41,6 @@ Asparagus is a popular seasonal side or main dish with a yearly per-capita consu
 
 
 Structure of meals
-
-Buffet_Germany.jpg
 
 Breakfast (_Frühstück_) commonly consists of bread, toast, or bread rolls with butter or margarine, cold cuts, cheeses, jam (_Konfitüre_ or more commonly called _Marmelade_), honey and eggs (typically boiled).[31][32][33] Common drinks at breakfast are coffee, tea, milk, cocoa (hot or cold) or fruit juices.[34] It is very common to eat hearty toppings at breakfast, including deli meats like ham, salted meats, salami and meat-based spreads such as _Leberwurst_ (liver sausage),_Teewurst_ or _Mettwurst_ and cheeses such as Gouda, _Frischkäse_ (cream cheese), Brie, _Harzer Roller_, _Bergkäse_ and more. Most bakeries tend to sell _belegte Brötchen_ (sandwiches from bread rolls), especially in the morning, for people on the go.
 
@@ -55,7 +53,7 @@ For others, the traditional way of eating is still rather common, not only in ru
 
 Side dishes
 
-Bratkartoffeln_1024_768.jpg]]
+]]
 
 Noodles, made from wheat flour and egg, are usually thicker than the Italian flat pasta. Especially in the southwestern part of the country, the predominant variety of noodles are _Spätzle_,[37] made with a large number of eggs, and _Maultaschen_, traditional stuffed noodles reminiscent of ravioli.
 
@@ -68,7 +66,7 @@ Salads, also modern variations, as well as vegetarian dishes become more and mor
 
 Spices and condiments
 
-Quarkkeulchen.jpg, a pancake-like dessert with sugar and cinnamon]]
+, a pancake-like dessert with sugar and cinnamon]]
 
 With the exception of mustard for sausages, German dishes are rarely hot and spicy;[42] the most popular herbs are traditionally parsley, thyme, laurel, chives, black pepper (used in small amounts), juniper berries, nutmeg, and caraway.[43] Cardamom, anise seed, and cinnamon are often used in sweet cakes or beverages associated with Christmas time, and sometimes in the preparation of sausages, but are otherwise rare in German meals. Other herbs and spices, such as basil, sage, oregano, and hot chili peppers, have become popular since the early 1980s. Fresh dill is very common in a green salad or fish fillet.
 
@@ -81,11 +79,7 @@ Garlic has never played a large role in traditional German cuisine,[51] as it wa
 
 Desserts
 
-Black_Forest_gateau.jpg
-
 A wide variety of cakes, tarts and pastries are served throughout the country,[52][53] most commonly made with fresh fruit. Apples, plums, strawberries, and cherries are used regularly in cakes. Cheesecake is also very popular, often made with quark. _Schwarzwälder Kirschtorte_ (Black Forest cake, made with cherries) is probably the most well-known example of a wide variety of typically German tortes filled with whipped or butter cream.[54]
-
-Rote_Grütze_Vanillesauce_2.jpg
 
 German doughnuts (which have no hole) are usually balls of yeast dough with jam or other fillings, and are known as _Berliner_, _Pfannkuchen_ (in Berlin and Eastern Germany),[55] _Kreppel_ or _Krapfen_, depending on the region.[56][57] _Eierkuchen_ or _Pfannkuchen_ are large (usually around 20–24 cm in diameter), and relatively thin (~5mm) pancakes,[58] comparable to the French _crêpes_. They are served covered with sugar, jam or syrup. Salty variants with cheese, ground meat or bacon exist as well as variants with apple slices baked in (called _Apfelpfannkuchen_, literally for _apple pancakes_), but they are usually considered to be main dishes rather than desserts. In some regions, _Eierkuchen_ are filled and then wrapped; in others, they are cut into small pieces and arranged in a heap (called _Kaiserschmarrn_, often including raisins baked in). The word _Pfannkuchen_ means pancake in most parts of Germany.[59]
 
@@ -109,19 +103,15 @@ Bread
 
 Bread (_Brot_) is a significant part of German cuisine, with the largest bread diversity in the world.[69] Around 200 types of breads[70][71] and 1,200 different types of pastries and rolls[72] are produced in about 17,000 bakeries and another 10,000 in-shop bakeries.
 
-Mischbrot-1.jpg
-
 Bread is served usually for breakfast (often replaced by bread rolls) and in the evening as (open) sandwiches, but rarely as a side dish for the main meal (popular, for example, with _Eintopf_ or soup). The importance of bread in German cuisine is also illustrated by words such as _Abendbrot_ (meaning supper, literally evening bread) and _Brotzeit_ (snack, literally bread time). In fact, one of the major complaints of the German expatriates in many parts of the world is their inability to find acceptable local breads.
 
-Pumpernickel.jpg'']]
+'']]
 
 Regarding bread, German cuisine is more varied than that of either Eastern or Western Europe. Bread types range from white wheat bread (_Weißbrot_) to grey (_Graubrot_) to black (_Schwarzbrot_), actually dark brown rye bread.[73][74] Some breads contain both wheat and rye flour (hence _Mischbrot_, mixed bread),[75] and often also wholemeal and whole seeds such as linseed, sunflower seed, or pumpkin seed (_Vollkornbrot_). Darker, rye-dominated breads, such as _Vollkornbrot_ or _Schwarzbrot_, are typical of German cuisine. _Pumpernickel_, sweet-tasting bread created by long-time-steaming instead of regular baking, is internationally well known, although not representative of German black bread as a whole. Most German breads are made with sourdough. Whole grain is also preferred for high fiber. Germans use almost all available types of grain for their breads: wheat, rye, barley, spelt, oats, millet, corn and rice. Some breads are even made with potato starch flour.[76]
 
 Germany's most popular breads are rye-wheat (_Roggenmischbrot_), toast bread (_Toastbrot_), whole-grain (_Vollkornbrot_), wheat-rye (_Weizenmischbrot_), white bread (_Weißbrot_), multigrain, usually wheat-rye-oats with sesame or linseed (_Mehrkornbrot_), rye (_Roggenbrot_), sunflower seeds in dark rye bread (_Sonnenblumenkernbrot_), pumpkin seeds in dark rye bread (_Kürbiskernbrot_) and roasted onions in light wheat-rye bread (_Zwiebelbrot_).
 
 Bread rolls
-
-Korb_mit_Brötchen.JPG
 
 Bread rolls, known in Germany as _Brötchen_,[77] which is a diminutive of _Brot_, with regional linguistic varieties being _Semmel_ (in South Germany), _Schrippe_ (especially in Berlin), _Rundstück_ (in the North and Hamburg) or _Wecken_, _Weck_, _Weckle_, _Weckli_ and _Weckla_ (in Baden-Württemberg, Switzerland, parts of Southern Hesse and northern Bavaria), are common in German cuisine.[78] A typical serving is a roll cut in half, and spread with butter or margarine.[79] Cheese, honey, jam, Nutella, cold cuts such as ham,[80] fish, or preserves are then placed between the two halves, or on each half separately, known as a _belegtes Brötchen_.
 
@@ -134,11 +124,7 @@ Beverages
 
 Alcoholic drinks
 
-Weizenbier-ukko.jpg
-
 Beer is very common throughout all parts of Germany, with many local and regional breweries producing a wide variety of beers.[82] The pale lager pilsener, a style developed in the mid-19th century, is predominant in most parts of the country today, whereas wheat beer (_Weißbier_/_Weizen_) and other types of lager are common, especially in Bavaria. A number of regions have local specialties, many of which, like _Weißbier_, are more traditionally brewed ales. Among these are _Altbier_, a dark beer available around Düsseldorf and the lower Rhine, _Kölsch_, a similar style, but light in color, in the Cologne area, and the low-alcohol _Berliner Weiße_, a sour beer made in Berlin that is often mixed with raspberry or woodruff syrup. Since the reunification of 1990, _Schwarzbier_, which was common in East Germany, but could hardly be found in West Germany, has become increasingly popular in Germany as a whole. Beer may also be mixed with other beverages such as pils or lager and carbonated lemonade: _Radler_ (lit: cyclist), _Alsterwasser_ (lit: water from the river Alster).
-
-Rheingaufloete.jpg
 
 Since a beer tax law was changed in 1993, many breweries served this trend of mixing beer with other drinks by selling bottles of pre-mixed beverages. Examples are _Bibob_ (by Köstritzer), _Veltins V+_, _Mixery_ (by Karlsberg), Dimix (by Diebels) and _Cab_ (by Krombacher).
 
@@ -163,13 +149,13 @@ German regional cuisine can be divided into many varieties such as Bavarian cuis
 
 Baden-Württemberg
 
-Badische_Maultaschen.jpg]]
+]]
 
 Due to the physiogeographically situation, the Upper Rhine Plain with Germany's warmest climate, fruitful volcanic soils, already in the Roman period used medicinal springs and spas with very good infrastructural features, the proximity to France and Switzerland Baden had better prerequisites to develop a high quality gastronomy than Württemberg or Bavaria. Special plant crops such as tobacco, wine, fruit and horticulture are of supranational importance and offer the inhabitants and visitors a diverse and wide selection of local products. Asparagus and chestnuts are as skillfully used in the kitchen as tripe and escargot and a variety of fruity desserts and pastries is provided for the traditional German "Kaffee und Kuchen" (lit. "coffee and cake", similar to the British tea time). Nationwide this region features the highest density of star-rated restaurants, similar to the neighbouring region Alsace which does the same for France.
 
 Bavaria
 
-Schweizerhaus04.jpg'']]
+'']]
 
 The Bavarian dukes, especially the Wittelsbach family, developed Bavarian cuisine and refined it to be presentable to the royal court. This cuisine has belonged to wealthy households, especially in cities, since the 19th century. The (old) Bavarian cuisine is closely connected to Czech cuisine and Austrian cuisine (especially from Tyrol and Salzburg), mainly through the Wittelsbach and Habsburg families. Already in the beginning, Bavarians were closely connected to their neighbours in Austria through linguistic, cultural and political similarities, which also reflected on the cuisine.
 
@@ -179,15 +165,13 @@ Bavaria is a part of Southeastern Germany, including the city of Munich and spre
 
 Hamburg
 
-Krabbentoast_mit_Dill_Hamburger_Snack_(retuschiert).jpg
-
 Due to its century-old history as a harbour town, the traditional cuisine of Hamburg is very diversified and sapid as ingredients’ supply was safe. Until the 20th century, it was predominantly characterized by the extensive choice of different kinds of fish from the river Elbe and the quick access to both the North Sea and the Baltic Sea, both being roughly 100 kilometers away from the city center. The neighboring regions did supply the city state with fresh vegetables, fruit came mainly from a region called Altes Land just southwest of Hamburg and until industrialization, the neighbourhood of Wilhelmsburg was considered the ‘milk isle’ of Hamburg.
 
 International trade made spices and exotic nutrition items from Asia and South America available since the 16th century which were soon incorporated into civic kitchens. On this basis, the cuisine of Hamburg developed its characteristics nowadays due to the supraregional harmonization of the Northern German and Scandinavian cuisine. Due to its high economic importance, Hamburg does feature many internationally recognized gourmet restaurants: 11 of them were awarded with a Michelin star in 2010.[89]
 
 Hesse
 
-Frankfurter-kranz_hg.jpg]] Typical for Hesse are _Frankfurter Rippchen_, a spiked pork cutlet, which is often served with sauerkraut and mashed potatoes.
+]] Typical for Hesse are _Frankfurter Rippchen_, a spiked pork cutlet, which is often served with sauerkraut and mashed potatoes.
 
 Also from Hessen comes the Frankfurt green sauce (_"Grüne Sauce_"). It is a cold sauce based on sour cream with the local herbs borage, chervil, cress, parsley, pimpinelle, sorrel and chives. The start of the season is traditionally Maundy Thursday (_"Gründonnerstag"_; which means _"green Thursday"_ in German). Green sauce is mostly served with potatoes and boiled eggs.
 
@@ -199,8 +183,6 @@ Palatinate/Pfalz
 
 Thuringia
 
-Thüringer_Rostbrätel.JPG
-
 Wheat, grapes, sugarbeets, and barley grow well, along with a variety of vegetables, which grow near Erfurt, the state's capital. Cauliflower [], cabbage (savoy, red, white) [], kohlrabi [], and broccoli [] grow by traditional means near Erfurt. Tomatoes, lettuce, broad beans, onions, and cucumbers are grown in the eastern portion of the region near Jena under glass centers on about of land. Thuringia is the second-largest herb-growing region in Germany; the town of Kölleda was once considered the "peppermint town", where herb growers used to congregate to study herb cultivation.[90]
 
 One-third of Thuringia is covered in forest, and is considered to be one of the best game-hunting regions in Germany. Anyone holding a valid hunting license[91] and a local hunting permit for the area may hunt for game such as red deer, roe deer, wild boar, rabbit, duck, and mouflon (mountain sheep). Pheasant and capercaillie are protected game species that may not be hunted. The wooded areas also contain a wide variety of edible mushrooms, such as chestnut mushrooms, porcini, and chanterelles, along with wild berries, such as blueberries, cranberries, raspberries, and blackberries, which are all traditional accompaniments to game dishes.[92]
@@ -208,8 +190,6 @@ One-third of Thuringia is covered in forest, and is considered to be one of the 
 The most famous foods from Thuringia are Thuringian sausages and Thuringian dumplings. The state is also known for its sausages; steamed, scaled, and cured varieties are all prepared. Popular varieties include Thüringer _Mettwurst_ (a spreadable cured sausage), _Feldkieker_ (a cured, air-dried sausage dried up to eight months), Thüringer _Leberwurst_ (a steamed pork and liver sausage), Thüringer _Rotwurst_ (a steamed blood sausage packed in a bladder or other natural casing)[93] and _Mett_ (minced pork).
 
 Saxony
-
-Sächsische_Kartoffelsuppe,_Alte_Apotheke,_Altkötzschenbroda.jpg
 
 In general the cuisine is very hearty and features many peculiarities of central Germany such as a great variety of sauces which accompany the main dish and the fashion to serve _Klöße_ or Knödel as a side dish instead of potatoes, pasta or rice. Also much freshwater fish is used in Saxon cuisine, particularly carp and trout as is the case throughout Eastern Europe.
 
@@ -219,8 +199,6 @@ Cereal grain cultivation occupies 62% of the cultivated land in Saxony-Anhalt. W
 
 
 International influences
-
-Doener_berlin_kraeuter.jpg
 
 Elements of international cuisine (apart from influences from neighbouring countries) are a relatively recent phenomenon in German cuisine, compared with other West European states. colonial goods shops spread only in the 19th and early 20th centuries and brought luxury goods like cocoa, coconuts, rare exotic spices, coffee and (non-herbal) tea to a wider audience.
 

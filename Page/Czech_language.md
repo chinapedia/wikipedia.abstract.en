@@ -7,14 +7,14 @@ Czech has a moderately-sized phoneme inventory, comprising ten monophthongs, thr
 
 Classification
 
-Slavic_languages_tree.svg branch of the Indo-European language family. Czech and Slovak make up a "Czech–Slovak" subgroup.]] Czech is a member of the West Slavic sub-branch of the Slavic branch of the Indo-European language family. This branch includes Polish, Kashubian, Upper and Lower Sorbian and Slovak. Slovak is the closest language genetic neighbor of Czech, followed by Polish and Silesian.[6]
+branch of the Indo-European language family. Czech and Slovak make up a "Czech–Slovak" subgroup.]] Czech is a member of the West Slavic sub-branch of the Slavic branch of the Indo-European language family. This branch includes Polish, Kashubian, Upper and Lower Sorbian and Slovak. Slovak is the closest language genetic neighbor of Czech, followed by Polish and Silesian.[6]
 
 The West Slavic languages are spoken in Central Europe. Czech is distinguished from other West Slavic languages by a more-restricted distinction between "hard" and "soft" consonants (see Phonology below).[7]
 
 
 History
 
-Kralice.jpg was the first complete translation of the Bible into the Czech language from the original languages. Its six volumes were first published between 1579 and 1593.|alt=A Gothic-style book with ornate, flowery designs on the cover]] Studeněves,_tabule_dětského_hřiště.JPG
+was the first complete translation of the Bible into the Czech language from the original languages. Its six volumes were first published between 1579 and 1593.|alt=A Gothic-style book with ornate, flowery designs on the cover]]
 
 Medieval/Old Czech
 
@@ -36,7 +36,7 @@ In 1615, the Bohemian diet tried to declare Czech to be the only official langua
 
 Modern Czech
 
-Jan_Vilímek_-_Josef_Dobrovský.jpg, whose writing played a key role in reviving Czech as a written language.|alt=In a detailed pencil sketch, a middle-aged man in a suit looks idly into the distance.]] The modern standard Czech language originates in standardization efforts of the 18th century.[15] By then the language had developed a literary tradition, and since then it has changed little; journals from that period have no substantial differences from modern standard Czech, and contemporary Czechs can understand them with little difficulty.[16] Changes include the morphological shift of _í_ to _ej_ and _é_ to _í_ (although _é_ survives for some uses) and the merging of _í_ and the former _ejí_.[17] Sometime before the 18th century, the Czech language abandoned a distinction between phonemic /l/ and /ʎ/ which survives in Slovak.[18]
+, whose writing played a key role in reviving Czech as a written language.|alt=In a detailed pencil sketch, a middle-aged man in a suit looks idly into the distance.]] The modern standard Czech language originates in standardization efforts of the 18th century.[15] By then the language had developed a literary tradition, and since then it has changed little; journals from that period have no substantial differences from modern standard Czech, and contemporary Czechs can understand them with little difficulty.[16] Changes include the morphological shift of _í_ to _ej_ and _é_ to _í_ (although _é_ survives for some uses) and the merging of _í_ and the former _ejí_.[17] Sometime before the 18th century, the Czech language abandoned a distinction between phonemic /l/ and /ʎ/ which survives in Slovak.[18]
 
 With the beginning of the national revival of the mid-18th century, Czech historians began to emphasize their people's accomplishments from the 15th through the 17th centuries, rebelling against the Counter-Reformation (the Habsburg re-catholization efforts which had denigrated Czech and other non-Latin languages).[19] Czech philologists studied sixteenth-century texts, advocating the return of the language to high culture.[20] This period is known as the Czech National Revival[21] (or Renaissance).[22]
 
@@ -47,7 +47,7 @@ Adherence to historical patterns was later relaxed and standard Czech adopted a 
 
 Geographic distribution
 
-Languages_of_CE_Europe.PNG and Eastern Europe. Within the Czech Republic, Common Czech is represented by dark yellow (C1) and Moravian dialects by medium yellow (C2) and light green (C3).|alt=Eastern European countries are shown on a map. The Czech Republic, the westernmost of these, is shaped a bit like a jagged horizontal oval, and it is covered by the color representing the Czech language and, at its borders, a little by languages from Poland and Slovakia.]] Vojvodina_rusyn_croatian_czech_map.png, Serbia]] In 2005 and 2007, Czech was spoken by about 10 million residents of the Czech Republic.[28][29] A Eurobarometer survey conducted from January to March 2012 found that the first language of 98 percent of Czech citizens was Czech, the third-highest in the European Union (behind Greece and Hungary).[30]
+and Eastern Europe. Within the Czech Republic, Common Czech is represented by dark yellow (C1) and Moravian dialects by medium yellow (C2) and light green (C3).|alt=Eastern European countries are shown on a map. The Czech Republic, the westernmost of these, is shaped a bit like a jagged horizontal oval, and it is covered by the color representing the Czech language and, at its borders, a little by languages from Poland and Slovakia.]] , Serbia]] In 2005 and 2007, Czech was spoken by about 10 million residents of the Czech Republic.[28][29] A Eurobarometer survey conducted from January to March 2012 found that the first language of 98 percent of Czech citizens was Czech, the third-highest in the European Union (behind Greece and Hungary).[30]
 
 Czech, the official language of the Czech Republic (a member of the European Union since 2004), is one of the EU's official languages and the 2012 Eurobarometer survey found that Czech was the foreign language most often used in Slovakia.[31] Economist Jonathan van Parys collected data on language knowledge in Europe for the 2012 European Day of Languages. The five countries with the greatest use of Czech were the Czech Republic (98.77 percent), Slovakia (24.86 percent), Portugal (1.93 percent), Poland (0.98 percent) and Germany (0.47 percent).[32]
 
@@ -63,8 +63,6 @@ Standard Czech
 The modern written standard is directly based on the standardization during the Czech National Revival in the 1830s, significantly influenced by Josef Jungmann's Czech–German dictionary published during 1834–1839. Jungmann used vocabulary of the Bible of Kralice (1579–1613) period and of the language used by his contemporaries. He borrowed words not present in Czech from other Slavic languages or created neologisms.[37]
 
 Phonology
-
-Synagoga_v_Úštěku.ogg
 
 Standard Czech contains ten basic vowel phonemes, and three more found only in loanwords. They are , their long counterparts , and three diphthongs, . The latter two diphthongs and the long are exclusive to loanwords.[38] Vowels are never reduced to schwa sounds when unstressed.[39] Each word usually has primary stress on its first syllable, except for enclitics (minor, monosyllabic, unstressed syllables). In all words of more than two syllables, every odd-numbered syllable receives secondary stress. Stress is unrelated to vowel length, and the possibility of stressed short vowels and unstressed long vowels can be confusing to students whose native language combines the features (such as most varieties of English).[40]
 
@@ -85,7 +83,6 @@ The consonants can be syllabic, acting as syllable nuclei in place of a vowel. _
 CONSONANTS
 {| class="wikitable" style="text-align:center" |- !colspan=2| ! Labial ! Alveolar ! Post-
 alveolar ! Palatal ! Velar ! Glottal |- !colspan=2| Nasal | | | | | | |- !rowspan=2| Plosive ! | | | | | | |- ! | | | | | () | |- !rowspan=2| Affricate ! | | | | | | |- ! | | () | () | | | |- !rowspan=2| Fricative ! | () | | | | | |- ! | | | | | | |- !rowspan=2| Trill ! | | | | | | |- ! | | | | | | |- !colspan=2| Approximant | | | | | | |} VOWELS
-Czech_vowel_chart.svg
 
 Grammar
 
@@ -294,7 +291,7 @@ Most Czech verbs fail into one of five classes, which determine their conjugatio
 
 Orthography
 
-Psací_písmo.gif Czech has one of the most phonemic orthographies of all European languages. Its thirty-one graphemes represent thirty sounds (in most dialects, _i_ and _y_ have the same sound), and it contains only one digraph: _ch_, which follows _h_ in the alphabet.[87] As a result, some of its characters have been used by phonologists to denote corresponding sounds in other languages. The characters _q_, _w_ and _x_ appear only in foreign words.[88] The háček (ˇ) is used with certain letters to form new characters: _š_, _ž_, and _č_, as well as _ň_, _ě_, _ř_, _ť_, and _ď_ (the latter five uncommon outside Czech). The last two letters are sometimes written with a comma above (ʼ, an abbreviated háček) because of their height.[89] The character _ó_ exists only in loanwords and onomatopoeia.[90]
+Czech has one of the most phonemic orthographies of all European languages. Its thirty-one graphemes represent thirty sounds (in most dialects, _i_ and _y_ have the same sound), and it contains only one digraph: _ch_, which follows _h_ in the alphabet.[87] As a result, some of its characters have been used by phonologists to denote corresponding sounds in other languages. The characters _q_, _w_ and _x_ appear only in foreign words.[88] The háček (ˇ) is used with certain letters to form new characters: _š_, _ž_, and _č_, as well as _ň_, _ě_, _ř_, _ť_, and _ď_ (the latter five uncommon outside Czech). The last two letters are sometimes written with a comma above (ʼ, an abbreviated háček) because of their height.[89] The character _ó_ exists only in loanwords and onomatopoeia.[90]
 
 Unlike most European languages, Czech distinguishes vowel length; long vowels are indicated by an acute accent or, occasionally with _ů_, a ring. Long _u_ is usually written _ú_ at the beginning of a word or morpheme (_úroda_, _neúrodný_) and _ů_ elsewhere,[91] except for loanwords (_skútr_) or onomatopoeia (_bú_).[92] Long vowels and _ě_ are not considered separate letters in the alphabetical order.[93]
 
@@ -449,7 +446,7 @@ Although older German loanwords were colloquial, recent borrowings from other la
 
 Sample text
 
-Presl_brambor.JPG According to Article 1 of the United Nations Universal Declaration of Human Rights:
+According to Article 1 of the United Nations Universal Declaration of Human Rights:
 
 Czech: _Všichni lidé se rodí svobodní a sobě rovní co do důstojnosti a práv. Jsou nadáni rozumem a svědomím a mají spolu jednat v duchu bratrství._[134]
 

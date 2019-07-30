@@ -1,5 +1,3 @@
-Gamma_plot.svg
-
 In mathematics, the GAMMA FUNCTION (represented by Γ, the capital letter gamma from the Greek alphabet) is one commonly used extension of the factorial function to complex numbers. The gamma function is defined for all complex numbers except the non-positive integers, and for any positive integer n,
 
 _Γ_(_n_) = (_n_ − 1)! .
@@ -19,8 +17,6 @@ Other extensions of the factorial function do exist, but the gamma function is t
 
 Motivation
 
-Factorial_Interpolation.svg
-
 The gamma function can be seen as a solution to the following interpolation problem:
 
     "Find a smooth curve that connects the points (x, y) given by y = (x − 1)! at the positive integer values for x."
@@ -28,8 +24,6 @@ The gamma function can be seen as a solution to the following interpolation prob
 A plot of the first few factorials makes clear that such a curve can be drawn, but it would be preferable to have a formula that precisely describes the curve, in which the number of operations does not depend on the size of x. The simple formula for the factorial, x! = 1 × 2 × ⋯ × x, cannot be used directly for fractional values of x since it is only valid when is a natural number (or positive integer). There are, relatively speaking, no such simple solutions for factorials; no finite combination of sums, products, powers, exponential functions, or logarithms will suffice to express x!; but it is possible to find a general formula for factorials using tools such as integrals and limits from calculus. A good solution to this is the gamma function.[1]
 
 There are infinitely many continuous extensions of the factorial to non-integers: infinitely many curves can be drawn through any set of isolated points. The gamma function is the most useful solution in practice, being analytic (except at the non-positive integers), and it can be characterizedcharacterized{{''}}?|date=September 2018}} in several ways. However, it is not the only analytic function which extends the factorial, as adding to it any analytic function which is zero on the positive integers, such as , will give another function with that property.[2]
-
-Gamma_plus_sin_pi_z.png
 
 A more restrictive property than satisfying the above interpolation is to satisfy the recurrence relation defining a translated version of the factorial function,
 
@@ -255,7 +249,7 @@ For a positive integer  the derivative of the gamma function can be calculated 
 
 $$\Gamma'(m+1) = m! \left( - \gamma + \sum_{k=1}^m\frac{1}{k} \right)\,.$$
 
-For ℜ(x) > 0 the nth derivative of the gamma function is: DerivGamma.png
+For ℜ(x) > 0 the nth derivative of the gamma function is:
 
 $$\frac{d^n}{dx^n}\Gamma(x) = \int_0^\infty t^{x-1} e^{-t} (\ln t)^n \, dt.$$
 
@@ -305,9 +299,7 @@ $$x^{1 - s} < \frac{\Gamma(x + 1)}{\Gamma(x + s)} < (x + 1)^{1 - s}.$$
 
 Stirling's formula
 
-Gamma1.png
-
-Gamma_abs_3D.png The behavior of Γ(z) for an increasing positive variable is simple. It grows quickly, faster than an exponential function in fact. Asymptotically as z → ∞, the magnitude of the gamma function is given by Stirling's formula
+The behavior of Γ(z) for an increasing positive variable is simple. It grows quickly, faster than an exponential function in fact. Asymptotically as z → ∞, the magnitude of the gamma function is given by Stirling's formula
 
 $$\Gamma(z+1)\sim\sqrt{2\pi z}\left(\frac{z}{e}\right)^z,$$
 where the symbol ∼ implies asymptotic convergence. In other words, the ratio of the two sides converges to 1 as z →  + ∞. [14]
@@ -465,8 +457,6 @@ $$\frac{1}{\Gamma(-3)} = \frac{1}{\Gamma(-2)} = \frac{1}{\Gamma(-1)} = \frac{1}{
 
 The log-gamma function
 
-LogGamma_Analytic_Function.png
-
 Because the gamma and factorial functions grow so rapidly for moderately large arguments, many computing environments include a function that returns the natural logarithm of the gamma function (often given the name lgamma or lngamma in programming environments or gammaln in spreadsheets); this grows much more slowly, and for combinatorial calculations allows adding and subtracting logs instead of multiplying and dividing very large values. It is often defined as[28]
 
 $$\ln \Gamma ( z ) = - \gamma z - \ln z + \sum _ { k = 1 } ^ { \infty } \left[ \frac { z } { k } - \ln \left( 1 + \frac { z } { k } \right) \right].$$
@@ -586,7 +576,7 @@ The gamma function has caught the interest of some of the most prominent mathema
 
 18th century: Euler and Stirling
 
-DanielBernoulliLettreAGoldbach-1729-10-06.jpg's letter to Christian Goldbach, October 6, 1729]]
+'s letter to Christian Goldbach, October 6, 1729]]
 
 The problem of extending the factorial to non-integer arguments was apparently first considered by Daniel Bernoulli and Christian Goldbach in the 1720s, and was solved at the end of the same decade by Leonhard Euler. Euler gave two different definitions: the first was not his integral but an infinite product,
 
@@ -601,8 +591,6 @@ which is valid for . By the change of variables −ln _s_}}, this becomes the fa
 James Stirling, a contemporary of Euler, also attempted to find a continuous expression for the factorial and came up with what is now known as Stirling's formula. Although Stirling's formula gives a good estimate of , also for non-integers, it does not provide the exact value. Extensions of his formula that correct the error were given by Stirling himself and by Jacques Philippe Marie Binet.
 
 19th century: Gauss, Weierstrass and Legendre
-
-Euler_factorial_paper.png
 
 Carl Friedrich Gauss rewrote Euler's product as
 
@@ -636,7 +624,7 @@ Reference tables and software
 
 Although the gamma function can be calculated virtually as easily as any mathematically simpler function with a modern computer—even with a programmable pocket calculator—this was of course not always the case. Until the mid-20th century, mathematicians relied on hand-made tables; in the case of the gamma function, notably a table computed by Gauss in 1813 and one computed by Legendre in 1825.
 
-Jahnke_gamma_function.png and .]]
+and .]]
 
 Tables of complex values of the gamma function, as well as hand-drawn graphs, were given in _Tables of Higher Functions_ by Jahnke and , first published in Germany in 1909. According to Michael Berry, "the publication in J&E of a three-dimensional graph showing the poles of the gamma function in the complex plane acquired an almost iconic status."[37]
 

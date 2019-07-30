@@ -3,7 +3,7 @@ CLARA PETACCI, known as CLARETTA PETACCI (; 28 February 1912 – 28 April 1945),
 
 Family
 
-Clara Petacci's father was Dr. Francesco Petacci, primary physician of Pope Pius XI. Her sister was actress Miriam di San Servolo (31 May 1923 – 24 May 1991), also known as Miriam Petacci or Miriam Day. Petacci's brother, Marcello Petacci, was captured with Mussolini and Petacci. However, rather than being executed in Dongo, he was shot while trying to escape. Mussolini_e_Petacci_a_Piazzale_Loreto,_1945.jpg, Mussolini, Clara Petacci, Pavolini and Starace in Piazzale Loreto, 1945]]
+Clara Petacci's father was Dr. Francesco Petacci, primary physician of Pope Pius XI. Her sister was actress Miriam di San Servolo (31 May 1923 – 24 May 1991), also known as Miriam Petacci or Miriam Day. Petacci's brother, Marcello Petacci, was captured with Mussolini and Petacci. However, rather than being executed in Dongo, he was shot while trying to escape. , Mussolini, Clara Petacci, Pavolini and Starace in Piazzale Loreto, 1945]]
 
 
 Relationship with Mussolini

@@ -14,7 +14,7 @@ Phoenician traders arrived on the North African coast around 900 BC and establis
 
 The Carthaginian state declined because of successive defeats by the Romans in the Punic Wars, and in 146 BC, the city of Carthage was destroyed. As Carthaginian power waned, the influence of Berber leaders in the hinterland grew.
 
-GM_Massinissa.png]]
+]]
 
 By the 2nd century BC, several large but loosely administered Berber kingdoms had emerged. After that, king Masinissa managed to unify Numidia under his rule.[2][3][4]
 
@@ -42,7 +42,7 @@ The invasion of the Banu Hilal Arab tribes in 11th century, sacked Kairouan, and
 
 Medieval Muslim Algeria
 
-Hafsids_Bougie_Algeria_1249_1276_ornemental_Kufic.JPG with ornemental Kufic, Bougie, Algeria, 1249-1276.]] The second Arab military expeditions into the Maghreb, between 642 and 669, resulted in the spread of Islam. The Umayyads (a Muslim dynasty based in Damascus from 661 to 750) recognised that the strategic necessity of dominating the Mediterranean dictated a concerted military effort on the North African front. By 711 Umayyad forces helped by Berber converts to Islam had conquered all of North Africa. In 750 the Abbasids succeeded the Umayyads as Muslim rulers and moved the caliphate to Baghdad. Under the Abbasids, Berber Kharijites Sufri Banu Ifran were opposed to Umayyad and Abbasids. After, the Rustumids (761–909) actually ruled most of the central Maghrib from Tahirt, southwest of Algiers. The imams gained a reputation for honesty, piety, and justice, and the court of Tahirt was noted for its support of scholarship. The Rustumid imams failed, however, to organise a reliable standing army, which opened the way for Tahirt's demise under the assault of the Fatimid dynasty.
+with ornemental Kufic, Bougie, Algeria, 1249-1276.]] The second Arab military expeditions into the Maghreb, between 642 and 669, resulted in the spread of Islam. The Umayyads (a Muslim dynasty based in Damascus from 661 to 750) recognised that the strategic necessity of dominating the Mediterranean dictated a concerted military effort on the North African front. By 711 Umayyad forces helped by Berber converts to Islam had conquered all of North Africa. In 750 the Abbasids succeeded the Umayyads as Muslim rulers and moved the caliphate to Baghdad. Under the Abbasids, Berber Kharijites Sufri Banu Ifran were opposed to Umayyad and Abbasids. After, the Rustumids (761–909) actually ruled most of the central Maghrib from Tahirt, southwest of Algiers. The imams gained a reputation for honesty, piety, and justice, and the court of Tahirt was noted for its support of scholarship. The Rustumid imams failed, however, to organise a reliable standing army, which opened the way for Tahirt's demise under the assault of the Fatimid dynasty.
 
 With their interest focused primarily on Egypt and Muslim lands beyond, the Fatimids left the rule of most of Algeria to the Zirids and Hammadid (972–1148), a Berber dynasty that centered significant local power in Algeria for the first time, but who were still at war with Banu Ifran (kingdom of Tlemcen) and Maghraoua (942-1068).[8] This period was marked by constant conflict, political instability, and economic decline. Following a large incursion of Arab Bedouin from Egypt beginning in the first half of the 11th century, the use of Arabic spread to the countryside, and sedentary Berbers were gradually Arabised.
 
@@ -73,8 +73,6 @@ French rule
 
 19th century colonialism
 
-French_Algeria_evolution_1830-1962_map-fr.svg
-
 North African boundaries have shifted during various stages of the conquests. The borders of modern Algeria were created by the French, whose colonization began in 1830 (French invasion began on July 5). To benefit French colonists (many of whom were not in fact of French origin but Italian, Maltese, and Spanish) and nearly the entirety of whom lived in urban areas, northern Algeria was eventually organized into overseas departments of France, with representatives in the French National Assembly. France controlled the entire country, but the traditional Muslim population in the rural areas remained separated from the modern economic infrastructure of the European community.
 
 As a result of what the French considered an insult to the French consul in Algiers by the Day in 1827, France blockaded Algiers for three years. In 1830, France invaded and occupied the coastal areas of Algeria, citing a diplomatic incident as casus belli. Hussein Dey went into exile. French colonization then gradually penetrated southwards, and came to have a profound impact on the area and its populations. The European conquest, initially accepted in the Algiers region, was soon met by a rebellion, led by Abdel Kadir, which took roughly a decade for the French troops to put down. By 1848 nearly all of northern Algeria was under French control, and the new government of the Second Republic declared the occupied lands an integral part of France. Three "civil territories"—Algiers, Oran, and Constantine—were organized as French départements (local administrative units) under a civilian government.
@@ -88,8 +86,6 @@ Rise of Algerian nationalism and French resistance
 A new generation of Islamic leadership emerged in Algeria at the time of World War I and grew to maturity during the 1920s and 1930s. Various groups were formed in opposition to French rule, most notable the National Liberation Front (FLN) and the National Algerian Movement.
 
 _Colons_ (colonists), or, more popularly, _pieds noirs_ (literally, black feet) dominated the government and controlled the bulk of Algeria's wealth. Throughout the colonial era, they continued to block or delay all attempts to implement even the most modest reforms. But from 1933 to 1936, mounting social, political, and economic crises in Algeria induced the indigenous population to engage in numerous acts of political protest. The government responded with more restrictive laws governing public order and security. Algerian Muslims rallied to the French side at the start of World War II as they had done in World War I. But the colons were generally sympathetic to the collaborationist Vichy regime established following France's defeat by Nazi Germany. After the fall of the Vichy regime in Algeria (November 11, 1942) as a result of Operation Torch, the Free French commander in chief in North Africa slowly rescinded repressive Vichy laws, despite opposition by colon extremists.
-
-Algérie_La_France_vous_parle.jpg
 
 In March 1943, Muslim leader Ferhat Abbas presented the French administration with the Manifesto of the Algerian People, signed by 56 Algerian nationalist and international leaders. The manifesto demanded an Algerian constitution that would guarantee immediate and effective political participation and legal equality for Muslims. Instead, the French administration in 1944 instituted a reform package, based on the 1936 Viollette Plan, that granted full French citizenship only to certain categories of "meritorious" Algerian Muslims, who numbered about 60,000. In April 1945 the French had arrested the Algerian nationalist leader Messali Hadj. On May 1 the followers of his Parti du Peuple Algérien (PPA) participated in demonstrations which were violently put down by the police. Several Algerians were killed. The tensions between the Muslim and colon communities exploded on May 8, 1945, V-E Day. When a Muslim march was met with violence, marchers rampaged. The army and police responded by conducting a prolonged and systematic ratissage (literally, raking over) of suspected centers of dissidence. According to official French figures, 1,500 Muslims died as a result of these countermeasures. Other estimates vary from 6,000 to as high as 45,000 killed. Many nationalists drew the conclusion that independence could not be won by peaceful means, and so started organizing for violent rebellion.
 
@@ -122,7 +118,7 @@ Late summer 1963 saw sporadic incidents attributed to the FFS. More serious figh
 
 The 1965 coup and the Boumédienne military regime
 
-Algerian_Economy_1972.ogv _Main Article 1965 Algerian coup d'etat_
+_Main Article 1965 Algerian coup d'etat_
 
 On 19 June 1965, Houari Boumédienne deposed Ahmed Ben Bella in a military coup d'état that was both swift and bloodless. Ben Bella "disappeared", and would not be seen again until he was released from house arrest in 1980 by Boumédienne's successor, Colonel Chadli Bendjedid. Boumédienne immediately dissolved the National Assembly and suspended the 1963 constitution. Political power resided in the Council of the Revolution, a predominantly military body intended to foster cooperation among various factions in the army and the party.
 
