@@ -3,12 +3,12 @@ The Sanctuary of MADONNA DELLA CERIOLA (), is a Roman Catholic church in the mun
 
 Location
 
-Madonna_della_ceriola_volta.png The church is located at an elevation of 600 MSL in the highest point of the island, which offers a wide view of Lake Iseo and its surrounding mountains.[1] The closest village to the sanctuary is Cure (466 MSL).
+The church is located at an elevation of 600 MSL in the highest point of the island, which offers a wide view of Lake Iseo and its surrounding mountains.[1] The closest village to the sanctuary is Cure (466 MSL).
 
 
 History
 
-Madonna_della_ceriola_statua.png A first church on the top of the mountain was built during the 13th century,[2] likely on a pagan temple location.[3] Present-day building was fulfilled in the 16th century, but its inner part was modified the following century by the insertion of a new chancel. The bell tower was built in 1750.
+A first church on the top of the mountain was built during the 13th century,[2] likely on a pagan temple location.[3] Present-day building was fulfilled in the 16th century, but its inner part was modified the following century by the insertion of a new chancel. The bell tower was built in 1750.
 
 The church was the first Marian shrine to be built near Lake Iseo. The wooden statue worshipped in the shrine goes back to the 12th century and is known as Madonna _della Ceriola_ presumably because it was engraved in a block of Austrian oak wood (in Italian _cerro_). It represents the Holy Virgin on a throne taking baby Jesus with her arms.[4]
 
@@ -17,7 +17,7 @@ Inside the church, with some frescoes and paintings and two fine saints' statues
 
 Access to the church
 
-Madonna_della_ceriola_ex_voto.png The Sanctuary is reached by a cobbled mule-track linking it with the village of Cure.[6] Fifteen chapels built in the second part of the 20th century and depicting the mysteries of the Rosary are located alongside the last part of the track.[7] The shrine can also be accessed following a longer walking path starting near Peschiera Maraglio jetty[8] (185 MSL).
+The Sanctuary is reached by a cobbled mule-track linking it with the village of Cure.[6] Fifteen chapels built in the second part of the 20th century and depicting the mysteries of the Rosary are located alongside the last part of the track.[7] The shrine can also be accessed following a longer walking path starting near Peschiera Maraglio jetty[8] (185 MSL).
 
 
 References

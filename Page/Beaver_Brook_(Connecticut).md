@@ -4,11 +4,11 @@ BEAVER BROOK is a stream that runs through Windham and Scotland, Windham County,
 Crossings
 
   Town            Crossing
-  --------------- -------------------------------------
+  --------------- ----------
   Windham         Back Rd.
   Bass Rd.
   Brooklyn Tpk.
-  Scotland        Connecticut_Highway_14.svg Route 14
+  Scotland        Route 14
   Bass Rd.
   Merrick Brook
 

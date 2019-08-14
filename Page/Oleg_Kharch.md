@@ -5,7 +5,7 @@ His works ranges from street art projects, artistic collage to traditional paint
 
 Education and personal life
 
-Oleg_Kharch-_Artist..jpg 15_№45_Будмуза_або_дівчина_з_відром.jpg From 1980-85 he was a student of the Faculty of Building Technology in Dnipro (ex-Dnepropetrovsk) Construction Engineering Institute,[1] and during 1981–83 he attended the art studio of Stanislav Cherevko, Dnepropetrovsk.
+From 1980-85 he was a student of the Faculty of Building Technology in Dnipro (ex-Dnepropetrovsk) Construction Engineering Institute,[1] and during 1981–83 he attended the art studio of Stanislav Cherevko, Dnepropetrovsk.
 
 1981 -83 studied in art studio of Stanislav Cherevko/ Dnipro (ex-Dnepropetrovsk)/ USSR. 1985 -87 junior sergeant, squad leader of armored vehicles Repair in the Soviet Army.
 

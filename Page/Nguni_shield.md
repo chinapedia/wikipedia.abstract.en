@@ -1,5 +1,3 @@
-Annals_of_the_South_African_Museum_=_Annale_van_die_Suid-Afrikaanse_Museum_(1972)_(17794609233).jpg
-
 | 1. _ikhawu_ with staff 117 cm and hide 95 cm, 1935, Lusikisiki
 | 2. Retainer of chief, with shield, 1870s, Queenstown
 | 3. _ikhawu_ of a diviner, 1948, Mount Frere
@@ -27,7 +25,7 @@ Its use went in decline when firearms were introduced to hostilities. When lions
 
 Role and deployment in tribal life
 
-King-Mpande-1.gif War shields, unlike assegais,[24] were usually stockpiled by a king or chief, to be distributed in times of need.[25][26] Besides its defensive role, the shield was a standard or coat of arms of the tribe. Consequently, King Shaka meted out serious punishment to warriors who lost them. A warrior's duty was to return his shield to the king as a matter of honour and patriotism – to leave them in enemy hands or on foreign soil brought ill fame.[27][28]
+War shields, unlike assegais,[24] were usually stockpiled by a king or chief, to be distributed in times of need.[25][26] Besides its defensive role, the shield was a standard or coat of arms of the tribe. Consequently, King Shaka meted out serious punishment to warriors who lost them. A warrior's duty was to return his shield to the king as a matter of honour and patriotism – to leave them in enemy hands or on foreign soil brought ill fame.[27][28]
 
 The colours of shields were chosen specifically by the Zulu king, and the national cattle herd was selected and bred with these hide preferences in mind.[29] King Shaka favoured hides from cattle in Jobe's country near Mzinyati in Nkandla district.[30] King Mpande's large herd was divided according to colour-pattern and King Cetshwayo kept a large herd of white oxen near oNgoye Forest, the so-called _inyonikayipumuli_ or 'bird that never rests'. This valued herd was confiscated and dispersed when Cetshwayo was deposed.[31]
 

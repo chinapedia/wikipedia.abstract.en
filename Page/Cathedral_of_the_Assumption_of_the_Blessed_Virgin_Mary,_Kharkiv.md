@@ -8,8 +8,6 @@ See also
 -   Roman Catholicism in Ukraine
 -   Cathedral of the Assumption of the Blessed Virgin Mary
 
-Костел,_вул._Гоголя,4,_м.Харків.JPG
-
 
 References
 

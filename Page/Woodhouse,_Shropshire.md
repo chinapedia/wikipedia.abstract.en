@@ -1,5 +1,3 @@
-Woodhouse_lodge_-_geograph.org.uk_-_309848.jpg
-
 WOODHOUSE is a Grade II* listed country house and 1,500 acre estate in West Felton, Shropshire, England.[1]
 
 It was built in 1773–74 by Robert Mylne for William Mostyn Owen I. Born William Mostyn, he was the son of William Mostyn the elder and his wife, Grace Wynne. Upon inheriting the estate of Woodhouse from his cousin, John Lloyd Owen, William the younger changed his name to William Mostyn Owen.

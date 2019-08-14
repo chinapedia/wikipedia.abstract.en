@@ -1,5 +1,3 @@
-Curzon_Mayfair,_Mayfair,_W1_(4298543667).jpg
-
 The CURZON MAYFAIR CINEMA is a Grade II listed building at 37–38 Curzon Street, London W1, built in 1963–66 by H. G. Hammond for Sir John Burnet, Tait and Partners, architects.[1]
 
 Historic England have described it as "the finest surviving cinema building of the post-war period, it is also the least altered."[2] It is part of the Curzon Cinemas chain.

@@ -8,7 +8,7 @@ During archaeological excavation of ancient mound at Alapur _black slipped ware_
 
 Geography
 
-Jind_Baba_ki_Mazar_,Alapur.jpg Alapur is located at .[8] _Jind baba ki Mazar_ is located on National Highway 27.[9] Lucknow-Faizabad road enters Barabanki by crossing the Reth river by a bridge at Alapur[10]
+Alapur is located at .[8] _Jind baba ki Mazar_ is located on National Highway 27.[9] Lucknow-Faizabad road enters Barabanki by crossing the Reth river by a bridge at Alapur[10]
 
 
 References

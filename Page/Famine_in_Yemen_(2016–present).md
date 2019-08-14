@@ -33,7 +33,7 @@ Sana'a Centre for Strategical Studies recorded that the banking crisis in fact b
 
 2017
 
-019_Rally_(39025071401).jpg More than 50,000 children in Yemen died from starvation during 2017.[63][64][65][66]
+More than 50,000 children in Yemen died from starvation during 2017.[63][64][65][66]
 
 On 5 November 2017, the Saudi-led coalition began blocking all fuel shipments to Yemen, causing farmers to abandon modern equipment like tractors and forcing hospitals to function without generators.[67][68]
 

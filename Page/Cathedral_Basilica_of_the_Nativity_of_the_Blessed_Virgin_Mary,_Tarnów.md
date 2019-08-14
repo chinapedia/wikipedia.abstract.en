@@ -12,8 +12,6 @@ See also
 -   Roman Catholicism in Poland
 -   Cathedral Basilica of the Nativity of the Blessed Virgin Mary
 
-Tarnow_katedra_kolb2461.JPG
-
 
 References
 

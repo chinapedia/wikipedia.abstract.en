@@ -5,8 +5,6 @@ Introductions
 
 Production cars
 
-Citroën_C3_-_2016_(17).jpg Ferrari_LaFerrari_Aperta_(24).jpg Opel_Ampera-E_-_Mondial_de_l'Automobile_de_Paris_2016_-_002.jpg Porsche_Panamera_4S_diesel_-_Mondial_de_l'Automobile_de_Paris_2016_-_001.jpg
-
 -   Abarth 595 (refresh)
 -   Alfa Romeo Giulia Veloce
 -   Audi Q3 (refresh)
@@ -54,7 +52,7 @@ Citroën_C3_-_2016_(17).jpg Ferrari_LaFerrari_Aperta_(24).jpg Opel_Ampera-E_-_Mo
 
 Concept cars
 
-Mercedes_Generation_EQ_-_Mondial_de_l'Automobile_de_Paris_2016_-_003.jpg ]]
+]]
 
 -   BMW X2
 -   Citroen CXperience

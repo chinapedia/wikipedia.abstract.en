@@ -5,7 +5,7 @@ The site of the house is now occupied by modern housing, but parts of the former
 
 Location
 
-Fair_oak_park_map.png Ordnance Survey mapping from 1919 shows Fair Oak Park House situated where the junction of Monosa Drive and Glenwood Court is today. The driveway from the house ran northeastwards, parallel to Mortimers Lane, before turning at a right angle and joining Mortimers Lane directly opposite Knowle Lane.[1]
+Ordnance Survey mapping from 1919 shows Fair Oak Park House situated where the junction of Monosa Drive and Glenwood Court is today. The driveway from the house ran northeastwards, parallel to Mortimers Lane, before turning at a right angle and joining Mortimers Lane directly opposite Knowle Lane.[1]
 
 
 History

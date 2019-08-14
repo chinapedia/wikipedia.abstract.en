@@ -8,7 +8,7 @@ Clochafarmore is located east-northeast of Knockbridge, Dundalk on the left bank
 
 History and legend
 
-Cuchulainn's_death,_illustration_by_Stephen_Reid_1904.jpg's death, illustration by Stephen Reid (1904).]] Cloghafarmore.jpg The standing stone, 3 metres high, was erected at an unknown point in the distant past, believed to be during the Bronze Age.
+'s death, illustration by Stephen Reid (1904).]] The standing stone, 3 metres high, was erected at an unknown point in the distant past, believed to be during the Bronze Age.
 
 This standing stone is traditionally associated with the death of the legendary hero Cúchulainn. Lugaid mac Con Roí has three magical spears made, and it is prophesied that a king will fall by each of them. With the first he kills Cú Chulainn's charioteer Láeg; with the second he kills Cú Chulainn's horse, Liath Macha; with the third he hits Cú Chulainn, mortally wounding him. Cú Chulainn ties himself to a standing stone — traditionally Clochafarmore ("Stone of the Big Man"), which had been erected to mark the grave of a past great warrior.[4]
 

@@ -19,8 +19,6 @@ Protocol Overview - Version 1
 
 Messaging
 
-Bolt-typical-interaction.png
-
 Bolt clients and servers both send data over the connection as a sequence of messages. Each message has a type (denoted by a "signature" byte) and may include additional data. The client drives the interaction, and each message sent by the client will cause one or more response messages to be sent by the server.
 
 Client messages:

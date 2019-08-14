@@ -27,7 +27,7 @@ The cost of construction was about £240 (equivalent to £ in ).
 
 Extant examples
 
-Pickett-Hamilton_Fort_southsea.jpg]] The forts were prone to flooding and they were not sufficiently strong to bear the weight of the heavy aircraft developed during the war. Consequently, many forts were moved to the periphery of airfields and are not in their original location. More recently, some forts have been moved as airfields have been developed for modern aircraft. Records show that there were 335 installations. Forty-eight examples of this type remain extant.
+]] The forts were prone to flooding and they were not sufficiently strong to bear the weight of the heavy aircraft developed during the war. Consequently, many forts were moved to the periphery of airfields and are not in their original location. More recently, some forts have been moved as airfields have been developed for modern aircraft. Records show that there were 335 installations. Forty-eight examples of this type remain extant.
 
 A number of forts are displayed at Museums: Tangmere Military Aviation Museum, Lashenden Air Warfare Museum, D-Day Museum, Southsea (moved from its original location) and an inner part only at the Imperial War Museum Duxford.
 

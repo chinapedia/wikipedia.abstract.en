@@ -8,8 +8,6 @@ See also
 -   Roman Catholicism in Poland
 -   Cathedral Basilica of the Holy Family
 
-Częstochowa_Archikatedra_ołtarz_p.jpg
-
 
 References
 

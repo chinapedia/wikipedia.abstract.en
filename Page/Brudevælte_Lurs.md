@@ -1,5 +1,3 @@
-Bronse-Lurer-Danmark.png
-
 The BRUDEVÆLTE LURS, found in a bog north of Lynge on the Danish island of Zealand, are six lurs, which are so well preserved that they can still be played.
 
 

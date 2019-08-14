@@ -29,7 +29,7 @@ The Lesser Himalayan sequence is characterized by low-grade meta-sedimentary roc
 
 Concepts
 
-Reconstruction_of_Pre-tectonic_Himalaya_models.png The initial configuration of pre-collisional Himalaya can be expressed in the four following models:[21]
+The initial configuration of pre-collisional Himalaya can be expressed in the four following models:[21]
 
 -   Passive continental margin model
 -   Crystalline axis model
@@ -52,7 +52,7 @@ Additionally, it is proposed that the protolith of the Greater Himalaya may have
 
 Problems
 
-Brookfield opposes the model by explaining that in the Lesser Himalaya, thick and well developed strata, younger than Precambrian of age, are absent, while it is very well preserved in Tethyan Himalaya.[32] DeCelles et al. also demonstrated that this model fails to explain the relationship of Greater Himalaya and Lesser Himalaya, along the main central thrust in Nepal.[33] In addition, Spencer et al. achieved contrasting results in the εNd values, revealing a more negative value in Lesser Himalaya compared to both the Greater Himalaya and Tethyan Himalaya, suggesting different sources amongst the sequences. The latter two have values that resemble the Arabian Shield and Eastern Antarctica, which conflict with the Indian Shield source that composes Lesser Himalaya.[34][35] Tectonic_Evolution_of_the_Passive_Continental_Margin_Model.png
+Brookfield opposes the model by explaining that in the Lesser Himalaya, thick and well developed strata, younger than Precambrian of age, are absent, while it is very well preserved in Tethyan Himalaya.[32] DeCelles et al. also demonstrated that this model fails to explain the relationship of Greater Himalaya and Lesser Himalaya, along the main central thrust in Nepal.[33] In addition, Spencer et al. achieved contrasting results in the εNd values, revealing a more negative value in Lesser Himalaya compared to both the Greater Himalaya and Tethyan Himalaya, suggesting different sources amongst the sequences. The latter two have values that resemble the Arabian Shield and Eastern Antarctica, which conflict with the Indian Shield source that composes Lesser Himalaya.[34][35]
 
 Crystalline axis model
 
@@ -76,7 +76,7 @@ This reconstruction predicts that the Greater Himalaya thrust over Lesser Himala
 
 Problems
 
-This model fails to reconcile with detrital zircon ages, and paleontological evidence with respect to the similarities between Tethyan and Lesser Himalaya. Similar to the crystalline axis model, this model faces the same challenges with respect to the evidence that supports the passive margin model. Trilobite fauna, paleocurrent and lithological similarities would be unlikely if the rock units were formed in separate terranes as explained by Myrow et al.[46] Earlier predictions[47] that suggest a thrust/ shortening event in Tethyan Himalaya in the early Paleozoic, and the simultaneous formation of granitic intrusions under the sequence, were also undermined by the apparent rifting isotopic signatures in the granites.[48] Accreted_Terrane_Model.gif
+This model fails to reconcile with detrital zircon ages, and paleontological evidence with respect to the similarities between Tethyan and Lesser Himalaya. Similar to the crystalline axis model, this model faces the same challenges with respect to the evidence that supports the passive margin model. Trilobite fauna, paleocurrent and lithological similarities would be unlikely if the rock units were formed in separate terranes as explained by Myrow et al.[46] Earlier predictions[47] that suggest a thrust/ shortening event in Tethyan Himalaya in the early Paleozoic, and the simultaneous formation of granitic intrusions under the sequence, were also undermined by the apparent rifting isotopic signatures in the granites.[48]
 
 Carboniferous-extension model
 
@@ -90,7 +90,7 @@ This model explains the apparent missing lower Paleozoic strata in Lesser Himala
 
 Problems
 
-Vannay et al. explains that the missing strata in Lesser Himalaya could be a result of glaciation in late Carboniferous.[51] Similar to the passive margin model, this model also implies that all the zones within the North Indian sequence share the same source; however, the εNd value and detrital zircon ages are currently controversial and may not favor this interpretation.[52][53]Carboniferous_model.jpg
+Vannay et al. explains that the missing strata in Lesser Himalaya could be a result of glaciation in late Carboniferous.[51] Similar to the passive margin model, this model also implies that all the zones within the North Indian sequence share the same source; however, the εNd value and detrital zircon ages are currently controversial and may not favor this interpretation.[52][53]
 
 
 Model comparison

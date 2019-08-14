@@ -1,4 +1,4 @@
-Willie_Mays_1954.png In baseball statistics, a PUTOUT (denoted by _PO_ or _fly out_ when appropriate) is given to a defensive player who records an out by tagging a runner with the ball when he is not touching a base (a tagout), catching a batted or thrown ball and tagging a base to put out a batter or runner (a force out), catching a thrown ball and tagging a base to record an out on an appeal play, catching a third strike (a strikeout), catching a batted ball on the fly (a flyout), or being positioned closest to a runner called out for interference.
+In baseball statistics, a PUTOUT (denoted by _PO_ or _fly out_ when appropriate) is given to a defensive player who records an out by tagging a runner with the ball when he is not touching a base (a tagout), catching a batted or thrown ball and tagging a base to put out a batter or runner (a force out), catching a thrown ball and tagging a base to record an out on an appeal play, catching a third strike (a strikeout), catching a batted ball on the fly (a flyout), or being positioned closest to a runner called out for interference.
 
 An OUTFIELDER is a person playing in one of the three defensive positions in baseball, farthest from the batter. These defenders are the left fielder, the center fielder, and the right fielder. An outfielder's duty is to try to catch long fly balls before they hit the ground or to quickly catch or retrieve and return to the infield any other balls entering the outfield. Outfielders normally play behind the six other members of the defense who play in or near the infield. By convention, each of the nine defensive positions in baseball is numbered. The outfield positions are 7 (left field), 8 (center field) and 9 (right field). These numbers are shorthand designations useful in baseball scorekeeping and are not necessarily the same as the squad numbers worn on player uniforms.
 
@@ -21,8 +21,6 @@ Key
 
 
 List
-
-Oriole_Adam_Jones.jpg
 
 -   Stats updated as of July 22, 2019.
 

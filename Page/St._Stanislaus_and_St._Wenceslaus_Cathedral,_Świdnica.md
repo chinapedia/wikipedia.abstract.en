@@ -12,8 +12,6 @@ See also
 -   Roman Catholicism in Poland
 -   St. Stanislaus
 
-Świdnica,_Katedra_05.jpg
-
 
 References
 

@@ -1,5 +1,3 @@
-River_Celebration.jpg River_Celebration_Detail.jpg
-
 CAROLE HODGSON (born 1940 in London) is an English sculptor.
 
 

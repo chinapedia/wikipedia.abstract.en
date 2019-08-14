@@ -3,7 +3,7 @@ FISHEL JACOBS is an American-Israeli rabbi, martial artist,[1] ex-Israel prison 
 
 Early years and education
 
-Jacobs was born in 1956 in Brooklyn, raised in Vermont,[4]and has lived in Israel since 1979. In 1974, Jacobs earned a black belt in karate from the International Tang Soo Do Association. He graduated from the University of Vermont. [5] Jacobs holds a PhD degree (equivalency) from the Israel Department of Religion, and completed training as a Rabbinic attorney[6] from the Harry Fischel Institute for Talmudic Research. In 2006, he was promoted to Eighth Degree Black Belt Master Instructor by Dr. Grandmaster Tae Yun Kim.[7] Rabbi_Jacobs_with_inmates.jpg
+Jacobs was born in 1956 in Brooklyn, raised in Vermont,[4]and has lived in Israel since 1979. In 1974, Jacobs earned a black belt in karate from the International Tang Soo Do Association. He graduated from the University of Vermont. [5] Jacobs holds a PhD degree (equivalency) from the Israel Department of Religion, and completed training as a Rabbinic attorney[6] from the Harry Fischel Institute for Talmudic Research. In 2006, he was promoted to Eighth Degree Black Belt Master Instructor by Dr. Grandmaster Tae Yun Kim.[7]
 
 
 Work

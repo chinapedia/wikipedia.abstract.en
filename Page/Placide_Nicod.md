@@ -1,4 +1,4 @@
-Placide_Nicod.jpg PLACIDE NICOD (29 January 1876, in Bottens – 1 August 1953, in Évian-les-Bains) was a Swiss orthopedic surgeon. He was considered to be the top French-speaking Swiss orthopedist of his time.[1]
+PLACIDE NICOD (29 January 1876, in Bottens – 1 August 1953, in Évian-les-Bains) was a Swiss orthopedic surgeon. He was considered to be the top French-speaking Swiss orthopedist of his time.[1]
 
 He studied medicine at the University of Geneva, and afterwards, was an assistant to surgeon César Roux in Lausanne. From 1903 he worked as an assistant at the orthopedic hospital in Lausanne, where from 1905 to 1948 he served as chief physician and director.[2]
 

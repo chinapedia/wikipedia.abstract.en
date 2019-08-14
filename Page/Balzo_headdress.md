@@ -1,4 +1,4 @@
-Parmigianino_-_La_schiava_turca.jpg'' because her headdress was considered a turban for centuries.[1]]] The BALZO was a headdress worn by noblewomen of Italy in the 1530s. It was donut-shaped but appeared turban-like from the front, though it was generally worn further back from the forehead exposing the hair, unlike a period turban.
+'' because her headdress was considered a turban for centuries.[1]]] The BALZO was a headdress worn by noblewomen of Italy in the 1530s. It was donut-shaped but appeared turban-like from the front, though it was generally worn further back from the forehead exposing the hair, unlike a period turban.
 
 The headdress was a throwback to a larger rounded headdress from the 15th century in Italy that covered the hair of the wearer.[2] Then the hairline was often plucked. Though mostly known as a woman's headdress, there is evidence that men also wore a form of the balzo.
 

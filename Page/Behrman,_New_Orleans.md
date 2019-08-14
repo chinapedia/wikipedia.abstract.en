@@ -24,7 +24,7 @@ The median home price in Behrman is 38% lower than the national average. The med
 
 Public Housing
 
-Degaullemanorapt.png Section 8 housing complexes in Behrman where mostly filled with low income residents whom lived in DeGaulle Manor and Christopher Park Homes. The two complexes where located on Murl and Vespasian Boulevard and mainly housed poor African-American families. HANO and HUD began demolish the projects in the 1990s.
+Section 8 housing complexes in Behrman where mostly filled with low income residents whom lived in DeGaulle Manor and Christopher Park Homes. The two complexes where located on Murl and Vespasian Boulevard and mainly housed poor African-American families. HANO and HUD began demolish the projects in the 1990s.
 
 
 Education

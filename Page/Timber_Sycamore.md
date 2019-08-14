@@ -7,7 +7,7 @@ In July 2017, US officials stated that Timber Sycamore would be phased out, with
 
 Creation
 
-US_Marines_and_Jordanian_Armed_Forces_collaborate_in_Amman,_Jordan.jpg and Jordanian Army soldiers collaborate in Amman, Jordan.]] CIA director David Petraeus first proposed a covert program of arming and training rebels in the summer of 2012. Initially President Obama rejected the proposal, but later agreed, partially due to lobbying by foreign leaders, including from King Abdullah II of Jordan and Israeli Prime Minister Benjamin Netanyahu.[8]
+and Jordanian Army soldiers collaborate in Amman, Jordan.]] CIA director David Petraeus first proposed a covert program of arming and training rebels in the summer of 2012. Initially President Obama rejected the proposal, but later agreed, partially due to lobbying by foreign leaders, including from King Abdullah II of Jordan and Israeli Prime Minister Benjamin Netanyahu.[8]
 
 Timber Sycamore began in late 2012[9] or 2013, and was similar to other Pentagon or CIA-run weapons routing and training programs that were established in previous decades to support foreign rebel forces.[10][11] Greg Miller and Adam Entous of _The Washington Post_ stated that "The operation has served as the centerpiece of the U.S. strategy to press Syrian President Bashar al-Assad to step aside."[12] The program's principal backers were the United States and Saudi Arabia, but it was also supported by some other regional Arab governments, and by the United Kingdom.[13][14] While Saudi Arabia provides more money and weaponry, the United States leads training in military equipment. The program was based in Jordan, due to that country's proximity to the battlefields in Syria.[15]
 
@@ -20,7 +20,7 @@ The existence of Timber Sycamore was revealed by _The New York Times_ and _Al Ja
 
 Scope
 
-Army_of_Glory_fighter_launch_a_BGM-71_TOW_missile.png launch a US-made BGM-71 TOW anti-tank missile at government forces during the 2017 Hama offensive.]] Timber Sycamore was run by the Military Operations Command (MOC) in Amman[22] and provided Kalashnikov assault rifles, mortars, rocket-propelled grenades, TOW anti-tank guided missiles, night vision goggles, pickup trucks, and other weapons to prospective Syrian rebel forces. Many of the weapons were purchased in the Balkans or other locations in Eastern Europe, and then routed to Syrian rebel forces and training camps by Jordanian security services. CIA paramilitary operatives trained Syrian rebels in use of the weaponry.[23][24] According to Charles Lister at _The Daily Beast_ there were at least 50 vetted rebel groups fighting in Syria that received weapons or training through the program after late 2012;[25] the exact number is not known.[26]
+launch a US-made BGM-71 TOW anti-tank missile at government forces during the 2017 Hama offensive.]] Timber Sycamore was run by the Military Operations Command (MOC) in Amman[22] and provided Kalashnikov assault rifles, mortars, rocket-propelled grenades, TOW anti-tank guided missiles, night vision goggles, pickup trucks, and other weapons to prospective Syrian rebel forces. Many of the weapons were purchased in the Balkans or other locations in Eastern Europe, and then routed to Syrian rebel forces and training camps by Jordanian security services. CIA paramilitary operatives trained Syrian rebels in use of the weaponry.[23][24] According to Charles Lister at _The Daily Beast_ there were at least 50 vetted rebel groups fighting in Syria that received weapons or training through the program after late 2012;[25] the exact number is not known.[26]
 
 According to American officials, the program was highly effective, training and equipping thousands of US-backed fighters to make substantial battlefield gains.[27][28] American officials stated that the program began to lose effectiveness after Russia intervened militarily in the Syrian Civil War.[29] David Ignatius, writing in _The Washington Post_, remarked that while the CIA program ultimately failed in its objective of removing Assad from power, it was hardly "bootless": "The program pumped many hundreds of millions of dollars to many dozens of militia groups. One knowledgeable official estimates that the CIA-backed fighters may have killed or wounded 100,000 Syrian soldiers and their allies over the past four years."[30]
 
@@ -34,8 +34,6 @@ The US delivered weapons via Ramstein Air Base in Germany – possibly in breach
 
 
 Black market
-
-CSCL_Rotterdam_in_Aqaba,_Jordan.jpg
 
 Jordanian intelligence arms sales
 

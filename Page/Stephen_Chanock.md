@@ -1,5 +1,3 @@
-StephenChanock2014.jpg
-
 STEPHEN JACOB CHANOCK (born April 15, 1956) is an American physician and geneticist. He currently serves as Director of the Division of Cancer Epidemiology and Genetics at the U.S. National Cancer Institute (NCI)¹.
 
 

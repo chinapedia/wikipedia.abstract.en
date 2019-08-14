@@ -55,10 +55,10 @@ Mark Watson-Gandy is married to Emanuella Giavarra, a distinguished authority on
 
 Honours and decorations
 
--   Order_of_St._Gregory_the_Great.png Holy See: Knight of the Order of St. Gregory the Great
--   SMOM-gc.svg SMOM: Sovereign Military Order of Malta - Knight of Malta
--   MelitenseMilitare.png SMOM: Sovereign Military Order of Malta Cross – _Order pro merito Melitensi_
--   Sacro_Militare_Ordine_Costantiniano_di_San_Giorgio.png House of Bourbon-Two Sicilies: Knight of the Sacred Military Constantinian Order of Saint George
+-   Holy See: Knight of the Order of St. Gregory the Great
+-   SMOM: Sovereign Military Order of Malta - Knight of Malta
+-   SMOM: Sovereign Military Order of Malta Cross – _Order pro merito Melitensi_
+-   House of Bourbon-Two Sicilies: Knight of the Sacred Military Constantinian Order of Saint George
 
 FREEDOMS: Freedom of the City of London [25]
 

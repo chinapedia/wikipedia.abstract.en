@@ -1,4 +1,4 @@
-Konstnärshuset.jpg KONSTNÄRSHUSET (literally Artists' House) is a building in central Stockholm, Sweden, which is owned by the Swedish Artists Association and is used as an art gallery.[1][2]
+KONSTNÄRSHUSET (literally Artists' House) is a building in central Stockholm, Sweden, which is owned by the Swedish Artists Association and is used as an art gallery.[1][2]
 
 Built in 1898, the building houses a collection of fine art. Carl Larsson (1853–1919) was the first chairman of the Artists Association which owns the building.[3]
 

@@ -11,8 +11,6 @@ See also
 
 References
 
-W_lubelskiej_Archikatedrze.jpg
-
 Category:Roman Catholic cathedrals in Poland Category:Buildings and structures in Lublin Category:Roman Catholic churches completed in 1617
 
 [1] Cathedral of St. John the Baptist in Lublin

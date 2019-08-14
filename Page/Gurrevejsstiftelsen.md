@@ -5,7 +5,7 @@ History
 
 At the turn of the 20th century, the poorhouse in the Cammelite House (now Helsingør City Museum was still the only option for elderly people in need of care. It was closed in 1902 and the approzimately 70 residents were transferred to premises with slightly better living conditions at Fiolgade 13. A new senior xitizens home was established in the former Hotel Helsingør's building at Hestemøllestræde 6. It had room for 20 residents and offered somewhat better conditions than in the poorhouse.[1]
 
-Gurrevejsstiftelsen_aerial_vintage_photo.jpg In 1913, Helsingør Municipality acquired the former entertainment venue Hammershøj which was subsequently converted into a new senior citizens home, which replaced the institution in Hestemøllestræde on its completion in 1915. Helsingør Alderdomshjem or Hammershøj, as it was now called, was expanded in 1919 and again, with 28 individual apartments, in 1920.
+In 1913, Helsingør Municipality acquired the former entertainment venue Hammershøj which was subsequently converted into a new senior citizens home, which replaced the institution in Hestemøllestræde on its completion in 1915. Helsingør Alderdomshjem or Hammershøj, as it was now called, was expanded in 1919 and again, with 28 individual apartments, in 1920.
 
 The development was created as the first major initiative of mayor Peder Christensen. The complex was designed by Poul Holsøe. The project also comprised land for small gardens where the residents could grow their own vegetables. Construction began inn 1918 and was completed in 1921. The development was progressive for its time and became a model for later projects in both Denmark and abroad. It was listed in 1996.[2]
 

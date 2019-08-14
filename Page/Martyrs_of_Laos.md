@@ -31,7 +31,7 @@ On the other side of Laos the priest John Baptist Malo – who served in China �
 
 Martyrs
 
-Vincent_LHénoret_omi.jpg Below are the names of the fifteen martyrs:[14]
+Below are the names of the fifteen martyrs:[14]
 
 -   Jean-Baptiste Malo (2 June 1889 – 28 March 1954) – priest of the Society of Foreign Missions of Paris
 -   Joseph Thąo Tiěn (5 December 1918 – 2 June 1954) – priest

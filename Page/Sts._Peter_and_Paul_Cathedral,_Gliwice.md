@@ -12,8 +12,6 @@ See also
 -   Roman Catholicism in Poland
 -   Sts. Peter and Paul Cathedral
 
-Gliwice_St._Peter_and_Paul_quire.jpg
-
 
 References
 

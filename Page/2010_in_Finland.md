@@ -15,7 +15,7 @@ Events
 
 Deaths
 
-Harry_Siljander_bw.jpg]]
+]]
 
 -   8 January – Tony Halme, politician and martial artist (b. 1963)
 -   8 January – Rolf Koskinen, orienteering competitor (b. 1939)

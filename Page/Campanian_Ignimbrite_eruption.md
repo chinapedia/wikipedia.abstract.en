@@ -12,7 +12,7 @@ The word _ignimbrite_ was made by New Zealand geologist Patrick Marshall from La
 
 Background
 
-Solfatara_-_Pozzuoli_-_Campania_-_Italy_-_July_11th_2013_-_20.jpg Pozzuoli ]] The Phlegraean Fields ( "burning fields")[9] caldera is a nested structure with a diameter of around .[10] It is composed of the older Campanian Ignimbrite caldera, the younger Neapolitan Yellow Tuff caldera and widely scattered sub-aerial and submarine vents from which the most recent eruptions have originated. The Fields sit upon a Pliocene - Quaternary Extensional domain with faults, that run North-East to South-West and North-West to South-East from the margin of the Apennine thrust belt. The sequence of deformation has been subdivided into three periods.[11]
+Pozzuoli ]] The Phlegraean Fields ( "burning fields")[9] caldera is a nested structure with a diameter of around .[10] It is composed of the older Campanian Ignimbrite caldera, the younger Neapolitan Yellow Tuff caldera and widely scattered sub-aerial and submarine vents from which the most recent eruptions have originated. The Fields sit upon a Pliocene - Quaternary Extensional domain with faults, that run North-East to South-West and North-West to South-East from the margin of the Apennine thrust belt. The sequence of deformation has been subdivided into three periods.[11]
 
 Phlegraean Periods
 
@@ -31,7 +31,7 @@ In 2016 Italian Volcanologists announced plans to drill a probe deep into the Ph
 
 Eruptive sequence
 
-Plinian_Eruption-numbers.svg. (key: 1. Ash plume 2. Magma conduit 3. Volcanic ash rain 4. Layers of lava and ash 5. Stratum 6. Magma chamber) Click for larger version.]] The CI eruption has been interpreted as the largest volcanic eruption of the past 200,000 years in Europe.[19] Tephra deposits indicate two distinct plume forming phases, a Plinian and a co-ignimbrite, characterized by multiple caldera-forming eruptions.[20]
+. (key: 1. Ash plume 2. Magma conduit 3. Volcanic ash rain 4. Layers of lava and ash 5. Stratum 6. Magma chamber) Click for larger version.]] The CI eruption has been interpreted as the largest volcanic eruption of the past 200,000 years in Europe.[19] Tephra deposits indicate two distinct plume forming phases, a Plinian and a co-ignimbrite, characterized by multiple caldera-forming eruptions.[20]
 
 Plinian phase
 
@@ -39,7 +39,7 @@ Evidence shows that the eruption was a single event lasting 2 to 4 days.[21] It 
 
 Pyroclastic density currents
 
-Pyroclastic_flows_at_Mayon_Volcano.jpg]] The initial eruption was followed by a caldera collapse and a large pyroclastic flow, fed by the upper magma layer, a single flow unit with lateral variations in both pumice and lithic fragments, that covered an area of . Currents that moved toward the North and the South overflowed mountain ranges and crossed the Gulf of Naples over the sea, extinguishing all life within a radius of about .[23][24] Textural and morphological features of the deposits, and areal distribution suggests that the eruption was of the type of highly expanded low-temperature pyroclastic cloud.
+]] The initial eruption was followed by a caldera collapse and a large pyroclastic flow, fed by the upper magma layer, a single flow unit with lateral variations in both pumice and lithic fragments, that covered an area of . Currents that moved toward the North and the South overflowed mountain ranges and crossed the Gulf of Naples over the sea, extinguishing all life within a radius of about .[23][24] Textural and morphological features of the deposits, and areal distribution suggests that the eruption was of the type of highly expanded low-temperature pyroclastic cloud.
 
 The pyroclastic sequence from base to top:
 
@@ -50,7 +50,7 @@ The pyroclastic sequence from base to top:
 
 Ignimbrite deposit
 
-Ignimbrite.jpg]] The ignimbrite is a gray, poorly to moderately welded, nearly saturated potassic trachyte, similar to many other trachytes of the Quaternary volcanic province of Campania. It consists of pumice and lithic fragments in a devitrified matrix that contains sanidine, lesser plagioclase rimmed by sanidine, two clinopyroxenes, biotite, and magnetite. The column collapse that generated the widespread ignimbrite deposit most likely occurred due to an increase of the MASS ERUPTION RATE (MER), (see Eruption column).[27]
+]] The ignimbrite is a gray, poorly to moderately welded, nearly saturated potassic trachyte, similar to many other trachytes of the Quaternary volcanic province of Campania. It consists of pumice and lithic fragments in a devitrified matrix that contains sanidine, lesser plagioclase rimmed by sanidine, two clinopyroxenes, biotite, and magnetite. The column collapse that generated the widespread ignimbrite deposit most likely occurred due to an increase of the MASS ERUPTION RATE (MER), (see Eruption column).[27]
 
 The immediate area was completely buried by thick layers of pyroclastic fragments, volcanic blocks, lapilli and ash. Two thirds of Campania sank under an up to thick layer of tuff. The greater ignimbrite deposit, mostly trachytic ash and pumice, covered an area of at least , encompassing most of the southern Italian peninsula and the eastern Mediterranean region.[28][29]
 
@@ -59,7 +59,7 @@ Calculations of ash thickness measurements collected at 115 sites and a three di
 
 Global impact
 
-Campanian_Ignimbrite_Eruption_ash_cloud.jpg The event's recent dating at 39,280±110 years ago draws considerable scholarly attention as it marks a time interval characterized by biocultural modifications in western Eurasia and widespread discontinuities in archaeological sequences, such as the Middle to Upper Palaeolithic transition. At several archaeological sites of South-eastern Europe, the ash separates the cultural layers containing Middle Palaeolithic and/or Earliest Upper Palaeolithic assemblages from the layers in which Upper Palaeolithic industries occur. At some sites the CI tephra deposit coincides with a long interruption of paleo-human occupation.[32]
+The event's recent dating at 39,280±110 years ago draws considerable scholarly attention as it marks a time interval characterized by biocultural modifications in western Eurasia and widespread discontinuities in archaeological sequences, such as the Middle to Upper Palaeolithic transition. At several archaeological sites of South-eastern Europe, the ash separates the cultural layers containing Middle Palaeolithic and/or Earliest Upper Palaeolithic assemblages from the layers in which Upper Palaeolithic industries occur. At some sites the CI tephra deposit coincides with a long interruption of paleo-human occupation.[32]
 
 Effect on climate
 
@@ -76,7 +76,7 @@ The eruption coincided also with the final decline of the Neanderthal in Europe.
 
 Island biodiversity
 
-IceAgeEarth.jpg Earth]] A joint study on the influence of the Late Quaternary climate change on island biodiversity has been published in 2016 in the Nature journal. This investigation on the consequences of abrupt climate changes for island biodiversity is apparently unprecedented. Established "island biogeographical models consider islands either as geologically static with biodiversity resulting from ecologically neutral immigration–extinction dynamics, or as geologically dynamic with biodiversity resulting from immigration–speciation–extinction dynamics influenced by changes in island characteristics over millions of years." Researchers argue that "climatic oscillations over short geological periods are likely to affect sea levels and cause huge changes in island size, isolation and connectivity, orders of magnitude faster than the geological processes of island formation..." Results suggest that "post-Last Glacial Maximum (LGM) changes in island characteristics, especially in area, have left a strong imprint on the present diversity of endemic species."[37]
+Earth]] A joint study on the influence of the Late Quaternary climate change on island biodiversity has been published in 2016 in the Nature journal. This investigation on the consequences of abrupt climate changes for island biodiversity is apparently unprecedented. Established "island biogeographical models consider islands either as geologically static with biodiversity resulting from ecologically neutral immigration–extinction dynamics, or as geologically dynamic with biodiversity resulting from immigration–speciation–extinction dynamics influenced by changes in island characteristics over millions of years." Researchers argue that "climatic oscillations over short geological periods are likely to affect sea levels and cause huge changes in island size, isolation and connectivity, orders of magnitude faster than the geological processes of island formation..." Results suggest that "post-Last Glacial Maximum (LGM) changes in island characteristics, especially in area, have left a strong imprint on the present diversity of endemic species."[37]
 
 Laschamp event
 

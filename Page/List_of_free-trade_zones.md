@@ -182,7 +182,7 @@ Bangladesh
 
 China
 
-China_(Tianjin)_Pilot_Free-Trade_Zone_Yujiapu.JPG]]
+]]
 
 -   Tianjin Free-Trade Zone
 -   Shanghai Free-Trade Zone

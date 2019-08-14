@@ -6,7 +6,7 @@ Sodium hypobromite arises by treatment of aqueous solution of bromine with base:
 
 It can be prepared _in situ_ for use as a reagent, such as in the synthesis of 3-aminopyridine from nicotinamide.[2] FGI of a primary amide to an amine is obviously the Hofmann rearrangement.
 
-    File:Synthesis of 3-Aminopyridine.gif
+
 
 
 References

@@ -13,7 +13,7 @@ Shawn Grate has also been charged in the deaths of his former girlfriend Candice
 
 After Grate had given out details of the murders to two different news organizations while in custody, attorneys for the defense and prosecution jointly requested and obtained a gag order preventing Grate from communicating any further with the media.[17] On January 6, 2017, a competency hearing determined Grate is fit to stand trial.[18] An evaluation released March 6 based on a January 17 assessment to evaluate Grate's claim of insanity declared that he was not insane at the time the crimes were committed.[19][20] Grate's counsel then withdrew the plea of not guilty by reason of insanity on April 7, 2017.[21]
 
-House_at_363_Covert_Court,_Ashland,_OH.jpg In a settlement with the owner, the City of Ashland obtained ownership of the house where Grate was apprehended, two bodies were discovered, and a kidnapped woman was rescued by police. The city is pursuing a federal grant with the intention of demolishing the house.[22][23]
+In a settlement with the owner, the City of Ashland obtained ownership of the house where Grate was apprehended, two bodies were discovered, and a kidnapped woman was rescued by police. The city is pursuing a federal grant with the intention of demolishing the house.[22][23]
 
 “There is a settlement agreement among the parties that essentially obligates the Pump House to transfer all property that is the subject of this action to the city of Ashland and transfer their title there too, provided that the city pays off the sums owed to the county for delinquent taxes and to the Muskingum Watershed District,” said Andrew Bush, assistant law director for the city of Ashland.[24]
 

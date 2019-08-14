@@ -19,8 +19,6 @@ See also
 
 References
 
-Onze-Lieve-Vrouwebasiliek,_tongeren.jpg
-
 Category:Roman Catholic cathedrals in Belgium Category:Buildings and structures in Tongeren Category:Basilica churches in Belgium
 
 [1] Basilica of Our Lady (Former Cathedral)

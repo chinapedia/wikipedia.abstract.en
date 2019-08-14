@@ -24,7 +24,7 @@ The episode was directed by Jonny Campbell.[3] Production designer Zack Grobler 
 
 Music
 
-Ramin_Djawadi.jpg created the episode's musical score.]] In an interview, composer Ramin Djawadi spoke about the song "Something I Can Never Have" by Nine Inch Nails, that was translated in the episode. He said, "You can kind of picture a string quartet being in the room somewhere, performing this song, in this setting, right?"[5]
+created the episode's musical score.]] In an interview, composer Ramin Djawadi spoke about the song "Something I Can Never Have" by Nine Inch Nails, that was translated in the episode. He said, "You can kind of picture a string quartet being in the room somewhere, performing this song, in this setting, right?"[5]
 
 The episode also features the classical piece "Clair de Lune", by French composer Claude Debussy, which Ford is playing on the player piano as Teddy and The Man in Black enter the bar.[6] As Ford leaves the bar, he snaps his fingers at the player piano and it plays a vastly sped up and slightly damaged version of Scott Joplin's "Pine Apple Rag".[7] Djawadi is quoted as saying, "That's about control, It just shows the power he has. He calls the shots for what happens."[8]{{#tag:ref|Although the referenced article says it's "The Entertainer" that's playing, that is in fact incorrect, although Djawadi himself never says it's "The Entertainer" so it could be the error of a sub editor.[9]|group="nb"}}
 

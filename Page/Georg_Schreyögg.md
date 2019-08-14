@@ -18,7 +18,7 @@ In 1920 the Academy for Applied Arts in Karlsruhe became the Regional Arts Acade
 
 Works
 
-Barbara-Denkmal_Koblenz_1908.jpg in Koblenz]] The spectrum of his work was broad, extending from graves and war memorials to decorations on buildings, fountains and smaller statues. In Karlsruhe he created the reliefs in the Carl Hofer Business School (1912–1914), the relief "Youth and age" (1912 – repositioned to the city park in 1933), the reliefs at the Exhibition Hall (1915) and the "Flora" statue at the entrance to the city park (1918/19). Elsewhere his works included the "Crucifixion Group" (1903) at the Munich Waldfriedhof (cemetery) and the St Barbara War Memorial in Koblenz.[17]
+in Koblenz]] The spectrum of his work was broad, extending from graves and war memorials to decorations on buildings, fountains and smaller statues. In Karlsruhe he created the reliefs in the Carl Hofer Business School (1912–1914), the relief "Youth and age" (1912 – repositioned to the city park in 1933), the reliefs at the Exhibition Hall (1915) and the "Flora" statue at the entrance to the city park (1918/19). Elsewhere his works included the "Crucifixion Group" (1903) at the Munich Waldfriedhof (cemetery) and the St Barbara War Memorial in Koblenz.[17]
 
 
 Awards and honours

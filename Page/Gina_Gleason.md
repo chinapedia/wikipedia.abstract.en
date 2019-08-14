@@ -1,4 +1,4 @@
-2018_RiP_-_Baroness_-_by_2eight_-_DSC2370.jpg 2018]] GINA GLEASON is an American musician born in Philadelphia, Pennsylvania. She is the current lead guitarist for Baroness, replacing Pete Adams.[1]
+2018]] GINA GLEASON is an American musician born in Philadelphia, Pennsylvania. She is the current lead guitarist for Baroness, replacing Pete Adams.[1]
 
 As a part of the Cirque du Soleil creation cast, Gleason played lead guitar and performed as the character “The Muse” in the production of Michael Jackson: One by Cirque du Soleil at Mandalay Bay in Las Vegas (2012-2017) .[2][3][4]
 

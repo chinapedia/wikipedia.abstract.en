@@ -8,8 +8,6 @@ See also
 -   Roman Catholicism in Poland
 -   St. Thomas's Cathedral
 
-Zamość_-_katedra_-_ołtarz.jpg
-
 
 References
 

@@ -1,4 +1,4 @@
-BARROW CANYON is a submarine canyon that straddles the boundary between the Beaufort and Chukchi seas.[1] Compared to other nearby areas and the Canada Basin, the highly productive Barrow Canyon supports a diversity of marine animals and invertebrates.Barrow_Canyon_Map.jpg
+BARROW CANYON is a submarine canyon that straddles the boundary between the Beaufort and Chukchi seas.[1] Compared to other nearby areas and the Canada Basin, the highly productive Barrow Canyon supports a diversity of marine animals and invertebrates.
 
 
 Geography

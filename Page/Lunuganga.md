@@ -1,4 +1,4 @@
-Lunuganga,_Bentota,_Sri_Lanka._Interieur_3.jpg Lunuganga,_Bentota,_Sri_Lanka..JPG The LUNUGANGA ESTATE was the country house of the renowned Sri Lankan architect Geoffrey Bawa.[1][2]
+The LUNUGANGA ESTATE was the country house of the renowned Sri Lankan architect Geoffrey Bawa.[1][2]
 
 The estate had been used as a cinnamon estate during the Dutch era and then a rubber plantation under the British. In 1948, the small house in the estate was given on rent to the local tax collector. In 1949 newly qualified lawyer Geoffrey Bawa bought it from its owner intending to convert the estate bungalow into a weekend house and create a tropical version of a European renaissance garden. The property is located on the banks of the Dedduwa Lake, in Bentota. Bawa named the estate Lunuganga, which in Sinhala means _Salt River_. Recognising his lack of architectural knowledge Bawa returned to England to study architecture. After qualifying as an architect he returning to Ceylon in 1958 and joined the architectural practice of Edwards, Reid and Beggs.
 

@@ -1,5 +1,3 @@
-Petre_Antonescu.jpg
-
 PETRE ANTONESCU (June 29, 1873–April 22, 1965) was a Romanian architect. Over the course of a career that spanned the first half of the 20th century, he established himself as a leader in the field within his country, helping define a national style of neo-Romanian architecture.
 
 

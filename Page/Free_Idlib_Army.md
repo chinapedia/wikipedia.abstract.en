@@ -81,7 +81,7 @@ The Free Idlib Army is known for possessing several new BM-21 Grad multiple rock
 
 History
 
-Logo_of_the_Free_Idlib_Army.svg On 25 August 2016, the commander of the Northern Division, Lieutenant Colonel Fares Bayoush announced that talks are made in Idlib on the unification of the three FSA-affiliated rebel groups in northwestern Syria. He stated that eventually the merger will be complete and the three component groups will dissolve into the main faction.[19]
+On 25 August 2016, the commander of the Northern Division, Lieutenant Colonel Fares Bayoush announced that talks are made in Idlib on the unification of the three FSA-affiliated rebel groups in northwestern Syria. He stated that eventually the merger will be complete and the three component groups will dissolve into the main faction.[19]
 
 At it establishment on 19 September 2016, the coalition aims to prioritise fighting the Syrian government and establish relations and coordinate with the Salafist factions of the Army of Conquest, including Ahrar al-Sham and Jabhat Fateh al-Sham, al-Qaeda's renamed al-Nusra Front.[20] However an opposition source stated that the Free Idlib Army will not closely cooperate with Jabhat Fateh al-Sham.[21] Just a day before, the Mountain Hawks Brigade withdrew from the front against ISIL near Jarabulus and Azaz in order to head to southern Aleppo and Idlib.[22] The commander aims for an eventual full merger between the 3 groups after forming a new command structure.[23]
 

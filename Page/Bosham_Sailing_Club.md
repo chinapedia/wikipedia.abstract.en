@@ -3,9 +3,7 @@ BOSHAM SAILING CLUB is the oldest sailing club in Chichester Harbour and was fou
 
 History
 
-The_Old_Mill_-_geograph.org.uk_-_1113006.jpg
-
-Bosham_Channel_-_geograph.org.uk_-_1371473.jpg The club was founded by Captain E.K. Collis-Chapman in a converted stable on the Bosham waterfront. Its first members consisted of mostly local fishermen and recreational sailors.
+The club was founded by Captain E.K. Collis-Chapman in a converted stable on the Bosham waterfront. Its first members consisted of mostly local fishermen and recreational sailors.
 
 At the end of World War One the club was briefly named "Bosham and Itchenor Sailing Club". It reverted to its pre-war name in 1922 and Itchenor Sailing Club was formed in 1927.[3]
 

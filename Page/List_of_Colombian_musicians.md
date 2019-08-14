@@ -1,6 +1,6 @@
 This is a LIST OF COLOMBIAN MUSICIANS.
 
-Juanes_en_New_Orleans.JPG performing at the New Orleans Jazz & Heritage Festival in 2005.]] Shakira_-_La_Coruña.jpg performing during the _Oral Fixation Tour_ in 2006.]] Aterciopelados_-_Bumbershoot_2010_-_39.jpg performing at Bumbershoot in 2010.]]
+performing at the New Orleans Jazz & Heritage Festival in 2005.]] performing during the _Oral Fixation Tour_ in 2006.]] performing at Bumbershoot in 2010.]]
 
 
 Opera singers

@@ -15,7 +15,7 @@ Events
 
 Deaths
 
-Mirja_Hietamies.jpg]] EeroKolehmainen1956.jpg at the 1956 Winter Olympics]]
+]] at the 1956 Winter Olympics]]
 
 -   29 January – Anselm Hollo, poet and translator (b. 1934)
 -   8 March – Kai Pahlman, footballer (b. 1935)

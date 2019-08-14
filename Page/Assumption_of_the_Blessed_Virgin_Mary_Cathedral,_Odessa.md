@@ -10,8 +10,6 @@ See also
 -   Roman Catholicism in Ukraine
 -   Assumption Cathedral (disambiguation)
 
-Iglesia_catolica_de_la_Asuncion_de_Odesa_2.jpg
-
 
 References
 

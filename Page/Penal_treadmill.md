@@ -1,4 +1,4 @@
-Coldbath-fields-treadmill-mayhew-p306.jpg]] A PENAL TREADMILL was a treadmill with interior steps set into two cast iron wheels. These drove a shaft that could be used to mill corn, pump water or connect to a large fan for resistance.[1] They were used in prisons in the early Victorian period in Britain as a method of exerting hard labour, a form of punishment prescribed in the prisoner's sentence.
+]] A PENAL TREADMILL was a treadmill with interior steps set into two cast iron wheels. These drove a shaft that could be used to mill corn, pump water or connect to a large fan for resistance.[1] They were used in prisons in the early Victorian period in Britain as a method of exerting hard labour, a form of punishment prescribed in the prisoner's sentence.
 
 
 History

@@ -11,7 +11,7 @@ Background
 
 2013–14 proposals for Safe Zone
 
-Rojava_february2014_2.png (light blue) for several years.]] Turkey and Syrian opposition proposed a safe zone that includes some regions of northern Syria in 2013, however United States and the other Western states were not willing to accept these plans.[16][17] After the advancements of ISIL in Iraq, Turkey and United States negotiated 'safe zone', while USA accepted 'ISIL-free zone', US officials were reluctant to accept a no fly zone.[18][19]
+(light blue) for several years.]] Turkey and Syrian opposition proposed a safe zone that includes some regions of northern Syria in 2013, however United States and the other Western states were not willing to accept these plans.[16][17] After the advancements of ISIL in Iraq, Turkey and United States negotiated 'safe zone', while USA accepted 'ISIL-free zone', US officials were reluctant to accept a no fly zone.[18][19]
 
 European support
 
@@ -19,7 +19,7 @@ After the attacks of ISIL in Syria, tens of thousands non-Sunnis, Christians and
 
 U.S.-Turkish negotiations
 
-The creation of the safe zone failed in early 2016 due to disagreements between the United States and Turkish governments, primarily on which actor is to be eliminated first. While Turkey wanted the Syrian government to be overthrown as soon as possible, the US prioritised the war against ISIL. The US also feared that the Syrian Air Force would bomb the area, which would make the idea of a safe zone impracticable. The government rejected the safe zone for being a safe haven for both civilians and rebels. Turkish_Army_Captured_Afrin_01.jpg and Turkish-backed Free Syrian Army fighters at the building in Afrin that had hosted the PYD-led government of Afrin Region, 18 March 2018]]
+The creation of the safe zone failed in early 2016 due to disagreements between the United States and Turkish governments, primarily on which actor is to be eliminated first. While Turkey wanted the Syrian government to be overthrown as soon as possible, the US prioritised the war against ISIL. The US also feared that the Syrian Air Force would bomb the area, which would make the idea of a safe zone impracticable. The government rejected the safe zone for being a safe haven for both civilians and rebels. and Turkish-backed Free Syrian Army fighters at the building in Afrin that had hosted the PYD-led government of Afrin Region, 18 March 2018]]
 
 The outline of the safe zone was another reason for the disagreement. According to Turkey, the safe zone should include a no fly zone, whereas the US rejected establishing a no-fly zone, which would bring a conflict with the Syrian government.[22]
 
@@ -34,7 +34,7 @@ Geography
 
 The territory of the Turkish-controlled region is entirely located within the northern areas of the Aleppo Governorate, with the southern tip of the territory located 40 kilometres northeast of Aleppo. On 26 February 2018, the territory connected with the mostly rebel-held Idlib Governorate.[26]
 
-Turkish-backed forces captured an area of 2,225-square-kilometres during Operation Euphrates Shield.[27] Areas captured during the operation included villages between Azaz and al-Rai, such as Kafr Kalbin; Kafrah; Sawran; Ihtaimlat; Dabiq; Turkman Bareh; Kafr Elward; Ghoz; Ghaytun; Akhtarin; Baruza; Tall Tanah; Kaljibrin; Qebbet al-Turkmen; Ghandoura; Arab Hassan Sabghir; Mahsenli; Qabasin and Halwanji. Turkish_soldiers_conduct_patrol_on_outside_Manbij,_Syria.jpg, 11 September 2018]]
+Turkish-backed forces captured an area of 2,225-square-kilometres during Operation Euphrates Shield.[27] Areas captured during the operation included villages between Azaz and al-Rai, such as Kafr Kalbin; Kafrah; Sawran; Ihtaimlat; Dabiq; Turkman Bareh; Kafr Elward; Ghoz; Ghaytun; Akhtarin; Baruza; Tall Tanah; Kaljibrin; Qebbet al-Turkmen; Ghandoura; Arab Hassan Sabghir; Mahsenli; Qabasin and Halwanji. , 11 September 2018]]
 
 Following Operation Olive Branch, Turkish-backed forces extended the region with the capture of the entire Afrin District.[28] In addition to its administrative centre Afrin, the district includes settlements such as Bulbul, Maabatli, Rajo, Jindires, Sharran and Shaykh al-Hadid. According to the 2004 Syrian census, the district had a population of 172,095 before the war.[29]
 
@@ -50,7 +50,7 @@ Politics and administration
 
 The occupation zone is formally governed by the Syrian Interim Government, an alternative government of the Syrian opposition based in Azaz.[34] Despite this, the area is actually governed by a number of autonomous local councils which work closely with Turkey.[35][36] In general, Turkey exerts a direct influence on the region's government,[37] and Turkish civilian officials such as governors have been appointed to oversee the area.[38] Accordingly, Turkey is in the process of forming a proto-state in northern Syria,[39] and regional expert Joshua Landis has argued that the country "is prepared to, in a sense, quasi-annex this region" to prevent it from being retaken by the Syrian government.[40] Turkish Minister of the Interior Süleyman Soylu declared in January 2019 that northern Syria is "part of the Turkish homeland" per the Misak-ı Millî of 1920.[41]
 
-Bataille_d'al-Bab_22_février_2017_(1).jpg has striven to rebuild destroyed areas under its control (pictured: devastated neighborhood of al-Bab) and restore civil society.[42] ]]
+has striven to rebuild destroyed areas under its control (pictured: devastated neighborhood of al-Bab) and restore civil society.[42] ]]
 
 Since the establishment of the zone, the Turkish authorities have striven to restore civil society in the areas under their control[43] and to also bind the region more closely to Turkey.[44][45][46] As part of these efforts, towns and villages have been demilitarized by dismantling military checkpoints and moving the local militias to barracks and camps outside areas populated by civilians.[47] Turkey also funds education and health services, supports the region's economy, and has trained a new police force.[48][49] Some locals describe these developments as "Turkification" of the region. However, many locals have accepted or even welcomed this, as they believed that the area is better off economically, politically, and socially under a Turkish protectorate.[50]
 
@@ -66,13 +66,13 @@ After the Turkish-led forces had captured Afrin District (Afrin Canton) in early
 
 Military
 
-Bataille_d'al-Bab_22_février_2017_(3).jpg in 2016]]
+in 2016]]
 
 On 30 May 2017,[64] the Turkish-backed Free Syrian Army (or National Syrian Army) composed of Syrian Arab and Syrian Turkmen rebels operating in northern Syria was formed, mostly being a part of Operation Euphrates Shield or groups active in the area that are allied to the groups participating in the operation.[65][66] The general aim of the group is to assist Turkey in creating a "safe zone" in Syria and to establish a _National Army_, which will operate in the land gained as a result of Turkish military intervention[67] and answer to the Syrian Interim Government.[68]
 
 By August 2018, the TFSA was considered to be an "organized military bloc" that had largely overcome the chronic factionalism which had traditionally affected the Syrian rebels. Military colleges had been set up, and training as well as discipline had been improved.[69] Though clashes and inter-unit violence still happened,[70][71] they were no longer as serious as in the past. A military court had been established in al-Bab, a military police was organized to oversee discipline,[72][73] and local civilian authorities were given more power over the militant groups. Nevertheless, most militias have attempted to maintain their autonomy to some degree, with the Interim Government having little actual control over them. To achieve the formation of a new national army without risking a mutiny, Turkey has applied soft pressure on the different groups while punishing only the most independent-minded and disloyal among them.[74] The FSA units in the zone have accepted the Istanbul-based "Syrian Islamic Council" as religious authority.[75] TFSA fighters are paid salaries by the Turkish government, though the falling value of Turkish lira began to cause resentment among the TFSA by mid-2018. One fighter noted that "when the Turkish lira began to lose value against the Syrian pound our salaries became worthless".[76]
 
-Combined_Joint_U.S.,_Turkey_Patrols.jpg By July 2018, the Turkish Armed Forces (TAF) have built "at least" six military bases in the zone, "raising concerns that [the TAF] may be settling in for a long-term presence in northern Syria".[77]
+By July 2018, the Turkish Armed Forces (TAF) have built "at least" six military bases in the zone, "raising concerns that [the TAF] may be settling in for a long-term presence in northern Syria".[77]
 
 
 Law enforcement

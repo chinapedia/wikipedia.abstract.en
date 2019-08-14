@@ -1,5 +1,3 @@
-Ivy_Baldwin.jpg
-
 IVY BALDWIN (born WILLIAM IVY July 31, 1866 – October 8, 1953) was an American balloonist, aeronaut and high-wire performer. He is credited with being the first aviator to be shot down during wartime in the U.S.[1] during the Spanish–American War.[2]
 
 

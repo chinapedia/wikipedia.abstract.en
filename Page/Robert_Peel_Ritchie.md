@@ -1,9 +1,9 @@
-Melville_Crescent,_Edinburgh.jpg ROBERT PEEL RITCHIE FRSE PRCPE (1835-1902) was a Scottish physician and medical historian.
+ROBERT PEEL RITCHIE FRSE PRCPE (1835-1902) was a Scottish physician and medical historian.
 
 
 Life
 
-The_grave_of_Robert_Peel_Ritchie,_Dean_Cemetery.jpg He was born on 18 January 1835. He studied Medicine at Edinburgh University.
+He was born on 18 January 1835. He studied Medicine at Edinburgh University.
 
 In the 1860s he was living at 16 Hill Street in the First New Town in Edinburgh.[1]
 

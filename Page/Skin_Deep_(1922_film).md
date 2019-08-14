@@ -1,4 +1,4 @@
-_Sheet_music_cover_-_MY_BUDDY_-_SONG_(1922).jpg _SKIN DEEP_ is a 1922 silent film crime drama directed by Lambert Hillyer and starring Milton Sills and Florence Vidor. It was based on a novel, _Lucky Damage_, by Marc Edmund Jones.[1]
+_SKIN DEEP_ is a 1922 silent film crime drama directed by Lambert Hillyer and starring Milton Sills and Florence Vidor. It was based on a novel, _Lucky Damage_, by Marc Edmund Jones.[1]
 
 The Film was remade in 1929 by Warner Brothers, First National's inheritor, as _Skin Deep_.[2]
 

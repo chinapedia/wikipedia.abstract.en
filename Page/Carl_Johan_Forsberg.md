@@ -1,5 +1,3 @@
-Forsberg_Sønderho.jpg Forsberg_Solbadende.jpg
-
 CARL JOHAN WILHELM FORSBERG (1868–1938) was a Swedish open-air painter whose works cover landscapes, buildings, animals and women, in watercolour or gouache. After travelling widely, in 1914 he and his Danish wife settled on the Danish island of Fanø where he lived and painted for the rest of his life.[1] There has been renewed interest in Forsberg in recent years as a result of interpretations of his works by the Danish painter Eva Louise Buus.[2]
 
 

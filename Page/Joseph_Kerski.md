@@ -1,5 +1,3 @@
-Dr._Joseph_J._Kerski_.jpg
-
 JOSEPH KERSKI is a geographer[1][2][3][4] with a focus on the use of Geographic Information Systems (GIS) in education.[5][6][7][8][9][10]
 
 Joseph Kerski was the President of the National Council for Geographic Education in 2011.[11][12][13] He is the author of the recent book _Interpreting Our World_[14] and is the co-author of the book _The Essentials of the Environment_.[15][16]

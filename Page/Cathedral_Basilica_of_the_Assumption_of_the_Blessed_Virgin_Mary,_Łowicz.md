@@ -12,8 +12,6 @@ See also
 -   Roman Catholicism in Poland
 -   Assumption Cathedral (disambiguation)
 
-Bazylika_Katedralna_w_Łowiczu_-_ołtarz_główny_-_01.JPG
-
 
 References
 

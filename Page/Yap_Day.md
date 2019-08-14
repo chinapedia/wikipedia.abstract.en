@@ -1,4 +1,4 @@
-Yapese_women_dancers_in_traditional_dress_celebrating_Yap_Day.jpg YAP DAY is a legal holiday in Yap State, one of the four states of the Federated States of Micronesia (FSM), held annually on March 1.[1] It is a celebration of traditional Yapese culture. Common activities held during this time include competitions and traditional dances.
+YAP DAY is a legal holiday in Yap State, one of the four states of the Federated States of Micronesia (FSM), held annually on March 1.[1] It is a celebration of traditional Yapese culture. Common activities held during this time include competitions and traditional dances.
 
 
 History
@@ -14,7 +14,7 @@ In 2002, Yap Day was broadcast throughout the Federated States of Micronesia on 
 
 Events
 
-Yapese_men_dancers_in_traditional_dress_celebrating_Yap_Day.jpg Each year a different village hosts the Mit-mit and provides both traditional and Western food. Before Yap Day, the villages rehearse traditional dances, which serve as a mode of storytelling.[6][7] Outer islanders are prohibited from participating in dances, though they may attend.[8] Competitions include traditional tattooing, fresh produce contests, and traditional games.[9] The Yap Tradition Navigation Society hold an event where participants build and sail traditional canoes.[10] On the last day, the Yap Visitors Bureau hosts a welcome reception to honor guests who traveled to the island.[11]
+Each year a different village hosts the Mit-mit and provides both traditional and Western food. Before Yap Day, the villages rehearse traditional dances, which serve as a mode of storytelling.[6][7] Outer islanders are prohibited from participating in dances, though they may attend.[8] Competitions include traditional tattooing, fresh produce contests, and traditional games.[9] The Yap Tradition Navigation Society hold an event where participants build and sail traditional canoes.[10] On the last day, the Yap Visitors Bureau hosts a welcome reception to honor guests who traveled to the island.[11]
 
 
 See also

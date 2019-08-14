@@ -1,5 +1,3 @@
-Nareen_Shammo_en_la_XII_Edición_de_los_Premios_Internacionales_Yo_Dona_01.jpg
-
 NAREEN SHAMMO (born 1986 in Bashiqa, Iraq) is a Yazidi investigative journalist and a human rights defender.[1]
 
 

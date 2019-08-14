@@ -1,9 +1,9 @@
-Emil_Mayer_002.jpg ''' Emil Mayer ''' (October 5, 1871 in Neubydzow, Bohemia – June 8, 1938 in Vienna) was an Austrian jurist and photographer.
+''' Emil Mayer ''' (October 5, 1871 in Neubydzow, Bohemia – June 8, 1938 in Vienna) was an Austrian jurist and photographer.
 
 
 Life
 
-Emil_Mayer_029.jpg From 1891 to 1896 Mayer studied law at the University of Vienna. In 1896, he earned the juris doctorate. In 1894, while still a student, he converted from the Jewish community to Catholicism. After his studies he settled in Vienna, where he worked as a lawyer. His first experience in photography was as an amateur. He was a member of several Viennese photographer associations that focused on artistic photography. Mayer also authored a textbook and was awarded several patents. He was an honorary member of many domestic and foreign photographers' clubs. Finally, he left the law firm he was working at founded a photographic technology company named_Drem Office_.[1] His artistic photos include documentary images of Wienerstraße images.[2] To escape persecution from the Nazi regime after the annexation of Austria in March 1938, he and his wife committed suicide on June 8, 1938.
+From 1891 to 1896 Mayer studied law at the University of Vienna. In 1896, he earned the juris doctorate. In 1894, while still a student, he converted from the Jewish community to Catholicism. After his studies he settled in Vienna, where he worked as a lawyer. His first experience in photography was as an amateur. He was a member of several Viennese photographer associations that focused on artistic photography. Mayer also authored a textbook and was awarded several patents. He was an honorary member of many domestic and foreign photographers' clubs. Finally, he left the law firm he was working at founded a photographic technology company named_Drem Office_.[1] His artistic photos include documentary images of Wienerstraße images.[2] To escape persecution from the Nazi regime after the annexation of Austria in March 1938, he and his wife committed suicide on June 8, 1938.
 
 
 Writings

@@ -13,7 +13,7 @@ Barlow played college basketball at Purdue, with the Purdue Boilermakers, from 2
 
 Professional career
 
-Kelsey_Barlow.png]]
+]]
 
 Grand Rapids Drive and Lille Métropole (2014–2016)
 

@@ -5,12 +5,12 @@ The United States defeated Canada in the gold medal game 3–2 after overtime, w
 
 Venues
 
-+---------------------+---------------------+
-| USA Hockey Arena I  | USA Hockey Arena II |
-| 3,504               | 800                 |
-+=====================+=====================+
-| Compuware_arena.jpg |                     |
-+---------------------+---------------------+
++--------------------+---------------------+
+| USA Hockey Arena I | USA Hockey Arena II |
+| 3,504              | 800                 |
++====================+=====================+
+|                    |                     |
++--------------------+---------------------+
 
 
 Participants

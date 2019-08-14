@@ -1,8 +1,6 @@
 PETTIBONE PARK is a public park located across the Mississippi River from the riverfront of downtown La Crosse, Wisconsin. The Park has a beach/beach volleyball, kayaking/ canoeing, disc golf course, walking trails, fishing spots, and shelters.[1]
 
-Pettibone_Park_fishing_spot.jpeg]]
-
-Pettibone_Park_shelter.jpeg
+]]
 
 
 See also

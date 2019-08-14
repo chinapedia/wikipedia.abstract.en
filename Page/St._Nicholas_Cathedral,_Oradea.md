@@ -15,8 +15,6 @@ See also
 
 References
 
-Catedrala_Sf._Nicolae_Oradea_Iconostasul.jpg
-
 Category:Greek-Catholic cathedrals in Romania Category:Buildings and structures in Oradea Category:Churches completed in 1803
 
 [1] St. Nicholas Cathedral in Oradea

@@ -9,7 +9,7 @@ When describing Jones' work in 'New Romantics,' author Katie Bethune Leamen wrot
 
 Her work was then featured in a solo exhibition entitled "MIRIAD," the result of a three-month residency at The Rooms as part of the Elbow Room Residency Program.[4] The exhibition was curated by Mireille Eagan.
 
-MIRIAD (Ministry of Intuitive Research in Imagined and Actual Discoveries) is a fictional scientific organization whose directive is to "contribute to known truths through imaginative exploration."[5] Through playful scenarios where individuals adopt roles, participants "formulate hypotheses free from preconceptions, initiating research by imagining truths, then seeking to substantiate these imaginings through the discovery of actual artifacts and specimens."[6]MIRIAD_Island.jpg1._Philippa_Jones,_Specimen_circles,_specimens_in_resin_backlit,_2012.jpgActing as a lead researcher, Jones constructed a representation of an island as other individuals acting as experts imagined it collectively, translating the results of their research into sculpture, installation, and drawings including the 15-foot pen and ink drawing "MIRIAD Island."[7]
+MIRIAD (Ministry of Intuitive Research in Imagined and Actual Discoveries) is a fictional scientific organization whose directive is to "contribute to known truths through imaginative exploration."[5] Through playful scenarios where individuals adopt roles, participants "formulate hypotheses free from preconceptions, initiating research by imagining truths, then seeking to substantiate these imaginings through the discovery of actual artifacts and specimens."[6]Acting as a lead researcher, Jones constructed a representation of an island as other individuals acting as experts imagined it collectively, translating the results of their research into sculpture, installation, and drawings including the 15-foot pen and ink drawing "MIRIAD Island."[7]
 
 The drawing, and the process of creating it, was described as "_an unfolding linear landscape consisting of myriad geometric shapes and expressive washes in subtly monochromatic tones. ... The drawing was allowed to unfold intuitively, starting with a clearly imagined horizontal structure inspired by the vastness of the Newfoundland landscape. The artist deliberately had no end vision for the final island, wanting instead to see how it would grow and attempting to keep herself (in her own words) 'in a state of continuous imaginative possibilities.'_"[8]
 
@@ -23,8 +23,6 @@ Author Lisa Moore wrote of this work: _"Philippa Jones's installation ... captur
 
 
 Art
-
-Installation_Shot_of_'49_seconds'_The_Rooms_Provincial_Art_Gallery.jpg
 
 Selected exhibitions
 
@@ -56,8 +54,6 @@ Collections
 
 
 Further reading
-
-TheNL_Bubble_illustration.jpg
 
 Books
 

@@ -1,4 +1,4 @@
-Hørsholm_Ridehus_2.jpg HØRSHOLM RIDING CLUB (Danish: Hørsholm Rideklub) is one of the oldest riding clubs in Denmark. It is located on Folehavevej in association with Folehave Forest in Hørsholm on the northern outskirts of Copenhagen.
+HØRSHOLM RIDING CLUB (Danish: Hørsholm Rideklub) is one of the oldest riding clubs in Denmark. It is located on Folehavevej in association with Folehave Forest in Hørsholm on the northern outskirts of Copenhagen.
 
 
 History

@@ -8,7 +8,7 @@ Clara Dutton Noyes was born in Port Deposit, Maryland, one of the ten children o
 
 Career
 
-RedCrossExecutives1918.jpg and Elizabeth Gordon Fox.]] During World War I and after, Clara Noyes was director of the American Red Cross's Bureau of Nursing, responsible for recruiting, assigning, and organizing nurses for assignments overseas in war zones and epidemics, and in the United States during natural disasters and other emergencies.[2] She lectured and wrote on matters of public health, disaster relief, and nursing education.[3] In 1920 she went to inspect Red Cross project sites in the Balkans, Greece, Czechoslovakia and Poland.[4]
+and Elizabeth Gordon Fox.]] During World War I and after, Clara Noyes was director of the American Red Cross's Bureau of Nursing, responsible for recruiting, assigning, and organizing nurses for assignments overseas in war zones and epidemics, and in the United States during natural disasters and other emergencies.[2] She lectured and wrote on matters of public health, disaster relief, and nursing education.[3] In 1920 she went to inspect Red Cross project sites in the Balkans, Greece, Czechoslovakia and Poland.[4]
 
 From 1918 to 1922 she was president of the American Nurses Association, and of the National Graduate Nurses Association.[5] She also served a term as president of the National League of Nursing Education. She helped establish the Bureau of Nursing Information. In 1923, she was awarded the Florence Nightingale Medal by the International Committee of the Red Cross.[6] In 1933, she was awarded the Saunders Medal by the National League of Nursing Education, for her many years of service to her profession.[7]
 

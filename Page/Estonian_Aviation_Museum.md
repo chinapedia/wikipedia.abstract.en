@@ -15,7 +15,7 @@ The Museum is closed in wintertime from November to May.[7]
 
 Departments
 
-Eesti_Lennupäevad_2016.jpg In the Museum structure there are 8 departments:
+In the Museum structure there are 8 departments:
 
 -   Aircraft models
 -   Aircraft, helicopters and gliders
@@ -49,8 +49,6 @@ Fighters
 -   MiG-23MLD
 -   Saab JA 37 Viggen (owned by Swedish Air Force Museum)
 
-Estonian_Aviation_Museum,_presentation_of_MiG-25.jpg
-
 Reconnaissance fighters
 
 -   Mirage III RS (from the Ministry of Defence of Switzerland)
@@ -62,8 +60,6 @@ Attack fighters
 -   Saab J32 Lansen (owned by Swedish Air Force Museum)
 -   Sukhoi Su-22M4
 -   F-4 Phantom II
-
-Sukhoi_Su-24,_Estonian_Aviation_Museum.jpg
 
 Bombers:
 
@@ -79,7 +75,7 @@ Agricultural aircraft
 -   Zlín Z 37
 -   Antonov An-2
 
-ELK_Airwaysi_TU-134A_Lennundusmuuseumis.jpg on display at Estonian Aviation Museum.]]
+on display at Estonian Aviation Museum.]]
 
 Passenger aircraft
 

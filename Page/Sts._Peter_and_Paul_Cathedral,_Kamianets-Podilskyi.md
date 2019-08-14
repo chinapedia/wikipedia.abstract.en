@@ -14,8 +14,6 @@ See also
 -   Roman Catholicism in Ukraine
 -   Sts. Peter and Paul Cathedral
 
-68-104-0222_Kafedral_Petra_Pavla_Kostel.jpg
-
 
 References
 

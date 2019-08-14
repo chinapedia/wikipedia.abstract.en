@@ -1,5 +1,3 @@
-20160921-elizabeth-epperly.jpg
-
 ELIZABETH ‘BETSY' EPPERLY is a Victorian scholar, author, curator, English professor (from 1976–2006), and former university president (1995–1998) of the University of Prince Edward Island (UPEI).[1] Epperly taught at the University of Prince Edward Island for 22 years where she also served as founding chair of the L.M. Montgomery Institute and UPEI's fourth (and first female) president.[2] The Epperly Plaza on the UPEI campus is dedicated in her name.[3] Following her retirement she was made Professor Emerita by the university.
 
 Epperly was the first student to ever register at the newly created University of Prince Edward Island in 1969. She moved to Canada from the United States because of her love for Lucy Maud Montgomery's writing.[4] Epperly is also the author of many books and dozens of articles, and has curated several Montgomery exhibitions, including the L.M. Montgomery Virtual Exhibition Project[5] and This Anne Place: Anne of Green Gables as Idea, Book and Musical.[6] She also serves on the board of the Anne of Green Gables Licensing Authority and the International Advisory Board of the LMMI.[7]

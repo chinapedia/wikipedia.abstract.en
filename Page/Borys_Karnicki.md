@@ -1,4 +1,4 @@
-ORP_Sokol_(N97).jpg, possibly in 1943]] BORYS KARNICKI (25 September 1907 – 15 February 1985) was a submarine commander of the Polish Navy during World War II.
+, possibly in 1943]] BORYS KARNICKI (25 September 1907 – 15 February 1985) was a submarine commander of the Polish Navy during World War II.
 
 
 Biography
@@ -14,15 +14,15 @@ _ORP Sokół_ and the other Polish submarine operating in the Mediterranean gain
 
 Awards and decorations
 
-Virtuti_Militari_Ribbon.png Virtuti Militari, Silver Cross (Poland)
-POL_Polonia_Restituta_Kawalerski_BAR.svg Order of Polonia Restituta Knight's Cross
-POL_Krzyż_Walecznych_(1940)_2r_BAR.PNG Cross of Valour (Poland)
-POL_Złoty_Krzyż_Zasługi_z_Mieczami_BAR.svg Cross of Merit with Swords (Poland) Golden Cross
-POL_Medal_Morski_2ok_BAR.svg Naval Medal three times
-Dso-ribbon.png Distinguished Service Order
-Ribbon_-_Atlantic_Star.png Atlantic Star
-Ribbon_-_Africa_Star.png Africa Star
-DNK_Order_of_Danebrog_Knight_BAR.png Order of the Dannebrog
+Virtuti Militari, Silver Cross (Poland)
+Order of Polonia Restituta Knight's Cross
+Cross of Valour (Poland)
+Cross of Merit with Swords (Poland) Golden Cross
+Naval Medal three times
+Distinguished Service Order
+Atlantic Star
+Africa Star
+Order of the Dannebrog
 
 
 Notes

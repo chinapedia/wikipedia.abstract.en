@@ -1,14 +1,14 @@
-Audience_within_the_Star_Theatre.jpg The STAR THEATRE was the first purpose-built cinema in Darwin in the Northern Territory of Australia. Destroyed during Cyclone Tracy, it was the centre of Darwin's social life between the 1930s and 1960s.
+The STAR THEATRE was the first purpose-built cinema in Darwin in the Northern Territory of Australia. Destroyed during Cyclone Tracy, it was the centre of Darwin's social life between the 1930s and 1960s.
 
 
 Construction
 
-Star_Theatre_under_construction_in_Darwin.jpg The partially open air theatre was built by Snell and Gordon, the company of well-known Darwin builder Harold Snell, in the 1920s. The theatre's design was innovative at the time, in particular the roof structure, which Snell had studied in England.[1] Only the rear rows at the back and upstairs dress circle was covered by a roof.[2] The stage was on wheels to be moved for boxing matches[3] and the floor was concrete in anticipation of future roller-skating events and social dances.[4] It could seat 860 people.[5]
+The partially open air theatre was built by Snell and Gordon, the company of well-known Darwin builder Harold Snell, in the 1920s. The theatre's design was innovative at the time, in particular the roof structure, which Snell had studied in England.[1] Only the rear rows at the back and upstairs dress circle was covered by a roof.[2] The stage was on wheels to be moved for boxing matches[3] and the floor was concrete in anticipation of future roller-skating events and social dances.[4] It could seat 860 people.[5]
 
 
 Centre of social life
 
-The Star Theatre finally opened on 14 September 1929. The first film shown was _The Cat and the Canary_ which had a film reel that was reported to be 10,000 feet long. The film was shown "without the slightest hitch except that Mr Allwright while attending to the engine got his hand caught in a rapidly moving belt and badly lacerated several fingers".[6] Rosalie_Kunoth-Monks.jpg The business was leased to manager Tom Harris[7] who later purchased the theatre.[8] Harris was a popular figure in Darwin.[9]
+The Star Theatre finally opened on 14 September 1929. The first film shown was _The Cat and the Canary_ which had a film reel that was reported to be 10,000 feet long. The film was shown "without the slightest hitch except that Mr Allwright while attending to the engine got his hand caught in a rapidly moving belt and badly lacerated several fingers".[6] The business was leased to manager Tom Harris[7] who later purchased the theatre.[8] Harris was a popular figure in Darwin.[9]
 
 The balcony was reserved for Darwin high society while working class and Aboriginal people, who were given permission from the Chief Protector of Aborigines to break their night-time town curfew so they could attend, were expected to sit downstairs. It cost 2/6 pence to sit upstairs and only a shilling to "sit in the blacks".[10][11]
 

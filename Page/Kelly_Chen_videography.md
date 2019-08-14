@@ -1,5 +1,3 @@
-Kelly_chen_dec_2010.jpg
-
 Hong Kong singer Kelly Chen has released four Hong Kong Cantonese and five Taiwanese Mandarin video albums and three Taiwanese Mandarin Video Singles and been featured in over 100 music videos, 26 films, 6 TV series, 3 musical special features, and over 200 commercials. Kelly achieved early fame in 1994 when she appeared in the Shanghai Beer and HSBC commercials.
 
 

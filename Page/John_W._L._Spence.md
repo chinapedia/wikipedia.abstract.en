@@ -3,8 +3,6 @@ JOHN WEBSTER LOWSON SPENCE MD LRCP LRCS (11 August 1870-15 March 1930) was a Sco
 
 Life
 
-The_grave_of_Dr_John_W_L_Spence,_Dean_Cemetery.jpg
-
 He was born in Smyrna in Turkey on 11 August 1870 the son of Rev David Brown Spence, a Church of Scotland missionary.[2] He was educated at the Royal High School in Edinburgh. He studied medicine at the University of Edinburgh, and from 1897 studied radiology under, or in correspondence with, Wilhelm Roentgen.[3] He received his doctorate (MD) in 1898.
 
 Around 1903 he came to Edinburgh to assist Dawson Turner and William Hope Fowler in their experiments on radiology. In 1907 he became the only radiologist at the Edinburgh Sick Children's Hospital in Sciennes.[4] He was widely respected for his work and kindness.

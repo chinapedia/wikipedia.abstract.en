@@ -14,7 +14,7 @@ In case of war SONOR had the following units at its disposal:
 
 Commander Naval Forces South Norway
 
-Bolærne_Tårnkanon1.JPG 75mm Tornpjäs m/57 automatic gun]]
+75mm Tornpjäs m/57 automatic gun]]
 
 Naval Forces South Norway (NAVSONOR) was tasked with the defence of Southern Norway's coastal waters against Soviet naval incursions and amphibious landings. Operations to the South of Norway's coastal waters were under the command of NATO's Allied Command Channel and Allied Forces Baltic Approaches. Therefore, most major naval units of the Norwegian Navy would have come under other NATO commands, with NAVSONOR retaining control of coastal artillery units and smaller coastal defense boats. NAVSONOR also dispatched a squadron of fast attack crafts to NAVNON on a rotational basis.
 
@@ -117,7 +117,7 @@ Additionally the Royal Norwegian Navy would have been reinforced in wartime with
 
 Commander Air Forces South Norway
 
-F-16_outside_hangar_at_Rygge.JPEG F-16 Fighting Falcon from the 363rd Tactical Fighter Wing at Rygge Air Station during Exercise Coronet Gauntlet '83.]] US_F4_Phantom_and_Norwegian_F5_Freedom_Fighter.jpg F-4D Phantom II of the New Jersey Air National Guard over Southern Norway during exercise Coronet Rawhide '82.]]
+F-16 Fighting Falcon from the 363rd Tactical Fighter Wing at Rygge Air Station during Exercise Coronet Gauntlet '83.]] F-4D Phantom II of the New Jersey Air National Guard over Southern Norway during exercise Coronet Rawhide '82.]]
 
 -   COMMANDER AIR FORCES SOUTH NORWAY (AIRSONOR), commanded by a Norwegian major general:
     -   Control and Reporting Centre Mågerø managed by the 130th Air Wing
@@ -266,7 +266,7 @@ Commander Land Forces South Norway
 
 US Forces in Southern Norway
 
-Bjugn_Cave_Facility_in_Norway.JPEG Norway Air-Landed Marine Expeditionary Brigade (NALMEB) Prepositioning Program material at the Bjugn Cave Facility]]
+Norway Air-Landed Marine Expeditionary Brigade (NALMEB) Prepositioning Program material at the Bjugn Cave Facility]]
 
 In 1981 the governments of Norway and the United States signed a Memorandum of Understanding that in case of war the U.S. Marine Corps' 4th Marine Expeditionary Brigade would be deployed to Norway as the Norway Air-Landed Marine Expeditionary Brigade (NALMEB). To facilitate a rapid deployment of the brigade and its associated air and logistical units via strategic airlift the two nations agreed to preposition equipment and materiel for 15,000 troops, and war stocks for 30 days in Norway. Because of the harsh Norwegian climate it was decided that unlike the REFORGER depots in Germany, the depots in Norway would be underground facilities. Thus between 1985 and 1989 American and Norwegian engineers drilled nearly 63,000 square meters of underground storage tunnels into the mountains around Trondheim. After the sites had been filled with materiel and equipment, Norwegian troops were tasked with its maintenance, with two exceptions: the two stored fleet hospitals were maintained by two small US Navy detachments.
 

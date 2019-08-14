@@ -16,7 +16,7 @@ Events
 
 Deaths
 
-Aatos-Erkko-1963.jpg]]
+]]
 
 -   13 February – Tonmi Lillman, musician (b. 1973)
 -   9 March – Jammu Siltavuori, murderer and sexual offender (born 1926)

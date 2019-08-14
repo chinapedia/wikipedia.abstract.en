@@ -225,39 +225,39 @@ Line of Hongwu Emperor's brothers
         -   Zhu Wang'er (朱旺兒), posthumously bestowed as "PRINCE OF ZHAOXIN" (昭信王).
 
     -   3rd son: ZHU XINGZU (朱興祖), named Zhu Chongqin (朱重七) during his lifetime. Posthumously bestowed as _PRINCE OF LINHUAI_ (臨淮王).
-    -   4th son: Simple_gold_crown.svg Hongwu Emperor
+    -   4th son: Hongwu Emperor
 
 Line of Ming emperors
 
--   Simple_gold_crown.svg Hongwu Emperor
+-   Hongwu Emperor
     -   1st son: Zhu Biao, Crown Prince Yiwen
         -   1st son: ZHU XIONGYING (朱雄英), "Prince Huai of Yu" (虞懷王)
-        -   2nd son: Simple_gold_crown.svg Jianwen Emperor
+        -   2nd son: Jianwen Emperor
 
             -   2nd son: ZHU WENGUI (朱文圭), "Prince Huai of Run" (潤懷王)
 
-    -   4th son: Simple_gold_crown.svg Yongle Emperor
-        -   1st son: Simple_gold_crown.svg Hongxi Emperor
-            -   1st son: Simple_gold_crown.svg Xuande Emperor
-                -   1st son: Simple_gold_crown.svg Emperor Yingzong
-                    -   1st son: Simple_gold_crown.svg Chenghua Emperor
+    -   4th son: Yongle Emperor
+        -   1st son: Hongxi Emperor
+            -   1st son: Xuande Emperor
+                -   1st son: Emperor Yingzong
+                    -   1st son: Chenghua Emperor
                         -   1st son: Unnamed
-                        -   3rd son: Simple_gold_crown.svg Hongzhi Emperor
+                        -   3rd son: Hongzhi Emperor
                             -   2nd son: ZHU HOUWEI (朱厚煒), "Prince Dao of Wei" (蔚悼王)
 
                         -   4th son: Zhu Youyuan
                             -   1st son: ZHU HOUXI (朱厚熙), Prince Huai of Yue
-                            -   2nd son: Simple_gold_crown.svg Jiajing Emperor
+                            -   2nd son: Jiajing Emperor
 
-                                -   3rd son: Simple_gold_crown.svg Longqing Emperor
+                                -   3rd son: Longqing Emperor
                                     -   2nd son: Zhu Yiling (朱翊鈴), "Comm. Prince of Lantian" (藍田郡王), later changed to "Prince Dao of Jing" (靖悼王)
-                                    -   3rd son: Simple_gold_crown.svg Wanli Emperor
+                                    -   3rd son: Wanli Emperor
 
-                                        -   1st son: Simple_gold_crown.svg Taichang Emperor
+                                        -   1st son: Taichang Emperor
                                             -   2nd son: ZHU YOUXUE (朱由㰒), "Prince Huai of Jian" (簡懷王)
                                             -   3rd son: ZHU YOUJI (朱由楫), "Prince Si of Qi" (齊思王)
                                             -   4th son: ZHU YOUMO (朱由模), "Prince Hui of Huai" (懷惠王)
-                                            -   5th son: Simple_gold_crown.svg Chongzhen Emperor
+                                            -   5th son: Chongzhen Emperor
                                                 -   5th son: ZHU CIXUAN (朱慈烜), "Prince Yin of Huai" (懷隱王)
                                                 -   6th son: ZHU CICAN (朱慈燦), "Prince Huai of Dao" (悼懷王)
                                                 -   7th son: "Prince Liang of Dao" (悼良王)
@@ -272,7 +272,7 @@ Line of Ming emperors
                                 -   5th son: ZHU ZAILU (朱載𪉖), "Prince Shang of Ying" (潁殤王)
                                 -   6th son: ZHU ZAI... (朱載14px), "Prince Huai of Qi" (戚懷王)
                                 -   7th son: ZHU ZAIKUI (朱載㙺), "Prince Ai of Ji" (薊哀王)
-                                -   8th son: ZHU ZAI... (朱載土夙缺字.svg), PRINCE SI OF JUN (均思王)
+                                -   8th son: ZHU ZAI... (朱載), PRINCE SI OF JUN (均思王)
 
                         -   10th son: Unnamed
 

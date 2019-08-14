@@ -41,7 +41,7 @@ The Commander in Chief of USAFE double-hatted as NATO's Commander Allied Air For
 
 Third Air Force
 
-F-111F_Hahn_Air_Base_Germany_1986.JPEG aircraft from 493rd Tactical Fighter Squadron takes off from Hahn Air Base for a mission over West Germany during Exercise REFORGER '86.]] A-10A_78th_TFS_taking_off_1986.JPEG aircraft from 78th Tactical Fighter Squadron takes off during Exercise REFORGER '86.]]
+aircraft from 493rd Tactical Fighter Squadron takes off from Hahn Air Base for a mission over West Germany during Exercise REFORGER '86.]] aircraft from 78th Tactical Fighter Squadron takes off during Exercise REFORGER '86.]]
 
 -   THIRD AIR FORCE, at RAF Mildenhall, United Kingdom[3]
     -   10th Tactical Fighter Wing, at RAF Alconbury[4]
@@ -74,7 +74,7 @@ F-111F_Hahn_Air_Base_Germany_1986.JPEG aircraft from 493rd Tactical Fighter Squa
 
 Sixteenth Air Force
 
-F-111F_dropping_high-drag_bombs.jpg aircraft from 494th Tactical Fighter Squadron releases its load of Mark 82 high-drag bombs over the Bardenas Reales Air-to-Ground Range.]]
+aircraft from 494th Tactical Fighter Squadron releases its load of Mark 82 high-drag bombs over the Bardenas Reales Air-to-Ground Range.]]
 
 -   SIXTEENTH AIR FORCE, at Torrejón Air Base, Spain[13][14][15][16]
     -   401st Tactical Fighter Wing, at Torrejón Air Base
@@ -111,7 +111,7 @@ F-111F_dropping_high-drag_bombs.jpg aircraft from 494th Tactical Fighter Squadro
 
 Seventeenth Air Force
 
-F-4G_480th_TFS_with_F-16C_52nd_TFW_in_flight_1989.JPEG Wild Weasel from 480th Tactical Fighter Squadron and a F-16C Block 25 Falcon from 52nd Tactical Fighter Wing Commander fly over Germany in June 1989]]
+Wild Weasel from 480th Tactical Fighter Squadron and a F-16C Block 25 Falcon from 52nd Tactical Fighter Wing Commander fly over Germany in June 1989]]
 
 -   SEVENTEENTH AIR FORCE, at Sembach Air Base
     -   65TH AIR DIVISION, at Lindsey Air Station[18]

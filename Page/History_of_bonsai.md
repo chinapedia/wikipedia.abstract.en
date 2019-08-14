@@ -1,4 +1,4 @@
-Bonsai_United_States_National_Arboretum_7.JPG at the United States National Arboretum.]]
+at the United States National Arboretum.]]
 
 [1] is a Japanese art form using trees grown in containers. Similar practices exist in other cultures, including the Chinese tradition of _penjing_ from which the art originated, and the miniature living landscapes of Vietnamese _hòn non bộ_. The term "bonsai" itself is a Japanese pronunciation of the earlier Chinese term _penzai_. The word _bonsai_ is often used in English as an umbrella term for all miniature trees in containers or pots. This article focuses on the history of bonsai in Japan and, in modern times, worldwide.
 
@@ -7,7 +7,7 @@ History
 
 Early versions
 
-Tang_dynasty_penzai.JPG murals at the Tang-dynasty tomb of Crown Prince Zhanghuai, dating to 706.[2][3]]]
+murals at the Tang-dynasty tomb of Crown Prince Zhanghuai, dating to 706.[2][3]]]
 
 The Japanese art of bonsai originated from the Chinese practice of penjing.[4] From the 6th century onwards, Imperial embassy personnel and Buddhist students from Japan visited and returned from mainland China, bringing back souvenirs including container plantings.[5] At least 17 diplomatic missions were sent from Japan to the Tang court between the years 603 and 839.[6]
 
@@ -27,7 +27,7 @@ In 1351, dwarf trees displayed on short poles were portrayed in the _Boki Ekotob
 
 Hachi-no-ki
 
-China_Schanghai_Jade_Buddah_Temple_5176519.jpg specimen with decorated and relatively deep pot ("bowl")]] Around the 14th century, the term for dwarf potted trees was "the bowl's tree" ( __).[18] This denoted the use of a fairly deep pot, as opposed to the shallow pot denoted by the term _bonsai_.
+specimen with decorated and relatively deep pot ("bowl")]] Around the 14th century, the term for dwarf potted trees was "the bowl's tree" ( __).[18] This denoted the use of a fairly deep pot, as opposed to the shallow pot denoted by the term _bonsai_.
 
 _Hachi no Ki_ (_The Potted Trees_) is also the title of a Noh play by Zeami Motokiyo (1363–1444), based on a story from c. 1383. It tells of an impoverished samurai who sacrifices his three last dwarf potted trees as firewood to provide warmth for a traveling monk on a winter night. The monk is an official in disguise who later rewards the samurai by giving him three lands whose names include the names of the three types of trees the samurai burnt: _ume_ (plum), _matsu_ (pine), and _sakura_ (cherry). In later centuries, woodblock prints by several artists would depict this popular drama. There was even a fabric design of the same name.
 
@@ -41,13 +41,13 @@ By the end of the 18th century, bonsai cultivation was quite widespread and had 
 
 Classical period
 
-Japanese_White_Pine_at_National_Bonsai_&_Penjing_Museum,_May_29_2011_-_Stierch.jpg)]] In Itami, Hyōgo (near Osaka), a group of scholars of Chinese arts gathered in the early 19th century to discuss recent styles in the art of miniature trees. Their version of these, which had been previously called "hachiue" or other terms, were renamed "bonsai" (the Japanese pronunciation of the Chinese term penzai). This term had the connotation of a shallower container in which the Japanese could now more successfully style small trees. The term "bonsai", however, would not become regularly used in describing their dwarf potted trees for nearly a century. Many others terms and compositions adopted by this group were derived from _Kai-shi-en Gaden_, the Japanese version of _Jieziyuan Huazhuan_ (Manual of the Mustard Seed Garden).[31][32][33]
+)]] In Itami, Hyōgo (near Osaka), a group of scholars of Chinese arts gathered in the early 19th century to discuss recent styles in the art of miniature trees. Their version of these, which had been previously called "hachiue" or other terms, were renamed "bonsai" (the Japanese pronunciation of the Chinese term penzai). This term had the connotation of a shallower container in which the Japanese could now more successfully style small trees. The term "bonsai", however, would not become regularly used in describing their dwarf potted trees for nearly a century. Many others terms and compositions adopted by this group were derived from _Kai-shi-en Gaden_, the Japanese version of _Jieziyuan Huazhuan_ (Manual of the Mustard Seed Garden).[31][32][33]
 
 In 1829, a significant book that first established classical bonsai art, _Sōmoku Kin'yō-shū_ (, _A Colorful Collection of Trees and Plants_/_Collection of tree leaves_), was published. It includes the basic criteria for the ideal form of the classical pine bonsai, in detail and with illustrations.[34] That same year, small _tako-tsuki_ (octopus-styled) trees with long, wavy-branches began to be offered by a grower in Asakusa Park, a north-eastern Edo suburb. Within 20 years that neighborhood became crowded with nurseries selling bonsai.[35][36] The three-volume _Kinsei-Jufu,_ possibly the first book of bonsai, tools, and pots, dates from 1833.[37]
 
 Numerous artists of the 19th century depicted dwarf potted trees in woodblock prints, including Yoshishige (who pictured each of the fifty-three classic stations of the Tōkaidō as miniature landscape) and Kunisada (who included mostly _hachi-no-ki_ in some four dozen prints).[38] The earliest known photograph from Japan depicting a dwarf potted tree dates from c. 1861 by Pierre Rossier.[39]
 
-Tokyo_Imperial_Palace_pic_08.jpg in Tokyo]] On October 13, 1868, the Meiji Emperor moved to his new capital in Tokyo. Bonsai were displayed both inside and outside Meiji Palace, where they have since remained important in affairs of the Palace. Bonsai placed in the grand setting of the Imperial Palace had to be "Giant Bonsai," large enough to fill the grand space.[40][41][42] The Meiji Emperor encouraged interest in bonsai. Government officials who did not appreciate bonsai fell out of favor. Soon all members of the ministry had bonsai whether they liked the tradition or not. Prince Itoh was an exception: Any bonsai that the emperor gave him were then passed to Kijoji Itoh. Kijoji Itoh was a statesman of great influence behind the scenes, and a noted bonsai collector who conducted research and experiments on these bonsai.[43][44]
+in Tokyo]] On October 13, 1868, the Meiji Emperor moved to his new capital in Tokyo. Bonsai were displayed both inside and outside Meiji Palace, where they have since remained important in affairs of the Palace. Bonsai placed in the grand setting of the Imperial Palace had to be "Giant Bonsai," large enough to fill the grand space.[40][41][42] The Meiji Emperor encouraged interest in bonsai. Government officials who did not appreciate bonsai fell out of favor. Soon all members of the ministry had bonsai whether they liked the tradition or not. Prince Itoh was an exception: Any bonsai that the emperor gave him were then passed to Kijoji Itoh. Kijoji Itoh was a statesman of great influence behind the scenes, and a noted bonsai collector who conducted research and experiments on these bonsai.[43][44]
 
 Bonsai shaping aesthetics and techniques were becoming more sophisticated. By the late 1860s, thick combed and wetted hemp fibers were used to roughly shape the trunk and branches of miniature trees by pulling and tying them. The process was tedious and bothersome, and the final product was unsightly. Tips of branches would only be opened flat. Long, wavy-branched _tako_ (octopus)-style trees were mass-produced and designed in the [renamed capital] Tokyo for the increasing foreign trade, while the more subtle and delicate bunjin-style trees designed in Kyoto and Osaka were for use in Japan. Tokyo preferred big trunks out of proportion and did not approve of Kyoto's finely designed slender trunks. (This cultural rivalry would continue for a century.)[45][46][47]
 

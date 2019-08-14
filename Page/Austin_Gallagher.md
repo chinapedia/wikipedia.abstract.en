@@ -1,5 +1,3 @@
-Austin_Photo.jpg
-
 AUSTIN GALLAGHER is an American marine biologist and social entrepreneur, best known for his research on sharks and his role as founder and CEO of Beneath the Waves, a non-profit organization focusing on ocean conservation. He has been the lead on more than 25 research and exploration expeditions, and his research has uncovered new species, behaviors, and has had an influence on policy for threatened species.[1][2] He was a Forbes 30 Under 30 honoree in the Science category,[3][4] and is currently a member of the Forbes Non Profit Council, an invitation-only group of CEOs of successful nonprofits.[5]
 
 

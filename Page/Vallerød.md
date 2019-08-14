@@ -3,7 +3,7 @@ VALLERØD is a former village and current neighbourhood in Hørsholm, Denmark. I
 
 History
 
-Vallerød's fields painted by in c. 1800 Several large burial mounds were created in the area in the Bronze Age. The village of Vallerød was probably established in a clearing in the vast forest of North Zealand some time during the 13th century. I'm the 1900s, thThe first known reference to the name is from 1375. In 1800, Vallerød consisted of eight farms.[1]
+Several large burial mounds were created in the area in the Bronze Age. The village of Vallerød was probably established in a clearing in the vast forest of North Zealand some time during the 13th century. I'm the 1900s, thThe first known reference to the name is from 1375. In 1800, Vallerød consisted of eight farms.[1]
 
 The Coast Line opened in 1887 and after the turn of the century, several of the farms in Vallerød sold off their land in lots. In 1939, Hørsholm Municipality began to purchase land in the area which was later developed with single family detached homes.[2] The Helsingør Motorway opened in 1958, increasing the demand for housing in the area even more. In 1959, Hørsholm Municipality launched a masterplan competition for the area between Vallerød, Usserød and Hørsholm. It was won by Gerdht Bornebusch, Max Brüel and Jørgen Selchau.[3]
 

@@ -10,8 +10,6 @@ See also
 -   Roman Catholicism in Poland
 -   Co-Cathedral
 
-Konkathedr-Saybusch.jpg
-
 
 References
 

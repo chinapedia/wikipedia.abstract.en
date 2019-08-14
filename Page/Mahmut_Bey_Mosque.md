@@ -1,4 +1,4 @@
-Kastamonu_Kasaba_Koyu_Mahmut_Bey_Civisiz_Camii_1240691_Nevit.jpg Kastamonu_Kasaba_Koyu_Mahmut_Bey_Civisiz_Camii_1240149_Nevit.jpg MAHMUTBEY MOSQUE is a historical mosque in Kasaba village in Kastamonu Province, Turkey
+MAHMUTBEY MOSQUE is a historical mosque in Kasaba village in Kastamonu Province, Turkey
 
 Kasaba was once an important settlement in Kastamonu Province. Now it is a small village about to Kastamonu. But the historical mosque of the village at is an important cultural building of the province.
 

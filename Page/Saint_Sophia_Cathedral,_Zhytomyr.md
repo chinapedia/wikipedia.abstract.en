@@ -16,6 +16,4 @@ External links
 -   St. Sophia's Cathedral in Zhytomyr<
 -
 
-Кафедральний_костел_орган.jpg
-
 Category:Roman Catholic cathedrals in Ukraine Category:Buildings and structures in Zhytomyr Category:Roman Catholic churches completed in 1748

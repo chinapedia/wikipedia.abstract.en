@@ -8,7 +8,7 @@ The school's mission is to inculcate in its students a strict moral conscience a
 
 History
 
-Ngora High School was founded on July 13, 1914 by the Anglican Church of Uganda to educate high-minded professionals. It recently celebrated its 100-year anniversary. The Archbishop of the Church of Uganda, Stanley Ntagali, led prayers at the celebrations attended by Education, Science, Technology and Sports minister Jessica Alupo. Also in attendance was Minister Without Portfolio Richard Todwong, who represented his excellence Yoweri Museveni, president of Uganda.[5] Winning_trophy1.jpg In the years after its founding, Ngora High School was one of Uganda's première schools, with students from the surrounding districts competing to attend. However, the hardships of the Teso Insurgency (1986 - 1993) and the incursion of the Lord's Resistance Army (2001 - 2003), combined to damage both the physical premises of the school and its academic reputation.[6] During this time, it was the site of battles between government forces and the rebels. When there was no fighting, it was used as a camp for displaced persons. Many students and teachers relocated to safety in other areas. After the violence ended, the school was left with fewer than ten teachers on a war-battered campus.[7]
+Ngora High School was founded on July 13, 1914 by the Anglican Church of Uganda to educate high-minded professionals. It recently celebrated its 100-year anniversary. The Archbishop of the Church of Uganda, Stanley Ntagali, led prayers at the celebrations attended by Education, Science, Technology and Sports minister Jessica Alupo. Also in attendance was Minister Without Portfolio Richard Todwong, who represented his excellence Yoweri Museveni, president of Uganda.[5] In the years after its founding, Ngora High School was one of Uganda's première schools, with students from the surrounding districts competing to attend. However, the hardships of the Teso Insurgency (1986 - 1993) and the incursion of the Lord's Resistance Army (2001 - 2003), combined to damage both the physical premises of the school and its academic reputation.[6] During this time, it was the site of battles between government forces and the rebels. When there was no fighting, it was used as a camp for displaced persons. Many students and teachers relocated to safety in other areas. After the violence ended, the school was left with fewer than ten teachers on a war-battered campus.[7]
 
 Ngora High School has made a gradual recovery, admitting more students and hiring more teachers.[8] Now it is once again one of the top schools in the country, with its students performing very well in Uganda Certificate of Education exams [9] and winning the 2011 Secondary Schools Science Fair against competition from 24 other schools.[10]
 
@@ -31,7 +31,7 @@ The current head teacher is Mr. Okiria Martin Obore, while the deputy head teach
 
 Co-curricular activities
 
-FootBall_game1.jpgStudents are encouraged to take part in co-curricular activities with athletics such as volleyball, netball, and football. The boys football team competes at district and regional levels in competitions such as the 2015 Copa Coca-Cola Championship.[15]
+Students are encouraged to take part in co-curricular activities with athletics such as volleyball, netball, and football. The boys football team competes at district and regional levels in competitions such as the 2015 Copa Coca-Cola Championship.[15]
 
 
 Alumni

@@ -5,7 +5,7 @@ The shooting led to protests in Tulsa. On September 22, the Tulsa County Distric
 
 Background
 
-Terence_Crutcher.jpg Terence Tafford Crutcher, Sr. (b. August 16, 1976) was a 40-year-old black man.[1][2][3] Crutcher's sister described him as a father and said that, at the time of his death, he was enrolled to study music at Tulsa Community College.[4] According to her, he was also involved in his church and sang in the choir..
+Terence Tafford Crutcher, Sr. (b. August 16, 1976) was a 40-year-old black man.[1][2][3] Crutcher's sister described him as a father and said that, at the time of his death, he was enrolled to study music at Tulsa Community College.[4] According to her, he was also involved in his church and sang in the choir..
 
 The officers involved in the incident at Tulsa, Oklahoma, on September 16, 2016, were Betty Shelby and Tyler Turnbough, both of whom are white.[5] Turnbough became an officer in 2009 and Shelby in 2011.[6][7]
 

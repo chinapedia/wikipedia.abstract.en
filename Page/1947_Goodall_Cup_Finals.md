@@ -27,7 +27,7 @@ Teams
 
 Victoria
 
-1947_Victorian_State_Team_for_the_Goodall_Cup_Series.jpg The Victoria team was made from the following players:[7]
+The Victoria team was made from the following players:[7]
 
 Forwards
 

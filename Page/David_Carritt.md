@@ -8,7 +8,7 @@ Hugh David Graham Carritt was born on 15 April 1927, the only son of the musicia
 
 Career
 
-Jean_Honore_Fragonard_Psyche_showing_her_Sisters_her_Gifts_from_Cupid.jpg – _Psyche showing her Sisters her Gifts from Cupid_]]
+– _Psyche showing her Sisters her Gifts from Cupid_]]
 
 After university, Carritt worked for himself as an art dealer, and wrote on art for the _Burlington Magazine_, the _Evening Standard_, and _The Spectator_.[6]
 

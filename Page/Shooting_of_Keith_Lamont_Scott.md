@@ -93,8 +93,6 @@ Most damage occurred at the EpiCentre, "where businesses saw their facades smash
 
 Following the night's violence, Pat McCrory, governor of North Carolina, declared a state of emergency in Charlotte upon the request of Chief Putney. McCrory ordered the deployment of the North Carolina National Guard and the North Carolina State Highway Patrol to the area.[87]
 
-Shooting_of_Keith_Lamont_Scott_Protest.jpg
-
 Death of Justin Carr
 
 One person was shot in the head during the night protests.[88] The shooting occurred at North College and East Trade streets and was reported at around Authorities stated that both the shooter and the victim were civilians; the Charlotte Clergy Coalition for Justice claimed that the individual was shot by police.[89] The shooting victim, later identified as Justin Carr, age 26, was transported to the Carolinas Medical Center, where he died the next day.[90]

@@ -133,8 +133,6 @@ The company's Regulation A exempt offering of $10 million has been pending appro
 
 Design
 
-Gab_Logo.svg
-
 Gab's color theme is a minimalist combination of black text on white panels with pink hashtags and usernames. Pro users have a contrasted top bar in dark blue. The interface displays messages in a Twitter-like vertical scroll timeline with an option to upvote each post. The site also aggregates popular posts and trending topic hashtags.[202][203][204] Users of the site with a score higher than 250 can downvote posts, but must spend points to do so.[205]
 
 Users can sort comments and posts in a subject by time or score. Default biographies for new users display a randomly chosen quotation about the importance of free speech.[206] Users also have the option to "mute" other users and terms.[207] The default profile picture for new users to the site features NPC Wojak, a meme popular on far-right sites.[208] The site offers its users an option to delete their entire posting history in a single click.[209]

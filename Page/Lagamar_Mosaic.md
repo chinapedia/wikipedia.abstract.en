@@ -13,7 +13,7 @@ The mosaic includes strategic areas for conservation of the remaining mangroves 
 
 Conservation units
 
-"Stairway_to_Heaven".jpg ]] PN_de_Superagui_GJK'1.jpg ]] The Lagamar Mosaic contains the following units:
+]] ]] The Lagamar Mosaic contains the following units:
 
   Name                                         Type                                   Level
   -------------------------------------------- -------------------------------------- -----------

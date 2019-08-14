@@ -1,4 +1,4 @@
-Proton_Prevé_RESS_(Reinforced_Safety_Structure)_(01).jpg crash test[1]]]
+crash test[1]]]
 
 REINFORCED SAFETY STRUCTURE (RESS) is the brand name of an automotive safety body construction system by Malaysian carmaker, Proton. Debuted in 2012 via the Proton Preve, the RESS body structure is also currently being applied to the 2013 Proton Suprima S, the 2014 Proton Iriz and the 2016 Proton Persona. The RESS was developed by Proton in order to meet the tougher global crash safety regulations through the application of heat treatment and Hot Press Forming (HPF) technology.
 

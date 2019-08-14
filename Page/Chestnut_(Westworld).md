@@ -18,7 +18,7 @@ Production
 
 Music
 
-Ramin_Djawadi.jpg created the episode's musical score.]] In an interview, The composer of the show Ramin Djawadi spoke about the piano interpretations of Radiohead's "No Surprises" used in the episode. He said, "When Jonathan says, 'Do a Radiohead song,' I say, 'Great!'"[4] Djawadi continued, "This particular piece was pretty simple, actually. The opening arpeggiated riff from 'No Surprises' translates really well into piano."[5] He noted, "The way I see it, it’s like a jukebox in a restaurant, When you put money in it, it plays preprogrammed pieces. These particular pieces that the piano plays help you with the sense of time, the repeats. It just marks time, and it provides the recognition factor that this is a preprogrammed event."[6]
+created the episode's musical score.]] In an interview, The composer of the show Ramin Djawadi spoke about the piano interpretations of Radiohead's "No Surprises" used in the episode. He said, "When Jonathan says, 'Do a Radiohead song,' I say, 'Great!'"[4] Djawadi continued, "This particular piece was pretty simple, actually. The opening arpeggiated riff from 'No Surprises' translates really well into piano."[5] He noted, "The way I see it, it’s like a jukebox in a restaurant, When you put money in it, it plays preprogrammed pieces. These particular pieces that the piano plays help you with the sense of time, the repeats. It just marks time, and it provides the recognition factor that this is a preprogrammed event."[6]
 
 
 Reception

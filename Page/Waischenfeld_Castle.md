@@ -3,7 +3,7 @@ WAISCHENFELD CASTLE () is a ruined rock castle on a rocky plateau a few metres w
 
 History
 
-Waischenfeld1.JPG]] Waischenfeld2.JPG The first clues to a castle in the village of Waischenfeld date to the year 1079, when _Wirint von Waischenfeld_ was mentioned in the records as a member of an important noble family in the area of the middle Wiesent. The Waischenfelds were related to the dynastic family of the lords of Aufseß.[1]
+]] The first clues to a castle in the village of Waischenfeld date to the year 1079, when _Wirint von Waischenfeld_ was mentioned in the records as a member of an important noble family in the area of the middle Wiesent. The Waischenfelds were related to the dynastic family of the lords of Aufseß.[1]
 
 The hill castle was first recorded in 1122 as _Urbs_.[2] Following the death of Ulrich of Waischenfeld, the last in the Waischenfeld family line, in 1216 the castle and lordship of Waischenfeld went to Eberhard III of Greifenstein, who built a new fortress south of Waischenfeld, Schlüsselberg Castle. After the death of Conrad II of Schlüsselberg, the castle and town of Waischenfeld went in 1348 into the hands of the Bishopric of Bamberg.
 

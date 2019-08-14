@@ -1,4 +1,4 @@
-Empress_Theater_Magna.JPG The EMPRESS THEATRE has stood for 100 years.[1] Built in 1916 by the Western Theatre Corporation at the end of historic Main Street in Magna, UT, the venue originally opened to provide entertainment to the mine workers.
+The EMPRESS THEATRE has stood for 100 years.[1] Built in 1916 by the Western Theatre Corporation at the end of historic Main Street in Magna, UT, the venue originally opened to provide entertainment to the mine workers.
 
 
 Historical Significance

@@ -1,4 +1,4 @@
-Манастир_Рмањ.jpg]] Crkva_Klisina2.jpg]] Drvar_Church.jpg]] Livno,_vypaleny_pravoslavny_kostel.jpg]]
+]] ]] ]] ]]
 
 The EPARCHY OF BIHAĆ AND PETROVAC () is an eparchy (diocese) of the Serbian Orthodox Church with its seat in Bosanski Petrovac, in Bosnia and Herzegovina. It has jurisdiction over the western regions of Bosnia and Herzegovina. Since 2017, Bishop of Bihać and Petrovac is Sergije Karanović.[1]
 

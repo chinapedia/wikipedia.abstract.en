@@ -22,7 +22,7 @@ Production
 
 Filming
 
-Vincenzo_Natali_at_WonderCon_2010_5.JPG The episode was directed by Vincenzo Natali.[2] In the desert excavation scene with Theresa and Ford, a Bagger 293 bucket-wheel excavator was used. It is the biggest landbound machine of all time.[3]
+The episode was directed by Vincenzo Natali.[2] In the desert excavation scene with Theresa and Ford, a Bagger 293 bucket-wheel excavator was used. It is the biggest landbound machine of all time.[3]
 
 According to Anthony Hopkins, his favorite scene to shoot in the entire season was the scene in this episode where Ford reveals the extent of his control over Westworld to Theresa.[4] That scene was filmed at Hummingbird Nest Ranch, near Simi Valley, California.[5]
 
@@ -41,7 +41,7 @@ Ratings
 
 Critical reception
 
-Thandie_Newton_by_Gage_Skidmore.jpg received praise for her performance as Maeve.]]
+received praise for her performance as Maeve.]]
 
 "Dissonance Theory" received positive reviews from critics. The episode currently has a 95% score on Rotten Tomatoes and has an average rating of 8.5 out of 10, based on 19 reviews. The site's consensus reads "_Dissonance Theory_ spends some welcome time with the Man In Black while continuing the methodical expansion of the Westworld universe."[12]
 

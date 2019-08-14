@@ -1,4 +1,4 @@
-New_York_Draft_Riots_-_fighting.jpg This list is about incidents of civil unrest, rioting, violent labor disputes, or minor insurrections or revolts in New York City.
+This list is about incidents of civil unrest, rioting, violent labor disputes, or minor insurrections or revolts in New York City.
 
 
 By date
@@ -25,7 +25,7 @@ Civil unrest in New York by date in ascending order, from earliest to latest.
 -   1935 – Harlem riot, occurred March 19–20, sparked by rumors of the beating of a teenage shoplifter[15]
 -   1943 – Harlem riot, occurred August 1 and 2 following the nonfatal shooting of Robert Bandy by a white police officer[16]
 
-Harlem_riots_-_1964.jpg]]
+]]
 
 -   1964 – Harlem riot, occurred July 16 through 22, following the fatal police shooting of a 15-year-old African American bystander[17]
 -   1968 – New York City riot, occurred April 4 and 5 following the assassination of Martin Luther King[18]

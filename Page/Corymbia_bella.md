@@ -1,4 +1,4 @@
-Cyclone_Helen_3967.jpg 2008]] Cyclone_Helen_3966.jpg
+2008]]
 
 _CORYMBIA BELLA_, commonly known as the GHOST GUM,[1] WEEPING GHOST GUM,[2] or the PAPER-FRUITED BLOODWOOD,[3] is a bloodwood native to northern Australia.[4]
 

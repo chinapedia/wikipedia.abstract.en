@@ -3,7 +3,7 @@ ANDREW HALLIDAY DOUGLAS (1819-1908) was a Scottish physician who served as Presi
 
 Life
 
-The_grave_of_Andrew_Halliday_Douglas,_Dean_Cemetery.jpg He was born at 5 Charlotte Street (off Charlotte Square) in Edinburgh on 17 March 1819 the son of William Douglas WS and Anna Brown. He studied Medicine at Edinburgh University graduating in 1840.
+He was born at 5 Charlotte Street (off Charlotte Square) in Edinburgh on 17 March 1819 the son of William Douglas WS and Anna Brown. He studied Medicine at Edinburgh University graduating in 1840.
 
 In 1848 he became a Senior Physician at the Edinburgh Royal Infirmary. In 1858 he became Medical Officer to the Post Office. In 1869 he was elected President of the Royal College of Physicians of Edinburgh in succession to Dr John Moir, his father-in-law. At this time he lived at 26 India Street in Edinburgh's Second New Town.[2]
 

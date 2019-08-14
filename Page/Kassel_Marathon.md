@@ -5,7 +5,7 @@ The Kassel Marathon is and was venue of _Deutschen Halbmarathonmeisterschaften I
 
 Course
 
-Kassel-Marathon_Start_Damaschkestraße.jpg Kassel-Marathon_Staffelwechselpunkt_Mombachstraße.jpg Kassel-Marathon_Ziel_Auestadion.jpg The course starts near Auestadion and Eissporthalle Kassel and finishes in the Auestadion. The mini-marathon leads through the Karlsaue, half marathon and marathon cross the Fulda (river) two times and pass Waldau, Forstfeld, Bettenhausen, Wesertor, Wolfsanger (only marathon), Nord (Holland), Rothenditmold, Kirchditmold, Vorderer Westen, and Südstadt. A lot of people think that the course has many altitude difference, but in reality it is quite flat. For example, the course of famous Frankfurt Marathon has more altitude difference. This is the reason why the course of the Kassel Marathon is pretty fast.
+The course starts near Auestadion and Eissporthalle Kassel and finishes in the Auestadion. The mini-marathon leads through the Karlsaue, half marathon and marathon cross the Fulda (river) two times and pass Waldau, Forstfeld, Bettenhausen, Wesertor, Wolfsanger (only marathon), Nord (Holland), Rothenditmold, Kirchditmold, Vorderer Westen, and Südstadt. A lot of people think that the course has many altitude difference, but in reality it is quite flat. For example, the course of famous Frankfurt Marathon has more altitude difference. This is the reason why the course of the Kassel Marathon is pretty fast.
 
 
 List of winners

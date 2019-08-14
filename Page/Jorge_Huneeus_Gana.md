@@ -17,7 +17,7 @@ In 1884 he enrolled at the University of Chile to study law, and was admitted to
 
 Private life
 
-Boletín_Oficial_de_la_Junta_de_Gobierno_Chile_1891.JPG''
+''
 Edited by Jorge Huneeus Gana]] In 1886, while still a college student, Jorge Huneeus Gana taught literature and history at the Chilean Army War Academy. In 1887 he taught history and law classes there.[4]
 
 The following are highlights of his written works:
@@ -52,7 +52,6 @@ After finishing his last term as deputy, he served as Minister Plenipotentiary i
 
 Album of Isidora Zegers de Huneeus
 
-Monvoisin,_Raymond_-_Isidora_Zegers_-ost_40_diam_CP_f01.jpg
 by Raymond Monvoisin]] Olga Lindholm Hunneus, daughter of Elena Huneeus Lavín, granddaughter of Jorge Huneeus Gana, and great-great-granddaughter of Isidora Zegers de Huneeus was the owner of the album, which had been a gift from her grandfather when she was just five years old. She related that after the death of Isidora Zegers in 1869, the album went to her great-grandfather, . She further clarified:
 
 This album was published by the to commemorate the bicentennial of the National Library of Chile.[11]

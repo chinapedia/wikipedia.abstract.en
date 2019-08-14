@@ -10,8 +10,6 @@ See also
 -   Roman Catholicism in Belgium
 -   St. Quentin
 
-Hasselt-St-Quintinus-Kathedrale-Innen-Chor-20060906.JPG
-
 
 References
 

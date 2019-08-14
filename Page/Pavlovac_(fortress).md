@@ -7,8 +7,6 @@ The family hailed and ruled from PAVLOVAC. It is the second of two castles in th
 
 Pavlovac
 
-Pecat_Pavlovica.JPG
-
 The new castle or _New Town_, or sometimes _New Borač_, is actually called PAVLOVAC, and is considered to be a new structure, also known simply as _Novi_ _()_ or _Novi Grad_ _()_. Problem exist in correct dating of its construction, but some medieval charters suggest 1392, or late 14th century, as time of its construction, during Radislav Pavlović at the family's helm.[2][3][4][5]
 
 Old Borač

@@ -8,8 +8,6 @@ See also
 -   Roman Catholicism in Ukraine
 -   Co-Cathedral
 
-Храм-Запоріжжя.jpg
-
 
 References
 

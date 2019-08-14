@@ -1,4 +1,4 @@
-Muslim_tombstone_in_Ahlat_backside.png The TOMBSTONES OF AHLAT in Turkey are famous for their dimensions and design.
+The TOMBSTONES OF AHLAT in Turkey are famous for their dimensions and design.
 
 Ahlat is a ilçe (district) center in Bitlis Province at the Lake Van shore. The tombstones are in and around the citadel of Ahlat at about .[1]
 

@@ -1,4 +1,4 @@
-Emanuela_Setti_Carraro.jpg EMANUELA SETTI CARRARO (; 9 October 1950 in Borgosesia – 3 September 1982 in Palermo) was an Italian nurse, and wife of General Carlo Alberto Dalla Chiesa. Less than two months after the marriage, she was the victim of a Sicilian Mafia AK-47 attack that also killed her husband and the escorting officer, Domenico Russo.
+EMANUELA SETTI CARRARO (; 9 October 1950 in Borgosesia – 3 September 1982 in Palermo) was an Italian nurse, and wife of General Carlo Alberto Dalla Chiesa. Less than two months after the marriage, she was the victim of a Sicilian Mafia AK-47 attack that also killed her husband and the escorting officer, Domenico Russo.
 
 
 Life

@@ -14,7 +14,7 @@ Impending development of the park's facilities was announced in 2014 after $3 mi
 
 Park description
 
-The [14] park contains woodlands, open areas and a rare coastal perched pond, in addition to a beach along Long Island Sound.[15] It is intended to serve as a nature preserve in addition to allowing passive recreation such as hiking, fishing, non-motorized boating, and seasonal horse-riding and scuba diving. There is a park office and nature center, trails, and a road that passes farmland leading to an upper parking lot and trails to Hallock Pond and the Sound.[16] The park boasts commanding views of the Long Island Sound. Hallock_State_Park_Preserve.jpg
+The [14] park contains woodlands, open areas and a rare coastal perched pond, in addition to a beach along Long Island Sound.[15] It is intended to serve as a nature preserve in addition to allowing passive recreation such as hiking, fishing, non-motorized boating, and seasonal horse-riding and scuba diving. There is a park office and nature center, trails, and a road that passes farmland leading to an upper parking lot and trails to Hallock Pond and the Sound.[16] The park boasts commanding views of the Long Island Sound.
 
 
 See also

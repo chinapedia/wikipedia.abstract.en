@@ -3,8 +3,6 @@ The CANYON FIRE was a wildfire that burned on Vandenberg Air Force Base in Santa
 
 The fire
 
-DC-10_waterbomber_drops_retardant_on_Canyon_Fire_at_Vandenberg_AFB_(160920-F-DB561-024).jpg
-
 The fire broke out September 17 and quickly grew to over . Due to the location of the fire, burning in a remote canyon on the southern half of the base, access was difficult for fire crews.[3] On September 18 the fire jumped to over prompting evacuation warnings for homes on San Miguelito Canyon south of Lompoc and east of the base.[4] By mid-afternoon on September 19 the fire had grown to over and with no containment was continuing to burn with a moderate rate of spread.[5]
 
 As the fire continued to spread, firefighters were faced with a number of unique challenges. Base officials warned that there was possibly unexploded ordnance that was left over from the days when the base was used during World War II and the Korean War.[6] By the morning of September 20, the fire had been estimated at in size with only 18% of the fire contained.[7]

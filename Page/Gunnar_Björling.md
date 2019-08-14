@@ -1,5 +1,3 @@
-Gunnar_Björling_(cropped).jpg
-
 GUNNAR OLOF BJÖRLING, (31 May 1887 – 11 July 1960) was a Swedish-speaking Finnish poet. He was one of the leading figures of Finnish-Swedish modernist literature, along with Elmer Diktonius, Edith Södergran and Hagar Olsson.
 
 

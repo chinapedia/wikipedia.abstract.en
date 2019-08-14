@@ -13,7 +13,7 @@ This castle, variously called a fortified house or tower house, derived its name
 
 Building
 
-Mint_Window_Carlingford.jpg window]]
+window]]
 
 The Mint is three storeys high and made mainly of limestone. There is a battlemented chemin de ronde on the roof, with loopholes for muskets. A doorway is protected by machicolation.
 

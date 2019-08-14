@@ -12,8 +12,6 @@ In the vicinity are several other castles. Towards the east are the ruins of Lei
 
 History
 
-Wappen_von_Egloffstein.svg Die_Fränkische_Schweiz_in_Stahlstichen_(Mayer)_019.jpg Bärnfels_01.jpg
-
 The first record of the castle is dated 2 August 1389, when its occupants, Conrad Hans and Ulrich of Egloffstein zu Bärenfels had to concede their outer bailey, the so-called Lower Fortress (_niedere Veste_), as a fief following a feud with the Landgraves of Leuchtenberg. The castle had, however, been built much earlier, probably in 1330 by Siboto I of Egloffstein, progenitor of the Bärenfels line of this family.
 
 In 1483 the fief went to the Gaillenreuth line of the Egloffsteins, who did not hold it for long however, because in 1495 the last enfeoffment was granted by the Leuchtenberg landgrave.

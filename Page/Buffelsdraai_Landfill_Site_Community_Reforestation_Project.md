@@ -1,5 +1,3 @@
-Restoration_in_action_at_Buffelsdraai.jpg
-
 The BUFFELSDRAAI LANDFILL SITE COMMUNITY REFORESTATION PROJECT (BLSCRP) was initiated in 2008 to alleviate climate change impacts associated with hosting elements of the 2010 FIFA World Cup in Durban.[1] The proposed carbon offset was to be achieved through the planting of more than 500 000 indigenous trees within the buffer zone of the Buffelsdraai Landfill Site.[2] Restoring the forest ecosystem was a identified as a way of "absorbing event-related greenhouse gas emissions while enhancing the capacity of people and biodiversity to adapt to the inevitable effects of climate change".[3]
 
 

@@ -3,7 +3,7 @@ FOLEHAVESKOVEN, or FOLEHAVE SKOV, is a forest in Hørsholm on the northern outsk
 
 History
 
-Folehaven_c._1816.jpg Folehaven_(Jean-Francois_de_Jonquières).png in c. 1999]] The forest used to belong to Hirschholm Palace. The estate comprised some 60 fishing ponds which supplied the royal household with freshwater fish. One of them was Kongens Dam ("King's Pond") which according to records from 1751 could "take" 1,000 carps (_karper_) and 3,000 [Crucian carp[]]s (_karusser_).[1] The pond was drained in the 1780s.[2][3]
+in c. 1999]] The forest used to belong to Hirschholm Palace. The estate comprised some 60 fishing ponds which supplied the royal household with freshwater fish. One of them was Kongens Dam ("King's Pond") which according to records from 1751 could "take" 1,000 carps (_karper_) and 3,000 [Crucian carp[]]s (_karusser_).[1] The pond was drained in the 1780s.[2][3]
 
 
 Ecology
@@ -17,7 +17,7 @@ Landmarks
 
 Linstow's grave
 
-Chief_Forester_Linstows_gravestone.jpg Folehaveskoven is the site of Christoph Hartwig von Linstow's grave. He had become Danish chief forester on (5 April) 1784, a position he held until his death on 12 April 1823. Together with G. W. Brüel og C. A. C. Claussen, he was responsible for carrying out great improvements to the management of the Danish state forests.
+Folehaveskoven is the site of Christoph Hartwig von Linstow's grave. He had become Danish chief forester on (5 April) 1784, a position he held until his death on 12 April 1823. Together with G. W. Brüel og C. A. C. Claussen, he was responsible for carrying out great improvements to the management of the Danish state forests.
 
 Prehistoric sites
 

@@ -2,7 +2,7 @@ LEIENFELS CASTLE () was a late mediaeval aristocratic castle, immediately northw
 
 The ruins of the hill castle are freely accessible and act as a viewing point.
 
-Burgruine-Leienfels,Ansicht.JPG (May 2009)]]
+(May 2009)]]
 
 
 Location
@@ -16,7 +16,7 @@ In the vicinity, towards the west, lie the ruins of Bärnfels Castle, to the nor
 
 History of the castle
 
-Egloffstein_Siebmacher100_-_Franken.jpg 1605 armorial]] Burg_Leienfels_3.jpg Burg_Leienfels_2.jpg
+1605 armorial]]
 
 The castle, whose name is probably derived from _Löwenfels_ ("Lion Rock"), is one of the later castles to be built in Franconian Switzerland and may have been erected in the 14th century at the behest of Seibot I of Egloffstein, who is recorded between 1285 and 1332.
 

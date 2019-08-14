@@ -42,8 +42,6 @@ Substitute linemen: Hoffman, Laythe Backfield substitutes: "Shrimp" Reynolds (QB
 
 Note: players played both offense and defense in this era, akin to modern rugby or soccer.
 
-OAC-Serpentine.jpg
-
 
 Footnotes
 

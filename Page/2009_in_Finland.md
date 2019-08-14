@@ -14,7 +14,7 @@ Events
 
 Deaths
 
-Aarne_Arvonen_(Cropped).jpg]]
+]]
 
 -   1 January – Aarne Arvonen, supercentenarian, oldest living male person in Finland (b. 1897)
 -   10 January – Pauli Salonen, Nordic combined skier (b. 1916).[1]

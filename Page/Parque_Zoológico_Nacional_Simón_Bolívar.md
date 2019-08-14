@@ -12,8 +12,6 @@ The park was managed by neighboring Museo Nacional de Costa Rica until 1953, whe
 
 Fauna
 
-Cebus_capucinus._Zoológico_Simón_Bolívar._Costa_Rica.JPG Costa_Rica_Pablo_camera_234.jpg
-
 In August 2017, the zoo held a collection of 11 species of mammals, about 30 species of birds, more than 10 species of reptiles, 2 species of frogs and 1 species of fish.
 
 Species list August 2017:

@@ -1,11 +1,9 @@
-Fold_terminology-01.jpg 3d_fold_growth_mod_2.gif
-
 In geology, 3D FOLD EVOLUTION is the study of the full three dimensional structure of a fold as it changes in time. A fold is a common three-dimensional geological structure that is associated with strain deformation under stress. Fold evolution in three dimensions can be broadly divided into two stages, namely fold growth and fold linkage. The evolution depends on fold kinematics,[1] causes of folding,[2][3] as well as alignment and interaction of the each structure with respect to each other.[4] There are several ways to reconstruct the evolution progress of folds, notably by using depositional evidence, geomorphological evidence and balanced restoration.[5][6] Understanding the evolution of folds is important because it helps petroleum geologists to gain a better understanding on the distribution of structural traps of hydrocarbon.[7][8][9]
 
 
 3D fold growth
 
-Map_and_cxn_view_growth.gif Under compressional stress, folds grow in all three dimensions, including vertical fold amplification and lateral fold propagation, both along fold crest and perpendicular to fold crests. Three-dimensional fold growth can be observed in areas like the Zagros Mountains in Iraq and Iran[10] as well as Wheeler Ridge in California, United States.[11]
+Under compressional stress, folds grow in all three dimensions, including vertical fold amplification and lateral fold propagation, both along fold crest and perpendicular to fold crests. Three-dimensional fold growth can be observed in areas like the Zagros Mountains in Iraq and Iran[10] as well as Wheeler Ridge in California, United States.[11]
 
 Fold structure
 
@@ -13,7 +11,7 @@ The vertical dimension of a fold can be described as an amplitude. The horizonta
 
 Sheath fold
 
-Sheath_Fold-01.jpg Sheath folds form in areas where rocks react differently to simple shear due to variations in competence across layers. The hinge line is severely bent in sheath fold.[13]
+Sheath folds form in areas where rocks react differently to simple shear due to variations in competence across layers. The hinge line is severely bent in sheath fold.[13]
 
 
 Fold kinematics
@@ -22,7 +20,7 @@ Under force, rock strata buckle occurs by one of two kinematic processes, either
 
 Hinge migration
 
-Hinge_migration_vs_limb_rotation_mod_2.jpg A fold hinge can migrate when strata are folded by hinge migration but the hinge is fixed when strata are folded by limb rotation.[15] At least one of the fold hinges in the whole fold structure is mobile during three dimensional fold growth.[16][17] For example, indicated by kinematic models, the structure of a fault-propagation folds should contain three anticlines/synclines with migrating hinges and 1 anticline with fixed hinge limb rotation.[18][19]
+A fold hinge can migrate when strata are folded by hinge migration but the hinge is fixed when strata are folded by limb rotation.[15] At least one of the fold hinges in the whole fold structure is mobile during three dimensional fold growth.[16][17] For example, indicated by kinematic models, the structure of a fault-propagation folds should contain three anticlines/synclines with migrating hinges and 1 anticline with fixed hinge limb rotation.[18][19]
 
 Hinge migration can be distinguished from limb rotation by several structural and geomorphological features.[20]
 
@@ -47,19 +45,19 @@ Folds that may experience prolonged 3D growth can be divided into two groups acc
 
 Detachment fold
 
-  ----------------------------------- ---------------------
-  Detachment_fold_demonstration.gif   Detachment_fold.png
-  ----------------------------------- ---------------------
+  -- --
 
-As shown in the visual analogy for detachment folds in fig 4, folds are found in rock strata above the decollement (paper: incompetent) while rock strata below it (table: competent, if it deforms it will fracture) remains undeformed, as shortening strain is concentrated at the rock strata above decollement.[33][34][35] In a setting in which overlapping strata acquires contrasting competency, a decollement (interface between paper and table) is usually found along strata in competent rock unit (such as sandstone) or along the interface of competent and incompetent rock unit (such as an evaporite). A fold acquires higher amplitude, longer wavelength and broader width when rock strata above the decollement are subjected to shortening stress parallel to, or at a low angle to the strata. Apart from stress parameters, contrast of competency across strata and variation of displacement along the decollement are the main factors contributing to fold geometry and three dimensional growth pattern.[36][37] Forced_fold_new-01.jpg
+  -- --
+
+As shown in the visual analogy for detachment folds in fig 4, folds are found in rock strata above the decollement (paper: incompetent) while rock strata below it (table: competent, if it deforms it will fracture) remains undeformed, as shortening strain is concentrated at the rock strata above decollement.[33][34][35] In a setting in which overlapping strata acquires contrasting competency, a decollement (interface between paper and table) is usually found along strata in competent rock unit (such as sandstone) or along the interface of competent and incompetent rock unit (such as an evaporite). A fold acquires higher amplitude, longer wavelength and broader width when rock strata above the decollement are subjected to shortening stress parallel to, or at a low angle to the strata. Apart from stress parameters, contrast of competency across strata and variation of displacement along the decollement are the main factors contributing to fold geometry and three dimensional growth pattern.[36][37]
 
 Forced fold
 
 Two common types of forced folds are, namely, fault-bend fold and fault-propagation fold. Folding occurs above the hanging wall of a fold ramp in a fault-bend fold, while folding occurs above the truncation of a thrust fault(fault tip) in a fault-propagation fold. They are usually highly asymmetric with one side of the limb much steeper than the other side.[38] Shortening stress is usually at a high angle to the strata and is concentrated along the slipping plane and in the hanging wall of the thrust fault. The fold acquires higher amplitude, longer wavelength and broader width as rock slips along the fault plane of the underlying coeval thrust fault, casting major influence on the three dimensional growth of the fold. Therefore, forced folds are controlled by the fault structure in the basement rocks along planar or listric fault surfaces.[39][40] The amount of fault displacement would control the amplitude of a fold, the lateral growth of fault would implies lateral growth of fold and fault linkage implies fold linkage on the surface.[41] When compared to detachment folds, contrasting competency across strata is not as pronounced[42] and the tectonic environments that they are found in are often more diverse.[43]
 
-  ---------------------------- -------------------------
-  Fault_propagation_fold.gif   Fault-bend_fold_mod.gif
-  ---------------------------- -------------------------
+  -- --
+
+  -- --
 
 A detachment fold can evolve into a forced fold when shortening stress exceeds the maximum strength of rock, and as a result the decollement may propagate upwards towards the anticlinal core and fault the detachment fold.[44] The resultant structure poses characteristics of both detachment fold and fault propagation fold.[45] An exemplar structure of this kind can be found in Mississippi Fan fold belt in Gulf of Mexico.[46]
 
@@ -88,7 +86,7 @@ Nevertheless, this criteria of comparison is based on an assumption that time is
 
 Structural relief
 
-Structural elevation along fold crest should decrease along the growth direction of a fold because the older part of a fold experiences more uplift than their younger counterpart_[65][66]_. However, this can be strongly misleading in active erosional environment where erosion rather than uplift due to fold growth is the dominant shaping force of the landscape and as a result can only be used as secondary evidence of fold growth. Asymmetric_folk_drainage_mod_mod-01.jpg
+Structural elevation along fold crest should decrease along the growth direction of a fold because the older part of a fold experiences more uplift than their younger counterpart_[65][66]_. However, this can be strongly misleading in active erosional environment where erosion rather than uplift due to fold growth is the dominant shaping force of the landscape and as a result can only be used as secondary evidence of fold growth.
 
 Characteristic drainage pattern on the slope of anticline
 
@@ -96,17 +94,15 @@ An asymmetric forked drainage pattern forms during lateral growth of a fold. The
 
 Streams deflected around the nose of fold
 
-  ------------------------------------------- --------------------------------
-  Deflected_streams_lateral_fold_growth.jpg   Deflected_stream_schematic.gif
-  ------------------------------------------- --------------------------------
+  -- --
+
+  -- --
 
 Streams are deflected as they meet uplifted rocks and flow along the boundary of the fold, which is parallel or sub-parallel to fold axis_[72][73][74]_ and the curvature of the deflected stream convex towards the direction of lateral fold growth along fold crest.[75]
 
 There are two possible scenarios when the path of a stream is blocked by an uplifted block of rock. First scenario: the stream poses stream power that is high enough to cut through the uplifted rocks, so that the river course will not be significantly altered. A channel is opened in the uplifted rocks due to erosion, a landform known as water gap. It continues to flow until the rock is further uplifted and the river no longer has enough erosive power to cut through it, leading to the second scenario. Second scenario: the stream does not have enough erosive power to cut through the rocks, so it deflected to flow along the boundary of the uplifted block as aforementioned. The abandoned river channel is known as wind gap. From here, the river either flows along the boundary of the fold and bends around the fold tip, or it may cut through the rocks at some points despite the block, due to either, acquisition of enough stream power through stream capture of small tributaries along its flow, or the presence of a particularly weak spot in the rock_.[76][77]_ In either way the river continues to flow until further uplift of rocks makes the rock too difficult for the river to cut through, which results in, again, the deflection of the channel and formation of a new wind gap.
 
 Wind gaps
-
-Decreasing_wind_gap_elevation-01_mod.jpg Wing_gap_river_gap_longitudinal_profile.jpg
 
 Elevation of wind gaps decreases along the growth direction of fold and curvature of curved wind gaps convex towards the growth direction of the fold.[78][79][80][81] Multiple wind gaps can be formed from a single river if there is continuous lateral fold growth and the river keeps being deflected, by abandoning its earlier channel and forming a new one around the outside of the developing fold.[82] In a topographic profile along fold crest, wind gaps appears as deep, narrow v-shaped valley. The incision depth of a wind gap correspond to the period of active river erosion before the channel was abandoned, i.e. the duration of its state of being a river or water gap. Since the time of abandonment of an old river channel(time of formation of a new wind gap) is the time of formation of a new river channel and the start of erosion in the new channel, the base elevation of a wind gap would approximately equals to the surface elevation of its successor, provided that they were formed from the same river.[83] Therefore, the elevation of wind gaps must always decrease along the direction of lateral fold growth along fold crest, which is one of the strongest, although not decisive, evidence of the characteristics of fold growth.[84] As former deflected streams, some of the wind gaps may show curvature that convex towards the direction of lateral fold growth.
 
@@ -116,43 +112,41 @@ None of the single aforementioned methodologies is decisive on determining 3D fo
 
 Wheeler Ridge, California
 
-Fig. 14 Left: Sentinel Satellite Image of area of Wheeler Ridge, CA.[87] Right: Showing water gaps and wind gap at the eastern part of Wheeler Ridge anticline and topographic profile A-B across the fold crest. Brown line: fold hinge; Blue line: river/water gap; Brown line: wind gap
+Located at southern California, Wheeler Ridge anticline is an east-west trending fault-bend fold,[87] and is part of Pleito-Wheeler Ridge thrust fault system.[88] Structural deformation in the area has been active since late Pleistocene, resulting in significant three-dimensional fold growth.[89]
 
-Located at southern California, Wheeler Ridge anticline is an east-west trending fault-bend fold,[88] and is part of Pleito-Wheeler Ridge thrust fault system.[89] Structural deformation in the area has been active since late Pleistocene, resulting in significant three-dimensional fold growth.[90]
+The eastern end of the anticline has been experiencing fold growth towards the east-southeast.[90]
 
-The eastern end of the anticline has been experiencing fold growth towards the east-southeast.[91]
+Firstly, the structural elevation of eastern Wheeler Ridge decreases from the west to east,[91] suggesting that the eastern part of the examined section is uplifted and exposed to erosion at a later time than the western part of the examined section. Thereby it supports a west-to-east fold growth direction
 
-Firstly, the structural elevation of eastern Wheeler Ridge decreases from the west to east,[92] suggesting that the eastern part of the examined section is uplifted and exposed to erosion at a later time than the western part of the examined section. Thereby it supports a west-to-east fold growth direction
+Second, the main flowing river channels show a curvature that bends towards the east-southeast. The curvature seems to a result of gradual uplift of rocks towards the east-southeast and shows resemblance to the patterns of deflected streams during lateral fold growth. Under this assumption, this evidence supports the growth of fold towards the east-southeast.[92]
 
-Second, the main flowing river channels show a curvature that bends towards the east-southeast. The curvature seems to a result of gradual uplift of rocks towards the east-southeast and shows resemblance to the patterns of deflected streams during lateral fold growth. Under this assumption, this evidence supports the growth of fold towards the east-southeast.[93]
+Third, the abandonment of old river channels (formation of wind gap) can be seen in a topographic profile across ridge crest.[93] As shown in fig.12, the base elevation of the wind gap approximately corresponds to the surface elevation of water gap 1, indicating that the original river channel along the wind gap was abandoned at the same time as water starts to flow in water gap 1 and therefore the two are probably formed from the singer river. It seems that the river originally flowing in the wind gap was deflected due to uplifting and flow along water gap 1 instead. Therefore, there is a strong evidence supporting that fold grows laterally towards east-southeast.
 
-Third, the abandonment of old river channels (formation of wind gap) can be seen in a topographic profile across ridge crest.[94] As shown in fig.12, the base elevation of the wind gap approximately corresponds to the surface elevation of water gap 1, indicating that the original river channel along the wind gap was abandoned at the same time as water starts to flow in water gap 1 and therefore the two are probably formed from the singer river. It seems that the river originally flowing in the wind gap was deflected due to uplifting and flow along water gap 1 instead. Therefore, there is a strong evidence supporting that fold grows laterally towards east-southeast.
-
-Forth, soil analysis indicates a high level of soil development at the western part of the examined section indicates, and the level of soil development gradually decreases towards the east.[95] It is suggested that western part of the examined area is of an older age comparing to the eastern part, and therefore the fold grows from west to east.
+Forth, soil analysis indicates a high level of soil development at the western part of the examined section indicates, and the level of soil development gradually decreases towards the east.[94] It is suggested that western part of the examined area is of an older age comparing to the eastern part, and therefore the fold grows from west to east.
 
 
 Fold linkage
 
 Orientation of linkage
 
-In an area affected by regional stress, most of the faults and folds are aligned along strike.[96] In forced folds, linkage of folds is strongly associated with linkage of the underlying faults.[97] Growth and displacement of faults are affected by not only the far-field stress of the region but also the position of faults relative to each other.[98] This is a result of a reloading positive feedback mechanism, which suggests that the stress build-up in the population of faults that are aligned along strike are much faster than those located in stress shadow (i.e. transverse to the main alignments), and thus the higher frequency of rupture and growth rates in faults that are optimally aligned.[99][100][101][102] Conversely, the faults that are located in stress shadow are relaxed and have a lower frequency of rupture and growth rates. As localization of deformation among faults continues, some faults may concentrate the stress and upon linking with other faults form a main fault that accommodates most of the displacement in the region.[103] On the other hand, the faults that orient in the stress shadow will decrease in growth rates and even become inactive in the long term.[104] As a result, in a region with pervasive compressional stress, two merged fold segments are usually aligned along-strike, as the folds would probably be rendered inactive if they are not aligned in such favorable ways.[105]
+In an area affected by regional stress, most of the faults and folds are aligned along strike.[95] In forced folds, linkage of folds is strongly associated with linkage of the underlying faults.[96] Growth and displacement of faults are affected by not only the far-field stress of the region but also the position of faults relative to each other.[97] This is a result of a reloading positive feedback mechanism, which suggests that the stress build-up in the population of faults that are aligned along strike are much faster than those located in stress shadow (i.e. transverse to the main alignments), and thus the higher frequency of rupture and growth rates in faults that are optimally aligned.[98][99][100][101] Conversely, the faults that are located in stress shadow are relaxed and have a lower frequency of rupture and growth rates. As localization of deformation among faults continues, some faults may concentrate the stress and upon linking with other faults form a main fault that accommodates most of the displacement in the region.[102] On the other hand, the faults that orient in the stress shadow will decrease in growth rates and even become inactive in the long term.[103] As a result, in a region with pervasive compressional stress, two merged fold segments are usually aligned along-strike, as the folds would probably be rendered inactive if they are not aligned in such favorable ways.[104]
 
 Mode of linkage
 
   Linear Linkage                                                                                                                                                                                                                En-echelon Linkage                                                                                                                                                                   No Linkage
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------
-  Linear_fold_linkage.gif                                                                                                                                                                                                       Oblique_fold_linkage.gif                                                                                                                                                             No_fold_linkage_mod_mod.gif
+
   Resultant landforms
-  A linear saddle that is aligned with the fold axis of the embryonic folds forms in between approaching folds[106][107]                                                                                                        A curved saddle forms in between the approaching folds[108]                                                                                                                          Embryonic fold segments grow past each other without mechanical interaction
+  A linear saddle that is aligned with the fold axis of the embryonic folds forms in between approaching folds[105][106]                                                                                                        A curved saddle forms in between the approaching folds[107]                                                                                                                          Embryonic fold segments grow past each other without mechanical interaction
   Overall structure
-  A continuous cylindrical fold[109] aligning perpendicular to the regional tectonic force that resembles a Type 1 refold structure.[110] It can be confused with a single growing embryonic fold with huge fold axial length   A single continuous cylindrical anticlinal structure with bent fold hinge around the point of linkage, resembling a Type 2 refold structure[111]                                     Two oppositely plunging parallel anticlinal fold trains and a syncline form[112]
+  A continuous cylindrical fold[108] aligning perpendicular to the regional tectonic force that resembles a Type 1 refold structure.[109] It can be confused with a single growing embryonic fold with huge fold axial length   A single continuous cylindrical anticlinal structure with bent fold hinge around the point of linkage, resembling a Type 2 refold structure[110]                                     Two oppositely plunging parallel anticlinal fold trains and a syncline form[111]
   Remarks
-  The overall structure can be easily confused with a single growing embryonic fold with huge fold axial length.[113] Embryonic fold segments grow in a direction perpendicular to the regional tectonic force.                 Growing embryonic fold segments align in a stepping manner and join obliquely.[114][115] Embryonic fold segments grow in a direction perpendicular to the regional tectonic force.   Embryonic fold segments grow in a direction perpendicular to the regional tectonic force.
+  The overall structure can be easily confused with a single growing embryonic fold with huge fold axial length.[112] Embryonic fold segments grow in a direction perpendicular to the regional tectonic force.                 Growing embryonic fold segments align in a stepping manner and join obliquely.[113][114] Embryonic fold segments grow in a direction perpendicular to the regional tectonic force.   Embryonic fold segments grow in a direction perpendicular to the regional tectonic force.
 
 
 Identification of fold linkage
 
-A_(mid,) relative height of surface in the horizontal middle of the surface in the area of approaching fold tips, is useful for defining the status of two approaching structures in the spectrum from no linkage to linear or en-echelon linkage.[116] Relative height is defined as the surface elevation of the point of interest minus the average surface elevation of the area of the approaching fold tips (see fig.15).[117]
+A_(mid,) relative height of surface in the horizontal middle of the surface in the area of approaching fold tips, is useful for defining the status of two approaching structures in the spectrum from no linkage to linear or en-echelon linkage.[115] Relative height is defined as the surface elevation of the point of interest minus the average surface elevation of the area of the approaching fold tips (see fig.15).[116]
 
 _If A_(mid)>0, linkage is present_.
 
@@ -160,7 +154,7 @@ _If A_(mid)<0, linkage is absent._
 
 _If A_(mid)~0, the structure is in the transitional zone between linkage and no-linkage._
 
-After determining the presence of linkage between twofold segments, it is possible to identify linear linkage between the segments by a straight antiformal saddle in between the two main folds.[118][119] For an en-echelon linkage, the main folds of the segments would be linked by a curved antiformal saddle in between.[120][121]
+After determining the presence of linkage between twofold segments, it is possible to identify linear linkage between the segments by a straight antiformal saddle in between the two main folds.[117][118] For an en-echelon linkage, the main folds of the segments would be linked by a curved antiformal saddle in between.[119][120]
 
 
 Further reading
@@ -348,9 +342,9 @@ Category:Geological processes Category:Structural geology Category:Deformation (
 
 [86]
 
-[87] Sentinel Data Legal Notice
+[87] "Mueller, K., & Suppe, J. (1997). Growth of Wheeler Ridge anticline, California: geomorphic evidence for fault-bend folding behaviour during earthquakes. Journal of Structural Geology, 19(3), 383–396.
 
-[88] "Mueller, K., & Suppe, J. (1997). Growth of Wheeler Ridge anticline, California: geomorphic evidence for fault-bend folding behaviour during earthquakes. Journal of Structural Geology, 19(3), 383–396.
+[88]
 
 [89]
 
@@ -364,21 +358,21 @@ Category:Geological processes Category:Structural geology Category:Deformation (
 
 [94]
 
-[95]
+[95] Cowie, P. A. (1998). A healing–reloading feedback control on the growth rate of seismogenic faults. Journal of Structural Geology, 20(8), 1075–1087.
 
-[96] Cowie, P. A. (1998). A healing–reloading feedback control on the growth rate of seismogenic faults. Journal of Structural Geology, 20(8), 1075–1087.
+[96]
 
-[97]
+[97] Cowie, P. A., & Shipton, Z. K. (1998)
 
-[98] Cowie, P. A., & Shipton, Z. K. (1998)
+[98]
 
 [99]
 
-[100]
+[100] Roberts, G. P., & Michetti, A. M. (2004). Spatial and temporal variations in growth rates along active normal fault systems: an example from The Lazio–Abruzzo Apennines, central Italy. Journal of Structural Geology, 26(2), 339–376.
 
-[101] Roberts, G. P., & Michetti, A. M. (2004). Spatial and temporal variations in growth rates along active normal fault systems: an example from The Lazio–Abruzzo Apennines, central Italy. Journal of Structural Geology, 26(2), 339–376.
+[101] Manighetti, I., King, G. C. P., Gaudemer, Y., Scholz, C. H., & Doubre, C. (2001). Slip accumulation and lateral propagation of active normal faults in Afar. Journal of Geophysical Research: Solid Earth, 106(B7), 13667-13696.
 
-[102] Manighetti, I., King, G. C. P., Gaudemer, Y., Scholz, C. H., & Doubre, C. (2001). Slip accumulation and lateral propagation of active normal faults in Afar. Journal of Geophysical Research: Solid Earth, 106(B7), 13667-13696.
+[102]
 
 [103]
 
@@ -415,5 +409,3 @@ Category:Geological processes Category:Structural geology Category:Deformation (
 [119]
 
 [120]
-
-[121]

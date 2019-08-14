@@ -16,7 +16,7 @@ History
 
 Foundation
 
-Burg_Rabeneck_in_einer_aktuellen_Ansicht.JPG Wappen_Rabeneck.JPG above the castle gate]] The family name, Rabeneck, first surfaces in 1217 in a list of fiefs of Tegernsee Abbey in conjunction with Ebertshausen Castle; then, in 1242, with Ulrich, a citizen of Munich; and subsequently in a 1257 document which mentioned the witnesses _Siboto de Rabeneck_ and _Chunrad de Rabenekke_. A _Nentwich of Rabenekke_, presumably clergy, appeared in 1261 and 1296 in a document; and a Henry of Rabeneck (_Heinrich von Rabenec_) in 1276.
+above the castle gate]] The family name, Rabeneck, first surfaces in 1217 in a list of fiefs of Tegernsee Abbey in conjunction with Ebertshausen Castle; then, in 1242, with Ulrich, a citizen of Munich; and subsequently in a 1257 document which mentioned the witnesses _Siboto de Rabeneck_ and _Chunrad de Rabenekke_. A _Nentwich of Rabenekke_, presumably clergy, appeared in 1261 and 1296 in a document; and a Henry of Rabeneck (_Heinrich von Rabenec_) in 1276.
 
 The Ravenecks of Babenberg probably come from the family of the lords of Rabenstein, as the word _Raben_ ("raven") in both Rabenstein and Rabeneck and the close proximity of the two castles suggests. The suffix _Eck_ ("corner") also indicates that the castle may have been built later that those whose names end in _Stein_ ("stone"). In addition, both names suggest a connection with capital punishment. The Rabenstein with a site of a gallows, and Rabeneck with an executioner's sword.
 
@@ -26,7 +26,7 @@ After Conrad of Schlüsselberg had been killed defending Neideck Castle in 1347,
 
 Different owners
 
-Rabeneck-Burgkapelle.JPG of St. Bartholomew on the rock spur]] Burgkapelle_Bartholomaeus_Burg_Rabeneck.JPG
+of St. Bartholomew on the rock spur]]
 
 In 1353 the castle was wholly owned by the Rabensteins, so they had probably snapped up the part of the castle belonging to the Bishopric of Bamberg that was presumably in financial difficulties as a result of the purchase of the remaining Schlüsselberg estates. From 1360 Rabeneck was no longer mentioned as part of the Bamberg estate. In 1353, the Rabensteins granted access rights (_Öffnungsrecht_) to their allodial castle to the Burgraviate of Nuremberg for 12 years.
 

@@ -1,4 +1,4 @@
-Taliparamba_Muyyam_2.jpg MUYYAM is a small village in Kannur district of Kerala state, India. Taliparamba,_Kerala,_India_(4489003090).jpg
+MUYYAM is a small village in Kannur district of Kerala state, India.
 
 
 Location
@@ -13,7 +13,7 @@ Muyyam has many rivers and green paddy fields. The people are mostly farmers. Th
 
 Post office
 
-There is a post office at Muyyam and the pincode is 670142.[3] Varadool_Temple.jpg
+There is a post office at Muyyam and the pincode is 670142.[3]
 
 
 Administration
@@ -24,8 +24,6 @@ Muyyam is part of Kurumathur panchayath in Taliparamba taluk administration.
 Access
 
 Muyyam is five kilometers away from Taliparamba town and 507 kilometers away from the state capital of Thiruvananthapuram. Muyyam is also connected Bavupparamba and Parassinikkadavu villages.
-
-Muchilot_Bhagavathi.jpg Parassini_Madappura_Sree_MuthappanTemple.jpg
 
 
 Theyyam

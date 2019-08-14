@@ -46,7 +46,7 @@ Australia did not win any medals.
 
 1996
 
-XX0896_-_Australian_Boccia_team_-_3b_-_Scan.jpg Australia represented by:
+Australia represented by:
 MEN – Kris Bignall, Scott Elsworth, Tu Huyhn, John Richardson
 WOMEN – Lynette "Lyn" Coleman, Fiona Given
 COACHES – Thomas Organ (Head), Ricky Grant
@@ -55,9 +55,7 @@ The 1996 result was the best ever for an Australian team in Boccia, however we d
 
 2000
 
-221000_-_Boccia_Scott_Elsworth_action_-_3b_-_Sydney_2000_match_photo.jpg
-
-Boccia_pictogram_(Paralympics).svgAustralia represented in boccia by:
+Australia represented in boccia by:
 
 MEN - Warren Brearley, Scott Elsworth, John Richardson
 

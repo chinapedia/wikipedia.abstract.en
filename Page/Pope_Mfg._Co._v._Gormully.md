@@ -3,7 +3,7 @@ _POPE MFG. CO. V. GORMULLY_, 144 U.S. 224 (1892),[1] was an early United States 
 
 Background
 
-Whitehead_Velocipede.png Pope owned a large number of patents relating to bicycles, tricycles, and similar vehicles, which it licensed to Gormully. The license agreement provided that Gormully could make bicycles of 52-inch size and larger, "of certain grades, style, and finish," to be sold at a specified price, and that Gormully, even after termination of the license, "would not manufacture, sell, or deal in bicycles, tricycles, or velocipedes containing certain features or devices covered by certain other patents" and would not "directly or indirectly, dispute or contest the validity of said letters patent."[3]
+Pope owned a large number of patents relating to bicycles, tricycles, and similar vehicles, which it licensed to Gormully. The license agreement provided that Gormully could make bicycles of 52-inch size and larger, "of certain grades, style, and finish," to be sold at a specified price, and that Gormully, even after termination of the license, "would not manufacture, sell, or deal in bicycles, tricycles, or velocipedes containing certain features or devices covered by certain other patents" and would not "directly or indirectly, dispute or contest the validity of said letters patent."[3]
 
 Gormully later violated the contract by "constructing bicycles of a kind prohibited by the contract," and Pope sued for an injunction compelling Gormully not to make the prohibited bicycles.[4] The trial court refused relief. It stated:
 

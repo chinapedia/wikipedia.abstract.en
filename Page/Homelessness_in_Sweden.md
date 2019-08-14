@@ -1,4 +1,4 @@
-Homeless_bed.jpg, Sweden, 2013.]] HOMELESSNESS IN SWEDEN affects some 34,000 people.[1][2]
+, Sweden, 2013.]] HOMELESSNESS IN SWEDEN affects some 34,000 people.[1][2]
 
 The Swedish government's response to homelessness has included commissioning national surveys on homelessness during the last decade that allow for direct comparison between Sweden, Denmark and Norway.[3] The three countries have very similar definitions of homelessness, with minor variations.[4]
 
@@ -7,7 +7,7 @@ Some researchers maintain that measures to counteract homelessness in Sweden are
 
 Street newspapers
 
-Situation_Sthlm_vendor_Stockholm.jpg There are several street newspapers in Sweden. _Situation Sthlm_,[7] was founded in 1995 and was Sweden's only street newspaper until _Faktum_ and _Aluma_ were founded early in the 2000s.[8]
+There are several street newspapers in Sweden. _Situation Sthlm_,[7] was founded in 1995 and was Sweden's only street newspaper until _Faktum_ and _Aluma_ were founded early in the 2000s.[8]
 
 In 2006 the three street newspapers were awarded the grand prize of Publicistklubben (Swedish Publicists' Association).[9][10]
 

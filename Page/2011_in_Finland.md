@@ -16,7 +16,7 @@ Events
 
 Deaths
 
-Holkeri.jpg]]
+]]
 
 -   11 February – Bo Carpelan, poet (b. 1926)
 -   26 March – Yrjö Hietanen, sprint canoer (b. 1927).[2]

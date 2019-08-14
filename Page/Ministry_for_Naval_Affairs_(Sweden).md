@@ -1,5 +1,3 @@
-Befälstecken,_Chefens_för_sjöförsvarsdepartementet_flagga,_Nordisk_familjebok.jpg
-
 MINISTRY FOR NAVAL AFFAIRS (), established in 1840, was at the time one of the eight ministries, in which the Swedish government administration was divided into.[1] The Ministry for Naval Affairs was established in connection with the ministry reform in 1840. Land defence and naval defence affairs, which had previously been dealt with in the War Office (_Krigsexpeditionen_), was now divided into two different ministries. The two ministries was in 1920 merge into the newly established Ministry of Defence.[2]
 
 

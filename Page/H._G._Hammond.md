@@ -1,5 +1,3 @@
-Curzon_Mayfair,_Mayfair,_W1_(4298543667).jpg
-
 HORACE GAEL HAMMOND (4 June 1910 - December 2006)[1] was a British architect, responsible for designing the Grade II listed Curzon Mayfair Cinema for Sir John Burnet, Tait and Partners, built in 1963-66.[2] Historic England have described it as "the finest surviving cinema building of the post-war period, it is also the least altered."[3]
 
 Hammond was the junior partner to George Adie in designing Charters House, Berkshire, built in 1938.[4]

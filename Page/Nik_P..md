@@ -1,4 +1,4 @@
-2018-06-10_ZDF_Fernsehgarten_Nik_P-9765.jpg NIKOLAUS PRESNIK better known as NIK P. (born in Friesach on 6 April 1962) is an Austrian schlager singer.
+NIKOLAUS PRESNIK better known as NIK P. (born in Friesach on 6 April 1962) is an Austrian schlager singer.
 
 After death of his mother, he moved with his family to Strasbourg. He learned to play the guitar at a young age and at age 19 he established with his cousin, Gottfried Notsch, the musical group Reflex playing local gigs. He met producer Klaus Bartelmuss recording his first studio album Gebrochenes Herz as Nik P und Band in 1997. His debut single was "Dream Lover". In 2005, Nik P. separated from Reflex and his album _Lebenslust und Leidenschaft_ was certified platinum in Austria. In 2007, "Ein Stern (...der deinen Namen trägt)" became a big commercial success through a version with DJ Ötzi peaking at #1 in Austria, Germany and Switzerland. It was certified platinum both in Austria and Germany and gold in Switzerland. In 2008, based on this success, he won the Echo Music Prize for "Single of the Year" for the song.
 

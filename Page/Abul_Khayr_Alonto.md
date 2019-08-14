@@ -18,7 +18,7 @@ In 1982, Alonto organized and established the Muslim Federal Party which became 
 
 Alonto was the Deputy Secretary General of the National Unification Council during the 1986 Snap Presidential Election and underwent serious studies on federalism in Malaysia, United States of America, Germany, and Switzerland. He was appointed Ambassador Extraordinary and Plenipotentiary and Chief of Mission to Nigeria and 21 African States in 1994.
 
-In February 2014, the original members of the MNLF Central Committee installed Alonto as Chairman of the MNLF. He was a staunch supporter of the Bangsamoro Basic Law, a bill which sought for the establishment of a proposed new autonomous political entity known as the Bangsamoro Autonomous Region, to replace the current ARMM.[9] President_Rodrigo_Duterte_is_greeted_by_Mindanao_Development_Authority_Chairperson_Abul_Khayr_Alonto.jpg, September 2016.]]
+In February 2014, the original members of the MNLF Central Committee installed Alonto as Chairman of the MNLF. He was a staunch supporter of the Bangsamoro Basic Law, a bill which sought for the establishment of a proposed new autonomous political entity known as the Bangsamoro Autonomous Region, to replace the current ARMM.[9] , September 2016.]]
 
 MinDA Chair
 

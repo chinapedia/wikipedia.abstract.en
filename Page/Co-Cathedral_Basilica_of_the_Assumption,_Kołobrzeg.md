@@ -2,7 +2,7 @@ The CO-CATHEDRAL BASILICA OF THE ASSUMPTION OF THE BLESSED VIRGIN MARY [1] () al
 
 The start date of the construction of the parish church of the Virgin Mary in Kołobrzeg is not precisely known. It is believed that the main church of the city was built in the early fourteenth century on the site where once was an ancient church dedicated to St. Nicholas. The first mass in the edifice was held in the year 1321.
 
-Kołobrzeg,_Marienkirche,_za_(2011-07-26)_by_Klugschnacker_in_Wikipedia.jpg From the seventeenth century to the twentieth century, the church was destroyed by wars. In 1945, during the battle of Kołobrzeg fortress of World War II it was an important point for the defence of the city. It was destroyed by Soviet artillery. In 1957 its reconstruction began.
+From the seventeenth century to the twentieth century, the church was destroyed by wars. In 1945, during the battle of Kołobrzeg fortress of World War II it was an important point for the defence of the city. It was destroyed by Soviet artillery. In 1957 its reconstruction began.
 
 
 See also

@@ -10,8 +10,6 @@ See also
 
 References
 
-Oppeln-Kathedrale-1.jpg
-
 Category:Churches in Opole Voivodeship Category:Roman Catholic cathedrals in Poland Category:Buildings and structures in Opole
 
 [1] Cathedral Basilica of the Holy Cross in Opole

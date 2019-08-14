@@ -1,5 +1,3 @@
-Teapot,_Samuel_Casey,_Little_Rest,_Rhode_Island,_c._1755,_silver_-_Hood_Museum_of_Art_-_DSC09323.JPG
-
 SAMUEL CASEY (1723/4 – c. 1773) was a noted silversmith and counterfeiter active in Little Rest (Kingston), Rhode Island.
 
 Casey was born in Newport, Rhode Island in 1723 or 1724, and said to have apprenticed with Boston silversmith Jacob Hurd. In 1745 he was admitted as a freeman in Exeter, Rhode Island, and by 1750, he had moved to Kingston, Rhode Island to a village then called Little Rest. Though Casey is often identified as a silver or goldsmith, he was also often described as a merchant. According to _The Newport Mercury_, his house and shop burned down in late September 1764:

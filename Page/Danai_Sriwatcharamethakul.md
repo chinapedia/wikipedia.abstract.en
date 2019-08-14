@@ -18,7 +18,7 @@ As a coach
 
 Royal decorations
 
--   2013 - Order_of_the_White_Elephant_-_3rd_Class_(Thailand)_ribbon.svg Commander (Third Class) of The Most Exalted Order of the White Elephant[5]
+-   2013 - Commander (Third Class) of The Most Exalted Order of the White Elephant[5]
 
 
 References

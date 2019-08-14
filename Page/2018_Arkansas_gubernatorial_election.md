@@ -31,8 +31,6 @@ Polling
 
 Results
 
-Results by county:
-
 
 Democratic primary
 
@@ -49,8 +47,6 @@ Declined
 -   Jay Martin, former Majority Leader of the Arkansas House of Representatives[12][13]
 
 Results
-
-Results by county:
 
 
 Independents

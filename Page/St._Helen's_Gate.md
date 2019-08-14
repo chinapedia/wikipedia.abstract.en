@@ -5,9 +5,9 @@ History
 
 Construction of the Santa Margherita Lines began in 1638, but works stopped in 1645 and were only resumed in 1715.[1][2] St. Helen's Gate was built in 1736 to designs of the French architect Charles François de Mondion.[3] The gate is located at the centre of St. Helen's Curtain, a stepped curtain wall between St. John Almoner and St. Helen's Bastions, and it served as the main entrance into the city of Cospicua.[4][5]
 
-Back_view_of_Saint_Helen_Gate.jpg The gate originally had an _à la Vauban_ drawbridge, but this was replaced by a chain-and-tackle mechanism in the early 19th century. The gate also had casemates with two _corpi di guardia_ which housed the sentries watching the gate.[6] In 1947, under the direction of the Reconstruction Minister Dom Mintoff, the sentry rooms were demolished in order to make way for two modern openings to enable passage for vehicular traffic.[7] The gate was originally protected by a triangular lunette and a tenaille, but these were dismantled in the 19th century to make way for a new road.[8]
+The gate originally had an _à la Vauban_ drawbridge, but this was replaced by a chain-and-tackle mechanism in the early 19th century. The gate also had casemates with two _corpi di guardia_ which housed the sentries watching the gate.[6] In 1947, under the direction of the Reconstruction Minister Dom Mintoff, the sentry rooms were demolished in order to make way for two modern openings to enable passage for vehicular traffic.[7] The gate was originally protected by a triangular lunette and a tenaille, but these were dismantled in the 19th century to make way for a new road.[8]
 
-30062_Saint_Helen's_Gate.jpg The gate was restored in 1999 and 2004, and archaeological excavations were carried out, revealing the gate's original drawbridge pit.[9][10] The area around the gate was subsequently paved and light fixtures were installed.[11][12]
+The gate was restored in 1999 and 2004, and archaeological excavations were carried out, revealing the gate's original drawbridge pit.[9][10] The area around the gate was subsequently paved and light fixtures were installed.[11][12]
 
 The gate was included on the Antiquities List of 1925.[13] It is now scheduled as a Grade 1 national monument, and it is also listed on the National Inventory of the Cultural Property of the Maltese Islands.[14]
 

@@ -3,7 +3,7 @@ SIZANI NGUBANE is a South African activist who works for indigenous women's righ
 
 Early life
 
-Sizane_Ngubane_speaking_at_SACSIS_event.ogvSizani Ngubane was born on November 24, 1946 in KwaMpumuza, near Pietermaritzburg.[1] She and her four younger siblings were raised by her mother, who was working as a domestic worker. Sizani, as the eldest child, decided to drop out of school to assist her mother in raising her siblings. Consequently, she did not have the opportunity to get a formal education, and she made it her own responsibility to be educated.
+Sizani Ngubane was born on November 24, 1946 in KwaMpumuza, near Pietermaritzburg.[1] She and her four younger siblings were raised by her mother, who was working as a domestic worker. Sizani, as the eldest child, decided to drop out of school to assist her mother in raising her siblings. Consequently, she did not have the opportunity to get a formal education, and she made it her own responsibility to be educated.
 
 In 1956, at only 10 years of age, Sizani saw firsthand the detrimental effects of gender bias and the unjustified strain it puts on women. Sizani’s father was a migrant worker in Johannesburg, only returning home two weeks of the year during the festive season and the house was managed by Sizani’s mother. Once while Sizani’s father was away, his brother approached Sizani’s mother, demanding that she leave and give him the house and land: as she was a woman she could not own or live on a piece of land by herself.
 

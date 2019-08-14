@@ -11,7 +11,7 @@ Exploration presented four projects - The Biomimetic Office, The Mountain Data C
 
 The projects were displayed on 3D printed tables, designed using SKO software – a computer programme based on the adaptive growth patterns of trees and bones.
 
-The company commissioned four films by photographer, Kelly Hill, that explored the design philosophy behind each of the schemes and provided further insight into the process of applying biomimicry to architecture. Biological_specimens_-_kelly_hill.jpg
+The company commissioned four films by photographer, Kelly Hill, that explored the design philosophy behind each of the schemes and provided further insight into the process of applying biomimicry to architecture.
 
 
 Selected Projects
@@ -31,7 +31,7 @@ External links
 -   Sahara Forest Project
 -   Michael Pawlyn LinkedIn
 -   Biomimetic Office Building
--   The_Sahara_Forest_Project_pilot_facility_in_Qatar.jpg"Using nature's genius in architecture" TED talk
+-   "Using nature's genius in architecture" TED talk
 
 
 References

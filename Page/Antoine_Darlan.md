@@ -5,7 +5,7 @@ Biography
 
 One of the most prominent politicians of Ubangi-Shari
 
-Actenaissancedarlan.jpg Antoine Darlan was born in 1915 in Kouango (Ouaka) to Elizabeth Mandalo, an Aboriginal, and Joseph Darlan[1] a European of Portuguese origin.[2] Although his official date of birth according to the Kouango birth registry was 8 June,[3] it is impossible to know his true date of birth with certainty. His father never recognized him, and Darlan did not become a French citizen until 11 September 1937.
+Antoine Darlan was born in 1915 in Kouango (Ouaka) to Elizabeth Mandalo, an Aboriginal, and Joseph Darlan[1] a European of Portuguese origin.[2] Although his official date of birth according to the Kouango birth registry was 8 June,[3] it is impossible to know his true date of birth with certainty. His father never recognized him, and Darlan did not become a French citizen until 11 September 1937.
 
 As a Méti, Antoine Darlan had easy access to education and joined the colonial administration as a bookkeeper. The political climate in the French colonial empire in the late 1930s was peculiar in that the colonized peopled had no civic rights. Antoine Darlan became a political activist in a meeting of Oubanguian indigenous cadres, the Association and the Association of Métis.[4] In 1941 as a French citizen, he was drafted in the Free French forces. He received a Colonial Medal for his wartime service.[5]
 

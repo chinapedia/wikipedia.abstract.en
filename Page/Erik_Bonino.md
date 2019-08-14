@@ -1,7 +1,5 @@
 ERIK BONINO (born July 1963)[1] is a former Chairman of Shell UK.[2]
 
-Shell_Centre_-_geograph.org.uk_-_595879.jpg
-
 
 Career
 

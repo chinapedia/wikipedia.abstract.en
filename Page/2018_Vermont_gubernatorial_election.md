@@ -27,8 +27,6 @@ Debates and forums
 
 Results
 
-Results by county:
-
 
 Democratic primary
 
@@ -54,8 +52,6 @@ Debates and forums
 -   WCAX Democratic+Republican forum 7/31/2018
 
 Results
-
-Results by county:
 
 With this result, Christine Hallquist became the first openly transgender candidate for governor nominated by a major political party in the United States.[15]
 

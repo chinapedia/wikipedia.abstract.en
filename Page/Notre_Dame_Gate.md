@@ -5,7 +5,7 @@ History
 
 Construction of the Cottonera Lines began in August 1670, when there were fears of an Ottoman attack after the fall of Candia. The Notre Dame Gate was built in 1675 as the lines' main gate, and its design is attributed to Romano Carapecchia[1] or Mederico Blondel.[2] The gate is located within the Notre Dame Curtain, between Notre Dame and St. James Bastions, facing the town of Żabbar. It is situated at the highest point of the Cottonera area, and its roof was used to relay signals between Valletta and the coastal defences on the eastern part of Malta.[3] The gate was originally protected by a drop ditch and a tenaille.[4]
 
-Back_view_of_Notre_Dame_de_la_Grace_Gate.jpg The gate remained in use throughout the years of Hospitaller, French and British rule. The gate gradually served as an adjunct to the Cottonera Military Hospital (now St. Edward's College) following its construction in 1870. Many wounded soldiers were accommodated within the gate during World War I.[5]
+The gate remained in use throughout the years of Hospitaller, French and British rule. The gate gradually served as an adjunct to the Cottonera Military Hospital (now St. Edward's College) following its construction in 1870. Many wounded soldiers were accommodated within the gate during World War I.[5]
 
 The gate's ditch was filled in and the drawbridge removed sometime after the 1930s,[6] while the tenaille was demolished.[7] The gate was damaged by aerial bombardment during World War II, when one of the adjacent barrack blocks received a direct hit.[8]
 

@@ -1,5 +1,3 @@
-Electric_feed_rocket_cycle.svg
-
 The ELECTRIC-PUMP-FED ENGINE is a bipropellant rocket engine in which the fuel pumps are electrically powered, and so all of the input propellant is directly burned in the main combustion chamber, and none is diverted to drive the pumps. This differs from traditional rocket engine designs, in which the pumps are driven by a portion of the input propellants.
 
 An electric cycle engine uses electric pumps to pressurize the propellants from a low-pressure fuel tank to high-pressure combustion chamber levels, generally from to . The pumps are powered by an electric motor, with electricity from a battery bank.

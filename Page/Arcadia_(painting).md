@@ -3,7 +3,7 @@ _ARCADIA_ is a 1883 painting by Thomas Eakins, Goodrich #196. It is part of the 
 
 History
 
-Swimming_hole.jpg In the early 1880s, Eakins, instructor in painting at the Pennsylvania Academy of the Fine Arts, began to photograph models dressed in classical garb or nude and posed in vaguely classical poses. He used his friends and students as models, although taking nude photographs of a student was contrary to PAFA policy.[2] Some of the photographs were used as studies for subsequent works, including those of nude young men swimming and relaxing on the shore of Dove Lake for the painting _The Swimming Hole_ (1884-85).
+In the early 1880s, Eakins, instructor in painting at the Pennsylvania Academy of the Fine Arts, began to photograph models dressed in classical garb or nude and posed in vaguely classical poses. He used his friends and students as models, although taking nude photographs of a student was contrary to PAFA policy.[2] Some of the photographs were used as studies for subsequent works, including those of nude young men swimming and relaxing on the shore of Dove Lake for the painting _The Swimming Hole_ (1884-85).
 
 Eakins's models for _Arcadia_ were his former student and soon-to-be wife, Susan Macdowell, his teaching assistant at PAFA, J. Laurie Wallace, and his six-year-old nephew Ben Crowell (son of his sister Fanny). He photographed them outdoors in a number of poses and used the photographs as studies for _Arcadia_ and several related works.[3] The Arcadian works were very personal to Eakins—he even had himself photographed as the piper.[4]
 

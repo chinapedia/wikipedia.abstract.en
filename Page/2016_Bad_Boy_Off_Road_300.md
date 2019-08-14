@@ -5,7 +5,7 @@ Report
 
 Background
 
-New_Hampshire_International_Speedway_(2007).jpg NEW HAMPSHIRE MOTOR SPEEDWAY is a oval speedway located in Loudon, New Hampshire which has hosted NASCAR racing annually since the early 1990s, as well as an IndyCar weekend and the oldest motorcycle race in North America, the Loudon Classic. Nicknamed "The Magic Mile", the speedway is often converted into a road course, which includes much of the oval.
+NEW HAMPSHIRE MOTOR SPEEDWAY is a oval speedway located in Loudon, New Hampshire which has hosted NASCAR racing annually since the early 1990s, as well as an IndyCar weekend and the oldest motorcycle race in North America, the Loudon Classic. Nicknamed "The Magic Mile", the speedway is often converted into a road course, which includes much of the oval.
 
 The track was originally the site of Bryar Motorsports Park before being purchased and redeveloped by Bob Bahre. The track is currently one of eight major NASCAR tracks owned and operated by Speedway Motorsports.
 
@@ -408,31 +408,31 @@ Drivers' Championship standings
 
                                 Pos   Driver              Points
   ----------------------------- ----- ------------------- -------------
-  1uparrow_green.svg 1          1     Brad Keselowski     2,087
-  1downarrow_red.svg 1          2     Martin Truex, Jr.   2,086 (–1)
-  1rightarrow.png               3     Kyle Busch          2,085 (–2)
-  1uparrow_green.svg 3          4     Matt Kenseth        2,078 (–9)
-  1rightarrow.png               5     Joey Logano         2,073 (–14)
-  1uparrow_green.svg 7          6     Kevin Harvick       2,071 (–16)
-  1downarrow_red.svg 3          7     Denny Hamlin        2,071 (–16)
-  1rightarrow.png               8     Jimmie Johnson      2,070 (–17)
-  1downarrow_red.svg 3          9     Chase Elliott       2,068 (–19)
-  1downarrow_red.svg 1          10    Carl Edwards        2,068 (–19)
-  1downarrow_red.svg 1          11    Kurt Busch          2,067 (–20)
-  1uparrow_green.svg 3          12    Kyle Larson         2,057 (–30)
-  1downarrow_red.svg 2          13    Jamie McMurray      2,052 (–35)
-  1downarrow_red.svg 1          14    Austin Dillon       2,052 (–35)
-  1downarrow_red.svg 3          15    Tony Stewart        2,046 (–41)
-  1rightarrow.png               16    Chris Buescher      2,027 (–60)
+  1                             1     Brad Keselowski     2,087
+  1                             2     Martin Truex, Jr.   2,086 (–1)
+                                3     Kyle Busch          2,085 (–2)
+  3                             4     Matt Kenseth        2,078 (–9)
+                                5     Joey Logano         2,073 (–14)
+  7                             6     Kevin Harvick       2,071 (–16)
+  3                             7     Denny Hamlin        2,071 (–16)
+                                8     Jimmie Johnson      2,070 (–17)
+  3                             9     Chase Elliott       2,068 (–19)
+  1                             10    Carl Edwards        2,068 (–19)
+  1                             11    Kurt Busch          2,067 (–20)
+  3                             12    Kyle Larson         2,057 (–30)
+  2                             13    Jamie McMurray      2,052 (–35)
+  1                             14    Austin Dillon       2,052 (–35)
+  3                             15    Tony Stewart        2,046 (–41)
+                                16    Chris Buescher      2,027 (–60)
   Official driver's standings
 
 Manufacturers' Championship standings
 
                                     Pos   Manufacturer   Points
   --------------------------------- ----- -------------- -------------
-  1rightarrow.png                   1     Toyota         1,156
-  1rightarrow.png                   2     Chevrolet      1,228 (–28)
-  1rightarrow.png                   3     Ford           1,072 (–84)
+                                    1     Toyota         1,156
+                                    2     Chevrolet      1,228 (–28)
+                                    3     Ford           1,072 (–84)
   Official manufacturers' results
 
 -   NOTE: Only the first 16 positions are included for the driver standings.

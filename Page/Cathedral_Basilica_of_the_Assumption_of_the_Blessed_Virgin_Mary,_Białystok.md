@@ -10,8 +10,6 @@ See also
 -   Roman Catholicism in Poland
 -   Assumption Cathedral (disambiguation)
 
-Białystok,_ołtarz_starego_kościoła_farnego.jpg
-
 
 References
 

@@ -1,4 +1,4 @@
-Saborna_crkva_u_Nisu3.jpg]] Latinska_crkva.JPG, dating from Middle Ages]] Sveti_Nikola_Kursumlija11.jpg, dating from the end of 12 century]] Niska_Banja_orthodox_church.jpg]]
+]] , dating from Middle Ages]] , dating from the end of 12 century]] ]]
 
 The EPARCHY OF NIŠ () is an eparchy (diocese) of the Serbian Orthodox Church with its seat in Niš, in Serbia. It has jurisdiction over the south-eastern regions of Serbia. Since 2017, Serbian Orthodox Bishop of Niš is Arsenije Glavčić.[1]
 

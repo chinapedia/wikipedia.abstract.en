@@ -1,4 +1,4 @@
-The_Craigy_Bield_by_David_Allan.jpg The BLUE BONNET was a type of soft woollen hat that for several hundred years was the customary working wear of Scottish labourers and farmers. Although a particularly broad and flat form was associated with the Scottish Lowlands, where it was sometimes called the "scone cap",[1] the bonnet was also worn in parts of northern England and became widely adopted in the Highlands.
+The BLUE BONNET was a type of soft woollen hat that for several hundred years was the customary working wear of Scottish labourers and farmers. Although a particularly broad and flat form was associated with the Scottish Lowlands, where it was sometimes called the "scone cap",[1] the bonnet was also worn in parts of northern England and became widely adopted in the Highlands.
 
 In later years it came to be associated with Highland dress, and in the 19th century gave rise to other types of largely military headgear such as the more elaborate Balmoral bonnet, the tam o' shanter, and (with the addition of a wire cage) the military feather bonnet.
 
@@ -7,18 +7,16 @@ Construction
 
 The characteristic blue bonnet was knitted in one piece from a thick wool, dyed with woad, and felted to produce a water resistant finish. Strings were often sewn around the inner edge, allowing a close fit around the brow, whilst the top was worn pulled into a broad circle. The typical Lowland man's bonnet was large and worn flat, overhanging at the front and back and sometimes ornamented with a small tuft or red worsted "cherry",[2] while in the Highlands the fashion was for a smaller, plain bonnet, sometimes peaked at the front.[3]
 
-MacAulay_(R._R._McIan).png
-
 The bonnet's construction made it an extremely practical piece of clothing in Scotland's damp, cool climate. The flat shape formed an effective brim against the weather, could be pulled down ("scrugged") in various directions for additional cover, pulled over the ears for warmth, or folded and put in a pocket.[4] It could also be removed and used as a pocket or bag in its own right. The felted wool helped protect the wearer against rain, and could be easily wrung dry.
 
 
 History
 
-The_Scots_Holding_Their_Young_King's_Nose_To_the_Grindstone.jpg manipulation of the young Charles II, shows 'Jockie', a stereotypical Presbyterian Lowland Scot, wearing a broad blue bonnet.]] A substantial hand knitting industry is believed to have developed in Scotland by the late 15th century. Bonnetmakers produced broad, flat knitted caps in imitation of the velvet caps popular amongst the upper classes of the time.[5] Dyed with blue or grey vegetable dyes, they became popular with the peasantry and by the end of the 16th century - as noted by Fynes Moryson - the bonnet had been adopted nearly universally by men throughout the Lowlands, although it did not become widely worn in the Highlands until the following century.[6] By 1700 Martin Martin described Highlanders as mainly wearing thick woollen bonnets of blue or grey.
+manipulation of the young Charles II, shows 'Jockie', a stereotypical Presbyterian Lowland Scot, wearing a broad blue bonnet.]] A substantial hand knitting industry is believed to have developed in Scotland by the late 15th century. Bonnetmakers produced broad, flat knitted caps in imitation of the velvet caps popular amongst the upper classes of the time.[5] Dyed with blue or grey vegetable dyes, they became popular with the peasantry and by the end of the 16th century - as noted by Fynes Moryson - the bonnet had been adopted nearly universally by men throughout the Lowlands, although it did not become widely worn in the Highlands until the following century.[6] By 1700 Martin Martin described Highlanders as mainly wearing thick woollen bonnets of blue or grey.
 
 It was the bonnet's blue colour, as well as, perhaps, its Lowland and peasant origins, that influenced its adoption as a badge of the Covenanters,[7] who used blue to distinguish themselves from their Royalist opponents and their red cockades and ribbons.
 
-Georgemurray.jpg.]]
+.]]
 
 During the 18th century the bonnet was, to outsiders, the most readily identifiable Scottish piece of clothing in the popular imagination. Tartan would occupy this role in the following century. Despite its earlier association with the Covenanters, adorned with a white cockade the blue bonnet was also adopted as an emblem of Jacobitism.[8] Its political symbolism became overt: one night in December 1748, over two years after the failure of the 1745 Jacobite rising, someone scaled the Edinburgh Parliament House and dressed the lion in the Scottish royal arms in a white wig, blue bonnet, and large white cockade.[9] The association was reinforced by later nostalgic Jacobite songs, such as "_Blue bonnets over the border_", set down (and possibly written) by Sir Walter Scott, who himself affected to wear a bonnet in later life, dressing very much like "an old Border baron", according to James Hogg.[10]
 
@@ -34,7 +32,7 @@ In Scotland the term "bonnet-laird", or "bannet-laird" was sometimes used to ref
 
 Other uses
 
-SuccisaPratensis2.jpg Owing to the flower's resemblance to the cap, the wildflower _Succisa pratensis_ was often called the "blue bonnet" in Scotland. By extension the name was also applied to the garden flower _Centaurea montana_.
+Owing to the flower's resemblance to the cap, the wildflower _Succisa pratensis_ was often called the "blue bonnet" in Scotland. By extension the name was also applied to the garden flower _Centaurea montana_.
 
 The blue tit was also called the "blue bonnet" or "blue bannet"[16] in parts of Scotland, with the equivalent name "blue cap" being used in northern England.[17]
 

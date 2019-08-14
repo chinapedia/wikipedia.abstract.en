@@ -3,14 +3,12 @@ ST. VINCENT CHURCH (Danish: Sankt Vincent Kirke) is a parish of the Roman Cathol
 
 History
 
-Sankt_Vincents_Kirke_vintage_photo.jpg The church was designed by Næstved architect Johannes Tideman-Dal. The foundation stone was set on 4 October 1928 and the church was consecrated on 26 October 1930.[1]
+The church was designed by Næstved architect Johannes Tideman-Dal. The foundation stone was set on 4 October 1928 and the church was consecrated on 26 October 1930.[1]
 
 A group of Sisters of Charity of Saint Vincent De Paul began to operate in Helsingør in connection with the opening of the church.[2]
 
 
 Architecture
-
-Sankt_Vincent_Kirke_interiør_2018a.jpg
 
 The church is built to a Neo-Gothic design in handmade red brick. The style was inspiration by the city's original Catholic churches dating from before the Reformation.
 

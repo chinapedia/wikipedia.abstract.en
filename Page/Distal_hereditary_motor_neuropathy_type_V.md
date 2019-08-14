@@ -3,7 +3,7 @@ DISTAL HEREDITARY MOTOR NEUROPATHY TYPE V is a particular type of neuropathic di
 
 Signs and symptoms
 
-Onset usually occurs within the first two decades of life, commonly in the teenage years or the twenties. Life expectancy is normal.Charcot-marie-tooth_foot.jpg High arch of the foot (pes cavus) is common. Patients also have trouble controlling their hands, due to muscle loss on the thumb side of the index finger and palm below the thumb.[4] It is rare for a person with this disorder to lose the ability to walk, though changes in gait may occur later in life.[5] Frequency of this disorder is unknown.[6]
+Onset usually occurs within the first two decades of life, commonly in the teenage years or the twenties. Life expectancy is normal. High arch of the foot (pes cavus) is common. Patients also have trouble controlling their hands, due to muscle loss on the thumb side of the index finger and palm below the thumb.[4] It is rare for a person with this disorder to lose the ability to walk, though changes in gait may occur later in life.[5] Frequency of this disorder is unknown.[6]
 
 
 Genetics

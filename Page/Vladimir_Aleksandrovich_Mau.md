@@ -62,7 +62,7 @@ Membership in advisory and scientific councils and commissions
 
 Awards
 
-17-11-2017-nagrada.jpg thumb
+thumb
 
 -   Awarded "For Merit to the Fatherland" Third Class Order on November 15, 2017.
 -   Awarded "For Merit to the Fatherland" Fourth Class Order on December 26, 2012.

@@ -1,4 +1,4 @@
-1962_Tour_de_France_yellow_jersey_(Gitane-Leroux).svg design of the yellow jersey, as worn by Tom Simpson on stage thirteen as leader of the general classification]]
+design of the yellow jersey, as worn by Tom Simpson on stage thirteen as leader of the general classification]]
 
 Since the establishment of the competition in 1903, eight British riders have led the general classification in the Tour de France at the end of a stage during one of the 103 editions of the Tours de France. As of the end of the 2018 Tour, this equals a total of 101 stages.
 

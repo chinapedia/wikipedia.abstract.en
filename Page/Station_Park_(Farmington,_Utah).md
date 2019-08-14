@@ -1,5 +1,3 @@
-Station_Park_fountain_(26735637558).jpg Skating_at_Station_Park_(26735638958).jpg
-
 STATION PARK is a TOD (transit-oriented development) located in Farmington, Utah, United States. It borders the Farmington frontrunner station. Centercal Properties developed and currently maintains Station Park. Amenities include a fountain that is synchronized to music and lights,[1] an ice skating rink and a Cinemark theatre.
 
 

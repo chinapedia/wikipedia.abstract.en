@@ -16,7 +16,7 @@ OFFICIALS – Coach - Mary Longden ; Manager - – Sally Francis
 
 2000
 
-301000_-_Equestrian_Sue-Ellen_Lovett_dressage_action_2_-_3b_-_2000_Sydney_event_photo.jpg Australia represented in cycling by:
+Australia represented in cycling by:
 WOMEN - Rosalie Fahey, Sue Haydon, Julie Higgins, Marita Hird, Judy Hogan, Sue-Ellen Lovett, Anne Skinner
 OFFICIALS – Coaches - Carolyn Lieutenant (Head), Gillian Rickard ; Judy Cubitt (Chef d'Equipe), Dinah Barron
 Australia won 2 gold and 2 bronze medals in its second Paralympic competition. It came second to Great Britain in the overall medal tally. Due to the team's results, Head Coach Carolyn Lieutenant won the Australian Coaching Council's Female Coach of the Year award.

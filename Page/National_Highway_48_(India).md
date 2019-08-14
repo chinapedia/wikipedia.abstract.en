@@ -49,8 +49,6 @@ Haryana
 
 Rajasthan
 
-Jaipur-Ajmer_Road.JPG
-
     near Kotputli at Behror.
 
     near Sahpura.
@@ -85,7 +83,7 @@ Jaipur-Ajmer_Road.JPG
 
 Gujarat
 
-Cable_bridge_of_Bharuch.jpg near Bharuch]]
+near Bharuch]]
 
     near Himatnagar (58EXT)
 
@@ -116,7 +114,7 @@ Cable_bridge_of_Bharuch.jpg near Bharuch]]
 
 Maharashtra
 
-New_katraj_tunnel_(3).JPG at Katraj Ghat]]
+at Katraj Ghat]]
 
     near Talasari
 
@@ -162,7 +160,7 @@ New_katraj_tunnel_(3).JPG at Katraj Ghat]]
 
 Karnataka
 
-NH_4_National_Highway_Karnataka_India.jpg NBTPL-Variable-Board.jpg]]
+]]
 
     near Sankeshwar
 
@@ -200,7 +198,7 @@ NH_4_National_Highway_Karnataka_India.jpg NBTPL-Variable-Board.jpg]]
 
 Tamil Nadu
 
-NH4_at_Sriperumbudur.jpg]]
+]]
 
     near Hosur
 

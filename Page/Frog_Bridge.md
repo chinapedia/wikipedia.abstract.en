@@ -10,7 +10,7 @@ History
 
 Previous bridge
 
-Willimantic_River_with_bridge.jpg The bridge was built to replace an 1857 stone arch bridge located in the middle of the mill complex. The original bridge was planned to be replaced as early as 1872. Another effort to replace the old bridge was made at the turn of the 20th century, but ended up with a compromise resulting in the Willimantic Footbridge. The bridge was closed shortly after the opening of the Frog Bridge, remaining closed until October 2006 when it reopened as the Windham Garden on the Bridge, a pedestrian bridge.[8]
+The bridge was built to replace an 1857 stone arch bridge located in the middle of the mill complex. The original bridge was planned to be replaced as early as 1872. Another effort to replace the old bridge was made at the turn of the 20th century, but ended up with a compromise resulting in the Willimantic Footbridge. The bridge was closed shortly after the opening of the Frog Bridge, remaining closed until October 2006 when it reopened as the Windham Garden on the Bridge, a pedestrian bridge.[8]
 
 Current bridge
 
@@ -19,7 +19,7 @@ In 1986, then-state legislator John Lescoe introduced a bill to fund a feasibili
 
 Design
 
-Frog_Bridge,_December_2018.JPG The bridge is a simple compression iron arch bridge that crosses the Willimantic River and a railroad line owned by the New England Central Railroad. It carries South St. that connects to Route 32 and Route 66. It has 8 concrete thread spools, 4 with green-colored copper frogs, the frogs eye's have gold leaf covering it. Outside of the frogs, the bridge is more like a conventional highway bridge.[15]
+The bridge is a simple compression iron arch bridge that crosses the Willimantic River and a railroad line owned by the New England Central Railroad. It carries South St. that connects to Route 32 and Route 66. It has 8 concrete thread spools, 4 with green-colored copper frogs, the frogs eye's have gold leaf covering it. Outside of the frogs, the bridge is more like a conventional highway bridge.[15]
 
 
 References

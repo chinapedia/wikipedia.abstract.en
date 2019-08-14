@@ -78,7 +78,7 @@ Some major disease threats that livestock currently face include, rinderpest, fo
 
 Current state of the world's animal genetic resources
 
-AnGR.pngThe Food and Agriculture Organization of the United Nations (FAO) has taken initiative and published two global assessments of livestock biodiversity: _The State of the World's Animal Genetic Resources for Food and Agriculture_ (2007) and _The Second Report on the State of the World's Animal Genetic Resources for Food and Agriculture_ (2015). FAO_logo.svg Although many diverse species and breeds of animals are currently available for food and agricultural production, there is more work to be done on classifying their risk of extinction: in 2014, 17% of the world's farm animal breeds are at risk of extinction and 58% are of unknown risk status, meaning that the problem may be underestimated. The world's pool of animal genetic resources is also currently shrinking, with rapid and uncontrolled loss of breeds and conjointly their often uncharacterized genes. Nearly 100 livestock breeds have gone extinct between 2000 and 2014.[23] With the loss of these breeds comes the loss of their unique adaptive traits, which are often under the control of many different genes and complex interactions between the genotype and the environment.[24] In order to protect these unique traits, and the diversity they allow, collaborative global efforts towards the characterization and management of these genetic resources must be made. Unlike plants, which can be easily conserved in seed banks, a large portion of livestock genetic diversity relies on live populations and their interactions with the environment.
+The Food and Agriculture Organization of the United Nations (FAO) has taken initiative and published two global assessments of livestock biodiversity: _The State of the World's Animal Genetic Resources for Food and Agriculture_ (2007) and _The Second Report on the State of the World's Animal Genetic Resources for Food and Agriculture_ (2015). Although many diverse species and breeds of animals are currently available for food and agricultural production, there is more work to be done on classifying their risk of extinction: in 2014, 17% of the world's farm animal breeds are at risk of extinction and 58% are of unknown risk status, meaning that the problem may be underestimated. The world's pool of animal genetic resources is also currently shrinking, with rapid and uncontrolled loss of breeds and conjointly their often uncharacterized genes. Nearly 100 livestock breeds have gone extinct between 2000 and 2014.[23] With the loss of these breeds comes the loss of their unique adaptive traits, which are often under the control of many different genes and complex interactions between the genotype and the environment.[24] In order to protect these unique traits, and the diversity they allow, collaborative global efforts towards the characterization and management of these genetic resources must be made. Unlike plants, which can be easily conserved in seed banks, a large portion of livestock genetic diversity relies on live populations and their interactions with the environment.
 
 Progress is being made in the characterization and management of animal genetic resources for food and agriculture. Recent advances in molecular genetics have provided data on the history and current status of animal genetic resources. Genetic markers and molecular studies are being used to characterize livestock diversity and to reconstruct the events that have shaped the present diversity patterns, including ancestry, prehistoric and historical migrations, admixture, and genetic isolation.[25] Exploration of the past is essential to understand trends and to better characterize the current state of animal genetic resources. In 2009, six years after the completion of the human genome project, cattle became one of the first livestock species to have a fully mapped genome.[26]
 
@@ -99,8 +99,6 @@ Sustainable use of animal genetic resources
 
 There are many forms of livestock-keeping, that all have their own pros and cons in terms of maintaining genetic diversity. Systems range from completely human-controlled to wild. They differ in terms of animal management, animal treatment, environmental impact, and market infrastructure.
 
-Battery_hens_-Bastos,_Sao_Paulo,_Brazil-31March2007.jpg
-
 
 
         INDUSTRIAL LIVESTOCK PRODUCTION
@@ -117,8 +115,6 @@ Battery_hens_-Bastos,_Sao_Paulo,_Brazil-31March2007.jpg
 
         RANCHING OR GRASS-BASED PRODUCTION
         These systems revolve around access to privately owned or rented grasslands, which the ruminant livestock feed on. In general, the livestock keeper has a fixed home and animals move around the property as needed to obtain freshly grown grass.
-
-Fulani_herd_in_the_dust.jpg
 
 
 

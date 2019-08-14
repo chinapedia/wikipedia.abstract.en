@@ -9,8 +9,6 @@ See also
 
 -   Roman Catholicism in Poland
 
-Wnętrze_gotyckiej_katedry_w_Chełmży.JPG
-
 
 References
 

@@ -22,7 +22,7 @@ Production
 
 Filming
 
-Neil_Marshall_2006.JPG The episode was directed by Neil Marshall.[2] In the episode, Anthony Hopkins' character Dr. Robert Ford was depicted as a younger version of himself. For this to be done, effects supervisor Jay Worth collaborated with ILP, a Stockholm-based VFX studio. References were pulled from Hopkins' early acting career, when he was in his 30s and 40s.[3]
+The episode was directed by Neil Marshall.[2] In the episode, Anthony Hopkins' character Dr. Robert Ford was depicted as a younger version of himself. For this to be done, effects supervisor Jay Worth collaborated with ILP, a Stockholm-based VFX studio. References were pulled from Hopkins' early acting career, when he was in his 30s and 40s.[3]
 
 The scenes in which Elsie and Ashley track down a stray host who then self-destructs were filmed at Corriganville Park in Simi Valley, California.[4]
 

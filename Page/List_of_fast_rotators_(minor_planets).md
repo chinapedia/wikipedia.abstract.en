@@ -1,4 +1,4 @@
-LCDB_Period_vs._Diameter_Plot.pngs for 15,000 minor planets, plotted against their diameters. Most bodies have a period between 2 and 20 hours.[1]]]
+s for 15,000 minor planets, plotted against their diameters. Most bodies have a period between 2 and 20 hours.[1]]]
 
 This is a list of FAST ROTATORS—minor planets that have an exceptionally short rotation period, also called "rotation rate" or "spin rate". It is a fundamental standard physical property for minor planets. In this list the periods are sourced from the _Light Curve Data Base_ (LCDB),[2] and are given in both seconds and hours.
 

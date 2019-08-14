@@ -1,4 +1,4 @@
-Geordie_Robinson,_Morgan_Griffin_(8426802902).jpg at Hansel & Gretel: Witch Hunters premiere in Sydney, Australia]] GEORDIE ROBINSON (born 18 June 1987) is an Australian television, film and theatre actor known for his roles on the television series _Underbelly: Badness_ and _Winter_.
+at Hansel & Gretel: Witch Hunters premiere in Sydney, Australia]] GEORDIE ROBINSON (born 18 June 1987) is an Australian television, film and theatre actor known for his roles on the television series _Underbelly: Badness_ and _Winter_.
 
 Robinson's theatre roles include Green Cyc's production of _The Taming of the Shrew_ (2008), as well as starring as Laertes in the Q Theatre production of _Hamlet_, Sydney (2011).
 

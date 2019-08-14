@@ -9,12 +9,12 @@ Species
 
 The genus includes four species:[5]
 
-  Image                                                     Scientific name         Common Name         Distribution
-  --------------------------------------------------------- ----------------------- ------------------- --------------------------------------------------------------------------------------
-  2012_Photo_Contest_-_Wildlife_Category_(7944840384).jpg   _Antigone canadensis_   Sandhill crane      North America and extreme northeastern Siberia
-  White-naped_Crane_at_Saijyo_Ehime2.jpg                    _Antigone vipio_        White-naped crane   northeastern Mongolia, northeastern China, and adjacent areas of southeastern Russia
-  Sarus_crane_(Grus_antigone).jpg                           _Antigone antigone_     Sarus crane         Indian Subcontinent, Southeast Asia and Australia
-  Brolga-1-Healesville,-Vic,-3.1.2008.jpg                   _Antigone rubicunda_    Brolga              south-eastern Australia and New Guinea
+  Image   Scientific name         Common Name         Distribution
+  ------- ----------------------- ------------------- --------------------------------------------------------------------------------------
+          _Antigone canadensis_   Sandhill crane      North America and extreme northeastern Siberia
+          _Antigone vipio_        White-naped crane   northeastern Mongolia, northeastern China, and adjacent areas of southeastern Russia
+          _Antigone antigone_     Sarus crane         Indian Subcontinent, Southeast Asia and Australia
+          _Antigone rubicunda_    Brolga              south-eastern Australia and New Guinea
 
 
 

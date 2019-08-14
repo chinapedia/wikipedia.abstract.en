@@ -14,7 +14,7 @@ NON had the following units at its disposal to fight an attack by the Soviet Uni
 
 Commander Naval Forces North Norway
 
-Meløyvær_Fortress_Canon_B_-_Russøya.JPG 120mm Tornautomatpjäs m/70 automatic gun]]
+120mm Tornautomatpjäs m/70 automatic gun]]
 
 Naval Forces North Norway (NAVNON) was tasked with the defence of Northern Norway's coastal waters against Soviet naval incursions and amphibious landings. Operations in the ocean beyond Norway's coastal waters were under the command of NATO Supreme Allied Commander Atlantic's (SACLANT) Northern Sub-Area Command (NORLANT). Therefore NAVNON consisted of coastal artillery units and one fast attack craft squadron. The boats for the fast attack craft squadron were dispatched from units in Southern Norway on a rotational basis.
 
@@ -51,7 +51,7 @@ Naval Forces North Norway (NAVNON) was tasked with the defence of Northern Norwa
 
 Commander Air Forces North Norway
 
-F-16_at_Bodø_Main_Air_Station.jpg prepares to take off at Bodø Air Station during the exercise Alloy Express in 1982.]]
+prepares to take off at Bodø Air Station during the exercise Alloy Express in 1982.]]
 
 -   COMMANDER AIR FORCES NORTH NORWAY (AIRNON), commanded by a Norwegian major general:
     -   Control and Reporting Centre Sørreisa managed by the 131st Air Wing
@@ -77,7 +77,7 @@ F-16_at_Bodø_Main_Air_Station.jpg prepares to take off at Bodø Air Station dur
 
 Commander Land Forces North Norway
 
-2_norwegian_Leopard_tanks_in_the_snow.jpg tanks in Northern Norway in 1982]]
+tanks in Northern Norway in 1982]]
 
 -   COMMANDER LAND FORCES NORTH NORWAY (LANDNON), commanded by a Norwegian major general:
     -   6TH DIVISION in Harstad
@@ -139,7 +139,7 @@ Commander Land Forces North Norway
 
 Reinforcements
 
-FV107_Scimitar_COLD_WINTER_'87.JPEG Scimitar reconnaissance vehicle during exercise COLD WINTER '87 in Norway]]
+Scimitar reconnaissance vehicle during exercise COLD WINTER '87 in Norway]]
 
 NON would have been reinforced by the following Norwegian units from Allied Forces South Norway:
 
@@ -160,7 +160,7 @@ NON would have been reinforced by the following Norwegian units from Allied Forc
     -   Field Artillery Battalion with M114 155mm towed howitzers
     -   Reconnaissance Squadron
 
-Bjugn_Cave_Facility_in_Norway.JPEG Norway Air-Landed Marine Expeditionary Brigade (NALMEB) Prepositioning Program material at the Bjugn Cave Facility]] Starboard_bow_view_of_USS_Guadalcanal_(LPH-7)_during_exercise_TEAMWORK_92.jpg
+Norway Air-Landed Marine Expeditionary Brigade (NALMEB) Prepositioning Program material at the Bjugn Cave Facility]]
 
 NATO would have planned to reinforce Allied Forces North Norway with 2-7 days with the following allied formations:
 

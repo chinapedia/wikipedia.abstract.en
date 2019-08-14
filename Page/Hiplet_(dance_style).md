@@ -1,4 +1,4 @@
-Hiplet-_When_Ballet_Meets_Hip-Hop.webm.]]
+.]]
 
 HIPLET (pronounced ) is a newly recognized dance style that fuses ballet with hip hop. The term was first coined in 2009,[1] but in May 2016, dancers from the Chicago Multi-Cultural Dance Center (CMDC) performing hiplet gained widespread popularity after a video of the dancers attained thousands of views on Instagram.[2] ABC News subsequently invited the dancers to perform on a televised broadcast.[3] The creation of this genre is attributed to Homer Hans Bryant of the CMDC.[4] [5] The CMDC is currently the only studio in the world that trains dancers in hiplet.[6]
 

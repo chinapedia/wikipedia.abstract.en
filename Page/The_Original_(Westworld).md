@@ -18,11 +18,11 @@ Dolores wakes up the next day and greets her father, unaware he is a new host. A
 
 Production
 
-Jonathan_Nolan_&_Lisa_Joy_by_Gage_Skidmore.jpg "The Original" was written by series co-creators Jonathan Nolan and Lisa Joy, based on the premise of the 1973 film _Westworld_ by Michael Crichton.[2][3] The episode had a budget in the range of $25 million.[4]
+"The Original" was written by series co-creators Jonathan Nolan and Lisa Joy, based on the premise of the 1973 film _Westworld_ by Michael Crichton.[2][3] The episode had a budget in the range of $25 million.[4]
 
 Filming
 
-A280,_Castle_Valley,_Moab,_Utah,_USA,_2008.JPG in Utah was one of the filming locations for the episode.]] Directed by Nolan, "The Original" was filmed in August 2014 in and around Los Angeles, California.[5] Locations in California included Santa Clarita, at Melody Ranch in Newhall and at Paramount Ranch in Agoura.[6] The episode was also filmed in southern Utah, specially Castle Valley and Fisher Valley.[7][8]
+in Utah was one of the filming locations for the episode.]] Directed by Nolan, "The Original" was filmed in August 2014 in and around Los Angeles, California.[5] Locations in California included Santa Clarita, at Melody Ranch in Newhall and at Paramount Ranch in Agoura.[6] The episode was also filmed in southern Utah, specially Castle Valley and Fisher Valley.[7][8]
 
 Music
 

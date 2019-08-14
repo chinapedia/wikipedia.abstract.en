@@ -1,4 +1,4 @@
-Julius_Strasburger.jpg JULIUS STRASBURGER (26 December 1871, in Jena – 28 October 1934, in Frankfurt am Main) was a German internist. He was the son of botanist Eduard Strasburger (1844–1912).
+JULIUS STRASBURGER (26 December 1871, in Jena – 28 October 1934, in Frankfurt am Main) was a German internist. He was the son of botanist Eduard Strasburger (1844–1912).
 
 He studied medicine at the universities of Bonn and Freiburg, receiving his doctorate in 1894 at Bonn with the thesis _Die Sarcome des Dickdarms_ ("The Sarcomas of the Colon"). Following graduation, he served as an assistant to Carl Gerhardt at the second medical clinic in Berlin, and also as an assistant under Friedrich Schultze at the internal clinic in Bonn. In 1911 he became an associate professor at the University of Breslau, then in 1914 was named a full professor of internal medicine at the University of Frankfurt am Main. At Frankfurt, he also served as head of the institute for physical therapy.[1][2]
 

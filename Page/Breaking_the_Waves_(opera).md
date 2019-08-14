@@ -10,8 +10,6 @@ The opera will receive its European premiere on 21 August 2019 as part of the Ed
 
 Roles
 
-"Breaking_the_Waves"_at_Opera_Philadelphia_(29321427424).jpg
-
 +-------------------+---------------+----------------------------------------+----------------------------------------------------------------------+
 | Role              | Voice type    | World Premiere cast, 22 September 2016 | European Premiere cast, 21 August 2019 (Conductor: Stuart Stratford) |
 |                   |               | (Conductor: Steven Osgood)             |                                                                      |
@@ -45,7 +43,7 @@ Set in the Scottish Highlands in the early 1970s, _Breaking the Waves_ tells the
 
 Critical reception
 
-"Breaking_the_Waves"_at_Opera_Philadelphia_(29865450921).jpg _Breaking the Waves_ was widely seen by critics as a major success. It won the inaugural Best New Opera Award from the Music Critics Association of North America, and was shortlisted for "Best World Premiere" Prize at the International Opera Awards.[7]
+_Breaking the Waves_ was widely seen by critics as a major success. It won the inaugural Best New Opera Award from the Music Critics Association of North America, and was shortlisted for "Best World Premiere" Prize at the International Opera Awards.[7]
 
 "Missy Mazzoli's _Breaking the Waves_, which had its world premiere at Opera Philadelphia on Thursday, is savage, heartbreaking and thoroughly original. The 1996 Lars von Trier film on which it is based has a disturbing undercurrent of violent misogyny, but the operatic Bess McNeill, for all her frailties, is no victim. Classic tragic opera heroines may weep and die, but Bess, as conceived by Ms. Mazzoli and librettist Royce Vavrek, and sung by the extraordinary Kiera Duffy, is an evolving, unforgettable character." Heidi Waleson, _The Wall Street Journal_[8]
 

@@ -13,8 +13,6 @@ Design
 
 The land office was built in the Greek Revival architectural style; the architect is unknown. It is located in downtown White Pigeon.
 
-US_Land_Office_White_Pigeon_Side_Ariel.jpg
-
 
 References
 

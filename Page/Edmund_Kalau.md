@@ -17,7 +17,7 @@ Kalau and his wife arrived in Palau in January 1956.[10] Kalau established a Lut
 
 Pacific Missionary Aviation
 
-Pacific_Missionary_Aviation_logo.jpg A part of the Kalaus' missionary work in Micronesia involved ferrying sick people to district hospitals on the mainland. They established the Pacific Missionary Aviation (PMA) in 1974 to provide faster transport to the people of Micronesia.[14] This strained the Kalaus' relation with the Liebenzell Mission and they eventually severed ties.[15]
+A part of the Kalaus' missionary work in Micronesia involved ferrying sick people to district hospitals on the mainland. They established the Pacific Missionary Aviation (PMA) in 1974 to provide faster transport to the people of Micronesia.[14] This strained the Kalaus' relation with the Liebenzell Mission and they eventually severed ties.[15]
 
 The PMA started with a twin-engine plane.[16] It was incorporated in Guam on 24 April 1974 and began aviation services the next year.[17] It expanded to the Philippines in 1982 under the name Flying Medical Samaritans (FMS) to avoid confusion with the Philippine Military Academy.[18] By 1992, the PMA had eight aircraft and two medical vessels.[19] Edmund acted as president until 1999 when he gave the position to his son Norbert.[20]
 

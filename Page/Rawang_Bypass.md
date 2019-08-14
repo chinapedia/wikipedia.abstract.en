@@ -12,7 +12,7 @@ Along the FT37 highway, only two interchanges exist, with about three stub LILO 
 
 History
 
-Rawang_Bypass_1.jpg The Rawang Bypass FT37 project is a revival of the Kuala Lumpur Arah Serendah Expressway (KLAS), also known as the Kuala Lumpur–Rawang Expressway, which was scrapped due to the effect of the 1997 Asian financial crisis.[11] The project was initially supposed to be constructed as a controlled-access expressway that would run along the Federal Route 1 corridor, with LeKLAS Sdn. Bhd. being appointed as its concessionaire and constructor.[12]
+The Rawang Bypass FT37 project is a revival of the Kuala Lumpur Arah Serendah Expressway (KLAS), also known as the Kuala Lumpur–Rawang Expressway, which was scrapped due to the effect of the 1997 Asian financial crisis.[11] The project was initially supposed to be constructed as a controlled-access expressway that would run along the Federal Route 1 corridor, with LeKLAS Sdn. Bhd. being appointed as its concessionaire and constructor.[12]
 
 The project was revived by the federal government in 2005 as the Rawang Bypass project due to severe traffic congestion in Rawang.[13] However, the Rawang Bypass project was constructed not as a controlled-access toll expressway but rather as a limited-access divided highway. The contract of the RM628 million highway construction job was awarded to Syarikat Panzana Enterprise Sdn. Bhd.[14] Construction of the Rawang Bypass FT37 commenced on 16 July 2005.[15]
 

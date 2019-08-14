@@ -5,8 +5,6 @@ In addition to many achievements and contributions to military technological dev
 
 Education and early career
 
-John_Robert_Mills_aged_24.jpg
-
 Following his education at the Kingston upon Thames Grammar School he gained a BSc in physics at Kings College London in 1939 (The start of World War II) and later the same year he joined the Air Ministry Research Establishment in Dundee. In 1940 he moved to the Royal Aircraft Establishment (RAE) at Farnborough and in 1942 moved to the Telecommunications Research Establishment (TRE) in Malvern which later became the Radar Research Establishment (RRE) and later still the Royal Radar Establishment (RRE) where he stayed until 1960.[4]
 
 John Mills was part of a ground breaking group during the Second World War that established Radar as both a meaningful defence, particularly against enemy aircraft, and guidance technology. This included air navigation systems and later, as a member of the (Offensive) Airborne Radar Division at RRE, the development of infra-red and radar targeting and reconnaissance systems for the Royal Air Force and Royal Navy.
@@ -29,8 +27,6 @@ Mills was appointed Scientific Adviser to the Minister of Technology (The Rt. Ho
 
 1967–1976, SRDE
 
-JRM_1970.jpg
-
 During the period from 1967 to 1976, Mills was the director of the Signals Research and Development Establishment (SRDE) in Christchurch, Dorset where he was responsible for three major technical research and development areas:[8]
 
 1.  Night vision devices, mainly for the British Army where image intensifier technology was utilised in equipment from rifle sights to systems for tanks and other vehicles.[9]
@@ -41,8 +37,6 @@ In 1971, Mills was appointed a Fellow of the Institution of Electrical Engineers
 
 
 1976–1977, RSRE
-
-JRM_with_the_Queen.jpg
 
 The final chapter in Mills's career in the R&D business was a return to Malvern in 1976 as Deputy Director of the Royal Signals and Radar Establishment (RSRE) formed by merging RRE, SRDE and SERL (Services Electronic Research Laboratory formerly at Baldock, Hertfordshire) as part of the program to rationalise the defence establishments. His team continued to work on advanced military and satellite communications. Mills held this post until his retirement in 1977.[13]
 
